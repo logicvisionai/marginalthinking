@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Arquivo completo e pesquisável de research da Marginal Thinking, uma publicação da LOGV.">
+  <title>Research Archive — Marginal Thinking</title>
+  <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+<div class="site-shell">
+  <div class="top-rule"></div>
+  <header class="masthead">
+    <div class="container masthead-main">
+      <div class="header-meta">LOGV Research<br>Open analytical archive</div>
+      <a href="./index.html" class="brand"><div class="brand-mark">Marginal Thinking</div><div class="brand-sub">Global Macro · Political Economy · Geopolitics</div></a>
+      <div class="header-meta right">Research Archive<br>Search · Browse · Cite</div>
+    </div>
+    <div class="nav-row"><nav class="container nav" aria-label="Principal"><a href="./index.html">Overview</a><a href="./reports.html" aria-current="page">Research</a><a href="./methodology.html">Methodology</a><a href="./about.html">About</a></nav></div>
+  </header>
+
+  <main class="section archive-page">
+    <div class="container">
+      <div class="eyebrow">Research Archive</div>
+      <div class="section-head archive-heading">
+        <div><h2>Daily macro intelligence.</h2><p class="section-intro">Todas as edições permanecem públicas e versionadas. Pesquise por ativo, país, evento, instituição, tema macroeconômico ou risco geopolítico.</p></div>
+      </div>
+
+      <form class="archive-tools" id="archive-search-form" role="search">
+        <label class="search-field">
+          <span>Buscar no arquivo</span>
+          <input id="archive-search" type="search" autocomplete="off" placeholder="Ex.: petróleo, Selic, China, Treasury, Ucrânia…">
+        </label>
+        <label class="year-field">
+          <span>Ano</span>
+          <select id="archive-year"><option value="all">Todos os anos</option></select>
+        </label>
+        <button class="search-button" type="submit">Buscar</button>
+        <button class="clear-button" id="archive-clear" type="button">Limpar</button>
+      </form>
+
+      <div class="archive-status" id="research-results">
+        <div class="eyebrow">Results</div>
+        <div id="results-summary" aria-live="polite">Carregando arquivo…</div>
+      </div>
+      <div class="archive-list" id="archive-full"></div>
+      <nav class="pagination" id="pagination" aria-label="Paginação dos relatórios"></nav>
+    </div>
+  </main>
+
+  <footer class="footer"><div class="container footer-grid"><div><div class="footer-brand">Marginal Thinking</div><p>Uma publicação da LOGV.</p></div><div><p>Macro · Markets · Political Economy · Geopolitics</p></div><div><p>Conteúdo original: CC BY 4.0, salvo indicação em contrário.</p><small>© <span data-current-year></span> LOGV.</small></div></div></footer>
+</div>
+<script src="./assets/js/app.js"></script>
+</body>
+</html>
