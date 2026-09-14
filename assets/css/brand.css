@@ -11,6 +11,17 @@
   object-fit: contain;
   object-position: center;
 }
+
+/* Keeps archived report pages consistent without rewriting historical documents. */
+.nav a { font-size: 0; }
+.nav a::before { font-size: 10px; }
+.nav a[href$="index.html"]::before { content: "Início"; }
+.nav a[href$="reports.html"]::before { content: "Pesquisas"; }
+.nav a[href$="methodology.html"]::before { content: "Método"; }
+.nav a[href$="about.html"]::before { content: "Sobre"; }
+main.report-page + .footer .footer-grid > div:nth-child(2) p { font-size: 0; }
+main.report-page + .footer .footer-grid > div:nth-child(2) p::before { content: "Economia · Política · Sociedade"; font-size: 12px; }
+
 @media (max-width: 860px) {
   .brand { min-width: 0; }
   .brand-logo { width: min(390px, 90vw); max-height: 78px; }
