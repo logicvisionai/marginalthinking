@@ -1,35 +1,32 @@
 # Marginal Thinking
 
-Marginal Thinking é uma publicação da LOGV dedicada à análise de economia, política e sociedade, com foco em macroeconomia, mercados, economia política, geopolítica e risco estratégico.
+Marginal Thinking é uma publicação da LOGV dedicada a macroeconomia, mercados, economia política e geopolítica.
 
 ## Site
 
-O site é estático e publicado pelo Cloudflare Pages a partir da branch `main`.
+O site é estático e publicado via Cloudflare Workers Static Assets.
 
-O arquivo de pesquisas oferece busca client-side, filtro por ano e paginação. Cada edição pode disponibilizar HTML, Markdown, PDF e planilha XLSX de dados.
+Fluxo de produção:
 
-## Build no Cloudflare Pages
+1. `npm run build`
+2. `scripts/cloudflare-build.sh` gera `dist/`
+3. PDF e XLSX são restaurados em `dist/reports/...`
+4. Google Analytics é injetado em produção a partir de `PROD_GA_MEASUREMENT_ID`
+5. `wrangler deploy` publica somente `dist/`, conforme `wrangler.jsonc`
+
+O diretório de assets do Worker é explicitamente `./dist`. `node_modules`, `.wrangler` e o próprio diretório `dist` são ignorados pelo Git.
+
+## Cloudflare
 
 Configuração esperada:
 
 - Production branch: `main`
 - Build command: `npm run build`
-- Build output directory: `dist`
-- Variável de produção: `PROD_GA_MEASUREMENT_ID=G-XXXXXXXXXX`
+- Deploy command: `npx wrangler deploy`
+- Root directory: raiz do repositório
+- Production variable: `PROD_GA_MEASUREMENT_ID=G-...`
 
-O build executa `scripts/cloudflare-build.sh`, que:
-
-1. monta o diretório `dist`;
-2. reconstrói PDF/XLSX armazenados em `.packed-assets`;
-3. injeta o Google Analytics 4 em todas as páginas HTML do deploy de produção;
-4. não carrega Analytics em previews;
-5. falha o deploy de produção se `PROD_GA_MEASUREMENT_ID` estiver ausente ou não tiver formato GA4 válido.
-
-O Measurement ID do GA4 é incorporado ao JavaScript publicado, como esperado para o Google Analytics. Ele não deve ser tratado como segredo.
-
-## Assets binários
-
-O arquivo `.packed-assets/manifest.tsv` relaciona cada conjunto de partes Base64 ao caminho final dentro de `dist`. Novas edições com PDF/XLSX devem adicionar suas entradas ao manifesto.
+O nome do Worker no painel Cloudflare deve corresponder ao campo `name` de `wrangler.jsonc` (`marginalthinking`).
 
 ## Licenças
 
