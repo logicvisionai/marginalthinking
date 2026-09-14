@@ -4,7 +4,7 @@ const MT = {
   async loadReports() {
     try {
       const res = await fetch('./data/reports.json', { cache: 'no-store' });
-      if (!res.ok) throw new Error('reports.json unavailable');
+      if (!res.ok) throw new Error('reports.json indisponível');
       const reports = await res.json();
       return Array.isArray(reports)
         ? reports.sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')))
@@ -63,7 +63,7 @@ const MT = {
     if (!target) return;
     const selected = limit ? reports.slice(0, limit) : reports;
     target.innerHTML = selected.map(r => this.reportRow(r)).join('') ||
-      `<div class="empty-state">Nenhuma edição publicada ainda.</div>`;
+      `<div class="empty-state">Ainda não há pesquisas publicadas neste arquivo.</div>`;
   },
 
   reportRow(r) {
@@ -78,7 +78,7 @@ const MT = {
           ${deck ? `<p class="report-summary">${deck}</p>` : ''}
         </div>
         <div class="report-tags">${tags}</div>
-        <a class="report-link" href="${this.escape(r.url)}">Ler briefing →</a>
+        <a class="report-link" href="${this.escape(r.url)}">Abrir pesquisa →</a>
       </article>`;
   },
 
@@ -98,7 +98,7 @@ const MT = {
       if (el) el.textContent = value;
     });
     const link = document.getElementById('latest-link');
-    if (link) { link.href = latest.url; link.textContent = 'Ler último briefing'; }
+    if (link) { link.href = latest.url; link.textContent = 'Abrir pesquisa'; }
   },
 
   hydrateArchiveState() {
@@ -148,12 +148,12 @@ const MT = {
     const start = (this.state.page - 1) * this.state.pageSize;
     const pageRows = filtered.slice(start, start + this.state.pageSize);
     target.innerHTML = pageRows.map(r => this.reportRow(r)).join('') ||
-      `<div class="empty-state"><strong>Nenhum relatório encontrado.</strong><br>Tente remover filtros ou usar termos mais amplos.</div>`;
+      `<div class="empty-state"><strong>Nenhuma pesquisa encontrada.</strong><br>Tente remover filtros ou usar um termo mais amplo.</div>`;
 
     const summary = document.getElementById('results-summary');
     if (summary) {
-      if (!filtered.length) summary.textContent = '0 relatórios';
-      else summary.textContent = `${start + 1}–${Math.min(start + this.state.pageSize, filtered.length)} de ${filtered.length} relatórios`;
+      if (!filtered.length) summary.textContent = '0 publicações';
+      else summary.textContent = `${start + 1}–${Math.min(start + this.state.pageSize, filtered.length)} de ${filtered.length} publicações`;
     }
     this.renderPagination(totalPages);
     this.syncURL();
