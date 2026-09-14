@@ -1,37 +1,16 @@
 # Marginal Thinking
 
-**Marginal Thinking** is a LOGV publication focused on global macroeconomics, markets, political economy and geopolitics.
+Marginal Thinking é uma publicação da LOGV dedicada a macroeconomia, mercados, economia política e geopolítica.
 
-The repository is both the publication source and the historical archive. Every daily briefing is retained as a dated, versioned document and indexed by the public website.
+## Site
 
-## Public archive
+O site é estático e publicado via GitHub Pages. O arquivo de research oferece busca client-side, filtro por ano e paginação de 12 relatórios por página.
 
-The site exposes all published daily reports with:
+Cada edição pode disponibilizar HTML, Markdown, PDF e planilha XLSX de dados. Os binários de publicação são reconstruídos no workflow de Pages antes do deploy.
 
-- full archive ordered by date;
-- client-side search across report metadata and indexed report text;
-- year filtering;
-- pagination;
-- permanent URLs for each briefing;
-- auditable Git history.
+## Licenças
 
-## Repository structure
-
-```text
-assets/                  Site CSS and JavaScript
-data/reports.json        Searchable report catalog
-reports/YYYY/MM/         Daily HTML and Markdown briefings
-index.html               Publication homepage
-reports.html             Searchable/paginated archive
-methodology.html         Analytical methodology
-about.html               Publication information
-```
-
-## Licensing
-
-- software: Apache-2.0;
-- original LOGV editorial content: CC BY 4.0 unless otherwise noted;
-- LOGV / Marginal Thinking marks and visual identity: not licensed;
-- third-party material: governed by its original terms and licenses.
-
-See `LICENSE`, `LICENSE-CONTENT.md`, `THIRD-PARTY-NOTICES.md` and `TRADEMARKS.md`.
+- Código do site: Apache-2.0.
+- Conteúdo editorial original LOGV/Marginal Thinking: CC BY 4.0, salvo indicação em contrário.
+- Marcas, nomes e identidade visual LOGV/Marginal Thinking não são licenciados pelas licenças acima.
+- Materiais de terceiros permanecem sujeitos aos direitos e termos das respectivas fontes.
