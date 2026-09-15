@@ -10,6 +10,19 @@ const reports=collectReports(cwd);
 const pagePath=(locale,p)=>{const prefix=cfg.locales[locale]?.path?`/${cfg.locales[locale].path}`:'';return `${prefix}${p}`.replace(/\/+/g,'/');};
 const relFile=p=>String(p).replace(/^\//,'').replace(/\/$/,'/index.html');
 const files=walk(root),html=files.filter(x=>x.endsWith('.html'));
+const editorialBlockers=[
+  /quem controla os gargalos necessários/i,
+  /controle de gargalos/i,
+  /funil causal/i,
+  /preço de controle do sistema/i,
+  /gargalo marginal/i,
+  /principal reservatório financeiro/i,
+  /claims bancários cross-border/i,
+  /\bcollateral\b/i,
+  /\bmidstream\b/i,
+  /captura desigual do valor/i,
+  /poder de captura de renda/i
+];
 for(const file of html){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
   if(!/<html\s+lang="[^"]+"/i.test(s))fail.push(`${rel}: html lang ausente`);
@@ -29,6 +42,7 @@ for(const file of html){
     if(!/author-signature/i.test(s)&&!/noindex,follow/i.test(s))fail.push(`${rel}: assinatura editorial ausente`);
     const visible=s.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<pre[\s\S]*?<\/pre>/gi,'').replace(/<code[\s\S]*?<\/code>/gi,'');
     if(/\*\*[^<\n]*$|__[^<\n]*$/m.test(visible))warn.push(`${rel}: possível marcador markdown residual`);
+    if(rel.startsWith('pt-br/reports/'))for(const rx of editorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial bloqueada (${rx})`);
   }
 }
 for(const required of ['sitemap.xml','robots.txt','feed.xml','index.html','reports.html','pt-br/index.html','pt-br/reports.html','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/css/mobile-nav-fix.css'])if(!fs.existsSync(path.join(root,required)))fail.push(`${required}: artefato gerado ausente`);
@@ -39,6 +53,10 @@ for(const item of reports){
     const expected=path.join(root,relFile(pagePath(locale,item.url)));
     if(!fs.existsSync(expected))fail.push(`${item.id}/${locale}: HTML gerado ausente (${path.relative(root,expected)})`);
   }
+}
+for(const file of files.filter(x=>x.endsWith('.md')&&!x.endsWith('/en.md'))){
+  const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
+  for(const rx of editorialBlockers)if(rx.test(s))fail.push(`${rel}: formulação editorial bloqueada no Markdown público (${rx})`);
 }
 const languageCss=path.join(root,'assets/css/language-switch.css');
 if(fs.existsSync(languageCss)){
@@ -57,4 +75,4 @@ if(fs.existsSync(navCss)){
 }
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
-console.log(`Rendered output validation OK: ${html.length} HTML pages; ${reports.length} bilingual reports; list markers normalized; mobile/overflow guardrails present.`);
+console.log(`Rendered output validation OK: ${html.length} HTML pages; ${reports.length} bilingual reports; editorial language and layout guardrails present.`);
