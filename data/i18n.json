@@ -1,5 +1,7 @@
 {
   "en": {
+    "language_label": "Language",
+    "country": "Brazil",
     "site_description": "Independent research on macroeconomics, political economy, geopolitics, capital and power.",
     "utility": "Independent research · LOGV Research",
     "nav": {"home":"Home","research":"Research","method":"Method","about":"About","open":"Open research","menu":"Open menu"},
@@ -32,13 +34,15 @@
         {"title":"Revision and uncertainty","paragraphs":["Publication time, revision time and confidence are preserved when available. Recoverable formatting errors are normalized automatically; missing evidence or missing source files block publication."]}
       ]
     },
-    "about": {"eyebrow":"ABOUT","title":"Marginal Thinking","deck":"An independent LOGV Research project focused on economics, politics and society.","sections":[{"title":"What we do","text":"We publish research on macroeconomics, markets, political economy, geopolitics and the movement of capital and strategic resources."},{"title":"What we do not do","text":"The site is not a headline newsletter and does not provide individualized investment advice. Speed does not replace method, and unresolved evidence remains unresolved."},{"title":"Public archive","text":"Research remains available in HTML and auditable Markdown, with language-specific editions when translations exist."}]},
-    "report": {"in_this":"In this research","regime":"Regime","risk":"Key risk","watch":"Watch","authorship":"Authorship","cite":"How to cite","related":"Related research","archive":"Full archive","publication":"Publication","author":"Author","canonical":"Canonical HTML · auditable Markdown","source":"Markdown source","updated":"Updated","research":"Research","translation_missing":"This legacy research is currently available in Portuguese.","read_translation":"Read the Portuguese edition","copy_citation":"Copy citation","copied":"Copied"},
+    "about": {"eyebrow":"ABOUT","title":"Marginal Thinking","deck":"An independent LOGV Research project focused on economics, politics and society.","sections":[{"title":"What we do","text":"We publish research on macroeconomics, markets, political economy, geopolitics and the movement of capital and strategic resources."},{"title":"What we do not do","text":"The site is not a headline newsletter and does not provide individualized investment advice. Speed does not replace method, and unresolved evidence remains unresolved."},{"title":"Public archive","text":"Research remains available in HTML and auditable Markdown, with complete English and Brazilian Portuguese editions."}]},
+    "report": {"in_this":"In this research","regime":"Regime","risk":"Key risk","watch":"Watch","authorship":"Authorship","cite":"How to cite","related":"Related research","archive":"Full archive","publication":"Publication","author":"Author","canonical":"Canonical HTML · auditable Markdown","source":"Markdown source","updated":"Updated","research":"Research","translation_missing":"A translation is not available for this research.","read_translation":"Read available edition","copy_citation":"Copy citation","copied":"Copied"},
     "author": {"eyebrow":"AUTHOR","description":"Researcher and author at Marginal Thinking. Publications on macroeconomics, political economy, geopolitics, capital and power.","publications":"Publications"},
     "topic": {"eyebrow":"TOPIC","description_prefix":"Marginal Thinking research related to"},
     "not_found": {"title":"Page not found","text":"The requested page does not exist or has moved.","action":"Open research archive"}
   },
   "pt-BR": {
+    "language_label": "Idioma",
+    "country": "Brasil",
     "site_description": "Pesquisa independente sobre macroeconomia, economia política, geopolítica, capital e poder.",
     "utility": "Pesquisa independente · LOGV Research",
     "nav": {"home":"Início","research":"Pesquisas","method":"Método","about":"Sobre","open":"Abrir pesquisas","menu":"Abrir menu"},
@@ -71,8 +75,8 @@
         {"title":"Revisão e incerteza","paragraphs":["Horário de publicação, revisão e nível de confiança são preservados quando disponíveis. Erros recuperáveis de formatação são normalizados automaticamente; falta de evidência ou de arquivos-fonte bloqueia a publicação."]}
       ]
     },
-    "about": {"eyebrow":"SOBRE","title":"Marginal Thinking","deck":"Projeto de pesquisa independente da LOGV Research dedicado a economia, política e sociedade.","sections":[{"title":"O que fazemos","text":"Publicamos pesquisas sobre macroeconomia, mercados, economia política, geopolítica e movimentação de capital e recursos estratégicos."},{"title":"O que não fazemos","text":"O site não é uma newsletter de manchetes e não produz recomendação personalizada de investimento. Velocidade não substitui método; evidência inconclusiva permanece inconclusiva."},{"title":"Arquivo público","text":"As pesquisas permanecem disponíveis em HTML e Markdown auditável, com edições específicas por idioma quando houver tradução."}]},
-    "report": {"in_this":"Nesta pesquisa","regime":"Regime","risk":"Risco principal","watch":"Acompanhar","authorship":"Autoria","cite":"Como citar","related":"Pesquisas relacionadas","archive":"Arquivo completo","publication":"Publicação","author":"Autor","canonical":"HTML canônico · Markdown auditável","source":"Fonte Markdown","updated":"Atualizado","research":"Pesquisa","translation_missing":"Esta pesquisa histórica ainda está disponível apenas em português.","read_translation":"Ler edição em português","copy_citation":"Copiar citação","copied":"Copiado"},
+    "about": {"eyebrow":"SOBRE","title":"Marginal Thinking","deck":"Projeto de pesquisa independente da LOGV Research dedicado a economia, política e sociedade.","sections":[{"title":"O que fazemos","text":"Publicamos pesquisas sobre macroeconomia, mercados, economia política, geopolítica e movimentação de capital e recursos estratégicos."},{"title":"O que não fazemos","text":"O site não é uma newsletter de manchetes e não produz recomendação personalizada de investimento. Velocidade não substitui método; evidência inconclusiva permanece inconclusiva."},{"title":"Arquivo público","text":"As pesquisas permanecem disponíveis em HTML e Markdown auditável, com edições completas em inglês e português brasileiro."}]},
+    "report": {"in_this":"Nesta pesquisa","regime":"Regime","risk":"Risco principal","watch":"Acompanhar","authorship":"Autoria","cite":"Como citar","related":"Pesquisas relacionadas","archive":"Arquivo completo","publication":"Publicação","author":"Autor","canonical":"HTML canônico · Markdown auditável","source":"Fonte Markdown","updated":"Atualizado","research":"Pesquisa","translation_missing":"Não há tradução disponível para esta pesquisa.","read_translation":"Ler edição disponível","copy_citation":"Copiar citação","copied":"Copiado"},
     "author": {"eyebrow":"AUTOR","description":"Pesquisador e autor da Marginal Thinking. Publicações sobre macroeconomia, economia política, geopolítica, capital e poder.","publications":"Publicações"},
     "topic": {"eyebrow":"TEMA","description_prefix":"Pesquisas da Marginal Thinking relacionadas a"},
     "not_found": {"title":"Página não encontrada","text":"A página solicitada não existe ou foi movida.","action":"Abrir arquivo de pesquisas"}
