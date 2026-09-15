@@ -3,28 +3,38 @@ const $$=(s,r=document)=>[...r.querySelectorAll(s)];
 
 function initMobileNav(){
   const btn=$('.menu-toggle'),menu=$('#mobile-menu');if(!btn||!menu)return;
+  const header=btn.closest('.site-header');
   const isOpen=()=>btn.getAttribute('aria-expanded')==='true';
+  const syncMenuTop=()=>{
+    if(!header)return;
+    const rect=header.getBoundingClientRect();
+    const top=Math.max(0,Math.min(window.innerHeight,rect.bottom));
+    menu.style.setProperty('--mobile-menu-top',`${Math.round(top)}px`);
+  };
   const close=(restoreFocus=false)=>{
     if(!isOpen()&&!menu.classList.contains('open'))return;
     btn.setAttribute('aria-expanded','false');
     menu.classList.remove('open');
     menu.setAttribute('aria-hidden','true');
-    document.body.classList.remove('menu-open');
     if(restoreFocus)btn.focus({preventScroll:true});
   };
   const open=()=>{
+    syncMenuTop();
     btn.setAttribute('aria-expanded','true');
     menu.classList.add('open');
     menu.setAttribute('aria-hidden','false');
-    document.body.classList.add('menu-open');
     requestAnimationFrame(()=>$('.mobile-menu-inner a',menu)?.focus({preventScroll:true}));
   };
+  document.body.appendChild(menu);
   menu.setAttribute('aria-hidden','true');
   btn.addEventListener('click',e=>{e.stopPropagation();isOpen()?close():open();});
   $$('a',menu).forEach(a=>a.addEventListener('click',()=>close()));
   document.addEventListener('click',e=>{if(isOpen()&&!menu.contains(e.target)&&!btn.contains(e.target))close();});
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&isOpen())close(true);});
-  addEventListener('resize',()=>{if(innerWidth>860)close();},{passive:true});
+  addEventListener('resize',()=>{if(innerWidth>860)close();else if(isOpen())syncMenuTop();},{passive:true});
+  addEventListener('scroll',()=>{if(isOpen())syncMenuTop();},{passive:true});
+  window.visualViewport?.addEventListener('resize',()=>{if(isOpen())syncMenuTop();},{passive:true});
+  window.visualViewport?.addEventListener('scroll',()=>{if(isOpen())syncMenuTop();},{passive:true});
 }
 function initArchive(){
   const list=$('#archive-list'),search=$('#search-input'),year=$('#year-select'),kind=$('#kind-select'),pager=$('#pager'),count=$('#results-count');if(!list||!search||!year||!kind)return;

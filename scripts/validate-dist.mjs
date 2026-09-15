@@ -14,7 +14,7 @@ for(const file of html){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
   if(!/<html\s+lang="[^"]+"/i.test(s))fail.push(`${rel}: html lang ausente`);
   if(!/<meta\s+name="viewport"/i.test(s))fail.push(`${rel}: viewport ausente`);
-  for(const css of ['language-switch.css','layout-guardrails.css'])if(!new RegExp(`<link\\s+rel="stylesheet"\\s+href="\\/assets\\/css\\/${css.replace('.','\\.')}`,'i').test(s))fail.push(`${rel}: stylesheet ${css} ausente`);
+  for(const css of ['language-switch.css','layout-guardrails.css','mobile-nav-fix.css'])if(!new RegExp(`<link\\s+rel="stylesheet"\\s+href="\\/assets\\/css\\/${css.replace('.','\\.')}`,'i').test(s))fail.push(`${rel}: stylesheet ${css} ausente`);
   if(!/<div class="language-switch"/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: seletor de idioma ausente`);
   if(!/<h1[\s>]/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: H1 ausente`);
   if(/Carregando pesquisa|Loading research/i.test(s))fail.push(`${rel}: conteúdo dependente de client-side renderer`);
@@ -31,7 +31,7 @@ for(const file of html){
     if(/\*\*[^<\n]*$|__[^<\n]*$/m.test(visible))warn.push(`${rel}: possível marcador markdown residual`);
   }
 }
-for(const required of ['sitemap.xml','robots.txt','feed.xml','index.html','reports.html','pt-br/index.html','pt-br/reports.html','assets/css/language-switch.css','assets/css/layout-guardrails.css'])if(!fs.existsSync(path.join(root,required)))fail.push(`${required}: artefato gerado ausente`);
+for(const required of ['sitemap.xml','robots.txt','feed.xml','index.html','reports.html','pt-br/index.html','pt-br/reports.html','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/css/mobile-nav-fix.css'])if(!fs.existsSync(path.join(root,required)))fail.push(`${required}: artefato gerado ausente`);
 for(const item of reports){
   const locales=availableLocales(item);
   for(const locale of ['en','pt-BR']){
@@ -48,7 +48,12 @@ if(fs.existsSync(languageCss)){
 const guardCss=path.join(root,'assets/css/layout-guardrails.css');
 if(fs.existsSync(guardCss)){
   const css=fs.readFileSync(guardCss,'utf8');
-  for(const token of ['.mobile-menu{position:absolute','overflow-wrap:anywhere','.citation-actions','.md-table-wrap'])if(!css.replace(/\s+/g,'').includes(token.replace(/\s+/g,'')))fail.push(`layout-guardrails.css: proteção ausente ${token}`);
+  for(const token of ['overflow-wrap:anywhere','.citation-actions','.md-table-wrap'])if(!css.replace(/\s+/g,'').includes(token.replace(/\s+/g,'')))fail.push(`layout-guardrails.css: proteção ausente ${token}`);
+}
+const navCss=path.join(root,'assets/css/mobile-nav-fix.css');
+if(fs.existsSync(navCss)){
+  const css=fs.readFileSync(navCss,'utf8').replace(/\s+/g,'');
+  for(const token of ['.mobile-menu{position:fixed','top:var(--mobile-menu-top','body.menu-open{overflow:visible'])if(!css.includes(token.replace(/\s+/g,'')))fail.push(`mobile-nav-fix.css: proteção ausente ${token}`);
 }
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
