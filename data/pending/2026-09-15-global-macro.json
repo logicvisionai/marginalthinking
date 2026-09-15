@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "ready": true,
+  "id": "MT-GM-2026-09-15",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T08:12:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "title": "Global Macro, Markets & Political Risk — 15/09/2026",
+  "deck": "Petróleo em US$107–108, Treasury de 10 anos até 5,04% e dólar forte transformam a disrupção energética em choque de custo de capital; crédito ainda não confirma crise sistêmica.",
+  "homepage_title": "Energia, juros e segurança encarecem juntos",
+  "homepage_deck": "O funil do dia liga infraestrutura saudita, petróleo, inflação, Treasury acima de 5%, dólar e rotação defensiva — enquanto China e Europa revelam restrições políticas próprias.",
+  "url": "/reports/2026/09/2026-09-15-global-macro.html",
+  "markdown_url": "/reports/2026/09/2026-09-15-global-macro.md",
+  "tags": ["Global Macro", "Cross-Asset", "Brasil", "Estados Unidos", "Europa", "China", "Oriente Médio", "Energia", "Risco Político", "Fluxos de Riqueza"],
+  "keywords": ["Treasury 10Y", "Fed", "Brent", "Hormuz", "East-West Pipeline", "DXY", "Ibovespa", "USD/BRL", "China", "Europa", "crédito", "ouro", "Bitcoin", "café", "transferência de riqueza", "reservas", "geopolítica"],
+  "regime": "Choque de oferta energético + aperto global de condições financeiras + rotação defensiva, sem confirmação de crise sistêmica de crédito",
+  "key_risk": "Persistência do choque energético elevar term premium, contaminar crédito e transformar repricing de duration em desalavancagem",
+  "watch": ["UST 10Y acima/abaixo de 5%", "Brent e capacidade do East-West Pipeline/Hormuz", "spreads de crédito HY/IG", "DXY e EM FX", "Fed 16/09", "Copom 16/09"],
+  "search_text": "global macro cross asset 15 setembro 2026 Treasury 5 por cento Fed petróleo Brent WTI Hormuz Saudi East-West pipeline dólar DXY EUR USD JPY Brasil Ibovespa real DI Selic Petrobras Vale bancos China indústria imóveis Europa França sanções Rússia ouro Bitcoin Ethereum café açúcar soja milho trigo boi crédito VIX MOVE riqueza reservas transferência de renda energia segurança ciência política geopolítica cenários",
+  "source_policy": "primary-first; triangulation; no invented prices; last close explicitly identified when live primary snapshot unavailable"
+}
