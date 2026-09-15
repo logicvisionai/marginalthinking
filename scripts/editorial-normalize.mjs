@@ -6,8 +6,9 @@ if(!fs.existsSync(root)){console.error('FAIL dist ausente para normalização ed
 
 const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>{const p=path.join(dir,e.name);return e.isDirectory()?walk(p):[p];});
 
-// Correções editoriais de formulações já presentes no acervo. O objetivo é
-// preservar fatos, números e conclusões, mas explicitar o mecanismo econômico.
+// Compatibility pass for Portuguese editions already in the archive.
+// It changes wording only: facts, figures and analytical conclusions are preserved.
+// English editions, URLs, HTML attributes and code blocks are deliberately untouched.
 const replacements=[
   ['O sistema global está sendo conduzido por um funil causal relativamente claro. A primeira camada é física: ataques e interrupções na infraestrutura energética saudita reduziram a redundância disponível para contornar o Estreito de Hormuz. A segunda é nominal: Brent voltou à região de US$107–108 e elevou o risco de inflação de combustíveis, frete e produção. A terceira é monetária: o Treasury de 10 anos superou 5% e o mercado passou a tratar uma alta de 25 pb pelo Fed como cenário amplamente dominante. A quarta é financeira: dólar se fortalece, tecnologia e small caps sofrem com duration e custo de capital, enquanto ouro não funciona plenamente como hedge porque yields reais/nominais altos competem com o metal. A quinta é política: governos precisam escolher entre absorver o choque via subsídios/fiscal, permitir repasse de preços ou tolerar desaceleração maior.','A transmissão do choque pode ser descrita de forma direta. Ataques e interrupções na infraestrutura energética saudita reduziram as rotas alternativas ao Estreito de Hormuz. O Brent voltou à região de US$107–108, elevando custos de combustível, transporte e produção e, com isso, o risco de inflação. Diante desse quadro, o Treasury de 10 anos superou 5% e o mercado passou a considerar uma alta de 25 pb pelo Fed como o cenário mais provável. Juros mais altos fortalecem o dólar e pressionam principalmente ações sensíveis ao custo de capital. O ouro, por sua vez, recebe menos demanda como proteção quando títulos oferecem rendimentos elevados. Para os governos, a escolha passa a ser entre deixar o aumento de custos chegar ao consumidor, absorver parte dele por meio de medidas fiscais ou aceitar uma desaceleração maior da atividade.'],
   ['A tese central é que **o mundo está pagando mais caro simultaneamente por energia, dinheiro e segurança**. O petróleo representa a camada física; o Treasury acima de 5%, a camada financeira; defesa, autonomia tecnológica e rotas estratégicas, a camada política. Quando essas três camadas sobem juntas, o crescimento nominal pode permanecer alto enquanto o crescimento real e o valor presente dos ativos sofrem.','A tese central é que **energia, financiamento e segurança ficaram simultaneamente mais caros**. Petróleo elevado encarece produção e transporte; Treasury acima de 5% aumenta o custo de financiamento e reduz o valor presente de ativos; maiores gastos com defesa, autonomia tecnológica e proteção de rotas exigem recursos públicos e privados adicionais. Quando esses custos aumentam ao mesmo tempo, a atividade real e os preços dos ativos podem enfraquecer mesmo que o crescimento nominal permaneça elevado.'],
@@ -55,30 +56,35 @@ const replacements=[
   ['claims cross-border','ativos transfronteiriços'],
   ['claims financeiros','direitos financeiros'],
   ['um claim sobre renda futura','um direito financeiro sobre renda futura'],
-  ['collateral','garantias financeiras'],
-  ['clearing','liquidação financeira'],
-  ['midstream','processamento intermediário'],
+  ['collateral e canais de liquidez','garantias financeiras e canais de liquidez'],
+  ['acesso a clearing','acesso a sistemas de liquidação financeira'],
+  ['a renda marginal migrou da simples posse da jazida para o midstream.','uma parcela maior da renda passou a permanecer nas etapas de processamento e refino, e não apenas com quem possui a jazida.'],
+  ['Modelo industrial-midstream chinês','Modelo industrial e de processamento intermediário chinês'],
   ['fees, impostos, talento e informação','taxas e receitas de intermediação, impostos, talento e informação'],
-  ['private markets','mercados privados'],
-  ['buffers cambiais','reservas cambiais'],
+  ['private markets e IA','mercados privados e IA'],
+  ['buffers cambiais asiáticos','reservas cambiais asiáticas'],
   ['grande buffer externo','reservas externas elevadas'],
   ['Fluxos asiáticos seguem divergentes.','Os fluxos financeiros na Ásia seguem direções diferentes.'],
   ['O delta de hoje','A principal mudança de hoje'],
   ['**Delta.**','**Mudança desde a edição anterior.**'],
   ['informação cross-asset','informação obtida pela comparação entre classes de ativos'],
+  ['Mapa cross-asset','Comparação entre classes de ativos'],
   ['mapa cross-asset','comparação entre classes de ativos'],
-  ['funding','financiamento'],
-  ['repricing','reprecificação'],
-  ['term premium','prêmio de prazo'],
+  ['ruptura generalizada de funding','ruptura generalizada nas condições de financiamento'],
+  ['crise generalizada de crédito/funding','crise generalizada de crédito ou financiamento'],
+  ['repricing de inflação/term premium','reprecificação da inflação e do prêmio de prazo'],
+  ['repricing de taxa','reprecificação dos juros'],
   ['equity duration','ações mais sensíveis aos juros de longo prazo'],
   ['private credit','crédito privado'],
   ['small caps','ações de empresas de menor capitalização'],
-  ['upstream','exploração e produção'],
+  ['duration e custo de capital','sensibilidade aos juros de longo prazo e custo de capital'],
+  ['yields reais/nominais altos','juros reais e nominais elevados'],
+  ['energia e yields','energia e juros longos'],
+  ['yields de 5%','juros de 5%'],
+  ['equities fracas','ações fracas'],
   ['proxy linear','relação direta'],
-  ['lead times','prazos de entrega'],
-  ['inventories','estoques'],
-  ['treatment charges','taxas de tratamento'],
-  ['market cap','capitalização de mercado'],
+  ['lead times, inventories, treatment charges','prazos de entrega, estoques e taxas de tratamento'],
+  ['market cap e contas nacionais','capitalização de mercado e contas nacionais'],
   ['rents tecnológicos','margens associadas a tecnologia proprietária'],
   ['captura de margem','retenção de margens'],
   ['capturar a margem','reter uma parcela maior da margem'],
@@ -92,31 +98,44 @@ const replacements=[
 ];
 
 function replaceAll(text,from,to){return text.split(from).join(to);}
-
 function firstTerm(text,term,replacement){
   const i=text.indexOf(term);if(i<0)return text;
   return text.slice(0,i)+replacement+text.slice(i+term.length);
 }
-
-function normalize(text){
+function transformText(text){
   let out=text;
   for(const [from,to] of replacements)out=replaceAll(out,from,to);
-  // Na primeira ocorrência, explique abreviações comuns quando a edição ainda não o faz.
   out=firstTerm(out,'projetos greenfield','novos projetos (greenfield)');
   out=firstTerm(out,'greenfield mundial','novos projetos (greenfield) no mundo');
   out=firstTerm(out,'capex de','investimento de capital (capex) de');
   out=firstTerm(out,'carry elevado','diferencial de juros elevado (carry)');
-  out=firstTerm(out,'duration e custo de capital','sensibilidade a juros de longo prazo e custo de capital');
   out=firstTerm(out,'hedge externo','proteção contra o cenário externo');
-  out=firstTerm(out,'valuation e','precificação e');
   out=firstTerm(out,'valuation agregado','avaliação agregada');
   return out;
 }
+function transformOutsideUrls(text){
+  return text.split(/(https?:\/\/[^\s<>"')\]]+)/g).map(part=>/^https?:\/\//.test(part)?part:transformText(part)).join('');
+}
+function normalizeMarkdown(text){
+  return text.split(/(```[\s\S]*?```)/g).map(part=>part.startsWith('```')?part:transformOutsideUrls(part)).join('');
+}
+function normalizeHtml(text){
+  const protectedBlock=/(<(?:script|style|pre|code)\b[\s\S]*?<\/(?:script|style|pre|code)>|<[^>]+>)/gi;
+  return text.split(protectedBlock).map(part=>part.startsWith('<')?part:transformText(part)).join('');
+}
+function shouldNormalize(rel){
+  if(rel.startsWith('pt-br/')&&rel.endsWith('.html'))return true;
+  if(/^reports\/\d{4}\/\d{2}\/[^/]+\.md$/i.test(rel))return true;
+  if(rel.endsWith('/pt-BR.md'))return true;
+  return false;
+}
 
 let changed=0;
-for(const file of walk(root).filter(f=>/\.(?:html|md|json)$/i.test(f))){
+for(const file of walk(root)){
+  const rel=path.relative(root,file).split(path.sep).join('/');
+  if(!shouldNormalize(rel))continue;
   const before=fs.readFileSync(file,'utf8');
-  const after=normalize(before);
+  const after=rel.endsWith('.html')?normalizeHtml(before):normalizeMarkdown(before);
   if(after!==before){fs.writeFileSync(file,after);changed++;}
 }
-console.log(`Editorial language normalization OK: ${changed} public files adjusted.`);
+console.log(`Editorial language normalization OK: ${changed} Portuguese public files adjusted.`);
