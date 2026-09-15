@@ -20,6 +20,7 @@ done
 node scripts/render-site.mjs
 node scripts/editorial-normalize.mjs
 node scripts/editorial-normalize-en.mjs
+node scripts/editorial-final-cleanup.mjs
 node scripts/harden-output.mjs
 node scripts/validate-dist.mjs
 
