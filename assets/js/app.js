@@ -1,231 +1,44 @@
-const MT = {
-  state: { query: '', year: 'all', page: 1, pageSize: 12 },
-
-  async loadReports() {
-    try {
-      const res = await fetch('./data/reports.json', { cache: 'no-store' });
-      if (!res.ok) throw new Error('reports.json indisponível');
-      const reports = await res.json();
-      return Array.isArray(reports)
-        ? reports.sort((a, b) => String(b.date || '').localeCompare(String(a.date || '')))
-        : [];
-    } catch (err) {
-      console.warn(err);
-      return [];
-    }
-  },
-
-  escape(value = '') {
-    return String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
-  },
-
-  normalize(value = '') {
-    return String(value)
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .toLocaleLowerCase('pt-BR')
-      .replace(/\s+/g, ' ')
-      .trim();
-  },
-
-  formatDate(value) {
-    if (!value) return '—';
-    const [y, m, d] = value.split('-').map(Number);
-    return new Intl.DateTimeFormat('pt-BR', {
-      day: '2-digit', month: 'short', year: 'numeric'
-    }).format(new Date(y, m - 1, d));
-  },
-
-  reportHaystack(report) {
-    return this.normalize([
-      report.date,
-      report.title,
-      report.deck,
-      report.summary,
-      report.regime,
-      report.key_risk,
-      report.watch,
-      ...(report.tags || []),
-      ...(report.keywords || []),
-      report.search_text
-    ].filter(Boolean).join(' '));
-  },
-
-  matchesQuery(report, query) {
-    if (!query) return true;
-    const haystack = this.reportHaystack(report);
-    const terms = this.normalize(query).split(' ').filter(Boolean);
-    return terms.every(term => haystack.includes(term));
-  },
-
-  renderArchive(reports, targetId = 'archive-list', limit = null) {
-    const target = document.getElementById(targetId);
-    if (!target) return;
-    const selected = limit ? reports.slice(0, limit) : reports;
-    target.innerHTML = selected.map(r => this.reportRow(r)).join('') ||
-      `<div class="empty-state">Ainda não há pesquisas publicadas neste arquivo.</div>`;
-  },
-
-  reportRow(r) {
-    const tags = (r.tags || []).slice(0, 4)
-      .map(t => `<span class="tag">${this.escape(t)}</span>`).join('');
-    const deck = this.escape(r.deck || r.summary || '');
-    return `
-      <article class="report-row">
-        <div class="report-date">${this.formatDate(r.date)}</div>
-        <div class="report-main">
-          <a class="report-title" href="${this.escape(r.url)}">${this.escape(r.title)}</a>
-          ${deck ? `<p class="report-summary">${deck}</p>` : ''}
-        </div>
-        <div class="report-tags">${tags}</div>
-        <a class="report-link" href="${this.escape(r.url)}">Abrir pesquisa →</a>
-      </article>`;
-  },
-
-  renderLatest(reports) {
-    const latest = reports[0];
-    if (!latest) return;
-    const bindings = {
-      'latest-title': latest.title,
-      'latest-deck': latest.deck || latest.summary || '',
-      'latest-date': this.formatDate(latest.date),
-      'latest-regime': latest.regime || '—',
-      'latest-risk': latest.key_risk || '—',
-      'latest-variable': latest.watch || '—'
-    };
-    Object.entries(bindings).forEach(([id, value]) => {
-      const el = document.getElementById(id);
-      if (el) el.textContent = value;
-    });
-    const link = document.getElementById('latest-link');
-    if (link) { link.href = latest.url; link.textContent = 'Abrir pesquisa'; }
-  },
-
-  hydrateArchiveState() {
-    const p = new URLSearchParams(window.location.search);
-    this.state.query = p.get('q') || '';
-    this.state.year = p.get('year') || 'all';
-    this.state.page = Math.max(1, Number.parseInt(p.get('page') || '1', 10) || 1);
-    const q = document.getElementById('archive-search');
-    const year = document.getElementById('archive-year');
-    if (q) q.value = this.state.query;
-    if (year) year.value = this.state.year;
-  },
-
-  buildYearFilter(reports) {
-    const select = document.getElementById('archive-year');
-    if (!select) return;
-    const years = [...new Set(reports.map(r => String(r.date || '').slice(0, 4)).filter(Boolean))]
-      .sort((a, b) => b.localeCompare(a));
-    select.innerHTML = '<option value="all">Todos os anos</option>' +
-      years.map(y => `<option value="${this.escape(y)}">${this.escape(y)}</option>`).join('');
-    select.value = years.includes(this.state.year) ? this.state.year : 'all';
-    this.state.year = select.value;
-  },
-
-  filteredReports(reports) {
-    return reports.filter(r => {
-      const yearOK = this.state.year === 'all' || String(r.date || '').startsWith(this.state.year);
-      return yearOK && this.matchesQuery(r, this.state.query);
-    });
-  },
-
-  syncURL() {
-    const p = new URLSearchParams();
-    if (this.state.query) p.set('q', this.state.query);
-    if (this.state.year !== 'all') p.set('year', this.state.year);
-    if (this.state.page > 1) p.set('page', String(this.state.page));
-    const qs = p.toString();
-    history.replaceState(null, '', `${location.pathname}${qs ? `?${qs}` : ''}`);
-  },
-
-  renderResearchArchive(reports) {
-    const target = document.getElementById('archive-full');
-    if (!target) return;
-    const filtered = this.filteredReports(reports);
-    const totalPages = Math.max(1, Math.ceil(filtered.length / this.state.pageSize));
-    if (this.state.page > totalPages) this.state.page = totalPages;
-    const start = (this.state.page - 1) * this.state.pageSize;
-    const pageRows = filtered.slice(start, start + this.state.pageSize);
-    target.innerHTML = pageRows.map(r => this.reportRow(r)).join('') ||
-      `<div class="empty-state"><strong>Nenhuma pesquisa encontrada.</strong><br>Tente remover filtros ou usar um termo mais amplo.</div>`;
-
-    const summary = document.getElementById('results-summary');
-    if (summary) {
-      if (!filtered.length) summary.textContent = '0 publicações';
-      else summary.textContent = `${start + 1}–${Math.min(start + this.state.pageSize, filtered.length)} de ${filtered.length} publicações`;
-    }
-    this.renderPagination(totalPages);
-    this.syncURL();
-  },
-
-  renderPagination(totalPages) {
-    const target = document.getElementById('pagination');
-    if (!target) return;
-    if (totalPages <= 1) { target.innerHTML = ''; return; }
-
-    const current = this.state.page;
-    const pages = [];
-    const push = p => { if (p >= 1 && p <= totalPages && !pages.includes(p)) pages.push(p); };
-    push(1); push(current - 2); push(current - 1); push(current); push(current + 1); push(current + 2); push(totalPages);
-    pages.sort((a, b) => a - b);
-
-    let html = `<button class="page-button" data-page="${current - 1}" ${current === 1 ? 'disabled' : ''}>Anterior</button>`;
-    let previous = 0;
-    for (const p of pages) {
-      if (previous && p - previous > 1) html += '<span class="page-ellipsis">…</span>';
-      html += `<button class="page-button ${p === current ? 'is-active' : ''}" data-page="${p}" aria-current="${p === current ? 'page' : 'false'}">${p}</button>`;
-      previous = p;
-    }
-    html += `<button class="page-button" data-page="${current + 1}" ${current === totalPages ? 'disabled' : ''}>Próxima</button>`;
-    target.innerHTML = html;
-  },
-
-  initArchiveControls(reports) {
-    const form = document.getElementById('archive-search-form');
-    const search = document.getElementById('archive-search');
-    const year = document.getElementById('archive-year');
-    const clear = document.getElementById('archive-clear');
-    const pagination = document.getElementById('pagination');
-    if (!form) return;
-
-    const rerender = () => { this.state.page = 1; this.renderResearchArchive(reports); };
-    form.addEventListener('submit', e => {
-      e.preventDefault();
-      this.state.query = search.value.trim();
-      this.state.year = year.value;
-      rerender();
-    });
-    year.addEventListener('change', () => {
-      this.state.year = year.value;
-      this.state.query = search.value.trim();
-      rerender();
-    });
-    clear.addEventListener('click', () => {
-      search.value = '';
-      year.value = 'all';
-      this.state.query = '';
-      this.state.year = 'all';
-      rerender();
-      search.focus();
-    });
-    pagination.addEventListener('click', e => {
-      const button = e.target.closest('[data-page]');
-      if (!button || button.disabled) return;
-      this.state.page = Number(button.dataset.page);
-      this.renderResearchArchive(reports);
-      document.getElementById('research-results')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
-  }
+function escapeHtml(text=''){const d=document.createElement('div');d.textContent=String(text);return d.innerHTML;}
+function inlineMd(text=''){return escapeHtml(text).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');}
+function formatDateLabel(iso){const [y,m,d]=iso.split('-');const meses=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];return `${d} ${meses[parseInt(m)-1]} ${y}`;}
+const perPage=12;
+async function initArchive(){
+ const root=document.getElementById('archive-app');if(!root)return;
+ const list=document.getElementById('archive-list'),search=document.getElementById('search-input'),yearSelect=document.getElementById('year-select'),pager=document.getElementById('pager'),count=document.getElementById('results-count');
+ const params=new URLSearchParams(location.search);let currentPage=parseInt(params.get('page')||'1',10);search.value=params.get('q')||'';
+ const data=await fetch('/data/reports.json',{cache:'no-store'}).then(r=>r.json());
+ const years=[...new Set(data.map(x=>x.date.slice(0,4)))];yearSelect.innerHTML='<option value="">Todos os anos</option>'+years.map(y=>`<option value="${y}">${y}</option>`).join('');yearSelect.value=params.get('year')||'';
+ function render(){const q=search.value.trim().toLowerCase(),y=yearSelect.value;let filtered=data.filter(item=>{const blob=`${item.title} ${item.deck} ${(item.tags||[]).join(' ')} ${(item.keywords||[]).join(' ')} ${item.search_text||''}`.toLowerCase();return(!y||item.date.startsWith(y))&&(!q||blob.includes(q));});const pages=Math.max(1,Math.ceil(filtered.length/perPage));currentPage=Math.min(currentPage,pages);count.textContent=`${filtered.length} resultado(s)`;const start=(currentPage-1)*perPage;list.innerHTML=filtered.slice(start,start+perPage).map(item=>`<article class="archive-item"><div class="date">${formatDateLabel(item.date)}</div><div><div class="tags">${(item.tags||[]).map(t=>`<span class="tag">${escapeHtml(t)}</span>`).join('')}</div><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.deck)}</p></div><div><a class="btn dark" href="${item.url}">Abrir</a></div></article>`).join('');pager.innerHTML='';for(let i=1;i<=pages;i++){const b=document.createElement('button');b.textContent=i;b.className='btn'+(i===currentPage?' dark':'');b.onclick=()=>{currentPage=i;render();};pager.appendChild(b);}const next=new URLSearchParams();if(q)next.set('q',search.value.trim());if(y)next.set('year',y);if(currentPage>1)next.set('page',currentPage);history.replaceState(null,'',location.pathname+(next.toString()?`?${next}`:''));}
+ search.addEventListener('input',()=>{currentPage=1;render();});yearSelect.addEventListener('change',()=>{currentPage=1;render();});render();
+}
+const reportData={
+ cross:[['S&P 500',-0.42],['Nasdaq',-0.44],['Dow',-0.23],['SOX',-5],['STOXX 600',-0.5],['FTSE 100',0.4],['Nikkei 225',-1.61],['KOSPI',-3.26],['Hang Seng',0.4],['Shanghai',0.2],['Ibovespa',-0.83],['Brent',4],['Gold',-1.78],['Bitcoin',0.6],['DXY',0.6]],
+ fx:[['DXY',99.648,0.60],['EUR/USD',1.153,-0.50],['GBP/USD',1.347,-0.50],['USD/JPY',154.88,0.90],['USD/BRL',5.152,0.57]],
+ rates:[['UST 2Y',4.60],['UST 10Y',5.01],['UST 30Y',5.38],['Bund 10Y',3.54],['Gilt 10Y',5.38]],
+ china:[['Jul/26 efetivo',-340,'Efetivo'],['Ago/26 efetivo',60,'Efetivo'],['Ago/26 consenso',400,'Consenso Reuters'],['Ago/25',590,'Comparável anual']],
+ energy:[['Hormuz — fluxo pré-choque',20,'mbpd'],['East–West saudita',4.5,'mbpd'],['Alternativas potenciais adicionais',4,'mbpd']],
+ risk:[['Estados Unidos',4,5,3,4,5],['Brasil',4,4,1,4,5],['Europa/Alemanha',4,3,4,3,4],['China',3,4,3,2,5],['Japão',1,4,3,2,4],['Oriente Médio',5,3,5,5,5],['LATAM ex-Brasil',3,3,2,3,3],['Fronteira Rússia-Ucrânia',4,4,5,5,4]],
+ sources:[['Reuters','Dollar gains as Middle East conflict lifts oil, Fed hike looms','FX/Fed'],['Reuters','US 10-year yields reach 5%, highest since 2023','Rates'],['Reuters','Wall St falls as AI anxiety batters Nvidia, chipmakers','US equities'],['Reuters','European shares muted; tech slides as oil surge weighs','Europe'],['Reuters','China August bank lending disappoints','China credit'],['Reuters','New attack in Strait of Hormuz / energy supply risks','Energy'],['Reuters Breakingviews','Making Hormuz worthless is a long game','Energy routes'],['Folha de S.Paulo','Dólar abre em alta com avanço do petróleo e cenário político','Brasil']]
 };
-
-document.addEventListener('DOMContentLoaded', async () => {
-  const reports = await MT.loadReports();
-  MT.renderLatest(reports);
-  MT.renderArchive(reports, 'archive-list', 6);
-  MT.hydrateArchiveState();
-  MT.buildYearFilter(reports);
-  MT.renderResearchArchive(reports);
-  MT.initArchiveControls(reports);
-  document.querySelectorAll('[data-current-year]').forEach(el => el.textContent = new Date().getFullYear());
-});
+function markdownSections(md){
+ const lines=md.replace(/\r/g,'').split('\n');let intro=[],sections=[],current=null;
+ for(const raw of lines){const line=raw.trimEnd();if(line.startsWith('## ')){current={title:line.slice(3).trim(),lines:[]};sections.push(current);}else if(current)current.lines.push(line);else intro.push(line);}
+ return {intro,sections};
+}
+function renderLines(lines){let out=[],list=[];const flush=()=>{if(list.length){out.push('<ul>'+list.map(x=>`<li>${inlineMd(x)}</li>`).join('')+'</ul>');list=[];}};for(const line0 of lines){const line=line0.trim();if(!line){flush();continue;}if(line.startsWith('- ')){list.push(line.slice(2));continue;}flush();if(line.startsWith('### '))out.push(`<h3>${inlineMd(line.slice(4))}</h3>`);else if(line.startsWith('> '))out.push(`<blockquote>${inlineMd(line.slice(2))}</blockquote>`);else if(line==='---'){}else if(line.startsWith('# ')){}else out.push(`<p>${inlineMd(line)}</p>`);}flush();return out.join('');}
+function dataTable(headers,rows){return `<div class="table-scroll"><table class="data-table"><thead><tr>${headers.map(h=>`<th>${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(r=>`<tr>${r.map(v=>`<td>${escapeHtml(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;}
+function barChart(rows){const max=Math.max(...rows.map(r=>Math.abs(Number(r[1]))),1);return `<div class="mini-chart">${rows.map(([label,val])=>{const n=Number(val),w=Math.max(3,Math.abs(n)/max*100);return `<div class="bar-row"><div class="bar-label">${escapeHtml(label)}</div><div class="bar-track"><span class="bar ${n>=0?'up':'down'}" style="width:${w}%"></span></div><div class="bar-number">${n>0?'+':''}${n.toFixed(2)}%</div></div>`}).join('')}</div>`;}
+function rateChart(rows){const max=Math.max(...rows.map(r=>Number(r[1])));return `<div class="mini-chart">${rows.map(([label,val])=>`<div class="bar-row"><div class="bar-label">${escapeHtml(label)}</div><div class="bar-track"><span class="bar rate" style="width:${Number(val)/max*100}%"></span></div><div class="bar-number">${Number(val).toFixed(2)}%</div></div>`).join('')}</div>`;}
+function riskTable(){const heads=['Região','Institucional','Fiscal','Seg. externa','Reversão','Mercados'];return `<div class="table-scroll"><table class="data-table heatmap"><thead><tr>${heads.map(h=>`<th>${h}</th>`).join('')}</tr></thead><tbody>${reportData.risk.map(r=>`<tr><td>${escapeHtml(r[0])}</td>${r.slice(1).map(v=>`<td class="risk-${v}">${v}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;}
+function visualFor(title){
+ if(title.startsWith('3.'))return `<div class="data-panel"><div class="data-panel-title">Risco político e institucional · escala 1–5</div>${riskTable()}</div>`;
+ if(title.startsWith('6.'))return `<div class="data-panel"><div class="data-panel-title">Crédito na China · CNY bi</div>${dataTable(['Período','Novos empréstimos','Leitura'],reportData.china)}</div>`;
+ if(title.startsWith('7.'))return `<div class="data-panel"><div class="data-panel-title">Infraestrutura energética</div>${dataTable(['Rota / infraestrutura','Capacidade / fluxo','Unidade'],reportData.energy)}</div>`;
+ if(title.startsWith('10.'))return `<div class="data-panel"><div class="data-panel-title">FX · variação do dia</div>${barChart(reportData.fx.map(r=>[r[0],r[2]]))}${dataTable(['Par/índice','Nível','Variação %'],reportData.fx)}</div>`;
+ if(title.startsWith('11.'))return `<div class="data-panel"><div class="data-panel-title">Cross-asset · variação do dia</div>${barChart(reportData.cross)}</div>`;
+ if(title.startsWith('12.'))return `<div class="data-panel"><div class="data-panel-title">Juros nominais · níveis aproximados</div>${rateChart(reportData.rates)}${dataTable(['Benchmark','Yield %'],reportData.rates)}</div>`;
+ if(title.startsWith('20.'))return `<div class="data-panel"><div class="data-panel-title">Fontes utilizadas nesta edição</div>${dataTable(['Publicador','Referência','Uso'],reportData.sources)}</div>`;
+ return '';
+}
+async function initReport(){const root=document.getElementById('report-content');if(!root)return;const url=root.dataset.markdown;try{const md=await fetch(url,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('markdown indisponível');return r.text()});const {intro,sections}=markdownSections(md);root.innerHTML=`<div class="report-intro">${renderLines(intro)}</div>`+sections.map(s=>`<section class="report-section"><h2>${escapeHtml(s.title)}</h2>${renderLines(s.lines)}${visualFor(s.title)}</section>`).join('');}catch(e){root.innerHTML='<p>Não foi possível carregar esta edição.</p>';console.error(e);}}
+document.addEventListener('DOMContentLoaded',()=>{initArchive();initReport();});

@@ -1,60 +1,12 @@
 <!doctype html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Arquivo público e pesquisável das análises e relatórios da Marginal Thinking.">
-  <title>Pesquisas — Marginal Thinking</title>
-  <link rel="stylesheet" href="./assets/css/styles.css">
-  <link rel="stylesheet" href="./assets/css/brand.css">
-</head>
-<body>
-<div class="site-shell">
-  <div class="top-rule"></div>
-  <header class="masthead">
-    <div class="container masthead-main">
-      <div class="header-meta">Pesquisa independente<br>Economia · Política · Sociedade</div>
-      <a href="./index.html" class="brand" aria-label="Marginal Thinking"><img class="brand-logo" src="./assets/brand/marginal-thinking-logo.png" alt="Marginal Thinking — Economia, Política, Sociedade"></a>
-      <div class="header-meta right">LOGV Research<br>Brasil</div>
-    </div>
-    <div class="nav-row"><nav class="container nav" aria-label="Principal"><a href="./index.html">Início</a><a href="./reports.html" aria-current="page">Pesquisas</a><a href="./methodology.html">Método</a><a href="./about.html">Sobre</a></nav></div>
-  </header>
-
-  <main>
-    <section class="page-hero archive-hero">
-      <div class="container page-hero-grid">
-        <div><div class="eyebrow">Arquivo de pesquisa</div><h1>Um registro do que foi pensado, quando foi pensado e com base em quê.</h1></div>
-        <div class="page-hero-copy"><p>O arquivo não existe apenas para guardar publicações antigas. Ele permite acompanhar como as teses evoluíram, quais variáveis eram consideradas decisivas em cada momento e onde a evidência obrigou uma revisão de leitura.</p><p>Pesquise por país, ativo, instituição, evento, tema econômico ou risco político.</p></div>
-      </div>
-    </section>
-
-    <section class="section archive-page">
-      <div class="container">
-        <form class="archive-tools" id="archive-search-form" role="search">
-          <label class="search-field"><span>Termo de pesquisa</span><input id="archive-search" type="search" autocomplete="off" placeholder="Ex.: petróleo, Selic, China, Treasury, Ucrânia"></label>
-          <label class="year-field"><span>Ano</span><select id="archive-year"><option value="all">Todos os anos</option></select></label>
-          <button class="search-button" type="submit">Pesquisar</button>
-          <button class="clear-button" id="archive-clear" type="button">Limpar</button>
-        </form>
-
-        <div class="archive-status" id="research-results">
-          <div class="eyebrow">Publicações</div>
-          <div id="results-summary" aria-live="polite">Carregando arquivo…</div>
-        </div>
-        <div class="archive-list" id="archive-full"></div>
-        <nav class="pagination" id="pagination" aria-label="Paginação das pesquisas"></nav>
-      </div>
-    </section>
-  </main>
-
-  <footer class="footer">
-    <div class="container footer-grid">
-      <div><div class="footer-brand">Marginal Thinking</div><p>Pesquisa independente sobre economia, política e sociedade.</p></div>
-      <div><div class="footer-label">Arquivo</div><p>Publicações preservadas e pesquisáveis por tema e data.</p></div>
-      <div><div class="footer-label">Licença</div><p>Conteúdo original sob CC BY 4.0, salvo indicação em contrário.</p><small>© <span data-current-year></span> LOGV.</small></div>
-    </div>
-  </footer>
-</div>
-<script src="./assets/js/app.js"></script>
-</body>
-</html>
+<html lang="pt-BR"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pesquisas — Marginal Thinking</title>
+<link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/assets/css/styles.css">
+</head><body>
+<header class="site-header"><div class="container row"><a class="logo" href="/index.html"><img src="/assets/brand/logo-dark.webp" alt="Marginal Thinking"></a><nav class="nav"><a href="/index.html">Início</a><a href="/reports.html" class="active">Pesquisas</a><a href="/methodology.html">Método</a><a href="/about.html">Sobre</a></nav></div></header>
+<section class="page-hero"><div class="container"><h1>Pesquisas</h1><p>Arquivo público da produção da Marginal Thinking.</p><div class="searchbar"><input id="search-input" type="search" placeholder="Buscar por tema, país, ativo ou risco"><select id="year-select"></select><div id="results-count" class="small"></div></div></div></section>
+<section class="section"><div class="container" id="archive-app"><div id="archive-list" class="archive-list"></div><div id="pager" style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px"></div></div></section>
+<footer class="footer"><div class="container row"><div><img src="/assets/brand/logo-dark.webp" alt="Marginal Thinking" style="height:28px;width:auto;margin-bottom:8px"><div class="small">LOGV Research · Brasil</div></div><div class="footer-nav"><a href="/reports.html">Pesquisas</a><a href="/methodology.html">Método</a><a href="/about.html">Sobre</a></div><div class="small">© 2026 Marginal Thinking</div></div></footer>
+<script src="/assets/js/app.js"></script>
+</body></html>
