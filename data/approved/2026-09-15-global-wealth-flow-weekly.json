@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "MT-WF-2026-09-15",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-15T02:21:22-03:00",
+  "reviewed_commit": "5ddbe6c99be75116bd704000fadc59a1bec972ff",
+  "markdown_url": "/reports/2026/09/2026-09-15-global-wealth-flow-weekly.md",
+  "html_url": "/reports/2026/09/2026-09-15-global-wealth-flow-weekly.html",
+  "markdown_blob_sha": "a8ee4b313845946860ac69fa31da3b8930b3b872",
+  "html_blob_sha": "6fe29989632f2c8667c76067d3cf829ccb8a145c",
+  "confidence": "medium",
+  "checks": {
+    "numbers_sources": "A correção material foi confirmada em fontes primárias: WGC revisou 1T26 de 244 t para 57 t e registrou 289 t no 2T26; FMI confirmou COFER 1T26 em US$ 13,10 tri e USD 57,13%; BIS confirmou +US$ 2,1 tri em claims e +US$ 1,7 tri em crédito cross-border; UNCTAD confirmou FDI 2025 de US$ 1,6 tri, +6%, e 44% do greenfield em setores estratégicos.",
+    "temporality": "A versão revisada prevalece sobre estimativas preliminares e o relatório explicita frequências e defasagens heterogêneas.",
+    "methodology": "Estoque, fluxo, valorização e mudança de controle são separados; claims e valorização não são tratados como criação equivalente de riqueza líquida.",
+    "links": "Markdown e HTML existem nos caminhos declarados e o HTML referencia o Markdown correto.",
+    "coherence": "Executive Assessment, seção de ouro, matriz de transferências e conclusão foram recalibrados para a série revisada."
+  },
+  "contrary_evidence": ["A participação do dólar no COFER subiu de 56,42% no 4T25 para 57,13% no 1T26, contrariando narrativa de abandono linear do dólar.", "O 1T26 revisado para 57 t e o menor primeiro semestre de compras oficiais desde 2022 enfraquecem qualquer tese de aceleração contínua do ouro oficial."],
+  "limitations": ["Várias séries estruturais têm frequência trimestral ou anual e não medem literalmente fluxo de sete dias.", "Atribuição geográfica em TIC e outras posições internacionais pode ser distorcida por custodians e centros financeiros.", "Nem todas as afirmações secundárias puderam ser revalidadas com a mesma profundidade das métricas centrais; confiança global mantida em média."],
+  "notes": "Revisão 1 corrige o erro material que motivou a rejeição anterior. A versão atual é adequada para publicação condicionada à verificação de SHAs pelo publicador."
+}
