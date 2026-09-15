@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "MT-WF-2026-09-15",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-15T01:12:00-03:00",
+  "reviewed_commit": "5e76d8288b2d923bc98d5d47164190f3f7b4d9aa",
+  "markdown_blob_sha": "36d4498726ca14ece44e00bc76a1f06d1931795e",
+  "html_blob_sha": "ab0de049d54d85207bb8d8f9deeff853a0bc7783",
+  "blocking_issues": [
+    "O relatório trata 244 t como estimativa vigente de compras líquidas de ouro por bancos centrais no 1T26. O World Gold Council revisou materialmente essa estimativa no Gold Demand Trends Q2 2026, de 244 t para 57 t. A edição usa a estimativa antiga em conclusão central e na seção de ouro, sem registrar a revisão.",
+    "A afirmação sobre ouro oficial está classificada como fato observado de confiança alta, embora a fonte mais recente disponível antes da data de corte invalide a magnitude usada."
+  ],
+  "required_fixes": [
+    "Substituir 244 t pela estimativa revisada de 57 t para o 1T26, citando a revisão publicada pelo WGC no relatório do 2T26, ou explicar explicitamente qualquer métrica alternativa comparável.",
+    "Recalibrar as conclusões e comparações que dependem da intensidade das compras oficiais no 1T26 e revisar o nível de confiança.",
+    "Preservar a decomposição quantidade/preço/FX e verificar se referências posteriores às compras chinesas usam a série mais recente."
+  ],
+  "evidence": [
+    "World Gold Council, Gold Demand Trends Q2 2026, 30 Jul 2026: nova análise revisou a estimativa de demanda de bancos centrais no 1T26 de 244 t para 57 t.",
+    "IMF COFER 1T26 confirma US$ 13,10 tri de reservas e 57,13% de participação do dólar; BIS confirma +US$ 2,1 tri de claims cross-border no 1T26; U.S. Treasury confirma TIC de junho em +US$ 133,5 bi e compras líquidas ajustadas de longo prazo de US$ 172,7 bi. Esses pontos centrais foram corroborados."
+  ],
+  "notes": "HTML aponta corretamente para o Markdown e os arquivos existem. A rejeição é quantitativa/temporal, não cosmética."
+}

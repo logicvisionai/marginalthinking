@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "MT-WP-2026-09-15",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-15T01:12:00-03:00",
+  "reviewed_commit": "5e76d8288b2d923bc98d5d47164190f3f7b4d9aa",
+  "markdown_blob_sha": "3c3e3284e6eec52fe47697888bac6c70e5589d8f",
+  "html_blob_sha": "46118d4c3e4d9d4fc4ec771e213e0d7633585c40",
+  "blocking_issues": [
+    "O Executive Assessment e a seção de ouro apresentam 244 t como compras líquidas de bancos centrais no 1T26 e classificam o dado como fato observado de confiança alta. O World Gold Council revisou essa estimativa de 244 t para 57 t no Gold Demand Trends Q2 2026, publicado antes desta edição.",
+    "Como o relatório pretende medir fluxos de riqueza e distingue quantidade de valorização, usar uma estimativa de fluxo físico substituída por revisão posterior é erro material de temporalidade e magnitude."
+  ],
+  "required_fixes": [
+    "Atualizar o fluxo oficial de ouro do 1T26 para a estimativa revisada de 57 t e registrar que 244 t era a estimativa inicial posteriormente revista.",
+    "Reavaliar qualquer conclusão sobre aceleração/intensidade da diversificação oficial que dependa do número antigo.",
+    "Verificar todas as séries suscetíveis a revisão e registrar a versão/data da fonte utilizada."
+  ],
+  "evidence": [
+    "World Gold Council, Gold Demand Trends Q2 2026, 30 Jul 2026: revisão do 1T26 de 244 t para 57 t.",
+    "IMF COFER 1T26, BIS end-March 2026 e UNCTAD World Investment Report 2026 corroboram, respectivamente, os números centrais de reservas/dólar, expansão bancária cross-border e FDI de US$ 1,6 tri (+6%) usados no relatório."
+  ],
+  "notes": "A metodologia de separar estoque, fluxo, valorização e mudança de controle é adequada; a rejeição decorre de uma revisão quantitativa material não incorporada."
+}

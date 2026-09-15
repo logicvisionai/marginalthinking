@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "MT-WPMAP-2025",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-15T01:12:00-03:00",
+  "reviewed_commit": "5e76d8288b2d923bc98d5d47164190f3f7b4d9aa",
+  "markdown_url": "/reports/2026/09/2026-09-15-global-wealth-power-map-2025.md",
+  "html_url": "/reports/2026/09/2026-09-15-global-wealth-power-map-2025.html",
+  "markdown_blob_sha": "f5f8d104c445e6d990d8d32588450b3445fe15ec",
+  "html_blob_sha": "13ab592ca46e13b6873373824eb55d30ef02b80f",
+  "confidence": "medium",
+  "checks": {
+    "numbers_sources": "Principais números estruturais amostrados foram corroborados em fontes primárias/autorais: SIFMA 2026 Fact Book (US$157,8 tri equities; US$160,7 tri fixed income; EUA 43,7%/38,1%), FMI/COFER, WGC (863 t em 2025), WIPO (>US$10 tri de investimento intangível em 2025) e IEA (data centers +17% em eletricidade; capex de cinco grandes techs >US$400 bi).",
+    "temporality": "O relatório identifica 2025 como ano-base e usa dados de 2026 para fechamento/revisão, de forma explícita.",
+    "methodology": "Estoque, fluxo, valorização e mudança de controle são separados; o texto alerta contra soma de ativos/passivos e contra tratar valuation como fluxo.",
+    "links": "Markdown e HTML existem; o HTML referencia o Markdown correspondente.",
+    "coherence": "Tese e conclusões centrais são coerentes com a evidência estrutural verificada e distinguem fato de inferência."
+  },
+  "contrary_evidence": [
+    "A concentração financeira nos EUA não implica concentração equivalente de produção física; o próprio relatório registra escala industrial e midstream chinesa e concentração de processamento na Ásia.",
+    "Diversificação de reservas e compras de ouro não demonstram substituição rápida do dólar; COFER mostra o dólar em 57,13% no 1T26, acima de 56,42% no 4T25."
+  ],
+  "limitations": [
+    "A métrica WIPO de investimento intangível >US$10 tri cobre 29 economias equivalentes a cerca de 57% do PIB mundial; o rótulo global deve ser lido com essa cobertura amostral em mente.",
+    "Algumas estimativas de ativos soberanos e intangíveis corporativos dependem de agregadores/metodologias não perfeitamente comparáveis a contas nacionais; não devem ser somadas ao patrimônio financeiro.",
+    "A aprovação não transforma estimativas de mercado em estatísticas oficiais; elas permanecem sujeitas às limitações registradas no relatório."
+  ],
+  "notes": "Aprovação editorial do ano-base 2025. Mudança posterior em qualquer blob invalida esta aprovação e exige nova revisão."
+}
