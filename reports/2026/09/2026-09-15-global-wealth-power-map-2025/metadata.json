@@ -1,0 +1,35 @@
+{
+  "id": "MT-WPMAP-2025",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T01:02:09-03:00",
+  "kind": "annual-wealth-power-map",
+  "priority": 50,
+  "url": "/reports/2026/09/2026-09-15-global-wealth-power-map-2025.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-15T01:12:00-03:00",
+  "qa_confidence": "medium",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth & Power Map 2025",
+      "deck": "Where global wealth is concentrated, who controls the bottlenecks required to produce future wealth, and how capital, resources, technology and economic power are migrating.",
+      "tags": ["Global Wealth", "Geoeconomics", "Capital", "Resources", "Technology", "Energy", "Minerals", "AI"],
+      "keywords": ["global wealth", "global capital", "foreign-exchange reserves", "dollar", "gold", "sovereign wealth funds", "FDI", "debt", "credit", "energy", "oil", "critical minerals", "copper", "lithium", "nickel", "rare earths", "semiconductors", "batteries", "data centers", "artificial intelligence", "intangibles", "logistics", "China", "United States", "Gulf"],
+      "regime": "Elevated financialization + strategic reindustrialization + concentration of bottlenecks",
+      "key_risk": "Geoeconomic fragmentation combined with concentration in processing, digital infrastructure and financing",
+      "watch": ["COFER/USD", "central-bank gold", "strategic FDI", "mineral refining", "semiconductors", "data-center capex", "electricity demand"],
+      "search_text": "Global Wealth Power Map 2025 world wealth global capital assets equities bonds debt credit foreign exchange reserves dollar euro renminbi gold central banks sovereign wealth funds FDI direct investment real estate land infrastructure oil gas electricity critical minerals copper lithium nickel cobalt rare earths agriculture water logistics semiconductors batteries compute data centers artificial intelligence patents intangibles China United States Europe Gulf India Latin America Africa"
+    },
+    "pt-BR": {
+      "markdown": "../2026-09-15-global-wealth-power-map-2025.md",
+      "title": "Global Wealth & Power Map 2025",
+      "deck": "Onde a riqueza mundial está concentrada, quem controla os gargalos necessários para produzir riqueza futura e como capital, recursos, tecnologia e poder econômico estão migrando.",
+      "tags": ["Global Wealth", "Geoeconomia", "Capital", "Recursos", "Tecnologia", "Energia", "Minerais", "IA"],
+      "keywords": ["riqueza mundial", "capital global", "reservas cambiais", "dólar", "ouro", "fundos soberanos", "FDI", "dívida", "crédito", "energia", "petróleo", "minerais críticos", "cobre", "lítio", "níquel", "terras raras", "semicondutores", "baterias", "data centers", "inteligência artificial", "intangíveis", "logística", "China", "Estados Unidos", "Golfo"],
+      "regime": "Financeirização elevada + reindustrialização estratégica + concentração de gargalos",
+      "key_risk": "Fragmentação geoeconômica combinada a concentração de processamento, infraestrutura digital e financiamento",
+      "watch": ["COFER/USD", "ouro de bancos centrais", "FDI estratégico", "refino de minerais", "semicondutores", "capex de data centers", "demanda elétrica"],
+      "search_text": "Global Wealth Power Map 2025 riqueza mundial capital ativos ações títulos dívida crédito reservas cambiais dólar euro renminbi ouro bancos centrais fundos soberanos FDI investimento direto imóveis terra infraestrutura petróleo gás eletricidade minerais críticos cobre lítio níquel cobalto terras raras agricultura água logística semicondutores baterias computação data centers inteligência artificial patentes intangíveis China Estados Unidos Europa Golfo Índia América Latina África"
+    }
+  }
+}
