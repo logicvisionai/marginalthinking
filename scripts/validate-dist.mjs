@@ -10,19 +10,46 @@ const reports=collectReports(cwd);
 const pagePath=(locale,p)=>{const prefix=cfg.locales[locale]?.path?`/${cfg.locales[locale].path}`:'';return `${prefix}${p}`.replace(/\/+/g,'/');};
 const relFile=p=>String(p).replace(/^\//,'').replace(/\/$/,'/index.html');
 const files=walk(root),html=files.filter(x=>x.endsWith('.html'));
-const editorialBlockers=[
+
+const ptEditorialBlockers=[
+  /\bgargalos?\b/i,
   /quem controla os gargalos necessários/i,
   /controle de gargalos/i,
   /funil causal/i,
   /preço de controle do sistema/i,
   /gargalo marginal/i,
   /principal reservatório financeiro/i,
+  /reservatório de riqueza/i,
   /claims bancários cross-border/i,
+  /\bclaims?\b/i,
   /\bcollateral\b/i,
   /\bmidstream\b/i,
   /captura desigual do valor/i,
   /poder de captura de renda/i
 ];
+
+const enEditorialBlockers=[
+  /\bbottlenecks?\b/i,
+  /causal funnel/i,
+  /regime funnel/i,
+  /system['’]s control price/i,
+  /\bcontrol price\b/i,
+  /financial reservoir/i,
+  /reservoir of wealth/i,
+  /income-capture chain/i,
+  /layered maps of power/i,
+  /marginal flow of economic power/i,
+  /marginal bottleneck/i,
+  /marginal constraint/i
+];
+
+const visibleText=s=>s
+  .replace(/<script[\s\S]*?<\/script>/gi,'')
+  .replace(/<style[\s\S]*?<\/style>/gi,'')
+  .replace(/<pre[\s\S]*?<\/pre>/gi,'')
+  .replace(/<code[\s\S]*?<\/code>/gi,'')
+  .replace(/<[^>]+>/g,' ');
+
 for(const file of html){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
   if(!/<html\s+lang="[^"]+"/i.test(s))fail.push(`${rel}: html lang ausente`);
@@ -40,12 +67,15 @@ for(const file of html){
     if(!/hreflang="en"/i.test(s))fail.push(`${rel}: hreflang en ausente`);
     if(!/hreflang="pt-BR"/i.test(s))fail.push(`${rel}: hreflang pt-BR ausente`);
     if(!/author-signature/i.test(s)&&!/noindex,follow/i.test(s))fail.push(`${rel}: assinatura editorial ausente`);
-    const visible=s.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<pre[\s\S]*?<\/pre>/gi,'').replace(/<code[\s\S]*?<\/code>/gi,'').replace(/<[^>]+>/g,' ');
+    const visible=visibleText(s);
     if(/\*\*[^<\n]*$|__[^<\n]*$/m.test(visible))warn.push(`${rel}: possível marcador markdown residual`);
-    if(rel.startsWith('pt-br/reports/'))for(const rx of editorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial bloqueada (${rx})`);
+    if(rel.startsWith('pt-br/reports/'))for(const rx of ptEditorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial PT-BR bloqueada (${rx})`);
+    if(!rel.startsWith('pt-br/')&&/<html\s+lang=["']en(?:-[^"']*)?["']/i.test(s))for(const rx of enEditorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial EN bloqueada (${rx})`);
   }
 }
+
 for(const required of ['sitemap.xml','robots.txt','feed.xml','index.html','reports.html','pt-br/index.html','pt-br/reports.html','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/css/mobile-nav-fix.css'])if(!fs.existsSync(path.join(root,required)))fail.push(`${required}: artefato gerado ausente`);
+
 for(const item of reports){
   const locales=availableLocales(item);
   for(const locale of ['en','pt-BR']){
@@ -54,10 +84,16 @@ for(const item of reports){
     if(!fs.existsSync(expected))fail.push(`${item.id}/${locale}: HTML gerado ausente (${path.relative(root,expected)})`);
   }
 }
-for(const file of files.filter(x=>x.endsWith('.md')&&!x.endsWith('/en.md'))){
+
+for(const file of files.filter(x=>x.endsWith('.md'))){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
-  for(const rx of editorialBlockers)if(rx.test(s))fail.push(`${rel}: formulação editorial bloqueada no Markdown público (${rx})`);
+  let blockers=null;
+  if(rel.endsWith('/en.md')) blockers=enEditorialBlockers;
+  else if(/^reports\/\d{4}\/\d{2}\/[^/]+\.md$/i.test(rel)||rel.endsWith('/pt-BR.md')) blockers=ptEditorialBlockers;
+  if(!blockers) continue;
+  for(const rx of blockers)if(rx.test(s))fail.push(`${rel}: formulação editorial bloqueada no Markdown público (${rx})`);
 }
+
 const languageCss=path.join(root,'assets/css/language-switch.css');
 if(fs.existsSync(languageCss)){
   const css=fs.readFileSync(languageCss,'utf8');
