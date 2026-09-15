@@ -14,11 +14,13 @@ for(const file of html){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
   if(!/<html\s+lang="[^"]+"/i.test(s))fail.push(`${rel}: html lang ausente`);
   if(!/<meta\s+name="viewport"/i.test(s))fail.push(`${rel}: viewport ausente`);
-  if(!/<link\s+rel="stylesheet"\s+href="\/assets\/css\/language-switch\.css"/i.test(s))fail.push(`${rel}: stylesheet responsivo de idioma ausente`);
+  for(const css of ['language-switch.css','layout-guardrails.css'])if(!new RegExp(`<link\\s+rel="stylesheet"\\s+href="\\/assets\\/css\\/${css.replace('.','\\.')}`,'i').test(s))fail.push(`${rel}: stylesheet ${css} ausente`);
   if(!/<div class="language-switch"/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: seletor de idioma ausente`);
   if(!/<h1[\s>]/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: H1 ausente`);
   if(/Carregando pesquisa|Loading research/i.test(s))fail.push(`${rel}: conteúdo dependente de client-side renderer`);
   if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(s))fail.push(`${rel}: referência binária proibida`);
+  if(/<ol(?:\s[^>]*)?>[\s\S]*?<li[^>]*>\s*\d+[.)]\s+/i.test(s))fail.push(`${rel}: marcador numérico duplicado em lista ordenada`);
+  if(/<ul(?:\s[^>]*)?>[\s\S]*?<li[^>]*>\s*[-+*•]\s+/i.test(s))fail.push(`${rel}: marcador duplicado em lista não ordenada`);
   if(rel.includes('reports/')&&!rel.endsWith('404.html')){
     if(!/rel="canonical"/i.test(s))fail.push(`${rel}: canonical ausente`);
     if(!/application\/ld\+json/i.test(s))fail.push(`${rel}: JSON-LD ausente`);
@@ -29,7 +31,7 @@ for(const file of html){
     if(/\*\*[^<\n]*$|__[^<\n]*$/m.test(visible))warn.push(`${rel}: possível marcador markdown residual`);
   }
 }
-for(const required of ['sitemap.xml','robots.txt','feed.xml','index.html','reports.html','pt-br/index.html','pt-br/reports.html','assets/css/language-switch.css'])if(!fs.existsSync(path.join(root,required)))fail.push(`${required}: artefato gerado ausente`);
+for(const required of ['sitemap.xml','robots.txt','feed.xml','index.html','reports.html','pt-br/index.html','pt-br/reports.html','assets/css/language-switch.css','assets/css/layout-guardrails.css'])if(!fs.existsSync(path.join(root,required)))fail.push(`${required}: artefato gerado ausente`);
 for(const item of reports){
   const locales=availableLocales(item);
   for(const locale of ['en','pt-BR']){
@@ -43,6 +45,11 @@ if(fs.existsSync(languageCss)){
   const css=fs.readFileSync(languageCss,'utf8');
   for(const selector of ['.header-row>.language-switch','.mobile-language .language-switch','.mobile-menu .mobile-language .language-switch a'])if(!css.includes(selector))fail.push(`language-switch.css: regra responsiva ausente ${selector}`);
 }
+const guardCss=path.join(root,'assets/css/layout-guardrails.css');
+if(fs.existsSync(guardCss)){
+  const css=fs.readFileSync(guardCss,'utf8');
+  for(const token of ['.mobile-menu{position:absolute','overflow-wrap:anywhere','.citation-actions','.md-table-wrap'])if(!css.replace(/\s+/g,'').includes(token.replace(/\s+/g,'')))fail.push(`layout-guardrails.css: proteção ausente ${token}`);
+}
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
-console.log(`Rendered output validation OK: ${html.length} HTML pages; ${reports.length} bilingual reports; responsive locale controls present.`);
+console.log(`Rendered output validation OK: ${html.length} HTML pages; ${reports.length} bilingual reports; list markers normalized; mobile/overflow guardrails present.`);

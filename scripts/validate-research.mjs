@@ -40,6 +40,8 @@ function scanMarkdown(file){
   if(h1<1)fail.push(`${file}: deve conter ao menos um H1`);if(h1>1)warn.push(`${file}: ${h1} H1 encontrados; os adicionais serão normalizados para H2`);if(h2<2)warn.push(`${file}: menos de dois H2`);
   const prose=stripFences(text),bold=(prose.match(/(^|[^\\])\*\*/g)||[]).length,strong=(prose.match(/(^|[^\\])__/g)||[]).length;
   if(bold%2)warn.push(`${file}: marcador ** órfão; renderer removerá o marcador residual`);if(strong%2)warn.push(`${file}: marcador __ órfão; renderer removerá o marcador residual`);
+  if(/^\s*\d+[.)]\s+\d+[.)]\s+/m.test(prose))warn.push(`${file}: marcador numérico duplicado; pós-processamento normalizará sem bloquear o build`);
+  if(/^\s*[-+*•]\s+[-+*•]\s+/m.test(prose))warn.push(`${file}: marcador de lista duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(text))fail.push(`${file}: referência binária proibida`);
   validateTables(lines,file);validateCustomBlocks(lines,file);
 }
@@ -75,7 +77,7 @@ for(const item of reports){
     if((v?.deck||'').length>320)warn.push(`${item.id}/${locale}: deck muito longo para meta description`);
   }
 }
-for(const file of ['assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/js/app.js','scripts/render-site.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
+for(const file of ['assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
 console.log(`Research validation OK: ${reports.length} bilingual publications; English-first; ${Object.keys(cfg.locales||{}).length} locales; canonical Markdown; recoverable formatting normalized.`);
