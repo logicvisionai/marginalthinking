@@ -4,7 +4,9 @@
 
 Marginal Thinking is **English-first and multilingual**. Research is written in Markdown; public HTML is generated deterministically at build time. Agents do not hand-write report HTML, CSS, SEO metadata, author blocks, sitemaps or feeds.
 
-The default public language is English. Portuguese (`pt-BR`) is the first required translation for new research. The locale system is configuration-driven so future languages can be added without changing the publishing architecture.
+The default public language is English. Brazilian Portuguese (`pt-BR`) is a required translation for every public research item. The locale system is configuration-driven so future languages can be added without changing the publishing architecture.
+
+The current public archive has been migrated to bilingual publication bundles. A new research item that does not contain both English and Brazilian Portuguese source editions fails validation and is not published.
 
 ## Preferred agent workflow
 
@@ -29,7 +31,7 @@ Example `metadata.json`:
   "tags": ["Global Macro", "Energy", "Political Risk"],
   "locales": {
     "en": {
-      "title": "Global Macro, Markets & Political Risk — 16/09/2026",
+      "title": "Global Macro, Markets & Political Risk — September 16, 2026",
       "deck": "English abstract.",
       "markdown": "en.md",
       "regime": "...",
@@ -48,17 +50,20 @@ Example `metadata.json`:
 }
 ```
 
-In the preferred format the agent edits only the publication folder. `data/reports.json` remains supported for legacy research and current automations, but new bundled research is collected automatically by the build and overrides a legacy entry with the same ID.
+In the preferred format the agent edits only the publication folder. `data/reports.json` is retained only as a backward-compatible index for older automations; the multilingual bundle is the authoritative publication metadata and overrides a legacy entry with the same ID.
+
+For a migrated historical publication, the `pt-BR` entry may point to the existing Portuguese Markdown one directory above instead of duplicating it. New publications should keep both locale Markdown files inside the publication folder.
 
 ## Build flow
 
-1. `npm run validate` checks source files, locale configuration, metadata, tables and custom visual blocks.
+1. `npm run validate` checks source files, locale configuration, bilingual completeness, metadata, tables and custom visual blocks.
 2. `scripts/cloudflare-build.sh` copies only public assets and research sources.
 3. `scripts/render-site.mjs` generates English and Portuguese site pages, report HTML, author/topic pages, SEO metadata, hreflang links, sitemaps and RSS.
-4. `scripts/validate-dist.mjs` validates the rendered output before deployment.
-5. Cloudflare publishes `dist/` only if all blocking checks pass.
+4. The build applies the small responsive locale-control stylesheet to every generated HTML page.
+5. `scripts/validate-dist.mjs` validates the rendered output, both language editions, hreflang metadata and responsive language-control assets before deployment.
+6. Cloudflare publishes `dist/` only if all blocking checks pass.
 
-Recoverable presentation problems—extra H1 headings or orphaned `**` markers—are normalized by the renderer and reported as warnings rather than taking the site offline. Missing source files, malformed JSON, unclosed fenced blocks and prohibited binary formats remain blocking errors.
+Recoverable presentation problems—extra H1 headings or orphaned `**` markers—are normalized by the renderer and reported as warnings rather than taking the site offline. Missing source files, malformed JSON, unclosed fenced blocks, missing required translations and prohibited binary formats remain blocking errors.
 
 ## Visual research primitives
 
@@ -120,6 +125,7 @@ Existing fenced `text`, `diagram` or `ascii` dependency diagrams are rendered as
 ## Responsive design rules
 
 - No component may force page-level horizontal overflow.
+- The desktop language control is a compact segmented switch; below 860 px it is removed from the header row and rendered as full-width language buttons inside the mobile menu.
 - Tables may scroll within their own container.
 - Dependency maps, flows and mind maps collapse to one-column structures on small screens.
 - Regional maps change from schematic grid to stacked cards on phones.
@@ -130,10 +136,12 @@ Existing fenced `text`, `diagram` or `ascii` dependency diagrams are rendered as
 
 - English is the default locale at the root URL.
 - Portuguese pages live under `/pt-br/`.
+- Every public research item must have both `en` and `pt-BR` Markdown sources.
+- `source_locale` must be `en` for public publication bundles.
 - `hreflang`, `x-default`, canonical URLs, Open Graph, citation metadata and Schema.org language fields are generated automatically.
-- Legacy Portuguese-only reports remain available and are clearly marked on English archive pages.
-- New English-first bundled reports must include a `pt-BR` translation.
+- The rendered-output validator requires both English and Portuguese HTML for every public report.
 - Markdown remains publicly accessible for auditability but is excluded from search indexing.
+- Future languages are added through `site.config.json`, `data/i18n.json` and a locale Markdown entry; the renderer and sitemap architecture do not need to be redesigned.
 
 ## Formats
 
