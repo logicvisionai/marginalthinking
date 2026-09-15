@@ -103,4 +103,53 @@ function initToc(){
 function initCopyCitation(){
   for(const btn of $$('.copy-citation'))btn.addEventListener('click',async()=>{const target=$(btn.dataset.copyTarget||'');if(!target)return;const original=btn.dataset.label||btn.textContent;try{await navigator.clipboard.writeText(target.textContent.trim());btn.textContent=btn.dataset.copied||'Copied';setTimeout(()=>btn.textContent=original,1600);}catch{btn.textContent=original;}});
 }
-initMobileNav();initAnchorPositioning();initArchive();initToc();initCopyCitation();
+
+function chartNumber(text=''){
+  let s=String(text).trim().replace(/\s+/g,'').replace(/[%$€£¥]/g,'');
+  if(!s)return null;
+  if(/^[-+]?\d{1,3}(?:\.\d{3})*,\d+$/.test(s))s=s.replace(/\./g,'').replace(',','.');
+  else if(/^[-+]?\d+,\d+$/.test(s))s=s.replace(',','.');
+  else if(/^[-+]?\d{1,3}(?:,\d{3})+\.\d+$/.test(s))s=s.replace(/,/g,'');
+  else s=s.replace(/,/g,'');
+  s=s.replace(/[^\d+\-.]/g,'');
+  const v=Number(s);return Number.isFinite(v)?v:null;
+}
+function initResearchCharts(){
+  for(const fig of $$('.research-chart')){
+    fig.classList.add('chart-premium');
+    if(fig.classList.contains('line-chart')){
+      $$('.chart-dot',fig).forEach(dot=>{dot.setAttribute('tabindex','0');dot.setAttribute('role','img');});
+      continue;
+    }
+    const items=$$('.chart-row',fig).map(row=>({row,value:chartNumber($('.chart-value',row)?.textContent),bar:$('.chart-bar',row),track:$('.chart-track',row)})).filter(x=>x.value!==null&&x.bar&&x.track);
+    if(!items.length)continue;
+    const hasPositive=items.some(x=>x.value>0),hasNegative=items.some(x=>x.value<0);
+    const mode=hasPositive&&hasNegative?'mixed':hasNegative?'negative':'positive';
+    fig.classList.add(`scale-${mode}`);
+    const maxAbs=Math.max(...items.map(x=>Math.abs(x.value)),1e-9);
+    const maxPositive=Math.max(...items.map(x=>x.value>0?x.value:0),1e-9);
+    const maxNegative=Math.max(...items.map(x=>x.value<0?Math.abs(x.value):0),1e-9);
+    for(const {row,value,bar,track} of items){
+      row.classList.remove('is-positive','is-negative','is-zero');
+      const state=value>0?'positive':value<0?'negative':'zero';
+      row.classList.add(`is-${state}`);
+      track.style.setProperty('--chart-zero',mode==='positive'?'0%':mode==='negative'?'100%':'50%');
+      bar.classList.toggle('positive',value>=0);bar.classList.toggle('negative',value<0);
+      bar.hidden=value===0;
+      bar.style.left='auto';bar.style.right='auto';bar.style.width='0';
+      if(value===0)continue;
+      if(mode==='positive'){
+        bar.style.left='0';bar.style.width=`${Math.max(1.25,value/maxPositive*100)}%`;
+      }else if(mode==='negative'){
+        bar.style.right='0';bar.style.width=`${Math.max(1.25,Math.abs(value)/maxNegative*100)}%`;
+      }else if(value>0){
+        bar.style.left='50%';bar.style.width=`${Math.max(1.25,Math.abs(value)/maxAbs*50)}%`;
+      }else{
+        bar.style.right='50%';bar.style.width=`${Math.max(1.25,Math.abs(value)/maxAbs*50)}%`;
+      }
+      bar.setAttribute('aria-hidden','true');
+    }
+  }
+}
+
+initMobileNav();initAnchorPositioning();initArchive();initToc();initCopyCitation();initResearchCharts();
