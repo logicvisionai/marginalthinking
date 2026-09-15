@@ -1,224 +1,198 @@
 # Global Wealth Flow Monitor — 15 setembro 2026
 
-**Marginal Thinking · MT-WF-2026-09-15**  
+**Marginal Thinking · MT-WF-2026-09-15 · revisão 1 (QA)**  
 **Horizontes:** 1 semana · 1 mês · 3 meses · 1 ano, conforme disponibilidade estatística  
-**Regime:** capital financeiro ainda gravita para ativos dos EUA, enquanto Estados ampliam buffers, ouro e ativos estratégicos; energia e infraestrutura de IA elevam o valor marginal de capacidade física.
+**Regime:** capital financeiro ainda gravita para ativos dos EUA, enquanto Estados diversificam buffers e capital produtivo migra para energia, processamento mineral e infraestrutura de IA.
 
-> **Nota metodológica.** Este relatório não soma ações, títulos, reservas, recursos naturais e ativos reais para produzir um número artificial de “riqueza mundial”. Cada camada é analisada como estoque, fluxo, valorização ou mudança de controle. As frequências das bases são heterogêneas: dados de mercado podem ser diários; reservas nacionais, semanais/mensais; COFER, BIS e várias posições internacionais, trimestrais; FDI e recursos minerais, anuais. Quando não existe observação nova para 1 semana ou 1 mês, preservamos o último dado oficial e explicitamos a defasagem.
+> **Nota metodológica.** Este relatório não soma ações, títulos, reservas, recursos naturais e ativos reais para produzir um número artificial de “riqueza mundial”. Cada camada é tratada como **estoque**, **fluxo**, **valorização** ou **mudança de controle**. Frequências são heterogêneas: mercados podem ser diários; reservas nacionais, semanais/mensais; COFER, BIS e posições internacionais, trimestrais; FDI e minerais, anuais. A revisão 1 incorpora a revisão estatística do World Gold Council publicada em 30/07/2026: a estimativa de demanda líquida de ouro por bancos centrais no 1T26 foi reduzida de 244 t para **57 t**, com 187 t reclassificadas para OTC e outras demandas. O 2T26 registrou 289 t, levando o 1S26 a 345 t.
 
 ## 1. Executive Assessment
 
-1. **[Fato observado · confiança alta] O sistema de reservas continua centrado no dólar, sem evidência de ruptura rápida.** O FMI registrou US$ 13,10 trilhões de reservas cambiais no 1T26 e participação do dólar de 57,13%, acima de 56,42% no 4T25. O próprio FMI ressalta que o avanço relativo do ouro em 2025 foi amplificado sobretudo pela valorização do metal, não apenas por substituição física de Treasuries. **Horizonte:** 3–12 meses: estabilidade estrutural do dólar; 1 semana: sem nova observação COFER.
+1. **[Fato observado · confiança alta] O sistema de reservas continua centrado no dólar.** O FMI registrou US$ 13,10 trilhões de reservas cambiais no 1T26 e participação do dólar de 57,13%, ante 56,42% no 4T25. Não há evidência de ruptura rápida da moeda de reserva.
 
-2. **[Fato observado · confiança alta] Ouro continua recebendo fluxo oficial, mas preço e quantidade precisam ser separados.** Bancos centrais compraram estimadas 244 t líquidas no 1T26. Dados publicados em setembro indicam aceleração recente das compras chinesas, com compras mensais de dois dígitos desde maio. Isso confirma diversificação incremental, não “desdolarização” instantânea. **Horizonte:** 3–12 meses: acumulação estrutural; 1 mês: sinal de aceleração chinesa.
+2. **[Fato observado · confiança alta] A demanda oficial por ouro permaneceu positiva, mas foi muito mais irregular do que a leitura original sugeria.** O WGC revisou o 1T26 de 244 t para **57 t** e registrou **289 t no 2T26**; o 1S26 somou **345 t**, menor primeiro semestre desde 2022. Portanto, a tese correta é de diversificação oficial persistente, porém desigual — não de aceleração contínua ao longo do primeiro semestre. Dados reportados em setembro indicam aceleração recente das compras chinesas, com compras mensais de dois dígitos desde maio. **Confiança:** alta para a revisão trimestral; média-alta para extrapolar o ritmo chinês recente.
 
-3. **[Fato observado · confiança alta] A semana trouxe redistribuição excepcional de buffers cambiais na Ásia.** A Índia atingiu US$ 785,7 bilhões na semana encerrada em 4 de setembro, alta recorde de US$ 44,9 bilhões; o Japão encerrou agosto com US$ 1,208 trilhão, queda de US$ 79,6 bilhões ligada à intervenção para sustentar o iene; a China encerrou agosto com cerca de US$ 3,438 trilhões, +US$ 19,5 bilhões no mês. São mecanismos diferentes: acumulação/fluxos na Índia, intervenção no Japão e combinação de valuation/gestão de reservas na China.
+3. **[Fato observado · confiança alta] Buffers cambiais asiáticos moveram-se em direções diferentes.** A Índia atingiu US$ 785,7 bilhões na semana encerrada em 4/9, +US$ 44,9 bilhões; o Japão encerrou agosto com US$ 1,208 trilhão, -US$ 79,6 bilhões em contexto de intervenção; a China encerrou agosto perto de US$ 3,438 trilhões, +US$ 19,5 bilhões no mês. Acumulação, intervenção e valuation não devem ser confundidos.
 
-4. **[Fato observado · confiança alta] O mercado norte-americano continua absorvendo capital externo em escala elevada.** O TIC de junho mostrou entrada líquida total de US$ 133,5 bilhões e compras líquidas ajustadas de títulos de longo prazo de US$ 172,7 bilhões. Abril, maio e junho foram positivos no agregado TIC (US$ 26,1 bi, US$ 132,2 bi e US$ 133,5 bi). **Horizonte:** 3 meses: persistência; 1 mês/semana: julho ainda não estava publicado na data de corte.
+4. **[Fato observado · confiança alta] Os EUA continuam absorvendo capital externo em escala elevada.** O TIC de junho mostrou entrada líquida total de US$ 133,5 bilhões e compras líquidas ajustadas de longo prazo de US$ 172,7 bilhões. Abril, maio e junho foram positivos no agregado TIC.
 
-5. **[Fato observado · confiança alta] O crédito bancário transfronteiriço acelerou fortemente no 1T26.** O BIS reportou aumento de US$ 2,1 trilhões nos claims bancários cross-border; mesmo após ajustes adicionais, cerca de US$ 1,6 trilhão, maior expansão trimestral pós-pandemia. É expansão de intermediação e liquidez internacional, não criação equivalente de riqueza líquida.
+5. **[Fato observado · confiança alta] O crédito bancário transfronteiriço acelerou no 1T26.** O BIS reportou aumento de US$ 2,1 trilhões nos claims cross-border; isso representa expansão de intermediação e balanços, não criação equivalente de riqueza líquida.
 
-6. **[Fato observado · confiança alta] O FDI está crescendo, mas concentrado em poucos países e setores estratégicos.** O FDI global subiu 6% para US$ 1,6 trilhão em 2025. Os 20 maiores destinos receberam mais de 80% do total; setores estratégicos chegaram a 44% do valor de projetos greenfield, ante 16% em 2020. Os três maiores investidores responderam por 72% do valor desses projetos e os três maiores receptores por 56%. **Mudança estrutural:** capital produtivo marginal está mais concentrado em IA, infraestrutura digital, chips, energia e minerais críticos.
+6. **[Fato observado · confiança alta] O FDI cresce, mas se concentra em poucos destinos e setores estratégicos.** A UNCTAD registrou FDI global de US$ 1,6 trilhão em 2025, +6%; mais de 80% foi para os 20 maiores destinos. Setores estratégicos chegaram a 44% do valor de projetos greenfield, ante 16% em 2020.
 
-7. **[Fato observado · confiança alta] O gargalo mineral continua mais concentrado no processamento do que na geologia.** A IEA calcula que a participação média dos três maiores países no refino de cobre, lítio, níquel, cobalto, grafite e terras raras chegou a 86% em 2024, ante ~82% em 2020; quase todo crescimento veio do líder — Indonésia em níquel e China nos demais. Em 2026 há diversificação marginal em terras raras, com novos projetos nos EUA e maior produção na Malásia, mas ainda insuficiente para alterar o regime.
+7. **[Fato observado · confiança alta] O gargalo mineral está mais concentrado no processamento do que na geologia.** A IEA estima participação média dos três maiores países de 86% no refino de seis minerais-chave em 2024, ante cerca de 82% em 2020; Indonésia lidera a expansão em níquel e China nos demais principais elos.
 
-8. **[Fato observado + inferência · confiança alta] Energia tornou-se novamente um mecanismo de transferência de renda para produtores e um imposto sobre consumidores/importadores.** O STEO de setembro da EIA aponta estoques globais reduzidos por interrupções de produção e prevê petróleo elevado até normalização dos fluxos e recomposição de estoques. **Inferência:** enquanto durar o choque, renda nominal migra de consumidores/importadores líquidos para produtores, operadores logísticos e ativos energéticos; a permanência dessa transferência depende da duração da disrupção.
+8. **[Fato observado + inferência · confiança média-alta] Energia voltou a redistribuir renda entre importadores e produtores.** O STEO de setembro da EIA descreve estoques globais comprimidos por interrupções de produção. Enquanto o choque persistir, renda nominal migra para produtores, exportadores e logística; isso não equivale a transferência permanente de propriedade.
 
-9. **[Fato observado · confiança alta] IA está convertendo capital financeiro em ativos físicos de longa duração.** A IEA estima que o capex de cinco grandes empresas de tecnologia superou US$ 400 bilhões em 2025 e pode crescer mais 75% em 2026; consumo elétrico de data centers cresceu 17% em 2025. Isso desloca riqueza marginal para geração/transmissão elétrica, equipamentos, terrenos conectados à rede, refrigeração, chips e materiais, criando uma ponte direta entre tecnologia e commodities.
+9. **[Fato observado · confiança alta] IA converte capital financeiro em ativos físicos de longa duração.** A IEA estima capex superior a US$ 400 bilhões em 2025 para cinco grandes empresas de tecnologia e possibilidade de expansão adicional em 2026. Eletricidade, rede, chips, refrigeração, cobre e equipamentos tornam-se elos de captura de renda.
 
-10. **[Sinal preliminar · confiança média] A Ásia mostra fluxos divergentes: Japão exporta capital privado para ações estrangeiras ao mesmo tempo que o Estado usa reservas para defender a moeda; China mantém grande buffer externo, mas crédito doméstico segue fraco.** Investidores japoneses aplicaram ¥1,3 trilhão em ações estrangeiras em agosto enquanto reduziram títulos externos. Na China, novos empréstimos bancários foram apenas ¥60 bilhões em agosto após contração de ¥340 bilhões em julho. Isso sugere que a capacidade financeira externa asiática não implica necessariamente forte absorção doméstica de capital.
+10. **[Sinal preliminar · confiança média] Fluxos asiáticos seguem divergentes.** Poupança japonesa migra entre classes de ativos estrangeiros enquanto o Estado usa reservas; a China mantém grande buffer externo, mas crédito doméstico permanece fraco. Capacidade financeira externa não implica absorção doméstica forte.
 
 ## 2. Mapa de fluxos geográficos e entre classes de ativos
 
 | Origem | Destino | Mecanismo | Horizonte | Leitura |
 |---|---|---|---|---|
-| Investidores globais | EUA | TIC: títulos, ações, instrumentos de curto prazo e fluxos bancários | 3 meses | EUA seguem como principal reservatório financeiro líquido de capital estrangeiro |
-| Bancos internacionais | Contrapartes cross-border | Crédito/intermediação | 3 meses | Forte expansão da liquidez bancária internacional |
-| Bancos centrais | Ouro | Compra física + valorização | 3–12 meses | Diversificação incremental de reservas |
-| Fluxos externos/bancos | Índia/RBI | FX + swaps | 1 semana | Buffer externo indiano atingiu recorde |
-| Reservas japonesas | Mercado de FX | Venda de dólares/compra de iene | 1 mês | Estado japonês converte parte do buffer em defesa cambial |
-| Poupança japonesa | Ações EUA/Europa e outras | Portfólio | 1 mês | Maior preferência recente por equities estrangeiras |
-| Capital global de FDI | EUA e outros grandes hubs estratégicos | Greenfield/data centers/IA | 1 ano | Concentração crescente de capex estratégico |
-| Capital de tecnologia | Energia/chips/data centers | Capex físico | 1 ano e forward | Conversão de ativos financeiros em infraestrutura intensiva em eletricidade |
-| Importadores de energia | Produtores/exportadores | Termos de troca/preço | 1 semana–1 mês | Choque de oferta redistribui renda enquanto persistir |
-| Mineração global | China/Indonésia e hubs de refino | Processamento | estrutural | Captura de valor migra da jazida para o elo industrial |
+| Investidores globais | EUA | TIC/portfólio | 3 meses | Forte capacidade de absorção financeira |
+| Bancos internacionais | Contrapartes cross-border | Crédito | 3 meses | Expansão de intermediação |
+| Bancos centrais | Ouro | Compra física | 6 meses | Positiva, porém irregular: 57 t no 1T e 289 t no 2T |
+| Fluxos externos/bancos | Índia/RBI | FX + swaps | 1 semana | Buffer recorde |
+| Reservas japonesas | Mercado de FX | Intervenção | 1 mês | Uso de estoque para defesa cambial |
+| Poupança japonesa | Ações estrangeiras | Portfólio | 1 mês | Rotação de classe de ativo |
+| Capital global de FDI | Hubs estratégicos | Greenfield | 1 ano | Concentração crescente |
+| Capital de tecnologia | Energia/chips/data centers | Capex | 1 ano/forward | Financeiro → infraestrutura física |
+| Importadores de energia | Produtores/exportadores | Termos de troca | 1 semana–1 mês | Transferência de renda enquanto durar o choque |
+| Mineração global | China/Indonésia/hubs de refino | Processamento | estrutural | Captura de valor deslocada para o elo industrial |
 
 ## 3. Reservas cambiais, moedas e ouro
 
 ### Sistema monetário oficial
 
-O COFER do FMI, com última observação no 1T26, mostra US$ 13,10 trilhões em reservas cambiais e dólar em 57,13%. A comparação com 4T25 (56,42%) é importante porque impede uma narrativa simplista de colapso do dólar. Em 2025, ouro ganhou peso relativo nas reservas oficiais, mas o FMI atribui grande parte da mudança à valorização do metal.
+O COFER do FMI, com última observação no 1T26, mostra US$ 13,10 trilhões em reservas cambiais e dólar em 57,13%. A comparação com 4T25 (56,42%) contradiz uma narrativa de colapso imediato do dólar. O valor do ouro nas reservas pode aumentar por compra física, preço ou FX; somente a compra/venda física representa fluxo de alocação.
 
-**1 semana:** Índia é o movimento quantitativo mais forte disponível: +US$ 44,9 bi para US$ 785,7 bi na semana até 4/9.  
+**1 semana:** Índia +US$ 44,9 bi para US$ 785,7 bi na semana até 4/9.  
 **1 mês:** Japão -US$ 79,6 bi em agosto para US$ 1,208 tri; China +US$ 19,5 bi para ~US$ 3,438 tri.  
-**3 meses:** COFER não oferece frequência suficiente para leitura semanal; a composição monetária permanece estruturalmente estável.  
-**1 ano:** ouro ganhou relevância e bancos centrais mantiveram demanda, mas isso não equivale a saída dólar-por-dólar de reservas.
+**3 meses:** COFER não tem frequência para leitura semanal; composição monetária segue estruturalmente estável.  
+**1 ano:** ouro ganhou relevância, mas não há equivalência dólar-por-dólar entre valorização do ouro e venda de reservas em dólar.
 
-### Ouro oficial
+### Ouro oficial — série revisada
 
-O WGC estimou 244 t de compras líquidas no 1T26. Em setembro, informou que as compras chinesas ganharam ritmo, com meses de dois dígitos desde maio. O sinal é consistente com diversificação de reserva e proteção contra risco político/financeiro, porém a decomposição correta é:
+O **Gold Demand Trends Q2 2026**, publicado pelo World Gold Council em 30/07/2026, revisou materialmente a estimativa do 1T26: de **244 t para 57 t**. A diferença de **187 t** foi reclassificada para OTC e outras demandas com base em novos dados e análise. No 2T26, a demanda líquida de bancos centrais foi **289 t**, cinco vezes o 1T revisado e recorde para um segundo trimestre; o 1S26 totalizou **345 t**, o menor primeiro semestre desde 2022.
 
-**Δ valor do ouro oficial = compra/venda física + variação do preço do ouro + efeito cambial.**
+A interpretação muda em magnitude: **não houve uma aceleração oficial contínua no 1T26**. Houve um primeiro trimestre fraco, afetado por vendas de alguns agentes, seguido por forte retomada no segundo trimestre. O WGC também registra que a China aumentou o ritmo de acumulação nos dados reportados e, em setembro, informou compras mensais chinesas de dois dígitos desde maio. Isso sustenta uma tese de diversificação incremental, mas com elevada variabilidade trimestral.
 
-Somente o primeiro componente é fluxo de alocação. Os outros alteram o valor do estoque.
+Decomposição correta:
+
+**Δ valor do ouro oficial = compra/venda física + variação do preço + efeito cambial.**
+
+A valorização do estoque não deve ser contabilizada como fluxo. A série de demanda do WGC também permanece sujeita a revisões conforme surgem dados de operações não reportadas.
 
 ## 4. Treasuries, títulos, ações, crédito e portfólio
 
-O TIC de junho é a melhor leitura oficial recente dos fluxos para ativos norte-americanos: entrada líquida total de US$ 133,5 bi e compras líquidas ajustadas de longo prazo de US$ 172,7 bi. Maio havia registrado US$ 132,2 bi e abril US$ 26,1 bi. A sequência confirma demanda externa, mas o Treasury alerta que a atribuição por país é imperfeita devido a custodians e centros financeiros.
+O TIC de junho mostra entrada líquida total de US$ 133,5 bi e compras líquidas ajustadas de longo prazo de US$ 172,7 bi. Maio registrou US$ 132,2 bi e abril US$ 26,1 bi no agregado. A sequência confirma demanda externa, mas a atribuição por país é imperfeita por custodians e centros financeiros.
 
-A pesquisa anual do Treasury sobre posições no fim de junho de 2025 registrava US$ 6,598 trilhões em títulos norte-americanos detidos por instituições oficiais estrangeiras, evidenciando o tamanho do estoque sobre o qual esses fluxos operam.
+A pesquisa anual do Treasury para junho de 2025 registrava US$ 6,598 trilhões em títulos norte-americanos detidos por instituições oficiais estrangeiras. No Japão, dados de agosto mostram ¥1,3 tri direcionados a ações estrangeiras, enquanto houve redução em bonds externos: saída de capital pode coexistir com rotação entre classes.
 
-No Japão, dados de agosto mostram ¥1,3 tri direcionados a ações estrangeiras, enquanto investidores reduziram exposição a bonds externos. É um exemplo útil de rotação entre classes: capital continua saindo do país, mas muda de renda fixa para equities.
-
-**Leitura 1W:** sem nova observação TIC; aguarda-se julho.  
-**1M:** junho mantém forte absorção de capital pelos EUA; Japão mostra rotação para equities em agosto.  
-**3M:** abril–junho TIC positivo no agregado.  
-**1Y:** o estoque estrangeiro de ativos dos EUA continua grande; não há evidência oficial de desintermediação abrupta.
+**1W:** sem nova observação TIC na data de corte.  
+**1M:** forte absorção pelos EUA e rotação japonesa para equities.  
+**3M:** abril–junho TIC positivo.  
+**1Y:** estoque estrangeiro de ativos dos EUA permanece elevado; sem evidência de desintermediação abrupta.
 
 ## 5. Bancos e crédito transfronteiriço
 
-O BIS reportou aumento de US$ 2,1 tri nos claims bancários cross-border no 1T26 em base ajustada; uma medida com ajustes adicionais aponta cerca de US$ 1,6 tri, ainda a maior expansão trimestral desde a pandemia. Esse fluxo deve ser interpretado como expansão de balanços e intermediação, não como riqueza líquida nova: para cada claim há uma contraparte/passivo no sistema.
+O BIS reportou aumento de US$ 2,1 tri nos claims bancários cross-border no 1T26. Uma medida com ajustes adicionais aponta cerca de US$ 1,6 tri, ainda expansão muito forte. Claims são ativos de um agente e passivos/obrigações de outro; não devem ser somados a patrimônio global como riqueza líquida nova.
 
-A China fornece o contraponto doméstico: novos empréstimos bancários de apenas ¥60 bi em agosto, após contração de ¥340 bi em julho. O sinal é de demanda de crédito interna fraca, mesmo com grande posição de reservas externas.
+Na China, novos empréstimos bancários de apenas ¥60 bi em agosto, após contração de ¥340 bi em julho, fornecem contraponto doméstico: grande posição externa não implica forte demanda interna por crédito.
 
 ## 6. Fundos soberanos e capital estatal
 
-O capital soberano continua crescendo em escala e em capacidade de alocação internacional. O Government Pension Fund Global da Noruega retornou 9,4% no primeiro semestre de 2026; o ganho de mercado aumenta o estoque administrado sem representar aporte fiscal equivalente. O PIF saudita, em seu relatório anual de 2025 publicado em agosto de 2026, destacou acordos com gestores globais e a transição para sua estratégia 2026–2030, voltada a ecossistemas domésticos competitivos e maximização de retornos de ativos estratégicos.
+O capital soberano continua convertendo receitas fiscais, energéticas e retornos financeiros em ativos globais e capacidade doméstica. O Government Pension Fund Global da Noruega retornou 9,4% no primeiro semestre de 2026; ganho de mercado eleva o estoque sem representar aporte fiscal equivalente. O PIF saudita, no relatório anual de 2025 publicado em 2026, enfatiza mobilização de capital e ecossistemas domésticos estratégicos.
 
-A direção estrutural é dupla: fundos soberanos continuam grandes compradores de ativos financeiros globais, mas parte crescente do mandato é mobilizar capital externo e converter riqueza financeira/energética em capacidade doméstica — indústria, infraestrutura, tecnologia e logística.
+**Inferência · confiança alta:** a função dos grandes fundos soberanos está se tornando dupla: preservar riqueza financeira internacional e financiar capacidade industrial, tecnológica, logística e energética doméstica.
 
 ## 7. FDI, greenfield e M&A
 
-A UNCTAD registrou FDI global de US$ 1,6 tri em 2025, +6%. O agregado, porém, mascara concentração: >80% foi para os 20 maiores destinos. Setores estratégicos passaram de 16% do valor de projetos greenfield em 2020 para 44% em 2025; os três maiores investidores concentraram 72% do valor e os três maiores destinos 56%.
+A UNCTAD registrou FDI global de US$ 1,6 tri em 2025, +6%. Mais de 80% foi para os 20 maiores destinos. Setores estratégicos passaram de 16% do valor de greenfield em 2020 para 44% em 2025. O sinal estrutural é de concentração do investimento marginal em infraestrutura digital/IA, semicondutores, energia e minerais críticos.
 
-Isso é mais importante do que o crescimento de 6% do agregado. A mudança estrutural está na composição: infraestrutura digital/IA, semicondutores, energia e minerais críticos absorvem parcela maior do investimento marginal. Capital está escolhendo capacidade estratégica, não apenas custo de trabalho ou acesso genérico a mercados.
+Não há nova observação semanal comparável de FDI que justifique extrapolar esse movimento como fluxo de sete dias; a leitura é anual/estrutural.
 
 ## 8. Energia: petróleo, gás, urânio e eletricidade
 
-### Petróleo e gás
+O STEO de setembro da EIA descreve estoques globais comprimidos por interrupções de produção e preços elevados até normalização dos fluxos e recomposição de estoques. Preço mais alto desloca renda corrente de consumidores/importadores para produtores/exportadores, mas não transfere automaticamente propriedade de ativos.
 
-O STEO de setembro da EIA descreve estoques globais comprimidos por interrupções de produção e prevê petróleo elevado até a normalização dos fluxos e recomposição de estoques. Também registra que maior produção de gás no Permian e Haynesville ajudou a recompor estoques de gás nos EUA durante o verão.
-
-**Transferência econômica:** preços elevados de petróleo deslocam renda corrente para produtores/exportadores e pressionam margens e renda real de importadores. Isso é fluxo de renda, não transferência automática de propriedade de ativos.
-
-### Eletricidade e IA
-
-A IEA projeta consumo elétrico dos EUA crescendo perto de 2% ao ano em 2026–2030, mais que o dobro do ritmo da década anterior, com data centers como vetor central. Na China, crescimento médio projetado é 4,9% ao ano no mesmo período. Data centers de IA hyperscale podem exceder 100 MW por instalação.
-
-O efeito patrimonial é relevante: disponibilidade de conexão à rede, geração firme, transmissão, transformadores, turbinas, armazenamento e terrenos com energia disponível passam a carregar prêmio econômico maior.
-
-### Urânio
-
-Não há, nesta janela semanal, nova série oficial comparável que justifique afirmar mudança quantitativa de estoque ou fluxo mundial de urânio. O tema permanece estruturalmente ligado à expansão nuclear e segurança energética, mas fica classificado como **sem nova evidência semanal suficiente**.
+Na eletricidade, a IEA projeta crescimento relevante de demanda associado a data centers. O efeito patrimonial aparece em conexão à rede, geração firme, transmissão, transformadores, armazenamento, refrigeração e terrenos energizados. Para urânio, não há nesta janela semanal nova série oficial comparável suficiente para afirmar mudança quantitativa mundial; permanece tema estrutural ligado à expansão nuclear e segurança energética.
 
 ## 9. Minerais estratégicos
 
-A IEA mostra que o problema central não é apenas onde estão as reservas geológicas, mas onde ocorre o refino. A participação média dos três maiores refinadores dos seis minerais-chave chegou a 86% em 2024, contra ~82% em 2020. Quase todo crescimento de oferta refinada veio do principal fornecedor: Indonésia em níquel; China em cobre, lítio, cobalto, grafite e terras raras.
+A IEA mostra concentração média de 86% nos três maiores refinadores dos seis minerais-chave em 2024, contra ~82% em 2020. O principal fornecedor respondeu por quase todo crescimento recente de oferta refinada — Indonésia em níquel e China nos demais principais minerais.
 
-**Cobre:** expansão de fundição/refino chinesa mantém forte captura industrial do valor pós-mineração.  
-**Lítio:** investimento de especialistas caiu cerca de 40% após anos de expansão, sinal de disciplina/ciclo de preço que pode afetar oferta futura.  
-**Níquel:** Indonésia segue como polo dominante do crescimento refinado.  
-**Cobalto:** concentração e dependência de cadeias integradas permanecem altas, embora LFP reduza parte da pressão de demanda de baterias.  
-**Terras raras:** EUA e Malásia produziram diversificação marginal no refino entre 2023–2025, exceção à tendência de maior concentração.  
-**Ferro:** sem nova evidência semanal estrutural comparável nesta edição; não inferimos mudança de poder apenas a partir de preço spot.
+- **Cobre:** fundição/refino chinês mantém captura industrial relevante.
+- **Lítio:** queda de preços e disciplina de capex podem afetar oferta futura; não confundir com perda imediata de reservas geológicas.
+- **Níquel:** Indonésia permanece polo dominante de expansão refinada.
+- **Cobalto:** cadeia continua concentrada; química LFP reduz parte da pressão de demanda.
+- **Terras raras:** projetos fora da China representam diversificação marginal, ainda insuficiente para alterar o regime.
+- **Ferro:** sem evidência semanal estrutural comparável; preço spot isolado não prova mudança de poder.
 
-**Conclusão:** países mineradores podem aumentar receita de exportação sem capturar o maior valor agregado. Refino, química, componentes e manufatura continuam determinantes para transformar recurso geológico em poder industrial.
+## 10. Capacidade produtiva
 
-## 10. Capacidade produtiva: chips, baterias, refino, data centers, logística e energia
+A cadeia de IA transforma caixa e financiamento em infraestrutura:
 
-A conversão de capital para infraestrutura de IA é a mudança mais clara de composição do investimento. A IEA informa capex acima de US$ 400 bi em 2025 para cinco grandes empresas de tecnologia e crescimento potencial de 75% em 2026. A UNCTAD identifica data centers como força central na concentração do investimento greenfield.
+**capital → data center → chips → eletricidade → rede → geração → metais/equipamentos → refrigeração/logística.**
 
-Isso cria uma cadeia de demanda:
-
-**capital financeiro → data center → chips → eletricidade → rede → geração → cobre/alumínio → equipamentos → refrigeração → logística.**
-
-A riqueza não “sai” simplesmente da tecnologia para energia: empresas de tecnologia transformam caixa e capacidade de financiamento em ativos produtivos físicos; fornecedores capturam receita; proprietários de infraestrutura acumulam ativos; regiões com energia e rede ganham poder de barganha.
-
-Baterias mostram dinâmica diferente: queda de investimento em especialistas de lítio/níquel/cobalto após excesso de capacidade e preços menores, ao mesmo tempo que a concentração de processamento permanece elevada. O risco é um ciclo em que preços baixos reduzem capex fora dos incumbentes e acabam reforçando concentração futura.
+A IEA informa capex acima de US$ 400 bi em 2025 para cinco grandes empresas de tecnologia e expansão adicional potencial em 2026. A UNCTAD identifica data centers como vetor central do greenfield estratégico. O poder de captura de renda migra para quem controla capacidade escassa — chips avançados, conexão elétrica, geração, equipamentos, refrigeração, rede e terrenos adequados.
 
 ## 11. Wealth Transfer Matrix
 
 | Origem | Destino | Mecanismo | Evidência | Tipo | Confiança |
 |---|---|---|---|---|---|
-| Capital estrangeiro | Ativos dos EUA | TIC/portfólio/bancos | +US$ 133,5 bi TIC total em junho | Fluxo financeiro | Alta |
-| Bancos globais | Crédito cross-border | Expansão de claims | +US$ 2,1 tri no 1T26 | Fluxo/balanço | Alta |
-| Bancos/fluxos externos | Reservas da Índia | FX e swaps | +US$ 44,9 bi em 1 semana | Estoque + fluxo | Alta |
+| Capital estrangeiro | Ativos dos EUA | TIC | +US$ 133,5 bi em junho | Fluxo financeiro | Alta |
+| Bancos globais | Crédito cross-border | Claims | +US$ 2,1 tri no 1T26 | Fluxo/balanço | Alta |
+| Fluxos externos/bancos | Reservas da Índia | FX/swaps | +US$ 44,9 bi em 1 semana | Estoque + fluxo | Alta |
 | Reservas do Japão | Mercado de FX | Intervenção | -US$ 79,6 bi em agosto | Uso de estoque | Alta |
-| Bancos centrais | Ouro | Compra física | 244 t líquidas no 1T26; China acelera | Mudança de alocação | Alta |
+| Bancos centrais | Ouro | Compra física | 57 t 1T26; 289 t 2T26; 345 t 1S26 | Mudança de alocação | Alta |
 | Investidores japoneses | Ações estrangeiras | Portfólio | ¥1,3 tri em agosto | Fluxo financeiro | Alta |
 | Investidores globais | IA/data centers | Greenfield/capex | 44% do greenfield em setores estratégicos | Formação de capital | Alta |
-| Empresas de tecnologia | Energia/rede/chips | Capex | >US$ 400 bi em 2025; +75% projetado 2026 | Formação de capital | Alta |
-| Importadores de petróleo | Produtores/exportadores | Preço/termos de troca | choque de oferta + estoques baixos | Fluxo de renda | Média-alta |
+| Empresas de tecnologia | Energia/rede/chips | Capex | >US$ 400 bi em 2025 | Formação de capital | Alta |
+| Importadores de petróleo | Produtores/exportadores | Preço/termos de troca | choque de oferta | Fluxo de renda | Média-alta |
 | Países mineradores | Hubs de refino | Cadeia de valor | top-3 refino = 86% | Captura de valor | Alta |
 
 ## 12. Vencedores e perdedores relativos
 
-**Vencedores relativos — evidência atual:**
+**Vencedores relativos:** EUA como centro financeiro; China/Indonésia no processamento mineral; produtores de energia enquanto o choque persistir; regiões com capacidade elétrica/rede para IA; Índia em capacidade de defesa externa.  
+**Pressionados:** importadores líquidos de energia em choque prolongado; Japão pelo custo de defesa cambial; economias fora dos hubs de FDI estratégico; mineradores sem processamento local.
 
-- **EUA como centro financeiro:** continuam recebendo capital externo e concentrando capex de tecnologia/IA. **Confiança alta.**
-- **Produtores de energia enquanto o choque persistir:** melhora de termos de troca e renda. **Confiança média-alta; dependente da duração.**
-- **China/Indonésia no processamento mineral:** posição industrial captura valor além da mineração. **Confiança alta.**
-- **Índia em capacidade de defesa externa:** aumento expressivo do buffer de reservas. **Confiança alta; parte associada a swaps e deve ser interpretada como capacidade, não riqueza líquida permanente.**
-- **Ativos de infraestrutura elétrica e regiões com capacidade de rede:** demanda de IA aumenta escassez econômica. **Inferência, confiança alta.**
-
-**Perdedores/pressionados relativos:**
-
-- **Importadores líquidos de energia** durante choque prolongado. **Cenário condicional, confiança média-alta.**
-- **Japão em custo de defesa cambial:** redução material do buffer em agosto. **Fato observado, confiança alta.**
-- **Economias fora dos hubs de FDI estratégico:** concentração de projetos reduz participação no investimento marginal. **Inferência, confiança alta.**
-- **Mineradores sem capacidade de processamento local:** capturam menor parcela da cadeia de valor. **Inferência estrutural, confiança alta.**
+A revisão do ouro reduz a força da interpretação de bancos centrais como “vencedores por acumulação” no 1T26: a evidência correta é de **retomada forte no 2T**, não de aceleração contínua no semestre.
 
 ## 13. Sinais preliminares versus mudanças confirmadas
 
-### Mudanças confirmadas
+### Confirmadas
+- Concentração maior de greenfield em setores estratégicos.
+- Alta concentração do refino de minerais críticos.
+- Crescimento da demanda elétrica associada a data centers.
+- Dólar permanece principal moeda de reserva.
+- Forte expansão do crédito bancário transfronteiriço no 1T26.
+- **Demanda oficial de ouro foi fraca no 1T26 e recuperou-se fortemente no 2T26 após revisão estatística.**
 
-- Maior concentração de investimento greenfield em setores estratégicos.
-- Persistência de alta concentração do refino de minerais críticos.
-- Crescimento acelerado da demanda elétrica associada a data centers.
-- Manutenção do dólar como principal moeda de reserva, apesar do crescimento do ouro.
-- Expansão forte do crédito bancário transfronteiriço no 1T26.
-
-### Sinais preliminares
-
-- Aceleração das compras chinesas de ouro desde maio.
-- Rotação de investidores japoneses de bonds externos para equities estrangeiras.
-- Aumento excepcional das reservas indianas associado a fluxos e swaps.
-- Possibilidade de que preços baixos de materiais de bateria reduzam investimento fora dos líderes e reforcem concentração futura.
+### Preliminares
+- Aceleração recente das compras chinesas de ouro desde maio.
+- Rotação japonesa de bonds externos para equities.
+- Aumento excepcional das reservas indianas.
+- Possível redução de capex em materiais de bateria reforçando concentração futura.
 
 ### Ainda não confirmado
-
 - Ruptura estrutural da hegemonia do dólar.
-- Desconcentração ampla das cadeias de minerais críticos.
-- Transferência permanente de renda para produtores de petróleo decorrente do choque atual.
+- Desconcentração ampla de minerais críticos.
+- Transferência permanente de renda para produtores de petróleo.
 - Repatriação estrutural de capital japonês.
+- Aceleração linear e contínua da compra global de ouro por bancos centrais.
 
 ## 14. Riscos de segunda ordem
 
-1. **Energia → inflação → yields → valuation:** petróleo persistentemente alto pode elevar inflação, manter juros longos altos e reduzir o valor presente de ativos de longa duração, inclusive IA.
-2. **IA → eletricidade → metais/equipamentos:** expansão simultânea de data centers pode deslocar o gargalo de GPUs para rede, transformadores, geração, gás, cobre e licenciamento.
-3. **Minerais → política industrial → fragmentação:** tentativas de diversificar refino podem aumentar subsídios, estoques estratégicos e duplicação de capacidade, reduzindo eficiência global em troca de resiliência.
-4. **FX asiático → reservas → Treasuries:** intervenções persistentes podem alterar a composição de ativos oficiais, mas não devem ser confundidas automaticamente com venda estrutural de Treasuries sem dados TIC/custódia confirmatórios.
-5. **Capex concentrado → concentração geográfica de produtividade:** países sem energia confiável, infraestrutura digital e capital podem perder participação em investimento estratégico mesmo com mão de obra competitiva.
-6. **Crédito cross-border → vulnerabilidade financeira:** expansão rápida de balanços aumenta liquidez, mas também interconexão e potencial transmissão de choques.
+1. **Energia → inflação → yields → valuation.**
+2. **IA → eletricidade → metais/equipamentos:** gargalo pode migrar de GPUs para rede e geração.
+3. **Minerais → política industrial → fragmentação:** resiliência pode exigir duplicação de capacidade e subsídios.
+4. **FX asiático → reservas → Treasuries:** intervenção não deve ser tratada como venda estrutural de Treasuries sem confirmação.
+5. **Capex concentrado → concentração geográfica de produtividade.**
+6. **Crédito cross-border → vulnerabilidade financeira:** mais liquidez também aumenta interconexão.
+7. **Revisões estatísticas → risco narrativo:** estimativas de fluxos não reportados, como ouro oficial, podem sofrer reclassificações materiais; conclusões devem preservar intervalos de confiança e data de vintage.
 
 ## 15. Indicadores para a próxima semana
 
-1. **TIC de julho dos EUA, previsto para 16 de setembro:** verificar continuidade do forte ingresso estrangeiro e composição entre Treasuries, equities e outros títulos.
-2. **Brent/fluxos físicos/estoques:** testar se o choque energético está se normalizando ou se a transferência de renda para produtores persiste.
-3. **Reservas e intervenção na Ásia:** Japão, Índia e China — separar valuation, swaps e intervenção efetiva.
-4. **Ouro oficial:** novas divulgações de PBoC e outros bancos centrais; observar quantidade, não apenas valor em dólares.
-5. **China crédito/atividade:** confirmar se o fraco impulso de empréstimos se traduz em menor absorção doméstica de capital.
-6. **Yields longos dos EUA:** avaliar se capex de IA e ativos de crescimento continuam absorvendo capital sob taxa de desconto elevada.
-7. **Projetos de energia/data centers:** anúncios de conexão, geração, transmissão e atrasos regulatórios como indicador de onde o gargalo físico está migrando.
-8. **Minerais críticos:** novos controles de exportação, projetos de refino fora da China/Indonésia e cortes de capex em materiais de bateria.
+1. TIC de julho dos EUA: continuidade e composição do ingresso estrangeiro.
+2. Brent, fluxos físicos e estoques: duração da transferência de renda energética.
+3. Reservas/intervenção em Japão, Índia e China: separar valuation, swaps e transações.
+4. Ouro oficial: PBoC e demais bancos centrais; acompanhar toneladas reportadas e novas revisões do WGC.
+5. Crédito/atividade chineses.
+6. Yields longos dos EUA versus capex de IA.
+7. Projetos de energia/data centers, conexão e atrasos regulatórios.
+8. Minerais críticos: controles de exportação, novos projetos de refino e cortes de capex.
 
 ## Conclusão estratégica
 
-A leitura desta semana não é de uma migração simples de riqueza “do Ocidente para o Oriente” ou “do dólar para o ouro”. O sistema está se tornando mais segmentado. **O capital financeiro internacional continua fortemente atraído pelos EUA; bancos centrais diversificam parte dos buffers para ouro; Estados asiáticos usam e acumulam reservas por razões distintas; capital soberano transforma receitas e ativos financeiros em capacidade estratégica; e o investimento produtivo marginal está se concentrando em IA, energia, semicondutores e cadeias minerais.**
+A leitura revisada não é de uma migração simples de riqueza “do Ocidente para o Oriente” ou “do dólar para o ouro”. O capital internacional continua fortemente atraído pelos EUA; reservas asiáticas se movem por mecanismos distintos; capital soberano transforma receitas e retornos em capacidade estratégica; e investimento produtivo marginal se concentra em IA, energia, semicondutores e processamento mineral.
 
-A transferência de poder mais importante é menos visível que o movimento diário dos preços: **da simples posse de recursos para o controle do processamento, da disponibilidade genérica de capital para a capacidade de financiar capex gigantesco, e da infraestrutura digital abstrata para eletricidade, rede, chips e ativos físicos escassos.**
+**A revisão do ouro é material:** o 1T26 teve apenas 57 t de demanda líquida estimada de bancos centrais, não 244 t. O 2T26, com 289 t, mostra retomada forte. Assim, a diversificação oficial em ouro permanece uma tendência plausível e observável em horizonte mais longo, mas a trajetória de 2026 é irregular e não suporta uma narrativa de aceleração trimestral contínua. A valorização do metal continua devendo ser separada de compra física.
 
-A principal evidência contrária à tese de fragmentação acelerada é a persistente capacidade dos mercados norte-americanos de absorver capital externo. A principal evidência a favor de diversificação é a acumulação oficial de ouro e a expansão de políticas industriais/ativos estratégicos. As duas tendências podem coexistir por anos.
+A transferência de poder mais relevante permanece na capacidade de transformar recursos e financiamento em processamento, tecnologia e infraestrutura escassa. A principal evidência contrária a uma fragmentação financeira acelerada é a persistente absorção de capital pelos EUA; a favor da diversificação está a política industrial, a acumulação seletiva de ouro e a expansão de ativos estratégicos. Essas tendências podem coexistir.
 
 ---
 
@@ -228,18 +202,17 @@ A principal evidência contrária à tese de fragmentação acelerada é a persi
 - BIS, International Banking Statistics, fim de março de 2026: https://www.bis.org/publications/202607-commentary-ibs-gli
 - U.S. Treasury, TIC junho de 2026: https://home.treasury.gov/news/press-releases/sb0606
 - Japan Ministry of Finance, reservas agosto de 2026: https://www.mof.go.jp/english/policy/international_policy/reference/official_reserve_assets/e0808.html
+- World Gold Council, **Gold Demand Trends Q2 2026, 30 jul 2026 (série revisada)**: https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q2-2026/central-banks
+- World Gold Council, errata/revisão do Q1 2026: https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2026
 - World Gold Council, estatísticas de bancos centrais, setembro de 2026: https://www.gold.org/goldhub/gold-focus/2026/09/central-bank-gold-statistics-central-banks-make-positive-headlines-gold
-- World Gold Council, Gold Demand Trends Q1 2026: https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2026/central-banks
 - UNCTAD, World Investment Report 2026: https://investmentpolicy.unctad.org/publications/1324/world-investment-report-2026-international-investment-in-a-turbulent-era
 - UNCTAD, strategic sectors: https://unctad.org/news/investment-strategic-sectors-expanding-many-developing-economies-risk-being-left-behind
 - IEA, Global Critical Minerals Outlook 2026: https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary
-- IEA, Critical Minerals: https://www.iea.org/topics/critical-minerals
 - IEA, Electricity 2026: https://www.iea.org/reports/electricity-2026/demand
-- IEA, data centres/electricity 2026: https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions
 - EIA, Short-Term Energy Outlook, setembro de 2026: https://www.eia.gov/outlooks/steo/report/
 - Norges Bank Investment Management, H1 2026: https://www.nbim.no/en/news-and-insights/the-press/press-releases/2026/record-high-krone-return-in-the-first-half-of-the-year/
 - PIF, Annual Report 2025 release: https://annualreport.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-delivers-strong-revenue-and-profit-growth-in-2025/
 
-**Fontes de contexto recentes:** Reuters para reservas chinesas, intervenção japonesa, fluxos japoneses, crédito chinês e reservas indianas. Números oficiais foram priorizados quando disponíveis.
+**Nota de revisão QA:** o WGC publicou em 30/07/2026 nova análise que reduziu a estimativa de demanda de bancos centrais no 1T26 de 244 t para 57 t; 187 t foram reclassificadas para OTC e outras demandas. Esta revisão substitui a magnitude usada na versão inicial desta edição e recalibra as conclusões associadas.
 
 **Data de corte:** 15 setembro 2026. Dados com frequência inferior à semanal permanecem identificados pelo respectivo período de referência.
