@@ -56,10 +56,16 @@ const replacements=[
   ['claims cross-border','ativos transfronteiriços'],
   ['claims financeiros','direitos financeiros'],
   ['um claim sobre renda futura','um direito financeiro sobre renda futura'],
-  ['collateral e canais de liquidez','garantias financeiras e canais de liquidez'],
+  ['mercados de títulos, collateral e canais de liquidez','mercados de títulos, garantias financeiras e canais de liquidez'],
+  ['quem controla o collateral','quem controla as garantias financeiras'],
+  ['liquidez e collateral','liquidez e garantias financeiras'],
   ['acesso a clearing','acesso a sistemas de liquidação financeira'],
+  ['continua núcleo de liquidez e collateral','continua no centro da liquidez internacional e do uso de garantias financeiras'],
+  ['### 1.6 China consolidou um modelo de poder baseado em escala industrial e midstream','### 1.6 China consolidou um modelo de poder baseado em escala industrial e processamento intermediário'],
   ['a renda marginal migrou da simples posse da jazida para o midstream.','uma parcela maior da renda passou a permanecer nas etapas de processamento e refino, e não apenas com quem possui a jazida.'],
+  ['renda deslocada para midstream','renda deslocada para etapas de processamento e refino'],
   ['Modelo industrial-midstream chinês','Modelo industrial e de processamento intermediário chinês'],
+  ['grande parte do midstream industrial','grande parte das etapas industriais de processamento intermediário'],
   ['fees, impostos, talento e informação','taxas e receitas de intermediação, impostos, talento e informação'],
   ['private markets e IA','mercados privados e IA'],
   ['buffers cambiais asiáticos','reservas cambiais asiáticas'],
@@ -94,7 +100,8 @@ const replacements=[
   ['vetor central do greenfield estratégico','um dos principais destinos de novos investimentos estratégicos'],
   ['trajetórias políticas de cauda','cenários políticos extremos'],
   ['prêmio físico','prêmio associado ao risco de oferta física'],
-  ['catalisador doméstico de prêmio','principal fator doméstico para o prêmio de risco']
+  ['catalisador doméstico de prêmio','principal fator doméstico para o prêmio de risco'],
+  ['ouro: cresce como hedge soberano não-passivo','ouro: ganha peso como ativo de reserva sem passivo de contraparte']
 ];
 
 function replaceAll(text,from,to){return text.split(from).join(to);}
