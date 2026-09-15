@@ -5,6 +5,9 @@ cd "$ROOT"
 rm -rf dist
 mkdir -p dist
 
+# Apply the reviewed institutional copy before rendering any public page.
+node scripts/apply-institutional-copy.mjs
+
 # Public assets and canonical research sources only. Internal QA data and scripts are never deployed.
 cp -R assets dist/
 cp -R reports dist/
@@ -38,4 +41,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, Portuguese and English editorial language normalized, hardened responsive layout, validated static output.'
+echo 'Cloudflare build ready: bilingual research, institutional copy reviewed, editorial language normalized, hardened responsive layout, validated static output.'
