@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "ready": true,
+  "id": "MT-WPMAP-2025",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T01:02:09-03:00",
+  "kind": "annual-wealth-power-map",
+  "priority": 50,
+  "title": "Global Wealth & Power Map 2025",
+  "deck": "Onde a riqueza mundial está concentrada, quem controla os gargalos necessários para produzir riqueza futura e como capital, recursos, tecnologia e poder econômico estão migrando.",
+  "url": "/reports/2026/09/2026-09-15-global-wealth-power-map-2025.html",
+  "markdown_url": "/reports/2026/09/2026-09-15-global-wealth-power-map-2025.md",
+  "tags": ["Global Wealth", "Geoeconomia", "Capital", "Recursos", "Tecnologia", "Energia", "Minerais", "IA"],
+  "keywords": ["riqueza mundial", "capital global", "reservas cambiais", "dólar", "ouro", "fundos soberanos", "FDI", "dívida", "crédito", "energia", "petróleo", "minerais críticos", "cobre", "lítio", "níquel", "terras raras", "semicondutores", "baterias", "data centers", "inteligência artificial", "intangíveis", "logística", "China", "Estados Unidos", "Golfo"],
+  "regime": "Financeirização elevada + reindustrialização estratégica + concentração de gargalos",
+  "key_risk": "Fragmentação geoeconômica combinada a concentração de processamento, infraestrutura digital e financiamento",
+  "watch": ["COFER/USD", "ouro de bancos centrais", "FDI estratégico", "refino de minerais", "semicondutores", "capex de data centers", "demanda elétrica"],
+  "search_text": "Global Wealth Power Map 2025 riqueza mundial capital ativos ações títulos dívida crédito reservas cambiais dólar euro renminbi ouro bancos centrais fundos soberanos FDI investimento direto imóveis terra infraestrutura petróleo gás eletricidade minerais críticos cobre lítio níquel cobalto terras raras agricultura água logística semicondutores baterias computação data centers inteligência artificial patentes intangíveis China Estados Unidos Europa Golfo Índia América Latina África",
+  "homepage_title": "Quem controla a riqueza — e os gargalos que produzirão a próxima",
+  "homepage_deck": "O mapa anual separa propriedade financeira, recursos, processamento, tecnologia e infraestrutura para mostrar onde o poder econômico realmente se concentra e para onde está migrando."
+}
