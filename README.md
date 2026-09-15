@@ -4,29 +4,9 @@ Marginal Thinking é uma publicação da LOGV dedicada a macroeconomia, mercados
 
 ## Site
 
-O site é estático e publicado via Cloudflare Workers Static Assets.
+O site é estático e publicado via Cloudflare Workers. O build gera `dist/`, restaura artefatos de publicação e injeta o Google Analytics em produção a partir de `PROD_GA_MEASUREMENT_ID`.
 
-Fluxo de produção:
-
-1. `npm run build`
-2. `scripts/cloudflare-build.sh` gera `dist/`
-3. PDF e XLSX são restaurados em `dist/reports/...`
-4. Google Analytics é injetado em produção a partir de `PROD_GA_MEASUREMENT_ID`
-5. `wrangler deploy` publica somente `dist/`, conforme `wrangler.jsonc`
-
-O diretório de assets do Worker é explicitamente `./dist`. `node_modules`, `.wrangler` e o próprio diretório `dist` são ignorados pelo Git.
-
-## Cloudflare
-
-Configuração esperada:
-
-- Production branch: `main`
-- Build command: `npm run build`
-- Deploy command: `npx wrangler deploy`
-- Root directory: raiz do repositório
-- Production variable: `PROD_GA_MEASUREMENT_ID=G-...`
-
-O nome do Worker no painel Cloudflare deve corresponder ao campo `name` de `wrangler.jsonc` (`marginalthinking`).
+Cada edição pode disponibilizar HTML, Markdown, PDF, DOCX e planilha XLSX. O arquivo público mantém histórico, busca client-side, filtro por ano e paginação.
 
 ## Licenças
 
