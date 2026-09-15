@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "ready": true,
+  "id": "MT-WP-2026-09-15",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T01:01:54-03:00",
+  "kind": "monthly-wealth-power",
+  "priority": 30,
+  "title": "Global Wealth & Power Flows — Setembro de 2026",
+  "deck": "A riqueza financeira permanece ancorada nos EUA, enquanto ouro oficial, capital soberano, processamento mineral, chips, data centers e eletricidade redesenham a capacidade de capturar renda futura.",
+  "url": "/reports/2026/09/2026-09-15-global-wealth-power-flows.html",
+  "markdown_url": "/reports/2026/09/2026-09-15-global-wealth-power-flows.md",
+  "tags": ["Global Wealth", "Capital", "Reservas", "Ouro", "Energia", "Minerais", "IA", "Geoeconomia"],
+  "keywords": ["riqueza mundial", "fluxos de capital", "COFER", "PIP", "CPIS", "BIS", "reservas cambiais", "dólar", "ouro", "fundos soberanos", "FDI", "UNCTAD", "energia", "petróleo", "eletricidade", "minerais críticos", "cobre", "lítio", "níquel", "China", "Estados Unidos", "semicondutores", "data centers", "inteligência artificial"],
+  "regime": "Dupla concentração: capital financeiro nos EUA e gargalos físicos/industriais em cadeias estratégicas",
+  "key_risk": "Fragmentação geoeconômica combinada a gargalos de energia, redes elétricas e processamento mineral",
+  "watch": ["COFER", "PIP/CPIS 23 set", "BIS cross-border credit", "compras oficiais de ouro", "FDI estratégico", "semicondutores", "capacidade de rede elétrica"],
+  "search_text": "riqueza mundial global wealth power flows ativos ações títulos dívida crédito reservas cambiais dólar ouro bancos centrais fundos soberanos SWF portfólio internacional PIP CPIS BIS FDI investimento direto UNCTAD energia petróleo gás eletricidade redes data centers IA semicondutores minerais críticos cobre lítio níquel cobalto terras raras China Estados Unidos Golfo Indonésia processamento refino wealth transfer matrix",
+  "homepage_title": "Onde a riqueza mundial está se concentrando — e para onde o poder econômico está migrando",
+  "homepage_deck": "Mercados americanos continuam dominantes, mas ouro oficial, fundos soberanos e gargalos de processamento, energia e computação estão redefinindo a captura de renda futura."
+}
