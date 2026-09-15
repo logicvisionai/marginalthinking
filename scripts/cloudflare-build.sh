@@ -16,6 +16,7 @@ done
 
 node scripts/render-site.mjs
 node scripts/editorial-normalize.mjs
+node scripts/editorial-normalize-en.mjs
 node scripts/harden-output.mjs
 node scripts/validate-dist.mjs
 
@@ -37,4 +38,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, editorial language normalized, hardened responsive layout, validated static output.'
+echo 'Cloudflare build ready: bilingual research, Portuguese and English editorial language normalized, hardened responsive layout, validated static output.'
