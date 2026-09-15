@@ -1,0 +1,74 @@
+/* Institutional refinement: restrained hierarchy, editorial whitespace and a stronger report signature. */
+:root{
+  --mt-editorial-rule:#cfd8dc;
+  --mt-editorial-rule-soft:#e3e8ea;
+  --mt-editorial-ink:#101820;
+  --mt-editorial-muted:#5d6b73;
+}
+
+/* Institutional pages: long-form research prose rather than product/process documentation. */
+.page-hero + .section .method-grid{grid-template-columns:minmax(190px,238px) minmax(0,760px);gap:clamp(48px,7vw,104px);align-items:start}
+.page-hero + .section .method-copy{max-width:760px}
+.page-hero + .section .method-copy section{padding:0 0 40px;margin:0 0 40px;border-bottom:1px solid var(--mt-editorial-rule-soft)}
+.page-hero + .section .method-copy section:last-child{margin-bottom:0}
+.page-hero + .section .method-copy h2{margin:0 0 16px;font:500 clamp(27px,3vw,34px)/1.08 var(--serif);letter-spacing:-.02em;color:var(--mt-editorial-ink)}
+.page-hero + .section .method-copy p{margin:0 0 15px;font:400 17px/1.82 var(--serif);color:#2b373e}
+.page-hero + .section .method-copy p:last-child{margin-bottom:0}
+.page-hero + .section .method-nav{top:126px;gap:0;border-top:1px solid var(--mt-editorial-rule)}
+.page-hero + .section .method-nav a{padding:11px 0;border-bottom:1px solid var(--mt-editorial-rule-soft);font:500 11px/1.35 var(--sans);letter-spacing:.035em;color:#64727a}
+.page-hero + .section .method-nav a:hover{color:var(--mt-editorial-ink)}
+
+/* Report opening: restrained research-publication treatment rather than a generic blog byline. */
+.report-page-hero{padding-bottom:50px}
+.report-header{max-width:1030px}
+.report-header h1{max-width:980px;margin-bottom:18px;letter-spacing:-.034em}
+.report-header .deck{max-width:860px;font:400 19px/1.62 var(--serif);color:#46565f}
+.report-byline{margin-top:30px!important;padding:17px 0 16px!important;border-top:1px solid var(--mt-editorial-rule)!important;border-bottom:1px solid var(--mt-editorial-rule)!important;gap:6px 14px!important;align-items:baseline!important;color:var(--mt-editorial-muted)!important}
+.report-byline a{font:600 14px/1.35 var(--sans)!important;letter-spacing:.015em;color:var(--mt-editorial-ink)!important}
+.report-byline > span,.report-byline > time{font:500 11px/1.5 var(--sans);letter-spacing:.035em}
+.report-byline > span:nth-child(2),.report-byline > span:nth-child(4),.report-byline > span:nth-child(6){color:#a7b0b5}
+.report-actions{margin-top:17px}
+.report-actions .btn{border-radius:0;box-shadow:none}
+
+/* Metadata stays useful but visually secondary to the argument. */
+.report-shell .meta-grid{margin-bottom:46px!important;gap:0!important;border-top:1px solid var(--mt-editorial-rule);border-bottom:1px solid var(--mt-editorial-rule)}
+.report-shell .meta-card{padding:18px 22px 19px!important;border:0!important;border-right:1px solid var(--mt-editorial-rule-soft)!important;border-radius:0!important;background:transparent!important;box-shadow:none!important}
+.report-shell .meta-card:last-child{border-right:0!important}
+.report-shell .meta-card .label{letter-spacing:.14em;color:#69767d}
+.report-shell .meta-card .value{margin-top:9px;font:500 17px/1.35 var(--serif);color:#1e2a31}
+
+/* Author signature remains present, but understated: credibility without visual noise. */
+.author-signature{margin-top:62px!important;padding:24px 0!important;border:0!important;border-top:1px solid var(--mt-editorial-rule)!important;border-bottom:1px solid var(--mt-editorial-rule)!important;border-radius:0!important;background:transparent!important;box-shadow:none!important}
+.author-signature .signature-mark{justify-content:flex-start}
+.author-signature .brand-mark{width:29px!important;height:50px!important}
+.author-signature h2{font-size:24px!important}
+.citation-box{margin-top:0}
+
+/* Related research uses rules and spacing instead of card chrome. */
+.related-grid{gap:22px}
+.related-card{padding:18px 0;border:0;border-top:1px solid var(--mt-editorial-rule);border-radius:0;background:transparent}
+.related-card h3{font-size:19px}
+
+/* The homepage institutional statement communicates analytical discipline, not implementation. */
+.research-standard{background:#0b141b}
+.research-standard-grid{gap:clamp(42px,7vw,84px)}
+.research-standard h2{max-width:430px}
+.research-standard p{max-width:720px;color:#c1cdd2}
+
+@media(max-width:860px){
+  .page-hero + .section .method-grid{grid-template-columns:1fr;gap:0}
+  .page-hero + .section .method-grid > div:empty{display:none}
+  .page-hero + .section .method-nav{position:static;display:flex;overflow-x:auto;gap:18px;margin:0 0 38px;padding:0 0 10px;border-top:0;border-bottom:1px solid var(--mt-editorial-rule);scrollbar-width:thin}
+  .page-hero + .section .method-nav a{flex:0 0 auto;padding:0 0 9px;border-bottom:0;white-space:nowrap}
+  .report-byline{display:grid!important;grid-template-columns:1fr;gap:4px!important}
+  .report-byline > span:nth-child(2),.report-byline > span:nth-child(4),.report-byline > span:nth-child(6){display:none}
+  .report-shell .meta-grid{display:grid!important;grid-template-columns:1fr!important}
+  .report-shell .meta-card{border-right:0!important;border-bottom:1px solid var(--mt-editorial-rule-soft)!important;padding:16px 0!important}
+  .report-shell .meta-card:last-child{border-bottom:0!important}
+  .author-signature{grid-template-columns:46px minmax(0,1fr)!important}
+}
+
+@media(max-width:560px){
+  .page-hero + .section .method-copy p{font-size:16px;line-height:1.76}
+  .report-header .deck{font-size:17px}
+}
