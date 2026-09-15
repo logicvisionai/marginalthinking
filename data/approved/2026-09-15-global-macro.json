@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "MT-GM-2026-09-15",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-15T08:22:16-03:00",
+  "reviewed_commit": "dd71143f4aa94191f0cec6778eb228a34111cf9b",
+  "markdown_url": "/reports/2026/09/2026-09-15-global-macro.md",
+  "html_url": "/reports/2026/09/2026-09-15-global-macro.html",
+  "markdown_blob_sha": "276aace4c63695c2e2acf1f3b117e6450a486156",
+  "html_blob_sha": "e4ad91a306246177af35e876e50bbfb6c56015df",
+  "confidence": "medium",
+  "checks": {
+    "numbers": "Principais números de regime verificados: UST 10Y até 5,04%; Brent US$107,35 no corte Reuters; Ibovespa 185.500,88 (-0,91%) no fechamento de 14/09; dados chineses de agosto coerentes com NBS/Reuters.",
+    "sources": "Núcleo factual triangulado com Federal Reserve, B3 e Reuters; FT usado para mercado de Treasuries/Fed. O relatório explicita quando recorre a último fechamento por falta de snapshot primário.",
+    "temporality": "Corte declarado em 15/09/2026 ~10h30 BRT. FOMC confirmado para 15-16/09; dados B3 de 14/09 identificados como último fechamento, não como intraday.",
+    "methodology": "Fatos, inferências e cenários são majoritariamente separados; transferência de riqueza via petróleo é apresentada como ordem de grandeza de gasto bruto, não como lucro líquido ou riqueza líquida.",
+    "links": "Markdown e HTML existem no commit revisado; HTML referencia o Markdown canônico e os caminhos do sidecar são válidos.",
+    "coherence": "HTML é resumo coerente do Markdown; tese central petróleo alto + yields altos + dólar forte é consistente com os dados verificados e a ausência de confirmação de crise sistêmica é apresentada como contraprova, não como fato absoluto."
+  },
+  "contrary_evidence": [
+    "A normalização do East-West Pipeline ou avanço diplomático pode remover rapidamente parte do prêmio de energia e term premium; o próprio relatório trata essa reversão como cenário pró-risco.",
+    "A ausência de stress sistêmico de crédito no corte limita a leitura de crise e funciona como evidência contrária à extrapolação de um choque de funding."
+  ],
+  "limitations": [
+    "Diversos preços intradiários e métricas de mercado dependem de fontes jornalísticas/mercado, pois não existe uma única fonte primária pública em tempo real para todo o painel cross-asset.",
+    "Algumas métricas secundárias do relatório integral, como fluxo estrangeiro agregado, VIX/MOVE, cripto, commodities agrícolas e estimativas de capacidade logística, não receberam o mesmo nível de verificação independente das variáveis centrais.",
+    "A decomposição entre expectativa de Fed e term premium é interpretação econômica; não é identificação causal observável em tempo real.",
+    "A aproximação de US$365 bilhões/ano por cada US$10/barril usa consumo/oferta global arredondado e representa gasto bruto, não transferência líquida de riqueza."
+  ],
+  "notes": "Aprovado sem erro material conhecido nas variáveis que sustentam a tese central. Confiança mantida em medium por heterogeneidade de fontes e por parte do painel ser intradiário/interpretativo. Qualquer alteração posterior no Markdown ou HTML invalida esta aprovação."
+}
