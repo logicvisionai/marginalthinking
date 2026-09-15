@@ -10,9 +10,9 @@
     "key_risk": "Duração do choque energético e transmissão para juros, crédito e atividade",
     "watch": ["Brent", "UST 10Y", "spreads de crédito", "DXY"],
     "search_text": "Estados Unidos Treasury Fed IA semicondutores Europa Japão China crédito Hormuz Oriente Médio Brasil B3 Ibovespa eleição fiscal câmbio FX renda fixa crédito energia petróleo ouro metais soja milho trigo açúcar café proteínas Bitcoin fluxos de capital cenários transmissão",
-    "pdf_url": "/reports/2026/09/MT-GM-2026-0914.pdf",
-    "docx_url": "/reports/2026/09/MT-GM-2026-0914.docx",
-    "xlsx_url": "/reports/2026/09/MT-GM-2026-0914-data.xlsx",
+    "pdf_url": "/reports/2026/09/MT-GM-2026-0914.pdf?v=20260915",
+    "docx_url": "/reports/2026/09/MT-GM-2026-0914.docx?v=20260915",
+    "xlsx_url": "/reports/2026/09/MT-GM-2026-0914-data.xlsx?v=20260915",
     "assets": ["HTML", "PDF", "DOCX", "XLSX", "Markdown"]
   }
 ]
