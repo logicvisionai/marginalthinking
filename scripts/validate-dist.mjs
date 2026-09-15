@@ -40,7 +40,7 @@ for(const file of html){
     if(!/hreflang="en"/i.test(s))fail.push(`${rel}: hreflang en ausente`);
     if(!/hreflang="pt-BR"/i.test(s))fail.push(`${rel}: hreflang pt-BR ausente`);
     if(!/author-signature/i.test(s)&&!/noindex,follow/i.test(s))fail.push(`${rel}: assinatura editorial ausente`);
-    const visible=s.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<pre[\s\S]*?<\/pre>/gi,'').replace(/<code[\s\S]*?<\/code>/gi,'');
+    const visible=s.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<pre[\s\S]*?<\/pre>/gi,'').replace(/<code[\s\S]*?<\/code>/gi,'').replace(/<[^>]+>/g,' ');
     if(/\*\*[^<\n]*$|__[^<\n]*$/m.test(visible))warn.push(`${rel}: possível marcador markdown residual`);
     if(rel.startsWith('pt-br/reports/'))for(const rx of editorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial bloqueada (${rx})`);
   }
