@@ -12,23 +12,23 @@
     "en": {
       "markdown": "en.md",
       "title": "Global Wealth Flow Monitor",
-      "deck": "Capital continues to gravitate toward U.S. assets while states diversify buffers and productive capital migrates toward energy, mineral processing and AI infrastructure.",
+      "deck": "Global capital remains strongly allocated to U.S. assets, while governments diversify reserves and new investment increasingly targets energy, mineral processing and AI infrastructure.",
       "tags": ["Global Wealth", "Capital Flows", "Reserves", "Gold", "Energy", "Minerals", "AI"],
       "keywords": ["COFER", "TIC", "BIS", "foreign-exchange reserves", "gold", "Treasuries", "sovereign wealth funds", "FDI", "oil", "gas", "copper", "lithium", "nickel", "cobalt", "rare earths", "semiconductors", "data centers", "AI", "China", "India", "Japan", "United States"],
-      "regime": "Financial capital still gravitates toward U.S. assets while states diversify buffers and AI converts capital into energy-intensive physical infrastructure",
-      "key_risk": "A persistent energy shock transmitting into inflation, yields and valuation while grid, chip and mineral bottlenecks concentrate strategic investment",
-      "watch": ["July TIC", "central-bank gold and WGC revisions", "Brent and inventories", "Asian reserves", "U.S. long yields", "data-center capex", "critical-mineral refining"],
+      "regime": "Financial capital remains concentrated in U.S. assets while governments diversify reserves and AI investment increases demand for energy-intensive infrastructure",
+      "key_risk": "A persistent energy shock lifting inflation and long-term yields while limited grid, chip and mineral-processing capacity constrains strategic investment",
+      "watch": ["July TIC", "central-bank gold and WGC revisions", "Brent and inventories", "Asian reserves", "U.S. long-term yields", "data-center investment", "critical-mineral refining"],
       "search_text": "global wealth flows capital foreign exchange reserves COFER dollar gold central banks revisions Treasuries TIC BIS cross border credit sovereign wealth funds FDI greenfield energy oil gas uranium electricity copper lithium nickel cobalt rare earths iron ore semiconductors batteries refining data centers AI infrastructure China India Japan United States Wealth Transfer Matrix"
     },
     "pt-BR": {
       "markdown": "../2026-09-15-global-wealth-flow-weekly.md",
       "title": "Global Wealth Flow Monitor",
-      "deck": "Capital continua gravitando para ativos dos EUA enquanto Estados diversificam buffers e capital produtivo migra para energia, processamento mineral e infraestrutura de IA.",
+      "deck": "O capital global continua fortemente alocado em ativos dos EUA, enquanto governos diversificam reservas e novos investimentos se concentram cada vez mais em energia, processamento mineral e infraestrutura de IA.",
       "tags": ["Global Wealth", "Fluxos de Capital", "Reservas", "Ouro", "Energia", "Minerais", "IA"],
       "keywords": ["COFER", "TIC", "BIS", "reservas cambiais", "ouro", "Treasuries", "fundos soberanos", "FDI", "petróleo", "gás", "cobre", "lítio", "níquel", "cobalto", "terras raras", "semicondutores", "data centers", "IA", "China", "Índia", "Japão", "Estados Unidos"],
-      "regime": "Capital financeiro ainda gravita para ativos dos EUA, enquanto Estados diversificam buffers e IA converte capital em infraestrutura física intensiva em energia.",
-      "key_risk": "Choque energético persistente transmitir-se para inflação, yields e valuation enquanto gargalos de rede, chips e minerais concentram o investimento estratégico.",
-      "watch": ["TIC julho", "ouro de bancos centrais e revisões WGC", "Brent e estoques", "reservas asiáticas", "yields longos dos EUA", "capex de data centers", "refino de minerais críticos"],
+      "regime": "O capital financeiro permanece concentrado em ativos dos EUA, enquanto governos diversificam reservas e o investimento em IA aumenta a demanda por infraestrutura intensiva em energia.",
+      "key_risk": "Choque energético persistente elevar inflação e juros de longo prazo enquanto a capacidade limitada de redes elétricas, chips e processamento mineral restringe o investimento estratégico.",
+      "watch": ["TIC de julho", "ouro de bancos centrais e revisões do WGC", "Brent e estoques", "reservas asiáticas", "juros longos dos EUA", "investimento em data centers", "refino de minerais críticos"],
       "search_text": "riqueza mundial fluxos capital reservas cambiais COFER dólar ouro bancos centrais revisão Treasuries TIC BIS crédito transfronteiriço fundos soberanos FDI greenfield energia petróleo gás urânio eletricidade cobre lítio níquel cobalto terras raras ferro semicondutores baterias refino data centers infraestrutura IA China Índia Japão Estados Unidos Wealth Transfer Matrix"
     }
   }
