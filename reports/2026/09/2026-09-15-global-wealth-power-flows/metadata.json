@@ -12,23 +12,23 @@
     "en": {
       "markdown": "en.md",
       "title": "Global Wealth & Power Flows — September 2026",
-      "deck": "Global financial wealth remains anchored in the United States while sovereign capital, mineral processing, chips, data centers and electricity reshape the capture of future income.",
+      "deck": "Global financial wealth remains concentrated in U.S. markets, while sovereign investment and spending on mineral processing, chips, data centers and power systems reshape who receives future profits and financial income.",
       "tags": ["Global Wealth", "Capital", "Reserves", "Gold", "Energy", "Minerals", "AI", "Geoeconomics"],
       "keywords": ["global wealth", "capital flows", "COFER", "PIP", "CPIS", "BIS", "foreign-exchange reserves", "dollar", "gold", "sovereign wealth funds", "FDI", "UNCTAD", "energy", "critical minerals", "semiconductors", "data centers", "artificial intelligence"],
-      "regime": "Dual concentration: financial capital in the United States and physical/industrial bottlenecks in strategic supply chains",
-      "key_risk": "Geoeconomic fragmentation combined with bottlenecks in energy, power grids and mineral processing",
+      "regime": "Dual concentration: financial capital in U.S. markets and critical processing and infrastructure capacity in strategic supply chains",
+      "key_risk": "Geoeconomic fragmentation combined with limited capacity in power systems, energy infrastructure and mineral processing",
       "watch": ["COFER", "PIP/CPIS", "BIS cross-border credit", "revised official gold purchases", "strategic FDI", "semiconductors", "power-grid capacity"],
       "search_text": "global wealth power flows assets debt credit reserves dollar gold central banks sovereign wealth funds portfolio PIP CPIS BIS FDI UNCTAD energy electricity grids data centers AI semiconductors critical minerals processing refining wealth transfer matrix"
     },
     "pt-BR": {
       "markdown": "../2026-09-15-global-wealth-power-flows.md",
       "title": "Global Wealth & Power Flows — Setembro de 2026",
-      "deck": "A riqueza financeira permanece ancorada nos EUA, enquanto capital soberano, processamento mineral, chips, data centers e eletricidade redesenham a captura de renda futura.",
+      "deck": "A riqueza financeira permanece concentrada nos mercados dos EUA, enquanto investimentos soberanos e gastos com processamento mineral, chips, data centers e sistemas elétricos alteram quem recebe lucros e renda financeira no futuro.",
       "tags": ["Global Wealth", "Capital", "Reservas", "Ouro", "Energia", "Minerais", "IA", "Geoeconomia"],
       "keywords": ["riqueza mundial", "fluxos de capital", "COFER", "PIP", "CPIS", "BIS", "reservas cambiais", "dólar", "ouro", "fundos soberanos", "FDI", "UNCTAD", "energia", "minerais críticos", "semicondutores", "data centers", "inteligência artificial"],
-      "regime": "Dupla concentração: capital financeiro nos EUA e gargalos físicos/industriais em cadeias estratégicas",
-      "key_risk": "Fragmentação geoeconômica combinada a gargalos de energia, redes elétricas e processamento mineral",
-      "watch": ["COFER", "PIP/CPIS", "BIS cross-border credit", "compras oficiais de ouro revisadas", "FDI estratégico", "semicondutores", "capacidade de rede elétrica"],
+      "regime": "Dupla concentração: capital financeiro nos mercados dos EUA e capacidades críticas de processamento e infraestrutura em cadeias estratégicas",
+      "key_risk": "Fragmentação geoeconômica combinada à capacidade limitada em sistemas elétricos, infraestrutura de energia e processamento mineral",
+      "watch": ["COFER", "PIP/CPIS", "crédito bancário transfronteiriço do BIS", "compras oficiais de ouro revisadas", "FDI estratégico", "semicondutores", "capacidade de rede elétrica"],
       "search_text": "riqueza mundial global wealth power flows ativos dívida crédito reservas dólar ouro bancos centrais fundos soberanos portfólio PIP CPIS BIS FDI UNCTAD energia eletricidade redes data centers IA semicondutores minerais críticos processamento refino wealth transfer matrix"
     }
   }
