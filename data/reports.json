@@ -2,17 +2,17 @@
   {
     "date": "2026-09-14",
     "title": "Relatório Macro, Mercados e Risco Político Global",
-    "deck": "Risk-off estagflacionário: petróleo, term premium, dólar forte e revisão do ciclo de IA.",
+    "deck": "Choque de oferta, Treasury de 10 anos em 5%, correção de semicondutores, crédito chinês fraco e eleição brasileira entram no mesmo mapa de transmissão.",
     "url": "/reports/2026/09/2026-09-14-global-macro.html",
-    "tags": ["Global Macro", "Brasil", "Energia", "Geopolítica"],
-    "keywords": ["Ibovespa", "USD/BRL", "Treasury", "Fed", "Brent", "DXY", "China", "Europa", "Oriente Médio", "Bitcoin", "ouro", "IA", "semicondutores", "Copom", "Selic", "Hormuz", "crédito", "liquidez"],
-    "regime": "Risk-off estagflacionário",
-    "key_risk": "Persistência do choque de energia, frete e term premium",
-    "watch": "Brent, UST 10Y e DXY",
-    "search_text": "Estados Unidos Europa China Norte da Ásia Oriente Médio América Latina Brasil B3 Ibovespa juros câmbio energia petróleo geopolítica risco político renda fixa crédito liquidez commodities tecnologia inteligência artificial semicondutores agro cripto cenários catalisadores",
+    "tags": ["Global Macro", "Brasil", "Energia", "Geopolítica", "IA", "China"],
+    "keywords": ["Treasury", "Fed", "petróleo", "Hormuz", "East-West", "SOX", "semicondutores", "China", "crédito", "Ibovespa", "eleição", "fiscal", "soja", "milho", "trigo", "açúcar", "café", "Bitcoin"],
+    "regime": "Choque de oferta + aperto monetário",
+    "key_risk": "Duração do choque energético e transmissão para juros, crédito e atividade",
+    "watch": ["Brent", "UST 10Y", "spreads de crédito", "DXY"],
+    "search_text": "Estados Unidos Treasury Fed IA semicondutores Europa Japão China crédito Hormuz Oriente Médio Brasil B3 Ibovespa eleição fiscal câmbio FX renda fixa crédito energia petróleo ouro metais soja milho trigo açúcar café proteínas Bitcoin fluxos de capital cenários transmissão",
     "pdf_url": "/reports/2026/09/MT-GM-2026-0914.pdf",
     "docx_url": "/reports/2026/09/MT-GM-2026-0914.docx",
     "xlsx_url": "/reports/2026/09/MT-GM-2026-0914-data.xlsx",
-    "assets": ["HTML", "PDF", "DOCX", "XLSX"]
+    "assets": ["HTML", "PDF", "DOCX", "XLSX", "Markdown"]
   }
 ]
