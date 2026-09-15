@@ -9,8 +9,10 @@ const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>{const p=pat
 // Final safety net for Portuguese public output. Earlier normalizers handle
 // sentence-level rewrites; this pass catches residual variants generically.
 const rules=[
-  [/preço de controle do sistema/gi,'principal referência para o custo de capital'],
-  [/quem controla os gargalos necessários/gi,'quem controla os recursos, infraestruturas e capacidades críticas necessários'],
+  [/O preço de controle do sistema/g,'A principal referência para o custo de capital'],
+  [/o preço de controle do sistema/g,'a principal referência para o custo de capital'],
+  [/preço de controle do sistema/gi,'referência principal para o custo de capital'],
+  [/quem controla os gargalos necessários/gi,'quem controla os recursos, infraestruturas e capacidades críticas para a produção futura'],
   [/controle de gargalos/gi,'controle de etapas críticas da cadeia'],
   [/concentração de gargalos/gi,'concentração de etapas críticas da cadeia'],
   [/funil causal/gi,'cadeia de transmissão'],
