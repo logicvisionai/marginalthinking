@@ -1,0 +1,35 @@
+{
+  "id": "MT-WP-2026-09-15",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T01:42:40-03:00",
+  "kind": "monthly-wealth-power",
+  "priority": 30,
+  "url": "/reports/2026/09/2026-09-15-global-wealth-power-flows.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-15T02:21:22-03:00",
+  "qa_confidence": "medium",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth & Power Flows — September 2026",
+      "deck": "Global financial wealth remains anchored in the United States while sovereign capital, mineral processing, chips, data centers and electricity reshape the capture of future income.",
+      "tags": ["Global Wealth", "Capital", "Reserves", "Gold", "Energy", "Minerals", "AI", "Geoeconomics"],
+      "keywords": ["global wealth", "capital flows", "COFER", "PIP", "CPIS", "BIS", "foreign-exchange reserves", "dollar", "gold", "sovereign wealth funds", "FDI", "UNCTAD", "energy", "critical minerals", "semiconductors", "data centers", "artificial intelligence"],
+      "regime": "Dual concentration: financial capital in the United States and physical/industrial bottlenecks in strategic supply chains",
+      "key_risk": "Geoeconomic fragmentation combined with bottlenecks in energy, power grids and mineral processing",
+      "watch": ["COFER", "PIP/CPIS", "BIS cross-border credit", "revised official gold purchases", "strategic FDI", "semiconductors", "power-grid capacity"],
+      "search_text": "global wealth power flows assets debt credit reserves dollar gold central banks sovereign wealth funds portfolio PIP CPIS BIS FDI UNCTAD energy electricity grids data centers AI semiconductors critical minerals processing refining wealth transfer matrix"
+    },
+    "pt-BR": {
+      "markdown": "../2026-09-15-global-wealth-power-flows.md",
+      "title": "Global Wealth & Power Flows — Setembro de 2026",
+      "deck": "A riqueza financeira permanece ancorada nos EUA, enquanto capital soberano, processamento mineral, chips, data centers e eletricidade redesenham a captura de renda futura.",
+      "tags": ["Global Wealth", "Capital", "Reservas", "Ouro", "Energia", "Minerais", "IA", "Geoeconomia"],
+      "keywords": ["riqueza mundial", "fluxos de capital", "COFER", "PIP", "CPIS", "BIS", "reservas cambiais", "dólar", "ouro", "fundos soberanos", "FDI", "UNCTAD", "energia", "minerais críticos", "semicondutores", "data centers", "inteligência artificial"],
+      "regime": "Dupla concentração: capital financeiro nos EUA e gargalos físicos/industriais em cadeias estratégicas",
+      "key_risk": "Fragmentação geoeconômica combinada a gargalos de energia, redes elétricas e processamento mineral",
+      "watch": ["COFER", "PIP/CPIS", "BIS cross-border credit", "compras oficiais de ouro revisadas", "FDI estratégico", "semicondutores", "capacidade de rede elétrica"],
+      "search_text": "riqueza mundial global wealth power flows ativos dívida crédito reservas dólar ouro bancos centrais fundos soberanos portfólio PIP CPIS BIS FDI UNCTAD energia eletricidade redes data centers IA semicondutores minerais críticos processamento refino wealth transfer matrix"
+    }
+  }
+}
