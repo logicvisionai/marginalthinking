@@ -15,7 +15,8 @@ function scanMarkdown(file){
   if(fences%2) fail.push(`${file}: bloco de código sem fechamento`);
   const h1=(text.match(/^#\s+/gm)||[]).length;
   const h2=(text.match(/^##\s+/gm)||[]).length;
-  if(h1!==1) fail.push(`${file}: deve conter exatamente um H1; encontrado ${h1}`);
+  if(h1<1) fail.push(`${file}: deve conter ao menos um H1`);
+  if(h1>1) warn.push(`${file}: ${h1} H1 encontrados; apenas o primeiro será título e os demais serão normalizados para H2`);
   if(h2<2) warn.push(`${file}: menos de dois H2`);
   if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(text)) fail.push(`${file}: referência binária proibida`);
   const lines=text.replace(/\r/g,'').split('\n');

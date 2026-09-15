@@ -26,7 +26,7 @@ export function renderMarkdown(md=''){
   const out=[],toc=[];let i=0,skipH1=false;
   while(i<lines.length){const l=lines[i].trim();if(!l){i++;continue;}
     const f=l.match(/^```([^\s]*)\s*$/);if(f){const c=[];i++;while(i<lines.length&&!/^```\s*$/.test(lines[i].trim()))c.push(lines[i++]);i++;out.push(fence(f[1].toLowerCase(),c));continue;}
-    const h=l.match(/^(#{1,4})\s+(.+)$/);if(h){const level=h[1].length,text=h[2].trim();if(level===1&&!skipH1){skipH1=true;i++;continue;}const id=slug(text);if(level===2)toc.push({id,text});out.push(`<h${level} id="${id}">${inline(text)}</h${level}>`);i++;continue;}
+    const h=l.match(/^(#{1,4})\s+(.+)$/);if(h){const level=h[1].length,text=h[2].trim();if(level===1){if(!skipH1){skipH1=true;i++;continue;}const id=slug(text);toc.push({id,text});out.push(`<h2 id="${id}">${inline(text)}</h2>`);i++;continue;}const id=slug(text);if(level===2)toc.push({id,text});out.push(`<h${level} id="${id}">${inline(text)}</h${level}>`);i++;continue;}
     if(/^[-*_]{3,}$/.test(l)){out.push('<hr>');i++;continue;}
     if(l.includes('|')&&separator((lines[i+1]||'').trim())){const heads=split(l),rows=[];i+=2;while(i<lines.length&&lines[i].trim()&&lines[i].includes('|'))rows.push(split(lines[i++]));out.push(table(heads,rows));continue;}
     if(/^>\s?/.test(l)){const q=[];while(i<lines.length&&/^>\s?/.test(lines[i].trim()))q.push(lines[i++].trim().replace(/^>\s?/,''));out.push(`<blockquote>${q.map(x=>`<p>${inline(x)}</p>`).join('')}</blockquote>`);continue;}
