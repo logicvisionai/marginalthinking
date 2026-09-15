@@ -15,6 +15,7 @@ for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
 done
 
 node scripts/render-site.mjs
+node scripts/editorial-normalize.mjs
 node scripts/harden-output.mjs
 node scripts/validate-dist.mjs
 
@@ -36,4 +37,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual English-first research, hardened responsive layout, validated static output.'
+echo 'Cloudflare build ready: bilingual research, editorial language normalized, hardened responsive layout, validated static output.'
