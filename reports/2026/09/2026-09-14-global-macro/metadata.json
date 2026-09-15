@@ -10,7 +10,7 @@
     "en": {
       "markdown": "en.md",
       "title": "Global Macro, Markets & Political Risk Report",
-      "deck": "A supply shock, the 10-year Treasury at 5%, a semiconductor correction, weak Chinese credit and Brazil's election enter the same transmission map.",
+      "deck": "The energy supply shock, a 10-year Treasury yield near 5%, the semiconductor correction, weak Chinese credit and Brazil's election are interacting through inflation, financing costs, currencies and risk appetite.",
       "tags": ["Global Macro", "Brazil", "Energy", "Geopolitics", "AI", "China"],
       "keywords": ["Treasury", "Fed", "oil", "Hormuz", "East-West", "SOX", "semiconductors", "China", "credit", "Ibovespa", "election", "fiscal", "soybeans", "corn", "wheat", "sugar", "coffee", "Bitcoin"],
       "regime": "Supply shock + monetary tightening",
@@ -21,7 +21,7 @@
     "pt-BR": {
       "markdown": "../2026-09-14-global-macro.md",
       "title": "Relatório Macro, Mercados e Risco Político Global",
-      "deck": "Choque de oferta, Treasury de 10 anos em 5%, correção de semicondutores, crédito chinês fraco e eleição brasileira entram no mesmo mapa de transmissão.",
+      "deck": "O choque de oferta de energia, o Treasury de 10 anos próximo de 5%, a correção dos semicondutores, o crédito fraco na China e a eleição brasileira interagem por meio da inflação, do custo de financiamento, do câmbio e da disposição dos investidores a assumir risco.",
       "tags": ["Global Macro", "Brasil", "Energia", "Geopolítica", "IA", "China"],
       "keywords": ["Treasury", "Fed", "petróleo", "Hormuz", "East-West", "SOX", "semicondutores", "China", "crédito", "Ibovespa", "eleição", "fiscal", "soja", "milho", "trigo", "açúcar", "café", "Bitcoin"],
       "regime": "Choque de oferta + aperto monetário",
