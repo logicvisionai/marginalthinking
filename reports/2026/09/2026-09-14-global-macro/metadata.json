@@ -1,0 +1,33 @@
+{
+  "id": "MT-GM-2026-0914",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T20:00:00-03:00",
+  "kind": "daily-macro",
+  "priority": 10,
+  "url": "/reports/2026/09/2026-09-14-global-macro.html",
+  "source_locale": "en",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro, Markets & Political Risk Report",
+      "deck": "A supply shock, the 10-year Treasury at 5%, a semiconductor correction, weak Chinese credit and Brazil's election enter the same transmission map.",
+      "tags": ["Global Macro", "Brazil", "Energy", "Geopolitics", "AI", "China"],
+      "keywords": ["Treasury", "Fed", "oil", "Hormuz", "East-West", "SOX", "semiconductors", "China", "credit", "Ibovespa", "election", "fiscal", "soybeans", "corn", "wheat", "sugar", "coffee", "Bitcoin"],
+      "regime": "Supply shock + monetary tightening",
+      "key_risk": "Duration of the energy shock and transmission into rates, credit and activity",
+      "watch": ["Brent", "UST 10Y", "credit spreads", "DXY"],
+      "search_text": "United States Treasury Fed AI semiconductors Europe Japan China credit Hormuz Middle East Brazil B3 Ibovespa election fiscal FX fixed income credit energy oil gold metals soybeans corn wheat sugar coffee proteins Bitcoin capital flows scenarios transmission"
+    },
+    "pt-BR": {
+      "markdown": "../2026-09-14-global-macro.md",
+      "title": "Relatório Macro, Mercados e Risco Político Global",
+      "deck": "Choque de oferta, Treasury de 10 anos em 5%, correção de semicondutores, crédito chinês fraco e eleição brasileira entram no mesmo mapa de transmissão.",
+      "tags": ["Global Macro", "Brasil", "Energia", "Geopolítica", "IA", "China"],
+      "keywords": ["Treasury", "Fed", "petróleo", "Hormuz", "East-West", "SOX", "semicondutores", "China", "crédito", "Ibovespa", "eleição", "fiscal", "soja", "milho", "trigo", "açúcar", "café", "Bitcoin"],
+      "regime": "Choque de oferta + aperto monetário",
+      "key_risk": "Duração do choque energético e transmissão para juros, crédito e atividade",
+      "watch": ["Brent", "UST 10Y", "spreads de crédito", "DXY"],
+      "search_text": "Estados Unidos Treasury Fed IA semicondutores Europa Japão China crédito Hormuz Oriente Médio Brasil B3 Ibovespa eleição fiscal câmbio FX renda fixa crédito energia petróleo ouro metais soja milho trigo açúcar café proteínas Bitcoin fluxos de capital cenários transmissão"
+    }
+  }
+}
