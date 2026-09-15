@@ -8,6 +8,18 @@ The default public language is English. Brazilian Portuguese (`pt-BR`) is a requ
 
 The current public archive has been migrated to bilingual publication bundles. A new research item that does not contain both English and Brazilian Portuguese source editions fails validation and is not published.
 
+## Editorial language standard
+
+Every publication must follow [`EDITORIAL-STYLE.md`](./EDITORIAL-STYLE.md) before factual QA.
+
+The Portuguese edition must be written in natural Brazilian Portuguese rather than as a literal translation of financial, corporate or intelligence English. Analytical density is desirable; compressed jargon is not. Whenever material, a sentence should make clear **who acts, what changes, through which mechanism and with what consequence**.
+
+Terms such as `gargalo`, `captura de valor`, `captura de renda`, `vetor`, `camada`, `variável de controle`, `gravitar`, `repricing`, `funding`, `claims`, `collateral`, `midstream`, `valuation`, `duration`, `carry` and similar expressions require special scrutiny. They may be used when technically necessary, but must not replace the concrete economic relation being described. Prefer naming the asset, institution, productive stage, financial claim, infrastructure constraint or transfer mechanism directly.
+
+A language-only pass is mandatory before publication. It must check that a qualified reader can understand each paragraph on first reading, that causal links are explained rather than implied by sequences of nouns or arrows, and that English terminology is translated or briefly defined where needed.
+
+The English edition must be idiomatic English rather than a word-for-word rendering of Portuguese. Facts, confidence, scenarios and analytical meaning must remain equivalent across languages.
+
 ## Preferred agent workflow
 
 For new research, use one folder per publication:
@@ -59,11 +71,14 @@ For a migrated historical publication, the `pt-BR` entry may point to the existi
 1. `npm run validate` checks source files, locale configuration, bilingual completeness, metadata, tables and custom visual blocks.
 2. `scripts/cloudflare-build.sh` copies only public assets and research sources.
 3. `scripts/render-site.mjs` generates English and Portuguese site pages, report HTML, author/topic pages, SEO metadata, hreflang links, sitemaps and RSS.
-4. The build applies the small responsive locale-control stylesheet to every generated HTML page.
-5. `scripts/validate-dist.mjs` validates the rendered output, both language editions, hreflang metadata and responsive language-control assets before deployment.
-6. Cloudflare publishes `dist/` only if all blocking checks pass.
+4. `scripts/editorial-normalize.mjs` applies conservative language corrections to the public output so legacy wording does not survive in HTML, Markdown or public JSON metadata.
+5. The build applies the small responsive locale-control stylesheet to every generated HTML page.
+6. `scripts/validate-dist.mjs` validates the rendered output, both language editions, hreflang metadata and responsive language-control assets before deployment.
+7. Cloudflare publishes `dist/` only if all blocking checks pass.
 
 Recoverable presentation problems—extra H1 headings or orphaned `**` markers—are normalized by the renderer and reported as warnings rather than taking the site offline. Missing source files, malformed JSON, unclosed fenced blocks, missing required translations and prohibited binary formats remain blocking errors.
+
+The output normalizer is a compatibility layer for the existing archive, not a substitute for good writing. New reports must already satisfy the editorial standard in source Markdown before QA approval.
 
 ## Visual research primitives
 
