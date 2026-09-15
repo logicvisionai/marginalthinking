@@ -3,19 +3,27 @@
   "ready": true,
   "id": "MT-WF-2026-09-15",
   "date": "2026-09-15",
-  "published_at": "2026-09-15T01:01:53-03:00",
+  "published_at": "2026-09-15T01:42:31-03:00",
   "kind": "weekly-wealth-flow",
   "priority": 20,
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "5e76d8288b2d923bc98d5d47164190f3f7b4d9aa",
+  "qa_fixes_applied": [
+    "Revisada a demanda líquida de ouro de bancos centrais no 1T26 de 244 t para 57 t conforme Gold Demand Trends Q2 2026.",
+    "Incluídos 289 t no 2T26 e 345 t no 1S26, recalibrando a interpretação para demanda oficial positiva porém irregular.",
+    "Revisadas Executive Assessment, seção de ouro, Wealth Transfer Matrix, sinais confirmados e conclusão; preservada a decomposição compra física/preço/FX e atualizada a leitura da China."
+  ],
   "title": "Global Wealth Flow Monitor",
-  "deck": "Capital continua gravitando para ativos dos EUA enquanto Estados ampliam buffers, ouro e ativos estratégicos; IA e energia elevam o valor marginal da capacidade física.",
+  "deck": "Capital continua gravitando para ativos dos EUA enquanto Estados diversificam buffers; a série revisada de ouro mostra 57 t no 1T26 e forte retomada para 289 t no 2T26.",
   "homepage_title": "Capital financeiro e ativos estratégicos avançam em paralelo",
-  "homepage_deck": "EUA seguem absorvendo capital externo; ouro oficial, reservas asiáticas, energia, minerais e infraestrutura de IA redesenham a captura de renda futura.",
+  "homepage_deck": "EUA seguem absorvendo capital externo; ouro oficial permanece vetor de diversificação, mas a série revisada mostra forte irregularidade trimestral em 2026.",
   "url": "/reports/2026/09/2026-09-15-global-wealth-flow-weekly.html",
   "markdown_url": "/reports/2026/09/2026-09-15-global-wealth-flow-weekly.md",
   "tags": ["Global Wealth", "Fluxos de Capital", "Reservas", "Ouro", "Energia", "Minerais", "IA"],
   "keywords": ["COFER", "TIC", "BIS", "reservas cambiais", "ouro", "Treasuries", "fundos soberanos", "FDI", "petróleo", "gás", "cobre", "lítio", "níquel", "cobalto", "terras raras", "semicondutores", "data centers", "IA", "China", "Índia", "Japão", "Estados Unidos"],
-  "regime": "Capital financeiro ainda gravita para ativos dos EUA, enquanto Estados ampliam buffers, ouro e ativos estratégicos e IA converte capital em infraestrutura física intensiva em energia.",
+  "regime": "Capital financeiro ainda gravita para ativos dos EUA, enquanto Estados diversificam buffers e IA converte capital em infraestrutura física intensiva em energia.",
   "key_risk": "Choque energético persistente transmitir-se para inflação, yields e valuation enquanto gargalos de rede, chips e minerais concentram o investimento estratégico.",
-  "watch": ["TIC julho", "ouro de bancos centrais", "Brent e estoques", "reservas asiáticas", "yields longos dos EUA", "capex de data centers", "refino de minerais críticos"],
-  "search_text": "riqueza mundial fluxos capital reservas cambiais COFER dólar ouro bancos centrais Treasuries TIC BIS crédito transfronteiriço fundos soberanos FDI greenfield energia petróleo gás urânio eletricidade cobre lítio níquel cobalto terras raras ferro semicondutores baterias refino data centers infraestrutura IA China Índia Japão Estados Unidos Wealth Transfer Matrix"
+  "watch": ["TIC julho", "ouro de bancos centrais e revisões WGC", "Brent e estoques", "reservas asiáticas", "yields longos dos EUA", "capex de data centers", "refino de minerais críticos"],
+  "search_text": "riqueza mundial fluxos capital reservas cambiais COFER dólar ouro bancos centrais revisão 57 toneladas 289 toneladas Treasuries TIC BIS crédito transfronteiriço fundos soberanos FDI greenfield energia petróleo gás urânio eletricidade cobre lítio níquel cobalto terras raras ferro semicondutores baterias refino data centers infraestrutura IA China Índia Japão Estados Unidos Wealth Transfer Matrix"
 }
