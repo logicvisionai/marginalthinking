@@ -4,21 +4,22 @@
   --mt-editorial-rule-soft:#e3e8ea;
   --mt-editorial-ink:#101820;
   --mt-editorial-muted:#5d6b73;
+  --anchor-offset:79px;
 }
 
-/* Keep in-page anchors visible below the sticky site chrome. */
-html{scroll-padding-top:142px}
+/* In-page anchors align the section title directly below the sticky header. */
+html{scroll-padding-top:var(--anchor-offset)}
 
 /* Institutional pages: long-form research prose rather than product/process documentation. */
 .page-hero + .section .method-grid{grid-template-columns:minmax(190px,238px) minmax(0,760px);gap:clamp(48px,7vw,104px);align-items:start}
 .page-hero + .section .method-copy{max-width:760px}
 .page-hero + .section .method-copy section{padding:0 0 40px;margin:0 0 40px;border-bottom:1px solid var(--mt-editorial-rule-soft)}
-.page-hero + .section .method-copy section[id]{scroll-margin-top:142px}
+.page-hero + .section .method-copy section[id]{scroll-margin-top:var(--anchor-offset)}
 .page-hero + .section .method-copy section:last-child{margin-bottom:0}
 .page-hero + .section .method-copy h2{margin:0 0 16px;font:500 clamp(27px,3vw,34px)/1.08 var(--serif);letter-spacing:-.02em;color:var(--mt-editorial-ink)}
 .page-hero + .section .method-copy p{margin:0 0 15px;font:400 17px/1.82 var(--serif);color:#2b373e}
 .page-hero + .section .method-copy p:last-child{margin-bottom:0}
-.page-hero + .section .method-nav{top:126px;gap:0;border-top:1px solid var(--mt-editorial-rule)}
+.page-hero + .section .method-nav{top:calc(var(--anchor-offset) + 28px);gap:0;border-top:1px solid var(--mt-editorial-rule)}
 .page-hero + .section .method-nav a{padding:11px 0;border-bottom:1px solid var(--mt-editorial-rule-soft);font:500 11px/1.35 var(--sans);letter-spacing:.035em;color:#64727a}
 .page-hero + .section .method-nav a:hover{color:var(--mt-editorial-ink)}
 
@@ -60,12 +61,11 @@ html{scroll-padding-top:142px}
 .research-standard p{max-width:720px;color:#c1cdd2}
 
 @media(max-width:860px){
-  html{scroll-padding-top:96px}
+  :root{--anchor-offset:69px}
   .page-hero + .section .method-grid{grid-template-columns:1fr;gap:0}
   .page-hero + .section .method-grid > div:empty{display:none}
   .page-hero + .section .method-nav{position:static;display:flex;overflow-x:auto;gap:18px;margin:0 0 38px;padding:0 0 10px;border-top:0;border-bottom:1px solid var(--mt-editorial-rule);scrollbar-width:thin}
   .page-hero + .section .method-nav a{flex:0 0 auto;padding:0 0 9px;border-bottom:0;white-space:nowrap}
-  .page-hero + .section .method-copy section[id]{scroll-margin-top:96px}
   .report-byline{display:grid!important;grid-template-columns:1fr;gap:4px!important}
   .report-byline > span:nth-child(2),.report-byline > span:nth-child(4),.report-byline > span:nth-child(6){display:none}
   .report-shell .meta-grid{display:grid!important;grid-template-columns:1fr!important}
