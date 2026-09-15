@@ -3,6 +3,8 @@
   "private":true,
   "scripts":{
     "validate":"node scripts/validate-research.mjs",
+    "render":"node scripts/render-site.mjs",
+    "validate:dist":"node scripts/validate-dist.mjs",
     "build":"npm run validate && bash scripts/cloudflare-build.sh"
   }
 }

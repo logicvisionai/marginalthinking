@@ -5,17 +5,17 @@ cd "$ROOT"
 rm -rf dist
 mkdir -p dist
 
-# Public shell only. Internal QA/pending data and build scripts are never deployed.
+# Public assets and canonical research sources only. Internal QA data and scripts are never deployed.
 cp -R assets dist/
 cp -R reports dist/
 find dist/reports -type f -name '*.html' -delete
 mkdir -p dist/data
-cp data/reports.json dist/data/reports.json
-for f in index.html reports.html methodology.html about.html 404.html LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
+for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
   [[ -f "$f" ]] && cp "$f" dist/
 done
 
 node scripts/render-site.mjs
+node scripts/validate-dist.mjs
 
 # Analytics is optional and never blocks publishing research.
 if [[ -n "${PROD_GA_MEASUREMENT_ID:-}" ]]; then
@@ -35,4 +35,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: static, crawlable HTML generated from canonical Markdown.'
+echo 'Cloudflare build ready: English-first multilingual static research, validated and crawlable.'
