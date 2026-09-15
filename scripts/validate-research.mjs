@@ -50,9 +50,12 @@ let cfg={},i18n={};
 try{cfg=JSON.parse(read('site.config.json'));}catch(e){fail.push(`site.config.json inválido: ${e.message}`);}
 try{i18n=JSON.parse(read('data/i18n.json'));}catch(e){fail.push(`data/i18n.json inválido: ${e.message}`);}
 for(const key of ['site_name','site_url','publisher','institution','default_locale','locales','default_author'])if(!cfg[key])fail.push(`site.config.json sem ${key}`);
+if(cfg.default_locale!=='en')fail.push('site.config.json: default_locale deve permanecer en para preservar English-first');
 if(cfg.site_url&&!/^https:\/\//.test(cfg.site_url))fail.push('site.config.json: site_url deve usar HTTPS');
 if(cfg.default_locale&&!cfg.locales?.[cfg.default_locale])fail.push('site.config.json: default_locale não existe em locales');
-for(const code of Object.keys(cfg.locales||{})){if(!i18n[code])fail.push(`data/i18n.json sem locale ${code}`);for(const key of ['lang','label','date_locale','og_locale'])if(!cfg.locales[code]?.[key])fail.push(`site.config.json: locales.${code} sem ${key}`);}
+for(const code of Object.keys(cfg.locales||{})){if(!i18n[code])fail.push(`data/i18n.json sem locale ${code}`);for(const key of ['lang','label','name','date_locale','og_locale'])if(!cfg.locales[code]?.[key])fail.push(`site.config.json: locales.${code} sem ${key}`);}
+for(const code of ['en','pt-BR'])if(!cfg.locales?.[code])fail.push(`site.config.json: locale obrigatório ${code} ausente`);
+for(const code of ['en','pt-BR'])for(const key of ['language_label','country','site_description','nav','footer','home','archive','method','about','report','author','topic','not_found'])if(!i18n?.[code]?.[key])fail.push(`data/i18n.json: ${code}.${key} ausente`);
 if(cfg.default_author)for(const key of ['name','slug','email'])if(!cfg.default_author[key])fail.push(`site.config.json: default_author sem ${key}`);
 
 let reports=[];try{reports=collectReports(root);}catch(e){fail.push(`coleta de pesquisas falhou: ${e.message}`);}
@@ -61,15 +64,18 @@ for(const item of reports){
   for(const key of ['id','date','kind','title','deck','url','markdown_url'])if(!item[key])fail.push(`research: ${item.id||'entrada'} sem ${key}`);
   if(ids.has(item.id))fail.push(`research: id duplicado ${item.id}`);ids.add(item.id);if(urls.has(item.url))fail.push(`research: URL duplicada ${item.url}`);urls.add(item.url);
   if(!/^\/reports\/.+\.html$/.test(item.url||''))fail.push(`${item.id}: url deve ser HTML em /reports/`);
-  const source=item.source_locale||cfg.legacy_source_locale;if(!cfg.locales?.[source])warn.push(`${item.id}: source_locale '${source}' não configurado`);
-  for(const locale of availableLocales(item)){
+  if(!item._bundle)fail.push(`${item.id}: publicação pública ainda usa estrutura legada; migre para metadata.json com en + pt-BR`);
+  if((item.source_locale||'')!=='en')fail.push(`${item.id}: source_locale deve ser en`);
+  const locales=availableLocales(item);
+  for(const required of ['en','pt-BR'])if(!locales.includes(required))fail.push(`${item.id}: publicação pública precisa de edição ${required}`);
+  for(const locale of locales){
     const v=reportView(item,locale),md=localPath(v?.markdown_url);if(!md||!exists(md))fail.push(`${item.id}/${locale}: Markdown ausente (${md||'sem caminho'})`);else scanMarkdown(md);
+    if(!(v?.title||'').trim())fail.push(`${item.id}/${locale}: título ausente`);
+    if(!(v?.deck||'').trim())fail.push(`${item.id}/${locale}: deck ausente`);
     if((v?.deck||'').length>320)warn.push(`${item.id}/${locale}: deck muito longo para meta description`);
   }
-  if(item._bundle){if(source!=='en')warn.push(`${item.id}: bundle novo deveria usar English como source_locale`);for(const required of ['en','pt-BR'])if(!availableLocales(item).includes(required))fail.push(`${item.id}: bundle multilíngue precisa de ${required}`);}
-  if(item.source_locale==='en'&&!availableLocales(item).includes('pt-BR'))fail.push(`${item.id}: publicação English-first precisa de tradução pt-BR`);
 }
-for(const file of ['assets/css/styles.css','assets/css/research-static.css','assets/js/app.js','scripts/render-site.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
+for(const file of ['assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/js/app.js','scripts/render-site.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
-console.log(`Research validation OK: ${reports.length} publications; ${Object.keys(cfg.locales||{}).length} locales; canonical Markdown; recoverable formatting normalized.`);
+console.log(`Research validation OK: ${reports.length} bilingual publications; English-first; ${Object.keys(cfg.locales||{}).length} locales; canonical Markdown; recoverable formatting normalized.`);
