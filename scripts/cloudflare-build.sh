@@ -15,6 +15,13 @@ for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
 done
 
 node scripts/render-site.mjs
+
+# Global responsive language control. Kept as a small override layer so locale UI can evolve
+# independently from the research typography and report component stylesheet.
+while IFS= read -r -d '' html; do
+  grep -q '/assets/css/language-switch.css' "$html" || sed -i 's#</head>#<link rel="stylesheet" href="/assets/css/language-switch.css"></head>#' "$html"
+done < <(find dist -type f -name '*.html' -print0)
+
 node scripts/validate-dist.mjs
 
 # Analytics is optional and never blocks publishing research.
