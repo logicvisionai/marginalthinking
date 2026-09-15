@@ -61,6 +61,9 @@ const ptRules=[
   [/\bsmall caps\b/gi,'ações de empresas de menor capitalização'],
   [/\bprivate credit\b/gi,'crédito privado'],
   [/\butilities\b/gi,'empresas de serviços públicos'],
+  [/\bdividend yield\b/gi,'rendimento de dividendos'],
+  [/\byields reais\/nominais\b/gi,'juros reais e nominais'],
+  [/\byields? longos\b/gi,'juros de longo prazo'],
   [/\byields\b/gi,'juros de mercado'],
   [/\byield\b/gi,'juro de mercado'],
   [/\bvaluation\b/gi,'avaliação de mercado'],
@@ -72,7 +75,18 @@ const ptRules=[
   [/\bmarket cap\b/gi,'capitalização de mercado'],
   [/\blead times\b/gi,'prazos de entrega'],
   [/\binventories\b/gi,'estoques'],
-  [/\btreatment charges\b/gi,'taxas de tratamento']
+  [/\btreatment charges\b/gi,'taxas de tratamento'],
+  [/\bcarregar duration\b/gi,'manter exposição ao risco de prazo'],
+  [/\bduration alta\b/gi,'alta sensibilidade aos juros de longo prazo'],
+  [/\bmaior duration\b/gi,'maior sensibilidade aos juros de longo prazo'],
+  [/\bmenor duration\b/gi,'menor sensibilidade aos juros de longo prazo'],
+  [/\bcarry trade\b/gi,'estratégia baseada no diferencial de juros'],
+  [/\bcarry elevado\b/gi,'diferencial de juros elevado'],
+  [/\bfornecem carry\b/gi,'oferecem diferencial de juros'],
+  [/\bnovo delta material\b/gi,'nova mudança material'],
+  [/\bsem novo delta\b/gi,'sem mudança material adicional'],
+  [/\bO delta de hoje\b/gi,'A principal mudança de hoje'],
+  [/\bDelta\.\b/gi,'Mudança desde a edição anterior.']
 ];
 
 const enRules=[
