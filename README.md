@@ -1,16 +1,28 @@
 # Marginal Thinking
 
-Marginal Thinking é uma publicação da LOGV dedicada a macroeconomia, mercados, economia política e geopolítica.
+Independent research on macroeconomics, markets, political economy, geopolitics, capital and power.
 
-## Site
+## Publishing model
 
-O site é estático e publicado via Cloudflare Workers. O build gera `dist/`, restaura artefatos de publicação e injeta o Google Analytics em produção a partir de `PROD_GA_MEASUREMENT_ID`.
+Research has two public formats only:
 
-Cada edição pode disponibilizar HTML, Markdown, PDF, DOCX e planilha XLSX. O arquivo público mantém histórico, busca client-side, filtro por ano e paginação.
+- **Markdown** — canonical source;
+- **HTML** — web reading layer rendered from the Markdown source.
 
-## Licenças
+There are no PDF, DOCX or XLSX report artifacts in the publishing pipeline.
 
-- Código do site: Apache-2.0.
-- Conteúdo editorial original LOGV/Marginal Thinking: CC BY 4.0, salvo indicação em contrário.
-- Marcas, nomes e identidade visual LOGV/Marginal Thinking não são licenciados pelas licenças acima.
-- Materiais de terceiros permanecem sujeitos aos direitos e termos das respectivas fontes.
+See [`RESEARCH-PUBLISHING.md`](./RESEARCH-PUBLISHING.md) for the editorial architecture, supported visual syntax and QA rules.
+
+## Validate
+
+```bash
+npm run validate
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+The build validates the research archive and writes the static site to `dist/` for Cloudflare Workers Static Assets.
