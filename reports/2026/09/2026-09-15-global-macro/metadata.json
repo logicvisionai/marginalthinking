@@ -1,0 +1,36 @@
+{
+  "id": "MT-GM-2026-09-15",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T08:12:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "url": "/reports/2026/09/2026-09-15-global-macro.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-15T08:22:16-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "dd71143f4aa94191f0cec6778eb228a34111cf9b",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro, Markets & Political Risk — September 15, 2026",
+      "deck": "Oil at US$107–108, the 10-year Treasury up to 5.04% and a strong dollar turn the energy disruption into a cost-of-capital shock; credit still does not confirm a systemic crisis.",
+      "tags": ["Global Macro", "Cross-Asset", "Brazil", "United States", "Europe", "China", "Middle East", "Energy", "Political Risk", "Wealth Flows"],
+      "keywords": ["Treasury 10Y", "Fed", "Brent", "Hormuz", "East-West Pipeline", "DXY", "Ibovespa", "USD/BRL", "China", "Europe", "credit", "gold", "Bitcoin", "coffee", "wealth transfer", "reserves", "geopolitics"],
+      "regime": "Energy supply shock + tighter global financial conditions + defensive rotation, without confirmation of a systemic credit crisis",
+      "key_risk": "A persistent energy shock lifting term premium, contaminating credit and turning duration repricing into deleveraging",
+      "watch": ["UST 10Y above/below 5%", "Brent and East-West Pipeline/Hormuz capacity", "HY/IG credit spreads", "DXY and EM FX", "Fed September 16", "Copom September 16"],
+      "search_text": "global macro cross asset September 15 2026 Treasury 5 percent Fed oil Brent WTI Hormuz Saudi East-West pipeline dollar DXY EUR USD JPY Brazil Ibovespa real DI Selic Petrobras Vale banks China industry property Europe France Russia sanctions gold Bitcoin Ethereum coffee sugar soybeans corn wheat cattle credit VIX MOVE wealth reserves income transfer energy security political science geopolitics scenarios"
+    },
+    "pt-BR": {
+      "markdown": "../2026-09-15-global-macro.md",
+      "title": "Global Macro, Markets & Political Risk — 15/09/2026",
+      "deck": "Petróleo em US$107–108, Treasury de 10 anos até 5,04% e dólar forte transformam a disrupção energética em choque de custo de capital; crédito ainda não confirma crise sistêmica.",
+      "tags": ["Global Macro", "Cross-Asset", "Brasil", "Estados Unidos", "Europa", "China", "Oriente Médio", "Energia", "Risco Político", "Fluxos de Riqueza"],
+      "keywords": ["Treasury 10Y", "Fed", "Brent", "Hormuz", "East-West Pipeline", "DXY", "Ibovespa", "USD/BRL", "China", "Europa", "crédito", "ouro", "Bitcoin", "café", "transferência de riqueza", "reservas", "geopolítica"],
+      "regime": "Choque de oferta energético + aperto global de condições financeiras + rotação defensiva, sem confirmação de crise sistêmica de crédito",
+      "key_risk": "Persistência do choque energético elevar term premium, contaminar crédito e transformar repricing de duration em desalavancagem",
+      "watch": ["UST 10Y acima/abaixo de 5%", "Brent e capacidade do East-West Pipeline/Hormuz", "spreads de crédito HY/IG", "DXY e EM FX", "Fed 16/09", "Copom 16/09"],
+      "search_text": "global macro cross asset 15 setembro 2026 Treasury 5 por cento Fed petróleo Brent WTI Hormuz Saudi East-West pipeline dólar DXY EUR USD JPY Brasil Ibovespa real DI Selic Petrobras Vale bancos China indústria imóveis Europa França sanções Rússia ouro Bitcoin Ethereum café açúcar soja milho trigo boi crédito VIX MOVE riqueza reservas transferência de renda energia segurança ciência política geopolítica cenários"
+    }
+  }
+}
