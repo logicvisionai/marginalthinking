@@ -4,12 +4,18 @@ ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 rm -rf dist
 mkdir -p dist
-find . -mindepth 1 -maxdepth 1 \
-  ! -name '.git' \
-  ! -name '.github' \
-  ! -name 'dist' \
-  ! -name 'scripts' \
-  -exec cp -R {} dist/ \;
+
+# Public shell only. Internal QA/pending data and build scripts are never deployed.
+cp -R assets dist/
+cp -R reports dist/
+find dist/reports -type f -name '*.html' -delete
+mkdir -p dist/data
+cp data/reports.json dist/data/reports.json
+for f in index.html reports.html methodology.html about.html 404.html LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
+  [[ -f "$f" ]] && cp "$f" dist/
+done
+
+node scripts/render-site.mjs
 
 # Analytics is optional and never blocks publishing research.
 if [[ -n "${PROD_GA_MEASUREMENT_ID:-}" ]]; then
@@ -29,4 +35,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: static HTML + Markdown only.'
+echo 'Cloudflare build ready: static, crawlable HTML generated from canonical Markdown.'

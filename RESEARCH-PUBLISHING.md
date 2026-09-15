@@ -1,77 +1,46 @@
-# Marginal Thinking — Research Publishing Architecture
+# Marginal Thinking — Research Publishing
 
-## Princípio
+## Canonical model
 
-A publicação tem uma fonte canônica: **Markdown**. O HTML é o leitor web desse conteúdo. PDF, DOCX e XLSX não fazem parte do pipeline.
+Research is written in Markdown. Public HTML is generated at build time from `data/reports.json` plus the canonical Markdown file. Hand-written report HTML is ignored by the production build.
 
-## Estrutura de uma publicação
+## Publishing flow
 
-Cada pesquisa precisa de apenas três mudanças:
+1. Research and triangulate sources.
+2. Write the complete report in Markdown.
+3. Add/update the report entry in `data/reports.json`.
+4. Run `npm run validate`.
+5. Run `npm run build`.
+6. Inspect the generated HTML in `dist/` before deployment when layout changes.
 
-1. `reports/YYYY/MM/<slug>.md` — conteúdo completo e fontes.
-2. `reports/YYYY/MM/<slug>.html` — shell leve com título, deck, metadados e `data-markdown`.
-3. `data/reports.json` — entrada para home, busca e arquivo.
+The build generates:
 
-A home não deve ser editada para cada publicação; ela lê `data/reports.json`.
+- full static HTML for every report;
+- canonical URLs and robots directives;
+- Open Graph/Twitter metadata;
+- Schema.org `ScholarlyArticle`, `BreadcrumbList`, `Person` and organization metadata;
+- citation meta tags;
+- author page;
+- topic landing pages;
+- `sitemap.xml`;
+- `feed.xml`;
+- `robots.txt`.
 
-## Markdown suportado
+## Search/indexing rules
 
-Use Markdown comum: H1-H4, parágrafos, negrito, itálico, links, listas, citações, tabelas e blocos de código.
+- HTML is the canonical indexable representation.
+- Markdown remains publicly accessible for auditability but is excluded from crawler indexing through `robots.txt`.
+- `data/approved`, `data/pending` and `data/rejected` are internal workflow data and are not copied to `dist`.
+- Each report must have one H1, at least two H2 sections when practical, a unique ID, a unique HTML URL and a corresponding Markdown source.
 
-### Diagrama causal
+## Author identity
 
-Um parágrafo com três ou mais etapas separadas por `→` é transformado em diagrama no HTML:
+Default author metadata is defined in `site.config.json` and may be overridden per report with an `authors` array. Current default contact: `christian@marginalthinking.org`.
 
-`Choque de energia → frete → inflação → juros → valuation`
+## Visual research primitives
 
-Também é possível usar:
+Markdown tables are rendered as responsive tables. Causal chains using repeated arrows can render as flows. Explicit `flow` and `chart` fenced blocks are supported. Graphs and diagrams must carry information already present in the research; presentation must not invent data.
 
-```flow
-Capital -> chips -> data centers -> rede elétrica -> energia
-```
+## Formats
 
-### Gráfico declarativo
-
-Quando um gráfico realmente melhora a compreensão, use um bloco simples:
-
-```chart
-title: Variação do dia
-unit: %
-S&P 500 | -0.48
-Nasdaq | -0.56
-Brent | 1.02
-```
-
-O Markdown continua legível e o HTML gera o gráfico sem biblioteca externa ou dados hard-coded no JavaScript.
-
-Tabelas com uma coluna percentual chamada `Variação`, `Movimento`, `Mudança` ou `Retorno` também recebem uma visualização automática quando houver pelo menos três observações numéricas.
-
-## Regras editoriais
-
-- separar fato, inferência e cenário;
-- informar data e unidade dos números relevantes;
-- não misturar estoque, fluxo, valorização e mudança de controle;
-- preferir fontes primárias e registrar revisões;
-- cenários precisam de gatilhos e contraprovas;
-- gráficos devem nascer dos dados presentes na própria pesquisa;
-- nenhum relatório pode depender de código específico por número de seção.
-
-## QA antes do deploy
-
-`npm run validate`
-
-A validação bloqueia o build se encontrar:
-
-- PDF, DOCX ou XLSX no diretório de pesquisas;
-- referências a formatos binários no site;
-- relatório sem par HTML/Markdown;
-- caractere `�`;
-- bloco de código sem fechamento;
-- tabela Markdown estruturalmente inconsistente;
-- shell HTML que não aponta para o Markdown correspondente.
-
-## Publicação
-
-`npm run build`
-
-O build valida primeiro e depois copia o site para `dist/`. Não existe reconstrução de binários, chunks Base64 ou manifestos de assets de relatório.
+Do not publish PDF, DOCX or XLSX. The public formats are HTML and Markdown only.

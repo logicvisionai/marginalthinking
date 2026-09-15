@@ -1,0 +1,15 @@
+{
+  "site_name": "Marginal Thinking",
+  "site_url": "https://marginalthinking.org",
+  "publisher": "Marginal Thinking",
+  "institution": "LOGV Research",
+  "language": "pt-BR",
+  "description": "Pesquisa independente sobre macroeconomia, economia política, geopolítica, capital e poder.",
+  "social_image": "/assets/brand/marginal-thinking-logo.png",
+  "default_author": {
+    "name": "Christian Rafael de Souza Silva",
+    "slug": "christian-rafael-de-souza-silva",
+    "email": "christian@marginalthinking.org",
+    "role": "Autor · Pesquisador"
+  }
+}
