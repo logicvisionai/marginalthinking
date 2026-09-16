@@ -40,6 +40,9 @@ node scripts/final-public-language.mjs
 # Global static search and semantic navigation are derived after editorial normalization.
 # Controlled taxonomy terms receive canonical links; free tags route into global search.
 node scripts/render-discovery.mjs
+# Recovery navigation and agent discovery remain static: llms.txt, Markdown alternates,
+# crawler hints and Cloudflare headers are generated from the same canonical corpus.
+node scripts/render-agent-discovery.mjs
 node scripts/harden-output.mjs
 node scripts/validate-taxonomy-output.mjs
 node scripts/validate-series.mjs --dist
@@ -63,4 +66,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, global static search, semantic taxonomy navigation, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, institutional copy reviewed, responsive output validated.'
