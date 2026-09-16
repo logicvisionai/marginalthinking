@@ -5,10 +5,10 @@ cd "$ROOT"
 rm -rf dist
 mkdir -p dist
 
-# Apply the reviewed institutional copy before rendering any public page.
+# Apply reviewed institutional copy before rendering public pages.
 node scripts/apply-institutional-copy.mjs
 
-# Public assets and canonical research sources only. Internal QA data and scripts are never deployed.
+# Public assets and canonical research only. Staging and QA records are never deployed.
 cp -R assets dist/
 cp -R reports dist/
 find dist/reports -type f -name '*.html' -delete
@@ -19,6 +19,9 @@ for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
 done
 
 node scripts/render-site.mjs
+# Replace legacy free-tag collections with the controlled editorial taxonomy and
+# re-rank related research by program -> geography -> controlled topics -> tags.
+node scripts/render-taxonomy-pages.mjs
 node scripts/editorial-normalize.mjs
 node scripts/editorial-normalize-en.mjs
 node scripts/editorial-final-cleanup.mjs
@@ -45,4 +48,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, frozen editorial taxonomy, institutional copy reviewed, plain-language pass enforced, evidence metadata styled, hardened responsive layout, validated static output.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, frozen editorial taxonomy, controlled collection pages, taxonomy-ranked related research, institutional copy reviewed, responsive output validated.'
