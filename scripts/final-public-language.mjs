@@ -119,6 +119,11 @@ function normalizeHtml(text,en){
   return work.replace(/___MT_PROTECTED_(\d+)___/g,(_,n)=>protectedBlocks[Number(n)]);
 }
 function normalizeMarkdown(text,en){return text.split(/(```[\s\S]*?```|https?:\/\/[^\s)\]]+)/g).map(part=>(part.startsWith('```')||/^https?:\/\//.test(part))?part:applyPairs(part,en?enPairs:ptPairs)).join('');}
+function markdownCheckText(text){
+  return text
+    .replace(/```[\s\S]*?```/g,' ')
+    .replace(/https?:\/\/[^\s)\]]+/g,' ');
+}
 
 const forbiddenPt=[/\binfer[eê]ncia\b/i,/\bdelta\b/i,/\bgargalo\b/i,/\bmidstream\b/i,/\bgreenfield\b/i,/\bfunding\b/i,/\bhedge\b/i,/\bduration\b/i,/\bvaluation\b/i];
 const forbiddenEn=[/\binference\b/i,/\bdelta\b/i,/\bbottleneck\b/i,/\bmidstream\b/i,/\bgreenfield\b/i,/\bfunding\b/i,/\bduration\b/i];
@@ -136,7 +141,7 @@ for(const file of walk(root)){
   let work=before;
   if(isHtml){const fixed=fixEvidence(work);work=fixed.html;evidenceFixed+=fixed.count;work=normalizeHtml(work,en);}else work=normalizeMarkdown(work,en);
   if(work!==before){fs.writeFileSync(file,work);changed++;}
-  const check=isHtml?visibleText(work):work.replace(/```[\s\S]*?```/g,' ');
+  const check=isHtml?visibleText(work):markdownCheckText(work);
   for(const re of en?forbiddenEn:forbiddenPt)if(re.test(check))failures.push(`${rel}: unresolved public-language term ${re}`);
 }
 if(failures.length){console.error(failures.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
