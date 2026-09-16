@@ -4,31 +4,42 @@ This directory is the internal cumulative research memory for Marginal Thinking.
 
 Read [`../RESEARCH-CONTEXT.md`](../RESEARCH-CONTEXT.md) before creating or modifying any file here.
 
-## Current structure
+## Structure
 
 ```text
 research-context/
-├── countries/
-├── themes/
-└── _template.md
+├── README.md
+├── _template.md
+└── briefings/
+    └── <dynamic-slug>.md
 ```
 
-`regions/` and `institutions/` should be created only when the corpus creates a real need for them. Do not create empty directory scaffolding.
+There is deliberately no permanent folder structure for countries, institutions, themes, technologies or relations. The corpus determines what deserves a briefing.
 
 ## Principles
 
+- Briefings emerge dynamically from published research; there is no fixed coverage list.
 - Context is internal orientation, not a public citation source.
 - Keep files compact and structural rather than encyclopedic.
 - Prefer durable mechanisms, dependencies, relationships and turning points.
-- Record what changed since the prior review instead of rewriting everything.
-- Maintain open questions so later research can close or refine them.
+- Record material deltas rather than rewriting everything.
+- Maintain open questions when they can guide future research.
 - Link to canonical Marginal Thinking research by stable research ID.
 - Re-verify time-sensitive claims before they enter a new public article.
+- Search existing briefings before creating a new one.
+- Merge or retire overlapping briefings when that reduces duplication.
 - Do not mirror every article into a context file.
 
-## Initial pilots
+## Dynamic discovery
 
-- `countries/kazakhstan.md`
-- `themes/middle-corridor.md`
+After canonical research is published, the maintenance phase inspects the new metadata and, only when justified, the full report. It decides whether the new research should:
 
-These pilots are deliberately small. The maintenance task should add new files only when the creation rule in `RESEARCH-CONTEXT.md` is satisfied.
+1. update an existing briefing;
+2. create a new briefing;
+3. merge or split existing briefings;
+4. resolve or refine an open question;
+5. produce no memory change at all.
+
+The correct default is **no new file unless the briefing will materially improve future research efficiency or analytical continuity**.
+
+Existing briefings are examples of accumulated memory, not a seed list or required coverage map.
