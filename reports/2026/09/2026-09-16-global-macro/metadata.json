@@ -1,0 +1,36 @@
+{
+  "id": "MT-GM-2026-09-16",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T09:46:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "url": "/reports/2026/09/2026-09-16-global-macro.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-16T08:56:35-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "318c1741f31f59c3e023920f6b4ef02f8b80d4b9",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro, Markets & Political Risk — September 16, 2026",
+      "deck": "Saudi Arabia’s new loading route via Oman reduces the immediate risk of oil scarcity and eases yields at the margin, but a 10-year Treasury near 5% keeps global financing conditions restrictive ahead of the Fed and Copom decisions.",
+      "tags": ["Global Macro", "Markets", "Brazil", "United States", "Europe", "Asia", "Energy", "Fixed Income", "Political Risk", "Cross-Asset"],
+      "keywords": ["Fed", "Copom", "Selic", "Treasury 10Y", "Brent", "Sohar", "Saudi Arabia", "USD/BRL", "Ibovespa", "Petrobras", "Vale", "gold", "Bitcoin", "Ethereum", "Bund", "Gilt", "JGB", "coffee", "sugar", "credit"],
+      "regime": "Supply-side inflation remains elevated and sovereign yields are near multi-year highs, with marginal energy relief and risk concentrated in central-bank decisions",
+      "key_risk": "Long-term yields remain elevated after widely expected Fed and Copom decisions, keeping financing conditions restrictive while the energy shock remains unresolved",
+      "watch": ["UST 10Y after the Fed", "Brent and diesel after the Sohar route", "USD/BRL and DI curve after Copom", "credit spreads", "BoJ on September 18"],
+      "search_text": "global macro September 16 2026 Fed Copom Selic Treasury 10 year 5 percent oil Brent WTI Sohar Saudi Arabia Hormuz dollar DXY EUR USD JPY CNY Brazil Ibovespa Petrobras Vale banks foreign flow DI curve Europe STOXX Bund Gilt Japan JGB China gold silver copper iron ore coffee sugar soybeans corn wheat cattle Bitcoin Ethereum credit VIX financial conditions political risk scenarios"
+    },
+    "pt-BR": {
+      "markdown": "../2026-09-16-global-macro.md",
+      "title": "Global Macro, Mercados e Risco Político — 16/09/2026",
+      "deck": "A nova rota saudita por Omã reduz o risco de escassez imediata de petróleo e alivia juros na margem, mas o Treasury de 10 anos perto de 5% mantém o custo global de financiamento elevado antes das decisões do Fed e do Copom.",
+      "tags": ["Global Macro", "Mercados", "Brasil", "Estados Unidos", "Europa", "Ásia", "Energia", "Renda Fixa", "Risco Político", "Cross-Asset"],
+      "keywords": ["Fed", "Copom", "Selic", "Treasury 10Y", "Brent", "Sohar", "Arábia Saudita", "USD/BRL", "Ibovespa", "Petrobras", "Vale", "ouro", "Bitcoin", "Ethereum", "Bund", "Gilt", "JGB", "café", "açúcar", "crédito"],
+      "regime": "Inflação de oferta ainda elevada e juros soberanos próximos de máximas plurianuais, com alívio marginal em energia e concentração do risco nas decisões de bancos centrais",
+      "key_risk": "Juros longos permanecerem elevados mesmo após decisões amplamente esperadas do Fed e do Copom, mantendo condições de financiamento restritivas enquanto o choque energético não se normaliza",
+      "watch": ["UST 10Y após o Fed", "Brent e diesel após a abertura da rota por Sohar", "USD/BRL e curva DI após o Copom", "spreads de crédito", "BoJ em 18/09"],
+      "search_text": "global macro 16 setembro 2026 Fed Copom Selic Treasury 10 anos 5 por cento petróleo Brent WTI Sohar Arábia Saudita Hormuz dólar DXY EUR USD JPY CNY Brasil Ibovespa Petrobras Vale bancos fluxo estrangeiro curva DI Europa STOXX Bund Gilt Japão JGB China ouro prata cobre minério café açúcar soja milho trigo boi Bitcoin Ethereum crédito VIX condições financeiras risco político cenários"
+    }
+  }
+}
