@@ -20,6 +20,36 @@
     "qa_reviewed_commit": "318c1741f31f59c3e023920f6b4ef02f8b80d4b9"
   },
   {
+    "id": "MT-TECH-2026-09-16-quantum-computing",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T10:54:01-03:00",
+    "kind": "monthly-strategic-technology",
+    "program": "technology-power-transformation",
+    "priority": 35,
+    "title": "Computação quântica em 2026: progresso real, utilidade econômica ainda em validação",
+    "deck": "A correção de erros avançou e a migração pós-quântica já gera decisões concretas, mas uma máquina tolerante a falhas com utilidade econômica independente e verificada ainda não foi demonstrada.",
+    "url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.md",
+    "language": "pt-BR",
+    "translations": {
+      "pt-BR": {"html_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.html", "markdown_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.md"},
+      "en": {"html_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-en.html", "markdown_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-en.md"}
+    },
+    "tags": ["Tecnologia", "Computação quântica", "PQC", "Segurança", "Infraestrutura"],
+    "keywords": ["computação quântica", "quantum computing", "correção de erros", "fault tolerance", "post-quantum cryptography", "PQC", "DARPA QBI", "NIST", "IBM", "DOE"],
+    "technology_maturity": "experimental-pre-industrial",
+    "assessment_confidence": "high-current-medium-3to5y",
+    "key_constraints": ["erro lógico e overhead de correção", "controle e decodificação em tempo real", "fabricação e rendimento", "modularidade e interconexão", "custo total contra métodos clássicos"],
+    "key_risk": "Roadmaps e métricas isoladas podem ser confundidos com utilidade econômica demonstrada.",
+    "watch": "erro lógico por ciclo; operações lógicas confiáveis; DARPA QBI; migração PQC; modularidade; custo total; alterações de roadmap",
+    "search_text": "computação quântica quantum computing PQC criptografia pós-quântica correção de erros fault tolerance DARPA QBI NIST Google Willow IBM Nighthawk DOE Quantum Genesis",
+    "homepage_title": "Computação quântica: progresso real, utilidade ainda em validação",
+    "homepage_deck": "Correção de erros e PQC avançaram; a utilidade econômica de máquinas tolerantes a falhas ainda precisa de validação independente.",
+    "qa_reviewed_at": "2026-09-16T10:54:51-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "165e624f762c469898dbed0e3da7eee3cf4024f7"
+  },
+  {
     "id": "MT-GM-2026-09-15",
     "date": "2026-09-15",
     "published_at": "2026-09-15T08:12:00-03:00",
