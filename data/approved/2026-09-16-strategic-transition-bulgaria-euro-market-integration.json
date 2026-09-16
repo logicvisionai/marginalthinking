@@ -6,9 +6,11 @@
   "reviewed_commit": "e3da9ea3a8b7a1c410bb7f25c0b5d18e91bb45ad",
   "pending_blob_sha": "85090f1878f3c6a69f098d8e601889e7a9df8136",
   "source_blob_shas": {
-    "en": "6b617a7b262e1123a6459dbeab087a9f660f60e7",
-    "pt-BR": "4e53ac0bc62e26f873542eb2e7310a58c5e30ca0"
+    "en": "6e0a23cd34570cfa1a5ba683c532b2d6bc8e8d9f",
+    "pt-BR": "f534ff31cd5061ef2a8ed46563f1b52829298074"
   },
+  "binding_reconciled_at": "2026-09-16T13:15:00-03:00",
+  "binding_reconciliation_note": "Corrected source blob bindings to the exact EN and pt-BR blobs already present at reviewed_commit e3da9ea3a8b7a1c410bb7f25c0b5d18e91bb45ad. Research content and QA conclusions were not changed.",
   "taxonomy_check": "passed",
   "translation_check": "passed",
   "confidence": "medium",
