@@ -14,12 +14,12 @@ function walk(dir){
   });
 }
 
-function classFor(label=''){
-  const s=label.toLocaleLowerCase('pt-BR');
-  if(/fato observado|observed fact/.test(s))return'evidence-fact';
-  if(/infer[eê]ncia|inference/.test(s))return'evidence-inference';
-  if(/cen[aá]rio|scenario/.test(s))return'evidence-scenario';
-  return'evidence-note';
+function escAttr(value=''){
+  return String(value)
+    .replace(/&/g,'&amp;')
+    .replace(/"/g,'&quot;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;');
 }
 
 function splitLabel(raw=''){
@@ -29,17 +29,55 @@ function splitLabel(raw=''){
   return{type:clean,confidence:''};
 }
 
+function compactType(type=''){
+  const s=type.toLocaleLowerCase('pt-BR');
+  if(/fato observado/.test(s))return'Fato';
+  if(/observed fact/.test(s))return'Fact';
+  if(/infer[eê]ncia/.test(s))return'Inferência';
+  if(/inference/.test(s))return'Inference';
+  if(/cen[aá]rio/.test(s))return'Cenário';
+  if(/scenario/.test(s))return'Scenario';
+  return type.trim();
+}
+
+function compactConfidence(confidence=''){
+  return confidence
+    .replace(/^confian[cç]a\s*/i,'')
+    .replace(/^confidence\s*/i,'')
+    .trim()
+    .replace(/^alta$/i,'Alta')
+    .replace(/^m[eé]dia-alta$/i,'Média-alta')
+    .replace(/^m[eé]dia$/i,'Média')
+    .replace(/^baixa$/i,'Baixa')
+    .replace(/^high$/i,'High')
+    .replace(/^medium-high$/i,'Medium-high')
+    .replace(/^medium$/i,'Medium')
+    .replace(/^low$/i,'Low');
+}
+
+function hintFor(type='',confidence=''){
+  const english=/observed fact|inference|scenario|confidence/i.test(`${type} ${confidence}`);
+  const cleanType=type.trim().replace(/[.。]\s*$/,'');
+  const cleanConfidence=confidence.trim().replace(/[.。]\s*$/,'');
+  if(english){
+    return cleanConfidence
+      ? `Method note: ${cleanType}; ${cleanConfidence.toLowerCase()}.`
+      : `Method note: ${cleanType}.`;
+  }
+  return cleanConfidence
+    ? `Nota metodológica: ${cleanType}; ${cleanConfidence.toLocaleLowerCase('pt-BR')}.`
+    : `Nota metodológica: ${cleanType}.`;
+}
+
 function transform(html){
   let changed=false;
   const paragraph=/<p><strong>([^<]*(?:confian[cç]a|confidence)[^<]*?)<\/strong>\s*([\s\S]*?)<\/p>/gi;
   html=html.replace(paragraph,(full,label,body)=>{
     changed=true;
     const {type,confidence}=splitLabel(label);
-    const cssClass=classFor(type);
-    const meta=confidence
-      ? `<span class="evidence-meta"><span class="evidence-type">${type}</span><span class="evidence-separator" aria-hidden="true"></span><span class="evidence-confidence">${confidence}</span></span>`
-      : `<span class="evidence-meta"><span class="evidence-type">${type}</span></span>`;
-    return `<p class="evidence-statement ${cssClass}">${meta}<span class="evidence-body">${body.trim()}</span></p>`;
+    const compact=[compactType(type),compactConfidence(confidence)].filter(Boolean).join(' · ');
+    const hint=hintFor(type,confidence);
+    return `<p class="evidence-statement">${body.trim()} <span class="evidence-badge" tabindex="0" role="note" aria-label="${escAttr(hint)}" title="${escAttr(hint)}" data-hint="${escAttr(hint)}">${compact}</span></p>`;
   });
 
   if(changed&&!html.includes(STYLE_HREF)){
@@ -62,4 +100,4 @@ for(const file of walk(DIST).filter(f=>f.endsWith('.html'))){
   }
 }
 
-console.log(`Evidence labels styled: ${statementsChanged} statement(s) across ${filesChanged} HTML file(s).`);
+console.log(`Evidence badges styled: ${statementsChanged} statement(s) across ${filesChanged} HTML file(s).`);
