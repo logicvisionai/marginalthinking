@@ -37,6 +37,9 @@ node scripts/editorial-normalize-en.mjs
 node scripts/editorial-final-cleanup.mjs
 node scripts/style-evidence-labels.mjs
 node scripts/final-public-language.mjs
+# Global static search and semantic navigation are derived after editorial normalization.
+# Controlled taxonomy terms receive canonical links; free tags route into global search.
+node scripts/render-discovery.mjs
 node scripts/harden-output.mjs
 node scripts/validate-taxonomy-output.mjs
 node scripts/validate-series.mjs --dist
@@ -60,4 +63,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, global static search, semantic taxonomy navigation, institutional copy reviewed, responsive output validated.'
