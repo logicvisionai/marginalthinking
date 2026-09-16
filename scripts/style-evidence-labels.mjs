@@ -44,6 +44,7 @@ function compactConfidence(confidence=''){
   return confidence
     .replace(/^confian[cç]a\s*/i,'')
     .replace(/^confidence\s*/i,'')
+    .replace(/\s+confidence$/i,'')
     .trim()
     .replace(/^alta$/i,'Alta')
     .replace(/^m[eé]dia-alta$/i,'Média-alta')
