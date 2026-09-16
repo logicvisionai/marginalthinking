@@ -82,6 +82,24 @@
       }
     },
     "topics": {"type": "array", "minItems": 2, "uniqueItems": true, "items": {"type": "string"}},
+    "phenomena": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "war-armed-conflict",
+          "strategic-competition",
+          "defense-security",
+          "sanctions-economic-coercion",
+          "political-stability",
+          "civil-unrest",
+          "migration-displacement",
+          "demographic-transition",
+          "institutional-change",
+          "social-change"
+        ]
+      }
+    },
     "format": {"enum": ["brief", "assessment", "research-report", "country-dossier", "monitor", "data-note"]},
     "cadence": {"enum": ["event-driven", "daily", "weekly", "monthly", "quarterly", "annual"]},
     "sources": {
