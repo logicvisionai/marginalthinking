@@ -1,33 +1,96 @@
 # Marginal Thinking — Research Publishing
 
-## Architecture
+## Purpose
 
-Marginal Thinking is **English-first and multilingual**. Public research is written in Markdown; public HTML is generated deterministically at build time. Agents do not hand-write final report HTML, CSS, SEO metadata, author blocks, sitemaps or feeds.
+Marginal Thinking uses a deterministic, QA-gated publishing pipeline. Public research is English-first, bilingual in English and Brazilian Portuguese, written in Markdown and rendered to HTML at build time.
 
-The default public language is English. Brazilian Portuguese (`pt-BR`) is required for every public research item. Every publication must also comply with [`EDITORIAL-ARCHITECTURE.md`](./EDITORIAL-ARCHITECTURE.md) and the controlled taxonomy in [`data/taxonomy.json`](./data/taxonomy.json).
+Every publication must comply with:
 
-A critical publishing invariant applies:
+- [`EDITORIAL-ARCHITECTURE.md`](./EDITORIAL-ARCHITECTURE.md);
+- [`data/taxonomy.json`](./data/taxonomy.json);
+- [`EDITORIAL-STYLE.md`](./EDITORIAL-STYLE.md);
+- [`INSTITUTIONAL-EDITORIAL.md`](./INSTITUTIONAL-EDITORIAL.md).
 
-> **A public publication bundle must not exist before factual/editorial QA approval.**
+The publication invariant is:
 
-`scripts/render-site.mjs` discovers publication bundles automatically. Creating `reports/YYYY/MM/<slug>/metadata.json` therefore makes an item eligible for the public build. Producers must never create that file before QA.
+> **producer → staged sources → immutable pending sidecar → QA approval tied to exact Git blob SHAs → publisher copies approved sources into the public bundle → build validation → deploy**
 
-## Editorial language standard
+No producer or QA task may publish directly.
 
-Every publication must follow [`EDITORIAL-STYLE.md`](./EDITORIAL-STYLE.md) before factual QA.
+## Public and non-public trees
 
-The Portuguese edition must read as natural Brazilian Portuguese, not as a literal translation of financial, corporate or intelligence English. Analytical density is desirable; compressed jargon is not. Whenever material, a sentence should make clear **who acts, what changes, through which mechanism and with what consequence**.
+Unapproved research lives only under:
 
-Terms such as `gargalo`, `captura de valor`, `captura de renda`, `vetor`, `camada`, `variável de controle`, `gravitar`, `repricing`, `funding`, `claims`, `collateral`, `midstream`, `valuation`, `duration`, `carry` and similar expressions require special scrutiny. They may be used when technically necessary, but must not replace the concrete economic relation being described.
+```text
+staging/research/YYYY/MM/<slug>/
+├── en.md
+└── pt-BR.md
+```
 
-The English edition must be idiomatic English rather than a word-for-word rendering of Portuguese. Facts, numbers, confidence, scenarios, taxonomy and analytical meaning must remain equivalent across languages.
+Transactional and QA records live under:
 
-## Controlled editorial metadata
+```text
+data/pending/<slug>.json
+data/approved/<slug>.json
+data/rejected/<slug>.json
+```
 
-Every pending item must declare the classification that will later become public metadata:
+These paths are not copied into the public Cloudflare build.
+
+Only approved research may be copied to:
+
+```text
+reports/YYYY/MM/<slug>/
+├── metadata.json
+├── en.md
+└── pt-BR.md
+```
+
+`scripts/render-site.mjs` discovers `reports/**/metadata.json` automatically. Therefore the public bundle must not exist before QA approval.
+
+## Stage 1 — Producer
+
+The producer writes both staged Markdown editions and performs its source, language and methodological checks. It then writes the pending sidecar **last**.
+
+New pending items use `schema_version: 2` and the schema in [`data/schemas/research-pending-v2.json`](./data/schemas/research-pending-v2.json).
+
+Canonical shape:
 
 ```json
 {
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-17",
+  "slug": "2026-09-17-global-macro",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T08:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-17-global-macro/en.md",
+      "title": "...",
+      "deck": "...",
+      "tags": [],
+      "keywords": [],
+      "regime": "...",
+      "key_risk": "...",
+      "watch": [],
+      "search_text": "..."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-17-global-macro/pt-BR.md",
+      "title": "...",
+      "deck": "...",
+      "tags": [],
+      "keywords": [],
+      "regime": "...",
+      "key_risk": "...",
+      "watch": [],
+      "search_text": "..."
+    }
+  },
   "taxonomy_version": "1.0",
   "program": "political-economy-markets",
   "related_programs": ["global-system-power"],
@@ -44,202 +107,127 @@ Every pending item must declare the classification that will later become public
 }
 ```
 
-All controlled values must already exist in `data/taxonomy.json`. Producers, QA and the publisher may not silently extend the taxonomy.
+Series-specific fields may be added, but the controlled fields above may not be omitted or silently extended.
 
-## Three-stage workflow
+The producer must not:
 
-### Stage 1 — Producer: private staging inside the repository
+- create `reports/YYYY/MM/<slug>/metadata.json`;
+- create public HTML;
+- update `data/reports.json`;
+- alter global navigation, taxonomy, CSS or institutional copy as part of routine research production.
 
-A producer writes bilingual source material under a non-public staging tree:
+## Stage 2 — QA
 
-```text
-staging/research/YYYY/MM/<slug>/
-├── en.md
-└── pt-BR.md
-```
+`MT Research QA` reads the pending sidecar and both staged sources. It validates facts, sources, dates, methodology, language equivalence, editorial style and controlled taxonomy.
 
-The producer then writes, **last**, a transactional sidecar:
+For a new v2 item, approval must be written as `schema_version: 2` and be cryptographically tied to the exact reviewed state.
 
-```text
-data/pending/<slug>.json
-```
-
-The pending sidecar contains:
-
-- `schema_version: 1`;
-- `ready: true` only after both language files are complete;
-- stable `id`, date, kind and priority;
-- paths to the staged EN and PT-BR Markdown files;
-- localized title, deck and analytical metadata;
-- the complete controlled taxonomy classification;
-- free-form tags and keywords for search;
-- any series-specific metadata such as technology maturity or key constraints.
-
-The producer must **not** create anything under `reports/YYYY/MM/<slug>/` and must not create public HTML. The `staging/` tree is deliberately not copied by the Cloudflare build.
-
-### Stage 2 — Research QA
-
-`MT Research QA` reads the pending sidecar and both staged Markdown editions. It validates facts, sources, dates, methodology, language equivalence and taxonomy.
-
-Approval is written to:
-
-```text
-data/approved/<slug>.json
-```
-
-and must include the exact blob SHAs of all approved staged sources, `reviewed_commit`, confidence, checks, contrary evidence, limitations, `taxonomy_check:"passed"`, and `translation_check:"passed"` for bilingual material.
-
-A rejected item is recorded under `data/rejected/` and remains non-public.
-
-Any source change after approval invalidates the approval and requires another QA pass.
-
-### Stage 3 — Publisher: create the public bundle
-
-Only `MT Publicador do Site` may turn an approved staged item into a public publication bundle.
-
-After confirming that current staged blob SHAs match the approval, the publisher creates:
-
-```text
-reports/YYYY/MM/<slug>/
-├── metadata.json
-├── en.md
-└── pt-BR.md
-```
-
-`metadata.json` is created only in the publication commit and uses:
-
-- `source_locale: "en"`;
-- the approved controlled taxonomy fields;
-- locale-specific title, deck, tags, keywords, regime, risks, watch items and search text;
-- Markdown paths relative to the bundle;
-- the canonical report URL `/reports/YYYY/MM/<slug>.html`.
-
-The publisher may update `data/reports.json` as a backward-compatible index, but the multilingual bundle is authoritative and overrides a legacy entry with the same ID.
-
-After a successful atomic publication commit, the publisher may remove the staged source files. `data/pending/`, `data/approved/` and Git history preserve the audit trail; rejected records are never erased merely because a corrected edition is later approved.
-
-## Why staging is outside `reports/`
-
-Cloudflare copies `reports/` into the public build before rendering. Markdown placed there is therefore potentially public even if no HTML exists yet. Keeping unapproved sources under `staging/research/` prevents accidental exposure and ensures that QA remains a real publication gate rather than a documentation step after publication.
-
-## Build flow
-
-1. `npm run validate` checks only canonical public bundles and site configuration.
-2. `scripts/cloudflare-build.sh` copies public assets and the canonical `reports/` tree; it does not copy `staging/`, `data/pending/`, `data/approved/` or `data/rejected/`.
-3. `scripts/render-site.mjs` generates English and Portuguese site pages, report HTML, author/topic pages, SEO metadata, hreflang links, sitemaps and RSS.
-4. Language normalizers operate as compatibility layers for existing content, not as substitutes for good source writing.
-5. `scripts/validate-dist.mjs` validates rendered output before deployment.
-6. Cloudflare publishes `dist/` only after blocking checks pass.
-
-Missing sources, malformed JSON, missing translations, invalid controlled taxonomy and prohibited binary formats are blocking errors.
-
-## Publication bundle example
+Required approval fields include:
 
 ```json
 {
-  "id": "MT-GM-2026-09-16",
-  "date": "2026-09-16",
-  "kind": "daily-global-macro",
-  "priority": 10,
-  "taxonomy_version": "1.0",
-  "program": "political-economy-markets",
-  "related_programs": ["global-system-power"],
-  "dimensions": ["economy", "politics"],
-  "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
-  "topics": ["macroeconomics", "capital-markets"],
-  "format": "brief",
-  "cadence": "daily",
-  "source_locale": "en",
-  "locales": {
-    "en": {
-      "title": "Global Macro, Markets & Political Risk — September 16, 2026",
-      "deck": "English abstract.",
-      "markdown": "en.md"
-    },
-    "pt-BR": {
-      "title": "Macro Global, Mercados e Risco Político — 16/09/2026",
-      "deck": "Resumo em português.",
-      "markdown": "pt-BR.md"
-    }
-  }
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-17",
+  "qa_status": "approved",
+  "reviewed_at": "...",
+  "reviewed_commit": "...",
+  "pending_blob_sha": "<git-blob-sha-of-data/pending/...>",
+  "source_blob_shas": {
+    "en": "<git-blob-sha>",
+    "pt-BR": "<git-blob-sha>"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {},
+  "contrary_evidence": [],
+  "limitations": [],
+  "notes": "...",
+  "publication": {}
 }
 ```
 
-## Visual research primitives
+`publication` is an immutable snapshot of the approved publication state: the complete normalized v2 pending object that the publisher is allowed to materialize publicly. The publisher must never infer missing publication metadata from a later-mutated pending file.
 
-Use visuals only when they improve comprehension and only with facts or analytical structure already present in the report.
+If a source or pending sidecar changes after QA, its Git blob SHA changes and the approval becomes invalid automatically.
 
-### Chart
+A rejected item is written to `data/rejected/<slug>.json`. Rejection history is retained even after a corrected version later passes QA.
 
-````text
-```chart
-title: Treasury 10Y
-type: line
-unit: %
-2026-09-12 | 4.82
-2026-09-13 | 4.94
-2026-09-14 | 5.00
-```
-````
+## Stage 3 — Publisher
 
-`type` may be `bar` or `line`.
+`MT Publicador do Site` scans **approved v2 records**, not merely `data/pending/`.
 
-### Causal flow
+For every approved ID that is not already public, it must:
 
-````text
-```flow
-Energy shock → inflation expectations → long yields → credit conditions → activity
-```
-````
+1. load the v2 approval;
+2. load the matching pending sidecar;
+3. verify `pending_blob_sha` against the current pending file;
+4. verify `source_blob_shas.en` and `source_blob_shas.pt-BR` against the current staged Markdown files;
+5. verify `taxonomy_check:"passed"` and `translation_check:"passed"`;
+6. verify that the approval `publication` snapshot matches the approved ID and controlled taxonomy;
+7. copy the approved staged English Markdown to `reports/YYYY/MM/<slug>/en.md`;
+8. copy the approved staged Portuguese Markdown to `reports/YYYY/MM/<slug>/pt-BR.md`;
+9. create `reports/YYYY/MM/<slug>/metadata.json` with `source_locale:"en"`, relative Markdown paths `en.md` and `pt-BR.md`, the approved taxonomy and localized metadata;
+10. use canonical URL `/reports/YYYY/MM/<slug>.html`;
+11. update `data/reports.json` only as a backward-compatible index, using the same canonical classification and URL;
+12. commit all publication changes atomically.
 
-### Mind map
+The publisher must never create public metadata pointing to `staging/`.
 
-````text
-```mindmap
-Global power
-- Financial system
-  - Dollar
-  - Treasuries
-- Industrial system
-  - Refining
-  - Manufacturing
-```
-````
+The publisher may leave staged files in place for auditability. They are not part of the public build. Cleanup is optional and must never be required for publication correctness.
 
-### Regional map
+## Deterministic scheduling
 
-````text
-```map
-title: Regional allocation of strategic capital
-North America | High | Capital markets and AI infrastructure
-Europe | Medium | Industrial assets and savings
-Middle East | Rising | Sovereign capital and energy
-Asia | Very high | Manufacturing and processing
-```
-````
+QA and publication are independent responsibilities but run on an ordered hourly cadence:
 
-### Dependency map / text diagram
+- QA runs first in the hour;
+- publisher runs later in the hour.
 
-Fenced `text`, `diagram` or `ascii` dependency diagrams may be used when they communicate structure more clearly than prose.
+This avoids the previous race where the publisher could inspect a pending report before QA and then wait multiple hours before checking again.
 
-## Responsive design rules
+The pipeline remains idempotent: a published ID is not republished, and an unchanged approval produces no new commit.
 
-- No component may force page-level horizontal overflow.
-- Tables may scroll within their own container.
-- Dependency maps, flows and mind maps must collapse safely on narrow screens.
-- Report metadata cards stack before narrow layouts become unreadable.
-- Typography, spacing and hierarchy must remain usable on mobile.
+## Validation gates
 
-## Search and language rules
+`npm run validate` runs both pipeline validation and public research validation.
 
-- English is the default locale at the root URL.
-- Portuguese pages live under `/pt-br/`.
-- Every public research item has both `en` and `pt-BR` Markdown sources.
-- `source_locale` is `en` for public bundles.
-- `hreflang`, `x-default`, canonical URLs, Open Graph, citation metadata and Schema.org language fields are generated automatically.
-- Markdown remains publicly accessible for auditability but is excluded from search indexing.
-- Future languages are added through configuration, not by redesigning the taxonomy.
+`scripts/validate-pipeline.mjs` blocks builds when, among other things:
 
-## Formats
+- an unpublished pending item does not use schema v2;
+- controlled taxonomy is invalid;
+- staged sources are missing;
+- approval SHAs do not match current staged sources;
+- approval does not contain the immutable publication snapshot;
+- a public bundle points to `staging/`;
+- a public bundle references Markdown outside the `reports/` public tree.
 
-Public research formats are HTML and Markdown only. Do not publish PDF, DOCX or XLSX as part of the website research pipeline.
+`scripts/validate-research.mjs` validates public bilingual bundles, taxonomy and Markdown structure.
+
+A deployment must not proceed if either validator fails.
+
+## Build flow
+
+1. `npm run validate:pipeline` validates publication state.
+2. `scripts/validate-research.mjs` validates canonical public bundles.
+3. `scripts/cloudflare-build.sh` copies only public assets and the canonical `reports/` tree.
+4. `scripts/render-site.mjs` generates HTML, localized pages, feeds and sitemap.
+5. output normalization and hardening scripts run.
+6. `scripts/validate-dist.mjs` validates the rendered site.
+7. Cloudflare may deploy `dist/` only after the build completes successfully.
+
+## Legacy records
+
+Historical `schema_version:1` pending and approval records may remain in Git for auditability when their IDs are already published. They are not valid templates for new research.
+
+No new producer, QA or publisher action should create schema v1 records.
+
+## Language rules
+
+- English is the canonical source locale.
+- Brazilian Portuguese is required for every public research item.
+- Both editions must be semantically equivalent in facts, numbers, evidence status, taxonomy, confidence and analytical conclusion.
+- `hreflang`, canonical URLs, Open Graph, citation metadata and Schema.org metadata are generated by the renderer.
+
+## Public formats
+
+The website research pipeline publishes HTML and Markdown. PDF, DOCX and XLSX are not part of the normal web-publication path.
