@@ -22,6 +22,8 @@ node scripts/render-site.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs
+# Keep the homepage aligned with the same four canonical programs used by the taxonomy.
+node scripts/inject-program-home.mjs
 # Countries & Regions becomes a stable access axis without becoming a new editorial program.
 node scripts/inject-geography-nav.mjs
 node scripts/editorial-normalize.mjs
@@ -51,4 +53,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, frozen editorial taxonomy, controlled collection pages, taxonomy-ranked related research, geographic navigation, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled collection pages, taxonomy-ranked related research, geographic navigation, institutional copy reviewed, responsive output validated.'
