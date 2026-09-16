@@ -23,11 +23,13 @@ function normalizeBundle(root,file,raw){
     const markdownFile=path.join(dir,markdown);
     return {...value,markdown_url:publicPath(root,markdownFile)};
   };
-  const src=resolveLocale(source,locales[source]);
+  const locale_views={};
+  for(const [code,value] of Object.entries(locales))locale_views[code]=resolveLocale(code,value);
+  const src=locale_views[source];
   const translations={};
-  for(const [code,value] of Object.entries(locales))if(code!==source)translations[code]=resolveLocale(code,value);
+  for(const [code,value] of Object.entries(locale_views))if(code!==source)translations[code]=value;
   const url=raw.url||`/reports/${relDir}.html`;
-  return {...raw,...src,url,source_locale:source,translations,bundle_metadata:publicPath(root,file),_bundle:true};
+  return {...raw,...src,url,source_locale:source,locale_views,translations,bundle_metadata:publicPath(root,file),_bundle:true};
 }
 
 export function collectReports(root=process.cwd()){
@@ -44,6 +46,8 @@ export function collectReports(root=process.cwd()){
 }
 
 export function reportView(item,locale){
+  const canonical=item.locale_views?.[locale];
+  if(canonical?.markdown_url)return {...item,...canonical,locale,available:true};
   const source=item.source_locale||'pt-BR';
   if(locale===source)return {...item,locale,available:true};
   const tr=item.translations?.[locale];
@@ -52,7 +56,8 @@ export function reportView(item,locale){
 }
 
 export function availableLocales(item){
-  const out=new Set([item.source_locale||'pt-BR']);
+  const out=new Set(Object.keys(item.locale_views||{}));
+  out.add(item.source_locale||'pt-BR');
   for(const [code,v] of Object.entries(item.translations||{}))if(v?.markdown_url)out.add(code);
   return [...out];
 }
