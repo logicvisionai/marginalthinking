@@ -52,6 +52,13 @@ for(const file of pendingFiles){
   if(p.program==='strategic-transitions')for(const d of ['economy','politics','society'])if(!(p.dimensions||[]).includes(d))fail.push(`${file}: Strategic Transitions exige ${d}`);
   if(!Array.isArray(p.related_programs))fail.push(`${file}: related_programs deve ser array`);else for(const rp of p.related_programs)if(!taxonomy.programs?.[rp]||rp===p.program)fail.push(`${file}: related_program inválido (${rp})`);
   if(!Array.isArray(p.topics)||p.topics.length<2)fail.push(`${file}: topics deve ter ao menos dois itens`);else for(const t of p.topics)if(!taxonomy.topics?.[t])fail.push(`${file}: topic inválido (${t})`);
+  if(p.phenomena!==undefined){
+    if(!Array.isArray(p.phenomena))fail.push(`${file}: phenomena deve ser array quando presente`);
+    else{
+      if(new Set(p.phenomena).size!==p.phenomena.length)fail.push(`${file}: phenomena contém duplicação`);
+      for(const ph of p.phenomena)if(!taxonomy.phenomena?.[ph])fail.push(`${file}: phenomenon inválido (${ph})`);
+    }
+  }
   const g=p.geography||{};
   if(!taxonomy.geography_levels?.includes(g.level))fail.push(`${file}: geography.level inválido (${g.level||'ausente'})`);
   for(const r of g.regions||[])if(!taxonomy.regions?.[r])fail.push(`${file}: região inválida (${r})`);
