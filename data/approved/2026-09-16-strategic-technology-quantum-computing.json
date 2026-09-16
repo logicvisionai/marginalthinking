@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "id": "MT-TECH-2026-09-16-quantum-computing",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-16T10:54:51-03:00",
+  "reviewed_commit": "165e624f762c469898dbed0e3da7eee3cf4024f7",
+  "markdown_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.md",
+  "html_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.html",
+  "markdown_blob_sha": "94ca7ea3cff122b8004232ca05a21b564d8f843b",
+  "html_blob_sha": "5e108941490ad69900c2e1d85c0e493f32013464",
+  "translation_blob_shas": {
+    "pt-BR_markdown": "94ca7ea3cff122b8004232ca05a21b564d8f843b",
+    "pt-BR_html": "5e108941490ad69900c2e1d85c0e493f32013464",
+    "en_markdown": "a538605fbf2f8f8ec0ff52fa0fec045bae0ac126",
+    "en_html": "dbf9dc9be54e528df1a3ce5ce4f245caff96eb1a"
+  },
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "numbers_sources": "passed — central technical claims were checked against Nature, NIST, GAO, DARPA, DOE and clearly identified IBM vendor material",
+    "temporality": "passed — reference dates and the September 16, 2026 information cutoff are coherent; roadmaps and targets are identified as future claims rather than delivered capability",
+    "methodology": "passed — claimed, demonstrated, deployed and scaled states are separated; physical qubit counts and vendor roadmaps are not treated as proxies for economic utility",
+    "technology_maturity": "passed — experimental/pre-industrial assessment is consistent with public evidence; cloud/research deployment is distinguished from fault-tolerant industrial scale",
+    "language": "passed — PT-BR reads naturally and EN is idiomatic; thesis, figures, confidence and horizons are semantically equivalent",
+    "translations": "passed — four required files exist and reciprocal language links/canonical URLs are present",
+    "links": "passed for the four repository artifacts and principal source destinations checked",
+    "coherence": "passed — conclusions remain within the strength of the evidence and include explicit limitations, contrary evidence and observable indicators"
+  },
+  "contrary_evidence": [
+    "The Nature result demonstrates below-threshold error correction but also states that orders of magnitude remain between current logical error rates and practical large-scale requirements.",
+    "DARPA QBI remains a verification program rather than evidence that utility-scale operation has already been achieved.",
+    "Classical algorithms, accelerators and error-correction overhead may narrow or delay the economic domain of quantum computing even if hardware improves."
+  ],
+  "limitations": [
+    "Cross-architecture comparison remains weak because superconducting, ion, neutral-atom, photonic and other platforms have materially different error and control structures.",
+    "IBM Nighthawk, investment and roadmap figures are vendor-reported and are correctly treated as such rather than independent validation.",
+    "Confidence beyond five years is necessarily lower because architecture, manufacturing cost, error-correction overhead and classical-computing progress remain uncertain."
+  ],
+  "notes": "Approved as a strategic-technology assessment. NIST confirms three finalized PQC standards are ready for implementation and documents HAWK's July 2026 withdrawal after a vulnerability; Nature confirms the 101-qubit distance-7 surface-code result at 0.143% logical error per cycle and the remaining scale gap; GAO confirms roughly $200 million/year in U.S. federal quantum-computing activity and a possible 10–20 year CRQC horizon; DARPA confirms 11 Stage-B organizations and two related US2QC performers at Stage C; DOE's 2028 Quantum Genesis statement is correctly framed as a program target; IBM claims are explicitly labeled vendor roadmap/results. No material factual, maturity, translation or editorial blocker identified."
+}
