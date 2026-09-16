@@ -21,6 +21,7 @@ node scripts/render-site.mjs
 node scripts/editorial-normalize.mjs
 node scripts/editorial-normalize-en.mjs
 node scripts/editorial-final-cleanup.mjs
+node scripts/style-evidence-labels.mjs
 node scripts/harden-output.mjs
 node scripts/validate-dist.mjs
 
@@ -42,4 +43,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, institutional copy reviewed, editorial language normalized, hardened responsive layout, validated static output.'
+echo 'Cloudflare build ready: bilingual research, institutional copy reviewed, editorial language normalized, evidence metadata styled, hardened responsive layout, validated static output.'
