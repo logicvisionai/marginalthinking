@@ -1,0 +1,56 @@
+{
+  "id": "MT-TECH-2026-09-16-quantum-computing",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T10:54:01-03:00",
+  "kind": "monthly-strategic-technology",
+  "priority": 35,
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": ["global-system-power", "political-economy-markets"],
+  "dimensions": ["economy", "politics", "society"],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": ["technology-innovation", "industry-production", "infrastructure-logistics", "institutions-governance", "geopolitics-security", "demography-labor"],
+  "format": "assessment",
+  "cadence": "monthly",
+  "url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-16T10:54:51-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "165e624f762c469898dbed0e3da7eee3cf4024f7",
+  "technology_maturity": "experimental-pre-industrial",
+  "assessment_confidence": "high-current-medium-3to5y",
+  "key_constraints": ["logical error and error-correction overhead", "real-time control and decoding", "manufacturing and yield", "modularity and interconnection", "total cost versus classical methods"],
+  "legacy_urls": {
+    "en": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-en.html",
+    "pt-BR": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-pt-br.html"
+  },
+  "locales": {
+    "en": {
+      "markdown": "../2026-09-16-strategic-technology-quantum-computing-en.md",
+      "title": "Quantum Computing in 2026: Real Progress, Economic Utility Still Under Validation",
+      "deck": "Error correction has advanced and post-quantum migration is already driving concrete decisions, but a fault-tolerant machine with independently verified economic utility has not yet been demonstrated.",
+      "tags": ["Technology", "Quantum Computing", "PQC", "Security", "Infrastructure"],
+      "keywords": ["quantum computing", "quantum error correction", "fault tolerance", "post-quantum cryptography", "PQC", "DARPA QBI", "NIST", "IBM", "DOE"],
+      "regime": "Measurable scientific and engineering progress without demonstrated fault-tolerant economic utility at industrial scale",
+      "key_risk": "Vendor roadmaps and isolated technical metrics may be mistaken for independently demonstrated economic utility.",
+      "watch": ["logical error per cycle", "reliable logical operations", "DARPA QBI", "PQC migration", "modularity", "total system cost", "roadmap revisions"],
+      "search_text": "quantum computing PQC post quantum cryptography error correction fault tolerance DARPA QBI NIST Google Willow IBM Nighthawk DOE Quantum Genesis production industry security institutions labor"
+    },
+    "pt-BR": {
+      "markdown": "../2026-09-16-strategic-technology-quantum-computing-pt-br.md",
+      "title": "Computação quântica em 2026: progresso real, utilidade econômica ainda em validação",
+      "deck": "A correção de erros avançou e a migração pós-quântica já gera decisões concretas, mas uma máquina tolerante a falhas com utilidade econômica independente e verificada ainda não foi demonstrada.",
+      "tags": ["Tecnologia", "Computação quântica", "PQC", "Segurança", "Infraestrutura"],
+      "keywords": ["computação quântica", "correção de erros", "tolerância a falhas", "criptografia pós-quântica", "PQC", "DARPA QBI", "NIST", "IBM", "DOE"],
+      "regime": "Progresso científico e de engenharia mensurável sem utilidade econômica tolerante a falhas demonstrada em escala industrial",
+      "key_risk": "Roadmaps de fornecedores e métricas técnicas isoladas podem ser confundidos com utilidade econômica demonstrada de forma independente.",
+      "watch": ["erro lógico por ciclo", "operações lógicas confiáveis", "DARPA QBI", "migração PQC", "modularidade", "custo total do sistema", "alterações de roadmap"],
+      "search_text": "computação quântica quantum computing PQC criptografia pós-quântica correção de erros tolerância a falhas DARPA QBI NIST Google Willow IBM Nighthawk DOE Quantum Genesis produção indústria segurança instituições trabalho"
+    }
+  }
+}
