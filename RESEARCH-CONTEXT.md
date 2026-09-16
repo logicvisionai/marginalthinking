@@ -116,13 +116,15 @@ Before researching a topic, a producer should:
 4. verify current claims externally;
 5. perform the normal research, bilingual staging and v2 pending workflow.
 
-The producer must not update `research-context/` as part of its article publication transaction. Context maintenance is asynchronous and independent.
+The producer must not update `research-context/` as part of its article publication transaction. Context maintenance is asynchronous relative to research production and QA.
 
 If no context file exists, research proceeds normally. Missing context must never block publication.
 
-## 9. Maintenance task boundaries
+## 9. Maintenance phase boundaries
 
-The context-maintenance automation may create and update only `research-context/**`.
+Context maintenance may run as a dedicated automation or as an isolated best-effort phase after the publisher has completed a successful public commit. In the current scheduling model it is a separate post-publication Git transaction, not part of the publication transaction itself.
+
+The maintenance phase may create and update only `research-context/**`.
 
 It must not alter:
 
@@ -139,9 +141,11 @@ It must not alter:
 
 It may read canonical public research and external sources. It should prefer canonical published bundles over staged or pending material.
 
+A context failure must never roll back, mutate or invalidate a successful publication. A later maintenance pass may catch up.
+
 ## 10. Concurrency and Git
 
-Context maintenance is independent of publication and should run after the publisher in the scheduling cycle.
+Context work begins only after the relevant public publication commit is complete. It uses a separate commit containing only context changes.
 
 Before writing, re-read `main`. Prefer a single atomic commit containing only context changes. Never force-update `main`. If `main` advances during the operation, rebuild the context delta against the new HEAD.
 
