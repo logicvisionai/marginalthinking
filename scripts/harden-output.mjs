@@ -4,7 +4,7 @@ import path from 'node:path';
 const root=path.join(process.cwd(),'dist');
 if(!fs.existsSync(root)){console.error('FAIL dist ausente para hardening');process.exit(1);}
 const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>{const p=path.join(dir,e.name);return e.isDirectory()?walk(p):[p];});
-const styles=['/assets/css/language-switch.css','/assets/css/layout-guardrails.css','/assets/css/mobile-nav-fix.css','/assets/css/institutional-premium.css'];
+const styles=['/assets/css/language-switch.css','/assets/css/layout-guardrails.css','/assets/css/mobile-nav-fix.css','/assets/css/institutional-premium.css','/assets/css/theme.css'];
 
 function injectStyles(html){
   let out=html;
