@@ -1,23 +1,41 @@
 # Institutional editorial standard
 
-This file applies specifically to the public institutional pages of Marginal Thinking in English and Brazilian Portuguese: home, Method, About, archive descriptions, author descriptions and other recurring interface copy.
+This file applies to the public institutional pages of Marginal Thinking in English and Brazilian Portuguese: home, Research, Countries & Regions, Method, About, archive descriptions, author descriptions and recurring interface copy. It is subordinate to the structural rules in [`EDITORIAL-ARCHITECTURE.md`](./EDITORIAL-ARCHITECTURE.md) and [`data/taxonomy.json`](./data/taxonomy.json).
 
 ## Core positioning
 
-Marginal Thinking studies **how capital, resources, productive capacity and power are distributed, how they shift, and what economic, political and strategic consequences emerge from those movements**.
+Marginal Thinking studies **economic systems, political institutions and social change as connected processes**. It examines how capital, production, resources, technology, institutions and social conditions are distributed, how they change, and how those changes affect markets, states and societies.
 
-In Brazilian Portuguese, the equivalent institutional formulation is:
+The short institutional identity is:
 
-> Entender como poder, capital, recursos e capacidade produtiva estão distribuídos, como estão se deslocando e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.
+> **Economics · Politics · Society**
 
-This idea does not need to be repeated verbatim on every page. It is the organizing principle for institutional copy and research framing. Public text should normally make at least one of these relationships explicit:
+In Brazilian Portuguese:
 
-1. **distribution** — where capital, resources, assets, production or capabilities are concentrated;
-2. **movement** — how ownership, financing, trade, investment, production or access is changing;
-3. **capacity and constraint** — what states, firms and institutions can or cannot do with the resources available to them;
-4. **consequence** — how those changes transmit into markets, macroeconomics, political choices or strategic outcomes.
+> **Economia · Política · Sociedade**
 
-When `power` is used, identify the capability or constraint behind it whenever possible: financing, fiscal room, industrial output, infrastructure, energy and resource access, technology, logistics, institutions, alliances or military capacity. Do not use power as a free-floating abstraction.
+These are analytical dimensions, not three editorial silos. Public copy should not imply that economics can be separated cleanly from institutions or that political change can be evaluated without its economic and social mechanisms when those links are material.
+
+The organizing research questions are:
+
+1. **distribution** — where capital, resources, production, institutions, capabilities or social conditions are concentrated;
+2. **change** — what is materially changing and over what horizon;
+3. **agency and constraint** — which states, firms, institutions, groups or households can act, and what limits them;
+4. **transmission** — through which economic, political or social mechanism a change produces consequences;
+5. **revision** — which evidence would weaken or overturn the assessment.
+
+When `power` is used, identify the capability or constraint behind it whenever possible: financing, fiscal room, productive capacity, infrastructure, energy/resource access, technology, logistics, institutions, alliances or military capability. Do not use power as a free-floating abstraction.
+
+## Permanent research programs
+
+Institutional copy may refer to exactly four permanent research programs:
+
+1. **Global System & Power** — distribution and change in capital, resources, productive capacity, infrastructure and state capabilities across the international system;
+2. **Political Economy & Markets** — transmission between macroeconomics, public policy, institutions, firms, households and markets;
+3. **Strategic Transitions** — consequential national and regional transformations receiving less attention than their economic, political or social significance warrants;
+4. **Technology, Production & Society** — movement from demonstrated technical capability through deployment and scale into production, labor, institutions, security and society.
+
+Do not create a new program in institutional copy for a country, region, asset class, commodity, technology, data product or publication series. Geography and topics are navigation/retrieval axes, not additional programs.
 
 ## Core rule
 
@@ -51,22 +69,24 @@ Do not use phrases that merely signal sophistication without adding information.
 - `control of bottlenecks` / `controle de gargalos` when the relevant asset, process or capacity can be named;
 - `stocks show where the system is` / `estoques mostram onde o sistema está`;
 - `structure and conjuncture` / `estrutura e conjuntura` as an unexplained pair;
-- `forces that redistribute wealth and power` / `forças que redistribuem riqueza e poder` without identifying the economic or political mechanism;
+- `forces that redistribute wealth and power` / `forças que redistribuem riqueza e poder` without identifying the mechanism;
 - `headline speed` / `velocidade da manchete` as a claim of editorial superiority;
 - `flattening complexity` / `achatar a complexidade`;
-- generic claims that the publication is rigorous, disciplined, deep, independent or sophisticated unless the surrounding text explains the actual practice that supports the claim.
+- generic claims that the publication is rigorous, disciplined, deep, independent or sophisticated unless the surrounding text explains the practice supporting the claim.
 
 ## Method pages
 
-A method page should state observable procedures. Good subjects include:
+A Method page should state observable procedures. Good subjects include:
 
 - how a research question is defined;
 - which source is preferred for which type of claim;
 - how repeated reporting is traced to an original source;
-- how facts, interpretation and scenarios are separated;
-- how stocks, flows and valuation are distinguished;
+- how facts, interpretation, scenarios and preliminary signals are separated;
+- how stocks, flows, valuation and changes in ownership/control are distinguished;
+- how economic, political and social mechanisms are connected;
 - how uncertainty and confidence are used;
-- how revisions and corrections are handled.
+- how revisions and corrections are handled;
+- how controlled taxonomy prevents new ad-hoc editorial silos.
 
 Avoid philosophical-sounding statements about thinking itself unless they define a concrete research procedure.
 
@@ -75,41 +95,52 @@ Avoid philosophical-sounding statements about thinking itself unless they define
 The About page should answer plainly:
 
 1. What does Marginal Thinking study?
-2. Why are macroeconomics, markets, political economy and geopolitics analyzed together?
-3. Which stocks, flows, resources and productive capabilities are tracked?
-4. Why is it called Marginal Thinking?
-5. What does `power` mean in operational terms?
-6. What does an assessment mean here?
-7. Who is the research written for?
-8. Why is the archive retained?
+2. Why are economics, politics and society treated as connected dimensions?
+3. What are the four permanent research programs?
+4. Which stocks, flows, resources, institutions and productive capabilities are tracked?
+5. Why is it called Marginal Thinking?
+6. What does `power` mean in operational terms?
+7. What does an assessment mean here?
+8. Who is the research written for?
+9. Why is the archive retained?
 
 Do not use mission-language that could describe almost any think tank or consultancy.
 
+## Strategic Transitions
+
+Institutional copy about `Strategic Transitions` must not define the program as research on poor, obscure, exotic, frontier or developing countries. The selection criterion is consequential change outside proportional attention.
+
+The internal formulation is `relevance × change × underattention × transmission`. It is a research-selection test, not a country score, investment ranking or political judgment.
+
+A country can be high-, middle- or low-income. The object of research is the transition and its mechanisms across economics, politics and society.
+
 ## English
 
-Write in native research English. Prefer ordinary institutional prose to consulting language. A sentence should still be clear if words such as `strategic`, `systemic`, `structural`, `framework`, `capacity`, `signal` and `power` are removed; if not, the sentence probably needs a more concrete subject and mechanism.
+Write in native research English. Prefer ordinary institutional prose to consulting language. A sentence should remain informative after removing words such as `strategic`, `systemic`, `structural`, `framework`, `capacity`, `signal` and `power`; if not, it likely needs a more concrete subject and mechanism.
 
-The institutional thesis should read naturally in English rather than as a literal translation from Portuguese. Preferred formulation:
+Preferred institutional formulation:
 
-> Marginal Thinking examines how capital, resources, productive capacity and power are distributed, how they are shifting, and what economic, political and strategic consequences emerge from those movements.
+> Marginal Thinking examines how economic systems, political institutions and social change interact through capital, production, resources, technology and power — and how changes at the margins can reshape markets, states and societies.
 
 ## Português brasileiro
 
-Escreva como texto institucional originalmente redigido em português. Evite tradução literal do inglês e combinações abstratas de substantivos. Sempre que termos como `poder`, `capacidade`, `fluxo`, `estrutura`, `risco`, `valor` ou `incerteza` forem importantes para a frase, deixe claro a que medida, decisão, recurso ou relação eles se referem.
+Escreva como texto institucional originalmente redigido em português. Evite tradução literal do inglês e combinações abstratas de substantivos. Sempre que termos como `poder`, `capacidade`, `fluxo`, `estrutura`, `risco`, `valor` ou `incerteza` forem importantes, deixe claro a que medida, decisão, recurso ou relação eles se referem.
 
-A tese institucional preferencial é:
+Formulação institucional preferencial:
 
-> A Marginal Thinking busca entender como poder, capital, recursos e capacidade produtiva estão distribuídos, como estão se deslocando e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.
+> A Marginal Thinking analisa como sistemas econômicos, instituições políticas e mudanças sociais interagem por meio de capital, produção, recursos, tecnologia e poder — e como transformações nas margens podem modificar mercados, Estados e sociedades.
 
 ## Final test
 
 Before publication, ask of every institutional paragraph:
 
 - Does it state something specific about Marginal Thinking?
-- Does it help explain distribution, movement, capacity, constraint or consequence?
-- Could the same paragraph be pasted onto the website of an unrelated consultancy without changing much?
+- Does it connect economics, politics and society when the mechanism requires it?
+- Does it explain distribution, change, agency/constraint, transmission or revision?
+- Could the same paragraph be pasted onto an unrelated consultancy website without changing much?
 - Is the main verb concrete?
 - Does the sentence explain a practice or merely claim a virtue?
+- Does it accidentally create a new editorial program or silo?
 - Is there a shorter, more direct formulation with the same meaning?
 
 If the paragraph could belong to almost any institution, rewrite it.
