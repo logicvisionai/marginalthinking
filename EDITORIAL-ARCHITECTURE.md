@@ -6,7 +6,7 @@
 
 This document is the normative editorial architecture for Marginal Thinking. It exists to prevent the publication from becoming a collection of unrelated verticals, country pages, market themes and product names.
 
-The machine-readable counterpart is [`data/taxonomy.json`](./data/taxonomy.json). When prose and taxonomy conflict, both must be reconciled before new research is published. Automations may use the existing taxonomy but may not create a new research program, controlled series, series domain, dimension, region, topic family or publication format on their own.
+The machine-readable counterpart is [`data/taxonomy.json`](./data/taxonomy.json). When prose and taxonomy conflict, both must be reconciled before new research is published. Automations may use the existing taxonomy but may not create a new research program, controlled series, series domain, cross-cutting lens, controlled phenomenon, dimension, region, topic family or publication format on their own.
 
 ## 1. Core identity
 
@@ -104,6 +104,40 @@ Free-form `tags` and `keywords` may still be used for search and article-specifi
 
 An automation must never create a new controlled topic because a report contains an unfamiliar concept. It must use the nearest valid topic and preserve the specific term as a tag or keyword. A new controlled topic requires an explicit human editorial change to `data/taxonomy.json`.
 
+### 4.1 Cross-cutting lens: Conflict, Security & Social Change
+
+`conflict-security-social-change` is a controlled cross-cutting lens. It is **not a fifth research program**, not a top-level navigation section and not a standalone news vertical.
+
+Its purpose is to make war, armed conflict, strategic competition, defense and security, sanctions, political stability, civil unrest, migration, demographic transition, institutional change and broader social change analytically visible when they materially affect capital, production, markets, institutions, state capacity or the distribution of power.
+
+The implementation uses a controlled `phenomena` metadata axis. Topics and phenomena are distinct:
+
+- `topics` describe the mechanisms or subject matter being studied;
+- `phenomena` describe the condition, transition or form of contestation being observed.
+
+A report may contain zero or more controlled phenomena. New or materially revised research should include a `phenomena` array, which may be empty when no controlled phenomenon is materially relevant. Producers may not invent new phenomenon identifiers.
+
+The controlled phenomena are:
+
+- `war-armed-conflict`;
+- `strategic-competition`;
+- `defense-security`;
+- `sanctions-economic-coercion`;
+- `political-stability`;
+- `civil-unrest`;
+- `migration-displacement`;
+- `demographic-transition`;
+- `institutional-change`;
+- `social-change`.
+
+A conflict or social-change study should not stop at event description. When the evidence supports it, trace the mechanism through:
+
+**conflict or social change → capability/restriction → fiscal, industrial, logistical or institutional response → trade, capital and market effects → household, labor, demographic or political effects → change in the distribution of power**
+
+For war and security analysis, distinguish intentions and attributed claims from demonstrated capability, deployment, operations and verified effects. For social change, identify the observable mechanism connecting demographic, labor, migration, institutional or social evidence to the report's economic or political thesis.
+
+Detailed evidence rules and the QA test are defined in [`CONFLICT-SECURITY-SOCIAL-CHANGE.md`](./CONFLICT-SECURITY-SOCIAL-CHANGE.md).
+
 ## 5. Publication format and series are separate from subject
 
 The controlled publication formats are:
@@ -149,7 +183,7 @@ Canonical collection routes are reserved as follows:
 /pt-br/topics/<topic>/
 ```
 
-A controlled series may expose domain collections below its landing page, but those domains do not become primary navigation items. Publication format and cadence should normally be filters in the research archive rather than separate top-level navigation sections.
+A controlled series may expose domain collections below its landing page, but those domains do not become primary navigation items. Cross-cutting phenomena do not create new top-level routes in version 1.0; they may support search, filters, related-research logic and future analytical indexes. Publication format and cadence should normally be filters in the research archive rather than separate top-level navigation sections.
 
 ## 7. Navigation discipline
 
@@ -162,7 +196,7 @@ The primary navigation must remain small. Version 1.0 allows:
 
 The logo is the Home link. `Data` remains contextual until Marginal Thinking maintains enough first-party datasets to justify a permanent top-level destination.
 
-Programs appear inside Research and on the home page; they do not each become a top-level navigation item. Controlled series may be featured contextually on the home page or inside their parent program, but they do not expand the global navigation.
+Programs appear inside Research and on the home page; they do not each become a top-level navigation item. Controlled series may be featured contextually on the home page or inside their parent program, but they do not expand the global navigation. Cross-cutting lenses and phenomena remain metadata-driven and do not expand global navigation.
 
 ## 8. Required metadata contract
 
@@ -181,6 +215,7 @@ Every canonical publication bundle must declare:
     "countries": []
   },
   "topics": ["macroeconomics", "capital-markets"],
+  "phenomena": [],
   "format": "brief",
   "cadence": "daily"
 }
@@ -192,6 +227,7 @@ Rules:
 - zero or more distinct `related_programs` from the same controlled list;
 - at least one analytical `dimension`;
 - at least two controlled topics for substantive research;
+- `phenomena`, when present, contains only controlled values and no duplicates;
 - controlled geography values only;
 - `Strategic Transitions` requires all three dimensions: economy, politics and society;
 - a `country-dossier` requires `geography.level = country` and at least one country;
@@ -220,13 +256,15 @@ This is a research-selection framework, not an investment score or public countr
 
 The program should look for combinations such as fiscal repair, institutional change, market deepening, industrial transformation, FDI acceleration, infrastructure build-out, demographic shifts, trade-corridor changes, resource development or changes in market accessibility. Financial opportunity must always be analyzed together with liquidity, ownership, custody, regulation, political constraints and social consequences when material.
 
+Conflict, security or social-change phenomena may be decisive parts of a Strategic Transition, but they do not replace the transition test. A war, protest wave, migration shock or institutional crisis belongs in Strategic Transitions only when the research can demonstrate a consequential transformation and its economic, political and social transmission.
+
 ## 10. Economy–Politics–Society connection rule
 
 The three dimensions must remain visible in the architecture even when an individual brief is dominated by one or two of them.
 
 Deep research (`assessment`, `research-report` and `country-dossier`) should normally connect at least two dimensions. Strategic Transitions connects all three by definition.
 
-A causal claim should state the mechanism. For example, a fiscal reform is not only a fiscal topic if it changes coalition incentives, household income, labor conditions, investment or political room for action.
+A causal claim should state the mechanism. For example, a fiscal reform is not only a fiscal topic if it changes coalition incentives, household income, labor conditions, investment or political room for action. Likewise, a war is not only a geopolitical topic if it alters fiscal capacity, industrial output, logistics, trade, migration, household conditions or institutional behavior.
 
 ## 11. Relationships between content
 
@@ -236,8 +274,9 @@ Related research should be determined in this order when the data are available:
 2. same primary program;
 3. shared country or region;
 4. shared controlled topics;
-5. related program;
-6. free-form tags as a final search aid.
+5. shared controlled phenomena when materially relevant;
+6. related program;
+7. free-form tags as a final search aid.
 
 This prevents a loose tag from becoming more important than the publication’s actual research architecture.
 
@@ -245,15 +284,15 @@ This prevents a loose tag from becoming more important than the publication’s 
 
 English remains the source locale and default public language. Brazilian Portuguese is the required official secondary edition.
 
-Taxonomy identifiers are language-neutral slugs. Display labels are localized. Translation may adapt syntax and terminology but must not alter program, series, series domain, dimensions, geography, topics, format, cadence, evidence status, numbers or analytical conclusion.
+Taxonomy identifiers are language-neutral slugs. Display labels are localized. Translation may adapt syntax and terminology but must not alter program, series, series domain, dimensions, geography, topics, phenomena, format, cadence, evidence status, numbers or analytical conclusion.
 
 ## 13. Automation governance
 
-Automated producers, QA and publishers must read this document and `data/taxonomy.json` before writing or approving public research. Producers working on Energy, Materials & Industrial Systems must also read `ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`.
+Automated producers, QA and publishers must read this document and `data/taxonomy.json` before writing or approving public research. Producers working on Energy, Materials & Industrial Systems must also read `ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`. Research materially involving conflict, security or social change must follow `CONFLICT-SECURITY-SOCIAL-CHANGE.md`.
 
 Automations may:
 
-- assign existing programs, controlled series and series domains, dimensions, regions, topics, formats and cadence;
+- assign existing programs, controlled series and series domains, dimensions, regions, topics, controlled phenomena, formats and cadence;
 - use free-form tags and keywords for specific entities;
 - propose an unmatched concept in QA notes.
 
@@ -261,9 +300,10 @@ Automations may not:
 
 - create a fifth research program;
 - create a new controlled series or series domain;
-- turn a country, asset class, technology, fuel, material or commodity into a new top-level editorial vertical;
+- create a new cross-cutting lens or controlled phenomenon;
+- turn a country, asset class, technology, fuel, material, commodity, war or social phenomenon into a new top-level editorial vertical;
 - add a new controlled topic, region or format silently;
-- rename a permanent program or controlled series;
+- rename a permanent program, controlled series or cross-cutting lens;
 - create a public country ranking or investment league table as a substitute for analysis;
 - rewrite global navigation or institutional architecture during routine publication.
 
