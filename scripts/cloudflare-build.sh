@@ -22,6 +22,9 @@ node scripts/render-site.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs
+# Derive corpus-level intelligence from canonical metadata only. This adds no
+# publication burden to agents and never counts translations as separate research.
+node scripts/render-research-intelligence.mjs
 # Controlled product series remain subordinate to permanent programs and receive
 # their own collection pages without expanding the global navigation.
 node scripts/render-series-pages.mjs
@@ -57,4 +60,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, institutional copy reviewed, responsive output validated.'
