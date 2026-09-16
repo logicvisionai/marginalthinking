@@ -1,7 +1,33 @@
-/* Mobile navigation must remain viewport-bound even when opened after scrolling. */
+/* Mobile navigation must remain viewport-bound even when opened after scrolling.
+   Colors use the global theme tokens so the overlay follows light/dark mode. */
 .site-header{z-index:300!important}
 body.menu-open{overflow:visible!important}
 @media(max-width:860px){
-  .mobile-menu{position:fixed!important;z-index:250!important;top:var(--mobile-menu-top,68px)!important;bottom:0!important;left:0!important;right:0!important;width:100%!important;height:auto!important;max-height:none!important;overflow-y:auto!important;overflow-x:hidden!important;overscroll-behavior:contain!important;-webkit-overflow-scrolling:touch;background:#fff!important}
+  .mobile-menu{
+    position:fixed!important;
+    z-index:250!important;
+    top:var(--mobile-menu-top,68px)!important;
+    bottom:0!important;
+    left:0!important;
+    right:0!important;
+    width:100%!important;
+    height:auto!important;
+    max-height:none!important;
+    overflow-y:auto!important;
+    overflow-x:hidden!important;
+    overscroll-behavior:contain!important;
+    -webkit-overflow-scrolling:touch;
+    background:var(--paper)!important;
+    color:var(--ink)!important;
+    border-top-color:var(--line)!important
+  }
   .mobile-menu.open{display:block!important}
+  .mobile-menu-inner,
+  .mobile-menu nav{background:transparent!important;color:inherit!important}
+  .mobile-menu nav>a{
+    color:var(--ink)!important;
+    border-bottom-color:var(--line)!important
+  }
+  .mobile-menu nav>a:after{color:var(--muted)!important}
+  .mobile-menu .mobile-language{border-top-color:var(--line)!important}
 }
