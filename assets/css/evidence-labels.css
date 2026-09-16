@@ -35,7 +35,7 @@
   bottom:calc(100% + 8px);
   z-index:30;
   width:max-content;
-  max-width:min(300px,80vw);
+  max-width:min(300px,calc(100vw - 24px));
   padding:7px 9px;
   border:1px solid #d8dee1;
   border-radius:7px;
@@ -46,6 +46,7 @@
   letter-spacing:0;
   text-transform:none;
   white-space:normal;
+  overflow-wrap:anywhere;
   opacity:0;
   pointer-events:none;
   transform:translate(-50%,4px);
@@ -85,6 +86,32 @@
     margin-left:4px;
     padding:2px 4px;
     font-size:8.5px;
+  }
+
+  /* On narrow screens the hint is viewport-bound instead of badge-bound.
+     This prevents badges close to either edge from pushing the tooltip
+     outside the visible area. */
+  .report-content .evidence-badge::after{
+    position:fixed;
+    left:50%;
+    right:auto;
+    bottom:max(14px,env(safe-area-inset-bottom));
+    width:min(360px,calc(100vw - 24px));
+    max-width:none;
+    padding:10px 12px;
+    z-index:120;
+    font-size:11px;
+    line-height:1.45;
+    transform:translate(-50%,6px);
+  }
+
+  .report-content .evidence-badge:hover::after,
+  .report-content .evidence-badge:focus-visible::after{
+    transform:translate(-50%,0);
+  }
+
+  .report-content .evidence-badge::before{
+    display:none;
   }
 }
 
