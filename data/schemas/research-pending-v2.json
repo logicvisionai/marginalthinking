@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://marginalthinking.org/schemas/research-pending-v2.json",
+  "title": "Marginal Thinking Research Pending Sidecar v2",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema_version",
+    "ready",
+    "id",
+    "slug",
+    "date",
+    "published_at",
+    "kind",
+    "priority",
+    "source_locale",
+    "sources",
+    "taxonomy_version",
+    "program",
+    "related_programs",
+    "dimensions",
+    "geography",
+    "topics",
+    "format",
+    "cadence"
+  ],
+  "properties": {
+    "schema_version": {"const": 2},
+    "ready": {"const": true},
+    "id": {"type": "string", "minLength": 3},
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "date": {"type": "string", "format": "date"},
+    "published_at": {"type": "string"},
+    "kind": {"type": "string", "minLength": 1},
+    "priority": {"type": "integer"},
+    "source_locale": {"const": "en"},
+    "taxonomy_version": {"const": "1.0"},
+    "program": {
+      "enum": [
+        "global-system-power",
+        "political-economy-markets",
+        "strategic-transitions",
+        "technology-production-society"
+      ]
+    },
+    "related_programs": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "global-system-power",
+          "political-economy-markets",
+          "strategic-transitions",
+          "technology-production-society"
+        ]
+      }
+    },
+    "dimensions": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {"enum": ["economy", "politics", "society"]}
+    },
+    "geography": {
+      "type": "object",
+      "required": ["level", "regions", "subregions", "countries"],
+      "properties": {
+        "level": {"enum": ["global", "region", "country", "multi-country"]},
+        "regions": {"type": "array", "items": {"type": "string"}},
+        "subregions": {"type": "array", "items": {"type": "string"}},
+        "countries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["code", "slug"],
+            "properties": {
+              "code": {"type": "string", "pattern": "^[A-Z]{2}$"},
+              "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"}
+            }
+          }
+        }
+      }
+    },
+    "topics": {"type": "array", "minItems": 2, "uniqueItems": true, "items": {"type": "string"}},
+    "format": {"enum": ["brief", "assessment", "research-report", "country-dossier", "monitor", "data-note"]},
+    "cadence": {"enum": ["event-driven", "daily", "weekly", "monthly", "quarterly", "annual"]},
+    "sources": {
+      "type": "object",
+      "required": ["en", "pt-BR"],
+      "properties": {
+        "en": {"$ref": "#/$defs/source"},
+        "pt-BR": {"$ref": "#/$defs/source"}
+      }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["markdown", "title", "deck", "tags", "keywords"],
+      "properties": {
+        "markdown": {"type": "string", "pattern": "^staging/research/.+\\.md$"},
+        "title": {"type": "string", "minLength": 1},
+        "deck": {"type": "string", "minLength": 1},
+        "tags": {"type": "array", "items": {"type": "string"}},
+        "keywords": {"type": "array", "items": {"type": "string"}},
+        "regime": {"type": "string"},
+        "key_risk": {"type": "string"},
+        "watch": {"type": "array", "items": {"type": "string"}},
+        "search_text": {"type": "string"}
+      }
+    }
+  }
+}
