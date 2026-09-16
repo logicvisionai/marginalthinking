@@ -1,0 +1,50 @@
+{
+  "id": "MT-ST-2026-09-16-kazakhstan-corridor",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T12:19:27-03:00",
+  "kind": "strategic-transition",
+  "priority": 35,
+  "taxonomy_version": "1.0",
+  "program": "strategic-transitions",
+  "related_programs": ["global-system-power", "political-economy-markets"],
+  "dimensions": ["economy", "politics", "society"],
+  "geography": {
+    "level": "country",
+    "regions": ["central-asia-caucasus"],
+    "subregions": ["central-asia"],
+    "countries": [{"code": "KZ", "slug": "kazakhstan"}]
+  },
+  "topics": ["trade-investment", "infrastructure-logistics", "energy", "commodities-resources", "industry-production", "institutions-governance", "demography-labor", "capital-markets"],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "url": "/reports/2026/09/2026-09-16-strategic-transition-kazakhstan-eurasian-infrastructure.html",
+  "qa_reviewed_at": "2026-09-16T12:35:29-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61",
+  "selection_rationale": "Material financed rail and power investment is converging with market and utility reforms and new Korean agreements in nuclear energy, oil, critical minerals and technology. The transition is less covered than its potential effect on Eurasian trade, resource processing and private-capital mobilisation, and the transmission mechanisms run through transport costs, electricity capacity, investment conditions and household real incomes.",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Kazakhstan's transition from commodity corridor to investable Eurasian infrastructure platform",
+      "deck": "Financed rail expansion, power reform and new Asian resource partnerships are beginning to connect Kazakhstan's commodity base to logistics, processing and private capital.",
+      "tags": ["Kazakhstan", "Middle Corridor", "KTZ", "critical minerals", "renewable energy"],
+      "keywords": ["Kazakhstan", "Trans-Caspian", "Middle Corridor", "rail", "FDI", "uranium", "critical minerals", "QaJET", "South Korea"],
+      "regime": "Infrastructure-led diversification under persistent inflation and a large state footprint",
+      "key_risk": "Private capital may lag public infrastructure if inflation, quasi-fiscal activity or investor-state disputes remain elevated.",
+      "watch": ["Middle Corridor freight and transit times", "KTZ financing and tariffs", "Aktau capacity", "non-oil FDI", "QaJET commitments", "real wages and inflation", "investor-state disputes"],
+      "search_text": "Kazakhstan strategic transition Middle Corridor rail logistics energy critical minerals Korea investment reform wages 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "A transição do Cazaquistão de corredor de commodities para plataforma eurasiática de infraestrutura e investimento",
+      "deck": "Expansão ferroviária financiada, reforma elétrica e novas parcerias asiáticas em recursos começam a conectar a base de commodities do Cazaquistão a logística, processamento e capital privado.",
+      "tags": ["Cazaquistão", "Corredor Médio", "KTZ", "minerais críticos", "energia renovável"],
+      "keywords": ["Cazaquistão", "Transcaspiano", "Corredor Médio", "ferrovia", "FDI", "urânio", "minerais críticos", "QaJET", "Coreia do Sul"],
+      "regime": "Diversificação liderada por infraestrutura sob inflação persistente e grande presença estatal",
+      "key_risk": "O capital privado pode ficar atrás da infraestrutura pública se inflação, atividade parafiscal ou disputas investidor-Estado permanecerem elevadas.",
+      "watch": ["carga e tempo no Corredor Médio", "financiamento e tarifas da KTZ", "capacidade de Aktau", "FDI não petrolífero", "compromissos QaJET", "salários reais e inflação", "disputas investidor-Estado"],
+      "search_text": "Cazaquistão transição estratégica Corredor Médio ferrovia logística energia minerais críticos Coreia investimento reforma salários 2026"
+    }
+  }
+}
