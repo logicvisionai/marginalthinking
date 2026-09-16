@@ -1,0 +1,81 @@
+{
+  "schema_version": 2,
+  "id": "MT-ST-2026-09-16-kazakhstan-corridor",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-16T12:35:29-03:00",
+  "reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61",
+  "pending_blob_sha": "bbb283a4c318cf8ad74f2c6a03ef58a201fe8005",
+  "source_blob_shas": {
+    "en": "345291e561235d0da52ee6f9ebca1ea0b72097d3",
+    "pt-BR": "8116800948e64a4b1d136ee9f3a4e712185bd627"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "pipeline": "passed: schema v2, ready marker, English source locale and both staged Markdown sources are present; approval is tied to exact pending and source blob SHAs",
+    "taxonomy": "passed: strategic-transitions is a controlled program; economy, politics and society are all declared and connected by mechanisms; geography, topics, assessment format and event-driven cadence are controlled values",
+    "facts": "passed for central claims: World Bank rail guarantee/financing, route length and targets; World Bank DPO; IMF overheating/state-footprint assessment; EBRD KTZ bond and QaJET targets; Kazakhstan Q2 2026 labour/wage statistics; September Korea-Kazakhstan agreements; Kashagan enforcement dispute",
+    "methodology": "passed: financed projects are distinguished from announced cooperation; scenarios and contrary evidence are explicit; market access constraints are discussed rather than converted into an investment recommendation",
+    "translation": "passed: EN and PT-BR preserve thesis, figures, evidence status, confidence, scenarios, limitations and sources",
+    "language": "passed with minor non-blocking terminology issues: PT-BR is generally idiomatic and causal mechanisms are explicit; a few terms such as gate, double-stack, Eurobond and FDI remain but are understandable in context",
+    "strategic_transitions": "passed: material change, underattention rationale, economic/political/social transmission, catalysts, reversal conditions, investability constraints and evidence that would weaken the thesis are all present"
+  },
+  "contrary_evidence": [
+    "The IMF states that Kazakhstan's state footprint remains large and constrains private-sector development.",
+    "Q2 2026 real wages were below their year-earlier level despite nominal wage growth.",
+    "The Kashagan/NCOC dispute remains a material example of legal and regulatory uncertainty for foreign resource investors.",
+    "Many September Korea-Central Asia cooperation documents are agreements or memoranda, not committed or deployed investment."
+  ],
+  "limitations": [
+    "Several infrastructure and energy outcomes are targets extending to 2030-2035 rather than measured results.",
+    "The September Korea-Kazakhstan agreements are too recent to establish realised investment, processing capacity or durable trade reorientation.",
+    "The title's term 'investable' is prospective; the body appropriately qualifies actual investability with liquidity, governance, state ownership, currency, sanctions-spillover and legal constraints.",
+    "Full execution confidence remains medium because private-capital mobilisation, tariff reform, corridor coordination and non-oil productivity gains are not yet demonstrated at scale."
+  ],
+  "notes": "Approved as a Strategic Transitions assessment. Central quantitative claims were corroborated against primary or high-quality sources, and the report consistently distinguishes financed infrastructure from announced cooperation. Approval covers only the exact pending and staged source blobs recorded here.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-ST-2026-09-16-kazakhstan-corridor",
+    "slug": "2026-09-16-strategic-transition-kazakhstan-eurasian-infrastructure",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-16-strategic-transition-kazakhstan-eurasian-infrastructure/en.md",
+        "title": "Kazakhstan's transition from commodity corridor to investable Eurasian infrastructure platform",
+        "deck": "Financed rail expansion, power reform and new Asian resource partnerships are beginning to connect Kazakhstan's commodity base to logistics, processing and private capital.",
+        "tags": ["Kazakhstan", "Middle Corridor", "KTZ", "critical minerals", "renewable energy"],
+        "keywords": ["Kazakhstan", "Trans-Caspian", "Middle Corridor", "rail", "FDI", "uranium", "critical minerals", "QaJET", "South Korea"],
+        "regime": "Infrastructure-led diversification under persistent inflation and a large state footprint",
+        "key_risk": "Private capital may lag public infrastructure if inflation, quasi-fiscal activity or investor-state disputes remain elevated.",
+        "watch": ["Middle Corridor freight and transit times", "KTZ financing and tariffs", "Aktau capacity", "non-oil FDI", "QaJET commitments", "real wages and inflation", "investor-state disputes"],
+        "search_text": "Kazakhstan strategic transition Middle Corridor rail logistics energy critical minerals Korea investment reform wages 2026"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-16-strategic-transition-kazakhstan-eurasian-infrastructure/pt-BR.md",
+        "title": "A transição do Cazaquistão de corredor de commodities para plataforma eurasiática de infraestrutura e investimento",
+        "deck": "Expansão ferroviária financiada, reforma elétrica e novas parcerias asiáticas em recursos começam a conectar a base de commodities do Cazaquistão a logística, processamento e capital privado.",
+        "tags": ["Cazaquistão", "Corredor Médio", "KTZ", "minerais críticos", "energia renovável"],
+        "keywords": ["Cazaquistão", "Transcaspiano", "Corredor Médio", "ferrovia", "FDI", "urânio", "minerais críticos", "QaJET", "Coreia do Sul"],
+        "regime": "Diversificação liderada por infraestrutura sob inflação persistente e grande presença estatal",
+        "key_risk": "O capital privado pode ficar atrás da infraestrutura pública se inflação, atividade parafiscal ou disputas investidor-Estado permanecerem elevadas.",
+        "watch": ["carga e tempo no Corredor Médio", "financiamento e tarifas da KTZ", "capacidade de Aktau", "FDI não petrolífero", "compromissos QaJET", "salários reais e inflação", "disputas investidor-Estado"],
+        "search_text": "Cazaquistão transição estratégica Corredor Médio ferrovia logística energia minerais críticos Coreia investimento reforma salários 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": ["global-system-power", "political-economy-markets"],
+    "dimensions": ["economy", "politics", "society"],
+    "geography": {"level": "country", "regions": ["central-asia-caucasus"], "subregions": ["central-asia"], "countries": [{"code": "KZ", "slug": "kazakhstan"}]},
+    "topics": ["trade-investment", "infrastructure-logistics", "energy", "commodities-resources", "industry-production", "institutions-governance", "demography-labor", "capital-markets"],
+    "format": "assessment",
+    "cadence": "event-driven",
+    "selection_rationale": "Material financed rail and power investment is converging with market and utility reforms and new Korean agreements in nuclear energy, oil, critical minerals and technology. The transition is less covered than its potential effect on Eurasian trade, resource processing and private-capital mobilisation, and the transmission mechanisms run through transport costs, electricity capacity, investment conditions and household real incomes."
+  }
+}
