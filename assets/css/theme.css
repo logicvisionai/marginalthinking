@@ -1,0 +1,166 @@
+/* Marginal Thinking theme layer. Loaded last by app.js so it can safely override
+   legacy/light-only declarations without duplicating every page template. */
+
+html[data-theme="dark"]{
+  color-scheme:dark;
+  --paper:#0a1015;
+  --paper-2:#101820;
+  --ink:#e8eef2;
+  --muted:#9aa9b2;
+  --navy:#050b10;
+  --navy-2:#0b1820;
+  --navy-3:#12303c;
+  --line:#26333b;
+  --line-dark:#42515a;
+  --white:#10171d;
+  --shadow:0 20px 52px rgba(0,0,0,.28);
+  --mt-editorial-rule:#334149;
+  --mt-editorial-rule-soft:#26333a;
+  --mt-editorial-ink:#e8eef2;
+  --mt-editorial-muted:#9aa9b2;
+}
+
+html[data-theme="dark"] body{background:var(--paper);color:var(--ink)}
+html[data-theme="dark"] .site-header{background:rgba(10,16,21,.95);border-bottom-color:var(--line)}
+html[data-theme="dark"] .nav a{color:#c9d4da}
+html[data-theme="dark"] .header-report{border-color:#43515a}
+html[data-theme="dark"] .header-report:hover{background:#e8eef2;color:#0a1015;border-color:#e8eef2}
+html[data-theme="dark"] .mobile-menu{background:#0d151b;border-top-color:var(--line);box-shadow:0 24px 40px rgba(0,0,0,.34)}
+html[data-theme="dark"] .menu-toggle span{background:var(--ink)}
+html[data-theme="dark"] .eyebrow.dark{color:#8aa7b4}
+html[data-theme="dark"] .page-hero{background:linear-gradient(180deg,#0d151b,var(--paper))}
+html[data-theme="dark"] .searchbar input,
+html[data-theme="dark"] .searchbar select,
+html[data-theme="dark"] .page-btn{background:#0f171d;color:var(--ink);border-color:var(--line)}
+html[data-theme="dark"] .page-btn.active{background:var(--ink);color:#0a1015;border-color:var(--ink)}
+html[data-theme="dark"] .chips span,
+html[data-theme="dark"] .tag{background:rgba(255,255,255,.035);color:#9fb0b9}
+html[data-theme="dark"] .method-copy p,
+html[data-theme="dark"] .method-copy li{color:#c8d2d8}
+html[data-theme="dark"] .page-hero + .section .method-copy p{color:#c8d2d8}
+html[data-theme="dark"] .page-hero + .section .method-nav a{color:#9baab2}
+html[data-theme="dark"] .report-hero{background:#0d151b}
+html[data-theme="dark"] .report-header .deck{color:#b6c4cb}
+html[data-theme="dark"] .report-byline a{color:var(--ink)!important}
+html[data-theme="dark"] .report-byline > span:nth-child(2),
+html[data-theme="dark"] .report-byline > span:nth-child(4),
+html[data-theme="dark"] .report-byline > span:nth-child(6){color:#5f7079}
+html[data-theme="dark"] .meta-card,
+html[data-theme="dark"] .panel{background:#0f171d;border-color:var(--line)}
+html[data-theme="dark"] .report-shell .meta-card .value{color:#dfe7eb}
+html[data-theme="dark"] .report-toc a{color:#9babb3}
+html[data-theme="dark"] .report-toc a.active,
+html[data-theme="dark"] .report-toc a:hover{color:#68ddfa}
+html[data-theme="dark"] .footer{background:#0c1318;border-top-color:#28343a}
+html[data-theme="dark"] .footer-intro p{color:#aebbc1}
+html[data-theme="dark"] .footer-bottom{border-top-color:#2a363c}
+
+/* Report prose and editorial surfaces */
+html[data-theme="dark"] .report-content{color:#d1dbe0}
+html[data-theme="dark"] .report-content>h2,
+html[data-theme="dark"] .report-content>h3,
+html[data-theme="dark"] .report-section h2,
+html[data-theme="dark"] .report-section h3,
+html[data-theme="dark"] .report-section h4{color:#e7edf1}
+html[data-theme="dark"] #report-content>p,
+html[data-theme="dark"] .report-section p,
+html[data-theme="dark"] .report-section li{color:#cbd5da}
+html[data-theme="dark"] .report-section strong{color:#f0f4f6}
+html[data-theme="dark"] .report-section em{color:#b8c5cb}
+html[data-theme="dark"] .report-content a,
+html[data-theme="dark"] .report-section a,
+html[data-theme="dark"] .author-signature a{color:#67d9f6;text-decoration-color:#315f6d}
+html[data-theme="dark"] .report-content>blockquote,
+html[data-theme="dark"] .report-section blockquote,
+html[data-theme="dark"] #report-content>blockquote{background:linear-gradient(180deg,#101d24,#0e1a20);border-color:#29434e;border-left-color:var(--cyan);color:#c7d4da}
+html[data-theme="dark"] .report-content>blockquote p,
+html[data-theme="dark"] .report-section blockquote p,
+html[data-theme="dark"] #report-content>blockquote p{color:#c7d4da}
+html[data-theme="dark"] .report-section code{background:#18232a;color:#d8e3e8}
+html[data-theme="dark"] .author-signature,
+html[data-theme="dark"] .related-card{background:transparent}
+html[data-theme="dark"] .author-signature p,
+html[data-theme="dark"] .citation-box p{color:#aebdc5}
+html[data-theme="dark"] .copy-citation{background:#10181e;color:#d5dfe4;border-color:#35434a}
+html[data-theme="dark"] .copy-citation:hover{border-color:#8aa2ad}
+
+/* Tables, charts, diagrams and generated research components */
+html[data-theme="dark"] .md-table-wrap{background:#0e161c;border-color:#2d3b43;box-shadow:0 10px 28px rgba(0,0,0,.14)}
+html[data-theme="dark"] .md-table th{background:#101b22;color:#eef4f6;border-color:#26353d}
+html[data-theme="dark"] .md-table td{background:#0e161c;color:#cbd6dc;border-color:#26333a}
+html[data-theme="dark"] .md-table tbody tr:nth-child(even) td{background:#111a20}
+html[data-theme="dark"] .md-table td:first-child{color:#eef3f5}
+html[data-theme="dark"] .research-chart,
+html[data-theme="dark"] .mindmap,
+html[data-theme="dark"] .geo-map,
+html[data-theme="dark"] .dependency-map,
+html[data-theme="dark"] .text-diagram,
+html[data-theme="dark"] .report-content .research-chart,
+html[data-theme="dark"] #report-content .research-chart{background:linear-gradient(180deg,#0f181e 0%,#0c1419 100%);border-color:#2b3941;box-shadow:0 14px 38px rgba(0,0,0,.16)}
+html[data-theme="dark"] .report-content .research-chart figcaption,
+html[data-theme="dark"] #report-content .research-chart figcaption,
+html[data-theme="dark"] .research-chart figcaption,
+html[data-theme="dark"] .mindmap figcaption,
+html[data-theme="dark"] .geo-map figcaption,
+html[data-theme="dark"] .dependency-map figcaption,
+html[data-theme="dark"] .text-diagram figcaption{color:#aebdc5;border-bottom-color:#26343b}
+html[data-theme="dark"] .report-content .chart-row,
+html[data-theme="dark"] #report-content .chart-row{border-top-color:#243138}
+html[data-theme="dark"] .chart-label,
+html[data-theme="dark"] .chart-value,
+html[data-theme="dark"] .report-content .chart-label,
+html[data-theme="dark"] #report-content .chart-label{color:#cbd7dc}
+html[data-theme="dark"] .report-content .chart-value,
+html[data-theme="dark"] #report-content .chart-value{color:#6fdcf7}
+html[data-theme="dark"] .chart-track,
+html[data-theme="dark"] .report-content .chart-track,
+html[data-theme="dark"] #report-content .chart-track{background:#162128;border-color:#26353d}
+html[data-theme="dark"] .line-chart svg,
+html[data-theme="dark"] .report-content .line-chart svg,
+html[data-theme="dark"] #report-content .line-chart svg{background:linear-gradient(180deg,#0e171d,#0b1318);border-color:#26333a;box-shadow:none}
+html[data-theme="dark"] .chart-grid line,
+html[data-theme="dark"] .report-content .line-chart .chart-grid line,
+html[data-theme="dark"] #report-content .line-chart .chart-grid line{stroke:#2b3940}
+html[data-theme="dark"] .chart-grid text,
+html[data-theme="dark"] .report-content .line-chart .chart-grid text,
+html[data-theme="dark"] #report-content .line-chart .chart-grid text{fill:#91a2aa}
+html[data-theme="dark"] .flow-node,
+html[data-theme="dark"] .dependency-stage,
+html[data-theme="dark"] .mind-branch{background:#111b21;border-color:#2a3a42}
+html[data-theme="dark"] .flow-node strong,
+html[data-theme="dark"] .dependency-stage h4,
+html[data-theme="dark"] .dependency-rel strong,
+html[data-theme="dark"] .mind-branch h4{color:#e4ecef}
+html[data-theme="dark"] .dependency-rel{background:#0d161b;color:#aebdc5}
+html[data-theme="dark"] .dependency-notes span{background:#111a20;border-color:#2d3b42;color:#9fb0b8}
+html[data-theme="dark"] .text-diagram-pre{background:#0a1217;border-color:#28363d;color:#d3dde2}
+html[data-theme="dark"] .geo-map-board{background:radial-gradient(circle at 20% 20%,rgba(59,215,255,.08),transparent 22%),linear-gradient(180deg,#0e191f,#0b151a);border-color:#293940}
+html[data-theme="dark"] .geo-card{background:rgba(15,24,30,.95);border-color:#2b3b43;box-shadow:0 8px 18px rgba(0,0,0,.16)}
+html[data-theme="dark"] .geo-value{color:#e8eef1}
+html[data-theme="dark"] .geo-card p,
+html[data-theme="dark"] .mind-branch li{color:#aebdc5}
+html[data-theme="dark"] .language-switch,
+html[data-theme="dark"] .language-badge{background:#10191f;border-color:#304048;color:#aebdc5}
+html[data-theme="dark"] .language-switch a{color:#aebdc5}
+html[data-theme="dark"] .language-switch a.active,
+html[data-theme="dark"] .language-switch a[aria-current="true"]{background:#e6edf0;color:#0a1116}
+html[data-theme="dark"] .report-error{background:#10181e;border-color:#334149}
+
+/* Theme control */
+.header-actions{display:flex;align-items:center;justify-content:flex-end;gap:4px;justify-self:end}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;flex:0 0 40px;padding:0;border:1px solid transparent;border-radius:999px;background:transparent;color:#31414a;cursor:pointer;transition:background-color .16s ease,border-color .16s ease,color .16s ease,transform .16s ease}
+.theme-toggle:hover{background:rgba(9,19,26,.055);border-color:var(--line)}
+.theme-toggle:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+.theme-toggle:active{transform:scale(.94)}
+.theme-toggle svg{display:block;width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+html[data-theme="light"] .theme-icon-sun{display:none}
+html[data-theme="dark"] .theme-icon-moon{display:none}
+html[data-theme="dark"] .theme-toggle{color:#dce7eb}
+html[data-theme="dark"] .theme-toggle:hover{background:rgba(255,255,255,.065);border-color:#34434b}
+
+@media(max-width:860px){
+  .header-actions{margin-left:auto;gap:2px}
+  .theme-toggle{width:40px;height:40px;flex-basis:40px}
+}
+
+@media(prefers-reduced-motion:reduce){.theme-toggle{transition:none}}
