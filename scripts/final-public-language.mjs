@@ -55,9 +55,11 @@ function fixEvidence(html){
     const cls=/\bclass\s*=/.test(attrs)?attrs.replace(/class=(["'])(.*?)\1/i,(_,q,v)=>`class=${q}${v} evidence-statement${q}`):`${attrs} class="evidence-statement"`;
     return `<li${cls}>${body.trim()} ${badge(label)}</li>`;
   });
-  html=html.replace(/<span class="evidence-badge"([^>]*)>(Fato|Fact|Infer[eê]ncia|Inference)(\s*·\s*[^<]+)?<\/span>/gi,(m,attrs,type,level='')=>{
-    const en=/Fact|Inference/i.test(type),kind=/Fato|Fact/i.test(type)?(en?'Data':'Dado'):(en?'Analysis':'Análise');
-    return `<span class="evidence-badge"${attrs}>${kind}${level.toLocaleLowerCase('pt-BR')}</span>`;
+  html=html.replace(/<span class="evidence-badge"[^>]*>(Fato|Fact|Infer[eê]ncia|Inference|Dado|Data|An[aá]lise|Analysis|Cen[aá]rio|Scenario)(?:\s*·\s*([^<]+))?<\/span>/gi,(m,type,level='')=>{
+    const en=/Fact|Inference|Data|Analysis|Scenario/i.test(type);
+    const normalizedLevel=level.trim();
+    const confidence=en?(normalizedLevel?`${normalizedLevel} confidence`:''):(normalizedLevel?`confiança ${normalizedLevel}`:'');
+    return badge(`${type}${confidence?` · ${confidence}`:''}`);
   });
   return{html,count};
 }
