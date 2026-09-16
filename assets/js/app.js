@@ -11,63 +11,45 @@ function initTheme(){
   try{saved=localStorage.getItem(storageKey);}catch{}
   if(saved!=='light'&&saved!=='dark')saved=null;
 
-  const preferred=()=>saved||(systemDark?.matches?'dark':'light');
-  const themeLink=document.createElement('link');
-  themeLink.rel='stylesheet';
-  themeLink.href='/assets/css/theme.css';
-  themeLink.dataset.themeStyles='true';
-  document.head.appendChild(themeLink);
+  if(!$('link[data-theme-styles],link[href="/assets/css/theme.css"]')){
+    const themeLink=document.createElement('link');
+    themeLink.rel='stylesheet';
+    themeLink.href='/assets/css/theme.css';
+    themeLink.dataset.themeStyles='true';
+    document.head.appendChild(themeLink);
+  }
 
+  const preferred=()=>saved||(systemDark?.matches?'dark':'light');
+  const button=$('.theme-toggle');
   const updateMetaColor=theme=>{
     let meta=$('meta[name="theme-color"]');
     if(!meta){meta=document.createElement('meta');meta.name='theme-color';document.head.appendChild(meta);}
     meta.content=theme==='dark'?'#0a1015':'#f5f7f8';
   };
-
-  const syncButton=(btn,theme)=>{
-    if(!btn)return;
+  const syncButton=theme=>{
+    if(!button)return;
     const next=theme==='dark'?'light':'dark';
     const label=isPt
       ?(next==='dark'?'Ativar modo escuro':'Ativar modo claro')
       :(next==='dark'?'Switch to dark mode':'Switch to light mode');
-    btn.setAttribute('aria-label',label);
-    btn.setAttribute('title',label);
-    btn.setAttribute('aria-pressed',String(theme==='dark'));
+    button.setAttribute('aria-label',label);
+    button.setAttribute('title',label);
+    button.setAttribute('aria-pressed',String(theme==='dark'));
   };
-
-  let button=null;
   const apply=(theme,{persist=false}={})=>{
     root.dataset.theme=theme;
     root.style.colorScheme=theme;
     root.style.backgroundColor=theme==='dark'?'#0a1015':'#f5f7f8';
     updateMetaColor(theme);
-    syncButton(button,theme);
+    syncButton(theme);
     if(persist){
       saved=theme;
       try{localStorage.setItem(storageKey,theme);}catch{}
     }
   };
 
-  apply(preferred());
-
-  const row=$('.header-row');
-  const menu=$('.menu-toggle');
-  if(row){
-    let actions=$('.header-actions',row);
-    if(!actions){
-      actions=document.createElement('div');
-      actions.className='header-actions';
-      if(menu){row.insertBefore(actions,menu);actions.appendChild(menu);}else row.appendChild(actions);
-    }
-    button=document.createElement('button');
-    button.type='button';
-    button.className='theme-toggle';
-    button.innerHTML='<span class="theme-icon theme-icon-moon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20.5 14.1A8.7 8.7 0 0 1 9.9 3.5 8.7 8.7 0 1 0 20.5 14.1Z"/></svg></span><span class="theme-icon theme-icon-sun" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.6"/><path d="M12 2.5v2M12 19.5v2M4.1 4.1l1.4 1.4M18.5 18.5l1.4 1.4M2.5 12h2M19.5 12h2M4.1 19.9l1.4-1.4M18.5 5.5l1.4-1.4"/></svg></span>';
-    actions.insertBefore(button,actions.firstChild);
-    syncButton(button,root.dataset.theme);
-    button.addEventListener('click',()=>apply(root.dataset.theme==='dark'?'light':'dark',{persist:true}));
-  }
-
+  apply(root.dataset.theme==='dark'||root.dataset.theme==='light'?root.dataset.theme:preferred());
+  button?.addEventListener('click',()=>apply(root.dataset.theme==='dark'?'light':'dark',{persist:true}));
   systemDark?.addEventListener?.('change',()=>{if(!saved)apply(preferred());});
 }
 
