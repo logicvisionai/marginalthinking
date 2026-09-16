@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "MT-GM-2026-09-16",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-16T08:56:35-03:00",
+  "reviewed_commit": "318c1741f31f59c3e023920f6b4ef02f8b80d4b9",
+  "markdown_url": "/reports/2026/09/2026-09-16-global-macro.md",
+  "html_url": "/reports/2026/09/2026-09-16-global-macro.html",
+  "markdown_blob_sha": "1572f889f1803b83ddb628efa2a24e27b5cae32c",
+  "html_blob_sha": "eae75837f91ef42d907e6b8bab8180de3ef84137",
+  "confidence": "medium",
+  "checks": {
+    "numbers": "Principais preços e movimentos que sustentam a tese foram confrontados com fontes recentes; Brent/WTI, Treasury de 10 anos e direção dos mercados são coerentes com Reuters e fontes de mercado. Métricas secundárias e alguns instrumentos intradiários têm menor grau de verificação.",
+    "sources": "Eventos centrais de energia e mercados foram corroborados por Reuters; expectativas para Fed e Copom foram confrontadas com cobertura recente. O relatório identifica fontes secundárias quando as utiliza.",
+    "temporality": "O corte de informação é explicitado em aproximadamente 11h30 BRT; mercados abertos são marcados como intradiários e B3/Wall Street usam fechamento anterior quando aplicável.",
+    "methodology": "O relatório distingue fato observado, inferência, sinal e cenário; não trata valorização de ouro como fluxo ou renda e separa explicitamente redistribuição de renda corrente de valorização patrimonial na tabela de renda e financiamento.",
+    "language": "A redação em português brasileiro atende materialmente ao EDITORIAL-STYLE.md: mecanismos econômicos são explicados em frases causais, anglicismos não substituem a explicação e não há padrão recorrente de metáforas abstratas bloqueantes. Há usos convencionais de termos de mercado, mas com contexto suficiente.",
+    "links": "Markdown e HTML existem no HEAD revisado e os caminhos canônicos são coerentes com o sidecar.",
+    "coherence": "Markdown e HTML apresentam a mesma tese central: alívio parcial do choque energético sem normalização das condições financeiras antes de Fed e Copom. O HTML é uma síntese declarada do Markdown canônico e não contradiz suas conclusões principais."
+  },
+  "contrary_evidence": [
+    "A abertura de carregamentos via transferências navio-a-navio ao largo de Sohar reduz parte do risco logístico saudita, mas Yanbu permanece afetado e o diesel europeu segue muito caro; portanto, a melhora não demonstra normalização da oferta.",
+    "O recuo marginal do Treasury de 10 anos para perto de 5% não elimina o aperto financeiro: o rendimento continua próximo dos maiores níveis desde 2007.",
+    "A ausência de deterioração sistêmica do crédito, reconhecida no próprio relatório, limita uma leitura excessivamente pessimista do regime."
+  ],
+  "limitations": [
+    "Parte do painel intradiário e das métricas secundárias depende de provedores de mercado ou fontes secundárias e não recebeu o mesmo grau de verificação das variáveis centrais.",
+    "A associação diária entre petróleo mais fraco, rendimentos menores e recuperação de ações é economicamente plausível, mas não permite atribuir causalidade exclusiva a um único fator.",
+    "A formulação de que a rota por Sohar foi 'aberta' simplifica operacionalmente o mecanismo: a evidência disponível descreve ofertas de crude para carregamento por transferências navio-a-navio ao largo de Sohar, não a inauguração de uma infraestrutura física nova."
+  ],
+  "notes": "Aprovado sem erro material conhecido que altere a tese central. Confiança mantida em nível médio por causa da amplitude do painel e da dependência de fontes secundárias para alguns preços e fluxos. Qualquer alteração posterior no Markdown ou HTML exige nova revisão por SHA."
+}
