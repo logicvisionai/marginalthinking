@@ -53,5 +53,8 @@ jobs:
           grep -q 'global-search-link' dist/pt-br/index.html
           grep -R -q 'semantic-navigation' dist/reports
           grep -R -q 'semantic-navigation' dist/pt-br/reports
+          grep -q '<a class="tag" href=' dist/reports.html
+          grep -q '<a class="tag" href=' dist/pt-br/reports.html
+          grep -q '.semantic-chip,.chips a,.tags a.tag' dist/assets/css/discovery.css
           node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1)"
           echo "Static site validation completed."
