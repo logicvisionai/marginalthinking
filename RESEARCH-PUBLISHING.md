@@ -49,6 +49,20 @@ reports/YYYY/MM/<slug>/
 
 `scripts/render-site.mjs` discovers `reports/**/metadata.json` automatically. Therefore the public bundle must not exist before QA approval.
 
+## Internal cumulative research context
+
+Marginal Thinking maintains a non-public Markdown research-memory layer under `research-context/`, governed by [`RESEARCH-CONTEXT.md`](./RESEARCH-CONTEXT.md).
+
+Before external research, a producer must read `RESEARCH-CONTEXT.md` and inspect only the context files clearly relevant to the planned publication. These files may identify prior findings, historical anchors, structural relationships, dependencies, unresolved questions and useful sources.
+
+Research context is **orientation, not evidence**. It must never substitute for current source verification. Any material fact reused in public research — especially data, laws, officeholders, projects, financing, market conditions, conflicts, sanctions, capacities or other time-sensitive claims — must be checked against suitable external sources under the normal research standard.
+
+The producer must treat context as read-only. It must not create or update `research-context/**` as part of the staging transaction. Context maintenance is asynchronous and independent of production, QA and publication.
+
+Missing, stale or incomplete context must never block a report. If no useful context exists, the producer proceeds with ordinary research.
+
+`research-context/` is not part of the public bundle, does not alter the controlled taxonomy, does not receive public routes in version 1.0 and must not become a dependency of build or publication correctness.
+
 ## Stage 1 — Producer
 
 The producer writes both staged Markdown editions and performs its source, language and methodological checks. It then writes the pending sidecar **last**.
