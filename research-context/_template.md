@@ -1,14 +1,15 @@
-# <Canonical name>
+# <Canonical briefing name>
 
-**Context type:** country | region | institution | theme  
-**Canonical slug:** `<slug>`  
+**Scope:** <describe the analytical object in plain language>  
+**Canonical slug:** `<dynamic-slug>`  
 **Last reviewed:** YYYY-MM-DD  
-**Status:** active  
 **Evidence note:** internal orientation only; public claims require external re-verification.
+
+> This template is guidance, not a rigid schema. Keep only sections that materially help future research and add a concise section when the research object genuinely requires it.
 
 ## Structural assessment
 
-Concise statement of the durable structure and why it matters to Marginal Thinking research.
+Concise statement of the durable structure, mechanism or relationship and why it matters to Marginal Thinking research.
 
 ## Historical anchors
 
@@ -26,17 +27,17 @@ Omit when not material.
 
 Omit when not material.
 
-## External relationships
+## Relationships
 
-Describe only relationships that materially affect the research object.
+Describe only relationships that materially affect the analytical object. If a relationship itself becomes independently reusable, it may later receive its own dynamically created briefing.
 
 ## Dependencies and constraints
 
-List durable dependencies, bottlenecks, legal/institutional constraints, capacity limits or exposures.
+Record durable dependencies, actual capacity constraints, legal/institutional constraints or material exposures.
 
 ## Structural changes in progress
 
-Separate observed change from announced intention.
+Separate observed change from announced intention, targets, memoranda or scenarios.
 
 ## What changed since last review
 
