@@ -9,7 +9,8 @@ Every publication must comply with:
 - [`EDITORIAL-ARCHITECTURE.md`](./EDITORIAL-ARCHITECTURE.md);
 - [`data/taxonomy.json`](./data/taxonomy.json);
 - [`EDITORIAL-STYLE.md`](./EDITORIAL-STYLE.md);
-- [`INSTITUTIONAL-EDITORIAL.md`](./INSTITUTIONAL-EDITORIAL.md).
+- [`INSTITUTIONAL-EDITORIAL.md`](./INSTITUTIONAL-EDITORIAL.md);
+- [`CONFLICT-SECURITY-SOCIAL-CHANGE.md`](./CONFLICT-SECURITY-SOCIAL-CHANGE.md) whenever conflict, security or social-change phenomena are materially relevant.
 
 The publication invariant is:
 
@@ -102,12 +103,15 @@ Canonical shape:
     "countries": []
   },
   "topics": ["macroeconomics", "capital-markets"],
+  "phenomena": [],
   "format": "brief",
   "cadence": "daily"
 }
 ```
 
-Series-specific fields may be added, but the controlled fields above may not be omitted or silently extended.
+`phenomena` is a controlled cross-cutting classification axis. New or materially revised research should include it as an array, including an empty array when no controlled phenomenon is materially relevant. Values may only come from `data/taxonomy.json`; producers must not infer a new controlled identifier from article wording. Historical records are not invalid merely because they predate this field.
+
+Series-specific fields and other approved analytical metadata may be added, but controlled fields may not be silently extended or redefined.
 
 The producer must not:
 
@@ -147,7 +151,9 @@ Required approval fields include:
 }
 ```
 
-`publication` is an immutable snapshot of the approved publication state: the complete normalized v2 pending object that the publisher is allowed to materialize publicly. The publisher must never infer missing publication metadata from a later-mutated pending file.
+`publication` is an immutable snapshot of the approved publication state: the complete normalized v2 pending object that the publisher is allowed to materialize publicly. The publisher must never infer missing publication metadata from a later-mutated pending file. When `phenomena` is present, it is part of this immutable snapshot and must remain unchanged through publication.
+
+For research materially involving conflict, war, strategic competition, defense, sanctions, political stability, civil unrest, migration, demographic transition, institutional change or social change, QA must apply the evidence and attribution rules in `CONFLICT-SECURITY-SOCIAL-CHANGE.md` in addition to ordinary factual review.
 
 If a source or pending sidecar changes after QA, its Git blob SHA changes and the approval becomes invalid automatically.
 
@@ -165,12 +171,13 @@ For every approved ID that is not already public, it must:
 4. verify `source_blob_shas.en` and `source_blob_shas.pt-BR` against the current staged Markdown files;
 5. verify `taxonomy_check:"passed"` and `translation_check:"passed"`;
 6. verify that the approval `publication` snapshot matches the approved ID and controlled taxonomy;
-7. copy the approved staged English Markdown to `reports/YYYY/MM/<slug>/en.md`;
-8. copy the approved staged Portuguese Markdown to `reports/YYYY/MM/<slug>/pt-BR.md`;
-9. create `reports/YYYY/MM/<slug>/metadata.json` with `source_locale:"en"`, relative Markdown paths `en.md` and `pt-BR.md`, the approved taxonomy and localized metadata;
-10. use canonical URL `/reports/YYYY/MM/<slug>.html`;
-11. update `data/reports.json` only as a backward-compatible index, using the same canonical classification and URL;
-12. commit all publication changes atomically.
+7. validate controlled `phenomena` when present and preserve the approved array exactly rather than infer or rewrite it;
+8. copy the approved staged English Markdown to `reports/YYYY/MM/<slug>/en.md`;
+9. copy the approved staged Portuguese Markdown to `reports/YYYY/MM/<slug>/pt-BR.md`;
+10. create `reports/YYYY/MM/<slug>/metadata.json` with `source_locale:"en"`, relative Markdown paths `en.md` and `pt-BR.md`, the approved taxonomy, approved `phenomena` when present, and localized metadata;
+11. use canonical URL `/reports/YYYY/MM/<slug>.html`;
+12. update `data/reports.json` only as a backward-compatible index, using the same canonical classification, `phenomena` when present and URL;
+13. commit all publication changes atomically.
 
 The publisher must never create public metadata pointing to `staging/`.
 
@@ -195,13 +202,14 @@ The pipeline remains idempotent: a published ID is not republished, and an uncha
 
 - an unpublished pending item does not use schema v2;
 - controlled taxonomy is invalid;
+- `phenomena`, when present, contains duplicates or identifiers outside the controlled taxonomy;
 - staged sources are missing;
 - approval SHAs do not match current staged sources;
 - approval does not contain the immutable publication snapshot;
 - a public bundle points to `staging/`;
 - a public bundle references Markdown outside the `reports/` public tree.
 
-`scripts/validate-research.mjs` validates public bilingual bundles, taxonomy and Markdown structure.
+`scripts/validate-research.mjs` validates public bilingual bundles, controlled taxonomy including `phenomena` when present, and Markdown structure.
 
 A deployment must not proceed if either validator fails.
 
@@ -219,6 +227,8 @@ A deployment must not proceed if either validator fails.
 
 Historical `schema_version:1` pending and approval records may remain in Git for auditability when their IDs are already published. They are not valid templates for new research.
 
+Historical records may also lack newer optional controlled metadata such as `phenomena`. They should not be mutated merely to conform retroactively; current producers, QA and publishers should preserve historical integrity while requiring the current contract for new or materially revised research.
+
 No new producer, QA or publisher action should create schema v1 records.
 
 ## Language rules
@@ -226,6 +236,7 @@ No new producer, QA or publisher action should create schema v1 records.
 - English is the canonical source locale.
 - Brazilian Portuguese is required for every public research item.
 - Both editions must be semantically equivalent in facts, numbers, evidence status, taxonomy, confidence and analytical conclusion.
+- Controlled identifiers such as `program`, `topics` and `phenomena` are language-neutral metadata and must not be translated into different identifiers between editions.
 - `hreflang`, canonical URLs, Open Graph, citation metadata and Schema.org metadata are generated by the renderer.
 
 ## Public formats
