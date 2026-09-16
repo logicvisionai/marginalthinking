@@ -1,52 +1,48 @@
-# Bulgaria after the euro: institutional integration, fiscal pressure and a market-access inflection
+# Bulgaria after euro adoption: institutional integration meets fiscal and labour constraints
 
 **Strategic Transitions · Country assessment · Data cutoff: 16 September 2026**
 
-Bulgaria is undergoing a transition that is easy to understate if it is viewed only as a currency change. Three developments now overlap: the adoption of the euro and full integration into the Eurosystem, a deterioration in the near-term fiscal and external balance, and the reclassification of the Bulgarian equity market from MSCI Standalone to Frontier status. At the same time, labour scarcity, rapid wage growth and demographic constraints are changing the domestic cost structure.
+Bulgaria is undergoing a transition that is easy to understate if it is treated only as a currency change. In 2026, three observable developments overlap: euro adoption and full integration into the Eurosystem's operating infrastructure; MSCI's reclassification of the Bulgarian equity market from Standalone to Frontier status; and a macroeconomic environment in which the fiscal balance, external balance and labour supply have become more demanding.
 
-The relevant question is not whether Bulgaria is suddenly a large market. It is whether institutional integration is moving faster than the country's fiscal, demographic and market-depth constraints — and whether that gap changes the way capital, firms and policymakers treat the country over the next several years.
+The central question is not whether Bulgaria has suddenly become a large market. It is whether institutional integration is changing the country's financial and economic operating environment faster than fiscal capacity, productivity, labour supply and domestic market depth can adjust.
 
 ## Executive assessment
 
-**Observed fact.** Bulgaria adopted the euro on 1 January 2026, becoming the 21st member of the euro area. The Bulgarian National Bank joined the Eurosystem, the country became fully integrated into TARGET services, and Bulgarian banks entered the euro-area monetary and collateral infrastructure on the same institutional basis as other members. [ECB](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html) [ECB TARGET Services](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260102.en.html)
+**Observed fact.** Bulgaria adopted the euro on 1 January 2026 and became the 21st member of the euro area. The Bulgarian National Bank joined the Eurosystem and became a full member of the Single Supervisory Mechanism. Bulgaria also completed onboarding to T2, T2S, TIPS and the Eurosystem Collateral Management System, allowing Bulgarian institutions to operate inside the common euro-area payments, securities-settlement and collateral infrastructure. [ECB, 1 January 2026](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html) [ECB, 2 January 2026](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260102.en.html)
 
-**Observed fact.** MSCI reclassified Bulgaria from Standalone to Frontier Market status in its June 2026 Market Classification Review. The change does not imply that the market is deep or highly liquid; it indicates that accessibility has improved enough for Bulgaria to re-enter a broader institutional classification. [MSCI](https://ir.msci.com/news-releases/news-release-details/msci-announces-results-msci-2026-market-classification-review)
+**Observed fact.** On 23 June 2026, MSCI announced the reclassification of Bulgaria from Standalone to Frontier Market status. MSCI said that market conditions had improved, including the number of securities meeting Frontier Market size and liquidity requirements, turnover and the absence of significant operational problems following euro adoption. This is evidence of improved accessibility under MSCI's framework; it is not evidence by itself of sustained foreign inflows or deep market liquidity. [MSCI, 23 June 2026](https://ir.msci.com/news-releases/news-release-details/msci-announces-results-msci-2026-market-classification-review)
 
-**Observed fact.** The European Commission's Spring 2026 forecast expects real GDP growth of 2.5% in 2026, inflation of 4.2%, a general-government deficit of 4.1% of GDP and public debt of 32.3% of GDP. Debt remains low by EU standards, but the direction has changed materially: Eurostat put debt at 29.9% of GDP at end-2025, up 6 percentage points in one year, while the Commission projects further increases. [European Commission](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en) [Eurostat](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-22042026-bp)
+**Observed fact.** The European Commission's Spring 2026 forecast, published on 21 May 2026, projects real GDP growth of 2.5% in 2026, HICP inflation of 4.2%, a general-government deficit of 4.1% of GDP, gross public debt of 32.3% of GDP and a current-account deficit of 5.0% of GDP. For 2027 it projects growth of 2.2%, a deficit of 4.3%, debt of 35.5% and a current-account deficit of 5.0%. [European Commission, 21 May 2026](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en)
 
-**Observed fact.** The labour market remains exceptionally tight. Bulgaria's unemployment rate was 3.5% in Q2 2026. Average monthly wages were 9.8% higher than a year earlier, while the number of employees under labour contract was 0.7% lower; manufacturing employment fell by 19,400 year on year. Labour shortages were reported by 32.4% of industrial enterprises in June. [NSI labour force](https://www.nsi.bg/en/press-release/main-labour-force-survey-results-9118) [NSI wages](https://www.nsi.bg/en/press-release/employees-and-average-wages-and-salaries-9113) [NSI indicators](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
+**Observed fact.** The labour market remains tight. The National Statistical Institute reported unemployment of 3.5% in Q2 2026. A separate NSI release for Q2 reported average monthly wages 9.8% above Q2 2025, while employees under labour contract were 0.7% lower at end-June than a year earlier and manufacturing employment was lower by 19,400. [NSI Labour Force Survey, 14 August 2026](https://www.nsi.bg/en/press-release/main-labour-force-survey-results-9118) [NSI Employees and Wages, Q2 2026](https://www.nsi.bg/en/press-release/employees-and-average-wages-and-salaries-9113)
 
-**Assessment.** Bulgaria's strategic transition is therefore not a simple convergence story. Monetary and financial integration are advancing rapidly, while fiscal policy, labour supply and domestic market depth remain binding constraints. The most consequential development is the reduction of institutional frictions around payments, collateral, banking supervision and currency risk at the same time that public finances and labour costs are becoming more demanding.
+**Assessment.** The transition is real, but its economic payoff is not yet demonstrated. Bulgaria has removed or harmonised important institutional interfaces through euro-area membership and has improved its classification under MSCI's accessibility framework. The next test is whether those changes are followed by measurable improvements in financing conditions, investment quality, productivity, listed-market depth and household real incomes while fiscal and external imbalances remain manageable.
 
-**Confidence: moderate-high** on the institutional and macro direction; **moderate** on the speed with which improved market access will translate into persistent foreign portfolio flows or a materially deeper domestic equity market.
+**Confidence: moderate-high** on the institutional transition and current macroeconomic constraints; **moderate** on how much these institutional changes will translate into persistent portfolio flows, deeper equity-market liquidity or faster productivity growth.
 
-## Why this country matters now
+## Why Bulgaria matters now
 
-Bulgaria is small relative to the core euro-area economies, which is precisely why the transition can be missed in global coverage. But the country now sits at the intersection of several processes with broader analytical relevance:
+Bulgaria is small relative to the core euro-area economies, which is precisely why a material transition can receive less global attention than its institutional importance warrants. The country now combines several developments that are analytically connected.
 
-1. **Euro-area enlargement is still active.** Bulgaria demonstrates that monetary integration remains a live institutional mechanism inside the EU, not merely a legacy of earlier enlargement.
-2. **Market classification can change after institutional infrastructure changes.** Euro adoption, TARGET integration and market-access reform are occurring in the same year as MSCI reclassification.
-3. **Low debt can coexist with a worsening fiscal trajectory.** The starting stock is favourable, but the fiscal impulse and expenditure structure matter more for direction.
-4. **Labour scarcity can become a structural macro variable before unemployment rises.** Tight labour supply is already visible in wages, manufacturing employment and business surveys.
-5. **The transition has distributional consequences.** Euro conversion, wage growth, inflation and housing prices affect households differently from exporters, banks and capital-market participants.
+First, euro-area enlargement remains an active institutional process. Second, the country's market-access classification changed in the same year as euro adoption. Third, the public-debt stock remains low by EU standards while the fiscal flow is deteriorating. Fourth, labour scarcity is visible in unemployment, wages, employment composition and business surveys. Fifth, the social effects of the transition are distributed unevenly through wages, prices, housing and public spending.
 
-This combination makes Bulgaria a useful case for the Marginal Thinking framework: the important signal is not a single headline, but the interaction between institutions, capital, production and society.
+This is the type of case Strategic Transitions is intended to track: not a country because it is little covered, but a set of connected changes whose consequences span economics, politics and society.
 
-## 1. Monetary regime: from currency-board discipline to full Eurosystem membership
+## 1. Monetary regime: what changed, and what did not
 
-The lev had long been fixed to the euro through Bulgaria's currency-board framework, so the January 2026 change did not create a new exchange-rate anchor from scratch. The deeper change is institutional.
+The lev had long been fixed to the euro through Bulgaria's currency-board arrangement. Euro adoption therefore did not create an entirely new exchange-rate anchor. The more important observed change is institutional.
 
-With euro adoption, the Bulgarian National Bank became part of the Eurosystem. Bulgarian banks gained access to the same euro-area monetary-policy operations, collateral framework, settlement systems and supervisory architecture that apply to other euro-area members. Bulgaria also completed full onboarding to T2, T2S, TIPS and the Eurosystem Collateral Management System. [ECB](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html) [ECB TARGET Services](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260102.en.html)
+With euro adoption, the Bulgarian National Bank entered the Eurosystem, and Bulgarian institutions became fully integrated into T2, T2S, TIPS and ECMS. The practical significance is that large-value payments, instant retail payments, securities settlement and collateral management can operate inside the common Eurosystem infrastructure. [ECB TARGET Services, 2 January 2026](https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260102.en.html)
 
-**Inference.** For firms and financial institutions, the largest medium-term effect is not a one-off currency conversion. It is the removal of a layer of settlement, collateral and redenomination friction between Bulgaria and the rest of the euro area.
+The likely economic effects must be separated from the observed institutional facts. The IMF's 2025 Article IV assessment expected euro adoption to reduce currency risk and transaction costs and noted that some benefits were already visible before accession in narrower sovereign spreads and credit-rating upgrades. That provides evidence for a plausible channel, but it does not prove that every Bulgarian borrower or listed company has already received cheaper financing after January 2026. [IMF, 24 November 2025](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation)
 
-That should reduce some transaction costs and improve institutional comparability, but it does not remove credit risk, fiscal risk, corporate-governance risk or liquidity risk. Euro membership changes the monetary architecture; it does not homogenise the economy.
+**Inference.** Euro membership should be analysed as a change in financial infrastructure and institutional risk, not as an automatic productivity or valuation shock. Credit risk, fiscal risk, governance, company quality, free float and liquidity remain country- and issuer-specific.
 
-## 2. Fiscal transition: a favourable stock, a less favourable flow
+## 2. Fiscal transition: low debt, weaker flow dynamics
 
-Bulgaria enters the euro area with public debt far below the euro-area average. At the end of Q1 2026, Eurostat reported government debt at 28.5% of GDP, among the lowest ratios in the EU. [Eurostat](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap)
+At the end of Q1 2026, Eurostat reported Bulgarian general-government debt at 28.5% of GDP, the third-lowest ratio in the EU. That ratio was down from 29.9% at end-2025 on a quarter-to-quarter basis, but 4.8 percentage points above Q1 2025. The annual comparison therefore shows a material increase even though the latest quarterly move was lower. [Eurostat, 21 July 2026](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap)
 
-The direction, however, is less benign than the level. The European Commission estimates:
+The Commission's May 2026 forecast is:
 
 | Indicator | 2025 | 2026 forecast | 2027 forecast |
 |---|---:|---:|---:|
@@ -56,229 +52,190 @@ The direction, however, is less benign than the level. The European Commission e
 | Gross public debt | 29.9% GDP | 32.3% | 35.5% |
 | Current-account balance | -3.9% GDP | -5.0% | -5.0% |
 
-Source: [European Commission Spring 2026 forecast](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en)
+Source: [European Commission Spring 2026 forecast, 21 May 2026](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en).
 
-The Commission attributes the wider deficit primarily to social expenditure, public-sector wages and defence spending, with expenditure growing faster than revenue in the absence of sufficient offsetting measures. The IMF had already argued in late 2025 that tighter fiscal policy would be appropriate given strong domestic demand and that policy should shift from short-term demand support toward higher-quality investment. [IMF](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation)
+The Commission attributes the deficit deterioration to expenditure growing faster than revenue, including social spending, public-sector wages and defence expenditure. It also notes that Bulgaria was operating under a bridge budget at the forecast cutoff following the resignation of the government at the end of 2025.
 
-**Assessment.** The fiscal issue is not near-term solvency. Bulgaria's debt stock remains comparatively low. The strategic question is whether recurrent expenditure growth becomes embedded before the benefits of higher investment, institutional integration and productivity gains materialise.
+The IMF had already recommended tighter fiscal policy in its November 2025 Article IV assessment, arguing that strong domestic demand warranted a shift away from short-term demand support and toward higher-quality investment. [IMF, 24 November 2025](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation)
 
-A low starting debt ratio buys time. It does not eliminate the need for fiscal discipline.
+**Assessment.** Near-term sovereign solvency is not the central concern because the debt stock remains low relative to most EU economies. The strategic issue is whether recurrent expenditure growth becomes embedded while debt rises and before productivity-enhancing investment produces measurable returns.
 
-## 3. External position: domestic demand is testing the balance
+## 3. External position: different official series tell different parts of the story
 
-The European Commission expects the current-account deficit to reach about 5% of GDP in 2026 and 2027. National statistics also showed a widening deficit in early 2026: the current account was negative by €3.6 billion in January-April 2026, or 2.9% of GDP, compared with 1.6% of GDP in the same period of 2025. [NSI](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
+The external data require careful treatment because national-accounts volumes and balance-of-payments values are not interchangeable.
 
-This does not by itself signal an external crisis. Euro membership changes the nature of balance-of-payments risk relative to a country with an independent, potentially unstable currency. But the widening external deficit still contains information: domestic demand and imports are running faster than the export side of the economy.
+In its **3 July 2026 Key Indicators release**, the NSI reported that in Q1 2026, relative to Q1 2025, exports of goods and services in the national accounts fell 7.4%, imports rose 8.2% and gross fixed capital formation rose 9.1%. In the same release, balance-of-payments data for **January-April 2026** showed a current-account deficit of €3.615 billion, or 2.9% of GDP, compared with 1.6% of GDP in the same period of 2025. The same balance-of-payments section reported exports of goods in current euro values up 7.7% year on year for January-April. [NSI Key Indicators, 3 July 2026](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
 
-In Q1 2026, the NSI reported exports of goods and services down 7.4% year on year while imports rose 8.2%. Gross fixed capital formation was still up 9.1%, indicating that part of the import pressure may be associated with investment rather than only consumption. [NSI](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
+These figures are not contradictory: one set refers to national-accounts goods-and-services volumes for Q1, while another refers to balance-of-payments goods values for January-April. They should not be combined as if they measured the same concept.
 
-**Inference.** If the investment component translates into productive capacity, the current-account deterioration may be partly transitional. If it reflects persistent consumption and public expenditure without productivity gains, the imbalance becomes more structurally relevant.
+The Commission separately forecasts the current-account deficit at 5.0% of GDP in both 2026 and 2027. [European Commission, 21 May 2026](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en)
 
-## 4. Banking and credit: integration reduces some frictions, not cycle risk
+**Inference.** A wider current-account deficit is not, by itself, evidence of an external crisis inside the euro area. The more useful question is composition: whether stronger imports are financing productive capital formation that raises future export capacity, or whether domestic demand persistently grows faster than productive capacity.
 
-The ECB has supervised significant Bulgarian banks under close cooperation since 2020 and became fully responsible within the Single Supervisory Mechanism after euro adoption. Four significant institutions are directly supervised by the ECB, with the national central bank participating in the system. [ECB](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html)
+## 4. Banking, credit and housing
 
-The IMF warned that strong credit growth and real-estate dynamics required continued macroprudential attention. It specifically highlighted the need to monitor systemic risk in the property market. [IMF](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation)
+The ECB had directly supervised four significant Bulgarian institutions since 2020 under the close-cooperation framework; after euro adoption the Bulgarian National Bank became a full member of the Single Supervisory Mechanism. [ECB](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html)
 
-NSI data show house prices were still 14.8% above a year earlier in Q1 2026. [NSI](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
+The IMF's November 2025 assessment described the financial sector as resilient but warned that rapid consumer and mortgage credit growth had increased real-estate risks. It noted that the reduction in reserve requirements after euro adoption could eventually release liquidity into lending, while also stressing that the eventual allocation of that liquidity was uncertain. [IMF](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation)
 
-**Assessment.** Euro-area integration lowers certain institutional and currency frictions, but it can also increase the importance of domestic credit allocation. If cheaper or more accessible finance meets constrained housing supply and tight labour markets, the result can be asset-price and wage pressure rather than productivity growth.
+The **NSI 3 July 2026 release** reported the house-price index 14.8% above a year earlier in Q1 2026. [NSI, 3 July 2026](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
 
-## 5. Capital markets: the MSCI change matters, but liquidity remains the test
+**Assessment.** Euro-area integration removes some institutional distinctions, but the domestic allocation of credit remains consequential. If additional liquidity and credit demand encounter constrained housing supply, part of the adjustment can appear in property prices rather than productive investment. Whether this channel strengthens after accession is an empirical question that must be monitored rather than assumed.
 
-MSCI's June 2026 decision to move Bulgaria from Standalone to Frontier Market status is one of the clearest signals that the country's financial-market accessibility has changed. [MSCI](https://ir.msci.com/news-releases/news-release-details/msci-announces-results-msci-2026-market-classification-review)
+## 5. Capital markets: accessibility improved; depth must still be demonstrated
 
-This should not be interpreted as an investment endorsement. Frontier classification says more about accessibility and index eligibility than about valuation, earnings quality or future returns.
+MSCI's June 2026 decision is important because the methodology explicitly concerns accessibility and investability for international institutional investors. MSCI said Bulgaria had improved sufficiently to move from Standalone to Frontier status, citing more securities meeting Frontier size and liquidity requirements, higher turnover and the absence of significant operational problems after the euro transition. [MSCI, 23 June 2026](https://ir.msci.com/news-releases/news-release-details/msci-announces-results-msci-2026-market-classification-review)
 
-The Bulgarian Stock Exchange remains small in absolute trading terms, and daily turnover can be highly concentrated. On 10 September 2026, for example, total turnover across the Main Market, Alternative Market, beam and BSE International was about €3.4 million, with a large share concentrated in a few names and transactions. [Bulgarian Stock Exchange](https://www.bse-sofia.bg/en/news/id/160778)
+That is evidence of a change in access conditions under MSCI's framework. It is not equivalent to a forecast of returns, a recommendation to invest or proof that the market is already deep.
 
-That single-day observation is not a liquidity estimate for the whole market, but it illustrates why **market access** and **market depth** must be treated separately.
+The Bulgarian Stock Exchange remained small in absolute trading terms. On **10 September 2026**, BSE reported total turnover of about €3.394 million across its Main Market, Alternative Market, beam and BSE International, with €2.551 million on the Main Market. This is a single-day observation and should not be treated as a structural liquidity estimate. It is useful only as an illustration of the market's absolute scale. [Bulgarian Stock Exchange, 10 September 2026](https://bse-sofia.bg/en/news/id/160781)
 
-### Investability sequence
+The correct analytical sequence is:
 
-For Bulgaria, the correct analytical order is:
+1. accessibility and operational settlement;
+2. custody and participation rules;
+3. liquidity, turnover and free float;
+4. governance and disclosure;
+5. earnings and cash flow;
+6. valuation;
+7. catalysts and risks.
 
-**accessibility → settlement/custody → liquidity/free float → governance/disclosure → earnings/cash flow → valuation → catalysts → risk**
+Euro adoption and MSCI reclassification provide observed evidence mainly for the first two stages and part of the third. Durable foreign ownership, deeper liquidity and broader issuance remain outcomes to test.
 
-Euro adoption and MSCI reclassification improve the first part of that chain. They do not automatically solve the later parts.
+## 6. Labour, production and productivity
 
-**Inference.** The main transition signal is therefore optionality: a market that was previously outside many institutional mandates can become monitorable or investable for a wider set of participants. Whether that produces durable foreign ownership depends on liquidity, listed-company quality and the supply of securities.
+Two August 2026 NSI releases clarify the current labour picture.
 
-## 6. Production and labour: the economy is running into supply constraints
+The **Labour Force Survey published on 14 August 2026** put Q2 unemployment at 3.5%. The **Q2 Employees and Wages release** reported average monthly wages 9.8% above Q2 2025. At end-June, employees under labour contract were 16,700, or 0.7%, below June 2025, while manufacturing employment was lower by 19,400. [NSI Labour Force Survey, 14 August 2026](https://www.nsi.bg/en/press-release/main-labour-force-survey-results-9118) [NSI Employees and Wages, Q2 2026](https://www.nsi.bg/en/press-release/employees-and-average-wages-and-salaries-9113)
 
-The labour market is among the most important parts of the Bulgarian transition.
+The **3 July Key Indicators release**, referring to Q1 labour costs and June business surveys, reported total hourly labour costs up 13.4% year on year in Q1 and 32.4% of industrial enterprises identifying labour shortage as a limiting factor in June. [NSI, 3 July 2026](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
 
-In Q2 2026:
-- unemployment was 3.5%;
-- the number of employees under labour contract fell 0.7% year on year;
-- average monthly wages rose 9.8% year on year;
-- manufacturing employment fell by 19,400;
-- the European Commission continued to identify labour shortages in manufacturing, construction, education and health.
+The Commission also identifies persistent labour shortages in manufacturing, construction, education and health and links them to demographic trends and a shrinking working-age population. [European Commission, 21 May 2026](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en)
 
-[NSI labour force](https://www.nsi.bg/en/press-release/main-labour-force-survey-results-9118) [NSI wages](https://www.nsi.bg/en/press-release/employees-and-average-wages-and-salaries-9113) [European Commission](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en)
+**Assessment.** Higher wages can raise household income and support convergence. They can also raise production costs. The outcome depends on productivity, capital deepening, labour-force participation, migration and the ability of firms to move toward higher-value activity. The relevant test is not wage growth alone but wage growth relative to productivity and export performance.
 
-Labour costs were 13.4% higher year on year in Q1 2026, and almost one-third of industrial enterprises reported labour shortages as a limiting factor in June. [NSI](https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070)
+## 7. Society: the same transition is experienced differently across households
 
-**Assessment.** This is not simply a story of wage convergence. Wage growth can support household income and domestic demand, but if productivity and labour supply do not keep pace it can compress industrial competitiveness.
+Euro adoption is an institutional event, but households experience it through prices, wages, rents, mortgages, taxes and public services. The European Commission's euro-transition framework included dual price display and monitoring intended to reduce conversion-related pricing concerns. [European Commission — Bulgaria and the euro](https://economy-finance.ec.europa.eu/euro/eu-countries-and-euro/bulgaria-and-euro_en)
 
-The key productivity question is whether euro-area integration and EU-funded investment raise output per worker quickly enough to offset demographic scarcity.
+The distributional channels are not uniform. Workers in shortage sectors may gain bargaining power. Employers face higher labour costs. Existing homeowners benefit from rising asset values while prospective buyers face worsening affordability. Public wage and social-spending increases support some household incomes but also affect the fiscal balance. Inflation determines how much nominal wage growth becomes real purchasing-power growth.
 
-## 7. Society: euro adoption is also a distributional transition
+**Inference.** The social durability of convergence depends on whether productivity and real incomes improve broadly enough that euro adoption is associated with durable gains rather than merely higher nominal prices and asset values.
 
-The European Commission required dual price display around the euro changeover and Bulgaria maintained consumer-price monitoring during the transition. This reflects a basic political-economy problem: even when the macro case for monetary integration is institutionally strong, households experience the transition through prices, wages, rents, credit costs and perceived fairness. [European Commission](https://economy-finance.ec.europa.eu/euro/eu-countries-and-euro/bulgaria-and-euro_en)
+## 8. Politics and institutions: monetary integration raises the importance of domestic adjustment capacity
 
-The social distribution is uneven:
+Euro membership places monetary policy inside the common Eurosystem framework. National adjustment therefore depends more heavily on fiscal policy, regulation, public investment, labour-market institutions and structural reform.
 
-- wage growth benefits workers with bargaining power, but raises costs for employers;
-- inflation erodes purchasing power where wages lag;
-- rising house prices benefit existing owners and burden new entrants;
-- labour scarcity improves worker leverage in some sectors but constrains expansion;
-- fiscal wage and benefit increases support incomes but worsen the budget balance if not matched by revenue or productivity.
+The IMF describes euro adoption as an opportunity to strengthen policy credibility but also identifies governance, human capital, labour participation and productivity as continuing domestic tasks. The Commission's fiscal forecast illustrates the political constraint: spending pressures in social policy, wages, defence and investment must be reconciled with fiscal sustainability. [IMF](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation) [European Commission](https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en)
 
-**Inference.** The durability of Bulgaria's convergence will depend less on the symbolic success of euro adoption than on whether households perceive rising nominal incomes as real gains after housing, food, energy and taxes.
+This assessment does not take a position on Bulgarian political parties or coalitions. The institutional question is whether governments can convert the credibility and infrastructure gains of euro membership into higher-quality investment, stable fiscal rules and reforms that lift productivity.
 
-## 8. Politics and institutions: policy room narrows as integration deepens
+## 9. Transmission mechanisms
 
-Euro adoption shifts part of monetary authority into common euro-area institutions. That makes domestic fiscal policy, structural reform, regulation and public investment more important as national adjustment tools.
+The transition operates through several channels, none of which is automatic.
 
-The IMF framed euro adoption as an opportunity to reinforce institutions and improve policy credibility, while also emphasising governance reform, human capital and labour participation. [IMF](https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation)
+**Financial infrastructure channel.** Euro membership and full TARGET/ECMS integration standardise settlement and collateral arrangements. This can reduce operational and currency-related friction for eligible transactions. The observable test is whether spreads, issuance conditions, settlement participation, cross-border holdings or corporate financing costs improve after accession. If they do not, institutional integration will have produced less economic transmission than expected.
 
-The political constraint is straightforward: governments face pressure to raise wages, pensions, defence spending and public investment while the fiscal framework requires discipline. The analytical issue is not which political coalition is preferable. It is whether institutions can convert the credibility gain from euro membership into better expenditure composition, implementation capacity and productivity.
+**Fiscal-demand channel.** When public wages, benefits or other recurrent expenditure rise faster than revenue, domestic demand can remain strong even while the deficit widens. If productive capacity does not expand at the same rate, part of that demand can be absorbed by imports or prices. The magnitude depends on household saving, import intensity, investment execution and private-sector supply responses.
 
-## 9. Transmission map
+**Labour-scarcity channel.** A tight labour market strengthens wage bargaining and raises household income, but it also raises employer costs. Firms can respond by investing in automation and higher-value production, accepting lower margins, raising prices, relocating activity or reducing employment. Which response dominates determines whether wage convergence becomes productivity convergence.
 
-```flow
-Euro adoption → lower currency/settlement friction → deeper financial integration → potentially broader capital access
-```
+**Market-access channel.** MSCI Frontier status can make Bulgaria eligible for a wider group of mandates and research processes. Actual portfolio allocation still depends on free float, liquidity, governance, valuation, earnings and available securities. Classification changes the feasible set; it does not determine flows.
 
-```flow
-Fiscal expansion + wage growth → stronger domestic demand → imports/inflation → wider deficit/external balance pressure
-```
+**Housing-credit channel.** If financial integration and domestic liquidity support additional credit while housing supply remains constrained, prices can rise faster than incomes. Macroprudential policy and construction supply are therefore important countervailing channels.
 
-```flow
-Labour scarcity → higher wages → household income + production costs → automation/investment incentive OR margin compression
-```
+## 10. Catalysts and indicators
 
-```flow
-MSCI Frontier reclassification → broader institutional eligibility → more monitoring/possible flows → liquidity test → governance and earnings test
-```
-
-These channels can reinforce or offset one another. The country can become institutionally easier to finance while simultaneously becoming more expensive to produce in.
-
-## 10. Catalysts
-
-### 0–6 months
-- fiscal measures that clarify the 2026 deficit path;
-- inflation persistence after the euro changeover;
-- execution of Recovery and Resilience Plan and other EU-funded investment;
-- portfolio and liquidity response after MSCI reclassification;
-- credit and housing-market indicators.
+### Next 6 months
+- adopted fiscal measures and the realised 2026 deficit path;
+- HICP and services inflation after the euro transition;
+- current-account and trade data with clear distinction between values and national-accounts volumes;
+- mortgage credit and house-price dynamics;
+- BSE turnover, free float and the response to MSCI reclassification;
+- execution of the Recovery and Resilience Plan and other EU-funded investment.
 
 ### 6–24 months
-- whether the deficit moves back toward EU fiscal limits;
-- public-debt trajectory versus nominal GDP growth;
-- evidence of productivity gains from infrastructure and investment;
-- expansion in listed-company free float and market turnover;
-- FDI composition: productive capacity versus property/financial flows;
-- wage growth relative to productivity.
+- debt dynamics relative to nominal GDP;
+- public investment execution and evidence of productivity gains;
+- wages relative to labour productivity;
+- new listings, issuance, free float and foreign participation;
+- FDI composition, especially investment that expands export or processing capacity;
+- labour-force participation and migration.
 
 ### 2–5 years
-- whether euro membership changes the cost and composition of corporate finance;
-- convergence in productivity and income, not only nominal wages;
-- demographic and migration response to labour shortages;
-- depth of the domestic capital market;
-- industrial upgrading and export complexity.
+- whether euro membership produces a measurable change in corporate financing conditions;
+- convergence in productivity and real income rather than nominal wages alone;
+- industrial upgrading and export complexity;
+- depth of domestic capital markets;
+- demographic adjustment through participation, migration and capital deepening.
 
 ## 11. Risk matrix
 
-| Risk | Mechanism | What to watch |
+| Risk | Mechanism | What would reveal it |
 |---|---|---|
-| Fiscal slippage | recurrent spending grows faster than revenue/productivity | deficit, primary balance, wage/benefit rules |
-| Inflation persistence | wages, energy and services keep price growth elevated | HICP, services inflation, unit labour costs |
-| External deterioration | demand/imports outrun exports | current account, trade balance, export volumes |
-| Property/credit overheating | easier finance meets constrained supply | house prices, mortgage credit, bank standards |
-| Market-access disappointment | classification improves but liquidity does not | turnover, free float, new listings, foreign participation |
-| Labour constraint | workforce shrinks while wages rise rapidly | vacancies, manufacturing employment, migration, productivity |
-| Reform fatigue | integration benefits are not matched by domestic institutional improvement | EU-fund execution, governance measures, investment quality |
+| Persistent fiscal slippage | recurrent spending exceeds revenue and productivity growth | deficits, primary balance, expenditure rules, debt path |
+| Inflation persistence | services, wages or energy keep price growth elevated | HICP components, unit labour costs, real wages |
+| External imbalance | domestic demand continues to outpace productive/export capacity | current account, import composition, export volumes |
+| Housing-credit overheating | credit expands faster than supply and income | mortgage growth, house prices, lending standards |
+| Market-access disappointment | reclassification is not followed by greater depth | turnover, free float, listings, foreign holdings |
+| Labour constraint | workforce availability limits output or raises costs | vacancies, participation, migration, manufacturing employment |
+| Weak investment conversion | public/EU capital fails to lift productivity | project completion, capital formation, output per worker |
 
-## 12. Alternative scenarios
+## 12. Conditional scenarios
 
-### Scenario A — Integration converts into productivity
-**Condition:** fiscal policy stabilises, EU-funded investment is executed effectively, financial integration lowers financing friction, and labour scarcity accelerates capital deepening.
-
-**Implication:** wage convergence becomes more sustainable because output per worker rises; the current-account gap narrows over time; market access improves gradually.
+### Scenario A — Institutional integration converts into productive convergence
+Fiscal policy stabilises without collapsing productive investment; EU-funded projects improve infrastructure; firms respond to labour scarcity with capital deepening; and improved market access is followed by broader financing and issuance. Under this condition, wage gains become more sustainable because productivity and export capacity rise with them.
 
 ### Scenario B — Nominal convergence outruns productivity
-**Condition:** wages and public expenditure remain strong while productivity, export performance and labour supply improve slowly.
-
-**Implication:** inflation stays sticky, the fiscal deficit remains above target, import demand stays high and industrial margins come under pressure.
+Wages and recurrent public spending remain strong while productivity, labour supply and exports improve slowly. Inflation and imports remain elevated, deficits persist and industrial margins face pressure. Euro membership still provides institutional integration, but the real-economy convergence is weaker.
 
 ### Scenario C — Market reclassification without market deepening
-**Condition:** MSCI access improves, but free float, issuance, liquidity and governance evolve slowly.
+Operational accessibility continues to improve, but free float, issuance, governance and liquidity expand slowly. Bulgaria becomes more visible within frontier-market research and mandates without becoming a materially larger portfolio destination.
 
-**Implication:** Bulgaria becomes more visible to frontier investors without becoming a materially larger portfolio allocation destination.
+These are conditional paths, not forecasts.
 
-These are conditional scenarios, not forecasts.
+## 13. Evidence against an overly optimistic interpretation
 
-## 13. Evidence that weakens the bullish interpretation of the transition
+Several observations argue against treating the institutional transition as a completed economic success:
 
-A rigorous assessment should preserve the evidence against the most optimistic reading.
-
-- The Commission expects the deficit to exceed 4% of GDP in both 2026 and 2027.
-- Debt is low but rising from a materially higher 2025 base.
-- The current account is widening.
-- Wage and labour-cost growth remain high.
-- Manufacturing employment is contracting.
-- Market reclassification does not create liquidity.
-- Euro membership removes currency risk against the euro, but not sovereign, corporate, governance or valuation risk.
-
-The transition is therefore real, but its outcome remains conditional.
+- the Commission expects deficits above 4% of GDP in 2026 and 2027;
+- public debt remains low but is materially above its Q1 2025 ratio;
+- the Commission forecasts a current-account deficit of 5% of GDP;
+- labour costs and wages are rising quickly while manufacturing employment has fallen;
+- house prices remain elevated;
+- MSCI reclassification improves formal market status but does not guarantee flows or depth;
+- euro membership removes the lev/euro currency distinction but does not remove sovereign, corporate, governance, liquidity or valuation risk.
 
 ## 14. What would change our assessment?
 
-We would strengthen the assessment if:
-- fiscal consolidation occurs without collapsing productive investment;
-- productivity begins to rise faster relative to wages;
-- the current-account deficit narrows because exports and productive capacity improve;
-- new listings, free float and trading depth rise after reclassification;
-- FDI shifts toward higher-value production and export capacity;
-- labour-force participation or net migration improves the supply constraint.
+The current assessment would become **more favourable** if observed data showed several of the following simultaneously: fiscal consolidation without a collapse in productive investment; labour productivity catching up with wage growth; a narrowing current-account deficit associated with stronger exports; sustained increases in BSE turnover, free float, issuance and foreign participation; FDI shifting toward export and processing capacity; and evidence of lower financing costs attributable to deeper euro-area integration.
 
-We would weaken it if:
-- fiscal deficits remain structurally above 4% without a credible adjustment path;
-- wage growth continues to materially exceed productivity;
-- credit and property prices accelerate while investment quality deteriorates;
-- market classification changes but liquidity and listed-company supply remain stagnant;
-- the external deficit widens without a corresponding rise in productive investment.
+The assessment would become **less favourable** if deficits above 4% became persistent without a credible adjustment path; wages continued to materially outpace productivity; mortgage credit and house prices accelerated relative to incomes; the external deficit widened without productive investment; or MSCI reclassification was followed by no durable improvement in liquidity or listed-security supply.
+
+A particularly important falsifier concerns the central institutional thesis: if, over the next several years, euro membership and full TARGET/ECMS integration produce no observable improvement in financing conditions, cross-border participation, settlement efficiency or investment behaviour relative to the pre-accession baseline, then the economic significance of the institutional transition would need to be revised downward.
 
 ## 15. Strategic interpretation
 
-Bulgaria illustrates a broader pattern that Strategic Transitions is designed to capture: **institutional convergence can occur faster than real-economy convergence**.
+Bulgaria illustrates a broader pattern that Strategic Transitions is designed to examine: **institutional convergence can move faster than real-economy convergence**.
 
-The euro and TARGET integration change the country's financial plumbing. MSCI reclassification changes its place in the market-access map. Neither guarantees productivity, fiscal discipline or deep capital markets.
+The observed changes are substantial. The country now belongs to the euro area, operates fully within Eurosystem infrastructure and has returned to MSCI Frontier status. The uncertain part is transmission.
 
-The more important signal is the interaction among them.
+If institutional integration, EU investment and labour scarcity induce higher productivity, better financing and deeper markets, Bulgaria can move from nominal convergence toward deeper economic convergence. If recurrent spending and wages rise faster than productive capacity, the same institutional integration will expose those constraints more clearly rather than remove them.
 
-If Bulgaria converts lower financial friction, EU capital and labour scarcity into higher productivity, it can move from nominal convergence toward deeper economic convergence. If nominal wages and public spending rise faster than productive capacity, the same integration may expose the constraints more clearly.
+The research question is therefore not whether Bulgaria is "cheap" or whether it is a "new opportunity." It is which institutional frictions have demonstrably changed, which economic constraints remain, and which data will show whether integration is becoming productive capacity.
 
-For global investors and firms, the question is therefore not “Is Bulgaria cheap?” or “Is Bulgaria a new opportunity?” It is: **which frictions have disappeared, which constraints remain, and which indicators will show whether institutional integration is becoming productive capacity?**
+## Source ledger and vintages
 
-That is the transition to monitor.
-
-## Source ledger
-
-Primary and institutional sources used in this assessment:
-
-- European Central Bank — *Bulgaria introduces the euro*, 1 Jan 2026: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html
-- European Central Bank — *Bulgaria completes onboarding to all TARGET Services*, 2 Jan 2026: https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260102.en.html
+- ECB — *Bulgaria introduces the euro*, 1 January 2026: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260101~c830245e42.en.html
+- ECB — *Bulgaria completes onboarding to all TARGET Services*, 2 January 2026: https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260102.en.html
+- European Commission — *Economic forecast for Bulgaria*, 21 May 2026: https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en
 - European Commission — *Bulgaria and the euro*: https://economy-finance.ec.europa.eu/euro/eu-countries-and-euro/bulgaria-and-euro_en
-- European Commission — *Economic forecast for Bulgaria*, Spring 2026: https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/bulgaria/economic-forecast-bulgaria_en
-- IMF — *2025 Article IV Consultation with Bulgaria*, 24 Nov 2025: https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation
-- Eurostat — Government debt, Q4 2025 and Q1 2026: https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-22042026-bp and https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap
-- Bulgarian National Statistical Institute — Labour Force Survey Q2 2026: https://www.nsi.bg/en/press-release/main-labour-force-survey-results-9118
-- Bulgarian National Statistical Institute — Employees and wages Q2 2026: https://www.nsi.bg/en/press-release/employees-and-average-wages-and-salaries-9113
-- Bulgarian National Statistical Institute — Key indicators, 3 Jul 2026: https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070
-- MSCI — *2026 Market Classification Review*, 23 Jun 2026: https://ir.msci.com/news-releases/news-release-details/msci-announces-results-msci-2026-market-classification-review
-- Bulgarian Stock Exchange — market data, 10 Sep 2026: https://www.bse-sofia.bg/en/news/id/160778
+- IMF — *2025 Article IV Consultation with Bulgaria*, 24 November 2025: https://www.imf.org/en/news/articles/2025/11/21/pr-25384-bulgaria-imf-executive-board-concludes-2025-article-iv-consultation
+- Eurostat — government debt, Q1 2026 release dated 21 July 2026: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21072026-ap
+- NSI — *Key indicators for Bulgaria*, release dated 3 July 2026; used for Q1 national-accounts export/import/investment, Q1 labour costs, Q1 house prices, January-April balance-of-payments data and June labour-shortage survey: https://www.nsi.bg/en/press-release/key-indicators-for-bulgaria-9070
+- NSI — *Main Labour Force Survey Results — Q2 2026*, 14 August 2026: https://www.nsi.bg/en/press-release/main-labour-force-survey-results-9118
+- NSI — *Employees and average wages and salaries — Q2 2026*, August 2026: https://www.nsi.bg/en/press-release/employees-and-average-wages-and-salaries-9113
+- MSCI — *2026 Market Classification Review*, 23 June 2026: https://ir.msci.com/news-releases/news-release-details/msci-announces-results-msci-2026-market-classification-review
+- Bulgarian Stock Exchange — market snapshot, 10 September 2026: https://bse-sofia.bg/en/news/id/160781
 
-**Limitations.** Market-liquidity observations are sensitive to individual trading days and should not be extrapolated mechanically. Fiscal and macro forecasts are subject to revision. The analysis does not constitute investment advice and does not rank political actors or investment choices.
+**Limitations.** Forecasts are subject to revision. Balance-of-payments values and national-accounts volume measures are different statistical concepts and are kept separate in the analysis. A single BSE trading day is illustrative, not a structural liquidity estimate. The assessment does not constitute investment advice and does not rank political actors or political choices.
