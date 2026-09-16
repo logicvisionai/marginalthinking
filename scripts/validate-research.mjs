@@ -68,7 +68,7 @@ if(taxonomy.version!==cfg.editorial_architecture_version)fail.push(`taxonomia ${
 if(taxonomy.status!=='frozen')fail.push('data/taxonomy.json: status deve permanecer frozen');
 if(JSON.stringify(dimensionKeys)!==JSON.stringify([...expectedDimensions].sort()))fail.push('data/taxonomy.json: dimensões canônicas devem ser exatamente economy, politics, society');
 if(JSON.stringify(programKeys)!==JSON.stringify([...expectedPrograms].sort()))fail.push('data/taxonomy.json: programas canônicos divergiram da arquitetura editorial congelada');
-for(const key of ['topics','formats','regions','subregions'])if(!taxonomy[key]||typeof taxonomy[key]!=='object')fail.push(`data/taxonomy.json sem ${key}`);
+for(const key of ['topics','formats','regions','subregions','phenomena','cross_cutting_lenses'])if(!taxonomy[key]||typeof taxonomy[key]!=='object')fail.push(`data/taxonomy.json sem ${key}`);
 if(!Array.isArray(taxonomy.geography_levels)||!taxonomy.geography_levels.length)fail.push('data/taxonomy.json sem geography_levels');
 if(!Array.isArray(taxonomy.cadences)||!taxonomy.cadences.length)fail.push('data/taxonomy.json sem cadences');
 if(taxonomy.governance?.automations_may_extend_taxonomy!==false)fail.push('data/taxonomy.json: automations_may_extend_taxonomy deve ser false');
@@ -89,6 +89,13 @@ function validateTaxonomy(item){
   if(!Array.isArray(item.topics)||item.topics.length<2)fail.push(`${id}: topics deve conter ao menos dois tópicos controlados`);
   if(new Set(item.topics||[]).size!==(item.topics||[]).length)fail.push(`${id}: topics contém duplicação`);
   for(const t of item.topics||[])if(!taxonomy.topics?.[t])fail.push(`${id}: topic inválido (${t})`);
+  if(item.phenomena!==undefined){
+    if(!Array.isArray(item.phenomena))fail.push(`${id}: phenomena deve ser array quando presente`);
+    else{
+      if(new Set(item.phenomena).size!==item.phenomena.length)fail.push(`${id}: phenomena contém duplicação`);
+      for(const ph of item.phenomena)if(!taxonomy.phenomena?.[ph])fail.push(`${id}: phenomenon inválido (${ph})`);
+    }
+  }
   const g=item.geography;
   if(!g||typeof g!=='object')return fail.push(`${id}: geography ausente`);
   if(!taxonomy.geography_levels?.includes(g.level))fail.push(`${id}: geography.level inválido (${g.level||'ausente'})`);
@@ -120,7 +127,7 @@ for(const item of reports){
     if((v?.deck||'').length>320)warn.push(`${item.id}/${locale}: deck muito longo para meta description`);
   }
 }
-for(const file of ['EDITORIAL-ARCHITECTURE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
+for(const file of ['EDITORIAL-ARCHITECTURE.md','CONFLICT-SECURITY-SOCIAL-CHANGE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
 console.log(`Research validation OK: ${reports.length} bilingual publications; editorial architecture ${taxonomy.version}; ${Object.keys(taxonomy.programs||{}).length} programs; controlled taxonomy; English-first.`);
