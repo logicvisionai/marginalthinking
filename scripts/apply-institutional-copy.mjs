@@ -4,8 +4,10 @@ import path from 'node:path';
 const root=process.cwd();
 const basePath=path.join(root,'data','i18n.json');
 const overridePath=path.join(root,'data','institutional-copy.json');
+const positioningPath=path.join(root,'data','institutional-positioning.json');
 const base=JSON.parse(fs.readFileSync(basePath,'utf8'));
 const overrides=JSON.parse(fs.readFileSync(overridePath,'utf8'));
+const positioning=JSON.parse(fs.readFileSync(positioningPath,'utf8'));
 
 function merge(target, source){
   for(const [key,value] of Object.entries(source)){
@@ -18,10 +20,15 @@ function merge(target, source){
   return target;
 }
 
-for(const [locale,copy] of Object.entries(overrides)){
-  if(!base[locale]) throw new Error(`Unknown locale in institutional copy: ${locale}`);
-  merge(base[locale],copy);
+function applyLayer(layer,label){
+  for(const [locale,copy] of Object.entries(layer)){
+    if(!base[locale]) throw new Error(`Unknown locale in ${label}: ${locale}`);
+    merge(base[locale],copy);
+  }
 }
+
+applyLayer(overrides,'institutional copy');
+applyLayer(positioning,'institutional positioning');
 
 const serialized=JSON.stringify(base);
 const banned=[
@@ -48,4 +55,4 @@ const found=banned.filter(x=>serialized.toLowerCase().includes(x.toLowerCase()))
 if(found.length) throw new Error(`Institutional copy still contains banned editorial patterns: ${found.join(', ')}`);
 
 fs.writeFileSync(basePath,JSON.stringify(base,null,2)+'\n','utf8');
-console.log('Institutional copy applied to EN and pt-BR.');
+console.log('Institutional copy and positioning applied to EN and pt-BR.');
