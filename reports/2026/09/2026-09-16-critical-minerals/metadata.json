@@ -1,0 +1,45 @@
+{
+  "id": "MT-EMIS-2026-09-16-critical-minerals",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T12:32:00-03:00",
+  "kind": "monthly-strategic-technology",
+  "priority": 22,
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "strategic-advanced-materials",
+  "related_programs": ["global-system-power", "political-economy-markets"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["commodities-resources", "industry-production", "trade-investment", "geopolitics-security", "capital-markets"],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "url": "/reports/2026/09/2026-09-16-critical-minerals.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-16T12:47:00-03:00",
+  "qa_confidence": "high",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Critical Minerals in 2026: The Strategic Constraint Is Moving Downstream",
+      "deck": "Resource ownership is only one layer of mineral power: refining, smelting, advanced materials and component manufacturing increasingly determine usable industrial supply.",
+      "tags": ["Critical Minerals", "Copper", "Materials", "Refining", "Supply Chains"],
+      "keywords": ["critical minerals", "copper", "rare earths", "graphite", "refining", "smelting", "advanced materials", "processing", "supply chains"],
+      "regime": "Mining diversification advancing alongside persistent or rising concentration in key downstream processing stages",
+      "key_risk": "Reserve and mine data may be mistaken for diversified industrial supply while processing and advanced-material capacity remain concentrated.",
+      "watch": ["refining concentration", "copper project pipeline", "smelting utilization", "export controls", "downstream FIDs", "recycling", "public finance"],
+      "search_text": "critical minerals copper rare earths graphite refining smelting processing advanced materials magnets cathodes anodes industrial supply chains concentration"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Minerais críticos em 2026: a restrição estratégica se desloca para o processamento",
+      "deck": "A propriedade do recurso é apenas uma camada do poder mineral: refino, fundição, materiais avançados e componentes determinam cada vez mais a oferta industrial utilizável.",
+      "tags": ["Minerais Críticos", "Cobre", "Materiais", "Refino", "Cadeias de Suprimento"],
+      "keywords": ["minerais críticos", "cobre", "terras raras", "grafite", "refino", "fundição", "materiais avançados", "processamento", "cadeias de suprimento"],
+      "regime": "Diversificação da mineração avançando ao lado de concentração persistente ou crescente em etapas críticas de processamento",
+      "key_risk": "Dados de reservas e minas podem ser confundidos com oferta industrial diversificada enquanto processamento e materiais avançados permanecem concentrados.",
+      "watch": ["concentração no refino", "pipeline de cobre", "utilização de fundições", "controles de exportação", "decisões a jusante", "reciclagem", "financiamento público"],
+      "search_text": "minerais críticos cobre terras raras grafite refino fundição processamento materiais avançados ímãs cátodos ânodos cadeias industriais concentração"
+    }
+  }
+}

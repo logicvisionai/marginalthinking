@@ -6,7 +6,7 @@
 
 This document is the normative editorial architecture for Marginal Thinking. It exists to prevent the publication from becoming a collection of unrelated verticals, country pages, market themes and product names.
 
-The machine-readable counterpart is [`data/taxonomy.json`](./data/taxonomy.json). When prose and taxonomy conflict, both must be reconciled before new research is published. Automations may use the existing taxonomy but may not create a new research program, dimension, region, topic family or publication format on their own.
+The machine-readable counterpart is [`data/taxonomy.json`](./data/taxonomy.json). When prose and taxonomy conflict, both must be reconciled before new research is published. Automations may use the existing taxonomy but may not create a new research program, controlled series, series domain, dimension, region, topic family or publication format on their own.
 
 ## 1. Core identity
 
@@ -62,11 +62,28 @@ Studies technologies through demonstrated capability, deployment, industrial sca
 
 Technology is not treated as a separate futurist news vertical. The analytical chain is technical capability → engineering → deployment → scale → economics → production → institutions → society.
 
+#### Controlled series: Energy, Materials & Industrial Systems
+
+`energy-materials-industrial-systems` is a controlled product series inside Technology, Production & Society. It is **not a fifth research program** and it does not receive a top-level navigation item.
+
+The series studies how energy, materials and industrial systems change costs, productive capacity, dependencies, capital allocation and economic or strategic capability. Its recurring analytical chain is:
+
+**resource → technology → production → infrastructure → cost → scale → dependencies → capital → capacity/power → consequences**
+
+It has exactly four controlled domains:
+
+- `electricity-systems` — Electricity Systems / Sistemas Elétricos;
+- `fuels-energy-carriers` — Fuels & Energy Carriers / Combustíveis & Vetores Energéticos;
+- `strategic-advanced-materials` — Strategic & Advanced Materials / Materiais Estratégicos & Avançados;
+- `industrial-capacity-supply-chains` — Industrial Capacity & Supply Chains / Capacidade Industrial & Cadeias de Suprimento.
+
+The detailed inclusion test, evidence standard and release checklist are defined in [`ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`](./ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md).
+
 ## 3. Geography is an access axis, not an editorial program
 
 `Countries & Regions` organizes research geographically. It does not create additional research programs.
 
-A single report can therefore be found through its program, region, country and topics without being copied or republished.
+A single report can therefore be found through its program, controlled series where applicable, region, country and topics without being copied or republished.
 
 Geographic levels are:
 
@@ -87,7 +104,7 @@ Free-form `tags` and `keywords` may still be used for search and article-specifi
 
 An automation must never create a new controlled topic because a report contains an unfamiliar concept. It must use the nearest valid topic and preserve the specific term as a tag or keyword. A new controlled topic requires an explicit human editorial change to `data/taxonomy.json`.
 
-## 5. Publication format is separate from subject
+## 5. Publication format and series are separate from subject
 
 The controlled publication formats are:
 
@@ -98,7 +115,7 @@ The controlled publication formats are:
 - `monitor` — recurring indicator and change monitor;
 - `data-note` — narrow evidence or dataset note.
 
-A series name such as `Global Macro`, `Global Wealth & Power Flows` or a future `Strategic Transitions Atlas` is a product series, not a new format or program.
+A series name such as `Global Macro`, `Global Wealth & Power Flows`, `Energy, Materials & Industrial Systems` or a future `Strategic Transitions Atlas` is a product series, not a new format or program. Only series registered in the controlled taxonomy may receive a canonical series landing page or structured series metadata.
 
 Cadence is also separate and uses `event-driven`, `daily`, `weekly`, `monthly`, `quarterly` or `annual`.
 
@@ -119,6 +136,9 @@ Canonical collection routes are reserved as follows:
 /research/<program>/
 /pt-br/research/<program>/
 
+/series/<series>/
+/pt-br/series/<series>/
+
 /regions/<region>/
 /pt-br/regions/<region>/
 
@@ -129,7 +149,7 @@ Canonical collection routes are reserved as follows:
 /pt-br/topics/<topic>/
 ```
 
-Publication format and cadence should normally be filters in the research archive rather than separate top-level navigation sections.
+A controlled series may expose domain collections below its landing page, but those domains do not become primary navigation items. Publication format and cadence should normally be filters in the research archive rather than separate top-level navigation sections.
 
 ## 7. Navigation discipline
 
@@ -142,7 +162,7 @@ The primary navigation must remain small. Version 1.0 allows:
 
 The logo is the Home link. `Data` remains contextual until Marginal Thinking maintains enough first-party datasets to justify a permanent top-level destination.
 
-Programs appear inside Research and on the home page; they do not each become a top-level navigation item.
+Programs appear inside Research and on the home page; they do not each become a top-level navigation item. Controlled series may be featured contextually on the home page or inside their parent program, but they do not expand the global navigation.
 
 ## 8. Required metadata contract
 
@@ -177,6 +197,17 @@ Rules:
 - a `country-dossier` requires `geography.level = country` and at least one country;
 - tags and keywords remain free-form and multilingual.
 
+A publication belonging to a controlled series additionally declares:
+
+```json
+{
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "electricity-systems"
+}
+```
+
+`series` and `series_domain` must match the controlled registry in `data/taxonomy.json`. The Energy, Materials & Industrial Systems series must retain `technology-production-society` as its primary program.
+
 ## 9. Strategic Transitions editorial test
 
 A study belongs in Strategic Transitions only when there is evidence of a consequential transition. Selection should not be driven by novelty alone.
@@ -201,11 +232,12 @@ A causal claim should state the mechanism. For example, a fiscal reform is not o
 
 Related research should be determined in this order when the data are available:
 
-1. same primary program;
-2. shared country or region;
-3. shared controlled topics;
-4. related program;
-5. free-form tags as a final search aid.
+1. same controlled series and domain, where applicable;
+2. same primary program;
+3. shared country or region;
+4. shared controlled topics;
+5. related program;
+6. free-form tags as a final search aid.
 
 This prevents a loose tag from becoming more important than the publication’s actual research architecture.
 
@@ -213,24 +245,25 @@ This prevents a loose tag from becoming more important than the publication’s 
 
 English remains the source locale and default public language. Brazilian Portuguese is the required official secondary edition.
 
-Taxonomy identifiers are language-neutral slugs. Display labels are localized. Translation may adapt syntax and terminology but must not alter program, dimensions, geography, topics, format, cadence, evidence status, numbers or analytical conclusion.
+Taxonomy identifiers are language-neutral slugs. Display labels are localized. Translation may adapt syntax and terminology but must not alter program, series, series domain, dimensions, geography, topics, format, cadence, evidence status, numbers or analytical conclusion.
 
 ## 13. Automation governance
 
-Automated producers, QA and publishers must read this document and `data/taxonomy.json` before writing or approving public research.
+Automated producers, QA and publishers must read this document and `data/taxonomy.json` before writing or approving public research. Producers working on Energy, Materials & Industrial Systems must also read `ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`.
 
 Automations may:
 
-- assign existing programs, dimensions, regions, topics, formats and cadence;
+- assign existing programs, controlled series and series domains, dimensions, regions, topics, formats and cadence;
 - use free-form tags and keywords for specific entities;
 - propose an unmatched concept in QA notes.
 
 Automations may not:
 
 - create a fifth research program;
-- turn a country, asset class, technology or commodity into a new top-level editorial vertical;
+- create a new controlled series or series domain;
+- turn a country, asset class, technology, fuel, material or commodity into a new top-level editorial vertical;
 - add a new controlled topic, region or format silently;
-- rename a permanent program;
+- rename a permanent program or controlled series;
 - create a public country ranking or investment league table as a substitute for analysis;
 - rewrite global navigation or institutional architecture during routine publication.
 

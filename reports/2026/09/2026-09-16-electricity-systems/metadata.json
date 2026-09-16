@@ -1,0 +1,45 @@
+{
+  "id": "MT-EMIS-2026-09-16-electricity-systems",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T12:30:00-03:00",
+  "kind": "monthly-strategic-technology",
+  "priority": 20,
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "electricity-systems",
+  "related_programs": ["global-system-power", "political-economy-markets"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["energy", "infrastructure-logistics", "industry-production", "technology-innovation", "capital-markets"],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "url": "/reports/2026/09/2026-09-16-electricity-systems.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-16T12:45:00-03:00",
+  "qa_confidence": "high",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Electricity Systems in 2026: Generation Is Scaling Faster Than the Grid",
+      "deck": "Generation and storage are expanding faster than the networks that must connect, transmit and balance them, shifting scarcity toward grids, flexibility and electrical equipment.",
+      "tags": ["Energy", "Electricity", "Grids", "Storage", "Infrastructure"],
+      "keywords": ["electricity systems", "power grid", "transmission", "distribution", "connection queues", "renewable capacity", "storage", "transformers"],
+      "regime": "Rapid generation and load growth with slower expansion of grid connection, transmission and equipment capacity",
+      "key_risk": "Installed generation capacity may be mistaken for deliverable electricity while network, flexibility and equipment constraints are ignored.",
+      "watch": ["connection queues", "grid investment", "curtailment", "transformer lead times", "storage deployment", "interconnection times"],
+      "search_text": "electricity systems grid transmission distribution interconnection renewables storage curtailment connection queues transformers cables industrial capacity"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Sistemas elétricos em 2026: a geração cresce mais rápido do que a rede",
+      "deck": "Geração e armazenamento avançam mais rapidamente do que as redes que precisam conectá-los, transmiti-los e equilibrá-los, deslocando a escassez para rede, flexibilidade e equipamentos elétricos.",
+      "tags": ["Energia", "Eletricidade", "Redes", "Armazenamento", "Infraestrutura"],
+      "keywords": ["sistemas elétricos", "rede elétrica", "transmissão", "distribuição", "filas de conexão", "capacidade renovável", "armazenamento", "transformadores"],
+      "regime": "Crescimento rápido de geração e carga com expansão mais lenta de conexão, transmissão e capacidade de equipamentos",
+      "key_risk": "Capacidade instalada de geração pode ser confundida com eletricidade efetivamente entregável quando rede, flexibilidade e equipamentos são ignorados.",
+      "watch": ["filas de conexão", "investimento em redes", "cortes de geração", "prazos de transformadores", "armazenamento", "tempo de interconexão"],
+      "search_text": "sistemas elétricos rede transmissão distribuição interconexão renováveis armazenamento curtailment filas de conexão transformadores cabos capacidade industrial"
+    }
+  }
+}

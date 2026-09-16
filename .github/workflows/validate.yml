@@ -36,5 +36,7 @@ jobs:
           test -f dist/reports.html
           test -f dist/research/index.html
           test -f dist/regions/index.html
+          test -f dist/series/energy-materials-industrial-systems/index.html
+          test -f dist/pt-br/series/energy-materials-industrial-systems/index.html
           test -f dist/data/taxonomy.json
           echo "Static site validation completed."

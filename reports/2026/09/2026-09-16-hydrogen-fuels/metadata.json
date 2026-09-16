@@ -1,0 +1,45 @@
+{
+  "id": "MT-EMIS-2026-09-16-hydrogen-fuels",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T12:31:00-03:00",
+  "kind": "monthly-strategic-technology",
+  "priority": 21,
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "fuels-energy-carriers",
+  "related_programs": ["global-system-power", "political-economy-markets"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["energy", "industry-production", "technology-innovation", "trade-investment", "capital-markets"],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "url": "/reports/2026/09/2026-09-16-hydrogen-fuels.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-16T12:46:00-03:00",
+  "qa_confidence": "high",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Low-Emissions Hydrogen in 2026: The Market Is Moving from Announced Capacity to Contracted Demand",
+      "deck": "The 2030 hydrogen pipeline is contracting as projects encounter the harder tests of firm offtake, infrastructure, delivered cost and financing.",
+      "tags": ["Energy", "Hydrogen", "Fuels", "Industry", "Infrastructure"],
+      "keywords": ["low-emissions hydrogen", "hydrogen", "ammonia", "methanol", "e-fuels", "SAF", "offtake", "electrolysis", "industrial demand"],
+      "regime": "Project selection shifting from announced production capacity toward firm demand, infrastructure and finance",
+      "key_risk": "Announced project pipelines may be mistaken for future supply even when investment decisions and firm buyers are absent.",
+      "watch": ["firm offtake", "final investment decisions", "operating production", "electrolysis capacity", "industrial conversions", "delivered cost"],
+      "search_text": "hydrogen fuels energy carriers ammonia methanol e-fuels sustainable aviation fuel offtake electrolysis industrial demand infrastructure finance"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Hidrogênio de baixa emissão em 2026: o mercado migra de capacidade anunciada para demanda contratada",
+      "deck": "O pipeline de hidrogênio para 2030 encolhe à medida que projetos enfrentam testes mais duros de contratos firmes, infraestrutura, custo entregue e financiamento.",
+      "tags": ["Energia", "Hidrogênio", "Combustíveis", "Indústria", "Infraestrutura"],
+      "keywords": ["hidrogênio de baixa emissão", "hidrogênio", "amônia", "metanol", "e-fuels", "SAF", "contratos de compra", "eletrólise", "demanda industrial"],
+      "regime": "Seleção de projetos deslocando-se de capacidade anunciada para demanda firme, infraestrutura e financiamento",
+      "key_risk": "Pipelines anunciados podem ser confundidos com oferta futura mesmo sem decisões de investimento e compradores firmes.",
+      "watch": ["contratos firmes", "decisões finais de investimento", "produção operacional", "capacidade de eletrólise", "conversões industriais", "custo entregue"],
+      "search_text": "hidrogênio combustíveis vetores energéticos amônia metanol e-fuels combustível sustentável aviação contratos eletrólise demanda industrial infraestrutura financiamento"
+    }
+  }
+}

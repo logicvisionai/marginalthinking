@@ -29,6 +29,35 @@
       "pt-BR": "Tecnologia, Produção & Sociedade"
     }
   },
+  "series": {
+    "energy-materials-industrial-systems": {
+      "program": "technology-production-society",
+      "en": "Energy, Materials & Industrial Systems",
+      "pt-BR": "Energia, Materiais & Sistemas Industriais",
+      "description": {
+        "en": "Research on how energy, materials and industrial systems change costs, productive capacity, dependencies, capital allocation and economic or strategic capability.",
+        "pt-BR": "Pesquisa sobre como energia, materiais e sistemas industriais alteram custos, capacidade produtiva, dependências, alocação de capital e capacidades econômicas ou estratégicas."
+      },
+      "domains": {
+        "electricity-systems": {
+          "en": "Electricity Systems",
+          "pt-BR": "Sistemas Elétricos"
+        },
+        "fuels-energy-carriers": {
+          "en": "Fuels & Energy Carriers",
+          "pt-BR": "Combustíveis & Vetores Energéticos"
+        },
+        "strategic-advanced-materials": {
+          "en": "Strategic & Advanced Materials",
+          "pt-BR": "Materiais Estratégicos & Avançados"
+        },
+        "industrial-capacity-supply-chains": {
+          "en": "Industrial Capacity & Supply Chains",
+          "pt-BR": "Capacidade Industrial & Cadeias de Suprimento"
+        }
+      }
+    }
+  },
   "geography_levels": ["global", "region", "country", "multi-country"],
   "regions": {
     "africa": {"en": "Africa", "pt-BR": "África"},
@@ -89,12 +118,15 @@
   "routes": {
     "reports": "/reports/YYYY/MM/<slug>.html",
     "program": "/research/<program>/",
+    "series": "/series/<series>/",
     "region": "/regions/<region>/",
     "country": "/countries/<country>/",
     "topic": "/topics/<topic>/"
   },
   "governance": {
     "program_creation": "human-editorial-change-only",
+    "series_creation": "human-editorial-change-only",
+    "series_domain_creation": "human-editorial-change-only",
     "controlled_topic_creation": "human-editorial-change-only",
     "region_creation": "human-editorial-change-only",
     "format_creation": "human-editorial-change-only",

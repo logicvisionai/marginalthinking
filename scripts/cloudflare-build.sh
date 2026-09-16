@@ -22,6 +22,9 @@ node scripts/render-site.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs
+# Controlled product series remain subordinate to permanent programs and receive
+# their own collection pages without expanding the global navigation.
+node scripts/render-series-pages.mjs
 # Keep the homepage aligned with the same four canonical programs used by the taxonomy.
 node scripts/inject-program-home.mjs
 # Countries & Regions becomes a stable access axis without becoming a new editorial program.
@@ -33,6 +36,7 @@ node scripts/style-evidence-labels.mjs
 node scripts/final-public-language.mjs
 node scripts/harden-output.mjs
 node scripts/validate-taxonomy-output.mjs
+node scripts/validate-series.mjs --dist
 node scripts/validate-dist.mjs
 
 # Analytics is optional and never blocks publishing research.
@@ -53,4 +57,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled collection pages, taxonomy-ranked related research, geographic navigation, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, institutional copy reviewed, responsive output validated.'
