@@ -1,0 +1,40 @@
+name: Validate Marginal Thinking
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate and build
+        run: npm run build
+
+      - name: Verify generated site
+        run: |
+          test -f dist/index.html
+          test -f dist/reports.html
+          test -f dist/research/index.html
+          test -f dist/regions/index.html
+          test -f dist/data/taxonomy.json
+          echo "Static site validation completed."
