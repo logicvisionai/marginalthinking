@@ -1,0 +1,82 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-09-16",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-16T13:20:00-03:00",
+  "reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f",
+  "pending_blob_sha": "b5a2f6a2749bd23ae08847d41353321a4d4cae14",
+  "source_blob_shas": {
+    "en": "6eab3e6607a135529e974fa26c3f3adc72888503",
+    "pt-BR": "6347b4517b29073dc62f7a76d4a0f9981c0b4952"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "pipeline": "passed: new unpublished item uses schema v2, source_locale en, bilingual staged Markdown sources and immutable SHA binding",
+    "taxonomy": "passed: taxonomy 1.0; global-system-power; related political-economy-markets; economy/politics; global geography; controlled topics; monitor/weekly",
+    "translation": "passed: EN and PT-BR preserve thesis, figures, evidence status, confidence, horizons, limitations and source set",
+    "numbers_sources": "passed for central claims against Treasury TIC, IMF COFER, BIS international banking statistics, UNCTAD WIR 2026 materials, EIA September STEO, IEA Global Critical Minerals Outlook 2026 and WGC Q2 2026",
+    "temporal": "passed: June TIC correctly identified as latest available at cutoff; July release explicitly scheduled after cutoff; quarterly and annual series are dated and not presented as weekly observations",
+    "methodology": "passed: stock, flow, valuation, income redistribution and ownership/control are distinguished; bank claims and portfolio positions are not added as net wealth; announced greenfield value is not treated as realized capex",
+    "language": "passed: causal mechanisms are generally explicit; PT-BR is natural and EN idiomatic; technical terms are contextualized",
+    "coherence": "passed: tables and narrative are materially consistent and conclusions do not require a wholesale relocation of existing financial wealth"
+  },
+  "contrary_evidence": [
+    "The latest COFER quarter shows the dollar share rising to 57.13%, partly because of FX valuation, which argues against an abrupt break from the dollar reserve system.",
+    "Central-bank gold purchases were only 57 tonnes in revised Q1 2026 before rebounding to 289 tonnes in Q2, rejecting a smooth continuously accelerating diversification path.",
+    "UNCTAD notes that the 2025 FDI rebound was narrow and concentrated; announced greenfield projects do not guarantee realized productive investment.",
+    "Rare-earth refining concentration declined modestly between 2023 and 2025, providing a counterexample to a universal increase in processing concentration."
+  ],
+  "limitations": [
+    "The monitor combines datasets with different frequencies and publication lags; it therefore cannot establish a literal weekly global capital-flow total.",
+    "World Gold Council official-sector demand is an estimate because no single official source provides timely complete global physical central-bank purchases.",
+    "TIC geographic attribution is affected by custodians and financial centres and should not be read as ultimate beneficial ownership.",
+    "Several productive-investment conclusions rely on announced greenfield project values and forward electricity forecasts rather than completed capital expenditure.",
+    "The EIA September 2026 outlook is forecast-based and depends on assumptions about Middle East export constraints and oil-market normalization."
+  ],
+  "notes": "Approved as a bilingual weekly monitor. Central quantitative claims were corroborated and the report explicitly avoids invalid aggregation of financial positions, reserves, resource values and physical infrastructure. Confidence remains medium because several structural series are lagged or estimated and some forward-looking energy/infrastructure conclusions depend on forecasts and announced projects.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-09-16",
+    "slug": "2026-09-16-global-wealth-flow-weekly",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
+        "title": "Global Wealth Flow Monitor — 16 September 2026",
+        "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
+        "tags": ["global capital flows", "official reserves", "gold", "critical minerals", "AI infrastructure"],
+        "keywords": ["TIC", "COFER", "BIS", "FDI", "gold", "oil", "data centres", "critical minerals"],
+        "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
+        "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
+        "watch": ["July TIC release and revisions", "2026Q2 COFER", "central-bank gold purchases", "cross-border bank credit", "Brent and Hormuz flows", "electricity demand and data-centre interconnections", "critical-mineral refining projects"],
+        "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-16-global-wealth-flow-weekly/pt-BR.md",
+        "title": "Global Wealth Flow Monitor — 16 de setembro de 2026",
+        "deck": "O capital permanece concentrado nos mercados financeiros dos EUA enquanto o investimento produtivo incremental se desloca para segurança energética, infraestrutura de IA e processamento mineral.",
+        "tags": ["fluxos globais de capital", "reservas oficiais", "ouro", "minerais críticos", "infraestrutura de IA"],
+        "keywords": ["TIC", "COFER", "BIS", "FDI", "ouro", "petróleo", "data centers", "minerais críticos"],
+        "regime": "Concentração financeira nos EUA acompanhada de maior concentração do novo investimento produtivo estratégico",
+        "key_risk": "Choques persistentes de energia podem elevar inflação e custo de financiamento enquanto processamento concentrado transmite choques de oferta.",
+        "watch": ["TIC de julho e revisões", "COFER do 2T26", "compras de ouro por bancos centrais", "crédito bancário transfronteiriço", "Brent e fluxos via Hormuz", "demanda elétrica e conexão de data centers", "projetos de refino mineral"],
+        "search_text": "fluxos globais capital reservas ouro TIC BIS FDI energia minerais críticos IA data centers eletricidade refino setembro 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": ["political-economy-markets"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "topics": ["capital-markets", "trade-investment", "energy", "commodities-resources", "industry-production", "technology-innovation", "infrastructure-logistics", "currencies", "sovereign-debt", "banking-credit"],
+    "format": "monitor",
+    "cadence": "weekly"
+  }
+}
