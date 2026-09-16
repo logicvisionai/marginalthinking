@@ -30,6 +30,7 @@ node scripts/editorial-final-cleanup.mjs
 node scripts/style-evidence-labels.mjs
 node scripts/final-public-language.mjs
 node scripts/harden-output.mjs
+node scripts/validate-taxonomy-output.mjs
 node scripts/validate-dist.mjs
 
 # Analytics is optional and never blocks publishing research.
