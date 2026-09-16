@@ -1,0 +1,142 @@
+{
+  "en": {
+    "site_description": "Independent research on how capital, resources, productive capacity and power are distributed, how they shift, and what economic, political and strategic consequences emerge from those movements.",
+    "footer": {
+      "intro": "Independent research on capital, resources, productive capacity and power."
+    },
+    "home": {
+      "title": "Capital, resources, production and power in motion.",
+      "deck": "Marginal Thinking examines how power, capital, resources and productive capacity are distributed, how they are shifting, and what economic, political and strategic consequences emerge from those movements.",
+      "program_items": [
+        {
+          "label": "01",
+          "title": "Global Macro",
+          "text": "Interest rates, currencies, credit, debt, liquidity, commodities and capital flows, with emphasis on the mechanisms that transmit change across markets and economies."
+        },
+        {
+          "label": "02",
+          "title": "Wealth & Power",
+          "text": "The distribution and movement of reserves, gold, sovereign capital, energy, critical minerals, infrastructure, real assets and industrial capacity."
+        },
+        {
+          "label": "03",
+          "title": "Political Economy",
+          "text": "How institutions, fiscal and industrial policy, conflict, technology and domestic coalitions alter incentives, economic capacity and the room for action available to states and firms."
+        }
+      ]
+    },
+    "method": {
+      "deck": "How we turn evidence on capital, resources, production, institutions and markets into assessments of distribution, movement, constraints and consequences."
+    },
+    "about": {
+      "deck": "Research on how capital, resources, productive capacity and power are distributed, how they shift, and what economic, political and strategic consequences follow.",
+      "sections": [
+        {
+          "title": "What Marginal Thinking studies",
+          "text": "Marginal Thinking studies how capital, resources, productive capacity and power are distributed across countries, markets and institutions; how those distributions change; and what economic, political and strategic consequences follow. The unit of analysis is not the headline itself, but the movement underneath it: financing, production, trade, access to resources, institutional capacity and the constraints facing states and firms."
+        },
+        {
+          "title": "One system, not isolated subjects",
+          "text": "Macroeconomics, markets, political economy and geopolitics are treated as connected when the mechanism connects them. A change in interest rates can alter currencies, public financing, capital allocation and investment. An energy disruption can affect trade balances, inflation, industrial output and fiscal policy. A geopolitical dispute can matter because it changes logistics, access to technology, productive capacity, financing or resources."
+        },
+        {
+          "title": "What we track",
+          "text": "Research follows both stocks and flows: reserves, gold, sovereign assets, debt, installed capacity and resource endowments on one side; investment, trade, issuance, repayment, capital movement and changes in ownership on the other. Price and exchange-rate effects are separated from actual changes in quantity or control whenever the data allow."
+        },
+        {
+          "title": "Why the name",
+          "text": "In economics, marginal analysis asks what changes when a constraint, price, incentive or additional unit changes. The name reflects the same concern at a broader scale. We are interested not only in where capital, production, resources and power are concentrated today, but in what is changing at the margin, which actors are gaining or losing capacity and whether those changes are large enough to alter the wider system."
+        },
+        {
+          "title": "How we treat power",
+          "text": "Power is not used as an abstract label. Research looks for the capabilities and constraints behind it: financing, fiscal room, industrial output, infrastructure, energy and resource access, technology, logistics, institutions, alliances and, when relevant, military capacity. Stated objectives are assessed separately from the means available to pursue them."
+        },
+        {
+          "title": "What an assessment means",
+          "text": "Reports distinguish observable evidence from analytical inference and conditional scenarios. Conclusions are tied to the information available at a stated date, and they are revised when new evidence materially changes the assessment. The aim is to make the mechanism, uncertainty and conditions for revision visible."
+        },
+        {
+          "title": "Who the research is for",
+          "text": "Marginal Thinking is written for readers who need to understand the mechanisms behind economic and political change: investors, business leaders, researchers, policy professionals, market participants and other readers working with capital allocation, strategy or public affairs. Technical detail is included when it changes the analysis."
+        },
+        {
+          "title": "The archive as an analytical record",
+          "text": "The archive preserves past assessments so they can be compared with later evidence. It records what was known at the time, which mechanisms were considered important, what scenarios were conditional on, and which subsequent developments confirmed, weakened or overturned the original interpretation."
+        }
+      ]
+    },
+    "author": {
+      "description": "Author of Marginal Thinking research on capital, resources, productive capacity, macroeconomics, political economy and geopolitics."
+    }
+  },
+  "pt-BR": {
+    "site_description": "Pesquisa independente sobre como capital, recursos, capacidade produtiva e poder estão distribuídos, como se deslocam e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.",
+    "footer": {
+      "intro": "Pesquisa independente sobre capital, recursos, capacidade produtiva e poder."
+    },
+    "home": {
+      "title": "Capital, recursos, produção e poder em movimento.",
+      "deck": "A Marginal Thinking busca entender como poder, capital, recursos e capacidade produtiva estão distribuídos, como estão se deslocando e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.",
+      "program_items": [
+        {
+          "label": "01",
+          "title": "Global Macro",
+          "text": "Juros, moedas, crédito, dívida, liquidez, commodities e fluxos de capital, com foco nos mecanismos que transmitem mudanças entre mercados e economias."
+        },
+        {
+          "label": "02",
+          "title": "Wealth & Power",
+          "text": "Distribuição e deslocamento de reservas, ouro, capital soberano, energia, minerais críticos, infraestrutura, ativos reais e capacidade industrial."
+        },
+        {
+          "label": "03",
+          "title": "Economia política",
+          "text": "Como instituições, política fiscal e industrial, conflitos, tecnologia e coalizões domésticas alteram incentivos, capacidade econômica e o espaço de ação de Estados e empresas."
+        }
+      ]
+    },
+    "method": {
+      "deck": "Como transformamos evidências sobre capital, recursos, produção, instituições e mercados em avaliações sobre distribuição, deslocamento, restrições e consequências."
+    },
+    "about": {
+      "deck": "Pesquisa sobre como capital, recursos, capacidade produtiva e poder estão distribuídos, como se deslocam e quais consequências econômicas, políticas e estratégicas resultam desses movimentos.",
+      "sections": [
+        {
+          "title": "O que a Marginal Thinking estuda",
+          "text": "A Marginal Thinking estuda como capital, recursos, capacidade produtiva e poder estão distribuídos entre países, mercados e instituições; como essa distribuição se modifica; e quais consequências econômicas, políticas e estratégicas resultam desses movimentos. A unidade de análise não é a manchete em si, mas o movimento por trás dela: financiamento, produção, comércio, acesso a recursos, capacidade institucional e as restrições enfrentadas por Estados e empresas."
+        },
+        {
+          "title": "Um sistema, não temas isolados",
+          "text": "Macroeconomia, mercados, economia política e geopolítica são analisados em conjunto quando existe um mecanismo que os conecta. Uma mudança nos juros pode alterar câmbio, financiamento público, alocação de capital e investimento. Uma interrupção de energia pode afetar balança comercial, inflação, produção industrial e política fiscal. Uma disputa geopolítica pode importar porque modifica logística, acesso a tecnologia, capacidade produtiva, financiamento ou recursos."
+        },
+        {
+          "title": "O que acompanhamos",
+          "text": "As pesquisas acompanham estoques e fluxos: reservas, ouro, ativos soberanos, dívida, capacidade instalada e disponibilidade de recursos, de um lado; investimento, comércio, emissões, amortizações, movimentos de capital e mudanças de propriedade, de outro. Efeitos de preço e câmbio são separados de mudanças efetivas de quantidade ou controle sempre que os dados permitem."
+        },
+        {
+          "title": "Por que o nome",
+          "text": "Em economia, a análise marginal pergunta o que muda quando varia uma restrição, um preço, um incentivo ou uma unidade adicional. O nome leva essa mesma preocupação para uma escala mais ampla. Não interessa apenas onde capital, produção, recursos e poder estão concentrados hoje, mas o que está mudando na margem, quais atores ganham ou perdem capacidade e se essas mudanças são suficientes para alterar o sistema mais amplo."
+        },
+        {
+          "title": "Como tratamos poder",
+          "text": "Poder não é usado como rótulo abstrato. A pesquisa procura as capacidades e restrições que o sustentam: financiamento, espaço fiscal, produção industrial, infraestrutura, acesso a energia e recursos, tecnologia, logística, instituições, alianças e, quando relevante, capacidade militar. Objetivos declarados são avaliados separadamente dos meios disponíveis para persegui-los."
+        },
+        {
+          "title": "O que significa uma avaliação",
+          "text": "Os relatórios distinguem evidência observável de inferência analítica e cenários condicionais. As conclusões são vinculadas às informações disponíveis em uma data definida e são revisadas quando novas evidências alteram materialmente a avaliação. O objetivo é tornar visíveis o mecanismo, a incerteza e as condições que justificariam uma revisão."
+        },
+        {
+          "title": "Para quem escrevemos",
+          "text": "A Marginal Thinking é escrita para leitores que precisam compreender os mecanismos por trás de mudanças econômicas e políticas: investidores, empresários, pesquisadores, profissionais de políticas públicas, participantes de mercado e outros leitores que trabalham com alocação de capital, estratégia ou assuntos públicos. O detalhe técnico aparece quando altera a análise."
+        },
+        {
+          "title": "O arquivo como registro analítico",
+          "text": "O arquivo preserva avaliações anteriores para que possam ser comparadas com evidências posteriores. Ele registra o que era conhecido naquele momento, quais mecanismos foram considerados relevantes, de quais condições os cenários dependiam e quais acontecimentos posteriores confirmaram, enfraqueceram ou derrubaram a interpretação original."
+        }
+      ]
+    },
+    "author": {
+      "description": "Autor das pesquisas da Marginal Thinking sobre capital, recursos, capacidade produtiva, macroeconomia, economia política e geopolítica."
+    }
+  }
+}
