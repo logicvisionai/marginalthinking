@@ -58,6 +58,40 @@
       }
     }
   },
+  "cross_cutting_lenses": {
+    "conflict-security-social-change": {
+      "en": "Conflict, Security & Social Change",
+      "pt-BR": "Conflito, Segurança & Mudança Social",
+      "description": {
+        "en": "Cross-cutting analysis of conflict, security and social change when they alter capital, production, institutions, markets, state capacity or the distribution of power.",
+        "pt-BR": "Análise transversal de conflito, segurança e mudança social quando alteram capital, produção, instituições, mercados, capacidade estatal ou a distribuição de poder."
+      },
+      "phenomena": [
+        "war-armed-conflict",
+        "strategic-competition",
+        "defense-security",
+        "sanctions-economic-coercion",
+        "political-stability",
+        "civil-unrest",
+        "migration-displacement",
+        "demographic-transition",
+        "institutional-change",
+        "social-change"
+      ]
+    }
+  },
+  "phenomena": {
+    "war-armed-conflict": {"en": "War & Armed Conflict", "pt-BR": "Guerra & Conflito Armado"},
+    "strategic-competition": {"en": "Strategic Competition", "pt-BR": "Competição Estratégica"},
+    "defense-security": {"en": "Defense & Security", "pt-BR": "Defesa & Segurança"},
+    "sanctions-economic-coercion": {"en": "Sanctions & Economic Coercion", "pt-BR": "Sanções & Coerção Econômica"},
+    "political-stability": {"en": "Political Stability", "pt-BR": "Estabilidade Política"},
+    "civil-unrest": {"en": "Civil Unrest", "pt-BR": "Mobilização & Instabilidade Civil"},
+    "migration-displacement": {"en": "Migration & Displacement", "pt-BR": "Migração & Deslocamento"},
+    "demographic-transition": {"en": "Demographic Transition", "pt-BR": "Transição Demográfica"},
+    "institutional-change": {"en": "Institutional Change", "pt-BR": "Mudança Institucional"},
+    "social-change": {"en": "Social Change", "pt-BR": "Mudança Social"}
+  },
   "geography_levels": ["global", "region", "country", "multi-country"],
   "regions": {
     "africa": {"en": "Africa", "pt-BR": "África"},
@@ -127,6 +161,8 @@
     "program_creation": "human-editorial-change-only",
     "series_creation": "human-editorial-change-only",
     "series_domain_creation": "human-editorial-change-only",
+    "cross_cutting_lens_creation": "human-editorial-change-only",
+    "phenomenon_creation": "human-editorial-change-only",
     "controlled_topic_creation": "human-editorial-change-only",
     "region_creation": "human-editorial-change-only",
     "format_creation": "human-editorial-change-only",
