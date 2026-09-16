@@ -5,6 +5,8 @@
   "institution": "LOGV Research",
   "default_locale": "en",
   "legacy_source_locale": "pt-BR",
+  "editorial_architecture_version": "1.0",
+  "taxonomy_file": "data/taxonomy.json",
   "social_image": "/assets/brand/marginal-thinking-logo.png",
   "locales": {
     "en": {

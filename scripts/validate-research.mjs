@@ -48,10 +48,11 @@ function scanMarkdown(file){
 
 if(exists('.packed-assets'))fail.push('.packed-assets não deve existir');
 for(const p of walk('reports').filter(p=>/\.(pdf|docx|xlsx)$/i.test(p)))fail.push(`${p}: formato binário proibido`);
-let cfg={},i18n={};
+let cfg={},i18n={},taxonomy={};
 try{cfg=JSON.parse(read('site.config.json'));}catch(e){fail.push(`site.config.json inválido: ${e.message}`);}
 try{i18n=JSON.parse(read('data/i18n.json'));}catch(e){fail.push(`data/i18n.json inválido: ${e.message}`);}
-for(const key of ['site_name','site_url','publisher','institution','default_locale','locales','default_author'])if(!cfg[key])fail.push(`site.config.json sem ${key}`);
+try{taxonomy=JSON.parse(read(cfg.taxonomy_file||'data/taxonomy.json'));}catch(e){fail.push(`taxonomia inválida: ${e.message}`);}
+for(const key of ['site_name','site_url','publisher','institution','default_locale','locales','default_author','editorial_architecture_version','taxonomy_file'])if(!cfg[key])fail.push(`site.config.json sem ${key}`);
 if(cfg.default_locale!=='en')fail.push('site.config.json: default_locale deve permanecer en para preservar English-first');
 if(cfg.site_url&&!/^https:\/\//.test(cfg.site_url))fail.push('site.config.json: site_url deve usar HTTPS');
 if(cfg.default_locale&&!cfg.locales?.[cfg.default_locale])fail.push('site.config.json: default_locale não existe em locales');
@@ -59,6 +60,47 @@ for(const code of Object.keys(cfg.locales||{})){if(!i18n[code])fail.push(`data/i
 for(const code of ['en','pt-BR'])if(!cfg.locales?.[code])fail.push(`site.config.json: locale obrigatório ${code} ausente`);
 for(const code of ['en','pt-BR'])for(const key of ['language_label','country','site_description','nav','footer','home','archive','method','about','report','author','topic','not_found'])if(!i18n?.[code]?.[key])fail.push(`data/i18n.json: ${code}.${key} ausente`);
 if(cfg.default_author)for(const key of ['name','slug','email'])if(!cfg.default_author[key])fail.push(`site.config.json: default_author sem ${key}`);
+
+const expectedDimensions=['economy','politics','society'];
+const expectedPrograms=['global-system-power','political-economy-markets','strategic-transitions','technology-production-society'];
+const dimensionKeys=Object.keys(taxonomy.dimensions||{}).sort(),programKeys=Object.keys(taxonomy.programs||{}).sort();
+if(taxonomy.version!==cfg.editorial_architecture_version)fail.push(`taxonomia ${taxonomy.version||'sem versão'} difere de editorial_architecture_version ${cfg.editorial_architecture_version}`);
+if(taxonomy.status!=='frozen')fail.push('data/taxonomy.json: status deve permanecer frozen');
+if(JSON.stringify(dimensionKeys)!==JSON.stringify([...expectedDimensions].sort()))fail.push('data/taxonomy.json: dimensões canônicas devem ser exatamente economy, politics, society');
+if(JSON.stringify(programKeys)!==JSON.stringify([...expectedPrograms].sort()))fail.push('data/taxonomy.json: programas canônicos divergiram da arquitetura editorial congelada');
+for(const key of ['topics','formats','regions','subregions'])if(!taxonomy[key]||typeof taxonomy[key]!=='object')fail.push(`data/taxonomy.json sem ${key}`);
+if(!Array.isArray(taxonomy.geography_levels)||!taxonomy.geography_levels.length)fail.push('data/taxonomy.json sem geography_levels');
+if(!Array.isArray(taxonomy.cadences)||!taxonomy.cadences.length)fail.push('data/taxonomy.json sem cadences');
+if(taxonomy.governance?.automations_may_extend_taxonomy!==false)fail.push('data/taxonomy.json: automations_may_extend_taxonomy deve ser false');
+
+function validateTaxonomy(item){
+  const id=item.id||'research';
+  if(item.taxonomy_version!==taxonomy.version)fail.push(`${id}: taxonomy_version deve ser ${taxonomy.version}`);
+  if(!taxonomy.programs?.[item.program])fail.push(`${id}: program inválido (${item.program||'ausente'})`);
+  const related=Array.isArray(item.related_programs)?item.related_programs:[];
+  if(new Set(related).size!==related.length)fail.push(`${id}: related_programs contém duplicação`);
+  if(related.includes(item.program))fail.push(`${id}: related_programs não pode repetir o programa primário`);
+  for(const p of related)if(!taxonomy.programs?.[p])fail.push(`${id}: related_program inválido (${p})`);
+  if(!Array.isArray(item.dimensions)||item.dimensions.length<1)fail.push(`${id}: dimensions deve ter ao menos uma dimensão`);
+  for(const d of item.dimensions||[])if(!taxonomy.dimensions?.[d])fail.push(`${id}: dimension inválida (${d})`);
+  if(item.program==='strategic-transitions')for(const d of expectedDimensions)if(!(item.dimensions||[]).includes(d))fail.push(`${id}: Strategic Transitions exige dimensão ${d}`);
+  if(!taxonomy.formats?.[item.format])fail.push(`${id}: format inválido (${item.format||'ausente'})`);
+  if(!taxonomy.cadences?.includes(item.cadence))fail.push(`${id}: cadence inválida (${item.cadence||'ausente'})`);
+  if(!Array.isArray(item.topics)||item.topics.length<2)fail.push(`${id}: topics deve conter ao menos dois tópicos controlados`);
+  if(new Set(item.topics||[]).size!==(item.topics||[]).length)fail.push(`${id}: topics contém duplicação`);
+  for(const t of item.topics||[])if(!taxonomy.topics?.[t])fail.push(`${id}: topic inválido (${t})`);
+  const g=item.geography;
+  if(!g||typeof g!=='object')return fail.push(`${id}: geography ausente`);
+  if(!taxonomy.geography_levels?.includes(g.level))fail.push(`${id}: geography.level inválido (${g.level||'ausente'})`);
+  const regions=Array.isArray(g.regions)?g.regions:[],subregions=Array.isArray(g.subregions)?g.subregions:[],countries=Array.isArray(g.countries)?g.countries:[];
+  for(const r of regions)if(!taxonomy.regions?.[r])fail.push(`${id}: região inválida (${r})`);
+  for(const s of subregions){if(!taxonomy.subregions?.[s])fail.push(`${id}: sub-região inválida (${s})`);else if(regions.length&&!regions.includes(taxonomy.subregions[s].region))fail.push(`${id}: sub-região ${s} não corresponde às regiões declaradas`);}
+  for(const c of countries){if(!c||typeof c!=='object'||!/^[A-Z]{2}$/.test(c.code||'')||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(c.slug||''))fail.push(`${id}: país deve usar {code: ISO alpha-2, slug: kebab-case}`);}
+  if(g.level==='country'&&countries.length<1)fail.push(`${id}: geography.level country exige countries`);
+  if(g.level==='region'&&regions.length<1)fail.push(`${id}: geography.level region exige regions`);
+  if(item.format==='country-dossier'&&(g.level!=='country'||countries.length<1))fail.push(`${id}: country-dossier exige geography.level country e ao menos um país`);
+  if(['assessment','research-report','country-dossier'].includes(item.format)&&new Set(item.dimensions||[]).size<2)warn.push(`${id}: pesquisa profunda deveria conectar ao menos duas dimensões`);
+}
 
 let reports=[];try{reports=collectReports(root);}catch(e){fail.push(`coleta de pesquisas falhou: ${e.message}`);}
 const ids=new Set(),urls=new Set();
@@ -68,6 +110,7 @@ for(const item of reports){
   if(!/^\/reports\/.+\.html$/.test(item.url||''))fail.push(`${item.id}: url deve ser HTML em /reports/`);
   if(!item._bundle)fail.push(`${item.id}: publicação pública ainda usa estrutura legada; migre para metadata.json com en + pt-BR`);
   if((item.source_locale||'')!=='en')fail.push(`${item.id}: source_locale deve ser en`);
+  validateTaxonomy(item);
   const locales=availableLocales(item);
   for(const required of ['en','pt-BR'])if(!locales.includes(required))fail.push(`${item.id}: publicação pública precisa de edição ${required}`);
   for(const locale of locales){
@@ -77,7 +120,7 @@ for(const item of reports){
     if((v?.deck||'').length>320)warn.push(`${item.id}/${locale}: deck muito longo para meta description`);
   }
 }
-for(const file of ['assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
+for(const file of ['EDITORIAL-ARCHITECTURE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
-console.log(`Research validation OK: ${reports.length} bilingual publications; English-first; ${Object.keys(cfg.locales||{}).length} locales; canonical Markdown; recoverable formatting normalized.`);
+console.log(`Research validation OK: ${reports.length} bilingual publications; editorial architecture ${taxonomy.version}; ${Object.keys(taxonomy.programs||{}).length} programs; controlled taxonomy; English-first.`);

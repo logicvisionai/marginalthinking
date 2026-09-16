@@ -1,43 +1,51 @@
 {
   "en": {
-    "site_description": "Independent research on how capital, resources, productive capacity and power are distributed, how they shift, and what economic, political and strategic consequences emerge from those movements.",
+    "site_description": "Independent research on how economic systems, political institutions and social change interact through capital, production, resources, technology and power.",
     "footer": {
-      "intro": "Independent research on capital, resources, productive capacity and power."
+      "intro": "Independent research on economics, politics and society."
+    },
+    "kinds": {
+      "monthly-strategic-technology": "Technology, Production & Society · Assessment"
     },
     "home": {
-      "title": "Capital, resources, production and power in motion.",
-      "deck": "Marginal Thinking examines how power, capital, resources and productive capacity are distributed, how they are shifting, and what economic, political and strategic consequences emerge from those movements.",
+      "title": "Economies, institutions and societies in transition.",
+      "deck": "Marginal Thinking examines how capital, production, resources, institutions, technology and social change interact — and how changes at the margins can reshape markets, states and societies.",
       "program_items": [
         {
           "label": "01",
-          "title": "Global Macro",
-          "text": "Interest rates, currencies, credit, debt, liquidity, commodities and capital flows, with emphasis on the mechanisms that transmit change across markets and economies."
+          "title": "Global System & Power",
+          "text": "How capital, resources, productive capacity, infrastructure and state capabilities are distributed across the international system and how those distributions change."
         },
         {
           "label": "02",
-          "title": "Wealth & Power",
-          "text": "The distribution and movement of reserves, gold, sovereign capital, energy, critical minerals, infrastructure, real assets and industrial capacity."
+          "title": "Political Economy & Markets",
+          "text": "How macroeconomic conditions, public policy and institutions transmit into markets, firms, households, investment and the allocation of capital."
         },
         {
           "label": "03",
-          "title": "Political Economy",
-          "text": "How institutions, fiscal and industrial policy, conflict, technology and domestic coalitions alter incentives, economic capacity and the room for action available to states and firms."
+          "title": "Strategic Transitions",
+          "text": "Consequential national and regional transformations that receive less attention than their economic, political or social significance warrants."
+        },
+        {
+          "label": "04",
+          "title": "Technology, Production & Society",
+          "text": "How demonstrated technologies move from engineering to deployment and scale, and how they change production, labor, institutions, security and society."
         }
       ]
     },
     "method": {
-      "deck": "How we turn evidence on capital, resources, production, institutions and markets into assessments of distribution, movement, constraints and consequences."
+      "deck": "How we turn evidence on economies, institutions, societies, capital, production and resources into assessments of change, constraints and consequences."
     },
     "about": {
-      "deck": "Research on how capital, resources, productive capacity and power are distributed, how they shift, and what economic, political and strategic consequences follow.",
+      "deck": "Research on the interaction of economic systems, political institutions and social change across countries, markets and the international system.",
       "sections": [
         {
           "title": "What Marginal Thinking studies",
-          "text": "Marginal Thinking studies how capital, resources, productive capacity and power are distributed across countries, markets and institutions; how those distributions change; and what economic, political and strategic consequences follow. The unit of analysis is not the headline itself, but the movement underneath it: financing, production, trade, access to resources, institutional capacity and the constraints facing states and firms."
+          "text": "Marginal Thinking studies economic, political and social change as connected processes. We examine how capital, production, resources, institutions and social conditions are distributed; how they change; and how those changes affect markets, states and societies. The unit of analysis is not the headline itself, but the mechanism underneath it: financing, production, trade, public policy, institutional capacity, technology, demographics and the constraints facing firms, governments and households."
         },
         {
           "title": "One system, not isolated subjects",
-          "text": "Macroeconomics, markets, political economy and geopolitics are treated as connected when the mechanism connects them. A change in interest rates can alter currencies, public financing, capital allocation and investment. An energy disruption can affect trade balances, inflation, industrial output and fiscal policy. A geopolitical dispute can matter because it changes logistics, access to technology, productive capacity, financing or resources."
+          "text": "Economics, politics and society are analytical dimensions rather than separate editorial silos. A change in interest rates can alter public financing, currencies, investment, employment and political room for action. An energy disruption can affect trade balances, inflation, industrial output, household income and fiscal policy. Institutional change can alter market access, investment incentives and the distribution of costs and benefits. Research connects these dimensions when the mechanism connects them."
         },
         {
           "title": "What we track",
@@ -57,7 +65,7 @@
         },
         {
           "title": "Who the research is for",
-          "text": "Marginal Thinking is written for readers who need to understand the mechanisms behind economic and political change: investors, business leaders, researchers, policy professionals, market participants and other readers working with capital allocation, strategy or public affairs. Technical detail is included when it changes the analysis."
+          "text": "Marginal Thinking is written for readers who need to understand the mechanisms behind economic, political and social change: investors, business leaders, researchers, policy professionals, market participants and other readers working with capital allocation, strategy or public affairs. Technical detail is included when it changes the analysis."
         },
         {
           "title": "The archive as an analytical record",
@@ -66,48 +74,56 @@
       ]
     },
     "author": {
-      "description": "Author of Marginal Thinking research on capital, resources, productive capacity, macroeconomics, political economy and geopolitics."
+      "description": "Author of Marginal Thinking research on economics, politics and society, with work on capital, production, institutions, technology and the international system."
     }
   },
   "pt-BR": {
-    "site_description": "Pesquisa independente sobre como capital, recursos, capacidade produtiva e poder estão distribuídos, como se deslocam e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.",
+    "site_description": "Pesquisa independente sobre como sistemas econômicos, instituições políticas e mudanças sociais interagem por meio de capital, produção, recursos, tecnologia e poder.",
     "footer": {
-      "intro": "Pesquisa independente sobre capital, recursos, capacidade produtiva e poder."
+      "intro": "Pesquisa independente sobre economia, política e sociedade."
+    },
+    "kinds": {
+      "monthly-strategic-technology": "Tecnologia, Produção & Sociedade · Avaliação"
     },
     "home": {
-      "title": "Capital, recursos, produção e poder em movimento.",
-      "deck": "A Marginal Thinking busca entender como poder, capital, recursos e capacidade produtiva estão distribuídos, como estão se deslocando e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.",
+      "title": "Economias, instituições e sociedades em transformação.",
+      "deck": "A Marginal Thinking analisa como capital, produção, recursos, instituições, tecnologia e mudanças sociais interagem — e como transformações nas margens podem modificar mercados, Estados e sociedades.",
       "program_items": [
         {
           "label": "01",
-          "title": "Global Macro",
-          "text": "Juros, moedas, crédito, dívida, liquidez, commodities e fluxos de capital, com foco nos mecanismos que transmitem mudanças entre mercados e economias."
+          "title": "Sistema Global & Poder",
+          "text": "Como capital, recursos, capacidade produtiva, infraestrutura e capacidades estatais estão distribuídos no sistema internacional e como essa distribuição se modifica."
         },
         {
           "label": "02",
-          "title": "Wealth & Power",
-          "text": "Distribuição e deslocamento de reservas, ouro, capital soberano, energia, minerais críticos, infraestrutura, ativos reais e capacidade industrial."
+          "title": "Economia Política & Mercados",
+          "text": "Como condições macroeconômicas, políticas públicas e instituições afetam mercados, empresas, famílias, investimento e a alocação de capital."
         },
         {
           "label": "03",
-          "title": "Economia política",
-          "text": "Como instituições, política fiscal e industrial, conflitos, tecnologia e coalizões domésticas alteram incentivos, capacidade econômica e o espaço de ação de Estados e empresas."
+          "title": "Transições Estratégicas",
+          "text": "Transformações nacionais e regionais relevantes que recebem menos atenção do que sua importância econômica, política ou social justificaria."
+        },
+        {
+          "label": "04",
+          "title": "Tecnologia, Produção & Sociedade",
+          "text": "Como tecnologias demonstradas avançam da engenharia para implantação e escala e como alteram produção, trabalho, instituições, segurança e sociedade."
         }
       ]
     },
     "method": {
-      "deck": "Como transformamos evidências sobre capital, recursos, produção, instituições e mercados em avaliações sobre distribuição, deslocamento, restrições e consequências."
+      "deck": "Como transformamos evidências sobre economias, instituições, sociedades, capital, produção e recursos em avaliações sobre mudança, restrições e consequências."
     },
     "about": {
-      "deck": "Pesquisa sobre como capital, recursos, capacidade produtiva e poder estão distribuídos, como se deslocam e quais consequências econômicas, políticas e estratégicas resultam desses movimentos.",
+      "deck": "Pesquisa sobre a interação entre sistemas econômicos, instituições políticas e mudanças sociais em países, mercados e no sistema internacional.",
       "sections": [
         {
           "title": "O que a Marginal Thinking estuda",
-          "text": "A Marginal Thinking estuda como capital, recursos, capacidade produtiva e poder estão distribuídos entre países, mercados e instituições; como essa distribuição se modifica; e quais consequências econômicas, políticas e estratégicas resultam desses movimentos. A unidade de análise não é a manchete em si, mas o movimento por trás dela: financiamento, produção, comércio, acesso a recursos, capacidade institucional e as restrições enfrentadas por Estados e empresas."
+          "text": "A Marginal Thinking estuda mudanças econômicas, políticas e sociais como processos conectados. Analisamos como capital, produção, recursos, instituições e condições sociais estão distribuídos; como se modificam; e como essas mudanças afetam mercados, Estados e sociedades. A unidade de análise não é a manchete em si, mas o mecanismo por trás dela: financiamento, produção, comércio, política pública, capacidade institucional, tecnologia, demografia e as restrições enfrentadas por empresas, governos e famílias."
         },
         {
           "title": "Um sistema, não temas isolados",
-          "text": "Macroeconomia, mercados, economia política e geopolítica são analisados em conjunto quando existe um mecanismo que os conecta. Uma mudança nos juros pode alterar câmbio, financiamento público, alocação de capital e investimento. Uma interrupção de energia pode afetar balança comercial, inflação, produção industrial e política fiscal. Uma disputa geopolítica pode importar porque modifica logística, acesso a tecnologia, capacidade produtiva, financiamento ou recursos."
+          "text": "Economia, política e sociedade são dimensões analíticas, não silos editoriais separados. Uma mudança nos juros pode alterar financiamento público, câmbio, investimento, emprego e espaço político. Uma interrupção de energia pode afetar balança comercial, inflação, produção industrial, renda das famílias e política fiscal. Mudanças institucionais podem alterar acesso a mercados, incentivos ao investimento e a distribuição de custos e benefícios. A pesquisa conecta essas dimensões quando o mecanismo as conecta."
         },
         {
           "title": "O que acompanhamos",
@@ -127,7 +143,7 @@
         },
         {
           "title": "Para quem escrevemos",
-          "text": "A Marginal Thinking é escrita para leitores que precisam compreender os mecanismos por trás de mudanças econômicas e políticas: investidores, empresários, pesquisadores, profissionais de políticas públicas, participantes de mercado e outros leitores que trabalham com alocação de capital, estratégia ou assuntos públicos. O detalhe técnico aparece quando altera a análise."
+          "text": "A Marginal Thinking é escrita para leitores que precisam compreender os mecanismos por trás de mudanças econômicas, políticas e sociais: investidores, empresários, pesquisadores, profissionais de políticas públicas, participantes de mercado e outros leitores que trabalham com alocação de capital, estratégia ou assuntos públicos. O detalhe técnico aparece quando altera a análise."
         },
         {
           "title": "O arquivo como registro analítico",
@@ -136,7 +152,7 @@
       ]
     },
     "author": {
-      "description": "Autor das pesquisas da Marginal Thinking sobre capital, recursos, capacidade produtiva, macroeconomia, economia política e geopolítica."
+      "description": "Autor das pesquisas da Marginal Thinking sobre economia, política e sociedade, com trabalhos sobre capital, produção, instituições, tecnologia e sistema internacional."
     }
   }
 }

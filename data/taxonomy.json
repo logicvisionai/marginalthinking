@@ -1,0 +1,104 @@
+{
+  "version": "1.0",
+  "status": "frozen",
+  "effective_date": "2026-09-16",
+  "identity": {
+    "en": "Economics · Politics · Society",
+    "pt-BR": "Economia · Política · Sociedade"
+  },
+  "dimensions": {
+    "economy": {"en": "Economics", "pt-BR": "Economia"},
+    "politics": {"en": "Politics", "pt-BR": "Política"},
+    "society": {"en": "Society", "pt-BR": "Sociedade"}
+  },
+  "programs": {
+    "global-system-power": {
+      "en": "Global System & Power",
+      "pt-BR": "Sistema Global & Poder"
+    },
+    "political-economy-markets": {
+      "en": "Political Economy & Markets",
+      "pt-BR": "Economia Política & Mercados"
+    },
+    "strategic-transitions": {
+      "en": "Strategic Transitions",
+      "pt-BR": "Transições Estratégicas"
+    },
+    "technology-production-society": {
+      "en": "Technology, Production & Society",
+      "pt-BR": "Tecnologia, Produção & Sociedade"
+    }
+  },
+  "geography_levels": ["global", "region", "country", "multi-country"],
+  "regions": {
+    "africa": {"en": "Africa", "pt-BR": "África"},
+    "americas": {"en": "Americas", "pt-BR": "Américas"},
+    "asia-pacific": {"en": "Asia-Pacific", "pt-BR": "Ásia-Pacífico"},
+    "europe": {"en": "Europe", "pt-BR": "Europa"},
+    "middle-east": {"en": "Middle East", "pt-BR": "Oriente Médio"},
+    "central-asia-caucasus": {"en": "Central Asia & Caucasus", "pt-BR": "Ásia Central & Cáucaso"}
+  },
+  "subregions": {
+    "north-africa": {"region": "africa", "en": "North Africa", "pt-BR": "Norte da África"},
+    "sub-saharan-africa": {"region": "africa", "en": "Sub-Saharan Africa", "pt-BR": "África Subsaariana"},
+    "north-america": {"region": "americas", "en": "North America", "pt-BR": "América do Norte"},
+    "latin-america-caribbean": {"region": "americas", "en": "Latin America & Caribbean", "pt-BR": "América Latina & Caribe"},
+    "east-asia": {"region": "asia-pacific", "en": "East Asia", "pt-BR": "Leste Asiático"},
+    "south-asia": {"region": "asia-pacific", "en": "South Asia", "pt-BR": "Sul da Ásia"},
+    "southeast-asia": {"region": "asia-pacific", "en": "Southeast Asia", "pt-BR": "Sudeste Asiático"},
+    "oceania": {"region": "asia-pacific", "en": "Oceania", "pt-BR": "Oceania"},
+    "western-europe": {"region": "europe", "en": "Western Europe", "pt-BR": "Europa Ocidental"},
+    "northern-europe": {"region": "europe", "en": "Northern Europe", "pt-BR": "Norte da Europa"},
+    "southern-europe": {"region": "europe", "en": "Southern Europe", "pt-BR": "Sul da Europa"},
+    "eastern-europe-balkans": {"region": "europe", "en": "Eastern Europe & Balkans", "pt-BR": "Leste Europeu & Bálcãs"},
+    "gulf": {"region": "middle-east", "en": "Gulf", "pt-BR": "Golfo"},
+    "levant": {"region": "middle-east", "en": "Levant", "pt-BR": "Levante"},
+    "central-asia": {"region": "central-asia-caucasus", "en": "Central Asia", "pt-BR": "Ásia Central"},
+    "caucasus": {"region": "central-asia-caucasus", "en": "Caucasus", "pt-BR": "Cáucaso"}
+  },
+  "topics": {
+    "macroeconomics": {"en": "Macroeconomics", "pt-BR": "Macroeconomia"},
+    "fiscal-policy": {"en": "Fiscal Policy", "pt-BR": "Política Fiscal"},
+    "monetary-policy": {"en": "Monetary Policy", "pt-BR": "Política Monetária"},
+    "sovereign-debt": {"en": "Sovereign Debt", "pt-BR": "Dívida Soberana"},
+    "capital-markets": {"en": "Capital Markets", "pt-BR": "Mercados de Capitais"},
+    "banking-credit": {"en": "Banking & Credit", "pt-BR": "Bancos & Crédito"},
+    "currencies": {"en": "Currencies", "pt-BR": "Moedas"},
+    "trade-investment": {"en": "Trade & Investment", "pt-BR": "Comércio & Investimento"},
+    "industry-production": {"en": "Industry & Production", "pt-BR": "Indústria & Produção"},
+    "technology-innovation": {"en": "Technology & Innovation", "pt-BR": "Tecnologia & Inovação"},
+    "energy": {"en": "Energy", "pt-BR": "Energia"},
+    "commodities-resources": {"en": "Commodities & Resources", "pt-BR": "Commodities & Recursos"},
+    "infrastructure-logistics": {"en": "Infrastructure & Logistics", "pt-BR": "Infraestrutura & Logística"},
+    "institutions-governance": {"en": "Institutions & Governance", "pt-BR": "Instituições & Governança"},
+    "geopolitics-security": {"en": "Geopolitics & Security", "pt-BR": "Geopolítica & Segurança"},
+    "demography-labor": {"en": "Demography & Labor", "pt-BR": "Demografia & Trabalho"},
+    "inequality-distribution": {"en": "Inequality & Distribution", "pt-BR": "Desigualdade & Distribuição"},
+    "social-change": {"en": "Social Change", "pt-BR": "Mudança Social"},
+    "climate-environment": {"en": "Climate & Environment", "pt-BR": "Clima & Meio Ambiente"}
+  },
+  "formats": {
+    "brief": {"en": "Brief", "pt-BR": "Brief"},
+    "assessment": {"en": "Assessment", "pt-BR": "Avaliação"},
+    "research-report": {"en": "Research Report", "pt-BR": "Relatório de Pesquisa"},
+    "country-dossier": {"en": "Country Dossier", "pt-BR": "Dossiê de País"},
+    "monitor": {"en": "Monitor", "pt-BR": "Monitor"},
+    "data-note": {"en": "Data Note", "pt-BR": "Nota de Dados"}
+  },
+  "cadences": ["event-driven", "daily", "weekly", "monthly", "quarterly", "annual"],
+  "routes": {
+    "reports": "/reports/YYYY/MM/<slug>.html",
+    "program": "/research/<program>/",
+    "region": "/regions/<region>/",
+    "country": "/countries/<country>/",
+    "topic": "/topics/<topic>/"
+  },
+  "governance": {
+    "program_creation": "human-editorial-change-only",
+    "controlled_topic_creation": "human-editorial-change-only",
+    "region_creation": "human-editorial-change-only",
+    "format_creation": "human-editorial-change-only",
+    "automations_may_extend_taxonomy": false,
+    "strategic_transitions_requires_all_dimensions": true
+  }
+}

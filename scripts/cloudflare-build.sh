@@ -13,6 +13,7 @@ cp -R assets dist/
 cp -R reports dist/
 find dist/reports -type f -name '*.html' -delete
 mkdir -p dist/data
+cp data/taxonomy.json dist/data/taxonomy.json
 for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
   [[ -f "$f" ]] && cp "$f" dist/
 done
@@ -44,4 +45,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, institutional copy reviewed, plain-language pass enforced, evidence metadata styled, hardened responsive layout, validated static output.'
+echo 'Cloudflare build ready: bilingual research, frozen editorial taxonomy, institutional copy reviewed, plain-language pass enforced, evidence metadata styled, hardened responsive layout, validated static output.'
