@@ -36,7 +36,12 @@ jobs:
           test -f dist/reports.html
           test -f dist/research/index.html
           test -f dist/regions/index.html
+          test -f dist/research/coverage/index.html
+          test -f dist/pt-br/research/coverage/index.html
+          test -f dist/data/research-intelligence.json
           test -f dist/series/energy-materials-industrial-systems/index.html
           test -f dist/pt-br/series/energy-materials-industrial-systems/index.html
           test -f dist/data/taxonomy.json
+          grep -q 'research-intelligence-entry' dist/research/index.html
+          grep -q 'research-intelligence-entry' dist/pt-br/research/index.html
           echo "Static site validation completed."
