@@ -57,7 +57,7 @@ Before external research, a producer must read `RESEARCH-CONTEXT.md` and inspect
 
 Research context is **orientation, not evidence**. It must never substitute for current source verification. Any material fact reused in public research — especially data, laws, officeholders, projects, financing, market conditions, conflicts, sanctions, capacities or other time-sensitive claims — must be checked against suitable external sources under the normal research standard.
 
-The producer must treat context as read-only. It must not create or update `research-context/**` as part of the staging transaction. Context maintenance is asynchronous and independent of production, QA and publication.
+The producer must treat context as read-only. It must not create or update `research-context/**` as part of the staging transaction. Context maintenance is asynchronous and independent of production, QA and publication correctness.
 
 Missing, stale or incomplete context must never block a report. If no useful context exists, the producer proceeds with ordinary research.
 
@@ -197,6 +197,33 @@ The publisher must never create public metadata pointing to `staging/`.
 
 The publisher may leave staged files in place for auditability. They are not part of the public build. Cleanup is optional and must never be required for publication correctness.
 
+## Stage 4 — Non-blocking context maintenance
+
+After a public research commit has completed successfully, the same scheduled publisher run may perform a **separate, best-effort context-maintenance transaction** governed by `RESEARCH-CONTEXT.md`. This phase exists because scheduled-task capacity is intentionally kept small; it must behave as if it were an independent asynchronous worker.
+
+The publication commit must be complete before context work begins. Context maintenance must never be included in the publication commit and must never delay, roll back, invalidate or change an already valid public publication.
+
+For newly published canonical research, the maintenance phase should:
+
+1. inspect metadata first and open full Markdown only when it may change an existing context or justify a new one;
+2. identify durable political, historical, economic, social or relational knowledge worth retaining;
+3. update only relevant `research-context/**` files incrementally;
+4. create a new context file only when the creation rule in `RESEARCH-CONTEXT.md` is satisfied;
+5. preserve `Related Marginal Thinking research`, `What changed since last review`, `Open questions` and source re-verification notes;
+6. make no context commit when there is no material durable delta.
+
+Context is still orientation rather than evidence. Time-sensitive claims must be re-verified before they are added as current context. A failure in this phase is non-blocking: do not alter the successful public commit, do not touch QA state, and allow a later publisher run with new research to catch up.
+
+This phase may create or update **only** `research-context/**`. It must not change reports, staging, pipeline sidecars, taxonomy, scripts, navigation, CSS, JavaScript or institutional copy.
+
+If context changes are warranted, use a separate atomic commit with prefix:
+
+```text
+context: update research memory YYYY-MM-DDTHHMM
+```
+
+If no context changes are warranted, make no additional commit.
+
 ## Deterministic scheduling
 
 QA and publication are independent responsibilities but run on an ordered hourly cadence:
@@ -207,6 +234,8 @@ QA and publication are independent responsibilities but run on an ordered hourly
 This avoids the previous race where the publisher could inspect a pending report before QA and then wait multiple hours before checking again.
 
 The pipeline remains idempotent: a published ID is not republished, and an unchanged approval produces no new commit.
+
+Context maintenance runs only after successful publication work in the publisher cycle and remains a separate non-blocking Git transaction.
 
 ## Validation gates
 
