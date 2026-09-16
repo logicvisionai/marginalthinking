@@ -39,9 +39,19 @@ jobs:
           test -f dist/research/coverage/index.html
           test -f dist/pt-br/research/coverage/index.html
           test -f dist/data/research-intelligence.json
+          test -f dist/data/search-index.json
+          test -f dist/search.html
+          test -f dist/pt-br/search.html
+          test -f dist/assets/js/global-search.js
+          test -f dist/assets/css/discovery.css
           test -f dist/series/energy-materials-industrial-systems/index.html
           test -f dist/pt-br/series/energy-materials-industrial-systems/index.html
           test -f dist/data/taxonomy.json
           grep -q 'research-intelligence-entry' dist/research/index.html
           grep -q 'research-intelligence-entry' dist/pt-br/research/index.html
+          grep -q 'global-search-link' dist/index.html
+          grep -q 'global-search-link' dist/pt-br/index.html
+          grep -R -q 'semantic-navigation' dist/reports
+          grep -R -q 'semantic-navigation' dist/pt-br/reports
+          node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1)"
           echo "Static site validation completed."
