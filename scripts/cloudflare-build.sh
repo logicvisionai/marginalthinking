@@ -43,10 +43,14 @@ node scripts/render-discovery.mjs
 # Recovery navigation and agent discovery remain static: llms.txt, Markdown alternates,
 # crawler hints and Cloudflare headers are generated from the same canonical corpus.
 node scripts/render-agent-discovery.mjs
+# SEO is derived after all public routes exist: concise search metadata, per-report
+# social cards, collection freshness and index control for empty taxonomy pages.
+node scripts/seo-optimize-output.mjs
 node scripts/harden-output.mjs
 node scripts/validate-taxonomy-output.mjs
 node scripts/validate-series.mjs --dist
 node scripts/validate-dist.mjs
+node scripts/validate-seo.mjs
 
 # Analytics is optional and never blocks publishing research.
 if [[ -n "${PROD_GA_MEASUREMENT_ID:-}" ]]; then
@@ -66,4 +70,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
