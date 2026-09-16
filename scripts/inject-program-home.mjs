@@ -19,6 +19,11 @@ const copy={
   ]
 };
 
+const seriesCopy={
+  en:{eyebrow:'CONTROLLED RESEARCH SERIES',title:'Energy, Materials & Industrial Systems',text:'Electricity systems, fuels and energy carriers, strategic and advanced materials, and the industrial capacity required to turn resources and technology into operating systems.',action:'Open series'},
+  'pt-BR':{eyebrow:'SÉRIE DE PESQUISA CONTROLADA',title:'Energia, Materiais & Sistemas Industriais',text:'Sistemas elétricos, combustíveis e vetores energéticos, materiais estratégicos e avançados e a capacidade industrial necessária para transformar recursos e tecnologia em sistemas operacionais.',action:'Abrir série'}
+};
+
 for(const locale of ['en','pt-BR']){
   const file=path.join(out,locale==='en'?'index.html':'pt-br/index.html');
   if(!fs.existsSync(file))continue;
@@ -29,7 +34,14 @@ for(const locale of ['en','pt-BR']){
   const re=/<div class="research-programs">[\s\S]*?<\/div>/;
   if(!re.test(html))throw new Error(`Homepage research-programs block not found for ${locale}`);
   html=html.replace(re,replacement);
+
+  const s=seriesCopy[locale],href=`${prefix}/series/energy-materials-industrial-systems/`;
+  const feature=`<section class="section research-standard" data-home-series="energy-materials-industrial-systems"><div class="container research-standard-grid"><div><div class="eyebrow dark">${s.eyebrow}</div><h2>${s.title}</h2></div><p>${s.text} <a href="${href}">${s.action} →</a></p></div></section>`;
+  html=html.replace(/<section class="section research-standard" data-home-series="energy-materials-industrial-systems">[\s\S]*?<\/section>/,'');
+  const marker='<section class="section research-standard">';
+  if(!html.includes(marker))throw new Error(`Homepage standard block not found for ${locale}`);
+  html=html.replace(marker,`${feature}${marker}`);
   fs.writeFileSync(file,html);
 }
 
-console.log('Homepage aligned to the four canonical research programs.');
+console.log('Homepage aligned to four canonical programs and the controlled Energy, Materials & Industrial Systems series.');
