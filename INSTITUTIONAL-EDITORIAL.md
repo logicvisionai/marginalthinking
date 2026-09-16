@@ -2,6 +2,23 @@
 
 This file applies specifically to the public institutional pages of Marginal Thinking in English and Brazilian Portuguese: home, Method, About, archive descriptions, author descriptions and other recurring interface copy.
 
+## Core positioning
+
+Marginal Thinking studies **how capital, resources, productive capacity and power are distributed, how they shift, and what economic, political and strategic consequences emerge from those movements**.
+
+In Brazilian Portuguese, the equivalent institutional formulation is:
+
+> Entender como poder, capital, recursos e capacidade produtiva estão distribuídos, como estão se deslocando e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.
+
+This idea does not need to be repeated verbatim on every page. It is the organizing principle for institutional copy and research framing. Public text should normally make at least one of these relationships explicit:
+
+1. **distribution** — where capital, resources, assets, production or capabilities are concentrated;
+2. **movement** — how ownership, financing, trade, investment, production or access is changing;
+3. **capacity and constraint** — what states, firms and institutions can or cannot do with the resources available to them;
+4. **consequence** — how those changes transmit into markets, macroeconomics, political choices or strategic outcomes.
+
+When `power` is used, identify the capability or constraint behind it whenever possible: financing, fiscal room, industrial output, infrastructure, energy and resource access, technology, logistics, institutions, alliances or military capacity. Do not use power as a free-floating abstraction.
+
 ## Core rule
 
 Institutional copy should describe **what the publication studies, how the work is done, what the reader can verify, and where the limits are**. It should not advertise intellectual seriousness through abstract slogans.
@@ -58,12 +75,13 @@ Avoid philosophical-sounding statements about thinking itself unless they define
 The About page should answer plainly:
 
 1. What does Marginal Thinking study?
-2. Why is it called Marginal Thinking?
-3. Which subjects are covered?
-4. Why are those subjects analyzed together?
-5. What does an assessment mean here?
-6. Who is the research written for?
-7. Why is the archive retained?
+2. Why are macroeconomics, markets, political economy and geopolitics analyzed together?
+3. Which stocks, flows, resources and productive capabilities are tracked?
+4. Why is it called Marginal Thinking?
+5. What does `power` mean in operational terms?
+6. What does an assessment mean here?
+7. Who is the research written for?
+8. Why is the archive retained?
 
 Do not use mission-language that could describe almost any think tank or consultancy.
 
@@ -71,15 +89,24 @@ Do not use mission-language that could describe almost any think tank or consult
 
 Write in native research English. Prefer ordinary institutional prose to consulting language. A sentence should still be clear if words such as `strategic`, `systemic`, `structural`, `framework`, `capacity`, `signal` and `power` are removed; if not, the sentence probably needs a more concrete subject and mechanism.
 
+The institutional thesis should read naturally in English rather than as a literal translation from Portuguese. Preferred formulation:
+
+> Marginal Thinking examines how capital, resources, productive capacity and power are distributed, how they are shifting, and what economic, political and strategic consequences emerge from those movements.
+
 ## Português brasileiro
 
 Escreva como texto institucional originalmente redigido em português. Evite tradução literal do inglês e combinações abstratas de substantivos. Sempre que termos como `poder`, `capacidade`, `fluxo`, `estrutura`, `risco`, `valor` ou `incerteza` forem importantes para a frase, deixe claro a que medida, decisão, recurso ou relação eles se referem.
+
+A tese institucional preferencial é:
+
+> A Marginal Thinking busca entender como poder, capital, recursos e capacidade produtiva estão distribuídos, como estão se deslocando e quais consequências econômicas, políticas e estratégicas emergem desses movimentos.
 
 ## Final test
 
 Before publication, ask of every institutional paragraph:
 
 - Does it state something specific about Marginal Thinking?
+- Does it help explain distribution, movement, capacity, constraint or consequence?
 - Could the same paragraph be pasted onto the website of an unrelated consultancy without changing much?
 - Is the main verb concrete?
 - Does the sentence explain a practice or merely claim a virtue?
