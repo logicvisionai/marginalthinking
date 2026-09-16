@@ -3,50 +3,40 @@
   "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",
   "slug": "2026-09-16-strategic-transition-bulgaria-euro-market-integration",
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-16T12:29:14-03:00",
-  "reviewed_commit": "36cdbda3e3541d5ea2e7ed878523bbd653af73e2",
-  "pending_blob_sha": "449b3c3885cf554521fc1f34d14ec0e4ef12d0ca",
+  "reviewed_at": "2026-09-16T14:19:28-03:00",
+  "reviewed_commit": "92a5b0ebe8065b4d01072a4b5fcc6d36d6cfaadd",
+  "pending_blob_sha": "85090f1878f3c6a69f098d8e601889e7a9df8136",
   "source_blob_shas": {
-    "en": "681322c711f2f7357f66ead4eb8d8c0eae6e2fd4",
-    "pt-BR": "59892b20516375e1563744d0a3f6c3ba5d8e5e35"
+    "en": "6e0a23cd34570cfa1a5ba683c532b2d6bc8e8d9f",
+    "pt-BR": "f534ff31cd5061ef2a8ed46563f1b52829298074"
   },
   "program": "strategic-transitions",
   "confidence": "medium",
-  "taxonomy_issues": [],
+  "taxonomy_issues": [
+    "The current unpublished, materially revised v2 pending sidecar omits the required top-level phenomena array. Under the frozen taxonomy and current QA contract, new or materially revised research must declare phenomena as an array, including [] when no controlled phenomenon is material."
+  ],
   "blocking_issues": [
-    "Several NSI quantitative claims in the staged text are not reconciled with the cited/current official series. The report states Q1 2026 exports of goods and services -7.4% y/y, imports +8.2%, gross fixed capital formation +9.1%, house prices +14.8% and labour costs +13.4%, while the official NSI key-indicator releases available for 2026 show materially different vintages/values. The report must identify the exact NSI release/vintage for each figure or update the figures and dependent interpretation.",
-    "The central thesis says euro adoption and MSCI reclassification are reducing financial frictions, but the evidence directly demonstrates institutional integration and improved classification/accessibility, not yet realized reductions in financing costs, persistent portfolio inflows or deeper liquidity. The causal language in title/deck and assessment must be narrowed or supported with observed post-adoption/post-reclassification data.",
-    "The transmission-map arrow chains compress causal claims into slogans. Under EDITORIAL-STYLE.md and the Strategic Transitions gate, the prose must explicitly state mechanisms, conditions and countervailing channels rather than relying on arrows such as fiscal expansion + wage growth → imports/inflation → wider deficit/external pressure.",
-    "The report needs a clearer, explicit section stating what evidence would weaken or reverse the assessment. The architecture requires Strategic Transitions to identify evidence that would invalidate the thesis, not only catalysts and monitoring variables."
+    "Pipeline/taxonomy contract failure: data/pending/2026-09-16-strategic-transition-bulgaria-euro-market-integration.json has no phenomena field even though this is an unpublished schema_version:2 item at revision 2. The current architecture requires phenomena for new or materially revised research.",
+    "Because institutional change, labour scarcity/demographic constraints and social distributional effects are material to the thesis, the producer must explicitly evaluate the controlled phenomena axis rather than leave it absent. QA must not infer or silently normalize the classification."
   ],
   "required_fixes": [
-    "Reconcile every disputed NSI figure against a dated primary release. For each changed series, state the reference period and publication/vintage; update both EN and PT-BR tables/prose identically and revise conclusions if magnitudes change.",
-    "Distinguish demonstrated institutional changes (euro membership, TARGET/ECMS integration, MSCI classification) from inferred economic effects. Replace claims that frictions are already being reduced with conditional language unless transaction-cost, spread, flow, custody, settlement or liquidity evidence demonstrates the effect.",
-    "Rewrite the transmission section in explanatory prose: identify the acting agent or economic variable, the mechanism, the conditions under which transmission occurs and the consequence. Arrow diagrams may remain only as supplements.",
-    "Add an explicit 'What would change our assessment?' section and semantic equivalent in PT-BR, including observable falsifiers such as fiscal consolidation without growth damage, productivity catching wage growth, current-account normalization, durable liquidity/free-float improvement, or evidence that euro integration does not materially change financing/access conditions.",
-    "Perform a final bilingual equivalence pass after factual corrections so numbers, confidence, evidence status and conclusions remain identical across EN and PT-BR."
+    "Add a top-level phenomena array to the pending v2 sidecar using only identifiers controlled by data/taxonomy.json, with no duplicates. An empty array is valid only if the producer determines that no controlled phenomenon is materially relevant.",
+    "Reassess the article against CONFLICT-SECURITY-SOCIAL-CHANGE.md and ensure each selected phenomenon is materially supported by the text. In particular, evaluate institutional-change and any demographic-transition/social-change classification against observable mechanisms rather than keywords.",
+    "Preserve the selected phenomena array exactly in the next immutable publication snapshot. Any pending change produces a new pending blob SHA and therefore requires a fresh QA approval bound to the new pending SHA and the current EN/PT-BR source SHAs."
   ],
   "evidence": [
     {
-      "source": "ECB, 1 January 2026",
-      "finding": "Bulgaria adopted the euro and became the 21st euro-area member; the Bulgarian National Bank joined the Eurosystem and became a full SSM member. This supports the institutional-change premise."
+      "source": "EDITORIAL-ARCHITECTURE.md and data/taxonomy.json, version 1.0",
+      "finding": "Conflict, Security & Social Change is a cross-cutting lens implemented through the controlled phenomena axis; new or materially revised research should include a phenomena array using only controlled identifiers."
     },
     {
-      "source": "ECB TARGET Services, 2 January 2026",
-      "finding": "Bulgaria completed onboarding to T2, T2S, TIPS and ECMS. This demonstrates infrastructure integration, but by itself does not quantify lower financing costs or deeper market liquidity."
+      "source": "RESEARCH-PUBLISHING.md",
+      "finding": "New/materially revised research should include phenomena, including an empty array when no controlled phenomenon is material, and the approved publication snapshot must preserve it exactly."
     },
     {
-      "source": "MSCI 2026 Market Classification Review, 23 June 2026",
-      "finding": "MSCI reclassified Bulgaria from Standalone to Frontier Market status. This supports improved classification/accessibility, not an investment endorsement or proof of persistent inflows."
-    },
-    {
-      "source": "European Commission Spring 2026 forecast, 21 May 2026",
-      "finding": "The Commission reports 2026 GDP growth 2.5%, inflation 4.2%, general-government balance -4.1% of GDP, debt 32.3% and current account -5.0%; these central forecast figures are corroborated."
-    },
-    {
-      "source": "Bulgarian NSI key indicators, 3 April 2026 and later 2026 releases",
-      "finding": "Official series show changing vintages for trade, investment, labour costs and house prices. The staged report cites a generic later NSI key-indicators URL while presenting figures that require exact release/vintage reconciliation before approval."
+      "source": "Current staged EN and PT-BR editions",
+      "finding": "The thesis materially discusses euro-area institutional integration, domestic adjustment institutions, labour scarcity/demographic trends and distributional household effects, so the controlled phenomena axis requires an explicit editorial classification decision."
     }
   ],
-  "notes": "Taxonomy v1.0 classification itself passes: strategic-transitions is valid; economy, politics and society are all declared and materially connected; geography, topics, format and cadence are controlled values. Rejection is factual/methodological/editorial, not taxonomic. No public bundle or global site surface was changed."
+  "notes": "The prior factual/methodological blocking issues were resolved in revision 2 and the staged EN/PT-BR sources remain unchanged from the previous factual approval. This rejection is a new pipeline/taxonomy gate introduced by the current frozen architecture: the unpublished materially revised sidecar lacks phenomena. The previous approval was removed from data/approved so the publisher cannot materialize an item that no longer satisfies the current gate. No public bundle, HTML, data/reports.json or global site surface was created or changed by QA."
 }
