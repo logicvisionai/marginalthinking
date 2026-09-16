@@ -1,0 +1,45 @@
+{
+  "id": "MT-EMIS-2026-09-16-grid-equipment",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T12:33:00-03:00",
+  "kind": "monthly-strategic-technology",
+  "priority": 23,
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "industrial-capacity-supply-chains",
+  "related_programs": ["global-system-power", "political-economy-markets"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["infrastructure-logistics", "industry-production", "energy", "commodities-resources", "trade-investment"],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "url": "/reports/2026/09/2026-09-16-grid-equipment.html",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-16T12:48:00-03:00",
+  "qa_confidence": "high",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Transformers and Cables in 2026: The Industrial Layer Behind Electrification",
+      "deck": "Long procurement cycles for transformers, cables and specialised inputs show that grid expansion depends on manufacturing capacity and standards as much as on investment plans.",
+      "tags": ["Electricity", "Transformers", "Cables", "Manufacturing", "Supply Chains"],
+      "keywords": ["transformers", "power transformers", "distribution transformers", "cables", "electrical steel", "grid equipment", "manufacturing", "standardisation"],
+      "regime": "Rising grid demand confronting long equipment lead times, specialised materials and fragmented specifications",
+      "key_risk": "Grid investment plans may overstate executable capacity when equipment delivery, materials, testing and manufacturing slots are not modelled.",
+      "watch": ["transformer lead times", "cable lead times", "factory expansions", "electrical steel", "equipment standardisation", "utility procurement"],
+      "search_text": "transformers cables grid equipment electrical steel manufacturing supply chain standardization transmission distribution industrial capacity"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Transformadores e cabos em 2026: a camada industrial por trás da eletrificação",
+      "deck": "Prazos longos de transformadores, cabos e insumos especializados mostram que a expansão elétrica depende de capacidade fabril e padrões técnicos tanto quanto de planos de investimento.",
+      "tags": ["Eletricidade", "Transformadores", "Cabos", "Manufatura", "Cadeias de Suprimento"],
+      "keywords": ["transformadores", "transformadores de potência", "transformadores de distribuição", "cabos", "aço elétrico", "equipamentos de rede", "manufatura", "padronização"],
+      "regime": "Demanda crescente por rede enfrentando prazos longos, materiais especializados e especificações fragmentadas",
+      "key_risk": "Planos de investimento em rede podem superestimar capacidade executável quando entrega de equipamentos, materiais, testes e slots fabris não são modelados.",
+      "watch": ["prazos de transformadores", "prazos de cabos", "expansão fabril", "aço elétrico", "padronização", "compras de concessionárias"],
+      "search_text": "transformadores cabos equipamentos de rede aço elétrico manufatura cadeia de suprimento padronização transmissão distribuição capacidade industrial"
+    }
+  }
+}
