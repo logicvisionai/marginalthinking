@@ -37,12 +37,12 @@ node scripts/editorial-normalize-en.mjs
 node scripts/editorial-final-cleanup.mjs
 node scripts/style-evidence-labels.mjs
 node scripts/final-public-language.mjs
-# Global static search and semantic navigation are derived after editorial normalization.
+# Enforce the selected locale on every research card and make geography the active
+# navigation axis before discovery turns localized tags into semantic links.
+node scripts/finalize-localized-ui.mjs
+# Global static search and semantic navigation are derived after locale/editorial normalization.
 # Controlled taxonomy terms receive canonical links; free tags route into global search.
 node scripts/render-discovery.mjs
-# Enforce the selected locale on every research card and make geography the active
-# navigation axis on regions/countries pages. This is a final UI invariant, not content fallback.
-node scripts/finalize-localized-ui.mjs
 # Recovery navigation and agent discovery remain static: llms.txt, Markdown alternates,
 # crawler hints and Cloudflare headers are generated from the same canonical corpus.
 node scripts/render-agent-discovery.mjs
