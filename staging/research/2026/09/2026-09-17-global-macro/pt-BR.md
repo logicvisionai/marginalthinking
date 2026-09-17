@@ -2,157 +2,129 @@
 
 ## Avaliação executiva
 
-**Regime:** o choque inflacionário provocado pela oferta de energia ainda aperta as condições financeiras globais, mas o risco extremo imediato diminuiu à medida que a Arábia Saudita recupera rotas alternativas para exportar petróleo. O Federal Reserve respondeu à inflação persistente elevando em 0,25 ponto percentual a faixa dos Fed Funds, para 3,75%–4,00%. Ao mesmo tempo, o Brent recuou para aproximadamente US$104–105 e o Treasury de 10 anos voltou para pouco abaixo de 5%. Essa combinação explica por que futuros de ações americanas e bolsas europeias podem subir mesmo depois de uma alta do Fed: investidores estão distinguindo uma resposta monetária crível contra a inflação de um aperto desordenado das condições financeiras.
+**Regime:** o choque inflacionário provocado pela oferta de energia ainda aperta as condições financeiras globais, enquanto rotas alternativas de exportação da Arábia Saudita reduziram — sem eliminar — o risco imediato de falta de petróleo. O Federal Reserve elevou em 0,25 ponto percentual a faixa dos Fed Funds, para 3,75%–4,00%. O Brent negociava perto de US$104–105 e o Treasury de 10 anos voltou para pouco abaixo de 5%.
 
-**Fato observado.** O Fed elevou os juros por unanimidade em 16 de setembro e afirmou que a inflação continua elevada, enquanto atividade, consumo doméstico e investimento de capital permanecem resilientes. As projeções de setembro também elevaram a mediana de crescimento do PIB real de 2026 para 2,3%, ante 2,2% em junho. No início desta quinta-feira, o Treasury de 2 anos negociava perto de 4,71% e o de 10 anos em torno de 4,99%; o dado oficial H.15 mais recente mostrava 5,36% no Treasury de 30 anos em 15 de setembro. O Brent negociava ao redor de US$104–105 enquanto a Arábia Saudita oferecia cargas adicionais por Sohar, em Omã.
+**Fato observado.** O Fed elevou os juros por unanimidade em 16 de setembro e afirmou que a inflação continua elevada, enquanto atividade, consumo doméstico e investimento de capital permanecem resilientes. As projeções de setembro elevaram a mediana de crescimento real de 2026 para 2,3%, ante 2,2% em junho. No início desta quinta-feira, o Treasury de 2 anos negociava perto de 4,71% e o de 10 anos em torno de 4,99%; a observação oficial H.15 mais recente disponível para o título de 30 anos era 5,36% em 15 de setembro. A Arábia Saudita ofereceu cargas adicionais de petróleo por Sohar, em Omã.
 
-**Inferência da Marginal Thinking.** A principal restrição deixou de ser o temor de perda imediata de grandes volumes de petróleo do Oriente Médio e passou a ser o custo do dinheiro necessário para conter as consequências inflacionárias do choque energético. É um regime menos desordenado que uma interrupção aguda de oferta, mas continua desfavorável para ativos muito sensíveis aos juros, devedores alavancados e economias dependentes de energia importada.
+**Inferência da Marginal Thinking.** O mercado passou a atribuir menos peso à perda imediata de grandes volumes de exportação saudita e mais peso à resposta de juros necessária para conter as consequências inflacionárias do choque energético. É uma situação menos desordenada que uma interrupção aguda de oferta, mas continua restritiva para ativos muito sensíveis aos juros, devedores alavancados e economias importadoras de energia.
 
-**Confiança:** alta quanto ao mecanismo de política monetária e energia; moderada quanto à duração do alívio no petróleo, porque o transporte físico continua prejudicado e informações sobre o conflito podem mudar rapidamente.
+**Confiança:** alta quanto ao mecanismo monetário; moderada quanto ao alívio energético. O rastreamento de navios confirma atividade anormalmente baixa em Hormuz, mas as sucessivas fotografias preliminares de Kpler/Reuters não são comparáveis o suficiente para sustentar uma variação diária precisa do volume transportado.
 
 ## O que mudou desde ontem
 
-1. **O Fed transformou a expectativa do mercado em política.** A faixa dos Fed Funds subiu para 3,75%–4,00%, e as novas projeções mantiveram novos aumentos de juros como possibilidade. Depois da decisão, o Goldman Sachs alterou sua previsão pública e passou a esperar outra alta de 0,25 ponto em outubro. Trata-se de uma tese de pesquisa, não de evidência sobre posições efetivas das carteiras do banco.
-2. **O risco extremo de falta de petróleo diminuiu, mas não desapareceu.** A Arábia Saudita está redirecionando barris por Omã e trabalha para recuperar capacidade no oleoduto East-West. O Brent caiu para perto de US$104–105. Entretanto, dados preliminares de rastreamento indicaram apenas três navios comerciais atravessando Hormuz na quarta-feira, ante 12 no dia anterior; navios com AIS desligado tornam essa contagem incompleta.
-3. **O choque de juros ficou mais ordenado.** O Treasury de 10 anos recuou para menos de 5% depois de superar esse nível, enquanto a volatilidade de juros diminuiu. O mercado aceita juros curtos mais altos sem exigir hoje aumento equivalente do prêmio na parte longa da curva.
-4. **A diferenciação entre mercados asiáticos aumentou.** China e Hong Kong caíram cerca de 0,4% com o aumento dos juros americanos e a ampliação da desvantagem de rendimento, especialmente em setores sensíveis a juros. O Japão avançou modestamente enquanto o iene enfraqueceu para a região de 155–156 por dólar. A Coreia do Sul ficou próxima da estabilidade, mas investidores estrangeiros venderam ações apesar da demanda ainda resistente por semicondutores.
-5. **O Brasil passa a negociar com diferencial de juros menor.** O Copom reduziu a Selic para 13,75% após o fechamento de quarta-feira, enquanto o Fed fez o movimento oposto. O real havia encerrado perto de R$5,15 por dólar antes da decisão local. A questão agora é se desinflação e atividade mais fraca permitem novos cortes sem enfraquecer materialmente a moeda ou voltar a pressionar as expectativas de inflação.
+1. **O Fed transformou expectativa em política.** A faixa dos Fed Funds subiu para 3,75%–4,00%. Depois da decisão, o Goldman Sachs mudou sua previsão pública e passou a esperar outra alta de 0,25 ponto em outubro. Trata-se de uma `research thesis` — uma tese de pesquisa — e não de evidência sobre posições proprietárias de carteira.
+2. **O risco extremo de falta de petróleo diminuiu, mas o transporte físico continua prejudicado.** A Arábia Saudita redireciona barris por Omã e trabalha para recuperar capacidade no oleoduto East-West. O Brent caiu para perto de US$104–105. Dados da Kpler citados pela Reuters às 04h45 GMT de 17 de setembro contaram três navios de commodities atravessando Hormuz na quarta-feira, ante média de aproximadamente 17 em dez dias, excluindo tráfego com AIS desligado. Uma fotografia Reuters/Kpler publicada um dia antes havia contado quatro travessias na terça-feira, ante média de 18; já a matéria de 17 de setembro citou retrospectivamente 12 para a terça-feira. Como as observações diferem por horário de corte e/ou classificação, este relatório não as trata como uma série diária contínua.
+3. **O choque de juros ficou mais ordenado.** O Treasury de 10 anos recuou para menos de 5% depois de superar esse nível, enquanto a volatilidade de juros diminuiu.
+4. **A diferenciação asiática aumentou.** China e Hong Kong enfraqueceram, enquanto Japão avançou modestamente e o iene negociou na região de 155–156 por dólar. Ações sul-coreanas resistiram, mas investidores estrangeiros permaneceram vendedores líquidos.
+5. **O Brasil passa a negociar com diferencial de juros menor.** O Copom reduziu a Selic para 13,75% após o fechamento de quarta-feira, enquanto o Fed fez o movimento oposto.
 
 ## Radar global de bolsas
 
-O sinal importante nas bolsas não é uma alta global sincronizada. É um **alívio seletivo onde o petróleo mais barato melhora diretamente margens ou onde a decisão do Fed reduziu a incerteza**.
+O sinal relevante é de alívio seletivo, não de alta global sincronizada. Bolsas europeias subiam cerca de 0,5% no início da sessão, com viagens e tecnologia à frente enquanto o petróleo recuava e os juros soberanos paravam de subir. Companhias aéreas e transportadoras se beneficiam diretamente se o combustível ficar mais barato, embora diesel e combustível de aviação ainda caros limitem essa melhora.
 
-As bolsas europeias subiam cerca de 0,5% no início do pregão. Viagens e tecnologia apresentavam desempenho superior enquanto o petróleo recuava e os juros soberanos paravam de subir. Companhias aéreas e montadoras se beneficiam diretamente de combustível mais barato e de menor pressão inflacionária; esse mecanismo explica melhor o movimento do que classificá-lo apenas como melhora genérica do apetite a risco.
+O Nikkei avançou aproximadamente 0,3%. O iene mais fraco favorece a conversão de receitas externas de exportadores, enquanto a decisão do Banco do Japão permanece o próximo catalisador doméstico. CSI 300 e Xangai caíram aproximadamente 0,4%, com Hong Kong também em baixa. Juros americanos mais altos aumentam o retorno relativo dos ativos em dólar enquanto demanda privada e imóveis chineses continuam fracos.
 
-O Nikkei avançou aproximadamente 0,3% no fechamento. O iene mais fraco aumenta, em moeda local, receitas obtidas por exportadores no exterior, enquanto a decisão do Banco do Japão é o próximo catalisador doméstico relevante. O governo voltou a demonstrar preocupação com movimentos desordenados do câmbio. Por isso, USD/JPY deve ser tratado como uma relação sensível à política econômica, e não apenas ao diferencial de juros.
+A Coreia do Sul merece monitoramento, não conclusão direcional. O KOSPI ficou perto da estabilidade ou em leve alta, mas estrangeiros venderam cerca de 1,24 trilhão de won em ações. A demanda por semicondutores sustenta lucros, porém os fluxos internacionais não confirmaram a resistência do índice.
 
-CSI 300 e Xangai caíram aproximadamente 0,4%, com Hong Kong também em baixa. Ações de ouro, metais não ferrosos e imóveis lideraram as perdas. Juros americanos mais altos aumentam o retorno relativo de ativos em dólar justamente quando demanda doméstica e setor imobiliário chineses continuam fracos. A divergência importante é que temas apoiados pela política industrial chinesa podem continuar fortes enquanto o mercado amplo sofre com demanda privada fraca e diferencial externo de juros desfavorável.
-
-A Coreia do Sul merece monitoramento, não uma conclusão direcional. O KOSPI ficou próximo da estabilidade ou em leve alta, com número de ações em alta ligeiramente superior às quedas, mas estrangeiros venderam cerca de 1,24 trilhão de won em ações. A demanda por semicondutores continua oferecendo suporte estrutural, porém os fluxos não confirmaram a resistência dos preços nesta sessão.
-
-Os futuros dos índices americanos avançavam aproximadamente 0,7%–1,0% antes da abertura. É uma reação de alívio ao petróleo mais barato e a um mercado de Treasuries mais ordenado, não evidência de que o problema do custo de capital desapareceu. Treasury de 10 anos próximo de 5% continua elevando a taxa de retorno exigida para ações e deixa empresas de crescimento com avaliações elevadas sensíveis a nova alta dos juros reais.
+Os futuros dos índices americanos subiam aproximadamente 0,7%–1,0% antes da abertura. Petróleo mais barato e Treasuries mais ordenados explicam melhor esse alívio do que uma melhora ampla das condições financeiras: Treasury de 10 anos perto de 5% continua elevando o retorno exigido em ações e crédito.
 
 ## Global Opportunity Radar
 
-### 1. Transporte europeu e indústrias intensivas em energia — candidato de segunda ordem
+### Transporte europeu e indústrias intensivas em energia
 
-**O que mudou:** o petróleo caiu pela segunda sessão conforme melhoraram as alternativas sauditas de exportação. Ações europeias de viagens tiveram desempenho superior.
+**O que mudou:** o petróleo caiu pela segunda sessão conforme melhoraram as alternativas sauditas de exportação. **Possível distorção:** se a oferta física melhorar mais rapidamente, companhias aéreas, transporte, químicas e algumas indústrias podem recuperar parte das margens comprimidas pelo choque de petróleo. **Catalisador:** recuperação verificada da capacidade saudita de exportação e queda sustentada dos derivados. **Risco:** atividade em Hormuz permanece anormalmente baixa e diesel continua apertado. **Invalidação:** novos danos verificados à infraestrutura ou retorno persistente de petróleo e derivados às máximas recentes de estresse. **Horizonte:** dias a algumas semanas. **Relação com consenso:** efeito de segunda ordem, não evidência de alocação institucional.
 
-**Por que a distorção pode importar:** o primeiro efeito de um choque de energia costuma beneficiar produtores de petróleo. Se a oferta física se normalizar mais rapidamente, o efeito seguinte ocorre no sentido contrário: companhias aéreas, transportadoras, químicas e algumas indústrias recuperam parte da margem comprimida durante a alta do petróleo.
+### Ativos sul-africanos
 
-**Catalisador:** confirmação da recuperação do oleoduto e da capacidade de exportação saudita, acompanhada de Brent sustentado abaixo da faixa recente de estresse.
+O rand se valorizava cerca de 0,6%, para aproximadamente ZAR16,31 por dólar; o JSE Top-40 subia perto de 0,6%; e o rendimento do título soberano de 2035 recuava cerca de 3 pontos-base, para 8,71%. Ouro e platina mais fortes compensam parte do aperto provocado pelo Fed. A questão de pesquisa é se a renda gerada pelas commodities consegue continuar sustentando moeda e curva soberana apesar da atividade doméstica fraca. A tese perderia força com queda simultânea das commodities, fortalecimento do dólar e alta dos juros domésticos.
 
-**Risco contrário:** o tráfego em Hormuz permanece muito abaixo do normal e derivados, especialmente diesel, continuam apertados. A queda do petróleo bruto pode, portanto, exagerar a melhora efetiva do custo de combustível para transporte e indústria.
+### Hong Kong versus China continental
 
-**Invalidação:** novos danos verificados à infraestrutura de exportação ou retorno persistente do Brent acima das máximas recentes.
-
-**Horizonte:** dias a algumas semanas. **Relação com consenso:** efeito de segunda ordem; não implica que grandes instituições já tenham realocado suas carteiras para o tema.
-
-### 2. Ativos sul-africanos — suporte das commodities contra aperto global
-
-O rand se valorizava cerca de 0,6%, para aproximadamente ZAR16,31 por dólar; o Top-40 da bolsa de Johannesburgo subia perto de 0,6%; e o rendimento do título soberano de 2035 recuava cerca de 3 pontos-base, para 8,71%. Ouro e platina mais fortes compensam parte do efeito restritivo da alta do Fed.
-
-A assimetria está no fato de que um exportador de commodities com banco central ainda crível pode se comportar de maneira diferente do conjunto de emergentes quando os preços de suas exportações sobem. Os riscos são atividade doméstica fraca e necessidade de o South African Reserve Bank manter política restritiva para preservar a credibilidade da inflação. Há liquidez adequada nos principais instrumentos listados e cambiais, mas esta é uma observação macroeconômica cíclica, não uma recomendação.
-
-**Invalidação:** queda das commodities combinada com fortalecimento renovado do dólar e alta dos juros soberanos domésticos.
-
-### 3. Hong Kong versus China continental — a estrutura de financiamento importa
-
-Juros americanos mais altos pressionam Hong Kong de forma mais direta por causa do regime cambial e do diferencial de juros. A China continental dispõe de maior autonomia monetária, embora continue sujeita a restrições cambiais e de fluxo de capitais. O dólar de Hong Kong se aproximou do lado fraco de sua banda enquanto as ações locais ficaram atrás do mercado continental.
-
-Isso cria uma questão de pesquisa relativa: empresas dependentes de financiamento em Hong Kong podem sofrer ajuste maior do custo de capital que companhias semelhantes listadas no continente e financiadas por canais domésticos. A tese ainda não está madura para conclusão direcional; devem ser acompanhados HIBOR, operações de liquidez da HKMA, fluxos southbound e revisões relativas de lucros.
+Juros americanos mais altos chegam a Hong Kong de forma mais direta pelo regime de currency board. A China continental mantém maior autonomia monetária, embora continue sujeita a restrições cambiais e de fluxo de capitais. Devem ser acompanhados HIBOR, operações de liquidez da HKMA, fluxos southbound e revisões relativas de lucros; a evidência atual não é suficiente para conclusão direcional.
 
 ## Consenso institucional e divergência
 
-A mudança institucional material de hoje é a **alteração da trajetória esperada para o Fed**, não uma compilação de opiniões de grandes casas. O Goldman Sachs mudou sua previsão pública e passou a esperar nova alta de 0,25 ponto em outubro após a decisão de setembro. Outros bancos importantes também incorporaram aperto adicional em seus cenários públicos. A classificação adequada é **tese de pesquisa**. Isso não demonstra posicionamento proprietário efetivo.
+A única mudança institucional documentada com robustez suficiente para publicação hoje é a previsão pública do Goldman Sachs, de 17 de setembro, de outra alta de 0,25 ponto do Fed em outubro após a decisão de setembro. O sinal é classificado como **tese de pesquisa** e não demonstra posicionamento efetivo de carteira.
 
-O estado do consenso é **Broadening (ampliando-se)**: projeções do próprio Fed, preços de mercado e previsões de diferentes bancos apontam agora para aperto adicional. A expressão, porém, não é unidirecional. O Treasury de 10 anos voltar para menos de 5% após a decisão mostra que juros curtos mais altos podem reduzir a incerteza inflacionária na parte longa se investidores acreditarem que o banco central está restaurando credibilidade.
+**Estado do consenso: Unclear (indefinido).** As projeções do Fed e a precificação de mercado são evidências importantes de política e mercado, mas não são sinais de pesquisa institucional segundo a classificação da Marginal Thinking. Além disso, previsões públicas de bancos divergem sobre o momento da próxima alta. Sem múltiplas mudanças comparáveis e atribuíveis de visão institucional, com data e classe de sinal, não há evidência suficiente para classificar o consenso como `Broadening`.
 
-Os dados que romperiam esse consenso seriam queda persistente das expectativas de inflação e dos preços de energia acompanhada de deterioração relevante da demanda por trabalho. Novo choque energético ou inflação subjacente persistente reforçariam o consenso.
+O que tornaria o estado mais claro: outras instituições nomeadas alterando suas trajetórias publicadas para o Fed na mesma direção, com datas e visões anteriores identificáveis. O que enfraqueceria a narrativa mais ampla de aperto: queda persistente das expectativas de inflação e dos preços de energia acompanhada de deterioração material da demanda por trabalho.
 
 ## Câmbio
 
-O dólar permanece firme após a alta do Fed. O DXY negociava perto de 100,3 no início da sessão europeia. EUR/USD estava em torno de 1,146, GBP/USD perto de 1,337 antes da decisão do Banco da Inglaterra, USD/JPY na região de 155–156 e USD/CNH próximo de 6,71.
+O dólar permanecia firme após a alta do Fed. O DXY negociava perto de 100,3 no início da sessão europeia; EUR/USD em torno de 1,146, GBP/USD perto de 1,337, USD/JPY na região de 155–156 e USD/CNH próximo de 6,71.
 
-O iene é hoje a principal moeda desenvolvida sensível a decisões de política econômica. O Japão voltou a alertar contra movimentos desordenados, e a decisão do Banco do Japão ocorre na sexta-feira. Uma alta de juros sem indicação de novos aumentos ainda pode deixar o iene vulnerável, porque o diferencial de juros curtos entre Estados Unidos e Japão permanece elevado.
-
-A Índia oferece um exemplo útil de fluxo. A rupia chegou a enfraquecer além de 96 por dólar, mas recuperou-se para aproximadamente 95,93 diante de provável intervenção do RBI e entradas de portfólio ligadas a rebalanceamento de índice. A estabilidade observada da moeda não significa que o choque externo desapareceu: atuação oficial e fluxos mecânicos absorveram parte dele.
-
-O real havia fechado perto de R$5,15 por dólar. Com Selic em 13,75% e Fed Funds em 3,75%–4,00%, a vantagem nominal de juros do Brasil continua grande, mas diminuiu. O mecanismo relevante passa pelas expectativas sobre o ritmo dos próximos cortes do Copom, credibilidade fiscal e comportamento global do dólar, e não apenas pela última mudança de 0,25 ponto.
+A Índia ilustra a diferença entre preço e fluxo. A rupia chegou a enfraquecer além de 96 por dólar, mas recuperou-se para aproximadamente 95,93 diante de provável intervenção do RBI e entradas de portfólio ligadas a rebalanceamento de índice. O real havia fechado perto de R$5,15 por dólar. Com Selic em 13,75% e Fed Funds em 3,75%–4,00%, a vantagem nominal de juros do Brasil continua grande, mas diminuiu.
 
 ## Juros globais, crédito e condições financeiras
 
-A decisão de setembro do Fed é o evento central para juros. O comunicado oficial descreveu atividade sólida e inflação elevada. As projeções elevaram o crescimento real de 2026 para 2,3%. No início desta quinta-feira, o Treasury de 2 anos negociava perto de 4,71% e o de 10 anos em torno de 4,99%; o H.15 oficial mais recente mostrava 5,36% no título de 30 anos e juro real de 10 anos em 2,62% em 15 de setembro.
+No início desta quinta-feira, o Treasury de 2 anos negociava perto de 4,71% e o de 10 anos em torno de 4,99%; dados oficiais H.15 mostravam 5,36% no título de 30 anos e juro real de 10 anos em 2,62% em 15 de setembro. Juros reais altos elevam a taxa mínima de retorno exigida para ações de crescimento, ativos privados e crédito alavancado.
 
-Esse nível de juro real importa para a precificação de várias classes de ativos. Ele aumenta a taxa mínima de retorno exigida para ouro, ações de crescimento, ativos privados e crédito alavancado. A recuperação do ouro apesar dos juros reais altos indica que a procura por proteção contra inflação e risco geopolítico continua relevante; não demonstra que o aperto monetário deixou de influenciar o metal.
-
-O VIX estava perto de 17,7 e o MOVE, índice de volatilidade dos Treasuries, ao redor de 80,7 nas indicações do início da sessão europeia. A volatilidade das ações permanece contida e a volatilidade de juros caiu depois do Fed. As evidências examinadas nesta manhã não mostram estresse sistêmico claro de financiamento. O risco é cumulativo: juros básicos, juros longos e custos de energia permanecem altos o suficiente para reduzir gradualmente a capacidade de serviço da dívida.
+O VIX estava perto de 17,7 e o MOVE ao redor de 80,7 nas indicações iniciais. As evidências examinadas não mostram estresse sistêmico agudo de financiamento. O risco é a pressão cumulativa de refinanciamento enquanto juros básicos, juros longos e energia permanecem elevados.
 
 ## Commodities e energia
 
-O Brent negociava aproximadamente a US$104–105 e o WTI perto de US$101. A queda reflete melhora das alternativas sauditas de exportação e expectativa de recuperação mais rápida do oleoduto East-West. O risco físico, contudo, permanece: o trânsito em Hormuz está muito abaixo do normal e o trabalho mais recente da EIA sobre segurança energética mostra que estoques estratégicos já foram reduzidos de forma material em várias economias consumidoras durante 2026.
+O Brent negociava perto de US$104–105 e o WTI ao redor de US$101. A queda reflete alternativas sauditas de exportação e expectativa de recuperação do oleoduto East-West. A evidência física exige cautela: Reuters/Kpler registraram **três travessias de navios de commodities na quarta-feira, conforme fotografia das 04h45 GMT de quinta-feira, ante média de aproximadamente 17 em dez dias, excluindo embarcações com AIS desligado**. Uma matéria publicada na quarta-feira havia registrado **quatro travessias na terça-feira, ante média de 18 em dez dias**, enquanto a comparação retrospectiva da quinta-feira citou 12 para terça. São dados preliminares que aparentemente usam horários de corte e/ou estados de classificação diferentes; demonstram tráfego visível severamente deprimido, mas não sustentam uma queda diária confiável de 12 para três.
 
-Derivados representam risco separado. O mercado de diesel continua apertado porque problemas de infraestrutura no Oriente Médio coincidem com pressão sobre o refino russo. Petróleo bruto mais barato não produz automaticamente queda equivalente no diesel. Para transporte de cargas, agricultura e indústria europeia, o diferencial de preço dos derivados pode importar mais que o movimento do Brent.
+Essa correção reduz a confiança na **magnitude da deterioração diária mais recente**, não na conclusão mais ampla de que a navegação em Hormuz continua prejudicada. A tese de alívio energético passa, portanto, principalmente pelas cargas alternativas sauditas, pela expectativa de recuperação do oleoduto e pela queda observada do petróleo — e não por uma reconstrução diária inconsistente de Hormuz.
 
-O ouro voltou para acima de US$4.300 por onça e a prata subia mais de 1% no início da sessão. O cobre permanecia relativamente estável. A combinação — ouro em alta, petróleo em baixa e Treasury yields ligeiramente menores — parece mais compatível com rebalanceamento de carteiras depois de um Fed mais duro que com um novo choque global de crescimento.
+Derivados continuam sendo risco separado. O diesel permanece apertado porque a interrupção no Oriente Médio coincide com pressão sobre o refino russo. Petróleo bruto mais barato não produz automaticamente alívio equivalente no diesel, no frete ou no combustível industrial.
 
-Mercados agrícolas apresentam movimentos individuais grandes, mas nesta manhã não há um único mecanismo macroeconômico suficientemente forte para tratá-los como sinal conjunto de inflação. Milho, trigo e soja apresentam volatilidade elevada, enquanto café e contratos pecuários registraram movimentos fortes no sentido contrário em alguns provedores. Como mês de vencimento e horário da bolsa alteram materialmente essas cotações, a conclusão macro diária não depende desses preços hoje.
+O ouro voltou para acima de US$4.300 por onça e a prata subia mais de 1%; o cobre permanecia relativamente estável. Mercados agrícolas apresentaram movimentos individuais grandes, mas diferenças de vencimento e horário das bolsas impedem tratar essas cotações como um sinal conjunto confiável de inflação hoje.
 
 ## Ativos digitais
 
-Bitcoin negociava perto de US$76 mil e Ether ao redor de US$2.430 após a decisão do Fed. Os preços à vista permaneceram relativamente estáveis, mas ETFs americanos de cripto registraram resgates materiais na sessão mais recente divulgada. A divergência importante é **resistência do preço versus enfraquecimento dos fluxos de fundos**. Portanto, Bitcoin estável não deve ser interpretado como evidência de melhora da liquidez global.
-
-A invalidação seria retorno persistente de entradas nos ETFs junto com queda dos juros reais e participação mais ampla de ativos de risco. Até lá, cripto se comporta mais como uma classe absorvendo menor demanda institucional do que como indicador antecedente de liquidez.
+Bitcoin negociava perto de US$76 mil e Ether ao redor de US$2.430. Os preços à vista permaneceram relativamente estáveis enquanto ETFs americanos de cripto registraram resgates materiais na sessão mais recente divulgada. Resistência do preço, portanto, não demonstra por si só melhora da liquidez global.
 
 ## Relações entre classes de ativos
 
-1. **Petróleo cai, ações sobem e juros longos recuam:** melhora da logística saudita reduziu o risco inflacionário extremo, ajudando simultaneamente bolsas e títulos públicos de prazo longo.
-2. **Fed sobe juros, Treasury de 10 anos fica abaixo de 5%:** aperto na parte curta pode reduzir a incerteza inflacionária na parte longa quando o mercado considera a reação do banco central crível.
-3. **Ouro sobe apesar dos juros reais elevados:** demanda por proteção contra risco geopolítico e inflação compensa parte do custo de oportunidade imposto por juros reais acima de 2,5%.
-4. **Ações coreanas resistem, estrangeiros vendem:** preços ainda não são confirmados pelos fluxos internacionais; fundamentos de semicondutores e efeito cambial compensam a venda externa.
-5. **China/Hong Kong caem enquanto Europa sobe:** o mesmo choque do Fed produz efeitos diferentes porque a Europa se beneficia imediatamente de energia importada mais barata, enquanto China e Hong Kong enfrentam diferencial de juros em dólar menos favorável somado à demanda doméstica fraca.
-6. **Bitcoin estável, fluxo de ETFs negativo:** estabilidade de preço não equivale a nova alocação de capital.
+1. **Petróleo cai, ações sobem e juros longos recuam:** alternativas sauditas de exportação reduziram parte do risco inflacionário imediato.
+2. **Fed sobe juros, Treasury de 10 anos fica abaixo de 5%:** aperto na parte curta pode coexistir com menor incerteza inflacionária na parte longa.
+3. **Ouro sobe apesar dos juros reais elevados:** procura por proteção geopolítica e inflacionária compensa parte do custo de oportunidade dos juros reais altos.
+4. **Ações coreanas resistem, estrangeiros vendem:** o preço não é confirmado pelos fluxos transfronteiriços.
+5. **China/Hong Kong caem enquanto Europa sobe:** a Europa recebe alívio imediato do petróleo importado mais barato, enquanto China/Hong Kong enfrentam diferencial de juros em dólar menos favorável e demanda doméstica fraca.
+6. **Bitcoin estável, fluxo de ETFs negativo:** estabilidade de preço não equivale a nova entrada institucional.
 
 ## Conflito, segurança e transmissão política
 
-O conflito no Golfo continua material porque afeta logística de petróleo, e não apenas o sentimento político. Dados verificados de navegação mostram tráfego anormalmente baixo em Hormuz, enquanto a Arábia Saudita utiliza rotas alternativas e repara infraestrutura danificada. O mecanismo é concreto: restrição na capacidade marítima e de oleodutos altera a oferta disponível de petróleo e derivados; isso muda preços de energia; energia afeta inflação; inflação altera a reação dos bancos centrais e o custo de financiamento soberano.
+O conflito no Golfo continua material porque afeta a logística física de energia. A observação robusta é que o tráfego visível de navios de commodities em Hormuz está muito abaixo das médias recentes, e não que uma contagem diária precisa tenha caído de 12 para três. Restrições na capacidade marítima e de oleodutos afetam a oferta disponível de petróleo e derivados; energia altera inflação; inflação muda a reação dos bancos centrais e o custo de financiamento.
 
-Declarações sobre intenção militar ou resolução diplomática iminente não são tratadas aqui como resultados verificados. As evidências relevantes para mercados são volume físico transportado, condição verificada da infraestrutura, custos de frete e seguro e preços observados de energia.
+Declarações sobre intenção militar ou resolução diplomática iminente não são tratadas como resultados verificados. Para mercados, importam volume físico com definição e horário de corte explícitos, condição verificada da infraestrutura, custos de frete e seguro e preços observados de energia.
 
 ## Riscos sistêmicos e transmissão
 
-**Retorno do choque energético.** Nova interrupção verificada da infraestrutura saudita ou da navegação em Hormuz elevaria petróleo e derivados, pressionaria compensação inflacionária e juros globais.
+**Retorno do choque energético:** nova interrupção verificada da infraestrutura saudita ou da navegação em Hormuz pressionaria petróleo, derivados e compensação inflacionária.
 
-**Transmissão dos juros para crédito.** A ausência de estresse agudo de financiamento não elimina o risco de um Treasury de referência perto de 5%. Refinanciamentos mais caros podem deteriorar gradualmente empresas alavancadas, imóveis comerciais e posições fiscais.
+**Transmissão dos juros para crédito:** ausência de estresse agudo não elimina o risco de refinanciamento com Treasury de referência perto de 5%.
 
-**Pressão cambial na Ásia.** Se o Fed continuar apertando enquanto bancos centrais asiáticos avançam mais lentamente, necessidade de intervenção e custo da energia importada podem aumentar ao mesmo tempo.
+**Pressão cambial na Ásia:** novo aperto do Fed com ajuste mais lento dos bancos centrais asiáticos pode aumentar simultaneamente a necessidade de intervenção e o custo da energia importada.
 
 ## Cenários condicionais
 
-**Cenário-base — restritivo, porém ordenado.** A capacidade saudita de exportação continua se recuperando, Brent permanece abaixo das máximas recentes de estresse, o Fed mantém viés de aperto e o Treasury de 10 anos oscila perto de 5% sem movimento desordenado. Bolsas permanecem seletivas, não uniformemente fortes. *Gatilhos observáveis:* recuperação do oleoduto, estabilidade dos diferenciais de derivados, spreads de crédito contidos e ausência de nova alta forte das expectativas de inflação.
+**Base — restritivo, porém ordenado.** Alternativas sauditas de exportação continuam se recuperando, Brent permanece abaixo das máximas recentes de estresse, Fed mantém viés de aperto e spreads de crédito permanecem contidos. Hormuz continua prejudicado, portanto a confiança na normalização física é apenas moderada.
 
-**Cenário pró-risco — normalização física da energia.** Tráfego em Hormuz e capacidade dos oleodutos sauditas melhoram mais rapidamente, Brent cai de forma sustentada, compensação inflacionária recua e juros longos diminuem apesar de um Fed ainda firme. Transporte, indústria e ativos sensíveis a juros ampliam a recuperação. *Gatilho:* volume físico verificado, não apenas declarações diplomáticas.
+**Pró-risco — normalização energética verificada.** Capacidade saudita de oleodutos/exportação melhora e o volume em Hormuz, medido de forma consistente, aumenta em observações sucessivas; derivados cedem, compensação inflacionária recua e juros longos diminuem. O gatilho é dado físico comparável, não manchete diplomática nem fotografias preliminares inconsistentes.
 
-**Cenário avesso a risco — nova interrupção de oferta com aperto monetário.** Infraestrutura energética volta a ser atingida ou o transporte marítimo diminui ainda mais, falta de derivados piora, Fed sinaliza altas consecutivas e o Treasury de 10 anos supera materialmente 5%. Spreads de crédito aumentam e moedas emergentes enfraquecem. *Gatilho:* deterioração simultânea de dados físicos de energia, preços de inflação e condições de crédito.
+**Avesso a risco — nova interrupção de oferta com aperto monetário.** Danos verificados à infraestrutura ou nova deterioração do transporte medido de forma consistente coincide com derivados mais caros, inflação renovada e abertura dos spreads de crédito.
 
 ## Catalisadores
 
-- **17 de setembro:** decisão do Banco da Inglaterra; Bank Rate antes da decisão em 3,75%.
-- **18 de setembro:** decisão do Banco do Japão; iene e curva de JGBs são os principais canais de transmissão.
+- **17 de setembro:** decisão do Banco da Inglaterra.
+- **18 de setembro:** decisão do Banco do Japão.
 - **7 de outubro:** divulgação da ata da reunião do Fed de 15–16 de setembro.
 - **27–28 de outubro:** próxima reunião programada do FOMC.
-- **4 de outubro:** próxima revisão programada da OPEP+ pelos sete países participantes do comunicado mais recente de ajustes voluntários.
+- **4 de outubro:** próxima revisão programada da OPEP+ pelos países participantes do ajuste voluntário mais recente.
 
 ## Conclusão
 
-**Tese:** o mercado deixou de precificar principalmente um risco extremo e descontrolado de falta de energia e passou a precificar um problema mais convencional, embora ainda restritivo, de inflação e juros. A logística saudita reduziu o risco imediato de escassez de petróleo; ao mesmo tempo, o Fed elevou o custo do dinheiro para impedir que a inflação de energia se espalhe para outros preços. Essa combinação permite alívio seletivo nas bolsas sem restaurar o ambiente de juros baixos que anteriormente sustentava avaliações muito elevadas.
+**Tese:** o mercado deixou de precificar principalmente um risco extremo de falta de energia e passou a precificar um problema restritivo de inflação e juros. As alternativas logísticas sauditas reduziram o risco imediato de escassez de petróleo enquanto o Fed elevou o custo do dinheiro. A evidência **não** permite afirmar uma melhora ou piora diária precisa do volume em Hormuz porque as fotografias preliminares da Kpler não são plenamente comparáveis.
 
-**Principal evidência contrária:** o tráfego em Hormuz continua severamente prejudicado e o mercado de derivados permanece apertado. A queda do Brent pode, portanto, exagerar a melhora na disponibilidade física de energia.
+**Principal evidência contrária:** o tráfego visível em Hormuz continua severamente deprimido e o mercado de derivados permanece apertado.
 
-**Risco possivelmente subestimado:** pressão cumulativa de refinanciamento. O mercado acompanha se o Treasury de 10 anos está ligeiramente acima ou abaixo de 5%, mas o efeito mais importante no médio prazo é a parcela crescente de devedores que precisa renovar dívidas a juros muito superiores aos contratados em anos anteriores.
+**Risco possivelmente subestimado:** pressão cumulativa de refinanciamento à medida que mais devedores renovam dívidas a juros muito superiores aos contratados anteriormente.
 
-**Três variáveis para acompanhar:** (1) volume físico verificado nas rotas sauditas/Hormuz e diferenciais do diesel; (2) Treasury de 2 e 10 anos e compensação inflacionária após o Fed; (3) confirmação por fluxos transfronteiriços em bolsas e moedas asiáticas e emergentes.
+**Três variáveis para acompanhar:** (1) volume físico medido de forma consistente nas rotas sauditas/Hormuz e diferenciais do diesel; (2) Treasury de 2 e 10 anos e compensação inflacionária; (3) confirmação por fluxos transfronteiriços em ativos asiáticos e emergentes.
 
 ## Fontes
 
-Primárias: comunicado do FOMC e projeções de setembro do Federal Reserve (16 de setembro de 2026); H.15 do Federal Reserve; nota de implementação do Fed; calendário de política monetária do Banco da Inglaterra; Short-Term Energy Outlook e dados de petróleo da EIA; comunicado da OPEP+ de 6 de setembro. Contexto e mercados: Reuters, Financial Times, Wall Street Journal, AP e provedores reconhecidos de dados de mercado. Preços de mercado são fotografias sensíveis ao horário e são identificados como tal; fechamentos oficiais são usados quando disponíveis.
+Primárias: comunicado do FOMC e projeções de setembro do Federal Reserve (16 de setembro de 2026); H.15 do Federal Reserve; nota de implementação do Fed; calendário de política monetária do Banco da Inglaterra; dados de petróleo da EIA; comunicado da OPEP+ de 6 de setembro. Contexto e mercados: Reuters, incluindo as matérias de 16 e 17 de setembro baseadas em Kpler sobre Hormuz, além de outros provedores de primeira linha. As observações de navegação são tratadas explicitamente como preliminares e sensíveis ao horário de corte e à classificação.
