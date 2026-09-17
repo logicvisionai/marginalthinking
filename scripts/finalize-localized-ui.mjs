@@ -11,7 +11,7 @@ const locales=Object.keys(cfg.locales||{});
 const pagePath=(locale,p)=>{const prefix=cfg.locales[locale]?.path?`/${cfg.locales[locale].path}`:'';return `${prefix}${p}`.replace(/\/+/g,'/');};
 const reportPath=(item,locale)=>pagePath(locale,item.url);
 const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>{const p=path.join(dir,e.name);return e.isDirectory()?walk(p):[p];});
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]));
 const rx=s=>String(s).replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
 
 function localizedCard(block,locale){
@@ -26,7 +26,9 @@ function localizedCard(block,locale){
     let a=attrs.replace(/\s+href="[^"]*"/i,'').replace(/\s+lang="[^"]*"/i,'');
     return `<h3><a${a} href="${href}" lang="${esc(lang)}">${esc(view.title||item.id)}</a></h3>`;
   });
-  block=block.replace(/(<\/h3>)\s*<p>[\s\S]*?<\/p>/i,`$1<p>${esc(view.deck||'')}</p>`);
+  // Cards may contain badges or metadata nodes between the heading and the deck.
+  // The first paragraph in these report-card article types is the canonical deck.
+  block=block.replace(/<p(?:\s[^>]*)?>[\s\S]*?<\/p>/i,`<p>${esc(view.deck||'')}</p>`);
   const tags=(view.tags||[]).slice(0,5);
   if(tags.length){
     const archiveTags=tags.map(x=>`<span class="tag">${esc(x)}</span>`).join('');
