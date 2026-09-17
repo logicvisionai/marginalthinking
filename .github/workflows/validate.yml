@@ -27,6 +27,9 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
       - name: Validate and build
         run: npm run build
 
@@ -44,6 +47,8 @@ jobs:
           test -f dist/pt-br/search.html
           test -f dist/assets/js/global-search.js
           test -f dist/assets/css/discovery.css
+          test -f dist/assets/og/marginal-thinking-en.png
+          test -f dist/assets/og/marginal-thinking-pt-br.png
           test -f dist/series/energy-materials-industrial-systems/index.html
           test -f dist/pt-br/series/energy-materials-industrial-systems/index.html
           test -f dist/data/taxonomy.json
