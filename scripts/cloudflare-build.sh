@@ -18,6 +18,10 @@ for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
   [[ -f "$f" ]] && cp "$f" dist/
 done
 
+# app.js dynamically rebuilds home/archive cards after first paint. Localize the
+# canonical reports dataset before that render so PT-BR cannot flash and revert to EN.
+node scripts/fix-client-locale.mjs
+
 node scripts/render-site.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
@@ -54,8 +58,8 @@ node scripts/validate-taxonomy-output.mjs
 node scripts/validate-series.mjs --dist
 node scripts/validate-dist.mjs
 node scripts/validate-seo.mjs
-# Locale integrity is a build invariant: archive cards, report pages, search entries and
-# geography navigation must match the canonical metadata for the selected language.
+# Locale integrity is a build invariant: archive cards, report pages, search entries,
+# geography navigation and client-side archive rendering must honor the selected locale.
 node scripts/validate-localized-output.mjs
 
 # Analytics is optional and never blocks publishing research.
@@ -76,4 +80,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
