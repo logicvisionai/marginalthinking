@@ -61,5 +61,32 @@ if(fs.existsSync(searchFile)){
   }
 }
 
+// The archive is server-rendered correctly, but app.js rebuilds it after first paint.
+// Guard against the exact regression where canonical EN data overwrites /pt-br/reports.
+const clientFile=path.join(dist,'assets','js','app.js');
+if(!fs.existsSync(clientFile))fail.push('cliente: dist/assets/js/app.js ausente');
+else{
+  const client=fs.readFileSync(clientFile,'utf8');
+  const localizeAt=client.indexOf('data=localizedResearchData(data);');
+  const renderAt=client.indexOf('renderArchive(data);');
+  if(!client.includes("const code=isPt()?'pt-BR':'en'"))fail.push('cliente: seleção explícita do locale ausente');
+  if(localizeAt<0)fail.push('cliente: índice de pesquisas não é localizado antes do render dinâmico');
+  if(renderAt>=0&&localizeAt>renderAt)fail.push('cliente: renderArchive ocorre antes da localização dos dados');
+}
+
+const publicReportsFile=path.join(dist,'data','reports.json');
+if(!fs.existsSync(publicReportsFile))fail.push('cliente: dist/data/reports.json ausente');
+else{
+  const publicReports=JSON.parse(fs.readFileSync(publicReportsFile,'utf8'));
+  const byId=new Map(publicReports.map(x=>[x.id,x]));
+  for(const item of reports){
+    const pub=byId.get(item.id);if(!pub){fail.push(`${item.id}: ausente do índice público`);continue;}
+    for(const locale of availableLocales(item).filter(x=>cfg.locales[x])){
+      const hasView=Boolean(pub.locale_views?.[locale]||(pub.source_locale===locale)||(pub.translations?.[locale]));
+      if(!hasView)fail.push(`${item.id}/${locale}: índice público sem view necessária ao render cliente`);
+    }
+  }
+}
+
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
-console.log(`Localized output OK: ${reports.length} reports verified across ${Object.keys(cfg.locales||{}).length} locales; archive cards and geography nav are locale-safe.`);
+console.log(`Localized output OK: ${reports.length} reports verified across ${Object.keys(cfg.locales||{}).length} locales; static and client-side archive rendering are locale-safe.`);
