@@ -8,7 +8,7 @@ const taxonomy=JSON.parse(fs.readFileSync(path.join(root,'data/taxonomy.json'),'
 const reports=collectReports(root),site=cfg.site_url.replace(/\/$/,''),locales=Object.keys(cfg.locales||{}),fail=[];
 const pagePath=(locale,p)=>{const prefix=cfg.locales[locale]?.path?`/${cfg.locales[locale].path}`:'';return `${prefix}${p}`.replace(/\/+/g,'/');};
 const reportPath=(item,locale)=>pagePath(locale,item.url);
-const fileForUrl=u=>path.join(out,String(u).replace(/^\//,'').replace(/\/$/,'/index.html'));
+const fileForUrl=u=>{let p=String(u).replace(/^\/+/, '');if(!p||p.endsWith('/'))p+='index.html';return path.join(out,p);};
 const localeSlug=locale=>locale.toLowerCase().replace(/[^a-z0-9]+/g,'-');
 const socialSlug=item=>path.basename(String(item.url||item.id||'research').replace(/\/$/,''),'.html').replace(/[^a-z0-9-]+/gi,'-').replace(/^-+|-+$/g,'').toLowerCase();
 const socialPath=(item,locale)=>`/assets/og/${socialSlug(item)}-${localeSlug(locale)}.png`;
