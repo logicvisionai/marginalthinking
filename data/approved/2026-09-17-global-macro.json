@@ -2,41 +2,42 @@
   "schema_version": 2,
   "id": "MT-GM-2026-09-17",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-17T11:48:31-03:00",
-  "reviewed_commit": "d78caa55b7ade544afd6bb90a24b10ce19711b0d",
-  "pending_blob_sha": "31c9387db4c962c947341e6d9aaa4bbcf09df759",
+  "reviewed_at": "2026-09-17T12:01:42-03:00",
+  "reviewed_commit": "1eb29145f1e88896d11b9d0eeb2895b9d9223dd6",
+  "pending_blob_sha": "2a8db60a03f48a72e17111863e871f39a792de1f",
   "source_blob_shas": {
-    "en": "0590675c21d83a7f897fa33a826f88f198db3f74",
-    "pt-BR": "0434d13fbde0c8d228481d90ade635056d008cfe"
+    "en": "eda3183c2bb74ce597c46a7bea69d1e188955cb2",
+    "pt-BR": "1e0228fa85f9c27f2afec1d7e211bcbf47dae55b"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
   "confidence": "medium",
   "checks": {
-    "pipeline": "passed: schema v2, ready, English source locale, both staged Markdown sources, revision 2 and declared revision_reason/qa_fixes_applied are present",
-    "revision_delta": "passed: public bundle is revision 1 and pending is revision 2; identity, date, slug and canonical publication identity are preserved. The declared delta is editorial restructuring/localization and accurately describes the material changes observed against the public revision 1 bundle.",
-    "facts": "passed with medium confidence: the editorial revision does not materially alter the previously reviewed factual thesis, numbers, dates, causal claims, scenarios or conclusions. Fed 25 bp hike to 3.75%-4.00% is confirmed by the Federal Reserve; Reuters corroborates the Goldman October-hike forecast, Saudi/Oman export relief, oil-price easing and the preliminary Hormuz observations.",
-    "taxonomy": "passed: political-economy-markets, controlled dimensions/topics/format/cadence and phenomena [war-armed-conflict, defense-security] remain valid under taxonomy 1.0",
-    "institutional_consensus": "passed: Goldman Sachs is described as a published house/research view rather than portfolio evidence; the public prose explicitly states that one documented house-view shift is not a consensus and does not expose an internal consensus-state label.",
-    "conflict_security": "passed: Hormuz evidence remains explicitly preliminary and cutoff/classification-sensitive; the report does not infer military intent or diplomatic outcomes as verified facts and connects the conflict to markets through physical throughput, logistics, insurance, energy prices, inflation and financing conditions.",
-    "translation": "passed: EN and PT-BR preserve thesis, quantitative claims, evidence status, confidence, scenarios, limitations and analytical conclusion while using idiomatic language in each edition.",
-    "editorial_publication_readiness": "passed: opening now delivers the thesis directly after H1; headings are predominantly finding-led rather than template containers; PT-BR localizes internal/English terminology; exposed QA/classification labels and backtick research taxonomy were removed; repeated Hormuz caveats were condensed; progression is thesis -> material changes -> market mechanisms -> risks/scenarios -> synthesis; no material prompt/template/meta-QA residue remains.",
-    "contextual_depth": "passed: for this daily brief, the material conflict/institutional context needed to explain current transmission is incorporated directly. No additional historical section is necessary; the report explains the durable currency-board mechanism for Hong Kong and the Gulf energy-logistics channel where context materially affects interpretation.",
-    "language_first_read": "passed: both editions identify subjects and mechanisms directly; PT-BR reads as localized Brazilian Portuguese rather than a literal translation and avoids the previously exposed cross-asset/internal-classification wording."
+    "pipeline": "passed: schema v2, ready, English source locale, both staged Markdown sources, revision 3 and declared contextual-depth revision are present",
+    "revision_delta": "passed: public bundle is revision 2 and pending is revision 3; ID, date, slug and canonical publication identity are preserved. The declared delta matches the observed changes: mechanism-relevant Tanker War/Earnest Will context, fiscal/household transmission, and society dimension metadata; no undeclared change to the core market thesis was found.",
+    "facts": "passed with medium confidence: the revision preserves previously reviewed market claims. Newly added historical claims are corroborated by U.S. Naval History and Heritage Command material on the Tanker War and Operation Earnest Will; the partial-bypass proposition is consistent with EIA chokepoint analysis; the fiscal/social channel is consistent with IMF GCC fiscal evidence.",
+    "taxonomy": "passed: political-economy-markets remains the primary program; economy, politics and society are materially connected in the revised text; topics, format, cadence and phenomena [war-armed-conflict, defense-security] are controlled under taxonomy 1.0.",
+    "institutional_consensus": "passed: Goldman Sachs remains explicitly a published research view rather than portfolio evidence; the article states that one attributable house-view shift is insufficient to establish consensus.",
+    "conflict_security": "passed: the historical analogy is explicitly limited to mechanism rather than prediction; intent and diplomatic claims are not presented as verified outcomes; current conflict transmission is tied to observable shipping, infrastructure, insurance/freight and energy-price channels.",
+    "translation": "passed: EN and PT-BR preserve the historical anchor, fiscal/household mechanism, evidence status, quantitative claims, scenarios, limitations and conclusion without material semantic divergence.",
+    "editorial_publication_readiness": "passed: direct thesis-led opening is preserved; headings remain informative; PT-BR is localized and readable; the new historical and social material is integrated into the argument rather than exposed as template/QA process; repetition remains controlled; progression is thesis -> changes -> market mechanisms -> conflict/logistics context -> risks/scenarios -> synthesis.",
+    "contextual_depth": "passed: the Gulf-energy mechanism now incorporates a selective historical anchor explaining route-security and vessel-behavior constraints, plus fiscal and household transmission where prolonged disruption becomes socially material. Context is used as orientation and the added material was externally rechecked rather than treated as evidence by itself.",
+    "language_first_read": "passed: subjects, mechanisms and consequences remain identifiable in both editions; the added Portuguese historical and fiscal passages read naturally and do not expose internal classification language."
   },
   "contrary_evidence": [
     "Visible Hormuz traffic remains severely below recent averages despite partial Saudi export-logistics relief, so the energy shock is not resolved.",
+    "Alternative Saudi and UAE routes can bypass only part of normal Hormuz volumes; redundancy reduces but does not eliminate route exposure.",
     "Refined-product markets, especially diesel, remain tight; lower crude prices therefore do not imply equivalent relief in transport or industrial fuel costs.",
-    "Public bank forecasts differ on the timing of the next Fed hike, so one Goldman Sachs forecast change cannot establish a broad institutional consensus.",
-    "Foreign selling in South Korea does not confirm the resilience of the local equity index, illustrating divergence between price and cross-border flow evidence."
+    "Public bank forecasts differ on the timing of the next Fed hike, so one Goldman Sachs forecast change cannot establish broad institutional consensus."
   ],
   "limitations": [
     "Kpler/Reuters Hormuz observations are preliminary snapshots with non-comparable cutoffs and/or classification states; AIS-dark traffic can be omitted, so they cannot support a precise day-over-day throughput series.",
-    "Several market prices in the daily brief are intraday observations rather than official closes and are time-sensitive.",
-    "The energy-relief mechanism depends partly on expected restoration of Saudi pipeline capacity and therefore remains less certain than the observed monetary-policy change.",
-    "The revision is primarily editorial; factual validation relies on rechecking the material claims and confirming that the editorial delta did not silently change the underlying quantitative or causal assessment."
+    "The Tanker War is used only as a historical mechanism comparison; different actors, capabilities and political conditions prevent treating it as a forecast template for the current conflict.",
+    "The fiscal and household pass-through of an energy shock varies materially by country according to fiscal buffers, subsidies, taxes, exchange rates and household consumption patterns; the report appropriately states the channel conditionally rather than as a uniform observed effect.",
+    "Several market prices are intraday observations rather than official closes and are time-sensitive.",
+    "The energy-relief mechanism depends partly on expected restoration of Saudi pipeline capacity and therefore remains less certain than the observed monetary-policy change."
   ],
-  "notes": "Revision 2 is an editorial-publication-readiness revision of the already public revision 1. It removes template-like opening fields, improves finding-led headings and localization, and condenses process/caveat repetition without materially changing the factual thesis. Approval is valid only for the exact pending and staged-source blob SHAs recorded here.",
+  "notes": "Revision 3 is a contextual-depth revision of public revision 2. It adds a mechanism-relevant Tanker War/Operation Earnest Will historical anchor and an explicit fiscal/household transmission channel, with society added as a dimension. The core quantitative market thesis, scenarios and institutional-consensus treatment remain materially unchanged. Approval is valid only for the exact pending and staged-source blob SHAs recorded here.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -47,8 +48,8 @@
     "kind": "daily-global-macro",
     "priority": 10,
     "source_locale": "en",
-    "revision": 2,
-    "revision_reason": "editorial_revision",
+    "revision": 3,
+    "revision_reason": "contextual_depth_revision",
     "supersedes_rejected_commit": "6c18c81b19388fcc9a8bd49a1932510ddacd5638",
     "qa_fixes_applied": [
       "Downgraded institutional consensus state from Broadening to Unclear because only Goldman Sachs had a sufficiently attributable dated house-view change; Fed projections and market pricing are no longer counted as institutional research signals.",
@@ -56,7 +57,9 @@
       "Recalculated energy-relief confidence so the thesis relies on Saudi alternative export loadings, expected East-West pipeline restoration and observed crude-price easing.",
       "Reworked the public opening so it states the analytical finding directly instead of exposing Executive Assessment, Regime, Observed Fact, Inference and Confidence as template fields.",
       "Replaced generic or internal-facing headings with finding-led headings, localized Portuguese terminology, removed exposed internal classification labels and reduced repeated QA/process language.",
-      "Condensed the repeated Hormuz caveat to preserve the methodological limitation without repeating the revision history across multiple sections."
+      "Condensed the repeated Hormuz caveat to preserve the methodological limitation without repeating the revision history across multiple sections.",
+      "Integrated a mechanism-relevant historical anchor from the 1980s Tanker War and Operation Earnest Will to explain why route security, insurance and vessel behavior affect effective transport capacity without using history as a prediction template.",
+      "Added the fiscal and household transmission channel linking prolonged Gulf energy disruption to public spending, real incomes and employment-sensitive sectors, making the social dimension materially explicit."
     ],
     "sources": {
       "en": {
@@ -64,28 +67,28 @@
         "title": "Global Macro Daily — September 17, 2026",
         "deck": "Partial relief in Saudi export logistics has reduced the immediate crude-supply tail risk, but Fed tightening keeps global financial conditions restrictive while Hormuz traffic remains severely impaired.",
         "tags": ["Federal Reserve", "Treasuries", "oil", "Strait of Hormuz", "global equities", "FX", "gold", "emerging markets"],
-        "keywords": ["Fed rate hike", "Treasury 10-year", "Brent", "Saudi Arabia", "Hormuz", "global markets", "cross-asset", "South Africa", "China", "Japan"],
+        "keywords": ["Fed rate hike", "Treasury 10-year", "Brent", "Saudi Arabia", "Hormuz", "Tanker War", "energy security", "fiscal transmission", "global markets", "cross-asset", "South Africa", "China", "Japan"],
         "regime": "Restrictive inflation-and-rates regime with partial crude-logistics relief but persistent physical shipping risk",
         "key_risk": "Renewed physical energy disruption while central banks continue tightening",
-        "watch": ["Consistently defined Saudi and Hormuz physical throughput plus diesel spreads", "U.S. 2-year and 10-year Treasury yields plus inflation compensation", "Cross-border equity and FX flows in Asia and emerging markets"],
-        "search_text": "Global macro September 17 2026 Fed hike Treasury yields oil Saudi Hormuz shipping Kpler equities FX gold emerging markets cross-asset institutional consensus"
+        "watch": ["Consistently defined Saudi and Hormuz physical throughput plus diesel spreads", "U.S. 2-year and 10-year Treasury yields plus inflation compensation", "Cross-border equity and FX flows in Asia and emerging markets", "Fiscal and household pass-through if the energy disruption persists"],
+        "search_text": "Global macro September 17 2026 Fed hike Treasury yields oil Saudi Hormuz shipping Kpler Tanker War energy security fiscal household transmission equities FX gold emerging markets cross-asset institutional consensus"
       },
       "pt-BR": {
         "markdown": "staging/research/2026/09/2026-09-17-global-macro/pt-BR.md",
         "title": "Global Macro Diário — 17 de setembro de 2026",
         "deck": "O alívio parcial na logística saudita reduziu o risco imediato de falta de petróleo, mas o aperto do Fed mantém as condições financeiras globais restritivas enquanto o tráfego em Hormuz continua severamente prejudicado.",
         "tags": ["Federal Reserve", "Treasuries", "petróleo", "Estreito de Hormuz", "bolsas globais", "câmbio", "ouro", "mercados emergentes"],
-        "keywords": ["alta de juros do Fed", "Treasury de 10 anos", "Brent", "Arábia Saudita", "Hormuz", "mercados globais", "relações entre classes de ativos", "África do Sul", "China", "Japão"],
+        "keywords": ["alta de juros do Fed", "Treasury de 10 anos", "Brent", "Arábia Saudita", "Hormuz", "Guerra dos Petroleiros", "segurança energética", "transmissão fiscal", "mercados globais", "relações entre classes de ativos", "África do Sul", "China", "Japão"],
         "regime": "Regime restritivo de inflação e juros, com alívio parcial na logística de petróleo e risco físico persistente no transporte marítimo",
         "key_risk": "Nova interrupção física de energia enquanto bancos centrais continuam apertando a política monetária",
-        "watch": ["Volume físico medido de forma consistente nas rotas sauditas e em Hormuz e diferenciais do diesel", "Treasuries de 2 e 10 anos e compensação inflacionária nos EUA", "Fluxos transfronteiriços em bolsas e moedas da Ásia e de mercados emergentes"],
-        "search_text": "Global macro 17 setembro 2026 alta Fed Treasury petróleo Arábia Saudita Hormuz Kpler bolsas câmbio ouro emergentes relações entre classes de ativos consenso institucional"
+        "watch": ["Volume físico medido de forma consistente nas rotas sauditas e em Hormuz e diferenciais do diesel", "Treasuries de 2 e 10 anos e compensação inflacionária nos EUA", "Fluxos transfronteiriços em bolsas e moedas da Ásia e de mercados emergentes", "Transmissão fiscal e para as famílias se a interrupção energética persistir"],
+        "search_text": "Global macro 17 setembro 2026 alta Fed Treasury petróleo Arábia Saudita Hormuz Kpler Guerra dos Petroleiros segurança energética transmissão fiscal famílias bolsas câmbio ouro emergentes relações entre classes de ativos consenso institucional"
       }
     },
     "taxonomy_version": "1.0",
     "program": "political-economy-markets",
     "related_programs": ["global-system-power"],
-    "dimensions": ["economy", "politics"],
+    "dimensions": ["economy", "politics", "society"],
     "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
     "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "banking-credit", "energy", "commodities-resources", "geopolitics-security"],
     "phenomena": ["war-armed-conflict", "defense-security"],
