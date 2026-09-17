@@ -40,6 +40,9 @@ node scripts/final-public-language.mjs
 # Global static search and semantic navigation are derived after editorial normalization.
 # Controlled taxonomy terms receive canonical links; free tags route into global search.
 node scripts/render-discovery.mjs
+# Enforce the selected locale on every research card and make geography the active
+# navigation axis on regions/countries pages. This is a final UI invariant, not content fallback.
+node scripts/finalize-localized-ui.mjs
 # Recovery navigation and agent discovery remain static: llms.txt, Markdown alternates,
 # crawler hints and Cloudflare headers are generated from the same canonical corpus.
 node scripts/render-agent-discovery.mjs
@@ -51,8 +54,8 @@ node scripts/validate-taxonomy-output.mjs
 node scripts/validate-series.mjs --dist
 node scripts/validate-dist.mjs
 node scripts/validate-seo.mjs
-# Locale integrity is a build invariant: archive cards, report pages and search entries
-# must match the canonical metadata for the selected language.
+# Locale integrity is a build invariant: archive cards, report pages, search entries and
+# geography navigation must match the canonical metadata for the selected language.
 node scripts/validate-localized-output.mjs
 
 # Analytics is optional and never blocks publishing research.
@@ -73,4 +76,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research with locale integrity validation, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
