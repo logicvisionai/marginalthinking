@@ -53,6 +53,9 @@ node scripts/render-discovery.mjs
 # Render human-facing MCP documentation after the search index exists so the page can
 # register itself there, while keeping /mcp reserved for the protocol endpoint.
 node scripts/render-mcp-docs.mjs
+# Cloudflare Static Assets normalizes *.html routes. Keep the human documentation on a
+# distinct directory URL so it can never normalize into the protocol endpoint at /mcp.
+node scripts/fix-mcp-docs-route.mjs
 # Recovery navigation and agent discovery remain static: llms.txt, Markdown alternates,
 # crawler hints and Cloudflare headers are generated from the same canonical corpus.
 node scripts/render-agent-discovery.mjs
