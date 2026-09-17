@@ -5,7 +5,7 @@ Marginal Thinking exposes its public research corpus to AI agents through a stat
 ## Endpoint
 
 ```text
-https://marginalthinking.org/mcp
+https://www.marginalthinking.org/mcp
 ```
 
 The endpoint is public and read-only. It does not require a separate database, vector store, API service, VM, Durable Object, KV namespace or authentication layer.
