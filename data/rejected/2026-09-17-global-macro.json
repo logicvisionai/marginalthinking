@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-17",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-17T08:25:47-03:00",
+  "reviewed_commit": "6c18c81b19388fcc9a8bd49a1932510ddacd5638",
+  "pending_blob_sha": "bea81a0b7b8a455251fb471b81e33c6fd4097a65",
+  "source_blob_shas": {
+    "en": "901eb4b0e110db473b31b6017f7c1015b88e6848",
+    "pt-BR": "48a0c3243b1896817ae89e05709c1734ec3948e6"
+  },
+  "blocking_issues": [
+    "The Institutional Consensus section labels the state 'Broadening' while the article identifies only Goldman Sachs specifically and refers generically to 'other major banks'. Under INSTITUTIONAL-CONSENSUS.md, a Broadening label requires multiple comparable, attributable signals; the report must name and date the additional institutions/signals or downgrade the state to Unclear/omit the consensus label.",
+    "The Hormuz comparison 'three commercial vessels on Wednesday versus 12 the day before' needs reconciliation with contemporaneous Reuters/Kpler reporting. Reuters reporting available on September 16 described four crossings on Tuesday and a 10-day average of 18, while September 17 reporting describes three on Wednesday and cites 12 the previous day. Because physical throughput is central to the report's regime thesis, the exact metric, observation cutoff and vessel universe must be stated and reconciled rather than presenting an apparently inconsistent day-over-day series as settled fact."
+  ],
+  "required_fixes": [
+    "For every institutional signal used to justify Broadening, identify actor, date, signal class and the actual change in stance; distinguish Fed projections and market pricing from institutional research signals. If multiple comparable institutional signals cannot be documented, remove or weaken the consensus-state label.",
+    "Recheck the September 15-16 Hormuz vessel counts against the underlying Reuters/Kpler observation and specify whether the figures refer to all vessel transits, commodity vessels, commercial vessels or another filtered universe, including the data cutoff. Revise both EN and PT-BR consistently.",
+    "After correcting the shipping series, reassess any conclusions that depend on the magnitude or direction of the physical-throughput change, including the energy-relief confidence statement and scenarios."
+  ],
+  "evidence": [
+    "Reuters, 2026-09-17: Goldman Sachs revised its public Fed forecast to a 25 bp October hike; this is a research thesis, not capital evidence.",
+    "Reuters/market reporting, 2026-09-17: several banks differ on timing of the next Fed hike, including December rather than October, which makes attribution important before calling the institutional state Broadening.",
+    "Reuters, 2026-09-17: preliminary tracking reported three Hormuz transits on Wednesday and warned that AIS-dark traffic is excluded.",
+    "Reuters, 2026-09-16: contemporaneous reporting described four Tuesday crossings and a 10-day average of 18, creating a material definitional/timing discrepancy that must be reconciled because throughput is central to the thesis."
+  ],
+  "taxonomy_issues": [],
+  "notes": "Pipeline v2 structure and controlled taxonomy are otherwise valid. phenomena [war-armed-conflict, defense-security] are controlled values and materially related to the report. EN/PT-BR are broadly semantically aligned. Core Fed decision and Saudi/Oman alternative-loading mechanism were corroborated; rejection is limited to the institutional-consensus evidence standard and a material physical-throughput series discrepancy."
+}
