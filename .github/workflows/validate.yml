@@ -44,8 +44,10 @@ jobs:
           test -f dist/data/research-intelligence.json
           test -f dist/data/search-index.json
           test -f dist/data/mcp-catalog.json
-          test -f dist/mcp.html
-          test -f dist/pt-br/mcp.html
+          test -f dist/mcp-docs/index.html
+          test -f dist/pt-br/mcp-docs/index.html
+          test ! -f dist/mcp.html
+          test ! -f dist/pt-br/mcp.html
           test -f dist/assets/css/mcp-docs.css
           test -f dist/search.html
           test -f dist/pt-br/search.html
@@ -65,13 +67,14 @@ jobs:
           grep -q '<a class="tag" href=' dist/reports.html
           grep -q '<a class="tag" href=' dist/pt-br/reports.html
           grep -q '.semantic-chip,.chips a,.tags a.tag' dist/assets/css/discovery.css
-          grep -q '/mcp.html' dist/index.html
-          grep -q '/pt-br/mcp.html' dist/pt-br/index.html
-          grep -q 'https://www.marginalthinking.org/mcp' dist/mcp.html
-          grep -q 'https://www.marginalthinking.org/mcp' dist/pt-br/mcp.html
-          grep -q '<loc>https://www.marginalthinking.org/mcp.html</loc>' dist/sitemap.xml
-          grep -q '<loc>https://www.marginalthinking.org/pt-br/mcp.html</loc>' dist/sitemap.xml
-          node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1); if(!x.locales.en.some(i=>i.id==='page:mcp')||!x.locales['pt-BR'].some(i=>i.id==='page:mcp')) process.exit(1)"
+          grep -q '/mcp-docs/' dist/index.html
+          grep -q '/pt-br/mcp-docs/' dist/pt-br/index.html
+          grep -q 'https://www.marginalthinking.org/mcp' dist/mcp-docs/index.html
+          grep -q 'https://www.marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
+          grep -q '<loc>https://www.marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://www.marginalthinking.org/pt-br/mcp-docs/</loc>' dist/sitemap.xml
+          ! grep -R -q '/mcp.html' dist --include='*.html' --include='*.xml' --include='*.json'
+          node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1); const en=x.locales.en.find(i=>i.id==='page:mcp'); const pt=x.locales['pt-BR'].find(i=>i.id==='page:mcp'); if(!en||!pt||en.url!=='/mcp-docs/'||pt.url!=='/pt-br/mcp-docs/') process.exit(1)"
           node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"
           echo "Static site validation completed."
 
