@@ -1,0 +1,48 @@
+{
+  "id": "MT-GM-2026-09-17",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T09:14:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "banking-credit", "energy", "commodities-resources", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "defense-security"],
+  "format": "brief",
+  "cadence": "daily",
+  "url": "/reports/2026/09/2026-09-17-global-macro.html",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "6c18c81b19388fcc9a8bd49a1932510ddacd5638",
+  "qa_reviewed_at": "2026-09-17T10:08:20-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "2f5c8e21a78dfd6830163cb445b65892db016bf7",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro Daily — September 17, 2026",
+      "deck": "Fed tightening and partial relief in Saudi export logistics shift attention from acute crude-supply risk toward restrictive inflation and rates, while Hormuz traffic remains severely impaired and preliminary vessel counts require careful reconciliation.",
+      "tags": ["Federal Reserve", "Treasuries", "oil", "Strait of Hormuz", "global equities", "FX", "gold", "emerging markets"],
+      "keywords": ["Fed rate hike", "Treasury 10-year", "Brent", "Saudi Arabia", "Hormuz", "global markets", "cross-asset", "South Africa", "China", "Japan"],
+      "regime": "Restrictive inflation-and-rates regime with partial crude-logistics relief but persistent physical shipping risk",
+      "key_risk": "Renewed physical energy disruption while central banks continue tightening",
+      "watch": ["Consistently defined Saudi and Hormuz physical throughput plus diesel spreads", "U.S. 2-year and 10-year Treasury yields plus inflation compensation", "Cross-border equity and FX flows in Asia and emerging markets"],
+      "search_text": "Global macro September 17 2026 Fed hike Treasury yields oil Saudi Hormuz shipping Kpler equities FX gold emerging markets cross-asset institutional consensus"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro Diário — 17 de setembro de 2026",
+      "deck": "Aperto do Fed e alívio parcial na logística saudita deslocam a atenção do risco agudo de falta de petróleo para inflação e juros restritivos, enquanto Hormuz continua severamente prejudicado e as contagens preliminares de navios exigem reconciliação cuidadosa.",
+      "tags": ["Federal Reserve", "Treasuries", "petróleo", "Estreito de Hormuz", "bolsas globais", "câmbio", "ouro", "mercados emergentes"],
+      "keywords": ["alta de juros do Fed", "Treasury de 10 anos", "Brent", "Arábia Saudita", "Hormuz", "mercados globais", "cross-asset", "África do Sul", "China", "Japão"],
+      "regime": "Regime restritivo de inflação e juros, com alívio parcial na logística de petróleo e risco físico persistente no transporte marítimo",
+      "key_risk": "Nova interrupção física de energia enquanto bancos centrais continuam apertando a política monetária",
+      "watch": ["Volume físico medido de forma consistente nas rotas sauditas e em Hormuz e diferenciais do diesel", "Treasuries de 2 e 10 anos e compensação inflacionária nos EUA", "Fluxos transfronteiriços em bolsas e moedas da Ásia e de mercados emergentes"],
+      "search_text": "Global macro 17 setembro 2026 alta Fed Treasury petróleo Arábia Saudita Hormuz Kpler bolsas câmbio ouro emergentes cross-asset consenso institucional"
+    }
+  }
+}
