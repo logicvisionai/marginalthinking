@@ -1,8 +1,8 @@
 # Marginal Thinking — Dynamic Research Context
 
 **Status:** additive internal research-memory layer  
-**Version:** 1.1  
-**Effective date:** 2026-09-16
+**Version:** 1.2  
+**Effective date:** 2026-09-17
 
 ## 1. Purpose
 
@@ -117,6 +117,24 @@ These headings are guidance, not a rigid schema. Omit irrelevant sections and ad
 
 History must be selective: include historical material only when it explains a present mechanism, constraint, dependency, institution, relationship or trajectory.
 
+### 6.1 Material-dimension coverage check
+
+Before a maintenance pass concludes that a new or updated briefing is sufficient, compare the canonical publication's `dimensions`, `phenomena`, geography, topics and core mechanisms with the context being retained. This is a **coverage check, not a requirement to create one section per dimension**.
+
+For every materially implicated dimension, ask explicitly:
+
+- **History:** is there a dated turning point, inherited institution, past conflict, policy regime, infrastructure decision, alliance, crisis or path dependency without which the current mechanism is easy to misread?
+- **Politics and institutions:** which states, agencies, firms, coalitions, alliances, legal arrangements, fiscal structures, security relationships or institutional constraints shape who can act and what they can do?
+- **Society, labour and demography:** when material, how do households, labour markets, migration, demographic structure, distributional effects, legitimacy, urbanization, education or social organization affect — or receive transmission from — the mechanism?
+- **Economy and production:** which stocks, flows, productive capabilities, ownership structures, infrastructure, financing channels, resource dependencies or capacity constraints are durable enough to reuse?
+- **Relationships:** which bilateral, regional, security, trade, capital, technology or infrastructure relationships materially alter the mechanism or constrain substitution?
+
+A publication tagged with `politics`, conflict/security phenomena or institutional topics must therefore trigger an explicit check for reusable political, institutional and historical context. A publication tagged with `society`, demographic/social phenomena or labour topics must trigger an explicit check for reusable social, labour and demographic context. The maintenance pass may still record no delta if none is durable or useful, but it must not default silently to economic/market context simply because that is easier to extract.
+
+The goal is **transversal intelligence**: context should help a future producer understand why a current event has the effect it does, which relationships and institutions condition that effect, how the mechanism evolved, and where social or political feedback can change the trajectory.
+
+Do not add generic background merely to satisfy this check. If a historical, political or social fact does not change interpretation, mechanism, constraint, comparison or a future research question, omit it.
+
 ## 7. Update rule
 
 Update context incrementally. Do not rewrite an entire briefing because a new article was published.
@@ -130,6 +148,7 @@ A maintenance pass should ask:
 5. Which prior statement became stale and needs re-verification or qualification?
 6. Did the new evidence reveal a candidate briefing that would materially reduce future research work?
 7. Did it reveal that two existing briefings should be merged or one should be split?
+8. Did the material-dimension coverage check reveal historical, political/institutional, social/demographic or relational context that is necessary to avoid an economically narrow future reading?
 
 If there is no durable delta, make no context commit.
 
@@ -149,7 +168,7 @@ Before researching a topic, a producer should:
 2. derive the research subject from the planned publication rather than from a fixed context list;
 3. search `research-context/briefings/` for context that overlaps the intended entities, mechanisms, relations, geography, topics, tags or keywords;
 4. read only the few briefings with clear relevance;
-5. use them to identify prior findings, historical anchors, relationships, open questions and likely sources;
+5. use them to identify prior findings, historical anchors, political/institutional structure, social/demographic context when material, relationships, open questions and likely sources;
 6. verify current claims externally;
 7. perform the normal research, bilingual staging and v2 pending workflow.
 
@@ -193,6 +212,7 @@ The context layer must reduce work, not become another maintenance burden.
 - Do not maintain current market snapshots or ephemeral event summaries as durable context.
 - Keep briefings compact enough to be cheap for future agents to read.
 - Use Git history instead of embedding a long changelog when old detail no longer helps future research.
+- Run the material-dimension coverage check before concluding maintenance on a politically, socially or historically consequential object.
 
 ## 12. Concurrency and Git
 
@@ -217,6 +237,7 @@ context: update dynamic research memory YYYY-MM-DDTHHMM
 - Avoid false precision in relationship strength or confidence.
 - Prefer dated turning points and explicit mechanisms over generic historical narrative.
 - Keep sources sufficiently specific that a future producer can re-open and verify them.
+- Do not let context default to market/economic structure when the canonical research materially implicates political, historical or social mechanisms.
 
 ## 14. Public exposure
 
