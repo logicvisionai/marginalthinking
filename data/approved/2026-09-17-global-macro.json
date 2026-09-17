@@ -7,7 +7,7 @@
   "pending_blob_sha": "89a2bc3f7166636baf79140d15e0d38364a5080c",
   "source_blob_shas": {
     "en": "a57091a197a2e76352ac588b25984c7f72a4ec31",
-    "pt-BR": "7a2ccba970f5a95dc965b4c0a0a18319bc9c23e5"
+    "pt-BR": "32268662ee2eee3b660fb57e526c7637129a019b"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -79,7 +79,7 @@
     "program": "political-economy-markets",
     "related_programs": ["global-system-power"],
     "dimensions": ["economy", "politics"],
-    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
     "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "banking-credit", "energy", "commodities-resources", "geopolitics-security"],
     "phenomena": ["war-armed-conflict", "defense-security"],
     "format": "brief",
