@@ -2,7 +2,10 @@
   "name": "marginal-thinking",
   "private": true,
   "dependencies": {
-    "sharp": "0.34.3"
+    "@modelcontextprotocol/server": "2.0.0",
+    "agents": "0.23.0",
+    "sharp": "0.34.3",
+    "zod": "^4.4.3"
   },
   "scripts": {
     "prepare:copy": "node scripts/apply-institutional-copy.mjs",
@@ -10,6 +13,7 @@
     "validate:series": "node scripts/validate-series.mjs",
     "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:series",
     "render": "npm run prepare:copy && node scripts/render-site.mjs",
+    "mcp:catalog": "node scripts/render-mcp-catalog.mjs",
     "validate:dist": "node scripts/validate-dist.mjs",
     "build": "npm run prepare:copy && npm run validate && bash scripts/cloudflare-build.sh"
   }
