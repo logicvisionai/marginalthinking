@@ -1,6 +1,9 @@
 {
   "name": "marginal-thinking",
   "private": true,
+  "dependencies": {
+    "sharp": "0.34.3"
+  },
   "scripts": {
     "prepare:copy": "node scripts/apply-institutional-copy.mjs",
     "validate:pipeline": "node scripts/validate-pipeline.mjs",
