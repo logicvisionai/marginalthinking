@@ -81,6 +81,8 @@ Bitcoin traded around $76,000 and Ether around $2,430. Spot prices were comparat
 
 The market-relevant mechanism runs through physical throughput, alternative export routes, freight and insurance, refined-product availability and energy prices. Those variables affect inflation expectations and, in turn, the reaction of central banks and the cost of financing. This is why a partial improvement in Saudi logistics can coexist with restrictive global financial conditions.
 
+There is a useful historical precedent at the level of mechanism, not as a forecast of escalation. During the 1980s Tanker War, attacks on commercial shipping, mining and the U.S.-led Operation Earnest Will showed that vessel behavior, escort requirements and maritime security costs could change even without a formal closure of Hormuz. The relevant lesson for the current episode is narrower: effective transport capacity depends not only on production, but also on route security, insurance, port access and the willingness of ships to transit. Alternative Saudi and Emirati pipelines reduce part of that exposure, but available bypass capacity is only partial, so redundancy changes the distribution of risk rather than eliminating it.
+
 Claims about military intent or imminent diplomatic resolution are not treated as verified outcomes. For market analysis, the higher-value evidence remains physical throughput with explicit definitions and cutoffs, verified infrastructure condition, freight and insurance costs, and observed energy prices.
 
 ## Systemic risks and transmission
@@ -88,6 +90,8 @@ Claims about military intent or imminent diplomatic resolution are not treated a
 **Renewed energy disruption:** verified damage to Saudi export infrastructure or further impairment of Hormuz shipping would pressure crude, refined products and inflation compensation.
 
 **Rates-to-credit transmission:** the absence of acute financing stress does not eliminate refinancing risk around a 5% Treasury benchmark.
+
+**Fiscal and household transmission:** hydrocarbon revenue has historically played a large role in Gulf public spending, while energy-importing economies transmit higher crude, refined-product, freight and insurance costs to households through different combinations of fuel, transport, electricity, exchange rates, taxes and subsidies. A prolonged disruption can therefore move beyond market prices into fiscal choices, real incomes and employment-sensitive sectors even when aggregate crude production does not fall by the same proportion.
 
 **Asian FX pressure:** further Fed tightening with slower Asian policy adjustment can increase intervention needs and imported-energy costs simultaneously.
 
@@ -111,8 +115,8 @@ Claims about military intent or imminent diplomatic resolution are not treated a
 
 Saudi alternative logistics have reduced the immediate crude-shortage tail risk, while the Fed has raised the cost of money. That combination explains why risk assets can stabilize without a broad easing in financial conditions. Visible Hormuz traffic remains severely depressed and refined-product markets remain tight, so the energy shock has not been resolved.
 
-The most easily underestimated risk is cumulative refinancing pressure as more borrowers roll debt at rates materially above earlier vintages. The three variables that matter most from here are consistently defined Saudi/Hormuz physical throughput and diesel spreads; U.S. 2-year and 10-year yields together with inflation compensation; and cross-border flow confirmation in Asian and emerging-market assets.
+The most easily underestimated risk is cumulative refinancing pressure as more borrowers roll debt at rates materially above earlier vintages. The three variables that matter most from here are consistently defined Saudi/Hormuz physical throughput and diesel spreads; U.S. 2-year and 10-year yields together with inflation compensation; and cross-border flow confirmation in Asian and emerging-market assets. A fourth variable becomes important if the disruption persists: whether higher energy and security costs begin to alter fiscal choices and household real income rather than remaining primarily a market-pricing shock.
 
 ## Sources
 
-Primary: Federal Reserve FOMC statement and September projections (September 16, 2026); Federal Reserve H.15; Federal Reserve implementation note; Bank of England monetary-policy calendar; U.S. EIA petroleum data; OPEC+ September 6 statement. Context and market reporting: Reuters, including September 16 and September 17 Kpler-based Hormuz reports, plus other first-line market-data providers. Shipping observations are treated as preliminary and sensitive to cutoff and classification.
+Primary: Federal Reserve FOMC statement and September projections (September 16, 2026); Federal Reserve H.15; Federal Reserve implementation note; Bank of England monetary-policy calendar; U.S. EIA petroleum data and World Oil Transit Chokepoints analysis; OPEC+ September 6 statement; U.S. Naval History and Heritage Command material on the 1980s Tanker War and Operation Earnest Will; IMF policy work on GCC fiscal adjustment and expenditure. Context and market reporting: Reuters, including September 16 and September 17 Kpler-based Hormuz reports, plus other first-line market-data providers. Shipping observations are treated as preliminary and sensitive to cutoff and classification.

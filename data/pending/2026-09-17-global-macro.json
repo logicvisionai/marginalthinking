@@ -8,8 +8,8 @@
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
-  "revision": 2,
-  "revision_reason": "editorial_revision",
+  "revision": 3,
+  "revision_reason": "contextual_depth_revision",
   "supersedes_rejected_commit": "6c18c81b19388fcc9a8bd49a1932510ddacd5638",
   "qa_fixes_applied": [
     "Downgraded institutional consensus state from Broadening to Unclear because only Goldman Sachs had a sufficiently attributable dated house-view change; Fed projections and market pricing are no longer counted as institutional research signals.",
@@ -17,7 +17,9 @@
     "Recalculated energy-relief confidence so the thesis relies on Saudi alternative export loadings, expected East-West pipeline restoration and observed crude-price easing.",
     "Reworked the public opening so it states the analytical finding directly instead of exposing Executive Assessment, Regime, Observed Fact, Inference and Confidence as template fields.",
     "Replaced generic or internal-facing headings with finding-led headings, localized Portuguese terminology, removed exposed internal classification labels and reduced repeated QA/process language.",
-    "Condensed the repeated Hormuz caveat to preserve the methodological limitation without repeating the revision history across multiple sections."
+    "Condensed the repeated Hormuz caveat to preserve the methodological limitation without repeating the revision history across multiple sections.",
+    "Integrated a mechanism-relevant historical anchor from the 1980s Tanker War and Operation Earnest Will to explain why route security, insurance and vessel behavior affect effective transport capacity without using history as a prediction template.",
+    "Added the fiscal and household transmission channel linking prolonged Gulf energy disruption to public spending, real incomes and employment-sensitive sectors, making the social dimension materially explicit."
   ],
   "sources": {
     "en": {
@@ -25,28 +27,28 @@
       "title": "Global Macro Daily — September 17, 2026",
       "deck": "Partial relief in Saudi export logistics has reduced the immediate crude-supply tail risk, but Fed tightening keeps global financial conditions restrictive while Hormuz traffic remains severely impaired.",
       "tags": ["Federal Reserve", "Treasuries", "oil", "Strait of Hormuz", "global equities", "FX", "gold", "emerging markets"],
-      "keywords": ["Fed rate hike", "Treasury 10-year", "Brent", "Saudi Arabia", "Hormuz", "global markets", "cross-asset", "South Africa", "China", "Japan"],
+      "keywords": ["Fed rate hike", "Treasury 10-year", "Brent", "Saudi Arabia", "Hormuz", "Tanker War", "energy security", "fiscal transmission", "global markets", "cross-asset", "South Africa", "China", "Japan"],
       "regime": "Restrictive inflation-and-rates regime with partial crude-logistics relief but persistent physical shipping risk",
       "key_risk": "Renewed physical energy disruption while central banks continue tightening",
-      "watch": ["Consistently defined Saudi and Hormuz physical throughput plus diesel spreads", "U.S. 2-year and 10-year Treasury yields plus inflation compensation", "Cross-border equity and FX flows in Asia and emerging markets"],
-      "search_text": "Global macro September 17 2026 Fed hike Treasury yields oil Saudi Hormuz shipping Kpler equities FX gold emerging markets cross-asset institutional consensus"
+      "watch": ["Consistently defined Saudi and Hormuz physical throughput plus diesel spreads", "U.S. 2-year and 10-year Treasury yields plus inflation compensation", "Cross-border equity and FX flows in Asia and emerging markets", "Fiscal and household pass-through if the energy disruption persists"],
+      "search_text": "Global macro September 17 2026 Fed hike Treasury yields oil Saudi Hormuz shipping Kpler Tanker War energy security fiscal household transmission equities FX gold emerging markets cross-asset institutional consensus"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-17-global-macro/pt-BR.md",
       "title": "Global Macro Diário — 17 de setembro de 2026",
       "deck": "O alívio parcial na logística saudita reduziu o risco imediato de falta de petróleo, mas o aperto do Fed mantém as condições financeiras globais restritivas enquanto o tráfego em Hormuz continua severamente prejudicado.",
       "tags": ["Federal Reserve", "Treasuries", "petróleo", "Estreito de Hormuz", "bolsas globais", "câmbio", "ouro", "mercados emergentes"],
-      "keywords": ["alta de juros do Fed", "Treasury de 10 anos", "Brent", "Arábia Saudita", "Hormuz", "mercados globais", "relações entre classes de ativos", "África do Sul", "China", "Japão"],
+      "keywords": ["alta de juros do Fed", "Treasury de 10 anos", "Brent", "Arábia Saudita", "Hormuz", "Guerra dos Petroleiros", "segurança energética", "transmissão fiscal", "mercados globais", "relações entre classes de ativos", "África do Sul", "China", "Japão"],
       "regime": "Regime restritivo de inflação e juros, com alívio parcial na logística de petróleo e risco físico persistente no transporte marítimo",
       "key_risk": "Nova interrupção física de energia enquanto bancos centrais continuam apertando a política monetária",
-      "watch": ["Volume físico medido de forma consistente nas rotas sauditas e em Hormuz e diferenciais do diesel", "Treasuries de 2 e 10 anos e compensação inflacionária nos EUA", "Fluxos transfronteiriços em bolsas e moedas da Ásia e de mercados emergentes"],
-      "search_text": "Global macro 17 setembro 2026 alta Fed Treasury petróleo Arábia Saudita Hormuz Kpler bolsas câmbio ouro emergentes relações entre classes de ativos consenso institucional"
+      "watch": ["Volume físico medido de forma consistente nas rotas sauditas e em Hormuz e diferenciais do diesel", "Treasuries de 2 e 10 anos e compensação inflacionária nos EUA", "Fluxos transfronteiriços em bolsas e moedas da Ásia e de mercados emergentes", "Transmissão fiscal e para as famílias se a interrupção energética persistir"],
+      "search_text": "Global macro 17 setembro 2026 alta Fed Treasury petróleo Arábia Saudita Hormuz Kpler Guerra dos Petroleiros segurança energética transmissão fiscal famílias bolsas câmbio ouro emergentes relações entre classes de ativos consenso institucional"
     }
   },
   "taxonomy_version": "1.0",
   "program": "political-economy-markets",
   "related_programs": ["global-system-power"],
-  "dimensions": ["economy", "politics"],
+  "dimensions": ["economy", "politics", "society"],
   "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
   "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "banking-credit", "energy", "commodities-resources", "geopolitics-security"],
   "phenomena": ["war-armed-conflict", "defense-security"],
