@@ -18,7 +18,7 @@ See [`RESEARCH-PUBLISHING.md`](./RESEARCH-PUBLISHING.md) for the editorial archi
 The public research corpus is also exposed through a stateless, read-only Model Context Protocol endpoint:
 
 ```text
-https://marginalthinking.org/mcp
+https://www.marginalthinking.org/mcp
 ```
 
 The MCP is generated from the same canonical report metadata and Markdown used by the site. It adds no database, vector store or parallel publishing pipeline. See [`MCP.md`](./MCP.md) for the architecture and available research tools.
