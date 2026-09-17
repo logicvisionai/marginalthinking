@@ -29,6 +29,9 @@ node scripts/render-taxonomy-pages.mjs
 # Derive corpus-level intelligence from canonical metadata only. This adds no
 # publication burden to agents and never counts translations as separate research.
 node scripts/render-research-intelligence.mjs
+# Build the machine-readable public catalog used by the stateless MCP endpoint.
+# It contains only metadata and URLs already present in the public research corpus.
+node scripts/render-mcp-catalog.mjs
 # Controlled product series remain subordinate to permanent programs and receive
 # their own collection pages without expanding the global navigation.
 node scripts/render-series-pages.mjs
@@ -80,4 +83,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, public MCP catalog, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'

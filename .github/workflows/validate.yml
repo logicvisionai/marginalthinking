@@ -43,6 +43,7 @@ jobs:
           test -f dist/pt-br/research/coverage/index.html
           test -f dist/data/research-intelligence.json
           test -f dist/data/search-index.json
+          test -f dist/data/mcp-catalog.json
           test -f dist/search.html
           test -f dist/pt-br/search.html
           test -f dist/assets/js/global-search.js
@@ -62,4 +63,8 @@ jobs:
           grep -q '<a class="tag" href=' dist/pt-br/reports.html
           grep -q '.semantic-chip,.chips a,.tags a.tag' dist/assets/css/discovery.css
           node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1)"
+          node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"
           echo "Static site validation completed."
+
+      - name: Validate Worker bundle
+        run: npx wrangler deploy --dry-run --outdir .wrangler-dry-run
