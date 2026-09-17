@@ -80,7 +80,7 @@ The September 17 context review added the historical, institutional and social m
 - `MT-GM-2026-0914` — Global Macro, Markets & Political Risk Report, 2026-09-14.
 - `MT-GM-2026-09-15` — Global Macro, Markets & Political Risk, 2026-09-15.
 - `MT-GM-2026-09-16` — Global Macro, Markets & Political Risk, 2026-09-16.
-- `MT-GM-2026-09-17` — Global Macro Daily, 2026-09-17, revision 2.
+- `MT-GM-2026-09-17` — Global Macro Daily, 2026-09-17, revision 3.
 - `MT-WF-2026-09-16` — Global Wealth Flow Monitor, 2026-09-16.
 
 ## Sources and verification notes
