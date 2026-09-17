@@ -8,6 +8,10 @@
   "editorial_architecture_version": "1.0",
   "taxonomy_file": "data/taxonomy.json",
   "social_image": "/assets/brand/marginal-thinking-logo.png",
+  "social_descriptions": {
+    "en": "Marginal Thinking is an independent research platform on economics, politics and society, connecting capital, markets, productive capacity, institutions and power.",
+    "pt-BR": "Marginal Thinking é uma plataforma independente de pesquisa sobre economia, política e sociedade, conectando capital, mercados, capacidade produtiva, instituições e poder."
+  },
   "locales": {
     "en": {
       "lang": "en",
