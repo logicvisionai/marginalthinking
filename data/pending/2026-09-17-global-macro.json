@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-17",
+  "slug": "2026-09-17-global-macro",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T08:16:01-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-17-global-macro/en.md",
+      "title": "Global Macro Daily — September 17, 2026",
+      "deck": "Fed tightening, partial relief in Gulf oil logistics and divergent cross-asset flows shift the global regime from acute supply-tail risk toward a restrictive inflation-and-rates problem.",
+      "tags": ["Federal Reserve", "Treasuries", "oil", "Strait of Hormuz", "global equities", "FX", "gold", "emerging markets"],
+      "keywords": ["Fed rate hike", "Treasury 10-year", "Brent", "Saudi Arabia", "Hormuz", "global markets", "cross-asset", "South Africa", "China", "Japan"],
+      "regime": "Restrictive inflation-and-rates regime with easing near-term oil-supply tail risk",
+      "key_risk": "Renewed physical energy disruption while central banks continue tightening",
+      "watch": ["Saudi and Hormuz physical oil throughput and diesel spreads", "U.S. 2-year and 10-year Treasury yields plus inflation compensation", "Cross-border equity and FX flows in Asia and emerging markets"],
+      "search_text": "Global macro September 17 2026 Fed hike Treasury yields oil Saudi Hormuz equities FX gold emerging markets cross-asset institutional consensus"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-17-global-macro/pt-BR.md",
+      "title": "Global Macro Diário — 17 de setembro de 2026",
+      "deck": "Aperto do Fed, alívio parcial na logística de petróleo do Golfo e fluxos divergentes entre classes de ativos deslocam o regime global do risco extremo de oferta para um problema restritivo de inflação e juros.",
+      "tags": ["Federal Reserve", "Treasuries", "petróleo", "Estreito de Hormuz", "bolsas globais", "câmbio", "ouro", "mercados emergentes"],
+      "keywords": ["alta de juros do Fed", "Treasury de 10 anos", "Brent", "Arábia Saudita", "Hormuz", "mercados globais", "cross-asset", "África do Sul", "China", "Japão"],
+      "regime": "Regime restritivo de inflação e juros, com redução do risco extremo imediato na oferta de petróleo",
+      "key_risk": "Nova interrupção física de energia enquanto bancos centrais continuam apertando a política monetária",
+      "watch": ["Volume físico de petróleo nas rotas sauditas e em Hormuz e diferenciais do diesel", "Treasuries de 2 e 10 anos e compensação inflacionária nos EUA", "Fluxos transfronteiriços em bolsas e moedas da Ásia e de mercados emergentes"],
+      "search_text": "Global macro 17 setembro 2026 alta Fed Treasury petróleo Arábia Saudita Hormuz bolsas câmbio ouro emergentes cross-asset consenso institucional"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "banking-credit", "energy", "commodities-resources", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "defense-security"],
+  "format": "brief",
+  "cadence": "daily"
+}
