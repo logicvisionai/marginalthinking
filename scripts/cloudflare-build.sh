@@ -50,6 +50,9 @@ node scripts/finalize-localized-ui.mjs
 # Global static search and semantic navigation are derived after locale/editorial normalization.
 # Controlled taxonomy terms receive canonical links; free tags route into global search.
 node scripts/render-discovery.mjs
+# Render human-facing MCP documentation after the search index exists so the page can
+# register itself there, while keeping /mcp reserved for the protocol endpoint.
+node scripts/render-mcp-docs.mjs
 # Recovery navigation and agent discovery remain static: llms.txt, Markdown alternates,
 # crawler hints and Cloudflare headers are generated from the same canonical corpus.
 node scripts/render-agent-discovery.mjs
@@ -83,4 +86,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, public MCP catalog, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, public MCP catalog and documentation, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
