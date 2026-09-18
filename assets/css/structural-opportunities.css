@@ -38,9 +38,11 @@
 .state-definition p{margin:12px 0 0;color:var(--muted);font-size:13px;line-height:1.58;max-width:510px}
 .map-section{background:#edf1f3}
 .map-panel{background:#09161d;border:1px solid #203741;padding:18px;box-shadow:0 16px 44px rgba(8,18,25,.08)}
-.atlas-map{display:block;width:100%;aspect-ratio:2/1;background:radial-gradient(circle at 60% 42%,#102a35 0,#0a1921 58%,#071218 100%)}
-.map-grid line{stroke:#6f8d99;stroke-width:.55;opacity:.13}
-.map-land polygon{fill:#263d48;stroke:#4f6872;stroke-width:1;opacity:.88}
+.atlas-map{display:block;width:100%;height:auto;background:radial-gradient(circle at 60% 42%,#102a35 0,#0a1921 58%,#071218 100%);overflow:visible}
+.map-sphere{fill:#0b1b24;stroke:#42606d;stroke-width:1}
+.map-graticule{fill:none;stroke:#6f8d99;stroke-width:.45;opacity:.16;vector-effect:non-scaling-stroke}
+.map-land path{fill:#263d48;stroke:none;opacity:.94}
+.map-borders{fill:none;stroke:#58727d;stroke-width:.45;opacity:.62;vector-effect:non-scaling-stroke}
 .atlas-pin-link{transition:opacity .18s ease}
 .atlas-pin-link.is-filtered-out{opacity:.12;pointer-events:none}
 .pin-hit{fill:transparent;pointer-events:all}

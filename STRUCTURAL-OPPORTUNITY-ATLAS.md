@@ -59,6 +59,14 @@ For a validated material change:
 
 Candidate signals that do not alter the structural record remain outside the public Atlas.
 
+## Cartographic rendering
+
+The public map is generated at build time from Natural Earth world geometry distributed by `world-atlas` at 1:110m resolution. Geometry is projected with Equal Earth using `d3-geo`, converted from TopoJSON with `topojson-client`, and emitted as a static SVG.
+
+The browser receives no map tiles, geographic runtime dependency or external map API. Entry coordinates remain latitude/longitude in the canonical Atlas dataset and are projected by the same build-time projection used for the map. The SVG preserves its viewBox and aspect ratio on small screens, preventing geographic distortion during responsive rendering.
+
+Country boundaries are contextual cartography only. Atlas classifications attach to the explicit structural conditions and perspectives in the dataset, not to the country polygons.
+
 ## Evidence standard
 
 A public entry requires evidence sufficiently close to the claim. Primary and official sources are preferred for infrastructure, regulation, system statistics and public programmes. Secondary sources may provide context but should not carry a material claim when primary evidence is available.

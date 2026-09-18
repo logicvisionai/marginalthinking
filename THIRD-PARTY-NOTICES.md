@@ -13,3 +13,8 @@ For every daily report:
 5. preserve any attribution, notice or license required by the original data provider.
 
 Source-specific notices should be recorded with the relevant report or dataset whenever required.
+
+
+## Structural Opportunity Atlas cartography
+
+The Structural Opportunity Atlas uses `world-atlas` 2.0.2, a TopoJSON redistribution of Natural Earth vector data, as its build-time world geometry. The map is rendered at build time with `d3-geo` 3.1.1 and `topojson-client` 3.1.0. Natural Earth data is public domain; the JavaScript packages are used under their respective ISC licenses. No third-party map tiles or runtime mapping service are redistributed.
