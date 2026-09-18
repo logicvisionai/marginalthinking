@@ -2,41 +2,56 @@
   "schema_version": 2,
   "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",
   "slug": "2026-09-16-strategic-transition-bulgaria-euro-market-integration",
+  "revision": 3,
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-16T14:19:28-03:00",
-  "reviewed_commit": "92a5b0ebe8065b4d01072a4b5fcc6d36d6cfaadd",
-  "pending_blob_sha": "85090f1878f3c6a69f098d8e601889e7a9df8136",
+  "reviewed_at": "2026-09-18T00:40:59-03:00",
+  "reviewed_commit": "1c442dc38934dbf15a359282cb0aaaf53256c944",
+  "pending_blob_sha": "384c9fa7fc464386bb9b99f0ca86e692314b3937",
   "source_blob_shas": {
     "en": "6e0a23cd34570cfa1a5ba683c532b2d6bc8e8d9f",
     "pt-BR": "f534ff31cd5061ef2a8ed46563f1b52829298074"
   },
   "program": "strategic-transitions",
   "confidence": "medium",
-  "taxonomy_issues": [
-    "The current unpublished, materially revised v2 pending sidecar omits the required top-level phenomena array. Under the frozen taxonomy and current QA contract, new or materially revised research must declare phenomena as an array, including [] when no controlled phenomenon is material."
-  ],
+  "taxonomy_issues": [],
   "blocking_issues": [
-    "Pipeline/taxonomy contract failure: data/pending/2026-09-16-strategic-transition-bulgaria-euro-market-integration.json has no phenomena field even though this is an unpublished schema_version:2 item at revision 2. The current architecture requires phenomena for new or materially revised research.",
-    "Because institutional change, labour scarcity/demographic constraints and social distributional effects are material to the thesis, the producer must explicitly evaluate the controlled phenomena axis rather than leave it absent. QA must not infer or silently normalize the classification."
+    "Editorial publication-readiness failure in both staged editions: immediately after a strong two-paragraph opening, EN inserts the generic heading 'Executive assessment' and PT-BR inserts 'Avaliação executiva', followed by a sequence of template-like fields ('Observed fact/Fato observado', 'Assessment/Avaliação', 'Confidence/Confiança'). The current publication gate explicitly rejects this form because it exposes the research/QA template instead of presenting an institutional article to the reader.",
+    "The same internal epistemic labels recur throughout the body as bold field prefixes ('Inference/Inferência' and 'Assessment/Avaliação'). The distinction between fact, inference and scenario must remain methodologically clear, but it should be expressed through normal editorial prose and attribution rather than repeated form labels that make the public text read like an agent checklist.",
+    "PT-BR localization remains materially unfinished. Examples include 'framework da MSCI', 'currency board' without a natural Portuguese explanation on first occurrence, 'valuation', 'free float', 'upgrades de rating' and 'FDI'. Some market terms may be retained when conventional, but the current density of raw English conflicts with the requirement that the Portuguese edition read as originally written in Brazilian Portuguese.",
+    "The revision-3 producer change fixed the prior phenomena/taxonomy rejection but explicitly left both staged Markdown sources unchanged. Therefore it did not address the now-blocking publication-editorial gate; taxonomy correctness alone is insufficient for approval."
   ],
   "required_fixes": [
-    "Add a top-level phenomena array to the pending v2 sidecar using only identifiers controlled by data/taxonomy.json, with no duplicates. An empty array is valid only if the producer determines that no controlled phenomenon is materially relevant.",
-    "Reassess the article against CONFLICT-SECURITY-SOCIAL-CHANGE.md and ensure each selected phenomenon is materially supported by the text. In particular, evaluate institutional-change and any demographic-transition/social-change classification against observable mechanisms rather than keywords.",
-    "Preserve the selected phenomena array exactly in the next immutable publication snapshot. Any pending change produces a new pending blob SHA and therefore requires a fresh QA approval bound to the new pending SHA and the current EN/PT-BR source SHAs."
+    "Remove the generic 'Executive assessment' / 'Avaliação executiva' section and integrate its material facts, thesis and confidence into the existing opening or into an informative finding-specific heading. Do not replace it with another generic summary heading.",
+    "Rewrite repeated 'Observed fact/Fato observado', 'Assessment/Avaliação' and 'Inference/Inferência' field prefixes as cohesive editorial prose. Preserve the epistemic distinction through wording, attribution and conditional language without exposing internal template structure.",
+    "Perform a dedicated PT-BR localization pass. At minimum replace or naturally explain 'framework', 'currency board', 'valuation', 'free float', 'upgrades de rating' and 'FDI' on first use where retained. Keep established proper names and unavoidable technical identifiers unchanged.",
+    "Run a second-read density pass after restructuring so the opening, evidence sections and conclusion do not repeat the same thesis/caveats merely because the former template fields were converted to prose. Preserve all factual numbers, dates, source links, causal qualifications and EN/PT-BR semantic equivalence unless a factual change is intentionally made and revalidated.",
+    "Update revision_reason and qa_fixes_applied to describe the editorial delta concretely if the staged Markdown changes. Any source edit changes its Git blob SHA and requires fresh QA against the new exact SHAs."
   ],
   "evidence": [
     {
-      "source": "EDITORIAL-ARCHITECTURE.md and data/taxonomy.json, version 1.0",
-      "finding": "Conflict, Security & Social Change is a cross-cutting lens implemented through the controlled phenomena axis; new or materially revised research should include a phenomena array using only controlled identifiers."
+      "source": "Current staged EN edition at reviewed_commit",
+      "finding": "The article opens with two substantive thesis paragraphs, then uses '## Executive assessment' followed by four 'Observed fact' blocks, 'Assessment' and 'Confidence', and continues to expose 'Inference'/'Assessment' labels in later analytical sections."
     },
     {
-      "source": "RESEARCH-PUBLISHING.md",
-      "finding": "New/materially revised research should include phenomena, including an empty array when no controlled phenomenon is material, and the approved publication snapshot must preserve it exactly."
+      "source": "Current staged PT-BR edition at reviewed_commit",
+      "finding": "The Portuguese article mirrors '## Avaliação executiva' and repeated 'Fato observado/Avaliação/Inferência' fields and contains avoidable raw English including framework, currency board, valuation, free float, upgrades de rating and FDI."
     },
     {
-      "source": "Current staged EN and PT-BR editions",
-      "finding": "The thesis materially discusses euro-area institutional integration, domestic adjustment institutions, labour scarcity/demographic trends and distributional household effects, so the controlled phenomena axis requires an explicit editorial classification decision."
+      "source": "Current pending revision 3",
+      "finding": "The prior taxonomy blocker is corrected with controlled phenomena ['institutional-change','demographic-transition','social-change']; qa_fixes_applied states that the revision preserves the unchanged revision-2 staged sources, so the current editorial deficiencies were not changed."
+    },
+    {
+      "source": "RESEARCH-VISUALS.md",
+      "finding": "The visual-evidence standard is effective for research dated on or after 2026-09-18. This report is dated 2026-09-16, so visual-budget compliance is not a blocking requirement for this candidate; visual_evidence_readiness is therefore not the reason for rejection."
     }
   ],
-  "notes": "The prior factual/methodological blocking issues were resolved in revision 2 and the staged EN/PT-BR sources remain unchanged from the previous factual approval. This rejection is a new pipeline/taxonomy gate introduced by the current frozen architecture: the unpublished materially revised sidecar lacks phenomena. The previous approval was removed from data/approved so the publisher cannot materialize an item that no longer satisfies the current gate. No public bundle, HTML, data/reports.json or global site surface was created or changed by QA."
+  "checks": {
+    "pipeline_contract": "passed",
+    "taxonomy": "passed",
+    "translation_semantics": "passed_with_editorial_localization_blocker",
+    "contextual_depth": "passed; institutional, labour/demographic and household transmission mechanisms are materially incorporated and no relevant internal briefing was required to establish the blocker",
+    "editorial_publication_readiness": "failed: opening/template exposure, repeated internal field labels and unfinished PT-BR localization are blocking",
+    "visual_evidence_readiness": "not_applicable: report date 2026-09-16 predates the 2026-09-18 effective-date gate"
+  },
+  "notes": "The previous phenomena/taxonomy blocker is resolved in pending revision 3. The staged EN/PT-BR source blobs are unchanged from the prior factual/methodological version, so this QA does not introduce a new factual rejection; it applies the current mandatory publication-editorial gate to the exact current sources. No approval was created and no publisher handoff is permitted."
 }
