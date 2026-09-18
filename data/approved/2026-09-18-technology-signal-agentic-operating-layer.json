@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "id": "MT-TS-2026-09-18-agentic-operating-layer",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-18T10:21:00-03:00",
+  "reviewed_commit": "e898cc36b5c74fcc491c4cd5b10c6c6b2bfe926d",
+  "pending_blob_sha": "8de2d225ef235530a97c7b825bcfe7412e1cdf3d",
+  "source_blob_shas": {
+    "en": "71dcddc31b80e57cd92bf8b2c171e80fc462b449",
+    "pt-BR": "b9872e92f8779c01b066fc58d382f4826e79b938"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "technology_signal_gate": "passed",
+    "factual_methodology": "passed_with_source_scope_limitations",
+    "taxonomy": "passed",
+    "translation_semantics": "passed",
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Opening states the thesis directly; analytical headings identify mechanisms; EN reads idiomatically and the revised PT-BR now reads as Brazilian Portuguese rather than translated technical scaffolding; repetition is controlled; progression is thesis to deployment evidence, reliability constraints, selective autonomy, organizational architecture, labour/institutional transmission and falsification; no prompt, QA-history or template fields are exposed in public prose. Literal proper names and a small number of conventional technical terms remain only where useful."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Institutional, labour and social mechanisms are materially integrated into the thesis through permissions, accountability, task recomposition, human escalation and distribution of productivity gains; no ornamental social or political section is used."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 1 explicit bar chart + 1 flow + 1 mindmap + 1 diagram",
+      "summary": "Assessment exceeds the four-visual floor. Quantitative chart values reproduce the provider telemetry used in prose and are explicitly disclaimed as productivity measures. Structural visuals encode mechanisms defended in the text. EN/PT-BR values, units and mechanisms are semantically equivalent after localization.",
+      "limitations": "The chart is provider-specific usage telemetry rather than an independent productivity measure; structural visuals are analytical mechanism diagrams rather than measured causal estimates."
+    }
+  },
+  "contrary_evidence": [
+    "Provider telemetry does not establish independent productivity gains.",
+    "Enterprise benchmarks show substantial privacy and reliability failures under realistic context and multi-task conditions.",
+    "Clinical benchmark success is not equivalent to prospective clinical deployment or scale."
+  ],
+  "limitations": [
+    "OpenAI telemetry is provider-specific adoption evidence, not economy-wide productivity evidence.",
+    "CI-Work and CORPGEN benchmark results do not establish that every enterprise deployment has the same failure rates.",
+    "The Nature Medicine result supports selective-autonomy architecture under the evaluated benchmarks, not general clinical readiness.",
+    "Labour, organizational and productivity transmission remains inferential and is explicitly presented conditionally."
+  ],
+  "notes": "Revision 1 is a QA rework of the previously rejected localization. EN quantitative claims, periods, caveats, maturity distinctions, technology thesis and falsifiers are unchanged. The PT-BR delta replaces unnecessary raw-English editorial vocabulary with natural Brazilian Portuguese while preserving proper names and technical meaning. The prior substantive technology-signal and factual checks remain applicable because the rework did not alter material factual claims.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-TS-2026-09-18-agentic-operating-layer",
+    "slug": "2026-09-18-technology-signal-agentic-operating-layer",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T10:25:00-03:00",
+    "kind": "weekly-technology-signal",
+    "priority": 32,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": ["political-economy-markets"],
+    "dimensions": ["economy", "politics", "society"],
+    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "topics": ["technology-innovation", "industry-production", "institutions-governance", "demography-labor", "social-change"],
+    "phenomena": ["institutional-change", "social-change"],
+    "format": "assessment",
+    "cadence": "weekly",
+    "signal_rationale": {
+      "delta": "2026 evidence shows enterprise agent usage moving from assistance toward delegated execution while new benchmarks and clinical research expose context integrity, multi-task reliability and selective-autonomy constraints that are not visible in simple model benchmarks.",
+      "evidence": "The signal triangulates provider telemetry, Microsoft Research enterprise benchmarks, a peer-reviewed Nature Medicine on-premise clinical-agent study and NIST's current TEVV work.",
+      "scale_path": "Scaling requires not only stronger models but identity, permissions, context segmentation, continuous evaluation, workflow-specific reliability gates, auditability and economical human escalation.",
+      "transmission": "Agents that can act across tools can change task composition, coordination cost, organizational design and demand for assurance infrastructure, while also creating privacy, accountability and distributional risks.",
+      "falsifier": "The thesis weakens if rising agent usage fails to translate into verified workflow performance, if supervision requirements scale nearly one-for-one with agent activity, or if contextual-integrity and multi-task reliability do not improve under realistic deployment."
+    },
+    "technology_maturity": "deployed-early-scale-with-governance-constraints",
+    "assessment_confidence": "high-on-deployment-and-reliability-signal-medium-on-productivity-and-organizational-transmission",
+    "key_constraints": ["context integrity", "multi-task reliability", "permissions and identity", "continuous evaluation", "human escalation cost", "auditability and recovery"],
+    "bootstrap_batch": true,
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-18-technology-signal-agentic-operating-layer/en.md",
+        "title": "AI agents are becoming an operating layer for knowledge work, but governance is becoming the binding constraint",
+        "deck": "Enterprise usage, privacy benchmarks and selective-autonomy research point to the same transition: the bottleneck is moving from model capability toward context control, continuous evaluation, permissions and reliable human escalation.",
+        "tags": ["AI agents", "enterprise AI", "knowledge work", "AI governance", "selective autonomy", "evaluation"],
+        "keywords": ["agentic AI", "enterprise agents", "CI-Work", "CORPGEN", "TEVV", "on-premise clinical agent", "context integrity", "continuous evaluation", "selective autonomy", "knowledge work"],
+        "regime": "Agentic AI is moving into real workflows faster than institutions are standardizing reliability, context governance and action controls.",
+        "key_risk": "Organizations may scale delegated execution faster than they can measure privacy leakage, multi-task failure, unsafe actions and the cost of human oversight.",
+        "watch": ["independent workflow productivity studies", "context-integrity violation rates", "multi-task completion", "selective-autonomy coverage versus error", "continuous evaluation adoption", "agent identity and permission infrastructure"],
+        "search_text": "AI agents enterprise workflows knowledge work context integrity CI-Work CORPGEN Nature Medicine on-premise clinical agent selective autonomy NIST TEVV continuous evaluation governance"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-18-technology-signal-agentic-operating-layer/pt-BR.md",
+        "title": "Agentes de IA estão virando uma camada operacional do trabalho do conhecimento, mas governança passa a ser a restrição central",
+        "deck": "Uso empresarial, avaliações de privacidade e pesquisas sobre autonomia seletiva apontam para a mesma transição: a restrição está migrando da capacidade do modelo para controle de contexto, avaliação contínua, permissões e escalonamento humano confiável.",
+        "tags": ["Agentes de IA", "IA empresarial", "trabalho do conhecimento", "governança de IA", "autonomia seletiva", "avaliação"],
+        "keywords": ["IA baseada em agentes", "agentes empresariais", "CI-Work", "CORPGEN", "TEVV", "agente clínico local", "integridade de contexto", "avaliação contínua", "autonomia seletiva", "trabalho do conhecimento"],
+        "regime": "IA baseada em agentes está entrando em fluxos de trabalho reais mais rápido do que instituições padronizam confiabilidade, governança de contexto e controles de ação.",
+        "key_risk": "Organizações podem escalar execução delegada mais rápido do que conseguem medir vazamento de contexto, falhas multitarefa, ações inseguras e custo de supervisão humana.",
+        "watch": ["estudos independentes de produtividade de workflows", "taxas de violação de integridade contextual", "conclusão multitarefa", "cobertura versus erro em autonomia seletiva", "adoção de avaliação contínua", "infraestrutura de identidade e permissões de agentes"],
+        "search_text": "agentes de IA fluxos de trabalho empresariais trabalho do conhecimento integridade contextual CI-Work CORPGEN Nature Medicine agente clínico local autonomia seletiva NIST TEVV avaliação contínua governança"
+      }
+    },
+    "revision": 1,
+    "revision_reason": "qa_rework",
+    "supersedes_rejected_commit": "79c9b418a6a97826386b2a561dac4ea296628f1d",
+    "qa_fixes_applied": [
+      "Performed a complete Brazilian Portuguese localization pass, replacing unnecessary raw-English editorial vocabulary while preserving technical meaning.",
+      "Localized PT-BR visual labels and publication metadata without changing verified quantitative claims, periods, caveats, maturity distinctions or falsifiers.",
+      "Preserved literal proper names, report titles and identifiers where translation would be misleading."
+    ]
+  }
+}
