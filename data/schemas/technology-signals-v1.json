@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://marginalthinking.org/schemas/technology-signals-v1.json",
+  "title": "Marginal Thinking Technology Signal Ledger v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version","updated_at","signals"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "updated_at": {"type": ["string","null"]},
+    "signals": {
+      "type": "array",
+      "maxItems": 40,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "slug","state","first_seen","last_checked","what_changed",
+          "evidence_stage","signal_classes","entities","evidence_refs",
+          "constraints","transmission","contrary_evidence","falsifiers",
+          "related_research_ids"
+        ],
+        "properties": {
+          "slug": {"type":"string","pattern":"^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+          "state": {"enum":["watch","strengthening","publishable","promoted","weakening","retired"]},
+          "first_seen": {"type":"string","format":"date"},
+          "last_checked": {"type":"string","format":"date"},
+          "what_changed": {"type":"string","minLength":1},
+          "evidence_stage": {"enum":["claimed","demonstrated","deployed","scaled"]},
+          "signal_classes": {
+            "type":"array",
+            "uniqueItems":true,
+            "items":{"enum":[
+              "capability-delta",
+              "replication-validation",
+              "reliability-yield-throughput",
+              "cost-resource-constraint",
+              "prototype-to-deployment",
+              "deployment-to-scale",
+              "enabling-infrastructure",
+              "manufacturing-supply-chain",
+              "procurement-standards-regulation",
+              "economic-social-transmission",
+              "contrary-evidence"
+            ]}
+          },
+          "entities": {
+            "type":"object",
+            "additionalProperties":false,
+            "required":["researchers","universities_labs","institutions","companies"],
+            "properties":{
+              "researchers":{"type":"array","items":{"type":"string"}},
+              "universities_labs":{"type":"array","items":{"type":"string"}},
+              "institutions":{"type":"array","items":{"type":"string"}},
+              "companies":{"type":"array","items":{"type":"string"}}
+            }
+          },
+          "evidence_refs": {
+            "type":"array",
+            "maxItems":20,
+            "items":{
+              "type":"object",
+              "additionalProperties":false,
+              "required":["label","url","date","type"],
+              "properties":{
+                "label":{"type":"string"},
+                "url":{"type":"string"},
+                "date":{"type":"string"},
+                "type":{"enum":["paper","dataset","technical-document","government","procurement","standard","filing","deployment","reporting","other"]}
+              }
+            }
+          },
+          "constraints":{"type":"array","items":{"type":"string"}},
+          "transmission":{"type":"array","items":{"type":"string"}},
+          "contrary_evidence":{"type":"array","items":{"type":"string"}},
+          "falsifiers":{"type":"array","items":{"type":"string"}},
+          "related_research_ids":{"type":"array","uniqueItems":true,"items":{"type":"string"}}
+        }
+      }
+    }
+  }
+}
