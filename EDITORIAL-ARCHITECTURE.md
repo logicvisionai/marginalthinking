@@ -62,6 +62,14 @@ Studies technologies through demonstrated capability, deployment, industrial sca
 
 Technology is not treated as a separate futurist news vertical. The analytical chain is technical capability → engineering → deployment → scale → economics → production → institutions → society.
 
+#### Weekly technology-signal workflow
+
+The program includes a weekly evidence-screening workflow governed by [`TECHNOLOGY-SIGNALS.md`](./TECHNOLOGY-SIGNALS.md). This workflow is **not a controlled series**, does not create a landing page or top-level navigation item, and does not reserve coverage for any named technology.
+
+It scans for material changes in demonstrated capability, replication, engineering feasibility, cost, deployment, manufacturing, enabling infrastructure and scale. At most one public assessment may emerge from a weekly run, and publication is conditional on a material evidence delta plus a defensible path from technical change to consequences for production, capital, labour, institutions, security or society.
+
+The workflow maintains a small non-public signal ledger in `data/technology-signals.json` to preserve candidate continuity and dynamically follow the researchers, laboratories, universities, institutions, public agencies and firms closest to the evidence. The ledger is operational memory only and never substitutes for external source verification.
+
 #### Controlled series: Energy, Materials & Industrial Systems
 
 `energy-materials-industrial-systems` is a controlled product series inside Technology, Production & Society. It is **not a fifth research program** and it does not receive a top-level navigation item.
@@ -296,7 +304,7 @@ Taxonomy identifiers are language-neutral slugs. Display labels are localized. T
 
 ## 13. Automation governance
 
-Automated producers, QA and publishers must read this document and `data/taxonomy.json` before writing or approving public research. Producers working on Energy, Materials & Industrial Systems must also read `ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`. Research materially involving conflict, security or social change must follow `CONFLICT-SECURITY-SOCIAL-CHANGE.md`.
+Automated producers, QA and publishers must read this document and `data/taxonomy.json` before writing or approving public research. Producers working on Energy, Materials & Industrial Systems must also read `ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`. Producers and QA handling the weekly technology-signal workflow or monthly Strategic Technology Assessment must read `TECHNOLOGY-SIGNALS.md`. Research materially involving conflict, security or social change must follow `CONFLICT-SECURITY-SOCIAL-CHANGE.md`.
 
 Automations may:
 
