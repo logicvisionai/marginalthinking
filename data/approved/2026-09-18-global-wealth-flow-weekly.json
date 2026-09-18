@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-09-18",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-18T10:28:28-03:00",
+  "reviewed_commit": "fe978903239e6bb907bb3bf22f6041676b522fce",
+  "pending_blob_sha": "6ce0c6b51f018e8804d0033f23a7307f7a45fdd3",
+  "source_blob_shas": {
+    "en": "108572816ce0740baad4e9634b28d534934138c1",
+    "pt-BR": "d8e14f36686314f87647d70ffcd0bf64489f782b"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium-high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central TIC claims were checked against the U.S. Treasury July release; August gold ETF flows, holdings and AUM against World Gold Council data; the 2025 FDI baseline and strategic-sector concentration against UNCTAD; and September monetary tightening against official central-bank releases. The report distinguishes flow, stock, valuation, ownership and announced investment and warns against adding incompatible channels."
+    },
+    "institutional_consensus": {
+      "result": "passed",
+      "summary": "Institutional narratives are explicitly subordinated to observable capital evidence and primary data; public research is not treated as proprietary positioning or proof of capital movement."
+    },
+    "conflict_security_social_change": {
+      "result": "passed",
+      "summary": "Middle East conflict is used as a material energy/logistics transmission mechanism rather than as an unsupported political classification; route substitution is qualified and not presented as full replacement of Hormuz."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct thesis-led opening distinguishes marginal flow composition from wholesale wealth relocation.",
+      "headings": "Headings identify objects and mechanisms rather than exposing internal QA/template fields.",
+      "language_localization": "EN is idiomatic and PT-BR is natural, with equivalent numbers, caveats, mechanisms and conclusions.",
+      "repetition": "Recurring distinctions between flow, valuation and ownership serve separate analytical sections and do not create blocking duplication.",
+      "cohesion": "The report progresses from flow composition through liquid assets, gold, financing conditions, productive capacity and energy transmission to horizon synthesis and falsifiers.",
+      "template_meta_qa": "No blocking prompt, QA-history or internal-classification scaffolding is exposed to the reader."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report includes the institutional and physical-capacity context needed to connect capital flows, monetary tightening, energy logistics and strategic investment without treating internal research context as public evidence."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": {"table": 1, "explicit_chart": 1, "flow": 1, "mindmap": 1, "map": 1, "total": 5},
+      "summary": "The monitor exceeds the four-visual floor with an auditable TIC chart, flow matrix, causal chain, system mind map and geographic transmission map. Quantitative visuals use disclosed units and periods; the map is a qualitative transmission card rather than a claim of precise route geometry. EN/PT-BR visual evidence is semantically parallel.",
+      "limitations": ["The TIC chart compares monthly observations and does not isolate valuation effects or measure net wealth.", "The geographic map is qualitative and does not encode precise corridor capacity or route geometry."]
+    }
+  },
+  "contrary_evidence": [
+    "Adjusted long-term TIC flows were negative in July even while total TIC inflows remained positive, weakening any claim of uniformly strong foreign demand across maturities.",
+    "Gold ETF AUM growth partly reflects gold-price appreciation rather than new subscriptions, so AUM cannot be treated as pure capital flow.",
+    "Large announced greenfield investment does not establish realized capex; cancellations, financing constraints and grid bottlenecks can reduce deployment."
+  ],
+  "limitations": [
+    "The report combines releases with different reference periods and explicitly does not treat them as synchronous weekly observations.",
+    "Country attribution in TIC is limited by custodial reporting and cannot establish individual-government intent.",
+    "Announced FDI and greenfield values are structural investment signals, not proof that all projects will be built.",
+    "Energy-route substitution and normalization remain conditional on physical infrastructure, shipping, insurance and refined-product constraints."
+  ],
+  "notes": "Approved as a new weekly monitor. External verification supports the central numerical claims and the analytical separation of stock, flow, valuation, control and planned productive investment. Approval is bound to the exact pending and staged-source Git blobs reviewed at reviewed_commit.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-09-18",
+    "slug": "2026-09-18-global-wealth-flow-weekly",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T10:35:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": ["political-economy-markets"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
+    "topics": ["capital-markets","trade-investment","energy","commodities-resources","industry-production","technology-innovation","infrastructure-logistics","currencies","sovereign-debt","banking-credit"],
+    "phenomena": ["war-armed-conflict"],
+    "format": "monitor",
+    "cadence": "weekly",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-18-global-wealth-flow-weekly/en.md",
+        "title": "Global Wealth Flow Monitor — 18 September 2026",
+        "deck": "Foreign demand for U.S. liquidity persisted as long-term flows weakened, gold fund holdings reached a record, and higher policy rates raised the financing hurdle for the capital-intensive AI and infrastructure cycle.",
+        "tags": ["global capital flows","TIC","gold","FDI","AI infrastructure","energy","interest rates"],
+        "keywords": ["global wealth flows","Treasury International Capital","gold ETF flows","foreign direct investment","data centres","semiconductors","electricity","Federal Reserve","ECB","Hormuz"],
+        "regime": "Liquid dollar demand persists while higher rates increase selectivity across capital-intensive strategic investment.",
+        "key_risk": "A prolonged energy shock combined with higher policy rates could turn physical infrastructure constraints into financing stress and project cancellations.",
+        "watch": ["August TIC","2026Q2 COFER","BIS Q2 banking data","September gold ETF flows","strategic greenfield cancellations and final investment decisions","data-centre commissioning and grid constraints"],
+        "search_text": "global wealth capital flows TIC July 2026 Treasury bills bank liabilities gold ETF August FDI AI data centres semiconductors electricity Fed ECB energy Hormuz"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-18-global-wealth-flow-weekly/pt-BR.md",
+        "title": "Global Wealth Flow Monitor — 18 de setembro de 2026",
+        "deck": "A demanda estrangeira por liquidez nos EUA persistiu enquanto os fluxos de longo prazo enfraqueceram, as posições em fundos de ouro atingiram recorde e juros maiores elevaram a exigência de retorno do ciclo intensivo em capital de IA e infraestrutura.",
+        "tags": ["fluxos globais de capital","TIC","ouro","IED","infraestrutura de IA","energia","juros"],
+        "keywords": ["fluxos globais de riqueza","Treasury International Capital","fluxos de ETF de ouro","investimento estrangeiro direto","data centers","semicondutores","eletricidade","Federal Reserve","BCE","Hormuz"],
+        "regime": "A demanda por ativos líquidos em dólar persiste enquanto juros maiores aumentam a seletividade no investimento estratégico intensivo em capital.",
+        "key_risk": "Uma interrupção prolongada de energia combinada a juros maiores pode transformar restrições físicas de infraestrutura em estresse de financiamento e cancelamento de projetos.",
+        "watch": ["TIC de agosto","COFER do segundo trimestre de 2026","dados bancários do BIS para o segundo trimestre","fluxos de ETFs de ouro em setembro","cancelamentos e decisões finais de novos projetos estratégicos","entrada de data centers em operação e restrições de rede"],
+        "search_text": "fluxos globais de riqueza capital TIC julho 2026 Treasury bills passivos bancários ETF ouro agosto IED IA data centers semicondutores eletricidade Fed BCE energia Hormuz"
+      }
+    }
+  }
+}
