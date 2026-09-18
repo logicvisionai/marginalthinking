@@ -66,6 +66,11 @@ jobs:
           grep -q 'structural-opportunity-atlas' dist/pt-br/opportunities/index.html
           grep -q 'research-intelligence-entry' dist/pt-br/research/index.html
           grep -q 'global-search-link' dist/index.html
+          grep -q 'home-analytical' dist/index.html
+          grep -q 'home-matrix' dist/index.html
+          grep -q 'home-analytical' dist/pt-br/index.html
+          grep -q 'home-matrix' dist/pt-br/index.html
+          grep -q '@media(max-width:420px)' dist/assets/css/home-analytics.css
           grep -q 'global-search-link' dist/pt-br/index.html
           grep -R -q 'semantic-navigation' dist/reports
           grep -R -q 'semantic-navigation' dist/pt-br/reports
