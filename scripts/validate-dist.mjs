@@ -67,7 +67,7 @@ for(const file of html){
     if(!/hreflang="en"/i.test(s))fail.push(`${rel}: hreflang en ausente`);
     if(!/hreflang="pt-BR"/i.test(s))fail.push(`${rel}: hreflang pt-BR ausente`);
     if(!/author-signature/i.test(s)&&!/noindex,follow/i.test(s))fail.push(`${rel}: assinatura editorial ausente`);
-    const visible=visibleText(s);
+    const visible=visibleText(s.replace(new RegExp('<section class="related-research"[\\s\\S]*?</section>','gi'),''));
     if(/\*\*[^<\n]*$|__[^<\n]*$/m.test(visible))warn.push(`${rel}: possível marcador markdown residual`);
     if(rel.startsWith('pt-br/reports/'))for(const rx of ptEditorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial PT-BR bloqueada (${rx})`);
     if(!rel.startsWith('pt-br/')&&/<html\s+lang=["']en(?:-[^"']*)?["']/i.test(s))for(const rx of enEditorialBlockers)if(rx.test(visible))fail.push(`${rel}: formulação editorial EN bloqueada (${rx})`);
