@@ -1,5 +1,279 @@
 {
   "schema_version": 1,
-  "updated_at": null,
-  "signals": []
+  "updated_at": "2026-09-18T10:30:00-03:00",
+  "signals": [
+    {
+      "slug": "cislunar-service-infrastructure",
+      "state": "publishable",
+      "first_seen": "2026-09-18",
+      "last_checked": "2026-09-18",
+      "what_changed": "Completed CAPSTONE objectives now coincide with a contracted two-spacecraft follow-on, commercial lunar-relay flight hardware, LunaNet service architecture and September 2026 procurement for lunar enabling infrastructure.",
+      "evidence_stage": "deployed",
+      "signal_classes": [
+        "capability-delta",
+        "prototype-to-deployment",
+        "enabling-infrastructure",
+        "procurement-standards-regulation"
+      ],
+      "entities": {
+        "researchers": [],
+        "universities_labs": [
+          "NASA Goddard Space Flight Center",
+          "NASA Ames Research Center"
+        ],
+        "institutions": [
+          "NASA",
+          "European Space Agency",
+          "LunaNet"
+        ],
+        "companies": [
+          "Advanced Space",
+          "Intuitive Machines",
+          "Terran Orbital",
+          "Surrey Satellite Technology Ltd"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "label": "NASA CAPSTONE extended mission completion",
+          "url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
+          "date": "2026-07-06",
+          "type": "government"
+        },
+        {
+          "label": "NASA CAPSTONE 02 announcement",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+          "date": "2026-07-24",
+          "type": "government"
+        },
+        {
+          "label": "NASA NavCube3-mini delivery for Altus-1",
+          "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+          "date": "2026-08-03",
+          "type": "government"
+        },
+        {
+          "label": "NASA NextSTEP-3 Lunar Enabling Technology",
+          "url": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/",
+          "date": "2026-09-10",
+          "type": "procurement"
+        },
+        {
+          "label": "ESA Moonlight service architecture",
+          "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_launches_Moonlight_to_establish_lunar_communications_and_navigation_infrastructure",
+          "date": "2024-10-15",
+          "type": "government"
+        }
+      ],
+      "constraints": [
+        "surface power",
+        "launch and cargo logistics",
+        "recurring demand",
+        "interoperability",
+        "surface maintenance",
+        "procurement continuity"
+      ],
+      "transmission": [
+        "mission-specific support to shared services",
+        "commercial relay procurement",
+        "specialized terrestrial industrial capacity",
+        "potential reduction in fixed integration cost for future lunar missions"
+      ],
+      "contrary_evidence": [
+        "Most service constellations remain planned rather than operational.",
+        "Surface power, logistics and local production remain below mature infrastructure scale.",
+        "Commercial demand beyond public anchor customers remains unproven."
+      ],
+      "falsifiers": [
+        "repeated relay deployment delays",
+        "failure of provider interoperability",
+        "no recurring multi-mission demand",
+        "surface infrastructure remains a persistent constraint on installed lunar assets"
+      ],
+      "related_research_ids": []
+    },
+    {
+      "slug": "agentic-operating-layer",
+      "state": "publishable",
+      "first_seen": "2026-09-18",
+      "last_checked": "2026-09-18",
+      "what_changed": "Enterprise telemetry shows a shift from assistance toward delegated execution while 2026 research simultaneously exposes context-integrity, multi-task and decision-time reliability constraints that become visible only in operational agent workflows.",
+      "evidence_stage": "deployed",
+      "signal_classes": [
+        "deployment-to-scale",
+        "economic-social-transmission",
+        "reliability-yield-throughput",
+        "procurement-standards-regulation",
+        "contrary-evidence"
+      ],
+      "entities": {
+        "researchers": [
+          "Wenjie Fu",
+          "Xiaoting Qin",
+          "Li Zhang",
+          "Georg Wölflein",
+          "Jakob Nikolas Kather"
+        ],
+        "universities_labs": [
+          "Microsoft Research",
+          "University Hospital Dresden research groups"
+        ],
+        "institutions": [
+          "NIST",
+          "OpenAI"
+        ],
+        "companies": [
+          "Microsoft",
+          "OpenAI"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "label": "OpenAI Enterprise Signals",
+          "url": "https://openai.com/signals/enterprise-data/",
+          "date": "2026-08-12",
+          "type": "dataset"
+        },
+        {
+          "label": "Microsoft CI-Work",
+          "url": "https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/",
+          "date": "2026-07-01",
+          "type": "paper"
+        },
+        {
+          "label": "Microsoft CORPGEN",
+          "url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+          "date": "2026-02-26",
+          "type": "technical-document"
+        },
+        {
+          "label": "Nature Medicine on-premise clinical AI agents",
+          "url": "https://www.nature.com/articles/s41591-026-04609-x",
+          "date": "2026-09-15",
+          "type": "paper"
+        },
+        {
+          "label": "NIST TEVV-Athlon",
+          "url": "https://www.nist.gov/artificial-intelligence/ai-research/tevv-athlon-framework-evaluating-ai-systems",
+          "date": "2026-08-07",
+          "type": "standard"
+        }
+      ],
+      "constraints": [
+        "context integrity",
+        "multi-task reliability",
+        "permissions and identity",
+        "continuous evaluation",
+        "human oversight cost",
+        "audit and recovery"
+      ],
+      "transmission": [
+        "task delegation",
+        "workflow redesign",
+        "new enterprise assurance infrastructure",
+        "changes in skill composition and human escalation"
+      ],
+      "contrary_evidence": [
+        "Provider telemetry does not establish independent productivity gains.",
+        "Enterprise benchmarks show substantial privacy and reliability failures.",
+        "Clinical benchmark success is not equivalent to prospective clinical deployment."
+      ],
+      "falsifiers": [
+        "usage rises without verified workflow value",
+        "human oversight scales one-for-one with agent activity",
+        "context leakage remains high under realistic controls",
+        "multi-task reliability fails to improve"
+      ],
+      "related_research_ids": []
+    },
+    {
+      "slug": "autonomous-scientific-instrumentation",
+      "state": "strengthening",
+      "first_seen": "2026-09-18",
+      "last_checked": "2026-09-18",
+      "what_changed": "Peer-reviewed 2026 work moved LLM agents from simulated scientific workflows into control loops tied to real instruments, including autonomous X-ray sample alignment at a synchrotron and executable high-throughput chemical protocols.",
+      "evidence_stage": "demonstrated",
+      "signal_classes": [
+        "capability-delta",
+        "replication-validation",
+        "prototype-to-deployment",
+        "reliability-yield-throughput",
+        "economic-social-transmission"
+      ],
+      "entities": {
+        "researchers": [
+          "Zhantao Chen",
+          "Joshua J. Turner",
+          "Gihan Panapitiya",
+          "Olivia Hess",
+          "A. Gilad Kusne",
+          "Milad Abolhasani"
+        ],
+        "universities_labs": [
+          "SLAC National Accelerator Laboratory",
+          "Stanford Synchrotron Radiation Lightsource",
+          "Pacific Northwest National Laboratory",
+          "North Carolina State University"
+        ],
+        "institutions": [
+          "U.S. Department of Energy research ecosystem"
+        ],
+        "companies": [
+          "Unchained Labs"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "label": "Nature Machine Intelligence agentic X-ray scientist",
+          "url": "https://www.nature.com/articles/s42256-026-01261-5",
+          "date": "2026-07-01",
+          "type": "paper"
+        },
+        {
+          "label": "Scientific Reports AutoLabs",
+          "url": "https://www.nature.com/articles/s41598-026-45593-z",
+          "date": "2026-06-25",
+          "type": "paper"
+        },
+        {
+          "label": "Nature Reviews Chemistry self-driving laboratories review",
+          "url": "https://www.nature.com/articles/s41570-026-00847-2",
+          "date": "2026-07-31",
+          "type": "paper"
+        },
+        {
+          "label": "Communications Materials multi-agent autonomous labs perspective",
+          "url": "https://www.nature.com/articles/s43246-026-01219-5",
+          "date": "2026-07-08",
+          "type": "paper"
+        }
+      ],
+      "constraints": [
+        "instrument interoperability",
+        "safety interlocks",
+        "experimental provenance",
+        "cross-lab transfer",
+        "hardware standardization",
+        "reliability under unmodeled conditions"
+      ],
+      "transmission": [
+        "higher experimental throughput",
+        "changes in scientist time allocation",
+        "potential democratization of specialized instrumentation",
+        "new demand for lab automation and machine-readable experimental protocols"
+      ],
+      "contrary_evidence": [
+        "Real-beamline demonstrations remain limited in number.",
+        "Many self-driving laboratories are still bespoke and narrow.",
+        "Cross-laboratory generalization and end-to-end provenance are unresolved."
+      ],
+      "falsifiers": [
+        "systems remain bespoke with no cross-instrument transfer",
+        "human intervention remains dominant for nontrivial experiments",
+        "reliability fails to hold outside curated tasks",
+        "automation costs exceed throughput gains"
+      ],
+      "related_research_ids": []
+    }
+  ]
 }
