@@ -1,6 +1,6 @@
 # Agentes de IA estão virando uma camada operacional do trabalho do conhecimento, mas governança passa a ser a restrição central
 
-**Programa:** Technology, Production & Society  
+**Programa:** Tecnologia, Produção & Sociedade  
 **Código:** MT-TS-2026-09-18-agentic-operating-layer  
 **Edição:** 18 de setembro de 2026  
 **Corte de informação:** 18 de setembro de 2026
