@@ -36,6 +36,27 @@ Transformers require specialised electrical steel, copper or aluminium conductor
 
 Many components are engineered for specific voltage, capacity, safety and network requirements. Customisation can be technically necessary, but excessive variation reduces the ability of manufacturers to produce long runs of standard equipment.
 
+### Lead time and price now belong in the same industrial picture
+
+| Equipment / indicator | Earlier reference | Latest reported range / change | Analytical implication |
+|---|---:|---:|---|
+| Distribution-transformer lead time in the United States | 3–6 months in 2019 | 12–30 months in 2023 | Procurement delay became a material planning variable |
+| Transmission cables | — | 2–3 years procurement time | Cable supply can delay network expansion |
+| Large power transformers | — | Up to 4 years | Long-cycle equipment constrains project sequencing |
+| Direct-current cables | — | Beyond 5 years | Long-distance transmission faces an even longer equipment cycle |
+| Cable prices | 2019 baseline | Nearly doubled | Equipment inflation raises project capex |
+| Large power-transformer prices | 2019 baseline | ~75% higher | Transformer scarcity is also visible in price |
+
+```chart
+type: bar
+title: Approximate equipment-price increase since 2019
+unit: %
+Cables, nearly doubled | 100
+Large power transformers | 75
+```
+
+The cable bar rounds “nearly doubled” to an approximate 100% reference solely for visual scale; the prose retains the source wording.
+
 ## 3. Lead time is an economic variable
 
 When generation, data centres, factories or housing can be developed faster than network equipment can be delivered, equipment lead time affects:
@@ -97,6 +118,34 @@ The U.S. DOE announced in August 2026 that it plans a programme of **up to USD 3
 This is one national policy example rather than a measure of the global market.
 
 Its significance is the object of intervention: governments are not only subsidising generation or transmission projects; they are increasingly looking at the factories, materials and specifications needed to make the network buildable.
+
+```mindmap
+The industrial layer behind grid expansion
+- Conductors and cables
+  - copper and aluminium
+  - insulation
+  - high-voltage manufacturing
+- Transformers
+  - electrical steel
+  - copper windings
+  - specialised factories
+- Project execution
+  - specifications
+  - procurement lead time
+  - testing and certification
+- Capacity release
+  - standardisation
+  - refurbishment
+  - interoperability
+- Investment signal
+  - utility demand visibility
+  - manufacturing expansion
+  - policy support
+```
+
+```flow
+Electricity demand and grid plans → equipment orders → factory capacity and material supply → procurement lead time → project commissioning → usable transmission and distribution capacity
+```
 
 ## 8. Where capacity and power sit
 

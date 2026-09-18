@@ -34,6 +34,30 @@ Cheap electrolysers do not create a hydrogen market if electricity is expensive.
 
 This is why announced production capacity is an incomplete measure of market maturity.
 
+### The scale gap is large, but the categories must not be added together
+
+| Indicator | 2025 / current reading | 2030-related reading | Status |
+|---|---:|---:|---|
+| Total global hydrogen demand | >100 Mt | — | Observed demand, mostly conventional hydrogen |
+| Low-emissions hydrogen production | ~1 Mt | — | Current physical production |
+| Announced low-emissions production pipeline | — | 27 Mt | Announced potential |
+| Committed / strong-potential production | — | Just above 6 Mt | Higher-confidence project subset |
+| Announced potential at risk without timely investment decisions | — | ~22 Mt | Risk screen, not an additive category |
+| New low-emissions offtake agreements | ~1.7 Mt | — | Contracting activity; only about 20% firm |
+
+```chart
+type: bar
+title: Hydrogen scale indicators from the 2026 review — rounded reference values, categories not additive
+unit: Mt
+Global hydrogen demand 2025, >100 | 100
+Low-emissions production 2025, ~1 | 1
+Announced 2030 low-emissions pipeline | 27
+Strong-potential 2030 pipeline, >6 | 6
+Announced potential at risk | 22
+```
+
+The chart uses 100 as the visible floor for “more than 100 Mt,” 1 as the rounded representation of “almost 1 Mt,” and 6 as the visible floor for “just above 6 Mt.” It is a scale comparison; the categories are not additive.
+
 ## 3. The project pipeline is being filtered
 
 The reduction in the announced 2030 pipeline is analytically useful because it exposes the difference between possibility and commitment.
@@ -80,6 +104,42 @@ Existing industrial sites already have:
 Replacing part of an existing hydrogen stream can therefore require fewer simultaneous market inventions than creating a new international commodity chain from scratch.
 
 That does not make industrial conversion easy. Cost gaps, electricity availability, carbon accounting and retrofit constraints remain important. It does mean that the demand side can be defined more concretely.
+
+```mindmap
+What determines whether low-emissions hydrogen becomes an industrial market
+- Production
+  - electrolysers
+  - electricity or feedstock
+  - water and infrastructure
+- Demand
+  - refining
+  - chemicals
+  - fuels and power
+- Bankability
+  - firm offtake
+  - delivered cost
+  - financing
+- Rules
+  - certification
+  - low-emissions definitions
+  - demand support
+- Logistics
+  - conversion
+  - storage
+  - pipelines and shipping
+```
+
+```map
+title: Geographic roles highlighted by the 2026 hydrogen evidence
+China | Electrolysis deployment | Nearly three-quarters of new installed electrolysis capacity
+North America | Export-oriented project pipeline | Bankability depends materially on demand creation overseas
+Japan | Import-demand support | Policy instruments help support trade-oriented offtake
+Europe | Import-demand support and regulation | Demand policy and certification shape prospective trade
+```
+
+```flow
+Announced production project → credible buyer and certification → firm offtake → financing and final investment decision → infrastructure and construction → commissioned low-emissions supply
+```
 
 ## 6. Export projects face an additional coordination problem
 

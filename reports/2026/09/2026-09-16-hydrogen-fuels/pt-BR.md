@@ -36,6 +36,30 @@ Eletrolisadores baratos não criam um mercado de hidrogênio se a eletricidade f
 
 Por isso, capacidade anunciada é uma medida incompleta de maturidade.
 
+### A diferença de escala é grande, mas as categorias não podem ser somadas
+
+| Indicador | Leitura de 2025 / atual | Leitura ligada a 2030 | Situação |
+|---|---:|---:|---|
+| Demanda mundial total de hidrogênio | >100 Mt | — | Demanda observada, ainda majoritariamente de hidrogênio convencional |
+| Produção de hidrogênio de baixas emissões | ~1 Mt | — | Produção física atual |
+| Pipeline anunciado de produção de baixas emissões | — | 27 Mt | Potencial anunciado |
+| Produção comprometida / com forte potencial | — | Pouco acima de 6 Mt | Subconjunto de maior confiança |
+| Potencial anunciado em risco sem decisões de investimento a tempo | — | ~22 Mt | Tela de risco, não categoria aditiva |
+| Novos contratos de offtake de baixas emissões | ~1,7 Mt | — | Atividade contratual; apenas cerca de 20% firme |
+
+```chart
+type: bar
+title: Indicadores de escala do hidrogênio na revisão de 2026 — valores de referência arredondados, categorias não aditivas
+unit: Mt
+Demanda mundial 2025, >100 | 100
+Produção de baixas emissões 2025, ~1 | 1
+Pipeline anunciado para 2030 | 27
+Pipeline com forte potencial em 2030, >6 | 6
+Potencial anunciado em risco | 22
+```
+
+O gráfico usa 100 como piso visual para “mais de 100 Mt”, 1 como arredondamento de “quase 1 Mt” e 6 como piso visual para “pouco acima de 6 Mt”. É uma comparação de escala; as categorias não são aditivas.
+
 ## 3. O pipeline está sendo filtrado
 
 A redução do pipeline de 2030 é analiticamente útil porque expõe a diferença entre possibilidade e compromisso.
@@ -82,6 +106,42 @@ Instalações industriais existentes já possuem:
 Substituir parte de um fluxo existente pode exigir menos invenções simultâneas de mercado do que criar uma nova cadeia internacional de commodity.
 
 Isso não torna a conversão simples. Diferenças de custo, disponibilidade de eletricidade, contabilidade de carbono e limitações de retrofit continuam relevantes. Mas o lado da demanda pode ser definido de maneira mais concreta.
+
+```mindmap
+O que determina se o hidrogênio de baixas emissões vira um mercado industrial
+- Produção
+  - eletrolisadores
+  - eletricidade ou matéria-prima
+  - água e infraestrutura
+- Demanda
+  - refino
+  - químicos
+  - combustíveis e geração
+- Bancabilidade
+  - offtake firme
+  - custo entregue
+  - financiamento
+- Regras
+  - certificação
+  - definições de baixas emissões
+  - apoio à demanda
+- Logística
+  - conversão
+  - armazenamento
+  - dutos e transporte marítimo
+```
+
+```map
+title: Papéis geográficos destacados pelas evidências de hidrogênio em 2026
+China | Implantação de eletrólise | Quase três quartos da nova capacidade instalada de eletrólise
+América do Norte | Pipeline voltado à exportação | A bancabilidade depende materialmente da criação de demanda no exterior
+Japão | Apoio à demanda importadora | Instrumentos de política ajudam contratos voltados ao comércio
+Europa | Apoio à demanda importadora e regulação | Política de demanda e certificação moldam o comércio potencial
+```
+
+```flow
+Projeto de produção anunciado → comprador crível e certificação → offtake firme → financiamento e decisão final de investimento → infraestrutura e construção → oferta de baixas emissões em operação
+```
 
 ## 6. Projetos exportadores têm um problema adicional de coordenação
 

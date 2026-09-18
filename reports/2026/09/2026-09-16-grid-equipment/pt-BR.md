@@ -36,6 +36,27 @@ Transformadores exigem aço elétrico especializado, condutores de cobre ou alum
 
 Muitos componentes são projetados para tensão, potência, segurança e requisitos específicos de rede. Customização pode ser tecnicamente necessária, mas variação excessiva reduz a capacidade de fabricantes produzirem séries mais longas e padronizadas.
 
+### Prazo de entrega e preço agora fazem parte do mesmo quadro industrial
+
+| Equipamento / indicador | Referência anterior | Faixa / variação mais recente | Implicação analítica |
+|---|---:|---:|---|
+| Prazo de transformadores de distribuição nos EUA | 3–6 meses em 2019 | 12–30 meses em 2023 | O atraso de compras passou a ser variável material de planejamento |
+| Cabos de transmissão | — | 2–3 anos para aquisição | A oferta de cabos pode atrasar a expansão das redes |
+| Grandes transformadores de potência | — | Até 4 anos | Equipamentos de ciclo longo condicionam a sequência dos projetos |
+| Cabos de corrente contínua | — | Mais de 5 anos | Transmissão de longa distância enfrenta ciclo ainda maior |
+| Preços de cabos | Base de 2019 | Quase dobraram | A inflação de equipamentos aumenta o investimento inicial |
+| Preços de grandes transformadores | Base de 2019 | ~75% maiores | A escassez também aparece nos preços |
+
+```chart
+type: bar
+title: Aumento aproximado de preços de equipamentos desde 2019
+unit: %
+Cabos, quase dobraram | 100
+Grandes transformadores de potência | 75
+```
+
+A barra dos cabos arredonda “quase dobraram” para uma referência aproximada de 100% apenas para dar escala visual; o texto preserva a formulação da fonte.
+
 ## 3. Prazo de entrega é variável econômica
 
 Quando geração, data centers, fábricas ou habitação podem ser desenvolvidos mais rapidamente do que equipamentos de rede podem ser entregues, o prazo afeta:
@@ -97,6 +118,34 @@ O DOE dos Estados Unidos anunciou em agosto de 2026 a intenção de implementar 
 Esse é um exemplo nacional, não uma medida do mercado global.
 
 Sua relevância está no objeto da intervenção: governos não estão tratando apenas de geração ou projetos de transmissão, mas das fábricas, materiais e especificações necessárias para tornar a rede fisicamente executável.
+
+```mindmap
+A camada industrial por trás da expansão das redes
+- Condutores e cabos
+  - cobre e alumínio
+  - isolamento
+  - fabricação de alta tensão
+- Transformadores
+  - aço elétrico
+  - enrolamentos de cobre
+  - fábricas especializadas
+- Execução de projetos
+  - especificações
+  - prazo de aquisição
+  - testes e certificação
+- Liberação de capacidade
+  - padronização
+  - reforma e reaproveitamento
+  - interoperabilidade
+- Sinal de investimento
+  - visibilidade da demanda das utilities
+  - expansão fabril
+  - apoio de política pública
+```
+
+```flow
+Demanda elétrica e planos de rede → pedidos de equipamentos → capacidade fabril e oferta de materiais → prazo de aquisição → entrada em operação → capacidade utilizável de transmissão e distribuição
+```
 
 ## 8. Onde estão capacidade e poder
 
