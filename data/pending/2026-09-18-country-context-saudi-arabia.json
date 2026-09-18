@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-09-18-saudi-arabia",
+  "slug": "2026-09-18-country-context-saudi-arabia",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T09:00:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-18-country-context-saudi-arabia/en.md",
+      "title": "Saudi Arabia: oil infrastructure, state capital and the social mechanics of diversification",
+      "deck": "Saudi Arabia combines hydrocarbon export capacity, centralized state investment and a changing labor market; the strategic question is how far state-led diversification can become privately sustained productive capacity.",
+      "tags": [
+        "Saudi Arabia",
+        "Vision 2030",
+        "PIF",
+        "oil infrastructure",
+        "labor market",
+        "Gulf"
+      ],
+      "keywords": [
+        "Saudi Arabia",
+        "East-West Pipeline",
+        "Yanbu",
+        "Strait of Hormuz",
+        "Public Investment Fund",
+        "Vision 2030",
+        "riyals dollar peg",
+        "female labor force participation",
+        "non-oil GDP",
+        "fiscal policy"
+      ],
+      "regime": "State-led diversification remains funded and stabilized by hydrocarbon capacity while investment strategy shifts toward private participation and capital discipline.",
+      "key_risk": "A prolonged regional disruption or weaker oil revenue could force harder trade-offs between fiscal consolidation, megaproject execution and the pace of non-oil diversification.",
+      "watch": [
+        "Physical redundancy of Saudi export infrastructure",
+        "Non-oil productivity and exports",
+        "Private-sector participation in PIF ecosystems",
+        "Saudi employment and labor-force participation",
+        "Fiscal balance, debt and project reprioritization"
+      ],
+      "search_text": "Saudi Arabia political economy society Vision 2030 PIF oil East-West Pipeline Yanbu Hormuz fiscal diversification labor women private sector country context"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-18-country-context-saudi-arabia/pt-BR.md",
+      "title": "Arábia Saudita: infraestrutura de petróleo, capital estatal e os mecanismos sociais da diversificação",
+      "deck": "A Arábia Saudita combina capacidade de exportação de hidrocarbonetos, investimento estatal centralizado e um mercado de trabalho em transformação; a questão estratégica é quanto da diversificação liderada pelo Estado pode se tornar capacidade produtiva sustentada pelo setor privado.",
+      "tags": [
+        "Arábia Saudita",
+        "Vision 2030",
+        "PIF",
+        "infraestrutura de petróleo",
+        "mercado de trabalho",
+        "Golfo"
+      ],
+      "keywords": [
+        "Arábia Saudita",
+        "oleoduto East-West",
+        "Yanbu",
+        "Estreito de Hormuz",
+        "Public Investment Fund",
+        "Vision 2030",
+        "paridade rial dólar",
+        "participação feminina na força de trabalho",
+        "PIB não petrolífero",
+        "política fiscal"
+      ],
+      "regime": "A diversificação liderada pelo Estado continua financiada e estabilizada pela capacidade de hidrocarbonetos, enquanto a estratégia de investimento se desloca para maior participação privada e disciplina de capital.",
+      "key_risk": "Uma interrupção regional prolongada ou receita de petróleo mais fraca pode impor escolhas mais difíceis entre consolidação fiscal, execução de megaprojetos e ritmo da diversificação não petrolífera.",
+      "watch": [
+        "Redundância física da infraestrutura saudita de exportação",
+        "Produtividade e exportações não petrolíferas",
+        "Participação privada nos ecossistemas do PIF",
+        "Emprego e participação na força de trabalho entre sauditas",
+        "Saldo fiscal, dívida e repriorização de projetos"
+      ],
+      "search_text": "Arábia Saudita economia política sociedade Vision 2030 PIF petróleo oleoduto East-West Yanbu Hormuz fiscal diversificação trabalho mulheres setor privado contexto de país"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "middle-east"
+    ],
+    "subregions": [
+      "gulf"
+    ],
+    "countries": [
+      {
+        "code": "SA",
+        "slug": "saudi-arabia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "demography-labor",
+    "capital-markets"
+  ],
+  "phenomena": [
+    "defense-security",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-GM-2026-09-18",
+    "MT-GM-2026-09-17",
+    "MT-GM-2026-09-16",
+    "MT-GM-2026-09-15"
+  ],
+  "selection_rationale": {
+    "relevance": "Saudi export infrastructure is a recurring transmission mechanism linking Gulf security to oil, inflation, sovereign yields and global financial conditions in recent Marginal Thinking research.",
+    "context_gap": "The canonical corpus contains repeated Saudi mechanisms but no broad country-level explanation of the political, fiscal, productive and social structure behind them.",
+    "reuse": "Energy, wealth-flow, Gulf security and diversification research are likely to reuse this context.",
+    "non_duplication": "No existing Saudi Strategic Transitions assessment or country dossier was found in the canonical corpus."
+  }
+}
