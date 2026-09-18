@@ -25,16 +25,40 @@
     "cadence"
   ],
   "properties": {
-    "schema_version": {"const": 2},
-    "ready": {"const": true},
-    "id": {"type": "string", "minLength": 3},
-    "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
-    "date": {"type": "string", "format": "date"},
-    "published_at": {"type": "string"},
-    "kind": {"type": "string", "minLength": 1},
-    "priority": {"type": "integer"},
-    "source_locale": {"const": "en"},
-    "taxonomy_version": {"const": "1.0"},
+    "schema_version": {
+      "const": 2
+    },
+    "ready": {
+      "const": true
+    },
+    "id": {
+      "type": "string",
+      "minLength": 3
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "published_at": {
+      "type": "string"
+    },
+    "kind": {
+      "type": "string",
+      "minLength": 1
+    },
+    "priority": {
+      "type": "integer"
+    },
+    "source_locale": {
+      "const": "en"
+    },
+    "taxonomy_version": {
+      "const": "1.0"
+    },
     "program": {
       "enum": [
         "global-system-power",
@@ -59,29 +83,73 @@
       "type": "array",
       "minItems": 1,
       "uniqueItems": true,
-      "items": {"enum": ["economy", "politics", "society"]}
+      "items": {
+        "enum": [
+          "economy",
+          "politics",
+          "society"
+        ]
+      }
     },
     "geography": {
       "type": "object",
-      "required": ["level", "regions", "subregions", "countries"],
+      "required": [
+        "level",
+        "regions",
+        "subregions",
+        "countries"
+      ],
       "properties": {
-        "level": {"enum": ["global", "region", "country", "multi-country"]},
-        "regions": {"type": "array", "items": {"type": "string"}},
-        "subregions": {"type": "array", "items": {"type": "string"}},
+        "level": {
+          "enum": [
+            "global",
+            "region",
+            "country",
+            "multi-country"
+          ]
+        },
+        "regions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "subregions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
         "countries": {
           "type": "array",
           "items": {
             "type": "object",
-            "required": ["code", "slug"],
+            "required": [
+              "code",
+              "slug"
+            ],
             "properties": {
-              "code": {"type": "string", "pattern": "^[A-Z]{2}$"},
-              "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"}
+              "code": {
+                "type": "string",
+                "pattern": "^[A-Z]{2}$"
+              },
+              "slug": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+              }
             }
           }
         }
       }
     },
-    "topics": {"type": "array", "minItems": 2, "uniqueItems": true, "items": {"type": "string"}},
+    "topics": {
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
     "phenomena": {
       "type": "array",
       "uniqueItems": true,
@@ -100,31 +168,137 @@
         ]
       }
     },
-    "format": {"enum": ["brief", "assessment", "research-report", "country-dossier", "monitor", "data-note"]},
-    "cadence": {"enum": ["event-driven", "daily", "weekly", "monthly", "quarterly", "annual"]},
+    "format": {
+      "enum": [
+        "brief",
+        "assessment",
+        "research-report",
+        "country-dossier",
+        "monitor",
+        "data-note"
+      ]
+    },
+    "cadence": {
+      "enum": [
+        "event-driven",
+        "daily",
+        "weekly",
+        "monthly",
+        "quarterly",
+        "annual"
+      ]
+    },
     "sources": {
       "type": "object",
-      "required": ["en", "pt-BR"],
+      "required": [
+        "en",
+        "pt-BR"
+      ],
       "properties": {
-        "en": {"$ref": "#/$defs/source"},
-        "pt-BR": {"$ref": "#/$defs/source"}
+        "en": {
+          "$ref": "#/$defs/source"
+        },
+        "pt-BR": {
+          "$ref": "#/$defs/source"
+        }
+      }
+    },
+    "signal_rationale": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "delta",
+        "evidence",
+        "scale_path",
+        "transmission",
+        "falsifier"
+      ],
+      "properties": {
+        "delta": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidence": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scale_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "transmission": {
+          "type": "string",
+          "minLength": 1
+        },
+        "falsifier": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "technology_maturity": {
+      "type": "string"
+    },
+    "assessment_confidence": {
+      "type": "string"
+    },
+    "key_constraints": {
+      "type": "array",
+      "items": {
+        "type": "string"
       }
     }
   },
   "$defs": {
     "source": {
       "type": "object",
-      "required": ["markdown", "title", "deck", "tags", "keywords"],
+      "required": [
+        "markdown",
+        "title",
+        "deck",
+        "tags",
+        "keywords"
+      ],
       "properties": {
-        "markdown": {"type": "string", "pattern": "^staging/research/.+\\.md$"},
-        "title": {"type": "string", "minLength": 1},
-        "deck": {"type": "string", "minLength": 1},
-        "tags": {"type": "array", "items": {"type": "string"}},
-        "keywords": {"type": "array", "items": {"type": "string"}},
-        "regime": {"type": "string"},
-        "key_risk": {"type": "string"},
-        "watch": {"type": "array", "items": {"type": "string"}},
-        "search_text": {"type": "string"}
+        "markdown": {
+          "type": "string",
+          "pattern": "^staging/research/.+\\.md$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "deck": {
+          "type": "string",
+          "minLength": 1
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "regime": {
+          "type": "string"
+        },
+        "key_risk": {
+          "type": "string"
+        },
+        "watch": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "search_text": {
+          "type": "string"
+        }
       }
     }
   }
