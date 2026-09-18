@@ -10,7 +10,8 @@ Every publication must comply with:
 - [`data/taxonomy.json`](./data/taxonomy.json);
 - [`EDITORIAL-STYLE.md`](./EDITORIAL-STYLE.md);
 - [`INSTITUTIONAL-EDITORIAL.md`](./INSTITUTIONAL-EDITORIAL.md);
-- [`CONFLICT-SECURITY-SOCIAL-CHANGE.md`](./CONFLICT-SECURITY-SOCIAL-CHANGE.md) whenever conflict, security or social-change phenomena are materially relevant.
+- [`CONFLICT-SECURITY-SOCIAL-CHANGE.md`](./CONFLICT-SECURITY-SOCIAL-CHANGE.md) whenever conflict, security or social-change phenomena are materially relevant;
+- [`RESEARCH-VISUALS.md`](./RESEARCH-VISUALS.md) for the visual-evidence contract.
 
 The publication invariant is:
 
@@ -66,6 +67,10 @@ Missing, stale or incomplete context must never block a report. If no useful con
 ## Stage 1 — Producer
 
 The producer writes both staged Markdown editions and performs its source, language and methodological checks. It then writes the pending sidecar **last**.
+
+### Visual-evidence pass
+
+For new or materially revised research governed by the effective date in `RESEARCH-VISUALS.md`, the producer must complete the visual-evidence pass before writing the pending sidecar. The staged EN and PT-BR Markdown must satisfy the minimum visual budget, use the deterministic Markdown visual grammar, preserve semantic parity and contain only visualizations reproducible from the report evidence. Visuals are analytical evidence and structure, not decoration.
 
 New pending items use `schema_version: 2` and the schema in [`data/schemas/research-pending-v2.json`](./data/schemas/research-pending-v2.json).
 
@@ -136,7 +141,7 @@ The producer must not:
 
 ## Stage 2 — QA
 
-`MT Research QA` reads the pending sidecar and both staged sources. It validates facts, sources, dates, methodology, language equivalence, editorial style and controlled taxonomy.
+`MT Research QA` reads the pending sidecar and both staged sources. It validates facts, sources, dates, methodology, language equivalence, editorial style, controlled taxonomy and visual evidence. For research governed by `RESEARCH-VISUALS.md`, QA must also verify visual sufficiency, factual reproducibility, dimensional compatibility, mechanism integrity and EN/PT-BR visual parity, recording the result in `checks.visual_evidence_readiness`.
 
 For a new v2 item, approval must be written as `schema_version: 2` and be cryptographically tied to the exact reviewed state.
 
@@ -285,3 +290,8 @@ No new producer, QA or publisher action should create schema v1 records.
 ## Public formats
 
 The website research pipeline publishes HTML and Markdown. PDF, DOCX and XLSX are not part of the normal web-publication path.
+
+
+### Visual validation
+
+From the effective date in `RESEARCH-VISUALS.md`, `scripts/validate-pipeline.mjs` blocks new staged research that misses the visual-evidence floor or EN/PT-BR visual parity. `scripts/validate-research.mjs` applies the same gate to public bundles. This makes visual completeness a build invariant rather than a prompt preference.

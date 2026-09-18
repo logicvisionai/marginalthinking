@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {collectReports,availableLocales,reportView} from './lib/reports.mjs';
+import {visualIssues,visualSignature,visualPolicyApplies} from './lib/visuals.mjs';
 
 const root=process.cwd(),fail=[],warn=[];
 const read=p=>fs.readFileSync(path.join(root,p),'utf8');
@@ -118,16 +119,26 @@ for(const item of reports){
   if(!item._bundle)fail.push(`${item.id}: publicação pública ainda usa estrutura legada; migre para metadata.json com en + pt-BR`);
   if((item.source_locale||'')!=='en')fail.push(`${item.id}: source_locale deve ser en`);
   validateTaxonomy(item);
-  const locales=availableLocales(item);
+  const locales=availableLocales(item),visualTexts={};
   for(const required of ['en','pt-BR'])if(!locales.includes(required))fail.push(`${item.id}: publicação pública precisa de edição ${required}`);
   for(const locale of locales){
-    const v=reportView(item,locale),md=localPath(v?.markdown_url);if(!md||!exists(md))fail.push(`${item.id}/${locale}: Markdown ausente (${md||'sem caminho'})`);else scanMarkdown(md);
+    const v=reportView(item,locale),md=localPath(v?.markdown_url);
+    if(!md||!exists(md))fail.push(`${item.id}/${locale}: Markdown ausente (${md||'sem caminho'})`);
+    else{
+      scanMarkdown(md);
+      visualTexts[locale]=read(md);
+      for(const issue of visualIssues(visualTexts[locale],item,`${item.id}/${locale}`))fail.push(issue);
+    }
     if(!(v?.title||'').trim())fail.push(`${item.id}/${locale}: título ausente`);
     if(!(v?.deck||'').trim())fail.push(`${item.id}/${locale}: deck ausente`);
     if((v?.deck||'').length>320)warn.push(`${item.id}/${locale}: deck muito longo para meta description`);
   }
+  if(visualPolicyApplies(item)&&visualTexts.en&&visualTexts['pt-BR']){
+    const en=visualSignature(visualTexts.en),pt=visualSignature(visualTexts['pt-BR']);
+    if(JSON.stringify(en)!==JSON.stringify(pt))fail.push(`${item.id}: EN/PT-BR divergem na assinatura visual (${JSON.stringify(en)} vs ${JSON.stringify(pt)})`);
+  }
 }
-for(const file of ['EDITORIAL-ARCHITECTURE.md','CONFLICT-SECURITY-SOCIAL-CHANGE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
+for(const file of ['RESEARCH-VISUALS.md','EDITORIAL-ARCHITECTURE.md','CONFLICT-SECURITY-SOCIAL-CHANGE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
 console.log(`Research validation OK: ${reports.length} bilingual publications; editorial architecture ${taxonomy.version}; ${Object.keys(taxonomy.programs||{}).length} programs; controlled taxonomy; English-first.`);

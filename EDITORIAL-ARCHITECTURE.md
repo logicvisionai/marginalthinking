@@ -153,6 +153,14 @@ A series name such as `Global Macro`, `Global Wealth & Power Flows`, `Energy, Ma
 
 Cadence is also separate and uses `event-driven`, `daily`, `weekly`, `monthly`, `quarterly` or `annual`.
 
+## 5.1 Visual evidence layer
+
+Research is not complete when its argument exists only as prose. Tables, charts, causal diagrams, maps and mind maps form a deterministic visual-evidence layer governed by [`RESEARCH-VISUALS.md`](./RESEARCH-VISUALS.md).
+
+The visual layer does not create new programs, topics, formats or taxonomy. It is a presentation-and-audit contract across all four programs. Visuals must clarify a comparison, distribution, dependency, corridor, causal chain or uncertainty already supported by evidence; decorative graphics and fabricated completeness are prohibited.
+
+The canonical artifact remains Markdown. The site renderer converts the controlled visual grammar into responsive HTML at build time, keeping the architecture file-based, auditable and compatible with GitHub + Cloudflare.
+
 ## 6. URL architecture
 
 Stable report URLs remain:

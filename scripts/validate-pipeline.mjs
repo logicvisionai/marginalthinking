@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import {visualIssues,visualSignature,visualPolicyApplies} from './lib/visuals.mjs';
 
 const root=process.cwd();
 const fail=[];
@@ -64,6 +65,7 @@ for(const file of pendingFiles){
   for(const r of g.regions||[])if(!taxonomy.regions?.[r])fail.push(`${file}: região inválida (${r})`);
   for(const s of g.subregions||[])if(!taxonomy.subregions?.[s])fail.push(`${file}: sub-região inválida (${s})`);
   for(const c of g.countries||[])if(!/^[A-Z]{2}$/.test(c?.code||'')||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(c?.slug||''))fail.push(`${file}: país inválido; use {code: ISO alpha-2, slug: kebab-case}`);
+  const visualTexts={};
   for(const locale of ['en','pt-BR']){
     const s=p.sources?.[locale];
     if(!s){fail.push(`${file}: sources.${locale} ausente`);continue;}
@@ -71,6 +73,14 @@ for(const file of pendingFiles){
     const md=String(s.markdown||'').replace(/^\//,'');
     if(!md.startsWith(`staging/research/`))fail.push(`${file}: sources.${locale}.markdown deve ficar em staging/research/`);
     if(md&&!exists(md))fail.push(`${file}: fonte ausente (${md})`);
+    if(md&&exists(md)){
+      visualTexts[locale]=read(md);
+      for(const issue of visualIssues(visualTexts[locale],p,`${file}/${locale}`))fail.push(issue);
+    }
+  }
+  if(visualPolicyApplies(p)&&visualTexts.en&&visualTexts['pt-BR']){
+    const en=visualSignature(visualTexts.en),pt=visualSignature(visualTexts['pt-BR']);
+    if(JSON.stringify(en)!==JSON.stringify(pt))fail.push(`${file}: EN/PT-BR divergem na assinatura visual (${JSON.stringify(en)} vs ${JSON.stringify(pt)})`);
   }
   const approval=file.replace('data/pending/','data/approved/');
   if(exists(approval)){
