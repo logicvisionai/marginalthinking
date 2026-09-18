@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-18",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-18T08:12:00-03:00",
+  "reviewed_commit": "a64d3e1c901d288fa61efb8474b11922fc3c69a1",
+  "pending_blob_sha": "1e97b3872c9f5467ad01fc96ff2949ecc2d1e276",
+  "source_blob_shas": {
+    "en": "ccc228f8ec6a3483453f54b4084977949ab2f32e",
+    "pt-BR": "7fe529ae26aff3541c3cdd69c8a0a8c88c725b6c"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Previously validated central market, policy and energy claims remain materially unchanged. The revision preserves explicit uncertainty around East-West pipeline restoration timing and does not promote the optimistic partial-restoration estimate to established operational fact."
+    },
+    "institutional_consensus": {
+      "result": "passed",
+      "summary": "Public JPMorgan oil commentary is explicitly treated as a research view rather than proprietary positioning; the report does not infer a stable consensus from a single institution."
+    },
+    "conflict_security_social_change": {
+      "result": "passed",
+      "summary": "war-armed-conflict and defense-security remain material to Gulf shipping and infrastructure mechanisms. The unsupported political-stability classification was removed rather than replaced by inference."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct thesis-led opening without generic executive-assessment scaffolding.",
+      "headings": "Analytical headings identify changes and mechanisms rather than template categories.",
+      "language_localization": "EN is idiomatic and PT-BR is natural and semantically aligned in thesis, numbers, caveats and scenarios.",
+      "repetition": "No blocking repetition or recurring QA/process scars identified.",
+      "cohesion": "Progression from regime change through market mechanisms, energy geography, country expressions and conditional paths is coherent.",
+      "template_meta_qa": "No blocking prompt, QA or internal-template exposure identified."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report incorporates the material institutional, fiscal, energy-logistics and household/industry transmission mechanisms needed for the daily brief without relying on internal context as public evidence."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": {
+        "table": 1,
+        "explicit_chart": 1,
+        "flow": 1,
+        "mindmap": 1,
+        "map": 1,
+        "total": 5
+      },
+      "summary": "The brief exceeds the minimum visual budget. The added Gulf map addresses the previously blocking spatial/corridor mechanism and is explicitly schematic, avoiding unsupported route geometry or capacity. EN/PT-BR visual evidence is semantically equivalent.",
+      "limitations": [
+        "The selected-market-moves chart compares same-unit percentage changes across different assets and observation windows; dates/periods are disclosed in labels and surrounding prose.",
+        "The Gulf map represents analytical exposure and locations rather than precise route geometry or transport capacity."
+      ]
+    }
+  },
+  "contrary_evidence": [
+    "Physical Gulf security remains impaired despite falling crude prices and Saudi logistical adaptation.",
+    "Repair estimates for damaged East-West infrastructure vary materially; reporting has cited five-to-six-week repairs even while partial resumption may occur sooner.",
+    "European gas and refined-product tightness could keep household and industrial energy costs elevated even if Brent continues to fall."
+  ],
+  "limitations": [
+    "Pipeline restoration timing remains uncertain and should not be interpreted as verified restored capacity until physical flows confirm it.",
+    "Market observations span different time zones and observation periods and are not represented as simultaneous closes.",
+    "The Gulf map is schematic and intentionally does not encode unsupported route precision or capacity."
+  ],
+  "notes": "Revision 1 resolves the current rejection blockers by removing overclassified political-stability and adding evidence-faithful, semantically parallel Gulf corridor maps. Approval is bound to the exact reviewed pending and staged-source Git blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-18",
+    "slug": "2026-09-18-global-macro",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T04:12:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "revision": 1,
+    "revision_reason": "qa_rework",
+    "supersedes_rejected_commit": "a691e6f21501e9f9ba676c9ec1e0ba0a552467fb",
+    "qa_fixes_applied": [
+      "Removed political-stability from phenomena because the report does not materially establish a political-stability mechanism.",
+      "Added semantically equivalent deterministic Gulf corridor maps to EN and PT-BR covering East-West/Yanbu, Sohar/Oman and Hormuz without asserting precise route geometry or unsupported capacity.",
+      "Rechecked visual parity and retained uncertainty around Saudi pipeline restoration timing."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-18-global-macro/en.md",
+        "title": "Global Macro Daily — September 18, 2026",
+        "deck": "Lower oil is easing immediate inflation tail risk while the Fed, BOE and BOJ keep global financing conditions restrictive; Japan, European gas and Gulf logistics reveal where the next cross-asset divergences sit.",
+        "tags": ["global macro", "Federal Reserve", "Bank of Japan", "Bank of England", "oil", "Treasuries", "yen", "Europe gas", "India", "Brazil"],
+        "keywords": ["Brent", "WTI", "USD/JPY", "Treasury yields", "S&P 500", "Nasdaq", "European gas storage", "Saudi East-West Pipeline", "Hormuz", "rupee", "real"],
+        "regime": "Restrictive but more orderly: lower crude tail risk is supporting risk assets while policy rates and long sovereign yields remain high.",
+        "key_risk": "Renewed Gulf physical disruption or persistent European gas/refined-product tightness could reaccelerate inflation while central banks are already tightening.",
+        "watch": ["Verified Saudi/Gulf export flows and refined-product spreads", "U.S. 2Y and 10Y Treasury yields", "USD/JPY and short JGB yields after the BOJ hike", "European gas storage and prices"],
+        "search_text": "September 18 2026 global macro markets Fed BOJ BOE oil Saudi Hormuz Treasury yields yen European gas India Brazil cross asset"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-18-global-macro/pt-BR.md",
+        "title": "Global Macro Diário — 18 de setembro de 2026",
+        "deck": "A queda do petróleo reduz o risco extremo de inflação enquanto Fed, BOE e BOJ mantêm as condições globais de financiamento restritivas; Japão, gás europeu e logística do Golfo mostram onde estão as próximas divergências entre mercados.",
+        "tags": ["macro global", "Federal Reserve", "Banco do Japão", "Banco da Inglaterra", "petróleo", "Treasuries", "iene", "gás europeu", "Índia", "Brasil"],
+        "keywords": ["Brent", "WTI", "USD/JPY", "juros dos Treasuries", "S&P 500", "Nasdaq", "estoques europeus de gás", "oleoduto East-West", "Hormuz", "rupia", "real"],
+        "regime": "Restritivo, porém mais ordenado: menor risco extremo no petróleo sustenta ativos de risco enquanto juros básicos e soberanos de prazo longo continuam elevados.",
+        "key_risk": "Nova interrupção física no Golfo ou persistência da escassez relativa de gás europeu e derivados pode reacelerar a inflação enquanto bancos centrais já apertam a política monetária.",
+        "watch": ["Fluxos verificados de exportação da Arábia Saudita/Golfo e spreads de derivados", "Treasuries de 2 e 10 anos", "USD/JPY e juros curtos japoneses após a alta do BOJ", "Estoques e preços de gás na Europa"],
+        "search_text": "18 setembro 2026 macro global mercados Fed BOJ BOE petróleo Arábia Saudita Hormuz Treasuries iene gás europeu Índia Brasil cross asset"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "sovereign-debt", "energy", "commodities-resources", "geopolitics-security"],
+    "phenomena": ["war-armed-conflict", "defense-security"],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
