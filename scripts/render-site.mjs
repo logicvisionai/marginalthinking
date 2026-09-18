@@ -24,8 +24,23 @@ const layout=locale=>makeLayout({cfg,i18n,site,author,social,locale,reportPath,p
 function docHead(locale,title,description,head=''){
   return `<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#09131a"><meta name="description" content="${esc(description)}"><link rel="icon" href="/assets/brand/favicon.svg"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet"><link rel="stylesheet" href="/assets/css/styles.css"><link rel="stylesheet" href="/assets/css/report-data.css"><link rel="stylesheet" href="/assets/css/research-static.css">${head}<title>${esc(title)}</title>`;
 }
+const sharedCount=(a=[],b=[])=>{const s=new Set(a||[]);return (b||[]).filter(v=>s.has(v)).length;};
+const countryKeys=item=>(item?.geography?.countries||[]).flatMap(c=>[c?.code,c?.slug].filter(Boolean));
+function relatedRank(item,x){
+  const explicit=(item.related_research_ids||[]).includes(x.id)||(x.related_research_ids||[]).includes(item.id)?1:0;
+  const sameSeries=item.series&&x.series===item.series?(item.series_domain&&x.series_domain===item.series_domain?2:1):0;
+  const sameCountry=sharedCount(countryKeys(item),countryKeys(x));
+  const sameRegion=sharedCount(item?.geography?.regions,x?.geography?.regions)+sharedCount(item?.geography?.subregions,x?.geography?.subregions);
+  const sameProgram=item.program&&item.program===x.program?1:0;
+  const sameTopics=sharedCount(item.topics,x.topics);
+  const samePhenomena=sharedCount(item.phenomena,x.phenomena);
+  const relatedProgram=(item.related_programs||[]).includes(x.program)||(x.related_programs||[]).includes(item.program)?1:0;
+  const sameTags=sharedCount(item.tags,x.tags);
+  return [explicit,sameSeries,sameCountry,sameRegion,sameProgram,sameTopics,samePhenomena,relatedProgram,sameTags];
+}
+const compareRank=(a,b)=>{for(let i=0;i<a.rank.length;i++){if(a.rank[i]!==b.rank[i])return b.rank[i]-a.rank[i];}return String(b.x.date).localeCompare(a.x.date);};
 function related(item,locale){
-  const L=layout(locale),tags=new Set(item.tags||[]),items=reports.filter(x=>x.id!==item.id).map(x=>({x,n:(x.tags||[]).filter(t=>tags.has(t)).length})).filter(v=>v.n).sort((a,b)=>b.n-a.n||String(b.x.date).localeCompare(a.x.date)).slice(0,3);
+  const L=layout(locale),items=reports.filter(x=>x.id!==item.id).map(x=>({x,rank:relatedRank(item,x)})).filter(v=>v.rank.some(Boolean)).sort(compareRank).slice(0,3);
   return items.map(({x})=>{const b=bestView(x,locale),href=reportPath(x,b.locale),lang=cfg.locales[b.locale]?.lang||b.locale;return `<article class="related-card"><div class="small">${esc((i18n[locale].kinds||{})[x.kind]||x.kind)} · ${esc(date(locale,x.date))}${b.fallback?` · ${esc(lang)}`:''}</div><h3><a href="${L.safe(href)}" lang="${esc(lang)}">${esc(b.view.title)}</a></h3><p>${esc(b.view.deck||'')}</p></article>`;}).join('');
 }
 function citation(item,view,locale){return locale==='pt-BR'?`Silva, Christian Rafael de Souza. “${view.title}.” Marginal Thinking / LOGV Research, ${iso(item.published_at||item.date)}.`:`Silva, Christian Rafael de Souza. “${view.title}.” Marginal Thinking / LOGV Research, ${iso(item.published_at||item.date)}.`;}
