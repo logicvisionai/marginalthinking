@@ -1,153 +1,126 @@
-# Saudi Arabia: oil infrastructure, state capital and the social mechanics of diversification
+# Saudi Arabia: oil buffers, state-led diversification and the limits of substitution
 
-Saudi Arabia matters to Marginal Thinking for a reason broader than the oil price. Recent Global Macro reports have used the Kingdom as a transmission point between Gulf security, physical energy availability, inflation and global financing conditions. That mechanism works because Saudi Arabia combines three forms of capacity: very large hydrocarbon production and export infrastructure, a state able to mobilize capital on a large scale, and a domestic transformation program that is trying to convert oil income into a more diversified productive base.
+Saudi Arabia matters to recent Marginal Thinking research for more than the price of crude. The kingdom combines a globally important hydrocarbon export system, a dollar-pegged monetary regime, a large state investment apparatus and a rapid attempt to expand non-oil production and private employment. The 2026 Middle East disruption has made those structures unusually visible: alternative export infrastructure reduced the damage from impaired Hormuz traffic, while higher oil prices supported fiscal revenue even as lower volumes and disrupted trade weakened activity.
 
-The same structure creates the central tension. Oil still anchors exports, fiscal capacity and external resilience, while Vision 2030, the Public Investment Fund (PIF), labor-market reform and large capital projects are intended to make non-oil activity more autonomous. The question is not whether diversification exists—it clearly does—but how much of the new activity can become productive, privately sustained and externally competitive rather than remaining dependent on public spending and hydrocarbon-linked financing.
+The durable question is therefore not whether Saudi Arabia is “diversifying away from oil.” It is how oil income, public investment, private capital, labour-market reform and physical infrastructure interact — and which constraints determine whether state-led investment becomes a broader productive base.
 
-This dossier provides the political, economic and social context behind the Saudi mechanisms referenced in [Global Macro — September 18](/reports/2026/09/2026-09-18-global-macro.html), [September 17](/reports/2026/09/2026-09-17-global-macro.html), [September 16](/reports/2026/09/2026-09-16-global-macro.html) and [September 15](/reports/2026/09/2026-09-15-global-macro.html).
+## The fiscal system still converts oil income into domestic investment capacity
 
-## Political authority is centralized, but economic implementation runs through specialized institutions
+The IMF estimates that oil and oil products accounted for 69% of exports in its 2026 Article IV baseline. Real GDP grew 4.6% in 2025, while non-oil GDP grew 4.2%. For 2026, however, the Fund projects overall growth of 1.7% and non-oil growth of 2.6% as the regional conflict disrupts trade and confidence.
 
-Saudi Arabia's Basic Law defines the system of government as monarchical. The national government portal describes judicial, regulatory and executive authorities; the Shura Council participates in the regulatory function together with the Council of Ministers, while executive coordination includes bodies such as the Council of Economic and Development Affairs. This institutional structure concentrates strategic direction while implementation is distributed across ministries, regulators, sovereign entities and state-linked companies. [Saudi National Portal](https://my.gov.sa/en/content/govmechanism)
-
-For economic analysis, this matters because major changes can be coordinated across fiscal policy, infrastructure, regulation and investment more directly than in systems where these decisions are dispersed across many veto points. It also means that the quality of project selection, public-investment management, governance and institutional checks is economically material: concentrated implementation capacity can accelerate investment, but it can also concentrate execution risk.
-
-The relevant analytical distinction is therefore not “state versus market.” Saudi Arabia is attempting to use state capacity to build markets, firms, infrastructure and domestic supply chains, while progressively increasing the role of private capital. The success test is whether private firms and households become increasingly capable of sustaining activity without the state remaining the marginal financier of every strategic sector.
-
-## Oil remains the fiscal and external anchor even as non-oil activity grows
-
-The IMF estimated that real GDP grew 4.6% in 2025 and projected growth of 1.7% in 2026 as conflict and shipping disruption reduced oil exports and weighed on non-oil activity. It projected non-oil growth of 2.6% in 2026. Oil and oil products still accounted for about 69% of exports in the IMF's 2026 country table. [IMF, July 29, 2026](https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv)
-
-| Indicator | 2025 | 2026 projection | Why it matters |
-|---|---:|---:|---|
-| Real GDP growth | 4.6% | 1.7% | Oil volumes and regional disruption still move headline growth |
-| Non-oil GDP growth | 4.2% | 2.6% | Measures the expansion of the domestic economy outside crude production |
-| Average CPI inflation | 2.0% | 2.2% | Shipping and insurance costs can transmit regional conflict into households |
-| Fiscal balance | -5.8% of GDP | -3.7% | Shows the cost of sustaining investment and public demand |
-| Public debt | 31.8% of GDP | 32.1% | Still moderate, but rising debt makes project quality and oil revenue more important |
-| Current account | -2.6% of GDP | -0.3% | Higher oil receipts can rapidly change the external balance |
-
-The 2026 budget was set before the year's subsequent conflict shock. The Ministry of Finance announced planned expenditure of SAR 1.313 trillion, revenue of SAR 1.147 trillion and a deficit of SAR 165 billion, about 3.3% of GDP. It also projected public debt at SAR 1.622 trillion, or 32.7% of GDP, by year-end 2026. These budget assumptions are not identical to the later IMF projections because they were prepared at a different date and under different assumptions. [Saudi Ministry of Finance](https://mof.gov.sa/en/MediaCenter/news/Pages/News_02122025.aspx)
-
-That difference illustrates a recurring feature of the Saudi economy: oil prices, production quotas and physical export conditions can alter the fiscal path quickly. Non-oil growth reduces dependence at the level of activity, but fiscal and external dependence declines more slowly because hydrocarbon revenue remains unusually concentrated.
-
-## Export redundancy is a form of economic state capacity
-
-The East-West pipeline and Red Sea outlets matter because Saudi Arabia is not simply an oil reserve; it is an export system. The IMF's 2026 Article IV explicitly noted that rerouting oil through the East-West pipeline to Red Sea ports limited the fall in oil deliveries during disruption around the Strait of Hormuz. [IMF](https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv)
-
-```map
-title: Saudi export geography as economic resilience
-Eastern oil system | Production and Gulf export infrastructure | High exposure to Gulf maritime conditions
-East-West pipeline | Cross-country redundancy | Moves crude toward the Red Sea when Gulf routes are constrained
-Yanbu / Red Sea | Alternative export outlet | Reduces dependence on a single maritime chokepoint
-Gulf of Oman | External workaround | Alternative loading arrangements can supplement domestic redundancy
-```
-
-The map is schematic. It shows the economic role of the corridors, not precise pipeline geometry or current throughput.
-
-```flow
-Oil production and export access → hydrocarbon revenue and foreign exchange → fiscal capacity and sovereign investment → infrastructure and domestic demand → non-oil firms, employment and supply chains
-
-Physical export disruption → lower volumes / higher logistics costs → fiscal and trade uncertainty → project reprioritization and imported-cost pressure
-```
-
-This is why Gulf security enters global macroeconomic analysis through more than the spot oil price. A shock can change export volume, insurance, shipping, fiscal receipts, public investment and the cost structure of the non-oil economy at the same time.
-
-## PIF is moving from expansion toward capital discipline
-
-The Public Investment Fund is a central instrument in the diversification model. Its 2026–2030 strategy says the fund is moving from rapid growth toward “value realization,” with more emphasis on investment efficiency, long-term returns and private-sector participation. Investments are organized into Vision, Strategic and Financial portfolios, while the Vision portfolio is intended to develop six domestic economic ecosystems. [PIF, April 15, 2026](https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/chaired-by-hrh-crown-prince-pif-board-of-directors-approves-pif-2026-2030-strategy/)
-
-This change is analytically important. In an early transformation phase, the state can solve coordination failures by supplying capital, infrastructure and demand simultaneously. Over time, however, the economic test changes. Projects need revenues, productive spillovers, private suppliers, human capital and returns that justify continued investment. A shift toward private participation is therefore not merely a financing choice; it is a test of whether the new sectors can stand on stronger commercial foundations.
-
-The IMF welcomed a more selective PIF allocation strategy and a larger private-sector role, while also emphasizing public-investment management, non-oil revenue and fiscal consolidation. That is consistent with a transition from building capacity at almost any scale toward measuring the return on that capacity.
-
-## The labor market is changing, but the transition is uneven
-
-Labor reform is one of the clearest social channels through which diversification becomes economically visible. GASTAT reported an overall labor-force participation rate of 67.1% in the second quarter of 2025. Among Saudi nationals it was 49.2%; Saudi male participation was 64.0% and Saudi female participation 34.5%. The Saudi unemployment rate was 6.8%, while unemployment among Saudi women was 11.3%. [GASTAT, September 30, 2025](https://www.stats.gov.sa/en/w/news/93?p_l_back_url=%2Fen%2Fsearch-news%3Fcategory%3Dnews%26delta%3D60%26parentCategory%3D124295%26q%3D%26start%3D2&p_l_back_url_title=Search+News)
+Saudi public finances have more room than those of many commodity exporters, but the relevant constraint is not headline debt alone. The IMF projects public debt at 32.1% of GDP in 2026 while the non-oil primary deficit remains 22.2% of non-oil GDP. That gap shows how strongly public spending still depends, directly or indirectly, on hydrocarbon income even as non-oil activity expands.
 
 ```chart
 type: bar
-title: Labor-force participation, Q2 2025
-unit: %
-Total population | 67.1
-Saudi nationals | 49.2
-Saudi men | 64.0
-Saudi women | 34.5
+title: Saudi central-government fiscal balance
+unit: % of GDP
+2025 | -5.8
+2026 IMF projection | -3.7
+2027 IMF projection | -3.1
 ```
 
-These figures show both progress and remaining segmentation. Higher participation among Saudi women expands the domestic labor supply and household earning capacity, but participation and unemployment still differ sharply by gender and nationality. The economic consequence is that diversification depends not only on the number of projects created, but on whether education, skills, wages and job design allow Saudi workers to fill increasingly productive roles.
+The chart is an IMF projection path, not an observed monthly fiscal series. Source: IMF 2026 Article IV.
 
-Foreign workers remain structurally important to construction, services and many private-sector activities. That creates a second policy tradeoff: the economy benefits from flexible access to labor, while national employment policy seeks to increase Saudi participation and skill formation. Rapid investment can therefore coexist with labor bottlenecks in specific occupations even when aggregate labor supply is large.
+| Indicator | 2025 | 2026 IMF projection | Why it matters |
+|---|---:|---:|---|
+| Real GDP growth | 4.6% | 1.7% | Oil volumes and regional disruption still move aggregate output materially |
+| Non-oil GDP growth | 4.2% | 2.6% | Domestic demand and investment broaden activity beyond extraction |
+| Fiscal balance | -5.8% GDP | -3.7% GDP | Higher oil revenue can improve the balance despite weaker volumes |
+| Public debt | 31.8% GDP | 32.1% GDP | Debt remains moderate, but financing needs have risen |
+| Non-oil primary balance | -23.3% non-oil GDP | -22.2% | Shows continuing dependence of spending capacity on oil-related resources |
+| Current account | -2.6% GDP | -0.3% GDP | Export prices and volumes remain central to external adjustment |
 
-## The social contract is becoming more employment- and service-intensive
+## Vision 2030 is changing where the state allocates capital, not eliminating the state’s role
 
-For decades, the economic relationship between the state and households was strongly shaped by hydrocarbon revenue, public employment, subsidized services and administered prices. The diversification agenda adds another layer: citizens are increasingly expected to participate in a broader private economy while the state invests heavily in housing, transport, tourism, entertainment, education, health and urban development.
+The Public Investment Fund is central to the diversification model. The Vision 2030 Annual Report gives a preliminary 2025 PIF asset figure of about US$909 billion. The IMF’s 2026 assessment notes a recalibrated PIF strategy aimed at more selective capital allocation and a larger private-sector role.
 
-This changes the distributional test. A project can raise GDP without necessarily raising broad household welfare if it depends heavily on imported labor and capital, concentrates income, or produces high-cost services accessible to a narrow group. Conversely, higher female employment, more private-sector careers, improved housing access and better urban services can change household behavior even before the economy becomes less oil-dependent in fiscal terms.
+That distinction matters. State capital can create infrastructure, anchor demand and absorb early project risk, but durable diversification requires commercially viable firms, private financing, export capacity and productivity that do not depend indefinitely on public project pipelines. The IMF has therefore emphasized public-investment management, non-oil revenue, subsidy reform, capital-market development and stronger private participation alongside continued Vision 2030 execution.
 
-The Ministry of Finance states that education, health, social services and infrastructure remain budget priorities. That is relevant because fiscal consolidation cannot be evaluated only through the headline deficit: which projects are delayed, which subsidies are reformed and which public services are protected determine the social incidence of adjustment. [Saudi Ministry of Finance](https://mof.gov.sa/en/MediaCenter/news/Pages/News_02122025.aspx)
+```flow
+Oil and hydrocarbon income → fiscal resources and state balance sheets → PIF and public investment → infrastructure, tourism, industry and services → private suppliers and employment → broader tax and export base
 
-## The currency peg trades monetary autonomy for nominal stability
+Constraint loop: weak project returns or lower oil income → tighter fiscal choices → project reprioritization → greater need for private capital and productivity
+```
 
-The riyal's peg to the U.S. dollar remains a central macroeconomic institution. The IMF judged the peg appropriate in its 2026 consultation. The benefit is a stable nominal anchor for an economy whose main export is globally dollar-priced. The constraint is that domestic monetary conditions are strongly influenced by U.S. interest rates even when the Saudi business cycle differs from the American one. [IMF](https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv)
+The second line is the key test of the model: diversification becomes more durable when private cash flows and non-oil revenue can support activity after public capital becomes more selective.
 
-That makes fiscal policy, bank regulation, liquidity management and macroprudential tools more important. During periods of high U.S. rates, a domestic investment boom can face tighter financial conditions even if oil revenue is strong. During oil weakness, the peg also increases the importance of reserves and fiscal credibility because exchange-rate adjustment is not the main shock absorber.
+## Labour reform has expanded participation, but skills and segmentation remain structural constraints
 
-## Six systems now interact
+Saudi labour-market outcomes changed substantially over the past decade. IMF research finds that female labour-force participation among Saudi nationals rose by nearly 18 percentage points between 2017 and 2024. GASTAT reported Saudi female participation of 34.5% in 2025Q2, while unemployment among Saudi nationals was 6.8%.
+
+These changes increase the domestic labour supply and household income base, but they do not remove labour-market segmentation. Saudi Arabia still relies heavily on expatriate workers, while the shift toward technical, digital and capital-intensive sectors raises demand for specialized skills. The IMF has highlighted human-capital development and labour-market outcomes as continuing reform priorities.
+
+The social mechanism is therefore two-sided: higher national participation can broaden the gains from non-oil growth, while housing costs, skill mismatches and differences between national and expatriate employment can shape who receives those gains and where firms face labour constraints.
 
 ```mindmap
-Saudi political economy
-- Hydrocarbon system
-  - oil production
-  - export routes
-  - OPEC+ constraints
-  - fiscal and external revenue
-- State capital
-  - budget
-  - PIF
-  - state-linked companies
-  - infrastructure
-- Private economy
-  - domestic suppliers
-  - foreign direct investment
-  - capital markets
-  - services and industry
-- Labor and society
-  - Saudi employment
-  - female participation
-  - foreign labor
-  - skills and education
-- Monetary-financial structure
-  - dollar peg
-  - banking system
-  - reserves
-  - credit
-- External security
-  - Hormuz
-  - Red Sea
-  - regional conflict
-  - insurance and shipping
+Saudi diversification constraints
+- Fiscal
+  - oil-revenue volatility
+  - non-oil primary deficit
+  - project prioritization
+- Production
+  - private-sector productivity
+  - export competitiveness
+  - supplier depth
+- Labour
+  - specialized skills
+  - national / expatriate segmentation
+  - female and youth employment
+- Infrastructure
+  - power and water
+  - ports and pipelines
+  - urban capacity
+- Finance
+  - bank exposure to large projects
+  - sovereign-bank links
+  - private capital mobilization
 ```
 
-The interaction between these systems explains why a purely oil-centric reading is incomplete. Oil finances capacity, but the long-term objective is to produce enough private-sector productivity, exports and household income that oil becomes less decisive at the margin. At the same time, the current regional conflict demonstrates that physical hydrocarbon infrastructure still has immediate global significance.
+## Geography gives Saudi Arabia partial energy resilience, not immunity from Hormuz
 
-## What would demonstrate deeper diversification
+Saudi export geography is unusually important. Eastern oil production and terminals face the Persian Gulf, but the East-West pipeline connects producing areas to the Red Sea coast. During the 2026 disruption, the IMF reported that rerouting through the East-West pipeline and Red Sea ports, together with overseas inventories, limited the decline in deliveries.
 
-Evidence of deeper diversification would include a sustained increase in non-oil exports and productivity, a larger private share of investment, stronger private-sector job creation for nationals, more foreign investment that builds exportable capacity, and successful project operation after the initial state-led capital phase. It would also require fiscal revenue to become less sensitive to oil without simply increasing debt.
+That infrastructure changes the severity of a shipping shock, but it does not make the kingdom independent of Gulf logistics. Pipeline capacity, terminal availability, product mix, shipping, insurance and downstream refining all constrain substitution. The EIA’s 2026 work on the Hormuz disruption showed that regional production shut-ins could still become very large when storage and export routes were constrained.
 
-Evidence against the stronger diversification thesis would include persistent dependence on public spending to sustain non-oil activity, repeated project reprioritization when oil revenue falls, weak private returns despite large capital deployment, or labor and skills constraints that keep high-value activity dependent on imported capabilities.
+```map
+title: Saudi Arabia's main external transmission routes
+Eastern producing regions → Persian Gulf terminals → Strait of Hormuz → Asian and global buyers
+Eastern producing regions → East-West pipeline → Red Sea ports → alternative export route
+Global oil price → Saudi export receipts → fiscal capacity and current account
+Public investment → Riyadh / industrial and tourism projects → labour, housing and supplier demand
+Dollar peg → U.S. monetary conditions → domestic financing conditions
+```
 
-For global research, three indicators are especially useful: the physical redundancy of Saudi export infrastructure, the relationship between oil revenue and public investment, and the degree to which PIF-linked ecosystems generate independent private activity.
+The map is a mechanism map rather than a precise capacity diagram. Actual route capacity and utilization must be reverified for each current assessment.
+
+## The dollar peg imports monetary conditions while fiscal policy carries more of the adjustment burden
+
+The riyal’s peg to the U.S. dollar remains appropriate in the IMF’s assessment and provides a stable nominal anchor for an economy whose main export is priced globally in dollars. The trade-off is that Saudi monetary conditions are strongly influenced by U.S. interest rates even when domestic oil income or project cycles differ from the U.S. economy.
+
+That places more weight on fiscal policy, bank regulation and liquidity management. The IMF describes bank capital and liquidity buffers as strong but calls for continued monitoring of foreign-currency funding risks, sovereign-bank links and exposures to large projects. As the investment cycle matures, the quality of credit allocation becomes more important than aggregate credit growth alone.
+
+## External relationships are increasingly broader than crude exports
+
+Asia remains central to Saudi hydrocarbon demand, while the kingdom is simultaneously expanding logistics, tourism, mining, manufacturing, digital infrastructure and financial-market links. Deeper Gulf Cooperation Council integration can increase regional resilience through trade, finance and infrastructure, but regional conflict also demonstrates the shared exposure created by concentrated maritime geography.
+
+The strategic implication is not a simple shift from “oil power” to a post-oil economy. Saudi Arabia is attempting to use current hydrocarbon income and state balance sheets to build a larger set of productive and logistical capabilities before fiscal dependence on oil becomes more constraining.
+
+## What would change this assessment
+
+The diversification thesis would strengthen if non-oil exports, private investment and productivity rose while the non-oil primary deficit narrowed and PIF capital became more selective without a broad slowdown in private activity. It would weaken if project returns remained dependent on repeated state support, bank exposure to large projects rose faster than underlying cash flows, or labour and housing constraints materially reduced competitiveness.
+
+For energy resilience, repeated operation of alternative export routes under stress would strengthen the case that Saudi infrastructure can reduce the global impact of Gulf disruptions. Persistent inability to substitute for Hormuz at meaningful scale would weaken it.
 
 ## Related Marginal Thinking research
 
-- [Global Macro Daily — September 18, 2026](/reports/2026/09/2026-09-18-global-macro.html)
-- [Global Macro Daily — September 17, 2026](/reports/2026/09/2026-09-17-global-macro.html)
-- [Global Macro, Markets & Political Risk — September 16, 2026](/reports/2026/09/2026-09-16-global-macro.html)
-- [Global Macro, Markets & Political Risk — September 15, 2026](/reports/2026/09/2026-09-15-global-macro.html)
+This dossier provides country context for `MT-GM-2026-09-17`, `MT-GM-2026-09-18` and `MT-WF-2026-09-18`. It does not replace the time-sensitive market, energy or capital-flow analysis in those reports.
 
-## Sources and limitations
+## Sources
 
-Primary sources used here include the [IMF 2026 Article IV consultation](https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv), the [Saudi National Portal description of the government mechanism](https://my.gov.sa/en/content/govmechanism), the [FY2026 budget announcement](https://mof.gov.sa/en/MediaCenter/news/Pages/News_02122025.aspx), [GASTAT labor-market statistics](https://www.stats.gov.sa/en/w/news/93?p_l_back_url=%2Fen%2Fsearch-news%3Fcategory%3Dnews%26delta%3D60%26parentCategory%3D124295%26q%3D%26start%3D2&p_l_back_url_title=Search+News) and the [PIF 2026–2030 strategy](https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/chaired-by-hrh-crown-prince-pif-board-of-directors-approves-pif-2026-2030-strategy/).
+- IMF, *2026 Article IV Consultation with Saudi Arabia*, 29 July 2026: https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv
+- IMF, *Structural Reforms in Saudi Arabia Since 2016*, Working Paper 2026/014: https://www.elibrary.imf.org/abstract/journals/001/2026/014/article-A001-en.xml
+- General Authority for Statistics, *Labor Market Statistics Q2 2025*: https://www.stats.gov.sa/en/w/news/93
+- Saudi Vision 2030, *Annual Report 2025 — Executive Summary*: https://www.vision2030.gov.sa/media/vcjnuhsn/vision2030_annual_report_2025-executive_summary_en.pdf
+- U.S. Energy Information Administration, *Hormuz closure and related production outages*, 7 April 2026: https://www.eia.gov/pressroom/releases/press586.php
 
-IMF numbers for 2026 are projections and can change materially with oil prices, production and the regional conflict. Budget figures were prepared before later 2026 disruptions and use different assumptions. Labor-market data cited are from Q2 2025 and should not be treated as a September 2026 snapshot. Political institutions are described from official legal/institutional sources; this dossier does not make an electoral or normative judgment.
+**Information cutoff:** 18 September 2026. Current conflict conditions, route utilization, fiscal execution and labour data should be reverified when this dossier is used in later research.
