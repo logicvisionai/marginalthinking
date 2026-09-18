@@ -47,6 +47,28 @@ The public network uses a deterministic layered layout. Groups organize relation
 
 This deterministic layout keeps Git diffs, screenshots and historical comparisons stable across builds.
 
+## Node dossier interaction
+
+Selecting a node opens a compact analytical dossier derived from the same canonical graph.
+
+- **Overview** shows type, system, direct relationship counts, high-criticality connections, low-substitutability connections, last verification and historical-event count.
+- **Dependencies** separates explicit upstream and downstream relationships and surfaces only alternatives or redundancies represented by validated edges.
+- **Transmission** composes bounded upstream and downstream paths exclusively from validated relationships. Chaining edges supports navigation; it does not turn the chain into a forecast or imply equal effect magnitude.
+- **History** combines node events with events on incident relationships.
+- **Research** de-duplicates the canonical research products supporting the node and its direct relationships.
+
+The graph keeps one-hop focus by default. Opening **Transmission** expands the visual focus to connected paths up to four hops without creating inferred edges.
+
+Node and relationship selections use stable URL fragments (`#node-<id>` and `#relation-<id>`) so a specific analytical view can be shared.
+
+## History schema v2
+
+History treats both nodes and relationships as first-class entities. Each event carries `entity_type` (`node` or `edge`), `entity_id`, date, event type, a contemporaneous snapshot and research IDs.
+
+Snapshots make history durable even after an entity is retired from the current-state graph. Current nodes and edges must each have at least one history event, but retired historical entities do not need to remain in `data/global-dependencies.json`.
+
+Node events support `baseline`, `node_added`, `node_update`, `entity_retired` and `correction`. Relationship events support `baseline`, `edge_added`, `evidence_update`, `mechanism_change`, `criticality_change`, `substitutability_change`, `entity_retired` and `correction`.
+
 ## Home preview
 
 The homepage preview uses only edges explicitly marked `home_preview:true`. It is a compressed view of the current network, not a separate dataset. The preview links to the canonical network page and never introduces unvalidated relationships.

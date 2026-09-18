@@ -1,11 +1,19 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "name": "Global Dependency Network history",
   "updated_at": "2026-09-18",
   "event_types": {
     "baseline": {
-      "en": "Network baseline",
-      "pt-BR": "Base inicial da rede"
+      "en": "Baseline",
+      "pt-BR": "Base inicial"
+    },
+    "node_added": {
+      "en": "Node added",
+      "pt-BR": "Nó adicionado"
+    },
+    "node_update": {
+      "en": "Node updated",
+      "pt-BR": "Nó atualizado"
     },
     "edge_added": {
       "en": "Dependency added",
@@ -27,9 +35,9 @@
       "en": "Substitutability change",
       "pt-BR": "Mudança de substituibilidade"
     },
-    "edge_retired": {
-      "en": "Dependency retired",
-      "pt-BR": "Dependência encerrada"
+    "entity_retired": {
+      "en": "Entity retired",
+      "pt-BR": "Entidade encerrada"
     },
     "correction": {
       "en": "Historical correction",
@@ -38,382 +46,111 @@
   },
   "events": [
     {
-      "event_id": "dep-hormuz-gulf-exports-2026-09-18-baseline",
-      "edge_id": "dep-hormuz-gulf-exports",
+      "event_id": "agentic-workflows-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "agentic-workflows",
+      "node_id": "agentic-workflows",
       "date": "2026-09-18",
       "type": "baseline",
-      "from": "strait-hormuz",
-      "to": "gulf-crude-exports",
       "snapshot": {
-        "relation": "constrains",
-        "criticality": "high",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "immediate"
+        "type": "technology",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Agentic workflows",
+          "pt-BR": "Fluxos de trabalho agênticos"
+        },
+        "description": {
+          "en": "Delegated multi-step work combining model capability, context, tools and governance.",
+          "pt-BR": "Trabalho delegado em múltiplas etapas combinando capacidade do modelo, contexto, ferramentas e governança."
+        }
       },
       "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-eastwest-gulf-exports-2026-09-18-baseline",
-      "edge_id": "dep-eastwest-gulf-exports",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "saudi-east-west",
-      "to": "gulf-crude-exports",
-      "snapshot": {
-        "relation": "redundancy",
-        "criticality": "high",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "immediate"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-exports-oil-cost-2026-09-18-baseline",
-      "edge_id": "dep-exports-oil-cost",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "gulf-crude-exports",
-      "to": "global-oil-costs",
-      "snapshot": {
-        "relation": "transmits",
-        "criticality": "high",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "immediate"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-oil-inflation-2026-09-18-baseline",
-      "edge_id": "dep-oil-inflation",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "global-oil-costs",
-      "to": "inflation-pressure",
-      "snapshot": {
-        "relation": "transmits",
-        "criticality": "high",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "immediate"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-inflation-financing-2026-09-18-baseline",
-      "edge_id": "dep-inflation-financing",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "inflation-pressure",
-      "to": "global-financing",
-      "snapshot": {
-        "relation": "transmits",
-        "criticality": "high",
-        "substitutability": "low",
-        "confidence": "high",
-        "horizon": "immediate"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-grid-data-centres-2026-09-18-baseline",
-      "edge_id": "dep-grid-data-centres",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "electricity-grids",
-      "to": "data-centres",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "high",
-        "substitutability": "low",
-        "confidence": "high",
-        "horizon": "1-3y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-semiconductors-data-centres-2026-09-18-baseline",
-      "edge_id": "dep-semiconductors-data-centres",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "semiconductor-capacity",
-      "to": "data-centres",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "high",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "1-3y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-financing-data-centres-2026-09-18-baseline",
-      "edge_id": "dep-financing-data-centres",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "global-financing",
-      "to": "data-centres",
-      "snapshot": {
-        "relation": "constrains",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "1-3y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-financing-semiconductors-2026-09-18-baseline",
-      "edge_id": "dep-financing-semiconductors",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "global-financing",
-      "to": "semiconductor-capacity",
-      "snapshot": {
-        "relation": "constrains",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-financing-material-processing-2026-09-18-baseline",
-      "edge_id": "dep-financing-material-processing",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "global-financing",
-      "to": "strategic-material-processing",
-      "snapshot": {
-        "relation": "constrains",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-WF-2026-09-18"
-      ]
-    },
-    {
-      "event_id": "dep-risksharing-rail-2026-09-18-baseline",
-      "edge_id": "dep-risksharing-rail",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "multilateral-risk-sharing",
-      "to": "kazakhstan-rail",
-      "snapshot": {
-        "relation": "finances",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-ST-2026-09-16-kazakhstan-corridor"
-      ]
-    },
-    {
-      "event_id": "dep-rail-middle-corridor-2026-09-18-baseline",
-      "edge_id": "dep-rail-middle-corridor",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "kazakhstan-rail",
-      "to": "middle-corridor",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "high",
-        "substitutability": "medium",
-        "confidence": "high",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-ST-2026-09-16-kazakhstan-corridor"
-      ]
-    },
-    {
-      "event_id": "dep-corridor-trade-2026-09-18-baseline",
-      "edge_id": "dep-corridor-trade",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "middle-corridor",
-      "to": "eurasian-trade",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "high",
-        "confidence": "medium",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-ST-2026-09-16-kazakhstan-corridor"
-      ]
-    },
-    {
-      "event_id": "dep-resources-processing-2026-09-18-baseline",
-      "edge_id": "dep-resources-processing",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "kazakhstan-resource-base",
-      "to": "kazakhstan-processing",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "3-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-ST-2026-09-16-kazakhstan-corridor"
-      ]
-    },
-    {
-      "event_id": "dep-power-processing-2026-09-18-baseline",
-      "edge_id": "dep-power-processing",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "kazakhstan-power-reform",
-      "to": "kazakhstan-processing",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "low",
-        "confidence": "medium",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-ST-2026-09-16-kazakhstan-corridor"
-      ]
-    },
-    {
-      "event_id": "dep-corridor-processing-2026-09-18-baseline",
-      "edge_id": "dep-corridor-processing",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "middle-corridor",
-      "to": "kazakhstan-processing",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-ST-2026-09-16-kazakhstan-corridor"
-      ]
-    },
-    {
-      "event_id": "dep-model-workflows-2026-09-18-baseline",
-      "edge_id": "dep-model-workflows",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "model-capability",
-      "to": "agentic-workflows",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "high",
-        "confidence": "high",
-        "horizon": "current"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
       },
       "research_ids": [
         "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "cislunar-scale-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "cislunar-scale",
+      "node_id": "cislunar-scale",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "capacity",
+        "group": "cislunar-services",
+        "label": {
+          "en": "Scalable cislunar operations",
+          "pt-BR": "Operações cislunares escaláveis"
+        },
+        "description": {
+          "en": "A persistent operational layer whose viability requires recurring demand plus infrastructure beyond relay services alone.",
+          "pt-BR": "Camada operacional persistente cuja viabilidade exige demanda recorrente e infraestrutura além de serviços de retransmissão."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "event_id": "continuous-evaluation-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "continuous-evaluation",
+      "node_id": "continuous-evaluation",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "institution",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Continuous evaluation",
+          "pt-BR": "Avaliação contínua"
+        },
+        "description": {
+          "en": "Workflow-specific tests and regression detection required as tasks, tools and context change.",
+          "pt-BR": "Testes específicos de fluxo e detecção de regressões necessários à medida que tarefas, ferramentas e contexto mudam."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "data-centres-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "data-centres",
+      "node_id": "data-centres",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "capacity",
+        "group": "compute-power",
+        "label": {
+          "en": "Data-centre capacity",
+          "pt-BR": "Capacidade de data centers"
+        },
+        "description": {
+          "en": "Compute infrastructure whose expansion depends on chips, power, cooling, grids and finance.",
+          "pt-BR": "Infraestrutura computacional cuja expansão depende de chips, energia, refrigeração, redes e financiamento."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
       ]
     },
     {
@@ -428,7 +165,9 @@
         "criticality": "high",
         "substitutability": "low",
         "confidence": "high",
-        "horizon": "current"
+        "horizon": "current",
+        "from": "enterprise-context-tools",
+        "to": "agentic-workflows"
       },
       "summary": {
         "en": "Added to the public dependency network as the first traceable state of this relationship.",
@@ -436,29 +175,88 @@
       },
       "research_ids": [
         "MT-TS-2026-09-18-agentic-operating-layer"
-      ]
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-context-workflows"
     },
     {
-      "event_id": "dep-permissions-workflows-2026-09-18-baseline",
-      "edge_id": "dep-permissions-workflows",
+      "event_id": "dep-corridor-processing-2026-09-18-baseline",
+      "edge_id": "dep-corridor-processing",
       "date": "2026-09-18",
       "type": "baseline",
-      "from": "permissions-governance",
-      "to": "agentic-workflows",
+      "from": "middle-corridor",
+      "to": "kazakhstan-processing",
       "snapshot": {
-        "relation": "governs",
-        "criticality": "high",
-        "substitutability": "low",
-        "confidence": "high",
-        "horizon": "current"
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "1-5y",
+        "from": "middle-corridor",
+        "to": "kazakhstan-processing"
       },
       "summary": {
         "en": "Added to the public dependency network as the first traceable state of this relationship.",
         "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
       },
       "research_ids": [
-        "MT-TS-2026-09-18-agentic-operating-layer"
-      ]
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-corridor-processing"
+    },
+    {
+      "event_id": "dep-corridor-trade-2026-09-18-baseline",
+      "edge_id": "dep-corridor-trade",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "middle-corridor",
+      "to": "eurasian-trade",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "high",
+        "confidence": "medium",
+        "horizon": "1-5y",
+        "from": "middle-corridor",
+        "to": "eurasian-trade"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-corridor-trade"
+    },
+    {
+      "event_id": "dep-eastwest-gulf-exports-2026-09-18-baseline",
+      "edge_id": "dep-eastwest-gulf-exports",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "saudi-east-west",
+      "to": "gulf-crude-exports",
+      "snapshot": {
+        "relation": "redundancy",
+        "criticality": "high",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "immediate",
+        "from": "saudi-east-west",
+        "to": "gulf-crude-exports"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-eastwest-gulf-exports"
     },
     {
       "event_id": "dep-evaluation-workflows-2026-09-18-baseline",
@@ -472,7 +270,9 @@
         "criticality": "high",
         "substitutability": "low",
         "confidence": "high",
-        "horizon": "current"
+        "horizon": "current",
+        "from": "continuous-evaluation",
+        "to": "agentic-workflows"
       },
       "summary": {
         "en": "Added to the public dependency network as the first traceable state of this relationship.",
@@ -480,7 +280,167 @@
       },
       "research_ids": [
         "MT-TS-2026-09-18-agentic-operating-layer"
-      ]
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-evaluation-workflows"
+    },
+    {
+      "event_id": "dep-exports-oil-cost-2026-09-18-baseline",
+      "edge_id": "dep-exports-oil-cost",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "gulf-crude-exports",
+      "to": "global-oil-costs",
+      "snapshot": {
+        "relation": "transmits",
+        "criticality": "high",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "immediate",
+        "from": "gulf-crude-exports",
+        "to": "global-oil-costs"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-exports-oil-cost"
+    },
+    {
+      "event_id": "dep-financing-data-centres-2026-09-18-baseline",
+      "edge_id": "dep-financing-data-centres",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "global-financing",
+      "to": "data-centres",
+      "snapshot": {
+        "relation": "constrains",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "1-3y",
+        "from": "global-financing",
+        "to": "data-centres"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-financing-data-centres"
+    },
+    {
+      "event_id": "dep-financing-material-processing-2026-09-18-baseline",
+      "edge_id": "dep-financing-material-processing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "global-financing",
+      "to": "strategic-material-processing",
+      "snapshot": {
+        "relation": "constrains",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "1-5y",
+        "from": "global-financing",
+        "to": "strategic-material-processing"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-financing-material-processing"
+    },
+    {
+      "event_id": "dep-financing-semiconductors-2026-09-18-baseline",
+      "edge_id": "dep-financing-semiconductors",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "global-financing",
+      "to": "semiconductor-capacity",
+      "snapshot": {
+        "relation": "constrains",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "1-5y",
+        "from": "global-financing",
+        "to": "semiconductor-capacity"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-financing-semiconductors"
+    },
+    {
+      "event_id": "dep-grid-data-centres-2026-09-18-baseline",
+      "edge_id": "dep-grid-data-centres",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "electricity-grids",
+      "to": "data-centres",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "high",
+        "substitutability": "low",
+        "confidence": "high",
+        "horizon": "1-3y",
+        "from": "electricity-grids",
+        "to": "data-centres"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-grid-data-centres"
+    },
+    {
+      "event_id": "dep-hormuz-gulf-exports-2026-09-18-baseline",
+      "edge_id": "dep-hormuz-gulf-exports",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "strait-hormuz",
+      "to": "gulf-crude-exports",
+      "snapshot": {
+        "relation": "constrains",
+        "criticality": "high",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "immediate",
+        "from": "strait-hormuz",
+        "to": "gulf-crude-exports"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-hormuz-gulf-exports"
     },
     {
       "event_id": "dep-human-workflows-2026-09-18-baseline",
@@ -494,7 +454,9 @@
         "criticality": "medium",
         "substitutability": "medium",
         "confidence": "high",
-        "horizon": "current"
+        "horizon": "current",
+        "from": "human-supervision",
+        "to": "agentic-workflows"
       },
       "summary": {
         "en": "Added to the public dependency network as the first traceable state of this relationship.",
@@ -502,139 +464,36 @@
       },
       "research_ids": [
         "MT-TS-2026-09-18-agentic-operating-layer"
-      ]
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-human-workflows"
     },
     {
-      "event_id": "dep-workflows-tasks-2026-09-18-baseline",
-      "edge_id": "dep-workflows-tasks",
+      "event_id": "dep-inflation-financing-2026-09-18-baseline",
+      "edge_id": "dep-inflation-financing",
       "date": "2026-09-18",
       "type": "baseline",
-      "from": "agentic-workflows",
-      "to": "task-recomposition",
+      "from": "inflation-pressure",
+      "to": "global-financing",
       "snapshot": {
         "relation": "transmits",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "1-3y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-TS-2026-09-18-agentic-operating-layer"
-      ]
-    },
-    {
-      "event_id": "dep-procurement-relay-2026-09-18-baseline",
-      "edge_id": "dep-procurement-relay",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "public-space-procurement",
-      "to": "lunar-relay-pnt",
-      "snapshot": {
-        "relation": "finances",
         "criticality": "high",
         "substitutability": "low",
         "confidence": "high",
-        "horizon": "1-5y"
+        "horizon": "immediate",
+        "from": "inflation-pressure",
+        "to": "global-financing"
       },
       "summary": {
         "en": "Added to the public dependency network as the first traceable state of this relationship.",
         "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
       },
       "research_ids": [
-        "MT-TS-2026-09-18-cislunar-service-infrastructure"
-      ]
-    },
-    {
-      "event_id": "dep-standards-relay-2026-09-18-baseline",
-      "edge_id": "dep-standards-relay",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "lunanet-standards",
-      "to": "lunar-relay-pnt",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "low",
-        "confidence": "high",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-TS-2026-09-18-cislunar-service-infrastructure"
-      ]
-    },
-    {
-      "event_id": "dep-relay-missions-2026-09-18-baseline",
-      "edge_id": "dep-relay-missions",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "lunar-relay-pnt",
-      "to": "lunar-missions",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "1-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-TS-2026-09-18-cislunar-service-infrastructure"
-      ]
-    },
-    {
-      "event_id": "dep-relay-scale-2026-09-18-baseline",
-      "edge_id": "dep-relay-scale",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "lunar-relay-pnt",
-      "to": "cislunar-scale",
-      "snapshot": {
-        "relation": "enables",
-        "criticality": "medium",
-        "substitutability": "medium",
-        "confidence": "medium",
-        "horizon": "3-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-TS-2026-09-18-cislunar-service-infrastructure"
-      ]
-    },
-    {
-      "event_id": "dep-surface-scale-2026-09-18-baseline",
-      "edge_id": "dep-surface-scale",
-      "date": "2026-09-18",
-      "type": "baseline",
-      "from": "lunar-surface-constraints",
-      "to": "cislunar-scale",
-      "snapshot": {
-        "relation": "constrains",
-        "criticality": "high",
-        "substitutability": "low",
-        "confidence": "high",
-        "horizon": "3-5y"
-      },
-      "summary": {
-        "en": "Added to the public dependency network as the first traceable state of this relationship.",
-        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
-      },
-      "research_ids": [
-        "MT-TS-2026-09-18-cislunar-service-infrastructure"
-      ]
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-inflation-financing"
     },
     {
       "event_id": "dep-missions-scale-2026-09-18-baseline",
@@ -648,7 +507,9 @@
         "criticality": "high",
         "substitutability": "low",
         "confidence": "medium",
-        "horizon": "3-5y"
+        "horizon": "3-5y",
+        "from": "lunar-missions",
+        "to": "cislunar-scale"
       },
       "summary": {
         "en": "Added to the public dependency network as the first traceable state of this relationship.",
@@ -656,6 +517,1081 @@
       },
       "research_ids": [
         "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-missions-scale"
+    },
+    {
+      "event_id": "dep-model-workflows-2026-09-18-baseline",
+      "edge_id": "dep-model-workflows",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "model-capability",
+      "to": "agentic-workflows",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "high",
+        "confidence": "high",
+        "horizon": "current",
+        "from": "model-capability",
+        "to": "agentic-workflows"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-model-workflows"
+    },
+    {
+      "event_id": "dep-oil-inflation-2026-09-18-baseline",
+      "edge_id": "dep-oil-inflation",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "global-oil-costs",
+      "to": "inflation-pressure",
+      "snapshot": {
+        "relation": "transmits",
+        "criticality": "high",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "immediate",
+        "from": "global-oil-costs",
+        "to": "inflation-pressure"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-oil-inflation"
+    },
+    {
+      "event_id": "dep-permissions-workflows-2026-09-18-baseline",
+      "edge_id": "dep-permissions-workflows",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "permissions-governance",
+      "to": "agentic-workflows",
+      "snapshot": {
+        "relation": "governs",
+        "criticality": "high",
+        "substitutability": "low",
+        "confidence": "high",
+        "horizon": "current",
+        "from": "permissions-governance",
+        "to": "agentic-workflows"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-permissions-workflows"
+    },
+    {
+      "event_id": "dep-power-processing-2026-09-18-baseline",
+      "edge_id": "dep-power-processing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "kazakhstan-power-reform",
+      "to": "kazakhstan-processing",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "low",
+        "confidence": "medium",
+        "horizon": "1-5y",
+        "from": "kazakhstan-power-reform",
+        "to": "kazakhstan-processing"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-power-processing"
+    },
+    {
+      "event_id": "dep-procurement-relay-2026-09-18-baseline",
+      "edge_id": "dep-procurement-relay",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "public-space-procurement",
+      "to": "lunar-relay-pnt",
+      "snapshot": {
+        "relation": "finances",
+        "criticality": "high",
+        "substitutability": "low",
+        "confidence": "high",
+        "horizon": "1-5y",
+        "from": "public-space-procurement",
+        "to": "lunar-relay-pnt"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-procurement-relay"
+    },
+    {
+      "event_id": "dep-rail-middle-corridor-2026-09-18-baseline",
+      "edge_id": "dep-rail-middle-corridor",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "kazakhstan-rail",
+      "to": "middle-corridor",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "high",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "1-5y",
+        "from": "kazakhstan-rail",
+        "to": "middle-corridor"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-rail-middle-corridor"
+    },
+    {
+      "event_id": "dep-relay-missions-2026-09-18-baseline",
+      "edge_id": "dep-relay-missions",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "lunar-relay-pnt",
+      "to": "lunar-missions",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "1-5y",
+        "from": "lunar-relay-pnt",
+        "to": "lunar-missions"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-relay-missions"
+    },
+    {
+      "event_id": "dep-relay-scale-2026-09-18-baseline",
+      "edge_id": "dep-relay-scale",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "lunar-relay-pnt",
+      "to": "cislunar-scale",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "3-5y",
+        "from": "lunar-relay-pnt",
+        "to": "cislunar-scale"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-relay-scale"
+    },
+    {
+      "event_id": "dep-resources-processing-2026-09-18-baseline",
+      "edge_id": "dep-resources-processing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "kazakhstan-resource-base",
+      "to": "kazakhstan-processing",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "3-5y",
+        "from": "kazakhstan-resource-base",
+        "to": "kazakhstan-processing"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-resources-processing"
+    },
+    {
+      "event_id": "dep-risksharing-rail-2026-09-18-baseline",
+      "edge_id": "dep-risksharing-rail",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "multilateral-risk-sharing",
+      "to": "kazakhstan-rail",
+      "snapshot": {
+        "relation": "finances",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "1-5y",
+        "from": "multilateral-risk-sharing",
+        "to": "kazakhstan-rail"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-risksharing-rail"
+    },
+    {
+      "event_id": "dep-semiconductors-data-centres-2026-09-18-baseline",
+      "edge_id": "dep-semiconductors-data-centres",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "semiconductor-capacity",
+      "to": "data-centres",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "high",
+        "substitutability": "medium",
+        "confidence": "high",
+        "horizon": "1-3y",
+        "from": "semiconductor-capacity",
+        "to": "data-centres"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-semiconductors-data-centres"
+    },
+    {
+      "event_id": "dep-standards-relay-2026-09-18-baseline",
+      "edge_id": "dep-standards-relay",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "lunanet-standards",
+      "to": "lunar-relay-pnt",
+      "snapshot": {
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "low",
+        "confidence": "high",
+        "horizon": "1-5y",
+        "from": "lunanet-standards",
+        "to": "lunar-relay-pnt"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-standards-relay"
+    },
+    {
+      "event_id": "dep-surface-scale-2026-09-18-baseline",
+      "edge_id": "dep-surface-scale",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "lunar-surface-constraints",
+      "to": "cislunar-scale",
+      "snapshot": {
+        "relation": "constrains",
+        "criticality": "high",
+        "substitutability": "low",
+        "confidence": "high",
+        "horizon": "3-5y",
+        "from": "lunar-surface-constraints",
+        "to": "cislunar-scale"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-surface-scale"
+    },
+    {
+      "event_id": "dep-workflows-tasks-2026-09-18-baseline",
+      "edge_id": "dep-workflows-tasks",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "from": "agentic-workflows",
+      "to": "task-recomposition",
+      "snapshot": {
+        "relation": "transmits",
+        "criticality": "medium",
+        "substitutability": "medium",
+        "confidence": "medium",
+        "horizon": "1-3y",
+        "from": "agentic-workflows",
+        "to": "task-recomposition"
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this relationship.",
+        "pt-BR": "Adicionada à rede pública de dependências como primeiro estado rastreável desta relação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ],
+      "entity_type": "edge",
+      "entity_id": "dep-workflows-tasks"
+    },
+    {
+      "event_id": "electricity-grids-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "electricity-grids",
+      "node_id": "electricity-grids",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "compute-power",
+        "label": {
+          "en": "Electricity grids",
+          "pt-BR": "Redes elétricas"
+        },
+        "description": {
+          "en": "Generation, transmission, interconnection and equipment capacity required to serve new large loads.",
+          "pt-BR": "Capacidade de geração, transmissão, conexão e equipamentos necessária para atender novas cargas de grande porte."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "enterprise-context-tools-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "enterprise-context-tools",
+      "node_id": "enterprise-context-tools",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Enterprise context & tools",
+          "pt-BR": "Contexto e ferramentas empresariais"
+        },
+        "description": {
+          "en": "Internal data, software interfaces and tool access that turn agents into workflow components.",
+          "pt-BR": "Dados internos, interfaces de software e acesso a ferramentas que transformam agentes em componentes de fluxo de trabalho."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "eurasian-trade-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "eurasian-trade",
+      "node_id": "eurasian-trade",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "flow",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Eurasian trade flows",
+          "pt-BR": "Fluxos comerciais eurasiáticos"
+        },
+        "description": {
+          "en": "Trade volumes and transit times affected by corridor capacity and coordination.",
+          "pt-BR": "Volumes comerciais e tempos de trânsito afetados por capacidade e coordenação do corredor."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "global-financing-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "global-financing",
+      "node_id": "global-financing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "finance",
+        "group": "energy-finance",
+        "label": {
+          "en": "Global financing conditions",
+          "pt-BR": "Condições globais de financiamento"
+        },
+        "description": {
+          "en": "Policy rates and long yields that set financing hurdles for capital-intensive projects.",
+          "pt-BR": "Juros de política e taxas longas que definem o custo de capital para projetos intensivos em investimento."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "global-oil-costs-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "global-oil-costs",
+      "node_id": "global-oil-costs",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "market",
+        "group": "energy-finance",
+        "label": {
+          "en": "Delivered oil cost",
+          "pt-BR": "Custo entregue do petróleo"
+        },
+        "description": {
+          "en": "Crude price, freight, insurance and route constraints transmitted to importers.",
+          "pt-BR": "Preço do petróleo, frete, seguro e restrições de rota transmitidos aos importadores."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "gulf-crude-exports-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "gulf-crude-exports",
+      "node_id": "gulf-crude-exports",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "flow",
+        "group": "energy-finance",
+        "label": {
+          "en": "Gulf crude exports",
+          "pt-BR": "Exportações de petróleo do Golfo"
+        },
+        "description": {
+          "en": "Realised physical export flows rather than headline production capacity.",
+          "pt-BR": "Fluxos físicos efetivamente exportados, distintos da capacidade nominal de produção."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "human-supervision-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "human-supervision",
+      "node_id": "human-supervision",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "labor",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Human escalation & review",
+          "pt-BR": "Escalonamento & revisão humana"
+        },
+        "description": {
+          "en": "Selective review capacity that absorbs uncertain or high-risk cases rather than supervising every action equally.",
+          "pt-BR": "Capacidade de revisão seletiva que absorve casos incertos ou de maior risco em vez de supervisionar toda ação de forma uniforme."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "inflation-pressure-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "inflation-pressure",
+      "node_id": "inflation-pressure",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "market",
+        "group": "energy-finance",
+        "label": {
+          "en": "Inflation pressure",
+          "pt-BR": "Pressão inflacionária"
+        },
+        "description": {
+          "en": "Energy and transport costs transmitted into inflation expectations and policy trade-offs.",
+          "pt-BR": "Custos de energia e transporte transmitidos para expectativas de inflação e escolhas de política econômica."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "kazakhstan-power-reform-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "kazakhstan-power-reform",
+      "node_id": "kazakhstan-power-reform",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "institution",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Kazakhstan power-system reform",
+          "pt-BR": "Reforma do sistema elétrico do Cazaquistão"
+        },
+        "description": {
+          "en": "Tariff and investment reforms intended to improve utility sustainability and private investment conditions.",
+          "pt-BR": "Reformas tarifárias e de investimento voltadas à sustentabilidade das utilities e às condições para capital privado."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "kazakhstan-processing-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "kazakhstan-processing",
+      "node_id": "kazakhstan-processing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "capacity",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Domestic processing capacity",
+          "pt-BR": "Capacidade doméstica de processamento"
+        },
+        "description": {
+          "en": "Prospective value-added processing around minerals and energy, conditional on power, logistics and investment execution.",
+          "pt-BR": "Processamento de maior valor agregado em torno de minerais e energia, condicionado à eletricidade, logística e execução de investimentos."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "kazakhstan-rail-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "kazakhstan-rail",
+      "node_id": "kazakhstan-rail",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Kazakhstan rail capacity",
+          "pt-BR": "Capacidade ferroviária do Cazaquistão"
+        },
+        "description": {
+          "en": "Greenfield rail and station capacity financed to relieve bottlenecks and reduce transit time.",
+          "pt-BR": "Capacidade ferroviária e estações financiadas para aliviar restrições e reduzir o tempo de trânsito."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "kazakhstan-resource-base-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "kazakhstan-resource-base",
+      "node_id": "kazakhstan-resource-base",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "resource",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Kazakhstan resource base",
+          "pt-BR": "Base de recursos do Cazaquistão"
+        },
+        "description": {
+          "en": "Hydrocarbons, uranium and critical minerals that anchor export and processing opportunities.",
+          "pt-BR": "Hidrocarbonetos, urânio e minerais críticos que sustentam exportações e oportunidades de processamento."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "lunanet-standards-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "lunanet-standards",
+      "node_id": "lunanet-standards",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "institution",
+        "group": "cislunar-services",
+        "label": {
+          "en": "Interoperability standards",
+          "pt-BR": "Padrões de interoperabilidade"
+        },
+        "description": {
+          "en": "LunaNet and Moonlight-class standards intended to reduce integration friction across providers and missions.",
+          "pt-BR": "Padrões do tipo LunaNet e Moonlight voltados a reduzir fricção de integração entre provedores e missões."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "event_id": "lunar-missions-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "lunar-missions",
+      "node_id": "lunar-missions",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "flow",
+        "group": "cislunar-services",
+        "label": {
+          "en": "Recurring lunar missions",
+          "pt-BR": "Missões lunares recorrentes"
+        },
+        "description": {
+          "en": "Mission demand that can justify persistent shared services when usage becomes repeated across customers.",
+          "pt-BR": "Demanda de missões capaz de justificar serviços compartilhados persistentes quando o uso se torna recorrente entre clientes."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "event_id": "lunar-relay-pnt-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "lunar-relay-pnt",
+      "node_id": "lunar-relay-pnt",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "cislunar-services",
+        "label": {
+          "en": "Lunar relay & PNT services",
+          "pt-BR": "Serviços lunares de retransmissão & PNT"
+        },
+        "description": {
+          "en": "Reusable communications, positioning, navigation and timing services in lunar orbit and cislunar space.",
+          "pt-BR": "Serviços reutilizáveis de comunicação, posicionamento, navegação e tempo em órbita lunar e espaço cislunar."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "event_id": "lunar-surface-constraints-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "lunar-surface-constraints",
+      "node_id": "lunar-surface-constraints",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "cislunar-services",
+        "label": {
+          "en": "Surface power & logistics constraints",
+          "pt-BR": "Restrições de energia & logística de superfície"
+        },
+        "description": {
+          "en": "Power, mobility, maintenance, landing and logistics capabilities that remain less mature than communications and navigation.",
+          "pt-BR": "Capacidades de energia, mobilidade, manutenção, pouso e logística ainda menos maduras que comunicação e navegação."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "event_id": "middle-corridor-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "middle-corridor",
+      "node_id": "middle-corridor",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Trans-Caspian Middle Corridor",
+          "pt-BR": "Corredor Médio Transcaspiano"
+        },
+        "description": {
+          "en": "Westbound Eurasian trade route whose value depends on rail, port and border interoperability.",
+          "pt-BR": "Rota eurasiática para oeste cujo valor depende de ferrovia, portos e interoperabilidade de fronteiras."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "model-capability-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "model-capability",
+      "node_id": "model-capability",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "technology",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Model capability",
+          "pt-BR": "Capacidade do modelo"
+        },
+        "description": {
+          "en": "Task performance that makes longer tool-using workflows technically possible.",
+          "pt-BR": "Desempenho em tarefas que torna tecnicamente possíveis fluxos mais longos com uso de ferramentas."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "multilateral-risk-sharing-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "multilateral-risk-sharing",
+      "node_id": "multilateral-risk-sharing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "institution",
+        "group": "eurasian-corridor",
+        "label": {
+          "en": "Multilateral risk sharing",
+          "pt-BR": "Compartilhamento multilateral de risco"
+        },
+        "description": {
+          "en": "Guarantees and policy finance used to mobilise commercial capital into infrastructure.",
+          "pt-BR": "Garantias e financiamento de políticas usados para mobilizar capital comercial para infraestrutura."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "event_id": "permissions-governance-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "permissions-governance",
+      "node_id": "permissions-governance",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "institution",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Permissions & identity",
+          "pt-BR": "Permissões & identidade"
+        },
+        "description": {
+          "en": "Identity, authentication, context segmentation and action boundaries governing what agents may access and do.",
+          "pt-BR": "Identidade, autenticação, segmentação de contexto e limites de ação que governam o que agentes podem acessar e executar."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "public-space-procurement-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "public-space-procurement",
+      "node_id": "public-space-procurement",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "institution",
+        "group": "cislunar-services",
+        "label": {
+          "en": "Public procurement anchor",
+          "pt-BR": "Âncora de compras públicas"
+        },
+        "description": {
+          "en": "Agency procurement and service contracts that create early demand for shared cislunar infrastructure.",
+          "pt-BR": "Compras e contratos de serviço de agências que criam demanda inicial por infraestrutura cislunar compartilhada."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "event_id": "saudi-east-west-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "saudi-east-west",
+      "node_id": "saudi-east-west",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "energy-finance",
+        "label": {
+          "en": "Saudi East-West system",
+          "pt-BR": "Sistema Leste-Oeste saudita"
+        },
+        "description": {
+          "en": "Pipeline and Red Sea export infrastructure that can partially reduce reliance on Hormuz for Saudi crude.",
+          "pt-BR": "Oleoduto e infraestrutura de exportação pelo Mar Vermelho capazes de reduzir parcialmente a dependência saudita de Hormuz."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "semiconductor-capacity-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "semiconductor-capacity",
+      "node_id": "semiconductor-capacity",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "capacity",
+        "group": "compute-power",
+        "label": {
+          "en": "Semiconductor capacity",
+          "pt-BR": "Capacidade de semicondutores"
+        },
+        "description": {
+          "en": "Fabrication and supply capacity required for compute infrastructure.",
+          "pt-BR": "Capacidade de fabricação e fornecimento necessária à infraestrutura computacional."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "strait-hormuz-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "strait-hormuz",
+      "node_id": "strait-hormuz",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "chokepoint",
+        "group": "energy-finance",
+        "label": {
+          "en": "Strait of Hormuz",
+          "pt-BR": "Estreito de Hormuz"
+        },
+        "description": {
+          "en": "Maritime passage whose security, insurance and transit conditions materially affect Gulf export capacity.",
+          "pt-BR": "Passagem marítima cujas condições de segurança, seguro e trânsito afetam materialmente a capacidade de exportação do Golfo."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "strategic-material-processing-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "strategic-material-processing",
+      "node_id": "strategic-material-processing",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "capacity",
+        "group": "compute-power",
+        "label": {
+          "en": "Strategic material processing",
+          "pt-BR": "Processamento de materiais estratégicos"
+        },
+        "description": {
+          "en": "Processing and refining capacity receiving strategic greenfield investment and facing high capital requirements.",
+          "pt-BR": "Capacidade de processamento e refino que recebe investimento estratégico e exige capital intensivo."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "event_id": "task-recomposition-2026-09-18-node-baseline",
+      "entity_type": "node",
+      "entity_id": "task-recomposition",
+      "node_id": "task-recomposition",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "snapshot": {
+        "type": "labor",
+        "group": "agentic-ai",
+        "label": {
+          "en": "Task recomposition",
+          "pt-BR": "Recomposição de tarefas"
+        },
+        "description": {
+          "en": "Shift from direct execution toward specification, review, exception handling and workflow design.",
+          "pt-BR": "Mudança da execução direta para especificação, revisão, tratamento de exceções e desenho de fluxos."
+        }
+      },
+      "summary": {
+        "en": "Added to the public dependency network as the first traceable state of this node.",
+        "pt-BR": "Adicionado à rede pública de dependências como primeiro estado rastreável deste nó."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
       ]
     }
   ]
