@@ -450,8 +450,8 @@
       },
       "catalysts": [
         {
-          "en": "Chile closed 2025 with more than 2,500 MW of installed storage, almost double the previous year.",
-          "pt-BR": "O Chile encerrou 2025 com mais de 2.500 MW de armazenamento instalado, quase o dobro do ano anterior."
+          "en": "By May 2026, Chile's system coordinator reported more than 4,300 MW of storage operating or in testing.",
+          "pt-BR": "Em maio de 2026, o coordenador do sistema chileno informou mais de 4.300 MW de armazenamento em operação ou em testes."
         },
         {
           "en": "Kimal–Lo Aguirre and the 2026–2030 energy route provide observable transmission and regulatory milestones.",
@@ -476,13 +476,13 @@
       "last_verified": "2026-09-18",
       "sources": [
         {
-          "name": "Chile Ministry of Energy — Ruta 2026–2030",
-          "url": "https://energia.gob.cl/sites/default/files/documentos/ruta_2026-2030.pdf",
-          "date": "2026-06"
+          "name": "Chile Ministry of Energy — Ruta Energética 2026–2030",
+          "url": "https://www.energia.gob.cl/noticias/nacional/ministerio-de-energia-lanza-ruta-energetica-2026-2030-con-hoja-de-trabajo-concreta-para-el-sector",
+          "date": "2026-05-28"
         },
         {
           "name": "Coordinador Eléctrico Nacional — Cuenta Pública 2025",
-          "url": "https://www.coordinador.cl/wp-content/uploads/2026/05/2026-05-25-DISCURSO-JCO.pdf",
+          "url": "https://www.coordinador.cl/novedades/coordinador-destaca-avances-en-transicion-energetica-y-llama-a-fortalecer-la-seguridad-y-cumplimiento-normativo-del-sistema/",
           "date": "2026-05-25"
         }
       ]

@@ -66,6 +66,9 @@ node scripts/render-agent-discovery.mjs
 # social cards, collection freshness and index control for empty taxonomy pages.
 node scripts/seo-optimize-output.mjs
 node scripts/harden-output.mjs
+# Re-run the public-language guard after discovery/SEO/hardening because those
+# late passes can inject corpus labels after the first editorial normalization.
+node scripts/final-public-language.mjs
 node scripts/validate-taxonomy-output.mjs
 node scripts/validate-series.mjs --dist
 node scripts/validate-dist.mjs
