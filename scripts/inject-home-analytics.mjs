@@ -159,7 +159,7 @@ function section(locale){
   const atlasHref=pagePath(locale,'/opportunities/');
   return '<section class="section home-analytical" aria-labelledby="analytical-systems-title">'+
     '<div class="container">'+
-      '<div class="home-analytical-head"><div><div class="home-analytical-kicker">'+esc(L.kicker)+'</div><h2 id="analytical-systems-title">'+esc(L.title)+'</h2></div><p>'+esc(L.deck)+'</p></div>'+
+      '<div class="home-analytical-head"><div><div class="home-analytical-kicker">'+esc(L.kicker)+'</div><h2 id="analytical-systems-title">'+esc(L.title)+'</h2></div><p>'+esc(L.deck)+'</p></div>'+dependencyPreview(locale,L)+
       '<article class="home-atlas-feature">'+
         '<div class="home-atlas-main">'+
           '<div class="home-atlas-title-row"><div><span>'+esc(L.structural)+'</span><h3>'+esc(L.atlas)+'</h3></div><a class="home-atlas-open" href="'+esc(atlasHref)+'">'+esc(L.open)+' <span aria-hidden="true">→</span></a></div>'+
