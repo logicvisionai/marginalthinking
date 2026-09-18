@@ -96,14 +96,14 @@
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-18-technology-signal-cislunar-service-infrastructure/pt-BR.md",
       "title": "A infraestrutura cislunar está passando de suporte a missões para uma arquitetura de serviços",
-      "deck": "CAPSTONE, relays lunares comerciais, LunaNet e novas compras de infraestrutura de superfície mostram migração para serviços cislunares reutilizáveis, enquanto energia, logística e demanda recorrente continuam sendo restrições centrais.",
+      "deck": "CAPSTONE, satélites-relé lunares comerciais, LunaNet e novas compras de infraestrutura de superfície mostram migração para serviços cislunares reutilizáveis, enquanto energia, logística e demanda recorrente continuam sendo restrições centrais.",
       "tags": [
         "Infraestrutura cislunar",
         "Lua",
         "LunaNet",
         "CAPSTONE",
         "Moonlight",
-        "relay lunar"
+        "retransmissão lunar"
       ],
       "keywords": [
         "cislunar",
@@ -117,7 +117,7 @@
         "Moon Base",
         "NextSTEP-3"
       ],
-      "regime": "Demonstrações de navegação em voo estão convergindo com contratação de relays comerciais, padrões de interoperabilidade e constelações planejadas de serviço.",
+      "regime": "Demonstrações de navegação em voo estão convergindo com contratação de serviços comerciais de retransmissão, padrões de interoperabilidade e constelações planejadas de serviço.",
       "key_risk": "Planos institucionais podem avançar mais rápido do que demanda recorrente e infraestrutura de superfície, deixando serviços orbitais tecnicamente viáveis, mas economicamente dependentes de poucos clientes-âncora.",
       "watch": [
         "implantação e evidência de serviço do Altus-1",
@@ -127,7 +127,7 @@
         "demonstrações de energia de superfície",
         "demanda recorrente por serviços lunares fora do cliente-âncora"
       ],
-      "search_text": "infraestrutura cislunar CAPSTONE 02 LunaNet Moonlight Altus-1 relay lunar navegação comunicações Moon Base NextSTEP-3 energia de superfície logística arquitetura de serviços"
+      "search_text": "infraestrutura cislunar CAPSTONE 02 LunaNet Moonlight Altus-1 retransmissão lunar navegação comunicações Moon Base NextSTEP-3 energia de superfície logística arquitetura de serviços"
     }
   }
 }
