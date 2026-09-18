@@ -72,7 +72,9 @@ function stateDefinitions(locale){
       'pt-BR':'Uma capacidade eficiente existente pode ser reutilizada como infraestrutura ou alavancagem produtiva por outro agente.'
     }
   };
-  return '<div class="state-matrix">'+stateOrder.map(s=>'<article class="state-definition '+stateClass(s)+'"><span>'+esc(stateText(s,locale))+'</span><p>'+esc(copy[s][locale])+'</p></article>').join('')+'</div>';
+  const pt=locale==='pt-BR',columnLabels=pt?['Impede ou restringe','Pode ser explorado ou aproveitado']:['Blocks or constrains','Can be exploited or leveraged'];
+  const rowLabel=s=>(s==='blocking_inefficiency'||s==='exploitable_inefficiency')?(pt?'Ineficiência':'Inefficiency'):(pt?'Eficiência':'Efficiency');
+  return '<div class="state-matrix-shell"><div class="state-matrix-axis"><span>'+esc(columnLabels[0])+'</span><span>'+esc(columnLabels[1])+'</span></div><div class="state-matrix">'+stateOrder.map(s=>'<article class="state-definition '+stateClass(s)+'"><b class="state-row-label">'+esc(rowLabel(s))+'</b><span>'+esc(stateText(s,locale))+'</span><p>'+esc(copy[s][locale])+'</p></article>').join('')+'</div></div>';
 }
 
 function entryCard(e,locale){

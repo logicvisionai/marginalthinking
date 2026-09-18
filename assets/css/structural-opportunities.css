@@ -11,7 +11,12 @@
 .atlas-intro h2,.atlas-method h2{margin:7px 0 0;font:500 clamp(30px,3.2vw,43px)/1.07 var(--serif);letter-spacing:-.02em}
 .atlas-intro>p{margin:0;color:var(--muted);font-size:14px}
 .section-kicker{color:#55717f}
+.state-matrix-shell{max-width:100%;min-width:0}
+.state-matrix-axis{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);border-bottom:0;background:#e9eef0}
+.state-matrix-axis span{padding:9px 14px;font-size:9px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#55717f;text-align:center}
+.state-matrix-axis span+span{border-left:1px solid var(--line)}
 .state-matrix{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);background:#fff}
+.state-row-label{display:block;margin-bottom:9px;font-size:9px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#809099}
 .state-definition{min-height:190px;padding:26px;border-bottom:1px solid var(--line);position:relative}
 .state-definition:nth-child(odd){border-right:1px solid var(--line)}
 .state-definition:nth-child(n+3){border-bottom:0}
@@ -76,9 +81,11 @@
   .atlas-hero aside{border-left:0;border-top:1px solid #31505d;padding:22px 0 0}
 }
 @media(max-width:720px){
-  .state-matrix,.entry-grid{grid-template-columns:1fr}
-  .state-definition{border-right:0!important;border-bottom:1px solid var(--line)!important;min-height:0}
-  .state-definition:last-child{border-bottom:0!important}
+  .entry-grid{grid-template-columns:1fr}
+  .state-definition{min-height:152px;padding:18px}
+  .state-definition span{font-size:20px}
+  .state-definition p{font-size:12px;line-height:1.5}
+  .state-matrix-axis span{font-size:8px;padding:8px 9px;letter-spacing:.08em}
   .entry-top{display:block}
   .state-badge{display:inline-block;margin-top:14px}
   .country-heading{grid-template-columns:1fr auto}
@@ -86,3 +93,29 @@
   .opportunity-entry{padding:20px 18px}
   .map-panel{padding:10px}
 }
+
+@media(max-width:480px){
+  .state-definition{min-height:112px;padding:14px 12px}
+  .state-definition span{font-size:16px;line-height:1.08}
+  .state-row-label{font-size:7px;margin-bottom:7px;letter-spacing:.1em}
+  .state-definition p{display:none}
+  .state-matrix-axis span{font-size:7px;padding:7px 6px;letter-spacing:.04em;line-height:1.25}
+}
+
+html[data-theme="dark"] .state-matrix-axis{background:#111c22;border-color:#304048}
+html[data-theme="dark"] .state-matrix-axis span+span{border-color:#304048}
+html[data-theme="dark"] .state-matrix-axis span,html[data-theme="dark"] .state-row-label{color:#91a4ae}
+html[data-theme="dark"] .state-matrix{background:#0e171d;border-color:#304048}
+html[data-theme="dark"] .state-definition{border-color:#304048}
+html[data-theme="dark"] .state-definition span{color:#e8eef2}
+html[data-theme="dark"] .state-definition p{color:#aebdc5}
+html[data-theme="dark"] .map-section{background:#0c1419}
+html[data-theme="dark"] .atlas-filters button{background:#10191f;color:#d7e1e6;border-color:#304048}
+html[data-theme="dark"] .atlas-filters button.active{background:#e8eef2;color:#0a1015;border-color:#e8eef2}
+html[data-theme="dark"] .atlas-filters button.active span{color:#40515a}
+html[data-theme="dark"] .opportunity-entry{background:#0f171d;border-color:#2d3b42}
+html[data-theme="dark"] .entry-block p,html[data-theme="dark"] .entry-block li{color:#b6c4cb}
+html[data-theme="dark"] .transition-watch{background:#102029;border-color:#294550}
+html[data-theme="dark"] .transition-watch p{color:#b8c7cd}
+html[data-theme="dark"] .source-row{border-color:#2d3b42}
+html[data-theme="dark"] .source-row a{color:#6fdcf7;border-color:#315f6d}
