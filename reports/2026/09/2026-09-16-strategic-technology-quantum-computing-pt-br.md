@@ -65,6 +65,40 @@ O DOE anunciou em junho de 2026 a Quantum Genesis, com objetivo de desenvolver e
 
 A IBM projeta exemplos de vantagem quântica em 2026 e uma máquina tolerante a falhas em 2029, além de sistemas maiores posteriormente. O roadmap é tecnicamente informativo, mas não deve ser convertido em previsão independente da Marginal Thinking. [IBM roadmap](https://www.ibm.com/roadmaps/quantum/)
 
+```chart
+type: bar
+title: Organizações em estágios públicos avançados de validação citados na análise
+unit: organizações
+DARPA QBI Stage B | 11
+Participantes em Stage C de programa relacionado | 2
+```
+
+Os dois participantes em Stage C vêm de um programa de validação relacionado; portanto, as barras não devem ser lidas como um único funil nem como taxa de conversão.
+
+```mindmap
+O que precisa escalar antes da utilidade quântica
+- Computação lógica
+  - menor erro lógico
+  - circuitos longos e confiáveis
+  - decodificação em tempo real
+- Sistema físico
+  - qualidade dos qubits
+  - criogenia e controle
+  - interconexões modulares
+- Industrialização
+  - rendimento de fabricação
+  - carga de calibração
+  - repetibilidade
+- Economia
+  - custo total do sistema
+  - melhor alternativa clássica
+  - workloads pagos recorrentes
+- Instituições
+  - validação independente
+  - padrões
+  - migração pós-quântica
+```
+
 ## 5. As restrições que realmente determinam a transição
 
 ### 5.1 Erros e overhead de correção
@@ -96,6 +130,10 @@ O Estado continua sendo um comprador e financiador importante. O GAO calcula que
 No setor privado, a IBM anunciou em junho de 2026 intenção de investir mais de **US$ 10 bilhões em cinco anos** em computação quântica, incluindo P&D, capital físico, manufatura, ecossistema e aquisições. Esse número deve ser tratado como **compromisso anunciado pela empresa**, não como investimento já realizado. [IBM, 02/06/2026](https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing%2C-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers)
 
 A consequência econômica atual é, portanto, mais clara na **formação de capacidade** do que na venda de computação quântica como substituta de HPC clássico: laboratórios, contratação de especialistas, contratos de nuvem, instalações de teste, fabricação especializada e padrões.
+
+```flow
+Melhoria dos qubits físicos → qubits lógicos estáveis e correção de erros → circuitos longos e confiáveis → vantagem de workload verificada de forma independente → sistema industrial repetível → utilidade econômica acima do custo total quântico mais clássico
+```
 
 ## 7. O impacto já presente: criptografia pós-quântica
 

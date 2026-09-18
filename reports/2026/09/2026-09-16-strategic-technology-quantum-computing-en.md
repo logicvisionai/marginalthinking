@@ -65,6 +65,40 @@ DOE launched Quantum Genesis in June 2026 with a target of developing and deploy
 
 IBM projects examples of quantum advantage in 2026 and a fault-tolerant machine in 2029, followed by larger systems. The roadmap is technically informative but is not converted into a Marginal Thinking forecast. [IBM roadmap](https://www.ibm.com/roadmaps/quantum/)
 
+```chart
+type: bar
+title: Organizations at advanced public validation stages cited in the assessment
+unit: organizations
+DARPA QBI Stage B | 11
+Related-program Stage C performers | 2
+```
+
+The two Stage C performers come from a related validation program, so the bars should not be read as a single funnel or conversion rate.
+
+```mindmap
+What must scale before quantum utility can scale
+- Logical computation
+  - lower logical error
+  - long reliable circuits
+  - real-time decoding
+- Hardware system
+  - qubit quality
+  - cryogenics and control
+  - modular interconnects
+- Industrialisation
+  - manufacturing yield
+  - calibration burden
+  - repeatability
+- Economics
+  - total system cost
+  - classical baseline
+  - recurring paid workloads
+- Institutions
+  - independent validation
+  - standards
+  - post-quantum migration
+```
+
 ## 5. Constraints that determine the transition
 
 ### 5.1 Errors and correction overhead
@@ -96,6 +130,10 @@ Government remains an important funder and buyer. GAO reports that the U.S. fede
 In the private sector, IBM announced in June 2026 an intention to invest more than **$10 billion over five years** across quantum R&D, capital expenditure, manufacturing, ecosystem activity and acquisitions. This is a **company-announced commitment**, not capital already spent. [IBM, June 2, 2026](https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing%2C-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers)
 
 The clearest present economic effect is therefore **capacity formation**, rather than quantum computing displacing classical HPC: laboratories, specialized hiring, cloud contracts, test infrastructure, manufacturing capability and standards.
+
+```flow
+Physical-qubit improvement → stable logical qubits and error correction → long reliable circuits → independently verified workload advantage → repeatable industrial system → economic utility above total quantum-plus-classical cost
+```
 
 ## 7. The present impact: post-quantum cryptography
 
