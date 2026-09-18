@@ -57,6 +57,15 @@ A capacidade saudita de redirecionar exportações importa porque a exposição 
 
 Isso não comprova normalização. A Reuters informou que um petroleiro de bandeira togolesa foi atingido ao tentar atravessar Hormuz, segundo a mídia estatal iraniana, enquanto as estimativas sobre a recuperação do oleoduto continuam variando. A conclusão defensável é mais limitada: a redundância logística está funcionando parcialmente, mas o risco marítimo e de infraestrutura continua alto.
 
+```map
+title: Corredores de exportação do Golfo e exposição atual
+Arábia Saudita — East-West / Yanbu | Saída pelo Mar Vermelho | Há esforços de recuperação parcial após danos à infraestrutura; o prazo permanece incerto
+Omã — Sohar | Arranjo alternativo de carregamento | Transferências entre navios podem movimentar parte dos barris sauditas sem depender do mesmo ponto de carregamento
+Estreito de Hormuz | Exposição marítima | Segurança dos navios, seguros e restrições de trânsito continuam relevantes
+```
+
+O mapa é esquemático: identifica locais comprovados e seu papel analítico, sem representar geometria precisa das rotas nem capacidade de transporte.
+
 ```flow
 Danos à infraestrutura saudita de exportação → uso de oleodutos e pontos alternativos de carregamento → mais petróleo chega aos compradores do que em uma interrupção total da rota → cai o prêmio imediato de escassez → petróleo e expectativas de inflação recuam → pode diminuir a pressão sobre juros longos e ativos de risco
 
