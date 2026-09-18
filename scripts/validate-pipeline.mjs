@@ -51,6 +51,15 @@ for(const file of pendingFiles){
   if(!taxonomy.cadences?.includes(p.cadence))fail.push(`${file}: cadence inválida (${p.cadence||'ausente'})`);
   if(!Array.isArray(p.dimensions)||!p.dimensions.length)fail.push(`${file}: dimensions ausente/vazio`);else for(const d of p.dimensions)if(!taxonomy.dimensions?.[d])fail.push(`${file}: dimension inválida (${d})`);
   if(p.program==='strategic-transitions')for(const d of ['economy','politics','society'])if(!(p.dimensions||[]).includes(d))fail.push(`${file}: Strategic Transitions exige ${d}`);
+  if(p.kind==='weekly-technology-signal'){
+    if(p.program!=='technology-production-society')fail.push(`${file}: weekly-technology-signal exige program technology-production-society`);
+    if(p.format!=='assessment')fail.push(`${file}: weekly-technology-signal exige format assessment`);
+    if(p.cadence!=='weekly')fail.push(`${file}: weekly-technology-signal exige cadence weekly`);
+    for(const d of ['economy','politics','society'])if(!(p.dimensions||[]).includes(d))fail.push(`${file}: weekly-technology-signal exige dimensão ${d}`);
+    const sr=p.signal_rationale;
+    if(!sr||typeof sr!=='object')fail.push(`${file}: weekly-technology-signal exige signal_rationale`);
+    else for(const key of ['delta','evidence','scale_path','transmission','falsifier'])if(!String(sr[key]||'').trim())fail.push(`${file}: signal_rationale.${key} ausente`);
+  }
   if(!Array.isArray(p.related_programs))fail.push(`${file}: related_programs deve ser array`);else for(const rp of p.related_programs)if(!taxonomy.programs?.[rp]||rp===p.program)fail.push(`${file}: related_program inválido (${rp})`);
   if(!Array.isArray(p.topics)||p.topics.length<2)fail.push(`${file}: topics deve ter ao menos dois itens`);else for(const t of p.topics)if(!taxonomy.topics?.[t])fail.push(`${file}: topic inválido (${t})`);
   if(p.phenomena!==undefined){
@@ -101,6 +110,48 @@ for(const file of pendingFiles){
       }
     }catch(e){fail.push(`${approval}: JSON inválido: ${e.message}`);}
   }
+}
+
+// Internal Technology Signal Intelligence ledger. It is operational memory, never public evidence.
+if(!exists('TECHNOLOGY-SIGNALS.md'))fail.push('TECHNOLOGY-SIGNALS.md: ausente');
+if(!exists('data/schemas/technology-signals-v1.json'))fail.push('data/schemas/technology-signals-v1.json: ausente');
+if(!exists('data/technology-signals.json'))fail.push('data/technology-signals.json: ausente');
+else{
+  try{
+    const ledger=json('data/technology-signals.json');
+    const allowedStates=new Set(['watch','strengthening','publishable','promoted','weakening','retired']);
+    const allowedStages=new Set(['claimed','demonstrated','deployed','scaled']);
+    const allowedClasses=new Set([
+      'capability-delta','replication-validation','reliability-yield-throughput',
+      'cost-resource-constraint','prototype-to-deployment','deployment-to-scale',
+      'enabling-infrastructure','manufacturing-supply-chain',
+      'procurement-standards-regulation','economic-social-transmission','contrary-evidence'
+    ]);
+    if(ledger.schema_version!==1)fail.push('data/technology-signals.json: schema_version deve ser 1');
+    if(!(ledger.updated_at===null||typeof ledger.updated_at==='string'))fail.push('data/technology-signals.json: updated_at deve ser string ou null');
+    if(!Array.isArray(ledger.signals))fail.push('data/technology-signals.json: signals deve ser array');
+    else{
+      if(ledger.signals.length>40)fail.push('data/technology-signals.json: ledger excede 40 sinais; faça pruning/merge');
+      const slugs=new Set();
+      let activeSignals=0;
+      for(const [i,s] of ledger.signals.entries()){
+        const label=`data/technology-signals.json: signals[${i}]`;
+        if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s?.slug||''))fail.push(`${label}.slug inválido`);
+        else if(slugs.has(s.slug))fail.push(`${label}.slug duplicado (${s.slug})`); else slugs.add(s.slug);
+        if(!allowedStates.has(s?.state))fail.push(`${label}.state inválido`);
+        if(!['retired'].includes(s?.state))activeSignals++;
+        if(!allowedStages.has(s?.evidence_stage))fail.push(`${label}.evidence_stage inválido`);
+        if(!String(s?.what_changed||'').trim())fail.push(`${label}.what_changed ausente`);
+        if(!Array.isArray(s?.signal_classes))fail.push(`${label}.signal_classes deve ser array`);
+        else for(const k of s.signal_classes)if(!allowedClasses.has(k))fail.push(`${label}: signal_class inválido (${k})`);
+        for(const key of ['constraints','transmission','contrary_evidence','falsifiers','related_research_ids','evidence_refs'])if(!Array.isArray(s?.[key]))fail.push(`${label}.${key} deve ser array`);
+        const e=s?.entities;
+        if(!e||typeof e!=='object')fail.push(`${label}.entities ausente`);
+        else for(const key of ['researchers','universities_labs','institutions','companies'])if(!Array.isArray(e[key]))fail.push(`${label}.entities.${key} deve ser array`);
+      }
+      if(activeSignals>24)warn.push(`data/technology-signals.json: ${activeSignals} sinais ativos; TECHNOLOGY-SIGNALS.md recomenda ledger enxuto (~20)`);
+    }
+  }catch(e){fail.push(`data/technology-signals.json: JSON inválido (${e.message})`);}
 }
 
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
