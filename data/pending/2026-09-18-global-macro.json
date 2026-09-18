@@ -8,6 +8,14 @@
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "a691e6f21501e9f9ba676c9ec1e0ba0a552467fb",
+  "qa_fixes_applied": [
+    "Removed political-stability from phenomena because the report does not materially establish a political-stability mechanism.",
+    "Added semantically equivalent deterministic Gulf corridor maps to EN and PT-BR covering East-West/Yanbu, Sohar/Oman and Hormuz without asserting precise route geometry or unsupported capacity.",
+    "Rechecked visual parity and retained uncertainty around Saudi pipeline restoration timing."
+  ],
   "sources": {
     "en": {
       "markdown": "staging/research/2026/09/2026-09-18-global-macro/en.md",
@@ -38,7 +46,7 @@
   "dimensions": ["economy", "politics"],
   "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
   "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "sovereign-debt", "energy", "commodities-resources", "geopolitics-security"],
-  "phenomena": ["war-armed-conflict", "defense-security", "political-stability"],
+  "phenomena": ["war-armed-conflict", "defense-security"],
   "format": "brief",
   "cadence": "daily"
 }
