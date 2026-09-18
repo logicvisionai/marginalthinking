@@ -1,6 +1,6 @@
 # A infraestrutura cislunar está passando de suporte a missões para uma arquitetura de serviços
 
-**Programa:** Technology, Production & Society  
+**Programa:** Tecnologia, Produção & Sociedade  
 **Código:** MT-TS-2026-09-18-cislunar-service-infrastructure  
 **Edição:** 18 de setembro de 2026  
 **Corte de informação:** 18 de setembro de 2026
