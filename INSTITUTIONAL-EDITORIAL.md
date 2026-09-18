@@ -114,6 +114,16 @@ The internal formulation is `relevance × change × underattention × transmissi
 
 A country can be high-, middle- or low-income. The object of research is the transition and its mechanisms across economics, politics and society.
 
+## Technology, Production & Society
+
+Institutional copy about technology must not imply that Marginal Thinking is a general technology-news publication or that it maintains a fixed list of favored technologies.
+
+Describe the program through evidence transitions: demonstrated capability, replication, engineering feasibility, deployment, manufacturing, cost and scale. The weekly workflow governed by `TECHNOLOGY-SIGNALS.md` screens broadly for material changes in those states and may publish nothing when no candidate passes the evidence-and-transmission gate.
+
+When researchers, laboratories, universities, agencies or firms are followed, their relevance comes from direct contribution to the evidence, replication, infrastructure, procurement, standards, manufacturing or deployment — not prestige alone.
+
+Public copy should avoid deterministic claims that a technology will transform society. State which capability changed, which constraints remain and through which economic, institutional or social mechanism broader consequences could occur.
+
 ## English
 
 Write in native research English. Prefer ordinary institutional prose to consulting language. A sentence should remain informative after removing words such as `strategic`, `systemic`, `structural`, `framework`, `capacity`, `signal` and `power`; if not, it likely needs a more concrete subject and mechanism.
