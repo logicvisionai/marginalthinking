@@ -95,7 +95,7 @@
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-18-technology-signal-agentic-operating-layer/pt-BR.md",
       "title": "Agentes de IA estão virando uma camada operacional do trabalho do conhecimento, mas governança passa a ser a restrição central",
-      "deck": "Uso empresarial, benchmarks de privacidade e pesquisas sobre autonomia seletiva apontam para a mesma transição: a restrição está migrando da capacidade do modelo para controle de contexto, avaliação contínua, permissões e escalonamento humano confiável.",
+      "deck": "Uso empresarial, avaliações de privacidade e pesquisas sobre autonomia seletiva apontam para a mesma transição: a restrição está migrando da capacidade do modelo para controle de contexto, avaliação contínua, permissões e escalonamento humano confiável.",
       "tags": [
         "Agentes de IA",
         "IA empresarial",
@@ -105,18 +105,18 @@
         "avaliação"
       ],
       "keywords": [
-        "IA agentic",
+        "IA baseada em agentes",
         "agentes empresariais",
         "CI-Work",
         "CORPGEN",
         "TEVV",
-        "agente clínico on-premise",
+        "agente clínico local",
         "integridade de contexto",
         "avaliação contínua",
         "autonomia seletiva",
         "trabalho do conhecimento"
       ],
-      "regime": "IA agentic está entrando em workflows reais mais rápido do que instituições padronizam confiabilidade, governança de contexto e controles de ação.",
+      "regime": "IA baseada em agentes está entrando em fluxos de trabalho reais mais rápido do que instituições padronizam confiabilidade, governança de contexto e controles de ação.",
       "key_risk": "Organizações podem escalar execução delegada mais rápido do que conseguem medir vazamento de contexto, falhas multitarefa, ações inseguras e custo de supervisão humana.",
       "watch": [
         "estudos independentes de produtividade de workflows",
@@ -126,7 +126,15 @@
         "adoção de avaliação contínua",
         "infraestrutura de identidade e permissões de agentes"
       ],
-      "search_text": "agentes de IA workflows empresariais trabalho do conhecimento integridade contextual CI-Work CORPGEN Nature Medicine agente clínico on-premise autonomia seletiva NIST TEVV avaliação contínua governança"
+      "search_text": "agentes de IA fluxos de trabalho empresariais trabalho do conhecimento integridade contextual CI-Work CORPGEN Nature Medicine agente clínico local autonomia seletiva NIST TEVV avaliação contínua governança"
     }
-  }
+  },
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "79c9b418a6a97826386b2a561dac4ea296628f1d",
+  "qa_fixes_applied": [
+    "Performed a complete Brazilian Portuguese localization pass, replacing unnecessary raw-English editorial vocabulary while preserving technical meaning.",
+    "Localized PT-BR visual labels and publication metadata without changing verified quantitative claims, periods, caveats, maturity distinctions or falsifiers.",
+    "Preserved literal proper names, report titles and identifiers where translation would be misleading."
+  ]
 }
