@@ -1,0 +1,73 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-18",
+  "slug": "2026-09-18-global-macro",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-18T04:43:44-03:00",
+  "reviewed_commit": "a691e6f21501e9f9ba676c9ec1e0ba0a552467fb",
+  "pending_blob_sha": "38c13cab1c54923432ad7f5b4b7273acdec411f6",
+  "source_blob_shas": {
+    "en": "973cdde370f8d722f8c7809b0eccae8c5c057132",
+    "pt-BR": "b0b579f832294d46b5a2a0f0065c3db2d94c5700"
+  },
+  "confidence": "medium",
+  "blocking_issues": [
+    {
+      "type": "taxonomy",
+      "field": "phenomena",
+      "issue": "political-stability is declared but the report does not materially analyze political stability through observable stability indicators and a transmission mechanism. Brazil's election/fiscal sensitivity and references to European public pressure do not by themselves establish political-stability as a material phenomenon.",
+      "evidence": "The staged report materially analyzes war/armed conflict and security through Gulf shipping and infrastructure, but does not develop institutional continuity, coalition durability, protest persistence, administrative capacity or another political-stability mechanism required by CONFLICT-SECURITY-SOCIAL-CHANGE.md.",
+      "required_fix": "Remove political-stability from phenomena unless the producer adds a materially supported political-stability mechanism with observable evidence. Do not replace it with another phenomenon by inference. Preserve war-armed-conflict and defense-security only if they remain material in the revised text."
+    },
+    {
+      "type": "visual_evidence",
+      "field": "Gulf logistics section",
+      "issue": "The report meets the numerical visual floor for a brief (table + explicit chart + structural visuals), but the central Gulf argument is explicitly geographic: East-West pipeline damage/restoration, Yanbu, Sohar ship-to-ship loading and Hormuz maritime exposure. The current flow diagram explains causality but not the spatial redundancy/corridor structure. Under RESEARCH-VISUALS.md, a map is required by editorial judgment when corridor exposure is central and clearer than prose.",
+      "evidence": "The report itself states that Gulf exposure is a network of pipelines, terminals, ports and maritime routes rather than a single Hormuz variable. Without a map, the reader cannot audit which alternative route bypasses which exposed corridor or distinguish Red Sea, Oman and Hormuz exposure at first read.",
+      "required_fix": "Add semantically equivalent EN/PT-BR deterministic map blocks showing only evidenced locations/corridors and their analytical role (for example East-West/Yanbu, Sohar/Oman loading, Hormuz exposure). Do not imply precise route geometry or capacity beyond sourced evidence. Recheck visual parity and mechanism integrity after the change."
+    }
+  ],
+  "required_fixes": [
+    "Correct the controlled phenomena classification so every retained phenomenon is materially defended in the text.",
+    "Add an evidence-faithful Gulf corridor map in both language editions and preserve EN/PT-BR semantic parity.",
+    "After any Markdown or pending change, resubmit with new Git blob SHAs; the present rejection is bound only to the reviewed blobs."
+  ],
+  "taxonomy_issues": [
+    "political-stability is currently overclassified relative to the report's actual analytical content."
+  ],
+  "fact_check_notes": [
+    "Federal Reserve September 16 statement confirms a unanimous 25 bp increase to 3.75%-4.00%.",
+    "Reuters September 18 confirms BOJ 7-2 hike to 1.25% and yen weakening near 157.1 per dollar.",
+    "Reuters September 18 confirms Brent $102.53 and WTI $100.04 in early trade and reports market relief from expected partial East-West restoration and ship-to-ship alternatives.",
+    "A separate Reuters September 17 report says three East-West pumping stations were damaged and cites repair estimates of five to six weeks, while allowing that partial resumption could occur sooner. The staged report appropriately notes that restoration estimates vary; any revised wording must preserve that uncertainty rather than present the optimistic timeline as established operational fact.",
+    "Reuters September 17 confirms the BOE held at 3.75% by 6-3, with three votes for a 25 bp hike.",
+    "Reuters September 17 confirms the broad U.S. equity rebound; the report identifies market observation periods rather than treating all values as simultaneous closes."
+  ],
+  "editorial_publication_readiness": {
+    "result": "passed_except_blockers",
+    "opening": "Direct thesis-led opening; no generic executive-assessment template.",
+    "headings": "Generally analytical and informative rather than category placeholders.",
+    "language_localization": "EN is idiomatic and PT-BR is substantially natural and semantically aligned in the reviewed material.",
+    "repetition": "No blocking repetition or recurring QA/process scars identified.",
+    "cohesion": "Progression from regime change to market mechanisms, geographic/energy risks, country expressions and conditional paths is coherent.",
+    "template_meta_qa": "No blocking prompt/template exposure identified."
+  },
+  "visual_evidence_readiness": {
+    "result": "failed",
+    "signature": {
+      "table": 1,
+      "explicit_chart": 1,
+      "flow": 1,
+      "mindmap": 1,
+      "map": 0,
+      "total": 4
+    },
+    "budget": "Numerical brief floor is met, but corridor geography is central and the missing map is materially limiting under the editorial-judgment clause.",
+    "parity": "Existing table/chart/flow/mindmap are semantically parallel across EN/PT-BR; revised map must also be parallel.",
+    "limitations": [
+      "The market-move chart combines same-unit percentage changes across different assets and observation windows; surrounding labels disclose dates/periods, so this is not independently blocking.",
+      "Any corridor map must avoid fabricated route precision and unsupported capacity values."
+    ]
+  },
+  "notes": "Rejected before public materialization. No approval created and publisher must not be triggered for this state."
+}
