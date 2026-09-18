@@ -1,0 +1,45 @@
+{
+  "id": "MT-WF-2026-09-18",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T10:35:00-03:00",
+  "kind": "weekly-wealth-flow",
+  "priority": 20,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": ["political-economy-markets"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
+  "topics": ["capital-markets","trade-investment","energy","commodities-resources","industry-production","technology-innovation","infrastructure-logistics","currencies","sovereign-debt","banking-credit"],
+  "phenomena": ["war-armed-conflict"],
+  "format": "monitor",
+  "cadence": "weekly",
+  "source_locale": "en",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-18T10:28:28-03:00",
+  "qa_confidence": "medium-high",
+  "qa_reviewed_commit": "fe978903239e6bb907bb3bf22f6041676b522fce",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth Flow Monitor — 18 September 2026",
+      "deck": "Foreign demand for U.S. liquidity persisted as long-term flows weakened, gold fund holdings reached a record, and higher policy rates raised the financing hurdle for the capital-intensive AI and infrastructure cycle.",
+      "tags": ["global capital flows","TIC","gold","FDI","AI infrastructure","energy","interest rates"],
+      "keywords": ["global wealth flows","Treasury International Capital","gold ETF flows","foreign direct investment","data centres","semiconductors","electricity","Federal Reserve","ECB","Hormuz"],
+      "regime": "Liquid dollar demand persists while higher rates increase selectivity across capital-intensive strategic investment.",
+      "key_risk": "A prolonged energy shock combined with higher policy rates could turn physical infrastructure constraints into financing stress and project cancellations.",
+      "watch": ["August TIC","2026Q2 COFER","BIS Q2 banking data","September gold ETF flows","strategic greenfield cancellations and final investment decisions","data-centre commissioning and grid constraints"],
+      "search_text": "global wealth capital flows TIC July 2026 Treasury bills bank liabilities gold ETF August FDI AI data centres semiconductors electricity Fed ECB energy Hormuz"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Wealth Flow Monitor — 18 de setembro de 2026",
+      "deck": "A demanda estrangeira por liquidez nos EUA persistiu enquanto os fluxos de longo prazo enfraqueceram, as posições em fundos de ouro atingiram recorde e juros maiores elevaram a exigência de retorno do ciclo intensivo em capital de IA e infraestrutura.",
+      "tags": ["fluxos globais de capital","TIC","ouro","IED","infraestrutura de IA","energia","juros"],
+      "keywords": ["fluxos globais de riqueza","Treasury International Capital","fluxos de ETF de ouro","investimento estrangeiro direto","data centers","semicondutores","eletricidade","Federal Reserve","BCE","Hormuz"],
+      "regime": "A demanda por ativos líquidos em dólar persiste enquanto juros maiores aumentam a seletividade no investimento estratégico intensivo em capital.",
+      "key_risk": "Uma interrupção prolongada de energia combinada a juros maiores pode transformar restrições físicas de infraestrutura em estresse de financiamento e cancelamento de projetos.",
+      "watch": ["TIC de agosto","COFER do segundo trimestre de 2026","dados bancários do BIS para o segundo trimestre","fluxos de ETFs de ouro em setembro","cancelamentos e decisões finais de novos projetos estratégicos","entrada de data centers em operação e restrições de rede"],
+      "search_text": "fluxos globais de riqueza capital TIC julho 2026 Treasury bills passivos bancários ETF ouro agosto IED IA data centers semicondutores eletricidade Fed BCE energia Hormuz"
+    }
+  }
+}
