@@ -23,6 +23,8 @@ done
 node scripts/fix-client-locale.mjs
 
 node scripts/render-site.mjs
+# Render the Structural Opportunity Atlas from a compact, evidence-linked canonical dataset.
+node scripts/render-structural-opportunities.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs

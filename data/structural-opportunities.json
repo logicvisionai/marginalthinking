@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "name": "Structural Opportunity Atlas",
+  "updated_at": "2026-09-18",
+  "status": "public-first-wave",
+  "disclaimer": {
+    "en": "Analytical mapping of structural conditions. It is not an investment recommendation, country ranking or forecast of returns.",
+    "pt-BR": "Mapeamento analítico de condições estruturais. Não é recomendação de investimento, ranking de países nem previsão de retorno."
+  },
+  "states": {
+    "blocking_inefficiency": {
+      "en": "Blocking inefficiency",
+      "pt-BR": "Ineficiência impeditiva"
+    },
+    "exploitable_inefficiency": {
+      "en": "Exploitable inefficiency",
+      "pt-BR": "Ineficiência explorável"
+    },
+    "blocking_efficiency": {
+      "en": "Blocking efficiency",
+      "pt-BR": "Eficiência impeditiva"
+    },
+    "leverageable_efficiency": {
+      "en": "Leverageable efficiency",
+      "pt-BR": "Eficiência aproveitável"
+    }
+  },
+  "entries": [
+    {
+      "id": "BRA-GRID-001",
+      "country": {
+        "code": "BRA",
+        "name": {
+          "en": "Brazil",
+          "pt-BR": "Brasil"
+        },
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Americas"
+      },
+      "state": "exploitable_inefficiency",
+      "feature": {
+        "en": "Northeast renewable evacuation and system-flexibility gap",
+        "pt-BR": "Lacuna de escoamento e flexibilidade para renováveis no Nordeste"
+      },
+      "perspective": {
+        "en": "Transmission, storage, grid-equipment and flexible-load developers operating within the applicable regulatory frameworks.",
+        "pt-BR": "Desenvolvedores de transmissão, armazenamento, equipamentos de rede e cargas flexíveis dentro dos marcos regulatórios aplicáveis."
+      },
+      "mechanism": {
+        "en": "Renewable generation is expanding faster than the system can always transfer or absorb it. ONS projects severe daytime curtailment in critical 2026–2029 scenarios and identifies voltage-stability restrictions between Ceará and Rio Grande do Norte until structural works enter service.",
+        "pt-BR": "A geração renovável cresce mais rápido do que a capacidade do sistema de sempre escoá-la ou absorvê-la. O ONS projeta cortes diurnos severos em cenários críticos de 2026–2029 e identifica restrições de estabilidade de tensão entre Ceará e Rio Grande do Norte até a entrada de obras estruturantes."
+      },
+      "implication": {
+        "en": "The gap creates demand for transmission reinforcement, synchronous compensation, storage, demand flexibility and large loads able to use otherwise constrained energy. These are solution spaces, not guaranteed commercial returns.",
+        "pt-BR": "A lacuna cria demanda por reforços de transmissão, compensação síncrona, armazenamento, flexibilidade da demanda e grandes cargas capazes de utilizar energia que de outra forma seria restringida. São espaços de solução, não retornos comerciais garantidos."
+      },
+      "constraints": {
+        "en": "Grid works have long lead times; curtailment also reflects system-wide energy oversupply, so transmission alone cannot eliminate it. Regulation, connection rights and project economics remain decisive.",
+        "pt-BR": "Obras de rede têm prazos longos; o curtailment também reflete sobreoferta energética sistêmica, de modo que transmissão sozinha não o elimina. Regulação, direitos de conexão e economia dos projetos continuam decisivos."
+      },
+      "catalysts": [
+        {
+          "en": "2026 transmission auction contracted nine lots, 859 km of lines and 4,350 MVA of substation transformation capacity.",
+          "pt-BR": "O leilão de transmissão de 2026 contratou nove lotes, 859 km de linhas e 4.350 MVA de capacidade de transformação em subestações."
+        },
+        {
+          "en": "ONS bridge measures and structural Northeast works provide an observable implementation path through 2029.",
+          "pt-BR": "Medidas-ponte do ONS e obras estruturantes do Nordeste oferecem um caminho observável de implementação até 2029."
+        }
+      ],
+      "transition": {
+        "to_state": "leverageable_efficiency",
+        "status": "candidate",
+        "en": "Watch whether new transmission, compensation, storage and flexible demand materially reduce curtailment and connection constraints.",
+        "pt-BR": "Observar se nova transmissão, compensação, armazenamento e demanda flexível reduzem materialmente o curtailment e as restrições de conexão."
+      },
+      "sectors": [
+        "electricity",
+        "transmission",
+        "storage",
+        "data-centers",
+        "industrial-loads"
+      ],
+      "horizon": "1-5y",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "ONS — PAR/PEL 2025",
+          "url": "https://www.ons.org.br/Paginas/energia-no-futuro/suprimento-eletrico/parpel2025/sumario-executivo/index.aspx",
+          "date": "2025-12"
+        },
+        {
+          "name": "EPE — Leilão de Transmissão nº 01/2026",
+          "url": "https://www.epe.gov.br/pt/leiloes-de-energia/leiloes-de-transmissao/leilao-de-transmissao-n-01-2026",
+          "date": "2026-07-03"
+        }
+      ]
+    },
+    {
+      "id": "BRA-PIX-001",
+      "country": {
+        "code": "BRA",
+        "name": {
+          "en": "Brazil",
+          "pt-BR": "Brasil"
+        },
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Americas"
+      },
+      "state": "leverageable_efficiency",
+      "feature": {
+        "en": "Pix as a high-adoption instant-payment rail",
+        "pt-BR": "Pix como infraestrutura de pagamentos instantâneos de alta adoção"
+      },
+      "perspective": {
+        "en": "Merchants, software platforms and financial products that can build on an already adopted payment rail rather than recreate settlement infrastructure.",
+        "pt-BR": "Comerciantes, plataformas de software e produtos financeiros que podem construir sobre uma infraestrutura de pagamentos já adotada em vez de recriar a liquidação."
+      },
+      "mechanism": {
+        "en": "Banco Central reports more than 170 million individual users, more than 7 billion transactions and more than R$3 trillion in volume in May 2026. The installed rail reduces the distribution and integration burden for products that can use Pix.",
+        "pt-BR": "O Banco Central informa mais de 170 milhões de pessoas físicas usuárias, mais de 7 bilhões de transações e mais de R$ 3 trilhões em volume em maio de 2026. A infraestrutura instalada reduz o esforço de distribuição e integração para produtos que conseguem usar o Pix."
+      },
+      "implication": {
+        "en": "A mature payment rail can be treated as reusable economic infrastructure for commerce, billing, software and financial workflows.",
+        "pt-BR": "Uma infraestrutura madura de pagamentos pode ser tratada como infraestrutura econômica reutilizável para comércio, cobrança, software e fluxos financeiros."
+      },
+      "constraints": {
+        "en": "Adoption does not remove fraud, compliance, unit-economics, customer-acquisition or product-differentiation constraints.",
+        "pt-BR": "A adoção não elimina restrições de fraude, compliance, economia unitária, aquisição de clientes ou diferenciação de produto."
+      },
+      "catalysts": [],
+      "transition": null,
+      "sectors": [
+        "payments",
+        "commerce",
+        "software",
+        "financial-services"
+      ],
+      "horizon": "current",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "Banco Central do Brasil — Pix em números",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+          "date": "2026-07"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-FREIGHT-001",
+      "country": {
+        "code": "ZAF",
+        "name": {
+          "en": "South Africa",
+          "pt-BR": "África do Sul"
+        },
+        "lat": -30.6,
+        "lon": 22.9,
+        "region": "Africa"
+      },
+      "state": "blocking_inefficiency",
+      "feature": {
+        "en": "Freight rail and port logistics bottleneck",
+        "pt-BR": "Gargalo de logística ferroviária e portuária de cargas"
+      },
+      "perspective": {
+        "en": "Exporters and producers dependent on reliable bulk and container logistics.",
+        "pt-BR": "Exportadores e produtores dependentes de logística confiável para granéis e contêineres."
+      },
+      "mechanism": {
+        "en": "Government estimates logistics inefficiencies cost the economy close to R1 billion per day and reports that roughly 69% of freight moves by road. Rail moved 160 million tonnes in the last financial year, below the 250 million-tonne 2029 target.",
+        "pt-BR": "O governo estima que as ineficiências logísticas custam à economia perto de R 1 bilhão por dia e informa que cerca de 69% da carga se desloca por rodovias. A ferrovia movimentou 160 milhões de toneladas no último exercício, abaixo da meta de 250 milhões em 2029."
+      },
+      "implication": {
+        "en": "For many producers the condition remains a direct cost and capacity constraint rather than an immediately capturable opportunity.",
+        "pt-BR": "Para muitos produtores, a condição continua sendo um custo direto e uma restrição de capacidade, e não uma oportunidade imediatamente capturável."
+      },
+      "constraints": {
+        "en": "Open access does not by itself repair infrastructure, eliminate maintenance backlogs or guarantee service reliability.",
+        "pt-BR": "A abertura da rede não repara por si só a infraestrutura, elimina passivos de manutenção ou garante confiabilidade do serviço."
+      },
+      "catalysts": [
+        {
+          "en": "Eleven private train operating companies received access, with operations expected from 1 April 2027 and plans for up to 24 million tonnes per year.",
+          "pt-BR": "Onze operadoras ferroviárias privadas receberam acesso, com operações previstas a partir de 1º de abril de 2027 e planos de até 24 milhões de toneladas por ano."
+        }
+      ],
+      "transition": {
+        "to_state": "exploitable_inefficiency",
+        "status": "watch",
+        "en": "A transition becomes credible if open access turns into reliable additional capacity and private investment reaches the constrained corridors.",
+        "pt-BR": "A transição se torna crível se o acesso aberto se converter em capacidade adicional confiável e o investimento privado alcançar os corredores restritos."
+      },
+      "sectors": [
+        "rail",
+        "ports",
+        "mining",
+        "agriculture",
+        "automotive",
+        "exports"
+      ],
+      "horizon": "1-4y",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "South African Government — National Transport Conference",
+          "url": "https://www.gov.za/news/speeches/president-cyril-ramaphosa-inaugural-national-transport-conference-16-mar-2026",
+          "date": "2026-03-16"
+        },
+        {
+          "name": "South African Government — Africa Rail Convention",
+          "url": "https://www.gov.za/news/speeches/minister-barbara-creecy-africa-rail-convention-08-jul-2026",
+          "date": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-GRID-001",
+      "country": {
+        "code": "ZAF",
+        "name": {
+          "en": "South Africa",
+          "pt-BR": "África do Sul"
+        },
+        "lat": -30.6,
+        "lon": 22.9,
+        "region": "Africa"
+      },
+      "state": "exploitable_inefficiency",
+      "feature": {
+        "en": "Transmission expansion gap",
+        "pt-BR": "Lacuna de expansão da transmissão"
+      },
+      "perspective": {
+        "en": "Transmission-project developers, equipment suppliers and long-duration infrastructure capital able to participate in the emerging ITP framework.",
+        "pt-BR": "Desenvolvedores de projetos de transmissão, fornecedores de equipamentos e capital de infraestrutura de longo prazo aptos a participar do novo marco de ITPs."
+      },
+      "mechanism": {
+        "en": "South Africa's transmission plan requires more than 14,000 km of new lines over the next decade to accommodate about 53 GW of additional generation, while National Treasury states that the current expansion pace is inadequate.",
+        "pt-BR": "O plano de transmissão da África do Sul exige mais de 14 mil km de novas linhas na próxima década para acomodar cerca de 53 GW de geração adicional, enquanto o Tesouro Nacional afirma que o ritmo atual de expansão é inadequado."
+      },
+      "implication": {
+        "en": "A clearly measured capacity deficit plus a formal route for private participation turns part of the grid constraint into an accessible infrastructure problem.",
+        "pt-BR": "Um déficit de capacidade claramente mensurado, combinado com uma rota formal de participação privada, transforma parte da restrição de rede em um problema de infraestrutura acessível."
+      },
+      "constraints": {
+        "en": "Execution depends on procurement, financing, permitting, construction capacity, credit support and the operational independence of the transmission system.",
+        "pt-BR": "A execução depende de contratação, financiamento, licenciamento, capacidade de construção, suporte de crédito e independência operacional do sistema de transmissão."
+      },
+      "catalysts": [
+        {
+          "en": "Independent Transmission Projects allow private participation in financing, construction and operation of new transmission infrastructure.",
+          "pt-BR": "Independent Transmission Projects permitem participação privada no financiamento, construção e operação de nova infraestrutura de transmissão."
+        }
+      ],
+      "transition": {
+        "to_state": "leverageable_efficiency",
+        "status": "candidate",
+        "en": "Watch kilometres commissioned, connection capacity unlocked and whether project awards convert into operating assets.",
+        "pt-BR": "Observar quilômetros comissionados, capacidade de conexão liberada e se os projetos adjudicados se convertem em ativos operacionais."
+      },
+      "sectors": [
+        "electricity",
+        "transmission",
+        "renewables",
+        "grid-equipment",
+        "infrastructure-finance"
+      ],
+      "horizon": "3-10y",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "South African National Treasury — Independent Transmission Programme",
+          "url": "https://www.gov.za/news/media-statements/national-treasury-independent-transmission-programme-06-jun-2025",
+          "date": "2025-06-06"
+        },
+        {
+          "name": "South African Government — SONA debate reply",
+          "url": "https://www.gov.za/news/speeches/president-cyril-ramaphosa%C2%A0reply-debate-2026-state-nation-address-19-feb-2026",
+          "date": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "id": "IND-UPI-LEVERAGE-001",
+      "country": {
+        "code": "IND",
+        "name": {
+          "en": "India",
+          "pt-BR": "Índia"
+        },
+        "lat": 22.6,
+        "lon": 79,
+        "region": "Asia-Pacific"
+      },
+      "state": "leverageable_efficiency",
+      "feature": {
+        "en": "UPI as mass-scale payment infrastructure",
+        "pt-BR": "UPI como infraestrutura de pagamentos em escala de massa"
+      },
+      "perspective": {
+        "en": "Merchants, commerce platforms and software products that benefit from ubiquitous interoperable payment acceptance.",
+        "pt-BR": "Comerciantes, plataformas de comércio e produtos de software que se beneficiam de aceitação de pagamentos interoperável e disseminada."
+      },
+      "mechanism": {
+        "en": "NPCI recorded 24.509 billion UPI transactions in August 2026 across 752 live banks. The network's scale makes payment acceptance an existing capability that downstream products can reuse.",
+        "pt-BR": "A NPCI registrou 24,509 bilhões de transações UPI em agosto de 2026 entre 752 bancos ativos. A escala da rede torna a aceitação de pagamentos uma capacidade existente que produtos a jusante podem reutilizar."
+      },
+      "implication": {
+        "en": "The economic value lies in building on the rail — commerce, software, reconciliation and financial workflows — rather than reproducing a parallel acceptance network.",
+        "pt-BR": "O valor econômico está em construir sobre a infraestrutura — comércio, software, conciliação e fluxos financeiros — em vez de reproduzir uma rede paralela de aceitação."
+      },
+      "constraints": {
+        "en": "Scale does not guarantee profitability for intermediaries; regulation and pricing rules determine which participants can monetize the rail directly.",
+        "pt-BR": "Escala não garante rentabilidade para intermediários; regulação e regras de preço determinam quais participantes conseguem monetizar diretamente a infraestrutura."
+      },
+      "catalysts": [
+        {
+          "en": "The September 2026 framework keeps P2P free and leaves roughly 96% of P2M transactions unaffected while changing economics for specified larger merchant payments.",
+          "pt-BR": "O marco de setembro de 2026 mantém P2P gratuito e deixa cerca de 96% das transações P2M sem alteração, ao mesmo tempo em que muda a economia de pagamentos comerciais específicos de maior valor."
+        }
+      ],
+      "transition": null,
+      "sectors": [
+        "payments",
+        "commerce",
+        "software",
+        "banking"
+      ],
+      "horizon": "current",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "NPCI — UPI Product Statistics",
+          "url": "https://www.npci.org.in/product/upi/product-statistics",
+          "date": "2026-08"
+        },
+        {
+          "name": "Press Information Bureau — UPI framework",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2310586&lang=2&reg=48",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "IND-UPI-BARRIER-001",
+      "country": {
+        "code": "IND",
+        "name": {
+          "en": "India",
+          "pt-BR": "Índia"
+        },
+        "lat": 22.6,
+        "lon": 79,
+        "region": "Asia-Pacific"
+      },
+      "state": "blocking_efficiency",
+      "feature": {
+        "en": "UPI's low-cost rail compresses the direct payment-fee pool",
+        "pt-BR": "A infraestrutura de baixo custo do UPI comprime o espaço de receita direta por pagamento"
+      },
+      "perspective": {
+        "en": "Payment applications or intermediaries whose standalone business model depends primarily on merchant transaction fees.",
+        "pt-BR": "Aplicativos ou intermediários de pagamento cujo modelo isolado depende principalmente de tarifas sobre transações comerciais."
+      },
+      "mechanism": {
+        "en": "From January 2020 the MDR on UPI P2M transactions was set to zero. That made the rail highly efficient for users and merchants while limiting a direct transaction-fee revenue model for payment providers.",
+        "pt-BR": "Desde janeiro de 2020, o MDR sobre transações UPI P2M foi zerado. Isso tornou a infraestrutura muito eficiente para usuários e comerciantes, mas limitou um modelo de receita direta por tarifa de transação para provedores de pagamento."
+      },
+      "implication": {
+        "en": "An efficiency that benefits the ecosystem can simultaneously remove an arbitrage or margin pool for a specific entrant. The September 2026 rule change weakens, but does not eliminate, this barrier.",
+        "pt-BR": "Uma eficiência que beneficia o ecossistema pode simultaneamente remover uma arbitragem ou margem para um entrante específico. A mudança regulatória de setembro de 2026 enfraquece, mas não elimina, essa barreira."
+      },
+      "constraints": {
+        "en": "The new framework applies MDR only to specified merchant transactions above ₹2,000; P2P remains free and the government says about 96% of P2M transactions remain unaffected. The barrier therefore changes unevenly across segments.",
+        "pt-BR": "O novo marco aplica MDR apenas a transações comerciais específicas acima de ₹ 2.000; P2P continua gratuito e o governo afirma que cerca de 96% das transações P2M permanecem sem alteração. A barreira, portanto, muda de forma desigual entre segmentos."
+      },
+      "catalysts": [
+        {
+          "en": "New UPI framework announced 15 September 2026 introduces MDR for specified merchant transactions above ₹2,000.",
+          "pt-BR": "O novo marco do UPI anunciado em 15 de setembro de 2026 introduz MDR para transações comerciais específicas acima de ₹ 2.000."
+        }
+      ],
+      "transition": {
+        "to_state": null,
+        "status": "weakening",
+        "en": "The blocking effect is weakening for eligible larger merchant transactions; monitor the effective fee structure, merchant segmentation and revenue distribution among ecosystem participants.",
+        "pt-BR": "O efeito impeditivo está enfraquecendo para transações comerciais maiores elegíveis; acompanhar a estrutura efetiva de tarifas, segmentação de comerciantes e distribuição da receita entre participantes do ecossistema."
+      },
+      "sectors": [
+        "payments",
+        "fintech",
+        "banking"
+      ],
+      "horizon": "0-2y",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "Press Information Bureau — zero-MDR background",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2122747&lang=1&reg=1",
+          "date": "2025-04-18"
+        },
+        {
+          "name": "Press Information Bureau — UPI framework",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2310586&lang=2&reg=48",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "id": "CHL-GRID-001",
+      "country": {
+        "code": "CHL",
+        "name": {
+          "en": "Chile",
+          "pt-BR": "Chile"
+        },
+        "lat": -33.4,
+        "lon": -70.7,
+        "region": "Americas"
+      },
+      "state": "exploitable_inefficiency",
+      "feature": {
+        "en": "Renewable curtailment created by transmission and flexibility lag",
+        "pt-BR": "Vertimento renovável criado pelo atraso de transmissão e flexibilidade"
+      },
+      "perspective": {
+        "en": "Storage, transmission, grid-services and flexible-demand developers capable of addressing temporal or geographic mismatches in the power system.",
+        "pt-BR": "Desenvolvedores de armazenamento, transmissão, serviços de rede e demanda flexível capazes de enfrentar desencontros temporais ou geográficos no sistema elétrico."
+      },
+      "mechanism": {
+        "en": "Chile's Ministry of Energy reports renewable curtailment above 5,000 GWh annually in 2023–2024 and above 6,000 GWh in 2025, explicitly linking the problem to a structural transmission-infrastructure gap. Kimal–Lo Aguirre is identified as a critical north-to-demand-centres line.",
+        "pt-BR": "O Ministério de Energia do Chile informa vertimentos renováveis acima de 5.000 GWh anuais em 2023–2024 e acima de 6.000 GWh em 2025, ligando explicitamente o problema a uma lacuna estrutural de transmissão. Kimal–Lo Aguirre é identificada como linha crítica entre o norte e os centros de consumo."
+      },
+      "implication": {
+        "en": "The mismatch creates identifiable demand for storage, transmission, grid-forming capability, ancillary services and loads that can shift consumption toward periods or locations of abundant renewable output.",
+        "pt-BR": "O desencontro cria demanda identificável por armazenamento, transmissão, capacidade grid-forming, serviços ancilares e cargas que consigam deslocar consumo para períodos ou locais de abundante geração renovável."
+      },
+      "constraints": {
+        "en": "Transmission timing is long and system security constraints matter. Storage deployment can reduce temporal mismatch but cannot substitute for every geographic transmission bottleneck.",
+        "pt-BR": "O prazo de transmissão é longo e restrições de segurança do sistema importam. Armazenamento pode reduzir o desencontro temporal, mas não substitui todo gargalo geográfico de transmissão."
+      },
+      "catalysts": [
+        {
+          "en": "Chile closed 2025 with more than 2,500 MW of installed storage, almost double the previous year.",
+          "pt-BR": "O Chile encerrou 2025 com mais de 2.500 MW de armazenamento instalado, quase o dobro do ano anterior."
+        },
+        {
+          "en": "Kimal–Lo Aguirre and the 2026–2030 energy route provide observable transmission and regulatory milestones.",
+          "pt-BR": "Kimal–Lo Aguirre e a rota energética 2026–2030 fornecem marcos observáveis de transmissão e regulação."
+        }
+      ],
+      "transition": {
+        "to_state": "leverageable_efficiency",
+        "status": "candidate",
+        "en": "Watch curtailment, storage commissioning and transmission milestones; the opportunity narrows as the mismatch is actually removed.",
+        "pt-BR": "Acompanhar vertimento, entrada de armazenamento e marcos de transmissão; a oportunidade diminui à medida que o desencontro é efetivamente removido."
+      },
+      "sectors": [
+        "electricity",
+        "storage",
+        "transmission",
+        "renewables",
+        "grid-services"
+      ],
+      "horizon": "1-6y",
+      "confidence": "high",
+      "last_verified": "2026-09-18",
+      "sources": [
+        {
+          "name": "Chile Ministry of Energy — Ruta 2026–2030",
+          "url": "https://energia.gob.cl/sites/default/files/documentos/ruta_2026-2030.pdf",
+          "date": "2026-06"
+        },
+        {
+          "name": "Coordinador Eléctrico Nacional — Cuenta Pública 2025",
+          "url": "https://www.coordinador.cl/wp-content/uploads/2026/05/2026-05-25-DISCURSO-JCO.pdf",
+          "date": "2026-05-25"
+        }
+      ]
+    }
+  ]
+}

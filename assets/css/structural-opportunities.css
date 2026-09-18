@@ -1,0 +1,88 @@
+.structural-opportunity-atlas{background:var(--paper)}
+.atlas-hero{background:linear-gradient(118deg,#081119 0%,#0d1c25 62%,#14333f 100%);color:#fff;border-bottom:1px solid #1a3c49}
+.atlas-hero-grid{min-height:410px;display:grid;grid-template-columns:minmax(0,1.4fr) minmax(280px,.6fr);gap:70px;align-items:center;padding:68px 0}
+.atlas-hero h1{margin:0 0 20px;font:500 clamp(44px,5.6vw,70px)/1.02 var(--serif);letter-spacing:-.03em}
+.atlas-hero p{margin:0;max-width:760px;color:#c8d6dc;font-size:18px;line-height:1.65}
+.atlas-hero aside{border-left:1px solid #31505d;padding:24px 0 24px 28px}
+.atlas-hero aside strong,.section-kicker{font-size:10px;letter-spacing:.17em;text-transform:uppercase}
+.atlas-hero aside strong{color:#57dfff}
+.atlas-hero aside p{font-size:14px;margin-top:10px}
+.atlas-intro{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,.7fr);gap:60px;align-items:end;margin-bottom:28px}
+.atlas-intro h2,.atlas-method h2{margin:7px 0 0;font:500 clamp(30px,3.2vw,43px)/1.07 var(--serif);letter-spacing:-.02em}
+.atlas-intro>p{margin:0;color:var(--muted);font-size:14px}
+.section-kicker{color:#55717f}
+.state-matrix{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);background:#fff}
+.state-definition{min-height:190px;padding:26px;border-bottom:1px solid var(--line);position:relative}
+.state-definition:nth-child(odd){border-right:1px solid var(--line)}
+.state-definition:nth-child(n+3){border-bottom:0}
+.state-definition:before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:#6d7c84}
+.state-definition.state-exploitable-inefficiency:before{background:#2b879b}
+.state-definition.state-blocking-efficiency:before{background:#8f6b3b}
+.state-definition.state-leverageable-efficiency:before{background:#28755c}
+.state-definition span{display:block;font:500 25px/1.1 var(--serif)}
+.state-definition p{margin:13px 0 0;color:var(--muted);font-size:14px;max-width:500px}
+.map-section{background:#edf1f3}
+.map-panel{background:#0b171f;border:1px solid #233843;padding:22px;box-shadow:var(--shadow)}
+.atlas-map{display:block;width:100%;aspect-ratio:2/1;background:linear-gradient(180deg,#10242e,#0a151c)}
+.map-grid line{stroke:#5f7b88;stroke-width:.55;opacity:.16}
+.map-land polygon{fill:#28404b;stroke:#4a6570;stroke-width:1.1;opacity:.82}
+.atlas-pin circle:first-child{fill:#3bd7ff;opacity:.25;stroke:#85ecff;stroke-width:1.4}
+.atlas-pin .pin-core{fill:#dffaff}
+.atlas-pin:hover circle:first-child{opacity:.65}
+.map-caption{margin-top:10px;color:#8ea3ad;font-size:11px}
+.atlas-filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:20px}
+.atlas-filters button{border:1px solid #b9c5ca;background:#fff;padding:9px 12px;cursor:pointer;font-size:11px;font-weight:600}
+.atlas-filters button span{color:var(--muted);margin-left:4px}
+.atlas-filters button.active{background:var(--navy);border-color:var(--navy);color:#fff}
+.atlas-filters button.active span{color:#a9bbc4}
+.entries-section{padding-top:22px}
+.country-group{padding:44px 0 14px}
+.country-heading{display:grid;grid-template-columns:58px minmax(0,1fr) auto;gap:15px;align-items:end;padding-bottom:12px;border-bottom:2px solid var(--ink);margin-bottom:18px}
+.country-heading>span{font-size:10px;letter-spacing:.16em;color:var(--muted)}
+.country-heading h2{margin:0;font:500 34px/1 var(--serif)}
+.country-heading em{font-style:normal;font-size:11px;color:var(--muted)}
+.opportunity-entry{background:#fff;border:1px solid var(--line);border-left:4px solid #6d7c84;padding:27px;margin:0 0 18px;box-shadow:0 9px 22px rgba(8,18,25,.035)}
+.opportunity-entry.state-exploitable-inefficiency{border-left-color:#2b879b}
+.opportunity-entry.state-blocking-efficiency{border-left-color:#8f6b3b}
+.opportunity-entry.state-leverageable-efficiency{border-left-color:#28755c}
+.entry-top{display:flex;justify-content:space-between;gap:28px;align-items:flex-start}
+.entry-country{font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.entry-top h3{margin:7px 0 0;font:500 29px/1.08 var(--serif);letter-spacing:-.015em}
+.state-badge{flex:0 0 auto;border:1px solid var(--line-dark);padding:7px 9px;font-size:9px;letter-spacing:.1em;text-transform:uppercase}
+.entry-facts{display:flex;gap:18px;flex-wrap:wrap;margin:18px 0;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-size:10px;color:var(--muted)}
+.entry-facts strong{color:var(--ink)}
+.entry-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 36px}
+.entry-block{padding:13px 0}
+.entry-block h4{margin:0 0 7px;font-size:9px;letter-spacing:.13em;text-transform:uppercase;color:#55717f}
+.entry-block p,.entry-block li{font-size:13px;line-height:1.65;color:#44545d}
+.entry-block p{margin:0}
+.entry-block ul{margin:0;padding-left:17px}
+.transition-watch{margin-top:10px;background:#eef5f6;border:1px solid #c9dade;padding:15px}
+.transition-watch strong{font-size:9px;letter-spacing:.13em;text-transform:uppercase;color:#315765}
+.transition-watch p{margin:6px 0 0;font-size:13px;color:#40545e}
+.source-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:16px;padding-top:15px;border-top:1px solid var(--line)}
+.source-row strong{font-size:9px;letter-spacing:.13em;text-transform:uppercase}
+.source-row a{font-size:10px;color:#315765;border-bottom:1px solid #97aeb8}
+.source-row a:hover{color:#000}
+.atlas-method{background:var(--navy);color:#fff}
+.atlas-method-grid{display:grid;grid-template-columns:1fr 1fr;gap:70px}
+.atlas-method .section-kicker{color:#57dfff}
+.atlas-method p{margin:0 0 15px;color:#b7c7ce;line-height:1.7}
+.atlas-method a{color:#fff;border-bottom:1px solid #57dfff}
+.empty-state{padding:50px 0;text-align:center;color:var(--muted)}
+@media(max-width:980px){
+  .atlas-hero-grid,.atlas-intro,.atlas-method-grid{grid-template-columns:1fr;gap:28px}
+  .atlas-hero-grid{min-height:0;padding:54px 0}
+  .atlas-hero aside{border-left:0;border-top:1px solid #31505d;padding:22px 0 0}
+}
+@media(max-width:720px){
+  .state-matrix,.entry-grid{grid-template-columns:1fr}
+  .state-definition{border-right:0!important;border-bottom:1px solid var(--line)!important;min-height:0}
+  .state-definition:last-child{border-bottom:0!important}
+  .entry-top{display:block}
+  .state-badge{display:inline-block;margin-top:14px}
+  .country-heading{grid-template-columns:1fr auto}
+  .country-heading>span{grid-column:1/-1}
+  .opportunity-entry{padding:20px 18px}
+  .map-panel{padding:10px}
+}

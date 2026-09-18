@@ -38,6 +38,9 @@ jobs:
           test -f dist/index.html
           test -f dist/reports.html
           test -f dist/research/index.html
+          test -f dist/opportunities/index.html
+          test -f dist/pt-br/opportunities/index.html
+          test -f dist/data/structural-opportunities.json
           test -f dist/regions/index.html
           test -f dist/research/coverage/index.html
           test -f dist/pt-br/research/coverage/index.html
@@ -59,6 +62,8 @@ jobs:
           test -f dist/pt-br/series/energy-materials-industrial-systems/index.html
           test -f dist/data/taxonomy.json
           grep -q 'research-intelligence-entry' dist/research/index.html
+          grep -q 'structural-opportunity-atlas' dist/opportunities/index.html
+          grep -q 'structural-opportunity-atlas' dist/pt-br/opportunities/index.html
           grep -q 'research-intelligence-entry' dist/pt-br/research/index.html
           grep -q 'global-search-link' dist/index.html
           grep -q 'global-search-link' dist/pt-br/index.html
