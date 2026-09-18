@@ -57,6 +57,15 @@ Saudi Arabia's ability to redirect exports matters because Gulf energy exposure 
 
 They do not establish normalization. Reuters reported that a Togo-flagged tanker was struck while attempting to transit Hormuz, according to Iranian state media, while estimates of pipeline restoration remain variable. The defensible conclusion is that redundancy is working at the margin, but maritime and infrastructure risk remains high.
 
+```map
+title: Gulf export corridors and current exposure
+Saudi Arabia — East-West / Yanbu | Red Sea outlet | Partial restoration is being pursued after infrastructure damage; timing remains uncertain
+Oman — Sohar | Alternative loading arrangement | Ship-to-ship transfers can move some Saudi barrels without relying on the same loading point
+Strait of Hormuz | Maritime exposure | Vessel security, insurance and transit constraints remain material
+```
+
+The map is schematic: it identifies evidenced locations and their analytical role, not precise route geometry or transport capacity.
+
 ```flow
 Damage to Saudi export infrastructure → use of alternative pipeline/loading arrangements → more crude reaches buyers than under a full route outage → immediate shortage premium falls → oil and inflation expectations ease → long yields and risk-asset pressure can soften
 
