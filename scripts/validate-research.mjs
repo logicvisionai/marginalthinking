@@ -85,6 +85,15 @@ function validateTaxonomy(item){
   if(!Array.isArray(item.dimensions)||item.dimensions.length<1)fail.push(`${id}: dimensions deve ter ao menos uma dimensão`);
   for(const d of item.dimensions||[])if(!taxonomy.dimensions?.[d])fail.push(`${id}: dimension inválida (${d})`);
   if(item.program==='strategic-transitions')for(const d of expectedDimensions)if(!(item.dimensions||[]).includes(d))fail.push(`${id}: Strategic Transitions exige dimensão ${d}`);
+  if(item.kind==='weekly-technology-signal'){
+    if(item.program!=='technology-production-society')fail.push(`${id}: weekly-technology-signal exige program technology-production-society`);
+    if(item.format!=='assessment')fail.push(`${id}: weekly-technology-signal exige format assessment`);
+    if(item.cadence!=='weekly')fail.push(`${id}: weekly-technology-signal exige cadence weekly`);
+    for(const d of expectedDimensions)if(!(item.dimensions||[]).includes(d))fail.push(`${id}: weekly-technology-signal exige dimensão ${d}`);
+    const sr=item.signal_rationale;
+    if(!sr||typeof sr!=='object')fail.push(`${id}: weekly-technology-signal exige signal_rationale`);
+    else for(const key of ['delta','evidence','scale_path','transmission','falsifier'])if(!String(sr[key]||'').trim())fail.push(`${id}: signal_rationale.${key} ausente`);
+  }
   if(!taxonomy.formats?.[item.format])fail.push(`${id}: format inválido (${item.format||'ausente'})`);
   if(!taxonomy.cadences?.includes(item.cadence))fail.push(`${id}: cadence inválida (${item.cadence||'ausente'})`);
   if(!Array.isArray(item.topics)||item.topics.length<2)fail.push(`${id}: topics deve conter ao menos dois tópicos controlados`);
@@ -138,7 +147,7 @@ for(const item of reports){
     if(JSON.stringify(en)!==JSON.stringify(pt))fail.push(`${item.id}: EN/PT-BR divergem na assinatura visual (${JSON.stringify(en)} vs ${JSON.stringify(pt)})`);
   }
 }
-for(const file of ['RESEARCH-VISUALS.md','EDITORIAL-ARCHITECTURE.md','CONFLICT-SECURITY-SOCIAL-CHANGE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
+for(const file of ['RESEARCH-VISUALS.md','EDITORIAL-ARCHITECTURE.md','TECHNOLOGY-SIGNALS.md','CONFLICT-SECURITY-SOCIAL-CHANGE.md','data/taxonomy.json','assets/css/styles.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/js/app.js','scripts/render-site.mjs','scripts/harden-output.mjs','scripts/lib/markdown.mjs'])if(!exists(file))fail.push(`${file}: ausente`);
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
 console.log(`Research validation OK: ${reports.length} bilingual publications; editorial architecture ${taxonomy.version}; ${Object.keys(taxonomy.programs||{}).length} programs; controlled taxonomy; English-first.`);
