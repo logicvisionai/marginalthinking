@@ -1,0 +1,1271 @@
+{
+  "schema_version": 1,
+  "name": "Global Dependency Network",
+  "status": "active",
+  "updated_at": "2026-09-18",
+  "history_file": "data/global-dependency-history.json",
+  "description": {
+    "en": "A cumulative network of evidenced dependencies linking resources, routes, infrastructure, productive capacity, technology, institutions and capital.",
+    "pt-BR": "Rede cumulativa de dependências evidenciadas entre recursos, rotas, infraestrutura, capacidade produtiva, tecnologia, instituições e capital."
+  },
+  "node_types": {
+    "chokepoint": {
+      "en": "Chokepoint",
+      "pt-BR": "Ponto crítico"
+    },
+    "infrastructure": {
+      "en": "Infrastructure",
+      "pt-BR": "Infraestrutura"
+    },
+    "flow": {
+      "en": "Physical flow",
+      "pt-BR": "Fluxo físico"
+    },
+    "market": {
+      "en": "Market transmission",
+      "pt-BR": "Transmissão de mercado"
+    },
+    "finance": {
+      "en": "Finance",
+      "pt-BR": "Finanças"
+    },
+    "capacity": {
+      "en": "Productive capacity",
+      "pt-BR": "Capacidade produtiva"
+    },
+    "technology": {
+      "en": "Technology",
+      "pt-BR": "Tecnologia"
+    },
+    "institution": {
+      "en": "Institution / governance",
+      "pt-BR": "Instituição / governança"
+    },
+    "resource": {
+      "en": "Resource base",
+      "pt-BR": "Base de recursos"
+    },
+    "labor": {
+      "en": "Labour / organization",
+      "pt-BR": "Trabalho / organização"
+    }
+  },
+  "relation_types": {
+    "constrains": {
+      "en": "Constrains",
+      "pt-BR": "Restringe"
+    },
+    "enables": {
+      "en": "Enables",
+      "pt-BR": "Viabiliza"
+    },
+    "transmits": {
+      "en": "Transmits",
+      "pt-BR": "Transmite"
+    },
+    "redundancy": {
+      "en": "Provides redundancy",
+      "pt-BR": "Cria redundância"
+    },
+    "finances": {
+      "en": "Finances / mobilises capital",
+      "pt-BR": "Financia / mobiliza capital"
+    },
+    "governs": {
+      "en": "Governs / controls",
+      "pt-BR": "Governa / controla"
+    },
+    "demand": {
+      "en": "Creates demand",
+      "pt-BR": "Cria demanda"
+    }
+  },
+  "groups": [
+    {
+      "id": "energy-finance",
+      "label": {
+        "en": "Energy, logistics & finance",
+        "pt-BR": "Energia, logística & finanças"
+      },
+      "description": {
+        "en": "Physical energy routes and their transmission into prices, inflation and financing conditions.",
+        "pt-BR": "Rotas físicas de energia e sua transmissão para preços, inflação e condições de financiamento."
+      }
+    },
+    {
+      "id": "compute-power",
+      "label": {
+        "en": "Compute, power & industrial capacity",
+        "pt-BR": "Computação, energia & capacidade industrial"
+      },
+      "description": {
+        "en": "The physical infrastructure required to turn digital investment into productive capacity.",
+        "pt-BR": "A infraestrutura física necessária para converter investimento digital em capacidade produtiva."
+      }
+    },
+    {
+      "id": "eurasian-corridor",
+      "label": {
+        "en": "Eurasian corridors & resource conversion",
+        "pt-BR": "Corredores eurasiáticos & conversão de recursos"
+      },
+      "description": {
+        "en": "How rail, power reform and financing affect trade frictions and domestic value capture around Kazakhstan's resource base.",
+        "pt-BR": "Como ferrovia, reforma elétrica e financiamento afetam fricções comerciais e captura de valor em torno da base de recursos do Cazaquistão."
+      }
+    },
+    {
+      "id": "agentic-ai",
+      "label": {
+        "en": "Agentic AI operating layer",
+        "pt-BR": "Camada operacional de IA agêntica"
+      },
+      "description": {
+        "en": "Capabilities and governance layers required for agents to move from isolated tasks into institutional workflows.",
+        "pt-BR": "Capacidades e camadas de governança necessárias para que agentes passem de tarefas isoladas para fluxos institucionais."
+      }
+    },
+    {
+      "id": "cislunar-services",
+      "label": {
+        "en": "Cislunar service infrastructure",
+        "pt-BR": "Infraestrutura de serviços cislunares"
+      },
+      "description": {
+        "en": "Shared communications, navigation, standards, procurement and surface constraints shaping scalable lunar operations.",
+        "pt-BR": "Comunicações, navegação, padrões, compras públicas e restrições de superfície que moldam operações lunares escaláveis."
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "strait-hormuz",
+      "type": "chokepoint",
+      "group": "energy-finance",
+      "layer": 0,
+      "order": 0,
+      "label": {
+        "en": "Strait of Hormuz",
+        "pt-BR": "Estreito de Hormuz"
+      },
+      "description": {
+        "en": "Maritime passage whose security, insurance and transit conditions materially affect Gulf export capacity.",
+        "pt-BR": "Passagem marítima cujas condições de segurança, seguro e trânsito afetam materialmente a capacidade de exportação do Golfo."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 9,
+        "y": 28
+      }
+    },
+    {
+      "id": "saudi-east-west",
+      "type": "infrastructure",
+      "group": "energy-finance",
+      "layer": 0,
+      "order": 1,
+      "label": {
+        "en": "Saudi East-West system",
+        "pt-BR": "Sistema Leste-Oeste saudita"
+      },
+      "description": {
+        "en": "Pipeline and Red Sea export infrastructure that can partially reduce reliance on Hormuz for Saudi crude.",
+        "pt-BR": "Oleoduto e infraestrutura de exportação pelo Mar Vermelho capazes de reduzir parcialmente a dependência saudita de Hormuz."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 9,
+        "y": 72
+      }
+    },
+    {
+      "id": "gulf-crude-exports",
+      "type": "flow",
+      "group": "energy-finance",
+      "layer": 1,
+      "order": 0,
+      "label": {
+        "en": "Gulf crude exports",
+        "pt-BR": "Exportações de petróleo do Golfo"
+      },
+      "description": {
+        "en": "Realised physical export flows rather than headline production capacity.",
+        "pt-BR": "Fluxos físicos efetivamente exportados, distintos da capacidade nominal de produção."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 28,
+        "y": 50
+      }
+    },
+    {
+      "id": "global-oil-costs",
+      "type": "market",
+      "group": "energy-finance",
+      "layer": 2,
+      "order": 0,
+      "label": {
+        "en": "Delivered oil cost",
+        "pt-BR": "Custo entregue do petróleo"
+      },
+      "description": {
+        "en": "Crude price, freight, insurance and route constraints transmitted to importers.",
+        "pt-BR": "Preço do petróleo, frete, seguro e restrições de rota transmitidos aos importadores."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 46,
+        "y": 50
+      }
+    },
+    {
+      "id": "inflation-pressure",
+      "type": "market",
+      "group": "energy-finance",
+      "layer": 3,
+      "order": 0,
+      "label": {
+        "en": "Inflation pressure",
+        "pt-BR": "Pressão inflacionária"
+      },
+      "description": {
+        "en": "Energy and transport costs transmitted into inflation expectations and policy trade-offs.",
+        "pt-BR": "Custos de energia e transporte transmitidos para expectativas de inflação e escolhas de política econômica."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 64,
+        "y": 50
+      }
+    },
+    {
+      "id": "global-financing",
+      "type": "finance",
+      "group": "energy-finance",
+      "layer": 4,
+      "order": 0,
+      "label": {
+        "en": "Global financing conditions",
+        "pt-BR": "Condições globais de financiamento"
+      },
+      "description": {
+        "en": "Policy rates and long yields that set financing hurdles for capital-intensive projects.",
+        "pt-BR": "Juros de política e taxas longas que definem o custo de capital para projetos intensivos em investimento."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 82,
+        "y": 50
+      }
+    },
+    {
+      "id": "semiconductor-capacity",
+      "type": "capacity",
+      "group": "compute-power",
+      "layer": 0,
+      "order": 0,
+      "label": {
+        "en": "Semiconductor capacity",
+        "pt-BR": "Capacidade de semicondutores"
+      },
+      "description": {
+        "en": "Fabrication and supply capacity required for compute infrastructure.",
+        "pt-BR": "Capacidade de fabricação e fornecimento necessária à infraestrutura computacional."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 28,
+        "y": 84
+      }
+    },
+    {
+      "id": "electricity-grids",
+      "type": "infrastructure",
+      "group": "compute-power",
+      "layer": 0,
+      "order": 1,
+      "label": {
+        "en": "Electricity grids",
+        "pt-BR": "Redes elétricas"
+      },
+      "description": {
+        "en": "Generation, transmission, interconnection and equipment capacity required to serve new large loads.",
+        "pt-BR": "Capacidade de geração, transmissão, conexão e equipamentos necessária para atender novas cargas de grande porte."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 46,
+        "y": 84
+      }
+    },
+    {
+      "id": "data-centres",
+      "type": "capacity",
+      "group": "compute-power",
+      "layer": 2,
+      "order": 0,
+      "label": {
+        "en": "Data-centre capacity",
+        "pt-BR": "Capacidade de data centers"
+      },
+      "description": {
+        "en": "Compute infrastructure whose expansion depends on chips, power, cooling, grids and finance.",
+        "pt-BR": "Infraestrutura computacional cuja expansão depende de chips, energia, refrigeração, redes e financiamento."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": {
+        "x": 64,
+        "y": 84
+      }
+    },
+    {
+      "id": "strategic-material-processing",
+      "type": "capacity",
+      "group": "compute-power",
+      "layer": 1,
+      "order": 1,
+      "label": {
+        "en": "Strategic material processing",
+        "pt-BR": "Processamento de materiais estratégicos"
+      },
+      "description": {
+        "en": "Processing and refining capacity receiving strategic greenfield investment and facing high capital requirements.",
+        "pt-BR": "Capacidade de processamento e refino que recebe investimento estratégico e exige capital intensivo."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "id": "multilateral-risk-sharing",
+      "type": "institution",
+      "group": "eurasian-corridor",
+      "layer": 0,
+      "order": 0,
+      "label": {
+        "en": "Multilateral risk sharing",
+        "pt-BR": "Compartilhamento multilateral de risco"
+      },
+      "description": {
+        "en": "Guarantees and policy finance used to mobilise commercial capital into infrastructure.",
+        "pt-BR": "Garantias e financiamento de políticas usados para mobilizar capital comercial para infraestrutura."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "kazakhstan-resource-base",
+      "type": "resource",
+      "group": "eurasian-corridor",
+      "layer": 0,
+      "order": 1,
+      "label": {
+        "en": "Kazakhstan resource base",
+        "pt-BR": "Base de recursos do Cazaquistão"
+      },
+      "description": {
+        "en": "Hydrocarbons, uranium and critical minerals that anchor export and processing opportunities.",
+        "pt-BR": "Hidrocarbonetos, urânio e minerais críticos que sustentam exportações e oportunidades de processamento."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "kazakhstan-power-reform",
+      "type": "institution",
+      "group": "eurasian-corridor",
+      "layer": 1,
+      "order": 1,
+      "label": {
+        "en": "Kazakhstan power-system reform",
+        "pt-BR": "Reforma do sistema elétrico do Cazaquistão"
+      },
+      "description": {
+        "en": "Tariff and investment reforms intended to improve utility sustainability and private investment conditions.",
+        "pt-BR": "Reformas tarifárias e de investimento voltadas à sustentabilidade das utilities e às condições para capital privado."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "kazakhstan-rail",
+      "type": "infrastructure",
+      "group": "eurasian-corridor",
+      "layer": 1,
+      "order": 0,
+      "label": {
+        "en": "Kazakhstan rail capacity",
+        "pt-BR": "Capacidade ferroviária do Cazaquistão"
+      },
+      "description": {
+        "en": "Greenfield rail and station capacity financed to relieve bottlenecks and reduce transit time.",
+        "pt-BR": "Capacidade ferroviária e estações financiadas para aliviar restrições e reduzir o tempo de trânsito."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "middle-corridor",
+      "type": "infrastructure",
+      "group": "eurasian-corridor",
+      "layer": 2,
+      "order": 0,
+      "label": {
+        "en": "Trans-Caspian Middle Corridor",
+        "pt-BR": "Corredor Médio Transcaspiano"
+      },
+      "description": {
+        "en": "Westbound Eurasian trade route whose value depends on rail, port and border interoperability.",
+        "pt-BR": "Rota eurasiática para oeste cujo valor depende de ferrovia, portos e interoperabilidade de fronteiras."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "eurasian-trade",
+      "type": "flow",
+      "group": "eurasian-corridor",
+      "layer": 3,
+      "order": 0,
+      "label": {
+        "en": "Eurasian trade flows",
+        "pt-BR": "Fluxos comerciais eurasiáticos"
+      },
+      "description": {
+        "en": "Trade volumes and transit times affected by corridor capacity and coordination.",
+        "pt-BR": "Volumes comerciais e tempos de trânsito afetados por capacidade e coordenação do corredor."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "kazakhstan-processing",
+      "type": "capacity",
+      "group": "eurasian-corridor",
+      "layer": 3,
+      "order": 1,
+      "label": {
+        "en": "Domestic processing capacity",
+        "pt-BR": "Capacidade doméstica de processamento"
+      },
+      "description": {
+        "en": "Prospective value-added processing around minerals and energy, conditional on power, logistics and investment execution.",
+        "pt-BR": "Processamento de maior valor agregado em torno de minerais e energia, condicionado à eletricidade, logística e execução de investimentos."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "model-capability",
+      "type": "technology",
+      "group": "agentic-ai",
+      "layer": 0,
+      "order": 0,
+      "label": {
+        "en": "Model capability",
+        "pt-BR": "Capacidade do modelo"
+      },
+      "description": {
+        "en": "Task performance that makes longer tool-using workflows technically possible.",
+        "pt-BR": "Desempenho em tarefas que torna tecnicamente possíveis fluxos mais longos com uso de ferramentas."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "enterprise-context-tools",
+      "type": "infrastructure",
+      "group": "agentic-ai",
+      "layer": 0,
+      "order": 1,
+      "label": {
+        "en": "Enterprise context & tools",
+        "pt-BR": "Contexto e ferramentas empresariais"
+      },
+      "description": {
+        "en": "Internal data, software interfaces and tool access that turn agents into workflow components.",
+        "pt-BR": "Dados internos, interfaces de software e acesso a ferramentas que transformam agentes em componentes de fluxo de trabalho."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "permissions-governance",
+      "type": "institution",
+      "group": "agentic-ai",
+      "layer": 0,
+      "order": 2,
+      "label": {
+        "en": "Permissions & identity",
+        "pt-BR": "Permissões & identidade"
+      },
+      "description": {
+        "en": "Identity, authentication, context segmentation and action boundaries governing what agents may access and do.",
+        "pt-BR": "Identidade, autenticação, segmentação de contexto e limites de ação que governam o que agentes podem acessar e executar."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "continuous-evaluation",
+      "type": "institution",
+      "group": "agentic-ai",
+      "layer": 1,
+      "order": 0,
+      "label": {
+        "en": "Continuous evaluation",
+        "pt-BR": "Avaliação contínua"
+      },
+      "description": {
+        "en": "Workflow-specific tests and regression detection required as tasks, tools and context change.",
+        "pt-BR": "Testes específicos de fluxo e detecção de regressões necessários à medida que tarefas, ferramentas e contexto mudam."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "human-supervision",
+      "type": "labor",
+      "group": "agentic-ai",
+      "layer": 1,
+      "order": 1,
+      "label": {
+        "en": "Human escalation & review",
+        "pt-BR": "Escalonamento & revisão humana"
+      },
+      "description": {
+        "en": "Selective review capacity that absorbs uncertain or high-risk cases rather than supervising every action equally.",
+        "pt-BR": "Capacidade de revisão seletiva que absorve casos incertos ou de maior risco em vez de supervisionar toda ação de forma uniforme."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "agentic-workflows",
+      "type": "technology",
+      "group": "agentic-ai",
+      "layer": 2,
+      "order": 0,
+      "label": {
+        "en": "Agentic workflows",
+        "pt-BR": "Fluxos de trabalho agênticos"
+      },
+      "description": {
+        "en": "Delegated multi-step work combining model capability, context, tools and governance.",
+        "pt-BR": "Trabalho delegado em múltiplas etapas combinando capacidade do modelo, contexto, ferramentas e governança."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "task-recomposition",
+      "type": "labor",
+      "group": "agentic-ai",
+      "layer": 4,
+      "order": 0,
+      "label": {
+        "en": "Task recomposition",
+        "pt-BR": "Recomposição de tarefas"
+      },
+      "description": {
+        "en": "Shift from direct execution toward specification, review, exception handling and workflow design.",
+        "pt-BR": "Mudança da execução direta para especificação, revisão, tratamento de exceções e desenho de fluxos."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "public-space-procurement",
+      "type": "institution",
+      "group": "cislunar-services",
+      "layer": 0,
+      "order": 0,
+      "label": {
+        "en": "Public procurement anchor",
+        "pt-BR": "Âncora de compras públicas"
+      },
+      "description": {
+        "en": "Agency procurement and service contracts that create early demand for shared cislunar infrastructure.",
+        "pt-BR": "Compras e contratos de serviço de agências que criam demanda inicial por infraestrutura cislunar compartilhada."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "lunanet-standards",
+      "type": "institution",
+      "group": "cislunar-services",
+      "layer": 0,
+      "order": 1,
+      "label": {
+        "en": "Interoperability standards",
+        "pt-BR": "Padrões de interoperabilidade"
+      },
+      "description": {
+        "en": "LunaNet and Moonlight-class standards intended to reduce integration friction across providers and missions.",
+        "pt-BR": "Padrões do tipo LunaNet e Moonlight voltados a reduzir fricção de integração entre provedores e missões."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "lunar-relay-pnt",
+      "type": "infrastructure",
+      "group": "cislunar-services",
+      "layer": 2,
+      "order": 0,
+      "label": {
+        "en": "Lunar relay & PNT services",
+        "pt-BR": "Serviços lunares de retransmissão & PNT"
+      },
+      "description": {
+        "en": "Reusable communications, positioning, navigation and timing services in lunar orbit and cislunar space.",
+        "pt-BR": "Serviços reutilizáveis de comunicação, posicionamento, navegação e tempo em órbita lunar e espaço cislunar."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "lunar-missions",
+      "type": "flow",
+      "group": "cislunar-services",
+      "layer": 3,
+      "order": 0,
+      "label": {
+        "en": "Recurring lunar missions",
+        "pt-BR": "Missões lunares recorrentes"
+      },
+      "description": {
+        "en": "Mission demand that can justify persistent shared services when usage becomes repeated across customers.",
+        "pt-BR": "Demanda de missões capaz de justificar serviços compartilhados persistentes quando o uso se torna recorrente entre clientes."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "lunar-surface-constraints",
+      "type": "infrastructure",
+      "group": "cislunar-services",
+      "layer": 2,
+      "order": 1,
+      "label": {
+        "en": "Surface power & logistics constraints",
+        "pt-BR": "Restrições de energia & logística de superfície"
+      },
+      "description": {
+        "en": "Power, mobility, maintenance, landing and logistics capabilities that remain less mature than communications and navigation.",
+        "pt-BR": "Capacidades de energia, mobilidade, manutenção, pouso e logística ainda menos maduras que comunicação e navegação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "cislunar-scale",
+      "type": "capacity",
+      "group": "cislunar-services",
+      "layer": 4,
+      "order": 0,
+      "label": {
+        "en": "Scalable cislunar operations",
+        "pt-BR": "Operações cislunares escaláveis"
+      },
+      "description": {
+        "en": "A persistent operational layer whose viability requires recurring demand plus infrastructure beyond relay services alone.",
+        "pt-BR": "Camada operacional persistente cuja viabilidade exige demanda recorrente e infraestrutura além de serviços de retransmissão."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "dep-hormuz-gulf-exports",
+      "group": "energy-finance",
+      "from": "strait-hormuz",
+      "to": "gulf-crude-exports",
+      "relation": "constrains",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Transit security, insurance and vessel constraints can reduce realised Gulf export flows even when upstream production capacity exists.",
+        "pt-BR": "Segurança de trânsito, seguro e restrições a embarcações podem reduzir os fluxos efetivamente exportados do Golfo mesmo quando existe capacidade de produção a montante."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-eastwest-gulf-exports",
+      "group": "energy-finance",
+      "from": "saudi-east-west",
+      "to": "gulf-crude-exports",
+      "relation": "redundancy",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "immediate",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Red Sea pipeline and loading capacity can preserve part of Saudi exports when maritime access through Hormuz is impaired, but cannot fully replace regional exposure.",
+        "pt-BR": "Oleodutos e capacidade de carregamento pelo Mar Vermelho podem preservar parte das exportações sauditas quando Hormuz está comprometido, sem substituir integralmente a exposição regional."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-exports-oil-cost",
+      "group": "energy-finance",
+      "from": "gulf-crude-exports",
+      "to": "global-oil-costs",
+      "relation": "transmits",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Changes in realised supply, freight and insurance alter delivered energy costs for importers.",
+        "pt-BR": "Mudanças na oferta realizada, frete e seguro alteram o custo de energia entregue aos importadores."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-oil-inflation",
+      "group": "energy-finance",
+      "from": "global-oil-costs",
+      "to": "inflation-pressure",
+      "relation": "transmits",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Energy and transport costs pass through to inflation, household purchasing power and policy expectations at different speeds.",
+        "pt-BR": "Custos de energia e transporte chegam à inflação, ao poder de compra das famílias e às expectativas de política econômica em velocidades diferentes."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-inflation-financing",
+      "group": "energy-finance",
+      "from": "inflation-pressure",
+      "to": "global-financing",
+      "relation": "transmits",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Persistent inflation pressure raises the probability of tighter policy rates and higher financing benchmarks.",
+        "pt-BR": "Pressão inflacionária persistente eleva a probabilidade de juros mais altos e parâmetros de financiamento mais restritivos."
+      },
+      "research_ids": [
+        "MT-GM-2026-09-18",
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-grid-data-centres",
+      "group": "compute-power",
+      "from": "electricity-grids",
+      "to": "data-centres",
+      "relation": "enables",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "1-3y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Data-centre build-out requires generation, transmission, interconnection and equipment capacity; compute investment cannot scale independently of the power system.",
+        "pt-BR": "A expansão de data centers exige geração, transmissão, conexão e equipamentos; investimento em computação não escala independentemente do sistema elétrico."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-semiconductors-data-centres",
+      "group": "compute-power",
+      "from": "semiconductor-capacity",
+      "to": "data-centres",
+      "relation": "enables",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-3y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Compute infrastructure depends on semiconductor supply and fabrication capacity.",
+        "pt-BR": "Infraestrutura computacional depende de oferta e capacidade de fabricação de semicondutores."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-financing-data-centres",
+      "group": "compute-power",
+      "from": "global-financing",
+      "to": "data-centres",
+      "relation": "constrains",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-3y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Higher policy rates and long yields increase hurdle rates for capital-intensive compute projects, favouring projects with contracted demand or strategic support.",
+        "pt-BR": "Juros e taxas longas mais altas elevam o custo mínimo de retorno para projetos intensivos em computação, favorecendo projetos com demanda contratada ou apoio estratégico."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ],
+      "home_preview": true
+    },
+    {
+      "id": "dep-financing-semiconductors",
+      "group": "compute-power",
+      "from": "global-financing",
+      "to": "semiconductor-capacity",
+      "relation": "constrains",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "A tighter cost of capital raises selectivity for large semiconductor projects even while strategic policy support can offset part of the financing burden.",
+        "pt-BR": "Um custo de capital mais restritivo aumenta a seletividade para grandes projetos de semicondutores, embora apoio estratégico possa compensar parte do encargo financeiro."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "id": "dep-financing-material-processing",
+      "group": "compute-power",
+      "from": "global-financing",
+      "to": "strategic-material-processing",
+      "relation": "constrains",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Refining and processing projects require long-duration capital and become more selective as financing benchmarks rise.",
+        "pt-BR": "Projetos de refino e processamento exigem capital de longa duração e tornam-se mais seletivos quando os parâmetros de financiamento sobem."
+      },
+      "research_ids": [
+        "MT-WF-2026-09-18"
+      ]
+    },
+    {
+      "id": "dep-risksharing-rail",
+      "group": "eurasian-corridor",
+      "from": "multilateral-risk-sharing",
+      "to": "kazakhstan-rail",
+      "relation": "finances",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-16",
+      "mechanism": {
+        "en": "World Bank guarantees and multilateral participation reduce financing friction and mobilise commercial capital into rail expansion.",
+        "pt-BR": "Garantias do Banco Mundial e participação multilateral reduzem fricção financeira e mobilizam capital comercial para expansão ferroviária."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "dep-rail-middle-corridor",
+      "group": "eurasian-corridor",
+      "from": "kazakhstan-rail",
+      "to": "middle-corridor",
+      "relation": "enables",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-16",
+      "mechanism": {
+        "en": "New rail links, stations and capacity relief are intended to reduce route distance, congestion and transit time on the Trans-Caspian corridor.",
+        "pt-BR": "Novas ligações ferroviárias, estações e alívio de capacidade buscam reduzir distância, congestionamento e tempo de trânsito no corredor transcaspiano."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "dep-corridor-trade",
+      "group": "eurasian-corridor",
+      "from": "middle-corridor",
+      "to": "eurasian-trade",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "high",
+      "confidence": "medium",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-16",
+      "mechanism": {
+        "en": "Lower transport time and friction can increase the attractiveness of westbound Eurasian trade, conditional on ports, borders and interoperability.",
+        "pt-BR": "Menor tempo e fricção de transporte podem elevar a atratividade do comércio eurasiático para oeste, condicionado a portos, fronteiras e interoperabilidade."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "dep-resources-processing",
+      "group": "eurasian-corridor",
+      "from": "kazakhstan-resource-base",
+      "to": "kazakhstan-processing",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "3-5y",
+      "last_verified": "2026-09-16",
+      "mechanism": {
+        "en": "A large resource base creates the input foundation for domestic processing, but value capture depends on actual investment and technology partnerships.",
+        "pt-BR": "Uma grande base de recursos fornece insumos para processamento doméstico, mas a captura de valor depende de investimento efetivo e parcerias tecnológicas."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "dep-power-processing",
+      "group": "eurasian-corridor",
+      "from": "kazakhstan-power-reform",
+      "to": "kazakhstan-processing",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "low",
+      "confidence": "medium",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-16",
+      "mechanism": {
+        "en": "More sustainable utility finance and new power investment can support industrial loads required by processing and manufacturing.",
+        "pt-BR": "Finanças mais sustentáveis das utilities e novos investimentos elétricos podem suportar cargas industriais necessárias a processamento e manufatura."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "dep-corridor-processing",
+      "group": "eurasian-corridor",
+      "from": "middle-corridor",
+      "to": "kazakhstan-processing",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-16",
+      "mechanism": {
+        "en": "Lower export friction can improve the economics of locating more processing activity near the resource base.",
+        "pt-BR": "Menor fricção de exportação pode melhorar a economia de localizar mais processamento próximo à base de recursos."
+      },
+      "research_ids": [
+        "MT-ST-2026-09-16-kazakhstan-corridor"
+      ]
+    },
+    {
+      "id": "dep-model-workflows",
+      "group": "agentic-ai",
+      "from": "model-capability",
+      "to": "agentic-workflows",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "high",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Sufficient model capability is necessary for delegated multi-step execution, but it is not sufficient for reliable deployment.",
+        "pt-BR": "Capacidade suficiente do modelo é necessária para execução delegada em múltiplas etapas, mas não é suficiente para implantação confiável."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "dep-context-workflows",
+      "group": "agentic-ai",
+      "from": "enterprise-context-tools",
+      "to": "agentic-workflows",
+      "relation": "enables",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Access to institutional context and tools turns agents from isolated interfaces into components of real workflows.",
+        "pt-BR": "Acesso a contexto institucional e ferramentas transforma agentes de interfaces isoladas em componentes de fluxos reais."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "dep-permissions-workflows",
+      "group": "agentic-ai",
+      "from": "permissions-governance",
+      "to": "agentic-workflows",
+      "relation": "governs",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Identity, permissions and context boundaries determine which actions can be delegated without unacceptable privacy or control failures.",
+        "pt-BR": "Identidade, permissões e limites de contexto determinam quais ações podem ser delegadas sem falhas inaceitáveis de privacidade ou controle."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "dep-evaluation-workflows",
+      "group": "agentic-ai",
+      "from": "continuous-evaluation",
+      "to": "agentic-workflows",
+      "relation": "governs",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Continuous workflow-specific evaluation is required to detect regressions as tools, policies and retrieved context change.",
+        "pt-BR": "Avaliação contínua específica do fluxo é necessária para detectar regressões quando ferramentas, políticas e contexto recuperado mudam."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "dep-human-workflows",
+      "group": "agentic-ai",
+      "from": "human-supervision",
+      "to": "agentic-workflows",
+      "relation": "governs",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Selective human escalation absorbs uncertain cases and sets the practical boundary of economically acceptable autonomy.",
+        "pt-BR": "Escalonamento humano seletivo absorve casos incertos e define a fronteira prática da autonomia economicamente aceitável."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "dep-workflows-tasks",
+      "group": "agentic-ai",
+      "from": "agentic-workflows",
+      "to": "task-recomposition",
+      "relation": "transmits",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "1-3y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Longer delegated workflows can shift human work toward specification, review, exception handling and workflow design before any aggregate employment effect is established.",
+        "pt-BR": "Fluxos delegados mais longos podem deslocar o trabalho humano para especificação, revisão, exceções e desenho de fluxos antes de qualquer efeito agregado sobre emprego estar estabelecido."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "id": "dep-procurement-relay",
+      "group": "cislunar-services",
+      "from": "public-space-procurement",
+      "to": "lunar-relay-pnt",
+      "relation": "finances",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Public service contracts provide early demand and revenue visibility for commercial lunar relay and navigation infrastructure.",
+        "pt-BR": "Contratos públicos de serviço fornecem demanda inicial e visibilidade de receita para infraestrutura comercial lunar de retransmissão e navegação."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "dep-standards-relay",
+      "group": "cislunar-services",
+      "from": "lunanet-standards",
+      "to": "lunar-relay-pnt",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Interoperability standards reduce integration burden and make shared services more reusable across missions and providers.",
+        "pt-BR": "Padrões de interoperabilidade reduzem o custo de integração e tornam serviços compartilhados mais reutilizáveis entre missões e provedores."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "dep-relay-missions",
+      "group": "cislunar-services",
+      "from": "lunar-relay-pnt",
+      "to": "lunar-missions",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Reusable communications and navigation services can lower the fixed integration burden for missions that would otherwise carry equivalent support capabilities.",
+        "pt-BR": "Serviços reutilizáveis de comunicação e navegação podem reduzir o custo fixo de integração de missões que, de outro modo, precisariam carregar capacidades equivalentes."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "dep-relay-scale",
+      "group": "cislunar-services",
+      "from": "lunar-relay-pnt",
+      "to": "cislunar-scale",
+      "relation": "enables",
+      "criticality": "medium",
+      "substitutability": "medium",
+      "confidence": "medium",
+      "horizon": "3-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Shared relay and PNT are one necessary layer for persistent operations, but they do not by themselves create a self-sustaining lunar economy.",
+        "pt-BR": "Retransmissão e PNT compartilhados são uma camada necessária para operações persistentes, mas não criam sozinhos uma economia lunar autossustentável."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "dep-surface-scale",
+      "group": "cislunar-services",
+      "from": "lunar-surface-constraints",
+      "to": "cislunar-scale",
+      "relation": "constrains",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "3-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Power, logistics, maintenance and surface infrastructure remain less mature and can cap the installed base even if communications mature sooner.",
+        "pt-BR": "Energia, logística, manutenção e infraestrutura de superfície permanecem menos maduras e podem limitar a base instalada mesmo que comunicação amadureça antes."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    },
+    {
+      "id": "dep-missions-scale",
+      "group": "cislunar-services",
+      "from": "lunar-missions",
+      "to": "cislunar-scale",
+      "relation": "demand",
+      "criticality": "high",
+      "substitutability": "low",
+      "confidence": "medium",
+      "horizon": "3-5y",
+      "last_verified": "2026-09-18",
+      "mechanism": {
+        "en": "Repeated demand across missions and customers is required for shared infrastructure to move from programme support toward a persistent service market.",
+        "pt-BR": "Demanda recorrente entre missões e clientes é necessária para que infraestrutura compartilhada passe de suporte programático para mercado persistente de serviços."
+      },
+      "research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
+    }
+  ]
+}

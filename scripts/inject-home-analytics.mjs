@@ -6,6 +6,7 @@ const root=process.cwd();
 const out=path.join(root,'dist');
 const cfg=JSON.parse(fs.readFileSync(path.join(root,'site.config.json'),'utf8'));
 const atlas=JSON.parse(fs.readFileSync(path.join(root,'data/structural-opportunities.json'),'utf8'));
+const dependency=JSON.parse(fs.readFileSync(path.join(root,'data/global-dependencies.json'),'utf8'));
 const reports=collectReports(root);
 const stateOrder=['blocking_inefficiency','exploitable_inefficiency','blocking_efficiency','leverageable_efficiency'];
 
@@ -32,6 +33,13 @@ const reportHref=(item,locale)=>{
 function labels(locale){
   return locale==='pt-BR'?{
     title:'Sistemas analíticos',
+    dependency:'Rede Global de Dependências',
+    dependencyKicker:'INTERDEPENDÊNCIAS SISTÊMICAS',
+    dependencyDeck:'Recursos, rotas, infraestrutura, tecnologia e capital conectados pelos mecanismos que transmitem choques e condicionam capacidade econômica.',
+    dependencyOpen:'Explorar rede',
+    dependencyNodes:'nós',
+    dependencyEdges:'relações',
+    dependencyCritical:'relações críticas',
     deck:'A pesquisa é acumulada em estruturas reutilizáveis: sinais, contexto e condições econômicas que podem bloquear valor ou criar alavancagem.',
     kicker:'INTELIGÊNCIA ACUMULADA',
     atlas:'Atlas de Oportunidades Estruturais',
@@ -62,6 +70,13 @@ function labels(locale){
     }
   }:{
     title:'Analytical systems',
+    dependency:'Global Dependency Network',
+    dependencyKicker:'SYSTEMIC INTERDEPENDENCIES',
+    dependencyDeck:'Resources, routes, infrastructure, technology and capital connected by the mechanisms that transmit shocks and condition economic capacity.',
+    dependencyOpen:'Explore network',
+    dependencyNodes:'nodes',
+    dependencyEdges:'relationships',
+    dependencyCritical:'critical relationships',
     deck:'Research accumulates into reusable structures: signals, context and economic conditions that can block value or create leverage.',
     kicker:'CUMULATIVE INTELLIGENCE',
     atlas:'Structural Opportunity Atlas',
@@ -91,6 +106,18 @@ function labels(locale){
       leverageable_efficiency:'Leverageable efficiency'
     }
   };
+}
+
+function dependencyPreview(locale,L){
+  const href=pagePath(locale,'/dependencies/');
+  const nodes=(dependency.nodes||[]).filter(n=>n.home_preview);
+  const ids=new Set(nodes.map(n=>n.id));
+  const edges=(dependency.edges||[]).filter(e=>e.home_preview&&ids.has(e.from)&&ids.has(e.to));
+  const nodeById=new Map(nodes.map(n=>[n.id,n]));
+  const critical=(dependency.edges||[]).filter(e=>e.criticality==='high').length;
+  const lines=edges.map(e=>{const a=nodeById.get(e.from).home_preview,b=nodeById.get(e.to).home_preview;const bend=Math.max(4,Math.abs(b.x-a.x)*.28);const d='M '+a.x+' '+a.y+' C '+(a.x+bend)+' '+a.y+', '+(b.x-bend)+' '+b.y+', '+b.x+' '+b.y;return '<path class="home-dependency-edge '+(e.criticality==='high'?'critical':'')+'" d="'+d+'"/>';}).join('');
+  const nodeHtml=nodes.map(n=>'<span class="home-dependency-node node-'+esc(n.type)+'" style="left:'+n.home_preview.x+'%;top:'+n.home_preview.y+'%"><b>'+esc(pick(n.label,locale))+'</b></span>').join('');
+  return '<article class="home-dependency-feature"><div class="home-dependency-copy"><span class="home-dependency-kicker">'+esc(L.dependencyKicker)+'</span><h3>'+esc(L.dependency)+'</h3><p>'+esc(L.dependencyDeck)+'</p><div class="home-dependency-metrics"><span><strong>'+nodes.length+'</strong>'+esc(L.dependencyNodes)+'</span><span><strong>'+edges.length+'</strong>'+esc(L.dependencyEdges)+'</span><span><strong>'+critical+'</strong>'+esc(L.dependencyCritical)+'</span></div><a href="'+esc(href)+'">'+esc(L.dependencyOpen)+' <span aria-hidden="true">→</span></a></div><a class="home-dependency-canvas" href="'+esc(href)+'" aria-label="'+esc(L.dependencyOpen)+'"><svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'+lines+'</svg>'+nodeHtml+'</a></article>';
 }
 
 function matrixCell(entry,state,count,locale,L){

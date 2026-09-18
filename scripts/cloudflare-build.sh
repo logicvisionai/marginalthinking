@@ -26,6 +26,9 @@ node scripts/render-site.mjs
 # Validate and render the Structural Opportunity Atlas from a compact, evidence-linked canonical dataset.
 node scripts/validate-structural-opportunities.mjs
 node scripts/render-structural-opportunities.mjs
+# Validate and render the cumulative dependency network from canonical research-linked relationships.
+node scripts/validate-global-dependencies.mjs
+node scripts/render-global-dependencies.mjs
 # Feature the public analytical systems on the homepage without coupling them to the core renderer.
 node scripts/inject-home-analytics.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
