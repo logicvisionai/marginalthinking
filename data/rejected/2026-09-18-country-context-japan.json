@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-18-japan",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-18T09:45:17-03:00",
+  "reviewed_commit": "9481df1bc1aefced4e2f4b1263473c9e5d8dd5d4",
+  "pending_blob_sha": "836a846e9ffe0d8fc9127934889d6c7510424457",
+  "source_blob_shas": {
+    "en": "b334b0efb14b4833d4f66b20182c3c80c50c6114",
+    "pt-BR": "916a658ff0f2c77f02c1cc11c4edd3cbce8fd363"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "factual_temporality",
+      "location_en": "Section 'Japan is leaving the zero-rate era while carrying a very large public balance sheet', structural-indicator table; section 'The country is a major external creditor even when trade is not consistently in surplus'; IIP chart.",
+      "location_pt_BR": "Seção 'O Japão está deixando a era de juros zero carregando um balanço público muito grande', tabela de indicadores estruturais; seção 'O país é grande credor externo mesmo quando o comércio não está sempre em superávit'; gráfico da posição internacional de investimentos.",
+      "issue": "The table labels the end-2025 net international investment position of ¥561.750 trillion as the 'Latest reference' / 'Referência mais recente', and the external-balance section and chart use that year-end snapshot as the current structural anchor. Japan's Ministry of Finance has already published a preliminary end-March 2026 IIP: total assets ¥1,849.649 trillion, liabilities ¥1,289.533 trillion and net IIP ¥560.116 trillion. Because the external creditor balance is central to the dossier's thesis, presenting the older year-end value under an explicit latest-reference heading is a material temporal mismatch.",
+      "evidence": [
+        "Japan Ministry of Finance, International Investment Position of Japan, end-March 2026 preliminary estimate: https://www.mof.go.jp/policy/international_policy/reference/iip/202606a.pdf",
+        "Japan Ministry of Finance, International Investment Position of Japan, end-2025: https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm"
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Update the IIP evidence to the latest available end-March 2026 preliminary estimate in both EN and PT-BR, including the structural-indicator table and quantitative chart, while explicitly marking the observation preliminary; or, if end-2025 is intentionally retained for an annual comparison, remove the claim that it is the latest reference and explain why the older annual snapshot is analytically preferred. The current external-balance thesis must remain consistent with whichever reference is used.",
+    "Keep EN/PT-BR values, units, period/status labels and analytical interpretation semantically identical after the correction.",
+    "Preserve the country-context identity, related_research_ids and controlled taxonomy unless a separately evidenced correction is necessary."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "country_context_contract": {
+      "result": "passed",
+      "summary": "The item is a v2 country-context country-dossier for Japan with country-level geography and four canonical related research IDs. Japan is materially involved in the referenced Global Macro corpus through BOJ normalization, yen/JGB transmission and energy-import exposure; the dossier adds reusable political, demographic, external-balance, energy and industrial context rather than a generic country profile."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Primary program political-economy-markets, related programs, all three dimensions, Japan geography, topics, event-driven cadence and demographic-transition phenomenon are controlled and substantively supported."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Both editions open directly with the analytical thesis, use finding-led headings, avoid exposed QA/template fields, connect economics, politics and society through mechanisms, and remain readable as institutional research. PT-BR is substantially localized rather than mechanically translated."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The dossier connects parliamentary institutions and BOJ independence, demographic aging and labor scarcity, fiscal pressure, external creditor status, energy dependence after Fukushima and industrial-policy adaptation. Historical context is tied to current mechanisms rather than presented as chronology."
+    },
+    "visual_evidence_readiness": {
+      "result": "blocked_by_factual_temporality",
+      "signature": {
+        "tables": 1,
+        "charts": 2,
+        "structural_visuals": ["flow", "map", "mindmap"],
+        "total": 6
+      },
+      "summary": "The country-dossier visual floor is exceeded and EN/PT-BR visual structure is semantically parallel. However, the IIP chart reproduces the same stale-as-latest temporal choice that blocks the factual gate, so visual readiness cannot pass until the IIP reference/status is corrected consistently in both editions."
+    },
+    "translation": {
+      "result": "passed_subject_to_same_factual_fix",
+      "summary": "The reviewed EN and PT-BR editions preserve the same thesis, quantitative evidence and visual mechanisms. The IIP temporal correction must be applied symmetrically."
+    }
+  },
+  "contrary_evidence": [
+    "The Ministry of Finance preliminary end-March 2026 IIP shows net IIP of ¥560.116 trillion, slightly below the ¥561.750 trillion end-2025 value, while gross external assets and liabilities both increased. This does not overturn the large-net-creditor thesis but demonstrates that the older value is not the latest available observation."
+  ],
+  "limitations": [
+    "Several structural energy indicators intentionally use FY2023 reference data; their older period is explicitly disclosed and they are not presented as current-month flows.",
+    "The September 18 BOJ rate decision is a same-day current-event observation and was cross-checked against contemporaneous reporting; future policy transmission remains inferential.",
+    "The geographic map is an analytical transmission map, not a bilateral-share dataset, and the text states that limitation."
+  ],
+  "notes": "No approval was created. The public corpus remains authoritative; this country-context item must return with corrected current IIP temporality before publication."
+}
