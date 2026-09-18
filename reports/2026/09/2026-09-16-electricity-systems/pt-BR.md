@@ -22,6 +22,25 @@ Isso não significa que todos os projetos em fila sejam economicamente viáveis 
 
 A consequência é uma mudança no local da escassez. Em sistemas com abundância de projetos de geração, um direito de conexão, um transformador, uma ampliação de subestação, um corredor de transmissão, um recurso despachável ou um contrato de demanda flexível pode se tornar economicamente mais importante do que mais um projeto de geração sem acesso à rede.
 
+### A diferença de escala aparece nos números físicos do sistema
+
+| Indicador do sistema | Escala reportada | Por que importa |
+|---|---:|---|
+| Capacidade renovável adicionada em 2025 | 692 GW | A geração está expandindo em escala recorde |
+| Capacidade renovável global ao fim de 2025 | 5.149 GW | A frota instalada já é grande |
+| Projetos em filas de conexão à rede | >2.500 GW | A capacidade de conexão está atrás da demanda de projetos |
+| Projetos avançados potencialmente liberados por conexões flexíveis e tecnologias de otimização de rede | 1.200–1.600 GW | Parte da fila pode avançar sem esperar corredores totalmente novos |
+| Potencialmente conectáveis por acordos não firmes | 750–900 GW | Regras operacionais podem liberar capacidade quando o corte de produção ou consumo é aceitável |
+| Investimento anual atual em redes | ~US$400 bi | A IEA estima necessidade de aumento de cerca de 50% até 2030 |
+
+```chart
+type: line
+title: Participação de solar e eólica na geração mundial de eletricidade
+unit: %
+Referência de 2026 | 17
+2030 | 27
+```
+
 ## 2. A matriz precisa ser analisada como sistema
 
 Capacidade elétrica não é sinônimo de eletricidade disponível.
@@ -85,6 +104,33 @@ A questão relevante é a composição.
 Ativos de geração frequentemente apresentam tecnologias padronizadas, economias unitárias mais claras e ciclos de desenvolvimento menores. Transmissão e distribuição dependem de retorno regulado, planejamento público, licenciamento, aquisição de terras, equipamentos com prazo longo e decisões políticas sobre quem paga. Isso cria tendência estrutural para que propostas de geração apareçam mais rapidamente do que a capacidade de rede.
 
 Esse descompasso temporal é uma restrição industrial e institucional, não apenas de engenharia.
+
+```mindmap
+Por que capacidade instalada não é o mesmo que eletricidade efetivamente entregue
+- Geração
+  - novas renováveis
+  - capacidade convencional
+- Redes
+  - transmissão
+  - distribuição
+  - filas de conexão
+- Flexibilidade
+  - armazenamento
+  - resposta da demanda
+  - conexões não firmes
+- Equipamentos
+  - transformadores
+  - cabos
+  - eletrônica de potência
+- Alocação de capital
+  - investimento regulado em redes
+  - financiamento da geração
+  - data centers e cargas industriais
+```
+
+```flow
+Nova geração e grandes cargas → fila de conexão → estudo da rede e disponibilidade de equipamentos → conexão firme ou flexível → eletricidade efetivamente entregue → receita, confiabilidade e capacidade industrial
+```
 
 ## 6. Distribuição de capacidade e poder
 

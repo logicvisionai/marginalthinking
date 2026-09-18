@@ -36,6 +36,23 @@ Em materiais para baterias, a cadeia pode continuar por cátodos e ânodos, cél
 
 O erro analítico é tratar propriedade das reservas geológicas como equivalente a controle do material utilizável.
 
+### A concentração continua aumentando justamente no processamento
+
+| Indicador | Referência anterior | Referência mais recente / futura | Leitura |
+|---|---:|---:|---|
+| Participação média do principal país no refino, excluindo terras raras | 70% em 2023 | 72% em 2025 | A concentração do refino aumentou |
+| Participação da China na capacidade mundial de fundição de cobre | ~15% em 2005 | ~50% em 2025 | A capacidade de processamento se deslocou fortemente para a China |
+| Déficit projetado de oferta de cobre em 2035 | ~30% na projeção anterior | 25% na projeção atual | O déficit projetado diminuiu, mas continua material |
+| Compromissos de financiamento público para minerais críticos em economias avançadas | Base de 2023 | ~US$65 bi em 2025, mais de 4× 2023 | A diversificação está atraindo mais capital público |
+
+```chart
+type: line
+title: Participação média do principal país no refino, excluindo terras raras
+unit: %
+2023 | 70
+2025 | 72
+```
+
 ## 3. O cobre mostra a mudança da geologia para o processamento
 
 O cobre é essencial para redes elétricas, motores, transformadores, edificações, eletrônica e diversas formas de eletrificação.
@@ -75,6 +92,39 @@ Projetos de mineração fora dos fornecedores dominantes podem avançar enquanto
 Diferenças de custo também são materiais. A IEA estima que o custo de capital de plantas de refino fora do fornecedor dominante pode ser **20% a mais de 150% superior**, dependendo do mineral e da jurisdição, enquanto custos operacionais podem ser cerca de **50% maiores** em alguns casos.
 
 Diversificar exige, portanto, um mecanismo econômico e não apenas um objetivo estratégico. Contratos de longo prazo, demanda âncora, pisos de preço, incentivos tributários, compras públicas, financiamento concessional ou estoques estratégicos podem alterar a economia do projeto, mas cada instrumento transfere custo ou risco para outro agente.
+
+```mindmap
+O poder em minerais críticos se distribui por uma cadeia
+- Geologia e extração
+  - qualidade do recurso
+  - desenvolvimento de minas
+  - licenciamento e infraestrutura
+- Processamento
+  - capacidade de refino
+  - fundição
+  - conversão química
+- Insumos industriais
+  - energia
+  - equipamentos
+  - trabalho qualificado
+- Poder a jusante
+  - baterias
+  - redes elétricas
+  - eletrônicos
+  - defesa e manufatura avançada
+- Restrições à diversificação
+  - investimento inicial mais alto
+  - custos operacionais mais altos
+  - prazos longos de projeto
+```
+
+```map
+title: Papéis geográficos destacados pelas evidências de minerais críticos em 2026
+China | Concentração do processamento | Posição dominante no refino da maior parte dos minerais energéticos e forte expansão na fundição de cobre
+Indonésia | Refino de níquel | Principal posição no refino de níquel
+RDC e Zâmbia | Nova oferta de cobre | Novos projetos de mineração ajudam a reduzir o déficit projetado de longo prazo
+Economias avançadas | Financiamento da diversificação | Compromissos públicos para projetos de minerais críticos cresceram fortemente até 2025
+```
 
 ## 6. Energia e materiais dependem um do outro
 

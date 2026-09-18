@@ -22,6 +22,25 @@ This does not imply that all queued projects are economically viable or will be 
 
 The consequence is a change in where scarcity sits. In systems with abundant generation proposals, a connection right, transformer slot, substation upgrade, transmission corridor, dispatchable resource or flexible demand contract can become more economically important than another generation project with no path to the grid.
 
+### The scale mismatch is visible in the physical numbers
+
+| System indicator | Reported scale | Why it matters |
+|---|---:|---|
+| Renewable capacity added in 2025 | 692 GW | Generation capacity is expanding at record scale |
+| Global renewable capacity at end-2025 | 5,149 GW | The installed fleet is already large |
+| Projects in grid-connection queues | >2,500 GW | Connection capacity is lagging project demand |
+| Advanced projects potentially enabled by flexible connections and grid-enhancing technologies | 1,200–1,600 GW | Part of the queue can be addressed without waiting for entirely new corridors |
+| Potentially connectable through non-firm agreements | 750–900 GW | Operating rules can release capacity where curtailment is acceptable |
+| Current annual grid investment | ~US$400bn | The IEA estimates roughly 50% more is needed by 2030 |
+
+```chart
+type: line
+title: Solar and wind share of global electricity generation
+unit: %
+2026 reference | 17
+2030 | 27
+```
+
 ## 2. The system has to be analysed as a system
 
 Electricity capacity is not equivalent to electricity availability.
@@ -85,6 +104,33 @@ The relevant issue is composition.
 Generation assets often have clear unit economics, standardised technologies and shorter development cycles. Transmission and distribution projects face regulated returns, public planning, permitting, land acquisition, long equipment lead times and political allocation of costs. That creates a structural tendency for generation proposals to arrive faster than network capacity.
 
 The timing mismatch is an industrial and institutional constraint, not only an engineering constraint.
+
+```mindmap
+Why electricity capacity is not the same as deliverable power
+- Generation
+  - renewable additions
+  - conventional capacity
+- Networks
+  - transmission
+  - distribution
+  - interconnection queues
+- Flexibility
+  - storage
+  - demand response
+  - non-firm connections
+- Equipment
+  - transformers
+  - cables
+  - power electronics
+- Capital allocation
+  - regulated grid investment
+  - generation finance
+  - data-centre and industrial load
+```
+
+```flow
+New generation and large loads → connection queue → network study and equipment availability → firm or flexible connection → actual delivered electricity → revenue, reliability and industrial capacity
+```
 
 ## 6. Distribution of capacity and power
 

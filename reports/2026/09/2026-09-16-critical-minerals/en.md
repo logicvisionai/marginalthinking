@@ -36,6 +36,23 @@ For battery materials, the path can extend into cathode and anode materials, cel
 
 The analytical error is to treat ownership of geological reserves as equivalent to control of the usable material.
 
+### Concentration is still increasing where processing matters
+
+| Indicator | Earlier reference | Latest / forward reference | Interpretation |
+|---|---:|---:|---|
+| Average leading-country share of refining, excluding rare earths | 70% in 2023 | 72% in 2025 | Refining concentration increased |
+| China's share of global copper-smelting capacity | ~15% in 2005 | ~50% in 2025 | Processing capacity shifted strongly toward China |
+| Projected copper supply gap in 2035 | ~30% in the previous outlook | 25% in the current outlook | The projected deficit narrowed but remains material |
+| Public-finance commitments for critical minerals in advanced economies | 2023 baseline | ~US$65bn in 2025, more than 4× 2023 | Diversification is attracting more public capital |
+
+```chart
+type: line
+title: Average share of the leading refining country, excluding rare earths
+unit: %
+2023 | 70
+2025 | 72
+```
+
 ## 3. Copper illustrates the transition from geology to processing
 
 Copper is essential to grids, motors, transformers, buildings, electronics and many forms of electrification.
@@ -75,6 +92,39 @@ Mining projects outside dominant suppliers can advance while refining, precursor
 Cost differences are also material. The IEA finds that capital costs for refining projects outside the dominant supplier can be **20% to more than 150% higher**, depending on the mineral and jurisdiction, while operating costs can be around **50% higher** in some cases.
 
 Diversification therefore requires an economic mechanism, not only a strategic objective. Long-term contracts, anchor demand, price floors, tax incentives, public procurement, concessional finance or strategic stockpiles can change project economics, but each mechanism transfers cost or risk to another actor.
+
+```mindmap
+Critical-mineral power is distributed across a chain
+- Geology and extraction
+  - resource quality
+  - mine development
+  - permitting and infrastructure
+- Processing
+  - refining capacity
+  - smelting
+  - chemical conversion
+- Industrial inputs
+  - energy
+  - equipment
+  - skilled labour
+- Downstream leverage
+  - batteries
+  - grids
+  - electronics
+  - defence and advanced manufacturing
+- Diversification constraints
+  - higher capex
+  - higher operating costs
+  - long project timelines
+```
+
+```map
+title: Geographic roles highlighted by the 2026 critical-minerals evidence
+China | Processing concentration | Dominant refining position across most key energy minerals and major copper-smelting expansion
+Indonesia | Nickel refining | Leading refining position in nickel
+DRC and Zambia | New copper supply | New mine projects help narrow the projected long-run copper gap
+Advanced economies | Diversification finance | Public commitments for critical-mineral projects rose sharply by 2025
+```
 
 ## 6. Energy and materials are mutually dependent
 
