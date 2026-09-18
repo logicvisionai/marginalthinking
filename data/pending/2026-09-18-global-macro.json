@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-18",
+  "slug": "2026-09-18-global-macro",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T04:12:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-18-global-macro/en.md",
+      "title": "Global Macro Daily — September 18, 2026",
+      "deck": "Lower oil is easing immediate inflation tail risk while the Fed, BOE and BOJ keep global financing conditions restrictive; Japan, European gas and Gulf logistics reveal where the next cross-asset divergences sit.",
+      "tags": ["global macro", "Federal Reserve", "Bank of Japan", "Bank of England", "oil", "Treasuries", "yen", "Europe gas", "India", "Brazil"],
+      "keywords": ["Brent", "WTI", "USD/JPY", "Treasury yields", "S&P 500", "Nasdaq", "European gas storage", "Saudi East-West Pipeline", "Hormuz", "rupee", "real"],
+      "regime": "Restrictive but more orderly: lower crude tail risk is supporting risk assets while policy rates and long sovereign yields remain high.",
+      "key_risk": "Renewed Gulf physical disruption or persistent European gas/refined-product tightness could reaccelerate inflation while central banks are already tightening.",
+      "watch": ["Verified Saudi/Gulf export flows and refined-product spreads", "U.S. 2Y and 10Y Treasury yields", "USD/JPY and short JGB yields after the BOJ hike", "European gas storage and prices"],
+      "search_text": "September 18 2026 global macro markets Fed BOJ BOE oil Saudi Hormuz Treasury yields yen European gas India Brazil cross asset"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-18-global-macro/pt-BR.md",
+      "title": "Global Macro Diário — 18 de setembro de 2026",
+      "deck": "A queda do petróleo reduz o risco extremo de inflação enquanto Fed, BOE e BOJ mantêm as condições globais de financiamento restritivas; Japão, gás europeu e logística do Golfo mostram onde estão as próximas divergências entre mercados.",
+      "tags": ["macro global", "Federal Reserve", "Banco do Japão", "Banco da Inglaterra", "petróleo", "Treasuries", "iene", "gás europeu", "Índia", "Brasil"],
+      "keywords": ["Brent", "WTI", "USD/JPY", "juros dos Treasuries", "S&P 500", "Nasdaq", "estoques europeus de gás", "oleoduto East-West", "Hormuz", "rupia", "real"],
+      "regime": "Restritivo, porém mais ordenado: menor risco extremo no petróleo sustenta ativos de risco enquanto juros básicos e soberanos de prazo longo continuam elevados.",
+      "key_risk": "Nova interrupção física no Golfo ou persistência da escassez relativa de gás europeu e derivados pode reacelerar a inflação enquanto bancos centrais já apertam a política monetária.",
+      "watch": ["Fluxos verificados de exportação da Arábia Saudita/Golfo e spreads de derivados", "Treasuries de 2 e 10 anos", "USD/JPY e juros curtos japoneses após a alta do BOJ", "Estoques e preços de gás na Europa"],
+      "search_text": "18 setembro 2026 macro global mercados Fed BOJ BOE petróleo Arábia Saudita Hormuz Treasuries iene gás europeu Índia Brasil cross asset"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "sovereign-debt", "energy", "commodities-resources", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "defense-security", "political-stability"],
+  "format": "brief",
+  "cadence": "daily"
+}
