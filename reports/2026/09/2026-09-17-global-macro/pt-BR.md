@@ -12,6 +12,32 @@ A leitura mais útil, portanto, não é que o risco energético desapareceu, mas
 4. **A diferenciação asiática aumentou.** China e Hong Kong enfraqueceram, enquanto o Japão avançou modestamente e o iene negociou na região de 155–156 por dólar. As ações sul-coreanas resistiram, mas investidores estrangeiros permaneceram vendedores líquidos.
 5. **O Brasil passa a negociar com diferencial de juros menor.** O Copom reduziu a Selic para 13,75% após o fechamento de quarta-feira, enquanto o Fed fez o movimento oposto.
 
+### Painel entre classes de ativos
+
+| Mercado / indicador | Leitura em 17 de setembro | O que representa |
+|---|---:|---|
+| Faixa dos Fed Funds | 3,75%–4,00% | Aperto na parte curta após alta de 0,25 ponto |
+| Treasury de 2 anos | ~4,71% | Expectativas para juros curtos e política monetária |
+| Treasury de 10 anos | ~4,99% | Referência para financiamento de prazo mais longo |
+| Brent | ~US$104–105/barril | Energia e risco logístico no Golfo |
+| WTI | ~US$101/barril | Referência do petróleo americano |
+| VIX | ~17,7 | Volatilidade de ações |
+| MOVE | ~80,7 | Volatilidade dos juros dos Treasuries |
+| DXY | ~100,3 | Condições amplas do dólar |
+
+```chart
+type: bar
+title: Movimentos selecionados no retrato de 17 de setembro
+unit: %
+Bolsas europeias | 0.5
+Nikkei | 0.3
+CSI 300 / Xangai | -0.4
+JSE Top-40 | 0.6
+Rand sul-africano vs. USD | 0.6
+```
+
+Na linha da moeda, valor positivo representa valorização do rand frente ao dólar; o gráfico é um retrato entre mercados, não uma série de retornos ajustados ao risco.
+
 ## Radar global de bolsas
 
 O sinal relevante é de alívio seletivo, não de alta global sincronizada. Bolsas europeias subiam cerca de 0,5% no início da sessão, com viagens e tecnologia à frente enquanto o petróleo recuava e os juros soberanos paravam de subir. Companhias aéreas e transportadoras se beneficiam diretamente se o combustível ficar mais barato, embora diesel e combustível de aviação ainda caros limitem essa melhora.
@@ -76,6 +102,38 @@ Bitcoin negociava perto de US$76 mil e Ether ao redor de US$2.430. Os preços à
 4. **Ações coreanas resistem, estrangeiros vendem:** o preço não é confirmado pelos fluxos transfronteiriços.
 5. **China/Hong Kong caem enquanto Europa sobe:** a Europa recebe alívio imediato do petróleo importado mais barato, enquanto China/Hong Kong enfrentam diferencial de juros em dólar menos favorável e demanda doméstica fraca.
 6. **Bitcoin estável, fluxo de ETFs negativo:** estabilidade de preço não equivale a nova entrada institucional.
+
+```map
+title: Transmissão regional do choque macroeconômico atual
+Golfo | Logística de exportação e exposição fiscal | Segurança marítima, seguro e capacidade de desvio afetam a oferta efetiva de energia
+Europa | Alívio do custo de importação | Petróleo mais barato reduz parte da pressão sobre transporte e margens intensivas em energia
+Ásia | Transmissão dos juros em dólar | O efeito varia conforme regime cambial, demanda doméstica e sensibilidade a fluxos externos
+Brasil | Ajuste do diferencial de juros | A Selic cai enquanto o Fed aperta, reduzindo a vantagem nominal de carry
+```
+
+```mindmap
+Interrupção no Golfo e transmissão global
+- Sistema físico de energia
+  - tráfego em Hormuz
+  - rotas alternativas sauditas e dos Emirados
+  - disponibilidade de diesel e combustível de aviação
+- Precificação de mercado
+  - referências do petróleo
+  - frete e seguro
+  - compensação inflacionária
+- Condições financeiras
+  - política do Fed
+  - juros dos Treasuries
+  - custo de refinanciamento
+- Economia real
+  - decisões fiscais
+  - margens de transporte
+  - renda real das famílias
+```
+
+```flow
+Interrupção marítima → frete, seguro e capacidade efetiva de transporte → custo da energia entregue → inflação e decisões fiscais → renda real das famílias e margens empresariais → juros, crédito e preços de ativos
+```
 
 ## O conflito no Golfo importa pela logística de energia e pelas condições de financiamento
 

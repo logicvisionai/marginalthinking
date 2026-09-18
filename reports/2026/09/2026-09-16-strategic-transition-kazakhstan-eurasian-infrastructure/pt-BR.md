@@ -22,6 +22,27 @@ Três forças se reforçam. Europa e economias asiáticas buscam rotas comerciai
 
 O mecanismo de transmissão é verificável: ferrovia mais confiável pode reduzir tempo e custo de transporte; menor fricção comercial aumenta o retorno de produção exportadora; financiamento de infraestrutura pode aprofundar mercados de capitais; e nova capacidade elétrica pode atender cargas industriais. Nenhum desses resultados é automático.
 
+### Financiamento já associado à transição
+
+| Iniciativa | Escala | Situação na evidência utilizada | Horizonte / finalidade |
+|---|---:|---|---|
+| Nova ferrovia do Corredor Médio | US$1,41 bi de financiamento comercial mobilizado por garantia IBRD de US$846 mi | Estrutura de financiamento aprovada | Ligação de 322,3 km; capacidade e tempo de trânsito até 2030 |
+| Eurobond da Kazakhstan Railways | Até US$1,0 bi | Emissão no mercado de capitais; EBRD investe até US$125 mi | Estações e melhorias transcaspianas |
+| Operação de política do Banco Mundial | US$600 mi | Financiamento de políticas aprovado | Concorrência, finanças, preços de energia, conectividade, proteção social e água |
+| Plataforma de transição energética QaJET | Meta de cerca de US$20 bi | Meta de investimento, não capital comprometido | 10 GW de nova capacidade renovável até 2035 |
+
+```chart
+type: bar
+title: Valores selecionados já financiados ou emitidos para infraestrutura
+unit: US$ bi
+Financiamento comercial do Corredor Médio | 1.41
+Eurobond da KTZ, até | 1.0
+Operação de reformas do Banco Mundial | 0.6
+Participação do EBRD no bond da KTZ, até | 0.125
+```
+
+O gráfico exclui deliberadamente a meta de US$20 bilhões da QaJET porque ela representa uma ambição de investimento, não financiamento já mobilizado na mesma base.
+
 ## Base estrutural
 
 O Cazaquistão continua grande produtor de hidrocarbonetos e minerais, com presença estatal elevada. O Artigo IV do FMI concluído em janeiro de 2026 identificou crescimento rápido, superaquecimento, inflação acima da meta, crédito ao consumidor em expansão e atividade parafiscal que compensa parte da consolidação orçamentária. O FMI afirma explicitamente que a presença do Estado restringe o desenvolvimento privado.
@@ -46,6 +67,28 @@ O mercado de trabalho é estável no indicador principal: o desemprego foi 4,5% 
 
 A expansão de infraestrutura terá base política mais forte se produtividade se converter em renda real e empregos fora dos setores extrativos. Emprego e salários em transporte e armazenagem, treinamento técnico, acesso regional e distribuição dos ganhos devem ser acompanhados junto com PIB e carga ferroviária.
 
+```mindmap
+Plataforma de transição do Cazaquistão
+- Logística eurasiática
+  - capacidade do Corredor Médio
+  - portos e conexões transcaspianas
+- Recursos e produção
+  - hidrocarbonetos
+  - minerais críticos
+  - processamento potencial
+- Sistema energético
+  - investimento renovável
+  - reforma tarifária
+- Capital e instituições
+  - acesso ao mercado de Eurobonds
+  - mobilização de capital privado
+  - presença estatal e regulação
+- Sociedade e trabalho
+  - salários reais
+  - qualificação e empregos
+  - distribuição dos ganhos do investimento
+```
+
 ## Conexão entre economia, política e sociedade
 
 As instituições públicas definem tarifas, concorrência e condições de investimento. Essas regras determinam se capital privado consegue financiar ferrovia, eletricidade e indústria. Os projetos podem reduzir custos logísticos e criar empregos, mas as famílias só ganham de forma sustentada se salários reais, serviços e oportunidades regionais melhorarem. Se a inflação absorver os ganhos nominais ou empresas estatais expulsarem concorrentes privados, o retorno social e econômico será menor que o investimento anunciado.
@@ -65,6 +108,19 @@ O país oferece acesso via Kazakhstan Stock Exchange, Astana International Excha
 ## Catalisadores
 
 Os próximos catalisadores incluem execução da nova ferrovia, expansão do porto de Aktau, novos financiamentos da KTZ, reforma tarifária, compromissos efetivos da QaJET, investimento coreano concreto após os acordos de setembro e melhor coordenação aduaneira e fronteiriça do Corredor Médio.
+
+```map
+title: Relações externas que moldam a transição de infraestrutura do Cazaquistão
+Cazaquistão | Plataforma central de produção e logística | Ferrovias, recursos, investimento elétrico e reformas domésticas determinam a execução
+Cáspio e Cáucaso | Corredor de trânsito para o oeste | Capacidade da rota e interoperabilidade determinam a escala do Corredor Médio
+Coreia do Sul | Cooperação tecnológica e industrial | Acordos em nuclear, energia, minerais e tecnologia ampliam potenciais parcerias
+Europa | Capital e mercados de destino | Participação do EBRD e comércio para oeste conectam infraestrutura a capital e demanda europeus
+Ásia Central | Efeitos de rede regionais | Logística transfronteiriça e integração alteram o valor da posição de hub do Cazaquistão
+```
+
+```flow
+Capacidade financiada em transporte e serviços públicos → menores restrições logísticas e de infraestrutura → investimento privado mais crível → processamento, comércio e acesso a mercados → produtividade, empregos e capacidade fiscal → maior peso econômico eurasiático
+```
 
 ## Riscos e transmissão
 

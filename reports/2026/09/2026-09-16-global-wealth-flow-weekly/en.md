@@ -40,6 +40,14 @@ COFER shows $13.10 trillion of global foreign-exchange reserves in 2026Q1. The d
 
 Official gold buying was 57 tonnes in Q1 and 289 tonnes in Q2 according to the revised World Gold Council series. The first-half total was 345 tonnes. Poland was the largest reported buyer in Q2 and China accelerated reported accumulation. The evidence supports continued diversification demand but rejects a smooth, continuously accelerating purchase path.
 
+```chart
+type: bar
+title: Net official gold purchases reported by the World Gold Council
+unit: t
+2026 Q1 | 57
+2026 Q2 | 289
+```
+
 ## Sovereign debt, equities, credit and portfolio flows
 
 June TIC shows that foreign investors continued to absorb U.S. long-term securities. The sequence from April ($103.1 billion adjusted long-term net foreign purchases), May ($232.7 billion) and June ($172.7 billion) indicates persistent demand, though monthly volatility is substantial.
@@ -80,6 +88,35 @@ UNCTAD's greenfield data show capital concentrating in AI infrastructure, semico
 
 The transmission mechanism is concrete: more compute requires chips, buildings, cooling, grid connections and generation. Where grid connection, generation or construction capacity cannot expand at the same speed, those constraints can delay deployment and redirect investment geographically.
 
+```map
+title: Main geographic and institutional flow channels in this edition
+North America | Foreign demand for U.S. securities | TIC data show net purchases and stronger adjusted long-term inflows
+Global banking system | Cross-border borrowers | BIS claims expanded materially in the first quarter
+Official sector | Gold reserves | Central-bank purchases accelerated from Q1 to Q2
+Global strategic industry | AI, chips, minerals and energy infrastructure | Greenfield commitments are concentrating in strategic sectors
+Oil trade | Importers to exporters | Higher unit energy payments redistribute income without changing asset ownership
+```
+
+```mindmap
+How this monitor separates wealth and capacity movements
+- Financial claims
+  - sovereign debt
+  - equities and funds
+  - cross-border bank credit
+- Official reserves
+  - reserve currencies
+  - monetary gold
+- Productive capacity
+  - energy and grids
+  - chips and data centres
+  - minerals and processing
+- Classification discipline
+  - stock
+  - flow
+  - valuation
+  - change of control
+```
+
 ## Wealth Transfer Matrix
 
 | Origin | Destination | Mechanism | Evidence | Classification | Confidence |
@@ -102,6 +139,10 @@ The transmission mechanism is concrete: more compute requires chips, buildings, 
 **Confirmed:** strong Q1 cross-border bank expansion; continued U.S. portfolio inflows through June; Q2 rebound in official gold buying; increased strategic-sector share of greenfield investment; high mineral-refining concentration.
 
 **Preliminary:** whether higher energy prices persist long enough to materially alter current-account positions; whether data-centre electricity demand causes durable geographic relocation of compute investment; whether new rare-earth projects materially reduce refining concentration beyond the modest 2023-25 improvement.
+
+```flow
+Capital or income flow → financing and ownership channel → productive or fiscal capacity → future claims on profits, interest, royalties or tariffs → change in economic and political leverage
+```
 
 ## Second-order risks
 

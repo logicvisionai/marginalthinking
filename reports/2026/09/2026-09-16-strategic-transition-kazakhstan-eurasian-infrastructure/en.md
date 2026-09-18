@@ -22,6 +22,27 @@ Three forces are reinforcing one another. First, Europe and Asian economies want
 
 This creates a transmission mechanism: corridor investment can reduce transport time and cost; lower trade frictions can raise the return on export-oriented production; deeper infrastructure financing can broaden domestic capital markets; and energy investment can support new industrial loads. None of these outcomes is automatic.
 
+### Financing already attached to the transition
+
+| Initiative | Scale | Status in the evidence used here | Horizon / purpose |
+|---|---:|---|---|
+| Middle Corridor greenfield rail financing | US$1.41bn commercial financing mobilised by an US$846m IBRD guarantee | Financed structure approved | 322.3 km rail link; capacity and transit-time improvement toward 2030 |
+| Kazakhstan Railways Eurobond | Up to US$1.0bn | Capital-market issuance; EBRD investment up to US$125m | Stations and Trans-Caspian upgrades |
+| World Bank development-policy operation | US$600m | Approved policy financing | Competition, finance, energy pricing, connectivity, social protection and water |
+| QaJET energy-transition platform | About US$20bn target | Investment target, not committed capital | 10 GW of new renewable capacity by 2035 |
+
+```chart
+type: bar
+title: Selected financed or issued infrastructure-related amounts
+unit: US$bn
+Middle Corridor commercial financing | 1.41
+KTZ Eurobond, up to | 1.0
+World Bank reform operation | 0.6
+EBRD participation in KTZ bond, up to | 0.125
+```
+
+The chart deliberately excludes the QaJET US$20bn target because it is an investment ambition rather than financing already mobilised on the same basis.
+
 ## Structural baseline
 
 Kazakhstan remains a major hydrocarbon and mineral producer with a large state role. The IMF's 2025 Article IV, concluded in January 2026, found rapid growth but clear overheating, inflation above target, rapid consumer-credit growth and quasi-fiscal activity that offsets part of planned budget consolidation. The IMF explicitly argues that the state footprint constrains private-sector development.
@@ -46,6 +67,28 @@ The labour market is stable in headline terms: official statistics put unemploym
 
 This matters because infrastructure-led growth will be politically stronger if productivity gains translate into real household income and jobs outside extractive sectors. Transport and warehousing wages and employment, technical training, regional access and the distribution of investment gains should therefore be monitored alongside GDP and freight volumes.
 
+```mindmap
+Kazakhstan's transition platform
+- Eurasian logistics
+  - Middle Corridor rail capacity
+  - ports and Trans-Caspian links
+- Resources and production
+  - hydrocarbons
+  - critical minerals
+  - prospective processing
+- Energy system
+  - renewable investment
+  - utility pricing reform
+- Capital and institutions
+  - Eurobond market access
+  - private-capital mobilisation
+  - state footprint and regulation
+- Society and labour
+  - real wages
+  - skills and jobs
+  - distribution of investment gains
+```
+
 ## Connecting economy, politics and society
 
 The causal chain is straightforward. Public institutions set tariffs, competition rules and investment conditions. Those rules determine whether private capital can finance rail, power and industrial capacity. The resulting projects can lower logistics costs and create jobs, but households benefit only if real wages, services and regional opportunities improve. If inflation absorbs nominal wage gains or state-owned enterprises crowd out private firms, the social and economic return will be weaker than the infrastructure headline suggests.
@@ -65,6 +108,19 @@ Kazakhstan offers local and international market access through the Kazakhstan S
 ## Catalysts
 
 Near-term catalysts include execution of the new rail line, Aktau port capacity expansion, further KTZ financing, implementation of tariff reforms, QaJET project commitments, concrete Korean investment following the September agreements, and progress on the Middle Corridor's border and customs coordination.
+
+```map
+title: External relationships shaping Kazakhstan's infrastructure transition
+Kazakhstan | Core production and logistics platform | Rail, resources, power investment and domestic reform determine execution
+Caspian and Caucasus | Westbound transit corridor | Route capacity and interoperability determine whether the Middle Corridor scales
+South Korea | Technology and industrial cooperation | Nuclear, energy, minerals and technology agreements broaden prospective partnerships
+Europe | Finance and destination markets | EBRD participation and westbound trade link infrastructure to European capital and demand
+Central Asia | Regional network effects | Cross-border logistics and integration affect the value of Kazakhstan's hub position
+```
+
+```flow
+Financed transport and utility capacity → lower logistics and infrastructure constraints → more credible private investment → processing, trade and market access → productivity, jobs and fiscal capacity → stronger Eurasian economic leverage
+```
 
 ## Risks and transmission
 

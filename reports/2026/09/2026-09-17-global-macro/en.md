@@ -12,6 +12,32 @@ The more useful reading is therefore not that energy risk has disappeared, but t
 4. **Asian market differentiation increased.** China and Hong Kong weakened while Japan advanced modestly and the yen traded around 155–156 per dollar. South Korean equities were resilient, but foreign investors remained net sellers.
 5. **Brazil begins trading a narrower interest differential.** Copom cut Selic to 13.75% after Wednesday's close while the Fed moved in the opposite direction.
 
+### Cross-asset snapshot
+
+| Market / indicator | September 17 reading | What it captures |
+|---|---:|---|
+| Fed Funds target range | 3.75%–4.00% | Front-end policy tightening after the 25-bp increase |
+| U.S. Treasury 2-year | ~4.71% | Short-rate and policy expectations |
+| U.S. Treasury 10-year | ~4.99% | Long-duration financing benchmark |
+| Brent | ~US$104–105/bbl | Energy and Gulf-logistics risk |
+| WTI | ~US$101/bbl | U.S. crude benchmark |
+| VIX | ~17.7 | Equity volatility |
+| MOVE | ~80.7 | Treasury-rate volatility |
+| DXY | ~100.3 | Broad dollar conditions |
+
+```chart
+type: bar
+title: Selected market moves at the September 17 snapshot
+unit: %
+European equities | 0.5
+Nikkei | 0.3
+China CSI 300 / Shanghai | -0.4
+JSE Top-40 | 0.6
+South African rand vs USD | 0.6
+```
+
+For the currency row, a positive value denotes rand appreciation against the dollar; the chart is a cross-market snapshot, not a common risk-adjusted return series.
+
 ## Global equity radar
 
 The important signal is selective relief rather than a synchronized global rally. European shares rose about 0.5% in early trade, with travel and technology outperforming as crude fell and sovereign yields stopped rising. Airlines and transport operators benefit directly if fuel costs fall, although tight diesel and jet-fuel markets limit the pass-through.
@@ -76,6 +102,38 @@ Bitcoin traded around $76,000 and Ether around $2,430. Spot prices were comparat
 4. **Korean equities resilient, foreign flows negative:** price action is not confirmed by cross-border flows.
 5. **China/Hong Kong weaker while Europe rises:** Europe receives immediate relief from cheaper imported crude while China/Hong Kong face a less favorable dollar-rate differential and weak domestic demand.
 6. **Bitcoin stable, ETF flows negative:** stable price is not equivalent to fresh institutional inflow.
+
+```map
+title: Regional transmission of the current macro shock
+Gulf | Export logistics and fiscal exposure | Shipping security, insurance and bypass capacity shape effective energy supply
+Europe | Import-cost relief | Lower crude eases part of the pressure on transport and energy-intensive margins
+Asia | Dollar-rate transmission | Effects differ with currency regimes, domestic demand and foreign-flow sensitivity
+Brazil | Interest-differential adjustment | Selic cuts while the Fed tightens, narrowing the nominal carry advantage
+```
+
+```mindmap
+Gulf disruption and global transmission
+- Physical energy system
+  - Hormuz traffic
+  - Saudi and Emirati bypass routes
+  - diesel and jet-fuel availability
+- Market pricing
+  - crude benchmarks
+  - freight and insurance
+  - inflation compensation
+- Financial conditions
+  - Fed policy
+  - Treasury yields
+  - refinancing costs
+- Real economy
+  - fiscal choices
+  - transport margins
+  - household real income
+```
+
+```flow
+Shipping disruption → freight, insurance and effective transport capacity → landed energy costs → inflation and fiscal choices → household real income and company margins → rates, credit and asset pricing
+```
 
 ## The Gulf conflict matters through energy logistics and financing conditions
 

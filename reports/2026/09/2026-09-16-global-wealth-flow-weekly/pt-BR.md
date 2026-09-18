@@ -40,6 +40,14 @@ O COFER registra US$ 13,10 trilhões em reservas cambiais globais no 1T26. A par
 
 O World Gold Council estima compras oficiais líquidas de 57 t no 1T e 289 t no 2T, totalizando 345 t no semestre. Polônia foi a maior compradora reportada no 2T e a China acelerou a acumulação informada. A evidência confirma demanda por diversificação, mas rejeita uma trajetória lisa de aceleração contínua.
 
+```chart
+type: bar
+title: Compras líquidas de ouro oficial reportadas pelo World Gold Council
+unit: t
+1T26 | 57
+2T26 | 289
+```
+
 ## Dívida soberana, ações, crédito e portfólio
 
 O TIC de junho mostra continuidade da absorção estrangeira de títulos americanos. As compras líquidas ajustadas de longo prazo foram US$ 103,1 bilhões em abril, US$ 232,7 bilhões em maio e US$ 172,7 bilhões em junho, com forte volatilidade mensal.
@@ -80,6 +88,35 @@ Os dados greenfield da UNCTAD mostram capital concentrando-se em infraestrutura 
 
 O mecanismo é direto: mais computação exige chips, edifícios, refrigeração, conexão à rede e geração. Onde conexão, geração ou construção não crescem no mesmo ritmo, essas restrições podem atrasar projetos e deslocar investimento para outras regiões.
 
+```map
+title: Principais canais geográficos e institucionais de fluxo nesta edição
+América do Norte | Demanda estrangeira por títulos dos EUA | Dados TIC mostram compras líquidas e entradas ajustadas de longo prazo mais fortes
+Sistema bancário global | Tomadores transfronteiriços | Os ativos externos dos bancos cresceram materialmente no primeiro trimestre
+Setor oficial | Reservas em ouro | As compras de bancos centrais aceleraram do primeiro para o segundo trimestre
+Indústria estratégica global | IA, chips, minerais e infraestrutura energética | Compromissos greenfield estão se concentrando em setores estratégicos
+Comércio de petróleo | Importadores para exportadores | Pagamentos unitários maiores por energia redistribuem renda sem mudar a propriedade dos ativos
+```
+
+```mindmap
+Como este monitor separa movimentos de riqueza e capacidade
+- Direitos financeiros
+  - dívida soberana
+  - ações e fundos
+  - crédito bancário transfronteiriço
+- Reservas oficiais
+  - moedas de reserva
+  - ouro monetário
+- Capacidade produtiva
+  - energia e redes
+  - chips e data centers
+  - minerais e processamento
+- Disciplina de classificação
+  - estoque
+  - fluxo
+  - valorização
+  - mudança de controle
+```
+
 ## Wealth Transfer Matrix
 
 | Origem | Destino | Mecanismo | Evidência | Classificação | Confiança |
@@ -102,6 +139,10 @@ O mecanismo é direto: mais computação exige chips, edifícios, refrigeração
 **Confirmados:** forte expansão bancária transfronteiriça no 1T; entradas de portfólio nos EUA até junho; recuperação das compras oficiais de ouro no 2T; maior participação de setores estratégicos no greenfield; concentração elevada do refino mineral.
 
 **Preliminares:** persistência do petróleo caro a ponto de alterar contas externas; relocalização duradoura de data centers por restrições elétricas; redução significativa da concentração de terras raras após a melhora modesta de 2023–25.
+
+```flow
+Fluxo de capital ou renda → canal de financiamento e propriedade → capacidade produtiva ou fiscal → direitos futuros sobre lucros, juros, royalties ou tarifas → mudança de capacidade econômica e política
+```
 
 ## Riscos de segunda ordem
 
