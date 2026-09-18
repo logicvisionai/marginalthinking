@@ -239,6 +239,20 @@ context: update dynamic research memory YYYY-MM-DDTHHMM
 - Keep sources sufficiently specific that a future producer can re-open and verify them.
 - Do not let context default to market/economic structure when the canonical research materially implicates political, historical or social mechanisms.
 
+## 13.1 Technology signal ledger is not research context
+
+`data/technology-signals.json` is a separate short-horizon operational ledger governed by `TECHNOLOGY-SIGNALS.md`. It tracks candidates that may strengthen, weaken or disappear before they deserve public research.
+
+Do not copy candidate signals into `research-context/**` merely because they are being monitored. Durable technological context should enter the normal context-maintenance loop only after canonical published research or other sufficiently established evidence creates reusable structural knowledge.
+
+The separation is intentional:
+
+- technology signal ledger = what may be changing and deserves another look;
+- research context = what has become durable enough to reduce future research cost;
+- public research = externally verified, bilingual, QA-approved analysis.
+
+Both internal layers remain orientation rather than evidence.
+
 ## 14. Public exposure
 
 This layer remains internal only. `research-context/` is not copied by `scripts/cloudflare-build.sh` and should not receive public routes, navigation items or search indexing.
