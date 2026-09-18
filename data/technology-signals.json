@@ -94,7 +94,7 @@
     },
     {
       "slug": "agentic-operating-layer",
-      "state": "publishable",
+      "state": "promoted",
       "first_seen": "2026-09-18",
       "last_checked": "2026-09-18",
       "what_changed": "Enterprise telemetry shows a shift from assistance toward delegated execution while 2026 research simultaneously exposes context-integrity, multi-task and decision-time reliability constraints that become visible only in operational agent workflows.",
@@ -184,7 +184,9 @@
         "context leakage remains high under realistic controls",
         "multi-task reliability fails to improve"
       ],
-      "related_research_ids": []
+      "related_research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
     },
     {
       "slug": "autonomous-scientific-instrumentation",
