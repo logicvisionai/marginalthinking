@@ -2,16 +2,57 @@
   "schema_version": 2,
   "id": "MT-CC-2026-09-18-saudi-arabia",
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-18T09:59:00-03:00",
-  "reviewed_commit": "db716a924f4077e055343880e8a8c79ec6fadf2c",
-  "pending_blob_sha": "03930bd934687483d70f24f2264074d3e9772d24",
-  "source_blob_shas": {"en":"337b809a420c9456813f6ad798a7ce766bbb78b0","pt-BR":"a6c9fc516f3634a3dbe03303c006c747554200e6"},
-  "confidence":"high",
-  "blocking_issues":[{"type":"factual_temporality","location_en":"Section 'The labor market is changing, but the transition is uneven' and its labor-force participation chart.","location_pt_BR":"Seção 'O mercado de trabalho está mudando, mas a transição é desigual' e seu gráfico de participação na força de trabalho.","issue":"The dossier makes labor-market change and female participation a central social transmission mechanism but anchors the section and its labor chart to Q2 2025. GASTAT published Labor Market Statistics for Q1 2026 on June 30, 2026. Disclosing that the older data are not a September snapshot avoids a false current-date label but does not satisfy the country-dossier requirement to re-verify a material current mechanism when a newer official observation exists.","evidence":["GASTAT Labor Market Statistics Q1 2026 publication record, June 30, 2026: https://www.stats.gov.sa/en/search?delta=60&page=38&sort=createDate-&start=30","GASTAT Q2 2025 release currently cited: https://www.stats.gov.sa/en/w/news/93"]}],
-  "required_fixes":["Update the labor section and chart in EN and PT-BR using the latest comparable official Q1 2026 observations, including period labels and material changes in Saudi/female participation or unemployment.","If Q2 2025 is retained for longitudinal comparison, add Q1 2026 and explain any comparability caveat.","Reassess directional claims about progress and segmentation against the newer observation.","Keep EN/PT-BR values, units, periods and interpretation semantically identical."],
-  "taxonomy_issues":[],
-  "checks":{"country_context_contract":{"result":"passed","summary":"Valid v2 Saudi country dossier with country geography and materially related canonical Global Macro IDs."},"taxonomy":{"result":"passed","summary":"global-system-power, related political-economy-markets, all three dimensions, topics and controlled phenomena are substantively supported."},"editorial_publication_readiness":{"result":"passed_subject_to_factual_fix","summary":"Direct thesis opening, finding-led headings, coherent institutional-to-economic-to-social progression, no exposed QA/template structure; PT-BR is substantially localized."},"contextual_depth":{"result":"passed","summary":"Political implementation, hydrocarbon fiscal dependence, PIF allocation, labor reform and household incidence are connected through mechanisms."},"visual_evidence_readiness":{"result":"blocked_by_factual_temporality","signature":{"tables":1,"charts":1,"structural_visuals":["map","flow","mindmap"],"total":5},"summary":"Visual floor and bilingual structure pass, but the central labor chart uses Q2 2025 despite a newer Q1 2026 official release."},"translation":{"result":"passed_subject_to_same_factual_fix","summary":"EN/PT-BR preserve the same thesis and mechanisms; labor refresh must be symmetric."}},
-  "contrary_evidence":["GASTAT has a newer Q1 2026 labor-market release than the Q2 2025 observation used as the dossier's sole labor quantitative anchor."],
-  "limitations":["IMF 2026 macro values are projections under conflict/shipping uncertainty and are identified as such.","The export map is schematic and does not claim current throughput or precise pipeline geometry.","PIF strategy statements are institutional objectives, not proof of realized productivity; the dossier frames outcomes as tests."],
-  "notes":"No approval created. Country Context retrabalho should refresh the central labor evidence before this ID returns to QA."
+  "reviewed_at": "2026-09-18T12:22:21-03:00",
+  "reviewed_commit": "8d695207e5e19a6f9c39d8183f05d46bc06e21a6",
+  "pending_blob_sha": "8afcc2d4888ac791837a8aa1150c32d735542f78",
+  "source_blob_shas": {"en":"7474a8b682bbe1609b0658834aa5845b6a3f80ef","pt-BR":"eb2cec2e82103cac50b02614d76dbff1a36484b9"},
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "factual_temporality",
+      "location_en": "Section 'Labour reform has expanded participation, but skills and segmentation remain structural constraints'.",
+      "location_pt_BR": "Seção 'A reforma do trabalho ampliou a participação, mas qualificação e segmentação continuam sendo restrições estruturais'.",
+      "issue": "The rework still uses Q2 2025 GASTAT participation/unemployment as the current quantitative anchor even though a newer official Q1 2026 labor-market release was already identified in the prior rejection. The requested factual refresh was not applied. For a 2026-09-18 country dossier, a central current social/labor mechanism must use the latest comparable official observation or explicitly explain why it cannot.",
+      "evidence": [
+        "Prior QA rejection on the same ID required the Q1 2026 GASTAT refresh.",
+        "Current EN and PT-BR still state Saudi female participation of 34.5% and Saudi-national unemployment of 6.8% from Q2 2025.",
+        "GASTAT published Labor Market Statistics Q1 2026 on 2026-06-30."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location_en": "Section 'Related Marginal Thinking research'.",
+      "location_pt_BR": "Seção 'Pesquisas relacionadas da Marginal Thinking'.",
+      "issue": "The public copy exposes canonical research IDs as backticked internal-looking identifiers instead of reader-facing report titles/links. This reads like pipeline metadata and violates the publication-readiness rule against exposing internal classification/template artifacts.",
+      "evidence": [
+        "EN exposes `MT-GM-2026-09-17`, `MT-GM-2026-09-18` and `MT-WF-2026-09-18` directly.",
+        "PT-BR exposes the same three identifiers directly."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the Q2 2025 labor-market anchor with the latest comparable official Q1 2026 GASTAT observations in both languages, including exact period labels and any material change in Saudi/female participation and unemployment; retain Q2 2025 only as an explicitly labeled comparison if analytically useful.",
+    "Reassess directional claims about labor participation and segmentation after the Q1 2026 refresh and preserve exact EN/PT-BR numerical and semantic parity.",
+    "Replace backticked canonical IDs in the public Related Research section with natural reader-facing titles and canonical links in each locale; keep IDs only in metadata where appropriate.",
+    "Do not alter the dossier ID, slug, date or related_research_ids while applying these fixes."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "country_context_contract": {"result":"passed","summary":"Valid v2 country-dossier metadata, country geography and materially related canonical research IDs."},
+    "taxonomy": {"result":"passed","summary":"Program, related program, all three dimensions, topics and phenomena are controlled and substantively supported."},
+    "factual_methodology": {"result":"failed","summary":"IMF 2026 macro/fiscal values and PIF 2025 AUM are supported by current primary sources, but the central labor evidence remains stale relative to an available official Q1 2026 release."},
+    "editorial_publication_readiness": {"result":"failed","summary":"Opening, analytical headings, density and overall progression are publication-grade, but the Related Research section exposes backticked internal IDs and the factual rework leaves a visible unresolved QA defect."},
+    "contextual_depth": {"result":"passed","summary":"Fiscal dependence, state capital, labor segmentation, logistics, monetary regime and social transmission are connected through explicit mechanisms rather than presented as an encyclopedic profile."},
+    "visual_evidence_readiness": {"result":"failed","signature":{"tables":1,"charts":1,"structural_visuals":["flow","mindmap","map"],"total":5},"summary":"The visual floor and EN/PT-BR structure pass, but the dossier's quantitative labor mechanism has not been refreshed to the latest official observation; visual evidence cannot be considered fully publication-ready while the associated central claim remains temporally stale."},
+    "translation": {"result":"passed_subject_to_same_fixes","summary":"EN/PT-BR are substantially equivalent; the labor refresh and reader-facing Related Research links must be applied symmetrically."}
+  },
+  "contrary_evidence": [
+    "A newer official GASTAT Q1 2026 labor-market release exists than the Q2 2025 observation retained in the current rework, so the older observation cannot serve as the sole current quantitative anchor without justification."
+  ],
+  "limitations": [
+    "IMF 2026 macro values are projections under conflict and shipping uncertainty and are correctly identified as projections.",
+    "The export-route map is schematic and does not claim precise current throughput or capacity.",
+    "PIF strategy and Vision 2030 allocations are institutional actions/objectives, not proof of realized productivity; the prose appropriately treats outcomes as tests."
+  ],
+  "notes": "No approval created. This rework changed the staged blobs but did not implement the prior blocking labor-data refresh. Country Context producer should correct the same ID before returning it to QA."
 }
