@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.marginalthinking.org/data/schemas/structural-opportunity-signal-v1.json",
+  "title": "Marginal Thinking Structural Opportunity Signal",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "detected_at",
+    "candidate"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "detected_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "candidate": {
+      "type": "object",
+      "required": [
+        "country",
+        "proposed_state",
+        "perspective",
+        "structural_condition",
+        "delta",
+        "evidence",
+        "confidence",
+        "materiality"
+      ],
+      "properties": {
+        "country": {
+          "type": "object",
+          "required": [
+            "code",
+            "name"
+          ],
+          "properties": {
+            "code": {
+              "type": "string",
+              "minLength": 2,
+              "maxLength": 3
+            },
+            "name": {
+              "type": "string",
+              "minLength": 2
+            }
+          }
+        },
+        "proposed_state": {
+          "enum": [
+            "blocking_inefficiency",
+            "exploitable_inefficiency",
+            "blocking_efficiency",
+            "leverageable_efficiency"
+          ]
+        },
+        "previous_state": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "perspective": {
+          "type": "string",
+          "minLength": 20
+        },
+        "structural_condition": {
+          "type": "string",
+          "minLength": 20
+        },
+        "delta": {
+          "type": "string",
+          "minLength": 30
+        },
+        "mechanism": {
+          "type": "string",
+          "minLength": 30
+        },
+        "catalysts": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "invalidation": {
+          "type": "string"
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "materiality": {
+          "enum": [
+            "high",
+            "medium"
+          ]
+        },
+        "related_atlas_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "name",
+              "url",
+              "date"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}
