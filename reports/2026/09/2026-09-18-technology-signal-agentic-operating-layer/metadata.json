@@ -1,0 +1,30 @@
+{
+  "id": "MT-TS-2026-09-18-agentic-operating-layer",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T10:25:00-03:00",
+  "kind": "weekly-technology-signal",
+  "priority": 32,
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": ["political-economy-markets"],
+  "dimensions": ["economy", "politics", "society"],
+  "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
+  "topics": ["technology-innovation","industry-production","institutions-governance","demography-labor","social-change"],
+  "phenomena": ["institutional-change","social-change"],
+  "format": "assessment",
+  "cadence": "weekly",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "qa_reviewed_at": "2026-09-18T10:21:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "e898cc36b5c74fcc491c4cd5b10c6c6b2bfe926d",
+  "signal_rationale": {"delta":"2026 evidence shows enterprise agent usage moving from assistance toward delegated execution while new benchmarks and clinical research expose context integrity, multi-task reliability and selective-autonomy constraints that are not visible in simple model benchmarks.","evidence":"The signal triangulates provider telemetry, Microsoft Research enterprise benchmarks, a peer-reviewed Nature Medicine on-premise clinical-agent study and NIST's current TEVV work.","scale_path":"Scaling requires not only stronger models but identity, permissions, context segmentation, continuous evaluation, workflow-specific reliability gates, auditability and economical human escalation.","transmission":"Agents that can act across tools can change task composition, coordination cost, organizational design and demand for assurance infrastructure, while also creating privacy, accountability and distributional risks.","falsifier":"The thesis weakens if rising agent usage fails to translate into verified workflow performance, if supervision requirements scale nearly one-for-one with agent activity, or if contextual-integrity and multi-task reliability do not improve under realistic deployment."},
+  "technology_maturity": "deployed-early-scale-with-governance-constraints",
+  "assessment_confidence": "high-on-deployment-and-reliability-signal-medium-on-productivity-and-organizational-transmission",
+  "key_constraints": ["context integrity","multi-task reliability","permissions and identity","continuous evaluation","human escalation cost","auditability and recovery"],
+  "locales": {
+    "en": {"markdown":"en.md","title":"AI agents are becoming an operating layer for knowledge work, but governance is becoming the binding constraint","deck":"Enterprise usage, privacy benchmarks and selective-autonomy research point to the same transition: the bottleneck is moving from model capability toward context control, continuous evaluation, permissions and reliable human escalation.","tags":["AI agents","enterprise AI","knowledge work","AI governance","selective autonomy","evaluation"],"keywords":["agentic AI","enterprise agents","CI-Work","CORPGEN","TEVV","on-premise clinical agent","context integrity","continuous evaluation","selective autonomy","knowledge work"],"regime":"Agentic AI is moving into real workflows faster than institutions are standardizing reliability, context governance and action controls.","key_risk":"Organizations may scale delegated execution faster than they can measure privacy leakage, multi-task failure, unsafe actions and the cost of human oversight.","watch":["independent workflow productivity studies","context-integrity violation rates","multi-task completion","selective-autonomy coverage versus error","continuous evaluation adoption","agent identity and permission infrastructure"],"search_text":"AI agents enterprise workflows knowledge work context integrity CI-Work CORPGEN Nature Medicine on-premise clinical agent selective autonomy NIST TEVV continuous evaluation governance"},
+    "pt-BR": {"markdown":"pt-BR.md","title":"Agentes de IA estão virando uma camada operacional do trabalho do conhecimento, mas governança passa a ser a restrição central","deck":"Uso empresarial, avaliações de privacidade e pesquisas sobre autonomia seletiva apontam para a mesma transição: a restrição está migrando da capacidade do modelo para controle de contexto, avaliação contínua, permissões e escalonamento humano confiável.","tags":["Agentes de IA","IA empresarial","trabalho do conhecimento","governança de IA","autonomia seletiva","avaliação"],"keywords":["IA baseada em agentes","agentes empresariais","CI-Work","CORPGEN","TEVV","agente clínico local","integridade de contexto","avaliação contínua","autonomia seletiva","trabalho do conhecimento"],"regime":"IA baseada em agentes está entrando em fluxos de trabalho reais mais rápido do que instituições padronizam confiabilidade, governança de contexto e controles de ação.","key_risk":"Organizações podem escalar execução delegada mais rápido do que conseguem medir vazamento de contexto, falhas multitarefa, ações inseguras e custo de supervisão humana.","watch":["estudos independentes de produtividade de workflows","taxas de violação de integridade contextual","conclusão multitarefa","cobertura versus erro em autonomia seletiva","adoção de avaliação contínua","infraestrutura de identidade e permissões de agentes"],"search_text":"agentes de IA fluxos de trabalho empresariais trabalho do conhecimento integridade contextual CI-Work CORPGEN Nature Medicine agente clínico local autonomia seletiva NIST TEVV avaliação contínua governança"}
+  }
+}
