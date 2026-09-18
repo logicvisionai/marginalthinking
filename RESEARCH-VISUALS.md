@@ -129,3 +129,20 @@ Approvals should record `checks.visual_evidence_readiness` with the result and m
 The publisher preserves approved Markdown visual blocks verbatim. Rendering remains deterministic and build-time only.
 
 For pre-standard research, visual backfills may be made as editorial maintenance when they are derived strictly from already-published facts and do not alter the report's substantive claims. Any factual change must use the normal revision + QA path.
+
+
+## Analytical microvisuals on collection and home surfaces
+
+Small visuals used on the home page, collection cards or analytical-system previews are governed by the same evidence principle as report visuals: they must encode a stable analytical structure or a property derived from canonical data. Decorative scatter points, arbitrary orbital motifs and unlabeled abstract geometry are prohibited when they can be mistaken for data.
+
+The preferred patterns are:
+
+- **Technology signals:** a maturity or capability path derived from the canonical signal state, with the current evidence stage and an actual recorded constraint. The visual must not imply that maturity is a quantitative score.
+- **Country context:** a fixed structural frame connecting politics, economy, society and external relations. Active dimensions may be derived from canonical context metadata; when no dossier is selected, the frame represents the dimensions of the system rather than a measured country profile.
+- **Dependency networks:** a reduced graph using real nodes and validated edges from the canonical dependency dataset.
+- **Structural opportunities:** geographic or matrix previews derived from the canonical Atlas state.
+- **Capital or wealth flow:** directional flow only when the underlying research establishes the direction being shown.
+
+Microvisuals are generated at build time from existing canonical data whenever possible. A preview must not maintain a second factual dataset merely for presentation.
+
+Visual state must remain deterministic across builds, responsive on small screens and semantically equivalent in EN and PT-BR. Accent colour identifies the analytically relevant state or constraint; it must not be scattered decoratively.

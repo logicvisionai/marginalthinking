@@ -7,6 +7,7 @@ const out=path.join(root,'dist');
 const cfg=JSON.parse(fs.readFileSync(path.join(root,'site.config.json'),'utf8'));
 const atlas=JSON.parse(fs.readFileSync(path.join(root,'data/structural-opportunities.json'),'utf8'));
 const dependency=JSON.parse(fs.readFileSync(path.join(root,'data/global-dependencies.json'),'utf8'));
+const technologySignals=JSON.parse(fs.readFileSync(path.join(root,'data/technology-signals.json'),'utf8'));
 const reports=collectReports(root);
 const stateOrder=['blocking_inefficiency','exploitable_inefficiency','blocking_efficiency','leverageable_efficiency'];
 
@@ -120,6 +121,55 @@ function dependencyPreview(locale,L){
   return '<article class="home-dependency-feature"><div class="home-dependency-copy"><span class="home-dependency-kicker">'+esc(L.dependencyKicker)+'</span><h3>'+esc(L.dependency)+'</h3><p>'+esc(L.dependencyDeck)+'</p><div class="home-dependency-metrics"><span><strong>'+dependency.nodes.length+'</strong>'+esc(L.dependencyNodes)+'</span><span><strong>'+dependency.edges.length+'</strong>'+esc(L.dependencyEdges)+'</span><span><strong>'+critical+'</strong>'+esc(L.dependencyCritical)+'</span></div><a href="'+esc(href)+'">'+esc(L.dependencyOpen)+' <span aria-hidden="true">→</span></a></div><a class="home-dependency-canvas" href="'+esc(href)+'" aria-label="'+esc(L.dependencyOpen)+'"><svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'+lines+'</svg>'+nodeHtml+'</a></article>';
 }
 
+function technologySignalForReport(report){
+  if(!report)return null;
+  return (technologySignals.signals||[]).find(s=>(s.related_research_ids||[]).includes(report.id))||
+    (technologySignals.signals||[]).find(s=>String(report.id||'').endsWith('-'+s.slug))||null;
+}
+function technologyStage(signal,report){
+  const raw=String(signal&&signal.evidence_stage||report&&report.technology_maturity||'').toLowerCase();
+  if(/scale|scaled|mature/.test(raw))return 3;
+  if(/deploy|service|operational/.test(raw))return 2;
+  if(/demonstrat|prototype|pilot|experimental/.test(raw))return 1;
+  return 0;
+}
+function technologyVisual(report,locale){
+  const pt=locale==='pt-BR';
+  const signal=technologySignalForReport(report);
+  const current=technologyStage(signal,report);
+  const stages=pt?['Pesquisa','Demonstração','Implantação','Escala']:['Research','Demonstration','Deployment','Scale'];
+  const constraint=(report&&Array.isArray(report.key_constraints)&&report.key_constraints[0])||
+    (signal&&Array.isArray(signal.constraints)&&signal.constraints[0])||
+    (pt?'restrição ainda em validação':'constraint under validation');
+  const maturity=(signal&&signal.evidence_stage)||report&&report.technology_maturity||'';
+  return '<div class="home-semantic-visual home-tech-visual" aria-hidden="true">'+
+    '<div class="home-tech-stage-label">'+(pt?'MATURIDADE':'MATURITY')+(maturity?' · '+esc(String(maturity).replace(/-/g,' ')):'')+'</div>'+
+    '<div class="home-tech-rail">'+stages.map((label,i)=>'<div class="home-tech-stage '+(i<current?'is-reached ':'')+(i===current?'is-current':'')+'"><i></i><span>'+esc(label)+'</span></div>').join('')+'</div>'+
+    '<div class="home-tech-constraint"><span>'+(pt?'RESTRIÇÃO ATUAL':'CURRENT CONSTRAINT')+'</span><strong>'+esc(constraint)+'</strong></div>'+
+  '</div>';
+}
+function contextVisual(context,locale){
+  const pt=locale==='pt-BR';
+  const dims=new Set((context&&context.dimensions)||[]);
+  const topics=new Set((context&&context.topics)||[]);
+  const generic=!context;
+  const active={
+    politics:generic||dims.has('politics'),
+    economy:generic||dims.has('economy'),
+    society:generic||dims.has('society'),
+    external:generic||topics.has('trade-investment')||topics.has('geopolitics-security')||topics.has('infrastructure-logistics')
+  };
+  const labels=pt?{politics:'POLÍTICA',economy:'ECONOMIA',society:'SOCIEDADE',external:'EXTERNO',core:'PAÍS'}:{politics:'POLITICS',economy:'ECONOMY',society:'SOCIETY',external:'EXTERNAL',core:'COUNTRY'};
+  return '<div class="home-semantic-visual home-context-visual" aria-hidden="true">'+
+    '<svg class="home-context-links" viewBox="0 0 100 100" preserveAspectRatio="none"><line x1="50" y1="50" x2="50" y2="17"/><line x1="50" y1="50" x2="83" y2="50"/><line x1="50" y1="50" x2="50" y2="83"/><line x1="50" y1="50" x2="17" y2="50"/></svg>'+
+    '<span class="context-axis context-politics '+(active.politics?'is-active':'')+'"><i></i><b>'+labels.politics+'</b></span>'+
+    '<span class="context-axis context-economy '+(active.economy?'is-active':'')+'"><i></i><b>'+labels.economy+'</b></span>'+
+    '<span class="context-axis context-society '+(active.society?'is-active':'')+'"><i></i><b>'+labels.society+'</b></span>'+
+    '<span class="context-axis context-external '+(active.external?'is-active':'')+'"><i></i><b>'+labels.external+'</b></span>'+
+    '<strong class="context-core">'+labels.core+'</strong>'+
+  '</div>';
+}
+
 function matrixCell(entry,state,count,locale,L){
   const country=entry?pick(entry.country&&entry.country.name,locale):'';
   const feature=entry?pick(entry.feature,locale):'';
@@ -175,8 +225,8 @@ function section(locale){
         '<aside class="home-atlas-signals"><div class="home-signals-head"><span>'+esc(L.signals)+'</span><strong>'+esc(L.radar)+'</strong></div>'+signals.map(e=>signalCard(e,locale,L)).join('')+'<a class="home-signal-all" href="'+esc(atlasHref)+'">'+esc(L.all)+' →</a></aside>'+
       '</article>'+
       '<div class="home-layer-grid">'+
-        '<a class="home-layer-card home-layer-tech" href="'+esc(techHref)+'"><div class="home-layer-visual" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div><div><span>'+esc(L.tech)+'</span><h3>'+esc(techTitle)+'</h3><p>'+esc(L.techDeck)+'</p><em>'+esc(L.techLink)+' →</em></div></a>'+
-        '<a class="home-layer-card home-layer-context" href="'+esc(contextHref)+'"><div class="home-context-visual" aria-hidden="true"><span></span><span></span><span></span><span></span></div><div><span>'+esc(L.context)+'</span><h3>'+esc(contextTitle)+'</h3><p>'+esc(L.contextDeck)+'</p><em>'+esc(L.contextLink)+' →</em></div></a>'+
+        '<a class="home-layer-card home-layer-tech" href="'+esc(techHref)+'">'+technologyVisual(tech,locale)+'<div><span>'+esc(L.tech)+'</span><h3>'+esc(techTitle)+'</h3><p>'+esc(L.techDeck)+'</p><em>'+esc(L.techLink)+' →</em></div></a>'+
+        '<a class="home-layer-card home-layer-context" href="'+esc(contextHref)+'">'+contextVisual(context,locale)+'<div><span>'+esc(L.context)+'</span><h3>'+esc(contextTitle)+'</h3><p>'+esc(L.contextDeck)+'</p><em>'+esc(L.contextLink)+' →</em></div></a>'+
       '</div>'+
     '</div>'+
   '</section>';
