@@ -17,15 +17,16 @@
   "phenomena": ["institutional-change", "demographic-transition", "social-change"],
   "format": "assessment",
   "cadence": "event-driven",
-  "revision": 3,
+  "revision": 4,
   "revision_reason": "qa_rework",
-  "supersedes_rejected_commit": "92a5b0ebe8065b4d01072a4b5fcc6d36d6cfaadd",
+  "supersedes_rejected_commit": "1c442dc38934dbf15a359282cb0aaaf53256c944",
   "qa_fixes_applied": [
-    "Preserved all revision 2 factual and methodological corrections and the unchanged EN/PT-BR staged sources.",
-    "Added the required controlled phenomena array after reassessing the thesis against the cross-cutting Conflict, Security & Social Change framework.",
-    "Classified institutional-change because euro adoption changes Bulgaria's monetary, supervisory, payments and collateral institutions.",
-    "Classified demographic-transition because labour scarcity and demographic constraints materially condition wage, productivity and external-balance transmission.",
-    "Classified social-change because household purchasing-power and distributional effects are explicitly part of the thesis and transmission mechanism."
+    "Removed the generic Executive assessment/Avaliação executiva section and integrated its evidence and confidence into the opening analytical narrative.",
+    "Removed repeated Observed fact/Fato observado, Assessment/Avaliação and Inference/Inferência field prefixes throughout both staged editions while preserving factual attribution and conditional language.",
+    "Rewrote EN and PT-BR as cohesive editorial prose with finding-specific headings and reduced repetition between opening, evidence sections and conclusion.",
+    "Completed the PT-BR localization pass: framework, currency board, valuation, free float, rating upgrades and FDI were replaced or naturally explained in Portuguese where used.",
+    "Preserved the revision-3 controlled phenomena classification and all material factual numbers, dates, source links, statistical distinctions and causal qualifications.",
+    "Kept EN and PT-BR semantically equivalent after the editorial restructuring."
   ],
   "selection_rationale": {
     "relevance": "Euro-area membership changes Bulgaria's monetary, supervisory, payments and collateral architecture while altering its integration with European capital markets.",
@@ -42,19 +43,19 @@
       "keywords": ["Bulgaria","euro adoption","MSCI Frontier","Bulgarian Stock Exchange","fiscal deficit","public debt","labour shortage","wages","TARGET Services","Eurosystem"],
       "regime": "Rapid institutional integration with low but rising public debt, tight labour supply and a shallow domestic capital market whose post-reclassification depth remains to be demonstrated.",
       "key_risk": "Nominal wage and spending convergence could outpace productivity and export capacity, leaving persistent fiscal and external imbalances despite stronger institutional integration.",
-      "watch": ["2026 fiscal path","HICP and services inflation","current-account balance","wage growth versus productivity","BSE liquidity and free float","FDI composition","housing and credit"],
-      "search_text": "Bulgaria euro adoption 2026 Eurosystem TARGET MSCI Frontier Bulgarian Stock Exchange fiscal deficit public debt current account labour shortage wage growth productivity FDI housing credit institutions capital markets Eastern Europe Balkans strategic transition"
+      "watch": ["2026 fiscal path","HICP and services inflation","current-account balance","wage growth versus productivity","BSE liquidity and tradable share supply","foreign direct investment composition","housing and credit"],
+      "search_text": "Bulgaria euro adoption 2026 Eurosystem TARGET MSCI Frontier Bulgarian Stock Exchange fiscal deficit public debt current account labour shortage wage growth productivity foreign direct investment housing credit institutions capital markets Eastern Europe Balkans strategic transition"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-16-strategic-transition-bulgaria-euro-market-integration/pt-BR.md",
       "title": "Bulgária após a adoção do euro: integração institucional encontra restrições fiscais e de trabalho",
-      "deck": "A adoção do euro e a reclassificação da MSCI mudaram o framework institucional e de acesso ao mercado; o próximo teste é saber se dinâmica fiscal, escassez de trabalho e baixa profundidade acionária permitirão transformar essas mudanças em produtividade e profundidade financeira duradoura.",
+      "deck": "A adoção do euro e a reclassificação da MSCI mudaram a estrutura institucional e as condições de acesso ao mercado; o próximo teste é saber se dinâmica fiscal, escassez de trabalho e baixa profundidade acionária permitirão transformar essas mudanças em produtividade e profundidade financeira duradoura.",
       "tags": ["Transições Estratégicas","Bulgária","Área do Euro","Mercados de Capitais","Política Fiscal"],
       "keywords": ["Bulgária","adoção do euro","MSCI Frontier","Bolsa da Bulgária","déficit fiscal","dívida pública","escassez de mão de obra","salários","TARGET Services","Eurosistema"],
       "regime": "Integração institucional rápida, com dívida pública ainda baixa porém crescente, oferta de trabalho restrita e mercado doméstico de capitais cuja profundidade após a reclassificação ainda precisa ser demonstrada.",
       "key_risk": "A convergência nominal de salários e gastos pode avançar mais rapidamente que produtividade e capacidade exportadora, mantendo desequilíbrios fiscal e externo apesar da integração institucional mais forte.",
-      "watch": ["trajetória fiscal de 2026","HICP e inflação de serviços","saldo em conta corrente","salários versus produtividade","liquidez e free float na BSE","composição do FDI","mercado imobiliário e crédito"],
-      "search_text": "Bulgária adoção euro 2026 Eurosistema TARGET MSCI Frontier Bolsa Bulgária déficit fiscal dívida pública conta corrente escassez trabalho salários produtividade FDI imóveis crédito instituições mercado capitais Leste Europeu Bálcãs transição estratégica"
+      "watch": ["trajetória fiscal de 2026","HICP e inflação de serviços","saldo em conta corrente","salários versus produtividade","liquidez e quantidade de ações negociáveis na BSE","composição do investimento direto estrangeiro","mercado imobiliário e crédito"],
+      "search_text": "Bulgária adoção euro 2026 Eurosistema TARGET MSCI Frontier Bolsa Bulgária déficit fiscal dívida pública conta corrente escassez trabalho salários produtividade investimento direto estrangeiro imóveis crédito instituições mercado capitais Leste Europeu Bálcãs transição estratégica"
     }
   }
 }
