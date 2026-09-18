@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "name": "Structural Opportunity Atlas history",
+  "updated_at": "2026-09-18",
+  "event_types": {
+    "baseline": {
+      "en": "Atlas inclusion",
+      "pt-BR": "Inclusão no Atlas"
+    },
+    "evidence_update": {
+      "en": "Evidence update",
+      "pt-BR": "Atualização de evidência"
+    },
+    "state_change": {
+      "en": "Structural reclassification",
+      "pt-BR": "Reclassificação estrutural"
+    },
+    "material_update": {
+      "en": "Material mechanism update",
+      "pt-BR": "Revisão material do mecanismo"
+    },
+    "correction": {
+      "en": "Historical correction",
+      "pt-BR": "Correção histórica"
+    }
+  },
+  "events": [
+    {
+      "event_id": "BRA-GRID-001-2026-09-18-baseline",
+      "entry_id": "BRA-GRID-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "BRA",
+        "name": {
+          "en": "Brazil",
+          "pt-BR": "Brasil"
+        }
+      },
+      "feature": {
+        "en": "Northeast renewable evacuation and system-flexibility gap",
+        "pt-BR": "Lacuna de escoamento e flexibilidade para renováveis no Nordeste"
+      },
+      "state": "exploitable_inefficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Exploitable inefficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Ineficiência explorável. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "ONS — PAR/PEL 2025",
+          "url": "https://www.ons.org.br/Paginas/energia-no-futuro/suprimento-eletrico/parpel2025/sumario-executivo/index.aspx",
+          "date": "2025-12"
+        },
+        {
+          "name": "EPE — Leilão de Transmissão nº 01/2026",
+          "url": "https://www.epe.gov.br/pt/leiloes-de-energia/leiloes-de-transmissao/leilao-de-transmissao-n-01-2026",
+          "date": "2026-07-03"
+        }
+      ]
+    },
+    {
+      "event_id": "BRA-PIX-001-2026-09-18-baseline",
+      "entry_id": "BRA-PIX-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "BRA",
+        "name": {
+          "en": "Brazil",
+          "pt-BR": "Brasil"
+        }
+      },
+      "feature": {
+        "en": "Pix as a high-adoption instant-payment rail",
+        "pt-BR": "Pix como infraestrutura de pagamentos instantâneos de alta adoção"
+      },
+      "state": "leverageable_efficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Leverageable efficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Eficiência aproveitável. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "Banco Central do Brasil — Pix em números",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+          "date": "2026-07"
+        }
+      ]
+    },
+    {
+      "event_id": "CHL-GRID-001-2026-09-18-baseline",
+      "entry_id": "CHL-GRID-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "CHL",
+        "name": {
+          "en": "Chile",
+          "pt-BR": "Chile"
+        }
+      },
+      "feature": {
+        "en": "Renewable curtailment created by transmission and flexibility lag",
+        "pt-BR": "Vertimento renovável criado pelo atraso de transmissão e flexibilidade"
+      },
+      "state": "exploitable_inefficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Exploitable inefficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Ineficiência explorável. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "Chile Ministry of Energy — Ruta Energética 2026–2030",
+          "url": "https://www.energia.gob.cl/noticias/nacional/ministerio-de-energia-lanza-ruta-energetica-2026-2030-con-hoja-de-trabajo-concreta-para-el-sector",
+          "date": "2026-05-28"
+        },
+        {
+          "name": "Coordinador Eléctrico Nacional — Cuenta Pública 2025",
+          "url": "https://www.coordinador.cl/novedades/coordinador-destaca-avances-en-transicion-energetica-y-llama-a-fortalecer-la-seguridad-y-cumplimiento-normativo-del-sistema/",
+          "date": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "event_id": "IND-UPI-BARRIER-001-2026-09-18-baseline",
+      "entry_id": "IND-UPI-BARRIER-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "IND",
+        "name": {
+          "en": "India",
+          "pt-BR": "Índia"
+        }
+      },
+      "feature": {
+        "en": "UPI's low-cost rail compresses the direct payment-fee pool",
+        "pt-BR": "A infraestrutura de baixo custo do UPI comprime o espaço de receita direta por pagamento"
+      },
+      "state": "blocking_efficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Blocking efficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Eficiência impeditiva. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "Press Information Bureau — zero-MDR background",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2122747&lang=1&reg=1",
+          "date": "2025-04-18"
+        },
+        {
+          "name": "Press Information Bureau — UPI framework",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2310586&lang=2&reg=48",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "event_id": "IND-UPI-LEVERAGE-001-2026-09-18-baseline",
+      "entry_id": "IND-UPI-LEVERAGE-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "IND",
+        "name": {
+          "en": "India",
+          "pt-BR": "Índia"
+        }
+      },
+      "feature": {
+        "en": "UPI as mass-scale payment infrastructure",
+        "pt-BR": "UPI como infraestrutura de pagamentos em escala de massa"
+      },
+      "state": "leverageable_efficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Leverageable efficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Eficiência aproveitável. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "NPCI — UPI Product Statistics",
+          "url": "https://www.npci.org.in/product/upi/product-statistics",
+          "date": "2026-08"
+        },
+        {
+          "name": "Press Information Bureau — UPI framework",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2310586&lang=2&reg=48",
+          "date": "2026-09-15"
+        }
+      ]
+    },
+    {
+      "event_id": "ZAF-FREIGHT-001-2026-09-18-baseline",
+      "entry_id": "ZAF-FREIGHT-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "ZAF",
+        "name": {
+          "en": "South Africa",
+          "pt-BR": "África do Sul"
+        }
+      },
+      "feature": {
+        "en": "Freight rail and port logistics bottleneck",
+        "pt-BR": "Gargalo de logística ferroviária e portuária de cargas"
+      },
+      "state": "blocking_inefficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Blocking inefficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Ineficiência impeditiva. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "South African Government — National Transport Conference",
+          "url": "https://www.gov.za/news/speeches/president-cyril-ramaphosa-inaugural-national-transport-conference-16-mar-2026",
+          "date": "2026-03-16"
+        },
+        {
+          "name": "South African Government — Africa Rail Convention",
+          "url": "https://www.gov.za/news/speeches/minister-barbara-creecy-africa-rail-convention-08-jul-2026",
+          "date": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "event_id": "ZAF-GRID-001-2026-09-18-baseline",
+      "entry_id": "ZAF-GRID-001",
+      "date": "2026-09-18",
+      "type": "baseline",
+      "country": {
+        "code": "ZAF",
+        "name": {
+          "en": "South Africa",
+          "pt-BR": "África do Sul"
+        }
+      },
+      "feature": {
+        "en": "Transmission expansion gap",
+        "pt-BR": "Lacuna de expansão da transmissão"
+      },
+      "state": "exploitable_inefficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Exploitable inefficiency. This event establishes the traceable baseline for subsequent evidence updates and reclassifications.",
+        "pt-BR": "Incluída no Atlas público como Ineficiência explorável. Este registro estabelece a base rastreável para atualizações de evidência e reclassificações posteriores."
+      },
+      "sources": [
+        {
+          "name": "South African National Treasury — Independent Transmission Programme",
+          "url": "https://www.gov.za/news/media-statements/national-treasury-independent-transmission-programme-06-jun-2025",
+          "date": "2025-06-06"
+        },
+        {
+          "name": "South African Government — SONA debate reply",
+          "url": "https://www.gov.za/news/speeches/president-cyril-ramaphosa%C2%A0reply-debate-2026-state-nation-address-19-feb-2026",
+          "date": "2026-02-19"
+        }
+      ]
+    }
+  ]
+}

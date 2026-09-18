@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "Structural Opportunity Atlas",
   "updated_at": "2026-09-18",
-  "status": "public-first-wave",
+  "status": "active",
   "disclaimer": {
     "en": "Analytical mapping of structural conditions. It is not an investment recommendation, country ranking or forecast of returns.",
     "pt-BR": "Mapeamento analítico de condições estruturais. Não é recomendação de investimento, ranking de países nem previsão de retorno."
@@ -487,5 +487,6 @@
         }
       ]
     }
-  ]
+  ],
+  "history_file": "data/structural-opportunity-history.json"
 }
