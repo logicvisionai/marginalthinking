@@ -1,48 +1,48 @@
 {
   "schema_version": 2,
   "id": "MT-TS-2026-09-18-agentic-operating-layer",
-  "revision": 0,
+  "revision": 1,
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-18T10:15:34-03:00",
-  "reviewed_commit": "287457e60bd5f88be6d0046f3d025e9b97fce115",
-  "pending_blob_sha": "9798db8b98fc1c544bf9c4339f1a362544eae725",
+  "reviewed_at": "2026-09-18T10:25:31-03:00",
+  "reviewed_commit": "9133b4361034dcf9914e8f7f5c6c32e6e611f25e",
+  "pending_blob_sha": "8de2d225ef235530a97c7b825bcfe7412e1cdf3d",
   "source_blob_shas": {
     "en": "71dcddc31b80e57cd92bf8b2c171e80fc462b449",
-    "pt-BR": "46cbd93d8d009327a3ca1321642ffb1da230ab35"
+    "pt-BR": "b9872e92f8779c01b066fc58d382f4826e79b938"
   },
   "confidence": "high",
   "blocking_issues": [
     {
       "type": "editorial-localization",
-      "location": "pt-BR edition throughout, especially opening, evidence table, 'A arquitetura empresarial está passando de model-centric para context-centric', mindmap, continuous-evaluation and institutional-control sections",
-      "issue": "The PT-BR edition repeatedly exposes raw English/internal technical phrasing where natural Brazilian Portuguese is available: 'agentic', 'on-premise', 'baseline', 'gate', 'workflow(s)', 'model-centric', 'context-centric', 'assurance', 'spans de gestão', 'score', 'policy engines', 'harnesses', 'early adopters' and 'overhead'. The density is high enough that the edition reads as translated technical scaffolding rather than text originally edited in Brazilian Portuguese.",
-      "required_fix": "Perform a full PT-BR localization pass. Prefer natural Portuguese equivalents and explain genuinely necessary technical terms on first use. Preserve literal proper names such as CI-Work, CORPGEN, Enterprise Signals and TEVV-Athlon. Recheck every visual label and the pending PT-BR metadata for the same issue, without changing factual claims or the EN thesis."
+      "location": "pt-BR opening metadata, immediately below H1",
+      "issue": "The revision claims a complete Brazilian Portuguese localization pass, but the public-facing metadata still renders '**Programa:** Technology, Production & Society'. This leaves raw English in the PT-BR edition where a natural localized program label is available and directly violates the publication-localization gate. Because revision_reason/qa_fixes_applied explicitly state that PT-BR publication metadata was localized, the remaining defect also means the declared QA delta is not fully true.",
+      "required_fix": "Replace the PT-BR public program label/value with the canonical Brazilian Portuguese display form used by the site, without changing the controlled metadata value program:'technology-production-society'. Re-scan the complete PT-BR source and all PT-BR visual/publication labels for residual raw-English editorial vocabulary; preserve proper names and technical identifiers where translation would be misleading."
     }
   ],
   "required_fixes": [
-    "Localize the complete PT-BR edition and PT-BR pending metadata, removing unnecessary raw-English editorial vocabulary while preserving technical meaning and semantic parity with EN.",
-    "Keep all currently verified quantitative claims, periods, caveats, maturity distinctions and falsifiers unchanged unless a factual revalidation independently requires a change.",
-    "Preserve the current visual evidence structure and values; only localize labels where needed."
+    "Complete the PT-BR localization promised by qa_fixes_applied, including the opening public Program/Programa display value.",
+    "Do not alter the verified EN source, quantitative claims, dates, maturity distinctions, causal qualifications, falsifier or visual values unless a new factual revalidation requires it.",
+    "Return a new pending revision with new exact blob SHAs and an accurate qa_fixes_applied delta."
   ],
   "evidence": [
-    "OpenAI Enterprise Signals directly supports the provider-specific 64% Codex share and 8.3x versus 2.6x output-token intensity figures; the report correctly does not treat them as productivity estimates.",
-    "Microsoft Research CI-Work directly supports contextual-integrity violation rates of 15.8%-50.9%, leakage up to 26.7%, and the finding that model size/reasoning depth does not resolve the issue.",
-    "Nature Medicine (2026-09-15) directly supports 90.04% on-premise diagnostic accuracy, 83.8% on the second benchmark, and selective autonomy retaining 49.4% of cases at 98.9% accuracy.",
-    "The assessment meets the visual floor for format assessment: one table, one explicit chart and multiple structural visuals, with at least four useful visuals total."
+    "Revision 1 materially improves the earlier localization defects and preserves the verified factual claims and visual structure.",
+    "The PT-BR source at current SHA b9872e92f8779c01b066fc58d382f4826e79b938 still begins with '**Programa:** Technology, Production & Society', an explicit residual English publication label/value.",
+    "The pending revision states that a complete Brazilian Portuguese localization pass and localization of PT-BR publication metadata were performed, so this residual defect is directly inconsistent with the declared revision delta.",
+    "The assessment still satisfies the Technology Signal visual floor: explicit chart, evidence table, flow, mind map and structural diagram, with semantic PT-BR counterparts."
   ],
   "taxonomy_issues": [],
   "checks": {
     "technology_signal_gate": "passed",
-    "factual_methodology": "passed_with_source_scope_limitations",
+    "factual_methodology": "passed_with_prior_source_scope_limitations",
     "taxonomy": "passed",
-    "translation_semantics": "blocked_by_localization_quality",
+    "translation_semantics": "passed_on_material_claims_but_blocked_by_public_localization",
     "editorial_publication_readiness": "failed",
     "visual_evidence_readiness": "passed"
   },
   "limitations": [
-    "OpenAI telemetry is provider-specific adoption evidence, not independent productivity evidence.",
-    "Clinical benchmark performance is not evidence of prospective clinical deployment at scale.",
-    "Enterprise benchmark results do not establish economy-wide labour or productivity effects."
+    "OpenAI telemetry remains provider-specific adoption evidence, not independent productivity evidence.",
+    "Clinical benchmark performance remains benchmark evidence, not proof of prospective clinical deployment at scale.",
+    "Enterprise benchmark evidence does not establish economy-wide labour or productivity effects."
   ],
-  "notes": "The technology signal itself is publishable in substance: it distinguishes deployment from scale, states constraints, includes contrary evidence and observable falsifiers, and does not rely on the internal technology ledger as public evidence. Rejection is publication-editorial, not a reversal of the substantive technology assessment."
+  "notes": "Revision 1 fixes the broad localization problem from revision 0, but one visible opening metadata defect remains blocking under the explicit PT-BR publication-readiness rule. No approval was created and no public materialization was requested."
 }
