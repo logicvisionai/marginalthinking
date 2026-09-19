@@ -58,7 +58,7 @@ function llmsText(){
 
 function writeRobotsAndHeaders(){
   write('/robots.txt',`User-agent: *\nAllow: /\nDisallow: /data/approved/\nDisallow: /data/pending/\nDisallow: /data/rejected/\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nSitemap: ${site}/sitemap.xml\n`);
-  write('/_headers',`/reports/*.md\n  X-Robots-Tag: noindex, follow\n  Content-Type: text/markdown; charset=utf-8\n\n/llms.txt\n  Content-Type: text/plain; charset=utf-8\n  Cache-Control: public, max-age=3600\n\n/data/search-index.json\n  Cache-Control: public, max-age=300\n`);
+  write('/_headers',`/reports/*.md\n  X-Robots-Tag: noindex, follow\n  Content-Type: text/markdown; charset=utf-8\n\n/llms.txt\n  Content-Type: text/plain; charset=utf-8\n  Cache-Control: public, max-age=3600\n\n/data/search-index.json\n  Cache-Control: public, max-age=300\n\n/data/mcp-catalog.json\n  Access-Control-Allow-Origin: *\n  Access-Control-Allow-Methods: GET, HEAD, OPTIONS\n  Cross-Origin-Resource-Policy: cross-origin\n  Cache-Control: public, max-age=300\n`);
 }
 
 for(const locale of locales)enrich404(locale);

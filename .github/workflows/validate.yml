@@ -50,6 +50,9 @@ jobs:
           test -f dist/data/research-intelligence.json
           test -f dist/data/search-index.json
           test -f dist/data/mcp-catalog.json
+          test -f dist/_headers
+          grep -q '^/data/mcp-catalog.json$' dist/_headers
+          grep -q 'Access-Control-Allow-Origin: \*' dist/_headers
           test -f dist/mcp-docs/index.html
           test -f dist/pt-br/mcp-docs/index.html
           test ! -f dist/mcp.html
