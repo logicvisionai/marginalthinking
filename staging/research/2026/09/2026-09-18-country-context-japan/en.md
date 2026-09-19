@@ -25,7 +25,7 @@ On September 18, the BOJ raised its policy rate to 1.25%, the highest level in r
 | Population | 122.68 million, Aug. 2026 preliminary | Smaller population changes labor supply, consumption and fiscal arithmetic |
 | Unemployment | 2.4%, Jul. 2026 | Labor market remains tight despite weak demographic growth |
 | Real GDP growth | 0.8%, 2026 IMF projection | Growth depends increasingly on productivity and domestic demand |
-| Net international investment position | ¥561.75 trillion, end-2025 | Japan is a major net external creditor |
+| Net international investment position | ¥560.116 trillion, end-Mar. 2026 preliminary | Japan remains a major net external creditor |
 | Energy self-sufficiency | 15.3%, FY2023 | Imported energy remains a strategic macro vulnerability |
 | Middle East share of crude imports | 94.7%, FY2023 | Gulf disruption has unusually direct terms-of-trade effects |
 | BOJ policy rate | 1.25%, Sep. 18, 2026 | Monetary normalization can reprice domestic and global portfolios |
@@ -61,15 +61,15 @@ This is why Japan's demographic problem is also an industrial-policy problem.
 
 ## The country is a major external creditor even when trade is not consistently in surplus
 
-Japan's international balance sheet is one of its most important structural features. At the end of 2025, the Ministry of Finance recorded external assets of ¥1,805.634 trillion and liabilities of ¥1,243.884 trillion, leaving a net international investment position of ¥561.750 trillion. [Ministry of Finance](https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm)
+Japan's international balance sheet is one of its most important structural features. The Ministry of Finance's preliminary estimate for end-March 2026 recorded external assets of ¥1,849.649 trillion and liabilities of ¥1,289.533 trillion, leaving a net international investment position of ¥560.116 trillion. The comparable end-December 2025 net position was ¥561.750 trillion. The small decline in the net position does not change the structural conclusion: Japan remains a very large net external creditor, while both gross assets and liabilities increased. [Ministry of Finance, end-March 2026 preliminary estimate](https://www.mof.go.jp/policy/international_policy/reference/iip/202606a.pdf)
 
 ```chart
 type: bar
-title: Japan international investment position, end-2025
+title: Japan international investment position, end-March 2026 preliminary
 unit: ¥ trillion
-External assets | 1805.634
-External liabilities | 1243.884
-Net position | 561.750
+External assets | 1849.649
+External liabilities | 1289.533
+Net position | 560.116
 ```
 
 The fiscal-year 2025 balance of payments also shows why merchandise trade alone is an incomplete description. Exports were ¥111.3451 trillion and imports ¥109.9820 trillion, while the primary-income surplus reached ¥42.2809 trillion. The overall current-account surplus was ¥34.5218 trillion. [Ministry of Finance](https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025fy.htm)
@@ -164,6 +164,6 @@ For Marginal Thinking's global research, four indicators are especially useful: 
 
 ## Sources and limitations
 
-Primary sources include the [IMF 2026 Article IV consultation](https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult), the [House of Representatives guide to the parliamentary cabinet system](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/parliamentary.htm), [Statistics Bureau 2025 census preliminary counts](https://www.stat.go.jp/english/info/news/20260625.html), [August 2026 population estimates](https://www.stat.go.jp/data/jinsui/new.htm), the [Ministry of Finance international investment position](https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm), [FY2025 balance of payments](https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025fy.htm), and the Agency for Natural Resources and Energy on [energy self-sufficiency](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-1.html) and [crude-oil dependence](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-3.html).
+Primary sources include the [IMF 2026 Article IV consultation](https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult), the [House of Representatives guide to the parliamentary cabinet system](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/parliamentary.htm), [Statistics Bureau 2025 census preliminary counts](https://www.stat.go.jp/english/info/news/20260625.html), [August 2026 population estimates](https://www.stat.go.jp/data/jinsui/new.htm), the [Ministry of Finance end-March 2026 preliminary international investment position](https://www.mof.go.jp/policy/international_policy/reference/iip/202606a.pdf), [FY2025 balance of payments](https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025fy.htm), and the Agency for Natural Resources and Energy on [energy self-sufficiency](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-1.html) and [crude-oil dependence](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-3.html).
 
-The September 18 policy-rate level is current-event information confirmed by the BOJ release index and contemporaneous Reuters reporting. Population estimates for August 2026 are preliminary. Energy self-sufficiency and crude-origin shares refer to FY2023 and are structural reference points, not current-month flows. International-investment-position values can change through market prices and exchange rates as well as new transactions.
+The September 18 policy-rate level is current-event information confirmed by the BOJ release index and contemporaneous Reuters reporting. Population estimates for August 2026 are preliminary. Energy self-sufficiency and crude-origin shares refer to FY2023 and are structural reference points, not current-month flows. The end-March 2026 international-investment-position estimate is preliminary and can change through market prices and exchange rates as well as new transactions.

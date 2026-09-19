@@ -25,7 +25,7 @@ Em 18 de setembro, o BOJ elevou sua taxa de política para 1,25%, o maior nível
 | População | 122,68 milhões, ago. 2026 preliminar | População menor altera oferta de trabalho, consumo e aritmética fiscal |
 | Desemprego | 2,4%, jul. 2026 | O mercado de trabalho permanece apertado apesar do baixo crescimento demográfico |
 | Crescimento real do PIB | 0,8%, projeção FMI 2026 | O crescimento depende cada vez mais de produtividade e demanda doméstica |
-| Posição internacional líquida de investimentos | ¥561,75 trilhões, fim de 2025 | O Japão é um grande credor externo líquido |
+| Posição internacional líquida de investimentos | ¥560,116 trilhões, fim de mar. 2026, preliminar | O Japão permanece um grande credor externo líquido |
 | Autossuficiência energética | 15,3%, ano fiscal 2023 | Energia importada continua sendo vulnerabilidade macroeconômica estratégica |
 | Participação do Oriente Médio nas importações de petróleo bruto | 94,7%, ano fiscal 2023 | Interrupções no Golfo têm efeito incomumente direto sobre os termos de troca |
 | Taxa de política do BOJ | 1,25%, 18 set. 2026 | Normalização monetária pode reprecificar portfólios domésticos e globais |
@@ -61,15 +61,15 @@ Uma força de trabalho menor não implica mecanicamente menor produção. O Jap�
 
 ## O país é grande credor externo mesmo quando o comércio não está sempre em superávit
 
-O balanço internacional do Japão é uma de suas características estruturais mais importantes. Ao fim de 2025, o Ministério das Finanças registrou ativos externos de ¥1.805,634 trilhões e passivos de ¥1.243,884 trilhões, resultando em posição internacional líquida de investimentos de ¥561,750 trilhões. [Ministério das Finanças](https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm)
+O balanço internacional do Japão é uma de suas características estruturais mais importantes. A estimativa preliminar do Ministério das Finanças para o fim de março de 2026 registrou ativos externos de ¥1.849,649 trilhões e passivos de ¥1.289,533 trilhões, resultando em posição internacional líquida de investimentos de ¥560,116 trilhões. A posição líquida comparável no fim de dezembro de 2025 era de ¥561,750 trilhões. A pequena redução da posição líquida não altera a conclusão estrutural: o Japão continua sendo um grande credor externo líquido, enquanto ativos e passivos brutos aumentaram. [Ministério das Finanças, estimativa preliminar do fim de março de 2026](https://www.mof.go.jp/policy/international_policy/reference/iip/202606a.pdf)
 
 ```chart
 type: bar
-title: Posição internacional de investimentos do Japão, fim de 2025
+title: Posição internacional de investimentos do Japão, fim de março de 2026, preliminar
 unit: ¥ trilhões
-Ativos externos | 1805.634
-Passivos externos | 1243.884
-Posição líquida | 561.750
+Ativos externos | 1849.649
+Passivos externos | 1289.533
+Posição líquida | 560.116
 ```
 
 A balança de pagamentos do ano fiscal de 2025 também mostra por que o comércio de mercadorias sozinho é uma descrição incompleta. As exportações foram de ¥111,3451 trilhões e as importações, ¥109,9820 trilhões, enquanto o superávit de renda primária chegou a ¥42,2809 trilhões. O superávit total em conta corrente foi de ¥34,5218 trilhões. [Ministério das Finanças](https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025fy.htm)
@@ -164,6 +164,6 @@ Para as pesquisas globais da Marginal Thinking, quatro indicadores são especial
 
 ## Fontes e limitações
 
-As fontes primárias incluem a [consulta do Artigo IV do FMI de 2026](https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult), o [guia da Câmara dos Representantes sobre o sistema parlamentar de gabinete](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/parliamentary.htm), a [contagem preliminar do censo de 2025](https://www.stat.go.jp/english/info/news/20260625.html), as [estimativas populacionais de agosto de 2026](https://www.stat.go.jp/data/jinsui/new.htm), a [posição internacional de investimentos do Ministério das Finanças](https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm), a [balança de pagamentos do ano fiscal de 2025](https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025fy.htm) e a Agência de Recursos Naturais e Energia sobre [autossuficiência energética](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-1.html) e [dependência de petróleo bruto](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-3.html).
+As fontes primárias incluem a [consulta do Artigo IV do FMI de 2026](https://www.imf.org/en/news/articles/2026/04/02/pr-26105-japan-imf-executive-board-concludes-2026-article-iv-consult), o [guia da Câmara dos Representantes sobre o sistema parlamentar de gabinete](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/parliamentary.htm), a [contagem preliminar do censo de 2025](https://www.stat.go.jp/english/info/news/20260625.html), as [estimativas populacionais de agosto de 2026](https://www.stat.go.jp/data/jinsui/new.htm), a [posição internacional de investimentos preliminar do fim de março de 2026 do Ministério das Finanças](https://www.mof.go.jp/policy/international_policy/reference/iip/202606a.pdf), a [balança de pagamentos do ano fiscal de 2025](https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2025fy.htm) e a Agência de Recursos Naturais e Energia sobre [autossuficiência energética](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-1.html) e [dependência de petróleo bruto](https://www.enecho.meti.go.jp/about/energytrends/202506/html/s-1-3.html).
 
-O nível da taxa de política de 18 de setembro é informação de evento atual confirmada pelo índice de publicações do BOJ e por reportagem contemporânea da Reuters. As estimativas populacionais de agosto de 2026 são preliminares. A autossuficiência energética e a participação por origem do petróleo bruto referem-se ao ano fiscal de 2023 e funcionam como referências estruturais, não como fluxos do mês corrente. Os valores da posição internacional de investimentos podem mudar por preços de mercado e câmbio, além de novas transações.
+O nível da taxa de política de 18 de setembro é informação de evento atual confirmada pelo índice de publicações do BOJ e por reportagem contemporânea da Reuters. As estimativas populacionais de agosto de 2026 são preliminares. A autossuficiência energética e a participação por origem do petróleo bruto referem-se ao ano fiscal de 2023 e funcionam como referências estruturais, não como fluxos do mês corrente. A estimativa da posição internacional de investimentos do fim de março de 2026 é preliminar e pode mudar por preços de mercado e câmbio, além de novas transações.

@@ -13,130 +13,42 @@
       "markdown": "staging/research/2026/09/2026-09-18-country-context-japan/en.md",
       "title": "Japan: aging, monetary normalization and the external balance behind a global creditor economy",
       "deck": "Japan combines a shrinking workforce, monetary normalization, heavy energy-import dependence and a huge external asset position; together they explain why domestic policy changes can transmit into global rates, currencies and capital allocation.",
-      "tags": [
-        "Japan",
-        "Bank of Japan",
-        "demography",
-        "energy security",
-        "international investment position",
-        "industrial policy"
-      ],
-      "keywords": [
-        "Japan",
-        "BOJ",
-        "JGB",
-        "yen",
-        "aging population",
-        "working-age population",
-        "net international investment position",
-        "Middle East crude",
-        "energy self-sufficiency",
-        "Rapidus",
-        "semiconductors"
-      ],
+      "tags": ["Japan","Bank of Japan","demography","energy security","international investment position","industrial policy"],
+      "keywords": ["Japan","BOJ","JGB","yen","aging population","working-age population","net international investment position","Middle East crude","energy self-sufficiency","Rapidus","semiconductors"],
       "regime": "Aging and labor scarcity are colliding with monetary normalization while Japan remains a large external creditor and a highly energy-import-dependent industrial economy.",
       "key_risk": "Higher domestic rates and imported energy costs could raise fiscal and household pressure faster than productivity, real wages and labor-saving investment adapt.",
-      "watch": [
-        "BOJ policy rate and JGB yields",
-        "Yen and foreign-asset hedging economics",
-        "Population and labor-force adaptation",
-        "Real wages and services productivity",
-        "Energy import costs and Middle East crude exposure"
-      ],
+      "watch": ["BOJ policy rate and JGB yields","Yen and foreign-asset hedging economics","Population and labor-force adaptation","Real wages and services productivity","Energy import costs and Middle East crude exposure"],
       "search_text": "Japan political economy society BOJ monetary normalization JGB yen aging demography external assets NIIP energy imports Middle East oil industry semiconductors country context"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-18-country-context-japan/pt-BR.md",
       "title": "Japão: envelhecimento, normalização monetária e o balanço externo por trás de uma economia credora global",
       "deck": "O Japão combina força de trabalho em redução, normalização monetária, forte dependência de energia importada e enorme posição de ativos externos; juntos, esses fatores explicam por que mudanças domésticas podem se transmitir para juros, moedas e alocação global de capital.",
-      "tags": [
-        "Japão",
-        "Banco do Japão",
-        "demografia",
-        "segurança energética",
-        "posição internacional de investimentos",
-        "política industrial"
-      ],
-      "keywords": [
-        "Japão",
-        "BOJ",
-        "JGB",
-        "iene",
-        "envelhecimento populacional",
-        "população em idade de trabalhar",
-        "posição internacional líquida de investimentos",
-        "petróleo do Oriente Médio",
-        "autossuficiência energética",
-        "Rapidus",
-        "semicondutores"
-      ],
+      "tags": ["Japão","Banco do Japão","demografia","segurança energética","posição internacional de investimentos","política industrial"],
+      "keywords": ["Japão","BOJ","JGB","iene","envelhecimento populacional","população em idade de trabalhar","posição internacional líquida de investimentos","petróleo do Oriente Médio","autossuficiência energética","Rapidus","semicondutores"],
       "regime": "Envelhecimento e escassez de trabalho se encontram com a normalização monetária enquanto o Japão permanece grande credor externo e economia industrial fortemente dependente de energia importada.",
       "key_risk": "Juros domésticos mais altos e custos de energia importada podem elevar a pressão fiscal e sobre as famílias mais rapidamente do que produtividade, salários reais e investimento poupador de trabalho consigam se adaptar.",
-      "watch": [
-        "Taxa do BOJ e rendimentos dos JGBs",
-        "Iene e economia do hedge sobre ativos externos",
-        "População e adaptação da força de trabalho",
-        "Salários reais e produtividade em serviços",
-        "Custos de importação de energia e exposição ao petróleo do Oriente Médio"
-      ],
+      "watch": ["Taxa do BOJ e rendimentos dos JGBs","Iene e economia do hedge sobre ativos externos","População e adaptação da força de trabalho","Salários reais e produtividade em serviços","Custos de importação de energia e exposição ao petróleo do Oriente Médio"],
       "search_text": "Japão economia política sociedade BOJ normalização monetária JGB iene envelhecimento demografia ativos externos posição internacional energia importada petróleo Oriente Médio indústria semicondutores contexto de país"
     }
   },
   "taxonomy_version": "1.0",
   "program": "political-economy-markets",
-  "related_programs": [
-    "global-system-power",
-    "technology-production-society"
-  ],
-  "dimensions": [
-    "economy",
-    "politics",
-    "society"
-  ],
-  "geography": {
-    "level": "country",
-    "regions": [
-      "asia-pacific"
-    ],
-    "subregions": [
-      "east-asia"
-    ],
-    "countries": [
-      {
-        "code": "JP",
-        "slug": "japan"
-      }
-    ]
-  },
-  "topics": [
-    "macroeconomics",
-    "monetary-policy",
-    "sovereign-debt",
-    "currencies",
-    "capital-markets",
-    "trade-investment",
-    "industry-production",
-    "energy",
-    "technology-innovation",
-    "demography-labor",
-    "institutions-governance"
-  ],
-  "phenomena": [
-    "demographic-transition"
-  ],
+  "related_programs": ["global-system-power","technology-production-society"],
+  "dimensions": ["economy","politics","society"],
+  "geography": {"level":"country","regions":["asia-pacific"],"subregions":["east-asia"],"countries":[{"code":"JP","slug":"japan"}]},
+  "topics": ["macroeconomics","monetary-policy","sovereign-debt","currencies","capital-markets","trade-investment","industry-production","energy","technology-innovation","demography-labor","institutions-governance"],
+  "phenomena": ["demographic-transition"],
   "format": "country-dossier",
   "cadence": "event-driven",
   "context_role": "country-context",
-  "related_research_ids": [
-    "MT-GM-2026-09-18",
-    "MT-GM-2026-09-17",
-    "MT-GM-2026-09-16",
-    "MT-GM-2026-09-15"
-  ],
+  "related_research_ids": ["MT-GM-2026-09-18","MT-GM-2026-09-17","MT-GM-2026-09-16","MT-GM-2026-09-15"],
   "selection_rationale": {
     "relevance": "Japan recurs in recent Global Macro research through BOJ normalization, the yen, global bond transmission and energy-import exposure.",
     "context_gap": "The public corpus lacks a country-level explanation connecting Japan's parliamentary policy structure, demography, external creditor position, industrial policy and energy dependence.",
     "reuse": "Macro, wealth-flow, technology and energy research are likely to reuse these structural mechanisms.",
     "non_duplication": "No existing Japan Strategic Transitions assessment or country dossier was found in the canonical corpus."
-  }
+  },
+  "qa_fixes_applied": ["Updated the central international-investment-position evidence, table and chart from end-2025 to the Ministry of Finance preliminary end-March 2026 estimate in both languages; retained end-2025 only as an explicitly labeled comparison."],
+  "qa_rework": {"reworked_at":"2026-09-18T22:17:00-03:00","based_on_rejection_reviewed_at":"2026-09-18T09:45:17-03:00"}
 }
