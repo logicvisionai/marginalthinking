@@ -120,7 +120,7 @@ Este dossiê fornece contexto nacional para `MT-GM-2026-09-17`, `MT-GM-2026-09-1
 - FMI, *2026 Article IV Consultation with Saudi Arabia*, 29 de julho de 2026: https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv
 - FMI, *Structural Reforms in Saudi Arabia Since 2016*, Working Paper 2026/014: https://www.elibrary.imf.org/abstract/journals/001/2026/014/article-A001-en.xml
 - General Authority for Statistics, *Labor Market Statistics Q2 2025*: https://www.stats.gov.sa/en/w/news/93
-- Saudi Vision 2030, *Annual Report 2025 — Executive Summary*: https://www.vision2030.gov.sa/media/vcjnuhsn/vision2030_annual_report_2025-executive_summary_en.pdf
+- Saudi Vision 2030, *Annual Report 2025 — Executive Summary*: https://www.vision2030.gov.sa/
 - U.S. Energy Information Administration, *Hormuz closure and related production outages*, 7 de abril de 2026: https://www.eia.gov/pressroom/releases/press586.php
 
 **Corte de informação:** 18 de setembro de 2026. Condições atuais do conflito, utilização das rotas, execução fiscal e dados do mercado de trabalho devem ser revalidados quando este dossiê for utilizado em pesquisas futuras.

@@ -65,3 +65,8 @@ The canonical Saudi Arabia Country Context dossier published on 18 September 202
 This briefing is internal orientation, not evidence. Reopen and re-verify the underlying external sources before public reuse, especially current conflict conditions, route utilization, oil volumes/prices, fiscal execution, PIF assets/project allocation, bank exposures and labour-market data.
 
 The canonical country dossier identifies useful verification anchors including the IMF 2026 Article IV Consultation with Saudi Arabia, IMF work on Saudi structural reforms, GASTAT labour-market statistics, the Saudi Vision 2030 Annual Report and U.S. EIA work on Hormuz and regional production outages. The canonical report remains a research map rather than a substitute for those sources.
+
+
+### Source access note
+
+The public bibliography retains the exact title *Annual Report 2025 — Executive Summary* and links to the official Saudi Vision 2030 portal to comply with the existing public-output restriction on binary document links. The original source URL is preserved here for verification: https://www.vision2030.gov.sa/media/vcjnuhsn/vision2030_annual_report_2025-executive_summary_en.pdf

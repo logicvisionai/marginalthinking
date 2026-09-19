@@ -78,3 +78,13 @@ The homepage preview uses only edges explicitly marked `home_preview:true`. It i
 A future producer updating the network should start from canonical public research bundles, identify only relationships that materially improve cross-research understanding, revalidate time-sensitive facts externally in the research product before changing the graph, update the current edge and append history atomically, run the validator, and never create a taxonomy program, topic or navigation vertical from a graph cluster.
 
 The network should remain selective. Its value comes from tracing mechanisms and substitutions, not from maximizing node count.
+
+## Responsive exploration
+
+The network is a bounded SVG viewport, not a fixed-width page. Its controls include zoom in/out (up to 300%), fit to view, readable size (100%), a node selector and an expanded native dialog. Mouse/touch dragging pans the camera; two-pointer pinching zooms around the gesture midpoint. Ctrl/Command + wheel zooms around the pointer; an unmodified wheel scrolls the document. The keyboard supports arrows, +/− and 0/Home to fit. Moving keyboard focus to a node or relationship brings it into view.
+
+Desktop starts at readable size with the whole stage available to the graph. Selecting an entity reveals its dossier beside the graph on wide screens and below it on narrow screens. The back-to-network button restores focus. Mobile starts with a complete overview; node selection or readable size enables detailed exploration. The expanded dialog retains the same graph, selection and zoom, traps focus natively and closes with Escape. Resizing preserves the explored center/scale, or refits if fit mode is active.
+
+System filtering sets the actual SVG `hidden` attribute and includes the endpoints of visible relationships, even when those nodes belong to another system. Fitting a filter uses visible geometry. Bands derive their heights from node occupancy, and labels wrap instead of being permanently truncated. The home preview uses a vertical arrangement below 560 px, derived from the same preview nodes and edges.
+
+The client implementation is `assets/js/global-dependencies.js`; no graph library is required. Without JavaScript the static graph remains scrollable and the relationship index remains readable. Data, evidence, editorial taxonomy and history are unchanged by viewport navigation.
