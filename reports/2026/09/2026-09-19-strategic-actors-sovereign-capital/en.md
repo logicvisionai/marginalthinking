@@ -11,7 +11,7 @@ PIF, Mubadala, Temasek and GPFG all deploy large pools of public wealth, but thr
 
 PIF explicitly combines financial returns with Saudi economic transformation. Mubadala combines global investing with long-term exposure to sectors important to the UAE economy. Temasek directly owns its portfolio assets but states that the Singapore Government does not direct its investment decisions. Norway separates political mandate-setting from operational portfolio management through a formal delegation chain.
 
-The central conclusion is not that one model is stronger than another. It is that **the structural effect of sovereign capital depends on the institutional transmission mechanism, not only on portfolio size**.
+The four cases point to a common conclusion: **the structural effect of sovereign capital depends on mandate, rights and the institutional transmission mechanism, not only on portfolio size**.
 
 ## Four pools of public capital, four governance structures
 
@@ -44,9 +44,9 @@ Mubadala reported **AED1.4 trillion (US$385 billion) in AUM** for 2025, up 17% y
 
 The structural relevance of this model is the ability to combine international portfolio exposure, long-duration capital and domestic strategic assets. That can create channels for financing, technology relationships, corporate formation and infrastructure development.
 
-But the analytical boundary is important: **state ownership is not evidence that every Mubadala investment is directed for geopolitical purposes**. A transaction should be classified as industrial policy, strategic positioning or ordinary portfolio investment only when its mandate, structure or surrounding evidence supports that interpretation.
+State ownership by itself **does not show that every Mubadala investment is directed toward geopolitical objectives**. Labels such as industrial policy or strategic positioning require evidence in the mandate, transaction structure or documented context.
 
-The distinction matters because otherwise sovereign ownership becomes a shortcut for attributing motives that may not be documented.
+Without that separation, sovereign ownership becomes a shortcut for assigning motives that the available evidence may not support.
 
 ## Temasek shows why state ownership and state direction must be kept separate
 
@@ -147,7 +147,7 @@ Sovereign investment can influence geopolitics without requiring a secret or coo
 
 If a public investor finances ports, power generation, semiconductor capacity, mining, data infrastructure or national champions, the resulting asset can change the state's productive capacity or external dependencies. If a fund becomes a long-duration co-investor in foreign technology and infrastructure, it can deepen commercial relationships that later have political relevance. If a savings fund accumulates broad stakes across global markets, it can acquire persistent shareholder rights and exposure to the governance of international companies.
 
-Those are mechanisms. They should be evaluated individually.
+The geopolitical effect therefore depends on the asset, the rights involved, the investment horizon and the dependencies the transaction actually creates.
 
 The same discipline applies in the opposite direction. A passive minority stake in a foreign company does not by itself demonstrate geopolitical leverage. A large AUM number does not show that the state can redirect the entire portfolio at will. A sovereign owner does not automatically control every portfolio company's operations.
 
