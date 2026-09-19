@@ -18,7 +18,7 @@ O sinal mais importante não é simplesmente que os ativos de risco subiram ou c
 | Brent | US$ 104,87/barril | queda na sexta | O medo imediato de oferta diminuiu; prêmio por disrupção permanece |
 | WTI | US$ 100,30/barril | queda na sexta | Impulso inflacionário dos EUA cedeu na margem |
 | Treasury EUA 10 anos | ~5,0% | ainda elevado | Custo de desconto e refinanciamento global continua restritivo |
-| S&P 500 | +0,2% sexta | resistência seletiva | Preço do índice mais forte que breadth/fluxos |
+| S&P 500 | +0,2% sexta | resistência seletiva | Índice mais resistente que a amplitude do mercado e os fluxos |
 | Nasdaq | +0,4% sexta | resistência liderada por tecnologia | Ações de longa duração absorvem juros altos por enquanto |
 | Ouro à vista | ~US$ 4.390/onça | +1,2% | Demanda defensiva resiste ao aperto monetário |
 | Fundos globais de ações | -US$ 23,21 bi | semana até 16/set | Fluxos amplos continuam defensivos |
@@ -51,7 +51,7 @@ Europa | Algumas cargas sauditas de outubro teriam sido afetadas | Refinarias po
 Ásia | Grande exposição às importações do Golfo permanece | Petróleo mais barato ajuda a conta externa, mas risco de rota continua
 ```
 
-## Juros altos e tecnologia resistente formam uma divergência cross-asset real
+## Juros altos e tecnologia resistente formam uma divergência real entre classes de ativos
 
 O Nasdaq avançou na sexta-feira mesmo com o Treasury de 10 anos perto de 5%. Essa não é a combinação usual para ativos cuja avaliação depende fortemente de lucros distantes. A divergência pode persistir se expectativas de lucro e investimentos ligados à IA forem fortes o suficiente para compensar taxas de desconto maiores, mas a exigência aumentou: revisões negativas de lucros ou nova alta dos juros reais mostrariam quanto da resistência vem de fundamentos e quanto vem de posicionamento.
 
@@ -119,4 +119,4 @@ O risco possivelmente subestimado é o mercado interpretar petróleo mais barato
 
 ### Fontes
 
-Foram usados como referências primárias e de primeira linha a decisão do Banco do Japão de 18/set/2026, dados do mercado de Treasuries, a decisão do Copom/Banco Central do Brasil e cobertura Reuters de mercados, energia, metais preciosos e fluxos de fundos de 18/set/2026. URLs principais: https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-18/ ; https://www.reuters.com/business/energy/oil-prices-fall-1-hopes-limited-supply-disruptions-2026-09-18/ ; https://www.reuters.com/world/asia-pacific/boj-raises-interest-rates-31-year-high-widely-expected-move-2026-09-18/ ; https://www.reuters.com/world/china/global-markets-flows-graphic-pix-2026-09-18/ ; https://www.reuters.com/business/gold-extends-gains-scale-one-week-high-crude-prices-ease-2026-09-18/ ; https://www.reuters.com/world/americas/brazil-central-bank-cuts-rates-fifth-straight-meeting-2026-09-16/ . Os níveis de mercado correspondem ao último fechamento ou observação disponível da sexta-feira, 18 de setembro, pois esta edição foi preparada após o encerramento da sessão.
+A edição combina fontes oficiais diretamente consultadas para decisões de política monetária com cobertura de primeira linha e dados reportados por Reuters/LSEG para preços, fluxos, energia e metais. As observações de mercado e logística baseadas em Reuters/LSEG não são tratadas como dados primários independentes. Entre as referências utilizadas estão a decisão do Banco do Japão de 18/set/2026, a decisão do Copom/Banco Central do Brasil e reportagens Reuters de 18/set/2026 sobre mercados globais, petróleo, metais preciosos e fluxos de fundos. Os níveis de mercado correspondem ao último fechamento ou observação disponível da sexta-feira, 18 de setembro.
