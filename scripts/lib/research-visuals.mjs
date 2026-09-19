@@ -125,7 +125,7 @@ function dependencyMap(raw,locale='en'){
   for(const source of raw){const rawLine=cleanDiagramLine(source),trim=rawLine.trim();if(!trim||/^[│▼]+$/.test(trim))continue;
     if(heading(trim)){current={title:trim.replace(/[│├└┬┴┼─►▼→]/g,'').trim(),relations:[],notes:[]};stages.push(current);continue;}
     if(!current)continue;
-    if(/[►→]/.test(trim)){const parts=trim.split(/[►→]/);const left=(parts.shift()||'').replace(/^[│├└┬┴┼─\s]+/,'').replace(/[─\s]+$/,'').trim();const right=parts.join('→').replace(/^[─\s]+/,'').trim();if(left&&right)current.relations.push([left,right]);continue;}
+    if(/[►→]/.test(trim)){const parts=trim.split(/[►→]/);const left=(parts.shift()||'').replace(/^[│├└┬┴┼─\s]+/,'').replace(/[─\s]+$/,'').trim();const right=parts.join('→').replace(/^[─\s]+/,'').trim();if(left&&right)current.relations.push([left,right]);else if(right)current.notes.push(right);continue;}
     const note=trim.replace(/^[│├└┬┴┼─\s]+/,'').trim();if(note&&!/^[-─]+$/.test(note))current.notes.push(note);
   }
   if(stages.length<2)return'';

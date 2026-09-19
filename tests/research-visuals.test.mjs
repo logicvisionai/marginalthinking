@@ -61,3 +61,9 @@ test('invalid chart authoring remains visible and HTML is escaped', () => {
   const html = renderMarkdown('```map\n<script>alert(1)</script> | <img src=x> | note\n```').html;
   assert(!html.includes('<script>')); assert(!html.includes('<img ')); assert(html.includes('&lt;script&gt;'));
 });
+
+test('legacy dependency diagrams preserve arrow-only return paths', () => {
+  const html = renderVisual('diagram', ['RESOURCES', 'oil → energy', 'CAPITAL', '└────► reinvestment into the next cycle']);
+  assert(html.includes('reinvestment into the next cycle'));
+  assert.match(html, /class="structure-stage"/);
+});
