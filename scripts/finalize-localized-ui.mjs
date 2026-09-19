@@ -50,6 +50,7 @@ function fixCards(html,locale){
 function setAnchor(body,href,active){
   const re=new RegExp(`<a href="${rx(href)}"([^>]*)>`,'g');
   return body.replace(re,(m,attrs)=>{
+    if(/\bhreflang=/.test(attrs))return m;
     let a=attrs.replace(/\s+class="active"/g,'').replace(/\s+aria-current="page"/g,'');
     if(active)a+=' class="active" aria-current="page"';
     return `<a href="${href}"${a}>`;
