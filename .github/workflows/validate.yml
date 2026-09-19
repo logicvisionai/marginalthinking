@@ -58,7 +58,14 @@ jobs:
           test -f dist/search.html
           test -f dist/pt-br/search.html
           test -f dist/assets/js/global-search.js
+          test -f dist/assets/js/strategic-actors.js
           test -f dist/assets/css/discovery.css
+          grep -q 'nav-dropdown' dist/index.html
+          grep -q 'data-locale="pt-BR"' dist/index.html
+          grep -q 'actors-explorer' dist/actors/index.html
+          grep -q 'data-actor-cell' dist/actors/index.html
+          grep -q 'actor-inspector' dist/pt-br/actors/index.html
+          grep -q 'marginal-thinking-locale' dist/assets/js/app.js
           test -f dist/assets/og/marginal-thinking-en.png
           test -f dist/assets/og/marginal-thinking-pt-br.png
           test -f dist/series/energy-materials-industrial-systems/index.html
