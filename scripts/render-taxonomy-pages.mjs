@@ -35,10 +35,10 @@ function collectionPage(locale,{eyebrow,title,description,items,canonical,active
   const body=items.length?`<div class="research-list">${items.map(x=>card(x,locale)).join('')}</div>`:`<div class="panel"><p>${locale==='pt-BR'?'Ainda não há pesquisas publicadas nesta coleção.':'No research has been published in this collection yet.'}</p></div>`;
   return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${head(locale,title,description,pagePath(locale,canonical))}</head><body>${L.nav(active,alts)}<main><section class="page-hero"><div class="container"><div class="eyebrow dark">${esc(eyebrow)}</div><h1>${esc(title)}</h1><p>${esc(description)}</p></div></section><section class="section"><div class="container">${body}</div></section></main>${L.footer()}<script src="/assets/js/app.js"></script></body></html>`;
 }
-function hubPage(locale,type,entries,canonical,title,description){
+function hubPage(locale,type,entries,canonical,title,description,active='research'){
   const L=layout(locale),alts=Object.fromEntries(localeCodes.map(l=>[l,pagePath(l,canonical)]));
   const cards=entries.map(e=>`<article class="research-program"><span>${esc(String(e.count))}</span><h3><a href="${L.safe(pagePath(locale,e.path))}">${esc(e.label)}</a></h3><p>${esc(e.text||'')}</p></article>`).join('');
-  return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${head(locale,title,description,pagePath(locale,canonical))}</head><body>${L.nav('research',alts)}<main><section class="page-hero"><div class="container"><div class="eyebrow dark">${esc(type)}</div><h1>${esc(title)}</h1><p>${esc(description)}</p></div></section><section class="section"><div class="container"><div class="research-programs">${cards}</div></div></section></main>${L.footer()}<script src="/assets/js/app.js"></script></body></html>`;
+  return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${head(locale,title,description,pagePath(locale,canonical))}</head><body>${L.nav(active,alts)}<main><section class="page-hero"><div class="container"><div class="eyebrow dark">${esc(type)}</div><h1>${esc(title)}</h1><p>${esc(description)}</p></div></section><section class="section"><div class="container"><div class="research-programs">${cards}</div></div></section></main>${L.footer()}<script src="/assets/js/app.js"></script></body></html>`;
 }
 
 const programEntries=Object.entries(taxonomy.programs||{}).map(([id,obj])=>({id,obj,items:reports.filter(r=>r.program===id)}));
@@ -58,11 +58,11 @@ for(const locale of localeCodes){
   const regionTitle=locale==='pt-BR'?'Países & Regiões':'Countries & Regions';
   const regionDesc=locale==='pt-BR'?'Pesquisas organizadas por país e região.':'Research organized by country and region.';
   const geographicEntries=[...regionEntries.map(e=>({label:label(e.obj,locale,e.id),count:e.items.length,path:`/regions/${e.id}/`,text:locale==='pt-BR'?'Coleção regional.':'Regional collection.'})),...Array.from(countryMap.values()).map(c=>({label:c.slug.split('-').map(x=>x[0]?.toUpperCase()+x.slice(1)).join(' '),count:c.items.length,path:`/countries/${c.slug}/`,text:`${c.code} · ${locale==='pt-BR'?'coleção por país':'country collection'}`}))];
-  write(pagePath(locale,'/regions/index.html'),hubPage(locale,locale==='pt-BR'?'GEOGRAFIA':'GEOGRAPHY',geographicEntries,'/regions/',regionTitle,regionDesc));
-  for(const e of regionEntries)write(pagePath(locale,`/regions/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'REGIÃO':'REGION',title:label(e.obj,locale,e.id),description:regionDesc,items:e.items,canonical:`/regions/${e.id}/`}));
+  write(pagePath(locale,'/regions/index.html'),hubPage(locale,locale==='pt-BR'?'GEOGRAFIA':'GEOGRAPHY',geographicEntries,'/regions/',regionTitle,regionDesc,'geography'));
+  for(const e of regionEntries)write(pagePath(locale,`/regions/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'REGIÃO':'REGION',title:label(e.obj,locale,e.id),description:regionDesc,items:e.items,canonical:`/regions/${e.id}/`,active:'geography'}));
   for(const c of countryMap.values()){
     const name=c.slug.split('-').map(x=>x[0]?.toUpperCase()+x.slice(1)).join(' ');
-    write(pagePath(locale,`/countries/${c.slug}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'PAÍS':'COUNTRY',title:name,description:locale==='pt-BR'?`Pesquisas relacionadas a ${name}.`:`Research related to ${name}.`,items:c.items,canonical:`/countries/${c.slug}/`}));
+    write(pagePath(locale,`/countries/${c.slug}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'PAÍS':'COUNTRY',title:name,description:locale==='pt-BR'?`Pesquisas relacionadas a ${name}.`:`Research related to ${name}.`,items:c.items,canonical:`/countries/${c.slug}/`,active:'geography'}));
   }
   for(const e of topicEntries)write(pagePath(locale,`/topics/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'TEMA':'TOPIC',title:label(e.obj,locale,e.id),description:locale==='pt-BR'?'Pesquisas relacionadas a este tema.':'Research related to this topic.',items:e.items,canonical:`/topics/${e.id}/`}));
 }
