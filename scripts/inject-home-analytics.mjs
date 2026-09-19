@@ -116,9 +116,21 @@ function dependencyPreview(locale,L){
   const edges=(dependency.edges||[]).filter(e=>e.home_preview&&ids.has(e.from)&&ids.has(e.to));
   const nodeById=new Map(nodes.map(n=>[n.id,n]));
   const critical=(dependency.edges||[]).filter(e=>e.criticality==='high').length;
-  const lines=edges.map(e=>{const a=nodeById.get(e.from).home_preview,b=nodeById.get(e.to).home_preview;const bend=Math.max(4,Math.abs(b.x-a.x)*.28);const d='M '+a.x+' '+a.y+' C '+(a.x+bend)+' '+a.y+', '+(b.x-bend)+' '+b.y+', '+b.x+' '+b.y;return '<path class="home-dependency-edge '+(e.criticality==='high'?'critical':'')+'" d="'+d+'"/>';}).join('');
-  const nodeHtml=nodes.map(n=>'<span class="home-dependency-node node-'+esc(n.type)+'" style="left:'+n.home_preview.x+'%;top:'+n.home_preview.y+'%"><b>'+esc(pick(n.label,locale))+'</b></span>').join('');
-  return '<article class="home-dependency-feature"><div class="home-dependency-copy"><span class="home-dependency-kicker">'+esc(L.dependencyKicker)+'</span><h3>'+esc(L.dependency)+'</h3><p>'+esc(L.dependencyDeck)+'</p><div class="home-dependency-metrics"><span><strong>'+dependency.nodes.length+'</strong>'+esc(L.dependencyNodes)+'</span><span><strong>'+dependency.edges.length+'</strong>'+esc(L.dependencyEdges)+'</span><span><strong>'+critical+'</strong>'+esc(L.dependencyCritical)+'</span></div><a href="'+esc(href)+'">'+esc(L.dependencyOpen)+' <span aria-hidden="true">→</span></a></div><a class="home-dependency-canvas" href="'+esc(href)+'" aria-label="'+esc(L.dependencyOpen)+'"><svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'+lines+'</svg>'+nodeHtml+'</a></article>';
+  const mobilePosition=p=>({x:p.y>60?75:25,y:p.x});
+  const paths=mobile=>edges.map(e=>{
+    let a=nodeById.get(e.from).home_preview,b=nodeById.get(e.to).home_preview;
+    if(mobile){a=mobilePosition(a);b=mobilePosition(b);}
+    const bend=Math.max(4,Math.abs(mobile?b.y-a.y:b.x-a.x)*.28);
+    const skipsNode=nodes.some(n=>n.id!==e.from&&n.id!==e.to&&n.home_preview.y===nodeById.get(e.from).home_preview.y&&n.home_preview.x>nodeById.get(e.from).home_preview.x&&n.home_preview.x<nodeById.get(e.to).home_preview.x);
+    const d=skipsNode?(mobile?`M ${a.x} ${a.y} C 103 ${a.y}, 103 ${b.y}, ${b.x} ${b.y}`:`M ${a.x} ${a.y} C ${a.x} 103, ${b.x} 103, ${b.x} ${b.y}`):mobile?`M ${a.x} ${a.y} C ${a.x} ${a.y+bend}, ${b.x} ${b.y-bend}, ${b.x} ${b.y}`:`M ${a.x} ${a.y} C ${a.x+bend} ${a.y}, ${b.x-bend} ${b.y}, ${b.x} ${b.y}`;
+    return '<path class="home-dependency-edge '+(e.criticality==='high'?'critical':'')+'" d="'+d+'"/>';
+  }).join('');
+  const nodeHtml=nodes.map(n=>{
+    const p=n.home_preview,m=mobilePosition(p);
+    return `<span class="home-dependency-node node-${esc(n.type)}" style="--node-x:${p.x}%;--node-y:${p.y}%;--mobile-x:${m.x}%;--mobile-y:${m.y}%"><b>${esc(pick(n.label,locale))}</b></span>`;
+  }).join('');
+  return '<article class="home-dependency-feature"><div class="home-dependency-copy"><span class="home-dependency-kicker">'+esc(L.dependencyKicker)+'</span><h3>'+esc(L.dependency)+'</h3><p>'+esc(L.dependencyDeck)+'</p><div class="home-dependency-metrics"><span><strong>'+dependency.nodes.length+'</strong>'+esc(L.dependencyNodes)+'</span><span><strong>'+dependency.edges.length+'</strong>'+esc(L.dependencyEdges)+'</span><span><strong>'+critical+'</strong>'+esc(L.dependencyCritical)+'</span></div><a href="'+esc(href)+'">'+esc(L.dependencyOpen)+' <span aria-hidden="true">→</span></a></div><a class="home-dependency-canvas" href="'+esc(href)+'" aria-label="'+esc(L.dependencyOpen)+'"><svg class="home-dependency-horizontal" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'+paths(false)+'</svg><svg class="home-dependency-vertical" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'+paths(true)+'</svg>'+nodeHtml+'</a></article>';
+
 }
 
 function technologySignalForReport(report){
