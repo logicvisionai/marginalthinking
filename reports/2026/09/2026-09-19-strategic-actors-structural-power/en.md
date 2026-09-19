@@ -9,9 +9,9 @@ Large pools of wealth matter, but wealth alone does not explain structural power
 
 The analytical problem is therefore not to compile a list of rich institutions. It is to identify **which actors can change the constraints under which other actors operate, through which documented mechanism, for how long, and with what substitutes available**.
 
-This first Strategic Actors assessment establishes that method and tests it against five different structures: BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore and ASML. The comparison is intentionally heterogeneous. The purpose is to show why assets under management, shareholder rights, physical intermediation, productive control and technological dependence cannot be collapsed into one ranking.
+BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore and ASML illustrate five distinct forms of structural capacity. The comparison is heterogeneous by necessity: assets under management, shareholder rights, physical intermediation, productive control and technological dependence do not measure the same thing and should not be compressed into a single ranking.
 
-The central assessment is: **structural capacity is best understood as a chain linking an actor to a capability, a dependency and a transmission mechanism. Size matters when it strengthens that chain, but size is not the chain itself.**
+**Structural capacity emerges when an actor combines a material capability with a relevant dependency and a transmission mechanism capable of affecting other actors' choices.** Scale strengthens that effect when it increases reach, persistence or difficulty of substitution, but scale does not create it by itself.
 
 ## The first error is treating assets under management as ownership
 
@@ -123,7 +123,7 @@ Structural capacity
 
 This framework deliberately avoids a single "power score." Combining US dollars of AUM, barrels per day, voting rights and technology substitution into one number would manufacture precision rather than measure a coherent variable.
 
-The more useful output is a profile: which channels are documented, what they reach, what limits them, and whether the dependent system has credible alternatives.
+The relevant analytical result is a capability profile: which channels are documented, what they reach, which legal or operational limits constrain them, and how credible the available alternatives are.
 
 ## Public funds add another layer: the mandate must be separated from the portfolio
 
@@ -131,11 +131,11 @@ The Government Pension Fund Global ended 2025 at NOK21.268 trillion, with 71.3% 
 
 That architecture matters because "state money" does not describe how decisions are actually made. The same is true across sovereign investors. Some have explicit domestic transformation mandates; others are designed primarily to preserve or compound public wealth; others own strategic companies while maintaining commercial decision-making structures.
 
-The second research in this initial release therefore examines sovereign capital separately rather than assuming a single model.
+Sovereign investors require separate analysis because the relationship between public wealth, mandate, governance and investment decisions differs materially across countries.
 
-## What the first map changes
+## Different rights produce different forms of influence
 
-The first Strategic Actors dataset treats every relation as a typed mechanism. It distinguishes:
+The same institution can participate in an economic chain through different rights and capabilities. Separating those links prevents financial exposure, voting authority, productive ownership and technology supply from being treated as synonyms for control.
 
 | Relationship | What it means | What it must not be silently upgraded into |
 |---|---|---|
@@ -147,23 +147,15 @@ The first Strategic Actors dataset treats every relation as a typed mechanism. I
 | production control | an actor owns or controls productive assets | control of the entire global market |
 | technology supply | an actor supplies a difficult-to-replace capability | sovereign authority over who may receive it |
 
-The public tool uses those distinctions to connect actors to markets, industrial capacity, energy flows, critical materials and advanced semiconductor production. The database is intentionally selective. Absence from the map means only that an actor has not yet passed the evidence and materiality test.
+These distinctions also change how dependency should be read. A market can be exposed to a very large capital allocator without being operationally dependent on it; an industrial chain can instead depend on a much smaller supplier when technological substitution is slow, costly or constrained by installed capacity.
 
-## What should enter next
-
-The next expansion should not begin with famous surnames. It should begin with mechanisms that remain under-mapped.
-
-That means private-credit platforms that have become material lenders to infrastructure and corporate borrowers; clearing and settlement institutions whose failure would interrupt financial markets; insurers whose balance sheets determine which risks can be financed; port, shipping and pipeline operators at concentrated corridors; cloud and datacenter operators where compute dependency is geographically concentrated; semiconductor-equipment and materials suppliers; policy banks; pension funds; and legally identifiable family offices or foundations where a documented channel reaches capital, institutions or public policy.
-
-Rothschild, Rockefeller, Soros or any other family or individual should enter only through a specific legal or operational entity. The surname itself is not an analytical node.
-
-## What would weaken an actor's structural relevance
+ ## Conditions that would reduce structural relevance
 
 The assessment should be revised downward when one or more of the following occur: credible substitutes scale rapidly; switching costs collapse; a mandate is materially narrowed; voting or ownership rights decline; production or flow volumes lose relevance; a formerly proprietary technology becomes commoditized; regulation removes access to the relevant channel; or a previously concentrated dependency becomes distributed among many alternatives.
 
 The opposite also matters. Consolidation, rising market dependence, expanding mandates, vertical integration, new infrastructure ownership or tighter technological scarcity can increase structural relevance even when an actor's headline asset value changes little.
 
-That is why Strategic Actors should be updated primarily **event-driven**, with periodic structural reviews. The unit being monitored is not celebrity. It is the mechanism.
+Structural relevance is therefore not permanent. It depends on concentration, substitutability, effective rights, operating capacity and the persistence of the mechanism over time.
 
 ## Principal sources
 
