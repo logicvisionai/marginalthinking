@@ -1,0 +1,87 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-18-saudi-arabia",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-18T23:31:06-03:00",
+  "reviewed_commit": "99bf34eb6027d8a278f759e4bbcaf0f3aad0c906",
+  "pending_blob_sha": "8afcc2d4888ac791837a8aa1150c32d735542f78",
+  "source_blob_shas": {
+    "en": "7474a8b682bbe1609b0658834aa5845b6a3f80ef",
+    "pt-BR": "eb2cec2e82103cac50b02614d76dbff1a36484b9"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "pipeline": "passed: schema v2, ready true, source_locale en, complete EN/PT-BR staged sources and country-context classification are present",
+    "facts": "passed: IMF 2026 Article IV corroborates 2025 real GDP growth 4.6%, non-oil growth 4.2%, 2026 projections of 1.7% and 2.6%, fiscal balance -5.8%/-3.7%, debt 31.8%/32.1%, non-oil primary balance -23.3%/-22.2%, current account -2.6%/-0.3%, 69% oil-and-oil-products export share, East-West rerouting, dollar-peg assessment, banking buffers and recalibrated PIF strategy. Vision 2030's 2025 report supports preliminary PIF AUM near US$909bn. Q2 2025 labour statistics support Saudi female participation of 34.5% and Saudi unemployment of 6.8%.",
+    "methodology": "passed: observed data, IMF projections, structural inference and forward-looking falsifiers are distinguished; stock/flow and fiscal denominators are explicit; the route visual is labelled as a mechanism map rather than a capacity diagram",
+    "taxonomy": "passed: global-system-power is a controlled program; political-economy-markets is controlled as related program; economy, politics and society are materially connected; geography, topics, phenomena, format and cadence are controlled under taxonomy 1.0; phenomena is a valid array",
+    "country_context": "passed: geography.level is country with Saudi Arabia explicit; related_research_ids point to canonical public MT-GM-2026-09-17 revision 3, MT-GM-2026-09-18 revision 1 and MT-WF-2026-09-18, each materially involving Saudi/Gulf energy, logistics, fiscal or capital mechanisms. The dossier supplies reusable structural context rather than an encyclopedic profile.",
+    "institutional_consensus": "passed: PIF is treated as a state investment institution and its strategy is attributed to IMF/Vision 2030 evidence; the dossier does not infer proprietary positions, client flows, crowding or consensus labels from public research",
+    "conflict_security": "passed: the 2026 regional disruption is treated through observed trade/logistics effects and conditional resilience mechanisms; alternative routes are described as partial resilience rather than immunity, with capacity/utilization explicitly requiring revalidation",
+    "translation": "passed: EN and PT-BR preserve all material numbers, mechanisms, caveats, visuals, related IDs, falsifiers and conclusions without semantic divergence; Portuguese localization is natural and does not expose internal classification labels",
+    "editorial_publication_readiness": "passed: thesis-led opening; analytical headings identify mechanisms and findings; no generic executive-assessment shell, prompt residue, checklist/template fields or meta-QA language; repetition is controlled; progression is fiscal dependence -> state capital -> labour -> logistics -> monetary regime -> external relations -> falsifiers; both editions read as institutional publication copy on first reading",
+    "contextual_depth": "passed: fiscal structure, state-capital allocation, labour segmentation, dollar peg, Gulf logistics and external dependence are connected causally to the current diversification mechanism. Historical material is not added ornamentally; durable institutional and social constraints are incorporated where they explain present capacity and transmission.",
+    "visual_evidence_readiness": "passed: reviewed visual signature is 5 useful elements in each locale: 1 Markdown table, 1 bar chart, 1 flow, 1 mindmap and 1 mechanism map. This exceeds the country-dossier floor of table + chart + structural visual + four total. EN/PT-BR values and mechanisms are semantically equivalent; units and projection labels are explicit; the map avoids unsupported geometry/capacity claims."
+  },
+  "contrary_evidence": [
+    "The 2026 regional conflict still curtailed trade and oil exports despite Saudi logistics redundancy; the East-West route therefore reduces but does not eliminate Gulf exposure.",
+    "Female participation fell from 36.3% in 2025Q1 to 34.5% in 2025Q2 and Saudi unemployment rose from 6.3% to 6.8%, so labour reform progress is not a monotonic quarterly improvement.",
+    "The IMF outlook remains highly uncertain and explicitly identifies prolonged shipping disruption, tighter financial conditions and weaker demand as downside risks to growth and diversification.",
+    "PIF's preliminary 2025 AUM near US$909bn is below the 2025 Vision 2030 target shown in the annual report, reinforcing that balance-sheet scale alone does not establish successful productive diversification."
+  ],
+  "limitations": [
+    "The IMF 2026 macro path is a projection conditioned on gradual normalization of Hormuz traffic and can change materially with conflict duration and oil volumes/prices.",
+    "The route map is a transmission/mechanism visual, not a geospatial or capacity model; current pipeline, terminal and shipping utilization must be reverified in time-sensitive use.",
+    "The PIF asset figure is explicitly preliminary for 2025 and does not by itself measure project returns, private-sector crowding-in or productive additionality.",
+    "Labour statistics cited are 2025Q2 structural context rather than a current 2026 labour-market snapshot."
+  ],
+  "notes": "New Country Context dossier. Approval is valid only for the exact pending and staged-source blob SHAs recorded here. Canonical public state was rechecked immediately before the decision and no public metadata existed for this ID. The dossier is approved as reusable structural context, not as a substitute for time-sensitive market or conflict reporting.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-18-saudi-arabia",
+    "slug": "2026-09-18-country-context-saudi-arabia",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T10:30:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": ["political-economy-markets"],
+    "dimensions": ["economy","politics","society"],
+    "geography": {"level":"country","regions":["middle-east"],"subregions":["gulf"],"countries":[{"code":"SA","slug":"saudi-arabia"}]},
+    "topics": ["fiscal-policy","trade-investment","energy","infrastructure-logistics","industry-production","institutions-governance","demography-labor","capital-markets"],
+    "phenomena": ["war-armed-conflict","institutional-change","social-change"],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "context_role": "country-context",
+    "related_research_ids": ["MT-GM-2026-09-17","MT-GM-2026-09-18","MT-WF-2026-09-18"],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-18-country-context-saudi-arabia/en.md",
+        "title": "Saudi Arabia: oil buffers, state-led diversification and the limits of substitution",
+        "deck": "Saudi Arabia is using hydrocarbon income, state capital and logistics redundancy to widen its productive base, but fiscal dependence, private-sector productivity, labour segmentation and Gulf geography still constrain the transition.",
+        "tags": ["Saudi Arabia","Vision 2030","PIF","oil","labour market","Hormuz","fiscal policy"],
+        "keywords": ["Saudi Arabia","Vision 2030","Public Investment Fund","non-oil GDP","non-oil primary deficit","East-West Pipeline","Hormuz","Saudi labour market","dollar peg"],
+        "regime": "State-led diversification remains supported by oil income and large balance sheets while conflict and higher financing costs increase pressure for selective investment and private-sector productivity.",
+        "key_risk": "A prolonged regional disruption or weaker project returns could force sharper prioritization before private investment and non-oil revenue are deep enough to sustain the investment cycle.",
+        "watch": ["non-oil primary deficit","private investment and non-oil exports","PIF capital allocation","bank exposure to large projects","Saudi labour participation and skills","East-West pipeline and Red Sea export utilization"],
+        "search_text": "Saudi Arabia country context Vision 2030 PIF oil fiscal non-oil primary deficit labour women participation East-West pipeline Hormuz dollar peg diversification"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-18-country-context-saudi-arabia/pt-BR.md",
+        "title": "Arábia Saudita: amortecedores do petróleo, diversificação liderada pelo Estado e os limites da substituição",
+        "deck": "A Arábia Saudita usa renda de hidrocarbonetos, capital estatal e redundância logística para ampliar sua base produtiva, mas dependência fiscal, produtividade privada, segmentação do trabalho e geografia do Golfo ainda limitam a transição.",
+        "tags": ["Arábia Saudita","Visão 2030","PIF","petróleo","mercado de trabalho","Hormuz","política fiscal"],
+        "keywords": ["Arábia Saudita","Visão 2030","Public Investment Fund","PIB não petrolífero","déficit primário não petrolífero","oleoduto Leste-Oeste","Hormuz","mercado de trabalho saudita","vínculo com dólar"],
+        "regime": "A diversificação liderada pelo Estado continua sustentada pela renda do petróleo e por grandes balanços, enquanto conflito e financiamento mais caro aumentam a pressão por investimento seletivo e produtividade privada.",
+        "key_risk": "Uma interrupção regional prolongada ou retornos menores dos projetos podem exigir priorização mais forte antes que investimento privado e receita não petrolífera sejam suficientes para sustentar o ciclo de investimento.",
+        "watch": ["déficit primário não petrolífero","investimento privado e exportações não petrolíferas","alocação de capital do PIF","exposição bancária a grandes projetos","participação e qualificação do trabalho saudita","utilização do oleoduto Leste-Oeste e das exportações pelo Mar Vermelho"],
+        "search_text": "Arábia Saudita contexto país Visão 2030 PIF petróleo fiscal déficit primário não petrolífero trabalho participação feminina oleoduto Leste-Oeste Hormuz dólar diversificação"
+      }
+    }
+  }
+}
