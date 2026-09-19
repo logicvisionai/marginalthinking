@@ -7,7 +7,7 @@
 
 Grandes volumes de riqueza importam, mas riqueza por si só não explica poder estrutural. Uma gestora pode direcionar capital de clientes sem ser proprietária dele. Uma trading de commodities pode ocupar uma posição importante em uma cadeia física sem possuir a maior parte dos recursos que movimenta. Uma empresa de tecnologia pode ter um balanço muito menor que o de um grande fundo e ainda ocupar uma posição difícil de substituir em um sistema produtivo. Um governo pode regular o acesso a essa tecnologia sem operar a empresa que a produz.
 
-O problema analítico, portanto, não é compilar uma lista de instituições ricas. É identificar **quais atores conseguem alterar as restrições sob as quais outros atores operam, por qual mecanismo documentado, durante quanto tempo e com quais alternativas disponíveis**.
+Uma comparação útil precisa ir além do patrimônio e separar **capacidade, dependência e transmissão**: quais atores conseguem restringir ou ampliar as opções de terceiros, por qual mecanismo documentado, por quanto tempo e diante de quais alternativas.
 
 BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore e ASML ilustram cinco formas distintas de capacidade estrutural. A comparação é heterogênea por necessidade: ativos sob gestão, direitos de acionista, intermediação física, controle produtivo e dependência tecnológica não medem a mesma coisa e não devem ser comprimidos em um único ranking.
 
@@ -17,7 +17,7 @@ BlackRock, Norges Bank Investment Management / Government Pension Fund Global, T
 
 A BlackRock reportou **US$ 15,3 trilhões em ativos sob gestão** em 30 de junho de 2026, após US$ 868 bilhões de entradas líquidas nos doze meses anteriores. Esse número descreve a escala dos ativos administrados para clientes. Não significa que a BlackRock possua US$ 15,3 trilhões em títulos por conta econômica própria. [BlackRock — resultados do 2º trimestre de 2026](https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-second-quarter-2026)
 
-A distinção importa porque a BlackRock possui um canal de transmissão para governança corporativa, mas ele é diferente. A BlackRock Investment Stewardship afirma que vota em assembleias **para clientes que a autorizaram a votar em seu nome** e dialoga com conselhos e administrações para informar essas decisões. A BlackRock também afirma que mais de 90% do AUM de ações públicas de seus clientes estava em estratégias de índice em 30 de junho de 2026. [BlackRock Investment Stewardship](https://www.blackrock.com/corporate/insights/thought-leadership/investment-stewardship)
+O canal de governança corporativa da BlackRock decorre de autoridade delegada, não da propriedade econômica do patrimônio administrado. A BlackRock Investment Stewardship afirma que vota em assembleias **para clientes que a autorizaram a votar em seu nome** e dialoga com conselhos e administrações para informar essas decisões. A BlackRock também afirma que mais de 90% do AUM de ações públicas de seus clientes estava em estratégias de índice em 30 de junho de 2026. [BlackRock Investment Stewardship](https://www.blackrock.com/corporate/insights/thought-leadership/investment-stewardship)
 
 A cadeia defensável é, portanto:
 
@@ -63,13 +63,13 @@ O mecanismo fica, portanto, mais próximo de:
 Minas e ativos industriais próprios ou controlados → produção física → rede de marketing e trading → processadores e usuários finais → preços, estoques e disponibilidade industrial
 ```
 
-Novamente, os últimos estágios dependem das condições de mercado e de fornecedores concorrentes. Controle produtivo é mais forte que intermediação pura, mas continua diferente de controlar todo o mercado de uma commodity.
+Os efeitos sobre preços, estoques e disponibilidade continuam condicionados pela concorrência, pela demanda e pela existência de outros fornecedores. Controle produtivo cria uma posição mais direta que a intermediação pura, sem equivaler ao controle do mercado global da commodity.
 
 ## Dependência tecnológica muda o significado de escala
 
 A ASML mostra por que tamanho financeiro pode ser um ponto de partida inadequado. Em 2025, a empresa reportou € 32,7 bilhões de vendas líquidas, € 4,7 bilhões de P&D e 535 sistemas vendidos, incluindo 48 sistemas de litografia ultravioleta extrema e 279 sistemas ultravioleta profunda. [ASML 2025 Annual Report](https://www.asml.com/en/investors/annual-report/2025)
 
-A pergunta importante não é se esses números são maiores ou menores que o portfólio de um fundo soberano. A pergunta é se a produção a jusante consegue substituir a capacidade.
+Para a ASML, a variável decisiva é a substituibilidade: quanto tempo, capital e conhecimento seriam necessários para que fabricantes de chips reproduzissem ou contornassem a capacidade fornecida pela empresa.
 
 O governo dos Países Baixos submete explicitamente categorias de equipamentos avançados de fabricação de semicondutores, incluindo equipamentos de litografia, a requisitos nacionais de autorização de exportação. Em janeiro de 2025 ampliou esses controles e afirmou que os Países Baixos possuem papel único em tecnologia de fabricação de semicondutores; o licenciamento permanece uma decisão governamental caso a caso, e não uma proibição geral de exportação. [Governo dos Países Baixos — controles de exportação de equipamentos avançados de semicondutores](https://www.government.nl/latest/news/2025/01/15/klever-export-controls-on-advanced-semiconductor-manufacturing-equipment-to-be-tightened)
 
