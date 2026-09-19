@@ -108,7 +108,7 @@ const visualCss=path.join(root,'assets/css/research-visuals.css');
 if(!fs.existsSync(visualCss))fail.push('research-visuals.css: sistema visual ausente');
 else{
   const css=fs.readFileSync(visualCss,'utf8');
-  for(const token of ['.visual-figure .md-table-wrap','overflow:auto','@container research-visual','minmax(min(100%,17rem),1fr)'])if(!css.includes(token))fail.push(`research-visuals.css: proteção ausente ${token}`);
+  for(const token of ['.visual-figure .md-table-wrap','overflow:auto','@container research-visual','flex:1 1 17rem'])if(!css.includes(token))fail.push(`research-visuals.css: proteção ausente ${token}`);
 }
 const navCss=path.join(root,'assets/css/mobile-nav-fix.css');
 if(fs.existsSync(navCss)){
