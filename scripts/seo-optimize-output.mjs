@@ -120,7 +120,14 @@ function optimizeCollections(){
   const sitemapFile=path.join(out,'sitemap.xml');if(fs.existsSync(sitemapFile)){
     let xml=fs.readFileSync(sitemapFile,'utf8');
     for(const url of inactive){const abs=`${site}${url}`,rx=new RegExp(`<url><loc>${rxEsc(escXml(abs))}<\\/loc>[\\s\\S]*?<\\/url>`,'g');xml=xml.replace(rx,'');}
-    for(const [abs,date] of activeDates){if(!date)continue;const rx=new RegExp(`(<url><loc>${rxEsc(escXml(abs))}<\\/loc>)(?:<lastmod>[^<]*<\\/lastmod>)?`,'g');xml=xml.replace(rx,`$1<lastmod>${date}</lastmod>`);}
+    // Collection renderers contribute routes earlier in the pipeline. Reconcile
+    // against the canonical collection map here so an omitted entry cannot leave
+    // a live, populated collection undiscoverable.
+    for(const [abs,date] of activeDates){
+      const loc=`<loc>${escXml(abs)}</loc>`;
+      if(!xml.includes(loc)&&fs.existsSync(fileForUrl(new URL(abs).pathname)))xml=xml.replace('</urlset>',`<url>${loc}${date?`<lastmod>${date}</lastmod>`:''}</url></urlset>`);
+      else if(date){const rx=new RegExp(`(<url><loc>${rxEsc(escXml(abs))}<\\/loc>)(?:<lastmod>[^<]*<\\/lastmod>)?`,'g');xml=xml.replace(rx,`$1<lastmod>${date}</lastmod>`);}
+    }
     fs.writeFileSync(sitemapFile,xml);
   }
   const searchFile=path.join(out,'data/search-index.json');if(fs.existsSync(searchFile)){

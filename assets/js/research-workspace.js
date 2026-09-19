@@ -9,20 +9,21 @@ const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'')
 const date=value=>new Intl.DateTimeFormat(locale,{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'}).format(new Date(`${String(value).slice(0,10)}T12:00:00Z`));
 const fields=['q','program','topic','country','kind','from','to','sort'],perPage=12;
 const searchText=new Map(items.map(r=>[r.id,normalize([r.title,r.deck,r.regime,r.risk,...r.watch,r.keywords,r.programLabel,...r.topics.map(x=>x.label),...r.countries.map(x=>x.label)].join(' '))]));
-let view='all',page=1,compared=[],sharedIds=[],filtered=[],inputTimer;
+let view='all',savedOnly=false,page=1,compared=[],sharedIds=[],filtered=[],inputTimer;
 const inNotebook=r=>{const s=researchItem(r.id);return s.saved||s.read||s.note.length>0;};
 const ids=value=>[...new Set(String(value||'').split(','))].filter(id=>byId.has(id));
 function hydrate(){
   const params=new URLSearchParams(location.search);
   view=['all','saved','watch'].includes(params.get('view'))?params.get('view'):'all';
   for(const name of fields){const input=form.elements.namedItem(name);input.value=params.get(name)||(name==='sort'?'newest':'');if(name==='q')input.value=input.value.slice(0,300);}
-  compared=ids(params.get('compare')).slice(0,3);sharedIds=ids(params.get('ids')).slice(0,200);page=Math.max(1,Math.min(10000,Number(params.get('page'))||1));
+  savedOnly=params.get('scope')==='saved';$('watch-saved').checked=savedOnly;
+  compared=ids(params.get('compare')).slice(0,3);sharedIds=ids(params.get('ids')).slice(0,200);page=Math.max(1,Math.min(10000,Math.trunc(Number(params.get('page')))||1));
   if(['kind','from','to'].some(name=>form.elements.namedItem(name).value)||form.elements.sort.value==='oldest')form.querySelector('details').open=true;
 }
 function paramsFor(){
   const params=new URLSearchParams();
   for(const name of fields){const value=form.elements.namedItem(name).value.trim();if(value&&!(name==='sort'&&value==='newest'))params.set(name,value);}
-  if(view!=='all')params.set('view',view);if(compared.length)params.set('compare',compared.join(','));if(sharedIds.length)params.set('ids',sharedIds.join(','));if(page>1)params.set('page',String(page));
+  if(view!=='all')params.set('view',view);if(view==='watch'&&savedOnly)params.set('scope','saved');if(compared.length)params.set('compare',compared.join(','));if(sharedIds.length)params.set('ids',sharedIds.join(','));if(page>1)params.set('page',String(page));
   return params;
 }
 function updateUrl(replace=false){
@@ -33,7 +34,7 @@ function updateUrl(replace=false){
 function query(){
   const values=Object.fromEntries(fields.map(name=>[name,form.elements.namedItem(name).value.trim()]));
   const terms=normalize(values.q).split(/\s+/).filter(Boolean),invalidRange=values.from&&values.to&&values.from>values.to;
-  filtered=items.filter(r=>!invalidRange&&(view!=='saved'||inNotebook(r))&&(!sharedIds.length||sharedIds.includes(r.id))&&(!values.program||r.program===values.program)&&(!values.topic||r.topics.some(t=>t.id===values.topic))&&(!values.country||r.countries.some(c=>c.id===values.country))&&(!values.kind||r.kind===values.kind)&&(!values.from||r.date>=values.from)&&(!values.to||r.date<=values.to)&&terms.every(t=>searchText.get(r.id).includes(t)));
+  filtered=items.filter(r=>!invalidRange&&((view!=='saved'&&!(view==='watch'&&savedOnly))||inNotebook(r))&&(!sharedIds.length||sharedIds.includes(r.id))&&(!values.program||r.program===values.program)&&(!values.topic||r.topics.some(t=>t.id===values.topic))&&(!values.country||r.countries.some(c=>c.id===values.country))&&(!values.kind||r.kind===values.kind)&&(!values.from||r.date>=values.from)&&(!values.to||r.date<=values.to)&&terms.every(t=>searchText.get(r.id).includes(t)));
   if(values.sort==='oldest')filtered.sort((a,b)=>a.date.localeCompare(b.date)||a.id.localeCompare(b.id));
   return invalidRange;
 }
@@ -47,9 +48,10 @@ function card(r){
 function renderResults(){
   const invalidRange=query(),pages=Math.max(1,Math.ceil(filtered.length/perPage));page=Math.min(page,pages);
   const start=(page-1)*perPage;
-  $('workspace-count').textContent=invalidRange?text('Start date must precede the end date.','A data inicial deve ser anterior à data final.'):`${filtered.length} ${text('publications','pesquisas')}${filtered.length?` · ${start+1}–${Math.min(start+perPage,filtered.length)}`:''}`;
+  $('workspace-count').textContent=invalidRange?text('Start date must precede the end date.','A data inicial deve ser anterior à data final.'):`${filtered.length} ${filtered.length===1?text('publication','pesquisa'):text('publications','pesquisas')}${filtered.length?` · ${start+1}–${Math.min(start+perPage,filtered.length)}`:''}`;
   for(const button of document.querySelectorAll('[data-view]'))button.setAttribute('aria-pressed',String(button.dataset.view===view));
-  $('workspace-view-note').textContent=view==='watch'?text('Watch items quoted from the filtered publications, with their publication dates. These are research questions, not live alerts. Use My workspace to narrow the corpus to your saved reading.','Sinais extraídos das pesquisas filtradas, com a data de cada publicação. São pontos de observação, sem alertas em tempo real. Use Meu caderno para consultar suas leituras salvas.'):view==='saved'?text('Saved publications, notes and reading status on this browser. Export your workspace to keep a copy.','Pesquisas salvas, notas e leituras marcadas neste navegador. Exporte o caderno para guardar uma cópia.'):sharedIds.length?text('This link contains a shared reading selection. Personal notes are never included.','Este link contém uma seleção de leituras compartilhada. Notas pessoais não são incluídas.'):text('Combine filters and select up to three publications to compare theses, risks and watch items. Reading time is an estimate.','Combine filtros e selecione até três pesquisas para comparar teses, riscos e sinais. O tempo de leitura é uma estimativa.');
+  $('watch-scope').hidden=view!=='watch';
+  $('workspace-view-note').textContent=view==='watch'?text('Watch items quoted from the filtered publications, with their publication dates. These are research questions, not live alerts. Enable the workspace option to focus on your saved reading.','Sinais extraídos das pesquisas filtradas, com a data de cada publicação. São pontos de observação, sem alertas em tempo real. Ative a opção do caderno para focar nas suas leituras salvas.'):view==='saved'?text('Saved publications, notes and reading status on this browser. Export your workspace to keep a copy.','Pesquisas salvas, notas e leituras marcadas neste navegador. Exporte o caderno para guardar uma cópia.'):sharedIds.length?text('This link contains a shared reading selection. Personal notes are never included.','Este link contém uma seleção de leituras compartilhada. Notas pessoais não são incluídas.'):text('Combine filters and select up to three publications to compare theses, risks and watch items. Reading time is an estimate.','Combine filtros e selecione até três pesquisas para comparar teses, riscos e sinais. O tempo de leitura é uma estimativa.');
   $('workspace-results').innerHTML=filtered.length?filtered.slice(start,start+perPage).map(card).join(''):`<div class="workspace-empty"><h2>${view==='saved'?text('Your next investigation starts here.','Sua próxima investigação começa aqui.'):text('No research matches these filters.','Nenhuma pesquisa corresponde a estes filtros.')}</h2><p>${view==='saved'?text('Use Save on any publication. You can also add notes and mark your reading here. If you already have saved items, try clearing the filters.','Use Salvar em qualquer publicação. Você também pode registrar notas e marcar suas leituras aqui. Se já há pesquisas no caderno, tente limpar os filtros.'):text('Try a broader topic or date range, or clear the filters to see all publications.','Tente um tema ou período mais amplo, ou limpe os filtros para ver todo o acervo.')}</p><button type="button" data-empty-reset>${view==='saved'?text('Explore research','Explorar acervo'):text('Reset filters','Limpar filtros')}</button></div>`;
   $('workspace-pagination').innerHTML=pages>1?`<button type="button" data-page="${page-1}" ${page===1?'disabled':''}>← ${text('Previous','Anterior')}</button><span>${page} / ${pages}</span><button type="button" data-page="${page+1}" ${page===pages?'disabled':''}>${text('Next','Próxima')} →</button>`:'';
   $('workspace-export').textContent=view==='saved'?text('Export workspace','Exportar caderno'):text('Export results','Exportar resultados');
@@ -79,7 +81,7 @@ function renderComparison(){
   for(const button of document.querySelectorAll('[data-compare]')){const active=compared.includes(button.dataset.compare);button.setAttribute('aria-pressed',String(active));button.textContent=active?text('Selected','Selecionada'):text('Compare','Comparar');}
 }
 function render(){renderResults();renderComparison();}
-function reset(){form.reset();sharedIds=[];page=1;render();updateUrl();}
+function reset(){form.reset();sharedIds=[];savedOnly=false;$('watch-saved').checked=false;page=1;render();updateUrl();}
 form.addEventListener('submit',event=>{event.preventDefault();clearTimeout(inputTimer);page=1;renderResults();updateUrl();});
 form.addEventListener('input',event=>{if(event.target.name!=='q')return;clearTimeout(inputTimer);inputTimer=setTimeout(()=>{page=1;renderResults();updateUrl(true);},180);});
 form.addEventListener('change',event=>{if(event.target.name==='q')return;page=1;renderResults();updateUrl();});
@@ -98,6 +100,7 @@ document.addEventListener('click',event=>{
   }
 });
 $('workspace-reset').addEventListener('click',reset);
+$('watch-saved').addEventListener('change',()=>{savedOnly=$('watch-saved').checked;page=1;renderResults();updateUrl();});
 $('comparison-clear').addEventListener('click',()=>{compared=[];renderComparison();updateUrl();document.querySelector('[data-compare]')?.focus();});
 document.addEventListener('input',event=>{
   const id=event.target.dataset.note;if(!id||!byId.has(id))return;
@@ -113,7 +116,7 @@ addEventListener('research:changed',event=>{
 addEventListener('popstate',()=>{clearTimeout(inputTimer);hydrate();render();updateUrl(true);});
 $('workspace-share').addEventListener('click',async()=>{
   const params=paramsFor();params.delete('page');
-  if(view==='saved'){if(!filtered.length){announce(text('There are no publications to share.','Não há pesquisas para compartilhar.'));return;}params.delete('view');params.set('ids',filtered.map(r=>r.id).join(','));}
+  if(view==='saved'||(view==='watch'&&savedOnly)){if(!filtered.length){announce(text('There are no publications to share.','Não há pesquisas para compartilhar.'));return;}if(view==='saved')params.delete('view');params.delete('scope');params.set('ids',filtered.map(r=>r.id).join(','));}
   const url=new URL(location.pathname,location.origin);url.search=params.toString();
   try{await navigator.clipboard.writeText(url.href);announce(text('Link copied. Personal notes are not included.','Link copiado. Notas pessoais não são incluídas.'));}
   catch{$('share-fallback').hidden=false;$('workspace-share-url').value=url.href;$('workspace-share-url').focus();$('workspace-share-url').select();}
