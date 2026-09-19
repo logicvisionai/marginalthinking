@@ -51,8 +51,13 @@ function setAnchor(body,href,active){
   const re=new RegExp(`<a href="${rx(href)}"([^>]*)>`,'g');
   return body.replace(re,(m,attrs)=>{
     if(/\bhreflang=/.test(attrs))return m;
-    let a=attrs.replace(/\s+class="active"/g,'').replace(/\s+aria-current="page"/g,'');
-    if(active)a+=' class="active" aria-current="page"';
+    let a=attrs.replace(/\s+aria-current=(["'])page\1/g,'');
+    const cm=a.match(/\s+class=(["'])(.*?)\1/i);
+    const classes=(cm?.[2]||'').split(/\s+/).filter(Boolean).filter(x=>x!=='active');
+    if(active)classes.push('active');
+    if(cm)a=a.replace(cm[0],classes.length?` class="${classes.join(' ')}"`:'');
+    else if(classes.length)a+=` class="${classes.join(' ')}"`;
+    if(active)a+=' aria-current="page"';
     return `<a href="${href}"${a}>`;
   });
 }
