@@ -50,13 +50,13 @@ const topicEntries=Object.entries(taxonomy.topics||{}).map(([id,obj])=>({id,obj,
 const topicDir=path.join(out,'topics');
 if(fs.existsSync(topicDir))fs.rmSync(topicDir,{recursive:true,force:true});
 for(const locale of localeCodes){
-  const researchTitle=locale==='pt-BR'?'Programas de pesquisa':'Research programs';
+  const researchTitle=locale==='pt-BR'?'Linhas de pesquisa':'Research programs';
   const researchDesc=locale==='pt-BR'?'As quatro linhas permanentes que organizam a pesquisa da Marginal Thinking.':'The four permanent programs that organize Marginal Thinking research.';
-  write(pagePath(locale,'/research/index.html'),hubPage(locale,'RESEARCH',programEntries.map(e=>({label:label(e.obj,locale,e.id),count:e.items.length,path:`/research/${e.id}/`,text:locale==='pt-BR'?'Pesquisa organizada por programa editorial permanente.':'Research organized by permanent editorial program.'})),'/research/',researchTitle,researchDesc));
-  for(const e of programEntries)write(pagePath(locale,`/research/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'PROGRAMA DE PESQUISA':'RESEARCH PROGRAM',title:label(e.obj,locale,e.id),description:locale==='pt-BR'?'Pesquisas classificadas neste programa editorial.':'Research classified under this editorial program.',items:e.items,canonical:`/research/${e.id}/`}));
+  write(pagePath(locale,'/research/index.html'),hubPage(locale,'RESEARCH',programEntries.map(e=>({label:label(e.obj,locale,e.id),count:e.items.length,path:`/research/${e.id}/`,text:locale==='pt-BR'?'Publicações desta linha de pesquisa.':'Publications in this research program.'})),'/research/',researchTitle,researchDesc));
+  for(const e of programEntries)write(pagePath(locale,`/research/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'LINHA DE PESQUISA':'RESEARCH PROGRAM',title:label(e.obj,locale,e.id),description:locale==='pt-BR'?'Pesquisas desta linha, organizadas por data.':'Research in this program, organized by date.',items:e.items,canonical:`/research/${e.id}/`}));
 
   const regionTitle=locale==='pt-BR'?'Países & Regiões':'Countries & Regions';
-  const regionDesc=locale==='pt-BR'?'Acesso geográfico às pesquisas sem transformar países em verticais editoriais.':'Geographic access to research without turning countries into editorial verticals.';
+  const regionDesc=locale==='pt-BR'?'Pesquisas organizadas por país e região.':'Research organized by country and region.';
   const geographicEntries=[...regionEntries.map(e=>({label:label(e.obj,locale,e.id),count:e.items.length,path:`/regions/${e.id}/`,text:locale==='pt-BR'?'Coleção regional.':'Regional collection.'})),...Array.from(countryMap.values()).map(c=>({label:c.slug.split('-').map(x=>x[0]?.toUpperCase()+x.slice(1)).join(' '),count:c.items.length,path:`/countries/${c.slug}/`,text:`${c.code} · ${locale==='pt-BR'?'coleção por país':'country collection'}`}))];
   write(pagePath(locale,'/regions/index.html'),hubPage(locale,locale==='pt-BR'?'GEOGRAFIA':'GEOGRAPHY',geographicEntries,'/regions/',regionTitle,regionDesc));
   for(const e of regionEntries)write(pagePath(locale,`/regions/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'REGIÃO':'REGION',title:label(e.obj,locale,e.id),description:regionDesc,items:e.items,canonical:`/regions/${e.id}/`}));
@@ -64,7 +64,7 @@ for(const locale of localeCodes){
     const name=c.slug.split('-').map(x=>x[0]?.toUpperCase()+x.slice(1)).join(' ');
     write(pagePath(locale,`/countries/${c.slug}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'PAÍS':'COUNTRY',title:name,description:locale==='pt-BR'?`Pesquisas relacionadas a ${name}.`:`Research related to ${name}.`,items:c.items,canonical:`/countries/${c.slug}/`}));
   }
-  for(const e of topicEntries)write(pagePath(locale,`/topics/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'TÓPICO':'TOPIC',title:label(e.obj,locale,e.id),description:locale==='pt-BR'?'Coleção baseada na taxonomia analítica controlada da Marginal Thinking.':'Collection based on Marginal Thinking’s controlled analytical taxonomy.',items:e.items,canonical:`/topics/${e.id}/`}));
+  for(const e of topicEntries)write(pagePath(locale,`/topics/${e.id}/index.html`),collectionPage(locale,{eyebrow:locale==='pt-BR'?'TEMA':'TOPIC',title:label(e.obj,locale,e.id),description:locale==='pt-BR'?'Pesquisas relacionadas a este tema.':'Research related to this topic.',items:e.items,canonical:`/topics/${e.id}/`}));
 }
 
 function shared(a,b){const bs=new Set(b||[]);return (a||[]).filter(x=>bs.has(x)).length;}

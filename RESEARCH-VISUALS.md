@@ -21,7 +21,7 @@ Research Markdown may use:
 - `map` fences for geographic exposure and regional transmission cards;
 - `diagram`, `text` or `ascii` fences for other deterministic dependency diagrams.
 
-The renderer may also derive a chart from a compatible table, but automatic derivation is an enhancement only. It does not satisfy the explicit-chart gate because producers must make an intentional visual choice.
+Charts must be explicitly authored. The renderer does not infer a quantitative series from a table: prose, dates, ranges, units and non-additive categories cannot safely establish comparable observations.
 
 ## Minimum visual budget
 
@@ -46,7 +46,18 @@ A geographic map is required by editorial judgment when spatial distribution, co
 7. Maps must represent exposure, flow, location, corridor or regional mechanism; they must not imply geographic precision that the source does not provide.
 8. Visuals need enough surrounding prose to state what the reader should notice and what the visual does not establish.
 9. EN and PT-BR editions must contain the same visual evidence, with semantically equivalent labels, values and units. Locale formatting may differ.
-10. Visuals must remain legible on mobile and must not require horizontal page overflow beyond the existing responsive table container.
+10. Visuals must remain legible on mobile. Wide tables, time series and text diagrams may scroll within a bounded, keyboard-accessible container, never widen the page. Figures provide an expanded view; geographic SVGs provide zoom and pan.
+
+## Layout and data contract
+
+- Shared report figures are rendered by `scripts/lib/research-visuals.mjs` and styled only in `assets/css/research-visuals.css`. The Markdown parser delegates visual blocks to this module. Do not reintroduce visual selectors in report prose, theme or guardrail stylesheets.
+- Geographic `map` fences describe regional comparisons (`region | finding | qualification`) or independent arrow-separated routes, one per line. Cards flow in document order and adapt to the figure's available width. Region names are not coordinates and must never be assigned guessed positions or overlapping named grid areas.
+- The Atlas uses its canonical country coordinates and the existing Equal Earth projection. It provides zoom, pan, expansion and country links; filters apply equally to markers, country links and entries.
+- A multiline flow retains separate chains. Mind maps retain nested indentation. Unrecognized text diagrams remain visible and scrollable rather than disappearing.
+- Bar positions and signed scales are generated at build time. JavaScript never reparses localized number labels or rescales the evidence after first paint. Zero has zero bar width; small values remain proportional; precision is preserved.
+- Units appear with the caption and in the accessible data table. Line charts align axis labels with observations and use proportional spacing for strictly increasing years or ISO dates. Every chart offers its underlying table and CSV export.
+- `research-visuals.js` progressively enhances existing HTML with one reusable native dialog and CSV export. Content remains available without JavaScript. `svg-viewport.js` owns Atlas camera interactions. The dependency network retains its specialized camera and relationship-selection behavior.
+- `validate-visual-output.mjs` checks all published language editions after editorial processing; renderer regression tests cover signed values, precision, hierarchy, independent routes and unsafe numeric inference.
 
 ## Authoring examples
 
