@@ -83,6 +83,6 @@ panel.addEventListener('click',event=>{
   const del=event.target.closest('[data-workspace-delete]');
   if(del){removeAnnotation(del.dataset.workspaceDelete);render();}
 });
-addEventListener('annotations:changed',()=>render());
+addEventListener('annotations:changed',event=>{if(event.detail?.action==='update'&&document.activeElement?.matches('[data-workspace-note]'))return;render();});
 addEventListener('hashchange',()=>{if(location.hash==='#annotations'&&!isActive())setActive(true);else if(location.hash!=='#annotations'&&isActive())setActive(false);});
 render();if(location.hash==='#annotations')setActive(true);
