@@ -1,6 +1,0 @@
-# Public machine-readable research catalog.
-# This dataset contains only metadata and URLs already published on Marginal Thinking.
-/data/mcp-catalog.json
-  Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
-  Cross-Origin-Resource-Policy: cross-origin
