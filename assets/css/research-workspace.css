@@ -92,6 +92,7 @@ html[data-theme="dark"] .workspace-page{--workspace-accent:#77d9ed;--workspace-s
 .workspace-annotations{display:none}
 .workspace-page.annotations-mode #workspace-filters,
 .workspace-page.annotations-mode .workspace-results-toolbar,
+.workspace-page.annotations-mode #share-fallback,
 .workspace-page.annotations-mode #watch-scope,
 .workspace-page.annotations-mode #workspace-view-note,
 .workspace-page.annotations-mode #workspace-results,
