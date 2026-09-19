@@ -48,8 +48,9 @@ function fixCards(html,locale){
 }
 
 function setAnchor(body,href,active){
-  const re=new RegExp(`<a href="${rx(href)}"([^>]*)>`,'g');
-  return body.replace(re,(m,attrs)=>{
+  const re=new RegExp(`<a([^>]*)href="${rx(href)}"([^>]*)>`,'g');
+  return body.replace(re,(m,before,after)=>{
+    const attrs=(before+after);
     if(/\bhreflang=/.test(attrs))return m;
     let a=attrs.replace(/\s+aria-current=(["'])page\1/g,'');
     const cm=a.match(/\s+class=(["'])(.*?)\1/i);
@@ -58,7 +59,7 @@ function setAnchor(body,href,active){
     if(cm)a=a.replace(cm[0],classes.length?` class="${classes.join(' ')}"`:'');
     else if(classes.length)a+=` class="${classes.join(' ')}"`;
     if(active)a+=' aria-current="page"';
-    return `<a href="${href}"${a}>`;
+    return `<a${a} href="${href}">`;
   });
 }
 function fixGeographyNav(html,locale,isGeo){
