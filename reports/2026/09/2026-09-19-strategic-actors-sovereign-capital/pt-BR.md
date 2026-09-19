@@ -11,7 +11,7 @@ PIF, Mubadala, Temasek e GPFG mobilizam grandes volumes de riqueza pública, mas
 
 O PIF combina explicitamente retornos financeiros com transformação econômica saudita. A Mubadala combina investimento global com exposição de longo prazo a setores relevantes para a economia dos Emirados Árabes Unidos. A Temasek possui diretamente os ativos do portfólio, mas afirma que o Governo de Singapura não dirige suas decisões de investimento. A Noruega separa a definição política do mandato da gestão operacional do portfólio por uma cadeia formal de delegação.
 
-A conclusão central não é que um modelo seja mais forte que outro. É que **o efeito estrutural do capital soberano depende do mecanismo institucional de transmissão, e não apenas do tamanho do portfólio**.
+Os quatro casos apontam para uma conclusão comum: **o efeito estrutural do capital soberano depende do mandato, dos direitos e do mecanismo institucional de transmissão, não apenas do tamanho do portfólio**.
 
 ## Quatro volumes de capital público, quatro estruturas de governança
 
@@ -44,9 +44,9 @@ A Mubadala reportou **AED 1,4 trilhão (US$ 385 bilhões) em AUM** em 2025, alta
 
 A relevância estrutural desse modelo está na capacidade de combinar exposição internacional, capital de longo prazo e ativos estratégicos domésticos. Isso pode criar canais de financiamento, relações tecnológicas, formação empresarial e desenvolvimento de infraestrutura.
 
-O limite analítico, porém, é importante: **propriedade estatal não é evidência de que todo investimento da Mubadala seja dirigido por objetivos geopolíticos**. Uma operação deve ser classificada como política industrial, posicionamento estratégico ou investimento ordinário apenas quando seu mandato, estrutura ou evidência ao redor sustentar essa interpretação.
+A propriedade estatal, por si só, **não demonstra que cada investimento da Mubadala seja dirigido por objetivos geopolíticos**. Classificações como política industrial ou posicionamento estratégico exigem evidência no mandato, na estrutura da operação ou no contexto documentado.
 
-A distinção importa porque, sem ela, propriedade soberana vira atalho para atribuir motivações que podem não estar documentadas.
+Sem essa separação, a propriedade soberana passa a funcionar como atalho para atribuir intenções que a documentação disponível não sustenta.
 
 ## A Temasek mostra por que propriedade estatal e direção estatal precisam permanecer separadas
 
@@ -147,7 +147,7 @@ Investimento soberano pode afetar a geopolítica sem exigir uma instrução pol�
 
 Se um investidor público financia portos, geração elétrica, capacidade de semicondutores, mineração, infraestrutura de dados ou empresas nacionais relevantes, o ativo resultante pode alterar a capacidade produtiva do Estado ou suas dependências externas. Se um fundo se torna coinvestidor de longo prazo em tecnologia e infraestrutura estrangeiras, pode aprofundar relações comerciais que posteriormente adquirem relevância política. Se um fundo de poupança acumula participações amplas em mercados globais, passa a deter direitos acionários persistentes e exposição à governança de empresas internacionais.
 
-Esses são mecanismos. Devem ser avaliados individualmente.
+O efeito geopolítico depende, portanto, do ativo, dos direitos envolvidos, do horizonte do investimento e das dependências que a operação efetivamente cria.
 
 A mesma disciplina vale no sentido contrário. Uma participação passiva e minoritária em uma empresa estrangeira não demonstra, por si só, alavancagem geopolítica. Um número grande de AUM não mostra que o Estado possa redirecionar todo o portfólio livremente. Um proprietário soberano não controla automaticamente as operações de todas as empresas investidas.
 
