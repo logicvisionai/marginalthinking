@@ -52,8 +52,8 @@ html[data-theme="dark"]{--visual-surface:#101c23;--visual-soft:#16262f;--visual-
 .flow-step:not(:last-child)::after{content:"↓";position:absolute;left:10px;bottom:0;background:var(--visual-surface);color:var(--visual-accent);font-size:12px}
 .flow-index{position:relative;display:grid;place-items:center;width:34px;height:34px;border:1px solid var(--visual-line);border-radius:50%;background:var(--visual-soft);color:var(--visual-accent);font:600 11px/1 var(--sans)}
 .flow-step>div{padding:6px 0 0}
-.mindmap-grid,.geo-map-board{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,17rem),1fr));gap:12px;padding:0;min-width:0}
-.mind-branch,.geo-card{min-width:0;padding:18px;border:1px solid var(--visual-line);border-radius:8px;background:var(--visual-soft)}
+.mindmap-grid,.geo-map-board{display:flex;flex-wrap:wrap;gap:12px;padding:0;min-width:0}
+.mind-branch,.geo-card{flex:1 1 17rem;min-width:0;padding:18px;border:1px solid var(--visual-line);border-radius:8px;background:var(--visual-soft)}
 .visual-figure .mind-branch h4{margin:0 0 10px;font:600 15px/1.4 var(--sans);color:var(--visual-ink)}
 .visual-figure .mind-branch ul{margin:0;padding-left:18px;list-style:disc}
 .visual-figure .mind-branch li{margin:5px 0;padding:0;font:400 14px/1.55 var(--sans);color:var(--visual-muted)}
@@ -94,9 +94,19 @@ html[data-theme="dark"]{--visual-surface:#101c23;--visual-soft:#16262f;--visual-
   .chart-track{grid-column:1/-1;grid-row:2}
   .visual-actions{justify-content:flex-start}
   .visual-actions button{min-height:44px}
-  .geo-map-board,.mindmap-grid{grid-template-columns:1fr}
+  .geo-card,.mind-branch{flex-basis:100%}
   .dependency-rel{grid-template-columns:1fr;gap:3px}
   .dependency-rel b{justify-self:start;transform:rotate(90deg)}
+}
+/* The home preview keeps all observations and qualifications in a compact figure.
+   The underlying table is available through expansion and CSV. */
+.home-evidence .visual-data{display:none}
+@container research-visual (min-width:400px){
+  [data-visual-density="compact"] .chart-row{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr) 4rem;gap:12px;padding:11px 0}
+  [data-visual-density="compact"] .chart-label{grid-column:1;grid-row:1;font-size:13px}
+  [data-visual-density="compact"] .chart-track{grid-column:2;grid-row:1;height:14px}
+  [data-visual-density="compact"] .chart-bar{height:8px}
+  [data-visual-density="compact"] .chart-value{grid-column:3;grid-row:1;font-size:13px}
 }
 @media(max-width:560px){.visual-figure{padding:16px;margin:22px 0;border-radius:9px}.visual-figure>figcaption{font-size:15px}.visual-dialog{width:calc(100vw - 12px);height:96dvh;max-height:96dvh;border-radius:9px}.visual-dialog .visual-figure{padding:16px}.visual-dialog-bar{padding:10px 16px}.visual-actions button{min-height:44px}}
 @media print{.visual-actions,.visual-dialog-bar,.visual-scroll-note{display:none!important}.visual-figure{break-inside:avoid;box-shadow:none;border-color:#aaa}.visual-figure .md-table-wrap,.line-chart-scroll{overflow:visible}.visual-figure .md-table{min-width:0;font-size:10px}.line-chart-scroll svg{min-width:0!important}.visual-figure .map-viewport{overflow:visible;height:auto}.map-viewport .atlas-map{min-width:0}.visual-dialog{position:static;width:100%;height:auto;max-height:none;overflow:visible}}
