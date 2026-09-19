@@ -18,7 +18,7 @@ for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
   [[ -f "$f" ]] && cp "$f" dist/
 done
 
-# app.js dynamically rebuilds home/archive cards after first paint. Localize the
+# app.js progressively enhances archive cards after first paint. Localize the
 # canonical reports dataset before that render so PT-BR cannot flash and revert to EN.
 node scripts/fix-client-locale.mjs
 
@@ -29,8 +29,6 @@ node scripts/render-structural-opportunities.mjs
 # Validate and render the cumulative dependency network from canonical research-linked relationships.
 node scripts/validate-global-dependencies.mjs
 node scripts/render-global-dependencies.mjs
-# Feature the public analytical systems on the homepage without coupling them to the core renderer.
-node scripts/inject-home-analytics.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs
@@ -43,8 +41,8 @@ node scripts/render-mcp-catalog.mjs
 # Controlled product series remain subordinate to permanent programs and receive
 # their own collection pages without expanding the global navigation.
 node scripts/render-series-pages.mjs
-# Keep the homepage aligned with the same four canonical programs used by the taxonomy.
-node scripts/inject-program-home.mjs
+# Build the research workspace from the same canonical, localized publication metadata.
+node scripts/render-research-workspace.mjs
 # Countries & Regions becomes a stable access axis without becoming a new editorial program.
 node scripts/inject-geography-nav.mjs
 node scripts/editorial-normalize.mjs
@@ -78,6 +76,7 @@ node scripts/validate-seo.mjs
 # Locale integrity is a build invariant: archive cards, report pages, search entries,
 # geography navigation and client-side archive rendering must honor the selected locale.
 node scripts/validate-localized-output.mjs
+node scripts/validate-research-product.mjs
 
 # Analytics is optional and never blocks publishing research.
 if [[ -n "${PROD_GA_MEASUREMENT_ID:-}" ]]; then
