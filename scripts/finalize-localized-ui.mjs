@@ -65,7 +65,7 @@ function fixGeographyNav(html,locale,isGeo){
   if(!isGeo)return html;
   const research=pagePath(locale,'/reports.html'),regions=pagePath(locale,'/regions/');
   const patch=body=>setAnchor(setAnchor(body,research,false),regions,true);
-  html=html.replace(/<nav class="nav"([^>]*)>([\s\S]*?)<\/nav>/i,(m,attrs,body)=>`<nav class="nav"${attrs}>${patch(body)}</nav>`);
+  html=html.replace(/<nav class="([^"]*\bnav\b[^"]*)"([^>]*)>([\s\S]*?)<\/nav>/i,(m,classes,attrs,body)=>`<nav class="${classes}"${attrs}>${patch(body)}</nav>`);
   html=html.replace(/(<div class="mobile-menu"[\s\S]*?<nav>)([\s\S]*?)(<\/nav>[\s\S]*?<\/div>)/i,(m,start,body,end)=>`${start}${patch(body)}${end}`);
   return html;
 }
