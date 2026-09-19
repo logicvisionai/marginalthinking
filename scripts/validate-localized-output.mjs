@@ -39,11 +39,13 @@ for(const locale of Object.keys(cfg.locales||{})){
   if(!fs.existsSync(geoFile))fail.push(`${locale}: página Países & Regiões ausente`);
   else{
     const geo=fs.readFileSync(geoFile,'utf8'),research=pagePath(locale,'/reports.html');
-    const geoActive=new RegExp(`<a href="${rx(geoUrl)}"[^>]*class="active"[^>]*aria-current="page"|<a href="${rx(geoUrl)}"[^>]*aria-current="page"[^>]*class="active"`,'g');
-    const activeCount=(geo.match(geoActive)||[]).length;
+    const anchors=[...geo.matchAll(/<a\b[^>]*>/gi)].map(m=>m[0]);
+    const geoHref=new RegExp(`\\bhref=(["'])${rx(geoUrl)}\\1`,'i');
+    const researchHref=new RegExp(`\\bhref=(["'])${rx(research)}\\1`,'i');
+    const isActive=a=>/class=(["'])[^"']*\bactive\b[^"']*\1/i.test(a)&&/aria-current=(["'])page\1/i.test(a);
+    const activeCount=anchors.filter(a=>geoHref.test(a)&&isActive(a)).length;
     if(activeCount<2)fail.push(`${locale}: Países & Regiões deve estar ativo no desktop e mobile`);
-    const researchActive=new RegExp(`<a href="${rx(research)}"[^>]*(?:class="active"|aria-current="page")`,'i');
-    if(researchActive.test(geo))fail.push(`${locale}: Pesquisas não pode permanecer ativo em Países & Regiões`);
+    if(anchors.some(a=>researchHref.test(a)&&isActive(a)))fail.push(`${locale}: Pesquisas não pode permanecer ativo em Países & Regiões`);
   }
 }
 

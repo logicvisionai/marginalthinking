@@ -7,17 +7,17 @@
 
 Large pools of wealth matter, but wealth alone does not explain structural power. An asset manager can direct client capital without owning it. A commodity trader can sit inside a physical supply chain without owning most of the resources it moves. A technology company can have a much smaller balance sheet than a global fund and still occupy a difficult-to-replace position in a production system. A government can regulate access to that technology without operating the company that produces it.
 
-The analytical problem is therefore not to compile a list of rich institutions. It is to identify **which actors can change the constraints under which other actors operate, through which documented mechanism, for how long, and with what substitutes available**.
+A useful comparison must move beyond balance-sheet size and separate **capability, dependency and transmission**: which actors can narrow or expand others' options, through which documented mechanism, for how long, and with what alternatives available.
 
-This first Strategic Actors assessment establishes that method and tests it against five different structures: BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore and ASML. The comparison is intentionally heterogeneous. The purpose is to show why assets under management, shareholder rights, physical intermediation, productive control and technological dependence cannot be collapsed into one ranking.
+BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore and ASML illustrate five distinct forms of structural capacity. The comparison is heterogeneous by necessity: assets under management, shareholder rights, physical intermediation, productive control and technological dependence do not measure the same thing and should not be compressed into a single ranking.
 
-The central assessment is: **structural capacity is best understood as a chain linking an actor to a capability, a dependency and a transmission mechanism. Size matters when it strengthens that chain, but size is not the chain itself.**
+**Structural capacity emerges when an actor combines a material capability with a relevant dependency and a transmission mechanism capable of affecting other actors' choices.** Scale strengthens that effect when it increases reach, persistence or difficulty of substitution, but scale does not create it by itself.
 
 ## The first error is treating assets under management as ownership
 
 BlackRock reported **US$15.3 trillion in assets under management** at June 30, 2026, after US$868 billion of net inflows over the previous twelve months. That number describes the scale of assets managed for clients. It does not mean BlackRock owns US$15.3 trillion of securities for its own economic account. [BlackRock — Q2 2026 results](https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-second-quarter-2026)
 
-The distinction matters because BlackRock does have a corporate-governance transmission channel, but it is a different one. BlackRock Investment Stewardship states that it votes at shareholder meetings **for clients who have authorized it to vote on their behalf** and engages with boards and management to inform those voting decisions. BlackRock also states that more than 90% of its clients' public-equity AUM was invested in index equity strategies at June 30, 2026. [BlackRock Investment Stewardship](https://www.blackrock.com/corporate/insights/thought-leadership/investment-stewardship)
+BlackRock's corporate-governance channel rests on delegated authority rather than economic ownership of the assets it manages. BlackRock Investment Stewardship states that it votes at shareholder meetings **for clients who have authorized it to vote on their behalf** and engages with boards and management to inform those voting decisions. BlackRock also states that more than 90% of its clients' public-equity AUM was invested in index equity strategies at June 30, 2026. [BlackRock Investment Stewardship](https://www.blackrock.com/corporate/insights/thought-leadership/investment-stewardship)
 
 The defensible chain is therefore:
 
@@ -63,13 +63,13 @@ The mechanism is therefore closer to:
 Owned or controlled mines and industrial assets → physical production → marketing and trading network → processors and end users → prices, inventories and industrial availability
 ```
 
-Again, the last stages depend on market conditions and competing suppliers. Production control is stronger than pure intermediation, but it is still not equivalent to control of the entire commodity market.
+Effects on prices, inventories and availability remain conditioned by competition, demand and alternative suppliers. Production control creates a more direct position than pure intermediation without amounting to control of the global commodity market.
 
 ## Technological dependence changes the meaning of scale
 
 ASML illustrates why financial size can be the wrong starting point. In 2025, the company reported €32.7 billion of net sales, €4.7 billion of R&D and 535 systems sold, including 48 extreme-ultraviolet lithography systems and 279 deep-ultraviolet systems. [ASML 2025 Annual Report](https://www.asml.com/en/investors/annual-report/2025)
 
-The important question is not whether those figures are larger or smaller than a sovereign fund's portfolio. The question is whether downstream production can substitute the capability.
+For ASML, the decisive variable is substitutability: how much time, capital and know-how would chipmakers need to reproduce or bypass the capability the company supplies.
 
 The Dutch government explicitly subjects categories of advanced semiconductor manufacturing equipment, including lithography equipment, to national export authorization requirements. In January 2025 it expanded those controls and stated that the Netherlands has a unique role in semiconductor manufacturing technology; licensing remains a case-by-case government decision rather than an export ban. [Government of the Netherlands — advanced semiconductor equipment export controls](https://www.government.nl/latest/news/2025/01/15/klever-export-controls-on-advanced-semiconductor-manufacturing-equipment-to-be-tightened)
 
@@ -123,7 +123,7 @@ Structural capacity
 
 This framework deliberately avoids a single "power score." Combining US dollars of AUM, barrels per day, voting rights and technology substitution into one number would manufacture precision rather than measure a coherent variable.
 
-The more useful output is a profile: which channels are documented, what they reach, what limits them, and whether the dependent system has credible alternatives.
+The relevant analytical result is a capability profile: which channels are documented, what they reach, which legal or operational limits constrain them, and how credible the available alternatives are.
 
 ## Public funds add another layer: the mandate must be separated from the portfolio
 
@@ -131,11 +131,11 @@ The Government Pension Fund Global ended 2025 at NOK21.268 trillion, with 71.3% 
 
 That architecture matters because "state money" does not describe how decisions are actually made. The same is true across sovereign investors. Some have explicit domestic transformation mandates; others are designed primarily to preserve or compound public wealth; others own strategic companies while maintaining commercial decision-making structures.
 
-The second research in this initial release therefore examines sovereign capital separately rather than assuming a single model.
+Sovereign investors require separate analysis because the relationship between public wealth, mandate, governance and investment decisions differs materially across countries.
 
-## What the first map changes
+## Different rights produce different forms of influence
 
-The first Strategic Actors dataset treats every relation as a typed mechanism. It distinguishes:
+The same institution can participate in an economic chain through different rights and capabilities. Separating those links prevents financial exposure, voting authority, productive ownership and technology supply from being treated as synonyms for control.
 
 | Relationship | What it means | What it must not be silently upgraded into |
 |---|---|---|
@@ -147,23 +147,15 @@ The first Strategic Actors dataset treats every relation as a typed mechanism. I
 | production control | an actor owns or controls productive assets | control of the entire global market |
 | technology supply | an actor supplies a difficult-to-replace capability | sovereign authority over who may receive it |
 
-The public tool uses those distinctions to connect actors to markets, industrial capacity, energy flows, critical materials and advanced semiconductor production. The database is intentionally selective. Absence from the map means only that an actor has not yet passed the evidence and materiality test.
+These distinctions also change how dependency should be read. A market can be exposed to a very large capital allocator without being operationally dependent on it; an industrial chain can instead depend on a much smaller supplier when technological substitution is slow, costly or constrained by installed capacity.
 
-## What should enter next
-
-The next expansion should not begin with famous surnames. It should begin with mechanisms that remain under-mapped.
-
-That means private-credit platforms that have become material lenders to infrastructure and corporate borrowers; clearing and settlement institutions whose failure would interrupt financial markets; insurers whose balance sheets determine which risks can be financed; port, shipping and pipeline operators at concentrated corridors; cloud and datacenter operators where compute dependency is geographically concentrated; semiconductor-equipment and materials suppliers; policy banks; pension funds; and legally identifiable family offices or foundations where a documented channel reaches capital, institutions or public policy.
-
-Rothschild, Rockefeller, Soros or any other family or individual should enter only through a specific legal or operational entity. The surname itself is not an analytical node.
-
-## What would weaken an actor's structural relevance
+ ## Conditions that would reduce structural relevance
 
 The assessment should be revised downward when one or more of the following occur: credible substitutes scale rapidly; switching costs collapse; a mandate is materially narrowed; voting or ownership rights decline; production or flow volumes lose relevance; a formerly proprietary technology becomes commoditized; regulation removes access to the relevant channel; or a previously concentrated dependency becomes distributed among many alternatives.
 
 The opposite also matters. Consolidation, rising market dependence, expanding mandates, vertical integration, new infrastructure ownership or tighter technological scarcity can increase structural relevance even when an actor's headline asset value changes little.
 
-That is why Strategic Actors should be updated primarily **event-driven**, with periodic structural reviews. The unit being monitored is not celebrity. It is the mechanism.
+Structural relevance is therefore not permanent. It depends on concentration, substitutability, effective rights, operating capacity and the persistence of the mechanism over time.
 
 ## Principal sources
 

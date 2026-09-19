@@ -7,11 +7,11 @@
 
 "Sovereign wealth fund" is often used as if it described a single institution. It does not. Public investment vehicles differ in ownership, legal form, mandate, governance, investment horizon and relationship to domestic economic policy. Those differences determine what kind of structural power the capital can actually transmit.
 
-This assessment compares four models: Saudi Arabia's Public Investment Fund (PIF), Abu Dhabi's Mubadala, Singapore's Temasek and Norway's Government Pension Fund Global (GPFG), operationally managed by Norges Bank Investment Management (NBIM). All deploy large pools of public wealth. Their mechanisms are nevertheless different.
+PIF, Mubadala, Temasek and GPFG all deploy large pools of public wealth, but through different institutional structures. PIF is tied to an explicit Saudi economic-transformation mandate; Mubadala combines global investment with capability formation in the UAE; Temasek directly owns its portfolio under a commercially governed structure; and GPFG separates public mandate-setting from operational management delegated to Norges Bank/NBIM.
 
 PIF explicitly combines financial returns with Saudi economic transformation. Mubadala combines global investing with long-term exposure to sectors important to the UAE economy. Temasek directly owns its portfolio assets but states that the Singapore Government does not direct its investment decisions. Norway separates political mandate-setting from operational portfolio management through a formal delegation chain.
 
-The central conclusion is not that one model is stronger than another. It is that **the structural effect of sovereign capital depends on the institutional transmission mechanism, not only on portfolio size**.
+The four cases point to a common conclusion: **the structural effect of sovereign capital depends on mandate, rights and the institutional transmission mechanism, not only on portfolio size**.
 
 ## Four pools of public capital, four governance structures
 
@@ -44,9 +44,9 @@ Mubadala reported **AED1.4 trillion (US$385 billion) in AUM** for 2025, up 17% y
 
 The structural relevance of this model is the ability to combine international portfolio exposure, long-duration capital and domestic strategic assets. That can create channels for financing, technology relationships, corporate formation and infrastructure development.
 
-But the analytical boundary is important: **state ownership is not evidence that every Mubadala investment is directed for geopolitical purposes**. A transaction should be classified as industrial policy, strategic positioning or ordinary portfolio investment only when its mandate, structure or surrounding evidence supports that interpretation.
+State ownership by itself **does not show that every Mubadala investment is directed toward geopolitical objectives**. Labels such as industrial policy or strategic positioning require evidence in the mandate, transaction structure or documented context.
 
-The distinction matters because otherwise sovereign ownership becomes a shortcut for attributing motives that may not be documented.
+Without that separation, sovereign ownership becomes a shortcut for assigning motives that the available evidence may not support.
 
 ## Temasek shows why state ownership and state direction must be kept separate
 
@@ -54,7 +54,7 @@ Temasek reported **S$518 billion in net portfolio value** at March 31, 2026 and 
 
 Its legal and governance structure differs from both PIF and a conventional fund manager. Temasek states that it is wholly owned by Singapore's Minister for Finance and that it **owns its portfolio assets** rather than managing the Singapore Government's reserves or client money. At the same time, its governance page states that neither the President nor the Government directs its investment strategies, investment decisions or other business decisions, except in relation to constitutional protection of past reserves. [Temasek — corporate governance](https://www.temasek.com.sg/en/about-us/corporate-governance)
 
-That creates a useful distinction for the Strategic Actors system:
+The separation between state ownership and investment decision-making can be represented as follows:
 
 ```flow
 Singapore state ownership → Temasek shareholder structure → commercially governed portfolio ownership → shareholder rights in portfolio companies
@@ -147,7 +147,7 @@ Sovereign investment can influence geopolitics without requiring a secret or coo
 
 If a public investor finances ports, power generation, semiconductor capacity, mining, data infrastructure or national champions, the resulting asset can change the state's productive capacity or external dependencies. If a fund becomes a long-duration co-investor in foreign technology and infrastructure, it can deepen commercial relationships that later have political relevance. If a savings fund accumulates broad stakes across global markets, it can acquire persistent shareholder rights and exposure to the governance of international companies.
 
-Those are mechanisms. They should be evaluated individually.
+The geopolitical effect therefore depends on the asset, the rights involved, the investment horizon and the dependencies the transaction actually creates.
 
 The same discipline applies in the opposite direction. A passive minority stake in a foreign company does not by itself demonstrate geopolitical leverage. A large AUM number does not show that the state can redirect the entire portfolio at will. A sovereign owner does not automatically control every portfolio company's operations.
 
@@ -163,15 +163,13 @@ For GPFG/NBIM, the relevant signals are mandate changes, asset-allocation rules,
 
 These indicators are more useful than treating "sovereign wealth" as a single aggregate.
 
-## Implication for the Strategic Actors map
+## Four transmission mechanisms, four limits to control
 
-The public Strategic Actors tool therefore records PIF, Mubadala, Temasek and NBIM/GPFG as separate actor types and mechanisms rather than placing them in one generic sovereign bucket.
+PIF has the most direct link between a sovereign mandate and domestic capability formation. Mubadala combines long-duration capital, international exposure and assets tied to UAE development. Temasek exercises rights arising from direct portfolio ownership, but within a structure that formally separates state ownership from day-to-day investment direction. GPFG/NBIM combines public savings, large scale and diversified global ownership through an explicit delegation chain.
 
-PIF's strongest documented channel in this first release is **sovereign development**. Mubadala's is a combination of **capital allocation and domestic capability formation**. Temasek's is **direct portfolio ownership under a commercially governed structure**. NBIM/GPFG's is **global portfolio ownership under a formally delegated public mandate**.
+These mechanisms create different rights. An investor may be an owner, lender or co-investor; another institution may regulate, license or operate the asset; technology suppliers and customers may hold separate forms of bargaining power. None of those positions should automatically be upgraded to "control."
 
-This is the level at which the system can begin to answer "who controls what?" without overstating the evidence. In many cases, the answer is not that one institution controls an asset. The more accurate answer is that several institutions hold different rights over it: owner, lender, regulator, technology supplier, operator or customer.
-
-Mapping those rights separately is what makes the network analytically useful.
+The comparison therefore shows that the structural capacity of sovereign capital depends less on the institutional label than on the combination of mandate, legal rights, time horizon, instruments, execution capacity and the alternatives available to other participants.
 
 ## Principal sources
 

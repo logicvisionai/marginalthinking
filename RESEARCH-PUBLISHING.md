@@ -144,6 +144,18 @@ The producer must not:
 
 `MT Research QA` reads the pending sidecar and both staged sources. It validates facts, sources, dates, methodology, language equivalence, editorial style, controlled taxonomy and visual evidence. For research governed by `RESEARCH-VISUALS.md`, QA must also verify visual sufficiency, factual reproducibility, dimensional compatibility, mechanism integrity and EN/PT-BR visual parity, recording the result in `checks.visual_evidence_readiness`.
 
+QA must reject — not merely rewrite after publication — a draft that fails any of these editorial-integrity tests:
+
+- **Argument continuity:** each section must advance the research question through evidence, mechanism, comparison or limitation. A sequence of individually plausible paragraphs that can be rearranged without changing the argument is a coherence failure, not a finished report.
+- **Evidence-to-claim traceability:** material factual claims, quantities, institutional mandates and current conditions must be traceable to suitable sources. A cited source must support the specific claim attached to it; adjacency to a source is not enough.
+- **Inference discipline:** conclusions must follow from the documented mechanism. Do not turn ownership into control, scale into influence, correlation into causation, or an institution's self-description into an independent effect estimate.
+- **Research/product separation:** the public report must not explain how Marginal Thinking is building, populating, updating or operating its own map, matrix, network, dataset or tool. Product roadmap and schema decisions belong in architecture documentation.
+- **No stitched prose:** reject serial mini-conclusions, repeated thesis restatements, generic transition paragraphs or actor-by-actor blocks that lack an explicit comparative reason for appearing together.
+- **Natural institutional prose:** remove conversational scaffolding and formulaic metadiscourse such as repeated “the important question is”, “the distinction matters”, “therefore the problem is”, “this report shows”, or their Portuguese equivalents when the sentence can state the analytical point directly.
+- **Bilingual parity after editing:** if QA changes argument structure or evidentiary qualification in one locale, the other locale must be updated before approval; post-publication normalization must not be relied on to restore semantic parity.
+
+A draft that contains correct numbers but fails argument continuity or research/product separation is still **rejected**. QA notes must identify the failing passage and the required correction rather than approving with a generic style warning.
+
 For a new v2 item, approval must be written as `schema_version: 2` and be cryptographically tied to the exact reviewed state.
 
 Required approval fields include:

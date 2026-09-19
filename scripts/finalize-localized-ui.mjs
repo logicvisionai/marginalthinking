@@ -48,19 +48,25 @@ function fixCards(html,locale){
 }
 
 function setAnchor(body,href,active){
-  const re=new RegExp(`<a href="${rx(href)}"([^>]*)>`,'g');
-  return body.replace(re,(m,attrs)=>{
+  const re=new RegExp(`<a([^>]*)href="${rx(href)}"([^>]*)>`,'g');
+  return body.replace(re,(m,before,after)=>{
+    const attrs=(before+after);
     if(/\bhreflang=/.test(attrs))return m;
-    let a=attrs.replace(/\s+class="active"/g,'').replace(/\s+aria-current="page"/g,'');
-    if(active)a+=' class="active" aria-current="page"';
-    return `<a href="${href}"${a}>`;
+    let a=attrs.replace(/\s+aria-current=(["'])page\1/g,'');
+    const cm=a.match(/\s+class=(["'])(.*?)\1/i);
+    const classes=(cm?.[2]||'').split(/\s+/).filter(Boolean).filter(x=>x!=='active');
+    if(active)classes.push('active');
+    if(cm)a=a.replace(cm[0],classes.length?` class="${classes.join(' ')}"`:'');
+    else if(classes.length)a+=` class="${classes.join(' ')}"`;
+    if(active)a+=' aria-current="page"';
+    return `<a${a} href="${href}">`;
   });
 }
 function fixGeographyNav(html,locale,isGeo){
   if(!isGeo)return html;
   const research=pagePath(locale,'/reports.html'),regions=pagePath(locale,'/regions/');
   const patch=body=>setAnchor(setAnchor(body,research,false),regions,true);
-  html=html.replace(/<nav class="nav"([^>]*)>([\s\S]*?)<\/nav>/i,(m,attrs,body)=>`<nav class="nav"${attrs}>${patch(body)}</nav>`);
+  html=html.replace(/<nav class="([^"]*\bnav\b[^"]*)"([^>]*)>([\s\S]*?)<\/nav>/i,(m,classes,attrs,body)=>`<nav class="${classes}"${attrs}>${patch(body)}</nav>`);
   html=html.replace(/(<div class="mobile-menu"[\s\S]*?<nav>)([\s\S]*?)(<\/nav>[\s\S]*?<\/div>)/i,(m,start,body,end)=>`${start}${patch(body)}${end}`);
   return html;
 }

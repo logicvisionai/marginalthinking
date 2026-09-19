@@ -7,11 +7,11 @@
 
 "Fundo soberano" costuma ser usado como se descrevesse uma única instituição. Não descreve. Veículos públicos de investimento diferem em propriedade, forma jurídica, mandato, governança, horizonte e relação com a política econômica doméstica. Essas diferenças determinam que tipo de capacidade estrutural o capital consegue efetivamente transmitir.
 
-Esta avaliação compara quatro modelos: o Public Investment Fund (PIF) da Arábia Saudita, a Mubadala de Abu Dhabi, a Temasek de Singapura e o Government Pension Fund Global (GPFG) da Noruega, gerido operacionalmente pelo Norges Bank Investment Management (NBIM). Todos mobilizam grandes volumes de riqueza pública. Seus mecanismos, porém, são diferentes.
+PIF, Mubadala, Temasek e GPFG mobilizam grandes volumes de riqueza pública, mas o fazem por estruturas institucionais diferentes. O PIF está ligado a um mandato explícito de transformação econômica saudita; a Mubadala combina investimento global com formação de capacidade nos Emirados Árabes Unidos; a Temasek possui diretamente seu portfólio sob governança comercial; e o GPFG separa a definição pública do mandato da gestão operacional delegada ao Norges Bank/NBIM.
 
 O PIF combina explicitamente retornos financeiros com transformação econômica saudita. A Mubadala combina investimento global com exposição de longo prazo a setores relevantes para a economia dos Emirados Árabes Unidos. A Temasek possui diretamente os ativos do portfólio, mas afirma que o Governo de Singapura não dirige suas decisões de investimento. A Noruega separa a definição política do mandato da gestão operacional do portfólio por uma cadeia formal de delegação.
 
-A conclusão central não é que um modelo seja mais forte que outro. É que **o efeito estrutural do capital soberano depende do mecanismo institucional de transmissão, e não apenas do tamanho do portfólio**.
+Os quatro casos apontam para uma conclusão comum: **o efeito estrutural do capital soberano depende do mandato, dos direitos e do mecanismo institucional de transmissão, não apenas do tamanho do portfólio**.
 
 ## Quatro volumes de capital público, quatro estruturas de governança
 
@@ -44,9 +44,9 @@ A Mubadala reportou **AED 1,4 trilhão (US$ 385 bilhões) em AUM** em 2025, alta
 
 A relevância estrutural desse modelo está na capacidade de combinar exposição internacional, capital de longo prazo e ativos estratégicos domésticos. Isso pode criar canais de financiamento, relações tecnológicas, formação empresarial e desenvolvimento de infraestrutura.
 
-O limite analítico, porém, é importante: **propriedade estatal não é evidência de que todo investimento da Mubadala seja dirigido por objetivos geopolíticos**. Uma operação deve ser classificada como política industrial, posicionamento estratégico ou investimento ordinário apenas quando seu mandato, estrutura ou evidência ao redor sustentar essa interpretação.
+A propriedade estatal, por si só, **não demonstra que cada investimento da Mubadala seja dirigido por objetivos geopolíticos**. Classificações como política industrial ou posicionamento estratégico exigem evidência no mandato, na estrutura da operação ou no contexto documentado.
 
-A distinção importa porque, sem ela, propriedade soberana vira atalho para atribuir motivações que podem não estar documentadas.
+Sem essa separação, a propriedade soberana passa a funcionar como atalho para atribuir intenções que a documentação disponível não sustenta.
 
 ## A Temasek mostra por que propriedade estatal e direção estatal precisam permanecer separadas
 
@@ -54,7 +54,7 @@ A Temasek reportou **S$ 518 bilhões em valor líquido do portfólio** em 31 de 
 
 Sua estrutura jurídica e de governança difere tanto do PIF quanto de uma gestora convencional. A Temasek afirma pertencer integralmente ao Minister for Finance de Singapura e **possuir os ativos do portfólio**, em vez de administrar reservas do governo ou dinheiro de clientes. Ao mesmo tempo, sua página de governança afirma que nem o Presidente nem o Governo dirigem suas estratégias de investimento, decisões de investimento ou outras decisões empresariais, exceto no papel constitucional de proteção das reservas passadas. [Temasek — governança corporativa](https://www.temasek.com.sg/en/about-us/corporate-governance)
 
-Isso cria uma distinção útil para o sistema de Atores Estratégicos:
+A separação entre propriedade estatal e decisão de investimento pode ser representada assim:
 
 ```flow
 Propriedade do Estado de Singapura → estrutura acionária da Temasek → propriedade de portfólio sob governança comercial → direitos de acionista nas empresas investidas
@@ -147,7 +147,7 @@ Investimento soberano pode afetar a geopolítica sem exigir uma instrução pol�
 
 Se um investidor público financia portos, geração elétrica, capacidade de semicondutores, mineração, infraestrutura de dados ou empresas nacionais relevantes, o ativo resultante pode alterar a capacidade produtiva do Estado ou suas dependências externas. Se um fundo se torna coinvestidor de longo prazo em tecnologia e infraestrutura estrangeiras, pode aprofundar relações comerciais que posteriormente adquirem relevância política. Se um fundo de poupança acumula participações amplas em mercados globais, passa a deter direitos acionários persistentes e exposição à governança de empresas internacionais.
 
-Esses são mecanismos. Devem ser avaliados individualmente.
+O efeito geopolítico depende, portanto, do ativo, dos direitos envolvidos, do horizonte do investimento e das dependências que a operação efetivamente cria.
 
 A mesma disciplina vale no sentido contrário. Uma participação passiva e minoritária em uma empresa estrangeira não demonstra, por si só, alavancagem geopolítica. Um número grande de AUM não mostra que o Estado possa redirecionar todo o portfólio livremente. Um proprietário soberano não controla automaticamente as operações de todas as empresas investidas.
 
@@ -163,15 +163,13 @@ Para GPFG/NBIM, os sinais relevantes são mudanças de mandato, regras de aloca�
 
 Esses indicadores são mais úteis do que tratar "riqueza soberana" como um agregado único.
 
-## Implicação para o mapa de Atores Estratégicos
+## Quatro mecanismos de transmissão, quatro limites de controle
 
-A ferramenta pública de Atores Estratégicos registra, portanto, PIF, Mubadala, Temasek e NBIM/GPFG como tipos e mecanismos distintos, em vez de colocá-los em um único bloco soberano genérico.
+O PIF apresenta o vínculo mais direto entre mandato soberano e formação de capacidade doméstica. A Mubadala combina capital de longo prazo, exposição internacional e ativos ligados ao desenvolvimento dos EAU. A Temasek exerce direitos decorrentes da propriedade direta do portfólio, mas sob uma estrutura que formalmente separa propriedade estatal de direção cotidiana dos investimentos. O GPFG/NBIM combina poupança pública, grande escala e propriedade global diversificada sob uma cadeia explícita de delegação.
 
-O canal documentado mais forte do PIF nesta primeira versão é **desenvolvimento soberano**. O da Mubadala combina **alocação de capital e formação de capacidade doméstica**. O da Temasek é **propriedade direta de portfólio sob estrutura comercial**. O do NBIM/GPFG é **propriedade global de portfólio sob mandato público formalmente delegado**.
+Esses mecanismos produzem direitos diferentes. Um investidor pode ser proprietário, credor ou coinvestidor; outra instituição pode regular, licenciar ou operar o ativo; fornecedores tecnológicos e clientes podem deter formas distintas de poder de barganha. Nenhuma dessas posições deve ser elevada automaticamente a "controle".
 
-É nesse nível que o sistema começa a responder "quem controla o quê?" sem extrapolar a evidência. Em muitos casos, a resposta não é que uma instituição controla um ativo. A resposta mais precisa é que instituições diferentes possuem direitos distintos sobre ele: proprietário, credor, regulador, fornecedor tecnológico, operador ou cliente.
-
-Mapear esses direitos separadamente é o que torna a rede analiticamente útil.
+A comparação entre os quatro casos mostra, portanto, que a capacidade estrutural do capital soberano depende menos do rótulo institucional do que da combinação entre mandato, direitos jurídicos, horizonte, instrumentos utilizados, capacidade de execução e alternativas disponíveis aos demais participantes.
 
 ## Fontes principais
 
