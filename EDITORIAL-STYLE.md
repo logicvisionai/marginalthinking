@@ -255,3 +255,21 @@ Antes da publicação, faça uma revisão apenas de linguagem. Para cada parágr
 Se a resposta for não, reescreva antes do QA factual.
 
 If the answer is no, rewrite before factual QA.
+
+
+## Research/product boundary
+
+Public research must analyze the external object under study. It must not narrate how Marginal Thinking is building, populating, updating or operating its own tools.
+
+Do not place product implementation language inside research, including formulations such as:
+- "the public tool records/shows/connects...";
+- "in this first version/release...";
+- "the system begins to answer...";
+- "implication for the map/tool/matrix...";
+- editorial roadmaps such as "what should enter next" or instructions about when a product dataset should be updated.
+
+When a finding is useful to a public tool, state the substantive analytical finding in the report and let the renderer/data layer express it in the tool. Product roadmap, schema design, coverage policy and ingestion instructions belong in architecture documents, not in published research.
+
+The same rule applies in Portuguese: avoid "a ferramenta pública registra", "o sistema começa a responder", "nesta primeira versão", "implicação para o mapa" and similar metalinguistic construction.
+
+QA treats these product/research boundary violations as blocking failures.
