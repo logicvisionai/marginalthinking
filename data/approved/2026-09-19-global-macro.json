@@ -7,100 +7,26 @@
   "pending_blob_sha": "5574cf86c4f6bff8e86444885e9d18a966e42289",
   "source_blob_shas": {
     "en": "981e870b88bdc717908db081686f58f703e23bde",
-    "pt-BR": "5d9dba02102074e9c41fc1a88082925244ec6026"
+    "pt-BR": "43d70c35592359d1edd7c604a2d06fff7c0d8ae6"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
   "confidence": "high",
   "checks": {
     "factual_core": "passed-with-source-qualification",
-    "revision_delta": {
-      "result": "passed",
-      "summary": "Revision 1 addresses the prior editorial-localization and source-methodology rejection. The staged delta preserves the previously validated market figures, dates, causal qualifications, scenarios and factual conclusion; no new material factual claim requiring reopened validation was introduced."
-    },
+    "revision_delta": {"result":"passed","summary":"Revision 1 addresses the prior editorial-localization and source-methodology rejection. The staged delta preserves the previously validated market figures, dates, causal qualifications, scenarios and factual conclusion; no new material factual claim requiring reopened validation was introduced."},
     "taxonomy": "passed",
     "translation_semantic_equivalence": "passed",
-    "editorial_publication_readiness": {
-      "result": "passed",
-      "summary": "Opening is direct and thesis-led; analytical headings name mechanisms or findings; PT-BR localization defects identified in revision 0 were corrected; source methodology now distinguishes directly consulted official monetary-policy sources from Reuters/LSEG reporting and reported data; repetition and cohesion are acceptable; no template, prompt or QA meta-text appears in the public body."
-    },
-    "contextual_depth": {
-      "result": "passed",
-      "summary": "The report incorporates material cross-cutting context through Gulf energy logistics, monetary-policy transmission, regional import exposure, capital flows and fiscal/financing constraints without ornamental historical or social sections."
-    },
-    "visual_evidence_readiness": {
-      "result": "passed",
-      "visual_signature": [
-        "market-signal table",
-        "weekly fund-flow bar chart",
-        "Gulf transmission map",
-        "cross-asset transmission flow"
-      ],
-      "summary": "The brief exceeds the minimum visual floor with a table, explicit chart and two structural visuals. Values and units match the report evidence, the fund-flow chart explicitly states that categories are not additive, structural arrows/maps encode mechanisms defended in the prose, and EN/PT-BR visuals are semantically aligned.",
-      "limitations": [
-        "The Gulf map is a mechanism/relationship map rather than a quantified geospatial capacity map and must not be read as measured physical throughput."
-      ]
-    }
+    "editorial_publication_readiness": {"result":"passed","summary":"Opening is direct and thesis-led; analytical headings name mechanisms or findings; PT-BR localization defects identified in revision 0 were corrected; source methodology now distinguishes directly consulted official monetary-policy sources from Reuters/LSEG reporting and reported data; repetition and cohesion are acceptable; no template, prompt or QA meta-text appears in the public body."},
+    "contextual_depth": {"result":"passed","summary":"The report incorporates material cross-cutting context through Gulf energy logistics, monetary-policy transmission, regional import exposure, capital flows and fiscal/financing constraints without ornamental historical or social sections."},
+    "visual_evidence_readiness": {"result":"passed","visual_signature":["market-signal table","weekly fund-flow bar chart","Gulf transmission map","cross-asset transmission flow"],"summary":"The brief exceeds the minimum visual floor with a table, explicit chart and two structural visuals. Values and units match the report evidence, the fund-flow chart explicitly states that categories are not additive, structural arrows/maps encode mechanisms defended in the prose, and EN/PT-BR visuals are semantically aligned.","limitations":["The Gulf map is a mechanism/relationship map rather than a quantified geospatial capacity map and must not be read as measured physical throughput."]}
   },
-  "contrary_evidence": [
-    "U.S. equities, especially technology, remained resilient despite tighter policy and Treasury yields around 5%, so restrictive sovereign yields do not imply uniformly restrictive financing conditions for large listed firms.",
-    "Asian equity funds received net inflows while global and U.S. equity funds saw outflows, limiting any claim of uniform global risk aversion."
-  ],
-  "limitations": [
-    "Several market and logistics observations rely on Reuters reporting and LSEG-derived flow data rather than independently opened exchange or official primary datasets.",
-    "Saudi alternative export-route scale and realized East-West/Sohar substitution remain uncertain; workaround existence is better established than durable replacement capacity."
-  ],
+  "contrary_evidence": ["U.S. equities, especially technology, remained resilient despite tighter policy and Treasury yields around 5%, so restrictive sovereign yields do not imply uniformly restrictive financing conditions for large listed firms.","Asian equity funds received net inflows while global and U.S. equity funds saw outflows, limiting any claim of uniform global risk aversion."],
+  "limitations": ["Several market and logistics observations rely on Reuters reporting and LSEG-derived flow data rather than independently opened exchange or official primary datasets.","Saudi alternative export-route scale and realized East-West/Sohar substitution remain uncertain; workaround existence is better established than durable replacement capacity."],
   "notes": "Revision 1 is approved after targeted QA rework. The prior rejection remains part of the audit trail. Approval is bound to the exact pending and staged-source Git blobs reviewed at c1bb3dabf4b1e1fdc674c5ccedd3e8efe67a314a.",
   "publication": {
-    "schema_version": 2,
-    "ready": true,
-    "id": "MT-GM-2026-09-19",
-    "slug": "2026-09-19-global-macro",
-    "date": "2026-09-19",
-    "published_at": "2026-09-19T00:07:38-03:00",
-    "kind": "daily-global-macro",
-    "priority": 10,
-    "source_locale": "en",
-    "revision": 1,
-    "revision_reason": "qa_rework",
-    "supersedes_rejected_commit": "f6d324ba49077881104d075f76fbaf2d4f79fa14",
-    "qa_fixes_applied": [
-      "Localized PT-BR market-language defects by replacing raw breadth/cross-asset jargon with natural Portuguese.",
-      "Rewrote EN and PT-BR source methodology to distinguish directly consulted official monetary-policy sources from Reuters/LSEG first-line reporting and reported market/flow data.",
-      "Preserved validated market levels, dates, visual evidence, causal qualifications, scenarios and conclusions."
-    ],
-    "sources": {
-      "en": {
-        "markdown": "staging/research/2026/09/2026-09-19-global-macro/en.md",
-        "title": "Global Macro — September 19, 2026",
-        "deck": "Lower oil is easing the immediate inflation shock, but near-5% Treasury yields, synchronized central-bank tightening and large equity-fund outflows keep global financial conditions restrictive.",
-        "tags": ["global-macro", "markets", "monetary-policy", "energy", "cross-asset"],
-        "keywords": ["Federal Reserve", "Bank of Japan", "Treasuries", "oil", "gold", "fund flows", "Brazil", "Gulf logistics"],
-        "regime": "Restrictive financing conditions with partial energy-shock relief and selective risk-asset resilience.",
-        "key_risk": "Markets may price energy normalization before Gulf transport capacity and route security are durably restored.",
-        "watch": ["Saudi East-West pipeline realized throughput and Sohar loadings", "Brent around $100–105/bbl", "U.S. 10-year Treasury around 5%", "U.S. equity breadth and fund flows", "yen after BOJ dissent", "gold versus real yields"],
-        "search_text": "Global macro September 19 2026 oil Fed BOJ Treasury yields equity fund outflows gold Gulf logistics Brazil cross-asset."
-      },
-      "pt-BR": {
-        "markdown": "staging/research/2026/09/2026-09-19-global-macro/pt-BR.md",
-        "title": "Global Macro — 19 de setembro de 2026",
-        "deck": "A queda do petróleo reduz o choque inflacionário imediato, mas Treasuries perto de 5%, aperto sincronizado dos bancos centrais e fortes retiradas de fundos de ações mantêm as condições financeiras globais restritivas.",
-        "tags": ["global-macro", "mercados", "politica-monetaria", "energia", "classes-de-ativos"],
-        "keywords": ["Federal Reserve", "Banco do Japão", "Treasuries", "petróleo", "ouro", "fluxos de fundos", "Brasil", "logística do Golfo"],
-        "regime": "Condições de financiamento restritivas, com alívio parcial do choque energético e resistência seletiva dos ativos de risco.",
-        "key_risk": "O mercado pode precificar normalização energética antes que a capacidade de transporte e a segurança das rotas do Golfo estejam restauradas de forma duradoura.",
-        "watch": ["Vazão efetiva do East-West e carregamentos em Sohar", "Brent na região de US$ 100–105/barril", "Treasury de 10 anos em torno de 5%", "amplitude e fluxos das ações dos EUA", "iene após dissidência no BOJ", "ouro versus juros reais"],
-        "search_text": "Global macro 19 setembro 2026 petróleo Fed BOJ Treasuries fluxos fundos ações ouro logística Golfo Brasil classes de ativos."
-      }
-    },
-    "taxonomy_version": "1.0",
-    "program": "political-economy-markets",
-    "related_programs": ["global-system-power"],
-    "dimensions": ["economy", "politics"],
-    "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
-    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "sovereign-debt", "currencies", "energy", "commodities-resources", "geopolitics-security"],
-    "phenomena": ["war-armed-conflict", "defense-security"],
-    "format": "brief",
-    "cadence": "daily"
+    "schema_version":2,"ready":true,"id":"MT-GM-2026-09-19","slug":"2026-09-19-global-macro","date":"2026-09-19","published_at":"2026-09-19T00:07:38-03:00","kind":"daily-global-macro","priority":10,"source_locale":"en","revision":1,"revision_reason":"qa_rework","supersedes_rejected_commit":"f6d324ba49077881104d075f76fbaf2d4f79fa14","qa_fixes_applied":["Localized PT-BR market-language defects by replacing raw breadth/cross-asset jargon with natural Portuguese.","Rewrote EN and PT-BR source methodology to distinguish directly consulted official monetary-policy sources from Reuters/LSEG first-line reporting and reported market/flow data.","Preserved validated market levels, dates, visual evidence, causal qualifications, scenarios and conclusions."],
+    "sources":{"en":{"markdown":"staging/research/2026/09/2026-09-19-global-macro/en.md","title":"Global Macro — September 19, 2026","deck":"Lower oil is easing the immediate inflation shock, but near-5% Treasury yields, synchronized central-bank tightening and large equity-fund outflows keep global financial conditions restrictive.","tags":["global-macro","markets","monetary-policy","energy","cross-asset"],"keywords":["Federal Reserve","Bank of Japan","Treasuries","oil","gold","fund flows","Brazil","Gulf logistics"],"regime":"Restrictive financing conditions with partial energy-shock relief and selective risk-asset resilience.","key_risk":"Markets may price energy normalization before Gulf transport capacity and route security are durably restored.","watch":["Saudi East-West pipeline realized throughput and Sohar loadings","Brent around $100–105/bbl","U.S. 10-year Treasury around 5%","U.S. equity breadth and fund flows","yen after BOJ dissent","gold versus real yields"],"search_text":"Global macro September 19 2026 oil Fed BOJ Treasury yields equity fund outflows gold Gulf logistics Brazil cross-asset."},"pt-BR":{"markdown":"staging/research/2026/09/2026-09-19-global-macro/pt-BR.md","title":"Global Macro — 19 de setembro de 2026","deck":"A queda do petróleo reduz o choque inflacionário imediato, mas Treasuries perto de 5%, aperto sincronizado dos bancos centrais e fortes retiradas de fundos de ações mantêm as condições financeiras globais restritivas.","tags":["global-macro","mercados","politica-monetaria","energia","classes-de-ativos"],"keywords":["Federal Reserve","Banco do Japão","Treasuries","petróleo","ouro","fluxos de fundos","Brasil","logística do Golfo"],"regime":"Condições de financiamento restritivas, com alívio parcial do choque energético e resistência seletiva dos ativos de risco.","key_risk":"O mercado pode precificar normalização energética antes que a capacidade de transporte e a segurança das rotas do Golfo estejam restauradas de forma duradoura.","watch":["Vazão efetiva do East-West e carregamentos em Sohar","Brent na região de US$ 100–105/barril","Treasury de 10 anos em torno de 5%","amplitude e fluxos das ações dos EUA","iene após dissidência no BOJ","ouro versus juros reais"],"search_text":"Global macro 19 setembro 2026 petróleo Fed BOJ Treasuries fluxos fundos ações ouro logística Golfo Brasil classes de ativos."}},
+    "taxonomy_version":"1.0","program":"political-economy-markets","related_programs":["global-system-power"],"dimensions":["economy","politics"],"geography":{"level":"global","regions":[],"subregions":[],"countries":[]},"topics":["macroeconomics","monetary-policy","capital-markets","sovereign-debt","currencies","energy","commodities-resources","geopolitics-security"],"phenomena":["war-armed-conflict","defense-security"],"format":"brief","cadence":"daily"
   }
 }
