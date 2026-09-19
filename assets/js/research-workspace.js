@@ -61,7 +61,7 @@ function renderResults(){
 }
 function syncPersonal(){
   $('saved-count').textContent=items.filter(inNotebook).length;
-  $('storage-status').textContent=storageAvailable()?text('Saved reading and notes stay in this browser. Export your workspace to keep a copy.','Leituras salvas e notas ficam apenas neste navegador. Exporte o caderno para guardar uma cópia.'):text('Storage is unavailable. Changes last only while this page is open. Export your workspace before leaving.','O armazenamento está indisponível. Alterações duram apenas enquanto esta página estiver aberta. Exporte o caderno antes de sair.');
+  $('storage-status').textContent=storageAvailable()?text('Saved reading, highlights and notes stay in this browser. Export your workspace to keep a copy.','Leituras salvas, grifos e notas ficam apenas neste navegador. Exporte o caderno para guardar uma cópia.'):text('Storage is unavailable. Changes last only while this page is open. Export your workspace before leaving.','O armazenamento está indisponível. Alterações duram apenas enquanto esta página estiver aberta. Exporte o caderno antes de sair.');
 }
 function renderComparison(){
   const selected=compared.map(id=>byId.get(id));$('comparison').hidden=!selected.length;$('comparison-tray').hidden=!selected.length;

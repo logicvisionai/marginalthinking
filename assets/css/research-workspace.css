@@ -86,3 +86,66 @@ html[data-theme="dark"] .workspace-page{--workspace-accent:#77d9ed;--workspace-s
 
 .workspace-watch-scope{display:flex;align-items:center;gap:9px;font-size:12px;color:var(--ink);min-height:40px}
 .workspace-watch-scope input{width:17px;height:17px;accent-color:var(--workspace-accent)}
+
+
+/* Cross-page highlights and annotations */
+.workspace-annotations{display:none}
+.workspace-page.annotations-mode #workspace-filters,
+.workspace-page.annotations-mode .workspace-results-toolbar,
+.workspace-page.annotations-mode #share-fallback,
+.workspace-page.annotations-mode #watch-scope,
+.workspace-page.annotations-mode #workspace-view-note,
+.workspace-page.annotations-mode #workspace-results,
+.workspace-page.annotations-mode #workspace-pagination,
+.workspace-page.annotations-mode #comparison,
+.workspace-page.annotations-mode #comparison-tray{display:none!important}
+.workspace-page.annotations-mode .workspace-annotations{display:block}
+.workspace-annotations-head{display:flex;align-items:flex-end;justify-content:space-between;gap:28px;padding:26px 0 22px;border-bottom:1px solid var(--line)}
+.workspace-annotations-head h2{margin:8px 0 8px;font:400 34px/1.08 var(--serif);letter-spacing:-.025em}
+.workspace-annotations-head p{margin:0;max-width:720px;color:var(--muted);font-size:13px;line-height:1.6}
+.workspace-annotations-head>button{flex:none}
+.workspace-annotation-tools{display:grid;grid-template-columns:minmax(0,1fr) 210px auto;gap:14px;align-items:end;padding:18px 0}
+.workspace-annotation-tools label{display:flex;flex-direction:column;gap:7px;color:var(--muted);font-size:11px}
+.workspace-annotation-tools input,.workspace-annotation-tools select{height:44px;border:1px solid var(--line);background:var(--workspace-surface);padding:0 11px}
+.workspace-annotation-tools span{align-self:center;color:var(--muted);font-size:11px;white-space:nowrap}
+.annotation-results{display:grid;gap:22px}
+.annotation-page-group{background:var(--workspace-surface);border:1px solid var(--line)}
+.annotation-page-group>header{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px 20px;border-bottom:1px solid var(--line);background:var(--paper-2)}
+.annotation-page-group>header span{display:block;color:var(--muted);font-size:9px;letter-spacing:.06em;overflow-wrap:anywhere}
+.annotation-page-group>header h2{margin:5px 0 0;font:400 25px/1.15 var(--serif)}
+.annotation-page-group>header h2 a:hover{text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}
+.annotation-page-group>header strong{display:flex;align-items:center;justify-content:center;min-width:30px;height:30px;border-radius:50%;background:var(--ink);color:var(--paper);font-size:11px}
+.annotation-page-items{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+.annotation-card{padding:18px 20px;border-bottom:1px solid var(--line);min-width:0}
+.annotation-card:nth-child(odd){border-right:1px solid var(--line)}
+.annotation-card-meta{display:flex;justify-content:space-between;gap:12px;color:var(--muted);font-size:9px;letter-spacing:.08em;text-transform:uppercase}
+.annotation-card blockquote{margin:13px 0;padding:11px 13px;background:var(--paper-2);border-left:2px solid var(--workspace-accent);font:400 14px/1.58 var(--serif)}
+.annotation-card label{display:flex;flex-direction:column;gap:7px;margin-top:12px;color:var(--muted);font-size:10px}
+.annotation-card textarea{width:100%;min-height:104px;resize:vertical;border:1px solid var(--line);background:var(--paper);color:var(--ink);padding:10px;font:400 12px/1.55 var(--sans)}
+.annotation-card textarea:focus{outline:2px solid var(--workspace-accent);outline-offset:1px}
+.annotation-card-actions{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:11px}
+.annotation-card-actions a{color:var(--workspace-accent);font-size:11px}
+.annotation-card-actions button{min-height:34px;padding:7px 9px;font-size:10px;background:transparent}
+.annotation-card-colors{display:flex;gap:7px;margin-top:10px}
+.workspace-page .annotation-color{width:22px;height:22px;min-height:22px;padding:0;border-radius:50%;border:2px solid transparent;box-shadow:inset 0 0 0 1px rgba(15,23,29,.14)}
+.workspace-page .annotation-color[aria-pressed="true"]{border-color:var(--ink);background-color:initial;color:inherit}
+.annotation-color-yellow{background:rgba(245,208,66,.7)!important}
+.annotation-color-cyan{background:rgba(57,201,231,.62)!important}
+.annotation-color-green{background:rgba(100,190,132,.62)!important}
+.annotation-color-rose{background:rgba(225,112,139,.58)!important}
+@media(max-width:760px){
+  .workspace-annotations-head{align-items:flex-start;flex-direction:column}
+  .workspace-annotation-tools{grid-template-columns:1fr 1fr}
+  .workspace-annotation-tools span{grid-column:1/-1}
+  .annotation-page-items{grid-template-columns:1fr}
+  .annotation-card:nth-child(odd){border-right:0}
+}
+@media(max-width:640px){
+  .workspace-views{flex-wrap:wrap}
+  .workspace-views button{flex:1 1 45%}
+  .workspace-annotation-tools{grid-template-columns:1fr}
+  .workspace-annotation-tools span{grid-column:auto}
+  .workspace-annotations-head h2{font-size:30px}
+  .annotation-page-group>header{padding:15px}
+  .annotation-card{padding:16px}
+}
