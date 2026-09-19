@@ -39,8 +39,8 @@ for(const locale of Object.keys(cfg.locales||{})){
   if(!fs.existsSync(geoFile))fail.push(`${locale}: página Países & Regiões ausente`);
   else{
     const geo=fs.readFileSync(geoFile,'utf8'),research=pagePath(locale,'/reports.html');
-    const geoActive=new RegExp(`<a href="${rx(geoUrl)}"[^>]*class="active"[^>]*aria-current="page"|<a href="${rx(geoUrl)}"[^>]*aria-current="page"[^>]*class="active"`,'g');
-    const activeCount=(geo.match(geoActive)||[]).length;
+    const geoAnchors=[...geo.matchAll(new RegExp(`<a href="${rx(geoUrl)}"[^>]*>`,'g'))].map(m=>m[0]);
+    const activeCount=geoAnchors.filter(a=>/class=(["'])[^"']*\bactive\b[^"']*\1/i.test(a)&&/aria-current=(["'])page\1/i.test(a)).length;
     if(activeCount<2)fail.push(`${locale}: Países & Regiões deve estar ativo no desktop e mobile`);
     const researchActive=new RegExp(`<a href="${rx(research)}"[^>]*(?:class="active"|aria-current="page")`,'i');
     if(researchActive.test(geo))fail.push(`${locale}: Pesquisas não pode permanecer ativo em Países & Regiões`);
