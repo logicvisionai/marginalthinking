@@ -87,7 +87,19 @@ jobs:
           test -f dist/assets/js/research-store.js
           test -f dist/assets/js/research-actions.js
           test -f dist/assets/js/research-workspace.js
+          test -f dist/assets/js/annotations-store.js
+          test -f dist/assets/js/annotation-layer.js
+          test -f dist/assets/js/workspace-annotations.js
+          test -f dist/assets/css/annotations.css
           test -f dist/assets/css/research-workspace.css
+          node --check dist/assets/js/annotations-store.js
+          node --check dist/assets/js/annotation-layer.js
+          node --check dist/assets/js/workspace-annotations.js
+          grep -q 'mobile-menu-toolbar' dist/index.html
+          grep -q '/assets/js/annotation-layer.js' dist/index.html
+          grep -q 'id="annotations-view"' dist/workspace/index.html
+          grep -q 'workspace-annotations.js' dist/workspace/index.html
+          grep -q 'id="annotations-view"' dist/pt-br/workspace/index.html
           node scripts/validate-research-product.mjs
           grep -q 'global-search-link' dist/pt-br/index.html
           grep -R -q 'semantic-navigation' dist/reports
