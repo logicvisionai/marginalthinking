@@ -8,7 +8,7 @@ function initLocalePreference(){
   const cookie=()=>{try{return decodeURIComponent((document.cookie.split('; ').find(x=>x.startsWith(cookieKey+'='))||'').split('=').slice(1).join('='));}catch{return'';}};
   const save=value=>{if(!valid(value))return;try{localStorage.setItem(key,value);}catch{}try{document.cookie=cookieKey+'='+encodeURIComponent(value)+'; Max-Age=31536000; Path=/; SameSite=Lax; Secure';}catch{}document.documentElement.dataset.localePreference=value;};
   const alternate=value=>{
-    const links=$('link[rel="alternate"][hreflang]');
+    const links=$$('link[rel="alternate"][hreflang]');
     return links.find(l=>value==='pt-BR'?/^pt(?:-|$)/i.test(l.hreflang||''):/^en(?:-|$)/i.test(l.hreflang||''))||null;
   };
   const go=value=>{
@@ -19,7 +19,7 @@ function initLocalePreference(){
     if(target.pathname===location.pathname&&target.search===location.search&&target.hash===location.hash)return false;
     save(value);location.replace(target.href);return true;
   };
-  for(const link of $('.language-switch a[data-locale]'))link.addEventListener('click',()=>save(link.dataset.locale));
+  for(const link of $$('.language-switch a[data-locale]'))link.addEventListener('click',()=>save(link.dataset.locale));
   let saved=null;try{saved=localStorage.getItem(key);}catch{}if(!valid(saved))saved=cookie();if(!valid(saved))saved=null;
   if(saved){if(saved!==current&&go(saved))return;save(saved);return;}
   const explicitPt=location.pathname.toLowerCase().startsWith('/pt-br/');
@@ -29,7 +29,7 @@ function initLocalePreference(){
   save(browser);
 }
 function initDesktopNav(){
-  const groups=$('.nav-group');if(!groups.length)return;
+  const groups=$$('.nav-group');if(!groups.length)return;
   const close=(except=null)=>{for(const g of groups)if(g!==except){g.classList.remove('open');const b=$('.nav-trigger',g);if(b)b.setAttribute('aria-expanded','false');}};
   for(const g of groups){
     const btn=$('.nav-trigger',g),panel=$('.nav-dropdown',g);if(!btn||!panel)continue;
