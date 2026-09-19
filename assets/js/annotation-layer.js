@@ -100,7 +100,8 @@ function showToolbar(){
   const rect=anchor.range.getBoundingClientRect();if(!rect.width&&!rect.height){hideToolbar();return;}toolbar.hidden=false;
   requestAnimationFrame(()=>{const box=toolbar.getBoundingClientRect(),pad=10;let left=rect.left+rect.width/2-box.width/2,top=rect.top-box.height-10;left=Math.max(pad,Math.min(innerWidth-box.width-pad,left));if(top<pad)top=Math.min(innerHeight-box.height-pad,rect.bottom+10);toolbar.style.left=Math.round(left)+'px';toolbar.style.top=Math.round(top)+'px';});
 }
-function openDrawer(annotationId=''){drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');launcher.setAttribute('aria-expanded','true');renderDrawer();if(annotationId)requestAnimationFrame(()=>drawer.querySelector('[data-annotation-card="'+CSS.escape(annotationId)+'"] textarea')?.focus());}
+function syncDrawerTop(){const header=document.querySelector('.site-header');drawer.style.top=innerWidth<=640&&header?Math.max(0,Math.round(header.getBoundingClientRect().bottom))+'px':'0px';}
+function openDrawer(annotationId=''){syncDrawerTop();drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');launcher.setAttribute('aria-expanded','true');renderDrawer();if(annotationId)requestAnimationFrame(()=>drawer.querySelector('[data-annotation-card="'+CSS.escape(annotationId)+'"] textarea')?.focus());}
 function closeDrawer(){drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');launcher.setAttribute('aria-expanded','false');}
 function annotationCard(a){
   const colors=['yellow','cyan','green','rose'];
@@ -142,6 +143,7 @@ drawer.addEventListener('click',event=>{
 drawer.addEventListener('input',event=>{const id=event.target.dataset.annotationNote;if(!id)return;clearTimeout(noteTimers.get(id));noteTimers.set(id,setTimeout(()=>{updateAnnotation(id,{note:event.target.value});noteTimers.delete(id);},220));});
 document.addEventListener('click',event=>{const mark=event.target.closest('mark.mt-highlight');if(mark)openDrawer(mark.dataset.annotationId);});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'){hideToolbar();if(drawer.classList.contains('open'))closeDrawer();}if((event.key==='Enter'||event.key===' ')&&event.target.matches('mark.mt-highlight')){event.preventDefault();openDrawer(event.target.dataset.annotationId);}});
-addEventListener('annotations:changed',event=>{const item=event.detail?.id?annotationById(event.detail.id):null;if(event.detail?.action==='remove'&&event.detail.id)unwrap(event.detail.id);if(item?.pagePath===pagePath&&item.type==='highlight'){recolor(item.id,item.color);wrapAnchor(item);}renderDrawer();});
+addEventListener('annotations:changed',event=>{const item=event.detail?.id?annotationById(event.detail.id):null;if(event.detail?.action==='remove'&&event.detail.id)unwrap(event.detail.id);if(item?.pagePath===pagePath&&item.type==='highlight'){recolor(item.id,item.color);wrapAnchor(item);}if(event.detail?.action==='update'&&document.activeElement?.matches('[data-annotation-note]'))return;renderDrawer();});
+addEventListener('resize',()=>{if(drawer.classList.contains('open'))syncDrawerTop();},{passive:true});
 addEventListener('hashchange',()=>{const id=location.hash.startsWith('#annotation-')?location.hash.slice(12):'';if(id)locate(id);});
 applyAll();renderDrawer();const deepId=location.hash.startsWith('#annotation-')?location.hash.slice(12):'';if(deepId)setTimeout(()=>locate(deepId),120);
