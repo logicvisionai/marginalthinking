@@ -97,6 +97,9 @@ jobs:
           node --check dist/assets/js/workspace-annotations.js
           grep -q 'mobile-menu-toolbar' dist/index.html
           grep -q '/assets/js/annotation-layer.js' dist/index.html
+          grep -q 'data-annotation-styles' dist/index.html
+          grep -q 'mt-notes-drawer.*hidden' dist/assets/js/annotation-layer.js
+          grep -q '.mt-notes-drawer\[hidden\]' dist/assets/css/annotations.css
           grep -q 'id="annotations-view"' dist/workspace/index.html
           grep -q 'workspace-annotations.js' dist/workspace/index.html
           grep -q 'id="annotations-view"' dist/pt-br/workspace/index.html
