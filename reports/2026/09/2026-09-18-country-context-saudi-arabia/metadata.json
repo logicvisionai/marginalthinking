@@ -1,0 +1,48 @@
+{
+  "id": "MT-CC-2026-09-18-saudi-arabia",
+  "slug": "2026-09-18-country-context-saudi-arabia",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T10:30:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": ["political-economy-markets"],
+  "dimensions": ["economy", "politics", "society"],
+  "geography": {"level":"country","regions":["middle-east"],"subregions":["gulf"],"countries":[{"code":"SA","slug":"saudi-arabia"}]},
+  "topics": ["fiscal-policy","trade-investment","energy","infrastructure-logistics","industry-production","institutions-governance","demography-labor","capital-markets"],
+  "phenomena": ["war-armed-conflict","institutional-change","social-change"],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "context_role": "country-context",
+  "related_research_ids": ["MT-GM-2026-09-17","MT-GM-2026-09-18","MT-WF-2026-09-18"],
+  "url": "/reports/2026/09/2026-09-18-country-context-saudi-arabia.html",
+  "qa_reviewed_at": "2026-09-18T23:31:06-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "99bf34eb6027d8a278f759e4bbcaf0f3aad0c906",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Saudi Arabia: oil buffers, state-led diversification and the limits of substitution",
+      "deck": "Saudi Arabia is using hydrocarbon income, state capital and logistics redundancy to widen its productive base, but fiscal dependence, private-sector productivity, labour segmentation and Gulf geography still constrain the transition.",
+      "tags": ["Saudi Arabia","Vision 2030","PIF","oil","labour market","Hormuz","fiscal policy"],
+      "keywords": ["Saudi Arabia","Vision 2030","Public Investment Fund","non-oil GDP","non-oil primary deficit","East-West Pipeline","Hormuz","Saudi labour market","dollar peg"],
+      "regime": "State-led diversification remains supported by oil income and large balance sheets while conflict and higher financing costs increase pressure for selective investment and private-sector productivity.",
+      "key_risk": "A prolonged regional disruption or weaker project returns could force sharper prioritization before private investment and non-oil revenue are deep enough to sustain the investment cycle.",
+      "watch": ["non-oil primary deficit","private investment and non-oil exports","PIF capital allocation","bank exposure to large projects","Saudi labour participation and skills","East-West pipeline and Red Sea export utilization"],
+      "search_text": "Saudi Arabia country context Vision 2030 PIF oil fiscal non-oil primary deficit labour women participation East-West pipeline Hormuz dollar peg diversification"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Arábia Saudita: amortecedores do petróleo, diversificação liderada pelo Estado e os limites da substituição",
+      "deck": "A Arábia Saudita usa renda de hidrocarbonetos, capital estatal e redundância logística para ampliar sua base produtiva, mas dependência fiscal, produtividade privada, segmentação do trabalho e geografia do Golfo ainda limitam a transição.",
+      "tags": ["Arábia Saudita","Visão 2030","PIF","petróleo","mercado de trabalho","Hormuz","política fiscal"],
+      "keywords": ["Arábia Saudita","Visão 2030","Public Investment Fund","PIB não petrolífero","déficit primário não petrolífero","oleoduto Leste-Oeste","Hormuz","mercado de trabalho saudita","vínculo com dólar"],
+      "regime": "A diversificação liderada pelo Estado continua sustentada pela renda do petróleo e por grandes balanços, enquanto conflito e financiamento mais caro aumentam a pressão por investimento seletivo e produtividade privada.",
+      "key_risk": "Uma interrupção regional prolongada ou retornos menores dos projetos podem exigir priorização mais forte antes que investimento privado e receita não petrolífera sejam suficientes para sustentar o ciclo de investimento.",
+      "watch": ["déficit primário não petrolífero","investimento privado e exportações não petrolíferas","alocação de capital do PIF","exposição bancária a grandes projetos","participação e qualificação do trabalho saudita","utilização do oleoduto Leste-Oeste e das exportações pelo Mar Vermelho"],
+      "search_text": "Arábia Saudita contexto país Visão 2030 PIF petróleo fiscal déficit primário não petrolífero trabalho participação feminina oleoduto Leste-Oeste Hormuz dólar diversificação"
+    }
+  }
+}
