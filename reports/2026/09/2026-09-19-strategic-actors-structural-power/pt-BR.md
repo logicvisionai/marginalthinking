@@ -9,9 +9,9 @@ Grandes volumes de riqueza importam, mas riqueza por si só não explica poder e
 
 O problema analítico, portanto, não é compilar uma lista de instituições ricas. É identificar **quais atores conseguem alterar as restrições sob as quais outros atores operam, por qual mecanismo documentado, durante quanto tempo e com quais alternativas disponíveis**.
 
-Esta primeira avaliação de Atores Estratégicos estabelece esse método e o testa contra cinco estruturas diferentes: BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore e ASML. A comparação é intencionalmente heterogênea. O objetivo é mostrar por que ativos sob gestão, direitos de acionista, intermediação física, controle produtivo e dependência tecnológica não podem ser reduzidos a um único ranking.
+BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore e ASML ilustram cinco formas distintas de capacidade estrutural. A comparação é heterogênea por necessidade: ativos sob gestão, direitos de acionista, intermediação física, controle produtivo e dependência tecnológica não medem a mesma coisa e não devem ser comprimidos em um único ranking.
 
-A avaliação central é: **capacidade estrutural é melhor entendida como uma cadeia que liga um ator a uma capacidade, uma dependência e um mecanismo de transmissão. Escala importa quando fortalece essa cadeia, mas escala não é a própria cadeia.**
+**Capacidade estrutural aparece quando um ator combina uma capacidade material com uma dependência relevante e um mecanismo de transmissão capaz de afetar decisões de terceiros.** Escala reforça esse efeito quando amplia alcance, persistência ou dificuldade de substituição, mas não o produz sozinha.
 
 ## O primeiro erro é tratar ativos sob gestão como propriedade
 
@@ -123,7 +123,7 @@ Capacidade estrutural
 
 Esse arcabouço evita deliberadamente uma única "nota de poder". Combinar dólares de AUM, barris por dia, direitos de voto e substituição tecnológica em um número fabricaria precisão em vez de medir uma variável coerente.
 
-A saída mais útil é um perfil: quais canais estão documentados, o que alcançam, o que os limita e se o sistema dependente possui alternativas críveis.
+O resultado analítico relevante é um perfil de capacidade: quais canais estão documentados, o que alcançam, quais limites jurídicos ou operacionais os restringem e quão críveis são as alternativas disponíveis.
 
 ## Fundos públicos adicionam outra camada: o mandato precisa ser separado do portfólio
 
@@ -131,11 +131,11 @@ O Government Pension Fund Global encerrou 2025 em NOK 21,268 trilhões, com 71,3
 
 Essa arquitetura importa porque "dinheiro estatal" não descreve como as decisões são efetivamente tomadas. O mesmo vale para investidores soberanos. Alguns possuem mandatos explícitos de transformação doméstica; outros são desenhados principalmente para preservar ou ampliar riqueza pública; outros possuem empresas estratégicas mantendo estruturas comerciais de decisão.
 
-A segunda pesquisa desta primeira leva examina capital soberano separadamente, em vez de presumir um único modelo.
+Fundos soberanos exigem análise própria porque o vínculo entre patrimônio público, mandato, governança e decisão de investimento varia substancialmente entre países.
 
-## O que o primeiro mapa muda
+## Direitos diferentes produzem formas diferentes de influência
 
-O primeiro conjunto de Atores Estratégicos trata toda relação como um mecanismo tipado. Ele distingue:
+A mesma instituição pode participar de uma cadeia econômica por direitos e capacidades distintos. Separar esses vínculos evita transformar exposição financeira, autoridade de voto, propriedade produtiva e fornecimento tecnológico em sinônimos de controle.
 
 | Relação | O que significa | No que não deve ser silenciosamente transformada |
 |---|---|---|
@@ -147,23 +147,15 @@ O primeiro conjunto de Atores Estratégicos trata toda relação como um mecanis
 | controle produtivo | um ator possui ou controla ativos produtivos | controle de todo o mercado global |
 | fornecimento tecnológico | um ator fornece uma capacidade difícil de substituir | autoridade soberana sobre quem pode recebê-la |
 
-A ferramenta pública usa essas distinções para conectar atores a mercados, capacidade industrial, fluxos de energia, materiais críticos e produção avançada de semicondutores. A base é deliberadamente seletiva. Ausência do mapa significa apenas que um ator ainda não passou pelo teste de evidência e materialidade.
+A distinção entre esses mecanismos também muda a leitura de dependência. Um mercado pode ser exposto a um grande alocador de capital sem depender dele operacionalmente; uma cadeia industrial pode, em contraste, depender de um fornecedor muito menor quando a substituição tecnológica é lenta, cara ou limitada por capacidade instalada.
 
-## O que deve entrar em seguida
-
-A próxima expansão não deveria começar por sobrenomes famosos. Deve começar por mecanismos ainda pouco mapeados.
-
-Isso inclui plataformas de private credit que se tornaram credores materiais de infraestrutura e empresas; instituições de clearing e settlement cuja falha interromperia mercados financeiros; seguradoras cujos balanços determinam quais riscos podem ser financiados; operadores de portos, navios e dutos em corredores concentrados; provedores de cloud e datacenters onde dependência computacional é geograficamente concentrada; fornecedores de equipamentos e materiais para semicondutores; bancos de desenvolvimento; fundos de pensão; e family offices ou fundações juridicamente identificáveis quando um canal documentado alcança capital, instituições ou políticas públicas.
-
-Rothschild, Rockefeller, Soros ou qualquer outra família ou indivíduo deve entrar apenas por meio de uma entidade jurídica ou operacional específica. O sobrenome por si só não é um nó analítico.
-
-## O que enfraqueceria a relevância estrutural de um ator
+ ## Condições que reduziriam a relevância estrutural
 
 A avaliação deve ser revisada para baixo quando uma ou mais condições ocorrerem: alternativas críveis escalarem rapidamente; custos de troca caírem; um mandato for materialmente reduzido; direitos de voto ou propriedade diminuírem; volumes produtivos ou de fluxo perderem relevância; uma tecnologia antes proprietária se tornar commodity; regulação remover acesso ao canal; ou uma dependência antes concentrada se distribuir entre várias alternativas.
 
 O oposto também importa. Consolidação, aumento da dependência de mercado, expansão de mandatos, integração vertical, nova propriedade de infraestrutura ou maior escassez tecnológica podem aumentar relevância estrutural mesmo quando o valor patrimonial do ator muda pouco.
 
-Por isso, Atores Estratégicos deve ser atualizado principalmente **por eventos**, com revisões estruturais periódicas. A unidade monitorada não é celebridade. É o mecanismo.
+A relevância estrutural, portanto, não é permanente. Ela depende de concentração, substituibilidade, direitos efetivos, capacidade operacional e persistência do mecanismo ao longo do tempo.
 
 ## Fontes principais
 
