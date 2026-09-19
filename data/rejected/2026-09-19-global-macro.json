@@ -1,0 +1,75 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-19",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-19T00:10:32-03:00",
+  "reviewed_commit": "f6d324ba49077881104d075f76fbaf2d4f79fa14",
+  "pending_blob_sha": "0fc514a3d46b14f27d75ad2c14953f63335f307f",
+  "source_blob_shas": {
+    "en": "0deb637645a9788e49938ed4345260eadb4f209e",
+    "pt-BR": "10661461998c69815e06964dad69eab42e6f5f0d"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "taxonomy_check": "passed",
+  "translation_check": "failed",
+  "blocking_issues": [
+    {
+      "type": "editorial-localization",
+      "location": "PT-BR table, row S&P 500",
+      "issue": "The phrase 'Preço do índice mais forte que breadth/fluxos' exposes raw English market jargon ('breadth') in the Portuguese edition and reads as translated/internal shorthand rather than publication-ready Brazilian Portuguese."
+    },
+    {
+      "type": "editorial-localization",
+      "location": "PT-BR heading 'Juros altos e tecnologia resistente formam uma divergência cross-asset real'",
+      "issue": "The heading retains raw English 'cross-asset' despite a natural Portuguese formulation being available, violating the publication localization gate."
+    },
+    {
+      "type": "source-methodology",
+      "location": "Sources section, both language editions",
+      "issue": "The edition describes its references as 'Primary and first-line references' / equivalent, but most market, energy, metals and fund-flow claims are sourced through Reuters/LSEG reporting rather than opened primary market/official sources. The factual claims checked are broadly corroborated, but the source characterization overstates primary-source coverage."
+    }
+  ],
+  "required_fixes": [
+    "Replace 'breadth' in the PT-BR table with natural Brazilian Portuguese such as 'amplitude do mercado' or equivalent, preserving the analytical meaning.",
+    "Replace the PT-BR heading's 'cross-asset' with a natural Portuguese formulation such as 'entre classes de ativos'. Review the full PT-BR edition for comparable untranslated analytical jargon.",
+    "Rewrite the Sources section so Reuters/LSEG-derived market observations are identified accurately as first-line reporting/data, and distinguish any official/primary sources actually opened. Do not label the source set broadly as primary unless the corresponding primary sources were directly used.",
+    "Preserve all validated numbers, dates, causal qualifications, scenarios and conclusions unless a factual revalidation is explicitly performed; this rejection is primarily editorial/methodological rather than a finding that the central market figures are false."
+  ],
+  "evidence": [
+    "Reuters 2026-09-18 corroborates Brent $104.87/bbl and WTI $100.30/bbl and the Saudi/Hormuz disruption context.",
+    "Reuters 2026-09-18 corroborates BOJ 1.25%, 7-2 vote and subsequent yen weakness.",
+    "Reuters/LSEG Lipper 2026-09-18 corroborates global equity fund outflow $23.21bn, U.S. outflow $31.44bn, Asian inflow $6.26bn and commodity-fund inflow $1.17bn.",
+    "Reuters 2026-09-18 corroborates spot gold about $4,390/oz and silver $66.70/oz.",
+    "Reuters 2026-09-18 corroborates S&P 500 +0.17%, Nasdaq +0.40%, Dow -0.18% and U.S. 10-year yield above/around 5%."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "factual_core": "passed-with-source-qualification",
+    "taxonomy": "passed",
+    "translation_semantic_equivalence": "failed-publication-localization",
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Opening is direct and thesis-led; analytical headings are generally informative; repetition and cohesion are acceptable. Blocking defects are PT-BR localization ('breadth', 'cross-asset') and overstated characterization of the source set as primary. No prompt/QA meta-text is exposed in the body."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report connects energy logistics, monetary policy, capital flows, regional import exposure and fiscal transmission where material rather than adding ornamental context."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "visual_signature": ["market-signal table", "weekly fund-flow bar chart", "Gulf transmission map", "cross-asset transmission flow"],
+      "summary": "Visuals are analytical rather than decorative, units are explicit, the fund-flow chart explicitly warns that categories are not additive, and EN/PT-BR visual structures are semantically aligned.",
+      "limitations": ["The Gulf map is a mechanism/relationship map rather than a geospatial capacity map and should not be read as quantified physical throughput."]
+    }
+  },
+  "contrary_evidence": [
+    "U.S. equities, especially technology, remained resilient despite tighter policy and Treasury yields around 5%, so restrictive sovereign yields do not imply uniformly restrictive financing conditions for large listed firms.",
+    "Asian equity funds received net inflows while global and U.S. equity funds saw outflows, limiting any claim of uniform global risk aversion."
+  ],
+  "limitations": [
+    "Several market and logistics observations rely on Reuters reporting and LSEG-derived flow data rather than independently opened exchange/official primary datasets.",
+    "Saudi alternative export-route scale and realized East-West/Sohar substitution remain uncertain; workaround existence is better established than durable replacement capacity."
+  ]
+}
