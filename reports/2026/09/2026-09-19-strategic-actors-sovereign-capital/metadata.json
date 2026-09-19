@@ -1,0 +1,134 @@
+{
+  "id": "MT-SA-2026-09-19-sovereign-capital",
+  "slug": "2026-09-19-strategic-actors-sovereign-capital",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T04:25:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 29,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "multi-country",
+    "regions": [
+      "middle-east",
+      "asia-pacific",
+      "europe"
+    ],
+    "subregions": [
+      "gulf",
+      "southeast-asia",
+      "northern-europe"
+    ],
+    "countries": [
+      {
+        "code": "SA",
+        "slug": "saudi-arabia"
+      },
+      {
+        "code": "AE",
+        "slug": "united-arab-emirates"
+      },
+      {
+        "code": "SG",
+        "slug": "singapore"
+      },
+      {
+        "code": "NO",
+        "slug": "norway"
+      }
+    ]
+  },
+  "topics": [
+    "capital-markets",
+    "trade-investment",
+    "institutions-governance",
+    "industry-production",
+    "infrastructure-logistics",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "assessment_confidence": "high-on-governance-and-reported-scale-medium-on-economy-wide-additionality",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Sovereign capital is not one model: four ways public wealth transmits into markets and productive capacity",
+      "deck": "PIF, Mubadala, Temasek and Norway's GPFG deploy public wealth through different mandates and governance structures; portfolio size alone does not explain their structural effects.",
+      "tags": [
+        "Strategic Actors",
+        "Sovereign Capital",
+        "PIF",
+        "Mubadala",
+        "Temasek",
+        "GPFG"
+      ],
+      "keywords": [
+        "sovereign wealth funds",
+        "public investment funds",
+        "industrial policy",
+        "state ownership",
+        "governance",
+        "PIF",
+        "Mubadala",
+        "Temasek",
+        "NBIM"
+      ],
+      "regime": "Sovereign capital is expanding through distinct governance models that transmit public wealth into global markets and, in some cases, domestic productive capacity.",
+      "key_risk": "Treating all sovereign investors as direct instruments of state policy obscures governance differences and can overstate geopolitical intent.",
+      "watch": [
+        "PIF domestic project economics and private co-investment",
+        "Mubadala sector concentration and UAE capability formation",
+        "Temasek ownership and governance changes",
+        "GPFG mandate and asset-allocation changes",
+        "growth of unlisted infrastructure and private-market exposure"
+      ],
+      "search_text": "sovereign capital strategic actors PIF Mubadala Temasek GPFG NBIM state ownership industrial policy governance public investment productive capacity"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Capital soberano não é um único modelo: quatro formas pelas quais riqueza pública se transmite para mercados e capacidade produtiva",
+      "deck": "PIF, Mubadala, Temasek e o GPFG norueguês mobilizam riqueza pública por mandatos e estruturas de governança diferentes; tamanho do portfólio, por si só, não explica seus efeitos estruturais.",
+      "tags": [
+        "Atores Estratégicos",
+        "Capital Soberano",
+        "PIF",
+        "Mubadala",
+        "Temasek",
+        "GPFG"
+      ],
+      "keywords": [
+        "fundos soberanos",
+        "fundos públicos de investimento",
+        "política industrial",
+        "propriedade estatal",
+        "governança",
+        "PIF",
+        "Mubadala",
+        "Temasek",
+        "NBIM"
+      ],
+      "regime": "Capital soberano se expande por modelos distintos de governança que transmitem riqueza pública para mercados globais e, em alguns casos, para capacidade produtiva doméstica.",
+      "key_risk": "Tratar todos os investidores soberanos como instrumentos diretos de política estatal oculta diferenças de governança e pode exagerar intenção geopolítica.",
+      "watch": [
+        "economia dos projetos domésticos do PIF e coinvestimento privado",
+        "concentração setorial da Mubadala e formação de capacidade nos EAU",
+        "mudanças de propriedade e governança da Temasek",
+        "mudanças de mandato e alocação do GPFG",
+        "crescimento de infraestrutura não listada e exposição a mercados privados"
+      ],
+      "search_text": "capital soberano atores estratégicos PIF Mubadala Temasek GPFG NBIM propriedade estatal política industrial governança investimento público capacidade produtiva"
+    }
+  }
+}
