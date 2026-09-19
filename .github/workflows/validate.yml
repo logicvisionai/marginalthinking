@@ -33,6 +33,9 @@ jobs:
       - name: Validate and build
         run: npm run build
 
+      - name: Verify research visual semantics
+        run: node --test tests/research-visuals.test.mjs
+
       - name: Verify generated site
         run: |
           test -f dist/index.html

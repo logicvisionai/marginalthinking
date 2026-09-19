@@ -201,6 +201,26 @@ Better:
 
 Titles and headings should describe the finding, not advertise it. Avoid slogans such as `The control price`, `The regime funnel`, `Power shift`, or `The bottleneck economy` unless the phrase has a precise, defined analytical meaning.
 
+## Interface titles and institutional copy / Títulos de interface
+
+Use descriptive titles for pages, sections and tools. Research findings may need explanatory sentences; navigation labels need recognizable names. Buttons name an action. Avoid promotional imperatives, paired slogans, rhetorical questions and promises of depth.
+
+Preferred PT-BR / EN names:
+
+| Function | PT-BR | EN |
+| --- | --- | --- |
+| Recent work | Publicações recentes | Recent publications |
+| Research programs | Linhas de pesquisa | Research programs |
+| Tool collection | Ferramentas de pesquisa | Research tools |
+| Topic access | Temas e países | Topics and countries |
+| Personal collection | Caderno de pesquisa | Research workspace |
+| Method | Método e fontes | Methods and sources |
+| Report context | Contexto | Context |
+
+Retire phrases such as “Entender o presente. Investigar o que muda.”, “Profundidade exige contexto”, “Conecte mecanismos”, “Comece por uma pergunta” and their literal English versions. State what a resource contains and what its controls do. Implementation terms such as build, canonical ID, append-only and controlled taxonomy belong in technical documentation, not general reading flows. Storage and export limitations remain visible where they affect the reader's decisions.
+
+Institutional copy is edited in `data/institutional-copy.json` and `data/institutional-positioning.json`; `data/i18n.json` is their build output. Product copy belongs in its source renderer or client component, never as an additional HTML replacement pass. Keep dataset keys, canonical publication titles and substantive claims intact when revising interface terminology.
+
 Prefer headings such as:
 
 - `How the energy shock is affecting financing conditions`;

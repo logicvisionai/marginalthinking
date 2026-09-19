@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {collectReports,availableLocales,reportView} from './lib/reports.mjs';
 import {visualIssues,visualSignature,visualPolicyApplies} from './lib/visuals.mjs';
+import {visualNumber} from './lib/research-visuals.mjs';
 
 const root=process.cwd(),fail=[],warn=[];
 const read=p=>fs.readFileSync(path.join(root,p),'utf8');
@@ -25,12 +26,16 @@ function validateCustomBlocks(lines,file){
     const type=m[1],body=[];i++;while(i<lines.length&&!/^```\s*$/.test(lines[i].trim()))body.push(lines[i++]);
     if(type==='chart'){
       const rows=body.filter(x=>x.includes('|'));
-      if(rows.length<2)warn.push(`${file}: chart com menos de duas linhas; renderer fará fallback seguro`);
+      if(!rows.length)fail.push(`${file}: chart sem dados`);
+      for(const row of body.filter(x=>x.trim()&&!/^(title|unit|type)\s*:/i.test(x.trim()))){
+        const cells=row.split('|').map(x=>x.trim());
+        if(cells.length!==2||!cells[0]||visualNumber(cells[1])===null)fail.push(`${file}: chart exige rótulo e número explícito, sem intervalos ou prosa: ${row}`);
+      }
       const chartType=body.find(x=>/^type\s*:/i.test(x.trim()))?.split(':').slice(1).join(':').trim();
-      if(chartType&&!['bar','line'].includes(chartType.toLowerCase()))warn.push(`${file}: chart type '${chartType}' não reconhecido; será tratado como bar`);
+      if(chartType&&!['bar','line'].includes(chartType.toLowerCase()))fail.push(`${file}: chart type '${chartType}' não reconhecido`);
     }
     if(type==='flow'&&(body.join(' ').match(/(?:→|->)/g)||[]).length<1)warn.push(`${file}: flow sem seta; renderer fará fallback seguro`);
-    if(type==='map'&&body.filter(x=>x.includes('|')).length<1)warn.push(`${file}: map sem regiões estruturadas`);
+    if(type==='map'&&!body.some(x=>x.includes('|')||/(?:→|->)/.test(x)))warn.push(`${file}: map sem comparação regional ou rota; conteúdo preservado como notas`);
   }
 }
 function scanMarkdown(file){

@@ -77,6 +77,7 @@ node scripts/validate-seo.mjs
 # geography navigation and client-side archive rendering must honor the selected locale.
 node scripts/validate-localized-output.mjs
 node scripts/validate-research-product.mjs
+node scripts/validate-visual-output.mjs
 
 # Analytics is optional and never blocks publishing research.
 if [[ -n "${PROD_GA_MEASUREMENT_ID:-}" ]]; then

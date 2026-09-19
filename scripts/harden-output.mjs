@@ -15,6 +15,10 @@ function injectStyles(html){
   for(const href of styles){
     if(!out.includes(`href="${href}"`))out=out.replace('</head>',`<link rel="stylesheet" href="${href}"></head>`);
   }
+  if(out.includes('data-research-visual=')){
+    if(!out.includes('href="/assets/css/research-visuals.css"'))out=out.replace('</head>','<link rel="stylesheet" href="/assets/css/research-visuals.css"></head>');
+    if(!out.includes('src="/assets/js/research-visuals.js"'))out=out.replace('</body>','<script type="module" src="/assets/js/research-visuals.js"></script></body>');
+  }
   return out;
 }
 function normalizeNativeListMarkers(html){

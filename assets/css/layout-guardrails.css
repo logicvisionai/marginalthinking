@@ -2,11 +2,8 @@
 .site-header{overflow:visible}
 .container,.archive-item,.archive-item>*,.research-card,.research-card>*,.footer,.footer *,.report-layout,.report-main,.report-content,.report-content *,.report-side,.panel,.meta-card,.author-signature,.citation-box,.citation-box>*,.citation-actions,.related-research,.related-card,.footnotes,.footnotes *{min-width:0;max-width:100%}
 .archive-item p,.archive-item a,.research-card p,.research-card a,.footer a,.report-content p,.report-content li,.report-content a,.report-content h2,.report-content h3,.report-content h4,.footnotes li,.footnotes a,.citation-box p,.citation-box a,.panel p,.panel a,.related-card p,.related-card a,.meta-card .value{overflow-wrap:anywhere;word-break:break-word}
-.report-content pre,.code-block,.text-diagram-pre{max-width:100%;overflow-x:auto;overscroll-behavior-inline:contain;-webkit-overflow-scrolling:touch}
-.md-table-wrap{width:100%;max-width:100%;min-width:0;overflow-x:auto;overscroll-behavior-inline:contain;-webkit-overflow-scrolling:touch}
-.research-chart,.mindmap,.geo-map,.flow-diagram,.dependency-map,.text-diagram{width:100%;max-width:100%;min-width:0;overflow:hidden}
-.chart-row,.chart-track,.chart-label,.chart-value,.chart-xlabels,.mindmap-grid,.mind-branch,.geo-map-board,.geo-card,.flow-item,.flow-node,.dependency-stages,.dependency-stage,.dependency-links,.dependency-rel,.dependency-notes{min-width:0;max-width:100%}
-.chart-label,.chart-xlabels>div,.mind-branch,.geo-card,.flow-node strong,.dependency-stage,.dependency-rel span,.dependency-rel strong,.dependency-notes span{overflow-wrap:anywhere;word-break:break-word}
+.report-content pre,.code-block{max-width:100%;overflow-x:auto;overscroll-behavior-inline:contain;-webkit-overflow-scrolling:touch}
+
 .citation-actions{display:flex;align-items:center;justify-content:flex-end;gap:12px;flex-wrap:wrap}
 .citation-actions .text-link,.copy-citation{max-width:100%}
 .language-switch,.language-switch a,.mobile-language{min-width:0;max-width:100%}
@@ -31,20 +28,20 @@
 
 @media(max-width:560px){
   .report-content{padding-inline:0!important}
-  .research-chart,.mindmap,.geo-map,.flow-diagram,.dependency-map,.text-diagram{padding:14px;margin-left:0;margin-right:0}
-  .chart-row{grid-template-columns:1fr!important;gap:7px}
-  .chart-value{text-align:left!important}
-  .chart-xlabels{grid-auto-flow:row!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;text-align:left!important}
-  .flow-item{flex-basis:100%!important;width:100%}
-  .flow-arrow{display:none!important}
-  .dependency-rel{grid-template-columns:1fr!important;gap:7px!important}
-  .dependency-rel b{transform:rotate(90deg);justify-self:start}
-  .geo-map-board{grid-template-columns:1fr!important;grid-template-areas:none!important}
-  .geo-card{grid-area:auto!important}
+
+
+
+
+
+
+
+
+
+
   .citation-box{margin-left:0!important;margin-right:0!important}
   .related-research{margin-left:0!important;margin-right:0!important}
   .author-signature{margin-left:0!important;margin-right:0!important}
-  .text-diagram-pre{font-size:10.5px;line-height:1.55}
+
 }
 
 @media(max-width:360px){

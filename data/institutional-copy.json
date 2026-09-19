@@ -10,9 +10,21 @@
       "all": "View archive",
       "programs": "Research programs",
       "program_items": [
-        {"label": "01", "title": "Global Macro", "text": "How interest rates, currencies, credit, commodities and equity markets interact, and how policy changes are transmitted across them."},
-        {"label": "02", "title": "Wealth & Power", "text": "Where financial assets, reserves, sovereign capital, energy resources and industrial capacity are concentrated, and how that distribution changes over time."},
-        {"label": "03", "title": "Political Economy", "text": "How institutions, fiscal and industrial policy, conflict and technology change incentives, income distribution and the capacity of states and firms to act."}
+        {
+          "label": "01",
+          "title": "Global Macro",
+          "text": "How interest rates, currencies, credit, commodities and equity markets interact, and how policy changes are transmitted across them."
+        },
+        {
+          "label": "02",
+          "title": "Wealth & Power",
+          "text": "Where financial assets, reserves, sovereign capital, energy resources and industrial capacity are concentrated, and how that distribution changes over time."
+        },
+        {
+          "label": "03",
+          "title": "Political Economy",
+          "text": "How institutions, fiscal and industrial policy, conflict and technology change incentives, income distribution and the capacity of states and firms to act."
+        }
       ],
       "standard_title": "How we handle evidence and uncertainty.",
       "standard_text": "We separate observed evidence from interpretation and scenarios. We identify sources, material limitations and confidence when they affect the conclusion, and we revise assessments when new evidence warrants a change."
@@ -26,7 +38,7 @@
       "all_formats": "All formats",
       "count_one": "research item",
       "count_many": "research items",
-      "read": "Read HTML",
+      "read": "Read research",
       "legacy": "Portuguese edition"
     },
     "method": {
@@ -34,16 +46,76 @@
       "title": "Research method",
       "deck": "How we define questions, select evidence, test explanations, handle uncertainty and revise conclusions.",
       "sections": [
-        {"title": "Define the question before collecting evidence", "paragraphs": ["Each research item begins with a specific question, a time horizon and a defined set of actors or variables. This prevents the analysis from expanding until almost any evidence can be made to fit the argument.", "We also identify what would count against the initial explanation. Evidence that weakens the working hypothesis is part of the analysis, not something to be removed from it."]},
-        {"title": "Use primary evidence where it matters most", "paragraphs": ["For quantitative claims and official actions, we prefer the original source when it is available: statistical agencies, central banks, governments, regulators, company filings, legislation, multilateral institutions and directly published datasets.", "Academic work, specialist institutions and high-quality reporting are used for context, interpretation and developments not yet covered by primary data. Every source has limits, including revisions, definitions, incentives and gaps in coverage."]},
-        {"title": "Trace repeated claims back to their source", "paragraphs": ["Several publications repeating the same statement do not constitute several independent confirmations. Where possible, we identify the original dataset, document, interview or official statement behind a claim.", "When credible sources disagree, we describe the disagreement and examine whether it comes from different definitions, time periods, methods or genuinely conflicting evidence."]},
-        {"title": "Separate evidence, interpretation and scenario", "paragraphs": ["Observed evidence is information that can be checked directly against a source. An inference is our interpretation of what that evidence implies. A scenario describes what could happen if stated conditions are met.", "These categories can appear in the same report, but they are not interchangeable. A plausible interpretation is not a fact, and a scenario is not a forecast merely because it is internally coherent."]},
-        {"title": "Explain the mechanism, not just the correlation", "paragraphs": ["When two variables move together, the analysis asks what connects them and what other explanation could produce the same result. If the mechanism cannot be established, the conclusion should be stated more cautiously.", "In political and geopolitical research, stated objectives are considered separately from the resources required to achieve them. Fiscal capacity, industrial output, logistics, institutions, military capability, technology, alliances and domestic politics can all constrain action."]},
-        {"title": "Keep stocks, flows and valuation separate", "paragraphs": ["A stock describes a position at a given time: reserves, debt outstanding, installed capacity or assets under management. A flow describes change during a period: investment, issuance, repayment, trade or purchases and sales.", "Price and exchange-rate changes can increase the reported value of an asset without any new money changing hands. We therefore separate changes in quantity or ownership from valuation whenever the data allow."]},
-        {"title": "Follow consequences beyond the first effect", "paragraphs": ["The initial effect of an event rarely ends the analysis. Sanctions can alter payment systems, sourcing and investment; war can affect energy prices, public spending and industrial capacity; demographic change can alter labor supply, savings and pension costs.", "We follow these links when there is evidence for them and stop when the next step would depend mainly on speculation."]},
-        {"title": "Use scenarios to make assumptions visible", "paragraphs": ["Scenarios are useful when important variables remain unresolved. Each scenario should state the assumptions or events required for it to become more plausible.", "Where possible, reports identify observable indicators that would support or weaken each path. This makes later revision easier and reduces the temptation to treat one narrative as inevitable."]},
-        {"title": "State uncertainty where it changes the conclusion", "paragraphs": ["Confidence refers to the quality, consistency and completeness of the evidence supporting an assessment. It is not a measure of how strongly the author feels about the argument.", "High confidence is appropriate when several relevant sources point in the same direction and major alternatives are weak. Lower confidence is appropriate when data are incomplete, definitions conflict or the conclusion depends heavily on assumptions."]},
-        {"title": "Revise when the evidence changes", "paragraphs": ["Reports are tied to the information available at a stated date. Later releases, statistical revisions or new events can change the assessment.", "When a material correction or revision changes the argument, the updated publication should make that change visible rather than silently preserving the earlier conclusion."]}
+        {
+          "title": "Questions and scope",
+          "paragraphs": [
+            "Each research item begins with a specific question, a time horizon and a defined set of actors or variables. This prevents the analysis from expanding until almost any evidence can be made to fit the argument.",
+            "We also identify what would count against the initial explanation. Evidence that weakens the working hypothesis is part of the analysis, not something to be removed from it."
+          ]
+        },
+        {
+          "title": "Source selection",
+          "paragraphs": [
+            "For quantitative claims and official actions, we prefer the original source when it is available: statistical agencies, central banks, governments, regulators, company filings, legislation, multilateral institutions and directly published datasets.",
+            "Academic work, specialist institutions and high-quality reporting are used for context, interpretation and developments not yet covered by primary data. Every source has limits, including revisions, definitions, incentives and gaps in coverage."
+          ]
+        },
+        {
+          "title": "Verification",
+          "paragraphs": [
+            "Several publications repeating the same statement do not constitute several independent confirmations. Where possible, we identify the original dataset, document, interview or official statement behind a claim.",
+            "When credible sources disagree, we describe the disagreement and examine whether it comes from different definitions, time periods, methods or genuinely conflicting evidence."
+          ]
+        },
+        {
+          "title": "Evidence, inference and scenarios",
+          "paragraphs": [
+            "Observed evidence is information that can be checked directly against a source. An inference is our interpretation of what that evidence implies. A scenario describes what could happen if stated conditions are met.",
+            "These categories can appear in the same report, but they are not interchangeable. A plausible interpretation is not a fact, and a scenario is not a forecast merely because it is internally coherent."
+          ]
+        },
+        {
+          "title": "Mechanisms and causality",
+          "paragraphs": [
+            "When two variables move together, the analysis asks what connects them and what other explanation could produce the same result. If the mechanism cannot be established, the conclusion should be stated more cautiously.",
+            "In political and geopolitical research, stated objectives are considered separately from the resources required to achieve them. Fiscal capacity, industrial output, logistics, institutions, military capability, technology, alliances and domestic politics can all constrain action."
+          ]
+        },
+        {
+          "title": "Stocks, flows and valuation",
+          "paragraphs": [
+            "A stock describes a position at a given time: reserves, debt outstanding, installed capacity or assets under management. A flow describes change during a period: investment, issuance, repayment, trade or purchases and sales.",
+            "Price and exchange-rate changes can increase the reported value of an asset without any new money changing hands. We therefore separate changes in quantity or ownership from valuation whenever the data allow."
+          ]
+        },
+        {
+          "title": "Indirect effects",
+          "paragraphs": [
+            "The initial effect of an event rarely ends the analysis. Sanctions can alter payment systems, sourcing and investment; war can affect energy prices, public spending and industrial capacity; demographic change can alter labor supply, savings and pension costs.",
+            "We follow these links when there is evidence for them and stop when the next step would depend mainly on speculation."
+          ]
+        },
+        {
+          "title": "Scenario analysis",
+          "paragraphs": [
+            "Scenarios are useful when important variables remain unresolved. Each scenario should state the assumptions or events required for it to become more plausible.",
+            "Where possible, reports identify observable indicators that would support or weaken each path. This makes later revision easier and reduces the temptation to treat one narrative as inevitable."
+          ]
+        },
+        {
+          "title": "Uncertainty and confidence",
+          "paragraphs": [
+            "Confidence refers to the quality, consistency and completeness of the evidence supporting an assessment. It is not a measure of how strongly the author feels about the argument.",
+            "High confidence is appropriate when several relevant sources point in the same direction and major alternatives are weak. Lower confidence is appropriate when data are incomplete, definitions conflict or the conclusion depends heavily on assumptions."
+          ]
+        },
+        {
+          "title": "Revisions and corrections",
+          "paragraphs": [
+            "Reports are tied to the information available at a stated date. Later releases, statistical revisions or new events can change the assessment.",
+            "When a material correction or revision changes the argument, the updated publication should make that change visible rather than silently preserving the earlier conclusion."
+          ]
+        }
       ]
     },
     "about": {
@@ -51,17 +123,61 @@
       "title": "Marginal Thinking",
       "deck": "Independent research on macroeconomics, markets, political economy and geopolitics.",
       "sections": [
-        {"title": "What Marginal Thinking studies", "text": "Marginal Thinking examines changes that affect the allocation of capital, productive capacity, access to energy and strategic resources, and the room available to governments, firms and investors. The focus is not the volume of daily news, but changes that can alter economic incentives, financing conditions, production, trade or political choices."},
-        {"title": "Why the name", "text": "In economics, a marginal change is the effect of one additional unit or a small change in a constraint, price or incentive. The name reflects an interest in direction as well as level: not only where capital, production or resources are concentrated, but what is changing at the margin and whether that change is large enough to alter the broader system."},
-        {"title": "What we cover", "text": "Research covers macroeconomics, monetary and fiscal policy, currencies, credit, debt, financial markets, trade and commodities. It also examines sovereign reserves and funds, energy, critical minerals, industrial capacity, infrastructure, technology, demographics and political institutions when those factors affect economic outcomes or the choices available to states and firms."},
-        {"title": "Why the subjects are connected", "text": "Economic and political questions often cross disciplinary boundaries. A central-bank decision can change exchange rates, government financing and asset prices. An energy disruption can affect trade balances, inflation, fiscal policy and industrial production. A territorial dispute can matter because of shipping routes, production capacity, alliances or access to resources. The analysis follows those connections only where the evidence supports them."},
-        {"title": "What an assessment means", "text": "Marginal Thinking does not treat an analytical judgment as a fact. Reports distinguish observed evidence from interpretation and, when useful, from conditional scenarios. Conclusions are stated as strongly as the available evidence permits, and no more strongly than that."},
-        {"title": "Who the research is for", "text": "The publications are written for readers who need more than a summary of the news: investors, business leaders, researchers, policy professionals, market participants and others who want to understand the economic and political mechanisms behind current events. Technical detail is included when it improves the analysis, not to make the prose appear more sophisticated."},
-        {"title": "What the archive is for", "text": "The archive is intended to make assessments comparable over time. Past reports remain useful because they show what information was available, what conclusions were drawn from it and which later evidence confirmed, weakened or overturned those conclusions."}
+        {
+          "title": "What Marginal Thinking studies",
+          "text": "Marginal Thinking examines changes that affect the allocation of capital, productive capacity, access to energy and strategic resources, and the room available to governments, firms and investors. The focus is not the volume of daily news, but changes that can alter economic incentives, financing conditions, production, trade or political choices."
+        },
+        {
+          "title": "Why the name",
+          "text": "In economics, a marginal change is the effect of one additional unit or a small change in a constraint, price or incentive. The name reflects an interest in direction as well as level: not only where capital, production or resources are concentrated, but what is changing at the margin and whether that change is large enough to alter the broader system."
+        },
+        {
+          "title": "What we cover",
+          "text": "Research covers macroeconomics, monetary and fiscal policy, currencies, credit, debt, financial markets, trade and commodities. It also examines sovereign reserves and funds, energy, critical minerals, industrial capacity, infrastructure, technology, demographics and political institutions when those factors affect economic outcomes or the choices available to states and firms."
+        },
+        {
+          "title": "Why the subjects are connected",
+          "text": "Economic and political questions often cross disciplinary boundaries. A central-bank decision can change exchange rates, government financing and asset prices. An energy disruption can affect trade balances, inflation, fiscal policy and industrial production. A territorial dispute can matter because of shipping routes, production capacity, alliances or access to resources. The analysis follows those connections only where the evidence supports them."
+        },
+        {
+          "title": "What an assessment means",
+          "text": "Marginal Thinking does not treat an analytical judgment as a fact. Reports distinguish observed evidence from interpretation and, when useful, from conditional scenarios. Conclusions are stated as strongly as the available evidence permits, and no more strongly than that."
+        },
+        {
+          "title": "Who the research is for",
+          "text": "The publications are written for readers who need more than a summary of the news: investors, business leaders, researchers, policy professionals, market participants and others who want to understand the economic and political mechanisms behind current events. Technical detail is included when it improves the analysis, not to make the prose appear more sophisticated."
+        },
+        {
+          "title": "What the archive is for",
+          "text": "The archive is intended to make assessments comparable over time. Past reports remain useful because they show what information was available, what conclusions were drawn from it and which later evidence confirmed, weakened or overturned those conclusions."
+        }
       ]
     },
-    "report": {"in_this": "In this research", "regime": "Regime", "risk": "Key risk", "watch": "Key indicators", "authorship": "Authorship", "cite": "How to cite", "related": "Related research", "archive": "Full archive", "publication": "Publication", "author": "Author", "canonical": "HTML edition · source Markdown", "source": "Markdown source", "updated": "Updated", "research": "Research", "translation_missing": "A translation is not available for this research.", "read_translation": "Read available edition", "copy_citation": "Copy citation", "copied": "Copied"},
-    "author": {"eyebrow": "AUTHOR", "description": "Author of Marginal Thinking research on macroeconomics, markets, political economy and geopolitics.", "publications": "Publications"}
+    "report": {
+      "in_this": "In this research",
+      "regime": "Context",
+      "risk": "Key risk",
+      "watch": "Key indicators",
+      "authorship": "Authorship",
+      "cite": "How to cite",
+      "related": "Related research",
+      "archive": "Full archive",
+      "publication": "Publication",
+      "author": "Author",
+      "canonical": "English edition",
+      "source": "Markdown source",
+      "updated": "Updated",
+      "research": "Research",
+      "translation_missing": "A translation is not available for this research.",
+      "read_translation": "Read available edition",
+      "copy_citation": "Copy citation",
+      "copied": "Copied"
+    },
+    "author": {
+      "eyebrow": "AUTHOR",
+      "description": "Author of Marginal Thinking research on macroeconomics, markets, political economy and geopolitics.",
+      "publications": "Publications"
+    }
   },
   "pt-BR": {
     "site_description": "Pesquisa independente sobre macroeconomia, mercados, economia política e geopolítica.",
@@ -74,29 +190,112 @@
       "all": "Ver arquivo",
       "programs": "Linhas de pesquisa",
       "program_items": [
-        {"label": "01", "title": "Global Macro", "text": "Como juros, moedas, crédito, commodities e bolsas interagem e como mudanças de política econômica se propagam entre esses mercados."},
-        {"label": "02", "title": "Wealth & Power", "text": "Onde se concentram ativos financeiros, reservas, capital soberano, recursos energéticos e capacidade industrial, e como essa distribuição muda ao longo do tempo."},
-        {"label": "03", "title": "Economia política", "text": "Como instituições, política fiscal e industrial, conflitos e tecnologia alteram incentivos, distribuição de renda e capacidade de ação de Estados e empresas."}
+        {
+          "label": "01",
+          "title": "Global Macro",
+          "text": "Como juros, moedas, crédito, commodities e bolsas interagem e como mudanças de política econômica se propagam entre esses mercados."
+        },
+        {
+          "label": "02",
+          "title": "Wealth & Power",
+          "text": "Onde se concentram ativos financeiros, reservas, capital soberano, recursos energéticos e capacidade industrial, e como essa distribuição muda ao longo do tempo."
+        },
+        {
+          "label": "03",
+          "title": "Economia política",
+          "text": "Como instituições, política fiscal e industrial, conflitos e tecnologia alteram incentivos, distribuição de renda e capacidade de ação de Estados e empresas."
+        }
       ],
       "standard_title": "Como tratamos evidência e incerteza.",
       "standard_text": "Separamos evidências observadas de interpretação e cenários. Indicamos fontes, limitações relevantes e nível de confiança quando isso afeta a conclusão, e revisamos avaliações quando novas evidências justificam a mudança."
     },
-    "archive": {"eyebrow": "BIBLIOTECA DE PESQUISA", "title": "Arquivo de pesquisa", "deck": "Publicações do Marginal Thinking organizadas por data, tema e formato para leitura, comparação e citação.", "search": "Buscar pesquisas", "all_years": "Todos os anos", "all_formats": "Todos os formatos", "count_one": "pesquisa", "count_many": "pesquisas", "read": "Ler HTML", "legacy": "Edição em português"},
+    "archive": {
+      "eyebrow": "BIBLIOTECA DE PESQUISA",
+      "title": "Arquivo de pesquisa",
+      "deck": "Publicações do Marginal Thinking organizadas por data, tema e formato para leitura, comparação e citação.",
+      "search": "Buscar pesquisas",
+      "all_years": "Todos os anos",
+      "all_formats": "Todos os formatos",
+      "count_one": "pesquisa",
+      "count_many": "pesquisas",
+      "read": "Ler pesquisa",
+      "legacy": "Edição em português"
+    },
     "method": {
       "eyebrow": "MÉTODO",
       "title": "Método de pesquisa",
       "deck": "Como definimos perguntas, selecionamos evidências, testamos explicações, tratamos incerteza e revisamos conclusões.",
       "sections": [
-        {"title": "Definir a pergunta antes de reunir evidências", "paragraphs": ["Cada pesquisa começa com uma pergunta específica, um horizonte de tempo e um conjunto definido de atores ou variáveis. Isso evita que a análise se expanda até que quase qualquer evidência possa ser encaixada no argumento.", "Também identificamos o que contaria contra a explicação inicial. Evidências que enfraquecem a hipótese de trabalho fazem parte da análise e não devem ser descartadas."]},
-        {"title": "Usar fontes primárias onde elas são mais importantes", "paragraphs": ["Para números e atos oficiais, damos preferência à fonte original quando ela está disponível: institutos estatísticos, bancos centrais, governos, reguladores, demonstrações e comunicados de empresas, legislação, organismos multilaterais e bases publicadas diretamente.", "Pesquisa acadêmica, instituições especializadas e imprensa de qualidade são usadas para contexto, interpretação e fatos ainda não cobertos por dados primários. Toda fonte tem limitações, como revisões, definições, incentivos e lacunas de cobertura."]},
-        {"title": "Rastrear afirmações repetidas até a fonte original", "paragraphs": ["Várias publicações repetindo a mesma informação não constituem várias confirmações independentes. Sempre que possível, buscamos o dado, documento, entrevista ou declaração oficial que originou a afirmação.", "Quando fontes confiáveis divergem, descrevemos a divergência e verificamos se ela decorre de definições, períodos, métodos diferentes ou de evidências realmente conflitantes."]},
-        {"title": "Separar evidência, interpretação e cenário", "paragraphs": ["Evidência observada é informação que pode ser conferida diretamente em uma fonte. Inferência é a interpretação do que essa evidência implica. Cenário descreve o que pode acontecer se determinadas condições se confirmarem.", "Essas categorias podem aparecer no mesmo relatório, mas não são equivalentes. Uma interpretação plausível não é um fato, e um cenário não se torna previsão apenas por ser coerente."]},
-        {"title": "Explicar o mecanismo, não apenas a correlação", "paragraphs": ["Quando duas variáveis se movem juntas, buscamos explicar o que as conecta e quais outras causas poderiam produzir o mesmo resultado. Se o mecanismo não puder ser estabelecido, a conclusão deve ser formulada com mais cautela.", "Em política e geopolítica, objetivos declarados são avaliados separadamente dos recursos necessários para alcançá-los. Capacidade fiscal, produção industrial, logística, instituições, capacidade militar, tecnologia, alianças e política doméstica podem limitar a ação."]},
-        {"title": "Separar estoques, fluxos e valorização", "paragraphs": ["Estoque descreve uma posição em determinado momento: reservas, dívida acumulada, capacidade instalada ou ativos sob gestão. Fluxo descreve mudança ao longo de um período: investimento, emissão, amortização, comércio, compras e vendas.", "Mudanças de preço e câmbio podem aumentar o valor registrado de um ativo sem que tenha ocorrido novo investimento ou transferência de propriedade. Por isso, separamos quantidade e propriedade de valorização sempre que os dados permitem."]},
-        {"title": "Acompanhar consequências além do primeiro efeito", "paragraphs": ["O primeiro efeito de um acontecimento raramente encerra a análise. Sanções podem alterar sistemas de pagamento, fornecedores e investimento; uma guerra pode afetar preços de energia, gasto público e capacidade industrial; mudanças demográficas podem alterar oferta de trabalho, poupança e custos previdenciários.", "Acompanhamos essas relações quando há evidência para sustentá-las e interrompemos a cadeia quando o passo seguinte depender principalmente de especulação."]},
-        {"title": "Usar cenários para tornar as hipóteses visíveis", "paragraphs": ["Cenários são úteis quando variáveis importantes ainda não foram resolvidas. Cada cenário deve indicar quais hipóteses ou acontecimentos precisariam ocorrer para que ele se tornasse mais plausível.", "Sempre que possível, indicamos sinais observáveis que fortaleceriam ou enfraqueceriam cada trajetória. Isso facilita revisões posteriores e reduz a tentação de tratar uma narrativa como inevitável."]},
-        {"title": "Indicar incerteza quando ela altera a conclusão", "paragraphs": ["O nível de confiança se refere à qualidade, consistência e completude das evidências que sustentam uma avaliação. Não mede o grau de convicção pessoal do autor.", "Alta confiança é adequada quando várias fontes relevantes apontam na mesma direção e as principais explicações alternativas são fracas. A confiança deve ser menor quando faltam dados, as definições entram em conflito ou a conclusão depende fortemente de hipóteses."]},
-        {"title": "Revisar quando a evidência muda", "paragraphs": ["Cada relatório está ligado às informações disponíveis em uma data determinada. Novas divulgações, revisões estatísticas ou acontecimentos posteriores podem mudar a avaliação.", "Quando uma correção ou nova evidência altera materialmente o argumento, a versão atualizada deve tornar essa mudança visível em vez de preservar silenciosamente a conclusão anterior."]}
+        {
+          "title": "Perguntas e escopo",
+          "paragraphs": [
+            "Cada pesquisa começa com uma pergunta específica, um horizonte de tempo e um conjunto definido de atores ou variáveis. Isso evita que a análise se expanda até que quase qualquer evidência possa ser encaixada no argumento.",
+            "Também identificamos o que contaria contra a explicação inicial. Evidências que enfraquecem a hipótese de trabalho fazem parte da análise e não devem ser descartadas."
+          ]
+        },
+        {
+          "title": "Seleção de fontes",
+          "paragraphs": [
+            "Para números e atos oficiais, damos preferência à fonte original quando ela está disponível: institutos estatísticos, bancos centrais, governos, reguladores, demonstrações e comunicados de empresas, legislação, organismos multilaterais e bases publicadas diretamente.",
+            "Pesquisa acadêmica, instituições especializadas e imprensa de qualidade são usadas para contexto, interpretação e fatos ainda não cobertos por dados primários. Toda fonte tem limitações, como revisões, definições, incentivos e lacunas de cobertura."
+          ]
+        },
+        {
+          "title": "Verificação de informações",
+          "paragraphs": [
+            "Várias publicações repetindo a mesma informação não constituem várias confirmações independentes. Sempre que possível, buscamos o dado, documento, entrevista ou declaração oficial que originou a afirmação.",
+            "Quando fontes confiáveis divergem, descrevemos a divergência e verificamos se ela decorre de definições, períodos, métodos diferentes ou de evidências realmente conflitantes."
+          ]
+        },
+        {
+          "title": "Evidência, inferência e cenários",
+          "paragraphs": [
+            "Evidência observada é informação que pode ser conferida diretamente em uma fonte. Inferência é a interpretação do que essa evidência implica. Cenário descreve o que pode acontecer se determinadas condições se confirmarem.",
+            "Essas categorias podem aparecer no mesmo relatório, mas não são equivalentes. Uma interpretação plausível não é um fato, e um cenário não se torna previsão apenas por ser coerente."
+          ]
+        },
+        {
+          "title": "Mecanismos e causalidade",
+          "paragraphs": [
+            "Quando duas variáveis se movem juntas, buscamos explicar o que as conecta e quais outras causas poderiam produzir o mesmo resultado. Se o mecanismo não puder ser estabelecido, a conclusão deve ser formulada com mais cautela.",
+            "Em política e geopolítica, objetivos declarados são avaliados separadamente dos recursos necessários para alcançá-los. Capacidade fiscal, produção industrial, logística, instituições, capacidade militar, tecnologia, alianças e política doméstica podem limitar a ação."
+          ]
+        },
+        {
+          "title": "Estoques, fluxos e valorização",
+          "paragraphs": [
+            "Estoque descreve uma posição em determinado momento: reservas, dívida acumulada, capacidade instalada ou ativos sob gestão. Fluxo descreve mudança ao longo de um período: investimento, emissão, amortização, comércio, compras e vendas.",
+            "Mudanças de preço e câmbio podem aumentar o valor registrado de um ativo sem que tenha ocorrido novo investimento ou transferência de propriedade. Por isso, separamos quantidade e propriedade de valorização sempre que os dados permitem."
+          ]
+        },
+        {
+          "title": "Efeitos indiretos",
+          "paragraphs": [
+            "O primeiro efeito de um acontecimento raramente encerra a análise. Sanções podem alterar sistemas de pagamento, fornecedores e investimento; uma guerra pode afetar preços de energia, gasto público e capacidade industrial; mudanças demográficas podem alterar oferta de trabalho, poupança e custos previdenciários.",
+            "Acompanhamos essas relações quando há evidência para sustentá-las e interrompemos a cadeia quando o passo seguinte depender principalmente de especulação."
+          ]
+        },
+        {
+          "title": "Construção de cenários",
+          "paragraphs": [
+            "Cenários são úteis quando variáveis importantes ainda não foram resolvidas. Cada cenário deve indicar quais hipóteses ou acontecimentos precisariam ocorrer para que ele se tornasse mais plausível.",
+            "Sempre que possível, indicamos sinais observáveis que fortaleceriam ou enfraqueceriam cada trajetória. Isso facilita revisões posteriores e reduz a tentação de tratar uma narrativa como inevitável."
+          ]
+        },
+        {
+          "title": "Incerteza e confiança",
+          "paragraphs": [
+            "O nível de confiança se refere à qualidade, consistência e completude das evidências que sustentam uma avaliação. Não mede o grau de convicção pessoal do autor.",
+            "Alta confiança é adequada quando várias fontes relevantes apontam na mesma direção e as principais explicações alternativas são fracas. A confiança deve ser menor quando faltam dados, as definições entram em conflito ou a conclusão depende fortemente de hipóteses."
+          ]
+        },
+        {
+          "title": "Revisões e correções",
+          "paragraphs": [
+            "Cada relatório está ligado às informações disponíveis em uma data determinada. Novas divulgações, revisões estatísticas ou acontecimentos posteriores podem mudar a avaliação.",
+            "Quando uma correção ou nova evidência altera materialmente o argumento, a versão atualizada deve tornar essa mudança visível em vez de preservar silenciosamente a conclusão anterior."
+          ]
+        }
       ]
     },
     "about": {
@@ -104,16 +303,60 @@
       "title": "Marginal Thinking",
       "deck": "Pesquisa independente sobre macroeconomia, mercados, economia política e geopolítica.",
       "sections": [
-        {"title": "O que o Marginal Thinking estuda", "text": "O Marginal Thinking analisa mudanças que afetam a alocação de capital, a capacidade produtiva, o acesso a energia e recursos estratégicos e o espaço de ação de governos, empresas e investidores. O foco não é o volume diário de notícias, mas mudanças capazes de alterar incentivos econômicos, condições de financiamento, produção, comércio ou decisões políticas."},
-        {"title": "Por que o nome Marginal Thinking", "text": "Em economia, uma mudança marginal é o efeito de uma unidade adicional ou de uma pequena alteração em uma restrição, preço ou incentivo. O nome reflete o interesse não apenas pelo nível, mas também pela direção: onde capital, produção e recursos estão concentrados, o que está mudando na margem e se essa mudança é grande o bastante para alterar o sistema mais amplo."},
-        {"title": "O que analisamos", "text": "As pesquisas abrangem macroeconomia, política monetária e fiscal, moedas, crédito, dívida, mercados financeiros, comércio e commodities. Também examinamos reservas e fundos soberanos, energia, minerais críticos, capacidade industrial, infraestrutura, tecnologia, demografia e instituições políticas quando esses fatores afetam resultados econômicos ou as escolhas disponíveis a Estados e empresas."},
-        {"title": "Por que esses temas aparecem juntos", "text": "Questões econômicas e políticas frequentemente atravessam várias áreas. Uma decisão de banco central pode alterar câmbio, financiamento público e preços de ativos. Uma interrupção de energia pode afetar balança comercial, inflação, política fiscal e produção industrial. Uma disputa territorial pode importar por causa de rotas marítimas, capacidade produtiva, alianças ou acesso a recursos. A análise acompanha essas conexões apenas quando há evidência para sustentá-las."},
-        {"title": "O que significa uma avaliação", "text": "O Marginal Thinking não trata julgamento analítico como fato. Os relatórios distinguem evidência observada de interpretação e, quando útil, de cenários condicionais. As conclusões são apresentadas com a força que a evidência disponível permite, e não além dela."},
-        {"title": "Para quem escrevemos", "text": "As publicações são destinadas a leitores que precisam de algo além de um resumo das notícias: investidores, empresários, pesquisadores, profissionais de políticas públicas, participantes de mercado e outros interessados nos mecanismos econômicos e políticos por trás dos acontecimentos. O detalhe técnico aparece quando melhora a análise, não para tornar o texto artificialmente sofisticado."},
-        {"title": "Para que serve o arquivo", "text": "O arquivo permite comparar avaliações ao longo do tempo. Relatórios anteriores continuam úteis porque registram quais informações estavam disponíveis, quais conclusões foram tiradas e quais evidências posteriores confirmaram, enfraqueceram ou derrubaram essas conclusões."}
+        {
+          "title": "O que o Marginal Thinking estuda",
+          "text": "O Marginal Thinking analisa mudanças que afetam a alocação de capital, a capacidade produtiva, o acesso a energia e recursos estratégicos e o espaço de ação de governos, empresas e investidores. O foco não é o volume diário de notícias, mas mudanças capazes de alterar incentivos econômicos, condições de financiamento, produção, comércio ou decisões políticas."
+        },
+        {
+          "title": "Por que o nome Marginal Thinking",
+          "text": "Em economia, uma mudança marginal é o efeito de uma unidade adicional ou de uma pequena alteração em uma restrição, preço ou incentivo. O nome reflete o interesse não apenas pelo nível, mas também pela direção: onde capital, produção e recursos estão concentrados, o que está mudando na margem e se essa mudança é grande o bastante para alterar o sistema mais amplo."
+        },
+        {
+          "title": "O que analisamos",
+          "text": "As pesquisas abrangem macroeconomia, política monetária e fiscal, moedas, crédito, dívida, mercados financeiros, comércio e commodities. Também examinamos reservas e fundos soberanos, energia, minerais críticos, capacidade industrial, infraestrutura, tecnologia, demografia e instituições políticas quando esses fatores afetam resultados econômicos ou as escolhas disponíveis a Estados e empresas."
+        },
+        {
+          "title": "Por que esses temas aparecem juntos",
+          "text": "Questões econômicas e políticas frequentemente atravessam várias áreas. Uma decisão de banco central pode alterar câmbio, financiamento público e preços de ativos. Uma interrupção de energia pode afetar balança comercial, inflação, política fiscal e produção industrial. Uma disputa territorial pode importar por causa de rotas marítimas, capacidade produtiva, alianças ou acesso a recursos. A análise acompanha essas conexões apenas quando há evidência para sustentá-las."
+        },
+        {
+          "title": "O que significa uma avaliação",
+          "text": "O Marginal Thinking não trata julgamento analítico como fato. Os relatórios distinguem evidência observada de interpretação e, quando útil, de cenários condicionais. As conclusões são apresentadas com a força que a evidência disponível permite, e não além dela."
+        },
+        {
+          "title": "Para quem escrevemos",
+          "text": "As publicações são destinadas a leitores que precisam de algo além de um resumo das notícias: investidores, empresários, pesquisadores, profissionais de políticas públicas, participantes de mercado e outros interessados nos mecanismos econômicos e políticos por trás dos acontecimentos. O detalhe técnico aparece quando melhora a análise, não para tornar o texto artificialmente sofisticado."
+        },
+        {
+          "title": "Para que serve o arquivo",
+          "text": "O arquivo permite comparar avaliações ao longo do tempo. Relatórios anteriores continuam úteis porque registram quais informações estavam disponíveis, quais conclusões foram tiradas e quais evidências posteriores confirmaram, enfraqueceram ou derrubaram essas conclusões."
+        }
       ]
     },
-    "report": {"in_this": "Nesta pesquisa", "regime": "Regime", "risk": "Risco principal", "watch": "Indicadores principais", "authorship": "Autoria", "cite": "Como citar", "related": "Pesquisas relacionadas", "archive": "Arquivo completo", "publication": "Publicação", "author": "Autor", "canonical": "Edição HTML · fonte em Markdown", "source": "Fonte Markdown", "updated": "Atualizado", "research": "Pesquisa", "translation_missing": "Não há tradução disponível para esta pesquisa.", "read_translation": "Ler edição disponível", "copy_citation": "Copiar citação", "copied": "Copiado"},
-    "author": {"eyebrow": "AUTOR", "description": "Autor das pesquisas do Marginal Thinking sobre macroeconomia, mercados, economia política e geopolítica.", "publications": "Publicações"}
+    "report": {
+      "in_this": "Nesta pesquisa",
+      "regime": "Contexto",
+      "risk": "Risco principal",
+      "watch": "Indicadores principais",
+      "authorship": "Autoria",
+      "cite": "Como citar",
+      "related": "Pesquisas relacionadas",
+      "archive": "Arquivo completo",
+      "publication": "Publicação",
+      "author": "Autor",
+      "canonical": "Edição em português",
+      "source": "Fonte Markdown",
+      "updated": "Atualizado",
+      "research": "Pesquisa",
+      "translation_missing": "Não há tradução disponível para esta pesquisa.",
+      "read_translation": "Ler edição disponível",
+      "copy_citation": "Copiar citação",
+      "copied": "Copiado"
+    },
+    "author": {
+      "eyebrow": "AUTOR",
+      "description": "Autor das pesquisas do Marginal Thinking sobre macroeconomia, mercados, economia política e geopolítica.",
+      "publications": "Publicações"
+    }
   }
 }
