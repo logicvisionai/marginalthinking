@@ -66,6 +66,7 @@ jobs:
           grep -q 'data-actor-cell' dist/actors/index.html
           grep -q 'actor-inspector' dist/pt-br/actors/index.html
           grep -q 'marginal-thinking-locale' dist/assets/js/app.js
+          node -e 'const fs=require("fs");const s=fs.readFileSync("dist/assets/js/app.js","utf8");if(/for\\s*\\([^)]*\\bof\\s+\\$\\([^)]*\\)\\)/.test(s)){console.error("Non-iterable querySelector used in for...of");process.exit(1)}'
           test -f dist/assets/og/marginal-thinking-en.png
           test -f dist/assets/og/marginal-thinking-pt-br.png
           test -f dist/series/energy-materials-industrial-systems/index.html

@@ -19,7 +19,7 @@ function initLocalePreference(){
     if(target.pathname===location.pathname&&target.search===location.search&&target.hash===location.hash)return false;
     save(value);location.replace(target.href);return true;
   };
-  for(const link of $('a[data-locale]'))link.addEventListener('click',()=>save(link.dataset.locale));
+  for(const link of $$('a[data-locale]'))link.addEventListener('click',()=>save(link.dataset.locale));
   let saved=null;try{saved=localStorage.getItem(key);}catch{}if(!valid(saved))saved=cookie();if(!valid(saved))saved=null;
   if(saved){if(saved!==current&&go(saved))return;save(saved);return;}
   const explicitPt=location.pathname.toLowerCase().startsWith('/pt-br/');
