@@ -1,0 +1,28 @@
+{
+  "id": "MT-GM-2026-09-19",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T00:07:38-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
+  "topics": ["macroeconomics","monetary-policy","capital-markets","sovereign-debt","currencies","energy","commodities-resources","geopolitics-security"],
+  "phenomena": ["war-armed-conflict","defense-security"],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "f6d324ba49077881104d075f76fbaf2d4f79fa14",
+  "qa_fixes_applied": ["Localized PT-BR market-language defects by replacing raw breadth/cross-asset jargon with natural Portuguese.","Rewrote EN and PT-BR source methodology to distinguish directly consulted official monetary-policy sources from Reuters/LSEG first-line reporting and reported market/flow data.","Preserved validated market levels, dates, visual evidence, causal qualifications, scenarios and conclusions."],
+  "qa_reviewed_at": "2026-09-19T00:14:11-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "c1bb3dabf4b1e1fdc674c5ccedd3e8efe67a314a",
+  "locales": {
+    "en": {"markdown":"en.md","title":"Global Macro — September 19, 2026","deck":"Lower oil is easing the immediate inflation shock, but near-5% Treasury yields, synchronized central-bank tightening and large equity-fund outflows keep global financial conditions restrictive.","tags":["global-macro","markets","monetary-policy","energy","cross-asset"],"keywords":["Federal Reserve","Bank of Japan","Treasuries","oil","gold","fund flows","Brazil","Gulf logistics"],"regime":"Restrictive financing conditions with partial energy-shock relief and selective risk-asset resilience.","key_risk":"Markets may price energy normalization before Gulf transport capacity and route security are durably restored.","watch":["Saudi East-West pipeline realized throughput and Sohar loadings","Brent around $100–105/bbl","U.S. 10-year Treasury around 5%","U.S. equity breadth and fund flows","yen after BOJ dissent","gold versus real yields"],"search_text":"Global macro September 19 2026 oil Fed BOJ Treasury yields equity fund outflows gold Gulf logistics Brazil cross-asset."},
+    "pt-BR": {"markdown":"pt-BR.md","title":"Global Macro — 19 de setembro de 2026","deck":"A queda do petróleo reduz o choque inflacionário imediato, mas Treasuries perto de 5%, aperto sincronizado dos bancos centrais e fortes retiradas de fundos de ações mantêm as condições financeiras globais restritivas.","tags":["global-macro","mercados","politica-monetaria","energia","classes-de-ativos"],"keywords":["Federal Reserve","Banco do Japão","Treasuries","petróleo","ouro","fluxos de fundos","Brasil","logística do Golfo"],"regime":"Condições de financiamento restritivas, com alívio parcial do choque energético e resistência seletiva dos ativos de risco.","key_risk":"O mercado pode precificar normalização energética antes que a capacidade de transporte e a segurança das rotas do Golfo estejam restauradas de forma duradoura.","watch":["Vazão efetiva do East-West e carregamentos em Sohar","Brent na região de US$ 100–105/barril","Treasury de 10 anos em torno de 5%","amplitude e fluxos das ações dos EUA","iene após dissidência no BOJ","ouro versus juros reais"],"search_text":"Global macro 19 setembro 2026 petróleo Fed BOJ Treasuries fluxos fundos ações ouro logística Golfo Brasil classes de ativos."}
+  }
+}
