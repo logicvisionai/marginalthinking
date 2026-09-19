@@ -197,7 +197,9 @@ button,input,select{font:inherit}
 .mobile-menu nav{display:grid;max-width:720px;margin:0 auto}
 .mobile-menu nav>a,.mobile-menu .mobile-nav-section>a{position:relative;display:flex;align-items:center;justify-content:space-between;gap:18px;padding:14px 0;border-bottom:1px solid var(--line);font:500 21px/1.22 var(--serif)}
 .mobile-menu nav a:after{content:"";width:6px;height:6px;flex:0 0 auto;border-top:1px solid currentColor;border-right:1px solid currentColor;color:#84929a;transform:rotate(45deg);margin-right:4px}
-.mobile-menu .mobile-language{padding-top:22px}
+.mobile-menu-toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:0 0 18px;margin-bottom:3px;border-bottom:1px solid var(--line)}
+.mobile-menu-toolbar>span{color:var(--muted);font:700 9px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase}
+.mobile-menu .mobile-language{padding:0}
 .mobile-menu .mobile-language .language-switch{width:max-content}
 
 html[data-theme="dark"] .nav-trigger{color:#dce6ea}
