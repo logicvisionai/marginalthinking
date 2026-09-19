@@ -8,6 +8,10 @@
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "f6d324ba49077881104d075f76fbaf2d4f79fa14",
+  "qa_fixes_applied": ["Localized PT-BR market-language defects by replacing raw breadth/cross-asset jargon with natural Portuguese.", "Rewrote EN and PT-BR source methodology to distinguish directly consulted official monetary-policy sources from Reuters/LSEG first-line reporting and reported market/flow data.", "Preserved validated market levels, dates, visual evidence, causal qualifications, scenarios and conclusions."],
   "sources": {
     "en": {
       "markdown": "staging/research/2026/09/2026-09-19-global-macro/en.md",
@@ -24,12 +28,12 @@
       "markdown": "staging/research/2026/09/2026-09-19-global-macro/pt-BR.md",
       "title": "Global Macro — 19 de setembro de 2026",
       "deck": "A queda do petróleo reduz o choque inflacionário imediato, mas Treasuries perto de 5%, aperto sincronizado dos bancos centrais e fortes retiradas de fundos de ações mantêm as condições financeiras globais restritivas.",
-      "tags": ["global-macro", "mercados", "politica-monetaria", "energia", "cross-asset"],
+      "tags": ["global-macro", "mercados", "politica-monetaria", "energia", "classes-de-ativos"],
       "keywords": ["Federal Reserve", "Banco do Japão", "Treasuries", "petróleo", "ouro", "fluxos de fundos", "Brasil", "logística do Golfo"],
       "regime": "Condições de financiamento restritivas, com alívio parcial do choque energético e resistência seletiva dos ativos de risco.",
       "key_risk": "O mercado pode precificar normalização energética antes que a capacidade de transporte e a segurança das rotas do Golfo estejam restauradas de forma duradoura.",
       "watch": ["Vazão efetiva do East-West e carregamentos em Sohar", "Brent na região de US$ 100–105/barril", "Treasury de 10 anos em torno de 5%", "amplitude e fluxos das ações dos EUA", "iene após dissidência no BOJ", "ouro versus juros reais"],
-      "search_text": "Global macro 19 setembro 2026 petróleo Fed BOJ Treasuries fluxos fundos ações ouro logística Golfo Brasil cross-asset."
+      "search_text": "Global macro 19 setembro 2026 petróleo Fed BOJ Treasuries fluxos fundos ações ouro logística Golfo Brasil classes de ativos."
     }
   },
   "taxonomy_version": "1.0",
