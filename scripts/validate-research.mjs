@@ -11,6 +11,29 @@ const localPath=url=>String(url||'').replace(/^\//,'').split('?')[0];
 const walk=dir=>!exists(dir)?[]:fs.readdirSync(path.join(root,dir),{withFileTypes:true}).flatMap(e=>{const p=path.posix.join(dir,e.name);return e.isDirectory()?walk(p):[p];});
 const stripFences=text=>text.replace(/^```[^\n]*\n[\s\S]*?^```\s*$/gm,'');
 
+
+function validateEditorialIntegrity(text,file){
+  const prose=stripFences(text).replace(/https?:\/\/[^\s)\]]+/g,' ');
+  const blockers=[
+    ['metalinguagem de ferramenta',/\b(?:a|esta|essa)\s+ferramenta(?:\s+p[uú]blica)?\s+(?:usa|registra|mostra|permite|conecta|come[cç]a)\b/i],
+    ['product meta-language',/\b(?:the|this)\s+(?:public\s+)?(?:tool|platform)\s+(?:uses|records|shows|allows|connects|begins)\b/i],
+    ['metalinguagem de sistema',/\b(?:o\s+sistema|the\s+system)\s+(?:come[cç]a\s+a\s+responder|begins\s+to\s+answer)\b/i],
+    ['versão de produto dentro da análise',/\b(?:nesta|nessa|in\s+this|for\s+this)\s+(?:primeira\s+|first\s+)?(?:vers[aã]o|version|release)\b/i],
+    ['seção de implementação dentro da análise',/^##\s+(?:Implica[cç][aã]o|Implica[cç][oõ]es|Implication|Implications)\s+(?:para|for)\s+(?:o|a|the)?\s*(?:mapa|matriz|ferramenta|rede|sistema|map|matrix|tool|network|system)\b/im],
+    ['roadmap editorial dentro da pesquisa',/^##\s+(?:O que deve entrar em seguida|What should enter next)\b/im],
+    ['instrução de manutenção do produto',/\b(?:Atores Estrat[eé]gicos|Strategic Actors)\s+(?:deve\s+ser\s+atualizado|should\s+be\s+updated)\b/i]
+  ];
+  for(const [label,re] of blockers){
+    const m=prose.match(re);
+    if(m)fail.push(file+': '+label+'; pesquisa publicada deve analisar o objeto, não descrever como construir ou operar o produto (trecho: "'+m[0]+'")');
+  }
+  const selfRefs=(prose.match(/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|article|report|analysis|assessment)\b/gi)||[]).length;
+  if(selfRefs>3)warn.push(file+': excesso de autorreferência editorial ('+selfRefs+'); prefira afirmar a evidência e o mecanismo diretamente');
+  const ptTransitions=(prose.match(/\b(?:portanto|porém|nesse sentido|em outras palavras|a distin[cç][aã]o importa)\b/gi)||[]).length;
+  const enTransitions=(prose.match(/\b(?:therefore|however|in other words|the distinction matters)\b/gi)||[]).length;
+  if(ptTransitions>10||enTransitions>10)warn.push(file+': conectores discursivos repetitivos; revisar fluidez e evitar prosa formulaica');
+}
+
 function validateTables(lines,file){
   for(let i=0;i<lines.length-1;i++){
     if(!lines[i].includes('|'))continue;
@@ -49,6 +72,7 @@ function scanMarkdown(file){
   if(/^\s*\d+[.)]\s+\d+[.)]\s+/m.test(prose))warn.push(`${file}: marcador numérico duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/^\s*[-+*•]\s+[-+*•]\s+/m.test(prose))warn.push(`${file}: marcador de lista duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(text))fail.push(`${file}: referência binária proibida`);
+  validateEditorialIntegrity(text,file);
   validateTables(lines,file);validateCustomBlocks(lines,file);
 }
 
