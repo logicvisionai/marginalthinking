@@ -7,7 +7,7 @@
 
 Large pools of wealth matter, but wealth alone does not explain structural power. An asset manager can direct client capital without owning it. A commodity trader can sit inside a physical supply chain without owning most of the resources it moves. A technology company can have a much smaller balance sheet than a global fund and still occupy a difficult-to-replace position in a production system. A government can regulate access to that technology without operating the company that produces it.
 
-The analytical problem is therefore not to compile a list of rich institutions. It is to identify **which actors can change the constraints under which other actors operate, through which documented mechanism, for how long, and with what substitutes available**.
+A useful comparison must move beyond balance-sheet size and separate **capability, dependency and transmission**: which actors can narrow or expand others' options, through which documented mechanism, for how long, and with what alternatives available.
 
 BlackRock, Norges Bank Investment Management / Government Pension Fund Global, Trafigura, Glencore and ASML illustrate five distinct forms of structural capacity. The comparison is heterogeneous by necessity: assets under management, shareholder rights, physical intermediation, productive control and technological dependence do not measure the same thing and should not be compressed into a single ranking.
 
@@ -17,7 +17,7 @@ BlackRock, Norges Bank Investment Management / Government Pension Fund Global, T
 
 BlackRock reported **US$15.3 trillion in assets under management** at June 30, 2026, after US$868 billion of net inflows over the previous twelve months. That number describes the scale of assets managed for clients. It does not mean BlackRock owns US$15.3 trillion of securities for its own economic account. [BlackRock — Q2 2026 results](https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-second-quarter-2026)
 
-The distinction matters because BlackRock does have a corporate-governance transmission channel, but it is a different one. BlackRock Investment Stewardship states that it votes at shareholder meetings **for clients who have authorized it to vote on their behalf** and engages with boards and management to inform those voting decisions. BlackRock also states that more than 90% of its clients' public-equity AUM was invested in index equity strategies at June 30, 2026. [BlackRock Investment Stewardship](https://www.blackrock.com/corporate/insights/thought-leadership/investment-stewardship)
+BlackRock's corporate-governance channel rests on delegated authority rather than economic ownership of the assets it manages. BlackRock Investment Stewardship states that it votes at shareholder meetings **for clients who have authorized it to vote on their behalf** and engages with boards and management to inform those voting decisions. BlackRock also states that more than 90% of its clients' public-equity AUM was invested in index equity strategies at June 30, 2026. [BlackRock Investment Stewardship](https://www.blackrock.com/corporate/insights/thought-leadership/investment-stewardship)
 
 The defensible chain is therefore:
 
@@ -63,13 +63,13 @@ The mechanism is therefore closer to:
 Owned or controlled mines and industrial assets → physical production → marketing and trading network → processors and end users → prices, inventories and industrial availability
 ```
 
-Again, the last stages depend on market conditions and competing suppliers. Production control is stronger than pure intermediation, but it is still not equivalent to control of the entire commodity market.
+Effects on prices, inventories and availability remain conditioned by competition, demand and alternative suppliers. Production control creates a more direct position than pure intermediation without amounting to control of the global commodity market.
 
 ## Technological dependence changes the meaning of scale
 
 ASML illustrates why financial size can be the wrong starting point. In 2025, the company reported €32.7 billion of net sales, €4.7 billion of R&D and 535 systems sold, including 48 extreme-ultraviolet lithography systems and 279 deep-ultraviolet systems. [ASML 2025 Annual Report](https://www.asml.com/en/investors/annual-report/2025)
 
-The important question is not whether those figures are larger or smaller than a sovereign fund's portfolio. The question is whether downstream production can substitute the capability.
+For ASML, the decisive variable is substitutability: how much time, capital and know-how would chipmakers need to reproduce or bypass the capability the company supplies.
 
 The Dutch government explicitly subjects categories of advanced semiconductor manufacturing equipment, including lithography equipment, to national export authorization requirements. In January 2025 it expanded those controls and stated that the Netherlands has a unique role in semiconductor manufacturing technology; licensing remains a case-by-case government decision rather than an export ban. [Government of the Netherlands — advanced semiconductor equipment export controls](https://www.government.nl/latest/news/2025/01/15/klever-export-controls-on-advanced-semiconductor-manufacturing-equipment-to-be-tightened)
 
