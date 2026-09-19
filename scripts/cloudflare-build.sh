@@ -11,6 +11,7 @@ node scripts/apply-institutional-copy.mjs
 # Public assets and canonical research only. Staging and QA records are never deployed.
 cp -R assets dist/
 cp -R reports dist/
+cp _headers dist/_headers
 find dist/reports -type f -name '*.html' -delete
 mkdir -p dist/data
 cp data/taxonomy.json dist/data/taxonomy.json
