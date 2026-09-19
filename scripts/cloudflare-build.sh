@@ -29,6 +29,9 @@ node scripts/render-structural-opportunities.mjs
 # Validate and render the cumulative dependency network from canonical research-linked relationships.
 node scripts/validate-global-dependencies.mjs
 node scripts/render-global-dependencies.mjs
+# Validate and render the Strategic Actors structural-power layer from published research.
+node scripts/validate-strategic-actors.mjs
+node scripts/render-strategic-actors.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs

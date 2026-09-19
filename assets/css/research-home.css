@@ -51,7 +51,7 @@ html[data-theme="dark"] .product-home{--home-accent:#77d9ed;--home-surface:#101a
 .editorial-card .reading-time{font-size:11px;color:var(--muted)}
 .editorial-card .research-save{margin-left:auto}
 .home-tools{padding:34px 0 38px;background:var(--home-soft);border-block:1px solid var(--home-border)}
-.home-tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.home-tools-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
 .home-tool{display:flex;flex-direction:column;background:var(--home-surface);border:1px solid var(--home-border);padding:22px;transition:border-color .15s,transform .15s}
 .home-tool:hover{border-color:var(--home-accent);transform:translateY(-2px)}
 .tool-topline{display:flex;justify-content:space-between;align-items:center;font-size:9px;letter-spacing:.12em;color:var(--muted)}
@@ -74,6 +74,12 @@ html[data-theme="dark"] .product-home{--home-accent:#77d9ed;--home-surface:#101a
 .tool-matrix>div:nth-child(even){border-left-color:#1687a0}
 .tool-matrix strong{font:400 27px var(--serif)}
 .tool-matrix span{font-size:10px;line-height:1.35}
+
+.actors-tool{background:linear-gradient(145deg,var(--home-surface),color-mix(in srgb,var(--home-soft) 65%,var(--home-surface)))}
+.tool-actors-preview{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;margin-top:18px;height:150px}
+.tool-actors-preview>div{display:flex;align-items:center;gap:10px;padding:11px;border:1px solid var(--home-border);border-left:2px solid var(--home-accent);background:var(--home-surface)}
+.tool-actors-preview strong{font:400 28px/1 var(--serif);min-width:24px}
+.tool-actors-preview span{font-size:10px;line-height:1.35;color:var(--muted)}
 .tool-notebook{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:18px;height:150px;align-content:center;border-block:1px solid var(--home-border);background:repeating-linear-gradient(0deg,transparent,transparent 29px,var(--home-soft) 30px)}
 .tool-notebook span{font:500 10px/1.4 var(--sans);align-self:end}
 .tool-notebook i{height:4px;background:var(--home-border);width:85%;margin-block:7px}

@@ -1,0 +1,554 @@
+{
+  "schema_version": 1,
+  "name": "Strategic Actors & Structural Power",
+  "updated_at": "2026-09-19",
+  "description": {
+    "en": "A documented map of actors whose capital, ownership rights, physical flows, productive assets or technology can alter the constraints under which firms, states and societies operate.",
+    "pt-BR": "Mapa documentado de atores cujo capital, direitos de propriedade, fluxos físicos, ativos produtivos ou tecnologia podem alterar as restrições sob as quais empresas, Estados e sociedades operam."
+  },
+  "actor_classes": {
+    "asset-manager": {
+      "en": "Asset manager",
+      "pt-BR": "Gestora de ativos"
+    },
+    "sovereign-fund": {
+      "en": "Sovereign fund",
+      "pt-BR": "Fundo soberano"
+    },
+    "state-investment-company": {
+      "en": "State-owned investment company",
+      "pt-BR": "Companhia estatal de investimentos"
+    },
+    "commodity-trader": {
+      "en": "Commodity trader",
+      "pt-BR": "Trading de commodities"
+    },
+    "integrated-producer-trader": {
+      "en": "Integrated producer & trader",
+      "pt-BR": "Produtor e trader integrado"
+    },
+    "technology-supplier": {
+      "en": "Critical technology supplier",
+      "pt-BR": "Fornecedor de tecnologia crítica"
+    }
+  },
+  "channels": {
+    "capital-allocation": {
+      "en": "Capital allocation",
+      "pt-BR": "Alocação de capital"
+    },
+    "ownership-governance": {
+      "en": "Ownership & governance",
+      "pt-BR": "Propriedade e governança"
+    },
+    "sovereign-development": {
+      "en": "Sovereign development",
+      "pt-BR": "Desenvolvimento soberano"
+    },
+    "physical-trade": {
+      "en": "Physical trade",
+      "pt-BR": "Comércio físico"
+    },
+    "resource-production": {
+      "en": "Resource production",
+      "pt-BR": "Produção de recursos"
+    },
+    "infrastructure-logistics": {
+      "en": "Infrastructure & logistics",
+      "pt-BR": "Infraestrutura e logística"
+    },
+    "technology-chokepoint": {
+      "en": "Technology chokepoint",
+      "pt-BR": "Gargalo tecnológico"
+    }
+  },
+  "targets": [
+    {
+      "id": "global-public-markets",
+      "category": "market",
+      "label": {
+        "en": "Global public markets",
+        "pt-BR": "Mercados públicos globais"
+      }
+    },
+    {
+      "id": "corporate-governance",
+      "category": "institution",
+      "label": {
+        "en": "Corporate governance",
+        "pt-BR": "Governança corporativa"
+      }
+    },
+    {
+      "id": "national-industrial-capacity",
+      "category": "capacity",
+      "label": {
+        "en": "National industrial capacity",
+        "pt-BR": "Capacidade industrial nacional"
+      }
+    },
+    {
+      "id": "global-energy-flows",
+      "category": "flow",
+      "label": {
+        "en": "Global energy flows",
+        "pt-BR": "Fluxos globais de energia"
+      }
+    },
+    {
+      "id": "critical-minerals-metals",
+      "category": "resource",
+      "label": {
+        "en": "Critical minerals & metals",
+        "pt-BR": "Minerais e metais críticos"
+      }
+    },
+    {
+      "id": "advanced-semiconductor-production",
+      "category": "technology",
+      "label": {
+        "en": "Advanced semiconductor production",
+        "pt-BR": "Produção avançada de semicondutores"
+      }
+    },
+    {
+      "id": "commodity-logistics",
+      "category": "infrastructure",
+      "label": {
+        "en": "Commodity logistics",
+        "pt-BR": "Logística de commodities"
+      }
+    }
+  ],
+  "actors": [
+    {
+      "id": "blackrock",
+      "legal_name": "BlackRock, Inc.",
+      "class": "asset-manager",
+      "jurisdiction": "United States",
+      "label": {
+        "en": "BlackRock",
+        "pt-BR": "BlackRock"
+      },
+      "description": {
+        "en": "Global asset manager and financial-technology provider. Its structural capacity comes primarily from delegated capital allocation and voting authority exercised for clients, not from ownership of the assets under management.",
+        "pt-BR": "Gestora global de ativos e provedora de tecnologia financeira. Sua capacidade estrutural decorre principalmente da alocação de capital e da autoridade de voto delegadas por clientes, e não da propriedade dos ativos sob gestão."
+      },
+      "scale": {
+        "en": "US$15.3tn AUM at 30 Jun 2026",
+        "pt-BR": "US$ 15,3 tri em AUM em 30 jun 2026"
+      },
+      "limits": {
+        "en": "AUM is client capital; voting authority varies by mandate and client authorization. Large scale does not establish unilateral corporate control.",
+        "pt-BR": "AUM é capital de clientes; a autoridade de voto varia conforme mandato e autorização. Escala elevada não demonstra controle corporativo unilateral."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ]
+    },
+    {
+      "id": "nbim-gpfg",
+      "legal_name": "Norges Bank Investment Management / Government Pension Fund Global",
+      "class": "sovereign-fund",
+      "jurisdiction": "Norway",
+      "label": {
+        "en": "NBIM / GPFG",
+        "pt-BR": "NBIM / GPFG"
+      },
+      "description": {
+        "en": "Operational manager of Norway's Government Pension Fund Global under a mandate set through Norway's public governance structure, with broad global equity and fixed-income ownership.",
+        "pt-BR": "Gestor operacional do Government Pension Fund Global da Noruega sob mandato definido pela estrutura pública de governança do país, com ampla propriedade global de ações e renda fixa."
+      },
+      "scale": {
+        "en": "NOK21.268tn fund value at end-2025",
+        "pt-BR": "NOK 21,268 tri de valor do fundo no fim de 2025"
+      },
+      "limits": {
+        "en": "Operational investment management is delegated to Norges Bank/NBIM within a public mandate; broad minority holdings should not be treated as direct control of portfolio companies.",
+        "pt-BR": "A gestão operacional é delegada ao Norges Bank/NBIM dentro de um mandato público; participações minoritárias amplas não devem ser tratadas como controle direto das empresas investidas."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power",
+        "MT-SA-2026-09-19-sovereign-capital"
+      ]
+    },
+    {
+      "id": "pif",
+      "legal_name": "Public Investment Fund",
+      "class": "sovereign-fund",
+      "jurisdiction": "Saudi Arabia",
+      "label": {
+        "en": "Public Investment Fund (PIF)",
+        "pt-BR": "Public Investment Fund (PIF)"
+      },
+      "description": {
+        "en": "Saudi sovereign investor with an explicit mandate combining financial returns with domestic economic transformation and large-scale project investment.",
+        "pt-BR": "Investidor soberano saudita com mandato explícito que combina retornos financeiros com transformação econômica doméstica e investimento em projetos de grande escala."
+      },
+      "scale": {
+        "en": "More than US$900bn AUM in 2025",
+        "pt-BR": "Mais de US$ 900 bi em AUM em 2025"
+      },
+      "limits": {
+        "en": "The mandate is broad, but individual project outcomes, additionality and economy-wide transmission must be assessed separately.",
+        "pt-BR": "O mandato é amplo, mas resultados de projetos individuais, adicionalidade e transmissão para toda a economia precisam ser avaliados separadamente."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-sovereign-capital"
+      ]
+    },
+    {
+      "id": "mubadala",
+      "legal_name": "Mubadala Investment Company PJSC",
+      "class": "sovereign-fund",
+      "jurisdiction": "United Arab Emirates",
+      "label": {
+        "en": "Mubadala",
+        "pt-BR": "Mubadala"
+      },
+      "description": {
+        "en": "Abu Dhabi sovereign investor combining global investment with long-term exposure to sectors considered important to the UAE's economic development.",
+        "pt-BR": "Investidor soberano de Abu Dhabi que combina investimento global com exposição de longo prazo a setores relevantes para o desenvolvimento econômico dos Emirados Árabes Unidos."
+      },
+      "scale": {
+        "en": "US$385bn AUM in 2025",
+        "pt-BR": "US$ 385 bi em AUM em 2025"
+      },
+      "limits": {
+        "en": "Sovereign ownership does not by itself prove that every investment is a geopolitical or industrial-policy action; the mechanism must be established transaction by transaction.",
+        "pt-BR": "A propriedade soberana, por si só, não prova que todo investimento seja uma ação geopolítica ou de política industrial; o mecanismo precisa ser estabelecido operação por operação."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-sovereign-capital"
+      ]
+    },
+    {
+      "id": "temasek",
+      "legal_name": "Temasek Holdings (Private) Limited",
+      "class": "state-investment-company",
+      "jurisdiction": "Singapore",
+      "label": {
+        "en": "Temasek",
+        "pt-BR": "Temasek"
+      },
+      "description": {
+        "en": "Singapore investment company that owns its assets and is wholly owned by the Minister for Finance, while its official governance framework states that government does not direct its investment decisions.",
+        "pt-BR": "Companhia de investimentos de Singapura que possui seus próprios ativos e pertence integralmente ao Minister for Finance, enquanto sua estrutura oficial de governança afirma que o governo não dirige suas decisões de investimento."
+      },
+      "scale": {
+        "en": "S$518bn net portfolio value at 31 Mar 2026",
+        "pt-BR": "S$ 518 bi de valor líquido do portfólio em 31 mar 2026"
+      },
+      "limits": {
+        "en": "State ownership must be separated from day-to-day state direction; Temasek explicitly describes its investment decisions as commercially managed and not government-directed.",
+        "pt-BR": "A propriedade estatal precisa ser separada da direção estatal cotidiana; a Temasek descreve explicitamente suas decisões de investimento como comerciais e não dirigidas pelo governo."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-sovereign-capital"
+      ]
+    },
+    {
+      "id": "trafigura",
+      "legal_name": "Trafigura Group Pte. Ltd.",
+      "class": "commodity-trader",
+      "jurisdiction": "Singapore",
+      "label": {
+        "en": "Trafigura",
+        "pt-BR": "Trafigura"
+      },
+      "description": {
+        "en": "Physical commodity trader whose structural role comes from matching producers and consumers, moving large energy and materials volumes, and using logistics and downstream infrastructure.",
+        "pt-BR": "Trading física de commodities cuja função estrutural decorre de conectar produtores e consumidores, movimentar grandes volumes de energia e materiais e utilizar infraestrutura logística e downstream."
+      },
+      "scale": {
+        "en": "6.6m barrels of oil and petroleum products traded per day in FY2025",
+        "pt-BR": "6,6 mi de barris de petróleo e derivados negociados por dia no FY2025"
+      },
+      "limits": {
+        "en": "High traded volume does not mean ownership of the underlying resources or control of global prices; influence is conditional on contracts, logistics, inventories, counterparties and competing traders.",
+        "pt-BR": "Grande volume negociado não significa propriedade dos recursos subjacentes nem controle dos preços globais; a capacidade depende de contratos, logística, estoques, contrapartes e concorrentes."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ]
+    },
+    {
+      "id": "glencore",
+      "legal_name": "Glencore plc",
+      "class": "integrated-producer-trader",
+      "jurisdiction": "Switzerland",
+      "label": {
+        "en": "Glencore",
+        "pt-BR": "Glencore"
+      },
+      "description": {
+        "en": "Integrated producer and marketer with owned and controlled industrial assets across copper, zinc, nickel, coal and other commodities, combining production exposure with physical marketing.",
+        "pt-BR": "Produtor e comercializador integrado com ativos industriais próprios e controlados em cobre, zinco, níquel, carvão e outras commodities, combinando exposição produtiva e comercialização física."
+      },
+      "scale": {
+        "en": "851.6kt copper, 969.4kt zinc and 98.0Mt energy coal own-source production in 2025",
+        "pt-BR": "851,6 kt de cobre, 969,4 kt de zinco e 98,0 Mt de carvão energético de produção própria em 2025"
+      },
+      "limits": {
+        "en": "Commodity markets remain multi-producer systems; production scale and marketing reach create capacity but do not establish unilateral control over global supply.",
+        "pt-BR": "Mercados de commodities permanecem sistemas com múltiplos produtores; escala produtiva e alcance comercial criam capacidade, mas não estabelecem controle unilateral sobre a oferta global."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ]
+    },
+    {
+      "id": "asml",
+      "legal_name": "ASML Holding N.V.",
+      "class": "technology-supplier",
+      "jurisdiction": "Netherlands",
+      "label": {
+        "en": "ASML",
+        "pt-BR": "ASML"
+      },
+      "description": {
+        "en": "Supplier of lithography systems used in semiconductor manufacturing. Its relevance is structural because leading-edge semiconductor production depends on highly specialized lithography technology and Dutch export licensing covers advanced semiconductor manufacturing equipment.",
+        "pt-BR": "Fornecedor de sistemas de litografia usados na fabricação de semicondutores. Sua relevância é estrutural porque a produção de semicondutores de ponta depende de tecnologia de litografia altamente especializada e o licenciamento holandês de exportação abrange equipamentos avançados de fabricação."
+      },
+      "scale": {
+        "en": "535 systems sold in 2025, including 48 EUV systems",
+        "pt-BR": "535 sistemas vendidos em 2025, incluindo 48 sistemas EUV"
+      },
+      "limits": {
+        "en": "ASML is a critical supplier within a broader semiconductor ecosystem; fabs also depend on other equipment, materials, design tools, power, capital and skilled labor. Export authorization is a state decision, not an ASML sovereign power.",
+        "pt-BR": "A ASML é um fornecedor crítico dentro de um ecossistema mais amplo; fábricas também dependem de outros equipamentos, materiais, ferramentas de projeto, energia, capital e trabalho qualificado. A autorização de exportação é decisão estatal, não poder soberano da ASML."
+      },
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "blackrock-capital",
+      "actor": "blackrock",
+      "target": "global-public-markets",
+      "channel": "capital-allocation",
+      "control_mode": "delegated",
+      "substitutability": "high",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "Client mandates place BlackRock in the capital-allocation chain across ETFs, active strategies and private markets; allocation decisions affect where client capital is deployed without making BlackRock the beneficial owner of that capital.",
+        "pt-BR": "Mandatos de clientes colocam a BlackRock na cadeia de alocação de capital em ETFs, estratégias ativas e mercados privados; decisões de alocação afetam onde o capital de clientes é aplicado sem tornar a BlackRock proprietária beneficiária desse capital."
+      }
+    },
+    {
+      "id": "blackrock-voting",
+      "actor": "blackrock",
+      "target": "corporate-governance",
+      "channel": "ownership-governance",
+      "control_mode": "delegated",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "BlackRock stewardship teams vote at shareholder meetings for clients that authorize them to do so and engage portfolio-company boards and management; the authority is delegated and bounded by client mandates.",
+        "pt-BR": "As equipes de stewardship da BlackRock votam em assembleias por clientes que as autorizam e dialogam com conselhos e administrações das empresas investidas; a autoridade é delegada e limitada pelos mandatos dos clientes."
+      }
+    },
+    {
+      "id": "nbim-capital",
+      "actor": "nbim-gpfg",
+      "target": "global-public-markets",
+      "channel": "capital-allocation",
+      "control_mode": "state-mandate",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power",
+        "MT-SA-2026-09-19-sovereign-capital"
+      ],
+      "mechanism": {
+        "en": "Norway's public governance structure delegates operational management of a very large diversified portfolio to Norges Bank/NBIM, making the fund a persistent source of global public-market ownership.",
+        "pt-BR": "A estrutura pública norueguesa delega a gestão operacional de um portfólio muito grande e diversificado ao Norges Bank/NBIM, tornando o fundo uma fonte persistente de propriedade em mercados públicos globais."
+      }
+    },
+    {
+      "id": "nbim-governance",
+      "actor": "nbim-gpfg",
+      "target": "corporate-governance",
+      "channel": "ownership-governance",
+      "control_mode": "delegated",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power",
+        "MT-SA-2026-09-19-sovereign-capital"
+      ],
+      "mechanism": {
+        "en": "Equity ownership gives the fund shareholder rights and a channel for voting and expectations toward portfolio companies, while broad minority ownership constrains direct control.",
+        "pt-BR": "A propriedade acionária dá ao fundo direitos de acionista e um canal de voto e expectativas sobre empresas investidas, enquanto participações minoritárias amplas limitam controle direto."
+      }
+    },
+    {
+      "id": "pif-development",
+      "actor": "pif",
+      "target": "national-industrial-capacity",
+      "channel": "sovereign-development",
+      "control_mode": "state-mandate",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-sovereign-capital"
+      ],
+      "mechanism": {
+        "en": "PIF's official mandate combines financial returns with Saudi economic transformation, allowing sovereign capital to finance domestic projects, companies and sectors at a scale difficult for a single private investor to replicate.",
+        "pt-BR": "O mandato oficial do PIF combina retornos financeiros com transformação econômica saudita, permitindo que capital soberano financie projetos, empresas e setores domésticos em escala difícil de replicar por um único investidor privado."
+      }
+    },
+    {
+      "id": "mubadala-development",
+      "actor": "mubadala",
+      "target": "national-industrial-capacity",
+      "channel": "sovereign-development",
+      "control_mode": "state-mandate",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-sovereign-capital"
+      ],
+      "mechanism": {
+        "en": "Mubadala combines a large global portfolio with long-term investment in sectors tied to the UAE economy, creating a channel from sovereign balance-sheet capacity to domestic productive assets and capabilities.",
+        "pt-BR": "A Mubadala combina grande portfólio global com investimento de longo prazo em setores ligados à economia dos EAU, criando um canal entre capacidade patrimonial soberana e ativos e capacidades produtivas domésticas."
+      }
+    },
+    {
+      "id": "temasek-ownership",
+      "actor": "temasek",
+      "target": "global-public-markets",
+      "channel": "ownership-governance",
+      "control_mode": "direct-ownership",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-sovereign-capital"
+      ],
+      "mechanism": {
+        "en": "Temasek owns its portfolio assets directly rather than managing client money, giving it ordinary shareholder rights across listed and unlisted holdings; its official governance framework separates these investment decisions from day-to-day government direction.",
+        "pt-BR": "A Temasek possui diretamente os ativos do portfólio em vez de administrar dinheiro de clientes, o que lhe dá direitos ordinários de acionista em participações listadas e privadas; sua governança oficial separa essas decisões da direção cotidiana do governo."
+      }
+    },
+    {
+      "id": "trafigura-energy",
+      "actor": "trafigura",
+      "target": "global-energy-flows",
+      "channel": "physical-trade",
+      "control_mode": "commercial-intermediation",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "Trading roughly 6.6 million barrels of oil and petroleum products per day in FY2025 places Trafigura inside the physical matching, financing and movement of energy between producers and end markets.",
+        "pt-BR": "Negociar aproximadamente 6,6 milhões de barris de petróleo e derivados por dia no FY2025 coloca a Trafigura dentro da intermediação física, financiamento e movimentação de energia entre produtores e mercados finais."
+      }
+    },
+    {
+      "id": "trafigura-logistics",
+      "actor": "trafigura",
+      "target": "commodity-logistics",
+      "channel": "infrastructure-logistics",
+      "control_mode": "commercial-intermediation",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "Trafigura's network includes downstream and storage infrastructure through associated businesses, creating operational capacity beyond paper trading, although the assets are only part of a much larger global logistics system.",
+        "pt-BR": "A rede da Trafigura inclui infraestrutura downstream e de armazenagem por meio de negócios associados, criando capacidade operacional além da negociação financeira, embora esses ativos sejam apenas parte de um sistema logístico global muito maior."
+      }
+    },
+    {
+      "id": "glencore-metals",
+      "actor": "glencore",
+      "target": "critical-minerals-metals",
+      "channel": "resource-production",
+      "control_mode": "production-control",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "Owned and controlled industrial assets give Glencore direct production exposure across copper, zinc, nickel, cobalt and other materials, linking corporate investment and operating decisions to physical supply.",
+        "pt-BR": "Ativos industriais próprios e controlados dão à Glencore exposição produtiva direta em cobre, zinco, níquel, cobalto e outros materiais, ligando decisões corporativas de investimento e operação à oferta física."
+      }
+    },
+    {
+      "id": "glencore-energy",
+      "actor": "glencore",
+      "target": "global-energy-flows",
+      "channel": "resource-production",
+      "control_mode": "production-control",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "Large own-source coal production and a separate marketing business give Glencore both physical production and commercial intermediation channels in energy commodity markets.",
+        "pt-BR": "Grande produção própria de carvão e um negócio separado de marketing dão à Glencore canais de produção física e intermediação comercial nos mercados de commodities energéticas."
+      }
+    },
+    {
+      "id": "asml-lithography",
+      "actor": "asml",
+      "target": "advanced-semiconductor-production",
+      "channel": "technology-chokepoint",
+      "control_mode": "technology-supply",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-19",
+      "research_ids": [
+        "MT-SA-2026-09-19-structural-power"
+      ],
+      "mechanism": {
+        "en": "ASML supplies advanced lithography systems required for key semiconductor manufacturing steps. The technical specialization and export-control treatment of advanced equipment make access to this channel strategically consequential.",
+        "pt-BR": "A ASML fornece sistemas avançados de litografia necessários a etapas centrais da fabricação de semicondutores. A especialização técnica e o tratamento por controles de exportação tornam o acesso a esse canal estrategicamente relevante."
+      }
+    }
+  ]
+}

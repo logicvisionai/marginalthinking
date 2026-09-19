@@ -1,0 +1,111 @@
+{
+  "id": "MT-SA-2026-09-19-structural-power",
+  "slug": "2026-09-19-strategic-actors-structural-power",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T04:15:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 28,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "trade-investment",
+    "institutions-governance",
+    "infrastructure-logistics",
+    "industry-production",
+    "technology-innovation",
+    "commodities-resources",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "assessment_confidence": "high-on-entity-mechanisms-medium-on-system-wide-transmission",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Structural power is not wealth: identifying the actors that can change the system",
+      "deck": "A framework for separating capital, ownership, voting authority, physical flows and technological chokepoints—and a first map of BlackRock, NBIM, Trafigura, Glencore and ASML.",
+      "tags": [
+        "Strategic Actors",
+        "Structural Power",
+        "BlackRock",
+        "Trafigura",
+        "Glencore",
+        "ASML"
+      ],
+      "keywords": [
+        "structural power",
+        "asset management",
+        "ownership",
+        "voting authority",
+        "commodity trading",
+        "critical technology",
+        "chokepoints",
+        "substitutability"
+      ],
+      "regime": "Power is distributed across different mechanisms; financial scale and physical or technological chokepoints are not interchangeable.",
+      "key_risk": "Treating AUM, ownership, voting authority and control as equivalent creates false maps of power and obscures operational chokepoints.",
+      "watch": [
+        "changes in delegated voting authority and client choice",
+        "commodity trading and production concentration",
+        "advanced lithography substitution",
+        "export-control changes",
+        "vertical integration into infrastructure and private credit"
+      ],
+      "search_text": "Strategic actors structural power BlackRock NBIM Trafigura Glencore ASML ownership voting capital allocation physical trade technology chokepoint substitutability control"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Poder estrutural não é riqueza: identificando os atores capazes de alterar o sistema",
+      "deck": "Um método para separar capital, propriedade, autoridade de voto, fluxos físicos e gargalos tecnológicos — e um primeiro mapa de BlackRock, NBIM, Trafigura, Glencore e ASML.",
+      "tags": [
+        "Atores Estratégicos",
+        "Poder Estrutural",
+        "BlackRock",
+        "Trafigura",
+        "Glencore",
+        "ASML"
+      ],
+      "keywords": [
+        "poder estrutural",
+        "gestão de ativos",
+        "propriedade",
+        "autoridade de voto",
+        "trading de commodities",
+        "tecnologia crítica",
+        "gargalos",
+        "substituibilidade"
+      ],
+      "regime": "O poder está distribuído entre mecanismos diferentes; escala financeira e gargalos físicos ou tecnológicos não são intercambiáveis.",
+      "key_risk": "Tratar AUM, propriedade, autoridade de voto e controle como equivalentes cria mapas falsos de poder e oculta gargalos operacionais.",
+      "watch": [
+        "mudanças na autoridade de voto delegada e escolha de clientes",
+        "concentração de trading e produção de commodities",
+        "substituição em litografia avançada",
+        "mudanças em controles de exportação",
+        "integração vertical em infraestrutura e private credit"
+      ],
+      "search_text": "Atores estratégicos poder estrutural BlackRock NBIM Trafigura Glencore ASML propriedade voto alocação de capital comércio físico gargalo tecnológico substituibilidade controle"
+    }
+  }
+}
