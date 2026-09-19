@@ -85,7 +85,7 @@ ui.innerHTML=
   '<button class="mt-notes-launcher" id="mt-notes-launcher" type="button" aria-controls="mt-notes-drawer" aria-expanded="false" title="'+esc(text('Page notes','Notas da página'))+'">'+
     '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4.5h14v15H5z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg><span id="mt-notes-count">0</span>'+
   '</button>'+
-  '<aside class="mt-notes-drawer" id="mt-notes-drawer" role="dialog" aria-modal="false" aria-labelledby="mt-notes-title" aria-hidden="true">'+
+  '<aside class="mt-notes-drawer" id="mt-notes-drawer" role="dialog" aria-modal="false" aria-labelledby="mt-notes-title" aria-hidden="true" hidden>'+
     '<div class="mt-notes-head"><div><span>'+esc(text('PERSONAL LAYER','CAMADA PESSOAL'))+'</span><h2 id="mt-notes-title">'+esc(text('Notes on this page','Notas desta página'))+'</h2></div><button type="button" class="mt-notes-close" data-annotation-close aria-label="'+esc(text('Close notes','Fechar notas'))+'">×</button></div>'+
     '<div class="mt-notes-meta"><p>'+esc(text('Highlights and notes stay in this browser and appear in your workspace.','Grifos e anotações ficam neste navegador e aparecem no seu caderno.'))+'</p><button type="button" data-page-note>'+esc(text('New page note','Nova nota da página'))+'</button></div>'+
     '<div class="mt-notes-list" id="mt-notes-list"></div>'+
@@ -94,6 +94,7 @@ ui.innerHTML=
 document.body.appendChild(ui);
 
 const toolbar=document.getElementById('mt-selection-tools'),drawer=document.getElementById('mt-notes-drawer'),launcher=document.getElementById('mt-notes-launcher'),list=document.getElementById('mt-notes-list'),count=document.getElementById('mt-notes-count');
+let drawerHideTimer;
 function hideToolbar(){toolbar.hidden=true;currentSelection=null;}
 function showToolbar(){
   const anchor=selectionAnchor();if(!anchor){hideToolbar();return;}currentSelection=anchor;
@@ -101,8 +102,16 @@ function showToolbar(){
   requestAnimationFrame(()=>{const box=toolbar.getBoundingClientRect(),pad=10;let left=rect.left+rect.width/2-box.width/2,top=rect.top-box.height-10;left=Math.max(pad,Math.min(innerWidth-box.width-pad,left));if(top<pad)top=Math.min(innerHeight-box.height-pad,rect.bottom+10);toolbar.style.left=Math.round(left)+'px';toolbar.style.top=Math.round(top)+'px';});
 }
 function syncDrawerTop(){const header=document.querySelector('.site-header');drawer.style.top=innerWidth<=640&&header?Math.max(0,Math.round(header.getBoundingClientRect().bottom))+'px':'0px';}
-function openDrawer(annotationId=''){syncDrawerTop();drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');launcher.setAttribute('aria-expanded','true');renderDrawer();if(annotationId)requestAnimationFrame(()=>drawer.querySelector('[data-annotation-card="'+CSS.escape(annotationId)+'"] textarea')?.focus());}
-function closeDrawer(){drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');launcher.setAttribute('aria-expanded','false');}
+function openDrawer(annotationId=''){
+  clearTimeout(drawerHideTimer);drawer.hidden=false;syncDrawerTop();renderDrawer();
+  requestAnimationFrame(()=>{drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');launcher.setAttribute('aria-expanded','true');if(annotationId)drawer.querySelector('[data-annotation-card="'+CSS.escape(annotationId)+'"] textarea')?.focus();});
+}
+function closeDrawer(){
+  drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');launcher.setAttribute('aria-expanded','false');
+  clearTimeout(drawerHideTimer);
+  const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  drawerHideTimer=setTimeout(()=>{if(!drawer.classList.contains('open'))drawer.hidden=true;},reduce?0:220);
+}
 function annotationCard(a){
   const colors=['yellow','cyan','green','rose'];
   const colorButtons=a.type==='highlight'?'<div class="mt-note-colors" aria-label="'+esc(text('Highlight color','Cor do grifo'))+'">'+colors.map(color=>'<button type="button" data-annotation-color="'+color+'" data-id="'+esc(a.id)+'" aria-pressed="'+String(a.color===color)+'" class="mt-color-'+color+'" aria-label="'+color+'"></button>').join('')+'</div>':'';
