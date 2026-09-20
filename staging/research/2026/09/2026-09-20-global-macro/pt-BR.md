@@ -8,7 +8,7 @@ A principal novidade de política econômica vem da China. As LPRs de um e cinco
 
 - A China manteve as LPRs de setembro em **3,00% para um ano e 3,50% para cinco anos**.
 - A reunião Bessent-He coloca IA, acesso a terras raras e regras comerciais no calendário macroeconômico imediato.
-- Os juros nominais oficiais do Tesouro dos EUA em 18 de setembro foram **4,24% (2 anos), 4,93% (10 anos) e 5,34% (30 anos)**. A diferença entre 2 e 30 anos era, portanto, de aproximadamente **+110 pontos-base**, mais inclinada do que indicava a versão rejeitada.
+- Os juros nominais oficiais do Tesouro dos EUA em 18 de setembro foram **4,24% (2 anos), 4,93% (10 anos) e 5,34% (30 anos)**. A diferença entre 2 e 30 anos era, portanto, de aproximadamente **+110 pontos-base**, mantendo a curva substancialmente inclinada para cima apesar da parte curta mais baixa.
 - As ações americanas tiveram comportamento desigual: **S&P 500 +0,2%, Nasdaq +0,4%, Dow -0,2% e Russell 2000 -0,5%**.
 - **Brent encerrou em US$ 104,87/barril e WTI em US$ 100,30/barril**. Os riscos logísticos e de segurança no Golfo continuam relevantes apesar do recuo das máximas da semana.
 - Fundos globais de ações perderam **US$ 23,21 bilhões** na semana até 16 de setembro e fundos americanos, **US$ 31,44 bilhões**, enquanto fundos asiáticos receberam recursos.
@@ -37,9 +37,9 @@ O gráfico usa as Daily Treasury Par Yield Curve Rates do Tesouro dos EUA de 18 
 
 ## Petróleo mais baixo reduz uma pressão, mas a curva mantém caro o financiamento de longo prazo
 
-A divergência entre classes de ativos fica mais precisa após a correção da curva oficial. A parte curta está abaixo do que constava na versão rejeitada, mas o prazo de 10 anos continua perto de 5% e o de 30 anos está em **5,34%**. A inclinação de aproximadamente **110 pontos-base entre 2 e 30 anos** mostra que o mercado exige remuneração substancialmente maior nos vencimentos longos. Incerteza inflacionária de longo prazo, oferta de Treasuries e prêmio de prazo continuam relevantes mesmo com o petróleo em queda.
+A parte curta da curva dos Treasuries está bem abaixo da parte longa, enquanto o prazo de 10 anos continua perto de 5% e o de 30 anos está em **5,34%**. A inclinação de aproximadamente **110 pontos-base entre 2 e 30 anos** mostra que o mercado exige remuneração substancialmente maior nos vencimentos longos. Incerteza inflacionária de longo prazo, oferta de Treasuries e prêmio de prazo continuam relevantes mesmo com o petróleo em queda.
 
-Isso muda a ênfase, não a conclusão. Petróleo mais baixo pode aliviar a inflação corrente, enquanto juros longos elevados ainda restringem refinanciamento e avaliações. A resistência do Nasdaq com o Treasury de 10 anos perto de 5% sugere que grandes empresas de tecnologia absorvem esse ambiente melhor que companhias menores; a queda do Russell 2000 mostra transmissão desigual, não irrelevância dos juros.
+Petróleo mais baixo pode aliviar a inflação corrente, enquanto juros longos elevados ainda restringem refinanciamento e avaliações. A resistência do Nasdaq com o Treasury de 10 anos perto de 5% sugere que grandes empresas de tecnologia absorvem esse ambiente melhor que companhias menores; a queda do Russell 2000 mostra transmissão desigual, não irrelevância dos juros.
 
 ## Juros chineses inalterados expõem um problema de demanda que crédito mais barato pode não resolver
 
