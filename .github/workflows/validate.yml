@@ -115,10 +115,13 @@ jobs:
           grep -q '.semantic-chip,.chips a,.tags a.tag' dist/assets/css/discovery.css
           grep -q '/mcp-docs/' dist/index.html
           grep -q '/pt-br/mcp-docs/' dist/pt-br/index.html
-          grep -q 'https://www.marginalthinking.org/mcp' dist/mcp-docs/index.html
-          grep -q 'https://www.marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
-          grep -q '<loc>https://www.marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
-          grep -q '<loc>https://www.marginalthinking.org/pt-br/mcp-docs/</loc>' dist/sitemap.xml
+          grep -q 'https://marginalthinking.org/mcp' dist/mcp-docs/index.html
+          grep -q 'https://marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
+          grep -q '<loc>https://marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://marginalthinking.org/pt-br/mcp-docs/</loc>' dist/sitemap.xml
+          ! grep -R -q 'https://www.marginalthinking.org' dist --include='*.html' --include='*.xml' --include='*.json' --include='*.txt'
+          grep -q '"mainEntity"' dist/authors/christian-rafael-de-souza-silva/index.html
+          grep -q '#person' dist/authors/christian-rafael-de-souza-silva/index.html
           ! grep -R -q '/mcp.html' dist --include='*.html' --include='*.xml' --include='*.json'
           node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1); const en=x.locales.en.find(i=>i.id==='page:mcp'); const pt=x.locales['pt-BR'].find(i=>i.id==='page:mcp'); if(!en||!pt||en.url!=='/mcp-docs/'||pt.url!=='/pt-br/mcp-docs/') process.exit(1)"
           node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"
