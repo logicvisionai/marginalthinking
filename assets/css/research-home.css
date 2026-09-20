@@ -118,3 +118,6 @@ html[data-theme="dark"] .product-home{--home-accent:#77d9ed;--home-surface:#101a
 @media(max-width:760px){.home-opening>div:first-child{grid-row:auto}.home-quick-links{grid-column:1;margin-top:-8px;gap:5px 16px;font-size:10px}}
 
 .home-evidence .visual-figure{padding:0;border:0;box-shadow:none;border-radius:0;margin:20px 0 14px;background:transparent}
+
+/* Keep below-the-fold editorial systems out of the initial mobile rendering workload. */
+.home-section,.home-tools,.home-program-section,.home-closing{content-visibility:auto;contain-intrinsic-size:600px}
