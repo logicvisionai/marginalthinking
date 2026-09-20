@@ -49,6 +49,12 @@ jobs:
           test -f dist/pt-br/research/coverage/index.html
           test -f dist/research/hubs/index.html
           test -f dist/pt-br/research/hubs/index.html
+          test -f dist/research/conflict-systems/index.html
+          test -f dist/pt-br/research/conflict-systems/index.html
+          grep -q 'How Conflict Systems are researched' dist/research/conflict-systems/index.html
+          grep -q 'Como os Sistemas de Conflito são pesquisados' dist/pt-br/research/conflict-systems/index.html
+          test -f dist/reports/2026/09/2026-09-20-europe-russia-ukraine-security-system.html
+          test -f dist/pt-br/reports/2026/09/2026-09-20-europe-russia-ukraine-security-system.html
           test -f dist/research/global-macro/index.html
           test -f dist/pt-br/research/global-macro/index.html
           test -f dist/research/global-macro/2026/index.html
