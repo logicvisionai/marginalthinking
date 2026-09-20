@@ -1,10 +1,10 @@
 # Europa–Rússia–Ucrânia: como a ordem de segurança do pós-Guerra Fria se transformou em um sistema de guerra
 
-**Corte de evidências: 20 de setembro de 2026.** Esta avaliação reconstrói um sistema de segurança em vez de atribuir a guerra a uma única causa. Ela separa responsabilidade jurídica por ações, sequência histórica, percepções dos atores, capacidade material e explicações concorrentes. O objetivo é entender como uma abertura cooperativa depois da Guerra Fria foi substituída por uma estrutura duradoura de guerra, dissuasão e rearmamento.
+**Corte de evidências: 20 de setembro de 2026.** A ordem de segurança europeia do pós-Guerra Fria passou de uma tentativa de acomodação institucional para uma estrutura duradoura de guerra, dissuasão e rearmamento. A reconstrução abaixo distingue responsabilidade jurídica, sequência histórica, percepções dos atores, capacidade material e explicações concorrentes.
 
-A principal conclusão é que o confronto atual não pode ser explicado por uma variável isolada. Vários processos se acumularam ao mesmo tempo: a Ucrânia consolidou-se como Estado independente e buscou progressivamente maior integração com instituições ocidentais; a OTAN se ampliou enquanto sustentava que Estados soberanos podiam escolher seus alinhamentos; governos russos passaram a tratar cada vez mais a ordem do pós-Guerra Fria e o deslocamento da OTAN para o leste como adversos à segurança e ao status da Rússia; a estrutura cooperativa OTAN–Rússia perdeu credibilidade; a ruptura de 2014 transformou divergência institucional em conflito territorial; e a invasão russa em larga escala de 2022 alterou segurança europeia, identidade ucraniana, planejamento militar, prioridades fiscais e política industrial.
+O confronto atual resultou da acumulação de processos distintos: a Ucrânia consolidou-se como Estado independente e buscou progressivamente maior integração com instituições ocidentais; a OTAN se ampliou enquanto sustentava que Estados soberanos podiam escolher seus alinhamentos; governos russos passaram a tratar cada vez mais a ordem do pós-Guerra Fria e o deslocamento da OTAN para o leste como adversos à segurança e ao status da Rússia; a estrutura cooperativa OTAN–Rússia perdeu credibilidade; a ruptura de 2014 transformou divergência institucional em conflito territorial; e a invasão russa em larga escala de 2022 alterou segurança europeia, identidade ucraniana, planejamento militar, prioridades fiscais e política industrial.
 
-Questões jurídicas e causais precisam permanecer separadas. A Assembleia Geral da ONU adotou a Resolução ES-11/1 em março de 2022 sob o título *Agressão contra a Ucrânia*, por 141 votos a 5 e 35 abstenções. Explicar as condições históricas que antecederam a invasão não transfere a responsabilidade pela decisão de usar a força para os países, instituições ou populações que fizeram parte dessa história.
+Responsabilidade jurídica e reconstrução causal são questões distintas. A Assembleia Geral da ONU adotou a Resolução ES-11/1 em março de 2022 sob o título *Agressão contra a Ucrânia*, por 141 votos a 5 e 35 abstenções. Explicar as condições históricas que antecederam a invasão não transfere a responsabilidade pela decisão de usar a força para os países, instituições ou populações que fizeram parte dessa história.
 
 ## O sistema não começou em 2022
 
@@ -12,7 +12,7 @@ A Ucrânia restabeleceu sua independência em 1991 e estabeleceu relações form
 
 Em 1997, OTAN e Rússia assinaram o Ato Fundador sobre Relações Mútuas, Cooperação e Segurança. O texto afirmava que não se consideravam adversários e as comprometia com uma paz euro-atlântica inclusiva. Ao mesmo tempo, preservava a independência decisória de ambos e não concedia à Rússia veto sobre decisões da OTAN ou sobre futuras adesões.
 
-Essa combinação continha uma tensão estrutural. A ordem emergente defendia simultaneamente o direito soberano dos Estados de escolher seus arranjos de segurança e tentava integrar a Rússia sem lhe conceder controle sobre o alinhamento dos países vizinhos. Para muitos países da Europa Central e Oriental, a adesão à OTAN respondia às próprias experiências históricas e preferências de segurança. Para dirigentes russos, a ampliação passou cada vez mais a simbolizar uma ordem na qual Moscou tinha menos influência sobre o ambiente de segurança europeu do que esperava depois da Guerra Fria.
+A combinação entre liberdade soberana de alinhamento e ausência de veto russo produziu uma tensão estrutural. A ordem emergente defendia simultaneamente o direito soberano dos Estados de escolher seus arranjos de segurança e tentava integrar a Rússia sem lhe conceder controle sobre o alinhamento dos países vizinhos. Para muitos países da Europa Central e Oriental, a adesão à OTAN respondia às próprias experiências históricas e preferências de segurança. Para dirigentes russos, a ampliação passou cada vez mais a simbolizar uma ordem na qual Moscou tinha menos influência sobre o ambiente de segurança europeu do que esperava depois da Guerra Fria.
 
 A tensão ficou explícita na Cúpula de Bucareste da OTAN, em 2008. Os aliados concordaram que Ucrânia e Geórgia se tornariam membros da OTAN, sem conceder naquele encontro um Plano de Ação para Adesão. Em 2010, a OTAN respeitou explicitamente a então política ucraniana de não alinhamento, mantendo ao mesmo tempo a decisão de Bucareste e o princípio de portas abertas. Isso produziu uma condição intermediária incomum: a adesão havia sido prometida politicamente em princípio, mas não estava programada operacionalmente, enquanto a própria Ucrânia oscilava entre não alinhamento e integração euro-atlântica conforme mudava a política doméstica.
 
@@ -27,33 +27,33 @@ A tensão ficou explícita na Cúpula de Bucareste da OTAN, em 2008. Os aliados 
 | 2022 | Rússia lança invasão em larga escala | A segurança europeia passa de ordem contestada para guerra prolongada de alta intensidade |
 | 2025–2026 | OTAN e países da UE elevam compromissos de defesa de longo prazo | A guerra passa a integrar planejamento fiscal, industrial e de infraestrutura |
 
-## A Ucrânia tem agência; não é apenas terreno entre potências maiores
+## Agência ucraniana e escolha de alinhamento
 
 Análises centradas somente em Washington e Moscou podem apagar a agência ucraniana. A orientação de segurança da Ucrânia foi moldada por competição política doméstica, diferenças regionais, reforma institucional, experiências de coerção e guerra e mudanças na avaliação pública sobre quais arranjos externos poderiam proteger a soberania.
 
 A posição de não alinhamento de 2010 mostra que o alinhamento ucraniano não ficou mecanicamente determinado depois da independência. A mudança posterior também não pode ser entendida apenas como um projeto externo: a tomada da Crimeia pela Rússia e o conflito armado iniciado em 2014 alteraram, dentro da Ucrânia, os custos percebidos da neutralidade e o significado de garantias de segurança. A invasão de 2022 intensificou esse processo.
 
-A distinção importa porque a mesma ação pode ser interpretada de formas diferentes em níveis diferentes. A OTAN pode compreender sua ampliação como adesão voluntária de Estados soberanos; formuladores de política russos podem interpretar o mesmo movimento institucional como deterioração de seu ambiente de segurança; ucranianos podem interpretar a integração como proteção contra coerção. Essas percepções não são logicamente equivalentes e não resolvem o status jurídico do uso da força, mas todas podem influenciar comportamento.
+O mesmo movimento institucional assumiu significados diferentes para os atores envolvidos. A OTAN pode compreender sua ampliação como adesão voluntária de Estados soberanos; formuladores de política russos podem interpretar o mesmo movimento institucional como deterioração de seu ambiente de segurança; ucranianos podem interpretar a integração como proteção contra coerção. Essas percepções não são logicamente equivalentes e não resolvem o status jurídico do uso da força, mas todas podem influenciar comportamento.
 
-## O problema russo com a ordem do pós-Guerra Fria é maior do que uma fronteira
+## Rússia e a ordem de segurança europeia do pós-Guerra Fria
 
 O conflito russo com a arquitetura de segurança europeia não pode ser reduzido a uma reação isolada a uma declaração de cúpula. A disputa envolve a distribuição de influência depois da dissolução soviética, o status da Rússia como grande potência, a geografia militar da Europa, a orientação política de Estados vizinhos pós-soviéticos e as regras que definem quem pode influenciar essas escolhas.
 
-O Ato Fundador de 1997 é importante justamente porque mostra que o confronto não era predeterminado. OTAN e Rússia se comprometeram formalmente com cooperação. A deterioração posterior precisa, portanto, ser explicada por mudanças em expectativas, ações e instituições, e não por uma hostilidade supostamente permanente.
+O Ato Fundador de 1997 demonstra que o confronto não era predeterminado: OTAN e Rússia formalizaram uma estrutura de cooperação. A deterioração posterior decorreu de mudanças em expectativas, ações e instituições, e não de uma hostilidade institucional permanente desde o início do período.
 
-Uma distinção útil é entre **segurança** e **controle de segurança**. Um Estado pode buscar proteção contra ameaças militares; também pode buscar influência sobre o alinhamento externo de Estados vizinhos. Os dois objetivos podem aparecer juntos no discurso político, mas são analiticamente diferentes. O Ato Fundador preservava a independência decisória de OTAN e Rússia e reafirmava princípios de soberania. As disputas posteriores expuseram cada vez mais a incompatibilidade entre um sistema de alianças aberto à adesão e uma concepção russa de segurança que atribui grande importância à orientação estratégica dos países próximos.
+**Segurança** e **controle sobre o ambiente de segurança** são categorias analiticamente distintas. Um Estado pode buscar proteção contra ameaças militares; também pode buscar influência sobre o alinhamento externo de Estados vizinhos. Os dois objetivos podem aparecer juntos no discurso político, mas são analiticamente diferentes. O Ato Fundador preservava a independência decisória de OTAN e Rússia e reafirmava princípios de soberania. As disputas posteriores expuseram cada vez mais a incompatibilidade entre um sistema de alianças aberto à adesão e uma concepção russa de segurança que atribui grande importância à orientação estratégica dos países próximos.
 
-## O Ocidente não é um ator único
+## Divergências de segurança entre aliados ocidentais
 
 "O Ocidente" encobre diferenças relevantes. Estados Unidos, Alemanha, França, Polônia, Estados bálticos e Reino Unido não compartilham exatamente as mesmas memórias históricas, exposição geográfica, capacidades militares, relações econômicas com a Rússia ou preferências sobre autonomia estratégica europeia.
 
 Para Polônia e região báltica, experiência histórica e proximidade geográfica tornam o poder militar russo uma variável mais imediata de segurança nacional. A Alemanha entrou na crise com conexões energéticas e comerciais mais profundas com a Rússia e uma cultura estratégica do pós-guerra que impunha limites maiores ao uso do poder militar. A França combina há décadas participação na OTAN com interesse em capacidade estratégica europeia. Os Estados Unidos fornecem capacidades que os Estados europeus ainda têm dificuldade de reproduzir rapidamente, ao mesmo tempo em que pressionam a Europa a assumir parcela maior do ônus de defesa.
 
-Essas diferenças não são secundárias. Elas influenciam sanções, política energética, produção de armamentos, postura de forças, regras fiscais e a durabilidade política do apoio à Ucrânia.
+As diferenças entre aliados influenciam sanções, política energética, produção de armamentos, postura de forças, regras fiscais e a durabilidade política do apoio à Ucrânia.
 
-## Cinco interpretações precisam permanecer no modelo ao mesmo tempo
+## Interpretações concorrentes sobre a deterioração do pós-Guerra Fria
 
-Um sistema de conflitos robusto não deve forçar todos os fatos para dentro de uma única grande narrativa. Pelo menos cinco famílias interpretativas iluminam partes distintas da mesma história.
+Cinco famílias interpretativas explicam dimensões diferentes da mesma trajetória histórica e produzem diagnósticos causais parcialmente sobrepostos.
 
 | Lente interpretativa | O que ajuda a explicar | O que pode perder quando usada sozinha |
 |---|---|---|
@@ -65,21 +65,21 @@ Um sistema de conflitos robusto não deve forçar todos os fatos para dentro de 
 
 *Not One Inch*, de M. E. Sarotte, é especialmente útil para a quarta lente porque reconstrói os anos 1990 com material de arquivo e entrevistas, mostrando como Estados Unidos, OTAN e Rússia se moveram de uma possível parceria para um impasse. Seu valor não está em fornecer um veredito único, mas em tornar a sequência de decisões difícil de reduzir a slogans.
 
-Henry Kissinger mostra por que a Marginal Thinking deve armazenar interpretações no tempo, em vez de associar permanentemente um rótulo a um pensador. Em artigo de 2014 no Washington Post, ele argumentou que a Ucrânia deveria funcionar como ponte, e não como posto avançado de um lado contra o outro, e se opôs à entrada ucraniana na OTAN. Em janeiro de 2023, depois da invasão em larga escala, afirmou publicamente que a adesão da Ucrânia à OTAN havia se tornado um desfecho apropriado porque uma Ucrânia neutra já não tinha o mesmo significado. A mudança é analiticamente importante: uma interpretação baseada em equilíbrio e ordem pode mudar quando o ambiente estratégico subjacente muda.
+A posição de Henry Kissinger sobre a Ucrânia mudou de forma material ao longo do conflito. Em artigo de 2014 no Washington Post, ele argumentou que a Ucrânia deveria funcionar como ponte, e não como posto avançado de um lado contra o outro, e se opôs à entrada ucraniana na OTAN. Em janeiro de 2023, depois da invasão em larga escala, afirmou publicamente que a adesão da Ucrânia à OTAN havia se tornado um desfecho apropriado porque uma Ucrânia neutra já não tinha o mesmo significado. A mudança acompanha uma alteração material do ambiente estratégico: a invasão em larga escala reduziu a viabilidade política e militar da neutralidade que Kissinger havia defendido em 2014.
 
-*Ordem Mundial*, de Kissinger, fornece uma lente mais ampla. Uma de suas preocupações centrais é que diferentes tradições políticas carregam concepções diferentes de ordem legítima e que um sistema estável exige alguma relação entre poder e regras aceitas. Aplicado à segurança europeia, isso produz uma pergunta, não uma resposta: uma ordem pode permanecer estável quando grandes atores discordam não apenas sobre interesses, mas também sobre quem possui autoridade legítima para definir os arranjos de segurança?
+*Ordem Mundial*, de Kissinger, fornece uma lente mais ampla. Uma de suas preocupações centrais é a coexistência de concepções distintas de ordem legítima e a necessidade de compatibilidade mínima entre distribuição de poder e regras aceitas. Na segurança europeia, essa lente chama atenção para o conflito entre princípios de soberania, expectativas de influência regional e diferentes concepções sobre quem possui autoridade legítima para definir arranjos de segurança.
 
-## Psicologia política: medir percepções, não diagnosticar líderes
+## Psicologia política: percepções coletivas e atitudes mensuráveis
 
 O conflito transforma a população que o vivencia. Também modifica aquilo que sociedades consideram plausível, ameaçador ou tolerável. A camada psicológica relevante é, portanto, coletiva e observável: percepção de ameaça, memória histórica, identidade, confiança, expectativas e tolerância a custos.
 
-As pesquisas de 2026 mostram por que categorias simples como "pró-guerra" e "pró-paz" são insuficientes.
+As pesquisas de 2026 revelam combinações de atitudes que não cabem em categorias binárias como "pró-guerra" e "pró-paz".
 
 O KIIS entrevistou 974 adultos residentes em território controlado pelo governo ucraniano entre 20 de julho e 3 de agosto de 2026. O instituto informa explicitamente que a amostra exclui moradores de territórios fora do controle governamental e cidadãos que deixaram o país depois de 24 de fevereiro de 2022. Sessenta por cento consideraram absolutamente inaceitável retirar tropas das áreas do Donbas ainda controladas pela Ucrânia em troca de garantias de segurança dos EUA e da Europa. Ao mesmo tempo, 59% disseram que poderiam aceitar um cessar-fogo na linha de frente atual se os territórios ocupados não fossem reconhecidos internacionalmente como russos e a Ucrânia recebesse amplo apoio financeiro e militar. Sessenta e um por cento disseram estar dispostos a suportar a guerra pelo tempo necessário.
 
 A pesquisa russa do Levada Center de maio de 2026, realizada com 1.607 adultos em 137 localidades, encontrou 74% de apoio às ações das forças armadas russas na Ucrânia. Ao mesmo tempo, aproximadamente seis em cada dez defendiam avançar para negociações de paz e 30% preferiam continuar as operações militares. Cinquenta e quatro por cento consideravam possível que a situação evoluísse para conflito armado entre Rússia e países da OTAN.
 
-Esses resultados descrevem populações, ambientes políticos e desenhos amostrais diferentes e não devem ser combinados diretamente em um único índice. O valor analítico é outro: apoio ao próprio lado, desejo de negociação, aceitação ou rejeição de termos territoriais e medo de escalada mais ampla podem coexistir dentro da mesma sociedade.
+Os resultados descrevem populações, ambientes políticos e desenhos amostrais diferentes e, por isso, não são diretamente combináveis em um único índice. Ainda assim, evidenciam que apoio ao próprio lado, preferência por negociação, rejeição de concessões territoriais e temor de escalada podem coexistir dentro da mesma sociedade.
 
 | Atitude medida | Ucrânia — KIIS, jul–ago 2026 | Rússia — Levada, mai 2026 | Cuidado metodológico |
 |---|---:|---:|---|
@@ -119,7 +119,7 @@ Percepção coletiva em um conflito prolongado
   - futuro status de alianças
 ```
 
-A pergunta correta não é "qual é a psicologia da Rússia?" ou "qual é a psicologia da Ucrânia?". Um país não possui uma única mente. A pergunta de pesquisa é quais percepções podem ser medidas, como variam entre grupos e ao longo do tempo e de que forma alteram restrições políticas.
+Não existe uma "psicologia nacional" unitária. O que pode ser observado são distribuições de percepção de ameaça, identidade, confiança, expectativas e tolerância a custos, com variação entre grupos sociais e ao longo do tempo.
 
 ## A guerra reorganizou a economia política europeia
 
@@ -138,15 +138,15 @@ unit: EUR bilhões
 
 O efeito econômico não é simplesmente "mais gasto militar". Recursos mudam de uso. Compras de defesa podem elevar capacidade industrial, P&D e emprego, mas também competem por espaço fiscal, trabalho qualificado, metais, eletrônicos, energia, infraestrutura de transporte e capital. O resultado depende de o equipamento ser produzido domesticamente ou importado, de o gasto ser financiado por dívida ou tributação e de a nova capacidade produtiva gerar ou não efeitos civis.
 
-O World Economic Outlook de abril de 2026 do FMI dedica capítulos separados a gasto de defesa e à macroeconomia dos conflitos e da recuperação. A análise internacional destaca que guerras produzem perdas persistentes de produto nas economias onde os combates ocorrem e efeitos sobre outros países, enquanto as consequências macroeconômicas do gasto militar variam com financiamento e alocação. Esse é o enquadramento adequado para a Europa: gasto de segurança é simultaneamente insumo estratégico e realocação político-econômica.
+O World Economic Outlook de abril de 2026 do FMI dedica capítulos separados a gasto de defesa e à macroeconomia dos conflitos e da recuperação. A análise internacional destaca que guerras produzem perdas persistentes de produto nas economias onde os combates ocorrem e efeitos sobre outros países, enquanto as consequências macroeconômicas do gasto militar variam com financiamento e alocação. Na Europa, o gasto de segurança funciona simultaneamente como insumo estratégico e como realocação político-econômica.
 
-## O dano social e econômico da Ucrânia faz parte da estrutura europeia
+## Reconstrução e deslocamento ucranianos como variáveis estruturais europeias
 
 Banco Mundial, governo ucraniano, Comissão Europeia e Nações Unidas estimaram em fevereiro de 2026 que as necessidades de reconstrução e recuperação da Ucrânia, medidas até 31 de dezembro de 2025, alcançavam quase US$ 588 bilhões ao longo da década seguinte — quase três vezes o PIB nominal ucraniano estimado para 2025.
 
 O deslocamento populacional é igualmente estrutural. O Eurostat registrava, no fim de julho de 2026, 4,43 milhões de cidadãos de países não pertencentes à UE que haviam fugido da Ucrânia e mantinham status de proteção temporária na União Europeia. A Alemanha acolhia aproximadamente 1,29 milhão e a Polônia cerca de 953 mil. Quase 29,4% dos beneficiários eram menores de idade.
 
-Isso altera muito mais do que orçamentos humanitários. Afeta oferta de trabalho, escolas, habitação, finanças municipais, serviços linguísticos, política de integração, remessas, demografia e as condições futuras de retorno e reconstrução da Ucrânia. Alemanha e Polônia, portanto, não são apenas apoiadores externos da Ucrânia; seus sistemas sociais domésticos fazem parte do mecanismo de transmissão da guerra.
+O deslocamento ucraniano produz efeitos que ultrapassam os orçamentos humanitários, alcançando oferta de trabalho, escolas, habitação, finanças municipais, serviços linguísticos, política de integração, remessas, demografia e as condições futuras de retorno e reconstrução. Os sistemas sociais de Alemanha e Polônia integram diretamente o mecanismo de transmissão da guerra por meio de mercado de trabalho, habitação, educação, finanças locais e política de integração.
 
 ```flow
 Guerra em larga escala → destruição e insegurança → deslocamento + necessidade de reconstrução → habitação, escolas, mercados de trabalho e sistemas fiscais europeus → adaptação política e social
@@ -160,13 +160,13 @@ Sanções + resposta de segurança energética → mudança em comércio e forne
 
 A transformação mais importante é institucional. Em 1997, o objetivo declarado era uma relação OTAN–Rússia na qual nenhum dos lados considerava o outro adversário. Em 2025–2026, a arquitetura de planejamento e gasto da OTAN trata explicitamente o ambiente de segurança como exigindo capacidade de defesa muito maior e de longo prazo, enquanto a Rússia segue envolvida na guerra na Ucrânia.
 
-Essa transição é dependente da trajetória. Quando governos constroem forças, fábricas, corredores logísticos, estoques e compromissos fiscais em torno de uma ameaça de longo horizonte, esses investimentos criam capacidades, expectativas e grupos interessados que sobrevivem a episódios diplomáticos individuais. O mesmo vale para adaptação a sanções, instituições militares ucranianas e produção russa de guerra. Um cessar-fogo poderia interromper determinadas formas de combate sem restaurar automaticamente as condições institucionais dos anos 1990.
+A transição apresenta forte dependência de trajetória. Quando governos constroem forças, fábricas, corredores logísticos, estoques e compromissos fiscais em torno de uma ameaça de longo horizonte, esses investimentos criam capacidades, expectativas e grupos interessados que sobrevivem a episódios diplomáticos individuais. O mesmo vale para adaptação a sanções, instituições militares ucranianas e produção russa de guerra. Um cessar-fogo poderia interromper determinadas formas de combate sem restaurar automaticamente as condições institucionais dos anos 1990.
 
-Isso não significa que a escalada seja inevitável. Significa que a desescalada precisa superar mais do que a dinâmica do campo de batalha: precisa alterar expectativas e instituições.
+A escalada não é inevitável, mas a desescalada depende de mudanças que ultrapassam o campo de batalha, incluindo expectativas estratégicas, instituições e mecanismos de segurança.
 
-## A escalada deve ser monitorada como trajetórias, não como contagem regressiva
+## Trajetórias de escalada e mecanismos de contenção
 
-Um "Doomsday Clock" pode comunicar pressão sistêmica, mas um monitor sério não deve inventar uma probabilidade percentual de guerra OTAN–Rússia. O objeto útil é a cadeia de mecanismos observáveis capaz de deslocar o sistema em direção ao confronto direto ou para longe dele.
+Uma contagem regressiva única ou uma probabilidade percentual sem modelo empírico não descreve adequadamente o risco de confronto OTAN–Rússia. A escalada pode ser decomposta em mecanismos observáveis que aproximam ou afastam o sistema de um choque direto.
 
 ```flow
 Incidente militar envolvendo forças russas e da OTAN → atribuição e resposta inicial → consulta da aliança + proteção de forças → decisão sobre retaliação → contenção OU escalada recíproca
@@ -176,9 +176,9 @@ Cessar-fogo ou acordo negociado → mecanismos de monitoramento e cumprimento �
 Rearmamento de longo prazo → forças + estoques + infraestrutura maiores → dissuasão mais forte, mas maior proximidade militar → resultado depende de doutrina, comunicação, implantação e gestão de crise
 ```
 
-O mesmo indicador pode produzir efeitos opostos. Capacidade militar adicional pode elevar a dissuasão ao aumentar o custo de um ataque, mas mobilizações e exercícios também podem elevar proximidade, ambiguidade e oportunidades de incidentes. O monitor precisa, portanto, separar domínios — postura convencional, sinalização nuclear, consulta de alianças, comunicação diplomática, controle de armas, incidentes cibernéticos/espaciais, mobilização industrial e expectativas públicas — em vez de comprimir tudo em um único número vermelho.
+Indicadores individuais podem produzir efeitos opostos. Capacidade militar adicional pode elevar a dissuasão ao aumentar o custo de um ataque, mas mobilizações e exercícios também podem elevar proximidade, ambiguidade e oportunidades de incidentes. A avaliação de escalada pode ser desagregada em postura convencional, sinalização nuclear, consulta de alianças, comunicação diplomática, controle de armas, incidentes cibernéticos e espaciais, mobilização industrial e expectativas públicas.
 
-## O que enfraqueceria esta avaliação
+## Condições que alterariam o quadro atual
 
 Algumas observações exigiriam revisar a interpretação atual de uma ordem de segurança militarizada e duradoura:
 
@@ -190,13 +190,13 @@ Algumas observações exigiriam revisar a interpretação atual de uma ordem de 
 
 No sentido oposto, incidentes diretos que superem mecanismos de contenção, nova erosão de arranjos de controle de armas, expansão de operações para território reconhecido de aliança ou institucionalização adicional da produção de guerra de longo prazo reforçariam a avaliação de que o conflito está incorporado ao sistema europeu.
 
-## Implicações para a pesquisa
+## Questões estruturais ainda em aberto
 
-A próxima unidade de trabalho não deveria ser mais um resumo do último evento do campo de batalha. Esse sistema exige dossiês persistentes de Ucrânia, Rússia, Polônia, Alemanha, França, Reino Unido e Estados Unidos, todos usando o mesmo esquema para instituições, economia política, demografia, memória histórica, opinião pública, capacidade militar, estrutura industrial e dependências externas.
+A durabilidade do novo ciclo europeu de rearmamento dependerá de financiamento, capacidade industrial, disponibilidade de trabalho qualificado, estoques, infraestrutura e continuidade política. Um cessar-fogo, por si só, não determina se esses investimentos serão revertidos ou incorporados de forma permanente ao planejamento de defesa.
 
-Também exige um registro intelectual. Kissinger, Sarotte e interpretações oficiais da OTAN e da Rússia não devem ser misturados em uma única voz narrativa. Suas proposições devem ser armazenadas com data, mecanismo, contrapontos e revisões posteriores. Isso permite perguntar não apenas o que um pensador renomado afirmou, mas se as condições pressupostas pelo argumento continuam existindo.
+A legitimidade de um acordo dentro da Ucrânia continuará condicionada por território, garantias de segurança, reconstrução, retorno de deslocados e expectativas sobre futuras relações com a Rússia e com instituições euro-atlânticas. Na Rússia, a evolução das percepções de ameaça, dos custos econômicos e das expectativas sobre a OTAN também seguirá influenciando o espaço político para acomodação ou prolongamento do confronto.
 
-O resultado é um produto de pesquisa diferente: não uma cronologia de notícias de guerra, mas um modelo continuamente revisável da interação entre memória histórica, instituições, capacidade material e percepção social.
+O terceiro eixo permanece institucional: sem mecanismos estáveis de comunicação militar, controle de armas, verificação e gestão de incidentes, uma redução da intensidade dos combates pode coexistir com um ambiente estratégico ainda militarizado e vulnerável a novas crises.
 
 ## Fontes e notas metodológicas
 
@@ -226,4 +226,4 @@ Fontes interpretativas:
 - [M. E. Sarotte — *Not One Inch*, Yale University Press](https://yalebooks.yale.edu/book/9780300263350/not-one-inch/)
 - [Posição de Kissinger em Davos, em 2023, sobre adesão ucraniana à OTAN, registro contemporâneo](https://www.theguardian.com/business/live/2023/jan/17/davos-day-1-pessimistic-mood-wef-von-der-leyen-liu-he-energy-climate-business-live)
 
-As evidências mais fortes desta avaliação dizem respeito a decisões institucionais datadas, gasto público e resultados de pesquisas. O peso causal relativo atribuído à ampliação da OTAN, às preferências russas de status e segurança, à agência doméstica ucraniana, às falhas institucionais pós-soviéticas e a outros fatores de longo prazo permanece uma questão interpretativa. O método, portanto, preserva explicações concorrentes e indica quando uma conclusão depende de inferência, e não de observação direta.
+A base empírica é mais sólida para decisões institucionais datadas, gasto público e resultados de pesquisas de opinião. O peso causal relativo da ampliação da OTAN, das preferências russas de status e segurança, da agência doméstica ucraniana, das falhas institucionais pós-soviéticas e de outros fatores de longo prazo permanece disputado na literatura e depende de inferência histórica.

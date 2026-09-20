@@ -28,6 +28,17 @@ const ptEditorialBlockers=[
   /poder de captura de renda/i
 ];
 
+const conflictToneBlockers=[
+  /\b(?:prest[ií]gio n[aã]o substitui evid[eê]ncia|prestige does not replace evidence)\b/i,
+  /\b(?:entram como interpreta[cç][oõ]es atribu[ií]das|enter as attributed interpretations)\b/i,
+  /\b(?:o objeto [ée] o sistema|the object is the system)\b/i,
+  /\b(?:cada tese material preserva|every material thesis preserves)\b/i,
+  /\b(?:nenhum percentual artificial|no artificial probability)\b/i,
+  /\b(?:a distin[cç][aã]o importa|this distinction matters|a pergunta correta [ée]|the correct question is|isso n[aã]o significa|that does not mean)\b/i,
+  /\b(?:a pr[oó]xima unidade de trabalho|the next unit of work)\b/i,
+  /\b(?:o resultado [ée] um produto de pesquisa|the result is a different research product)\b/i
+];
+
 const enEditorialBlockers=[
   /\bbottlenecks?\b/i,
   /causal funnel/i,
@@ -64,6 +75,10 @@ for(const file of html){
   if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(s))fail.push(`${rel}: referência binária proibida`);
   if(/<ol(?:\s[^>]*)?>[\s\S]*?<li[^>]*>\s*\d+[.)]\s+/i.test(s))fail.push(`${rel}: marcador numérico duplicado em lista ordenada`);
   if(/<ul(?:\s[^>]*)?>[\s\S]*?<li[^>]*>\s*[-+*•]\s+/i.test(s))fail.push(`${rel}: marcador duplicado em lista não ordenada`);
+  if((rel.includes('research/conflict-systems/')||rel.includes('europe-russia-ukraine-security-system'))&&!rel.endsWith('404.html')){
+    const conflictVisible=visibleText(s);
+    for(const rx of conflictToneBlockers)if(rx.test(conflictVisible))fail.push(`${rel}: formulação conversacional/metalinguística bloqueada em Conflict Systems (${rx})`);
+  }
   if(rel.includes('reports/')&&!rel.endsWith('404.html')){
     if(!/rel="canonical"/i.test(s))fail.push(`${rel}: canonical ausente`);
     if(!/application\/ld\+json/i.test(s))fail.push(`${rel}: JSON-LD ausente`);
