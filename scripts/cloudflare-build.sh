@@ -35,6 +35,11 @@ node scripts/render-strategic-actors.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs
+# Consolidate recurring publications into permanent, bilingual research hubs so
+# temporal reports strengthen long-lived thematic pages instead of competing as isolated URLs.
+node scripts/render-evergreen-hubs.mjs
+# Publish structured datasets as indexable resources with Dataset JSON-LD and stable download URLs.
+node scripts/render-data-catalog.mjs
 # Derive corpus-level intelligence from canonical metadata only. This adds no
 # publication burden to agents and never counts translations as separate research.
 node scripts/render-research-intelligence.mjs
@@ -100,4 +105,4 @@ else
   rm -f dist/assets/js/analytics.js
 fi
 
-echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, public MCP catalog and documentation, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
+echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, permanent research hubs, indexable datasets, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, public MCP catalog and documentation, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
