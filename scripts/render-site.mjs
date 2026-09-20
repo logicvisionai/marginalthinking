@@ -24,7 +24,13 @@ const layout=locale=>makeLayout({cfg,i18n,site,author,social,locale,reportPath,p
 
 function docHead(locale,title,description,head=''){
   const fonts='https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap';
-  return `<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#09131a"><meta name="description" content="${esc(description)}"><link rel="icon" href="/assets/brand/favicon.svg"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" as="style" href="${fonts}"><link rel="stylesheet" href="${fonts}" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="${fonts}"></noscript><link rel="stylesheet" href="/assets/css/styles.css">${head}<title>${esc(title)}</title>`;
+  return `<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#09131a"><meta name="description" content="${esc(description)}"><link rel="icon" href="/assets/brand/favicon.svg"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="${fonts}" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="${fonts}"></noscript><link rel="stylesheet" href="/assets/css/styles.css">${head}<title>${esc(title)}</title>`;
+}
+const homeCssFiles=['assets/css/styles.css','assets/css/report-data.css','assets/css/research-static.css','assets/css/language-switch.css','assets/css/layout-guardrails.css','assets/css/mobile-nav-fix.css','assets/css/institutional-premium.css','assets/css/theme.css','assets/css/research-home.css','assets/css/research-visuals.css'];
+const homeCriticalCss=homeCssFiles.map(p=>read(p)).join('\n');
+function homeDocHead(locale,title,description,head=''){
+  const fonts='https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap';
+  return `<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#09131a"><meta name="description" content="${esc(description)}"><link rel="icon" href="/assets/brand/favicon.svg"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="${fonts}" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="${fonts}"></noscript><style id="home-critical-css">${homeCriticalCss}</style>${head}<title>${esc(title)}</title>`;
 }
 const sharedCount=(a=[],b=[])=>{const s=new Set(a||[]);return (b||[]).filter(v=>s.has(v)).length;};
 const countryKeys=item=>(item?.geography?.countries||[]).flatMap(c=>[c?.code,c?.slug].filter(Boolean));
@@ -61,7 +67,7 @@ function homePage(locale){
   const L=layout(locale),t=L.t,canonical=pagePath(locale,'/'),alts=Object.fromEntries(localeCodes.map(l=>[l,pagePath(l,'/')]));
   const head=L.baseHead(`${cfg.site_name} — ${t.nav.research}`,t.site_description,canonical,'WebSite',alts,{'@id':`${site}/#website`,publisher:{'@type':'Organization','@id':`${site}/#organization`,name:cfg.publisher,url:`${site}/`}});
   const content=homeContent({root,cfg,i18n,reports,locale,taxonomy:JSON.parse(read('data/taxonomy.json')),dependency:JSON.parse(read('data/global-dependencies.json')),atlas:JSON.parse(read('data/structural-opportunities.json')),actors:JSON.parse(read('data/strategic-actors.json'))});
-  return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${docHead(locale,`${cfg.site_name} — ${t.nav.research}`,t.site_description,head)}<link rel="stylesheet" href="/assets/css/research-home.css"></head><body data-locale="${esc(locale)}" data-home-layout="editorial"><a class="skip-content" href="#main-content">${locale==='pt-BR'?'Ir para o conteúdo':'Skip to content'}</a>${L.nav('home',alts)}${content}${L.footer()}<script src="/assets/js/app.js"></script></body></html>`;
+  return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${homeDocHead(locale,`${cfg.site_name} — ${t.nav.research}`,t.site_description,head)}</head><body data-locale="${esc(locale)}" data-home-layout="editorial"><a class="skip-content" href="#main-content">${locale==='pt-BR'?'Ir para o conteúdo':'Skip to content'}</a>${L.nav('home',alts)}${content}${L.footer()}<script src="/assets/js/app.js"></script></body></html>`;
 }
 
 function archiveItem(item,locale){

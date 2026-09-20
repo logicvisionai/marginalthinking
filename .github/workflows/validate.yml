@@ -106,6 +106,12 @@ jobs:
           grep -q 'tool-matrix' dist/index.html
           grep -q 'home-tools-grid' dist/pt-br/index.html
           grep -q 'tool-matrix' dist/pt-br/index.html
+          grep -q 'id="home-critical-css"' dist/index.html
+          grep -q 'id="home-critical-css"' dist/pt-br/index.html
+          ! grep -q 'rel="stylesheet" href="/assets/css/styles.css"' dist/index.html
+          ! grep -q 'rel="stylesheet" href="/assets/css/research-home.css"' dist/index.html
+          ! grep -Eq '<h[4-6]( |>)' dist/index.html
+          ! grep -Eq '<h[4-6]( |>)' dist/pt-br/index.html
           grep -q '@media(max-width:760px)' dist/assets/css/research-home.css
           test -f dist/workspace/index.html
           test -f dist/pt-br/workspace/index.html

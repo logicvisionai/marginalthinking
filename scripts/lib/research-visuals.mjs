@@ -98,7 +98,7 @@ function mindmap(raw, locale) {
   }
   const leaves = items => `<ul>${items.map(n => `<li>${inline(n.text)}${n.children.length ? leaves(n.children) : ''}</li>`).join('')}</ul>`;
   if (!tree.length) return textDiagram(raw, locale);
-  return figure('mindmap', root, `<div class="mindmap-grid">${tree.map(n => `<section class="mind-branch"><h4>${inline(n.text)}</h4>${n.children.length ? leaves(n.children) : ''}</section>`).join('')}</div>`, {classes: 'mindmap'});
+  return figure('mindmap', root, `<div class="mindmap-grid">${tree.map(n => `<section class="mind-branch"><div class="visual-subheading">${inline(n.text)}</div>${n.children.length ? leaves(n.children) : ''}</section>`).join('')}</div>`, {classes: 'mindmap'});
 }
 
 function geographicSummary(raw, locale) {
@@ -112,7 +112,7 @@ function geographicSummary(raw, locale) {
     else if (/(?:→|->)/.test(line)) routes.push(line);
     else notes.push(line);
   }
-  const cards = rows.length ? `<div class="geo-map-board">${rows.map(([region, value, ...note]) => `<article class="geo-card"><div class="geo-region">${inline(region)}</div><h4 class="geo-value">${inline(value)}</h4>${note.length ? `<p>${inline(note.join(' | '))}</p>` : ''}</article>`).join('')}</div>` : '';
+  const cards = rows.length ? `<div class="geo-map-board">${rows.map(([region, value, ...note]) => `<article class="geo-card"><div class="geo-region">${inline(region)}</div><div class="geo-value">${inline(value)}</div>${note.length ? `<p>${inline(note.join(' | '))}</p>` : ''}</article>`).join('')}</div>` : '';
   const chains = routes.length ? `<div class="flow-chains">${routes.map(l => chainHtml(l.split(/\s*(?:→|->)\s*/))).join('')}</div>` : '';
   // These are regional comparisons or routes, not coordinates. Never invent map positions.
   return figure('geography', title, cards + chains + notes.map(s => `<p class="visual-note">${inline(s)}</p>`).join(''), {unit, classes: 'geo-map'});
@@ -130,7 +130,7 @@ function dependencyMap(raw,locale='en'){
   }
   if(stages.length<2)return'';
   const label=locale==='pt-BR'?'Mapa de dependências':'Dependency map';
-  return `<figure class="visual-figure dependency-map" data-research-visual="diagram"><figcaption>${label}</figcaption><div class="structure-stages">${stages.map((s,i)=>`<section class="structure-stage"><div class="structure-stage-index">${String(i+1).padStart(2,'0')}</div><h4>${inline(s.title)}</h4>${s.relations.length?`<div class="dependency-links">${s.relations.map(([a,b])=>`<div class="dependency-rel"><span>${inline(a)}</span><b aria-hidden="true">→</b><strong>${inline(b)}</strong></div>`).join('')}</div>`:''}${s.notes.length?`<div class="dependency-notes">${s.notes.map(n=>`<span>${inline(n)}</span>`).join('')}</div>`:''}</section>${i<stages.length-1?'<div class="dependency-arrow" aria-hidden="true">↓</div>':''}`).join('')}</div></figure>`;
+  return `<figure class="visual-figure dependency-map" data-research-visual="diagram"><figcaption>${label}</figcaption><div class="structure-stages">${stages.map((s,i)=>`<section class="structure-stage"><div class="structure-stage-index">${String(i+1).padStart(2,'0')}</div><div class="visual-subheading">${inline(s.title)}</div>${s.relations.length?`<div class="dependency-links">${s.relations.map(([a,b])=>`<div class="dependency-rel"><span>${inline(a)}</span><b aria-hidden="true">→</b><strong>${inline(b)}</strong></div>`).join('')}</div>`:''}${s.notes.length?`<div class="dependency-notes">${s.notes.map(n=>`<span>${inline(n)}</span>`).join('')}</div>`:''}</section>${i<stages.length-1?'<div class="dependency-arrow" aria-hidden="true">↓</div>':''}`).join('')}</div></figure>`;
 }
 
 function textDiagram(raw, locale) {

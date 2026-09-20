@@ -54,7 +54,8 @@ for(const file of html){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
   if(!/<html\s+lang="[^"]+"/i.test(s))fail.push(`${rel}: html lang ausente`);
   if(!/<meta\s+name="viewport"/i.test(s))fail.push(`${rel}: viewport ausente`);
-  if(!/<link\s+rel="stylesheet"\s+href="\/assets\/css\/styles\.css"/i.test(s))fail.push(`${rel}: stylesheet crítico styles.css ausente`);
+  const hasCoreCss=/<link\s+rel="stylesheet"\s+href="\/assets\/css\/styles\.css"/i.test(s)||/<style\s+id="home-critical-css">/i.test(s);
+  if(!hasCoreCss)fail.push(`${rel}: CSS crítico ausente`);
   for(const css of ['report-data.css','research-static.css','language-switch.css','layout-guardrails.css','mobile-nav-fix.css','institutional-premium.css','theme.css'])if(new RegExp(`<link\\s+rel="stylesheet"\\s+href="\\/assets\\/css\\/${css.replace('.','\\.')}`,'i').test(s))fail.push(`${rel}: stylesheet ${css} deveria estar consolidado no bundle crítico`);
   if(/<script\s+src="\/assets\/js\/app\.js"/i.test(s)&&!/<script\s+defer\s+src="\/assets\/js\/app\.js"/i.test(s))fail.push(`${rel}: app.js sem defer`);
   if(!/<div class="language-switch"/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: seletor de idioma ausente`);
