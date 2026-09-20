@@ -12,7 +12,7 @@ Ukraine re-established independence in 1991 and established formal relations wit
 
 In 1997, NATO and Russia signed the Founding Act on Mutual Relations, Cooperation and Security. The text stated that they did not consider one another adversaries and committed them to an inclusive Euro-Atlantic peace. It also preserved the independent decision-making of both sides and did not give Russia a veto over NATO decisions or future membership.
 
-That combination contained a structural tension. The emerging order simultaneously defended the sovereign right of states to choose security arrangements and attempted to integrate Russia without granting it control over the alignments of neighboring states. For many Central and Eastern European countries, NATO membership was a response to their own histories and security preferences. For Russian leaders, enlargement increasingly came to symbolize a settlement in which Moscow had less influence over the European security environment than it expected after the Cold War.
+The combination of sovereign alignment choice and the absence of a Russian veto produced a structural tension. The emerging order simultaneously defended the sovereign right of states to choose security arrangements and attempted to integrate Russia without granting it control over the alignments of neighboring states. For many Central and Eastern European countries, NATO membership was a response to their own histories and security preferences. For Russian leaders, enlargement increasingly came to symbolize a settlement in which Moscow had less influence over the European security environment than it expected after the Cold War.
 
 The tension became explicit at NATO's Bucharest Summit in 2008. Allies agreed that Ukraine and Georgia would become members of NATO, while not granting a Membership Action Plan at that meeting. In 2010, NATO explicitly respected Ukraine's then policy of non-bloc status while keeping the Bucharest decision and its open-door principle in place. This produced an unusual intermediate condition: membership was politically promised in principle but not operationally scheduled, while Ukraine itself moved between non-alignment and Euro-Atlantic integration as domestic politics changed.
 
@@ -27,7 +27,7 @@ The tension became explicit at NATO's Bucharest Summit in 2008. Allies agreed th
 | 2022 | Russia launches full-scale invasion | European security shifts from contested order to sustained high-intensity war |
 | 2025–2026 | NATO and EU members raise long-run defence commitments | War becomes embedded in fiscal, industrial and infrastructure planning |
 
-## Ukraine has agency; it is not merely terrain between larger powers
+## Ukrainian agency and alignment choices
 
 Analyses centered only on Washington and Moscow can erase Ukrainian agency. Ukraine's security orientation has been shaped by domestic political competition, regional differences, institutional reform, experiences of coercion and war, and changing public assessments of which external arrangements can protect sovereignty.
 
@@ -35,7 +35,7 @@ The 2010 non-bloc position shows that Ukrainian alignment was not mechanically f
 
 The same institutional movement carried different meanings for the actors involved. NATO can understand enlargement as voluntary accession by sovereign states; Russian policymakers can interpret the same institutional movement as deterioration in their security environment; Ukrainians can interpret integration as protection from coercion. These perceptions are not logically equivalent and do not settle the legal status of military action, but all can influence behavior.
 
-## Russia's problem with the post-Cold War order is larger than one border
+## Russia and the post-Cold War European security order
 
 Russia's conflict with the European security architecture cannot be reduced to a single reaction to one summit declaration. The dispute concerns the distribution of influence after the Soviet collapse, the status of Russia as a great power, the military geography of Europe, the political orientation of neighboring post-Soviet states and the rules determining who may shape those choices.
 
@@ -43,13 +43,13 @@ The 1997 Founding Act demonstrates that confrontation was not predetermined: NAT
 
 **Security** and **control over the surrounding security environment** are analytically distinct. A state may seek protection against military threats; it may also seek influence over the external alignment of neighboring states. The two can overlap in political argument but they are analytically different. The Founding Act protected the independence of NATO and Russia and affirmed principles of sovereignty. Subsequent disputes increasingly exposed the incompatibility between an open-membership alliance system and a Russian conception of security that attached high importance to the strategic orientation of nearby states.
 
-## The West is not a single actor
+## Divergent security preferences within the Western alliance system
 
 "The West" conceals important differences. The United States, Germany, France, Poland, the Baltic states and the United Kingdom do not have identical historical memories, geographic exposure, military capabilities, economic relationships with Russia or preferences about European strategic autonomy.
 
 For Poland and the Baltic region, historical experience and geographical proximity make Russian military power a more immediate national-security variable. Germany entered the crisis with deeper energy and commercial connections to Russia and a post-war strategic culture that had placed stronger limits on military power. France has long combined NATO membership with an interest in European strategic capacity. The United States provides capabilities that remain difficult for European states to reproduce quickly, while also pressing Europe to assume more of the defence burden.
 
-These differences are not secondary. They shape sanctions, energy policy, arms production, force posture, fiscal rules and the political durability of support to Ukraine.
+Differences among allies shape sanctions, energy policy, arms production, force posture, fiscal rules and the political durability of support to Ukraine.
 
 ## Competing interpretations of the post-Cold War breakdown
 
@@ -69,7 +69,7 @@ Henry Kissinger's position on Ukraine changed materially over the course of the 
 
 Kissinger's *World Order* provides a broader lens. Its central concern is that different political traditions carry different ideas of legitimate order and that a stable system requires some relationship between power and accepted rules. Applied to European security, this raises a question rather than supplying an answer: can an order remain stable when major actors disagree not only about interests but about who has legitimate authority to define security arrangements?
 
-## Political psychology: measure perceptions, do not diagnose leaders
+## Political psychology: collective perceptions and measurable attitudes
 
 Conflict changes the population that experiences it. It also changes what societies regard as plausible, threatening or tolerable. The relevant psychological layer is therefore collective and observable: threat perception, historical memory, identity, trust, expectations and tolerance for costs.
 
@@ -140,13 +140,13 @@ The economic effect is not simply "more military spending." Resources move among
 
 The IMF's April 2026 World Economic Outlook devotes separate chapters to defence spending and the macroeconomics of conflict and recovery. Its cross-country analysis emphasizes that wars create persistent output losses where fighting occurs and spillovers elsewhere, while the macroeconomic consequences of defence spending vary with financing and allocation. In Europe, security expenditure functions simultaneously as a strategic input and a political-economic reallocation.
 
-## Ukraine's social and economic damage is part of European structure
+## Ukrainian reconstruction and displacement as European structural variables
 
 The World Bank, the Government of Ukraine, the European Commission and the United Nations estimated in February 2026 that Ukraine's reconstruction and recovery needs, measured through 31 December 2025, were almost $588 billion over the following decade—nearly three times estimated Ukrainian nominal GDP for 2025.
 
 Displacement is equally structural. Eurostat reported 4.43 million non-EU citizens who had fled Ukraine and held temporary-protection status in the EU at the end of July 2026. Germany hosted about 1.29 million and Poland about 953,000. Almost 29.4% of beneficiaries were minors.
 
-This changes more than humanitarian budgets. It affects labor supply, schools, housing, municipal finance, language services, integration policy, remittances, demographics and the future conditions of Ukrainian return and reconstruction. Germany and Poland are therefore not merely external supporters of Ukraine; their domestic social systems are part of the war's transmission mechanism.
+Ukrainian displacement affects more than humanitarian budgets: it reaches labor supply, schools, housing, municipal finance, language services, integration policy, remittances, demographics and the future conditions of return and reconstruction. Germany and Poland are therefore not merely external supporters of Ukraine; their domestic social systems are part of the war's transmission mechanism.
 
 ```flow
 Full-scale war → destruction and insecurity → displacement + reconstruction needs → European housing, schools, labor markets and fiscal systems → political and social adaptation
@@ -160,11 +160,11 @@ Sanctions + energy-security response → altered trade and sourcing → investme
 
 The most consequential transformation is institutional. In 1997, the declared objective was a NATO–Russia relationship in which neither side considered the other an adversary. By 2025–2026, NATO's planning and spending architecture explicitly treats the security environment as requiring far larger long-term defence capacity, while Russia remains engaged in the war in Ukraine.
 
-This is a path-dependent transition. Once governments build forces, factories, logistics corridors, stockpiles and fiscal commitments around a long-horizon threat, those investments create constituencies, capabilities and expectations that survive individual diplomatic episodes. The same applies to sanctions adaptation, Ukrainian military institutions and Russian wartime production. A ceasefire could stop particular forms of combat without automatically restoring the institutional conditions of the 1990s.
+The transition exhibits strong path dependence. Once governments build forces, factories, logistics corridors, stockpiles and fiscal commitments around a long-horizon threat, those investments create constituencies, capabilities and expectations that survive individual diplomatic episodes. The same applies to sanctions adaptation, Ukrainian military institutions and Russian wartime production. A ceasefire could stop particular forms of combat without automatically restoring the institutional conditions of the 1990s.
 
 Escalation is not inevitable, but de-escalation depends on changes extending beyond battlefield dynamics, including strategic expectations, institutions and security mechanisms.
 
-## Escalation should be monitored as pathways, not as a countdown
+## Escalation pathways and containment mechanisms
 
 A single countdown or percentage probability without an empirical model does not adequately describe the risk of NATO–Russia confrontation. Escalation can instead be decomposed into observable mechanisms that move the system toward or away from direct conflict.
 
@@ -176,7 +176,7 @@ Ceasefire or negotiated arrangement → monitoring and compliance mechanisms →
 Long-run rearmament → larger forces + stocks + infrastructure → stronger deterrence but more military proximity → outcome depends on doctrine, communication, deployment and crisis management
 ```
 
-The same indicator may have opposing effects. Additional military capacity can increase deterrence by raising the cost of attack, but deployments and exercises can also increase proximity, ambiguity and opportunities for incidents. Escalation assessment can be disaggregated into conventional posture, nuclear signalling, alliance consultation, diplomatic communication, arms control, cyber and space incidents, industrial mobilisation and public expectations.
+Individual indicators may produce opposing effects. Additional military capacity can increase deterrence by raising the cost of attack, but deployments and exercises can also increase proximity, ambiguity and opportunities for incidents. Escalation assessment can be disaggregated into conventional posture, nuclear signalling, alliance consultation, diplomatic communication, arms control, cyber and space incidents, industrial mobilisation and public expectations.
 
 ## Conditions that would alter the current assessment
 
