@@ -54,7 +54,9 @@ for(const file of html){
   const rel=path.relative(root,file).split(path.sep).join('/'),s=fs.readFileSync(file,'utf8');
   if(!/<html\s+lang="[^"]+"/i.test(s))fail.push(`${rel}: html lang ausente`);
   if(!/<meta\s+name="viewport"/i.test(s))fail.push(`${rel}: viewport ausente`);
-  for(const css of ['language-switch.css','layout-guardrails.css','mobile-nav-fix.css'])if(!new RegExp(`<link\\s+rel="stylesheet"\\s+href="\\/assets\\/css\\/${css.replace('.','\\.')}`,'i').test(s))fail.push(`${rel}: stylesheet ${css} ausente`);
+  if(!/<link\s+rel="stylesheet"\s+href="\/assets\/css\/styles\.css"/i.test(s))fail.push(`${rel}: stylesheet crítico styles.css ausente`);
+  for(const css of ['report-data.css','research-static.css','language-switch.css','layout-guardrails.css','mobile-nav-fix.css','institutional-premium.css','theme.css'])if(new RegExp(`<link\\s+rel="stylesheet"\\s+href="\\/assets\\/css\\/${css.replace('.','\\.')}`,'i').test(s))fail.push(`${rel}: stylesheet ${css} deveria estar consolidado no bundle crítico`);
+  if(/<script\s+src="\/assets\/js\/app\.js"/i.test(s)&&!/<script\s+defer\s+src="\/assets\/js\/app\.js"/i.test(s))fail.push(`${rel}: app.js sem defer`);
   if(!/<div class="language-switch"/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: seletor de idioma ausente`);
   if(!/<h1[\s>]/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: H1 ausente`);
   if(/Carregando pesquisa|Loading research/i.test(s))fail.push(`${rel}: conteúdo dependente de client-side renderer`);
