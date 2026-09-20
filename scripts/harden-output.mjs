@@ -17,7 +17,8 @@ const bundledStyles=[
   '/assets/css/institutional-premium.css',
   '/assets/css/theme.css'
 ];
-const rxEsc=s=>String(s).replace(/[.*+?^${}()|[\]\\]/g,'\\const styles=['/assets/css/language-switch.css','/assets/css/layout-guardrails.css','/assets/css/mobile-nav-fix.css','/assets/css/institutional-premium.css','/assets/css/theme.css'];');
+const rxEsc=s=>String(s).replace(/[.*+?^${}()|[\]\\]/g,'\\const rxEsc=s=>String(s).replace(/[.*+?^${}()|[\]\\]/g,'\\const styles=['/assets/css/language-switch.css','/assets/css/layout-guardrails.css','/assets/css/mobile-nav-fix.css','/assets/css/institutional-premium.css','/assets/css/theme.css'];');
+');
 
 function bundleCoreStyles(){
   const core=path.join(root,'assets/css/styles.css');
