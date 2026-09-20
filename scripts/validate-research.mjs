@@ -12,7 +12,7 @@ const walk=dir=>!exists(dir)?[]:fs.readdirSync(path.join(root,dir),{withFileType
 const stripFences=text=>text.replace(/^```[^\n]*\n[\s\S]*?^```\s*$/gm,'');
 
 
-function validateEditorialIntegrity(text,file){
+function validateEditorialIntegrity(text,file,item={}){
   const prose=stripFences(text).replace(/https?:\/\/[^\s)\]]+/g,' ');
   const blockers=[
     ['metalinguagem de ferramenta',/\b(?:a|esta|essa)\s+ferramenta(?:\s+p[uú]blica)?\s+(?:usa|registra|mostra|permite|conecta|come[cç]a)\b/i],
@@ -21,11 +21,29 @@ function validateEditorialIntegrity(text,file){
     ['versão de produto dentro da análise',/\b(?:nesta|nessa|in\s+this|for\s+this)\s+(?:primeira\s+|first\s+)?(?:vers[aã]o|version|release)\b/i],
     ['seção de implementação dentro da análise',/^##\s+(?:Implica[cç][aã]o|Implica[cç][oõ]es|Implication|Implications)\s+(?:para|for)\s+(?:o|a|the)?\s*(?:mapa|matriz|ferramenta|rede|sistema|map|matrix|tool|network|system)\b/im],
     ['roadmap editorial dentro da pesquisa',/^##\s+(?:O que deve entrar em seguida|What should enter next)\b/im],
-    ['instrução de manutenção do produto',/\b(?:Atores Estrat[eé]gicos|Strategic Actors)\s+(?:deve\s+ser\s+atualizado|should\s+be\s+updated)\b/i]
+    ['instrução de manutenção do produto',/\b(?:Atores Estrat[eé]gicos|Strategic Actors)\s+(?:deve\s+ser\s+atualizado|should\s+be\s+updated)\b/i],
+    ['agenda editorial dentro da análise',/\b(?:a pr[oó]xima unidade de trabalho|the next unit of work)\b/i],
+    ['produto descrito dentro da própria pesquisa',/\b(?:o resultado [ée] um produto de pesquisa|the result is a different research product)\b/i],
+    ['prescrição editorial em voz institucional',/\bMarginal Thinking\s+(?:deve|should)\b/i]
   ];
   for(const [label,re] of blockers){
     const m=prose.match(re);
     if(m)fail.push(file+': '+label+'; pesquisa publicada deve analisar o objeto, não descrever como construir ou operar o produto (trecho: "'+m[0]+'")');
+  }
+  if(item.kind==='conflict-system'){
+    const toneBlockers=[
+      ['abertura metalinguística',/\b(?:esta|this)\s+(?:avalia[cç][aã]o|assessment|an[aá]lise|analysis|pesquisa|research)\s+(?:reconstr[oó]i|reconstructs|separa|separates|mostra|shows|preserva|preserves)\b/i],
+      ['objetivo explicado ao leitor',/\b(?:o objetivo [ée]|the purpose is)\b/i],
+      ['conclusão anunciada de forma formulaica',/\b(?:a principal conclus[aã]o [ée]|the central finding is)\b/i],
+      ['transição conversacional',/\b(?:a distin[cç][aã]o importa|this distinction matters|uma distin[cç][aã]o [uú]til|one useful distinction|a pergunta correta [ée]|the correct question is|isso n[aã]o significa|that does not mean)\b/i],
+      ['julgamento de enquadramento em voz editorial',/\b(?:esse [ée] o enquadramento adequado|that is the correct frame|o valor anal[ií]tico [ée] outro|their analytical value is different)\b/i],
+      ['comentário sobre monitor ou método em vez do objeto',/\b(?:um monitor s[eé]rio|a serious monitor)\b/i],
+      ['seção editorial interna',/^##\s+(?:Implica[cç][oõ]es para a pesquisa|Research implications)\b/im]
+    ];
+    for(const [label,re] of toneBlockers){
+      const m=prose.match(re);
+      if(m)fail.push(file+': '+label+'; conflito publicado exige prosa institucional e substantiva, sem comentários de bastidor ou instruções ao leitor (trecho: "'+m[0]+'")');
+    }
   }
   const selfRefs=(prose.match(/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|article|report|analysis|assessment)\b/gi)||[]).length;
   if(selfRefs>3)warn.push(file+': excesso de autorreferência editorial ('+selfRefs+'); prefira afirmar a evidência e o mecanismo diretamente');
@@ -61,7 +79,7 @@ function validateCustomBlocks(lines,file){
     if(type==='map'&&!body.some(x=>x.includes('|')||/(?:→|->)/.test(x)))warn.push(`${file}: map sem comparação regional ou rota; conteúdo preservado como notas`);
   }
 }
-function scanMarkdown(file){
+function scanMarkdown(file,item={}){
   const text=read(file),lines=text.replace(/\r/g,'').split('\n');
   if(text.includes('\uFFFD'))fail.push(`${file}: caractere Unicode de substituição (�)`);
   const fences=(text.match(/^```/gm)||[]).length;if(fences%2)fail.push(`${file}: bloco de código sem fechamento`);
@@ -72,7 +90,7 @@ function scanMarkdown(file){
   if(/^\s*\d+[.)]\s+\d+[.)]\s+/m.test(prose))warn.push(`${file}: marcador numérico duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/^\s*[-+*•]\s+[-+*•]\s+/m.test(prose))warn.push(`${file}: marcador de lista duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(text))fail.push(`${file}: referência binária proibida`);
-  validateEditorialIntegrity(text,file);
+  validateEditorialIntegrity(text,file,item);
   validateTables(lines,file);validateCustomBlocks(lines,file);
 }
 
@@ -163,7 +181,7 @@ for(const item of reports){
     const v=reportView(item,locale),md=localPath(v?.markdown_url);
     if(!md||!exists(md))fail.push(`${item.id}/${locale}: Markdown ausente (${md||'sem caminho'})`);
     else{
-      scanMarkdown(md);
+      scanMarkdown(md,item);
       visualTexts[locale]=read(md);
       for(const issue of visualIssues(visualTexts[locale],item,`${item.id}/${locale}`))fail.push(issue);
     }
