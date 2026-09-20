@@ -38,6 +38,7 @@ function optimizeHeadAssets(html){
     out=out.replace(rx,'');
   }
   out=out.replace(/<script\s+src="\/assets\/js\/app\.js"\s*><\/script>/gi,'<script defer src="/assets/js/app.js"></script>');
+  out=out.replace(/<link\s+href="(https:\/\/fonts\.googleapis\.com\/css2\?[^"]+)"\s+rel="stylesheet">/gi,(all,href)=>`<link rel="preload" as="style" href="${href}"><link rel="stylesheet" href="${href}" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="${href}"></noscript>`);
   if(out.includes('data-research-visual=')){
     if(!out.includes('href="/assets/css/research-visuals.css"'))out=out.replace('</head>','<link rel="stylesheet" href="/assets/css/research-visuals.css"></head>');
     if(!out.includes('src="/assets/js/research-visuals.js"'))out=out.replace('</body>','<script type="module" src="/assets/js/research-visuals.js"></script></body>');
