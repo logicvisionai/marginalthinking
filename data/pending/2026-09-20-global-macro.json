@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-20",
+  "slug": "2026-09-20-global-macro",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T00:06:23-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-20-global-macro/en.md",
+      "title": "Global Macro — September 20, 2026",
+      "deck": "Lower oil is easing the immediate inflation shock, but a near-5% U.S. 10-year yield, defensive fund flows and a weak Chinese credit-demand channel keep global financing conditions restrictive as U.S.-China talks move AI and rare earths into the near-term calendar.",
+      "tags": ["global-macro", "markets", "monetary-policy", "China", "energy"],
+      "keywords": ["Federal Reserve", "Treasuries", "China LPR", "U.S.-China trade", "AI", "rare earths", "oil", "gold", "fund flows", "Brazil"],
+      "regime": "Selective equity resilience inside restrictive global financing conditions, with lower oil offset by high long yields and defensive fund flows.",
+      "key_risk": "Markets may treat lower oil and diplomatic engagement as normalization before Gulf logistics, long-term financing costs and U.S.-China technology and trade rules materially improve.",
+      "watch": ["U.S.-China Bessent-He meeting outcomes", "U.S. 10-year Treasury around 5%", "2s30s Treasury slope", "Brent around $100–105/bbl", "gold versus U.S. real yields", "U.S. equity breadth and fund flows", "China credit demand after unchanged LPRs", "Brazilian long-end rates versus Selic"],
+      "search_text": "Global macro September 20 2026 Treasury yields China LPR U.S. China Bessent He AI rare earths oil gold fund flows Brazil markets."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-20-global-macro/pt-BR.md",
+      "title": "Global Macro — 20 de setembro de 2026",
+      "deck": "Petróleo mais baixo reduz o choque inflacionário imediato, mas Treasury de 10 anos perto de 5%, fluxos defensivos e demanda fraca por crédito na China mantêm as condições globais de financiamento restritivas enquanto as negociações EUA-China colocam IA e terras raras no calendário de curto prazo.",
+      "tags": ["global-macro", "mercados", "politica-monetaria", "China", "energia"],
+      "keywords": ["Federal Reserve", "Treasuries", "LPR China", "comércio EUA-China", "IA", "terras raras", "petróleo", "ouro", "fluxos de fundos", "Brasil"],
+      "regime": "Resistência seletiva das ações dentro de condições globais de financiamento restritivas, com petróleo mais baixo contraposto por juros longos elevados e fluxos defensivos.",
+      "key_risk": "Os mercados podem interpretar petróleo mais baixo e diálogo diplomático como normalização antes de logística do Golfo, custos de financiamento de longo prazo e regras tecnológicas e comerciais entre EUA e China melhorarem de forma material.",
+      "watch": ["Resultados da reunião Bessent-He", "Treasury de 10 anos perto de 5%", "inclinação 2–30 anos dos Treasuries", "Brent em torno de US$ 100–105/barril", "ouro versus juros reais dos EUA", "participação interna e fluxos das ações americanas", "demanda chinesa por crédito após LPRs inalteradas", "juros longos brasileiros versus Selic"],
+      "search_text": "Global macro 20 setembro 2026 Treasuries China LPR EUA China Bessent He IA terras raras petróleo ouro fluxos Brasil mercados."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "sovereign-debt", "currencies", "trade-investment", "energy", "commodities-resources", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+  "format": "brief",
+  "cadence": "daily"
+}
