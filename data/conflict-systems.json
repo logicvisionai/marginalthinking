@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "methodology_version": "2026-09-20",
+  "updated_at": "2026-09-20",
+  "title": {
+    "en": "Marginal Thinking Conflict Systems",
+    "pt-BR": "Sistemas de Conflito da Marginal Thinking"
+  },
+  "description": {
+    "en": "Machine-readable conflict-system objects linking long-horizon genealogy, countries, collective perceptions, material capacity, interpretive sources, socioeconomic transmission and escalation pathways.",
+    "pt-BR": "Objetos legíveis por máquina que conectam genealogia de longo prazo, países, percepções coletivas, capacidade material, fontes interpretativas, transmissão socioeconômica e trajetórias de escalada."
+  },
+  "methodological_rules": [
+    "Separate legal responsibility, observed facts, actor claims, analytical inference and conditional scenarios.",
+    "Treat country, government, elite coalition, institution, armed actor and population as distinct objects.",
+    "Use collective psychology only through observable evidence such as surveys, historical memory, identity, trust, threat perception and strategic narratives; do not diagnose leaders.",
+    "Store renowned thinkers, diplomats and scholars as attributed interpretive sources whose arguments can change over time; prestige is not evidence.",
+    "Do not publish a precise probability of generalized war unless an empirically defensible probability model exists.",
+    "Every material analytical proposition should preserve counterevidence, an alternative explanation and a falsifier."
+  ],
+  "country_dossier_schema": [
+    "state-formation-borders-constitutional-development",
+    "historical-memory-national-narratives",
+    "political-institutions-coalitions-state-capacity",
+    "political-economy-ownership-fiscal-distribution",
+    "macroeconomics-debt-inflation-external-accounts-finance",
+    "industry-energy-infrastructure-logistics-strategic-resources",
+    "demography-migration-regional-inequality-labor-human-capital",
+    "language-religion-ethnicity-when-material",
+    "civil-society-media-trust-public-opinion",
+    "defence-institutions-force-structure-mobilisation-procurement-industry",
+    "alliances-treaties-dependencies-strategic-exposure",
+    "conflict-costs-casualties-displacement-households-public-services-reconstruction",
+    "stated-objectives-attributed-objectives-evidence-and-constraints"
+  ],
+  "interpretation_schema": [
+    "author",
+    "context",
+    "date",
+    "work",
+    "source_url",
+    "interpretation_class",
+    "central_proposition",
+    "causal_mechanism",
+    "assumptions",
+    "counterarguments",
+    "later_evidence",
+    "position_change"
+  ],
+  "escalation_domains": [
+    "conventional-force-posture",
+    "geographic-expansion-of-operations",
+    "alliance-consultation-readiness-deployment",
+    "nuclear-doctrine-signalling-force-posture",
+    "diplomatic-and-military-communication",
+    "arms-control-and-risk-reduction",
+    "defence-industrial-mobilisation",
+    "sanctions-export-controls-economic-coercion",
+    "cyber-space-critical-infrastructure",
+    "public-and-elite-expectations",
+    "containment-and-de-escalation-mechanisms"
+  ],
+  "systems": [
+    {
+      "id": "europe-russia-ukraine-security-system",
+      "evidence_cutoff": "2026-09-20",
+      "status": "active",
+      "report_id": "MT-CS-2026-09-20-EUR-RU-UA",
+      "canonical_path": "/reports/2026/09/2026-09-20-europe-russia-ukraine-security-system.html",
+      "title": {
+        "en": "Europe–Russia–Ukraine security system",
+        "pt-BR": "Sistema de segurança Europa–Rússia–Ucrânia"
+      },
+      "countries": [
+        "UA",
+        "RU",
+        "US",
+        "DE",
+        "PL",
+        "FR",
+        "GB"
+      ],
+      "genealogy": [
+        {
+          "date": "1991",
+          "event": "Ukrainian independence and formal NATO relations",
+          "class": "institutional"
+        },
+        {
+          "date": "1994-12-05",
+          "event": "Budapest Memorandum signed in connection with Ukraine's NPT accession",
+          "class": "treaty-security-assurance"
+        },
+        {
+          "date": "1997-05-27",
+          "event": "NATO–Russia Founding Act",
+          "class": "institutional"
+        },
+        {
+          "date": "2008-04-03",
+          "event": "Bucharest Summit declaration says Ukraine and Georgia will become NATO members",
+          "class": "alliance-policy"
+        },
+        {
+          "date": "2010-11-20",
+          "event": "NATO Lisbon declaration respects Ukraine's non-bloc status while maintaining the open-door policy",
+          "class": "alliance-policy"
+        },
+        {
+          "date": "2014",
+          "event": "Crimea annexed by Russia and war begins in Donbas",
+          "class": "territorial-armed-conflict"
+        },
+        {
+          "date": "2022-02-24",
+          "event": "Russia launches full-scale invasion of Ukraine",
+          "class": "armed-conflict"
+        },
+        {
+          "date": "2025-06",
+          "event": "NATO Hague commitment institutionalizes a higher long-run defence-investment path",
+          "class": "alliance-capacity"
+        },
+        {
+          "date": "2026",
+          "event": "European defence spending and industrial planning remain on a higher trajectory",
+          "class": "political-economy"
+        }
+      ],
+      "evidence_anchors": [
+        {
+          "id": "budapest-1994",
+          "class": "primary-document",
+          "source_url": "https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280401fbb"
+        },
+        {
+          "id": "nato-russia-founding-act-1997",
+          "class": "primary-document",
+          "source_url": "https://www.nato.int/cps/en/natohq/official_texts_25470.htm?selectedLocale=en"
+        },
+        {
+          "id": "bucharest-2008",
+          "class": "primary-document",
+          "source_url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2008/04/03/bucharest-summit-declaration"
+        },
+        {
+          "id": "lisbon-2010",
+          "class": "primary-document",
+          "source_url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2010/11/20/lisbon-summit-declaration"
+        },
+        {
+          "id": "un-es-11-1",
+          "class": "primary-document",
+          "source_url": "https://digitallibrary.un.org/record/3965290/"
+        },
+        {
+          "id": "eda-2026",
+          "class": "institutional-data",
+          "source_url": "https://eda.europa.eu/news-and-events/news/2026/07/16/eu-defence-spending---418-billion-in-2025--projected-to--454-billion-in-2026"
+        },
+        {
+          "id": "world-bank-rdna5",
+          "class": "institutional-data",
+          "source_url": "https://www.worldbank.org/en/news/press-release/2026/02/23/updated-ukraine-recovery-and-reconstruction-needs-assessment-released"
+        },
+        {
+          "id": "eurostat-temporary-protection-2026-07",
+          "class": "official-statistics",
+          "source_url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260910-1"
+        },
+        {
+          "id": "kiis-2026-08",
+          "class": "public-opinion",
+          "source_url": "https://www.kiis.com.ua/?cat=reports&id=1626&lang=eng&page=1"
+        },
+        {
+          "id": "levada-2026-05",
+          "class": "public-opinion",
+          "source_url": "https://www.levada.ru/2026/06/09/konflikt-s-ukrainoi-v-mae-2026-goda/"
+        }
+      ],
+      "interpretive_sources": [
+        {
+          "id": "kissinger-2014-ukraine",
+          "author": "Henry Kissinger",
+          "context": "Former U.S. Secretary of State; practitioner interpretation",
+          "date": "2014-03-05",
+          "work": "How the Ukraine crisis ends",
+          "source_url": "https://www.washingtonpost.com/opinions/henry-kissinger-to-settle-the-ukraine-crisis-start-at-the-end/2014/03/05/46dad868-a496-11e3-8466-d34c451760b9_story.html",
+          "interpretation_class": "practitioner-view",
+          "central_proposition": "Ukraine should function as a bridge between Russia and the West rather than as an outpost of either side; at that time Kissinger opposed Ukrainian NATO membership.",
+          "causal_mechanism": "A balance accepted by both Russia and the West would reduce zero-sum competition over Ukraine.",
+          "assumptions": [
+            "A viable neutral or bridging Ukrainian position remains institutionally and politically sustainable."
+          ],
+          "counterarguments": [
+            "Ukrainian sovereign preferences and later coercion can change the feasibility and legitimacy of neutrality."
+          ],
+          "later_evidence": "The 2022 full-scale invasion substantially changed the strategic environment.",
+          "position_change": "By January 2023 Kissinger publicly argued that Ukrainian NATO membership had become an appropriate outcome."
+        },
+        {
+          "id": "kissinger-world-order",
+          "author": "Henry Kissinger",
+          "context": "Diplomatic and historical interpretation",
+          "date": "2014",
+          "work": "World Order",
+          "source_url": "https://www.penguinrandomhouse.com/books/316669/world-order-by-henry-kissinger/",
+          "interpretation_class": "book-theoretical-lens",
+          "central_proposition": "Durable international order depends on a workable relationship between power and conceptions of legitimate order.",
+          "causal_mechanism": "Orders become unstable when major actors do not share sufficient rules or legitimacy while power balances also shift.",
+          "assumptions": [
+            "Concepts of legitimacy and power both materially shape state behavior."
+          ],
+          "counterarguments": [
+            "The framework can understate domestic politics, smaller-state agency and legal responsibility if applied too broadly."
+          ],
+          "later_evidence": "Used as an interpretive lens rather than as case-specific proof.",
+          "position_change": null
+        },
+        {
+          "id": "sarotte-not-one-inch",
+          "author": "M. E. Sarotte",
+          "context": "Historian; archival and interview-based research",
+          "date": "2021",
+          "work": "Not One Inch",
+          "source_url": "https://yalebooks.yale.edu/book/9780300263350/not-one-inch/",
+          "interpretation_class": "historical-scholarship",
+          "central_proposition": "Post-Cold War choices over NATO enlargement and U.S.–Russian relations were contingent and accumulated through specific decisions rather than following an inevitable path.",
+          "causal_mechanism": "Institutional choices, bargaining positions and missed opportunities altered expectations and narrowed later options.",
+          "assumptions": [
+            "Archival sequencing can illuminate how the security order evolved."
+          ],
+          "counterarguments": [
+            "Institutional history alone cannot explain later Russian military decisions, Ukrainian domestic agency or all ideological change."
+          ],
+          "later_evidence": "The 2022 invasion makes the earlier institutional sequence more consequential but does not by itself resolve causal weighting.",
+          "position_change": null
+        }
+      ],
+      "socioeconomic_transmission": [
+        "war-destruction-displacement-reconstruction",
+        "defence-spending-industrial-capacity-fiscal-tradeoffs",
+        "sanctions-trade-energy-substitution-new-dependencies",
+        "migration-housing-schools-labor-municipal-finance",
+        "rearmament-skilled-labor-materials-electronics-energy-logistics",
+        "security-risk-capital-allocation-investment-financing"
+      ],
+      "escalation_monitor": {
+        "model": "domain-based-observations",
+        "probability_of_general_war": null,
+        "rule": "Do not infer a probability from the composite display. Track changes by domain with source, date, direction, uncertainty and containment mechanisms.",
+        "domains": [
+          "conventional-force-posture",
+          "alliance-consultation-readiness-deployment",
+          "nuclear-doctrine-signalling-force-posture",
+          "diplomatic-and-military-communication",
+          "arms-control-and-risk-reduction",
+          "defence-industrial-mobilisation",
+          "sanctions-export-controls-economic-coercion",
+          "cyber-space-critical-infrastructure",
+          "public-and-elite-expectations",
+          "containment-and-de-escalation-mechanisms"
+        ]
+      },
+      "falsifiers": [
+        "A sustained political settlement with credible implementation that materially reduces Russia–NATO operational contact.",
+        "Restoration of durable arms-control and military risk-reduction mechanisms.",
+        "A sustained reversal of defence-industrial and force-planning assumptions across major European states.",
+        "Comparable longitudinal evidence showing significant declines in Russian and Ukrainian threat perceptions.",
+        "An institutional arrangement that reconciles Ukrainian sovereignty and security with a stable wider European security framework."
+      ]
+    }
+  ]
+}
