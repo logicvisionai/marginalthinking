@@ -1,74 +1,67 @@
 {
   "schema_version": 2,
   "id": "MT-GM-2026-09-20",
-  "revision": 0,
+  "revision": 1,
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-20T00:09:23-03:00",
-  "reviewed_commit": "592421fc78b6553ecc35c6906c9f30912463dc06",
-  "pending_blob_sha": "8c09f899fea4dbb5c86eaf6ec868f3b0af8d6f5b",
+  "reviewed_at": "2026-09-20T00:14:13-03:00",
+  "reviewed_commit": "c97a3032d9f2de165f278a54be5a09d54c1b9cce",
+  "pending_blob_sha": "7a24bd457407d408a7879a3a0a12f37b2fd50e87",
   "source_blob_shas": {
-    "en": "25e58fd161ec88bf0187fc4e29b6d1c03e8153b6",
-    "pt-BR": "230ee9a6724f62207f7b8ec1de111dc3cd8a566b"
+    "en": "fc7259d8ada1b5a0d40f9f3a0b802bcfecff8544",
+    "pt-BR": "bc0f93bab9950b02bab2cea981cfd44eaf53b2b5"
   },
   "program": "political-economy-markets",
   "confidence": "high",
   "taxonomy_check": "passed",
-  "translation_check": "passed-for-reviewed-errors",
+  "translation_check": "passed",
   "blocking_issues": [
     {
-      "type": "factual-market-data",
-      "location": "Opening paragraph; What changed since the previous edition; signal table; Treasury chart; PT-BR equivalents",
-      "issue": "The report attributes 4.67% (2Y), 4.94% (10Y) and 5.29% (30Y) to the official U.S. Treasury September 18 close. The Treasury's Daily Treasury Par Yield Curve Rates for 2026 instead show September 18 values of 4.24% (2Y), 4.93% (10Y) and 5.34% (30Y). Because these values anchor the report's central financing-conditions thesis and an explicit chart, the mismatch is publication-blocking.",
+      "type": "editorial-publication-readiness",
+      "location": "EN: 'What changed since the previous edition', third bullet, and 'Lower oil reduces one pressure...', first paragraph; PT-BR: 'O que mudou desde a edição anterior', terceiro bullet, and 'Petróleo mais baixo reduz uma pressão...', primeiro parágrafo",
+      "issue": "The revised public-facing copy explicitly refers to the internal QA/rework history ('materially steeper than the rejected draft implied', 'after correcting the official curve', and PT-BR equivalents 'mais inclinada do que indicava a versão rejeitada' / 'após a correção da curva oficial'). This exposes process scars to the reader and violates the publication-readiness rule that QA history and revision mechanics must not appear in public research when the analytical point can be stated directly.",
       "evidence": [
-        "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve"
-      ]
-    },
-    {
-      "type": "factual-market-data",
-      "location": "Opening paragraph; What changed since the previous edition; signal table; PT-BR equivalents",
-      "issue": "The report states Brent closed Friday at $103.87/bbl. Reuters' September 18 market report gives Brent's Friday close as $104.87/bbl and WTI at $100.30/bbl. The Brent figure must be reconciled against the exact instrument, timestamp and settlement/close convention before publication.",
-      "evidence": [
-        "https://www.reuters.com/business/energy/oil-prices-fall-1-hopes-limited-supply-disruptions-2026-09-18/"
+        "staging/research/2026/09/2026-09-20-global-macro/en.md",
+        "staging/research/2026/09/2026-09-20-global-macro/pt-BR.md",
+        "EDITORIAL-STYLE.md",
+        "RESEARCH-PUBLISHING.md"
       ]
     }
   ],
   "required_fixes": [
-    "Re-open the primary U.S. Treasury September 18 yield-curve release and replace all affected 2Y/10Y/30Y values, interpretations and the chart in EN and PT-BR; do not mix Treasury par-yield data with a different market quote series without naming the series and timestamp.",
-    "Re-verify Brent against the intended settlement/close series and correct the opening, delta list, table and PT-BR edition consistently; identify the exact instrument and close convention.",
-    "After correcting the central market data, re-check every downstream inference that relies on the Treasury curve or oil level, including the 2s30s characterization, long-duration financing language, cross-asset divergence, scenarios and watch list.",
-    "Preserve the current visual structure only after the underlying values are corrected. The brief meets the minimum visual-count floor, but the Treasury chart is presently factually invalid and therefore fails visual-evidence readiness.",
-    "Re-run bilingual parity after factual correction so numbers, units, epistemic status and conclusions remain equivalent."
+    "Remove all references to the rejected draft, correction process and QA history from both public-language editions. State the current analytical result directly, e.g. that the September 18 2s30s par-yield slope is about +110 bp and that the corrected curve implies a lower front end but still-high long yields, without mentioning prior errors or revisions.",
+    "Search both staged editions for any remaining process/meta-QA language and remove it while preserving the now-correct figures, causal interpretation and bilingual semantic parity.",
+    "Do not change the verified Treasury values (2Y 4.24%, 10Y 4.93%, 30Y 5.34%), Brent $104.87/bbl, WTI $100.30/bbl or downstream factual conclusions unless new evidence requires a factual revision; if any material claim changes, re-open factual validation rather than treating it as editorial-only."
   ],
   "taxonomy_issues": [],
   "checks": {
     "schema_and_pipeline": "passed",
     "taxonomy": "passed",
-    "factual_accuracy": "failed",
-    "methodology": "failed-on-market-series-binding",
-    "translation": "paired editions reproduce the same blocking numerical errors; full approval withheld",
+    "factual_accuracy": "passed-for-prior-blockers-and-sampled-current-claims",
+    "methodology": "passed",
+    "translation": "passed; the blocking meta-QA language is reproduced semantically in both locales",
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "The opening is direct and the analytical headings are generally informative, but publication readiness fails because incorrect central market observations are repeated across opening, body, table and visual. This is not a cosmetic defect."
+      "summary": "Opening, analytical progression, headings and localization are otherwise publication-grade, but two passages expose the rejected-version/correction process directly to readers. The defect is explicitly blocking under the editorial gate, not cosmetic."
     },
     "contextual_depth": {
       "result": "passed-with-limitations",
-      "summary": "The draft connects monetary conditions, China credit demand, U.S.-China technology/trade policy, Gulf supply risk and Brazilian fiscal/monetary transmission without requiring an ornamental historical section. Current claims still require external verification."
+      "summary": "The report connects monetary conditions, Chinese balance-sheet constraints, U.S.-China trade/technology channels, Gulf supply risk, Japan and Brazil through identifiable transmission mechanisms."
     },
     "visual_evidence_readiness": {
-      "result": "failed",
+      "result": "passed",
       "signature": ["markdown-table", "bar-chart", "mindmap", "multi-chain-flow"],
-      "summary": "The brief exceeds the minimum visual-count floor and EN/PT-BR structures are semantically aligned, but the Treasury bar chart encodes incorrect September 18 official Treasury values, making the visual materially misleading until corrected."
+      "summary": "The brief exceeds the visual floor. The Treasury chart now uses 4.24%, 4.93% and 5.34%, matches both locales and is dimensionally coherent; structural visuals correspond to mechanisms defended in the prose."
     },
-    "conflict_security_social_change": "applied; Gulf supply/security claims are framed as risk/transmission rather than established structural normalization",
-    "institutional_consensus": "applied where fund-flow evidence is discussed; flows are not treated as proprietary house positioning"
+    "conflict_security_social_change": "passed-with-limitations; Gulf security/supply effects are framed conditionally and linked to observable logistics/export-capacity channels",
+    "institutional_consensus": "passed for the uses present; fund flows are treated as flow evidence rather than proprietary institutional positioning"
   },
   "contrary_evidence": [
-    "U.S. large-cap equity resilience and positive technology performance remain evidence against reading high sovereign yields as uniformly restrictive for listed corporate risk assets.",
-    "Lower oil prices reduce part of the immediate inflation impulse even though Gulf logistics and security risks remain material."
+    "U.S. large-cap equity resilience and positive technology performance remain evidence against treating high sovereign yields as uniformly restrictive for listed corporate risk assets.",
+    "Lower oil prices reduce part of the immediate inflation impulse even while Gulf logistics and security risks remain material."
   ],
   "limitations": [
-    "Several real-time market, ETF-flow and fund-flow observations rely on first-line market reporting rather than directly opened primary datasets.",
-    "The rejection is driven by independently verified central numerical discrepancies; remaining claims should be revalidated by the producer after those corrections because downstream interpretation may change."
+    "Several real-time market, ETF-flow and fund-flow observations rely on Reuters/LSEG or other first-line reporting rather than directly opened primary datasets.",
+    "This revision was rechecked against fresh reporting for China LPRs, the Bessent-He meeting, global/U.S. equity-fund flows, the BOJ decision and Brazil's Selic; the prior Treasury and oil blockers are corrected."
   ],
-  "notes": "No approval was created. The item remains non-public. Rework must retain the same ID and slug and return a changed pending/source SHA set for a new QA pass."
+  "notes": "No approval was created. The item remains non-public. Revision 1 fixes the prior factual blockers but fails the separate editorial publication-readiness gate because internal QA/rework history remains visible in public prose. Return the same ID/slug with changed source and pending SHAs after removing the process scars."
 }
