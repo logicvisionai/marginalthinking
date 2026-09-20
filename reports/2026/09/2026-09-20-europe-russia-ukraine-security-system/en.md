@@ -65,9 +65,9 @@ Five interpretive families explain different dimensions of the same historical t
 
 M. E. Sarotte's *Not One Inch* is particularly useful for the fourth lens because it reconstructs the 1990s from archival material and interviews, showing how the United States, NATO and Russia moved from potential partnership toward stalemate. Its value is not that it supplies a single verdict, but that it makes the sequencing of choices harder to compress into slogans.
 
-Henry Kissinger's position on Ukraine changed materially over the course of the conflict. In a 2014 Washington Post essay, he argued that Ukraine should function as a bridge rather than an outpost of either side and opposed Ukrainian NATO membership. By January 2023, after the full-scale invasion, he publicly said that Ukrainian NATO membership had become an appropriate outcome because a neutral Ukraine was no longer meaningful in the same way. The change is analytically valuable: an interpretation based on balance and order can change when the underlying strategic environment changes.
+Henry Kissinger's position on Ukraine changed materially over the course of the conflict. In a 2014 Washington Post essay, he argued that Ukraine should function as a bridge rather than an outpost of either side and opposed Ukrainian NATO membership. By January 2023, after the full-scale invasion, he publicly said that Ukrainian NATO membership had become an appropriate outcome because a neutral Ukraine was no longer meaningful in the same way. The shift followed a material change in the strategic environment: the full-scale invasion reduced the political and military viability of the neutrality Kissinger had defended in 2014.
 
-Kissinger's *World Order* provides a broader lens. Its central concern is that different political traditions carry different ideas of legitimate order and that a stable system requires some relationship between power and accepted rules. Applied to European security, this raises a question rather than supplying an answer: can an order remain stable when major actors disagree not only about interests but about who has legitimate authority to define security arrangements?
+Kissinger's *World Order* provides a broader lens. One of its central concerns is the coexistence of different conceptions of legitimate order and the need for some compatibility between the distribution of power and accepted rules. In European security, this lens directs attention to the conflict among sovereignty, expectations of regional influence and competing views about legitimate authority over security arrangements.
 
 ## Political psychology: collective perceptions and measurable attitudes
 
@@ -146,7 +146,7 @@ The World Bank, the Government of Ukraine, the European Commission and the Unite
 
 Displacement is equally structural. Eurostat reported 4.43 million non-EU citizens who had fled Ukraine and held temporary-protection status in the EU at the end of July 2026. Germany hosted about 1.29 million and Poland about 953,000. Almost 29.4% of beneficiaries were minors.
 
-Ukrainian displacement affects more than humanitarian budgets: it reaches labor supply, schools, housing, municipal finance, language services, integration policy, remittances, demographics and the future conditions of return and reconstruction. Germany and Poland are therefore not merely external supporters of Ukraine; their domestic social systems are part of the war's transmission mechanism.
+Ukrainian displacement affects more than humanitarian budgets: it reaches labor supply, schools, housing, municipal finance, language services, integration policy, remittances, demographics and the future conditions of return and reconstruction. The domestic social systems of Germany and Poland form part of the war's transmission mechanism through labor markets, housing, education, municipal finance and integration policy.
 
 ```flow
 Full-scale war → destruction and insecurity → displacement + reconstruction needs → European housing, schools, labor markets and fiscal systems → political and social adaptation
