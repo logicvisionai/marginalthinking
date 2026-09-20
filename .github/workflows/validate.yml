@@ -60,6 +60,13 @@ jobs:
           test -f dist/pt-br/data/index.html
           test -f dist/data/global-dependencies/index.html
           test -f dist/pt-br/data/global-dependencies/index.html
+          test -f dist/what-is-marginal-thinking/index.html
+          test -f dist/pt-br/what-is-marginal-thinking/index.html
+          grep -q 'What is Marginal Thinking?' dist/what-is-marginal-thinking/index.html
+          grep -q 'O que é Marginal Thinking?' dist/pt-br/what-is-marginal-thinking/index.html
+          test -f dist/actors/blackrock/index.html
+          test -f dist/pt-br/actors/blackrock/index.html
+          grep -q 'mainEntity' dist/actors/blackrock/index.html
           grep -q '"@type":"Dataset"' dist/data/global-dependencies/index.html
           grep -q 'DataDownload' dist/data/global-dependencies/index.html
           test -f dist/data/research-intelligence.json
