@@ -47,6 +47,28 @@ jobs:
           test -f dist/regions/index.html
           test -f dist/research/coverage/index.html
           test -f dist/pt-br/research/coverage/index.html
+          test -f dist/research/hubs/index.html
+          test -f dist/pt-br/research/hubs/index.html
+          test -f dist/research/global-macro/index.html
+          test -f dist/pt-br/research/global-macro/index.html
+          test -f dist/research/global-macro/2026/index.html
+          test -f dist/pt-br/research/global-macro/2026/index.html
+          grep -q 'mainEntity' dist/research/global-macro/index.html
+          grep -q 'ItemList' dist/research/global-macro/index.html
+          grep -R -q 'research-hub-link' dist/reports
+          test -f dist/data/index.html
+          test -f dist/pt-br/data/index.html
+          test -f dist/data/global-dependencies/index.html
+          test -f dist/pt-br/data/global-dependencies/index.html
+          test -f dist/what-is-marginal-thinking/index.html
+          test -f dist/pt-br/what-is-marginal-thinking/index.html
+          grep -q 'What is Marginal Thinking?' dist/what-is-marginal-thinking/index.html
+          grep -q 'O que é Marginal Thinking?' dist/pt-br/what-is-marginal-thinking/index.html
+          test -f dist/actors/blackrock/index.html
+          test -f dist/pt-br/actors/blackrock/index.html
+          grep -q 'mainEntity' dist/actors/blackrock/index.html
+          grep -q '"@type":"Dataset"' dist/data/global-dependencies/index.html
+          grep -q 'DataDownload' dist/data/global-dependencies/index.html
           test -f dist/data/research-intelligence.json
           test -f dist/data/search-index.json
           test -f dist/data/mcp-catalog.json
@@ -115,10 +137,17 @@ jobs:
           grep -q '.semantic-chip,.chips a,.tags a.tag' dist/assets/css/discovery.css
           grep -q '/mcp-docs/' dist/index.html
           grep -q '/pt-br/mcp-docs/' dist/pt-br/index.html
-          grep -q 'https://www.marginalthinking.org/mcp' dist/mcp-docs/index.html
-          grep -q 'https://www.marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
-          grep -q '<loc>https://www.marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
-          grep -q '<loc>https://www.marginalthinking.org/pt-br/mcp-docs/</loc>' dist/sitemap.xml
+          grep -q 'https://marginalthinking.org/mcp' dist/mcp-docs/index.html
+          grep -q 'https://marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
+          grep -q '<loc>https://marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://marginalthinking.org/pt-br/mcp-docs/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://marginalthinking.org/research/global-macro/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://marginalthinking.org/pt-br/research/global-macro/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://marginalthinking.org/data/global-dependencies/</loc>' dist/sitemap.xml
+          grep -q '<loc>https://marginalthinking.org/pt-br/data/global-dependencies/</loc>' dist/sitemap.xml
+          ! grep -R -q 'https://www.marginalthinking.org' dist --include='*.html' --include='*.xml' --include='*.json' --include='*.txt'
+          grep -q '"mainEntity"' dist/authors/christian-rafael-de-souza-silva/index.html
+          grep -q '#person' dist/authors/christian-rafael-de-souza-silva/index.html
           ! grep -R -q '/mcp.html' dist --include='*.html' --include='*.xml' --include='*.json'
           node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1); const en=x.locales.en.find(i=>i.id==='page:mcp'); const pt=x.locales['pt-BR'].find(i=>i.id==='page:mcp'); if(!en||!pt||en.url!=='/mcp-docs/'||pt.url!=='/pt-br/mcp-docs/') process.exit(1)"
           node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"

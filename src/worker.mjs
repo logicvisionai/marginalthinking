@@ -3,7 +3,8 @@ import {createMcpHandler} from 'agents/mcp/server';
 import {z} from 'zod';
 
 const MCP_ROUTE = '/mcp';
-const ALLOWED_HOSTS = ['marginalthinking.org', 'www.marginalthinking.org'];
+const CANONICAL_HOST = 'marginalthinking.org';
+const ALLOWED_HOSTS = [CANONICAL_HOST, `www.${CANONICAL_HOST}`];
 const TOOL_ANNOTATIONS = {
   readOnlyHint: true,
   destructiveHint: false,
@@ -423,6 +424,13 @@ function createServer(env, requestUrl) {
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
+    if (ALLOWED_HOSTS.includes(url.hostname.toLowerCase()) && (url.hostname.toLowerCase() !== CANONICAL_HOST || url.protocol !== 'https:')) {
+      const canonical = new URL(request.url);
+      canonical.protocol = 'https:';
+      canonical.hostname = CANONICAL_HOST;
+      canonical.port = '';
+      return Response.redirect(canonical.toString(), 308);
+    }
     if (url.pathname === `${MCP_ROUTE}/`) {
       url.pathname = MCP_ROUTE;
       return Response.redirect(url.toString(), 308);

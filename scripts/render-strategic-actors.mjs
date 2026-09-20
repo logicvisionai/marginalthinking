@@ -66,9 +66,31 @@ function dossiers(locale){
   const pt=locale==='pt-BR';
   return data.actors.map(a=>{
     const rs=data.relations.filter(r=>r.actor===a.id),research=[...new Set([...(a.research_ids||[]),...rs.flatMap(r=>r.research_ids||[])])];
-    return '<article class="actor-dossier" id="actor-'+esc(a.id)+'"><div class="actor-dossier-head"><div><span class="actor-class">'+esc(pick(data.actor_classes[a.class],locale))+'</span><h3>'+esc(pick(a.label,locale))+'</h3><p class="actor-legal">'+esc(a.legal_name)+' · '+esc(a.jurisdiction)+'</p></div><div class="actor-scale"><span>'+(pt?'Escala observada':'Observed scale')+'</span><strong>'+esc(pick(a.scale,locale))+'</strong></div></div><p class="actor-description">'+esc(pick(a.description,locale))+'</p><div class="actor-capabilities">'+rs.map(r=>'<span>'+esc(pick(data.channels[r.channel],locale))+'</span>').join('')+'</div><div class="actor-limit"><strong>'+(pt?'Limite da interpretação':'Interpretive limit')+'</strong><p>'+esc(pick(a.limits,locale))+'</p></div><div class="actor-research"><strong>'+(pt?'Pesquisa que sustenta o registro':'Supporting research')+'</strong>'+researchLinks(research,locale)+'</div></article>';
+    return '<article class="actor-dossier" id="actor-'+esc(a.id)+'"><div class="actor-dossier-head"><div><span class="actor-class">'+esc(pick(data.actor_classes[a.class],locale))+'</span><h3><a href="'+pagePath(locale,'/actors/'+a.id+'/')+'">'+esc(pick(a.label,locale))+'</a></h3><p class="actor-legal">'+esc(a.legal_name)+' · '+esc(a.jurisdiction)+'</p></div><div class="actor-scale"><span>'+(pt?'Escala observada':'Observed scale')+'</span><strong>'+esc(pick(a.scale,locale))+'</strong></div></div><p class="actor-description">'+esc(pick(a.description,locale))+'</p><div class="actor-capabilities">'+rs.map(r=>'<span>'+esc(pick(data.channels[r.channel],locale))+'</span>').join('')+'</div><div class="actor-limit"><strong>'+(pt?'Limite da interpretação':'Interpretive limit')+'</strong><p>'+esc(pick(a.limits,locale))+'</p></div><div class="actor-research"><strong>'+(pt?'Pesquisa que sustenta o registro':'Supporting research')+'</strong>'+researchLinks(research,locale)+'</div></article>';
   }).join('');
 }
+
+function actorEntityPage(locale,a){
+  const L=layout(locale),pt=locale==='pt-BR',canonical=pagePath(locale,'/actors/'+a.id+'/');
+  const alts=Object.fromEntries(locales.map(l=>[l,pagePath(l,'/actors/'+a.id+'/')]));
+  const title=pick(a.label,locale),description=pick(a.description,locale),relations=data.relations.filter(r=>r.actor===a.id);
+  const research=[...new Set([...(a.research_ids||[]),...relations.flatMap(r=>r.research_ids||[])])];
+  const entity={
+    '@context':'https://schema.org',
+    '@type':'Organization',
+    '@id':site+canonical+'#organization',
+    name:title,
+    legalName:a.legal_name,
+    url:site+canonical,
+    description,
+    subjectOf:research.map(id=>{const r=reportById.get(id);if(!r)return null;const b=bestView(r,locale);return{'@type':'ScholarlyArticle','@id':site+pagePath(b.locale,r.url)+'#article',url:site+pagePath(b.locale,r.url),name:b.view.title||id};}).filter(Boolean)
+  };
+  const structured='<script type="application/ld+json">'+JSON.stringify(entity).replace(/</g,'\\u003c')+'</script>';
+  const h='<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="'+esc(description)+'"><link rel="stylesheet" href="/assets/css/styles.css"><link rel="stylesheet" href="/assets/css/strategic-actors.css">'+L.baseHead(title+' — '+cfg.site_name,description,canonical,'ProfilePage',alts,{'@id':site+canonical+'#profile',mainEntity:{'@id':site+canonical+'#organization'}})+structured+'<title>'+esc(title)+' — '+esc(cfg.site_name)+'</title>';
+  const mechanisms=relations.length?relations.map(r=>{const target=targetById.get(r.target);return '<article class="actor-relation"><div class="relation-path"><strong>'+esc(pick(data.channels[r.channel],locale))+'</strong><span>→</span><b>'+esc(pick(target?.label,locale)||r.target)+'</b></div><p>'+esc(pick(r.mechanism,locale))+'</p><div class="relation-meta"><span>'+esc(modeLabel(r.control_mode,locale))+'</span><span>'+(pt?'Substituibilidade':'Substitutability')+': <b>'+esc(stateLabel(r.substitutability,locale))+'</b></span><span>'+(pt?'Confiança':'Confidence')+': <b>'+esc(stateLabel(r.confidence,locale))+'</b></span></div></article>';}).join(''):'<p>'+(pt?'Nenhum mecanismo adicional foi estabelecido neste conjunto.':'No additional mechanism has been established in this dataset.')+'</p>';
+  return '<!doctype html><html lang="'+esc(L.loc.lang)+'"><head>'+h+'</head><body class="strategic-actors-page" data-locale="'+esc(locale)+'">'+L.nav('actors',alts)+'<main><section class="actors-hero"><div class="container actors-hero-grid"><div><div class="eyebrow">'+(pt?'ATOR ESTRATÉGICO':'STRATEGIC ACTOR')+'</div><h1>'+esc(title)+'</h1><p>'+esc(description)+'</p></div><aside><strong>'+esc(pick(data.actor_classes[a.class],locale))+'</strong><p>'+esc(a.legal_name)+' · '+esc(a.jurisdiction)+'</p></aside></div></section><section class="section"><div class="container actor-dossiers"><article class="actor-dossier"><div class="actor-dossier-head"><div><span class="actor-class">'+esc(pick(data.actor_classes[a.class],locale))+'</span><h2>'+(pt?'Capacidade observada':'Observed capacity')+'</h2></div><div class="actor-scale"><span>'+(pt?'Escala observada':'Observed scale')+'</span><strong>'+esc(pick(a.scale,locale))+'</strong></div></div><div class="actor-limit"><strong>'+(pt?'Limite da interpretação':'Interpretive limit')+'</strong><p>'+esc(pick(a.limits,locale))+'</p></div></article></div></section><section class="section actors-mechanisms"><div class="container"><div class="actors-section-head"><div><div class="section-kicker">'+(pt?'MECANISMOS DOCUMENTADOS':'DOCUMENTED MECHANISMS')+'</div><h2>'+(pt?'Como a capacidade é transmitida':'How capacity is transmitted')+'</h2></div></div><div class="actor-relations">'+mechanisms+'</div></div></section><section class="section"><div class="container"><div class="actors-section-head"><div><div class="section-kicker">'+(pt?'EVIDÊNCIA':'EVIDENCE')+'</div><h2>'+(pt?'Pesquisa de suporte':'Supporting research')+'</h2></div></div><div class="actor-research">'+(researchLinks(research,locale)||'<p>'+(pt?'Sem pesquisa vinculada.':'No linked research.')+'</p>')+'</div><p><a href="'+pagePath(locale,'/actors/')+'">← '+(pt?'Voltar à matriz de atores':'Back to the actor matrix')+'</a></p></div></section></main>'+L.footer()+'<script src="/assets/js/app.js"></script></body></html>';
+}
+
 function page(locale){
   const L=layout(locale),pt=locale==='pt-BR';
   const title=pt?'Atores Estratégicos':'Strategic Actors';
@@ -82,8 +104,20 @@ function page(locale){
   '<section class="section actors-dossiers-section"><div class="container"><div class="actors-section-head"><div><div class="section-kicker">'+(pt?'ENTIDADES':'ENTITIES')+'</div><h2>'+(pt?'Dossiês dos atores':'Actor dossiers')+'</h2></div><p>'+(pt?'Somente entidades juridicamente ou operacionalmente identificáveis entram no sistema. Sobrenomes, dinastias e redes vagas não são tratados como atores sem um veículo institucional específico.':'Only legally or operationally identifiable entities enter the system. Surnames, dynasties and vague networks are not treated as actors without a specific institutional vehicle.')+'</p></div><div class="actor-dossiers">'+dossiers(locale)+'</div></div></section>'+
   '<section class="section actors-method"><div class="container actors-method-grid"><div><div class="section-kicker">'+(pt?'MÉTODO':'METHOD')+'</div><h2>'+(pt?'Escala não é controle':'Scale is not control')+'</h2></div><div><p>'+(pt?'A seleção prioriza capacidade, dependência, substituibilidade, alcance e persistência. Essas dimensões não são somadas em um ranking. O objetivo é reconstruir cadeias causais auditáveis: ator → capacidade → dependência → transmissão → mudança estrutural.':'Selection prioritizes capacity, dependency, substitutability, reach and persistence. These dimensions are not added into a ranking. The objective is to reconstruct auditable causal chains: actor → capability → dependency → transmission → structural change.')+'</p><p><a href="'+pagePath(locale,'/dependencies/')+'">'+(pt?'Abrir Rede Global de Dependências':'Open Global Dependency Network')+' →</a> · <a href="'+pagePath(locale,'/methodology.html')+'">'+(pt?'Método geral':'General method')+' →</a></p></div></div></section></main>'+L.footer()+'<script src="/assets/js/app.js"></script><script src="/assets/js/strategic-actors.js"></script></body></html>';
 }
-for(const locale of locales)write(pagePath(locale,'/actors/index.html'),page(locale));
+for(const locale of locales){
+  write(pagePath(locale,'/actors/index.html'),page(locale));
+  for(const actor of data.actors)write(pagePath(locale,'/actors/'+actor.id+'/index.html'),actorEntityPage(locale,actor));
+}
 write('/data/strategic-actors.json',JSON.stringify(data,null,2)+'\n');
 const sitemap=path.join(out,'sitemap.xml');
-if(fs.existsSync(sitemap)){let xml=fs.readFileSync(sitemap,'utf8');for(const l of locales){const u=site+pagePath(l,'/actors/');if(!xml.includes('<loc>'+u+'</loc>'))xml=xml.replace('</urlset>','<url><loc>'+u+'</loc><lastmod>'+data.updated_at+'</lastmod></url></urlset>');}fs.writeFileSync(sitemap,xml);}
-console.log('Strategic Actors rendered:',data.actors.length,'actors,',data.relations.length,'mechanisms.');
+if(fs.existsSync(sitemap)){
+  let xml=fs.readFileSync(sitemap,'utf8');
+  for(const l of locales){
+    for(const p of ['/actors/',...data.actors.map(a=>'/actors/'+a.id+'/')]){
+      const u=site+pagePath(l,p);
+      if(!xml.includes('<loc>'+u+'</loc>'))xml=xml.replace('</urlset>','<url><loc>'+u+'</loc><lastmod>'+data.updated_at+'</lastmod></url></urlset>');
+    }
+  }
+  fs.writeFileSync(sitemap,xml);
+}
+console.log('Strategic Actors rendered:',data.actors.length,'actors,',data.relations.length,'mechanisms plus entity pages.');
