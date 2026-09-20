@@ -29,7 +29,8 @@
       "annual-wealth-power-map": "Wealth & Power · Annual Research",
       "country-context": "Country Context · Dossier",
       "weekly-technology-signal": "Technology & Society · Weekly Signal",
-      "strategic-actors": "Strategic Actors · Structural Power"
+      "strategic-actors": "Strategic Actors · Structural Power",
+      "conflict-system": "Conflict Systems · Deep Research"
     },
     "home": {
       "eyebrow": "ECONOMICS · POLITICS · SOCIETY",
@@ -116,6 +117,13 @@
           "paragraphs": [
             "A reserve, debt stock, installed capacity or asset base describes a position at a point in time. Accumulation, issuance, amortization, investment, trade and capital movement describe change.",
             "This distinction is central to Marginal Thinking: stocks show where the system is; flows help reveal where it is moving and which actors are gaining or losing capacity at the margin."
+          ]
+        },
+        {
+          "title": "Reconstruct conflict systems, not isolated crises",
+          "paragraphs": [
+            "Conflict research reconstructs the historical, institutional, economic, social and security system that produced the current confrontation. Country, government, elite coalition, institution, armed actor and population are treated as distinct analytical objects.",
+            "Collective psychology is approached through observable evidence such as threat perception, historical memory, identity, trust, public opinion and strategic narratives. Diplomatic and scholarly interpretations are attributed and compared against primary documents and competing explanations rather than treated as facts because of the author's reputation."
           ]
         },
         {
@@ -271,7 +279,8 @@
       "annual-wealth-power-map": "Wealth & Power · Pesquisa Anual",
       "country-context": "Contexto de País · Dossiê",
       "weekly-technology-signal": "Tecnologia & Sociedade · Sinal Semanal",
-      "strategic-actors": "Atores Estratégicos · Poder Estrutural"
+      "strategic-actors": "Atores Estratégicos · Poder Estrutural",
+      "conflict-system": "Sistemas de Conflito · Pesquisa Profunda"
     },
     "home": {
       "eyebrow": "ECONOMIA · POLÍTICA · SOCIEDADE",
@@ -358,6 +367,13 @@
           "paragraphs": [
             "Reservas, dívida acumulada, capacidade instalada ou base de ativos descrevem uma posição em determinado momento. Acumulação, emissões, amortizações, investimento, comércio e movimento de capital descrevem mudança.",
             "Essa distinção é central para o Marginal Thinking: estoques mostram onde o sistema está; fluxos ajudam a revelar para onde ele se move e quais atores ganham ou perdem capacidade na margem."
+          ]
+        },
+        {
+          "title": "Reconstruir sistemas de conflito, não crises isoladas",
+          "paragraphs": [
+            "A pesquisa de conflitos reconstrói o sistema histórico, institucional, econômico, social e de segurança que produziu o confronto atual. País, governo, coalizão de elite, instituição, ator armado e população são tratados como objetos analíticos distintos.",
+            "A psicologia coletiva é abordada por evidências observáveis, como percepção de ameaça, memória histórica, identidade, confiança, opinião pública e narrativas estratégicas. Interpretações diplomáticas e acadêmicas são atribuídas e comparadas com documentos primários e explicações concorrentes, em vez de serem tratadas como fatos devido à reputação do autor."
           ]
         },
         {

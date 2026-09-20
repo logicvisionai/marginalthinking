@@ -1,0 +1,158 @@
+{
+  "id": "MT-CS-2026-09-20-EUR-RU-UA",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T14:30:00-03:00",
+  "kind": "conflict-system",
+  "priority": 12,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "multi-country",
+    "regions": [
+      "europe",
+      "americas"
+    ],
+    "subregions": [
+      "eastern-europe-balkans",
+      "western-europe",
+      "north-america"
+    ],
+    "countries": [
+      {
+        "code": "UA",
+        "slug": "ukraine"
+      },
+      {
+        "code": "RU",
+        "slug": "russia"
+      },
+      {
+        "code": "US",
+        "slug": "united-states"
+      },
+      {
+        "code": "DE",
+        "slug": "germany"
+      },
+      {
+        "code": "PL",
+        "slug": "poland"
+      },
+      {
+        "code": "FR",
+        "slug": "france"
+      },
+      {
+        "code": "GB",
+        "slug": "united-kingdom"
+      }
+    ]
+  },
+  "topics": [
+    "geopolitics-security",
+    "institutions-governance",
+    "macroeconomics",
+    "fiscal-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "infrastructure-logistics",
+    "demography-labor",
+    "social-change"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security",
+    "sanctions-economic-coercion",
+    "migration-displacement",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "assessment_confidence": "high-on-institutional-history-and-current-spending-medium-on-causal-weighting",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Europe–Russia–Ukraine: how the post-Cold War security system became a war system",
+      "deck": "A long-horizon reconstruction of the institutions, identities, threat perceptions, political economies and strategic choices that connect Ukraine, Russia, NATO and Europe—from the cooperative opening of the 1990s to the militarized security order of 2026.",
+      "tags": [
+        "Conflict Systems",
+        "Ukraine",
+        "Russia",
+        "NATO",
+        "European security"
+      ],
+      "keywords": [
+        "Russia Ukraine war",
+        "NATO Russia relations",
+        "European security order",
+        "Ukraine NATO history",
+        "Budapest Memorandum",
+        "NATO enlargement",
+        "European rearmament",
+        "public opinion Russia Ukraine",
+        "Kissinger World Order",
+        "M. E. Sarotte"
+      ],
+      "regime": "European security is organized increasingly around deterrence, rearmament and long-term military-industrial capacity, while the political settlement of the Russia–Ukraine war and the future place of Russia and Ukraine in the European order remain unresolved.",
+      "key_risk": "The central systemic risk is not a single headline event but the interaction of hardened threat perceptions, military proximity, alliance commitments, damaged crisis-management channels and expanding defence capacity.",
+      "watch": [
+        "direct Russia–NATO military incidents and their containment",
+        "changes in nuclear or conventional force posture",
+        "channels for military deconfliction and diplomacy",
+        "terms attached to any ceasefire or security guarantee",
+        "European defence-industrial capacity and fiscal transmission",
+        "Russian and Ukrainian public attitudes toward war and negotiation"
+      ],
+      "search_text": "Europe Russia Ukraine conflict system post Cold War NATO enlargement Budapest Memorandum NATO Russia Founding Act Bucharest 2008 Ukraine non bloc 2010 Crimea 2014 invasion 2022 European rearmament 2026 public opinion Kissinger World Order Sarotte Not One Inch."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Europa–Rússia–Ucrânia: como a ordem de segurança do pós-Guerra Fria se transformou em um sistema de guerra",
+      "deck": "Uma reconstrução de longo horizonte das instituições, identidades, percepções de ameaça, economias políticas e escolhas estratégicas que conectam Ucrânia, Rússia, OTAN e Europa — da abertura cooperativa dos anos 1990 à ordem de segurança militarizada de 2026.",
+      "tags": [
+        "Sistemas de Conflito",
+        "Ucrânia",
+        "Rússia",
+        "OTAN",
+        "segurança europeia"
+      ],
+      "keywords": [
+        "guerra Rússia Ucrânia",
+        "relações OTAN Rússia",
+        "ordem de segurança europeia",
+        "história Ucrânia OTAN",
+        "Memorando de Budapeste",
+        "expansão da OTAN",
+        "rearmamento europeu",
+        "opinião pública Rússia Ucrânia",
+        "Kissinger Ordem Mundial",
+        "M. E. Sarotte"
+      ],
+      "regime": "A segurança europeia está cada vez mais organizada em torno de dissuasão, rearmamento e capacidade militar-industrial de longo prazo, enquanto o acordo político para a guerra Rússia–Ucrânia e o lugar futuro de Rússia e Ucrânia na ordem europeia permanecem sem solução.",
+      "key_risk": "O principal risco sistêmico não é uma manchete isolada, mas a interação entre percepções de ameaça endurecidas, proximidade militar, compromissos de aliança, canais de gestão de crise deteriorados e expansão da capacidade de defesa.",
+      "watch": [
+        "incidentes militares diretos Rússia–OTAN e sua contenção",
+        "mudanças na postura de forças nucleares ou convencionais",
+        "canais de desconflicção militar e diplomacia",
+        "termos de eventual cessar-fogo ou garantia de segurança",
+        "capacidade industrial de defesa europeia e transmissão fiscal",
+        "atitudes públicas russas e ucranianas sobre guerra e negociação"
+      ],
+      "search_text": "Europa Rússia Ucrânia sistema de conflito pós Guerra Fria expansão OTAN Memorando Budapeste Ato Fundador OTAN Rússia Bucareste 2008 não alinhamento Ucrânia 2010 Crimeia 2014 invasão 2022 rearmamento europeu 2026 opinião pública Kissinger Ordem Mundial Sarotte Not One Inch."
+    }
+  }
+}
