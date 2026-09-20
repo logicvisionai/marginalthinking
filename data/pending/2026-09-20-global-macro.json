@@ -8,14 +8,14 @@
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
-  "revision": 1,
+  "revision": 2,
   "revision_reason": "qa_rework",
-  "supersedes_rejected_commit": "592421fc78b6553ecc35c6906c9f30912463dc06",
+  "supersedes_rejected_commit": "c1030d670dfa0c31b2164895efb1f28e4056a2dc",
   "qa_fixes_applied": [
-    "Replaced September 18 U.S. Treasury values with official Daily Treasury Par Yield Curve Rates: 2Y 4.24%, 10Y 4.93%, 30Y 5.34% in EN and PT-BR.",
-    "Recalculated the 2s30s slope to approximately +110 bp and revised downstream financing-condition language and watch variables.",
-    "Corrected Brent to the Reuters-reported Friday ICE Brent futures settlement of $104.87/bbl and retained WTI at $100.30/bbl, with instrument and settlement convention identified.",
-    "Rebuilt the Treasury chart with corrected official values and reran bilingual numerical and analytical parity."
+    "Removed all references to the rejected draft, correction process and QA/rework history from EN and PT-BR public prose.",
+    "Restated the September 18 Treasury result directly: 2Y 4.24%, 10Y 4.93%, 30Y 5.34%, with the 2s30s slope approximately +110 bp.",
+    "Preserved the verified Brent settlement at $104.87/bbl and WTI at $100.30/bbl and all downstream factual conclusions.",
+    "Rechecked bilingual semantic parity after the editorial cleanup without changing the validated visual evidence."
   ],
   "sources": {
     "en": {
