@@ -216,6 +216,29 @@
       "title": "Page not found",
       "text": "The requested page does not exist or has moved.",
       "action": "Open research archive"
+    },
+    "concept": {
+      "eyebrow": "THE NAME AND THE METHOD",
+      "title": "What is Marginal Thinking?",
+      "deck": "Marginal Thinking is an independent research platform that tracks incremental changes in capital, productive capacity, resources, technology, institutions and power to understand wider economic and political transformations.",
+      "sections": [
+        {
+          "title": "The economic concept",
+          "text": "In economics, marginal analysis examines the effect of an incremental change: one additional unit, a change in cost, a new constraint or a different incentive. It helps explain how decisions change at the margin rather than looking only at averages or aggregate stocks."
+        },
+        {
+          "title": "The Marginal Thinking project",
+          "text": "Marginal Thinking is also the name of this independent research platform. The name describes a method of watching where capital, resources, productive capacity, infrastructure, technology, institutions and constraints begin to move before the wider transformation is fully visible in aggregate measures."
+        },
+        {
+          "title": "What makes a marginal change material",
+          "text": "Not every small change matters. Research tests mechanism, scale, persistence and constraints: what changed, why it changed, which actors can transmit the effect and what evidence would weaken the interpretation."
+        },
+        {
+          "title": "How the research is organized",
+          "text": "Recurring reports track near-term change. Permanent research hubs accumulate context across editions. Country, actor, topic, dependency and data pages connect the material into a knowledge base that can be revisited and updated."
+        }
+      ]
     }
   },
   "pt-BR": {
@@ -435,6 +458,29 @@
       "title": "Página não encontrada",
       "text": "A página solicitada não existe ou foi movida.",
       "action": "Abrir arquivo de pesquisas"
+    },
+    "concept": {
+      "eyebrow": "SOBRE O NOME E O MÉTODO",
+      "title": "O que é Marginal Thinking?",
+      "deck": "Marginal Thinking é uma plataforma independente de pesquisa que acompanha mudanças incrementais em capital, capacidade produtiva, recursos, tecnologia, instituições e poder para entender transformações econômicas e políticas mais amplas.",
+      "sections": [
+        {
+          "title": "O conceito econômico",
+          "text": "Em economia, análise marginal examina o efeito de uma mudança incremental: uma unidade adicional, uma alteração de custo, uma nova restrição ou um incentivo diferente. Ela ajuda a entender como decisões mudam na margem, em vez de olhar apenas para médias ou estoques agregados."
+        },
+        {
+          "title": "O projeto Marginal Thinking",
+          "text": "Marginal Thinking também é o nome desta plataforma independente de pesquisa. O nome descreve o método de observar onde capital, recursos, capacidade produtiva, infraestrutura, tecnologia, instituições e restrições começam a se mover antes que a transformação seja plenamente visível nos agregados."
+        },
+        {
+          "title": "Quando uma mudança marginal é material",
+          "text": "Nem toda mudança pequena importa. A pesquisa procura estabelecer mecanismo, escala, persistência e restrições: o que mudou, por que mudou, quais atores têm capacidade para transmitir o efeito e quais evidências enfraqueceriam a interpretação."
+        },
+        {
+          "title": "Como a pesquisa é organizada",
+          "text": "Relatórios recorrentes acompanham mudanças de curto prazo. Hubs permanentes acumulam contexto entre edições. Páginas de países, atores, temas, dependências e dados conectam o material em uma base de conhecimento que pode ser revisitada e atualizada."
+        }
+      ]
     }
   }
 }
