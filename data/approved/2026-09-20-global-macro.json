@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-20",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-20T03:17:37Z",
+  "reviewed_commit": "1872f0ce6d287b2c201ae8fc63ee85dca918c0e5",
+  "pending_blob_sha": "94638e1d3afd34f66bc0021424ffaebdab30b3b9",
+  "source_blob_shas": {
+    "en": "593f7c3aa8bed849b404e7547164e83db7545ba0",
+    "pt-BR": "b4938d9b49203c84b28c800f372ef490600a88bd"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Revision 2 is editorial-only relative to the fact-checked revision 1 source state: the validated Treasury 2Y/10Y/30Y par yields (4.24%, 4.93%, 5.34%), approximately +110 bp 2s30s slope, Brent $104.87/bbl and WTI $100.30/bbl are preserved, and no material numbers, dates, causal claims, scenarios or factual conclusion were changed by the cleanup."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "EN and PT-BR now open directly with the analytical thesis, use informative mechanism-oriented headings, remove rejected-draft/QA/rework metatext, avoid checklist-style internal fields, preserve coherent progression from current conditions through mechanisms and risks to watch variables, and read naturally in each locale without exposed prompt/template language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report incorporates the institutional and political mechanisms materially required for the current macro assessment, including Chinese balance-sheet constraints, U.S.-China technology/trade transmission, Gulf supply risk and differentiated monetary/financial transmission across Japan and Brazil, without adding ornamental historical sections."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "brief: 1 evidence table + 1 explicit Treasury yield chart + 1 China policy mind map + 1 three-chain transmission flow; EN/PT-BR parity confirmed",
+      "summary": "The brief exceeds the minimum visual floor. Quantitative values and units in the Treasury chart reproduce claims in the text; the table distinguishes reference, interpretation and limitation; mind-map and flow arrows encode mechanisms defended in the prose; EN/PT-BR visuals are semantically equivalent.",
+      "limitations": [
+        "Oil and fund-flow observations are presented in the evidence table rather than as additional charts, avoiding unsupported interpolation or mixed-unit visualization."
+      ]
+    },
+    "revision_delta": {
+      "result": "passed",
+      "summary": "revision_reason and qa_fixes_applied accurately describe the delta: public-facing references to the rejected draft and correction process were removed while validated facts, visuals and downstream conclusions were preserved."
+    }
+  },
+  "contrary_evidence": [
+    "Continued resilience in U.S. large-cap earnings and equity prices, together with contained credit spreads, could indicate that listed corporate financial conditions are less restrictive than sovereign duration suggests.",
+    "A material recovery in Chinese household borrowing, property activity or local-government finances would weaken the interpretation that lower nominal rates alone are insufficient to restore credit demand."
+  ],
+  "limitations": [
+    "Several real-time market, fund-flow, Gulf logistics and meeting-agenda observations rely on Reuters/LSEG or other first-line reporting where primary real-time datasets were not directly available.",
+    "Treasury curve observations are official indicative par yields near 3:30 p.m. ET, not transaction prices or forecasts.",
+    "Fund-flow aggregates do not identify the marginal buyer or seller of individual securities."
+  ],
+  "notes": "Approved revision 2 after full editorial delta review. The revision removes the only blocking meta-QA/rework language from both locales without altering the previously validated factual state. No public materialization was performed by QA.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-20",
+    "slug": "2026-09-20-global-macro",
+    "date": "2026-09-20",
+    "published_at": "2026-09-20T00:06:23-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "revision": 2,
+    "revision_reason": "qa_rework",
+    "supersedes_rejected_commit": "c1030d670dfa0c31b2164895efb1f28e4056a2dc",
+    "qa_fixes_applied": [
+      "Removed all references to the rejected draft, correction process and QA/rework history from EN and PT-BR public prose.",
+      "Restated the September 18 Treasury result directly: 2Y 4.24%, 10Y 4.93%, 30Y 5.34%, with the 2s30s slope approximately +110 bp.",
+      "Preserved the verified Brent settlement at $104.87/bbl and WTI at $100.30/bbl and all downstream factual conclusions.",
+      "Rechecked bilingual semantic parity after the editorial cleanup without changing the validated visual evidence."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-20-global-macro/en.md",
+        "title": "Global Macro — September 20, 2026",
+        "deck": "Lower oil is easing the immediate inflation shock, but a 4.93% U.S. 10-year par yield, a steep 2s30s curve, defensive fund flows and weak Chinese credit demand keep global financing conditions restrictive as U.S.-China talks move AI and rare earths into the near-term calendar.",
+        "tags": ["global-macro", "markets", "monetary-policy", "China", "energy"],
+        "keywords": ["Federal Reserve", "Treasuries", "China LPR", "U.S.-China trade", "AI", "rare earths", "oil", "gold", "fund flows", "Brazil"],
+        "regime": "Selective equity resilience inside restrictive global financing conditions, with lower oil offset by high long yields, a steep Treasury curve and defensive fund flows.",
+        "key_risk": "Markets may treat lower oil and diplomatic engagement as normalization before Gulf logistics, long-term financing costs and U.S.-China technology and trade rules materially improve.",
+        "watch": ["U.S.-China Bessent-He meeting outcomes", "U.S. 10-year Treasury par yield at 4.93%", "2s30s Treasury par-yield slope around +110 bp", "Brent around $100–105/bbl", "gold versus U.S. real yields", "U.S. equity breadth and fund flows", "China credit demand after unchanged LPRs", "Brazilian long-end rates versus Selic"],
+        "search_text": "Global macro September 20 2026 Treasury par yields 4.24 4.93 5.34 China LPR U.S. China Bessent He AI rare earths Brent 104.87 fund flows Brazil markets."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-20-global-macro/pt-BR.md",
+        "title": "Global Macro — 20 de setembro de 2026",
+        "deck": "Petróleo mais baixo reduz o choque inflacionário imediato, mas Treasury de 10 anos em 4,93%, curva 2–30 anos inclinada, fluxos defensivos e demanda fraca por crédito na China mantêm condições globais de financiamento restritivas enquanto as negociações EUA-China colocam IA e terras raras no calendário de curto prazo.",
+        "tags": ["global-macro", "mercados", "politica-monetaria", "China", "energia"],
+        "keywords": ["Federal Reserve", "Treasuries", "LPR China", "comércio EUA-China", "IA", "terras raras", "petróleo", "ouro", "fluxos de fundos", "Brasil"],
+        "regime": "Resistência seletiva das ações dentro de condições globais de financiamento restritivas, com petróleo mais baixo contraposto por juros longos elevados, curva dos Treasuries inclinada e fluxos defensivos.",
+        "key_risk": "Os mercados podem interpretar petróleo mais baixo e diálogo diplomático como normalização antes de logística do Golfo, custos de financiamento de longo prazo e regras tecnológicas e comerciais entre EUA e China melhorarem de forma material.",
+        "watch": ["Resultados da reunião Bessent-He", "Treasury de 10 anos em 4,93%", "inclinação 2–30 anos dos Treasuries em cerca de +110 pb", "Brent em torno de US$ 100–105/barril", "ouro versus juros reais dos EUA", "participação interna e fluxos das ações americanas", "demanda chinesa por crédito após LPRs inalteradas", "juros longos brasileiros versus Selic"],
+        "search_text": "Global macro 20 setembro 2026 Treasuries 4,24 4,93 5,34 China LPR EUA China Bessent He IA terras raras Brent 104,87 fluxos Brasil mercados."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level":"global","regions":[],"subregions":[],"countries":[]},
+    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "sovereign-debt", "currencies", "trade-investment", "energy", "commodities-resources", "geopolitics-security"],
+    "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
