@@ -1,0 +1,74 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-20",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-20T00:09:23-03:00",
+  "reviewed_commit": "592421fc78b6553ecc35c6906c9f30912463dc06",
+  "pending_blob_sha": "8c09f899fea4dbb5c86eaf6ec868f3b0af8d6f5b",
+  "source_blob_shas": {
+    "en": "25e58fd161ec88bf0187fc4e29b6d1c03e8153b6",
+    "pt-BR": "230ee9a6724f62207f7b8ec1de111dc3cd8a566b"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "taxonomy_check": "passed",
+  "translation_check": "passed-for-reviewed-errors",
+  "blocking_issues": [
+    {
+      "type": "factual-market-data",
+      "location": "Opening paragraph; What changed since the previous edition; signal table; Treasury chart; PT-BR equivalents",
+      "issue": "The report attributes 4.67% (2Y), 4.94% (10Y) and 5.29% (30Y) to the official U.S. Treasury September 18 close. The Treasury's Daily Treasury Par Yield Curve Rates for 2026 instead show September 18 values of 4.24% (2Y), 4.93% (10Y) and 5.34% (30Y). Because these values anchor the report's central financing-conditions thesis and an explicit chart, the mismatch is publication-blocking.",
+      "evidence": [
+        "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve"
+      ]
+    },
+    {
+      "type": "factual-market-data",
+      "location": "Opening paragraph; What changed since the previous edition; signal table; PT-BR equivalents",
+      "issue": "The report states Brent closed Friday at $103.87/bbl. Reuters' September 18 market report gives Brent's Friday close as $104.87/bbl and WTI at $100.30/bbl. The Brent figure must be reconciled against the exact instrument, timestamp and settlement/close convention before publication.",
+      "evidence": [
+        "https://www.reuters.com/business/energy/oil-prices-fall-1-hopes-limited-supply-disruptions-2026-09-18/"
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Re-open the primary U.S. Treasury September 18 yield-curve release and replace all affected 2Y/10Y/30Y values, interpretations and the chart in EN and PT-BR; do not mix Treasury par-yield data with a different market quote series without naming the series and timestamp.",
+    "Re-verify Brent against the intended settlement/close series and correct the opening, delta list, table and PT-BR edition consistently; identify the exact instrument and close convention.",
+    "After correcting the central market data, re-check every downstream inference that relies on the Treasury curve or oil level, including the 2s30s characterization, long-duration financing language, cross-asset divergence, scenarios and watch list.",
+    "Preserve the current visual structure only after the underlying values are corrected. The brief meets the minimum visual-count floor, but the Treasury chart is presently factually invalid and therefore fails visual-evidence readiness.",
+    "Re-run bilingual parity after factual correction so numbers, units, epistemic status and conclusions remain equivalent."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_pipeline": "passed",
+    "taxonomy": "passed",
+    "factual_accuracy": "failed",
+    "methodology": "failed-on-market-series-binding",
+    "translation": "paired editions reproduce the same blocking numerical errors; full approval withheld",
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The opening is direct and the analytical headings are generally informative, but publication readiness fails because incorrect central market observations are repeated across opening, body, table and visual. This is not a cosmetic defect."
+    },
+    "contextual_depth": {
+      "result": "passed-with-limitations",
+      "summary": "The draft connects monetary conditions, China credit demand, U.S.-China technology/trade policy, Gulf supply risk and Brazilian fiscal/monetary transmission without requiring an ornamental historical section. Current claims still require external verification."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature": ["markdown-table", "bar-chart", "mindmap", "multi-chain-flow"],
+      "summary": "The brief exceeds the minimum visual-count floor and EN/PT-BR structures are semantically aligned, but the Treasury bar chart encodes incorrect September 18 official Treasury values, making the visual materially misleading until corrected."
+    },
+    "conflict_security_social_change": "applied; Gulf supply/security claims are framed as risk/transmission rather than established structural normalization",
+    "institutional_consensus": "applied where fund-flow evidence is discussed; flows are not treated as proprietary house positioning"
+  },
+  "contrary_evidence": [
+    "U.S. large-cap equity resilience and positive technology performance remain evidence against reading high sovereign yields as uniformly restrictive for listed corporate risk assets.",
+    "Lower oil prices reduce part of the immediate inflation impulse even though Gulf logistics and security risks remain material."
+  ],
+  "limitations": [
+    "Several real-time market, ETF-flow and fund-flow observations rely on first-line market reporting rather than directly opened primary datasets.",
+    "The rejection is driven by independently verified central numerical discrepancies; remaining claims should be revalidated by the producer after those corrections because downstream interpretation may change."
+  ],
+  "notes": "No approval was created. The item remains non-public. Rework must retain the same ID and slug and return a changed pending/source SHA set for a new QA pass."
+}
