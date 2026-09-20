@@ -66,6 +66,11 @@ jobs:
           test -f dist/pt-br/data/index.html
           test -f dist/data/global-dependencies/index.html
           test -f dist/pt-br/data/global-dependencies/index.html
+          test -f dist/data/conflict-systems.json
+          test -f dist/data/conflict-systems/index.html
+          test -f dist/pt-br/data/conflict-systems/index.html
+          grep -q '"europe-russia-ukraine-security-system"' dist/data/conflict-systems.json
+          grep -q '"probability_of_general_war": null' dist/data/conflict-systems.json
           test -f dist/what-is-marginal-thinking/index.html
           test -f dist/pt-br/what-is-marginal-thinking/index.html
           grep -q 'What is Marginal Thinking?' dist/what-is-marginal-thinking/index.html
@@ -81,6 +86,7 @@ jobs:
           test -f dist/_headers
           grep -q '^/data/mcp-catalog.json$' dist/_headers
           grep -q 'Access-Control-Allow-Origin: \*' dist/_headers
+          grep -q '^/data/conflict-systems.json$' dist/_headers
           test -f dist/mcp-docs/index.html
           test -f dist/pt-br/mcp-docs/index.html
           test ! -f dist/mcp.html
@@ -150,6 +156,8 @@ jobs:
           grep -q '/mcp-docs/' dist/index.html
           grep -q '/pt-br/mcp-docs/' dist/pt-br/index.html
           grep -q 'https://marginalthinking.org/mcp' dist/mcp-docs/index.html
+          grep -q 'get_conflict_system' dist/mcp-docs/index.html
+          grep -q 'marginalthinking://conflict-systems' dist/mcp-docs/index.html
           grep -q 'https://marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
           grep -q '<loc>https://marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
           grep -q '<loc>https://marginalthinking.org/pt-br/mcp-docs/</loc>' dist/sitemap.xml

@@ -38,6 +38,9 @@ node scripts/render-taxonomy-pages.mjs
 # Consolidate recurring publications into permanent, bilingual research hubs so
 # temporal reports strengthen long-lived thematic pages instead of competing as isolated URLs.
 node scripts/render-evergreen-hubs.mjs
+# Validate and publish the cumulative Conflict Systems object before the data catalog links it.
+node scripts/validate-conflict-systems.mjs
+node scripts/render-conflict-systems-data.mjs
 # Publish structured datasets as indexable resources with Dataset JSON-LD and stable download URLs.
 node scripts/render-data-catalog.mjs
 # Derive corpus-level intelligence from canonical metadata only. This adds no

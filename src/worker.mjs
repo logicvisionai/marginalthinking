@@ -404,6 +404,42 @@ function createServer(env, requestUrl) {
     }
   );
 
+  server.registerTool(
+    'get_conflict_system',
+    {
+      title: 'Read Marginal Thinking Conflict Systems data',
+      description: 'Return the machine-readable Conflict Systems framework or one persistent conflict-system object, including genealogy, evidence anchors, attributed interpretations, socioeconomic transmission, escalation domains and falsifiers.',
+      annotations: TOOL_ANNOTATIONS,
+      inputSchema: z.object({
+        id: z.string().min(1).optional().describe('Optional conflict-system id, for example europe-russia-ukraine-security-system.')
+      })
+    },
+    async ({id}) => {
+      try {
+        const data = await loadJson(env, requestUrl, '/data/conflict-systems.json');
+        if (!id) {
+          return jsonResult({
+            schema_version: data.schema_version,
+            methodology_version: data.methodology_version,
+            updated_at: data.updated_at,
+            title: data.title,
+            description: data.description,
+            methodological_rules: data.methodological_rules,
+            country_dossier_schema: data.country_dossier_schema,
+            interpretation_schema: data.interpretation_schema,
+            escalation_domains: data.escalation_domains,
+            systems: (data.systems || []).map(x => ({id:x.id,title:x.title,status:x.status,evidence_cutoff:x.evidence_cutoff,report_id:x.report_id,countries:x.countries}))
+          });
+        }
+        const system = (data.systems || []).find(x => normalize(x.id) === normalize(id));
+        if (!system) return errorResult(`Conflict system not found: ${id}`);
+        return jsonResult(system);
+      } catch (error) {
+        return errorResult(`Marginal Thinking Conflict Systems lookup failed: ${error.message}`);
+      }
+    }
+  );
+
   server.registerResource(
     'marginal-thinking-catalog',
     'marginalthinking://catalog',
@@ -415,6 +451,20 @@ function createServer(env, requestUrl) {
     async uri => {
       const catalog = await loadCatalog(env, requestUrl);
       return {contents: [{uri: uri.href, mimeType: 'application/json', text: JSON.stringify(catalog)}]};
+    }
+  );
+
+  server.registerResource(
+    'marginal-thinking-conflict-systems',
+    'marginalthinking://conflict-systems',
+    {
+      title: 'Marginal Thinking Conflict Systems dataset',
+      description: 'Machine-readable persistent conflict systems, methodologies and interpretive ledgers.',
+      mimeType: 'application/json'
+    },
+    async uri => {
+      const data = await loadJson(env, requestUrl, '/data/conflict-systems.json');
+      return {contents: [{uri: uri.href, mimeType: 'application/json', text: JSON.stringify(data)}]};
     }
   );
 
