@@ -8,7 +8,7 @@ The weekend's new policy delta comes from China. The one-year and five-year loan
 
 - China's September LPR fixing remained **3.00% for one year and 3.50% for five years**.
 - Sunday's Bessent-He meeting moves AI, rare-earth access and trade rules into the near-term macro calendar.
-- Official U.S. Treasury par yields on September 18 were **4.24% (2Y), 4.93% (10Y) and 5.34% (30Y)**. The 2s30s slope was therefore about **+110 bp**, materially steeper than the rejected draft implied.
+- Official U.S. Treasury par yields on September 18 were **4.24% (2Y), 4.93% (10Y) and 5.34% (30Y)**. The 2s30s slope was therefore about **+110 bp**, leaving a substantially upward-sloping curve despite the lower front end.
 - U.S. equities were uneven: **S&P 500 +0.2%, Nasdaq +0.4%, Dow -0.2%, Russell 2000 -0.5%** on Friday.
 - **Brent settled at $104.87/bbl and WTI at $100.30/bbl** on Friday. Gulf logistics and security risks remain material despite the retreat from stress highs.
 - Global equity funds lost **$23.21 billion** in the week through September 16 and U.S. equity funds **$31.44 billion**, while Asian equity funds attracted capital.
@@ -37,9 +37,9 @@ The chart uses the U.S. Treasury's Daily Treasury Par Yield Curve Rates for Sept
 
 ## Lower oil reduces one pressure while the curve keeps long-duration financing expensive
 
-The cross-asset divergence is more precise after correcting the official curve. The front end is lower than the rejected draft stated, but the 10-year remains close to 5% and the 30-year is **5.34%**. The resulting roughly **110 bp 2s30s slope** means the market is demanding substantially more yield at long maturities than at two years. That is consistent with long-run inflation uncertainty, Treasury supply and term compensation remaining important even as crude retreats.
+The front end of the Treasury curve is well below the long end, while the 10-year remains close to 5% and the 30-year is **5.34%**. The resulting roughly **110 bp 2s30s slope** means the market is demanding substantially more yield at long maturities than at two years. That is consistent with long-run inflation uncertainty, Treasury supply and term compensation remaining important even as crude retreats.
 
-This changes the emphasis, not the conclusion. Lower oil can reduce near-term headline inflation pressure, while high long yields can still constrain refinancing and valuations. Nasdaq resilience alongside a near-5% 10-year suggests large technology companies are absorbing that discount-rate environment better than smaller firms; the Russell 2000's decline points to uneven transmission rather than rates becoming irrelevant.
+Lower oil can reduce near-term headline inflation pressure, while high long yields can still constrain refinancing and valuations. Nasdaq resilience alongside a near-5% 10-year suggests large technology companies are absorbing that discount-rate environment better than smaller firms; the Russell 2000's decline points to uneven transmission rather than rates becoming irrelevant.
 
 ## China's unchanged rates expose a demand problem that cheaper credit alone may not solve
 
