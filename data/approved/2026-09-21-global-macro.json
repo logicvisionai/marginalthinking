@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-21",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-21T00:58:00-03:00",
+  "reviewed_commit": "a53b65140f34f2c40de53bc2f6a29ef1780de5f6",
+  "pending_blob_sha": "9375f49f94549b6fc30aa18a78fabb2aae31f793",
+  "source_blob_shas": {
+    "en": "e08b6d9cebb9843fe1316aef99d6ab4680a5af5a",
+    "pt-BR": "c09204bb31cb4a26add351bdd44c0fa7ec42e698"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central policy-rate, oil, FX, Gulf-flow and U.S.-China negotiation claims were checked against primary official sources where available and current high-quality reporting for fast-moving market/security events. Observed facts, conditional interpretations and scenarios remain distinguishable."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Direct thesis-led opening; analytical headings identify mechanisms and findings; EN and PT-BR read naturally and remain semantically equivalent; no exposed QA/prompt/template structure; repetition is limited and the argument progresses from energy/rates through technology, diplomacy and regional transmission to synthesis."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report includes the institutional, conflict-security and regional transmission context needed for its current macro thesis without adding ornamental history or social sections."
+    },
+    "conflict_security_social_change": {
+      "result": "passed",
+      "summary": "Gulf conflict and Houthi activity are treated through observed logistics/security effects and conditional transmission rather than inferred intent or unsupported capability claims."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 1 explicit Treasury-yield chart + 1 multi-chain causal flow + 1 regional transmission map in each locale",
+      "summary": "The brief exceeds the minimum visual floor. Quantitative values and units match report evidence; structural arrows are defended in prose; the regional map represents exposure/transmission rather than false geographic precision; EN/PT-BR visuals are semantically equivalent.",
+      "limitations": ["The Treasury chart is a three-point maturity comparison rather than a full yield-curve time series; the surrounding prose correctly limits the inference."]
+    }
+  },
+  "contrary_evidence": [
+    "Technology-equity resilience and recovering Gulf oil flows could broaden into easier financial conditions; the report states this would weaken the restrictive-financing interpretation.",
+    "The decline in crude is conditional on logistics and diplomacy and can reverse if export capacity or Gulf security deteriorates."
+  ],
+  "limitations": [
+    "Intraday Brent and WTI observations are time-sensitive futures quotes rather than settlements.",
+    "Fast-moving Gulf shipping, security and U.S.-China negotiation details rely partly on current Reuters reporting and provisional commercial shipping data rather than finalized official datasets.",
+    "The report does not claim that lower oil alone establishes a durable inflation or monetary-policy regime change."
+  ],
+  "notes": "Approved as a new daily brief. No public bundle for this ID was identified at the pre-decision public-state recheck. Approval is bound to the exact reviewed pending and bilingual source blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-21",
+    "slug": "2026-09-21-global-macro",
+    "date": "2026-09-21",
+    "published_at": "2026-09-21T00:47:10-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-21-global-macro/en.md",
+        "title": "Global Macro — September 21, 2026",
+        "deck": "Oil relief and selective AI strength coexist with Treasury yields above 5%, while U.S.-China talks reduce diplomatic opacity without yet changing trade or technology restrictions.",
+        "tags": ["global macro", "Treasuries", "oil", "AI", "US-China", "Gulf", "Europe", "Japan", "India", "Brazil"],
+        "keywords": ["Federal Reserve", "Treasury yields", "Brent", "WTI", "artificial intelligence", "US-China trade", "critical minerals", "ECB", "Bank of Japan", "Selic"],
+        "regime": "Conditional energy relief under restrictive global financing conditions",
+        "key_risk": "Renewed Gulf supply disruption while major central banks and long sovereign yields remain restrictive",
+        "watch": ["Gulf export throughput and attacks", "U.S. 10-year Treasury around 5%", "Trump-Xi summit outputs on tariffs, AI controls and critical minerals", "breadth of technology-led equity strength"],
+        "search_text": "Global macro September 21 2026 oil Gulf Treasury yields Federal Reserve AI semiconductors US China trade critical minerals Europe gas Japan yen India rupee Brazil Selic"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-21-global-macro/pt-BR.md",
+        "title": "Global Macro — 21 de setembro de 2026",
+        "deck": "Alívio no petróleo e força seletiva da IA convivem com Treasuries acima de 5%, enquanto as conversas EUA-China reduzem a opacidade diplomática sem ainda alterar restrições comerciais ou tecnológicas.",
+        "tags": ["macro global", "Treasuries", "petróleo", "IA", "EUA-China", "Golfo", "Europa", "Japão", "Índia", "Brasil"],
+        "keywords": ["Federal Reserve", "juros dos Treasuries", "Brent", "WTI", "inteligência artificial", "comércio EUA-China", "minerais críticos", "BCE", "Banco do Japão", "Selic"],
+        "regime": "Alívio energético condicional sob condições financeiras globais restritivas",
+        "key_risk": "Nova interrupção de oferta no Golfo enquanto bancos centrais e juros soberanos longos permanecem restritivos",
+        "watch": ["Fluxo exportador e ataques no Golfo", "Treasury de 10 anos ao redor de 5%", "Resultados da cúpula Trump-Xi sobre tarifas, controles de IA e minerais críticos", "Amplitude da força acionária liderada por tecnologia"],
+        "search_text": "macro global 21 setembro 2026 petróleo Golfo Treasuries Federal Reserve IA semicondutores EUA China comércio minerais críticos Europa gás Japão iene Índia rupia Brasil Selic"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy", "politics"],
+    "geography": {
+      "level": "global",
+      "regions": ["americas", "europe", "asia-pacific", "middle-east"],
+      "subregions": ["north-america", "latin-america-caribbean", "east-asia", "south-asia", "gulf"],
+      "countries": []
+    },
+    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "energy", "trade-investment", "geopolitics-security"],
+    "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
