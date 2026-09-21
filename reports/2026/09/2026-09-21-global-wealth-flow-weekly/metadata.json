@@ -1,0 +1,120 @@
+{
+  "id": "MT-WF-2026-09-21",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T00:55:00-03:00",
+  "kind": "weekly-wealth-flow",
+  "priority": 20,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "currencies",
+    "sovereign-debt",
+    "banking-credit",
+    "trade-investment",
+    "energy",
+    "industry-production",
+    "infrastructure-logistics"
+  ],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
+  "format": "monitor",
+  "cadence": "weekly",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "caff03eb99865e5c1625d1e58dfbe555a8b8ba94",
+  "qa_fixes_applied": [
+    "Separated Federal Reserve and ECB inflation attribution in both locales",
+    "Federal Reserve wording now states only what the September 16 FOMC statement supports: elevated inflation and geopolitical uncertainty",
+    "ECB energy-conflict attribution remains explicitly tied to the ECB source",
+    "Rechecked the later monetary-tightening section for consistent evidence status"
+  ],
+  "qa_reviewed_at": "2026-09-21T00:58:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "ab7457c12058edf673d0170bf54ed743f51685bf",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth Flow Monitor — 21 September 2026",
+      "deck": "Dollar liquidity remained central while long-term U.S. securities flows weakened, money-market assets stayed near $8 trillion, gold ETF holdings reached a record and higher policy rates raised the financing hurdle for long-duration investment.",
+      "tags": [
+        "global capital flows",
+        "TIC",
+        "money market funds",
+        "gold ETFs",
+        "Federal Reserve",
+        "ECB",
+        "financing conditions"
+      ],
+      "keywords": [
+        "Treasury International Capital",
+        "money market fund assets",
+        "gold ETF flows",
+        "foreign securities",
+        "official flows",
+        "policy rates",
+        "capital allocation"
+      ],
+      "regime": "High liquidity preference and defensive gold demand coexist with two-way cross-border securities flows as higher policy rates make long-duration financing more selective.",
+      "key_risk": "Persistent energy-linked inflation and higher policy rates could turn a selective financing environment into project delays, credit deterioration and weaker long-term capital formation.",
+      "watch": [
+        "August TIC release on 16 October",
+        "weekly ICI money-market fund assets",
+        "September gold ETF holdings and flows",
+        "IMF reserve-composition updates",
+        "BIS cross-border banking data",
+        "capital-intensive project delays and cancellations"
+      ],
+      "search_text": "global wealth flows TIC July 2026 money market funds gold ETF August Federal Reserve ECB policy rates long-term securities capital allocation financing conditions"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Wealth Flow Monitor — 21 de setembro de 2026",
+      "deck": "A liquidez em dólar permaneceu central enquanto os fluxos de títulos americanos de longo prazo enfraqueceram, fundos de mercado monetário seguiram próximos de US$ 8 trilhões, posições em ETFs de ouro atingiram recorde e juros mais altos elevaram o custo de financiamento de longa duração.",
+      "tags": [
+        "fluxos globais de capital",
+        "TIC",
+        "fundos de mercado monetário",
+        "ETFs de ouro",
+        "Federal Reserve",
+        "BCE",
+        "condições de financiamento"
+      ],
+      "keywords": [
+        "Treasury International Capital",
+        "ativos de fundos de mercado monetário",
+        "fluxos de ETFs de ouro",
+        "títulos estrangeiros",
+        "fluxos oficiais",
+        "juros básicos",
+        "alocação de capital"
+      ],
+      "regime": "Preferência elevada por liquidez e demanda defensiva por ouro coexistem com fluxos de títulos em duas direções, enquanto juros mais altos tornam o financiamento de longa duração mais seletivo.",
+      "key_risk": "Inflação persistente ligada à energia e juros mais altos podem transformar um ambiente seletivo de financiamento em adiamentos de projetos, deterioração de crédito e menor formação de capital de longo prazo.",
+      "watch": [
+        "TIC de agosto em 16 de outubro",
+        "ativos semanais de fundos de mercado monetário do ICI",
+        "posições e fluxos de ETFs de ouro em setembro",
+        "atualizações de composição de reservas do FMI",
+        "dados bancários transfronteiriços do BIS",
+        "adiamentos e cancelamentos de projetos intensivos em capital"
+      ],
+      "search_text": "fluxos globais de riqueza TIC julho 2026 fundos de mercado monetário ETF ouro agosto Federal Reserve BCE juros títulos longo prazo alocação capital financiamento"
+    }
+  }
+}
