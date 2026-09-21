@@ -89,7 +89,8 @@ function scanMarkdown(file,item={}){
   if(bold%2)warn.push(`${file}: marcador ** órfão; renderer removerá o marcador residual`);if(strong%2)warn.push(`${file}: marcador __ órfão; renderer removerá o marcador residual`);
   if(/^\s*\d+[.)]\s+\d+[.)]\s+/m.test(prose))warn.push(`${file}: marcador numérico duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/^\s*[-+*•]\s+[-+*•]\s+/m.test(prose))warn.push(`${file}: marcador de lista duplicado; pós-processamento normalizará sem bloquear o build`);
-  if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(text))fail.push(`${file}: referência binária proibida`);
+  const textWithoutExternalUrls=text.replace(/https?:\/\/[^\s)\]]+/gi,' ');
+  if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(textWithoutExternalUrls))fail.push(`${file}: referência binária interna proibida`);
   validateEditorialIntegrity(text,file,item);
   validateTables(lines,file);validateCustomBlocks(lines,file);
 }
