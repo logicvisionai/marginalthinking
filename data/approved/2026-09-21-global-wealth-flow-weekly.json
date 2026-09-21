@@ -1,0 +1,77 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-09-21",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-21T00:58:00-03:00",
+  "reviewed_commit": "ab7457c12058edf673d0170bf54ed743f51685bf",
+  "pending_blob_sha": "7e3e733534a5825b6eef06d2ed470a87904123cc",
+  "source_blob_shas": {
+    "en": "b093349d748ff400779acd5feb40f4324e68b13c",
+    "pt-BR": "4bf530c10aeb85495fc6411af2163f2b86bb061a"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Revision 1 resolves the prior blocking attribution error. The Federal Reserve is now described only as reporting elevated inflation and geopolitical uncertainty, while the ECB energy/conflict attribution is kept separate. Previously checked TIC, ICI, gold ETF, Federal Reserve and ECB quantitative claims remain materially unchanged."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Direct thesis-led opening; analytical headings; natural EN and PT-BR localization; no exposed QA/template language; caveats are integrated rather than repeated mechanically; progression runs from capital-flow composition through liquidity, gold and financing conditions to falsifiers."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Current institutional and market mechanisms are sufficient for a weekly wealth-flow monitor; no ornamental historical section is required."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table; 2 explicit charts; 1 causal flow visual; 1 regional transmission map/card in both locales.",
+      "limitations": "The regional map is a transmission card rather than a coordinate map. Charts use explicitly sourced values and do not imply a complete portfolio decomposition."
+    },
+    "revision_delta": {
+      "result": "passed",
+      "summary": "Declared qa_rework matches the observed delta: the unsupported joint Fed/ECB energy-shock attribution was removed, the later monetary-tightening paragraph was aligned, and no central numbers, dates, scenarios or conclusion were silently changed."
+    }
+  },
+  "contrary_evidence": [
+    "Positive aggregate TIC inflow coexists with a negative adjusted long-term balance, weakening any simple dollar-exit interpretation.",
+    "Money-market fund assets fell week on week but remained near $8 trillion, so the weekly decline does not establish broad risk reallocation.",
+    "Gold ETF AUM includes valuation effects; physical holdings and net flows are the cleaner demand evidence."
+  ],
+  "limitations": [
+    "World Gold Council August figures were not independently re-derived from raw fund-level data in this QA cycle; the report distinguishes flow, holdings and valuation effects.",
+    "TIC custodial data cannot precisely identify ultimate ownership by country and should not be read as a complete ownership map.",
+    "The first-tranche financing interpretation remains an analytical mechanism, not evidence that higher rates have already caused a measured volume of project cancellations."
+  ],
+  "notes": "Revision 1 approved after targeted re-review of the prior rejection and confirmation that the factual-attribution fix is present in both locales. Public materialization remains the publisher's responsibility.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-09-21",
+    "slug": "2026-09-21-global-wealth-flow-weekly",
+    "date": "2026-09-21",
+    "published_at": "2026-09-21T00:55:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "revision": 1,
+    "revision_reason": "qa_rework",
+    "supersedes_rejected_commit": "caff03eb99865e5c1625d1e58dfbe555a8b8ba94",
+    "qa_fixes_applied": ["Separated Federal Reserve and ECB inflation attribution in both locales", "Federal Reserve wording now states only what the September 16 FOMC statement supports: elevated inflation and geopolitical uncertainty", "ECB energy-conflict attribution remains explicitly tied to the ECB source", "Rechecked the later monetary-tightening section for consistent evidence status"],
+    "source_locale": "en",
+    "sources": {
+      "en": {"markdown": "staging/research/2026/09/2026-09-21-global-wealth-flow-weekly/en.md", "title": "Global Wealth Flow Monitor — 21 September 2026", "deck": "Dollar liquidity remained central while long-term U.S. securities flows weakened, money-market assets stayed near $8 trillion, gold ETF holdings reached a record and higher policy rates raised the financing hurdle for long-duration investment.", "tags": ["global capital flows", "TIC", "money market funds", "gold ETFs", "Federal Reserve", "ECB", "financing conditions"], "keywords": ["Treasury International Capital", "money market fund assets", "gold ETF flows", "foreign securities", "official flows", "policy rates", "capital allocation"], "regime": "High liquidity preference and defensive gold demand coexist with two-way cross-border securities flows as higher policy rates make long-duration financing more selective.", "key_risk": "Persistent energy-linked inflation and higher policy rates could turn a selective financing environment into project delays, credit deterioration and weaker long-term capital formation.", "watch": ["August TIC release on 16 October", "weekly ICI money-market fund assets", "September gold ETF holdings and flows", "IMF reserve-composition updates", "BIS cross-border banking data", "capital-intensive project delays and cancellations"], "search_text": "global wealth flows TIC July 2026 money market funds gold ETF August Federal Reserve ECB policy rates long-term securities capital allocation financing conditions"},
+      "pt-BR": {"markdown": "staging/research/2026/09/2026-09-21-global-wealth-flow-weekly/pt-BR.md", "title": "Global Wealth Flow Monitor — 21 de setembro de 2026", "deck": "A liquidez em dólar permaneceu central enquanto os fluxos de títulos americanos de longo prazo enfraqueceram, fundos de mercado monetário seguiram próximos de US$ 8 trilhões, posições em ETFs de ouro atingiram recorde e juros mais altos elevaram o custo de financiamento de longa duração.", "tags": ["fluxos globais de capital", "TIC", "fundos de mercado monetário", "ETFs de ouro", "Federal Reserve", "BCE", "condições de financiamento"], "keywords": ["Treasury International Capital", "ativos de fundos de mercado monetário", "fluxos de ETFs de ouro", "títulos estrangeiros", "fluxos oficiais", "juros básicos", "alocação de capital"], "regime": "Preferência elevada por liquidez e demanda defensiva por ouro coexistem com fluxos de títulos em duas direções, enquanto juros mais altos tornam o financiamento de longa duração mais seletivo.", "key_risk": "Inflação persistente ligada à energia e juros mais altos podem transformar um ambiente seletivo de financiamento em adiamentos de projetos, deterioração de crédito e menor formação de capital de longo prazo.", "watch": ["TIC de agosto em 16 de outubro", "ativos semanais de fundos de mercado monetário do ICI", "posições e fluxos de ETFs de ouro em setembro", "atualizações de composição de reservas do FMI", "dados bancários transfronteiriços do BIS", "adiamentos e cancelamentos de projetos intensivos em capital"], "search_text": "fluxos globais de riqueza TIC julho 2026 fundos de mercado monetário ETF ouro agosto Federal Reserve BCE juros títulos longo prazo alocação capital financiamento"}
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": ["political-economy-markets"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "topics": ["capital-markets", "currencies", "sovereign-debt", "banking-credit", "trade-investment", "energy", "industry-production", "infrastructure-logistics"],
+    "phenomena": ["war-armed-conflict"],
+    "format": "monitor",
+    "cadence": "weekly"
+  }
+}
