@@ -72,7 +72,8 @@ for(const file of html){
   if(!/<div class="language-switch"/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: seletor de idioma ausente`);
   if(!/<h1[\s>]/i.test(s)&&!rel.endsWith('404.html'))fail.push(`${rel}: H1 ausente`);
   if(/Carregando pesquisa|Loading research/i.test(s))fail.push(`${rel}: conteúdo dependente de client-side renderer`);
-  if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(s))fail.push(`${rel}: referência binária proibida`);
+  const htmlWithoutExternalUrls=s.replace(/https?:\/\/[^\s"'<>]+/gi,' ');
+  if(/\.(pdf|docx|xlsx)(?:\?|["'\s<)])/i.test(htmlWithoutExternalUrls))fail.push(`${rel}: referência binária interna proibida`);
   if(/<ol(?:\s[^>]*)?>[\s\S]*?<li[^>]*>\s*\d+[.)]\s+/i.test(s))fail.push(`${rel}: marcador numérico duplicado em lista ordenada`);
   if(/<ul(?:\s[^>]*)?>[\s\S]*?<li[^>]*>\s*[-+*•]\s+/i.test(s))fail.push(`${rel}: marcador duplicado em lista não ordenada`);
   if((rel.includes('research/conflict-systems/')||rel.includes('europe-russia-ukraine-security-system'))&&!rel.endsWith('404.html')){
