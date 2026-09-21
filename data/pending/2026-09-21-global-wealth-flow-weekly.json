@@ -7,6 +7,10 @@
   "published_at": "2026-09-21T00:55:00-03:00",
   "kind": "weekly-wealth-flow",
   "priority": 20,
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "caff03eb99865e5c1625d1e58dfbe555a8b8ba94",
+  "qa_fixes_applied": ["Separated Federal Reserve and ECB inflation attribution in both locales", "Federal Reserve wording now states only what the September 16 FOMC statement supports: elevated inflation and geopolitical uncertainty", "ECB energy-conflict attribution remains explicitly tied to the ECB source", "Rechecked the later monetary-tightening section for consistent evidence status"],
   "source_locale": "en",
   "sources": {
     "en": {
