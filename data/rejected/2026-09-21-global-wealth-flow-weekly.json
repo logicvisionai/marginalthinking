@@ -1,0 +1,64 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-09-21",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-21T00:45:19-03:00",
+  "reviewed_commit": "caff03eb99865e5c1625d1e58dfbe555a8b8ba94",
+  "pending_blob_sha": "f6b159b5beb324699a9081c7cb3c88cabbd00080",
+  "source_blob_shas": {
+    "en": "2f091c000c8f256c4cd4fca74cbd2f649108c989",
+    "pt-BR": "ce6ed8f965424922062c0b73b3d4a3e255459bea"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "taxonomy_check": "passed",
+  "translation_check": "passed_with_shared_blocking_error",
+  "blocking_issues": [
+    {
+      "type": "factual-attribution",
+      "location_en": "Opening, paragraph 2",
+      "location_pt_BR": "Abertura, parágrafo 2",
+      "issue": "Both editions state that the Federal Reserve and ECB decisions followed an energy shock that both institutions explicitly linked to inflation risk. The ECB explicitly tied its decision to conflict-driven inflation pressures and an energy shock, but the cited 16 September Federal Reserve FOMC statement does not mention an energy shock or explicitly attribute inflation risk to energy. It says inflation remains elevated and notes elevated uncertainty owing in part to geopolitical developments. The sentence therefore overstates the Federal Reserve source and turns a plausible contextual inference into an attributed fact.",
+      "evidence": [
+        "U.S. Federal Reserve FOMC statement, 16 September 2026: target range raised to 3.75-4.00%; inflation described as elevated; geopolitical developments mentioned as a source of uncertainty, but no explicit energy-shock attribution.",
+        "ECB Monetary policy decisions, 10 September 2026: explicitly states that Middle East conflict continues to generate inflation pressures; ECB staff material discusses the energy shock."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Rewrite the opening in both EN and PT-BR so the Federal Reserve is not described as explicitly linking its rate decision or inflation risk to an energy shock unless a primary Federal Reserve source that actually makes that attribution is added and supports the exact claim.",
+    "Keep the ECB energy-shock attribution separate from the Federal Reserve evidence, or frame the cross-market energy mechanism explicitly as Marginal Thinking inference rather than as a joint institutional statement.",
+    "Re-check the corresponding later monetary-tightening section after the opening is corrected so evidence status remains consistent across the report and both locales."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "editorial_publication_readiness": {
+      "result": "blocked",
+      "summary": "Opening is direct, headings are analytical, EN/PT-BR are semantically aligned, and no material template/meta-QA exposure was found. Publication is blocked because the opening embeds an unsupported joint institutional attribution in the central causal framing."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table; 2 explicit charts; 1 flow visual; 1 map visual; EN/PT-BR values, units and mechanisms are semantically aligned.",
+      "limitations": "The map is a regional transmission card rather than a coordinate map, consistent with the deterministic map grammar."
+    },
+    "factual_methodology": {
+      "result": "blocked",
+      "summary": "Treasury TIC figures and ICI money-market figures checked against primary releases match the staged report. Federal Reserve rate decision matches the primary statement. ECB rate decision and inflation projection match the primary ECB release. The shared energy-shock attribution to both central banks does not match the Federal Reserve source."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "For this weekly capital-flow monitor, the report provides sufficient current institutional and market mechanism context; no additional historical section is required for the thesis."
+    }
+  },
+  "contrary_evidence": [
+    "Positive aggregate TIC inflow coexists with a negative adjusted long-term balance, weakening any simple dollar-exit interpretation.",
+    "Money-market fund assets fell week on week but remained near $8 trillion, so the weekly decline does not establish broad risk reallocation.",
+    "Gold ETF AUM includes valuation effects; physical holdings and net flows are the cleaner demand evidence."
+  ],
+  "limitations": [
+    "World Gold Council August figures were not independently re-derived from raw fund-level data in this QA pass; the report correctly distinguishes flow, holdings and valuation effects.",
+    "TIC custodial data cannot precisely attribute ultimate ownership by country and should not be interpreted as a complete map of foreign U.S.-asset ownership."
+  ],
+  "notes": "Rejected before public materialization. No approval created. Correct the same ID/edition and return a new pending state with changed Git blob SHAs for QA."
+}
