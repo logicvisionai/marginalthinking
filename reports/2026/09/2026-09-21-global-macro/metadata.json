@@ -1,0 +1,131 @@
+{
+  "id": "MT-GM-2026-09-21",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T00:47:10-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "latin-america-caribbean",
+      "east-asia",
+      "south-asia",
+      "gulf"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "energy",
+    "trade-investment",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-21T00:58:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "a53b65140f34f2c40de53bc2f6a29ef1780de5f6",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — September 21, 2026",
+      "deck": "Oil relief and selective AI strength coexist with Treasury yields above 5%, while U.S.-China talks reduce diplomatic opacity without yet changing trade or technology restrictions.",
+      "tags": [
+        "global macro",
+        "Treasuries",
+        "oil",
+        "AI",
+        "US-China",
+        "Gulf",
+        "Europe",
+        "Japan",
+        "India",
+        "Brazil"
+      ],
+      "keywords": [
+        "Federal Reserve",
+        "Treasury yields",
+        "Brent",
+        "WTI",
+        "artificial intelligence",
+        "US-China trade",
+        "critical minerals",
+        "ECB",
+        "Bank of Japan",
+        "Selic"
+      ],
+      "regime": "Conditional energy relief under restrictive global financing conditions",
+      "key_risk": "Renewed Gulf supply disruption while major central banks and long sovereign yields remain restrictive",
+      "watch": [
+        "Gulf export throughput and attacks",
+        "U.S. 10-year Treasury around 5%",
+        "Trump-Xi summit outputs on tariffs, AI controls and critical minerals",
+        "breadth of technology-led equity strength"
+      ],
+      "search_text": "Global macro September 21 2026 oil Gulf Treasury yields Federal Reserve AI semiconductors US China trade critical minerals Europe gas Japan yen India rupee Brazil Selic"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — 21 de setembro de 2026",
+      "deck": "Alívio no petróleo e força seletiva da IA convivem com Treasuries acima de 5%, enquanto as conversas EUA-China reduzem a opacidade diplomática sem ainda alterar restrições comerciais ou tecnológicas.",
+      "tags": [
+        "macro global",
+        "Treasuries",
+        "petróleo",
+        "IA",
+        "EUA-China",
+        "Golfo",
+        "Europa",
+        "Japão",
+        "Índia",
+        "Brasil"
+      ],
+      "keywords": [
+        "Federal Reserve",
+        "juros dos Treasuries",
+        "Brent",
+        "WTI",
+        "inteligência artificial",
+        "comércio EUA-China",
+        "minerais críticos",
+        "BCE",
+        "Banco do Japão",
+        "Selic"
+      ],
+      "regime": "Alívio energético condicional sob condições financeiras globais restritivas",
+      "key_risk": "Nova interrupção de oferta no Golfo enquanto bancos centrais e juros soberanos longos permanecem restritivos",
+      "watch": [
+        "Fluxo exportador e ataques no Golfo",
+        "Treasury de 10 anos ao redor de 5%",
+        "Resultados da cúpula Trump-Xi sobre tarifas, controles de IA e minerais críticos",
+        "Amplitude da força acionária liderada por tecnologia"
+      ],
+      "search_text": "macro global 21 setembro 2026 petróleo Golfo Treasuries Federal Reserve IA semicondutores EUA China comércio minerais críticos Europa gás Japão iene Índia rupia Brasil Selic"
+    }
+  }
+}
