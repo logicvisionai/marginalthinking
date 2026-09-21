@@ -1,0 +1,50 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-ST-2026-09-21-vietnam-ftse-market-access",
+  "slug": "2026-09-21-strategic-transition-vietnam-ftse-market-access",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T01:05:00-03:00",
+  "kind": "strategic-transition",
+  "priority": 25,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-21-strategic-transition-vietnam-ftse-market-access/en.md",
+      "title": "Vietnam's FTSE upgrade turns market-access reform into an operating capital channel",
+      "deck": "Vietnam's move to FTSE Secondary Emerging status begins a phased test of whether non-prefunding, global-broker access and upgraded market infrastructure can convert index eligibility into durable institutional capital and deeper corporate financing.",
+      "tags": ["Vietnam", "FTSE Russell", "emerging markets", "capital markets", "market access", "foreign investment"],
+      "keywords": ["Vietnam FTSE upgrade", "Secondary Emerging Market", "non-prefunding", "global brokers", "foreign ownership", "stock market", "market infrastructure"],
+      "regime": "Market-access reforms have moved from qualification to live index implementation, with institutional scaling now constrained by liquidity, investable free float, settlement performance and continued regulatory execution.",
+      "key_risk": "The upgrade could remain concentrated in benchmark rebalancing if settlement, ownership, free-float or governance constraints prevent persistent institutional participation and broader corporate financing.",
+      "watch": ["FTSE tranche replication through September 2027", "foreign participation outside rebalance windows", "settlement failures and broker funding", "foreign ownership and free-float reforms", "equity issuance versus bank-credit growth", "progress toward MSCI accessibility criteria"],
+      "search_text": "Vietnam FTSE Secondary Emerging September 21 2026 capital market reform non-prefunding global brokers foreign investors liquidity stock accounts bank financing infrastructure"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-21-strategic-transition-vietnam-ftse-market-access/pt-BR.md",
+      "title": "A reclassificação da FTSE transforma a reforma de acesso ao mercado do Vietnã em um canal operacional de capital",
+      "deck": "A entrada do Vietnã na categoria Secondary Emerging da FTSE inicia um teste gradual de como a retirada do pré-financiamento, o acesso por corretoras globais e a nova infraestrutura de mercado podem converter elegibilidade para índices em capital institucional persistente e financiamento empresarial mais profundo.",
+      "tags": ["Vietnã", "FTSE Russell", "mercados emergentes", "mercados de capitais", "acesso a mercado", "investimento estrangeiro"],
+      "keywords": ["reclassificação FTSE Vietnã", "Secondary Emerging Market", "sem pré-financiamento", "corretoras globais", "participação estrangeira", "mercado acionário", "infraestrutura de mercado"],
+      "regime": "As reformas de acesso passaram da qualificação para a implementação efetiva nos índices, e a expansão institucional agora depende de liquidez, free float investível, desempenho da liquidação e continuidade da execução regulatória.",
+      "key_risk": "A reclassificação pode ficar concentrada nos rebalanceamentos se restrições de liquidação, propriedade, free float ou governança impedirem participação institucional persistente e maior financiamento empresarial.",
+      "watch": ["replicação das etapas da FTSE até setembro de 2027", "participação estrangeira fora das janelas de rebalanceamento", "falhas de liquidação e financiamento pelas corretoras", "reformas de participação estrangeira e free float", "emissões de ações versus crescimento do crédito bancário", "avanço nos critérios de acessibilidade da MSCI"],
+      "search_text": "Vietnã FTSE Secondary Emerging 21 setembro 2026 reforma mercado capitais pré-financiamento corretoras globais investidores estrangeiros liquidez contas crédito bancário infraestrutura"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "strategic-transitions",
+  "related_programs": ["political-economy-markets", "global-system-power"],
+  "dimensions": ["economy", "politics", "society"],
+  "geography": {"level": "country", "regions": ["asia-pacific"], "subregions": ["southeast-asia"], "countries": [{"code": "VN", "slug": "vietnam"}]},
+  "topics": ["capital-markets", "banking-credit", "trade-investment", "institutions-governance", "infrastructure-logistics", "industry-production", "social-change"],
+  "phenomena": ["institutional-change", "social-change"],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "selection_rationale": {
+    "relevance": "The reclassification changes the eligible global investor universe for a large export and manufacturing economy whose corporate finance remains heavily bank-dependent.",
+    "change": "FTSE Secondary Emerging status becomes effective on 21 September 2026 after concrete reforms to prefunding, failed-trade handling and global-broker access, beginning live phased index inclusion.",
+    "underattention": "The event is often framed as an index milestone, while the more consequential test is whether market-access reform changes financing structure, institutional participation and market quality over the next year.",
+    "transmission": "Regulatory reform changes investability, benchmark eligibility and potential portfolio flows; deeper liquidity can broaden corporate financing, while large domestic retail participation links market integrity to household savings and political-regulatory capacity."
+  }
+}
