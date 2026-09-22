@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const root=process.cwd();
 const out=path.join(root,'dist');
+const taxonomy=JSON.parse(fs.readFileSync(path.join(root,'data/taxonomy.json'),'utf8'));
 
 const copy={
   en:[
@@ -19,10 +20,10 @@ const copy={
   ]
 };
 
-const seriesCopy={
-  en:{eyebrow:'CONTROLLED RESEARCH SERIES',title:'Energy, Materials & Industrial Systems',text:'Electricity systems, fuels and energy carriers, strategic and advanced materials, and the industrial capacity required to turn resources and technology into operating systems.',action:'Open series'},
-  'pt-BR':{eyebrow:'SÉRIE DE PESQUISA CONTROLADA',title:'Energia, Materiais & Sistemas Industriais',text:'Sistemas elétricos, combustíveis e vetores energéticos, materiais estratégicos e avançados e a capacidade industrial necessária para transformar recursos e tecnologia em sistemas operacionais.',action:'Abrir série'}
-};
+const label=(obj,locale,fallback)=>obj?.[locale]||obj?.en||fallback;
+const featured=Object.entries(taxonomy.series||{})
+  .filter(([,s])=>s.homepage?.featured)
+  .sort((a,b)=>(a[1].homepage?.order||100)-(b[1].homepage?.order||100));
 
 for(const locale of ['en','pt-BR']){
   const file=path.join(out,locale==='en'?'index.html':'pt-br/index.html');
@@ -35,13 +36,17 @@ for(const locale of ['en','pt-BR']){
   if(!re.test(html))throw new Error(`Homepage research-programs block not found for ${locale}`);
   html=html.replace(re,replacement);
 
-  const s=seriesCopy[locale],href=`${prefix}/series/energy-materials-industrial-systems/`;
-  const feature=`<section class="section research-standard" data-home-series="energy-materials-industrial-systems"><div class="container research-standard-grid"><div><div class="eyebrow dark">${s.eyebrow}</div><h2>${s.title}</h2></div><p>${s.text} <a href="${href}">${s.action} →</a></p></div></section>`;
-  html=html.replace(/<section class="section research-standard" data-home-series="energy-materials-industrial-systems">[\s\S]*?<\/section>/,'');
+  html=html.replace(/<section class="section research-standard" data-home-series="[^"]+">[\s\S]*?<\/section>/g,'');
   const marker='<section class="section research-standard">';
   if(!html.includes(marker))throw new Error(`Homepage standard block not found for ${locale}`);
-  html=html.replace(marker,`${feature}${marker}`);
+  const features=featured.map(([id,s])=>{
+    const title=label(s,locale,id),text=label(s.homepage,locale,label(s.description,locale,'')),href=`${prefix}/series/${id}/`;
+    const eyebrow=locale==='pt-BR'?'SÉRIE DE PESQUISA':'RESEARCH SERIES';
+    const action=locale==='pt-BR'?'Abrir série':'Open series';
+    return `<section class="section research-standard" data-home-series="${id}"><div class="container research-standard-grid"><div><div class="eyebrow dark">${eyebrow}</div><h2>${title}</h2></div><p>${text} <a href="${href}">${action} →</a></p></div></section>`;
+  }).join('');
+  html=html.replace(marker,`${features}${marker}`);
   fs.writeFileSync(file,html);
 }
 
-console.log('Homepage aligned to four canonical programs and the controlled Energy, Materials & Industrial Systems series.');
+console.log(`Homepage aligned to four canonical programs and ${featured.length} featured controlled series.`);
