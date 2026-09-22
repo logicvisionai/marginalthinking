@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Global Dependency Network history",
-  "updated_at": "2026-09-18",
+  "updated_at": "2026-09-22",
   "event_types": {
     "baseline": {
       "en": "Baseline",
@@ -1592,6 +1592,152 @@
       },
       "research_ids": [
         "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
+    },
+    {
+      "event_id": "lic-dsf-framework-2026-09-22-node-added",
+      "entity_type": "node",
+      "entity_id": "lic-dsf-framework",
+      "date": "2026-09-22",
+      "type": "node_added",
+      "snapshot": {
+        "type": "institution",
+        "group": "monetary-architecture",
+        "label": {
+          "en": "IMF–World Bank LIC-DSF",
+          "pt-BR": "LIC-DSF FMI–Banco Mundial"
+        },
+        "description": {
+          "en": "Framework for assessing debt sustainability and fiscal space in low-income countries.",
+          "pt-BR": "Marco para avaliar sustentabilidade da dívida e espaço fiscal em países de baixa renda."
+        }
+      },
+      "summary": {
+        "en": "Added during reconciliation of the 22 September monetary-institutions research.",
+        "pt-BR": "Adicionado durante a reconciliação da pesquisa de instituições monetárias de 22 de setembro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22-LICDSF"
+      ]
+    },
+    {
+      "event_id": "sovereign-debt-assessment-2026-09-22-node-added",
+      "entity_type": "node",
+      "entity_id": "sovereign-debt-assessment",
+      "date": "2026-09-22",
+      "type": "node_added",
+      "snapshot": {
+        "type": "finance",
+        "group": "monetary-architecture",
+        "label": {
+          "en": "Sovereign debt assessment",
+          "pt-BR": "Avaliação de dívida soberana"
+        },
+        "description": {
+          "en": "Debt-risk classification used in program, lending and creditor decisions.",
+          "pt-BR": "Classificação de risco de dívida usada em programas, empréstimos e decisões de credores."
+        }
+      },
+      "summary": {
+        "en": "Added during reconciliation of the 22 September monetary-institutions research.",
+        "pt-BR": "Adicionado durante a reconciliação da pesquisa de instituições monetárias de 22 de setembro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22-LICDSF"
+      ]
+    },
+    {
+      "event_id": "pontes-settlement-2026-09-22-node-added",
+      "entity_type": "node",
+      "entity_id": "pontes-settlement",
+      "date": "2026-09-22",
+      "type": "node_added",
+      "snapshot": {
+        "type": "infrastructure",
+        "group": "monetary-architecture",
+        "label": {
+          "en": "Pontes settlement",
+          "pt-BR": "Liquidação Pontes"
+        },
+        "description": {
+          "en": "Eurosystem connection between DLT-based wholesale markets and TARGET Services for central-bank-money settlement.",
+          "pt-BR": "Conexão do Eurosistema entre mercados atacadistas baseados em DLT e TARGET Services para liquidação em moeda de banco central."
+        }
+      },
+      "summary": {
+        "en": "Added during reconciliation of the 22 September monetary-institutions research.",
+        "pt-BR": "Adicionado durante a reconciliação da pesquisa de instituições monetárias de 22 de setembro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "event_id": "tokenised-wholesale-markets-2026-09-22-node-added",
+      "entity_type": "node",
+      "entity_id": "tokenised-wholesale-markets",
+      "date": "2026-09-22",
+      "type": "node_added",
+      "snapshot": {
+        "type": "market",
+        "group": "monetary-architecture",
+        "label": {
+          "en": "Tokenised wholesale markets",
+          "pt-BR": "Mercados atacadistas tokenizados"
+        },
+        "description": {
+          "en": "DLT-based wholesale asset markets whose scaling depends partly on settlement infrastructure.",
+          "pt-BR": "Mercados atacadistas de ativos baseados em DLT cuja escala depende em parte da infraestrutura de liquidação."
+        }
+      },
+      "summary": {
+        "en": "Added during reconciliation of the 22 September monetary-institutions research.",
+        "pt-BR": "Adicionado durante a reconciliação da pesquisa de instituições monetárias de 22 de setembro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "event_id": "lic-dsf-sovereign-assessment-2026-09-22-edge-added",
+      "entity_type": "edge",
+      "entity_id": "lic-dsf-sovereign-assessment",
+      "date": "2026-09-22",
+      "type": "edge_added",
+      "snapshot": {
+        "from": "lic-dsf-framework",
+        "to": "sovereign-debt-assessment",
+        "relation": "governs",
+        "criticality": "high",
+        "substitutability": "low"
+      },
+      "summary": {
+        "en": "Validated relationship added during the 22 September reconciliation.",
+        "pt-BR": "Relação validada adicionada durante a reconciliação de 22 de setembro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22-LICDSF"
+      ]
+    },
+    {
+      "event_id": "pontes-tokenised-markets-2026-09-22-edge-added",
+      "entity_type": "edge",
+      "entity_id": "pontes-tokenised-markets",
+      "date": "2026-09-22",
+      "type": "edge_added",
+      "snapshot": {
+        "from": "pontes-settlement",
+        "to": "tokenised-wholesale-markets",
+        "relation": "enables",
+        "criticality": "medium",
+        "substitutability": "medium"
+      },
+      "summary": {
+        "en": "Validated relationship added during the 22 September reconciliation.",
+        "pt-BR": "Relação validada adicionada durante a reconciliação de 22 de setembro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
       ]
     }
   ]
