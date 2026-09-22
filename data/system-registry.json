@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "enforcement_start": "2026-09-22",
+  "updated_at": "2026-09-22",
+  "decision_states": [
+    "updated",
+    "verified_no_change",
+    "not_applicable",
+    "deferred_evidence_gap"
+  ],
+  "assets": [
+    {
+      "id": "series-energy-materials-industrial-systems",
+      "type": "editorial-series",
+      "status": "active",
+      "taxonomy_id": "energy-materials-industrial-systems",
+      "public_route": "/series/energy-materials-industrial-systems/",
+      "source_files": [
+        "data/taxonomy.json",
+        "ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "series-global-monetary-financial-institutions",
+      "type": "editorial-series",
+      "status": "active",
+      "taxonomy_id": "global-monetary-financial-institutions",
+      "public_route": "/series/global-monetary-financial-institutions/",
+      "source_files": [
+        "data/taxonomy.json",
+        "GLOBAL-MONETARY-FINANCIAL-INSTITUTIONS.md"
+      ],
+      "update_mode": "daily-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "series-policy-experiments-institutional-transitions",
+      "type": "editorial-series",
+      "status": "active",
+      "taxonomy_id": "policy-experiments-institutional-transitions",
+      "public_route": "/series/policy-experiments-institutional-transitions/",
+      "source_files": [
+        "data/taxonomy.json",
+        "POLICY-EXPERIMENTS.md"
+      ],
+      "update_mode": "weekly-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "global-dependency-network",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/dependencies/",
+      "source_files": [
+        "data/global-dependencies.json",
+        "data/global-dependency-history.json",
+        "DEPENDENCY-NETWORK.md"
+      ],
+      "render_script": "scripts/render-global-dependencies.mjs",
+      "validation_script": "scripts/validate-global-dependencies.mjs",
+      "freshness_source": "data/global-dependencies.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 36
+    },
+    {
+      "id": "structural-opportunity-atlas",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/opportunities/",
+      "source_files": [
+        "data/structural-opportunities.json",
+        "data/structural-opportunity-history.json",
+        "STRUCTURAL-OPPORTUNITY-ATLAS.md"
+      ],
+      "render_script": "scripts/render-structural-opportunities.mjs",
+      "validation_script": "scripts/validate-structural-opportunities.mjs",
+      "freshness_source": "data/structural-opportunities.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 72
+    },
+    {
+      "id": "strategic-actors",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/actors/",
+      "source_files": [
+        "data/strategic-actors.json",
+        "STRATEGIC-ACTORS.md"
+      ],
+      "render_script": "scripts/render-strategic-actors.mjs",
+      "validation_script": "scripts/validate-strategic-actors.mjs",
+      "freshness_source": "data/strategic-actors.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 72
+    },
+    {
+      "id": "policy-case-atlas",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/policy-cases/",
+      "source_files": [
+        "data/policy-cases.json",
+        "POLICY-EXPERIMENTS.md"
+      ],
+      "render_script": "scripts/render-policy-case-atlas.mjs",
+      "validation_script": "scripts/validate-policy-cases.mjs",
+      "freshness_source": "data/policy-cases.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 168
+    },
+    {
+      "id": "conflict-systems",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/research/conflict-systems/",
+      "source_files": [
+        "data/conflict-systems.json",
+        "CONFLICT-SECURITY-SOCIAL-CHANGE.md"
+      ],
+      "render_script": "scripts/render-conflict-systems-data.mjs",
+      "validation_script": "scripts/validate-conflict-systems.mjs",
+      "freshness_source": "data/conflict-systems.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 168
+    },
+    {
+      "id": "technology-signal-ledger",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/research/",
+      "source_files": [
+        "data/technology-signals.json",
+        "TECHNOLOGY-SIGNALS.md"
+      ],
+      "validation_script": "scripts/validate-pipeline.mjs",
+      "freshness_source": "data/technology-signals.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 168
+    },
+    {
+      "id": "country-region-navigation",
+      "type": "discovery-tool",
+      "status": "active",
+      "public_route": "/regions/",
+      "source_files": [
+        "data/taxonomy.json"
+      ],
+      "render_script": "scripts/inject-geography-nav.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "research-workspace",
+      "type": "reader-tool",
+      "status": "active",
+      "public_route": "/workspace/",
+      "source_files": [
+        "scripts/render-research-workspace.mjs",
+        "assets/js/research-workspace.js"
+      ],
+      "render_script": "scripts/render-research-workspace.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "global-search",
+      "type": "discovery-tool",
+      "status": "active",
+      "public_route": "/search.html",
+      "source_files": [
+        "scripts/render-discovery.mjs",
+        "assets/js/global-search.js"
+      ],
+      "render_script": "scripts/render-discovery.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "research-intelligence",
+      "type": "discovery-tool",
+      "status": "active",
+      "public_route": "/research/",
+      "source_files": [
+        "scripts/render-research-intelligence.mjs"
+      ],
+      "render_script": "scripts/render-research-intelligence.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "evergreen-research-hubs",
+      "type": "discovery-tool",
+      "status": "active",
+      "public_route": "/research/hubs/",
+      "source_files": [
+        "scripts/render-evergreen-hubs.mjs"
+      ],
+      "render_script": "scripts/render-evergreen-hubs.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "data-catalog",
+      "type": "access-layer",
+      "status": "active",
+      "public_route": "/data/",
+      "source_files": [
+        "scripts/render-data-catalog.mjs"
+      ],
+      "render_script": "scripts/render-data-catalog.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "mcp",
+      "type": "access-layer",
+      "status": "active",
+      "public_route": "/mcp-docs/",
+      "source_files": [
+        "MCP.md",
+        "scripts/render-mcp-catalog.mjs",
+        "src/worker.mjs"
+      ],
+      "render_script": "scripts/render-mcp-catalog.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    }
+  ]
+}

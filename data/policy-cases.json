@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "name": "Policy Case Atlas",
+  "updated_at": "2026-09-22",
+  "methodology": "POLICY-EXPERIMENTS.md",
+  "disclaimer": {
+    "en": "Comparative evidence on implemented policies and institutional transitions. Cases are not rankings, endorsements or binary success/failure labels.",
+    "pt-BR": "Evidência comparativa sobre políticas e transições institucionais implementadas. Os casos não constituem ranking, endosso nem classificação binária de sucesso ou fracasso."
+  },
+  "cases": [
+    {
+      "id": "br-real-plan-1994",
+      "domain": "monetary-stabilization",
+      "country": {
+        "code": "BR",
+        "slug": "brazil",
+        "name": {
+          "en": "Brazil",
+          "pt-BR": "Brasil"
+        }
+      },
+      "intervention": {
+        "en": "Real Plan and URV",
+        "pt-BR": "Plano Real e URV"
+      },
+      "period": {
+        "start": "1993",
+        "launch": "1994-07-01",
+        "end": null
+      },
+      "problem": {
+        "en": "Chronic high inflation reinforced by backward-looking indexation and repeated nominal repricing.",
+        "pt-BR": "Inflação crônica elevada reforçada por indexação retrospectiva e remarcação nominal recorrente."
+      },
+      "mechanism": {
+        "en": "Fiscal measures preceded a four-month unit-of-account transition in which the URV separated price denomination from the depreciating means of payment, followed by conversion into the real and supporting monetary, credit and exchange-rate measures.",
+        "pt-BR": "Medidas fiscais precederam uma transição de quatro meses por unidade de conta, na qual a URV separou a denominação de preços do meio de pagamento em desvalorização, seguida pela conversão para o real e por medidas monetárias, de crédito e cambiais."
+      },
+      "outcome_summary": {
+        "en": "Inflation fell abruptly after the July 1994 conversion and remained far below pre-plan rates; later banking stress, fiscal pressures and the exchange-rate regime required additional institutional adjustments.",
+        "pt-BR": "A inflação caiu abruptamente após a conversão de julho de 1994 e permaneceu muito abaixo das taxas anteriores; tensões bancárias, pressões fiscais e o regime cambial exigiram ajustes institucionais posteriores."
+      },
+      "transfer_limits": {
+        "en": "The mechanism depended on pervasive indexation, administrative conversion capacity, fiscal measures, functioning financial infrastructure and a credible path from the unit of account to a new currency.",
+        "pt-BR": "O mecanismo dependia de indexação disseminada, capacidade administrativa de conversão, medidas fiscais, infraestrutura financeira funcional e trajetória crível da unidade de conta para a nova moeda."
+      },
+      "evidence_status": "verified",
+      "last_verified": "2026-09-22",
+      "related_research_ids": [],
+      "sources": [
+        {
+          "name": "Banco Central do Brasil — The Real Plan",
+          "url": "https://www.bcb.gov.br/en/monetarypolicy/realplan",
+          "type": "primary"
+        },
+        {
+          "name": "IBGE — IPCA historical series",
+          "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html",
+          "type": "official-statistics"
+        },
+        {
+          "name": "IPEA — O Plano Real e a consolidação da estabilidade",
+          "url": "https://repositorio.ipea.gov.br/items/bdbc99d3-5620-4644-a58e-a9e0b450682e",
+          "type": "research"
+        }
+      ]
+    },
+    {
+      "id": "il-stabilization-1985",
+      "domain": "monetary-stabilization",
+      "country": {
+        "code": "IL",
+        "slug": "israel",
+        "name": {
+          "en": "Israel",
+          "pt-BR": "Israel"
+        }
+      },
+      "intervention": {
+        "en": "Economic Stabilization Program",
+        "pt-BR": "Programa de Estabilização Econômica"
+      },
+      "period": {
+        "start": "1985",
+        "launch": "1985-07",
+        "end": null
+      },
+      "problem": {
+        "en": "Very high inflation, fiscal imbalance and exchange-rate instability.",
+        "pt-BR": "Inflação muito elevada, desequilíbrio fiscal e instabilidade cambial."
+      },
+      "mechanism": {
+        "en": "A coordinated package combined fiscal restraint, limits on monetary financing, exchange-rate stabilization and an incomes-policy agreement affecting wages and prices.",
+        "pt-BR": "Um pacote coordenado combinou contenção fiscal, limites ao financiamento monetário, estabilização cambial e acordo de política de rendas envolvendo salários e preços."
+      },
+      "outcome_summary": {
+        "en": "Inflation fell sharply after the program while fiscal and monetary institutions changed to reduce recurrence; the package makes attribution to one instrument inappropriate.",
+        "pt-BR": "A inflação caiu fortemente após o programa enquanto instituições fiscais e monetárias mudaram para reduzir recorrência; o pacote impede atribuir o resultado a um único instrumento."
+      },
+      "transfer_limits": {
+        "en": "The program relied on negotiated incomes policy, fiscal action, exchange-rate management and institutional change rather than a standalone freeze.",
+        "pt-BR": "O programa dependeu de política de rendas negociada, ação fiscal, gestão cambial e mudança institucional, não de congelamento isolado."
+      },
+      "evidence_status": "verified",
+      "last_verified": "2026-09-22",
+      "related_research_ids": [],
+      "sources": [
+        {
+          "name": "Bank of Israel — institutional history",
+          "url": "https://www.boi.org.il/en/bank-of-israel/about-the-bank-of-israel",
+          "type": "primary"
+        },
+        {
+          "name": "IMF — Economic Stabilization Plan of July 1985",
+          "url": "https://www.elibrary.imf.org/view/book/9781557750341/ch014.xml",
+          "type": "institutional-research"
+        }
+      ]
+    },
+    {
+      "id": "bo-stabilization-1985",
+      "domain": "monetary-stabilization",
+      "country": {
+        "code": "BO",
+        "slug": "bolivia",
+        "name": {
+          "en": "Bolivia",
+          "pt-BR": "Bolívia"
+        }
+      },
+      "intervention": {
+        "en": "1985 macroeconomic stabilization",
+        "pt-BR": "Estabilização macroeconômica de 1985"
+      },
+      "period": {
+        "start": "1985",
+        "launch": "1985-08",
+        "end": null
+      },
+      "problem": {
+        "en": "Hyperinflation associated with severe fiscal imbalance and monetary financing.",
+        "pt-BR": "Hiperinflação associada a forte desequilíbrio fiscal e financiamento monetário."
+      },
+      "mechanism": {
+        "en": "Abrupt fiscal correction reduced central-bank budget financing while broader reforms changed prices, exchange arrangements and market controls.",
+        "pt-BR": "Correção fiscal abrupta reduziu o financiamento do orçamento pelo banco central, enquanto reformas mais amplas alteraram preços, arranjos cambiais e controles de mercado."
+      },
+      "outcome_summary": {
+        "en": "Hyperinflation ended rapidly and inflation declined substantially over subsequent years; longer-run growth and distribution remained separate problems.",
+        "pt-BR": "A hiperinflação terminou rapidamente e a inflação caiu de forma substancial nos anos seguintes; crescimento e distribuição de longo prazo permaneceram problemas distintos."
+      },
+      "transfer_limits": {
+        "en": "The case involved an extreme fiscal-monetary crisis; the magnitude and political feasibility of correction cannot be inferred for lower-inflation environments.",
+        "pt-BR": "O caso ocorreu em crise fiscal-monetária extrema; magnitude e viabilidade política da correção não podem ser inferidas para ambientes de inflação menor."
+      },
+      "evidence_status": "verified",
+      "last_verified": "2026-09-22",
+      "related_research_ids": [],
+      "sources": [
+        {
+          "name": "IMF — Reinvigorating Growth in Bolivia",
+          "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/sp071703",
+          "type": "institutional-research"
+        },
+        {
+          "name": "NBER — The Bolivian Hyperinflation and Stabilization",
+          "url": "https://www.nber.org/papers/w2073",
+          "type": "academic"
+        }
+      ]
+    },
+    {
+      "id": "ar-convertibility-1991",
+      "domain": "monetary-stabilization",
+      "country": {
+        "code": "AR",
+        "slug": "argentina",
+        "name": {
+          "en": "Argentina",
+          "pt-BR": "Argentina"
+        }
+      },
+      "intervention": {
+        "en": "Convertibility regime",
+        "pt-BR": "Regime de Convertibilidade"
+      },
+      "period": {
+        "start": "1991",
+        "launch": "1991-04-01",
+        "end": "2002-01"
+      },
+      "problem": {
+        "en": "High inflation and loss of confidence in the domestic currency.",
+        "pt-BR": "Inflação elevada e perda de confiança na moeda doméstica."
+      },
+      "mechanism": {
+        "en": "The peso was tied to the U.S. dollar under a legal convertibility rule, monetary liabilities were linked to foreign-exchange reserves and central-bank financing powers were constrained.",
+        "pt-BR": "O peso foi vinculado ao dólar por regra legal de convertibilidade, passivos monetários foram associados às reservas cambiais e os poderes de financiamento do banco central foram restringidos."
+      },
+      "outcome_summary": {
+        "en": "The regime rapidly reduced inflation and accompanied strong early-1990s growth, but fiscal, debt, external and real-exchange-rate vulnerabilities accumulated before default and abandonment of convertibility in 2001–02.",
+        "pt-BR": "O regime reduziu rapidamente a inflação e acompanhou forte crescimento no início dos anos 1990, mas vulnerabilidades fiscais, de dívida, externas e de câmbio real acumularam-se antes do default e abandono da convertibilidade em 2001–02."
+      },
+      "transfer_limits": {
+        "en": "A hard nominal anchor can stabilize prices while restricting adjustment to later shocks; debt currency composition, fiscal institutions, reserves and real-exchange-rate dynamics are central to sustainability.",
+        "pt-BR": "Uma âncora nominal rígida pode estabilizar preços ao mesmo tempo que restringe o ajuste a choques posteriores; composição cambial da dívida, instituições fiscais, reservas e câmbio real são centrais à sustentabilidade."
+      },
+      "evidence_status": "verified",
+      "last_verified": "2026-09-22",
+      "related_research_ids": [],
+      "sources": [
+        {
+          "name": "IMF IEO — Argentina, 1991–2001",
+          "url": "https://www.imf.org/external/np/ieo/2004/arg/eng/index.htm",
+          "type": "independent-evaluation"
+        },
+        {
+          "name": "IMF — Argentina transparency report",
+          "url": "https://www.imf.org/external/np/rosc/arg/index.htm",
+          "type": "institutional-research"
+        }
+      ]
+    }
+  ]
+}

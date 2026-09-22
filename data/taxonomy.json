@@ -64,6 +64,10 @@
           "en": "Industrial Capacity & Supply Chains",
           "pt-BR": "Capacidade Industrial & Cadeias de Suprimento"
         }
+      },
+      "analytical_chain": {
+        "en": "resource → technology → production → infrastructure → cost → scale → dependencies → capital → capacity/power → consequences",
+        "pt-BR": "recurso → tecnologia → produção → infraestrutura → custo → escala → dependências → capital → capacidade/poder → consequências"
       }
     },
     "global-monetary-financial-institutions": {
@@ -94,6 +98,57 @@
         "monetary-infrastructure-reserves": {
           "en": "Monetary Infrastructure & Reserves",
           "pt-BR": "Infraestrutura Monetária & Reservas"
+        }
+      },
+      "analytical_chain": {
+        "en": "institutional decision → monetary/financial mechanism → balance sheets and prices → financing conditions → distribution and capacity → second-order effects",
+        "pt-BR": "decisão institucional → mecanismo monetário/financeiro → balanços e preços → condições de financiamento → distribuição e capacidade → efeitos de segunda ordem"
+      }
+    },
+    "policy-experiments-institutional-transitions": {
+      "program": "political-economy-markets",
+      "en": "Policy Experiments & Institutional Transitions",
+      "pt-BR": "Experimentos de Política & Transições Institucionais",
+      "description": {
+        "en": "Deep case studies of implemented reforms, programs and institutional transitions, reconstructing design, incentives, sequencing, financing, implementation, outcomes, distributional effects, second-order consequences, durability and limits to transfer across contexts.",
+        "pt-BR": "Estudos de caso aprofundados sobre reformas, programas e transições institucionais implementadas, reconstruindo desenho, incentivos, sequência, financiamento, execução, resultados, efeitos distributivos, consequências de segunda ordem, durabilidade e limites de transferência entre contextos."
+      },
+      "analytical_chain": {
+        "en": "problem → institutional design → incentives → implementation → financing → adaptation → outcomes → distribution → second-order effects → durability → transfer limits",
+        "pt-BR": "problema → desenho institucional → incentivos → implementação → financiamento → adaptação → resultados → distribuição → efeitos de segunda ordem → durabilidade → limites de transferência"
+      },
+      "domains": {
+        "monetary-stabilization": {
+          "en": "Monetary Stabilization",
+          "pt-BR": "Estabilização Monetária"
+        },
+        "economic-transitions": {
+          "en": "Economic System Transitions",
+          "pt-BR": "Transições de Sistema Econômico"
+        },
+        "social-policy-human-capital": {
+          "en": "Social Policy & Human Capital",
+          "pt-BR": "Política Social & Capital Humano"
+        },
+        "state-capacity-governance": {
+          "en": "State Capacity & Governance",
+          "pt-BR": "Capacidade Estatal & Governança"
+        },
+        "industrial-development": {
+          "en": "Industrial & Development Policy",
+          "pt-BR": "Política Industrial & Desenvolvimento"
+        },
+        "resource-revenue-governance": {
+          "en": "Resource Revenue Governance",
+          "pt-BR": "Governança de Receitas de Recursos"
+        },
+        "labor-housing": {
+          "en": "Labour, Housing & Social Insurance",
+          "pt-BR": "Trabalho, Habitação & Proteção Social"
+        },
+        "crisis-resolution": {
+          "en": "Crisis Resolution & Financial Restructuring",
+          "pt-BR": "Resolução de Crises & Reestruturação Financeira"
         }
       }
     }
