@@ -1,5 +1,80 @@
 [
   {
+    "id": "MT-GMFI-2026-09-22-LICDSF",
+    "date": "2026-09-22",
+    "published_at": "2026-09-22T10:50:00-03:00",
+    "kind": "institutional-decision",
+    "priority": 7,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "sovereign-debt",
+      "institutions-governance",
+      "fiscal-policy",
+      "banking-credit"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "revision_reason": "qa_rework",
+    "series": "global-monetary-financial-institutions",
+    "series_domain": "multilateral-finance",
+    "qa_fixes_applied": [
+      "Added controlled phenomena classification: institutional-change",
+      "Localized Executive Board and Board references to Conselho Executivo in the PT-BR article",
+      "Localized Guidance Note and Board references in PT-BR watch metadata while preserving facts, dates, units, visuals and conclusions"
+    ],
+    "title": "The IMF–World Bank debt framework is changing how low-income sovereign risk is assessed",
+    "deck": "The 2026 LIC-DSF review adds domestic-debt and long-term modules, recalibrates debt-stress thresholds, introduces new model signals and data-confidence treatment, while keeping the harmonised discount rate at 5%.",
+    "url": "/reports/2026/09/2026-09-22-imf-world-bank-lic-debt-framework.html",
+    "markdown_url": "/reports/2026/09/2026-09-22-imf-world-bank-lic-debt-framework/en.md",
+    "tags": [
+      "IMF",
+      "World Bank",
+      "sovereign-debt",
+      "LIC-DSF"
+    ],
+    "keywords": [
+      "LIC-DSF",
+      "debt sustainability",
+      "low-income countries",
+      "domestic debt",
+      "debt distress",
+      "IMF",
+      "World Bank"
+    ],
+    "regime": "Debt assessment for low-income countries is moving toward broader coverage of domestic debt, long-term investment needs and more granular risk classification.",
+    "key_risk": "Greater analytical complexity and temporary non-publication of some mechanical signals can make country assessments harder to interpret during transition.",
+    "watch": [
+      "Guidance Note and DSA template",
+      "country documents after the 2027 Board summer recess",
+      "domestic-debt module",
+      "mechanical risk signal publication policy",
+      "debt-data confidence flags"
+    ],
+    "search_text": "IMF World Bank 2026 LIC DSF debt sustainability framework low income countries domestic debt discount rate five percent 2027 implementation.",
+    "qa_reviewed_at": "2026-09-22T17:22:35-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "f5c6e656a8b3ff3c7a664bd035eb9066639d266f"
+  },
+  {
     "id": "MT-GMFI-2026-09-22",
     "date": "2026-09-22",
     "published_at": "2026-09-22T10:35:00-03:00",

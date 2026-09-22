@@ -1,0 +1,108 @@
+{
+  "id": "MT-GMFI-2026-09-22-LICDSF",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T10:50:00-03:00",
+  "kind": "institutional-decision",
+  "priority": 7,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "sovereign-debt",
+    "institutions-governance",
+    "fiscal-policy",
+    "banking-credit"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "series": "global-monetary-financial-institutions",
+  "series_domain": "multilateral-finance",
+  "qa_fixes_applied": [
+    "Added controlled phenomena classification: institutional-change",
+    "Localized Executive Board and Board references to Conselho Executivo in the PT-BR article",
+    "Localized Guidance Note and Board references in PT-BR watch metadata while preserving facts, dates, units, visuals and conclusions"
+  ],
+  "qa_reviewed_at": "2026-09-22T17:22:35-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "f5c6e656a8b3ff3c7a664bd035eb9066639d266f",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "The IMF–World Bank debt framework is changing how low-income sovereign risk is assessed",
+      "deck": "The 2026 LIC-DSF review adds domestic-debt and long-term modules, recalibrates debt-stress thresholds, introduces new model signals and data-confidence treatment, while keeping the harmonised discount rate at 5%.",
+      "tags": [
+        "IMF",
+        "World Bank",
+        "sovereign-debt",
+        "LIC-DSF"
+      ],
+      "keywords": [
+        "LIC-DSF",
+        "debt sustainability",
+        "low-income countries",
+        "domestic debt",
+        "debt distress",
+        "IMF",
+        "World Bank"
+      ],
+      "regime": "Debt assessment for low-income countries is moving toward broader coverage of domestic debt, long-term investment needs and more granular risk classification.",
+      "key_risk": "Greater analytical complexity and temporary non-publication of some mechanical signals can make country assessments harder to interpret during transition.",
+      "watch": [
+        "Guidance Note and DSA template",
+        "country documents after the 2027 Board summer recess",
+        "domestic-debt module",
+        "mechanical risk signal publication policy",
+        "debt-data confidence flags"
+      ],
+      "search_text": "IMF World Bank 2026 LIC DSF debt sustainability framework low income countries domestic debt discount rate five percent 2027 implementation."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "O marco FMI–Banco Mundial muda a avaliação do risco de dívida em países de baixa renda",
+      "deck": "A revisão de 2026 do LIC-DSF adiciona módulos de dívida doméstica e longo prazo, recalibra limiares de estresse, introduz novos sinais de modelo e tratamento da confiança nos dados, mantendo a taxa harmonizada de desconto em 5%.",
+      "tags": [
+        "FMI",
+        "Banco-Mundial",
+        "divida-soberana",
+        "LIC-DSF"
+      ],
+      "keywords": [
+        "LIC-DSF",
+        "sustentabilidade da dívida",
+        "países de baixa renda",
+        "dívida doméstica",
+        "estresse da dívida",
+        "FMI",
+        "Banco Mundial"
+      ],
+      "regime": "A avaliação da dívida de países de baixa renda passa a cobrir melhor dívida doméstica, necessidades de investimento de longo prazo e classificações de risco mais granulares.",
+      "key_risk": "Maior complexidade analítica e a não publicação temporária de alguns sinais mecânicos podem dificultar a interpretação das avaliações durante a transição.",
+      "watch": [
+        "Nota de Orientação e novo modelo de DSA",
+        "documentos de países após o recesso de verão de 2027 do Conselho Executivo",
+        "módulo de dívida doméstica",
+        "política de publicação dos sinais mecânicos",
+        "indicadores de confiança nos dados de dívida"
+      ],
+      "search_text": "FMI Banco Mundial 2026 LIC DSF sustentabilidade dívida países baixa renda dívida doméstica taxa desconto cinco por cento implementação 2027."
+    }
+  }
+}
