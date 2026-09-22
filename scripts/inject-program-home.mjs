@@ -42,12 +42,13 @@ for(const locale of ['en','pt-BR']){
 
   for(const s of seriesCopy[locale])html=html.replace(new RegExp('<section class="section research-standard" data-home-series="'+s.id+'">[\\s\\S]*?<\\/section>','g'),'');
   const marker='<section class="section research-standard">';
-  if(!html.includes(marker))throw new Error(`Homepage standard block not found for ${locale}`);
   const features=seriesCopy[locale].map(s=>{
     const href=`${prefix}/series/${s.id}/`;
     return `<section class="section research-standard" data-home-series="${s.id}"><div class="container research-standard-grid"><div><div class="eyebrow dark">${s.eyebrow}</div><h2>${s.title}</h2></div><p>${s.text} <a href="${href}">${s.action} →</a></p></div></section>`;
   }).join('');
-  html=html.replace(marker,`${features}${marker}`);
+  if(html.includes(marker))html=html.replace(marker,`${features}${marker}`);
+  else if(html.includes('</main>'))html=html.replace('</main>',`${features}</main>`);
+  else throw new Error(`Homepage insertion point not found for ${locale}`);
   fs.writeFileSync(file,html);
 }
 
