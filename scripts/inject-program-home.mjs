@@ -20,8 +20,14 @@ const copy={
 };
 
 const seriesCopy={
-  en:{eyebrow:'CONTROLLED RESEARCH SERIES',title:'Energy, Materials & Industrial Systems',text:'Electricity systems, fuels and energy carriers, strategic and advanced materials, and the industrial capacity required to turn resources and technology into operating systems.',action:'Open series'},
-  'pt-BR':{eyebrow:'SÉRIE DE PESQUISA CONTROLADA',title:'Energia, Materiais & Sistemas Industriais',text:'Sistemas elétricos, combustíveis e vetores energéticos, materiais estratégicos e avançados e a capacidade industrial necessária para transformar recursos e tecnologia em sistemas operacionais.',action:'Abrir série'}
+  en:[
+    {id:'energy-materials-industrial-systems',eyebrow:'CONTROLLED RESEARCH SERIES',title:'Energy, Materials & Industrial Systems',text:'Electricity systems, fuels and energy carriers, strategic and advanced materials, and the industrial capacity required to turn resources and technology into operating systems.',action:'Open series'},
+    {id:'global-monetary-financial-institutions',eyebrow:'CONTROLLED RESEARCH SERIES',title:'Global Monetary & Financial Institutions',text:'Central-bank decisions, multilateral finance, sovereign-debt frameworks, financial stability, reserves and the public infrastructure used to move and settle money across borders.',action:'Open series'}
+  ],
+  'pt-BR':[
+    {id:'energy-materials-industrial-systems',eyebrow:'SÉRIE DE PESQUISA CONTROLADA',title:'Energia, Materiais & Sistemas Industriais',text:'Sistemas elétricos, combustíveis e vetores energéticos, materiais estratégicos e avançados e a capacidade industrial necessária para transformar recursos e tecnologia em sistemas operacionais.',action:'Abrir série'},
+    {id:'global-monetary-financial-institutions',eyebrow:'SÉRIE DE PESQUISA CONTROLADA',title:'Instituições Monetárias & Financeiras Globais',text:'Decisões de bancos centrais, finanças multilaterais, marcos de dívida soberana, estabilidade financeira, reservas e a infraestrutura pública usada para movimentar e liquidar dinheiro entre países.',action:'Abrir série'}
+  ]
 };
 
 for(const locale of ['en','pt-BR']){
@@ -35,13 +41,15 @@ for(const locale of ['en','pt-BR']){
   if(!re.test(html))throw new Error(`Homepage research-programs block not found for ${locale}`);
   html=html.replace(re,replacement);
 
-  const s=seriesCopy[locale],href=`${prefix}/series/energy-materials-industrial-systems/`;
-  const feature=`<section class="section research-standard" data-home-series="energy-materials-industrial-systems"><div class="container research-standard-grid"><div><div class="eyebrow dark">${s.eyebrow}</div><h2>${s.title}</h2></div><p>${s.text} <a href="${href}">${s.action} →</a></p></div></section>`;
-  html=html.replace(/<section class="section research-standard" data-home-series="energy-materials-industrial-systems">[\s\S]*?<\/section>/,'');
+  for(const s of seriesCopy[locale])html=html.replace(new RegExp('<section class="section research-standard" data-home-series="'+s.id+'">[\\s\\S]*?<\\/section>','g'),'');
   const marker='<section class="section research-standard">';
   if(!html.includes(marker))throw new Error(`Homepage standard block not found for ${locale}`);
-  html=html.replace(marker,`${feature}${marker}`);
+  const features=seriesCopy[locale].map(s=>{
+    const href=`${prefix}/series/${s.id}/`;
+    return `<section class="section research-standard" data-home-series="${s.id}"><div class="container research-standard-grid"><div><div class="eyebrow dark">${s.eyebrow}</div><h2>${s.title}</h2></div><p>${s.text} <a href="${href}">${s.action} →</a></p></div></section>`;
+  }).join('');
+  html=html.replace(marker,`${features}${marker}`);
   fs.writeFileSync(file,html);
 }
 
-console.log('Homepage aligned to four canonical programs and the controlled Energy, Materials & Industrial Systems series.');
+console.log('Homepage aligned to four canonical programs and controlled research series.');
