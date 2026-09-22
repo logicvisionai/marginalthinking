@@ -26,7 +26,7 @@ for(const locale of Object.keys(cfg.locales)){
   }
   assert.equal((home.match(/<h1\b/g)||[]).length,1);
   assert(!home.includes('class="home-grid"'),`${locale}: old uneven columns must not return`);
-  for(const url of ['/workspace/','/dependencies/','/opportunities/','/series/energy-materials-industrial-systems/'])assert(home.includes(`href="${prefix}${url}"`),`${locale}: missing entry point ${url}`);
+  for(const url of ['/workspace/','/dependencies/','/resource-control/','/opportunities/','/series/energy-materials-industrial-systems/'])assert(home.includes(`href="${prefix}${url}"`),`${locale}: missing entry point ${url}`);
   for(const file of [home,workspace])for(const match of file.matchAll(/(?:href|src)="(\/[^"#?]*)(?:[?#][^"]*)?"/g)){
     const url=match[1];if(url.startsWith('//'))continue;
     assert(fs.existsSync(fromUrl(url)),`${locale}: missing local destination ${url}`);
