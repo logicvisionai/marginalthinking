@@ -121,3 +121,6 @@ html[data-theme="dark"] .product-home{--home-accent:#77d9ed;--home-surface:#101a
 
 /* Keep below-the-fold editorial systems out of the initial mobile rendering workload. */
 .home-section,.home-tools,.home-program-section,.home-closing{content-visibility:auto;contain-intrinsic-size:600px}
+
+/* Policy Case Atlas and registry-driven controlled series. */
+.tool-case-preview{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;margin-top:18px;height:150px;align-content:center}.tool-case-preview span{display:flex;gap:9px;align-items:center;padding:10px;border:1px solid var(--home-border);background:var(--home-soft)}.tool-case-preview b{font:600 10px var(--sans);letter-spacing:.08em;color:var(--home-accent)}.tool-case-preview em{font:400 11px/1.3 var(--sans);font-style:normal;color:var(--muted)}.home-series-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 22px;border-top:1px solid var(--home-border);margin-top:20px}.home-series-list .home-series{border-top:0;border-bottom:1px solid var(--home-border);padding:18px 0}@media(max-width:760px){.home-series-list{grid-template-columns:1fr}.tool-case-preview{height:auto;min-height:145px}}

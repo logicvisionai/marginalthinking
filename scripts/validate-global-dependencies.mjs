@@ -1,11 +1,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {collectReports} from './lib/reports.mjs';
 
 const root=process.cwd();
 const graph=JSON.parse(fs.readFileSync(path.join(root,'data/global-dependencies.json'),'utf8'));
 const history=JSON.parse(fs.readFileSync(path.join(root,'data/global-dependency-history.json'),'utf8'));
-const reports=JSON.parse(fs.readFileSync(path.join(root,'data/reports.json'),'utf8'));
-const reportIds=new Set((Array.isArray(reports)?reports:reports.reports||[]).map(r=>r.id).filter(Boolean));
+const reports=collectReports(root);
+const reportIds=new Set(reports.map(r=>r.id).filter(Boolean));
 const errors=[];
 const fail=(id,msg)=>errors.push((id?id+': ':'')+msg);
 const bilingual=(id,name,v)=>{if(!v||typeof v!=='object'||Array.isArray(v))return fail(id,name+' must be bilingual');for(const l of ['en','pt-BR'])if(typeof v[l]!=='string'||v[l].trim().length<3)fail(id,name+'.'+l+' missing or too short');};

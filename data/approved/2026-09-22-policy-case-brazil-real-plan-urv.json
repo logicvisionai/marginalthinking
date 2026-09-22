@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-09-22-REAL-URV",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-22T13:35:00-03:00",
+  "reviewed_commit": "ce2fdd488bb182284d24a386902899bd34e7959c",
+  "pending_blob_sha": "8cac39d9df5011d3160ed9b5c6dc1f222432941c",
+  "source_blob_shas": {
+    "en": "177b105320798d4367a299666f5ded54f7de63d2",
+    "pt-BR": "26ba3a9de340a6adf787e0a678f1a01ac8af15b5"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "The Real Plan architecture, URV dates and parities, June–August 1994 IPCA values and 1995–1998 annual IPCA values were checked against Banco Central do Brasil and IBGE. Israel, Bolivia and Argentina are used as mechanism comparisons using Bank of Israel, IMF, NBER and IMF IEO material. The article separates observed outcomes from causal attribution and does not treat the comparison as a ranking."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Both editions open with the economic mechanism, avoid conversational or product-development language, preserve the same analytical structure and distinguish immediate stabilization, later institutional adaptation and transfer limits."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The case reconstructs initial conditions, indexation, fiscal sequencing, unit-of-account transition, financial-system adaptation, exchange-rate sustainability, distributional limits and cross-case comparators rather than presenting the currency conversion in isolation."
+    },
+    "institutional_consensus": {
+      "result": "passed",
+      "summary": "Official retrospective claims are identified as institutional evidence and complemented by statistical and independent or academic sources. No institution's interpretation is treated as dispositive causal proof."
+    },
+    "conflict_security_social_change": {
+      "result": "passed",
+      "summary": "Not materially applicable. Political-economy context is described institutionally without inferring motives or psychological states."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "3 Markdown tables; 2 explicit IPCA bar charts; 1 two-chain causal flow, for 6 analytical visuals in each locale.",
+      "limitations": "Charts document observed inflation paths and are not presented as estimates of the URV's independent causal effect. EN/PT-BR visual values and structure are equivalent."
+    }
+  },
+  "contrary_evidence": [
+    "The inflation break coincided with fiscal, monetary, credit, exchange-rate and trade-policy changes, so the URV's independent causal contribution cannot be identified from the time discontinuity alone.",
+    "Post-stabilization banking stress and the later exchange-rate regime change show that initial disinflation did not remove fiscal and financial-system constraints.",
+    "The Argentina comparison shows that rapid disinflation under a hard nominal anchor does not by itself establish long-run regime sustainability."
+  ],
+  "limitations": [
+    "Historical institutional reconstruction, not a new causal econometric estimate.",
+    "Distributional incidence is a required evidence dimension but is not reduced to an aggregate welfare verdict.",
+    "Cross-country cases differ in initial conditions, institutional capacity and inflation mechanisms; comparison is mechanism-based rather than treatment-equivalent."
+  ],
+  "notes": "Approved as the launch study for Policy Experiments & Institutional Transitions. Source Markdown is preserved verbatim in the public bundle and linked to the Policy Case Atlas.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-09-22-REAL-URV",
+    "slug": "2026-09-22-policy-case-brazil-real-plan-urv",
+    "date": "2026-09-22",
+    "published_at": "2026-09-22T13:15:00-03:00",
+    "kind": "policy-case-study",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-22-policy-case-brazil-real-plan-urv/en.md",
+        "title": "Brazil's Real Plan: how the URV broke the coordination mechanism of inertial inflation",
+        "deck": "The 1994 stabilization separated the unit of account from the means of payment before launching the real, attacking backward-looking indexation while fiscal, monetary, credit and exchange-rate measures supported the transition.",
+        "tags": [
+          "Brazil",
+          "Real Plan",
+          "URV",
+          "inflation",
+          "monetary stabilization"
+        ],
+        "keywords": [
+          "Plano Real",
+          "URV",
+          "inertial inflation",
+          "indexation",
+          "Brazil 1994",
+          "stabilization"
+        ],
+        "regime": "Transition from chronic indexed inflation to a new nominal regime through a temporary common unit of account and supporting macro-financial measures",
+        "key_risk": "Reading the URV as a self-contained formula obscures the fiscal, banking, exchange-rate and institutional conditions required to stabilize and sustain the regime.",
+        "watch": [
+          "Long-run distributional evidence",
+          "Banking-system adaptation",
+          "Exchange-rate regime changes through 1999",
+          "Comparative stabilization evidence"
+        ],
+        "search_text": "Brazil Real Plan URV 1994 inertial inflation indexation stabilization unit of account"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-22-policy-case-brazil-real-plan-urv/pt-BR.md",
+        "title": "Plano Real: como a URV rompeu o mecanismo de coordenação da inflação inercial",
+        "deck": "A estabilização de 1994 separou unidade de conta e meio de pagamento antes do lançamento do real, atacando a indexação retrospectiva enquanto medidas fiscais, monetárias, de crédito e cambiais sustentavam a transição.",
+        "tags": [
+          "Brasil",
+          "Plano Real",
+          "URV",
+          "inflação",
+          "estabilização monetária"
+        ],
+        "keywords": [
+          "Plano Real",
+          "URV",
+          "inflação inercial",
+          "indexação",
+          "Brasil 1994",
+          "estabilização"
+        ],
+        "regime": "Transição de inflação crônica indexada para novo regime nominal por unidade comum de conta temporária e medidas macrofinanceiras de apoio",
+        "key_risk": "Tratar a URV como fórmula autônoma oculta as condições fiscais, bancárias, cambiais e institucionais necessárias para estabilizar e sustentar o regime.",
+        "watch": [
+          "Evidência distributiva de longo prazo",
+          "Adaptação do sistema bancário",
+          "Mudanças do regime cambial até 1999",
+          "Evidência comparativa de estabilização"
+        ],
+        "search_text": "Brasil Plano Real URV 1994 inflação inercial indexação estabilização unidade de conta"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "series": "policy-experiments-institutional-transitions",
+    "series_domain": "monetary-stabilization",
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "institutions-governance",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "weekly",
+    "case_id": "br-real-plan-1994"
+  }
+}

@@ -21,12 +21,14 @@ for(const [id,s] of Object.entries(series)){
   for(const [domain,d] of Object.entries(s.domains||{}))if(!d.en||!d['pt-BR'])fail.push(`series ${id}/${domain}: labels EN/PT-BR obrigatórios`);
 }
 if(!series['energy-materials-industrial-systems'])fail.push('series controlada energy-materials-industrial-systems ausente');
+if(!series['policy-experiments-institutional-transitions'])fail.push('series controlada policy-experiments-institutional-transitions ausente');
 if(taxonomy.governance?.series_creation!=='human-editorial-change-only')fail.push('governance.series_creation deve ser human-editorial-change-only');
 if(taxonomy.governance?.series_domain_creation!=='human-editorial-change-only')fail.push('governance.series_domain_creation deve ser human-editorial-change-only');
 
 const topicPolicies={
   'energy-materials-industrial-systems': new Set(['energy','commodities-resources','infrastructure-logistics','industry-production','technology-innovation','trade-investment','capital-markets','geopolitics-security']),
-  'global-monetary-financial-institutions': new Set(['macroeconomics','monetary-policy','sovereign-debt','capital-markets','banking-credit','currencies','trade-investment','institutions-governance'])
+  'global-monetary-financial-institutions': new Set(['macroeconomics','monetary-policy','sovereign-debt','capital-markets','banking-credit','currencies','trade-investment','institutions-governance']),
+  'policy-experiments-institutional-transitions': new Set(['macroeconomics','fiscal-policy','monetary-policy','sovereign-debt','banking-credit','currencies','trade-investment','industry-production','institutions-governance','demography-labor','inequality-distribution','social-change'])
 };
 let seriesReports=0;
 const domainCounts=new Map();

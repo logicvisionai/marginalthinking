@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "enforcement_start": "2026-09-22",
+  "last_reconciled_at": "2026-09-22T13:35:00-03:00",
+  "runs": [
+    {
+      "id": "2026-09-22-initial-registry-reconciliation",
+      "reconciled_at": "2026-09-22T13:35:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-09-22",
+        "MT-GMFI-2026-09-22",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-PE-2026-09-22-REAL-URV"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "updated",
+          "note": "Current monetary-institution and sovereign-debt transmission candidates require canonical network update."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed against the 22 September publication set including the Real Plan/URV case; no material canonical change required."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "updated",
+          "note": "Current institutional actors and capability channels require canonical actor-map update."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "updated",
+          "note": "The Real Plan/URV launch study was materialized into the Policy Case Atlas and linked to the canonical report."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Reviewed against the 22 September publication set including the Real Plan/URV case; no material canonical change required."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Reviewed against the 22 September publication set including the Real Plan/URV case; no material canonical change required."
+        }
+      ]
+    }
+  ]
+}
