@@ -61,8 +61,8 @@
       "regime": "A avaliação da dívida de países de baixa renda passa a cobrir melhor dívida doméstica, necessidades de investimento de longo prazo e classificações de risco mais granulares.",
       "key_risk": "Maior complexidade analítica e a não publicação temporária de alguns sinais mecânicos podem dificultar a interpretação das avaliações durante a transição.",
       "watch": [
-        "Guidance Note e novo modelo de DSA",
-        "documentos de países após o recesso de verão de 2027 do Board",
+        "Nota de Orientação e novo modelo de DSA",
+        "documentos de países após o recesso de verão de 2027 do Conselho Executivo",
         "módulo de dívida doméstica",
         "política de publicação dos sinais mecânicos",
         "indicadores de confiança nos dados de dívida"
@@ -94,5 +94,16 @@
   "format": "brief",
   "cadence": "event-driven",
   "series": "global-monetary-financial-institutions",
-  "series_domain": "multilateral-finance"
+  "series_domain": "multilateral-finance",
+  "phenomena": [
+    "institutional-change"
+  ],
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "6b8b2bb59812bffedbb9a3bac31aa85ceeb09af9",
+  "qa_fixes_applied": [
+    "Added controlled phenomena classification: institutional-change",
+    "Localized Executive Board and Board references to Conselho Executivo in the PT-BR article",
+    "Localized Guidance Note and Board references in PT-BR watch metadata while preserving facts, dates, units, visuals and conclusions"
+  ]
 }

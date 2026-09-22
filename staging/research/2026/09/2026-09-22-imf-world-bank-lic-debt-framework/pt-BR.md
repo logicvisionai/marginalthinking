@@ -1,6 +1,6 @@
 # O marco FMI–Banco Mundial muda a avaliação do risco de dívida em países de baixa renda
 
-O Executive Board do FMI revisou em **9 de setembro de 2026** o marco conjunto FMI–Banco Mundial de sustentabilidade da dívida para países de baixa renda (LIC-DSF). O comunicado público datado de 21 de setembro descreve a maior revisão desde 2017. O marco continua sendo referência operacional para aconselhamento e decisões de empréstimo do FMI e para avaliações de sustentabilidade usadas por credores e tomadores.
+O Conselho Executivo do FMI revisou em **9 de setembro de 2026** o marco conjunto FMI–Banco Mundial de sustentabilidade da dívida para países de baixa renda (LIC-DSF). O comunicado público datado de 21 de setembro descreve a maior revisão desde 2017. O marco continua sendo referência operacional para aconselhamento e decisões de empréstimo do FMI e para avaliações de sustentabilidade usadas por credores e tomadores.
 
 A reforma não altera os estoques de dívida existentes. Ela altera as regras analíticas aplicadas a esses estoques: como a capacidade de endividamento é medida, quais limiares sinalizam estresse, como a dívida doméstica entra na avaliação, como necessidades de desenvolvimento e clima de longo prazo são tratadas e como a incerteza nos dados de dívida afeta o resultado.
 
@@ -47,25 +47,25 @@ Dívida pública e garantida → capacidade de endividamento + limiares de estre
 
 ## Mais modelagem não elimina julgamento
 
-A reforma introduz novo modelo e sinal mecânico de risco, mas o Executive Board preservou o julgamento estruturado na avaliação final. Isso cria duas salvaguardas e uma questão de transparência.
+A reforma introduz novo modelo e sinal mecânico de risco, mas o Conselho Executivo preservou o julgamento estruturado na avaliação final. Isso cria duas salvaguardas e uma questão de transparência.
 
 A primeira salvaguarda é que a saída mecânica não determina automaticamente a classificação final. A segunda é que indicadores auxiliares e evidências específicas de cada país podem qualificar o resultado do modelo. A questão de transparência é que a maioria dos diretores apoiou **restringir temporariamente a publicação dos cortes de probabilidade usados no sinal mecânico e do próprio sinal mecânico nos DSAs individuais**, enquanto se acumula experiência com a metodologia.
 
-Essa restrição reduz a capacidade de analistas externos reproduzirem parte da avaliação. O Board pediu que a equipe esclareça quando o regime de não publicação será revisto.
+Essa restrição reduz a capacidade de analistas externos reproduzirem parte da avaliação. O Conselho Executivo pediu que a equipe esclareça quando o regime de não publicação será revisto.
 
 ## Qualidade dos dados entra na avaliação de risco
 
 O novo marco adiciona um indicador de confiança nos dados de dívida e ajustes de linha de base quando lacunas criam incerteza material. Isso é relevante em países nos quais a cobertura do setor público é incompleta, passivos de empresas estatais são difíceis de consolidar ou a informação sobre dívida doméstica é menos desenvolvida.
 
-O Board também advertiu que países fazendo esforços de boa-fé para melhorar os dados não devem ser penalizados indevidamente. O teste prático será verificar se os indicadores de confiança aumentam a transparência sem piorar mecanicamente classificações em países com menor capacidade estatística.
+O Conselho Executivo também advertiu que países fazendo esforços de boa-fé para melhorar os dados não devem ser penalizados indevidamente. O teste prático será verificar se os indicadores de confiança aumentam a transparência sem piorar mecanicamente classificações em países com menor capacidade estatística.
 
 ## Transição para 2027
 
-O LIC-DSF revisado deve entrar em operação no segundo semestre de 2027. Segundo o FMI, os primeiros documentos de países sob o novo marco devem chegar ao Board após o recesso de verão de 2027. Antes disso, serão concluídos a orientação operacional, o modelo de DSA e o treinamento de equipes e autoridades.
+O LIC-DSF revisado deve entrar em operação no segundo semestre de 2027. Segundo o FMI, os primeiros documentos de países sob o novo marco devem chegar ao Conselho Executivo após o recesso de verão de 2027. Antes disso, serão concluídos a orientação operacional, o modelo de DSA e o treinamento de equipes e autoridades.
 
 As evidências de maior valor serão os efeitos de implementação: como o novo módulo de dívida doméstica altera avaliações, com que frequência o julgamento estruturado diverge do sinal mecânico, como os indicadores de confiança afetam a cobertura da dívida e se as restrições temporárias de publicação dos resultados do modelo são reduzidas ou eliminadas.
 
 ### Fontes
 
-- FMI, **Executive Board Reviews the Joint IMF-World Bank Debt Sustainability Framework for Low Income Countries**, 21 de setembro de 2026: https://www.imf.org/en/news/articles/2026/09/21/pr26296-lics-imf-executive-board-reviews-the-joint-world-bank-debt-sustainability-framework
+- FMI, **Conselho Executivo revisa o marco conjunto FMI–Banco Mundial de sustentabilidade da dívida para países de baixa renda**,  21 de setembro de 2026: https://www.imf.org/en/news/articles/2026/09/21/pr26296-lics-imf-executive-board-reviews-the-joint-world-bank-debt-sustainability-framework
 - FMI, **2026 Review of Low-Income Countries Debt Sustainability Framework**, material de política vinculado ao comunicado: https://www.imf.org/en/publications/policy-papers
