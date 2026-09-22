@@ -5,6 +5,7 @@ import {collectReports,reportView,availableLocales} from './lib/reports.mjs';
 
 const root=process.cwd(),dist=path.join(root,'dist'),reports=collectReports(root),cfg=JSON.parse(fs.readFileSync('site.config.json','utf8'));
 const network=JSON.parse(fs.readFileSync('data/global-dependencies.json','utf8'));
+const taxonomy=JSON.parse(fs.readFileSync('data/taxonomy.json','utf8'));
 const fromUrl=url=>path.join(dist,url.split(/[?#]/)[0].replace(/\/$/,'/index.html').replace(/^\//,''));
 for(const locale of Object.keys(cfg.locales)){
   const prefix=cfg.locales[locale].path?`/${cfg.locales[locale].path}`:'';
@@ -26,7 +27,8 @@ for(const locale of Object.keys(cfg.locales)){
   }
   assert.equal((home.match(/<h1\b/g)||[]).length,1);
   assert(!home.includes('class="home-grid"'),`${locale}: old uneven columns must not return`);
-  for(const url of ['/workspace/','/dependencies/','/opportunities/','/series/energy-materials-industrial-systems/'])assert(home.includes(`href="${prefix}${url}"`),`${locale}: missing entry point ${url}`);
+  const entryPoints=['/workspace/','/dependencies/','/opportunities/',...Object.keys(taxonomy.series||{}).map(id=>`/series/${id}/`)];
+  for(const url of entryPoints)assert(home.includes(`href="${prefix}${url}"`),`${locale}: missing entry point ${url}`);
   for(const file of [home,workspace])for(const match of file.matchAll(/(?:href|src)="(\/[^"#?]*)(?:[?#][^"]*)?"/g)){
     const url=match[1];if(url.startsWith('//'))continue;
     assert(fs.existsSync(fromUrl(url)),`${locale}: missing local destination ${url}`);
