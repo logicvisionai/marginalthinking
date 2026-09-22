@@ -19,12 +19,18 @@ for(const [id,s] of Object.entries(series)){
   if(!s.en||!s['pt-BR'])fail.push(`series ${id}: labels EN/PT-BR obrigatórios`);
   if(!s.domains||!Object.keys(s.domains).length)fail.push(`series ${id}: domains ausente/vazio`);
   for(const [domain,d] of Object.entries(s.domains||{}))if(!d.en||!d['pt-BR'])fail.push(`series ${id}/${domain}: labels EN/PT-BR obrigatórios`);
+  if(s.validation){
+    const min=Number(s.validation.min_relevant_topics||0),pool=s.validation.topic_pool;
+    if(!Number.isInteger(min)||min<1)fail.push(`series ${id}: validation.min_relevant_topics inválido`);
+    if(!Array.isArray(pool)||!pool.length)fail.push(`series ${id}: validation.topic_pool ausente/vazio`);
+    else for(const topic of pool)if(!taxonomy.topics?.[topic])fail.push(`series ${id}: validation.topic_pool contém tópico inválido (${topic})`);
+  }
 }
 if(!series['energy-materials-industrial-systems'])fail.push('series controlada energy-materials-industrial-systems ausente');
+if(!series['global-monetary-financial-architecture'])fail.push('series controlada global-monetary-financial-architecture ausente');
 if(taxonomy.governance?.series_creation!=='human-editorial-change-only')fail.push('governance.series_creation deve ser human-editorial-change-only');
 if(taxonomy.governance?.series_domain_creation!=='human-editorial-change-only')fail.push('governance.series_domain_creation deve ser human-editorial-change-only');
 
-const relevantTopics=new Set(['energy','commodities-resources','infrastructure-logistics','industry-production','technology-innovation','trade-investment','capital-markets','geopolitics-security']);
 let seriesReports=0;
 const domainCounts=new Map();
 for(const file of walk('reports')){
@@ -37,8 +43,10 @@ for(const file of walk('reports')){
   if(item.program!==s.program)fail.push(`${file}: programa ${item.program||'ausente'} difere do pai ${s.program}`);
   if(!item.series_domain||!s.domains?.[item.series_domain])fail.push(`${file}: series_domain inválido ou ausente (${item.series_domain||'ausente'})`);
   else domainCounts.set(item.series_domain,(domainCounts.get(item.series_domain)||0)+1);
-  const topicCount=(item.topics||[]).filter(t=>relevantTopics.has(t)).length;
-  if(topicCount<2)fail.push(`${file}: série exige ao menos dois tópicos materiais de energia/recursos/indústria/infraestrutura/tecnologia/capital/comércio`);
+  const pool=new Set(s.validation?.topic_pool||[]);
+  const min=Number(s.validation?.min_relevant_topics||0);
+  const topicCount=(item.topics||[]).filter(t=>pool.has(t)).length;
+  if(min&&topicCount<min)fail.push(`${file}: série ${item.series} exige ao menos ${min} tópicos materiais do seu pool controlado`);
   if(!['assessment','research-report','monitor','data-note','brief'].includes(item.format))warn.push(`${file}: formato ${item.format} é incomum para a série`);
   if(!item.locales?.en||!item.locales?.['pt-BR'])fail.push(`${file}: série exige edições en e pt-BR`);
 }
