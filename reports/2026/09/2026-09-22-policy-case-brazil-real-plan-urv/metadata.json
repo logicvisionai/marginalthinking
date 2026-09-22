@@ -109,5 +109,8 @@
       ],
       "search_text": "Brasil Plano Real URV 1994 inflação inercial indexação estabilização unidade de conta"
     }
-  }
+  },
+  "qa_reviewed_at": "2026-09-22T13:35:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "ce2fdd488bb182284d24a386902899bd34e7959c"
 }

@@ -1,5 +1,89 @@
 [
   {
+    "id": "MT-PE-2026-09-22-REAL-URV",
+    "date": "2026-09-22",
+    "published_at": "2026-09-22T13:15:00-03:00",
+    "kind": "policy-case-study",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "institutions-governance",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "revision": 1,
+    "series": "policy-experiments-institutional-transitions",
+    "series_domain": "monetary-stabilization",
+    "case_id": "br-real-plan-1994",
+    "title": "Brazil's Real Plan: how the URV broke the coordination mechanism of inertial inflation",
+    "deck": "The 1994 stabilization separated the unit of account from the means of payment before launching the real, attacking backward-looking indexation while fiscal, monetary, credit and exchange-rate measures supported the transition.",
+    "url": "/reports/2026/09/2026-09-22-policy-case-brazil-real-plan-urv.html",
+    "markdown_url": "/reports/2026/09/2026-09-22-policy-case-brazil-real-plan-urv/en.md",
+    "tags": [
+      "Brazil",
+      "Real Plan",
+      "URV",
+      "inflation",
+      "monetary stabilization"
+    ],
+    "keywords": [
+      "Plano Real",
+      "URV",
+      "inertial inflation",
+      "indexation",
+      "Brazil 1994",
+      "stabilization"
+    ],
+    "regime": "Transition from chronic indexed inflation to a new nominal regime through a temporary common unit of account and supporting macro-financial measures",
+    "key_risk": "Reading the URV as a self-contained formula obscures the fiscal, banking, exchange-rate and institutional conditions required to stabilize and sustain the regime.",
+    "watch": [
+      "Long-run distributional evidence",
+      "Banking-system adaptation",
+      "Exchange-rate regime changes through 1999",
+      "Comparative stabilization evidence"
+    ],
+    "search_text": "Brazil Real Plan URV 1994 inertial inflation indexation stabilization unit of account",
+    "qa_reviewed_at": "2026-09-22T13:35:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "ce2fdd488bb182284d24a386902899bd34e7959c"
+  },
+  {
     "id": "MT-GMFI-2026-09-22-LICDSF",
     "date": "2026-09-22",
     "published_at": "2026-09-22T10:50:00-03:00",
