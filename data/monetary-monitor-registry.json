@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-22",
+  "purpose": "Source registry for global monetary and financial institutional monitoring. The registry defines discovery coverage, polling priority and primary-source entry points; it is operational metadata, not public evidence.",
+  "coverage_policy": {
+    "rule": "jurisdiction-complete",
+    "bis_baseline": {
+      "source": "https://www.bis.org/about/organisation/members",
+      "current_members": 63,
+      "note": "All BIS member central banks and monetary authorities are eligible regardless of tier."
+    },
+    "imf_remainder": {
+      "source": "https://www.imf.org/external/np/sec/memdir/memdate.htm",
+      "current_members": 191,
+      "note": "Use IMF member jurisdictions to identify central banks, currency boards, monetary authorities and currency-union members not already captured by the BIS baseline."
+    },
+    "non_imf_and_territorial": "Add monetary authorities with material currency, reserve, payment or cross-border-finance relevance even when the jurisdiction is not an IMF member.",
+    "review_frequency": "monthly"
+  },
+  "polling_tiers": {
+    "A": {
+      "frequency": "daily",
+      "description": "Systemic monetary nodes and major regional transmission hubs."
+    },
+    "B": {
+      "frequency": "business-daily",
+      "description": "Other BIS member central banks and monetary authorities."
+    },
+    "C": {
+      "frequency": "weekly-and-event-driven",
+      "description": "Remaining national, currency-board and territorial monetary authorities."
+    },
+    "M": {
+      "frequency": "business-daily-and-event-driven",
+      "description": "Multilateral monetary, sovereign-finance, prudential and development-finance institutions."
+    }
+  },
+  "source_types": [
+    "policy-decisions",
+    "minutes",
+    "operating-frameworks",
+    "balance-sheets",
+    "reserve-data",
+    "fx-intervention",
+    "swap-lines",
+    "payment-infrastructure",
+    "financial-stability",
+    "prudential-rules",
+    "sovereign-finance",
+    "multilateral-projects",
+    "capital-plans",
+    "membership-and-governance"
+  ],
+  "tier_a": [
+    {
+      "id": "fed",
+      "name": "Federal Reserve",
+      "jurisdiction": "United States",
+      "url": "https://www.federalreserve.gov/",
+      "priority_signals": [
+        "policy-decisions",
+        "operating-frameworks",
+        "balance-sheets",
+        "swap-lines",
+        "financial-stability"
+      ]
+    },
+    {
+      "id": "ecb",
+      "name": "European Central Bank",
+      "jurisdiction": "Euro area",
+      "url": "https://www.ecb.europa.eu/",
+      "priority_signals": [
+        "policy-decisions",
+        "balance-sheets",
+        "operating-frameworks",
+        "payment-infrastructure",
+        "financial-stability"
+      ]
+    },
+    {
+      "id": "pboc",
+      "name": "People's Bank of China",
+      "jurisdiction": "China",
+      "url": "https://www.pbc.gov.cn/en/3688006/index.html",
+      "priority_signals": [
+        "policy-decisions",
+        "liquidity",
+        "reserve-data",
+        "currencies",
+        "payment-infrastructure"
+      ]
+    },
+    {
+      "id": "boj",
+      "name": "Bank of Japan",
+      "jurisdiction": "Japan",
+      "url": "https://www.boj.or.jp/en/",
+      "priority_signals": [
+        "policy-decisions",
+        "operating-frameworks",
+        "balance-sheets",
+        "payment-infrastructure"
+      ]
+    },
+    {
+      "id": "boe",
+      "name": "Bank of England",
+      "jurisdiction": "United Kingdom",
+      "url": "https://www.bankofengland.co.uk/",
+      "priority_signals": [
+        "policy-decisions",
+        "balance-sheets",
+        "financial-stability",
+        "prudential-rules"
+      ]
+    },
+    {
+      "id": "rbi",
+      "name": "Reserve Bank of India",
+      "jurisdiction": "India",
+      "url": "https://www.rbi.org.in/",
+      "priority_signals": [
+        "policy-decisions",
+        "liquidity",
+        "currencies",
+        "reserve-data",
+        "prudential-rules"
+      ]
+    },
+    {
+      "id": "bcb",
+      "name": "Banco Central do Brasil",
+      "jurisdiction": "Brazil",
+      "url": "https://www.bcb.gov.br/en",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "reserve-data",
+        "financial-stability",
+        "payment-infrastructure"
+      ]
+    },
+    {
+      "id": "boc",
+      "name": "Bank of Canada",
+      "jurisdiction": "Canada",
+      "url": "https://www.bankofcanada.ca/",
+      "priority_signals": [
+        "policy-decisions",
+        "balance-sheets",
+        "financial-stability"
+      ]
+    },
+    {
+      "id": "rba",
+      "name": "Reserve Bank of Australia",
+      "jurisdiction": "Australia",
+      "url": "https://www.rba.gov.au/",
+      "priority_signals": [
+        "policy-decisions",
+        "operating-frameworks",
+        "financial-stability"
+      ]
+    },
+    {
+      "id": "snb",
+      "name": "Swiss National Bank",
+      "jurisdiction": "Switzerland",
+      "url": "https://www.snb.ch/en",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "reserve-data",
+        "balance-sheets"
+      ]
+    },
+    {
+      "id": "bok",
+      "name": "Bank of Korea",
+      "jurisdiction": "Korea",
+      "url": "https://www.bok.or.kr/eng/",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "reserve-data",
+        "financial-stability"
+      ]
+    },
+    {
+      "id": "bi",
+      "name": "Bank Indonesia",
+      "jurisdiction": "Indonesia",
+      "url": "https://www.bi.go.id/en/default.aspx",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "reserve-data",
+        "payment-infrastructure"
+      ]
+    },
+    {
+      "id": "sarb",
+      "name": "South African Reserve Bank",
+      "jurisdiction": "South Africa",
+      "url": "https://www.resbank.co.za/",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "financial-stability",
+        "prudential-rules"
+      ]
+    },
+    {
+      "id": "banxico",
+      "name": "Banco de México",
+      "jurisdiction": "Mexico",
+      "url": "https://www.banxico.org.mx/",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "reserve-data",
+        "payment-infrastructure"
+      ]
+    },
+    {
+      "id": "sama",
+      "name": "Saudi Central Bank",
+      "jurisdiction": "Saudi Arabia",
+      "url": "https://www.sama.gov.sa/en-US/Pages/default.aspx",
+      "priority_signals": [
+        "reserve-data",
+        "banking-credit",
+        "payment-infrastructure",
+        "financial-stability"
+      ]
+    },
+    {
+      "id": "cbuae",
+      "name": "Central Bank of the UAE",
+      "jurisdiction": "United Arab Emirates",
+      "url": "https://www.centralbank.ae/en/",
+      "priority_signals": [
+        "policy-decisions",
+        "reserve-data",
+        "banking-credit",
+        "payment-infrastructure"
+      ]
+    },
+    {
+      "id": "mas",
+      "name": "Monetary Authority of Singapore",
+      "jurisdiction": "Singapore",
+      "url": "https://www.mas.gov.sg/",
+      "priority_signals": [
+        "policy-decisions",
+        "currencies",
+        "reserve-data",
+        "financial-stability",
+        "prudential-rules"
+      ]
+    },
+    {
+      "id": "hkma",
+      "name": "Hong Kong Monetary Authority",
+      "jurisdiction": "Hong Kong SAR",
+      "url": "https://www.hkma.gov.hk/eng/",
+      "priority_signals": [
+        "currency-board",
+        "reserve-data",
+        "banking-credit",
+        "payment-infrastructure",
+        "financial-stability"
+      ]
+    }
+  ],
+  "tier_m": [
+    {
+      "id": "imf",
+      "name": "International Monetary Fund",
+      "url": "https://www.imf.org/",
+      "priority_signals": [
+        "programmes-and-reviews",
+        "debt-frameworks",
+        "sdr",
+        "reserve-data",
+        "financial-stability",
+        "policy-papers"
+      ]
+    },
+    {
+      "id": "world-bank",
+      "name": "World Bank Group",
+      "url": "https://www.worldbank.org/",
+      "priority_signals": [
+        "sovereign-finance",
+        "debt-frameworks",
+        "development-finance",
+        "guarantees"
+      ]
+    },
+    {
+      "id": "bis",
+      "name": "Bank for International Settlements",
+      "url": "https://www.bis.org/",
+      "priority_signals": [
+        "central-bank-cooperation",
+        "banking-statistics",
+        "payments",
+        "financial-stability",
+        "research"
+      ]
+    },
+    {
+      "id": "fsb",
+      "name": "Financial Stability Board",
+      "url": "https://www.fsb.org/",
+      "priority_signals": [
+        "financial-stability",
+        "non-bank-finance",
+        "resolution",
+        "cross-border-regulation"
+      ]
+    },
+    {
+      "id": "bcbs",
+      "name": "Basel Committee on Banking Supervision",
+      "url": "https://www.bis.org/bcbs/",
+      "priority_signals": [
+        "prudential-rules",
+        "bank-capital",
+        "liquidity",
+        "supervision"
+      ]
+    },
+    {
+      "id": "cpmi",
+      "name": "Committee on Payments and Market Infrastructures",
+      "url": "https://www.bis.org/cpmi/",
+      "priority_signals": [
+        "payments",
+        "settlement",
+        "market-infrastructure"
+      ]
+    },
+    {
+      "id": "iosco",
+      "name": "International Organization of Securities Commissions",
+      "url": "https://www.iosco.org/",
+      "priority_signals": [
+        "capital-markets",
+        "market-integrity",
+        "non-bank-finance"
+      ]
+    },
+    {
+      "id": "iais",
+      "name": "International Association of Insurance Supervisors",
+      "url": "https://www.iaisweb.org/",
+      "priority_signals": [
+        "insurance",
+        "systemic-risk",
+        "supervision"
+      ]
+    },
+    {
+      "id": "ndb",
+      "name": "New Development Bank",
+      "url": "https://www.ndb.int/",
+      "priority_signals": [
+        "development-finance",
+        "capital-plans",
+        "local-currency-finance",
+        "membership"
+      ]
+    },
+    {
+      "id": "aiib",
+      "name": "Asian Infrastructure Investment Bank",
+      "url": "https://www.aiib.org/",
+      "priority_signals": [
+        "development-finance",
+        "capital-plans",
+        "sovereign-finance"
+      ]
+    },
+    {
+      "id": "adb",
+      "name": "Asian Development Bank",
+      "url": "https://www.adb.org/",
+      "priority_signals": [
+        "development-finance",
+        "sovereign-finance",
+        "regional-integration"
+      ]
+    },
+    {
+      "id": "afdb",
+      "name": "African Development Bank Group",
+      "url": "https://www.afdb.org/",
+      "priority_signals": [
+        "development-finance",
+        "sovereign-finance",
+        "regional-integration"
+      ]
+    },
+    {
+      "id": "idb",
+      "name": "Inter-American Development Bank Group",
+      "url": "https://www.iadb.org/",
+      "priority_signals": [
+        "development-finance",
+        "sovereign-finance",
+        "regional-integration"
+      ]
+    },
+    {
+      "id": "ebrd",
+      "name": "European Bank for Reconstruction and Development",
+      "url": "https://www.ebrd.com/",
+      "priority_signals": [
+        "development-finance",
+        "private-capital-mobilisation",
+        "sovereign-finance"
+      ]
+    },
+    {
+      "id": "caf",
+      "name": "CAF - Development Bank of Latin America and the Caribbean",
+      "url": "https://www.caf.com/en/",
+      "priority_signals": [
+        "development-finance",
+        "sovereign-finance",
+        "regional-integration"
+      ]
+    },
+    {
+      "id": "isdb",
+      "name": "Islamic Development Bank",
+      "url": "https://www.isdb.org/",
+      "priority_signals": [
+        "development-finance",
+        "sovereign-finance",
+        "islamic-finance"
+      ]
+    }
+  ],
+  "decision_materiality": {
+    "score_max": 100,
+    "components": {
+      "monetary_liquidity": 20,
+      "cross_border_capital": 15,
+      "reserve_currency_architecture": 15,
+      "sovereign_multilateral_financing": 15,
+      "financial_stability": 10,
+      "regulatory_operational_regime_change": 10,
+      "geographic_reach": 5,
+      "persistence": 5,
+      "structural_novelty": 5
+    },
+    "publication_thresholds": {
+      "80-100": "event-driven flash plus weekly/monthly inclusion",
+      "50-79": "daily pulse when material plus weekly ledger",
+      "20-49": "ledger; publish only as part of a broader pattern",
+      "0-19": "archive"
+    }
+  }
+}
