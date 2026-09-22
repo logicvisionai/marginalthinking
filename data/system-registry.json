@@ -102,6 +102,22 @@
       "freshness_sla_hours": 72
     },
     {
+      "id": "resource-control-atlas",
+      "type": "cumulative-tool",
+      "status": "active",
+      "public_route": "/resource-control/",
+      "source_files": [
+        "data/resource-control-atlas.json",
+        "RESOURCE-CONTROL-ATLAS.md"
+      ],
+      "render_script": "scripts/render-resource-control-atlas.mjs",
+      "validation_script": "scripts/validate-resource-control-atlas.mjs",
+      "freshness_source": "data/resource-control-atlas.json",
+      "update_mode": "publication-reconciliation",
+      "reconciliation_required": true,
+      "freshness_sla_hours": 168
+    },
+    {
       "id": "policy-case-atlas",
       "type": "cumulative-tool",
       "status": "active",

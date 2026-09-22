@@ -124,3 +124,26 @@ html[data-theme="dark"] .product-home{--home-accent:#77d9ed;--home-surface:#101a
 
 /* Policy Case Atlas and registry-driven controlled series. */
 .tool-case-preview{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;margin-top:18px;height:150px;align-content:center}.tool-case-preview span{display:flex;gap:9px;align-items:center;padding:10px;border:1px solid var(--home-border);background:var(--home-soft)}.tool-case-preview b{font:600 10px var(--sans);letter-spacing:.08em;color:var(--home-accent)}.tool-case-preview em{font:400 11px/1.3 var(--sans);font-style:normal;color:var(--muted)}.home-series-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 22px;border-top:1px solid var(--home-border);margin-top:20px}.home-series-list .home-series{border-top:0;border-bottom:1px solid var(--home-border);padding:18px 0}@media(max-width:760px){.home-series-list{grid-template-columns:1fr}.tool-case-preview{height:auto;min-height:145px}}
+
+
+/* Featured Resource Control Atlas: a distinct intelligence surface. */
+.home-control-atlas{padding:38px 0;background:#0b202c;color:#f3f7f8;border-block:1px solid #294651;content-visibility:auto;contain-intrinsic-size:520px}
+.control-atlas-shell{display:grid;grid-template-columns:minmax(260px,.76fr) minmax(0,1.45fr);gap:34px;align-items:stretch}
+.control-atlas-copy{display:flex;flex-direction:column;align-items:flex-start;padding:10px 0}
+.control-atlas-copy .product-kicker{color:#7dd6e7}
+.control-atlas-copy h2{font:400 clamp(31px,3.1vw,46px)/1.08 var(--serif);letter-spacing:-.028em;margin:9px 0 16px;max-width:560px}
+.control-atlas-copy>p{font-size:14px;line-height:1.72;color:#bfd0d8;margin:0 0 22px;max-width:560px}
+.control-atlas-principle{display:flex;flex-wrap:wrap;align-items:center;gap:7px 10px;padding:12px 0;border-block:1px solid #34515e;color:#c9d9e0;font-size:10px;letter-spacing:.06em;text-transform:uppercase;width:100%}
+.control-atlas-principle b{font-weight:400;color:#63c7da}
+.control-atlas-cta{display:inline-flex;align-items:center;gap:18px;margin-top:22px;min-height:42px;padding:9px 13px;border:1px solid #5b7d8a;color:#eef8fb;font-size:12px}
+.control-atlas-preview{border:1px solid #35515e;background:#0f2632;display:flex;flex-direction:column}
+.control-record-preview{display:grid;grid-template-columns:minmax(0,1.3fr) 26px minmax(0,1fr) minmax(95px,.62fr);gap:10px;align-items:center;padding:14px 16px;border-bottom:1px solid #2d4854;min-height:72px}
+.control-record-preview:hover{background:#12303e}
+.control-record-subject,.control-record-controller{display:flex;flex-direction:column;min-width:0}
+.control-record-preview small{font-size:9px;line-height:1.35;color:#8fb0bc;text-transform:uppercase;letter-spacing:.07em}
+.control-record-preview strong{font:500 13px/1.35 var(--sans);color:#f1f7f9;margin-top:3px}
+.control-record-arrow{font-size:20px;color:#66c9dc;text-align:center}
+.control-record-mode{justify-self:end;text-align:right;font-size:10px;line-height:1.35;color:#b9cdd5;padding:6px 8px;border:1px solid #42616e}
+.control-atlas-preview-foot{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;padding:11px 16px;color:#91aeb9;font-size:9px;letter-spacing:.03em}
+@media(max-width:960px){.control-atlas-shell{grid-template-columns:1fr}.control-atlas-copy{padding-bottom:0}.control-atlas-copy h2,.control-atlas-copy>p{max-width:760px}}
+@media(max-width:640px){.home-control-atlas{padding:30px 0}.control-record-preview{grid-template-columns:minmax(0,1fr) 22px minmax(0,1fr);padding:13px 12px}.control-record-mode{grid-column:1/-1;justify-self:start;text-align:left;margin-top:-2px}.control-atlas-principle{gap:6px 8px}.control-atlas-preview-foot{display:block}.control-atlas-preview-foot span{display:block}.control-atlas-preview-foot span+span{margin-top:6px}}

@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "name": "Global Resource Control Atlas",
+  "status": "active",
+  "updated_at": "2026-09-22",
+  "description": {
+    "en": "Evidence-linked records separating where strategic resources and capabilities exist from who owns, operates, intermediates or supplies them.",
+    "pt-BR": "Registros vinculados a evidências que separam onde recursos e capacidades estratégicas existem de quem os possui, opera, intermedeia ou fornece."
+  },
+  "coverage_note": {
+    "en": "Initial selective coverage. A missing country, resource or controller means the relationship has not yet been added to the canonical dataset; it does not imply absence of resources or control.",
+    "pt-BR": "Cobertura inicial seletiva. A ausência de um país, recurso ou controlador significa que a relação ainda não entrou no conjunto canônico; não implica ausência de recursos ou controle."
+  },
+  "resource_classes": {
+    "resource_reserve": {"en": "Resource reserve", "pt-BR": "Reserva de recurso"},
+    "production_capacity": {"en": "Production capacity", "pt-BR": "Capacidade produtiva"},
+    "physical_intermediation": {"en": "Physical intermediation", "pt-BR": "Intermediação física"},
+    "technology_capacity": {"en": "Technology capacity", "pt-BR": "Capacidade tecnológica"}
+  },
+  "controller_natures": {
+    "state_enterprise": {"en": "State enterprise", "pt-BR": "Empresa estatal"},
+    "state_controlled_listed": {"en": "State-controlled listed company", "pt-BR": "Companhia listada controlada pelo Estado"},
+    "listed_corporation": {"en": "Listed corporation", "pt-BR": "Companhia listada"},
+    "private_company": {"en": "Private company", "pt-BR": "Companhia privada"}
+  },
+  "control_modes": {
+    "state_ownership": {"en": "State ownership", "pt-BR": "Propriedade estatal"},
+    "majority_state_ownership": {"en": "Majority state ownership", "pt-BR": "Controle acionário estatal"},
+    "concession_operating_right": {"en": "Concession / operating right", "pt-BR": "Concessão / direito operacional"},
+    "corporate_asset_control": {"en": "Corporate asset control", "pt-BR": "Controle corporativo de ativos"},
+    "physical_intermediation": {"en": "Physical intermediation", "pt-BR": "Intermediação física"},
+    "technology_supply": {"en": "Technology supply", "pt-BR": "Fornecimento tecnológico"}
+  },
+  "entries": [
+    {
+      "id": "aramco-saudi-hydrocarbon-reserves",
+      "resource_class": "resource_reserve",
+      "subject": {"en": "Saudi oil & gas reserves operated by Aramco", "pt-BR": "Reservas sauditas de petróleo e gás operadas pela Aramco"},
+      "asset_geography": {"scope": "country", "code": "SA", "name": {"en": "Saudi Arabia", "pt-BR": "Arábia Saudita"}, "lat": 23.8859, "lon": 45.0792},
+      "controller": {"name": "Saudi Aramco", "nature": "state_controlled_listed", "jurisdiction": {"code": "SA", "name": {"en": "Saudi Arabia", "pt-BR": "Arábia Saudita"}, "lat": 23.8859, "lon": 45.0792}},
+      "control_modes": ["majority_state_ownership", "concession_operating_right"],
+      "scale": {"en": "At 31 Dec 2025, Kingdom reserves in fields operated by Aramco were 342.0bn boe; Aramco reserves were 247.2bn boe under the concession-term calculation.", "pt-BR": "Em 31 dez 2025, as reservas do Reino nos campos operados pela Aramco eram 342,0 bilhões de boe; as reservas da Aramco eram 247,2 bilhões de boe pelo cálculo baseado no prazo da concessão."},
+      "mechanism": {"en": "The Kingdom's resource ownership is distinct from Aramco's concession-based exploration, development and production rights in the covered areas; the Saudi Government also held 81.48% directly at 31 Dec 2025.", "pt-BR": "A propriedade dos recursos pelo Reino é distinta dos direitos de exploração, desenvolvimento e produção concedidos à Aramco nas áreas abrangidas; o Governo saudita também detinha 81,48% diretamente em 31 dez 2025."},
+      "limits": {"en": "Kingdom reserves and Aramco reserves are different measures. The record maps legal and operating control, not a claim that listed equity ownership equals ownership of the subsoil resource.", "pt-BR": "Reservas do Reino e reservas da Aramco são medidas diferentes. O registro mapeia controle jurídico e operacional, não afirma que propriedade acionária listada equivale à propriedade do recurso no subsolo."},
+      "last_verified": "2026-09-22",
+      "home_preview": true,
+      "sources": [
+        {"name": "Saudi Aramco Annual Report 2025", "url": "https://www.aramco.com/en/investors/annual-report"},
+        {"name": "Saudi Aramco — Governance / shareholding 2025", "url": "https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/sections/ara-2025-governance-english.pdf"}
+      ]
+    },
+    {
+      "id": "codelco-chile-copper-production",
+      "resource_class": "production_capacity",
+      "subject": {"en": "Codelco copper production & integrated mining assets", "pt-BR": "Produção de cobre e ativos minerários integrados da Codelco"},
+      "asset_geography": {"scope": "country", "code": "CL", "name": {"en": "Chile", "pt-BR": "Chile"}, "lat": -33.4489, "lon": -70.6693},
+      "controller": {"name": "Codelco", "nature": "state_enterprise", "jurisdiction": {"code": "CL", "name": {"en": "Chile", "pt-BR": "Chile"}, "lat": -33.4489, "lon": -70.6693}},
+      "control_modes": ["state_ownership", "corporate_asset_control"],
+      "scale": {"en": "Codelco is 100% owned by the Republic of Chile and reported 1,334,445 metric tonnes of own copper production in 2025.", "pt-BR": "A Codelco é 100% propriedade da República do Chile e reportou 1.334.445 toneladas métricas de produção própria de cobre em 2025."},
+      "mechanism": {"en": "State ownership is combined with an autonomous mining corporation that operates, processes and markets production through its divisions and participations.", "pt-BR": "A propriedade estatal é combinada com uma corporação mineradora autônoma que opera, processa e comercializa a produção por suas divisões e participações."},
+      "limits": {"en": "Codelco's own production, attributable production from stakes and Chile's total copper reserves are separate measures and should not be collapsed into one control share.", "pt-BR": "Produção própria da Codelco, produção atribuível a participações e reservas totais de cobre do Chile são medidas distintas e não devem ser reduzidas a uma única participação de controle."},
+      "last_verified": "2026-09-22",
+      "home_preview": true,
+      "sources": [
+        {"name": "Codelco — 2025 results", "url": "https://www.codelco.com/en/prensa/2026/codelco-cerro-2025-con-un-ebitda-de-us-6-670-millones-una-utilidad"},
+        {"name": "Codelco — ownership FAQ", "url": "https://www.codelco.com/nosotros/preguntas-frecuentes/preguntas-frecuentes"}
+      ]
+    },
+    {
+      "id": "kazatomprom-kazakhstan-uranium",
+      "resource_class": "resource_reserve",
+      "subject": {"en": "Kazatomprom uranium reserves & production system", "pt-BR": "Reservas de urânio e sistema produtivo da Kazatomprom"},
+      "asset_geography": {"scope": "country", "code": "KZ", "name": {"en": "Kazakhstan", "pt-BR": "Cazaquistão"}, "lat": 48.0196, "lon": 66.9237},
+      "controller": {"name": "NAC Kazatomprom JSC", "nature": "state_controlled_listed", "jurisdiction": {"code": "KZ", "name": {"en": "Kazakhstan", "pt-BR": "Cazaquistão"}, "lat": 48.0196, "lon": 66.9237}},
+      "control_modes": ["majority_state_ownership", "corporate_asset_control"],
+      "scale": {"en": "At 31 Dec 2025 attributable proved and probable ore reserves were 282.9kt UME; Kazatomprom's attributable production represented about 20% of global primary uranium supply in 2025.", "pt-BR": "Em 31 dez 2025, as reservas provadas e prováveis atribuíveis eram 282,9 kt UME; a produção atribuível da Kazatomprom representou cerca de 20% da oferta primária mundial de urânio em 2025."},
+      "mechanism": {"en": "The Government of Kazakhstan is the ultimate controlling party: 62.99% was held by Samruk-Kazyna and 12.01% by the Ministry of Finance at year-end 2025, while 25% was free float.", "pt-BR": "O Governo do Cazaquistão é o controlador final: 62,99% pertenciam à Samruk-Kazyna e 12,01% ao Ministério das Finanças no fim de 2025, enquanto 25% estavam em free float."},
+      "limits": {"en": "Group production, attributable production, national production and geological resources are distinct measures; joint-venture partner rights must be preserved asset by asset.", "pt-BR": "Produção do grupo, produção atribuível, produção nacional e recursos geológicos são medidas distintas; direitos de sócios em joint ventures precisam ser preservados ativo por ativo."},
+      "last_verified": "2026-09-22",
+      "home_preview": true,
+      "sources": [
+        {"name": "Kazatomprom FY2025 Operating and Financial Review", "url": "https://www.kazatomprom.kz/storage/86/fy2025_ofr_eng.pdf"},
+        {"name": "Kazatomprom 2025 ownership disclosure", "url": "https://www.kazatomprom.kz/storage/0a/5493008JG5TXJP2JSY44_viewer.html"}
+      ]
+    },
+    {
+      "id": "glencore-multi-commodity-production",
+      "resource_class": "production_capacity",
+      "subject": {"en": "Glencore controlled multi-commodity production", "pt-BR": "Produção multicommodity controlada pela Glencore"},
+      "asset_geography": {"scope": "multi-country", "name": {"en": "Multi-country operating assets", "pt-BR": "Ativos operacionais em múltiplos países"}},
+      "controller": {"name": "Glencore plc", "nature": "listed_corporation", "jurisdiction": {"code": "CH", "name": {"en": "Switzerland", "pt-BR": "Suíça"}, "lat": 46.8182, "lon": 8.2275}},
+      "control_modes": ["corporate_asset_control"],
+      "scale": {"en": "2025 own-source production included 851.6kt copper, 969.4kt zinc, 71.9kt nickel and 98.0Mt energy coal.", "pt-BR": "A produção de fonte própria em 2025 incluiu 851,6 kt de cobre, 969,4 kt de zinco, 71,9 kt de níquel e 98,0 Mt de carvão energético."},
+      "mechanism": {"en": "Control comes from owned or controlled industrial assets and joint ventures across mining and processing, not from a single national resource title.", "pt-BR": "O controle decorre de ativos industriais próprios ou controlados e joint ventures em mineração e processamento, não de um único título nacional sobre recursos."},
+      "limits": {"en": "Production scale does not establish control over global commodity prices or all reserves associated with the operating countries; joint-venture economics differ by asset.", "pt-BR": "Escala de produção não estabelece controle sobre preços globais nem sobre todas as reservas dos países de operação; a economia das joint ventures varia por ativo."},
+      "last_verified": "2026-09-22",
+      "home_preview": true,
+      "actor_id": "glencore",
+      "research_ids": ["MT-SA-2026-09-19-structural-power"],
+      "sources": [{"name": "Glencore Full Year 2025 Production Report", "url": "https://www.glencore.com/media-and-insights/news/full-year-2025-production-report"}]
+    },
+    {
+      "id": "trafigura-oil-intermediation",
+      "resource_class": "physical_intermediation",
+      "subject": {"en": "Trafigura oil & petroleum-products physical intermediation", "pt-BR": "Intermediação física de petróleo e derivados da Trafigura"},
+      "asset_geography": {"scope": "global", "name": {"en": "Global trading and logistics network", "pt-BR": "Rede global de trading e logística"}},
+      "controller": {"name": "Trafigura Group", "nature": "private_company", "jurisdiction": {"code": "SG", "name": {"en": "Singapore", "pt-BR": "Singapura"}, "lat": 1.3521, "lon": 103.8198}},
+      "control_modes": ["physical_intermediation"],
+      "scale": {"en": "Trafigura reported an average 6.6 million barrels of oil and petroleum products traded per day in FY2025.", "pt-BR": "A Trafigura reportou média de 6,6 milhões de barris de petróleo e derivados negociados por dia no FY2025."},
+      "mechanism": {"en": "Structural capacity comes from matching producers and consumers through contracts, logistics, storage and downstream infrastructure rather than ownership of the underlying reserves.", "pt-BR": "A capacidade estrutural decorre de conectar produtores e consumidores por contratos, logística, armazenagem e infraestrutura downstream, e não da propriedade das reservas subjacentes."},
+      "limits": {"en": "Traded volume is throughput, not ownership of reserves or unilateral control of market prices.", "pt-BR": "Volume negociado é fluxo intermediado, não propriedade de reservas nem controle unilateral de preços de mercado."},
+      "last_verified": "2026-09-22",
+      "home_preview": true,
+      "actor_id": "trafigura",
+      "research_ids": ["MT-SA-2026-09-19-structural-power"],
+      "sources": [{"name": "Trafigura Annual Report 2025", "url": "https://www.trafigura.com/media/2yhj4e4c/2025_trafigura_annual_report.pdf"}]
+    },
+    {
+      "id": "asml-lithography-capacity",
+      "resource_class": "technology_capacity",
+      "subject": {"en": "ASML lithography-system supply", "pt-BR": "Fornecimento de sistemas de litografia da ASML"},
+      "asset_geography": {"scope": "supply-chain", "name": {"en": "Global semiconductor manufacturing supply chain", "pt-BR": "Cadeia global de fabricação de semicondutores"}},
+      "controller": {"name": "ASML Holding N.V.", "nature": "listed_corporation", "jurisdiction": {"code": "NL", "name": {"en": "Netherlands", "pt-BR": "Países Baixos"}, "lat": 52.1326, "lon": 5.2913}},
+      "control_modes": ["technology_supply"],
+      "scale": {"en": "ASML sold 535 systems in 2025, including 48 EUV lithography systems.", "pt-BR": "A ASML vendeu 535 sistemas em 2025, incluindo 48 sistemas de litografia EUV."},
+      "mechanism": {"en": "Control is a specialized technology-supply capability inside the semiconductor manufacturing stack; advanced-system exports are also subject to Dutch licensing decisions.", "pt-BR": "O controle é uma capacidade especializada de fornecimento tecnológico dentro da cadeia de fabricação de semicondutores; exportações de sistemas avançados também estão sujeitas a decisões de licenciamento neerlandesas."},
+      "limits": {"en": "A critical supplier is not the same as unilateral control of semiconductor production: fabs also depend on design tools, other equipment, materials, power, capital and skilled labour.", "pt-BR": "Fornecedor crítico não equivale a controle unilateral da produção de semicondutores: fabs também dependem de ferramentas de projeto, outros equipamentos, materiais, energia, capital e trabalho qualificado."},
+      "last_verified": "2026-09-22",
+      "home_preview": true,
+      "actor_id": "asml",
+      "research_ids": ["MT-SA-2026-09-19-structural-power"],
+      "sources": [{"name": "ASML 2025 Annual Report", "url": "https://www.asml.com/investors/annual-report/2025"}]
+    }
+  ]
+}
