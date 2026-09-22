@@ -23,6 +23,7 @@ done
 node scripts/fix-client-locale.mjs
 
 node scripts/render-site.mjs
+node scripts/inject-program-home.mjs
 # Validate and render the Structural Opportunity Atlas from a compact, evidence-linked canonical dataset.
 node scripts/validate-structural-opportunities.mjs
 node scripts/render-structural-opportunities.mjs
