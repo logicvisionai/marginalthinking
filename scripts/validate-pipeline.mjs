@@ -16,11 +16,42 @@ let taxonomy={};
 try{taxonomy=json('data/taxonomy.json');}catch(e){fail.push(`data/taxonomy.json inválido: ${e.message}`);}
 
 const publicIds=new Set();
+const publicBundles=[];
+const approvalBoundEffectiveDate='2026-09-22';
 for(const file of walk('reports','metadata.json')){
   try{
     const item=json(file);
     if(item.id)publicIds.add(item.id);
     const dir=path.posix.dirname(file);
+    const slug=path.posix.basename(dir);
+    publicBundles.push({file,dir,slug,item});
+
+    if(String(item.date||'')>=approvalBoundEffectiveDate){
+      const approvalPath=`data/approved/${slug}.json`;
+      const pendingPath=`data/pending/${slug}.json`;
+      if(!exists(approvalPath))fail.push(`${file}: bundle público sem aprovação QA v2 vinculada (${approvalPath})`);
+      else{
+        try{
+          const a=json(approvalPath);
+          if(a.schema_version!==2||a.qa_status!=='approved')fail.push(`${file}: aprovação pública deve ser schema_version 2 e qa_status approved`);
+          if(a.id!==item.id||a.publication?.id!==item.id)fail.push(`${file}: ID difere da aprovação/snapshot`);
+          if(a.publication?.slug!==slug)fail.push(`${file}: slug difere do snapshot aprovado (${a.publication?.slug||'ausente'})`);
+          if(a.publication?.date!==item.date)fail.push(`${file}: date difere do snapshot aprovado`);
+          if(a.publication?.program!==item.program)fail.push(`${file}: program difere do snapshot aprovado`);
+          if(a.publication?.taxonomy_version!==item.taxonomy_version)fail.push(`${file}: taxonomy_version difere do snapshot aprovado`);
+          if(exists(pendingPath)&&a.pending_blob_sha!==blobSha(read(pendingPath)))fail.push(`${file}: pending_blob_sha da aprovação não coincide com o pending atual`);
+          for(const locale of ['en','pt-BR']){
+            const md=item.locales?.[locale]?.markdown||item.locales?.[locale]?.markdown_file;
+            if(!md)continue;
+            const resolved=path.posix.normalize(path.posix.join(dir,md));
+            if(exists(resolved)&&a.source_blob_shas?.[locale]!==blobSha(read(resolved)))fail.push(`${file}: Markdown público ${locale} não coincide com o blob aprovado`);
+          }
+          if(item.qa_reviewed_at!==a.reviewed_at)fail.push(`${file}: qa_reviewed_at difere da aprovação`);
+          if(item.qa_confidence!==a.confidence)fail.push(`${file}: qa_confidence difere da aprovação`);
+          if(item.qa_reviewed_commit!==a.reviewed_commit)fail.push(`${file}: qa_reviewed_commit difere da aprovação`);
+        }catch(e){fail.push(`${approvalPath}: JSON inválido: ${e.message}`);}
+      }
+    }
     for(const [locale,v] of Object.entries(item.locales||{})){
       const md=v?.markdown||v?.markdown_file;
       if(!md)continue;
@@ -31,6 +62,28 @@ for(const file of walk('reports','metadata.json')){
     }
   }catch(e){fail.push(`${file}: metadata inválido: ${e.message}`);}
 }
+
+
+try{
+  const reportIndex=json('data/reports.json');
+  if(!Array.isArray(reportIndex))fail.push('data/reports.json deve ser array');
+  else{
+    for(const {file,slug,item} of publicBundles){
+      if(String(item.date||'')<approvalBoundEffectiveDate)continue;
+      const matches=reportIndex.filter(x=>x?.id===item.id);
+      if(matches.length!==1)fail.push(`${file}: data/reports.json deve conter exatamente uma entrada para ${item.id} (encontradas ${matches.length})`);
+      else{
+        const expectedUrl=`/reports/${String(item.date).slice(0,4)}/${String(item.date).slice(5,7)}/${slug}.html`;
+        if(matches[0].url!==expectedUrl)fail.push(`${file}: URL do índice difere da URL canônica (${expectedUrl})`);
+        for(const key of ['program','taxonomy_version'])if(matches[0][key]!==item[key])fail.push(`${file}: ${key} do índice difere do metadata público`);
+        const publicRevision=Number.isInteger(item.revision)?item.revision:0;
+        const indexRevision=Number.isInteger(matches[0].revision)?matches[0].revision:0;
+        if(indexRevision!==publicRevision)fail.push(`${file}: revision do índice difere do metadata público`);
+        if(JSON.stringify(matches[0].phenomena||[])!==JSON.stringify(item.phenomena||[]))fail.push(`${file}: phenomena do índice difere do metadata público`);
+      }
+    }
+  }
+}catch(e){fail.push(`data/reports.json inválido: ${e.message}`);}
 
 const requiredTaxonomy=['taxonomy_version','program','related_programs','dimensions','geography','topics','format','cadence'];
 const pendingFiles=walk('data/pending').filter(p=>p.endsWith('.json'));
