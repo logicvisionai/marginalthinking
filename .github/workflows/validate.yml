@@ -116,8 +116,12 @@ jobs:
           test -f dist/data/resource-control-atlas.json
           test -f dist/data/resource-control-atlas/index.html
           test -f dist/pt-br/data/resource-control-atlas/index.html
-          grep -q 'Global Resource Control Atlas' dist/index.html
-          grep -q 'Atlas Global de Controle de Recursos' dist/pt-br/index.html
+          grep -q 'home-control-atlas' dist/index.html
+          grep -q 'Who controls critical resources and capabilities?' dist/index.html
+          grep -q 'home-control-atlas' dist/pt-br/index.html
+          grep -q 'Quem controla recursos e capacidades críticas?' dist/pt-br/index.html
+          grep -q 'Global Resource Control Atlas' dist/resource-control/index.html
+          grep -q 'Atlas Global de Controle de Recursos' dist/pt-br/resource-control/index.html
           grep -q 'resource-control-atlas' dist/resource-control/index.html
           grep -q 'resource-control-atlas' dist/pt-br/resource-control/index.html
           node scripts/validate-resource-control-atlas.mjs
