@@ -66,7 +66,7 @@ function reportCard(item,locale,featured=false){
 function homePage(locale){
   const L=layout(locale),t=L.t,canonical=pagePath(locale,'/'),alts=Object.fromEntries(localeCodes.map(l=>[l,pagePath(l,'/')]));
   const head=L.baseHead(`${cfg.site_name} — ${t.nav.research}`,t.site_description,canonical,'WebSite',alts,{'@id':`${site}/#website`,publisher:{'@type':'Organization','@id':`${site}/#organization`,name:cfg.publisher,url:`${site}/`}});
-  const content=homeContent({root,cfg,i18n,reports,locale,taxonomy:JSON.parse(read('data/taxonomy.json')),dependency:JSON.parse(read('data/global-dependencies.json')),atlas:JSON.parse(read('data/structural-opportunities.json')),actors:JSON.parse(read('data/strategic-actors.json')),policyCases:JSON.parse(read('data/policy-cases.json'))});
+  const content=homeContent({root,cfg,i18n,reports,locale,taxonomy:JSON.parse(read('data/taxonomy.json')),dependency:JSON.parse(read('data/global-dependencies.json')),atlas:JSON.parse(read('data/structural-opportunities.json')),actors:JSON.parse(read('data/strategic-actors.json')),policyCases:JSON.parse(read('data/policy-cases.json')),resourceControl:JSON.parse(read('data/resource-control-atlas.json'))});
   return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${homeDocHead(locale,`${cfg.site_name} — ${t.nav.research}`,t.site_description,head)}</head><body data-locale="${esc(locale)}" data-home-layout="editorial"><a class="skip-content" href="#main-content">${locale==='pt-BR'?'Ir para o conteúdo':'Skip to content'}</a>${L.nav('home',alts)}${content}${L.footer()}<script src="/assets/js/app.js"></script></body></html>`;
 }
 
