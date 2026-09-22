@@ -1,0 +1,113 @@
+{
+  "id": "MT-GM-2026-09-22",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T00:05:36-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "energy",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "qa_reviewed_at": "2026-09-22T00:16:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "bb32554a43d8466c136bbb0e0cd15ed4c3318a35",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Oil relief widens risk appetite, but long rates still set a restrictive floor",
+      "deck": "Oil relief lifted equities and duration, but long U.S. yields, European gas pass-through and unresolved geopolitical constraints keep the global regime restrictive.",
+      "tags": [
+        "Global Macro",
+        "Federal Reserve",
+        "Treasuries",
+        "oil",
+        "AI",
+        "Europe",
+        "China",
+        "Brazil"
+      ],
+      "keywords": [
+        "Brent",
+        "WTI",
+        "Treasury yields",
+        "semiconductors",
+        "SoftBank",
+        "OpenAI",
+        "European gas",
+        "Xi Jinping",
+        "Selic"
+      ],
+      "regime": "Energy risk premium easing inside still-restrictive global financial conditions",
+      "key_risk": "Markets may be pricing diplomatic and logistical relief faster than Gulf physical security, European gas transmission and U.S.-China economic restrictions can improve.",
+      "watch": [
+        "Gulf realized export throughput and freight/insurance costs",
+        "U.S. 10Y and 30Y Treasury yields",
+        "European gas prices and retail pass-through",
+        "Concrete policy outcomes from the Trump-Xi meetings"
+      ],
+      "search_text": "Global macro September 22 2026 oil Treasury yields AI semiconductors Europe gas U.S. China Brazil Selic political risk"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Alívio no petróleo amplia o apetite por risco, mas juros longos ainda impõem um piso restritivo",
+      "deck": "A queda do petróleo favoreceu ações e ativos de maior duração, mas juros longos nos EUA, transmissão do gás europeu e restrições geopolíticas ainda mantêm o regime global restritivo.",
+      "tags": [
+        "Global Macro",
+        "Federal Reserve",
+        "Treasuries",
+        "petróleo",
+        "IA",
+        "Europa",
+        "China",
+        "Brasil"
+      ],
+      "keywords": [
+        "Brent",
+        "WTI",
+        "juros dos Treasuries",
+        "semicondutores",
+        "SoftBank",
+        "OpenAI",
+        "gás europeu",
+        "Xi Jinping",
+        "Selic"
+      ],
+      "regime": "Redução do prêmio de risco energético dentro de condições financeiras globais ainda restritivas",
+      "key_risk": "Os mercados podem estar precificando alívio diplomático e logístico mais rápido do que a segurança física do Golfo, a transmissão do gás europeu e as restrições econômicas EUA-China conseguem melhorar.",
+      "watch": [
+        "Fluxo efetivo das exportações do Golfo e custos de frete/seguro",
+        "Treasuries de 10 e 30 anos",
+        "Preço do gás europeu e transmissão ao varejo",
+        "Resultados concretos das reuniões Trump-Xi"
+      ],
+      "search_text": "Global Macro 22 setembro 2026 petróleo Treasuries IA semicondutores gás Europa EUA China Brasil Selic risco político"
+    }
+  }
+}

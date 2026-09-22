@@ -1,5 +1,80 @@
 [
   {
+    "id": "MT-GM-2026-09-22",
+    "date": "2026-09-22",
+    "published_at": "2026-09-22T00:05:36-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "source_locale": "en",
+    "title": "Global Macro — Oil relief widens risk appetite, but long rates still set a restrictive floor",
+    "deck": "Oil relief lifted equities and duration, but long U.S. yields, European gas pass-through and unresolved geopolitical constraints keep the global regime restrictive.",
+    "url": "/reports/2026/09/2026-09-22-global-macro.html",
+    "markdown_url": "/reports/2026/09/2026-09-22-global-macro/en.md",
+    "tags": [
+      "Global Macro",
+      "Federal Reserve",
+      "Treasuries",
+      "oil",
+      "AI",
+      "Europe",
+      "China",
+      "Brazil"
+    ],
+    "keywords": [
+      "Brent",
+      "WTI",
+      "Treasury yields",
+      "semiconductors",
+      "SoftBank",
+      "OpenAI",
+      "European gas",
+      "Xi Jinping",
+      "Selic"
+    ],
+    "regime": "Energy risk premium easing inside still-restrictive global financial conditions",
+    "key_risk": "Markets may be pricing diplomatic and logistical relief faster than Gulf physical security, European gas transmission and U.S.-China economic restrictions can improve.",
+    "watch": [
+      "Gulf realized export throughput and freight/insurance costs",
+      "U.S. 10Y and 30Y Treasury yields",
+      "European gas prices and retail pass-through",
+      "Concrete policy outcomes from the Trump-Xi meetings"
+    ],
+    "search_text": "Global macro September 22 2026 oil Treasury yields AI semiconductors Europe gas U.S. China Brazil Selic political risk",
+    "qa_reviewed_at": "2026-09-22T00:16:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "bb32554a43d8466c136bbb0e0cd15ed4c3318a35"
+  },
+  {
     "id": "MT-ST-2026-09-21-vietnam-ftse-market-access",
     "date": "2026-09-21",
     "published_at": "2026-09-21T01:05:00-03:00",
@@ -1117,6 +1192,79 @@
     "qa_reviewed_commit": "1eb29145f1e88896d11b9d0eeb2895b9d9223dd6"
   },
   {
+    "id": "MT-WF-2026-09-16",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit"
+    ],
+    "format": "monitor",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "title": "Global Wealth Flow Monitor — 16 September 2026",
+    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
+    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
+    "tags": [
+      "global capital flows",
+      "official reserves",
+      "gold",
+      "critical minerals",
+      "AI infrastructure"
+    ],
+    "keywords": [
+      "TIC",
+      "COFER",
+      "BIS",
+      "FDI",
+      "gold",
+      "oil",
+      "data centres",
+      "critical minerals"
+    ],
+    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
+    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
+    "watch": [
+      "July TIC release and revisions",
+      "2026Q2 COFER",
+      "central-bank gold purchases",
+      "cross-border bank credit",
+      "Brent and Hormuz flows",
+      "electricity demand and data-centre interconnections",
+      "critical-mineral refining projects"
+    ],
+    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
+    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
+  },
+  {
     "id": "MT-ST-2026-09-16-kazakhstan-corridor",
     "date": "2026-09-16",
     "published_at": "2026-09-16T12:19:27-03:00",
@@ -1199,79 +1347,6 @@
     "qa_reviewed_at": "2026-09-16T12:35:29-03:00",
     "qa_confidence": "medium",
     "qa_reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61"
-  },
-  {
-    "id": "MT-WF-2026-09-16",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:19:27-03:00",
-    "kind": "weekly-wealth-flow",
-    "priority": 20,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
-      "technology-innovation",
-      "infrastructure-logistics",
-      "currencies",
-      "sovereign-debt",
-      "banking-credit"
-    ],
-    "format": "monitor",
-    "cadence": "weekly",
-    "source_locale": "en",
-    "title": "Global Wealth Flow Monitor — 16 September 2026",
-    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
-    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
-    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
-    "tags": [
-      "global capital flows",
-      "official reserves",
-      "gold",
-      "critical minerals",
-      "AI infrastructure"
-    ],
-    "keywords": [
-      "TIC",
-      "COFER",
-      "BIS",
-      "FDI",
-      "gold",
-      "oil",
-      "data centres",
-      "critical minerals"
-    ],
-    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
-    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
-    "watch": [
-      "July TIC release and revisions",
-      "2026Q2 COFER",
-      "central-bank gold purchases",
-      "cross-border bank credit",
-      "Brent and Hormuz flows",
-      "electricity demand and data-centre interconnections",
-      "critical-mineral refining projects"
-    ],
-    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
-    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
-    "qa_confidence": "medium",
-    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
   },
   {
     "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",
