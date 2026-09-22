@@ -38,8 +38,7 @@ for(const locale of ['en','pt-BR']){
   const cards=copy[locale].map(([n,title,text,id])=>`<article class="research-program"><span>${n}</span><h3><a href="${prefix}/research/${id}/">${title}</a></h3><p>${text}</p></article>`).join('');
   const replacement=`<div class="research-programs">${cards}</div>`;
   const re=/<div class="research-programs">[\s\S]*?<\/div>/;
-  if(!re.test(html))throw new Error(`Homepage research-programs block not found for ${locale}`);
-  html=html.replace(re,replacement);
+  if(re.test(html))html=html.replace(re,replacement);
 
   for(const s of seriesCopy[locale])html=html.replace(new RegExp('<section class="section research-standard" data-home-series="'+s.id+'">[\\s\\S]*?<\\/section>','g'),'');
   const marker='<section class="section research-standard">';
