@@ -1,39 +1,16 @@
 {
+  "schema_version": 2,
+  "ready": true,
   "id": "MT-GMFI-2026-09-22-LICDSF",
+  "slug": "2026-09-22-imf-world-bank-lic-debt-framework",
   "date": "2026-09-22",
   "published_at": "2026-09-22T10:50:00-03:00",
   "kind": "institutional-decision",
   "priority": 7,
-  "taxonomy_version": "1.0",
-  "program": "political-economy-markets",
-  "related_programs": [
-    "global-system-power"
-  ],
-  "series": "global-monetary-financial-institutions",
-  "series_domain": "multilateral-finance",
-  "dimensions": [
-    "economy",
-    "politics"
-  ],
-  "geography": {
-    "level": "global",
-    "regions": [],
-    "subregions": [],
-    "countries": []
-  },
-  "topics": [
-    "sovereign-debt",
-    "institutions-governance",
-    "fiscal-policy",
-    "banking-credit"
-  ],
-  "format": "brief",
-  "cadence": "event-driven",
   "source_locale": "en",
-  "revision": 1,
-  "locales": {
+  "sources": {
     "en": {
-      "markdown": "en.md",
+      "markdown": "staging/research/2026/09/2026-09-22-imf-world-bank-lic-debt-framework/en.md",
       "title": "The IMF–World Bank debt framework is changing how low-income sovereign risk is assessed",
       "deck": "The 2026 LIC-DSF review adds domestic-debt and long-term modules, recalibrates debt-stress thresholds, introduces new model signals and data-confidence treatment, while keeping the harmonised discount rate at 5%.",
       "tags": [
@@ -63,7 +40,7 @@
       "search_text": "IMF World Bank 2026 LIC DSF debt sustainability framework low income countries domestic debt discount rate five percent 2027 implementation."
     },
     "pt-BR": {
-      "markdown": "pt-BR.md",
+      "markdown": "staging/research/2026/09/2026-09-22-imf-world-bank-lic-debt-framework/pt-BR.md",
       "title": "O marco FMI–Banco Mundial muda a avaliação do risco de dívida em países de baixa renda",
       "deck": "A revisão de 2026 do LIC-DSF adiciona módulos de dívida doméstica e longo prazo, recalibra limiares de estresse, introduz novos sinais de modelo e tratamento da confiança nos dados, mantendo a taxa harmonizada de desconto em 5%.",
       "tags": [
@@ -92,5 +69,30 @@
       ],
       "search_text": "FMI Banco Mundial 2026 LIC DSF sustentabilidade dívida países baixa renda dívida doméstica taxa desconto cinco por cento implementação 2027."
     }
-  }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "sovereign-debt",
+    "institutions-governance",
+    "fiscal-policy",
+    "banking-credit"
+  ],
+  "format": "brief",
+  "cadence": "event-driven",
+  "series": "global-monetary-financial-institutions",
+  "series_domain": "multilateral-finance"
 }

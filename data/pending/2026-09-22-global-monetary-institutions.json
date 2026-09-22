@@ -1,41 +1,16 @@
 {
+  "schema_version": 2,
+  "ready": true,
   "id": "MT-GMFI-2026-09-22",
+  "slug": "2026-09-22-global-monetary-institutions",
   "date": "2026-09-22",
   "published_at": "2026-09-22T10:35:00-03:00",
   "kind": "daily-institutional-monitor",
   "priority": 8,
-  "taxonomy_version": "1.0",
-  "program": "political-economy-markets",
-  "related_programs": [
-    "global-system-power"
-  ],
-  "series": "global-monetary-financial-institutions",
-  "series_domain": "system-monitor",
-  "dimensions": [
-    "economy",
-    "politics"
-  ],
-  "geography": {
-    "level": "global",
-    "regions": [],
-    "subregions": [],
-    "countries": []
-  },
-  "topics": [
-    "monetary-policy",
-    "banking-credit",
-    "sovereign-debt",
-    "capital-markets",
-    "currencies",
-    "institutions-governance"
-  ],
-  "format": "brief",
-  "cadence": "daily",
   "source_locale": "en",
-  "revision": 1,
-  "locales": {
+  "sources": {
     "en": {
-      "markdown": "en.md",
+      "markdown": "staging/research/2026/09/2026-09-22-global-monetary-institutions/en.md",
       "title": "Global Monetary Institutions — September 22, 2026",
       "deck": "The latest institutional cycle combines tighter policy in the United States and Japan, a divided hold in the United Kingdom, a new IMF–World Bank debt framework for low-income countries, live Eurosystem settlement of tokenised assets in central bank money, and a new NDB strategy cycle.",
       "tags": [
@@ -70,7 +45,7 @@
       "search_text": "Global monetary institutions September 22 2026 Fed BoE BOJ ECB Pontes IMF World Bank debt sustainability NDB strategy."
     },
     "pt-BR": {
-      "markdown": "pt-BR.md",
+      "markdown": "staging/research/2026/09/2026-09-22-global-monetary-institutions/pt-BR.md",
       "title": "Instituições Monetárias Globais — 22 de setembro de 2026",
       "deck": "O ciclo institucional mais recente combina aperto monetário nos Estados Unidos e no Japão, manutenção dividida dos juros no Reino Unido, novo marco FMI–Banco Mundial para dívida de países de baixa renda, liquidação de ativos tokenizados em moeda de banco central no Eurosistema e novo ciclo estratégico do NDB.",
       "tags": [
@@ -104,5 +79,32 @@
       ],
       "search_text": "Instituições monetárias globais 22 setembro 2026 Fed BoE BOJ BCE Pontes FMI Banco Mundial sustentabilidade dívida NDB estratégia."
     }
-  }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "monetary-policy",
+    "banking-credit",
+    "sovereign-debt",
+    "capital-markets",
+    "currencies",
+    "institutions-governance"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "series": "global-monetary-financial-institutions",
+  "series_domain": "system-monitor"
 }
