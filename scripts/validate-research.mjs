@@ -30,6 +30,23 @@ function validateEditorialIntegrity(text,file,item={}){
     const m=prose.match(re);
     if(m)fail.push(file+': '+label+'; pesquisa publicada deve analisar o objeto, não descrever como construir ou operar o produto (trecho: "'+m[0]+'")');
   }
+
+  const strict=String(item.date||'')>='2026-09-22';
+  if(strict){
+    const strictBlockers=[
+      ['autorreferência de relatório',/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|pesquisa|article|report|analysis|assessment|research)\s+(?:mostra|apresenta|explica|examina|analisa|discute|reconstr[oó]i|shows|presents|explains|examines|analyses|analyzes|discusses|reconstructs|will|vai)\b/i],
+      ['narração de processo analítico',/\b(?:neste|nesta|nesse|nessa|in this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|pesquisa|article|report|analysis|assessment|research)\b/i],
+      ['instrução conversacional ao leitor',/\b(?:o leitor (?:deve|pode|ver[aá])|the reader (?:should|can|will see)|vamos (?:ver|analisar|examinar)|let['’]s (?:look|examine|analy[sz]e)|como vimos acima|as (?:we )?(?:saw|discussed) above)\b/i],
+      ['linguagem interna de QA ou publicação',/\b(?:quality assurance|controle de qualidade|revis[aã]o de qa|qa rework|qa review|staging|renderer|renderiza[cç][aã]o|publication pipeline|pipeline de publica[cç][aã]o|build process|processo de build|rejected draft|rascunho rejeitado|correction process|processo de corre[cç][aã]o)\b/i],
+      ['arquitetura interna em pesquisa pública',/\b(?:controlled series|s[eé]rie controlada|taxonomy version|vers[aã]o da taxonomia|dataset schema|schema do dataset|internal tool|ferramenta interna|editorial roadmap|roadmap editorial)\b/i],
+      ['planejamento editorial futuro',/\b(?:next edition|pr[oó]xima edi[cç][aã]o|future version|vers[aã]o futura|we should add|devemos adicionar|should be added next|deve entrar em seguida)\b/i],
+      ['referência técnica a git/deploy',/\b(?:pull request|publication branch|branch de publica[cç][aã]o|deployment pipeline|pipeline de deploy|commit\s+[0-9a-f]{7,40})\b/i]
+    ];
+    for(const [label,re] of strictBlockers){
+      const m=prose.match(re);
+      if(m)fail.push(file+': '+label+'; nova pesquisa deve conter apenas prosa pública substantiva (trecho: "'+m[0]+'")');
+    }
+  }
   if(item.kind==='conflict-system'){
     const toneBlockers=[
       ['abertura metalinguística',/\b(?:esta|this)\s+(?:avalia[cç][aã]o|assessment|an[aá]lise|analysis|pesquisa|research)\s+(?:reconstr[oó]i|reconstructs|separa|separates|mostra|shows|preserva|preserves)\b/i],
@@ -45,8 +62,9 @@ function validateEditorialIntegrity(text,file,item={}){
       if(m)fail.push(file+': '+label+'; conflito publicado exige prosa institucional e substantiva, sem comentários de bastidor ou instruções ao leitor (trecho: "'+m[0]+'")');
     }
   }
-  const selfRefs=(prose.match(/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|article|report|analysis|assessment)\b/gi)||[]).length;
-  if(selfRefs>3)warn.push(file+': excesso de autorreferência editorial ('+selfRefs+'); prefira afirmar a evidência e o mecanismo diretamente');
+  const selfRefs=(prose.match(/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|pesquisa|article|report|analysis|assessment|research)\b/gi)||[]).length;
+  if(strict&&selfRefs>0)fail.push(file+': autorreferência editorial detectada ('+selfRefs+'); afirme evidência, mecanismo ou limitação diretamente');
+  else if(selfRefs>3)warn.push(file+': excesso de autorreferência editorial ('+selfRefs+'); prefira afirmar a evidência e o mecanismo diretamente');
   const ptTransitions=(prose.match(/\b(?:portanto|porém|nesse sentido|em outras palavras|a distin[cç][aã]o importa)\b/gi)||[]).length;
   const enTransitions=(prose.match(/\b(?:therefore|however|in other words|the distinction matters)\b/gi)||[]).length;
   if(ptTransitions>10||enTransitions>10)warn.push(file+': conectores discursivos repetitivos; revisar fluidez e evitar prosa formulaica');

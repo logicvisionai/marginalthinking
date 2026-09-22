@@ -24,7 +24,10 @@ if(!series['energy-materials-industrial-systems'])fail.push('series controlada e
 if(taxonomy.governance?.series_creation!=='human-editorial-change-only')fail.push('governance.series_creation deve ser human-editorial-change-only');
 if(taxonomy.governance?.series_domain_creation!=='human-editorial-change-only')fail.push('governance.series_domain_creation deve ser human-editorial-change-only');
 
-const relevantTopics=new Set(['energy','commodities-resources','infrastructure-logistics','industry-production','technology-innovation','trade-investment','capital-markets','geopolitics-security']);
+const topicPolicies={
+  'energy-materials-industrial-systems': new Set(['energy','commodities-resources','infrastructure-logistics','industry-production','technology-innovation','trade-investment','capital-markets','geopolitics-security']),
+  'global-monetary-financial-institutions': new Set(['macroeconomics','monetary-policy','sovereign-debt','capital-markets','banking-credit','currencies','trade-investment','institutions-governance'])
+};
 let seriesReports=0;
 const domainCounts=new Map();
 for(const file of walk('reports')){
@@ -37,8 +40,9 @@ for(const file of walk('reports')){
   if(item.program!==s.program)fail.push(`${file}: programa ${item.program||'ausente'} difere do pai ${s.program}`);
   if(!item.series_domain||!s.domains?.[item.series_domain])fail.push(`${file}: series_domain inválido ou ausente (${item.series_domain||'ausente'})`);
   else domainCounts.set(item.series_domain,(domainCounts.get(item.series_domain)||0)+1);
-  const topicCount=(item.topics||[]).filter(t=>relevantTopics.has(t)).length;
-  if(topicCount<2)fail.push(`${file}: série exige ao menos dois tópicos materiais de energia/recursos/indústria/infraestrutura/tecnologia/capital/comércio`);
+  const topicPolicy=topicPolicies[item.series];
+  if(!topicPolicy)fail.push(`${file}: série ${item.series} sem política de tópicos no validador`);
+  else if((item.topics||[]).filter(t=>topicPolicy.has(t)).length<2)fail.push(`${file}: série exige ao menos dois tópicos materiais compatíveis com seu domínio`);
   if(!['assessment','research-report','monitor','data-note','brief'].includes(item.format))warn.push(`${file}: formato ${item.format} é incomum para a série`);
   if(!item.locales?.en||!item.locales?.['pt-BR'])fail.push(`${file}: série exige edições en e pt-BR`);
 }

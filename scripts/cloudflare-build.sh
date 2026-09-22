@@ -23,6 +23,7 @@ done
 node scripts/fix-client-locale.mjs
 
 node scripts/render-site.mjs
+node scripts/inject-program-home.mjs
 # Validate and render the Structural Opportunity Atlas from a compact, evidence-linked canonical dataset.
 node scripts/validate-structural-opportunities.mjs
 node scripts/render-structural-opportunities.mjs
@@ -89,6 +90,7 @@ node scripts/validate-seo.mjs
 node scripts/validate-localized-output.mjs
 node scripts/validate-research-product.mjs
 node scripts/validate-visual-output.mjs
+node scripts/validate-public-prose.mjs
 
 # Analytics is optional and never blocks publishing research.
 if [[ -n "${PROD_GA_MEASUREMENT_ID:-}" ]]; then
