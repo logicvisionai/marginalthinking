@@ -17,10 +17,11 @@
     "prepare:copy": "node scripts/apply-institutional-copy.mjs",
     "validate:pipeline": "node scripts/validate-pipeline.mjs",
     "validate:series": "node scripts/validate-series.mjs",
-    "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:series",
+    "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:prose && npm run validate:series",
     "render": "npm run prepare:copy && node scripts/render-site.mjs",
     "mcp:catalog": "node scripts/render-mcp-catalog.mjs",
     "validate:dist": "node scripts/validate-dist.mjs",
-    "build": "npm run prepare:copy && npm run validate && bash scripts/cloudflare-build.sh"
+    "build": "npm run prepare:copy && npm run validate && bash scripts/cloudflare-build.sh",
+    "validate:prose": "node scripts/validate-public-prose.mjs"
   }
 }
