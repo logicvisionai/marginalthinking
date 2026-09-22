@@ -154,7 +154,7 @@
       ]
     },
     "report": {
-      "in_this": "In this research",
+      "in_this": "Research summary",
       "regime": "Context",
       "risk": "Key risk",
       "watch": "Key indicators",
@@ -334,7 +334,7 @@
       ]
     },
     "report": {
-      "in_this": "Nesta pesquisa",
+      "in_this": "Síntese da pesquisa",
       "regime": "Contexto",
       "risk": "Risco principal",
       "watch": "Indicadores principais",
