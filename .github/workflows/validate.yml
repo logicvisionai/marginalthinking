@@ -106,6 +106,17 @@ jobs:
           node -e 'const fs=require("fs");const s=fs.readFileSync("dist/assets/js/app.js","utf8");if(/for\\s*\\([^)]*\\bof\\s+\\$\\([^)]*\\)\\)/.test(s)){console.error("Non-iterable querySelector used in for...of");process.exit(1)}'
           test -f dist/assets/og/marginal-thinking-en.png
           test -f dist/assets/og/marginal-thinking-pt-br.png
+          test -f dist/policy-cases/index.html
+          test -f dist/pt-br/policy-cases/index.html
+          test -f dist/data/policy-cases.json
+          test -f dist/system-status/index.html
+          test -f dist/pt-br/system-status/index.html
+          test -f dist/data/research-system-status.json
+          grep -q 'Policy Case Atlas' dist/policy-cases/index.html
+          grep -q 'Atlas de Casos de Política' dist/pt-br/policy-cases/index.html
+          grep -q 'policy-experiments-institutional-transitions' dist/index.html
+          test -f dist/series/policy-experiments-institutional-transitions/index.html
+          test -f dist/pt-br/series/policy-experiments-institutional-transitions/index.html
           test -f dist/series/energy-materials-industrial-systems/index.html
           test -f dist/pt-br/series/energy-materials-industrial-systems/index.html
           test -f dist/data/taxonomy.json

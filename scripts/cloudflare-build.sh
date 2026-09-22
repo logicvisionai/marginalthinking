@@ -42,6 +42,12 @@ node scripts/render-evergreen-hubs.mjs
 # Validate and publish the cumulative Conflict Systems object before the data catalog links it.
 node scripts/validate-conflict-systems.mjs
 node scripts/render-conflict-systems-data.mjs
+# Validate the permanent registry and reconciliation coverage for every new publication.
+node scripts/validate-system-registry.mjs
+node scripts/render-system-status.mjs
+# Validate and render the Policy Case Atlas.
+node scripts/validate-policy-cases.mjs
+node scripts/render-policy-case-atlas.mjs
 # Publish structured datasets as indexable resources with Dataset JSON-LD and stable download URLs.
 node scripts/render-data-catalog.mjs
 # Derive corpus-level intelligence from canonical metadata only. This adds no
