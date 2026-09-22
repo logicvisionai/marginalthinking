@@ -46,7 +46,9 @@
       },
       "evidence_status": "verified",
       "last_verified": "2026-09-22",
-      "related_research_ids": [],
+      "related_research_ids": [
+        "MT-PE-2026-09-22-REAL-URV"
+      ],
       "sources": [
         {
           "name": "Banco Central do Brasil — The Real Plan",
