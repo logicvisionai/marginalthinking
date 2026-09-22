@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "name": "Strategic Actors & Structural Power",
-  "updated_at": "2026-09-19",
+  "updated_at": "2026-09-22",
   "description": {
-    "en": "A documented map of actors whose capital, ownership rights, physical flows, productive assets or technology can alter the constraints under which firms, states and societies operate.",
-    "pt-BR": "Mapa documentado de atores cujo capital, direitos de propriedade, fluxos físicos, ativos produtivos ou tecnologia podem alterar as restrições sob as quais empresas, Estados e sociedades operam."
+    "en": "A documented map of actors whose capital, ownership rights, institutional authority, physical flows, productive assets or technology can alter the constraints under which firms, states and societies operate.",
+    "pt-BR": "Mapa documentado de atores cujo capital, direitos de propriedade, autoridade institucional, fluxos físicos, ativos produtivos ou tecnologia podem alterar as restrições sob as quais empresas, Estados e sociedades operam."
   },
   "actor_classes": {
     "asset-manager": {
@@ -30,6 +30,14 @@
     "technology-supplier": {
       "en": "Critical technology supplier",
       "pt-BR": "Fornecedor de tecnologia crítica"
+    },
+    "central-bank": {
+      "en": "Central bank / monetary authority",
+      "pt-BR": "Banco central / autoridade monetária"
+    },
+    "multilateral-financial-institution": {
+      "en": "Multilateral financial institution",
+      "pt-BR": "Instituição financeira multilateral"
     }
   },
   "channels": {
@@ -60,6 +68,22 @@
     "technology-chokepoint": {
       "en": "Technology chokepoint",
       "pt-BR": "Gargalo tecnológico"
+    },
+    "monetary-policy": {
+      "en": "Monetary policy",
+      "pt-BR": "Política monetária"
+    },
+    "debt-governance": {
+      "en": "Debt assessment & governance",
+      "pt-BR": "Avaliação & governança da dívida"
+    },
+    "settlement-infrastructure": {
+      "en": "Settlement infrastructure",
+      "pt-BR": "Infraestrutura de liquidação"
+    },
+    "development-finance": {
+      "en": "Development finance",
+      "pt-BR": "Financiamento ao desenvolvimento"
     }
   },
   "targets": [
@@ -117,6 +141,38 @@
       "label": {
         "en": "Commodity logistics",
         "pt-BR": "Logística de commodities"
+      }
+    },
+    {
+      "id": "global-financing-conditions",
+      "category": "finance",
+      "label": {
+        "en": "Global financing conditions",
+        "pt-BR": "Condições globais de financiamento"
+      }
+    },
+    {
+      "id": "low-income-sovereign-financing",
+      "category": "finance",
+      "label": {
+        "en": "Low-income sovereign financing",
+        "pt-BR": "Financiamento soberano de baixa renda"
+      }
+    },
+    {
+      "id": "tokenised-wholesale-settlement",
+      "category": "infrastructure",
+      "label": {
+        "en": "Tokenised wholesale settlement",
+        "pt-BR": "Liquidação atacadista tokenizada"
+      }
+    },
+    {
+      "id": "member-development-finance",
+      "category": "finance",
+      "label": {
+        "en": "Member development finance",
+        "pt-BR": "Financiamento ao desenvolvimento dos membros"
       }
     }
   ],
@@ -328,6 +384,112 @@
       "last_verified": "2026-09-19",
       "research_ids": [
         "MT-SA-2026-09-19-structural-power"
+      ]
+    },
+    {
+      "id": "federal-reserve",
+      "legal_name": "Board of Governors of the Federal Reserve System / Federal Open Market Committee",
+      "class": "central-bank",
+      "jurisdiction": "United States",
+      "label": {
+        "en": "Federal Reserve",
+        "pt-BR": "Federal Reserve"
+      },
+      "description": {
+        "en": "U.S. monetary authority whose rate, reserve and balance-sheet decisions materially affect dollar funding and global financial conditions.",
+        "pt-BR": "Autoridade monetária dos EUA cujas decisões de juros, reservas e balanço afetam materialmente o financiamento em dólar e as condições financeiras globais."
+      },
+      "scale": {
+        "en": "Systemic monetary authority for the principal global reserve currency.",
+        "pt-BR": "Autoridade monetária sistêmica da principal moeda de reserva global."
+      },
+      "limits": {
+        "en": "Policy transmits through markets and institutions; it does not establish direct control over private credit allocation or foreign monetary policy.",
+        "pt-BR": "A política se transmite por mercados e instituições; não estabelece controle direto sobre a alocação privada de crédito nem sobre política monetária externa."
+      },
+      "last_verified": "2026-09-22",
+      "research_ids": [
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ]
+    },
+    {
+      "id": "eurosystem",
+      "legal_name": "European Central Bank and the national central banks of the euro area",
+      "class": "central-bank",
+      "jurisdiction": "Euro area",
+      "label": {
+        "en": "Eurosystem",
+        "pt-BR": "Eurosistema"
+      },
+      "description": {
+        "en": "Euro-area monetary system operating TARGET Services and Pontes for central-bank-money settlement of eligible tokenised wholesale transactions.",
+        "pt-BR": "Sistema monetário da área do euro que opera TARGET Services e Pontes para liquidação em moeda de banco central de transações atacadistas tokenizadas elegíveis."
+      },
+      "scale": {
+        "en": "Monetary and settlement infrastructure for the euro area.",
+        "pt-BR": "Infraestrutura monetária e de liquidação da área do euro."
+      },
+      "limits": {
+        "en": "Settlement infrastructure does not establish adoption or market scale; transaction volume and interoperability remain empirical questions.",
+        "pt-BR": "Infraestrutura de liquidação não estabelece adoção nem escala de mercado; volume e interoperabilidade continuam sendo questões empíricas."
+      },
+      "last_verified": "2026-09-22",
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "id": "imf",
+      "legal_name": "International Monetary Fund",
+      "class": "multilateral-financial-institution",
+      "jurisdiction": "International",
+      "label": {
+        "en": "International Monetary Fund",
+        "pt-BR": "Fundo Monetário Internacional"
+      },
+      "description": {
+        "en": "Multilateral institution whose surveillance, lending programs and debt-sustainability frameworks influence sovereign financing constraints and policy design.",
+        "pt-BR": "Instituição multilateral cujas atividades de supervisão, programas de empréstimo e marcos de sustentabilidade da dívida influenciam restrições de financiamento soberano e desenho de políticas."
+      },
+      "scale": {
+        "en": "Global membership with surveillance and lending functions.",
+        "pt-BR": "Adesão global com funções de supervisão e empréstimo."
+      },
+      "limits": {
+        "en": "Assessments and conditionality influence but do not replace sovereign decisions; framework outputs retain judgment and data uncertainty.",
+        "pt-BR": "Avaliações e condicionalidades influenciam, mas não substituem decisões soberanas; os marcos preservam julgamento e incerteza de dados."
+      },
+      "last_verified": "2026-09-22",
+      "research_ids": [
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "id": "new-development-bank",
+      "legal_name": "New Development Bank",
+      "class": "multilateral-financial-institution",
+      "jurisdiction": "International",
+      "label": {
+        "en": "New Development Bank",
+        "pt-BR": "New Development Bank"
+      },
+      "description": {
+        "en": "Multilateral development bank providing project finance to members and developing additional funding channels, including local-currency finance.",
+        "pt-BR": "Banco multilateral de desenvolvimento que financia projetos de membros e desenvolve canais adicionais, incluindo financiamento em moeda local."
+      },
+      "scale": {
+        "en": "Active multilateral project lender entering its 2027–2031 strategy cycle.",
+        "pt-BR": "Financiador multilateral de projetos entrando no ciclo estratégico 2027–2031."
+      },
+      "limits": {
+        "en": "Strategy approval alone does not establish a shift in the monetary order; lending scale, currency composition and project execution determine transmission.",
+        "pt-BR": "Aprovação de estratégia, sozinha, não demonstra mudança da ordem monetária; escala, composição cambial e execução determinam a transmissão."
+      },
+      "last_verified": "2026-09-22",
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
       ]
     }
   ],
@@ -549,6 +711,79 @@
         "en": "ASML supplies advanced lithography systems required for key semiconductor manufacturing steps. The technical specialization and export-control treatment of advanced equipment make access to this channel strategically consequential.",
         "pt-BR": "A ASML fornece sistemas avançados de litografia necessários a etapas centrais da fabricação de semicondutores. A especialização técnica e o tratamento por controles de exportação tornam o acesso a esse canal estrategicamente relevante."
       }
+    },
+    {
+      "id": "fed-global-financing",
+      "actor": "federal-reserve",
+      "target": "global-financing-conditions",
+      "channel": "monetary-policy",
+      "control_mode": "institutional-authority",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-09-22",
+      "mechanism": {
+        "en": "Policy-rate and reserve-remuneration decisions anchor dollar short rates and transmit through yields, bank funding and cross-border financing costs.",
+        "pt-BR": "Decisões de juros e remuneração de reservas ancoram juros curtos em dólar e se transmitem por yields, funding bancário e custos de financiamento transfronteiriço."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ]
+    },
+    {
+      "id": "eurosystem-tokenised-settlement",
+      "actor": "eurosystem",
+      "target": "tokenised-wholesale-settlement",
+      "channel": "settlement-infrastructure",
+      "control_mode": "institutional-authority",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "current",
+      "last_verified": "2026-09-22",
+      "mechanism": {
+        "en": "Pontes connects eligible DLT platforms to TARGET Services, providing central-bank-money settlement to participating wholesale tokenised transactions.",
+        "pt-BR": "Pontes conecta plataformas DLT elegíveis aos TARGET Services, oferecendo liquidação em moeda de banco central às transações atacadistas tokenizadas participantes."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "id": "imf-lic-financing",
+      "actor": "imf",
+      "target": "low-income-sovereign-financing",
+      "channel": "debt-governance",
+      "control_mode": "institutional-authority",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-3y",
+      "last_verified": "2026-09-22",
+      "mechanism": {
+        "en": "LIC-DSF classifications and structured judgment feed program design, lending decisions and creditor assessments of debt sustainability.",
+        "pt-BR": "Classificações e julgamento estruturado do LIC-DSF alimentam desenho de programas, decisões de empréstimo e avaliações de sustentabilidade por credores."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22-LICDSF"
+      ]
+    },
+    {
+      "id": "ndb-member-finance",
+      "actor": "new-development-bank",
+      "target": "member-development-finance",
+      "channel": "development-finance",
+      "control_mode": "institutional-authority",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "1-5y",
+      "last_verified": "2026-09-22",
+      "mechanism": {
+        "en": "Capital allocation, project approvals and funding-currency choices shape the additional multilateral financing channel available to member projects.",
+        "pt-BR": "Alocação de capital, aprovações de projetos e escolha de moedas de funding moldam o canal multilateral adicional disponível aos projetos dos membros."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-09-22"
+      ]
     }
   ]
 }

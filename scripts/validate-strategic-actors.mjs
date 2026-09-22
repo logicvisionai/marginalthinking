@@ -12,7 +12,7 @@ const fail=(id,msg)=>errors.push((id?id+': ':'')+msg);
 const bilingual=(id,name,v)=>{if(!v||typeof v!=='object'||Array.isArray(v))return fail(id,name+' must be bilingual');for(const l of ['en','pt-BR'])if(typeof v[l]!=='string'||v[l].trim().length<2)fail(id,name+'.'+l+' missing');};
 const date=v=>/^\d{4}-\d{2}-\d{2}$/.test(String(v||''));
 const states=new Set(['high','medium','low','not-assessed']);
-const modes=new Set(['delegated','direct-ownership','state-mandate','commercial-intermediation','production-control','technology-supply']);
+const modes=new Set(['delegated','direct-ownership','state-mandate','commercial-intermediation','production-control','technology-supply','institutional-authority']);
 const horizons=new Set(['current','immediate','1-3y','1-5y','3-5y']);
 
 if(data.schema_version!==1)fail('', 'schema_version must be 1');
