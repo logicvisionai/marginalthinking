@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-22",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-22T00:16:00-03:00",
+  "reviewed_commit": "bb32554a43d8466c136bbb0e0cd15ed4c3318a35",
+  "pending_blob_sha": "50421b4d019ec2980f7dc3ea8db79128e7cc6ec1",
+  "source_blob_shas": {
+    "en": "bc1710d708d441955dad806431703568582895ad",
+    "pt-BR": "b5cd1c7f503aa871667703a97f1b9ee89b832110"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Central monetary-policy claim was checked against the 16 September Federal Reserve statement; the 3.75%-4.00% target range is correct. Cross-asset moves and AMD/semiconductor figures are consistent with contemporaneous market reporting. ECB gas pass-through is supported by the 21 September Economic Bulletin box. Focus is correctly characterized as market expectations rather than a BCB commitment. Observed facts, inference and conditional scenarios are materially separated."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Both editions open directly with the thesis rather than a generic executive-summary container. Analytical headings identify mechanisms, localization is natural, repetition is controlled, and the progression from energy repricing through market/institutional transmission to risks and synthesis is coherent. No prompt, QA history or public-facing template fields are exposed."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report incorporates the material geopolitical and institutional mechanisms needed to interpret Gulf logistics, European energy pass-through, U.S.-China constraints and Brazil's domestic-rate transmission without adding ornamental historical sections."
+    },
+    "institutional_consensus": {
+      "result": "passed",
+      "summary": "SoftBank issuance is treated as observable capital-market evidence, not as broad institutional consensus or a proprietary portfolio view; the report explicitly warns that a single issuance does not establish consensus."
+    },
+    "conflict_security_social_change": {
+      "result": "passed",
+      "summary": "Gulf conflict exposure and diplomacy are framed as operational risk, observed logistics adaptation and conditional scenarios rather than inferred intent or verified resolution. U.S.-China diplomacy is explicitly separated from implemented changes to tariffs, export controls and critical-mineral access."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown evidence table; 1 explicit Treasury-yield bar chart; 1 causal flow; 1 regional transmission map, for 4 analytical visuals total in each locale.",
+      "limitations": "The geographic visual is a regional transmission card rather than a coordinate map, consistent with the deterministic map grammar. Quantitative chart values are reproduced in the report evidence and units are explicit. EN/PT-BR visual values and mechanisms are semantically equivalent."
+    }
+  },
+  "contrary_evidence": [
+    "Long U.S. Treasury yields remain restrictive despite lower oil and stronger equities, limiting any interpretation of the move as broad financial easing.",
+    "European gas pass-through remains faster and uneven even as crude prices fall, preventing a single global-energy disinflation narrative.",
+    "Improved U.S.-China communication has not yet changed tariffs, semiconductor controls, investment restrictions or critical-mineral access.",
+    "Gulf export adaptation has preserved flows at elevated logistics cost and does not establish durable physical normalization."
+  ],
+  "limitations": [
+    "Several same-day market prices and event claims rely on Reuters rather than primary exchange feeds; they were cross-checked for internal consistency but are inherently time-sensitive.",
+    "The Focus report page confirms the release date and market-expectations methodology; the 13.50% year-end Selic median is treated as a survey expectation, not policy guidance.",
+    "Diplomatic outcomes scheduled for 23-25 September remain future catalysts at the report's cutoff and must not be read as implemented policy changes."
+  ],
+  "notes": "Approved before public materialization. The report meets v2 pipeline, taxonomy, bilingual, factual-methodological, editorial and visual-evidence gates for a daily brief. reviewed_commit identifies the exact pre-approval content state.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-22",
+    "slug": "2026-09-22-global-macro",
+    "date": "2026-09-22",
+    "published_at": "2026-09-22T00:05:36-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-22-global-macro/en.md",
+        "title": "Global Macro — Oil relief widens risk appetite, but long rates still set a restrictive floor",
+        "deck": "Oil relief lifted equities and duration, but long U.S. yields, European gas pass-through and unresolved geopolitical constraints keep the global regime restrictive.",
+        "tags": ["Global Macro", "Federal Reserve", "Treasuries", "oil", "AI", "Europe", "China", "Brazil"],
+        "keywords": ["Brent", "WTI", "Treasury yields", "semiconductors", "SoftBank", "OpenAI", "European gas", "Xi Jinping", "Selic"],
+        "regime": "Energy risk premium easing inside still-restrictive global financial conditions",
+        "key_risk": "Markets may be pricing diplomatic and logistical relief faster than Gulf physical security, European gas transmission and U.S.-China economic restrictions can improve.",
+        "watch": ["Gulf realized export throughput and freight/insurance costs", "U.S. 10Y and 30Y Treasury yields", "European gas prices and retail pass-through", "Concrete policy outcomes from the Trump-Xi meetings"],
+        "search_text": "Global macro September 22 2026 oil Treasury yields AI semiconductors Europe gas U.S. China Brazil Selic political risk"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-22-global-macro/pt-BR.md",
+        "title": "Global Macro — Alívio no petróleo amplia o apetite por risco, mas juros longos ainda impõem um piso restritivo",
+        "deck": "A queda do petróleo favoreceu ações e ativos de maior duração, mas juros longos nos EUA, transmissão do gás europeu e restrições geopolíticas ainda mantêm o regime global restritivo.",
+        "tags": ["Global Macro", "Federal Reserve", "Treasuries", "petróleo", "IA", "Europa", "China", "Brasil"],
+        "keywords": ["Brent", "WTI", "juros dos Treasuries", "semicondutores", "SoftBank", "OpenAI", "gás europeu", "Xi Jinping", "Selic"],
+        "regime": "Redução do prêmio de risco energético dentro de condições financeiras globais ainda restritivas",
+        "key_risk": "Os mercados podem estar precificando alívio diplomático e logístico mais rápido do que a segurança física do Golfo, a transmissão do gás europeu e as restrições econômicas EUA-China conseguem melhorar.",
+        "watch": ["Fluxo efetivo das exportações do Golfo e custos de frete/seguro", "Treasuries de 10 e 30 anos", "Preço do gás europeu e transmissão ao varejo", "Resultados concretos das reuniões Trump-Xi"],
+        "search_text": "Global Macro 22 setembro 2026 petróleo Treasuries IA semicondutores gás Europa EUA China Brasil Selic risco político"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "energy", "geopolitics-security"],
+    "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
