@@ -72,7 +72,7 @@
       "watch": [
         "implementação do Fed após a alta de setembro",
         "transmissão da energia para inflação no Reino Unido",
-        "efeitos da alta do BOJ para 1,25%",
+        "efeitos da alta do Banco do Japão para 1,25%",
         "cronograma de implementação do LIC-DSF",
         "expansão de participantes do Pontes",
         "execução da estratégia 2027–2031 do NDB"
@@ -106,5 +106,16 @@
   "format": "brief",
   "cadence": "daily",
   "series": "global-monetary-financial-institutions",
-  "series_domain": "system-monitor"
+  "series_domain": "system-monitor",
+  "phenomena": [
+    "institutional-change"
+  ],
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "6b8b2bb59812bffedbb9a3bac31aa85ceeb09af9",
+  "qa_fixes_applied": [
+    "Added controlled phenomena classification: institutional-change",
+    "Localized PT-BR institutional bodies and technical terms flagged by QA, including Conselho Executivo, Conselho de Diretores, operações compromissadas, títulos do Tesouro and taxa de curtíssimo prazo",
+    "Localized PT-BR source labels while preserving source URLs, figures, dates, visual values and conclusions"
+  ]
 }
