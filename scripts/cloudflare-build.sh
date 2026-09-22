@@ -33,6 +33,9 @@ node scripts/render-global-dependencies.mjs
 # Validate and render the Strategic Actors structural-power layer from published research.
 node scripts/validate-strategic-actors.mjs
 node scripts/render-strategic-actors.mjs
+# Resource and capability control layer.
+node scripts/validate-resource-control-atlas.mjs
+node scripts/render-resource-control-atlas.mjs
 # Replace legacy free-tag collections with the controlled editorial taxonomy and
 # re-rank related research by program -> geography -> controlled topics -> tags.
 node scripts/render-taxonomy-pages.mjs
