@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "MT-GMFI-2026-09-22-LICDSF",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-22T17:18:43-03:00",
+  "reviewed_commit": "32e94328a3bfa7bd906e6a0298156f4ab98356be",
+  "pending_blob_sha": "21e43aa5f5fbbd4d26166b4e8b086fedfddeff2d",
+  "source_blob_shas": {"en":"7a8a903ac15d985c65310a0cf1eb68a7e19f35ec","pt-BR":"9162aa2a1875357ab95b0ac0e75340ff11741cf9"},
+  "confidence": "high",
+  "blocking_issues": [
+    {"type":"taxonomy","location":"data/pending/2026-09-22-imf-world-bank-lic-debt-framework.json","issue":"The v2 pending sidecar omits the controlled `phenomena` array. Current architecture requires `phenomena` to be a valid array, including an empty array when no controlled phenomenon is materially relevant."},
+    {"type":"editorial_localization","location_pt_BR":"Opening paragraph; section 'Mais modelagem não elimina julgamento'; section 'Transição para 2027'; pending watch metadata.","issue":"The PT-BR edition repeatedly exposes raw English institutional/process terms (`Executive Board`, `Board`, `Guidance Note`) where natural Portuguese equivalents are available. The pending PT-BR watch metadata also retains `Guidance Note` and `Board`. This fails the explicit localization gate."}
+  ],
+  "required_fixes": [
+    "Add `phenomena` as a controlled array in the pending sidecar, using only identifiers present in data/taxonomy.json; use [] if no controlled phenomenon is materially relevant.",
+    "Localize `Executive Board`, `Board` and `Guidance Note` naturally in the PT-BR article and pending metadata, preserving the institutional meaning; introduce the original English term only if analytically necessary.",
+    "Keep EN/PT-BR facts, dates, units, visual data, causal qualifications and conclusions semantically identical after the editorial correction. Preserve ID and slug."
+  ],
+  "taxonomy_issues": ["Missing required controlled `phenomena` array in the v2 pending sidecar."],
+  "checks": {
+    "factual_methodological":{"result":"passed_for_material_claims","summary":"The IMF primary release confirms the September 9 Board review, September 21 release, domestic-debt and long-term modules, recalibrated thresholds, mechanical risk signal, confidence flag, unchanged 5% harmonized discount rate, temporary non-publication regime, and expected second-half-2027 implementation. The report appropriately distinguishes analytical-rule changes from changes in debt stocks."},
+    "taxonomy":{"result":"failed","summary":"Program and topics are otherwise structurally plausible, but `phenomena` is absent rather than a controlled array."},
+    "editorial_publication_readiness":{"result":"failed","summary":"The opening is direct and headings are generally informative, but the PT-BR edition and localized metadata contain avoidable raw English institutional terminology, which is explicitly blocking under the publication standard."},
+    "contextual_depth":{"result":"passed","summary":"The report connects the framework revision to the post-2017 diversification of financing sources, domestic/commercial borrowing, fiscal-space analysis and creditor/borrower decision channels without adding ornamental history."},
+    "visual_evidence_readiness":{"result":"passed","signature":{"tables":1,"charts":1,"structural_visuals":["flow"],"total":3},"summary":"The brief meets the minimum visual budget. The review-history chart is derived from the IMF's stated 2005 introduction and 2006/2009/2012/2017/2026 review dates; the flow encodes mechanisms defended in the prose; EN/PT-BR values and structure are parallel."},
+    "translation":{"result":"failed_localization","summary":"Semantic factual parity is strong, but PT-BR is not yet publication-ready because untranslated institutional/process terminology remains visible."}
+  },
+  "contrary_evidence": ["The IMF Board retained structured judgment and auxiliary indicators rather than making the new mechanical signal determinative; the report correctly preserves that limitation.","Most Directors supported temporarily restricting publication of probability cut-offs and individual mechanical signals, creating a reproducibility limitation that the report explicitly identifies."],
+  "limitations": ["Implementation effects cannot yet be observed because the revised framework is expected to become operational only in the second half of 2027; claims about future classification effects remain conditional."],
+  "notes": "No approval was created and no public surface was changed. Canonical public state was rechecked immediately before decision and no materialized bundle for this ID was found. Return the same ID after taxonomy and PT-BR localization fixes."
+}

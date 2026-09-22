@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "MT-GMFI-2026-09-22",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-22T17:18:43-03:00",
+  "reviewed_commit": "32e94328a3bfa7bd906e6a0298156f4ab98356be",
+  "pending_blob_sha": "0f79596d3063e58f9551c00a7e4b26fb36740506",
+  "source_blob_shas": {"en":"880b76585426ce18b4d8010d81b4876daf8a11b8","pt-BR":"0a9eb30d092b2e359bfde42e17a508796577d48e"},
+  "confidence": "high",
+  "blocking_issues": [
+    {"type":"taxonomy","location":"data/pending/2026-09-22-global-monetary-institutions.json","issue":"The v2 pending sidecar omits the controlled `phenomena` array. Current architecture requires `phenomena` to be a valid array, including an empty array when no controlled phenomenon is materially relevant."},
+    {"type":"editorial_localization","location_pt_BR":"Decision table; section 'O marco FMI–Banco Mundial muda a forma de avaliar dívida sustentável'; NDB section; source labels.","issue":"The PT-BR edition exposes avoidable raw English/institutional terminology, including `Board`, `Executive Board`, `New Development Bank`, `Treasury bills`, `repo`, `overnight` and English source labels without natural first-use localization. This fails the publication-readiness localization gate."}
+  ],
+  "required_fixes": [
+    "Add `phenomena` as a controlled array in the pending sidecar, using only identifiers present in data/taxonomy.json; use [] if no controlled phenomenon is materially relevant.",
+    "Rewrite the PT-BR edition so institutional bodies and technical terms are natural in Brazilian Portuguese on first use (for example Conselho Executivo/Diretoria Executiva where appropriate, Conselho de Diretores, títulos do Tesouro, operações compromissadas, taxa de curtíssimo prazo), retaining English only where technically conventional and explained.",
+    "Preserve all figures, dates, epistemic status, visual values and conclusions identically across EN/PT-BR after localization; do not alter the ID/slug/canonical identity."
+  ],
+  "taxonomy_issues": ["Missing required controlled `phenomena` array in the v2 pending sidecar."],
+  "checks": {
+    "factual_methodological":{"result":"passed_for_central_claims","summary":"Primary-source checks corroborated the Fed 3.75–4.00% target-range increase on September 16, the BoE 3.75% 6–3 hold and £46bn/year unwind plan, and the IMF LIC-DSF reform timing/5% discount-rate claims. No central factual contradiction was identified in the reviewed material."},
+    "taxonomy":{"result":"failed","summary":"Program and topics are otherwise structurally plausible, but `phenomena` is absent rather than a controlled array."},
+    "editorial_publication_readiness":{"result":"failed","summary":"Opening and analytical progression are usable, but PT-BR localization repeatedly exposes raw English institutional/process terms that should be translated or explained before publication."},
+    "visual_evidence_readiness":{"result":"passed","signature":{"tables":1,"charts":1,"structural_visuals":["flow"],"total":3},"summary":"The brief meets the visual floor with one table, one explicit chart and one structural flow. EN/PT-BR visual values and mechanisms are semantically parallel; the policy-rate chart explicitly warns that different operating frameworks are not comparable as a measure of relative tightness."},
+    "translation":{"result":"failed_localization","summary":"Facts and visual evidence are substantially aligned, but the Portuguese edition does not yet satisfy natural PT-BR localization."}
+  },
+  "contrary_evidence": ["The policy-rate chart is not a measure of relative monetary tightness across jurisdictions; the report itself correctly states this limitation."],
+  "limitations": ["The review verified central numerical and institutional claims against primary official sources; the rejection is independently blocking on taxonomy and PT-BR publication readiness."],
+  "notes": "No approval was created and no public surface was changed. Canonical public state was rechecked immediately before decision and no materialized bundle for this ID was found. Return the same ID after fixing taxonomy and PT-BR localization."
+}
