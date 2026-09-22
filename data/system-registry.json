@@ -242,6 +242,230 @@
       "update_mode": "build-derived",
       "reconciliation_required": false,
       "freshness_sla_hours": null
+    },
+    {
+      "id": "program-global-system-power",
+      "type": "research-program",
+      "status": "active",
+      "taxonomy_id": "global-system-power",
+      "public_route": "/programs/global-system-power/",
+      "source_files": [
+        "data/taxonomy.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "program-political-economy-markets",
+      "type": "research-program",
+      "status": "active",
+      "taxonomy_id": "political-economy-markets",
+      "public_route": "/programs/political-economy-markets/",
+      "source_files": [
+        "data/taxonomy.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "program-strategic-transitions",
+      "type": "research-program",
+      "status": "active",
+      "taxonomy_id": "strategic-transitions",
+      "public_route": "/programs/strategic-transitions/",
+      "source_files": [
+        "data/taxonomy.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "program-technology-production-society",
+      "type": "research-program",
+      "status": "active",
+      "taxonomy_id": "technology-production-society",
+      "public_route": "/programs/technology-production-society/",
+      "source_files": [
+        "data/taxonomy.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-global-macro-daily",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "public_route": "/reports/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "daily-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 36
+    },
+    {
+      "id": "editorial-wealth-flow-weekly",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "public_route": "/reports/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "weekly-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 192
+    },
+    {
+      "id": "editorial-strategic-transitions",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "public_route": "/programs/strategic-transitions/",
+      "source_files": [
+        "data/reports.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-country-context",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "public_route": "/research/hubs/",
+      "source_files": [
+        "COUNTRY-CONTEXT.md",
+        "data/reports.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-technology-signals-weekly",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "public_route": "/research/",
+      "source_files": [
+        "TECHNOLOGY-SIGNALS.md",
+        "data/technology-signals.json"
+      ],
+      "update_mode": "weekly-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 192
+    },
+    {
+      "id": "editorial-strategic-technology-monthly",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "public_route": "/reports/",
+      "source_files": [
+        "TECHNOLOGY-SIGNALS.md",
+        "data/reports.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-conflict-systems",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "public_route": "/research/conflict-systems/",
+      "source_files": [
+        "CONFLICT-SECURITY-SOCIAL-CHANGE.md",
+        "data/conflict-systems.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-strategic-actors",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "public_route": "/actors/",
+      "source_files": [
+        "STRATEGIC-ACTORS.md",
+        "data/strategic-actors.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-global-monetary-daily",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "series_id": "global-monetary-financial-institutions",
+      "public_route": "/series/global-monetary-financial-institutions/",
+      "source_files": [
+        "GLOBAL-MONETARY-FINANCIAL-INSTITUTIONS.md",
+        "data/taxonomy.json"
+      ],
+      "update_mode": "daily-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 36
+    },
+    {
+      "id": "editorial-institutional-decisions",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "series_id": "global-monetary-financial-institutions",
+      "public_route": "/series/global-monetary-financial-institutions/",
+      "source_files": [
+        "GLOBAL-MONETARY-FINANCIAL-INSTITUTIONS.md",
+        "INSTITUTIONAL-EDITORIAL.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-policy-case-studies",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "series_id": "policy-experiments-institutional-transitions",
+      "public_route": "/series/policy-experiments-institutional-transitions/",
+      "source_files": [
+        "POLICY-EXPERIMENTS.md",
+        "data/policy-cases.json"
+      ],
+      "update_mode": "weekly-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 192
     }
   ]
 }
