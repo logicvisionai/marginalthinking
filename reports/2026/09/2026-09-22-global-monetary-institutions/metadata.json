@@ -1,0 +1,120 @@
+{
+  "id": "MT-GMFI-2026-09-22",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T10:35:00-03:00",
+  "kind": "daily-institutional-monitor",
+  "priority": 8,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "monetary-policy",
+    "banking-credit",
+    "sovereign-debt",
+    "capital-markets",
+    "currencies",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "series": "global-monetary-financial-institutions",
+  "series_domain": "system-monitor",
+  "qa_fixes_applied": [
+    "Added controlled phenomena classification: institutional-change",
+    "Localized PT-BR institutional bodies and technical terms flagged by QA, including Conselho Executivo, Conselho de Diretores, operações compromissadas, títulos do Tesouro and taxa de curtíssimo prazo",
+    "Localized PT-BR source labels while preserving source URLs, figures, dates, visual values and conclusions"
+  ],
+  "qa_reviewed_at": "2026-09-22T17:22:35-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "f5c6e656a8b3ff3c7a664bd035eb9066639d266f",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Monetary Institutions — September 22, 2026",
+      "deck": "The latest institutional cycle combines tighter policy in the United States and Japan, a divided hold in the United Kingdom, a new IMF–World Bank debt framework for low-income countries, live Eurosystem settlement of tokenised assets in central bank money, and a new NDB strategy cycle.",
+      "tags": [
+        "central-banks",
+        "IMF",
+        "ECB",
+        "NDB",
+        "financial-architecture"
+      ],
+      "keywords": [
+        "Federal Reserve",
+        "Bank of England",
+        "Bank of Japan",
+        "ECB",
+        "Pontes",
+        "IMF",
+        "World Bank",
+        "NDB",
+        "monetary policy",
+        "debt sustainability"
+      ],
+      "regime": "Major central banks are diverging in policy implementation while multilateral institutions are changing debt assessment and settlement infrastructure.",
+      "key_risk": "Energy-driven inflation and restrictive long-term financing can keep policy tighter even as official institutions expand new settlement and development-finance channels.",
+      "watch": [
+        "Fed implementation after the September rate increase",
+        "Bank of England energy-inflation transmission",
+        "BOJ pass-through after the move to 1.25%",
+        "LIC-DSF implementation timetable",
+        "Pontes participant expansion",
+        "NDB 2027–2031 strategy implementation"
+      ],
+      "search_text": "Global monetary institutions September 22 2026 Fed BoE BOJ ECB Pontes IMF World Bank debt sustainability NDB strategy."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Instituições Monetárias Globais — 22 de setembro de 2026",
+      "deck": "O ciclo institucional mais recente combina aperto monetário nos Estados Unidos e no Japão, manutenção dividida dos juros no Reino Unido, novo marco FMI–Banco Mundial para dívida de países de baixa renda, liquidação de ativos tokenizados em moeda de banco central no Eurosistema e novo ciclo estratégico do NDB.",
+      "tags": [
+        "bancos-centrais",
+        "FMI",
+        "BCE",
+        "NDB",
+        "arquitetura-financeira"
+      ],
+      "keywords": [
+        "Federal Reserve",
+        "Banco da Inglaterra",
+        "Banco do Japão",
+        "BCE",
+        "Pontes",
+        "FMI",
+        "Banco Mundial",
+        "NDB",
+        "política monetária",
+        "sustentabilidade da dívida"
+      ],
+      "regime": "Grandes bancos centrais divergem na condução monetária enquanto instituições multilaterais alteram avaliação de dívida e infraestrutura de liquidação.",
+      "key_risk": "Inflação associada à energia e financiamento de longo prazo restritivo podem manter a política monetária apertada mesmo com expansão de novos canais de liquidação e financiamento multilateral.",
+      "watch": [
+        "implementação do Fed após a alta de setembro",
+        "transmissão da energia para inflação no Reino Unido",
+        "efeitos da alta do Banco do Japão para 1,25%",
+        "cronograma de implementação do LIC-DSF",
+        "expansão de participantes do Pontes",
+        "execução da estratégia 2027–2031 do NDB"
+      ],
+      "search_text": "Instituições monetárias globais 22 setembro 2026 Fed BoE BOJ BCE Pontes FMI Banco Mundial sustentabilidade dívida NDB estratégia."
+    }
+  }
+}
