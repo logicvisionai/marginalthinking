@@ -15,9 +15,7 @@
   ],
   "geography": {
     "level": "global",
-    "regions": [
-      "global"
-    ],
+    "regions": [],
     "subregions": [],
     "countries": []
   },
