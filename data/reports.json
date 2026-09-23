@@ -334,9 +334,9 @@
     "url": "/reports/2026/09/2026-09-23-mercosur-system.html",
     "markdown_url": "/reports/2026/09/2026-09-23-mercosur-system/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
   },
   {
     "id": "MT-CC-2026-09-23-argentina",
@@ -621,9 +621,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-brazil.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-brazil/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
   },
   {
     "id": "MT-CC-2026-09-23-china",
@@ -1106,9 +1106,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-indonesia.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-indonesia/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
   },
   {
     "id": "MT-CC-2026-09-23-iran",
@@ -1201,9 +1201,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-iran.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-iran/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
   },
   {
     "id": "MT-CC-2026-09-23-paraguay",
@@ -1498,9 +1498,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-saudi-arabia-deep.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
   },
   {
     "id": "MT-CC-2026-09-23-south-africa",
@@ -1597,9 +1597,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-south-africa.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-south-africa/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
   },
   {
     "id": "MT-CC-2026-09-23-uae",

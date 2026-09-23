@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-PE-2026-09-23-MERCOSUR",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-23T14:42:00Z",
-  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "reviewed_at": "2026-09-23T15:56:00Z",
+  "reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2",
   "pending_blob_sha": "195fcb787de6dc2e3fa4719ea203a9904ef3f3e5",
   "source_blob_shas": {
-    "en": "cad2137e1d11d7065f6e72053f1b99ff3ffd0ebd",
-    "pt-BR": "0ad073d270d519b9501cb0a512396307791972be"
+    "en": "33e9952fef46635c3f9cb78df7b0b2c4d2e4c650",
+    "pt-BR": "05c1d82fb5b19e46ba47fe755ecfb8d07f5a15c7"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -46,7 +46,7 @@
     "Membership, partner status and trade-agreement implementation are time-sensitive.",
     "Intergovernmental declarations do not prove implementation without operational evidence."
   ],
-  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "notes": "QA v2 reapproval binds the exact EN/PT-BR source blobs in 0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2; blocked internal editorial terminology was replaced by specific public-facing constraints without changing the substantive analysis.",
   "publication": {
     "schema_version": 2,
     "ready": true,

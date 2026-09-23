@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-CC-2026-09-23-brazil",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-23T14:42:00Z",
-  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "reviewed_at": "2026-09-23T15:56:00Z",
+  "reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2",
   "pending_blob_sha": "c3422e57058d2597e9422c4f38849195ce0c96db",
   "source_blob_shas": {
-    "en": "49c306a6f597638a6a1dd805cd0a46dc92003508",
-    "pt-BR": "3c69bb297cf4527869e6fd7d3a507199683e2aac"
+    "en": "e0f333df8cc940009550eb427eb51226fa1ab1db",
+    "pt-BR": "637b3c5a9aedb892ab19ce0d849c5f03d27f4f32"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -46,7 +46,7 @@
     "Historical series use changing territorial/statistical definitions.",
     "Current 2026 observations are time-sensitive."
   ],
-  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "notes": "QA v2 reapproval binds the exact EN/PT-BR source blobs in 0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2; blocked internal editorial terminology was replaced by specific public-facing constraints without changing the substantive analysis.",
   "publication": {
     "schema_version": 2,
     "ready": true,
