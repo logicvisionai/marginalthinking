@@ -20,7 +20,7 @@ function figure(kind, title, body, {unit = '', classes = ''} = {}) {
 
 function dataTable(headers, rows, locale, title) {
   const numeric = headers.map((_, i) => i > 0 && rows.length > 0 && rows.every(r => visualNumber(String(r[i] || '').replace(/%$/, '').trim()) !== null));
-  return `<div class="md-table-wrap" role="region" aria-label="${esc(title)}" tabindex="0"><table class="md-table" style="--table-columns:${headers.length}"><caption class="sr-only">${esc(title)}</caption><thead><tr>${headers.map((h, i) => `<th scope="col"${numeric[i] ? ' class="numeric"' : ''}>${inline(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(row => `<tr>${headers.map((_, i) => `<${i ? 'td' : 'th scope="row"'}${numeric[i] ? ' class="numeric"' : ''}>${inline(row[i] ?? '')}</${i ? 'td' : 'th'}>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+  return `<div class="md-table-wrap" role="region" aria-label="${esc(title)}" tabindex="0"><table class="md-table columns-${Math.min(headers.length,8)}" style="--table-columns:${headers.length}"><caption class="sr-only">${esc(title)}</caption><thead><tr>${headers.map((h, i) => `<th scope="col"${numeric[i] ? ' class="numeric"' : ''}>${inline(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(row => `<tr>${headers.map((_, i) => `<${i ? 'td' : 'th scope="row"'}${numeric[i] ? ' class="numeric"' : ''}>${inline(row[i] ?? '')}</${i ? 'td' : 'th'}>`).join('')}</tr>`).join('')}</tbody></table></div>`;
 }
 
 export function renderTable(headers, rows, locale = 'en', title = '') {

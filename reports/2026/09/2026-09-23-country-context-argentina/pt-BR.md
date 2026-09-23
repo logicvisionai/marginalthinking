@@ -144,6 +144,31 @@ Inflação fim de ano | 25
 Superávit primário (% PIB) | 1.4
 ```
 
+
+## As relações fiscais federativas transmitem a instabilidade macro por províncias, impostos e serviços públicos
+
+A estrutura federal argentina faz com que a macroeconomia nacional seja filtrada por províncias com bases produtivas e capacidades fiscais muito diferentes. Buenos Aires e o corredor agroindustrial central geram grande parcela do produto e da arrecadação, enquanto outras províncias dependem mais de transferências federais, emprego público, hidrocarbonetos, mineração ou agricultura regional. Regras de repartição de receitas influenciam, portanto, coalizões nacionais e provisão local de serviços.
+
+A inflação torna esse arranjo mais difícil de administrar porque arrecadação, salários, transferências e preços de compras públicas se ajustam em velocidades diferentes. Uma província pode registrar aumento nominal de receita enquanto sua capacidade real de pagar professores, profissionais de saúde ou fornecedores se deteriora. Consolidação fiscal nacional também pode transferir pressão aos governos subnacionais quando transferências ou obras públicas são reduzidas.
+
+A implicação produtiva é que estabilização macroeconômica e desenvolvimento territorial não podem ser separados. Rodovias, portos, infraestrutura de energia, educação e segurança são parcialmente entregues por instituições provinciais. Se o ajuste enfraquece essas funções de forma desigual, condições nacionais de investimento podem divergir muito entre regiões mesmo sob uma moeda e estrutura jurídica federais comuns.
+
+| Canal federativo | Efeito nacional | Efeito provincial | Variável a acompanhar |
+| --- | --- | --- | --- |
+| repartição de receitas | distribui capacidade tributária | define orçamento de serviços | transferências reais por província |
+| salários públicos | afeta gasto consolidado | grande âncora do mercado de trabalho local | folha provincial em termos reais |
+| obras públicas | instrumento fiscal/macro | investimento em infraestrutura | gasto de capital e conclusão de projetos |
+| royalties de recursos | receita fiscal/exportadora | concentra ganhos geograficamente | receita própria provincial |
+
+## Indexação e poupança em dólares tornam a estabilização um problema de balanços, não apenas de preços
+
+Décadas de inflação e desvalorizações recorrentes mudaram a forma como famílias e empresas argentinas escrevem contratos. Preços, aluguéis, salários e instrumentos financeiros podem ser indexados formal ou informalmente; poupadores frequentemente buscam exposição ao dólar; empresas administram estoques e capital de giro observando de perto a depreciação esperada. Essas práticas são adaptações racionais a unidades nominais instáveis.
+
+Elas também tornam a desinflação complexa. Se contratos olham para trás e incorporam inflação passada, o crescimento dos preços pode permanecer persistente mesmo depois de melhora fiscal ou monetária. Se famílias não confiam na duração da estabilização, podem continuar preferindo dólares a ativos em pesos de prazo maior. Empresas podem adiar investimento até conseguirem estimar melhor custos financeiros e preços relativos futuros.
+
+Uma estabilização durável, portanto, exige reparo de balanços junto com inflação mensal menor. Bancos precisam de instrumentos capazes de intermediar poupança doméstica de prazo mais longo; empresas precisam de capital de giro que não dependa de reprecificação constante; famílias precisam de razões para manter ativos em moeda local sem presumir repetição das perdas do passado. A velocidade com que esses comportamentos mudam é indicador importante de que a estabilização nominal está se tornando institucional em vez de temporária.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

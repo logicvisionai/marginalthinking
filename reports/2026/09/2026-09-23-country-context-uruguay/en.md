@@ -143,6 +143,31 @@ Real GDP growth | 1.8
 Consumer inflation | 4
 ```
 
+
+## The fiscal state and aging are linked through labour participation, pensions and productivity
+
+Uruguay's welfare architecture is economically important because it changes the transmission of demographic aging. A country with broad pension coverage, public health provision and formal labour institutions does not experience aging only as a change in the number of workers. It experiences it through the budget: a larger retired population raises age-related spending while a slowly growing labour force limits the tax base that finances that spending. The resulting pressure can appear through taxes, contribution rates, retirement ages, public debt or lower room for other investment.
+
+This creates a direct connection between education, labour-force participation and fiscal sustainability. Higher employment among women, older workers and skilled migrants expands the contribution base; stronger learning outcomes and firm productivity allow wages and tax revenue to rise without relying on population growth. Conversely, persistent productivity stagnation makes every distributive choice more difficult because social commitments consume a larger share of a slowly expanding economy.
+
+The social dimension is equally important. A long history of broad social protection raises expectations of continuity and institutional fairness. Reforms are therefore judged not only by aggregate fiscal savings but by how costs are distributed across cohorts. This helps explain why pension design, public-sector efficiency and education quality are central political-economy questions even when headline macroeconomic indicators are stable.
+
+| Transmission channel | Economic effect | Social effect | Variable to monitor |
+| --- | --- | --- | --- |
+| population aging | higher pension and health expenditure | greater intergenerational distribution debate | dependency ratio and retirement age |
+| labour participation | broader tax and contribution base | changes work-care balance | participation by age and sex |
+| education/productivity | supports higher wages without population growth | affects mobility expectations | learning outcomes and labour productivity |
+| migration | enlarges selected labour pools | changes housing and service demand | net migration and occupational composition |
+
+## Small-country strategy requires external scale without surrendering policy resilience
+
+Uruguay cannot create a large internal market through domestic demand alone. Its long-run strategy therefore depends on attaching a small, relatively high-trust economy to larger markets through trade agreements, logistics, foreign investment and exportable services. Agriculture and pulp use natural resources and capital; software, professional services and finance use human capital; port activity uses geography. These sectors solve the same structural problem in different ways: they sell beyond the national market.
+
+The benefits of openness are strongest when foreign investment produces domestic capabilities rather than isolated enclaves. Supplier development, technical training, local management capacity and connections between universities and firms determine whether a large project changes economy-wide productivity. The policy challenge is to preserve predictable regulation while preventing small-market concentration from weakening competition.
+
+Regional integration adds another layer. Mercosur provides nearby scale but also subjects Uruguay to common external rules and to cycles in Brazil and Argentina. Diversifying trade partners can reduce regional concentration, while deep physical links to neighbouring economies remain unavoidable. Uruguay's resilience therefore comes from combining regional integration with global market access rather than choosing one against the other.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

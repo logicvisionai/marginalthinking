@@ -143,6 +143,31 @@ unit: %
 2027 FMI | 2.1
 ```
 
+
+## O Estado fiscal está migrando da distribuição do petróleo para tributação, tarifas e retornos de portfólio
+
+Durante grande parte da história moderna saudita, a receita do petróleo permitiu ao governo financiar emprego público, infraestrutura, subsídios e serviços sem depender de tributação doméstica ampla. A diversificação altera essa arquitetura fiscal. IVA, tarifas, receitas não petrolíferas, retornos de investimentos soberanos e lucros de empresas ligadas ao Estado tornam a relação entre cidadãos, empresas e orçamento mais direta do que em um modelo puro de distribuição de renda petrolífera.
+
+Essa mudança importa porque altera incentivos. Quando famílias pagam impostos mais explícitos e preços administrados maiores, qualidade e eficiência dos serviços públicos tornam-se mais visíveis. Quando empresas enfrentam tarifas e exigências de localização, comparam esses custos com infraestrutura, acesso a mercado e previsibilidade regulatória. Diversificação fiscal, portanto, não é apenas estabilizar receita; ela modifica gradualmente o contrato social em torno do gasto público.
+
+A atuação do Public Investment Fund acrescenta um segundo canal. Capital soberano pode acelerar setores que investidores privados inicialmente consideram arriscados ou grandes demais, mas o Estado também assume risco de execução. O teste econômico é se os projetos acabam criando fluxos de caixa, redes de fornecedores e capacidades que reduzam dependência de financiamento público contínuo.
+
+| Canal fiscal | Modelo anterior | Modelo em diversificação | Principal risco |
+| --- | --- | --- | --- |
+| receita de hidrocarbonetos | fonte dominante do orçamento | continua central, mas menos exclusiva | volatilidade do petróleo |
+| impostos/tarifas | carga direta limitada | contribuição não petrolífera maior | pressão de custos sobre famílias e firmas |
+| investimento soberano | acumulação de reservas/ativos | portfólio doméstico e global ativo | disciplina de retorno dos projetos |
+| emprego público | grande mecanismo distributivo | maior ênfase no emprego privado | expectativas salariais e descasamento de competências |
+
+## A transformação do mercado de trabalho conecta demografia, gênero, qualificação e produtividade privada
+
+A Arábia Saudita possui população cidadã jovem em comparação com muitas economias avançadas, de modo que a política de trabalho precisa criar grande quantidade de empregos produtivos em vez de apenas administrar uma força de trabalho em declínio. A preferência histórica por emprego público seguro e a disponibilidade de mão de obra estrangeira de menor custo criaram distância entre expectativas dos cidadãos e muitas estruturas de emprego privado.
+
+Políticas de saudização tentam mudar esse equilíbrio elevando a participação de cidadãos em ocupações e setores selecionados. O aumento do emprego feminino amplia materialmente a força de trabalho qualificada disponível e modifica padrões de renda familiar, deslocamento, demanda por cuidado infantil e consumo. Essas mudanças são sociais e econômicas porque alteram como famílias distribuem tempo e como empresas organizam seus locais de trabalho.
+
+A parte difícil é produtividade. Localização pode aumentar o emprego numericamente sem elevar produção se empresas apenas substituírem trabalhadores e mantiverem processos iguais. O resultado mais forte ocorre quando educação, formação profissional, qualidade gerencial e adoção tecnológica permitem que cidadãos ocupem funções cada vez mais complexas. Por isso taxas de emprego precisam ser lidas junto com salários, retenção, progressão de carreira no setor privado e produtividade.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

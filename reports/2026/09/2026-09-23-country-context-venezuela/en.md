@@ -142,6 +142,33 @@ Growth | 4
 Inflation | 387.4
 ```
 
+
+## Dollarization stabilized transactions unevenly and created a dual monetary economy
+
+The spread of U.S.-dollar pricing after hyperinflation reduced some transaction costs because firms and households could quote prices in a unit that changed less rapidly than the bolívar. This was a practical adaptation rather than a formal monetary union. Taxes, public wages, regulated prices and many legal obligations still interact with the domestic currency, while access to dollars is highly unequal.
+
+That inequality matters for the social structure. Households receiving remittances, export income or private-sector dollar payments can protect purchasing power more effectively than workers dependent on bolívar-denominated public income. Businesses with access to imported inputs and foreign-currency revenue face different financing conditions from firms trapped in local-currency cash flow. Dollarization can therefore improve market functioning while simultaneously widening gaps between households and sectors.
+
+It also changes monetary transmission. A central bank can influence bolívar liquidity, but it does not control the supply of foreign banknotes or external dollar income in the same way. Exchange-rate expectations become a central price signal, and attempts to stabilize the currency through intervention can consume scarce reserves if fiscal conditions remain inconsistent.
+
+| Monetary channel | Stabilizing effect | Distributional cost | Indicator to monitor |
+| --- | --- | --- | --- |
+| dollar pricing | clearer short-term price reference | excludes households without FX income | share of transactions in foreign currency |
+| remittances | household liquidity and consumption | geographic/household inequality | remittance flows |
+| bolívar public wages | preserves state payment capacity | rapid real-income erosion under depreciation | real public-sector wage |
+| exchange intervention | can slow depreciation temporarily | uses scarce liquid reserves | reserves and parallel/official rate gap |
+
+## Rebuilding an oil economy requires rebuilding contracts, infrastructure and human capital together
+
+Oil recovery is often described as if production responds directly to investment. In Venezuela, the sequence is more demanding. Heavy-crude fields depend on power, water, diluent supply, pipelines, upgraders, ports, service companies and specialized engineers. Years of low maintenance can make each component a separate source of delay even after financing becomes available.
+
+Contractual credibility is equally important because oil projects recover capital over long horizons. Investors price not only geology but taxation, ownership rules, sanctions exposure, payment mechanisms and the enforceability of agreements. If those conditions remain uncertain, very large reserves can coexist with low production because the risk-adjusted return on capital remains unattractive.
+
+Human capital is the third layer. Emigration affected engineers, technicians, physicians, academics and entrepreneurs as well as lower-skilled workers. Recovery therefore requires incentives for return, training of new cohorts and institutional conditions that allow professional skills to be used productively. The diaspora can become a source of knowledge and capital, but only if domestic projects are credible enough to attract it.
+
+The broader implication is that petroleum cannot be separated from the non-oil economy. Reliable electricity, functioning ports, financial services, legal institutions and household stability are inputs into energy production itself. Restoring oil revenue without rebuilding these complementary systems would risk reproducing the previous dependence on a narrow fiscal base.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

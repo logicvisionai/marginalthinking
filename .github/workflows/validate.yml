@@ -47,6 +47,15 @@ jobs:
           test -f dist/pt-br/opportunities/index.html
           test -f dist/data/structural-opportunities.json
           test -f dist/regions/index.html
+          test -f dist/pt-br/regions/index.html
+          grep -q 'atlas-country-grid' dist/regions/index.html
+          grep -q 'atlas-country-grid' dist/pt-br/regions/index.html
+          grep -q 'atlas-region-grid' dist/regions/index.html
+          test -f dist/assets/css/geography-atlas.css
+          test -f dist/assets/js/geography-atlas.js
+          grep -q 'country-dossier-feature' dist/countries/brazil/index.html
+          grep -q 'country-outline' dist/countries/brazil/index.html
+          grep -q 'country-dossier-feature' dist/pt-br/countries/brazil/index.html
           test -f dist/research/coverage/index.html
           test -f dist/pt-br/research/coverage/index.html
           test -f dist/research/hubs/index.html

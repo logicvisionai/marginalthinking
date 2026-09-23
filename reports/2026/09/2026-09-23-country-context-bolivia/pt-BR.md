@@ -144,6 +144,33 @@ Crescimento real | -3.3
 Inflação | 20.7
 ```
 
+
+## A geografia produz uma divisão econômica leste-oeste que molda a barganha nacional
+
+A geografia física da Bolívia divide a atividade econômica de forma mais intensa do que médias nacionais sugerem. Altiplano e vales concentram centros históricos de mineração, cidades administrativas e grandes populações indígenas, enquanto as terras baixas orientais ganharam importância com hidrocarbonetos, agricultura comercial e o crescimento de Santa Cruz. Custos de transporte, altitude, clima e distância dos portos influenciam quais atividades são competitivas em cada região.
+
+Essa geografia afeta a política porque estruturas produtivas geram preferências fiscais e regulatórias distintas. Departamentos produtores de hidrocarbonetos e agronegócio frequentemente atribuem maior peso a receitas departamentais, infraestrutura e acesso a exportações; regiões do altiplano têm relações diferentes com emprego público, mineração, transferências sociais e sistemas comunitários de terra. Essas diferenças não devem ser reduzidas a blocos culturais fixos, mas ajudam a explicar por que debates sobre autonomia, royalties e investimento público reaparecem.
+
+A condição mediterrânea acrescenta uma restrição nacional comum. A Bolívia depende de corredores e portos de países vizinhos para grande parte do comércio externo. Ferrovias, rodovias, gasodutos e rotas fluviais possuem, portanto, valor estratégico superior ao de infraestrutura comum. Custo e confiabilidade da passagem de fronteiras afetam simultaneamente mineração, agricultura e manufatura.
+
+| Sistema espacial | Base econômica principal | Dependência externa | Implicação de política |
+| --- | --- | --- | --- |
+| altiplano ocidental | mineração, administração, serviços | corredores andinos/Pacífico | logística e produtividade mineral |
+| vales centrais | agricultura, cidades, serviços | integração rodoviária interna | produtividade urbana e sistema alimentar |
+| terras baixas orientais | gás, agronegócio, indústria | Brasil/Argentina e rotas fluviais | infraestrutura exportadora e governança fundiária |
+| sistema nacional | comércio de país sem litoral | portos e alfândegas vizinhas | redundância de corredores e diplomacia |
+
+## O regime cambial conecta exportação de gás, subsídios aos combustíveis e expectativas das famílias
+
+Durante anos a Bolívia manteve taxa nominal de câmbio estável enquanto exportações de hidrocarbonetos forneciam moeda estrangeira e receita fiscal. O arranjo ajudou a ancorar preços e reduziu a volatilidade cambial observada, mas ficou mais difícil de sustentar à medida que produção e receita de gás enfraqueceram.
+
+O mecanismo vai além do câmbio. Combustíveis importados, máquinas, medicamentos e bens de consumo exigem moeda estrangeira. Subsídios a combustíveis ampliam a demanda por energia importada quando produção ou refino domésticos são insuficientes, enquanto um câmbio fixo ou fortemente administrado pode elevar a procura por dólares se famílias acreditarem que as reservas estão diminuindo. Pressão fiscal, contas externas e confiança tornam-se, assim, fortemente conectadas.
+
+Famílias e empresas respondem antes de qualquer mudança formal do regime. Podem adiar investimento, acumular bens importados, buscar moeda estrangeira ou encurtar horizontes contratuais. Esses comportamentos não constituem prova de pânico; são tentativas racionais de administrar incerteza quando o preço relativo futuro da moeda estrangeira se torna difícil de estimar.
+
+Um ajuste durável, portanto, exige mais do que uma alteração pontual da taxa de câmbio. Capacidade exportadora, contas fiscais, preços de energia, transparência das reservas e compensação social precisam avançar em conjunto. Caso contrário, o custo pode recair de forma desproporcional sobre as famílias por inflação e escassez enquanto o desequilíbrio externo permanece.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

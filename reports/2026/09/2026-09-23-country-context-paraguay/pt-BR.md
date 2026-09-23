@@ -143,6 +143,31 @@ Desemprego T1 | 5.3
 Pobreza 2025 | 16
 ```
 
+
+## Terra, comércio de fronteira e informalidade criam um sistema produtivo de duas velocidades
+
+O crescimento agregado do Paraguai pode esconder grandes diferenças entre setores exportadores altamente produtivos e a economia em que grande parte da população trabalha. Soja mecanizada, pecuária comercial e geração hidrelétrica operam com intensidade de capital, contratos formais e acesso a mercados internacionais. Muitos serviços urbanos, pequenas propriedades e microempresas operam com produtividade menor, histórico de crédito limitado e cobertura previdenciária mais fraca. O problema nacional de produtividade é, portanto, também um problema de difusão: como conectar os nós exportadores e de infraestrutura mais bem-sucedidos às empresas e trabalhadores fora deles.
+
+A distribuição da terra é central nesse mecanismo. Agricultura comercial em grande escala pode gerar muito câmbio com demanda relativamente pequena de trabalho, enquanto produtores menores enfrentam restrições de financiamento, tecnologia e acesso a mercados. O resultado não é apenas desigualdade rural; ele influencia migração para Assunção e cidades de fronteira, demanda por serviços urbanos e a economia política de cadastros, tributação e infraestrutura.
+
+O comércio de fronteira adiciona flexibilidade, mas complica a formalização. Diferenças de impostos, preços e regulação entre Brasil e Argentina criam arbitragem rentável e atividade logística. Alfândegas mais eficientes, pagamentos digitais e cadeias rastreáveis podem converter parte dessa atividade em base tributária mais ampla sem eliminar a vantagem locacional que tornou a economia de fronteira relevante.
+
+| Segmento | Principal força | Principal limitação | Questão de desenvolvimento |
+| --- | --- | --- | --- |
+| agricultura comercial | produtividade exportadora global | concentração fundiária e climática | redes de fornecedores podem se ampliar? |
+| hidreletricidade | eletricidade renovável abundante | absorção doméstica limitada | energia pode ancorar clusters produtivos? |
+| comércio de fronteira | localização e acesso a mercados | informalidade e arbitragem regulatória | formalização pode preservar competitividade? |
+| pequenas empresas/serviços | geração de emprego | baixa escala e pouco crédito | empresas conseguem cruzar o limiar de produtividade? |
+
+## A política hidrelétrica é simultaneamente uma barganha industrial, fiscal e diplomática
+
+Itaipu e Yacyretá não são ativos elétricos comuns. Seu valor se divide entre consumidores domésticos, receita de exportação, acordos binacionais, finanças públicas e potenciais usuários industriais. Alterar preço ou destino da eletricidade, portanto, redistribui renda entre setores e também entre países.
+
+Usar mais energia internamente pode apoiar manufatura, armazenamento refrigerado, infraestrutura de dados e processamento, mas eletricidade barata por si só não garante transformação produtiva. Investidores também precisam de transmissão, mão de obra qualificada, logística, previsibilidade jurídica e acesso a mercados. Se a energia for vendida abaixo de seu valor de oportunidade para atividades com poucos efeitos de produtividade, o país pode trocar uma renda de exportação visível por um subsídio menos transparente.
+
+A questão mais profunda é como transformar uma vantagem de infraestrutura em capacidades que permaneçam mesmo se o custo relativo da eletricidade mudar. Isso exige avaliar projetos por qualidade do emprego, transferência tecnológica, potencial exportador, formação de fornecedores e contribuição tributária, não apenas pelo volume de megawatts consumidos. A dotação energética excepcional do Paraguai cria espaço para experimentar, mas o retorno econômico depende das instituições que governam essa alocação.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

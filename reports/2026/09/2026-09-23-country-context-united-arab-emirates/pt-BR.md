@@ -141,6 +141,31 @@ Crescimento real | 3.1
 Inflação | 2.5
 ```
 
+
+## A federação distribui funções econômicas entre os emirados em vez de operar como um modelo de uma única cidade
+
+Os EAU são frequentemente descritos a partir de Dubai, mas sua economia política é federal e internamente diferenciada. Abu Dhabi concentra a maior dotação de hidrocarbonetos e uma base enorme de ativos soberanos; Dubai construiu um modelo centrado em comércio, aviação, turismo, imóveis e finanças; outros emirados combinam manufatura, portos, logística, turismo e bases fiscais mais limitadas. Essa divisão aumenta a resiliência porque a federação contém vários modelos de crescimento, mas também faz com que médias nacionais escondam balanços e capacidades de política muito diferentes.
+
+A coordenação federal ocorre em parte por instituições comuns e em parte por estratégias complementares no nível de cada emirado. Aeroportos, portos, zonas francas, clusters industriais e investidores soberanos podem disputar projetos enquanto fortalecem uma plataforma externa compartilhada. O sistema resultante se aproxima de um portfólio de economias urbanas especializadas conectado por estabilidade política federal, moeda comum e infraestrutura.
+
+Isso importa para a diversificação. Um novo setor pode ser viável para o país mesmo quando se concentra geograficamente em um emirado. Ao mesmo tempo, duplicação de infraestrutura ou incentivos pode reduzir retornos se várias jurisdições perseguirem projetos idênticos. A medida relevante não é o número de iniciativas de diversificação, mas se elas produzem capacidades duráveis, receita exportadora e produtividade privada.
+
+| Nó federal | Papel econômico central | Ativo estratégico | Principal problema de coordenação |
+| --- | --- | --- | --- |
+| Abu Dhabi | energia, capital soberano, indústria | hidrocarbonetos e grandes fundos | alocar capital além do petróleo |
+| Dubai | comércio, aviação, finanças, turismo | conectividade global e serviços | ciclos imobiliários e de crédito |
+| emirados do norte | manufatura, portos, turismo | localizações industriais e logísticas de menor custo | infraestrutura e escala fiscal |
+| federação | plataforma externa comum | estabilidade política, moeda e infraestrutura integrada | evitar duplicação e distribuir ganhos |
+
+## A migração não é apenas característica do mercado de trabalho; ela molda moradia, consumo e ciclo econômico
+
+Trabalhadores estrangeiros formam a grande maioria da força de trabalho privada e parcela substancial da população residente. Isso dá aos EAU flexibilidade incomum de oferta de trabalho: o emprego pode crescer rapidamente quando construção, hotelaria, logística ou serviços profissionais se expandem, e a migração de saída pode absorver parte de uma desaceleração. O mesmo mecanismo torna população, demanda por moradia e consumo mais cíclicos do que números de cidadania sugerem.
+
+O mercado de trabalho é fortemente segmentado. Cidadãos emiratis têm acesso a emprego público, benefícios e propriedade de ativos sob um contrato social muito diferente daquele dos expatriados. Entre estrangeiros, remuneração e poder de barganha variam amplamente entre ocupações profissionais, técnicas e de menor salário. Essas diferenças influenciam poupança, remessas, formação de famílias e duração da residência.
+
+Moradia e imóveis comerciais, portanto, possuem papel macroeconômico que vai além da construção. Entrada de população pode elevar rapidamente aluguéis, preços de terrenos e demanda por serviços; contratação mais fraca pode inverter essa pressão. Para empresas, recrutamento flexível é vantagem competitiva, mas produtividade de longo prazo também depende de reter trabalhadores experientes, formar competências locais e reduzir incentivos para competir principalmente por baixo custo de mão de obra.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

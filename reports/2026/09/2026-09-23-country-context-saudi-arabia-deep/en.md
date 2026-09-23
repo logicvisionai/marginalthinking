@@ -143,6 +143,31 @@ unit: %
 2027 IMF | 2.1
 ```
 
+
+## The fiscal state is shifting from oil distribution toward taxation, fees and portfolio returns
+
+For much of the modern Saudi state, oil revenue allowed government to finance public employment, infrastructure, subsidies and services without relying on broad domestic taxation. Diversification changes that fiscal architecture. Value-added tax, fees, non-oil revenue, sovereign-investment returns and profits from state-linked companies make the relationship between citizens, firms and the budget more direct than under a pure rent-distribution model.
+
+This shift matters because it changes incentives. When households pay more explicit taxes and administered prices, the quality and efficiency of public services become more visible. When firms face fees and localization requirements, they compare those costs with infrastructure quality, market access and regulatory predictability. Fiscal diversification therefore is not only about stabilizing revenue; it gradually changes the social contract surrounding public spending.
+
+Public Investment Fund activity adds a second channel. Sovereign capital can accelerate sectors that private investors initially consider too uncertain or too large, but the state also bears execution risk. The economic test is whether projects eventually create cash flows, supplier networks and capabilities that reduce dependence on continued public financing.
+
+| Fiscal channel | Earlier model | Diversifying model | Main risk |
+| --- | --- | --- | --- |
+| hydrocarbon revenue | dominant budget source | still central but less exclusive | oil-price volatility |
+| taxation/fees | limited direct burden | larger non-oil contribution | household/firm cost pressure |
+| sovereign investment | reserve/asset accumulation | active domestic and global portfolio | project-return discipline |
+| public employment | major distribution mechanism | greater private-employment emphasis | wage expectations and skills mismatch |
+
+## Labour-market transformation connects demographics, gender, skills and private-sector productivity
+
+Saudi Arabia has a young citizen population relative to many advanced economies, so labour-market policy must create large numbers of productive jobs rather than simply manage a shrinking workforce. The historical preference for secure public employment and the availability of lower-cost expatriate labour created a gap between citizen expectations and many private-sector job structures.
+
+Saudization policies seek to change that equilibrium by raising citizen participation in selected occupations and industries. Increased female employment materially expands the potential skilled workforce and changes household income patterns, commuting, childcare demand and consumption. These changes are social as well as economic because they alter how families allocate time and how firms design workplaces.
+
+The difficult part is productivity. Localization can increase employment numerically without increasing output if firms simply substitute workers while keeping processes unchanged. The stronger outcome occurs when education, vocational training, management quality and technology adoption allow citizen workers to fill increasingly complex roles. For that reason, employment rates should be read together with wages, retention, private-sector career progression and productivity.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

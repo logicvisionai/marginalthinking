@@ -144,6 +144,33 @@ Real GDP growth | -3.3
 Consumer inflation | 20.7
 ```
 
+
+## Geography produces an eastern-western economic divide that shapes national bargaining
+
+Bolivia's physical geography divides economic activity more sharply than national averages suggest. The highland and valley regions contain historic mining centres, administrative cities and large Indigenous populations, while the eastern lowlands became increasingly important through hydrocarbons, commercial agriculture and the growth of Santa Cruz. Transport costs, altitude, climate and distance to ports influence which activities are competitive in each region.
+
+This geography affects politics because productive structures generate different fiscal and regulatory preferences. Hydrocarbon- and agribusiness-producing departments have often placed greater weight on departmental revenue, infrastructure and export access; highland constituencies have different relationships to public employment, mining, social transfers and communal land systems. These differences should not be reduced to fixed cultural blocs, but they help explain why debates over autonomy, royalties and public investment recur.
+
+Landlocked status adds a national constraint across regions. Bolivia depends on neighbouring transport corridors and ports for much of its external trade. Railway, road, pipeline and river links therefore have strategic value beyond ordinary infrastructure economics. The cost and reliability of crossing borders affect mining, agriculture and manufacturing simultaneously.
+
+| Spatial system | Main economic base | External dependence | Policy implication |
+| --- | --- | --- | --- |
+| western highlands | mining, administration, services | Pacific/Andean corridors | logistics and mining productivity |
+| central valleys | agriculture, cities, services | domestic road integration | urban productivity and food systems |
+| eastern lowlands | gas, agribusiness, industry | Brazil/Argentina and river routes | export infrastructure and land governance |
+| national system | landlocked trade | neighbouring ports and customs | corridor redundancy and diplomacy |
+
+## The foreign-exchange regime links gas exports, fuel subsidies and household expectations
+
+For years Bolivia maintained a stable nominal exchange rate while hydrocarbon exports supplied foreign currency and fiscal revenue. That arrangement supported low measured currency volatility and helped anchor prices, but it became harder to sustain as gas production and export receipts weakened.
+
+The mechanism extends beyond the exchange rate. Imported fuel, machinery, medicines and consumer goods require foreign currency. Fuel subsidies increase demand for imported energy when domestic refining or production is insufficient, while a fixed or heavily managed exchange rate can encourage demand for dollars if households believe reserves are falling. Fiscal pressure, external balances and confidence therefore become tightly connected.
+
+Households and firms respond before a formal regime change occurs. They can delay investment, accumulate imported goods, seek foreign currency or shorten contract horizons. Those behaviours are not proof of panic; they are rational attempts to manage uncertainty when the future relative price of foreign currency becomes difficult to infer.
+
+A durable adjustment therefore requires more than a one-time change in the exchange rate. Export capacity, fiscal accounts, energy pricing, reserve transparency and social compensation need to move together. Otherwise the burden can fall disproportionately on households through inflation and shortages while the underlying external imbalance persists.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

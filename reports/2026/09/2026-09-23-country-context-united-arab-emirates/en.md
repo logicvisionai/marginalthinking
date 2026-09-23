@@ -141,6 +141,31 @@ Real GDP growth | 3.1
 Consumer inflation | 2.5
 ```
 
+
+## The federation distributes economic functions across emirates rather than operating as a single-city model
+
+The UAE is often described through Dubai, but its political economy is federal and internally differentiated. Abu Dhabi holds the largest hydrocarbon endowment and a very large sovereign-asset base; Dubai built a model centred on trade, aviation, tourism, property and finance; other emirates combine manufacturing, ports, logistics, tourism and more locally constrained fiscal bases. This division creates resilience because the federation contains several growth models, but it also means that national averages can hide very different balance sheets and policy capacities.
+
+Federal coordination works partly through shared institutions and partly through complementary emirate-level strategies. Airports, ports, free zones, industrial clusters and sovereign investors can compete for projects while still strengthening a common external platform. The resulting system resembles a portfolio of specialized urban economies connected by federal political stability, common currency and infrastructure.
+
+This matters for diversification. A new sector can be viable nationally even if it is geographically concentrated in one emirate. At the same time, duplication of infrastructure or incentives can lower returns if several jurisdictions pursue identical projects. The relevant measure is not the number of diversification initiatives but whether they produce durable capabilities, export revenue and private-sector productivity.
+
+| Federal node | Core economic role | Strategic asset | Main coordination issue |
+| --- | --- | --- | --- |
+| Abu Dhabi | energy, sovereign capital, industry | hydrocarbons and large investment funds | allocating capital beyond oil |
+| Dubai | trade, aviation, finance, tourism | global connectivity and services | property/credit cyclicality |
+| Northern emirates | manufacturing, ports, tourism | lower-cost industrial and logistics locations | infrastructure and fiscal scale |
+| federation | common external platform | political stability, currency and integrated infrastructure | avoiding duplication while sharing gains |
+
+## Migration is not only a labour-market feature; it shapes housing, consumption and the business cycle
+
+Foreign workers constitute the large majority of the private labour force and a substantial share of residents. This gives the UAE unusual labour-supply flexibility: employment can expand quickly when construction, hospitality, logistics or professional services grow, and outward migration can absorb part of a downturn. The same mechanism makes population, housing demand and consumption more cyclical than citizenship figures alone would suggest.
+
+The labour system is highly segmented. Emirati citizens have access to public employment, benefits and asset ownership under a social contract very different from that of expatriate workers. Among expatriates, compensation and bargaining power vary widely between professional, technical and lower-wage occupations. These differences influence savings, remittances, household formation and length of residence.
+
+Housing and commercial real estate therefore play a macroeconomic role beyond construction. Population inflows can raise rents, land values and service demand rapidly; weaker hiring can reverse that pressure. For firms, flexible recruitment is a competitiveness advantage, but long-run productivity also depends on retaining experienced workers, developing local skills and reducing incentives to compete primarily through low labour costs.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

@@ -146,6 +146,33 @@ unit: meses de importações
 2026/27 | 2.7
 ```
 
+
+## Estrutura federal, risco de conflito e mobilidade interna determinam se o mercado nacional funciona como uma única economia
+
+O sistema federal etíope é organizado em regiões com línguas, histórias políticas e estruturas produtivas distintas. O arranjo buscou reconhecer diversidade dentro de um Estado muito grande, mas também significa que disputas territoriais, de representação e segurança podem afetar movimento de trabalho, mercadorias e capital. Quando corredores de transporte se tornam inseguros ou barreiras administrativas aumentam, o custo econômico aparece em fretes, perda de safras, deslocamento de trabalhadores e investimento menor.
+
+Mobilidade interna, portanto, é variável produtiva. Cidades em crescimento precisam de migração rural, enquanto manufatura e serviços dependem de trabalhadores se moverem até os empregos. Deslocamento causado por conflito é diferente de urbanização voluntária porque destrói ativos, interrompe educação e pode separar famílias de terra ou mercados. A recuperação depende de segurança e instituições que tornem retorno, reassentamento e troca comercial confiáveis.
+
+O mesmo mecanismo vale para infraestrutura federal. Rodovias, eletricidade e telecomunicações integram regiões economicamente apenas se empresas e famílias conseguem utilizá-las através das fronteiras políticas internas. Investimento físico sem acesso institucional produz retorno menor do que um mercado nacional efetivamente conectado.
+
+| Canal de integração | Benefício produtivo | Risco relacionado a conflito | Indicador a acompanhar |
+| --- | --- | --- | --- |
+| corredores rodoviários | mercados domésticos maiores | insegurança e interrupções | tempo e custo de transporte |
+| mobilidade laboral | conecta trabalhadores a empregos urbanos | deslocamento e barreiras | migração interna e emprego |
+| rede elétrica | industrialização e serviços | confiabilidade e cobrança regional | interrupções e conexões industriais |
+| transferências federais | financiam serviços locais | disputas políticas/fiscais | provisão de serviços subnacionais |
+
+## Reforma cambial e finanças das empresas estatais são centrais para o próximo modelo de desenvolvimento
+
+A estratégia etíope anterior usou investimento público, empresas estatais e crédito direcionado para construir rapidamente estradas, eletricidade, parques industriais e outras infraestruturas. O modelo ampliou capacidade física, mas também criou necessidades de financiamento externo porque muitos projetos exigiam equipamentos importados enquanto as receitas de exportação continuavam limitadas.
+
+A escassez de moeda estrangeira tornou-se então uma restrição sistêmica. Importadores esperavam por divisas, empresas tinham dificuldade para obter insumos e o regime oficial podia se afastar das condições de mercado. Reforma cambial, portanto, não é assunto monetário estreito; ela altera preço de importações, serviço da dívida, combustível, máquinas e, no fim, a estrutura de custos de praticamente todos os setores modernos.
+
+Os balanços das empresas estatais importam pela mesma razão. Companhias de infraestrutura podem sustentar crescimento quando projetos geram receita suficiente ou produtividade para o conjunto da economia, mas dívidas permanecem obrigações do setor público quando retornos são baixos. Uma fase seguinte mais forte exige melhor seleção de projetos, balanços transparentes, expansão das exportações e investimento privado que use a infraestrutura já construída.
+
+O corredor de Djibuti é particularmente importante porque a Etiópia não tem litoral. Acesso ao porto, confiabilidade ferroviária, alfândega e moeda estrangeira interagem: um importador precisa de divisas para comprar bens, de corredor funcional para movê-los e de demanda doméstica suficiente para recuperar o custo. Melhorar apenas uma dessas camadas produz ganhos parciais.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

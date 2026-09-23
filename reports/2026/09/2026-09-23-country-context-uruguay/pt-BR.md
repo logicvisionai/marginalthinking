@@ -143,6 +143,31 @@ Crescimento real | 1.8
 Inflação | 4
 ```
 
+
+## Estado fiscal e envelhecimento estão ligados por participação no trabalho, previdência e produtividade
+
+A arquitetura de bem-estar do Uruguai é economicamente importante porque altera a transmissão do envelhecimento demográfico. Um país com ampla cobertura previdenciária, provisão pública de saúde e instituições formais de trabalho não sente o envelhecimento apenas como mudança no número de trabalhadores. Ele aparece diretamente no orçamento: uma população aposentada maior eleva gastos associados à idade, enquanto uma força de trabalho que cresce pouco limita a base tributária que financia esses compromissos. A pressão pode surgir por impostos, contribuições, idade de aposentadoria, dívida pública ou menor espaço para outros investimentos.
+
+Isso cria uma ligação direta entre educação, participação no mercado de trabalho e sustentabilidade fiscal. Maior emprego de mulheres, trabalhadores mais velhos e migrantes qualificados amplia a base contributiva; melhores resultados educacionais e maior produtividade permitem que salários e arrecadação cresçam sem depender da expansão populacional. No sentido oposto, produtividade estagnada torna cada escolha distributiva mais difícil porque os compromissos sociais passam a consumir parcela maior de uma economia de crescimento lento.
+
+A dimensão social também importa. A longa história de proteção social abrangente eleva expectativas de continuidade e equidade institucional. Reformas, portanto, são avaliadas não apenas pela economia fiscal agregada, mas por como os custos se distribuem entre gerações. Por isso desenho previdenciário, eficiência do setor público e qualidade educacional permanecem questões centrais de economia política mesmo quando os indicadores macroeconômicos parecem estáveis.
+
+| Canal de transmissão | Efeito econômico | Efeito social | Variável a acompanhar |
+| --- | --- | --- | --- |
+| envelhecimento | maior gasto previdenciário e de saúde | debate distributivo entre gerações | razão de dependência e idade de aposentadoria |
+| participação laboral | base tributária e contributiva maior | mudança no equilíbrio trabalho-cuidado | participação por idade e sexo |
+| educação/produtividade | salários maiores sem depender de mais população | afeta expectativas de mobilidade | aprendizagem e produtividade do trabalho |
+| migração | amplia grupos específicos de trabalhadores | altera demanda por moradia e serviços | migração líquida e composição ocupacional |
+
+## A estratégia de um país pequeno exige escala externa sem perder resiliência
+
+O Uruguai não consegue criar um grande mercado interno apenas pela demanda doméstica. Sua estratégia de longo prazo depende de conectar uma economia pequena e relativamente previsível a mercados maiores por comércio, logística, investimento estrangeiro e serviços exportáveis. Agricultura e celulose usam recursos naturais e capital; software, serviços profissionais e finanças usam capital humano; atividade portuária usa geografia. Esses setores resolvem o mesmo problema estrutural por caminhos diferentes: vendem além do mercado nacional.
+
+Os benefícios da abertura são maiores quando o investimento estrangeiro cria capacidades domésticas em vez de enclaves isolados. Desenvolvimento de fornecedores, formação técnica, capacidade gerencial local e conexões entre universidades e empresas determinam se um grande projeto modifica a produtividade do conjunto da economia. O desafio de política é preservar previsibilidade regulatória sem permitir que o tamanho reduzido do mercado enfraqueça a concorrência.
+
+A integração regional acrescenta outra camada. O Mercosul oferece escala próxima, mas também expõe o Uruguai a regras externas comuns e aos ciclos de Brasil e Argentina. Diversificar parceiros comerciais pode reduzir concentração regional, enquanto vínculos físicos profundos com os vizinhos continuarão inevitáveis. A resiliência uruguaia, portanto, depende de combinar integração regional e acesso global, não de escolher um contra o outro.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

@@ -142,6 +142,33 @@ Crescimento | 4
 Inflação | 387.4
 ```
 
+
+## A dolarização estabilizou transações de forma desigual e criou uma economia monetária dual
+
+A expansão da precificação em dólares depois da hiperinflação reduziu parte dos custos de transação porque empresas e famílias puderam usar uma unidade que se alterava menos rapidamente que o bolívar. Foi uma adaptação prática, não uma união monetária formal. Impostos, salários públicos, preços regulados e muitas obrigações legais continuam interagindo com a moeda doméstica, enquanto o acesso a dólares é muito desigual.
+
+Essa desigualdade importa para a estrutura social. Famílias que recebem remessas, renda de exportação ou pagamentos privados em moeda estrangeira conseguem proteger melhor o poder de compra do que trabalhadores dependentes de renda pública denominada em bolívares. Empresas com acesso a insumos importados e receita em moeda forte enfrentam condições financeiras diferentes das firmas presas ao fluxo de caixa em moeda local. A dolarização pode melhorar o funcionamento de mercados e, ao mesmo tempo, ampliar diferenças entre famílias e setores.
+
+Ela também modifica a transmissão monetária. O banco central pode influenciar a liquidez em bolívares, mas não controla da mesma forma a oferta de notas estrangeiras ou a entrada externa de dólares. Expectativas cambiais tornam-se sinal central de preços, e tentativas de estabilizar a moeda por intervenção podem consumir reservas escassas se a política fiscal permanecer inconsistente.
+
+| Canal monetário | Efeito estabilizador | Custo distributivo | Indicador a acompanhar |
+| --- | --- | --- | --- |
+| preços em dólares | referência de curto prazo mais clara | exclui famílias sem renda em moeda forte | participação das transações em moeda estrangeira |
+| remessas | liquidez e consumo das famílias | desigualdade geográfica e entre domicílios | fluxos de remessas |
+| salários públicos em bolívares | mantém capacidade de pagamento do Estado | rápida erosão de renda real com depreciação | salário público real |
+| intervenção cambial | pode conter depreciação temporariamente | consome reservas líquidas escassas | reservas e diferença entre câmbios |
+
+## Reconstruir a economia do petróleo exige reconstruir contratos, infraestrutura e capital humano em conjunto
+
+A recuperação do petróleo costuma ser descrita como se a produção respondesse diretamente ao investimento. Na Venezuela, a sequência é mais exigente. Campos de óleo pesado dependem de eletricidade, água, diluentes, oleodutos, unidades de upgrading, portos, empresas de serviço e engenheiros especializados. Anos de manutenção insuficiente podem transformar cada componente em fonte separada de atraso mesmo depois que o financiamento aparece.
+
+Credibilidade contratual é igualmente importante porque projetos petrolíferos recuperam capital em horizontes longos. Investidores precificam não apenas a geologia, mas tributação, regras de propriedade, exposição a sanções, mecanismos de pagamento e capacidade de fazer valer acordos. Se essas condições permanecerem incertas, reservas gigantes podem coexistir com produção baixa porque o retorno ajustado ao risco continua pouco atraente.
+
+Capital humano é a terceira camada. A emigração atingiu engenheiros, técnicos, médicos, acadêmicos e empreendedores, além de trabalhadores de menor qualificação. A recuperação, portanto, exige incentivos para retorno, formação de novas gerações e instituições que permitam usar competências de forma produtiva. A diáspora pode se tornar fonte de conhecimento e capital, mas apenas se projetos domésticos forem suficientemente confiáveis para atraí-la.
+
+A implicação mais ampla é que o petróleo não pode ser separado da economia não petrolífera. Eletricidade confiável, portos funcionais, serviços financeiros, instituições jurídicas e estabilidade das famílias são insumos da própria produção energética. Restaurar receita petrolífera sem reconstruir esses sistemas complementares arriscaria reproduzir a dependência anterior de uma base fiscal estreita.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

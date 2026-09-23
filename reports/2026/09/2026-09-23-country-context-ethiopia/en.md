@@ -146,6 +146,33 @@ unit: months of imports
 2026/27 | 2.7
 ```
 
+
+## Federal structure, conflict risk and internal mobility determine whether the national market functions as one economy
+
+Ethiopia's federal system is built around regions with distinct languages, political histories and productive structures. That arrangement was intended to recognize diversity inside a very large state, but it also means that disputes over territory, representation and security can affect movement of labour, goods and capital. When transport corridors become unsafe or administrative barriers rise, the economic cost appears through freight prices, missed planting seasons, displaced workers and weaker investment.
+
+Internal mobility is therefore a productive variable. Fast-growing cities require migration from rural areas, while manufacturing and services need workers to move toward jobs. Conflict-induced displacement is different from voluntary urbanization because it destroys assets, interrupts education and can separate households from land or markets. Recovery depends on security and institutions that make return, resettlement and commercial exchange credible.
+
+The same mechanism applies to federal infrastructure. Roads, electricity and telecommunications can integrate regions economically only if firms and households are able to use them across political boundaries. Physical investment without institutional access produces lower returns than a genuinely connected national market.
+
+| Integration channel | Productive benefit | Conflict-related risk | Indicator to monitor |
+| --- | --- | --- | --- |
+| road corridors | larger domestic markets | insecurity and closures | freight time and transport cost |
+| labour mobility | matches workers to urban jobs | displacement and barriers | internal migration and employment |
+| power grid | industrialization and services | regional reliability/collection problems | outages and industrial connections |
+| federal transfers | funds local services | political/fiscal disputes | subnational service delivery |
+
+## Foreign-exchange reform and state-enterprise finance are central to the next development model
+
+Ethiopia's previous development strategy used public investment, state-owned enterprises and directed credit to build roads, electricity, industrial parks and other infrastructure rapidly. The model expanded physical capacity but also generated external financing needs because many projects required imported equipment while export earnings remained limited.
+
+Foreign-exchange scarcity then became a system-wide constraint. Importers waited for currency, firms struggled to obtain inputs and the official exchange regime could diverge from market conditions. Reform of the exchange system is therefore not a narrow monetary issue; it changes the price of imports, debt service, fuel, machinery and ultimately the cost structure of almost every modern sector.
+
+State-enterprise balance sheets matter for the same reason. Infrastructure companies can support growth when projects generate sufficient revenue or economy-wide productivity, but debts remain public-sector obligations when returns are weak. A stronger next phase requires better project selection, transparent balance sheets, export growth and private investment that uses the infrastructure already built.
+
+The Djibouti corridor is especially important because Ethiopia is landlocked. Port access, rail reliability, customs and foreign exchange interact: an importer needs currency to buy goods, a functioning corridor to move them and sufficient domestic demand to recover the cost. Improving any one layer without the others yields only partial gains.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

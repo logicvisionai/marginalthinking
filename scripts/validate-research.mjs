@@ -104,6 +104,11 @@ function scanMarkdown(file,item={}){
   const h1=(text.match(/^#\s+/gm)||[]).length,h2=(text.match(/^##\s+/gm)||[]).length;
   if(h1<1)fail.push(`${file}: deve conter ao menos um H1`);if(h1>1)warn.push(`${file}: ${h1} H1 encontrados; os adicionais serão normalizados para H2`);if(h2<2)warn.push(`${file}: menos de dois H2`);
   const prose=stripFences(text),bold=(prose.match(/(^|[^\\])\*\*/g)||[]).length,strong=(prose.match(/(^|[^\\])__/g)||[]).length;
+  if(item.format==='country-dossier'&&String(item.date||'')>='2026-09-23'){
+    const substantiveWords=prose.replace(/https?:\/\/[^\s)\]]+/g,' ').replace(/[#*_>|-]/g,' ').split(/\s+/).filter(Boolean).length;
+    if(substantiveWords<1600)fail.push(`${file}: country-dossier abaixo do piso de profundidade (1600 palavras; encontradas ${substantiveWords})`);
+    if(h2<12)fail.push(`${file}: country-dossier exige ao menos 12 seções H2; encontradas ${h2}`);
+  }
   if(bold%2)warn.push(`${file}: marcador ** órfão; renderer removerá o marcador residual`);if(strong%2)warn.push(`${file}: marcador __ órfão; renderer removerá o marcador residual`);
   if(/^\s*\d+[.)]\s+\d+[.)]\s+/m.test(prose))warn.push(`${file}: marcador numérico duplicado; pós-processamento normalizará sem bloquear o build`);
   if(/^\s*[-+*•]\s+[-+*•]\s+/m.test(prose))warn.push(`${file}: marcador de lista duplicado; pós-processamento normalizará sem bloquear o build`);

@@ -110,3 +110,16 @@ html[data-theme="dark"]{--visual-surface:#101c23;--visual-soft:#16262f;--visual-
 }
 @media(max-width:560px){.visual-figure{padding:16px;margin:22px 0;border-radius:9px}.visual-figure>figcaption{font-size:15px}.visual-dialog{width:calc(100vw - 12px);height:96dvh;max-height:96dvh;border-radius:9px}.visual-dialog .visual-figure{padding:16px}.visual-dialog-bar{padding:10px 16px}.visual-actions button{min-height:44px}}
 @media print{.visual-actions,.visual-dialog-bar,.visual-scroll-note{display:none!important}.visual-figure{break-inside:avoid;box-shadow:none;border-color:#aaa}.visual-figure .md-table-wrap,.line-chart-scroll{overflow:visible}.visual-figure .md-table{min-width:0;font-size:10px}.line-chart-scroll svg{min-width:0!important}.visual-figure .map-viewport{overflow:visible;height:auto}.map-viewport .atlas-map{min-width:0}.visual-dialog{position:static;width:100%;height:auto;max-height:none;overflow:visible}}
+
+
+/* Country-dossier table guardrails: compact evidence tables stay readable; genuinely wide matrices scroll deliberately. */
+.visual-figure.research-table .md-table{width:100%;min-width:100%;table-layout:auto}
+.visual-figure.research-table .md-table.columns-5,.visual-figure.research-table .md-table.columns-6{min-width:760px}
+.visual-figure.research-table .md-table.columns-7,.visual-figure.research-table .md-table.columns-8{min-width:900px}
+.visual-figure.research-table .md-table:is(.columns-2,.columns-3,.columns-4) th:first-child{width:24%}
+.visual-figure.research-table .md-table :is(th,td){hyphens:auto;overflow-wrap:break-word;word-break:normal}
+@media(max-width:560px){
+  .visual-figure.research-table{padding:13px}
+  .visual-figure.research-table .md-table:is(.columns-2,.columns-3,.columns-4){min-width:620px}
+  .visual-figure.research-table .md-table :is(th,td){padding:11px 12px;font-size:13px}
+}

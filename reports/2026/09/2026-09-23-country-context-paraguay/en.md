@@ -143,6 +143,31 @@ Unemployment Q1 | 5.3
 Poverty 2025 | 16
 ```
 
+
+## Land, border commerce and informality create a two-speed productive system
+
+Paraguay's aggregate growth can conceal large differences between highly productive export sectors and the economy in which much of the population works. Mechanized soy, commercial livestock and hydroelectric generation operate with capital intensity, formal contracts and access to international markets. Many urban services, small farms and microenterprises operate with lower productivity, limited credit histories and weaker social-insurance coverage. The national productivity problem is therefore partly one of diffusion: how to connect successful export and infrastructure nodes to firms and workers outside them.
+
+Land distribution is central to this mechanism. Large-scale commercial agriculture can generate substantial foreign exchange with limited labour demand, while smaller producers face financing, technology and market-access constraints. The result is not simply rural inequality; it affects migration toward Asunción and border cities, demand for urban services and the political economy of cadastral systems, taxation and infrastructure.
+
+Border commerce adds flexibility but also complicates formalization. Differences in taxes, prices and regulation across Brazil and Argentina create profitable arbitrage and logistics activity. Formal customs systems, digital payments and traceable supply chains can convert part of that activity into a broader tax base without eliminating the locational advantage that made the border economy important.
+
+| Segment | Main strength | Main limitation | Development question |
+| --- | --- | --- | --- |
+| commercial agriculture | global export productivity | land and climate concentration | can supplier networks broaden? |
+| hydropower | abundant renewable electricity | limited domestic absorption | can power anchor productive clusters? |
+| border commerce | location and market access | informality and regulatory arbitrage | can formalization preserve competitiveness? |
+| small firms/services | employment creation | low scale and credit access | can firms cross the productivity threshold? |
+
+## Hydropower policy is simultaneously an industrial, fiscal and diplomatic bargain
+
+Itaipu and Yacyretá are not ordinary electricity assets. Their value is divided among domestic consumers, export revenue, binational treaty arrangements, public finances and potential industrial users. Changing the price or destination of electricity therefore redistributes income among sectors and across borders.
+
+Using more electricity domestically can support manufacturing, cold storage, data infrastructure and processing, but low power prices alone do not guarantee productive transformation. Investors also require transmission capacity, skilled labour, logistics, legal predictability and access to markets. If electricity is sold below its opportunity value to activities with little productivity spillover, the country can exchange a visible export rent for an invisible subsidy.
+
+The deeper policy question is how to convert a finite infrastructure advantage into capabilities that persist even if relative electricity costs change. That means evaluating projects by employment quality, technology transfer, export potential, supplier formation and tax contribution, not only megawatts consumed. Paraguay's unusually large power endowment gives it room to experiment, but the economic return depends on the institutions governing that allocation.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

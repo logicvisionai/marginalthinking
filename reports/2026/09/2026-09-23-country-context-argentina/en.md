@@ -144,6 +144,31 @@ End-year inflation program | 25
 Primary surplus (% GDP) | 1.4
 ```
 
+
+## Federal fiscal relations transmit macro instability through provinces, taxes and public services
+
+Argentina's federal structure means the national macroeconomy is filtered through provinces with very different productive bases and fiscal capacities. Buenos Aires and the central agricultural-industrial corridor generate a large share of output and tax revenue, while other provinces depend more heavily on federal transfers, public employment, hydrocarbons, mining or regional agriculture. Revenue-sharing rules therefore influence both national coalition politics and local service provision.
+
+Inflation makes this arrangement harder to manage because tax revenue, wages, transfers and procurement prices adjust at different speeds. A province can experience an apparent nominal revenue increase while its real capacity to pay teachers, health workers or suppliers deteriorates. National fiscal consolidation can also shift pressure toward subnational governments when transfers or public works are reduced.
+
+The productive implication is that macro stabilization and territorial development cannot be separated. Roads, ports, energy infrastructure, education and security are partly delivered through provincial institutions. If adjustment weakens those functions unevenly, national investment conditions can diverge sharply across regions even under a common currency and federal legal framework.
+
+| Federal channel | National effect | Provincial effect | Variable to monitor |
+| --- | --- | --- | --- |
+| revenue sharing | distributes tax capacity | shapes service budgets | real transfers by province |
+| public wages | affects consolidated spending | major local labour-market anchor | real provincial wage bill |
+| public works | macro/fiscal instrument | infrastructure investment | capital spending and project completion |
+| resource royalties | export/fiscal revenue | concentrates gains geographically | provincial own-source revenue |
+
+## Indexation and dollar saving make stabilization a balance-sheet problem, not only a price problem
+
+Decades of repeated inflation and devaluation changed how Argentine households and firms write contracts. Prices, rents, wages and financial instruments can be indexed formally or informally; savers frequently seek dollar exposure; companies manage inventories and working capital with close attention to expected depreciation. These practices are rational adaptations to unstable nominal units.
+
+They also make disinflation complex. If contracts look backward to past inflation, price growth can remain persistent even after fiscal or monetary conditions improve. If households distrust the durability of stabilization, they may continue to prefer dollars rather than longer-term peso assets. Firms can delay investment until they can estimate financing costs and future relative prices with greater confidence.
+
+A durable stabilization therefore requires balance-sheet repair alongside lower monthly inflation. Banks need instruments that intermediate longer-term domestic savings; firms need working capital that does not depend on constant repricing; households need reasons to hold local-currency assets without assuming that past losses will repeat. The speed at which these behaviours change is an important indicator of whether nominal stabilization is becoming institutional rather than temporary.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |
