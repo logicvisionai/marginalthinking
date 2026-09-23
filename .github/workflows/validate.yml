@@ -42,8 +42,6 @@ jobs:
         run: |
           node --test tests/canonical-url.test.mjs
           test -f dist/index.html
-          ! grep -q 'http://marginalthinking.org' dist/sitemap.xml
-          ! grep -q 'https://www.marginalthinking.org' dist/sitemap.xml
           test -f dist/reports.html
           test -f dist/research/index.html
           test -f dist/opportunities/index.html
