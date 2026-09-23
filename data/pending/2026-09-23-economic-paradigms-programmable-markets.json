@@ -12,7 +12,7 @@
     "en": {
       "markdown": "staging/research/2026/09/2026-09-23-economic-paradigms-programmable-markets/en.md",
       "title": "Markets are becoming programmable — economics is adapting, but the adjustment is uneven",
-      "deck": "High-frequency trading, automated market makers, tokenised settlement and prediction markets are turning market architecture into an economic variable, forcing theory and regulation to follow mechanisms that are already operating.",
+      "deck": "Latency, programmable liquidity, tokenised settlement and event contracts are turning market architecture into an economic variable, while the evidence is maturing at different speeds across each mechanism.",
       "tags": [
         "economic paradigms",
         "market design",
@@ -43,22 +43,22 @@
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-23-economic-paradigms-programmable-markets/pt-BR.md",
       "title": "Os mercados estão se tornando programáveis — a economia está se adaptando, mas de forma desigual",
-      "deck": "High-frequency trading, formadores automáticos de mercado, liquidação tokenizada e mercados de previsão estão transformando a arquitetura de mercado em variável econômica e obrigando teoria e regulação a acompanhar mecanismos que já operam.",
+      "deck": "Latência, liquidez programável, liquidação tokenizada e contratos de eventos estão transformando a arquitetura de mercado em variável econômica, enquanto a evidência amadurece em ritmos diferentes em cada mecanismo.",
       "tags": [
         "paradigmas econômicos",
         "desenho de mercados",
-        "high-frequency trading",
+        "negociação de alta frequência",
         "tokenização",
         "mercados de previsão",
         "formadores automáticos de mercado"
       ],
       "keywords": [
-        "teoria econômica tecnologia",
+        "teoria econômica e tecnologia",
         "microestrutura de mercado",
-        "HFT custo de capital",
+        "HFT e custo de capital",
         "formadores automáticos de mercado",
         "finanças tokenizadas",
-        "regulação mercados de previsão",
+        "regulação de mercados de previsão",
         "mercados programáveis"
       ],
       "regime": "A infraestrutura de mercado está deixando de ser apenas suporte passivo e passando a incorporar regras programáveis capazes de alterar liquidez, informação, liquidação e condições de financiamento.",
@@ -69,7 +69,7 @@
         "regulação de desenho de mercados algorítmicos e de eventos",
         "evidência sobre agentes de IA e sistemas automatizados de decisão econômica"
       ],
-      "search_text": "paradigmas econômicos desenho de mercados mercados programáveis high-frequency trading HFT custo de capital AMM formadores automáticos tokenização liquidação mercados de previsão teoria econômica regulação"
+      "search_text": "paradigmas econômicos desenho de mercados mercados programáveis negociação de alta frequência HFT custo de capital formadores automáticos tokenização liquidação mercados de previsão teoria econômica regulação"
     }
   },
   "taxonomy_version": "1.0",
@@ -108,5 +108,12 @@
     "change": "Recent evidence connects HFT to financing costs, central banks are moving tokenisation into institutional experiments, and U.S. event-contract markets have expanded sharply enough to trigger new market-design oversight.",
     "underattention": "Discussion is often split between technology coverage and traditional economics, obscuring the question of which theoretical assumptions remain valid when market architecture changes.",
     "transmission": "Market design changes participant incentives and information processing, which can alter liquidity, systemic risk, settlement, financing conditions and institutional responses."
-  }
+  },
+  "revision": 1,
+  "revision_reason": "Editorial rewrite after QA rejection: direct thesis-led opening and comprehensive PT-BR localization; no material factual, quantitative or causal changes.",
+  "supersedes_rejected_commit": "8c8bc927a96124bd465cf6c355bb5436a5ae8bef",
+  "qa_fixes_applied": [
+    "Replaced formulaic metadiscursive EN/PT-BR opening with direct thesis-led analytical prose.",
+    "Localized PT-BR technical market and engineering terminology, retaining English only when useful and explaining it on first use."
+  ]
 }
