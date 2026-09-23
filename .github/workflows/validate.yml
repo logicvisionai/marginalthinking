@@ -127,6 +127,14 @@ jobs:
           test -f dist/policy-cases/index.html
           test -f dist/pt-br/policy-cases/index.html
           test -f dist/data/policy-cases.json
+          test -f dist/assets/css/policy-case-atlas.css
+          test -f dist/assets/js/policy-case-atlas.js
+          grep -q 'policy-atlas-stats' dist/policy-cases/index.html
+          grep -q 'policy-matrix' dist/policy-cases/index.html
+          grep -q 'policy-case-card' dist/policy-cases/index.html
+          grep -q 'policy-chain' dist/policy-cases/index.html
+          grep -q 'policy-case-card' dist/pt-br/policy-cases/index.html
+          grep -q 'policy-matrix' dist/pt-br/policy-cases/index.html
           test -f dist/resource-control/index.html
           test -f dist/pt-br/resource-control/index.html
           test -f dist/data/resource-control-atlas.json

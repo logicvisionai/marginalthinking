@@ -51,6 +51,17 @@ A later favorable or unfavorable outcome is never sufficient evidence that the p
 
 Comparison is mechanism-first. Cases belong together when they address a sufficiently similar problem through comparable channels. Monetary stabilization cases may compare unit-of-account reform, fiscal correction, exchange-rate anchors, wage-price agreements or currency-board rules without treating the political systems that adopted them as equivalent.
 
+## Atlas presentation contract
+
+The Policy Case Atlas is a comparative index, not a compressed substitute for the underlying case studies.
+
+- the comparison matrix contains only compact fields that are genuinely comparable across cases, such as country, intervention, launch period, controlled domain, evidence status and availability of a deep study;
+- paragraph-length descriptions of problems, mechanisms, outcomes or transfer limits belong in structured case blocks, not table cells;
+- each case block keeps **problem**, **mechanism**, **observed outcome** and **transfer limits** visually distinct;
+- the public index must remain usable without zooming at narrow viewport widths; comparison rows may reflow into labelled vertical blocks on mobile;
+- source lists and related deep research remain accessible from each case without overwhelming the primary comparison layer;
+- filtering and discovery controls must operate on the same canonical structured case data rather than a separate manually maintained catalog.
+
 ## Public outputs
 
 Each approved case produces a bilingual deep research article, a structured Policy Case Atlas entry, links to country/topic/series pages, a reconciliation decision for cumulative Marginal Thinking tools, and source-linked revisions when later evidence materially changes the case.
