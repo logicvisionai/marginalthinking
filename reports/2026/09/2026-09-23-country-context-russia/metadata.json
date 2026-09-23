@@ -1,0 +1,142 @@
+{
+  "id": "MT-CC-2026-09-23-russia",
+  "slug": "2026-09-23-country-context-russia",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:05:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe",
+      "asia-pacific"
+    ],
+    "subregions": [],
+    "countries": [
+      {
+        "code": "RU",
+        "slug": "russia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security",
+    "sanctions-economic-coercion",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CS-2026-09-20-EUR-RU-UA"
+  ],
+  "url": "/reports/2026/09/2026-09-23-country-context-russia.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Russia: state capacity, mobilization and social transformation from Rus' to the 2026 war economy",
+      "deck": "A millennium-scale reconstruction of how territory, fiscal-military institutions, serfdom, industrialization, Soviet planning, post-Soviet transition, resource rents, demography and war shaped the Russian economy and society.",
+      "tags": [
+        "Russia",
+        "economic history",
+        "state capacity",
+        "Soviet Union",
+        "demography",
+        "war economy",
+        "social trust"
+      ],
+      "keywords": [
+        "Russia history economy society",
+        "Muscovy",
+        "Russian Empire",
+        "serfdom",
+        "Soviet industrialization",
+        "post-Soviet transition",
+        "Russian demography",
+        "Russian war economy 2026",
+        "Russian social trust"
+      ],
+      "regime": "A mature industrial and resource economy is operating under war-driven fiscal demand, tight monetary policy, labour scarcity and redirected external trade while long-run demographic and productivity constraints limit mobilization-led growth.",
+      "key_risk": "Prolonged defence demand, labour scarcity, restricted technology access and weak civilian investment can reinforce a two-speed productive structure even when headline output remains positive.",
+      "watch": [
+        "civilian fixed investment and productivity",
+        "labour force, migration and vacancies",
+        "military spending and budget composition",
+        "oil and gas export destinations and infrastructure",
+        "inflation, key rate and credit conditions",
+        "institutional and interpersonal trust",
+        "births, mortality and cohort structure"
+      ],
+      "search_text": "Russia historical country dossier Rus Muscovy tsars Russian Empire serfdom industrialization Soviet Union planning post Soviet transition 1990s Putin era resource economy demography war economy 2026 social trust"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Rússia: capacidade estatal, mobilização e transformação social da Rus' à economia de guerra de 2026",
+      "deck": "Uma reconstrução em escala milenar de como território, instituições fiscal-militares, servidão, industrialização, planejamento soviético, transição pós-soviética, renda de recursos, demografia e guerra moldaram economia e sociedade russas.",
+      "tags": [
+        "Rússia",
+        "história econômica",
+        "capacidade estatal",
+        "União Soviética",
+        "demografia",
+        "economia de guerra",
+        "confiança social"
+      ],
+      "keywords": [
+        "história economia sociedade Rússia",
+        "Moscóvia",
+        "Império Russo",
+        "servidão",
+        "industrialização soviética",
+        "transição pós-soviética",
+        "demografia russa",
+        "economia de guerra Rússia 2026",
+        "confiança social Rússia"
+      ],
+      "regime": "Uma economia industrial e de recursos madura opera sob demanda fiscal de guerra, política monetária restritiva, escassez de trabalho e comércio externo redirecionado, enquanto restrições demográficas e de produtividade limitam o crescimento sustentado pela mobilização.",
+      "key_risk": "Demanda de defesa prolongada, escassez de trabalho, restrições de acesso tecnológico e investimento civil fraco podem consolidar uma estrutura produtiva em duas velocidades mesmo com produto agregado positivo.",
+      "watch": [
+        "investimento fixo civil e produtividade",
+        "força de trabalho, migração e vagas",
+        "gasto militar e composição orçamentária",
+        "destinos e infraestrutura das exportações de petróleo e gás",
+        "inflação, taxa básica e condições de crédito",
+        "confiança institucional e interpessoal",
+        "nascimentos, mortalidade e estrutura de coortes"
+      ],
+      "search_text": "Rússia dossiê histórico Rus Moscóvia czares Império Russo servidão industrialização União Soviética planejamento transição pós soviética anos 1990 economia de recursos demografia economia de guerra 2026 confiança social"
+    }
+  }
+}

@@ -236,6 +236,56 @@
           "note": "The article discusses technology-mediated market architecture but does not introduce a new standalone technology capability signal, deployment stage change or constraint that warrants ledger mutation."
         }
       ]
+    },
+    {
+      "id": "2026-09-23-country-context-russia",
+      "reconciled_at": "2026-09-23T10:05:00-03:00",
+      "report_ids_reviewed": [
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22",
+        "MT-CC-2026-09-23-russia"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The Russia dossier establishes the large eastward reorientation of energy trade, but it does not add a new route-level dependency with sufficient canonical granularity beyond relationships already treated in the research layer."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The country dossier is historical and structural context rather than an actor-specific opportunity thesis."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "State institutions and major sectors are analyzed at country level, without a new actor-specific control record that meets the Strategic Actors evidence standard."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "EIA evidence establishes Russia's exceptional oil, gas and coal production/export scale, but the Resource Control Atlas requires controller-level legal ownership and operating-right evidence; a dedicated Gazprom/Rosneft/Transneft/Rosatom ownership pass is required before canonical insertion."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The publication is a long-run country dossier, not a bounded implemented policy case with a single design and outcome evaluation."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Current European security mechanisms are already represented by MT-CS-2026-09-20-EUR-RU-UA; the dossier adds historical and internal country context without changing the conflict-system state."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "The dossier does not establish a new discrete technology capability signal or deployment-stage change."
+        }
+      ]
     }
   ]
 }
