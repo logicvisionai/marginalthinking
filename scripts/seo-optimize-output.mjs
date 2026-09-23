@@ -8,6 +8,8 @@ const out=path.join(root,'dist');
 if(!fs.existsSync(out))throw new Error('dist ausente para SEO optimization');
 const cfg=JSON.parse(fs.readFileSync(path.join(root,'site.config.json'),'utf8'));
 const taxonomy=JSON.parse(fs.readFileSync(path.join(root,'data/taxonomy.json'),'utf8'));
+const seoOverridesPath=path.join(root,'data/seo-overrides.json');
+const seoOverrides=fs.existsSync(seoOverridesPath)?JSON.parse(fs.readFileSync(seoOverridesPath,'utf8')):{pages:{},reports:{}};
 const reports=collectReports(root);
 const site=cfg.site_url.replace(/\/$/,'');
 const locales=Object.keys(cfg.locales||{});
@@ -29,6 +31,10 @@ const socialPath=(item,locale)=>`/assets/og/${socialSlug(item)}-${localeSlug(loc
 const institutionalSocialPath=locale=>`/assets/og/marginal-thinking-${localeSlug(locale)}.png`;
 const institutionalDescription=locale=>cfg.social_descriptions?.[locale]||cfg.social_descriptions?.[cfg.default_locale]||'Marginal Thinking — independent research on economics, politics and society.';
 const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>{const p=path.join(dir,e.name);return e.isDirectory()?walk(p):[p];});
+const canonicalRouteFromRel=rel=>{const clean=rel.replace(/^pt-br\//,'');if(clean==='index.html')return'/';if(clean.endsWith('/index.html'))return'/'+clean.slice(0,-'index.html'.length);return'/'+clean;};
+const pageOverride=(route,locale)=>seoOverrides.pages?.[route]?.[locale]||null;
+const reportOverride=(id,locale)=>seoOverrides.reports?.[id]?.[locale]||null;
+const titleText=html=>String(html.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||'').replace(/&amp;/g,'&').replace(/&#39;/g,"'").replace(/&quot;/g,'\"').trim();
 
 function wrapText(value,maxChars=38,maxLines=4){
   const words=String(value||'').replace(/\s+/g,' ').trim().split(' ').filter(Boolean),lines=[];let line='';
@@ -56,6 +62,21 @@ function setMeta(html,key,value,kind='name'){
   return pattern.test(html)?html.replace(pattern,tag):html.replace('</head>',`${tag}</head>`);
 }
 function contentAttr(html,kind,key){return html.match(new RegExp(`<meta\\s+${kind}="${rxEsc(key)}"\\s+content="([^"]*)"`,'i'))?.[1]||'';}
+function updatePageJsonLd(html,title,description){
+  return html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g,(all,json)=>{
+    try{
+      const data=JSON.parse(json);const nodes=Array.isArray(data?.['@graph'])?data['@graph']:[data];let changed=false;
+      for(const node of nodes){
+        const types=Array.isArray(node?.['@type'])?node['@type']:[node?.['@type']];
+        if(types.some(t=>['WebPage','CollectionPage','AboutPage','ProfilePage','WebSite'].includes(t))){
+          if(title){node.name=title;changed=true;}
+          if(description){node.description=description;changed=true;}
+        }
+      }
+      return changed?`<script type="application/ld+json">${JSON.stringify(data).replace(/</g,'\\u003c')}</script>`:all;
+    }catch{return all;}
+  });
+}
 function updateJsonLd(html,imageUrl){
   return html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g,(all,json)=>{
     try{
@@ -73,7 +94,7 @@ async function optimizeReports(){
     const view=reportView(item,locale);if(!view)continue;
     const url=reportPath(item,locale),file=fileForUrl(url);if(!fs.existsSync(file))continue;
     const card=socialPath(item,locale),cardFile=path.join(out,card.replace(/^\//,''));await writePng(cardFile,renderSocialCard(item,locale,view));
-    const title=seoTitle(view.seo_title||view.title||item.id),description=seoDescription(view.seo_description||view.deck||''),imageUrl=`${site}${card}`;
+    const override=reportOverride(item.id,locale);const title=seoTitle(override?.title||view.seo_title||view.title||item.id),description=seoDescription(override?.description||view.seo_description||view.deck||''),imageUrl=`${site}${card}`;
     let html=fs.readFileSync(file,'utf8');
     html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${escHtml(title)} | ${escHtml(cfg.site_name)}</title>`);
     html=setMeta(html,'description',description,'name');
@@ -96,10 +117,14 @@ async function optimizeInstitutionalPages(){
     if(/^(?:pt-br\/)?reports\/\d{4}\/\d{2}\/[^/]+\.html$/.test(rel))continue;
     const locale=rel.startsWith('pt-br/')?'pt-BR':'en';if(!cfg.locales[locale])continue;
     let html=fs.readFileSync(file,'utf8');if(!/property="og:type"\s+content="website"/i.test(html))continue;
-    const imageUrl=cardByLocale[locale],description=institutionalDescription(locale),alt=locale==='pt-BR'?'Marginal Thinking — pesquisa independente':'Marginal Thinking — independent research';
-    html=setMeta(html,'og:description',description,'property');html=setMeta(html,'og:image',imageUrl,'property');html=setMeta(html,'og:image:secure_url',imageUrl,'property');html=setMeta(html,'og:image:type','image/png','property');html=setMeta(html,'og:image:width','1200','property');html=setMeta(html,'og:image:height','630','property');html=setMeta(html,'og:image:alt',alt,'property');
-    html=setMeta(html,'twitter:card','summary_large_image','name');html=setMeta(html,'twitter:description',description,'name');html=setMeta(html,'twitter:image',imageUrl,'name');html=setMeta(html,'twitter:image:alt',alt,'name');
-    if(!contentAttr(html,'name','description'))html=setMeta(html,'description',seoDescription(description),'name');
+    const route=canonicalRouteFromRel(rel),override=pageOverride(route,locale),imageUrl=cardByLocale[locale],alt=locale==='pt-BR'?'Marginal Thinking — pesquisa independente':'Marginal Thinking — independent research';
+    const existingDescription=contentAttr(html,'name','description')||institutionalDescription(locale),description=seoDescription(override?.description||existingDescription);
+    const existingTitle=titleText(html),title=seoTitle(override?.title||existingTitle||cfg.site_name);
+    if(override?.title)html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${escHtml(title)}</title>`);
+    html=setMeta(html,'description',description,'name');
+    html=setMeta(html,'og:title',title,'property');html=setMeta(html,'og:description',description,'property');html=setMeta(html,'og:image',imageUrl,'property');html=setMeta(html,'og:image:secure_url',imageUrl,'property');html=setMeta(html,'og:image:type','image/png','property');html=setMeta(html,'og:image:width','1200','property');html=setMeta(html,'og:image:height','630','property');html=setMeta(html,'og:image:alt',alt,'property');
+    html=setMeta(html,'twitter:card','summary_large_image','name');html=setMeta(html,'twitter:title',title,'name');html=setMeta(html,'twitter:description',description,'name');html=setMeta(html,'twitter:image',imageUrl,'name');html=setMeta(html,'twitter:image:alt',alt,'name');
+    html=updatePageJsonLd(html,title,description);
     fs.writeFileSync(file,html);count++;
   }
   return count;

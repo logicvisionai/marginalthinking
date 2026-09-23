@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "rationale": "Search Console CTR optimization. Canonical editorial content remains unchanged; these overrides control search-result titles and descriptions only.",
+  "pages": {
+    "/": {
+      "en": {
+        "title": "Marginal Thinking | Economics, Markets & Geopolitics",
+        "description": "Marginal Thinking: independent research on global economics, markets, political economy and geopolitics, connecting capital, institutions and power."
+      },
+      "pt-BR": {
+        "title": "Marginal Thinking | Economia, Mercados e Geopolítica",
+        "description": "Marginal Thinking: pesquisa independente sobre economia global, mercados, economia política e geopolítica, conectando capital, instituições e poder."
+      }
+    },
+    "/reports.html": {
+      "en": {
+        "title": "Economic & Geopolitical Research Archive | Marginal Thinking",
+        "description": "Browse Marginal Thinking research on macroeconomics, markets, geopolitics, countries, strategic actors, resources, technology and public policy."
+      },
+      "pt-BR": {
+        "title": "Arquivo Econômico e Geopolítico | Marginal Thinking",
+        "description": "Pesquise estudos da Marginal Thinking sobre macroeconomia, mercados, geopolítica, países, atores estratégicos, recursos, tecnologia e políticas públicas."
+      }
+    },
+    "/about.html": {
+      "en": {
+        "title": "About Marginal Thinking | Independent Economic Research",
+        "description": "Marginal Thinking is an independent research platform on economics, markets, political economy, geopolitics, productive capacity, institutions and power."
+      },
+      "pt-BR": {
+        "title": "Sobre a Marginal Thinking | Pesquisa Econômica Independente",
+        "description": "Marginal Thinking é uma plataforma independente de pesquisa sobre economia, mercados, geopolítica, capacidade produtiva, instituições e poder."
+      }
+    },
+    "/methodology.html": {
+      "en": {
+        "title": "Research Methodology | Marginal Thinking",
+        "description": "How Marginal Thinking separates evidence, inference and scenarios, triangulates sources, tests mechanisms and keeps research auditable."
+      },
+      "pt-BR": {
+        "title": "Metodologia de Pesquisa | Marginal Thinking",
+        "description": "Como a Marginal Thinking separa evidência, inferência e cenários, triangula fontes, testa mecanismos e mantém a pesquisa econômica e geopolítica auditável."
+      }
+    },
+    "/what-is-marginal-thinking/": {
+      "en": {
+        "title": "What Is Marginal Thinking? Economics Meaning & Examples",
+        "description": "Marginal thinking in economics compares the additional cost and benefit of the next change. Learn the meaning, practical examples and how the method is used."
+      },
+      "pt-BR": {
+        "title": "O que é Marginal Thinking? Conceito e Exemplos em Economia",
+        "description": "Pensamento marginal compara o custo e o benefício adicionais da próxima mudança. Entenda o conceito econômico, exemplos práticos e como o método é aplicado."
+      }
+    },
+    "/research/coverage/": {
+      "en": {
+        "title": "Research Coverage by Country, Topic & Program",
+        "description": "Explore Marginal Thinking coverage across countries, regions, research programs and controlled topics, with links into the underlying published research."
+      },
+      "pt-BR": {
+        "title": "Cobertura de Pesquisa por País, Tema e Programa",
+        "description": "Explore a cobertura da Marginal Thinking por países, regiões, programas de pesquisa e temas controlados, com acesso às publicações que sustentam cada eixo."
+      }
+    },
+    "/topics/currencies/": {
+      "en": {
+        "title": "Currency & FX Research | Marginal Thinking",
+        "description": "Research on exchange rates, monetary policy, dollar liquidity, capital flows and currency transmission across advanced and emerging economies."
+      },
+      "pt-BR": {
+        "title": "Pesquisa sobre Câmbio e Moedas | Marginal Thinking",
+        "description": "Pesquisas sobre câmbio, política monetária, liquidez em dólar, fluxos de capital e transmissão cambial em economias avançadas e emergentes."
+      }
+    },
+    "/topics/energy/": {
+      "en": {
+        "title": "Energy Markets & Geopolitics | Marginal Thinking",
+        "description": "Research on oil, gas, electricity, energy security, infrastructure, prices and the geopolitical transmission of energy shocks."
+      },
+      "pt-BR": {
+        "title": "Mercados de Energia e Geopolítica | Marginal Thinking",
+        "description": "Pesquisas sobre petróleo, gás, eletricidade, segurança energética, infraestrutura, preços e transmissão geopolítica de choques de energia."
+      }
+    }
+  },
+  "reports": {
+    "MT-GM-2026-09-15": {
+      "en": {
+        "title": "Oil Shock, 5% Treasury Yields & Strong Dollar | Sep 15, 2026",
+        "description": "Brent near $107–108, the U.S. 10-year Treasury at 5.04% and a stronger dollar tightened global financial conditions without a systemic credit break."
+      },
+      "pt-BR": {
+        "title": "Petróleo, Treasury a 5% e Dólar Forte | 15 set. 2026",
+        "description": "Brent em US$ 107–108, Treasury de 10 anos a 5,04% e dólar forte apertaram as condições financeiras globais sem confirmar uma crise sistêmica de crédito."
+      }
+    },
+    "MT-GM-2026-09-17": {
+      "en": {
+        "title": "Fed Tightening, Oil Logistics & Hormuz Risk | Sep 17, 2026",
+        "description": "Saudi export relief reduced immediate oil-supply risk, but Fed tightening kept financial conditions restrictive while Hormuz traffic remained impaired."
+      },
+      "pt-BR": {
+        "title": "Fed, Logística do Petróleo e Risco em Hormuz | 17 set. 2026",
+        "description": "O alívio logístico saudita reduziu o risco imediato de oferta, mas o aperto do Fed manteve as condições financeiras restritivas com Hormuz ainda prejudicado."
+      }
+    },
+    "MT-CS-2026-09-20-EUR-RU-UA": {
+      "en": {
+        "title": "Russia–Ukraine War: How Europe’s Security Order Broke Down",
+        "description": "A deep history of NATO enlargement, Ukraine, Russia, deterrence and the post-Cold War security order, tracing the mechanisms behind the 2026 war system."
+      },
+      "pt-BR": {
+        "title": "Guerra Rússia–Ucrânia e a Ruptura da Segurança Europeia",
+        "description": "História profunda de OTAN, Ucrânia, Rússia, dissuasão e ordem pós-Guerra Fria, reconstruindo os mecanismos que produziram o sistema de guerra de 2026."
+      }
+    }
+  }
+}

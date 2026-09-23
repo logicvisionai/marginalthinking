@@ -1,6 +1,7 @@
 import {McpServer} from '@modelcontextprotocol/server';
 import {createMcpHandler} from 'agents/mcp/server';
 import {z} from 'zod';
+import {canonicalizeAllowedUrl} from './canonical-url.mjs';
 
 const MCP_ROUTE = '/mcp';
 const CANONICAL_HOST = 'marginalthinking.org';
@@ -474,13 +475,8 @@ function createServer(env, requestUrl) {
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
-    if (ALLOWED_HOSTS.includes(url.hostname.toLowerCase()) && (url.hostname.toLowerCase() !== CANONICAL_HOST || url.protocol !== 'https:')) {
-      const canonical = new URL(request.url);
-      canonical.protocol = 'https:';
-      canonical.hostname = CANONICAL_HOST;
-      canonical.port = '';
-      return Response.redirect(canonical.toString(), 308);
-    }
+    const canonicalTarget = canonicalizeAllowedUrl(request.url, CANONICAL_HOST);
+    if (canonicalTarget) return Response.redirect(canonicalTarget, 308);
     if (url.pathname === `${MCP_ROUTE}/`) {
       url.pathname = MCP_ROUTE;
       return Response.redirect(url.toString(), 308);

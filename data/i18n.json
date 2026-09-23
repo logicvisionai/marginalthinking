@@ -230,27 +230,35 @@
     "concept": {
       "eyebrow": "THE NAME AND THE METHOD",
       "title": "What is Marginal Thinking?",
-      "deck": "Marginal Thinking is an independent research platform that tracks incremental changes in capital, productive capacity, resources, technology, institutions and power to understand wider economic and political transformations.",
+      "deck": "Marginal thinking is the economic habit of evaluating the next change rather than only the total: compare the additional benefit, cost, incentive and constraint created at the margin. Marginal Thinking applies that logic to markets, institutions, productive capacity and power.",
       "sections": [
         {
           "title": "Marginal thinking in economics",
-          "text": "In economics, marginal thinking means evaluating the effect of an incremental change: one additional unit, a change in cost, a new constraint or a different incentive. The comparison is usually between the additional benefit and the additional cost, rather than between totals or averages."
+          "text": "In economics, marginal thinking means evaluating what changes when one more unit is produced, consumed, financed or constrained. The core comparison is incremental: marginal benefit versus marginal cost, not simply total benefit versus total cost."
         },
         {
-          "title": "Examples of marginal thinking",
-          "text": "Examples include asking how a 25-basis-point rate change alters borrowing conditions, how one additional unit of transport capacity changes a bottleneck, how a marginal change in foreign demand affects a government-bond market, or whether the next unit of productive capacity changes an industry's cost structure. The point is to identify the mechanism created by the next change, not to assume that every small movement is important."
+          "title": "Marginal cost, marginal benefit and the next decision",
+          "text": "A decision improves while the additional benefit of the next unit exceeds its additional cost. The relevant question is therefore not whether an activity is good or bad in the abstract, but whether the next unit, next dollar, next worker, next megawatt or next policy adjustment improves the outcome under current constraints."
         },
         {
-          "title": "The Marginal Thinking project",
-          "text": "Marginal Thinking is also the name of this independent research platform. The name describes a method of watching where capital, resources, productive capacity, infrastructure, technology, institutions and constraints begin to move before the wider transformation is fully visible in aggregate measures."
+          "title": "Simple examples of marginal thinking",
+          "text": "A firm compares the revenue from producing one more unit with the extra labour, energy and financing required. A household compares the benefit of one additional purchase with the opportunity cost of spending. A central bank asks how another rate move changes credit, inflation and activity. A logistics operator asks whether added capacity materially changes throughput."
         },
         {
-          "title": "What makes a marginal change material",
-          "text": "Not every small change matters. Research tests mechanism, scale, persistence and constraints: what changed, why it changed, which actors can transmit the effect and what evidence would weaken the interpretation."
+          "title": "Marginal thinking versus average thinking",
+          "text": "Averages describe the system as a whole; marginal analysis focuses on the change caused by the next decision. An industry can have high average profitability while the next investment is unattractive, or weak average productivity while one targeted capacity addition generates a large gain. Both views matter, but they answer different questions."
         },
         {
-          "title": "How the research is organized",
-          "text": "Recurring reports track near-term change. Permanent research hubs accumulate context across editions. Country, actor, topic, dependency and data pages connect the material into a knowledge base that can be revisited and updated."
+          "title": "Why the concept matters for economics and policy",
+          "text": "Many policy and market errors come from comparing totals that are not decision-relevant. Taxes, subsidies, interest rates, congestion, energy constraints and labour shortages often change behaviour through marginal incentives. Understanding those incentives helps explain why similar headline policies can produce different outcomes across sectors, countries and time."
+        },
+        {
+          "title": "Why the research platform is called Marginal Thinking",
+          "text": "The project uses the name because structural change often becomes visible first at the margin: financing costs move, reserve composition shifts, logistics capacity tightens, technology changes a production function, or an institution changes an incentive before aggregate data fully reflect the transition."
+        },
+        {
+          "title": "How Marginal Thinking uses the method",
+          "text": "The research tests mechanism, scale, persistence, distribution and constraints. It asks what changed, which actors can transmit the effect, who gains or loses capacity, what evidence would weaken the interpretation and whether a marginal move is large enough to alter the broader system."
         }
       ]
     }
@@ -486,27 +494,35 @@
     "concept": {
       "eyebrow": "SOBRE O NOME E O MÉTODO",
       "title": "O que é Marginal Thinking?",
-      "deck": "Marginal Thinking é uma plataforma independente de pesquisa que acompanha mudanças incrementais em capital, capacidade produtiva, recursos, tecnologia, instituições e poder para entender transformações econômicas e políticas mais amplas.",
+      "deck": "Pensamento marginal é o hábito econômico de avaliar a próxima mudança, e não apenas o total: comparar benefício, custo, incentivo e restrição adicionais gerados na margem. A Marginal Thinking aplica essa lógica a mercados, instituições, capacidade produtiva e poder.",
       "sections": [
         {
           "title": "Pensamento marginal em economia",
-          "text": "Em economia, pensamento marginal significa avaliar o efeito de uma mudança incremental: uma unidade adicional, uma alteração de custo, uma nova restrição ou um incentivo diferente. A comparação costuma ser entre benefício adicional e custo adicional, e não apenas entre totais ou médias."
+          "text": "Em economia, pensamento marginal significa avaliar o que muda quando uma unidade adicional é produzida, consumida, financiada ou restringida. A comparação central é incremental: benefício marginal versus custo marginal, e não apenas benefício total versus custo total."
         },
         {
-          "title": "Exemplos de pensamento marginal",
-          "text": "Exemplos incluem perguntar como uma mudança de 25 pontos-base nos juros altera as condições de crédito, como uma unidade adicional de capacidade de transporte modifica um estrangulamento, como uma mudança marginal na demanda externa afeta o mercado de títulos públicos ou se a próxima unidade de capacidade produtiva altera a estrutura de custos de uma indústria. O objetivo é identificar o mecanismo criado pela próxima mudança, sem presumir que todo movimento pequeno seja relevante."
+          "title": "Custo marginal, benefício marginal e a próxima decisão",
+          "text": "Uma decisão melhora enquanto o benefício adicional da próxima unidade supera seu custo adicional. A pergunta relevante, portanto, não é se uma atividade é boa ou ruim em abstrato, mas se a próxima unidade, o próximo real investido, o próximo trabalhador, megawatt ou ajuste de política melhora o resultado dadas as restrições atuais."
         },
         {
-          "title": "O projeto Marginal Thinking",
-          "text": "Marginal Thinking também é o nome desta plataforma independente de pesquisa. O nome descreve o método de observar onde capital, recursos, capacidade produtiva, infraestrutura, tecnologia, instituições e restrições começam a se mover antes que a transformação seja plenamente visível nos agregados."
+          "title": "Exemplos simples de pensamento marginal",
+          "text": "Uma empresa compara a receita de produzir uma unidade a mais com o trabalho, a energia e o financiamento adicionais necessários. Uma família compara o benefício de uma compra extra com seu custo de oportunidade. Um banco central avalia como outro movimento de juros altera crédito, inflação e atividade. Um operador logístico pergunta se capacidade adicional muda materialmente a vazão."
         },
         {
-          "title": "Quando uma mudança marginal é material",
-          "text": "Nem toda mudança pequena importa. A pesquisa procura estabelecer mecanismo, escala, persistência e restrições: o que mudou, por que mudou, quais atores têm capacidade para transmitir o efeito e quais evidências enfraqueceriam a interpretação."
+          "title": "Pensamento marginal versus pensamento por médias",
+          "text": "Médias descrevem o sistema como um todo; análise marginal foca a mudança causada pela próxima decisão. Uma indústria pode ter rentabilidade média elevada enquanto o próximo investimento é pouco atrativo, ou produtividade média fraca enquanto uma expansão específica de capacidade gera ganho relevante. As duas visões importam, mas respondem a perguntas diferentes."
         },
         {
-          "title": "Como a pesquisa é organizada",
-          "text": "Relatórios recorrentes acompanham mudanças de curto prazo. Hubs permanentes acumulam contexto entre edições. Páginas de países, atores, temas, dependências e dados conectam o material em uma base de conhecimento que pode ser revisitada e atualizada."
+          "title": "Por que o conceito importa para economia e políticas públicas",
+          "text": "Muitos erros de política e mercado surgem quando se comparam totais que não são relevantes para a decisão. Impostos, subsídios, juros, congestionamento, restrições energéticas e escassez de trabalho alteram comportamento por incentivos marginais. Entender esses incentivos ajuda a explicar por que políticas aparentemente semelhantes produzem resultados diferentes entre setores, países e períodos."
+        },
+        {
+          "title": "Por que a plataforma se chama Marginal Thinking",
+          "text": "O projeto usa esse nome porque mudanças estruturais frequentemente aparecem primeiro na margem: o custo de financiamento se move, a composição das reservas muda, capacidade logística fica mais restrita, tecnologia altera uma função de produção ou uma instituição muda incentivos antes que os dados agregados reflitam plenamente a transição."
+        },
+        {
+          "title": "Como a Marginal Thinking aplica o método",
+          "text": "A pesquisa testa mecanismo, escala, persistência, distribuição e restrições. Pergunta o que mudou, quais atores conseguem transmitir o efeito, quem ganha ou perde capacidade, quais evidências enfraqueceriam a interpretação e se uma mudança marginal é grande o suficiente para alterar o sistema mais amplo."
         }
       ]
     }

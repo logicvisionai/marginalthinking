@@ -5,6 +5,7 @@ import {collectReports,availableLocales} from './lib/reports.mjs';
 const root=process.cwd(),out=path.join(root,'dist');
 const cfg=JSON.parse(fs.readFileSync(path.join(root,'site.config.json'),'utf8'));
 const taxonomy=JSON.parse(fs.readFileSync(path.join(root,'data/taxonomy.json'),'utf8'));
+const seoOverrides=JSON.parse(fs.readFileSync(path.join(root,'data/seo-overrides.json'),'utf8'));
 const reports=collectReports(root),site=cfg.site_url.replace(/\/$/,''),locales=Object.keys(cfg.locales||{}),fail=[];
 const pagePath=(locale,p)=>{const prefix=cfg.locales[locale]?.path?`/${cfg.locales[locale].path}`:'';return `${prefix}${p}`.replace(/\/+/g,'/');};
 const reportPath=(item,locale)=>pagePath(locale,item.url);
@@ -15,6 +16,9 @@ const socialPath=(item,locale)=>`/assets/og/${socialSlug(item)}-${localeSlug(loc
 const institutionalSocialPath=locale=>`/assets/og/marginal-thinking-${localeSlug(locale)}.png`;
 const contentAttr=(html,kind,key)=>html.match(new RegExp(`<meta\\s+${kind}="${key}"\\s+content="([^"]*)"`,'i'))?.[1]||'';
 const sitemap=fs.existsSync(path.join(out,'sitemap.xml'))?fs.readFileSync(path.join(out,'sitemap.xml'),'utf8'):'';
+const htmlTitle=html=>html.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||'';
+const normalizeEntities=s=>String(s||'').replace(/&amp;/g,'&').replace(/&#39;/g,"'").replace(/&quot;/g,'"').trim();
+
 
 for(const item of reports)for(const locale of availableLocales(item).filter(l=>cfg.locales[l])){
   const file=fileForUrl(reportPath(item,locale));if(!fs.existsSync(file)){fail.push(`${item.id}/${locale}: HTML ausente`);continue;}const html=fs.readFileSync(file,'utf8');
@@ -27,6 +31,29 @@ for(const item of reports)for(const locale of availableLocales(item).filter(l=>c
   const card=path.join(out,socialPath(item,locale).replace(/^\//,''));if(!fs.existsSync(card)||fs.statSync(card).size<5000)fail.push(`${item.id}/${locale}: social card PNG ausente/inválido`);
   if(!html.includes('"@type":"ScholarlyArticle"')||!html.includes(expected))fail.push(`${item.id}/${locale}: JSON-LD não referencia imagem específica`);
   if(/\.svg(?:"|\?|$)/i.test(og))fail.push(`${item.id}/${locale}: LinkedIn social image não pode permanecer SVG`);
+}
+
+
+for(const [route,byLocale] of Object.entries(seoOverrides.pages||{}))for(const [locale,expected] of Object.entries(byLocale||{})){
+  if(!cfg.locales[locale])continue;
+  const file=fileForUrl(pagePath(locale,route));if(!fs.existsSync(file)){fail.push(`SEO override page missing: ${locale} ${route}`);continue;}
+  const html=fs.readFileSync(file,'utf8'),title=normalizeEntities(htmlTitle(html)),description=normalizeEntities(contentAttr(html,'name','description'));
+  if(title!==expected.title)fail.push(`${locale}${route}: SEO override title mismatch (${title})`);
+  if(description!==expected.description)fail.push(`${locale}${route}: SEO override description mismatch`);
+  if(normalizeEntities(contentAttr(html,'property','og:title'))!==expected.title)fail.push(`${locale}${route}: og:title does not match SEO override`);
+  if(normalizeEntities(contentAttr(html,'property','og:description'))!==expected.description)fail.push(`${locale}${route}: og:description does not match SEO override`);
+}
+for(const [id,byLocale] of Object.entries(seoOverrides.reports||{})){
+  const item=reports.find(x=>x.id===id);if(!item){fail.push(`SEO override report missing: ${id}`);continue;}
+  for(const [locale,expected] of Object.entries(byLocale||{})){
+    if(!cfg.locales[locale])continue;
+    const file=fileForUrl(reportPath(item,locale));if(!fs.existsSync(file)){fail.push(`${id}/${locale}: SEO override HTML missing`);continue;}
+    const html=fs.readFileSync(file,'utf8'),title=normalizeEntities(htmlTitle(html)),description=normalizeEntities(contentAttr(html,'name','description'));
+    const expectedTitle=`${expected.title} | ${cfg.site_name}`;
+    if(title!==expectedTitle)fail.push(`${id}/${locale}: SEO override title mismatch (${title})`);
+    if(description!==expected.description)fail.push(`${id}/${locale}: SEO override description mismatch`);
+    if(normalizeEntities(contentAttr(html,'property','og:title'))!==expected.title)fail.push(`${id}/${locale}: og:title does not match SEO override`);
+  }
 }
 
 for(const locale of locales){
