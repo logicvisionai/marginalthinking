@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-23T01:28:21-03:00",
+  "last_reconciled_at": "2026-09-23T08:51:56-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -185,6 +185,55 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI equity leadership and financing observations in MT-GM-2026-09-23 do not constitute new technical capability, deployment or scaling evidence for the technology-signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-economic-paradigms-programmable-markets",
+      "reconciled_at": "2026-09-23T08:51:56-03:00",
+      "report_ids_reviewed": [
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS maps market-design mechanisms across HFT, AMMs, tokenised settlement and prediction markets, but does not establish a new durable canonical dependency edge or node requiring dataset change."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The assessment evaluates market architecture and theory adaptation; it does not establish a new actor-specific structural opportunity state."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "BIS, ECB, CFTC and market participants appear as institutional evidence, but the assessment does not establish a new durable control/capability relation for the Strategic Actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The assessment does not change canonical ownership or control of natural resources, production, physical intermediation or technological capacity recorded in the Resource Control Atlas."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "This is a comparative economic-paradigm and market-design assessment, not a retrospective implemented policy case with outcome evaluation."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Conflict/security mechanisms are not material to the assessment's thesis."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "The article discusses technology-mediated market architecture but does not introduce a new standalone technology capability signal, deployment stage change or constraint that warrants ledger mutation."
         }
       ]
     }

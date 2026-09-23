@@ -1,0 +1,120 @@
+{
+  "id": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T08:35:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 26,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "global"
+    ],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "banking-credit",
+    "monetary-policy",
+    "technology-innovation",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "Editorial rewrite after QA rejection: direct thesis-led opening and comprehensive PT-BR localization; no material factual, quantitative or causal changes.",
+  "supersedes_rejected_commit": "8c8bc927a96124bd465cf6c355bb5436a5ae8bef",
+  "qa_fixes_applied": [
+    "Replaced formulaic metadiscursive EN/PT-BR opening with direct thesis-led analytical prose.",
+    "Localized PT-BR technical market and engineering terminology, retaining English only when useful and explaining it on first use."
+  ],
+  "series": "economic-paradigms-market-design",
+  "series_domain": "market-microstructure-algorithmic-markets",
+  "selection_rationale": {
+    "relevance": "Trading, settlement and information markets increasingly embed economic rules in software and infrastructure rather than treating technology as neutral execution.",
+    "change": "Recent evidence connects HFT to financing costs, central banks are moving tokenisation into institutional experiments, and U.S. event-contract markets have expanded sharply enough to trigger new market-design oversight.",
+    "underattention": "Discussion is often split between technology coverage and traditional economics, obscuring the question of which theoretical assumptions remain valid when market architecture changes.",
+    "transmission": "Market design changes participant incentives and information processing, which can alter liquidity, systemic risk, settlement, financing conditions and institutional responses."
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-23T11:55:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "1d0cca2b68d0772b53bff33d566ecfd1aebe9089",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Markets are becoming programmable — economics is adapting, but the adjustment is uneven",
+      "deck": "Latency, programmable liquidity, tokenised settlement and event contracts are turning market architecture into an economic variable, while the evidence is maturing at different speeds across each mechanism.",
+      "tags": [
+        "economic paradigms",
+        "market design",
+        "high-frequency trading",
+        "tokenisation",
+        "prediction markets",
+        "automated market makers"
+      ],
+      "keywords": [
+        "economic theory technology",
+        "market microstructure",
+        "HFT cost of capital",
+        "automated market makers",
+        "tokenised finance",
+        "prediction markets regulation",
+        "programmable markets"
+      ],
+      "regime": "Market infrastructure is shifting from passive plumbing toward programmable rules that can alter liquidity, information, settlement and financing conditions.",
+      "key_risk": "Calling every technological innovation a paradigm shift can obscure where established economics still explains the mechanism and where genuinely new institutional assumptions are required.",
+      "watch": [
+        "empirical work linking market microstructure to real-economy financing",
+        "central-bank tokenisation pilots moving into operating infrastructure",
+        "market-design regulation for algorithmic and event markets",
+        "evidence on AI agents and automated economic decision systems"
+      ],
+      "search_text": "economic paradigms market design programmable markets high-frequency trading HFT cost of capital AMM automated market makers tokenisation settlement prediction markets economic theory regulation"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Os mercados estão se tornando programáveis — a economia está se adaptando, mas de forma desigual",
+      "deck": "Latência, liquidez programável, liquidação tokenizada e contratos de eventos estão transformando a arquitetura de mercado em variável econômica, enquanto a evidência amadurece em ritmos diferentes em cada mecanismo.",
+      "tags": [
+        "paradigmas econômicos",
+        "desenho de mercados",
+        "negociação de alta frequência",
+        "tokenização",
+        "mercados de previsão",
+        "formadores automáticos de mercado"
+      ],
+      "keywords": [
+        "teoria econômica e tecnologia",
+        "microestrutura de mercado",
+        "HFT e custo de capital",
+        "formadores automáticos de mercado",
+        "finanças tokenizadas",
+        "regulação de mercados de previsão",
+        "mercados programáveis"
+      ],
+      "regime": "A infraestrutura de mercado está deixando de ser apenas suporte passivo e passando a incorporar regras programáveis capazes de alterar liquidez, informação, liquidação e condições de financiamento.",
+      "key_risk": "Tratar toda inovação tecnológica como mudança de paradigma pode esconder onde a teoria econômica existente continua explicando o mecanismo e onde novas hipóteses institucionais são realmente necessárias.",
+      "watch": [
+        "novos estudos conectando microestrutura ao financiamento da economia real",
+        "pilotos de tokenização de bancos centrais avançando para infraestrutura operacional",
+        "regulação de desenho de mercados algorítmicos e de eventos",
+        "evidência sobre agentes de IA e sistemas automatizados de decisão econômica"
+      ],
+      "search_text": "paradigmas econômicos desenho de mercados mercados programáveis negociação de alta frequência HFT custo de capital formadores automáticos tokenização liquidação mercados de previsão teoria econômica regulação"
+    }
+  }
+}
