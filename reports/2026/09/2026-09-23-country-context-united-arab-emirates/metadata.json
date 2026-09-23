@@ -1,0 +1,131 @@
+{
+  "id": "MT-CC-2026-09-23-uae",
+  "slug": "2026-09-23-country-context-united-arab-emirates",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:55:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "middle-east"
+    ],
+    "subregions": [
+      "gulf"
+    ],
+    "countries": [
+      {
+        "code": "AE",
+        "slug": "united-arab-emirates"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "strategic-competition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-united-arab-emirates.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "United Arab Emirates: federation, hydrocarbon rents and the construction of a global logistics-finance platform",
+      "deck": "The UAE transformed a small federation of Gulf emirates into a global hub for oil, trade, aviation, finance and migration; in 2026 its structural advantage is not simply hydrocarbon wealth but the ability to convert rents into infrastructure, institutions and international networks while managing geopolitical and demographic dependence.",
+      "tags": [
+        "United Arab Emirates",
+        "economic history",
+        "Dubai",
+        "Abu Dhabi",
+        "sovereign wealth",
+        "logistics",
+        "BRICS"
+      ],
+      "keywords": [
+        "UAE economic history",
+        "UAE economy 2026",
+        "Dubai diversification",
+        "Abu Dhabi sovereign wealth",
+        "UAE logistics",
+        "BRICS UAE"
+      ],
+      "regime": "The UAE is a diversified global platform financed by hydrocarbon wealth and network infrastructure, with 2026 testing its resilience to a regional security shock that hits trade and energy simultaneously.",
+      "key_risk": "A prolonged regional conflict could reduce the benefits of diversification because oil, aviation, tourism, trade and finance share the same geographic security environment.",
+      "watch": [
+        "port throughput",
+        "aviation traffic",
+        "FDI",
+        "real estate prices",
+        "hydrocarbon exports",
+        "Emiratization"
+      ],
+      "search_text": "UAE country dossier economic history Abu Dhabi Dubai oil sovereign wealth logistics migrant labour BRICS 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Emirados Árabes Unidos: federação, rendas de hidrocarbonetos e a construção de uma plataforma global de logística e finanças",
+      "deck": "Os EAU transformaram uma pequena federação do Golfo em hub global de petróleo, comércio, aviação, finanças e migração; em 2026 sua vantagem estrutural não é apenas riqueza de hidrocarbonetos, mas a capacidade de converter rendas em infraestrutura, instituições e redes internacionais enquanto administra dependência demográfica e geopolítica.",
+      "tags": [
+        "Emirados Árabes Unidos",
+        "história econômica",
+        "Dubai",
+        "Abu Dhabi",
+        "riqueza soberana",
+        "logística",
+        "BRICS"
+      ],
+      "keywords": [
+        "história econômica EAU",
+        "economia EAU 2026",
+        "diversificação Dubai",
+        "riqueza soberana Abu Dhabi",
+        "logística EAU",
+        "BRICS EAU"
+      ],
+      "regime": "Os EAU são uma plataforma global diversificada financiada por riqueza de hidrocarbonetos e infraestrutura de rede; 2026 testa sua resiliência a choque regional que atinge comércio e energia simultaneamente.",
+      "key_risk": "Conflito regional prolongado pode reduzir os benefícios da diversificação porque petróleo, aviação, turismo, comércio e finanças compartilham o mesmo ambiente de segurança.",
+      "watch": [
+        "movimento portuário",
+        "aviação",
+        "IED",
+        "preços imobiliários",
+        "exportações de hidrocarbonetos",
+        "Emiratização"
+      ],
+      "search_text": "EAU dossiê país história econômica Abu Dhabi Dubai petróleo fundos soberanos logística trabalho migrante BRICS 2026"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "MT-CC-2026-09-23-iran",
+  "slug": "2026-09-23-country-context-iran",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:05:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "middle-east"
+    ],
+    "subregions": [],
+    "countries": [
+      {
+        "code": "IR",
+        "slug": "iran"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "strategic-competition",
+    "war-armed-conflict",
+    "sanctions-economic-coercion"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "url": "/reports/2026/09/2026-09-23-country-context-iran.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Iran: imperial state traditions, oil sovereignty and the economic cost of prolonged external isolation",
+      "deck": "Iran combines ancient state traditions with a modern oil economy repeatedly reorganized by revolution, war and sanctions; the 2026 regional conflict magnifies long-standing constraints on investment, inflation and financial integration.",
+      "tags": [
+        "Iran",
+        "economic history",
+        "oil",
+        "sanctions",
+        "inflation",
+        "Middle East",
+        "BRICS"
+      ],
+      "keywords": [
+        "Iran economic history",
+        "Iran economy 2026",
+        "Iran sanctions",
+        "Iran oil economy",
+        "Iran inflation",
+        "BRICS Iran"
+      ],
+      "regime": "Iran enters 2026 with a sanctions-adapted diversified economy under a severe conflict shock, where inflation and external isolation are shortening planning horizons and weakening capital accumulation.",
+      "key_risk": "Prolonged conflict and damage to energy or financial infrastructure could deepen inflation, exchange-rate fragmentation and skilled emigration.",
+      "watch": [
+        "inflation and exchange rates",
+        "oil exports",
+        "energy infrastructure",
+        "trade finance",
+        "skilled emigration",
+        "capital investment"
+      ],
+      "search_text": "Iran country dossier economic history oil nationalization revolution sanctions inflation BRICS 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Irã: tradições imperiais de Estado, soberania do petróleo e o custo econômico do isolamento externo prolongado",
+      "deck": "O Irã combina tradições estatais antigas com uma economia moderna do petróleo repetidamente reorganizada por revolução, guerra e sanções; o conflito regional de 2026 amplia restrições de investimento, inflação e integração financeira.",
+      "tags": [
+        "Irã",
+        "história econômica",
+        "petróleo",
+        "sanções",
+        "inflação",
+        "Oriente Médio",
+        "BRICS"
+      ],
+      "keywords": [
+        "história econômica Irã",
+        "economia Irã 2026",
+        "sanções Irã",
+        "economia do petróleo Irã",
+        "inflação Irã",
+        "BRICS Irã"
+      ],
+      "regime": "O Irã entra em 2026 com economia diversificada adaptada a sanções sob choque severo de conflito, no qual inflação e isolamento externo encurtam horizontes e enfraquecem acumulação.",
+      "key_risk": "Conflito prolongado e danos à infraestrutura energética ou financeira podem aprofundar inflação, fragmentação cambial e emigração qualificada.",
+      "watch": [
+        "inflação e câmbio",
+        "exportações de petróleo",
+        "infraestrutura energética",
+        "financiamento comercial",
+        "emigração qualificada",
+        "investimento"
+      ],
+      "search_text": "Irã dossiê país história econômica petróleo nacionalização revolução sanções inflação BRICS 2026"
+    }
+  }
+}

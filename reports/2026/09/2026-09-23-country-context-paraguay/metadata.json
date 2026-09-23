@@ -1,0 +1,126 @@
+{
+  "id": "MT-CC-2026-09-23-paraguay",
+  "slug": "2026-09-23-country-context-paraguay",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:20:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "PY",
+        "slug": "paraguay"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "url": "/reports/2026/09/2026-09-23-country-context-paraguay.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Paraguay: war-shaped state formation, hydroelectric rents and the transition from low-cost agriculture to investment-grade growth",
+      "deck": "Paraguay's small, landlocked economy was profoundly reshaped by nineteenth-century war, twentieth-century authoritarian rule and later integration through Itaipu, agriculture and Mercosur; in 2026 strong growth, renewable electricity and improving credit quality create an opportunity to raise productivity beyond commodities and informality.",
+      "tags": [
+        "Paraguay",
+        "economic history",
+        "Itaipu",
+        "agriculture",
+        "investment grade",
+        "Mercosur"
+      ],
+      "keywords": [
+        "Paraguay economic history",
+        "Paraguay economy 2026",
+        "Itaipu",
+        "Paraguay investment grade",
+        "soy Paraguay",
+        "Mercosur Paraguay"
+      ],
+      "regime": "Paraguay enters 2026 with strong macro credibility, high growth and abundant renewable electricity; the structural challenge is converting those advantages into formal, diversified and higher-productivity employment.",
+      "key_risk": "A commodity or hydrological shock combined with fiscal slippage could expose how much of recent strength still depends on agriculture and energy cycles.",
+      "watch": [
+        "formal employment",
+        "fiscal deficit",
+        "Itaipu/industrial electricity use",
+        "agricultural exports",
+        "private investment",
+        "sovereign spreads"
+      ],
+      "search_text": "Paraguay country dossier economic history Triple Alliance War Stroessner Itaipu soy investment grade Mercosur 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Paraguai: formação estatal marcada pela guerra, rendas hidrelétricas e a transição da agricultura de baixo custo para crescimento investment grade",
+      "deck": "A pequena economia sem litoral do Paraguai foi profundamente remodelada pela guerra do século XIX, pelo autoritarismo do século XX e depois pela integração via Itaipu, agricultura e Mercosul; em 2026 crescimento forte, eletricidade renovável e melhora do crédito criam oportunidade de elevar produtividade além de commodities e informalidade.",
+      "tags": [
+        "Paraguai",
+        "história econômica",
+        "Itaipu",
+        "agricultura",
+        "investment grade",
+        "Mercosul"
+      ],
+      "keywords": [
+        "história econômica Paraguai",
+        "economia Paraguai 2026",
+        "Itaipu",
+        "Paraguai investment grade",
+        "soja Paraguai",
+        "Mercosul Paraguai"
+      ],
+      "regime": "O Paraguai entra em 2026 com forte credibilidade macro, crescimento elevado e eletricidade renovável abundante; o desafio é converter vantagens em emprego formal, diversificado e de maior produtividade.",
+      "key_risk": "Choque de commodities ou hidrologia combinado a deterioração fiscal pode mostrar quanto da força recente ainda depende de agricultura e energia.",
+      "watch": [
+        "emprego formal",
+        "déficit fiscal",
+        "uso industrial de Itaipu",
+        "exportações agrícolas",
+        "investimento privado",
+        "spreads soberanos"
+      ],
+      "search_text": "Paraguai dossiê país história econômica Guerra Tríplice Aliança Stroessner Itaipu soja investment grade Mercosul 2026"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "MT-CC-2026-09-23-india",
+  "slug": "2026-09-23-country-context-india",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:25:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "asia-pacific"
+    ],
+    "subregions": [
+      "south-asia"
+    ],
+    "countries": [
+      {
+        "code": "IN",
+        "slug": "india"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "strategic-competition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-india.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "India: demographic scale, institutional continuity and the unfinished transformation from agriculture to high-productivity employment",
+      "deck": "India combines civilizational depth, colonial institutional legacies, post-independence state building and a post-1991 market acceleration; in 2026 its central economic problem is converting exceptional demographic and digital scale into mass productive employment, urban capacity and higher productivity.",
+      "tags": [
+        "India",
+        "economic history",
+        "demography",
+        "industrialization",
+        "digital public infrastructure",
+        "employment",
+        "BRICS"
+      ],
+      "keywords": [
+        "India economic history",
+        "India 2026 economy",
+        "demographic dividend India",
+        "India manufacturing",
+        "digital public infrastructure India",
+        "India labour market",
+        "BRICS India"
+      ],
+      "regime": "India is in a high-growth transition in which demographic scale, digital infrastructure and public investment are strong, but the decisive bottleneck is the movement of workers into productive formal employment.",
+      "key_risk": "If job creation, skills and urban capacity lag the expansion of the working-age population, high aggregate growth can coexist with persistent informality and uneven household mobility.",
+      "watch": [
+        "manufacturing employment",
+        "female labour participation",
+        "learning outcomes",
+        "urban housing and infrastructure",
+        "private investment",
+        "state-level productivity dispersion"
+      ],
+      "search_text": "India country dossier economic history Mughal British Raj planning 1991 reform services manufacturing demographics employment digital public infrastructure BRICS 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Índia: escala demográfica, continuidade institucional e a transformação incompleta da agricultura para empregos de alta produtividade",
+      "deck": "A Índia combina profundidade civilizacional, legados institucionais coloniais, construção estatal pós-independência e aceleração de mercado após 1991; em 2026, seu problema econômico central é converter escala demográfica e digital excepcional em emprego produtivo de massa, capacidade urbana e maior produtividade.",
+      "tags": [
+        "Índia",
+        "história econômica",
+        "demografia",
+        "industrialização",
+        "infraestrutura pública digital",
+        "emprego",
+        "BRICS"
+      ],
+      "keywords": [
+        "história econômica Índia",
+        "economia Índia 2026",
+        "dividendo demográfico Índia",
+        "manufatura Índia",
+        "infraestrutura pública digital Índia",
+        "mercado de trabalho Índia",
+        "BRICS Índia"
+      ],
+      "regime": "A Índia vive transição de alto crescimento em que escala demográfica, infraestrutura digital e investimento público são fortes, mas o gargalo decisivo é mover trabalhadores para emprego formal produtivo.",
+      "key_risk": "Se criação de empregos, qualificação e capacidade urbana ficarem atrás da expansão da população em idade ativa, crescimento agregado elevado pode coexistir com informalidade persistente e mobilidade desigual.",
+      "watch": [
+        "emprego manufatureiro",
+        "participação feminina",
+        "resultados de aprendizagem",
+        "moradia e infraestrutura urbana",
+        "investimento privado",
+        "dispersão de produtividade entre estados"
+      ],
+      "search_text": "Índia dossiê país história econômica Mughal Raj britânico planejamento reforma 1991 serviços manufatura demografia emprego infraestrutura pública digital BRICS 2026"
+    }
+  }
+}

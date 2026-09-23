@@ -1,0 +1,133 @@
+{
+  "id": "MT-CC-2026-09-23-china",
+  "slug": "2026-09-23-country-context-china",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:20:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "asia-pacific"
+    ],
+    "subregions": [
+      "east-asia"
+    ],
+    "countries": [
+      {
+        "code": "CN",
+        "slug": "china"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "strategic-competition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-china.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "China: state formation, industrial scale and the transition from investment-led growth to a mature economy",
+      "deck": "China's present economic power rests on a long history of state capacity, a twentieth-century revolutionary rupture and an extraordinary post-1978 industrial transformation; by 2026 the central problem has shifted from building capacity to allocating income, capital and risk across an aging, highly productive but increasingly imbalanced economy.",
+      "tags": [
+        "China",
+        "economic history",
+        "industrialization",
+        "state capacity",
+        "demography",
+        "manufacturing",
+        "BRICS"
+      ],
+      "keywords": [
+        "China economic history",
+        "China 2026 economy",
+        "Chinese industrialization",
+        "property adjustment",
+        "Chinese demography",
+        "state capacity China",
+        "BRICS China"
+      ],
+      "regime": "China is moving from an investment- and property-intensive convergence model toward a mature economy in which consumption, productivity, aging and balance-sheet repair matter more than the simple expansion of industrial capacity.",
+      "key_risk": "A prolonged combination of weak household demand, property losses, local-government debt and external trade restrictions could reduce returns to China's otherwise exceptional industrial capacity.",
+      "watch": [
+        "household consumption share",
+        "property sales and inventories",
+        "local-government financing",
+        "producer prices and capacity utilization",
+        "labour force and retirement reform",
+        "advanced manufacturing productivity"
+      ],
+      "search_text": "China country dossier economic history state capacity industrialization Mao reform opening WTO property demographics consumption manufacturing BRICS 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "China: formação estatal, escala industrial e a transição do crescimento liderado por investimento para uma economia madura",
+      "deck": "O poder econômico atual da China resulta de longa história de capacidade estatal, ruptura revolucionária no século XX e extraordinária transformação industrial após 1978; em 2026, o problema central passou de construir capacidade para distribuir renda, capital e risco em uma economia envelhecida, altamente produtiva e mais desequilibrada.",
+      "tags": [
+        "China",
+        "história econômica",
+        "industrialização",
+        "capacidade estatal",
+        "demografia",
+        "manufatura",
+        "BRICS"
+      ],
+      "keywords": [
+        "história econômica China",
+        "economia China 2026",
+        "industrialização chinesa",
+        "ajuste imobiliário China",
+        "demografia chinesa",
+        "capacidade estatal China",
+        "BRICS China"
+      ],
+      "regime": "A China está saindo de um modelo de convergência intensivo em investimento e imóveis para uma economia madura em que consumo, produtividade, envelhecimento e reparo de balanços importam mais do que simples expansão de capacidade industrial.",
+      "key_risk": "Uma combinação prolongada de demanda familiar fraca, perdas imobiliárias, dívida local e restrições comerciais externas pode reduzir o retorno da excepcional capacidade industrial chinesa.",
+      "watch": [
+        "participação do consumo familiar",
+        "vendas e estoques imobiliários",
+        "financiamento de governos locais",
+        "preços ao produtor e utilização da capacidade",
+        "força de trabalho e reforma previdenciária",
+        "produtividade da manufatura avançada"
+      ],
+      "search_text": "China dossiê país história econômica capacidade estatal industrialização Mao reforma abertura OMC imóveis demografia consumo manufatura BRICS 2026"
+    }
+  }
+}

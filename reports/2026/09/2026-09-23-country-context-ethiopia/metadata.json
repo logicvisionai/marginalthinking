@@ -1,0 +1,130 @@
+{
+  "id": "MT-CC-2026-09-23-ethiopia",
+  "slug": "2026-09-23-country-context-ethiopia",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:45:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "africa"
+    ],
+    "subregions": [
+      "sub-saharan-africa"
+    ],
+    "countries": [
+      {
+        "code": "ET",
+        "slug": "ethiopia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "political-stability"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-ethiopia.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Ethiopia: highland state formation, demographic scale and the difficult transition from public-investment growth to a market-based economy",
+      "deck": "Ethiopia combines a long history of highland state formation with one of Africa's largest populations and a recent model of state-led infrastructure and industrial investment; in 2026 rapid growth coexists with inflation, foreign-exchange reform, debt restructuring and the social consequences of recent conflict.",
+      "tags": [
+        "Ethiopia",
+        "economic history",
+        "developmental state",
+        "foreign exchange",
+        "demography",
+        "East Africa",
+        "BRICS"
+      ],
+      "keywords": [
+        "Ethiopia economic history",
+        "Ethiopia economy 2026",
+        "Ethiopia FX reform",
+        "Ethiopia developmental state",
+        "Ethiopia demographics",
+        "BRICS Ethiopia"
+      ],
+      "regime": "Ethiopia is attempting to move from a public-investment and administratively allocated growth model toward a more market-based system while preserving exceptionally high growth and rebuilding reserves.",
+      "key_risk": "Exchange-rate reform can lose credibility if inflation, reserve weakness or renewed conflict prevents private exports and investment from responding.",
+      "watch": [
+        "FX premium",
+        "inflation",
+        "foreign reserves",
+        "private credit",
+        "debt restructuring",
+        "conflict and displacement indicators"
+      ],
+      "search_text": "Ethiopia country dossier economic history empire Derg developmental state infrastructure FX reform demographics BRICS 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Etiópia: formação estatal nas terras altas, escala demográfica e a difícil transição do crescimento por investimento público para uma economia de mercado",
+      "deck": "A Etiópia combina longa história de formação estatal nas terras altas com uma das maiores populações da África e um modelo recente de infraestrutura e investimento industrial liderado pelo Estado; em 2026 crescimento rápido convive com inflação, reforma cambial, reestruturação da dívida e consequências sociais de conflitos recentes.",
+      "tags": [
+        "Etiópia",
+        "história econômica",
+        "Estado desenvolvimentista",
+        "câmbio",
+        "demografia",
+        "África Oriental",
+        "BRICS"
+      ],
+      "keywords": [
+        "história econômica Etiópia",
+        "economia Etiópia 2026",
+        "reforma cambial Etiópia",
+        "Estado desenvolvimentista Etiópia",
+        "demografia Etiópia",
+        "BRICS Etiópia"
+      ],
+      "regime": "A Etiópia tenta passar de um modelo de investimento público e alocação administrativa para sistema mais orientado por mercado mantendo crescimento excepcional e reconstruindo reservas.",
+      "key_risk": "A reforma cambial pode perder credibilidade se inflação, reservas fracas ou conflito renovado impedirem resposta de exportações e investimento privados.",
+      "watch": [
+        "prêmio cambial",
+        "inflação",
+        "reservas",
+        "crédito privado",
+        "reestruturação da dívida",
+        "conflito e deslocamento"
+      ],
+      "search_text": "Etiópia dossiê país história econômica império Derg Estado desenvolvimentista infraestrutura reforma cambial demografia BRICS 2026"
+    }
+  }
+}

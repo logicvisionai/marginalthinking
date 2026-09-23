@@ -1,0 +1,143 @@
+{
+  "id": "MT-PE-2026-09-23-MERCOSUR",
+  "slug": "2026-09-23-mercosur-system",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:34:00-03:00",
+  "kind": "regional-integration-system",
+  "priority": 15,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "multi-country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "AR",
+        "slug": "argentina"
+      },
+      {
+        "code": "BO",
+        "slug": "bolivia"
+      },
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "PY",
+        "slug": "paraguay"
+      },
+      {
+        "code": "UY",
+        "slug": "uruguay"
+      },
+      {
+        "code": "VE",
+        "slug": "venezuela"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "strategic-competition",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "url": "/reports/2026/09/2026-09-23-mercosur-system.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Mercosur in 2026: from democratic rapprochement to an incomplete customs union facing its largest external opening",
+      "deck": "A structural reconstruction of Mercosur as a political peace project, imperfect customs union, production network and external negotiating platform at the moment Bolivia is incorporated and the EU agreement enters provisional application.",
+      "tags": [
+        "Mercosur",
+        "South America",
+        "regional integration",
+        "EU–Mercosur",
+        "customs union",
+        "trade"
+      ],
+      "keywords": [
+        "Mercosur 2026",
+        "Mercosur members",
+        "Bolivia Mercosur",
+        "Venezuela suspended Mercosur",
+        "EU Mercosur agreement 2026",
+        "Mercosur customs union"
+      ],
+      "regime": "Mercosur remains an intergovernmental and incomplete customs union with durable political institutions; Bolivia's accession and the provisional EU agreement create the largest implementation test since its founding.",
+      "key_risk": "If external liberalization advances without reducing internal customs, regulatory and infrastructure frictions, Mercosur may remain politically durable but economically shallow.",
+      "watch": [
+        "EU agreement preference utilization",
+        "Bolivia acquis incorporation",
+        "intra-bloc investment",
+        "customs and logistics times",
+        "regional energy flows",
+        "Venezuela status"
+      ],
+      "search_text": "Mercosur 2026 deep research history Treaty Asuncion Ouro Preto Bolivia accession Venezuela suspension EU agreement customs union regional production integration"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Mercosul em 2026: da aproximação democrática a uma união aduaneira incompleta diante de sua maior abertura externa",
+      "deck": "Reconstrução estrutural do Mercosul como projeto político de paz, união aduaneira imperfeita, rede produtiva e plataforma de negociação externa no momento em que a Bolívia é incorporada e o acordo com a UE entra em aplicação provisória.",
+      "tags": [
+        "Mercosul",
+        "América do Sul",
+        "integração regional",
+        "UE–Mercosul",
+        "união aduaneira",
+        "comércio"
+      ],
+      "keywords": [
+        "Mercosul 2026",
+        "membros Mercosul",
+        "Bolívia Mercosul",
+        "Venezuela suspensa Mercosul",
+        "acordo UE Mercosul 2026",
+        "união aduaneira Mercosul"
+      ],
+      "regime": "O Mercosul permanece união aduaneira intergovernamental e incompleta com instituições políticas duráveis; a entrada da Bolívia e o acordo provisório com a UE criam o maior teste de implementação desde sua fundação.",
+      "key_risk": "Se a abertura externa avançar sem reduzir fricções aduaneiras, regulatórias e de infraestrutura internas, o Mercosul pode permanecer politicamente durável mas economicamente raso.",
+      "watch": [
+        "utilização das preferências do acordo UE",
+        "incorporação normativa da Bolívia",
+        "investimento intrabloco",
+        "tempos aduaneiros e logísticos",
+        "fluxos de energia",
+        "status da Venezuela"
+      ],
+      "search_text": "Mercosul 2026 pesquisa profunda história Tratado Assunção Ouro Preto Bolívia adesão Venezuela suspensão acordo UE união aduaneira integração produtiva"
+    }
+  }
+}

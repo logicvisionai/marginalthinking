@@ -1,0 +1,127 @@
+{
+  "id": "MT-CC-2026-09-23-argentina",
+  "slug": "2026-09-23-country-context-argentina",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:10:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "AR",
+        "slug": "argentina"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-argentina.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Argentina: frontier wealth, distributive conflict and the century-long search for a stable monetary-fiscal regime",
+      "deck": "Argentina moved from one of the world's richest agro-export economies to repeated cycles of industrialization, inflation, debt crisis and stabilization; in 2026 the central question is whether the latest fiscal and monetary adjustment can become an institutional regime rather than another temporary stabilization.",
+      "tags": [
+        "Argentina",
+        "economic history",
+        "inflation",
+        "stabilization",
+        "Vaca Muerta",
+        "Mercosur"
+      ],
+      "keywords": [
+        "Argentina economic history",
+        "Argentina inflation",
+        "Argentina economy 2026",
+        "convertibility",
+        "Vaca Muerta",
+        "Mercosur Argentina"
+      ],
+      "regime": "Argentina is in a recovery from a severe stabilization shock, with fiscal adjustment and disinflation creating a potential new regime whose durability has not yet been demonstrated across a full political-economic cycle.",
+      "key_risk": "The central risk is that fiscal and monetary discipline weakens as growth returns, reviving exchange-rate pressure and the historical inflation-indexation cycle.",
+      "watch": [
+        "inflation expectations",
+        "primary balance",
+        "reserves",
+        "FX regime",
+        "real wages and poverty",
+        "Vaca Muerta exports"
+      ],
+      "search_text": "Argentina country dossier economic history agro export industrialization inflation convertibility stabilization 2026 Mercosur"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Argentina: riqueza de fronteira, conflito distributivo e a busca centenária por um regime monetário-fiscal estável",
+      "deck": "A Argentina passou de uma das economias agroexportadoras mais ricas do mundo para ciclos repetidos de industrialização, inflação, crise da dívida e estabilização; em 2026 a questão central é se o ajuste fiscal e monetário atual consegue virar regime institucional em vez de outra estabilização temporária.",
+      "tags": [
+        "Argentina",
+        "história econômica",
+        "inflação",
+        "estabilização",
+        "Vaca Muerta",
+        "Mercosul"
+      ],
+      "keywords": [
+        "história econômica Argentina",
+        "inflação Argentina",
+        "economia Argentina 2026",
+        "conversibilidade",
+        "Vaca Muerta",
+        "Mercosul Argentina"
+      ],
+      "regime": "A Argentina está em recuperação de um choque de estabilização severo; ajuste fiscal e desinflação criam potencial novo regime, cuja durabilidade ainda não foi testada por um ciclo político-econômico completo.",
+      "key_risk": "O risco central é a disciplina fiscal e monetária enfraquecer quando o crescimento voltar, reativando pressão cambial e o ciclo histórico inflação-indexação.",
+      "watch": [
+        "expectativas de inflação",
+        "resultado primário",
+        "reservas",
+        "regime cambial",
+        "salário real e pobreza",
+        "exportações de Vaca Muerta"
+      ],
+      "search_text": "Argentina dossiê país história econômica agroexportação industrialização inflação conversibilidade estabilização 2026 Mercosul"
+    }
+  }
+}

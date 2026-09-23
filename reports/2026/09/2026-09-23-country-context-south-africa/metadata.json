@@ -1,0 +1,134 @@
+{
+  "id": "MT-CC-2026-09-23-south-africa",
+  "slug": "2026-09-23-country-context-south-africa",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:35:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "africa"
+    ],
+    "subregions": [
+      "sub-saharan-africa"
+    ],
+    "countries": [
+      {
+        "code": "ZA",
+        "slug": "south-africa"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "strategic-competition",
+    "political-stability"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-south-africa.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "South Africa: mineral wealth, apartheid's spatial legacy and the productivity cost of exclusion",
+      "deck": "South Africa built Africa's deepest mining-financial-industrial system through gold, diamonds and state-supported infrastructure, but apartheid locked labour and urban space into extreme inequality; three decades after democratization, weak investment, unemployment, electricity and logistics remain the central constraints on inclusive growth.",
+      "tags": [
+        "South Africa",
+        "apartheid",
+        "mining",
+        "inequality",
+        "unemployment",
+        "infrastructure",
+        "BRICS"
+      ],
+      "keywords": [
+        "South Africa economic history",
+        "apartheid economy",
+        "South Africa unemployment",
+        "Eskom reform",
+        "South Africa inequality",
+        "mineral economy",
+        "BRICS South Africa"
+      ],
+      "regime": "South Africa is a sophisticated but low-growth industrial-financial economy in which infrastructure reform has begun to remove power constraints, while unemployment, spatial inequality and weak investment remain the binding social and productivity problems.",
+      "key_risk": "If electricity improvements are not matched by logistics, municipal capacity and private investment, growth may remain too weak to reduce structural unemployment.",
+      "watch": [
+        "private fixed investment",
+        "employment rate",
+        "electricity availability",
+        "Transnet rail and port throughput",
+        "municipal finance",
+        "skills outcomes"
+      ],
+      "search_text": "South Africa country dossier economic history mineral revolution apartheid inequality unemployment Eskom Transnet infrastructure BRICS 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "África do Sul: riqueza mineral, legado espacial do apartheid e o custo produtivo da exclusão",
+      "deck": "A África do Sul construiu o sistema minerador-financeiro-industrial mais profundo da África com ouro, diamantes e infraestrutura estatal, mas o apartheid cristalizou trabalho e espaço urbano em desigualdade extrema; três décadas após a democratização, investimento fraco, desemprego, eletricidade e logística permanecem restrições centrais.",
+      "tags": [
+        "África do Sul",
+        "apartheid",
+        "mineração",
+        "desigualdade",
+        "desemprego",
+        "infraestrutura",
+        "BRICS"
+      ],
+      "keywords": [
+        "história econômica África do Sul",
+        "economia do apartheid",
+        "desemprego África do Sul",
+        "reforma Eskom",
+        "desigualdade África do Sul",
+        "economia mineral",
+        "BRICS África do Sul"
+      ],
+      "regime": "A África do Sul é uma economia industrial-financeira sofisticada mas de baixo crescimento, na qual reformas começaram a remover restrições elétricas enquanto desemprego, desigualdade espacial e investimento fraco permanecem problemas centrais.",
+      "key_risk": "Se a melhora da eletricidade não for acompanhada por logística, capacidade municipal e investimento privado, o crescimento pode continuar insuficiente para reduzir desemprego estrutural.",
+      "watch": [
+        "investimento fixo privado",
+        "taxa de emprego",
+        "disponibilidade elétrica",
+        "volumes ferroviários e portuários da Transnet",
+        "finanças municipais",
+        "resultados de qualificação"
+      ],
+      "search_text": "África do Sul dossiê país história econômica revolução mineral apartheid desigualdade desemprego Eskom Transnet infraestrutura BRICS 2026"
+    }
+  }
+}

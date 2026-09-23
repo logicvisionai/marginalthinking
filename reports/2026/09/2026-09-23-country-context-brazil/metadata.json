@@ -1,0 +1,135 @@
+{
+  "id": "MT-CC-2026-09-23-brazil",
+  "slug": "2026-09-23-country-context-brazil",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:30:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "strategic-competition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-brazil.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Brazil: continental scale, inequality and the long struggle to turn state capacity and natural wealth into productivity",
+      "deck": "Brazil moved from colonial extraction and slavery through state-led industrialization, inflationary crisis, stabilization and commodity-financed social expansion; in 2026 its central challenge is to raise productivity and investment while preserving macro stability, reducing inequality and integrating a continental economy.",
+      "tags": [
+        "Brazil",
+        "economic history",
+        "inequality",
+        "productivity",
+        "Real Plan",
+        "BRICS",
+        "Mercosur"
+      ],
+      "keywords": [
+        "Brazil economic history",
+        "Brazil 2026 economy",
+        "Brazil productivity",
+        "Brazil inequality",
+        "Real Plan",
+        "Brazil tax reform",
+        "BRICS Brazil",
+        "Mercosur Brazil"
+      ],
+      "regime": "Brazil is a diversified middle-income economy with strong resource and institutional assets, but low investment and productivity keep convergence below what its scale and capabilities would otherwise permit.",
+      "key_risk": "High fiscal risk premia and weak capital formation could offset gains from tax reform, energy abundance and a tighter labour market.",
+      "watch": [
+        "fixed investment",
+        "public debt and interest burden",
+        "VAT implementation",
+        "productivity and learning outcomes",
+        "formal employment",
+        "infrastructure concessions"
+      ],
+      "search_text": "Brazil country dossier economic history slavery industrialization inflation Real Plan commodities inequality productivity tax reform BRICS Mercosur 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Brasil: escala continental, desigualdade e a longa dificuldade de converter capacidade estatal e riqueza natural em produtividade",
+      "deck": "O Brasil passou de extração colonial e escravidão para industrialização liderada pelo Estado, crise inflacionária, estabilização e expansão social financiada por commodities; em 2026, o desafio central é elevar produtividade e investimento preservando estabilidade macroeconômica, reduzindo desigualdade e integrando uma economia continental.",
+      "tags": [
+        "Brasil",
+        "história econômica",
+        "desigualdade",
+        "produtividade",
+        "Plano Real",
+        "BRICS",
+        "Mercosul"
+      ],
+      "keywords": [
+        "história econômica Brasil",
+        "economia Brasil 2026",
+        "produtividade Brasil",
+        "desigualdade Brasil",
+        "Plano Real",
+        "reforma tributária Brasil",
+        "BRICS Brasil",
+        "Mercosul Brasil"
+      ],
+      "regime": "O Brasil é uma economia diversificada de renda média com fortes ativos de recursos e instituições, mas investimento e produtividade baixos mantêm a convergência abaixo do que sua escala permitiria.",
+      "key_risk": "Prêmios de risco fiscal elevados e formação de capital fraca podem neutralizar ganhos da reforma tributária, abundância energética e mercado de trabalho apertado.",
+      "watch": [
+        "investimento fixo",
+        "dívida pública e carga de juros",
+        "implementação do IVA",
+        "produtividade e aprendizagem",
+        "emprego formal",
+        "concessões de infraestrutura"
+      ],
+      "search_text": "Brasil dossiê país história econômica escravidão industrialização inflação Plano Real commodities desigualdade produtividade reforma tributária BRICS Mercosul 2026"
+    }
+  }
+}

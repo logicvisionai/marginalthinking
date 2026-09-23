@@ -1,0 +1,171 @@
+{
+  "id": "MT-GS-2026-09-23-BRICS",
+  "slug": "2026-09-23-brics-system",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:32:00-03:00",
+  "kind": "global-institution-system",
+  "priority": 14,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "multi-country",
+    "regions": [
+      "africa",
+      "americas",
+      "asia-pacific",
+      "europe",
+      "middle-east"
+    ],
+    "subregions": [],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "RU",
+        "slug": "russia"
+      },
+      {
+        "code": "IN",
+        "slug": "india"
+      },
+      {
+        "code": "CN",
+        "slug": "china"
+      },
+      {
+        "code": "ZA",
+        "slug": "south-africa"
+      },
+      {
+        "code": "SA",
+        "slug": "saudi-arabia"
+      },
+      {
+        "code": "EG",
+        "slug": "egypt"
+      },
+      {
+        "code": "AE",
+        "slug": "united-arab-emirates"
+      },
+      {
+        "code": "ET",
+        "slug": "ethiopia"
+      },
+      {
+        "code": "IR",
+        "slug": "iran"
+      },
+      {
+        "code": "ID",
+        "slug": "indonesia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "trade-investment",
+    "banking-credit",
+    "capital-markets",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "strategic-competition",
+    "defense-security",
+    "demographic-transition",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "url": "/reports/2026/09/2026-09-23-brics-system.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "BRICS in 2026: from an investment acronym to a heterogeneous institution of Global South coordination",
+      "deck": "An institutional and economic reconstruction of how BRICS evolved from a four-country analytical category into an 11-member coordination system with a development bank, wider diplomatic reach and rising internal heterogeneity.",
+      "tags": [
+        "BRICS",
+        "Global South",
+        "New Development Bank",
+        "international institutions",
+        "local currencies",
+        "development finance"
+      ],
+      "keywords": [
+        "BRICS 2026",
+        "BRICS members",
+        "New Development Bank",
+        "BRICS common currency",
+        "BRICS local currencies",
+        "BRICS expansion",
+        "New Delhi Declaration"
+      ],
+      "regime": "Expanded BRICS operates as a consensus-based coordination network rather than an integrated economic union, combining greater aggregate scale with higher internal heterogeneity.",
+      "key_risk": "Expansion can increase diplomatic visibility faster than operational integration, producing a gap between declarations and implemented financial, trade and infrastructure mechanisms.",
+      "watch": [
+        "NDB approvals and disbursements",
+        "local-currency financing",
+        "payment-system interoperability",
+        "intra-BRICS trade concentration",
+        "implementation continuity across presidencies",
+        "partner-country accession"
+      ],
+      "search_text": "BRICS 2026 deep research history members expansion New Development Bank NDB local currencies common currency New Delhi Declaration Global South governance"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "BRICS em 2026: de acrônimo de investimento a instituição heterogênea de coordenação do Sul Global",
+      "deck": "Reconstrução institucional e econômica de como o BRICS passou de categoria analítica de quatro países para sistema de coordenação de 11 membros com banco de desenvolvimento, alcance diplomático maior e crescente heterogeneidade interna.",
+      "tags": [
+        "BRICS",
+        "Sul Global",
+        "Novo Banco de Desenvolvimento",
+        "instituições internacionais",
+        "moedas locais",
+        "financiamento ao desenvolvimento"
+      ],
+      "keywords": [
+        "BRICS 2026",
+        "membros BRICS",
+        "Novo Banco de Desenvolvimento",
+        "moeda comum BRICS",
+        "moedas locais BRICS",
+        "expansão BRICS",
+        "Declaração de Nova Délhi"
+      ],
+      "regime": "O BRICS ampliado opera como rede de coordenação por consenso, não como união econômica integrada, combinando maior escala agregada com heterogeneidade interna maior.",
+      "key_risk": "A expansão pode aumentar visibilidade diplomática mais rápido que integração operacional, criando distância entre declarações e mecanismos financeiros, comerciais e de infraestrutura implementados.",
+      "watch": [
+        "aprovações e desembolsos do NDB",
+        "financiamento em moedas locais",
+        "interoperabilidade de pagamentos",
+        "concentração do comércio intra-BRICS",
+        "continuidade entre presidências",
+        "adesão de parceiros"
+      ],
+      "search_text": "BRICS 2026 pesquisa profunda história membros expansão Novo Banco Desenvolvimento NDB moedas locais moeda comum Nova Délhi Sul Global governança"
+    }
+  }
+}

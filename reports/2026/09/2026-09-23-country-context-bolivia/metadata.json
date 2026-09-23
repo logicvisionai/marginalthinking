@@ -1,0 +1,127 @@
+{
+  "id": "MT-CC-2026-09-23-bolivia",
+  "slug": "2026-09-23-country-context-bolivia",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:15:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BO",
+        "slug": "bolivia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "demographic-transition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "context_role": "country-context",
+  "related_research_ids": [],
+  "url": "/reports/2026/09/2026-09-23-country-context-bolivia.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Bolivia: extractive cycles, revolutionary redistribution and the foreign-exchange constraint after the gas boom",
+      "deck": "Bolivia's history links silver, tin, gas and lithium to repeated struggles over who controls resource rents and how a landlocked, high-altitude economy integrates with neighbours; in 2026 falling buffers, inflation and recession make macro stabilization and export reconstruction the immediate structural test.",
+      "tags": [
+        "Bolivia",
+        "economic history",
+        "gas",
+        "lithium",
+        "hyperinflation",
+        "Mercosur"
+      ],
+      "keywords": [
+        "Bolivia economic history",
+        "Bolivia economy 2026",
+        "Bolivia gas",
+        "Bolivia lithium",
+        "Bolivia inflation",
+        "Mercosur Bolivia"
+      ],
+      "regime": "Bolivia is entering a painful transition away from the gas-boom/fixed-exchange-rate model, with recession and inflation forcing a reconstruction of fiscal, currency and export institutions.",
+      "key_risk": "If stabilization depletes household income without rebuilding export capacity and reserves, the country may trade an FX crisis for prolonged stagnation.",
+      "watch": [
+        "foreign reserves",
+        "inflation",
+        "fuel subsidies",
+        "gas production",
+        "lithium investment",
+        "nontraditional exports"
+      ],
+      "search_text": "Bolivia country dossier economic history Potosi tin 1952 revolution hyperinflation gas boom lithium 2026 Mercosur"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Bolívia: ciclos extrativos, redistribuição revolucionária e a restrição cambial depois do boom do gás",
+      "deck": "A história boliviana conecta prata, estanho, gás e lítio a disputas recorrentes sobre quem controla rendas de recursos e como uma economia sem litoral e de grande altitude se integra aos vizinhos; em 2026 a queda dos amortecedores, inflação e recessão tornam estabilização macro e reconstrução exportadora o teste imediato.",
+      "tags": [
+        "Bolívia",
+        "história econômica",
+        "gás",
+        "lítio",
+        "hiperinflação",
+        "Mercosul"
+      ],
+      "keywords": [
+        "história econômica Bolívia",
+        "economia Bolívia 2026",
+        "gás Bolívia",
+        "lítio Bolívia",
+        "inflação Bolívia",
+        "Mercosul Bolívia"
+      ],
+      "regime": "A Bolívia entra numa transição dolorosa para fora do modelo do boom do gás com câmbio administrado; recessão e inflação obrigam reconstrução das instituições fiscais, cambiais e exportadoras.",
+      "key_risk": "Se a estabilização reduzir renda sem reconstruir capacidade exportadora e reservas, o país pode trocar crise cambial por estagnação prolongada.",
+      "watch": [
+        "reservas",
+        "inflação",
+        "subsídio a combustíveis",
+        "produção de gás",
+        "investimento em lítio",
+        "exportações não tradicionais"
+      ],
+      "search_text": "Bolívia dossiê país história econômica Potosí estanho revolução 1952 hiperinflação boom do gás lítio 2026 Mercosul"
+    }
+  }
+}
