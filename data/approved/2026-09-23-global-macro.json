@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-23",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T03:15:00Z",
+  "reviewed_commit": "a171dd47f6e369f8fb510b87d53b0897531e40ef",
+  "pending_blob_sha": "9f41045f879f30bbbdbcf588f646a02f93353ec9",
+  "source_blob_shas": {
+    "en": "faab2ef2f4a5d4ba4aa84225b27f632d98b39f29",
+    "pt-BR": "ed9ade6cebdf1b2bc70b9d70cd5e91acffb3c023"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {"result":"passed","summary":"Revision 1 is editorial/visual only. Comparison against the previously rejected English source confirms material numbers, dates, claims, causal framing, scenarios and factual conclusion are unchanged; the prior material factual spot checks therefore remain applicable."},
+    "taxonomy": {"result":"passed","summary":"Program, related program, dimensions, geography, topics, phenomena, format and cadence use controlled values and phenomena remains an array."},
+    "translation_semantics": {"result":"passed","summary":"EN and PT-BR preserve the same thesis, evidence status, numbers, mechanisms, risks and conclusions. PT-BR localization removes the previously blocking unnecessary English market shorthand without changing analytical meaning."},
+    "editorial_publication_readiness": {"result":"passed","summary":"Opening states the thesis directly; analytical headings identify mechanisms; PT-BR reads naturally after localization; no exposed QA/template language appears in the public prose; repetition is controlled and progression runs from thesis through evidence and mechanisms to risks and synthesis."},
+    "contextual_depth": {"result":"passed","summary":"The report incorporates the material institutional, monetary, industrial-energy and geopolitical mechanisms needed to interpret the current market moves without adding ornamental historical context."},
+    "visual_evidence_readiness": {"result":"passed","visual_signature":"1 single-unit Brent/WTI bar chart + 1 evidence table + 1 transmission flow + 1 geographic mechanism map in each locale","summary":"The previously misleading mixed-unit cross-asset chart was replaced in both locales by a USD-per-barrel Brent/WTI chart. Dollar-index and Treasury-yield observations remain in the table rather than being transformed onto an incompatible axis. Flow and map mechanisms remain semantically aligned EN/PT-BR.","limitations":"The geographic visual is a structured mechanism map rather than a cartographic map; geography is used to organize transmission channels and does not require precise corridor geometry for the report's thesis."}
+  },
+  "contrary_evidence": [
+    "Lower crude has not produced broad financial easing: the dollar and long U.S. yields remain restrictive and equity breadth is narrower than Nasdaq leadership.",
+    "European crude relief coexists with a large regional gas-cost disadvantage, limiting the inference from lower oil to industrial normalization.",
+    "Improved Gulf diplomacy and bypass capacity reduce tail risk but do not establish durable maritime normalization or full physical redundancy."
+  ],
+  "limitations": [
+    "Several market observations are point-in-time readings and can change quickly after the stated reference period.",
+    "The Ineos plant decision is evidence of a transmission mechanism, not sufficient by itself to establish economy-wide European deindustrialisation.",
+    "Diplomatic statements and partial pipeline restoration are not treated as verified durable normalization."
+  ],
+  "notes": "Revision 1 directly resolves both blocking issues recorded for revision 0. No public surfaces were modified by QA. Approval is bound to the exact pending and staged-source blob SHAs above.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-23",
+    "slug": "2026-09-23-global-macro",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T00:03:48-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "revision": 1,
+    "revision_reason": "QA retrabalho: replace mixed-unit cross-asset bar chart with a dimensionally coherent oil-price chart and localize unnecessary English market jargon in PT-BR without changing material factual claims.",
+    "supersedes_rejected_commit": "74b503c1b31d5fa226f543edaef2c5c39d4b027a",
+    "qa_fixes_applied": ["Replaced the mixed-unit Brent/WTI/DXY/10Y x20 chart with a single-unit Brent/WTI USD-per-barrel chart in both locales.","Removed the arbitrary Treasury-yield x20 transformation.","Localized PT-BR market jargon including cross-asset, duration, yields, capex and hawkish while preserving analytical meaning."],
+    "source_locale": "en",
+    "sources": {
+      "en": {"markdown":"staging/research/2026/09/2026-09-23-global-macro/en.md","title":"Global Macro — Oil relief reopens the AI trade, but the rate shock has not cleared","deck":"Oil below $100 has reduced an acute inflation tail risk, but a firm dollar, high long yields, European gas costs and incomplete Gulf normalization keep global financial conditions restrictive.","tags":["global macro","markets","oil","rates","AI","geopolitics"],"keywords":["Brent","Treasury yields","dollar","Nasdaq","European gas","Hormuz","AI capex"],"regime":"Energy-risk relief inside a still-restrictive global rate regime","key_risk":"A renewed Gulf supply disruption while long sovereign yields remain elevated","watch":["Gulf realized export throughput and Hormuz access","U.S. 10-year Treasury yield and dollar index","equity breadth beyond AI leaders","concrete U.S.-China policy outcomes"],"search_text":"Global macro September 23 2026 oil below 100 AI Nasdaq Treasury yields dollar European gas Gulf Hormuz U.S. China"},
+      "pt-BR": {"markdown":"staging/research/2026/09/2026-09-23-global-macro/pt-BR.md","title":"Global Macro — Alívio no petróleo reabre a tese de IA, mas o choque de juros não desapareceu","deck":"Petróleo abaixo de US$ 100 reduziu um risco inflacionário de cauda, mas dólar firme, juros longos elevados, custos europeus de gás e normalização incompleta do Golfo mantêm condições financeiras globais restritivas.","tags":["macro global","mercados","petróleo","juros","IA","geopolítica"],"keywords":["Brent","Treasury","dólar","Nasdaq","gás europeu","Ormuz","investimento em IA"],"regime":"Alívio do risco de energia dentro de um regime global de juros ainda restritivo","key_risk":"Nova interrupção da oferta do Golfo enquanto os juros soberanos longos permanecem elevados","watch":["Fluxo efetivo de exportações do Golfo e acesso a Ormuz","Treasury de 10 anos e índice do dólar","amplitude acionária além dos líderes de IA","resultados concretos da política EUA-China"],"search_text":"Global Macro 23 setembro 2026 petróleo abaixo 100 IA Nasdaq Treasury dólar gás europeu Golfo Ormuz EUA China"}
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy","politics"],
+    "geography": {"level":"global","regions":["americas","europe","asia-pacific","middle-east"],"subregions":["north-america","western-europe","east-asia","south-asia","gulf","latin-america-caribbean"],"countries":[]},
+    "topics": ["macroeconomics","monetary-policy","capital-markets","currencies","energy","commodities-resources","geopolitics-security"],
+    "phenomena": ["war-armed-conflict","strategic-competition","defense-security"],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
