@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-CC-2026-09-23-ethiopia",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-23T14:42:00Z",
-  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "reviewed_at": "2026-09-23T17:16:00Z",
+  "reviewed_commit": "16e7856027964d67dc096945296ba070958b284f",
   "pending_blob_sha": "0e8ac6f01ca79b62dc4ef4b2e297b14eecc9db12",
   "source_blob_shas": {
-    "en": "f4c71a550259fdf782cc1b2d492e1104a8f4ed32",
-    "pt-BR": "05e80af850ebf5819f076ac58da25822582e6242"
+    "en": "f8540d9df21e5f1ffb4a98c551a7194eded5a7a9",
+    "pt-BR": "f5f3cc632edec59670900f7b5343aa74fe361fcb"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -46,7 +46,7 @@
     "Historical series use changing territorial/statistical definitions.",
     "Current 2026 observations are time-sensitive."
   ],
-  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "notes": "QA v2 revision approval binds the expanded EN/PT-BR country-dossier blobs in 16e7856027964d67dc096945296ba070958b284f. The revision deepens fiscal, territorial, social and external transmission analysis while preserving the previous thesis and evidence cutoff.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -174,7 +174,7 @@
     ],
     "format": "country-dossier",
     "cadence": "event-driven",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": []
   }

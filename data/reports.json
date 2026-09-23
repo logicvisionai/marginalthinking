@@ -393,7 +393,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [],
     "title": "Argentina: frontier wealth, distributive conflict and the century-long search for a stable monetary-fiscal regime",
@@ -428,9 +428,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-argentina.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-argentina/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-bolivia",
@@ -487,7 +487,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [],
     "title": "Bolivia: extractive cycles, revolutionary redistribution and the foreign-exchange constraint after the gas boom",
@@ -522,9 +522,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-bolivia.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-bolivia/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-brazil",
@@ -779,7 +779,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [],
     "title": "Egypt: river-state continuity, demographic pressure and the struggle to finance a strategic crossroads",
@@ -815,9 +815,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-egypt.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-egypt/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:18:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "0b543707180a59e47d6280f2b03677a7e64ddd0d"
   },
   {
     "id": "MT-CC-2026-09-23-ethiopia",
@@ -875,7 +875,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [],
     "title": "Ethiopia: highland state formation, demographic scale and the difficult transition from public-investment growth to a market-based economy",
@@ -911,9 +911,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-ethiopia.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-ethiopia/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-india",
@@ -1070,7 +1070,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [],
     "title": "Indonesia: archipelagic state formation, commodity upgrading and the challenge of converting scale into productivity",
@@ -1106,9 +1106,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-indonesia.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-indonesia/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T15:56:00Z",
+    "qa_reviewed_at": "2026-09-23T17:18:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
+    "qa_reviewed_commit": "0b543707180a59e47d6280f2b03677a7e64ddd0d"
   },
   {
     "id": "MT-CC-2026-09-23-iran",
@@ -1260,7 +1260,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "title": "Paraguay: war-shaped state formation, hydroelectric rents and the transition from low-cost agriculture to investment-grade growth",
     "deck": "Paraguay's small, landlocked economy was profoundly reshaped by nineteenth-century war, twentieth-century authoritarian rule and later integration through Itaipu, agriculture and Mercosur; in 2026 strong growth, renewable electricity and improving credit quality create an opportunity to raise productivity beyond commodities and informality.",
@@ -1294,9 +1294,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-paraguay.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-paraguay/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-russia",
@@ -1459,7 +1459,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [
       "MT-CC-2026-09-18-saudi-arabia"
@@ -1498,9 +1498,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-saudi-arabia-deep.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T15:56:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-south-africa",
@@ -1658,7 +1658,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": [],
     "title": "United Arab Emirates: federation, hydrocarbon rents and the construction of a global logistics-finance platform",
@@ -1694,9 +1694,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-united-arab-emirates.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-united-arab-emirates/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-uruguay",
@@ -1753,7 +1753,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "title": "Uruguay: export pastoralism, early welfare institutions and the productivity challenge of a small aging economy",
     "deck": "Uruguay built unusually strong social and political institutions on a cattle-export economy, later combining welfare, state enterprises, financial openness and renewable energy; in 2026 its main constraint is not macro instability but slow productivity and demographic growth in a very small domestic market.",
@@ -1787,9 +1787,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-uruguay.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-uruguay/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-CC-2026-09-23-venezuela",
@@ -1849,7 +1849,7 @@
     "format": "country-dossier",
     "cadence": "event-driven",
     "source_locale": "en",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "title": "Venezuela: oil-state formation, institutional collapse and the economics of partial stabilization after hyperinflation",
     "deck": "Venezuela transformed from an agricultural exporter into one of the world's archetypal oil states, using petroleum rents to finance urbanization and social policy; the later collapse of production, institutions and money generated mass migration, and by 2026 partial market adaptation coexists with renewed extreme inflation.",
@@ -1883,9 +1883,9 @@
     "url": "/reports/2026/09/2026-09-23-country-context-venezuela.html",
     "markdown_url": "/reports/2026/09/2026-09-23-country-context-venezuela/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T17:16:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "16e7856027964d67dc096945296ba070958b284f"
   },
   {
     "id": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",

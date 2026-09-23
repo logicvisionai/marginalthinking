@@ -56,7 +56,7 @@
   "format": "country-dossier",
   "cadence": "event-driven",
   "source_locale": "en",
-  "revision": 1,
+  "revision": 2,
   "context_role": "country-context",
   "related_research_ids": [],
   "url": "/reports/2026/09/2026-09-23-country-context-indonesia.html",
@@ -129,7 +129,7 @@
     }
   },
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-09-23T15:56:00Z",
+  "qa_reviewed_at": "2026-09-23T17:18:00Z",
   "qa_confidence": "high",
-  "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
+  "qa_reviewed_commit": "0b543707180a59e47d6280f2b03677a7e64ddd0d"
 }

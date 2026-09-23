@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-CC-2026-09-23-indonesia",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-23T15:56:00Z",
-  "reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2",
+  "reviewed_at": "2026-09-23T17:18:00Z",
+  "reviewed_commit": "0b543707180a59e47d6280f2b03677a7e64ddd0d",
   "pending_blob_sha": "41a4db83aa89765c2797b5cb7829e3e3d4c6929d",
   "source_blob_shas": {
-    "en": "3b900bfc5e166d2244210643c836bd7da6292c10",
-    "pt-BR": "8877ca9e13ff414fc53f45b849acded16ec14919"
+    "en": "eabb4f018902f490c0d4d1a86aece8043c688050",
+    "pt-BR": "a2c0633defb4d33e749d0f60174b53c965cf1ae8"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -46,7 +46,7 @@
     "Historical series use changing territorial/statistical definitions.",
     "Current 2026 observations are time-sensitive."
   ],
-  "notes": "QA v2 reapproval binds the exact EN/PT-BR source blobs in 0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2; blocked internal editorial terminology was replaced by specific public-facing constraints without changing the substantive analysis.",
+  "notes": "QA v2 revision approval binds the expanded EN/PT-BR country-dossier blobs in 0b543707180a59e47d6280f2b03677a7e64ddd0d. The revision deepens regional, external, urban and household transmission analysis while preserving the previous thesis and evidence cutoff.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -175,7 +175,7 @@
     ],
     "format": "country-dossier",
     "cadence": "event-driven",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": []
   }

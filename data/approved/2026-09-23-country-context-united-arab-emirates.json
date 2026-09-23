@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-CC-2026-09-23-uae",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-23T14:42:00Z",
-  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "reviewed_at": "2026-09-23T17:16:00Z",
+  "reviewed_commit": "16e7856027964d67dc096945296ba070958b284f",
   "pending_blob_sha": "ee065bcb37d3ea15071cbcf4f84d66018d0cd109",
   "source_blob_shas": {
-    "en": "f04033d058fbdb93f458f2df90ccceee45b72011",
-    "pt-BR": "da726d14fb78bb30f4264e36d3b50d29c89dcc6e"
+    "en": "e25b179e2cea895fe1a02e2642e33c567836c7c1",
+    "pt-BR": "f9bc7a1023567d3ababeb0760f641d71bde06c61"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -46,7 +46,7 @@
     "Historical series use changing territorial/statistical definitions.",
     "Current 2026 observations are time-sensitive."
   ],
-  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "notes": "QA v2 revision approval binds the expanded EN/PT-BR country-dossier blobs in 16e7856027964d67dc096945296ba070958b284f. The revision deepens fiscal, territorial, social and external transmission analysis while preserving the previous thesis and evidence cutoff.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -175,7 +175,7 @@
     ],
     "format": "country-dossier",
     "cadence": "event-driven",
-    "revision": 1,
+    "revision": 2,
     "context_role": "country-context",
     "related_research_ids": []
   }
