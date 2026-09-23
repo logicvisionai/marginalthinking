@@ -76,7 +76,14 @@ jobs:
           test -f dist/what-is-marginal-thinking/index.html
           test -f dist/pt-br/what-is-marginal-thinking/index.html
           grep -q 'What is Marginal Thinking?' dist/what-is-marginal-thinking/index.html
+          grep -q 'Examples of marginal thinking' dist/what-is-marginal-thinking/index.html
           grep -q 'O que é Marginal Thinking?' dist/pt-br/what-is-marginal-thinking/index.html
+          grep -q 'Exemplos de pensamento marginal' dist/pt-br/what-is-marginal-thinking/index.html
+          test -f dist/research/global-wealth-flows/index.html
+          test -f dist/pt-br/research/global-wealth-flows/index.html
+          grep -q 'How to read cross-border capital flows' dist/research/global-wealth-flows/index.html
+          grep -q 'Treasury International Capital (TIC)' dist/research/global-wealth-flows/index.html
+          grep -q 'Como ler fluxos transfronteiriços de capital' dist/pt-br/research/global-wealth-flows/index.html
           test -f dist/actors/blackrock/index.html
           test -f dist/pt-br/actors/blackrock/index.html
           grep -q 'mainEntity' dist/actors/blackrock/index.html
@@ -197,6 +204,7 @@ jobs:
           grep -q '#person' dist/authors/christian-rafael-de-souza-silva/index.html
           ! grep -R -q '/mcp.html' dist --include='*.html' --include='*.xml' --include='*.json'
           node -e "const x=require('./dist/data/search-index.json'); if(!x.locales?.en?.length||!x.locales?.['pt-BR']?.length) process.exit(1); const en=x.locales.en.find(i=>i.id==='page:mcp'); const pt=x.locales['pt-BR'].find(i=>i.id==='page:mcp'); if(!en||!pt||en.url!=='/mcp-docs/'||pt.url!=='/pt-br/mcp-docs/') process.exit(1)"
+          node -e "const x=require('./dist/data/search-index.json'); const req=(l,id,url)=>{const i=x.locales?.[l]?.find(v=>v.id===id); if(!i||i.url!==url){console.error('Missing discovery entry',l,id,url);process.exit(1)}}; req('en','page:concept','/what-is-marginal-thinking/'); req('pt-BR','page:concept','/pt-br/what-is-marginal-thinking/'); req('en','hub:global-wealth-flows','/research/global-wealth-flows/'); req('pt-BR','hub:global-wealth-flows','/pt-br/research/global-wealth-flows/'); req('en','actor:trafigura','/actors/trafigura/'); req('pt-BR','actor:trafigura','/pt-br/actors/trafigura/');"
           node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"
           echo "Static site validation completed."
 
