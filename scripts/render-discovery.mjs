@@ -9,6 +9,7 @@ const read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const cfg=JSON.parse(read('site.config.json'));
 const i18n=JSON.parse(read('data/i18n.json'));
 const taxonomy=JSON.parse(read('data/taxonomy.json'));
+const strategicActors=fs.existsSync(path.join(root,'data/strategic-actors.json'))?JSON.parse(read('data/strategic-actors.json')):{actors:[],relations:[]};
 const reports=collectReports(root);
 const site=cfg.site_url.replace(/\/$/,'');
 const author=cfg.default_author,social=`${site}${cfg.social_image}`;
@@ -64,15 +65,30 @@ function collectionEntries(locale){
   }
   return entries;
 }
+const evergreenHubs=[
+  {id:'global-macro',title:{en:'Global Macro','pt-BR':'Global Macro'},description:{en:'Permanent research on global macroeconomics, monetary policy, rates, currencies, energy, credit and cross-asset transmission.','pt-BR':'Pesquisa permanente sobre macroeconomia global, política monetária, juros, moedas, energia, crédito e transmissão entre ativos.'},search:'global macro monetary policy rates currencies energy credit cross-asset'},
+  {id:'global-wealth-flows',title:{en:'Global Wealth & Capital Flows','pt-BR':'Fluxos Globais de Riqueza & Capital'},description:{en:'Cumulative research on cross-border capital flows, Treasury International Capital (TIC), sovereign wealth, reserves, gold, foreign investment and institutional allocation.','pt-BR':'Pesquisa acumulada sobre fluxos transfronteiriços de capital, Treasury International Capital (TIC), riqueza soberana, reservas, ouro, investimento estrangeiro e alocação institucional.'},search:'cross-border capital flows Treasury International Capital TIC foreign securities official flows reserves sovereign wealth foreign investment'},
+  {id:'technology-signals',title:{en:'Technology Signals','pt-BR':'Sinais de Tecnologia'},description:{en:'Evidence-led tracking of technologies moving from research toward infrastructure, production and system-level effects.','pt-BR':'Acompanhamento baseado em evidências de tecnologias que avançam de pesquisa para infraestrutura, produção e efeitos em escala de sistema.'},search:'technology signals infrastructure production system effects'},
+  {id:'strategic-actors',title:{en:'Strategic Actors','pt-BR':'Atores Estratégicos'},description:{en:'Research on institutions and firms with structural capacity through capital, ownership, production, physical intermediation or technology.','pt-BR':'Pesquisa sobre instituições e empresas com capacidade estrutural por capital, propriedade, produção, intermediação física ou tecnologia.'},search:'strategic actors structural power ownership commodity traders asset managers'},
+  {id:'conflict-systems',title:{en:'Conflict Systems','pt-BR':'Sistemas de Conflito'},description:{en:'Long-horizon research on conflict formation, institutions, economies, societies and escalation mechanisms.','pt-BR':'Pesquisa de longo horizonte sobre formação de conflitos, instituições, economias, sociedades e mecanismos de escalada.'},search:'conflict systems geopolitics security escalation'},
+  {id:'country-context',title:{en:'Country Context','pt-BR':'Contexto de Países'},description:{en:'Country dossiers connecting institutions, society, production, capital, infrastructure and external dependencies.','pt-BR':'Dossiês que conectam instituições, sociedade, produção, capital, infraestrutura e dependências externas.'},search:'country context institutions society production capital infrastructure dependencies'}
+];
+function evergreenHubEntries(locale){
+  return evergreenHubs.map(h=>({type:'hub',id:`hub:${h.id}`,title:label(h.title,locale,h.id),description:label(h.description,locale,''),url:pagePath(locale,`/research/${h.id}/`),meta:locale==='pt-BR'?'Hub permanente':'Permanent research hub',search:`${h.id} ${h.search} ${Object.values(h.title).join(' ')} ${Object.values(h.description).join(' ')}`}));
+}
+function actorEntries(locale){
+  return (strategicActors.actors||[]).map(a=>({type:'actor',id:`actor:${a.id}`,title:label(a.label,locale,a.legal_name||a.id),description:label(a.description,locale,''),url:pagePath(locale,`/actors/${a.id}/`),meta:[locale==='pt-BR'?'Ator estratégico':'Strategic actor',a.jurisdiction].filter(Boolean).join(' · '),search:[a.id,a.legal_name,a.jurisdiction,label(a.label,locale,''),label(a.description,locale,''),label(a.scale,locale,''),label(a.limits,locale,'')].filter(Boolean).join(' ')}));
+}
+
 function institutionalEntries(locale){
-  const defs=locale==='pt-BR'?[['home','Marginal Thinking','Pesquisa sobre economia, política e sociedade.','/index.html'],['archive','Arquivo de pesquisas','Todos os relatórios e análises publicados.','/reports.html'],['method','Método','Método, evidências, incerteza e padrões analíticos.','/methodology.html'],['about','Sobre','Identidade institucional, escopo e princípios editoriais.','/about.html'],['coverage','Cobertura de pesquisa','Cobertura temática, geográfica e por idioma do acervo.','/research/coverage/'],['atlas','Atlas de Oportunidades Estruturais','Condições estruturais que impedem valor, podem ser exploradas ou funcionam como alavanca econômica.','/opportunities/']]:[['home','Marginal Thinking','Research on economics, politics and society.','/index.html'],['archive','Research archive','All published reports and analysis.','/reports.html'],['method','Method','Method, evidence, uncertainty and analytical standards.','/methodology.html'],['about','About','Institutional identity, scope and editorial principles.','/about.html'],['coverage','Research coverage','Thematic, geographic and language coverage of the corpus.','/research/coverage/'],['atlas','Structural Opportunity Atlas','Structural conditions that block value, can be exploited or function as economic leverage.','/opportunities/']];
+  const defs=locale==='pt-BR'?[['home','Marginal Thinking','Pesquisa sobre economia, política e sociedade.','/index.html'],['archive','Arquivo de pesquisas','Todos os relatórios e análises publicados.','/reports.html'],['method','Método','Método, evidências, incerteza e padrões analíticos.','/methodology.html'],['about','Sobre','Identidade institucional, escopo e princípios editoriais.','/about.html'],['concept','O que é Marginal Thinking?','Definição econômica, exemplos e método de pesquisa da Marginal Thinking.','/what-is-marginal-thinking/'],['coverage','Cobertura de pesquisa','Cobertura temática, geográfica e por idioma do acervo.','/research/coverage/'],['atlas','Atlas de Oportunidades Estruturais','Condições estruturais que impedem valor, podem ser exploradas ou funcionam como alavanca econômica.','/opportunities/']]:[['home','Marginal Thinking','Research on economics, politics and society.','/index.html'],['archive','Research archive','All published reports and analysis.','/reports.html'],['method','Method','Method, evidence, uncertainty and analytical standards.','/methodology.html'],['about','About','Institutional identity, scope and editorial principles.','/about.html'],['concept','What is Marginal Thinking?','The economics definition, examples and research method behind Marginal Thinking.','/what-is-marginal-thinking/'],['coverage','Research coverage','Thematic, geographic and language coverage of the corpus.','/research/coverage/'],['atlas','Structural Opportunity Atlas','Structural conditions that block value, can be exploited or function as economic leverage.','/opportunities/']];
   defs.push(locale==='pt-BR'?['workspace','Caderno de pesquisa','Filtre pesquisas, compare teses e riscos, salve leituras e organize notas pessoais.','/workspace/']:['workspace','Research workspace','Filter research, compare theses and risks, save reading and organize personal notes.','/workspace/']);
   defs.push(locale==='pt-BR'?['dependencies','Rede Global de Dependências','Relações econômicas documentadas, fontes, histórico e pesquisas associadas.','/dependencies/']:['dependencies','Global Dependency Network','Documented economic relationships, sources, history and associated research.','/dependencies/']);
   return defs.map(([id,title,description,url])=>({type:'page',id:`page:${id}`,title,description,url:pagePath(locale,url),meta:locale==='pt-BR'?'Institucional':'Institutional',search:`${title} ${description}`}));
 }
 
 const searchIndex={schema_version:1,generated_from:reports[0]?.date||null,locales:{}};
-for(const locale of locales)searchIndex.locales[locale]=[...reports.filter(r=>availableLocales(r).includes(locale)).map(r=>reportEntry(r,locale)),...collectionEntries(locale),...institutionalEntries(locale)];
+for(const locale of locales)searchIndex.locales[locale]=[...reports.filter(r=>availableLocales(r).includes(locale)).map(r=>reportEntry(r,locale)),...collectionEntries(locale),...evergreenHubEntries(locale),...actorEntries(locale),...institutionalEntries(locale)];
 write('/data/search-index.json',JSON.stringify(searchIndex));
 
 function searchPage(locale){
@@ -89,6 +105,7 @@ function resolver(locale){
   for(const [id,obj] of Object.entries(taxonomy.topics||{}))add(label(obj,locale,id),`/topics/${id}/`);
   for(const c of countryMap.values())add(countryName(locale,c.code,c.slug),`/countries/${c.slug}/`);
   for(const [id,s] of Object.entries(taxonomy.series||{})){add(label(s,locale,id),`/series/${id}/`);for(const [domain,obj] of Object.entries(s.domains||{}))add(label(obj,locale,domain),`/series/${id}/${domain}/`);}
+  for(const actor of strategicActors.actors||[]){add(label(actor.label,locale,actor.id),`/actors/${actor.id}/`);add(actor.legal_name,`/actors/${actor.id}/`);}
   return map;
 }
 function semanticLinks(item,locale){
@@ -98,6 +115,10 @@ function semanticLinks(item,locale){
   for(const c of item.geography?.countries||[])add('country',countryName(locale,c.code,c.slug),`/countries/${c.slug}/`);
   for(const id of item.geography?.regions||[])add('region',label(taxonomy.regions?.[id],locale,id),`/regions/${id}/`);
   for(const id of item.topics||[])add('topic',label(taxonomy.topics?.[id],locale,id),`/topics/${id}/`);
+  for(const actor of strategicActors.actors||[]){
+    const researchIds=new Set([...(actor.research_ids||[]),...(strategicActors.relations||[]).filter(r=>r.actor===actor.id).flatMap(r=>r.research_ids||[])]);
+    if(researchIds.has(item.id))add('actor',label(actor.label,locale,actor.id),`/actors/${actor.id}/`);
+  }
   return links;
 }
 function injectReportSemantics(){
