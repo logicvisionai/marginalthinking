@@ -1,0 +1,52 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-23",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-23T06:00:00+03:00",
+  "reviewed_commit": "da43d2221fe6dd3bb472d5d460167d8df0c399ad",
+  "pending_blob_sha": "0ee5b816fa86876082b5e8dc64c1d3f282d316ee",
+  "source_blob_shas": {
+    "en": "ec374b11f7948b7e775793c4f2f03fe82dc02a10",
+    "pt-BR": "b8e86b5038bdccf2ee7cb398553fffb31b3b06c7"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "gate": "visual_evidence_readiness",
+      "location": "chart: Cross-asset snapshot / Fotografia cross-asset",
+      "issue": "The bar chart combines Brent and WTI prices, the dollar index, and an arbitrarily transformed U.S. 10-year yield (x20) on one bar scale. Even with the caveat, the visual encoding creates a false dimensional comparison and uses a silent-looking transformation in the plotted values. This fails the dimensional-compatibility and non-misleading-visual requirements.",
+      "required_fix": "Replace it with a dimensionally coherent visual: e.g. indexed changes from a stated common baseline, separate small-multiple panels, or a table-only presentation. Do not multiply a yield merely to fit a shared axis. Preserve units and transformation methodology explicitly."
+    },
+    {
+      "gate": "editorial_publication_readiness",
+      "location": "PT-BR opening and multiple body paragraphs/headings",
+      "issue": "The Portuguese edition repeatedly exposes untranslated market jargon where natural PT-BR equivalents or first-use explanations are available, including 'cross-asset', 'duration', 'yields', 'capex' and 'hawkish'. The density makes the localization read as translated market shorthand rather than originally written Brazilian Portuguese.",
+      "required_fix": "Localize the prose consistently. Prefer 'entre classes de ativos', 'sensibilidade/prazo dos fluxos ou duration (prazo/sensibilidade) on first use as analytically necessary', 'rendimentos/taxas dos Treasuries', 'investimento em capital' and 'comunicação mais restritiva', retaining English only where it is a recognized proper market label and explaining it on first use."
+    }
+  ],
+  "required_fixes": [
+    "Rebuild the cross-asset visual without mixed-unit bars or arbitrary x20 scaling and maintain semantic parity in EN/PT-BR.",
+    "Perform a PT-BR localization pass removing unnecessary raw English market jargon while preserving the analytical meaning.",
+    "Keep factual claims, dates, numbers and causal conclusions unchanged unless a factual revalidation is explicitly performed and documented."
+  ],
+  "evidence": [
+    "Federal Reserve primary statement confirms the 16 Sep 2026 25 bp increase to 3.75%-4.00%.",
+    "Reuters reporting confirms the cited Ineos mothballing decision and the approximately $23.51/MMBtu UK versus $2.84/MMBtu U.S. gas-price comparison.",
+    "The staged EN/PT-BR texts themselves disclose the 10-year-yield x20 transformation; disclosure does not cure the dimensional visual-comparison problem."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "taxonomy": "passed",
+    "translation_semantics": "blocked_by_localization_quality",
+    "factual_spot_checks": "passed_for_material_checks_performed",
+    "editorial_publication_readiness": "failed",
+    "visual_evidence_readiness": "failed",
+    "contextual_depth": "passed"
+  },
+  "limitations": [
+    "This rejection is driven by publication-readiness gates; material factual spot checks performed did not identify a blocking contradiction, but approval requires all gates simultaneously."
+  ],
+  "notes": "No approval created. Public surfaces were not modified. Retrabalho must preserve the same ID and return a changed pending/source SHA set to QA."
+}
