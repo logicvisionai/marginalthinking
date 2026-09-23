@@ -86,9 +86,9 @@ jobs:
           test -f dist/what-is-marginal-thinking/index.html
           test -f dist/pt-br/what-is-marginal-thinking/index.html
           grep -q 'What is Marginal Thinking?' dist/what-is-marginal-thinking/index.html
-          grep -q 'Examples of marginal thinking' dist/what-is-marginal-thinking/index.html
+          grep -q 'Simple examples of marginal thinking' dist/what-is-marginal-thinking/index.html
           grep -q 'O que é Marginal Thinking?' dist/pt-br/what-is-marginal-thinking/index.html
-          grep -q 'Exemplos de pensamento marginal' dist/pt-br/what-is-marginal-thinking/index.html
+          grep -q 'Exemplos simples de pensamento marginal' dist/pt-br/what-is-marginal-thinking/index.html
           test -f dist/research/global-wealth-flows/index.html
           test -f dist/pt-br/research/global-wealth-flows/index.html
           grep -q 'How to read cross-border capital flows' dist/research/global-wealth-flows/index.html
