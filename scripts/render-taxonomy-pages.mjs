@@ -52,9 +52,9 @@ const countryRegions=c=>[...new Set(c.items.flatMap(x=>x.geography?.regions||[])
 const countryTopics=c=>[...new Set(c.items.flatMap(x=>x.topics||[]))];
 const countryOutline=(item,locale)=>{
   if(!item)return[];
-  const b=bestView(item,locale),md=String(b.view?.markdown_url||'').replace(/^\\//,'');
+  const b=bestView(item,locale),md=String(b.view?.markdown_url||'').replace(/^\//,'');
   if(!md||!fs.existsSync(path.join(root,md)))return[];
-  return read(md).split(/\\r?\\n/).map(x=>x.match(/^##\\s+(.+)$/)?.[1]).filter(Boolean).filter(x=>!/^(?:Sources|Fontes)$/i.test(x)).slice(0,14);
+  return read(md).split(/\r?\n/).map(x=>x.match(/^##\s+(.+)$/)?.[1]).filter(Boolean).filter(x=>!/^(?:Sources|Fontes)$/i.test(x)).slice(0,14);
 };
 
 function atlasCountryCard(c,locale){
