@@ -1,61 +1,62 @@
 {
   "schema_version": 2,
   "id": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
-  "revision": 0,
+  "revision": 1,
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-23T11:44:11Z",
-  "reviewed_commit": "8c8bc927a96124bd465cf6c355bb5436a5ae8bef",
-  "pending_blob_sha": "3dbfd81ec29403eab3516bd87ae2851dc46b8fbb",
+  "reviewed_at": "2026-09-23T21:41:00Z",
+  "reviewed_commit": "696093012ab093cc6ae58ee11e90cb14faea2702",
+  "pending_blob_sha": "07678258eb1106755fd0c56052fd43a3601358de",
   "source_blob_shas": {
-    "en": "5c7a7760cad407ad8ed02877d9bbae02e8db8824",
-    "pt-BR": "dad8401aaae671a973c55a9f2b98f69359dedbb3"
+    "en": "98cf36180cb40da4086eb30257971eab8ee5892c",
+    "pt-BR": "39dccdedf0b98464ebcfb00e40f2ed731668f1a1"
   },
   "program": "political-economy-markets",
   "confidence": "high",
   "blocking_issues": [
     {
-      "gate": "editorial_publication_readiness",
-      "location": "EN opening, first paragraph",
-      "issue": "The report opens with the formulaic metadiscursive construction 'The important change in financial markets is...', a pattern explicitly disfavoured by the publishing standard because it announces importance instead of stating the finding directly. The following paragraphs continue with process-like framing ('The useful question is therefore...') before the argument settles into the evidence.",
-      "required_fix": "Rewrite the opening as 1-3 direct analytical paragraphs that state the concrete thesis: programmable market architecture is changing liquidity, settlement, information aggregation and financing mechanisms, while evidence maturity differs across HFT, AMMs, tokenised settlement and prediction markets. Remove editorial scaffolding that tells the reader what is important or what question is useful."
+      "gate": "taxonomy",
+      "location": "pending.geography.regions",
+      "issue": "The pending revision contains geography.regions=[\"global\"], but `global` is not a controlled region in data/taxonomy.json. The taxonomy defines `global` as a geography level, not a region. Controlled values cannot be silently normalized during approval.",
+      "required_fix": "Change the pending snapshot itself so geography remains level=global and regions is an empty array. Return the corrected pending with a new real Git blob SHA; do not normalize only inside data/approved."
     },
     {
-      "gate": "editorial_publication_readiness",
-      "location": "PT-BR opening, evidence table, HFT and AMM sections",
-      "issue": "The Portuguese edition contains a dense sequence of avoidable raw English market/engineering terms and literal research-English constructions, including 'high-frequency trading', 'spreads', 'dealers', 'working paper', 'colocation', 'upgrades', 'matching engine', 'exchanges', 'automated market maker', 'on-chain', 'market maker' and 'hedge'. In aggregate the text reads as a translated technical draft rather than prose originally written in Brazilian Portuguese, which is a blocking localization failure under EDITORIAL-STYLE.md and the publication-readiness gate.",
-      "required_fix": "Perform a full PT-BR localization pass. On first use prefer or explain natural equivalents such as negociação de alta frequência (HFT), diferença entre preços de compra e venda, formadores de mercado, estudo/documento de trabalho, co-localização, atualizações de latência, mecanismo de casamento de ordens, bolsas/plataformas de negociação, formador automático de mercado (AMM), em rede/on-chain only when technically necessary, and proteção contra risco. Retain English only where it is a genuinely standard term and explain it on first occurrence."
+      "gate": "approval_snapshot_integrity",
+      "location": "previous data/approved/2026-09-23-economic-paradigms-programmable-markets.json publication.geography",
+      "issue": "The prior approval silently changed pending geography.regions from [\"global\"] to [], so publication was not an immutable complete snapshot of the exact pending whose SHA was recorded. That approval was invalid and has been revoked before materialization.",
+      "required_fix": "Ensure any subsequent approval publication object is a literal snapshot of the corrected pending and that the pending/source SHA triple is revalidated 3/3."
     }
   ],
   "required_fixes": [
-    "Replace the formulaic EN/PT-BR opening with direct thesis-led prose and remove metadiscursive scaffolding such as 'The important change' / 'A mudança importante' and 'The useful question' / 'A pergunta útil'.",
-    "Localize the PT-BR edition comprehensively so that technical English is retained only where necessary and explained naturally on first use.",
-    "Preserve the same ID, slug, date, taxonomy and factual thesis; if any material claim, number, causal conclusion or evidence status changes during rewrite, return it for factual revalidation with new source SHAs.",
-    "Preserve EN/PT-BR semantic and visual parity after the rewrite."
+    "Correct geography.regions in the pending file from [\"global\"] to [] while preserving geography.level=\"global\".",
+    "Preserve ID, slug, date, revision intent, source files and factual thesis; this taxonomy-only correction must produce a new pending blob SHA.",
+    "Do not alter material claims, numbers, causal conclusions or evidence status. If any such content changes, reopen the corresponding factual validation."
   ],
   "evidence": [
-    "BIS Working Paper No. 1290 supports the HFT mechanism as described: on average HFT raises cost of capital, with higher systematic-risk effects for low-beta stocks and lower liquidity premia for the most liquid stocks; the Hong Kong test is explicitly used as an out-of-sample robustness check.",
-    "BIS Project Agorá / June 2026 material supports the prototype framing, tokenised commercial-bank deposits and central-bank reserves, atomic multi-currency settlement, and participation of eight central banks and more than 40 regulated institutions in the then-current BIS description.",
-    "The CFTC March 2026 ANPRM supports the event-contract series: approximately five contracts per year in 2006-2020, 131 in 2021 and approximately 1,600 newly certified event contracts in 2025.",
-    "The CFTC 22 September 2026 mention-markets advisory supports the stated heightened manipulation risk where settlement depends on discrete conduct that may be influenced by a person.",
-    "The staged assessment contains four useful deterministic visuals: two evidence tables, one explicit chart and one causal flow. The chart uses one unit and explicitly qualifies the approximate CFTC values, so the visual floor and dimensional-compatibility gate pass."
+    "data/taxonomy.json lists valid geography regions as africa, americas, asia-pacific, europe, middle-east and central-asia-caucasus; `global` appears under geography_levels, not regions.",
+    "Current pending blob 07678258eb1106755fd0c56052fd43a3601358de contains geography.level=global and geography.regions=[\"global\"].",
+    "The revoked approval recorded the same pending blob SHA but changed publication.geography.regions to [], demonstrating prohibited silent normalization rather than approval of an immutable pending snapshot.",
+    "Revision 1 otherwise resolves the prior editorial opening and PT-BR localization defects; EN/PT-BR source SHAs are unchanged from the already reviewed revision-1 content."
   ],
-  "taxonomy_issues": [],
+  "taxonomy_issues": [
+    "Invalid controlled value geography.regions[0]=global; `global` is a geography level, not a region."
+  ],
   "checks": {
-    "taxonomy": "passed",
-    "translation_semantics": "blocked_by_localization_quality",
-    "factual_and_methodological": "passed_for_material_checks_performed",
-    "editorial_publication_readiness": "failed",
+    "taxonomy": "failed",
+    "translation_semantics": "passed",
+    "factual_and_methodological": "passed_for_unchanged_revision_1_claims",
+    "editorial_publication_readiness": "passed",
     "visual_evidence_readiness": "passed",
-    "contextual_depth": "passed"
+    "contextual_depth": "passed",
+    "approval_snapshot_integrity": "failed"
   },
   "contrary_evidence": [
-    "The report itself correctly notes that programmable market infrastructure does not imply a wholesale failure of established economic theory; many mechanisms remain explainable through existing microstructure, monetary and information-economics concepts.",
-    "Project Agorá remains a prototype/testing environment rather than system-wide deployment, limiting claims about scaled monetary architecture.",
-    "Prediction-market listing growth demonstrates product expansion, not by itself trading volume, welfare gains, forecasting superiority or social usefulness."
+    "Programmable market infrastructure does not imply wholesale failure of established economics; several mechanisms remain explainable through existing microstructure, monetary and information-economics frameworks.",
+    "Project Agora remains a prototype/testing environment rather than system-wide deployment.",
+    "Prediction-market listing growth does not by itself establish trading depth, welfare gains, forecasting superiority or social usefulness."
   ],
   "limitations": [
-    "The rejection is editorial/localization-driven. Material factual checks performed against BIS and CFTC primary sources did not identify a blocking contradiction in the central quantitative claims.",
-    "The assessment spans several distinct market architectures; not every secondary literature claim was independently reconstructed from underlying datasets because the blocking editorial defects already prevent approval. Any substantive rewrite must reopen the affected factual checks."
+    "This rejection is taxonomy/snapshot-integrity driven. No new material factual defect was identified in the revision-1 prose.",
+    "The assessment spans distinct market architectures with uneven evidence maturity; system-wide conclusions about tokenised finance remain constrained by pilot-stage deployment."
   ],
-  "notes": "No approval created. No reports/, HTML, data/reports.json or other public/global surfaces were modified. Current public-state recheck immediately before decision found no canonical metadata bundle for this ID. Retrabalho must preserve the same ID and return changed pending/source SHAs to QA."
+  "notes": "Public-state recheck immediately before this decision found no canonical reports/**/metadata.json materialization for this ID at revision 1 or higher. No reports/, HTML, data/reports.json or global site surface was modified. The invalid approval was removed; the prior public bundle, if any, remains canonical."
 }
