@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Structural Opportunity Atlas",
-  "updated_at": "2026-09-18",
+  "updated_at": "2026-09-23",
   "status": "active",
   "disclaimer": {
     "en": "Analytical mapping of structural conditions. It is not an investment recommendation, country ranking or forecast of returns.",
@@ -484,6 +484,77 @@
           "name": "Coordinador Eléctrico Nacional — Cuenta Pública 2025",
           "url": "https://www.coordinador.cl/novedades/coordinador-destaca-avances-en-transicion-energetica-y-llama-a-fortalecer-la-seguridad-y-cumplimiento-normativo-del-sistema/",
           "date": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "id": "VNM-CAPITAL-ACCESS-001",
+      "country": {
+        "code": "VNM",
+        "name": {
+          "en": "Viet Nam",
+          "pt-BR": "Vietnã"
+        },
+        "lat": 14.1,
+        "lon": 108.3,
+        "region": "Asia-Pacific"
+      },
+      "state": "leverageable_efficiency",
+      "feature": {
+        "en": "Operational emerging-market access channel after FTSE reclassification",
+        "pt-BR": "Canal operacional de acesso a mercado emergente após a reclassificação da FTSE"
+      },
+      "perspective": {
+        "en": "Vietnamese listed companies seeking to diversify long-term equity financing beyond a predominantly bank-intermediated funding system.",
+        "pt-BR": "Empresas vietnamitas listadas que buscam diversificar o financiamento acionário de longo prazo além de um sistema de funding predominantemente intermediado por bancos."
+      },
+      "mechanism": {
+        "en": "Vietnam's move to FTSE Secondary Emerging status became effective on 21 September 2026 after reforms to foreign-investor prefunding, failed-trade handling and global-broker access. FTSE GEIS inclusion is being phased in four tranches through September 2027, turning market-access reform into a live benchmark-eligibility channel rather than a prospective qualification.",
+        "pt-BR": "A passagem do Vietnã para a categoria Secondary Emerging da FTSE entrou em vigor em 21 de setembro de 2026 após reformas de pré-financiamento para investidores estrangeiros, tratamento de falhas de liquidação e acesso por corretoras globais. A inclusão nos índices FTSE GEIS ocorre em quatro etapas até setembro de 2027, convertendo a reforma de acesso em um canal efetivo de elegibilidade para benchmarks, e não apenas em uma qualificação futura."
+      },
+      "implication": {
+        "en": "The reformed market infrastructure can be reused by listed issuers as a broader route to institutional equity capital and price discovery, potentially reducing marginal dependence on bank credit. Index eligibility creates access; it does not guarantee persistent inflows, successful issuance or productive use of capital.",
+        "pt-BR": "A infraestrutura de mercado reformada pode ser reutilizada por emissores listados como uma rota mais ampla para capital acionário institucional e formação de preços, reduzindo potencialmente a dependência marginal de crédito bancário. A elegibilidade para índices cria acesso; não garante fluxos persistentes, emissões bem-sucedidas nem uso produtivo do capital."
+      },
+      "constraints": {
+        "en": "Only 10% of eligible investability weight enters in the first tranche. Foreign-ownership limits, investable free float, settlement performance, broker funding, governance, currency risk and issuer demand can still limit the financing effect. World Bank flow figures are estimates rather than observed inflows.",
+        "pt-BR": "Apenas 10% do peso de investibilidade elegível entra na primeira etapa. Limites de participação estrangeira, free float investível, desempenho da liquidação, funding de corretoras, governança, risco cambial e demanda dos emissores ainda podem limitar o efeito sobre o financiamento. As estimativas de fluxo do Banco Mundial não são entradas observadas."
+      },
+      "catalysts": [
+        {
+          "en": "Successful replication of the September 2026 tranche followed by the March, June and September 2027 FTSE tranches.",
+          "pt-BR": "Replicação bem-sucedida da etapa de setembro de 2026, seguida pelas etapas da FTSE de março, junho e setembro de 2027."
+        },
+        {
+          "en": "Persistent foreign participation outside rebalance windows and broader equity issuance would show that benchmark access is becoming a durable financing channel.",
+          "pt-BR": "Participação estrangeira persistente fora das janelas de rebalanceamento e maior emissão de ações indicariam que o acesso via benchmark está se tornando um canal durável de financiamento."
+        }
+      ],
+      "transition": null,
+      "sectors": [
+        "capital-markets",
+        "corporate-finance",
+        "banking",
+        "listed-equities"
+      ],
+      "horizon": "1-3y",
+      "confidence": "high",
+      "last_verified": "2026-09-23",
+      "sources": [
+        {
+          "name": "FTSE Russell — March 2026 semi-annual country classification review",
+          "url": "https://www.lseg.com/en/media-centre/press-releases/ftse-russell/2026/ftse-russell-announces-results-march-2026-semi-annual-country-classification-review-equities-fixed-income",
+          "date": "2026-04-07"
+        },
+        {
+          "name": "FTSE Russell — Vietnam reclassification FAQ",
+          "url": "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/policy-documents/ftse-faq-document-vietnam-reclassification.pdf",
+          "date": "2026-04"
+        },
+        {
+          "name": "World Bank — A Turning Point for Viet Nam's Capital Markets",
+          "url": "https://www.worldbank.org/en/news/feature/2026/04/22/a-turning-point-for-viet-nam-s-capital-markets",
+          "date": "2026-04-22"
         }
       ]
     }

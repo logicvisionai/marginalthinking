@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Structural Opportunity Atlas history",
-  "updated_at": "2026-09-18",
+  "updated_at": "2026-09-23",
   "event_types": {
     "baseline": {
       "en": "Atlas inclusion",
@@ -255,6 +255,45 @@
           "name": "South African Government — SONA debate reply",
           "url": "https://www.gov.za/news/speeches/president-cyril-ramaphosa%C2%A0reply-debate-2026-state-nation-address-19-feb-2026",
           "date": "2026-02-19"
+        }
+      ]
+    },
+    {
+      "event_id": "VNM-CAPITAL-ACCESS-001-2026-09-23-baseline",
+      "entry_id": "VNM-CAPITAL-ACCESS-001",
+      "date": "2026-09-23",
+      "type": "baseline",
+      "country": {
+        "code": "VNM",
+        "name": {
+          "en": "Viet Nam",
+          "pt-BR": "Vietnã"
+        }
+      },
+      "feature": {
+        "en": "Operational emerging-market access channel after FTSE reclassification",
+        "pt-BR": "Canal operacional de acesso a mercado emergente após a reclassificação da FTSE"
+      },
+      "state": "leverageable_efficiency",
+      "summary": {
+        "en": "Added to the public Atlas as Leverageable efficiency after FTSE Secondary Emerging status became effective and the first phase of global-index inclusion began. The baseline treats market-access infrastructure as reusable financing capacity while preserving settlement, free-float and implementation constraints.",
+        "pt-BR": "Incluída no Atlas público como Eficiência aproveitável após a entrada em vigor da categoria Secondary Emerging da FTSE e o início da primeira fase de inclusão em índices globais. O baseline trata a infraestrutura de acesso ao mercado como capacidade reutilizável de financiamento, preservando as restrições de liquidação, free float e implementação."
+      },
+      "sources": [
+        {
+          "name": "FTSE Russell — March 2026 semi-annual country classification review",
+          "url": "https://www.lseg.com/en/media-centre/press-releases/ftse-russell/2026/ftse-russell-announces-results-march-2026-semi-annual-country-classification-review-equities-fixed-income",
+          "date": "2026-04-07"
+        },
+        {
+          "name": "FTSE Russell — Vietnam reclassification FAQ",
+          "url": "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/policy-documents/ftse-faq-document-vietnam-reclassification.pdf",
+          "date": "2026-04"
+        },
+        {
+          "name": "World Bank — A Turning Point for Viet Nam's Capital Markets",
+          "url": "https://www.worldbank.org/en/news/feature/2026/04/22/a-turning-point-for-viet-nam-s-capital-markets",
+          "date": "2026-04-22"
         }
       ]
     }

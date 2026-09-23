@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-09-23T01:28:21-03:00",
+  "candidate_id": "VNM-CAPITAL-ACCESS-001",
+  "candidate": {
+    "country": {
+      "code": "VNM",
+      "name": "Viet Nam"
+    },
+    "proposed_state": "leverageable_efficiency",
+    "previous_state": null,
+    "perspective": "Vietnamese listed companies seeking to diversify long-term equity financing beyond a predominantly bank-intermediated funding system.",
+    "structural_condition": "Operational emerging-market access channel after FTSE reclassification",
+    "delta": "FTSE Secondary Emerging status became effective on 21 September 2026 after concrete market-access reforms, and phased FTSE GEIS inclusion moved from scheduled qualification to live implementation.",
+    "mechanism": "Vietnam's move to FTSE Secondary Emerging status became effective on 21 September 2026 after reforms to foreign-investor prefunding, failed-trade handling and global-broker access. FTSE GEIS inclusion is being phased in four tranches through September 2027, turning market-access reform into a live benchmark-eligibility channel rather than a prospective qualification.",
+    "catalysts": [
+      "Successful replication of the September 2026 tranche followed by the March, June and September 2027 FTSE tranches.",
+      "Persistent foreign participation outside rebalance windows and broader equity issuance would show that benchmark access is becoming a durable financing channel."
+    ],
+    "invalidation": "Persistent settlement failures, inability of index trackers to replicate later tranches, or access constraints that prevent durable institutional participation would weaken the classification.",
+    "confidence": "high",
+    "materiality": "high",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "FTSE Russell — March 2026 semi-annual country classification review",
+        "url": "https://www.lseg.com/en/media-centre/press-releases/ftse-russell/2026/ftse-russell-announces-results-march-2026-semi-annual-country-classification-review-equities-fixed-income",
+        "date": "2026-04-07"
+      },
+      {
+        "name": "FTSE Russell — Vietnam reclassification FAQ",
+        "url": "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/policy-documents/ftse-faq-document-vietnam-reclassification.pdf",
+        "date": "2026-04"
+      },
+      {
+        "name": "World Bank — A Turning Point for Viet Nam's Capital Markets",
+        "url": "https://www.worldbank.org/en/news/feature/2026/04/22/a-turning-point-for-viet-nam-s-capital-markets",
+        "date": "2026-04-22"
+      }
+    ]
+  },
+  "review_status": "promoted",
+  "reviewed_at": "2026-09-23T01:28:21-03:00",
+  "review_note": "Promoted after manual catch-up review against FTSE Russell primary documentation, World Bank evidence and the canonical published Vietnam strategic-transition assessment."
+}

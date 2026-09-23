@@ -1,6 +1,9 @@
 {
   "date": "2026-09-23",
   "checked_at": "2026-09-23T00:11:00-03:00",
-  "candidate_ids": [],
-  "coverage_summary": "Screened material mechanisms surfaced in the daily global-macro work across Gulf energy/logistics redundancy, European industrial energy costs, AI capital financing and deployment, U.S.-China technology restrictions, emerging-market external financing and Brazil. No reviewed development was sufficiently established to change a canonical Atlas condition, state, accessibility, confidence or transition path; no candidate signal was staged."
+  "candidate_ids": [
+    "VNM-CAPITAL-ACCESS-001"
+  ],
+  "coverage_summary": "Screened material mechanisms surfaced in the daily global-macro work across Gulf energy/logistics redundancy, European industrial energy costs, AI capital financing and deployment, U.S.-China technology restrictions, emerging-market external financing and Brazil. No reviewed development was sufficiently established to change a canonical Atlas condition, state, accessibility, confidence or transition path; no candidate signal was staged. Manual catch-up review identified Vietnam's FTSE Secondary Emerging implementation as a durable operational market-access change: the effective date has passed, the first phased index-inclusion step is live by FTSE's published timetable, and the underlying non-prefunding/global-broker reforms create a reusable financing channel. Candidate VNM-CAPITAL-ACCESS-001 was promoted after primary-source validation.",
+  "schema_version": 1
 }

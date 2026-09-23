@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-23T01:05:00-03:00",
+  "last_reconciled_at": "2026-09-23T01:28:21-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -112,6 +112,54 @@
           "asset_id": "structural-opportunity-atlas",
           "decision": "not_applicable",
           "note": "MT-GM-2026-09-23 describes current energy, rates and market transmission but does not establish a durable change in any canonical structural-opportunity state."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Reviewed Saudi, U.S., China and AI-financing references in MT-GM-2026-09-23; no new durable control channel or actor capability relation warrants a canonical actor-map change."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Saudi bypass restoration and crude-price observations are time-sensitive flow conditions; they do not change the canonical ownership, reserve, production-control or intermediation records in the Resource Control Atlas."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "MT-GM-2026-09-23 is a daily global-macro brief and does not introduce or revise a policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "The Gulf/Hormuz discussion in MT-GM-2026-09-23 changes near-term market risk assessment but does not establish a sufficiently durable conflict-system structure beyond the report itself."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI equity leadership and financing observations in MT-GM-2026-09-23 do not constitute new technical capability, deployment or scaling evidence for the technology-signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-structural-opportunity-atlas-vietnam",
+      "reconciled_at": "2026-09-23T01:28:21-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "MT-GM-2026-09-23 revalidates the existing Hormuz → Saudi East-West bypass → Gulf crude exports → global financing transmission already represented in the canonical dependency network; no durable topology change is established by the daily market update."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "updated",
+          "note": "Added VNM-CAPITAL-ACCESS-001 after primary-source validation of Vietnam's effective FTSE Secondary Emerging reclassification and phased index inclusion; canonical Atlas and history updated together."
         },
         {
           "asset_id": "strategic-actors",
