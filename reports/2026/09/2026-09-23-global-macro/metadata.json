@@ -1,0 +1,126 @@
+{
+  "id": "MT-GM-2026-09-23",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T00:03:48-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "east-asia",
+      "south-asia",
+      "gulf",
+      "latin-america-caribbean"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "revision": 1,
+  "revision_reason": "QA retrabalho: replace mixed-unit cross-asset bar chart with a dimensionally coherent oil-price chart and localize unnecessary English market jargon in PT-BR without changing material factual claims.",
+  "supersedes_rejected_commit": "74b503c1b31d5fa226f543edaef2c5c39d4b027a",
+  "qa_fixes_applied": [
+    "Replaced the mixed-unit Brent/WTI/DXY/10Y x20 chart with a single-unit Brent/WTI USD-per-barrel chart in both locales.",
+    "Removed the arbitrary Treasury-yield x20 transformation.",
+    "Localized PT-BR market jargon including cross-asset, duration, yields, capex and hawkish while preserving analytical meaning."
+  ],
+  "qa_reviewed_at": "2026-09-23T03:15:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "a171dd47f6e369f8fb510b87d53b0897531e40ef",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Oil relief reopens the AI trade, but the rate shock has not cleared",
+      "deck": "Oil below $100 has reduced an acute inflation tail risk, but a firm dollar, high long yields, European gas costs and incomplete Gulf normalization keep global financial conditions restrictive.",
+      "tags": [
+        "global macro",
+        "markets",
+        "oil",
+        "rates",
+        "AI",
+        "geopolitics"
+      ],
+      "keywords": [
+        "Brent",
+        "Treasury yields",
+        "dollar",
+        "Nasdaq",
+        "European gas",
+        "Hormuz",
+        "AI capex"
+      ],
+      "regime": "Energy-risk relief inside a still-restrictive global rate regime",
+      "key_risk": "A renewed Gulf supply disruption while long sovereign yields remain elevated",
+      "watch": [
+        "Gulf realized export throughput and Hormuz access",
+        "U.S. 10-year Treasury yield and dollar index",
+        "equity breadth beyond AI leaders",
+        "concrete U.S.-China policy outcomes"
+      ],
+      "search_text": "Global macro September 23 2026 oil below 100 AI Nasdaq Treasury yields dollar European gas Gulf Hormuz U.S. China"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Alívio no petróleo reabre a tese de IA, mas o choque de juros não desapareceu",
+      "deck": "Petróleo abaixo de US$ 100 reduziu um risco inflacionário de cauda, mas dólar firme, juros longos elevados, custos europeus de gás e normalização incompleta do Golfo mantêm condições financeiras globais restritivas.",
+      "tags": [
+        "macro global",
+        "mercados",
+        "petróleo",
+        "juros",
+        "IA",
+        "geopolítica"
+      ],
+      "keywords": [
+        "Brent",
+        "Treasury",
+        "dólar",
+        "Nasdaq",
+        "gás europeu",
+        "Ormuz",
+        "investimento em IA"
+      ],
+      "regime": "Alívio do risco de energia dentro de um regime global de juros ainda restritivo",
+      "key_risk": "Nova interrupção da oferta do Golfo enquanto os juros soberanos longos permanecem elevados",
+      "watch": [
+        "Fluxo efetivo de exportações do Golfo e acesso a Ormuz",
+        "Treasury de 10 anos e índice do dólar",
+        "amplitude acionária além dos líderes de IA",
+        "resultados concretos da política EUA-China"
+      ],
+      "search_text": "Global Macro 23 setembro 2026 petróleo abaixo 100 IA Nasdaq Treasury dólar gás europeu Golfo Ormuz EUA China"
+    }
+  }
+}
