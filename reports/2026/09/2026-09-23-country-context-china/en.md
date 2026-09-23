@@ -130,7 +130,7 @@ title: Main structural transmission channels
 Coastal manufacturing clusters → Pacific ports → global value chains → export income and trade-policy exposure
 Interior provinces → rail and expressway networks → coastal and domestic markets → regional convergence and fiscal burden
 Energy and mineral imports → maritime chokepoints and continental pipelines → industrial system → security and inventory policy
-Technology restrictions → semiconductor and equipment bottlenecks → domestic substitution → higher strategic investment
+Technology restrictions → constraints in semiconductor and advanced-equipment access → domestic substitution → higher strategic investment
 ```
 
 ## Social expectations are shaped by mobility, education, housing and state performance

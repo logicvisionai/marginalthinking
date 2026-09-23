@@ -129,8 +129,8 @@ A poupança das famílias também se relaciona a proteção social incompleta, e
 title: Principais canais estruturais de transmissão
 Clusters manufatureiros costeiros → portos do Pacífico → cadeias globais de valor → renda exportadora e exposição à política comercial
 Províncias interiores → ferrovias e vias expressas → mercados costeiros e domésticos → convergência regional e carga fiscal
-Importações de energia e minerais → gargalos marítimos e gasodutos continentais → sistema industrial → política de segurança e estoques
-Restrições tecnológicas → gargalos em semicondutores e equipamentos → substituição doméstica → investimento estratégico maior
+Importações de energia e minerais → passagens marítimas críticas e gasodutos continentais → sistema industrial → política de segurança e estoques
+Restrições tecnológicas → restrições de acesso a semicondutores e equipamentos avançados → substituição doméstica → investimento estratégico maior
 ```
 
 ## Expectativas sociais são moldadas por mobilidade, educação, moradia e desempenho estatal
