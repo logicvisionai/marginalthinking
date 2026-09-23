@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-paraguay",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "1d52a58c45dc0a102c44ba4ac29ae0ca451d4ce5",
+  "source_blob_shas": {
+    "en": "53487b6b31c1285b629940257d5d72771c4031da",
+    "pt-BR": "3108145aeccbac6927e19b3ab5b8f71ad6595646"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-paraguay",
+    "slug": "2026-09-23-country-context-paraguay",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:20:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-paraguay/en.md",
+        "title": "Paraguay: war-shaped state formation, hydroelectric rents and the transition from low-cost agriculture to investment-grade growth",
+        "deck": "Paraguay's small, landlocked economy was profoundly reshaped by nineteenth-century war, twentieth-century authoritarian rule and later integration through Itaipu, agriculture and Mercosur; in 2026 strong growth, renewable electricity and improving credit quality create an opportunity to raise productivity beyond commodities and informality.",
+        "tags": [
+          "Paraguay",
+          "economic history",
+          "Itaipu",
+          "agriculture",
+          "investment grade",
+          "Mercosur"
+        ],
+        "keywords": [
+          "Paraguay economic history",
+          "Paraguay economy 2026",
+          "Itaipu",
+          "Paraguay investment grade",
+          "soy Paraguay",
+          "Mercosur Paraguay"
+        ],
+        "regime": "Paraguay enters 2026 with strong macro credibility, high growth and abundant renewable electricity; the structural challenge is converting those advantages into formal, diversified and higher-productivity employment.",
+        "key_risk": "A commodity or hydrological shock combined with fiscal slippage could expose how much of recent strength still depends on agriculture and energy cycles.",
+        "watch": [
+          "formal employment",
+          "fiscal deficit",
+          "Itaipu/industrial electricity use",
+          "agricultural exports",
+          "private investment",
+          "sovereign spreads"
+        ],
+        "search_text": "Paraguay country dossier economic history Triple Alliance War Stroessner Itaipu soy investment grade Mercosur 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-paraguay/pt-BR.md",
+        "title": "Paraguai: formação estatal marcada pela guerra, rendas hidrelétricas e a transição da agricultura de baixo custo para crescimento investment grade",
+        "deck": "A pequena economia sem litoral do Paraguai foi profundamente remodelada pela guerra do século XIX, pelo autoritarismo do século XX e depois pela integração via Itaipu, agricultura e Mercosul; em 2026 crescimento forte, eletricidade renovável e melhora do crédito criam oportunidade de elevar produtividade além de commodities e informalidade.",
+        "tags": [
+          "Paraguai",
+          "história econômica",
+          "Itaipu",
+          "agricultura",
+          "investment grade",
+          "Mercosul"
+        ],
+        "keywords": [
+          "história econômica Paraguai",
+          "economia Paraguai 2026",
+          "Itaipu",
+          "Paraguai investment grade",
+          "soja Paraguai",
+          "Mercosul Paraguai"
+        ],
+        "regime": "O Paraguai entra em 2026 com forte credibilidade macro, crescimento elevado e eletricidade renovável abundante; o desafio é converter vantagens em emprego formal, diversificado e de maior produtividade.",
+        "key_risk": "Choque de commodities ou hidrologia combinado a deterioração fiscal pode mostrar quanto da força recente ainda depende de agricultura e energia.",
+        "watch": [
+          "emprego formal",
+          "déficit fiscal",
+          "uso industrial de Itaipu",
+          "exportações agrícolas",
+          "investimento privado",
+          "spreads soberanos"
+        ],
+        "search_text": "Paraguai dossiê país história econômica Guerra Tríplice Aliança Stroessner Itaipu soja investment grade Mercosul 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "PY",
+          "slug": "paraguay"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context"
+  }
+}

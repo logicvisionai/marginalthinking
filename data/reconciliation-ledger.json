@@ -286,6 +286,73 @@
           "note": "The dossier does not establish a new discrete technology capability signal or deployment-stage change."
         }
       ]
+    },
+    {
+      "id": "2026-09-23-brics-mercosur-deep-package",
+      "reconciled_at": "2026-09-23T12:50:00-03:00",
+      "report_ids_reviewed": [
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22",
+        "MT-CC-2026-09-23-russia",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-PE-2026-09-23-MERCOSUR"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The package establishes durable trade, energy, logistics and institutional dependencies, but canonical edge insertion is deferred to a dedicated normalization pass to avoid broad or duplicate edges."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Country-context and institutional-system research does not by itself establish actor-specific structural opportunity theses."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "State enterprises, sovereign funds and public institutions appear as evidence, but no new actor-level control relation meeting the canonical schema is established."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Oil, gas, minerals, hydropower and agricultural systems are identified, but controller-level legal ownership and operating-right evidence require a separate canonical pass."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Historical reforms are used as country-development mechanisms rather than bounded policy-case evaluations."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Conflict and sanctions are contextual inputs; no canonical conflict-system state is superseded by this package."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Technology appears as structural context rather than a newly established standalone capability signal."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-venezuela",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "abbc99f54d300b3b06266379d239e7c3722cbb2e",
+  "source_blob_shas": {
+    "en": "6b3cc43773aafce54be86a4dd9d5d50579e86f4f",
+    "pt-BR": "68bd9289948cf7e52d42b99dfd1e850ff74963b4"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-venezuela",
+    "slug": "2026-09-23-country-context-venezuela",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:30:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-venezuela/en.md",
+        "title": "Venezuela: oil-state formation, institutional collapse and the economics of partial stabilization after hyperinflation",
+        "deck": "Venezuela transformed from an agricultural exporter into one of the world's archetypal oil states, using petroleum rents to finance urbanization and social policy; the later collapse of production, institutions and money generated mass migration, and by 2026 partial market adaptation coexists with renewed extreme inflation.",
+        "tags": [
+          "Venezuela",
+          "economic history",
+          "oil",
+          "hyperinflation",
+          "migration",
+          "Mercosur"
+        ],
+        "keywords": [
+          "Venezuela economic history",
+          "Venezuela economy 2026",
+          "Venezuela oil",
+          "Venezuela hyperinflation",
+          "Venezuelan migration",
+          "Mercosur Venezuela"
+        ],
+        "regime": "Venezuela is experiencing partial real-activity recovery inside a still-fragile monetary and institutional system, with very high inflation and oil capacity far below its geological potential.",
+        "key_risk": "Renewed monetary acceleration or external disruption can reverse private-sector adaptation before investment and fiscal institutions recover.",
+        "watch": [
+          "inflation",
+          "oil production",
+          "exchange-rate gap",
+          "real wages",
+          "migration/remittances",
+          "investment conditions"
+        ],
+        "search_text": "Venezuela country dossier economic history oil PDVSA hyperinflation migration dollarization Mercosur suspension 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-venezuela/pt-BR.md",
+        "title": "Venezuela: formação do Estado petrolífero, colapso institucional e a economia da estabilização parcial depois da hiperinflação",
+        "deck": "A Venezuela passou de exportadora agrícola a um dos arquétipos mundiais de Estado petrolífero, usando rendas do petróleo para financiar urbanização e política social; o colapso posterior da produção, das instituições e da moeda gerou migração em massa, e em 2026 adaptação parcial de mercado convive com nova inflação extrema.",
+        "tags": [
+          "Venezuela",
+          "história econômica",
+          "petróleo",
+          "hiperinflação",
+          "migração",
+          "Mercosul"
+        ],
+        "keywords": [
+          "história econômica Venezuela",
+          "economia Venezuela 2026",
+          "petróleo Venezuela",
+          "hiperinflação Venezuela",
+          "migração venezuelana",
+          "Mercosul Venezuela"
+        ],
+        "regime": "A Venezuela vive recuperação parcial da atividade dentro de sistema monetário e institucional ainda frágil, com inflação muito alta e capacidade petrolífera muito abaixo do potencial geológico.",
+        "key_risk": "Nova aceleração monetária ou disrupção externa pode reverter adaptação privada antes da recuperação de investimento e instituições fiscais.",
+        "watch": [
+          "inflação",
+          "produção de petróleo",
+          "gap cambial",
+          "salários reais",
+          "migração/remessas",
+          "condições de investimento"
+        ],
+        "search_text": "Venezuela dossiê país história econômica petróleo PDVSA hiperinflação migração dolarização suspensão Mercosul 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "VE",
+          "slug": "venezuela"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "sanctions-economic-coercion",
+      "migration-displacement",
+      "political-stability"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context"
+  }
+}

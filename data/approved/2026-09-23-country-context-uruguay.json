@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-uruguay",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "b8a7e4127779f39eaca4228e67dfd62bc4e1ce7b",
+  "source_blob_shas": {
+    "en": "4ec64b3758fea41c0a3d077f07aec60d4f81e138",
+    "pt-BR": "a5a350482a39b5719bac38575cd1227404ce26e5"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-uruguay",
+    "slug": "2026-09-23-country-context-uruguay",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:25:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-uruguay/en.md",
+        "title": "Uruguay: export pastoralism, early welfare institutions and the productivity challenge of a small aging economy",
+        "deck": "Uruguay built unusually strong social and political institutions on a cattle-export economy, later combining welfare, state enterprises, financial openness and renewable energy; in 2026 its main constraint is not macro instability but slow productivity and demographic growth in a very small domestic market.",
+        "tags": [
+          "Uruguay",
+          "economic history",
+          "welfare state",
+          "renewable energy",
+          "aging",
+          "Mercosur"
+        ],
+        "keywords": [
+          "Uruguay economic history",
+          "Uruguay economy 2026",
+          "Uruguay welfare state",
+          "renewable energy Uruguay",
+          "Uruguay aging",
+          "Mercosur Uruguay"
+        ],
+        "regime": "Uruguay is a stable, high-institutional-quality small economy whose primary structural challenge is raising productivity fast enough to offset aging and limited domestic scale.",
+        "key_risk": "Slow productivity growth combined with age-related fiscal costs could erode the room for investment without producing a dramatic crisis signal.",
+        "watch": [
+          "productivity",
+          "private investment",
+          "pension spending",
+          "service exports",
+          "skilled migration",
+          "EU–Mercosur utilization"
+        ],
+        "search_text": "Uruguay country dossier economic history Batllismo welfare 2002 crisis renewable energy aging Mercosur 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-uruguay/pt-BR.md",
+        "title": "Uruguai: pecuária exportadora, instituições sociais precoces e o desafio de produtividade de uma pequena economia envelhecida",
+        "deck": "O Uruguai construiu instituições sociais e políticas incomumente fortes sobre uma economia pecuária exportadora, combinando depois welfare, empresas públicas, abertura financeira e energia renovável; em 2026 sua principal restrição não é instabilidade macro, mas produtividade e demografia lentas em mercado doméstico muito pequeno.",
+        "tags": [
+          "Uruguai",
+          "história econômica",
+          "welfare",
+          "energia renovável",
+          "envelhecimento",
+          "Mercosul"
+        ],
+        "keywords": [
+          "história econômica Uruguai",
+          "economia Uruguai 2026",
+          "welfare Uruguai",
+          "energia renovável Uruguai",
+          "envelhecimento Uruguai",
+          "Mercosul Uruguai"
+        ],
+        "regime": "O Uruguai é uma pequena economia estável e de alta qualidade institucional cuja principal restrição é elevar produtividade rápido o suficiente para compensar envelhecimento e mercado interno limitado.",
+        "key_risk": "Produtividade lenta combinada a custos fiscais do envelhecimento pode corroer espaço de investimento sem produzir uma crise dramática imediata.",
+        "watch": [
+          "produtividade",
+          "investimento privado",
+          "gasto previdenciário",
+          "exportação de serviços",
+          "migração qualificada",
+          "uso do acordo UE–Mercosul"
+        ],
+        "search_text": "Uruguai dossiê país história econômica Batllismo welfare crise 2002 energia renovável envelhecimento Mercosul 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "UY",
+          "slug": "uruguay"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context"
+  }
+}

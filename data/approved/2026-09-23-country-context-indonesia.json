@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-indonesia",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "41a4db83aa89765c2797b5cb7829e3e3d4c6929d",
+  "source_blob_shas": {
+    "en": "3b900bfc5e166d2244210643c836bd7da6292c10",
+    "pt-BR": "1a69dbdc9baf872a5d584c2edf601d7b0318d165"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-indonesia",
+    "slug": "2026-09-23-country-context-indonesia",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:50:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-indonesia/en.md",
+        "title": "Indonesia: archipelagic state formation, commodity upgrading and the challenge of converting scale into productivity",
+        "deck": "Indonesia's modern economy was shaped by maritime trade, colonial extraction, post-independence state building and a post-1998 democratic decentralization; in 2026 its central challenge is to turn a vast domestic market, mineral endowments and infrastructure investment into higher productivity without recreating commodity dependence or regional fragmentation.",
+        "tags": [
+          "Indonesia",
+          "economic history",
+          "nickel",
+          "industrial policy",
+          "decentralization",
+          "Southeast Asia",
+          "BRICS"
+        ],
+        "keywords": [
+          "Indonesia economic history",
+          "Indonesia economy 2026",
+          "nickel downstreaming",
+          "Indonesia industrial policy",
+          "Indonesia decentralization",
+          "BRICS Indonesia"
+        ],
+        "regime": "Indonesia is a stable 5%-growth economy using high investment and commodity downstreaming to deepen industrialization, with success depending on technology transfer, logistics and labour productivity.",
+        "key_risk": "Capital-intensive downstream projects and large infrastructure programs could raise capacity without broad productivity gains if local supplier and skill linkages remain shallow.",
+        "watch": [
+          "manufacturing complexity",
+          "nickel downstream value added",
+          "private investment",
+          "logistics costs",
+          "formal employment",
+          "regional productivity"
+        ],
+        "search_text": "Indonesia country dossier economic history VOC New Order Reformasi decentralization nickel downstreaming demographics BRICS 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-indonesia/pt-BR.md",
+        "title": "Indonésia: formação de um Estado arquipelágico, upgrading de commodities e o desafio de converter escala em produtividade",
+        "deck": "A economia moderna da Indonésia foi moldada por comércio marítimo, extração colonial, construção estatal pós-independência e descentralização democrática após 1998; em 2026 o desafio central é transformar mercado doméstico, minerais e infraestrutura em produtividade maior sem recriar dependência de commodities ou fragmentação regional.",
+        "tags": [
+          "Indonésia",
+          "história econômica",
+          "níquel",
+          "política industrial",
+          "descentralização",
+          "Sudeste Asiático",
+          "BRICS"
+        ],
+        "keywords": [
+          "história econômica Indonésia",
+          "economia Indonésia 2026",
+          "downstreaming níquel",
+          "política industrial Indonésia",
+          "descentralização Indonésia",
+          "BRICS Indonésia"
+        ],
+        "regime": "A Indonésia é uma economia de crescimento estável próximo de 5% que usa investimento elevado e processamento de commodities para aprofundar industrialização, com sucesso dependendo de tecnologia, logística e produtividade do trabalho.",
+        "key_risk": "Projetos downstream intensivos em capital e grandes programas de infraestrutura podem elevar capacidade sem ganhos amplos de produtividade se fornecedores e qualificação locais permanecerem rasos.",
+        "watch": [
+          "complexidade manufatureira",
+          "valor agregado do níquel",
+          "investimento privado",
+          "custos logísticos",
+          "emprego formal",
+          "produtividade regional"
+        ],
+        "search_text": "Indonésia dossiê país história econômica VOC Nova Ordem Reformasi descentralização níquel downstreaming demografia BRICS 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "southeast-asia"
+      ],
+      "countries": [
+        {
+          "code": "ID",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": []
+  }
+}

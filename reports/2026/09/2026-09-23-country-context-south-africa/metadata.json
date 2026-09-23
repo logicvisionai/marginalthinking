@@ -130,5 +130,9 @@
       ],
       "search_text": "África do Sul dossiê país história econômica revolução mineral apartheid desigualdade desemprego Eskom Transnet infraestrutura BRICS 2026"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-23T14:42:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
 }

@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-egypt",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "75c1be2924018eb25ff9636595d733abe3f96fff",
+  "source_blob_shas": {
+    "en": "151066e6aa533d6cff4ba94c3f0a06bf8b5f227a",
+    "pt-BR": "dd46d2fd9795b034e97034c3c5d9014615a30de1"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-egypt",
+    "slug": "2026-09-23-country-context-egypt",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:40:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-egypt/en.md",
+        "title": "Egypt: river-state continuity, demographic pressure and the struggle to finance a strategic crossroads",
+        "deck": "Egypt's economy has repeatedly been organized around the Nile, a dense population core and control of routes between the Mediterranean, Red Sea, Africa and Asia; in 2026 the central challenge is to convert strategic geography and a large domestic market into productivity while reducing inflation, debt pressure and the state's crowding-out of private capital.",
+        "tags": [
+          "Egypt",
+          "economic history",
+          "Suez Canal",
+          "state economy",
+          "demography",
+          "North Africa",
+          "BRICS"
+        ],
+        "keywords": [
+          "Egypt economic history",
+          "Egypt economy 2026",
+          "Suez Canal economy",
+          "Egypt population",
+          "Egypt state enterprises",
+          "BRICS Egypt"
+        ],
+        "regime": "Egypt is recovering under a macro adjustment program, but high inflation, debt pressure and a large state footprint still limit the conversion of strategic geography into private-sector productivity.",
+        "key_risk": "A combination of regional conflict, weak Suez receipts and renewed foreign-exchange pressure could force another inflationary adjustment before private investment has strengthened.",
+        "watch": [
+          "inflation and exchange rate",
+          "Suez traffic",
+          "private investment",
+          "state divestment",
+          "tourism and remittances",
+          "food prices"
+        ],
+        "search_text": "Egypt country dossier economic history Nile Suez Nasser state enterprises inflation population BRICS 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-egypt/pt-BR.md",
+        "title": "Egito: continuidade do Estado fluvial, pressão demográfica e a dificuldade de financiar uma encruzilhada estratégica",
+        "deck": "A economia egípcia foi repetidamente organizada em torno do Nilo, de um núcleo populacional denso e do controle de rotas entre Mediterrâneo, Mar Vermelho, África e Ásia; em 2026 o desafio central é converter geografia estratégica e grande mercado interno em produtividade enquanto reduz inflação, pressão da dívida e deslocamento do capital privado pelo Estado.",
+        "tags": [
+          "Egito",
+          "história econômica",
+          "Canal de Suez",
+          "economia estatal",
+          "demografia",
+          "Norte da África",
+          "BRICS"
+        ],
+        "keywords": [
+          "história econômica Egito",
+          "economia Egito 2026",
+          "Canal de Suez economia",
+          "população Egito",
+          "empresas estatais Egito",
+          "BRICS Egito"
+        ],
+        "regime": "O Egito se recupera sob ajuste macroeconômico, mas inflação alta, pressão da dívida e grande presença estatal ainda limitam a conversão da geografia estratégica em produtividade privada.",
+        "key_risk": "Conflito regional, receitas fracas de Suez e nova pressão cambial podem impor outro ajuste inflacionário antes de o investimento privado se fortalecer.",
+        "watch": [
+          "inflação e câmbio",
+          "tráfego de Suez",
+          "investimento privado",
+          "desinvestimento estatal",
+          "turismo e remessas",
+          "preços de alimentos"
+        ],
+        "search_text": "Egito dossiê país história econômica Nilo Suez Nasser empresas estatais inflação população BRICS 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "africa"
+      ],
+      "subregions": [
+        "north-africa"
+      ],
+      "countries": [
+        {
+          "code": "EG",
+          "slug": "egypt"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": []
+  }
+}

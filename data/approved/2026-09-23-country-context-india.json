@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-india",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "65c373cec775436cea0444cee572e1c5b98f7d2b",
+  "source_blob_shas": {
+    "en": "b7ff35055ce2b5f5e425022c8547de48b9a8a317",
+    "pt-BR": "06b51b6350ae7d5cd0b95a28e7b17691a32ddc8e"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-india",
+    "slug": "2026-09-23-country-context-india",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:25:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-india/en.md",
+        "title": "India: demographic scale, institutional continuity and the unfinished transformation from agriculture to high-productivity employment",
+        "deck": "India combines civilizational depth, colonial institutional legacies, post-independence state building and a post-1991 market acceleration; in 2026 its central economic problem is converting exceptional demographic and digital scale into mass productive employment, urban capacity and higher productivity.",
+        "tags": [
+          "India",
+          "economic history",
+          "demography",
+          "industrialization",
+          "digital public infrastructure",
+          "employment",
+          "BRICS"
+        ],
+        "keywords": [
+          "India economic history",
+          "India 2026 economy",
+          "demographic dividend India",
+          "India manufacturing",
+          "digital public infrastructure India",
+          "India labour market",
+          "BRICS India"
+        ],
+        "regime": "India is in a high-growth transition in which demographic scale, digital infrastructure and public investment are strong, but the decisive bottleneck is the movement of workers into productive formal employment.",
+        "key_risk": "If job creation, skills and urban capacity lag the expansion of the working-age population, high aggregate growth can coexist with persistent informality and uneven household mobility.",
+        "watch": [
+          "manufacturing employment",
+          "female labour participation",
+          "learning outcomes",
+          "urban housing and infrastructure",
+          "private investment",
+          "state-level productivity dispersion"
+        ],
+        "search_text": "India country dossier economic history Mughal British Raj planning 1991 reform services manufacturing demographics employment digital public infrastructure BRICS 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-india/pt-BR.md",
+        "title": "Índia: escala demográfica, continuidade institucional e a transformação incompleta da agricultura para empregos de alta produtividade",
+        "deck": "A Índia combina profundidade civilizacional, legados institucionais coloniais, construção estatal pós-independência e aceleração de mercado após 1991; em 2026, seu problema econômico central é converter escala demográfica e digital excepcional em emprego produtivo de massa, capacidade urbana e maior produtividade.",
+        "tags": [
+          "Índia",
+          "história econômica",
+          "demografia",
+          "industrialização",
+          "infraestrutura pública digital",
+          "emprego",
+          "BRICS"
+        ],
+        "keywords": [
+          "história econômica Índia",
+          "economia Índia 2026",
+          "dividendo demográfico Índia",
+          "manufatura Índia",
+          "infraestrutura pública digital Índia",
+          "mercado de trabalho Índia",
+          "BRICS Índia"
+        ],
+        "regime": "A Índia vive transição de alto crescimento em que escala demográfica, infraestrutura digital e investimento público são fortes, mas o gargalo decisivo é mover trabalhadores para emprego formal produtivo.",
+        "key_risk": "Se criação de empregos, qualificação e capacidade urbana ficarem atrás da expansão da população em idade ativa, crescimento agregado elevado pode coexistir com informalidade persistente e mobilidade desigual.",
+        "watch": [
+          "emprego manufatureiro",
+          "participação feminina",
+          "resultados de aprendizagem",
+          "moradia e infraestrutura urbana",
+          "investimento privado",
+          "dispersão de produtividade entre estados"
+        ],
+        "search_text": "Índia dossiê país história econômica Mughal Raj britânico planejamento reforma 1991 serviços manufatura demografia emprego infraestrutura pública digital BRICS 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "south-asia"
+      ],
+      "countries": [
+        {
+          "code": "IN",
+          "slug": "india"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": []
+  }
+}

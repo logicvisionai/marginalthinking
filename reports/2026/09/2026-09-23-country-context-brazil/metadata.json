@@ -131,5 +131,9 @@
       ],
       "search_text": "Brasil dossiê país história econômica escravidão industrialização inflação Plano Real commodities desigualdade produtividade reforma tributária BRICS Mercosul 2026"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-23T14:42:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
 }

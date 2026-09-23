@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-ethiopia",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "0e8ac6f01ca79b62dc4ef4b2e297b14eecc9db12",
+  "source_blob_shas": {
+    "en": "f4c71a550259fdf782cc1b2d492e1104a8f4ed32",
+    "pt-BR": "05e80af850ebf5819f076ac58da25822582e6242"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-ethiopia",
+    "slug": "2026-09-23-country-context-ethiopia",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:45:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-ethiopia/en.md",
+        "title": "Ethiopia: highland state formation, demographic scale and the difficult transition from public-investment growth to a market-based economy",
+        "deck": "Ethiopia combines a long history of highland state formation with one of Africa's largest populations and a recent model of state-led infrastructure and industrial investment; in 2026 rapid growth coexists with inflation, foreign-exchange reform, debt restructuring and the social consequences of recent conflict.",
+        "tags": [
+          "Ethiopia",
+          "economic history",
+          "developmental state",
+          "foreign exchange",
+          "demography",
+          "East Africa",
+          "BRICS"
+        ],
+        "keywords": [
+          "Ethiopia economic history",
+          "Ethiopia economy 2026",
+          "Ethiopia FX reform",
+          "Ethiopia developmental state",
+          "Ethiopia demographics",
+          "BRICS Ethiopia"
+        ],
+        "regime": "Ethiopia is attempting to move from a public-investment and administratively allocated growth model toward a more market-based system while preserving exceptionally high growth and rebuilding reserves.",
+        "key_risk": "Exchange-rate reform can lose credibility if inflation, reserve weakness or renewed conflict prevents private exports and investment from responding.",
+        "watch": [
+          "FX premium",
+          "inflation",
+          "foreign reserves",
+          "private credit",
+          "debt restructuring",
+          "conflict and displacement indicators"
+        ],
+        "search_text": "Ethiopia country dossier economic history empire Derg developmental state infrastructure FX reform demographics BRICS 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-ethiopia/pt-BR.md",
+        "title": "Etiópia: formação estatal nas terras altas, escala demográfica e a difícil transição do crescimento por investimento público para uma economia de mercado",
+        "deck": "A Etiópia combina longa história de formação estatal nas terras altas com uma das maiores populações da África e um modelo recente de infraestrutura e investimento industrial liderado pelo Estado; em 2026 crescimento rápido convive com inflação, reforma cambial, reestruturação da dívida e consequências sociais de conflitos recentes.",
+        "tags": [
+          "Etiópia",
+          "história econômica",
+          "Estado desenvolvimentista",
+          "câmbio",
+          "demografia",
+          "África Oriental",
+          "BRICS"
+        ],
+        "keywords": [
+          "história econômica Etiópia",
+          "economia Etiópia 2026",
+          "reforma cambial Etiópia",
+          "Estado desenvolvimentista Etiópia",
+          "demografia Etiópia",
+          "BRICS Etiópia"
+        ],
+        "regime": "A Etiópia tenta passar de um modelo de investimento público e alocação administrativa para sistema mais orientado por mercado mantendo crescimento excepcional e reconstruindo reservas.",
+        "key_risk": "A reforma cambial pode perder credibilidade se inflação, reservas fracas ou conflito renovado impedirem resposta de exportações e investimento privados.",
+        "watch": [
+          "prêmio cambial",
+          "inflação",
+          "reservas",
+          "crédito privado",
+          "reestruturação da dívida",
+          "conflito e deslocamento"
+        ],
+        "search_text": "Etiópia dossiê país história econômica império Derg Estado desenvolvimentista infraestrutura reforma cambial demografia BRICS 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "africa"
+      ],
+      "subregions": [
+        "sub-saharan-africa"
+      ],
+      "countries": [
+        {
+          "code": "ET",
+          "slug": "ethiopia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "political-stability"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": []
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-09-23-MERCOSUR",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "195fcb787de6dc2e3fa4719ea203a9904ef3f3e5",
+  "source_blob_shas": {
+    "en": "cad2137e1d11d7065f6e72053f1b99ff3ffd0ebd",
+    "pt-BR": "0ad073d270d519b9501cb0a512396307791972be"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Current membership, institutional status and 2026 summit/trade facts are tied to official BRICS/NDB/Mercosur/EU sources; economic interpretation distinguishes institutions from political rhetoric."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct institutional thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR fully localized and semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "History, governance, asymmetry, finance/trade and 2026 implementation tests are connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Institutional history, governance design, member asymmetry, physical networks, financial mechanisms and current implementation are covered at the same structural standard used by the Russia dossier."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, causal flows and structural network map in both locales.",
+      "limitations": "Cross-country values are explicitly labelled and do not imply ranking or perfectly harmonized statistical definitions."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Institutional expansion is not treated as proof of economic integration.",
+    "Local-currency use is explicitly separated from claims of a common BRICS currency; Mercosur political durability is separated from incomplete market integration."
+  ],
+  "limitations": [
+    "Membership, partner status and trade-agreement implementation are time-sensitive.",
+    "Intergovernmental declarations do not prove implementation without operational evidence."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-09-23-MERCOSUR",
+    "slug": "2026-09-23-mercosur-system",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:34:00-03:00",
+    "kind": "regional-integration-system",
+    "priority": 15,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-mercosur-system/en.md",
+        "title": "Mercosur in 2026: from democratic rapprochement to an incomplete customs union facing its largest external opening",
+        "deck": "A structural reconstruction of Mercosur as a political peace project, imperfect customs union, production network and external negotiating platform at the moment Bolivia is incorporated and the EU agreement enters provisional application.",
+        "tags": [
+          "Mercosur",
+          "South America",
+          "regional integration",
+          "EU–Mercosur",
+          "customs union",
+          "trade"
+        ],
+        "keywords": [
+          "Mercosur 2026",
+          "Mercosur members",
+          "Bolivia Mercosur",
+          "Venezuela suspended Mercosur",
+          "EU Mercosur agreement 2026",
+          "Mercosur customs union"
+        ],
+        "regime": "Mercosur remains an intergovernmental and incomplete customs union with durable political institutions; Bolivia's accession and the provisional EU agreement create the largest implementation test since its founding.",
+        "key_risk": "If external liberalization advances without reducing internal customs, regulatory and infrastructure frictions, Mercosur may remain politically durable but economically shallow.",
+        "watch": [
+          "EU agreement preference utilization",
+          "Bolivia acquis incorporation",
+          "intra-bloc investment",
+          "customs and logistics times",
+          "regional energy flows",
+          "Venezuela status"
+        ],
+        "search_text": "Mercosur 2026 deep research history Treaty Asuncion Ouro Preto Bolivia accession Venezuela suspension EU agreement customs union regional production integration"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-mercosur-system/pt-BR.md",
+        "title": "Mercosul em 2026: da aproximação democrática a uma união aduaneira incompleta diante de sua maior abertura externa",
+        "deck": "Reconstrução estrutural do Mercosul como projeto político de paz, união aduaneira imperfeita, rede produtiva e plataforma de negociação externa no momento em que a Bolívia é incorporada e o acordo com a UE entra em aplicação provisória.",
+        "tags": [
+          "Mercosul",
+          "América do Sul",
+          "integração regional",
+          "UE–Mercosul",
+          "união aduaneira",
+          "comércio"
+        ],
+        "keywords": [
+          "Mercosul 2026",
+          "membros Mercosul",
+          "Bolívia Mercosul",
+          "Venezuela suspensa Mercosul",
+          "acordo UE Mercosul 2026",
+          "união aduaneira Mercosul"
+        ],
+        "regime": "O Mercosul permanece união aduaneira intergovernamental e incompleta com instituições políticas duráveis; a entrada da Bolívia e o acordo provisório com a UE criam o maior teste de implementação desde sua fundação.",
+        "key_risk": "Se a abertura externa avançar sem reduzir fricções aduaneiras, regulatórias e de infraestrutura internas, o Mercosul pode permanecer politicamente durável mas economicamente raso.",
+        "watch": [
+          "utilização das preferências do acordo UE",
+          "incorporação normativa da Bolívia",
+          "investimento intrabloco",
+          "tempos aduaneiros e logísticos",
+          "fluxos de energia",
+          "status da Venezuela"
+        ],
+        "search_text": "Mercosul 2026 pesquisa profunda história Tratado Assunção Ouro Preto Bolívia adesão Venezuela suspensão acordo UE união aduaneira integração produtiva"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "AR",
+          "slug": "argentina"
+        },
+        {
+          "code": "BO",
+          "slug": "bolivia"
+        },
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "PY",
+          "slug": "paraguay"
+        },
+        {
+          "code": "UY",
+          "slug": "uruguay"
+        },
+        {
+          "code": "VE",
+          "slug": "venezuela"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1
+  }
+}

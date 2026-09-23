@@ -92,6 +92,1213 @@
     "qa_reviewed_commit": "a171dd47f6e369f8fb510b87d53b0897531e40ef"
   },
   {
+    "id": "MT-GS-2026-09-23-BRICS",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:32:00-03:00",
+    "kind": "global-institution-system",
+    "priority": 14,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "africa",
+        "americas",
+        "asia-pacific",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "RU",
+          "slug": "russia"
+        },
+        {
+          "code": "IN",
+          "slug": "india"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        },
+        {
+          "code": "ZA",
+          "slug": "south-africa"
+        },
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        },
+        {
+          "code": "EG",
+          "slug": "egypt"
+        },
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        },
+        {
+          "code": "ET",
+          "slug": "ethiopia"
+        },
+        {
+          "code": "IR",
+          "slug": "iran"
+        },
+        {
+          "code": "ID",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "trade-investment",
+      "banking-credit",
+      "capital-markets",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "defense-security",
+      "demographic-transition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "title": "BRICS in 2026: from an investment acronym to a heterogeneous institution of Global South coordination",
+    "deck": "An institutional and economic reconstruction of how BRICS evolved from a four-country analytical category into an 11-member coordination system with a development bank, wider diplomatic reach and rising internal heterogeneity.",
+    "tags": [
+      "BRICS",
+      "Global South",
+      "New Development Bank",
+      "international institutions",
+      "local currencies",
+      "development finance"
+    ],
+    "keywords": [
+      "BRICS 2026",
+      "BRICS members",
+      "New Development Bank",
+      "BRICS common currency",
+      "BRICS local currencies",
+      "BRICS expansion",
+      "New Delhi Declaration"
+    ],
+    "regime": "Expanded BRICS operates as a consensus-based coordination network rather than an integrated economic union, combining greater aggregate scale with higher internal heterogeneity.",
+    "key_risk": "Expansion can increase diplomatic visibility faster than operational integration, producing a gap between declarations and implemented financial, trade and infrastructure mechanisms.",
+    "watch": [
+      "NDB approvals and disbursements",
+      "local-currency financing",
+      "payment-system interoperability",
+      "intra-BRICS trade concentration",
+      "implementation continuity across presidencies",
+      "partner-country accession"
+    ],
+    "search_text": "BRICS 2026 deep research history members expansion New Development Bank NDB local currencies common currency New Delhi Declaration Global South governance",
+    "url": "/reports/2026/09/2026-09-23-brics-system.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-brics-system/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-PE-2026-09-23-MERCOSUR",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:34:00-03:00",
+    "kind": "regional-integration-system",
+    "priority": 15,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "AR",
+          "slug": "argentina"
+        },
+        {
+          "code": "BO",
+          "slug": "bolivia"
+        },
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "PY",
+          "slug": "paraguay"
+        },
+        {
+          "code": "UY",
+          "slug": "uruguay"
+        },
+        {
+          "code": "VE",
+          "slug": "venezuela"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "title": "Mercosur in 2026: from democratic rapprochement to an incomplete customs union facing its largest external opening",
+    "deck": "A structural reconstruction of Mercosur as a political peace project, imperfect customs union, production network and external negotiating platform at the moment Bolivia is incorporated and the EU agreement enters provisional application.",
+    "tags": [
+      "Mercosur",
+      "South America",
+      "regional integration",
+      "EU–Mercosur",
+      "customs union",
+      "trade"
+    ],
+    "keywords": [
+      "Mercosur 2026",
+      "Mercosur members",
+      "Bolivia Mercosur",
+      "Venezuela suspended Mercosur",
+      "EU Mercosur agreement 2026",
+      "Mercosur customs union"
+    ],
+    "regime": "Mercosur remains an intergovernmental and incomplete customs union with durable political institutions; Bolivia's accession and the provisional EU agreement create the largest implementation test since its founding.",
+    "key_risk": "If external liberalization advances without reducing internal customs, regulatory and infrastructure frictions, Mercosur may remain politically durable but economically shallow.",
+    "watch": [
+      "EU agreement preference utilization",
+      "Bolivia acquis incorporation",
+      "intra-bloc investment",
+      "customs and logistics times",
+      "regional energy flows",
+      "Venezuela status"
+    ],
+    "search_text": "Mercosur 2026 deep research history Treaty Asuncion Ouro Preto Bolivia accession Venezuela suspension EU agreement customs union regional production integration",
+    "url": "/reports/2026/09/2026-09-23-mercosur-system.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-mercosur-system/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-argentina",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:10:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "AR",
+          "slug": "argentina"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "Argentina: frontier wealth, distributive conflict and the century-long search for a stable monetary-fiscal regime",
+    "deck": "Argentina moved from one of the world's richest agro-export economies to repeated cycles of industrialization, inflation, debt crisis and stabilization; in 2026 the central question is whether the latest fiscal and monetary adjustment can become an institutional regime rather than another temporary stabilization.",
+    "tags": [
+      "Argentina",
+      "economic history",
+      "inflation",
+      "stabilization",
+      "Vaca Muerta",
+      "Mercosur"
+    ],
+    "keywords": [
+      "Argentina economic history",
+      "Argentina inflation",
+      "Argentina economy 2026",
+      "convertibility",
+      "Vaca Muerta",
+      "Mercosur Argentina"
+    ],
+    "regime": "Argentina is in a recovery from a severe stabilization shock, with fiscal adjustment and disinflation creating a potential new regime whose durability has not yet been demonstrated across a full political-economic cycle.",
+    "key_risk": "The central risk is that fiscal and monetary discipline weakens as growth returns, reviving exchange-rate pressure and the historical inflation-indexation cycle.",
+    "watch": [
+      "inflation expectations",
+      "primary balance",
+      "reserves",
+      "FX regime",
+      "real wages and poverty",
+      "Vaca Muerta exports"
+    ],
+    "search_text": "Argentina country dossier economic history agro export industrialization inflation convertibility stabilization 2026 Mercosur",
+    "url": "/reports/2026/09/2026-09-23-country-context-argentina.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-argentina/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-bolivia",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:15:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BO",
+          "slug": "bolivia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "Bolivia: extractive cycles, revolutionary redistribution and the foreign-exchange constraint after the gas boom",
+    "deck": "Bolivia's history links silver, tin, gas and lithium to repeated struggles over who controls resource rents and how a landlocked, high-altitude economy integrates with neighbours; in 2026 falling buffers, inflation and recession make macro stabilization and export reconstruction the immediate structural test.",
+    "tags": [
+      "Bolivia",
+      "economic history",
+      "gas",
+      "lithium",
+      "hyperinflation",
+      "Mercosur"
+    ],
+    "keywords": [
+      "Bolivia economic history",
+      "Bolivia economy 2026",
+      "Bolivia gas",
+      "Bolivia lithium",
+      "Bolivia inflation",
+      "Mercosur Bolivia"
+    ],
+    "regime": "Bolivia is entering a painful transition away from the gas-boom/fixed-exchange-rate model, with recession and inflation forcing a reconstruction of fiscal, currency and export institutions.",
+    "key_risk": "If stabilization depletes household income without rebuilding export capacity and reserves, the country may trade an FX crisis for prolonged stagnation.",
+    "watch": [
+      "foreign reserves",
+      "inflation",
+      "fuel subsidies",
+      "gas production",
+      "lithium investment",
+      "nontraditional exports"
+    ],
+    "search_text": "Bolivia country dossier economic history Potosi tin 1952 revolution hyperinflation gas boom lithium 2026 Mercosur",
+    "url": "/reports/2026/09/2026-09-23-country-context-bolivia.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-bolivia/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-brazil",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:30:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "Brazil: continental scale, inequality and the long struggle to turn state capacity and natural wealth into productivity",
+    "deck": "Brazil moved from colonial extraction and slavery through state-led industrialization, inflationary crisis, stabilization and commodity-financed social expansion; in 2026 its central challenge is to raise productivity and investment while preserving macro stability, reducing inequality and integrating a continental economy.",
+    "tags": [
+      "Brazil",
+      "economic history",
+      "inequality",
+      "productivity",
+      "Real Plan",
+      "BRICS",
+      "Mercosur"
+    ],
+    "keywords": [
+      "Brazil economic history",
+      "Brazil 2026 economy",
+      "Brazil productivity",
+      "Brazil inequality",
+      "Real Plan",
+      "Brazil tax reform",
+      "BRICS Brazil",
+      "Mercosur Brazil"
+    ],
+    "regime": "Brazil is a diversified middle-income economy with strong resource and institutional assets, but low investment and productivity keep convergence below what its scale and capabilities would otherwise permit.",
+    "key_risk": "High fiscal risk premia and weak capital formation could offset gains from tax reform, energy abundance and a tighter labour market.",
+    "watch": [
+      "fixed investment",
+      "public debt and interest burden",
+      "VAT implementation",
+      "productivity and learning outcomes",
+      "formal employment",
+      "infrastructure concessions"
+    ],
+    "search_text": "Brazil country dossier economic history slavery industrialization inflation Real Plan commodities inequality productivity tax reform BRICS Mercosur 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-brazil.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-brazil/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-china",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:20:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "CN",
+          "slug": "china"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "China: state formation, industrial scale and the transition from investment-led growth to a mature economy",
+    "deck": "China's present economic power rests on a long history of state capacity, a twentieth-century revolutionary rupture and an extraordinary post-1978 industrial transformation; by 2026 the central problem has shifted from building capacity to allocating income, capital and risk across an aging, highly productive but increasingly imbalanced economy.",
+    "tags": [
+      "China",
+      "economic history",
+      "industrialization",
+      "state capacity",
+      "demography",
+      "manufacturing",
+      "BRICS"
+    ],
+    "keywords": [
+      "China economic history",
+      "China 2026 economy",
+      "Chinese industrialization",
+      "property adjustment",
+      "Chinese demography",
+      "state capacity China",
+      "BRICS China"
+    ],
+    "regime": "China is moving from an investment- and property-intensive convergence model toward a mature economy in which consumption, productivity, aging and balance-sheet repair matter more than the simple expansion of industrial capacity.",
+    "key_risk": "A prolonged combination of weak household demand, property losses, local-government debt and external trade restrictions could reduce returns to China's otherwise exceptional industrial capacity.",
+    "watch": [
+      "household consumption share",
+      "property sales and inventories",
+      "local-government financing",
+      "producer prices and capacity utilization",
+      "labour force and retirement reform",
+      "advanced manufacturing productivity"
+    ],
+    "search_text": "China country dossier economic history state capacity industrialization Mao reform opening WTO property demographics consumption manufacturing BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-china.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-china/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-egypt",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:40:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "africa"
+      ],
+      "subregions": [
+        "north-africa"
+      ],
+      "countries": [
+        {
+          "code": "EG",
+          "slug": "egypt"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "Egypt: river-state continuity, demographic pressure and the struggle to finance a strategic crossroads",
+    "deck": "Egypt's economy has repeatedly been organized around the Nile, a dense population core and control of routes between the Mediterranean, Red Sea, Africa and Asia; in 2026 the central challenge is to convert strategic geography and a large domestic market into productivity while reducing inflation, debt pressure and the state's crowding-out of private capital.",
+    "tags": [
+      "Egypt",
+      "economic history",
+      "Suez Canal",
+      "state economy",
+      "demography",
+      "North Africa",
+      "BRICS"
+    ],
+    "keywords": [
+      "Egypt economic history",
+      "Egypt economy 2026",
+      "Suez Canal economy",
+      "Egypt population",
+      "Egypt state enterprises",
+      "BRICS Egypt"
+    ],
+    "regime": "Egypt is recovering under a macro adjustment program, but high inflation, debt pressure and a large state footprint still limit the conversion of strategic geography into private-sector productivity.",
+    "key_risk": "A combination of regional conflict, weak Suez receipts and renewed foreign-exchange pressure could force another inflationary adjustment before private investment has strengthened.",
+    "watch": [
+      "inflation and exchange rate",
+      "Suez traffic",
+      "private investment",
+      "state divestment",
+      "tourism and remittances",
+      "food prices"
+    ],
+    "search_text": "Egypt country dossier economic history Nile Suez Nasser state enterprises inflation population BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-egypt.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-egypt/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-ethiopia",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:45:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "africa"
+      ],
+      "subregions": [
+        "sub-saharan-africa"
+      ],
+      "countries": [
+        {
+          "code": "ET",
+          "slug": "ethiopia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "political-stability"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "Ethiopia: highland state formation, demographic scale and the difficult transition from public-investment growth to a market-based economy",
+    "deck": "Ethiopia combines a long history of highland state formation with one of Africa's largest populations and a recent model of state-led infrastructure and industrial investment; in 2026 rapid growth coexists with inflation, foreign-exchange reform, debt restructuring and the social consequences of recent conflict.",
+    "tags": [
+      "Ethiopia",
+      "economic history",
+      "developmental state",
+      "foreign exchange",
+      "demography",
+      "East Africa",
+      "BRICS"
+    ],
+    "keywords": [
+      "Ethiopia economic history",
+      "Ethiopia economy 2026",
+      "Ethiopia FX reform",
+      "Ethiopia developmental state",
+      "Ethiopia demographics",
+      "BRICS Ethiopia"
+    ],
+    "regime": "Ethiopia is attempting to move from a public-investment and administratively allocated growth model toward a more market-based system while preserving exceptionally high growth and rebuilding reserves.",
+    "key_risk": "Exchange-rate reform can lose credibility if inflation, reserve weakness or renewed conflict prevents private exports and investment from responding.",
+    "watch": [
+      "FX premium",
+      "inflation",
+      "foreign reserves",
+      "private credit",
+      "debt restructuring",
+      "conflict and displacement indicators"
+    ],
+    "search_text": "Ethiopia country dossier economic history empire Derg developmental state infrastructure FX reform demographics BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-ethiopia.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-ethiopia/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-india",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:25:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "south-asia"
+      ],
+      "countries": [
+        {
+          "code": "IN",
+          "slug": "india"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "India: demographic scale, institutional continuity and the unfinished transformation from agriculture to high-productivity employment",
+    "deck": "India combines civilizational depth, colonial institutional legacies, post-independence state building and a post-1991 market acceleration; in 2026 its central economic problem is converting exceptional demographic and digital scale into mass productive employment, urban capacity and higher productivity.",
+    "tags": [
+      "India",
+      "economic history",
+      "demography",
+      "industrialization",
+      "digital public infrastructure",
+      "employment",
+      "BRICS"
+    ],
+    "keywords": [
+      "India economic history",
+      "India 2026 economy",
+      "demographic dividend India",
+      "India manufacturing",
+      "digital public infrastructure India",
+      "India labour market",
+      "BRICS India"
+    ],
+    "regime": "India is in a high-growth transition in which demographic scale, digital infrastructure and public investment are strong, but the decisive bottleneck is the movement of workers into productive formal employment.",
+    "key_risk": "If job creation, skills and urban capacity lag the expansion of the working-age population, high aggregate growth can coexist with persistent informality and uneven household mobility.",
+    "watch": [
+      "manufacturing employment",
+      "female labour participation",
+      "learning outcomes",
+      "urban housing and infrastructure",
+      "private investment",
+      "state-level productivity dispersion"
+    ],
+    "search_text": "India country dossier economic history Mughal British Raj planning 1991 reform services manufacturing demographics employment digital public infrastructure BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-india.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-india/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-indonesia",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:50:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "southeast-asia"
+      ],
+      "countries": [
+        {
+          "code": "ID",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "Indonesia: archipelagic state formation, commodity upgrading and the challenge of converting scale into productivity",
+    "deck": "Indonesia's modern economy was shaped by maritime trade, colonial extraction, post-independence state building and a post-1998 democratic decentralization; in 2026 its central challenge is to turn a vast domestic market, mineral endowments and infrastructure investment into higher productivity without recreating commodity dependence or regional fragmentation.",
+    "tags": [
+      "Indonesia",
+      "economic history",
+      "nickel",
+      "industrial policy",
+      "decentralization",
+      "Southeast Asia",
+      "BRICS"
+    ],
+    "keywords": [
+      "Indonesia economic history",
+      "Indonesia economy 2026",
+      "nickel downstreaming",
+      "Indonesia industrial policy",
+      "Indonesia decentralization",
+      "BRICS Indonesia"
+    ],
+    "regime": "Indonesia is a stable 5%-growth economy using high investment and commodity downstreaming to deepen industrialization, with success depending on technology transfer, logistics and labour productivity.",
+    "key_risk": "Capital-intensive downstream projects and large infrastructure programs could raise capacity without broad productivity gains if local supplier and skill linkages remain shallow.",
+    "watch": [
+      "manufacturing complexity",
+      "nickel downstream value added",
+      "private investment",
+      "logistics costs",
+      "formal employment",
+      "regional productivity"
+    ],
+    "search_text": "Indonesia country dossier economic history VOC New Order Reformasi decentralization nickel downstreaming demographics BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-indonesia.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-indonesia/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-iran",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:05:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [],
+      "countries": [
+        {
+          "code": "IR",
+          "slug": "iran"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition",
+      "war-armed-conflict",
+      "sanctions-economic-coercion"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "title": "Iran: imperial state traditions, oil sovereignty and the economic cost of prolonged external isolation",
+    "deck": "Iran combines ancient state traditions with a modern oil economy repeatedly reorganized by revolution, war and sanctions; the 2026 regional conflict magnifies long-standing constraints on investment, inflation and financial integration.",
+    "tags": [
+      "Iran",
+      "economic history",
+      "oil",
+      "sanctions",
+      "inflation",
+      "Middle East",
+      "BRICS"
+    ],
+    "keywords": [
+      "Iran economic history",
+      "Iran economy 2026",
+      "Iran sanctions",
+      "Iran oil economy",
+      "Iran inflation",
+      "BRICS Iran"
+    ],
+    "regime": "Iran enters 2026 with a sanctions-adapted diversified economy under a severe conflict shock, where inflation and external isolation are shortening planning horizons and weakening capital accumulation.",
+    "key_risk": "Prolonged conflict and damage to energy or financial infrastructure could deepen inflation, exchange-rate fragmentation and skilled emigration.",
+    "watch": [
+      "inflation and exchange rates",
+      "oil exports",
+      "energy infrastructure",
+      "trade finance",
+      "skilled emigration",
+      "capital investment"
+    ],
+    "search_text": "Iran country dossier economic history oil nationalization revolution sanctions inflation BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-iran.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-iran/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-paraguay",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:20:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "PY",
+          "slug": "paraguay"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "title": "Paraguay: war-shaped state formation, hydroelectric rents and the transition from low-cost agriculture to investment-grade growth",
+    "deck": "Paraguay's small, landlocked economy was profoundly reshaped by nineteenth-century war, twentieth-century authoritarian rule and later integration through Itaipu, agriculture and Mercosur; in 2026 strong growth, renewable electricity and improving credit quality create an opportunity to raise productivity beyond commodities and informality.",
+    "tags": [
+      "Paraguay",
+      "economic history",
+      "Itaipu",
+      "agriculture",
+      "investment grade",
+      "Mercosur"
+    ],
+    "keywords": [
+      "Paraguay economic history",
+      "Paraguay economy 2026",
+      "Itaipu",
+      "Paraguay investment grade",
+      "soy Paraguay",
+      "Mercosur Paraguay"
+    ],
+    "regime": "Paraguay enters 2026 with strong macro credibility, high growth and abundant renewable electricity; the structural challenge is converting those advantages into formal, diversified and higher-productivity employment.",
+    "key_risk": "A commodity or hydrological shock combined with fiscal slippage could expose how much of recent strength still depends on agriculture and energy cycles.",
+    "watch": [
+      "formal employment",
+      "fiscal deficit",
+      "Itaipu/industrial electricity use",
+      "agricultural exports",
+      "private investment",
+      "sovereign spreads"
+    ],
+    "search_text": "Paraguay country dossier economic history Triple Alliance War Stroessner Itaipu soy investment grade Mercosur 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-paraguay.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-paraguay/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
     "id": "MT-CC-2026-09-23-russia",
     "date": "2026-09-23",
     "published_at": "2026-09-23T10:05:00-03:00",
@@ -194,6 +1401,491 @@
     "qa_reviewed_at": "2026-09-23T12:51:00Z",
     "qa_confidence": "high",
     "qa_reviewed_commit": "38318595d7e164dfc1477703c4645198c9af583c"
+  },
+  {
+    "id": "MT-CC-2026-09-23-saudi-arabia-deep",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:00:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CC-2026-09-18-saudi-arabia"
+    ],
+    "title": "Saudi Arabia: dynastic state formation, oil rent conversion and the transition from distributive monarchy to investment state",
+    "deck": "Saudi Arabia's modern economy emerged from political unification, religious alliance and the discovery of world-scale oil reserves; in 2026 Vision 2030 is attempting to convert hydrocarbon rents and sovereign capital into a broader productive economy while the regional war tests export routes, fiscal priorities and investor confidence.",
+    "tags": [
+      "Saudi Arabia",
+      "economic history",
+      "oil",
+      "Vision 2030",
+      "PIF",
+      "labour market",
+      "BRICS"
+    ],
+    "keywords": [
+      "Saudi Arabia economic history",
+      "Saudi economy 2026",
+      "Vision 2030",
+      "PIF",
+      "Saudi diversification",
+      "Aramco",
+      "BRICS Saudi Arabia"
+    ],
+    "regime": "Saudi Arabia is shifting from a distributive oil state toward an investment state, but 2026 demonstrates that fiscal strength and non-oil confidence remain tightly connected to hydrocarbon geography and regional security.",
+    "key_risk": "A prolonged regional conflict or weak returns on large state-led projects could force sharper prioritization between fiscal resilience, megaprojects and diversification.",
+    "watch": [
+      "non-oil exports",
+      "private fixed investment",
+      "PIF project returns",
+      "Saudi private employment",
+      "oil export routes",
+      "fiscal non-oil deficit"
+    ],
+    "search_text": "Saudi Arabia deep country dossier economic history oil Aramco distributive state Vision 2030 PIF diversification labour BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-saudi-arabia-deep.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-south-africa",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:35:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "africa"
+      ],
+      "subregions": [
+        "sub-saharan-africa"
+      ],
+      "countries": [
+        {
+          "code": "ZA",
+          "slug": "south-africa"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition",
+      "political-stability"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "South Africa: mineral wealth, apartheid's spatial legacy and the productivity cost of exclusion",
+    "deck": "South Africa built Africa's deepest mining-financial-industrial system through gold, diamonds and state-supported infrastructure, but apartheid locked labour and urban space into extreme inequality; three decades after democratization, weak investment, unemployment, electricity and logistics remain the central constraints on inclusive growth.",
+    "tags": [
+      "South Africa",
+      "apartheid",
+      "mining",
+      "inequality",
+      "unemployment",
+      "infrastructure",
+      "BRICS"
+    ],
+    "keywords": [
+      "South Africa economic history",
+      "apartheid economy",
+      "South Africa unemployment",
+      "Eskom reform",
+      "South Africa inequality",
+      "mineral economy",
+      "BRICS South Africa"
+    ],
+    "regime": "South Africa is a sophisticated but low-growth industrial-financial economy in which infrastructure reform has begun to remove power constraints, while unemployment, spatial inequality and weak investment remain the binding social and productivity problems.",
+    "key_risk": "If electricity improvements are not matched by logistics, municipal capacity and private investment, growth may remain too weak to reduce structural unemployment.",
+    "watch": [
+      "private fixed investment",
+      "employment rate",
+      "electricity availability",
+      "Transnet rail and port throughput",
+      "municipal finance",
+      "skills outcomes"
+    ],
+    "search_text": "South Africa country dossier economic history mineral revolution apartheid inequality unemployment Eskom Transnet infrastructure BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-south-africa.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-south-africa/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-uae",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:55:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [],
+    "title": "United Arab Emirates: federation, hydrocarbon rents and the construction of a global logistics-finance platform",
+    "deck": "The UAE transformed a small federation of Gulf emirates into a global hub for oil, trade, aviation, finance and migration; in 2026 its structural advantage is not simply hydrocarbon wealth but the ability to convert rents into infrastructure, institutions and international networks while managing geopolitical and demographic dependence.",
+    "tags": [
+      "United Arab Emirates",
+      "economic history",
+      "Dubai",
+      "Abu Dhabi",
+      "sovereign wealth",
+      "logistics",
+      "BRICS"
+    ],
+    "keywords": [
+      "UAE economic history",
+      "UAE economy 2026",
+      "Dubai diversification",
+      "Abu Dhabi sovereign wealth",
+      "UAE logistics",
+      "BRICS UAE"
+    ],
+    "regime": "The UAE is a diversified global platform financed by hydrocarbon wealth and network infrastructure, with 2026 testing its resilience to a regional security shock that hits trade and energy simultaneously.",
+    "key_risk": "A prolonged regional conflict could reduce the benefits of diversification because oil, aviation, tourism, trade and finance share the same geographic security environment.",
+    "watch": [
+      "port throughput",
+      "aviation traffic",
+      "FDI",
+      "real estate prices",
+      "hydrocarbon exports",
+      "Emiratization"
+    ],
+    "search_text": "UAE country dossier economic history Abu Dhabi Dubai oil sovereign wealth logistics migrant labour BRICS 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-united-arab-emirates.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-united-arab-emirates/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-uruguay",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:25:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "UY",
+          "slug": "uruguay"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "title": "Uruguay: export pastoralism, early welfare institutions and the productivity challenge of a small aging economy",
+    "deck": "Uruguay built unusually strong social and political institutions on a cattle-export economy, later combining welfare, state enterprises, financial openness and renewable energy; in 2026 its main constraint is not macro instability but slow productivity and demographic growth in a very small domestic market.",
+    "tags": [
+      "Uruguay",
+      "economic history",
+      "welfare state",
+      "renewable energy",
+      "aging",
+      "Mercosur"
+    ],
+    "keywords": [
+      "Uruguay economic history",
+      "Uruguay economy 2026",
+      "Uruguay welfare state",
+      "renewable energy Uruguay",
+      "Uruguay aging",
+      "Mercosur Uruguay"
+    ],
+    "regime": "Uruguay is a stable, high-institutional-quality small economy whose primary structural challenge is raising productivity fast enough to offset aging and limited domestic scale.",
+    "key_risk": "Slow productivity growth combined with age-related fiscal costs could erode the room for investment without producing a dramatic crisis signal.",
+    "watch": [
+      "productivity",
+      "private investment",
+      "pension spending",
+      "service exports",
+      "skilled migration",
+      "EU–Mercosur utilization"
+    ],
+    "search_text": "Uruguay country dossier economic history Batllismo welfare 2002 crisis renewable energy aging Mercosur 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-uruguay.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-uruguay/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+  },
+  {
+    "id": "MT-CC-2026-09-23-venezuela",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:30:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "VE",
+          "slug": "venezuela"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "sanctions-economic-coercion",
+      "migration-displacement",
+      "political-stability"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "context_role": "country-context",
+    "title": "Venezuela: oil-state formation, institutional collapse and the economics of partial stabilization after hyperinflation",
+    "deck": "Venezuela transformed from an agricultural exporter into one of the world's archetypal oil states, using petroleum rents to finance urbanization and social policy; the later collapse of production, institutions and money generated mass migration, and by 2026 partial market adaptation coexists with renewed extreme inflation.",
+    "tags": [
+      "Venezuela",
+      "economic history",
+      "oil",
+      "hyperinflation",
+      "migration",
+      "Mercosur"
+    ],
+    "keywords": [
+      "Venezuela economic history",
+      "Venezuela economy 2026",
+      "Venezuela oil",
+      "Venezuela hyperinflation",
+      "Venezuelan migration",
+      "Mercosur Venezuela"
+    ],
+    "regime": "Venezuela is experiencing partial real-activity recovery inside a still-fragile monetary and institutional system, with very high inflation and oil capacity far below its geological potential.",
+    "key_risk": "Renewed monetary acceleration or external disruption can reverse private-sector adaptation before investment and fiscal institutions recover.",
+    "watch": [
+      "inflation",
+      "oil production",
+      "exchange-rate gap",
+      "real wages",
+      "migration/remittances",
+      "investment conditions"
+    ],
+    "search_text": "Venezuela country dossier economic history oil PDVSA hyperinflation migration dollarization Mercosur suspension 2026",
+    "url": "/reports/2026/09/2026-09-23-country-context-venezuela.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-country-context-venezuela/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
   },
   {
     "id": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",

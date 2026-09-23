@@ -1,0 +1,222 @@
+{
+  "schema_version": 2,
+  "id": "MT-GS-2026-09-23-BRICS",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "76963f6b2ec2a66574fedfec51f950d68f11c3b4",
+  "source_blob_shas": {
+    "en": "4041864059c5b5e7849a6333f1603a53d9481e81",
+    "pt-BR": "971e3757805c318323d1b7925c064100dc68f818"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Current membership, institutional status and 2026 summit/trade facts are tied to official BRICS/NDB/Mercosur/EU sources; economic interpretation distinguishes institutions from political rhetoric."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct institutional thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR fully localized and semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "History, governance, asymmetry, finance/trade and 2026 implementation tests are connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Institutional history, governance design, member asymmetry, physical networks, financial mechanisms and current implementation are covered at the same structural standard used by the Russia dossier."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, causal flows and structural network map in both locales.",
+      "limitations": "Cross-country values are explicitly labelled and do not imply ranking or perfectly harmonized statistical definitions."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Institutional expansion is not treated as proof of economic integration.",
+    "Local-currency use is explicitly separated from claims of a common BRICS currency; Mercosur political durability is separated from incomplete market integration."
+  ],
+  "limitations": [
+    "Membership, partner status and trade-agreement implementation are time-sensitive.",
+    "Intergovernmental declarations do not prove implementation without operational evidence."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GS-2026-09-23-BRICS",
+    "slug": "2026-09-23-brics-system",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:32:00-03:00",
+    "kind": "global-institution-system",
+    "priority": 14,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-brics-system/en.md",
+        "title": "BRICS in 2026: from an investment acronym to a heterogeneous institution of Global South coordination",
+        "deck": "An institutional and economic reconstruction of how BRICS evolved from a four-country analytical category into an 11-member coordination system with a development bank, wider diplomatic reach and rising internal heterogeneity.",
+        "tags": [
+          "BRICS",
+          "Global South",
+          "New Development Bank",
+          "international institutions",
+          "local currencies",
+          "development finance"
+        ],
+        "keywords": [
+          "BRICS 2026",
+          "BRICS members",
+          "New Development Bank",
+          "BRICS common currency",
+          "BRICS local currencies",
+          "BRICS expansion",
+          "New Delhi Declaration"
+        ],
+        "regime": "Expanded BRICS operates as a consensus-based coordination network rather than an integrated economic union, combining greater aggregate scale with higher internal heterogeneity.",
+        "key_risk": "Expansion can increase diplomatic visibility faster than operational integration, producing a gap between declarations and implemented financial, trade and infrastructure mechanisms.",
+        "watch": [
+          "NDB approvals and disbursements",
+          "local-currency financing",
+          "payment-system interoperability",
+          "intra-BRICS trade concentration",
+          "implementation continuity across presidencies",
+          "partner-country accession"
+        ],
+        "search_text": "BRICS 2026 deep research history members expansion New Development Bank NDB local currencies common currency New Delhi Declaration Global South governance"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-brics-system/pt-BR.md",
+        "title": "BRICS em 2026: de acrônimo de investimento a instituição heterogênea de coordenação do Sul Global",
+        "deck": "Reconstrução institucional e econômica de como o BRICS passou de categoria analítica de quatro países para sistema de coordenação de 11 membros com banco de desenvolvimento, alcance diplomático maior e crescente heterogeneidade interna.",
+        "tags": [
+          "BRICS",
+          "Sul Global",
+          "Novo Banco de Desenvolvimento",
+          "instituições internacionais",
+          "moedas locais",
+          "financiamento ao desenvolvimento"
+        ],
+        "keywords": [
+          "BRICS 2026",
+          "membros BRICS",
+          "Novo Banco de Desenvolvimento",
+          "moeda comum BRICS",
+          "moedas locais BRICS",
+          "expansão BRICS",
+          "Declaração de Nova Délhi"
+        ],
+        "regime": "O BRICS ampliado opera como rede de coordenação por consenso, não como união econômica integrada, combinando maior escala agregada com heterogeneidade interna maior.",
+        "key_risk": "A expansão pode aumentar visibilidade diplomática mais rápido que integração operacional, criando distância entre declarações e mecanismos financeiros, comerciais e de infraestrutura implementados.",
+        "watch": [
+          "aprovações e desembolsos do NDB",
+          "financiamento em moedas locais",
+          "interoperabilidade de pagamentos",
+          "concentração do comércio intra-BRICS",
+          "continuidade entre presidências",
+          "adesão de parceiros"
+        ],
+        "search_text": "BRICS 2026 pesquisa profunda história membros expansão Novo Banco Desenvolvimento NDB moedas locais moeda comum Nova Délhi Sul Global governança"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "africa",
+        "americas",
+        "asia-pacific",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "RU",
+          "slug": "russia"
+        },
+        {
+          "code": "IN",
+          "slug": "india"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        },
+        {
+          "code": "ZA",
+          "slug": "south-africa"
+        },
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        },
+        {
+          "code": "EG",
+          "slug": "egypt"
+        },
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        },
+        {
+          "code": "ET",
+          "slug": "ethiopia"
+        },
+        {
+          "code": "IR",
+          "slug": "iran"
+        },
+        {
+          "code": "ID",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "trade-investment",
+      "banking-credit",
+      "capital-markets",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "defense-security",
+      "demographic-transition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1
+  }
+}

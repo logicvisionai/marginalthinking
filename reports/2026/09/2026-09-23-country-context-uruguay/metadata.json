@@ -122,5 +122,9 @@
       ],
       "search_text": "Uruguai dossiê país história econômica Batllismo welfare crise 2002 energia renovável envelhecimento Mercosul 2026"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-23T14:42:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
 }

@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-saudi-arabia-deep",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T14:42:00Z",
+  "reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a",
+  "pending_blob_sha": "decc5c30d9e3e2e42e05bd5771b088b73d34c3bf",
+  "source_blob_shas": {
+    "en": "1e95ae264a7a46c63540e2ee18700faba11e37f5",
+    "pt-BR": "c29d14e17c780f6b7e235e602067af8ed7df94a8"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical discontinuities and dated current evidence are separated; current macro and institutional claims use primary or high-authority sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis.",
+      "headings": "Mechanism-led headings.",
+      "language_localization": "EN/PT-BR semantically aligned.",
+      "repetition": "Controlled.",
+      "cohesion": "Historical and current mechanisms connected.",
+      "template_meta_qa": "No public process language."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Country dossier matches the Russia standard across state formation, production, demography, social structure and 2026 constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Multiple tables and charts plus mindmap, flows and structural map in both locales.",
+      "limitations": "Units and period breaks are explicit."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Long-run development is not reduced to one institutional continuity.",
+    "Headline growth and resource abundance are not treated as sufficient evidence of welfare or productivity."
+  ],
+  "limitations": [
+    "Historical series use changing territorial/statistical definitions.",
+    "Current 2026 observations are time-sensitive."
+  ],
+  "notes": "QA v2 binds exact bilingual blobs introduced in 7fac6c15eea8a1cde969c49035b495d7860c069a.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-saudi-arabia-deep",
+    "slug": "2026-09-23-country-context-saudi-arabia-deep",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:00:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md",
+        "title": "Saudi Arabia: dynastic state formation, oil rent conversion and the transition from distributive monarchy to investment state",
+        "deck": "Saudi Arabia's modern economy emerged from political unification, religious alliance and the discovery of world-scale oil reserves; in 2026 Vision 2030 is attempting to convert hydrocarbon rents and sovereign capital into a broader productive economy while the regional war tests export routes, fiscal priorities and investor confidence.",
+        "tags": [
+          "Saudi Arabia",
+          "economic history",
+          "oil",
+          "Vision 2030",
+          "PIF",
+          "labour market",
+          "BRICS"
+        ],
+        "keywords": [
+          "Saudi Arabia economic history",
+          "Saudi economy 2026",
+          "Vision 2030",
+          "PIF",
+          "Saudi diversification",
+          "Aramco",
+          "BRICS Saudi Arabia"
+        ],
+        "regime": "Saudi Arabia is shifting from a distributive oil state toward an investment state, but 2026 demonstrates that fiscal strength and non-oil confidence remain tightly connected to hydrocarbon geography and regional security.",
+        "key_risk": "A prolonged regional conflict or weak returns on large state-led projects could force sharper prioritization between fiscal resilience, megaprojects and diversification.",
+        "watch": [
+          "non-oil exports",
+          "private fixed investment",
+          "PIF project returns",
+          "Saudi private employment",
+          "oil export routes",
+          "fiscal non-oil deficit"
+        ],
+        "search_text": "Saudi Arabia deep country dossier economic history oil Aramco distributive state Vision 2030 PIF diversification labour BRICS 2026"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-saudi-arabia-deep/pt-BR.md",
+        "title": "Arábia Saudita: formação dinástica do Estado, conversão da renda do petróleo e a transição de monarquia distributiva para Estado investidor",
+        "deck": "A economia saudita moderna surgiu da unificação política, de alianças religiosas e da descoberta de reservas de petróleo em escala mundial; em 2026 a Visão 2030 tenta converter renda de hidrocarbonetos e capital soberano em economia produtiva mais ampla enquanto a guerra regional testa rotas de exportação, prioridades fiscais e confiança.",
+        "tags": [
+          "Arábia Saudita",
+          "história econômica",
+          "petróleo",
+          "Visão 2030",
+          "PIF",
+          "mercado de trabalho",
+          "BRICS"
+        ],
+        "keywords": [
+          "história econômica Arábia Saudita",
+          "economia saudita 2026",
+          "Visão 2030",
+          "PIF",
+          "diversificação saudita",
+          "Aramco",
+          "BRICS Arábia Saudita"
+        ],
+        "regime": "A Arábia Saudita passa de Estado distributivo do petróleo para Estado investidor, mas 2026 mostra que força fiscal e confiança não petrolífera continuam ligadas à geografia energética e segurança regional.",
+        "key_risk": "Conflito regional prolongado ou retornos fracos de grandes projetos estatais podem forçar priorização mais dura entre resiliência fiscal, megaprojetos e diversificação.",
+        "watch": [
+          "exportações não petrolíferas",
+          "investimento privado",
+          "retorno de projetos do PIF",
+          "emprego privado saudita",
+          "rotas de petróleo",
+          "déficit primário não petrolífero"
+        ],
+        "search_text": "Arábia Saudita dossiê profundo história econômica petróleo Aramco Estado distributivo Visão 2030 PIF diversificação trabalho BRICS 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "demographic-transition",
+      "strategic-competition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CC-2026-09-18-saudi-arabia"
+    ]
+  }
+}

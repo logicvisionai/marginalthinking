@@ -123,5 +123,9 @@
       ],
       "search_text": "Bolívia dossiê país história econômica Potosí estanho revolução 1952 hiperinflação boom do gás lítio 2026 Mercosul"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-23T14:42:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
 }
