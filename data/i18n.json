@@ -232,8 +232,12 @@
       "deck": "Marginal Thinking is an independent research platform that tracks incremental changes in capital, productive capacity, resources, technology, institutions and power to understand wider economic and political transformations.",
       "sections": [
         {
-          "title": "The economic concept",
-          "text": "In economics, marginal analysis examines the effect of an incremental change: one additional unit, a change in cost, a new constraint or a different incentive. It helps explain how decisions change at the margin rather than looking only at averages or aggregate stocks."
+          "title": "Marginal thinking in economics",
+          "text": "In economics, marginal thinking means evaluating the effect of an incremental change: one additional unit, a change in cost, a new constraint or a different incentive. The comparison is usually between the additional benefit and the additional cost, rather than between totals or averages."
+        },
+        {
+          "title": "Examples of marginal thinking",
+          "text": "Examples include asking how a 25-basis-point rate change alters borrowing conditions, how one additional unit of transport capacity changes a bottleneck, how a marginal change in foreign demand affects a government-bond market, or whether the next unit of productive capacity changes an industry's cost structure. The point is to identify the mechanism created by the next change, not to assume that every small movement is important."
         },
         {
           "title": "The Marginal Thinking project",
@@ -483,8 +487,12 @@
       "deck": "Marginal Thinking é uma plataforma independente de pesquisa que acompanha mudanças incrementais em capital, capacidade produtiva, recursos, tecnologia, instituições e poder para entender transformações econômicas e políticas mais amplas.",
       "sections": [
         {
-          "title": "O conceito econômico",
-          "text": "Em economia, análise marginal examina o efeito de uma mudança incremental: uma unidade adicional, uma alteração de custo, uma nova restrição ou um incentivo diferente. Ela ajuda a entender como decisões mudam na margem, em vez de olhar apenas para médias ou estoques agregados."
+          "title": "Pensamento marginal em economia",
+          "text": "Em economia, pensamento marginal significa avaliar o efeito de uma mudança incremental: uma unidade adicional, uma alteração de custo, uma nova restrição ou um incentivo diferente. A comparação costuma ser entre benefício adicional e custo adicional, e não apenas entre totais ou médias."
+        },
+        {
+          "title": "Exemplos de pensamento marginal",
+          "text": "Exemplos incluem perguntar como uma mudança de 25 pontos-base nos juros altera as condições de crédito, como uma unidade adicional de capacidade de transporte modifica um estrangulamento, como uma mudança marginal na demanda externa afeta o mercado de títulos públicos ou se a próxima unidade de capacidade produtiva altera a estrutura de custos de uma indústria. O objetivo é identificar o mecanismo criado pela próxima mudança, sem presumir que todo movimento pequeno seja relevante."
         },
         {
           "title": "O projeto Marginal Thinking",
