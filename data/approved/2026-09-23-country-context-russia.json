@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-russia",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-23T12:51:00Z",
+  "reviewed_commit": "38318595d7e164dfc1477703c4645198c9af583c",
+  "pending_blob_sha": "cf6e9e77240df2f8170860cb7a4e9370458266a6",
+  "source_blob_shas": {
+    "en": "86f90c09ee7f5dcd56b9a90a23266984587f7c8a",
+    "pt-BR": "ee7419423f0a42e2cfca89b372c023fd0a9db140"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Historical claims were cross-checked against Cambridge academic histories, Library of Congress material and peer-reviewed economic-history work. Current macro, energy, military-spending, demographic and survey claims are explicitly dated and tied to Bank of Russia, BOFIT, EIA, SIPRI, World Bank and Levada sources. Territorial and measurement breaks are stated rather than silently merged."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct structural thesis with no process narration or reader instruction.",
+      "headings": "Analytical headings track state formation, economic regimes, social transformation, demography and current transmission mechanisms.",
+      "language_localization": "EN and PT-BR are fully localized and preserve the same causal structure, numerical evidence and qualifications.",
+      "repetition": "Long-run mechanisms recur only where historical evidence connects them to a distinct period or current constraint.",
+      "cohesion": "Chronology is integrated with cross-cutting mechanisms rather than presented as an isolated list of rulers or events.",
+      "template_meta_qa": "No public QA, build or publishing-process language is exposed."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Coverage spans Rus', Mongol supremacy, Muscovy, serfdom, imperial reform, industrialization, revolution, Soviet planning, post-Soviet transition, resource state, demography, sanctions, wartime macroeconomics, social trust and historical memory."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Five analytical tables, seven single-unit charts, two causal flows, one structural map and one mind map; EN/PT-BR have identical visual counts and equivalent data.",
+      "limitations": "Charts separate units and periods; population coverage differences between World Bank and Rosstat are disclosed; survey and wartime statistics are explicitly time-sensitive."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Late-imperial Russia was industrializing rapidly, so a simple narrative of uninterrupted pre-1917 stagnation is rejected.",
+    "Post-2022 GDP resilience shows that sanctions did not produce immediate macroeconomic collapse; the assessment instead distinguishes aggregate output from composition, investment and capacity constraints.",
+    "High trust in selected institutions coexists with divided interpersonal trust and a simultaneous preference among many respondents for negotiations, which argues against a one-dimensional national-psychology interpretation."
+  ],
+  "limitations": [
+    "Russian Empire, USSR and Russian Federation statistics have different territorial coverage and cannot be treated as one continuous national series.",
+    "Some current Russian fiscal, military and demographic data are less transparent than pre-2022 series; external estimates and source caveats are preserved.",
+    "Survey answers under wartime and politically restrictive conditions may be affected by nonresponse, social desirability and perceived risk."
+  ],
+  "notes": "QA v2 approval binds the public Markdown blobs first introduced in commit 38318595d7e164dfc1477703c4645198c9af583c. The approval followed source review, visual-unit review, bilingual semantic comparison and reconciliation against existing Marginal Thinking cumulative systems.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-23-russia",
+    "slug": "2026-09-23-country-context-russia",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T10:05:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-russia/en.md",
+        "title": "Russia: state capacity, mobilization and social transformation from Rus' to the 2026 war economy",
+        "deck": "A millennium-scale reconstruction of how territory, fiscal-military institutions, serfdom, industrialization, Soviet planning, post-Soviet transition, resource rents, demography and war shaped the Russian economy and society.",
+        "tags": [
+          "Russia",
+          "economic history",
+          "state capacity",
+          "Soviet Union",
+          "demography",
+          "war economy",
+          "social trust"
+        ],
+        "keywords": [
+          "Russia history economy society",
+          "Muscovy",
+          "Russian Empire",
+          "serfdom",
+          "Soviet industrialization",
+          "post-Soviet transition",
+          "Russian demography",
+          "Russian war economy 2026",
+          "Russian social trust"
+        ],
+        "regime": "A mature industrial and resource economy is operating under war-driven fiscal demand, tight monetary policy, labour scarcity and redirected external trade while long-run demographic and productivity constraints limit mobilization-led growth.",
+        "key_risk": "Prolonged defence demand, labour scarcity, restricted technology access and weak civilian investment can reinforce a two-speed productive structure even when headline output remains positive.",
+        "watch": [
+          "civilian fixed investment and productivity",
+          "labour force, migration and vacancies",
+          "military spending and budget composition",
+          "oil and gas export destinations and infrastructure",
+          "inflation, key rate and credit conditions",
+          "institutional and interpersonal trust",
+          "births, mortality and cohort structure"
+        ],
+        "search_text": "Russia historical country dossier Rus Muscovy tsars Russian Empire serfdom industrialization Soviet Union planning post Soviet transition 1990s Putin era resource economy demography war economy 2026 social trust"
+      },
+      "pt-BR": {
+        "markdown": "reports/2026/09/2026-09-23-country-context-russia/pt-BR.md",
+        "title": "Rússia: capacidade estatal, mobilização e transformação social da Rus' à economia de guerra de 2026",
+        "deck": "Uma reconstrução em escala milenar de como território, instituições fiscal-militares, servidão, industrialização, planejamento soviético, transição pós-soviética, renda de recursos, demografia e guerra moldaram economia e sociedade russas.",
+        "tags": [
+          "Rússia",
+          "história econômica",
+          "capacidade estatal",
+          "União Soviética",
+          "demografia",
+          "economia de guerra",
+          "confiança social"
+        ],
+        "keywords": [
+          "história economia sociedade Rússia",
+          "Moscóvia",
+          "Império Russo",
+          "servidão",
+          "industrialização soviética",
+          "transição pós-soviética",
+          "demografia russa",
+          "economia de guerra Rússia 2026",
+          "confiança social Rússia"
+        ],
+        "regime": "Uma economia industrial e de recursos madura opera sob demanda fiscal de guerra, política monetária restritiva, escassez de trabalho e comércio externo redirecionado, enquanto restrições demográficas e de produtividade limitam o crescimento sustentado pela mobilização.",
+        "key_risk": "Demanda de defesa prolongada, escassez de trabalho, restrições de acesso tecnológico e investimento civil fraco podem consolidar uma estrutura produtiva em duas velocidades mesmo com produto agregado positivo.",
+        "watch": [
+          "investimento fixo civil e produtividade",
+          "força de trabalho, migração e vagas",
+          "gasto militar e composição orçamentária",
+          "destinos e infraestrutura das exportações de petróleo e gás",
+          "inflação, taxa básica e condições de crédito",
+          "confiança institucional e interpessoal",
+          "nascimentos, mortalidade e estrutura de coortes"
+        ],
+        "search_text": "Rússia dossiê histórico Rus Moscóvia czares Império Russo servidão industrialização União Soviética planejamento transição pós soviética anos 1990 economia de recursos demografia economia de guerra 2026 confiança social"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe",
+        "asia-pacific"
+      ],
+      "subregions": [],
+      "countries": [
+        {
+          "code": "RU",
+          "slug": "russia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "revision": 1,
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CS-2026-09-20-EUR-RU-UA"
+    ]
+  }
+}

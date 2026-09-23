@@ -138,5 +138,9 @@
       ],
       "search_text": "Rússia dossiê histórico Rus Moscóvia czares Império Russo servidão industrialização União Soviética planejamento transição pós soviética anos 1990 economia de recursos demografia economia de guerra 2026 confiança social"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-23T12:51:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "38318595d7e164dfc1477703c4645198c9af583c"
 }
