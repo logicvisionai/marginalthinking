@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-23",
+  "slug": "2026-09-23-global-macro",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T00:03:48-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-23-global-macro/en.md",
+      "title": "Global Macro — Oil relief reopens the AI trade, but the rate shock has not cleared",
+      "deck": "Oil below $100 has reduced an acute inflation tail risk, but a firm dollar, high long yields, European gas costs and incomplete Gulf normalization keep global financial conditions restrictive.",
+      "tags": ["global macro", "markets", "oil", "rates", "AI", "geopolitics"],
+      "keywords": ["Brent", "Treasury yields", "dollar", "Nasdaq", "European gas", "Hormuz", "AI capex"],
+      "regime": "Energy-risk relief inside a still-restrictive global rate regime",
+      "key_risk": "A renewed Gulf supply disruption while long sovereign yields remain elevated",
+      "watch": ["Gulf realized export throughput and Hormuz access", "U.S. 10-year Treasury yield and dollar index", "equity breadth beyond AI leaders", "concrete U.S.-China policy outcomes"],
+      "search_text": "Global macro September 23 2026 oil below 100 AI Nasdaq Treasury yields dollar European gas Gulf Hormuz U.S. China"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-23-global-macro/pt-BR.md",
+      "title": "Global Macro — Alívio no petróleo reabre a tese de IA, mas o choque de juros não desapareceu",
+      "deck": "Petróleo abaixo de US$ 100 reduziu um risco inflacionário de cauda, mas dólar firme, juros longos elevados, custos europeus de gás e normalização incompleta do Golfo mantêm condições financeiras globais restritivas.",
+      "tags": ["macro global", "mercados", "petróleo", "juros", "IA", "geopolítica"],
+      "keywords": ["Brent", "Treasury", "dólar", "Nasdaq", "gás europeu", "Ormuz", "capex em IA"],
+      "regime": "Alívio do risco de energia dentro de um regime global de juros ainda restritivo",
+      "key_risk": "Nova interrupção da oferta do Golfo enquanto os juros soberanos longos permanecem elevados",
+      "watch": ["Fluxo efetivo de exportações do Golfo e acesso a Ormuz", "Treasury de 10 anos e índice do dólar", "amplitude acionária além dos líderes de IA", "resultados concretos da política EUA-China"],
+      "search_text": "Global Macro 23 setembro 2026 petróleo abaixo 100 IA Nasdaq Treasury dólar gás europeu Golfo Ormuz EUA China"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {
+    "level": "global",
+    "regions": ["americas", "europe", "asia-pacific", "middle-east"],
+    "subregions": ["north-america", "western-europe", "east-asia", "south-asia", "gulf", "latin-america-caribbean"],
+    "countries": []
+  },
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "energy", "commodities-resources", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+  "format": "brief",
+  "cadence": "daily"
+}
