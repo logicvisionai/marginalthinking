@@ -65,6 +65,12 @@ The September 17 revision also clarified an evidence rule: incompatible prelimin
 
 The September 17 context review added the historical, institutional and social mechanisms required to avoid treating Gulf energy disruption as a purely market-price event.
 
+### 2026-09-23
+
+- **Changed:** canonical research now records partial restoration of Saudi Arabia's East-West pipeline as an observed operating development rather than only a redundancy option. The durable implication is that bypass infrastructure can materially reduce the acute scarcity tail while remaining below full substitutability during restoration.
+- **Unchanged:** lower crude does not establish normalized Gulf logistics or easy financial conditions. Realized throughput, refined products, freight/insurance and long sovereign yields remain separate verification layers.
+- **Watch:** the gap between announced/nameplate bypass capacity and realized export throughput as restoration proceeds.
+
 ## Open questions
 
 - How much effective export capacity can Saudi alternative routes sustain under prolonged Hormuz impairment after accounting for maintenance, terminal constraints and crude compatibility?
@@ -82,6 +88,7 @@ The September 17 context review added the historical, institutional and social m
 - `MT-GM-2026-09-16` — Global Macro, Markets & Political Risk, 2026-09-16.
 - `MT-GM-2026-09-17` — Global Macro Daily, 2026-09-17, revision 3.
 - `MT-WF-2026-09-16` — Global Wealth Flow Monitor, 2026-09-16.
+- `MT-GM-2026-09-23` — Global Macro Daily, 2026-09-23, revision 1; partial East-West pipeline restoration and the separation between energy-risk relief and restrictive financing conditions.
 
 ## Sources and verification notes
 
