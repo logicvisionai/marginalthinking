@@ -22,15 +22,13 @@ The immediate transmission is visible across assets: lower crude reduces the mar
 
 ```chart
 type: bar
-title: Cross-asset snapshot — selected 22 September observations
-unit: index / price, normalized labels are not additive
-Brent USD/bbl | 99.92
-WTI USD/bbl | 95.33
-Dollar index | 100.56
-US 10Y yield x20 | 98.0
+title: Selected market observations — 22 September
+unit: USD per barrel
+Brent | 99.92
+WTI | 95.33
 ```
 
-The chart deliberately scales the 10-year yield by 20 only to place the four observations in a compact visual range; it is not a common-unit comparison and the categories are not additive. The economically relevant point is directional: crude has retreated while the dollar and long yields remain high.
+The chart deliberately keeps a single unit: dollars per barrel. Dollar-index and Treasury-yield observations remain in the table above rather than being forced onto an incompatible axis. The economically relevant divergence is unchanged: crude retreated while the dollar and long yields remained high.
 
 ## AI earnings expectations are overpowering duration pressure, but market breadth is narrower
 
