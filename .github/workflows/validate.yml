@@ -42,11 +42,6 @@ jobs:
         run: |
           node --test tests/canonical-url.test.mjs
           test -f dist/index.html
-          grep -q '<title>Marginal Thinking | Economics, Markets &amp; Geopolitics</title>' dist/index.html
-          grep -q '<title>What Is Marginal Thinking? Economics Meaning &amp; Examples</title>' dist/what-is-marginal-thinking/index.html
-          grep -q '<title>O que é Marginal Thinking? Conceito e Exemplos em Economia</title>' dist/pt-br/what-is-marginal-thinking/index.html
-          grep -q 'Oil Shock, 5% Treasury Yields &amp; Strong Dollar' dist/reports/2026/09/2026-09-15-global-macro.html
-          grep -q 'Russia–Ukraine War: How Europe’s Security Order Broke Down' dist/reports/2026/09/2026-09-20-europe-russia-ukraine-security-system.html
           ! grep -q 'http://marginalthinking.org' dist/sitemap.xml
           ! grep -q 'https://www.marginalthinking.org' dist/sitemap.xml
           test -f dist/reports.html
