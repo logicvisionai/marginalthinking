@@ -142,6 +142,31 @@ June 2026 | 14.3
 H2 2026 IMF review expectation | 16.7
 ```
 
+
+## The external account is built on several foreign-currency engines that do not move together
+
+Egypt's external position depends on a combination of Suez Canal receipts, tourism, remittances, hydrocarbons, manufactured exports and capital inflows. These sources react to different shocks. Tourism is sensitive to regional security and global travel; canal revenue depends on shipping routes; remittances respond to labour markets in Gulf economies; energy exports depend on domestic production and regional prices. Diversification across these channels creates resilience, but simultaneous weakness can place rapid pressure on the currency and reserves.
+
+A large import bill makes foreign exchange particularly important. Food, fuel, machinery and intermediate goods affect both household prices and industrial production. When access to foreign currency becomes scarce or exchange rates adjust sharply, the impact moves quickly from financial markets to factories, retailers and family budgets.
+
+This is why exchange-rate reform cannot be evaluated only through the level of the currency. The broader question is whether a more flexible regime restores access to imported inputs, reduces parallel-market distortions, attracts durable capital and eventually supports exports. Stabilization succeeds when foreign currency becomes available through productive earnings rather than repeated emergency financing.
+
+| FX source | What supports it | Main vulnerability | Domestic transmission |
+| --- | --- | --- | --- |
+| Suez Canal | global maritime trade | route diversion and conflict | public FX revenue |
+| tourism | heritage, resorts and air connectivity | security and global travel cycles | jobs and service exports |
+| remittances | Egyptian labour abroad | Gulf labour-market conditions | household income and FX supply |
+| exports/energy | industry and hydrocarbons | competitiveness and production | firms, budget and reserves |
+
+## Population scale makes food, housing and urban services central to the social contract
+
+Egypt's large and still-growing population creates a development challenge different from that of aging economies. Each year the economy must absorb new workers, students and households while expanding housing, transport, water, schools and health services. Growth that looks adequate in aggregate can feel weak at household level if income per person or access to services does not keep pace.
+
+Food prices have unusually strong social importance because lower-income households spend a larger share of income on basic consumption. Bread and other subsidy systems therefore operate not only as budget items but as mechanisms of social protection. Reforming them involves a trade-off between fiscal efficiency, targeting and the risk of abrupt losses in purchasing power.
+
+Cairo's scale illustrates the urban side of the same problem. Infrastructure investment can reduce congestion and expand usable urban space, but new cities and transport systems generate high returns only when jobs, housing affordability and services evolve together. The social measure of development is not construction volume by itself but whether households gain reliable access to employment and public goods.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

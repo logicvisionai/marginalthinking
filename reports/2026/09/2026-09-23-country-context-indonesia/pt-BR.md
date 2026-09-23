@@ -145,6 +145,31 @@ unit: % do PIB
 2026 FMI | 31
 ```
 
+
+## Descentralização e geografia arquipelágica transformam o crescimento nacional em um problema de capacidade local
+
+A escala da Indonésia não é apenas demográfica; é geográfica. Milhares de ilhas habitadas, grandes diferenças de densidade e longas distâncias entre centros produtivos fazem com que portos, navegação entre ilhas, eletricidade, rodovias e administração local determinem se políticas nacionais realmente chegam às empresas e famílias. Uma fábrica em Java, um complexo de processamento de níquel em Sulawesi e um distrito agrícola em Sumatra enfrentam condições logísticas, trabalhistas e de infraestrutura diferentes mesmo sob a mesma estrutura regulatória nacional.
+
+A descentralização após o fim dos anos 1990 transferiu responsabilidades importantes a governos provinciais e distritais. Isso aproximou decisões das condições locais, mas também tornou a qualidade de implementação mais desigual. Licenciamento empresarial, administração fundiária, infraestrutura local e serviços públicos podem variar de forma material entre jurisdições. Para investidores, o ambiente efetivo de investimento é parcialmente local, não apenas nacional.
+
+Isso cria um problema de difusão semelhante ao de outras grandes economias emergentes: o país pode formar clusters industriais de nível mundial sem espalhar automaticamente sua produtividade às regiões ao redor. Desenvolvimento de fornecedores, formação profissional, confiabilidade elétrica e conexões de transporte determinam se projetos de processamento de recursos e manufatura criam capacidades mais amplas ou permanecem concentrados geograficamente.
+
+| Camada espacial | Principal vantagem | Principal restrição | Variável a acompanhar |
+| --- | --- | --- | --- |
+| corredor metropolitano de Java | densidade de trabalho, fornecedores e demanda | congestionamento, terra e moradia | tempo logístico e produtividade urbana |
+| regiões de recursos nas ilhas externas | minerais, energia e terra | distância e lacunas de infraestrutura | profundidade do processamento e fornecedores locais |
+| sistema entre ilhas | grande mercado nacional integrado | custo de portos e navegação | frete doméstico |
+| governos locais | adaptação às necessidades locais | capacidade administrativa desigual | tempo de licenciamento e qualidade de serviços |
+
+## Mobilidade das famílias, urbanização e finanças digitais estão remodelando o mercado doméstico
+
+O desenvolvimento indonésio depende cada vez mais de uma grande base de consumidores domésticos, e não apenas de exportações. Urbanização desloca trabalhadores para atividades de maior produtividade, enquanto pagamentos digitais, comércio eletrônico e serviços de plataforma reduzem parte dos custos de transação impostos pela geografia fragmentada. Esses sistemas permitem que pequenas empresas alcancem mercados maiores sem construir do zero redes físicas de distribuição nacional.
+
+A transição é desigual. Emprego informal continua relevante, e muitas famílias possuem pouca proteção contra choques de alimentos, combustíveis ou trabalho. Salários formais maiores e acesso ao crédito podem aprofundar o consumo, mas crescimento urbano rápido também pressiona moradia, transporte e serviços públicos. A qualidade da urbanização importa tanto quanto sua velocidade.
+
+A questão social, portanto, é se os ganhos de produtividade de manufatura, recursos e serviços digitais se convertem em emprego seguro e mobilidade entre regiões. Indicadores úteis incluem emprego formal, salários reais, qualidade do crédito das famílias, migração entre ilhas, resultados educacionais e participação de pequenas empresas em pagamentos digitais e finanças formais.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |

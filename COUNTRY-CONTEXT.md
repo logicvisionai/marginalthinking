@@ -202,6 +202,16 @@ Do not automatically expose an internal briefing as a dossier. Public dossiers r
 
 ## 14. Quality test
 
+For dossiers dated on or after 2026-09-23, publication quality also has a mechanical floor in **each public locale**:
+
+- at least **1,600 substantive words** after excluding visual/code blocks and raw URLs;
+- at least **12 H2 analytical sections**, excluding the title;
+- the existing visual-evidence floor remains mandatory;
+- this is a rejection floor, not a writing target: complex countries should substantially exceed it when the mechanism requires more depth.
+
+Length alone never satisfies the standard. Added material must introduce distinct historical, institutional, productive, demographic, social, fiscal, monetary or external mechanisms rather than repeat the thesis in different language.
+
+
 Before staging, ask:
 
 - Does this dossier materially improve comprehension of an existing canonical report?

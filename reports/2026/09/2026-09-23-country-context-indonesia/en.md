@@ -145,6 +145,31 @@ unit: % of GDP
 2026 IMF | 31
 ```
 
+
+## Decentralization and archipelagic geography turn national growth into a local-capacity problem
+
+Indonesia's scale is not only demographic; it is geographic. Thousands of inhabited islands, large differences in density and long distances between production centres mean that ports, inter-island shipping, electricity, roads and local administration determine whether national policies reach firms and households. A factory on Java, a nickel-processing complex in Sulawesi and an agricultural district in Sumatra face different logistics, labour and infrastructure conditions even under the same national regulatory framework.
+
+Decentralization after the late 1990s transferred important responsibilities to provincial and district governments. That brought decision-making closer to local conditions, but it also made implementation quality more uneven. Business licensing, land administration, local infrastructure and public services can vary materially across jurisdictions. For investors, the practical investment climate is therefore partly local rather than purely national.
+
+This creates a diffusion problem similar to other large emerging economies: the country can generate world-class industrial clusters without automatically spreading their productivity to surrounding regions. Supplier development, vocational training, power reliability and transport links determine whether resource-processing and manufacturing projects create broader capabilities or remain geographically concentrated.
+
+| Spatial layer | Main advantage | Main constraint | Variable to monitor |
+| --- | --- | --- | --- |
+| Java metropolitan corridor | dense labour, suppliers and demand | congestion, land and housing costs | logistics time and urban productivity |
+| outer-island resource regions | minerals, energy and land | distance and infrastructure gaps | processing depth and local suppliers |
+| inter-island system | large integrated national market | shipping and port costs | domestic freight costs |
+| local governments | policy adaptation to local needs | uneven administrative capacity | licensing time and service quality |
+
+## Household mobility, urbanization and digital finance are reshaping the domestic market
+
+Indonesia's development increasingly depends on a large domestic consumer base rather than exports alone. Urbanization moves workers toward higher-productivity activities, while digital payments, e-commerce and platform services reduce some transaction costs across fragmented geography. These systems can allow small firms to reach larger markets without building nationwide physical distribution networks from scratch.
+
+The transition is uneven. Informal employment remains important, and many households have limited buffers against food, fuel or employment shocks. Rising formal wages and access to finance can deepen consumption, but rapid urban growth also increases pressure on housing, transport and public services. The quality of urbanization matters as much as its speed.
+
+The social question is therefore whether productivity gains from manufacturing, resources and digital services translate into secure employment and mobility across regions. Useful indicators include formal employment, real wages, household credit quality, inter-island migration, education outcomes and the share of smaller firms using digital payments and formal finance.
+
+
 ## Structural assets and constraints
 
 | Structural asset | Advantage | Constraint | Indicator to monitor |

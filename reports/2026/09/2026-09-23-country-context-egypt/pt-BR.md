@@ -142,6 +142,31 @@ projeção 2026 FMI | 13.2
 H2 2026 expectativa FMI | 16.7
 ```
 
+
+## A conta externa depende de várias fontes de moeda estrangeira que não se movem juntas
+
+A posição externa do Egito depende de uma combinação de receitas do Canal de Suez, turismo, remessas, hidrocarbonetos, exportações manufatureiras e entrada de capital. Essas fontes reagem a choques diferentes. Turismo é sensível à segurança regional e às viagens globais; a receita do canal depende das rotas marítimas; remessas respondem aos mercados de trabalho das economias do Golfo; exportações de energia dependem da produção doméstica e dos preços regionais. A diversidade entre esses canais cria resiliência, mas fraqueza simultânea pode pressionar rapidamente moeda e reservas.
+
+Uma conta elevada de importações torna a disponibilidade de divisas especialmente importante. Alimentos, combustíveis, máquinas e insumos intermediários afetam preços das famílias e produção industrial. Quando o acesso à moeda estrangeira fica escasso ou o câmbio se ajusta bruscamente, o efeito passa rapidamente dos mercados financeiros para fábricas, varejo e orçamento doméstico.
+
+Por isso uma reforma cambial não pode ser avaliada apenas pelo nível da moeda. A questão mais ampla é se um regime mais flexível restaura acesso a insumos importados, reduz distorções de mercados paralelos, atrai capital durável e, com o tempo, favorece exportações. A estabilização se torna mais robusta quando a moeda estrangeira é obtida por receitas produtivas em vez de financiamento emergencial recorrente.
+
+| Fonte de divisas | O que a sustenta | Principal vulnerabilidade | Transmissão doméstica |
+| --- | --- | --- | --- |
+| Canal de Suez | comércio marítimo global | desvio de rotas e conflitos | receita pública em moeda forte |
+| turismo | patrimônio, resorts e conectividade aérea | segurança e ciclos de viagens | empregos e exportação de serviços |
+| remessas | trabalho egípcio no exterior | mercado de trabalho do Golfo | renda familiar e oferta de divisas |
+| exportações/energia | indústria e hidrocarbonetos | competitividade e produção | empresas, orçamento e reservas |
+
+## A escala populacional torna alimentos, moradia e serviços urbanos centrais para o contrato social
+
+A população grande e ainda crescente do Egito cria desafio de desenvolvimento diferente do de economias envelhecidas. A cada ano a economia precisa absorver novos trabalhadores, estudantes e famílias ao mesmo tempo em que amplia moradia, transporte, água, escolas e saúde. Crescimento que parece suficiente no agregado pode parecer fraco no nível doméstico se renda por pessoa ou acesso a serviços não acompanhar.
+
+Preços dos alimentos têm importância social elevada porque famílias de menor renda destinam parcela maior de seus recursos ao consumo básico. Sistemas de subsídio a pão e outros produtos funcionam, portanto, não apenas como itens orçamentários, mas como mecanismos de proteção social. Reformá-los envolve uma troca entre eficiência fiscal, focalização e o risco de perdas bruscas de poder de compra.
+
+A escala do Cairo mostra o lado urbano do mesmo problema. Investimento em infraestrutura pode reduzir congestionamento e ampliar o espaço urbano utilizável, mas novas cidades e redes de transporte geram retornos altos apenas quando emprego, custo de moradia e serviços evoluem em conjunto. A medida social do desenvolvimento não é o volume de construção isoladamente, mas se as famílias ganham acesso confiável a empregos e bens públicos.
+
+
 ## Ativos e restrições estruturais
 
 | Ativo estrutural | Vantagem | Restrição | Indicador a acompanhar |
