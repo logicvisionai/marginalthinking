@@ -66,7 +66,7 @@ A concessão D'Arcy de 1901 e a Anglo-Persian Oil Company colocaram recurso mund
 
 A nacionalização promovida por Mohammad Mossadegh em 1951 transformou petróleo em símbolo de soberania. O golpe de 1953, apoiado por Estados Unidos e Reino Unido, e a restauração do acesso ocidental ao petróleo reforçaram a percepção de que recursos e autonomia política estavam conectados.
 
-Sob o xá, receita crescente financiou indústria, infraestrutura, educação e defesa. O boom dos anos 1970 acelerou urbanização, mas também inflação, gargalos e conflitos distributivos. O petróleo criou capacidade mais rápido do que as instituições conseguiam sempre absorver.
+Sob o xá, receita crescente financiou indústria, infraestrutura, educação e defesa. O boom dos anos 1970 acelerou urbanização, mas também inflação, restrições de oferta e conflitos distributivos. O petróleo criou capacidade mais rápido do que as instituições conseguiam sempre absorver.
 
 ## A revolução de 1979 reorganizou propriedade e Estado em torno de outra legitimidade
 
@@ -157,7 +157,7 @@ Inflação ao consumidor | 68.9
 | reservas de petróleo e gás | capacidade fiscal, industrial e geopolítica | sanções, conflito e subinvestimento | exportações e investimento upstream |
 | população escolarizada | engenharia, ciência e serviços | emigração qualificada e investimento privado fraco | migração e emprego qualificado |
 | indústria diversificada | resiliência além do petróleo | restrições tecnológicas e financeiras | importações de bens de capital e produtividade |
-| geografia regional | acesso ao Golfo, Cáucaso e Ásia Central | risco de segurança e gargalos | trânsito e custo logístico |
+| geografia regional | acesso ao Golfo, Cáucaso e Ásia Central | risco de segurança e restrições nos corredores | trânsito e custo logístico |
 | mercado doméstico | escala para produção local | inflação reduz poder de compra | salários reais e consumo |
 
 ## A posição do Irã no BRICS em 2026

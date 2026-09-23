@@ -87,7 +87,7 @@ O Plano Real atacou o problema de coordenação por medidas fiscais, pela URV e 
 
 A ascensão chinesa elevou demanda por minério de ferro, soja e outras commodities enquanto o Brasil ampliava petróleo offshore e agronegócio moderno. Termos de troca favoráveis sustentaram renda, crédito e receita tributária. Emprego formal e transferências reduziram pobreza e desigualdade a partir de níveis excepcionalmente elevados.
 
-A fraqueza foi que produtividade e investimento não cresceram o suficiente para criar novo ciclo de convergência. Gargalos de infraestrutura, complexidade tributária, resultados educacionais fracos e incerteza regulatória persistiram. Quando os ciclos de commodities e demanda doméstica viraram após 2011, faltou motor de produtividade suficientemente forte para substituí-los.
+A fraqueza foi que produtividade e investimento não cresceram o suficiente para criar novo ciclo de convergência. Restrições de capacidade de infraestrutura, complexidade tributária, resultados educacionais fracos e incerteza regulatória persistiram. Quando os ciclos de commodities e demanda doméstica viraram após 2011, faltou motor de produtividade suficientemente forte para substituí-los.
 
 ```chart
 type: bar

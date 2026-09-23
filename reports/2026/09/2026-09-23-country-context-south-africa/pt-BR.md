@@ -6,7 +6,7 @@ A economia moderna da África do Sul não pode ser entendida sem a revolução m
 
 O mesmo modelo de crescimento foi institucionalmente organizado pela exclusão racial. Segregação e posteriormente apartheid controlavam residência, propriedade de terra, educação e mobilidade do trabalho. Essas regras reduziam o poder de barganha e o acesso a capital humano da maioria negra e concentravam ativos, infraestrutura e atividade de alta produtividade.
 
-A democracia depois de 1994 removeu a arquitetura legal do apartheid e expandiu moradia, eletricidade, benefícios e uma classe média negra. A geografia herdada e a segmentação do trabalho foram muito mais difíceis de desfazer. Em 2026 o país possui mercados de capitais sofisticados, universidades, minas, manufatura e instituições fortes, mas crescimento próximo de 1%, desemprego extremo e gargalos físicos impedem esses ativos de gerar emprego amplo.
+A democracia depois de 1994 removeu a arquitetura legal do apartheid e expandiu moradia, eletricidade, benefícios e uma classe média negra. A geografia herdada e a segmentação do trabalho foram muito mais difíceis de desfazer. Em 2026 o país possui mercados de capitais sofisticados, universidades, minas, manufatura e instituições fortes, mas crescimento próximo de 1%, desemprego extremo e restrições físicas impedem esses ativos de gerar emprego amplo.
 
 Os períodos históricos utilizam unidades territoriais e institucionais diferentes. Os indicadores macroeconômicos modernos se referem ao Estado atual salvo indicação contrária; comparações de longo prazo são, portanto, analíticas e não séries estatísticas mecanicamente contínuas.
 
@@ -83,7 +83,7 @@ Governos após 1994 expandiram eletricidade, moradia, água, benefícios sociais
 
 Mas townships continuaram distantes de muitos centros de emprego, a qualidade escolar variou fortemente e o emprego industrial não cresceu o suficiente para absorver novos trabalhadores. Transferências sociais reduzem pobreza, mas não substituem emprego produtivo em escala. O desemprego resultante é estrutural, não apenas resposta cíclica a demanda fraca.
 
-## Eletricidade e logística passaram de vantagens herdadas a gargalos vinculantes
+## Eletricidade e logística passaram de vantagens herdadas a restrições críticas
 
 Durante décadas energia barata de carvão sustentou minas e indústria pesada. Falhas de governança, manutenção e investimento atrasados, problemas de compras e plantas envelhecidas produziram load shedding severo. Desempenho de ferrovias e portos também se deteriorou, aumentando custos de exportadores.
 

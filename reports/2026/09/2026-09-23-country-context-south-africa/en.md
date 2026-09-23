@@ -83,7 +83,7 @@ Post-1994 governments extended electricity, housing, water, social grants and ed
 
 But townships remained distant from many job centres, schooling quality varied sharply and industrial employment did not grow fast enough to absorb labour-market entrants. Social transfers reduce poverty but cannot substitute for productive employment at scale. The resulting unemployment is structural, not simply a cyclical response to weak demand.
 
-## Electricity and logistics turned from inherited advantages into binding bottlenecks
+## Electricity and logistics turned from inherited advantages into binding infrastructure constraints
 
 For decades cheap coal power supported mines and heavy industry. Governance failures, delayed maintenance and investment, procurement problems and aging plants later produced severe load shedding. Rail and port performance also deteriorated, raising costs for mineral and agricultural exporters.
 

@@ -66,7 +66,7 @@ The 1901 D'Arcy concession and later Anglo-Persian Oil Company placed a world-sc
 
 Prime Minister Mohammad Mossadegh's 1951 nationalization turned petroleum into a symbol of political sovereignty. The 1953 coup, supported by the United States and United Kingdom, and the restoration of Western access to Iranian oil reinforced the perception that control of resources and external political autonomy were directly linked.
 
-Under the shah, rising oil revenue financed industrialization, infrastructure, education and military procurement. The 1970s boom accelerated urbanization but also generated inflation, bottlenecks and distributional conflict. Oil created capacity faster than institutions could always absorb it.
+Under the shah, rising oil revenue financed industrialization, infrastructure, education and military procurement. The 1970s boom accelerated urbanization but also generated inflation, supply constraints and distributional conflict. Oil created capacity faster than institutions could always absorb it.
 
 ## The 1979 revolution reorganized ownership and the state around a different legitimacy
 
@@ -157,7 +157,7 @@ Consumer inflation | 68.9
 | oil and gas reserves | fiscal, industrial and geopolitical capacity | sanctions, conflict and underinvestment | export volumes and upstream investment |
 | educated population | engineering, science and services capability | skilled emigration and weak private investment | migration and high-skill employment |
 | diversified industry | resilience beyond crude exports | technology and financing restrictions | capital-goods imports and productivity |
-| regional geography | access to Gulf, Caucasus and Central Asia | security risk and corridor bottlenecks | transit volumes and logistics cost |
+| regional geography | access to Gulf, Caucasus and Central Asia | security risk and corridor-capacity constraints | transit volumes and logistics cost |
 | domestic market | scale for local production | inflation erodes real purchasing power | real wages and household consumption |
 
 ## Iran's BRICS position in 2026

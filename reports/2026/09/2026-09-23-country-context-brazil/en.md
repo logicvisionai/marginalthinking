@@ -87,7 +87,7 @@ The Real Plan attacked that coordination problem through fiscal measures, the UR
 
 China's rise increased demand for iron ore, soybeans and other commodities while Brazil also expanded offshore oil production and modern agribusiness. Better terms of trade supported income, credit and tax revenue. Formal employment and transfer programs reduced poverty and inequality from exceptionally high levels.
 
-The weakness was that productivity and investment did not rise enough to create a new convergence cycle. Infrastructure bottlenecks, tax complexity, weak educational outcomes and regulatory uncertainty remained. When commodity and domestic cycles turned after 2011, the economy lacked a strong productivity engine to replace them.
+The weakness was that productivity and investment did not rise enough to create a new convergence cycle. Infrastructure capacity constraints, tax complexity, weak educational outcomes and regulatory uncertainty remained. When commodity and domestic cycles turned after 2011, the economy lacked a strong productivity engine to replace them.
 
 ```chart
 type: bar

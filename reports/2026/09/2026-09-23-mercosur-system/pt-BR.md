@@ -103,7 +103,7 @@ Uma união aduaneira pode existir sem união monetária, mas grandes mudanças d
 
 O Mercosul ocupa uma geografia física interconectada. A Hidrovia Paraná–Paraguai liga o interior de Brasil, Paraguai, Bolívia e Argentina aos portos do Atlântico. Itaipu e Yacyretá conectam sistemas elétricos. Gasodutos ligam Bolívia, Brasil e Argentina. Corredores rodoviários conectam fluxos voltados ao Atlântico e ao Pacífico.
 
-Essas redes reduzem o significado econômico das fronteiras quando funcionam bem — e o aumentam quando alfândega, dragagem, regras de eletricidade ou gargalos rodoviários falham.
+Essas redes reduzem o significado econômico das fronteiras quando funcionam bem — e o aumentam quando alfândega, dragagem, regras de eletricidade ou restrições de capacidade rodoviária falham.
 
 ```map
 title: Rede estrutural de integração do Mercosul

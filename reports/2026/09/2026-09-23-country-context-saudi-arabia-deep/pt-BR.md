@@ -118,7 +118,7 @@ Megaprojetos e setores → capital/trabalho importados + fornecedores locais →
 
 O oleoduto Leste-Oeste até terminais do Mar Vermelho oferece alternativa importante a Ormuz para parte do petróleo. Em 2026 essa redundância ajudou a limitar a queda das entregas.
 
-A mesma lógica vale para portos, aviação e corredores. Diversificação é setorial e geográfica. Turismo dependente de conectividade aérea, petróleo dependente de rotas marítimas e indústria dependente de bens de capital importados podem compartilhar gargalos se rotas redundantes não existirem.
+A mesma lógica vale para portos, aviação e corredores. Diversificação é setorial e geográfica. Turismo dependente de conectividade aérea, petróleo dependente de rotas marítimas e indústria dependente de bens de capital importados podem compartilhar restrições de segurança se rotas redundantes não existirem.
 
 ```map
 title: Geografia estrutural da Arábia Saudita

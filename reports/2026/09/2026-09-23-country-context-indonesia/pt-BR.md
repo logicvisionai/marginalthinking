@@ -51,7 +51,7 @@ O desenvolvimento indonésio é melhor entendido pelas mudanças na forma de con
 
 ## A geografia marítima transformou integração em um ativo produtivo
 
-O arquipélago fica sobre algumas das rotas marítimas mais importantes do mundo. Historicamente isso criou Estados portuários ricos, mas também significou que a autoridade era frequentemente mais forte em gargalos e nós comerciais do que em todo o território.
+O arquipélago fica sobre algumas das rotas marítimas mais importantes do mundo. Historicamente isso criou Estados portuários ricos, mas também significou que a autoridade era frequentemente mais forte em passagens estratégicas e nós comerciais do que em todo o território.
 
 A república herdou uma rede colonial desenhada para exportar commodities. Integração nacional exigiu língua comum e instituições, mas também transporte marítimo, aviação, rodovias, combustível e transferências fiscais. Logística continua uma variável de produtividade porque empresas em ilhas periféricas enfrentam custos muito diferentes das de Java.
 

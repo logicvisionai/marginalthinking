@@ -103,7 +103,7 @@ A customs union can survive without monetary union, but large relative-price cha
 
 Mercosur occupies an interconnected physical geography. The Paraná–Paraguay waterway connects the interior of Brazil, Paraguay, Bolivia and Argentina to Atlantic ports. Itaipu and Yacyretá link electricity systems. Gas pipelines connect Bolivia, Brazil and Argentina. Road corridors connect Atlantic and Pacific-oriented trade.
 
-These networks reduce the economic meaning of political borders when infrastructure works—and increase it when customs, dredging, electricity rules or road bottlenecks fail.
+These networks reduce the economic meaning of political borders when infrastructure works—and increase it when customs, dredging, electricity rules or road-capacity constraints fail.
 
 ```map
 title: Mercosur structural integration network

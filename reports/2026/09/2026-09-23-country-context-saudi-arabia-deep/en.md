@@ -118,7 +118,7 @@ Megaproject and sector investment → imported capital/labour + domestic supplie
 
 The East-West pipeline to Red Sea terminals gives Saudi Arabia an important alternative to the Strait of Hormuz for part of its crude exports. In 2026 that redundancy helped limit the fall in deliveries when Gulf shipping was disrupted.
 
-The same logic applies to ports, aviation and logistics corridors. Diversification is partly sectoral and partly geographic. A tourism economy concentrated on air connectivity, an oil economy dependent on maritime routes and an industrial strategy requiring imported capital goods can still share the same security bottlenecks unless redundant routes are built.
+The same logic applies to ports, aviation and logistics corridors. Diversification is partly sectoral and partly geographic. A tourism economy concentrated on air connectivity, an oil economy dependent on maritime routes and an industrial strategy requiring imported capital goods can still share the same security constraints unless redundant routes are built.
 
 ```map
 title: Saudi Arabia's structural geography
