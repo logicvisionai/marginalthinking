@@ -32,7 +32,7 @@ for(const item of reports)for(const locale of availableLocales(item).filter(l=>c
 for(const locale of locales){
   const expected=`${site}${institutionalSocialPath(locale)}`,card=path.join(out,institutionalSocialPath(locale).replace(/^\//,''));
   if(!fs.existsSync(card)||fs.statSync(card).size<5000)fail.push(`${locale}: card institucional PNG ausente/inválido`);
-  for(const canonical of ['/','/reports.html','/about.html','/methodology.html']){
+  for(const canonical of ['/','/reports.html','/about.html','/methodology.html','/what-is-marginal-thinking/']){
     const file=fileForUrl(pagePath(locale,canonical));if(!fs.existsSync(file))continue;const html=fs.readFileSync(file,'utf8');
     if(contentAttr(html,'property','og:image')!==expected)fail.push(`${pagePath(locale,canonical)}: og:image institucional incorreto`);
     if(contentAttr(html,'property','og:image:type')!=='image/png')fail.push(`${pagePath(locale,canonical)}: og:image:type institucional incorreto`);
