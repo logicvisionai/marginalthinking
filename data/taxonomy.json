@@ -151,6 +151,41 @@
           "pt-BR": "Resolução de Crises & Reestruturação Financeira"
         }
       }
+    },
+    "economic-paradigms-market-design": {
+      "program": "political-economy-markets",
+      "en": "Economic Paradigms & Market Design",
+      "pt-BR": "Paradigmas Econômicos & Desenho de Mercados",
+      "description": {
+        "en": "Research on how economic ideas, market architecture and new technologies move from theory into operating institutions, regulation, trading systems, money, new markets and measurable economic outcomes.",
+        "pt-BR": "Pesquisa sobre como ideias econômicas, arquitetura de mercados e novas tecnologias passam da teoria para instituições operacionais, regulação, sistemas de negociação, dinheiro, novos mercados e resultados econômicos mensuráveis."
+      },
+      "domains": {
+        "economic-thought-policy-paradigms": {
+          "en": "Economic Thought & Policy Paradigms",
+          "pt-BR": "Pensamento Econômico & Paradigmas de Política"
+        },
+        "market-microstructure-algorithmic-markets": {
+          "en": "Market Microstructure & Algorithmic Markets",
+          "pt-BR": "Microestrutura & Mercados Algorítmicos"
+        },
+        "money-tokenisation-digital-finance": {
+          "en": "Money, Tokenisation & Digital Finance",
+          "pt-BR": "Dinheiro, Tokenização & Finanças Digitais"
+        },
+        "new-markets-information-mechanisms": {
+          "en": "New Markets & Information Mechanisms",
+          "pt-BR": "Novos Mercados & Mecanismos de Informação"
+        },
+        "ai-automation-economic-institutions": {
+          "en": "AI, Automation & Economic Institutions",
+          "pt-BR": "IA, Automação & Instituições Econômicas"
+        }
+      },
+      "analytical_chain": {
+        "en": "idea or technology → theoretical mechanism → experiment → institutional design → implementation → market behaviour → measurable outcomes → adaptation or failure → transfer limits",
+        "pt-BR": "ideia ou tecnologia → mecanismo teórico → experimento → desenho institucional → implementação → comportamento de mercado → resultados mensuráveis → adaptação ou falha → limites de transferência"
+      }
     }
   },
   "cross_cutting_lenses": {

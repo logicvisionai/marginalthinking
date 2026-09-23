@@ -22,13 +22,15 @@ for(const [id,s] of Object.entries(series)){
 }
 if(!series['energy-materials-industrial-systems'])fail.push('series controlada energy-materials-industrial-systems ausente');
 if(!series['policy-experiments-institutional-transitions'])fail.push('series controlada policy-experiments-institutional-transitions ausente');
+if(!series['economic-paradigms-market-design'])fail.push('series controlada economic-paradigms-market-design ausente');
 if(taxonomy.governance?.series_creation!=='human-editorial-change-only')fail.push('governance.series_creation deve ser human-editorial-change-only');
 if(taxonomy.governance?.series_domain_creation!=='human-editorial-change-only')fail.push('governance.series_domain_creation deve ser human-editorial-change-only');
 
 const topicPolicies={
   'energy-materials-industrial-systems': new Set(['energy','commodities-resources','infrastructure-logistics','industry-production','technology-innovation','trade-investment','capital-markets','geopolitics-security']),
   'global-monetary-financial-institutions': new Set(['macroeconomics','monetary-policy','sovereign-debt','capital-markets','banking-credit','currencies','trade-investment','institutions-governance']),
-  'policy-experiments-institutional-transitions': new Set(['macroeconomics','fiscal-policy','monetary-policy','sovereign-debt','banking-credit','currencies','trade-investment','industry-production','institutions-governance','demography-labor','inequality-distribution','social-change'])
+  'policy-experiments-institutional-transitions': new Set(['macroeconomics','fiscal-policy','monetary-policy','sovereign-debt','banking-credit','currencies','trade-investment','industry-production','institutions-governance','demography-labor','inequality-distribution','social-change']),
+  'economic-paradigms-market-design': new Set(['macroeconomics','monetary-policy','capital-markets','banking-credit','currencies','trade-investment','institutions-governance','technology-innovation','industry-production','demography-labor','inequality-distribution','social-change','geopolitics-security'])
 };
 let seriesReports=0;
 const domainCounts=new Map();

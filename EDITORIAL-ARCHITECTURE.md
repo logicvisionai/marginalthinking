@@ -87,6 +87,25 @@ It has exactly four controlled domains:
 
 The detailed inclusion test, evidence standard and release checklist are defined in [`ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md`](./ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md).
 
+
+#### Controlled series: Economic Paradigms & Market Design
+
+`economic-paradigms-market-design` is a controlled series inside Political Economy & Markets. It studies how economic ideas, market architecture and technologies move from theory or proposal into experiments, operating institutions, regulation, trading systems and measurable economic outcomes.
+
+Its recurring analytical chain is:
+
+**idea or technology → theoretical mechanism → experiment → institutional design → implementation → market behaviour → measurable outcomes → adaptation or failure → transfer limits**
+
+It has exactly five controlled domains:
+
+- `economic-thought-policy-paradigms` — Economic Thought & Policy Paradigms / Pensamento Econômico & Paradigmas de Política;
+- `market-microstructure-algorithmic-markets` — Market Microstructure & Algorithmic Markets / Microestrutura & Mercados Algorítmicos;
+- `money-tokenisation-digital-finance` — Money, Tokenisation & Digital Finance / Dinheiro, Tokenização & Finanças Digitais;
+- `new-markets-information-mechanisms` — New Markets & Information Mechanisms / Novos Mercados & Mecanismos de Informação;
+- `ai-automation-economic-institutions` — AI, Automation & Economic Institutions / IA, Automação & Instituições Econômicas.
+
+The series explicitly tests whether established theory already explains the observed system, where assumptions lag operational reality, what new models are being proposed, what policymakers are implementing and whether the evidence supports the claimed mechanism. Detailed inclusion and evidence rules are defined in [`ECONOMIC-PARADIGMS-MARKET-DESIGN.md`](./ECONOMIC-PARADIGMS-MARKET-DESIGN.md).
+
 ## 3. Geography is an access axis, not an editorial program
 
 `Countries & Regions` organizes research geographically. It does not create additional research programs.
