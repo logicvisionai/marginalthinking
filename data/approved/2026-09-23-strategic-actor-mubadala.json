@@ -1,0 +1,175 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-09-23-MUBADALA",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-24T03:12:57Z",
+  "reviewed_commit": "9279796777138224dd450b8daf73993a99da4856",
+  "pending_blob_sha": "b62b4b0a280c3092f02ffb4a49a8361827a70c49",
+  "source_blob_shas": {
+    "en": "efd00d7dc16cada394895e9f9b367a7a12db9341",
+    "pt-BR": "fac99098a85fbbebb64b8707eabe8ed455f5298d"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Mubadala primary sources confirm AED1.414tn / US$385bn AUM in 2025, AED143bn deployment, AED138bn proceeds and the 42/20/17/16/5 asset-class mix. The report separates Abu Dhabi public ownership, delegated corporate investment governance and the stronger contractual rights that can accompany private assets and infrastructure."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct mechanism-led opening; no generic sophistication claims or product-process narration.",
+      "headings": "Headings advance the actor-specific mechanism, constraints, contrary evidence and revision conditions.",
+      "language_localization": "EN and PT-BR are semantically aligned; PT-BR technical prose was localized before approval.",
+      "repetition": "No blocking thesis repetition identified.",
+      "cohesion": "Argument moves from rights/capability through transmission, constraints and evidence that would revise the assessment.",
+      "template_meta_qa": "No prompt, QA-process, schema, renderer or roadmap leakage detected."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The dossier distinguishes legal rights, operating capability, transmission, substitutability and institutional constraints rather than relying on scale or reputation."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "At least two analytical tables, one quantitative chart, one causal flow and one mind map in both locales.",
+      "limitations": "Visuals encode sourced quantities or mechanisms defended in prose and are not combined into a synthetic power score."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "A large private-asset allocation can increase illiquidity and valuation uncertainty at the same time that it increases direct contractual rights.",
+    "State ownership does not establish that each cross-border transaction is directed for geopolitical or industrial-policy purposes."
+  ],
+  "limitations": [
+    "Company-reported UAE GDP and employment contributions are not independent estimates of net additionality.",
+    "The degree of domestic capability transfer must be demonstrated asset by asset through production, skills, IP, suppliers or operating capability."
+  ],
+  "notes": "Dedicated single-actor Strategic Actors dossier. Primary-source factual core, controlled taxonomy, bilingual parity and visual evidence reviewed; no public bundle for this ID at approval time.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-09-23-MUBADALA",
+    "slug": "2026-09-23-strategic-actor-mubadala",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:26:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-mubadala/en.md",
+        "title": "Mubadala: sovereign investment, national capability and global portfolio discipline",
+        "deck": "Mubadala combines a US$385 billion global portfolio with an explicit UAE capability-building platform. Its structural role is strongest where sovereign capital carries direct contractual rights and where domestic investments create durable operating capacity.",
+        "tags": [
+          "Strategic Actors",
+          "Mubadala",
+          "UAE",
+          "Sovereign Capital",
+          "Private Markets"
+        ],
+        "keywords": [
+          "Mubadala",
+          "Abu Dhabi",
+          "sovereign investor",
+          "private equity",
+          "UAE Investments",
+          "national champions",
+          "infrastructure"
+        ],
+        "regime": "Sovereign capital combines global risk-adjusted investment with explicit domestic capability formation through a portfolio with substantial private-asset exposure.",
+        "key_risk": "State ownership can be overinterpreted as transaction-level political direction, while reported domestic impact can be mistaken for net additionality.",
+        "watch": [
+          "private-asset exits",
+          "UAE portfolio external revenue",
+          "private co-investment",
+          "domestic capability transfer",
+          "portfolio-company cash generation"
+        ],
+        "search_text": "Mubadala strategic actor Abu Dhabi UAE sovereign investment private equity national champions industrial capability"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-mubadala/pt-BR.md",
+        "title": "Mubadala: investimento soberano, capacidade nacional e disciplina de portfólio global",
+        "deck": "A Mubadala combina um portfólio global de US$ 385 bilhões com uma plataforma explícita de formação de capacidades nos EAU. Seu papel é mais forte onde o capital soberano traz direitos contratuais diretos e onde investimentos domésticos geram capacidade operacional durável.",
+        "tags": [
+          "Atores Estratégicos",
+          "Mubadala",
+          "Emirados Árabes Unidos",
+          "Capital Soberano",
+          "Mercados Privados"
+        ],
+        "keywords": [
+          "Mubadala",
+          "Abu Dhabi",
+          "investidor soberano",
+          "private equity",
+          "UAE Investments",
+          "empresas nacionais",
+          "infraestrutura"
+        ],
+        "regime": "Capital soberano combina investimento global ajustado ao risco e formação explícita de capacidade doméstica, com forte exposição a ativos privados.",
+        "key_risk": "Propriedade estatal pode ser confundida com direção política de cada transação, enquanto impacto doméstico divulgado pode ser confundido com adicionalidade líquida.",
+        "watch": [
+          "saídas de ativos privados",
+          "receita externa do portfólio dos EAU",
+          "coinvestimento privado",
+          "transferência de capacidade doméstica",
+          "geração de caixa das empresas"
+        ],
+        "search_text": "Mubadala ator estratégico Abu Dhabi Emirados capital soberano private equity empresas nacionais capacidade industrial"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        }
+      ]
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "infrastructure-logistics",
+      "technology-innovation",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "mubadala",
+    "assessment_confidence": "high-on-ownership-governance-and-portfolio-scale-medium-on-domestic-additionality",
+    "key_constraints": [
+      "commercial return requirements",
+      "private-asset valuation and liquidity",
+      "project execution",
+      "partner incentives",
+      "evidence of durable capability transfer"
+    ],
+    "selection_rationale": "Mubadala is an active Strategic Actors record with a documented sovereign-capital channel but lacked a dedicated single-actor canonical study."
+  }
+}
