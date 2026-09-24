@@ -113,5 +113,9 @@
       ],
       "search_text": "NBIM GPFG ator estratégico Noruega fundo soberano poupança pública gestão delegada voto propriedade global"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:11:59Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "c0cd8ac499346449b2ea13e6fcf36fd7a104c628"
 }

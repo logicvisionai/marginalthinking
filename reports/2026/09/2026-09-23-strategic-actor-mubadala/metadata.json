@@ -119,5 +119,9 @@
       ],
       "search_text": "Mubadala ator estratégico Abu Dhabi Emirados capital soberano private equity empresas nacionais capacidade industrial"
     }
-  }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:12:57Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "9279796777138224dd450b8daf73993a99da4856"
 }
