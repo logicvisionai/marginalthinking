@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-09-23-FEDERAL-RESERVE",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-24T03:13:23Z",
+  "reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d",
+  "pending_blob_sha": "1f2f5ee15c864bd7626e3d96edf2e046b64757cd",
+  "source_blob_shas": {
+    "en": "4eb29915fd72d14a3f786a254ea98b33b6455a2b",
+    "pt-BR": "c51ea1ddeeba2cb730edb810442adf4ed66e90a1"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Federal Reserve primary sources confirm the September 16, 2026 12-0 FOMC decision raising the target range to 3.75-4.00%, interest on reserve balances at 3.90%, the standing implementation tools and the standing central-bank swap architecture. The dossier treats international effects as market and liquidity transmission rather than direct authority over foreign policy or private credit allocation."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct mechanism-led opening; no generic sophistication claims or product-process narration.",
+      "headings": "Headings advance the actor-specific mechanism, constraints, contrary evidence and revision conditions.",
+      "language_localization": "EN and PT-BR are semantically aligned; PT-BR technical prose was localized before approval.",
+      "repetition": "No blocking thesis repetition identified.",
+      "cohesion": "Argument moves from rights/capability through transmission, constraints and evidence that would revise the assessment.",
+      "template_meta_qa": "No prompt, QA-process, schema, renderer or roadmap leakage detected."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The dossier distinguishes legal rights, operating capability, transmission, substitutability and institutional constraints rather than relying on scale or reputation."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "At least two analytical tables, one quantitative chart, one causal flow and one mind map in both locales.",
+      "limitations": "Visuals encode sourced quantities or mechanisms defended in prose and are not combined into a synthetic power score."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Market expectations can absorb anticipated policy moves, reducing observed price reactions even when the instrument changes.",
+    "Foreign central banks retain authority over domestic implementation, and private intermediaries choose lending and portfolio allocations within their own constraints."
+  ],
+  "limitations": [
+    "Cross-border transmission strength varies by currency regime, balance sheet and market structure.",
+    "Balance-sheet stocks should not be read as a one-dimensional measure of current monetary stimulus."
+  ],
+  "notes": "Dedicated single-actor Strategic Actors dossier. Primary-source factual core, controlled taxonomy, bilingual parity and visual evidence reviewed; no public bundle for this ID at approval time.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-09-23-FEDERAL-RESERVE",
+    "slug": "2026-09-23-strategic-actor-federal-reserve",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:36:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-federal-reserve/en.md",
+        "title": "Federal Reserve: monetary authority, dollar liquidity and the transmission of global financing conditions",
+        "deck": "The Federal Reserve's structural role comes from legal monetary authority over the dollar, a multi-trillion-dollar balance sheet and liquidity backstops whose effects transmit through U.S. and cross-border funding markets.",
+        "tags": [
+          "Strategic Actors",
+          "Federal Reserve",
+          "Monetary Policy",
+          "Dollar Liquidity",
+          "Global Finance"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "FOMC",
+          "federal funds rate",
+          "dollar liquidity",
+          "balance sheet",
+          "swap lines",
+          "global financing conditions"
+        ],
+        "regime": "Dollar monetary policy operates through an ample-reserves framework, large securities holdings and standing international liquidity backstops.",
+        "key_risk": "Global transmission can be misdescribed as direct control over private credit or foreign monetary policy.",
+        "watch": [
+          "federal funds target range",
+          "reserve remuneration",
+          "balance-sheet composition",
+          "liquidity facilities",
+          "central-bank swap usage",
+          "cross-border dollar funding"
+        ],
+        "search_text": "Federal Reserve strategic actor FOMC dollar liquidity swap lines balance sheet global financing monetary policy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-federal-reserve/pt-BR.md",
+        "title": "Federal Reserve: autoridade monetária, liquidez em dólar e transmissão das condições financeiras globais",
+        "deck": "O papel estrutural do Federal Reserve vem da autoridade monetária legal sobre o dólar, de um balanço de vários trilhões e de backstops de liquidez cujos efeitos se transmitem pelos mercados americanos e pelo funding transfronteiriço.",
+        "tags": [
+          "Atores Estratégicos",
+          "Federal Reserve",
+          "Política Monetária",
+          "Liquidez em Dólar",
+          "Finanças Globais"
+        ],
+        "keywords": [
+          "Federal Reserve",
+          "FOMC",
+          "federal funds",
+          "liquidez em dólar",
+          "balanço",
+          "swap lines",
+          "condições financeiras globais"
+        ],
+        "regime": "A política monetária do dólar opera por regime de reservas amplas, grande carteira de títulos e backstops internacionais permanentes de liquidez.",
+        "key_risk": "Transmissão global pode ser descrita incorretamente como controle direto sobre crédito privado ou política monetária estrangeira.",
+        "watch": [
+          "faixa dos federal funds",
+          "remuneração de reservas",
+          "composição do balanço",
+          "facilidades de liquidez",
+          "uso de swaps",
+          "funding transfronteiriço em dólar"
+        ],
+        "search_text": "Federal Reserve ator estratégico FOMC liquidez dólar swap lines balanço financiamento global política monetária"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "north-america"
+      ],
+      "countries": [
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "capital-markets",
+      "institutions-governance"
+    ],
+    "phenomena": [],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "federal-reserve",
+    "assessment_confidence": "high-on-institutional-authority-and-market-transmission-medium-on-country-specific-cross-border-effects",
+    "key_constraints": [
+      "statutory mandate",
+      "FOMC governance",
+      "private financial intermediation",
+      "market expectations",
+      "foreign central-bank autonomy",
+      "availability of alternative funding channels"
+    ],
+    "selection_rationale": "The Federal Reserve is an active Strategic Actors record with a documented global-financing channel but lacked a dedicated single-actor canonical study."
+  }
+}
