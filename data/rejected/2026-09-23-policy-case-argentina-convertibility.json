@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-24T00:20:00Z",
+  "reviewed_commit": "2c52792df861dba1d5051ad9e141430ffb756586",
+  "pending_blob_sha": "088974ba6799a3b98daf060c363a00d7a41ef83f",
+  "source_blob_shas": {
+    "en": "371c6815d0d3053b9bd51db5b610b26cc8d35a7d",
+    "pt-BR": "242d48e295e075e96aa7c5058e907f92de727679"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_localization",
+      "location": "PT-BR metadata tags/keywords and section 'Arquitetura legal e monetária'",
+      "issue": "The PT-BR edition exposes the raw English technical label 'currency board' repeatedly even though a natural Portuguese formulation is available. This violates the publication localization gate and makes the Portuguese edition read as partially untranslated.",
+      "evidence": "The staged PT-BR article says 'semelhante a um currency board' and the PT-BR tags/keywords also contain 'currency board'."
+    }
+  ],
+  "required_fixes": [
+    "Localize 'currency board' in the PT-BR article and PT-BR metadata to a natural Portuguese expression such as 'conselho monetário' or, preferably for precision in this historical context, 'regime semelhante a um currency board (conselho monetário)' on first use followed by Portuguese wording thereafter. Preserve the IEO qualification that Argentina was not identical to the strictest classical currency-board design.",
+    "Do not change numbers, dates, causal framing, visual values or the factual conclusion while applying this editorial localization fix. If any material factual claim changes, resubmit it for full factual revalidation."
+  ],
+  "evidence": [
+    "Argentina Law 23.928 confirms convertibility from 1 April 1991 at A 10,000 per U.S. dollar and the central bank conversion obligation.",
+    "Decree 2128/1991 confirms the peso denomination from 1 January 1992, 1 peso = A 10,000 and one peso per U.S. dollar for sale under Law 23.928.",
+    "IMF IEO confirms the regime's strong early disinflation, nearly 6% average real GDP growth during 1991-98, large capital inflows and the later interaction of fiscal weakness, foreign-currency debt, the peg and external shocks.",
+    "IMF IEO statistical material confirms CPI Dec/Dec values 84.0% (1991), 17.6% (1992), 7.4% (1993), 3.9% (1994), 1.6% (1995) and 0.1% (1996).",
+    "Visual budget passes: three Markdown tables, one explicit CPI bar chart and one causal flow are present in both locales, with equivalent values and structure."
+  ],
+  "taxonomy_issues": [],
+  "notes": "Factual and methodological spot checks passed for the central quantitative and legal claims reviewed. Rejection is publication-blocking but narrowly editorial/localization-related; no approval was created and no public surface was modified."
+}
