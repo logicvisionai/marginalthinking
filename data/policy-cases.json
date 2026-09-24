@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Policy Case Atlas",
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-09-23",
   "methodology": "POLICY-EXPERIMENTS.md",
   "disclaimer": {
     "en": "Comparative evidence on implemented policies and institutional transitions. Cases are not rankings, endorsements or binary success/failure labels.",
@@ -157,7 +157,9 @@
       },
       "evidence_status": "verified",
       "last_verified": "2026-09-22",
-      "related_research_ids": [],
+      "related_research_ids": [
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION"
+      ],
       "sources": [
         {
           "name": "IMF — Reinvigorating Growth in Bolivia",

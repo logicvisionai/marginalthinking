@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-23T08:51:56-03:00",
+  "last_reconciled_at": "2026-09-23T21:20:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -351,6 +351,74 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Technology appears as structural context rather than a newly established standalone capability signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-policy-case-bolivia-1985-stabilization",
+      "reconciled_at": "2026-09-23T21:20:00-03:00",
+      "report_ids_reviewed": [
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "This historical monetary-stabilization case does not require a canonical update to this system."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "This historical monetary-stabilization case does not require a canonical update to this system."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Government institutions and labor organizations are implementation actors in the case, but no new canonical actor-control relation is established."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "This historical monetary-stabilization case does not require a canonical update to this system."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "updated",
+          "note": "Added the approved deep-study ID MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION to policy case bo-stabilization-1985; this is the canonical dataset change required for the Atlas deep-study link."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Labor conflict is part of implementation context, but the study does not supersede a canonical conflict-system state."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "This historical monetary-stabilization case does not require a canonical update to this system."
         }
       ]
     }
