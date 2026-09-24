@@ -86,9 +86,11 @@
   "geography": {
     "level": "country",
     "regions": [
+      "americas"
+    ],
+    "subregions": [
       "north-america"
     ],
-    "subregions": [],
     "countries": [
       {
         "code": "US",
