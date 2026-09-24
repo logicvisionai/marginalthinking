@@ -1,0 +1,100 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-24T00:11:00Z",
+  "reviewed_commit": "9e510de3530f26e90d26d3a7b37a1a623405ce12",
+  "pending_blob_sha": "5988a1672fc17ed293d0870ec10b9906f7e9e4c3",
+  "source_blob_shas": {
+    "en": "371c6815d0d3053b9bd51db5b610b26cc8d35a7d",
+    "pt-BR": "4c126a1af00a7f050199fe579b50b05752440536"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "The prior rejection was editorial/localization-only. The English source is byte-identical to the previously fact-checked version, while the Portuguese revision changes the rejected currency-board localization without altering central figures, dates, causal framing, scenarios or conclusions. Law 23.928 confirms convertibility from 1 April 1991 at A 10,000 per U.S. dollar; IMF IEO evidence supports the early disinflation and the multicausal interpretation of the later crisis."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct thesis-led opening states the legal anchor, observed disinflation and later adjustment constraint without generic executive-summary scaffolding.",
+      "headings": "Analytical headings identify the nominal-anchor problem, legal architecture, observed inflation result, adjustment constraints, fiscal/debt transmission, social effects and transfer limits.",
+      "language_localization": "PT-BR now uses the natural formulation 'regime de conselho monetário (currency board)' on first explanatory use and Portuguese terminology in metadata; the previous raw-English localization failure is resolved.",
+      "repetition": "No blocking repetition; caveats distinguish initial target achievement from long-run resilience and multicausal crisis attribution.",
+      "cohesion": "Argument progresses from initial conditions and institutional design through observed outcomes, path dependence, constraints, social transmission, exit costs and transfer limits.",
+      "template_meta_qa": "No prompt, QA-process, checklist or agent/template leakage detected."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report incorporates the institutional history of inflation, legal commitment, fiscal financing constraints, dollarized balance sheets, political credibility and social costs where they are necessary to explain the mechanism rather than as ornamental background."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "Three analytical Markdown tables, one explicit CPI bar chart and one causal flow in both locales.",
+      "limitations": "The inflation chart reports Dec/Dec CPI observations and does not isolate the independent causal contribution of convertibility from simultaneous fiscal, privatization, trade, financial and capital-flow changes."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Rapid disinflation does not establish that the exchange-rate rule alone caused the broader 1990s macroeconomic performance because fiscal reform, privatization, trade liberalization, financial reform and capital inflows occurred concurrently.",
+    "The 2001-02 collapse cannot be reduced to the peg alone; fiscal weakness, debt dynamics, external shocks, financing conditions, political capacity and crisis management materially interacted.",
+    "The case does not establish that fixed exchange rates are inherently unsustainable; the report explicitly limits transferability to regimes with comparable fiscal, external and balance-sheet constraints."
+  ],
+  "limitations": [
+    "The report relies heavily on retrospective IMF IEO synthesis for causal interpretation; that source is appropriately attributed rather than treated as an uncontested decomposition.",
+    "The CPI chart captures annual December-to-December outcomes and therefore compresses the within-year speed of the 1991 disinflation, which is separately described using monthly observations.",
+    "Social and distributional consequences are described at a mechanism level rather than estimated as a single causal treatment effect of convertibility."
+  ],
+  "notes": "Corrected resubmission after a narrow PT-BR localization rejection. The English blob is unchanged from the prior factual review; PT-BR and pending blobs changed only to resolve the rejected terminology/metadata localization. No public bundle for this ID existed immediately before this decision.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+    "slug": "2026-09-23-policy-case-argentina-convertibility",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T20:56:00-03:00",
+    "kind": "policy-case-study",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-23-policy-case-argentina-convertibility/en.md",
+        "title": "Argentina's Convertibility regime: rapid disinflation, a hard nominal anchor and the cost of losing adjustment capacity",
+        "deck": "The 1991 legal dollar parity rapidly reduced inflation and restored nominal credibility, but its hard exchange-rate constraint increasingly shifted adjustment onto domestic prices, output, fiscal accounts and debt as external conditions deteriorated.",
+        "tags": ["Argentina", "Convertibility", "inflation", "exchange rate", "currency board"],
+        "keywords": ["Argentina Convertibility Law", "Ley 23928", "peso dollar parity", "currency board", "inflation stabilization", "Argentina 1991"],
+        "regime": "Hard legal exchange-rate stabilization with reserve-linked monetary liabilities and sharply constrained discretionary money creation",
+        "key_risk": "Rapid initial disinflation can obscure the accumulation of fiscal, debt, external and balance-sheet vulnerabilities when the nominal anchor removes exchange-rate adjustment.",
+        "watch": ["Fiscal and debt dynamics under the peg", "Foreign-currency balance-sheet exposure", "External competitiveness", "Capital-flow reversals and reserve coverage"],
+        "search_text": "Argentina Convertibility 1991 Ley 23928 peso dollar parity inflation currency board debt crisis 2001"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-23-policy-case-argentina-convertibility/pt-BR.md",
+        "title": "O regime de Convertibilidade da Argentina: desinflação rápida, âncora nominal rígida e o custo de perder capacidade de ajuste",
+        "deck": "A paridade legal com o dólar de 1991 reduziu rapidamente a inflação e restaurou credibilidade nominal, mas a restrição cambial rígida deslocou cada vez mais o ajuste para preços domésticos, produto, contas fiscais e dívida quando as condições externas pioraram.",
+        "tags": ["Argentina", "Convertibilidade", "inflação", "câmbio", "conselho monetário"],
+        "keywords": ["Argentina Lei de Convertibilidade", "Ley 23928", "paridade peso dólar", "regime de conselho monetário", "estabilização da inflação", "Argentina 1991"],
+        "regime": "Estabilização por regra cambial legal rígida, passivos monetários ligados a reservas e forte restrição à criação discricionária de moeda",
+        "key_risk": "A desinflação inicial rápida pode ocultar a acumulação de vulnerabilidades fiscais, de dívida, externas e de balanço quando a âncora nominal remove o ajuste cambial.",
+        "watch": ["Dinâmica fiscal e da dívida sob a paridade", "Exposição de balanços em moeda estrangeira", "Competitividade externa", "Reversões de fluxos de capital e cobertura por reservas"],
+        "search_text": "Argentina Convertibilidade 1991 Ley 23928 paridade peso dólar inflação conselho monetário dívida crise 2001"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power", "strategic-transitions"],
+    "series": "policy-experiments-institutional-transitions",
+    "series_domain": "monetary-stabilization",
+    "dimensions": ["economy", "politics", "society"],
+    "geography": {"level": "country", "regions": ["americas"], "subregions": ["latin-america-caribbean"], "countries": [{"code": "AR", "slug": "argentina"}]},
+    "topics": ["macroeconomics", "fiscal-policy", "monetary-policy", "sovereign-debt", "banking-credit", "currencies", "capital-markets", "institutions-governance", "demography-labor", "inequality-distribution"],
+    "phenomena": ["institutional-change", "social-change", "political-stability", "civil-unrest"],
+    "format": "research-report",
+    "cadence": "weekly",
+    "revision": 1,
+    "case_id": "ar-convertibility-1991"
+  }
+}
