@@ -29,7 +29,7 @@ A Lei 23.928 estabeleceu a convertibilidade do austral em dólar a A 10.000 por 
 | Base monetária ligada a reservas | Limitar expansão monetária discricionária | A liquidez passou a depender mais de fluxos externos e reservas |
 | Limites ao financiamento do banco central | Reduzir monetização fiscal | Desequilíbrios fiscais precisavam ser financiados por tributos, gastos ou dívida |
 
-O Independent Evaluation Office do FMI descreve o arranjo como semelhante a um currency board, embora não idêntico ao desenho clássico mais rígido.
+O Independent Evaluation Office do FMI descreve o arranjo como semelhante a um regime de conselho monetário (currency board), embora não idêntico ao desenho clássico mais rígido.
 
 ```flow
 Histórico de inflação alta + baixa confiança na moeda doméstica → demanda por compromisso nominal rígido
