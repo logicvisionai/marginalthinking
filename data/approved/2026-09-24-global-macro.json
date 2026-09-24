@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-24",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-24T00:10:33-03:00",
+  "reviewed_commit": "e065b9e00495a706f2ba944d8d6ffc1b68cac03d",
+  "pending_blob_sha": "8ae1c9bf30261422e76d6dcca775f37264a33472",
+  "source_blob_shas": {
+    "en": "d27e8a517cf50d77bbcffc63032fd3498524a020",
+    "pt-BR": "2a9a1c5572b0fa742d9a7d3fc8c339ac5ddd5a9d"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central September 23 market and macro observations were checked against primary U.S. Treasury and S&P Global evidence and suitable event reporting. The Treasury curve values, U.S. and euro-area PMI deltas and UK PMI direction are supported. Observed facts are separated from inference and conditional transmission."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "Compared with MT-GM-2026-09-21, MT-GM-2026-09-22 and MT-GM-2026-09-23. The September 23 U.S. PMI acceleration and 15 bp one-session rise in the 10-year Treasury to 5.11% provide a material new delta. Oil/Gulf risk is demoted to background rather than repeated as the dominant thesis."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct thesis-led opening; no generic assessment or summary heading and no form-like field sequence.",
+      "headings": "Analytical headings identify the object and mechanism rather than functioning as empty category labels.",
+      "language_localization": "English reads as native institutional research prose and PT-BR is natural and semantically equivalent; retained market terms are conventional or contextually explained.",
+      "repetition": "The central growth-driven rate mechanism is developed rather than mechanically restated; the prior oil thesis is explicitly subordinated to the new delta.",
+      "cohesion": "Progression runs from thesis and rate repricing through cross-asset transmission, regional policy differences, emerging-market transmission, residual oil risk and second-order effects.",
+      "template_meta_qa": "No prompt, QA history, internal classification fields or retrabalho scars are exposed to the reader."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report incorporates the material institutional and geopolitical context needed for the current mechanism: central-bank constraints, Gulf physical-risk transmission and differing U.S./euro-area/UK/China monetary conditions. No ornamental historical section is required for this daily brief."
+    },
+    "conflict_security_social_change": {
+      "result": "passed",
+      "summary": "Gulf conflict is treated as a conditional transmission risk through physical throughput, freight, insurance and energy prices rather than as an unsupported operational claim. Geopolitical uncertainty is separated from observed market and macro data."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "brief: 1 explicit line chart + 1 Markdown evidence table + 1 causal flow + 1 regional transmission map (4 useful visuals total)",
+      "summary": "The chart uses a single percentage unit across Treasury maturities and dates; the table exposes directly comparable observations; flow arrows reproduce mechanisms defended in prose; the map represents regional transmission rather than false geographic precision. EN/PT-BR values, units and mechanisms are semantically equivalent.",
+      "limitations": "The Treasury chart compares maturities rather than a single homogeneous time series, but all observations use the same yield unit and are explicitly labeled by maturity and date."
+    }
+  },
+  "contrary_evidence": [
+    "Stronger activity can support earnings sufficiently for equities to coexist with high sovereign yields, so higher yields do not mechanically imply weaker equities.",
+    "Further energy-price declines combined with cooling U.S. activity and inflation would weaken the growth-driven rate-shock thesis.",
+    "China's liquidity operation is short-term holiday liquidity management and does not establish a structural stimulus shift."
+  ],
+  "limitations": [
+    "Flash PMI readings are survey-based preliminary indicators rather than final national-accounts data.",
+    "Market observations are a September 23 U.S.-close snapshot and do not establish durable capital-flow reallocations without subsequent flow evidence.",
+    "Gulf conflict transmission remains contingent on realized export throughput, freight, insurance and refined-product availability."
+  ],
+  "notes": "Approved as a new daily Global Macro brief. The new dominant mechanism is a verified growth-driven repricing of long U.S. rates, materially distinct from the oil-relief thesis that dominated the preceding editions.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-24",
+    "slug": "2026-09-24-global-macro",
+    "date": "2026-09-24",
+    "published_at": "2026-09-24T00:07:28-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-24-global-macro/en.md",
+        "title": "Global Macro — Growth, not oil, pushes the rate shock into a new phase",
+        "deck": "A sharp U.S. growth surprise pushed the 10-year Treasury above 5.1%, turning resilient activity itself into the new source of tighter global financial conditions while Europe also accelerated.",
+        "tags": ["global macro", "Treasuries", "Federal Reserve", "PMI", "Europe", "China", "oil", "AI"],
+        "keywords": ["U.S. 10-year Treasury", "real yields", "S&P Global PMI", "ECB", "PBOC", "dollar", "AI financing", "Gulf energy"],
+        "regime": "Growth-driven rate tightening layered on top of unresolved energy and geopolitical risk",
+        "key_risk": "Resilient U.S. and euro-area activity may keep real and nominal long yields high enough for refinancing and investment constraints to spread into credit and earnings even if oil eases.",
+        "watch": ["U.S. 10-year Treasury and 10-year real yield", "October Fed pricing", "Euro-area output and price PMIs", "Gulf realized export and refined-product flows"],
+        "search_text": "Global Macro September 24 2026 Treasury 5.11 PMI 58.4 eurozone 53.1 Fed ECB PBOC dollar AI financing oil Gulf"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-24-global-macro/pt-BR.md",
+        "title": "Global Macro — Crescimento, e não petróleo, leva o choque de juros a uma nova fase",
+        "deck": "Uma forte surpresa de crescimento nos EUA levou o Treasury de 10 anos acima de 5,1%, transformando a própria resistência da atividade na nova fonte de aperto das condições financeiras globais enquanto a Europa também acelerou.",
+        "tags": ["macro global", "Treasuries", "Federal Reserve", "PMI", "Europa", "China", "petróleo", "IA"],
+        "keywords": ["Treasury de 10 anos", "juros reais", "PMI S&P Global", "BCE", "PBOC", "dólar", "financiamento de IA", "energia do Golfo"],
+        "regime": "Aperto de juros movido pelo crescimento somado a risco energético e geopolítico ainda não resolvido",
+        "key_risk": "Atividade resistente nos EUA e na zona do euro pode manter juros reais e nominais longos altos o suficiente para que restrições de refinanciamento e investimento se espalhem para crédito e lucros mesmo com alívio do petróleo.",
+        "watch": ["Treasury de 10 anos e juro real de 10 anos", "Precificação da reunião de outubro do Fed", "PMIs de atividade e preços da zona do euro", "Fluxos efetivos de exportação e derivados do Golfo"],
+        "search_text": "Global Macro 24 setembro 2026 Treasury 5,11 PMI 58,4 zona euro 53,1 Fed BCE PBOC dólar financiamento IA petróleo Golfo"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level":"global","regions":["americas","europe","asia-pacific","middle-east"],"subregions":["north-america","western-europe","east-asia","south-asia","gulf","latin-america-caribbean"],"countries":[]},
+    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "sovereign-debt", "currencies", "energy", "geopolitics-security"],
+    "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+    "format": "brief",
+    "cadence": "daily",
+    "novelty_gate": {
+      "prior_public_editions": ["MT-GM-2026-09-23", "MT-GM-2026-09-22", "MT-GM-2026-09-21"],
+      "material_delta": "September 23 U.S. PMI accelerated to 58.4 and the 10-year Treasury par yield rose 15 bp to 5.11%, while euro-area PMI accelerated to 53.1. This shifts the dominant mechanism from oil-relief versus high rates to growth itself sustaining tighter global rates.",
+      "repeated_theme_treatment": "Oil/Gulf risk is retained as background and transmission risk rather than the dominant thesis."
+    }
+  }
+}
