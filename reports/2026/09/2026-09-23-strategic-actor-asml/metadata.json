@@ -1,0 +1,124 @@
+{
+  "id": "MT-SA-2026-09-23-ASML",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:34:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "western-europe"
+    ],
+    "countries": [
+      {
+        "code": "NL",
+        "slug": "netherlands"
+      }
+    ]
+  },
+  "topics": [
+    "technology-innovation",
+    "industry-production",
+    "trade-investment",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "strategic-competition"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 2,
+  "assessment_confidence": "high-on-technical-supply-and-export-control-separation-medium-on-long-horizon-substitution",
+  "key_constraints": [
+    "engineering and supplier lead times",
+    "customer fab integration",
+    "capital expenditure cycles",
+    "Dutch export licensing",
+    "competing process technologies"
+  ],
+  "selection_rationale": "ASML is an active Strategic Actors record with a documented technology-supply relation and low short-run substitutability but lacked a dedicated single-actor canonical study.",
+  "actor_id": "asml",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:13:23Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "ASML: a difficult-to-substitute production technology inside the semiconductor chain",
+      "deck": "ASML's structural relevance comes from advanced lithography capabilities that can be difficult to replace within semiconductor investment horizons. The company supplies technology; the Dutch state separately controls covered export licences.",
+      "tags": [
+        "Strategic Actors",
+        "ASML",
+        "Semiconductors",
+        "Lithography",
+        "Technology Chokepoints"
+      ],
+      "keywords": [
+        "ASML",
+        "EUV",
+        "High-NA EUV",
+        "DUV",
+        "semiconductor manufacturing",
+        "lithography",
+        "export controls",
+        "technology supply"
+      ],
+      "regime": "Advanced semiconductor production depends on specialized equipment, supplier ecosystems and regulatory access whose substitution can take years.",
+      "key_risk": "Treating ASML's technical position as control of the entire semiconductor chain or as sovereign export authority overstates its rights.",
+      "watch": [
+        "EUV and High-NA adoption",
+        "system productivity and shipments",
+        "installed-base service",
+        "alternative lithography approaches",
+        "Dutch export-control scope"
+      ],
+      "search_text": "ASML strategic actor EUV lithography semiconductor manufacturing High-NA technology chokepoint export controls substitutability"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "ASML: uma tecnologia produtiva de difícil substituição dentro da cadeia de semicondutores",
+      "deck": "A relevância da ASML vem de capacidades avançadas de litografia que podem ser difíceis de substituir no horizonte de investimento de semicondutores. A empresa fornece tecnologia; o Estado neerlandês controla separadamente as licenças de exportação abrangidas.",
+      "tags": [
+        "Atores Estratégicos",
+        "ASML",
+        "Semicondutores",
+        "Litografia",
+        "Gargalos Tecnológicos"
+      ],
+      "keywords": [
+        "ASML",
+        "EUV",
+        "High-NA EUV",
+        "DUV",
+        "fabricação de semicondutores",
+        "litografia",
+        "controles de exportação",
+        "fornecimento tecnológico"
+      ],
+      "regime": "Produção avançada de semicondutores depende de equipamentos especializados, ecossistemas de fornecedores e acesso regulatório cuja substituição pode exigir anos.",
+      "key_risk": "Tratar a posição técnica da ASML como controle de toda a cadeia ou como autoridade soberana de exportação exagera seus direitos.",
+      "watch": [
+        "adoção de EUV e High-NA",
+        "produtividade e entregas de sistemas",
+        "serviço da base instalada",
+        "alternativas de litografia",
+        "escopo dos controles neerlandeses"
+      ],
+      "search_text": "ASML ator estratégico EUV litografia semicondutores High-NA dependência tecnológica controles de exportação substituibilidade"
+    }
+  }
+}

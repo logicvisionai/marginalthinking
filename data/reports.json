@@ -86,6 +86,690 @@
     "qa_reviewed_commit": "4f1d07838ed117f313d28881809241c27be789b7"
   },
   {
+    "id": "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+    "slug": "2026-09-23-strategic-actor-new-development-bank",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:42:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "infrastructure-logistics",
+      "trade-investment",
+      "sovereign-debt",
+      "capital-markets",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-membership-governance-and-approval-data-medium-on-additionality-and-future-strategy-outcomes",
+    "key_constraints": [
+      "capital and funding costs",
+      "project appraisal and execution",
+      "member governance",
+      "country risk",
+      "local capital-market depth",
+      "disbursement pace"
+    ],
+    "selection_rationale": "The New Development Bank is an active Strategic Actors record with a documented multilateral-financing channel but lacked a dedicated single-actor canonical study.",
+    "actor_id": "new-development-bank",
+    "title": "New Development Bank: multilateral development finance beyond the founding BRICS membership",
+    "deck": "The NDB has expanded from five founding BRICS members to ten member countries while building a distinct infrastructure-finance platform. Its structural relevance depends on converting member capital and market funding into additional, well-performing projects.",
+    "tags": [
+      "Strategic Actors",
+      "New Development Bank",
+      "Development Finance",
+      "BRICS",
+      "Infrastructure"
+    ],
+    "keywords": [
+      "New Development Bank",
+      "NDB",
+      "BRICS",
+      "multilateral development bank",
+      "infrastructure finance",
+      "local currency financing",
+      "member capital"
+    ],
+    "regime": "The NDB is broadening membership and moving into a 2027–2031 strategy while maintaining treaty-based governance and development-finance operations.",
+    "key_risk": "Treating the NDB as a single geopolitical instrument for BRICS members obscures its separate governance, project-level underwriting and the distinction between approvals and realised assets.",
+    "watch": [
+      "disbursements versus approvals",
+      "project completion and performance",
+      "local-currency financing",
+      "funding costs and market access",
+      "membership and voting shares",
+      "2027-2031 strategy implementation"
+    ],
+    "search_text": "New Development Bank NDB strategic actor BRICS multilateral development finance infrastructure local currency governance members",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-new-development-bank.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-new-development-bank/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:13:58Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "f0270b517bf6fe77a40aa83dacfb70a24defcb12"
+  },
+  {
+    "id": "MT-SA-2026-09-23-IMF",
+    "slug": "2026-09-23-strategic-actor-imf",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:40:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "institutions-governance",
+      "macroeconomics"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-governance-resource-and-lending-mechanisms-medium-on-programme-specific-catalytic-effects",
+    "key_constraints": [
+      "member governance and consent",
+      "national implementation capacity",
+      "alternative financing sources",
+      "debt sustainability",
+      "programme design uncertainty"
+    ],
+    "selection_rationale": "The IMF is an active Strategic Actors record with documented global-financing and sovereign-financing-framework channels but lacked a dedicated single-actor canonical study.",
+    "actor_id": "imf",
+    "title": "IMF: pooled sovereign resources, conditional finance and the architecture of balance-of-payments support",
+    "deck": "The IMF pools resources from 191 members and combines crisis lending with programme frameworks, surveillance and multilateral governance. Its structural role changes financing constraints; national authorities retain responsibility for implementation.",
+    "tags": [
+      "Strategic Actors",
+      "IMF",
+      "Sovereign Finance",
+      "Balance of Payments",
+      "Multilateral Institutions"
+    ],
+    "keywords": [
+      "IMF",
+      "quotas",
+      "conditionality",
+      "balance of payments",
+      "Executive Board",
+      "SDR",
+      "global financial safety net"
+    ],
+    "regime": "The IMF is shifting toward a larger quota-based permanent resource base while retaining supplementary borrowing and conditional programme lending.",
+    "key_risk": "Programme conditionality can be overstated as direct political control, while approved quota reform can be misreported as already-effective resources.",
+    "watch": [
+      "16th quota review implementation",
+      "quota and borrowing resources",
+      "programme commitments",
+      "credit outstanding",
+      "voting shares",
+      "access and conditionality frameworks"
+    ],
+    "search_text": "IMF strategic actor quotas conditionality balance of payments lending SDR Executive Board global financial safety net",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-imf.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-imf/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:13:58Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "f0270b517bf6fe77a40aa83dacfb70a24defcb12"
+  },
+  {
+    "id": "MT-SA-2026-09-23-EUROSYSTEM",
+    "slug": "2026-09-23-strategic-actor-eurosystem",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:38:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "region",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "capital-markets",
+      "institutions-governance",
+      "technology-innovation"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-institutional-authority-and-settlement-infrastructure-medium-on-future-tokenised-settlement-scale",
+    "key_constraints": [
+      "Treaty mandate",
+      "national financial-system heterogeneity",
+      "collateral eligibility",
+      "sovereign-market fragmentation",
+      "legal and technical interoperability"
+    ],
+    "selection_rationale": "The Eurosystem is an active Strategic Actors record with a documented global-financing and settlement-infrastructure channel but lacked a dedicated single-actor canonical study.",
+    "actor_id": "eurosystem",
+    "title": "Eurosystem: a shared monetary authority with distributed implementation and settlement infrastructure",
+    "deck": "The Eurosystem combines common euro-area monetary decisions with distributed implementation through national central banks and shared settlement infrastructure. Pontes now extends central-bank money into tokenised wholesale settlement.",
+    "tags": [
+      "Strategic Actors",
+      "Eurosystem",
+      "ECB",
+      "Monetary Policy",
+      "Financial Infrastructure"
+    ],
+    "keywords": [
+      "Eurosystem",
+      "ECB",
+      "Governing Council",
+      "TARGET Services",
+      "T2",
+      "TIPS",
+      "Pontes",
+      "euro liquidity"
+    ],
+    "regime": "Common euro-area monetary authority operates through distributed central-bank implementation and increasingly integrated settlement infrastructure.",
+    "key_risk": "Conflating the Eurosystem with all EU institutions or assuming a common policy produces identical national transmission obscures institutional boundaries.",
+    "watch": [
+      "key ECB rates",
+      "collateral and reserve framework",
+      "monetary-policy transmission fragmentation",
+      "TARGET Services volumes and availability",
+      "Pontes adoption"
+    ],
+    "search_text": "Eurosystem strategic actor ECB monetary policy TARGET T2 TIPS Pontes euro settlement central bank money",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-eurosystem.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-eurosystem/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:13:58Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "f0270b517bf6fe77a40aa83dacfb70a24defcb12"
+  },
+  {
+    "id": "MT-SA-2026-09-23-FEDERAL-RESERVE",
+    "slug": "2026-09-23-strategic-actor-federal-reserve",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:36:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "north-america"
+      ],
+      "countries": [
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "capital-markets",
+      "institutions-governance"
+    ],
+    "phenomena": [],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-institutional-authority-and-market-transmission-medium-on-country-specific-cross-border-effects",
+    "key_constraints": [
+      "statutory mandate",
+      "FOMC governance",
+      "private financial intermediation",
+      "market expectations",
+      "foreign central-bank autonomy",
+      "availability of alternative funding channels"
+    ],
+    "selection_rationale": "The Federal Reserve is an active Strategic Actors record with a documented global-financing channel but lacked a dedicated single-actor canonical study.",
+    "actor_id": "federal-reserve",
+    "title": "Federal Reserve: monetary authority, dollar liquidity and the transmission of global financing conditions",
+    "deck": "The Federal Reserve's structural role comes from legal monetary authority over the dollar, a multi-trillion-dollar balance sheet and liquidity backstops whose effects transmit through U.S. and cross-border funding markets.",
+    "tags": [
+      "Strategic Actors",
+      "Federal Reserve",
+      "Monetary Policy",
+      "Dollar Liquidity",
+      "Global Finance"
+    ],
+    "keywords": [
+      "Federal Reserve",
+      "FOMC",
+      "federal funds rate",
+      "dollar liquidity",
+      "balance sheet",
+      "swap lines",
+      "global financing conditions"
+    ],
+    "regime": "Dollar monetary policy operates through an ample-reserves framework, large securities holdings and standing international liquidity backstops.",
+    "key_risk": "Global transmission can be misdescribed as direct control over private credit or foreign monetary policy.",
+    "watch": [
+      "federal funds target range",
+      "reserve remuneration",
+      "balance-sheet composition",
+      "liquidity facilities",
+      "central-bank swap usage",
+      "cross-border dollar funding"
+    ],
+    "search_text": "Federal Reserve strategic actor FOMC dollar liquidity swap lines balance sheet global financing monetary policy",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-federal-reserve.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-federal-reserve/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:13:23Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d"
+  },
+  {
+    "id": "MT-SA-2026-09-23-ASML",
+    "slug": "2026-09-23-strategic-actor-asml",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:34:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "western-europe"
+      ],
+      "countries": [
+        {
+          "code": "NL",
+          "slug": "netherlands"
+        }
+      ]
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "trade-investment",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "high-on-technical-supply-and-export-control-separation-medium-on-long-horizon-substitution",
+    "key_constraints": [
+      "engineering and supplier lead times",
+      "customer fab integration",
+      "capital expenditure cycles",
+      "Dutch export licensing",
+      "competing process technologies"
+    ],
+    "selection_rationale": "ASML is an active Strategic Actors record with a documented technology-supply relation and low short-run substitutability but lacked a dedicated single-actor canonical study.",
+    "actor_id": "asml",
+    "title": "ASML: a difficult-to-substitute production technology inside the semiconductor chain",
+    "deck": "ASML's structural relevance comes from advanced lithography capabilities that can be difficult to replace within semiconductor investment horizons. The company supplies technology; the Dutch state separately controls covered export licences.",
+    "tags": [
+      "Strategic Actors",
+      "ASML",
+      "Semiconductors",
+      "Lithography",
+      "Technology Chokepoints"
+    ],
+    "keywords": [
+      "ASML",
+      "EUV",
+      "High-NA EUV",
+      "DUV",
+      "semiconductor manufacturing",
+      "lithography",
+      "export controls",
+      "technology supply"
+    ],
+    "regime": "Advanced semiconductor production depends on specialized equipment, supplier ecosystems and regulatory access whose substitution can take years.",
+    "key_risk": "Treating ASML's technical position as control of the entire semiconductor chain or as sovereign export authority overstates its rights.",
+    "watch": [
+      "EUV and High-NA adoption",
+      "system productivity and shipments",
+      "installed-base service",
+      "alternative lithography approaches",
+      "Dutch export-control scope"
+    ],
+    "search_text": "ASML strategic actor EUV lithography semiconductor manufacturing High-NA technology chokepoint export controls substitutability",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-asml.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-asml/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:13:23Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d"
+  },
+  {
+    "id": "MT-SA-2026-09-23-GLENCORE",
+    "slug": "2026-09-23-strategic-actor-glencore",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:32:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "commodities-resources",
+      "industry-production",
+      "trade-investment",
+      "infrastructure-logistics",
+      "energy"
+    ],
+    "phenomena": [],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-owned-production-and-commercial-channels-medium-on-commodity-specific-substitutability",
+    "key_constraints": [
+      "geology and mine sequencing",
+      "permits and sovereign export rules",
+      "competing production",
+      "processing and logistics capacity",
+      "commodity prices and capital allocation"
+    ],
+    "selection_rationale": "Glencore is an active Strategic Actors record with documented production-control and energy channels but lacked a dedicated single-actor canonical study.",
+    "actor_id": "glencore",
+    "title": "Glencore: when production ownership and commodity marketing occupy the same chain",
+    "deck": "Glencore combines direct rights over mines and industrial assets with a global marketing network. Its structural relevance is commodity- and asset-specific: production control is real, but it is not equivalent to control of entire global markets.",
+    "tags": [
+      "Strategic Actors",
+      "Glencore",
+      "Critical Minerals",
+      "Commodity Trading",
+      "Mining"
+    ],
+    "keywords": [
+      "Glencore",
+      "copper",
+      "zinc",
+      "nickel",
+      "cobalt",
+      "coal",
+      "commodity marketing",
+      "production control"
+    ],
+    "regime": "Integrated producers combine asset-level production decisions with commercial networks that can reallocate physical supply.",
+    "key_risk": "Company-wide production volumes can be overgeneralized into market control without testing commodity-level concentration, substitutes and sovereign constraints.",
+    "watch": [
+      "own-source production",
+      "mine disposals and expansions",
+      "processing capacity",
+      "export controls and quotas",
+      "marketing volumes and logistics"
+    ],
+    "search_text": "Glencore strategic actor mining copper zinc nickel cobalt production marketing commodity trading structural power",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-glencore.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-glencore/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:13:23Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d"
+  },
+  {
+    "id": "MT-SA-2026-09-23-TRAFIGURA",
+    "slug": "2026-09-23-strategic-actor-trafigura",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:30:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "commodities-resources",
+      "energy",
+      "infrastructure-logistics",
+      "trade-investment",
+      "capital-markets"
+    ],
+    "phenomena": [],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-physical-volume-and-intermediation-mechanism-medium-on-substitutability-during-disruption",
+    "key_constraints": [
+      "working-capital and credit access",
+      "shipping and storage availability",
+      "counterparty risk",
+      "sanctions and compliance",
+      "competition from other physical traders and producer marketing arms"
+    ],
+    "selection_rationale": "Trafigura is an active Strategic Actors record with documented physical-trade and logistics channels but lacked a dedicated single-actor canonical study.",
+    "actor_id": "trafigura",
+    "title": "Trafigura: structural capacity through physical commodity intermediation",
+    "deck": "Trafigura's structural role comes from coordinating finance, shipping, storage, blending and counterparties across large physical commodity flows. That is intermediation capacity, not ownership of global reserves or unilateral price control.",
+    "tags": [
+      "Strategic Actors",
+      "Trafigura",
+      "Commodity Trading",
+      "Energy",
+      "Logistics"
+    ],
+    "keywords": [
+      "Trafigura",
+      "physical commodity trading",
+      "trade finance",
+      "shipping",
+      "storage",
+      "oil flows",
+      "commodity logistics"
+    ],
+    "regime": "Large physical traders remain important coordinators of fragmented commodity flows, particularly when financing and logistics become binding constraints.",
+    "key_risk": "Trading volume can be misread as ownership or price-setting power, while gross flows depend on funding, logistics and replaceable counterparties.",
+    "watch": [
+      "physical trading volumes",
+      "working-capital and liquidity access",
+      "shipping and storage capacity",
+      "sanctions and compliance constraints",
+      "evidence of substitution by rival intermediaries"
+    ],
+    "search_text": "Trafigura strategic actor physical commodity trading oil flows trade finance shipping logistics storage structural power",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-trafigura.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-trafigura/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:12:57Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "9279796777138224dd450b8daf73993a99da4856"
+  },
+  {
+    "id": "MT-SA-2026-09-23-TEMASEK",
+    "slug": "2026-09-23-strategic-actor-temasek",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:28:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "southeast-asia"
+      ],
+      "countries": [
+        {
+          "code": "SG",
+          "slug": "singapore"
+        }
+      ]
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "institutions-governance",
+      "industry-production"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "high-on-ownership-governance-and-portfolio-scale-medium-on-system-dependence-of-specific-holdings",
+    "key_constraints": [
+      "commercial return discipline",
+      "portfolio-company board autonomy",
+      "constitutional reserve safeguards",
+      "market valuations",
+      "holding-specific rights and substitutability"
+    ],
+    "selection_rationale": "Temasek is an active Strategic Actors record with a documented state-owned direct-investment channel but lacked a dedicated single-actor canonical study.",
+    "actor_id": "temasek",
+    "title": "Temasek: direct state ownership with commercially governed portfolio decisions",
+    "deck": "Temasek is wholly owned by Singapore's Minister for Finance and directly owns its portfolio, while its governance framework states that the Government does not direct investment decisions. The distinction changes how sovereign ownership transmits into corporate rights.",
+    "tags": [
+      "Strategic Actors",
+      "Temasek",
+      "Singapore",
+      "Sovereign Capital",
+      "Corporate Governance"
+    ],
+    "keywords": [
+      "Temasek",
+      "Singapore",
+      "state ownership",
+      "direct ownership",
+      "portfolio governance",
+      "past reserves",
+      "shareholder rights"
+    ],
+    "regime": "Direct sovereign ownership coexists with commercially governed investment decisions and constitutional safeguards over past reserves.",
+    "key_risk": "Conflating state ownership of Temasek with government direction of portfolio-company operations overstates the transmission of public authority.",
+    "watch": [
+      "stakes in major portfolio companies",
+      "board and voting rights",
+      "unlisted asset exposure",
+      "portfolio concentration",
+      "formal governance changes"
+    ],
+    "search_text": "Temasek strategic actor Singapore state ownership direct portfolio ownership commercial governance shareholder rights",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-temasek.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-temasek/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:12:57Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "9279796777138224dd450b8daf73993a99da4856"
+  },
+  {
     "id": "MT-SA-2026-09-23-MUBADALA",
     "slug": "2026-09-23-strategic-actor-mubadala",
     "date": "2026-09-23",

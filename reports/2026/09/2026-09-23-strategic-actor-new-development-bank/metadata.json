@@ -1,0 +1,119 @@
+{
+  "id": "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:42:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "infrastructure-logistics",
+    "trade-investment",
+    "sovereign-debt",
+    "capital-markets",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "assessment_confidence": "high-on-membership-governance-and-approval-data-medium-on-additionality-and-future-strategy-outcomes",
+  "key_constraints": [
+    "capital and funding costs",
+    "project appraisal and execution",
+    "member governance",
+    "country risk",
+    "local capital-market depth",
+    "disbursement pace"
+  ],
+  "selection_rationale": "The New Development Bank is an active Strategic Actors record with a documented multilateral-financing channel but lacked a dedicated single-actor canonical study.",
+  "actor_id": "new-development-bank",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:13:58Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "f0270b517bf6fe77a40aa83dacfb70a24defcb12",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "New Development Bank: multilateral development finance beyond the founding BRICS membership",
+      "deck": "The NDB has expanded from five founding BRICS members to ten member countries while building a distinct infrastructure-finance platform. Its structural relevance depends on converting member capital and market funding into additional, well-performing projects.",
+      "tags": [
+        "Strategic Actors",
+        "New Development Bank",
+        "Development Finance",
+        "BRICS",
+        "Infrastructure"
+      ],
+      "keywords": [
+        "New Development Bank",
+        "NDB",
+        "BRICS",
+        "multilateral development bank",
+        "infrastructure finance",
+        "local currency financing",
+        "member capital"
+      ],
+      "regime": "The NDB is broadening membership and moving into a 2027–2031 strategy while maintaining treaty-based governance and development-finance operations.",
+      "key_risk": "Treating the NDB as a single geopolitical instrument for BRICS members obscures its separate governance, project-level underwriting and the distinction between approvals and realised assets.",
+      "watch": [
+        "disbursements versus approvals",
+        "project completion and performance",
+        "local-currency financing",
+        "funding costs and market access",
+        "membership and voting shares",
+        "2027-2031 strategy implementation"
+      ],
+      "search_text": "New Development Bank NDB strategic actor BRICS multilateral development finance infrastructure local currency governance members"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "New Development Bank: financiamento multilateral do desenvolvimento além dos membros fundadores do BRICS",
+      "deck": "O NDB passou dos cinco fundadores do BRICS para dez países membros enquanto constrói uma plataforma própria de financiamento de infraestrutura. Sua relevância depende de converter capital dos membros e funding de mercado em projetos adicionais e de bom desempenho.",
+      "tags": [
+        "Atores Estratégicos",
+        "New Development Bank",
+        "Financiamento do Desenvolvimento",
+        "BRICS",
+        "Infraestrutura"
+      ],
+      "keywords": [
+        "New Development Bank",
+        "NDB",
+        "BRICS",
+        "banco multilateral",
+        "financiamento de infraestrutura",
+        "moeda local",
+        "capital dos membros"
+      ],
+      "regime": "O NDB amplia sua base de membros e entra na estratégia 2027–2031 mantendo governança de tratado e operações de financiamento do desenvolvimento.",
+      "key_risk": "Tratar o NDB como instrumento geopolítico único dos membros do BRICS esconde sua governança própria, análise de projetos e diferença entre aprovação e ativo realizado.",
+      "watch": [
+        "desembolsos versus aprovações",
+        "conclusão e desempenho dos projetos",
+        "financiamento em moeda local",
+        "custo de funding e acesso a mercado",
+        "membros e votos",
+        "implementação da estratégia 2027-2031"
+      ],
+      "search_text": "New Development Bank NDB ator estratégico BRICS financiamento multilateral desenvolvimento infraestrutura moeda local governança membros"
+    }
+  }
+}

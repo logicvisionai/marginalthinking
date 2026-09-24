@@ -1,0 +1,112 @@
+{
+  "id": "MT-SA-2026-09-23-TRAFIGURA",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:30:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "commodities-resources",
+    "energy",
+    "infrastructure-logistics",
+    "trade-investment",
+    "capital-markets"
+  ],
+  "phenomena": [],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "assessment_confidence": "high-on-physical-volume-and-intermediation-mechanism-medium-on-substitutability-during-disruption",
+  "key_constraints": [
+    "working-capital and credit access",
+    "shipping and storage availability",
+    "counterparty risk",
+    "sanctions and compliance",
+    "competition from other physical traders and producer marketing arms"
+  ],
+  "selection_rationale": "Trafigura is an active Strategic Actors record with documented physical-trade and logistics channels but lacked a dedicated single-actor canonical study.",
+  "actor_id": "trafigura",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:12:57Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "9279796777138224dd450b8daf73993a99da4856",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Trafigura: structural capacity through physical commodity intermediation",
+      "deck": "Trafigura's structural role comes from coordinating finance, shipping, storage, blending and counterparties across large physical commodity flows. That is intermediation capacity, not ownership of global reserves or unilateral price control.",
+      "tags": [
+        "Strategic Actors",
+        "Trafigura",
+        "Commodity Trading",
+        "Energy",
+        "Logistics"
+      ],
+      "keywords": [
+        "Trafigura",
+        "physical commodity trading",
+        "trade finance",
+        "shipping",
+        "storage",
+        "oil flows",
+        "commodity logistics"
+      ],
+      "regime": "Large physical traders remain important coordinators of fragmented commodity flows, particularly when financing and logistics become binding constraints.",
+      "key_risk": "Trading volume can be misread as ownership or price-setting power, while gross flows depend on funding, logistics and replaceable counterparties.",
+      "watch": [
+        "physical trading volumes",
+        "working-capital and liquidity access",
+        "shipping and storage capacity",
+        "sanctions and compliance constraints",
+        "evidence of substitution by rival intermediaries"
+      ],
+      "search_text": "Trafigura strategic actor physical commodity trading oil flows trade finance shipping logistics storage structural power"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Trafigura: capacidade estrutural por intermediação física de commodities",
+      "deck": "O papel estrutural da Trafigura vem de coordenar financiamento, transporte, armazenagem, mistura e contrapartes em grandes fluxos físicos. Isso é capacidade de intermediação, não propriedade de reservas globais nem poder unilateral de precificação.",
+      "tags": [
+        "Atores Estratégicos",
+        "Trafigura",
+        "Trading de Commodities",
+        "Energia",
+        "Logística"
+      ],
+      "keywords": [
+        "Trafigura",
+        "trading físico",
+        "trade finance",
+        "transporte marítimo",
+        "armazenagem",
+        "fluxos de petróleo",
+        "logística de commodities"
+      ],
+      "regime": "Grandes traders físicos continuam relevantes na coordenação de fluxos fragmentados, sobretudo quando financiamento e logística se tornam restrições centrais.",
+      "key_risk": "Volume negociado pode ser confundido com propriedade ou poder de preço, embora os fluxos dependam de funding, logística e contrapartes substituíveis.",
+      "watch": [
+        "volumes físicos negociados",
+        "acesso a capital de giro e liquidez",
+        "capacidade de transporte e armazenagem",
+        "restrições de sanções e compliance",
+        "evidência de substituição por concorrentes"
+      ],
+      "search_text": "Trafigura ator estratégico trading físico commodities petróleo trade finance transporte logística armazenagem poder estrutural"
+    }
+  }
+}

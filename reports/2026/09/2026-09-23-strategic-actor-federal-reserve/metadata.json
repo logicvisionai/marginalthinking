@@ -1,0 +1,124 @@
+{
+  "id": "MT-SA-2026-09-23-FEDERAL-RESERVE",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:36:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "north-america"
+    ],
+    "countries": [
+      {
+        "code": "US",
+        "slug": "united-states"
+      }
+    ]
+  },
+  "topics": [
+    "monetary-policy",
+    "banking-credit",
+    "currencies",
+    "capital-markets",
+    "institutions-governance"
+  ],
+  "phenomena": [],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "assessment_confidence": "high-on-institutional-authority-and-market-transmission-medium-on-country-specific-cross-border-effects",
+  "key_constraints": [
+    "statutory mandate",
+    "FOMC governance",
+    "private financial intermediation",
+    "market expectations",
+    "foreign central-bank autonomy",
+    "availability of alternative funding channels"
+  ],
+  "selection_rationale": "The Federal Reserve is an active Strategic Actors record with a documented global-financing channel but lacked a dedicated single-actor canonical study.",
+  "actor_id": "federal-reserve",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:13:23Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Federal Reserve: monetary authority, dollar liquidity and the transmission of global financing conditions",
+      "deck": "The Federal Reserve's structural role comes from legal monetary authority over the dollar, a multi-trillion-dollar balance sheet and liquidity backstops whose effects transmit through U.S. and cross-border funding markets.",
+      "tags": [
+        "Strategic Actors",
+        "Federal Reserve",
+        "Monetary Policy",
+        "Dollar Liquidity",
+        "Global Finance"
+      ],
+      "keywords": [
+        "Federal Reserve",
+        "FOMC",
+        "federal funds rate",
+        "dollar liquidity",
+        "balance sheet",
+        "swap lines",
+        "global financing conditions"
+      ],
+      "regime": "Dollar monetary policy operates through an ample-reserves framework, large securities holdings and standing international liquidity backstops.",
+      "key_risk": "Global transmission can be misdescribed as direct control over private credit or foreign monetary policy.",
+      "watch": [
+        "federal funds target range",
+        "reserve remuneration",
+        "balance-sheet composition",
+        "liquidity facilities",
+        "central-bank swap usage",
+        "cross-border dollar funding"
+      ],
+      "search_text": "Federal Reserve strategic actor FOMC dollar liquidity swap lines balance sheet global financing monetary policy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Federal Reserve: autoridade monetária, liquidez em dólar e transmissão das condições financeiras globais",
+      "deck": "O papel estrutural do Federal Reserve vem da autoridade monetária legal sobre o dólar, de um balanço de vários trilhões e de backstops de liquidez cujos efeitos se transmitem pelos mercados americanos e pelo funding transfronteiriço.",
+      "tags": [
+        "Atores Estratégicos",
+        "Federal Reserve",
+        "Política Monetária",
+        "Liquidez em Dólar",
+        "Finanças Globais"
+      ],
+      "keywords": [
+        "Federal Reserve",
+        "FOMC",
+        "federal funds",
+        "liquidez em dólar",
+        "balanço",
+        "swap lines",
+        "condições financeiras globais"
+      ],
+      "regime": "A política monetária do dólar opera por regime de reservas amplas, grande carteira de títulos e backstops internacionais permanentes de liquidez.",
+      "key_risk": "Transmissão global pode ser descrita incorretamente como controle direto sobre crédito privado ou política monetária estrangeira.",
+      "watch": [
+        "faixa dos federal funds",
+        "remuneração de reservas",
+        "composição do balanço",
+        "facilidades de liquidez",
+        "uso de swaps",
+        "funding transfronteiriço em dólar"
+      ],
+      "search_text": "Federal Reserve ator estratégico FOMC liquidez dólar swap lines balanço financiamento global política monetária"
+    }
+  }
+}

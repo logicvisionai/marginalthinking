@@ -1,0 +1,118 @@
+{
+  "id": "MT-SA-2026-09-23-IMF",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:40:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "institutions-governance",
+    "macroeconomics"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "revision": 1,
+  "assessment_confidence": "high-on-governance-resource-and-lending-mechanisms-medium-on-programme-specific-catalytic-effects",
+  "key_constraints": [
+    "member governance and consent",
+    "national implementation capacity",
+    "alternative financing sources",
+    "debt sustainability",
+    "programme design uncertainty"
+  ],
+  "selection_rationale": "The IMF is an active Strategic Actors record with documented global-financing and sovereign-financing-framework channels but lacked a dedicated single-actor canonical study.",
+  "actor_id": "imf",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T03:13:58Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "f0270b517bf6fe77a40aa83dacfb70a24defcb12",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "IMF: pooled sovereign resources, conditional finance and the architecture of balance-of-payments support",
+      "deck": "The IMF pools resources from 191 members and combines crisis lending with programme frameworks, surveillance and multilateral governance. Its structural role changes financing constraints; national authorities retain responsibility for implementation.",
+      "tags": [
+        "Strategic Actors",
+        "IMF",
+        "Sovereign Finance",
+        "Balance of Payments",
+        "Multilateral Institutions"
+      ],
+      "keywords": [
+        "IMF",
+        "quotas",
+        "conditionality",
+        "balance of payments",
+        "Executive Board",
+        "SDR",
+        "global financial safety net"
+      ],
+      "regime": "The IMF is shifting toward a larger quota-based permanent resource base while retaining supplementary borrowing and conditional programme lending.",
+      "key_risk": "Programme conditionality can be overstated as direct political control, while approved quota reform can be misreported as already-effective resources.",
+      "watch": [
+        "16th quota review implementation",
+        "quota and borrowing resources",
+        "programme commitments",
+        "credit outstanding",
+        "voting shares",
+        "access and conditionality frameworks"
+      ],
+      "search_text": "IMF strategic actor quotas conditionality balance of payments lending SDR Executive Board global financial safety net"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "FMI: recursos soberanos compartilhados, financiamento condicional e a arquitetura de apoio ao balanço de pagamentos",
+      "deck": "O FMI reúne recursos de 191 membros e combina crédito de crise com programas, supervisão e governança multilateral. Seu papel altera restrições financeiras; autoridades nacionais continuam responsáveis pela implementação.",
+      "tags": [
+        "Atores Estratégicos",
+        "FMI",
+        "Financiamento Soberano",
+        "Balanço de Pagamentos",
+        "Instituições Multilaterais"
+      ],
+      "keywords": [
+        "FMI",
+        "quotas",
+        "condicionalidade",
+        "balanço de pagamentos",
+        "Executive Board",
+        "DES",
+        "rede de segurança financeira global"
+      ],
+      "regime": "O FMI caminha para uma base permanente maior de quotas, mantendo recursos emprestados suplementares e crédito condicionado a programas.",
+      "key_risk": "Condicionalidade pode ser exagerada como controle político direto, e uma reforma aprovada pode ser descrita incorretamente como recurso já vigente.",
+      "watch": [
+        "implementação da 16ª revisão de quotas",
+        "recursos de quotas e empréstimos",
+        "compromissos de programas",
+        "crédito em aberto",
+        "participações de voto",
+        "regras de acesso e condicionalidade"
+      ],
+      "search_text": "FMI ator estratégico quotas condicionalidade balanço de pagamentos crédito DES Executive Board segurança financeira global"
+    }
+  }
+}
