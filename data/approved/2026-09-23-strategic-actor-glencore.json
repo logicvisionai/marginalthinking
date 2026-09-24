@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-09-23-GLENCORE",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-24T03:13:23Z",
+  "reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d",
+  "pending_blob_sha": "ba71a58569fdf73681dd57e4848c5002e8340f2c",
+  "source_blob_shas": {
+    "en": "b1c2c77b9aa32d9e377c042c6fee1d7079efa11e",
+    "pt-BR": "8cc39a5e4072dba435f7136119420be08fab4a4c"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "Glencore primary production disclosures confirm 2025 own-source output of 851.6kt copper, 969.4kt zinc, 71.9kt nickel, 36.1kt cobalt, 32.5Mt steelmaking coal and 98.0Mt energy coal, plus the DRC cobalt quota constraint and 2026 guidance. The dossier distinguishes direct production rights from third-party marketing and keeps substitutability commodity- and asset-specific."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct mechanism-led opening; no generic sophistication claims or product-process narration.",
+      "headings": "Headings advance the actor-specific mechanism, constraints, contrary evidence and revision conditions.",
+      "language_localization": "EN and PT-BR are semantically aligned; PT-BR technical prose was localized before approval.",
+      "repetition": "No blocking thesis repetition identified.",
+      "cohesion": "Argument moves from rights/capability through transmission, constraints and evidence that would revise the assessment.",
+      "template_meta_qa": "No prompt, QA-process, schema, renderer or roadmap leakage detected."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The dossier distinguishes legal rights, operating capability, transmission, substitutability and institutional constraints rather than relying on scale or reputation."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "At least two analytical tables, one quantitative chart, one causal flow and one mind map in both locales.",
+      "limitations": "Visuals encode sourced quantities or mechanisms defended in prose and are not combined into a synthetic power score."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Other producers, recycling and substitution limit any inference from company output to global market control.",
+    "Sovereign permits, export quotas, geology and mine sequencing can constrain the conversion of asset ownership into market supply."
+  ],
+  "limitations": [
+    "Commodity-level structural importance depends on concentration, cost position, processing capacity and horizon, not consolidated group scale.",
+    "Marketing volumes and owned production create different rights and must remain analytically separate."
+  ],
+  "notes": "Dedicated single-actor Strategic Actors dossier. Primary-source factual core, controlled taxonomy, bilingual parity and visual evidence reviewed; no public bundle for this ID at approval time.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-09-23-GLENCORE",
+    "slug": "2026-09-23-strategic-actor-glencore",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:32:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-glencore/en.md",
+        "title": "Glencore: when production ownership and commodity marketing occupy the same chain",
+        "deck": "Glencore combines direct rights over mines and industrial assets with a global marketing network. Its structural relevance is commodity- and asset-specific: production control is real, but it is not equivalent to control of entire global markets.",
+        "tags": [
+          "Strategic Actors",
+          "Glencore",
+          "Critical Minerals",
+          "Commodity Trading",
+          "Mining"
+        ],
+        "keywords": [
+          "Glencore",
+          "copper",
+          "zinc",
+          "nickel",
+          "cobalt",
+          "coal",
+          "commodity marketing",
+          "production control"
+        ],
+        "regime": "Integrated producers combine asset-level production decisions with commercial networks that can reallocate physical supply.",
+        "key_risk": "Company-wide production volumes can be overgeneralized into market control without testing commodity-level concentration, substitutes and sovereign constraints.",
+        "watch": [
+          "own-source production",
+          "mine disposals and expansions",
+          "processing capacity",
+          "export controls and quotas",
+          "marketing volumes and logistics"
+        ],
+        "search_text": "Glencore strategic actor mining copper zinc nickel cobalt production marketing commodity trading structural power"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-glencore/pt-BR.md",
+        "title": "Glencore: quando propriedade produtiva e comercialização de commodities ocupam a mesma cadeia",
+        "deck": "A Glencore combina direitos diretos sobre minas e ativos industriais com uma rede global de marketing. Sua relevância é específica por commodity e ativo: controle de produção existe, mas não equivale a controlar mercados globais inteiros.",
+        "tags": [
+          "Atores Estratégicos",
+          "Glencore",
+          "Minerais Críticos",
+          "Trading de Commodities",
+          "Mineração"
+        ],
+        "keywords": [
+          "Glencore",
+          "cobre",
+          "zinco",
+          "níquel",
+          "cobalto",
+          "carvão",
+          "marketing de commodities",
+          "controle de produção"
+        ],
+        "regime": "Produtores integrados combinam decisões sobre ativos produtivos com redes comerciais capazes de redistribuir oferta física.",
+        "key_risk": "Volumes consolidados podem ser generalizados indevidamente como controle de mercado sem testar concentração, substitutos e restrições soberanas.",
+        "watch": [
+          "produção própria",
+          "vendas e expansões de minas",
+          "capacidade de processamento",
+          "controles e cotas de exportação",
+          "volumes de marketing e logística"
+        ],
+        "search_text": "Glencore ator estratégico mineração cobre zinco níquel cobalto produção marketing trading commodities poder estrutural"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "commodities-resources",
+      "industry-production",
+      "trade-investment",
+      "infrastructure-logistics",
+      "energy"
+    ],
+    "phenomena": [],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "glencore",
+    "assessment_confidence": "high-on-owned-production-and-commercial-channels-medium-on-commodity-specific-substitutability",
+    "key_constraints": [
+      "geology and mine sequencing",
+      "permits and sovereign export rules",
+      "competing production",
+      "processing and logistics capacity",
+      "commodity prices and capital allocation"
+    ],
+    "selection_rationale": "Glencore is an active Strategic Actors record with documented production-control and energy channels but lacked a dedicated single-actor canonical study."
+  }
+}
