@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-23T21:28:00-03:00",
+  "last_reconciled_at": "2026-09-24T03:14:29Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -558,6 +558,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "This historical monetary-stabilization case does not require a canonical update to this system."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-strategic-actors-blackrock-nbim",
+      "reconciled_at": "2026-09-24T03:14:29Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-SA-2026-09-23-NBIM-GPFG"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The dedicated BlackRock and NBIM/GPFG dossiers deepen capital-allocation and ownership mechanisms but do not require a new canonical dependency edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "These are actor-capability dossiers rather than structural-opportunity theses."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "updated",
+          "note": "Added canonical dedicated research IDs for BlackRock and NBIM/GPFG and linked their existing relationships to the new evidence carriers."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The dossiers do not establish a new controller-level natural-resource or productive-asset record."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "These are current actor dossiers, not bounded historical policy cases."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Conflict dynamics are not a necessary causal mechanism in these dossiers."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Technology appears as an investment-infrastructure channel for BlackRock but no standalone capability-stage change is established."
         }
       ]
     }

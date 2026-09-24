@@ -1,5 +1,171 @@
 [
   {
+    "id": "MT-SA-2026-09-23-NBIM-GPFG",
+    "slug": "2026-09-23-strategic-actor-nbim-gpfg",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:22:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "northern-europe"
+      ],
+      "countries": [
+        {
+          "code": "NO",
+          "slug": "norway"
+        }
+      ]
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "institutions-governance",
+      "sovereign-debt"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "nbim-gpfg",
+    "assessment_confidence": "high-on-governance-scale-and-ownership-rights-medium-on-system-wide-transmission",
+    "key_constraints": [
+      "formal public mandate",
+      "benchmark and risk limits",
+      "minority ownership",
+      "global market liquidity",
+      "operational delegation to NBIM"
+    ],
+    "selection_rationale": "NBIM/GPFG is an active Strategic Actors record with two documented structural relations but previously appeared only in comparative research.",
+    "title": "NBIM / GPFG: public savings, delegated management and persistent global ownership",
+    "deck": "Norway's GPFG converts petroleum-derived public wealth into diversified global ownership through a formal delegation chain. Its structural role comes from persistent capital and shareholder rights, not direct state control of portfolio companies.",
+    "tags": [
+      "Strategic Actors",
+      "NBIM",
+      "GPFG",
+      "Sovereign Capital",
+      "Corporate Governance"
+    ],
+    "keywords": [
+      "Norges Bank Investment Management",
+      "Government Pension Fund Global",
+      "sovereign wealth",
+      "shareholder voting",
+      "public savings",
+      "delegated management"
+    ],
+    "regime": "Large public savings are invested globally through a formal delegation chain with recurring but bounded shareholder rights.",
+    "key_risk": "Conflating public ownership of the fund with political direction of individual portfolio companies overstates control.",
+    "watch": [
+      "management mandate changes",
+      "fund value relative to global markets",
+      "asset-class expansion",
+      "voting and stewardship activity",
+      "fiscal inflows and withdrawals"
+    ],
+    "search_text": "NBIM GPFG strategic actor Norway sovereign fund public savings delegated management voting global ownership",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-nbim-gpfg.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-nbim-gpfg/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:11:59Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "c0cd8ac499346449b2ea13e6fcf36fd7a104c628"
+  },
+  {
+    "id": "MT-SA-2026-09-23-BLACKROCK",
+    "slug": "2026-09-23-strategic-actor-blackrock",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:20:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "institutions-governance",
+      "technology-innovation"
+    ],
+    "phenomena": [],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "blackrock",
+    "assessment_confidence": "high-on-delegated-capital-and-voting-mechanisms-medium-on-technology-substitutability",
+    "key_constraints": [
+      "client mandates and fiduciary duties",
+      "benchmark and product rules",
+      "client voting choice",
+      "competition among asset managers",
+      "portfolio-company boards retain operational authority"
+    ],
+    "selection_rationale": "BlackRock is an active Strategic Actors record with documented capital-allocation and delegated-governance channels but lacked a dedicated single-actor canonical study.",
+    "title": "BlackRock: structural reach through delegated capital, voting authority and financial infrastructure",
+    "deck": "BlackRock's US$15.3 trillion AUM is not ownership. Its structural relevance comes from delegated portfolio implementation, shareholder rights where clients authorize them, and investment infrastructure—with explicit limits from mandates, client choice and competition.",
+    "tags": [
+      "Strategic Actors",
+      "BlackRock",
+      "Asset Management",
+      "Corporate Governance",
+      "Capital Allocation"
+    ],
+    "keywords": [
+      "BlackRock",
+      "assets under management",
+      "proxy voting",
+      "Voting Choice",
+      "investment stewardship",
+      "capital allocation",
+      "Aladdin",
+      "delegated authority"
+    ],
+    "regime": "Large-scale asset management combines persistent delegated intermediation with divisible shareholder-voting authority.",
+    "key_risk": "Treating client AUM, proxy voting and beneficial ownership as equivalent overstates direct corporate control.",
+    "watch": [
+      "share of eligible assets using Voting Choice",
+      "index and private-market net flows",
+      "changes in stewardship authority",
+      "technology-services integration and switching evidence"
+    ],
+    "search_text": "BlackRock strategic actor AUM delegated capital ownership proxy voting stewardship Voting Choice Aladdin structural power capital allocation",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-blackrock.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-blackrock/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:11:59Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "c0cd8ac499346449b2ea13e6fcf36fd7a104c628"
+  },
+  {
     "id": "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
     "date": "2026-09-23",
     "published_at": "2026-09-23T20:56:00-03:00",
