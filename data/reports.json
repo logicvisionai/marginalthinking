@@ -1,5 +1,95 @@
 [
   {
+    "id": "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T20:56:00-03:00",
+    "kind": "policy-case-study",
+    "priority": 18,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "series": "policy-experiments-institutional-transitions",
+    "series_domain": "monetary-stabilization",
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "AR",
+          "slug": "argentina"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "capital-markets",
+      "institutions-governance",
+      "demography-labor",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "political-stability",
+      "civil-unrest"
+    ],
+    "format": "research-report",
+    "cadence": "weekly",
+    "revision": 1,
+    "case_id": "ar-convertibility-1991",
+    "title": "Argentina's Convertibility regime: rapid disinflation, a hard nominal anchor and the cost of losing adjustment capacity",
+    "deck": "The 1991 legal dollar parity rapidly reduced inflation and restored nominal credibility, but its hard exchange-rate constraint increasingly shifted adjustment onto domestic prices, output, fiscal accounts and debt as external conditions deteriorated.",
+    "tags": [
+      "Argentina",
+      "Convertibility",
+      "inflation",
+      "exchange rate",
+      "currency board"
+    ],
+    "keywords": [
+      "Argentina Convertibility Law",
+      "Ley 23928",
+      "peso dollar parity",
+      "currency board",
+      "inflation stabilization",
+      "Argentina 1991"
+    ],
+    "regime": "Hard legal exchange-rate stabilization with reserve-linked monetary liabilities and sharply constrained discretionary money creation",
+    "key_risk": "Rapid initial disinflation can obscure the accumulation of fiscal, debt, external and balance-sheet vulnerabilities when the nominal anchor removes exchange-rate adjustment.",
+    "watch": [
+      "Fiscal and debt dynamics under the peg",
+      "Foreign-currency balance-sheet exposure",
+      "External competitiveness",
+      "Capital-flow reversals and reserve coverage"
+    ],
+    "search_text": "Argentina Convertibility 1991 Ley 23928 peso dollar parity inflation currency board debt crisis 2001",
+    "url": "/reports/2026/09/2026-09-23-policy-case-argentina-convertibility.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-policy-case-argentina-convertibility/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T00:11:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "9e510de3530f26e90d26d3a7b37a1a623405ce12"
+  },
+  {
     "id": "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
     "date": "2026-09-23",
     "published_at": "2026-09-23T20:55:00-03:00",

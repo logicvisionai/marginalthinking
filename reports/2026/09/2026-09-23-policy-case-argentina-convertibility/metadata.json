@@ -1,0 +1,122 @@
+{
+  "id": "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T20:56:00-03:00",
+  "kind": "policy-case-study",
+  "priority": 18,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "series": "policy-experiments-institutional-transitions",
+  "series_domain": "monetary-stabilization",
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "AR",
+        "slug": "argentina"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "currencies",
+    "capital-markets",
+    "institutions-governance",
+    "demography-labor",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "political-stability",
+    "civil-unrest"
+  ],
+  "format": "research-report",
+  "cadence": "weekly",
+  "revision": 1,
+  "case_id": "ar-convertibility-1991",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Argentina's Convertibility regime: rapid disinflation, a hard nominal anchor and the cost of losing adjustment capacity",
+      "deck": "The 1991 legal dollar parity rapidly reduced inflation and restored nominal credibility, but its hard exchange-rate constraint increasingly shifted adjustment onto domestic prices, output, fiscal accounts and debt as external conditions deteriorated.",
+      "tags": [
+        "Argentina",
+        "Convertibility",
+        "inflation",
+        "exchange rate",
+        "currency board"
+      ],
+      "keywords": [
+        "Argentina Convertibility Law",
+        "Ley 23928",
+        "peso dollar parity",
+        "currency board",
+        "inflation stabilization",
+        "Argentina 1991"
+      ],
+      "regime": "Hard legal exchange-rate stabilization with reserve-linked monetary liabilities and sharply constrained discretionary money creation",
+      "key_risk": "Rapid initial disinflation can obscure the accumulation of fiscal, debt, external and balance-sheet vulnerabilities when the nominal anchor removes exchange-rate adjustment.",
+      "watch": [
+        "Fiscal and debt dynamics under the peg",
+        "Foreign-currency balance-sheet exposure",
+        "External competitiveness",
+        "Capital-flow reversals and reserve coverage"
+      ],
+      "search_text": "Argentina Convertibility 1991 Ley 23928 peso dollar parity inflation currency board debt crisis 2001"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "O regime de Convertibilidade da Argentina: desinflação rápida, âncora nominal rígida e o custo de perder capacidade de ajuste",
+      "deck": "A paridade legal com o dólar de 1991 reduziu rapidamente a inflação e restaurou credibilidade nominal, mas a restrição cambial rígida deslocou cada vez mais o ajuste para preços domésticos, produto, contas fiscais e dívida quando as condições externas pioraram.",
+      "tags": [
+        "Argentina",
+        "Convertibilidade",
+        "inflação",
+        "câmbio",
+        "conselho monetário"
+      ],
+      "keywords": [
+        "Argentina Lei de Convertibilidade",
+        "Ley 23928",
+        "paridade peso dólar",
+        "regime de conselho monetário",
+        "estabilização da inflação",
+        "Argentina 1991"
+      ],
+      "regime": "Estabilização por regra cambial legal rígida, passivos monetários ligados a reservas e forte restrição à criação discricionária de moeda",
+      "key_risk": "A desinflação inicial rápida pode ocultar a acumulação de vulnerabilidades fiscais, de dívida, externas e de balanço quando a âncora nominal remove o ajuste cambial.",
+      "watch": [
+        "Dinâmica fiscal e da dívida sob a paridade",
+        "Exposição de balanços em moeda estrangeira",
+        "Competitividade externa",
+        "Reversões de fluxos de capital e cobertura por reservas"
+      ],
+      "search_text": "Argentina Convertibilidade 1991 Ley 23928 paridade peso dólar inflação conselho monetário dívida crise 2001"
+    }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T00:11:00Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "9e510de3530f26e90d26d3a7b37a1a623405ce12"
+}
