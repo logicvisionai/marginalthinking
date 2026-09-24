@@ -71,7 +71,7 @@
         "alternativas de litografia",
         "escopo dos controles neerlandeses"
       ],
-      "search_text": "ASML ator estratégico EUV litografia semicondutores High-NA gargalo tecnológico controles de exportação substituibilidade"
+      "search_text": "ASML ator estratégico EUV litografia semicondutores High-NA dependência tecnológica controles de exportação substituibilidade"
     }
   },
   "taxonomy_version": "1.0",
@@ -109,7 +109,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "actor_id": "asml",
   "assessment_confidence": "high-on-technical-supply-and-export-control-separation-medium-on-long-horizon-substitution",
   "key_constraints": [
