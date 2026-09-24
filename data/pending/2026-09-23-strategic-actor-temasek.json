@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-09-23-TEMASEK",
+  "slug": "2026-09-23-strategic-actor-temasek",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:28:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-temasek/en.md",
+      "title": "Temasek: direct state ownership with commercially governed portfolio decisions",
+      "deck": "Temasek is wholly owned by Singapore's Minister for Finance and directly owns its portfolio, while its governance framework states that the Government does not direct investment decisions. The distinction changes how sovereign ownership transmits into corporate rights.",
+      "tags": [
+        "Strategic Actors",
+        "Temasek",
+        "Singapore",
+        "Sovereign Capital",
+        "Corporate Governance"
+      ],
+      "keywords": [
+        "Temasek",
+        "Singapore",
+        "state ownership",
+        "direct ownership",
+        "portfolio governance",
+        "past reserves",
+        "shareholder rights"
+      ],
+      "regime": "Direct sovereign ownership coexists with commercially governed investment decisions and constitutional safeguards over past reserves.",
+      "key_risk": "Conflating state ownership of Temasek with government direction of portfolio-company operations overstates the transmission of public authority.",
+      "watch": [
+        "stakes in major portfolio companies",
+        "board and voting rights",
+        "unlisted asset exposure",
+        "portfolio concentration",
+        "formal governance changes"
+      ],
+      "search_text": "Temasek strategic actor Singapore state ownership direct portfolio ownership commercial governance shareholder rights"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-temasek/pt-BR.md",
+      "title": "Temasek: propriedade estatal direta com decisões de portfólio regidas comercialmente",
+      "deck": "A Temasek pertence integralmente ao Ministro das Finanças de Singapura e possui diretamente seu portfólio, enquanto sua governança afirma que o Governo não dirige decisões de investimento. Essa separação muda a forma como propriedade soberana se transmite em direitos corporativos.",
+      "tags": [
+        "Atores Estratégicos",
+        "Temasek",
+        "Singapura",
+        "Capital Soberano",
+        "Governança Corporativa"
+      ],
+      "keywords": [
+        "Temasek",
+        "Singapura",
+        "propriedade estatal",
+        "propriedade direta",
+        "governança de portfólio",
+        "reservas passadas",
+        "direitos de acionista"
+      ],
+      "regime": "Propriedade soberana direta coexiste com decisões de investimento regidas comercialmente e salvaguardas constitucionais sobre reservas passadas.",
+      "key_risk": "Confundir propriedade estatal da Temasek com direção governamental das operações das investidas exagera a transmissão de autoridade pública.",
+      "watch": [
+        "participações em grandes empresas",
+        "direitos de conselho e voto",
+        "ativos não listados",
+        "concentração do portfólio",
+        "mudanças formais de governança"
+      ],
+      "search_text": "Temasek ator estratégico Singapura propriedade estatal propriedade direta governança comercial direitos acionários"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "asia-pacific"
+    ],
+    "subregions": [
+      "southeast-asia"
+    ],
+    "countries": [
+      {
+        "code": "SG",
+        "slug": "singapore"
+      }
+    ]
+  },
+  "topics": [
+    "capital-markets",
+    "trade-investment",
+    "institutions-governance",
+    "industry-production"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "actor_id": "temasek",
+  "assessment_confidence": "high-on-ownership-governance-and-portfolio-scale-medium-on-system-dependence-of-specific-holdings",
+  "key_constraints": [
+    "commercial return discipline",
+    "portfolio-company board autonomy",
+    "constitutional reserve safeguards",
+    "market valuations",
+    "holding-specific rights and substitutability"
+  ],
+  "selection_rationale": "Temasek is an active Strategic Actors record with a documented state-owned direct-investment channel but lacked a dedicated single-actor canonical study."
+}
