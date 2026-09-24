@@ -4,46 +4,46 @@
   "id": "MT-GM-2026-09-24",
   "slug": "2026-09-24-global-macro",
   "date": "2026-09-24",
-  "published_at": "2026-09-24T00:07:28-03:00",
+  "published_at": "2026-09-24T02:09:49-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
   "sources": {
     "en": {
       "markdown": "staging/research/2026/09/2026-09-24-global-macro/en.md",
-      "title": "Global Macro — Growth, not oil, pushes the rate shock into a new phase",
-      "deck": "A sharp U.S. growth surprise pushed the 10-year Treasury above 5.1%, turning resilient activity itself into the new source of tighter global financial conditions while Europe also accelerated.",
-      "tags": ["global macro", "Treasuries", "Federal Reserve", "PMI", "Europe", "China", "oil", "AI"],
-      "keywords": ["U.S. 10-year Treasury", "real yields", "S&P Global PMI", "ECB", "PBOC", "dollar", "AI financing", "Gulf energy"],
-      "regime": "Growth-driven rate tightening layered on top of unresolved energy and geopolitical risk",
-      "key_risk": "Resilient U.S. and euro-area activity may keep real and nominal long yields high enough for refinancing and investment constraints to spread into credit and earnings even if oil eases.",
-      "watch": ["U.S. 10-year Treasury and 10-year real yield", "October Fed pricing", "Euro-area output and price PMIs", "Gulf realized export and refined-product flows"],
-      "search_text": "Global Macro September 24 2026 Treasury 5.11 PMI 58.4 eurozone 53.1 Fed ECB PBOC dollar AI financing oil Gulf"
+      "title": "Global Macro — Growth data turns the long end back into the dominant global shock",
+      "deck": "A strong U.S. activity surprise and weak Treasury auction pushed the 10-year above 5.1%, transmitted into Japanese bonds and restored sovereign duration as the main cross-asset tightening channel while oil risk rebounded.",
+      "tags": ["global macro", "Treasuries", "rates", "Japan", "oil", "markets"],
+      "keywords": ["U.S. PMI", "Treasury yields", "JGB", "dollar", "Brent", "diesel", "Trump Xi summit"],
+      "regime": "Resilient nominal growth is colliding with a renewed global sovereign-duration shock and incomplete energy normalization.",
+      "key_risk": "Long sovereign yields remain above recent peaks while crude or refined-product inflation reaccelerates.",
+      "watch": ["U.S. 10-year and 30-year yields around Treasury auctions", "U.S. activity and inflation confirmation", "USD/JPY and Japan 10-year JGB yield", "Brent versus diesel refining margins", "implemented outcomes from the Trump-Xi summit"],
+      "search_text": "Global Macro September 24 2026 US PMI 58.4 Treasury 10-year 5.11 Japan JGB 3.055 Brent diesel Trump Xi"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-24-global-macro/pt-BR.md",
-      "title": "Global Macro — Crescimento, e não petróleo, leva o choque de juros a uma nova fase",
-      "deck": "Uma forte surpresa de crescimento nos EUA levou o Treasury de 10 anos acima de 5,1%, transformando a própria resistência da atividade na nova fonte de aperto das condições financeiras globais enquanto a Europa também acelerou.",
-      "tags": ["macro global", "Treasuries", "Federal Reserve", "PMI", "Europa", "China", "petróleo", "IA"],
-      "keywords": ["Treasury de 10 anos", "juros reais", "PMI S&P Global", "BCE", "PBOC", "dólar", "financiamento de IA", "energia do Golfo"],
-      "regime": "Aperto de juros movido pelo crescimento somado a risco energético e geopolítico ainda não resolvido",
-      "key_risk": "Atividade resistente nos EUA e na zona do euro pode manter juros reais e nominais longos altos o suficiente para que restrições de refinanciamento e investimento se espalhem para crédito e lucros mesmo com alívio do petróleo.",
-      "watch": ["Treasury de 10 anos e juro real de 10 anos", "Precificação da reunião de outubro do Fed", "PMIs de atividade e preços da zona do euro", "Fluxos efetivos de exportação e derivados do Golfo"],
-      "search_text": "Global Macro 24 setembro 2026 Treasury 5,11 PMI 58,4 zona euro 53,1 Fed BCE PBOC dólar financiamento IA petróleo Golfo"
+      "title": "Global Macro — Surpresa de crescimento devolve ao juro longo o papel de principal choque global",
+      "deck": "Surpresa forte de atividade nos EUA e leilão fraco de Treasuries levaram o juro de 10 anos acima de 5,1%, transmitiram pressão aos títulos japoneses e recolocaram a duração soberana como principal canal de aperto entre ativos, enquanto o risco do petróleo voltou a subir.",
+      "tags": ["macro global", "Treasuries", "juros", "Japão", "petróleo", "mercados"],
+      "keywords": ["PMI dos EUA", "juros dos Treasuries", "JGB", "dólar", "Brent", "diesel", "cúpula Trump Xi"],
+      "regime": "Crescimento nominal resiliente colide com novo choque global de juros soberanos longos e normalização energética incompleta.",
+      "key_risk": "Juros soberanos longos permanecem acima dos picos recentes enquanto a inflação de petróleo ou derivados reacelera.",
+      "watch": ["Treasuries de 10 e 30 anos nos próximos leilões", "confirmação nos dados de atividade e inflação dos EUA", "USD/JPY e JGB japonês de 10 anos", "Brent versus margens de refino de diesel", "resultados implementados da cúpula Trump-Xi"],
+      "search_text": "Global Macro 24 setembro 2026 PMI EUA 58,4 Treasury 10 anos 5,11 Japão JGB 3,055 Brent diesel Trump Xi"
     }
   },
   "taxonomy_version": "1.0",
   "program": "political-economy-markets",
   "related_programs": ["global-system-power"],
   "dimensions": ["economy", "politics"],
-  "geography": {"level":"global","regions":["americas","europe","asia-pacific","middle-east"],"subregions":["north-america","western-europe","east-asia","south-asia","gulf","latin-america-caribbean"],"countries":[]},
-  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "sovereign-debt", "currencies", "energy", "geopolitics-security"],
-  "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+  "geography": {"level": "global", "regions": ["americas", "europe", "asia-pacific", "middle-east"], "subregions": ["north-america", "western-europe", "east-asia", "gulf", "latin-america-caribbean"], "countries": []},
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "energy", "commodities-resources", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "strategic-competition"],
   "format": "brief",
   "cadence": "daily",
   "novelty_gate": {
-    "prior_public_editions": ["MT-GM-2026-09-23", "MT-GM-2026-09-22", "MT-GM-2026-09-21"],
-    "material_delta": "September 23 U.S. PMI accelerated to 58.4 and the 10-year Treasury par yield rose 15 bp to 5.11%, while euro-area PMI accelerated to 53.1. This shifts the dominant mechanism from oil-relief versus high rates to growth itself sustaining tighter global rates.",
-    "repeated_theme_treatment": "Oil/Gulf risk is retained as background and transmission risk rather than the dominant thesis."
+    "compared_public_editions": ["MT-GM-2026-09-21", "MT-GM-2026-09-22", "MT-GM-2026-09-23"],
+    "dominant_delta": "The dominant mechanism changed from falling oil/conditional geopolitical relief to a U.S.-led sovereign-duration selloff after a 58.4 flash composite PMI, weak five-year auction reception and a 15 bp one-day rise in the official 10-year Treasury yield to 5.11%, with immediate spillover to a 3.055% Japan 10-year yield.",
+    "repetition_control": "Oil relief is demoted to background; energy appears only where the 23 September rebound and record diesel crack stress materially interact with the new rates shock."
   }
 }

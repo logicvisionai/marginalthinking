@@ -1,95 +1,104 @@
-# Global Macro — Growth, not oil, pushes the rate shock into a new phase
+# Global Macro — Growth data turns the long end back into the dominant global shock
 
-The material change since the previous edition is no longer another turn in the oil story. On September 23, the U.S. flash composite PMI rose to **58.4 from 56.0**, its strongest reading since July 2021, while the Treasury par curve repriced sharply: the 2-year rose to **4.97% from 4.81%**, the 10-year to **5.11% from 4.96%**, and the 30-year to **5.40% from 5.29%**. The 10-year move of 15 basis points in one session matters because it shifts the restrictive impulse from a mainly energy-driven inflation concern toward a combination of stronger nominal activity, renewed inflation pressure and weak duration demand. [U.S. Treasury, Daily Treasury Par Yield Curve Rates](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve) [S&P Global, U.S. Flash PMI, 23 Sep 2026](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/us-flash-pmi-signals-fastest-growth-for-over-five-years-in-september)
+The new information since yesterday is not another iteration of oil relief. It is the speed with which a strong U.S. activity surprise pushed the sovereign discount rate higher across regions. The U.S. flash composite PMI rose to 58.4 in September, its strongest reading since July 2021, while a poorly received five-year Treasury auction reinforced the selloff. The official U.S. Treasury curve closed 23 September at 4.31% for 2Y, 5.11% for 10Y and 5.40% for 30Y. One day earlier those yields were 4.26%, 4.96% and 5.29%. The move is large enough to change the cross-asset hierarchy: oil remains a geopolitical risk, but long sovereign yields are again the immediate transmission mechanism for global financial conditions.
 
-That distinction changes the cross-asset reading. Oil remains an important inflation and geopolitical variable, but stronger activity can keep policy rates and real discount rates high even if the energy risk premium eases. U.S. equities fell as the yield shock broadened, the dollar strengthened, and gold declined. The previous configuration — cheaper oil supporting duration-sensitive equities despite expensive financing — therefore encountered a harder test: the discount rate rose because growth itself surprised upward.
+That shock is already travelling. Japan's 10-year government bond yield rose to 3.055% early on 24 September, its highest since August 1996, while the 30-year reached 4.125%. U.S. equities fell as the stronger activity data increased expectations of another Federal Reserve hike. The dollar strengthened toward a two-month high. Oil, meanwhile, reversed part of its six-session decline after Iranian President Masoud Pezeshkian rejected surrender rhetoric: Brent settled at $103.08 and WTI at $92.16. The resulting regime is more difficult than the previous two sessions suggested: resilient nominal growth, renewed energy uncertainty and heavy sovereign-duration supply are reinforcing rather than offsetting one another.
 
-Europe supplied a parallel, though less extreme, signal. The euro-area flash composite PMI increased to **53.1 from 52.0**, the fastest expansion since April 2023, while input and output price pressures strengthened. The result reduces the probability that the ECB can look through the energy shock simply because growth is weak. The global divergence is now less “United States strong, Europe fragile” and more a question of how much growth each economy can sustain while monetary policy is being forced to restrain inflation again. [S&P Global, Eurozone Flash PMI, 23 Sep 2026](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/eurozone-growth-hits-highest-since-april-2023-according-to-flash-pmi)
+## A growth surprise, not oil, triggered the latest repricing
 
-## The Treasury curve crossed from restrictive to competitively attractive
+S&P Global's flash U.S. composite PMI rose from 56.0 in August to 58.4 in September. Manufacturing reached 57.0 and services 58.7. The important market implication is not that a survey guarantees equally strong realized GDP; it is that the surprise arrived immediately after the Federal Reserve had already raised its target range to 3.75%–4.00%. Fed-funds futures moved to price roughly a 73% probability of an October hike during the session, according to Reuters market reporting, up from about 53% earlier.
 
-The most important market threshold is not the round number by itself, but the change in the opportunity cost of holding risky assets. On September 23, Treasury par yields from five through 30 years were at or above roughly 5%, with the 10-year at 5.11% and the 30-year at 5.40%. Ten-year TIPS real yields traded near multi-year extremes as well. A high real sovereign yield can compete directly with equities, private credit and long-duration investment for capital without requiring a recession or a credit accident first.
+The Treasury move was broad. Official daily curve data show the 10-year yield rising 15 basis points from 4.96% on 22 September to 5.11% on 23 September, while the 30-year rose 11 basis points to 5.40%. The two-year increased only 5 basis points to 4.31%. That is not a pure front-end monetary-policy shock: the larger long-end move points to a combination of stronger nominal-growth expectations, term premium, supply absorption and inflation uncertainty.
+
+| Market evidence | 22 Sep | 23 Sep / latest | Change | What it says |
+| --- | ---: | ---: | ---: | --- |
+| U.S. Treasury 2Y | 4.26% | 4.31% | +5 bp | Near-term policy expectations tightened |
+| U.S. Treasury 10Y | 4.96% | 5.11% | +15 bp | Long discount rate repriced sharply |
+| U.S. Treasury 30Y | 5.29% | 5.40% | +11 bp | Long-duration financing pressure broadened |
+| U.S. flash composite PMI | 56.0 Aug | 58.4 Sep | +2.4 pts | Activity surprised to the upside |
+| Brent settlement | below $100 on 22 Sep | $103.08 | rebound | Energy tail risk re-entered the rates discussion |
+| Japan 10Y JGB | around 3% recently | 3.055% early 24 Sep | 30-year high | U.S. duration shock transmitted into Japan |
 
 ```chart
-type: line
-title: U.S. Treasury par yields moved sharply higher on September 23
+type: bar
+title: U.S. Treasury par yields — 23 September 2026
 unit: %
-2026-09-21 2Y | 4.82
-2026-09-22 2Y | 4.81
-2026-09-23 2Y | 4.97
-2026-09-21 10Y | 4.96
-2026-09-22 10Y | 4.96
-2026-09-23 10Y | 5.11
-2026-09-21 30Y | 5.29
-2026-09-22 30Y | 5.29
-2026-09-23 30Y | 5.40
+2Y | 4.31
+10Y | 5.11
+30Y | 5.40
 ```
 
-*Source: U.S. Treasury daily par yield curve. Series share the same percentage unit but represent different maturities.*
+The chart keeps one instrument family and one unit. The analytical point is the level and shape of the sovereign curve, not a forced comparison with equity, FX or commodity prices.
 
-The auction channel reinforces the price signal. The Treasury's $70 billion five-year sale met weak demand and cleared at the highest auction yield since 2007, according to Reuters. This is not evidence of a funding crisis: the United States still clears enormous volumes of sovereign issuance. It is evidence that marginal buyers are demanding more compensation at the same time that macro data are making rapid monetary easing less plausible. [Reuters, 23 Sep 2026](https://www.reuters.com/world/china/global-markets-global-markets-2026-09-23/)
+## The long end is tightening financial conditions faster than central banks alone
 
-| September 23 signal | Latest observation | Why it matters cross-asset |
-|---|---:|---|
-| U.S. composite PMI | 58.4 | Strong activity weakens the case for near-term easing and raises inflation persistence risk |
-| U.S. 2Y Treasury | 4.97% | Short-rate expectations repriced upward |
-| U.S. 10Y Treasury | 5.11% | Higher discount rate challenges equity and credit valuations |
-| U.S. 30Y Treasury | 5.40% | Long-horizon financing remains expensive even without a recession shock |
-| Euro-area composite PMI | 53.1 | Europe is showing more activity resilience than the weak-growth narrative implied |
-| S&P 500 | -0.75% on Sep. 23 | Equities absorbed the higher-rate signal rather than treating growth as unambiguously positive |
+A 5.11% U.S. 10-year yield matters globally because it is simultaneously a benchmark discount rate, collateral price and reference for corporate, mortgage and sovereign borrowing. The repricing therefore reaches beyond the next Federal Reserve meeting. Equity valuations with distant cash flows face a higher hurdle rate; credit issuers must clear a more expensive sovereign base curve; emerging-market borrowers face both a higher dollar rate and a stronger currency; governments refinancing debt absorb larger interest costs with a lag.
 
-The transmission is therefore more demanding than a simple “higher yields mean lower stocks” rule. If earnings revisions rise fast enough, equities can coexist with high yields. The problem appears when the same data that improve earnings expectations also lift inflation, policy-rate expectations and real yields. Valuation then has to absorb a higher discount rate at the same time that debt-funded investment becomes more expensive.
+The five-year auction adds a supply dimension. Reuters reported that the Treasury selloff accelerated after weak reception to the auction. A single auction does not establish a durable demand regime, but it matters when the market is already absorbing large issuance and when long yields have repeatedly resisted attempts to move lower. The dislocation is increasingly between robust nominal activity and the financing cost required to fund it.
+
+This is also where institutional signals require discipline. Futures repricing is evidence of market-implied policy expectations, not a Federal Reserve commitment. Strong PMI data are evidence of current business momentum, not proof that inflation will reaccelerate. The combination is nevertheless sufficient to raise the hurdle for duration-sensitive assets until either activity, inflation or Treasury demand provides contrary evidence.
+
+## Japan shows how the U.S. duration shock can become a domestic inflation problem
+
+Japan is the clearest overnight transmission. The 10-year JGB yield rose 8 basis points to 3.055%, the highest since August 1996, and the 30-year reached 4.125%. Reuters linked the move to the U.S. Treasury selloff and a weaker yen, which raises import costs and therefore domestic inflation pressure.
+
+Japan's mechanism is not simply imported U.S. yields. The Bank of Japan has already been normalising policy, while domestic fiscal expectations and a weak currency create their own term-premium pressure. Higher U.S. yields strengthen the dollar channel; a weaker yen raises imported prices; higher inflation risk increases the compensation demanded on JGBs. The feedback can then raise domestic borrowing costs even if Japanese real activity is softer than U.S. activity.
 
 ```flow
-Stronger U.S. and euro-area activity → firmer demand and capacity pressure → higher inflation persistence → fewer near-term easing options → higher sovereign and real yields → higher hurdle rate for equities, credit and investment
-Weak Treasury auction demand → higher compensation required by marginal duration buyers → tighter long-horizon financing conditions
+Strong U.S. activity surprise + weak Treasury auction → higher U.S. term yields → stronger dollar and higher global discount rate
+Higher U.S. yields + weaker yen → higher Japanese import-price risk → higher JGB term premium → tighter domestic financing conditions
+Higher sovereign base curves → higher corporate and government refinancing costs → weaker marginal investment and greater fiscal interest burden
+Oil rebound → renewed inflation uncertainty → less room for bond yields to retrace quickly
 ```
 
-## Equity leadership now has to outrun a 5% sovereign benchmark
+The second-order risk is portfolio reallocation. If Japanese domestic yields remain structurally higher, the relative attraction of foreign bonds changes for Japanese institutions. That does not imply an immediate repatriation wave, but it raises the importance of hedging costs and home-market yields in global fixed-income allocation.
 
-The Nasdaq had closed at a record on September 21 as AI-linked shares strengthened. Two sessions later, the Nasdaq fell **1.13%** and the S&P 500 **0.75%** as rates rose; every S&P sector except energy declined on September 23. This does not invalidate the AI investment cycle. It changes the hurdle. High-growth companies now need earnings and cash-flow delivery to offset a materially more expensive discount rate, while leveraged or low-margin beneficiaries face a less forgiving financing environment. [Reuters, 23 Sep 2026](https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-23/)
+## Oil's rebound matters again because refined-product stress never fully disappeared
 
-That creates a useful dislocation to monitor rather than a directional trade. The market has simultaneously demonstrated willingness to pay for AI-related growth and renewed willingness to demand more than 5% from long U.S. sovereign debt. If earnings breadth improves beyond a narrow set of technology leaders, high yields may coexist with a broader equity advance. If breadth remains narrow while real yields rise, index resilience becomes increasingly dependent on a small group of firms delivering unusually strong profit growth.
+The previous two editions correctly identified improving Gulf crude logistics as a source of relief. That remains background, but the marginal development is less benign. Brent settled 3.86% higher at $103.08 on 23 September after Iranian President Pezeshkian vowed that Iran would not surrender. WTI settled at $92.16. The rebound followed six sessions of crude weakness and demonstrates that diplomatic optionality has not become verified security normalisation.
 
-The same financing test is visible in corporate capital markets. SoftBank launched an approximately **$11 billion** bond financing to fund its follow-on OpenAI investment, illustrating that strategic AI capital can still access large debt markets even as benchmark yields rise. Access, however, is not equivalent to cheap funding: higher sovereign benchmarks raise the cost of converting ambitious capital expenditure into acceptable returns. [Reuters, 21 Sep 2026](https://www.reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21/)
+More importantly, crude benchmarks have understated refined-product stress. Reuters reported that European low-sulphur gasoil's premium to Brent reached roughly $95 per barrel during 23 September amid tight diesel supply and debate over possible U.S. diesel-export restrictions. The White House later denied that a 90-day ban was being prepared, while Energy Secretary Chris Wright argued that an export ban would not work. That policy uncertainty matters because Europe has become more dependent on U.S. diesel and jet-fuel imports while Middle Eastern supply is disrupted.
 
-## Europe’s surprise resilience removes part of the ECB’s growth constraint
+The asymmetry is therefore between crude availability and usable refined products. A market can have improving crude logistics and still experience transport, agriculture and industrial cost pressure if refinery capacity, product trade or export policy constrains diesel. That is a more specific inflation channel than the broad oil shock that dominated earlier sessions.
 
-Euro-area activity accelerated even while energy costs remained elevated. S&P Global reported broad-based output growth, faster new orders and renewed employment gains; its price gauges also strengthened. This is a more consequential change than another incremental move in European energy prices because it alters the monetary-policy trade-off. A central bank facing weak growth can tolerate some supply-driven inflation more easily than one facing strengthening demand and rising prices together.
+## U.S.-China diplomacy now competes with, rather than dominates, the macro signal
 
-The United Kingdom moved in the opposite direction: its flash composite PMI slowed to **51.7 from 52.5** while price pressure intensified. That is a less comfortable policy mix because inflation is rising without the same activity cushion. The result is a developed-market rates divergence inside a common energy shock: U.S. and euro-area data strengthened the case for tighter policy, while the UK signal looks more stagflationary. [S&P Global, UK Flash PMI, 23 Sep 2026](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/uk-flash-pmi-signals-slower-growth-and-rising-inflation-in-september)
+Presidents Donald Trump and Xi Jinping are due to meet on 24 September. Trade, tariffs, AI, rare earths and strategic issues are on the agenda. The summit matters because concrete changes to tariffs, export controls or critical-mineral access could alter production costs and capital expenditure. But the novelty gate is important: dialogue itself has been in the price for several sessions. Without an implemented policy change, the summit is a catalyst rather than today's main macro fact.
 
-## China is supplying liquidity while the dollar rate shock tightens externally
-
-China's policy signal is different. The People's Bank of China said it would conduct up to **RMB 1 trillion per day** of overnight reverse repos from September 28 through October 8 to meet short-term banking-system liquidity needs around the holiday period. The measure is explicitly short-term liquidity management, not evidence of a new structural stimulus program. [Reuters, 23 Sep 2026](https://www.reuters.com/world/asia-pacific/china-central-bank-inject-more-liquidity-golden-week-nears-2026-09-23/)
-
-The asymmetry is still relevant. U.S. yields and the dollar are rising because growth and inflation are surprising upward, while China is ensuring domestic liquidity through a holiday period. For emerging markets, the external channel can dominate: higher U.S. yields increase the required return on local assets and a stronger dollar can tighten financing conditions even when domestic central banks would prefer more room to support growth.
-
-India already showed part of that transmission on September 23 as the rupee weakened alongside Asian currencies under higher Fed-hike expectations. Brazil belongs in the same global mechanism rather than as a separate center of the story: the important variable is whether domestic disinflation and policy credibility can offset a higher global dollar yield. A country-specific asset move without confirmed flow data should not be read as evidence of a structural reallocation of capital.
+China also illustrates the global divergence. Its benchmark loan prime rates have remained stable while U.S., European and Japanese policy has tightened. Weak domestic credit demand gives Beijing a different constraint set from Washington or Tokyo. A trade truce can reduce event risk, but it does not remove the monetary divergence or the pressure that a stronger dollar and higher global yields impose on Asian financial conditions.
 
 ```map
-title: Where the September 23 rate shock transmits
-United States | Growth surprise and weak duration demand | Higher policy expectations and sovereign discount rates
-Euro area | Stronger activity plus energy-linked prices | Less room for the ECB to tolerate inflation persistence
-United Kingdom | Slower growth with rising prices | More stagflationary policy trade-off
-China | Short-term liquidity injection | Domestic liquidity support contrasts with tighter dollar conditions
-Emerging markets | Higher dollar yields and firmer USD | Local easing room, FX and external financing face a higher hurdle
+title: Where the sovereign-duration shock is transmitting
+United States | Strong PMI and auction weakness lifted the long end | 10Y closed at 5.11%; durability depends on data, inflation and demand for issuance
+Japan | U.S. yields and yen weakness reinforced domestic term-premium pressure | 10Y JGB reached 3.055%, but domestic policy and fiscal factors also matter
+Europe | Higher global discount rates meet persistent energy and diesel costs | ECB policy and fiscal dispersion prevent a uniform transmission
+Emerging markets | Higher dollar yields raise external financing hurdles | Commodity exposure, reserves and local policy produce large country differences
+Brazil | Global long-rate pressure is an external headwind | Local Selic path, inflation and fiscal risk still dominate domestic pricing
+Gulf | Crude logistics improved, but conflict risk remains active | Brent rebound shows physical relief has not eliminated geopolitical optionality
 ```
 
-## Oil is still a risk, but no longer the marginal information
+## Market dislocations and second-order effects
 
-The Gulf conflict remains a systemic transmission risk because physical throughput, freight, insurance and refined-product availability can still reverse the recent energy relief. Brent rebounded about 4% on September 23 as U.S.-Iran diplomacy remained unresolved. That matters, but it does not justify making oil the dominant thesis again: the new information is that rates sold off sharply even as the market had already spent several sessions absorbing lower crude. [Reuters, 23 Sep 2026](https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-23/)
+The first dislocation is **strong activity versus fragile duration**. Better U.S. growth would normally support earnings, but when the policy rate has just risen and the long end is above 5%, stronger data can tighten financial conditions through the discount rate faster than it improves near-term cash-flow expectations. Evidence that would weaken this thesis would be strong activity accompanied by stable or falling real yields and healthy Treasury auction demand.
 
-This changes the invalidation test. If energy prices fall further and U.S. activity and inflation gauges cool, the growth-driven rate shock can reverse without a geopolitical resolution. If oil falls but the 10-year yield remains above 5% because activity, fiscal supply or term compensation stay firm, the restrictive regime has become less dependent on the Middle East shock than it was earlier in the month.
+The second is **U.S. resilience versus global refinancing sensitivity**. The economy generating the growth surprise issues the benchmark safe asset, so its strength raises financing costs for borrowers that do not share the same growth momentum. Japan's overnight move is an early example. Highly indebted sovereigns, leveraged companies and dollar borrowers are the channels to monitor rather than assuming a uniform equity response.
 
-## Dislocations and second-order effects
+The third is **crude relief versus refined-product scarcity**. The Gulf supply picture has improved, yet diesel margins remain unusually stressed. If product cracks stay elevated while crude stabilises, inflation pressure can migrate from the headline barrel price into transport and industrial margins. If refinery output and product trade normalise, that divergence should close.
 
-The first asymmetry is between growth resilience and duration pricing. Markets entered the week able to treat lower oil as support for technology and other long-duration equities. The September 23 data showed that stronger growth can itself raise the discount rate enough to offset that benefit. The evidence that would weaken this assessment is a sustained decline in real and nominal long yields alongside broader earnings upgrades.
+The principal systemic risk is now a joint shock: long sovereign yields remaining above recent peaks while energy risk reaccelerates. That combination would constrain central-bank flexibility, raise fiscal interest burdens and pressure both duration-sensitive equities and leveraged credit. The counter-scenario is equally important: softer incoming activity, better Treasury auction demand and renewed Gulf de-escalation would make the 23 September selloff look more like an overshoot than a regime shift.
 
-The second is geographic. Euro-area activity is stronger than expected while UK activity is slowing, yet both face energy-linked inflation. That makes a uniform “European” macro trade-off less useful: the same commodity shock is interacting with different domestic demand conditions and therefore different policy constraints.
+## What matters next
 
-The third is institutional. China's liquidity operations support the banking system at the same time that U.S. dollar yields rise. This does not imply capital is moving from one system to the other. It does imply that monetary conditions are becoming less synchronized, increasing the importance of FX, hedging cost and local balance-sheet structure in determining who can actually benefit from domestic liquidity.
+The day's central lesson is that the market has moved from pricing relief from one supply shock to confronting the financing cost of unexpectedly strong nominal activity. The evidence against a durable tightening regime would be a quick reversal in the U.S. long end without renewed inflation breakevens, stronger auction demand, and activity data that fail to confirm the flash PMI. The risk that may still be underpriced is interaction rather than any single variable: a 5%+ benchmark Treasury yield becomes more damaging if diesel or crude inflation reaccelerates at the same time.
 
-The main conclusion is that the global macro regime became more restrictive for a new reason. Energy security is still unresolved, but September 23 added evidence that U.S. and euro-area demand can sustain inflation pressure even before another oil shock occurs. Contrary evidence would be a rapid cooling in activity, falling price gauges and improved Treasury auction demand. Until then, the variables that deserve the closest attention are the U.S. 10-year and real yield, October Fed pricing, euro-area price/output PMIs, and Gulf realized export and refined-product flows. The underappreciated risk is not simply another oil spike; it is that resilient growth keeps the global cost of capital high long enough for refinancing and investment constraints to become visible in credit, capex and earnings breadth.
+The highest-information variables are the U.S. 10-year and 30-year yields around upcoming auctions; the next U.S. activity and inflation releases; USD/JPY and the Japanese 10-year yield; and whether Brent and diesel cracks separate further or converge. Concrete outcomes from the Trump-Xi summit matter if they change tariffs, technology restrictions or critical-mineral access; statements without implementation should not displace the rates signal.
 
-*Cutoff: September 23, 2026 U.S. close / information available through early September 24 UTC. This is institutional research, not personalized investment advice.*
+## Sources
+
+- U.S. Department of the Treasury, Daily Treasury Par Yield Curve Rates, 22–23 Sep 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve
+- S&P Global / Reuters, U.S. flash PMI and global markets, 23 Sep 2026: https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-23/
+- Reuters, Japan 10-year JGB at a 30-year high, 24 Sep 2026: https://www.reuters.com/world/asia-pacific/japans-10-year-bond-yield-hits-30-year-high-after-us-treasury-selloff-2026-09-24/
+- Reuters, oil settlement and Iran rhetoric, 23 Sep 2026: https://www.reuters.com/business/energy/oil-settles-up-around-4-iran-president-vows-never-surrender-2026-09-23/
+- Reuters, diesel cracks and product-market stress, 23 Sep 2026: https://www.reuters.com/business/energy/oil-holds-near-two-week-lows-while-diesel-cracks-hit-record-peak-2026-09-23/
+- Reuters, Trump-Xi summit context, 21 Sep 2026: https://www.reuters.com/world/china/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21/
+- Federal Reserve, FOMC statement and press conference, 16 Sep 2026: https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260916.htm
