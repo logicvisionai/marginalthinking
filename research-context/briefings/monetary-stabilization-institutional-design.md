@@ -11,6 +11,7 @@ High inflation is not one mechanism. Stabilization design depends on what reprod
 - **Brazil 1994:** widespread backward-looking indexation and asynchronous repricing made the unit of account itself a coordination problem. The URV created a temporary common reference before the new means of payment was introduced.
 - **Israel 1985:** fiscal imbalance, indexation, exchange-rate expectations and wage-price setting interacted. Stabilization used simultaneous fiscal and monetary restraint plus synchronized nominal anchors in exchange rates, wages and prices.
 - **Bolivia 1985:** a fiscal-monetary feedback loop dominated. Deficits, central-bank financing, exchange depreciation, tax-revenue erosion and currency substitution reinforced hyperinflation; stabilization sharply reduced financing pressure and changed the exchange and price regime.
+- **Argentina 1991:** a hard legal dollar anchor restored nominal credibility after repeated inflation crises. Convertibility constrained discretionary money creation and rapidly reduced inflation, but over time removed nominal depreciation as an adjustment margin and increased the importance of fiscal consistency, external financing, debt currency composition and balance-sheet exposure.
 
 The reusable rule is to diagnose the propagation mechanism before transferring an instrument. Similar first-order disinflation outcomes do not imply that the same policy architecture would work under different fiscal, contractual or financial institutions.
 
@@ -25,6 +26,9 @@ past inflation → contractual indexation and staggered repricing → heterogene
 **Multiple-anchor loop:**  
 fiscal financing + indexed wages/assets + exchange-rate expectations → mutually reinforcing nominal adjustments. A synchronized change can coordinate a regime break when a single anchor would leave other propagation channels active.
 
+**Hard-anchor path dependence:**  
+loss of confidence in discretionary money → legally rigid nominal anchor → rapid disinflation and contract adaptation → growing stock of liabilities and pricing decisions built around the anchor → exit becomes increasingly costly when external, fiscal or debt conditions deteriorate.
+
 These are analytical templates, not mutually exclusive country labels. Future research should test which mechanism is quantitatively material in the period being studied.
 
 ## Institutional conditions that matter
@@ -32,7 +36,7 @@ These are analytical templates, not mutually exclusive country labels. Future re
 - **Fiscal capacity:** the credibility and size of fiscal correction matter most when monetary financing is an active inflation engine. A fiscal contraction has different transmission in a low-inflation economy with functioning debt markets.
 - **Contract structure:** pervasive indexation changes how quickly past inflation enters current prices and wages. Removing inflation without changing contract coordination can leave persistence mechanisms intact.
 - **Central-bank financing rules:** legal or institutional restrictions on direct government financing can make a regime change more durable, but do not by themselves guarantee sustainable public debt.
-- **Exchange-rate architecture:** a visible exchange-rate anchor can coordinate expectations, but a rigid rate can later create real-appreciation and adjustment problems if domestic inflation or external conditions diverge.
+- **Exchange-rate architecture:** a visible exchange-rate anchor can coordinate expectations, but a rigid rate can later create real-appreciation and adjustment problems if domestic inflation or external conditions diverge. Argentina adds the balance-sheet dimension: once contracts, deposits and public debt adapt to a hard parity, abandoning it can convert exchange-rate risk into liquidity, solvency and debt stress.
 - **Administrative and bargaining capacity:** temporary price/wage arrangements or unit-of-account transitions require institutions able to coordinate contracts, communicate conversion rules and manage distributional conflict.
 - **Financial-system adaptation:** disinflation changes bank margins, asset duration, liquidity demand and balance sheets. Banking adjustment is part of stabilization, not an afterthought.
 
@@ -67,6 +71,7 @@ When approaching another stabilization episode, ask:
 - `MT-PE-2026-09-22-REAL-URV` — Brazil's Real Plan and URV; canonical public case, revision 1.
 - `MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION` — synchronized fiscal, monetary, exchange-rate and incomes-policy stabilization; canonical public case, revision 1.
 - `MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION` — fiscal-monetary hyperinflation and August 1985 stabilization; canonical public case, revision 1.
+- `MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY` — hard legal exchange-rate anchor, rapid disinflation and later adjustment/balance-sheet constraints; canonical public case, revision 1.
 
 ## Verification notes
 
