@@ -1,0 +1,118 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+  "slug": "2026-09-23-policy-case-bolivia-1985-stabilization",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T20:55:00-03:00",
+  "kind": "policy-case-study",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-23-policy-case-bolivia-1985-stabilization/en.md",
+      "title": "Bolivia's 1985 stabilization: ending hyperinflation by breaking the fiscal-monetary loop",
+      "deck": "The August 1985 program sharply reduced fiscal financing pressure while changing the exchange-rate, price and public-sector regime; hyperinflation ended quickly, but the wider restructuring carried distinct employment and distributional costs.",
+      "tags": [
+        "Bolivia",
+        "1985 stabilization",
+        "hyperinflation",
+        "fiscal policy",
+        "monetary stabilization"
+      ],
+      "keywords": [
+        "Bolivia 1985",
+        "DS 21060",
+        "hyperinflation",
+        "fiscal deficit",
+        "central bank financing",
+        "New Economic Policy"
+      ],
+      "regime": "Emergency stabilization of a fiscal-monetary hyperinflation through deficit correction, exchange-rate unification, monetary restraint and broader market reforms",
+      "key_risk": "Treating the episode as a universal argument for abrupt fiscal contraction ignores the extreme monetary-financing regime and the social costs of the broader reform package.",
+      "watch": [
+        "Fiscal financing after stabilization",
+        "Exchange-rate regime",
+        "Employment effects of public-sector restructuring",
+        "Commodity-price shocks and external financing"
+      ],
+      "search_text": "Bolivia 1985 stabilization DS 21060 hyperinflation fiscal deficit central bank financing exchange rate New Economic Policy"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-23-policy-case-bolivia-1985-stabilization/pt-BR.md",
+      "title": "A estabilização boliviana de 1985: encerrando a hiperinflação ao romper o circuito fiscal-monetário",
+      "deck": "O programa de agosto de 1985 reduziu fortemente a pressão do financiamento fiscal e alterou o regime cambial, de preços e do setor público; a hiperinflação terminou rapidamente, mas a reestruturação mais ampla teve custos próprios sobre emprego e distribuição.",
+      "tags": [
+        "Bolívia",
+        "estabilização de 1985",
+        "hiperinflação",
+        "política fiscal",
+        "estabilização monetária"
+      ],
+      "keywords": [
+        "Bolívia 1985",
+        "DS 21060",
+        "hiperinflação",
+        "déficit fiscal",
+        "financiamento pelo banco central",
+        "Nova Política Econômica"
+      ],
+      "regime": "Estabilização emergencial de hiperinflação fiscal-monetária por correção do déficit, unificação cambial, restrição monetária e reformas de mercado mais amplas",
+      "key_risk": "Tratar o episódio como argumento universal por contração fiscal abrupta ignora o regime extremo de financiamento monetário e os custos sociais do pacote mais amplo.",
+      "watch": [
+        "Financiamento fiscal após a estabilização",
+        "Regime cambial",
+        "Efeitos de emprego da reestruturação pública",
+        "Choques de commodities e financiamento externo"
+      ],
+      "search_text": "Bolívia 1985 estabilização DS 21060 hiperinflação déficit fiscal financiamento banco central câmbio Nova Política Econômica"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "series": "policy-experiments-institutional-transitions",
+  "series_domain": "monetary-stabilization",
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BO",
+        "slug": "bolivia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "currencies",
+    "institutions-governance",
+    "demography-labor",
+    "inequality-distribution",
+    "trade-investment"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "civil-unrest"
+  ],
+  "format": "research-report",
+  "cadence": "weekly",
+  "revision": 1,
+  "case_id": "bo-stabilization-1985"
+}
