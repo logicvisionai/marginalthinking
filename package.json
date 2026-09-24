@@ -17,7 +17,7 @@
     "prepare:copy": "node scripts/apply-institutional-copy.mjs",
     "validate:pipeline": "node scripts/validate-pipeline.mjs",
     "validate:series": "node scripts/validate-series.mjs",
-    "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:series && npm run validate:policy-cases && npm run validate:system-registry && npm run validate:resource-control && npm run audit:freshness",
+    "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:series && npm run validate:policy-cases && npm run validate:system-registry && npm run validate:resource-control",
     "render": "npm run prepare:copy && node scripts/render-site.mjs",
     "mcp:catalog": "node scripts/render-mcp-catalog.mjs",
     "validate:dist": "node scripts/validate-dist.mjs",

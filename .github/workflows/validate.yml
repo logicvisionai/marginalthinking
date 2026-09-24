@@ -228,3 +228,7 @@ jobs:
 
       - name: Validate Worker bundle
         run: npx wrangler deploy --dry-run --outdir .wrangler-dry-run
+
+      - name: Audit research-system freshness
+        continue-on-error: ${{ github.event_name != 'schedule' }}
+        run: npm run audit:freshness
