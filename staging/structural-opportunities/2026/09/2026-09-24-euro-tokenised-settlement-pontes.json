@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-09-24T00:14:00-03:00",
+  "candidate": {
+    "country": {"code":"EU","name":"Euro area"},
+    "proposed_state": "leverageable_efficiency",
+    "previous_state": null,
+    "perspective": "Banks, market infrastructures and issuers using tokenised wholesale securities in the euro area.",
+    "structural_condition": "Operational access to central-bank-money settlement for DLT-based wholesale transactions through the Eurosystem's Pontes bridge to TARGET Services.",
+    "delta": "Pontes moved from planned infrastructure to an operating settlement service on 21 September 2026; the ECB operational-status page recorded it open for settlement and the initial participant group completed onboarding.",
+    "mechanism": "Connecting private DLT market platforms to TARGET Services lets eligible wholesale participants settle the cash leg of tokenised-asset transactions in central bank money, reducing the need to rely solely on private settlement assets and lowering an infrastructure barrier to institutional tokenised finance.",
+    "catalysts": ["Additional participant onboarding", "Expansion of services and operating hours", "ECB planned own-funds transactions in tokenised public-sector securities", "Fuller implementation targeted by 2028"],
+    "invalidation": "Materially low production usage, operational unreliability, legal or interoperability constraints, or failure to expand beyond the initial pilot functionality would weaken the case that Pontes is reusable market infrastructure.",
+    "confidence": "high",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {"name":"ECB — Eurosystem brings central bank money to tokenised finance","url":"https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html","date":"2026-09-21"},
+      {"name":"ECB — Pontes operational status","url":"https://www.ecb.europa.eu/paym/target/html/pontes_history.en.html","date":"2026-09-22"}
+    ]
+  }
+}
