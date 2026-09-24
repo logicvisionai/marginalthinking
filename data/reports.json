@@ -87,6 +87,91 @@
     "qa_reviewed_commit": "0252addeba97c8d7eedfcc3cd61c734647253e0d"
   },
   {
+    "id": "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T20:54:00-03:00",
+    "kind": "policy-case-study",
+    "priority": 18,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "series": "policy-experiments-institutional-transitions",
+    "series_domain": "monetary-stabilization",
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "levant"
+      ],
+      "countries": [
+        {
+          "code": "IL",
+          "slug": "israel"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "institutions-governance",
+      "demography-labor",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "weekly",
+    "revision": 1,
+    "case_id": "il-stabilization-1985",
+    "title": "Israel's 1985 stabilization: why several nominal anchors had to move together",
+    "deck": "The July 1985 program combined fiscal correction, tight money, exchange-rate stabilization and a negotiated wage-price framework to interrupt an inflation process embedded in several indexed institutions at once.",
+    "tags": [
+      "Israel",
+      "1985 stabilization",
+      "inflation",
+      "exchange rate",
+      "incomes policy"
+    ],
+    "keywords": [
+      "Israel 1985 Economic Stabilization Program",
+      "inflation stabilization",
+      "wage price agreement",
+      "exchange rate anchor",
+      "fiscal adjustment"
+    ],
+    "regime": "Synchronized fiscal, monetary, exchange-rate and incomes-policy stabilization after inflation became embedded in several indexed institutions",
+    "key_risk": "Reducing the episode to one anchor obscures both the fiscal consistency required for the initial break and the later need to adapt the exchange-rate regime.",
+    "watch": [
+      "Fiscal financing institutions after 1985",
+      "Real-wage recovery",
+      "Evolution of the exchange-rate anchor",
+      "Transition toward later inflation-targeting arrangements"
+    ],
+    "search_text": "Israel 1985 Economic Stabilization Program inflation fiscal adjustment exchange rate wage price freeze Histadrut nominal anchors",
+    "url": "/reports/2026/09/2026-09-23-policy-case-israel-1985-stabilization.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-policy-case-israel-1985-stabilization/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T00:20:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "0252addeba97c8d7eedfcc3cd61c734647253e0d"
+  },
+  {
     "id": "MT-PE-2026-09-23-MERCOSUR",
     "date": "2026-09-23",
     "published_at": "2026-09-23T11:34:00-03:00",
