@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-09-23-ASML",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-24T03:13:23Z",
+  "reviewed_commit": "1715c5770501fcfd9dd754faa299eb41a01c5d5d",
+  "pending_blob_sha": "4d55c9478c2de369e711725f801866d8ce131f4f",
+  "source_blob_shas": {
+    "en": "60cc7785fee907be55c196d0a15358ae614e40b8",
+    "pt-BR": "afe9d81844a94ccf95bd893ec085fea1e081f85c"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_and_methodological": {
+      "result": "passed",
+      "summary": "ASML primary evidence confirms €32.7bn 2025 net sales, €4.7bn R&D, 48 EUV and 279 DUV systems in 2025, 67 new lithography systems sold in Q1 2026 and 86 in Q2, plus the distinction between ASML technical supply and Dutch state export licensing. The PT-BR edition was rewritten after the prior localization rejection while preserving factual claims and causal boundaries."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct mechanism-led opening; no generic sophistication claims or product-process narration.",
+      "headings": "Headings advance the actor-specific mechanism, constraints, contrary evidence and revision conditions.",
+      "language_localization": "EN and PT-BR are semantically aligned; PT-BR technical prose was localized before approval.",
+      "repetition": "No blocking thesis repetition identified.",
+      "cohesion": "Argument moves from rights/capability through transmission, constraints and evidence that would revise the assessment.",
+      "template_meta_qa": "No prompt, QA-process, schema, renderer or roadmap leakage detected."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The dossier distinguishes legal rights, operating capability, transmission, substitutability and institutional constraints rather than relying on scale or reputation."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "At least two analytical tables, one quantitative chart, one causal flow and one mind map in both locales.",
+      "limitations": "Visuals encode sourced quantities or mechanisms defended in prose and are not combined into a synthetic power score."
+    },
+    "taxonomy": "passed",
+    "translation_semantics": "passed"
+  },
+  "contrary_evidence": [
+    "Alternative process routes, DUV multi-exposure approaches and future rival platforms can reduce dependence over longer horizons.",
+    "Semiconductor fabs depend on many other equipment, material, power, capital and skills constraints, so lithography is not the entire stack."
+  ],
+  "limitations": [
+    "Low substitutability is horizon-dependent and must not be restated as permanent irreplaceability.",
+    "Installed-base service revenue establishes a recurring technical relationship but does not quantify every customer's switching cost."
+  ],
+  "notes": "Dedicated single-actor Strategic Actors dossier. Primary-source factual core, controlled taxonomy, bilingual parity and visual evidence reviewed; no public bundle for this ID at approval time.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-09-23-ASML",
+    "slug": "2026-09-23-strategic-actor-asml",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:34:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-asml/en.md",
+        "title": "ASML: a difficult-to-substitute production technology inside the semiconductor chain",
+        "deck": "ASML's structural relevance comes from advanced lithography capabilities that can be difficult to replace within semiconductor investment horizons. The company supplies technology; the Dutch state separately controls covered export licences.",
+        "tags": [
+          "Strategic Actors",
+          "ASML",
+          "Semiconductors",
+          "Lithography",
+          "Technology Chokepoints"
+        ],
+        "keywords": [
+          "ASML",
+          "EUV",
+          "High-NA EUV",
+          "DUV",
+          "semiconductor manufacturing",
+          "lithography",
+          "export controls",
+          "technology supply"
+        ],
+        "regime": "Advanced semiconductor production depends on specialized equipment, supplier ecosystems and regulatory access whose substitution can take years.",
+        "key_risk": "Treating ASML's technical position as control of the entire semiconductor chain or as sovereign export authority overstates its rights.",
+        "watch": [
+          "EUV and High-NA adoption",
+          "system productivity and shipments",
+          "installed-base service",
+          "alternative lithography approaches",
+          "Dutch export-control scope"
+        ],
+        "search_text": "ASML strategic actor EUV lithography semiconductor manufacturing High-NA technology chokepoint export controls substitutability"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-asml/pt-BR.md",
+        "title": "ASML: uma tecnologia produtiva de difícil substituição dentro da cadeia de semicondutores",
+        "deck": "A relevância da ASML vem de capacidades avançadas de litografia que podem ser difíceis de substituir no horizonte de investimento de semicondutores. A empresa fornece tecnologia; o Estado neerlandês controla separadamente as licenças de exportação abrangidas.",
+        "tags": [
+          "Atores Estratégicos",
+          "ASML",
+          "Semicondutores",
+          "Litografia",
+          "Gargalos Tecnológicos"
+        ],
+        "keywords": [
+          "ASML",
+          "EUV",
+          "High-NA EUV",
+          "DUV",
+          "fabricação de semicondutores",
+          "litografia",
+          "controles de exportação",
+          "fornecimento tecnológico"
+        ],
+        "regime": "Produção avançada de semicondutores depende de equipamentos especializados, ecossistemas de fornecedores e acesso regulatório cuja substituição pode exigir anos.",
+        "key_risk": "Tratar a posição técnica da ASML como controle de toda a cadeia ou como autoridade soberana de exportação exagera seus direitos.",
+        "watch": [
+          "adoção de EUV e High-NA",
+          "produtividade e entregas de sistemas",
+          "serviço da base instalada",
+          "alternativas de litografia",
+          "escopo dos controles neerlandeses"
+        ],
+        "search_text": "ASML ator estratégico EUV litografia semicondutores High-NA dependência tecnológica controles de exportação substituibilidade"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "western-europe"
+      ],
+      "countries": [
+        {
+          "code": "NL",
+          "slug": "netherlands"
+        }
+      ]
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "trade-investment",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "actor_id": "asml",
+    "assessment_confidence": "high-on-technical-supply-and-export-control-separation-medium-on-long-horizon-substitution",
+    "key_constraints": [
+      "engineering and supplier lead times",
+      "customer fab integration",
+      "capital expenditure cycles",
+      "Dutch export licensing",
+      "competing process technologies"
+    ],
+    "selection_rationale": "ASML is an active Strategic Actors record with a documented technology-supply relation and low short-run substitutability but lacked a dedicated single-actor canonical study."
+  }
+}
