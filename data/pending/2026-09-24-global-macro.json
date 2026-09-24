@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-24",
+  "slug": "2026-09-24-global-macro",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T00:07:28-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-24-global-macro/en.md",
+      "title": "Global Macro — Growth, not oil, pushes the rate shock into a new phase",
+      "deck": "A sharp U.S. growth surprise pushed the 10-year Treasury above 5.1%, turning resilient activity itself into the new source of tighter global financial conditions while Europe also accelerated.",
+      "tags": ["global macro", "Treasuries", "Federal Reserve", "PMI", "Europe", "China", "oil", "AI"],
+      "keywords": ["U.S. 10-year Treasury", "real yields", "S&P Global PMI", "ECB", "PBOC", "dollar", "AI financing", "Gulf energy"],
+      "regime": "Growth-driven rate tightening layered on top of unresolved energy and geopolitical risk",
+      "key_risk": "Resilient U.S. and euro-area activity may keep real and nominal long yields high enough for refinancing and investment constraints to spread into credit and earnings even if oil eases.",
+      "watch": ["U.S. 10-year Treasury and 10-year real yield", "October Fed pricing", "Euro-area output and price PMIs", "Gulf realized export and refined-product flows"],
+      "search_text": "Global Macro September 24 2026 Treasury 5.11 PMI 58.4 eurozone 53.1 Fed ECB PBOC dollar AI financing oil Gulf"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-24-global-macro/pt-BR.md",
+      "title": "Global Macro — Crescimento, e não petróleo, leva o choque de juros a uma nova fase",
+      "deck": "Uma forte surpresa de crescimento nos EUA levou o Treasury de 10 anos acima de 5,1%, transformando a própria resistência da atividade na nova fonte de aperto das condições financeiras globais enquanto a Europa também acelerou.",
+      "tags": ["macro global", "Treasuries", "Federal Reserve", "PMI", "Europa", "China", "petróleo", "IA"],
+      "keywords": ["Treasury de 10 anos", "juros reais", "PMI S&P Global", "BCE", "PBOC", "dólar", "financiamento de IA", "energia do Golfo"],
+      "regime": "Aperto de juros movido pelo crescimento somado a risco energético e geopolítico ainda não resolvido",
+      "key_risk": "Atividade resistente nos EUA e na zona do euro pode manter juros reais e nominais longos altos o suficiente para que restrições de refinanciamento e investimento se espalhem para crédito e lucros mesmo com alívio do petróleo.",
+      "watch": ["Treasury de 10 anos e juro real de 10 anos", "Precificação da reunião de outubro do Fed", "PMIs de atividade e preços da zona do euro", "Fluxos efetivos de exportação e derivados do Golfo"],
+      "search_text": "Global Macro 24 setembro 2026 Treasury 5,11 PMI 58,4 zona euro 53,1 Fed BCE PBOC dólar financiamento IA petróleo Golfo"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": ["global-system-power"],
+  "dimensions": ["economy", "politics"],
+  "geography": {"level":"global","regions":["americas","europe","asia-pacific","middle-east"],"subregions":["north-america","western-europe","east-asia","south-asia","gulf","latin-america-caribbean"],"countries":[]},
+  "topics": ["macroeconomics", "monetary-policy", "capital-markets", "sovereign-debt", "currencies", "energy", "geopolitics-security"],
+  "phenomena": ["war-armed-conflict", "strategic-competition", "defense-security"],
+  "format": "brief",
+  "cadence": "daily",
+  "novelty_gate": {
+    "prior_public_editions": ["MT-GM-2026-09-23", "MT-GM-2026-09-22", "MT-GM-2026-09-21"],
+    "material_delta": "September 23 U.S. PMI accelerated to 58.4 and the 10-year Treasury par yield rose 15 bp to 5.11%, while euro-area PMI accelerated to 53.1. This shifts the dominant mechanism from oil-relief versus high rates to growth itself sustaining tighter global rates.",
+    "repeated_theme_treatment": "Oil/Gulf risk is retained as background and transmission risk rather than the dominant thesis."
+  }
+}
