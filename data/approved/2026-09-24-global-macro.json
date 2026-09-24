@@ -2,36 +2,109 @@
   "schema_version": 2,
   "id": "MT-GM-2026-09-24",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-24T05:12:00Z",
-  "reviewed_commit": "f190b96c38875710443a7af2b0cfdf1dcf6313e8",
-  "pending_blob_sha": "d8e659a937ee585ca2ac7b77dd53d31bb9bc24ce",
-  "source_blob_shas": {"en":"f632f17474796b67f337eacaa0ad945785d43626","pt-BR":"2ae9ec24a5e6db004b2db1ca033266834619975f"},
+  "reviewed_at": "2026-09-24T05:37:36Z",
+  "reviewed_commit": "4f1d07838ed117f313d28881809241c27be789b7",
+  "pending_blob_sha": "d8e093bab251caf62c3eb79d6b6135e0a2f5c93f",
+  "source_blob_shas": {
+    "en": "f632aa22439abdd419664a77ab4012f858828ea4",
+    "pt-BR": "bfed7fb84a475e29db9132d010e3ab8e5f76463d"
+  },
   "taxonomy_check": "passed",
   "translation_check": "passed",
   "confidence": "high",
   "checks": {
-    "factual_methodological":{"result":"passed","summary":"Central market levels, dates, units and observed-versus-scenario distinctions were checked against the staged evidence set and fresh external corroboration."},
-    "taxonomy":{"result":"passed","summary":"Controlled taxonomy values are valid for political-economy-markets."},
-    "translation":{"result":"passed","summary":"EN and PT-BR are semantically equivalent and localized naturally."},
-    "editorial_publication_readiness":{"result":"passed","summary":"Direct thesis-led opening; mechanism-led headings; no exposed QA/prompt scaffolding; controlled repetition; coherent thesis-to-evidence-to-scenarios progression."},
-    "contextual_depth":{"result":"passed","summary":"Institutional and policy context is incorporated where it changes the rates-energy transmission mechanism."},
-    "visual_evidence_readiness":{"result":"passed","signature":"2 tables + 1 bar chart + 1 causal flow","summary":"The visual layer clears the assessment floor; units, labels and causal direction are explicit and EN/PT-BR are aligned.","limitations":"Visuals are compact analytical summaries rather than independent time-series datasets."}
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Official U.S. Treasury data confirm the 23 September closes at 4.31% (2Y), 5.11% (10Y) and 5.40% (30Y), versus 4.26%, 4.96% and 5.29% on 22 September. Current event and market claims are explicitly separated from inference and scenarios; the report qualifies the single-auction signal and survey-to-GDP limitation."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Program, related program, dimensions, geography, topics and phenomena use controlled taxonomy values; phenomena is a valid array."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same thesis, market levels, qualifications, causal mechanisms, scenarios and visual semantics; PT-BR is naturally localized."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The opening states the new thesis directly; headings name mechanisms rather than template categories; prose contains no exposed QA/prompt scaffolding; prior oil-relief material is demoted to background and the dominant novelty is the cross-border sovereign-duration repricing; progression runs from thesis through U.S. evidence, transmission, Japan, energy, diplomacy, dislocations and synthesis."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report incorporates the institutional context needed for the mechanism: Fed policy, Treasury supply absorption, BOJ normalization, Japanese currency/import-price transmission, Gulf logistics and U.S.-China policy channels, without adding ornamental history."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 analytical table + 1 single-unit Treasury bar chart + 1 causal flow + 1 geographic transmission map",
+      "summary": "Visuals are analytical rather than decorative, preserve units and dimensional compatibility, represent mechanisms stated in the prose, and have semantic EN/PT-BR parity.",
+      "limitations": "The geographic visual is a qualitative transmission map rather than a geospatial magnitude map; the Treasury chart is a same-date cross-maturity comparison, not a time series."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "The candidate explicitly compares the 21-23 September editions and identifies a material new mechanism: a 15 bp one-day rise in the official U.S. 10-year yield to 5.11%, weak five-year auction reception and immediate spillover to Japanese duration. Oil relief is retained only where the renewed crude/product stress interacts with rates."
+    }
   },
-  "contrary_evidence":["U.S. equities remained comparatively resilient despite the rates repricing.","Inventory and refinery data do not establish generalized physical scarcity; the strongest stress remains concentrated in middle distillates.","The transmission can weaken if long-end yields retrace or diesel cracks normalize."],
-  "limitations":["Intraday market levels are time-sensitive snapshots.","Several event-level observations rely on high-quality financial press because official real-time series are not uniformly available at publication latency."],
-  "notes":"Revision 2 reviewed as the current unpublished candidate; previous approval is superseded because its 3/3 blob binding no longer matches HEAD.",
+  "contrary_evidence": [
+    "A single weak Treasury auction does not establish a durable demand regime.",
+    "Flash PMI strength does not guarantee equally strong realized GDP or renewed inflation acceleration.",
+    "Improved Gulf crude logistics remain a source of physical relief even as refined-product stress and geopolitical optionality persist.",
+    "The tightening-regime thesis would weaken if long yields retrace on better auction demand, activity fails to confirm the flash PMI, or refinery/product trade normalizes."
+  ],
+  "limitations": [
+    "Intraday Japanese bond, FX and futures-implied probability observations are time-sensitive snapshots and rely on contemporaneous market reporting.",
+    "The causal decomposition of the long-end move among nominal growth, term premium, supply absorption and inflation uncertainty is analytical inference rather than a directly observed allocation of basis points.",
+    "The Trump-Xi meeting is treated as a catalyst until implemented policy outcomes are observable."
+  ],
+  "notes": "Current revision 2 was re-reviewed because the pending and both staged-source blobs no longer matched the prior approval binding. No public metadata bundle exists for this ID at the decision point. This approval supersedes the stale 3/3 binding and is tied only to the current Git blobs.",
   "publication": {
-    "schema_version":2,"id":"MT-GM-2026-09-24","slug":"2026-09-24-global-macro","date":"2026-09-24","revision":2,
-    "revision_reason":"Second editorial QA remediation: the public report now opens with a direct thesis, removes workflow/template scaffolding from the reader-facing copy, upgrades generic headings to mechanism-led headings, and condenses repeated caveats while preserving the validated facts and market levels from revision 1.",
-    "qa_fixes_applied":["Removed the generic Executive assessment/Avaliação executiva heading so the thesis follows the H1 directly.","Replaced workflow-like label blocks in the Global Opportunity Radar/Radar Global de Oportunidades with compact reader-facing analytical prose.","Renamed vague analytical headings, including Rates, Transmission channels, Global Opportunity Radar and Cross-asset synthesis, to object-plus-mechanism formulations.","Condensed repeated timing and diesel-crack caveats without changing the validated facts, prices, yields, scenarios or causal claims.","Preserved EN/PT-BR semantic parity and all three analytical visuals introduced in revision 1."],
-    "title":"Rates, energy and the repricing of duration risk","title_pt":"Juros, energia e a reprecificação do risco de duration",
-    "summary":"Japan's 10-year government bond yield reached 3.055%, the highest since August 1996, while U.S. 10-year and 30-year Treasury yields moved to roughly 5.11% and 5.40%. At the same time, Brent rebounded to $103.08 a barrel and the European diesel crack remained near a record $95 a barrel. The combination matters more than either move in isolation: higher long-end discount rates and persistent energy costs are tightening financial conditions while leaving equity benchmarks comparatively resilient.",
-    "summary_pt":"O rendimento do título público japonês de 10 anos chegou a 3,055%, o maior nível desde agosto de 1996, enquanto os Treasuries americanos de 10 e 30 anos avançaram para cerca de 5,11% e 5,40%. Ao mesmo tempo, o Brent voltou a US$ 103,08 por barril e o crack spread europeu do diesel permaneceu próximo do recorde de US$ 95 por barril. A combinação importa mais do que cada movimento isolado: taxas longas mais altas e custos persistentes de energia apertam as condições financeiras enquanto os principais índices acionários permanecem relativamente resilientes.",
-    "program":"political-economy-markets","dimensions":["economy","politics","society"],"geography":{"level":"global","regions":["global","north-america","europe","asia-pacific"],"countries":["united-states","japan"]},"phenomena":["monetary-policy","energy-security","market-structure","capital-allocation","inflation-regime"],"lenses":["institutional-consensus"],"format":"assessment","cadence":"daily","kind":"daily-global-macro","ready":true,"source_locale":"en","source_locales":["en","pt-BR"],
-    "sources":{"en":"staging/research/2026/09/2026-09-24-global-macro/en.md","pt-BR":"staging/research/2026/09/2026-09-24-global-macro/pt-BR.md"},"public_paths":{"en":"reports/2026-09-24-global-macro/index.html","pt-BR":"pt/reports/2026-09-24-global-macro/index.html"},"related_research_ids":[],"visual_signature":{"tables":2,"charts":1,"structural_visuals":1,"chart_types":["bar"],"structural_types":["flow"]},
-    "thesis":"The dominant cross-asset change is no longer simply expensive oil. It is the interaction between a global long-end bond selloff and an energy shock concentrated in middle distillates. Japan's 10-year JGB at 3.055% and U.S. long bonds above 5% raise the discount rate applied to long-duration assets, while diesel scarcity transmits into freight, industrial and household costs. The central question is whether that combination becomes a durable tightening regime or remains a short-lived geopolitical and positioning shock.",
-    "key_risk":"A persistent combination of long-end yield repricing and elevated middle-distillate margins would tighten financial conditions and production costs simultaneously, raising the probability of weaker demand without an immediate normalization of inflation-sensitive prices.",
-    "primary_mechanism":"Energy supply disruption -> higher diesel and crude prices -> transport and industrial cost pressure -> firmer inflation expectations and term premium -> higher long-end sovereign yields -> tighter financial conditions and valuation pressure.",
-    "regime":"Global markets are in a rates-energy tightening regime: sovereign curves are repricing higher while energy-product scarcity remains acute, but equity indices have not yet validated a broad risk-off transition.","publication_status":"pending_qa"
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-24",
+    "slug": "2026-09-24-global-macro",
+    "date": "2026-09-24",
+    "published_at": "2026-09-24T02:09:49-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "revision": 2,
+    "revision_reason": "Material overnight update to the existing same-day pending edition: official 23 September Treasury closes, the weak five-year auction transmission, the 24 September Japan 10-year JGB move to 3.055%, the 23 September oil settlement rebound and diesel-product stress materially sharpened the dominant mechanism from a generic growth-driven rate shock to a verified cross-border sovereign-duration shock.",
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-24-global-macro/en.md",
+        "title": "Global Macro — Growth data turns the long end back into the dominant global shock",
+        "deck": "A strong U.S. activity surprise and weak Treasury auction pushed the 10-year above 5.1%, transmitted into Japanese bonds and restored sovereign duration as the main cross-asset tightening channel while oil risk rebounded.",
+        "tags": ["global macro", "Treasuries", "rates", "Japan", "oil", "markets"],
+        "keywords": ["U.S. PMI", "Treasury yields", "JGB", "dollar", "Brent", "diesel", "Trump Xi summit"],
+        "regime": "Resilient nominal growth is colliding with a renewed global sovereign-duration shock and incomplete energy normalization.",
+        "key_risk": "Long sovereign yields remain above recent peaks while crude or refined-product inflation reaccelerates.",
+        "watch": ["U.S. 10-year and 30-year yields around Treasury auctions", "U.S. activity and inflation confirmation", "USD/JPY and Japan 10-year JGB yield", "Brent versus diesel refining margins", "implemented outcomes from the Trump-Xi summit"],
+        "search_text": "Global Macro September 24 2026 US PMI 58.4 Treasury 10-year 5.11 Japan JGB 3.055 Brent diesel Trump Xi"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-24-global-macro/pt-BR.md",
+        "title": "Global Macro — Surpresa de crescimento devolve ao juro longo o papel de principal choque global",
+        "deck": "Surpresa forte de atividade nos EUA e leilão fraco de Treasuries levaram o juro de 10 anos acima de 5,1%, transmitiram pressão aos títulos japoneses e recolocaram a duração soberana como principal canal de aperto entre ativos, enquanto o risco do petróleo voltou a subir.",
+        "tags": ["macro global", "Treasuries", "juros", "Japão", "petróleo", "mercados"],
+        "keywords": ["PMI dos EUA", "juros dos Treasuries", "JGB", "dólar", "Brent", "diesel", "cúpula Trump Xi"],
+        "regime": "Crescimento nominal resiliente colide com novo choque global de juros soberanos longos e normalização energética incompleta.",
+        "key_risk": "Juros soberanos longos permanecem acima dos picos recentes enquanto a inflação de petróleo ou derivados reacelera.",
+        "watch": ["Treasuries de 10 e 30 anos nos próximos leilões", "confirmação nos dados de atividade e inflação dos EUA", "USD/JPY e JGB japonês de 10 anos", "Brent versus margens de refino de diesel", "resultados implementados da cúpula Trump-Xi"],
+        "search_text": "Global Macro 24 setembro 2026 PMI EUA 58,4 Treasury 10 anos 5,11 Japão JGB 3,055 Brent diesel Trump Xi"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": ["global-system-power"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level": "global", "regions": ["americas", "europe", "asia-pacific", "middle-east"], "subregions": ["north-america", "western-europe", "east-asia", "gulf", "latin-america-caribbean"], "countries": []},
+    "topics": ["macroeconomics", "monetary-policy", "capital-markets", "currencies", "energy", "commodities-resources", "geopolitics-security"],
+    "phenomena": ["war-armed-conflict", "strategic-competition"],
+    "format": "brief",
+    "cadence": "daily",
+    "novelty_gate": {
+      "compared_public_editions": ["MT-GM-2026-09-21", "MT-GM-2026-09-22", "MT-GM-2026-09-23"],
+      "dominant_delta": "The dominant mechanism changed from falling oil/conditional geopolitical relief to a U.S.-led sovereign-duration selloff after a 58.4 flash composite PMI, weak five-year auction reception and a 15 bp one-day rise in the official 10-year Treasury yield to 5.11%, with immediate spillover to a 3.055% Japan 10-year yield.",
+      "repetition_control": "Oil relief is demoted to background; energy appears only where the 23 September rebound and record diesel crack stress materially interact with the new rates shock."
+    }
   }
 }
