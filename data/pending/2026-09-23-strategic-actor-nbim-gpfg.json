@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-09-23-NBIM-GPFG",
+  "slug": "2026-09-23-strategic-actor-nbim-gpfg",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:22:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-nbim-gpfg/en.md",
+      "title": "NBIM / GPFG: public savings, delegated management and persistent global ownership",
+      "deck": "Norway's GPFG converts petroleum-derived public wealth into diversified global ownership through a formal delegation chain. Its structural role comes from persistent capital and shareholder rights, not direct state control of portfolio companies.",
+      "tags": [
+        "Strategic Actors",
+        "NBIM",
+        "GPFG",
+        "Sovereign Capital",
+        "Corporate Governance"
+      ],
+      "keywords": [
+        "Norges Bank Investment Management",
+        "Government Pension Fund Global",
+        "sovereign wealth",
+        "shareholder voting",
+        "public savings",
+        "delegated management"
+      ],
+      "regime": "Large public savings are invested globally through a formal delegation chain with recurring but bounded shareholder rights.",
+      "key_risk": "Conflating public ownership of the fund with political direction of individual portfolio companies overstates control.",
+      "watch": [
+        "management mandate changes",
+        "fund value relative to global markets",
+        "asset-class expansion",
+        "voting and stewardship activity",
+        "fiscal inflows and withdrawals"
+      ],
+      "search_text": "NBIM GPFG strategic actor Norway sovereign fund public savings delegated management voting global ownership"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-23-strategic-actor-nbim-gpfg/pt-BR.md",
+      "title": "NBIM / GPFG: poupança pública, gestão delegada e propriedade global persistente",
+      "deck": "O GPFG norueguês converte riqueza pública ligada ao petróleo em propriedade financeira global diversificada por uma cadeia formal de delegação. Seu papel vem de capital persistente e direitos acionários, não de controle estatal direto das investidas.",
+      "tags": [
+        "Atores Estratégicos",
+        "NBIM",
+        "GPFG",
+        "Capital Soberano",
+        "Governança Corporativa"
+      ],
+      "keywords": [
+        "Norges Bank Investment Management",
+        "Government Pension Fund Global",
+        "fundo soberano",
+        "voto acionário",
+        "poupança pública",
+        "gestão delegada"
+      ],
+      "regime": "Grande poupança pública é investida globalmente por uma cadeia formal de delegação com direitos acionários recorrentes, porém limitados.",
+      "key_risk": "Confundir propriedade pública do fundo com direção política de empresas individuais exagera o controle.",
+      "watch": [
+        "mudanças no mandato de gestão",
+        "valor do fundo em relação aos mercados globais",
+        "expansão de classes de ativos",
+        "voto e stewardship",
+        "entradas e retiradas fiscais"
+      ],
+      "search_text": "NBIM GPFG ator estratégico Noruega fundo soberano poupança pública gestão delegada voto propriedade global"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "northern-europe"
+    ],
+    "countries": [
+      {
+        "code": "NO",
+        "slug": "norway"
+      }
+    ]
+  },
+  "topics": [
+    "capital-markets",
+    "trade-investment",
+    "institutions-governance",
+    "sovereign-debt"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "actor_id": "nbim-gpfg",
+  "assessment_confidence": "high-on-governance-scale-and-ownership-rights-medium-on-system-wide-transmission",
+  "key_constraints": [
+    "formal public mandate",
+    "benchmark and risk limits",
+    "minority ownership",
+    "global market liquidity",
+    "operational delegation to NBIM"
+  ],
+  "selection_rationale": "NBIM/GPFG is an active Strategic Actors record with two documented structural relations but previously appeared only in comparative research."
+}
