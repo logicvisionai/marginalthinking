@@ -1,0 +1,67 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-09-23-ASML",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-24T02:52:00Z",
+  "reviewed_commit": "56695e0c9b8c19d01e216b1ceaf221109658ddb2",
+  "pending_blob_sha": "39e94942ace7b371051191bed4674671e53f5a63",
+  "source_blob_shas": {
+    "en": "60cc7785fee907be55c196d0a15358ae614e40b8",
+    "pt-BR": "d1e7b0da752355d9bd7733cbf0baef917b58041e"
+  },
+  "revision": 1,
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial-localization",
+      "location": "PT-BR, abertura e múltiplas seções",
+      "evidence": "A edição PT-BR mantém inglês cru e jargão interno em série: downstream, etch, packaging, patterning, upgrades, uptime, roadmap, yield, throughput, multi-patterning, capex e fabs.",
+      "why_blocking": "A regra editorial exige PT-BR que soe originalmente escrito em português brasileiro e bloqueia inglês cru quando existe equivalente natural. A recorrência afeta a primeira leitura e faz a edição parecer tradução técnica não finalizada."
+    },
+    {
+      "type": "editorial-publication-readiness",
+      "location": "PT-BR, tabela 'Camada / Capacidade da ASML / Transmissão / Limite', fluxos e seção de substituibilidade",
+      "evidence": "Termos como 'patterning de ponta', 'upgrades', 'uptime', 'roadmap técnico', 'yield', 'throughput', 'multi-patterning DUV' e 'capex dos clientes' aparecem sem localização ou explicação inicial consistente.",
+      "why_blocking": "A densidade de anglicismos desnecessários reduz clareza institucional e viola explicitamente o gate de localização."
+    }
+  ],
+  "required_fixes": [
+    "Reescrever integralmente a edição PT-BR em português brasileiro natural, substituindo anglicismos desnecessários por equivalentes técnicos claros; quando um termo inglês for realmente padrão de indústria, apresentá-lo apenas após uma formulação portuguesa inteligível.",
+    "Revisar tabela, fluxos, mapa mental e prosa em conjunto para preservar paridade semântica EN/PT-BR após a localização; não alterar números, causalidade, limites ou conclusão factual durante essa correção editorial.",
+    "Preservar a separação correta entre capacidade técnica da ASML e autoridade soberana neerlandesa de licenciamento de exportações."
+  ],
+  "evidence": [
+    "ASML Q2 2026 confirma 67 novos sistemas vendidos no Q1, 86 no Q2 e EUR 2,762 bilhões de Installed Base Management no Q2.",
+    "ASML FY2025 confirma EUR 32,7 bilhões de vendas líquidas em 2025.",
+    "Governo dos Países Baixos confirma que equipamentos de litografia já estavam abrangidos pela medida nacional, que autorizações são decididas caso a caso pelo governo, que a medida alcança exportações para fora da UE e que não constitui proibição geral."
+  ],
+  "taxonomy_issues": [],
+  "limitations": [
+    "A rejeição editorial é suficiente para bloquear publicação nesta revisão; a próxima revisão deve preservar os claims factuais já verificados e será reavaliada nos SHAs novos.",
+    "A afirmação de baixa substituibilidade é uma avaliação estrutural dependente do horizonte e deve continuar qualificada; o texto atual reconhece alternativas de processo e não a apresenta como irreplaceabilidade permanente."
+  ],
+  "checks": {
+    "factual_core": "passed-for-blocking-review",
+    "taxonomy": "passed",
+    "translation_semantics": "blocked-by-localization-quality",
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Analiticamente direta, mas a edição PT-BR introduz anglicismo desnecessário já na abertura ('downstream').",
+      "headings": "Em geral informativos e específicos.",
+      "language_localization": "failed",
+      "repetition": "no material blocking repetition identified in this pass",
+      "cohesion": "passed",
+      "template_meta_qa": "no blocking template or meta-QA exposure identified"
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "O mecanismo atual é explicado por dependência produtiva, integração fabril, ecossistema de fornecedores e autoridade regulatória; não depende de uma seção histórica ornamental."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed-with-editorial-localization-block",
+      "signature": "1 bar chart + 2 flow diagrams + 1 mind map + 2 analytical tables in both locales",
+      "limitations": "Os visuais são estruturalmente úteis e os valores do gráfico Q1/Q2 2026 foram confirmados; a edição PT-BR precisa localizar os rótulos e termos técnicos sem alterar o mecanismo."
+    }
+  }
+}
