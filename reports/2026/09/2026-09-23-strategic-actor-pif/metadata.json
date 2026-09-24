@@ -1,0 +1,124 @@
+{
+  "id": "MT-SA-2026-09-23-PIF",
+  "slug": "2026-09-23-strategic-actor-pif",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T23:24:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 24,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "middle-east"
+    ],
+    "subregions": [
+      "gulf"
+    ],
+    "countries": [
+      {
+        "code": "SA",
+        "slug": "saudi-arabia"
+      }
+    ]
+  },
+  "topics": [
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "technology-innovation"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "actor_id": "pif",
+  "assessment_confidence": "high-on-mandate-scale-and-governance-medium-on-economy-wide-additionality",
+  "key_constraints": [
+    "project economics",
+    "execution capacity",
+    "oil-linked fiscal conditions",
+    "private-sector absorption",
+    "funding cost and asset valuations"
+  ],
+  "selection_rationale": "PIF is an active Strategic Actors record with a documented sovereign-development channel but lacked a dedicated single-actor canonical study.",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "PIF: sovereign capital as a bridge between Saudi public wealth and domestic productive capacity",
+      "deck": "PIF's stated mandate combines financial returns with Saudi economic transformation. Its structural relevance comes from the ability to finance and coordinate long-duration domestic investment; the key uncertainty is whether that capital produces durable additional private capacity.",
+      "tags": [
+        "Strategic Actors",
+        "PIF",
+        "Saudi Arabia",
+        "Sovereign Capital",
+        "Industrial Policy"
+      ],
+      "keywords": [
+        "Public Investment Fund",
+        "Saudi Arabia",
+        "sovereign wealth",
+        "Vision 2030",
+        "domestic investment",
+        "productive capacity",
+        "private co-investment"
+      ],
+      "regime": "Sovereign capital is being reorganized around three portfolios with greater emphasis on domestic ecosystems, capital efficiency and private-sector participation.",
+      "key_risk": "Large public investment can be mistaken for durable productive additionality before project economics, utilization and private reinforcement are demonstrated.",
+      "watch": [
+        "private co-investment",
+        "portfolio-company cash generation",
+        "domestic project utilization",
+        "exports and third-party revenue",
+        "capital recycling and funding costs"
+      ],
+      "search_text": "PIF strategic actor Saudi Arabia sovereign capital domestic investment productive capacity Vision Portfolio economic transformation"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "PIF: capital soberano como ponte entre riqueza pública saudita e capacidade produtiva doméstica",
+      "deck": "O mandato declarado do PIF combina retorno financeiro e transformação econômica saudita. Sua relevância vem da capacidade de financiar e coordenar investimento doméstico de longa duração; a principal incerteza é quanto isso gera capacidade privada adicional e durável.",
+      "tags": [
+        "Atores Estratégicos",
+        "PIF",
+        "Arábia Saudita",
+        "Capital Soberano",
+        "Política Industrial"
+      ],
+      "keywords": [
+        "Public Investment Fund",
+        "Arábia Saudita",
+        "fundo soberano",
+        "Vision 2030",
+        "investimento doméstico",
+        "capacidade produtiva",
+        "coinvestimento privado"
+      ],
+      "regime": "O capital soberano está sendo reorganizado em três portfólios com maior ênfase em ecossistemas domésticos, eficiência de capital e participação privada.",
+      "key_risk": "Grande investimento público pode ser confundido com adicionalidade produtiva durável antes de economia dos projetos, utilização e reforço privado serem demonstrados.",
+      "watch": [
+        "coinvestimento privado",
+        "geração de caixa das empresas",
+        "utilização dos projetos domésticos",
+        "exportações e receita de terceiros",
+        "reciclagem de capital e custos de funding"
+      ],
+      "search_text": "PIF ator estratégico Arábia Saudita capital soberano investimento doméstico capacidade produtiva Vision Portfolio transformação econômica"
+    }
+  }
+}

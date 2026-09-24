@@ -1,5 +1,192 @@
 [
   {
+    "id": "MT-SA-2026-09-23-MUBADALA",
+    "slug": "2026-09-23-strategic-actor-mubadala",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:26:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        }
+      ]
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "infrastructure-logistics",
+      "technology-innovation",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "mubadala",
+    "assessment_confidence": "high-on-ownership-governance-and-portfolio-scale-medium-on-domestic-additionality",
+    "key_constraints": [
+      "commercial return requirements",
+      "private-asset valuation and liquidity",
+      "project execution",
+      "partner incentives",
+      "evidence of durable capability transfer"
+    ],
+    "selection_rationale": "Mubadala is an active Strategic Actors record with a documented sovereign-capital channel but lacked a dedicated single-actor canonical study.",
+    "title": "Mubadala: sovereign investment, national capability and global portfolio discipline",
+    "deck": "Mubadala combines a US$385 billion global portfolio with an explicit UAE capability-building platform. Its structural role is strongest where sovereign capital carries direct contractual rights and where domestic investments create durable operating capacity.",
+    "tags": [
+      "Strategic Actors",
+      "Mubadala",
+      "UAE",
+      "Sovereign Capital",
+      "Private Markets"
+    ],
+    "keywords": [
+      "Mubadala",
+      "Abu Dhabi",
+      "sovereign investor",
+      "private equity",
+      "UAE Investments",
+      "national champions",
+      "infrastructure"
+    ],
+    "regime": "Sovereign capital combines global risk-adjusted investment with explicit domestic capability formation through a portfolio with substantial private-asset exposure.",
+    "key_risk": "State ownership can be overinterpreted as transaction-level political direction, while reported domestic impact can be mistaken for net additionality.",
+    "watch": [
+      "private-asset exits",
+      "UAE portfolio external revenue",
+      "private co-investment",
+      "domestic capability transfer",
+      "portfolio-company cash generation"
+    ],
+    "search_text": "Mubadala strategic actor Abu Dhabi UAE sovereign investment private equity national champions industrial capability",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-mubadala.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-mubadala/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:12:57Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "9279796777138224dd450b8daf73993a99da4856"
+  },
+  {
+    "id": "MT-SA-2026-09-23-PIF",
+    "slug": "2026-09-23-strategic-actor-pif",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T23:24:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 24,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        }
+      ]
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "technology-innovation"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "actor_id": "pif",
+    "assessment_confidence": "high-on-mandate-scale-and-governance-medium-on-economy-wide-additionality",
+    "key_constraints": [
+      "project economics",
+      "execution capacity",
+      "oil-linked fiscal conditions",
+      "private-sector absorption",
+      "funding cost and asset valuations"
+    ],
+    "selection_rationale": "PIF is an active Strategic Actors record with a documented sovereign-development channel but lacked a dedicated single-actor canonical study.",
+    "title": "PIF: sovereign capital as a bridge between Saudi public wealth and domestic productive capacity",
+    "deck": "PIF's stated mandate combines financial returns with Saudi economic transformation. Its structural relevance comes from the ability to finance and coordinate long-duration domestic investment; the key uncertainty is whether that capital produces durable additional private capacity.",
+    "tags": [
+      "Strategic Actors",
+      "PIF",
+      "Saudi Arabia",
+      "Sovereign Capital",
+      "Industrial Policy"
+    ],
+    "keywords": [
+      "Public Investment Fund",
+      "Saudi Arabia",
+      "sovereign wealth",
+      "Vision 2030",
+      "domestic investment",
+      "productive capacity",
+      "private co-investment"
+    ],
+    "regime": "Sovereign capital is being reorganized around three portfolios with greater emphasis on domestic ecosystems, capital efficiency and private-sector participation.",
+    "key_risk": "Large public investment can be mistaken for durable productive additionality before project economics, utilization and private reinforcement are demonstrated.",
+    "watch": [
+      "private co-investment",
+      "portfolio-company cash generation",
+      "domestic project utilization",
+      "exports and third-party revenue",
+      "capital recycling and funding costs"
+    ],
+    "search_text": "PIF strategic actor Saudi Arabia sovereign capital domestic investment productive capacity Vision Portfolio economic transformation",
+    "url": "/reports/2026/09/2026-09-23-strategic-actor-pif.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-strategic-actor-pif/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T03:11:59Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "c0cd8ac499346449b2ea13e6fcf36fd7a104c628"
+  },
+  {
     "id": "MT-SA-2026-09-23-NBIM-GPFG",
     "slug": "2026-09-23-strategic-actor-nbim-gpfg",
     "date": "2026-09-23",

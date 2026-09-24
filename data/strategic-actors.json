@@ -255,10 +255,12 @@
         "en": "The mandate is broad, but individual project outcomes, additionality and economy-wide transmission must be assessed separately.",
         "pt-BR": "O mandato é amplo, mas resultados de projetos individuais, adicionalidade e transmissão para toda a economia precisam ser avaliados separadamente."
       },
-      "last_verified": "2026-09-19",
+      "last_verified": "2026-09-23",
       "research_ids": [
-        "MT-SA-2026-09-19-sovereign-capital"
-      ]
+        "MT-SA-2026-09-19-sovereign-capital",
+        "MT-SA-2026-09-23-PIF"
+      ],
+      "canonical_research_id": "MT-SA-2026-09-23-PIF"
     },
     {
       "id": "mubadala",
@@ -281,10 +283,12 @@
         "en": "Sovereign ownership does not by itself prove that every investment is a geopolitical or industrial-policy action; the mechanism must be established transaction by transaction.",
         "pt-BR": "A propriedade soberana, por si só, não prova que todo investimento seja uma ação geopolítica ou de política industrial; o mecanismo precisa ser estabelecido operação por operação."
       },
-      "last_verified": "2026-09-19",
+      "last_verified": "2026-09-23",
       "research_ids": [
-        "MT-SA-2026-09-19-sovereign-capital"
-      ]
+        "MT-SA-2026-09-19-sovereign-capital",
+        "MT-SA-2026-09-23-MUBADALA"
+      ],
+      "canonical_research_id": "MT-SA-2026-09-23-MUBADALA"
     },
     {
       "id": "temasek",
@@ -585,9 +589,10 @@
       "substitutability": "low",
       "confidence": "high",
       "horizon": "1-5y",
-      "last_verified": "2026-09-19",
+      "last_verified": "2026-09-23",
       "research_ids": [
-        "MT-SA-2026-09-19-sovereign-capital"
+        "MT-SA-2026-09-19-sovereign-capital",
+        "MT-SA-2026-09-23-PIF"
       ],
       "mechanism": {
         "en": "PIF's official mandate combines financial returns with Saudi economic transformation, allowing sovereign capital to finance domestic projects, companies and sectors at a scale difficult for a single private investor to replicate.",
@@ -603,9 +608,10 @@
       "substitutability": "medium",
       "confidence": "high",
       "horizon": "1-5y",
-      "last_verified": "2026-09-19",
+      "last_verified": "2026-09-23",
       "research_ids": [
-        "MT-SA-2026-09-19-sovereign-capital"
+        "MT-SA-2026-09-19-sovereign-capital",
+        "MT-SA-2026-09-23-MUBADALA"
       ],
       "mechanism": {
         "en": "Mubadala combines a large global portfolio with long-term investment in sectors tied to the UAE economy, creating a channel from sovereign balance-sheet capacity to domestic productive assets and capabilities.",
