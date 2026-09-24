@@ -11,21 +11,21 @@ O mecanismo não deve ser exagerado. Um mandato soberano não prova que todo inv
 
 ## O mandato liga diretamente o fundo à transformação econômica
 
-Em abril de 2026, o conselho do PIF aprovou a estratégia 2026–2030. Os investimentos passam a ser organizados em **Vision Portfolio, Strategic Portfolio e Financial Portfolio**. Segundo o PIF, o Vision Portfolio desenvolverá seis ecossistemas domésticos e o mandato geral permanece combinar transformação econômica saudita e retornos financeiros sustentáveis. [PIF — estratégia 2026–2030](https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/chaired-by-hrh-crown-prince-pif-board-of-directors-approves-pif-2026-2030-strategy/)
+Em abril de 2026, o conselho do PIF aprovou a estratégia 2026–2030. Os investimentos passam a ser organizados em **Portfólio Vision (Vision Portfolio), Portfólio Estratégico (Strategic Portfolio) e Portfólio Financeiro (Financial Portfolio)**. Segundo o PIF, o Portfólio Vision desenvolverá seis ecossistemas domésticos e o mandato geral permanece combinar transformação econômica saudita e retornos financeiros sustentáveis. [PIF — estratégia 2026–2030](https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/chaired-by-hrh-crown-prince-pif-board-of-directors-approves-pif-2026-2030-strategy/)
 
-A governança também é formalmente pública. O PIF informa que responde ao Council of Economic and Development Affairs, possui personalidade jurídica pública e independência financeira e administrativa, sob supervisão do Board of Directors. As políticas de investimento definem ativos permitidos, metas, KPIs e tolerância a risco para os portfólios. [PIF — Governance and Investment Decisions](https://annualreport.pif.gov.sa/en/our-investments/governance-and-investment-decisions/)
+A governança também é formalmente pública. O PIF informa que responde ao Conselho de Assuntos Econômicos e de Desenvolvimento, possui personalidade jurídica pública e independência financeira e administrativa, sob supervisão do Conselho de Administração. As políticas de investimento definem ativos permitidos, metas, indicadores-chave de desempenho e tolerância a risco para os portfólios. [PIF — Governance and Investment Decisions](https://annualreport.pif.gov.sa/en/our-investments/governance-and-investment-decisions/)
 
 | Elemento | Papel documentado | Transmissão | Limite analítico |
 |---|---|---|---|
 | Mandato público | transformação econômica e retorno sustentável | permite combinar objetivos de carteira e desenvolvimento doméstico | o mandato não comprova adicionalidade de cada projeto |
-| Vision Portfolio | seis ecossistemas domésticos | conecta empresas, projetos, fornecedores e parceiros privados | a existência do ecossistema não prova competitividade |
-| Strategic Portfolio | ativos e setores estratégicos | pode preservar ou construir capacidades de longo prazo | rótulo estratégico não é evidência de baixa substituibilidade |
-| Financial Portfolio | investimentos financeiros | fornece retorno, liquidez e diversificação | exposição financeira difere de controle produtivo doméstico |
-| Conselho e governança | políticas, metas, KPIs e tolerância a risco | converte propriedade pública em decisões institucionais de investimento | cada operação ainda exige evidência própria |
+| Portfólio Vision | seis ecossistemas domésticos | conecta empresas, projetos, fornecedores e parceiros privados | a existência do ecossistema não prova competitividade |
+| Portfólio Estratégico | ativos e setores estratégicos | pode preservar ou construir capacidades de longo prazo | rótulo estratégico não é evidência de baixa substituibilidade |
+| Portfólio Financeiro | investimentos financeiros | fornece retorno, liquidez e diversificação | exposição financeira difere de controle produtivo doméstico |
+| Conselho e governança | políticas, metas, indicadores-chave de desempenho e tolerância a risco | converte propriedade pública em decisões institucionais de investimento | cada operação ainda exige evidência própria |
 
 ## A escala cresceu rapidamente, mas escala é insumo, não resultado
 
-O PIF informou **mais de US$ 900 bilhões em AUM em 2025**, ante aproximadamente US$ 530 bilhões em 2021 e US$ 150 bilhões em 2015. Também registrou mais de US$ 199 bilhões em investimentos domésticos acumulados de 2021 a 2025. [PIF — resultados de 2025](https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-delivers-strong-revenue-and-profit-growth-in-2025/)
+O PIF informou **mais de US$ 900 bilhões em ativos sob gestão (AUM) em 2025**, ante aproximadamente US$ 530 bilhões em 2021 e US$ 150 bilhões em 2015. Também registrou mais de US$ 199 bilhões em investimentos domésticos acumulados de 2021 a 2025. [PIF — resultados de 2025](https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-delivers-strong-revenue-and-profit-growth-in-2025/)
 
 ```chart
 type: line
@@ -36,7 +36,7 @@ unit: US$ bilhões
 2025 limite inferior | 900
 ```
 
-O ponto de 2025 é um limite inferior, pois o PIF informa AUM superior a US$ 900 bilhões. A série mede a expansão do balanço disponível para investimento; não mede produtividade, renda criada ou retorno dos projetos.
+O ponto de 2025 é um limite inferior, pois o PIF informa ativos sob gestão superiores a US$ 900 bilhões. A série mede a expansão do balanço disponível para investimento; não mede produtividade, renda criada ou retorno dos projetos.
 
 ## A transmissão doméstica passa por ativos, empresas e demanda
 
@@ -100,7 +100,7 @@ O PIF consegue absorver ciclos longos de construção e coordenar ativos dentro 
 
 O PIF é um ator estratégico porque mandato, escala e modelo operacional conectam capital soberano diretamente à formação de empresas e ao investimento produtivo doméstico. As evidências mais fortes mostram **capacidade de mobilizar capital e coordenar investimentos de longa duração**. O elo menos certo é a adicionalidade: quanto desse investimento se torna competitivo, reforçado por capital privado e financeiramente durável.
 
-O monitoramento deve ir além do AUM. As variáveis centrais são investimento doméstico realizado, participação privada, utilização dos projetos, geração de caixa das empresas, exportações, reciclagem de capital, custo de financiamento e o grau em que os seis ecossistemas passam a operar como redes comerciais, e não apenas administrativas.
+O monitoramento deve ir além dos ativos sob gestão. As variáveis centrais são investimento doméstico realizado, participação privada, utilização dos projetos, geração de caixa das empresas, exportações, reciclagem de capital, custo de financiamento e o grau em que os seis ecossistemas passam a operar como redes comerciais, e não apenas administrativas.
 
 ## Fontes principais
 

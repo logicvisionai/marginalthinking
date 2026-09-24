@@ -17,12 +17,12 @@ Como a Temasek possui os ativos, em vez de administrá-los em nome de clientes e
 |---|---|---|
 | Governo → Temasek | acionista único por meio do Ministro das Finanças | direção de investimentos individuais |
 | Temasek → ativos | propriedade direta do portfólio | propriedade governamental direta de cada investida |
-| Temasek → empresas | engagement e direitos decorrentes da condição de acionista | controle operacional cotidiano |
+| Temasek → empresas | diálogo com empresas e direitos decorrentes da condição de acionista | controle operacional cotidiano |
 | Presidente → reservas passadas | salvaguarda constitucional contra redução das reservas protegidas | aprovação rotineira de investimentos |
 
 ## O portfólio atingiu S$ 518 bilhões a valor de mercado
 
-Em 31 de março de 2026, a Temasek informou **Net Portfolio Value de S$ 518 bilhões**, aumento de S$ 49 bilhões em um ano. No exercício, investiu S$ 51 bilhões e desinvestiu S$ 31 bilhões, produzindo investimento líquido de S$ 20 bilhões. O retorno total ao acionista foi informado em 7,1% ao ano em dez anos e 6,8% em vinte anos na base atual. [Temasek — Portfolio Performance](https://www.temasek.com.sg/en/our-financials/portfolio-performance)
+Em 31 de março de 2026, a Temasek informou **valor líquido do portfólio de S$ 518 bilhões**, aumento de S$ 49 bilhões em um ano. No exercício, investiu S$ 51 bilhões e desinvestiu S$ 31 bilhões, produzindo investimento líquido de S$ 20 bilhões. O retorno total ao acionista foi informado em 7,1% ao ano em dez anos e 6,8% em vinte anos na base atual. [Temasek — Portfolio Performance](https://www.temasek.com.sg/en/our-financials/portfolio-performance)
 
 ```chart
 type: bar
@@ -37,10 +37,10 @@ O gráfico mede fluxos anuais, não o estoque de S$ 518 bilhões. Separar estoqu
 
 ## A relação com o Estado é institucional, não transação por transação
 
-A Temasek é uma entidade do Fifth Schedule e possui responsabilidades constitucionais na proteção das reservas passadas. O Governo, como acionista, participa da estrutura de nomeação do conselho dentro dessas salvaguardas, mas a empresa afirma que o Governo não dirige decisões de investimento, desinvestimento ou negócios. Assim, propriedade pública define a instituição, enquanto a alocação do portfólio permanece responsabilidade de governança corporativa.
+A Temasek é uma entidade incluída no Anexo Quinto (Fifth Schedule) e possui responsabilidades constitucionais na proteção das reservas passadas. O Governo, como acionista, participa da estrutura de nomeação do conselho dentro dessas salvaguardas, mas a empresa afirma que o Governo não dirige decisões de investimento, desinvestimento ou negócios. Assim, propriedade pública define a instituição, enquanto a alocação do portfólio permanece responsabilidade de governança corporativa.
 
 ```flow
-Governo de Singapura como acionista único → governança pelo Board da Temasek → decisões de investimento → propriedade direta de ativos listados e privados → direitos de acionista e retornos financeiros
+Governo de Singapura como acionista único → governança pelo Conselho de Administração da Temasek → decisões de investimento → propriedade direta de ativos listados e privados → direitos de acionista e retornos financeiros
 Proteção constitucional das reservas passadas → restrições à redução do valor protegido → disciplina de balanço de longo prazo
 ```
 
@@ -60,7 +60,7 @@ Canais estruturais da Temasek
 - Governança
   - voto acionário
   - nomeações quando os direitos permitem
-  - engagement
+  - diálogo com empresas
 - Arquitetura pública
   - acionista único: Ministro das Finanças
   - proteção das reservas passadas

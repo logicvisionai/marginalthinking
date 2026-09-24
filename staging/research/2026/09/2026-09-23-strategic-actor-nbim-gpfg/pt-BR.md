@@ -7,7 +7,7 @@
 
 O Government Pension Fund Global (GPFG) da Noruega, administrado operacionalmente pela Norges Bank Investment Management (NBIM), combina uma reserva pública excepcionalmente grande com propriedade acionária distribuída pelo mundo. Sua relevância estrutural não decorre da ideia de que a Noruega 'controla' milhares de empresas. O mecanismo é mais específico: riqueza pública originada da renda petrolífera é transferida para um fundo regido por regras, investida globalmente sob mandato formal e acompanhada por direitos acionários recorrentes em uma carteira muito extensa.
 
-A cadeia institucional é clara. O Storting define o marco legal; o Ministério das Finanças tem a responsabilidade formal e emite o mandato de gestão; o Norges Bank recebe a responsabilidade de administrar; e seu Executive Board delega a gestão cotidiana à NBIM. Essa separação é central porque o Estado é o proprietário público do fundo, enquanto as decisões operacionais de investimento são institucionalmente delegadas. [NBIM — estrutura de governança](https://www.nbim.no/en/about-us/about-the-fund/governance-structure/)
+A cadeia institucional é clara. O Storting define o marco legal; o Ministério das Finanças tem a responsabilidade formal e emite o mandato de gestão; o Norges Bank recebe a responsabilidade de administrar; e seu Conselho Executivo delega a gestão cotidiana à NBIM. Essa separação é central porque o Estado é o proprietário público do fundo, enquanto as decisões operacionais de investimento são institucionalmente delegadas. [NBIM — estrutura de governança](https://www.nbim.no/en/about-us/about-the-fund/governance-structure/)
 
 ## A escala é persistente porque o horizonte é longo
 
@@ -30,16 +30,16 @@ A série mede valor do fundo, não influência. Retornos de mercado e câmbio po
 | Camada | Autoridade ou ativo | Canal estrutural | Limite |
 |---|---|---|---|
 | Storting | marco legal do GPFG | define a instituição pública e seu propósito de alto nível | não executa operações individuais |
-| Ministério das Finanças | responsabilidade formal e mandato | estabelece regras, benchmark e risco permitido | a gestão operacional é delegada |
+| Ministério das Finanças | responsabilidade formal e mandato | estabelece regras, índice de referência e risco permitido | a gestão operacional é delegada |
 | Executive Board do Norges Bank | responsabilidade no banco central | traduz o mandato em documentos de governança e supervisão | continua vinculado ao mandato ministerial |
-| NBIM | gestão operacional | investe, administra risco e exerce direitos de propriedade | discricionariedade limitada por mandato, benchmark, limites de risco e regras de propriedade |
+| NBIM | gestão operacional | investe, administra risco e exerce direitos de propriedade | discricionariedade limitada por mandato, índice de referência, limites de risco e regras de propriedade |
 | Empresas e emissores | ativos subjacentes | geram retorno e estão sujeitos a direitos ordinários de acionistas ou credores | participação minoritária não cria controle cotidiano |
 
 ## Direitos acionários são reais, mas juridicamente limitados
 
 No primeiro semestre de 2026, a NBIM informou ter votado em **6.899 assembleias e 75.757 resoluções**, além de realizar **2.058 reuniões com empresas**. Em 43% desses encontros foram abordados temas de governança corporativa ou sustentabilidade. [NBIM — relatório semestral 2026](https://www.nbim.no/en/news-and-insights/reports/2026/half-year-report-2026/web-report-half-year-report-2026/)
 
-Os números demonstram alcance operacional em governança, mas não comando empresarial. O voto decorre de direitos de acionista. Conselhos e administrações continuam responsáveis pelas operações. A própria diversificação do fundo altera os incentivos: propriedade minoritária persistente favorece preocupação com governança e funcionamento dos mercados no conjunto da carteira, enquanto mandato e benchmark restringem concentração de controle.
+Os números demonstram alcance operacional em governança, mas não comando empresarial. O voto decorre de direitos de acionista. Conselhos e administrações continuam responsáveis pelas operações. A própria diversificação do fundo altera os incentivos: propriedade minoritária persistente favorece preocupação com governança e funcionamento dos mercados no conjunto da carteira, enquanto mandato e índice de referência restringem concentração de controle.
 
 ```flow
 Receitas petrolíferas e transferências fiscais norueguesas → poupança pública no GPFG → mandato do Ministério das Finanças → gestão operacional Norges Bank / NBIM → títulos e ativos reais globais diversificados → retornos ao fundo
@@ -64,7 +64,7 @@ Arquitetura estrutural do GPFG / NBIM
 - Mandato
   - investimento global
   - risco aceitável
-  - benchmark e regras de ativos
+  - índice de referência e regras de ativos
 - Agência operacional
   - gestão de portfólio pela NBIM
   - gestão de risco
@@ -76,7 +76,7 @@ Arquitetura estrutural do GPFG / NBIM
 - Restrições
   - cadeia formal de delegação
   - participações minoritárias
-  - exposição ao benchmark
+  - exposição ao índice de referência
   - regras éticas e de propriedade
   - liquidez e avaliação de mercado
 ```

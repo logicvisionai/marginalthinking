@@ -9,20 +9,20 @@ A Mubadala ocupa uma posição híbrida entre instituição global de investimen
 
 ## A propriedade estatal é explícita; direção de cada transação não deve ser presumida
 
-A Mubadala pertence integralmente ao Governo de Abu Dhabi. Seu conselho revisa e aprova direção estratégica e planos de negócios em nome do acionista, enquanto autoridade executiva é delegada à administração e ao Investment Committee. [Mubadala — Board of Directors](https://www.mubadala.com/en/who-we-are/board-of-directors) [Mubadala — Investment Committee](https://www.mubadala.com/who-we-are/investment-committee)
+A Mubadala pertence integralmente ao Governo de Abu Dhabi. Seu conselho revisa e aprova direção estratégica e planos de negócios em nome do acionista, enquanto autoridade executiva é delegada à administração e ao Comitê de Investimentos. [Mubadala — Board of Directors](https://www.mubadala.com/en/who-we-are/board-of-directors) [Mubadala — Investment Committee](https://www.mubadala.com/who-we-are/investment-committee)
 
 Essa governança estabelece uma cadeia direta de propriedade pública. Não demonstra que toda operação do portfólio tenha objetivo geopolítico. Negócios específicos ainda exigem evidência sobre direitos, contrapartes, financiamento e objetivos documentados.
 
 | Canal | Mecanismo documentado | Efeito estrutural potencial | Limite |
 |---|---|---|---|
 | UAE Investments | constrói empresas nacionais e capacidades industriais | produção doméstica, emprego, infraestrutura e tecnologia | a contribuição precisa ser testada por durabilidade comercial e adicionalidade |
-| Private Equity | investimento direto e em parceria em empresas globais | direitos de propriedade, alocação de capital e acesso a redes operacionais | propriedade de portfólio não implica controle estatal das operações |
+| Participações privadas | investimento direto e em parceria em empresas globais | direitos de propriedade, alocação de capital e acesso a redes operacionais | propriedade de portfólio não implica controle estatal das operações |
 | Real Assets | imóveis e infraestrutura | propriedade de longo prazo de sistemas físicos | o direito é específico ao ativo e não deve ser generalizado para o setor inteiro |
-| Credit & Special Situations | financiamento em diferentes partes da estrutura de capital | pode afetar disponibilidade de funding e reestruturações | direitos de credor dependem de contrato e senioridade |
+| Crédito e situações especiais | financiamento em diferentes partes da estrutura de capital | pode afetar disponibilidade de financiamento e reestruturações | direitos de credor dependem de contrato e senioridade |
 
 ## O portfólio combina escala com participação elevada de ativos privados
 
-A Mubadala informou **AED 1,414 trilhão (US$ 385 bilhões) em AUM em 2025**, alta de 17% no ano. Foram AED 143 bilhões aplicados e AED 138 bilhões em recursos realizados. A composição por classe de ativos era 42% privados, 20% públicos, 17% imóveis e infraestrutura, 16% alternativas e 5% crédito. [Mubadala — resultados de 2025](https://www.mubadala.com/en/news/strong-performance-by-uae-portfolio-drives-mubadalas-growth-in-2025) [Mubadala — Performance Overview](https://annual2025.mubadala.com/en/performance-overview)
+A Mubadala informou **AED 1,414 trilhão (US$ 385 bilhões) em ativos sob gestão (AUM) em 2025**, alta de 17% no ano. Foram AED 143 bilhões aplicados e AED 138 bilhões em recursos realizados. A composição por classe de ativos era 42% privados, 20% públicos, 17% imóveis e infraestrutura, 16% alternativas e 5% crédito. [Mubadala — resultados de 2025](https://www.mubadala.com/en/news/strong-performance-by-uae-portfolio-drives-mubadalas-growth-in-2025) [Mubadala — Performance Overview](https://annual2025.mubadala.com/en/performance-overview)
 
 ```chart
 type: bar
@@ -35,7 +35,7 @@ Alternativos | 16
 Crédito | 5
 ```
 
-A composição não é uma escala de influência. A parcela elevada de ativos privados importa porque private equity, infraestrutura e propriedade direta podem carregar direitos contratuais e horizontes mais longos que títulos listados diversificados.
+A composição não é uma escala de influência. A parcela elevada de ativos privados importa porque participações privadas, infraestrutura e propriedade direta podem carregar direitos contratuais e horizontes mais longos que títulos listados diversificados.
 
 ## Capacidade doméstica é um canal diferente do retorno financeiro
 
@@ -58,7 +58,7 @@ Arquitetura estrutural da Mubadala
   - Governo de Abu Dhabi
   - supervisão do conselho
 - Investimento global
-  - private equity
+  - participações privadas
   - mercados públicos
   - crédito
   - ativos reais
