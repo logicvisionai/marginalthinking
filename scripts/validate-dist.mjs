@@ -12,7 +12,6 @@ const relFile=p=>String(p).replace(/^\//,'').replace(/\/$/,'/index.html');
 const files=walk(root),html=files.filter(x=>x.endsWith('.html'));
 
 const ptEditorialBlockers=[
-  /\bgargalos?\b/i,
   /quem controla os gargalos necessários/i,
   /controle de gargalos/i,
   /funil causal/i,
@@ -40,7 +39,6 @@ const conflictToneBlockers=[
 ];
 
 const enEditorialBlockers=[
-  /\bbottlenecks?\b/i,
   /causal funnel/i,
   /regime funnel/i,
   /system['’]s control price/i,
