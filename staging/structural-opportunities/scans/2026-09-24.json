@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-24",
+  "checked_at": "2026-09-24T00:15:00-03:00",
+  "candidate_ids": ["EU-PONTES-001"],
+  "coverage_summary": "Compared the canonical Atlas updated 2026-09-23 with recent Global Macro mechanisms and recent operational structural changes across monetary infrastructure, energy/logistics, market access, production and financing. The clearest discovery-stage delta is the Eurosystem Pontes launch: an announced DLT settlement bridge became operational on 21 September, with ECB evidence of initial onboarding and settlement availability. Staged EU-PONTES-001 as a medium-materiality leverageable-efficiency candidate from the perspective of wholesale tokenised-market participants. U.S. yield repricing and China's holiday liquidity operation were treated as cyclical market/policy conditions rather than Atlas structural signals; Gulf energy changes did not add a sufficiently new structural mechanism beyond the current canonical Atlas/context state."
+}
