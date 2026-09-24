@@ -1,0 +1,121 @@
+{
+  "id": "MT-GM-2026-09-24",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T02:09:49-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "east-asia",
+      "gulf",
+      "latin-america-caribbean"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "revision": 2,
+  "revision_reason": "Material overnight update to the existing same-day pending edition: official 23 September Treasury closes, the weak five-year auction transmission, the 24 September Japan 10-year JGB move to 3.055%, the 23 September oil settlement rebound and diesel-product stress materially sharpened the dominant mechanism from a generic growth-driven rate shock to a verified cross-border sovereign-duration shock.",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-24T05:37:36Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "4f1d07838ed117f313d28881809241c27be789b7",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Growth data turns the long end back into the dominant global shock",
+      "deck": "A strong U.S. activity surprise and weak Treasury auction pushed the 10-year above 5.1%, transmitted into Japanese bonds and restored sovereign duration as the main cross-asset tightening channel while oil risk rebounded.",
+      "tags": [
+        "global macro",
+        "Treasuries",
+        "rates",
+        "Japan",
+        "oil",
+        "markets"
+      ],
+      "keywords": [
+        "U.S. PMI",
+        "Treasury yields",
+        "JGB",
+        "dollar",
+        "Brent",
+        "diesel",
+        "Trump Xi summit"
+      ],
+      "regime": "Resilient nominal growth is colliding with a renewed global sovereign-duration shock and incomplete energy normalization.",
+      "key_risk": "Long sovereign yields remain above recent peaks while crude or refined-product inflation reaccelerates.",
+      "watch": [
+        "U.S. 10-year and 30-year yields around Treasury auctions",
+        "U.S. activity and inflation confirmation",
+        "USD/JPY and Japan 10-year JGB yield",
+        "Brent versus diesel refining margins",
+        "implemented outcomes from the Trump-Xi summit"
+      ],
+      "search_text": "Global Macro September 24 2026 US PMI 58.4 Treasury 10-year 5.11 Japan JGB 3.055 Brent diesel Trump Xi"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Surpresa de crescimento devolve ao juro longo o papel de principal choque global",
+      "deck": "Surpresa forte de atividade nos EUA e leilão fraco de Treasuries levaram o juro de 10 anos acima de 5,1%, transmitiram pressão aos títulos japoneses e recolocaram a duração soberana como principal canal de aperto entre ativos, enquanto o risco do petróleo voltou a subir.",
+      "tags": [
+        "macro global",
+        "Treasuries",
+        "juros",
+        "Japão",
+        "petróleo",
+        "mercados"
+      ],
+      "keywords": [
+        "PMI dos EUA",
+        "juros dos Treasuries",
+        "JGB",
+        "dólar",
+        "Brent",
+        "diesel",
+        "cúpula Trump Xi"
+      ],
+      "regime": "Crescimento nominal resiliente colide com novo choque global de juros soberanos longos e normalização energética incompleta.",
+      "key_risk": "Juros soberanos longos permanecem acima dos picos recentes enquanto a inflação de petróleo ou derivados reacelera.",
+      "watch": [
+        "Treasuries de 10 e 30 anos nos próximos leilões",
+        "confirmação nos dados de atividade e inflação dos EUA",
+        "USD/JPY e JGB japonês de 10 anos",
+        "Brent versus margens de refino de diesel",
+        "resultados implementados da cúpula Trump-Xi"
+      ],
+      "search_text": "Global Macro 24 setembro 2026 PMI EUA 58,4 Treasury 10 anos 5,11 Japão JGB 3,055 Brent diesel Trump Xi"
+    }
+  }
+}

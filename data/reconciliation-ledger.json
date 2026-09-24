@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-24T03:18:42Z",
+  "last_reconciled_at": "2026-09-24T11:08:00Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -648,6 +648,81 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Technology investment appears within broader sovereign-capital portfolios but no standalone capability-stage change is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-global-macro-publication",
+      "reconciled_at": "2026-09-24T11:08:00Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22",
+        "MT-GM-2026-09-24"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The report changes the near-term sovereign-duration transmission assessment but does not establish a new durable canonical dependency edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The publication is a daily macro briefing, not a structural opportunity thesis."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Named institutions and governments are transmission channels in the briefing, not new or revised canonical Strategic Actors records."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Energy logistics and refined-product stress are material to the macro mechanism, but the report does not establish a new controller-level resource record."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The publication is a current daily macro briefing, not a bounded historical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Geopolitical and Gulf-risk channels are assessed, but no verified structural conflict-system state change requiring canonical dataset modification is established."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "The publication does not establish a technology capability-stage signal."
         }
       ]
     }

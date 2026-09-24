@@ -1,5 +1,91 @@
 [
   {
+    "id": "MT-GM-2026-09-24",
+    "slug": "2026-09-24-global-macro",
+    "date": "2026-09-24",
+    "published_at": "2026-09-24T02:09:49-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia",
+        "gulf",
+        "latin-america-caribbean"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 2,
+    "title": "Global Macro — Growth data turns the long end back into the dominant global shock",
+    "deck": "A strong U.S. activity surprise and weak Treasury auction pushed the 10-year above 5.1%, transmitted into Japanese bonds and restored sovereign duration as the main cross-asset tightening channel while oil risk rebounded.",
+    "tags": [
+      "global macro",
+      "Treasuries",
+      "rates",
+      "Japan",
+      "oil",
+      "markets"
+    ],
+    "keywords": [
+      "U.S. PMI",
+      "Treasury yields",
+      "JGB",
+      "dollar",
+      "Brent",
+      "diesel",
+      "Trump Xi summit"
+    ],
+    "regime": "Resilient nominal growth is colliding with a renewed global sovereign-duration shock and incomplete energy normalization.",
+    "key_risk": "Long sovereign yields remain above recent peaks while crude or refined-product inflation reaccelerates.",
+    "watch": [
+      "U.S. 10-year and 30-year yields around Treasury auctions",
+      "U.S. activity and inflation confirmation",
+      "USD/JPY and Japan 10-year JGB yield",
+      "Brent versus diesel refining margins",
+      "implemented outcomes from the Trump-Xi summit"
+    ],
+    "search_text": "Global Macro September 24 2026 US PMI 58.4 Treasury 10-year 5.11 Japan JGB 3.055 Brent diesel Trump Xi",
+    "url": "/reports/2026/09/2026-09-24-global-macro.html",
+    "markdown_url": "/reports/2026/09/2026-09-24-global-macro/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-24T05:37:36Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "4f1d07838ed117f313d28881809241c27be789b7"
+  },
+  {
     "id": "MT-SA-2026-09-23-MUBADALA",
     "slug": "2026-09-23-strategic-actor-mubadala",
     "date": "2026-09-23",
