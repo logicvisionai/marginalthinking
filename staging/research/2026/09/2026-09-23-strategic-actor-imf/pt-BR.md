@@ -43,7 +43,7 @@ Quotas não são apenas aportes de capital. Elas ajudam a determinar quanto o me
 Um país com falta de moeda estrangeira pode precisar comprimir importações, reduzir reservas, reestruturar passivos, buscar crédito bilateral ou apertar políticas rapidamente. O financiamento do FMI pode fornecer tempo e divisas enquanto um programa de ajuste é implementado.
 
 ```flow
-Choque de financiamento externo → pressão sobre reservas / balanço de pagamentos → membro solicita apoio → avaliação técnica e negociação → aprovação pelo Executive Board → desembolsos em etapas → liquidez externa mais implementação das ações acordadas
+Choque de financiamento externo → pressão sobre reservas / balanço de pagamentos → membro solicita apoio → avaliação técnica e negociação → aprovação pelo Conselho Executivo → desembolsos em etapas → liquidez externa mais implementação das ações acordadas
 Revisão do programa → evidências sobre metas e ações → continuidade, modificação ou atraso do desembolso → trajetória de financiamento alterada
 ```
 
@@ -51,7 +51,7 @@ A sequência importa. O crédito do FMI não elimina automaticamente o desequil�
 
 ## A governança distribui autoridade entre membros sem eliminar assimetrias
 
-O Board of Governors é o órgão máximo, com um governador e um suplente de cada membro. O Executive Board conduz os negócios cotidianos e atualmente possui **25 diretores executivos**, eleitos por países ou grupos, com o Managing Director como presidente. [FMI — Executive Directors and Voting Power](https://www.imf.org/en/about/executive-board/eds-voting-power)
+O Conselho de Governadores é o órgão máximo, com um governador e um suplente de cada membro. O Conselho Executivo conduz os negócios cotidianos e atualmente possui **25 diretores executivos**, eleitos por países ou grupos, com o Diretor-Geral como presidente. [FMI — Executive Directors and Voting Power](https://www.imf.org/en/about/executive-board/eds-voting-power)
 
 O voto depende de quotas e votos básicos. Em 23 de setembro de 2026, o FMI registrava 16,49% dos votos para os Estados Unidos, 6,14% para o Japão e 6,08% para a China. Esses números descrevem poder formal de voto; isoladamente, não estabelecem o resultado de uma decisão específica nem uma coalizão informal. [FMI — Executive Directors and Voting Power](https://www.imf.org/en/about/executive-board/eds-voting-power)
 
@@ -72,8 +72,8 @@ Canais estruturais do FMI
   - supervisão
   - desenvolvimento de capacidade
 - Governança
-  - Board of Governors
-  - Executive Board
+  - Conselho de Governadores
+  - Conselho Executivo
   - votos ligados às quotas
 - Restrições
   - consentimento e implementação dos membros

@@ -5,7 +5,7 @@
 **Edição:** 23 de setembro de 2026  
 **Corte de informação:** 23 de setembro de 2026
 
-O Eurosistema é estruturalmente relevante porque centraliza decisões de política monetária da área do euro enquanto as implementa por meio do Banco Central Europeu (BCE) e dos bancos centrais nacionais dos países que usam o euro. Sua capacidade vai além das taxas de juros: reservas, regras de colateral e TARGET Services conectam autoridade monetária a funding bancário, pagamentos de grande valor, liquidação de títulos, pagamentos instantâneos e, desde setembro de 2026, a uma ponte operacional para liquidação atacadista tokenizada.
+O Eurosistema é estruturalmente relevante porque centraliza decisões de política monetária da área do euro enquanto as implementa por meio do Banco Central Europeu (BCE) e dos bancos centrais nacionais dos países que usam o euro. Sua capacidade vai além das taxas de juros: reservas, regras de colateral e TARGET Services conectam autoridade monetária ao financiamento bancário, pagamentos de grande valor, liquidação de títulos, pagamentos instantâneos e, desde setembro de 2026, a uma ponte operacional para liquidação atacadista tokenizada.
 
 O Eurosistema não é igual ao Sistema Europeu de Bancos Centrais (SEBC), que também inclui os bancos centrais de países da UE fora da área do euro. O Eurosistema compreende especificamente o BCE e os bancos centrais nacionais dos países que adotaram o euro. [BCE — ECB, ESCB and the Eurosystem](https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html)
 
@@ -17,7 +17,7 @@ Em 10 de setembro de 2026, o Conselho elevou as três taxas em 25 pontos-base. A
 
 | Instrumento ou camada | Autoridade/capacidade | Transmissão | Limite |
 |---|---|---|---|
-| Facilidade de depósito | Conselho define juros sobre depósitos overnight | ancora condições do mercado monetário em euro | não define diretamente cada empréstimo bancário ou yield |
+| Facilidade de depósito | Conselho define juros sobre depósitos de um dia para o outro | ancora condições do mercado monetário em euro | não define diretamente cada empréstimo bancário ou rendimento de título |
 | Operações de refinanciamento | Eurosistema empresta contra colateral elegível | fornece liquidez de banco central aos bancos | acesso depende de contrapartes, colateral e regras operacionais |
 | Carteiras de ativos | Eurosistema mantém títulos adquiridos por programas monetários | afeta oferta de reservas e duração de mercado | alocação fiscal e crédito privado continuam separados |
 | T2 | liquida pagamentos de grande valor em moeda de banco central | sustenta finalidade de pagamentos atacadistas e movimentação de liquidez | infraestrutura não determina a transação comercial subjacente |
@@ -44,8 +44,8 @@ O gráfico mede atividade de liquidação, não intensidade da política monetá
 Uma única política opera sobre sistemas bancários com balanços, mercados soberanos e estruturas de crédito diferentes. O Conselho define taxas comuns, mas força e velocidade da transmissão para famílias e empresas variam entre países.
 
 ```flow
-Decisão do Conselho → taxas comuns e condições de reservas em euro → funding bancário e yields → transmissão pelos sistemas bancários e mercados nacionais → empresas e famílias → gasto, investimento e inflação
-Colateral elegível → operação de refinanciamento do Eurosistema → reservas de banco central → capacidade de pagamento e funding → transações interbancárias e de clientes
+Decisão do Conselho → taxas comuns e condições de reservas em euro → financiamento bancário e rendimentos de títulos → transmissão pelos sistemas bancários e mercados nacionais → empresas e famílias → gasto, investimento e inflação
+Colateral elegível → operação de refinanciamento do Eurosistema → reservas de banco central → capacidade de pagamento e financiamento → transações interbancárias e de clientes
 ```
 
 É por isso que a transmissão homogênea faz parte da arquitetura monetária. Uma taxa comum não garante custos de financiamento idênticos, e diferenças de risco soberano, capital bancário ou colateral podem gerar fragmentação.

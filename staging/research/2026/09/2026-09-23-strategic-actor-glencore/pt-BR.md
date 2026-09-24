@@ -5,9 +5,9 @@
 **Edição:** 23 de setembro de 2026  
 **Corte de informação:** 23 de setembro de 2026
 
-A relevância estrutural da Glencore difere da de um trader puro porque o grupo combina produção industrial própria ou controlada com um negócio separado de marketing. Essa integração coloca a empresa dos dois lados de uma distinção essencial: decisões operacionais e de investimento em minas e ativos industriais podem alterar oferta física própria, enquanto a rede comercial movimenta commodities produzidas tanto pela Glencore quanto por terceiros.
+A relevância estrutural da Glencore difere da de um intermediário comercial puro porque o grupo combina produção industrial própria ou controlada com um negócio separado de comercialização. Essa integração coloca a empresa dos dois lados de uma distinção essencial: decisões operacionais e de investimento em minas e ativos industriais podem alterar oferta física própria, enquanto a rede comercial movimenta commodities produzidas tanto pela Glencore quanto por terceiros.
 
-O mecanismo continua limitado. Produção elevada não equivale a controle de um mercado global, e marketing não transforma material de terceiros em reservas próprias. A análise precisa identificar em qual material, ativo e etapa de processamento a concentração é suficiente para que decisões da Glencore alterem materialmente a oferta disponível em determinado horizonte.
+O mecanismo continua limitado. Produção elevada não equivale a controle de um mercado global, e comercialização não transforma material de terceiros em reservas próprias. A análise precisa identificar em qual material, ativo e etapa de processamento a concentração é suficiente para que decisões da Glencore alterem materialmente a oferta disponível em determinado horizonte.
 
 ## Produção própria estabelece um canal físico direto
 
@@ -28,18 +28,18 @@ As barras comparam produção física na mesma unidade, não valor econômico ou
 | Canal | Propriedade ou direito | Transmissão | Limite |
 |---|---|---|---|
 | Propriedade/controle de minas e ativos | direitos operacionais e de alocação de capital | afeta produção, manutenção, expansão, fechamento e mix | outros produtores e substitutos limitam controle do mercado inteiro |
-| Marketing | relações comerciais com produtores e clientes | conecta material a processadores e usuários finais | volumes de terceiros não são reservas próprias |
+| Comercialização | relações comerciais com produtores e clientes | conecta material a processadores e usuários finais | volumes de terceiros não são reservas próprias |
 | Logística e estoques | armazenagem, frete e gestão de inventário | altera momento e localização da disponibilidade | depende de rotas, infraestrutura e financiamento |
 | Processamento | participação em determinadas plantas e ativos industriais | pode afetar conversão de material extraído em produtos intermediários | a posição varia muito por commodity e geografia |
 
 ## A integração muda a opcionalidade
 
-Um produtor-trader pode reagir a mercados de formas que um proprietário financeiro passivo não consegue. Planos de produção podem ser ajustados, estoques mantidos ou liberados, produtos misturados e oferta de terceiros comercializada pela mesma rede de clientes. Isso aumenta flexibilidade, mas também cria restrições operacionais e jurisdicionais.
+Um produtor integrado à comercialização pode reagir a mercados de formas que um proprietário financeiro passivo não consegue. Planos de produção podem ser ajustados, estoques mantidos ou liberados, produtos misturados e oferta de terceiros comercializada pela mesma rede de clientes. Isso aumenta flexibilidade, mas também cria restrições operacionais e jurisdicionais.
 
 ```flow
-Recurso geológico → mina operada ou controlada pela Glencore → concentrado / commodity → marketing e logística da Glencore → processador / cliente industrial → produção downstream
+Recurso geológico → mina operada ou controlada pela Glencore → concentrado / commodity → comercialização e logística da Glencore → processador / cliente industrial → produção nas etapas posteriores da cadeia
 Produtor terceiro → marketing da Glencore → logística / financiamento / rede de clientes → comprador industrial
-Licença, regra de exportação ou interrupção operacional → restrição de oferta no ativo → marketing adapta os fluxos disponíveis → mudança no prazo, localização ou quantidade entregue
+Licença, regra de exportação ou interrupção operacional → restrição de oferta no ativo → a rede comercial adapta os fluxos disponíveis → mudança no prazo, localização ou quantidade entregue
 ```
 
 As duas cadeias não devem ser confundidas. A primeira contém direitos diretos de produção. A segunda é intermediação comercial.
@@ -63,7 +63,7 @@ Canais estruturais da Glencore
   - cobalto
   - carvão
 - Rede comercial
-  - marketing
+  - comercialização
   - clientes
   - estoques
   - frete
@@ -90,18 +90,18 @@ No primeiro semestre de 2026, a orientação de cobre permaneceu em 810–870 mi
 
 ## Integração fortalece resiliência, mas concentra riscos operacionais
 
-Produção e marketing dentro do mesmo grupo dão várias formas de responder a um choque. Uma falta em um ativo pode, em alguns casos, ser compensada com material de terceiros; a rede comercial pode redirecionar produção para outros clientes. Ao mesmo tempo, o modelo expõe o grupo a falhas de minas, mudanças regulatórias, ciclos de preços, capital de giro e riscos políticos de jurisdições específicas.
+Produção e comercialização dentro do mesmo grupo dão várias formas de responder a um choque. Uma falta em um ativo pode, em alguns casos, ser compensada com material de terceiros; a rede comercial pode redirecionar produção para outros clientes. Ao mesmo tempo, o modelo expõe o grupo a falhas de minas, mudanças regulatórias, ciclos de preços, capital de giro e riscos políticos de jurisdições específicas.
 
 | Evidência que fortaleceria a avaliação | Evidência que a enfraqueceria |
 |---|---|
 | expansão de minas ou processamento difíceis de substituir | queda persistente de produção relevante enquanto concorrentes escalam |
-| maior integração entre produção, processamento e marketing em cadeias restritas | desinvestimentos que reduzem direitos operacionais sem substitutos equivalentes |
-| capacidade de manter oferta a clientes durante interrupções documentadas | clientes mudam rapidamente para produtores e traders alternativos |
+| maior integração entre produção, processamento e comercialização em cadeias restritas | desinvestimentos que reduzem direitos operacionais sem substitutos equivalentes |
+| capacidade de manter oferta a clientes durante interrupções documentadas | clientes mudam rapidamente para produtores e intermediários alternativos |
 | escassez persistente em commodities onde a Glencore possui produção material | substituição, reciclagem ou nova oferta reduzindo dependência |
 
 ## Avaliação
 
-A Glencore é um ator estratégico porque **direitos diretos de produção e intermediação comercial coexistem na mesma organização**. Isso cria um canal físico mais direto que marketing isolado: decisões de investimento, manutenção e operação mudam oferta própria antes de a rede comercial redistribuí-la entre clientes.
+A Glencore é um ator estratégico porque **direitos diretos de produção e intermediação comercial coexistem na mesma organização**. Isso cria um canal físico mais direto que a comercialização isolada: decisões de investimento, manutenção e operação mudam oferta própria antes de a rede comercial redistribuí-la entre clientes.
 
 A conclusão deve permanecer específica por commodity e ativo. A Glencore não controla os mercados globais de cobre, zinco, níquel, cobalto ou carvão como um todo. Sua relevância aumenta onde um ativo controlado, etapa de processamento ou canal logístico é difícil de substituir e diminui quando produção alternativa, substituição, reciclagem ou regulação compensam sua posição.
 
