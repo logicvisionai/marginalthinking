@@ -4,6 +4,7 @@ import {collectReports,availableLocales,reportView} from './lib/reports.mjs';
 import {visualIssues,visualSignature,visualPolicyApplies} from './lib/visuals.mjs';
 import {visualNumber} from './lib/research-visuals.mjs';
 
+// Build-check branch: no runtime behavior change.
 const root=process.cwd(),fail=[],warn=[];
 const read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const exists=p=>fs.existsSync(path.join(root,p));
