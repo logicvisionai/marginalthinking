@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-09-25",
   "qa_status": "approved",
-  "reviewed_at": "2026-09-25T09:58:31-03:00",
-  "reviewed_commit": "7913166d15782b09e1354cad35e2bb0cda9d8136",
-  "pending_blob_sha": "faaf746e335c49536b4244e7f6bd528393a23c19",
+  "reviewed_at": "2026-09-25T10:03:29-03:00",
+  "reviewed_commit": "edee26c7d8c69fbe2f4143d24b37febbcb61dbdd",
+  "pending_blob_sha": "5a0a32b39082b16593ff9ff18ba197dcf307d7b1",
   "source_blob_shas": {
-    "en": "b492649d018e86f5b9afab4a7a914de24544674b",
-    "pt-BR": "af6280e446ae0fc107e39430835a7158f8791cb9"
+    "en": "2bbf547b70ff5d3430878bcc945b096789b18592",
+    "pt-BR": "550ebfda871be814af1fd7581b8b687c592029b3"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -15,37 +15,37 @@
   "checks": {
     "factual_methodological": {
       "result": "passed",
-      "summary": "Carried forward from the independent revision-1 QA because revision 2 does not alter EN, factual claims, figures, causal framing or conclusions. Treasury, mortgage, JGB, rupiah and Bank Indonesia claims were previously revalidated, with credit pricing distinguished from realized refinancing stress."
+      "summary": "Revision 3 changes only the chart authoring grammar. The prose, table, market observations, causal framing and conclusions are byte-identical to public revision 2 outside the chart fence; the factual/methodological assessment therefore carries forward unchanged."
     },
     "taxonomy": {
       "result": "passed",
-      "summary": "All controlled values remain in taxonomy and the unsupported sanctions-economic-coercion classification was removed. phenomena now contains only war-armed-conflict, which is materially connected to the Gulf energy/Hormuz transmission described in the report."
+      "summary": "Taxonomy is unchanged from approved revision 2: controlled program, dimensions, geography, topics and phenomena remain valid."
     },
     "translation": {
       "result": "passed",
-      "summary": "EN/PT-BR remain semantically equivalent. The only PT-BR edits localize the exact terminology blocked by revision-1 QA: valuation, intraday and the first capex occurrence; no factual meaning changed."
+      "summary": "EN/PT-BR prose is unchanged. Both chart blocks now use the same canonical single-series structure with semantically equivalent labels and identical 10-year Treasury values."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "The opening states the cross-asset divergence thesis directly; headings are analytical; PT-BR localization blockers are resolved; the prior unsupported taxonomy label is removed; no template, prompt or QA scaffolding appears in public prose."
+      "summary": "No editorial prose changed from approved revision 2; the correction removes unsupported visual syntax without changing the article's reader-facing thesis or structure."
     },
     "contextual_depth": {
       "result": "passed",
-      "summary": "Unchanged from the independent prior QA: monetary-policy, energy/Hormuz, Indonesian external-exposure and financing-price mechanisms provide sufficient institutional and geopolitical context without ornamental history."
+      "summary": "Unchanged from approved revision 2."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "signature": "1 analytical table + 1 explicit Treasury chart + 1 causal flow; 3 visuals total in each locale",
-      "summary": "The brief meets the visual floor with semantic EN/PT-BR parity, compatible units and traceable values.",
-      "limitations": "The Treasury chart is 22–24 September context rather than the 25 September delta; the prose states that distinction."
+      "signature": "1 analytical table + 1 explicit single-series Treasury line chart + 1 causal flow; 3 visuals total in each locale",
+      "summary": "The chart now conforms to RESEARCH-VISUALS.md canonical label | number grammar. It plots the observed U.S. 10-year Treasury yield for 22, 23 and 24 September; the 30-year series remains auditable in the table rather than being forced into unsupported multi-series syntax.",
+      "limitations": "The chart remains historical context for 22–24 September rather than the 25 September delta."
     },
     "novelty_repetition": {
       "result": "passed",
-      "summary": "Unchanged from the independent prior QA: long yields are background and the dominant new 25 September thesis is selective cross-asset divergence across resilient equities, pressured duration and selected emerging-market FX."
+      "summary": "No thesis or novelty claim changed from approved revision 2."
     },
-    "deterministic_replay": {
+    "revision_delta": {
       "result": "passed",
-      "summary": "Revision 1 had already passed factual, contextual, visual and novelty gates. Revision 2 changes only the two explicitly rejected defects plus rejection provenance; those changes were mechanically verified against current Git blobs."
+      "summary": "Mechanical comparison confirms that only the chart fence differs from public revision 2 in EN and PT-BR. Pending revision 3 documents the build-validation correction."
     }
   },
   "contrary_evidence": [
@@ -58,7 +58,7 @@
     "Attribution of equity resilience to AI earnings expectations and prospective Middle East energy relief relies partly on contemporaneous market reporting rather than a fully observed causal decomposition.",
     "The report does not establish broad corporate or sovereign refinancing stress; it treats wider refinancing effects as conditional."
   ],
-  "notes": "Revision 2 is approved by deterministic replay of the immediately preceding independent QA. That QA had passed every substantive gate and rejected revision 1 only for PT-BR localization and one unsupported phenomena label. Revision 2 fixes those exact blockers, leaves the EN blob unchanged, preserves thesis/figures/visuals, and corrects rejection provenance. Approval is bound only to the three current Git blobs.",
+  "notes": "Revision 3 is a build-validation correction after public revision 2. QA verified mechanically that Markdown outside the chart fence is unchanged, that the new chart uses the normative single-series grammar in both locales, and that pending revision 3 is strictly greater than public revision 2.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -187,8 +187,8 @@
       "dominant_delta": "The new 25 September signal is the cross-asset divergence itself: global equities were heading for their best week since early August even as U.S. and Japanese long yields remained near multi-decade highs, while the Indonesian rupiah was heading for its worst week since late May.",
       "repetition_control": "Long yields are treated as inherited background from the 22-24 September editions. The report leads with selective absorption across equities, duration and emerging-market FX, and explicitly rejects the prior draft's unsupported claim that a broad refinancing squeeze is already observed."
     },
-    "revision": 2,
-    "revision_reason": "QA rework after revision 1 rejection: localized remaining PT-BR financial anglicisms and removed an unsupported sanctions-economic-coercion taxonomy classification. The cross-asset divergence thesis, factual claims, EN source and visual evidence remain unchanged.",
+    "revision": 3,
+    "revision_reason": "Build-validation correction after public revision 2: replaced unsupported multi-series chart authoring syntax with the repository's canonical single-series chart grammar. No factual claim, thesis, table value, causal mechanism or conclusion changed; the 30-year Treasury series remains in the analytical table.",
     "supersedes_rejected_commit": "29b7f54e4a302f18388b70e3573b6af823fbf8b4",
     "qa_fixes_applied": [
       "Reframed long yields from the lead thesis to background evidence and made the 25 September equity-versus-bond divergence the dominant new mechanism.",
@@ -198,7 +198,8 @@
       "Localized remaining PT-BR financial terminology: valuation → precificação/avaliações de ativos; intraday → durante a sessão; first capex occurrence → investimento de capital (capex).",
       "Removed sanctions-economic-coercion from phenomena because sanctions/economic coercion are not materially analyzed in this edition.",
       "Preserved the approved novelty direction: cross-asset divergence remains the lead thesis; no broad refinancing-stress claim was reintroduced.",
-      "Corrected rejection provenance: supersedes_rejected_commit now references the QA rejection commit 29b7f54e4a302f18388b70e3573b6af823fbf8b4."
+      "Corrected rejection provenance: supersedes_rejected_commit now references the QA rejection commit 29b7f54e4a302f18388b70e3573b6af823fbf8b4.",
+      "Converted the Treasury chart from unsupported series:/labels: multi-series syntax to the canonical label | number line-chart grammar documented in RESEARCH-VISUALS.md; EN/PT-BR remain visually and semantically aligned."
     ]
   }
 }
