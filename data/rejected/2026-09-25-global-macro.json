@@ -1,57 +1,85 @@
 {
   "schema_version": 2,
   "id": "MT-GM-2026-09-25",
-  "revision": 0,
+  "revision": 1,
   "qa_status": "rejected",
-  "reviewed_at": "2026-09-25T08:42:24-03:00",
-  "reviewed_commit": "739ad488c7765b59c85d75fc8aac94f8038d2d7a",
-  "pending_blob_sha": "0300dce0f73188cf37b03569c3009dce36352ec8",
+  "reviewed_at": "2026-09-25T09:04:06-03:00",
+  "reviewed_commit": "812c3dd20548a447df302cb06c14b6863faeb027",
+  "pending_blob_sha": "d5194735833df8de8670c92600f9be2f37ed0a6c",
   "source_blob_shas": {
-    "en": "a328d017a8d4020eb1370c3b179125304d303af1",
-    "pt-BR": "047c201388ac7e052810c1d90e09a3fc848b737c"
+    "en": "b492649d018e86f5b9afab4a7a914de24544674b",
+    "pt-BR": "e072fff1321d2f34c8a6b0bc82d1bf5cbb947445"
   },
   "program": "political-economy-markets",
   "confidence": "high",
   "blocking_issues": [
     {
-      "type": "editorial_repetition",
-      "location": "H1, opening and conclusion",
-      "detail": "The dominant long-rate thesis repeats the mechanism already leading the 22, 23 and 24 September editions. The 7.03% mortgage print is an 8 bp weekly move and does not by itself establish the material new break required for another rate-dominated lead."
+      "type": "editorial_localization",
+      "location": "PT-BR — seção “Ações e títulos estão enviando sinais diferentes” e flow",
+      "detail": "A edição PT-BR ainda expõe inglês financeiro evitável: “pressão de valuation”, “intraday” e “capex” sem explicação inicial. EDITORIAL-STYLE.md exige “avaliação/precificação/valorização” conforme o sentido, português natural e explicação de capex na primeira ocorrência; o gate solicitado trata mistura de idiomas como bloqueante."
     },
     {
-      "type": "claim_evidence_alignment",
-      "location": "Opening and first analytical section",
-      "detail": "Mortgage pricing is observed, but broad claims of sovereign funding and a realized refinancing constraint outrun the evidence. Higher benchmark yields and soft auctions establish repricing and supply-absorption risk, not a broad observed refinancing squeeze."
+      "type": "taxonomy_classification",
+      "location": "pending.phenomena",
+      "detail": "O sidecar classifica “sanctions-economic-coercion”, mas o texto revisado não analisa sanções nem coerção econômica. A classificação controlada existe no taxonomy, porém não corresponde ao conteúdo desta edição e deve ser removida, salvo inclusão de mecanismo material sustentado."
     }
   ],
   "required_fixes": [
-    "Reframe long yields as background unless direct evidence shows a material break in realized financing conditions.",
-    "Lead with the most material genuinely new 25 September mechanism, or do not force a daily publication.",
-    "If retaining refinancing, narrow observed claims and label broader corporate or sovereign effects as inference or scenario.",
-    "Preserve EN/PT-BR semantic and visual parity after rework."
+    "Localizar integralmente o PT-BR: substituir “pressão de valuation” por formulação natural de precificação/avaliação; substituir “intraday” por “no intradia/durante a sessão”; na primeira ocorrência de capex, escrever “investimento de capital (capex)” ou equivalente.",
+    "Remover “sanctions-economic-coercion” de phenomena, a menos que sanções/coerção econômica passem a ser materialmente analisadas e sustentadas no texto.",
+    "Preservar a nova tese de divergência entre ações, duração e câmbio emergente; ela supera o bloqueio anterior de repetição e não deve ser reconvertida em uma tese dominante de juros longos/refinanciamento.",
+    "Manter paridade semântica e visual EN/PT-BR após as correções."
   ],
   "evidence": [
-    "U.S. Treasury official curve confirms 10Y 4.96%, 5.11%, 5.18% and 30Y 5.29%, 5.40%, 5.47% on 22-24 September.",
-    "Freddie Mac PMMS confirms 30Y mortgage 7.03% on 24 September versus 6.95% one week earlier.",
-    "Federal Reserve confirms target range 3.75%-4.00% from 16 September.",
-    "Public MT-GM editions on 22, 23 and 24 September already center restrictive long rates or sovereign duration."
+    "U.S. Treasury Daily Treasury Rates confirma 10Y/30Y em 4,96%/5,29% (22 set), 5,11%/5,40% (23 set) e 5,18%/5,47% (24 set).",
+    "Freddie Mac PMMS confirma hipoteca fixa de 30 anos em 7,03% em 24 set, 6,95% em 17 set e 6,71% em 3 set.",
+    "Reuters de 25 set confirma MSCI World a caminho da melhor semana desde início de agosto, JGB 10Y em 3,115%, Treasury 10Y perto de 5,17%, 30Y perto de 5,46% e petróleo ainda acima de US$100.",
+    "Reuters de 25 set confirma rupia até 17.935/USD, queda semanal próxima de 1%, BI em 5,75% após +100 pb entre maio e junho, e recuperação de ringgit/won/dólar taiwanês."
   ],
-  "taxonomy_issues": [],
+  "taxonomy_issues": [
+    "phenomena contém sanctions-economic-coercion sem mecanismo de sanção/coerção econômica no conteúdo revisado."
+  ],
   "checks": {
-    "factual_methodological": {"result":"partial-pass","summary":"Central Treasury, mortgage and FOMC figures checked; blocker is novelty and claim scope."},
-    "taxonomy": {"result":"passed","summary":"No blocking controlled-taxonomy defect identified."},
-    "translation": {"result":"passed","summary":"EN/PT-BR materially equivalent in reviewed claims and visuals."},
-    "editorial_publication_readiness": {"result":"failed","summary":"Direct opening and analytical headings, but insufficient novelty versus three preceding editions and overbroad refinancing language."},
-    "contextual_depth": {"result":"passed","summary":"No independent contextual-depth blocker identified."},
-    "visual_evidence_readiness": {"result":"passed","signature":{"tables":1,"charts":2,"structural_visuals":["flow"],"total":4},"summary":"Visuals are analytical, dimensionally coherent and parallel across locales."}
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Os números centrais de Treasury, hipotecas, JGB, rupia e taxa do Bank Indonesia foram revalidados; o texto separa adequadamente preço de crédito de estresse realizado e trata a negociação EUA-Irã como possibilidade, não acordo."
+    },
+    "taxonomy": {
+      "result": "failed",
+      "summary": "Valores são controlados, mas sanctions-economic-coercion está classificado sem correspondência material no relatório."
+    },
+    "translation": {
+      "result": "failed",
+      "summary": "EN/PT-BR são semanticamente equivalentes, porém a localização PT-BR ainda contém anglicismos evitáveis bloqueantes segundo o padrão editorial."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "A nova abertura é direta, headings são analíticos, a tese de divergência é materialmente nova e a coesão é boa; falha apenas na localização pública PT-BR e na classificação taxonômica indevida. Não há template/meta-QA exposto."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "O contexto institucional e geopolítico necessário está incorporado no mecanismo: política monetária, energia/Hormuz, exposição externa da Indonésia e diferenciação entre preço de financiamento e estresse realizado."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 tabela analítica + 1 gráfico explícito de Treasury + 1 flow causal; 3 visuais totais em cada idioma",
+      "summary": "Cumpre o piso de brief, com unidades compatíveis, valores reproduzíveis e paridade EN/PT-BR.",
+      "limitations": "O gráfico de Treasury é contexto de 22–24 set, não o delta de 25 set; o texto declara isso explicitamente."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "A revisão 1 corrige o bloqueio anterior: juros longos foram rebaixados a background e o lead agora é a divergência observável entre ações resilientes, duração pressionada e câmbio emergente seletivo."
+    }
   },
   "contrary_evidence": [
-    "Equities remain comparatively resilient, consistent with uneven rather than system-wide tightening.",
-    "A single weekly mortgage increase and soft auctions do not establish a broad realized refinancing squeeze."
+    "A resiliência do MSCI World e de bolsas regionais contradiz uma leitura de aperto uniforme.",
+    "Ringgit, won e dólar taiwanês se recuperaram em 25 set, mostrando que a pressão cambial não é generalizada.",
+    "A negociação sobre Ormuz ainda não alterou de forma verificada o sistema físico; queda do petróleo pode refletir apenas mudança de probabilidade."
   ],
   "limitations": [
-    "Several market observations are intraday and can change before close.",
-    "Direct corporate refinancing, issuance or realized housing and credit-activity evidence is not supplied."
+    "Vários preços de 25 set são intradiários e podem mudar até o fechamento.",
+    "A atribuição da resiliência acionária a IA e expectativa de alívio energético depende de reportagem contemporânea de mercado, não de decomposição causal observável.",
+    "Não há evidência direta nesta edição de estresse amplo de refinanciamento corporativo ou soberano; o texto corretamente evita essa conclusão."
   ],
-  "notes": "Rejected before public materialization; public bundles unchanged."
+  "notes": "Revisão 1 reavaliada após rejeição da revisão 0. O bloqueio de novidade/escopo factual anterior foi corrigido. Rejeição atual é restrita à prontidão editorial PT-BR e à classificação de phenomena; nenhuma superfície pública foi alterada."
 }
