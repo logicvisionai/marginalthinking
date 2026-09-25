@@ -1,93 +1,80 @@
-# Global Macro — Juros longos começam a virar restrição de refinanciamento, não apenas choque de valuation
+# Global Macro — Ativos de risco resistem à venda de títulos enquanto a pressão se concentra em juros e câmbio emergente
 
-A informação nova desde ontem é que o choque de juros longos deixou de ficar restrito à precificação de ativos. Ele já alcança crédito imobiliário, financiamento soberano e moedas de mercados emergentes. A curva oficial do Tesouro dos EUA fechou 24 de setembro em 4,34% para dois anos, 5,18% para dez anos e 5,47% para trinta anos. O juro de 10 anos subiu mais 7 pontos-base em relação ao fechamento anterior, e o de 30 anos alcançou durante a sessão um nível não visto desde 2004. A pesquisa semanal da Freddie Mac colocou a hipoteca fixa de 30 anos dos EUA em 7,03%, ante 6,95% uma semana antes e 6,71% em 3 de setembro.
+O desenvolvimento mais informativo de 25 de setembro não é uma nova máxima dos juros longos. É a distância crescente entre o que o mercado de títulos e o mercado de ações estão precificando. As bolsas globais caminhavam para sua melhor semana desde o início de agosto enquanto o Treasury de 10 anos negociava perto de 5,17%, o de 30 anos em torno de 5,46% e o título público japonês de 10 anos tocava 3,115%, maior nível desde 1996. A Reuters atribuiu a resiliência das ações principalmente à renovação do entusiasmo em torno de IA e à expectativa de melhora nas condições de oferta de energia no Oriente Médio.
 
-Isso muda a pergunta analítica. Em 24 de setembro, a questão era se atividade resiliente e risco energético manteriam a pressão sobre a duração soberana. Em 25 de setembro, a evidência é que a taxa livre de risco mais alta começa a se propagar para o custo de financiamento da economia real enquanto bancos centrais seguem pouco dispostos a validar uma narrativa de afrouxamento. O petróleo recuou com a retomada da diplomacia entre EUA e Irã, mas o Brent permanecia acima de US$ 100 no início da sessão europeia. Ações ainda podem absorver o choque onde as expectativas de lucros são fortes, especialmente em setores ligados à IA, enquanto famílias, tomadores alavancados e emergentes sensíveis a juros enfrentam uma restrição mais direta.
+Essa divergência importa porque contraria a descrição do episódio atual como um aperto uniforme. O mesmo ambiente macroeconômico produz resultados diferentes entre balanços e classes de ativos. Grandes índices acionários continuam sustentados por expectativas de lucros e investimento, enquanto títulos de longa duração permanecem sob pressão inflacionária e fiscal e algumas moedas emergentes absorvem com mais intensidade a combinação de dólar forte, energia cara e juros altos nos EUA.
 
-## O juro longo atravessou da precificação de mercado para o financiamento das famílias
+O sinal de hoje, portanto, é de absorção seletiva, e não de um aperto generalizado de refinanciamento já realizado. Hipotecas acima de 7% e leilões fracos de Treasuries continuam sendo evidências relevantes de condições financeiras mais restritivas, mas não demonstram, sozinhos, estresse amplo de refinanciamento corporativo ou soberano.
 
-Dados oficiais do Tesouro mostram que o juro de 10 anos subiu de 4,96% em 22 de setembro para 5,11% no dia 23 e 5,18% no dia 24. O de 30 anos passou de 5,29% para 5,40% e depois 5,47% nas mesmas duas sessões. O de dois anos subiu bem menos, de 4,26% para 4,34%. A abertura da curva, portanto, não é apenas uma revisão da próxima decisão do Federal Reserve; ela incorpora retorno exigido maior para duração em um ambiente de incerteza inflacionária, crescimento nominal resiliente, oferta de dívida e risco energético.
+## Ações e títulos estão enviando sinais diferentes
 
-A Freddie Mac fornece o canal mais claro para as famílias. A média da hipoteca fixa de 30 anos atingiu 7,03% em 24 de setembro, contra 6,95% uma semana antes e 6,71% três semanas antes. O preço das hipotecas não é mecanicamente igual à curva dos Treasuries, mas a direção é consistente: o benchmark soberano mais alto está sendo transmitido ao custo do crédito privado de longa duração. Uma restrição de refinanciamento se torna economicamente relevante quando tomadores precisam rolar dívida ou financiar novas compras a uma taxa materialmente maior, e não apenas quando o preço dos títulos cai.
+A Reuters informou que o índice mundial MSCI caminhava para sua melhor semana desde o início de agosto em 25 de setembro. O Nikkei japonês subia pouco mais de 1% e o STOXX 600 avançava cerca de 0,5% no início da sessão europeia. Ao mesmo tempo, juros soberanos longos permaneciam próximos de máximas de várias décadas: o Treasury de 10 anos perto de 5,17%, o de 30 anos em torno de 5,46% e o JGB japonês de 10 anos em 3,115%.
 
-| Evidência | 22 set | 23 set | 24/25 set mais recente | Transmissão |
-| --- | ---: | ---: | ---: | --- |
-| Treasury 2 anos | 4,26% | 4,31% | 4,34% | Expectativas de política apertaram, mas menos que a ponta longa |
-| Treasury 10 anos | 4,96% | 5,11% | 5,18% no fechamento oficial | Benchmark de desconto e financiamento subiu |
-| Treasury 30 anos | 5,29% | 5,40% | 5,47% no fechamento oficial | Pressão sobre refinanciamento de longa duração aumentou |
-| Hipoteca EUA 30 anos | — | — | 7,03% de média semanal | Custo de financiamento das famílias ultrapassou 7% |
-| JGB Japão 10 anos | — | 3,055% no início de 24 set | 3,115% no início de 25 set | Choque global de duração continuou se transmitindo ao Japão |
-| Índice do dólar | — | — | 101,09 no início de 25 set | Juros mais altos nos EUA seguem sustentando o dólar |
+Isso não significa que as ações tenham se tornado insensíveis aos juros. Significa que, por enquanto, expectativas de lucros e narrativas específicas de investimento compensam parte da pressão de valuation gerada por taxas de desconto maiores. A Reuters apontou o otimismo em IA como uma das forças sustentando as bolsas, enquanto a possibilidade de melhora no fluxo de energia do Oriente Médio reduzia parte do risco inflacionário de cauda.
 
-```chart
-type: bar
-title: Curva de juros dos Treasuries — 24 de setembro de 2026
-unit: %
-2 anos | 4.34
-10 anos | 5.18
-30 anos | 5.47
-```
+| Sinal de mercado | Observação em 25 set | O que indica — e o que não indica |
+| --- | --- | --- |
+| Ações globais MSCI | A caminho da melhor semana desde o início de agosto | Apetite por risco permanece resiliente; não prova afrouxamento das condições financeiras |
+| Nikkei 225 | Alta de pouco mais de 1% no início da sessão | Ações japonesas absorveram nova alta dos JGBs |
+| Treasury EUA 10 anos | Cerca de 5,17% intraday; 5,18% no fechamento oficial de 24 set | Precificação de longa duração continua restritiva |
+| Treasury EUA 30 anos | Cerca de 5,46% intraday; 5,47% no fechamento oficial de 24 set | Risco de duração, inflação e fiscal continua caro |
+| JGB Japão 10 anos | 3,115%, maior nível desde 1996 | Choque global de juros segue visível fora dos EUA |
+| Rupia indonésia | Queda de quase 1% na semana; pior desempenho semanal desde o fim de maio | Juros dos EUA, dólar e energia transmitem pressão mais claramente para algumas moedas emergentes |
 
 ```chart
 type: line
-title: Hipoteca fixa de 30 anos nos EUA — setembro de 2026
+title: Juros longos dos Treasuries — 22 a 24 de setembro de 2026
 unit: %
-03 set | 6.71
-10 set | 6.76
-17 set | 6.95
-24 set | 7.03
+series: 10 anos | 4.96 | 5.11 | 5.18
+series: 30 anos | 5.29 | 5.40 | 5.47
+labels: 22 set | 23 set | 24 set
 ```
 
-## Sinalização dos bancos centrais reforça, em vez de compensar, o movimento dos títulos
+O gráfico dos Treasuries é contexto, não a tese do dia. A mudança relevante é que as ações não acompanharam a venda de títulos na mesma proporção. Se essa divergência persistir, a distribuição da pressão financeira importa mais do que um único rótulo agregado de aversão ou apetite a risco.
 
-O Federal Reserve elevou a faixa-alvo para 3,75%–4,00% em 16 de setembro e descreveu a inflação como elevada. Em 24 de setembro, a presidente do Fed da Filadélfia, Anna Paulson, afirmou que algum aperto adicional poderia ser necessário se as condições evoluíssem como esperado, enquanto o presidente do Fed de Nova York, John Williams, disse que outra alta até o fim do ano era uma possibilidade razoável. São opiniões de dirigentes individuais, não uma nova decisão do FOMC, mas reduzem a probabilidade de o banco central validar rapidamente juros longos mais baixos.
+## Diplomacia energética muda o risco de cauda antes de mudar o sistema físico
 
-A distinção entre taxa básica e taxa de mercado é importante. Mesmo que o Federal Reserve acabe fazendo menos do que o mercado espera, os juros de 10 e 30 anos podem permanecer altos se investidores exigirem compensação por inflação, oferta fiscal e risco de duração. A Reuters informou demanda mediana no leilão de US$ 44 bilhões em Treasuries de sete anos depois de recepção fraca à venda de cinco anos. Um único leilão não prova escassez estrutural de demanda, mas uma sequência de leilões fracos enquanto os juros sobem aumenta a relevância da absorção de oferta no mecanismo.
+O petróleo recuou em 25 de setembro enquanto os mercados avaliavam a possibilidade de uma trégua entre EUA e Irã. A Reuters informou que negociadores exploravam um caminho em etapas que poderia incluir a reabertura do Estreito de Ormuz. Isso continua sendo uma estrutura de negociação reportada, não um acordo, e o petróleo ainda permanecia acima de US$ 100 por barril.
+
+A distinção é central. Mercados podem precificar a probabilidade de normalização futura da oferta antes que tráfego de navios, seguros e volumes exportados efetivamente voltem ao normal. O efeito imediato é, portanto, financeiro: menor percepção de risco energético de cauda pode apoiar ações e aliviar parcialmente títulos mesmo enquanto o sistema físico continua limitado.
+
+O teste é observável. Uma melhora duradoura exigiria navegação verificada por Ormuz, redução dos custos de frete e seguro, fluxo sustentado de exportações e queda correspondente da pressão inflacionária ligada à energia. Sem essas mudanças, o recuo atual do petróleo é evidência de opcionalidade diplomática, não prova de encerramento do choque.
+
+## O câmbio emergente mostra onde a combinação de juros e energia atinge de forma mais direta
+
+A Indonésia oferece um exemplo de transmissão mais claro do que alegações amplas sobre refinanciamento global. A rupia caminhava para sua maior queda semanal desde o fim de maio, perdendo quase 1% na semana e chegando a 17.935 por dólar em 25 de setembro. A Reuters relacionou o movimento aos juros mais altos dos Treasuries, à força do dólar e à expectativa de que os juros americanos permaneçam elevados por mais tempo.
+
+O Bank Indonesia manteve sua taxa básica em 5,75% nesta semana depois de elevá-la em 100 pontos-base acumulados entre maio e junho. O banco central indicou preferência por medidas de mercado para sustentar a moeda enquanto petróleo caro e juros americanos elevados continuavam sendo fontes de pressão. O mecanismo, portanto, pode ser observado sem presumir crise generalizada: energia importada aumenta a carga externa e fiscal, juros altos nos EUA elevam o custo de oportunidade de manter ativos locais e o dólar forte pressiona o câmbio.
+
+Outras moedas asiáticas não se moveram na mesma direção. Ringgit malaio, won sul-coreano e dólar de Taiwan se recuperavam em 25 de setembro, enquanto alguns mercados acionários regionais subiam. Essa dispersão é evidência contrária importante. O choque é seletivo, e credibilidade de política econômica, posição externa, exposição à energia e posicionamento de mercado alteram o resultado.
+
+## Habitação confirma preços de crédito mais altos, mas ainda não um evento amplo de refinanciamento
+
+A pesquisa Primary Mortgage Market Survey da Freddie Mac colocou a hipoteca fixa de 30 anos dos EUA em 7,03% em 24 de setembro, contra 6,95% uma semana antes e 6,71% em 3 de setembro. É evidência direta de aumento no preço do crédito às famílias. Não é, por si só, evidência de estresse generalizado de refinanciamento, problemas de rolagem corporativa ou falha de financiamento soberano.
+
+A diferença entre preço e estresse realizado deve permanecer explícita. Hipotecas e títulos mais caros elevam a taxa mínima de retorno exigida de novos projetos e compras. Uma restrição mais ampla de refinanciamento exigiria evidências adicionais, como queda nos volumes de refinanciamento, enfraquecimento das transações imobiliárias, abertura de spreads corporativos, concessões maiores em novas emissões, deterioração das métricas de serviço da dívida ou falhas recorrentes em leilões soberanos.
+
+Essa interpretação mais estreita também explica por que as ações podem permanecer firmes ao mesmo tempo. Uma grande empresa lucrativa, com forte geração de caixa e acesso ao mercado acionário, não enfrenta o mesmo canal de transmissão que uma família, um tomador alavancado ou uma economia emergente dependente de capital externo.
 
 ```flow
-Inflação persistente e atividade resiliente → expectativa de aperto adicional dos bancos centrais
-Incerteza energética e fiscal → maior compensação por inflação e prêmio de prazo
-Oferta soberana elevada + absorção mais fraca em leilões → juros longos mais altos
-Benchmark soberano mais alto → hipotecas, dívida corporativa e financiamento de emergentes reprecificam
-Custo de refinanciamento maior → menor giro imobiliário, fluxo de caixa mais apertado e maior sensibilidade a frustrações de lucros e caixa
+Expectativas de lucros e capex em IA + possível alívio na oferta de energia do Oriente Médio → sustentam o apetite por risco em ações
+Inflação, oferta fiscal e expectativa de aperto dos bancos centrais → mantêm juros soberanos longos elevados
+Juros altos nos EUA + dólar firme + dependência de energia importada → aumentam pressão sobre moedas emergentes vulneráveis
+Hipotecas mais caras → apertam o preço do crédito às famílias, sem provar sozinhas estresse amplo de refinanciamento
+Resultado entre ativos → resiliência dos grandes índices acionários convive com pressão em duração e canais cambiais selecionados
 ```
 
-## A transmissão global já aparece no Japão e no câmbio de emergentes
+## A divergência pode convergir em qualquer direção
 
-O juro do título público japonês de 10 anos tocou 3,115% em 25 de setembro, o maior nível desde 1996, depois de já ter alcançado 3,055% um dia antes. O movimento ocorreu mesmo com alguma recuperação do iene após nova sinalização sobre intervenção cambial. A combinação mostra por que o episódio atual é mais amplo do que uma história de dólar: expectativas domésticas e pressão global de prêmio de prazo podem elevar juros soberanos locais mesmo quando a moeda se fortalece temporariamente.
+Há duas formas amplas de a configuração atual convergir. No caminho mais benigno, a normalização sustentada da energia reduziria a compensação por inflação e permitiria recuo dos juros longos enquanto as expectativas de lucros permaneceriam intactas. No caminho adverso, juros altos por tempo suficiente poderiam enfraquecer valuations, criação de crédito ou expectativas de lucros, aproximando as ações do sinal já visível em títulos e algumas moedas.
 
-Na Ásia emergente, a transmissão é mais convencional. A rupia indonésia caminhava para sua maior queda semanal desde maio diante de juros mais altos nos EUA, dólar forte e petróleo elevado. O Bank Indonesia já havia elevado sua taxa básica em 100 pontos-base acumulados entre maio e junho e a manteve em 5,75% nesta semana. Isso não significa que todos os emergentes responderão da mesma forma; ilustra o dilema criado quando uma taxa livre de risco americana mais alta e energia importada cara chegam ao mesmo tempo.
+Nenhum dos dois caminhos está estabelecido. A evidência atual é de divergência entre ativos e transmissão desigual. Essa descrição é mais precisa do que tratar cada nova alta dos juros como um novo choque sistêmico ou interpretar a resistência das ações como prova de que custos maiores de financiamento deixaram de importar.
 
-O próprio dólar permanece um sinal imperfeito. Ele estava perto de 101,09 no início de 25 de setembro e caminhava para a segunda alta semanal seguida, mas a Reuters observou que a moeda tem dificuldade para subir na mesma proporção que os juros diante de preocupações com a posição fiscal dos EUA e incerteza de política econômica. Essa divergência merece acompanhamento: se os juros sobem sem valorização proporcional do dólar, parte do movimento pode refletir prêmio de prazo americano maior, e não apenas vantagem de crescimento ou política monetária.
-
-## A diplomacia do petróleo traz alívio, mas não eliminou o canal inflacionário
-
-O petróleo recuou em 25 de setembro enquanto negociadores dos EUA e do Irã exploravam um arranjo em etapas que poderia reabrir o Estreito de Ormuz em troca do fim do bloqueio econômico americano. Trata-se de uma rota de negociação reportada, não de um acordo. O Brent ainda estava em torno de US$ 105,52 por barril e o WTI em US$ 92,93 no início da sessão europeia, enquanto ataques envolvendo infraestrutura saudita continuavam mantendo prêmio de risco físico no mercado.
-
-A abertura do spread Brent-WTI também lembra que 'petróleo' não é um único sinal global de preço. A Reuters informou diferença em torno de US$ 12,83 por barril, a maior desde maio, parcialmente associada às expectativas sobre possível restrição americana às exportações de diesel e à economia das refinarias. Para juros, a pergunta central é se o alívio de energia se torna persistente o bastante para reduzir expectativas de inflação, e não se o petróleo cai em uma única sessão.
-
-O canal diplomático pode importar rapidamente se produzir navegação verificada por Ormuz, queda nos custos de frete e seguro e fluxo de exportações sustentado. Até lá, a diplomacia reduz risco de cauda sem eliminar o impulso inflacionário incorporado aos preços sensíveis a energia.
-
-## As ações ainda absorvem o choque melhor do que os tomadores de crédito
-
-As bolsas globais permaneciam relativamente resilientes em 25 de setembro. A Reuters informou que o índice mundial MSCI caminhava para sua melhor semana desde o início de agosto e o Nikkei japonês subia mais de 1%, mesmo com juros soberanos perto de máximas de várias décadas. Isso não mostra que o choque de juros seja inofensivo. Mostra que expectativas de lucros — especialmente ligadas a investimento em IA — podem, temporariamente, subir mais rápido do que a taxa de desconto.
-
-A assimetria importa para as condições financeiras. Uma grande empresa de tecnologia lucrativa pode financiar investimento com geração de caixa, ações ou acesso profundo ao mercado de capitais. Uma família comprando imóvel, uma empresa menor refinanciando dívida bancária ou de mercado, ou um soberano com grande volume de rolagem não têm a mesma flexibilidade para compensar um benchmark mais alto. À medida que amadurece, a restrição macroeconômica fica mais distributiva: índices acionários podem continuar firmes enquanto o tomador marginal enfrenta uma aritmética de caixa mais apertada.
-
-## O que confirmaria — ou invalidaria — a tese de restrição de refinanciamento
-
-A evidência se fortaleceria se as hipotecas permanecerem acima de 7%, novas emissões corporativas e soberanas continuarem sendo fechadas a taxas mais altas, a demanda fraca em leilões se repetir em diferentes vencimentos e atividade imobiliária ou de crédito começar a desacelerar sem queda comparável das expectativas de inflação. A mesma tese perderia força se a energia cair de forma persistente, os juros longos recuarem apesar da oferta de Treasuries, as hipotecas acompanharem esse movimento e os spreads de crédito permanecerem contidos.
-
-As variáveis com maior valor informacional agora são os juros de 10 e 30 anos dos EUA após os próximos leilões; preços semanais de hipotecas e atividade imobiliária; juros longos no Japão e na Europa; desempenho do dólar em relação ao movimento dos juros; e mudanças verificadas no acesso por Ormuz, frete e fluxo de energia. A mudança importante desde ontem não é simplesmente mais um fechamento alto dos Treasuries. É o custo da duração começando a aparecer nos canais de financiamento pelos quais uma reprecificação de mercado pode se tornar uma restrição macroeconômica.
+As variáveis de maior valor informacional agora são se o MSCI mundial e outros índices amplos continuam resilientes depois da última reprecificação de títulos; se os Treasuries de 10 e 30 anos recuam ou se consolidam acima de 5%; se a pressão sobre a rupia se espalha para outras moedas emergentes; se as hipotecas permanecem acima de 7%; e se tráfego por Ormuz e exportações de energia melhoram efetivamente em vez de apenas serem antecipados.
 
 ## Fontes
 
-- Departamento do Tesouro dos EUA, Daily Treasury Par Yield Curve Rates, 22–24 set 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
-- Federal Reserve, comunicado do FOMC, 16 set 2026: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+- Departamento do Tesouro dos EUA, Daily Treasury Par Yield Curve Rates, 22–24 set 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve
 - Freddie Mac, Primary Mortgage Market Survey, 24 set 2026: https://www.freddiemac.com/pmms
-- Reuters, venda global de títulos e juros longos dos EUA, 24 set 2026: https://www.reuters.com/business/us-30-year-bond-yield-rises-highest-since-2004-selloff-deepens-2026-09-24/
-- Reuters, dirigentes do Fed e inflação, 24 set 2026: https://www.reuters.com/business/feds-paulson-says-more-rate-hikes-may-be-needed-quash-inflation-2026-09-24/
-- Reuters, discussões de acordo em etapas entre EUA e Irã, 24 set 2026: https://www.reuters.com/world/asia-pacific/us-iran-discuss-phased-deal-reopen-hormuz-end-us-blockade-sources-say-2026-09-24/
-- Reuters, mercados globais, 25 set 2026: https://www.reuters.com/world/china/global-markets-warpup-1-pix-2026-09-25/
-- Reuters, petróleo e oferta do Golfo, 25 set 2026: https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/
+- Reuters, mercados globais e divergência entre ativos, 25 set 2026: https://www.reuters.com/world/china/global-markets-warpup-1-pix-2026-09-25/
 - Reuters, câmbio asiático e rupia indonésia, 25 set 2026: https://www.reuters.com/world/asia-pacific/rupiah-heads-biggest-weekly-fall-since-may-higher-us-yields-firm-dollar-2026-09-25/

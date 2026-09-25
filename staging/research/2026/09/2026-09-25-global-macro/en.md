@@ -1,93 +1,80 @@
-# Global Macro — Long yields are becoming a refinancing constraint, not just a valuation shock
+# Global Macro — Risk assets resist the bond selloff as stress concentrates in rates and emerging-market FX
 
-The new information since yesterday is that the long-rate shock is no longer confined to asset valuation. It is reaching household borrowing, sovereign funding and emerging-market currencies. The U.S. Treasury's official 24 September curve closed at 4.34% for two years, 5.18% for ten years and 5.47% for thirty years. The 10-year added another 7 basis points from the previous close and the 30-year reached a level not seen since 2004 in intraday trading. Freddie Mac's weekly survey put the average U.S. 30-year fixed mortgage at 7.03%, up from 6.95% one week earlier and 6.71% on 3 September.
+The most informative development on 25 September is not another high in long-dated yields. It is the widening gap between what bond markets and equity markets are pricing. Global stocks were heading for their best weekly performance since early August even as the U.S. 10-year Treasury traded around 5.17%, the 30-year around 5.46% and Japan's 10-year government bond touched 3.115%, its highest level since 1996. Reuters attributed the equity resilience primarily to renewed enthusiasm around AI and to hopes that Middle East energy supply conditions could improve.
 
-That changes the analytical question. On 24 September the issue was whether resilient activity and energy risk would keep sovereign duration under pressure. On 25 September the evidence is that the higher risk-free rate is beginning to propagate into the cost of financing the real economy while central banks remain reluctant to validate an easing narrative. Oil has eased on renewed U.S.-Iran diplomacy, but Brent remained above $100 in early European trade. Equities can still absorb the shock where earnings expectations are strong, especially in AI-linked sectors, while households, leveraged borrowers and rate-sensitive emerging markets face a more direct constraint.
+That divergence matters because it argues against describing the current episode as a uniform tightening shock. The same macro environment is producing different outcomes across balance sheets and asset classes. Large equity indices are still supported by earnings and capital-expenditure expectations, while long-duration bonds remain under inflation and fiscal pressure and some emerging-market currencies are absorbing the combination of a stronger dollar, expensive energy and high U.S. yields.
 
-## The long end has crossed from market repricing into household financing
+The signal for today is therefore selective absorption, not a realized economy-wide refinancing squeeze. Mortgage rates above 7% and weak Treasury auctions remain relevant background evidence of tighter financing conditions, but they do not by themselves prove broad corporate or sovereign refinancing stress.
 
-Official Treasury data show that the 10-year yield rose from 4.96% on 22 September to 5.11% on 23 September and 5.18% on 24 September. The 30-year moved from 5.29% to 5.40% and then 5.47% over the same two sessions. The two-year rose much less, from 4.26% to 4.34%. The steepening is therefore not only a front-end repricing of the next Federal Reserve meeting; it reflects a higher required return for duration amid inflation uncertainty, resilient nominal growth, debt supply and energy risk.
+## Equities and bonds are sending different signals
 
-Freddie Mac supplies the clearest transmission into households. Its 30-year fixed mortgage average reached 7.03% on 24 September, versus 6.95% a week earlier and 6.71% three weeks earlier. Mortgage pricing is not mechanically identical to the Treasury curve, but the direction is consistent: the higher sovereign benchmark is feeding into the cost of long-duration private borrowing. A refinancing constraint becomes economically relevant when borrowers must roll debt or finance new purchases at a materially higher rate, not merely when bond prices fall.
+Reuters reported that the MSCI world index was on course for its strongest week since early August on 25 September. Japan's Nikkei rose just over 1% and the STOXX 600 gained about 0.5% in early European trading. At the same time, long sovereign yields remained near multi-decade highs: the U.S. 10-year traded near 5.17%, the 30-year near 5.46%, and Japan's 10-year JGB touched 3.115%.
 
-| Evidence | 22 Sep | 23 Sep | 24/25 Sep latest | Transmission |
-| --- | ---: | ---: | ---: | --- |
-| U.S. Treasury 2Y | 4.26% | 4.31% | 4.34% | Policy expectations tightened, but less than the long end |
-| U.S. Treasury 10Y | 4.96% | 5.11% | 5.18% official close | Benchmark discount and borrowing rate moved higher |
-| U.S. Treasury 30Y | 5.29% | 5.40% | 5.47% official close | Long-duration refinancing pressure intensified |
-| U.S. 30Y mortgage | — | — | 7.03% weekly average | Household financing cost moved above 7% |
-| Japan 10Y JGB | — | 3.055% early 24 Sep | 3.115% early 25 Sep | Global duration shock continued to transmit into Japan |
-| Dollar index | — | — | 101.09 early 25 Sep | Higher U.S. yields continue to support the dollar |
+This is not a claim that equities have become insensitive to interest rates. It means that, for now, earnings expectations and sector-specific investment narratives are offsetting part of the valuation pressure from higher discount rates. Reuters described AI optimism as one of the forces supporting shares, while the possibility of improved Middle East energy flows reduced part of the inflation tail risk.
 
-```chart
-type: bar
-title: U.S. Treasury par yields — 24 September 2026
-unit: %
-2Y | 4.34
-10Y | 5.18
-30Y | 5.47
-```
+| Market signal | 25 Sep observation | What it says — and does not say |
+| --- | --- | --- |
+| MSCI world equities | On course for best week since early August | Equity risk appetite remains resilient; it does not prove financial conditions are easing |
+| Nikkei 225 | Up just over 1% in early trade | Japanese equities absorbed another rise in JGB yields |
+| U.S. 10Y Treasury | Around 5.17% intraday; 5.18% official 24 Sep close | Long-duration pricing remains restrictive |
+| U.S. 30Y Treasury | Around 5.46% intraday; 5.47% official 24 Sep close | Duration and inflation/fiscal risk remain expensive |
+| Japan 10Y JGB | 3.115%, highest since 1996 | The global rate shock remains visible outside the U.S. |
+| Indonesian rupiah | Down nearly 1% on the week; weakest weekly performance since late May | Higher U.S. yields, dollar strength and energy costs are transmitting more clearly into some EM currencies |
 
 ```chart
 type: line
-title: U.S. 30-year fixed mortgage rate — September 2026
+title: U.S. long Treasury yields — 22 to 24 September 2026
 unit: %
-03 Sep | 6.71
-10 Sep | 6.76
-17 Sep | 6.95
-24 Sep | 7.03
+series: 10Y | 4.96 | 5.11 | 5.18
+series: 30Y | 5.29 | 5.40 | 5.47
+labels: 22 Sep | 23 Sep | 24 Sep
 ```
 
-## Central-bank signalling is reinforcing, rather than offsetting, the bond move
+The Treasury chart is background rather than today's thesis. The relevant change is that equities have not followed the bond selloff one-for-one. If this divergence persists, the distribution of financing pressure matters more than a single aggregate risk-on/risk-off label.
 
-The Federal Reserve raised its target range to 3.75%–4.00% on 16 September and described inflation as elevated. On 24 September, Philadelphia Fed President Anna Paulson said some additional tightening might be warranted if conditions evolve as expected, while New York Fed President John Williams said another increase by year-end was a reasonable possibility. Those statements are individual policymaker views, not a new FOMC decision, but they reduce the probability that the central bank quickly validates lower long yields.
+## Energy diplomacy is changing the tail risk before it changes the physical system
 
-The distinction between policy rate and market rate matters. Even if the Federal Reserve ultimately moves less than markets expect, the 10- and 30-year rates can remain high if investors demand compensation for inflation, fiscal supply and duration risk. Reuters reported mediocre demand at the Treasury's $44 billion seven-year auction after weak reception to the five-year sale. A single auction cannot prove a structural demand shortage, but successive soft auctions while yields are rising increase the relevance of supply absorption as part of the mechanism.
+Oil eased on 25 September as markets considered a possible U.S.-Iran truce. Reuters reported that negotiators were exploring a phased path that could include reopening the Strait of Hormuz. This remains a reported negotiating framework, not an agreement, and oil was still above $100 a barrel.
+
+That distinction is central. Markets can price the probability of future supply normalization before tanker traffic, insurance costs and export volumes actually normalize. The immediate effect is therefore financial: lower perceived energy tail risk can support equities and provide some relief to bonds even when the physical supply system remains constrained.
+
+The test is observable. A durable improvement would require verified navigation through Hormuz, lower freight and insurance costs, sustained export throughput and a corresponding decline in energy-sensitive inflation pressure. Without those changes, the current oil retreat is evidence of diplomatic optionality, not proof that the shock has ended.
+
+## Emerging-market FX shows where the rate-and-energy mix is biting more directly
+
+Indonesia provides a clearer example of transmission than broad claims about global refinancing. The rupiah was heading for its largest weekly decline since late May, down nearly 1% on the week and trading as weak as 17,935 per dollar on 25 September. Reuters linked the move to higher U.S. Treasury yields, dollar strength and expectations that U.S. rates would stay higher for longer.
+
+Bank Indonesia kept its policy rate at 5.75% this week after raising it by a cumulative 100 basis points between May and June. The central bank indicated a preference for market-based support for the currency while higher oil prices and U.S. yields remained sources of pressure. The mechanism is therefore observable without assuming a generalized crisis: imported energy raises the external and fiscal burden, high U.S. yields increase the opportunity cost of holding local assets, and a stronger dollar adds pressure to the exchange rate.
+
+Other Asian currencies did not move in the same direction. The Malaysian ringgit, South Korean won and Taiwan dollar rebounded on 25 September, while several regional equity markets rose. That dispersion is important contrary evidence. The shock is selective, and country-specific policy credibility, external balances, energy exposure and market positioning affect the outcome.
+
+## Housing confirms tighter pricing, but not yet a broad refinancing event
+
+Freddie Mac's Primary Mortgage Market Survey put the U.S. 30-year fixed mortgage at 7.03% on 24 September, up from 6.95% one week earlier and 6.71% on 3 September. This is direct evidence that household borrowing prices have risen. It is not, by itself, evidence of widespread refinancing distress, corporate rollover problems or sovereign funding failure.
+
+The distinction between price and realized stress should remain explicit. Higher mortgage and bond yields create a more restrictive hurdle rate. A broader refinancing constraint would require additional evidence such as falling refinancing volumes, weaker housing transactions, widening corporate spreads, larger new-issue concessions, deteriorating debt-service metrics or repeated sovereign auction failures.
+
+This narrower interpretation also explains why equities can remain firm at the same time. A large profitable company with strong cash generation and access to equity markets does not face the same transmission channel as a household, a leveraged borrower or an emerging economy dependent on external capital.
 
 ```flow
-Persistent inflation and resilient activity → expectations of additional central-bank tightening
-Energy and fiscal uncertainty → higher inflation and term-premium compensation
-Heavy sovereign issuance + weaker auction absorption → higher long yields
-Higher sovereign benchmark → mortgages, corporate debt and EM funding reprice
-Higher refinancing cost → weaker housing turnover, tighter borrower cash flow and greater sensitivity to earnings/cash-flow misses
+AI earnings and capex expectations + prospective Middle East supply relief → support equity risk appetite
+Inflation, fiscal supply and central-bank tightening expectations → keep long sovereign yields elevated
+High U.S. yields + firm dollar + imported-energy exposure → increase pressure on vulnerable emerging-market currencies
+Higher mortgage rates → tighten the price of household credit, without by themselves proving broad refinancing distress
+Cross-asset outcome → resilience in major equity indices coexists with stress in duration and selected FX channels
 ```
 
-## The global spillover is becoming visible in Japan and emerging-market FX
+## The divergence can resolve in either direction
 
-Japan's 10-year government bond yield touched 3.115% on 25 September, its highest since 1996, after already reaching 3.055% a day earlier. That move occurred even as the yen recovered somewhat following renewed intervention rhetoric. The combination shows why the current episode is broader than a dollar story: domestic policy expectations and global term-premium pressure can lift local sovereign yields even when the currency temporarily strengthens.
+There are two broad ways the current configuration can converge. The benign route would be sustained energy normalization, lower inflation compensation and a retreat in long yields while earnings expectations remain intact. The adverse route would be long yields staying high long enough to weaken valuations, credit creation or earnings expectations, pulling equities toward the signal already visible in bonds and selected currencies.
 
-In emerging Asia, the transmission is more conventional. Indonesia's rupiah was heading for its largest weekly decline since May as higher U.S. yields, a stronger dollar and elevated oil prices tightened the external constraint. Bank Indonesia had already raised its policy rate by a cumulative 100 basis points between May and June and held it at 5.75% this week. That does not imply every emerging market will respond the same way; it illustrates the policy trade-off created when a higher U.S. risk-free rate and expensive imported energy arrive together.
+Neither route is established yet. The current evidence is a cross-asset divergence with uneven transmission. That is more precise than treating every rise in yields as a new systemic shock or treating equity resilience as proof that higher borrowing costs no longer matter.
 
-The dollar itself remains an imperfect signal. It was around 101.09 early on 25 September and headed for a second weekly gain, yet Reuters noted that it has struggled to rise as much as the yield move might suggest amid concern about the U.S. fiscal position and policy uncertainty. That divergence is worth monitoring: if yields rise without proportional dollar appreciation, part of the move may reflect a higher U.S. term premium rather than a simple growth or monetary-policy advantage.
-
-## Oil diplomacy offers relief, but it has not removed the inflation channel
-
-Oil eased on 25 September as U.S. and Iranian negotiators explored a phased arrangement that could reopen the Strait of Hormuz in exchange for an end to the U.S. economic blockade. This is a reported negotiation path, not an agreement. Brent was still around $105.52 a barrel and WTI around $92.93 in European morning trade, while attacks involving Saudi infrastructure continued to keep a physical-risk premium in the market.
-
-The widening Brent-WTI spread is also a reminder that 'oil' is not a single global price signal. Reuters reported a spread of about $12.83 a barrel, the widest since May, partly reflecting expectations around possible U.S. diesel-export restrictions and refinery economics. For rates, the key question is whether energy relief becomes persistent enough to lower inflation expectations, not whether crude falls for one session.
-
-The negotiation channel could matter quickly if it produces verified navigation through Hormuz, lower freight and insurance costs and sustained export throughput. Until then, diplomacy reduces tail risk without eliminating the inflation impulse embedded in energy-sensitive prices.
-
-## Equities are still absorbing the shock better than borrowers
-
-Global equities remained comparatively resilient into 25 September. Reuters reported that the MSCI world index was on course for its best week since early August and Japan's Nikkei rose more than 1%, even as sovereign yields remained near multi-decade highs. This is not evidence that the rate shock is harmless. It shows that equity earnings expectations — particularly around AI investment — can temporarily outrun the rise in discount rates.
-
-The asymmetry matters for financial conditions. A profitable large technology company can finance investment through retained earnings, equity or deep capital markets. A household buying a home, a smaller company refinancing bank or bond debt, or a sovereign with large rollover needs cannot offset a higher benchmark rate with the same flexibility. The macro constraint therefore becomes more distributional as it matures: headline equity indices may remain firm while the marginal borrower faces tighter cash-flow arithmetic.
-
-## What would confirm — or invalidate — the refinancing-constraint thesis
-
-The evidence would strengthen if mortgage rates remain above 7%, corporate and sovereign new-issue yields continue to reset higher, weak auction demand repeats across maturities, and housing or credit activity begins to soften without a comparable decline in inflation expectations. The same thesis would weaken if energy prices fall durably, long yields retreat despite continued Treasury supply, mortgage rates follow them lower and credit spreads remain contained.
-
-The highest-information variables now are the U.S. 10- and 30-year yields after upcoming auctions; weekly mortgage pricing and housing activity; long yields in Japan and Europe; dollar performance relative to the rate move; and verified changes in Hormuz access, freight and energy throughput. The important change from yesterday is not simply another higher Treasury close. It is that the cost of duration is starting to show up in the financing channels through which a market repricing can become a macroeconomic constraint.
+The highest-information variables now are whether the MSCI world index and other broad equity gauges remain resilient after the latest bond repricing; whether the U.S. 10- and 30-year yields retreat or consolidate above 5%; whether rupiah pressure broadens to other emerging currencies; whether mortgage rates remain above 7%; and whether Hormuz traffic and energy exports actually improve rather than merely being anticipated.
 
 ## Sources
 
-- U.S. Department of the Treasury, Daily Treasury Par Yield Curve Rates, 22–24 Sep 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
-- Federal Reserve, FOMC statement, 16 Sep 2026: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+- U.S. Department of the Treasury, Daily Treasury Par Yield Curve Rates, 22–24 Sep 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202609&type=daily_treasury_yield_curve
 - Freddie Mac, Primary Mortgage Market Survey, 24 Sep 2026: https://www.freddiemac.com/pmms
-- Reuters, global bond selloff and U.S. long yields, 24 Sep 2026: https://www.reuters.com/business/us-30-year-bond-yield-rises-highest-since-2004-selloff-deepens-2026-09-24/
-- Reuters, Fed policymakers and inflation, 24 Sep 2026: https://www.reuters.com/business/feds-paulson-says-more-rate-hikes-may-be-needed-quash-inflation-2026-09-24/
-- Reuters, U.S.-Iran phased-deal discussions, 24 Sep 2026: https://www.reuters.com/world/asia-pacific/us-iran-discuss-phased-deal-reopen-hormuz-end-us-blockade-sources-say-2026-09-24/
-- Reuters, global markets, 25 Sep 2026: https://www.reuters.com/world/china/global-markets-warpup-1-pix-2026-09-25/
-- Reuters, oil and Gulf supply, 25 Sep 2026: https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/
-- Reuters, Asian FX and rupiah, 25 Sep 2026: https://www.reuters.com/world/asia-pacific/rupiah-heads-biggest-weekly-fall-since-may-higher-us-yields-firm-dollar-2026-09-25/
+- Reuters, global markets and cross-asset divergence, 25 Sep 2026: https://www.reuters.com/world/china/global-markets-warpup-1-pix-2026-09-25/
+- Reuters, Asian FX and the Indonesian rupiah, 25 Sep 2026: https://www.reuters.com/world/asia-pacific/rupiah-heads-biggest-weekly-fall-since-may-higher-us-yields-firm-dollar-2026-09-25/
