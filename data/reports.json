@@ -4625,6 +4625,111 @@
     "qa_reviewed_commit": "45595e1b4dfdf4a19f2abda4524383abec299f9a"
   },
   {
+    "id": "MT-CC-2026-09-18-japan",
+    "slug": "2026-09-18-country-context-japan",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T09:05:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "JP",
+          "slug": "japan"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "currencies",
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "technology-innovation",
+      "demography-labor",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "demographic-transition"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "selection_rationale": {
+      "relevance": "Japan recurs in recent Global Macro research through BOJ normalization, the yen, global bond transmission and energy-import exposure.",
+      "context_gap": "The public corpus lacks a country-level explanation connecting Japan's parliamentary policy structure, demography, external creditor position, industrial policy and energy dependence.",
+      "reuse": "Macro, wealth-flow, technology and energy research are likely to reuse these structural mechanisms.",
+      "non_duplication": "No existing Japan Strategic Transitions assessment or country dossier was found in the canonical corpus."
+    },
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-GM-2026-09-18",
+      "MT-GM-2026-09-17",
+      "MT-GM-2026-09-16",
+      "MT-GM-2026-09-15"
+    ],
+    "title": "Japan: aging, monetary normalization and the external balance behind a global creditor economy",
+    "deck": "Japan combines a shrinking workforce, monetary normalization, heavy energy-import dependence and a huge external asset position; together they explain why domestic policy changes can transmit into global rates, currencies and capital allocation.",
+    "tags": [
+      "Japan",
+      "Bank of Japan",
+      "demography",
+      "energy security",
+      "international investment position",
+      "industrial policy"
+    ],
+    "keywords": [
+      "Japan",
+      "BOJ",
+      "JGB",
+      "yen",
+      "aging population",
+      "working-age population",
+      "net international investment position",
+      "Middle East crude",
+      "energy self-sufficiency",
+      "Rapidus",
+      "semiconductors"
+    ],
+    "regime": "Aging and labor scarcity are colliding with monetary normalization while Japan remains a large external creditor and a highly energy-import-dependent industrial economy.",
+    "key_risk": "Higher domestic rates and imported energy costs could raise fiscal and household pressure faster than productivity, real wages and labor-saving investment adapt.",
+    "watch": [
+      "BOJ policy rate and JGB yields",
+      "Yen and foreign-asset hedging economics",
+      "Population and labor-force adaptation",
+      "Real wages and services productivity",
+      "Energy import costs and Middle East crude exposure"
+    ],
+    "search_text": "Japan political economy society BOJ monetary normalization JGB yen aging demography external assets NIIP energy imports Middle East oil industry semiconductors country context",
+    "url": "/reports/2026/09/2026-09-18-country-context-japan.html",
+    "markdown_url": "/reports/2026/09/2026-09-18-country-context-japan/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-25T08:39:35-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "a8dbc1a8d2497f40c75eb97151d511fd93c92b2d"
+  },
+  {
     "id": "MT-GM-2026-09-18",
     "date": "2026-09-18",
     "published_at": "2026-09-18T04:12:00-03:00",
