@@ -48,7 +48,7 @@
     ],
     "format": "brief",
     "cadence": "daily",
-    "revision": 2,
+    "revision": 3,
     "title": "Global Macro — Risk assets resist the bond selloff as stress concentrates in rates and emerging-market FX",
     "deck": "Global equities are heading for their best week since early August even as long sovereign yields remain near multi-decade highs, revealing a selective cross-asset shock rather than uniform tightening.",
     "tags": [
@@ -82,9 +82,9 @@
     "url": "/reports/2026/09/2026-09-25-global-macro.html",
     "markdown_url": "/reports/2026/09/2026-09-25-global-macro/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-25T09:58:31-03:00",
+    "qa_reviewed_at": "2026-09-25T10:03:29-03:00",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7913166d15782b09e1354cad35e2bb0cda9d8136"
+    "qa_reviewed_commit": "edee26c7d8c69fbe2f4143d24b37febbcb61dbdd"
   },
   {
     "id": "MT-GM-2026-09-24",
