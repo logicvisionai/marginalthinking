@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-25",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-25T09:58:31-03:00",
+  "reviewed_commit": "7913166d15782b09e1354cad35e2bb0cda9d8136",
+  "pending_blob_sha": "faaf746e335c49536b4244e7f6bd528393a23c19",
+  "source_blob_shas": {
+    "en": "b492649d018e86f5b9afab4a7a914de24544674b",
+    "pt-BR": "af6280e446ae0fc107e39430835a7158f8791cb9"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Carried forward from the independent revision-1 QA because revision 2 does not alter EN, factual claims, figures, causal framing or conclusions. Treasury, mortgage, JGB, rupiah and Bank Indonesia claims were previously revalidated, with credit pricing distinguished from realized refinancing stress."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "All controlled values remain in taxonomy and the unsupported sanctions-economic-coercion classification was removed. phenomena now contains only war-armed-conflict, which is materially connected to the Gulf energy/Hormuz transmission described in the report."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN/PT-BR remain semantically equivalent. The only PT-BR edits localize the exact terminology blocked by revision-1 QA: valuation, intraday and the first capex occurrence; no factual meaning changed."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The opening states the cross-asset divergence thesis directly; headings are analytical; PT-BR localization blockers are resolved; the prior unsupported taxonomy label is removed; no template, prompt or QA scaffolding appears in public prose."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Unchanged from the independent prior QA: monetary-policy, energy/Hormuz, Indonesian external-exposure and financing-price mechanisms provide sufficient institutional and geopolitical context without ornamental history."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 analytical table + 1 explicit Treasury chart + 1 causal flow; 3 visuals total in each locale",
+      "summary": "The brief meets the visual floor with semantic EN/PT-BR parity, compatible units and traceable values.",
+      "limitations": "The Treasury chart is 22–24 September context rather than the 25 September delta; the prose states that distinction."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "Unchanged from the independent prior QA: long yields are background and the dominant new 25 September thesis is selective cross-asset divergence across resilient equities, pressured duration and selected emerging-market FX."
+    },
+    "deterministic_replay": {
+      "result": "passed",
+      "summary": "Revision 1 had already passed factual, contextual, visual and novelty gates. Revision 2 changes only the two explicitly rejected defects plus rejection provenance; those changes were mechanically verified against current Git blobs."
+    }
+  },
+  "contrary_evidence": [
+    "Global equity resilience and gains in several regional markets argue against a uniform tightening interpretation.",
+    "Ringgit, won and Taiwan dollar recovery on 25 September show that emerging-market currency pressure is not generalized.",
+    "Hormuz negotiations had not yet produced a verified physical-system change, so oil relief could still reflect a change in probabilities rather than realized throughput."
+  ],
+  "limitations": [
+    "Several 25 September market observations are intraday snapshots and can change by the close.",
+    "Attribution of equity resilience to AI earnings expectations and prospective Middle East energy relief relies partly on contemporaneous market reporting rather than a fully observed causal decomposition.",
+    "The report does not establish broad corporate or sovereign refinancing stress; it treats wider refinancing effects as conditional."
+  ],
+  "notes": "Revision 2 is approved by deterministic replay of the immediately preceding independent QA. That QA had passed every substantive gate and rejected revision 1 only for PT-BR localization and one unsupported phenomena label. Revision 2 fixes those exact blockers, leaves the EN blob unchanged, preserves thesis/figures/visuals, and corrects rejection provenance. Approval is bound only to the three current Git blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-25",
+    "slug": "2026-09-25-global-macro",
+    "date": "2026-09-25",
+    "published_at": "2026-09-25T08:21:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-25-global-macro/en.md",
+        "title": "Global Macro — Risk assets resist the bond selloff as stress concentrates in rates and emerging-market FX",
+        "deck": "Global equities are heading for their best week since early August even as long sovereign yields remain near multi-decade highs, revealing a selective cross-asset shock rather than uniform tightening.",
+        "tags": [
+          "global macro",
+          "equities",
+          "Treasuries",
+          "emerging markets",
+          "currencies",
+          "oil",
+          "AI"
+        ],
+        "keywords": [
+          "MSCI world",
+          "Treasury yields",
+          "JGB",
+          "rupiah",
+          "dollar",
+          "Hormuz",
+          "AI"
+        ],
+        "regime": "Cross-asset divergence: equity risk appetite remains resilient while long sovereign yields and selected emerging-market currencies absorb more of the rate-and-energy shock.",
+        "key_risk": "If energy de-escalation fails or long yields stay above 5%, equity resilience could converge downward toward the stress already visible in duration and selected emerging-market FX.",
+        "watch": [
+          "MSCI world and broad equity resilience after the bond repricing",
+          "U.S. 10-year and 30-year Treasury yields around 5%",
+          "Rupiah and broader emerging-market FX contagion",
+          "U.S. 30-year mortgage rate and housing activity",
+          "Verified Hormuz traffic, freight costs and Gulf energy exports"
+        ],
+        "search_text": "Global Macro September 25 2026 equities bonds divergence MSCI Treasury 5 percent Japan JGB rupiah emerging FX oil Hormuz AI"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-25-global-macro/pt-BR.md",
+        "title": "Global Macro — Ativos de risco resistem à venda de títulos enquanto a pressão se concentra em juros e câmbio emergente",
+        "deck": "As bolsas globais caminham para sua melhor semana desde o início de agosto mesmo com juros soberanos longos perto de máximas de várias décadas, revelando um choque seletivo entre ativos em vez de aperto uniforme.",
+        "tags": [
+          "macro global",
+          "ações",
+          "Treasuries",
+          "mercados emergentes",
+          "câmbio",
+          "petróleo",
+          "IA"
+        ],
+        "keywords": [
+          "MSCI mundial",
+          "juros dos Treasuries",
+          "JGB",
+          "rupia",
+          "dólar",
+          "Ormuz",
+          "IA"
+        ],
+        "regime": "Divergência entre ativos: o apetite por risco em ações permanece resiliente enquanto juros soberanos longos e algumas moedas emergentes absorvem parcela maior do choque de juros e energia.",
+        "key_risk": "Se o alívio energético fracassar ou os juros longos permanecerem acima de 5%, a resiliência das ações pode convergir para baixo em direção ao estresse já visível em duração e alguns câmbios emergentes.",
+        "watch": [
+          "Resiliência do MSCI mundial e de índices amplos após a reprecificação de títulos",
+          "Treasuries de 10 e 30 anos em torno de 5%",
+          "Rupia e possível contágio para outras moedas emergentes",
+          "Hipoteca de 30 anos nos EUA e atividade imobiliária",
+          "Tráfego verificado por Ormuz, custos de frete e exportações de energia do Golfo"
+        ],
+        "search_text": "Global Macro 25 setembro 2026 ações títulos divergência MSCI Treasury 5 por cento Japão JGB rupia câmbio emergente petróleo Ormuz IA"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia",
+        "southeast-asia",
+        "gulf"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "novelty_gate": {
+      "compared_public_editions": [
+        "MT-GM-2026-09-22",
+        "MT-GM-2026-09-23",
+        "MT-GM-2026-09-24"
+      ],
+      "dominant_delta": "The new 25 September signal is the cross-asset divergence itself: global equities were heading for their best week since early August even as U.S. and Japanese long yields remained near multi-decade highs, while the Indonesian rupiah was heading for its worst week since late May.",
+      "repetition_control": "Long yields are treated as inherited background from the 22-24 September editions. The report leads with selective absorption across equities, duration and emerging-market FX, and explicitly rejects the prior draft's unsupported claim that a broad refinancing squeeze is already observed."
+    },
+    "revision": 2,
+    "revision_reason": "QA rework after revision 1 rejection: localized remaining PT-BR financial anglicisms and removed an unsupported sanctions-economic-coercion taxonomy classification. The cross-asset divergence thesis, factual claims, EN source and visual evidence remain unchanged.",
+    "supersedes_rejected_commit": "29b7f54e4a302f18388b70e3573b6af823fbf8b4",
+    "qa_fixes_applied": [
+      "Reframed long yields from the lead thesis to background evidence and made the 25 September equity-versus-bond divergence the dominant new mechanism.",
+      "Removed claims that broad sovereign or corporate refinancing stress is already observed; retained mortgage pricing as observed evidence and labeled wider refinancing effects as conditional.",
+      "Added contrary evidence from the resilience of global equities and dispersion across Asian currencies.",
+      "Preserved EN/PT-BR semantic and visual parity with one analytical table, one Treasury chart and one transmission flow in each locale.",
+      "Localized remaining PT-BR financial terminology: valuation → precificação/avaliações de ativos; intraday → durante a sessão; first capex occurrence → investimento de capital (capex).",
+      "Removed sanctions-economic-coercion from phenomena because sanctions/economic coercion are not materially analyzed in this edition.",
+      "Preserved the approved novelty direction: cross-asset divergence remains the lead thesis; no broad refinancing-stress claim was reintroduced.",
+      "Corrected rejection provenance: supersedes_rejected_commit now references the QA rejection commit 29b7f54e4a302f18388b70e3573b6af823fbf8b4."
+    ]
+  }
+}
