@@ -103,10 +103,7 @@ const enPairs=[
   [/\bgreenfield\b/gi,'new investment projects'],
   [/\bfunding\b/gi,'financing'],
   [/\bhedge\b/gi,'protection'],
-  [/\bduration\b/gi,'sensitivity to long-term interest rates'],
   [/\bcapex\b/gi,'capital investment'],
-  [/\brepricing\b/gi,'market price adjustment'],
-  [/\btail risks?\b/gi,'extreme downside risks'],
   [/\b2025 regime\b/gi,'2025 economic setting'],
   [/\bmarket regime\b/gi,'market environment']
 ];
@@ -126,7 +123,9 @@ function markdownCheckText(text){
 }
 
 const forbiddenPt=[/\binfer[eê]ncia\b/i,/\bdelta\b/i,/\bgargalo\b/i,/\bmidstream\b/i,/\bgreenfield\b/i,/\bfunding\b/i,/\bhedge\b/i,/\bduration\b/i,/\bvaluation\b/i];
-const forbiddenEn=[/\binference\b/i,/\bdelta\b/i,/\bbottleneck\b/i,/\bmidstream\b/i,/\bgreenfield\b/i,/\bfunding\b/i,/\bduration\b/i];
+// Keep standard finance terms such as duration, repricing and tail risk intact: broad
+// word-level paraphrases can break grammar and precision in otherwise valid analysis.
+const forbiddenEn=[/\binference\b/i,/\bdelta\b/i,/\bbottleneck\b/i,/\bmidstream\b/i,/\bgreenfield\b/i,/\bfunding\b/i];
 
 let changed=0,evidenceFixed=0;
 const failures=[];
