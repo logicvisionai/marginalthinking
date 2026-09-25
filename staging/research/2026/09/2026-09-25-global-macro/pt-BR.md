@@ -10,14 +10,14 @@ O sinal de hoje, portanto, é de absorção seletiva, e não de um aperto genera
 
 A Reuters informou que o índice mundial MSCI caminhava para sua melhor semana desde o início de agosto em 25 de setembro. O Nikkei japonês subia pouco mais de 1% e o STOXX 600 avançava cerca de 0,5% no início da sessão europeia. Ao mesmo tempo, juros soberanos longos permaneciam próximos de máximas de várias décadas: o Treasury de 10 anos perto de 5,17%, o de 30 anos em torno de 5,46% e o JGB japonês de 10 anos em 3,115%.
 
-Isso não significa que as ações tenham se tornado insensíveis aos juros. Significa que, por enquanto, expectativas de lucros e narrativas específicas de investimento compensam parte da pressão de valuation gerada por taxas de desconto maiores. A Reuters apontou o otimismo em IA como uma das forças sustentando as bolsas, enquanto a possibilidade de melhora no fluxo de energia do Oriente Médio reduzia parte do risco inflacionário de cauda.
+Isso não significa que as ações tenham se tornado insensíveis aos juros. Significa que, por enquanto, expectativas de lucros e narrativas específicas de investimento compensam parte da pressão de precificação gerada por taxas de desconto maiores. A Reuters apontou o otimismo em IA como uma das forças sustentando as bolsas, enquanto a possibilidade de melhora no fluxo de energia do Oriente Médio reduzia parte do risco inflacionário de cauda.
 
 | Sinal de mercado | Observação em 25 set | O que indica — e o que não indica |
 | --- | --- | --- |
 | Ações globais MSCI | A caminho da melhor semana desde o início de agosto | Apetite por risco permanece resiliente; não prova afrouxamento das condições financeiras |
 | Nikkei 225 | Alta de pouco mais de 1% no início da sessão | Ações japonesas absorveram nova alta dos JGBs |
-| Treasury EUA 10 anos | Cerca de 5,17% intraday; 5,18% no fechamento oficial de 24 set | Precificação de longa duração continua restritiva |
-| Treasury EUA 30 anos | Cerca de 5,46% intraday; 5,47% no fechamento oficial de 24 set | Risco de duração, inflação e fiscal continua caro |
+| Treasury EUA 10 anos | Cerca de 5,17% durante a sessão; 5,18% no fechamento oficial de 24 set | Precificação de longa duração continua restritiva |
+| Treasury EUA 30 anos | Cerca de 5,46% durante a sessão; 5,47% no fechamento oficial de 24 set | Risco de duração, inflação e fiscal continua caro |
 | JGB Japão 10 anos | 3,115%, maior nível desde 1996 | Choque global de juros segue visível fora dos EUA |
 | Rupia indonésia | Queda de quase 1% na semana; pior desempenho semanal desde o fim de maio | Juros dos EUA, dólar e energia transmitem pressão mais claramente para algumas moedas emergentes |
 
@@ -57,7 +57,7 @@ A diferença entre preço e estresse realizado deve permanecer explícita. Hipot
 Essa interpretação mais estreita também explica por que as ações podem permanecer firmes ao mesmo tempo. Uma grande empresa lucrativa, com forte geração de caixa e acesso ao mercado acionário, não enfrenta o mesmo canal de transmissão que uma família, um tomador alavancado ou uma economia emergente dependente de capital externo.
 
 ```flow
-Expectativas de lucros e capex em IA + possível alívio na oferta de energia do Oriente Médio → sustentam o apetite por risco em ações
+Expectativas de lucros e investimento de capital (capex) em IA + possível alívio na oferta de energia do Oriente Médio → sustentam o apetite por risco em ações
 Inflação, oferta fiscal e expectativa de aperto dos bancos centrais → mantêm juros soberanos longos elevados
 Juros altos nos EUA + dólar firme + dependência de energia importada → aumentam pressão sobre moedas emergentes vulneráveis
 Hipotecas mais caras → apertam o preço do crédito às famílias, sem provar sozinhas estresse amplo de refinanciamento
@@ -66,7 +66,7 @@ Resultado entre ativos → resiliência dos grandes índices acionários convive
 
 ## A divergência pode convergir em qualquer direção
 
-Há duas formas amplas de a configuração atual convergir. No caminho mais benigno, a normalização sustentada da energia reduziria a compensação por inflação e permitiria recuo dos juros longos enquanto as expectativas de lucros permaneceriam intactas. No caminho adverso, juros altos por tempo suficiente poderiam enfraquecer valuations, criação de crédito ou expectativas de lucros, aproximando as ações do sinal já visível em títulos e algumas moedas.
+Há duas formas amplas de a configuração atual convergir. No caminho mais benigno, a normalização sustentada da energia reduziria a compensação por inflação e permitiria recuo dos juros longos enquanto as expectativas de lucros permaneceriam intactas. No caminho adverso, juros altos por tempo suficiente poderiam enfraquecer avaliações de ativos, criação de crédito ou expectativas de lucros, aproximando as ações do sinal já visível em títulos e algumas moedas.
 
 Nenhum dos dois caminhos está estabelecido. A evidência atual é de divergência entre ativos e transmissão desigual. Essa descrição é mais precisa do que tratar cada nova alta dos juros como um novo choque sistêmico ou interpretar a resistência das ações como prova de que custos maiores de financiamento deixaram de importar.
 
