@@ -34,12 +34,12 @@
     },
     "/methodology.html": {
       "en": {
-        "title": "Research Methodology | Marginal Thinking",
-        "description": "How Marginal Thinking separates evidence, inference and scenarios, triangulates sources, tests mechanisms and keeps research auditable."
+        "title": "Research Methodology: Evidence & Scenarios | Marginal Thinking",
+        "description": "How Marginal Thinking separates evidence, inference and scenarios, triangulates sources, tests causal mechanisms and keeps research auditable."
       },
       "pt-BR": {
-        "title": "Metodologia de Pesquisa | Marginal Thinking",
-        "description": "Como a Marginal Thinking separa evidência, inferência e cenários, triangula fontes, testa mecanismos e mantém a pesquisa econômica e geopolítica auditável."
+        "title": "Metodologia: Evidência e Cenários | Marginal Thinking",
+        "description": "Como a Marginal Thinking separa evidência, inferência e cenários, triangula fontes, testa mecanismos causais e mantém a pesquisa auditável."
       }
     },
     "/what-is-marginal-thinking/": {
@@ -112,6 +112,66 @@
       "pt-BR": {
         "title": "Guerra Rússia–Ucrânia e a Ruptura da Segurança Europeia",
         "description": "História profunda de OTAN, Ucrânia, Rússia, dissuasão e ordem pós-Guerra Fria, reconstruindo os mecanismos que produziram o sistema de guerra de 2026."
+      }
+    },
+    "MT-WP-2026-09-15": {
+      "en": {
+        "title": "Global Wealth: Dollar, Gold, Chips & Minerals | Sep 2026",
+        "description": "U.S. markets still concentrate financial wealth as sovereign capital, gold, chips, critical minerals, data centers and power reshape future income."
+      },
+      "pt-BR": {
+        "title": "Riqueza Global: Dólar, Ouro, Chips e Minerais | Set. 2026",
+        "description": "Mercados dos EUA concentram riqueza financeira enquanto capital soberano, ouro, chips, minerais críticos, data centers e energia redistribuem renda futura."
+      }
+    },
+    "MT-GM-2026-09-16": {
+      "en": {
+        "title": "Fed, Copom, 5% Treasury Yields & Oil Relief | Sep 16, 2026",
+        "description": "Saudi routing via Oman eased immediate oil scarcity risk, but a near-5% U.S. 10-year yield kept financing tight ahead of Fed and Copom decisions."
+      },
+      "pt-BR": {
+        "title": "Fed, Copom, Treasury a 5% e Petróleo | 16 set. 2026",
+        "description": "A rota saudita via Omã aliviou o risco imediato do petróleo, mas Treasury de 10 anos perto de 5% manteve o financiamento apertado antes de Fed e Copom."
+      }
+    },
+    "MT-GM-2026-09-19": {
+      "en": {
+        "title": "Lower Oil, 5% Treasury Yields & Equity Outflows | Sep 19, 2026",
+        "description": "Lower oil eased the inflation shock, but near-5% Treasury yields, synchronized central-bank tightening and equity-fund outflows kept conditions restrictive."
+      },
+      "pt-BR": {
+        "title": "Petróleo, Treasury a 5% e Saídas de Ações | 19 set. 2026",
+        "description": "Petróleo mais baixo aliviou o choque inflacionário, mas Treasury perto de 5%, aperto de bancos centrais e saídas de fundos mantiveram condições restritivas."
+      }
+    },
+    "MT-WF-2026-09-21": {
+      "en": {
+        "title": "TIC Flows, $8T Money Funds & Record Gold ETFs | Sep 21, 2026",
+        "description": "July 2026 TIC flows weakened in long-term U.S. securities as money-market assets stayed near $8T and gold ETF holdings reached a record."
+      },
+      "pt-BR": {
+        "title": "Fluxos TIC, US$8 tri em MMFs e Ouro Recorde | 21 set. 2026",
+        "description": "Fluxos TIC de julho de 2026 enfraqueceram em títulos longos dos EUA, enquanto fundos monetários ficaram perto de US$8 tri e ETFs de ouro bateram recorde."
+      }
+    },
+    "MT-GMFI-2026-09-22": {
+      "en": {
+        "title": "Fed, BoE, BoJ, ECB & IMF: Global Institutions | Sep 22, 2026",
+        "description": "Fed, BoE, BoJ and ECB moves, a new IMF–World Bank debt framework, Eurosystem tokenised settlement and the NDB’s next strategy cycle."
+      },
+      "pt-BR": {
+        "title": "Fed, BoE, BoJ, BCE e FMI: Instituições Globais | 22 set. 2026",
+        "description": "Fed, BoE, BoJ e BCE, novo marco FMI–Banco Mundial para dívida, liquidação tokenizada no Eurosistema e próximo ciclo estratégico do NDB."
+      }
+    },
+    "MT-GM-2026-09-23": {
+      "en": {
+        "title": "Oil Below $100, AI Rally & High Yields | Sep 23, 2026",
+        "description": "Oil below $100 eased inflation risk, but high Treasury yields, a firm dollar, European gas costs and incomplete Gulf normalization kept conditions tight."
+      },
+      "pt-BR": {
+        "title": "Petróleo Abaixo de US$100, IA e Juros Longos | 23 set. 2026",
+        "description": "Petróleo abaixo de US$100 reduziu o risco inflacionário, mas Treasury alto, dólar firme, gás europeu e normalização incompleta do Golfo mantiveram aperto."
       }
     }
   }
