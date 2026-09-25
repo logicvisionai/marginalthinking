@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-25",
+  "slug": "2026-09-25-global-macro",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T08:21:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-25-global-macro/en.md",
+      "title": "Global Macro — Long yields are becoming a refinancing constraint, not just a valuation shock",
+      "deck": "The Treasury selloff is now transmitting into mortgages, global sovereign yields and emerging-market currencies, turning the long-rate shock from an asset-pricing event into a broader financing constraint.",
+      "tags": [
+        "global macro",
+        "Treasuries",
+        "mortgages",
+        "rates",
+        "Japan",
+        "oil",
+        "emerging markets"
+      ],
+      "keywords": [
+        "Treasury yields",
+        "30-year mortgage",
+        "refinancing",
+        "JGB",
+        "dollar",
+        "Brent",
+        "Hormuz"
+      ],
+      "regime": "High long sovereign yields are propagating from asset valuation into household, corporate and cross-border financing conditions.",
+      "key_risk": "A persistent combination of long yields above 5%, mortgage rates above 7% and renewed energy inflation turns market repricing into a broader refinancing squeeze.",
+      "watch": [
+        "U.S. 10-year and 30-year yields after upcoming Treasury auctions",
+        "U.S. 30-year mortgage rates and housing activity",
+        "Japan and European long sovereign yields",
+        "Dollar performance relative to the U.S. yield move",
+        "Verified Hormuz access, freight costs and Gulf energy throughput"
+      ],
+      "search_text": "Global Macro September 25 2026 Treasury 10-year 5.18 30-year 5.47 mortgage 7.03 refinancing Japan JGB dollar Brent Hormuz"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-25-global-macro/pt-BR.md",
+      "title": "Global Macro — Juros longos começam a virar restrição de refinanciamento, não apenas choque de valuation",
+      "deck": "A venda de Treasuries já se transmite para hipotecas, juros soberanos globais e moedas emergentes, transformando o choque de juros longos de um evento de precificação em restrição mais ampla de financiamento.",
+      "tags": [
+        "macro global",
+        "Treasuries",
+        "hipotecas",
+        "juros",
+        "Japão",
+        "petróleo",
+        "mercados emergentes"
+      ],
+      "keywords": [
+        "juros dos Treasuries",
+        "hipoteca de 30 anos",
+        "refinanciamento",
+        "JGB",
+        "dólar",
+        "Brent",
+        "Ormuz"
+      ],
+      "regime": "Juros soberanos longos elevados se propagam da precificação de ativos para as condições de financiamento de famílias, empresas e fluxos internacionais.",
+      "key_risk": "Combinação persistente de juros longos acima de 5%, hipotecas acima de 7% e nova inflação de energia transforma a reprecificação de mercado em aperto mais amplo de refinanciamento.",
+      "watch": [
+        "Treasuries de 10 e 30 anos após os próximos leilões",
+        "Hipotecas de 30 anos e atividade imobiliária nos EUA",
+        "Juros soberanos longos no Japão e na Europa",
+        "Desempenho do dólar em relação ao movimento dos juros dos EUA",
+        "Acesso verificado por Ormuz, custos de frete e fluxo de energia do Golfo"
+      ],
+      "search_text": "Global Macro 25 setembro 2026 Treasury 10 anos 5,18 30 anos 5,47 hipoteca 7,03 refinanciamento Japão JGB dólar Brent Ormuz"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "east-asia",
+      "southeast-asia",
+      "gulf"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "energy",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "sanctions-economic-coercion"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "novelty_gate": {
+    "compared_public_editions": [
+      "MT-GM-2026-09-22",
+      "MT-GM-2026-09-23",
+      "MT-GM-2026-09-24"
+    ],
+    "dominant_delta": "The 24 September long-rate selloff moved from a market repricing into observable refinancing transmission: the official 10-year Treasury closed at 5.18%, the 30-year at 5.47%, Freddie Mac's 30-year mortgage reached 7.03%, Japan's 10-year yield extended to 3.115%, and emerging-market FX pressure became more visible.",
+    "repetition_control": "The report does not repeat the 24 September thesis that stronger activity caused a sovereign-duration shock. It advances the mechanism by testing where that shock is now entering household borrowing, sovereign funding, global rates and emerging-market currencies; oil remains a conditional inflation channel rather than the dominant thesis."
+  }
+}
