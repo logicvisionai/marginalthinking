@@ -1,0 +1,57 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-25",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-25T08:42:24-03:00",
+  "reviewed_commit": "739ad488c7765b59c85d75fc8aac94f8038d2d7a",
+  "pending_blob_sha": "0300dce0f73188cf37b03569c3009dce36352ec8",
+  "source_blob_shas": {
+    "en": "a328d017a8d4020eb1370c3b179125304d303af1",
+    "pt-BR": "047c201388ac7e052810c1d90e09a3fc848b737c"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_repetition",
+      "location": "H1, opening and conclusion",
+      "detail": "The dominant long-rate thesis repeats the mechanism already leading the 22, 23 and 24 September editions. The 7.03% mortgage print is an 8 bp weekly move and does not by itself establish the material new break required for another rate-dominated lead."
+    },
+    {
+      "type": "claim_evidence_alignment",
+      "location": "Opening and first analytical section",
+      "detail": "Mortgage pricing is observed, but broad claims of sovereign funding and a realized refinancing constraint outrun the evidence. Higher benchmark yields and soft auctions establish repricing and supply-absorption risk, not a broad observed refinancing squeeze."
+    }
+  ],
+  "required_fixes": [
+    "Reframe long yields as background unless direct evidence shows a material break in realized financing conditions.",
+    "Lead with the most material genuinely new 25 September mechanism, or do not force a daily publication.",
+    "If retaining refinancing, narrow observed claims and label broader corporate or sovereign effects as inference or scenario.",
+    "Preserve EN/PT-BR semantic and visual parity after rework."
+  ],
+  "evidence": [
+    "U.S. Treasury official curve confirms 10Y 4.96%, 5.11%, 5.18% and 30Y 5.29%, 5.40%, 5.47% on 22-24 September.",
+    "Freddie Mac PMMS confirms 30Y mortgage 7.03% on 24 September versus 6.95% one week earlier.",
+    "Federal Reserve confirms target range 3.75%-4.00% from 16 September.",
+    "Public MT-GM editions on 22, 23 and 24 September already center restrictive long rates or sovereign duration."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "factual_methodological": {"result":"partial-pass","summary":"Central Treasury, mortgage and FOMC figures checked; blocker is novelty and claim scope."},
+    "taxonomy": {"result":"passed","summary":"No blocking controlled-taxonomy defect identified."},
+    "translation": {"result":"passed","summary":"EN/PT-BR materially equivalent in reviewed claims and visuals."},
+    "editorial_publication_readiness": {"result":"failed","summary":"Direct opening and analytical headings, but insufficient novelty versus three preceding editions and overbroad refinancing language."},
+    "contextual_depth": {"result":"passed","summary":"No independent contextual-depth blocker identified."},
+    "visual_evidence_readiness": {"result":"passed","signature":{"tables":1,"charts":2,"structural_visuals":["flow"],"total":4},"summary":"Visuals are analytical, dimensionally coherent and parallel across locales."}
+  },
+  "contrary_evidence": [
+    "Equities remain comparatively resilient, consistent with uneven rather than system-wide tightening.",
+    "A single weekly mortgage increase and soft auctions do not establish a broad realized refinancing squeeze."
+  ],
+  "limitations": [
+    "Several market observations are intraday and can change before close.",
+    "Direct corporate refinancing, issuance or realized housing and credit-activity evidence is not supplied."
+  ],
+  "notes": "Rejected before public materialization; public bundles unchanged."
+}
