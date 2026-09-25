@@ -128,7 +128,7 @@
   },
   "revision": 2,
   "revision_reason": "QA rework after revision 1 rejection: localized remaining PT-BR financial anglicisms and removed an unsupported sanctions-economic-coercion taxonomy classification. The cross-asset divergence thesis, factual claims, EN source and visual evidence remain unchanged.",
-  "supersedes_rejected_commit": "812c3dd20548a447df302cb06c14b6863faeb027",
+  "supersedes_rejected_commit": "29b7f54e4a302f18388b70e3573b6af823fbf8b4",
   "qa_fixes_applied": [
     "Reframed long yields from the lead thesis to background evidence and made the 25 September equity-versus-bond divergence the dominant new mechanism.",
     "Removed claims that broad sovereign or corporate refinancing stress is already observed; retained mortgage pricing as observed evidence and labeled wider refinancing effects as conditional.",
@@ -136,6 +136,7 @@
     "Preserved EN/PT-BR semantic and visual parity with one analytical table, one Treasury chart and one transmission flow in each locale.",
     "Localized remaining PT-BR financial terminology: valuation → precificação/avaliações de ativos; intraday → durante a sessão; first capex occurrence → investimento de capital (capex).",
     "Removed sanctions-economic-coercion from phenomena because sanctions/economic coercion are not materially analyzed in this edition.",
-    "Preserved the approved novelty direction: cross-asset divergence remains the lead thesis; no broad refinancing-stress claim was reintroduced."
+    "Preserved the approved novelty direction: cross-asset divergence remains the lead thesis; no broad refinancing-stress claim was reintroduced.",
+    "Corrected rejection provenance: supersedes_rejected_commit now references the QA rejection commit 29b7f54e4a302f18388b70e3573b6af823fbf8b4."
   ]
 }
