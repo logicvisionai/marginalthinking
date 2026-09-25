@@ -2,10 +2,22 @@ import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import {collectReports,reportView,availableLocales} from './lib/reports.mjs';
+import {canonicalizePublicUrl} from './lib/public-url.mjs';
 
 const root=process.cwd(),dist=path.join(root,'dist'),reports=collectReports(root),cfg=JSON.parse(fs.readFileSync('site.config.json','utf8'));
 const network=JSON.parse(fs.readFileSync('data/global-dependencies.json','utf8'));
-const fromUrl=url=>path.join(dist,url.split(/[?#]/)[0].replace(/\/$/,'/index.html').replace(/^\//,''));
+const publicUrl=url=>canonicalizePublicUrl(url,cfg.site_url);
+const fromUrl=url=>{
+  const pathname=String(url).split(/[?#]/)[0],clean=pathname.replace(/^\//,'');
+  if(!clean||clean.endsWith('/'))return path.join(dist,clean,'index.html');
+  const direct=path.join(dist,clean);
+  if(fs.existsSync(direct))return direct;
+  if(!path.extname(clean)){
+    const html=`${direct}.html`;if(fs.existsSync(html))return html;
+    const index=path.join(direct,'index.html');if(fs.existsSync(index))return index;
+  }
+  return direct;
+};
 for(const locale of Object.keys(cfg.locales)){
   const prefix=cfg.locales[locale].path?`/${cfg.locales[locale].path}`:'';
   const home=fs.readFileSync(fromUrl(`${prefix}/`),'utf8'),workspace=fs.readFileSync(fromUrl(`${prefix}/workspace/`),'utf8');
@@ -18,7 +30,9 @@ for(const locale of Object.keys(cfg.locales)){
     const actual=data.items.find(x=>x.id===r.id),view=reportView(r,locale);
     for(const [key,field] of [['title','title'],['deck','deck'],['regime','regime'],['risk','key_risk']])assert.equal(actual[key],view[field]||'',`${r.id}/${locale}: ${key} must retain canonical wording`);
     assert.deepEqual(actual.watch,view.watch||[],`${r.id}/${locale}: watch items must retain canonical wording`);
-    assert.equal(actual.url,`${prefix}${r.url}`);assert(fs.existsSync(fromUrl(actual.url)));
+    const sourceUrl=`${prefix}${r.url}`,canonicalUrl=publicUrl(sourceUrl);
+    assert([sourceUrl,canonicalUrl].includes(actual.url),`${r.id}/${locale}: URL must match source or Cloudflare canonical route`);
+    assert(fs.existsSync(fromUrl(actual.url)));
     for(const link of actual.connections){
       assert(fs.existsSync(fromUrl(link.url)),`${r.id}: missing connection destination`);
       if(link.url.includes('/dependencies/'))assert(network.edges.some(e=>e.id===link.url.split('#relation-')[1]&&e.research_ids?.includes(r.id)),`${r.id}: connection must be explicitly supported`);
