@@ -126,8 +126,8 @@
     "dominant_delta": "The new 25 September signal is the cross-asset divergence itself: global equities were heading for their best week since early August even as U.S. and Japanese long yields remained near multi-decade highs, while the Indonesian rupiah was heading for its worst week since late May.",
     "repetition_control": "Long yields are treated as inherited background from the 22-24 September editions. The report leads with selective absorption across equities, duration and emerging-market FX, and explicitly rejects the prior draft's unsupported claim that a broad refinancing squeeze is already observed."
   },
-  "revision": 2,
-  "revision_reason": "QA rework after revision 1 rejection: localized remaining PT-BR financial anglicisms and removed an unsupported sanctions-economic-coercion taxonomy classification. The cross-asset divergence thesis, factual claims, EN source and visual evidence remain unchanged.",
+  "revision": 3,
+  "revision_reason": "Build-validation correction after public revision 2: replaced unsupported multi-series chart authoring syntax with the repository's canonical single-series chart grammar. No factual claim, thesis, table value, causal mechanism or conclusion changed; the 30-year Treasury series remains in the analytical table.",
   "supersedes_rejected_commit": "29b7f54e4a302f18388b70e3573b6af823fbf8b4",
   "qa_fixes_applied": [
     "Reframed long yields from the lead thesis to background evidence and made the 25 September equity-versus-bond divergence the dominant new mechanism.",
@@ -137,6 +137,7 @@
     "Localized remaining PT-BR financial terminology: valuation → precificação/avaliações de ativos; intraday → durante a sessão; first capex occurrence → investimento de capital (capex).",
     "Removed sanctions-economic-coercion from phenomena because sanctions/economic coercion are not materially analyzed in this edition.",
     "Preserved the approved novelty direction: cross-asset divergence remains the lead thesis; no broad refinancing-stress claim was reintroduced.",
-    "Corrected rejection provenance: supersedes_rejected_commit now references the QA rejection commit 29b7f54e4a302f18388b70e3573b6af823fbf8b4."
+    "Corrected rejection provenance: supersedes_rejected_commit now references the QA rejection commit 29b7f54e4a302f18388b70e3573b6af823fbf8b4.",
+    "Converted the Treasury chart from unsupported series:/labels: multi-series syntax to the canonical label | number line-chart grammar documented in RESEARCH-VISUALS.md; EN/PT-BR remain visually and semantically aligned."
   ]
 }

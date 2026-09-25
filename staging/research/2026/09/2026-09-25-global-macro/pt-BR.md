@@ -23,11 +23,11 @@ Isso não significa que as ações tenham se tornado insensíveis aos juros. Sig
 
 ```chart
 type: line
-title: Juros longos dos Treasuries — 22 a 24 de setembro de 2026
+title: Juro do Treasury de 10 anos — 22 a 24 de setembro de 2026
 unit: %
-series: 10 anos | 4.96 | 5.11 | 5.18
-series: 30 anos | 5.29 | 5.40 | 5.47
-labels: 22 set | 23 set | 24 set
+22 set | 4.96
+23 set | 5.11
+24 set | 5.18
 ```
 
 O gráfico dos Treasuries é contexto, não a tese do dia. A mudança relevante é que as ações não acompanharam a venda de títulos na mesma proporção. Se essa divergência persistir, a distribuição da pressão financeira importa mais do que um único rótulo agregado de aversão ou apetite a risco.

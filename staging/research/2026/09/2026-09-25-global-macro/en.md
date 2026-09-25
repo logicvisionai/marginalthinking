@@ -23,11 +23,11 @@ This is not a claim that equities have become insensitive to interest rates. It 
 
 ```chart
 type: line
-title: U.S. long Treasury yields — 22 to 24 September 2026
+title: U.S. 10-year Treasury yield — 22 to 24 September 2026
 unit: %
-series: 10Y | 4.96 | 5.11 | 5.18
-series: 30Y | 5.29 | 5.40 | 5.47
-labels: 22 Sep | 23 Sep | 24 Sep
+22 Sep | 4.96
+23 Sep | 5.11
+24 Sep | 5.18
 ```
 
 The Treasury chart is background rather than today's thesis. The relevant change is that equities have not followed the bond selloff one-for-one. If this divergence persists, the distribution of financing pressure matters more than a single aggregate risk-on/risk-off label.
