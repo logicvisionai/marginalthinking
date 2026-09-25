@@ -71,6 +71,12 @@ The September 17 context review added the historical, institutional and social m
 - **Unchanged:** lower crude does not establish normalized Gulf logistics or easy financial conditions. Realized throughput, refined products, freight/insurance and long sovereign yields remain separate verification layers.
 - **Watch:** the gap between announced/nameplate bypass capacity and realized export throughput as restoration proceeds.
 
+### 2026-09-25
+
+- **Changed:** canonical research now distinguishes diplomatic or market expectations of Middle East energy de-escalation from verified physical normalization. Equity risk appetite can respond to anticipated supply relief before Hormuz traffic, Gulf exports, freight or insurance conditions have demonstrably normalized.
+- **Unchanged:** a softer energy-risk premium is not evidence that the logistics chain itself has normalized. Physical throughput, terminal/export performance, freight and insurance remain separate verification layers.
+- **Research implication:** treat diplomacy/expectations → asset pricing and verified logistics → physical supply as related but distinct transmission channels; do not use the first as proof of the second.
+
 ## Open questions
 
 - How much effective export capacity can Saudi alternative routes sustain under prolonged Hormuz impairment after accounting for maintenance, terminal constraints and crude compatibility?
@@ -89,6 +95,8 @@ The September 17 context review added the historical, institutional and social m
 - `MT-GM-2026-09-17` — Global Macro Daily, 2026-09-17, revision 3.
 - `MT-WF-2026-09-16` — Global Wealth Flow Monitor, 2026-09-16.
 - `MT-GM-2026-09-23` — Global Macro Daily, 2026-09-23, revision 1; partial East-West pipeline restoration and the separation between energy-risk relief and restrictive financing conditions.
+
+- `MT-GM-2026-09-25` — Global Macro Daily, 2026-09-25, revision 3; distinguishes anticipated Middle East energy de-escalation from verified Hormuz traffic and Gulf export normalization.
 
 ## Sources and verification notes
 
