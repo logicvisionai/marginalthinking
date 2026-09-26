@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-26-united-states",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-26T12:48:03-03:00",
+  "reviewed_commit": "d49077dc7a4ce98b2985bc1796cc883cedf7aefe",
+  "pending_blob_sha": "f7ab24a1fb9c59c19644212b1648f8c9671f0178",
+  "source_blob_shas": {
+    "en": "cd0982a3fe0dd6cdd76d59b9ff4071d9939fcc2b",
+    "pt-BR": "efca12a8e071f452d481b782ddd9bef5ad2d1e77"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "The original factual/methodological gate had already passed. Revision 1 adds distinct sourced mechanisms only: CBO fiscal capacity and net-interest projections, Census August housing construction, DOE/Lawrence Berkeley Lab transmission and interconnection evidence, and FERC evidence on load growth and queue constraints. Current and time-sensitive additions were revalidated against primary sources."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Program, economy/politics/society dimensions, country geography, controlled topics, phenomena, format and cadence all match taxonomy version 1.0."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN/PT-BR preserve the same thesis, 13 analytical H2 sections, evidence-bearing mechanisms and visual structure; localized prose remains natural in both locales."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The dossier opens directly with a structural thesis, uses mechanism-bearing headings, exposes no prompt/QA template, and the expansion adds analytical mechanisms rather than filler."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Mechanical gate clears the Country Context floor in both locales (2294 substantive EN words/13 H2; 2507 substantive PT-BR words/13 H2). Federal implementation, fiscal capacity, housing, grid governance, labor mobility, dollar centrality and trade dependence are connected to current productive constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "2 analytical tables + 2 charts + 2 causal flows in each locale",
+      "summary": "The prior visual gate already passed and revision 1 preserves the evidence-bearing visual signature with semantic parity. No map is required for comprehension because the added mechanisms are institutional/capacity relationships rather than a corridor-specific spatial claim."
+    },
+    "country_context_contract": {
+      "result": "passed",
+      "summary": "Country identity is explicit; context_role and canonical related_research_ids are present; both referenced public researches materially connect the United States through Federal Reserve/dollar transmission and the September 25 macro financing regime; depth and visual floors now pass."
+    },
+    "revision_delta": {
+      "result": "passed",
+      "summary": "Revision 1 directly addresses every recorded blocker from the prior rejection while preserving ID, date, slug, program, scope, visual evidence and triggering-research relationships."
+    }
+  },
+  "contrary_evidence": [
+    "Deep capital markets, energy production, research capacity and continental scale argue against a simple structural-decline thesis.",
+    "Below-average industrial utilization and uneven housing, transmission and local implementation capacity argue against frictionless conversion of national financial scale into physical productive capacity.",
+    "Large federal fiscal capacity remains available even as higher debt-service costs narrow marginal budget space."
+  ],
+  "limitations": [
+    "CBO figures are baseline projections under specified law and economic assumptions rather than realized future outcomes.",
+    "Monthly housing starts, permits and completions are volatile and are used to illustrate the local supply-transmission mechanism rather than to infer a trend from one month.",
+    "Interconnection queues are not forecasts of capacity that will be built; the dossier explicitly treats them as evidence of the scale and timing of the connection process.",
+    "Some FERC evidence is contained in commissioner statements accompanying Commission actions; it supports the described governance constraint but is not itself a nationwide quantitative estimate."
+  ],
+  "notes": "Revision 1 clears the prior Country Context depth and analytical-mechanism blockers. Public-state recheck at the reviewed HEAD found no canonical metadata/index entry for this ID. Approval is bound to the exact current pending and EN/PT-BR Git blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-26-united-states",
+    "slug": "2026-09-26-country-context-united-states",
+    "date": "2026-09-26",
+    "published_at": "2026-09-26T10:00:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-26-country-context-united-states/en.md",
+        "title": "United States: continental scale, federal fragmentation and the institutions behind dollar-centered power",
+        "deck": "A structural dossier on how federal institutions, regional production, demographics and capital markets shape U.S. capacity and the global transmission of dollar conditions.",
+        "tags": [
+          "United States",
+          "federalism",
+          "dollar",
+          "industry",
+          "demography",
+          "capital markets"
+        ],
+        "keywords": [
+          "United States political economy",
+          "Federal Reserve",
+          "federalism",
+          "industrial capacity",
+          "US demographics",
+          "dollar system"
+        ],
+        "regime": "Structural context: concentrated national monetary and financial power coexists with decentralized physical implementation and regionally uneven productive constraints.",
+        "key_risk": "Treating national financial power as equivalent to frictionless domestic implementation obscures housing, infrastructure, labor and industrial bottlenecks.",
+        "watch": [
+          "Productivity diffusion beyond technology-intensive sectors",
+          "Labor-force participation and migration",
+          "Manufacturing capacity utilization",
+          "Housing and electricity infrastructure expansion",
+          "Transmission of long U.S. yields into credit and investment"
+        ],
+        "search_text": "United States country context federalism dollar Federal Reserve industrial capacity demographics trade labor capital markets"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-26-country-context-united-states/pt-BR.md",
+        "title": "Estados Unidos: escala continental, fragmentação federal e as instituições por trás do poder centrado no dólar",
+        "deck": "Um dossiê estrutural sobre como instituições federais, produção regional, demografia e mercados de capitais moldam a capacidade dos EUA e a transmissão global das condições em dólar.",
+        "tags": [
+          "Estados Unidos",
+          "federalismo",
+          "dólar",
+          "indústria",
+          "demografia",
+          "mercados de capitais"
+        ],
+        "keywords": [
+          "economia política dos Estados Unidos",
+          "Federal Reserve",
+          "federalismo",
+          "capacidade industrial",
+          "demografia dos EUA",
+          "sistema do dólar"
+        ],
+        "regime": "Contexto estrutural: poder monetário e financeiro nacional concentrado coexiste com execução física descentralizada e restrições produtivas regionalmente desiguais.",
+        "key_risk": "Tratar poder financeiro nacional como equivalente a execução doméstica sem atritos obscurece gargalos de habitação, infraestrutura, trabalho e indústria.",
+        "watch": [
+          "Difusão de produtividade além dos setores intensivos em tecnologia",
+          "Participação na força de trabalho e migração",
+          "Utilização da capacidade manufatureira",
+          "Expansão de habitação e infraestrutura elétrica",
+          "Transmissão dos juros longos dos EUA para crédito e investimento"
+        ],
+        "search_text": "Estados Unidos contexto de país federalismo dólar Federal Reserve capacidade industrial demografia comércio trabalho mercados de capitais"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "north-america"
+      ],
+      "countries": [
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "institutions-governance",
+      "demography-labor",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-SA-2026-09-23-FEDERAL-RESERVE",
+      "MT-GM-2026-09-25"
+    ],
+    "selection_rationale": "The United States is materially implicated by the Federal Reserve structural assessment and the September 25 global-macro transmission mechanism. Existing public research explains the Fed and daily market conditions but does not supply reusable country-level context linking federalism, regional production, demographics, infrastructure and dollar-centered financial power.",
+    "contrary_evidence": [
+      "Deep capital markets, energy production, research capacity and a continental domestic market argue against a simple structural-decline thesis.",
+      "Below-average industrial utilization, uneven infrastructure constraints and import dependence in selected supply chains argue against a frictionless-dominance thesis."
+    ],
+    "limitations": [
+      "Current statistics are point-in-time and must be revalidated in future event-driven research.",
+      "A country-level dossier cannot resolve large state and metropolitan differences; those should be treated separately when material."
+    ],
+    "revision": 1,
+    "revision_reason": "QA rework: expanded fiscal capacity, housing/local supply, electricity transmission/interconnection and labor-mobility mechanisms to satisfy the Country Context depth floor while preserving identity, taxonomy and triggering-research relationships.",
+    "supersedes_rejected_commit": "0f42ac91188de1c8329f43588ce6ac1d0caa3872",
+    "qa_fixes_applied": [
+      "Raised both public locales above the mechanical 1,600-substantive-word floor and above the 12-H2 analytical-section floor.",
+      "Added a sourced federal fiscal-capacity and net-interest transmission mechanism using the February 2026 CBO baseline.",
+      "Added a sourced housing/local-supply mechanism using August 2026 Census construction data.",
+      "Added a sourced electricity transmission/interconnection mechanism using DOE, Berkeley Lab and FERC evidence.",
+      "Added a labor-mobility mechanism linking demographics to housing, infrastructure, skills and regional productive capacity.",
+      "Preserved EN/PT-BR semantic parity, the existing evidence-bearing visual signature and explicit links to MT-SA-2026-09-23-FEDERAL-RESERVE and MT-GM-2026-09-25."
+    ]
+  }
+}
