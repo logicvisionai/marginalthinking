@@ -62,7 +62,7 @@ function validateEditorialIntegrity(text,file,item={}){
       if(m)fail.push(file+': '+label+'; conflito publicado exige prosa institucional e substantiva, sem comentários de bastidor ou instruções ao leitor (trecho: "'+m[0]+'")');
     }
   }
-  const bodyProse=prose.split('\n').filter(line=>!/^#{1,6}\\s/.test(line.trim())).join('\n');
+  const bodyProse=prose.split('\n').filter(line=>!/^#{1,6}\s/.test(line.trim())).join('\n');
   const selfRefs=(bodyProse.match(/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|pesquisa|article|report|analysis|assessment|research)\b/gi)||[]).length;
   if(strict&&selfRefs>0)fail.push(file+': autorreferência editorial detectada ('+selfRefs+'); afirme evidência, mecanismo ou limitação diretamente');
   else if(selfRefs>3)warn.push(file+': excesso de autorreferência editorial ('+selfRefs+'); prefira afirmar a evidência e o mecanismo diretamente');
