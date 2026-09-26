@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-26",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-26T12:48:03-03:00",
+  "reviewed_commit": "db7a43ca567d56748ebcc2706d1ed8b66d54c735",
+  "pending_blob_sha": "73e73683a4bd61b8d8f267dada76b0e475075d80",
+  "source_blob_shas": {
+    "en": "7aadb419e82babc538ac233e39cca4d8e21299bd",
+    "pt-BR": "0026f1fc5e315d9f3ff5c310049e6d4f6008abf4"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central observations were revalidated against the September 25 Census durable-goods release, official U.S. Treasury nominal and real yield curves, the final University of Michigan September survey, and current Reuters reporting. Core capital-goods orders rose 1.6%, shipments 0.6%, the official September 25 10-year/30-year yields were 5.17%/5.49%, real 10-year/30-year yields were 2.83%/3.22%, and consumer sentiment was 48.1 with one-year inflation expectations at 4.6%. The Saturday political update was refreshed before approval: Trump publicly rejected Iran's Hormuz proposal, so Friday's oil relief is not presented as an agreed reopening path."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "The daily remains inside political-economy-markets with the fixed global-macro classification, controlled dimensions, geography, topics, war-armed-conflict phenomenon, brief format and daily cadence."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN/PT-BR preserve the same thesis, numbers, causal sequence, Saturday Hormuz update and visual values. Raw PT-BR uses natural equivalents for throughput/capex where those terms had no editorial need."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Opening leads with the new equipment-investment/expensive-capital divergence, headings state mechanisms rather than template fields, the prose exposes no QA process, and the conclusion synthesizes contrary evidence and forward variables."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The daily uses durable context only where it explains transmission: high real yields select among investment projects; household expectations constrain easing; and Gulf diplomacy is explicitly separated from physical shipping normalization."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 analytical table + 1 explicit business-equipment chart + 1 causal flow in each locale",
+      "summary": "Both locales meet the brief floor with identical values and compatible units. The chart uses observed August month-on-month values and the flow distinguishes the investment/interest-rate channel from the Gulf energy-risk channel."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "Compared with the three prior public MT-GM editions, the dominant new information is the September 25 release showing 1.6% core capital-goods orders and 0.6% shipments under a >5% long-rate regime. The Saturday U.S. rejection of Iran's proposal is an additional material update to the energy tail; long yields and equity resilience are supporting context rather than a recycled lead thesis."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Contested geopolitical claims and motives are attributed. The report states the observable U.S. rejection and Iranian proposal terms without endorsing either side or inferring political motives as fact."
+    }
+  },
+  "contrary_evidence": [
+    "Headline durable-goods orders were virtually unchanged in August, so the manufacturing signal is not uniformly strong.",
+    "Regional Federal Reserve surveys cited in contemporaneous reporting showed some moderation in capital-expenditure plans despite strong realized core orders.",
+    "Consumer sentiment weakened while inflation expectations rose, arguing against a painless broad investment boom.",
+    "Equities rose and oil fell on Friday, evidence against a uniform financial-tightening narrative; Saturday's rejection of the Iranian proposal also means Friday's energy relief cannot be assumed durable."
+  ],
+  "limitations": [
+    "Friday market prices precede the Saturday U.S. rejection of Iran's Hormuz proposal; the next market session may reprice the energy and rates channels.",
+    "The relationship between AI investment, Treasury yields and equity resilience is analytical inference rather than a fully identified causal decomposition.",
+    "University of Michigan inflation expectations are survey expectations, not realized inflation.",
+    "Strong core capital-goods orders may be concentrated in technology-linked categories and do not establish a broad-based productivity cycle."
+  ],
+  "notes": "QA was rerun after the Saturday Hormuz fact changed. The stale 'awaiting U.S. response' language was removed before approval. Public-state recheck at reviewed HEAD found no canonical bundle or data/reports.json entry for MT-GM-2026-09-26. Approval is bound to the exact current pending and EN/PT-BR blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-26",
+    "slug": "2026-09-26-global-macro",
+    "date": "2026-09-26",
+    "published_at": "2026-09-26T12:46:21-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-26-global-macro/en.md",
+        "title": "Global Macro — Strong U.S. equipment demand collides with a 5% long-rate regime",
+        "deck": "August capital-goods orders show a resilient U.S. equipment-investment cycle even as long real and nominal yields remain restrictive and household inflation expectations rise.",
+        "tags": [
+          "global macro",
+          "capital expenditure",
+          "Treasuries",
+          "AI",
+          "consumer sentiment",
+          "oil",
+          "Hormuz"
+        ],
+        "keywords": [
+          "core capital goods",
+          "durable goods",
+          "Treasury yields",
+          "real yields",
+          "AI investment",
+          "consumer sentiment",
+          "inflation expectations",
+          "Brent",
+          "Hormuz"
+        ],
+        "regime": "Selective investment strength under expensive capital: equipment demand remains firm while long real and nominal yields stay restrictive and household confidence weakens.",
+        "key_risk": "Persistent high real yields could spread financing pressure beyond housing and weaker borrowers, while the U.S. rejection of Iran's Hormuz proposal leaves the energy-inflation tail exposed to renewed escalation.",
+        "watch": [
+          "Breadth of U.S. equipment investment beyond AI-linked categories",
+          "U.S. 10-year and 30-year nominal and real yields",
+          "Credit spreads, issuance quality and project cancellations",
+          "Michigan and market-based inflation expectations",
+          "Any renewed U.S.-Iran diplomatic channel and verified Hormuz throughput, freight and insurance conditions"
+        ],
+        "search_text": "Global Macro September 26 2026 durable goods core capital goods AI investment Treasury yields real rates Michigan sentiment inflation expectations Brent Hormuz"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-26-global-macro/pt-BR.md",
+        "title": "Global Macro — Investimento forte em equipamentos nos EUA colide com um regime de juros longos acima de 5%",
+        "deck": "Os pedidos de bens de capital de agosto mostram um ciclo resiliente de investimento em equipamentos nos EUA enquanto juros nominais e reais longos continuam restritivos e as expectativas de inflação das famílias sobem.",
+        "tags": [
+          "macro global",
+          "investimento de capital",
+          "Treasuries",
+          "IA",
+          "confiança do consumidor",
+          "petróleo",
+          "Ormuz"
+        ],
+        "keywords": [
+          "bens de capital núcleo",
+          "bens duráveis",
+          "juros dos Treasuries",
+          "juros reais",
+          "investimento em IA",
+          "confiança do consumidor",
+          "expectativas de inflação",
+          "Brent",
+          "Ormuz"
+        ],
+        "regime": "Força seletiva do investimento sob capital caro: a demanda por equipamentos permanece firme enquanto juros nominais e reais longos seguem restritivos e a confiança das famílias piora.",
+        "key_risk": "Juros reais elevados por tempo prolongado podem ampliar a pressão financeira além da habitação e dos tomadores mais fracos, enquanto a rejeição dos EUA à proposta iraniana para Ormuz mantém a cauda de energia e inflação exposta a nova escalada.",
+        "watch": [
+          "Amplitude do investimento em equipamentos dos EUA além das categorias associadas à IA",
+          "Treasuries nominais e reais de 10 e 30 anos",
+          "Spreads de crédito, qualidade das emissões e cancelamentos de projetos",
+          "Expectativas de inflação de Michigan e de mercado",
+          "Qualquer novo canal diplomático entre EUA e Irã e fluxo físico verificado por Ormuz, frete e condições de seguro"
+        ],
+        "search_text": "Global Macro 26 setembro 2026 bens duráveis bens de capital núcleo investimento IA juros Treasuries juros reais confiança Michigan expectativas inflação Brent Ormuz"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia",
+        "gulf"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "novelty_gate": {
+      "compared_public_editions": [
+        "MT-GM-2026-09-23",
+        "MT-GM-2026-09-24",
+        "MT-GM-2026-09-25"
+      ],
+      "dominant_delta": "The August durable-goods release arrived after the September 25 daily: core U.S. capital-goods orders rose 1.6% and shipments 0.6%, showing realized equipment-investment strength even as official 10-year and 30-year Treasury yields closed at 5.17% and 5.49%. A second same-day update materially changes the energy tail: Trump publicly rejected Iran's proposal to reopen Hormuz after Friday's oil relief.",
+      "repetition_control": "The report does not reuse high long yields or equity resilience as the lead. It treats them as the financing environment for the newly observed capital-goods/household divergence. Gulf diplomacy is explicitly updated through Saturday's U.S. rejection and kept separate from verified physical normalization."
+    }
+  }
+}
