@@ -55,7 +55,7 @@ O Brent caiu US$ 2,28 na sexta-feira, para US$ 104,32, e o WTI recuou US$ 2,20, 
 
 A reação de mercado é compreensível: mesmo um aumento na probabilidade de acordo diplomático reduz o valor esperado de uma disrupção severa. Mas as informações de sábado impedem que essa mudança de probabilidade seja tratada como resolução. O Irã afirmou que a proposta foi transmitida por mediadores do Catar, enquanto uma resposta oficial dos EUA permanecia incerta e reportagens indicavam divergência sobre os termos.
 
-Para análise entre classes de ativos, a distinção é crucial. Expectativa de desescalada pode reduzir o petróleo e apoiar títulos antes de seguradoras, empresas de navegação, portos, oleodutos e fluxos comerciais se normalizarem. Se a diplomacia fracassar, o prêmio de risco pode retornar rapidamente. Se funcionar, a próxima camada de verificação não é a manchete, mas throughput observado, frete, seguros, produtos refinados e condição operacional das rotas alternativas do Golfo.
+Para análise entre classes de ativos, a distinção é crucial. Expectativa de desescalada pode reduzir o petróleo e apoiar títulos antes de seguradoras, empresas de navegação, portos, oleodutos e fluxos comerciais se normalizarem. Se a diplomacia fracassar, o prêmio de risco pode retornar rapidamente. Se funcionar, a próxima camada de verificação não é a manchete, mas volume físico efetivamente escoado, frete, seguros, produtos refinados e condição operacional das rotas alternativas do Golfo.
 
 ```flow
 Demanda mais forte por equipamentos
@@ -82,7 +82,7 @@ A implicação analítica é que a resiliência dos índices pode superestimar a
 
 ## O próximo teste é saber se o investimento se difunde ou vira risco de concentração
 
-Existem duas interpretações opostas dos dados atuais. A primeira é construtiva: pedidos fortes de equipamentos mostram empresas convertendo oportunidade tecnológica em investimento físico, o que pode elevar produtividade e capacidade não inflacionária no futuro. A segunda é mais restritiva: se o gasto se concentra em infraestrutura de IA enquanto famílias, habitação e empresas sensíveis a juros enfraquecem, o investimento agregado pode parecer forte mesmo com dependência crescente de um ciclo estreito de capex.
+Existem duas interpretações opostas dos dados atuais. A primeira é construtiva: pedidos fortes de equipamentos mostram empresas convertendo oportunidade tecnológica em investimento físico, o que pode elevar produtividade e capacidade não inflacionária no futuro. A segunda é mais restritiva: se o gasto se concentra em infraestrutura de IA enquanto famílias, habitação e empresas sensíveis a juros enfraquecem, o investimento agregado pode parecer forte mesmo com dependência crescente de um ciclo estreito de investimento de capital.
 
 A evidência ainda não decide entre as duas. Pedidos e embarques núcleo estão fortes; o agregado de bens duráveis está estável; a confiança do consumidor está fraca; expectativas de inflação estão elevadas; juros reais longos são restritivos. Essa combinação exige acompanhar composição em vez de rotular a economia simplesmente como forte ou fraca.
 
@@ -105,4 +105,4 @@ A evidência contrária a uma narrativa de aperto generalizado é real: as açõ
 - Reuters, “Oil prices slide about 2% as US, Iran explore path out of war”, 25 de setembro de 2026.
 - Reuters, “Iran awaits US move after WSJ report says Trump rejects peace plan”, 26 de setembro de 2026.
 
-*Observações de mercado são retratos datados. Declarações diplomáticas e reportagens não constituem evidência de normalização física; throughput do Golfo, navegação, seguros e condição de infraestrutura devem ser revalidados à medida que novas informações surgirem.*
+*Observações de mercado são retratos datados. Declarações diplomáticas e reportagens não constituem evidência de normalização física; fluxo físico pelo Golfo, navegação, seguros e condição de infraestrutura devem ser revalidados à medida que novas informações surgirem.*
