@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-26",
+  "slug": "2026-09-26-global-macro",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T12:38:45-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-26-global-macro/en.md",
+      "title": "Global Macro — Strong U.S. equipment demand collides with a 5% long-rate regime",
+      "deck": "August capital-goods orders show a resilient U.S. equipment-investment cycle even as long real and nominal yields remain restrictive and household inflation expectations rise.",
+      "tags": [
+        "global macro",
+        "capital expenditure",
+        "Treasuries",
+        "AI",
+        "consumer sentiment",
+        "oil",
+        "Hormuz"
+      ],
+      "keywords": [
+        "core capital goods",
+        "durable goods",
+        "Treasury yields",
+        "real yields",
+        "AI investment",
+        "consumer sentiment",
+        "inflation expectations",
+        "Brent",
+        "Hormuz"
+      ],
+      "regime": "Selective investment strength under expensive capital: equipment demand remains firm while long real and nominal yields stay restrictive and household confidence weakens.",
+      "key_risk": "If high real yields persist while the investment boom remains concentrated, financing pressure can spread beyond housing and weaker borrowers before productivity gains broaden enough to offset it.",
+      "watch": [
+        "Breadth of U.S. equipment investment beyond AI-linked categories",
+        "U.S. 10-year and 30-year nominal and real yields",
+        "Credit spreads, issuance quality and project cancellations",
+        "Michigan and market-based inflation expectations",
+        "Verified Hormuz throughput, freight, insurance and Gulf export logistics"
+      ],
+      "search_text": "Global Macro September 26 2026 durable goods core capital goods AI investment Treasury yields real rates Michigan sentiment inflation expectations Brent Hormuz"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-26-global-macro/pt-BR.md",
+      "title": "Global Macro — Investimento forte em equipamentos nos EUA colide com um regime de juros longos acima de 5%",
+      "deck": "Os pedidos de bens de capital de agosto mostram um ciclo resiliente de investimento em equipamentos nos EUA enquanto juros nominais e reais longos continuam restritivos e as expectativas de inflação das famílias sobem.",
+      "tags": [
+        "macro global",
+        "investimento de capital",
+        "Treasuries",
+        "IA",
+        "confiança do consumidor",
+        "petróleo",
+        "Ormuz"
+      ],
+      "keywords": [
+        "bens de capital núcleo",
+        "bens duráveis",
+        "juros dos Treasuries",
+        "juros reais",
+        "investimento em IA",
+        "confiança do consumidor",
+        "expectativas de inflação",
+        "Brent",
+        "Ormuz"
+      ],
+      "regime": "Força seletiva do investimento sob capital caro: a demanda por equipamentos permanece firme enquanto juros nominais e reais longos seguem restritivos e a confiança das famílias piora.",
+      "key_risk": "Se juros reais elevados persistirem enquanto o boom de investimento continuar concentrado, a pressão de financiamento pode se espalhar além da habitação e dos tomadores mais fracos antes que ganhos de produtividade se difundam o suficiente para compensá-la.",
+      "watch": [
+        "Amplitude do investimento em equipamentos dos EUA além das categorias associadas à IA",
+        "Treasuries nominais e reais de 10 e 30 anos",
+        "Spreads de crédito, qualidade das emissões e cancelamentos de projetos",
+        "Expectativas de inflação de Michigan e de mercado",
+        "Throughput verificado em Ormuz, frete, seguros e logística de exportação do Golfo"
+      ],
+      "search_text": "Global Macro 26 setembro 2026 bens duráveis bens de capital núcleo investimento IA juros Treasuries juros reais confiança Michigan expectativas inflação Brent Ormuz"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "east-asia",
+      "gulf"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "novelty_gate": {
+    "compared_public_editions": [
+      "MT-GM-2026-09-23",
+      "MT-GM-2026-09-24",
+      "MT-GM-2026-09-25"
+    ],
+    "dominant_delta": "The August durable-goods release arrived after the September 25 daily: core U.S. capital-goods orders rose 1.6% and shipments 0.6%, showing realized equipment-investment strength even as official 10-year and 30-year Treasury yields closed at 5.17% and 5.49%.",
+    "repetition_control": "The report does not reuse high long yields or equity resilience as the lead. It treats them as the financing environment for the newly observed capital-goods/household divergence and keeps Gulf diplomacy separate from verified physical normalization."
+  }
+}
