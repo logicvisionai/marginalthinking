@@ -1,0 +1,127 @@
+{
+  "id": "MT-GM-2026-09-26",
+  "slug": "2026-09-26-global-macro",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T12:46:21-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "east-asia",
+      "gulf"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "url": "/reports/2026/09/2026-09-26-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-26T12:48:03-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "db7a43ca567d56748ebcc2706d1ed8b66d54c735",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Strong U.S. equipment demand collides with a 5% long-rate regime",
+      "deck": "August capital-goods orders show a resilient U.S. equipment-investment cycle even as long real and nominal yields remain restrictive and household inflation expectations rise.",
+      "tags": [
+        "global macro",
+        "capital expenditure",
+        "Treasuries",
+        "AI",
+        "consumer sentiment",
+        "oil",
+        "Hormuz"
+      ],
+      "keywords": [
+        "core capital goods",
+        "durable goods",
+        "Treasury yields",
+        "real yields",
+        "AI investment",
+        "consumer sentiment",
+        "inflation expectations",
+        "Brent",
+        "Hormuz"
+      ],
+      "regime": "Selective investment strength under expensive capital: equipment demand remains firm while long real and nominal yields stay restrictive and household confidence weakens.",
+      "key_risk": "Persistent high real yields could spread financing pressure beyond housing and weaker borrowers, while the U.S. rejection of Iran's Hormuz proposal leaves the energy-inflation tail exposed to renewed escalation.",
+      "watch": [
+        "Breadth of U.S. equipment investment beyond AI-linked categories",
+        "U.S. 10-year and 30-year nominal and real yields",
+        "Credit spreads, issuance quality and project cancellations",
+        "Michigan and market-based inflation expectations",
+        "Any renewed U.S.-Iran diplomatic channel and verified Hormuz throughput, freight and insurance conditions"
+      ],
+      "search_text": "Global Macro September 26 2026 durable goods core capital goods AI investment Treasury yields real rates Michigan sentiment inflation expectations Brent Hormuz"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Investimento forte em equipamentos nos EUA colide com um regime de juros longos acima de 5%",
+      "deck": "Os pedidos de bens de capital de agosto mostram um ciclo resiliente de investimento em equipamentos nos EUA enquanto juros nominais e reais longos continuam restritivos e as expectativas de inflação das famílias sobem.",
+      "tags": [
+        "macro global",
+        "investimento de capital",
+        "Treasuries",
+        "IA",
+        "confiança do consumidor",
+        "petróleo",
+        "Ormuz"
+      ],
+      "keywords": [
+        "bens de capital núcleo",
+        "bens duráveis",
+        "juros dos Treasuries",
+        "juros reais",
+        "investimento em IA",
+        "confiança do consumidor",
+        "expectativas de inflação",
+        "Brent",
+        "Ormuz"
+      ],
+      "regime": "Força seletiva do investimento sob capital caro: a demanda por equipamentos permanece firme enquanto juros nominais e reais longos seguem restritivos e a confiança das famílias piora.",
+      "key_risk": "Juros reais elevados por tempo prolongado podem ampliar a pressão financeira além da habitação e dos tomadores mais fracos, enquanto a rejeição dos EUA à proposta iraniana para Ormuz mantém a cauda de energia e inflação exposta a nova escalada.",
+      "watch": [
+        "Amplitude do investimento em equipamentos dos EUA além das categorias associadas à IA",
+        "Treasuries nominais e reais de 10 e 30 anos",
+        "Spreads de crédito, qualidade das emissões e cancelamentos de projetos",
+        "Expectativas de inflação de Michigan e de mercado",
+        "Qualquer novo canal diplomático entre EUA e Irã e fluxo físico verificado por Ormuz, frete e condições de seguro"
+      ],
+      "search_text": "Global Macro 26 setembro 2026 bens duráveis bens de capital núcleo investimento IA juros Treasuries juros reais confiança Michigan expectativas inflação Brent Ormuz"
+    }
+  }
+}
