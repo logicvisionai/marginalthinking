@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-09-26-united-states",
+  "slug": "2026-09-26-country-context-united-states",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T10:00:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-26-country-context-united-states/en.md",
+      "title": "United States: continental scale, federal fragmentation and the institutions behind dollar-centered power",
+      "deck": "A structural dossier on how federal institutions, regional production, demographics and capital markets shape U.S. capacity and the global transmission of dollar conditions.",
+      "tags": [
+        "United States",
+        "federalism",
+        "dollar",
+        "industry",
+        "demography",
+        "capital markets"
+      ],
+      "keywords": [
+        "United States political economy",
+        "Federal Reserve",
+        "federalism",
+        "industrial capacity",
+        "US demographics",
+        "dollar system"
+      ],
+      "regime": "Structural context: concentrated national monetary and financial power coexists with decentralized physical implementation and regionally uneven productive constraints.",
+      "key_risk": "Treating national financial power as equivalent to frictionless domestic implementation obscures housing, infrastructure, labor and industrial bottlenecks.",
+      "watch": [
+        "Productivity diffusion beyond technology-intensive sectors",
+        "Labor-force participation and migration",
+        "Manufacturing capacity utilization",
+        "Housing and electricity infrastructure expansion",
+        "Transmission of long U.S. yields into credit and investment"
+      ],
+      "search_text": "United States country context federalism dollar Federal Reserve industrial capacity demographics trade labor capital markets"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-26-country-context-united-states/pt-BR.md",
+      "title": "Estados Unidos: escala continental, fragmentação federal e as instituições por trás do poder centrado no dólar",
+      "deck": "Um dossiê estrutural sobre como instituições federais, produção regional, demografia e mercados de capitais moldam a capacidade dos EUA e a transmissão global das condições em dólar.",
+      "tags": [
+        "Estados Unidos",
+        "federalismo",
+        "dólar",
+        "indústria",
+        "demografia",
+        "mercados de capitais"
+      ],
+      "keywords": [
+        "economia política dos Estados Unidos",
+        "Federal Reserve",
+        "federalismo",
+        "capacidade industrial",
+        "demografia dos EUA",
+        "sistema do dólar"
+      ],
+      "regime": "Contexto estrutural: poder monetário e financeiro nacional concentrado coexiste com execução física descentralizada e restrições produtivas regionalmente desiguais.",
+      "key_risk": "Tratar poder financeiro nacional como equivalente a execução doméstica sem atritos obscurece gargalos de habitação, infraestrutura, trabalho e indústria.",
+      "watch": [
+        "Difusão de produtividade além dos setores intensivos em tecnologia",
+        "Participação na força de trabalho e migração",
+        "Utilização da capacidade manufatureira",
+        "Expansão de habitação e infraestrutura elétrica",
+        "Transmissão dos juros longos dos EUA para crédito e investimento"
+      ],
+      "search_text": "Estados Unidos contexto de país federalismo dólar Federal Reserve capacidade industrial demografia comércio trabalho mercados de capitais"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "north-america"
+    ],
+    "countries": [
+      {
+        "code": "US",
+        "slug": "united-states"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "institutions-governance",
+    "demography-labor",
+    "infrastructure-logistics"
+  ],
+  "phenomena": [
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-SA-2026-09-23-FEDERAL-RESERVE",
+    "MT-GM-2026-09-25"
+  ],
+  "selection_rationale": "The United States is materially implicated by the Federal Reserve structural assessment and the September 25 global-macro transmission mechanism. Existing public research explains the Fed and daily market conditions but does not supply reusable country-level context linking federalism, regional production, demographics, infrastructure and dollar-centered financial power.",
+  "contrary_evidence": [
+    "Deep capital markets, energy production, research capacity and a continental domestic market argue against a simple structural-decline thesis.",
+    "Below-average industrial utilization, uneven infrastructure constraints and import dependence in selected supply chains argue against a frictionless-dominance thesis."
+  ],
+  "limitations": [
+    "Current statistics are point-in-time and must be revalidated in future event-driven research.",
+    "A country-level dossier cannot resolve large state and metropolitan differences; those should be treated separately when material."
+  ]
+}
