@@ -1,0 +1,59 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-26-united-states",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-26T10:52:44-03:00",
+  "reviewed_commit": "79bf24fd3f7ea07cb5b025c675fa89212d02eec2",
+  "pending_blob_sha": "d095e124e2fdaa391ae31656598b1305de207a5c",
+  "source_blob_shas": {
+    "en": "7775c3a583d55fa4d84e2d052d63d1d81fdf9e2b",
+    "pt-BR": "99b9b5f2eb2a99fd6264da48527c2abc5cc1cab8"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "country_context_quality_floor",
+      "location": "EN and PT-BR — whole dossier",
+      "detail": "COUNTRY-CONTEXT.md §14 requires at least 1,600 substantive words and 12 H2 analytical sections in each locale for dossiers dated on or after 2026-09-23. Mechanical QA found approximately 1,348 substantive words and 9 H2 sections in EN, and approximately 1,425 substantive words and 9 H2 sections in PT-BR."
+    },
+    {
+      "type": "analytical_depth",
+      "location": "Whole dossier",
+      "detail": "The analysis is coherent but compresses fiscal/federal implementation, housing and land-use constraints, grid governance, labor and migration, and external dollar/trade transmission. Expansion must add distinct sourced mechanisms rather than repeat the thesis."
+    }
+  ],
+  "required_fixes": [
+    "Raise each locale above 1,600 substantive words and at least 12 H2 analytical sections with distinct mechanisms, not filler.",
+    "Preserve EN/PT-BR semantic parity and reverify every new material claim externally.",
+    "Preserve the current evidence-bearing visual floor and explicit links to the two canonical triggering reports."
+  ],
+  "evidence": [
+    "BEA confirms Q2 2026 real GDP growth at 1.5% annualized versus 2.1% in Q1.",
+    "BLS confirms August 2026 unemployment at 4.1% and labor-force participation at 61.6%.",
+    "Federal Reserve G.17 confirms August industrial production unchanged, manufacturing -0.3%, total IP +1.4% year over year and capacity utilization 76.3%.",
+    "BEA/Census confirms July 2026 exports $310.7bn, imports $399.3bn, total deficit $88.6bn, goods deficit $119.6bn and services surplus $31.0bn.",
+    "Census confirms net international migration fell from 2.7m to 1.3m and natural increase was about 519k.",
+    "Mechanical repository count: EN ≈1,348 substantive words / 9 H2; PT-BR ≈1,425 substantive words / 9 H2."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "factual_methodological": {"result":"passed","summary":"Central current statistics checked against BEA, BLS, Federal Reserve and Census primary releases are consistent with the staged claims."},
+    "taxonomy": {"result":"passed","summary":"Controlled classification is valid and consistent; phenomena is a valid array."},
+    "translation": {"result":"passed","summary":"EN/PT-BR are materially equivalent in thesis, evidence and visuals."},
+    "editorial_publication_readiness": {"result":"failed","summary":"Opening and headings are publication-grade and no template/meta-QA is exposed, but both locales fail the mandatory Country Context depth floor."},
+    "contextual_depth": {"result":"failed","summary":"Correct transversal mechanisms are identified but remain too compressed; expansion must add distinct institutional, productive, demographic/social and external-transmission mechanisms."},
+    "visual_evidence_readiness": {"result":"passed","signature":"2 Markdown tables + 2 charts + 2 causal flows in each locale","summary":"Exceeds the country-dossier visual floor; reviewed values and units are reproducible and locales are aligned.","limitations":"No map is currently blocking; reassess if spatial corridors become central in revision."},
+    "country_context_contract": {"result":"failed","summary":"Country metadata and canonical related IDs pass, but §14 word-count and H2 floors fail in both locales."}
+  },
+  "contrary_evidence": [
+    "Deep capital markets, energy production, research capacity and continental scale argue against a simple structural-decline thesis.",
+    "Below-average industrial utilization and uneven infrastructure/housing constraints argue against frictionless dominance."
+  ],
+  "limitations": [
+    "Mechanical word counts exclude headings, visual/code blocks, table rows and raw URLs; both locales are sufficiently below 1,600 that parser-edge differences cannot cure the failure.",
+    "Broad regional-specialization claims would benefit from more direct primary evidence in the expanded revision."
+  ],
+  "notes": "Rejected before materialization. No reports/, HTML, data/reports.json or global site surface was modified. Public-state recheck at reviewed HEAD found no canonical metadata for this ID."
+}
