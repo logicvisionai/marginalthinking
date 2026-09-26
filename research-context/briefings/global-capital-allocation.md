@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-09-24  
+**Last reviewed:** 2026-09-26  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -60,6 +60,13 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 
 ## What changed since last review
 
+### 2026-09-26
+
+- **Changed:** the September 26 Global Macro strengthens a durable selection mechanism: high nominal and real long-term rates do not necessarily stop aggregate productive investment immediately when a narrow set of projects carries unusually high expected returns or is funded by strong corporate cash flow. Strong core equipment orders can therefore coexist with restrictive long-duration financing.
+- **Changed:** this makes investment breadth a necessary companion to aggregate capex. A concentrated AI/computing equipment cycle can support headline business investment while housing, smaller borrowers and lower-return projects face a materially higher financing hurdle.
+- **Unchanged:** financing availability is not the same as executable productive capacity; power, transmission, interconnection, permitting, equipment and skilled labour remain independent physical constraints.
+- **Watch:** breadth of equipment orders and shipments, project cancellations, credit spreads and issuance quality, grid/interconnection timing, and whether productivity gains diffuse beyond the narrow set of sectors currently able to clear the higher hurdle rate.
+
 ### 2026-09-24
 
 - **Changed:** the BlackRock actor study formalizes the separation between delegated portfolio implementation, shareholder-voting authority and beneficial ownership. Future concentration analysis should identify the actual decision right rather than use AUM as a proxy for direct control.
@@ -98,6 +105,7 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - `MT-GM-2026-09-19` — price/flow divergence under restrictive sovereign yields and selective equity resilience.
 - `MT-SA-2026-09-23-BLACKROCK` — delegated capital, voting authority and financial infrastructure; use to distinguish intermediation from ownership.
 - `MT-SA-2026-09-23-PIF` — sovereign development capital and the conditions under which public investment becomes durable productive capacity.
+- `MT-GM-2026-09-26` — strong U.S. core equipment demand under high nominal and real long-term rates; use to distinguish aggregate capex resilience from investment breadth and financing selectivity.
 
 ## Sources and verification notes
 

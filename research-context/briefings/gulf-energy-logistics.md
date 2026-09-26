@@ -77,6 +77,12 @@ The September 17 context review added the historical, institutional and social m
 - **Unchanged:** a softer energy-risk premium is not evidence that the logistics chain itself has normalized. Physical throughput, terminal/export performance, freight and insurance remain separate verification layers.
 - **Research implication:** treat diplomacy/expectations → asset pricing and verified logistics → physical supply as related but distinct transmission channels; do not use the first as proof of the second.
 
+### 2026-09-26
+
+- **Changed:** the September 26 macro update adds a useful reversal case: Friday's oil relief reflected a higher perceived probability of diplomatic de-escalation, but the U.S. rejection of Iran's proposal on Saturday removed that specific near-term reopening path before any verified physical normalization occurred.
+- **Research implication:** diplomacy can move the energy risk premium in either direction before physical logistics change. Treat political probability, market pricing and observed throughput as three separate states; a reversal in the first can invalidate the second without changing the third.
+- **Unchanged:** physical verification still requires throughput, terminal/export performance, freight, insurance and infrastructure status.
+
 ## Open questions
 
 - How much effective export capacity can Saudi alternative routes sustain under prolonged Hormuz impairment after accounting for maintenance, terminal constraints and crude compatibility?
@@ -97,6 +103,7 @@ The September 17 context review added the historical, institutional and social m
 - `MT-GM-2026-09-23` — Global Macro Daily, 2026-09-23, revision 1; partial East-West pipeline restoration and the separation between energy-risk relief and restrictive financing conditions.
 
 - `MT-GM-2026-09-25` — Global Macro Daily, 2026-09-25, revision 3; distinguishes anticipated Middle East energy de-escalation from verified Hormuz traffic and Gulf export normalization.
+- `MT-GM-2026-09-26` — Global Macro Daily, 2026-09-26; adds a same-week reversal case in which a diplomatic reopening path was rejected before physical logistics normalized.
 
 ## Sources and verification notes
 
