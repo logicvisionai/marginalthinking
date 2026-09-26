@@ -4,7 +4,7 @@ The most important new signal since the September 25 edition is not another leg 
 
 That does not make the rate shock benign. The Treasury's official September 25 curve closed at 5.17% for the 10-year and 5.49% for the 30-year, after the 10-year briefly traded above 5.22% during the session. At the same time, the University of Michigan's final September consumer-sentiment index fell to 48.1 from 51.7 in August and year-ahead inflation expectations rose to 4.6%. The new macro configuration is therefore more specific than “growth is strong”: capital spending is holding up while households report worsening confidence and the price of long-duration capital remains restrictive.
 
-Oil provided partial relief on Friday. Brent settled at $104.32, down 2.1%, as U.S.-Iran negotiations raised the probability of a path toward reopening the Strait of Hormuz. But diplomacy is not physical normalization. On Saturday, Iran was still awaiting an official U.S. response to its proposal, while reports indicated disagreement over the terms. The energy channel should therefore be read as a reduction in the probability of the worst supply outcome, not as verified normalization of Gulf logistics.
+Oil provided partial relief on Friday. Brent settled at $104.32, down 2.1%, as U.S.-Iran negotiations raised the probability of a path toward reopening the Strait of Hormuz. That diplomatic support weakened on Saturday: President Donald Trump said he had rejected Iran's proposal to reopen the strait and end the fighting. Friday's oil decline therefore records a market repricing that was overtaken by a new political fact before the weekend ended; it is not evidence of physical normalization in Gulf logistics.
 
 ## Capital-goods orders make the investment cycle harder to dismiss
 
@@ -49,13 +49,13 @@ This is not a direct forecast of consumption. Sentiment can remain weak while sp
 
 That helps explain why Friday's durable-goods data pushed Treasury yields higher during the session even as oil was falling. The bond market is not responding to a single variable. Lower crude reduces one inflation impulse; stronger equipment demand and elevated inflation expectations preserve the case for restrictive policy and a high term premium.
 
-## Oil relief is financial first; physical normalization remains unverified
+## Friday's oil relief lost diplomatic support on Saturday; physical normalization remains absent
 
 Brent fell $2.28 on Friday to settle at $104.32 and WTI fell $2.20 to $92.41. Reuters reported that U.S. and Iranian negotiators were exploring a phased arrangement that could include reopening the Strait of Hormuz and easing the U.S. blockade of Iranian ports. Ship-tracking data cited by Reuters showed 33.7 million barrels of crude moving out of the strait in the week beginning September 20, roughly in line with the previous week.
 
-The market reaction is understandable: even an increase in the probability of a diplomatic settlement lowers the expected value of severe disruption. But the Saturday information set prevents that probability shift from being treated as resolution. Iran said its proposal had been transmitted through Qatari mediators, while an official U.S. response remained uncertain and press reporting suggested disagreement over the terms.
+The Friday market reaction was understandable: even an increase in the probability of a diplomatic settlement lowers the expected value of severe disruption. The Saturday information set then moved the probability in the opposite direction. Reuters reported that Trump said he had rejected the Iranian proposal; Iran had transmitted the plan through Qatari mediators and offered to reopen the strait and end fighting within seven days. There is therefore no agreed near-term reopening path in the information set available for this edition.
 
-For cross-asset analysis, the distinction is crucial. Expected de-escalation can lower oil and support bonds before insurers, shipping firms, ports, pipelines and commercial flows normalize. If diplomacy fails, the risk premium can return quickly. If diplomacy succeeds, the next verification layer is not the headline but observed throughput, freight, insurance, refined products and the operating status of alternative Gulf routes.
+For cross-asset analysis, the distinction is crucial. Expected de-escalation can lower oil and support bonds before insurers, shipping firms, ports, pipelines and commercial flows normalize, but a political reversal can restore the risk premium before any physical improvement occurs. Any renewed diplomatic channel should therefore be tested against observed throughput, freight, insurance, refined products and the operating status of alternative Gulf routes rather than treated as normalization on announcement.
 
 ```flow
 Stronger equipment demand
@@ -63,10 +63,10 @@ Stronger equipment demand
 -> less pressure for rapid monetary easing
 -> high nominal and real long-term yields
 
-Possible Gulf de-escalation
--> lower expected energy disruption
--> lower marginal inflation tail risk
--> partial bond and risk-asset relief
+Friday expectation of Gulf de-escalation
+-> lower expected energy disruption and oil prices
+-> Saturday U.S. rejection of Iran's proposal
+-> no verified reopening path; energy tail risk remains
 
 Both channels meet
 -> selective capital allocation rather than uniform easing or uniform contraction
@@ -90,9 +90,9 @@ A broader productivity cycle would become more credible if equipment investment 
 
 ## What matters next
 
-The weekend leaves three linked questions. First, can U.S. business investment continue to expand with 10-year nominal yields above 5% and real long rates near 3%? Second, does lower oil become verified logistical normalization in the Gulf, or is the move mainly a probability trade around negotiations? Third, do household inflation expectations and next week's labor and inflation releases reinforce the case for further Federal Reserve tightening?
+The weekend leaves three linked questions. First, can U.S. business investment continue to expand with 10-year nominal yields above 5% and real long rates near 3%? Second, after the U.S. rejection of Iran's proposal, does a new diplomatic channel emerge and translate into verified logistical normalization in the Gulf, or does energy risk reprice upward? Third, do household inflation expectations and next week's labor and inflation releases reinforce the case for further Federal Reserve tightening?
 
-The contrary evidence to a broad tightening narrative is real: equities rose on Friday, equipment orders were strong and oil fell. The contrary evidence to a painless investment-boom narrative is also real: household confidence weakened, inflation expectations rose and the long end remains historically restrictive. The regime is therefore best described as **selective investment strength under expensive capital**, with energy diplomacy capable of changing the inflation tail but not yet the underlying financing constraint.
+The contrary evidence to a broad tightening narrative is real: equities rose on Friday, equipment orders were strong and oil fell. The contrary evidence to a painless investment-boom narrative is also real: household confidence weakened, inflation expectations rose and the long end remains historically restrictive. The regime is therefore best described as **selective investment strength under expensive capital**. Saturday's rejection of the Iranian proposal also shows why Friday's energy relief should not yet be embedded as a durable disinflationary assumption.
 
 ### Sources
 
@@ -103,6 +103,6 @@ The contrary evidence to a broad tightening narrative is real: equities rose on 
 - Reuters, “US core capital goods orders point to robust growth in business spending on equipment,” September 25, 2026.
 - Reuters, “Battered bonds draw support from falling oil prices,” September 25, 2026.
 - Reuters, “Oil prices slide about 2% as US, Iran explore path out of war,” September 25, 2026.
-- Reuters, “Iran awaits US move after WSJ report says Trump rejects peace plan,” September 26, 2026.
+- Reuters, “Trump rejects Iranian proposal to open Hormuz and end fighting,” September 26, 2026.
 
 *Market observations are dated snapshots. Diplomatic statements and press reports are not evidence of physical normalization; Gulf throughput, shipping, insurance and infrastructure conditions should be reverified as new information arrives.*

@@ -4,7 +4,7 @@ O sinal novo mais importante desde a edição de 25 de setembro não é outra et
 
 Isso não torna o choque de juros benigno. A curva oficial do Tesouro dos EUA fechou 25 de setembro em 5,17% para 10 anos e 5,49% para 30 anos, depois de o título de 10 anos negociar acima de 5,22% durante a sessão. Ao mesmo tempo, o índice final de confiança do consumidor da Universidade de Michigan caiu para 48,1 em setembro, de 51,7 em agosto, e a expectativa de inflação para um ano subiu para 4,6%. A configuração macroeconômica nova é, portanto, mais específica do que “o crescimento está forte”: o investimento empresarial resiste enquanto as famílias relatam piora de confiança e o preço do capital de longa duração continua restritivo.
 
-O petróleo ofereceu alívio parcial na sexta-feira. O Brent fechou a US$ 104,32, queda de 2,1%, enquanto negociações entre EUA e Irã elevaram a probabilidade de um caminho para reabrir o Estreito de Ormuz. Mas diplomacia não é normalização física. No sábado, o Irã ainda aguardava resposta oficial dos EUA à proposta, enquanto reportagens indicavam divergência sobre os termos. O canal energético deve, portanto, ser lido como redução da probabilidade do pior cenário de oferta, não como normalização comprovada da logística do Golfo.
+O petróleo ofereceu alívio parcial na sexta-feira. O Brent fechou a US$ 104,32, queda de 2,1%, enquanto negociações entre EUA e Irã elevaram a probabilidade de um caminho para reabrir o Estreito de Ormuz. Esse suporte diplomático enfraqueceu no sábado: o presidente Donald Trump afirmou ter rejeitado a proposta iraniana para reabrir o estreito e encerrar os combates. A queda do petróleo na sexta-feira registra, portanto, uma reprecificação de mercado que foi superada por um novo fato político antes do fim do semana; ela não constitui evidência de normalização física da logística do Golfo.
 
 ## Os pedidos de bens de capital tornam mais difícil descartar o ciclo de investimento
 
@@ -49,13 +49,13 @@ Isso não é uma previsão direta do consumo. A confiança pode permanecer fraca
 
 Isso ajuda a explicar por que os dados de bens duráveis pressionaram os Treasuries para cima durante a sexta-feira mesmo com queda do petróleo. O mercado de títulos não reage a uma única variável. Petróleo mais baixo reduz um impulso inflacionário; demanda forte por equipamentos e expectativas de inflação elevadas preservam o argumento para política restritiva e prêmio de prazo alto.
 
-## O alívio do petróleo é primeiro financeiro; a normalização física continua sem confirmação
+## O alívio do petróleo de sexta perdeu suporte diplomático no sábado; a normalização física continua ausente
 
 O Brent caiu US$ 2,28 na sexta-feira, para US$ 104,32, e o WTI recuou US$ 2,20, para US$ 92,41. A Reuters informou que negociadores dos EUA e do Irã exploravam um arranjo em etapas que poderia incluir a reabertura do Estreito de Ormuz e o relaxamento do bloqueio norte-americano a portos iranianos. Dados de rastreamento de navios citados pela Reuters indicaram 33,7 milhões de barris de petróleo saindo do estreito na semana iniciada em 20 de setembro, aproximadamente em linha com a semana anterior.
 
-A reação de mercado é compreensível: mesmo um aumento na probabilidade de acordo diplomático reduz o valor esperado de uma disrupção severa. Mas as informações de sábado impedem que essa mudança de probabilidade seja tratada como resolução. O Irã afirmou que a proposta foi transmitida por mediadores do Catar, enquanto uma resposta oficial dos EUA permanecia incerta e reportagens indicavam divergência sobre os termos.
+A reação de mercado de sexta-feira é compreensível: mesmo um aumento na probabilidade de acordo diplomático reduz o valor esperado de uma disrupção severa. As informações de sábado moveram essa probabilidade na direção contrária. A Reuters informou que Trump disse ter rejeitado a proposta iraniana; o Irã havia transmitido o plano por mediadores do Catar e oferecido reabrir o estreito e encerrar os combates em sete dias. No conjunto de informações disponível para esta edição, portanto, não existe um caminho acordado de reabertura no curto prazo.
 
-Para análise entre classes de ativos, a distinção é crucial. Expectativa de desescalada pode reduzir o petróleo e apoiar títulos antes de seguradoras, empresas de navegação, portos, oleodutos e fluxos comerciais se normalizarem. Se a diplomacia fracassar, o prêmio de risco pode retornar rapidamente. Se funcionar, a próxima camada de verificação não é a manchete, mas volume físico efetivamente escoado, frete, seguros, produtos refinados e condição operacional das rotas alternativas do Golfo.
+Para análise entre classes de ativos, a distinção é crucial. Expectativa de desescalada pode reduzir o petróleo e apoiar títulos antes de seguradoras, empresas de navegação, portos, oleodutos e fluxos comerciais se normalizarem, mas uma reversão política pode restaurar o prêmio de risco antes de qualquer melhora física. Qualquer novo canal diplomático deve, portanto, ser confrontado com volume físico efetivamente escoado, frete, seguros, produtos refinados e condição operacional das rotas alternativas do Golfo, em vez de ser tratado como normalização no momento do anúncio.
 
 ```flow
 Demanda mais forte por equipamentos
@@ -63,10 +63,10 @@ Demanda mais forte por equipamentos
 -> menor pressão por afrouxamento monetário rápido
 -> juros nominais e reais longos elevados
 
-Possível desescalada no Golfo
--> menor risco esperado de disrupção energética
--> menor cauda inflacionária marginal
--> alívio parcial em títulos e ativos de risco
+Expectativa de desescalada no Golfo na sexta-feira
+-> menor risco esperado de disrupção e queda do petróleo
+-> rejeição dos EUA à proposta iraniana no sábado
+-> sem caminho verificado de reabertura; a cauda de risco energético permanece
 
 Os dois canais convergem
 -> alocação seletiva de capital, e não afrouxamento ou contração uniformes
@@ -90,9 +90,9 @@ Um ciclo de produtividade mais amplo ganharia credibilidade se o investimento em
 
 ## O que importa a seguir
 
-O fim de semana deixa três perguntas conectadas. Primeiro, o investimento empresarial dos EUA consegue continuar expandindo com juros nominais de 10 anos acima de 5% e juros reais longos perto de 3%? Segundo, a queda do petróleo se transforma em normalização logística verificada no Golfo ou permanece principalmente uma negociação de probabilidades em torno da diplomacia? Terceiro, as expectativas de inflação das famílias e os dados de emprego e inflação da próxima semana reforçam o argumento para novo aperto do Federal Reserve?
+O fim de semana deixa três perguntas conectadas. Primeiro, o investimento empresarial dos EUA consegue continuar expandindo com juros nominais de 10 anos acima de 5% e juros reais longos perto de 3%? Segundo, após a rejeição dos EUA à proposta iraniana, surge um novo canal diplomático capaz de produzir normalização logística verificada no Golfo ou o risco energético volta a ser reprecificado para cima? Terceiro, as expectativas de inflação das famílias e os dados de emprego e inflação da próxima semana reforçam o argumento para novo aperto do Federal Reserve?
 
-A evidência contrária a uma narrativa de aperto generalizado é real: as ações subiram na sexta-feira, os pedidos de equipamentos foram fortes e o petróleo caiu. A evidência contrária a uma narrativa de boom de investimento sem custo também é real: a confiança das famílias piorou, as expectativas de inflação subiram e a parte longa da curva continua historicamente restritiva. O regime é melhor descrito, portanto, como **força seletiva do investimento sob capital caro**, com a diplomacia energética capaz de alterar a cauda inflacionária, mas ainda sem remover a restrição financeira de base.
+A evidência contrária a uma narrativa de aperto generalizado é real: as ações subiram na sexta-feira, os pedidos de equipamentos foram fortes e o petróleo caiu. A evidência contrária a uma narrativa de boom de investimento sem custo também é real: a confiança das famílias piorou, as expectativas de inflação subiram e a parte longa da curva continua historicamente restritiva. O regime é melhor descrito, portanto, como **força seletiva do investimento sob capital caro**. A rejeição da proposta iraniana no sábado também mostra por que o alívio energético de sexta ainda não deve ser incorporado como hipótese desinflacionária durável.
 
 ### Fontes
 
@@ -103,6 +103,6 @@ A evidência contrária a uma narrativa de aperto generalizado é real: as açõ
 - Reuters, “US core capital goods orders point to robust growth in business spending on equipment”, 25 de setembro de 2026.
 - Reuters, “Battered bonds draw support from falling oil prices”, 25 de setembro de 2026.
 - Reuters, “Oil prices slide about 2% as US, Iran explore path out of war”, 25 de setembro de 2026.
-- Reuters, “Iran awaits US move after WSJ report says Trump rejects peace plan”, 26 de setembro de 2026.
+- Reuters, “Trump rejects Iranian proposal to open Hormuz and end fighting”, 26 de setembro de 2026.
 
 *Observações de mercado são retratos datados. Declarações diplomáticas e reportagens não constituem evidência de normalização física; fluxo físico pelo Golfo, navegação, seguros e condição de infraestrutura devem ser revalidados à medida que novas informações surgirem.*
