@@ -48,6 +48,14 @@ T2 2026 | 1.5
 
 O gráfico é deliberadamente estreito: mostra a desaceleração mais recente do BEA, não uma afirmação sobre um ciclo econômico de longo prazo.
 
+## A capacidade fiscal federal continua grande, mas os juros reduzem a margem para ação discricionária
+
+A capacidade fiscal federal é uma das vantagens estruturais do país: o Tesouro consegue se financiar em um mercado doméstico e global profundo, e transferências, compras públicas e política tributária federais podem deslocar recursos entre estados numa escala que nenhum governo subnacional consegue reproduzir. Essa capacidade, porém, tem custo crescente. A linha de base de fevereiro de 2026 do Congressional Budget Office projeta déficit federal de US$ 1,9 trilhão, ou 5,8% do PIB, no ano fiscal de 2026, com dívida em poder do público equivalente a 101% do PIB. As despesas líquidas com juros são projetadas em 3,3% do PIB em 2026, acima da média dos últimos 50 anos, e o CBO espera aumento adicional à medida que a dívida cresce e títulos vencidos são refinanciados.
+
+O mecanismo importa mais que a razão dívida/PIB isolada. Juros maiores absorvem espaço orçamentário que poderia financiar programas discricionários, enquanto emissões persistentes do Tesouro disputam poupança e aumentam a exposição da economia à parte longa da curva de juros. Isso não significa que o governo federal perca a capacidade de mobilizar recursos. Significa que aperto monetário, prêmio de prazo e decisões fiscais interagem cada vez mais: um programa financiado quando os juros longos estão elevados carrega custo futuro de serviço da dívida maior, o que pode estreitar o espaço político e fiscal para intervenções posteriores.
+
+Em um sistema federal, existe ainda uma segunda etapa: execução. O Congresso pode autorizar recursos nacionalmente, mas muitos projetos de habitação, rede elétrica, transporte e indústria continuam dependentes de reguladores estaduais, licenciamento local, concessionárias, empreiteiras e capacidade específica do território. O poder fiscal nacional pode, portanto, ser grande ao mesmo tempo que a conversão de dinheiro em oferta física permanece desigual entre regiões.
+
 ## O comércio revela alcance produtivo e dependência externa
 
 Os Estados Unidos são simultaneamente grande exportador de serviços, bens de capital, energia e produção intensiva em propriedade intelectual e grande importador de manufaturados e insumos intermediários. BEA e Census registraram déficit de bens e serviços de US$ 88,6 bilhões em julho de 2026, com exportações de US$ 310,7 bilhões e importações de US$ 399,3 bilhões. O déficit de bens foi de US$ 119,6 bilhões, enquanto os serviços tiveram superávit de US$ 31,0 bilhões.
@@ -89,6 +97,30 @@ unit: percent
 2024-2025 | 0.5
 ```
 
+## A habitação transforma demanda nacional em uma restrição local de oferta e mobilidade
+
+A habitação é um dos exemplos mais claros da diferença entre condições financeiras nacionais e ajuste físico local. O Census registrou início de construção de moradias privadas em taxa anualizada dessazonalizada de 1,275 milhão em agosto de 2026, queda de 2,6% ante julho; as autorizações ficaram em 1,394 milhão, recuo de 2,7% no mês, enquanto as conclusões caíram para 1,128 milhão. Dados mensais de habitação são voláteis, portanto uma divulgação isolada não estabelece escassez estrutural. O mecanismo durável é que nova oferta depende de disponibilidade de terrenos, zoneamento, licenciamento, capacidade de construção, custo de financiamento e infraestrutura local, e não de uma única decisão federal.
+
+Isso importa para produtividade, não apenas para o custo de moradia. Áreas metropolitanas de alta produtividade podem atrair empresas e capital mais rapidamente do que conseguem adicionar habitações. Quando a oferta responde devagar, parte do ajuste ocorre por aluguéis e preços mais altos, deslocamentos mais longos ou trabalhadores que deixam de se mudar. A mobilidade do trabalho, portanto, não é apenas variável demográfica; ela é limitada pela capacidade das regiões receptoras de construir moradias e infraestrutura de suporte.
+
+Juros hipotecários altos adicionam uma camada financeira nacional a essa restrição local. Uma curva de Treasuries mais elevada pode aumentar rapidamente o custo das hipotecas, mas juros menores, por si sós, não criam terrenos zoneados, redes de água, vias ou mão de obra de construção. A habitação é, assim, um ponto de transmissão onde política monetária, federalismo e capacidade local se encontram.
+
+## A transmissão elétrica se torna uma restrição produtiva à medida que a demanda por carga acelera
+
+A eletricidade está deixando de ser apenas infraestrutura de fundo para se tornar restrição mais explícita à localização industrial e ao investimento digital. O rascunho de 2026 do National Transmission Needs Study, do Department of Energy, identifica necessidade urgente de transmissão adicional por causa do crescimento de carga de data centers, expansão da manufatura doméstica, grandes consumidores industriais e crescimento econômico. O enquadramento do DOE é relevante porque a restrição não é somente quanta geração existe nacionalmente; é se a energia pode ser conectada e entregue onde novas cargas aparecem.
+
+A análise *Queued Up* de 2026 do Berkeley Lab mostra a escala do problema de conexão. No fim de 2025, cerca de 8.200 projetos, representando 1.312 GW de geração e aproximadamente 749 GW de armazenamento, buscavam conexão à rede. A maior parte dos projetos propostos não será construída, e a fila não é uma previsão de capacidade futura. Ainda assim, nas regiões com dados disponíveis, o tempo mediano entre pedido de interconexão e operação comercial para projetos concluídos em 2025 superou cinco anos, mostrando por que um pipeline nominal não pode ser tratado como oferta imediatamente disponível.
+
+Reguladores federais e regionais estão alterando procedimentos, mas a governança continua fragmentada entre FERC, operadores regionais, concessionárias, estados e autoridades locais. Comissários da FERC relacionaram explicitamente crescimento rápido da carga, filas de interconexão e capacidade regional e inter-regional limitada a pressões sobre confiabilidade e contas de eletricidade. Para política industrial e infraestrutura de IA, a implicação é direta: capital e equipamentos podem ser financiados mais rapidamente do que subestações, linhas de transmissão e estudos de conexão conseguem ser concluídos. A capacidade de entregar eletricidade pode, portanto, decidir onde capital nacionalmente abundante vira capacidade física utilizável.
+
+## A mobilidade do trabalho ajuda o ajuste, mas mover pessoas não desloca automaticamente capacidade produtiva
+
+Os Estados Unidos possuem um mercado de trabalho interno relativamente móvel, e a migração interestadual ajuda regiões a responder a mudanças de emprego e custo de vida. Essa mobilidade, porém, não elimina restrições regionais. Trabalhadores conseguem se deslocar para mercados em expansão somente se habitação, escolas, transporte e serviços públicos puderem absorvê-los, enquanto empresas dependem de fornecedores locais, acesso a energia e habilidades especializadas. O movimento populacional pode, assim, aliviar um descasamento e intensificar outro.
+
+A desaceleração recente da migração internacional aumenta a importância desse mecanismo interno de alocação. Se o crescimento da força de trabalho depender menos de novos entrantes vindos do exterior, diferenças estaduais de participação, aposentadoria, migração e formação de habilidades passam a importar mais para a localização da produção. Regiões que recebem população podem ganhar demanda e oferta de trabalho, mas também enfrentar pressão maior sobre habitação e infraestrutura; regiões que perdem pessoas em idade ativa podem conservar ativos físicos e, ao mesmo tempo, ter dificuldade para ocupá-los.
+
+Por isso, a análise demográfica deve ser conectada à capacidade, e não tratada como simples contagem populacional. A questão relevante para o crescimento futuro dos EUA não é apenas quantos trabalhadores existem nacionalmente, mas se trabalhadores, moradia, eletricidade, transporte, bens de capital e treinamento podem ser combinados nos mesmos lugares e no mesmo momento.
+
 ## Heterogeneidade social e política afeta a transmissão econômica
 
 Médias nacionais escondem grandes diferenças de renda, custo de habitação, escolaridade, composição setorial e exposição ao comércio ou à energia. Eleições federais agregam essas diferenças por instituições que dão representação distinta à população e aos estados. Choques econômicos podem, assim, adquirir importância política por sua geografia: um choque manufatureiro concentrado em poucos estados, escassez habitacional em áreas metropolitanas de alta produtividade ou expansão energética em regiões produtoras podem influenciar coalizões nacionais além de sua parcela no PIB.
@@ -113,5 +145,10 @@ Para a Marginal Thinking, os Estados Unidos devem ser tratados como sistema em c
 - U.S. Census Bureau, estimativas populacionais Vintage 2025: https://www.census.gov/newsroom/press-releases/2026/population-growth-slows.html
 - U.S. Bureau of Economic Analysis / Census Bureau, comércio internacional, julho de 2026: https://www.bea.gov/news/2026/us-international-trade-goods-and-services-july-2026
 - Federal Reserve Board, estrutura do Federal Reserve System: https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm
+- Congressional Budget Office, The Budget and Economic Outlook: 2026 to 2036: https://www.cbo.gov/publication/62105
+- U.S. Census Bureau, New Residential Construction, agosto de 2026: https://www.census.gov/construction/nrc/current/
+- U.S. Department of Energy, 2026 Draft National Transmission Needs Study: https://www.energy.gov/oe/national-transmission-needs-study
+- Lawrence Berkeley National Laboratory, Queued Up: 2026 Edition: https://emp.lbl.gov/queues
+- Federal Energy Regulatory Commission, declarações sobre planejamento de transmissão e interconexão, março de 2026: https://www.ferc.gov/news-events/news/commissioner-changs-concurrence-order-accepting-tariff-revisions-subject-condition
 
 *Estatísticas atuais devem ser verificadas novamente nas fontes primárias antes de reutilização. Este dossiê é contexto estrutural, não substituto para pesquisa específica de eventos.*

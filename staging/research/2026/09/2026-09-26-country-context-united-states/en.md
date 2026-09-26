@@ -48,6 +48,14 @@ Q2 2026 | 1.5
 
 The chart is intentionally narrow: it shows the latest BEA growth deceleration, not a long-run business-cycle claim.
 
+## Federal fiscal capacity remains large, but interest costs tighten the margin for discretionary action
+
+Federal fiscal capacity is one of the country's core structural advantages: the Treasury can fund itself in a deep domestic and global market, and federal transfers, procurement and tax policy can move resources across states at a scale that no subnational government can match. That capacity is not costless. The Congressional Budget Office's February 2026 baseline projects a federal deficit of $1.9 trillion, or 5.8% of GDP, in fiscal 2026, with debt held by the public at 101% of GDP. Net interest outlays are projected at 3.3% of GDP in 2026, above their 50-year average, and CBO expects them to rise further as debt accumulates and maturing securities are refinanced.
+
+The mechanism matters more than the headline debt ratio. Higher interest costs absorb budgetary space that could otherwise support discretionary programs, while persistent Treasury borrowing competes for saving and raises the economy's exposure to the long end of the yield curve. This does not mean federal policy loses the ability to mobilize resources. It means that monetary tightening, term-premium shocks and fiscal choices increasingly interact: a program financed when long rates are high carries a larger future debt-service burden, and that burden can narrow the political and fiscal room for subsequent interventions.
+
+For a federal system, the second step is implementation. Congress can authorize funding nationally, but many housing, grid, transport and industrial projects still depend on state regulators, local permitting, utilities, contractors and site-specific capacity. National fiscal power can therefore be substantial while the conversion of money into physical supply remains geographically uneven.
+
 ## Trade reveals both productive reach and external dependence
 
 The United States is simultaneously a major exporter of services, capital goods, energy and intellectual-property-intensive output and a large importer of manufactured goods and intermediate inputs. BEA and Census reported a goods-and-services deficit of $88.6 billion in July 2026, with exports of $310.7 billion and imports of $399.3 billion. The goods deficit was $119.6 billion while services recorded a $31.0 billion surplus.
@@ -89,6 +97,30 @@ unit: percent
 2024-2025 | 0.5
 ```
 
+## Housing turns national demand into a local supply and mobility constraint
+
+Housing is one of the clearest examples of the gap between national financial conditions and local physical adjustment. Census reported that privately owned housing starts ran at a seasonally adjusted annual rate of 1.275 million in August 2026, down 2.6% from July; permits were 1.394 million, down 2.7% on the month, while completions fell to 1.128 million. Monthly housing data are volatile, so one release does not establish a structural shortage. The durable mechanism is that new supply depends on land availability, zoning, permitting, construction capacity, financing costs and local infrastructure rather than on a single federal decision.
+
+This matters for productivity as well as shelter costs. High-productivity metropolitan areas can attract firms and capital faster than they can add housing. When housing supply responds slowly, part of the adjustment occurs through higher rents and home prices, longer commutes, or workers choosing not to move. Labor mobility is therefore not purely a demographic variable; it is constrained by the ability of receiving regions to build homes and supporting infrastructure.
+
+High mortgage rates add a national financial layer to that local constraint. A higher Treasury curve can raise mortgage costs quickly, but lower rates alone cannot create zoned land, water systems, roads or construction labor. Housing is consequently a transmission point where monetary policy, federalism and local capacity meet.
+
+## Electricity transmission is becoming a production constraint as load growth accelerates
+
+Electricity is moving from background infrastructure toward a more explicit constraint on industrial location and digital investment. The Department of Energy's draft 2026 National Transmission Needs Study identifies a pressing need for additional transmission because of load growth from data centers, expanding domestic manufacturing, large industrial loads and broader economic growth. DOE's framing is important because the constraint is not only how much generation exists nationally; it is whether power can be interconnected and delivered where new loads appear.
+
+Berkeley Lab's 2026 *Queued Up* analysis shows the scale of the interface problem. At the end of 2025, roughly 8,200 projects representing 1,312 GW of generation and about 749 GW of storage were actively seeking grid interconnection. Most proposed projects will not be built, and the queue is not a forecast of future capacity. But the median time from interconnection request to commercial operation for projects completed in 2025 exceeded five years in regions with available data, showing why nominal project pipelines cannot be treated as immediately available supply.
+
+Federal and regional regulators are changing procedures, but governance remains fragmented across FERC, regional transmission organizations, utilities, states and local authorities. FERC commissioners have explicitly linked rapid load growth, interconnection backlogs and limited regional and interregional transfer capability to reliability and electricity-cost pressures. For industrial policy and AI infrastructure, the implication is direct: capital and equipment can be financed faster than substations, transmission lines and interconnection studies can always be completed. Electrical deliverability can therefore determine where nationally abundant capital becomes usable physical capacity.
+
+## Labor mobility supports adjustment, but moving people does not automatically move productive capacity
+
+The United States has a comparatively mobile internal labor market, and interstate migration helps regions respond to changing employment and living costs. Yet mobility does not eliminate regional constraints. Workers can move toward expanding labor markets only if housing, schools, transport and utilities can absorb them, while firms require local supplier networks, energy access and specialized skills. Population movement can therefore relieve one mismatch while intensifying another.
+
+The recent slowdown in international migration increases the importance of this internal allocation mechanism. If labor-force growth becomes less dependent on new entrants from abroad, differences in state-level participation, retirement, migration and skill formation matter more for the location of production. Regions receiving population can gain demand and labor supply, but they may also face sharper housing and infrastructure pressure; regions losing working-age residents can retain physical assets while struggling to staff them.
+
+This is why demographic analysis should be connected to capacity rather than treated as a population count. The relevant question for future U.S. growth is not only how many workers exist nationally, but whether workers, housing, electricity, transport, capital equipment and training can be combined in the same places at the same time.
+
 ## Social and political heterogeneity affects economic transmission
 
 National averages conceal large differences in income, housing costs, educational attainment, sector mix and exposure to trade or energy. Federal elections aggregate these differences through institutions that give both population and states distinct representation. Economic shocks can therefore acquire political importance through geography: a manufacturing shock concentrated in a few states, a housing shortage concentrated in high-productivity metros, or an energy boom concentrated in producing regions can influence national coalitions beyond its share of GDP.
@@ -113,5 +145,10 @@ For Marginal Thinking, the United States is best treated as a layered system rat
 - U.S. Census Bureau, Vintage 2025 population estimates: https://www.census.gov/newsroom/press-releases/2026/population-growth-slows.html
 - U.S. Bureau of Economic Analysis / Census Bureau, U.S. International Trade in Goods and Services, July 2026: https://www.bea.gov/news/2026/us-international-trade-goods-and-services-july-2026
 - Federal Reserve Board, Federal Reserve System structure: https://www.federalreserve.gov/aboutthefed/structure-federal-reserve-system.htm
+- Congressional Budget Office, The Budget and Economic Outlook: 2026 to 2036: https://www.cbo.gov/publication/62105
+- U.S. Census Bureau, New Residential Construction, August 2026: https://www.census.gov/construction/nrc/current/
+- U.S. Department of Energy, 2026 Draft National Transmission Needs Study: https://www.energy.gov/oe/national-transmission-needs-study
+- Lawrence Berkeley National Laboratory, Queued Up: 2026 Edition: https://emp.lbl.gov/queues
+- Federal Energy Regulatory Commission, transmission planning and interconnection statements, March 2026: https://www.ferc.gov/news-events/news/commissioner-changs-concurrence-order-accepting-tariff-revisions-subject-condition
 
 *Current statistics should be reverified against the cited primary releases before reuse. This dossier is structural context, not a substitute for event-specific research.*

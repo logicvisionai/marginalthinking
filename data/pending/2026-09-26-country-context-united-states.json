@@ -127,5 +127,16 @@
   "limitations": [
     "Current statistics are point-in-time and must be revalidated in future event-driven research.",
     "A country-level dossier cannot resolve large state and metropolitan differences; those should be treated separately when material."
+  ],
+  "revision": 1,
+  "revision_reason": "QA rework: expanded fiscal capacity, housing/local supply, electricity transmission/interconnection and labor-mobility mechanisms to satisfy the Country Context depth floor while preserving identity, taxonomy and triggering-research relationships.",
+  "supersedes_rejected_commit": "0f42ac91188de1c8329f43588ce6ac1d0caa3872",
+  "qa_fixes_applied": [
+    "Raised both public locales above the mechanical 1,600-substantive-word floor and above the 12-H2 analytical-section floor.",
+    "Added a sourced federal fiscal-capacity and net-interest transmission mechanism using the February 2026 CBO baseline.",
+    "Added a sourced housing/local-supply mechanism using August 2026 Census construction data.",
+    "Added a sourced electricity transmission/interconnection mechanism using DOE, Berkeley Lab and FERC evidence.",
+    "Added a labor-mobility mechanism linking demographics to housing, infrastructure, skills and regional productive capacity.",
+    "Preserved EN/PT-BR semantic parity, the existing evidence-bearing visual signature and explicit links to MT-SA-2026-09-23-FEDERAL-RESERVE and MT-GM-2026-09-25."
   ]
 }
