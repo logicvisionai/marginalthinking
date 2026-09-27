@@ -1,0 +1,120 @@
+{
+  "id": "MT-GM-2026-09-27",
+  "slug": "2026-09-27-global-macro",
+  "date": "2026-09-27",
+  "published_at": "2026-09-27T00:04:07-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "revision": 1,
+  "revision_reason": "QA rework: restore full EN/PT-BR semantic, visual and source-traceability parity after rejection.",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "east-asia",
+      "gulf"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "technology-innovation",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "political-stability"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "source_locale": "en",
+  "url": "/reports/2026/09/2026-09-27-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-27T17:58:38.272Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "e3a652398d3d542afe24a71c93ab7f96e2187683",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — France turns the global bond shock into a euro-area fragmentation test",
+      "deck": "French sovereign and bank risk premia are widening faster than the common euro-area rate shock, while AI-linked borrowers still access large pools of capital at a higher marginal price.",
+      "tags": [
+        "global macro",
+        "France",
+        "sovereign debt",
+        "euro",
+        "AI credit",
+        "Treasuries"
+      ],
+      "keywords": [
+        "France Germany spread",
+        "French CDS",
+        "ECB",
+        "euro",
+        "SoftBank",
+        "AI debt",
+        "MOVE"
+      ],
+      "regime": "Selective fragmentation under expensive capital: common long-rate pressure is increasingly differentiated by fiscal credibility and sector-specific access to credit.",
+      "key_risk": "France-specific sovereign and bank risk premia could tighten domestic financing faster than the ECB common stance implies.",
+      "watch": [
+        "France-Germany 10-year spread and French sovereign/bank CDS",
+        "Euro response to ECB repricing",
+        "U.S. and Japanese long yields and MOVE",
+        "Pricing of new AI-related corporate debt"
+      ],
+      "search_text": "Global Macro September 27 2026 France OAT Bund spread CDS euro ECB sovereign fragmentation AI debt MOVE"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — França transforma o choque global de títulos em um teste de fragmentação na zona do euro",
+      "deck": "O risco soberano e bancário francês está subindo mais rápido do que o choque comum de juros na zona do euro, enquanto emissores ligados à IA ainda acessam grandes volumes de capital a um preço marginal maior.",
+      "tags": [
+        "macro global",
+        "França",
+        "dívida soberana",
+        "euro",
+        "crédito de IA",
+        "Treasuries"
+      ],
+      "keywords": [
+        "spread França Alemanha",
+        "CDS francês",
+        "BCE",
+        "euro",
+        "SoftBank",
+        "dívida de IA",
+        "MOVE"
+      ],
+      "regime": "Fragmentação seletiva sob capital caro: a pressão dos juros longos é diferenciada por credibilidade fiscal e acesso setorial ao crédito.",
+      "key_risk": "Prêmios soberanos e bancários franceses podem apertar o financiamento doméstico mais rapidamente do que a política comum do BCE sugere.",
+      "watch": [
+        "Spread França-Alemanha e CDS franceses",
+        "Resposta do euro ao BCE",
+        "Juros longos dos EUA e Japão e MOVE",
+        "Precificação de novas emissões ligadas à IA"
+      ],
+      "search_text": "Global Macro 27 setembro 2026 França spread OAT Bund CDS euro BCE risco soberano fragmentação dívida IA MOVE"
+    }
+  }
+}
