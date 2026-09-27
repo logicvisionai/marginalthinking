@@ -42,8 +42,8 @@
     },
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-27-global-macro/pt-BR.md",
-      "title": "Global Macro — França e a fragmentação do custo de capital",
-      "deck": "O prêmio de risco francês aumenta dentro da zona do euro enquanto emissores ligados à IA ainda acessam grandes volumes de capital a um custo marginal maior.",
+      "title": "Global Macro — França transforma o choque global de títulos em um teste de fragmentação na zona do euro",
+      "deck": "O risco soberano e bancário francês está subindo mais rápido do que o choque comum de juros na zona do euro, enquanto emissores ligados à IA ainda acessam grandes volumes de capital a um preço marginal maior.",
       "tags": [
         "macro global",
         "França",
@@ -69,7 +69,7 @@
         "Juros longos dos EUA e Japão e MOVE",
         "Precificação de novas emissões ligadas à IA"
       ],
-      "search_text": "Global Macro 27 setembro 2026 França spread CDS euro BCE fragmentação dívida IA MOVE"
+      "search_text": "Global Macro 27 setembro 2026 França spread OAT Bund CDS euro BCE risco soberano fragmentação dívida IA MOVE"
     }
   },
   "taxonomy_version": "1.0",
@@ -120,5 +120,14 @@
     ],
     "dominant_delta": "France-specific sovereign risk became the new marginal mechanism: the 10-year France-Germany spread exceeded 110 bp and French five-year CDS reached about 52 bp while the euro weakened despite higher regional yields.",
     "repetition_control": "High U.S. and Japanese yields, AI capex and Gulf energy risk are background or transmission channels rather than the lead."
-  }
+  },
+  "revision": 1,
+  "revision_reason": "QA rework: restore full EN/PT-BR semantic, visual and source-traceability parity after rejection.",
+  "supersedes_rejected_commit": "ea3e93a55e6f3ba50130379452ae431127dc113b",
+  "qa_fixes_applied": [
+    "Restored all material mechanisms, evidence, contrary evidence, invalidation criteria and second-order effects from EN in PT-BR.",
+    "Restored visual parity: eight-row signal table, identical chart values and equivalent full transmission flow.",
+    "Localized market terminology in natural PT-BR, including first-use explanation of high-yield bonds.",
+    "Restored source-level traceability in PT-BR equivalent to EN."
+  ]
 }
