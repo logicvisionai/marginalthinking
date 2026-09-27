@@ -6,7 +6,7 @@
   "reviewed_commit": "21680a469049daaf4f47cca292c8efc36ec78dc6",
   "pending_blob_sha": "2e76dca3775e9e72fed12d7c7cad4e6502f24db3",
   "source_blob_shas": {
-    "en": "065728fe4047503a48af68e8100dbe185202da2d",
+    "en": "3a5efb6a7a4b0c9b6d4b7b858987152e5044f454",
     "pt-BR": "d44b5aefc53aa89a52b434ee312d36b7ee5b7c9a"
   },
   "taxonomy_check": "passed",
@@ -57,7 +57,7 @@
     "The dossier separates structural mechanisms from the September 2026 market repricing; current sovereign spreads are not treated as permanent structural parameters.",
     "Some institutional and political transmission claims are necessarily mechanism-level inferences rather than directly measurable causal effects; the report appropriately qualifies them and supplies observable fiscal, labour and market channels."
   ],
-  "notes": "New country-context dossier. Primary-source fact-check confirms the central quantitative spine. The related Global Macro item is already canonical at revision 1. Immediately before this decision, no canonical public bundle for MT-CC-2026-09-27-france was found. Approval is bound to the exact current pending and EN/PT-BR blobs.",
+  "notes": "New country-context dossier. Primary-source fact-check confirms the central quantitative spine. The related Global Macro item is already canonical at revision 1. Immediately before the QA decision, no canonical public bundle for MT-CC-2026-09-27-france was found. Approval is bound to the exact reviewed pending and EN/PT-BR blobs.",
   "publication": {
     "schema_version": 2,
     "ready": true,
