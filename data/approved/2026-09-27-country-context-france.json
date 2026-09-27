@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-27-france",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-27T19:11:36-03:00",
+  "reviewed_commit": "21680a469049daaf4f47cca292c8efc36ec78dc6",
+  "pending_blob_sha": "2e76dca3775e9e72fed12d7c7cad4e6502f24db3",
+  "source_blob_shas": {
+    "en": "065728fe4047503a48af68e8100dbe185202da2d",
+    "pt-BR": "d44b5aefc53aa89a52b434ee312d36b7ee5b7c9a"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central demographic, fiscal, labour, trade, electricity and defence quantities were cross-checked against current primary/official sources including INSEE, OECD, French Customs, RTE and the Ministry of the Armed Forces. Claims distinguish structural observations from inference and avoid treating high debt or political constraint as insolvency."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Country dossier uses the controlled political-economy-markets program, valid related programs, economy/politics/society dimensions, country-level France geography, controlled topics and phenomena, country-dossier format and event-driven cadence."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same thesis, mechanisms, quantitative evidence, visual values, qualifications, forward conditions and source set; Portuguese localization is natural and does not expose internal QA/template labels."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Opening states the France-specific structural thesis directly; analytical headings name mechanisms rather than template categories; both locales read as institutional prose; repetition is controlled; progression runs from institutions and productive structure through labour/demography/fiscal transmission to energy, defence, social constraint and synthesis; no prompt, QA or retrabalho meta-text leaks into public prose."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Historical and institutional context is selective and causal: Fifth Republic architecture, post-war coordination, euro membership, social bargaining, demography and European integration are included only where they explain current productive, fiscal or strategic constraints."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "2 analytical tables + 1 quantitative bar chart + 1 causal flow in each locale",
+      "summary": "Country-dossier floor is met with four useful visuals. Values, units and mechanisms are semantically equivalent EN/PT-BR; the chart uses compatible percentage observations and the flow encodes relationships defended in prose. No decorative or silently transformed data detected."
+    },
+    "country_context_contract": {
+      "result": "passed",
+      "summary": "France is explicit at country geography level; related_research_ids contains canonical MT-GM-2026-09-27 and MT-SA-2026-09-23-EUROSYSTEM; the dossier visibly links to the triggering sovereign-spread/euro transmission mechanism, adds reusable institutional/productive/social context, and is not an encyclopedic chronology."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Political institutions, organized labour, demonstrations and implementation constraints are described as observable mechanisms without ranking parties, governments or political choices or assigning contested motives as fact."
+    }
+  },
+  "contrary_evidence": [
+    "France retains high productivity levels, globally competitive strategic industries, deep euro-area market access, nuclear-electricity advantages and substantial state capacity, arguing against a simple structural-decline thesis.",
+    "High public spending and debt, weak trend productivity and political implementation constraints argue against treating centralized institutions as frictionless execution capacity."
+  ],
+  "limitations": [
+    "Current fiscal, labour and demographic statistics are point-in-time and require revalidation in future event-driven research.",
+    "Country-level treatment cannot resolve all metropolitan, overseas-territory or sector-specific differences.",
+    "The dossier separates structural mechanisms from the September 2026 market repricing; current sovereign spreads are not treated as permanent structural parameters.",
+    "Some institutional and political transmission claims are necessarily mechanism-level inferences rather than directly measurable causal effects; the report appropriately qualifies them and supplies observable fiscal, labour and market channels."
+  ],
+  "notes": "New country-context dossier. Primary-source fact-check confirms the central quantitative spine. The related Global Macro item is already canonical at revision 1. Immediately before this decision, no canonical public bundle for MT-CC-2026-09-27-france was found. Approval is bound to the exact current pending and EN/PT-BR blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-27-france",
+    "slug": "2026-09-27-country-context-france",
+    "date": "2026-09-27",
+    "published_at": "2026-09-27T18:08:34-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-27-country-context-france/en.md",
+        "title": "France: centralized state capacity, social protection and the fiscal constraint on European strategic autonomy",
+        "deck": "A structural dossier on how France's centralized institutions, welfare state, strategic industries, nuclear electricity and euro membership interact with weak productivity growth and rising fiscal pressure.",
+        "tags": [
+          "France",
+          "euro area",
+          "fiscal policy",
+          "industry",
+          "nuclear energy",
+          "demography"
+        ],
+        "keywords": [
+          "France political economy",
+          "French public debt",
+          "euro area fragmentation",
+          "French productivity",
+          "nuclear electricity France",
+          "French defence industry"
+        ],
+        "regime": "Structural context: concentrated state capacity and strategic productive assets coexist with high recurrent public spending, weak trend productivity and a rising fiscal credibility constraint.",
+        "key_risk": "Persistent weak growth and politically difficult consolidation could turn common euro-area rate shocks into a durable France-specific sovereign and bank funding premium.",
+        "watch": [
+          "Productivity and employment-rate improvement",
+          "Medium-term deficit and debt path",
+          "France-Germany sovereign spread and bank funding",
+          "Electrification and nuclear/grid execution",
+          "Defence spending and industrial-capacity expansion"
+        ],
+        "search_text": "France country context political economy Fifth Republic euro public debt productivity welfare state nuclear electricity defence industry demographics"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-27-country-context-france/pt-BR.md",
+        "title": "França: capacidade estatal centralizada, proteção social e a restrição fiscal sobre a autonomia estratégica europeia",
+        "deck": "Um dossiê estrutural sobre como instituições centralizadas, Estado de bem-estar, indústrias estratégicas, eletricidade nuclear e participação no euro interagem com produtividade fraca e pressão fiscal crescente.",
+        "tags": [
+          "França",
+          "zona do euro",
+          "política fiscal",
+          "indústria",
+          "energia nuclear",
+          "demografia"
+        ],
+        "keywords": [
+          "economia política da França",
+          "dívida pública francesa",
+          "fragmentação da zona do euro",
+          "produtividade francesa",
+          "eletricidade nuclear França",
+          "indústria de defesa francesa"
+        ],
+        "regime": "Contexto estrutural: capacidade estatal concentrada e ativos produtivos estratégicos coexistem com gasto público recorrente elevado, fraca produtividade tendencial e restrição crescente de credibilidade fiscal.",
+        "key_risk": "Crescimento persistentemente fraco e consolidação politicamente difícil podem transformar choques comuns de juros da zona do euro em prêmio soberano e bancário francês duradouro.",
+        "watch": [
+          "Melhora de produtividade e taxa de emprego",
+          "Trajetória de médio prazo do déficit e da dívida",
+          "Spread França-Alemanha e financiamento bancário",
+          "Eletrificação e execução nuclear/de rede",
+          "Gasto de defesa e expansão da capacidade industrial"
+        ],
+        "search_text": "França contexto de país economia política Quinta República euro dívida pública produtividade Estado de bem-estar eletricidade nuclear indústria de defesa demografia"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "western-europe"
+      ],
+      "countries": [
+        {
+          "code": "FR",
+          "slug": "france"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change",
+      "defense-security"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-GM-2026-09-27",
+      "MT-SA-2026-09-23-EUROSYSTEM"
+    ],
+    "selection_rationale": "France is materially implicated by the September 27 Global Macro thesis through sovereign-spread fragmentation inside the euro area. Existing public research covers the daily market signal and the Eurosystem but lacks reusable country-level context connecting French fiscal capacity, institutions, social expenditure, productivity, nuclear electricity, defence industry and demographic change.",
+    "contrary_evidence": [
+      "France retains high productivity levels, globally competitive strategic industries, deep euro-area market access, nuclear-electricity advantages and substantial state capacity, arguing against a simple structural-decline thesis.",
+      "High public spending and debt, weak trend productivity and political implementation constraints argue against treating centralized institutions as frictionless execution capacity."
+    ],
+    "limitations": [
+      "Current fiscal, labour and demographic statistics are point-in-time and require revalidation in future event-driven research.",
+      "Country-level treatment cannot resolve all metropolitan, overseas-territory or sector-specific differences.",
+      "The dossier separates structural mechanisms from the September 2026 market repricing; current sovereign spreads are not treated as permanent structural parameters."
+    ]
+  }
+}
