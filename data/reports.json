@@ -1,5 +1,90 @@
 [
   {
+    "id": "MT-GM-2026-09-27",
+    "slug": "2026-09-27-global-macro",
+    "date": "2026-09-27",
+    "published_at": "2026-09-27T00:04:07-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "revision": 1,
+    "revision_reason": "QA rework: restore full EN/PT-BR semantic, visual and source-traceability parity after rejection.",
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia",
+        "gulf"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "technology-innovation",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "political-stability"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "title": "Global Macro — France turns the global bond shock into a euro-area fragmentation test",
+    "deck": "French sovereign and bank risk premia are widening faster than the common euro-area rate shock, while AI-linked borrowers still access large pools of capital at a higher marginal price.",
+    "tags": [
+      "global macro",
+      "France",
+      "sovereign debt",
+      "euro",
+      "AI credit",
+      "Treasuries"
+    ],
+    "keywords": [
+      "France Germany spread",
+      "French CDS",
+      "ECB",
+      "euro",
+      "SoftBank",
+      "AI debt",
+      "MOVE"
+    ],
+    "regime": "Selective fragmentation under expensive capital: common long-rate pressure is increasingly differentiated by fiscal credibility and sector-specific access to credit.",
+    "key_risk": "France-specific sovereign and bank risk premia could tighten domestic financing faster than the ECB common stance implies.",
+    "watch": [
+      "France-Germany 10-year spread and French sovereign/bank CDS",
+      "Euro response to ECB repricing",
+      "U.S. and Japanese long yields and MOVE",
+      "Pricing of new AI-related corporate debt"
+    ],
+    "search_text": "Global Macro September 27 2026 France OAT Bund spread CDS euro ECB sovereign fragmentation AI debt MOVE",
+    "url": "/reports/2026/09/2026-09-27-global-macro.html",
+    "markdown_url": "/reports/2026/09/2026-09-27-global-macro/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-27T17:58:38.272Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "e3a652398d3d542afe24a71c93ab7f96e2187683"
+  },
+  {
     "id": "MT-GM-2026-09-26",
     "slug": "2026-09-26-global-macro",
     "date": "2026-09-26",
@@ -5162,79 +5247,6 @@
     "qa_reviewed_commit": "1eb29145f1e88896d11b9d0eeb2895b9d9223dd6"
   },
   {
-    "id": "MT-WF-2026-09-16",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:19:27-03:00",
-    "kind": "weekly-wealth-flow",
-    "priority": 20,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
-      "technology-innovation",
-      "infrastructure-logistics",
-      "currencies",
-      "sovereign-debt",
-      "banking-credit"
-    ],
-    "format": "monitor",
-    "cadence": "weekly",
-    "source_locale": "en",
-    "title": "Global Wealth Flow Monitor — 16 September 2026",
-    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
-    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
-    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
-    "tags": [
-      "global capital flows",
-      "official reserves",
-      "gold",
-      "critical minerals",
-      "AI infrastructure"
-    ],
-    "keywords": [
-      "TIC",
-      "COFER",
-      "BIS",
-      "FDI",
-      "gold",
-      "oil",
-      "data centres",
-      "critical minerals"
-    ],
-    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
-    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
-    "watch": [
-      "July TIC release and revisions",
-      "2026Q2 COFER",
-      "central-bank gold purchases",
-      "cross-border bank credit",
-      "Brent and Hormuz flows",
-      "electricity demand and data-centre interconnections",
-      "critical-mineral refining projects"
-    ],
-    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
-    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
-    "qa_confidence": "medium",
-    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
-  },
-  {
     "id": "MT-ST-2026-09-16-kazakhstan-corridor",
     "date": "2026-09-16",
     "published_at": "2026-09-16T12:19:27-03:00",
@@ -5317,6 +5329,79 @@
     "qa_reviewed_at": "2026-09-16T12:35:29-03:00",
     "qa_confidence": "medium",
     "qa_reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61"
+  },
+  {
+    "id": "MT-WF-2026-09-16",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit"
+    ],
+    "format": "monitor",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "title": "Global Wealth Flow Monitor — 16 September 2026",
+    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
+    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
+    "tags": [
+      "global capital flows",
+      "official reserves",
+      "gold",
+      "critical minerals",
+      "AI infrastructure"
+    ],
+    "keywords": [
+      "TIC",
+      "COFER",
+      "BIS",
+      "FDI",
+      "gold",
+      "oil",
+      "data centres",
+      "critical minerals"
+    ],
+    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
+    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
+    "watch": [
+      "July TIC release and revisions",
+      "2026Q2 COFER",
+      "central-bank gold purchases",
+      "cross-border bank credit",
+      "Brent and Hormuz flows",
+      "electricity demand and data-centre interconnections",
+      "critical-mineral refining projects"
+    ],
+    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
+    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
   },
   {
     "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",
