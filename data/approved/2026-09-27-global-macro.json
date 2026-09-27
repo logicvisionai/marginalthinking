@@ -1,0 +1,194 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-27",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-27T17:58:38.272Z",
+  "reviewed_commit": "e3a652398d3d542afe24a71c93ab7f96e2187683",
+  "pending_blob_sha": "1652ed6ea1a8c7e7a42e4edc9a6d4ff58902ab6d",
+  "source_blob_shas": {
+    "en": "65f846c04a264767b96830f4e8f4587ecdde3204",
+    "pt-BR": "57509df7db8badc19583f4da0d664ad90631c1d4"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central claims were rechecked against current Reuters reporting and primary official sources. France's 10-year spread over Germany exceeded 110 bp; French sovereign CDS repriced materially faster than peers; France's 2025 deficit/debt were 5.1%/115.7% of GDP; the ECB raised its key rates by 25 bp on 10 September; the June OECD France survey projected 0.7% 2026 growth; and AI-linked corporate debt was trading at wider spreads than the broader corporate market. The revision itself changes localization/parity, not the English factual thesis."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "The item preserves the fixed Global Macro classification under political-economy-markets, controlled dimensions, geography, topics, political-stability phenomenon, brief format and daily cadence."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "Revision 1 restores semantic equivalence between EN and PT-BR, including the full fiscal-transmission mechanism, cross-asset comparison, Treasury/JGB context, AI-credit analysis, contrary evidence, invalidation criteria, second-order effects and source traceability."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Both locales open with the specific France-fragmentation thesis, use analytical headings, avoid QA/template leakage, and conclude with contrary evidence and observable forward variables."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Political and fiscal context is used only where it explains financing transmission; contested political interpretation is not converted into advocacy, ranking or election prediction."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 analytical 8-row table + 1 explicit four-bar risk chart + 1 causal flow in each locale",
+      "summary": "Both locales now carry equivalent values, units, interpretations and transmission steps. The chart explicitly notes that the two risk measures share units but are not additive."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "Against the three prior public MT-GM editions, the lead delta is France-specific sovereign/bank repricing inside the euro area; high global yields, AI financing and Gulf energy risk are supporting transmission channels rather than recycled lead theses."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "The report describes political uncertainty only as an attributed/observable market transmission factor and makes no endorsement, ranking, electoral recommendation or independent election forecast."
+    }
+  },
+  "contrary_evidence": [
+    "Global equities remained resilient despite the rates shock, arguing against a uniform risk-off or capital-strike interpretation.",
+    "French CDS and funding conditions remain far from 2012 crisis extremes, market liquidity remains functional and ECB anti-fragmentation tools remain available.",
+    "Large AI-linked bond transactions continue to clear, showing that higher spreads coexist with substantial market access."
+  ],
+  "limitations": [
+    "The France-specific fragmentation interpretation is conditional on relative spreads/CDS remaining elevated versus euro-area peers; broad common repricing would weaken that interpretation.",
+    "Market prices and spreads are time-sensitive and may reprice at the next liquid session.",
+    "The AI-credit section identifies pricing selectivity, not a proprietary portfolio view shared by all institutional investors."
+  ],
+  "notes": "Revision 1 resolves all four blockers from the revision-0 rejection. Immediately before approval, no canonical public bundle for MT-GM-2026-09-27 existed. Approval is bound to the exact current pending and EN/PT-BR blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-27",
+    "slug": "2026-09-27-global-macro",
+    "date": "2026-09-27",
+    "published_at": "2026-09-27T00:04:07-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-27-global-macro/en.md",
+        "title": "Global Macro — France turns the global bond shock into a euro-area fragmentation test",
+        "deck": "French sovereign and bank risk premia are widening faster than the common euro-area rate shock, while AI-linked borrowers still access large pools of capital at a higher marginal price.",
+        "tags": [
+          "global macro",
+          "France",
+          "sovereign debt",
+          "euro",
+          "AI credit",
+          "Treasuries"
+        ],
+        "keywords": [
+          "France Germany spread",
+          "French CDS",
+          "ECB",
+          "euro",
+          "SoftBank",
+          "AI debt",
+          "MOVE"
+        ],
+        "regime": "Selective fragmentation under expensive capital: common long-rate pressure is increasingly differentiated by fiscal credibility and sector-specific access to credit.",
+        "key_risk": "France-specific sovereign and bank risk premia could tighten domestic financing faster than the ECB common stance implies.",
+        "watch": [
+          "France-Germany 10-year spread and French sovereign/bank CDS",
+          "Euro response to ECB repricing",
+          "U.S. and Japanese long yields and MOVE",
+          "Pricing of new AI-related corporate debt"
+        ],
+        "search_text": "Global Macro September 27 2026 France OAT Bund spread CDS euro ECB sovereign fragmentation AI debt MOVE"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-27-global-macro/pt-BR.md",
+        "title": "Global Macro — França transforma o choque global de títulos em um teste de fragmentação na zona do euro",
+        "deck": "O risco soberano e bancário francês está subindo mais rápido do que o choque comum de juros na zona do euro, enquanto emissores ligados à IA ainda acessam grandes volumes de capital a um preço marginal maior.",
+        "tags": [
+          "macro global",
+          "França",
+          "dívida soberana",
+          "euro",
+          "crédito de IA",
+          "Treasuries"
+        ],
+        "keywords": [
+          "spread França Alemanha",
+          "CDS francês",
+          "BCE",
+          "euro",
+          "SoftBank",
+          "dívida de IA",
+          "MOVE"
+        ],
+        "regime": "Fragmentação seletiva sob capital caro: a pressão dos juros longos é diferenciada por credibilidade fiscal e acesso setorial ao crédito.",
+        "key_risk": "Prêmios soberanos e bancários franceses podem apertar o financiamento doméstico mais rapidamente do que a política comum do BCE sugere.",
+        "watch": [
+          "Spread França-Alemanha e CDS franceses",
+          "Resposta do euro ao BCE",
+          "Juros longos dos EUA e Japão e MOVE",
+          "Precificação de novas emissões ligadas à IA"
+        ],
+        "search_text": "Global Macro 27 setembro 2026 França spread OAT Bund CDS euro BCE risco soberano fragmentação dívida IA MOVE"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia",
+        "gulf"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "technology-innovation",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "political-stability"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "novelty_gate": {
+      "compared_public_editions": [
+        "MT-GM-2026-09-24",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-26"
+      ],
+      "dominant_delta": "France-specific sovereign risk became the new marginal mechanism: the 10-year France-Germany spread exceeded 110 bp and French five-year CDS reached about 52 bp while the euro weakened despite higher regional yields.",
+      "repetition_control": "High U.S. and Japanese yields, AI capex and Gulf energy risk are background or transmission channels rather than the lead."
+    },
+    "revision": 1,
+    "revision_reason": "QA rework: restore full EN/PT-BR semantic, visual and source-traceability parity after rejection.",
+    "supersedes_rejected_commit": "ea3e93a55e6f3ba50130379452ae431127dc113b",
+    "qa_fixes_applied": [
+      "Restored all material mechanisms, evidence, contrary evidence, invalidation criteria and second-order effects from EN in PT-BR.",
+      "Restored visual parity: eight-row signal table, identical chart values and equivalent full transmission flow.",
+      "Localized market terminology in natural PT-BR, including first-use explanation of high-yield bonds.",
+      "Restored source-level traceability in PT-BR equivalent to EN."
+    ]
+  }
+}
