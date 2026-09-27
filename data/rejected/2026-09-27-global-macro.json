@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-27",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-27T01:33:21-03:00",
+  "reviewed_commit": "65b284a69712f0dfe802c5d891c9f13ae2e37ff7",
+  "pending_blob_sha": "e623cf94846cf24f9e94ee830e64078de523dc8b",
+  "source_blob_shas": {
+    "en": "65f846c04a264767b96830f4e8f4587ecdde3204",
+    "pt-BR": "48972d40ca2de31060c1f1205cbdb22a91fa5a06"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    "EN/PT-BR semantic parity fails: the Portuguese edition materially condenses the English analysis, omitting mechanisms and evidence on French fiscal transmission, cross-asset comparison, Treasury/JGB transmission, AI-linked credit, second-order effects, contrary evidence and explicit invalidation criteria.",
+    "Visual parity fails: the English market-signal table contains eight signals plus analytical interpretation, while PT-BR contains five signals and removes the interpretation column; the PT-BR mechanism diagram also removes material transmission steps.",
+    "PT-BR localization is not publication-ready: untranslated or insufficiently localized market terminology remains, including 'high yield' without adequate first-use explanation.",
+    "Source traceability is weaker in PT-BR: the Sources section collapses references into institutional names and loses materially useful traceability present in EN."
+  ],
+  "required_fixes": [
+    "Restore full semantic equivalence in PT-BR without merely literal translation; preserve all material mechanisms, evidence, contrary evidence, falsifiers/invalidation criteria and second-order effects present in EN.",
+    "Make visual evidence semantically equivalent across locales, including the same material rows, units, interpretations and mechanism steps.",
+    "Localize PT-BR terminology naturally and explain unavoidable English market terms on first use.",
+    "Restore source-level traceability in PT-BR equivalent to EN, while preserving the same evidentiary hierarchy."
+  ],
+  "evidence": {
+    "editorial_publication_readiness": "failed — PT-BR is materially abbreviated relative to EN and contains localization/source-traceability defects.",
+    "translation_check": "failed — material analytical content is absent from PT-BR.",
+    "visual_evidence_readiness": "failed — table and mechanism diagram diverge materially between locales.",
+    "factual_check": "Core checked claims were not the rejection driver; the rejection is independently blocking on translation/editorial/visual parity."
+  },
+  "taxonomy_issues": [],
+  "notes": "No public bundle for MT-GM-2026-09-27 was found immediately before this decision. Rejection preserves the unpublished state; no reports/**, HTML, data/reports.json, or global site surface was modified."
+}
