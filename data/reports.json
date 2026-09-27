@@ -1,5 +1,102 @@
 [
   {
+    "id": "MT-CC-2026-09-27-france",
+    "slug": "2026-09-27-country-context-france",
+    "date": "2026-09-27",
+    "published_at": "2026-09-27T18:08:34-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "western-europe"
+      ],
+      "countries": [
+        {
+          "code": "FR",
+          "slug": "france"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change",
+      "defense-security"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "selection_rationale": "France is materially implicated by the September 27 Global Macro thesis through sovereign-spread fragmentation inside the euro area. Existing public research covers the daily market signal and the Eurosystem but lacks reusable country-level context connecting French fiscal capacity, institutions, social expenditure, productivity, nuclear electricity, defence industry and demographic change.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-GM-2026-09-27",
+      "MT-SA-2026-09-23-EUROSYSTEM"
+    ],
+    "title": "France: centralized state capacity, social protection and the fiscal constraint on European strategic autonomy",
+    "deck": "A structural dossier on how France's centralized institutions, welfare state, strategic industries, nuclear electricity and euro membership interact with weak productivity growth and rising fiscal pressure.",
+    "tags": [
+      "France",
+      "euro area",
+      "fiscal policy",
+      "industry",
+      "nuclear energy",
+      "demography"
+    ],
+    "keywords": [
+      "France political economy",
+      "French public debt",
+      "euro area fragmentation",
+      "French productivity",
+      "nuclear electricity France",
+      "French defence industry"
+    ],
+    "regime": "Structural context: concentrated state capacity and strategic productive assets coexist with high recurrent public spending, weak trend productivity and a rising fiscal credibility constraint.",
+    "key_risk": "Persistent weak growth and politically difficult consolidation could turn common euro-area rate shocks into a durable France-specific sovereign and bank funding premium.",
+    "watch": [
+      "Productivity and employment-rate improvement",
+      "Medium-term deficit and debt path",
+      "France-Germany sovereign spread and bank funding",
+      "Electrification and nuclear/grid execution",
+      "Defence spending and industrial-capacity expansion"
+    ],
+    "search_text": "France country context political economy Fifth Republic euro public debt productivity welfare state nuclear electricity defence industry demographics",
+    "url": "/reports/2026/09/2026-09-27-country-context-france.html",
+    "markdown_url": "/reports/2026/09/2026-09-27-country-context-france/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-27T19:11:36-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "21680a469049daaf4f47cca292c8efc36ec78dc6"
+  },
+  {
     "id": "MT-GM-2026-09-27",
     "slug": "2026-09-27-global-macro",
     "date": "2026-09-27",
@@ -5247,6 +5344,79 @@
     "qa_reviewed_commit": "1eb29145f1e88896d11b9d0eeb2895b9d9223dd6"
   },
   {
+    "id": "MT-WF-2026-09-16",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit"
+    ],
+    "format": "monitor",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "title": "Global Wealth Flow Monitor — 16 September 2026",
+    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
+    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
+    "tags": [
+      "global capital flows",
+      "official reserves",
+      "gold",
+      "critical minerals",
+      "AI infrastructure"
+    ],
+    "keywords": [
+      "TIC",
+      "COFER",
+      "BIS",
+      "FDI",
+      "gold",
+      "oil",
+      "data centres",
+      "critical minerals"
+    ],
+    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
+    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
+    "watch": [
+      "July TIC release and revisions",
+      "2026Q2 COFER",
+      "central-bank gold purchases",
+      "cross-border bank credit",
+      "Brent and Hormuz flows",
+      "electricity demand and data-centre interconnections",
+      "critical-mineral refining projects"
+    ],
+    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
+    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
+  },
+  {
     "id": "MT-ST-2026-09-16-kazakhstan-corridor",
     "date": "2026-09-16",
     "published_at": "2026-09-16T12:19:27-03:00",
@@ -5329,79 +5499,6 @@
     "qa_reviewed_at": "2026-09-16T12:35:29-03:00",
     "qa_confidence": "medium",
     "qa_reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61"
-  },
-  {
-    "id": "MT-WF-2026-09-16",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:19:27-03:00",
-    "kind": "weekly-wealth-flow",
-    "priority": 20,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
-      "technology-innovation",
-      "infrastructure-logistics",
-      "currencies",
-      "sovereign-debt",
-      "banking-credit"
-    ],
-    "format": "monitor",
-    "cadence": "weekly",
-    "source_locale": "en",
-    "title": "Global Wealth Flow Monitor — 16 September 2026",
-    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
-    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
-    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
-    "tags": [
-      "global capital flows",
-      "official reserves",
-      "gold",
-      "critical minerals",
-      "AI infrastructure"
-    ],
-    "keywords": [
-      "TIC",
-      "COFER",
-      "BIS",
-      "FDI",
-      "gold",
-      "oil",
-      "data centres",
-      "critical minerals"
-    ],
-    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
-    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
-    "watch": [
-      "July TIC release and revisions",
-      "2026Q2 COFER",
-      "central-bank gold purchases",
-      "cross-border bank credit",
-      "Brent and Hormuz flows",
-      "electricity demand and data-centre interconnections",
-      "critical-mineral refining projects"
-    ],
-    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
-    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
-    "qa_confidence": "medium",
-    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
   },
   {
     "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",
