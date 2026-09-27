@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-09-27T00:04:07-03:00",
+  "candidate": {
+    "country": {
+      "code": "EU",
+      "name": "European Union"
+    },
+    "proposed_state": "blocking_inefficiency",
+    "previous_state": null,
+    "perspective": "Data-centre developers and AI infrastructure operators seeking grid- and water-compatible capacity across European Union markets.",
+    "structural_condition": "Rapid data-centre capacity expansion is increasing dependence on local electricity-grid and water availability, while a proposed EU disclosure regime begins to make those physical constraints more visible.",
+    "delta": "The European Commission proposed an energy and water efficiency label for data centres of at least 500 kW, with disclosure tied to local water stress and potential grid services. The rules remain in the objection period, so this is a discovery-stage watch candidate rather than an operational state change.",
+    "mechanism": "Comparable disclosure can expose where grid, water and heat-reuse constraints raise the effective cost or delay of new compute capacity; later minimum standards could make resource efficiency a more explicit access constraint.",
+    "catalysts": [
+      "No objection during the EU scrutiny period",
+      "Subsequent minimum efficiency standards",
+      "Verified grid-service or waste-heat integration"
+    ],
+    "invalidation": "Material dilution or rejection of the proposed regime, or evidence that power and water constraints do not affect siting or operating access at relevant scale.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "Reuters — EU data-centre energy and water efficiency disclosure proposal",
+        "url": "https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/",
+        "date": "2026-09-21"
+      }
+    ]
+  }
+}
