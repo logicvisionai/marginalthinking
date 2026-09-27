@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-09-26  
+**Last reviewed:** 2026-09-27  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -60,6 +60,14 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 
 ## What changed since last review
 
+### 2026-09-27
+
+- **Changed:** the September 27 Global Macro adds a reusable segmentation mechanism inside monetary unions: a common policy-rate and duration shock can produce materially different effective financing conditions when country-specific fiscal credibility and political capacity are repriced through sovereign spreads and bank funding.
+- **Changed:** AI-linked credit reinforces the same selection mechanism from a different channel. Large transactions can still clear under expensive capital while sector spreads widen, so successful issuance is evidence of market access, not evidence of easy financing or broad investor agreement with the underlying growth thesis.
+- **Unchanged:** resilient equity indices and large primary-market transactions do not establish uniformly loose financial conditions; sovereign, bank and corporate-credit pricing can segment while headline risk assets remain firm.
+- **Watch:** persistence of jurisdiction-specific sovereign/bank premia relative to common rates, spillover from sovereign funding into domestic credit, and whether repeated strategic-sector issuance widens the gap between market access and marginal financing cost.
+
+
 ### 2026-09-26
 
 - **Changed:** the September 26 Global Macro strengthens a durable selection mechanism: high nominal and real long-term rates do not necessarily stop aggregate productive investment immediately when a narrow set of projects carries unusually high expected returns or is funded by strong corporate cash flow. Strong core equipment orders can therefore coexist with restrictive long-duration financing.
@@ -106,6 +114,7 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - `MT-SA-2026-09-23-BLACKROCK` — delegated capital, voting authority and financial infrastructure; use to distinguish intermediation from ownership.
 - `MT-SA-2026-09-23-PIF` — sovereign development capital and the conditions under which public investment becomes durable productive capacity.
 - `MT-GM-2026-09-26` — strong U.S. core equipment demand under high nominal and real long-term rates; use to distinguish aggregate capex resilience from investment breadth and financing selectivity.
+- `MT-GM-2026-09-27` — France-specific sovereign/bank repricing and AI-credit selectivity under a common high-rate backdrop; use to distinguish common monetary conditions from jurisdiction- and issuer-specific financing premia.
 
 ## Sources and verification notes
 
