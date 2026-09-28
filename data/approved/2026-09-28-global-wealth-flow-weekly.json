@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-09-28",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-28T08:02:31-03:00",
+  "reviewed_commit": "4ca6c7a3d319086693b000df19417c96d8e14322",
+  "pending_blob_sha": "b277b5b79e03d63a3a030af71716203725cf5d84",
+  "source_blob_shas": {
+    "en": "48d40a20620af141284745248eb5ca241382cb12",
+    "pt-BR": "ded8f52cf8f4f7f6b3beb605ebcf63cc2828f6df"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "ICI primary releases confirm -$36.70bn long-term mutual-fund outflows, +$26.61bn ETF net issuance, -$10.10bn combined long-term flow and $7.936tn money-market assets. ECB confirms 12-month portfolio purchases of €193bn/€622bn by euro-area residents abroad and €525bn/€631bn by non-residents in euro-area equity/debt, plus August household/NFC loan growth of 3.1%/4.2%. SAFE confirms $3.4383tn August reserves, +$19.5bn, and explicitly attributes the increase to exchange-rate translation and asset-price changes."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Program global-system-power, related political-economy-markets, dimensions, global geography, controlled topics, empty phenomena array, monitor format and weekly cadence are valid."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN/PT-BR carry equivalent thesis, figures, caveats, visuals, falsifiers and source traceability."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Direct thesis-led opening, analytical headings, no exposed QA/template language, explicit stock-vs-flow discipline and a concise falsification section."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report uses institutional and cross-border context only where it explains the allocation mechanism; no ornamental historical section is needed."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 structural regional map/card in each locale",
+      "summary": "Exceeds the monitor visual floor; chart values and units are source-traceable and semantic parity is preserved.",
+      "limitations": "The map is a structural transmission card rather than a coordinate/geospatial visualization, which is adequate because corridor geography is not the central evidence."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "The 28 September lead is vehicle substitution (mutual funds versus ETFs) alongside persistent cash-like balances; prior-week TIC remains explicitly demoted to baseline rather than recycled as the thesis."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "No party, government or electoral choice is ranked or endorsed; official Chinese reserve commentary is treated as source attribution rather than political evaluation."
+    }
+  },
+  "contrary_evidence": [
+    "Combined long-term mutual-fund and ETF flows remained negative despite ETF issuance, so ETF creation alone does not establish broad risk-seeking.",
+    "Money-market assets rose only modestly week on week and remain a stock measure whose change is primarily, not perfectly, driven by net new cash.",
+    "Strong non-resident purchases of euro-area securities are a 12-month portfolio-flow observation and do not by themselves establish a permanent shift in global wealth allocation."
+  ],
+  "limitations": [
+    "ICI weekly flows are estimates and should not be generalized to all institutional portfolios.",
+    "Euro-area portfolio data are directional gross acquisition flows, not a complete external-wealth ownership map.",
+    "China's reserve-stock change cannot be interpreted as a transaction flow because SAFE identifies valuation and FX effects."
+  ],
+  "notes": "Approved after independent re-check of primary ICI, ECB and SAFE releases and comparison with the prior weekly monitor. Public-state recheck at reviewed HEAD found no canonical bundle for MT-WF-2026-09-28. Approval is bound to the exact current pending and EN/PT-BR blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-09-28",
+    "slug": "2026-09-28-global-wealth-flow-weekly",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T07:05:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-28-global-wealth-flow-weekly/en.md",
+        "title": "Global Wealth Flow Monitor — 28 September 2026",
+        "deck": "Capital is rotating across investment vehicles rather than following a single risk regime: mutual-fund redemptions coexisted with ETF issuance, money-market assets stayed near $8 trillion, and foreign demand for euro-area securities remained strong.",
+        "tags": [
+          "global capital flows",
+          "ETFs",
+          "mutual funds",
+          "money market funds",
+          "euro area",
+          "portfolio flows",
+          "foreign reserves"
+        ],
+        "keywords": [
+          "ETF net issuance",
+          "mutual fund flows",
+          "money market fund assets",
+          "euro area portfolio investment",
+          "cross-border capital",
+          "foreign exchange reserves",
+          "capital allocation"
+        ],
+        "regime": "Liquidity preservation with vehicle substitution: investors are changing wrappers and geographic exposure while maintaining large cash-like balances.",
+        "key_risk": "A prolonged split between liquid wrappers and long-duration financing could increase the gap between market liquidity and productive capital formation.",
+        "watch": [
+          "ICI weekly mutual-fund and ETF flows",
+          "U.S. money-market fund assets",
+          "next euro-area balance-of-payments release",
+          "August TIC release on 16 October",
+          "China reserve decomposition between transactions and valuation"
+        ],
+        "search_text": "Global Wealth Flow Monitor September 28 2026 ETF mutual fund money market euro area portfolio flows China reserves capital allocation"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-28-global-wealth-flow-weekly/pt-BR.md",
+        "title": "Global Wealth Flow Monitor — 28 de setembro de 2026",
+        "deck": "O capital está rotacionando entre veículos de investimento, e não seguindo um único regime de risco: resgates de fundos mútuos coexistiram com emissão de ETFs, fundos monetários seguiram perto de US$ 8 trilhões e a demanda estrangeira por títulos da área do euro permaneceu forte.",
+        "tags": [
+          "fluxos globais de capital",
+          "ETFs",
+          "fundos mútuos",
+          "fundos de mercado monetário",
+          "área do euro",
+          "fluxos de portfólio",
+          "reservas cambiais"
+        ],
+        "keywords": [
+          "emissão líquida de ETFs",
+          "fluxos de fundos mútuos",
+          "ativos de fundos monetários",
+          "investimento de portfólio na área do euro",
+          "capital transfronteiriço",
+          "reservas cambiais",
+          "alocação de capital"
+        ],
+        "regime": "Preservação de liquidez com substituição de veículo: investidores mudam estruturas e exposição geográfica enquanto mantêm grandes saldos semelhantes a caixa.",
+        "key_risk": "Uma divisão persistente entre veículos líquidos e financiamento de longa duração pode ampliar a distância entre liquidez de mercado e formação de capital produtivo.",
+        "watch": [
+          "fluxos semanais de fundos mútuos e ETFs do ICI",
+          "ativos de fundos de mercado monetário dos EUA",
+          "próxima divulgação do balanço de pagamentos da área do euro",
+          "TIC de agosto em 16 de outubro",
+          "decomposição das reservas chinesas entre transações e valorização"
+        ],
+        "search_text": "Global Wealth Flow Monitor 28 setembro 2026 ETF fundos mútuos mercado monetário área do euro fluxos portfólio reservas China alocação capital"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit",
+      "trade-investment"
+    ],
+    "phenomena": [],
+    "format": "monitor",
+    "cadence": "weekly"
+  }
+}

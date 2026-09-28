@@ -1,0 +1,79 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-28",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-28T08:02:31-03:00",
+  "reviewed_commit": "4ca6c7a3d319086693b000df19417c96d8e14322",
+  "pending_blob_sha": "77e33e9561bc1d54dd034b1bc01647f86aa6fc5b",
+  "source_blob_shas": {
+    "en": "355fd00809cde4e0c5a5ffbcd2914bd52159f6d3",
+    "pt-BR": "8c8fa53786a286bdeee8f936d54e167a2c2d14e6"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "source_traceability_and_precision",
+      "location": "EN/PT-BR — section on Brazil",
+      "detail": "The Brazil section adds current claims about domestic diesel pricing, September foreign inflows and the approaching first-round election without source-level traceability equivalent to the rest of the report. The diesel wording is also materially imprecise after Petrobras' 17 September distributor-price increase was offset by a same-amount federal subsidy, so the public text should not imply a simple observed domestic-price increase."
+    }
+  ],
+  "required_fixes": [
+    "Preserve ID/date/slug and issue revision 1 rather than a new edition.",
+    "Remove or rewrite the unsupported Brazil-specific paragraph so every remaining current claim is traceable to cited primary/first-line evidence.",
+    "If Brazil remains, distinguish Petrobras' nominal distributor-price increase from the offsetting subsidy and avoid implying a broad retail-price move without direct data.",
+    "Add revision, revision_reason, supersedes_rejected_commit and qa_fixes_applied to the revised pending; preserve EN/PT-BR and visual parity."
+  ],
+  "evidence": {
+    "factual_check": "passed for the central thesis — EIA confirms U.S. on-highway diesel at $6.529/gal on 21 September; Reuters confirms the 28 September oil rebound after the rejected Iran proposal; RBA primary remarks confirm elevated oil, excess demand and upside inflation risks; U.S. Treasury/Reuters support elevated long yields. Brazil-specific current claims require correction/source repair.",
+    "novelty_check": "passed — unlike the 25–27 September lead theses, the new marginal mechanism is refined-product/refining transmission versus the crude headline.",
+    "translation_check": "passed — EN/PT-BR are materially aligned.",
+    "visual_evidence_readiness": "passed — each locale contains one analytical table, one explicit diesel chart and one causal flow, meeting the brief floor."
+  },
+  "taxonomy_issues": [],
+  "checks": {
+    "factual_methodological": {
+      "result": "failed",
+      "summary": "Central thesis is supported, but source traceability/precision fails in the Brazil-specific section and is publication-blocking under the current QA contract."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Fixed Global Macro classification, controlled topics and war-armed-conflict phenomenon are valid."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN/PT-BR preserve the same thesis, material mechanisms and visual evidence."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The article is structurally publication-ready except for the unsupported/imprecise Brazil paragraph, which should be removed or repaired rather than exposed publicly."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report connects physical refining/logistics constraints to inflation and monetary transmission without requiring ornamental background."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table + 1 explicit line chart + 1 causal flow in each locale",
+      "summary": "Meets the brief floor; values and units are aligned across locales."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "The refined-product/refining channel is a distinct marginal delta versus the previous three public Global Macro editions."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Current geopolitical and election references are descriptive rather than advocative; the blocking issue is sourcing/precision, not political framing."
+    }
+  },
+  "contrary_evidence": [
+    "The energy shock remains selective rather than a uniform global risk-off event; gold and equities do not move as a single defensive complex.",
+    "A normalization of Hormuz throughput, freight/insurance conditions and refinery availability would weaken the product-squeeze thesis."
+  ],
+  "limitations": [
+    "Intraday Brent, dollar and Treasury levels are time-sensitive.",
+    "U.S. retail diesel is a direct U.S. series and not a proxy for global refined-product prices."
+  ],
+  "notes": "Rejected before materialization. Public-state recheck at reviewed HEAD found no canonical bundle for MT-GM-2026-09-28. No public report/index file was modified by this QA decision."
+}
