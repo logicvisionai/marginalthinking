@@ -83,6 +83,13 @@ The September 17 context review added the historical, institutional and social m
 - **Research implication:** diplomacy can move the energy risk premium in either direction before physical logistics change. Treat political probability, market pricing and observed throughput as three separate states; a reversal in the first can invalidate the second without changing the third.
 - **Unchanged:** physical verification still requires throughput, terminal/export performance, freight, insurance and infrastructure status.
 
+### 2026-09-28
+
+- **Changed:** the September 28 macro report strengthens the product-level transmission rule: crude prices can stabilize or retrace while diesel and other middle distillates remain expensive because refinery throughput, product inventories, specifications, freight and logistics are separate constraints.
+- **Changed:** a failed diplomatic reopening path can rebuild the crude and shipping risk premium before any new physical disruption occurs. Political probability, market pricing, physical throughput and refined-product availability remain distinct states that should be verified separately.
+- **Research implication:** future energy-shock analysis should track crude, refinery availability, middle-distillate inventories, delivered diesel, freight and insurance as separate evidence layers rather than infer downstream inflation pressure from Brent alone.
+- **Watch:** U.S. and regional middle-distillate balances, refinery availability, verified Hormuz throughput, freight/insurance conditions and the speed with which product-market relief follows any crude-market normalization.
+
 ## Open questions
 
 - How much effective export capacity can Saudi alternative routes sustain under prolonged Hormuz impairment after accounting for maintenance, terminal constraints and crude compatibility?
@@ -104,6 +111,8 @@ The September 17 context review added the historical, institutional and social m
 
 - `MT-GM-2026-09-25` — Global Macro Daily, 2026-09-25, revision 3; distinguishes anticipated Middle East energy de-escalation from verified Hormuz traffic and Gulf export normalization.
 - `MT-GM-2026-09-26` — Global Macro Daily, 2026-09-26; adds a same-week reversal case in which a diplomatic reopening path was rejected before physical logistics normalized.
+
+- `MT-GM-2026-09-28` — refined-product and refining transmission under unresolved Hormuz normalization; use to separate crude-price relief from delivered-fuel and inflation relief.
 
 ## Sources and verification notes
 

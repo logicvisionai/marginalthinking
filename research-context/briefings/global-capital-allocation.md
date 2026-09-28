@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-09-27  
+**Last reviewed:** 2026-09-28  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -95,6 +95,13 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - **Unchanged:** U.S. financial markets remain the dominant global destination for internationally traded financial capital.
 - **Watch:** TIC flows, BIS cross-border banking, UNCTAD realized FDI versus announcements, SWF allocation, project cancellations/FIDs and the physical constraints that determine whether strategic capex can be executed.
 
+### 2026-09-28
+
+- **Changed:** the September 28 wealth-flow monitor makes vehicle choice a reusable allocation distinction. Long-term mutual-fund redemptions can coexist with ETF net issuance while the combined long-term flow remains negative and money-market assets remain structurally large. Future research should therefore separate a change in investment wrapper from a change in aggregate risk appetite.
+- **Changed:** cross-border portfolio demand and domestic credit creation can move through different channels. Strong non-resident purchases of euro-area securities do not by themselves imply an equivalent domestic bank-credit expansion or a broad shift in productive investment.
+- **Reinforced:** reserve-stock changes require decomposition before they are treated as capital flows. Currency translation and asset-price effects can raise an official reserve stock without an equivalent transaction flow.
+- **Watch:** persistence of mutual-fund versus ETF divergence, money-market balances, euro-area balance-of-payments portfolio demand, and whether these financial reallocations translate into durable financing or productive-capital changes.
+
 ## Open questions
 
 - How much strategic-sector announced investment converts into operating capacity?
@@ -115,6 +122,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - `MT-SA-2026-09-23-PIF` — sovereign development capital and the conditions under which public investment becomes durable productive capacity.
 - `MT-GM-2026-09-26` — strong U.S. core equipment demand under high nominal and real long-term rates; use to distinguish aggregate capex resilience from investment breadth and financing selectivity.
 - `MT-GM-2026-09-27` — France-specific sovereign/bank repricing and AI-credit selectivity under a common high-rate backdrop; use to distinguish common monetary conditions from jurisdiction- and issuer-specific financing premia.
+
+- `MT-WF-2026-09-28` — vehicle substitution across mutual funds, ETFs and cash-like balances; use to distinguish wrapper-level flow from aggregate allocation and to separate portfolio demand from domestic credit creation.
 
 ## Sources and verification notes
 
