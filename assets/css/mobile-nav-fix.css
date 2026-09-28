@@ -1,7 +1,7 @@
 /* Mobile navigation must remain viewport-bound even when opened after scrolling.
    Colors use the global theme tokens so the overlay follows light/dark mode. */
 .site-header{z-index:300!important}
-body.menu-open{overflow:visible!important}
+body.menu-open{overflow:hidden!important;overscroll-behavior:none}
 @media(max-width:860px){
   .mobile-menu{
     position:fixed!important;
@@ -17,6 +17,7 @@ body.menu-open{overflow:visible!important}
     overflow-x:hidden!important;
     overscroll-behavior:contain!important;
     -webkit-overflow-scrolling:touch;
+    padding-bottom:env(safe-area-inset-bottom,0px);
     background:var(--paper)!important;
     color:var(--ink)!important;
     border-top-color:var(--line)!important
@@ -25,6 +26,8 @@ body.menu-open{overflow:visible!important}
   .mobile-menu-inner,
   .mobile-menu nav{background:transparent!important;color:inherit!important}
   .mobile-menu nav>a{
+    min-height:48px;
+    overflow-wrap:anywhere;
     color:var(--ink)!important;
     border-bottom-color:var(--line)!important
   }
