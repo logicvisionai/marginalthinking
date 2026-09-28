@@ -130,7 +130,7 @@ else{
 const navCss=path.join(root,'assets/css/mobile-nav-fix.css');
 if(fs.existsSync(navCss)){
   const css=fs.readFileSync(navCss,'utf8').replace(/\s+/g,'');
-  for(const token of ['.mobile-menu{position:fixed','top:var(--mobile-menu-top','body.menu-open{overflow:visible'])if(!css.includes(token.replace(/\s+/g,'')))fail.push(`mobile-nav-fix.css: proteção ausente ${token}`);
+  for(const token of ['.mobile-menu{position:fixed','top:var(--mobile-menu-top','body.menu-open{overflow:hidden'])if(!css.includes(token.replace(/\s+/g,'')))fail.push(`mobile-nav-fix.css: proteção ausente ${token}`);
 }
 if(warn.length)console.warn(warn.map(x=>`WARN ${x}`).join('\n'));
 if(fail.length){console.error(fail.map(x=>`FAIL ${x}`).join('\n'));process.exit(1);}
