@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-28",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-28T08:05:28-03:00",
+  "reviewed_commit": "6feb38b4e4a9c044cd11b07577d3ad730165ff3c",
+  "pending_blob_sha": "149c60c8bb04f93fa9c80a265c2e9372b15ed902",
+  "source_blob_shas": {
+    "en": "14be1eb6d656bf1de4019f0276bf2da6de21402a",
+    "pt-BR": "554794c5a4994edf6c7726ac1482b358df15a3d5"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "The revision removes the only source-traceability/precision blocker. The central thesis was rechecked against EIA diesel data, RBA primary remarks, U.S. Treasury yield data and contemporaneous first-line reporting on the 28 September oil/Hormuz development; no central numeric or causal claim was changed in revision 1."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "The fixed daily Global Macro classification remains valid under political-economy-markets with controlled dimensions, geography, topics, war-armed-conflict phenomenon, brief format and daily cadence."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN and PT-BR remain materially equivalent after removing the same Brazil-specific section from both locales; thesis, evidence, caveats, visuals and source traceability are aligned."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The opening is thesis-led, headings are analytical, no QA/template language is exposed, and the previously unsupported Brazil paragraph is no longer present."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report connects refining/logistics constraints to delivered fuel prices, inflation transmission and monetary-policy sensitivity without ornamental background."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 analytical Markdown table + 1 explicit diesel line chart + 1 causal flow in each locale",
+      "summary": "Meets the brief visual floor with source-traceable values and equivalent units/mechanisms in EN and PT-BR."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "Against the 25–27 September public Global Macro editions, the lead delta is refined-product/refining stress relative to the crude headline, rather than another repetition of the long-yield or sovereign-fragmentation thesis."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Geopolitical claims are attributed/descriptive and the report makes no electoral recommendation, ranking, endorsement or outcome prediction."
+    },
+    "revision_delta": {
+      "result": "passed",
+      "summary": "Revision 1 only removes the Brazil-specific section identified in the rejection and adds revision metadata; the central factual thesis, numbers, charts, causal flow and conclusion were not silently altered."
+    }
+  },
+  "contrary_evidence": [
+    "The energy shock remains selective rather than a uniform global risk-off event; cross-asset behavior does not show synchronized defensive positioning.",
+    "Verified normalization of Hormuz throughput, lower freight/insurance premia, improved refinery availability and a material reversal in U.S. diesel would weaken the product-squeeze thesis."
+  ],
+  "limitations": [
+    "Brent, dollar and Treasury levels are time-sensitive and may reprice after publication.",
+    "U.S. retail diesel is a direct U.S. series and should not be treated as a proxy for global refined-product prices.",
+    "The report identifies a transmission mechanism, not a claim that all economies or sectors experience the energy shock uniformly."
+  ],
+  "notes": "Revision 1 resolves the sole blocker from the 2026-09-28 rejection by removing the unsupported/imprecise Brazil-specific section in both locales. Immediate public-state recheck found no canonical bundle for MT-GM-2026-09-28. Approval is bound to the exact current pending and EN/PT-BR blobs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-28",
+    "slug": "2026-09-28-global-macro",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T00:04:29-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-28-global-macro/en.md",
+        "title": "Global Macro — Diesel, not crude, is becoming the sharper inflation transmission channel",
+        "deck": "Refined-product inflation is outrunning the crude headline, widening the transmission from Hormuz into freight, prices and monetary policy as Australia approaches another rate decision.",
+        "tags": [
+          "global macro",
+          "diesel",
+          "refining",
+          "Hormuz",
+          "RBA",
+          "Treasuries",
+          "dollar"
+        ],
+        "keywords": [
+          "diesel prices",
+          "refining capacity",
+          "Brent",
+          "Strait of Hormuz",
+          "Reserve Bank of Australia",
+          "Treasury yields",
+          "energy inflation"
+        ],
+        "regime": "Selective tightening with downstream energy stress: refined-product constraints are broadening inflation transmission while long yields and the dollar remain restrictive.",
+        "key_risk": "A persistent diesel and middle-distillate squeeze could embed transport and distribution inflation even if crude prices stabilise, prolonging monetary tightening across exposed economies.",
+        "watch": [
+          "U.S. diesel prices and middle-distillate inventories",
+          "Verified Hormuz throughput, freight and insurance conditions",
+          "RBA decision and guidance on 29 September",
+          "U.S. 10-year Treasury yield and dollar response to oil"
+        ],
+        "search_text": "Global Macro September 28 2026 diesel refining capacity Brent Hormuz RBA Treasury dollar inflation"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-28-global-macro/pt-BR.md",
+        "title": "Global Macro — Diesel, e não o petróleo bruto, torna-se o canal mais agudo de transmissão da inflação",
+        "deck": "A inflação dos derivados supera a manchete do petróleo bruto, ampliando a transmissão de Ormuz para frete, preços e política monetária enquanto a Austrália se aproxima de nova decisão de juros.",
+        "tags": [
+          "macro global",
+          "diesel",
+          "refino",
+          "Ormuz",
+          "RBA",
+          "Treasuries",
+          "dólar"
+        ],
+        "keywords": [
+          "preço do diesel",
+          "capacidade de refino",
+          "Brent",
+          "Estreito de Ormuz",
+          "Reserve Bank of Australia",
+          "juros dos Treasuries",
+          "inflação de energia"
+        ],
+        "regime": "Aperto seletivo com pressão energética a jusante: restrições em derivados ampliam a transmissão inflacionária enquanto juros longos e dólar permanecem restritivos.",
+        "key_risk": "Uma compressão persistente em diesel e destilados médios pode incorporar inflação de transporte e distribuição mesmo se o petróleo bruto estabilizar, prolongando o aperto monetário em economias expostas.",
+        "watch": [
+          "Preços do diesel e estoques de destilados médios nos EUA",
+          "Fluxo verificado por Ormuz, frete e condições de seguro",
+          "Decisão e orientação do RBA em 29 de setembro",
+          "Resposta do Treasury de 10 anos e do dólar ao petróleo"
+        ],
+        "search_text": "Global Macro 28 setembro 2026 diesel capacidade refino Brent Ormuz RBA Treasury dólar inflação"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "oceania",
+        "gulf"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "revision_reason": "QA rework: remove the Brazil-specific paragraph whose current diesel/flow claims lacked source-level traceability and contained imprecise diesel-price wording.",
+    "supersedes_rejected_commit": "383a18995f369a57ab2f3e5c81a46bccf84ec0dd",
+    "qa_fixes_applied": [
+      "Removed the non-essential Brazil-specific section from both EN and PT-BR.",
+      "Eliminated unsupported current claims about September foreign inflows and the election from this edition.",
+      "Eliminated the imprecise implication that the Petrobras distributor-price increase translated directly into a broad domestic diesel-price increase after the offsetting subsidy.",
+      "Preserved the central refined-products thesis, source set, visual signature and EN/PT-BR semantic parity."
+    ]
+  }
+}
