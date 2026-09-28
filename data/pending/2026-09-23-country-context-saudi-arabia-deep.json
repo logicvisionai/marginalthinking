@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-09-23-saudi-arabia-deep",
+  "slug": "2026-09-23-country-context-saudi-arabia-deep",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:00:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md",
+      "title": "Saudi Arabia: from dynastic-rentier state to investment state — oil power, sovereign capital and the limits of diversification",
+      "deck": "Saudi Arabia is converting hydrocarbon rents into sovereign investment, industrial policy and new productive ecosystems; the central test is whether non-oil exports, private capital, productivity and portfolio returns can deepen as the state becomes more selective in allocating capital.",
+      "tags": [
+        "Saudi Arabia",
+        "Vision 2030",
+        "Aramco",
+        "PIF",
+        "oil",
+        "industrial policy",
+        "labor market",
+        "mining",
+        "tourism",
+        "Gulf security"
+      ],
+      "keywords": [
+        "Saudi Arabia political economy",
+        "Saudi Arabia Vision 2030",
+        "Saudi Arabia PIF",
+        "Saudi Aramco",
+        "Saudi diversification",
+        "Saudi non-oil exports",
+        "Saudi labor market",
+        "Saudi mining",
+        "Saudi tourism",
+        "Saudi foreign policy"
+      ],
+      "regime": "Investment-state transition: hydrocarbon rents still anchor fiscal and external power while sovereign capital, industrial policy and labor-market reform seek to create self-sustaining non-oil productive ecosystems.",
+      "key_risk": "Non-oil activity may remain more diversified in sectors than in its underlying source of finance if private capital, productivity, exports and operating returns do not grow fast enough to replace marginal state-led demand.",
+      "watch": [
+        "National non-oil exports excluding re-exports",
+        "Private fixed investment and realized FDI",
+        "PIF returns, asset realization and private co-investment",
+        "Non-oil primary fiscal balance and public debt",
+        "Saudi private-sector wages and productivity",
+        "Operating utilization of giga-project assets",
+        "Aramco oil and gas production, dividends and capex",
+        "Mining, defense and renewable capacity converted into operating output",
+        "Hormuz and Red Sea logistics resilience"
+      ],
+      "search_text": "Saudi Arabia deep country dossier political economy Vision 2030 PIF Aramco oil investment state diversification non-oil exports labor mining tourism defense water energy geopolitics 2026"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-23-country-context-saudi-arabia-deep/pt-BR.md",
+      "title": "Arábia Saudita: de Estado dinástico-rentista a Estado investidor — poder petrolífero, capital soberano e os limites da diversificação",
+      "deck": "A Arábia Saudita converte renda de hidrocarbonetos em investimento soberano, política industrial e novos ecossistemas produtivos; o teste central é se exportações não petrolíferas, capital privado, produtividade e retornos de portfólio se aprofundam à medida que o Estado se torna mais seletivo na alocação de capital.",
+      "tags": [
+        "Arábia Saudita",
+        "Visão 2030",
+        "Aramco",
+        "PIF",
+        "petróleo",
+        "política industrial",
+        "mercado de trabalho",
+        "mineração",
+        "turismo",
+        "segurança do Golfo"
+      ],
+      "keywords": [
+        "economia política Arábia Saudita",
+        "Arábia Saudita Visão 2030",
+        "Arábia Saudita PIF",
+        "Saudi Aramco",
+        "diversificação saudita",
+        "exportações não petrolíferas sauditas",
+        "mercado de trabalho saudita",
+        "mineração Arábia Saudita",
+        "turismo Arábia Saudita",
+        "política externa saudita"
+      ],
+      "regime": "Transição para Estado investidor: rendas de hidrocarbonetos ainda ancoram poder fiscal e externo enquanto capital soberano, política industrial e reforma trabalhista buscam criar ecossistemas produtivos não petrolíferos autossustentáveis.",
+      "key_risk": "A atividade não petrolífera pode permanecer mais diversificada em setores que em sua fonte de financiamento se capital privado, produtividade, exportações e retornos operacionais não crescerem rápido o suficiente para substituir a demanda marginal liderada pelo Estado.",
+      "watch": [
+        "Exportações nacionais não petrolíferas excluindo reexportações",
+        "Investimento privado fixo e IED realizado",
+        "Retornos do PIF, realização de ativos e coinvestimento privado",
+        "Saldo fiscal primário não petrolífero e dívida pública",
+        "Salários e produtividade saudita no setor privado",
+        "Utilização operacional dos ativos de megaprojetos",
+        "Produção de petróleo e gás, dividendos e capex da Aramco",
+        "Capacidade de mineração, defesa e renováveis convertida em produção operacional",
+        "Resiliência logística em Ormuz e Mar Vermelho"
+      ],
+      "search_text": "Arábia Saudita dossiê profundo economia política Visão 2030 PIF Aramco petróleo Estado investidor diversificação exportações não petrolíferas trabalho mineração turismo defesa água energia geopolítica 2026"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "middle-east"
+    ],
+    "subregions": [
+      "gulf"
+    ],
+    "countries": [
+      {
+        "code": "SA",
+        "slug": "saudi-arabia"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "banking-credit",
+    "currencies",
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change",
+    "climate-environment"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "defense-security",
+    "war-armed-conflict",
+    "institutional-change",
+    "social-change",
+    "demographic-transition",
+    "political-stability"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "revision": 3,
+  "revision_reason": "Deep structural revision to bring the existing Saudi Arabia country dossier to the current Marginal Thinking depth standard. The revision expands historical state formation, political institutions, state-religion relations, fiscal and monetary architecture, PIF and banking transmission, oil/gas/renewables/water, mining, defense localization, tourism, labor and migration, rights-source discipline, and current foreign relations. It also updates the evidence cutoff to 2026-09-28 and replaces the previous categorical BRICS-membership statement with an explicit account of conflicting 2026 evidence.",
+  "qa_fixes_applied": [
+    "Expanded both locales from roughly 2.4k words to more than 8k substantive words while preserving argument continuity.",
+    "Added explicit source-classification and evidence-discipline rules for official, multilateral, academic and rights-monitoring sources.",
+    "Separated non-oil GDP, national non-oil exports, re-exports, services exports and state-created demand.",
+    "Added PIF capital-efficiency and private-sector crowding-in tests rather than treating sovereign spending as proof of diversification.",
+    "Added fiscal, banking, currency-peg, water, gas, renewable-energy, mining, defense-industry and human-capital mechanisms.",
+    "Expanded historical treatment across the first, second and modern Saudi states and avoided reducing state formation to a single religious explanation.",
+    "Added concrete treatment of political institutions, succession and state-religion reconfiguration without electoral or ideological judgment.",
+    "Added neutral treatment of social reform, migrant labor and rights claims with government and external evidence kept distinct.",
+    "Updated 2026 foreign-relations analysis for the United States, China, Iran, Russia, GCC and Israel/Palestine.",
+    "Corrected BRICS treatment: official BRICS 2026 material lists Saudi Arabia as a member while other current reporting says formal accession remains incomplete; the revision preserves the ambiguity rather than asserting a definitive geopolitical alignment.",
+    "Added a contradiction ledger, conditional scenarios, falsifiers and a significantly expanded indicator set.",
+    "Maintained EN/PT-BR semantic and visual parity."
+  ],
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CC-2026-09-18-saudi-arabia"
+  ],
+  "assessment_confidence": "medium-high",
+  "selection_rationale": "The existing public Saudi Arabia country dossier is materially shallower than the current country-context standard. Saudi Arabia's transition from hydrocarbon rent distribution toward sovereign-capital-led investment now affects fiscal policy, industrial structure, labor markets, technology, defense localization, mining, tourism, logistics, water and external relations. A revision of the canonical dossier is preferable to creating a competing country page.",
+  "contrary_evidence": [
+    "Non-oil output, tourism, labor-market participation and new sectors have expanded materially, arguing against a claim that diversification is merely cosmetic.",
+    "Petroleum still dominates merchandise exports and hydrocarbon cash flow remains central to fiscal buffers and sovereign investment, arguing against a claim that oil dependence has already been structurally displaced.",
+    "PIF scale and project completion demonstrate investment capacity but do not by themselves establish additionality, operating utilization or risk-adjusted returns.",
+    "Formal social and labor reforms are observable, while external rights organizations document continuing restrictions and implementation gaps; neither source class is treated as a complete description of Saudi society.",
+    "Saudi Arabia has deepened relations with China, Russia and Iran while retaining the United States as its primary security partner, weakening simple bloc-alignment narratives."
+  ],
+  "limitations": [
+    "Many giga-project and industrial assets remain in build-out, so long-run utilization and private returns cannot yet be observed.",
+    "Official mineral-wealth estimates describe resources and economic potential rather than proven commercially recoverable reserves.",
+    "Renewable project pipelines are not equivalent to installed and operating grid capacity.",
+    "Political and rights analysis relies on different source classes with different access and incentives; claims are kept attributed.",
+    "The 2026 regional security environment is unusually volatile and current oil, shipping and diplomatic conditions require later revalidation."
+  ]
+}
