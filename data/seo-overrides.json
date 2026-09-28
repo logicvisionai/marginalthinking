@@ -81,6 +81,16 @@
         "title": "Mercados de Energia e Geopolítica | Marginal Thinking",
         "description": "Pesquisas sobre petróleo, gás, eletricidade, segurança energética, infraestrutura, preços e transmissão geopolítica de choques de energia."
       }
+    },
+    "/resource-control/": {
+      "en": {
+        "title": "Global Resource Control Atlas | Ownership, Rights & Capacity",
+        "description": "Map control of critical resources and capabilities across reserves, production, logistics and technology, separating ownership, operating rights and effective control."
+      },
+      "pt-BR": {
+        "title": "Atlas Global de Controle de Recursos | Direitos e Capacidade",
+        "description": "Mapeie o controle de recursos e capacidades críticas em reservas, produção, logística e tecnologia, separando propriedade, direitos operacionais e controle efetivo."
+      }
     }
   },
   "reports": {
@@ -172,6 +182,36 @@
       "pt-BR": {
         "title": "Petróleo Abaixo de US$100, IA e Juros Longos | 23 set. 2026",
         "description": "Petróleo abaixo de US$100 reduziu o risco inflacionário, mas Treasury alto, dólar firme, gás europeu e normalização incompleta do Golfo mantiveram aperto."
+      }
+    },
+    "MT-GM-2026-09-24": {
+      "en": {
+        "title": "U.S. Growth Pushes 10Y Treasury Above 5.1% | Sep 24, 2026",
+        "description": "Strong U.S. activity and a weak Treasury auction pushed the 10-year yield above 5.1%, transmitting pressure to Japanese bonds as oil risk rebounded."
+      },
+      "pt-BR": {
+        "title": "Crescimento dos EUA e Treasury Acima de 5,1% | 24 set. 2026",
+        "description": "Atividade forte nos EUA e leilão fraco de Treasuries levaram o juro de 10 anos acima de 5,1%, transmitindo pressão ao Japão enquanto o risco do petróleo voltou."
+      }
+    },
+    "MT-GM-2026-09-25": {
+      "en": {
+        "title": "Stocks Resist 5% Treasury Yields as EM FX Weakens | Sep 25",
+        "description": "Global equities held up despite the bond selloff, while Treasury yields stayed near 5% and stress concentrated in emerging-market currencies and housing."
+      },
+      "pt-BR": {
+        "title": "Ações Resistentes, Treasury a 5% e Câmbio EM | 25 set. 2026",
+        "description": "Bolsas globais resistiram à venda de títulos enquanto os Treasuries ficaram perto de 5% e a pressão se concentrou no câmbio emergente e no mercado imobiliário."
+      }
+    },
+    "MT-CC-2026-09-23-uae": {
+      "en": {
+        "title": "UAE Economy: Oil, Sovereign Wealth, Dubai & Logistics | 2026",
+        "description": "A country dossier on the UAE economy: Abu Dhabi and Dubai, hydrocarbon rents, sovereign wealth, trade, aviation, logistics, migration and diversification."
+      },
+      "pt-BR": {
+        "title": "Economia dos EAU: Petróleo, Fundos Soberanos e Dubai | 2026",
+        "description": "Dossiê sobre a economia dos EAU: Abu Dhabi e Dubai, petróleo, fundos soberanos, comércio, aviação, logística, migração e diversificação."
       }
     }
   }
