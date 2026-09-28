@@ -85,11 +85,11 @@
     "/resource-control/": {
       "en": {
         "title": "Global Resource Control Atlas | Ownership, Rights & Capacity",
-        "description": "Map control of critical resources and capabilities across reserves, production, logistics and technology, separating ownership, operating rights and effective control."
+        "description": "Map control of critical resources across reserves, production, logistics and technology, separating ownership, operating rights and effective control."
       },
       "pt-BR": {
         "title": "Atlas Global de Controle de Recursos | Direitos e Capacidade",
-        "description": "Mapeie o controle de recursos e capacidades críticas em reservas, produção, logística e tecnologia, separando propriedade, direitos operacionais e controle efetivo."
+        "description": "Mapeie o controle de recursos críticos em reservas, produção, logística e tecnologia, separando propriedade, direitos operacionais e controle efetivo."
       }
     }
   },
@@ -191,7 +191,7 @@
       },
       "pt-BR": {
         "title": "Crescimento dos EUA e Treasury Acima de 5,1% | 24 set. 2026",
-        "description": "Atividade forte nos EUA e leilão fraco de Treasuries levaram o juro de 10 anos acima de 5,1%, transmitindo pressão ao Japão enquanto o risco do petróleo voltou."
+        "description": "Atividade forte nos EUA e leilão fraco de Treasuries levaram o juro de 10 anos acima de 5,1%, pressionando títulos japoneses com a volta do risco do petróleo."
       }
     },
     "MT-GM-2026-09-25": {
@@ -201,7 +201,7 @@
       },
       "pt-BR": {
         "title": "Ações Resistentes, Treasury a 5% e Câmbio EM | 25 set. 2026",
-        "description": "Bolsas globais resistiram à venda de títulos enquanto os Treasuries ficaram perto de 5% e a pressão se concentrou no câmbio emergente e no mercado imobiliário."
+        "description": "Bolsas globais resistiram à venda de títulos, com Treasuries perto de 5% e pressão concentrada no câmbio emergente e no mercado imobiliário."
       }
     },
     "MT-CC-2026-09-23-uae": {
