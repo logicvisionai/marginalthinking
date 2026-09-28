@@ -111,5 +111,14 @@
     "war-armed-conflict"
   ],
   "format": "brief",
-  "cadence": "daily"
+  "cadence": "daily",
+  "revision": 1,
+  "revision_reason": "QA rework: remove the Brazil-specific paragraph whose current diesel/flow claims lacked source-level traceability and contained imprecise diesel-price wording.",
+  "supersedes_rejected_commit": "383a18995f369a57ab2f3e5c81a46bccf84ec0dd",
+  "qa_fixes_applied": [
+    "Removed the non-essential Brazil-specific section from both EN and PT-BR.",
+    "Eliminated unsupported current claims about September foreign inflows and the election from this edition.",
+    "Eliminated the imprecise implication that the Petrobras distributor-price increase translated directly into a broad domestic diesel-price increase after the offsetting subsidy.",
+    "Preserved the central refined-products thesis, source set, visual signature and EN/PT-BR semantic parity."
+  ]
 }

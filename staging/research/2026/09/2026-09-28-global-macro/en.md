@@ -62,12 +62,6 @@ That is not a generalized emerging-market crisis. Recent Asian FX performance ha
 
 Gold's weekly weakness despite geopolitical risk is another expression of the same mechanism. Higher real and nominal yields and a firmer dollar can outweigh safe-haven demand. The absence of uniform risk-off trading remains consistent with selective rather than synchronized tightening.
 
-## Brazil receives the shock through fuel, rates and sector composition
-
-Brazil is not the centre of today's signal, but the refined-product channel matters. Domestic diesel prices had already risen in September, while the local market remains sensitive to global yields, oil and the approaching first-round election. Recent Ibovespa resilience and September foreign inflows are contrary evidence against describing broad capital flight.
-
-Transmission is mixed. Higher oil can support producer cash flow while raising transport and inflation costs elsewhere. A strong dollar and high U.S. yields can tighten external conditions, while the Selic path depends on domestic inflation expectations and activity. Sector composition is therefore more informative than the headline equity index.
-
 ## Market dislocations and second-order effects
 
 The first dislocation is between crude and delivered fuel. Temporary crude relief can coexist with expensive diesel because refinery capacity, inventories, freight and regional specifications constrain substitution. If the gap persists, inflation-sensitive sectors can remain under pressure after the crude headline improves.

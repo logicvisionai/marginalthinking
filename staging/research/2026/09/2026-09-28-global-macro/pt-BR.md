@@ -62,12 +62,6 @@ Isso não equivale a uma crise generalizada de mercados emergentes. O desempenho
 
 A fraqueza semanal do ouro apesar do risco geopolítico é outra expressão do mesmo mecanismo. Juros reais e nominais mais altos e dólar mais forte podem superar a demanda por proteção. A ausência de aversão uniforme ao risco continua compatível com aperto seletivo, e não sincronizado.
 
-## Brasil recebe o choque por combustíveis, juros e composição setorial
-
-O Brasil não é o centro do sinal de hoje, mas o canal dos derivados importa. Os preços domésticos do diesel já haviam subido em setembro, enquanto o mercado local permanece sensível aos juros globais, ao petróleo e à proximidade do primeiro turno da eleição. A resiliência recente do Ibovespa e os ingressos estrangeiros em setembro são evidência contrária à descrição de fuga ampla de capital.
-
-A transmissão é mista. Petróleo mais caro pode sustentar o fluxo de caixa de produtores ao mesmo tempo que eleva custos de transporte e inflação em outros setores. Dólar forte e juros altos nos Estados Unidos podem apertar as condições externas, enquanto a trajetória da Selic depende das expectativas domésticas de inflação e da atividade. A composição setorial informa mais do que o índice acionário agregado.
-
 ## Distorções de mercado e efeitos de segunda ordem
 
 A primeira distorção está entre petróleo bruto e combustível entregue. Alívio temporário no barril pode coexistir com diesel caro porque capacidade de refino, estoques, frete e especificações regionais restringem a substituição. Se essa diferença persistir, setores sensíveis à inflação podem continuar pressionados depois que a manchete sobre o petróleo melhorar.
