@@ -1,5 +1,75 @@
 [
   {
+    "id": "MT-WF-2026-09-28",
+    "slug": "2026-09-28-global-wealth-flow-weekly",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T07:05:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit",
+      "trade-investment"
+    ],
+    "phenomena": [],
+    "format": "monitor",
+    "cadence": "weekly",
+    "title": "Global Wealth Flow Monitor — 28 September 2026",
+    "deck": "Capital is rotating across investment vehicles rather than following a single risk regime: mutual-fund redemptions coexisted with ETF issuance, money-market assets stayed near $8 trillion, and foreign demand for euro-area securities remained strong.",
+    "tags": [
+      "global capital flows",
+      "ETFs",
+      "mutual funds",
+      "money market funds",
+      "euro area",
+      "portfolio flows",
+      "foreign reserves"
+    ],
+    "keywords": [
+      "ETF net issuance",
+      "mutual fund flows",
+      "money market fund assets",
+      "euro area portfolio investment",
+      "cross-border capital",
+      "foreign exchange reserves",
+      "capital allocation"
+    ],
+    "regime": "Liquidity preservation with vehicle substitution: investors are changing wrappers and geographic exposure while maintaining large cash-like balances.",
+    "key_risk": "A prolonged split between liquid wrappers and long-duration financing could increase the gap between market liquidity and productive capital formation.",
+    "watch": [
+      "ICI weekly mutual-fund and ETF flows",
+      "U.S. money-market fund assets",
+      "next euro-area balance-of-payments release",
+      "August TIC release on 16 October",
+      "China reserve decomposition between transactions and valuation"
+    ],
+    "search_text": "Global Wealth Flow Monitor September 28 2026 ETF mutual fund money market euro area portfolio flows China reserves capital allocation",
+    "url": "/reports/2026/09/2026-09-28-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-28-global-wealth-flow-weekly/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-28T08:02:31-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "4ca6c7a3d319086693b000df19417c96d8e14322"
+  },
+  {
     "id": "MT-CC-2026-09-27-france",
     "slug": "2026-09-27-country-context-france",
     "date": "2026-09-27",
@@ -5344,79 +5414,6 @@
     "qa_reviewed_commit": "1eb29145f1e88896d11b9d0eeb2895b9d9223dd6"
   },
   {
-    "id": "MT-WF-2026-09-16",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:19:27-03:00",
-    "kind": "weekly-wealth-flow",
-    "priority": 20,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
-      "technology-innovation",
-      "infrastructure-logistics",
-      "currencies",
-      "sovereign-debt",
-      "banking-credit"
-    ],
-    "format": "monitor",
-    "cadence": "weekly",
-    "source_locale": "en",
-    "title": "Global Wealth Flow Monitor — 16 September 2026",
-    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
-    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
-    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
-    "tags": [
-      "global capital flows",
-      "official reserves",
-      "gold",
-      "critical minerals",
-      "AI infrastructure"
-    ],
-    "keywords": [
-      "TIC",
-      "COFER",
-      "BIS",
-      "FDI",
-      "gold",
-      "oil",
-      "data centres",
-      "critical minerals"
-    ],
-    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
-    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
-    "watch": [
-      "July TIC release and revisions",
-      "2026Q2 COFER",
-      "central-bank gold purchases",
-      "cross-border bank credit",
-      "Brent and Hormuz flows",
-      "electricity demand and data-centre interconnections",
-      "critical-mineral refining projects"
-    ],
-    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
-    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
-    "qa_confidence": "medium",
-    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
-  },
-  {
     "id": "MT-ST-2026-09-16-kazakhstan-corridor",
     "date": "2026-09-16",
     "published_at": "2026-09-16T12:19:27-03:00",
@@ -5499,6 +5496,79 @@
     "qa_reviewed_at": "2026-09-16T12:35:29-03:00",
     "qa_confidence": "medium",
     "qa_reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61"
+  },
+  {
+    "id": "MT-WF-2026-09-16",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit"
+    ],
+    "format": "monitor",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "title": "Global Wealth Flow Monitor — 16 September 2026",
+    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
+    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
+    "tags": [
+      "global capital flows",
+      "official reserves",
+      "gold",
+      "critical minerals",
+      "AI infrastructure"
+    ],
+    "keywords": [
+      "TIC",
+      "COFER",
+      "BIS",
+      "FDI",
+      "gold",
+      "oil",
+      "data centres",
+      "critical minerals"
+    ],
+    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
+    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
+    "watch": [
+      "July TIC release and revisions",
+      "2026Q2 COFER",
+      "central-bank gold purchases",
+      "cross-border bank credit",
+      "Brent and Hormuz flows",
+      "electricity demand and data-centre interconnections",
+      "critical-mineral refining projects"
+    ],
+    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
+    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
   },
   {
     "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",

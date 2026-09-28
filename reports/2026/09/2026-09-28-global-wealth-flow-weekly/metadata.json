@@ -1,0 +1,107 @@
+{
+  "id": "MT-WF-2026-09-28",
+  "slug": "2026-09-28-global-wealth-flow-weekly",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T07:05:00-03:00",
+  "kind": "weekly-wealth-flow",
+  "priority": 20,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "currencies",
+    "sovereign-debt",
+    "banking-credit",
+    "trade-investment"
+  ],
+  "phenomena": [],
+  "format": "monitor",
+  "cadence": "weekly",
+  "url": "/reports/2026/09/2026-09-28-global-wealth-flow-weekly.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-28T08:02:31-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "4ca6c7a3d319086693b000df19417c96d8e14322",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth Flow Monitor — 28 September 2026",
+      "deck": "Capital is rotating across investment vehicles rather than following a single risk regime: mutual-fund redemptions coexisted with ETF issuance, money-market assets stayed near $8 trillion, and foreign demand for euro-area securities remained strong.",
+      "tags": [
+        "global capital flows",
+        "ETFs",
+        "mutual funds",
+        "money market funds",
+        "euro area",
+        "portfolio flows",
+        "foreign reserves"
+      ],
+      "keywords": [
+        "ETF net issuance",
+        "mutual fund flows",
+        "money market fund assets",
+        "euro area portfolio investment",
+        "cross-border capital",
+        "foreign exchange reserves",
+        "capital allocation"
+      ],
+      "regime": "Liquidity preservation with vehicle substitution: investors are changing wrappers and geographic exposure while maintaining large cash-like balances.",
+      "key_risk": "A prolonged split between liquid wrappers and long-duration financing could increase the gap between market liquidity and productive capital formation.",
+      "watch": [
+        "ICI weekly mutual-fund and ETF flows",
+        "U.S. money-market fund assets",
+        "next euro-area balance-of-payments release",
+        "August TIC release on 16 October",
+        "China reserve decomposition between transactions and valuation"
+      ],
+      "search_text": "Global Wealth Flow Monitor September 28 2026 ETF mutual fund money market euro area portfolio flows China reserves capital allocation"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Wealth Flow Monitor — 28 de setembro de 2026",
+      "deck": "O capital está rotacionando entre veículos de investimento, e não seguindo um único regime de risco: resgates de fundos mútuos coexistiram com emissão de ETFs, fundos monetários seguiram perto de US$ 8 trilhões e a demanda estrangeira por títulos da área do euro permaneceu forte.",
+      "tags": [
+        "fluxos globais de capital",
+        "ETFs",
+        "fundos mútuos",
+        "fundos de mercado monetário",
+        "área do euro",
+        "fluxos de portfólio",
+        "reservas cambiais"
+      ],
+      "keywords": [
+        "emissão líquida de ETFs",
+        "fluxos de fundos mútuos",
+        "ativos de fundos monetários",
+        "investimento de portfólio na área do euro",
+        "capital transfronteiriço",
+        "reservas cambiais",
+        "alocação de capital"
+      ],
+      "regime": "Preservação de liquidez com substituição de veículo: investidores mudam estruturas e exposição geográfica enquanto mantêm grandes saldos semelhantes a caixa.",
+      "key_risk": "Uma divisão persistente entre veículos líquidos e financiamento de longa duração pode ampliar a distância entre liquidez de mercado e formação de capital produtivo.",
+      "watch": [
+        "fluxos semanais de fundos mútuos e ETFs do ICI",
+        "ativos de fundos de mercado monetário dos EUA",
+        "próxima divulgação do balanço de pagamentos da área do euro",
+        "TIC de agosto em 16 de outubro",
+        "decomposição das reservas chinesas entre transações e valorização"
+      ],
+      "search_text": "Global Wealth Flow Monitor 28 setembro 2026 ETF fundos mútuos mercado monetário área do euro fluxos portfólio reservas China alocação capital"
+    }
+  }
+}
