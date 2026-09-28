@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-28",
+  "slug": "2026-09-28-global-macro",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T00:04:29-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-28-global-macro/en.md",
+      "title": "Global Macro — Diesel, not crude, is becoming the sharper inflation transmission channel",
+      "deck": "Refined-product inflation is outrunning the crude headline, widening the transmission from Hormuz into freight, prices and monetary policy as Australia approaches another rate decision.",
+      "tags": [
+        "global macro",
+        "diesel",
+        "refining",
+        "Hormuz",
+        "RBA",
+        "Treasuries",
+        "dollar"
+      ],
+      "keywords": [
+        "diesel prices",
+        "refining capacity",
+        "Brent",
+        "Strait of Hormuz",
+        "Reserve Bank of Australia",
+        "Treasury yields",
+        "energy inflation"
+      ],
+      "regime": "Selective tightening with downstream energy stress: refined-product constraints are broadening inflation transmission while long yields and the dollar remain restrictive.",
+      "key_risk": "A persistent diesel and middle-distillate squeeze could embed transport and distribution inflation even if crude prices stabilise, prolonging monetary tightening across exposed economies.",
+      "watch": [
+        "U.S. diesel prices and middle-distillate inventories",
+        "Verified Hormuz throughput, freight and insurance conditions",
+        "RBA decision and guidance on 29 September",
+        "U.S. 10-year Treasury yield and dollar response to oil"
+      ],
+      "search_text": "Global Macro September 28 2026 diesel refining capacity Brent Hormuz RBA Treasury dollar inflation"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-28-global-macro/pt-BR.md",
+      "title": "Global Macro — Diesel, e não o petróleo bruto, torna-se o canal mais agudo de transmissão da inflação",
+      "deck": "A inflação dos derivados supera a manchete do petróleo bruto, ampliando a transmissão de Ormuz para frete, preços e política monetária enquanto a Austrália se aproxima de nova decisão de juros.",
+      "tags": [
+        "macro global",
+        "diesel",
+        "refino",
+        "Ormuz",
+        "RBA",
+        "Treasuries",
+        "dólar"
+      ],
+      "keywords": [
+        "preço do diesel",
+        "capacidade de refino",
+        "Brent",
+        "Estreito de Ormuz",
+        "Reserve Bank of Australia",
+        "juros dos Treasuries",
+        "inflação de energia"
+      ],
+      "regime": "Aperto seletivo com pressão energética a jusante: restrições em derivados ampliam a transmissão inflacionária enquanto juros longos e dólar permanecem restritivos.",
+      "key_risk": "Uma compressão persistente em diesel e destilados médios pode incorporar inflação de transporte e distribuição mesmo se o petróleo bruto estabilizar, prolongando o aperto monetário em economias expostas.",
+      "watch": [
+        "Preços do diesel e estoques de destilados médios nos EUA",
+        "Fluxo verificado por Ormuz, frete e condições de seguro",
+        "Decisão e orientação do RBA em 29 de setembro",
+        "Resposta do Treasury de 10 anos e do dólar ao petróleo"
+      ],
+      "search_text": "Global Macro 28 setembro 2026 diesel capacidade refino Brent Ormuz RBA Treasury dólar inflação"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "oceania",
+      "gulf"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "energy",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily"
+}
