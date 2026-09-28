@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-28T08:07:28-03:00",
+  "last_reconciled_at": "2026-09-28T20:54:42-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -1583,6 +1583,97 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "The report does not establish a technology capability-stage delta under the technology-signal contract."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-hong-kong-publication",
+      "reconciled_at": "2026-09-28T20:54:42-03:00",
+      "report_ids_reviewed": [
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "Hong Kong's Connect channels and Mainland/global intermediation reinforce existing cross-border capital-interface mechanisms but do not establish a new canonical dependency topology requiring dataset mutation."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The report is a jurisdictional transition assessment and does not establish a new canonical actor-specific structural-opportunity state."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "HKMA, HKEX, HKSAR institutions and Mainland interfaces are material to the report, but no new durable control or capability relation requires mutation of the canonical Strategic Actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The report does not establish a durable change in ownership or control of natural resources, physical production, intermediation capacity or strategic material reserves."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The Hong Kong assessment is a strategic transition study rather than a retrospective implemented policy case requiring atlas materialization."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Strategic competition, sanctions exposure and institutional-security changes are assessed, but the report does not establish a new armed-conflict system or durable conflict topology requiring canonical dataset change."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Northern Metropolis, AI and data infrastructure are contextual mechanisms rather than a standalone technology capability signal or maturity-state change."
         }
       ]
     }
