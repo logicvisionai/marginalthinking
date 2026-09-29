@@ -16,6 +16,14 @@ Os resultados finais das eleições parlamentares de 2025 foram homologados em d
 
 A questão institucional deixou de ser apenas a capacidade de realizar eleições e formar governos de coalizão. O desafio é transformar a formação de coalizões em regras duráveis para orçamento, hidrocarbonetos, transferências entre governo federal e regiões, execução de infraestrutura e organização da autoridade armada.
 
+| Data | Mudança institucional | Significado estrutural |
+|---|---|---|
+| 14 de dezembro de 2025 | Homologação dos resultados finais das eleições parlamentares | Abriu a sequência constitucional para a sexta legislatura |
+| 31 de dezembro de 2025 | Encerramento do mandato da UNAMI | Deslocou o engajamento da ONU da missão política especial para a Equipe de País e o marco de desenvolvimento |
+| 17 de março de 2026 | Arranjo federal-KRG para exportações de petróleo anunciado pelo KRG | Criou nova base operacional para exportações pelo norte e transferência de receita ao Tesouro federal |
+| 14 de maio de 2026 | Parlamento concedeu confiança ao governo de Ali Falih al-Zaidi | Estabeleceu o atual Executivo federal após a formação da coalizão pós-eleitoral |
+| Setembro de 2026 | A segunda fase da transição militar da coalizão chegou ao término previsto | Aumentou o peso relativo da cooperação bilateral de segurança e da coordenação de comando iraquiana |
+
 ## O petróleo financia o Estado e domina as contas externas
 
 A U.S. Energy Information Administration classifica o Iraque como o segundo maior produtor de petróleo bruto da OPEP depois da Arábia Saudita e estima reservas comprovadas de aproximadamente 145 bilhões de barris. A produção e a infraestrutura de exportação estão fortemente concentradas no sul, ao redor de Basra, enquanto a produção do norte conecta campos federais, a Região do Curdistão e o corredor de exportação em direção à Türkiye.

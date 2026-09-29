@@ -16,6 +16,14 @@ The final results of the 2025 parliamentary election were certified in December 
 
 The institutional question is no longer whether Iraq can hold elections and form coalition governments. It is whether coalition formation can produce durable rules for budgeting, hydrocarbons, federal-regional transfers, infrastructure execution and the organization of armed authority.
 
+| Date | Institutional change | Structural significance |
+|---|---|---|
+| 14 December 2025 | Final parliamentary-election results certified | Opened the constitutional sequence for the sixth parliamentary term |
+| 31 December 2025 | UNAMI mandate ended | Shifted UN engagement from a special political mission to the Country Team and development framework |
+| 17 March 2026 | Federal-KRG oil-export arrangement announced by the KRG | Created a new operational basis for northern exports and federal-treasury revenue transfer |
+| 14 May 2026 | Parliament granted confidence to the Ali Falih al-Zaidi government | Established the current federal executive after post-election coalition formation |
+| September 2026 | Second phase of the coalition military transition reached its scheduled endpoint | Increased the relative weight of bilateral security cooperation and Iraqi command coordination |
+
 ## Oil finances the state and dominates the external account
 
 The U.S. Energy Information Administration classifies Iraq as the second-largest crude producer in OPEC after Saudi Arabia and estimates proved crude reserves at about 145 billion barrels. Production and export infrastructure are concentrated heavily in the south around Basra, while northern production links federal fields, the Kurdistan Region and the export corridor toward Türkiye.
