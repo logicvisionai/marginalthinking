@@ -108,5 +108,15 @@
   "phenomena": [],
   "format": "brief",
   "cadence": "daily",
-  "revision": 0
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-09-29T16:34:00-03:00",
+    "primary_sources": [
+      "Reserve Bank of Australia",
+      "People's Bank of China"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 Markdown table + 1 explicit basis-point bar chart + 1 causal flow per locale",
+    "novelty_against_previous_daily": "checked against 2026-09-28; lead thesis changed from refined-product inflation transmission to Asia-Pacific policy divergence"
+  }
 }
