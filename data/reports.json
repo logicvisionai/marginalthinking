@@ -79,6 +79,111 @@
     "qa_reviewed_commit": "94dcf187582b39a0b0d8af7110513fe17da4302d"
   },
   {
+    "id": "MT-ST-2026-09-29-iraq-2026-state-capacity",
+    "slug": "2026-09-29-strategic-transition-iraq-2026-state-capacity",
+    "date": "2026-09-29",
+    "published_at": "2026-09-29T17:36:00-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "IQ",
+          "slug": "iraq"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security",
+      "political-stability",
+      "migration-displacement",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 0,
+    "title": "Iraq's 2026 transition: oil dependence, federal bargaining and the struggle to convert security gains into productive capacity",
+    "deck": "A new government, the end of UNAMI, the final phase of the anti-ISIS coalition transition and renewed regional energy disruptions expose the same structural constraint: Iraq can mobilize large hydrocarbon rents, but electricity, water, finance, federal coordination and private-sector absorption determine whether those rents become durable productive capacity.",
+    "tags": [
+      "Iraq",
+      "oil",
+      "federalism",
+      "Kurdistan Region",
+      "electricity",
+      "water",
+      "Development Road",
+      "post-ISIS"
+    ],
+    "keywords": [
+      "Iraq political economy 2026",
+      "Iraq oil dependence",
+      "Iraq federal Kurdistan oil",
+      "Iraq electricity gas",
+      "Iraq Development Road",
+      "Iraq UNAMI 2026",
+      "Iraq labour market",
+      "Iraq water scarcity"
+    ],
+    "regime": "Post-ISIS hydrocarbon federalism: stronger territorial control and renewed infrastructure ambition coexist with extreme fiscal dependence on oil, layered federal bargaining, shallow private finance, electricity and water constraints, and high exposure to regional trade and security shocks.",
+    "key_risk": "A large oil-funded recurrent state can preserve short-term demand and political bargains while delaying the institutional conversion of hydrocarbon income into reliable energy, private investment, water productivity and diversified employment; export disruptions then transmit rapidly into the wider economy.",
+    "watch": [
+      "Oil export volumes through Basra and northern routes, and fiscal revenue sensitivity",
+      "Federal-KRG transfers, salary payments and implementation of oil-export agreements",
+      "Domestic gas capture, electricity reliability and interconnection capacity",
+      "Private credit, labour-force participation and non-state formal employment",
+      "Water storage, irrigation intensity and Tigris-Euphrates inflows",
+      "Al Faw and Development Road construction, throughput and cross-border operating milestones",
+      "Counter-ISIS activity and the transition from coalition arrangements to bilateral security cooperation"
+    ],
+    "search_text": "Iraq 2026 strategic transition oil fiscal dependence federalism Kurdistan KRG Basra Hormuz electricity gas water labour private sector Development Road UNAMI post-ISIS security",
+    "url": "/reports/2026/09/2026-09-29-strategic-transition-iraq-2026-state-capacity.html",
+    "markdown_url": "/reports/2026/09/2026-09-29-strategic-transition-iraq-2026-state-capacity/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-29T17:43:00-03:00",
+    "qa_confidence": "medium-high",
+    "qa_reviewed_commit": "4a7cb31ee63b39cbbb108da41b3abd35af215982"
+  },
+  {
     "id": "MT-GM-2026-09-28",
     "slug": "2026-09-28-global-macro",
     "date": "2026-09-28",

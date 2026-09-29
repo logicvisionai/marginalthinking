@@ -1,0 +1,228 @@
+{
+  "schema_version": 2,
+  "id": "MT-ST-2026-09-29-iraq-2026-state-capacity",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-29T17:43:00-03:00",
+  "reviewed_commit": "4a7cb31ee63b39cbbb108da41b3abd35af215982",
+  "pending_blob_sha": "cd2768660be4f7a12ba104df542e8073be9b2f8b",
+  "source_blob_shas": {
+    "en": "d6f9be7c5bc7b4d6813fdc5fa5d5e4bbefa9f6a6",
+    "pt-BR": "47cb91d4e600b19d488499b56a70656d760d0426"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium-high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Core institutional, macro-fiscal, energy, labour, water and federal claims were checked against current Iraqi Council of Representatives and IHEC records, IMF and World Bank material, EIA energy data, UN Iraq publications, ILO material and the KRG oil-export statement. Time-sensitive 2026 oil and growth conditions are explicitly identified as such, and institutional claims are separated from analytical interpretation."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The public prose is finding-led and contains no exposed QA, staging, publication-pipeline or research-process scaffolding. Strict 29 September self-reference and conversational-language checks passed."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The analysis connects government formation, oil-fiscal dependence, federal-Kurdistan bargaining, electricity and gas, banking, labour absorption, post-ISIS security, UNAMI transition, water stress, ports and the Development Road as interacting state-capacity mechanisms."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "2 Markdown tables + 1 explicit bar chart + 1 causal flow per locale",
+      "summary": "EN and PT-BR contain identical visual signatures. The oil-dependence chart uses explicitly sourced percentages that are clearly described as non-additive, while the tables separate institutional sequence from the structural-capacity dashboard."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same thesis, institutional dates, quantitative claims, uncertainty, tables, chart, flow, limitations and watch variables."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Current political offices and institutional changes are described factually; contested power, security and external-alignment questions are framed as observable institutional relationships rather than endorsements, rankings or predictions."
+    }
+  },
+  "contrary_evidence": [
+    "Large oil reserves, stronger territorial control and major infrastructure plans create more state capacity than a simple fragility narrative implies, but they do not by themselves demonstrate diversified productivity.",
+    "A young population and large domestic market expand potential labour supply and demand, while unemployment, low participation and preference for public employment limit immediate private-sector absorption.",
+    "Improved 2025-2026 rainfall materially raised water storage, but the rebound restored only part of accumulated losses and does not remove structural aridity or transboundary dependence.",
+    "Federal-Kurdistan oil agreements show that bargaining can produce operational compromises, while repeated renegotiation and pipeline interruptions limit confidence that a durable settlement has been reached.",
+    "The end of UNAMI and transition of coalition arrangements indicate stronger Iraqi institutional responsibility, while counter-ISIS and command-coordination requirements remain active security constraints."
+  ],
+  "limitations": [
+    "The 2026 regional conflict and Strait of Hormuz disruption make oil-production, export and GDP estimates unusually time-sensitive.",
+    "Different institutions use Federal Iraq, Kurdistan Region or whole-Iraq definitions; energy and fiscal figures are not always directly comparable.",
+    "Federal-Kurdistan oil agreements can change faster than annual statistical releases and announced arrangements do not guarantee full implementation.",
+    "Security-sector relationships include legal, administrative and factional layers that cannot be reduced to a single command map.",
+    "Labour-market conditions await results from the 2026 nationally representative Labour Force Survey; interim figures rely on older surveys and institutional estimates.",
+    "Infrastructure announcements are treated as capacity only when operational milestones, throughput or completed connections can be observed."
+  ],
+  "notes": "Approved for publication after a current-source pass and exact EN/PT-BR visual-parity check. Approval is bound to the current pending and staged-source blob SHAs.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-ST-2026-09-29-iraq-2026-state-capacity",
+    "slug": "2026-09-29-strategic-transition-iraq-2026-state-capacity",
+    "date": "2026-09-29",
+    "published_at": "2026-09-29T17:36:00-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-29-strategic-transition-iraq-2026-state-capacity/en.md",
+        "title": "Iraq's 2026 transition: oil dependence, federal bargaining and the struggle to convert security gains into productive capacity",
+        "deck": "A new government, the end of UNAMI, the final phase of the anti-ISIS coalition transition and renewed regional energy disruptions expose the same structural constraint: Iraq can mobilize large hydrocarbon rents, but electricity, water, finance, federal coordination and private-sector absorption determine whether those rents become durable productive capacity.",
+        "tags": [
+          "Iraq",
+          "oil",
+          "federalism",
+          "Kurdistan Region",
+          "electricity",
+          "water",
+          "Development Road",
+          "post-ISIS"
+        ],
+        "keywords": [
+          "Iraq political economy 2026",
+          "Iraq oil dependence",
+          "Iraq federal Kurdistan oil",
+          "Iraq electricity gas",
+          "Iraq Development Road",
+          "Iraq UNAMI 2026",
+          "Iraq labour market",
+          "Iraq water scarcity"
+        ],
+        "regime": "Post-ISIS hydrocarbon federalism: stronger territorial control and renewed infrastructure ambition coexist with extreme fiscal dependence on oil, layered federal bargaining, shallow private finance, electricity and water constraints, and high exposure to regional trade and security shocks.",
+        "key_risk": "A large oil-funded recurrent state can preserve short-term demand and political bargains while delaying the institutional conversion of hydrocarbon income into reliable energy, private investment, water productivity and diversified employment; export disruptions then transmit rapidly into the wider economy.",
+        "watch": [
+          "Oil export volumes through Basra and northern routes, and fiscal revenue sensitivity",
+          "Federal-KRG transfers, salary payments and implementation of oil-export agreements",
+          "Domestic gas capture, electricity reliability and interconnection capacity",
+          "Private credit, labour-force participation and non-state formal employment",
+          "Water storage, irrigation intensity and Tigris-Euphrates inflows",
+          "Al Faw and Development Road construction, throughput and cross-border operating milestones",
+          "Counter-ISIS activity and the transition from coalition arrangements to bilateral security cooperation"
+        ],
+        "search_text": "Iraq 2026 strategic transition oil fiscal dependence federalism Kurdistan KRG Basra Hormuz electricity gas water labour private sector Development Road UNAMI post-ISIS security"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-29-strategic-transition-iraq-2026-state-capacity/pt-BR.md",
+        "title": "A transição do Iraque em 2026: dependência do petróleo, barganha federativa e o desafio de converter ganhos de segurança em capacidade produtiva",
+        "deck": "Um novo governo, o fim da UNAMI, a fase final da transição da coalizão contra o ISIS e novos choques regionais de energia expõem a mesma restrição estrutural: o Iraque mobiliza grandes rendas de hidrocarbonetos, mas eletricidade, água, finanças, coordenação federativa e absorção privada determinam se essa renda vira capacidade produtiva durável.",
+        "tags": [
+          "Iraque",
+          "petróleo",
+          "federalismo",
+          "Região do Curdistão",
+          "eletricidade",
+          "água",
+          "Development Road",
+          "pós-ISIS"
+        ],
+        "keywords": [
+          "economia política Iraque 2026",
+          "dependência petróleo Iraque",
+          "petróleo federal Curdistão Iraque",
+          "eletricidade gás Iraque",
+          "Development Road Iraque",
+          "UNAMI Iraque 2026",
+          "mercado de trabalho Iraque",
+          "escassez hídrica Iraque"
+        ],
+        "regime": "Federalismo petrolífero pós-ISIS: maior controle territorial e nova ambição de infraestrutura coexistem com extrema dependência fiscal do petróleo, barganha federativa em camadas, finanças privadas rasas, restrições de eletricidade e água e alta exposição a choques regionais de comércio e segurança.",
+        "key_risk": "Um Estado recorrente grande financiado pelo petróleo pode preservar demanda e acordos políticos de curto prazo enquanto adia a conversão institucional da renda de hidrocarbonetos em energia confiável, investimento privado, produtividade da água e emprego diversificado; interrupções de exportação então se transmitem rapidamente ao restante da economia.",
+        "watch": [
+          "Volumes exportados por Basra e rotas do norte e sensibilidade da receita fiscal",
+          "Transferências federais ao KRG, salários e execução dos acordos de exportação de petróleo",
+          "Captura de gás doméstico, confiabilidade elétrica e capacidade de interconexão",
+          "Crédito privado, participação na força de trabalho e emprego formal fora do Estado",
+          "Reservas hídricas, intensidade de irrigação e fluxos dos rios Tigre e Eufrates",
+          "Construção, movimentação e marcos operacionais transfronteiriços de Al Faw e Development Road",
+          "Atividade contra o ISIS e transição dos arranjos da coalizão para cooperação bilateral de segurança"
+        ],
+        "search_text": "Iraque 2026 transição estratégica petróleo dependência fiscal federalismo Curdistão KRG Basra Ormuz eletricidade gás água trabalho setor privado Development Road UNAMI pós-ISIS segurança"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "IQ",
+          "slug": "iraq"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security",
+      "political-stability",
+      "migration-displacement",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium-high",
+    "key_constraints": [
+      "Extreme dependence of fiscal revenue and exports on crude oil",
+      "Concentration of seaborne exports in southern Gulf routes and exposure to regional chokepoints",
+      "Unresolved or periodically renegotiated federal-Kurdistan hydrocarbon and transfer arrangements",
+      "Electricity reliability, domestic gas capture and dependence on imported energy inputs",
+      "Large public-sector employment preference and limited private-sector labour absorption",
+      "Shallow banking intermediation and uneven private credit allocation",
+      "Structural water scarcity, heat and transboundary river dependence",
+      "Layered security institutions and continuing need for federal-regional coordination"
+    ],
+    "selection_rationale": "Iraq is undergoing a consequential 2025-2026 institutional transition: a new government formed after the 2025 election, UNAMI ended, coalition security arrangements entered their final transition phase, northern oil-export negotiations changed again, and regional energy disruptions exposed the macroeconomic cost of export concentration. These shifts connect state capacity, fiscal dependence, federalism, energy, security, labour, water and infrastructure and have direct implications for Gulf and regional systems.",
+    "contrary_evidence": [
+      "Large oil reserves, stronger territorial control and major infrastructure plans create more state capacity than a simple fragility narrative implies, but they do not by themselves demonstrate diversified productivity.",
+      "A young population and large domestic market expand potential labour supply and demand, while unemployment, low participation and preference for public employment limit immediate private-sector absorption.",
+      "Improved 2025-2026 rainfall materially raised water storage, but the rebound restored only part of accumulated losses and does not remove structural aridity or transboundary dependence.",
+      "Federal-Kurdistan oil agreements show that bargaining can produce operational compromises, while repeated renegotiation and pipeline interruptions limit confidence that a durable settlement has been reached.",
+      "The end of UNAMI and transition of coalition arrangements indicate stronger Iraqi institutional responsibility, while counter-ISIS and command-coordination requirements remain active security constraints."
+    ],
+    "limitations": [
+      "The 2026 regional conflict and Strait of Hormuz disruption make oil-production, export and GDP estimates unusually time-sensitive.",
+      "Different institutions use Federal Iraq, Kurdistan Region or whole-Iraq definitions; energy and fiscal figures are not always directly comparable.",
+      "Federal-Kurdistan oil agreements can change faster than annual statistical releases and announced arrangements do not guarantee full implementation.",
+      "Security-sector relationships include legal, administrative and factional layers that cannot be reduced to a single command map.",
+      "Labour-market conditions await results from the 2026 nationally representative Labour Force Survey; interim figures rely on older surveys and institutional estimates.",
+      "Infrastructure announcements are treated as capacity only when operational milestones, throughput or completed connections can be observed."
+    ],
+    "revision": 0
+  }
+}
