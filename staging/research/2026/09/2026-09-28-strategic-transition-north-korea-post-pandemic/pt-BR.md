@@ -1,7 +1,5 @@
 # A transição pós-pandemia da Coreia do Norte: recentralização estatal, expansão militar-industrial e reorientação externa
 
-## Avaliação executiva
-
 A República Popular Democrática da Coreia (RPDC) atravessa uma transição estrutural que não pode ser descrita adequadamente nem como simples recuperação econômica nem como simples isolamento. A interpretação mais defensável da evidência de 2023–2026 é que o país saiu do choque excepcional do fechamento de fronteiras durante a pandemia e entrou em um novo equilíbrio caracterizado por cinco mudanças simultâneas: recuperação concentrada na economia dirigida pelo Estado; maior controle administrativo sobre comércio e distribuição; continuidade da dependência de mercados e trocas informais no nível das famílias; relação militar-industrial mais importante com a Federação Russa; e mudança institucional para longe do antigo marco de reunificação intercoreana, em direção a uma relação interestatal mais explicitamente confrontacional com a República da Coreia (Coreia do Sul).
 
 Esta avaliação não presume que afirmações oficiais da RPDC sejam corretas, nem trata estimativas externas da Coreia do Sul, dos Estados Unidos, de organismos das Nações Unidas ou de institutos de pesquisa como medições diretas realizadas dentro do país. A Coreia do Norte está entre as economias políticas de maior dificuldade de mensuração no mundo. Desde o início de 2021, a Equipe das Nações Unidas no país opera a partir de Bangkok, e não de Pyongyang; a AIEA não possui inspetores na RPDC desde 2009; o PIB corrente não é publicado pelas autoridades norte-coreanas em formato comparável às contas nacionais padronizadas; preços de mercado são reconstruídos a partir de redes de informantes e informações transfronteiriças; e evidências sobre forças armadas, evasão de sanções e direitos humanos frequentemente dependem de imagens de satélite, estatísticas espelho de alfândegas, entrevistas com pessoas que deixaram o país, logística interceptada ou rastreada, declarações oficiais e atribuição probabilística.
@@ -26,28 +24,11 @@ A transição principal, portanto, não é “colapso versus sobrevivência”. 
 
 **Corte de informação: 28 de setembro de 2026.**
 
-## Pergunta de pesquisa e arquitetura de evidências
+## Os limites da evidência definem o que pode ser afirmado com confiança
 
-O relatório pergunta:
+A Coreia do Norte não pode ser avaliada com a mesma precisão empírica de economias com sistemas estatísticos abertos e acesso irrestrito a trabalho de campo. Leis, tratados e declarações oficiais estabelecem desenho institucional e política declarada, mas não demonstram implementação por si sós. Dados alfandegários chineses e outras estatísticas espelho capturam o comércio observável de mercadorias, mas não fluxos não declarados, militares ou informais. As estimativas do Banco da Coreia oferecem um modelo externo consistente da direção da produção e da mudança setorial, enquanto monitoramento por satélite, observações da FAO, documentação da ONU e evidências baseadas em entrevistas respondem a perguntas mais estreitas, cada uma com limitações próprias de acesso e seleção.
 
-**Como a economia política norte-coreana mudou da mercantilização pós-crise dos anos 1990, passando pelo fechamento da pandemia, até a recuperação de 2023–2026, e o que essas mudanças implicam para capacidade estatal, bem-estar das famílias, produção industrial, capacidade militar e dependência externa?**
-
-A análise separa seis classes de evidência.
-
-| Classe de evidência | Exemplos | O que pode sustentar | Principal limitação |
-|---|---|---|---|
-| Texto institucional direto | tratados, resoluções da ONU, leis da RPDC ou declarações oficiais de política | compromissos formais, prioridades declaradas, estrutura jurídica | não prova implementação nem resultado |
-| Observação internacional | monitoramento por satélite da AIEA, sensoriamento da FAO, dados operacionais da ONU | sinais de atividade em instalações, condições agrícolas, acesso institucional | acesso físico limitado ou inexistente dentro da RPDC |
-| Estatísticas espelho | alfândega chinesa, dados comerciais de parceiros | fluxos observáveis de mercadorias através da fronteira | excluem fluxos não declarados, sancionados, militares ou informais |
-| Estimativas externas de contas nacionais | estimativas de PIB/GNI do Banco da Coreia | direção consistente e comparação setorial | baseadas em modelo, preços externos e dados incompletos de produção |
-| Evidência de entrevistas/pesquisas | entrevistas do OHCHR, pesquisas com pessoas que deixaram o país | experiência vivida, padrões de fiscalização, instituições locais | viés de seleção, memória retrospectiva, cobertura geográfica desigual |
-| Reconstrução analítica | KDI, 38 North, literatura acadêmica | mecanismos, comparação, síntese | depende de hipóteses e perspectiva institucional |
-
-Nenhuma dessas classes é suficiente sozinha.
-
-```flow
-Afirmação oficial ou alegação externa → identificar classe de evidência → testar contra observação independente ou dados espelho → declarar o que é conhecido → isolar o que permanece inferido → atribuir confiança → especificar falsificador
-```
+As afirmações deste relatório ficam, portanto, vinculadas ao tipo de evidência capaz de sustentá-las. Posições oficiais são atribuídas aos atores que as formulam; produção estimada externamente é identificada como estimativa; atividade observada por satélite não é convertida em inventário exato; e evidências sobre condições das famílias ou direitos são apresentadas com as limitações de acesso da instituição que as coletou. Quando não há verificação independente possível, a incerteza faz parte do achado, em vez de ser ocultada por uma estimativa pontual.
 
 ## A geografia torna energia, transporte e segurança inseparáveis
 

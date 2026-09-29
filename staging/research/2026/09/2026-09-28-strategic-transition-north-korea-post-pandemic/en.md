@@ -1,7 +1,5 @@
 # North Korea's post-pandemic transition: state re-centralization, military-industrial expansion and external reorientation
 
-## Executive assessment
-
 The Democratic People's Republic of Korea (DPRK) is undergoing a structural transition that cannot be described adequately as either simple economic recovery or simple isolation. The most defensible interpretation of the 2023–2026 evidence is that the country has moved out of the exceptional pandemic-border-closure shock into a new equilibrium characterized by five simultaneous changes: recovery concentrated in the state-directed economy; stronger administrative control over trade and distribution; continued reliance on markets and informal exchange at household level; a more important military-industrial relationship with the Russian Federation; and an institutional shift away from the previous inter-Korean reunification framework toward a more explicit state-to-state confrontation with the Republic of Korea (ROK).
 
 This assessment does not assume that official DPRK claims are accurate, nor does it treat external estimates from the ROK, the United States, United Nations bodies or research institutes as direct measurements inside the country. North Korea is among the most difficult large political economies in the world to measure. Since early 2021, the United Nations Country Team has operated from Bangkok rather than Pyongyang; the IAEA has had no inspectors in the DPRK since 2009; current GDP is not published by DPRK authorities in a form comparable with standard national accounts; market prices are reconstructed from networks of informants and cross-border information; and military, sanctions-evasion and human-rights evidence often depends on satellite imagery, customs mirror data, interviews with people who have left the country, intercepted logistics, official statements and probabilistic attribution.
@@ -26,28 +24,11 @@ The key transition is therefore not "collapse versus survival." It is whether th
 
 **Information cutoff: 28 September 2026.**
 
-## Research question and evidence architecture
+## Evidence limits what can be stated with confidence
 
-The report asks:
+North Korea cannot be assessed with the same evidentiary precision as economies with open statistical systems and unrestricted field access. Formal laws, treaties and official statements establish institutional design and declared policy, but not implementation by themselves. Chinese customs and other mirror statistics capture observable merchandise trade but omit undeclared, military and informal flows. Bank of Korea estimates provide a consistent external model of output direction and sectoral change, while satellite monitoring, FAO observations, UN documentation and interview-based evidence answer narrower questions with their own access and selection limits.
 
-**How has North Korea's political economy changed from the post-famine marketization era through the pandemic closure and the 2023–2026 recovery, and what do those changes imply for state capacity, household welfare, industrial production, military capability and external dependence?**
-
-The analysis separates six evidence classes.
-
-| Evidence class | Examples | What it can support | Main limitation |
-|---|---|---|---|
-| Direct institutional text | treaties, UN resolutions, DPRK laws or official policy statements | formal commitments, stated priorities, legal structure | does not prove implementation or outcome |
-| International observation | IAEA satellite monitoring, FAO remote sensing, UN operational data | facility activity signatures, crop conditions, institutional access | limited or no physical access inside DPRK |
-| Mirror statistics | Chinese customs, partner-country trade data | observable cross-border merchandise flows | excludes unreported, sanctioned, military or informal flows |
-| External national-account estimates | Bank of Korea GDP/GNI estimates | consistent direction and sectoral comparison | model-based, uses external prices and incomplete production inputs |
-| Interview/survey evidence | OHCHR interviews, defector surveys, refugee testimony | lived experience, enforcement patterns, local institutions | selection bias, retrospective reporting, uneven geographic coverage |
-| Analytical reconstruction | KDI, 38 North, academic literature | mechanisms, comparison, synthesis | depends on assumptions and institutional perspective |
-
-No class is sufficient by itself.
-
-```flow
-Official claim or external allegation → identify evidence class → test against independent observation or mirror data → state what is known → isolate what remains inferred → assign confidence → specify falsifier
-```
+Claims in this report are therefore tied to the type of evidence that can sustain them. Official positions are attributed to the actors making them; externally modeled output is identified as an estimate; satellite-observed activity is not converted into an exact inventory; and evidence about household conditions or rights is presented with the access limits of the collecting institution. Where independent verification is not possible, the uncertainty is part of the finding rather than something hidden behind a single point estimate.
 
 ## Geography makes energy, transport and security inseparable
 
