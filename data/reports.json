@@ -706,6 +706,114 @@
     }
   },
   {
+    "id": "MT-ST-2026-09-28-north-korea-post-pandemic",
+    "slug": "2026-09-28-strategic-transition-north-korea-post-pandemic",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T16:06:03-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "KP",
+          "slug": "north-korea"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "title": "North Korea's post-pandemic transition: state re-centralization, military-industrial expansion and external reorientation",
+    "deck": "North Korea has emerged from the border-closure shock with stronger state direction, recovering trade and industry, deeper Russia ties and a more institutionalized two-state posture, while household welfare, hidden military flows and the exact scale of nuclear capabilities remain difficult to measure.",
+    "tags": [
+      "North Korea",
+      "DPRK",
+      "China",
+      "Russia",
+      "markets",
+      "sanctions",
+      "nuclear policy",
+      "industrial policy"
+    ],
+    "keywords": [
+      "North Korea political economy 2026",
+      "DPRK economy",
+      "North Korea China trade",
+      "North Korea Russia relations",
+      "North Korea markets",
+      "North Korea sanctions",
+      "North Korea nuclear program",
+      "North Korea five-year plan"
+    ],
+    "regime": "Post-pandemic managed re-centralization: official-sector recovery and external diversification coexist with persistent market dependence, sanctions, energy constraints and limited independent access.",
+    "key_risk": "A growth model increasingly dependent on priority allocation and opaque Russia-linked earnings may strengthen strategic sectors without producing broad civilian productivity or household welfare gains; an external trade or security shock could expose that gap.",
+    "watch": [
+      "Chinese customs trade by product and corridor",
+      "Russia-DPRK rail, port, military and non-military economic flows",
+      "Market won exchange rates and staple-food prices from independent networks",
+      "Operating evidence from Regional Development 20×10 facilities",
+      "Electricity availability and industrial operating rates",
+      "IAEA-observed activity at Yongbyon and Kangson",
+      "UN operational access and return of international staff",
+      "Inter-Korean legal, institutional and border changes"
+    ],
+    "search_text": "North Korea DPRK 2026 political economy post-pandemic state re-centralization markets China Russia trade sanctions nuclear program industry agriculture energy society inter-Korean relations",
+    "url": "/reports/2026/09/2026-09-28-strategic-transition-north-korea-post-pandemic.html",
+    "markdown_url": "/reports/2026/09/2026-09-28-strategic-transition-north-korea-post-pandemic/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-29T17:24:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "02e1328b9f803886f5ac9ed71d29dae3e41eed53"
+  },
+  {
     "id": "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
     "slug": "2026-09-28-strategic-transition-taiwan-semiconductor-political-economy",
     "date": "2026-09-28",

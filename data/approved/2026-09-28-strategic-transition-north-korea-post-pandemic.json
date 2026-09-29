@@ -1,0 +1,239 @@
+{
+  "schema_version": 2,
+  "id": "MT-ST-2026-09-28-north-korea-post-pandemic",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-29T17:24:00-03:00",
+  "reviewed_commit": "02e1328b9f803886f5ac9ed71d29dae3e41eed53",
+  "pending_blob_sha": "3a82c280cb1a75000a0071280d2e99c9fa8b41a7",
+  "source_blob_shas": {
+    "en": "8369664ac69e880687f85395d668a91551218a02",
+    "pt-BR": "a92e5bcf2c700427edca53d1e30ffe3d11b6e89b"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Revision 1 was rechecked against current Bank of Korea external national-account estimates, FAO September 2026 crop observations, current UN/OHCHR access and rights documentation, and IAEA safeguards reporting. The review preserves attribution boundaries between DPRK official claims, ROK external estimates, international observation and inferred or opaque flows."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The generic Executive assessment and internal research-question/evidence-architecture scaffolds were removed. The replacement states evidence limits in finished institutional prose without exposing internal QA structure."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The staged report connects post-pandemic state allocation, market persistence, China trade, Russia ties, industry, agriculture, energy, sanctions, social conditions and nuclear-security evidence while distinguishing observable data from inference."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "The editorial rewrite does not change the report's quantitative, tabular, timeline, flow or comparative visual content; EN/PT-BR structure remains aligned."
+    },
+    "revision_integrity": {
+      "result": "passed",
+      "summary": "Comparison with the rejected source blobs shows only the removal of the generic opening/research architecture and its replacement with a concise evidence-limits section. No material numeric, dated, causal or conclusion-level claim changed."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Contested claims are attributed to their source classes and the report does not endorse a government, opposition actor, security policy or political outcome."
+    }
+  },
+  "contrary_evidence": [
+    "Three consecutive years of Bank of Korea-estimated real GDP growth above 3 percent, recovering merchandise trade and visible construction argue against a simple stagnation or collapse thesis, although the GDP figures remain external estimates.",
+    "Persistent household markets, foreign-currency use and informal procurement argue against describing current policy as a complete return to pre-1990s central planning.",
+    "China remains overwhelmingly dominant in observable conventional trade, limiting claims that North Korea has economically pivoted from China to Russia even as Russia has become more important strategically and militarily.",
+    "Generally favorable 2026 crop conditions observed by FAO do not establish nationwide food security because international field access and current representative household consumption data remain limited.",
+    "The continuation and apparent expansion of nuclear-related facilities are supported by remote observation, but the absence of IAEA inspectors since 2009 prevents direct verification of the exact stockpile or all facility activity."
+  ],
+  "limitations": [
+    "Political and economic opacity requires combining sources with different incentives and methodologies; no single source class is treated as comprehensive.",
+    "DPRK official sources are used for declared policy, institutional texts and official claims rather than independent verification of outcomes.",
+    "ROK institutions are external estimators from a state in direct political and military competition with the DPRK; their methodologies are identified and cross-checked where possible.",
+    "Chinese customs measure declared merchandise trade but do not capture all unrecorded, sanctioned, military or service flows.",
+    "OHCHR findings rely substantially on interviews with people who left the DPRK and other external evidence because unrestricted contemporary in-country access is unavailable; representativeness limits are stated explicitly.",
+    "Russian official sources establish what Russia publicly acknowledges about cooperation and military participation, not independent estimates of battlefield effects or compensation."
+  ],
+  "notes": "Approved as revision 1 after editorial rework. Current source and pending blob SHAs are bound exactly to this approval; the factual pass rechecked the principal external evidence classes used in the report.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-ST-2026-09-28-north-korea-post-pandemic",
+    "slug": "2026-09-28-strategic-transition-north-korea-post-pandemic",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T16:06:03-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-28-strategic-transition-north-korea-post-pandemic/en.md",
+        "title": "North Korea's post-pandemic transition: state re-centralization, military-industrial expansion and external reorientation",
+        "deck": "North Korea has emerged from the border-closure shock with stronger state direction, recovering trade and industry, deeper Russia ties and a more institutionalized two-state posture, while household welfare, hidden military flows and the exact scale of nuclear capabilities remain difficult to measure.",
+        "tags": [
+          "North Korea",
+          "DPRK",
+          "China",
+          "Russia",
+          "markets",
+          "sanctions",
+          "nuclear policy",
+          "industrial policy"
+        ],
+        "keywords": [
+          "North Korea political economy 2026",
+          "DPRK economy",
+          "North Korea China trade",
+          "North Korea Russia relations",
+          "North Korea markets",
+          "North Korea sanctions",
+          "North Korea nuclear program",
+          "North Korea five-year plan"
+        ],
+        "regime": "Post-pandemic managed re-centralization: official-sector recovery and external diversification coexist with persistent market dependence, sanctions, energy constraints and limited independent access.",
+        "key_risk": "A growth model increasingly dependent on priority allocation and opaque Russia-linked earnings may strengthen strategic sectors without producing broad civilian productivity or household welfare gains; an external trade or security shock could expose that gap.",
+        "watch": [
+          "Chinese customs trade by product and corridor",
+          "Russia-DPRK rail, port, military and non-military economic flows",
+          "Market won exchange rates and staple-food prices from independent networks",
+          "Operating evidence from Regional Development 20×10 facilities",
+          "Electricity availability and industrial operating rates",
+          "IAEA-observed activity at Yongbyon and Kangson",
+          "UN operational access and return of international staff",
+          "Inter-Korean legal, institutional and border changes"
+        ],
+        "search_text": "North Korea DPRK 2026 political economy post-pandemic state re-centralization markets China Russia trade sanctions nuclear program industry agriculture energy society inter-Korean relations"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-28-strategic-transition-north-korea-post-pandemic/pt-BR.md",
+        "title": "A transição pós-pandemia da Coreia do Norte: recentralização estatal, expansão militar-industrial e reorientação externa",
+        "deck": "A Coreia do Norte saiu do choque do fechamento de fronteiras com maior direção estatal, recuperação do comércio e da indústria, vínculos mais profundos com a Rússia e postura de dois Estados mais institucionalizada, enquanto bem-estar doméstico, fluxos militares ocultos e a escala exata das capacidades nucleares continuam difíceis de medir.",
+        "tags": [
+          "Coreia do Norte",
+          "RPDC",
+          "China",
+          "Rússia",
+          "mercados",
+          "sanções",
+          "política nuclear",
+          "política industrial"
+        ],
+        "keywords": [
+          "economia política Coreia do Norte 2026",
+          "economia RPDC",
+          "comércio Coreia do Norte China",
+          "relações Coreia do Norte Rússia",
+          "mercados Coreia do Norte",
+          "sanções Coreia do Norte",
+          "programa nuclear Coreia do Norte",
+          "plano quinquenal Coreia do Norte"
+        ],
+        "regime": "Recentralização administrada pós-pandemia: recuperação do setor oficial e diversificação externa coexistem com dependência persistente de mercados, sanções, restrições energéticas e acesso independente limitado.",
+        "key_risk": "Um modelo de crescimento cada vez mais dependente de alocação prioritária e receitas opacas ligadas à Rússia pode fortalecer setores estratégicos sem gerar produtividade civil ampla ou ganhos de bem-estar doméstico; um choque comercial ou de segurança externo poderia expor essa lacuna.",
+        "watch": [
+          "Comércio alfandegário chinês por produto e corredor",
+          "Fluxos ferroviários, portuários, militares e econômicos não militares entre Rússia e RPDC",
+          "Taxas de câmbio de mercado do won e preços de alimentos básicos em redes independentes",
+          "Evidência operacional das instalações do Desenvolvimento Regional 20×10",
+          "Disponibilidade de eletricidade e taxas de operação industrial",
+          "Atividade observada pela AIEA em Yongbyon e Kangson",
+          "Acesso operacional da ONU e retorno de pessoal internacional",
+          "Mudanças jurídicas, institucionais e fronteiriças intercoreanas"
+        ],
+        "search_text": "Coreia do Norte RPDC 2026 economia política pós-pandemia recentralização estatal mercados China Rússia comércio sanções programa nuclear indústria agricultura energia sociedade relações intercoreanas"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "KP",
+          "slug": "north-korea"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "No current independently administered nationwide household or enterprise survey accessible to outside researchers",
+      "Bank of Korea GDP and sector figures are model-based external estimates rather than DPRK national accounts",
+      "The UN Country Team has lacked normal in-country international access since early 2021 and the IAEA has had no inspectors in the DPRK since 2009",
+      "Energy availability, aging capital stock and sanctions constrain civilian industrial productivity",
+      "Recorded external trade remains highly concentrated in China while Russia-linked military and service flows are unusually opaque",
+      "Food access cannot be inferred directly from crop conditions because distribution, purchasing power and imports also matter",
+      "Defense-related output and foreign-exchange earnings are not transparently reported"
+    ],
+    "selection_rationale": "North Korea is undergoing a consequential post-pandemic structural transition: the state is reasserting control over strategic allocation, trade and distribution while preserving market mechanisms that became embedded after the 1990s; conventional trade with China has recovered; security and military-industrial relations with Russia have deepened; a new 2026–2030 development plan emphasizes state-led industrial and regional upgrading; and the inter-Korean framework is becoming more explicitly organized around two separate states. These changes connect economics, politics and society and materially affect Northeast Asian security and regional production relationships.",
+    "contrary_evidence": [
+      "Three consecutive years of Bank of Korea-estimated real GDP growth above 3 percent, recovering merchandise trade and visible construction argue against a simple stagnation or collapse thesis, although the GDP figures remain external estimates.",
+      "Persistent household markets, foreign-currency use and informal procurement argue against describing current policy as a complete return to pre-1990s central planning.",
+      "China remains overwhelmingly dominant in observable conventional trade, limiting claims that North Korea has economically pivoted from China to Russia even as Russia has become more important strategically and militarily.",
+      "Generally favorable 2026 crop conditions observed by FAO do not establish nationwide food security because international field access and current representative household consumption data remain limited.",
+      "The continuation and apparent expansion of nuclear-related facilities are supported by remote observation, but the absence of IAEA inspectors since 2009 prevents direct verification of the exact stockpile or all facility activity."
+    ],
+    "limitations": [
+      "Political and economic opacity requires combining sources with different incentives and methodologies; no single source class is treated as comprehensive.",
+      "DPRK official sources are used for declared policy, institutional texts and official claims rather than independent verification of outcomes.",
+      "ROK institutions are external estimators from a state in direct political and military competition with the DPRK; their methodologies are identified and cross-checked where possible.",
+      "Chinese customs measure declared merchandise trade but do not capture all unrecorded, sanctioned, military or service flows.",
+      "OHCHR findings rely substantially on interviews with people who left the DPRK and other external evidence because unrestricted contemporary in-country access is unavailable; representativeness limits are stated explicitly.",
+      "Russian official sources establish what Russia publicly acknowledges about cooperation and military participation, not independent estimates of battlefield effects or compensation."
+    ],
+    "revision": 1,
+    "revision_reason": "qa_rework",
+    "supersedes_rejected_commit": "118364749de008e80836b3ed3f2c00c3f891fc24",
+    "qa_fixes_applied": [
+      "Removed the generic `Executive assessment` / `Avaliação executiva` opening heading and retained the thesis as direct analytical prose.",
+      "Replaced the public-facing `Research question and evidence architecture` scaffold with a concise evidence-limits section tied to the kinds of claims each source can sustain.",
+      "Preserved explicit attribution of DPRK, ROK, Russian and UN claims and retained the separation between observed evidence, modeled estimates and uncertainty.",
+      "Preserved all material numbers, dates, causal claims and conclusions; the rework is editorial rather than factual.",
+      "Maintained EN/PT-BR semantic equivalence after restructuring."
+    ]
+  }
+}
