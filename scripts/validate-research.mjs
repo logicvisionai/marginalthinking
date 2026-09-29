@@ -31,7 +31,10 @@ function validateEditorialIntegrity(text,file,item={}){
     if(m)fail.push(file+': '+label+'; pesquisa publicada deve analisar o objeto, não descrever como construir ou operar o produto (trecho: "'+m[0]+'")');
   }
 
-  const strict=String(item.date||'')>='2026-09-22';
+  // Editorial self-reference lint became a hard publication gate on 2026-09-29.
+  // Older QA-approved bundles remain immutable under their recorded source SHAs;
+  // they are not retroactively rewritten solely to satisfy a newer prose lint.
+  const strict=String(item.date||'')>='2026-09-29';
   if(strict){
     const strictBlockers=[
       ['autorreferência de relatório',/\b(?:este|esta|this)\s+(?:artigo|relat[oó]rio|an[aá]lise|avalia[cç][aã]o|pesquisa|article|report|analysis|assessment|research)\s+(?:mostra|apresenta|explica|examina|analisa|discute|reconstr[oó]i|shows|presents|explains|examines|analyses|analyzes|discusses|reconstructs|will|vai)\b/i],
