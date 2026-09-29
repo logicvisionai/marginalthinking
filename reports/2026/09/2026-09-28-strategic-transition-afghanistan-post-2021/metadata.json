@@ -1,0 +1,176 @@
+{
+  "id": "MT-ST-2026-09-28-afghanistan-post-2021",
+  "slug": "2026-09-28-strategic-transition-afghanistan-post-2021",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T15:38:00-03:00",
+  "kind": "strategic-transition",
+  "priority": 35,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "strategic-transitions",
+  "related_programs": [
+    "global-system-power",
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "asia-pacific"
+    ],
+    "subregions": [
+      "south-asia"
+    ],
+    "countries": [
+      {
+        "code": "AF",
+        "slug": "afghanistan"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change",
+    "climate-environment"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "defense-security",
+    "sanctions-economic-coercion",
+    "political-stability",
+    "migration-displacement",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "No recent comprehensive census and rapidly changing population estimates due to mass returns",
+    "Shallow formal finance and incomplete international banking connectivity",
+    "Reduced external assistance and humanitarian funding",
+    "Restrictions on female secondary, higher education and employment that weaken human-capital formation",
+    "Dependence on regional trade corridors vulnerable to political and border disruption",
+    "Climate, water and agricultural vulnerability",
+    "Limited transparency and comparability of fiscal, security and illicit-economy statistics"
+  ],
+  "selection_rationale": "Afghanistan is undergoing a consequential post-2021 state transformation: an externally financed republic and security state has been replaced by a smaller de facto order with stronger domestic revenue collection and territorial control but weaker formal finance, lower external assistance, severe human-capital restrictions and rapidly changing regional trade dependencies. The transition links institutions, security, migration, fiscal capacity, productive structure and regional infrastructure, with consequences that extend across South and Central Asia.",
+  "contrary_evidence": [
+    "Stronger revenue collection, territorial control and aggregate GDP growth provide evidence of administrative stabilization, but falling per-capita income and high subsistence insecurity contradict a simple recovery thesis.",
+    "The collapse in opium cultivation demonstrates unusually strong enforcement capacity, but lower farmer income, fallow land and synthetic-drug trafficking weaken the case that narcotics suppression has already become a sustainable rural transition.",
+    "Trade rerouting and projects such as CASA-1000 show functional regional integration, but banking isolation, expensive logistics and limited recognition continue to constrain long-horizon investment.",
+    "Nationwide conventional warfare has declined sharply relative to the pre-2021 period, while ISIL-K attacks, explosive remnants, rights violations and Afghanistan-Pakistan hostilities preserve significant security risk."
+  ],
+  "limitations": [
+    "Afghanistan has no recent comprehensive census; population estimates differ across institutions and are changing rapidly because of return migration.",
+    "World Bank and UNDP growth estimates use different periods, data vintages and methodologies and must not be merged into a single time series.",
+    "Public fiscal and security data are less transparent and independently auditable than in a normal statistical system.",
+    "Large infrastructure and mining projects are assessed by documented implementation milestones; announcements, geological potential and memoranda are not treated as realized productive capacity."
+  ],
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "1a7fee459c8708955b3aafc18b9ae23d184f4c5c",
+  "qa_fixes_applied": [
+    "Removed the generic `Executive assessment` / `Avaliação executiva` opening heading and preserved the thesis as direct institutional prose.",
+    "Replaced the exposed `Research question` / `Pergunta de pesquisa` scaffold with a finding-led section explaining the six mechanisms that separate stabilization from development.",
+    "Preserved all material numbers, dates, source attributions, causal claims and conclusions; the rework is editorial rather than factual.",
+    "Maintained EN/PT-BR semantic equivalence after restructuring."
+  ],
+  "url": "/reports/2026/09/2026-09-28-strategic-transition-afghanistan-post-2021.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-29T17:09:42-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "80e65f4db3ef8e0afc17808223379d1992c32a51",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Afghanistan after the aid-state: territorial consolidation, fiscal recomposition and the social limits of post-2021 stabilization",
+      "deck": "Five years after the Taliban takeover, Afghanistan combines stronger territorial control and domestic revenue collection with falling per-capita income, shallow finance, mass returns, restricted female education and employment, and growing dependence on regional corridors.",
+      "tags": [
+        "Afghanistan",
+        "Taliban",
+        "fiscal capacity",
+        "regional trade",
+        "human capital",
+        "opium",
+        "South Asia"
+      ],
+      "keywords": [
+        "Afghanistan post-2021 political economy",
+        "Taliban governance Afghanistan",
+        "Afghanistan domestic revenue",
+        "Afghanistan banking",
+        "Afghanistan Pakistan border trade",
+        "Afghanistan opium ban",
+        "Afghanistan girls education",
+        "Afghanistan regional integration"
+      ],
+      "regime": "Post-2021 low-income consolidation: stronger territorial control and domestic revenue coexist with weak per-capita growth, shallow formal finance, constrained human capital and heavy exposure to regional corridors and aid retrenchment.",
+      "key_risk": "The current equilibrium can preserve administrative control while living standards and productive capacity deteriorate if returnee pressure, aid cuts, border disruption, climate stress and human-capital losses outpace private investment.",
+      "watch": [
+        "Real GDP per capita and absorption of returnees into employment",
+        "Domestic revenue composition and public-service spending",
+        "Private credit, banking liquidity and international payment access",
+        "Pakistan border closures, civilian casualties and trade rerouting",
+        "Girls' secondary and university access and female employment",
+        "CASA-1000, Qosh Tepa and large mining-project execution",
+        "Opium cultivation, rural farm income and synthetic-drug trafficking"
+      ],
+      "search_text": "Afghanistan strategic transition post-2021 Taliban political economy domestic revenue banking trade Pakistan border migration girls education opium minerals CASA-1000 Qosh Tepa 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Afeganistão após o Estado financiado por ajuda: consolidação territorial, recomposição fiscal e os limites sociais da estabilização pós-2021",
+      "deck": "Cinco anos após a tomada de poder pelo Talibã, o Afeganistão combina maior controle territorial e arrecadação doméstica com queda da renda per capita, finanças rasas, retornos em massa, restrições à educação e ao trabalho feminino e dependência crescente de corredores regionais.",
+      "tags": [
+        "Afeganistão",
+        "Talibã",
+        "capacidade fiscal",
+        "comércio regional",
+        "capital humano",
+        "ópio",
+        "Sul da Ásia"
+      ],
+      "keywords": [
+        "economia política do Afeganistão pós-2021",
+        "governança Talibã Afeganistão",
+        "receita doméstica Afeganistão",
+        "sistema bancário Afeganistão",
+        "comércio fronteira Afeganistão Paquistão",
+        "proibição do ópio Afeganistão",
+        "educação de meninas Afeganistão",
+        "integração regional Afeganistão"
+      ],
+      "regime": "Consolidação de baixa renda pós-2021: maior controle territorial e receita doméstica coexistem com crescimento per capita fraco, finanças formais rasas, capital humano restringido e forte exposição a corredores regionais e retração da ajuda.",
+      "key_risk": "O equilíbrio atual pode preservar controle administrativo enquanto padrão de vida e capacidade produtiva se deterioram se pressão dos retornados, cortes de ajuda, interrupções fronteiriças, estresse climático e perdas de capital humano superarem o investimento privado.",
+      "watch": [
+        "PIB real per capita e absorção de retornados pelo emprego",
+        "Composição da receita doméstica e gasto em serviços públicos",
+        "Crédito privado, liquidez bancária e acesso a pagamentos internacionais",
+        "Fechamentos da fronteira com o Paquistão, vítimas civis e redirecionamento comercial",
+        "Acesso de meninas ao ensino secundário e universitário e emprego feminino",
+        "Execução do CASA-1000, Qosh Tepa e grandes projetos de mineração",
+        "Cultivo de ópio, renda rural e tráfico de drogas sintéticas"
+      ],
+      "search_text": "Afeganistão transição estratégica pós-2021 Talibã economia política receita doméstica bancos comércio Paquistão migração educação meninas ópio minerais CASA-1000 Qosh Tepa 2026"
+    }
+  }
+}
