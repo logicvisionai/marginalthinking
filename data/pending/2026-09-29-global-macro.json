@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-09-29",
+  "slug": "2026-09-29-global-macro",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T16:34:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-29-global-macro/en.md",
+      "title": "Global Macro — Asia-Pacific policy is splitting as Australia tightens and China targets cheaper credit",
+      "deck": "Australia raised its cash rate to 4.60% while China cut the one-year PSL rate to 1.50% and added targeted housing support, widening regional policy dispersion under a U.S. long-rate regime above 5%.",
+      "tags": [
+        "global macro",
+        "RBA",
+        "China",
+        "PSL",
+        "Treasuries",
+        "monetary policy",
+        "Asia-Pacific"
+      ],
+      "keywords": [
+        "Reserve Bank of Australia",
+        "Pledged Supplementary Lending",
+        "China credit policy",
+        "mortgage subsidy",
+        "Treasury yields",
+        "Australian dollar",
+        "Asia-Pacific monetary policy"
+      ],
+      "regime": "Policy dispersion under a high global discount rate: Australia is tightening against persistent inflation while China lowers selected financing costs to support investment and housing.",
+      "key_risk": "If U.S. long yields remain above 5% while Australia tightens and China expands targeted easing, cross-country divergence in currencies, credit conditions and duration-sensitive assets can widen.",
+      "watch": [
+        "Australia September inflation and subsequent RBA guidance",
+        "Take-up of China's PSL expansion and first-home mortgage subsidy",
+        "Chinese credit growth, infrastructure execution and housing transactions",
+        "U.S. PCE and whether the 10-year Treasury holds near the 5.2–5.3% area"
+      ],
+      "search_text": "Global Macro September 29 2026 RBA 4.60 China PSL 1.50 mortgage subsidy Treasury yields Asia-Pacific monetary policy divergence"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-29-global-macro/pt-BR.md",
+      "title": "Global Macro — A política econômica da Ásia-Pacífico se divide enquanto a Austrália aperta e a China barateia crédito direcionado",
+      "deck": "A Austrália elevou a taxa básica para 4,60%, enquanto a China reduziu a taxa de um ano do PSL para 1,50% e adicionou suporte habitacional direcionado, ampliando a dispersão regional sob juros longos dos EUA acima de 5%.",
+      "tags": [
+        "macro global",
+        "RBA",
+        "China",
+        "PSL",
+        "Treasuries",
+        "política monetária",
+        "Ásia-Pacífico"
+      ],
+      "keywords": [
+        "Reserve Bank of Australia",
+        "Pledged Supplementary Lending",
+        "política de crédito da China",
+        "subsídio hipotecário",
+        "juros dos Treasuries",
+        "dólar australiano",
+        "política monetária da Ásia-Pacífico"
+      ],
+      "regime": "Dispersão de política sob taxa global de desconto elevada: a Austrália aperta contra inflação persistente enquanto a China reduz custos de financiamento em canais selecionados para sustentar investimento e habitação.",
+      "key_risk": "Se os juros longos dos EUA permanecerem acima de 5% enquanto a Austrália aperta e a China amplia a flexibilização direcionada, a divergência entre moedas, crédito e ativos sensíveis à duração pode aumentar.",
+      "watch": [
+        "Inflação australiana de setembro e orientação posterior do RBA",
+        "Adesão à expansão do PSL e ao subsídio para primeira moradia na China",
+        "Crédito chinês, execução de infraestrutura e transações habitacionais",
+        "PCE dos EUA e permanência do Treasury de 10 anos perto da faixa de 5,2%–5,3%"
+      ],
+      "search_text": "Global Macro 29 setembro 2026 RBA 4,60 China PSL 1,50 subsídio hipotecário Treasuries Ásia-Pacífico divergência política monetária"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "asia-pacific"
+    ],
+    "subregions": [
+      "north-america",
+      "east-asia",
+      "oceania"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "banking-credit",
+    "capital-markets",
+    "currencies",
+    "infrastructure-logistics",
+    "energy"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0
+}
