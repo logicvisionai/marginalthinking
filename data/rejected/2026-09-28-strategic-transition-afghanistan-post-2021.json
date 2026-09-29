@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MT-ST-2026-09-28-afghanistan-post-2021",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-28T23:30:54-03:00",
+  "reviewed_commit": "66a9f8362d70eb4c563fd11a9d9e9d7aed2538b2",
+  "pending_blob_sha": "3ac7b6d2c1c368f1094cc754c00185bedca38d3b",
+  "source_blob_shas": {
+    "en": "90c36ec1109d5af6ee86e20602e3bddba853836a",
+    "pt-BR": "731f0546e1e7dbe3ef6e9fa77b476a4fb58b2072"
+  },
+  "program": "strategic-transitions",
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    {
+      "type": "editorial_publication_readiness",
+      "location": "EN immediately after H1: `## Executive assessment`; PT-BR equivalent `## Avaliação executiva`",
+      "evidence": "The mandatory publication gate explicitly rejects a generic Executive assessment/Avaliação executiva heading after H1. Both locales expose this template structure before a long assessment block."
+    },
+    {
+      "type": "editorial_density",
+      "location": "Opening assessment and subsequent `Research question` / `Pergunta de pesquisa`",
+      "evidence": "The opening repeatedly explains the analytical method and then restates the report question, producing visible research-template scaffolding instead of a direct institutional opening."
+    }
+  ],
+  "required_fixes": [
+    "Remove the generic Executive assessment/Avaliação executiva heading and rewrite the opening as 1–3 direct thesis paragraphs or a finding-specific subtitle.",
+    "Condense methodological scaffolding in the opening; preserve evidence qualifications but integrate them naturally into the argument.",
+    "Keep EN/PT-BR semantically equivalent after restructuring; do not change material numbers, dates, causal claims or conclusions without revalidating them and documenting the delta."
+  ],
+  "checks": {
+    "taxonomy": "passed on controlled program/dimensions/phenomena structure",
+    "editorial_publication_readiness": "failed",
+    "visual_evidence_readiness": "not determinative because editorial gate already blocks publication",
+    "factual_methodological": "not approved; factual clearance must be rerun after the editorial rewrite if any material claim changes"
+  },
+  "notes": "Rejected before materialization. No public bundle existed at the mandatory pre-write public-state recheck. Current SHA tuple is exact."
+}
