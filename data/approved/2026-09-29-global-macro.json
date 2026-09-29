@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-29",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-29T16:48:41-03:00",
+  "reviewed_commit": "94dcf187582b39a0b0d8af7110513fe17da4302d",
+  "pending_blob_sha": "6c5bcd91f85d59d9fc053fee229c0b6e30186ea4",
+  "source_blob_shas": {
+    "en": "78584ddb3f04a061fac5575c66a9398403e34318",
+    "pt-BR": "772678c282f358e95fa173d4e82cdac8ac6537b0"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central policy facts were checked against the 29 September RBA decision, PBOC primary material reproduced from the central bank's release, the official first-home mortgage subsidy summary, and contemporaneous market-rate reporting. The report distinguishes the RBA cash-rate target from China's targeted PSL and housing instruments rather than treating them as economically equivalent."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "The daily Global Macro classification remains within political-economy-markets with controlled economy/politics dimensions, global geography, approved topics, empty phenomena array, brief format and daily cadence."
+    },
+    "translation": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same thesis, numbers, instrument distinctions, table, basis-point chart, causal flow, uncertainty and falsifiers."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The prose is thesis-led and substantive. No process narration, QA language, product metadiscourse, reader instruction or research self-reference was detected under the 29 September strict editorial gate."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report links domestic inflation, targeted Chinese credit support, Treasury yields, currency transmission and duration-sensitive assets without repeating the 28 September refined-products thesis."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 analytical Markdown table + 1 explicit basis-point bar chart + 1 causal flow in each locale",
+      "summary": "Both locales meet the brief visual floor. The chart compares direction and size of announced changes while explicitly stating that the RBA cash rate and PSL are not economically equivalent instruments."
+    },
+    "novelty_repetition": {
+      "result": "passed",
+      "summary": "The 28 September daily centered on refined-product inflation transmission. The 29 September edition instead leads with Asia-Pacific policy divergence after the RBA hike and China's targeted easing."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Policy actions and geopolitical/market context are described factually without endorsements, rankings, electoral recommendations or outcome predictions."
+    }
+  },
+  "contrary_evidence": [
+    "China's targeted PSL and mortgage measures may have weak take-up or fail to produce a material acceleration in credit, housing transactions or project execution.",
+    "Australian inflation may cool enough to halt additional tightening, while a fall in U.S. long yields could reduce the cross-country policy and funding dispersion emphasized in the thesis."
+  ],
+  "limitations": [
+    "U.S. Treasury yields, the Australian dollar and other market levels cited for 29 September are intraday and time-sensitive.",
+    "The one-year PSL rate is a targeted funding facility for policy banks and is not equivalent to an economy-wide benchmark policy rate.",
+    "The Chinese mortgage subsidy applies only to eligible new first-home commercial mortgages under stated size, price and loan limits and begins on 1 October.",
+    "The transmission from cheaper targeted credit to realized investment or housing activity depends on borrower demand, bank behavior and project execution."
+  ],
+  "notes": "QA reviewed the exact current v2 pending sidecar and EN/PT-BR staged blobs after producer merge 94dcf187582b39a0b0d8af7110513fe17da4302d. No public bundle for MT-GM-2026-09-29 existed at review start.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-29",
+    "slug": "2026-09-29-global-macro",
+    "date": "2026-09-29",
+    "published_at": "2026-09-29T16:34:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-29-global-macro/en.md",
+        "title": "Global Macro — Asia-Pacific policy is splitting as Australia tightens and China targets cheaper credit",
+        "deck": "Australia raised its cash rate to 4.60% while China cut the one-year PSL rate to 1.50% and added targeted housing support, widening regional policy dispersion under a U.S. long-rate regime above 5%.",
+        "tags": [
+          "global macro",
+          "RBA",
+          "China",
+          "PSL",
+          "Treasuries",
+          "monetary policy",
+          "Asia-Pacific"
+        ],
+        "keywords": [
+          "Reserve Bank of Australia",
+          "Pledged Supplementary Lending",
+          "China credit policy",
+          "mortgage subsidy",
+          "Treasury yields",
+          "Australian dollar",
+          "Asia-Pacific monetary policy"
+        ],
+        "regime": "Policy dispersion under a high global discount rate: Australia is tightening against persistent inflation while China lowers selected financing costs to support investment and housing.",
+        "key_risk": "If U.S. long yields remain above 5% while Australia tightens and China expands targeted easing, cross-country divergence in currencies, credit conditions and duration-sensitive assets can widen.",
+        "watch": [
+          "Australia September inflation and subsequent RBA guidance",
+          "Take-up of China's PSL expansion and first-home mortgage subsidy",
+          "Chinese credit growth, infrastructure execution and housing transactions",
+          "U.S. PCE and whether the 10-year Treasury holds near the 5.2–5.3% area"
+        ],
+        "search_text": "Global Macro September 29 2026 RBA 4.60 China PSL 1.50 mortgage subsidy Treasury yields Asia-Pacific monetary policy divergence"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-29-global-macro/pt-BR.md",
+        "title": "Global Macro — A política econômica da Ásia-Pacífico se divide enquanto a Austrália aperta e a China barateia crédito direcionado",
+        "deck": "A Austrália elevou a taxa básica para 4,60%, enquanto a China reduziu a taxa de um ano do PSL para 1,50% e adicionou suporte habitacional direcionado, ampliando a dispersão regional sob juros longos dos EUA acima de 5%.",
+        "tags": [
+          "macro global",
+          "RBA",
+          "China",
+          "PSL",
+          "Treasuries",
+          "política monetária",
+          "Ásia-Pacífico"
+        ],
+        "keywords": [
+          "Reserve Bank of Australia",
+          "Pledged Supplementary Lending",
+          "política de crédito da China",
+          "subsídio hipotecário",
+          "juros dos Treasuries",
+          "dólar australiano",
+          "política monetária da Ásia-Pacífico"
+        ],
+        "regime": "Dispersão de política sob taxa global de desconto elevada: a Austrália aperta contra inflação persistente enquanto a China reduz custos de financiamento em canais selecionados para sustentar investimento e habitação.",
+        "key_risk": "Se os juros longos dos EUA permanecerem acima de 5% enquanto a Austrália aperta e a China amplia a flexibilização direcionada, a divergência entre moedas, crédito e ativos sensíveis à duração pode aumentar.",
+        "watch": [
+          "Inflação australiana de setembro e orientação posterior do RBA",
+          "Adesão à expansão do PSL e ao subsídio para primeira moradia na China",
+          "Crédito chinês, execução de infraestrutura e transações habitacionais",
+          "PCE dos EUA e permanência do Treasury de 10 anos perto da faixa de 5,2%–5,3%"
+        ],
+        "search_text": "Global Macro 29 setembro 2026 RBA 4,60 China PSL 1,50 subsídio hipotecário Treasuries Ásia-Pacífico divergência política monetária"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "east-asia",
+        "oceania"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "banking-credit",
+      "capital-markets",
+      "currencies",
+      "infrastructure-logistics",
+      "energy"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "producer_checks": {
+      "verified_at": "2026-09-29T16:34:00-03:00",
+      "primary_sources": [
+        "Reserve Bank of Australia",
+        "People's Bank of China"
+      ],
+      "bilingual_parity": "checked",
+      "visual_signature": "1 Markdown table + 1 explicit basis-point bar chart + 1 causal flow per locale",
+      "novelty_against_previous_daily": "checked against 2026-09-28; lead thesis changed from refined-product inflation transmission to Asia-Pacific policy divergence"
+    }
+  }
+}
