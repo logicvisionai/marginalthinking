@@ -1,7 +1,5 @@
 # Afeganistão após o Estado financiado por ajuda: consolidação territorial, recomposição fiscal e os limites sociais da estabilização pós-2021
 
-## Avaliação executiva
-
 O Afeganistão atravessa há cinco anos uma transição estrutural que é mais profunda do que uma simples mudança de governo. A república apoiada internacionalmente que colapsou em agosto de 2021 era sustentada por uma arquitetura fiscal, securitária e de ajuda externa excepcionalmente grande. Em 2019, grants externos financiavam mais de três quartos do gasto público total, enquanto a segurança absorvia parcela elevada do envelope fiscal. A ordem pós-2021 passou a operar com uma base de recursos públicos muito menor, acesso restrito ao sistema financeiro internacional, ativos do banco central congelados ou administrados externamente, forte redução da assistência ao desenvolvimento e ausência de reconhecimento internacional amplo.
 
 O sistema resultante não é nem um simples colapso econômico nem uma recuperação convencional. As autoridades de facto consolidaram controle territorial e administrativo, elevaram a arrecadação doméstica, reduziram a escala da guerra convencional em âmbito nacional em comparação com o período anterior a 2021 e mantiveram uma moeda relativamente estável. O Banco Mundial estima crescimento real do PIB de 4,8% em 2025 e receita doméstica equivalente a 19,8% do PIB. A mesma atualização, porém, estima que o rápido crescimento populacional associado ao retorno em massa de afegãos provocou queda de 5,6% do PIB per capita. Separadamente, o PNUD estima que 74% dos afegãos não conseguiam atender às necessidades básicas de subsistência em 2025. Essas observações são compatíveis: a produção agregada pode se recuperar enquanto o padrão de vida piora quando população, baixo investimento e redução da ajuda crescem ou se deterioram mais rapidamente que a capacidade produtiva.
@@ -16,13 +14,9 @@ A avaliação central é, portanto, de **confiança média**: o Afeganistão pas
 
 **Corte de informação: 28 de setembro de 2026.**
 
-## Pergunta de pesquisa
+## Seis mecanismos separam estabilização de desenvolvimento
 
-A pergunta relevante não é se o Afeganistão é "estável" ou "instável" em abstrato. É:
-
-**Que tipo de economia política emergiu após o colapso da república financiada por ajuda externa, quais componentes da capacidade estatal se fortaleceram, quais capacidades encolheram e quais mecanismos poderiam converter o equilíbrio atual em normalização econômica duradoura ou em estagnação prolongada de baixa renda?**
-
-Responder exige separar pelo menos seis objetos que frequentemente são fundidos numa única narrativa:
+O equilíbrio atual não pode ser avaliado por um único rótulo como “estável” ou “instável”. Controle territorial, bem-estar das famílias, capacidade fiscal, finanças, transformação rural e produção comercialmente viável respondem a mecanismos diferentes e podem melhorar ou piorar ao mesmo tempo. A análise, portanto, mantém seis distinções explícitas:
 
 1. controle territorial de inclusão política;
 2. recuperação do PIB agregado de bem-estar per capita;

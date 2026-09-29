@@ -1,7 +1,5 @@
 # Afghanistan after the aid-state: territorial consolidation, fiscal recomposition and the social limits of post-2021 stabilization
 
-## Executive assessment
-
 Afghanistan is five years into a structural transition that is more consequential than a change of government. The internationally backed republic that collapsed in August 2021 was supported by an unusually large external fiscal, security and aid architecture. In 2019 grants financed more than three quarters of total public expenditure, and security spending absorbed a large share of the fiscal envelope. The post-2021 order has had to operate with a much smaller public resource base, restricted access to the international financial system, frozen or externally administered central-bank assets, sharply lower development assistance, and no broad international recognition.
 
 The resulting system is neither a simple economic collapse nor a conventional recovery. The de facto authorities have consolidated territorial and administrative control, increased domestic revenue collection, reduced the scale of nationwide conventional warfare relative to the pre-2021 period, and maintained a comparatively stable currency. The World Bank estimates real GDP grew 4.8 percent in 2025 and domestic revenue reached 19.8 percent of GDP. Yet the same World Bank update estimates that rapid population growth associated with mass returns drove GDP per capita down 5.6 percent. UNDP separately estimates that 74 percent of Afghans were unable to meet basic subsistence needs in 2025. These observations are compatible: aggregate output can recover while living standards fall when population growth, weak investment and reduced aid expand faster than productive capacity.
@@ -16,13 +14,9 @@ The central assessment is therefore **medium confidence**: Afghanistan has moved
 
 **Information cutoff: 28 September 2026.**
 
-## Research question
+## Six mechanisms separate stabilization from development
 
-The relevant question is not whether Afghanistan is "stable" or "unstable" in the abstract. It is:
-
-**What kind of political economy has emerged after the collapse of the aid-financed republic, which components of state capacity have strengthened, which capabilities have contracted, and what mechanisms could turn the current equilibrium into either durable economic normalization or prolonged low-income stagnation?**
-
-The answer requires separating at least six objects that are often collapsed into one narrative:
+The current equilibrium cannot be assessed with a single label such as “stable” or “unstable.” Territorial control, household welfare, fiscal capacity, finance, rural transformation and commercially investable production move through different mechanisms and can improve or deteriorate at the same time. The analysis therefore keeps six distinctions explicit:
 
 1. territorial control from political inclusion;
 2. aggregate GDP recovery from per-capita welfare;
