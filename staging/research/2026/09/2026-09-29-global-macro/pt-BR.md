@@ -88,6 +88,7 @@ O sinal marginal de 29 de setembro é a passagem de um choque comum para respost
 ## Fontes
 
 - Reserve Bank of Australia, “Statement by the Monetary Policy Board: Monetary Policy Decision”, 29 de setembro de 2026: https://www.rba.gov.au/media-releases/2026/mr-26-27.html
+- People’s Bank of China, “Ajuste e aperfeiçoamento de instrumentos de política monetária”, 29 de setembro de 2026, reprodução da Xinhua a partir do site do PBOC: https://www.xinhuanet.com/fortune/20260929/2a939258069e4e768a06ffdc04e11eed/c.html
 - Reuters, “China unveils rate cut, mortgage subsidies to spur growth”, 29 de setembro de 2026: https://www.reuters.com/world/asia-pacific/china-unveils-rate-cut-mortgage-subsidies-spur-growth-2026-09-29/
 - Xinhua / Ministério das Finanças, resumo da política de subsídio a juros para primeira moradia, 29 de setembro de 2026: https://m.12371.gov.cn/content/2026-09/29/content_516349.html
 - Reuters, “Dollar gains as Treasury yields top 5%, Aussie slides after RBA hike”, 29 de setembro de 2026: https://www.reuters.com/world/africa/dollar-hold-near-two-month-peak-yields-rise-fed-data-looms-2026-09-29/
