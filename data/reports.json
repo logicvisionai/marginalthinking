@@ -1,5 +1,127 @@
 [
   {
+    "id": "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+    "slug": "2026-09-28-strategic-transition-hong-kong-institutional-financial-transition",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T17:12:00-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "HK",
+          "slug": "hong-kong"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "sanctions-economic-coercion",
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium-high",
+    "key_constraints": [
+      "Hong Kong's financial connector role increasingly depends on Mainland issuers and investors while international participation remains necessary for its offshore function",
+      "The Linked Exchange Rate System imports U.S. dollar monetary conditions and limits independent countercyclical interest-rate policy",
+      "Commercial real estate remains a material financial-sector risk even as residential property has broadly stabilised",
+      "Land-premium revenue has weakened while Northern Metropolis and other infrastructure require large capital expenditure and greater bond issuance",
+      "Rapid ageing and low natural population growth reduce labour-force participation, increasing reliance on talent and labour inflows",
+      "The Northern Metropolis must compete with nearby Shenzhen on industrial costs while relying on Hong Kong's finance, universities and institutional differentiation",
+      "Geopolitical and legal divergence between China and Western jurisdictions raises compliance costs for global firms using Hong Kong as an interface"
+    ],
+    "selection_rationale": "Hong Kong is undergoing a structural transition in which deeper integration with Mainland China's capital markets, technology system and spatial planning is occurring alongside continued operation of a separate currency, open capital account, tax system, customs territory and common-law commercial architecture. Strong 2025-26 capital-market recovery, a new infrastructure-and-technology planning cycle, demographic migration offsets and post-2020 institutional changes interact across economy, politics and society, making the case materially consequential and not reducible to a conventional country profile.",
+    "url": "/reports/2026/09/2026-09-28-strategic-transition-hong-kong-institutional-financial-transition.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-28T19:38:53-03:00",
+    "qa_confidence": "medium-high",
+    "qa_reviewed_commit": "692f0d3591ced0bdaa1ba8fc1737aae22efab4d0",
+    "markdown": "en.md",
+    "title": "Hong Kong's institutional-financial transition: deeper Mainland integration, global capital intermediation and the narrowing margin for policy autonomy",
+    "deck": "Hong Kong is becoming more tightly integrated with Mainland China's financial, technological and spatial systems while retaining a separate currency, capital account, tax regime, customs territory and common-law commercial architecture. Its future value depends on whether deeper integration creates more flow than it removes jurisdictional differentiation.",
+    "tags": [
+      "Hong Kong",
+      "China",
+      "HKEX",
+      "HKD",
+      "Greater Bay Area",
+      "Northern Metropolis",
+      "Stock Connect",
+      "financial centre",
+      "property"
+    ],
+    "keywords": [
+      "Hong Kong political economy 2026",
+      "Hong Kong financial centre",
+      "Hong Kong China integration",
+      "Hong Kong HKD peg",
+      "Hong Kong Stock Connect",
+      "Hong Kong IPO market",
+      "Hong Kong property market",
+      "Hong Kong Northern Metropolis",
+      "Hong Kong national security law economy",
+      "Hong Kong Greater Bay Area"
+    ],
+    "regime": "Institutional-financial transition toward deeper Mainland integration while a separate currency, open capital account, tax system, customs territory and common-law commercial infrastructure continue to support international intermediation.",
+    "key_risk": "Hong Kong's connector model weakens if geopolitical and legal friction reduces international participation faster than Mainland integration expands capital flows, or if property and infrastructure balance-sheet pressures erode domestic resilience.",
+    "watch": [
+      "HKEX market capitalisation, IPO fundraising and international versus Mainland investor participation",
+      "Stock Connect, Bond Connect and Wealth Management Connect flows",
+      "HKD convertibility-zone activity, Aggregate Balance, HIBOR and Exchange Fund assets",
+      "Commercial-property vacancy, bank asset quality and residential transaction activity",
+      "Fiscal reserves, land-premium revenue, capital expenditure and government bond issuance",
+      "Northern Metropolis land delivery, private R&D investment and industrial employment",
+      "Population, net migration, labour-force participation and Top Talent Pass retention",
+      "Multinational treasury, dispute-resolution, asset-management and headquarters functions"
+    ],
+    "search_text": "Hong Kong 2026 political economy financial centre HKEX HKD linked exchange rate Mainland China Greater Bay Area Stock Connect Bond Connect property Northern Metropolis population national security institutional transition",
+    "markdown_url": "/reports/2026/09/2026-09-28-strategic-transition-hong-kong-institutional-financial-transition/en.md"
+  },
+  {
     "id": "MT-WF-2026-09-28",
     "slug": "2026-09-28-global-wealth-flow-weekly",
     "date": "2026-09-28",
