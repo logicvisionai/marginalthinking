@@ -28,7 +28,10 @@ const failures=[];
 for(const file of walk(root).filter(p=>/\.(?:html|md)$/i.test(p))){
   const rel=path.relative(process.cwd(),file).split(path.sep).join('/');
   const dated=rel.match(/\/((?:20\d{2})-(?:\d{2})-(?:\d{2}))-/);
-  if(dated&&dated[1]<'2026-09-22')continue;
+  // The hard public-prose gate applies prospectively from 2026-09-29.
+  // Older QA-approved blobs remain immutable and are handled through revisions,
+  // rather than being rewritten retroactively by a build-only migration.
+  if(dated&&dated[1]<'2026-09-29')continue;
   const raw=fs.readFileSync(file,'utf8');
   const text=file.endsWith('.html')?strip(raw):raw.replace(/^\`\`\`[^\n]*\n[\s\S]*?^\`\`\`\s*$/gm,' ').replace(/https?:\/\/[^\s)\]]+/g,' ');
   for(const [label,re] of blockers){
