@@ -104,8 +104,9 @@ for(const file of pendingFiles){
   if(!p?.id){fail.push(`${file}: id ausente`);continue;}
   const pendingRevision=Number.isInteger(p.revision)?p.revision:0;
   const publicRevision=publicRevisions.get(p.id);
-  const isNewerRevision=publicRevision!==undefined&&pendingRevision>publicRevision;
-  if(publicIds.has(p.id)&&!isNewerRevision){if((p.schema_version||1)<2)legacyPublished++;continue;}
+  const isV2=(p.schema_version||1)>=2;
+  const isNewerRevision=isV2&&publicRevision!==undefined&&pendingRevision>publicRevision;
+  if(publicIds.has(p.id)&&(!isV2||!isNewerRevision)){if(!isV2)legacyPublished++;continue;}
   active++;
   if(p.schema_version!==2)fail.push(`${file}: item ainda não publicado deve usar schema_version 2`);
   for(const key of ['ready','id','slug','date','published_at','kind','priority','source_locale','sources',...requiredTaxonomy])if(p[key]===undefined||p[key]===null)fail.push(`${file}: ${key} ausente`);
