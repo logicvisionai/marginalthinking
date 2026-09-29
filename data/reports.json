@@ -361,6 +361,186 @@
     }
   },
   {
+    "id": "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+    "slug": "2026-09-28-strategic-transition-taiwan-semiconductor-political-economy",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T16:44:00-03:00",
+    "kind": "strategic-transition",
+    "priority": 35,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "TW",
+          "slug": "taiwan"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium-high",
+    "key_constraints": [
+      "Leading-edge semiconductor capacity is geographically concentrated while relying on global equipment, materials, customers and logistics",
+      "Taiwan imports most primary energy and relies heavily on seaborne LNG and coal, making electricity resilience dependent on maritime access, storage and grid redundancy",
+      "Rapid aging and very low fertility constrain engineering, healthcare, construction and defense manpower simultaneously",
+      "AI and semiconductor demand currently dominate export and investment growth, increasing exposure to a concentrated technology cycle",
+      "Cross-Strait military, economic and political pressure creates physical and confidence risks that large financial reserves cannot fully hedge",
+      "Divided government and constitutional disputes can delay budget execution, energy policy, industrial measures and defense procurement",
+      "Water availability, grid quality, land and climate hazards constrain further concentration of advanced manufacturing in the western industrial corridor"
+    ],
+    "selection_rationale": "Taiwan is undergoing a consequential structural transition in which an AI-driven export boom, further concentration of leading-edge semiconductor production, a sharp reorientation of export demand toward the United States, demographic contraction, energy-security constraints and persistent cross-Strait military pressure are increasingly interacting. The case links economy, politics and society through observable production, infrastructure, institutional and security mechanisms and has direct transmission to global technology, trade and capital allocation.",
+    "contrary_evidence": [
+      "The U.S. overtook mainland China and Hong Kong combined as Taiwan's largest export destination in 2025, but cross-Strait trade, investment and production networks remain large; the evidence supports rebalancing rather than decoupling.",
+      "TSMC is expanding capacity in the United States, Japan and Germany, but it is simultaneously adding leading-edge 2nm and advanced-packaging capacity in Taiwan; overseas diversification does not yet demonstrate domestic hollowing-out.",
+      "Taiwan's large current-account surplus and foreign-exchange reserves provide financial resilience but cannot substitute for imported energy, shipping access, water, electricity or critical production inputs during a physical disruption.",
+      "Competitive elections, alternation in power and constitutional review support institutional resilience, while divided government and budget disputes show that democratic checks can also slow policy execution.",
+      "Semiconductor concentration creates strong global incentives to avoid disruption, but there is no empirical basis for treating the so-called silicon shield as an automatic military deterrent.",
+      "Higher defense spending, longer conscription and civil-resilience planning increase capacity, while demographic decline, procurement delays and infrastructure dependencies limit the inference that spending alone determines readiness."
+    ],
+    "limitations": [
+      "The legal and diplomatic status of Taiwan is contested. The research separates effective administration, constitutional claims, diplomatic recognition and institutional participation rather than adopting one actor's sovereignty formulation as fact.",
+      "PRC, Taiwan, U.S. and other official security statements are strategic communications as well as policy evidence; intentions are not inferred mechanically from military-activity counts or official rhetoric.",
+      "Semiconductor capacity and trade concentration are observable, but their effect on deterrence and crisis decisions is inferential.",
+      "Long-run demographic figures are conditional projections based on fertility, mortality and migration assumptions, not deterministic forecasts.",
+      "Military readiness, ammunition stocks, classified intelligence and crisis plans cannot be independently measured from public data with the same precision as macroeconomic or trade variables.",
+      "Exceptional 2025-2026 GDP and export growth reflects a concentrated AI and semiconductor cycle and should not be extrapolated mechanically as Taiwan's long-run trend growth."
+    ],
+    "url": "/reports/2026/09/2026-09-28-strategic-transition-taiwan-semiconductor-political-economy.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-29T06:05:36-03:00",
+    "qa_confidence": "medium-high",
+    "qa_reviewed_commit": "118364749de008e80836b3ed3f2c00c3f891fc24",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Taiwan's semiconductor-centered political economy: democratic consolidation, external surplus and strategic exposure across the Strait",
+        "deck": "Taiwan's AI-led export boom and semiconductor concentration increase its global economic importance while imported energy, rapid aging, divided government and cross-Strait military pressure make resilience a problem of infrastructure and institutions as much as technology.",
+        "tags": [
+          "Taiwan",
+          "semiconductors",
+          "TSMC",
+          "artificial intelligence",
+          "Taiwan Strait",
+          "trade",
+          "energy",
+          "demography"
+        ],
+        "keywords": [
+          "Taiwan political economy 2026",
+          "Taiwan semiconductor industry",
+          "TSMC advanced semiconductor manufacturing",
+          "Taiwan China trade",
+          "Taiwan United States trade",
+          "Taiwan energy security",
+          "Taiwan demographics",
+          "Taiwan Strait security",
+          "Taiwan democratic institutions",
+          "Taiwan AI exports"
+        ],
+        "regime": "AI-accelerated export industrialization under strategic rebalancing: leading-edge semiconductor concentration and large external surpluses coexist with imported-energy dependence, demographic contraction, divided government and persistent cross-Strait military pressure.",
+        "key_risk": "Taiwan's financial buffers and semiconductor leadership cannot by themselves offset a physical disruption to maritime energy, logistics, electricity, water or critical imported inputs; resilience depends on infrastructure, institutional execution and supply-chain redundancy as much as foreign-exchange capacity.",
+        "watch": [
+          "DGBAS real GDP, private investment and manufacturing value added",
+          "U.S. versus China/Hong Kong export shares and national non-semiconductor exports",
+          "TSMC 2nm/A16 ramp, advanced packaging and Taiwan versus overseas capital investment",
+          "Current-account surplus, foreign-exchange reserves and NT dollar policy",
+          "Electricity demand, LNG inventories, grid reserve margins and renewable operating capacity",
+          "Population, fertility, engineering labor supply and skilled migration",
+          "Legislative budget execution, Constitutional Court functionality and defense procurement",
+          "PLA air, naval and coast-guard activity around Taiwan without inferring intent from activity counts alone"
+        ],
+        "search_text": "Taiwan 2026 political economy semiconductor TSMC AI exports external surplus energy security demographics democracy Taiwan Strait China United States Japan cross-Strait trade defense resilience"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "A economia política de Taiwan centrada em semicondutores: consolidação democrática, superávit externo e exposição estratégica no Estreito",
+        "deck": "O boom exportador de IA e a concentração de semicondutores ampliam a importância econômica global de Taiwan, enquanto energia importada, envelhecimento rápido, governo dividido e pressão militar através do Estreito tornam a resiliência um problema de infraestrutura e instituições tanto quanto de tecnologia.",
+        "tags": [
+          "Taiwan",
+          "semicondutores",
+          "TSMC",
+          "inteligência artificial",
+          "Estreito de Taiwan",
+          "comércio",
+          "energia",
+          "demografia"
+        ],
+        "keywords": [
+          "economia política Taiwan 2026",
+          "indústria de semicondutores Taiwan",
+          "TSMC manufatura avançada semicondutores",
+          "comércio Taiwan China",
+          "comércio Taiwan Estados Unidos",
+          "segurança energética Taiwan",
+          "demografia Taiwan",
+          "segurança Estreito de Taiwan",
+          "instituições democráticas Taiwan",
+          "exportações IA Taiwan"
+        ],
+        "regime": "Industrialização exportadora acelerada pela IA sob reequilíbrio estratégico: concentração de semicondutores de ponta e grandes superávits externos coexistem com dependência de energia importada, contração demográfica, governo dividido e pressão militar persistente através do Estreito.",
+        "key_risk": "Os amortecedores financeiros e a liderança em semicondutores não conseguem, sozinhos, compensar uma interrupção física de energia marítima, logística, eletricidade, água ou insumos críticos importados; a resiliência depende de infraestrutura, execução institucional e redundância de cadeias tanto quanto de reservas cambiais.",
+        "watch": [
+          "PIB real, investimento privado e valor adicionado industrial da DGBAS",
+          "Participação dos EUA versus China/Hong Kong nas exportações e exportações nacionais fora de semicondutores",
+          "Expansão de 2nm/A16 da TSMC, encapsulamento avançado e investimento de capital em Taiwan versus exterior",
+          "Superávit em conta corrente, reservas cambiais e política para o dólar taiwanês",
+          "Demanda elétrica, estoques de LNG, margem de reserva da rede e capacidade renovável em operação",
+          "População, fecundidade, oferta de engenheiros e migração qualificada",
+          "Execução orçamentária legislativa, funcionamento da Corte Constitucional e compras de defesa",
+          "Atividade aérea, naval e da guarda costeira da RPC ao redor de Taiwan sem inferir intenção apenas das contagens de atividade"
+        ],
+        "search_text": "Taiwan 2026 economia política semicondutores TSMC IA exportações superávit externo segurança energética demografia democracia Estreito de Taiwan China Estados Unidos Japão comércio defesa resiliência"
+      }
+    }
+  },
+  {
     "id": "MT-WF-2026-09-28",
     "slug": "2026-09-28-global-wealth-flow-weekly",
     "date": "2026-09-28",
