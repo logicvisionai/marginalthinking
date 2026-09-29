@@ -1,0 +1,179 @@
+{
+  "id": "MT-CC-2026-09-28-singapore",
+  "slug": "2026-09-28-country-context-singapore",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T16:44:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "asia-pacific"
+    ],
+    "subregions": [
+      "southeast-asia"
+    ],
+    "countries": [
+      {
+        "code": "SG",
+        "slug": "singapore"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change",
+    "climate-environment"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "phenomena": [
+    "strategic-competition",
+    "defense-security",
+    "political-stability",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "assessment_confidence": "medium-high",
+  "selection_rationale": "Published canonical research already treats Temasek and Singapore's sovereign-capital architecture as a material transmission mechanism, but the corpus lacks country-level context connecting reserves, CPF, public housing, land, monetary policy, logistics, finance, industrial upgrading, foreign labour, demography and external strategy. This dossier supplies that reusable structural context without duplicating the existing actor studies.",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-SA-2026-09-23-TEMASEK",
+    "MT-SA-2026-09-19-sovereign-capital"
+  ],
+  "contrary_evidence": [
+    "Singapore's high gross public-debt ratio is not evidence of conventional fiscal distress because the Government reports a positive net asset position and most borrowing proceeds cannot finance recurrent spending; gross liabilities still require prudent management.",
+    "Public housing supports unusually broad owner-occupation, while 99-year lease decay, affordability and CPF withdrawals create genuine intergenerational and retirement trade-offs.",
+    "Foreign labour materially expands productive capacity, but it also creates a segmented labour market and additional housing, transport and social-integration pressures.",
+    "Singapore's port, financial and legal ecosystems are dense and difficult to reproduce quickly, while neighbouring economies continue improving infrastructure, talent and direct-connectivity alternatives.",
+    "Semiconductor investment is structurally important, but Singapore does not control the global leading-edge logic foundry chokepoint and remains heavily dependent on multinational firms and imported technology.",
+    "Deep security ties with the United States and deep economic relations with China coexist; the evidence supports issue-specific diversification rather than simple geopolitical equidistance or exclusive alignment."
+  ],
+  "limitations": [
+    "The total value of Singapore's national reserves is not publicly disclosed, and GIC does not disclose assets under management; third-party AUM estimates should not be treated as official figures.",
+    "Temasek's publicly reported net portfolio value is not equivalent to the stock of national reserves.",
+    "EDB fixed-asset-investment commitments are expected projects and should not be treated as already-realised investment.",
+    "The 6 GW low-carbon electricity-import target is planned capacity for 2035, not operating supply today.",
+    "Population statistics distinguish citizens, permanent residents and non-residents; total population alone obscures labour-market, infrastructure and political implications.",
+    "Political and civil-liberties assessments use source classes with different functions: official sources establish laws and institutional design, while external rights organisations provide attributed criticism and case-based evidence."
+  ],
+  "url": "/reports/2026/09/2026-09-28-country-context-singapore.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-09-28T21:40:00-03:00",
+  "qa_confidence": "medium-high",
+  "qa_reviewed_commit": "c45a5bcc0956c5079128d4c0966f71019aec00d0",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Singapore: sovereign balance-sheet capitalism, logistics density and the constraints of a small open state",
+      "deck": "Singapore converts land scarcity and external dependence into a dense system of public housing, compulsory savings, sovereign assets, ports, finance and advanced manufacturing; its next constraint is whether productivity and regional integration can offset ageing, imported energy and geopolitical fragmentation.",
+      "tags": [
+        "Singapore",
+        "Temasek",
+        "GIC",
+        "CPF",
+        "HDB",
+        "port logistics",
+        "asset management",
+        "semiconductors",
+        "ASEAN"
+      ],
+      "keywords": [
+        "Singapore political economy",
+        "Singapore sovereign reserves",
+        "Temasek GIC",
+        "Singapore CPF HDB",
+        "Singapore public debt",
+        "Singapore monetary policy SNEER",
+        "Singapore port Tuas",
+        "Singapore semiconductors",
+        "Singapore demographics immigration",
+        "Singapore US China ASEAN"
+      ],
+      "regime": "Sovereign balance-sheet capitalism in a logistics-financial city-state: private markets and multinational firms generate much of production and trade while public land, compulsory savings, reserves and specialised agencies shape long-horizon capital allocation and infrastructure.",
+      "key_risk": "The model depends on continued external connectivity: geopolitical fragmentation, imported-energy disruption, ageing, land and water constraints, or loss of multinational and financial intermediation could raise domestic costs faster than productivity and regional integration can offset them.",
+      "watch": [
+        "Labour productivity and value added per worker outside finance and electronics",
+        "Container throughput, transshipment share and Tuas Port productivity",
+        "Asset-management AUM, FDI and regional-headquarters activity",
+        "NIRC, GIC long-horizon real returns and Temasek portfolio returns",
+        "HDB affordability, CPF housing withdrawals and retirement adequacy",
+        "Citizen, permanent-resident and non-resident population composition, fertility and ageing",
+        "Gas dependence, low-carbon power imports, water demand and desalination/recycling capacity",
+        "Johor-Singapore RTS, Special Economic Zone and ASEAN integration"
+      ],
+      "search_text": "Singapore country context political economy sovereign balance sheet Temasek GIC CPF HDB public debt reserves SNEER port Tuas Changi semiconductors energy water immigration demographics PAP ASEAN Johor 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Cingapura: capitalismo de balanço soberano, densidade logística e os limites de um pequeno Estado aberto",
+      "deck": "Cingapura converte escassez de terra e dependência externa em um sistema denso de habitação pública, poupança compulsória, ativos soberanos, portos, finanças e manufatura avançada; o próximo limite é saber se produtividade e integração regional conseguem compensar envelhecimento, energia importada e fragmentação geopolítica.",
+      "tags": [
+        "Cingapura",
+        "Temasek",
+        "GIC",
+        "CPF",
+        "HDB",
+        "logística portuária",
+        "gestão de ativos",
+        "semicondutores",
+        "ASEAN"
+      ],
+      "keywords": [
+        "economia política Cingapura",
+        "reservas soberanas Cingapura",
+        "Temasek GIC",
+        "CPF HDB Cingapura",
+        "dívida pública Cingapura",
+        "política monetária Cingapura SNEER",
+        "porto Tuas Cingapura",
+        "semicondutores Cingapura",
+        "demografia imigração Cingapura",
+        "Cingapura EUA China ASEAN"
+      ],
+      "regime": "Capitalismo de balanço soberano em uma cidade-Estado logístico-financeira: mercados privados e multinacionais geram grande parte da produção e do comércio, enquanto terra pública, poupança compulsória, reservas e agências especializadas moldam a alocação de capital e infraestrutura de longo prazo.",
+      "key_risk": "O modelo depende de conectividade externa contínua: fragmentação geopolítica, disrupção de energia importada, envelhecimento, restrições de terra e água ou perda de intermediação multinacional e financeira podem elevar custos domésticos mais rapidamente que produtividade e integração regional consigam compensar.",
+      "watch": [
+        "Produtividade do trabalho e valor adicionado por trabalhador fora de finanças e eletrônicos",
+        "Movimentação de contêineres, participação de transbordo e produtividade do Tuas Port",
+        "Ativos sob gestão, IED e atividade de sedes regionais",
+        "NIRC, retorno real de longo prazo da GIC e retornos do portfólio Temasek",
+        "Acessibilidade HDB, uso do CPF em habitação e adequação previdenciária",
+        "Composição entre cidadãos, residentes permanentes e não residentes, fecundidade e envelhecimento",
+        "Dependência de gás, importação de eletricidade de baixo carbono, demanda de água e capacidade de reciclagem/dessalinização",
+        "RTS Johor-Cingapura, Special Economic Zone e integração ASEAN"
+      ],
+      "search_text": "Cingapura contexto país economia política balanço soberano Temasek GIC CPF HDB dívida pública reservas SNEER porto Tuas Changi semicondutores energia água imigração demografia PAP ASEAN Johor 2026"
+    }
+  }
+}
