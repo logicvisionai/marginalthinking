@@ -30,14 +30,14 @@ A U.S. Energy Information Administration classifica o Iraque como o segundo maio
 
 A concentração fiscal importa mais que a escala geológica. Estimativas do Banco Mundial para 2025 indicam que o petróleo respondeu por aproximadamente 88% da receita do governo e 91% das exportações de mercadorias. Isso cria um canal estreito entre condições globais do petróleo e finanças públicas domésticas.
 
-\`\`\`chart
+```chart
 title: Dependência do petróleo no Iraque em 2025
 unit: percent
 type: bar
 Participação do petróleo no PIB real | 53
 Participação do petróleo na receita do governo | 88
 Participação do petróleo nas exportações de mercadorias | 91
-\`\`\`
+```
 
 Os três percentuais não são aditivos. Medem partes diferentes da economia. Em conjunto, mostram por que o mesmo choque do petróleo pode afetar crescimento, orçamento e disponibilidade de divisas ao mesmo tempo.
 
@@ -47,9 +47,9 @@ A avaliação do Artigo IV do FMI de 2025 descreveu restrições emergentes de f
 
 Um choque de hidrocarbonetos, portanto, não fica restrito ao setor petrolífero.
 
-\`\`\`flow
+```flow
 Preço ou volume das exportações de petróleo -> receita petrolífera federal -> liquidez do Tesouro -> salários, transferências e investimento público -> fluxo de caixa de empreiteiras e famílias -> depósitos bancários e demanda privada -> emprego e investimento
-\`\`\`
+```
 
 O mecanismo também funciona no sentido inverso. Receita maior pode expandir rapidamente demanda nominal e gasto público sem elevar automaticamente a produtividade não petrolífera. Receita menor força compressão de despesas ou medidas de financiamento antes que a economia privada tenha profundidade suficiente para compensar o choque.
 

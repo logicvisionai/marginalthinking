@@ -30,14 +30,14 @@ The U.S. Energy Information Administration classifies Iraq as the second-largest
 
 The fiscal concentration is more important than the geological scale. World Bank estimates for 2025 indicate that oil accounted for roughly 88 percent of government revenue and 91 percent of merchandise exports. That creates a narrow transmission channel between global oil conditions and domestic public finance.
 
-\`\`\`chart
+```chart
 title: Iraq's oil dependence in 2025
 unit: percent
 type: bar
 Oil share of real GDP | 53
 Oil share of government revenue | 88
 Oil share of merchandise exports | 91
-\`\`\`
+```
 
 The three percentages are not additive. They measure different parts of the economy. Together they show why the same oil shock can affect growth, the budget and foreign-exchange availability at the same time.
 
@@ -47,9 +47,9 @@ The IMF's 2025 Article IV assessment described emerging financing constraints an
 
 A hydrocarbon shock therefore does not remain inside the petroleum sector.
 
-\`\`\`flow
+```flow
 Oil export price or volume -> federal oil revenue -> treasury liquidity -> salaries, transfers and capital spending -> contractor and household cash flow -> bank deposits and private demand -> employment and investment
-\`\`\`
+```
 
 The mechanism also works in reverse. Higher oil income can rapidly expand nominal demand and public spending without automatically raising non-oil productivity. Lower income forces expenditure compression or financing measures before the private economy has enough depth to offset the shock.
 
