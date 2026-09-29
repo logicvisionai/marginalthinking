@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "MT-ST-2026-09-28-north-korea-post-pandemic",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-28T23:30:54-03:00",
+  "reviewed_commit": "1a7fee459c8708955b3aafc18b9ae23d184f4c5c",
+  "pending_blob_sha": "b3a2f4dc4a68fa41535a38ac7aa13a16dd886045",
+  "source_blob_shas": {
+    "en": "084e17e429c1ff5c50d1772e5c918153c6773337",
+    "pt-BR": "3d753e8bbd54d6b417a11e924b6bb229e8954aab"
+  },
+  "program": "strategic-transitions",
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    {
+      "type": "editorial_publication_readiness",
+      "location": "EN immediately after H1: `## Executive assessment`; PT-BR equivalent `## Avaliação executiva`",
+      "evidence": "Both editions violate the blocking opening rule by exposing a generic executive-assessment container immediately after H1."
+    },
+    {
+      "type": "template_llm_scaffolding",
+      "location": "Opening assessment followed by `Research question and evidence architecture` / `Pergunta de pesquisa e arquitetura de evidências`",
+      "evidence": "The reader is shown the report's internal evidence architecture and a six-class methodological template before the substantive argument. Evidence qualifications are necessary, but this presentation reads as QA/research scaffolding rather than finished institutional prose."
+    }
+  ],
+  "required_fixes": [
+    "Replace the generic Executive assessment/Avaliação executiva heading with a direct analytical opening of 1–3 paragraphs or a finding-specific subtitle.",
+    "Move or compress the evidence hierarchy so limitations are attached to the claims they qualify; do not present internal research architecture as the public-facing organizing device.",
+    "Preserve explicit attribution for DPRK/ROK/Russia/UN claims and the demonstrated-versus-inferred distinctions; rerun factual validation for any material claim changed during restructuring.",
+    "Maintain EN/PT-BR semantic and visual parity."
+  ],
+  "checks": {
+    "taxonomy": "passed on controlled program/dimensions/phenomena structure",
+    "editorial_publication_readiness": "failed",
+    "visual_evidence_readiness": "not determinative because editorial gate already blocks publication",
+    "factual_methodological": "not approved; conflict/security claims require renewed validation after rewrite if materially altered"
+  },
+  "notes": "Rejected before materialization. No public bundle existed at the mandatory pre-write public-state recheck. Current SHA tuple is exact."
+}
