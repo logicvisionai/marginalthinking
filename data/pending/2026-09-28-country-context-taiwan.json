@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-09-28-taiwan",
+  "slug": "2026-09-28-country-context-taiwan",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T16:44:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/09/2026-09-28-country-context-taiwan/en.md",
+      "title": "Taiwan: productive concentration, democratic institutions and resilience in a high-dependence island economy",
+      "deck": "Taiwan's semiconductor-centered export model creates exceptional productive capability while imported energy, demographic contraction, infrastructure concentration and cross-Strait pressure make resilience a problem of institutions and physical systems as much as finance.",
+      "tags": [
+        "Taiwan",
+        "semiconductors",
+        "political economy",
+        "demography",
+        "energy",
+        "Taiwan Strait"
+      ],
+      "keywords": [
+        "Taiwan country context",
+        "Taiwan political economy",
+        "Taiwan semiconductors",
+        "Taiwan energy security",
+        "Taiwan demographics",
+        "Taiwan institutions"
+      ],
+      "regime": "Export-industrial democracy with globally strategic semiconductor concentration, large external buffers and high physical dependence on imported energy, maritime logistics and dense west-coast infrastructure.",
+      "key_risk": "Financial and technological strength cannot substitute for physical continuity if energy, shipping, grid, water or skilled-labor constraints bind simultaneously.",
+      "watch": [
+        "Export product and destination concentration",
+        "Semiconductor domestic versus overseas capacity",
+        "Grid reliability and imported-energy exposure",
+        "Population aging and skilled-labor supply",
+        "Executive-legislative budget execution",
+        "Cross-Strait operational activity without inferring intent from activity alone"
+      ],
+      "search_text": "Taiwan country context political economy semiconductors institutions energy demography trade resilience 2026"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/09/2026-09-28-country-context-taiwan/pt-BR.md",
+      "title": "Taiwan: concentração produtiva, instituições democráticas e resiliência em uma economia insular de alta dependência",
+      "deck": "O modelo exportador centrado em semicondutores cria capacidade produtiva excepcional, enquanto energia importada, contração demográfica, concentração de infraestrutura e pressão no Estreito tornam resiliência um problema de instituições e sistemas físicos tanto quanto de finanças.",
+      "tags": [
+        "Taiwan",
+        "semicondutores",
+        "economia política",
+        "demografia",
+        "energia",
+        "Estreito de Taiwan"
+      ],
+      "keywords": [
+        "contexto país Taiwan",
+        "economia política Taiwan",
+        "semicondutores Taiwan",
+        "segurança energética Taiwan",
+        "demografia Taiwan",
+        "instituições Taiwan"
+      ],
+      "regime": "Democracia industrial-exportadora com concentração estratégica global em semicondutores, grandes colchões externos e elevada dependência física de energia importada, logística marítima e infraestrutura densa no corredor oeste.",
+      "key_risk": "Força financeira e tecnológica não substitui continuidade física se restrições de energia, navegação, rede, água ou trabalho qualificado se tornarem simultaneamente vinculantes.",
+      "watch": [
+        "Concentração de produtos e destinos de exportação",
+        "Capacidade doméstica versus externa de semicondutores",
+        "Confiabilidade da rede e exposição à energia importada",
+        "Envelhecimento populacional e oferta de trabalho qualificado",
+        "Execução orçamentária entre Executivo e Legislativo",
+        "Atividade operacional no Estreito sem inferir intenção apenas de contagens"
+      ],
+      "search_text": "Taiwan contexto país economia política semicondutores instituições energia demografia comércio resiliência 2026"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "strategic-transitions",
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "asia-pacific"
+    ],
+    "subregions": [
+      "east-asia"
+    ],
+    "countries": [
+      {
+        "code": "TW",
+        "slug": "taiwan"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change",
+    "climate-environment"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "defense-security",
+    "political-stability",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-ST-2026-09-28-taiwan-semiconductor-political-economy"
+  ],
+  "assessment_confidence": "medium-high",
+  "selection_rationale": "The canonical Taiwan Strategic Transition establishes a material mechanism linking semiconductor concentration, external rebalancing, energy dependence, demography, institutions and cross-Strait security. The public corpus still lacks a reusable country-level explanation of how these mechanisms fit together beyond the 2025–2026 transition itself.",
+  "contrary_evidence": [
+    "Exceptional 2026 output and export growth contradict a near-term stagnation thesis but are too concentrated to extrapolate as trend growth.",
+    "Overseas semiconductor expansion diversifies geography while simultaneous domestic leading-edge investment contradicts a simple hollowing-out thesis.",
+    "Large external buffers reduce financial vulnerability but cannot substitute for maritime energy, grid, water or logistics continuity.",
+    "Institutional checks can delay execution without demonstrating generalized state incapacity."
+  ],
+  "limitations": [
+    "Taiwan's legal and diplomatic status is contested; the dossier separates effective administration, constitutional claims, recognition and observable relations.",
+    "Public military data do not permit precise measurement of readiness, stockpiles or deterrence effects.",
+    "Demographic projections are conditional and current population statistics can be affected by registration definitions.",
+    "Announced energy and industrial projects are not treated as operating capacity until implementation is documented."
+  ]
+}
