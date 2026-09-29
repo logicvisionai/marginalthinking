@@ -168,5 +168,15 @@
     "Chinese customs measure declared merchandise trade but do not capture all unrecorded, sanctioned, military or service flows.",
     "OHCHR findings rely substantially on interviews with people who left the DPRK and other external evidence because unrestricted contemporary in-country access is unavailable; representativeness limits are stated explicitly.",
     "Russian official sources establish what Russia publicly acknowledges about cooperation and military participation, not independent estimates of battlefield effects or compensation."
+  ],
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "118364749de008e80836b3ed3f2c00c3f891fc24",
+  "qa_fixes_applied": [
+    "Removed the generic `Executive assessment` / `Avaliação executiva` opening heading and retained the thesis as direct analytical prose.",
+    "Replaced the public-facing `Research question and evidence architecture` scaffold with a concise evidence-limits section tied to the kinds of claims each source can sustain.",
+    "Preserved explicit attribution of DPRK, ROK, Russian and UN claims and retained the separation between observed evidence, modeled estimates and uncertainty.",
+    "Preserved all material numbers, dates, causal claims and conclusions; the rework is editorial rather than factual.",
+    "Maintained EN/PT-BR semantic equivalence after restructuring."
   ]
 }
