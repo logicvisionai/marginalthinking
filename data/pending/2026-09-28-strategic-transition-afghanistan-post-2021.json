@@ -160,5 +160,14 @@
     "World Bank and UNDP growth estimates use different periods, data vintages and methodologies and must not be merged into a single time series.",
     "Public fiscal and security data are less transparent and independently auditable than in a normal statistical system.",
     "Large infrastructure and mining projects are assessed by documented implementation milestones; announcements, geological potential and memoranda are not treated as realized productive capacity."
+  ],
+  "revision": 1,
+  "revision_reason": "qa_rework",
+  "supersedes_rejected_commit": "1a7fee459c8708955b3aafc18b9ae23d184f4c5c",
+  "qa_fixes_applied": [
+    "Removed the generic `Executive assessment` / `Avaliação executiva` opening heading and preserved the thesis as direct institutional prose.",
+    "Replaced the exposed `Research question` / `Pergunta de pesquisa` scaffold with a finding-led section explaining the six mechanisms that separate stabilization from development.",
+    "Preserved all material numbers, dates, source attributions, causal claims and conclusions; the rework is editorial rather than factual.",
+    "Maintained EN/PT-BR semantic equivalence after restructuring."
   ]
 }
