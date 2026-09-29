@@ -16,12 +16,16 @@ let taxonomy={};
 try{taxonomy=json('data/taxonomy.json');}catch(e){fail.push(`data/taxonomy.json inválido: ${e.message}`);}
 
 const publicIds=new Set();
+const publicRevisions=new Map();
 const publicBundles=[];
 const approvalBoundEffectiveDate='2026-09-22';
 for(const file of walk('reports','metadata.json')){
   try{
     const item=json(file);
-    if(item.id)publicIds.add(item.id);
+    if(item.id){
+      publicIds.add(item.id);
+      publicRevisions.set(item.id,Number.isInteger(item.revision)?item.revision:0);
+    }
     const dir=path.posix.dirname(file);
     const slug=path.posix.basename(dir);
     publicBundles.push({file,dir,slug,item});
@@ -39,7 +43,13 @@ for(const file of walk('reports','metadata.json')){
           if(a.publication?.date!==item.date)fail.push(`${file}: date difere do snapshot aprovado`);
           if(a.publication?.program!==item.program)fail.push(`${file}: program difere do snapshot aprovado`);
           if(a.publication?.taxonomy_version!==item.taxonomy_version)fail.push(`${file}: taxonomy_version difere do snapshot aprovado`);
-          if(exists(pendingPath)&&a.pending_blob_sha!==blobSha(read(pendingPath)))fail.push(`${file}: pending_blob_sha da aprovação não coincide com o pending atual`);
+          if(exists(pendingPath)){
+            const pending=json(pendingPath);
+            const pendingRevision=Number.isInteger(pending.revision)?pending.revision:0;
+            const publicRevision=Number.isInteger(item.revision)?item.revision:0;
+            if(pendingRevision===publicRevision&&a.pending_blob_sha!==blobSha(read(pendingPath)))fail.push(`${file}: pending_blob_sha da aprovação não coincide com o pending da revisão pública atual`);
+            if(pendingRevision>publicRevision)warn.push(`${pendingPath}: revisão ${pendingRevision} staged é mais nova que a revisão pública ${publicRevision}; exige nova aprovação antes de substituir o bundle público`);
+          }
           for(const locale of ['en','pt-BR']){
             const md=item.locales?.[locale]?.markdown||item.locales?.[locale]?.markdown_file;
             if(!md)continue;
@@ -92,7 +102,10 @@ for(const file of pendingFiles){
   let p;
   try{p=json(file);}catch(e){fail.push(`${file}: JSON inválido: ${e.message}`);continue;}
   if(!p?.id){fail.push(`${file}: id ausente`);continue;}
-  if(publicIds.has(p.id)){if((p.schema_version||1)<2)legacyPublished++;continue;}
+  const pendingRevision=Number.isInteger(p.revision)?p.revision:0;
+  const publicRevision=publicRevisions.get(p.id);
+  const isNewerRevision=publicRevision!==undefined&&pendingRevision>publicRevision;
+  if(publicIds.has(p.id)&&!isNewerRevision){if((p.schema_version||1)<2)legacyPublished++;continue;}
   active++;
   if(p.schema_version!==2)fail.push(`${file}: item ainda não publicado deve usar schema_version 2`);
   for(const key of ['ready','id','slug','date','published_at','kind','priority','source_locale','sources',...requiredTaxonomy])if(p[key]===undefined||p[key]===null)fail.push(`${file}: ${key} ausente`);
@@ -149,13 +162,16 @@ for(const file of pendingFiles){
     try{
       const a=json(approval);
       if(a.qa_status==='approved'){
-        approvedCount++;
+        const approvedRevision=Number.isInteger(a.publication?.revision)?a.publication.revision:0;
+        const approvalMatchesPending=approvedRevision===pendingRevision;
+        if(approvalMatchesPending)approvedCount++;
         if(a.schema_version!==2)fail.push(`${approval}: aprovação de item v2 deve usar schema_version 2`);
         if(a.id!==p.id)fail.push(`${approval}: id difere do pending`);
-        if(a.pending_blob_sha&&a.pending_blob_sha!==blobSha(read(file)))fail.push(`${approval}: pending_blob_sha não coincide`);
+        if(approvalMatchesPending&&a.pending_blob_sha&&a.pending_blob_sha!==blobSha(read(file)))fail.push(`${approval}: pending_blob_sha não coincide`);
+        if(!approvalMatchesPending&&pendingRevision>approvedRevision)warn.push(`${file}: revisão ${pendingRevision} ainda não possui aprovação QA vinculada; aprovação existente cobre revisão ${approvedRevision}`);
         for(const locale of ['en','pt-BR']){
           const md=String(p.sources?.[locale]?.markdown||'').replace(/^\//,'');
-          if(md&&exists(md)&&a.source_blob_shas?.[locale]!==blobSha(read(md)))fail.push(`${approval}: SHA da fonte ${locale} não coincide`);
+          if(approvalMatchesPending&&md&&exists(md)&&a.source_blob_shas?.[locale]!==blobSha(read(md)))fail.push(`${approval}: SHA da fonte ${locale} não coincide`);
         }
         if(a.taxonomy_check!=='passed')fail.push(`${approval}: taxonomy_check deve ser passed`);
         if(a.translation_check!=='passed')fail.push(`${approval}: translation_check deve ser passed`);
