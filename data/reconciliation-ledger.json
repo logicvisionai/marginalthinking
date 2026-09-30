@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-09-29T17:44:00-03:00",
+  "last_reconciled_at": "2026-09-30T08:04:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -2050,6 +2050,104 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Industrial, nuclear, infrastructure and energy capabilities appear as structural evidence, but none of the three publications is a technology-signal assessment or establishes a discrete capability-stage transition under the ledger contract."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-global-macro-publication",
+      "reconciled_at": "2026-09-30T08:04:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-CC-2026-09-28-singapore",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The 30 September Global Macro confirms country-specific growth and inflation dispersion across China, Australia and the UK but does not establish a new durable cross-border dependency edge or node beyond existing monetary, trade and energy transmission relationships."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "China's PMI rebound and Australian inflation update alter current macro conditions but do not establish a new structural-access, capacity, regulatory or infrastructure state requiring an Atlas mutation."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "NBS, ABS, ONS and RBA are evidence-producing or policy institutions in the daily, but the publication does not establish a new durable ownership, mandate or control relationship for the Strategic Actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Energy costs contribute to Australian inflation context, but the publication provides no new reserve, ownership, production-control, processing-control or physical-intermediation evidence requiring a resource-control update."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The publication is a current cross-country macro assessment, not a bounded historical policy experiment or completed institutional case study."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No new verified armed-conflict or security-system operational state is required to sustain the 30 September lead thesis."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "The daily contains no discrete technology capability-stage change under the technology-signal contract."
         }
       ]
     }
