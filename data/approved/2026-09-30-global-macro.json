@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-09-30",
+  "qa_status": "approved",
+  "reviewed_at": "2026-09-30T08:02:20-03:00",
+  "reviewed_commit": "4f5525748af566ca13eb19c571d7f877f084d6f5",
+  "pending_blob_sha": "546a4f498b0edb50a4fdbd8d7fa21290826ae682",
+  "source_blob_shas": {
+    "en": "1e4f4cc567073b81969d8b078a25994417f39b29",
+    "pt-BR": "1554536aa6190f1379382facc278fe1d224e4339"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "The lead data were rechecked against same-day primary releases from China's National Bureau of Statistics, the Australian Bureau of Statistics and the UK Office for National Statistics; the RBA policy rate was checked against the 29 September Monetary Policy Board release. Diffusion indices, inflation rates and GDP growth are kept dimensionally separate and the cross-country table explicitly warns that levels are not comparable."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Opening is finding-led, analytical headings identify mechanisms, EN and PT-BR are idiomatic, the 30 September strict public-prose gate finds no QA/pipeline/template/self-reference language, and the conclusion synthesizes new information rather than repeating an internal checklist."
+    },
+    "novelty_against_previous_daily": {
+      "result": "passed",
+      "summary": "Compared with 27-29 September, the lead thesis changes materially: 29 September established Australia-China policy divergence; 30 September tests that split with new official PMI, CPI and UK national-accounts data and distinguishes Chinese production improvement from labour/demand breadth."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table + 1 explicit line chart + 1 causal flow per locale",
+      "summary": "The brief meets the required visual floor. The China PMI chart uses official monthly values; the cross-country table labels heterogeneous units and states they are not level-comparable; EN/PT-BR visual signatures and values are equivalent."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Context from the prior day's policy split is used only to interpret same-day data. The article separates production, employment, domestic demand, headline versus underlying inflation and revised versus current growth evidence."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Policy decisions are described as institutional facts and macroeconomic transmission mechanisms; no political actor, government or policy choice is endorsed, ranked or opposed."
+    }
+  },
+  "contrary_evidence": [
+    "China's headline manufacturing PMI returned above 50, but employment, small-firm conditions, non-manufacturing new orders and existing manufacturing orders remain below the expansion threshold.",
+    "Australian headline CPI accelerated, but trimmed-mean inflation was unchanged at 3.6%, so the release does not establish a fresh acceleration in underlying inflation.",
+    "The UK GDP revision is backward-looking and does not by itself establish the third-quarter trajectory or eliminate the constraint from high financing costs."
+  ],
+  "limitations": [
+    "China PMI indicators are diffusion indices and should not be interpreted as growth or inflation rates.",
+    "Australia's August monthly CPI can be influenced by volatile fuel and administered-price effects; the article separates headline from trimmed-mean inflation.",
+    "UK quarterly national accounts are revised estimates and remain subject to future revisions.",
+    "Same-day European and U.S. releases available later on 30 September may add information after the stated 08:00 BRT cutoff."
+  ],
+  "notes": "Approved for publication after same-day primary-source recheck, exact SHA binding, three-edition novelty comparison, bilingual review and visual-semantic validation.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-09-30",
+    "slug": "2026-09-30-global-macro",
+    "date": "2026-09-30",
+    "published_at": "2026-09-30T07:59:29-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-30-global-macro/en.md",
+        "title": "Global Macro — China returns to expansion as Australian inflation reaccelerates",
+        "deck": "China's manufacturing PMI returned to 50.1 while Australia's CPI accelerated to 4.0% and UK second-quarter growth was revised to 0.5%, turning policy divergence into measurable macro divergence.",
+        "tags": [
+          "global macro",
+          "China",
+          "Australia",
+          "United Kingdom",
+          "PMI",
+          "inflation",
+          "GDP",
+          "monetary policy"
+        ],
+        "keywords": [
+          "China PMI September 2026",
+          "Australia CPI August 2026",
+          "UK GDP Q2 2026",
+          "global macro divergence",
+          "RBA inflation",
+          "China manufacturing PMI"
+        ],
+        "regime": "Data-confirmed policy dispersion: Chinese activity has moved back above the expansion threshold but labour and parts of demand remain weak, while Australian inflation has reaccelerated and UK growth has been revised higher.",
+        "key_risk": "If China's production rebound fails to broaden into employment and internal demand while Australia and other economies retain inflation pressure, policy and market dispersion can widen further instead of converging toward a common global cycle.",
+        "watch": [
+          "China employment, new orders and small-firm PMI in October",
+          "Australia September headline and trimmed-mean inflation",
+          "UK third-quarter services and household-income data",
+          "Whether European inflation releases reinforce or weaken the broader dispersion pattern"
+        ],
+        "search_text": "Global Macro 30 September 2026 China PMI 50.1 Australia CPI 4.0 UK GDP 0.5 policy divergence macro data"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-30-global-macro/pt-BR.md",
+        "title": "Global Macro — A China volta à expansão enquanto a inflação australiana acelera",
+        "deck": "O PMI industrial da China voltou a 50,1, enquanto o CPI australiano acelerou para 4,0% e o crescimento britânico do segundo trimestre foi revisado para 0,5%, transformando divergência de política em divergência macroeconômica mensurável.",
+        "tags": [
+          "macro global",
+          "China",
+          "Austrália",
+          "Reino Unido",
+          "PMI",
+          "inflação",
+          "PIB",
+          "política monetária"
+        ],
+        "keywords": [
+          "PMI China setembro 2026",
+          "CPI Austrália agosto 2026",
+          "PIB Reino Unido segundo trimestre 2026",
+          "divergência macro global",
+          "RBA inflação",
+          "PMI industrial China"
+        ],
+        "regime": "Dispersão de política confirmada pelos dados: a atividade chinesa voltou acima do limite de expansão, mas trabalho e partes da demanda permanecem fracos, enquanto a inflação australiana reacelerou e o crescimento britânico foi revisado para cima.",
+        "key_risk": "Se a retomada da produção chinesa não se ampliar para emprego e demanda interna enquanto Austrália e outras economias mantêm pressão inflacionária, a dispersão de política e mercados pode aumentar em vez de convergir para um ciclo global comum.",
+        "watch": [
+          "Emprego, novos pedidos e PMI de pequenas empresas da China em outubro",
+          "Inflação cheia e média aparada da Austrália em setembro",
+          "Serviços e renda das famílias no Reino Unido no terceiro trimestre",
+          "Se as divulgações de inflação europeias reforçam ou enfraquecem o padrão mais amplo de dispersão"
+        ],
+        "search_text": "Global Macro 30 setembro 2026 PMI China 50,1 CPI Austrália 4,0 PIB Reino Unido 0,5 divergência política dados macro"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "asia-pacific",
+        "europe"
+      ],
+      "subregions": [
+        "east-asia",
+        "oceania",
+        "northern-europe"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "trade-investment",
+      "energy"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "producer_checks": {
+      "verified_at": "2026-09-30T07:59:29-03:00",
+      "primary_sources": [
+        "National Bureau of Statistics of China",
+        "Australian Bureau of Statistics",
+        "Office for National Statistics",
+        "Reserve Bank of Australia"
+      ],
+      "bilingual_parity": "checked",
+      "visual_signature": "1 Markdown table + 1 explicit PMI line chart + 1 causal flow per locale",
+      "novelty_against_previous_daily": "checked against 2026-09-27, 2026-09-28 and 2026-09-29; lead thesis moves from policy divergence to same-day data confirmation and cross-country macro divergence"
+    }
+  }
+}
