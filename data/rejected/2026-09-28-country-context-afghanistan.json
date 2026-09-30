@@ -1,0 +1,60 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-28-afghanistan",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-09-29T23:07:31-03:00",
+  "reviewed_commit": "85c11605586a3a2705a3cf6d93131c969e185319",
+  "pending_blob_sha": "38e8e7422eb4696678764a7e83b71fa92d7d6003",
+  "source_blob_shas": {
+    "en": "2b8fd1e775001ae81bbe65d04060e7829e1e23ea",
+    "pt-BR": "2fc0e84aa62b901582620234d6128e54d7d1cccb"
+  },
+  "program": "strategic-transitions",
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    "COUNTRY-CONTEXT quality floor fails in both locales. After excluding fenced visual/code blocks and raw URLs, EN is approximately 1,565 substantive words and PT-BR approximately 1,104; each locale must contain at least 1,600 substantive words for dossiers dated on or after 2026-09-23.",
+    "EN/PT-BR semantic parity fails materially. PT-BR is substantially abridged relative to EN, omitting or weakening material qualifications and evidence, including the EN discussion of the Durand Line mechanism, the >75% grant-financing context, non-performing loans, women's medical-education transmission, explicit Pakistan/TTP versus Taliban competing claims, and several external-relations qualifications. The PT-BR pending deck also omits the EN deck's explicit women-and-girls restriction mechanism.",
+    "Current-data discipline is insufficient for a 29 September 2026 cutoff. The dossier foregrounds the December 2025 World Bank projection (2025 GDP +4.3%, population +8.6%, GDP per capita -4.0%) even though later World Bank 2026 material available before cutoff reports/estimates 2025 GDP growth at 4.8% and GDP per capita at -5.6%. A country dossier may discuss vintages, but must identify the older figures as superseded/projection-vintage data and reconcile them with the latest available official estimate rather than present the older projection as the current macro anchor.",
+    "The dossier's visual chart reproduces the superseded December-2025 projection without a vintage/revision comparison. Because the visual is a central macro visual, this can mislead readers about the latest available 2025 estimate at the stated cutoff."
+  ],
+  "required_fixes": [
+    "Expand both locales above the 1,600-substantive-word floor with distinct, mechanism-bearing material rather than padding; preserve at least 12 analytical H2 sections and the existing visual floor.",
+    "Restore full semantic equivalence between EN and PT-BR, including material qualifications, attribution, transmission mechanisms, contrary evidence and metadata/deck meaning.",
+    "Re-run the macro factual pass using the latest World Bank 2026 releases available by the information cutoff. Distinguish December-2025 projections from later 2026 estimates/revisions; reconcile 4.3% versus 4.8% GDP growth and -4.0% versus -5.6% GDP-per-capita change, and update prose/visuals consistently in both locales.",
+    "Update the macro chart so its title/caption explicitly identifies data vintage/status, or replace it with the latest official estimate; do not mix vintages silently.",
+    "Re-check every current/time-sensitive claim after the macro update and preserve neutral attribution for contested security/political claims."
+  ],
+  "evidence": [
+    {
+      "type": "repository",
+      "detail": "COUNTRY-CONTEXT.md §14 requires at least 1,600 substantive words in each public locale for dossiers dated on/after 2026-09-23; measured staged EN ≈1,565 and PT-BR ≈1,104 after excluding fenced blocks and raw URLs."
+    },
+    {
+      "type": "repository",
+      "detail": "Direct EN/PT-BR comparison shows material omissions in PT-BR; translation_check cannot pass."
+    },
+    {
+      "type": "external-primary",
+      "source": "World Bank, Afghanistan Development Update press release, 10 Dec 2025",
+      "detail": "Projection vintage: 2025 GDP +4.3%, population +8.6%, GDP per capita -4.0%, inflation 2.0%, domestic tax revenue 17.1% of GDP."
+    },
+    {
+      "type": "external-primary",
+      "source": "World Bank Macro Poverty Outlook for Afghanistan, April 2026 (disclosed Aug 2026)",
+      "detail": "Later official material estimates 2025 GDP per capita declined 5.6%."
+    },
+    {
+      "type": "external-primary",
+      "source": "World Bank Global Economic Prospects/DataBank, 2026",
+      "detail": "Later official series lists Afghanistan 2025 GDP growth at 4.8%."
+    },
+    {
+      "type": "external-primary",
+      "source": "UNAMA/UN Women, 8 Mar 2026",
+      "detail": "Confirms 14% of women consulted versus 53% of men reported access to formal dispute-resolution services and explicitly characterizes the findings as perception-based."
+    }
+  ],
+  "notes": "Rejected before materialization. No approval created. Prior related Afghanistan Strategic Transition remains canonical; this Country Context candidate is not public."
+}
