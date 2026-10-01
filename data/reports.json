@@ -19,10 +19,12 @@
     "geography": {
       "level": "global",
       "regions": [
-        "north-america",
+        "americas",
         "europe"
       ],
-      "subregions": [],
+      "subregions": [
+        "north-america"
+      ],
       "countries": []
     },
     "topics": [
