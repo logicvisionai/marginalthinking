@@ -1,5 +1,71 @@
 [
   {
+    "id": "MT-GM-2026-10-01",
+    "slug": "2026-10-01-global-macro",
+    "date": "2026-10-01",
+    "published_at": "2026-10-01T14:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "north-america",
+        "europe"
+      ],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "capital-markets",
+      "trade-investment",
+      "energy"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "title": "Global Macro — U.S. manufacturing holds expansion while Europe’s labour market softens at the margin",
+    "deck": "U.S. manufacturing remained expansionary in September while euro-area unemployment was stable monthly but slightly higher year on year and U.S. propane exports reached record territory.",
+    "tags": [
+      "global macro",
+      "United States",
+      "European Union",
+      "manufacturing",
+      "unemployment",
+      "energy"
+    ],
+    "keywords": [
+      "ISM PMI September 2026",
+      "euro area unemployment August 2026",
+      "US propane exports 2026"
+    ],
+    "regime": "Uneven global resilience: U.S. manufacturing remains expansionary while European labour conditions soften marginally and U.S. energy exports continue to reshape trade flows.",
+    "key_risk": "Persistent divergence across manufacturing, labour and energy can produce different policy and market transmission across regions.",
+    "watch": [
+      "U.S. manufacturing new orders and employment",
+      "Euro-area unemployment",
+      "U.S. energy export flows"
+    ],
+    "search_text": "Global Macro October 1 2026 ISM 54.5 euro area unemployment 6.4 propane exports",
+    "url": "/reports/2026/10/2026-10-01-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-01-global-macro/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-01T14:12:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "0e8209053c5722f4510481c20cc4e2652eaff918"
+  },
+  {
     "id": "MT-GM-2026-09-30",
     "slug": "2026-09-30-global-macro",
     "date": "2026-09-30",
