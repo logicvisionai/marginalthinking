@@ -1,0 +1,107 @@
+{
+  "id": "MT-GM-2026-10-01",
+  "slug": "2026-10-01-global-macro",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T14:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "north-america",
+      "europe"
+    ],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "capital-markets",
+    "trade-investment",
+    "energy"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-10-01T14:00:00-03:00",
+    "primary_sources": [
+      "Institute for Supply Management",
+      "Eurostat",
+      "U.S. Energy Information Administration"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 Markdown table + 1 explicit line chart + 1 causal flow per locale",
+    "novelty_against_previous_daily": "checked against 2026-09-30; lead shifts from China/Australia/UK data divergence to U.S. manufacturing, European labour and U.S. energy-trade dispersion"
+  },
+  "url": "/reports/2026/10/2026-10-01-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-01T14:12:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "0e8209053c5722f4510481c20cc4e2652eaff918",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — U.S. manufacturing holds expansion while Europe’s labour market softens at the margin",
+      "deck": "U.S. manufacturing remained expansionary in September while euro-area unemployment was stable monthly but slightly higher year on year and U.S. propane exports reached record territory.",
+      "tags": [
+        "global macro",
+        "United States",
+        "European Union",
+        "manufacturing",
+        "unemployment",
+        "energy"
+      ],
+      "keywords": [
+        "ISM PMI September 2026",
+        "euro area unemployment August 2026",
+        "US propane exports 2026"
+      ],
+      "regime": "Uneven global resilience: U.S. manufacturing remains expansionary while European labour conditions soften marginally and U.S. energy exports continue to reshape trade flows.",
+      "key_risk": "Persistent divergence across manufacturing, labour and energy can produce different policy and market transmission across regions.",
+      "watch": [
+        "U.S. manufacturing new orders and employment",
+        "Euro-area unemployment",
+        "U.S. energy export flows"
+      ],
+      "search_text": "Global Macro October 1 2026 ISM 54.5 euro area unemployment 6.4 propane exports"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Indústria dos EUA mantém expansão enquanto o mercado de trabalho europeu perde força na margem",
+      "deck": "A indústria dos EUA permaneceu em expansão em setembro, enquanto o desemprego da área do euro ficou estável no mês mas ligeiramente maior no ano e as exportações americanas de propano permaneceram em níveis recordes.",
+      "tags": [
+        "macro global",
+        "Estados Unidos",
+        "União Europeia",
+        "indústria",
+        "desemprego",
+        "energia"
+      ],
+      "keywords": [
+        "PMI ISM setembro 2026",
+        "desemprego área do euro agosto 2026",
+        "exportações propano EUA 2026"
+      ],
+      "regime": "Resiliência global desigual: a indústria americana permanece expansionista enquanto o mercado de trabalho europeu enfraquece marginalmente e as exportações de energia dos EUA continuam alterando fluxos comerciais.",
+      "key_risk": "A divergência persistente entre indústria, trabalho e energia pode produzir transmissões distintas de política e mercado entre regiões.",
+      "watch": [
+        "Novas encomendas e emprego industrial nos EUA",
+        "Desemprego da área do euro",
+        "Fluxos de exportação de energia dos EUA"
+      ],
+      "search_text": "Global Macro 1 outubro 2026 ISM 54,5 desemprego área euro 6,4 exportações propano"
+    }
+  }
+}
