@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-02",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-02T07:14:00-03:00",
-  "reviewed_commit": "b3c184808e6f120c30fd004b612547d8ca1c4e4a",
+  "reviewed_at": "2026-10-02T07:19:00-03:00",
+  "reviewed_commit": "c097047f629db6db69e85fe117def37e3d50d851",
   "pending_blob_sha": "66b46f3d7fa7648d8b84e6e54a575143c705e325",
   "source_blob_shas": {
-    "en": "9834cad955ef2b1bbb97584c2ac758b317029f49",
-    "pt-BR": "efa1ffe2ece5fe4415e186550285ee9a64194dfe"
+    "en": "5a8da88a48fa25bf9d3e3ec01ec31c453779b56e",
+    "pt-BR": "a2a8b19491f0b3dd539297d0cb21daf805e2fca3"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -19,7 +19,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "The brief is organized around inflation persistence, labour-demand momentum and policy divergence rather than a release-by-release list. Stocks and flows are distinguished, cross-country inflation dispersion is qualified, and the U.S. leg remains explicitly unresolved."
+      "summary": "The brief is organized around inflation persistence, labour-demand momentum and policy divergence. Stocks and flows are distinguished, the U.S. leg remains explicitly unresolved, and publication-cutoff statements are written without editorial self-reference."
     },
     "novelty_against_previous_daily": {
       "result": "passed",
@@ -48,7 +48,7 @@
     "The U.S. section intentionally excludes September payrolls, unemployment and wages because the BLS release is scheduled after the report cutoff.",
     "The monetary-policy transmission chain is an analytical risk mechanism, not proof that energy inflation will pass through to wages, services or policy rates."
   ],
-  "notes": "Approved as a morning 2 October edition with a pre-payroll cutoff; any later U.S. Employment Situation evidence should enter as a subsequent evidence update, not be backfilled into the approved cutoff.",
+  "notes": "Approved after primary-source verification, bilingual parity review, visual-semantic review, explicit pre-payroll cutoff handling, and removal of editorial self-reference flagged by the public validator.",
   "publication": {
     "schema_version": 2,
     "ready": true,
