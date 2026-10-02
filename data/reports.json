@@ -1,5 +1,84 @@
 [
   {
+    "id": "MT-GM-2026-10-02",
+    "slug": "2026-10-02-global-macro",
+    "date": "2026-10-02",
+    "published_at": "2026-10-02T07:06:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "europe",
+        "asia-pacific",
+        "americas"
+      ],
+      "subregions": [
+        "western-europe",
+        "east-asia",
+        "north-america"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "demography-labor",
+      "energy",
+      "commodities-resources"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "title": "Global Macro — Euro-area inflation climbs to 3.8% as Japan labour demand softens ahead of U.S. payrolls",
+    "deck": "Euro-area inflation accelerated to 3.8% as energy reached 18.8%; Japan unemployment rose to 2.5% while new job postings fell 3.4% year on year.",
+    "tags": [
+      "global macro",
+      "euro area",
+      "inflation",
+      "ECB",
+      "Japan",
+      "labour market",
+      "United States",
+      "employment"
+    ],
+    "keywords": [
+      "euro area inflation September 2026",
+      "ECB rates October 2026",
+      "Japan unemployment August 2026",
+      "Japan job openings August 2026",
+      "US payroll September 2026"
+    ],
+    "regime": "Policy divergence under uneven inflation and labour constraints: euro-area price pressure has reaccelerated, Japan's vacancy flow is softening, and the U.S. labour picture awaits September payroll confirmation.",
+    "key_risk": "If European energy inflation passes into services and wages while labour demand weakens elsewhere, major central banks may face increasingly different trade-offs between inflation persistence and employment momentum.",
+    "watch": [
+      "U.S. September Employment Situation after the publication cutoff",
+      "Euro-area final September HICP on 16 October",
+      "Japan September labour and vacancy data",
+      "ECB evidence on wages and services inflation",
+      "U.S. September CPI on 14 October"
+    ],
+    "search_text": "Global Macro October 2 2026 euro area inflation 3.8 energy 18.8 Japan unemployment 2.5 job openings payroll",
+    "url": "/reports/2026/10/2026-10-02-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-02-global-macro/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-02T07:14:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "b3c184808e6f120c30fd004b612547d8ca1c4e4a"
+  },
+  {
     "id": "MT-GM-2026-10-01",
     "slug": "2026-10-01-global-macro",
     "date": "2026-10-01",
