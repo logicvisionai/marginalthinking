@@ -74,9 +74,9 @@
     "url": "/reports/2026/10/2026-10-02-global-macro.html",
     "markdown_url": "/reports/2026/10/2026-10-02-global-macro/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-02T07:14:00-03:00",
+    "qa_reviewed_at": "2026-10-02T07:19:00-03:00",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "b3c184808e6f120c30fd004b612547d8ca1c4e4a"
+    "qa_reviewed_commit": "c097047f629db6db69e85fe117def37e3d50d851"
   },
   {
     "id": "MT-GM-2026-10-01",
