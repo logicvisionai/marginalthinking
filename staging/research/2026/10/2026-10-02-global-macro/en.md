@@ -2,11 +2,11 @@
 
 The 2 October data open with a less comfortable inflation-labour mix than the previous day. Euro-area annual inflation accelerated to 3.8% in September from 3.2% in August, with energy inflation rising to 18.8%. Core measures also moved higher at the margin. In Japan, the unemployment rate increased to 2.5% in August while the active job-openings-to-applicants ratio held at 1.18 and new job postings were 3.4% lower than a year earlier. The United States enters its September employment release with August job openings at 7.1 million, hires at 5.2 million and quits at 3.1 million.
 
-The combination is not a synchronized global slowdown. Europe is facing renewed price pressure, led by energy but not confined to it. Japan still has more job openings than applicants, yet the flow of new vacancies is weakening and unemployment edged higher. The U.S. labour market has shown relatively stable turnover, but the decisive September payroll and unemployment data had not been released at this report's cutoff.
+The combination is not a synchronized global slowdown. Europe is facing renewed price pressure, led by energy but not confined to it. Japan still has more job openings than applicants, yet the flow of new vacancies is weakening and unemployment edged higher. The U.S. labour market has shown relatively stable turnover, but the decisive September payroll and unemployment data were still unavailable at 07:06 BRT.
 
 For policy transmission, the European inflation surprise is the dominant new information. The ECB deposit facility rate is 2.50% after the September increase, while headline inflation is now 1.8 percentage points above the 2% medium-term target. The immediate issue is therefore whether the rise in energy prices remains a relative-price shock or continues to spread through services and underlying inflation.
 
-**Information cutoff: 2 October 2026, 07:06 BRT. The U.S. Employment Situation for September is scheduled for 08:30 ET, after this publication cutoff.**
+**Information cutoff: 2 October 2026, 07:06 BRT. The U.S. Employment Situation for September is scheduled for 08:30 ET and was not yet available.**
 
 ## What changed on 2 October
 
@@ -107,7 +107,7 @@ The Japanese signal therefore differs from the euro-area one. Europe is confront
 
 ## The U.S. labour market is the missing leg of today's global picture
 
-The U.S. September Employment Situation is scheduled for 08:30 ET, after this edition's cutoff. No September payroll, unemployment or wage number is included here.
+The U.S. September Employment Situation is scheduled for 08:30 ET. At 07:06 BRT, no September payroll, unemployment or wage figure was yet available.
 
 The most recent labour-demand evidence is the August JOLTS release. Job openings were 7.079 million, down from a revised 7.335 million in July. Hires were little changed at 5.192 million, total separations 5.070 million and quits 3.1 million. The job-openings rate was 4.3%, the hires rate 3.3% and the quits rate 1.9%.
 
@@ -138,7 +138,7 @@ The European inflation thesis would weaken if the final September HICP revision 
 
 The Japanese labour-softening thesis would weaken if the September unemployment rate falls back and new job postings rebound while the active job-openings ratio rises. The August data are one month and should not be treated as a structural break.
 
-The U.S. side remains deliberately unresolved at this cutoff. A materially stronger or weaker September Employment Situation can change the global labour comparison immediately. That release should be incorporated as a new evidence update rather than retroactively assumed in this morning edition.
+The U.S. side remains deliberately unresolved at this cutoff. A materially stronger or weaker September Employment Situation can change the global labour comparison immediately. Those data should be incorporated only after release; no value is assumed before publication by BLS.
 
 ## Sources
 

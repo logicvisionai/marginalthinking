@@ -2,11 +2,11 @@
 
 Os dados de 2 de outubro começam com uma combinação menos confortável entre inflação e trabalho do que a observada no dia anterior. A inflação anual da área do euro acelerou para 3,8% em setembro, ante 3,2% em agosto, com a inflação de energia subindo para 18,8%. Medidas subjacentes também avançaram na margem. No Japão, a taxa de desemprego subiu para 2,5% em agosto, enquanto a razão entre vagas e candidatos permaneceu em 1,18 e as novas vagas ficaram 3,4% abaixo de um ano antes. Os Estados Unidos chegam à divulgação do emprego de setembro com 7,1 milhões de vagas abertas em agosto, 5,2 milhões de contratações e 3,1 milhões de desligamentos voluntários.
 
-A combinação não descreve uma desaceleração global sincronizada. A Europa enfrenta nova pressão de preços, liderada por energia mas não limitada a ela. O Japão ainda tem mais vagas que candidatos, porém o fluxo de novas oportunidades está enfraquecendo e o desemprego aumentou ligeiramente. Nos Estados Unidos, a rotatividade de trabalho permaneceu relativamente estável, mas os dados decisivos de payroll e desemprego de setembro ainda não tinham sido publicados no corte desta edição.
+A combinação não descreve uma desaceleração global sincronizada. A Europa enfrenta nova pressão de preços, liderada por energia mas não limitada a ela. O Japão ainda tem mais vagas que candidatos, porém o fluxo de novas oportunidades está enfraquecendo e o desemprego aumentou ligeiramente. Nos Estados Unidos, a rotatividade de trabalho permaneceu relativamente estável, mas os dados decisivos de payroll e desemprego de setembro ainda não estavam disponíveis às 07h06 BRT.
 
 Para a transmissão de política monetária, a inflação europeia é a informação nova dominante. A taxa da facilidade de depósito do BCE está em 2,50% após a alta de setembro, enquanto a inflação cheia está agora 1,8 ponto percentual acima da meta de 2% no médio prazo. A questão imediata é se a alta de energia permanece um choque de preço relativo ou continua se transmitindo para serviços e inflação subjacente.
 
-**Corte de informação: 2 de outubro de 2026, 07h06 BRT. O Employment Situation dos EUA para setembro está marcado para 08h30 ET, depois do corte desta publicação.**
+**Corte de informação: 2 de outubro de 2026, 07h06 BRT. O Employment Situation dos EUA para setembro está marcado para 08h30 ET e ainda não estava disponível.**
 
 ## O que mudou em 2 de outubro
 
@@ -107,7 +107,7 @@ O sinal japonês difere, portanto, do europeu. A Europa enfrenta renovada press�
 
 ## O mercado de trabalho americano é a perna ainda ausente do quadro de hoje
 
-O Employment Situation de setembro dos EUA está marcado para 08h30 ET, depois do corte desta edição. Nenhum dado de payroll, desemprego ou salários de setembro está incluído aqui.
+O Employment Situation de setembro dos EUA está marcado para 08h30 ET. Às 07h06 BRT, ainda não havia dado disponível de payroll, desemprego ou salários de setembro.
 
 A evidência mais recente de demanda por trabalho é o JOLTS de agosto. As vagas abertas ficaram em 7,079 milhões, abaixo dos 7,335 milhões revisados de julho. As contratações ficaram praticamente estáveis em 5,192 milhões, as separações totais em 5,070 milhões e os pedidos de demissão em 3,1 milhões. A taxa de vagas foi 4,3%, a taxa de contratação 3,3% e a taxa de pedidos de demissão 1,9%.
 
@@ -138,7 +138,7 @@ A tese inflacionária europeia enfraqueceria se a revisão final do HICP de sete
 
 A tese de enfraquecimento do trabalho japonês perderia força se o desemprego de setembro recuasse e as novas vagas se recuperassem enquanto a razão de vagas ativas aumentasse. Os dados de agosto são apenas um mês e não devem ser tratados como ruptura estrutural.
 
-O lado americano permanece deliberadamente não resolvido neste corte. Um Employment Situation de setembro materialmente mais forte ou mais fraco pode mudar imediatamente a comparação global de trabalho. Essa divulgação deve entrar como nova atualização de evidência, e não ser presumida retroativamente nesta edição da manhã.
+O lado americano permanece deliberadamente não resolvido neste corte. Um Employment Situation de setembro materialmente mais forte ou mais fraco pode mudar imediatamente a comparação global de trabalho. Esses dados devem ser incorporados somente após a divulgação; nenhum valor é presumido antes da publicação pelo BLS.
 
 ## Fontes
 
