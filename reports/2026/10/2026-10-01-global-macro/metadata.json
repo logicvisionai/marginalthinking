@@ -19,91 +19,110 @@
     "level": "global",
     "regions": [
       "americas",
-      "europe"
+      "europe",
+      "asia-pacific"
     ],
     "subregions": [
-      "north-america"
+      "north-america",
+      "south-asia",
+      "east-asia"
     ],
     "countries": []
   },
   "topics": [
     "macroeconomics",
+    "monetary-policy",
     "capital-markets",
     "trade-investment",
-    "energy"
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "demography-labor"
   ],
   "phenomena": [],
   "format": "brief",
   "cadence": "daily",
-  "revision": 0,
+  "revision": 1,
   "producer_checks": {
-    "verified_at": "2026-10-01T14:00:00-03:00",
+    "verified_at": "2026-10-01T20:58:00-03:00",
     "primary_sources": [
       "Institute for Supply Management",
+      "U.S. Department of the Treasury",
+      "Board of Governors of the Federal Reserve System",
       "Eurostat",
-      "U.S. Energy Information Administration"
+      "U.S. Energy Information Administration",
+      "U.S. Bureau of Labor Statistics"
     ],
     "bilingual_parity": "checked",
-    "visual_signature": "1 Markdown table + 1 explicit line chart + 1 causal flow per locale",
-    "novelty_against_previous_daily": "checked against 2026-09-30; lead shifts from China/Australia/UK data divergence to U.S. manufacturing, European labour and U.S. energy-trade dispersion"
+    "visual_signature": "1 Markdown table + 2 explicit charts + 1 causal flow + 1 trade-route map per locale",
+    "novelty_against_previous_daily": "revision 1 replaces the shallow dispersion framing with a causal assessment of manufacturing demand, input-price pressure, long real and nominal yields, European labour softening and U.S. energy-trade reallocation"
   },
   "url": "/reports/2026/10/2026-10-01-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-01T14:12:00-03:00",
+  "qa_reviewed_at": "2026-10-01T21:05:00-03:00",
   "qa_confidence": "high",
-  "qa_reviewed_commit": "0e8209053c5722f4510481c20cc4e2652eaff918",
+  "qa_reviewed_commit": "4231cc76e2049f403479bfcc5690fcba3c08a1dd",
   "locales": {
     "en": {
       "markdown": "en.md",
-      "title": "Global Macro — U.S. manufacturing holds expansion while Europe’s labour market softens at the margin",
-      "deck": "U.S. manufacturing remained expansionary in September while euro-area unemployment was stable monthly but slightly higher year on year and U.S. propane exports reached record territory.",
+      "title": "Global Macro — U.S. factory demand strengthens as input inflation and long yields raise the cost of expansion",
+      "deck": "U.S. factory demand strengthened, but ISM Prices rose to 77.9 and the 10-year Treasury stayed above 5%; Europe softened while propane exports hit records.",
       "tags": [
         "global macro",
         "United States",
-        "European Union",
         "manufacturing",
-        "unemployment",
-        "energy"
+        "Treasuries",
+        "input prices",
+        "European Union",
+        "energy trade"
       ],
       "keywords": [
-        "ISM PMI September 2026",
+        "ISM September 2026 prices 77.9",
+        "US 10-year Treasury October 1 2026",
         "euro area unemployment August 2026",
         "US propane exports 2026"
       ],
-      "regime": "Uneven global resilience: U.S. manufacturing remains expansionary while European labour conditions soften marginally and U.S. energy exports continue to reshape trade flows.",
-      "key_risk": "Persistent divergence across manufacturing, labour and energy can produce different policy and market transmission across regions.",
+      "regime": "Costly resilience: U.S. manufacturing demand remains expansionary, but input-price pressure and high real and nominal long-term yields raise the cost of converting orders into capacity and output.",
+      "key_risk": "If restocking and order growth persist while input prices and long real yields remain elevated, margins, working capital and investment can tighten even without a fall in headline activity.",
       "watch": [
-        "U.S. manufacturing new orders and employment",
-        "Euro-area unemployment",
-        "U.S. energy export flows"
+        "U.S. September Employment Situation on 2 October",
+        "ISM Services on 5 October",
+        "U.S. September CPI on 14 October",
+        "Euro-area unemployment release on 30 October",
+        "U.S. propane export capacity and Panama Canal constraints"
       ],
-      "search_text": "Global Macro October 1 2026 ISM 54.5 euro area unemployment 6.4 propane exports"
+      "search_text": "Global Macro October 1 2026 ISM prices 77.9 new orders backlog Treasury 5.24 real yield euro unemployment propane exports"
     },
     "pt-BR": {
       "markdown": "pt-BR.md",
-      "title": "Global Macro — Indústria dos EUA mantém expansão enquanto o mercado de trabalho europeu perde força na margem",
-      "deck": "A indústria dos EUA permaneceu em expansão em setembro, enquanto o desemprego da área do euro ficou estável no mês mas ligeiramente maior no ano e as exportações americanas de propano permaneceram em níveis recordes.",
+      "title": "Macro Global — Demanda industrial dos EUA ganha força enquanto custos de insumos e juros longos encarecem a expansão",
+      "deck": "A demanda industrial dos EUA ganhou força, mas Preços ISM foi a 77,9 e o Treasury de 10 anos seguiu acima de 5%; Europa suavizou e propano bateu recordes.",
       "tags": [
         "macro global",
         "Estados Unidos",
-        "União Europeia",
         "indústria",
-        "desemprego",
-        "energia"
+        "Treasuries",
+        "preços de insumos",
+        "União Europeia",
+        "comércio de energia"
       ],
       "keywords": [
-        "PMI ISM setembro 2026",
-        "desemprego área do euro agosto 2026",
+        "ISM setembro 2026 preços 77,9",
+        "Treasury 10 anos 1 outubro 2026",
+        "desemprego área euro agosto 2026",
         "exportações propano EUA 2026"
       ],
-      "regime": "Resiliência global desigual: a indústria americana permanece expansionista enquanto o mercado de trabalho europeu enfraquece marginalmente e as exportações de energia dos EUA continuam alterando fluxos comerciais.",
-      "key_risk": "A divergência persistente entre indústria, trabalho e energia pode produzir transmissões distintas de política e mercado entre regiões.",
+      "regime": "Resiliência cara: a demanda industrial dos EUA continua expansionista, mas a pressão de preços dos insumos e os juros reais e nominais longos elevados aumentam o custo de converter pedidos em capacidade e produção.",
+      "key_risk": "Se recomposição de estoques e crescimento de pedidos persistirem com preços de insumos e juros reais longos elevados, margens, capital de giro e investimento podem apertar mesmo sem queda da atividade cheia.",
       "watch": [
-        "Novas encomendas e emprego industrial nos EUA",
-        "Desemprego da área do euro",
-        "Fluxos de exportação de energia dos EUA"
+        "Employment Situation de setembro dos EUA em 2 de outubro",
+        "ISM de Serviços em 5 de outubro",
+        "CPI americano de setembro em 14 de outubro",
+        "Desemprego da área do euro em 30 de outubro",
+        "Capacidade de exportação de propano dos EUA e restrições no Canal do Panamá"
       ],
-      "search_text": "Global Macro 1 outubro 2026 ISM 54,5 desemprego área euro 6,4 exportações propano"
+      "search_text": "Macro Global 1 outubro 2026 ISM preços 77,9 novos pedidos carteira Treasury 5,24 juro real desemprego euro propano"
     }
   }
 }
