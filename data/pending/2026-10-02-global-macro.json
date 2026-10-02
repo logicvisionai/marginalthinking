@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-02",
+  "slug": "2026-10-02-global-macro",
+  "date": "2026-10-02",
+  "published_at": "2026-10-02T07:06:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-02-global-macro/en.md",
+      "title": "Global Macro — Euro-area inflation climbs to 3.8% as Japan labour demand softens ahead of U.S. payrolls",
+      "deck": "Euro-area inflation accelerated to 3.8% as energy reached 18.8%; Japan unemployment rose to 2.5% while new job postings fell 3.4% year on year.",
+      "tags": [
+        "global macro",
+        "euro area",
+        "inflation",
+        "ECB",
+        "Japan",
+        "labour market",
+        "United States",
+        "employment"
+      ],
+      "keywords": [
+        "euro area inflation September 2026",
+        "ECB rates October 2026",
+        "Japan unemployment August 2026",
+        "Japan job openings August 2026",
+        "US payroll September 2026"
+      ],
+      "regime": "Policy divergence under uneven inflation and labour constraints: euro-area price pressure has reaccelerated, Japan's vacancy flow is softening, and the U.S. labour picture awaits September payroll confirmation.",
+      "key_risk": "If European energy inflation passes into services and wages while labour demand weakens elsewhere, major central banks may face increasingly different trade-offs between inflation persistence and employment momentum.",
+      "watch": [
+        "U.S. September Employment Situation after the publication cutoff",
+        "Euro-area final September HICP on 16 October",
+        "Japan September labour and vacancy data",
+        "ECB evidence on wages and services inflation",
+        "U.S. September CPI on 14 October"
+      ],
+      "search_text": "Global Macro October 2 2026 euro area inflation 3.8 energy 18.8 Japan unemployment 2.5 job openings payroll"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-02-global-macro/pt-BR.md",
+      "title": "Macro Global — Inflação da área do euro sobe a 3,8% enquanto a demanda por trabalho no Japão perde força antes do emprego americano",
+      "deck": "A inflação da área do euro acelerou para 3,8% e energia chegou a 18,8%; o desemprego japonês subiu a 2,5% enquanto novas vagas caíram 3,4% em doze meses.",
+      "tags": [
+        "macro global",
+        "área do euro",
+        "inflação",
+        "BCE",
+        "Japão",
+        "mercado de trabalho",
+        "Estados Unidos",
+        "emprego"
+      ],
+      "keywords": [
+        "inflação área do euro setembro 2026",
+        "taxas BCE outubro 2026",
+        "desemprego Japão agosto 2026",
+        "vagas Japão agosto 2026",
+        "payroll EUA setembro 2026"
+      ],
+      "regime": "Divergência de política sob restrições diferentes de inflação e trabalho: a pressão de preços na área do euro reacelerou, o fluxo de vagas no Japão enfraquece e o quadro americano aguarda confirmação do payroll de setembro.",
+      "key_risk": "Se a inflação de energia europeia se transmitir para serviços e salários enquanto a demanda por trabalho enfraquece em outras economias, grandes bancos centrais podem enfrentar trade-offs cada vez mais diferentes entre persistência inflacionária e emprego.",
+      "watch": [
+        "Employment Situation de setembro dos EUA após o corte da publicação",
+        "HICP final de setembro da área do euro em 16 de outubro",
+        "Dados japoneses de trabalho e vagas de setembro",
+        "Evidências do BCE sobre salários e inflação de serviços",
+        "CPI de setembro dos EUA em 14 de outubro"
+      ],
+      "search_text": "Macro Global 2 outubro 2026 inflação área euro 3,8 energia 18,8 Japão desemprego 2,5 vagas payroll"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "europe",
+      "asia-pacific",
+      "americas"
+    ],
+    "subregions": [
+      "western-europe",
+      "east-asia",
+      "north-america"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "demography-labor",
+    "energy",
+    "commodities-resources"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-10-02T07:06:00-03:00",
+    "primary_sources": [
+      "Eurostat",
+      "European Central Bank",
+      "Statistics Bureau of Japan",
+      "Japan Ministry of Health, Labour and Welfare",
+      "U.S. Bureau of Labor Statistics"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+    "novelty_against_previous_daily": "checked against 2026-10-01 revision 1; lead shifts from U.S. manufacturing cost pressure to same-day euro-area inflation reacceleration, Japanese labour-demand softening and the pre-payroll U.S. labour setup"
+  }
+}
