@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-03-ukraine",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-03T20:27:08-03:00",
+  "reviewed_commit": "9549d70f7820b6de8ff3c876190d86e0120d258c",
+  "pending_blob_sha": "fca8653253b64b425dc135f6218325e33e436042",
+  "source_blob_shas": {
+    "en": "1fdfc847c8a1280ce1cfac50820921b35d5c70fd",
+    "pt-BR": "476f7635f4cc70efc8d64b0ef25ac2e0dd62054f"
+  },
+  "program": "strategic-transitions",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial-localization",
+      "location": "pending.sources.pt-BR.watch and PT-BR public copy",
+      "issue": "The PT-BR edition exposes untranslated/internal English terminology, including 'grants' and 'Clusters', and therefore does not satisfy the requirement that the Portuguese edition read as originally written in Brazilian Portuguese.",
+      "evidence": "pending.sources.pt-BR.watch contains 'Desembolsos externos e composição grants/empréstimos' and 'Clusters de adesão e metas do Ukraine Facility'."
+    },
+    {
+      "type": "editorial-publication-readiness",
+      "location": "PT-BR edition, fiscal/reconstruction tables and prose",
+      "issue": "The Portuguese edition repeatedly retains raw English unit/label constructions such as 'UAH trillion'/'USD billion' rather than localized units, creating visible translation residue in a publication-facing dossier.",
+      "evidence": "The staged PT-BR source uses English currency-unit labels in analytical tables instead of natural PT-BR formulations such as 'UAH trilhões'/'US$ bilhões' with consistent unit notes."
+    }
+  ],
+  "required_fixes": [
+    "Localize all reader-facing PT-BR metadata and prose, replacing raw English terms such as 'grants' and 'Clusters' with natural Brazilian Portuguese while preserving the exact economic meaning.",
+    "Normalize all PT-BR table headings, currency/unit labels and explanatory notes so the edition reads natively in Portuguese and remains semantically identical to EN.",
+    "After localization, re-run a complete EN/PT-BR parity pass over numbers, dates, epistemic status, tables and visual captions before returning a new pending snapshot with new Git blob SHAs."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "taxonomy": "passed on inspected controlled fields",
+    "country_context_contract": "passed structurally: country geography and related_research_ids are present; substantive relationship verification remains required on resubmission",
+    "translation": "failed",
+    "editorial_publication_readiness": "failed: PT-BR contains visible untranslated English terminology and unit-label residue",
+    "visual_evidence_readiness": "not approved because publication-readiness already fails; visual parity must be rechecked on the corrected snapshot",
+    "factual_methodology": "not granted final approval; no factual approval is implied by this editorial rejection"
+  },
+  "limitations": [
+    "This rejection is triggered by independently sufficient publication-readiness failures. A corrected resubmission must still undergo the full factual, methodological, contextual, visual and bilingual QA gates; this decision does not pre-clear those layers."
+  ],
+  "notes": "No reports/, HTML, data/reports.json or global site surface was changed. Canonical public-state search immediately before this decision found no materialized metadata for this ID."
+}
