@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-10-03-israel",
+  "slug": "2026-10-03-country-context-israel",
+  "date": "2026-10-03",
+  "published_at": "2026-10-03T21:18:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-03-country-context-israel/en.md",
+      "title": "Israel: security-state capacity, technological concentration and the fiscal-demographic limits of resilience",
+      "deck": "Israel combines globally competitive technology and defence systems with unusually deep mobilisation capacity, but the post-2023 security burden, infrastructure gaps and uneven demographic participation increasingly determine whether resilience can remain fiscally and socially durable.",
+      "tags": [
+        "Israel",
+        "political economy",
+        "security state",
+        "high technology",
+        "demography",
+        "energy",
+        "Palestinian territories",
+        "Middle East"
+      ],
+      "keywords": [
+        "Israel economy 2026",
+        "Israel country dossier",
+        "Israel high tech",
+        "Israel defence budget",
+        "Israel demographics",
+        "Israel Palestine political economy",
+        "Israel natural gas",
+        "Israel institutions"
+      ],
+      "regime": "High-capacity security state with globally competitive technology and finance, operating under a structurally higher post-2023 defence burden and demographic-infrastructure constraints that increasingly determine potential growth.",
+      "key_risk": "Repeated regional mobilisation, rising debt and relocation of high-value technology functions could gradually erode the civilian tax base and productive infrastructure that finance Israel's security capacity.",
+      "watch": [
+        "Defence spending, reserve mobilisation and public debt",
+        "High-tech R&D employment, fundraising and relocation abroad",
+        "Haredi male and Arab female labour-market participation",
+        "Housing, transport and civilian public investment",
+        "Natural-gas infrastructure and regional energy links",
+        "Israeli-Palestinian economic linkages, West Bank violence and Gaza ceasefire implementation",
+        "Regional normalisation and treaty relationships",
+        "Institutional predictability through the 2026 election cycle"
+      ],
+      "search_text": "Israel 2026 country context political economy security state technology high tech defence budget debt demographics Haredi Arab labour gas water Palestine West Bank Gaza regional normalisation"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-03-country-context-israel/pt-BR.md",
+      "title": "Israel: capacidade de Estado de segurança, concentração tecnológica e limites fiscais e demográficos da resiliência",
+      "deck": "Israel combina sistemas tecnológicos e de defesa globalmente competitivos com capacidade incomum de mobilização, mas o encargo de segurança pós-2023, gargalos de infraestrutura e participação demográfica desigual determinam cada vez mais a sustentabilidade fiscal e social da resiliência.",
+      "tags": [
+        "Israel",
+        "economia política",
+        "Estado de segurança",
+        "alta tecnologia",
+        "demografia",
+        "energia",
+        "territórios palestinos",
+        "Oriente Médio"
+      ],
+      "keywords": [
+        "economia Israel 2026",
+        "dossiê Israel",
+        "alta tecnologia Israel",
+        "orçamento defesa Israel",
+        "demografia Israel",
+        "economia política Israel Palestina",
+        "gás natural Israel",
+        "instituições Israel"
+      ],
+      "regime": "Estado de segurança de alta capacidade, com tecnologia e finanças globalmente competitivas, operando sob encargo de defesa estruturalmente maior após 2023 e restrições demográficas e de infraestrutura que determinam cada vez mais o crescimento potencial.",
+      "key_risk": "Mobilização regional repetida, aumento da dívida e relocalização de funções tecnológicas de alto valor podem corroer gradualmente a base tributária civil e a infraestrutura produtiva que financiam a capacidade de segurança de Israel.",
+      "watch": [
+        "Gasto de defesa, mobilização de reservistas e dívida pública",
+        "Emprego doméstico de P&D em alta tecnologia, captação e relocalização para o exterior",
+        "Participação de homens haredi e mulheres árabes no mercado de trabalho",
+        "Moradia, transporte e investimento público civil",
+        "Infraestrutura de gás natural e conexões energéticas regionais",
+        "Vínculos econômicos israelense-palestinos, violência na Cisjordânia e implementação do cessar-fogo em Gaza",
+        "Normalização regional e relações baseadas em tratados",
+        "Previsibilidade institucional durante o ciclo eleitoral de 2026"
+      ],
+      "search_text": "Israel 2026 dossiê país economia política Estado segurança alta tecnologia defesa orçamento dívida demografia haredi árabes trabalho gás água Palestina Cisjordânia Gaza normalização regional"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "middle-east"
+    ],
+    "subregions": [
+      "levant"
+    ],
+    "countries": [
+      {
+        "code": "IL",
+        "slug": "israel"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security",
+    "political-stability",
+    "migration-displacement",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+    "MT-CC-2026-09-23-iran",
+    "MT-CC-2026-09-23-saudi-arabia-deep",
+    "MT-CC-2026-09-26-united-states"
+  ],
+  "selection_rationale": "The public corpus contains a focused study of Israel's 1985 stabilization but lacks a reusable country-level dossier linking state formation, constitutional institutions, security mobilisation, high technology, defence industry, fiscal capacity, demographics, energy and water systems, regional normalisation, and the economic mechanisms connecting Israel with the West Bank and Gaza. Israel is also directly connected to existing Iran, Saudi Arabia and United States country research, making a structural dossier necessary to avoid repeatedly rebuilding context in regional research.",
+  "contrary_evidence": [
+    "Large foreign-exchange reserves, a resilient financial system, strong high-tech exports and repeated post-shock recoveries argue against a simple thesis of economic fragility.",
+    "Rising debt, repeated reserve mobilisation, infrastructure gaps and relocation of some R&D activity abroad argue against treating wartime resilience as costless or indefinitely self-renewing.",
+    "Peace treaties and regional normalisation demonstrate substantial interstate integration, while the unresolved Israeli-Palestinian conflict and continuing regional military confrontation limit any claim that geopolitical risk has structurally disappeared.",
+    "A young population can enlarge future labour supply, but uneven employment and skill formation across rapidly growing groups mean demographic growth is not automatically a fiscal dividend."
+  ],
+  "limitations": [
+    "Israeli and Palestinian statistical systems use different territorial coverage; population and GDP series must not be combined without explicit scope reconciliation.",
+    "Wartime fiscal and defence figures use different accounting perimeters and are frequently revised as operations and reserves change.",
+    "Active-conflict casualty, damage and displacement figures can be incomplete or differently defined across Israeli, Palestinian and UN sources.",
+    "The ICJ source is an advisory opinion with separate and dissenting opinions; its legal conclusions are attributed precisely and not treated as a negotiated political settlement.",
+    "Current macroeconomic forecasts are highly conditional on security assumptions and differ between the IMF and Bank of Israel.",
+    "The 27 October 2026 election had not occurred by the evidence cutoff, so no electoral outcome is inferred."
+  ]
+}
