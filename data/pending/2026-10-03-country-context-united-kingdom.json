@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-10-03-united-kingdom",
+  "slug": "2026-10-03-country-context-united-kingdom",
+  "date": "2026-10-03",
+  "published_at": "2026-10-03T19:17:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-03-country-context-united-kingdom/en.md",
+      "title": "United Kingdom: services power, fiscal constraint and the reconstruction of a post-Brexit growth model",
+      "deck": "The UK combines global services, finance, science and defence capabilities with weak productivity, high debt-service costs, post-Brexit trade frictions and an investment challenge spanning housing, energy and regional infrastructure.",
+      "tags": [
+        "United Kingdom",
+        "Brexit",
+        "services",
+        "productivity",
+        "fiscal policy",
+        "energy",
+        "defence",
+        "industrial strategy"
+      ],
+      "keywords": [
+        "UK political economy 2026",
+        "United Kingdom productivity",
+        "post Brexit trade",
+        "UK fiscal outlook",
+        "UK industrial strategy",
+        "UK clean energy",
+        "UK defence spending"
+      ],
+      "regime": "Post-Brexit capital and productivity reconstruction: global services and institutional flexibility coexist with weak productivity, expensive public debt, regional imbalances and a renewed industrial-energy-security investment cycle.",
+      "key_risk": "Weak productivity and high debt-service costs compress fiscal space before housing, grids, defence and industrial investment raise productive capacity.",
+      "watch": [
+        "Output per hour and business investment",
+        "Gilt yields, debt interest and borrowing",
+        "UK-EU trade frictions and services exports",
+        "Housing completions, planning and grid connections",
+        "Clean-power investment and delivered industrial energy costs",
+        "Defence procurement execution and regional industrial investment"
+      ],
+      "search_text": "United Kingdom 2026 political economy Brexit services finance productivity fiscal debt Bank of England housing industrial strategy clean energy defence devolution"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-03-country-context-united-kingdom/pt-BR.md",
+      "title": "Reino Unido: potência em serviços, restrição fiscal e reconstrução de um modelo de crescimento pós-Brexit",
+      "deck": "O Reino Unido combina serviços globais, finanças, ciência e defesa com produtividade fraca, juros elevados da dívida, fricções pós-Brexit e um desafio de investimento em habitação, energia e infraestrutura regional.",
+      "tags": [
+        "Reino Unido",
+        "Brexit",
+        "serviços",
+        "produtividade",
+        "política fiscal",
+        "energia",
+        "defesa",
+        "política industrial"
+      ],
+      "keywords": [
+        "economia política Reino Unido 2026",
+        "produtividade Reino Unido",
+        "comércio pós Brexit",
+        "fiscal Reino Unido",
+        "política industrial britânica",
+        "energia limpa Reino Unido",
+        "defesa Reino Unido"
+      ],
+      "regime": "Reconstrução pós-Brexit de capital e produtividade: serviços globais e flexibilidade institucional coexistem com produtividade fraca, dívida pública cara, desequilíbrios regionais e novo ciclo industrial-energético-de segurança.",
+      "key_risk": "Produtividade fraca e juros elevados comprimem espaço fiscal antes que investimentos em habitação, redes, defesa e indústria elevem capacidade produtiva.",
+      "watch": [
+        "Produto por hora e investimento empresarial",
+        "Yields de gilts, juros da dívida e déficit",
+        "Fricções Reino Unido-UE e exportação de serviços",
+        "Habitação, planejamento e conexões à rede",
+        "Investimento em energia limpa e custo industrial entregue",
+        "Execução de compras de defesa e investimento industrial regional"
+      ],
+      "search_text": "Reino Unido 2026 economia política Brexit serviços finanças produtividade fiscal dívida Banco da Inglaterra habitação política industrial energia limpa defesa devolução"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "western-europe"
+    ],
+    "countries": [
+      {
+        "code": "GB",
+        "slug": "united-kingdom"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "defense-security",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CS-2026-09-20-EUR-RU-UA",
+    "MT-CC-2026-09-27-france",
+    "MT-CC-2026-10-03-germany"
+  ],
+  "selection_rationale": "The United Kingdom is explicitly implicated in the existing Europe–Russia–Ukraine conflict-system research but lacked a reusable country-level context. A country dossier is warranted to connect the UK's post-Brexit trade regime, services-export model, productivity problem, fiscal and monetary autonomy, devolution, energy transition, defence-industrial expansion and regional capital allocation.",
+  "contrary_evidence": [
+    "The UK retains globally important finance, professional services, science, universities, aerospace, defence, life sciences and clean-energy capabilities, arguing against a simple post-Brexit decline thesis.",
+    "Strong first-half 2026 GDP growth does not by itself resolve the deeper productivity, investment, housing and fiscal constraints; cyclical recovery and structural performance are kept separate."
+  ],
+  "limitations": [
+    "ONS labour-market and productivity data are subject to Labour Force Survey quality caveats and revisions.",
+    "The latest population estimate is mid-2025 and the latest long-term migration flow is the year ending December 2025.",
+    "The March 2026 OBR fiscal forecast predates the July 2026 change of prime minister and is used as an inherited baseline rather than a full current-policy forecast.",
+    "Great Britain clean-power metrics exclude Northern Ireland and are not identical to whole-UK energy statistics.",
+    "Government industrial, energy and defence targets are policy commitments, not evidence of completed investment or capacity."
+  ]
+}
