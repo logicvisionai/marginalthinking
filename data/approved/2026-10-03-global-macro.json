@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-03",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-03T14:21:00-03:00",
-  "reviewed_commit": "7da4c1336bb4cb04ec5a92e33a265b44a915d7ef",
+  "reviewed_at": "2026-10-03T14:30:00-03:00",
+  "reviewed_commit": "46de816c202c51e6dcf44344d29a8568a1e00c8d",
   "pending_blob_sha": "28a667a3a178a480803e35a106ef32f3eb3682f9",
   "source_blob_shas": {
     "en": "ebbb0df6250fed75701e108e7275f20cbd456c94",
-    "pt-BR": "0c565959685ffbae9241b2f5943bc8503b54d8fc"
+    "pt-BR": "13c3314e8e72ff1888a79b19e743a7cc4b79c4ad"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -48,7 +48,7 @@
     "Federal Reserve projections are participant assessments made on information available at the September meeting and are not commitments.",
     "Euro-area and Japan observations are carried forward only as cross-country context; the new evidence in this edition is centered on the U.S. release."
   ],
-  "notes": "Approved after primary-source verification, bilingual parity review, revision-history check, visual-semantic review and explicit separation of observed yields from causal attribution.",
+  "notes": "Approved after primary-source verification, bilingual parity review, revision-history check, visual-semantic review, and final Portuguese public-language validation.",
   "publication": {
     "schema_version": 2,
     "ready": true,
