@@ -1,5 +1,82 @@
 [
   {
+    "id": "MT-GM-2026-10-03",
+    "slug": "2026-10-03-global-macro",
+    "date": "2026-10-03",
+    "published_at": "2026-10-03T14:21:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "demography-labor",
+      "sovereign-debt"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "title": "Global Macro — U.S. payrolls slow to 29,000 as inflation and long yields keep the Fed trade-off asymmetric",
+    "deck": "September payrolls rose only 29,000 and July-August were revised down by 60,000, but PCE inflation remains 3.4% and long Treasury yields stayed above 5%.",
+    "tags": [
+      "global macro",
+      "United States",
+      "payrolls",
+      "Federal Reserve",
+      "PCE inflation",
+      "Treasuries",
+      "labour market"
+    ],
+    "keywords": [
+      "US payroll September 2026",
+      "US unemployment September 2026",
+      "PCE inflation August 2026",
+      "Federal Reserve September 2026",
+      "Treasury yields October 2 2026"
+    ],
+    "regime": "Slower U.S. hiring under persistent inflation and elevated long yields: labour momentum weakened, but unemployment remains near its recent range and consumption has not yet confirmed a broad contraction.",
+    "key_risk": "If hiring continues to weaken while inflation remains above target and long yields stay elevated, monetary policy can face a sharper employment-inflation trade-off before financing conditions ease.",
+    "watch": [
+      "U.S. September CPI on 14 October",
+      "Weekly initial unemployment claims and continuing claims",
+      "October payrolls on 6 November",
+      "September PCE on 29 October",
+      "Whether 2-year and 10-year Treasury yields remain elevated after the payroll reset"
+    ],
+    "search_text": "Global Macro October 3 2026 US payroll 29000 unemployment 4.2 PCE inflation 3.4 Treasury 10-year 5.28 Fed",
+    "url": "/reports/2026/10/2026-10-03-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-03-global-macro/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-03T14:30:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "46de816c202c51e6dcf44344d29a8568a1e00c8d"
+  },
+  {
     "id": "MT-GM-2026-10-02",
     "slug": "2026-10-02-global-macro",
     "date": "2026-10-02",
