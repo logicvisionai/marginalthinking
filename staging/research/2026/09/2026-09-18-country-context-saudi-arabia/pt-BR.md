@@ -46,11 +46,11 @@ A segunda linha é o teste principal do modelo: a diversificação se torna mais
 
 ## A reforma do trabalho ampliou a participação, mas qualificação e segmentação continuam sendo restrições estruturais
 
-Os resultados do mercado de trabalho saudita mudaram substancialmente na última década. Pesquisa do FMI indica que a participação feminina entre cidadãs sauditas aumentou quase 18 pontos percentuais entre 2017 e 2024. A GASTAT registrou participação feminina saudita de 34,5% no segundo trimestre de 2025 e desemprego de 6,8% entre cidadãos sauditas.
+Os resultados do mercado de trabalho saudita mudaram substancialmente na última década. Pesquisa do FMI indica que a participação feminina entre cidadãs sauditas aumentou quase 18 pontos percentuais entre 2017 e 2024. A observação oficial mais recente disponível até o corte deste dossiê, as Estatísticas do Mercado de Trabalho da GASTAT para o primeiro trimestre de 2026, registrou participação na força de trabalho de 49,0% entre cidadãos sauditas, participação feminina saudita de 33,9% e desemprego de 6,4% entre cidadãos sauditas. O desemprego feminino saudita ficou em 9,0%. Em comparação com o quarto trimestre de 2025, o desemprego saudita caiu 0,8 ponto percentual, enquanto a participação feminina saudita recuou 0,6 ponto percentual, de 34,5%.
 
-Essas mudanças ampliam a oferta doméstica de trabalho e a base de renda das famílias, mas não eliminam a segmentação do mercado. A Arábia Saudita continua dependendo fortemente de trabalhadores expatriados, enquanto a expansão de setores técnicos, digitais e intensivos em capital eleva a demanda por competências especializadas. O FMI continua apontando capital humano e resultados do mercado de trabalho como prioridades de reforma.
+Os dados mais novos qualificam uma narrativa simples de expansão contínua da participação: o aumento de longo prazo da participação feminina continua material, mas o trimestre mais recente mostra que a participação pode recuar mesmo enquanto o desemprego cai. Essas mudanças ampliam ao longo do tempo a oferta doméstica de trabalho e a base de renda das famílias, mas não eliminam a segmentação do mercado. A Arábia Saudita continua dependendo fortemente de trabalhadores expatriados, enquanto a expansão de setores técnicos, digitais e intensivos em capital eleva a demanda por competências especializadas. O FMI continua apontando capital humano e resultados do mercado de trabalho como prioridades de reforma.
 
-O mecanismo social é, portanto, duplo: maior participação dos cidadãos pode ampliar a distribuição dos ganhos do crescimento não petrolífero, enquanto custos de moradia, incompatibilidade de qualificações e diferenças entre emprego de cidadãos e expatriados podem determinar quem recebe esses ganhos e onde empresas encontram restrições de mão de obra.
+O mecanismo social é, portanto, duplo: maior participação dos cidadãos pode ampliar a distribuição dos ganhos do crescimento não petrolífero, enquanto volatilidade da participação, custos de moradia, incompatibilidade de qualificações e diferenças entre emprego de cidadãos e expatriados podem determinar quem recebe esses ganhos e onde empresas encontram restrições de mão de obra.
 
 ```mindmap
 Restrições à diversificação saudita
@@ -113,13 +113,13 @@ Para a resiliência energética, operação repetida das rotas alternativas sob 
 
 ## Pesquisas relacionadas da Marginal Thinking
 
-Este dossiê fornece contexto nacional para `MT-GM-2026-09-17`, `MT-GM-2026-09-18` e `MT-WF-2026-09-18`. Ele não substitui a análise sensível ao tempo sobre mercados, energia ou fluxos de capital desses relatórios.
+Este dossiê fornece contexto nacional para [Macro Global — 17 de setembro de 2026](/pt-br/reports/2026/09/2026-09-17-global-macro.html), [Macro Global — 18 de setembro de 2026](/pt-br/reports/2026/09/2026-09-18-global-macro.html) e [Fluxo Global de Riqueza Semanal — 18 de setembro de 2026](/pt-br/reports/2026/09/2026-09-18-global-wealth-flow-weekly.html). Ele não substitui a análise sensível ao tempo sobre mercados, energia ou fluxos de capital desses relatórios.
 
 ## Fontes
 
 - FMI, *2026 Article IV Consultation with Saudi Arabia*, 29 de julho de 2026: https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv
 - FMI, *Structural Reforms in Saudi Arabia Since 2016*, Working Paper 2026/014: https://www.elibrary.imf.org/abstract/journals/001/2026/014/article-A001-en.xml
-- General Authority for Statistics, *Labor Market Statistics Q2 2025*: https://www.stats.gov.sa/en/w/news/93
+- General Authority for Statistics, *Labor Market Statistics Q1 2026*, divulgado em 30 de junho de 2026: https://www.stats.gov.sa/
 - Saudi Vision 2030, *Annual Report 2025 — Executive Summary*: https://www.vision2030.gov.sa/media/vcjnuhsn/vision2030_annual_report_2025-executive_summary_en.pdf
 - U.S. Energy Information Administration, *Hormuz closure and related production outages*, 7 de abril de 2026: https://www.eia.gov/pressroom/releases/press586.php
 

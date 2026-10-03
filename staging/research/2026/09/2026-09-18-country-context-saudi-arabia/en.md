@@ -46,11 +46,11 @@ The second line is the key test of the model: diversification becomes more durab
 
 ## Labour reform has expanded participation, but skills and segmentation remain structural constraints
 
-Saudi labour-market outcomes changed substantially over the past decade. IMF research finds that female labour-force participation among Saudi nationals rose by nearly 18 percentage points between 2017 and 2024. GASTAT reported Saudi female participation of 34.5% in 2025Q2, while unemployment among Saudi nationals was 6.8%.
+Saudi labour-market outcomes changed substantially over the past decade. IMF research finds that female labour-force participation among Saudi nationals rose by nearly 18 percentage points between 2017 and 2024. The latest official observation available by this dossier's information cutoff, GASTAT's Q1 2026 Labour Market Statistics, put Saudi-national labour-force participation at 49.0%, Saudi female participation at 33.9%, and unemployment among Saudi nationals at 6.4%. Saudi female unemployment was 9.0%. Compared with Q4 2025, Saudi unemployment fell by 0.8 percentage points while Saudi female participation declined by 0.6 percentage points from 34.5%.
 
-These changes increase the domestic labour supply and household income base, but they do not remove labour-market segmentation. Saudi Arabia still relies heavily on expatriate workers, while the shift toward technical, digital and capital-intensive sectors raises demand for specialized skills. The IMF has highlighted human-capital development and labour-market outcomes as continuing reform priorities.
+The newer data qualify a simple participation-expansion narrative: the long-run increase in women's participation remains material, but the latest quarter shows that participation can retrace even as unemployment falls. These changes expand the domestic labour and household-income base over time, but they do not remove labour-market segmentation. Saudi Arabia still relies heavily on expatriate workers, while the shift toward technical, digital and capital-intensive sectors raises demand for specialized skills. The IMF has highlighted human-capital development and labour-market outcomes as continuing reform priorities.
 
-The social mechanism is therefore two-sided: higher national participation can broaden the gains from non-oil growth, while housing costs, skill mismatches and differences between national and expatriate employment can shape who receives those gains and where firms face labour constraints.
+The social mechanism is therefore two-sided: broader national participation can widen the gains from non-oil growth, while participation volatility, housing costs, skill mismatches and differences between national and expatriate employment can shape who receives those gains and where firms face labour constraints.
 
 ```mindmap
 Saudi diversification constraints
@@ -113,13 +113,13 @@ For energy resilience, repeated operation of alternative export routes under str
 
 ## Related Marginal Thinking research
 
-This dossier provides country context for `MT-GM-2026-09-17`, `MT-GM-2026-09-18` and `MT-WF-2026-09-18`. It does not replace the time-sensitive market, energy or capital-flow analysis in those reports.
+This dossier provides country context for [Global Macro — 17 September 2026](/reports/2026/09/2026-09-17-global-macro.html), [Global Macro — 18 September 2026](/reports/2026/09/2026-09-18-global-macro.html), and [Global Wealth Flow Weekly — 18 September 2026](/reports/2026/09/2026-09-18-global-wealth-flow-weekly.html). It does not replace the time-sensitive market, energy or capital-flow analysis in those reports.
 
 ## Sources
 
 - IMF, *2026 Article IV Consultation with Saudi Arabia*, 29 July 2026: https://www.imf.org/en/news/articles/2026/07/29/pr26267-saudi-arabia-imf-concludes-2026-aiv
 - IMF, *Structural Reforms in Saudi Arabia Since 2016*, Working Paper 2026/014: https://www.elibrary.imf.org/abstract/journals/001/2026/014/article-A001-en.xml
-- General Authority for Statistics, *Labor Market Statistics Q2 2025*: https://www.stats.gov.sa/en/w/news/93
+- General Authority for Statistics, *Labor Market Statistics Q1 2026*, released 30 June 2026: https://www.stats.gov.sa/
 - Saudi Vision 2030, *Annual Report 2025 — Executive Summary*: https://www.vision2030.gov.sa/media/vcjnuhsn/vision2030_annual_report_2025-executive_summary_en.pdf
 - U.S. Energy Information Administration, *Hormuz closure and related production outages*, 7 April 2026: https://www.eia.gov/pressroom/releases/press586.php
 
