@@ -4,7 +4,7 @@
   "id": "MT-CC-2026-10-03-ukraine",
   "slug": "2026-10-03-country-context-ukraine",
   "date": "2026-10-03",
-  "published_at": "2026-10-03T19:48:00-03:00",
+  "published_at": "2026-10-03T20:58:00-03:00",
   "kind": "country-context",
   "priority": 18,
   "source_locale": "en",
@@ -72,8 +72,8 @@
       "key_risk": "Risco de segurança prolongado e perda populacional mantêm investimento privado abaixo das necessidades enquanto atraso de reformas ou menor financiamento externo aumenta pressão fiscal e cambial.",
       "watch": [
         "Risco de segurança e dano repetido à infraestrutura",
-        "Desembolsos externos e composição grants/empréstimos",
-        "Clusters de adesão e metas do Ukraine Facility",
+        "Desembolsos externos e composição entre subvenções e empréstimos",
+        "Grupos temáticos de adesão e metas do Mecanismo para a Ucrânia",
         "Retorno de refugiados, oferta de trabalho e reintegração de veteranos",
         "Resiliência energética, recuperação da rede e geração distribuída",
         "Conversão da indústria de defesa em produção e exportação europeias permanentes",
@@ -156,6 +156,8 @@
     "The 2026 state budget was materially amended during the year; original and amended defence and deficit figures describe different fiscal envelopes.",
     "RDNA5 damage and reconstruction estimates have a 31 December 2025 cutoff and therefore exclude subsequent destruction.",
     "Defence-industry capacity and procurement shares are official operational figures rather than independently audited national accounts.",
-    "IMF and NBU forecasts remain highly conditional on security assumptions and external-financing continuity."
-  ]
+    "IMF and NBU forecasts remain highly conditional on security assumptions and external-financing continuity.",
+    "A revisão 1 corrige exclusivamente localização editorial e unidades da edição PT-BR após rejeição de QA; as proposições factuais e o conteúdo analítico permanecem materialmente equivalentes à versão inglesa."
+  ],
+  "revision": 1
 }

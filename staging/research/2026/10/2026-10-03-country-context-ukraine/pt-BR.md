@@ -2,9 +2,9 @@
 
 A Ucrânia de 2026 é simultaneamente um Estado funcional, uma economia de guerra, candidata à União Europeia e o local de um dos maiores desafios de reconstrução da Europa contemporânea. Essas condições não podem ser analisadas separadamente. A defesa absorve parcela extraordinária dos recursos domésticos; financiamento externo sustenta gasto público civil e estabilidade cambial; danos à energia, habitação e transportes reduzem capacidade produtiva; deslocamento populacional altera força de trabalho e futura base tributária; e as reformas de adesão à UE moldam crescentemente as instituições que administrarão o capital da reconstrução.
 
-O país preservou continuidade macroeconômica e administrativa em condições que normalmente produziriam colapso fiscal, monetário e institucional. A consulta do Artigo IV do FMI de julho de 2026 avaliou que estabilidade macroeconômica e financeira foi mantida apesar da continuidade da guerra, intensificação dos ataques à infraestrutura crítica e incerteza excepcional. Ao mesmo tempo, o Fundo projetou crescimento real de apenas 1,0%–1,6% em 2026. Estabilidade, portanto, não significa normalização: o Estado funciona por uma combinação excepcional de tributação doméstica, controles financeiros, grants e empréstimos externos, mobilização militar e adaptação institucional.
+O país preservou continuidade macroeconômica e administrativa em condições que normalmente produziriam colapso fiscal, monetário e institucional. A consulta do Artigo IV do FMI de julho de 2026 avaliou que estabilidade macroeconômica e financeira foi mantida apesar da continuidade da guerra, intensificação dos ataques à infraestrutura crítica e incerteza excepcional. Ao mesmo tempo, o Fundo projetou crescimento real de apenas 1,0%–1,6% em 2026. Estabilidade, portanto, não significa normalização: o Estado funciona por uma combinação excepcional de tributação doméstica, controles financeiros, subvenções e empréstimos externos, mobilização militar e adaptação institucional.
 
-A questão estrutural é que tipo de economia emerge desse período. A Ucrânia pode reconstruir o estoque de capital anterior, mas a reconstrução também permite mudar sua composição: sistema energético mais descentralizado, logística de maior produtividade, administração pública digitalmente integrada, manufatura de defesa mais profunda, regulação compatível com a UE, maior processamento agroindustrial e novos clusters ligados às cadeias europeias. O risco oposto é que destruição, perda populacional, dependência fiscal, fragilidades de governança e incerteza de segurança continuem grandes o suficiente para impedir que capital privado acompanhe o investimento público.
+A questão estrutural é que tipo de economia emerge desse período. A Ucrânia pode reconstruir o estoque de capital anterior, mas a reconstrução também permite mudar sua composição: sistema energético mais descentralizado, logística de maior produtividade, administração pública digitalmente integrada, manufatura de defesa mais profunda, regulação compatível com a UE, maior processamento agroindustrial e novos polos produtivos ligados às cadeias europeias. O risco oposto é que destruição, perda populacional, dependência fiscal, fragilidades de governança e incerteza de segurança continuem grandes o suficiente para impedir que capital privado acompanhe o investimento público.
 
 ## A independência herdou uma grande economia industrial e uma transição institucional difícil
 
@@ -16,14 +16,14 @@ A integração europeia ofereceu gradualmente uma âncora institucional alternat
 
 ## A guerra transformou as finanças públicas em um sistema de dois balanços
 
-A estrutura fiscal durante a guerra em larga escala é incomum. Receitas domésticas e endividamento interno são direcionados predominantemente à defesa e segurança, enquanto grants e financiamento concessional internacionais permitem manter previdência, saúde, educação, administração, reconstrução e outras funções civis.
+A estrutura fiscal durante a guerra em larga escala é incomum. Receitas domésticas e endividamento interno são direcionados predominantemente à defesa e segurança, enquanto subvenções e financiamento concessional internacionais permitem manter previdência, saúde, educação, administração, reconstrução e outras funções civis.
 
-O orçamento original de 2026 destinava UAH 2,807 trilhões a segurança e defesa, equivalentes a 27,2% do PIB projetado. Em junho, o Parlamento aprovou grande alteração vinculada ao financiamento europeu. Os recursos de segurança e defesa subiram para UAH 4,367 trilhões, com forte expansão de remuneração militar e compras de armamentos. A mesma alteração reduziu o déficit projetado de 18,5% para 12,1% do PIB porque parte relevante do novo apoio externo ocorre em condições concessionais ou por grants.
+O orçamento original de 2026 destinava UAH 2,807 trilhões a segurança e defesa, equivalentes a 27,2% do PIB projetado. Em junho, o Parlamento aprovou grande alteração vinculada ao financiamento europeu. Os recursos de segurança e defesa subiram para UAH 4,367 trilhões, com forte expansão de remuneração militar e compras de armamentos. A mesma alteração reduziu o déficit projetado de 18,5% para 12,1% do PIB porque parte relevante do novo apoio externo ocorre em condições concessionais ou por subvenções.
 
 ```chart
 type: bar
 title: Ucrânia: dotações de segurança e defesa no orçamento de 2026
-unit: UAH trillion
+unit: UAH trilhões
 Orçamento original 2026 | 2.807
 Dotação após alteração | 4.367
 Armas e equipamento militar após alteração | 2.297
@@ -34,7 +34,7 @@ Essa estrutura permite sustentar o esforço militar sem depender de monetizaçã
 
 ## Financiamento externo não é apenas ajuda; tornou-se parte da arquitetura macroeconômica
 
-O Ukraine Facility da União Europeia tornou-se um dos principais canais institucionais que ligam reconstrução, reformas e apoio ao orçamento. Até junho de 2026 o mecanismo havia desembolsado mais de €29,5 bilhões. Em setembro, o Conselho aprovou o oitavo pagamento regular, de quase €3 bilhões, registrando que a Ucrânia havia cumprido 84 de 95 etapas de reforma devidas.
+O Mecanismo para a Ucrânia (Ukraine Facility) da União Europeia tornou-se um dos principais canais institucionais que ligam reconstrução, reformas e apoio ao orçamento. Até junho de 2026 o mecanismo havia desembolsado mais de €29,5 bilhões. Em setembro, o Conselho aprovou o oitavo pagamento regular, de quase €3 bilhões, registrando que a Ucrânia havia cumprido 84 de 95 etapas de reforma devidas.
 
 O Ukraine Support Loan de 2026 adicionou outra camada. Decisões europeias preveem até €90 bilhões para 2026–2027, com €45 bilhões esperados em 2026. As alterações orçamentárias ucranianas associadas ao pacote destinaram €31,8 bilhões a segurança e defesa e €13,2 bilhões ao déficit para necessidades sociais e humanitárias.
 
@@ -75,13 +75,13 @@ Esses números não são previsão de gasto público. São estimativa da necessi
 ```chart
 type: bar
 title: Ucrânia: escala da reconstrução no RDNA5
-unit: USD billion
+unit: US$ bilhões
 Danos físicos diretos até dez 2025 | 195
 Necessidades de recuperação em dez anos | 588
 Prioridades identificadas para 2026 | 15
 ```
 
-A reconstrução não pode ser financiada apenas pelo balanço público ucraniano. Exige grants, empréstimos concessionais, garantias, instituições multilaterais, capital privado e, no futuro, maior poupança doméstica. A composição importa: dívida pode reconstruir ativos enquanto cria obrigação futura de serviço.
+A reconstrução não pode ser financiada apenas pelo balanço público ucraniano. Exige subvenções, empréstimos concessionais, garantias, instituições multilaterais, capital privado e, no futuro, maior poupança doméstica. A composição importa: dívida pode reconstruir ativos enquanto cria obrigação futura de serviço.
 
 ## A reconstrução já ocorre durante a guerra
 
@@ -107,7 +107,7 @@ O setor de defesa deixou de ser apenas complexo estatal herdado complementado po
 
 O Ministério da Defesa informou em fevereiro de 2026 que a capacidade produtiva da indústria de defesa havia se expandido aproximadamente cinquenta vezes durante a guerra, alcançando cerca de US$ 50 bilhões, e que fabricantes ucranianos podiam atender mais da metade das necessidades das Forças de Defesa. Em junho, o Ministério informou que 95% dos drones comprados por meio da agência de compras eram produzidos na Ucrânia.
 
-O Brave1 ilustra o mecanismo de inovação. Até setembro de 2026, havia concedido mais de mil grants e financiado UAH 6,2 bilhões em desenvolvimento tecnológico desde 2023, incluindo drones interceptadores, guerra eletrônica, robótica, mísseis e IA.
+O Brave1 ilustra o mecanismo de inovação. Até setembro de 2026, havia concedido mais de mil subvenções e financiado UAH 6,2 bilhões em desenvolvimento tecnológico desde 2023, incluindo drones interceptadores, guerra eletrônica, robótica, mísseis e IA.
 
 ```mindmap
 Ecossistema ucraniano de produção de defesa
@@ -122,7 +122,7 @@ Ecossistema ucraniano de produção de defesa
   - guerra eletrônica
   - veículos e manutenção
 - Inovação
-  - grants Brave1
+  - subvenções do Brave1
   - testes em combate
   - iteração rápida
 - Capital externo
@@ -180,11 +180,11 @@ Sistemas de compensação e registros digitais podem acelerar a recuperação, m
 
 ## A adesão à UE passou de aspiração estratégica a estrutura operacional de reformas
 
-A Ucrânia recebeu status de candidata em 2022 e lançou formalmente negociações em 2024. O screening terminou em 2025. Em 15 de junho de 2026, UE e Ucrânia abriram o primeiro cluster, os fundamentos: Estado de direito, direitos fundamentais, instituições democráticas, reforma da administração e critérios econômicos.
+A Ucrânia recebeu status de candidata em 2022 e lançou formalmente negociações em 2024. A análise técnica do acervo legislativo terminou em 2025. Em 15 de junho de 2026, UE e Ucrânia abriram o primeiro grupo temático de negociação, dedicado aos fundamentos: Estado de direito, direitos fundamentais, instituições democráticas, reforma da administração e critérios econômicos.
 
 Isso importa economicamente porque a adesão cria sequência de reformas que a reconstrução isoladamente não garantiria. Compras públicas, concorrência, auxílio estatal, energia, transportes, ambiente, agricultura, finanças e tribunais ganham referência externa.
 
-O Ukraine Facility reforça o mecanismo ao condicionar desembolsos a etapas. Em setembro de 2026 o Conselho informou cumprimento de 84 de 95 metas devidas.
+O Mecanismo para a Ucrânia reforça o mecanismo ao condicionar desembolsos a etapas. Em setembro de 2026 o Conselho informou cumprimento de 84 de 95 metas devidas.
 
 A condicionalidade europeia pode elevar credibilidade institucional, mas também pressiona uma administração que opera em guerra. Qualidade de execução importa mais que número de leis aprovadas.
 
@@ -210,7 +210,7 @@ A reforma pós-guerra precisa separar propriedade estratégica de governança ru
 
 A guerra produz combinação incomum. Alguns setores e regiões têm demanda fraca ou trabalhadores deslocados, enquanto defesa, construção, logística, energia, saúde e tecnologia enfrentam falta de mão de obra. Mobilização retira trabalhadores da produção civil, migração externa reduz oferta e moradia danificada limita mobilidade.
 
-Por isso, desemprego medido é indicador incompleto. A restrição em muitos setores é matching: trabalhadores disponíveis podem não estar onde os empregos estão, não possuir habilidades requeridas ou não conseguir trabalhar por cuidados familiares, deficiência ou infraestrutura.
+Por isso, desemprego medido é indicador incompleto. A restrição em muitos setores é a compatibilidade entre oferta e demanda de trabalho: trabalhadores disponíveis podem não estar onde os empregos estão, não possuir habilidades requeridas ou não conseguir trabalhar por cuidados familiares, deficiência ou infraestrutura.
 
 A futura desmobilização criará outra transição. Veteranos retornarão com competências, ferimentos e trajetórias variadas. Reabilitação, qualificação, saúde mental, locais acessíveis e empreendedorismo de veteranos pertencem à política de produtividade, não apenas à política social.
 
@@ -236,15 +236,15 @@ Os bancos ucranianos continuaram operando, permaneceram líquidos e lucrativos e
 
 O sistema doméstico, porém, é pequeno demais para financiar uma reconstrução de quase US$ 600 bilhões. Bancos também possuem títulos públicos em volume relevante, criando ligação soberano-bancos. Incerteza, perda de garantias e risco de guerra limitam crédito de longo prazo.
 
-A transição exige mercados de capitais mais profundos, garantias de crédito, project finance, recuperação hipotecária e integração com finanças europeias. Bancos locais podem originar e monitorar projetos, enquanto instituições externas fornecem prazos e capacidade de risco.
+A transição exige mercados de capitais mais profundos, garantias de crédito, financiamento estruturado de projetos, recuperação hipotecária e integração com finanças europeias. Bancos locais podem originar e monitorar projetos, enquanto instituições externas fornecem prazos e capacidade de risco.
 
 ## A dívida pública é elevada, mas a composição importa mais que o número bruto
 
 Ao fim de junho de 2026, dívida estatal e garantida pelo Estado estava em aproximadamente US$ 211,6 bilhões. Mais de três quartos da dívida estatal eram externos, e o Ministério das Finanças informou que mais de dois terços da carteira consistiam em financiamento concessional.
 
-Um empréstimo longo e barato impõe carga diferente de dívida de mercado. Grants não exigem pagamento. Sustentabilidade depende de termos, crescimento nominal futuro, câmbio e velocidade da normalização fiscal.
+Um empréstimo longo e barato impõe carga diferente de dívida de mercado. Subvenções não exigem pagamento. Sustentabilidade depende de termos, crescimento nominal futuro, câmbio e velocidade da normalização fiscal.
 
-O risco central não é o estoque isolado. É um cenário no qual gasto de segurança permanece estruturalmente alto, população e base tributária ficam deprimidas, grants diminuem e a reconstrução continua sendo financiada por dívida. Crescimento pós-guerra forte altera a aritmética na direção oposta.
+O risco central não é o estoque isolado. É um cenário no qual gasto de segurança permanece estruturalmente alto, população e base tributária ficam deprimidas, subvenções diminuem e a reconstrução continua sendo financiada por dívida. Crescimento pós-guerra forte altera a aritmética na direção oposta.
 
 ## A economia territorial continuará desigual mesmo sob cessar-fogo durável
 
@@ -267,13 +267,13 @@ Essa geografia dupla pode ser vantagem. Uma Ucrânia reconstruída pode conectar
 | Proposição | Evidência favorável | Evidência contrária / limitação | Avaliação |
 |---|---|---|---|
 | A economia ucraniana está colapsando | danos, baixo crescimento e dependência fiscal são graves | estabilidade macro, bancos e exportações persistem | economia prejudicada, não Estado economicamente colapsado |
-| Apoio externo elimina risco fiscal | grants e crédito concessional são enormes | calendário e condições criam dependência | apoio estabiliza, mas também é variável de risco |
+| Apoio externo elimina risco fiscal | subvenções e crédito concessional são enormes | calendário e condições criam dependência | apoio estabiliza, mas também é variável de risco |
 | Reconstrução garante crescimento rápido | necessidade de capital é enorme | segurança, trabalho, governança e seguro limitam investimento | grande oportunidade, grande risco de execução |
 | Defesa tecnológica é vantagem permanente | inovação e drones domésticos são reais | demanda de guerra pode não se converter em exportação | capacidade forte com conversão comercial incerta |
 | Adesão à UE resolverá governança | acquis e financiamento condicionado geram incentivos | lei e execução podem divergir | âncora poderosa, não convergência automática |
 | Refugiados voltarão depois da guerra | vínculos familiares e reconstrução atraem retorno | empregos, escola, moradia e integração externa pesam | retorno será seletivo e econômico |
 | Energia descentralizada resolve vulnerabilidade | ativos distribuídos reduzem risco de nó único | nuclear e redes de grande escala continuam necessárias | sistema misto é mais plausível |
-| Dívida alta implica insolvência | estoque é grande | termos concessionais e grants reduzem carga | sustentabilidade depende de crescimento e termos |
+| Dívida alta implica insolvência | estoque é grande | termos concessionais e subvenções reduzem carga | sustentabilidade depende de crescimento e termos |
 
 ## Cenários-base
 
@@ -297,7 +297,7 @@ Implementação de reformas enfraquece, desembolsos externos se tornam menos pre
 
 - redução sustentada de ataques à infraestrutura e do prêmio de risco de guerra;
 - mais investimento fixo privado além do reparo;
-- avanço dos fundamentos da UE e abertura de novos clusters;
+- avanço dos fundamentos da UE e abertura de novos grupos temáticos de negociação;
 - maior receita tributária sem tributação emergencial excessivamente distorciva;
 - participação da força de trabalho estável ou crescente;
 - retorno mensurável de refugiados associado a emprego e habitação;
@@ -318,15 +318,15 @@ Implementação de reformas enfraquece, desembolsos externos se tornam menos pre
 - retorno fraco combinado a nova emigração;
 - reconstrução concentrada em projetos políticos de baixa utilização;
 - capacidade de defesa subfinanciada apesar da capacidade instalada;
-- queda de grants externos antes da recuperação da base tributária;
-- risco de guerra persistentemente alto impedindo seguro e project finance.
+- queda de subvenções externas antes da recuperação da base tributária;
+- risco de guerra persistentemente alto impedindo seguro e financiamento estruturado de projetos.
 
 ## Indicadores
 
 - PIB real, PIB per capita e investimento fixo.
 - Inflação, taxa básica e reservas.
-- Desembolsos externos e composição grants/empréstimos.
-- Déficit antes e depois de grants.
+- Desembolsos externos e composição entre subvenções e empréstimos.
+- Déficit antes e depois de subvenções.
 - Gasto de defesa e segurança.
 - Dívida pública concessional versus dívida de mercado.
 - Crédito bancário a empresas e famílias.
@@ -339,7 +339,7 @@ Implementação de reformas enfraquece, desembolsos externos se tornam menos pre
 - Pessoas sob proteção temporária no exterior.
 - Deslocamento interno e migração de retorno.
 - Emprego, vagas e participação.
-- Clusters de adesão e metas do Ukraine Facility.
+- Grupos temáticos de adesão e metas do Mecanismo para a Ucrânia.
 - Competição em compras e governança de estatais.
 - Cobertura de seguro de guerra e co-investimento privado.
 
@@ -367,9 +367,9 @@ Previsões do FMI e NBU dependem de cenários de segurança. Crescimento é apre
 
 ### Reconstrução e integração europeia
 - Banco Mundial, Governo da Ucrânia, Comissão Europeia e ONU, *RDNA5*, 23 de fevereiro de 2026: https://www.worldbank.org/en/news/press-release/2026/02/23/updated-ukraine-recovery-and-reconstruction-needs-assessment-released
-- Comissão Europeia, *The Ukraine Facility*: https://commission.europa.eu/topics/eu-solidarity-ukraine/eu-assistance-ukraine/ukraine-facility_en
-- Conselho da UE, oitavo pagamento do Ukraine Facility, 24 de setembro de 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/09/24/ukraine-support-council-approves-payment-of-nearly-3-billion-and-welcomes-norway-s-financial-contribution/
-- Comissão Europeia, abertura do primeiro cluster de adesão, 15 de junho de 2026: https://enlargement.ec.europa.eu/news/eu-and-ukraine-open-first-accession-negotiations-cluster-2026-06-15_en
+- Comissão Europeia, *Mecanismo para a Ucrânia (Ukraine Facility)*: https://commission.europa.eu/topics/eu-solidarity-ukraine/eu-assistance-ukraine/ukraine-facility_en
+- Conselho da UE, oitavo pagamento do Mecanismo para a Ucrânia, 24 de setembro de 2026: https://www.consilium.europa.eu/en/press/press-releases/2026/09/24/ukraine-support-council-approves-payment-of-nearly-3-billion-and-welcomes-norway-s-financial-contribution/
+- Comissão Europeia, abertura do primeiro grupo temático de adesão, 15 de junho de 2026: https://enlargement.ec.europa.eu/news/eu-and-ukraine-open-first-accession-negotiations-cluster-2026-06-15_en
 
 ### Demografia, comércio e produção
 - Eurostat, *4.43 million under temporary protection in July 2026*, 10 de setembro de 2026: https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260910-1
@@ -378,7 +378,7 @@ Previsões do FMI e NBU dependem de cenários de segurança. Crescimento é apre
 ### Indústria de defesa e inovação
 - Ministério da Defesa, capacidade da indústria de defesa, 19 de fevereiro de 2026: https://mod.gov.ua/en/news/ukraine-s-defence-industry-now-meets-over-50-of-defence-forces-needs-and-advances-joint-production-with-europe
 - Ministério da Defesa, 95% dos drones comprados produzidos na Ucrânia, 22 de junho de 2026: https://mod.gov.ua/en/news/95-of-drones-procured-for-the-defence-forces-are-ukrainian-made
-- Brave1, mais de 1.000 grants, 14 de setembro de 2026: https://brave1.gov.ua/en/news/1000-grants-brave1
+- Brave1, mais de 1.000 subvenções, 14 de setembro de 2026: https://brave1.gov.ua/en/news/1000-grants-brave1
 
 ### Instituições
 - Presidência da Ucrânia, ocupante atual do cargo: https://president.gov.ua/en/
