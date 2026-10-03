@@ -85,7 +85,7 @@ Isso cria um problema de política com dois lados. Contratação mais fraca elev
 ```flow
 Payroll mais fraco + revisões negativas -> menor impulso esperado da renda do trabalho -> possível moderação de consumo e contratação -> menor pressão inflacionária futura
 Inflação PCE acima da meta + consumo real resiliente em agosto -> risco de persistência -> restrição maior para a política monetária
-Ambos os canais -> maior valor dos próximos dados de CPI, claims, contratação e consumo -> menor confiabilidade de inferências baseadas em um único indicador
+Ambos os canais -> maior valor dos próximos dados de CPI, pedidos de seguro-desemprego, contratação e consumo -> menor confiabilidade de inferências baseadas em um único indicador
 ```
 
 O fluxo descreve mecanismos concorrentes, não uma previsão. O equilíbrio pode mudar rapidamente se a inflação cair, as perdas de emprego se ampliarem, o consumo enfraquecer ou o próximo payroll reverter a fraqueza de setembro.
