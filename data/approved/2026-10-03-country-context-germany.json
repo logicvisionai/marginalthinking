@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-CC-2026-10-03-germany",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-03T15:26:00-03:00",
-  "reviewed_commit": "f810a3062017611dc30f8a7d315ec589d724a10c",
+  "reviewed_at": "2026-10-03T15:36:10-03:00",
+  "reviewed_commit": "0c9c8833cdf2a62b7fac56270860613b458b3a58",
   "pending_blob_sha": "9b0a3588d61337207563834c9d394d1e30f4b83b",
   "source_blob_shas": {
-    "en": "d1cfe041a1ba7650c70832ed300ea25825abb0cc",
-    "pt-BR": "e5d2e3828fa7328b290ce1bdf9b0f2b1a9ea158a"
+    "en": "85ea27561d352c016ff8b64cbac8791250da1321",
+    "pt-BR": "599fbd27041cc0ef5b5b42b0478693c3334337cf"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -19,7 +19,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "The dossier separates cyclical 2026 observations from structural mechanisms and does not reduce German industrial adjustment to a single decline narrative."
+      "summary": "The dossier separates cyclical 2026 observations from structural mechanisms, now includes the infrastructure-execution channel required to connect fiscal authorization with productivity, and does not reduce German adjustment to a single decline narrative."
     },
     "novelty_against_existing_country_layer": {
       "result": "passed",
@@ -45,7 +45,7 @@
     "National averages obscure major variation across Länder, industrial clusters and municipalities.",
     "Population projections are conditional scenarios, not forecasts with certainty."
   ],
-  "notes": "Approved after primary-source verification, bilingual parity review, taxonomy review, structural-versus-cyclical separation and political-neutrality review.",
+  "notes": "Approved after primary-source verification, bilingual parity review, taxonomy review, structural-versus-cyclical separation, political-neutrality review and the required 12-section country-dossier architecture.",
   "publication": {
     "schema_version": 2,
     "ready": true,
