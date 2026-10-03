@@ -73,9 +73,9 @@
   ],
   "url": "/reports/2026/10/2026-10-03-country-context-germany.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-03T15:26:00-03:00",
+  "qa_reviewed_at": "2026-10-03T15:36:10-03:00",
   "qa_confidence": "high",
-  "qa_reviewed_commit": "f810a3062017611dc30f8a7d315ec589d724a10c",
+  "qa_reviewed_commit": "0c9c8833cdf2a62b7fac56270860613b458b3a58",
   "locales": {
     "en": {
       "markdown": "en.md",
