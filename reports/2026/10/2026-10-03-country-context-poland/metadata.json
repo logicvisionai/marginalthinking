@@ -1,0 +1,147 @@
+{
+  "id": "MT-CC-2026-10-03-poland",
+  "slug": "2026-10-03-country-context-poland",
+  "date": "2026-10-03",
+  "published_at": "2026-10-03T15:26:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "eastern-europe-balkans"
+    ],
+    "countries": [
+      {
+        "code": "PL",
+        "slug": "poland"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "technology-innovation"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "phenomena": [
+    "political-stability",
+    "demographic-transition",
+    "institutional-change",
+    "defense-security"
+  ],
+  "selection_rationale": "Poland is a major remaining gap in the European country layer. Its role in EU manufacturing, eastern-flank security, SAFE financing, renewable expansion, first nuclear project and demographic transition makes it a high-value structural context for existing Russia, France and regional macro research.",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CC-2026-09-23-russia",
+    "MT-CC-2026-09-27-france"
+  ],
+  "contrary_evidence": [
+    "Poland's rapid growth, strong manufacturing integration, improving infrastructure and large EU investment flows argue against treating demographic decline or coal dependence as immediate evidence of structural stagnation.",
+    "High defence spending and strategic investment do not automatically create domestic productive capacity; imported equipment, inflation, labour scarcity and execution bottlenecks can reduce the growth return."
+  ],
+  "limitations": [
+    "September 2026 CPI is a flash estimate and may be revised in the full release.",
+    "Defence-spending and SAFE domestic-content statements use government programme definitions and do not measure realized local value added.",
+    "Migration statistics are more uncertain than resident-population estimates because temporary and refugee populations can change quickly.",
+    "Nuclear capacity discussed is planned and under licensing/construction preparation; it is not operating generation."
+  ],
+  "url": "/reports/2026/10/2026-10-03-country-context-poland.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-03T15:26:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "f810a3062017611dc30f8a7d315ec589d724a10c",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Poland: convergence, security-state investment and the transition from coal-intensive growth to a higher-capital economy",
+      "deck": "Poland combines fast convergence, manufacturing integration and EU-funded investment with demographic contraction, renewed inflation, record defence spending and a rapid renewable-nuclear energy transition.",
+      "tags": [
+        "Poland",
+        "Central Europe",
+        "convergence",
+        "defence",
+        "energy transition",
+        "EU funds",
+        "demography"
+      ],
+      "keywords": [
+        "Poland political economy 2026",
+        "Poland GDP growth 2026",
+        "Poland defence spending",
+        "Poland nuclear power",
+        "Poland renewable energy",
+        "Poland demographics",
+        "Poland EU funds"
+      ],
+      "regime": "Investment-intensive convergence under security pressure: strong growth and EU capital inflows coexist with demographic contraction, inflation sensitivity, record defence commitments and a transition away from coal-heavy electricity.",
+      "key_risk": "Security, social and energy-investment commitments expand faster than labour supply and productivity, keeping inflation and financing costs high while raising long-run fiscal pressure.",
+      "watch": [
+        "Productivity response to EU and defence investment",
+        "September-to-2027 inflation and NBP reaction",
+        "Population, migration and skilled-labour supply",
+        "Domestic content in defence procurement",
+        "Renewable grid integration and nuclear licensing/construction",
+        "Trade balance and exposure to German industrial demand"
+      ],
+      "search_text": "Poland 2026 political economy convergence EU funds defence SAFE nuclear renewable coal demographics inflation manufacturing Germany"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Polônia: convergência, investimento do Estado de segurança e a transição de um crescimento intensivo em carvão para uma economia mais capitalizada",
+      "deck": "A Polônia combina convergência rápida, integração manufatureira e investimento financiado pela UE com contração demográfica, nova inflação, gasto recorde em defesa e rápida transição energética renovável-nuclear.",
+      "tags": [
+        "Polônia",
+        "Europa Central",
+        "convergência",
+        "defesa",
+        "transição energética",
+        "fundos europeus",
+        "demografia"
+      ],
+      "keywords": [
+        "economia política Polônia 2026",
+        "crescimento PIB Polônia 2026",
+        "gasto defesa Polônia",
+        "energia nuclear Polônia",
+        "renováveis Polônia",
+        "demografia Polônia",
+        "fundos UE Polônia"
+      ],
+      "regime": "Convergência intensiva em investimento sob pressão de segurança: crescimento forte e capital europeu coexistem com contração demográfica, sensibilidade inflacionária, compromissos recordes de defesa e transição da eletricidade intensiva em carvão.",
+      "key_risk": "Compromissos de segurança, sociais e energéticos crescem mais rápido que oferta de trabalho e produtividade, mantendo inflação e custos financeiros altos e elevando pressão fiscal de longo prazo.",
+      "watch": [
+        "Resposta da produtividade ao investimento europeu e de defesa",
+        "Inflação e reação do NBP até 2027",
+        "População, migração e oferta de trabalho qualificado",
+        "Conteúdo doméstico nas compras de defesa",
+        "Integração renovável à rede e licenciamento/construção nuclear",
+        "Balança comercial e exposição à demanda industrial alemã"
+      ],
+      "search_text": "Polônia 2026 economia política convergência fundos UE defesa SAFE nuclear renováveis carvão demografia inflação manufatura Alemanha"
+    }
+  }
+}

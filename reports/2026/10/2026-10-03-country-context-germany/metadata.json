@@ -1,0 +1,147 @@
+{
+  "id": "MT-CC-2026-10-03-germany",
+  "slug": "2026-10-03-country-context-germany",
+  "date": "2026-10-03",
+  "published_at": "2026-10-03T15:26:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "western-europe"
+    ],
+    "countries": [
+      {
+        "code": "DE",
+        "slug": "germany"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "technology-innovation"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "phenomena": [
+    "political-stability",
+    "demographic-transition",
+    "institutional-change",
+    "defense-security"
+  ],
+  "selection_rationale": "Germany is the largest missing country-level context in the European research layer. Existing work covers France, the Eurosystem, Russia and daily euro-area macro signals but lacks a reusable dossier connecting Germany's export-industrial system, federal institutions, infrastructure financing shift, energy transition, defence rearmament and demographic labour constraint.",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CC-2026-09-27-france",
+    "MT-SA-2026-09-23-EUROSYSTEM",
+    "MT-CC-2026-09-23-russia"
+  ],
+  "contrary_evidence": [
+    "Germany retains exceptional industrial density, a large skilled workforce, high savings, deep EU market access and a persistent external surplus, arguing against a simple deindustrialization or decline thesis.",
+    "Larger fiscal authorizations and renewable capacity do not by themselves establish higher productivity or lower delivered industrial energy costs; execution, grids, private investment and sectoral restructuring remain binding."
+  ],
+  "limitations": [
+    "The 2026 GDP, employment and fiscal data are point-in-time observations and will be revised.",
+    "Official defence totals differ by budgetary, constitutional and NATO accounting definitions and should not be mechanically combined.",
+    "National averages obscure large differences across Länder, industrial clusters and municipalities.",
+    "Long-run population projections are conditional scenarios rather than deterministic outcomes."
+  ],
+  "url": "/reports/2026/10/2026-10-03-country-context-germany.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-03T15:36:10-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "0c9c8833cdf2a62b7fac56270860613b458b3a58",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Germany: export-industrial depth, federal bargaining and the fiscal-energy transition of Europe's largest economy",
+      "deck": "Germany retains exceptional industrial depth and institutional capacity, but its 2026 transition depends on converting larger infrastructure, defence and energy investment into productivity while employment and demography tighten.",
+      "tags": [
+        "Germany",
+        "euro area",
+        "industry",
+        "fiscal policy",
+        "energy transition",
+        "defence",
+        "demography"
+      ],
+      "keywords": [
+        "Germany political economy 2026",
+        "German industry competitiveness",
+        "Germany infrastructure fund",
+        "Germany energy transition",
+        "German defence spending",
+        "Germany demographics"
+      ],
+      "regime": "Industrial conversion under fiscal expansion: export manufacturing, federal institutions and deep savings coexist with weaker employment, demographic pressure, energy-system restructuring and a major public-investment shift.",
+      "key_risk": "Larger public balance-sheet capacity fails to become physical infrastructure and productive private investment quickly enough to offset industrial restructuring, labour scarcity and higher security costs.",
+      "watch": [
+        "Private investment response to the €500bn infrastructure fund",
+        "Manufacturing employment and export-market share",
+        "Grid, storage and renewable-integration execution",
+        "Automotive and chemicals restructuring",
+        "Skilled-labour supply, migration integration and productivity",
+        "Defence procurement translated into operating capacity"
+      ],
+      "search_text": "Germany 2026 political economy industry Mittelstand euro infrastructure special fund energy transition renewables defence demographics employment exports"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Alemanha: profundidade industrial exportadora, federalismo e a transição fiscal-energética da maior economia europeia",
+      "deck": "A Alemanha mantém profundidade industrial e capacidade institucional excepcionais, mas sua transição de 2026 depende de converter mais investimento em infraestrutura, defesa e energia em produtividade enquanto emprego e demografia apertam.",
+      "tags": [
+        "Alemanha",
+        "zona do euro",
+        "indústria",
+        "política fiscal",
+        "transição energética",
+        "defesa",
+        "demografia"
+      ],
+      "keywords": [
+        "economia política Alemanha 2026",
+        "indústria alemã competitividade",
+        "fundo infraestrutura Alemanha",
+        "transição energética Alemanha",
+        "gasto defesa Alemanha",
+        "demografia Alemanha"
+      ],
+      "regime": "Conversão industrial sob expansão fiscal: manufatura exportadora, instituições federais e poupança profunda coexistem com emprego mais fraco, pressão demográfica, reestruturação energética e grande mudança no investimento público.",
+      "key_risk": "A maior capacidade de balanço público não se converte em infraestrutura física e investimento privado produtivo com rapidez suficiente para compensar reestruturação industrial, escassez de trabalho e maiores custos de segurança.",
+      "watch": [
+        "Resposta do investimento privado ao fundo de €500 bilhões",
+        "Emprego industrial e participação nos mercados externos",
+        "Execução de redes, armazenamento e integração renovável",
+        "Reestruturação automotiva e química",
+        "Oferta de trabalho qualificado, integração migratória e produtividade",
+        "Compras de defesa convertidas em capacidade operacional"
+      ],
+      "search_text": "Alemanha 2026 economia política indústria Mittelstand euro fundo infraestrutura transição energética renováveis defesa demografia emprego exportações"
+    }
+  }
+}
