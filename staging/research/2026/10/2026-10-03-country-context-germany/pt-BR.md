@@ -114,6 +114,14 @@ O gargalo migrou de adicionar capacidade para integrá-la. Geração variável e
 
 Para a indústria, a variável relevante não é apenas a participação anual de renováveis. É o custo entregue e a confiabilidade de eletricidade e gás quando a produção precisa operar. A transição só se converte em vantagem econômica se a capacidade de baixo carbono virar insumo industrial estável.
 
+## A execução de infraestrutura conecta capacidade fiscal a produtividade
+
+A mudança de investimento alemã só importa se autorização financeira virar capacidade física e digital utilizável. O orçamento federal de 2026 destinou mais de €34 bilhões aos investimentos tradicionais em transporte, enquanto o fundo especial de infraestrutura também financia ferrovias, estradas, pontes, banda larga, hospitais, escolas e outros ativos públicos. Essas categorias enfrentam gargalos acumulados ao longo de muitos anos e não podem ser revertidos em um único exercício orçamentário.
+
+Transporte é especialmente importante para uma economia organizada em clusters industriais e cadeias transfronteiriças. Atrasos ferroviários de carga, restrições em pontes, congestionamento rodoviário ou níveis baixos dos rios podem interromper produção mesmo quando o gasto agregado de capital é elevado. Infraestrutura digital tem papel semelhante: banda larga, serviços públicos digitais e infraestrutura de dados alteram o custo de transação das empresas e o custo administrativo do investimento.
+
+O teste de produtividade é físico. Dotações maiores precisam aparecer, ao longo do tempo, em menor tempo de transporte, maior confiabilidade de redes, mais obras concluídas, licenças mais rápidas e menor custo de coordenação. Se esses indicadores não melhorarem, a expansão fiscal corre o risco de elevar demanda sem reparar as restrições de oferta que deveria remover.
+
 ## O rearmamento transforma defesa em canal de política industrial
 
 A Alemanha elevou fortemente o gasto de defesa desde a invasão em grande escala da Ucrânia pela Rússia. O orçamento federal de 2026 aumentou a dotação regular de defesa para €82,7 bilhões, com outros €25,5 bilhões previstos no fundo especial da Bundeswehr. Diferentes classificações oficiais produzem totais distintos para fins da OTAN e constitucionais, portanto esses valores não devem ser somados mecanicamente a categorias mais amplas de segurança.
