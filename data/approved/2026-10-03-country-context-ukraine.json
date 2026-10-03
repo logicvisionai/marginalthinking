@@ -4,66 +4,32 @@
   "qa_status": "approved",
   "reviewed_at": "2026-10-03T23:55:00Z",
   "reviewed_commit": "48666cd8e231b83a49c60e008c59b4a468ee4b2e",
-  "pending_blob_sha": "8b89fbbac68b0a22f43ec2fbd5d2fb97e14fb4ca",
-  "source_blob_shas": {
-    "en": "1fdfc847c8a1280ce1cfac50820921b35d5c70fd",
-    "pt-BR": "554688d87e703d340c80472248262f967ba30ab3"
-  },
+  "pending_blob_sha": "ab00957b3d050a42eccfd06d2d7baf26ca1a5ec7",
+  "source_blob_shas": {"en":"1fdfc847c8a1280ce1cfac50820921b35d5c70fd","pt-BR":"554688d87e703d340c80472248262f967ba30ab3"},
   "taxonomy_check": "passed",
   "translation_check": "passed",
   "confidence": "high",
   "checks": {
-    "schema_and_pipeline": {"result": "passed", "summary": "v2 pending is ready, source locale is en, both staged sources are present, and controlled classification is complete."},
-    "factual_methodology": {"result": "passed", "summary": "Central fiscal, macroeconomic, reconstruction, displacement, institutional and officeholder claims were checked against the cited primary/official sources; stock/flow and capacity/output caveats are explicit."},
-    "taxonomy": {"result": "passed", "summary": "Primary program strategic-transitions, all three required dimensions, country geography, topics and phenomena conform to the controlled architecture."},
-    "translation_semantic_parity": {"result": "passed", "summary": "EN and PT-BR preserve the same thesis, numerical claims, epistemic qualifications, visual content and limitations; the prior PT-BR localization defects were corrected."},
-    "editorial_publication_readiness": {"result": "passed", "summary": "Opening states the thesis directly; analytical headings name mechanisms; PT-BR reads as localized Portuguese; no checklist/template or QA-process scars remain in public prose; repetition is controlled and progression is coherent."},
-    "contextual_depth": {"result": "passed", "summary": "War-state capacity, fiscal dependence, EU accession, institutional continuity, reconstruction, labour/demography and displacement are causally connected rather than presented as ornamental background."},
-    "visual_evidence_readiness": {"result": "passed", "signature": "2 charts + 1 causal flow + 1 mind map + structured evidence tables in both locales", "summary": "Visuals clarify fiscal composition, reconstruction burden and transmission mechanisms; units and category definitions are explicit and EN/PT-BR are semantically aligned.", "limitations": "Charts reproduce cited official aggregates and should not be read as audited forecasts beyond their stated periods; no geographic map is required because the core mechanism is national fiscal-institutional-demographic transmission rather than a corridor whose geography would be obscured without one."},
-    "country_context_contract": {"result": "passed", "summary": "Country-level geography is explicit; related canonical research IDs are declared; the dossier connects economy, politics and society and is structured as durable causal context rather than an encyclopedic profile."},
-    "conflict_security_social_change": {"result": "passed", "summary": "The text distinguishes wartime administrative facts, reported capacity, observed damage, displacement indicators, institutional forecasts and scenario-dependent inference, with explicit source limitations."}
+    "schema_and_pipeline":{"result":"passed","summary":"v2 pending is ready, source locale is en, both staged sources are present, and controlled classification is complete."},
+    "factual_methodology":{"result":"passed","summary":"Central fiscal, macroeconomic, reconstruction, displacement, institutional and officeholder claims were checked against cited primary/official sources; stock/flow and capacity/output caveats are explicit."},
+    "taxonomy":{"result":"passed","summary":"Strategic Transitions uses all three required dimensions; geography, topics and phenomena are controlled values."},
+    "translation_semantic_parity":{"result":"passed","summary":"EN and PT-BR preserve thesis, numerical claims, epistemic qualifications and visual content; the previously rejected localization defects are corrected."},
+    "editorial_publication_readiness":{"result":"passed","summary":"Direct thesis-led opening; mechanism-specific analytical headings; natural PT-BR localization; no public checklist/template or QA-process scars; coherent progression and controlled repetition."},
+    "contextual_depth":{"result":"passed","summary":"War-state capacity, fiscal dependence, EU accession, reconstruction, labour/demography and displacement are connected through explicit mechanisms."},
+    "visual_evidence_readiness":{"result":"passed","signature":"2 charts + 1 causal flow + 1 mind map + structured evidence tables in both locales","summary":"Visuals clarify fiscal composition, reconstruction burden and transmission; units/categories are explicit and bilingual semantics align.","limitations":"No map is required for the dossier's principal national fiscal-institutional-demographic mechanism."},
+    "country_context_contract":{"result":"passed","summary":"Country geography is explicit; four materially related canonical research IDs are declared; the dossier is durable causal context rather than an encyclopedic profile."},
+    "conflict_security_social_change":{"result":"passed","summary":"Administrative facts, reported capacity, observed damage, displacement indicators, forecasts and scenarios are distinguished and limitations are stated."}
   },
-  "contrary_evidence": [
-    "Macroeconomic and financial stability has persisted despite intensified attacks, which argues against treating wartime damage as equivalent to state or financial-system collapse.",
-    "Reconstruction and accession can raise productive capacity, while continued security risk, demographic loss, governance constraints and repeated infrastructure damage can prevent private capital from following public spending at the assumed scale.",
-    "Official defence-industry capacity and procurement shares are not equivalent to realised audited national output and are treated accordingly."
-  ],
-  "limitations": [
-    "Wartime population measurement is not available at normal peacetime precision; temporary-protection counts measure host-country legal status rather than permanent emigration.",
-    "RDNA5 damage and recovery-needs estimates have a 31 December 2025 cutoff and do not include later destruction.",
-    "The 2026 fiscal plan changed during the year, so original-budget and June-amendment figures are not interchangeable.",
-    "IMF and NBU forecasts remain highly scenario-dependent on the security path."
-  ],
-  "notes": "Revision 1 corrects the PT-BR localization defects that caused the prior QA rejection. No public bundle for this ID was found at the pre-decision canonical-state recheck; this remains a new publication candidate, not a revision of already materialized research.",
+  "contrary_evidence":["Ukraine's massive physical damage, demographic displacement and dependence on official finance argue against treating wartime institutional continuity as evidence of normal economic conditions.","Functioning banks, continued exports, domestic defence production, digital administration and progress toward EU accession argue against a state-collapse narrative.","Large reconstruction needs create investment opportunity but do not guarantee growth because security risk, governance, labour supply, insurance and project execution determine whether capital becomes productive capacity."],
+  "limitations":["Population, labour-force and migration denominators are unusually uncertain under occupation, displacement and wartime administrative conditions.","The 2026 state budget was materially amended during the year; original and amended defence and deficit figures describe different fiscal envelopes.","RDNA5 damage and reconstruction estimates have a 31 December 2025 cutoff and therefore exclude subsequent destruction.","Defence-industry capacity and procurement shares are official operational figures rather than independently audited national accounts.","IMF and NBU forecasts remain highly conditional on security assumptions and external-financing continuity."],
+  "notes":"Revision 1 corrects the PT-BR localization defects that caused the prior QA rejection. Pre-decision canonical-state recheck found no public bundle for this ID; this is a new publication candidate.",
   "publication": {
-    "schema_version": 2,
-    "id": "MT-CC-2026-10-03-ukraine",
-    "revision": 1,
-    "kind": "country-context",
-    "context_role": "country-context",
-    "ready": true,
-    "source_locale": "en",
-    "date": "2026-10-03",
-    "slug": "2026-10-03-country-context-ukraine",
-    "title": "Ukraine: war-state capacity, demographic rupture and the economics of reconstruction",
-    "title_pt": "Ucrânia: capacidade estatal em guerra, ruptura demográfica e a economia da reconstrução",
-    "source_files": {
-      "en": "staging/research/2026/10/2026-10-03-country-context-ukraine/en.md",
-      "pt-BR": "staging/research/2026/10/2026-10-03-country-context-ukraine/pt-BR.md"
-    },
-    "taxonomy_version": "1.0",
-    "program": "strategic-transitions",
-    "related_programs": ["global-system-power", "political-economy-markets"],
-    "dimensions": ["economy", "politics", "society"],
-    "geography": {"level": "country", "regions": ["europe"], "subregions": ["eastern-europe"], "countries": [{"code": "UA", "slug": "ukraine"}]},
-    "topics": ["macroeconomics", "fiscal-policy", "trade-investment", "energy", "institutions-governance", "demography-labor", "infrastructure-logistics"],
-    "phenomena": ["war-armed-conflict", "defense-security", "migration-displacement", "demographic-transition", "institutional-change", "social-change"],
-    "format": "country-dossier",
-    "cadence": "event-driven",
-    "tags": ["Ukraine", "reconstruction", "war economy", "EU accession", "demography", "defence industry", "energy resilience", "agriculture", "infrastructure"],
-    "keywords": ["Ukraine reconstruction", "Ukraine economy 2026", "Ukraine demographics", "Ukraine EU accession", "Ukraine defence industry", "Ukraine energy", "Ukraine agriculture", "Ukraine infrastructure"],
-    "related_research_ids": ["MT-GM-2026-10-03", "MT-2026-09-27-UKRAINE-STRATEGIC-ASSESSMENT"],
-    "abstract": "A structural country-context dossier on Ukraine linking wartime state capacity, fiscal dependence, reconstruction, energy and transport resilience, defence industrialisation, EU accession and demographic rupture.",
-    "abstract_pt": "Dossiê estrutural de contexto-país sobre a Ucrânia, conectando capacidade estatal em guerra, dependência fiscal, reconstrução, resiliência energética e logística, industrialização de defesa, adesão à UE e ruptura demográfica."
+    "schema_version":2,"ready":true,"id":"MT-CC-2026-10-03-ukraine","slug":"2026-10-03-country-context-ukraine","date":"2026-10-03","published_at":"2026-10-03T20:58:00-03:00","kind":"country-context","priority":18,"source_locale":"en",
+    "sources":{"en":{"markdown":"staging/research/2026/10/2026-10-03-country-context-ukraine/en.md","title":"Ukraine: war-state capacity, demographic rupture and the economics of reconstruction","deck":"Ukraine has preserved macroeconomic and institutional continuity under war, but its long-run trajectory depends on converting external finance, EU accession, reconstruction and defence innovation into productive capacity while reversing demographic loss."},"pt-BR":{"markdown":"staging/research/2026/10/2026-10-03-country-context-ukraine/pt-BR.md","title":"Ucrânia: capacidade estatal de guerra, ruptura demográfica e economia da reconstrução","deck":"A Ucrânia preservou continuidade macroeconômica e institucional durante a guerra, mas sua trajetória depende de converter financiamento externo, adesão à UE, reconstrução e inovação de defesa em capacidade produtiva enquanto enfrenta perda demográfica."}},
+    "taxonomy_version":"1.0","program":"strategic-transitions","related_programs":["global-system-power","political-economy-markets","technology-production-society"],"dimensions":["economy","politics","society"],"geography":{"level":"country","regions":["europe"],"subregions":["eastern-europe-balkans"],"countries":[{"code":"UA","slug":"ukraine"}]},
+    "topics":["macroeconomics","fiscal-policy","monetary-policy","sovereign-debt","banking-credit","trade-investment","industry-production","technology-innovation","energy","infrastructure-logistics","institutions-governance","geopolitics-security","demography-labor","inequality-distribution","social-change"],
+    "phenomena":["war-armed-conflict","strategic-competition","defense-security","sanctions-economic-coercion","migration-displacement","demographic-transition","institutional-change","social-change"],"format":"country-dossier","cadence":"event-driven","context_role":"country-context","related_research_ids":["MT-CS-2026-09-20-EUR-RU-UA","MT-CC-2026-09-23-russia","MT-CC-2026-10-03-poland","MT-CC-2026-10-03-germany"],
+    "contrary_evidence":["Ukraine's massive physical damage, demographic displacement and dependence on official finance argue against treating wartime institutional continuity as evidence of normal economic conditions.","Functioning banks, continued exports, domestic defence production, digital administration and progress toward EU accession argue against a state-collapse narrative.","Large reconstruction needs create investment opportunity but do not guarantee growth because security risk, governance, labour supply, insurance and project execution determine whether capital becomes productive capacity."],
+    "limitations":["Population, labour-force and migration denominators are unusually uncertain under occupation, displacement and wartime administrative conditions.","The 2026 state budget was materially amended during the year; original and amended defence and deficit figures describe different fiscal envelopes.","RDNA5 damage and reconstruction estimates have a 31 December 2025 cutoff and therefore exclude subsequent destruction.","Defence-industry capacity and procurement shares are official operational figures rather than independently audited national accounts.","IMF and NBU forecasts remain highly conditional on security assumptions and external-financing continuity.","A revisão 1 corrige exclusivamente localização editorial e unidades da edição PT-BR após rejeição de QA; as proposições factuais e o conteúdo analítico permanecem materialmente equivalentes à versão inglesa."],"revision":1
   }
 }
