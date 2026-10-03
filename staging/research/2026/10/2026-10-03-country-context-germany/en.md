@@ -114,6 +114,14 @@ The bottleneck has shifted from adding capacity to integrating it. Variable rene
 
 For industry, the relevant variable is not the annual renewable share alone. It is the delivered cost and reliability of electricity and gas at the time production is needed. The energy transition succeeds economically only if low-carbon capacity becomes a stable industrial input rather than simply a higher installed-capacity statistic.
 
+## Infrastructure execution is the bridge between fiscal capacity and productivity
+
+Germany's investment shift matters only if financial authorization becomes usable physical and digital capacity. The 2026 federal budget placed more than €34 billion into traditional transport investment, while the infrastructure special fund also supports rail, roads, bridges, broadband, hospitals, schools and other public assets. These categories address bottlenecks that accumulate over long periods and therefore cannot be reversed by a single budget year.
+
+Transport is especially important for an economy organized around industrial clusters and cross-border supply chains. Delayed rail freight, bridge restrictions, congested roads or low river levels can interrupt production even when aggregate capital spending is high. Digital infrastructure has a similar role: broadband, public digital services and data infrastructure affect the transaction cost of firms and the administrative cost of investment.
+
+The productivity test is therefore physical. Higher appropriations should eventually be visible in shorter transport times, higher network reliability, more construction completion, faster permits and lower coordination costs. If these indicators do not improve, fiscal expansion risks raising demand without repairing the supply constraints it was designed to remove.
+
 ## Defence rearmament is becoming an industrial policy channel as well as a security policy
 
 Germany has sharply expanded defence expenditure since Russia's full-scale invasion of Ukraine. The 2026 federal budget raised the regular defence allocation to €82.7 billion, while an additional €25.5 billion was planned from the Bundeswehr special fund. Different official accounting frameworks produce different totals for NATO and constitutional purposes, so these figures should not be mechanically combined with broader security spending categories.
