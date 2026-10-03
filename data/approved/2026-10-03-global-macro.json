@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-03",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-03T14:21:00-03:00",
+  "reviewed_commit": "7da4c1336bb4cb04ec5a92e33a265b44a915d7ef",
+  "pending_blob_sha": "28a667a3a178a480803e35a106ef32f3eb3682f9",
+  "source_blob_shas": {
+    "en": "ebbb0df6250fed75701e108e7275f20cbd456c94",
+    "pt-BR": "0c565959685ffbae9241b2f5943bc8503b54d8fc"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "September payrolls, unemployment, participation, wages and revisions were checked against the 2 October BLS Employment Situation. August PCE inflation and real consumption were checked against BEA; policy rates and projections against the Federal Reserve; 1–2 October yields against U.S. Treasury daily par-yield data."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The brief separates hiring-flow weakness from labour-market level, avoids treating a single payroll print as recession proof, and does not attribute end-of-day Treasury moves mechanically to the employment release."
+    },
+    "novelty_against_previous_daily": {
+      "result": "passed",
+      "summary": "The lead changes from 2 October's pre-payroll euro-area inflation and Japan labour-demand setup to the now-released U.S. employment data and the employment-inflation-financing-cost trade-off."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "summary": "All quantitative visual values are traceable to cited primary releases; EN/PT-BR layouts and values are aligned."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Federal Reserve trade-offs are described as conditional economic mechanisms without endorsement, opposition, scoring or prediction of a policy decision."
+    }
+  },
+  "contrary_evidence": [
+    "The unemployment rate has remained within a narrow 4.1%–4.3% range since March, so the weak September payroll does not establish a broad labour contraction.",
+    "Health care, construction and manufacturing still added jobs in September, while participation and the employment-population ratio changed little.",
+    "August real PCE rose 0.6%, indicating that household demand remained resilient before the September payroll release.",
+    "Treasury yields ended 2 October higher than 1 October across the 2-year, 10-year and 30-year maturities cited, so market pricing did not produce a simple easing signal."
+  ],
+  "limitations": [
+    "The Employment Situation combines household and establishment surveys with sampling error and subsequent revisions; one month should not be treated as a structural break.",
+    "August PCE predates the September employment report and cannot establish how consumption responded to the latest hiring slowdown.",
+    "Daily Treasury yields reflect many factors besides payroll data, including inflation expectations, term premium, issuance, global rates and positioning.",
+    "Federal Reserve projections are participant assessments made on information available at the September meeting and are not commitments.",
+    "Euro-area and Japan observations are carried forward only as cross-country context; the new evidence in this edition is centered on the U.S. release."
+  ],
+  "notes": "Approved after primary-source verification, bilingual parity review, revision-history check, visual-semantic review and explicit separation of observed yields from causal attribution.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-03",
+    "slug": "2026-10-03-global-macro",
+    "date": "2026-10-03",
+    "published_at": "2026-10-03T14:21:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-03-global-macro/en.md",
+        "title": "Global Macro — U.S. payrolls slow to 29,000 as inflation and long yields keep the Fed trade-off asymmetric",
+        "deck": "September payrolls rose only 29,000 and July-August were revised down by 60,000, but PCE inflation remains 3.4% and long Treasury yields stayed above 5%.",
+        "tags": [
+          "global macro",
+          "United States",
+          "payrolls",
+          "Federal Reserve",
+          "PCE inflation",
+          "Treasuries",
+          "labour market"
+        ],
+        "keywords": [
+          "US payroll September 2026",
+          "US unemployment September 2026",
+          "PCE inflation August 2026",
+          "Federal Reserve September 2026",
+          "Treasury yields October 2 2026"
+        ],
+        "regime": "Slower U.S. hiring under persistent inflation and elevated long yields: labour momentum weakened, but unemployment remains near its recent range and consumption has not yet confirmed a broad contraction.",
+        "key_risk": "If hiring continues to weaken while inflation remains above target and long yields stay elevated, monetary policy can face a sharper employment-inflation trade-off before financing conditions ease.",
+        "watch": [
+          "U.S. September CPI on 14 October",
+          "Weekly initial unemployment claims and continuing claims",
+          "October payrolls on 6 November",
+          "September PCE on 29 October",
+          "Whether 2-year and 10-year Treasury yields remain elevated after the payroll reset"
+        ],
+        "search_text": "Global Macro October 3 2026 US payroll 29000 unemployment 4.2 PCE inflation 3.4 Treasury 10-year 5.28 Fed"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-03-global-macro/pt-BR.md",
+        "title": "Macro Global — Payroll dos EUA desacelera para 29 mil enquanto inflação e juros longos mantêm o trade-off do Fed assimétrico",
+        "deck": "O payroll de setembro cresceu apenas 29 mil e julho-agosto foram revisados em -60 mil, mas a inflação PCE segue em 3,4% e os Treasuries longos permaneceram acima de 5%.",
+        "tags": [
+          "macro global",
+          "Estados Unidos",
+          "payroll",
+          "Federal Reserve",
+          "inflação PCE",
+          "Treasuries",
+          "mercado de trabalho"
+        ],
+        "keywords": [
+          "payroll EUA setembro 2026",
+          "desemprego EUA setembro 2026",
+          "inflação PCE agosto 2026",
+          "Federal Reserve setembro 2026",
+          "Treasury outubro 2 2026"
+        ],
+        "regime": "Contratação americana mais fraca sob inflação persistente e juros longos elevados: o impulso do trabalho caiu, mas o desemprego segue próximo da faixa recente e o consumo ainda não confirmou contração ampla.",
+        "key_risk": "Se a contratação continuar enfraquecendo enquanto a inflação permanece acima da meta e os juros longos seguem elevados, a política monetária pode enfrentar um trade-off emprego-inflação mais agudo antes de as condições financeiras aliviarem.",
+        "watch": [
+          "CPI de setembro dos EUA em 14 de outubro",
+          "Pedidos semanais iniciais e contínuos de seguro-desemprego",
+          "Payroll de outubro em 6 de novembro",
+          "PCE de setembro em 29 de outubro",
+          "Se os Treasuries de 2 e 10 anos permanecem elevados após a reprecificação do payroll"
+        ],
+        "search_text": "Macro Global 3 outubro 2026 payroll EUA 29000 desemprego 4,2 PCE 3,4 Treasury 10 anos 5,28 Fed"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "demography-labor",
+      "sovereign-debt"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "producer_checks": {
+      "verified_at": "2026-10-03T14:21:00-03:00",
+      "primary_sources": [
+        "U.S. Bureau of Labor Statistics",
+        "U.S. Bureau of Economic Analysis",
+        "Federal Reserve",
+        "U.S. Department of the Treasury"
+      ],
+      "bilingual_parity": "checked",
+      "visual_signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "novelty_against_previous_daily": "checked against 2026-10-02 revision 0; lead shifts from pre-payroll euro-area/Japan divergence to the released U.S. September employment report and its interaction with above-target PCE inflation and elevated Treasury yields"
+    }
+  }
+}
