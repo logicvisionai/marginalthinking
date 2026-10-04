@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-03T15:26:00-03:00",
+  "last_reconciled_at": "2026-10-04T19:00:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -2750,6 +2750,130 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Industrial, nuclear, grid and defence technologies appear as country-level capacity context rather than a discrete new capability-stage signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-global-macro-publication",
+      "reconciled_at": "2026-10-04T19:00:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-GM-2026-10-03",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-CC-2026-09-28-singapore",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-26",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GM-2026-09-22",
+        "MT-GMFI-2026-09-22",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-ST-2026-09-21-vietnam-ftse-market-access",
+        "MT-WF-2026-09-21",
+        "MT-GM-2026-09-21",
+        "MT-GM-2026-09-20",
+        "MT-SA-2026-09-19-sovereign-capital",
+        "MT-SA-2026-09-19-structural-power",
+        "MT-GM-2026-09-19",
+        "MT-TS-2026-09-18-agentic-operating-layer",
+        "MT-TS-2026-09-18-cislunar-service-infrastructure",
+        "MT-WF-2026-09-18",
+        "MT-CC-2026-09-18-saudi-arabia",
+        "MT-CC-2026-09-18-japan",
+        "MT-GM-2026-09-18",
+        "MT-GM-2026-09-17",
+        "MT-ST-2026-09-16-kazakhstan-corridor",
+        "MT-TECH-2026-09-16-quantum-computing",
+        "MT-ST-2026-09-16-bulgaria-euro-market-integration",
+        "MT-WF-2026-09-16",
+        "MT-GM-2026-09-16",
+        "MT-GM-2026-09-15"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The 4 October daily elevates maritime-route and energy-infrastructure reliability as a cross-border dependency mechanism, but no normalized route-level throughput or durable edge change is established for the canonical dependency network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "The publication identifies energy-logistics constraints but no project-level access, capacity, financing or execution state meeting the Atlas evidence contract."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "OPEC and participating governments are material policy actors, but the daily establishes no new durable ownership, mandate or control relation requiring a canonical actor mutation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report concerns effective energy availability, but the cited evidence does not establish a new controller-level reserve, production-right, processing or physical-intermediation record."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The publication is a current macro assessment rather than a bounded historical policy experiment or completed institutional case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "The JMMC statement raises security risks to routes and infrastructure, but the evidence does not establish a new canonical operational conflict-system state or probability assessment."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No discrete technology capability-stage transition is established."
         }
       ]
     }
