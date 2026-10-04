@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-04-portugal",
+  "slug": "2026-10-04-country-context-portugal",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-04T01:23:42-03:00",
+  "reviewed_commit": "c4923b3a824a05924368dc140ec157cefb526f08",
+  "pending_blob_sha": "8edd1a6183dd0c9bf8a079d19575405a4de68094",
+  "source_blob_shas": {
+    "en": "925c80003331af5e9c786d37a51cfdf1b7c76462",
+    "pt-BR": "80f325491995954c36f795cb9efaf8ef31e7ee56"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    {
+      "check": "visual_evidence_readiness",
+      "location": "sections on Iberian integration, Sines, Atlantic islands, regional differences and Atlantic security",
+      "issue": "The country dossier meets the numerical chart/table/structural-visual floor, but geography and corridor exposure are central mechanisms and there is no geographic map. The text depends materially on Iberian interconnection, Sines logistics, Azores/Madeira, regional economic concentration and Atlantic security routes. Under RESEARCH-VISUALS.md and COUNTRY-CONTEXT.md, a map is required by editorial judgment when spatial concentration, corridor exposure, regional transmission or external relationships are central and a map is clearer than prose.",
+      "evidence": "EN contains multiple charts, a flow, a mindmap and a contradiction table, but no map fence across the reviewed source; the same geographic mechanisms are material to the thesis."
+    }
+  ],
+  "required_fixes": [
+    "Add an evidence-bearing deterministic map in both EN and PT-BR with semantic parity. It should encode the material geography actually defended in the report, such as Portugal-Spain electricity/gas integration, Pyrenees continental interconnection constraint, Sines Atlantic logistics/energy node, and Azores/Madeira Atlantic exposure. Do not invent coordinates or quantitative flows not supported by cited evidence.",
+    "Keep all existing quantitative claims, dates and causal qualifications unchanged unless separately revalidated; the spot checks of Q2 2026 house-price growth and the 29 September 2026 final PRR payment request were consistent with current Eurostat and Portuguese government primary sources.",
+    "After adding the map, re-run EN/PT-BR visual-parity and publication-readiness checks and return the same ID with changed source SHAs."
+  ],
+  "evidence": [
+    "Eurostat release of 1 October 2026 confirms Portugal house prices +16.5% year on year in Q2 2026, with Q4 2025 +18.9% and Q1 2026 +17.8%.",
+    "Portuguese Government release of 29 September 2026 confirms the 10th and final PRR payment request of EUR 4.672 billion net of advances and total allocation of EUR 21.905 billion.",
+    "COUNTRY-CONTEXT.md requires at least one table, one chart, one structural visual and at least four useful visuals, and directs use of a map when spatial concentration, trade corridors, energy dependence, regional inequality or external relationships are central.",
+    "RESEARCH-VISUALS.md makes visual readiness blocking and requires a map by editorial judgment when spatial distribution, corridor exposure, regional transmission or country-to-country dependence is central and a map is clearer than prose."
+  ],
+  "notes": "Rejected before public materialization. No reports/, HTML, data/reports.json, taxonomy, navigation or other global site surface was changed. The public state remained absent for this ID at the decision point."
+}
