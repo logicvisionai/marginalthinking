@@ -4,8 +4,8 @@
   "slug": "2026-10-04-country-context-portugal",
   "revision": 0,
   "qa_status": "rejected",
-  "reviewed_at": "2026-10-04T01:23:42-03:00",
-  "reviewed_commit": "c4923b3a824a05924368dc140ec157cefb526f08",
+  "reviewed_at": "2026-10-04T02:22:03-03:00",
+  "reviewed_commit": "6a5e2d27c7fe0e6a65a7487dfb60a1b3977769ea",
   "pending_blob_sha": "8edd1a6183dd0c9bf8a079d19575405a4de68094",
   "source_blob_shas": {
     "en": "925c80003331af5e9c786d37a51cfdf1b7c76462",
@@ -20,18 +20,26 @@
       "location": "sections on Iberian integration, Sines, Atlantic islands, regional differences and Atlantic security",
       "issue": "The country dossier meets the numerical chart/table/structural-visual floor, but geography and corridor exposure are central mechanisms and there is no geographic map. The text depends materially on Iberian interconnection, Sines logistics, Azores/Madeira, regional economic concentration and Atlantic security routes. Under RESEARCH-VISUALS.md and COUNTRY-CONTEXT.md, a map is required by editorial judgment when spatial concentration, corridor exposure, regional transmission or external relationships are central and a map is clearer than prose.",
       "evidence": "EN contains multiple charts, a flow, a mindmap and a contradiction table, but no map fence across the reviewed source; the same geographic mechanisms are material to the thesis."
+    },
+    {
+      "check": "factual_accuracy",
+      "location": "opening, paragraph 2, EN and PT-BR",
+      "issue": "The dossier states that revised Q2 2026 real GDP grew about 2.6% year on year. The current INE release reports 2.5% year on year, while confirming 0.8% quarter on quarter. Because this is a central current macro number in the opening thesis, the discrepancy is blocking rather than cosmetic.",
+      "evidence": "INE/WebInq current Q2 2026 release: real GDP +2.5% year on year and +0.8% quarter on quarter."
     }
   ],
   "required_fixes": [
     "Add an evidence-bearing deterministic map in both EN and PT-BR with semantic parity. It should encode the material geography actually defended in the report, such as Portugal-Spain electricity/gas integration, Pyrenees continental interconnection constraint, Sines Atlantic logistics/energy node, and Azores/Madeira Atlantic exposure. Do not invent coordinates or quantitative flows not supported by cited evidence.",
-    "Keep all existing quantitative claims, dates and causal qualifications unchanged unless separately revalidated; the spot checks of Q2 2026 house-price growth and the 29 September 2026 final PRR payment request were consistent with current Eurostat and Portuguese government primary sources.",
-    "After adding the map, re-run EN/PT-BR visual-parity and publication-readiness checks and return the same ID with changed source SHAs."
+    "Correct the Q2 2026 year-on-year real GDP figure in both EN and PT-BR from about 2.6% to the current INE value of 2.5%, and check every downstream occurrence or interpretation tied to that figure.",
+    "Preserve the verified 0.8% quarter-on-quarter Q2 2026 GDP figure and the 29 September 2026 final PRR payment-request figures unless separately revalidated against a newer primary release.",
+    "After the factual correction and map addition, re-run EN/PT-BR semantic/visual parity and publication-readiness checks and return the same ID with changed source SHAs."
   ],
   "evidence": [
-    "Eurostat release of 1 October 2026 confirms Portugal house prices +16.5% year on year in Q2 2026, with Q4 2025 +18.9% and Q1 2026 +17.8%.",
+    "INE/WebInq current Q2 2026 release reports real GDP growth of 2.5% year on year and 0.8% quarter on quarter.",
     "Portuguese Government release of 29 September 2026 confirms the 10th and final PRR payment request of EUR 4.672 billion net of advances and total allocation of EUR 21.905 billion.",
+    "Eurostat release of 1 October 2026 confirms Portugal house prices +16.5% year on year in Q2 2026, with Q4 2025 +18.9% and Q1 2026 +17.8%.",
     "COUNTRY-CONTEXT.md requires at least one table, one chart, one structural visual and at least four useful visuals, and directs use of a map when spatial concentration, trade corridors, energy dependence, regional inequality or external relationships are central.",
     "RESEARCH-VISUALS.md makes visual readiness blocking and requires a map by editorial judgment when spatial distribution, corridor exposure, regional transmission or country-to-country dependence is central and a map is clearer than prose."
   ],
-  "notes": "Rejected before public materialization. No reports/, HTML, data/reports.json, taxonomy, navigation or other global site surface was changed. The public state remained absent for this ID at the decision point."
+  "notes": "Rejected before public materialization. This update adds a primary-source factual blocker discovered after the initial visual-gate rejection. No reports/, HTML, data/reports.json, taxonomy, navigation or other global site surface was changed. The public state remained absent for this ID at the decision point."
 }
