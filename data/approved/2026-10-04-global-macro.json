@@ -1,0 +1,183 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-04",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-04T19:00:00-03:00",
+  "reviewed_commit": "d3e2ee47fc54e6512e6dfc9237d8d517e6244ff1",
+  "pending_blob_sha": "e61cd13e7ab661e9c984e74a9e9a104ea8781d1a",
+  "source_blob_shas": {
+    "en": "52082ba95ba1b71b8e0e88bf79879e62d4508e1e",
+    "pt-BR": "7ab9b137bf8ad4af65a09547a236d5df9a062928"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "The 4 October OPEC+ production decision and JMMC maritime/infrastructure statements were checked directly against OPEC primary releases. U.S. payroll, PCE and Treasury values are explicitly identified as carry-forward context from the latest primary releases, with no Sunday market-price attribution."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The brief separates unchanged scheduled production from realized physical supply, distinguishes logistics risk from quota policy, and avoids claiming a market reaction before post-decision trading."
+    },
+    "novelty_against_previous_daily": {
+      "result": "passed",
+      "summary": "The lead changes from 3 October U.S. payroll weakness to the 4 October OPEC+ November production decision and the JMMC's explicit warning on maritime routes and energy infrastructure."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "summary": "EN and PT-BR use the same visual structure and quantitative values. Carry-forward U.S. values are traceable to BLS, BEA and Treasury releases; OPEC statements are represented qualitatively rather than converted into unsupported market-price estimates."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Security and infrastructure risks are treated as conditional supply mechanisms without advocacy, attribution beyond the cited institutional statements, or prediction of political outcomes."
+    }
+  },
+  "contrary_evidence": [
+    "Unchanged OPEC+ required production does not establish tighter realized supply; conformity, inventories, maintenance and physical disruptions determine actual availability.",
+    "Weaker U.S. payroll growth can reduce demand and medium-term inflation pressure, offsetting part of an energy-cost shock.",
+    "Major oil and sovereign-bond markets had not completed a post-decision session by the information cutoff, so no market reaction is attributed to the 4 October decision.",
+    "Energy-price pass-through varies with inventories, contracts, taxes, exchange rates, subsidies and margins."
+  ],
+  "limitations": [
+    "The 4 October OPEC+ statements describe required production and committee assessments; they do not by themselves measure realized exports or route-level physical flows.",
+    "The JMMC's supply-risk language is a producer-group assessment; the magnitude of any disruption requires confirmation from physical-flow and infrastructure data.",
+    "U.S. labour, PCE and Treasury observations are the latest available carry-forward context, not new Sunday releases.",
+    "The publication intentionally leaves Monday market direction unresolved until liquid post-decision trading occurs."
+  ],
+  "notes": "Approved after primary-source verification, bilingual parity review, revision-history check, visual-semantic review, novelty check against 3 October, and explicit separation of scheduled production from physical supply.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-04",
+    "slug": "2026-10-04-global-macro",
+    "date": "2026-10-04",
+    "published_at": "2026-10-04T19:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-04-global-macro/en.md",
+        "title": "Global Macro — OPEC+ holds November output steady as maritime security keeps the energy-inflation channel active",
+        "deck": "Seven OPEC+ producers kept September required production unchanged for November, while the JMMC warned that attacks on energy infrastructure and disruptions to maritime routes can tighten supply and increase volatility.",
+        "tags": [
+          "global macro",
+          "OPEC+",
+          "energy",
+          "oil",
+          "maritime security",
+          "inflation",
+          "United States"
+        ],
+        "keywords": [
+          "OPEC October 4 2026",
+          "OPEC+ November 2026 production",
+          "energy infrastructure risk",
+          "maritime routes oil",
+          "US PCE inflation 2026",
+          "US payroll September 2026"
+        ],
+        "regime": "Weekend energy policy is stable on quotas but fragile on physical supply: OPEC+ is not adding scheduled barrels for November, while maritime-route and infrastructure risks keep an upside inflation channel open before markets reopen.",
+        "key_risk": "A physical disruption to energy infrastructure or maritime routes could raise fuel, freight and headline inflation before weaker U.S. labour demand has time to reduce underlying price pressure, tightening the policy trade-off.",
+        "watch": [
+          "Monday reopening in crude, product spreads, freight and sovereign yields",
+          "Physical maritime access and energy-infrastructure availability",
+          "OPEC+ conformity and any extraordinary policy response",
+          "U.S. September CPI on 14 October",
+          "Next seven-country OPEC+ meeting on 1 November",
+          "JMMC meeting on 29 November"
+        ],
+        "search_text": "Global Macro October 4 2026 OPEC+ November production unchanged maritime routes energy infrastructure risk inflation payroll Treasury"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-04-global-macro/pt-BR.md",
+        "title": "Macro Global — OPEC+ mantém produção de novembro enquanto segurança marítima preserva o canal energia-inflação",
+        "deck": "Sete produtores da OPEC+ mantiveram para novembro a produção exigida de setembro, enquanto o JMMC alertou que ataques à infraestrutura energética e interrupções de rotas marítimas podem restringir oferta e elevar a volatilidade.",
+        "tags": [
+          "macro global",
+          "OPEC+",
+          "energia",
+          "petróleo",
+          "segurança marítima",
+          "inflação",
+          "Estados Unidos"
+        ],
+        "keywords": [
+          "OPEC 4 outubro 2026",
+          "produção OPEC+ novembro 2026",
+          "risco infraestrutura energética",
+          "rotas marítimas petróleo",
+          "inflação PCE EUA 2026",
+          "payroll EUA setembro 2026"
+        ],
+        "regime": "A política energética do fim de semana está estável nas cotas, mas frágil na oferta física: a OPEC+ não adiciona barris programados para novembro, enquanto riscos em rotas marítimas e infraestrutura mantêm aberto um canal de alta para a inflação antes da reabertura dos mercados.",
+        "key_risk": "Uma interrupção física na infraestrutura energética ou nas rotas marítimas pode elevar combustíveis, fretes e inflação cheia antes que a demanda de trabalho mais fraca nos EUA reduza a pressão subjacente de preços, tornando o trade-off de política mais restritivo.",
+        "watch": [
+          "Reabertura de segunda-feira em petróleo, derivados, fretes e juros soberanos",
+          "Acesso marítimo físico e disponibilidade da infraestrutura energética",
+          "Conformidade da OPEC+ e eventual resposta extraordinária",
+          "CPI de setembro dos EUA em 14 de outubro",
+          "Próxima reunião dos sete países da OPEC+ em 1º de novembro",
+          "Reunião do JMMC em 29 de novembro"
+        ],
+        "search_text": "Macro Global 4 outubro 2026 OPEC+ produção novembro inalterada rotas marítimas infraestrutura energética risco inflação payroll Treasury"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "gulf",
+        "east-asia"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "defense-security"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0,
+    "producer_checks": {
+      "verified_at": "2026-10-04T19:00:00-03:00",
+      "primary_sources": [
+        "OPEC",
+        "U.S. Bureau of Labor Statistics",
+        "U.S. Bureau of Economic Analysis",
+        "U.S. Department of the Treasury"
+      ],
+      "bilingual_parity": "checked",
+      "visual_signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "novelty_against_previous_daily": "checked against 2026-10-03 revision 0; lead shifts from U.S. payroll weakness to the 4 October OPEC+ output decision and the JMMC's explicit maritime/infrastructure supply-security warning"
+    }
+  }
+}
