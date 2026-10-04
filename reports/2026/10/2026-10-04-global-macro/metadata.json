@@ -1,0 +1,135 @@
+{
+  "id": "MT-GM-2026-10-04",
+  "slug": "2026-10-04-global-macro",
+  "date": "2026-10-04",
+  "published_at": "2026-10-04T19:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "middle-east",
+      "asia-pacific"
+    ],
+    "subregions": [
+      "north-america",
+      "western-europe",
+      "gulf",
+      "east-asia"
+    ],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "defense-security"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-10-04T19:00:00-03:00",
+    "primary_sources": [
+      "OPEC",
+      "U.S. Bureau of Labor Statistics",
+      "U.S. Bureau of Economic Analysis",
+      "U.S. Department of the Treasury"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 Markdown table + 3 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+    "novelty_against_previous_daily": "checked against 2026-10-03 revision 0; lead shifts from U.S. payroll weakness to the 4 October OPEC+ output decision and the JMMC's explicit maritime/infrastructure supply-security warning"
+  },
+  "url": "/reports/2026/10/2026-10-04-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-04T19:00:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "d3e2ee47fc54e6512e6dfc9237d8d517e6244ff1",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — OPEC+ holds November output steady as maritime security keeps the energy-inflation channel active",
+      "deck": "Seven OPEC+ producers kept September required production unchanged for November, while the JMMC warned that attacks on energy infrastructure and disruptions to maritime routes can tighten supply and increase volatility.",
+      "tags": [
+        "global macro",
+        "OPEC+",
+        "energy",
+        "oil",
+        "maritime security",
+        "inflation",
+        "United States"
+      ],
+      "keywords": [
+        "OPEC October 4 2026",
+        "OPEC+ November 2026 production",
+        "energy infrastructure risk",
+        "maritime routes oil",
+        "US PCE inflation 2026",
+        "US payroll September 2026"
+      ],
+      "regime": "Weekend energy policy is stable on quotas but fragile on physical supply: OPEC+ is not adding scheduled barrels for November, while maritime-route and infrastructure risks keep an upside inflation channel open before markets reopen.",
+      "key_risk": "A physical disruption to energy infrastructure or maritime routes could raise fuel, freight and headline inflation before weaker U.S. labour demand has time to reduce underlying price pressure, tightening the policy trade-off.",
+      "watch": [
+        "Monday reopening in crude, product spreads, freight and sovereign yields",
+        "Physical maritime access and energy-infrastructure availability",
+        "OPEC+ conformity and any extraordinary policy response",
+        "U.S. September CPI on 14 October",
+        "Next seven-country OPEC+ meeting on 1 November",
+        "JMMC meeting on 29 November"
+      ],
+      "search_text": "Global Macro October 4 2026 OPEC+ November production unchanged maritime routes energy infrastructure risk inflation payroll Treasury"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — OPEC+ mantém produção de novembro enquanto segurança marítima preserva o canal energia-inflação",
+      "deck": "Sete produtores da OPEC+ mantiveram para novembro a produção exigida de setembro, enquanto o JMMC alertou que ataques à infraestrutura energética e interrupções de rotas marítimas podem restringir oferta e elevar a volatilidade.",
+      "tags": [
+        "macro global",
+        "OPEC+",
+        "energia",
+        "petróleo",
+        "segurança marítima",
+        "inflação",
+        "Estados Unidos"
+      ],
+      "keywords": [
+        "OPEC 4 outubro 2026",
+        "produção OPEC+ novembro 2026",
+        "risco infraestrutura energética",
+        "rotas marítimas petróleo",
+        "inflação PCE EUA 2026",
+        "payroll EUA setembro 2026"
+      ],
+      "regime": "A política energética do fim de semana está estável nas cotas, mas frágil na oferta física: a OPEC+ não adiciona barris programados para novembro, enquanto riscos em rotas marítimas e infraestrutura mantêm aberto um canal de alta para a inflação antes da reabertura dos mercados.",
+      "key_risk": "Uma interrupção física na infraestrutura energética ou nas rotas marítimas pode elevar combustíveis, fretes e inflação cheia antes que a demanda de trabalho mais fraca nos EUA reduza a pressão subjacente de preços, tornando o trade-off de política mais restritivo.",
+      "watch": [
+        "Reabertura de segunda-feira em petróleo, derivados, fretes e juros soberanos",
+        "Acesso marítimo físico e disponibilidade da infraestrutura energética",
+        "Conformidade da OPEC+ e eventual resposta extraordinária",
+        "CPI de setembro dos EUA em 14 de outubro",
+        "Próxima reunião dos sete países da OPEC+ em 1º de novembro",
+        "Reunião do JMMC em 29 de novembro"
+      ],
+      "search_text": "Macro Global 4 outubro 2026 OPEC+ produção novembro inalterada rotas marítimas infraestrutura energética risco inflação payroll Treasury"
+    }
+  }
+}
