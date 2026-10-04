@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-04-turkiye",
+  "slug": "2026-10-04-country-context-turkiye",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-04T03:09:17-03:00",
+  "reviewed_commit": "881e8d80e58283725bf5f8828fe2d0621ae22610",
+  "pending_blob_sha": "6d6782d0712fa41359975dde332159beab4caaac",
+  "source_blob_shas": {
+    "en": "7e77b3dec1acccda7dd1d5169253aea693c83a0b",
+    "pt-BR": "674b83493e48e67abc48c751054d8b4ca23f4269"
+  },
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    {
+      "check": "visual_evidence_readiness",
+      "location": "sections on transcontinental geography, EU manufacturing integration, Black Sea/Mediterranean corridors, energy dependence and external relations",
+      "issue": "The dossier makes spatial distribution, corridor exposure, country-to-country dependence and external relationships central to its thesis but contains no map. RESEARCH-VISUALS.md and COUNTRY-CONTEXT.md require a map by editorial judgment when those mechanisms are central and clearer spatially than in prose.",
+      "evidence": "The reviewed EN/PT-BR sources contain multiple quantitative charts and structural flow material, but repository search found no map block for the Türkiye dossier. The opening and scope explicitly frame Türkiye as a connector among Europe, the Black Sea, Mediterranean, Caucasus and Middle East, while later analysis depends on EU supply chains and energy corridors."
+    }
+  ],
+  "required_fixes": [
+    "Add an evidence-bearing deterministic map in both EN and PT-BR with semantic parity. Encode only geographic mechanisms already supported by cited evidence, such as EU manufacturing linkage, Black Sea/Mediterranean access, energy corridors and relevant neighboring-region exposure; do not invent quantitative flows or geographic precision.",
+    "Re-run the visual floor, mobile legibility and EN/PT-BR visual-parity checks after adding the map, returning the same ID with changed source SHAs."
+  ],
+  "evidence": [
+    "TURKSTAT confirms August 2026 CPI at 31.51% and Q2 2026 real GDP growth at 2.3% year on year.",
+    "CBRT confirms the policy rate was maintained at 37% on 10 September 2026.",
+    "RESEARCH-VISUALS.md makes visual readiness blocking and requires a map by editorial judgment when spatial distribution, corridor exposure, regional transmission or country-to-country dependence is central.",
+    "COUNTRY-CONTEXT.md specifically directs use of a map when trade corridors, energy dependence, regional inequality or external relationships are central."
+  ],
+  "notes": "Rejected before public materialization. Current reports/2026/10 state was re-read immediately before this decision and contained no public bundle for this ID. No reports/, HTML, data/reports.json, taxonomy, navigation or other global site surface was changed."
+}
