@@ -1,545 +1,604 @@
-# Espanha: escala impulsionada por imigração, eletricidade renovável e o teste de produtividade por trás do crescimento europeu
+# Espanha: expansão apoiada pela imigração, eletricidade renovável e o teste de produtividade após o NextGenerationEU
 
-A Espanha de 2026 é uma das grandes economias que mais crescem na área do euro, mas a composição desse crescimento importa mais do que o número agregado. Emprego e população crescem rapidamente, imigração amplia a força de trabalho, receitas do turismo permanecem em níveis recordes, eletricidade renovável tornou-se vantagem comparativa estrutural e recursos europeus sustentam investimento. Ao mesmo tempo, produtividade por hora continua fraca, desemprego permanece alto para padrões europeus, preços das moradias sobem muito mais rápido que a renda das famílias, dívida pública continua próxima de 100% do PIB e o envelhecimento se tornará mais vinculante à medida que o impulso migratório diminuir.
+A Espanha de 2026 cresce mais rapidamente que a maior parte da área do euro enquanto ainda carrega várias restrições estruturais que definiram a década posterior à crise financeira: produtividade baixa em relação às economias europeias mais avançadas, desemprego estrutural elevado, dívida pública próxima de 100% do PIB, fragmentação regulatória regional, escassez de moradia nas áreas metropolitanas mais produtivas e sistema previdenciário exposto ao rápido envelhecimento populacional.
 
-As contas nacionais revisadas mostram crescimento real do PIB de 0,7% no segundo trimestre de 2026 frente ao trimestre anterior e 2,6% em relação ao mesmo período de 2025. A demanda doméstica contribuiu com 3,5 pontos percentuais para o crescimento anual, enquanto a demanda externa retirou 0,9 ponto. O emprego equivalente em tempo integral cresceu 2,2%, mas a produtividade por hora ficou praticamente estagnada e havia sido ligeiramente negativa na estimativa preliminar. Essa combinação captura a questão estrutural central: a Espanha produz mais principalmente porque mais pessoas trabalham, mas sustentar convergência de renda por habitante exige que a mesma força de trabalho se torne mais produtiva.
+A diferença em relação aos anos 2010 é que a economia agora combina crescimento mais forte da força de trabalho, grande entrada de imigrantes, melhora do emprego, superávit em conta corrente, aceleração do investimento e uma das expansões mais rápidas de eletricidade renovável da Europa. O PIB real cresceu 2,8% em 2025. As contas nacionais revisadas mostram crescimento de 0,7% no segundo trimestre de 2026 frente ao trimestre anterior e 2,6% em relação ao mesmo período de 2025. A demanda doméstica contribuiu com 3,5 pontos percentuais para o crescimento anual, enquanto a demanda externa retirou 0,9 ponto.
 
-A Comissão Europeia projetou crescimento de 2,4% em 2026, desemprego de 9,9%, déficit do governo geral de 2,4% do PIB e dívida pública bruta de 99,6%. O FMI também avaliou que o crescimento é excepcionalmente forte frente aos pares da área do euro, mas alertou para desaceleração de médio prazo conforme a imigração diminua e o envelhecimento avance.
+A questão central é se a Espanha consegue converter essa combinação excepcionalmente favorável de expansão da força de trabalho, recursos europeus de recuperação e eletricidade renovável de baixo custo em crescimento durável da produtividade. Se conseguir, redução da dívida e convergência de renda tornam-se mais fáceis. Se não conseguir, o crescimento pode desacelerar materialmente quando imigração, investimento europeu e normalização pós-pandemia perderem impulso.
 
-## Arquitetura institucional: monarquia parlamentar e Estado fortemente descentralizado
+## Arquitetura política: monarquia parlamentar dentro de um Estado altamente descentralizado
 
-A Constituição de 1978 define a Espanha como Estado social e democrático de Direito e estabelece uma monarquia parlamentar. Felipe VI é chefe de Estado. O poder executivo é exercido pelo governo; Pedro Sánchez permanecia presidente do Governo no corte de evidência de outubro de 2026.
+A Espanha é uma monarquia parlamentar sob a Constituição de 1978. O poder executivo é exercido pelo governo, enquanto o monarca desempenha funções constitucionais e representativas. As Cortes Gerais são formadas pelo Congresso dos Deputados e pelo Senado.
 
-A Constituição também criou a estrutura para ampla autonomia territorial. A Espanha possui dezessete comunidades autônomas e duas cidades autônomas, com responsabilidades substanciais em saúde, educação, transportes e outros serviços públicos.
+Pedro Sánchez permanecia presidente do Governo no corte de evidência de outubro de 2026. Seu governo opera em ambiente parlamentar fragmentado no qual a aprovação de leis frequentemente depende de apoio negociado com partidos regionais e menores.
 
-Isso significa que política econômica nacional é executada por múltiplas camadas. Oferta habitacional, planejamento urbano, formação profissional, hospitais, sistemas de água e transporte frequentemente dependem de decisões regionais e municipais. Reformas do governo central podem, portanto, ser limitadas por capacidade local de execução ou conflito político.
+A Espanha também é um dos grandes Estados europeus mais descentralizados. As 17 comunidades autônomas controlam ou coadministram partes importantes de saúde, educação, transporte, tributação regional e administração econômica. País Basco e Navarra possuem arranjos fiscais próprios, enquanto as regiões do regime comum operam por outro sistema de financiamento intergovernamental.
 
-## A transição democrática criou ruptura institucional depois da ditadura franquista
+Essa descentralização permite adaptar políticas às condições regionais, mas pode criar regras duplicadas, barreiras administrativas e capacidade desigual de implementação.
 
-As instituições econômicas contemporâneas não podem ser compreendidas sem a transição da ditadura para a democracia depois de 1975.
+## O Estado moderno surgiu de economias regionais desiguais
 
-O acordo constitucional de 1978 normalizou competição política, descentralizou autoridade, reconheceu diversidade linguística e regional e criou o ambiente jurídico em que a integração europeia depois se tornou âncora institucional central.
+A geografia econômica espanhola nunca foi homogênea. Catalunha e País Basco se industrializaram antes de grande parte do país, enquanto Madri se desenvolveu como centro administrativo, financeiro e de serviços. Grandes áreas do interior e do Sul permaneceram agrícolas por mais tempo.
 
-A transição também foi econômica. A Espanha saiu de um modelo protegido e intervencionista para competição maior, liberalização financeira e integração com mercados europeus de produção e capital.
+Ferrovias, acesso portuário, urbanização, propriedade da terra e instituições regionais moldaram trajetórias distintas. O resultado não foi uma divisão binária permanente, mas diferentes sistemas regionais de produção.
 
-## A integração europeia acelerou convergência e modificou o mecanismo de ajuste
+O crescimento espanhol moderno depende, portanto, tanto de instituições nacionais quanto de economias de aglomeração regionais. Barcelona, Madri, Valência, Bilbao, Zaragoza, Málaga e outras áreas metropolitanas desempenham funções distintas dentro da economia nacional.
 
-A Espanha entrou nas Comunidades Europeias em 1986 e posteriormente adotou o euro.
+## Guerra Civil e ditadura alteraram capital, instituições e migração
 
-Acesso ao mercado único sustentou investimento industrial, turismo, serviços e infraestrutura. Fundos estruturais e de coesão financiaram transportes, água e desenvolvimento regional. O euro eliminou risco cambial diante dos principais parceiros e reduziu o risco de crises de moeda nacional.
+A Guerra Civil de 1936–1939 destruiu capital físico e humano, fragmentou instituições políticas e foi seguida por um regime autoritário que inicialmente adotou políticas econômicas autárquicas.
 
-A mesma arquitetura retirou a possibilidade de desvalorização cambial independente. Competitividade depende mais de produtividade, salários, energia, regulação e mudança setorial.
+O início do período franquista produziu escassez, intervenção estatal e integração externa limitada. A partir do fim dos anos 1950, a política mudou em direção à estabilização, investimento estrangeiro, turismo e industrialização. A migração interna deslocou milhões de trabalhadores de regiões rurais para Madri, Catalunha, País Basco e litoral mediterrâneo.
 
-Isso torna a qualidade do crescimento mais importante. Expansão intensiva em trabalho pode elevar rapidamente o PIB total, mas convergência do PIB por habitante exige produtividade.
+Ao fim da ditadura, a Espanha havia se tornado economia substancialmente mais urbana e industrial, mas as instituições políticas continuavam autoritárias e as questões regionais permaneciam sem solução.
 
-## A crise pós-2008 transformou bancos, construção e balanços das famílias
+## A transição democrática e a integração europeia reconstruíram o modelo institucional de crescimento
 
-A Espanha entrou na crise financeira global depois de longo ciclo de construção e crédito. O colapso posterior gerou desemprego extremamente alto, perdas bancárias, excesso de imóveis em algumas regiões e forte deterioração fiscal.
+A transição posterior a 1975 criou monarquia constitucional, eleições competitivas, comunidades autônomas e novas instituições trabalhistas, fiscais e sociais.
 
-Reestruturação dos bancos, regulação prudencial mais rígida, desalavancagem e supervisão bancária europeia mais forte mudaram o sistema financeiro.
+A entrada na Comunidade Econômica Europeia em 1986 foi âncora estrutural. Abriu mercados, aumentou competição, ampliou financiamento de infraestrutura e vinculou o país a padrões regulatórios europeus.
 
-O ciclo habitacional atual é, portanto, diferente do período anterior a 2008 em aspectos importantes. Bancos estão mais fortes e a alavancagem das famílias é menor. Ainda assim, alta rápida de preços e escassez local de oferta podem criar problemas de acessibilidade e estabilidade financeira.
+A adoção do euro posteriormente eliminou risco cambial nacional e reduziu custos de financiamento. Também removeu a opção de desvalorização independente. Como na Itália, a Espanha precisa ajustar competitividade por produtividade, salários, margens, investimento e realocação setorial, e não por desvalorização nominal.
 
-## O crescimento de 2026 permanece excepcionalmente forte para uma grande economia da área do euro
+## O ciclo imobiliário dos anos 2000 criou um modelo de crescimento financeiramente frágil
 
-O PIB real aumentou 0,7% no segundo trimestre de 2026 frente ao primeiro e 2,6% em relação a um ano antes. O valor adicionado da manufatura cresceu 1,8%, construção 4,3%, serviços 2,9% e agricultura 6,0%.
+Antes da crise financeira global, a Espanha viveu grande expansão de crédito e construção. Oferta de moradias, hipotecas, desenvolvimento de terrenos e emprego cresceram rapidamente.
+
+O ciclo sustentou crescimento elevado e imigração, mas deixou a economia exposta a preços imobiliários e financiamento externo. Quando o movimento se reverteu, emprego na construção entrou em colapso, bancos enfrentaram grandes perdas imobiliárias e o desemprego aumentou de forma dramática.
+
+A crise bancária e soberana posterior exigiu consolidação fiscal, reestruturação bancária e reformas institucionais. A assistência financeira europeia foi direcionada à recapitalização dos bancos, e não a um programa soberano completo.
+
+A lição é central para a análise habitacional atual: a escassez de moradias de hoje não possui a mesma estrutura macrofinanceira do excesso de oferta e crédito anterior a 2008. Restrições de oferta agora coexistem com bancos mais capitalizados e padrões de crédito diferentes.
+
+## O crescimento de 2026 continua excepcionalmente forte para uma grande economia da área do euro
+
+As contas nacionais revisadas mostram o PIB real crescendo 0,7% frente ao trimestre anterior no segundo trimestre de 2026 e 2,6% em relação ao mesmo período de 2025. O consumo das famílias aumentou 1,2% no trimestre e a formação bruta de capital fixo 1,7%.
 
 ```chart
 type: bar
-title: Espanha: crescimento anual do valor adicionado no segundo trimestre de 2026
+title: Espanha: linhas de base institucionais para crescimento real em 2026
 unit: percentual
-Manufatura | 1.8
-Construção | 4.3
-Serviços | 2.9
-Setores primários | 6.0
-PIB real | 2.6
+Previsão anual FMI | 2.1
+Previsão anual Comissão Europeia | 2.4
+Q2 2026 realizado interanual | 2.6
+2025 realizado | 2.8
 ```
 
-A amplitude setorial é uma força. A fraqueza é que a demanda doméstica se tornou o principal motor enquanto o setor externo retira crescimento.
+O FMI é mais cauteloso que a Comissão Europeia, projetando 2,1% para 2026 diante de 2,4%. A diferença mostra sensibilidade a preços de energia, condições externas e calendário do investimento.
 
-O padrão é sustentável se investimento elevar capacidade produtiva futura. É menos sustentável se depender principalmente de consumo, gasto público e quantidade crescente de trabalho.
+A força atual não deve ser extrapolada mecanicamente. O FMI espera que o crescimento de médio prazo se estabilize perto de 1,7% conforme imigração e expansão da força de trabalho desacelerem.
 
-## O emprego cresce mais rapidamente que a produtividade
+## O crescimento é cada vez mais sustentado pela demanda doméstica
 
-A pesquisa de força de trabalho registrou 22,779 milhões de ocupados no segundo trimestre de 2026, 510,2 mil a mais que um ano antes. O número de desempregados caiu para 2,495 milhões e a taxa de desemprego para 9,87%.
+No segundo trimestre de 2026, a demanda doméstica contribuiu com 3,5 pontos percentuais para o crescimento anual do PIB, enquanto a demanda externa subtraiu 0,9 ponto.
 
-É grande melhora diante da história espanhola, mas ainda é nível alto frente ao Norte europeu.
+Isso é diferente de uma expansão puramente exportadora. Consumo das famílias, investimento e emprego estão carregando maior parte do ciclo.
 
-A questão estrutural mais importante é a produtividade. As contas nacionais mostram emprego equivalente em tempo integral crescendo quase no mesmo ritmo do produto, deixando pouco ganho de produtividade por trabalhador e praticamente nenhum por hora.
+Um modelo baseado na demanda interna pode ser durável quando reflete investimento produtivo e renda maior do trabalho. Torna-se menos durável quando consumo cresce mais rápido que capacidade produtiva ou quando investimento depende principalmente de programas públicos temporários.
 
-```flow
-Imigração + maior participação + criação de empregos
-  -> maior quantidade de trabalho
-  -> forte crescimento do PIB agregado
+O superávit em conta corrente e a capacidade de financiamento externo indicam que a expansão atual não reproduz o desequilíbrio de financiamento externo do período anterior a 2008.
 
-Se capital, competências e tecnologia crescerem juntos
-  -> produtividade aumenta
-  -> PIB por habitante converge
+## A conta corrente tornou-se um colchão estrutural
 
-Se o trabalho crescer mais rápido que o capital produtivo
-  -> PIB agregado aumenta
-  -> produtividade e salários ficam para trás
-  -> convergência desacelera
-```
+A Espanha já apresentou enormes déficits em conta corrente. A economia posterior à crise passou a gerar repetidos superávits externos.
 
-## A imigração tornou-se mecanismo central de crescimento
+A Comissão Europeia projetava conta corrente de 1,9% do PIB em 2026 depois de 2,8% em 2025. As contas institucionais do INE mostraram a economia nacional fornecendo financiamento líquido ao resto do mundo equivalente a 3,1% do PIB no segundo trimestre.
 
-A população residente chegou a 49,802 milhões em 1º de julho de 2026, maior valor da série. O aumento nos doze meses anteriores foi superior a 444 mil pessoas.
+Turismo, serviços empresariais, menor dependência energética e exportadores competitivos de bens contribuem.
 
-Estrangeiros somavam aproximadamente 7,44 milhões e cresciam muito mais rapidamente que a população total. Fluxos recentes foram liderados por pessoas da Colômbia, Venezuela e Marrocos.
+Isso importa porque um país com dívida pública elevada fica menos vulnerável quando não depende simultaneamente de grande endividamento externo líquido.
 
-Essa migração é economicamente relevante. Amplia oferta de trabalho, formação de domicílios, consumo, arrecadação e demanda por moradia.
+## A dívida pública cai como proporção, mas continua sendo restrição
 
-Também modifica o cenário demográfico. A Espanha possui fecundidade muito baixa e população nativa em envelhecimento. Imigração pode adiar a contração da força de trabalho, mas não elimina permanentemente o envelhecimento se os fluxos diminuírem ou a produtividade continuar fraca.
+O Banco de Espanha registrou dívida das administrações públicas segundo o Procedimento dos Déficits Excessivos em 101,4% do PIB no segundo trimestre de 2026, 1,8 ponto percentual abaixo de um ano antes. O estoque chegou a aproximadamente €1,763 trilhão.
 
-## Crescimento populacional só é vantagem se moradia e infraestrutura crescerem junto
-
-Crescimento da população pode elevar produto potencial quando trabalhadores encontram moradia, transporte, escolas e saúde em regiões produtivas.
-
-Se a infraestrutura for rígida, o crescimento populacional eleva aluguéis, congestionamento e custos de deslocamento.
-
-A experiência recente mostra cada vez mais essa tensão. A expansão do emprego se concentra em áreas metropolitanas, costeiras e turísticas onde a oferta de moradia já está pressionada.
-
-Política migratória, habitacional e investimento regional não podem, portanto, ser analisados separadamente.
-
-## A moradia tornou-se a restrição doméstica de capacidade mais visível
-
-O Índice de Preços de Habitação subiu 12,2% em relação ao ano anterior no segundo trimestre de 2026. Moradias usadas aumentaram 12,9% e novas, 7,4%.
+A linha anual do FMI projetava 98,6% do PIB em 2026, enquanto a Comissão Europeia estimava 99,6%. Esses números não são diretamente contraditórios porque um é proporção trimestral observada e os demais são previsões anuais com hipóteses diferentes para o PIB nominal.
 
 ```chart
 type: bar
-title: Espanha: inflação de preços de moradia no segundo trimestre de 2026
-unit: percentual em 12 meses
-Total de moradias | 12.2
-Moradias novas | 7.4
-Moradias usadas | 12.9
+title: Espanha: proporção da dívida pública
+unit: percentual do PIB
+2024 série FMI | 101.6
+2025 série FMI | 100.7
+Q2 2026 Banco de Espanha | 101.4
+2026 previsão FMI | 98.6
+2026 previsão Comissão Europeia | 99.6
 ```
 
-O FMI identificou explicitamente a deterioração da acessibilidade como problema macroeconômico e recomendou desenvolvimento urbano mais rápido, menor incerteza jurídica e simplificação das licenças de construção.
+A restrição fiscal é menor que na Itália, mas continua material. Envelhecimento, defesa, habitação, adaptação climática e infraestrutura disputarão recursos.
 
-O mecanismo de oferta é central. A Espanha pode possuir grande estoque nacional de habitações e, ao mesmo tempo, escassez severa em cidades e mercados de trabalho específicos. Uma residência em município interior de baixa demanda não substitui moradia perto de Madri, Barcelona, Valência, Málaga ou centros turísticos insulares.
+## A redução do déficit avançou, mas o saldo estrutural continua mais fraco
 
-## A escassez habitacional pode reduzir o benefício econômico da imigração
+O déficit do governo geral caiu para 2,4% do PIB em 2025. O FMI projetou 2,3% em 2026 e a Comissão Europeia 2,4%.
 
-Novos trabalhadores ampliam capacidade produtiva apenas se conseguem morar perto do emprego.
+A melhora reflete parcialmente crescimento nominal e emprego fortes. Isso é positivo, mas significa que a posição fiscal estrutural pode parecer mais forte durante um ciclo favorável do que seria sob crescimento menor.
 
-Aluguéis elevados reduzem renda disponível e tornam empregos de menor produtividade economicamente inviáveis em cidades caras. Trabalhadores podem morar cada vez mais longe, elevando transporte e congestionamento.
+O FMI, por isso, recomenda reconstruir colchões enquanto as condições são favoráveis, especialmente porque os gastos associados ao envelhecimento devem aumentar fortemente.
 
-A escassez também cria conflito distributivo entre proprietários, jovens, locatários, migrantes e uso turístico dos imóveis.
+A questão fiscal não é se a Espanha consegue se financiar hoje. É se a política cria espaço suficiente antes da intensificação da pressão demográfica.
 
-Um modelo de crescimento durável exige construção onde há demanda, não apenas maior estoque nacional.
+## O plano de recuperação é uma grande arquitetura de investimento, mas temporária
 
-## O sistema bancário é mais forte que antes da crise financeira global
+O atual Plano de Recuperação e Resiliência da Espanha possui valor oficial de aproximadamente €102 bilhões, incluindo cerca de €79 bilhões em recursos não reembolsáveis e €23 bilhões em empréstimos segundo o panorama atual da Comissão Europeia.
 
-O Relatório de Estabilidade Financeira de 2026 do Banco de Espanha descreve sistema operando com capital, liquidez e rentabilidade muito mais fortes que no ciclo anterior a 2008.
-
-A alavancagem privada caiu significativamente desde a crise.
-
-Preços de moradia, choques geopolíticos de energia e condições mais duras de crédito continuam relevantes. No segundo trimestre de 2026, bancos informaram oferta de crédito mais restrita e demanda menor em vários segmentos.
-
-O risco financeiro é menos uma repetição mecânica de 2008 e mais a interação entre moradia cara, crédito mais fraco e choques externos com investimento e capacidade de pagamento das famílias.
-
-## A dívida pública cai como proporção do PIB, mas continua restrição estrutural
-
-A Comissão Europeia projetou dívida pública bruta de 99,6% do PIB em 2026, abaixo de 100,7% em 2025, e déficit de 2,4% do PIB.
-
-É muito abaixo da carga extrema italiana, mas ainda elevada frente à história espanhola anterior à crise financeira.
-
-A preocupação do FMI é prospectiva. Envelhecimento elevará gasto previdenciário e de saúde. Consolidar as contas é mais fácil enquanto o crescimento é forte do que depois da desaceleração da força de trabalho.
-
-A questão é se o crescimento atual será usado para reconstruir colchões fiscais antes da aceleração do gasto demográfico.
-
-## Previdência e envelhecimento continuam restrições de horizonte longo
-
-A Espanha já modificou indexação, contribuições e incentivos de aposentadoria.
-
-Entretanto, longevidade e aposentadoria de grandes coortes elevarão a relação entre beneficiários e trabalhadores a menos que migração, emprego e produtividade compensem esse movimento.
-
-O impacto fiscal depende tanto da base salarial quanto da população. Produtividade maior aumenta contribuições sem exigir aumento proporcional do número de trabalhadores.
-
-Um modelo baseado principalmente em emprego adicional de baixa produtividade seria, portanto, menos eficaz para financiar envelhecimento que um modelo de maior produção por trabalhador.
-
-## O Plano de Recuperação e Resiliência continua importante, mas ficou menor após revisão
-
-O retrato atualizado de 2026 da Comissão Europeia coloca o Plano de Recuperação e Resiliência da Espanha em aproximadamente €102 bilhões, incluindo €79 bilhões em recursos não reembolsáveis e €23 bilhões em empréstimos, depois de revisões do programa original.
-
-O plano contém 145 linhas de investimento e 99 reformas.
+Até agosto de 2026, a Espanha havia recebido aproximadamente €78 bilhões, equivalentes a 76,5% da alocação atual, e havia concluído cerca de 60% dos marcos e metas do plano.
 
 ```chart
 type: bar
-title: Espanha: Plano de Recuperação e Resiliência atualizado
+title: Espanha: Plano de Recuperação e Resiliência atual
 unit: EUR bilhões
-Plano total atualizado | 102
+Valor atual do plano | 102
 Recursos não reembolsáveis | 79
 Empréstimos | 23
+Recebido até agosto de 2026 | 78
 ```
 
-Esse é um ponto metodológico importante. Versões anteriores eram substancialmente maiores. A análise atual deve usar o envelope revisado em 2026 em vez de repetir mecanicamente o número antigo.
+O plano cobre digitalização, transporte, habitação, energia, transição industrial, qualificação e reforma do setor público.
 
-## Recursos europeus valem mais quando removem gargalos estruturais
+Assim como na Itália, a questão não é apenas capacidade de absorção. É se reformas e mecanismos de investimento continuarão operando depois que os prazos europeus terminarem.
 
-O programa financia digitalização, transição energética, ferrovias, transformação industrial, competências e reforma do setor público.
+## O teste de produtividade após o NextGenerationEU é mais importante que o valor gasto
 
-O efeito de curto prazo é maior demanda de investimento. O efeito de longo prazo depende de projetos reduzirem custo de energia, melhorarem transporte, acelerarem digitalização ou elevarem capital humano.
+Os recursos europeus elevam investimento corrente diretamente. Seu valor permanente depende de modificarem a estrutura produtiva.
 
-A Espanha enfrenta o mesmo desafio de outros grandes receptores: execução financeira não equivale a produtividade.
+A Espanha precisa, portanto, distinguir conclusão de despesas dos efeitos sobre produtividade. Ferrovia, plataforma digital, conexão de rede ou projeto industrial importam pelos serviços prestados depois da construção, e não apenas porque o gasto eleva o PIB durante a execução.
 
-O indicador relevante é o retorno produtivo depois que o impulso europeu diminuir.
+O FMI estima que um conjunto de reformas sobre restrições de financiamento, encargos administrativos, limites ligados ao tamanho empresarial e complexidade do incentivo fiscal a P&D poderia elevar o crescimento anual tendencial da produtividade em aproximadamente um quarto de ponto percentual.
 
-## Turismo é um grande sistema exportador, não apenas indústria de lazer
+Esse aumento seria macroeconomicamente relevante numa economia cujo crescimento de longo prazo deve cair abaixo do desempenho recente.
 
-A Espanha recebeu 96,8 milhões de turistas internacionais em 2025, novo recorde. Visitantes internacionais gastaram €134,7 bilhões, 6,8% acima de 2024.
+## A produtividade continua sendo o principal problema de convergência
+
+O produto por trabalhador e por hora continua abaixo das economias mais fortes da área do euro. O desempenho recente melhorou em relação ao período fraco anterior à pandemia, mas a melhora é recente demais para estabelecer nova tendência.
+
+As causas estruturais incluem pequeno porte empresarial, incompatibilidades de habilidades, capital de risco e financiamento para crescimento limitados, complexidade administrativa, barreiras regionais e difusão fraca de pesquisa e tecnologias digitais.
+
+Produtividade é a variável que conecta salários, dívida, previdência e habitação. Produtividade maior permite crescimento real dos salários sem inflação equivalente, aumenta arrecadação e torna uma dívida alta mais administrável.
+
+## Porte empresarial e limites regulatórios moldam incentivos ao investimento
+
+A Espanha possui grande população de pequenas e microempresas. Elas podem ser flexíveis e empreendedoras, mas frequentemente apresentam menor intensidade de capital, administração menos profissionalizada e acesso mais limitado a pesquisa e financiamento exportador.
+
+Obrigações regulatórias ou tributárias que mudam em determinados limites de emprego ou faturamento podem desestimular algumas empresas a atravessar essas faixas.
+
+O problema não é a pequena empresa em si. É quando empresas produtivas enfrentam barreiras evitáveis para crescer.
+
+A fragmentação regulatória regional acrescenta outra camada porque empresas que se expandem por comunidades autônomas podem enfrentar requisitos administrativos diferentes.
+
+## O Regime 20 e a unidade de mercado são reformas de produtividade
+
+O FMI destaca a iniciativa Regime 20 como tentativa de harmonizar regulações e reduzir barreiras à atividade empresarial entre regiões.
+
+Isso importa porque escala nacional só é um ativo econômico quando empresas conseguem efetivamente operar no mercado nacional sem duplicação excessiva.
+
+Um mercado interno fragmentado reduz o tamanho potencial das empresas e torna a Espanha menos atraente como base para empresas tecnológicas europeias em expansão.
+
+Reforma de unidade de mercado é, portanto, política industrial por simplificação institucional, e não por subsídios.
+
+## O mercado de trabalho melhorou materialmente
+
+O mercado espanhol historicamente combinou desemprego elevado com forte criação de vagas durante expansões. No segundo trimestre de 2026, o emprego chegou a 22,779 milhões e o desemprego caiu para 2,495 milhões.
+
+A taxa de desemprego recuou para 9,87%, ficando abaixo de 10% depois de um longo período.
 
 ```chart
 type: bar
-title: Espanha: escala do turismo internacional em 2025
-unit: comparação de escala
-Turistas internacionais, milhões | 96.8
-Gasto turístico, EUR bilhões | 134.7
+title: Espanha: escala do mercado de trabalho no Q2 2026
+unit: milhões de pessoas
+Ocupados | 22.779
+Desempregados | 2.495
+Força de trabalho | 25.274
 ```
 
-Turismo exporta serviços sem transportar um produto físico. Sustenta hospedagem, restaurantes, transportes, varejo, cultura, construção e tributação local.
+O FMI espera desemprego médio de aproximadamente 9,8% em 2026. É grande melhora frente aos níveis de crise, mas continua elevado diante de vários pares da área do euro.
 
-A distribuição é geograficamente concentrada. Catalunha, Ilhas Canárias e Baleares responderam juntas por mais da metade do gasto turístico internacional em 2025.
+O problema restante, portanto, não é apenas falta de criação de empregos. Inclui compatibilidade de habilidades, diferenças regionais e participação.
 
-## O turismo gera renda, mas amplia conflitos por moradia e infraestrutura
+## A reforma trabalhista reduziu contratos temporários, mas a segmentação não desapareceu
 
-O turismo converte clima, litoral, cidades e patrimônio cultural em receita externa.
+A Espanha historicamente apresentou uma das maiores proporções de contratos temporários da Europa. Reformas trabalhistas mudaram a estrutura dos contratos e aumentaram o uso de vínculos permanentes.
 
-Altos volumes também disputam moradia, água, transporte e espaço urbano. O retorno econômico depende cada vez mais do gasto por visitante, e não da maximização do número de visitantes.
+Reduzir temporariedade pode melhorar incentivos a treinamento e estabilidade das famílias. Entretanto, a segmentação pode migrar para outras formas, incluindo vínculos de curta duração, contratos permanentes descontínuos e diferenças setoriais.
 
-Os dados de 2025 já mostram essa transição: o gasto turístico cresceu mais rapidamente que as chegadas.
+A medida relevante não é apenas a categoria jurídica do contrato. É estabilidade de renda, formação e progressão profissional.
 
-Um modelo de maior valor pode elevar receita exportadora com menor pressão por euro obtido, embora ganhos e custos continuem distribuídos localmente.
+## A imigração tornou-se um dos principais motores da expansão da força de trabalho
 
-## A Espanha possui base exportadora mais ampla que o turismo
+A população da Espanha atingiu recorde de 49,802 milhões em 1º de julho de 2026, crescendo cerca de 444 mil em um ano. Os residentes de nacionalidade estrangeira somavam aproximadamente 7,44 milhões.
 
-Veículos, máquinas, químicos, fármacos, alimentos, serviços empresariais e outros produtos industriais formam base comercial relevante.
+A imigração sustentou emprego, consumo, demanda habitacional e receita tributária. Também desacelerou a contração demográfica que resultaria de baixa fecundidade e envelhecimento.
 
-A indústria automotiva é particularmente importante porque a Espanha está profundamente integrada às redes europeias de produção e possui grandes operações de montagem e componentes.
+```flow
+Imigração
+  -> maior população em idade ativa
+  -> mais emprego + consumo
+  -> maior arrecadação tributária e previdenciária
 
-A transição para veículos elétricos muda o conteúdo da cadeia. Baterias, eletrônica de potência, recarga e software ganham importância, enquanto componentes de motores a combustão perdem valor relativo.
+Mas também
+  -> maior demanda por moradia
+  -> pressão sobre transporte, escolas e saúde
 
-A transição industrial depende, portanto, de atualizar a base de fornecedores, e não apenas preservar volumes de montagem.
-
-## O setor agroalimentar é uma das maiores forças nas exportações de bens
-
-As exportações agroalimentares e pesqueiras chegaram a €78,0 bilhões em 2025, equivalentes a cerca de 20,2% das exportações do país segundo o relatório do Ministério da Agricultura. O setor gerou superávit comercial de €18,3 bilhões.
-
-A importância vai além da produção agrícola. Processamento de alimentos, logística, embalagens, restaurantes e turismo criam valor a jusante.
-
-A principal restrição estrutural é a água. Agricultura irrigada eleva produtividade, mas aumenta exposição à seca e competição entre famílias, indústria, ecossistemas e agricultura.
-
-## Disponibilidade de água é infraestrutura produtiva
-
-Os reservatórios espanhóis estavam em 59,2% da capacidade em 29 de setembro de 2026, com grandes diferenças entre bacias. A bacia do Segura estava próxima de 50%, enquanto alguns sistemas do Atlântico Sul permaneciam acima de 65%.
-
-Um percentual nacional pode, portanto, enganar. Estresse hídrico agrícola e urbano é regional.
-
-A política inclui reservatórios, transferências, dessalinização, reúso, eficiência de irrigação e restrições ambientais.
-
-Adaptação climática é, assim, política industrial e agrícola, não apenas ambiental.
-
-## Eletricidade renovável tornou-se vantagem comparativa real
-
-Fontes renováveis produziram 55,5% da eletricidade espanhola em 2025, chegando a 56,6% quando o autoconsumo estimado é incluído. A eólica forneceu 21,6%, a solar fotovoltaica 18,4%, hidrelétricas 12,4% e nuclear 19%.
-
-Quase 10 GW de capacidade eólica e solar foram adicionados durante o ano, ou 11,6 GW incluindo instalações de autoconsumo.
-
-A Espanha terminou 2025 com 142,5 GW de capacidade de geração do sistema. Incluindo autoconsumo, o total chegou a 150,8 GW, dos quais 68,9% eram capacidade renovável.
-
-```mindmap
-Vantagem elétrica espanhola
-- Recursos
-  - solar
-  - eólica
-  - hidrelétrica
-- Capacidade firme e de equilíbrio
-  - nuclear
-  - ciclo combinado a gás
-  - armazenamento hidrelétrico
-- Rede
-  - transmissão interna
-  - interconexão com França
-  - integração com Portugal
-- Oportunidades de demanda
-  - indústria eletrificada
-  - centros de dados
-  - hidrogênio
-  - transporte
-- Restrições
-  - cortes de geração
-  - armazenamento
-  - filas de conexão
-  - licenciamento
-  - baixa interconexão pelos Pireneus
+Efeito líquido
+  -> depende de emprego, produtividade, integração e oferta de moradia
 ```
 
-## Armazenamento e transmissão importam mais agora que simplesmente instalar novos painéis solares
+O FMI identifica explicitamente a imigração como uma das principais razões para a Espanha superar a área do euro.
 
-A potência de armazenamento chegou a aproximadamente 3,4 GW no fim de 2025. Bombeamento hidrelétrico e baterias integraram mais de 9,2 TWh no ano.
+## Imigração não elimina envelhecimento; altera sua velocidade e transmissão fiscal
 
-À medida que a produção solar do meio-dia aumenta, o valor marginal de nova capacidade fotovoltaica cai se demanda, interconexão ou armazenamento não absorverem a energia.
+A fecundidade espanhola continua baixa e a população envelhece. A migração aumenta o número de residentes em idade ativa, mas os próprios migrantes também envelhecem com o tempo.
 
-A próxima fase da transição é integração sistêmica. Filas de transmissão, economia das baterias, flexibilidade da demanda e capacidade transfronteiriça determinam cada vez mais o valor dos investimentos.
+A sustentabilidade de longo prazo não pode depender apenas de imigração permanentemente crescente. Produtividade, participação e desenho previdenciário continuam necessários.
 
-## Eletricidade renovável barata pode sustentar reconfiguração industrial
+A interpretação mais favorável é que a imigração compra tempo. Expande a base de contribuintes durante um período em que reformas estruturais e investimento em capital podem elevar o produto por trabalhador.
 
-Recursos abundantes de sol e vento podem melhorar a economia de atividades intensivas em eletricidade se a vantagem atacadista se converter em contratos industriais estáveis e conexão à rede.
+O resultado menos favorável seria crescimento populacional concentrado em emprego de baixa produtividade enquanto habitação e infraestrutura não acompanham.
 
-Possíveis beneficiários incluem centros de dados, hidrogênio renovável, materiais eletrointensivos, baterias e calor industrial eletrificado.
+## A habitação tornou-se restrição de capacidade econômica
 
-Isso cria novo canal de crescimento: em vez de tratar descarbonização apenas como custo, a Espanha pode usar abundância renovável para atrair capital.
+O Banco de Espanha identifica acessibilidade e restrições à expansão da oferta como problemas centrais do mercado de moradia. A demanda cresce por emprego, imigração, turismo, formação de famílias e compras de não residentes, enquanto a oferta reage lentamente.
 
-A restrição é execução. Empresas valorizam certeza de conexão e infraestrutura tanto quanto custos nominais baixos de geração.
+Isso é materialmente diferente do boom de construção dos anos 2000. Indicadores de estabilidade financeira não apontam atualmente a mesma acumulação de desequilíbrios imobiliários e de crédito.
 
-## A Península Ibérica ainda possui gargalo de interconexão com o restante da Europa
+O problema presente é escassez em locais produtivos. Quando trabalhadores não conseguem pagar moradia perto de mercados metropolitanos de alta produtividade, empresas enfrentam dificuldade de contratar e os benefícios de aglomeração diminuem.
 
-Espanha e Portugal formam mercado elétrico relativamente integrado, mas continuam pouco conectados à França em relação à capacidade total de geração.
+Habitação é, portanto, infraestrutura de produtividade.
 
-Os Pireneus limitam a possibilidade de exportar grandes excedentes renováveis para a Europa Central.
+## A política habitacional é fragmentada entre diferentes níveis de governo
 
-Maior interconexão elevaria o valor da eletricidade renovável e fortaleceria segurança energética europeia. Também exige infraestrutura transfronteiriça cara e longos prazos de licenciamento.
+Uso do solo, planejamento, licenças, tributação, regulação de aluguel e habitação social envolvem governos nacional, regional e local.
 
-A mesma geografia que fornece recursos solares dificulta a integração simples com a demanda continental.
+Essa estrutura institucional dificulta expansão rápida da oferta. Mesmo quando existe financiamento nacional, zoneamento e licenciamento locais determinam onde unidades podem efetivamente ser construídas.
 
-## O crescimento populacional está redesenhando a geografia econômica regional
+O caráter regional também torna médias nacionais enganosas. Madri, Barcelona, Ilhas Baleares, Canárias, Málaga, Valência e pequenas cidades do interior operam sob condições de oferta e demanda diferentes.
 
-Madri, Catalunha, Valência, Andaluzia, Baleares e outras áreas de forte emprego atraem trabalhadores e migrantes.
+Uma estratégia crível depende, portanto, de coordenação, e não de um único instrumento nacional.
 
-Algumas províncias do interior continuam apresentando baixa densidade, envelhecimento e perda populacional.
+## O turismo é grande sistema exportador e fonte de escassez local
 
-Isso cria incompatibilidade espacial. A Espanha pode ter moradia ou terra ociosa nacionalmente enquanto regiões produtivas enfrentam escassez severa.
+A Espanha recebeu 96,8 milhões de turistas internacionais em 2025. Seus gastos chegaram a €134,7 bilhões, aumento de 6,8% frente a 2024.
 
-Política de infraestrutura e moradia influencia se a migração reforça concentração ou distribui atividade mais amplamente.
+Nos primeiros sete meses de 2026, o gasto de turistas internacionais chegou a aproximadamente €82,1 bilhões, 7,8% acima de um ano antes.
 
-## O sistema de comunidades autônomas cria experimentação e fragmentação
+O turismo gera receita externa, emprego, demanda por transporte, arrecadação local e investimento. Também disputa moradia e espaço urbano em destinos de alta demanda.
 
-A descentralização permite que regiões adaptem saúde, educação, tributação e investimento às condições locais.
+O problema de política pública não é "turistas contra moradores" de forma abstrata. A incidência varia por cidade, ilha, bairro, estação e tipo de hospedagem.
 
-Também pode gerar diferenças regulatórias, duplicação administrativa e disputas sobre transferências fiscais.
+## O turismo cria um modelo distinto de desenvolvimento regional
 
-País Basco e Navarra possuem sistemas fiscais forais distintos, enquanto a maioria das demais comunidades opera sob o regime comum.
+Catalunha, Canárias, Baleares, Andaluzia, Madri e Valência captam grandes parcelas do gasto turístico internacional, mas a função econômica varia.
 
-O federalismo fiscal é, portanto, economicamente relevante para o orçamento nacional e os incentivos regionais.
+Economias insulares dependem mais de conectividade aérea e insumos importados. Grandes cidades combinam turismo com finanças, serviços empresariais e tecnologia. Regiões costeiras integram turismo com construção residencial e migração de aposentados.
 
-## A Catalunha é simultaneamente centro econômico e linha de tensão constitucional
+Isso significa que choques turísticos possuem efeitos nacionais desiguais.
 
-A Catalunha é uma das maiores economias regionais do país, com manufatura, logística, turismo e serviços relevantes.
+O setor é estrategicamente valioso porque constitui exportação de serviços na qual a Espanha possui vantagens naturais, culturais e de infraestrutura duráveis.
 
-A crise de independência de 2017 demonstrou como política territorial pode afetar segurança jurídica, decisões de localização empresarial e coalizões nacionais.
+## A indústria é menos visível que o turismo, mas continua sendo capacidade central
 
-A lição estrutural não é que conflito territorial necessariamente gere declínio permanente. É que incerteza constitucional pode se tornar variável econômica quando empresas e famílias alteram localização e investimento.
+A Espanha mantém produção industrial relevante em veículos, componentes automotivos, químicos, fármacos, alimentos, máquinas, metais, aeroespacial, equipamentos ferroviários, cerâmica e equipamentos para energia renovável.
 
-## Madri tornou-se polo dominante de serviços e capital
+A produção industrial estava 2,3% acima de um ano antes em julho de 2026 após ajuste sazonal e de calendário. A produção de bens de capital apresentava desempenho especialmente forte.
 
-Madri se beneficia da concentração do governo nacional, sedes empresariais, finanças, conectividade de transportes e grande mercado de trabalho qualificado.
+Isso importa porque manufatura possui características de produtividade, exportação e inovação diferentes do turismo e dos serviços locais.
 
-Seu crescimento cria ganhos de aglomeração e simultaneamente pressão sobre moradia e transporte.
+Um modelo espanhol equilibrado usa turismo como força exportadora sem permitir que ele substitua modernização industrial.
 
-O contraste entre a expansão de Madri e regiões interiores mais fracas mostra por que médias nacionais escondem condições locais divergentes.
+## A indústria automotiva ocupa posição estratégica nas cadeias europeias
 
-O desafio não é suprimir aglomerações bem-sucedidas, mas reduzir os custos de infraestrutura e moradia que as tornam excludentes.
+A Espanha é um dos principais locais de produção de veículos da Europa. Fábricas estão profundamente integradas às cadeias continentais e exportam grande parcela da produção.
 
-## A costa mediterrânea combina logística exportadora, indústria, agricultura e turismo
+A transição para veículos elétricos altera a vantagem comparativa. Capacidade de montagem é insuficiente se baterias, eletrônica de potência e software forem importados.
 
-Valência, Catalunha, Múrcia e Andaluzia conectam portos, polos industriais, agricultura irrigada e turismo.
+Programas europeus e nacionais de investimento, portanto, concentram-se em baterias, recarga, componentes e conversão industrial.
 
-A concentração cria sinergias e disputa por recursos.
+O teste é se o polo automotivo sobe na cadeia de valor do veículo elétrico em vez de apenas trocar os modelos montados.
 
-Água, terra, eletricidade e transportes precisam atender simultaneamente famílias, agricultura, exportadores e visitantes sazonais.
+## Eletricidade renovável pode tornar-se vantagem industrial comparativa
 
-Clima e estresse hídrico se transmitem diretamente ao comércio e turismo nacionais.
+A Espanha possui excelentes recursos solares e eólicos e construiu capacidade renovável em alta velocidade.
 
-## O gasto de defesa aumentou fortemente, mas a Espanha contesta um único índice de gasto para toda a aliança
+Ao fim de 2025, o sistema elétrico nacional possuía 142,5 GW de capacidade de geração, ou 150,8 GW incluindo autoconsumo. Renováveis respondiam por 68,9% da capacidade de geração instalada quando o autoconsumo era incluído.
 
-Pedro Sánchez declarou em julho de 2026 que a Espanha havia atingido gasto de defesa equivalente a 2% do PIB e argumentou que as capacidades acordadas com a OTAN poderiam ser fornecidas por cerca de 2,1% do PIB.
+Tecnologias renováveis geraram 55,5% da eletricidade em 2025, ou 56,6% incluindo estimativa de autoconsumo.
 
-A OTAN reconheceu publicamente o forte aumento espanhol de cerca de 1,3%–1,4% anteriormente para o nível de 2%, ao mesmo tempo em que continua pressionando aliados pelo compromisso mais amplo de 2035.
+```chart
+type: bar
+title: Espanha: transformação do sistema elétrico em 2025
+unit: percentual
+Participação renovável na geração | 55.5
+Participação renovável incluindo autoconsumo | 56.6
+Participação da geração sem CO2 equivalente | 75.5
+Participação renovável na capacidade instalada com autoconsumo | 68.9
+```
 
-A questão analítica é distinguir capacidade de insumo. Um percentual de gasto mede recursos, não se forças, prontidão, munições, logística e unidades mobilizáveis atendem objetivos militares.
+Isso reduz exposição a gás importado e pode sustentar investimento intensivo em eletricidade se rede e armazenamento acompanharem.
 
-A posição espanhola torna esse desacordo metodológico particularmente explícito.
+## O crescimento solar está criando um novo problema de operação do sistema
 
-## A expansão da defesa pode apoiar indústria doméstica se as compras criarem capacidade local
+A capacidade solar fotovoltaica aproximou-se de 50 GW incluindo autoconsumo ao fim de 2025 e tornou-se a maior tecnologia instalada em capacidade.
 
-A Espanha possui capacidades em construção naval, aeroespacial, eletrônica, veículos blindados e sistemas ligados a mísseis.
+Grande produção ao meio-dia pode reduzir preços de atacado e aumentar cortes de geração se demanda, armazenamento ou interconexões não absorverem a energia.
 
-O aumento dos orçamentos europeus pode sustentar produção doméstica, P&D e exportações.
+O objetivo econômico muda, portanto, de simplesmente adicionar capacidade para criar demanda flexível.
 
-O custo fiscal de oportunidade continua real. Defesa compete com moradia, previdência, infraestrutura e despesa social.
+Eletrólise, calor industrial, centros de dados, recarga de veículos, baterias e hidrelétricas reversíveis podem aumentar o valor econômico das horas de eletricidade barata.
 
-O efeito econômico líquido depende do valor adicionado doméstico, intensidade de importações, financiamento e transbordamentos tecnológicos civis.
+## Armazenamento e transmissão tornaram-se o gargalo
 
-## A posição geográfica espanhola torna a segurança mais ampla que o flanco oriental
+A Espanha tinha aproximadamente 3,4 GW de potência de armazenamento conectada à rede ao fim de 2025, e a Red Eléctrica registra expansão ativa de baterias e armazenamento hidráulico reversível.
 
-A Espanha participa de missões da OTAN no Leste europeu, mas sua geografia estratégica também inclui Mediterrâneo ocidental, Norte da África, rotas marítimas atlânticas, Ilhas Canárias e rotas migratórias.
+A transmissão também se expandiu em 2025, com centenas de quilômetros adicionais de circuitos e novas subestações.
 
-Isso significa que a divisão europeia de encargos de segurança não pode ser reduzida inteiramente à proximidade com a Rússia.
+A questão central é se o investimento em rede consegue conectar regiões ricas em renováveis aos centros industriais e metropolitanos de demanda.
 
-Conexões energéticas com o Norte da África, logística marítima e gestão de migração fazem parte do sistema econômico de segurança espanhol.
+Sem transmissão e flexibilidade, capacidade renovável nominalmente abundante pode coexistir com congestionamento e preços voláteis.
 
-## A conta corrente é estruturalmente mais forte que antes da crise do euro
+## A interconexão ibérica limita o valor do excedente elétrico
 
-A Comissão Europeia projetou superávit em conta corrente de 1,9% do PIB em 2026. As contas setoriais nacionais mostraram capacidade líquida de financiamento frente ao exterior equivalente a 3,1% do PIB no segundo trimestre.
+Espanha e Portugal formam um sistema elétrico com interconexão relativamente limitada ao restante da Europa continental quando comparada às conexões internas europeias.
 
-É grande mudança frente aos déficits externos que caracterizavam o ciclo anterior a 2008.
+A Espanha é exportadora líquida de eletricidade há vários anos, mas maior interconexão através da França ampliaria o mercado para excedentes renováveis e melhoraria o balanceamento.
 
-Turismo, serviços empresariais, exportações industriais e menor alavancagem privada contribuem para a posição externa melhor.
+Isso cria uma questão de infraestrutura geopolítica: os Pireneus são não apenas barreira geográfica, mas gargalo de mercado energético.
 
-Uma conta corrente forte reduz a dependência de entradas líquidas contínuas de capital mesmo com setor público ainda endividado.
+A mesma lógica se aplica a gás e futuros corredores de hidrogênio.
 
-## A poupança das famílias continua sendo colchão importante
+## O estresse hídrico conecta clima, agricultura, turismo e crescimento urbano
 
-A taxa de poupança das famílias ficou em 18,7% da renda disponível no segundo trimestre de 2026 antes do ajuste sazonal, ainda elevada frente aos padrões anteriores à pandemia.
+A hidrologia espanhola é altamente desigual. Agricultura, cidades, turismo e ecossistemas disputam água, especialmente nas regiões mediterrâneas e do Sul.
 
-Poupança alta pode fortalecer balanços domésticos e apoiar financiamento interno.
+Secas podem afetar simultaneamente produção agrícola, geração hidrelétrica, demanda elétrica, turismo e planejamento municipal.
 
-Também pode refletir incerteza ou oportunidades limitadas de consumo.
+Dessalinização, reúso, gestão de reservatórios e eficiência de irrigação funcionam, portanto, como infraestrutura econômica.
 
-Para o crescimento, importa se a poupança é intermediada para investimento produtivo, construção de moradias e capital empresarial em vez de permanecer concentrada em ativos de baixo risco.
+Adaptação climática na Espanha não é um setor ambiental separado. É parte do modelo produtivo.
 
-## Produtividade é o teste decisivo para transformar o desempenho recente em convergência
+## A agricultura é globalmente competitiva, mas exposta a água e trabalho
 
-A Espanha cresceu mais que várias grandes economias europeias em parte porque sua força de trabalho aumentou.
+A Espanha é grande produtora e exportadora europeia de frutas, hortaliças, azeite, vinho, carne suína e outros alimentos.
 
-Esse mecanismo não pode continuar indefinidamente no mesmo ritmo. O envelhecimento acabará compensando parte da imigração, e restrições habitacionais podem reduzir a atratividade de cidades produtivas.
+O setor integra produção agrícola com logística, processamento, embalagem e distribuição exportadora.
 
-A próxima fase exige mais produção por hora.
+Sua vantagem depende de irrigação, trabalho migrante, disponibilidade de água, segurança alimentar e transporte.
 
-Investimento digital, qualidade gerencial, escala empresarial, ensino profissional, P&D, custo de energia e alocação de capital influenciam essa transição.
+Maior volatilidade climática eleva o valor de irrigação de precisão, variedades resistentes à seca e infraestrutura hídrica.
 
-## Um quadro de contradições evita narrativas de boom e fragilidade
+## O Estado regional cria resiliência e fragmentação ao mesmo tempo
+
+Comunidades autônomas podem experimentar políticas e responder a condições locais. Também controlam grandes sistemas de serviços públicos.
+
+Ao mesmo tempo, regras regionais podem fragmentar atividade empresarial e criar condições tributárias, de licenciamento e administrativas diferentes.
+
+A ênfase do FMI em reduzir barreiras ao comércio entre regiões não é, portanto, reforma periférica. Trata a estrutura institucional do mercado doméstico.
+
+O objetivo não precisa ser recentralização. É interoperabilidade entre administrações descentralizadas.
+
+## A Catalunha é centro econômico e variável constitucional simultaneamente
+
+A Catalunha é uma das maiores economias industriais, exportadoras e turísticas da Espanha. Barcelona é grande centro metropolitano de logística, tecnologia, design e serviços.
+
+A crise independentista dos anos 2010 demonstrou que conflito constitucional pode afetar decisões de domicílio empresarial, percepção de investimento e coalizões nacionais mesmo sem alterar imediatamente os ativos produtivos subjacentes.
+
+Em 2026, a intensidade da confrontação havia diminuído em relação ao pico anterior, mas a política territorial continuava influenciando negociação parlamentar e debate institucional.
+
+O tratamento analítico adequado é não considerar a separação inevitável nem assumir que a questão constitucional desapareceu.
+
+## O sistema fiscal basco demonstra a diversidade dentro da descentralização espanhola
+
+País Basco e Navarra operam sistemas fiscais nos quais instituições regionais arrecadam a maior parte dos impostos e transferem valor acordado ao Estado central por serviços comuns.
+
+O arranjo fornece autonomia fiscal excepcional diante das comunidades do regime comum.
+
+Isso cria relação distinta entre tributação local, gasto e responsabilização.
+
+Também complica comparações nacionais porque as instituições de financiamento regional não são uniformes.
+
+## A aglomeração de Madri aumenta crescimento nacional e concentração regional ao mesmo tempo
+
+Madri combina governo central, finanças, serviços empresariais, conectividade de transporte, tecnologia e sedes corporativas.
+
+Seu crescimento gera receita tributária nacional e efeitos de produtividade, mas também concentra demanda por trabalho e habitação.
+
+Aglomeração é economicamente benéfica quando infraestrutura e moradia crescem com o emprego. Se a oferta habitacional é limitada, a mesma aglomeração eleva custo de vida e exclui trabalhadores.
+
+Madri ilustra, portanto, o mecanismo central entre habitação e produtividade na economia nacional.
+
+## Os bancos estão muito mais fortes que durante a crise financeira
+
+Bancos espanhóis entraram nos anos 2020 com mais capital, menos ativos problemáticos e receitas mais diversificadas que durante a crise de 2008.
+
+O sistema continua exposto ao ciclo e ao mercado imobiliário, mas a expansão habitacional atual não é financiada com a mesma intensidade de crédito observada antes da crise financeira global.
+
+Essa distinção é essencial. Preços altos de habitação podem criar problemas sociais e de produtividade sem implicar automaticamente crise bancária.
+
+Política macroprudencial deve, portanto, ser avaliada separadamente da política de oferta de moradias.
+
+## A posição externa de investimento melhorou drasticamente
+
+O Banco de Espanha registrou posição líquida de investimento internacional em -40,7% do PIB no segundo trimestre de 2026, um dos menores déficits históricos em termos relativos comparado às décadas anteriores.
+
+O país continua devedor líquido externo, mas a vulnerabilidade é muito menor que durante a crise do euro.
+
+Superávits persistentes em conta corrente melhoram gradualmente a posição.
+
+Isso reduz um dos riscos estruturais que anteriormente tornava o endividamento público e privado espanhol muito sensível aos fluxos externos de capital.
+
+## A reforma previdenciária melhorou o financiamento, mas o envelhecimento continua sendo o problema fiscal de longo prazo
+
+A Espanha modificou indexação das aposentadorias, regras de contribuição e medidas de receita nos últimos anos.
+
+Essas reformas distribuem o peso entre trabalhadores, empregadores, aposentados e Estado, mas não removem a aritmética demográfica.
+
+O FMI projeta aumento forte dos gastos relacionados ao envelhecimento nas próximas décadas. Uma força de trabalho imigrante maior adia a pressão, mas não a elimina.
+
+Sustentabilidade previdenciária depende, portanto, de emprego, produtividade, comportamento de aposentadoria e estrutura demográfica.
+
+## O gasto de defesa mudou rapidamente
+
+A Espanha elevou fortemente o gasto de defesa de aproximadamente 0,9% do PIB em 2018 para cerca de 2% em 2026, segundo declaração do governo espanhol na cúpula da OTAN de julho de 2026.
+
+O compromisso mais amplo da OTAN adotado em 2025 aponta para 5% do PIB até 2035, dividido entre requisitos centrais de defesa e investimento mais amplo relacionado a defesa e segurança.
+
+A Espanha argumentou publicamente que as capacidades atribuídas ao país podem ser cumpridas com percentual menor que a trajetória principal da Aliança. Isso cria debate contínuo sobre divisão de encargos.
+
+O foco analítico correto está em capacidades, produção industrial e custo fiscal, e não em tratar uma única meta percentual como medida completa do poder militar.
+
+## A política industrial de defesa se sobrepõe à política industrial civil
+
+A Espanha possui capacidades em aeroespacial, construção naval, eletrônica, radar, satélites, munição e veículos blindados.
+
+Maior demanda europeia por defesa pode sustentar emprego industrial, P&D e exportações. Também pode disputar engenheiros, recursos fiscais e capacidade manufatureira.
+
+Como em outros países, o efeito macroeconômico depende do valor adicionado doméstico. Compras que sustentam engenharia e produção locais possuem transmissão diferente de importações.
+
+O setor também pode gerar efeitos civis em espaço, comunicações, cibersegurança e materiais avançados.
+
+## A geografia norte-africana cria vínculos econômicos e de segurança
+
+O território espanhol inclui as Ilhas Canárias e as cidades de Ceuta e Melilla, dando exposição geográfica direta ao Norte da África e às rotas Atlântico-Mediterrâneo.
+
+Relações com Marrocos e Argélia afetam migração, energia, comércio, pesca, segurança e diplomacia.
+
+A oferta de gás foi diversificada, mas gasodutos norte-africanos e infraestrutura de gás natural liquefeito continuam relevantes.
+
+O papel mediterrâneo da Espanha não é, portanto, secundário à identidade europeia. É parte de sua arquitetura energética e de segurança.
+
+## Os vínculos latino-americanos são fonte distintiva de redes de capital e migração
+
+Bancos, empresas de energia, telecomunicações e infraestrutura espanhóis possuem investimentos históricos relevantes na América Latina.
+
+A migração latino-americana também contribui crescentemente para a população espanhola, com colombianos e venezuelanos entre os maiores grupos recentes de imigrantes.
+
+Esses vínculos criam transmissão em duas direções por lucros corporativos, remessas, oferta de trabalho e relações políticas.
+
+Também diferenciam a Espanha de outras grandes economias da área do euro cujas redes externas possuem orientação diferente.
+
+## Um quadro de contradições evita narrativas de milagre ou fragilidade
 
 | Proposição | Evidência favorável | Evidência contrária / limitação | Avaliação |
 |---|---|---|---|
-| A Espanha é o caso de sucesso de crescimento europeu | PIB cresce acima de grandes pares e emprego está em recordes | produtividade por hora é fraca e desemprego continua alto | crescimento agregado forte, convergência incompleta |
-| Imigração resolve envelhecimento | população e força de trabalho crescem rapidamente | envelhecimento retorna se fluxos caem e integração for fraca | grande suporte de médio prazo, não solução permanente |
-| Turismo é dependência excessiva | visitantes e gasto são enormes | manufatura, alimentos, serviços e renováveis ampliam exportações | risco de concentração existe, mas economia é mais diversificada que o estereótipo |
-| A alta de moradia repete 2008 | preços crescem em dois dígitos | bancos e famílias estão menos alavancados e a escassez de oferta é mais importante | acessibilidade é risco mais claro que excesso sistêmico de crédito até agora |
-| Renováveis garantem energia barata | participação e capacidade renováveis são muito altas | armazenamento, rede e interconexão limitam excedente utilizável | vantagem comparativa existe, mas exige integração |
-| Dívida pública deixou de ser problema | índice cai e crescimento é forte | nível segue próximo de 100% e envelhecimento elevará custos | melhora real, mas colchões fiscais ainda importam |
-| Recursos europeus garantem produtividade | programa é grande e ligado a reformas | execução e continuidade determinam impacto | oportunidade, não resultado automático |
-| Autonomia regional enfraquece o Estado | descentralização pode fragmentar execução | também permite adaptação e instituições regionais fortes | capacidade varia por política e região |
+| A Espanha resolveu seu problema de crescimento pós-crise | PIB e emprego superam pares da área do euro | crescimento recebe apoio de imigração e investimento europeu temporário | ciclo forte, resolução estrutural incompleta |
+| Imigração elevada garante maior padrão de vida | oferta de trabalho, demanda e arrecadação aumentam | habitação, infraestrutura e produtividade determinam ganho por habitante | efeito de capacidade positivo com restrições de execução |
+| Habitação é outra bolha de 2008 | preços e demanda sobem rapidamente | alavancagem bancária e excesso de construção são muito diferentes | crise de acessibilidade, não o mesmo regime macrofinanceiro |
+| Renováveis criam independência energética | mais da metade da eletricidade é renovável | gás, petróleo e interconexão limitada continuam relevantes | vantagem elétrica, autonomia energética incompleta |
+| Turismo expulsa atividades produtivas | custos locais de habitação e congestionamento são reais | turismo é exportação de serviços de alto valor com renda regional ampla | benefício depende de capacidade local e regulação |
+| Autonomia regional fragmenta a economia | regras e impostos variam entre regiões | descentralização melhora adaptação e responsabilização | problema de interoperabilidade, não simples falha da descentralização |
+| Dívida pública deixou de ser problema | proporção cai e contas externas melhoraram | dívida continua perto de 100% e envelhecimento elevará gastos | vulnerabilidade menor, restrição fiscal persistente |
+| Expansão da defesa necessariamente reduz crescimento | disputa fiscal é real | indústria aeroespacial e naval doméstica gera demanda | efeito líquido depende de financiamento e conteúdo nacional |
 
 ## Cenários de referência
 
-### Cenário 1: conversão em produtividade
+### Cenário 1: convergência de produtividade depois do fim dos fundos europeus
 
-Investimento, habilidades e vantagem renovável elevam produção por hora. Construção de moradias acelera em regiões de alta demanda, imigração permanece integrada e empresas ganham escala. O crescimento desacelera frente ao ritmo atual, mas o PIB por habitante converge para os pares europeus de maior renda.
+A Espanha preserva reformas após o plano de recuperação. Empresas crescem em escala, a oferta de moradias aumenta nas cidades produtivas, eletricidade renovável atrai investimento industrial e imigração permanece bem integrada no emprego formal. O crescimento potencial continua acima da tendência pré-pandemia e a dívida cai de forma contínua.
 
-### Cenário 2: crescimento de trabalho sem convergência
+### Cenário 2: emprego forte com produtividade fraca
 
-Imigração e emprego continuam aumentando o PIB agregado, mas produtividade permanece fraca e habitação fica mais cara. O PIB cresce mais que a área do euro enquanto a convergência de renda por habitante continua limitada.
+População e emprego continuam aumentando enquanto o produto por hora melhora lentamente. Habitação permanece cara, infraestrutura se congestiona e renda por habitante cresce menos que o PIB total. Indicadores fiscais melhoram gradualmente, mas a convergência com membros mais ricos da área do euro fica paralisada.
 
-### Cenário 3: gargalo de moradia e infraestrutura
+### Cenário 3: desaceleração de investimento após os fundos
 
-A população continua crescendo, mas construção e transporte ficam para trás. Aluguéis altos reduzem salários reais, mobilidade e apoio político à imigração. Investimento se desloca crescentemente para imóveis em vez de capital produtivo.
+O investimento europeu cai antes que o investimento privado se torne autossustentado. Reformas de produtividade perdem impulso e a fragmentação regulatória permanece. O crescimento converge rapidamente para taxa menor enquanto gastos com envelhecimento aumentam.
 
 ### Cenário 4: choque externo de energia e turismo
 
-Choque geopolítico eleva energia e reduz demanda das famílias europeias. Turismo desacelera, inflação aumenta e demanda doméstica perde força. Consolidação fiscal fica mais difícil enquanto defesa e envelhecimento mantêm pressão.
+Choque geopolítico prolongado eleva preços de combustíveis e reduz demanda europeia e viagens internacionais. Inflação continua alta, renda real das famílias desacelera e finanças públicas pioram. Eletricidade renovável amortece, mas não elimina o choque porque petróleo, gás e transportes permanecem expostos.
 
 ## O que fortaleceria a linha de base estrutural
 
-- crescimento sustentado da produtividade por hora e trabalhador;
-- maior investimento empresarial em máquinas, software e P&D;
-- aceleração de moradias concluídas nos mercados de trabalho de alta demanda;
-- moderação da inflação imobiliária sem crise bancária;
-- integração contínua de migrantes no emprego formal e na qualificação;
-- desemprego caindo de forma durável abaixo dos níveis históricos;
-- melhores resultados de ensino técnico e profissional;
-- projetos do plano europeu produzindo efeitos mensuráveis de produtividade;
-- menor corte de geração renovável e implantação mais rápida de armazenamento;
-- maior interconexão elétrica com a França;
-- maior uso industrial de eletricidade de baixo carbono;
-- receita do turismo crescendo mais que o número de visitantes;
-- superávits estáveis em conta corrente;
-- dívida pública continuando a cair durante o crescimento forte.
+- produtividade por hora mantendo melhora sustentada depois de 2026;
+- investimento empresarial permanecendo forte após os prazos dos fundos de recuperação;
+- empresas maiores e melhor acesso a capital de risco e financiamento para crescimento;
+- menores barreiras regulatórias entre regiões;
+- emprego permanecendo alto com nova redução do desemprego;
+- imigração cada vez mais concentrada em trabalho formal e de maior produtividade;
+- conclusão de moradias acelerando nas áreas metropolitanas de alta demanda;
+- continuidade dos superávits em conta corrente e redução da dívida externa;
+- eletricidade renovável sustentando novo investimento industrial e intensivo em dados;
+- expansão mais rápida de armazenamento e interconexão com a França;
+- consolidação fiscal continuando sem cortar investimento produtivo;
+- gasto previdenciário estabilizando por emprego, produtividade e regras críveis.
 
 ## O que enfraqueceria a linha de base estrutural
 
-- emprego continuando a crescer sem ganho de produtividade;
-- imigração diminuindo antes do aumento da participação doméstica;
-- preços e aluguéis continuando a superar salários;
-- ampliação de gargalos regionais de infraestrutura;
-- forte queda de investimento após o fim dos recursos de recuperação;
-- capacidade renovável crescendo mais rápido que redes e demanda;
-- seca ou restrição hídrica reduzindo materialmente agricultura e turismo;
-- deterioração da demanda automotiva e industrial europeia;
-- desaparecimento do superávit em conta corrente por maior dependência de importações;
-- aumento do gasto ligado ao envelhecimento antes da reconstrução de colchões fiscais;
-- conflito territorial reduzindo materialmente a certeza de investimento;
-- compromissos de defesa deslocando investimento público produtivo.
+- PIB por habitante estagnando apesar de forte crescimento populacional;
+- produtividade retornando à tendência fraca anterior à pandemia;
+- queda brusca do investimento após o fim do NextGenerationEU;
+- escassez habitacional persistente reduzindo mobilidade do trabalho;
+- desemprego permanecendo estruturalmente próximo de dois dígitos;
+- imigração concentrada em atividades informais, de baixo salário ou baixa produtividade;
+- nova ampliação dos déficits públicos antes do pico de gastos com envelhecimento;
+- choques de energia transmitindo-se por gás, petróleo e transporte apesar da eletricidade renovável;
+- aumento da fragmentação regulatória regional;
+- congestionamento turístico ampliando restrições de habitação e infraestrutura;
+- gasto de defesa crescendo principalmente por equipamento importado e menor investimento civil;
+- deterioração das relações com parceiros norte-africanos importantes para energia e migração.
 
 ## Indicadores
 
-- PIB real e PIB por habitante;
-- produtividade por hora e por trabalhador;
-- emprego, desemprego e participação laboral;
-- população residente, imigração e população estrangeira;
-- preços e aluguéis de moradia, licenças e unidades concluídas;
-- dívida pública, saldo primário e gasto estrutural;
-- desembolsos, execução e marcos do plano de recuperação;
-- investimento fixo privado e P&D;
-- chegadas, gasto e concentração geográfica do turismo;
-- exportações agroalimentares e disponibilidade de água;
-- produção manufatureira e automotiva;
-- conta corrente e capacidade líquida de financiamento;
-- capital bancário, critérios de crédito e hipotecas;
-- geração renovável, capacidade instalada, armazenamento e cortes;
-- interconexão elétrica com a França;
-- demanda industrial de eletricidade;
-- gasto de defesa e conteúdo doméstico das compras;
-- crescimento regional de emprego e população.
+- PIB real, PIB por habitante e produtividade por hora;
+- formação bruta de capital fixo e investimento privado não residencial;
+- desemprego, emprego e participação por região e nacionalidade;
+- crescimento populacional, migração e estrutura etária;
+- dívida pública, déficit e saldo estrutural;
+- gasto previdenciário e receita da seguridade social;
+- desembolsos, gasto e marcos do Plano de Recuperação e Resiliência;
+- conclusão de moradias, aluguéis, preços e acessibilidade por área metropolitana;
+- produção industrial e bens de capital;
+- gasto turístico e pernoites por região;
+- conta corrente e posição líquida de investimento internacional;
+- geração renovável, armazenamento e capacidade de interconexão;
+- dispersão dos preços elétricos de atacado e cortes de geração;
+- criação de empresas, tamanho médio e financiamento de risco;
+- harmonização regulatória entre regiões;
+- gasto de defesa segundo metodologia da OTAN e produção doméstica da indústria de defesa.
 
 ## Limitações de evidência
 
-Dados trimestrais de PIB e produtividade são sujeitos a revisão. A estimativa preliminar de julho e a publicação revisada de setembro produziram números interanuais ligeiramente diferentes; este dossiê usa a publicação revisada de setembro quando disponível.
+Os números populacionais de 2026 são provisórios e fortemente influenciados pelos fluxos migratórios correntes. Nacionalidade, país de nascimento e residência são conceitos estatísticos diferentes e não devem ser tratados como equivalentes.
 
-O Plano de Recuperação e Resiliência foi modificado de forma material. Referências antigas a um programa muito maior não devem ser misturadas com o envelope atualizado de €102 bilhões da Comissão Europeia em 2026.
+A proporção anual da dívida pode diferir materialmente da relação dívida/PIB trimestral observada devido ao denominador e ao momento dentro do ano. Valores do FMI, Comissão Europeia e Banco de Espanha são, portanto, atribuídos às respectivas metodologias.
 
-A inflação de preços de imóveis mede preços de transações, não acessibilidade diretamente. Acessibilidade também depende de salários, juros hipotecários, aluguéis e formação de domicílios.
+O Plano de Recuperação e Resiliência foi revisado várias vezes desde 2021. Este dossiê utiliza o panorama atual da Comissão Europeia de aproximadamente €102 bilhões em vez de somar mecanicamente envelopes anteriores com revisões posteriores.
 
-Chegadas de turistas e gasto turístico medem dimensões distintas. Mais visitantes não significam necessariamente valor econômico proporcional ou melhora do bem-estar local.
+As condições habitacionais variam fortemente por município e comunidade autônoma. Médias nacionais podem ocultar escassez em áreas metropolitanas de alta produtividade e excesso de oferta em outros locais.
 
-Capacidade renovável instalada não equivale a produção anual de eletricidade. Estimativas de autoconsumo também alteram a participação renovável reportada conforme sejam incluídas ou não.
+Capacidade renovável instalada não equivale a geração útil. Armazenamento, transmissão e interconexões determinam o valor econômico de capacidade solar e eólica adicional.
 
-O gasto de defesa é política e metodologicamente contestado. Declarações do governo de que as capacidades podem ser atendidas com gasto próximo a 2,1% do PIB não são idênticas a todas as definições de gasto da OTAN nem a compromissos futuros.
+O gasto turístico é receita bruta de exportação e não deve ser interpretado como valor adicionado doméstico integral porque turismo utiliza bens importados, capital e serviços intermediários.
 
-A disponibilidade de água é fortemente regional e sazonal. Um percentual nacional dos reservatórios pode esconder restrições severas em bacias específicas.
+Percentuais de defesa dependem das definições contábeis da OTAN e da distinção entre defesa central e investimento mais amplo relacionado à segurança.
 
 ## Fontes
 
-### Instituições e arquitetura política
-- Congresso dos Deputados, Constituição Espanhola de 1978: https://constitucion.congreso.es/constitucion-1978/texto-de-la-constitucion
-- La Moncloa, Presidência do Governo: https://www.lamoncloa.gob.es/presidente/Paginas/index.aspx
-- Casa de S.M. o Rei, Felipe VI: https://www.casareal.es/ES/FamiliaReal/ReyFelipe/Paginas/subhome.aspx
-
-### Macroeconomia, trabalho e estabilidade financeira
-- INE, contas nacionais trimestrais, segundo trimestre de 2026, 25 de setembro de 2026: https://ine.es/dyngs/Prensa/en/CNTR2T26.htm
-- INE, pesquisa da população economicamente ativa, segundo trimestre de 2026, 28 de julho de 2026: https://www.ine.es/dyngs/Prensa/en/EPA2T26.htm
-- FMI, consulta do Artigo IV da Espanha de 2026, 22 de maio de 2026: https://www.elibrary.imf.org/view/journals/002/2026/102/article-A001-en.xml
+### Macroeconomia, política fiscal e produtividade
+- FMI, *Spain: 2026 Article IV Consultation*, 22 de maio de 2026: https://www.imf.org/en/publications/cr/issues/2026/05/21/spain-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-576248
+- FMI, declaração conclusiva da missão do Artigo IV de 2026, 20 de março de 2026: https://www.imf.org/en/news/articles/2026/03/20/mcs032026-spain-2026-article-iv-mission
 - Comissão Europeia, previsão econômica para a Espanha, 21 de maio de 2026: https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/spain/economic-forecast-spain_en
-- Banco de Espanha, Relatório Anual de 2025, 18 de junho de 2026: https://www.bde.es/wbe/en/publicaciones/informes-memorias-anuales/informe-anual/informe-anual-2025.html
-- Banco de Espanha, Relatório de Estabilidade Financeira, primavera de 2026: https://www.bde.es/wbe/en/publicaciones/estabilidad-financiera-politica-macroprudencial/informe-estabilidad-financiera/informe-de-estabilidad-financiera-primavera-2026.html
+- Banco de Espanha, relatório anual de 2025, 18 de junho de 2026: https://www.bde.es/wbe/en/publicaciones/informes-memorias-anuales/informe-anual/informe-anual-2025.html
+- Banco de Espanha, dívida pública no segundo trimestre de 2026, 30 de setembro de 2026: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/deuda-aapp-2026t2.html
 
-### População e moradia
-- INE, estatística contínua da população, 1º de julho de 2026: https://ine.es/dyngs/Prensa/en/ECP2T26.htm
-- INE, índice de preços de moradia, segundo trimestre de 2026: https://www.ine.es/dyngs/Prensa/en/IPV2T26.htm
+### Crescimento, trabalho, população, indústria e turismo
+- INE, contas nacionais trimestrais, segundo trimestre de 2026, 25 de setembro de 2026: https://ine.es/dyngs/Prensa/en/CNTR2T26.htm
+- INE, pesquisa de força de trabalho, segundo trimestre de 2026, 28 de julho de 2026: https://www.ine.es/dyngs/Prensa/es/EPA2T26.htm
+- INE, estatística contínua de população, 1º de julho de 2026: https://ine.es/dyngs/Prensa/en/ECP2T26.htm
+- INE, índice de produção industrial, julho de 2026: https://www.ine.es/dyngs/Prensa/en/IPI0726.htm
+- INE, pesquisa de gasto turístico, resultados anuais de 2025: https://www.ine.es/dyngs/Prensa/en/EGATUR1225.htm
+- INE, pesquisa de gasto turístico, julho de 2026: https://ine.es/dyngs/Prensa/en/EGATUR0726.htm
 
-### Plano de recuperação e investimento
-- Comissão Europeia, plano de recuperação e resiliência da Espanha: https://reforms-investments.ec.europa.eu/recovery-and-resilience-facility-1/country-pages/spains-recovery-and-resilience-plan_en
+### Programa europeu de recuperação
+- Comissão Europeia, plano espanhol de recuperação e resiliência: https://reforms-investments.ec.europa.eu/recovery-and-resilience-facility-1/country-pages/spains-recovery-and-resilience-plan_en
+- Representação da Comissão Europeia na Espanha, sexto pagamento e execução, 11 de agosto de 2026: https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/la-comision-desembolsa-6-230-millones-de-euros-para-espana-en-el-marco-de-nextgenerationeu-2026-08-11_es
 
-### Turismo, agricultura, energia e água
-- INE, movimentos turísticos nas fronteiras, 2025: https://ine.es/dyngs/Prensa/en/FRONTUR1225.html
-- INE, gasto turístico internacional, 2025: https://ine.es/dyngs/Prensa/en/EGATUR1225.htm
-- Ministério da Agricultura, Pesca e Alimentação, relatório anual de comércio exterior de 2025: https://www.mapa.gob.es/es/prensa/ultimas-noticias/detalle_noticias/el-ministerio-de-agricultura--pesca-y-alimentaci-n-concede-el-premio-alimentos-de-espa-a-a-los-mejores-jamones-2026/60d8a247-ffef-43b7-997c-5591b68db661
+### Eletricidade e energia
 - Red Eléctrica, sistema elétrico espanhol em 2025, 11 de março de 2026: https://www.ree.es/en/press-office/news/press-release/2026/03/the-spanish-electricity-system-in-2025-electricity-demand-generation-and-installed-power-capacity-increase
-- MITECO, reserva hídrica espanhola, 29 de setembro de 2026: https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/septiembre/la-reserva-hidrica-espanola-se-encuentra-al-59-2---de-su-capacid.html
+- Red Eléctrica, demanda e geração renovável em junho de 2026: https://www.ree.es/es/sala-de-prensa/actualidad/nota-de-prensa/2026/06/la-demanda-de-energia-electrica-de-espana-desciende-un-09-en-junio
+- Red Eléctrica, dados de armazenamento: https://www.ree.es/en/datos/storage
 
-### Defesa e segurança
-- La Moncloa, coletiva após a cúpula da OTAN, 8 de julho de 2026: https://www.lamoncloa.gob.es/lang/en/presidente/intervenciones/paginas/2026/20260708-nato-turkiye-summit-press-conference.aspx
-- OTAN, coletiva de lançamento do relatório anual, 26 de março de 2026: https://www.nato.int/en/news-and-events/events/transcripts/2026/03/26/press-conference-for-launch-of-annual-report
+### Governo e defesa
+- La Moncloa, atividades do presidente Pedro Sánchez, setembro de 2026: https://www.lamoncloa.gob.es/presidente/actividades/paginas/index.aspx?mts=202609
+- La Moncloa, entrevista coletiva após a cúpula da OTAN, 8 de julho de 2026: https://www.lamoncloa.gob.es/lang/en/presidente/intervenciones/paginas/2026/20260708-nato-turkiye-summit-press-conference.aspx
+- OTAN, investimento em defesa e compromisso de 5%: https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment
 
-**Nota de fontes:** estatísticas oficiais espanholas são usadas para contas nacionais, trabalho, população, moradia e turismo. Banco de Espanha, FMI e Comissão Europeia fornecem avaliações financeiras e macroeconômicas externas. Dados de energia e água usam operador do sistema e autoridades públicas. Quando estatísticas preliminares e revisadas diferem, a publicação revisada é preferida e a data da observação é preservada.
+**Nota de fontes:** estatísticas oficiais espanholas são utilizadas para contas nacionais, emprego, população, indústria e turismo; o Banco de Espanha é usado para dívida, habitação e sistema financeiro; FMI e Comissão Europeia fornecem linhas de base institucionais externas. Previsões, medidas administrativas e estatísticas observadas são mantidas separadas para evitar apresentar estimativas condicionais como resultados realizados.

@@ -1,545 +1,604 @@
-# Spain: immigration-led scale, renewable power and the productivity test behind Europe's growth outlier
+# Spain: immigration-led expansion, renewable power and the productivity test after NextGenerationEU
 
-Spain in 2026 is one of the strongest-growing large economies in the euro area, but the composition of that growth matters more than the headline. Employment and population are expanding rapidly, immigration is enlarging the labour force, tourism receipts remain at record levels, renewable electricity has become a structural comparative advantage, and EU recovery funding is sustaining investment. At the same time, productivity per hour is weak, unemployment remains high by European standards, housing prices are rising far faster than household incomes, public debt remains close to 100% of GDP, and ageing will become more binding as the recent migration impulse slows.
+Spain in 2026 is growing faster than most of the euro area while still carrying several of the structural constraints that defined the post-financial-crisis decade: low productivity relative to leading European economies, high structural unemployment, a public-debt ratio near 100% of GDP, regional regulatory fragmentation, housing shortages in productive metropolitan areas and a pension system exposed to rapid population ageing.
 
-The revised national accounts show real GDP growing by 0.7% quarter on quarter and 2.6% year on year in the second quarter of 2026. Domestic demand contributed 3.5 percentage points to annual growth while external demand subtracted 0.9 points. Employment in full-time-equivalent terms grew by 2.2%, but productivity per hour was broadly flat to slightly negative in the advance estimate. This combination captures the central structural question: Spain is producing more largely because more people are working, but sustaining convergence in income per person requires the same labour force to become more productive.
+The difference from the 2010s is that the economy now combines stronger labour-force growth, large immigration inflows, improving employment, a substantial current-account surplus, accelerating investment and one of Europe's fastest renewable-electricity expansions. Real GDP grew 2.8% in 2025. Revised national accounts show second-quarter 2026 growth of 0.7% quarter on quarter and 2.6% year on year. Domestic demand contributed 3.5 percentage points to annual growth while net external demand subtracted 0.9 points.
 
-The European Commission projected 2.4% growth in 2026, unemployment of 9.9%, a general-government deficit of 2.4% of GDP and gross public debt of 99.6%. The IMF similarly judged growth to be unusually strong relative to euro-area peers but warned that medium-term growth should slow as immigration moderates and population ageing intensifies.
+The central question is whether Spain can convert this unusually favourable combination of labour-force expansion, European recovery funds and low-cost renewable electricity into durable productivity growth. If it can, debt reduction and income convergence become easier. If it cannot, growth may slow materially when migration, EU investment and post-pandemic normalisation lose momentum.
 
-## Institutional architecture: parliamentary monarchy and a highly decentralised state
+## Political architecture: a parliamentary monarchy inside a highly decentralised state
 
-Spain's 1978 Constitution defines the country as a social and democratic state under the rule of law and establishes a parliamentary monarchy. Felipe VI is head of state. Executive authority is exercised by the government; Pedro Sánchez remained President of the Government at the October 2026 evidence cutoff.
+Spain is a parliamentary monarchy under the 1978 Constitution. Executive power is exercised by the government, while the monarch performs constitutional and representative functions. The Cortes Generales consist of the Congress of Deputies and the Senate.
 
-The Constitution also created the framework for extensive territorial autonomy. Spain is divided into seventeen autonomous communities and two autonomous cities, with substantial responsibilities in healthcare, education, transport and other public services.
+Pedro Sánchez remained President of the Government at the October 2026 evidence cutoff. His government operates in a fragmented parliamentary environment where legislation often depends on negotiated support from regional and smaller parties.
 
-This means national economic policy is implemented through multiple layers. Housing supply, planning, vocational education, hospitals, water systems and transport frequently depend on regional and municipal decisions. Central-government reform can therefore be constrained by local implementation capacity or political disagreement.
+Spain is also one of the most decentralised large European states. The 17 autonomous communities control or co-manage major parts of healthcare, education, transport, regional taxation and economic administration. The Basque Country and Navarre have distinctive fiscal arrangements, while the common-regime regions operate through a different intergovernmental financing system.
 
-## The democratic transition created an institutional break after the Franco dictatorship
+This decentralisation allows policy to adapt to regional conditions but can create duplicated rules, administrative barriers and uneven implementation capacity.
 
-Spain's modern economic institutions cannot be understood without the transition from dictatorship to democracy after 1975.
+## The modern state emerged from uneven regional economies
 
-The 1978 constitutional settlement regularised competitive politics, decentralised authority, recognised linguistic and regional diversity, and created the legal environment in which European integration later became a central institutional anchor.
+Spain's economic geography was never homogeneous. Catalonia and the Basque Country industrialised earlier than much of the country, while Madrid developed into the administrative, financial and services centre. Large parts of the interior and South remained more agricultural for longer.
 
-This transition was also economic. Spain moved from a protected and interventionist model toward deeper competition, financial liberalisation and integration with European production and capital markets.
+Rail networks, port access, urbanisation, land ownership and regional institutions shaped different development paths. The result was not a permanent binary division, but a set of distinct regional production systems.
 
-## European integration accelerated convergence but changed the adjustment mechanism
+Modern Spanish growth therefore depends on both national institutions and regional agglomeration economies. Barcelona, Madrid, Valencia, Bilbao, Zaragoza, Málaga and other metropolitan areas perform different functions inside the national economy.
 
-Spain joined the European Communities in 1986 and later adopted the euro.
+## Civil war and dictatorship altered capital, institutions and migration
 
-Single-market access supported industrial investment, tourism, services and infrastructure. European structural and cohesion funds financed transport, water and regional development. The euro removed exchange-rate risk with major trading partners and reduced the risk of national currency crises.
+The Civil War of 1936–1939 destroyed physical and human capital, fragmented political institutions and was followed by an authoritarian regime that initially pursued autarkic economic policies.
 
-The same architecture removed the option of independent exchange-rate depreciation. Competitiveness now depends more on productivity, wages, energy costs, regulation and sectoral change.
+The early Franco period produced scarcity, state intervention and limited external integration. From the late 1950s, policy shifted toward stabilisation, foreign investment, tourism and industrialisation. Internal migration moved millions of workers from rural regions toward Madrid, Catalonia, the Basque Country and the Mediterranean coast.
 
-This makes the quality of growth more important. Labour-intensive expansion can raise total GDP quickly, but convergence in GDP per person requires productivity gains.
+By the end of the dictatorship, Spain had become a substantially more urban and industrial economy, but political institutions remained authoritarian and regional questions unresolved.
 
-## The post-2008 crisis changed banking, construction and household balance sheets
+## Democratic transition and European integration rebuilt the institutional growth model
 
-Spain entered the global financial crisis after a long construction and credit boom. The subsequent collapse produced extremely high unemployment, bank losses, housing oversupply in some areas and a sharp fiscal deterioration.
+The transition after 1975 created the constitutional monarchy, competitive elections, autonomous communities and new labour, fiscal and social institutions.
 
-Bank restructuring, tighter prudential regulation, deleveraging and the creation of stronger European banking supervision changed the financial system.
+European Economic Community accession in 1986 was a major structural anchor. It opened markets, increased competition, expanded infrastructure funding and tied Spain to European regulatory standards.
 
-The current housing cycle is therefore different from the pre-2008 period in important ways. Bank balance sheets are stronger and household leverage is lower. Yet rapid house-price growth and local supply shortages can still create affordability and financial-stability risks.
+Euro adoption later removed national exchange-rate risk and lowered financing costs. It also removed the option of independent currency depreciation. As in Italy, Spain must adjust competitiveness through productivity, wages, margins, investment and sectoral reallocation rather than nominal devaluation.
+
+## The 2000s housing boom created a growth model that proved financially fragile
+
+Before the global financial crisis, Spain experienced a large credit and construction boom. Housing supply, mortgage lending, land development and employment expanded rapidly.
+
+The boom supported high growth and immigration but left the economy exposed to property prices and external financing. When the cycle reversed, construction employment collapsed, banks faced severe real-estate losses and unemployment rose dramatically.
+
+The sovereign and banking crisis that followed forced fiscal consolidation, bank restructuring and institutional reforms. European financial assistance was directed at bank recapitalisation rather than a full sovereign programme.
+
+The lesson is central to current housing analysis: today's housing shortage is not the same macro-financial structure as the pre-2008 oversupply and credit boom. Supply constraints now coexist with stronger bank capital and different lending standards.
 
 ## Growth in 2026 remains unusually strong for a large euro-area economy
 
-Real GDP rose 0.7% quarter on quarter in the second quarter of 2026 and 2.6% from a year earlier. Manufacturing value added grew 1.8% year on year, construction 4.3%, services 2.9% and agriculture 6.0%.
+Spain's revised national accounts show real GDP growing 0.7% quarter on quarter in the second quarter of 2026 and 2.6% year on year. Household consumption increased 1.2% from the previous quarter and gross fixed capital formation 1.7%.
 
 ```chart
 type: bar
-title: Spain: Q2 2026 year-on-year value-added growth
+title: Spain: institutional 2026 real GDP growth baselines
 unit: percent
-Manufacturing | 1.8
-Construction | 4.3
-Services | 2.9
-Primary sectors | 6.0
-Real GDP | 2.6
+IMF full-year forecast | 2.1
+European Commission full-year forecast | 2.4
+Q2 2026 year-on-year actual | 2.6
+2025 actual | 2.8
 ```
 
-The breadth of sectoral growth is a strength. The weakness is that domestic demand has become the dominant engine while net exports subtract from growth.
+The IMF is more cautious than the European Commission, projecting 2.1% for 2026 compared with 2.4%. The difference illustrates forecast sensitivity to energy prices, external conditions and the timing of investment.
 
-That pattern is sustainable if investment raises future productive capacity. It is less sustainable if growth depends mainly on consumption, public spending and ever-larger labour inputs.
+Current strength should not be extrapolated mechanically. The IMF expects medium-term growth to settle near 1.7% as immigration and labour-force gains slow.
 
-## Employment is expanding faster than productivity
+## Growth is increasingly domestic-demand driven
 
-The Labour Force Survey recorded 22.779 million people employed in the second quarter of 2026, 510,200 more than a year earlier. Unemployment fell to 2.495 million and the unemployment rate to 9.87%.
+In the second quarter of 2026 domestic demand contributed 3.5 percentage points to annual GDP growth, while external demand subtracted 0.9 points.
 
-This is a major improvement relative to Spain's historical unemployment rates, yet it remains high by northern European standards.
+This is different from a simple export-led expansion. Household consumption, investment and employment are carrying more of the cycle.
 
-The more important structural issue is productivity. National accounts show full-time-equivalent employment growing roughly as fast as output, leaving little productivity growth per worker and almost none per hour.
+A domestic-demand-led model can be durable if it reflects productive investment and higher labour income. It becomes less durable if consumption expands faster than productive capacity or if investment is driven mainly by temporary public programmes.
+
+Spain's current-account surplus and net financing position suggest that the present expansion is not reproducing the external-financing imbalance of the pre-2008 boom.
+
+## The current account has become a structural buffer
+
+Spain once ran very large current-account deficits. The post-crisis economy has instead generated repeated external surpluses.
+
+The European Commission forecast the current account at 1.9% of GDP in 2026 after 2.8% in 2025. INE institutional-sector accounts showed the national economy providing net financing to the rest of the world equal to 3.1% of GDP in the second quarter.
+
+Tourism, business services, lower energy dependence and competitive goods exporters all contribute.
+
+This matters because a country with high public debt is less vulnerable when it is not simultaneously dependent on large net foreign borrowing.
+
+## Public debt is declining as a ratio but remains a constraint
+
+Banco de España reported public debt under the Excessive Deficit Procedure at 101.4% of GDP in the second quarter of 2026, down 1.8 percentage points from a year earlier. The stock reached approximately €1.763 trillion.
+
+The IMF's annual baseline projected 98.6% of GDP for 2026, while the European Commission forecast 99.6%. These ratios are not directly contradictory because one is an observed quarterly ratio and the others are annual projections using different nominal-GDP assumptions.
+
+```chart
+type: bar
+title: Spain: public-debt ratio
+unit: percent of GDP
+2024 IMF series | 101.6
+2025 IMF series | 100.7
+Q2 2026 Banco de España | 101.4
+2026 IMF forecast | 98.6
+2026 European Commission forecast | 99.6
+```
+
+The fiscal constraint is less severe than in Italy but still material. Ageing, defence, housing, climate adaptation and infrastructure will compete for resources.
+
+## Deficit reduction has progressed, but the structural balance remains weaker
+
+The general-government deficit declined to 2.4% of GDP in 2025. The IMF projected 2.3% for 2026 and the European Commission 2.4%.
+
+The improvement partly reflects strong nominal growth and employment. That is beneficial, but it means the structural fiscal position can appear stronger during a good cycle than it would under weaker growth.
+
+The IMF therefore recommends rebuilding buffers while conditions are favourable, especially because ageing-related spending is expected to rise sharply.
+
+The fiscal question is not whether Spain can finance itself today. It is whether policy creates enough room before demographic pressure intensifies.
+
+## The recovery plan is a large but temporary investment architecture
+
+Spain's current Recovery and Resilience Plan has an official value of approximately €102 billion, including about €79 billion in grants and €23 billion in loans under the latest European Commission country snapshot.
+
+By August 2026 Spain had received around €78 billion, equivalent to 76.5% of the current allocation, and had completed about 60% of the plan's milestones and targets.
+
+```chart
+type: bar
+title: Spain: current Recovery and Resilience Plan
+unit: EUR billion
+Current plan value | 102
+Grant allocation | 79
+Loan allocation | 23
+Received by August 2026 | 78
+```
+
+The plan covers digitalisation, transport, housing, energy, industrial transition, skills and public-sector reform.
+
+As with Italy, the key issue is not only absorption. It is whether the reforms and investment mechanisms persist after European deadlines pass.
+
+## The post-NextGenerationEU productivity test is more important than the spending total
+
+European funds raise current investment directly. Their permanent value depends on whether they change the economy's productive structure.
+
+Spain must therefore distinguish expenditure completion from productivity effects. A railway, digital platform, grid connection or industrial project matters because of the services it provides after construction, not because expenditure itself raises GDP during implementation.
+
+The IMF estimates that a package addressing finance constraints, administrative burdens, firm-size thresholds and R&D tax-credit complexity could raise trend annual productivity growth by around one quarter of a percentage point.
+
+That increase would be macroeconomically significant in an economy whose long-run growth rate is otherwise projected to fall below recent performance.
+
+## Productivity remains the central convergence problem
+
+Spain's output per worker and per hour remain below the strongest euro-area economies. Recent productivity performance has improved relative to the weak pre-pandemic period, but the improvement is too recent to establish a new trend.
+
+The structural causes include small firm size, skills mismatches, limited venture and growth capital, administrative complexity, regional barriers and weak diffusion of research and digital technologies.
+
+Productivity is the variable linking wages, debt, pensions and housing. Higher productivity allows real wages to rise without equivalent inflation, raises tax revenue and makes a high debt stock easier to manage.
+
+## Firm size and regulatory thresholds shape investment incentives
+
+Spain has a large population of small and micro-enterprises. Small firms can be flexible and entrepreneurial, but they often have lower capital intensity, less professional management and more limited access to research and export finance.
+
+Regulatory or tax obligations that change at specific employment or revenue thresholds can discourage some firms from growing through those boundaries.
+
+The problem is not small business itself. The problem is when productive firms face avoidable barriers to scale.
+
+Regional regulatory fragmentation adds another layer because a company expanding across autonomous communities can face different administrative requirements.
+
+## Regime 20 and market unity are productivity reforms
+
+The IMF highlights Spain's Regime 20 initiative as an attempt to harmonise regulations and reduce barriers to cross-regional business activity.
+
+This matters because national scale is an economic asset only if firms can actually operate across the national market without excessive duplication.
+
+A fragmented internal market reduces potential firm size and makes Spain less attractive as a base for European scale-ups.
+
+Market-unity reform is therefore industrial policy through institutional simplification rather than subsidies.
+
+## The labour market has improved materially
+
+Spain's labour market has long combined high unemployment with strong job creation during expansions. In the second quarter of 2026 employment reached 22.779 million people and unemployment fell to 2.495 million.
+
+The unemployment rate declined to 9.87%, falling below 10% for the first time in a long period.
+
+```chart
+type: bar
+title: Spain: labour-market scale in Q2 2026
+unit: million people
+Employed | 22.779
+Unemployed | 2.495
+Labour force | 25.274
+```
+
+The IMF expects average unemployment around 9.8% in 2026. That is a major improvement from crisis-era levels but still high relative to many euro-area peers.
+
+The remaining problem is therefore not a lack of employment growth alone. It includes matching, skills, regional differences and participation.
+
+## Labour reform reduced temporary employment but segmentation has not disappeared
+
+Spain historically had one of Europe's highest shares of temporary employment contracts. Labour reforms changed contract structures and increased the use of permanent contracts.
+
+Reducing temporary work can improve training incentives and household stability. However, segmentation can migrate into other forms, including short tenure, discontinuous permanent contracts and sectoral differences.
+
+The relevant measure is therefore not simply the legal category of the contract. It is the stability of employment income, training and progression.
+
+## Immigration is now one of the main engines of labour-force expansion
+
+Spain's population reached a record 49.802 million on 1 July 2026, increasing by about 444,000 over one year. Foreign nationals numbered approximately 7.44 million.
+
+Immigration has supported employment, consumption, housing demand and tax revenue. It has also slowed the demographic decline that would otherwise result from low fertility and ageing.
 
 ```flow
-Immigration + higher participation + job creation
-  -> larger labour input
-  -> strong aggregate GDP growth
+Immigration
+  -> larger working-age population
+  -> higher employment + consumption
+  -> higher tax and social-security revenue
 
-If capital, skills and technology rise in parallel
-  -> productivity improves
-  -> GDP per capita converges
+But also
+  -> higher housing demand
+  -> pressure on transport, schools and health services
 
-If labour input grows faster than productive capital
-  -> aggregate GDP rises
-  -> productivity and wages lag
-  -> convergence slows
+Net effect
+  -> depends on employment, productivity, integration and housing supply
 ```
 
-## Immigration has become a central growth mechanism
+The IMF explicitly identifies immigration as one of the main reasons Spain has outperformed the euro area.
 
-Spain's resident population reached 49.802 million on 1 July 2026, the highest level in the series. It had increased by more than 444,000 over the preceding twelve months.
+## Immigration does not remove ageing; it changes its speed and fiscal transmission
 
-Foreign nationals numbered roughly 7.44 million and were growing substantially faster than the total population. Recent immigrant flows have been led by people from Colombia, Venezuela and Morocco.
+Spain's fertility remains low and the population is ageing. Migration increases the number of working-age residents but migrants themselves also age over time.
 
-This migration is economically significant. It increases labour supply, household formation, consumption, tax revenue and housing demand.
+Long-run sustainability therefore cannot rely on continuously rising immigration alone. Productivity, participation and pension design remain necessary.
 
-It also changes the demographic outlook. Spain has very low fertility and an ageing native-born population. Immigration can delay labour-force contraction, but it does not eliminate ageing permanently if inflows slow or if productivity remains weak.
+The more favourable interpretation is that immigration buys time. It expands the contribution base during a period when structural reforms and capital investment can raise output per worker.
 
-## Population growth is an economic advantage only if housing and infrastructure expand with it
+The less favourable outcome would be population growth concentrated in lower-productivity employment while housing and infrastructure fail to expand.
 
-Population growth can raise potential output when workers can find housing, transport, schools and healthcare in productive regions.
+## Housing has become an economic-capacity constraint
 
-If infrastructure supply is inelastic, population growth instead raises rents, congestion and commuting costs.
+The Banco de España identifies affordability and constraints on supply as central housing-market problems. Demand is being pushed by employment growth, immigration, tourism, household formation and purchases by non-residents, while supply responds slowly.
 
-Spain's recent experience increasingly shows this tension. Employment growth is concentrated in metropolitan, coastal and tourism-intensive areas where housing supply is already under pressure.
+This differs materially from the 2000s construction boom. Financial-system indicators do not currently show the same kind of property-credit imbalance.
 
-Migration policy, housing policy and regional investment therefore cannot be analysed separately.
+The present problem is scarcity in productive places. When workers cannot afford housing near high-productivity metropolitan labour markets, firms face recruitment constraints and agglomeration benefits weaken.
 
-## Housing has become the most visible domestic capacity constraint
+Housing is therefore productivity infrastructure.
 
-The Housing Price Index rose 12.2% year on year in the second quarter of 2026. Prices for existing homes increased 12.9% and new homes 7.4%.
+## Housing policy is fragmented across levels of government
+
+Land use, planning, construction licences, taxation, rental regulation and social housing involve national, regional and local authorities.
+
+This institutional structure makes rapid supply expansion difficult. Even when national financing is available, local zoning and permitting determine where units can actually be built.
+
+The regional nature of housing also makes national averages misleading. Madrid, Barcelona, the Balearic Islands, the Canary Islands, Málaga, Valencia and smaller interior cities operate under different demand and supply conditions.
+
+A credible housing strategy therefore depends on coordination rather than one national instrument.
+
+## Tourism is a major export system and a source of local scarcity
+
+Spain received 96.8 million international tourists in 2025. Their expenditure reached €134.7 billion, up 6.8% from 2024.
+
+In the first seven months of 2026 international tourist expenditure reached about €82.1 billion, 7.8% higher than a year earlier.
+
+Tourism creates foreign-exchange earnings, employment, transport demand, local tax revenue and investment. It also competes for housing and urban space in high-demand destinations.
+
+The policy problem is not "tourism versus residents" in the abstract. The incidence varies by city, island, neighbourhood, season and type of accommodation.
+
+## Tourism creates a distinctive regional development model
+
+Catalonia, the Canary Islands, Balearic Islands, Andalusia, Madrid and Valencia capture large shares of international tourist expenditure, but the economic role differs among them.
+
+Island economies depend more heavily on air connectivity and imported inputs. Large cities combine tourism with finance, business services and technology. Coastal areas integrate tourism with residential construction and retirement migration.
+
+This means tourism shocks have uneven national effects.
+
+The sector is strategically valuable because it is a service export in which Spain has durable natural, cultural and infrastructure advantages.
+
+## Industry is smaller than tourism in public perception, but remains a core capability
+
+Spain maintains substantial industrial production in vehicles, automotive components, chemicals, pharmaceuticals, food, machinery, metals, aerospace, rail equipment, ceramics and renewable-energy equipment.
+
+Industrial production was 2.3% higher year on year in July 2026 after seasonal and calendar adjustment. Capital-goods production was particularly strong.
+
+This matters because manufacturing provides different productivity, export and innovation characteristics from tourism and local services.
+
+A balanced Spanish growth model uses tourism as an export strength without allowing it to substitute for industrial upgrading.
+
+## Automotive manufacturing is a strategic European value-chain position
+
+Spain is one of Europe's major vehicle-manufacturing locations. Plants are deeply integrated into continental supply chains and export a large share of output.
+
+The transition to electric vehicles changes Spain's comparative advantage. Assembly capacity alone is insufficient if batteries, power electronics and software are imported.
+
+European and national investment programmes therefore focus on batteries, charging, components and industrial conversion.
+
+The test is whether the automotive cluster moves up the electric-vehicle value chain rather than only changing the models assembled.
+
+## Renewable electricity can become an industrial comparative advantage
+
+Spain has strong solar and wind resources and has built renewable capacity at high speed.
+
+At the end of 2025 the national electricity system had 142.5 GW of generation capacity, or 150.8 GW including self-consumption. Renewables accounted for 68.9% of installed generation capacity when self-consumption was included.
+
+Renewable technologies generated 55.5% of electricity in 2025, or 56.6% including estimated self-consumption.
 
 ```chart
 type: bar
-title: Spain: housing price inflation, Q2 2026
-unit: percent year on year
-All housing | 12.2
-New housing | 7.4
-Existing housing | 12.9
+title: Spain: 2025 electricity-system transformation
+unit: percent
+Renewable share of generation | 55.5
+Renewable share including self-consumption | 56.6
+CO2-free generation share | 75.5
+Renewable share of installed capacity incl. self-consumption | 68.9
 ```
 
-The IMF explicitly identified deteriorating affordability as a macroeconomic problem and recommended faster urban development, lower legal uncertainty and streamlined permitting.
+This reduces exposure to imported gas and can support electricity-intensive investment if grid and storage systems keep pace.
 
-The supply mechanism is central. Spain can have large national housing stocks while facing severe shortages in specific cities and labour markets. Housing in a low-demand interior municipality is not a substitute for housing near Madrid, Barcelona, Valencia, Málaga or island tourism centres.
+## Solar growth is creating a new system-management problem
 
-## Housing scarcity can reduce the economic benefit of migration
+Solar photovoltaic capacity approached 50 GW including self-consumption by the end of 2025 and had become the largest installed technology by capacity.
 
-New workers increase productive capacity only if they can locate near employment.
+Rapid midday production can depress wholesale prices and increase curtailment unless demand, storage or interconnection can absorb the output.
 
-High rents reduce disposable income and make lower-productivity jobs economically unattractive in expensive cities. Workers may move farther from employment centres, increasing transport costs and congestion.
+The economic objective therefore shifts from adding capacity to creating flexible demand.
 
-Housing scarcity also creates distributional conflict between existing owners, young households, renters, migrants and tourism uses.
+Electrolysers, industrial heat, data centres, vehicle charging, batteries and pumped hydro can all increase the value of low-cost renewable hours.
 
-A durable growth model therefore requires construction where demand is strong, not simply higher national housing totals.
+## Storage and transmission are becoming the bottleneck
 
-## The banking system is stronger than before the global financial crisis
+Spain had about 3.4 GW of grid-connected storage power at end-2025, and Red Eléctrica reports active expansion of batteries and pumped storage.
 
-Banco de España's 2026 Financial Stability Report describes a banking system operating with stronger capital, liquidity and profitability than during the pre-2008 cycle.
+Transmission also expanded during 2025, with hundreds of kilometres of additional circuits and new substations.
 
-Private-sector leverage has fallen substantially from crisis-era levels.
+The key question is whether grid investment can connect renewable-rich regions with industrial and metropolitan demand.
 
-However, housing prices, geopolitical energy shocks and tighter credit conditions remain relevant risks. In the second quarter of 2026 Spanish banks reported stricter credit supply and weaker loan demand across several segments.
+Without transmission and flexibility, nominally abundant renewable capacity can coexist with congestion and volatile prices.
 
-The financial risk is therefore less about a repetition of the 2008 mechanism and more about how expensive housing, weaker credit and external shocks interact with household affordability and investment.
+## Iberian interconnection limits the value of surplus electricity
 
-## Public debt is falling relative to GDP but remains a structural constraint
+Spain and Portugal form an electricity system with relatively limited interconnection to the rest of continental Europe compared with internal European links.
 
-The European Commission forecast gross public debt at 99.6% of GDP in 2026, down from 100.7% in 2025, with a general-government deficit of 2.4% of GDP.
+Spain has been a net electricity exporter for several consecutive years, but additional interconnection through France would increase the market available for renewable surpluses and improve balancing.
 
-This is far below the extreme debt burden of Italy, but still high relative to Spain's pre-financial-crisis history.
+This creates a geopolitical infrastructure issue: the Pyrenees are not only a geographic barrier but an energy-market bottleneck.
 
-The IMF's concern is forward-looking. Ageing will raise pension and healthcare expenditure. Fiscal consolidation is easier while growth is strong than after labour-force growth slows.
+The same logic applies to gas and future hydrogen corridors.
 
-The key question is therefore whether current growth is used to rebuild fiscal buffers before demographic spending accelerates.
+## Water stress links climate, agriculture, tourism and urban growth
 
-## Pension reform and ageing remain unresolved long-horizon constraints
+Spain's hydrology is highly uneven. Agriculture, cities, tourism and ecosystems compete for water, especially in Mediterranean and southern regions.
 
-Spain has already modified pension indexing, contributions and retirement incentives.
+Drought can affect crop output, hydropower, electricity demand, tourism and municipal planning simultaneously.
 
-However, longevity and the retirement of large cohorts will increase the ratio of beneficiaries to workers unless migration, employment and productivity offset the effect.
+Desalination, reuse, reservoir management and irrigation efficiency therefore function as economic infrastructure.
 
-The fiscal impact depends on the wage base as much as population. Higher productivity raises contributions without requiring proportional increases in worker numbers.
+Climate adaptation in Spain is not a separate environmental sector. It is part of the production model.
 
-A growth model based mainly on additional low-productivity employment would therefore be less effective at financing ageing than one that raises output per worker.
+## Agriculture is globally competitive but exposed to water and labour constraints
 
-## The Recovery and Resilience Plan remains a major investment instrument, though smaller after revision
+Spain is a major European producer and exporter of fruit, vegetables, olive oil, wine, pork and other food products.
 
-The European Commission's updated 2026 country snapshot puts Spain's Recovery and Resilience Plan at approximately €102 billion, including €79 billion in grants and €23 billion in loans, following revisions to the original programme.
+The sector integrates agricultural production with logistics, processing, packaging and export distribution.
 
-The plan contains 145 investment streams and 99 reforms.
+Its comparative advantage depends on irrigation, migrant labour, water availability, food safety and transport links.
 
-```chart
-type: bar
-title: Spain: updated Recovery and Resilience Plan
-unit: EUR billion
-Total updated plan | 102
-RRF grants | 79
-RRF loans | 23
-```
+Higher climate volatility increases the value of precision irrigation, drought-resistant crops and water infrastructure.
 
-This is an important methodological point. Earlier versions of the plan were substantially larger. Current analysis must use the revised 2026 envelope rather than mechanically repeating the older headline.
+## The regional state creates both resilience and fragmentation
 
-## Recovery funds are most valuable when they remove structural bottlenecks
+Autonomous communities can experiment with policies and respond to local conditions. They also control large public-service systems.
 
-The programme supports digitalisation, energy transition, rail, industrial transformation, skills and public-sector reform.
+At the same time, regional rules can fragment business activity and create different tax, licensing and administrative conditions.
 
-Its short-run effect is higher investment demand. The long-run effect depends on whether projects reduce energy costs, improve transport, accelerate business digitalisation or raise human capital.
+The IMF's emphasis on reducing barriers to cross-regional trade is therefore not a peripheral reform. It addresses the institutional structure of the domestic market.
 
-Spain therefore faces the same post-recovery challenge as other large EU recipients: execution is not equivalent to productivity.
+The goal is not recentralisation by default. It is interoperability among decentralised administrations.
 
-The relevant indicator is the productive return after the European financing impulse fades.
+## Catalonia is both an economic centre and a constitutional variable
 
-## Tourism is a large export system, not merely a leisure industry
+Catalonia is one of Spain's largest industrial, export and tourism economies. Barcelona is a major metropolitan centre for logistics, technology, design and services.
 
-Spain received 96.8 million international tourists in 2025, a new record. International visitors spent €134.7 billion during the year, 6.8% more than in 2024.
+The independence crisis of the 2010s demonstrated that constitutional conflict can affect corporate domicile decisions, investment perceptions and national coalition politics even without altering the underlying productive assets immediately.
 
-```chart
-type: bar
-title: Spain: international tourism scale in 2025
-unit: index-style comparison
-International tourists, million | 96.8
-Tourist expenditure, EUR billion | 134.7
-```
+By 2026 the intensity of confrontation had declined from its earlier peak, but territorial politics continued to influence parliamentary bargaining and institutional debate.
 
-Tourism exports services without shipping a physical product. They support accommodation, restaurants, transport, retail, culture, construction and local taxation.
+The correct analytical treatment is therefore neither to treat separation as inevitable nor to assume the constitutional issue has disappeared.
 
-The distribution is geographically concentrated. Catalonia, the Canary Islands and the Balearic Islands alone accounted for more than half of international tourist spending in 2025.
+## The Basque fiscal system demonstrates the diversity inside Spanish decentralisation
 
-## Tourism creates income but intensifies housing and infrastructure trade-offs
+The Basque Country and Navarre operate fiscal systems in which regional institutions collect most taxes and transfer an agreed amount to the central state for common services.
 
-Tourism converts climate, beaches, cities and cultural assets into foreign revenue.
+This arrangement gives these regions unusually high fiscal autonomy compared with the common-regime communities.
 
-High visitor volumes also compete for housing, water, transport capacity and urban space. The economic return depends increasingly on spending per visitor rather than maximum visitor counts.
+The system creates a distinct relationship between local taxation, expenditure and accountability.
 
-Spain's 2025 data show this transition beginning: tourist expenditure grew more rapidly than arrivals.
+It also complicates national comparisons because regional financing institutions are not uniform.
 
-A higher-value model can raise export revenue with less pressure per euro earned, although the distribution of gains and costs remains local.
+## Madrid's agglomeration increases national growth and regional concentration simultaneously
 
-## Spain has a broader export base than tourism alone
+Madrid combines central government, finance, business services, transport connectivity, technology and corporate headquarters.
 
-Vehicles, machinery, chemicals, pharmaceuticals, food, business services and other industrial products form a substantial tradable base.
+Its growth creates national tax revenue and productivity spillovers, but it also concentrates labour and housing demand.
 
-The automotive industry is particularly important because Spain is deeply integrated into European production networks and has major assembly and component operations.
+Agglomeration is economically beneficial when infrastructure and housing expand with employment. If housing supply is constrained, the same agglomeration can raise living costs and exclude workers.
 
-The shift to electric vehicles changes the content of that network. Battery production, power electronics, charging systems and software become more important while combustion-engine components lose relative value.
+Madrid therefore illustrates the central housing-productivity mechanism in the national economy.
 
-Spain's industrial transition therefore depends on upgrading the supplier base, not only preserving assembly volumes.
+## Banks are much stronger than during the financial crisis
 
-## Agro-food is one of the strongest goods-export sectors
+Spanish banks entered the 2020s with more capital, lower non-performing assets and more diversified income than during the 2008 crisis.
 
-Spain's agro-food and fisheries exports reached €78.0 billion in 2025, representing about 20.2% of the country's total exports under the Agriculture Ministry's trade report. The sector generated a positive trade balance of €18.3 billion.
+The system remains exposed to the economic cycle and property markets, but the current housing expansion is not being financed with the same credit intensity as before the global financial crisis.
 
-Agriculture's importance extends beyond farm output. Food processing, logistics, packaging, restaurants and tourism create value downstream.
+This is a critical distinction. High housing prices can create social and productivity problems without automatically implying a banking crisis.
 
-Its main structural constraint is water. Irrigated agriculture raises productivity but increases exposure to drought and competition among households, industry, ecosystems and farming.
+Macroprudential policy should therefore be assessed separately from housing-supply policy.
 
-## Water availability is productive infrastructure
+## The external investment position has improved dramatically
 
-Spain's reservoir system stood at 59.2% of capacity on 29 September 2026, with large differences among river basins. The Segura basin was near 50% while some southern Atlantic systems remained above 65%.
+Banco de España reported Spain's net international investment position at -40.7% of GDP in the second quarter of 2026, historically low in absolute deficit terms compared with earlier decades.
 
-A national percentage can therefore be misleading. Agricultural and urban water stress is regional.
+The country remains a net external debtor, but the vulnerability is substantially smaller than during the euro crisis.
 
-Water policy involves reservoirs, transfers, desalination, reuse, irrigation efficiency and environmental constraints.
+Persistent current-account surpluses gradually improve the position.
 
-Climate adaptation is thus an industrial and agricultural policy, not only an environmental policy.
+This reduces one of the structural risks that once made Spanish public and private borrowing highly sensitive to external capital flows.
 
-## Renewable electricity has become a genuine comparative advantage
+## Pension reform improved financing but ageing remains the long-run fiscal problem
 
-Renewables produced 55.5% of Spain's electricity in 2025, rising to 56.6% when estimated self-consumption is included. Wind supplied 21.6% of generation, solar photovoltaic 18.4%, hydro 12.4% and nuclear 19%.
+Spain has modified pension indexation, contribution rules and revenue measures in recent years.
 
-Nearly 10 GW of wind and solar capacity was added during the year, or 11.6 GW including self-consumption installations.
+These reforms distribute the burden between workers, employers, pensioners and the state, but they do not remove the demographic arithmetic.
 
-Spain ended 2025 with 142.5 GW of system generation capacity. Including self-consumption, the figure reached 150.8 GW, of which 68.9% was renewable generation capacity.
+The IMF projects ageing-related spending to rise sharply over coming decades. A larger immigrant labour force delays the pressure but does not eliminate it.
 
-```mindmap
-Spain's electricity advantage
-- Resource base
-  - solar
-  - wind
-  - hydro
-- Firm / balancing capacity
-  - nuclear
-  - gas combined cycle
-  - hydro storage
-- Grid
-  - internal transmission
-  - France interconnection
-  - Portugal integration
-- Demand opportunities
-  - electrified industry
-  - data centres
-  - hydrogen
-  - transport
-- Constraints
-  - curtailment
-  - storage
-  - grid queues
-  - permitting
-  - weak cross-Pyrenees interconnection
-```
+Pension sustainability therefore depends on employment, productivity, retirement behaviour and demographic structure.
 
-## Storage and transmission now matter more than simply adding solar panels
+## Defence spending has changed rapidly
 
-Storage power reached approximately 3.4 GW at the end of 2025. Pumped hydro and batteries integrated more than 9.2 TWh during the year.
+Spain increased defence spending sharply from around 0.9% of GDP in 2018 to approximately 2% by 2026 according to the Spanish government's statement at the July 2026 NATO Summit.
 
-As midday solar production rises, the marginal value of additional photovoltaic capacity falls unless demand, interconnection or storage can absorb it.
+The broader NATO commitment adopted in 2025 aims at 5% of GDP by 2035, divided between core defence requirements and wider defence- and security-related investment.
 
-The next phase of Spain's transition is therefore system integration. Transmission queues, battery economics, demand flexibility and cross-border capacity increasingly determine the value of renewable investment.
+Spain has publicly argued that the capability requirements assigned to it can be met at a lower percentage than the Alliance-wide headline path. That creates an ongoing burden-sharing debate.
 
-## Low-cost renewable electricity can support industrial reconfiguration
+The correct analytical focus is on capabilities, industrial output and fiscal cost rather than treating one percentage target as a complete measure of military capacity.
 
-Abundant solar and wind can improve the economics of electricity-intensive activity if wholesale advantages translate into stable industrial contracts and grid connections.
+## Defence industrial policy overlaps with civilian industrial policy
 
-Potential beneficiaries include data centres, green hydrogen, electro-intensive materials, battery production and electrified heat.
+Spain has aerospace, naval, electronics, radar, satellite, ammunition and armoured-vehicle capabilities.
 
-This creates a possible new growth channel: rather than treating decarbonisation as a cost, Spain can use renewable abundance to attract capital.
+Higher European defence demand can support industrial employment, R&D and exports. It can also compete for engineers, fiscal resources and manufacturing capacity.
 
-The constraint is execution. Firms value connection certainty and infrastructure as much as nominally low renewable generation costs.
+As elsewhere, the macroeconomic effect depends on domestic value added. Defence procurement that supports local engineering and production has a different transmission than imports.
 
-## The Iberian Peninsula still has an interconnection bottleneck with the rest of Europe
+The sector can also generate civilian spillovers in space, communications, cybersecurity and advanced materials.
 
-Spain and Portugal form a relatively integrated electricity market but remain weakly interconnected with France relative to total generation capacity.
+## Spain's North African geography creates economic and security links
 
-The Pyrenees therefore limit Spain's ability to export large renewable surpluses into central Europe.
+Spain's territory includes the Canary Islands and the cities of Ceuta and Melilla, giving it direct geographic exposure to North Africa and Atlantic-Mediterranean routes.
 
-More interconnection would increase the market value of renewable power and strengthen European energy security. It also requires expensive cross-border infrastructure and long permitting timelines.
+Relations with Morocco and Algeria affect migration, energy, trade, fishing, security and diplomacy.
 
-The same physical geography that gives Spain solar resources limits easy integration with continental demand.
+Gas supply has diversified, but North African pipelines and LNG infrastructure remain relevant.
 
-## Population growth is reshaping regional economic geography
+Spain's Mediterranean role is therefore not secondary to its European identity. It is part of its energy and security architecture.
 
-Madrid, Catalonia, Valencia, Andalusia, the Balearics and other high-employment areas attract workers and migrants.
+## Latin American linkages are a distinctive source of capital and migration networks
 
-Some interior provinces continue to experience low density, ageing and population loss.
+Spanish banks, utilities, telecommunications firms and infrastructure companies have large historical investments across Latin America.
 
-This creates a spatial mismatch. Spain may have unused housing or land nationally while high-productivity regions face severe scarcity.
+Latin American migration also contributes increasingly to Spain's population growth, with Colombian and Venezuelan nationals among the largest recent immigrant groups.
 
-Infrastructure and housing policy therefore influence whether migration reinforces regional concentration or spreads economic activity more broadly.
+These links create two-way transmission through corporate earnings, remittances, labour supply and political ties.
 
-## The autonomous-community system creates both policy experimentation and fragmentation
+They also distinguish Spain from other large euro-area economies whose external networks are oriented differently.
 
-Decentralisation allows regions to adapt health, education, taxation and investment policies to local conditions.
-
-It can also create regulatory differences, duplicated administration and disputes over fiscal transfers.
-
-The Basque Country and Navarre have distinct foral financing systems, while most other autonomous communities operate under the common financing regime.
-
-Fiscal federalism is therefore politically consequential for national budgets and regional incentives.
-
-## Catalonia is simultaneously an economic centre and a constitutional fault line
-
-Catalonia is one of Spain's largest regional economies, with significant manufacturing, logistics, tourism and services.
-
-The 2017 independence crisis demonstrated how territorial politics can affect legal certainty, corporate location decisions and national political coalitions.
-
-The structural lesson is not that territorial conflict necessarily produces long-run economic decline. It is that constitutional uncertainty can become an economic variable when firms and households alter location or investment choices.
-
-## Madrid has become a dominant services and capital hub
-
-Madrid benefits from national-government concentration, corporate headquarters, finance, transport connectivity and a large skilled labour market.
-
-Its growth creates agglomeration benefits but intensifies housing and transport pressure.
-
-The contrast between Madrid's expansion and weaker interior regions illustrates why national averages obscure divergent local conditions.
-
-Spain's regional policy challenge is not to suppress successful agglomerations but to reduce the infrastructure and housing costs that make them exclusionary.
-
-## The Mediterranean coast combines export logistics, industry, agriculture and tourism
-
-Valencia, Catalonia, Murcia and Andalusia connect ports, industrial clusters, irrigated agriculture and tourism.
-
-This concentration creates economic synergies and resource competition.
-
-Water, land, electricity and transport infrastructure must serve households, agriculture, exporters and seasonal visitors simultaneously.
-
-Climate and water stress therefore transmit directly into national trade and tourism performance.
-
-## Defence spending has risen sharply, but Spain disputes the use of a single alliance-wide spending ratio
-
-Pedro Sánchez stated in July 2026 that Spain had reached defence expenditure equivalent to 2% of GDP and argued that the capabilities agreed with NATO could be provided for about 2.1% of GDP.
-
-NATO has publicly acknowledged Spain's sharp rise from roughly 1.3–1.4% previously to the 2% level while continuing to press allies toward the broader 2035 commitment.
-
-The relevant analytical issue is the distinction between capability and input. A spending ratio measures resources, not whether forces, readiness, munitions, logistics and deployable units meet military objectives.
-
-Spain's position makes this methodological disagreement unusually explicit.
-
-## Defence expansion can support domestic industry if procurement creates local capacity
-
-Spain has shipbuilding, aerospace, electronics, armoured-vehicle and missile-related industrial capabilities.
-
-Rising European defence budgets can support domestic production, R&D and exports.
-
-The fiscal opportunity cost still matters. Defence competes with housing, pensions, infrastructure and social expenditure.
-
-The net economic effect therefore depends on domestic value added, import intensity, financing and civilian technology spillovers.
-
-## Spain's geographic position makes security broader than the eastern flank
-
-Spain participates in NATO missions in Eastern Europe, but its strategic geography also includes the western Mediterranean, North Africa, Atlantic sea routes, the Canary Islands and migration routes.
-
-This means European security burden-sharing cannot be reduced entirely to proximity to Russia.
-
-Energy connections with North Africa, maritime logistics and migration management are part of Spain's security-economic system.
-
-## The current account is structurally stronger than before the euro crisis
-
-The European Commission projected a current-account surplus of 1.9% of GDP in 2026. National sector accounts showed Spain with net lending to the rest of the world equivalent to 3.1% of GDP in the second quarter.
-
-This is a major change from the external deficits that characterised the pre-2008 boom.
-
-Tourism, business services, manufacturing exports and lower private leverage contribute to the improved external position.
-
-A strong current account reduces dependence on continuous net capital inflows even when the public sector remains indebted.
-
-## Household saving remains an important buffer
-
-Household saving stood at 18.7% of disposable income in the second quarter of 2026 before seasonal adjustment, still high by pre-pandemic standards.
-
-High saving can strengthen household balance sheets and support domestic financing.
-
-It can also indicate uncertainty or limited consumption opportunities.
-
-For growth, the important question is whether savings are intermediated into productive investment, housing construction and firm capital rather than remaining concentrated in low-risk assets.
-
-## Productivity is the decisive test of whether recent outperformance becomes convergence
-
-Spain has grown faster than many large European economies partly because its labour force has expanded.
-
-That mechanism cannot continue indefinitely at the same rate. Population ageing will eventually offset part of immigration, and housing constraints can reduce the attractiveness of high-productivity cities.
-
-The next growth phase therefore requires more output per hour.
-
-Digital investment, management quality, firm scale, vocational skills, R&D, energy costs and capital allocation all influence this transition.
-
-## A contradiction ledger prevents both boom and fragility narratives
+## A contradiction ledger avoids both miracle and fragility narratives
 
 | Proposition | Supporting evidence | Counterevidence / limitation | Assessment |
 |---|---|---|---|
-| Spain is Europe's growth success | GDP growth is above major euro-area peers and employment is at records | productivity per hour is weak and unemployment remains high | strong aggregate growth, incomplete convergence |
-| Immigration solves ageing | population and labour force are rising quickly | ageing resumes if inflows slow and integration is weak | major medium-term support, not permanent solution |
-| Tourism is an excessive dependency | visitor and spending volumes are enormous | manufacturing, food, services and renewable investment broaden exports | concentration risk exists but economy is more diversified than the stereotype |
-| Housing boom repeats 2008 | prices are rising by double digits | banks and household leverage are stronger and supply shortage is more important | affordability risk is clearer than systemic-credit excess so far |
-| Renewables guarantee cheap energy | renewable share and capacity are very high | storage, grid and interconnection constrain usable surplus | comparative advantage exists but requires integration investment |
-| Public debt is no longer a problem | debt ratio is declining and growth is strong | level remains near 100% and ageing costs will rise | improving, but fiscal buffers still matter |
-| Recovery funds guarantee productivity | programme is large and reform-linked | execution and post-programme persistence determine impact | opportunity, not automatic outcome |
-| Regional autonomy weakens the state | decentralisation can fragment implementation | it also allows local adaptation and strong regional institutions | capacity varies by policy and region |
+| Spain has solved its post-crisis growth problem | GDP and employment outperform euro-area peers | growth is supported by migration and temporary EU investment | strong cycle, incomplete structural resolution |
+| High immigration guarantees higher living standards | labour supply, demand and tax revenue rise | housing, infrastructure and productivity determine per-capita gains | positive capacity effect with execution constraints |
+| Housing is another 2008 bubble | prices and demand are rising rapidly | bank leverage and construction oversupply are materially different | affordability crisis, not the same macro-financial regime |
+| Renewables create energy independence | more than half of power is renewable | gas, oil and limited interconnection still matter | electricity advantage, incomplete energy autonomy |
+| Tourism crowds out productive activity | local housing and congestion costs are real | tourism is a high-value service export with broad regional income effects | benefit depends on local capacity and regulation |
+| Regional autonomy fragments the economy | rules and taxes can differ across regions | decentralisation improves local adaptation and accountability | interoperability problem, not simple decentralisation failure |
+| Public debt is no longer a problem | ratio is declining and external balances improved | debt remains near 100% and ageing costs will rise | reduced vulnerability, persistent fiscal constraint |
+| Defence expansion necessarily reduces growth | fiscal competition is real | domestic aerospace and naval sectors create industrial demand | net effect depends on financing and domestic content |
 
 ## Baseline scenarios
 
-### Scenario 1: productivity conversion
+### Scenario 1: productivity convergence after EU-fund completion
 
-Investment, skills and renewable-energy advantages raise output per hour. Housing construction expands in high-demand regions, immigration remains economically integrated and firms scale. Growth slows from the current pace but GDP per capita converges toward higher-income European peers.
+Spain preserves reform momentum after the recovery plan ends. Firm scaling improves, housing supply expands in productive cities, renewable electricity attracts industrial investment and immigration remains well integrated into formal employment. Potential growth stays above the pre-pandemic trend and debt falls steadily.
 
-### Scenario 2: labour-input growth without convergence
+### Scenario 2: strong employment but weak productivity
 
-Immigration and employment continue to increase aggregate GDP, but productivity remains weak and housing becomes more expensive. GDP grows faster than the euro area while per-capita income convergence remains limited.
+Population and employment continue rising while output per hour improves only slowly. Housing remains expensive, infrastructure becomes congested and income per capita grows more slowly than headline GDP. Fiscal ratios improve gradually but convergence with richer euro-area members stalls.
 
-### Scenario 3: housing and infrastructure bottleneck
+### Scenario 3: post-fund investment slowdown
 
-Population growth continues but construction and transport supply lag. High rents reduce real wages, labour mobility and political support for migration. Investment is increasingly diverted toward property rather than productive capital.
+European recovery investment falls before private investment becomes self-sustaining. Productivity reform loses momentum and regulatory fragmentation persists. Growth converges rapidly toward a lower medium-term rate while ageing expenditures increase.
 
 ### Scenario 4: external energy and tourism shock
 
-A geopolitical shock raises energy prices and weakens European household demand. Tourism slows, inflation rises and domestic demand loses momentum. Fiscal consolidation becomes harder while defence and ageing costs remain elevated.
+A prolonged geopolitical shock raises fuel prices and weakens European demand and international travel. Inflation remains high, real household income slows and public finances deteriorate. Renewable electricity cushions but does not eliminate the shock because oil, gas and transport remain exposed.
 
 ## What would strengthen the structural baseline
 
-- sustained productivity growth per hour and per worker;
-- greater business investment in machinery, software and R&D;
-- housing completions accelerating in high-demand labour markets;
-- moderation of house-price inflation without a banking downturn;
-- continued integration of immigrants into formal employment and skills;
-- unemployment moving sustainably below historical norms;
-- stronger vocational and technical education outcomes;
-- recovery-plan projects producing measurable productivity effects;
-- lower renewable curtailment and faster storage deployment;
-- stronger electricity interconnection with France;
-- higher industrial use of low-carbon electricity;
-- tourism revenue growing faster than visitor volumes;
-- stable current-account surpluses;
-- public debt continuing to fall during strong growth.
+- productivity per hour maintaining a sustained improvement after 2026;
+- business investment remaining strong after recovery-fund deadlines;
+- larger firms and stronger access to venture and growth capital;
+- lower cross-regional regulatory barriers;
+- employment remaining high while unemployment falls further;
+- immigration increasingly concentrated in formal, higher-productivity work;
+- housing completions accelerating in high-demand metropolitan areas;
+- current-account surpluses and external-debt reduction continuing;
+- renewable electricity supporting new industrial and data-intensive investment;
+- faster storage and France interconnection expansion;
+- continued fiscal consolidation without cutting productive investment;
+- pension expenditure stabilising through employment, productivity and credible rules.
 
 ## What would weaken the structural baseline
 
-- employment growth continuing without productivity gains;
-- immigration slowing before domestic participation rises;
-- house prices and rents continuing to outpace wages;
-- widening regional infrastructure shortages;
-- investment falling sharply after recovery-fund completion;
-- renewable capacity expanding faster than grids and demand;
-- drought or water constraints materially reducing agriculture and tourism capacity;
-- deterioration in European auto and industrial demand;
-- current-account surplus disappearing through stronger import dependence;
-- ageing spending rising before fiscal buffers are rebuilt;
-- territorial political conflict materially reducing investment certainty;
-- defence commitments crowding out productivity-enhancing public investment.
+- GDP per capita stagnating despite strong population growth;
+- productivity returning to its weak pre-pandemic trend;
+- sharp fall in investment after NextGenerationEU completion;
+- persistent housing shortages reducing labour mobility;
+- unemployment remaining structurally near double digits;
+- immigration becoming concentrated in low-wage informal or low-productivity activities;
+- renewed widening of public deficits before ageing costs peak;
+- energy shocks transmitting through gas, oil and transport despite renewable power;
+- regional regulatory fragmentation increasing rather than falling;
+- tourism congestion generating stronger housing and infrastructure constraints;
+- defence spending rising primarily through imported equipment and reduced civilian investment;
+- deterioration in relations with key North African energy and migration partners.
 
 ## Indicators
 
-- real GDP and GDP per capita;
-- productivity per hour and per worker;
-- employment, unemployment and labour-force participation;
-- resident population, immigration and foreign-national population;
-- housing prices, rents, building permits and completions;
-- public debt, primary balance and structural expenditure;
-- RRF disbursement, spending and reform milestones;
-- private fixed investment and R&D;
-- international tourist arrivals, spending and geographic concentration;
-- agro-food exports and water availability;
-- manufacturing and automotive production;
-- current-account balance and national net lending;
-- bank capital, lending standards and mortgage growth;
-- renewable generation, installed capacity, storage and curtailment;
-- electricity interconnection with France;
-- industrial electricity demand;
-- defence spending and domestic procurement content;
-- regional employment and population growth.
+- real GDP, GDP per capita and productivity per hour;
+- gross fixed capital formation and private non-residential investment;
+- unemployment, employment and participation by region and nationality;
+- population growth, migration and age structure;
+- public debt, deficit and structural balance;
+- pension expenditure and social-security revenue;
+- Recovery and Resilience Plan disbursement, spending and milestones;
+- housing completions, rents, prices and affordability by metropolitan area;
+- industrial production and capital-goods output;
+- tourism expenditure and overnight stays by region;
+- current-account balance and net international investment position;
+- renewable generation, storage and interconnection capacity;
+- wholesale electricity-price dispersion and curtailment;
+- business creation, average firm size and venture funding;
+- cross-regional regulatory harmonisation;
+- NATO-methodology defence spending and domestic defence-industry production.
 
 ## Evidence limitations
 
-Quarterly GDP and productivity data are subject to revision. The July advance national-accounts release and the September revised release produced slightly different year-on-year figures; this dossier uses the revised September release where available.
+Population figures for 2026 are provisional and heavily influenced by current migration flows. Nationality, country of birth and residence are different statistical concepts and should not be treated interchangeably.
 
-Spain's Recovery and Resilience Plan has been revised materially. Older public references to a much larger programme should not be mixed with the European Commission's updated 2026 €102 billion envelope.
+The annual debt ratio can differ materially from quarterly observed debt-to-GDP ratios because the denominator and seasonal timing differ. IMF, European Commission and Banco de España figures are therefore attributed to their respective methodologies.
 
-Housing-price inflation measures transaction prices, not affordability directly. Affordability also depends on wages, mortgage rates, rents and household formation.
+The Recovery and Resilience Plan has been revised several times since 2021. This dossier uses the current European Commission snapshot of approximately €102 billion rather than mechanically combining earlier envelopes with later revisions.
 
-Tourism arrivals and tourism spending measure different dimensions of sector value. More visitors do not necessarily imply proportional economic value or local welfare improvement.
+Housing conditions vary sharply by municipality and autonomous community. National price or construction averages can conceal scarcity in high-productivity metropolitan areas and excess supply elsewhere.
 
-Renewable installed capacity does not equal annual electricity output. Self-consumption estimates also change the reported renewable share depending on whether they are included.
+Installed renewable capacity does not equal useful generation. Storage, transmission and interconnection constraints determine the economic value of additional wind and solar capacity.
 
-Defence spending is politically and methodologically contested. Government statements that capabilities can be met with expenditure around 2.1% of GDP should not be treated as identical to every NATO expenditure definition or future alliance commitment.
+Tourism expenditure is a gross export receipt and should not be interpreted as domestic value added one-for-one because tourism uses imported goods, capital and intermediate services.
 
-Water availability is highly regional and seasonal. A national reservoir percentage can conceal severe constraints in specific basins.
+Defence-spending percentages are sensitive to NATO accounting definitions and to the distinction between core defence and wider security-related investment.
 
 ## Sources
 
-### Institutions and political architecture
-- Congreso de los Diputados, *Spanish Constitution of 1978*: https://constitucion.congreso.es/constitucion-1978/texto-de-la-constitucion
-- La Moncloa, Presidency of the Government: https://www.lamoncloa.gob.es/presidente/Paginas/index.aspx
-- Casa de S.M. el Rey, *Felipe VI*: https://www.casareal.es/ES/FamiliaReal/ReyFelipe/Paginas/subhome.aspx
-
-### Macroeconomics, labour and financial stability
-- INE, *Quarterly National Spanish Accounts, Q2 2026*, 25 September 2026: https://ine.es/dyngs/Prensa/en/CNTR2T26.htm
-- INE, *Economically Active Population Survey, Q2 2026*, 28 July 2026: https://www.ine.es/dyngs/Prensa/en/EPA2T26.htm
-- IMF, *Spain: 2026 Article IV Consultation*, 22 May 2026: https://www.elibrary.imf.org/view/journals/002/2026/102/article-A001-en.xml
+### Macroeconomics, fiscal policy and productivity
+- IMF, *Spain: 2026 Article IV Consultation*, 22 May 2026: https://www.imf.org/en/publications/cr/issues/2026/05/21/spain-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-576248
+- IMF, *2026 Article IV Mission Concluding Statement*, 20 March 2026: https://www.imf.org/en/news/articles/2026/03/20/mcs032026-spain-2026-article-iv-mission
 - European Commission, *Economic forecast for Spain*, 21 May 2026: https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/spain/economic-forecast-spain_en
 - Banco de España, *Annual Report 2025*, 18 June 2026: https://www.bde.es/wbe/en/publicaciones/informes-memorias-anuales/informe-anual/informe-anual-2025.html
-- Banco de España, *Financial Stability Report, Spring 2026*: https://www.bde.es/wbe/en/publicaciones/estabilidad-financiera-politica-macroprudencial/informe-estabilidad-financiera/informe-de-estabilidad-financiera-primavera-2026.html
+- Banco de España, public debt Q2 2026, 30 September 2026: https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/notas-banco-espana/deuda-aapp-2026t2.html
 
-### Population and housing
-- INE, *Continuous Population Statistics, 1 July 2026*: https://ine.es/dyngs/Prensa/en/ECP2T26.htm
-- INE, *Housing Price Index, Q2 2026*: https://www.ine.es/dyngs/Prensa/en/IPV2T26.htm
+### Growth, labour, population, industry and tourism
+- INE, *Quarterly National Accounts – Q2 2026*, 25 September 2026: https://ine.es/dyngs/Prensa/en/CNTR2T26.htm
+- INE, *Labour Force Survey – Q2 2026*, 28 July 2026: https://www.ine.es/dyngs/Prensa/es/EPA2T26.htm
+- INE, *Continuous Population Statistics – 1 July 2026*, 6 August 2026: https://ine.es/dyngs/Prensa/en/ECP2T26.htm
+- INE, *Industrial Production Index – July 2026*, 10 September 2026: https://www.ine.es/dyngs/Prensa/en/IPI0726.htm
+- INE, *Tourist Expenditure Survey – 2025 annual results*: https://www.ine.es/dyngs/Prensa/en/EGATUR1225.htm
+- INE, *Tourist Expenditure Survey – July 2026*: https://ine.es/dyngs/Prensa/en/EGATUR0726.htm
 
-### Recovery plan and investment
-- European Commission, *Spain's recovery and resilience plan*: https://reforms-investments.ec.europa.eu/recovery-and-resilience-facility-1/country-pages/spains-recovery-and-resilience-plan_en
+### European recovery programme
+- European Commission, *Spain's Recovery and Resilience Plan*: https://reforms-investments.ec.europa.eu/recovery-and-resilience-facility-1/country-pages/spains-recovery-and-resilience-plan_en
+- European Commission representation in Spain, sixth payment and implementation status, 11 August 2026: https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/la-comision-desembolsa-6-230-millones-de-euros-para-espana-en-el-marco-de-nextgenerationeu-2026-08-11_es
 
-### Tourism, agriculture, energy and water
-- INE, *Tourist Movements at Borders, 2025*: https://ine.es/dyngs/Prensa/en/FRONTUR1225.html
-- INE, *International Tourist Expenditure, 2025*: https://ine.es/dyngs/Prensa/en/EGATUR1225.htm
-- Ministry of Agriculture, Fisheries and Food, *Annual Foreign Trade Report 2025*: https://www.mapa.gob.es/es/prensa/ultimas-noticias/detalle_noticias/el-ministerio-de-agricultura--pesca-y-alimentaci-n-concede-el-premio-alimentos-de-espa-a-a-los-mejores-jamones-2026/60d8a247-ffef-43b7-997c-5591b68db661
+### Electricity and energy
 - Red Eléctrica, *The Spanish Electricity System in 2025*, 11 March 2026: https://www.ree.es/en/press-office/news/press-release/2026/03/the-spanish-electricity-system-in-2025-electricity-demand-generation-and-installed-power-capacity-increase
-- MITECO, *Spanish reservoir storage, 29 September 2026*: https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/septiembre/la-reserva-hidrica-espanola-se-encuentra-al-59-2---de-su-capacid.html
+- Red Eléctrica, electricity demand and renewable generation, June 2026: https://www.ree.es/es/sala-de-prensa/actualidad/nota-de-prensa/2026/06/la-demanda-de-energia-electrica-de-espana-desciende-un-09-en-junio
+- Red Eléctrica, storage data: https://www.ree.es/en/datos/storage
 
-### Defence and security
-- La Moncloa, *Press conference after the NATO Summit*, 8 July 2026: https://www.lamoncloa.gob.es/lang/en/presidente/intervenciones/paginas/2026/20260708-nato-turkiye-summit-press-conference.aspx
-- NATO, *Press conference for launch of Annual Report*, 26 March 2026: https://www.nato.int/en/news-and-events/events/transcripts/2026/03/26/press-conference-for-launch-of-annual-report
+### Government and defence
+- La Moncloa, activity of President Pedro Sánchez, September 2026: https://www.lamoncloa.gob.es/presidente/actividades/paginas/index.aspx?mts=202609
+- La Moncloa, press conference after the NATO Summit, 8 July 2026: https://www.lamoncloa.gob.es/lang/en/presidente/intervenciones/paginas/2026/20260708-nato-turkiye-summit-press-conference.aspx
+- NATO, *Defence investment and NATO's 5% commitment*: https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment
 
-**Source note:** Spanish official statistics are used for national accounts, labour, population, housing and tourism. Banco de España, the IMF and European Commission provide external financial and macroeconomic assessments. Energy and water claims use system operators and public authorities. Where preliminary and revised statistics differ, the revised release is preferred and the date of the observation is retained.
+**Source note:** Spanish official statistics are used for national accounts, employment, population, industry and tourism; Banco de España is used for debt, housing and financial-system analysis; IMF and European Commission sources supply external institutional baselines. Forecasts, administrative measures and observed statistics are kept separate to avoid presenting scenario-dependent estimates as realised outcomes.
