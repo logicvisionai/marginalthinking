@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-10-03-spain",
+  "slug": "2026-10-03-country-context-spain",
+  "date": "2026-10-03",
+  "published_at": "2026-10-03T23:18:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-03-country-context-spain/en.md",
+      "title": "Spain: immigration-led scale, renewable power and the productivity test behind Europe's growth outlier",
+      "deck": "Spain is outperforming large euro-area peers through employment, immigration, tourism and investment, but weak productivity, double-digit housing inflation and future ageing determine whether rapid aggregate growth becomes durable convergence in income per person.",
+      "tags": [
+        "Spain",
+        "productivity",
+        "immigration",
+        "housing",
+        "renewable energy",
+        "tourism",
+        "European Union",
+        "defence"
+      ],
+      "keywords": [
+        "Spain economy 2026",
+        "Spain productivity",
+        "Spain immigration",
+        "Spain housing prices",
+        "Spain renewable electricity",
+        "Spain tourism 2025",
+        "Spain recovery plan",
+        "Spain defence spending"
+      ],
+      "regime": "Fast-growing euro-area economy powered by labour-force expansion, migration, tourism and renewable investment, with the next phase dependent on productivity, housing supply and post-recovery-fund capital formation.",
+      "key_risk": "Growth remains labour-input intensive while housing and infrastructure lag population, causing real-income convergence to stall before ageing and fiscal pressures intensify.",
+      "watch": [
+        "Productivity per hour and GDP per capita",
+        "Employment, unemployment and immigration",
+        "Housing prices, rents and new supply",
+        "Recovery-plan execution and post-programme investment",
+        "Renewable generation, storage and grid interconnection",
+        "Tourism spending versus visitor volumes",
+        "Water availability and agro-food exports",
+        "Public debt, ageing expenditure and defence commitments"
+      ],
+      "search_text": "Spain 2026 economy growth productivity immigration housing prices renewable electricity tourism RRF recovery plan debt unemployment water agriculture defence NATO autonomous communities"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-03-country-context-spain/pt-BR.md",
+      "title": "Espanha: escala impulsionada por imigração, eletricidade renovável e o teste de produtividade por trás do crescimento europeu",
+      "deck": "A Espanha supera grandes pares da área do euro por emprego, imigração, turismo e investimento, mas produtividade fraca, inflação imobiliária de dois dígitos e envelhecimento futuro determinam se o rápido crescimento agregado vira convergência durável da renda por habitante.",
+      "tags": [
+        "Espanha",
+        "produtividade",
+        "imigração",
+        "moradia",
+        "energia renovável",
+        "turismo",
+        "União Europeia",
+        "defesa"
+      ],
+      "keywords": [
+        "economia Espanha 2026",
+        "produtividade Espanha",
+        "imigração Espanha",
+        "preços moradia Espanha",
+        "eletricidade renovável Espanha",
+        "turismo Espanha 2025",
+        "plano recuperação Espanha",
+        "gasto defesa Espanha"
+      ],
+      "regime": "Economia de rápido crescimento na área do euro, impulsionada por expansão da força de trabalho, migração, turismo e investimento renovável, cuja próxima fase depende de produtividade, oferta habitacional e formação de capital após os recursos de recuperação.",
+      "key_risk": "O crescimento permanece intensivo em quantidade de trabalho enquanto moradia e infraestrutura ficam atrás da população, interrompendo a convergência da renda real antes da intensificação do envelhecimento e das pressões fiscais.",
+      "watch": [
+        "Produtividade por hora e PIB por habitante",
+        "Emprego, desemprego e imigração",
+        "Preços, aluguéis e nova oferta de moradias",
+        "Execução do plano de recuperação e investimento depois do programa",
+        "Geração renovável, armazenamento e interconexão da rede",
+        "Gasto turístico em relação ao volume de visitantes",
+        "Disponibilidade de água e exportações agroalimentares",
+        "Dívida pública, gasto do envelhecimento e compromissos de defesa"
+      ],
+      "search_text": "Espanha 2026 economia crescimento produtividade imigração moradia preços energia renovável turismo plano recuperação dívida desemprego água agricultura defesa OTAN comunidades autônomas"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "southern-europe"
+    ],
+    "countries": [
+      {
+        "code": "ES",
+        "slug": "spain"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "demographic-transition",
+    "institutional-change",
+    "social-change",
+    "strategic-competition",
+    "defense-security"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CS-2026-09-20-EUR-RU-UA",
+    "MT-CC-2026-09-27-france",
+    "MT-CC-2026-10-03-germany"
+  ],
+  "selection_rationale": "Spain is one of the largest EU and NATO economies and is currently an outlier in European growth, labour-force expansion, tourism and renewable penetration, yet the public corpus lacks reusable country context. Existing research on European security, France and Germany requires a Spanish dossier to analyse southern-European growth, defence burden-sharing, energy interconnection, migration, housing capacity and the RRF transition without reconstructing these mechanisms repeatedly.",
+  "contrary_evidence": [
+    "Spain's rapid GDP, employment and population growth supports a strong-convergence thesis, but productivity per hour remains weak and unemployment is still high relative to northern European peers.",
+    "Record tourism and visitor spending can be read as external strength, but housing, water and infrastructure pressures create local capacity costs that are not visible in export receipts.",
+    "Renewables already dominate electricity generation and create a potential industrial advantage, while grid, storage and limited French interconnection constrain how much additional capacity can be economically absorbed.",
+    "Housing prices are rising at double-digit rates, but stronger bank balance sheets and lower private leverage mean the current cycle does not yet reproduce the pre-2008 credit mechanism."
+  ],
+  "limitations": [
+    "Quarterly GDP, employment and productivity observations can be revised; revised September 2026 national-accounts data are preferred over the July advance release.",
+    "The Spanish Recovery and Resilience Plan was materially revised; the updated 2026 European Commission envelope is not comparable with older headline amounts without reconciliation.",
+    "Housing prices do not directly measure affordability because wages, rents, mortgage rates and household formation also matter.",
+    "Renewable installed capacity, generation and self-consumption are distinct measures and must not be used interchangeably.",
+    "Defence spending is subject to differing political and accounting interpretations; capability claims and spending ratios are kept separate.",
+    "National water-storage percentages conceal severe regional and seasonal differences among river basins."
+  ]
+}
