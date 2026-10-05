@@ -24,14 +24,20 @@
       ],
       "subregions": [
         "north-america",
-        "south-america",
+        "latin-america-caribbean",
         "western-europe",
         "gulf",
         "east-asia"
       ],
       "countries": [
-        "BR",
-        "US"
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
       ]
     },
     "topics": [
@@ -89,9 +95,9 @@
     ],
     "search_text": "Global Macro October 5 2026 ISM services prices global manufacturing PMI payroll Treasury yields Brazil election Focus inflation oil",
     "revision": 0,
-    "qa_reviewed_at": "2026-10-05T12:36:00-03:00",
+    "qa_reviewed_at": "2026-10-05T12:43:01-03:00",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7aea9bd9a26240f887b78c46ad58b35dd8972a1c"
+    "qa_reviewed_commit": "79612a0ced5471f1ab8fabd1f836c1c1bbb98b57"
   },
   {
     "id": "MT-TSE-2026-10-05-intelligence-abundance-human-question",
