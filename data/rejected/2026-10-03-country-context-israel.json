@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-03-israel",
+  "slug": "2026-10-03-country-context-israel",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-05T19:16:27-03:00",
+  "reviewed_commit": "dd7ff141c15d2013c4cfdc0e43bd568d8a622318",
+  "pending_blob_sha": "3227bd41a771dd7865badd6d3d604c52b902b278",
+  "source_blob_shas": {
+    "en": "dc5556bc9c09703ab469c9a905e8c51ecc4dc027",
+    "pt-BR": "acb05904c2c5a4b8e461ad5f4c74393486c00f83"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    {
+      "check": "visual_evidence_readiness",
+      "location": "section 'The modern growth model is unusually concentrated in high technology' / 'O modelo moderno de crescimento é excepcionalmente concentrado em alta tecnologia'",
+      "issue": "The bar chart titled 'Israel: concentration of the 2025 high-tech economy' places employment share (11.4%), export share (58%) and high-tech output growth (8.2%) on one percent axis. These are dimensionally different measures: two are composition shares with different denominators and one is a growth rate. RESEARCH-VISUALS.md explicitly blocks comparing quantities with incompatible definitions merely because they share the same displayed unit.",
+      "evidence": "Reviewed EN and PT-BR sources contain the same three values in the same bar chart. The underlying prose can state all three facts, but a single common-axis bar comparison visually implies comparability that the evidence does not support."
+    }
+  ],
+  "required_fixes": [
+    "Replace the incompatible high-tech bar chart in both EN and PT-BR with an evidence-bearing visual that does not place employment share, export share and output growth on one common quantitative axis. Valid options include separating growth from composition, using a table with explicit denominator/status columns, or charting only genuinely comparable observations.",
+    "Preserve exact EN/PT-BR visual parity after the correction and re-check every quantitative visual for compatible units, denominators and periods.",
+    "Return the same ID and slug with changed source SHAs; do not create a new logical publication identity."
+  ],
+  "evidence": [
+    "Israel Innovation Authority's 2026 annual high-tech report supports the underlying 2025 values: NIS 352 billion high-tech GDP, 8.2% real growth, approximately 400,000 workers / 11.4% of employment, and approximately USD 85 billion / 58% of total exports.",
+    "RESEARCH-VISUALS.md requires quantitative visuals to use unambiguous units and blocks comparisons of quantities with incompatible definitions merely because they fit on one axis.",
+    "COUNTRY-CONTEXT.md makes the visual-evidence floor blocking for country dossiers dated on or after 2026-09-18."
+  ],
+  "notes": "Rejected before public materialization. Taxonomy and country-context identity were not the blocking issue in this pass. Fresh external checks corroborated the cited 2025 Israel Innovation Authority high-tech values and the 27 October 2026 election date. No reports/, HTML, data/reports.json or global site surface was changed. Canonical public state remained absent for this ID immediately before the decision."
+}
