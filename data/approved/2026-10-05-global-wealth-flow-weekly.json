@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-10-05",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-05T02:17:31-03:00",
+  "reviewed_commit": "0a43b519129729fc5825f8f4c67b59c5af799b2c",
+  "pending_blob_sha": "bf42f257791a7e22c1d1f05b6d0015b4a2fd8e1b",
+  "source_blob_shas": {
+    "en": "816f6ff17e548840876282e4cd1292c4c8b82163",
+    "pt-BR": "be2f280e0a444821cc2a260b8a70c8246aed23c3"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Central ICI weekly fund-flow figures, IMF COFER Q2 reserve shares and active-purchase interpretation, World Gold Council August ETF data, and UNCTAD 2025 Latin America FDI/greenfield figures were checked against current primary or first-party sources. The report keeps stock, flow, valuation, reserve allocation and productive investment conceptually separate."
+    },
+    "institutional_consensus": {
+      "result": "passed",
+      "summary": "Goldman Sachs material is explicitly classified as a research thesis and Vanguard material as an explicit portfolio view; neither is treated as proprietary holdings or as proof of the report thesis. Primary flow and reserve evidence remains controlling."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "opening": "Direct three-paragraph opening states the weekly allocation thesis and the two material deltas without a generic executive-summary heading or form fields.",
+      "headings": "Analytical headings identify the object and finding; structural Sources/Fontes heading is appropriate.",
+      "language_localization": "EN reads as native research English and PT-BR as natural Brazilian Portuguese; specialized greenfield terminology is contextualized in prose and no internal QA/template labels are exposed.",
+      "repetition": "Caveats about cash stocks, reserve diversification and productive investment recur only where they perform distinct analytical functions; no excessive template repetition detected.",
+      "cohesion": "Progression is thesis -> fund-wrapper evidence -> cash stock -> official reserves -> gold/institutional context -> productive investment -> falsifiers.",
+      "template_meta_qa": "No prompt, internal QA history, checklist sequence or retrabalho scars appear in public prose."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The report is a global weekly monitor rather than a country or historical dossier. Institutional and policy context is incorporated where needed to interpret reserve allocation and productive investment; no additional historical briefing is necessary to understand the current mechanisms."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": {
+        "tables": 1,
+        "charts": 3,
+        "structural_visuals": 2,
+        "total_useful_visuals": 6,
+        "structural_types": ["flow", "map"]
+      },
+      "summary": "Monitor floor is exceeded. Quantitative visuals use units compatible with their own series; the flow diagram mirrors the defended allocation mechanism; the map is a regional allocation/transmission card rather than a claim of geographic precision. EN/PT-BR values, units and mechanisms are semantically equivalent.",
+      "limitations": "The map is qualitative and should be read as allocation-location context, not as a quantitative geographic exposure map."
+    }
+  },
+  "contrary_evidence": [
+    "Money-market assets remain near $7.9 trillion despite the latest weekly decline, limiting any claim of a broad rotation out of cash-like instruments.",
+    "Dollar reserve claims were broadly unchanged in 2026 Q2; the evidence supports incremental diversification rather than rapid abandonment of the dollar.",
+    "Higher 2025 Latin American FDI coincided with a roughly one-third decline in announced greenfield project value, weakening any inference from headline FDI to future productive capacity.",
+    "Institutional outlooks cited in the report are views, not direct evidence of aggregate proprietary positioning."
+  ],
+  "limitations": [
+    "ICI weekly mutual-fund and ETF estimates are U.S. fund-flow data and should not be generalized mechanically to all global portfolio flows.",
+    "COFER currency shares combine transactions with valuation effects; the IMF decomposition supports active euro purchases but does not remove all valuation uncertainty.",
+    "September global gold-ETF monthly data were not complete at the report cutoff, so August remains the latest complete month used.",
+    "FDI and announced greenfield values measure different components and horizons of investment and are not additive with portfolio-flow or reserve-allocation measures."
+  ],
+  "notes": "Approved as a new weekly monitor. No public bundle for MT-WF-2026-10-05 was found at the final public-state recheck. Approval is bound to the exact current pending and staged-source blobs; reviewed_commit is the HEAD state re-read immediately before the QA decision.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-10-05",
+    "slug": "2026-10-05-global-wealth-flow-weekly",
+    "date": "2026-10-05",
+    "published_at": "2026-10-05T01:15:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-05-global-wealth-flow-weekly/en.md",
+        "title": "Global Wealth Flow Monitor — 5 October 2026",
+        "deck": "ETF issuance more than offset mutual-fund redemptions, cash-like assets remained near $7.9 trillion, and new IMF reserve data showed incremental active diversification toward the euro without a wholesale move away from the dollar.",
+        "tags": ["global capital flows", "ETF issuance", "money market funds", "COFER", "reserve diversification", "gold", "FDI"],
+        "keywords": ["global wealth flows", "mutual fund outflows", "ETF net issuance", "money market fund assets", "official reserves", "US dollar", "euro", "gold reserves", "greenfield investment"],
+        "regime": "Long-term fund demand broadened through ETFs while cash-like balances stayed large and official reserve managers diversified incrementally across currencies and gold.",
+        "key_risk": "A renewed reversal in long-term fund flows, persistent high financing costs or weaker greenfield investment could keep liquid portfolio demand from translating into broader productive capital formation.",
+        "watch": ["ICI combined weekly fund flows", "ICI money-market assets", "2026 Q3 COFER", "September global gold ETF flows", "August TIC release on 16 October", "greenfield investment announcements and realized FDI"],
+        "search_text": "global wealth flows October 2026 ETF issuance mutual fund redemptions money market assets COFER dollar euro reserve diversification gold FDI greenfield"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-05-global-wealth-flow-weekly/pt-BR.md",
+        "title": "Global Wealth Flow Monitor — 5 de outubro de 2026",
+        "deck": "A emissão de ETFs mais do que compensou os resgates em fundos mútuos, ativos semelhantes a caixa permaneceram perto de US$ 7,9 trilhões e novos dados de reservas do FMI mostraram diversificação ativa incremental para o euro sem saída generalizada do dólar.",
+        "tags": ["fluxos globais de capital", "emissão de ETFs", "fundos de mercado monetário", "COFER", "diversificação de reservas", "ouro", "IED"],
+        "keywords": ["fluxos globais de riqueza", "resgates em fundos mútuos", "emissão líquida de ETFs", "ativos de mercado monetário", "reservas oficiais", "dólar dos EUA", "euro", "reservas de ouro", "investimento greenfield"],
+        "regime": "A demanda por fundos de longo prazo se ampliou por ETFs enquanto posições semelhantes a caixa permaneceram grandes e gestores de reservas diversificaram incrementalmente entre moedas e ouro.",
+        "key_risk": "Nova reversão dos fluxos de longo prazo, custos de financiamento persistentemente altos ou menor investimento greenfield podem impedir que a demanda nos mercados líquidos se converta em formação mais ampla de capital produtivo.",
+        "watch": ["fluxos semanais combinados do ICI", "ativos de mercado monetário do ICI", "COFER do 3º trimestre de 2026", "fluxos globais de ETFs de ouro em setembro", "TIC de agosto em 16 de outubro", "anúncios greenfield e IED realizado"],
+        "search_text": "fluxos globais de riqueza outubro 2026 emissão ETF resgates fundos mútuos mercado monetário COFER dólar euro diversificação reservas ouro IED greenfield"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": ["political-economy-markets"],
+    "dimensions": ["economy", "politics"],
+    "geography": {"level": "global", "regions": [], "subregions": [], "countries": []},
+    "topics": ["capital-markets", "currencies", "trade-investment", "commodities-resources", "sovereign-debt", "banking-credit", "industry-production"],
+    "phenomena": [],
+    "format": "monitor",
+    "cadence": "weekly"
+  }
+}
