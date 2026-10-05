@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-04-turkiye",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-04T22:14:00-03:00",
+  "reviewed_commit": "e6354330ee51af90f8751f19fef7d0e7a004298a",
+  "pending_blob_sha": "122b978fe3ceec7ded5796fad422f9cebdde4579",
+  "source_blob_shas": {
+    "en": "585d8fdcd0bfa776cc90f811ceee068e5371d5bf",
+    "pt-BR": "58ab949a12daccd7b78ec0562b993b3854482fed"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "TÜİK confirms August 2026 CPI inflation of 31.51% y/y and Q2 real GDP growth of 2.3% y/y; the TCMB confirms the one-week repo policy rate was held at 37% on 10 September 2026."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The dossier treats disinflation as an ongoing transition rather than completed stabilization and separates official forecasts by vintage instead of averaging incompatible baselines."
+    },
+    "novelty_against_existing_country_layer": {
+      "result": "passed",
+      "summary": "No canonical Türkiye country-context dossier exists; it connects macro stabilization, industrial depth, banking, trade, energy corridors, migration, defence production and transcontinental geography."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Revision 1 satisfies the prior geographic-evidence blocker with a functional map in both locales and retains seven charts, two flows and a mindmap."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Institutions, officeholders and foreign-policy relationships are described analytically without partisan or electoral endorsement."
+    }
+  },
+  "contrary_evidence": [
+    "Türkiye retains a large diversified industrial and export base despite high inflation and external-financing sensitivity.",
+    "Disinflation has progressed materially even though inflation remains far from the medium-term target.",
+    "Strategic geography creates corridor rents and industrial opportunities as well as security and energy exposure."
+  ],
+  "limitations": [
+    "Inflation, reserve, credit and external-financing conditions can change rapidly and are explicitly dated.",
+    "IMF and central-bank forecast vintages use different information sets and are kept separate.",
+    "The functional map describes transmission channels rather than precise routes or quantitative flows."
+  ],
+  "notes": "Revision 1 approved after satisfying the geographic visual blocker from revision 0 and rechecking current macro, bilingual, taxonomy and visual evidence.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-10-04-turkiye",
+    "slug": "2026-10-04-country-context-turkiye",
+    "date": "2026-10-04",
+    "published_at": "2026-10-04T22:04:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-04-country-context-turkiye/en.md",
+        "title": "Türkiye: industrial scale, monetary disinflation and strategic autonomy between Europe and Asia",
+        "deck": "Türkiye combines deep manufacturing, low sovereign debt and strategic geography with still-high inflation, external energy dependence and an unfinished shift toward higher-technology production; the central test is whether current disinflation becomes a durable institutional regime.",
+        "tags": [
+          "Türkiye",
+          "inflation",
+          "manufacturing",
+          "EU Customs Union",
+          "energy",
+          "defence industry",
+          "Black Sea",
+          "migration"
+        ],
+        "keywords": [
+          "Türkiye economy 2026",
+          "Turkey inflation 2026",
+          "Türkiye manufacturing",
+          "Türkiye EU customs union",
+          "Türkiye energy dependence",
+          "Türkiye defence industry",
+          "Türkiye Black Sea",
+          "Türkiye refugees"
+        ],
+        "regime": "Large transcontinental manufacturing economy undergoing restrictive disinflation, with low public debt and strong industrial capacity offset by high nominal instability, energy import dependence and large external financing flows.",
+        "key_risk": "Premature monetary easing or a regional energy shock could restart the inflation-lira cycle before expectations and reserves are strong enough to sustain lower inflation.",
+        "watch": [
+          "Inflation expectations, CPI and CBRT policy rate",
+          "International reserves and lira demand",
+          "EU manufacturing integration and Customs Union modernisation",
+          "High-technology share of manufacturing exports",
+          "Energy import bill, Black Sea gas and renewable generation",
+          "Female labour-force participation and demographic transition",
+          "Defence exports and civilian technology spillovers",
+          "Earthquake reconstruction, urban resilience and refugee transition"
+        ],
+        "search_text": "Türkiye Turkey 2026 inflation lira manufacturing EU Customs Union energy imports Black Sea gas renewables defence exports NATO refugees earthquake reconstruction demographics labour"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-04-country-context-turkiye/pt-BR.md",
+        "title": "Turquia: escala industrial, desinflação monetária e autonomia estratégica entre Europa e Ásia",
+        "deck": "A Turquia combina manufatura profunda, dívida soberana baixa e geografia estratégica com inflação ainda elevada, dependência de energia externa e transição incompleta para produção de maior tecnologia; o teste central é transformar a desinflação atual em regime institucional durável.",
+        "tags": [
+          "Turquia",
+          "inflação",
+          "manufatura",
+          "União Aduaneira da UE",
+          "energia",
+          "indústria de defesa",
+          "Mar Negro",
+          "migração"
+        ],
+        "keywords": [
+          "economia Turquia 2026",
+          "inflação Turquia 2026",
+          "manufatura Turquia",
+          "União Aduaneira Turquia UE",
+          "dependência energética Turquia",
+          "indústria defesa Turquia",
+          "Turquia Mar Negro",
+          "refugiados Turquia"
+        ],
+        "regime": "Grande economia manufatureira transcontinental em desinflação restritiva, com dívida pública baixa e capacidade industrial forte contrabalançadas por instabilidade nominal elevada, dependência de importação de energia e grandes fluxos de financiamento externo.",
+        "key_risk": "Afrouxamento monetário prematuro ou choque regional de energia pode reiniciar o ciclo inflação-lira antes que expectativas e reservas sejam fortes o suficiente para sustentar inflação menor.",
+        "watch": [
+          "Expectativas de inflação, índice de preços e taxa básica do Banco Central",
+          "Reservas internacionais e demanda por ativos em lira",
+          "Integração manufatureira com a UE e modernização da União Aduaneira",
+          "Participação de alta tecnologia nas exportações manufatureiras",
+          "Conta de energia, gás do Mar Negro e geração renovável",
+          "Participação feminina no trabalho e transição demográfica",
+          "Exportações de defesa e difusão tecnológica civil",
+          "Reconstrução pós-terremoto, resiliência urbana e transição de refugiados"
+        ],
+        "search_text": "Turquia 2026 inflação lira manufatura União Aduaneira UE importação energia gás Mar Negro renováveis defesa OTAN refugiados terremoto reconstrução demografia trabalho"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "eastern-europe-balkans"
+      ],
+      "countries": [
+        {
+          "code": "TR",
+          "slug": "turkiye"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "migration-displacement",
+      "demographic-transition",
+      "institutional-change",
+      "social-change",
+      "war-armed-conflict"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CS-2026-09-20-EUR-RU-UA",
+      "MT-CC-2026-09-23-russia",
+      "MT-CC-2026-09-23-iran",
+      "MT-CC-2026-09-23-saudi-arabia-deep"
+    ],
+    "selection_rationale": "Türkiye is a major NATO, Black Sea, Mediterranean and Middle Eastern actor with deep EU manufacturing integration, yet the public corpus lacked a reusable country dossier connecting its inflation and exchange-rate regime, manufacturing structure, energy dependence, defence industry, refugee system, earthquake reconstruction and strategic geography. Existing Europe–Russia–Ukraine, Russia, Iran and Saudi Arabia research all require Turkish context to avoid reconstructing the same transmission mechanisms.",
+    "contrary_evidence": [
+      "Inflation above 30% and recurring lira volatility support a macroeconomic-instability thesis, while low public debt, a functioning banking system, manufacturing exports and large tourism receipts argue against a sovereign or institutional-collapse narrative.",
+      "EU accession negotiations remain stalled, but the EU absorbs over two-fifths of Turkish goods exports and Customs Union cooperation continued to deepen in 2026.",
+      "Domestic gas, LNG infrastructure and renewables improve energy security, while natural-gas imports still represented roughly 95% of 2025 supply.",
+      "Defence exports above US$10 billion demonstrate significant industrial capability, but export value does not establish full technological autonomy because imported components and foreign certifications remain relevant."
+    ],
+    "limitations": [
+      "Inflation and growth forecasts changed materially during 2026 and must be attributed to their forecast date rather than averaged.",
+      "Turkish official sources are primary for administrative, trade, energy and defence-industry quantities but do not provide independent evaluation of policy performance.",
+      "Refugee stocks change through registration, voluntary return, resettlement and status changes; the latest UNHCR headline total used here is a mid-2025 snapshot.",
+      "Ethnicity is not comprehensively measured in official statistics, so the dossier avoids unsupported estimates of Kurdish or other ethnic population shares.",
+      "Defence-export figures are not equivalent to domestic value added or independently verified technological content.",
+      "Akkuyu's first unit remained in commissioning preparation at the evidence cutoff; planned generation is not counted as realised power supply.",
+      "Revision 1 adds the required evidence-bearing geographic map in both locales with semantic parity; no substantive factual conclusion is changed."
+    ],
+    "revision": 1
+  }
+}
