@@ -1,0 +1,154 @@
+{
+  "id": "MT-GM-2026-10-05",
+  "slug": "2026-10-05-global-macro",
+  "date": "2026-10-05",
+  "published_at": "2026-10-05T12:32:57-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "middle-east",
+      "asia-pacific"
+    ],
+    "subregions": [
+      "north-america",
+      "south-america",
+      "western-europe",
+      "gulf",
+      "east-asia"
+    ],
+    "countries": [
+      "BR",
+      "US"
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "demography-labor",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "political-stability",
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-10-05T12:36:00-03:00",
+    "primary_sources": [
+      "Institute for Supply Management",
+      "U.S. Bureau of Labor Statistics",
+      "Tribunal Superior Eleitoral",
+      "Banco Central do Brasil",
+      "OPEC"
+    ],
+    "supporting_sources": [
+      "S&P Global Market Intelligence",
+      "Charles Schwab",
+      "UOL Economia"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 Markdown table + 4 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+    "novelty_against_previous_daily": "checked against 2026-10-04 revision 0; lead shifts from weekend OPEC+ supply policy to the 5 October collision between expansionary PMIs, very high business price diffusion, weak U.S. payroll growth, elevated long yields and Brazil's post-first-round repricing"
+  },
+  "url": "/reports/2026/10/2026-10-05-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-05T12:36:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "7aea9bd9a26240f887b78c46ad58b35dd8972a1c",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — activity remains firm, service prices reaccelerate and markets test how much relief weaker labour really allows",
+      "deck": "U.S. services remain in expansion and global manufacturing is at its strongest since 2022, while weak payrolls, high business price indexes, 5%+ long yields and Brazil's post-election repricing create a more unstable policy mix.",
+      "tags": [
+        "global macro",
+        "United States",
+        "ISM Services",
+        "inflation",
+        "Treasuries",
+        "Brazil election",
+        "oil",
+        "manufacturing"
+      ],
+      "keywords": [
+        "Global Macro October 5 2026",
+        "ISM Services September 2026",
+        "US services prices 74",
+        "global manufacturing PMI 53",
+        "Treasury 10 year 5.29",
+        "Brazil election 2026 market reaction",
+        "Focus IPCA 5.01"
+      ],
+      "regime": "Activity remains expansionary across U.S. services and global manufacturing while labour demand softens before business price pressure and long-term financing costs have normalized.",
+      "key_risk": "Markets may be pricing monetary relief from weaker labour faster than inflationary cost pressure is actually fading, leaving both duration-sensitive assets and highly valued equities exposed to a renewed rates shock.",
+      "watch": [
+        "FOMC minutes",
+        "U.S. CPI on 14 October",
+        "weekly jobless claims",
+        "10-year Treasury around the 5% threshold",
+        "oil and freight costs",
+        "Brazil runoff on 25 October",
+        "post-first-round Focus expectations"
+      ],
+      "search_text": "Global Macro October 5 2026 ISM services prices global manufacturing PMI payroll Treasury yields Brazil election Focus inflation oil"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — atividade permanece firme, preços de serviços reaceleram e mercados testam quanto alívio o trabalho mais fraco realmente permite",
+      "deck": "Serviços dos EUA seguem em expansão e a manufatura global está no nível mais forte desde 2022, enquanto payroll fraco, índices elevados de preços, juros longos acima de 5% e o repricing pós-eleição no Brasil criam uma combinação de política mais instável.",
+      "tags": [
+        "macro global",
+        "Estados Unidos",
+        "ISM Services",
+        "inflação",
+        "Treasuries",
+        "eleição Brasil",
+        "petróleo",
+        "manufatura"
+      ],
+      "keywords": [
+        "Macro Global 5 outubro 2026",
+        "ISM Services setembro 2026",
+        "preços serviços EUA 74",
+        "PMI manufatura global 53",
+        "Treasury 10 anos 5.29",
+        "eleição Brasil 2026 mercado",
+        "Focus IPCA 5.01"
+      ],
+      "regime": "A atividade permanece em expansão nos serviços dos EUA e na manufatura global enquanto a demanda por trabalho enfraquece antes de a pressão de preços empresariais e o custo de financiamento de longo prazo normalizarem.",
+      "key_risk": "Os mercados podem estar precificando alívio monetário a partir do trabalho mais fraco mais rapidamente do que a inflação de custos está desaparecendo, deixando ativos sensíveis à duração e ações de valuation elevado expostos a novo choque de juros.",
+      "watch": [
+        "ata do FOMC",
+        "CPI dos EUA em 14 de outubro",
+        "pedidos semanais de seguro-desemprego",
+        "Treasury de 10 anos em torno de 5%",
+        "petróleo e fretes",
+        "segundo turno do Brasil em 25 de outubro",
+        "Focus pós-primeiro turno"
+      ],
+      "search_text": "Macro Global 5 outubro 2026 ISM serviços preços PMI manufatura global payroll Treasury juros eleição Brasil Focus inflação petróleo"
+    }
+  }
+}
