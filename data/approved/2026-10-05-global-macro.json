@@ -2,9 +2,9 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-05",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-05T12:36:00-03:00",
-  "reviewed_commit": "7aea9bd9a26240f887b78c46ad58b35dd8972a1c",
-  "pending_blob_sha": "2d4787bb30d105b25777e6041fada778c5da9fb1",
+  "reviewed_at": "2026-10-05T12:43:01-03:00",
+  "reviewed_commit": "79612a0ced5471f1ab8fabd1f836c1c1bbb98b57",
+  "pending_blob_sha": "7a8d756344ff2b5c5d9d29a59785602c51ec48a4",
   "source_blob_shas": {
     "en": "4df75af670773a0736700572f7928cb10378e393",
     "pt-BR": "54b9415f01f921502281e7045e4a85d207ea236a"
@@ -48,7 +48,7 @@
     "The Focus survey released on 5 October reflects expectations collected before the 4 October Brazilian election and should not be interpreted as a post-election consensus.",
     "Election-driven market moves reveal repricing of probabilities, not proof of future policy implementation."
   ],
-  "notes": "Approved for same-day publication. All material changes relative to the 4 October daily are explicit and the Brazil section uses official TSE results plus time-stamped intraday market evidence.",
+  "notes": "Approved for same-day publication after taxonomy normalization. Geography now uses the controlled Latin America & Caribbean subregion and structured ISO alpha-2 country objects; all material claims and source blobs are unchanged.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -152,14 +152,20 @@
       ],
       "subregions": [
         "north-america",
-        "south-america",
+        "latin-america-caribbean",
         "western-europe",
         "gulf",
         "east-asia"
       ],
       "countries": [
-        "BR",
-        "US"
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
       ]
     },
     "topics": [
