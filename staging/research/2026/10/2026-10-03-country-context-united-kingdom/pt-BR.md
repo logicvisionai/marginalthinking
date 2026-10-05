@@ -206,7 +206,7 @@ A restrição é escala. UE e EUA são blocos muito maiores. Autonomia regulató
 
 ## Desigualdade regional é problema de alocação de capital, não apenas transferência de renda
 
-Diferenças de produtividade entre regiões britânicas são persistentes. Londres e partes do sudeste se beneficiam de mercados de trabalho densos, finanças, universidades, transporte e sedes corporativas. Outras regiões possuem firmas e universidades fortes, mas mercados de capitais mais finos, transporte pior ou clusters menores.
+Diferenças de produtividade entre regiões britânicas são persistentes. Londres e partes do sudeste se beneficiam de mercados de trabalho densos, finanças, universidades, transporte e sedes corporativas. Outras regiões possuem firmas e universidades fortes, mas mercados de capitais mais finos, transporte pior ou polos produtivos menores.
 
 Transferências equalizam renda disponível, mas não constroem automaticamente capacidade produtiva. Convergência duradoura exige transporte, habitação, formação técnica, comercialização de pesquisa, instituições locais e investimento privado. O sucesso da devolução deve ser medido por capital e produtividade, não apenas autoridade formal.
 
