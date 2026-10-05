@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05T01:20:00-03:00",
+  "updated_at": "2026-10-05T09:32:00-03:00",
   "signals": [
     {
       "slug": "cislunar-service-infrastructure",
@@ -9,27 +9,106 @@
       "last_checked": "2026-10-05",
       "what_changed": "NASA added a $38 million firm-fixed-price contract for a standards-based lunar-surface 5G/Wi-Fi 6 system with a lab demonstration through January 2028 and a planned lunar flight demonstration through December 2028. This strengthens the procurement and interoperability path but does not yet demonstrate operating surface service or recurring non-anchor demand.",
       "evidence_stage": "deployed",
-      "signal_classes": ["capability-delta", "prototype-to-deployment", "enabling-infrastructure", "procurement-standards-regulation"],
+      "signal_classes": [
+        "capability-delta",
+        "prototype-to-deployment",
+        "enabling-infrastructure",
+        "procurement-standards-regulation"
+      ],
       "entities": {
         "researchers": [],
-        "universities_labs": ["NASA Goddard Space Flight Center", "NASA Ames Research Center", "NASA Glenn Research Center"],
-        "institutions": ["NASA", "European Space Agency", "LunaNet"],
-        "companies": ["Advanced Space", "Intuitive Machines", "Terran Orbital", "Surrey Satellite Technology Ltd", "Modulate Space Corporation"]
+        "universities_labs": [
+          "NASA Goddard Space Flight Center",
+          "NASA Ames Research Center",
+          "NASA Glenn Research Center"
+        ],
+        "institutions": [
+          "NASA",
+          "European Space Agency",
+          "LunaNet"
+        ],
+        "companies": [
+          "Advanced Space",
+          "Intuitive Machines",
+          "Terran Orbital",
+          "Surrey Satellite Technology Ltd",
+          "Modulate Space Corporation"
+        ]
       },
       "evidence_refs": [
-        {"label":"NASA CAPSTONE extended mission completion","url":"https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/","date":"2026-07-06","type":"government"},
-        {"label":"NASA CAPSTONE 02 announcement","url":"https://www.nasa.gov/directorates/rtmd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/","date":"2026-07-24","type":"government"},
-        {"label":"NASA NavCube3-mini delivery for Altus-1","url":"https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/","date":"2026-08-03","type":"government"},
-        {"label":"NASA NextSTEP-3 Lunar Enabling Technology","url":"https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/","date":"2026-09-25","type":"procurement"},
-        {"label":"NASA lunar-surface 5G communications contract","url":"https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/","date":"2026-09-30","type":"procurement"},
-        {"label":"NASA LunaNet Interoperability Specification","url":"https://www.nasa.gov/directorates/somd/space-communications-navigation-program/lunanet-interoperability-specification/","date":"2025-02-07","type":"standard"},
-        {"label":"ESA Moonlight service architecture","url":"https://www.esa.int/Newsroom/Press_Releases/ESA_launches_Moonlight_to_establish_lunar_communications_and_navigation_infrastructure","date":"2024-10-15","type":"government"}
+        {
+          "label": "NASA CAPSTONE extended mission completion",
+          "url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
+          "date": "2026-07-06",
+          "type": "government"
+        },
+        {
+          "label": "NASA CAPSTONE 02 announcement",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+          "date": "2026-07-24",
+          "type": "government"
+        },
+        {
+          "label": "NASA NavCube3-mini delivery for Altus-1",
+          "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+          "date": "2026-08-03",
+          "type": "government"
+        },
+        {
+          "label": "NASA NextSTEP-3 Lunar Enabling Technology",
+          "url": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/",
+          "date": "2026-09-25",
+          "type": "procurement"
+        },
+        {
+          "label": "NASA lunar-surface 5G communications contract",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
+          "date": "2026-09-30",
+          "type": "procurement"
+        },
+        {
+          "label": "NASA LunaNet Interoperability Specification",
+          "url": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/lunanet-interoperability-specification/",
+          "date": "2025-02-07",
+          "type": "standard"
+        },
+        {
+          "label": "ESA Moonlight service architecture",
+          "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_launches_Moonlight_to_establish_lunar_communications_and_navigation_infrastructure",
+          "date": "2024-10-15",
+          "type": "government"
+        }
       ],
-      "constraints": ["surface power", "launch and cargo logistics", "recurring demand", "interoperability", "surface maintenance", "procurement continuity", "flight demonstration remains future"],
-      "transmission": ["mission-specific support to shared services", "commercial relay and surface-network procurement", "specialized terrestrial industrial capacity", "potential reduction in fixed integration cost for future lunar missions"],
-      "contrary_evidence": ["Most service constellations remain planned rather than operational.", "The new 5G contract funds development and future demonstrations; it is not evidence of operating lunar-surface service.", "Surface power, logistics and local production remain below mature infrastructure scale.", "Commercial demand beyond public anchor customers remains unproven."],
-      "falsifiers": ["repeated relay or surface-network deployment delays", "failure of provider interoperability", "no recurring multi-mission demand", "surface infrastructure remains a persistent constraint on installed lunar assets"],
-      "related_research_ids": ["MT-TS-2026-09-18-cislunar-service-infrastructure"]
+      "constraints": [
+        "surface power",
+        "launch and cargo logistics",
+        "recurring demand",
+        "interoperability",
+        "surface maintenance",
+        "procurement continuity",
+        "flight demonstration remains future"
+      ],
+      "transmission": [
+        "mission-specific support to shared services",
+        "commercial relay and surface-network procurement",
+        "specialized terrestrial industrial capacity",
+        "potential reduction in fixed integration cost for future lunar missions"
+      ],
+      "contrary_evidence": [
+        "Most service constellations remain planned rather than operational.",
+        "The new 5G contract funds development and future demonstrations; it is not evidence of operating lunar-surface service.",
+        "Surface power, logistics and local production remain below mature infrastructure scale.",
+        "Commercial demand beyond public anchor customers remains unproven."
+      ],
+      "falsifiers": [
+        "repeated relay or surface-network deployment delays",
+        "failure of provider interoperability",
+        "no recurring multi-mission demand",
+        "surface infrastructure remains a persistent constraint on installed lunar assets"
+      ],
+      "related_research_ids": [
+        "MT-TS-2026-09-18-cislunar-service-infrastructure"
+      ]
     },
     {
       "slug": "agentic-operating-layer",
@@ -38,20 +117,94 @@
       "last_checked": "2026-10-05",
       "what_changed": "No stronger independent deployment or productivity evidence found this cycle that materially changes the promoted assessment; context-integrity, multi-task reliability, permissions and continuous evaluation remain central constraints.",
       "evidence_stage": "deployed",
-      "signal_classes": ["deployment-to-scale", "economic-social-transmission", "reliability-yield-throughput", "procurement-standards-regulation", "contrary-evidence"],
-      "entities": {"researchers":["Wenjie Fu","Xiaoting Qin","Li Zhang","Georg Wölflein","Jakob Nikolas Kather"],"universities_labs":["Microsoft Research","University Hospital Dresden research groups"],"institutions":["NIST","OpenAI"],"companies":["Microsoft","OpenAI"]},
-      "evidence_refs": [
-        {"label":"OpenAI Enterprise Signals","url":"https://openai.com/signals/enterprise-data/","date":"2026-08-12","type":"dataset"},
-        {"label":"Microsoft CI-Work","url":"https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/","date":"2026-07-01","type":"paper"},
-        {"label":"Microsoft CORPGEN","url":"https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/","date":"2026-02-26","type":"technical-document"},
-        {"label":"Nature Medicine on-premise clinical AI agents","url":"https://www.nature.com/articles/s41591-026-04609-x","date":"2026-09-15","type":"paper"},
-        {"label":"NIST TEVV-Athlon","url":"https://www.nist.gov/artificial-intelligence/ai-research/tevv-athlon-framework-evaluating-ai-systems","date":"2026-08-07","type":"standard"}
+      "signal_classes": [
+        "deployment-to-scale",
+        "economic-social-transmission",
+        "reliability-yield-throughput",
+        "procurement-standards-regulation",
+        "contrary-evidence"
       ],
-      "constraints": ["context integrity", "multi-task reliability", "permissions and identity", "continuous evaluation", "human oversight cost", "audit and recovery"],
-      "transmission": ["task delegation", "workflow redesign", "new enterprise assurance infrastructure", "changes in skill composition and human escalation"],
-      "contrary_evidence": ["Provider telemetry does not establish independent productivity gains.", "Enterprise benchmarks show substantial privacy and reliability failures.", "Clinical benchmark success is not equivalent to prospective clinical deployment."],
-      "falsifiers": ["usage rises without verified workflow value", "human oversight scales one-for-one with agent activity", "context leakage remains high under realistic controls", "multi-task reliability fails to improve"],
-      "related_research_ids": ["MT-TS-2026-09-18-agentic-operating-layer"]
+      "entities": {
+        "researchers": [
+          "Wenjie Fu",
+          "Xiaoting Qin",
+          "Li Zhang",
+          "Georg Wölflein",
+          "Jakob Nikolas Kather"
+        ],
+        "universities_labs": [
+          "Microsoft Research",
+          "University Hospital Dresden research groups"
+        ],
+        "institutions": [
+          "NIST",
+          "OpenAI"
+        ],
+        "companies": [
+          "Microsoft",
+          "OpenAI"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "label": "OpenAI Enterprise Signals",
+          "url": "https://openai.com/signals/enterprise-data/",
+          "date": "2026-08-12",
+          "type": "dataset"
+        },
+        {
+          "label": "Microsoft CI-Work",
+          "url": "https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/",
+          "date": "2026-07-01",
+          "type": "paper"
+        },
+        {
+          "label": "Microsoft CORPGEN",
+          "url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+          "date": "2026-02-26",
+          "type": "technical-document"
+        },
+        {
+          "label": "Nature Medicine on-premise clinical AI agents",
+          "url": "https://www.nature.com/articles/s41591-026-04609-x",
+          "date": "2026-09-15",
+          "type": "paper"
+        },
+        {
+          "label": "NIST TEVV-Athlon",
+          "url": "https://www.nist.gov/artificial-intelligence/ai-research/tevv-athlon-framework-evaluating-ai-systems",
+          "date": "2026-08-07",
+          "type": "standard"
+        }
+      ],
+      "constraints": [
+        "context integrity",
+        "multi-task reliability",
+        "permissions and identity",
+        "continuous evaluation",
+        "human oversight cost",
+        "audit and recovery"
+      ],
+      "transmission": [
+        "task delegation",
+        "workflow redesign",
+        "new enterprise assurance infrastructure",
+        "changes in skill composition and human escalation"
+      ],
+      "contrary_evidence": [
+        "Provider telemetry does not establish independent productivity gains.",
+        "Enterprise benchmarks show substantial privacy and reliability failures.",
+        "Clinical benchmark success is not equivalent to prospective clinical deployment."
+      ],
+      "falsifiers": [
+        "usage rises without verified workflow value",
+        "human oversight scales one-for-one with agent activity",
+        "context leakage remains high under realistic controls",
+        "multi-task reliability fails to improve"
+      ],
+      "related_research_ids": [
+        "MT-TS-2026-09-18-agentic-operating-layer"
+      ]
     },
     {
       "slug": "autonomous-scientific-instrumentation",
@@ -60,18 +213,86 @@
       "last_checked": "2026-10-05",
       "what_changed": "The 2026 peer-reviewed evidence remains stronger than simulation-only work, but this cycle did not add enough cross-laboratory transfer, reliability, cost or repeated operational deployment evidence to move the signal to publication.",
       "evidence_stage": "demonstrated",
-      "signal_classes": ["capability-delta", "replication-validation", "prototype-to-deployment", "reliability-yield-throughput", "economic-social-transmission"],
-      "entities": {"researchers":["Zhantao Chen","Joshua J. Turner","Gihan Panapitiya","Olivia Hess","A. Gilad Kusne","Milad Abolhasani"],"universities_labs":["SLAC National Accelerator Laboratory","Stanford Synchrotron Radiation Lightsource","Pacific Northwest National Laboratory","North Carolina State University"],"institutions":["U.S. Department of Energy research ecosystem"],"companies":["Unchained Labs"]},
-      "evidence_refs": [
-        {"label":"Nature Machine Intelligence agentic X-ray scientist","url":"https://www.nature.com/articles/s42256-026-01261-5","date":"2026-07-01","type":"paper"},
-        {"label":"Scientific Reports AutoLabs","url":"https://www.nature.com/articles/s41598-026-45593-z","date":"2026-06-25","type":"paper"},
-        {"label":"Nature Reviews Chemistry self-driving laboratories review","url":"https://www.nature.com/articles/s41570-026-00847-2","date":"2026-07-31","type":"paper"},
-        {"label":"Communications Materials multi-agent autonomous labs perspective","url":"https://www.nature.com/articles/s43246-026-01219-5","date":"2026-07-08","type":"paper"}
+      "signal_classes": [
+        "capability-delta",
+        "replication-validation",
+        "prototype-to-deployment",
+        "reliability-yield-throughput",
+        "economic-social-transmission"
       ],
-      "constraints": ["instrument interoperability", "safety interlocks", "experimental provenance", "cross-lab transfer", "hardware standardization", "reliability under unmodeled conditions"],
-      "transmission": ["higher experimental throughput", "changes in scientist time allocation", "potential democratization of specialized instrumentation", "new demand for lab automation and machine-readable experimental protocols"],
-      "contrary_evidence": ["Real-beamline demonstrations remain limited in number.", "Many self-driving laboratories are still bespoke and narrow.", "Cross-laboratory generalization and end-to-end provenance are unresolved."],
-      "falsifiers": ["systems remain bespoke with no cross-instrument transfer", "human intervention remains dominant for nontrivial experiments", "reliability fails to hold outside curated tasks", "automation costs exceed throughput gains"],
+      "entities": {
+        "researchers": [
+          "Zhantao Chen",
+          "Joshua J. Turner",
+          "Gihan Panapitiya",
+          "Olivia Hess",
+          "A. Gilad Kusne",
+          "Milad Abolhasani"
+        ],
+        "universities_labs": [
+          "SLAC National Accelerator Laboratory",
+          "Stanford Synchrotron Radiation Lightsource",
+          "Pacific Northwest National Laboratory",
+          "North Carolina State University"
+        ],
+        "institutions": [
+          "U.S. Department of Energy research ecosystem"
+        ],
+        "companies": [
+          "Unchained Labs"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "label": "Nature Machine Intelligence agentic X-ray scientist",
+          "url": "https://www.nature.com/articles/s42256-026-01261-5",
+          "date": "2026-07-01",
+          "type": "paper"
+        },
+        {
+          "label": "Scientific Reports AutoLabs",
+          "url": "https://www.nature.com/articles/s41598-026-45593-z",
+          "date": "2026-06-25",
+          "type": "paper"
+        },
+        {
+          "label": "Nature Reviews Chemistry self-driving laboratories review",
+          "url": "https://www.nature.com/articles/s41570-026-00847-2",
+          "date": "2026-07-31",
+          "type": "paper"
+        },
+        {
+          "label": "Communications Materials multi-agent autonomous labs perspective",
+          "url": "https://www.nature.com/articles/s43246-026-01219-5",
+          "date": "2026-07-08",
+          "type": "paper"
+        }
+      ],
+      "constraints": [
+        "instrument interoperability",
+        "safety interlocks",
+        "experimental provenance",
+        "cross-lab transfer",
+        "hardware standardization",
+        "reliability under unmodeled conditions"
+      ],
+      "transmission": [
+        "higher experimental throughput",
+        "changes in scientist time allocation",
+        "potential democratization of specialized instrumentation",
+        "new demand for lab automation and machine-readable experimental protocols"
+      ],
+      "contrary_evidence": [
+        "Real-beamline demonstrations remain limited in number.",
+        "Many self-driving laboratories are still bespoke and narrow.",
+        "Cross-laboratory generalization and end-to-end provenance are unresolved."
+      ],
+      "falsifiers": [
+        "systems remain bespoke with no cross-instrument transfer",
+        "human intervention remains dominant for nontrivial experiments",
+        "reliability fails to hold outside curated tasks",
+        "automation costs exceed throughput gains"
+      ],
       "related_research_ids": []
     },
     {
@@ -81,14 +302,162 @@
       "last_checked": "2026-10-05",
       "what_changed": "imec demonstrated a Ge/Si avalanche photodiode fabricated on a 300 mm silicon-photonics platform combining 100 GHz bandwidth, 5 V operation and 1.8 A/W responsivity, and used it in a net 400 Gbps optical link. The device-level result is material, but public evidence is still insufficient on production yield, customer qualification, cost and repeated deployment.",
       "evidence_stage": "demonstrated",
-      "signal_classes": ["capability-delta", "reliability-yield-throughput", "manufacturing-supply-chain"],
-      "entities": {"researchers":[],"universities_labs":["imec"],"institutions":[],"companies":[]},
-      "evidence_refs": [{"label":"imec 100 GHz Ge/Si APD and 400 Gbps link demonstration","url":"https://www.imec-int.com/en/press/imec-debuts-100-ghz-gesi-avalanche-photodiode-apd-enabling-net-400-gbps-data-reception-just-5","date":"2026-09-21","type":"technical-document"}],
-      "constraints": ["production yield", "receiver-electronics integration", "qualification across temperature and optical-power ranges", "cost", "customer deployment"],
-      "transmission": ["higher-bandwidth optical interconnects for data centers", "potential lower receiver power and link cost if manufacturability and integration hold"],
-      "contrary_evidence": ["The public result is a research-hub demonstration rather than customer deployment.", "No public production-yield or unit-cost evidence was identified in this cycle."],
-      "falsifiers": ["performance degrades materially under integrated receiver conditions", "manufacturing yield prevents economic scale", "customer qualification fails to convert into deployment"],
+      "signal_classes": [
+        "capability-delta",
+        "reliability-yield-throughput",
+        "manufacturing-supply-chain"
+      ],
+      "entities": {
+        "researchers": [],
+        "universities_labs": [
+          "imec"
+        ],
+        "institutions": [],
+        "companies": []
+      },
+      "evidence_refs": [
+        {
+          "label": "imec 100 GHz Ge/Si APD and 400 Gbps link demonstration",
+          "url": "https://www.imec-int.com/en/press/imec-debuts-100-ghz-gesi-avalanche-photodiode-apd-enabling-net-400-gbps-data-reception-just-5",
+          "date": "2026-09-21",
+          "type": "technical-document"
+        }
+      ],
+      "constraints": [
+        "production yield",
+        "receiver-electronics integration",
+        "qualification across temperature and optical-power ranges",
+        "cost",
+        "customer deployment"
+      ],
+      "transmission": [
+        "higher-bandwidth optical interconnects for data centers",
+        "potential lower receiver power and link cost if manufacturability and integration hold"
+      ],
+      "contrary_evidence": [
+        "The public result is a research-hub demonstration rather than customer deployment.",
+        "No public production-yield or unit-cost evidence was identified in this cycle."
+      ],
+      "falsifiers": [
+        "performance degrades materially under integrated receiver conditions",
+        "manufacturing yield prevents economic scale",
+        "customer qualification fails to convert into deployment"
+      ],
       "related_research_ids": []
+    },
+    {
+      "slug": "ai-abundance-infrastructure-concentration",
+      "state": "publishable",
+      "first_seen": "2026-10-05",
+      "last_checked": "2026-10-05",
+      "what_changed": "Labour-market evidence, SaaS valuation compression, resilient SaaS formation, outcome-based agent pricing, hyperscaler/cloud concentration evidence and new 2026 energy constraints now support a single thesis about scarcity migrating from generic digital production toward infrastructure, trusted workflows and distribution.",
+      "evidence_stage": "deployed",
+      "signal_classes": [
+        "cost-resource-constraint",
+        "deployment-to-scale",
+        "enabling-infrastructure",
+        "economic-social-transmission",
+        "contrary-evidence"
+      ],
+      "entities": {
+        "researchers": [
+          "Erik Brynjolfsson",
+          "Bharat Chandar",
+          "Ruyu Chen",
+          "Danielle Li",
+          "Lindsey R. Raymond"
+        ],
+        "universities_labs": [
+          "Stanford Digital Economy Lab",
+          "Stanford HAI"
+        ],
+        "institutions": [
+          "International Labour Organization",
+          "OECD",
+          "International Energy Agency",
+          "Federal Trade Commission",
+          "European Commission"
+        ],
+        "companies": [
+          "Microsoft",
+          "Amazon",
+          "Google",
+          "Salesforce",
+          "Stripe"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "label": "Stanford AI Index 2026 — Economy",
+          "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+          "date": "2026-10-01",
+          "type": "research-report"
+        },
+        {
+          "label": "Stanford Digital Economy Lab — Canaries in the Coal Mine? revised",
+          "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+          "date": "2026-08-12",
+          "type": "working-paper"
+        },
+        {
+          "label": "IEA — Key Questions on Energy and AI",
+          "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai",
+          "date": "2026-04-16",
+          "type": "research-report"
+        },
+        {
+          "label": "Software Equity Group — Q2 2026 SaaS Report",
+          "url": "https://softwareequity.com/research/quarterly-saas-report",
+          "date": "2026-07-01",
+          "type": "market-report"
+        },
+        {
+          "label": "FTC — Large AI Partnerships and Investments",
+          "url": "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments",
+          "date": "2025-01-17",
+          "type": "government-report"
+        },
+        {
+          "label": "European Commission — preliminary DMA cloud position",
+          "url": "https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should",
+          "date": "2026-06-25",
+          "type": "regulatory-document"
+        }
+      ],
+      "constraints": [
+        "compute and memory supply",
+        "electricity and grid access",
+        "capital intensity",
+        "cloud switching costs",
+        "workflow reliability",
+        "junior skill formation",
+        "distribution of productivity gains"
+      ],
+      "transmission": [
+        "lower application-building costs",
+        "entry-level hiring pressure",
+        "software pricing migration",
+        "valuation dispersion",
+        "infrastructure concentration",
+        "local electricity and permitting effects",
+        "international rent distribution"
+      ],
+      "contrary_evidence": [
+        "No economy-wide AI employment displacement is visible in the Stanford payroll evidence.",
+        "Stripe reports strong new SaaS platform formation despite public software valuation compression.",
+        "Productivity evidence varies materially by task and experiment design.",
+        "Cloud concentration concerns do not by themselves establish illegal monopoly conduct."
+      ],
+      "falsifiers": [
+        "young-worker employment gaps close persistently as AI adoption grows",
+        "seat-based pricing remains dominant in highly agentic workflows",
+        "generic application margins and switching costs remain durable",
+        "new cloud and compute competitors materially reduce concentration",
+        "independent workflow studies fail to show sustained productivity gains"
+      ],
+      "related_research_ids": [
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration"
+      ]
     }
   ]
 }
