@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "id": "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-05T09:42:42-03:00",
+  "reviewed_commit": "59949a3b26e2cf6d206cadf8a2a1728e66c6987b",
+  "pending_blob_sha": "48500670972a0e364c7f2fb7c3fbe5fcf125d2cf",
+  "source_blob_shas": {
+    "en": "375cc39d1ba94a1a090fea2f6a6c13b0957bf75f",
+    "pt-BR": "13c7defbddeb9cd8567cb0d9993c91add107fa58"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "technology_signal_gate": {
+      "result": "passed",
+      "summary": "The assessment identifies a material 2026 delta across labour-market entry effects, software valuation/pricing, infrastructure capital intensity and competition evidence; it provides a scale path, transmission mechanisms, contrary evidence and explicit falsifiers rather than a generic technology roundup."
+    },
+    "factual_methodology": {
+      "result": "passed_with_limitations",
+      "summary": "Quantitative claims are traceable to Stanford HAI and Digital Economy Lab, ILO, OECD, NBER, METR, IEA, SEG, Stripe, Salesforce, FTC, European Commission and Microsoft's 10-K. Investor views from Thiel, Sequoia, Bessemer, a16z and SoftBank are explicitly labelled as theses or expectations rather than empirical findings."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "Program, three dimensions, global geography, controlled topics and phenomena, assessment format and weekly cadence match taxonomy v1.0 and the weekly technology-signal contract."
+    },
+    "translation_semantics": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same thesis, numerical values, qualifications, contrary evidence, scenarios, falsifiers and visual sequence. Technical terms retained in PT-BR are used where they are established market terminology or named product concepts."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The opening states a falsifiable thesis; sections move from capital and physical constraints through labour, software economics, concentration, investor lenses and social distribution; the text avoids deterministic job-loss and SaaS-collapse claims."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The assessment integrates employment pipelines, gender and income exposure, apprenticeship, bargaining power, education, emerging-market dependence, energy systems, local social acceptance, competition policy, capital allocation and 2026–2030 conditional scenarios."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "3 explicit bar charts + 4 evidence/scenario tables + 1 flow + 1 mindmap + 1 diagram in each locale",
+      "summary": "Both locales have matching visual structure. Chart values reproduce Stanford private AI investment, IEA data-centre electricity demand and SEG SaaS EV/revenue evidence; structural visuals describe defended mechanisms rather than fabricated quantitative relationships.",
+      "limitations": "The investment chart covers private investment and does not represent total state-backed AI financing; the 2030 electricity value is an IEA projection; the SEG chart is a two-point valuation comparison rather than a causal time series."
+    }
+  },
+  "contrary_evidence": [
+    "Stanford payroll evidence does not show widespread economy-wide AI job displacement.",
+    "Stripe reports strong SaaS platform formation and higher SaaS payment volumes despite public software valuation compression.",
+    "NBER and METR demonstrate that productivity effects vary materially by worker experience, task, tool and research design.",
+    "Regulatory scrutiny and concentration indicators do not establish that Big Tech firms constitute an illegal monopoly."
+  ],
+  "limitations": [
+    "The 19% young-worker employment gap is US evidence from exposed occupations and should not be generalized mechanically to all countries or jobs.",
+    "ILO and OECD exposure measures identify task compatibility with AI, not probabilities of job elimination.",
+    "SEG and Stripe data cover their respective company and platform samples rather than the entire global software economy.",
+    "Investor theses are included to map capital expectations and value-capture logic; they are not used as independent proof of future market structure.",
+    "Scenarios for 2026–2030 are conditional mechanisms without assigned probabilities."
+  ],
+  "notes": "QA approved for public materialization. The article deliberately frames 'monopoly' as an investor/economic lens and uses regulator language such as concentration, gatekeeper and potential competition effects for current market claims.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+    "slug": "2026-10-05-technology-signal-ai-abundance-infrastructure-concentration",
+    "date": "2026-10-05",
+    "published_at": "2026-10-05T09:32:00-03:00",
+    "kind": "weekly-technology-signal",
+    "priority": 32,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-05-technology-signal-ai-abundance-infrastructure-concentration/en.md",
+        "title": "AI is making software and cognitive work more abundant — while concentrating the infrastructure that produces them",
+        "deck": "Falling task and application costs are compressing entry-level work and generic software rents while compute, energy, data, distribution and trusted workflows become scarcer and more strategic.",
+        "tags": [
+          "AI",
+          "labor markets",
+          "SaaS",
+          "cloud",
+          "technology concentration",
+          "energy"
+        ],
+        "keywords": [
+          "AI acceleration",
+          "AI labor market",
+          "SaaS valuations",
+          "cloud concentration",
+          "AI infrastructure",
+          "outcome pricing",
+          "entry-level jobs",
+          "Peter Thiel",
+          "data centers",
+          "software economics"
+        ],
+        "regime": "AI is lowering the cost of digital production faster than the physical and institutional inputs required to deploy it at scale.",
+        "key_risk": "Productivity gains may coexist with weaker entry-level career ladders and a larger share of economic rents accruing to infrastructure, distribution and capital owners.",
+        "watch": [
+          "young-worker hiring in exposed occupations",
+          "SaaS revenue multiples and pricing models",
+          "hyperscaler capex and data-centre returns",
+          "cloud switching costs and concentration",
+          "data-centre electricity and grid queues",
+          "independent workflow productivity studies"
+        ],
+        "search_text": "AI acceleration labor employment junior jobs SaaS software valuations cloud monopoly concentration compute energy data centers outcome pricing Peter Thiel Sequoia Bessemer SoftBank"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-05-technology-signal-ai-abundance-infrastructure-concentration/pt-BR.md",
+        "title": "A IA está tornando software e trabalho cognitivo mais abundantes — e a infraestrutura que os produz mais concentrada",
+        "deck": "A queda do custo de tarefas e aplicações pressiona trabalho de entrada e rendas de software genérico enquanto compute, energia, dados, distribuição e workflows confiáveis se tornam mais escassos e estratégicos.",
+        "tags": [
+          "IA",
+          "mercado de trabalho",
+          "SaaS",
+          "cloud",
+          "concentração tecnológica",
+          "energia"
+        ],
+        "keywords": [
+          "aceleração da IA",
+          "mercado de trabalho IA",
+          "valuações SaaS",
+          "concentração cloud",
+          "infraestrutura de IA",
+          "outcome pricing",
+          "empregos de entrada",
+          "Peter Thiel",
+          "data centers",
+          "economia do software"
+        ],
+        "regime": "A IA reduz o custo da produção digital mais rápido do que os insumos físicos e institucionais necessários para implantá-la em escala.",
+        "key_risk": "Ganhos de produtividade podem coexistir com escadas de carreira mais estreitas e maior parcela das rendas econômicas apropriada por donos de infraestrutura, distribuição e capital.",
+        "watch": [
+          "contratação de jovens em ocupações expostas",
+          "múltiplos e modelos de preço do SaaS",
+          "capex de hyperscalers e retorno de data centers",
+          "custos de troca e concentração em cloud",
+          "eletricidade de data centers e filas de rede",
+          "estudos independentes de produtividade em workflows"
+        ],
+        "search_text": "aceleração IA trabalho emprego vagas júnior SaaS software valuations cloud monopólio concentração compute energia data centers precificação por resultado Peter Thiel Sequoia Bessemer SoftBank"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "capital-markets",
+      "demography-labor",
+      "inequality-distribution",
+      "institutions-governance",
+      "energy",
+      "infrastructure-logistics",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "strategic-competition"
+    ],
+    "format": "assessment",
+    "cadence": "weekly",
+    "signal_rationale": {
+      "delta": "By October 2026, evidence from labour markets, software valuations, pricing models, cloud regulation and energy infrastructure can be connected into one observable shift: AI is reducing the scarcity of some cognitive tasks and application features while raising the strategic scarcity of compute, power, capital, distribution and trusted workflows.",
+      "evidence": "The assessment triangulates Stanford labour and investment data, ILO and OECD occupational exposure, NBER and METR productivity evidence, SEG and Stripe software-market data, Salesforce pricing, IEA physical-infrastructure data, FTC and European Commission competition work, Microsoft filings and clearly labelled investor theses.",
+      "scale_path": "Further diffusion depends on lower model and inference costs, reliable agentic workflows and organizational redesign; concentration depends on whether chips, electricity, grid access, cloud, proprietary data and distribution remain scale-constrained.",
+      "transmission": "The shift transmits through entry-level hiring, apprenticeship structures, software pricing and valuation, capital allocation, electricity systems, cloud dependence, bargaining power and international distribution of technology rents.",
+      "falsifier": "The thesis weakens if exposed young-worker hiring recovers while AI adoption rises, seat-based software pricing remains dominant in agentic workflows, generic application margins retain durable premiums, and cloud/compute/energy bottlenecks and concentration fall materially."
+    },
+    "technology_maturity": "deployed-with-uneven-economic-and-social-transmission",
+    "assessment_confidence": "high-on-current-investment-labour-software-and-infrastructure-signals-medium-on-2026-2030-distributional-outcomes",
+    "key_constraints": [
+      "independent productivity measurement",
+      "junior skill formation",
+      "compute and HBM supply",
+      "electricity and grid connections",
+      "cloud switching costs",
+      "trusted workflow integration",
+      "distribution of productivity gains"
+    ]
+  }
+}
