@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-10-04",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -365,7 +365,6 @@
       "type": "editorial-line",
       "status": "active",
       "kind": "country-context",
-      "program": "strategic-transitions",
       "public_route": "/research/hubs/",
       "source_files": [
         "COUNTRY-CONTEXT.md",
@@ -388,7 +387,9 @@
       ],
       "update_mode": "weekly-event-driven",
       "reconciliation_required": false,
-      "freshness_sla_hours": 192
+      "freshness_sla_hours": null,
+      "publication_trigger": "material-change",
+      "screening_cadence": "weekly"
     },
     {
       "id": "editorial-strategic-technology-monthly",
@@ -449,7 +450,9 @@
       ],
       "update_mode": "daily-event-driven",
       "reconciliation_required": false,
-      "freshness_sla_hours": 36
+      "freshness_sla_hours": null,
+      "publication_trigger": "material-change",
+      "screening_cadence": "daily"
     },
     {
       "id": "editorial-institutional-decisions",
@@ -511,7 +514,9 @@
       ],
       "update_mode": "weekly-event-driven",
       "reconciliation_required": false,
-      "freshness_sla_hours": 192
+      "freshness_sla_hours": null,
+      "publication_trigger": "material-change",
+      "screening_cadence": "weekly"
     }
   ]
 }
