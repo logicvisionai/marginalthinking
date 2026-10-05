@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-05T12:38:00-03:00",
+  "last_reconciled_at": "2026-10-05T12:40:11-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -3090,7 +3090,7 @@
     },
     {
       "id": "2026-10-05-global-macro-publication",
-      "reconciled_at": "2026-10-05T12:38:00-03:00",
+      "reconciled_at": "2026-10-05T12:40:11-03:00",
       "report_ids_reviewed": [
         "MT-GM-2026-10-05",
         "MT-TSE-2026-10-05-intelligence-abundance-human-question",
