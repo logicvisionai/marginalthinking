@@ -4,7 +4,7 @@
   "id": "MT-CC-2026-10-04-portugal",
   "slug": "2026-10-04-country-context-portugal",
   "date": "2026-10-04",
-  "published_at": "2026-10-04T01:19:00-03:00",
+  "published_at": "2026-10-04T21:58:00-03:00",
   "kind": "country-context",
   "priority": 18,
   "source_locale": "en",
@@ -163,6 +163,8 @@
     "Housing transaction prices and new-contract rents do not by themselves measure affordability.",
     "Renewable electricity shares cannot be extrapolated to total final energy consumption.",
     "The ENTSO-E blackout report describes a multi-factor interconnected-system event and should not be reduced to a single-country or single-technology cause.",
-    "The NATO 2% accounting measure does not directly measure operational readiness or domestic defence-industry output."
-  ]
+    "The NATO 2% accounting measure does not directly measure operational readiness or domestic defence-industry output.",
+    "Revision 1 corrects the Q2 2026 year-on-year GDP figure to the current INE value of 2.5% and adds the required evidence-bearing geographic map in both locales; the broader analytical thesis is unchanged."
+  ],
+  "revision": 1
 }

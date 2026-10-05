@@ -2,7 +2,7 @@
 
 Portugal em 2026 apresenta uma combinação estrutural que pareceria improvável uma década atrás. A dívida pública caiu fortemente, o orçamento registrou três superávits anuais consecutivos até 2025, o desemprego está próximo do menor nível da série estatística moderna, as receitas do turismo atingiram recordes, a população residente cresceu por imigração e a eletricidade renovável abastece a maior parte do consumo nacional. Ao mesmo tempo, o padrão de vida permanece abaixo da média da União Europeia, a produtividade do trabalho não convergiu de forma significativa para os pares da área do euro, os preços das moradias crescem em dois dígitos e o envelhecimento continua severo por baixo da recente expansão populacional impulsionada pela migração.
 
-Os dados nacionais revisados mostram crescimento real do PIB de 0,8% frente ao trimestre anterior e cerca de 2,6% em relação a um ano antes no segundo trimestre de 2026. A previsão de primavera da Comissão Europeia era mais cautelosa para o ano completo, com 1,7%, porque tempestades, choque de energia e demanda externa mais fraca prejudicaram a perspectiva no início do ano. A diferença mostra por que um dossiê-país precisa separar resultados trimestrais observados de previsões anuais.
+Os dados nacionais revisados mostram crescimento real do PIB de 0,8% frente ao trimestre anterior e cerca de 2,5% em relação a um ano antes no segundo trimestre de 2026. A previsão de primavera da Comissão Europeia era mais cautelosa para o ano completo, com 1,7%, porque tempestades, choque de energia e demanda externa mais fraca prejudicaram a perspectiva no início do ano. A diferença mostra por que um dossiê-país precisa separar resultados trimestrais observados de previsões anuais.
 
 A questão estrutural central é o que acontece depois do ciclo do Mecanismo de Recuperação e Resiliência. O plano português soma €21,9 bilhões. Até agosto de 2026 o país havia recebido €17,23 bilhões, ou 79% da dotação, e em 29 de setembro o governo apresentou o décimo e último pedido de pagamento, cobrindo os €4,672 bilhões restantes líquidos de adiantamentos. Concluir marcos é uma realização administrativa; converter o programa em produtividade permanentemente maior é o teste econômico mais difícil.
 
@@ -260,6 +260,17 @@ Isso dá acesso a mercado maior de equilíbrio e reduz a necessidade de autossuf
 A Península Ibérica, porém, continua relativamente pouco interligada ao restante da Europa continental pelos Pireneus.
 
 O potencial português de exportar energia depende, portanto, parcialmente de infraestrutura fora do próprio território.
+
+```map
+title: Portugal: geografia de transmissão ibérica e atlântica
+Portugal–Espanha | Sistema integrado de eletricidade e gás | O equilíbrio ibérico e o comércio transfronteiriço de energia reduzem a necessidade de autossuficiência nacional completa
+Pireneus | Restrição de interconexão continental | O acesso ibérico ao mercado elétrico europeu continua limitado pela capacidade transfronteiriça através da França
+Sines | Nó atlântico de logística e energia | Porto de águas profundas, infraestrutura energética, ferrovia e conectividade digital ligam rotas atlânticas aos mercados ibérico e europeu
+Açores | Exposição estratégica no Atlântico Norte | O arquipélago amplia a relevância aérea, marítima, de comunicações e defesa no Atlântico Norte central
+Madeira | Economia insular atlântica | Turismo e geografia marítima ampliam a presença econômica portuguesa e simultaneamente elevam custos de infraestrutura
+```
+
+O mapa representa exposição funcional, não rotas precisas nem volumes de fluxo. Ele mostra por que energia, logística e segurança portuguesas não podem ser compreendidas apenas pelo território continental.
 
 ## Sines é um nó estratégico que conecta energia, logística e infraestrutura digital
 

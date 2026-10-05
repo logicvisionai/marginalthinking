@@ -2,7 +2,7 @@
 
 Portugal in 2026 presents a structural combination that would have appeared unlikely a decade earlier. Public debt has fallen sharply, the budget recorded three consecutive annual surpluses through 2025, unemployment is near the lowest level of the modern statistical series, tourism receipts are at record levels, the resident population has increased through immigration, and renewable electricity supplies most national consumption. Yet living standards remain below the European Union average, labour productivity has failed to converge meaningfully with euro-area peers, housing prices are rising at double-digit rates, and population ageing remains severe beneath the recent migration-led expansion.
 
-The revised national data show real GDP growing 0.8% quarter on quarter and about 2.6% year on year in the second quarter of 2026. The European Commission's spring forecast was more cautious for the full year, at 1.7%, because storms, the energy-price shock and weaker external demand affected the early-year outlook. The difference illustrates why a country dossier should separate observed quarterly outcomes from annual forecasts.
+The revised national data show real GDP growing 0.8% quarter on quarter and about 2.5% year on year in the second quarter of 2026. The European Commission's spring forecast was more cautious for the full year, at 1.7%, because storms, the energy-price shock and weaker external demand affected the early-year outlook. The difference illustrates why a country dossier should separate observed quarterly outcomes from annual forecasts.
 
 The central structural question is what happens after the European Recovery and Resilience Facility cycle ends. Portugal's recovery plan totals €21.9 billion. By August 2026 it had received €17.23 billion, or 79% of the total allocation, and on 29 September the government submitted the tenth and final payment request, covering the remaining €4.672 billion net of advances. Completing milestones is an administrative achievement; converting the programme into permanently higher productivity is the harder economic test.
 
@@ -260,6 +260,17 @@ This gives the country access to a larger balancing market and reduces the need 
 The Iberian Peninsula, however, remains relatively weakly connected to the rest of continental Europe across the Pyrenees.
 
 Portugal's energy-export potential therefore depends partly on infrastructure outside its own territory.
+
+```map
+title: Portugal: Iberian and Atlantic transmission geography
+Portugal–Spain | Integrated electricity and gas system | Shared Iberian balancing and cross-border energy trade reduce the need for complete national self-sufficiency
+Pyrenees | Continental interconnection constraint | Iberian access to the wider European electricity market remains limited by cross-border capacity through France
+Sines | Atlantic logistics and energy node | Deep-water port, energy infrastructure, rail links and digital connectivity connect Atlantic routes with Iberian and European markets
+Azores | North Atlantic strategic exposure | The archipelago extends air, maritime, communications and defence relevance into the central North Atlantic
+Madeira | Atlantic island economy | Tourism and maritime geography extend Portugal's economic footprint while increasing infrastructure costs
+```
+
+The map encodes functional exposure rather than precise routes or flow volumes. It shows why Portugal's energy, logistics and security mechanisms cannot be understood from continental territory alone.
 
 ## Sines is a strategic node connecting energy, logistics and digital infrastructure
 
