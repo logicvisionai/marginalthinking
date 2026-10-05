@@ -71,7 +71,7 @@
       "key_risk": "Produtividade fraca e juros elevados comprimem espaço fiscal antes que investimentos em habitação, redes, defesa e indústria elevem capacidade produtiva.",
       "watch": [
         "Produto por hora e investimento empresarial",
-        "Yields de gilts, juros da dívida e déficit",
+        "Rendimentos dos títulos públicos britânicos (gilts), juros da dívida e déficit",
         "Fricções Reino Unido-UE e exportação de serviços",
         "Habitação, planejamento e conexões à rede",
         "Investimento em energia limpa e custo industrial entregue",
@@ -149,6 +149,8 @@
     "The latest population estimate is mid-2025 and the latest long-term migration flow is the year ending December 2025.",
     "The March 2026 OBR fiscal forecast predates the July 2026 change of prime minister and is used as an inherited baseline rather than a full current-policy forecast.",
     "Great Britain clean-power metrics exclude Northern Ireland and are not identical to whole-UK energy statistics.",
-    "Government industrial, energy and defence targets are policy commitments, not evidence of completed investment or capacity."
-  ]
+    "Government industrial, energy and defence targets are policy commitments, not evidence of completed investment or capacity.",
+    "Revision 1 localizes reader-facing PT-BR chart units and hybrid terminology rejected in revision 0 without changing figures, causal qualifications, scenarios or conclusions."
+  ],
+  "revision": 1
 }
