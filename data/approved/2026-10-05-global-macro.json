@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-05",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-05T12:36:00-03:00",
+  "reviewed_commit": "7aea9bd9a26240f887b78c46ad58b35dd8972a1c",
+  "pending_blob_sha": "2d4787bb30d105b25777e6041fada778c5da9fb1",
+  "source_blob_shas": {
+    "en": "4df75af670773a0736700572f7928cb10378e393",
+    "pt-BR": "54b9415f01f921502281e7045e4a85d207ea236a"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_intraday_limitations",
+      "summary": "ISM Services, ISM Manufacturing, S&P Global manufacturing, BLS employment, TSE election results and BCB Focus are first-party or primary sources. Intraday market levels are clearly time-bounded and sourced separately rather than presented as official closing data."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "The 5 October lead moves beyond the 4 October OPEC+ decision. The new analytical delta is the collision between still-expansionary U.S. services and global manufacturing, exceptionally high business price diffusion, weak U.S. payroll growth, elevated long yields, and Brazil's post-first-round repricing."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The opening states the regime directly, separates current data from inference, treats intraday prices as provisional and avoids turning the Brazil market reaction into a forecast of electoral or fiscal outcomes."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The brief connects labour, business surveys, inflation transmission, long rates, energy, global industrial demand and Brazil's election/expectations shock through explicit mechanisms and falsifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 4 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "summary": "Visual floor for a brief is exceeded. Diffusion-index charts use compatible units; the Brazil vote-share chart uses TSE percentages; qualitative map and flow reproduce mechanisms stated in prose.",
+      "limitations": "The selected PMI measures use different survey populations and should be read directionally. Market prices in prose are intraday and are not used in quantitative charts."
+    }
+  },
+  "contrary_evidence": [
+    "Weak September payroll growth points toward softer future U.S. demand even while PMIs remain expansionary.",
+    "The U.S. services employment index returned slightly above 50, so the survey does not confirm a broad services employment contraction in September.",
+    "Oil eased from weekend risk levels on 5 October, which limits any claim of a new immediate energy shock despite still-high absolute prices.",
+    "Brazil's one-day market repricing does not establish a durable fiscal regime or the outcome of the 25 October runoff."
+  ],
+  "limitations": [
+    "Intraday market prices can change materially before the 5 October close.",
+    "PMI diffusion indexes measure breadth and direction, not output growth rates directly; S&P Global's almost-4% global production figure is an empirical mapping from the survey output index.",
+    "The Focus survey released on 5 October reflects expectations collected before the 4 October Brazilian election and should not be interpreted as a post-election consensus.",
+    "Election-driven market moves reveal repricing of probabilities, not proof of future policy implementation."
+  ],
+  "notes": "Approved for same-day publication. All material changes relative to the 4 October daily are explicit and the Brazil section uses official TSE results plus time-stamped intraday market evidence.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-05",
+    "slug": "2026-10-05-global-macro",
+    "date": "2026-10-05",
+    "published_at": "2026-10-05T12:32:57-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-05-global-macro/en.md",
+        "title": "Global Macro — activity remains firm, service prices reaccelerate and markets test how much relief weaker labour really allows",
+        "deck": "U.S. services remain in expansion and global manufacturing is at its strongest since 2022, while weak payrolls, high business price indexes, 5%+ long yields and Brazil's post-election repricing create a more unstable policy mix.",
+        "tags": [
+          "global macro",
+          "United States",
+          "ISM Services",
+          "inflation",
+          "Treasuries",
+          "Brazil election",
+          "oil",
+          "manufacturing"
+        ],
+        "keywords": [
+          "Global Macro October 5 2026",
+          "ISM Services September 2026",
+          "US services prices 74",
+          "global manufacturing PMI 53",
+          "Treasury 10 year 5.29",
+          "Brazil election 2026 market reaction",
+          "Focus IPCA 5.01"
+        ],
+        "regime": "Activity remains expansionary across U.S. services and global manufacturing while labour demand softens before business price pressure and long-term financing costs have normalized.",
+        "key_risk": "Markets may be pricing monetary relief from weaker labour faster than inflationary cost pressure is actually fading, leaving both duration-sensitive assets and highly valued equities exposed to a renewed rates shock.",
+        "watch": [
+          "FOMC minutes",
+          "U.S. CPI on 14 October",
+          "weekly jobless claims",
+          "10-year Treasury around the 5% threshold",
+          "oil and freight costs",
+          "Brazil runoff on 25 October",
+          "post-first-round Focus expectations"
+        ],
+        "search_text": "Global Macro October 5 2026 ISM services prices global manufacturing PMI payroll Treasury yields Brazil election Focus inflation oil"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-05-global-macro/pt-BR.md",
+        "title": "Macro Global — atividade permanece firme, preços de serviços reaceleram e mercados testam quanto alívio o trabalho mais fraco realmente permite",
+        "deck": "Serviços dos EUA seguem em expansão e a manufatura global está no nível mais forte desde 2022, enquanto payroll fraco, índices elevados de preços, juros longos acima de 5% e o repricing pós-eleição no Brasil criam uma combinação de política mais instável.",
+        "tags": [
+          "macro global",
+          "Estados Unidos",
+          "ISM Services",
+          "inflação",
+          "Treasuries",
+          "eleição Brasil",
+          "petróleo",
+          "manufatura"
+        ],
+        "keywords": [
+          "Macro Global 5 outubro 2026",
+          "ISM Services setembro 2026",
+          "preços serviços EUA 74",
+          "PMI manufatura global 53",
+          "Treasury 10 anos 5.29",
+          "eleição Brasil 2026 mercado",
+          "Focus IPCA 5.01"
+        ],
+        "regime": "A atividade permanece em expansão nos serviços dos EUA e na manufatura global enquanto a demanda por trabalho enfraquece antes de a pressão de preços empresariais e o custo de financiamento de longo prazo normalizarem.",
+        "key_risk": "Os mercados podem estar precificando alívio monetário a partir do trabalho mais fraco mais rapidamente do que a inflação de custos está desaparecendo, deixando ativos sensíveis à duração e ações de valuation elevado expostos a novo choque de juros.",
+        "watch": [
+          "ata do FOMC",
+          "CPI dos EUA em 14 de outubro",
+          "pedidos semanais de seguro-desemprego",
+          "Treasury de 10 anos em torno de 5%",
+          "petróleo e fretes",
+          "segundo turno do Brasil em 25 de outubro",
+          "Focus pós-primeiro turno"
+        ],
+        "search_text": "Macro Global 5 outubro 2026 ISM serviços preços PMI manufatura global payroll Treasury juros eleição Brasil Focus inflação petróleo"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "south-america",
+        "western-europe",
+        "gulf",
+        "east-asia"
+      ],
+      "countries": [
+        "BR",
+        "US"
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "demography-labor",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
