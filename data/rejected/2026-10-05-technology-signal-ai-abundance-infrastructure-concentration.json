@@ -1,0 +1,81 @@
+{
+  "schema_version": 2,
+  "id": "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-05T18:14:41-03:00",
+  "reviewed_commit": "3267a335faa09df8d424bdd264aaa8ab46321fdb",
+  "pending_blob_sha": "48500670972a0e364c7f2fb7c3fbe5fcf125d2cf",
+  "source_blob_shas": {
+    "en": "375cc39d1ba94a1a090fea2f6a6c13b0957bf75f",
+    "pt-BR": "13c7defbddeb9cd8567cb0d9993c91add107fa58"
+  },
+  "program": "technology-production-society",
+  "confidence": "high",
+  "taxonomy_check": "passed",
+  "translation_check": "passed_with_editorial_localization_issues",
+  "blocking_issues": [
+    {
+      "type": "factual_currency",
+      "location": "EN/PT-BR infrastructure-capital discussion of NVIDIA/OpenAI",
+      "issue": "The report treats NVIDIA's up-to-$100bn OpenAI investment / 10 GW arrangement as a current capital signal without incorporating the subsequent 2026 restructuring. The cited September 2025 announcement was explicitly a letter of intent. By February-March 2026 the original $100bn framing had been superseded/materially restructured around a disclosed $30bn NVIDIA investment, and contemporaneous October 2026 reporting describes completion of the later financing tranche. For a report dated 2026-10-05, using the old headline amount as current evidence materially overstates the status of the commitment.",
+      "required_fix": "Replace the stale $100bn framing with the current 2026 status, distinguish the 2025 non-binding LOI from subsequently disclosed investment/compute arrangements, and re-evaluate any concentration/capital-allocation inference that depends on the larger number. Cite primary/current disclosures where available."
+    },
+    {
+      "type": "technology_signal_delta",
+      "location": "pending.signal_rationale.delta and opening thesis",
+      "issue": "The asserted weekly delta is primarily a synthesis of already-known labour, SaaS, cloud, energy and capital trends rather than a clearly dated new technological capability, deployment, scaling milestone or independently replicated change. TECHNOLOGY-SIGNALS.md requires a material delta and rejects a signal that exists mainly to fill cadence or relies on funding/valuation/vendor claims. The current rationale does not identify which evidence newly changed the baseline this week.",
+      "required_fix": "Anchor the signal to one or more concrete, dated changes since the prior baseline; state what was not previously true, open the primary evidence for that delta, and show how it changes the scale path or transmission mechanism. If no such delta exists, do not publish this as the weekly technology signal."
+    },
+    {
+      "type": "editorial_localization",
+      "location": "PT-BR metadata and prose",
+      "issue": "The PT-BR edition repeatedly retains avoidable English/internal-market vocabulary such as 'compute', 'workflows', 'cloud', 'outcome pricing' and 'valuations' without consistent first-use explanation or natural Portuguese rendering. This conflicts with the publication-readiness localization gate.",
+      "required_fix": "Localize ordinary analytical vocabulary into natural PT-BR, retaining English only where it is an established term that materially improves precision and explaining it on first use."
+    }
+  ],
+  "required_fixes": [
+    "Correct the NVIDIA/OpenAI capital-status chronology through October 2026 and propagate the correction to EN and PT-BR.",
+    "Demonstrate a genuine weekly technology delta against the prior baseline rather than a cross-sectional synthesis of known trends.",
+    "Re-run contrary-evidence analysis after correcting the capital evidence and separate announced, demonstrated, deployed and scaled states.",
+    "Normalize PT-BR localization and then re-check semantic parity.",
+    "Preserve the existing valid taxonomy and visual layer, but revalidate every visual/caption affected by factual changes."
+  ],
+  "evidence": [
+    "NVIDIA/OpenAI 2025 primary announcement described an intent to invest up to $100bn progressively and explicitly characterized the arrangement as a letter of intent, with final details still to be agreed.",
+    "Subsequent 2026 evidence reports that the original up-to-$100bn proposal did not remain the operative commitment and that a different $30bn NVIDIA investment structure was disclosed.",
+    "Current October 2026 reporting on OpenAI financing describes NVIDIA and SoftBank completing later committed tranches, reinforcing that the 2025 $100bn headline cannot be presented as the current completed commitment.",
+    "The pending signal_rationale.delta itself describes a connection among labour, valuations, pricing, regulation and energy evidence, but does not identify a discrete new weekly capability/deployment/scaling event that changes the prior technological baseline."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Opening and analytical structure are generally readable, but PT-BR localization remains too dependent on raw English vocabulary and a material stale capital claim propagates into the argument."
+    },
+    "contextual_depth": {
+      "result": "passed_with_revalidation_required",
+      "summary": "The report connects labour, software economics, infrastructure, competition and distributional effects through mechanisms rather than ornamental context; those mechanisms must be revalidated after the capital-status correction."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_with_revalidation_required",
+      "signature": "evidence tables plus structural/causal visuals in both locales",
+      "summary": "The staged editions contain an analytical visual layer rather than decorative imagery, but any visual or caption using the stale NVIDIA/OpenAI framing must be corrected and parity rechecked.",
+      "limitations": "Visual factual integrity cannot be finally passed until the underlying capital chronology is corrected."
+    },
+    "technology_signal_intelligence": {
+      "result": "failed",
+      "summary": "Maturity distinctions and constraints are discussed, but the candidate does not yet establish a sufficiently specific new weekly delta against the prior baseline."
+    }
+  },
+  "contrary_evidence": [
+    "The 2025 NVIDIA/OpenAI announcement itself was forward-looking and non-binding, weakening its use as evidence of realized 2026 capital concentration.",
+    "Later 2026 financing evidence indicates a smaller/restructured NVIDIA investment rather than execution of the original $100bn headline commitment.",
+    "The report itself cites mixed productivity evidence, which argues against treating falling cognitive-task cost as a uniform deployed outcome across workflows."
+  ],
+  "limitations": [
+    "Several broad labour and software-market mechanisms are plausible and supported, but this rejection does not imply that the overall abundance/concentration thesis is false; it blocks publication because a material capital fact is stale and the weekly-signal delta is insufficiently demonstrated.",
+    "External evidence on private-company financing can change quickly; the producer should prefer current first-party disclosures and explicitly timestamp secondary reporting."
+  ],
+  "notes": "Rejected before materialization. No reports/, HTML, data/reports.json or global site surfaces were changed."
+}
