@@ -1,5 +1,176 @@
 [
   {
+    "id": "MT-CC-2026-10-04-lithuania",
+    "slug": "2026-10-04-country-context-lithuania",
+    "date": "2026-10-04",
+    "published_at": "2026-10-04T22:24:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "eastern-europe-balkans"
+      ],
+      "countries": [
+        {
+          "code": "LT",
+          "slug": "lithuania"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "demographic-transition",
+      "migration-displacement",
+      "institutional-change",
+      "social-change",
+      "war-armed-conflict"
+    ],
+    "selection_rationale": "The canonical Europe–Russia–Ukraine security-system report explicitly distinguishes Poland and the Baltic states because historical memory and geographic proximity make Russian military power a more immediate national-security variable. Lithuania lacks a reusable country dossier despite being a key Baltic state where defence spending, German force deployment, energy decoupling, Polish connectivity, demographics and productivity are tightly linked. Existing Russia, Poland and Germany dossiers make the Lithuanian context directly reusable.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CS-2026-09-20-EUR-RU-UA",
+      "MT-CC-2026-09-23-russia",
+      "MT-CC-2026-10-03-poland",
+      "MT-CC-2026-10-03-germany"
+    ],
+    "contrary_evidence": [
+      "Defence spending above 5% of GDP and proximity to Russia support a high-security-burden thesis, while euro-area membership, moderate debt, strong institutions and sustained growth argue against treating Lithuania as economically fragile.",
+      "Population decline and ageing constrain labour supply, but positive international migration and high wage growth have recently supported employment and domestic demand.",
+      "Russian electricity-system dependence has ended and LNG plus renewables have diversified supply, but imports, interconnections and storage remain necessary, so energy independence should not be described as autarky.",
+      "A small domestic market constrains scale, while lasers, fintech and higher-technology manufacturing demonstrate that deep EU integration and specialised exports can overcome some scale limits."
+    ],
+    "limitations": [
+      "2026 growth and inflation forecasts vary by source and forecast date; they are attributed rather than averaged.",
+      "The 5.38% of GDP defence figure is a budget allocation and does not directly measure military effectiveness or domestic value added.",
+      "The German brigade remains in deployment and infrastructure build-out; full operational capability is planned for 2027.",
+      "Renewable shares of domestic generation and of total electricity demand are different measures and are kept separate.",
+      "Migration and population data can be revised; positive net migration does not eliminate negative natural population change.",
+      "RRF payment requests and milestone completion do not directly measure long-run productivity outcomes.",
+      "Security framing in official Lithuanian sources reflects the state's documented policy assessment; factual capabilities and expenditures are separated from political interpretation."
+    ],
+    "url": "/reports/2026/10/2026-10-04-country-context-lithuania.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-04T22:14:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "e6354330ee51af90f8751f19fef7d0e7a004298a",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Lithuania: security-state investment, energy decoupling and the productivity limits of Baltic convergence",
+        "deck": "Lithuania has combined rapid EU income convergence with energy decoupling from Russia and defence spending above 5% of GDP; the structural test is whether security mobilisation, renewable investment and EU funds raise productivity fast enough to offset ageing and a shrinking labour base.",
+        "tags": [
+          "Lithuania",
+          "Baltic states",
+          "defence",
+          "energy security",
+          "productivity",
+          "demography",
+          "NATO",
+          "European Union"
+        ],
+        "keywords": [
+          "Lithuania economy 2026",
+          "Lithuania defence spending",
+          "Lithuania German brigade",
+          "Baltic energy synchronisation",
+          "Lithuania renewables",
+          "Lithuania productivity",
+          "Lithuania demography",
+          "Klaipeda LNG"
+        ],
+        "regime": "Small euro-area economy combining strong income convergence, rapid renewable and energy-security investment, and exceptionally high defence mobilisation under demographic and productivity constraints.",
+        "key_risk": "Persistent defence and social spending raise public debt while labour supply shrinks, causing wages and fiscal commitments to outpace productivity before security investment generates sufficient civilian value added.",
+        "watch": [
+          "Productivity and GDP-per-capita convergence",
+          "Defence spending and German brigade infrastructure",
+          "Public debt and medium-term fiscal balance",
+          "Population, migration and skills mismatches",
+          "Wages relative to productivity",
+          "Renewable generation, storage and electricity imports",
+          "Klaipėda LNG regional utilisation",
+          "Private investment after RRF completion"
+        ],
+        "search_text": "Lithuania 2026 Baltic security defence 5.38 GDP German brigade Russia Kaliningrad Belarus Poland energy synchronisation Klaipeda LNG renewables productivity migration demography euro RRF"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Lituânia: investimento em Estado de segurança, desacoplamento energético e limites de produtividade da convergência báltica",
+        "deck": "A Lituânia combinou rápida convergência de renda na UE com desacoplamento energético da Rússia e gasto de defesa acima de 5% do PIB; o teste estrutural é se mobilização de segurança, investimento renovável e fundos europeus elevam produtividade rápido o suficiente para compensar envelhecimento e menor oferta de trabalho.",
+        "tags": [
+          "Lituânia",
+          "Estados Bálticos",
+          "defesa",
+          "segurança energética",
+          "produtividade",
+          "demografia",
+          "OTAN",
+          "União Europeia"
+        ],
+        "keywords": [
+          "economia Lituânia 2026",
+          "gasto defesa Lituânia",
+          "brigada alemã Lituânia",
+          "sincronização energia Báltico",
+          "renováveis Lituânia",
+          "produtividade Lituânia",
+          "demografia Lituânia",
+          "GNL Klaipėda"
+        ],
+        "regime": "Pequena economia da área do euro combinando forte convergência de renda, rápido investimento em renováveis e segurança energética e mobilização excepcional de defesa sob restrições demográficas e de produtividade.",
+        "key_risk": "Gastos persistentes com defesa e proteção social elevam a dívida enquanto a oferta de trabalho diminui, fazendo salários e compromissos fiscais crescerem mais rápido que produtividade antes que o investimento de segurança gere valor adicionado civil suficiente.",
+        "watch": [
+          "Produtividade e convergência do PIB por habitante",
+          "Gasto de defesa e infraestrutura da brigada alemã",
+          "Dívida pública e saldo fiscal de médio prazo",
+          "População, migração e incompatibilidade de competências",
+          "Salários em relação à produtividade",
+          "Geração renovável, armazenamento e importações elétricas",
+          "Utilização regional do terminal de GNL de Klaipėda",
+          "Investimento privado após o fim do MRR"
+        ],
+        "search_text": "Lituânia 2026 segurança Báltico defesa 5,38 PIB brigada alemã Rússia Kaliningrado Belarus Polônia sincronização energia GNL Klaipėda renováveis produtividade migração demografia euro MRR"
+      }
+    }
+  },
+  {
     "id": "MT-CC-2026-10-04-turkiye",
     "slug": "2026-10-04-country-context-turkiye",
     "date": "2026-10-04",
