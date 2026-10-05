@@ -1,0 +1,206 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-28-afghanistan",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-04T22:14:00-03:00",
+  "reviewed_commit": "df757b8cbc750b8716353d10fa4c2b0e58a14cf5",
+  "pending_blob_sha": "c74805893d0b476d4d7c31773c903b91e5ae3a0b",
+  "source_blob_shas": {
+    "en": "98b8bdfe98bc44080952c65ad37fff580eabd666",
+    "pt-BR": "8a433255c076ae8d684f8da2f2f27bcd31af7183"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodological": {
+      "result": "passed",
+      "summary": "Revision 1 separates the December 2025 projection from the Spring 2026 World Bank estimate (2025 real GDP +4.8%, population about +11%, GDP per capita -5.6%) and acknowledges the 30 September 2026 Economic Monitor as a distinct monitoring vintage. Return flows, opium data and justice-access claims were rechecked against UNHCR/IOM, UNODC and UNAMA."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Both locales exceed the 1,600-substantive-word floor without filler, retain mechanism-bearing country context and remove the revision-0 asymmetry."
+    },
+    "translation_semantic_parity": {
+      "result": "passed",
+      "summary": "PT-BR now restores the omitted grant-dependence, banking asset-quality, women's medical-education, TTP attribution, return-migration and external-relations mechanisms while preserving the EN qualifications."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain the same map, state-revenue flow, updated World Bank macro chart, finance diagram and human-capital flow. The chart is now explicitly tied to the Spring 2026 estimate rather than an obsolete projection."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "De facto authorities' positions and competing Afghanistan-Pakistan security claims remain attributed; no party, government or armed actor is endorsed."
+    }
+  },
+  "contrary_evidence": [
+    "Territorial consolidation and stronger revenue collection contradict a simple failed-state description.",
+    "Aggregate GDP recovery does not imply household recovery when population grows faster and per-capita output falls.",
+    "Opium suppression demonstrates enforcement capacity but not a replacement rural economy.",
+    "Exchange-rate stability does not establish normal financial intermediation.",
+    "Geological resources do not constitute operating industrial capacity."
+  ],
+  "limitations": [
+    "No recent comprehensive census; population estimates change rapidly with mass returns.",
+    "International estimates use different periods and methods and should not be merged mechanically.",
+    "Fiscal, security and financial data are less transparent than in a normal statistical system.",
+    "Competing state claims on armed groups are attributed rather than treated as independently verified facts.",
+    "Planned infrastructure and announced mining projects are not treated as operating capacity.",
+    "Revision 1 reconciles World Bank 2025 macro vintages with 2026 estimates, updates the information cutoff to 4 October 2026, restores full EN/PT-BR semantic parity and expands both locales above the current country-dossier depth floor."
+  ],
+  "notes": "Revision 1 supersedes the retained QA rejection by correcting the macro vintage, expanding both locales above the depth floor and restoring EN/PT-BR parity. The related 2021 transition remains a separate canonical assessment.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CC-2026-09-28-afghanistan",
+    "slug": "2026-09-28-country-context-afghanistan",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T18:00:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/09/2026-09-28-country-context-afghanistan/en.md",
+        "title": "Afghanistan: state formation, corridor dependence and the political economy of a landlocked society",
+        "deck": "Afghanistan's post-2021 order sits on older constraints: fragmented geography, external-resource dependence, shallow formal finance, a narrow productive base and a young population whose productive potential is constrained by weak capital formation and restrictions on women and girls.",
+        "tags": [
+          "Afghanistan",
+          "state capacity",
+          "trade corridors",
+          "human capital",
+          "agriculture",
+          "finance"
+        ],
+        "keywords": [
+          "Afghanistan political economy",
+          "Afghanistan country context",
+          "Afghanistan trade corridors",
+          "Afghanistan banking",
+          "Afghanistan women education"
+        ],
+        "regime": "Centralized de facto order over a low-income, import-dependent and financially shallow economy exposed to regional corridors, return migration and human-capital constraints.",
+        "key_risk": "Population and returnee pressure, aid retrenchment, border disruption, climate stress and human-capital losses may outpace private investment and productive diversification.",
+        "watch": [
+          "Real GDP per capita and employment",
+          "Domestic revenue and service spending",
+          "Formal credit and cross-border payments",
+          "Girls' education and female employment",
+          "Border closures and trade rerouting",
+          "Agricultural productivity",
+          "CASA-1000, Qosh Tepa and operating mining capacity"
+        ],
+        "search_text": "Afghanistan country context political economy state formation trade corridors banking agriculture education migration minerals water 2026"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/09/2026-09-28-country-context-afghanistan/pt-BR.md",
+        "title": "Afeganistão: formação do Estado, dependência de corredores e economia política",
+        "deck": "A ordem pós-2021 repousa sobre restrições antigas: geografia fragmentada, dependência de recursos externos, finanças formais rasas, base produtiva estreita e população jovem cujo potencial é limitado por baixa formação de capital e por restrições sobre mulheres e meninas.",
+        "tags": [
+          "Afeganistão",
+          "capacidade estatal",
+          "corredores comerciais",
+          "capital humano",
+          "agricultura",
+          "finanças"
+        ],
+        "keywords": [
+          "economia política Afeganistão",
+          "contexto país Afeganistão",
+          "corredores comerciais Afeganistão",
+          "bancos Afeganistão",
+          "educação Afeganistão"
+        ],
+        "regime": "Ordem de facto centralizada sobre economia de baixa renda, importadora e financeiramente rasa, exposta a corredores regionais, migração de retorno e restrições de capital humano.",
+        "key_risk": "Pressão populacional e de retornados, retração da ajuda, disrupção fronteiriça, clima e perdas de capital humano podem superar investimento e diversificação produtiva.",
+        "watch": [
+          "PIB real per capita e emprego",
+          "Receita doméstica e serviços",
+          "Crédito formal e pagamentos",
+          "Educação e emprego feminino",
+          "Fechamentos de fronteira",
+          "Produtividade agrícola",
+          "CASA-1000, Qosh Tepa e mineração operacional"
+        ],
+        "search_text": "Afeganistão contexto país economia política formação Estado corredores comércio bancos agricultura educação migração minerais água 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "south-asia"
+      ],
+      "countries": [
+        {
+          "code": "AF",
+          "slug": "afghanistan"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "defense-security",
+      "political-stability",
+      "migration-displacement",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-ST-2026-09-28-afghanistan-post-2021"
+    ],
+    "selection_rationale": "The published post-2021 Strategic Transition establishes a material Afghanistan mechanism but focuses on the transition itself. Reusable context remains missing for state formation, corridor geography, productive structure, finance, demography, human capital, water and regional dependence.",
+    "contrary_evidence": [
+      "Territorial consolidation and stronger revenue collection contradict a simple failed-state description.",
+      "Aggregate GDP recovery does not imply household recovery when population grows faster and per-capita output falls.",
+      "Opium suppression demonstrates enforcement capacity but not a replacement rural economy.",
+      "Exchange-rate stability does not establish normal financial intermediation.",
+      "Geological resources do not constitute operating industrial capacity."
+    ],
+    "limitations": [
+      "No recent comprehensive census; population estimates change rapidly with mass returns.",
+      "International estimates use different periods and methods and should not be merged mechanically.",
+      "Fiscal, security and financial data are less transparent than in a normal statistical system.",
+      "Competing state claims on armed groups are attributed rather than treated as independently verified facts.",
+      "Planned infrastructure and announced mining projects are not treated as operating capacity.",
+      "Revision 1 reconciles World Bank 2025 macro vintages with 2026 estimates, updates the information cutoff to 4 October 2026, restores full EN/PT-BR semantic parity and expands both locales above the current country-dossier depth floor."
+    ],
+    "revision": 1
+  }
+}
