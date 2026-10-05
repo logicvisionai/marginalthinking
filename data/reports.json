@@ -2358,6 +2358,162 @@
     "qa_reviewed_commit": "94dcf187582b39a0b0d8af7110513fe17da4302d"
   },
   {
+    "id": "MT-CC-2026-09-28-afghanistan",
+    "slug": "2026-09-28-country-context-afghanistan",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T18:00:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "south-asia"
+      ],
+      "countries": [
+        {
+          "code": "AF",
+          "slug": "afghanistan"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "phenomena": [
+      "war-armed-conflict",
+      "defense-security",
+      "political-stability",
+      "migration-displacement",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "selection_rationale": "The published post-2021 Strategic Transition establishes a material Afghanistan mechanism but focuses on the transition itself. Reusable context remains missing for state formation, corridor geography, productive structure, finance, demography, human capital, water and regional dependence.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-ST-2026-09-28-afghanistan-post-2021"
+    ],
+    "contrary_evidence": [
+      "Territorial consolidation and stronger revenue collection contradict a simple failed-state description.",
+      "Aggregate GDP recovery does not imply household recovery when population grows faster and per-capita output falls.",
+      "Opium suppression demonstrates enforcement capacity but not a replacement rural economy.",
+      "Exchange-rate stability does not establish normal financial intermediation.",
+      "Geological resources do not constitute operating industrial capacity."
+    ],
+    "limitations": [
+      "No recent comprehensive census; population estimates change rapidly with mass returns.",
+      "International estimates use different periods and methods and should not be merged mechanically.",
+      "Fiscal, security and financial data are less transparent than in a normal statistical system.",
+      "Competing state claims on armed groups are attributed rather than treated as independently verified facts.",
+      "Planned infrastructure and announced mining projects are not treated as operating capacity.",
+      "Revision 1 reconciles World Bank 2025 macro vintages with 2026 estimates, updates the information cutoff to 4 October 2026, restores full EN/PT-BR semantic parity and expands both locales above the current country-dossier depth floor."
+    ],
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "url": "/reports/2026/09/2026-09-28-country-context-afghanistan.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-04T22:14:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "df757b8cbc750b8716353d10fa4c2b0e58a14cf5",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Afghanistan: state formation, corridor dependence and the political economy of a landlocked society",
+        "deck": "Afghanistan's post-2021 order sits on older constraints: fragmented geography, external-resource dependence, shallow formal finance, a narrow productive base and a young population whose productive potential is constrained by weak capital formation and restrictions on women and girls.",
+        "tags": [
+          "Afghanistan",
+          "state capacity",
+          "trade corridors",
+          "human capital",
+          "agriculture",
+          "finance"
+        ],
+        "keywords": [
+          "Afghanistan political economy",
+          "Afghanistan country context",
+          "Afghanistan trade corridors",
+          "Afghanistan banking",
+          "Afghanistan women education"
+        ],
+        "regime": "Centralized de facto order over a low-income, import-dependent and financially shallow economy exposed to regional corridors, return migration and human-capital constraints.",
+        "key_risk": "Population and returnee pressure, aid retrenchment, border disruption, climate stress and human-capital losses may outpace private investment and productive diversification.",
+        "watch": [
+          "Real GDP per capita and employment",
+          "Domestic revenue and service spending",
+          "Formal credit and cross-border payments",
+          "Girls' education and female employment",
+          "Border closures and trade rerouting",
+          "Agricultural productivity",
+          "CASA-1000, Qosh Tepa and operating mining capacity"
+        ],
+        "search_text": "Afghanistan country context political economy state formation trade corridors banking agriculture education migration minerals water 2026"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Afeganistão: formação do Estado, dependência de corredores e economia política",
+        "deck": "A ordem pós-2021 repousa sobre restrições antigas: geografia fragmentada, dependência de recursos externos, finanças formais rasas, base produtiva estreita e população jovem cujo potencial é limitado por baixa formação de capital e por restrições sobre mulheres e meninas.",
+        "tags": [
+          "Afeganistão",
+          "capacidade estatal",
+          "corredores comerciais",
+          "capital humano",
+          "agricultura",
+          "finanças"
+        ],
+        "keywords": [
+          "economia política Afeganistão",
+          "contexto país Afeganistão",
+          "corredores comerciais Afeganistão",
+          "bancos Afeganistão",
+          "educação Afeganistão"
+        ],
+        "regime": "Ordem de facto centralizada sobre economia de baixa renda, importadora e financeiramente rasa, exposta a corredores regionais, migração de retorno e restrições de capital humano.",
+        "key_risk": "Pressão populacional e de retornados, retração da ajuda, disrupção fronteiriça, clima e perdas de capital humano podem superar investimento e diversificação produtiva.",
+        "watch": [
+          "PIB real per capita e emprego",
+          "Receita doméstica e serviços",
+          "Crédito formal e pagamentos",
+          "Educação e emprego feminino",
+          "Fechamentos de fronteira",
+          "Produtividade agrícola",
+          "CASA-1000, Qosh Tepa e mineração operacional"
+        ],
+        "search_text": "Afeganistão contexto país economia política formação Estado corredores comércio bancos agricultura educação migração minerais água 2026"
+      }
+    }
+  },
+  {
     "id": "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
     "slug": "2026-09-28-strategic-transition-hong-kong-institutional-financial-transition",
     "date": "2026-09-28",
