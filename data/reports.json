@@ -1,5 +1,105 @@
 [
   {
+    "id": "MT-GM-2026-10-05",
+    "date": "2026-10-05",
+    "published_at": "2026-10-05T12:32:57-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf",
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "demography-labor",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "source_locale": "en",
+    "title": "Global Macro — activity remains firm, service prices reaccelerate and markets test how much relief weaker labour really allows",
+    "deck": "U.S. services remain in expansion and global manufacturing is at its strongest since 2022, while weak payrolls, high business price indexes, 5%+ long yields and Brazil's post-election repricing create a more unstable policy mix.",
+    "url": "/reports/2026/10/2026-10-05-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-05-global-macro/en.md",
+    "tags": [
+      "global macro",
+      "United States",
+      "ISM Services",
+      "inflation",
+      "Treasuries",
+      "Brazil election",
+      "oil",
+      "manufacturing"
+    ],
+    "keywords": [
+      "Global Macro October 5 2026",
+      "ISM Services September 2026",
+      "US services prices 74",
+      "global manufacturing PMI 53",
+      "Treasury 10 year 5.29",
+      "Brazil election 2026 market reaction",
+      "Focus IPCA 5.01"
+    ],
+    "regime": "Activity remains expansionary across U.S. services and global manufacturing while labour demand softens before business price pressure and long-term financing costs have normalized.",
+    "key_risk": "Markets may be pricing monetary relief from weaker labour faster than inflationary cost pressure is actually fading, leaving both duration-sensitive assets and highly valued equities exposed to a renewed rates shock.",
+    "watch": [
+      "FOMC minutes",
+      "U.S. CPI on 14 October",
+      "weekly jobless claims",
+      "10-year Treasury around the 5% threshold",
+      "oil and freight costs",
+      "Brazil runoff on 25 October",
+      "post-first-round Focus expectations"
+    ],
+    "search_text": "Global Macro October 5 2026 ISM services prices global manufacturing PMI payroll Treasury yields Brazil election Focus inflation oil",
+    "revision": 0,
+    "qa_reviewed_at": "2026-10-05T12:43:01-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "79612a0ced5471f1ab8fabd1f836c1c1bbb98b57"
+  },
+  {
     "id": "MT-TSE-2026-10-05-intelligence-abundance-human-question",
     "date": "2026-10-05",
     "published_at": "2026-10-05T11:00:00-03:00",
