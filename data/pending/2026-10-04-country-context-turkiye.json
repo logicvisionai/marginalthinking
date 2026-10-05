@@ -4,7 +4,7 @@
   "id": "MT-CC-2026-10-04-turkiye",
   "slug": "2026-10-04-country-context-turkiye",
   "date": "2026-10-04",
-  "published_at": "2026-10-04T01:18:00-03:00",
+  "published_at": "2026-10-04T22:04:00-03:00",
   "kind": "country-context",
   "priority": 18,
   "source_locale": "en",
@@ -164,6 +164,8 @@
     "Refugee stocks change through registration, voluntary return, resettlement and status changes; the latest UNHCR headline total used here is a mid-2025 snapshot.",
     "Ethnicity is not comprehensively measured in official statistics, so the dossier avoids unsupported estimates of Kurdish or other ethnic population shares.",
     "Defence-export figures are not equivalent to domestic value added or independently verified technological content.",
-    "Akkuyu's first unit remained in commissioning preparation at the evidence cutoff; planned generation is not counted as realised power supply."
-  ]
+    "Akkuyu's first unit remained in commissioning preparation at the evidence cutoff; planned generation is not counted as realised power supply.",
+    "Revision 1 adds the required evidence-bearing geographic map in both locales with semantic parity; no substantive factual conclusion is changed."
+  ],
+  "revision": 1
 }

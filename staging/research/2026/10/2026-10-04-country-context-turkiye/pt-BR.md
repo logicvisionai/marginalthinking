@@ -8,6 +8,20 @@ O programa de desinflação permanece a principal transição macroeconômica. A
 
 A questão estrutural é se a estabilização consegue se tornar uma instituição em vez de mais um episódio. Se as expectativas de inflação caírem de forma duradoura, a lira perde parte de sua centralidade na gestão de risco de famílias e empresas, a poupança doméstica migra para prazos maiores e as empresas passam a operar com custo de capital mais previsível. Se a credibilidade enfraquecer, a grande economia produtiva turca pode continuar crescendo, mas com ciclos recorrentes de câmbio e inflação que reduzem a eficiência real do investimento.
 
+## Geografia estratégica em uma visão
+
+```map
+title: Turquia: transmissão econômica e de segurança transcontinental
+União Europeia | Vínculo manufatureiro e da união aduaneira | A UE absorve grande parcela das exportações turcas de bens e ancora importantes cadeias industriais
+Bósforo e Dardanelos | Porta marítima entre Mar Negro e Mediterrâneo | Os estreitos conectam a navegação do Mar Negro ao Mediterrâneo dentro da estrutura da Convenção de Montreux
+Mar Negro | Exposição a energia, comércio e guerra | Produção de gás, navegação e a guerra Rússia–Ucrânia se transmitem diretamente para risco energético e logístico
+Cáucaso | Corredores de energia e transporte | Gasodutos e ligações leste-oeste conectam a Turquia ao Azerbaijão, Geórgia e rotas do Cáspio
+Oriente Médio | Transmissão por comércio, migração e segurança | Síria, Iraque e Irã afetam comércio de fronteira, fluxos de refugiados, energia e gasto de defesa
+Mediterrâneo Oriental | Portos, energia e competição marítima | Navegação comercial, interesses de energia offshore e relações de aliança se sobrepõem no mesmo espaço marítimo
+```
+
+O mapa representa exposição funcional, não rotas precisas nem fluxos quantitativos. Ele mostra por que os sistemas industrial, energético e de segurança da Turquia são simultaneamente europeus, do Mar Negro, mediterrâneos, caucasianos e do Oriente Médio.
+
 ## Escopo: uma economia transcontinental com várias geografias estratégicas
 
 A maior parte do território turco está na Anatólia, enquanto a Trácia Oriental coloca o país fisicamente no sudeste europeu. Bósforo e Dardanelos conectam o Mar Negro ao Mediterrâneo. Fronteiras terrestres conectam a Turquia aos Bálcãs, Cáucaso, Irã, Iraque e Síria.

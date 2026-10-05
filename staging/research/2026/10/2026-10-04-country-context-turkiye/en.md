@@ -8,6 +8,20 @@ The disinflation programme remains the central macroeconomic transition. Annual 
 
 The structural question is whether stabilisation can become an institution rather than another episode. If inflation expectations fall durably, the lira becomes less central to household and corporate risk management, domestic savings move toward longer maturities and firms gain a more predictable cost of capital. If credibility weakens, Türkiye's large productive economy can continue growing, but with recurring exchange-rate and inflation cycles that lower real investment efficiency.
 
+## Strategic geography in one view
+
+```map
+title: Türkiye: transcontinental economic and security transmission
+European Union | Manufacturing and customs-union linkage | The EU absorbs a large share of Turkish goods exports and anchors major industrial supply chains
+Bosporus and Dardanelles | Black Sea–Mediterranean maritime gateway | The straits connect Black Sea shipping with the Mediterranean under the Montreux Convention framework
+Black Sea | Energy, trade and war exposure | Gas production, shipping and the Russia–Ukraine conflict transmit directly into energy and logistics risk
+Caucasus | Energy and transport corridors | Pipelines and east-west transport links connect Türkiye with Azerbaijan, Georgia and Caspian routes
+Middle East | Trade, migration and security transmission | Syria, Iraq and Iran affect border trade, refugee flows, energy and defence expenditure
+Eastern Mediterranean | Ports, energy and maritime competition | Commercial shipping, offshore-energy interests and alliance relationships overlap in the same maritime space
+```
+
+The map represents functional exposure rather than precise routes or quantitative flows. It shows why Türkiye's industrial, energy and security systems are simultaneously European, Black Sea, Mediterranean, Caucasian and Middle Eastern.
+
 ## Scope: a transcontinental economy with several strategic geographies
 
 Türkiye's territory is overwhelmingly in Anatolia, while Eastern Thrace places the country physically inside southeastern Europe. The Bosporus and Dardanelles connect the Black Sea to the Mediterranean. Land borders connect Türkiye with the Balkans, Caucasus, Iran, Iraq and Syria.
