@@ -101,14 +101,20 @@
     ],
     "subregions": [
       "north-america",
-      "south-america",
+      "latin-america-caribbean",
       "western-europe",
       "gulf",
       "east-asia"
     ],
     "countries": [
-      "BR",
-      "US"
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "US",
+        "slug": "united-states"
+      }
     ]
   },
   "topics": [
