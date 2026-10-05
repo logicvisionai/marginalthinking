@@ -345,6 +345,22 @@ A normalização saudita-israelense continua estrategicamente importante precisa
 
 Nenhum caminho de normalização deve ser tratado como inevitável. Os indicadores adequados são acordos formais, comércio e investimento implementados, conexões de transporte, representação diplomática e cooperação de segurança.
 
+### Mapa funcional regional
+
+```map
+title: Israel: geografia de transmissão de segurança, energia e economia
+Estados Unidos | Âncora de segurança e financeira | Assistência militar, vínculos tecnológicos e financiamento em dólar moldam capacidade de defesa e resiliência externa
+Campos de gás do Mediterrâneo | Energia doméstica e exportações regionais | Produção offshore abastece a geração elétrica israelense e sustenta exportações para Egito e Jordânia
+Egito | Tratado de paz, gás e transmissão pela fronteira de Gaza | Coordenação de segurança, comércio de gás e a interface com Gaza conectam riscos interestatais e do sistema palestino
+Jordânia | Tratado de paz, gás, água e exposição da fronteira oriental | Vínculos de energia e água coexistem com dependência de segurança ao longo da fronteira oriental de Israel
+Cisjordânia | Trabalho, assentamentos e interdependência de segurança | Controles de movimento, assentamentos, trabalho palestino e transferências fiscais vinculam as economias israelense e palestina sem integração política
+Gaza | Exposição de segurança e reconstrução | Guerra, controles de fronteira e necessidades de reconstrução transmitem efeitos para mobilização de defesa, custos fiscais e diplomacia
+Líbano | Exposição de segurança no norte | Risco militar transfronteiriço afeta evacuação, mobilização de reservistas e proteção de infraestrutura
+Mar Vermelho | Exposição do comércio marítimo | Interrupções na navegação podem elevar custos logísticos e ampliar os efeitos econômicos do conflito regional
+```
+
+O mapa representa transmissão funcional, não fronteiras, reivindicações de soberania ou rotas militares precisas. Ele separa Israel do território palestino ocupado enquanto mostra os canais econômicos e de segurança que conectam os sistemas.
+
 ## A concentração geográfica cria eficiência e vulnerabilidade
 
 Grande parcela da economia israelense de alta produtividade concentra-se na região costeira central. Tel Aviv e seus polos tecnológicos se beneficiam de mercados densos de trabalho e capital. Haifa combina porto, indústria, universidades e tecnologia. Jerusalém combina governo, religião, serviços e estrutura demográfica própria.
