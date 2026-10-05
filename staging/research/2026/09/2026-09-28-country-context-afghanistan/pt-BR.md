@@ -2,7 +2,7 @@
 
 O Afeganistão combina geografia interna difícil, dependência recorrente de recursos externos, base produtiva e financeira estreita e uma longa história de negociação entre instituições centrais e estruturas locais. A mudança de governo em 2021 alterou a ordem política, mas não eliminou essas restrições. Em 2026, maior controle territorial e arrecadação doméstica coexistiam com reconhecimento internacional limitado, finanças formais rasas, menor ajuda externa e restrições que reduzem a formação de capital humano.
 
-Este dossiê complementa **MT-ST-2026-09-28-afghanistan-post-2021**. **Corte de informação: 29 de setembro de 2026. Confiança: média.** Não há censo abrangente recente; séries nacionais e estimativas internacionais não são sempre diretamente comparáveis.
+Este dossiê complementa **MT-ST-2026-09-28-afghanistan-post-2021**. **Corte de informação: 4 de outubro de 2026. Confiança: média.** Não há censo abrangente recente; séries nacionais e estimativas internacionais não são sempre diretamente comparáveis.
 
 ## Geografia como instituição econômica
 
@@ -21,7 +21,7 @@ A Linha Durand permanece ligada a disputas Afeganistão-Paquistão, movimentos p
 
 ## Formação estatal e recursos externos
 
-Desde o sistema Durrani do século XVIII, governos buscaram centralizar um território diverso combinando tributação, coerção, negociação local e, em diferentes períodos, recursos externos. A guerra antissoviética, a queda do governo Najibullah, a guerra civil e o primeiro emirado alteraram a distribuição do poder armado. A república de 2001-2021 expandiu serviços e infraestrutura, mas estudos do Banco Mundial mostram forte dependência de subsídios externos.
+Desde o sistema Durrani do século XVIII, governos buscaram centralizar um território diverso combinando tributação, coerção, negociação local e, em diferentes períodos, recursos externos. A guerra antissoviética, a queda do governo Najibullah, a guerra civil e o primeiro emirado alteraram a distribuição do poder armado. A república de 2001-2021 expandiu serviços, educação, saúde, comunicações e infraestrutura, mas o fez com dependência fiscal excepcional. Em 2019, o Banco Mundial estimava que subvenções financiavam mais de três quartos do gasto público total. Isso ajuda a explicar por que a retirada de apoio externo em 2021 foi simultaneamente uma mudança política, fiscal e de capacidade estatal.
 
 | Período | Arranjo | Base de recursos | Mecanismo durável |
 |---|---|---|---|
@@ -34,7 +34,7 @@ Desde o sistema Durrani do século XVIII, governos buscaram centralizar um terri
 
 ## Estado fiscal menor
 
-A ruptura de 2021 removeu grande parte do financiamento externo e da conectividade financeira. O Banco Mundial projetou receita tributária doméstica de 17,1% do PIB em 2025 e atribuiu ganhos a fiscalização e conformidade. Isso mede capacidade de arrecadação, não qualidade de serviços.
+A ruptura de 2021 removeu grande parte do financiamento externo, do gasto de desenvolvimento, da folha de segurança financiada por doadores e da conectividade financeira normal. A ordem substituta opera com uma base de recursos muito menor. A atualização da primavera de 2026 do Banco Mundial estimou receita doméstica equivalente a 19,8% do PIB em 2025, sinal de arrecadação mais forte dentro de um Estado fiscal reduzido. A melhora mede alcance administrativo e capacidade de cobrança; não mede, por si só, qualidade de serviços, inclusão política ou volume de investimento público.
 
 ```flow
 Controle territorial/fronteiriço → base tributária e aduaneira → receita doméstica → administração
@@ -43,19 +43,21 @@ Controle territorial/fronteiriço → base tributária e aduaneira → receita d
 
 ## PIB e renda por pessoa podem divergir
 
-O Banco Mundial projetou crescimento real de 4,3% em 2025, crescimento populacional de 8,6% e queda de 4% no PIB per capita. A inflação média projetada foi 2%.
+As estimativas do Banco Mundial mudaram materialmente à medida que o retorno migratório acelerou, por isso as diferentes safras de dados precisam permanecer separadas. A atualização de dezembro de 2025 projetava crescimento real do PIB de 4,3% em 2025, expansão populacional de 8,6% e queda de 4,0% no PIB por habitante. A atualização da primavera de 2026 estimou posteriormente crescimento do PIB de 4,8%, população cerca de 11% maior e queda de 5,6% no PIB por habitante. Também estimou receita doméstica em 19,8% do PIB e déficit em conta corrente de 36,1% do PIB. O Monitor Econômico divulgado em 30 de setembro de 2026 voltou a registrar forte pressão sobre a renda por pessoa e utiliza outra safra de projeção para o exercício de 2025. Esses números não são combinados silenciosamente.
 
 ```chart
 type: bar
-title: Recuperação agregada e pressão per capita
-unit: percent
-Crescimento real do PIB | 4.3
-Crescimento populacional | 8.6
-PIB per capita | -4.0
-Inflação média | 2.0
+title: Afeganistão: estimativa do Banco Mundial da primavera de 2026 para 2025
+unit: percentual
+Crescimento real do PIB | 4.8
+Crescimento populacional | 11.0
+Variação do PIB por habitante | -5.6
+Receita doméstica / PIB | 19.8
 ```
 
-O Banco Mundial estimou 4-4,7 milhões de retornados de Irã e Paquistão entre setembro de 2023 e julho de 2025. Retornados ampliam demanda e oferta de trabalho, mas também pressionam emprego, moradia, água, escolas e saúde.
+A própria revisão dos números é parte da análise. A produção agregada pode aumentar enquanto o padrão médio de vida cai quando população e oferta de trabalho crescem mais rápido que o estoque de capital produtivo. O Banco Mundial projetou crescimento próximo de 4% para 2026, mas destacou que investimento fraco, fechamentos de fronteira, retração da ajuda e instabilidade regional podem reduzir o resultado.
+
+Os fluxos de retorno ampliam esse mecanismo. UNHCR e IOM registravam aproximadamente 1,082 milhão de retornos ao Afeganistão em 2026 até 1º de agosto, cerca de 654,1 mil vindos do Paquistão e 426,7 mil do Irã. Retornados podem trazer habilidades, poupança e demanda, mas também pressionam emprego, moradia, água, escolas e saúde. Sem formação de capital correspondente, a oferta de trabalho pode crescer mais rapidamente que o emprego produtivo.
 
 ## Produção, agricultura e comércio
 
@@ -65,7 +67,7 @@ Importações suprem combustível, alimentos, máquinas e medicamentos. Exporta�
 
 ## Finanças
 
-A estabilidade do afegane não equivale a normalização bancária. Avaliações do Banco Mundial continuam registrando crédito restrito, incerteza regulatória e forte uso de caixa. Redes hawala sustentam remessas e comércio, mas não substituem integralmente financiamento transparente de projetos e capital de giro.
+A estabilidade do afegane não equivale a normalização bancária. Avaliações do Banco Mundial continuam registrando crédito restrito, incerteza regulatória, forte uso de caixa e problemas de qualidade de ativos, inclusive créditos inadimplentes. Redes hawala sustentam remessas e comércio quando o banco correspondente internacional é limitado, mas não substituem integralmente financiamento transparente de projetos, hipotecas, crédito de capital de giro em escala e uma arquitetura normal de emprestador de última instância.
 
 ```diagram
 Poupança/remessas → caixa + hawala → consumo e comércio curto
@@ -73,11 +75,13 @@ Bancos formais → crédito limitado → investimento longo fraco
 Capital externo → atrito de compliance/reconhecimento → custo alto
 ```
 
-A General License 20 dos EUA permite ampla gama de transações sob condições; portanto, sanções não equivalem a proibição geral de comércio. Outros riscos financeiros e de compliance permanecem.
+A Licença Geral 20 dos EUA permite ampla gama de transações sob condições; portanto, sanções não equivalem a proibição geral de comércio. Ao mesmo tempo, ativos protegidos do banco central, cautela de bancos correspondentes, risco de conformidade e reconhecimento internacional incompleto elevam custos de transação. Dinheiro pode circular e o câmbio permanecer relativamente estável ao mesmo tempo que o sistema oferece pouco crédito de longo prazo para empresas produtivas.
 
 ## Capital humano e acesso institucional
 
-Meninas estão excluídas da escola formal além da sexta série desde setembro de 2021 e mulheres das universidades desde dezembro de 2022. A UNAMA informou em março de 2025 que 2,2 milhões de meninas haviam sido afetadas pela exclusão do secundário. O efeito econômico é cumulativo: menor formação reduz o fluxo futuro de professoras, profissionais de saúde, administradoras e trabalhadoras qualificadas.
+Meninas estão excluídas da escola formal além da sexta série desde setembro de 2021 e mulheres das universidades desde dezembro de 2022. A UNAMA informou em março de 2025 que 2,2 milhões de meninas haviam sido afetadas pela exclusão do ensino secundário. O efeito econômico é cumulativo: menor formação reduz o fluxo futuro de professoras, profissionais de saúde, administradoras e trabalhadoras qualificadas.
+
+A suspensão da formação médica de mulheres amplia a transmissão para o sistema de saúde. Em um contexto no qual regras de gênero podem exigir profissionais mulheres para que pacientes mulheres recebam determinados atendimentos, reduzir a entrada de estudantes hoje diminui a oferta futura de médicas, enfermeiras e parteiras. A restrição, portanto, afeta simultaneamente participação no trabalho, renda familiar, capacidade dos serviços e formação de capital humano. Um relatório de 2026 do Secretário-Geral da ONU citou mortalidade materna de 521 por 100 mil nascidos vivos.
 
 Relatório do Secretário-Geral de 2026 citou mortalidade materna de 521 por 100 mil nascidos vivos. Consultas da UNAMA de março de 2026 encontraram 14% das mulheres consultadas relatando acesso a mecanismos formais de resolução de disputas, contra 53% dos homens; trata-se de evidência de percepção, não estatística administrativa nacional.
 
@@ -91,7 +95,7 @@ As autoridades de facto justificam suas regras por sua interpretação religiosa
 
 A população é jovem, mas a falta de censo recente e os retornos em massa aumentam a incerteza. Uma população jovem só se converte em dividendo demográfico com educação, saúde, capital e emprego.
 
-A proibição de papoula de 2022 produziu grande queda de cultivo documentada pela UNODC, evidenciando capacidade de fiscalização. Isso não prova que uma economia rural substituta já exista. Drogas sintéticas são risco separado.
+A proibição de papoula de 2022 produziu grande queda de cultivo documentada pela UNODC, evidenciando capacidade de fiscalização. A pesquisa de 2025 estimou 10,2 mil hectares cultivados, 20% abaixo de 2024 e muito abaixo dos 232 mil hectares de 2022; a produção potencial de ópio caiu 32%, para cerca de 296 toneladas. Isso demonstra alcance coercitivo, mas não prova que uma economia rural substituta já exista. Famílias rurais ainda precisam de culturas legais rentáveis, crédito e acesso a mercados. Drogas sintéticas constituem risco separado e não podem ser inferidas apenas da área de papoula.
 
 O país possui cobre, ferro, cromita, talco e gemas. Potencial geológico não é reserva economicamente recuperável nem receita fiscal. Mineração comercial exige energia, água, transporte, financiamento, segurança jurídica e mercados; Aynak ilustra a distância entre depósito e produção.
 
@@ -101,9 +105,9 @@ O país importa eletricidade de vizinhos. CASA-1000 pode ampliar integração el
 
 ## Segurança e relações externas
 
-A guerra convencional nacional caiu após 2021, mas ataques extremistas, remanescentes explosivos e tensões fronteiriças continuam materiais. Alegações estatais concorrentes sobre grupos armados são tratadas como alegações, não como fatos independentes.
+A guerra convencional nacional caiu fortemente após 2021, mas insegurança não desapareceu. O Estado Islâmico-Khorasan conserva capacidade de ataque, remanescentes explosivos continuam atingindo civis e tensões entre Afeganistão e Paquistão criam risco de fronteira, comércio e deslocamento. O Paquistão afirma que o Tehrik-e Taliban Pakistan opera a partir de território afegão; as autoridades talibãs negam permitir que o território seja usado contra outros Estados. São alegações concorrentes que devem permanecer atribuídas, não fatos independentes fundidos em uma única narrativa.
 
-A Rússia reconheceu formalmente o governo de facto em 2025; reconhecimento amplo no sistema da ONU não ocorreu. Irã importa para comércio e migração; Paquistão para trânsito e segurança; Ásia Central para energia e logística; China para comércio e mineração potencial; países do Golfo para aviação, finanças e mediação; Índia para ajuda e comércio. Não há um pivô único: a geografia favorece múltiplos corredores.
+A Rússia reconheceu formalmente o governo talibã em 2025; reconhecimento amplo no sistema da ONU não ocorreu. Contato diplomático ou comercial de outros países não equivale automaticamente a reconhecimento. O Irã é central para comércio, combustível e migração; o Paquistão para trânsito e segurança; a Ásia Central para eletricidade e logística do norte; a China para comércio e mineração potencial; países do Golfo para aviação, finanças e mediação; e a Índia para ajuda e vínculos comerciais. A geografia favorece múltiplos relacionamentos transacionais, não um único patrono externo.
 
 ## O que mudaria a avaliação
 
@@ -119,6 +123,9 @@ Consolidação territorial e arrecadação contradizem uma descrição simples d
 
 - Banco Mundial: https://www.worldbank.org/en/country/afghanistan
 - Banco Mundial, atualização dez. 2025: https://www.worldbank.org/en/news/press-release/2025/12/10/afghan-economy-expands-amid-persistent-challenges
+- Banco Mundial, Afghanistan Development Update, 26 maio 2026: https://www.worldbank.org/en/news/press-release/2026/05/26/afghanistan-s-economy-shows-resilience-but-living-standards-are-falling
+- Banco Mundial, Afghanistan Economic Monitor, 30 set. 2026: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099093026090177837
+- UNHCR/IOM, retornos ao Afeganistão em 2026: https://data.unhcr.org/en/situations/afghanistan
 - UNAMA: https://unama.unmissions.org/
 - UNAMA, acesso à justiça, 8 mar. 2026: https://unama.unmissions.org/en/news/women-afghanistan-nearly-four-times-less-likely-men-have-access-formal-justice
 - UNODC: https://www.unodc.org/
