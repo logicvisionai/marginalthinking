@@ -1,0 +1,58 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-05",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-05T20:20:29-03:00",
+  "reviewed_commit": "aeb5216a3d0ef0527a6eea5506452e4c663d4631",
+  "pending_blob_sha": "7a8d756344ff2b5c5d9d29a59785602c51ec48a4",
+  "source_blob_shas": {
+    "en": "4df75af670773a0736700572f7928cb10378e393",
+    "pt-BR": "54b9415f01f921502281e7045e4a85d207ea236a"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_localization",
+      "location": "PT-BR opening, market sections, Brazil section and diagrams",
+      "issue": "The PT-BR edition repeatedly exposes avoidable English market/internal vocabulary instead of natural Brazilian Portuguese, including 'repricing', 'supply chain', 'valuations' and repeated raw 'payroll'. This directly conflicts with EDITORIAL-STYLE.md, which explicitly requires 'repricing' to become 'reprecificação', 'valuation' to be translated according to context, and English terms to be retained only when conventional and precision-enhancing with explanation on first occurrence. The result does not read as originally written in Brazilian Portuguese and therefore fails publication-readiness localization."
+    }
+  ],
+  "required_fixes": [
+    "Rewrite the PT-BR edition as idiomatic Brazilian Portuguese, replacing avoidable anglicisms throughout rather than patching isolated occurrences. At minimum replace 'repricing' with 'reprecificação', 'supply chain' with 'cadeia de suprimentos' or a context-specific equivalent, and 'valuations' with 'avaliações/precificações' as appropriate; translate or explain 'payroll' on first occurrence and use a natural Portuguese reference thereafter.",
+    "Preserve all figures, dates, epistemic status, causal claims and conclusions while performing the localization correction; EN/PT-BR must remain semantically equivalent.",
+    "Return the same ID and slug with new source/pending blob SHAs."
+  ],
+  "evidence": [
+    "BLS official September 2026 data confirm +29,000 nonfarm payroll employment and 4.2% unemployment; the September release was scheduled for and issued on 2 October 2026.",
+    "ISM official September 2026 manufacturing data confirm Manufacturing PMI 54.5 and Prices Index 77.9.",
+    "TSE official result confirms Flavio Bolsonaro 47.03% and Luiz Inacio Lula da Silva 45.16% of valid votes with a runoff on 25 October 2026.",
+    "EDITORIAL-STYLE.md explicitly maps repricing to reprecificacao and valuation to avaliacao/precificacao/valorizacao, and requires natural Brazilian Portuguese rather than literal financial English."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "factual_spot_check": "passed_for_checked_core_claims",
+    "taxonomy": "passed_on_pending_controlled_fields",
+    "translation_check": "failed",
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Analytically direct and not template-like, but PT-BR contains avoidable English market vocabulary from the opening onward.",
+      "headings": "Generally informative and mechanism-oriented.",
+      "language_localization": "failed: repeated avoidable anglicisms conflict with the normative style guide.",
+      "repetition": "No blocking repetition identified in this pass.",
+      "cohesion": "The argument progresses from activity/labour divergence through prices, markets, energy and Brazil to falsifiers and watch points.",
+      "template_meta_qa": "No blocking prompt/QA/template exposure identified."
+    },
+    "visual_evidence_readiness": {
+      "result": "not_blocking_in_this_decision",
+      "signature": "Multiple charts plus a regional transmission map/structured visual are present in both language editions; the localization failure blocks publication independently.",
+      "limitations": "A fresh full visual recheck remains required after the PT-BR source changes because the source SHA will change."
+    }
+  },
+  "limitations": [
+    "This rejection is independently blocking on editorial localization; a complete factual revalidation remains required on the corrected source SHAs before approval.",
+    "Intraday market prices and the remaining unspot-checked claims must be revalidated against the corrected bundle's information cutoff."
+  ],
+  "notes": "No public reports/** metadata entry for this candidate was found in the current HEAD tree immediately before decision. No reports/**, HTML, data/reports.json or global site surface was changed."
+}
