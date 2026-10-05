@@ -253,6 +253,10 @@ This avoids the previous race where the publisher could inspect a pending report
 
 The pipeline remains idempotent: a published ID is not republished, and an unchanged approval produces no new commit.
 
+A scheduled publication-sync watchdog also checks every schema-v2 approval against the canonical public report index. An approval may exist briefly between the QA and publisher transactions, so this condition is non-blocking on ordinary push and pull-request builds; it is blocking in the scheduled system audit. An approval that remains unmaterialized until the scheduled audit is treated as an operational failure that requires publisher recovery, not as a valid steady state.
+
+Editorial lines whose contracts explicitly allow "publish nothing" are monitored by their screening/reconciliation workflow rather than by forcing a public article to satisfy a calendar. A public-publication freshness SLA is used only when the editorial contract actually requires publication on that cadence.
+
 Context maintenance runs only after successful publication work in the publisher cycle and remains a separate non-blocking Git transaction.
 
 ## Validation gates
