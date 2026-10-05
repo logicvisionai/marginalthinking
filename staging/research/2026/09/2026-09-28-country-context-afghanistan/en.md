@@ -4,7 +4,7 @@ Afghanistan's present system is shaped by difficult internal geography, repeated
 
 This dossier complements **MT-ST-2026-09-28-afghanistan-post-2021**. The transition report asks what changed after 2021; this country context explains the deeper mechanisms through which that change operates.
 
-**Information cutoff: 29 September 2026. Confidence: medium.** Afghanistan has no recent comprehensive census; official series are incomplete and estimates from the World Bank, UN agencies and de facto institutions are not always directly comparable.
+**Information cutoff: 4 October 2026. Confidence: medium.** Afghanistan has no recent comprehensive census; official series are incomplete and estimates from the World Bank, UN agencies and de facto institutions are not always directly comparable.
 
 ## Geography is an economic institution
 
@@ -38,7 +38,7 @@ The Soviet intervention, anti-Soviet war, fall of the Najibullah government, civ
 
 ## A smaller fiscal state
 
-The republic's collapse removed much of the security payroll, development finance, technical assistance and normal financial connectivity. The replacement order operates with a smaller resource envelope. The World Bank projected domestic tax revenue at 17.1% of GDP in 2025 and described stronger enforcement and compliance. This is evidence of administrative capacity, not service quality or political inclusion.
+The republic's collapse removed much of the security payroll, development finance, technical assistance and normal financial connectivity. The replacement order operates with a smaller resource envelope. Before 2021, the World Bank estimated grants financed more than three quarters of total public expenditure, illustrating how deeply the fiscal system depended on external resources. The Spring 2026 update later estimated domestic revenue at 19.8% of GDP in 2025, reflecting stronger collection under a radically smaller state. This is evidence of administrative capacity, not service quality or political inclusion.
 
 ```flow
 Territorial and border control → observable tax/customs base → domestic revenue → core administration
@@ -47,19 +47,21 @@ Territorial and border control → observable tax/customs base → domestic reve
 
 ## Aggregate recovery is not household recovery
 
-The World Bank projected real GDP growth of 4.3% in 2025 after 2.5% in 2024, but population growth of 8.6%, driven heavily by mass returns, implied a 4% fall in GDP per capita. Average inflation was projected around 2%.
+World Bank estimates changed materially as return migration accelerated, so vintages must be kept separate. The December 2025 update projected 2025 real GDP growth of 4.3%, population growth of 8.6% and a 4.0% decline in GDP per capita. The Spring 2026 Afghanistan Development Update later estimated 2025 real GDP growth at 4.8%, population growth around 11% and a 5.6% decline in GDP per capita. It also reported domestic revenue at 19.8% of GDP and a current-account deficit estimated at 36.1% of GDP. The September 2026 Economic Monitor again described per-capita income as under severe pressure and used a different FY2025 projection vintage. These series are not silently averaged here.
 
 ```chart
 type: bar
-title: Aggregate recovery versus per-capita pressure, World Bank 2025 projection
+title: Afghanistan: World Bank Spring 2026 estimate for 2025
 unit: percent
-Real GDP growth | 4.3
-Population growth | 8.6
-GDP per capita change | -4.0
-Average inflation | 2.0
+Real GDP growth | 4.8
+Population growth | 11.0
+GDP per capita change | -5.6
+Domestic revenue / GDP | 19.8
 ```
 
-The World Bank estimated 4-4.7 million people returned from Iran and Pakistan between September 2023 and July 2025. Returnees add demand and skills but also pressure jobs, housing, water, schools and health. Without corresponding capital formation, labor supply can grow faster than productive employment.
+The revision history itself is analytically important. Aggregate output can grow while living standards fall when population expands faster than productive capital. The World Bank projected growth of about 4% for 2026, but emphasized that weak investment, border disruption, aid decline and regional instability can reduce that outcome.
+
+Large return flows intensify the mechanism. UNHCR and IOM recorded about 1.082 million returns to Afghanistan in 2026 by 1 August, including roughly 654,100 from Pakistan and 426,700 from Iran. Returnees add demand and skills but also pressure jobs, housing, water, schools and health. Without corresponding capital formation, labor supply can grow faster than productive employment.
 
 ## Productive structure and trade
 
@@ -80,13 +82,13 @@ External capital → sanctions/compliance/recognition friction → high transact
 Result → money circulates while capital formation remains shallow
 ```
 
-U.S. General License 20 permits a broad range of transactions involving Afghanistan subject to conditions; sanctions are not a blanket ban on commerce. Protected central-bank assets, correspondent-bank caution and compliance risk still raise transaction costs.
+U.S. General License 20 permits a broad range of transactions involving Afghanistan subject to conditions; sanctions are not a blanket ban on commerce. Protected central-bank assets, correspondent-bank caution and compliance risk still raise transaction costs. Banking weakness is also domestic: World Bank monitoring has continued to flag limited lending and asset-quality problems, including non-performing loans. A stable exchange rate can therefore coexist with a system that does not allocate enough long-duration credit to productive firms.
 
 ## Women and girls are a productive-capacity constraint
 
 Girls have been barred from formal schooling beyond grade six since September 2021 and women from universities since December 2022. UNAMA reported in March 2025 that 2.2 million girls had been affected by secondary-school exclusion. Restrictions also affect employment, mobility and public participation.
 
-The mechanism is cumulative. Fewer girls completing secondary education means a smaller pipeline into teaching, medicine, administration and skilled private work. Suspension of women's medical education reduces future female health-worker supply where gender rules can make female staff necessary for women to receive care. A 2026 UN Secretary-General report cited maternal mortality at 521 deaths per 100,000 live births.
+The mechanism is cumulative. Fewer girls completing secondary education means a smaller pipeline into teaching, medicine, administration and skilled private work. Suspension of women's medical education reduces future female health-worker supply where gender rules can make female staff necessary for women to receive care. That is not only a rights constraint; it is a direct transmission from education policy to health-system capacity, labour-force participation and household welfare. A 2026 UN Secretary-General report cited maternal mortality at 521 deaths per 100,000 live births.
 
 UNAMA's March 2026 consultations found only 14% of women consulted reported access to formal dispute-resolution services versus 53% of men. This is perception-based evidence, not a national administrative statistic.
 
@@ -114,7 +116,7 @@ The Qosh Tepa Canal could expand northern irrigation while affecting Amu Darya w
 
 Nationwide conventional war declined sharply after 2021, but insecurity did not disappear. ISIL-K retains attack capacity, explosive remnants continue to harm civilians, and Afghanistan-Pakistan tensions create border and civilian risk. Pakistan states that Tehrik-e Taliban Pakistan operates from Afghan territory; Taliban authorities deny allowing Afghan territory to be used against other states. These are competing claims, not interchangeable facts.
 
-Russia formally recognized the Taliban government in 2025; broader UN-level recognition has not followed. Engagement by China, Iran, Pakistan, Central Asian states, India and Gulf states varies by issue and is not equivalent to recognition.
+Russia formally recognized the Taliban government in 2025; broader UN-level recognition has not followed. Engagement by China, Iran, Pakistan, Central Asian states, India and Gulf states varies by issue and is not equivalent to recognition. Pakistan remains central to transit and security but relations are burdened by border closures and competing claims over the Tehrik-e Taliban Pakistan: Pakistani authorities say the group operates from Afghan territory, while the Taliban authorities deny allowing Afghan territory to be used against other states. Iran is critical for trade, fuel and migration; Central Asia for electricity and northern logistics; China for trade and prospective mining; Gulf states for aviation, finance and mediation; and India for aid and commercial links. Geography therefore encourages multiple transactional relationships rather than a single external patron.
 
 ## External relations are more regional and transactional
 
@@ -136,6 +138,9 @@ Territorial consolidation and revenue gains contradict a simple failed-state des
 
 - World Bank, Afghanistan country updates, 2025-2026: https://www.worldbank.org/en/country/afghanistan
 - World Bank, December 2025 economic update: https://www.worldbank.org/en/news/press-release/2025/12/10/afghan-economy-expands-amid-persistent-challenges
+- World Bank, Afghanistan Development Update, 26 May 2026: https://www.worldbank.org/en/news/press-release/2026/05/26/afghanistan-s-economy-shows-resilience-but-living-standards-are-falling
+- World Bank, Afghanistan Economic Monitor, 30 September 2026: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099093026090177837
+- UNHCR/IOM Afghanistan situation, 2026 returns: https://data.unhcr.org/en/situations/afghanistan
 - UNAMA monitoring: https://unama.unmissions.org/
 - UNAMA, 8 March 2026 access-to-justice findings: https://unama.unmissions.org/en/news/women-afghanistan-nearly-four-times-less-likely-men-have-access-formal-justice
 - UNODC, opium and drug monitoring: https://www.unodc.org/
