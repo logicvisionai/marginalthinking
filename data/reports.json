@@ -1,5 +1,105 @@
 [
   {
+    "id": "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+    "date": "2026-10-05",
+    "published_at": "2026-10-05T09:32:00-03:00",
+    "kind": "weekly-technology-signal",
+    "priority": 32,
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "capital-markets",
+      "demography-labor",
+      "inequality-distribution",
+      "institutions-governance",
+      "energy",
+      "infrastructure-logistics",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "strategic-competition"
+    ],
+    "format": "assessment",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "title": "AI is making software and cognitive work more abundant — while concentrating the infrastructure that produces them",
+    "deck": "Falling task and application costs are compressing entry-level work and generic software rents while compute, energy, data, distribution and trusted workflows become scarcer and more strategic.",
+    "url": "/reports/2026/10/2026-10-05-technology-signal-ai-abundance-infrastructure-concentration.html",
+    "markdown_url": "/reports/2026/10/2026-10-05-technology-signal-ai-abundance-infrastructure-concentration/en.md",
+    "tags": [
+      "AI",
+      "labor markets",
+      "SaaS",
+      "cloud",
+      "technology concentration",
+      "energy"
+    ],
+    "keywords": [
+      "AI acceleration",
+      "AI labor market",
+      "SaaS valuations",
+      "cloud concentration",
+      "AI infrastructure",
+      "outcome pricing",
+      "entry-level jobs",
+      "Peter Thiel",
+      "data centers",
+      "software economics"
+    ],
+    "regime": "AI is lowering the cost of digital production faster than the physical and institutional inputs required to deploy it at scale.",
+    "key_risk": "Productivity gains may coexist with weaker entry-level career ladders and a larger share of economic rents accruing to infrastructure, distribution and capital owners.",
+    "watch": [
+      "young-worker hiring in exposed occupations",
+      "SaaS revenue multiples and pricing models",
+      "hyperscaler capex and data-centre returns",
+      "cloud switching costs and concentration",
+      "data-centre electricity and grid queues",
+      "independent workflow productivity studies"
+    ],
+    "search_text": "AI acceleration labor employment junior jobs SaaS software valuations cloud monopoly concentration compute energy data centers outcome pricing Peter Thiel Sequoia Bessemer SoftBank",
+    "revision": 1,
+    "signal_rationale": {
+      "delta": "By October 2026, evidence from labour markets, software valuations, pricing models, cloud regulation and energy infrastructure can be connected into one observable shift: AI is reducing the scarcity of some cognitive tasks and application features while raising the strategic scarcity of compute, power, capital, distribution and trusted workflows.",
+      "evidence": "The assessment triangulates Stanford labour and investment data, ILO and OECD occupational exposure, NBER and METR productivity evidence, SEG and Stripe software-market data, Salesforce pricing, IEA physical-infrastructure data, FTC and European Commission competition work, Microsoft filings and clearly labelled investor theses.",
+      "scale_path": "Further diffusion depends on lower model and inference costs, reliable agentic workflows and organizational redesign; concentration depends on whether chips, electricity, grid access, cloud, proprietary data and distribution remain scale-constrained.",
+      "transmission": "The shift transmits through entry-level hiring, apprenticeship structures, software pricing and valuation, capital allocation, electricity systems, cloud dependence, bargaining power and international distribution of technology rents.",
+      "falsifier": "The thesis weakens if exposed young-worker hiring recovers while AI adoption rises, seat-based software pricing remains dominant in agentic workflows, generic application margins retain durable premiums, and cloud/compute/energy bottlenecks and concentration fall materially."
+    },
+    "technology_maturity": "deployed-with-uneven-economic-and-social-transmission",
+    "assessment_confidence": "high-on-current-investment-labour-software-and-infrastructure-signals-medium-on-2026-2030-distributional-outcomes",
+    "key_constraints": [
+      "independent productivity measurement",
+      "junior skill formation",
+      "compute and HBM supply",
+      "electricity and grid connections",
+      "cloud switching costs",
+      "trusted workflow integration",
+      "distribution of productivity gains"
+    ],
+    "qa_reviewed_at": "2026-10-05T09:42:42-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "59949a3b26e2cf6d206cadf8a2a1728e66c6987b"
+  },
+  {
     "id": "MT-GM-2026-10-04",
     "slug": "2026-10-04-global-macro",
     "date": "2026-10-04",
@@ -1371,6 +1471,185 @@
     }
   },
   {
+    "id": "MT-CC-2026-09-28-singapore",
+    "slug": "2026-09-28-country-context-singapore",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T16:44:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "southeast-asia"
+      ],
+      "countries": [
+        {
+          "code": "SG",
+          "slug": "singapore"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "assessment_confidence": "medium-high",
+    "selection_rationale": "Published canonical research already treats Temasek and Singapore's sovereign-capital architecture as a material transmission mechanism, but the corpus lacks country-level context connecting reserves, CPF, public housing, land, monetary policy, logistics, finance, industrial upgrading, foreign labour, demography and external strategy. This dossier supplies that reusable structural context without duplicating the existing actor studies.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-SA-2026-09-23-TEMASEK",
+      "MT-SA-2026-09-19-sovereign-capital"
+    ],
+    "contrary_evidence": [
+      "Singapore's high gross public-debt ratio is not evidence of conventional fiscal distress because the Government reports a positive net asset position and most borrowing proceeds cannot finance recurrent spending; gross liabilities still require prudent management.",
+      "Public housing supports unusually broad owner-occupation, while 99-year lease decay, affordability and CPF withdrawals create genuine intergenerational and retirement trade-offs.",
+      "Foreign labour materially expands productive capacity, but it also creates a segmented labour market and additional housing, transport and social-integration pressures.",
+      "Singapore's port, financial and legal ecosystems are dense and difficult to reproduce quickly, while neighbouring economies continue improving infrastructure, talent and direct-connectivity alternatives.",
+      "Semiconductor investment is structurally important, but Singapore does not control the global leading-edge logic foundry chokepoint and remains heavily dependent on multinational firms and imported technology.",
+      "Deep security ties with the United States and deep economic relations with China coexist; the evidence supports issue-specific diversification rather than simple geopolitical equidistance or exclusive alignment."
+    ],
+    "limitations": [
+      "The total value of Singapore's national reserves is not publicly disclosed, and GIC does not disclose assets under management; third-party AUM estimates should not be treated as official figures.",
+      "Temasek's publicly reported net portfolio value is not equivalent to the stock of national reserves.",
+      "EDB fixed-asset-investment commitments are expected projects and should not be treated as already-realised investment.",
+      "The 6 GW low-carbon electricity-import target is planned capacity for 2035, not operating supply today.",
+      "Population statistics distinguish citizens, permanent residents and non-residents; total population alone obscures labour-market, infrastructure and political implications.",
+      "Political and civil-liberties assessments use source classes with different functions: official sources establish laws and institutional design, while external rights organisations provide attributed criticism and case-based evidence."
+    ],
+    "url": "/reports/2026/09/2026-09-28-country-context-singapore.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-28T21:40:00-03:00",
+    "qa_confidence": "medium-high",
+    "qa_reviewed_commit": "c45a5bcc0956c5079128d4c0966f71019aec00d0",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Singapore: sovereign balance-sheet capitalism, logistics density and the constraints of a small open state",
+        "deck": "Singapore converts land scarcity and external dependence into a dense system of public housing, compulsory savings, sovereign assets, ports, finance and advanced manufacturing; its next constraint is whether productivity and regional integration can offset ageing, imported energy and geopolitical fragmentation.",
+        "tags": [
+          "Singapore",
+          "Temasek",
+          "GIC",
+          "CPF",
+          "HDB",
+          "port logistics",
+          "asset management",
+          "semiconductors",
+          "ASEAN"
+        ],
+        "keywords": [
+          "Singapore political economy",
+          "Singapore sovereign reserves",
+          "Temasek GIC",
+          "Singapore CPF HDB",
+          "Singapore public debt",
+          "Singapore monetary policy SNEER",
+          "Singapore port Tuas",
+          "Singapore semiconductors",
+          "Singapore demographics immigration",
+          "Singapore US China ASEAN"
+        ],
+        "regime": "Sovereign balance-sheet capitalism in a logistics-financial city-state: private markets and multinational firms generate much of production and trade while public land, compulsory savings, reserves and specialised agencies shape long-horizon capital allocation and infrastructure.",
+        "key_risk": "The model depends on continued external connectivity: geopolitical fragmentation, imported-energy disruption, ageing, land and water constraints, or loss of multinational and financial intermediation could raise domestic costs faster than productivity and regional integration can offset them.",
+        "watch": [
+          "Labour productivity and value added per worker outside finance and electronics",
+          "Container throughput, transshipment share and Tuas Port productivity",
+          "Asset-management AUM, FDI and regional-headquarters activity",
+          "NIRC, GIC long-horizon real returns and Temasek portfolio returns",
+          "HDB affordability, CPF housing withdrawals and retirement adequacy",
+          "Citizen, permanent-resident and non-resident population composition, fertility and ageing",
+          "Gas dependence, low-carbon power imports, water demand and desalination/recycling capacity",
+          "Johor-Singapore RTS, Special Economic Zone and ASEAN integration"
+        ],
+        "search_text": "Singapore country context political economy sovereign balance sheet Temasek GIC CPF HDB public debt reserves SNEER port Tuas Changi semiconductors energy water immigration demographics PAP ASEAN Johor 2026"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Cingapura: capitalismo de balanço soberano, densidade logística e os limites de um pequeno Estado aberto",
+        "deck": "Cingapura converte escassez de terra e dependência externa em um sistema denso de habitação pública, poupança compulsória, ativos soberanos, portos, finanças e manufatura avançada; o próximo limite é saber se produtividade e integração regional conseguem compensar envelhecimento, energia importada e fragmentação geopolítica.",
+        "tags": [
+          "Cingapura",
+          "Temasek",
+          "GIC",
+          "CPF",
+          "HDB",
+          "logística portuária",
+          "gestão de ativos",
+          "semicondutores",
+          "ASEAN"
+        ],
+        "keywords": [
+          "economia política Cingapura",
+          "reservas soberanas Cingapura",
+          "Temasek GIC",
+          "CPF HDB Cingapura",
+          "dívida pública Cingapura",
+          "política monetária Cingapura SNEER",
+          "porto Tuas Cingapura",
+          "semicondutores Cingapura",
+          "demografia imigração Cingapura",
+          "Cingapura EUA China ASEAN"
+        ],
+        "regime": "Capitalismo de balanço soberano em uma cidade-Estado logístico-financeira: mercados privados e multinacionais geram grande parte da produção e do comércio, enquanto terra pública, poupança compulsória, reservas e agências especializadas moldam a alocação de capital e infraestrutura de longo prazo.",
+        "key_risk": "O modelo depende de conectividade externa contínua: fragmentação geopolítica, disrupção de energia importada, envelhecimento, restrições de terra e água ou perda de intermediação multinacional e financeira podem elevar custos domésticos mais rapidamente que produtividade e integração regional consigam compensar.",
+        "watch": [
+          "Produtividade do trabalho e valor adicionado por trabalhador fora de finanças e eletrônicos",
+          "Movimentação de contêineres, participação de transbordo e produtividade do Tuas Port",
+          "Ativos sob gestão, IED e atividade de sedes regionais",
+          "NIRC, retorno real de longo prazo da GIC e retornos do portfólio Temasek",
+          "Acessibilidade HDB, uso do CPF em habitação e adequação previdenciária",
+          "Composição entre cidadãos, residentes permanentes e não residentes, fecundidade e envelhecimento",
+          "Dependência de gás, importação de eletricidade de baixo carbono, demanda de água e capacidade de reciclagem/dessalinização",
+          "RTS Johor-Cingapura, Special Economic Zone e integração ASEAN"
+        ],
+        "search_text": "Cingapura contexto país economia política balanço soberano Temasek GIC CPF HDB dívida pública reservas SNEER porto Tuas Changi semicondutores energia água imigração demografia PAP ASEAN Johor 2026"
+      }
+    }
+  },
+  {
     "id": "MT-ST-2026-09-28-north-korea-post-pandemic",
     "slug": "2026-09-28-strategic-transition-north-korea-post-pandemic",
     "date": "2026-09-28",
@@ -1654,185 +1933,6 @@
     "qa_reviewed_commit": "4ca6c7a3d319086693b000df19417c96d8e14322"
   },
   {
-    "id": "MT-CC-2026-09-28-singapore",
-    "slug": "2026-09-28-country-context-singapore",
-    "date": "2026-09-28",
-    "published_at": "2026-09-28T16:44:00-03:00",
-    "kind": "country-context",
-    "priority": 18,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets",
-      "strategic-transitions",
-      "technology-production-society"
-    ],
-    "dimensions": [
-      "economy",
-      "politics",
-      "society"
-    ],
-    "geography": {
-      "level": "country",
-      "regions": [
-        "asia-pacific"
-      ],
-      "subregions": [
-        "southeast-asia"
-      ],
-      "countries": [
-        {
-          "code": "SG",
-          "slug": "singapore"
-        }
-      ]
-    },
-    "topics": [
-      "macroeconomics",
-      "fiscal-policy",
-      "monetary-policy",
-      "sovereign-debt",
-      "capital-markets",
-      "banking-credit",
-      "currencies",
-      "trade-investment",
-      "industry-production",
-      "technology-innovation",
-      "energy",
-      "commodities-resources",
-      "infrastructure-logistics",
-      "institutions-governance",
-      "geopolitics-security",
-      "demography-labor",
-      "inequality-distribution",
-      "social-change",
-      "climate-environment"
-    ],
-    "format": "country-dossier",
-    "cadence": "event-driven",
-    "source_locale": "en",
-    "phenomena": [
-      "strategic-competition",
-      "defense-security",
-      "political-stability",
-      "demographic-transition",
-      "institutional-change",
-      "social-change"
-    ],
-    "assessment_confidence": "medium-high",
-    "selection_rationale": "Published canonical research already treats Temasek and Singapore's sovereign-capital architecture as a material transmission mechanism, but the corpus lacks country-level context connecting reserves, CPF, public housing, land, monetary policy, logistics, finance, industrial upgrading, foreign labour, demography and external strategy. This dossier supplies that reusable structural context without duplicating the existing actor studies.",
-    "context_role": "country-context",
-    "related_research_ids": [
-      "MT-SA-2026-09-23-TEMASEK",
-      "MT-SA-2026-09-19-sovereign-capital"
-    ],
-    "contrary_evidence": [
-      "Singapore's high gross public-debt ratio is not evidence of conventional fiscal distress because the Government reports a positive net asset position and most borrowing proceeds cannot finance recurrent spending; gross liabilities still require prudent management.",
-      "Public housing supports unusually broad owner-occupation, while 99-year lease decay, affordability and CPF withdrawals create genuine intergenerational and retirement trade-offs.",
-      "Foreign labour materially expands productive capacity, but it also creates a segmented labour market and additional housing, transport and social-integration pressures.",
-      "Singapore's port, financial and legal ecosystems are dense and difficult to reproduce quickly, while neighbouring economies continue improving infrastructure, talent and direct-connectivity alternatives.",
-      "Semiconductor investment is structurally important, but Singapore does not control the global leading-edge logic foundry chokepoint and remains heavily dependent on multinational firms and imported technology.",
-      "Deep security ties with the United States and deep economic relations with China coexist; the evidence supports issue-specific diversification rather than simple geopolitical equidistance or exclusive alignment."
-    ],
-    "limitations": [
-      "The total value of Singapore's national reserves is not publicly disclosed, and GIC does not disclose assets under management; third-party AUM estimates should not be treated as official figures.",
-      "Temasek's publicly reported net portfolio value is not equivalent to the stock of national reserves.",
-      "EDB fixed-asset-investment commitments are expected projects and should not be treated as already-realised investment.",
-      "The 6 GW low-carbon electricity-import target is planned capacity for 2035, not operating supply today.",
-      "Population statistics distinguish citizens, permanent residents and non-residents; total population alone obscures labour-market, infrastructure and political implications.",
-      "Political and civil-liberties assessments use source classes with different functions: official sources establish laws and institutional design, while external rights organisations provide attributed criticism and case-based evidence."
-    ],
-    "url": "/reports/2026/09/2026-09-28-country-context-singapore.html",
-    "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-28T21:40:00-03:00",
-    "qa_confidence": "medium-high",
-    "qa_reviewed_commit": "c45a5bcc0956c5079128d4c0966f71019aec00d0",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Singapore: sovereign balance-sheet capitalism, logistics density and the constraints of a small open state",
-        "deck": "Singapore converts land scarcity and external dependence into a dense system of public housing, compulsory savings, sovereign assets, ports, finance and advanced manufacturing; its next constraint is whether productivity and regional integration can offset ageing, imported energy and geopolitical fragmentation.",
-        "tags": [
-          "Singapore",
-          "Temasek",
-          "GIC",
-          "CPF",
-          "HDB",
-          "port logistics",
-          "asset management",
-          "semiconductors",
-          "ASEAN"
-        ],
-        "keywords": [
-          "Singapore political economy",
-          "Singapore sovereign reserves",
-          "Temasek GIC",
-          "Singapore CPF HDB",
-          "Singapore public debt",
-          "Singapore monetary policy SNEER",
-          "Singapore port Tuas",
-          "Singapore semiconductors",
-          "Singapore demographics immigration",
-          "Singapore US China ASEAN"
-        ],
-        "regime": "Sovereign balance-sheet capitalism in a logistics-financial city-state: private markets and multinational firms generate much of production and trade while public land, compulsory savings, reserves and specialised agencies shape long-horizon capital allocation and infrastructure.",
-        "key_risk": "The model depends on continued external connectivity: geopolitical fragmentation, imported-energy disruption, ageing, land and water constraints, or loss of multinational and financial intermediation could raise domestic costs faster than productivity and regional integration can offset them.",
-        "watch": [
-          "Labour productivity and value added per worker outside finance and electronics",
-          "Container throughput, transshipment share and Tuas Port productivity",
-          "Asset-management AUM, FDI and regional-headquarters activity",
-          "NIRC, GIC long-horizon real returns and Temasek portfolio returns",
-          "HDB affordability, CPF housing withdrawals and retirement adequacy",
-          "Citizen, permanent-resident and non-resident population composition, fertility and ageing",
-          "Gas dependence, low-carbon power imports, water demand and desalination/recycling capacity",
-          "Johor-Singapore RTS, Special Economic Zone and ASEAN integration"
-        ],
-        "search_text": "Singapore country context political economy sovereign balance sheet Temasek GIC CPF HDB public debt reserves SNEER port Tuas Changi semiconductors energy water immigration demographics PAP ASEAN Johor 2026"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Cingapura: capitalismo de balanço soberano, densidade logística e os limites de um pequeno Estado aberto",
-        "deck": "Cingapura converte escassez de terra e dependência externa em um sistema denso de habitação pública, poupança compulsória, ativos soberanos, portos, finanças e manufatura avançada; o próximo limite é saber se produtividade e integração regional conseguem compensar envelhecimento, energia importada e fragmentação geopolítica.",
-        "tags": [
-          "Cingapura",
-          "Temasek",
-          "GIC",
-          "CPF",
-          "HDB",
-          "logística portuária",
-          "gestão de ativos",
-          "semicondutores",
-          "ASEAN"
-        ],
-        "keywords": [
-          "economia política Cingapura",
-          "reservas soberanas Cingapura",
-          "Temasek GIC",
-          "CPF HDB Cingapura",
-          "dívida pública Cingapura",
-          "política monetária Cingapura SNEER",
-          "porto Tuas Cingapura",
-          "semicondutores Cingapura",
-          "demografia imigração Cingapura",
-          "Cingapura EUA China ASEAN"
-        ],
-        "regime": "Capitalismo de balanço soberano em uma cidade-Estado logístico-financeira: mercados privados e multinacionais geram grande parte da produção e do comércio, enquanto terra pública, poupança compulsória, reservas e agências especializadas moldam a alocação de capital e infraestrutura de longo prazo.",
-        "key_risk": "O modelo depende de conectividade externa contínua: fragmentação geopolítica, disrupção de energia importada, envelhecimento, restrições de terra e água ou perda de intermediação multinacional e financeira podem elevar custos domésticos mais rapidamente que produtividade e integração regional consigam compensar.",
-        "watch": [
-          "Produtividade do trabalho e valor adicionado por trabalhador fora de finanças e eletrônicos",
-          "Movimentação de contêineres, participação de transbordo e produtividade do Tuas Port",
-          "Ativos sob gestão, IED e atividade de sedes regionais",
-          "NIRC, retorno real de longo prazo da GIC e retornos do portfólio Temasek",
-          "Acessibilidade HDB, uso do CPF em habitação e adequação previdenciária",
-          "Composição entre cidadãos, residentes permanentes e não residentes, fecundidade e envelhecimento",
-          "Dependência de gás, importação de eletricidade de baixo carbono, demanda de água e capacidade de reciclagem/dessalinização",
-          "RTS Johor-Cingapura, Special Economic Zone e integração ASEAN"
-        ],
-        "search_text": "Cingapura contexto país economia política balanço soberano Temasek GIC CPF HDB dívida pública reservas SNEER porto Tuas Changi semicondutores energia água imigração demografia PAP ASEAN Johor 2026"
-      }
-    }
-  },
-  {
     "id": "MT-GM-2026-09-28",
     "slug": "2026-09-28-global-macro",
     "date": "2026-09-28",
@@ -2106,6 +2206,94 @@
     "qa_reviewed_commit": "e3a652398d3d542afe24a71c93ab7f96e2187683"
   },
   {
+    "id": "MT-GM-2026-09-26",
+    "slug": "2026-09-26-global-macro",
+    "date": "2026-09-26",
+    "published_at": "2026-09-26T12:46:21-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe",
+        "east-asia",
+        "gulf"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "title": "Global Macro — Strong U.S. equipment demand collides with a 5% long-rate regime",
+    "deck": "August capital-goods orders show a resilient U.S. equipment-investment cycle even as long real and nominal yields remain restrictive and household inflation expectations rise.",
+    "tags": [
+      "global macro",
+      "capital expenditure",
+      "Treasuries",
+      "AI",
+      "consumer sentiment",
+      "oil",
+      "Hormuz"
+    ],
+    "keywords": [
+      "core capital goods",
+      "durable goods",
+      "Treasury yields",
+      "real yields",
+      "AI investment",
+      "consumer sentiment",
+      "inflation expectations",
+      "Brent",
+      "Hormuz"
+    ],
+    "regime": "Selective investment strength under expensive capital: equipment demand remains firm while long real and nominal yields stay restrictive and household confidence weakens.",
+    "key_risk": "Persistent high real yields could spread financing pressure beyond housing and weaker borrowers, while the U.S. rejection of Iran's Hormuz proposal leaves the energy-inflation tail exposed to renewed escalation.",
+    "watch": [
+      "Breadth of U.S. equipment investment beyond AI-linked categories",
+      "U.S. 10-year and 30-year nominal and real yields",
+      "Credit spreads, issuance quality and project cancellations",
+      "Michigan and market-based inflation expectations",
+      "Any renewed U.S.-Iran diplomatic channel and verified Hormuz throughput, freight and insurance conditions"
+    ],
+    "search_text": "Global Macro September 26 2026 durable goods core capital goods AI investment Treasury yields real rates Michigan sentiment inflation expectations Brent Hormuz",
+    "url": "/reports/2026/09/2026-09-26-global-macro.html",
+    "markdown_url": "/reports/2026/09/2026-09-26-global-macro/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-26T12:48:03-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "db7a43ca567d56748ebcc2706d1ed8b66d54c735"
+  },
+  {
     "id": "MT-CC-2026-09-26-united-states",
     "slug": "2026-09-26-country-context-united-states",
     "date": "2026-09-26",
@@ -2196,94 +2384,6 @@
     "qa_reviewed_at": "2026-09-26T12:48:03-03:00",
     "qa_confidence": "high",
     "qa_reviewed_commit": "d49077dc7a4ce98b2985bc1796cc883cedf7aefe"
-  },
-  {
-    "id": "MT-GM-2026-09-26",
-    "slug": "2026-09-26-global-macro",
-    "date": "2026-09-26",
-    "published_at": "2026-09-26T12:46:21-03:00",
-    "kind": "daily-global-macro",
-    "priority": 10,
-    "source_locale": "en",
-    "taxonomy_version": "1.0",
-    "program": "political-economy-markets",
-    "related_programs": [
-      "global-system-power"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [
-        "americas",
-        "europe",
-        "asia-pacific",
-        "middle-east"
-      ],
-      "subregions": [
-        "north-america",
-        "western-europe",
-        "east-asia",
-        "gulf"
-      ],
-      "countries": []
-    },
-    "topics": [
-      "macroeconomics",
-      "monetary-policy",
-      "sovereign-debt",
-      "capital-markets",
-      "trade-investment",
-      "industry-production",
-      "technology-innovation",
-      "energy",
-      "geopolitics-security"
-    ],
-    "phenomena": [
-      "war-armed-conflict"
-    ],
-    "format": "brief",
-    "cadence": "daily",
-    "title": "Global Macro — Strong U.S. equipment demand collides with a 5% long-rate regime",
-    "deck": "August capital-goods orders show a resilient U.S. equipment-investment cycle even as long real and nominal yields remain restrictive and household inflation expectations rise.",
-    "tags": [
-      "global macro",
-      "capital expenditure",
-      "Treasuries",
-      "AI",
-      "consumer sentiment",
-      "oil",
-      "Hormuz"
-    ],
-    "keywords": [
-      "core capital goods",
-      "durable goods",
-      "Treasury yields",
-      "real yields",
-      "AI investment",
-      "consumer sentiment",
-      "inflation expectations",
-      "Brent",
-      "Hormuz"
-    ],
-    "regime": "Selective investment strength under expensive capital: equipment demand remains firm while long real and nominal yields stay restrictive and household confidence weakens.",
-    "key_risk": "Persistent high real yields could spread financing pressure beyond housing and weaker borrowers, while the U.S. rejection of Iran's Hormuz proposal leaves the energy-inflation tail exposed to renewed escalation.",
-    "watch": [
-      "Breadth of U.S. equipment investment beyond AI-linked categories",
-      "U.S. 10-year and 30-year nominal and real yields",
-      "Credit spreads, issuance quality and project cancellations",
-      "Michigan and market-based inflation expectations",
-      "Any renewed U.S.-Iran diplomatic channel and verified Hormuz throughput, freight and insurance conditions"
-    ],
-    "search_text": "Global Macro September 26 2026 durable goods core capital goods AI investment Treasury yields real rates Michigan sentiment inflation expectations Brent Hormuz",
-    "url": "/reports/2026/09/2026-09-26-global-macro.html",
-    "markdown_url": "/reports/2026/09/2026-09-26-global-macro/en.md",
-    "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-26T12:48:03-03:00",
-    "qa_confidence": "high",
-    "qa_reviewed_commit": "db7a43ca567d56748ebcc2706d1ed8b66d54c735"
   },
   {
     "id": "MT-GM-2026-09-25",
@@ -2457,90 +2557,6 @@
     "qa_reviewed_at": "2026-09-24T05:37:36Z",
     "qa_confidence": "high",
     "qa_reviewed_commit": "4f1d07838ed117f313d28881809241c27be789b7"
-  },
-  {
-    "id": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
-    "date": "2026-09-23",
-    "published_at": "2026-09-23T08:35:00-03:00",
-    "kind": "economic-paradigm-assessment",
-    "priority": 26,
-    "taxonomy_version": "1.0",
-    "program": "political-economy-markets",
-    "related_programs": [
-      "technology-production-society"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "banking-credit",
-      "monetary-policy",
-      "technology-innovation",
-      "institutions-governance"
-    ],
-    "phenomena": [
-      "institutional-change"
-    ],
-    "format": "assessment",
-    "cadence": "event-driven",
-    "source_locale": "en",
-    "revision": 1,
-    "revision_reason": "Editorial rewrite after QA rejection: direct thesis-led opening and comprehensive PT-BR localization; no material factual, quantitative or causal changes.",
-    "supersedes_rejected_commit": "8c8bc927a96124bd465cf6c355bb5436a5ae8bef",
-    "qa_fixes_applied": [
-      "Replaced formulaic metadiscursive EN/PT-BR opening with direct thesis-led analytical prose.",
-      "Localized PT-BR technical market and engineering terminology, retaining English only when useful and explaining it on first use."
-    ],
-    "series": "economic-paradigms-market-design",
-    "series_domain": "market-microstructure-algorithmic-markets",
-    "selection_rationale": {
-      "relevance": "Trading, settlement and information markets increasingly embed economic rules in software and infrastructure rather than treating technology as neutral execution.",
-      "change": "Recent evidence connects HFT to financing costs, central banks are moving tokenisation into institutional experiments, and U.S. event-contract markets have expanded sharply enough to trigger new market-design oversight.",
-      "underattention": "Discussion is often split between technology coverage and traditional economics, obscuring the question of which theoretical assumptions remain valid when market architecture changes.",
-      "transmission": "Market design changes participant incentives and information processing, which can alter liquidity, systemic risk, settlement, financing conditions and institutional responses."
-    },
-    "title": "Markets are becoming programmable — economics is adapting, but the adjustment is uneven",
-    "deck": "Latency, programmable liquidity, tokenised settlement and event contracts are turning market architecture into an economic variable, while the evidence is maturing at different speeds across each mechanism.",
-    "tags": [
-      "economic paradigms",
-      "market design",
-      "high-frequency trading",
-      "tokenisation",
-      "prediction markets",
-      "automated market makers"
-    ],
-    "keywords": [
-      "economic theory technology",
-      "market microstructure",
-      "HFT cost of capital",
-      "automated market makers",
-      "tokenised finance",
-      "prediction markets regulation",
-      "programmable markets"
-    ],
-    "regime": "Market infrastructure is shifting from passive plumbing toward programmable rules that can alter liquidity, information, settlement and financing conditions.",
-    "key_risk": "Calling every technological innovation a paradigm shift can obscure where established economics still explains the mechanism and where genuinely new institutional assumptions are required.",
-    "watch": [
-      "empirical work linking market microstructure to real-economy financing",
-      "central-bank tokenisation pilots moving into operating infrastructure",
-      "market-design regulation for algorithmic and event markets",
-      "evidence on AI agents and automated economic decision systems"
-    ],
-    "search_text": "economic paradigms market design programmable markets high-frequency trading HFT cost of capital AMM automated market makers tokenisation settlement prediction markets economic theory regulation",
-    "url": "/reports/2026/09/2026-09-23-economic-paradigms-programmable-markets.html",
-    "markdown_url": "/reports/2026/09/2026-09-23-economic-paradigms-programmable-markets/en.md",
-    "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T21:50:00Z",
-    "qa_confidence": "high",
-    "qa_reviewed_commit": "415fcc8093ea6d65384778d1aa8725c6f624bf0f"
   },
   {
     "id": "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
@@ -3840,6 +3856,253 @@
     "qa_reviewed_at": "2026-09-24T00:20:00Z",
     "qa_confidence": "high",
     "qa_reviewed_commit": "0252addeba97c8d7eedfcc3cd61c734647253e0d"
+  },
+  {
+    "id": "MT-PE-2026-09-23-MERCOSUR",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:34:00-03:00",
+    "kind": "regional-integration-system",
+    "priority": 15,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "AR",
+          "slug": "argentina"
+        },
+        {
+          "code": "BO",
+          "slug": "bolivia"
+        },
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "PY",
+          "slug": "paraguay"
+        },
+        {
+          "code": "UY",
+          "slug": "uruguay"
+        },
+        {
+          "code": "VE",
+          "slug": "venezuela"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "title": "Mercosur in 2026: from democratic rapprochement to an incomplete customs union facing its largest external opening",
+    "deck": "A structural reconstruction of Mercosur as a political peace project, imperfect customs union, production network and external negotiating platform at the moment Bolivia is incorporated and the EU agreement enters provisional application.",
+    "tags": [
+      "Mercosur",
+      "South America",
+      "regional integration",
+      "EU–Mercosur",
+      "customs union",
+      "trade"
+    ],
+    "keywords": [
+      "Mercosur 2026",
+      "Mercosur members",
+      "Bolivia Mercosur",
+      "Venezuela suspended Mercosur",
+      "EU Mercosur agreement 2026",
+      "Mercosur customs union"
+    ],
+    "regime": "Mercosur remains an intergovernmental and incomplete customs union with durable political institutions; Bolivia's accession and the provisional EU agreement create the largest implementation test since its founding.",
+    "key_risk": "If external liberalization advances without reducing internal customs, regulatory and infrastructure frictions, Mercosur may remain politically durable but economically shallow.",
+    "watch": [
+      "EU agreement preference utilization",
+      "Bolivia acquis incorporation",
+      "intra-bloc investment",
+      "customs and logistics times",
+      "regional energy flows",
+      "Venezuela status"
+    ],
+    "search_text": "Mercosur 2026 deep research history Treaty Asuncion Ouro Preto Bolivia accession Venezuela suspension EU agreement customs union regional production integration",
+    "url": "/reports/2026/09/2026-09-23-mercosur-system.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-mercosur-system/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T15:56:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
+  },
+  {
+    "id": "MT-GS-2026-09-23-BRICS",
+    "date": "2026-09-23",
+    "published_at": "2026-09-23T11:32:00-03:00",
+    "kind": "global-institution-system",
+    "priority": 14,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "africa",
+        "americas",
+        "asia-pacific",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "RU",
+          "slug": "russia"
+        },
+        {
+          "code": "IN",
+          "slug": "india"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        },
+        {
+          "code": "ZA",
+          "slug": "south-africa"
+        },
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        },
+        {
+          "code": "EG",
+          "slug": "egypt"
+        },
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        },
+        {
+          "code": "ET",
+          "slug": "ethiopia"
+        },
+        {
+          "code": "IR",
+          "slug": "iran"
+        },
+        {
+          "code": "ID",
+          "slug": "indonesia"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "trade-investment",
+      "banking-credit",
+      "capital-markets",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "defense-security",
+      "demographic-transition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "revision": 1,
+    "title": "BRICS in 2026: from an investment acronym to a heterogeneous institution of Global South coordination",
+    "deck": "An institutional and economic reconstruction of how BRICS evolved from a four-country analytical category into an 11-member coordination system with a development bank, wider diplomatic reach and rising internal heterogeneity.",
+    "tags": [
+      "BRICS",
+      "Global South",
+      "New Development Bank",
+      "international institutions",
+      "local currencies",
+      "development finance"
+    ],
+    "keywords": [
+      "BRICS 2026",
+      "BRICS members",
+      "New Development Bank",
+      "BRICS common currency",
+      "BRICS local currencies",
+      "BRICS expansion",
+      "New Delhi Declaration"
+    ],
+    "regime": "Expanded BRICS operates as a consensus-based coordination network rather than an integrated economic union, combining greater aggregate scale with higher internal heterogeneity.",
+    "key_risk": "Expansion can increase diplomatic visibility faster than operational integration, producing a gap between declarations and implemented financial, trade and infrastructure mechanisms.",
+    "watch": [
+      "NDB approvals and disbursements",
+      "local-currency financing",
+      "payment-system interoperability",
+      "intra-BRICS trade concentration",
+      "implementation continuity across presidencies",
+      "partner-country accession"
+    ],
+    "search_text": "BRICS 2026 deep research history members expansion New Development Bank NDB local currencies common currency New Delhi Declaration Global South governance",
+    "url": "/reports/2026/09/2026-09-23-brics-system.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-brics-system/en.md",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
   },
   {
     "id": "MT-CC-2026-09-23-venezuela",
@@ -5391,251 +5654,88 @@
     "qa_reviewed_commit": "38318595d7e164dfc1477703c4645198c9af583c"
   },
   {
-    "id": "MT-PE-2026-09-23-MERCOSUR",
+    "id": "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
     "date": "2026-09-23",
-    "published_at": "2026-09-23T11:34:00-03:00",
-    "kind": "regional-integration-system",
-    "priority": 15,
+    "published_at": "2026-09-23T08:35:00-03:00",
+    "kind": "economic-paradigm-assessment",
+    "priority": 26,
     "taxonomy_version": "1.0",
     "program": "political-economy-markets",
     "related_programs": [
-      "global-system-power",
-      "strategic-transitions"
+      "technology-production-society"
     ],
     "dimensions": [
       "economy",
-      "politics",
-      "society"
+      "politics"
     ],
     "geography": {
-      "level": "multi-country",
-      "regions": [
-        "americas"
-      ],
-      "subregions": [
-        "latin-america-caribbean"
-      ],
-      "countries": [
-        {
-          "code": "AR",
-          "slug": "argentina"
-        },
-        {
-          "code": "BO",
-          "slug": "bolivia"
-        },
-        {
-          "code": "BR",
-          "slug": "brazil"
-        },
-        {
-          "code": "PY",
-          "slug": "paraguay"
-        },
-        {
-          "code": "UY",
-          "slug": "uruguay"
-        },
-        {
-          "code": "VE",
-          "slug": "venezuela"
-        }
-      ]
-    },
-    "topics": [
-      "macroeconomics",
-      "monetary-policy",
-      "trade-investment",
-      "industry-production",
-      "energy",
-      "commodities-resources",
-      "infrastructure-logistics",
-      "institutions-governance",
-      "geopolitics-security",
-      "demography-labor",
-      "social-change"
-    ],
-    "phenomena": [
-      "institutional-change",
-      "strategic-competition",
-      "social-change"
-    ],
-    "format": "research-report",
-    "cadence": "event-driven",
-    "source_locale": "en",
-    "revision": 1,
-    "title": "Mercosur in 2026: from democratic rapprochement to an incomplete customs union facing its largest external opening",
-    "deck": "A structural reconstruction of Mercosur as a political peace project, imperfect customs union, production network and external negotiating platform at the moment Bolivia is incorporated and the EU agreement enters provisional application.",
-    "tags": [
-      "Mercosur",
-      "South America",
-      "regional integration",
-      "EU–Mercosur",
-      "customs union",
-      "trade"
-    ],
-    "keywords": [
-      "Mercosur 2026",
-      "Mercosur members",
-      "Bolivia Mercosur",
-      "Venezuela suspended Mercosur",
-      "EU Mercosur agreement 2026",
-      "Mercosur customs union"
-    ],
-    "regime": "Mercosur remains an intergovernmental and incomplete customs union with durable political institutions; Bolivia's accession and the provisional EU agreement create the largest implementation test since its founding.",
-    "key_risk": "If external liberalization advances without reducing internal customs, regulatory and infrastructure frictions, Mercosur may remain politically durable but economically shallow.",
-    "watch": [
-      "EU agreement preference utilization",
-      "Bolivia acquis incorporation",
-      "intra-bloc investment",
-      "customs and logistics times",
-      "regional energy flows",
-      "Venezuela status"
-    ],
-    "search_text": "Mercosur 2026 deep research history Treaty Asuncion Ouro Preto Bolivia accession Venezuela suspension EU agreement customs union regional production integration",
-    "url": "/reports/2026/09/2026-09-23-mercosur-system.html",
-    "markdown_url": "/reports/2026/09/2026-09-23-mercosur-system/en.md",
-    "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T15:56:00Z",
-    "qa_confidence": "high",
-    "qa_reviewed_commit": "0cdfcca7e66e3bfbd6267bbfb8d6f9ccf793fab2"
-  },
-  {
-    "id": "MT-GS-2026-09-23-BRICS",
-    "date": "2026-09-23",
-    "published_at": "2026-09-23T11:32:00-03:00",
-    "kind": "global-institution-system",
-    "priority": 14,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets",
-      "strategic-transitions"
-    ],
-    "dimensions": [
-      "economy",
-      "politics",
-      "society"
-    ],
-    "geography": {
-      "level": "multi-country",
-      "regions": [
-        "africa",
-        "americas",
-        "asia-pacific",
-        "europe",
-        "middle-east"
-      ],
+      "level": "global",
+      "regions": [],
       "subregions": [],
-      "countries": [
-        {
-          "code": "BR",
-          "slug": "brazil"
-        },
-        {
-          "code": "RU",
-          "slug": "russia"
-        },
-        {
-          "code": "IN",
-          "slug": "india"
-        },
-        {
-          "code": "CN",
-          "slug": "china"
-        },
-        {
-          "code": "ZA",
-          "slug": "south-africa"
-        },
-        {
-          "code": "SA",
-          "slug": "saudi-arabia"
-        },
-        {
-          "code": "EG",
-          "slug": "egypt"
-        },
-        {
-          "code": "AE",
-          "slug": "united-arab-emirates"
-        },
-        {
-          "code": "ET",
-          "slug": "ethiopia"
-        },
-        {
-          "code": "IR",
-          "slug": "iran"
-        },
-        {
-          "code": "ID",
-          "slug": "indonesia"
-        }
-      ]
+      "countries": []
     },
     "topics": [
-      "macroeconomics",
-      "monetary-policy",
-      "trade-investment",
-      "banking-credit",
       "capital-markets",
-      "industry-production",
-      "energy",
-      "commodities-resources",
-      "infrastructure-logistics",
-      "institutions-governance",
-      "geopolitics-security",
-      "demography-labor",
-      "social-change"
+      "banking-credit",
+      "monetary-policy",
+      "technology-innovation",
+      "institutions-governance"
     ],
     "phenomena": [
-      "institutional-change",
-      "strategic-competition",
-      "defense-security",
-      "demographic-transition",
-      "social-change"
+      "institutional-change"
     ],
-    "format": "research-report",
+    "format": "assessment",
     "cadence": "event-driven",
     "source_locale": "en",
     "revision": 1,
-    "title": "BRICS in 2026: from an investment acronym to a heterogeneous institution of Global South coordination",
-    "deck": "An institutional and economic reconstruction of how BRICS evolved from a four-country analytical category into an 11-member coordination system with a development bank, wider diplomatic reach and rising internal heterogeneity.",
+    "revision_reason": "Editorial rewrite after QA rejection: direct thesis-led opening and comprehensive PT-BR localization; no material factual, quantitative or causal changes.",
+    "supersedes_rejected_commit": "8c8bc927a96124bd465cf6c355bb5436a5ae8bef",
+    "qa_fixes_applied": [
+      "Replaced formulaic metadiscursive EN/PT-BR opening with direct thesis-led analytical prose.",
+      "Localized PT-BR technical market and engineering terminology, retaining English only when useful and explaining it on first use."
+    ],
+    "series": "economic-paradigms-market-design",
+    "series_domain": "market-microstructure-algorithmic-markets",
+    "selection_rationale": {
+      "relevance": "Trading, settlement and information markets increasingly embed economic rules in software and infrastructure rather than treating technology as neutral execution.",
+      "change": "Recent evidence connects HFT to financing costs, central banks are moving tokenisation into institutional experiments, and U.S. event-contract markets have expanded sharply enough to trigger new market-design oversight.",
+      "underattention": "Discussion is often split between technology coverage and traditional economics, obscuring the question of which theoretical assumptions remain valid when market architecture changes.",
+      "transmission": "Market design changes participant incentives and information processing, which can alter liquidity, systemic risk, settlement, financing conditions and institutional responses."
+    },
+    "title": "Markets are becoming programmable — economics is adapting, but the adjustment is uneven",
+    "deck": "Latency, programmable liquidity, tokenised settlement and event contracts are turning market architecture into an economic variable, while the evidence is maturing at different speeds across each mechanism.",
     "tags": [
-      "BRICS",
-      "Global South",
-      "New Development Bank",
-      "international institutions",
-      "local currencies",
-      "development finance"
+      "economic paradigms",
+      "market design",
+      "high-frequency trading",
+      "tokenisation",
+      "prediction markets",
+      "automated market makers"
     ],
     "keywords": [
-      "BRICS 2026",
-      "BRICS members",
-      "New Development Bank",
-      "BRICS common currency",
-      "BRICS local currencies",
-      "BRICS expansion",
-      "New Delhi Declaration"
+      "economic theory technology",
+      "market microstructure",
+      "HFT cost of capital",
+      "automated market makers",
+      "tokenised finance",
+      "prediction markets regulation",
+      "programmable markets"
     ],
-    "regime": "Expanded BRICS operates as a consensus-based coordination network rather than an integrated economic union, combining greater aggregate scale with higher internal heterogeneity.",
-    "key_risk": "Expansion can increase diplomatic visibility faster than operational integration, producing a gap between declarations and implemented financial, trade and infrastructure mechanisms.",
+    "regime": "Market infrastructure is shifting from passive plumbing toward programmable rules that can alter liquidity, information, settlement and financing conditions.",
+    "key_risk": "Calling every technological innovation a paradigm shift can obscure where established economics still explains the mechanism and where genuinely new institutional assumptions are required.",
     "watch": [
-      "NDB approvals and disbursements",
-      "local-currency financing",
-      "payment-system interoperability",
-      "intra-BRICS trade concentration",
-      "implementation continuity across presidencies",
-      "partner-country accession"
+      "empirical work linking market microstructure to real-economy financing",
+      "central-bank tokenisation pilots moving into operating infrastructure",
+      "market-design regulation for algorithmic and event markets",
+      "evidence on AI agents and automated economic decision systems"
     ],
-    "search_text": "BRICS 2026 deep research history members expansion New Development Bank NDB local currencies common currency New Delhi Declaration Global South governance",
-    "url": "/reports/2026/09/2026-09-23-brics-system.html",
-    "markdown_url": "/reports/2026/09/2026-09-23-brics-system/en.md",
+    "search_text": "economic paradigms market design programmable markets high-frequency trading HFT cost of capital AMM automated market makers tokenisation settlement prediction markets economic theory regulation",
+    "url": "/reports/2026/09/2026-09-23-economic-paradigms-programmable-markets.html",
+    "markdown_url": "/reports/2026/09/2026-09-23-economic-paradigms-programmable-markets/en.md",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-23T14:42:00Z",
+    "qa_reviewed_at": "2026-09-23T21:50:00Z",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "7fac6c15eea8a1cde969c49035b495d7860c069a"
+    "qa_reviewed_commit": "415fcc8093ea6d65384778d1aa8725c6f624bf0f"
   },
   {
     "id": "MT-GM-2026-09-23",
@@ -5814,11 +5914,11 @@
     "qa_reviewed_commit": "ce2fdd488bb182284d24a386902899bd34e7959c"
   },
   {
-    "id": "MT-GM-2026-09-22",
+    "id": "MT-GMFI-2026-09-22-LICDSF",
     "date": "2026-09-22",
-    "published_at": "2026-09-22T00:05:36-03:00",
-    "kind": "daily-global-macro",
-    "priority": 10,
+    "published_at": "2026-09-22T10:50:00-03:00",
+    "kind": "institutional-decision",
+    "priority": 7,
     "taxonomy_version": "1.0",
     "program": "political-economy-markets",
     "related_programs": [
@@ -5835,58 +5935,58 @@
       "countries": []
     },
     "topics": [
-      "macroeconomics",
-      "monetary-policy",
-      "capital-markets",
-      "currencies",
-      "energy",
-      "geopolitics-security"
+      "sovereign-debt",
+      "institutions-governance",
+      "fiscal-policy",
+      "banking-credit"
     ],
     "phenomena": [
-      "war-armed-conflict",
-      "strategic-competition",
-      "defense-security"
+      "institutional-change"
     ],
     "format": "brief",
-    "cadence": "daily",
+    "cadence": "event-driven",
     "source_locale": "en",
-    "title": "Global Macro — Oil relief widens risk appetite, but long rates still set a restrictive floor",
-    "deck": "Oil relief lifted equities and duration, but long U.S. yields, European gas pass-through and unresolved geopolitical constraints keep the global regime restrictive.",
-    "url": "/reports/2026/09/2026-09-22-global-macro.html",
-    "markdown_url": "/reports/2026/09/2026-09-22-global-macro/en.md",
+    "revision": 1,
+    "revision_reason": "qa_rework",
+    "series": "global-monetary-financial-institutions",
+    "series_domain": "multilateral-finance",
+    "qa_fixes_applied": [
+      "Added controlled phenomena classification: institutional-change",
+      "Localized Executive Board and Board references to Conselho Executivo in the PT-BR article",
+      "Localized Guidance Note and Board references in PT-BR watch metadata while preserving facts, dates, units, visuals and conclusions"
+    ],
+    "title": "The IMF–World Bank debt framework is changing how low-income sovereign risk is assessed",
+    "deck": "The 2026 LIC-DSF review adds domestic-debt and long-term modules, recalibrates debt-stress thresholds, introduces new model signals and data-confidence treatment, while keeping the harmonised discount rate at 5%.",
+    "url": "/reports/2026/09/2026-09-22-imf-world-bank-lic-debt-framework.html",
+    "markdown_url": "/reports/2026/09/2026-09-22-imf-world-bank-lic-debt-framework/en.md",
     "tags": [
-      "Global Macro",
-      "Federal Reserve",
-      "Treasuries",
-      "oil",
-      "AI",
-      "Europe",
-      "China",
-      "Brazil"
+      "IMF",
+      "World Bank",
+      "sovereign-debt",
+      "LIC-DSF"
     ],
     "keywords": [
-      "Brent",
-      "WTI",
-      "Treasury yields",
-      "semiconductors",
-      "SoftBank",
-      "OpenAI",
-      "European gas",
-      "Xi Jinping",
-      "Selic"
+      "LIC-DSF",
+      "debt sustainability",
+      "low-income countries",
+      "domestic debt",
+      "debt distress",
+      "IMF",
+      "World Bank"
     ],
-    "regime": "Energy risk premium easing inside still-restrictive global financial conditions",
-    "key_risk": "Markets may be pricing diplomatic and logistical relief faster than Gulf physical security, European gas transmission and U.S.-China economic restrictions can improve.",
+    "regime": "Debt assessment for low-income countries is moving toward broader coverage of domestic debt, long-term investment needs and more granular risk classification.",
+    "key_risk": "Greater analytical complexity and temporary non-publication of some mechanical signals can make country assessments harder to interpret during transition.",
     "watch": [
-      "Gulf realized export throughput and freight/insurance costs",
-      "U.S. 10Y and 30Y Treasury yields",
-      "European gas prices and retail pass-through",
-      "Concrete policy outcomes from the Trump-Xi meetings"
+      "Guidance Note and DSA template",
+      "country documents after the 2027 Board summer recess",
+      "domestic-debt module",
+      "mechanical risk signal publication policy",
+      "debt-data confidence flags"
     ],
-    "search_text": "Global macro September 22 2026 oil Treasury yields AI semiconductors Europe gas U.S. China Brazil Selic political risk",
-    "qa_reviewed_at": "2026-09-22T00:16:00-03:00",
+    "search_text": "IMF World Bank 2026 LIC DSF debt sustainability framework low income countries domestic debt discount rate five percent 2027 implementation.",
+    "qa_reviewed_at": "2026-09-22T17:22:35-03:00",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "bb32554a43d8466c136bbb0e0cd15ed4c3318a35"
+    "qa_reviewed_commit": "f5c6e656a8b3ff3c7a664bd035eb9066639d266f"
   },
   {
     "id": "MT-GMFI-2026-09-22",
@@ -5971,11 +6071,11 @@
     "qa_reviewed_commit": "f5c6e656a8b3ff3c7a664bd035eb9066639d266f"
   },
   {
-    "id": "MT-GMFI-2026-09-22-LICDSF",
+    "id": "MT-GM-2026-09-22",
     "date": "2026-09-22",
-    "published_at": "2026-09-22T10:50:00-03:00",
-    "kind": "institutional-decision",
-    "priority": 7,
+    "published_at": "2026-09-22T00:05:36-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
     "taxonomy_version": "1.0",
     "program": "political-economy-markets",
     "related_programs": [
@@ -5992,58 +6092,58 @@
       "countries": []
     },
     "topics": [
-      "sovereign-debt",
-      "institutions-governance",
-      "fiscal-policy",
-      "banking-credit"
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "geopolitics-security"
     ],
     "phenomena": [
-      "institutional-change"
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security"
     ],
     "format": "brief",
-    "cadence": "event-driven",
+    "cadence": "daily",
     "source_locale": "en",
-    "revision": 1,
-    "revision_reason": "qa_rework",
-    "series": "global-monetary-financial-institutions",
-    "series_domain": "multilateral-finance",
-    "qa_fixes_applied": [
-      "Added controlled phenomena classification: institutional-change",
-      "Localized Executive Board and Board references to Conselho Executivo in the PT-BR article",
-      "Localized Guidance Note and Board references in PT-BR watch metadata while preserving facts, dates, units, visuals and conclusions"
-    ],
-    "title": "The IMF–World Bank debt framework is changing how low-income sovereign risk is assessed",
-    "deck": "The 2026 LIC-DSF review adds domestic-debt and long-term modules, recalibrates debt-stress thresholds, introduces new model signals and data-confidence treatment, while keeping the harmonised discount rate at 5%.",
-    "url": "/reports/2026/09/2026-09-22-imf-world-bank-lic-debt-framework.html",
-    "markdown_url": "/reports/2026/09/2026-09-22-imf-world-bank-lic-debt-framework/en.md",
+    "title": "Global Macro — Oil relief widens risk appetite, but long rates still set a restrictive floor",
+    "deck": "Oil relief lifted equities and duration, but long U.S. yields, European gas pass-through and unresolved geopolitical constraints keep the global regime restrictive.",
+    "url": "/reports/2026/09/2026-09-22-global-macro.html",
+    "markdown_url": "/reports/2026/09/2026-09-22-global-macro/en.md",
     "tags": [
-      "IMF",
-      "World Bank",
-      "sovereign-debt",
-      "LIC-DSF"
+      "Global Macro",
+      "Federal Reserve",
+      "Treasuries",
+      "oil",
+      "AI",
+      "Europe",
+      "China",
+      "Brazil"
     ],
     "keywords": [
-      "LIC-DSF",
-      "debt sustainability",
-      "low-income countries",
-      "domestic debt",
-      "debt distress",
-      "IMF",
-      "World Bank"
+      "Brent",
+      "WTI",
+      "Treasury yields",
+      "semiconductors",
+      "SoftBank",
+      "OpenAI",
+      "European gas",
+      "Xi Jinping",
+      "Selic"
     ],
-    "regime": "Debt assessment for low-income countries is moving toward broader coverage of domestic debt, long-term investment needs and more granular risk classification.",
-    "key_risk": "Greater analytical complexity and temporary non-publication of some mechanical signals can make country assessments harder to interpret during transition.",
+    "regime": "Energy risk premium easing inside still-restrictive global financial conditions",
+    "key_risk": "Markets may be pricing diplomatic and logistical relief faster than Gulf physical security, European gas transmission and U.S.-China economic restrictions can improve.",
     "watch": [
-      "Guidance Note and DSA template",
-      "country documents after the 2027 Board summer recess",
-      "domestic-debt module",
-      "mechanical risk signal publication policy",
-      "debt-data confidence flags"
+      "Gulf realized export throughput and freight/insurance costs",
+      "U.S. 10Y and 30Y Treasury yields",
+      "European gas prices and retail pass-through",
+      "Concrete policy outcomes from the Trump-Xi meetings"
     ],
-    "search_text": "IMF World Bank 2026 LIC DSF debt sustainability framework low income countries domestic debt discount rate five percent 2027 implementation.",
-    "qa_reviewed_at": "2026-09-22T17:22:35-03:00",
+    "search_text": "Global macro September 22 2026 oil Treasury yields AI semiconductors Europe gas U.S. China Brazil Selic political risk",
+    "qa_reviewed_at": "2026-09-22T00:16:00-03:00",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "f5c6e656a8b3ff3c7a664bd035eb9066639d266f"
+    "qa_reviewed_commit": "bb32554a43d8466c136bbb0e0cd15ed4c3318a35"
   },
   {
     "id": "MT-ST-2026-09-21-vietnam-ftse-market-access",
@@ -6638,6 +6738,179 @@
     "qa_reviewed_commit": "c1bb3dabf4b1e1fdc674c5ccedd3e8efe67a314a"
   },
   {
+    "id": "MT-WF-2026-09-18",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T10:35:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "monitor",
+    "cadence": "weekly",
+    "source_locale": "en",
+    "title": "Global Wealth Flow Monitor — 18 September 2026",
+    "deck": "Foreign demand for U.S. liquidity persisted as long-term flows weakened, gold fund holdings reached a record, and higher policy rates raised the financing hurdle for the capital-intensive AI and infrastructure cycle.",
+    "url": "/reports/2026/09/2026-09-18-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-18-global-wealth-flow-weekly/en.md",
+    "tags": [
+      "global capital flows",
+      "TIC",
+      "gold",
+      "FDI",
+      "AI infrastructure",
+      "energy",
+      "interest rates"
+    ],
+    "keywords": [
+      "global wealth flows",
+      "Treasury International Capital",
+      "gold ETF flows",
+      "foreign direct investment",
+      "data centres",
+      "semiconductors",
+      "electricity",
+      "Federal Reserve",
+      "ECB",
+      "Hormuz"
+    ],
+    "regime": "Liquid dollar demand persists while higher rates increase selectivity across capital-intensive strategic investment.",
+    "key_risk": "A prolonged energy shock combined with higher policy rates could turn physical infrastructure constraints into financing stress and project cancellations.",
+    "watch": [
+      "August TIC",
+      "2026Q2 COFER",
+      "BIS Q2 banking data",
+      "September gold ETF flows",
+      "strategic greenfield cancellations and final investment decisions",
+      "data-centre commissioning and grid constraints"
+    ],
+    "search_text": "global wealth capital flows TIC July 2026 Treasury bills bank liabilities gold ETF August FDI AI data centres semiconductors electricity Fed ECB energy Hormuz",
+    "qa_reviewed_at": "2026-09-18T10:28:28-03:00",
+    "qa_confidence": "medium-high",
+    "qa_reviewed_commit": "fe978903239e6bb907bb3bf22f6041676b522fce"
+  },
+  {
+    "id": "MT-CC-2026-09-18-saudi-arabia",
+    "date": "2026-09-18",
+    "published_at": "2026-09-18T10:30:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "middle-east"
+      ],
+      "subregions": [
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "SA",
+          "slug": "saudi-arabia"
+        }
+      ]
+    },
+    "topics": [
+      "fiscal-policy",
+      "trade-investment",
+      "energy",
+      "infrastructure-logistics",
+      "industry-production",
+      "institutions-governance",
+      "demography-labor",
+      "capital-markets"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "title": "Saudi Arabia: oil buffers, state-led diversification and the limits of substitution",
+    "deck": "Saudi Arabia is using hydrocarbon income, state capital and logistics redundancy to widen its productive base, but fiscal dependence, private-sector productivity, labour segmentation and Gulf geography still constrain the transition.",
+    "url": "/reports/2026/09/2026-09-18-country-context-saudi-arabia.html",
+    "markdown_url": "/reports/2026/09/2026-09-18-country-context-saudi-arabia/en.md",
+    "tags": [
+      "Saudi Arabia",
+      "Vision 2030",
+      "PIF",
+      "oil",
+      "labour market",
+      "Hormuz",
+      "fiscal policy"
+    ],
+    "keywords": [
+      "Saudi Arabia",
+      "Vision 2030",
+      "Public Investment Fund",
+      "non-oil GDP",
+      "non-oil primary deficit",
+      "East-West Pipeline",
+      "Hormuz",
+      "Saudi labour market",
+      "dollar peg"
+    ],
+    "regime": "State-led diversification remains supported by oil income and large balance sheets while conflict and higher financing costs increase pressure for selective investment and private-sector productivity.",
+    "key_risk": "A prolonged regional disruption or weaker project returns could force sharper prioritization before private investment and non-oil revenue are deep enough to sustain the investment cycle.",
+    "watch": [
+      "non-oil primary deficit",
+      "private investment and non-oil exports",
+      "PIF capital allocation",
+      "bank exposure to large projects",
+      "Saudi labour participation and skills",
+      "East-West pipeline and Red Sea export utilization"
+    ],
+    "search_text": "Saudi Arabia country context Vision 2030 PIF oil fiscal non-oil primary deficit labour women participation East-West pipeline Hormuz dollar peg diversification",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-GM-2026-09-17",
+      "MT-GM-2026-09-18",
+      "MT-WF-2026-09-18"
+    ],
+    "qa_reviewed_at": "2026-09-18T23:31:06-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "99bf34eb6027d8a278f759e4bbcaf0f3aad0c906"
+  },
+  {
     "id": "MT-TS-2026-09-18-agentic-operating-layer",
     "date": "2026-09-18",
     "published_at": "2026-09-18T10:25:00-03:00",
@@ -6823,179 +7096,6 @@
     "qa_reviewed_at": "2026-09-18T11:28:00-03:00",
     "qa_confidence": "medium-high",
     "qa_reviewed_commit": "45595e1b4dfdf4a19f2abda4524383abec299f9a"
-  },
-  {
-    "id": "MT-WF-2026-09-18",
-    "date": "2026-09-18",
-    "published_at": "2026-09-18T10:35:00-03:00",
-    "kind": "weekly-wealth-flow",
-    "priority": 20,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
-      "technology-innovation",
-      "infrastructure-logistics",
-      "currencies",
-      "sovereign-debt",
-      "banking-credit"
-    ],
-    "phenomena": [
-      "war-armed-conflict"
-    ],
-    "format": "monitor",
-    "cadence": "weekly",
-    "source_locale": "en",
-    "title": "Global Wealth Flow Monitor — 18 September 2026",
-    "deck": "Foreign demand for U.S. liquidity persisted as long-term flows weakened, gold fund holdings reached a record, and higher policy rates raised the financing hurdle for the capital-intensive AI and infrastructure cycle.",
-    "url": "/reports/2026/09/2026-09-18-global-wealth-flow-weekly.html",
-    "markdown_url": "/reports/2026/09/2026-09-18-global-wealth-flow-weekly/en.md",
-    "tags": [
-      "global capital flows",
-      "TIC",
-      "gold",
-      "FDI",
-      "AI infrastructure",
-      "energy",
-      "interest rates"
-    ],
-    "keywords": [
-      "global wealth flows",
-      "Treasury International Capital",
-      "gold ETF flows",
-      "foreign direct investment",
-      "data centres",
-      "semiconductors",
-      "electricity",
-      "Federal Reserve",
-      "ECB",
-      "Hormuz"
-    ],
-    "regime": "Liquid dollar demand persists while higher rates increase selectivity across capital-intensive strategic investment.",
-    "key_risk": "A prolonged energy shock combined with higher policy rates could turn physical infrastructure constraints into financing stress and project cancellations.",
-    "watch": [
-      "August TIC",
-      "2026Q2 COFER",
-      "BIS Q2 banking data",
-      "September gold ETF flows",
-      "strategic greenfield cancellations and final investment decisions",
-      "data-centre commissioning and grid constraints"
-    ],
-    "search_text": "global wealth capital flows TIC July 2026 Treasury bills bank liabilities gold ETF August FDI AI data centres semiconductors electricity Fed ECB energy Hormuz",
-    "qa_reviewed_at": "2026-09-18T10:28:28-03:00",
-    "qa_confidence": "medium-high",
-    "qa_reviewed_commit": "fe978903239e6bb907bb3bf22f6041676b522fce"
-  },
-  {
-    "id": "MT-CC-2026-09-18-saudi-arabia",
-    "date": "2026-09-18",
-    "published_at": "2026-09-18T10:30:00-03:00",
-    "kind": "country-context",
-    "priority": 18,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics",
-      "society"
-    ],
-    "geography": {
-      "level": "country",
-      "regions": [
-        "middle-east"
-      ],
-      "subregions": [
-        "gulf"
-      ],
-      "countries": [
-        {
-          "code": "SA",
-          "slug": "saudi-arabia"
-        }
-      ]
-    },
-    "topics": [
-      "fiscal-policy",
-      "trade-investment",
-      "energy",
-      "infrastructure-logistics",
-      "industry-production",
-      "institutions-governance",
-      "demography-labor",
-      "capital-markets"
-    ],
-    "phenomena": [
-      "war-armed-conflict",
-      "institutional-change",
-      "social-change"
-    ],
-    "format": "country-dossier",
-    "cadence": "event-driven",
-    "source_locale": "en",
-    "title": "Saudi Arabia: oil buffers, state-led diversification and the limits of substitution",
-    "deck": "Saudi Arabia is using hydrocarbon income, state capital and logistics redundancy to widen its productive base, but fiscal dependence, private-sector productivity, labour segmentation and Gulf geography still constrain the transition.",
-    "url": "/reports/2026/09/2026-09-18-country-context-saudi-arabia.html",
-    "markdown_url": "/reports/2026/09/2026-09-18-country-context-saudi-arabia/en.md",
-    "tags": [
-      "Saudi Arabia",
-      "Vision 2030",
-      "PIF",
-      "oil",
-      "labour market",
-      "Hormuz",
-      "fiscal policy"
-    ],
-    "keywords": [
-      "Saudi Arabia",
-      "Vision 2030",
-      "Public Investment Fund",
-      "non-oil GDP",
-      "non-oil primary deficit",
-      "East-West Pipeline",
-      "Hormuz",
-      "Saudi labour market",
-      "dollar peg"
-    ],
-    "regime": "State-led diversification remains supported by oil income and large balance sheets while conflict and higher financing costs increase pressure for selective investment and private-sector productivity.",
-    "key_risk": "A prolonged regional disruption or weaker project returns could force sharper prioritization before private investment and non-oil revenue are deep enough to sustain the investment cycle.",
-    "watch": [
-      "non-oil primary deficit",
-      "private investment and non-oil exports",
-      "PIF capital allocation",
-      "bank exposure to large projects",
-      "Saudi labour participation and skills",
-      "East-West pipeline and Red Sea export utilization"
-    ],
-    "search_text": "Saudi Arabia country context Vision 2030 PIF oil fiscal non-oil primary deficit labour women participation East-West pipeline Hormuz dollar peg diversification",
-    "context_role": "country-context",
-    "related_research_ids": [
-      "MT-GM-2026-09-17",
-      "MT-GM-2026-09-18",
-      "MT-WF-2026-09-18"
-    ],
-    "qa_reviewed_at": "2026-09-18T23:31:06-03:00",
-    "qa_confidence": "high",
-    "qa_reviewed_commit": "99bf34eb6027d8a278f759e4bbcaf0f3aad0c906"
   },
   {
     "id": "MT-CC-2026-09-18-japan",
@@ -7352,21 +7452,19 @@
     "qa_reviewed_commit": "c671a0536e917305b5dc678605601c6b87ea7b61"
   },
   {
-    "id": "MT-TECH-2026-09-16-quantum-computing",
+    "id": "MT-WF-2026-09-16",
     "date": "2026-09-16",
-    "published_at": "2026-09-16T10:54:01-03:00",
-    "kind": "monthly-strategic-technology",
-    "priority": 35,
+    "published_at": "2026-09-16T12:19:27-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
     "taxonomy_version": "1.0",
-    "program": "technology-production-society",
+    "program": "global-system-power",
     "related_programs": [
-      "global-system-power",
       "political-economy-markets"
     ],
     "dimensions": [
       "economy",
-      "politics",
-      "society"
+      "politics"
     ],
     "geography": {
       "level": "global",
@@ -7375,54 +7473,56 @@
       "countries": []
     },
     "topics": [
-      "technology-innovation",
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
       "industry-production",
+      "technology-innovation",
       "infrastructure-logistics",
-      "institutions-governance",
-      "geopolitics-security",
-      "demography-labor"
+      "currencies",
+      "sovereign-debt",
+      "banking-credit"
     ],
-    "format": "assessment",
-    "cadence": "monthly",
+    "format": "monitor",
+    "cadence": "weekly",
     "source_locale": "en",
-    "title": "Quantum Computing in 2026: Real Progress, Economic Utility Still Under Validation",
-    "deck": "Error correction has advanced and post-quantum migration is already driving concrete decisions, but a fault-tolerant machine with independently verified economic utility has not yet been demonstrated.",
-    "url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing.html",
-    "markdown_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-en.md",
+    "title": "Global Wealth Flow Monitor — 16 September 2026",
+    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
+    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
     "tags": [
-      "Technology",
-      "Quantum Computing",
-      "PQC",
-      "Security",
-      "Infrastructure"
+      "global capital flows",
+      "official reserves",
+      "gold",
+      "critical minerals",
+      "AI infrastructure"
     ],
     "keywords": [
-      "quantum computing",
-      "quantum error correction",
-      "fault tolerance",
-      "post-quantum cryptography",
-      "PQC",
-      "DARPA QBI",
-      "NIST",
-      "IBM",
-      "DOE"
+      "TIC",
+      "COFER",
+      "BIS",
+      "FDI",
+      "gold",
+      "oil",
+      "data centres",
+      "critical minerals"
     ],
-    "regime": "Measurable scientific and engineering progress without demonstrated fault-tolerant economic utility at industrial scale",
-    "key_risk": "Vendor roadmaps and isolated technical metrics may be mistaken for independently demonstrated economic utility.",
+    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
+    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
     "watch": [
-      "logical error per cycle",
-      "reliable logical operations",
-      "DARPA QBI",
-      "PQC migration",
-      "modularity",
-      "total system cost",
-      "roadmap revisions"
+      "July TIC release and revisions",
+      "2026Q2 COFER",
+      "central-bank gold purchases",
+      "cross-border bank credit",
+      "Brent and Hormuz flows",
+      "electricity demand and data-centre interconnections",
+      "critical-mineral refining projects"
     ],
-    "technology_maturity": "experimental-pre-industrial",
-    "assessment_confidence": "high-current-medium-3to5y",
-    "qa_reviewed_at": "2026-09-16T10:54:51-03:00",
-    "qa_confidence": "high",
-    "qa_reviewed_commit": "165e624f762c469898dbed0e3da7eee3cf4024f7"
+    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
+    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
   },
   {
     "id": "MT-ST-2026-09-16-bulgaria-euro-market-integration",
@@ -7523,19 +7623,21 @@
     "qa_reviewed_commit": "ffcb5199686c83132dcf7f85be22adabd924c08b"
   },
   {
-    "id": "MT-WF-2026-09-16",
+    "id": "MT-TECH-2026-09-16-quantum-computing",
     "date": "2026-09-16",
-    "published_at": "2026-09-16T12:19:27-03:00",
-    "kind": "weekly-wealth-flow",
-    "priority": 20,
+    "published_at": "2026-09-16T10:54:01-03:00",
+    "kind": "monthly-strategic-technology",
+    "priority": 35,
     "taxonomy_version": "1.0",
-    "program": "global-system-power",
+    "program": "technology-production-society",
     "related_programs": [
+      "global-system-power",
       "political-economy-markets"
     ],
     "dimensions": [
       "economy",
-      "politics"
+      "politics",
+      "society"
     ],
     "geography": {
       "level": "global",
@@ -7544,56 +7646,54 @@
       "countries": []
     },
     "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
       "technology-innovation",
+      "industry-production",
       "infrastructure-logistics",
-      "currencies",
-      "sovereign-debt",
-      "banking-credit"
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor"
     ],
-    "format": "monitor",
-    "cadence": "weekly",
+    "format": "assessment",
+    "cadence": "monthly",
     "source_locale": "en",
-    "title": "Global Wealth Flow Monitor — 16 September 2026",
-    "deck": "Capital remains concentrated in U.S. financial markets while incremental productive investment shifts toward energy security, AI infrastructure and mineral processing.",
-    "url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly.html",
-    "markdown_url": "/reports/2026/09/2026-09-16-global-wealth-flow-weekly/en.md",
+    "title": "Quantum Computing in 2026: Real Progress, Economic Utility Still Under Validation",
+    "deck": "Error correction has advanced and post-quantum migration is already driving concrete decisions, but a fault-tolerant machine with independently verified economic utility has not yet been demonstrated.",
+    "url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing.html",
+    "markdown_url": "/reports/2026/09/2026-09-16-strategic-technology-quantum-computing-en.md",
     "tags": [
-      "global capital flows",
-      "official reserves",
-      "gold",
-      "critical minerals",
-      "AI infrastructure"
+      "Technology",
+      "Quantum Computing",
+      "PQC",
+      "Security",
+      "Infrastructure"
     ],
     "keywords": [
-      "TIC",
-      "COFER",
-      "BIS",
-      "FDI",
-      "gold",
-      "oil",
-      "data centres",
-      "critical minerals"
+      "quantum computing",
+      "quantum error correction",
+      "fault tolerance",
+      "post-quantum cryptography",
+      "PQC",
+      "DARPA QBI",
+      "NIST",
+      "IBM",
+      "DOE"
     ],
-    "regime": "Financial concentration in U.S. markets alongside more concentrated strategic productive investment",
-    "key_risk": "Persistent energy disruption could raise inflation and financing costs while concentrated processing transmits supply shocks.",
+    "regime": "Measurable scientific and engineering progress without demonstrated fault-tolerant economic utility at industrial scale",
+    "key_risk": "Vendor roadmaps and isolated technical metrics may be mistaken for independently demonstrated economic utility.",
     "watch": [
-      "July TIC release and revisions",
-      "2026Q2 COFER",
-      "central-bank gold purchases",
-      "cross-border bank credit",
-      "Brent and Hormuz flows",
-      "electricity demand and data-centre interconnections",
-      "critical-mineral refining projects"
+      "logical error per cycle",
+      "reliable logical operations",
+      "DARPA QBI",
+      "PQC migration",
+      "modularity",
+      "total system cost",
+      "roadmap revisions"
     ],
-    "search_text": "Global capital flows reserves gold TIC BIS FDI energy critical minerals AI data centres electricity refining September 2026",
-    "qa_reviewed_at": "2026-09-16T13:20:00-03:00",
-    "qa_confidence": "medium",
-    "qa_reviewed_commit": "69fc48a6de0ebf0c1811897c76a0cdc17f91355f"
+    "technology_maturity": "experimental-pre-industrial",
+    "assessment_confidence": "high-current-medium-3to5y",
+    "qa_reviewed_at": "2026-09-16T10:54:51-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "165e624f762c469898dbed0e3da7eee3cf4024f7"
   },
   {
     "id": "MT-GM-2026-09-16",
