@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-04T19:00:00-03:00",
+  "last_reconciled_at": "2026-10-05T09:48:04-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -2874,6 +2874,111 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No discrete technology capability-stage transition is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-ai-abundance-infrastructure-concentration-publication",
+      "reconciled_at": "2026-10-05T09:48:04-03:00",
+      "report_ids_reviewed": [
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-GM-2026-10-03",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-CC-2026-09-28-singapore",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The assessment identifies dependence on advanced compute, cloud, grids, electricity and distribution, but it does not provide the normalized bilateral or route-level quantities required to create or mutate a canonical dependency edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Data-centre, grid and AI-infrastructure investment are material opportunity domains, but the publication does not normalize a single project with the access, capacity, financing, execution and return evidence required by the Atlas contract."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Microsoft, Amazon, Google, Salesforce, Stripe and major investors are central to the assessment, but the report does not establish a new durable ownership, mandate or control relation that requires a canonical Strategic Actors mutation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Electricity, chips and memory are binding inputs in the thesis, but no new controller-level reserve, production-right, processing-control or physical-intermediation record is established."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "This publication is a current technology, labour and industrial-structure assessment rather than a bounded historical policy experiment or completed institutional case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The thesis concerns technology diffusion, labour, software economics and infrastructure concentration and does not establish a new operational armed-conflict or security-system state."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "updated",
+          "note": "A new promoted signal, ai-abundance-infrastructure-concentration, was added with evidence references, constraints, transmission channels, contrary evidence, falsifiers and the public research ID MT-TS-2026-10-05-ai-abundance-infrastructure-concentration."
         }
       ]
     }
