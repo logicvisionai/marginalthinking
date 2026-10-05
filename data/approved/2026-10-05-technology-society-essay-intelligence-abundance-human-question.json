@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "id": "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-05T11:00:00-03:00",
+  "reviewed_commit": "1d0163770c7ca5d6b2c801cac0a58a260e5a9c47",
+  "pending_blob_sha": "9edab66f0bc556c83c2ece196ec24302c9ea46d3",
+  "source_blob_shas": {
+    "en": "0b158c40a34b35e51aebe7672f77e1e5815a6bf0",
+    "pt-BR": "e703b1c9516833a309656b33f44946c9bcc116e5"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_limitations",
+      "summary": "The essay relies primarily on books and publisher or bibliographic records for Arendt, Polanyi, Marx, Wiener, Ellul, Mumford, Illich, Sennett and Keynes. A single contemporary ILO exposure chart anchors the philosophical discussion in observable social structure. Historical concepts are used as analytical lenses rather than claims that the authors predicted modern AI."
+    },
+    "taxonomy": {
+      "result": "passed",
+      "summary": "The item uses Technology, Production & Society as the primary program, all three canonical dimensions, global geography, controlled topics and phenomena, research-report format and event-driven cadence. The new kind is a presentation label rather than a taxonomy extension."
+    },
+    "translation_semantics": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same argument, section sequence, distinctions, limitations and visual evidence. Both contain one chart, one flow, two mind maps, one diagram and the same two substantive tables."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The text is a long-form social-philosophical essay rather than a book summary. It develops an original thesis about scarcity migration from cognitive production toward ownership, trust, judgment, time and meaning, while avoiding deterministic claims about technological outcomes."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The analysis connects work, income, recognition, education, institutional control, autonomy, platform concentration, social inequality, career formation, legitimacy, care and the distribution of productivity gains."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 ILO bar chart + 2 analytical tables + 1 Arendt labor/work/action diagram + 1 Wiener feedback flow + 2 structural mind maps in each locale",
+      "summary": "The chart reproduces cited ILO percentages and is explicitly qualified as exposure rather than displacement. Structural visuals encode distinctions and causal mechanisms defended in the prose.",
+      "limitations": "The ILO geographic categories overlap and are not additive; the structural diagrams are conceptual rather than quantitative evidence."
+    }
+  },
+  "contrary_evidence": [
+    "The essay does not assume that automation necessarily reduces employment; institutional responses can intensify output, redistribute time, create new tasks or reduce headcount.",
+    "AI can expand autonomy and small-firm capability as well as produce dependency and concentration.",
+    "Technical efficiency can improve human welfare in many contexts; the argument concerns the insufficiency of efficiency as a universal social criterion.",
+    "Occupational exposure measures do not establish probabilities of job loss."
+  ],
+  "limitations": [
+    "The nine thinkers wrote in different historical contexts and used concepts that cannot be mapped mechanically onto contemporary AI.",
+    "The essay is interpretive social theory, not a causal estimate of future employment, inequality or political outcomes.",
+    "Normative concepts such as freedom, autonomy, meaning and a good life cannot be inferred from productivity metrics alone.",
+    "The contemporary quantitative anchor is deliberately limited so that philosophical interpretation is not disguised as empirical forecasting."
+  ],
+  "notes": "Approved as a long-form companion to the 5 October quantitative AI scarcity assessment. The essay is independently readable and does not require the prior report.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+    "slug": "2026-10-05-technology-society-essay-intelligence-abundance-human-question",
+    "date": "2026-10-05",
+    "published_at": "2026-10-05T11:00:00-03:00",
+    "kind": "technology-society-essay",
+    "priority": 31,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-05-technology-society-essay-intelligence-abundance-human-question/en.md",
+        "title": "When intelligence stops being scarce: work, technique and the human question after AI",
+        "deck": "AI makes a growing share of applied intelligence reproducible at low marginal cost. Arendt, Polanyi, Marx, Wiener, Ellul, Mumford, Illich, Sennett and Keynes help ask what happens to work, freedom, meaning and power when cognition becomes infrastructure.",
+        "tags": [
+          "AI and society",
+          "philosophy of technology",
+          "work",
+          "automation",
+          "human agency",
+          "political economy"
+        ],
+        "keywords": [
+          "Hannah Arendt",
+          "Karl Polanyi",
+          "Karl Marx",
+          "Norbert Wiener",
+          "Jacques Ellul",
+          "Lewis Mumford",
+          "Ivan Illich",
+          "Richard Sennett",
+          "John Maynard Keynes",
+          "AI and work",
+          "automation and meaning",
+          "technology and freedom"
+        ],
+        "regime": "Applied intelligence is becoming cheaper and more reproducible while the institutions distributing income, ownership, recognition and responsibility remain organized around human scarcity.",
+        "key_risk": "Societies may convert technical abundance into intensified output, dependence and concentrated control rather than greater autonomy, time and participation.",
+        "watch": [
+          "working-time reduction versus output intensification",
+          "entry-level formation and apprenticeship",
+          "ownership of AI infrastructure",
+          "AI use in education",
+          "rights to contest automated decisions",
+          "interoperability and exit capacity"
+        ],
+        "search_text": "AI society philosophy work meaning Arendt Polanyi Marx Wiener Ellul Mumford Illich Sennett Keynes automation freedom autonomy intelligence abundance"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-05-technology-society-essay-intelligence-abundance-human-question/pt-BR.md",
+        "title": "Quando a inteligência deixa de ser escassa: trabalho, técnica e a questão humana depois da IA",
+        "deck": "A IA torna uma parcela crescente da inteligência aplicada reproduzível a baixo custo marginal. Arendt, Polanyi, Marx, Wiener, Ellul, Mumford, Illich, Sennett e Keynes ajudam a perguntar o que acontece com trabalho, liberdade, sentido e poder quando cognição vira infraestrutura.",
+        "tags": [
+          "IA e sociedade",
+          "filosofia da tecnologia",
+          "trabalho",
+          "automação",
+          "agência humana",
+          "economia política"
+        ],
+        "keywords": [
+          "Hannah Arendt",
+          "Karl Polanyi",
+          "Karl Marx",
+          "Norbert Wiener",
+          "Jacques Ellul",
+          "Lewis Mumford",
+          "Ivan Illich",
+          "Richard Sennett",
+          "John Maynard Keynes",
+          "IA e trabalho",
+          "automação e sentido",
+          "tecnologia e liberdade"
+        ],
+        "regime": "Inteligência aplicada está se tornando mais barata e reproduzível enquanto instituições que distribuem renda, propriedade, reconhecimento e responsabilidade continuam organizadas ao redor da escassez humana.",
+        "key_risk": "Sociedades podem converter abundância técnica em intensificação da produção, dependência e controle concentrado, em vez de maior autonomia, tempo e participação.",
+        "watch": [
+          "redução da jornada versus intensificação da produção",
+          "formação e aprendizagem de profissionais de entrada",
+          "propriedade da infraestrutura de IA",
+          "uso de IA na educação",
+          "direito de contestar decisões automatizadas",
+          "interoperabilidade e capacidade de saída"
+        ],
+        "search_text": "IA sociedade filosofia trabalho sentido Arendt Polanyi Marx Wiener Ellul Mumford Illich Sennett Keynes automação liberdade autonomia abundância de inteligência"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "demography-labor",
+      "inequality-distribution",
+      "institutions-governance",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "intellectual_frame": {
+      "question": "What happens to work, freedom, meaning and power when operational intelligence becomes less scarce but ownership, recognition, responsibility and belonging remain scarce?",
+      "traditions": [
+        "political theory",
+        "political economy",
+        "cybernetics",
+        "philosophy of technology",
+        "sociology of work",
+        "institutional economics"
+      ],
+      "primary_books": [
+        "The Human Condition",
+        "The Great Transformation",
+        "Grundrisse",
+        "The Human Use of Human Beings",
+        "The Technological Society",
+        "The Myth of the Machine",
+        "Tools for Conviviality",
+        "The Corrosion of Character",
+        "Economic Possibilities for our Grandchildren"
+      ]
+    },
+    "assessment_confidence": "high-on-faithful-conceptual-use-of-primary-and-publisher-sources-medium-on-contemporary-social-transmission",
+    "key_constraints": [
+      "concepts originate in different historical contexts",
+      "AI capabilities do not determine institutional outcomes",
+      "occupational exposure is not job-displacement probability",
+      "normative judgments cannot be derived from productivity metrics alone"
+    ]
+  }
+}
