@@ -44,7 +44,7 @@
     "pt-BR": {
       "markdown": "staging/research/2026/09/2026-09-28-country-context-afghanistan/pt-BR.md",
       "title": "Afeganistão: formação do Estado, dependência de corredores e economia política",
-      "deck": "A ordem pós-2021 repousa sobre restrições antigas: geografia fragmentada, dependência de recursos externos, finanças formais rasas, base produtiva estreita e população jovem sob baixa formação de capital.",
+      "deck": "A ordem pós-2021 repousa sobre restrições antigas: geografia fragmentada, dependência de recursos externos, finanças formais rasas, base produtiva estreita e população jovem cujo potencial é limitado por baixa formação de capital e por restrições sobre mulheres e meninas.",
       "tags": [
         "Afeganistão",
         "capacidade estatal",
@@ -146,6 +146,8 @@
     "International estimates use different periods and methods and should not be merged mechanically.",
     "Fiscal, security and financial data are less transparent than in a normal statistical system.",
     "Competing state claims on armed groups are attributed rather than treated as independently verified facts.",
-    "Planned infrastructure and announced mining projects are not treated as operating capacity."
-  ]
+    "Planned infrastructure and announced mining projects are not treated as operating capacity.",
+    "Revision 1 reconciles World Bank 2025 macro vintages with 2026 estimates, updates the information cutoff to 4 October 2026, restores full EN/PT-BR semantic parity and expands both locales above the current country-dossier depth floor."
+  ],
+  "revision": 1
 }
