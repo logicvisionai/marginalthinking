@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05T09:32:00-03:00",
+  "updated_at": "2026-10-05T09:46:12-03:00",
   "signals": [
     {
       "slug": "cislunar-service-infrastructure",
@@ -347,7 +347,7 @@
     },
     {
       "slug": "ai-abundance-infrastructure-concentration",
-      "state": "publishable",
+      "state": "promoted",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-05",
       "what_changed": "Labour-market evidence, SaaS valuation compression, resilient SaaS formation, outcome-based agent pricing, hyperscaler/cloud concentration evidence and new 2026 energy constraints now support a single thesis about scarcity migrating from generic digital production toward infrastructure, trusted workflows and distribution.",
