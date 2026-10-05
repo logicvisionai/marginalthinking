@@ -345,6 +345,22 @@ Saudi–Israeli normalisation remains strategically significant precisely becaus
 
 No normalisation path should be treated as inevitable. The correct indicators are formal agreements, implemented trade and investment, transport links, diplomatic representation and security cooperation.
 
+### Functional regional map
+
+```map
+title: Israel: security, energy and economic transmission geography
+United States | Security and financial anchor | Military assistance, technology links and dollar finance shape defence capacity and external resilience
+Mediterranean gas fields | Domestic energy and regional exports | Offshore production supplies Israeli power and supports exports to Egypt and Jordan
+Egypt | Peace treaty, gas and Gaza-border transmission | Security coordination, gas trade and the Gaza interface connect interstate and Palestinian-system risks
+Jordan | Peace treaty, gas, water and eastern-border exposure | Energy and water links coexist with security dependence along Israel's eastern frontier
+West Bank | Labour, settlement and security interdependence | Movement controls, settlements, Palestinian labour and fiscal transfers bind the Israeli and Palestinian economies without political integration
+Gaza | Security and reconstruction exposure | War, border controls and reconstruction needs transmit into defence mobilisation, fiscal costs and diplomacy
+Lebanon | Northern security exposure | Cross-border military risk affects evacuation, reserve mobilisation and infrastructure protection
+Red Sea | Maritime trade exposure | Shipping disruption can raise logistics costs and widen the economic effects of regional conflict
+```
+
+The map represents functional transmission rather than borders, sovereignty claims or precise military routes. It separates Israel from the occupied Palestinian territory while showing the economic and security channels that connect the systems.
+
 ## Geographic concentration creates both efficiency and vulnerability
 
 A large share of Israel's high-productivity economy is concentrated in the central coastal region. Tel Aviv and surrounding technology clusters benefit from dense labour and capital markets. Haifa combines port, industry, universities and technology. Jerusalem combines government, religion, services and a distinctive demographic structure.
