@@ -1,5 +1,110 @@
 [
   {
+    "id": "MT-GM-2026-10-06",
+    "date": "2026-10-06",
+    "published_at": "2026-10-06T08:45:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf",
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "demography-labor",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "source_locale": "en",
+    "title": "Global Macro — long yields become the constraint as oil eases and risk assets keep testing the cost of capital",
+    "deck": "Long U.S. yields remain near multi-decade highs even as oil eases below the recent risk peak, equities stay resilient, China stabilizes and Brazil absorbs a post-election repricing shock.",
+    "url": "/reports/2026/10/2026-10-06-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-06-global-macro/en.md",
+    "tags": [
+      "global macro",
+      "United States",
+      "Treasuries",
+      "term premium",
+      "oil",
+      "China PMI",
+      "euro area",
+      "Brazil election"
+    ],
+    "keywords": [
+      "Global Macro October 6 2026",
+      "Treasury 10 year 5.31",
+      "Treasury 30 year 5.67",
+      "Brent below 100 October 2026",
+      "China PMI 50.1 September 2026",
+      "euro area inflation 3.3",
+      "Brazil election 2026 markets"
+    ],
+    "regime": "Long-duration financing costs have become the main macro constraint: labour is cooling and oil is easing, but long U.S. yields remain above 5% while global activity avoids a synchronized contraction.",
+    "key_risk": "A persistent term premium above 5% can tighten credit and valuation conditions even without additional short-rate tightening, turning a resilient nominal-growth regime into a balance-sheet and refinancing problem.",
+    "watch": [
+      "FOMC minutes on 7 October",
+      "Treasury auctions",
+      "U.S. CPI on 14 October",
+      "weekly jobless claims",
+      "Brent and freight costs",
+      "China October PMIs",
+      "Brazil runoff on 25 October",
+      "next post-election Focus survey"
+    ],
+    "search_text": "Global Macro October 6 2026 Treasury yields term premium oil China PMI euro area inflation Brazil election",
+    "revision": 0,
+    "qa_reviewed_at": "2026-10-06T08:47:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "b6c2f3ce65b76c751acaca1ddec99c24916a0646"
+  },
+  {
     "id": "MT-GM-2026-10-05",
     "date": "2026-10-05",
     "published_at": "2026-10-05T12:32:57-03:00",
