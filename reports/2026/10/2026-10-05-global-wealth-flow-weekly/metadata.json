@@ -1,0 +1,116 @@
+{
+  "id": "MT-WF-2026-10-05",
+  "slug": "2026-10-05-global-wealth-flow-weekly",
+  "date": "2026-10-05",
+  "published_at": "2026-10-05T01:15:00-03:00",
+  "kind": "weekly-wealth-flow",
+  "priority": 20,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "currencies",
+    "trade-investment",
+    "commodities-resources",
+    "sovereign-debt",
+    "banking-credit",
+    "industry-production"
+  ],
+  "phenomena": [],
+  "format": "monitor",
+  "cadence": "weekly",
+  "revision": 0,
+  "url": "/reports/2026/10/2026-10-05-global-wealth-flow-weekly.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-05T02:17:31-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "0a43b519129729fc5825f8f4c67b59c5af799b2c",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth Flow Monitor — 5 October 2026",
+      "deck": "ETF issuance more than offset mutual-fund redemptions, cash-like assets remained near $7.9 trillion, and new IMF reserve data showed incremental active diversification toward the euro without a wholesale move away from the dollar.",
+      "tags": [
+        "global capital flows",
+        "ETF issuance",
+        "money market funds",
+        "COFER",
+        "reserve diversification",
+        "gold",
+        "FDI"
+      ],
+      "keywords": [
+        "global wealth flows",
+        "mutual fund outflows",
+        "ETF net issuance",
+        "money market fund assets",
+        "official reserves",
+        "US dollar",
+        "euro",
+        "gold reserves",
+        "greenfield investment"
+      ],
+      "regime": "Long-term fund demand broadened through ETFs while cash-like balances stayed large and official reserve managers diversified incrementally across currencies and gold.",
+      "key_risk": "A renewed reversal in long-term fund flows, persistent high financing costs or weaker greenfield investment could keep liquid portfolio demand from translating into broader productive capital formation.",
+      "watch": [
+        "ICI combined weekly fund flows",
+        "ICI money-market assets",
+        "2026 Q3 COFER",
+        "September global gold ETF flows",
+        "August TIC release on 16 October",
+        "greenfield investment announcements and realized FDI"
+      ],
+      "search_text": "global wealth flows October 2026 ETF issuance mutual fund redemptions money market assets COFER dollar euro reserve diversification gold FDI greenfield"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Wealth Flow Monitor — 5 de outubro de 2026",
+      "deck": "A emissão de ETFs mais do que compensou os resgates em fundos mútuos, ativos semelhantes a caixa permaneceram perto de US$ 7,9 trilhões e novos dados de reservas do FMI mostraram diversificação ativa incremental para o euro sem saída generalizada do dólar.",
+      "tags": [
+        "fluxos globais de capital",
+        "emissão de ETFs",
+        "fundos de mercado monetário",
+        "COFER",
+        "diversificação de reservas",
+        "ouro",
+        "IED"
+      ],
+      "keywords": [
+        "fluxos globais de riqueza",
+        "resgates em fundos mútuos",
+        "emissão líquida de ETFs",
+        "ativos de mercado monetário",
+        "reservas oficiais",
+        "dólar dos EUA",
+        "euro",
+        "reservas de ouro",
+        "investimento greenfield"
+      ],
+      "regime": "A demanda por fundos de longo prazo se ampliou por ETFs enquanto posições semelhantes a caixa permaneceram grandes e gestores de reservas diversificaram incrementalmente entre moedas e ouro.",
+      "key_risk": "Nova reversão dos fluxos de longo prazo, custos de financiamento persistentemente altos ou menor investimento greenfield podem impedir que a demanda nos mercados líquidos se converta em formação mais ampla de capital produtivo.",
+      "watch": [
+        "fluxos semanais combinados do ICI",
+        "ativos de mercado monetário do ICI",
+        "COFER do 3º trimestre de 2026",
+        "fluxos globais de ETFs de ouro em setembro",
+        "TIC de agosto em 16 de outubro",
+        "anúncios greenfield e IED realizado"
+      ],
+      "search_text": "fluxos globais de riqueza outubro 2026 emissão ETF resgates fundos mútuos mercado monetário COFER dólar euro diversificação reservas ouro IED greenfield"
+    }
+  }
+}
