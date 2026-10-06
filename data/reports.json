@@ -96,13 +96,13 @@
       "Brent and freight costs",
       "China October PMIs",
       "Brazil runoff on 25 October",
-      "next post-election Focus survey"
+      "post-election Focus survey"
     ],
     "search_text": "Global Macro October 6 2026 Treasury yields term premium oil China PMI euro area inflation Brazil election",
     "revision": 0,
     "qa_reviewed_at": "2026-10-06T08:47:00-03:00",
     "qa_confidence": "high",
-    "qa_reviewed_commit": "b6c2f3ce65b76c751acaca1ddec99c24916a0646"
+    "qa_reviewed_commit": "556db16f607989aa2e6266834f2b44938e11e175"
   },
   {
     "id": "MT-GM-2026-10-05",
