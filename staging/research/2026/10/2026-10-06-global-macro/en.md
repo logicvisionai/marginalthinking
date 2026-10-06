@@ -130,7 +130,7 @@ The risk on 6 October is extrapolation. Asset prices can move faster than policy
 
 A stronger real can reduce imported inflation if sustained. Lower local risk premia can reduce financing costs. But those channels depend on whether the post-election market move survives new information.
 
-The next Focus survey matters precisely because the 5 October release was based on responses collected before the first-round vote. The next edition will begin to show whether economist expectations follow the market repricing.
+The 5 October Focus survey was based on responses collected before the first-round vote, so it cannot yet be read as a post-election consensus. Post-election survey data will test whether economist expectations follow the market repricing.
 
 ```map
 title: 6 October macro transmission
