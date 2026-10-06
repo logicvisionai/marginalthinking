@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-06",
+  "slug": "2026-10-06-global-macro",
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T08:45:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-06-global-macro/en.md",
+      "title": "Global Macro — long yields become the constraint as oil eases and risk assets keep testing the cost of capital",
+      "deck": "Long U.S. yields remain near multi-decade highs even as oil eases below the recent risk peak, equities stay resilient, China stabilizes and Brazil absorbs a post-election repricing shock.",
+      "tags": [
+        "global macro",
+        "United States",
+        "Treasuries",
+        "term premium",
+        "oil",
+        "China PMI",
+        "euro area",
+        "Brazil election"
+      ],
+      "keywords": [
+        "Global Macro October 6 2026",
+        "Treasury 10 year 5.31",
+        "Treasury 30 year 5.67",
+        "Brent below 100 October 2026",
+        "China PMI 50.1 September 2026",
+        "euro area inflation 3.3",
+        "Brazil election 2026 markets"
+      ],
+      "regime": "Long-duration financing costs have become the main macro constraint: labour is cooling and oil is easing, but long U.S. yields remain above 5% while global activity avoids a synchronized contraction.",
+      "key_risk": "A persistent term premium above 5% can tighten credit and valuation conditions even without additional short-rate tightening, turning a resilient nominal-growth regime into a balance-sheet and refinancing problem.",
+      "watch": [
+        "FOMC minutes on 7 October",
+        "Treasury auctions",
+        "U.S. CPI on 14 October",
+        "weekly jobless claims",
+        "Brent and freight costs",
+        "China October PMIs",
+        "Brazil runoff on 25 October",
+        "next post-election Focus survey"
+      ],
+      "search_text": "Global Macro October 6 2026 Treasury yields term premium oil China PMI euro area inflation Brazil election"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-06-global-macro/pt-BR.md",
+      "title": "Macro Global — juros longos viram a restrição central enquanto petróleo alivia e ativos de risco testam o custo de capital",
+      "deck": "Juros longos dos EUA continuam perto das máximas de décadas mesmo com petróleo abaixo do pico recente, ações resilientes, China estabilizando e Brasil absorvendo o choque de repricing pós-eleição.",
+      "tags": [
+        "macro global",
+        "Estados Unidos",
+        "Treasuries",
+        "prêmio de prazo",
+        "petróleo",
+        "PMI China",
+        "zona do euro",
+        "eleição Brasil"
+      ],
+      "keywords": [
+        "Macro Global 6 outubro 2026",
+        "Treasury 10 anos 5.31",
+        "Treasury 30 anos 5.67",
+        "Brent abaixo 100 outubro 2026",
+        "PMI China 50.1 setembro 2026",
+        "inflação zona do euro 3.3",
+        "eleição Brasil 2026 mercados"
+      ],
+      "regime": "O custo de financiamento de longa duração virou a principal restrição macro: o trabalho esfria e o petróleo alivia, mas juros longos dos EUA seguem acima de 5% enquanto a atividade global evita contração sincronizada.",
+      "key_risk": "Prêmio de prazo persistentemente acima de 5% pode apertar crédito e valuations mesmo sem novo aumento da taxa curta, transformando um regime de crescimento nominal resiliente em problema de balanço e refinanciamento.",
+      "watch": [
+        "ata do FOMC em 7 de outubro",
+        "leilões do Treasury",
+        "CPI dos EUA em 14 de outubro",
+        "pedidos semanais de seguro-desemprego",
+        "Brent e fretes",
+        "PMIs da China em outubro",
+        "segundo turno do Brasil em 25 de outubro",
+        "próximo Focus pós-eleição"
+      ],
+      "search_text": "Macro Global 6 outubro 2026 Treasury juros prêmio de prazo petróleo PMI China inflação zona do euro eleição Brasil"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "middle-east",
+      "asia-pacific"
+    ],
+    "subregions": [
+      "north-america",
+      "latin-america-caribbean",
+      "western-europe",
+      "gulf",
+      "east-asia"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "US",
+        "slug": "united-states"
+      },
+      {
+        "code": "CN",
+        "slug": "china"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "demography-labor",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "political-stability",
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily"
+}
