@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-06T06:22:05-03:00",
+  "reviewed_commit": "a15e47146f81618bbf0f55a72c8ff388ff659778",
+  "pending_blob_sha": "9edab66f0bc556c83c2ece196ec24302c9ea46d3",
+  "source_blob_shas": {
+    "en": "0b158c40a34b35e51aebe7672f77e1e5815a6bf0",
+    "pt-BR": "e703b1c9516833a309656b33f44946c9bcc116e5"
+  },
+  "program": "technology-production-society",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "gate": "visual_evidence_readiness",
+      "location": "EN/PT-BR publication as a whole",
+      "issue": "The pending declares format research-report and is dated after the 2026-09-18 visual-evidence effective date, but the reviewed source does not provide the mandatory minimum visual budget: at least one auditable Markdown table, one explicit chart fence, one structural visual, and at least four visuals total. Structural diagram/flow/mindmap material is present, but that does not substitute for the required table and explicit chart.",
+      "evidence": "RESEARCH-VISUALS.md requires research-report items to contain at least 1 table, 1 explicit chart, 1 structural visual and at least 4 visuals total. The staged EN source contains structural diagram/flow/mindmap blocks but no qualifying explicit chart/table was found in the reviewed edition."
+    }
+  ],
+  "required_fixes": [
+    "Add at least one analytically useful Markdown table and one explicit chart backed by cited, compatible evidence; do not invent or silently transform values merely to satisfy the visual floor.",
+    "Ensure the complete research-report visual budget reaches at least four useful visuals and that each visual materially supports a mechanism or comparison in the prose.",
+    "Mirror every visual semantically in EN and PT-BR, including labels, units, values, qualifications and surrounding interpretation.",
+    "Re-stage the corrected EN/PT-BR sources and pending so QA can bind the new real Git blob SHAs."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature_reviewed": "structural diagram + flow + mindmap present; mandatory research-report table/chart floor not satisfied",
+      "limitations": "QA stops approval on this independent blocking publication-readiness gate; factual and methodological approval must be revalidated against the corrected source SHAs on resubmission."
+    },
+    "editorial_publication_readiness": {
+      "result": "not_approved_due_to_blocking_visual_gate",
+      "summary": "Opening is direct rather than a generic executive-summary template, and the visible analytical headings are specific. Final publication readiness cannot pass while the mandatory visual evidence contract fails."
+    }
+  },
+  "evidence": [
+    "RESEARCH-VISUALS.md v1.0, effective 2026-09-18",
+    "data/pending/2026-10-05-technology-society-essay-intelligence-abundance-human-question.json",
+    "staging/research/2026/10/2026-10-05-technology-society-essay-intelligence-abundance-human-question/en.md",
+    "staging/research/2026/10/2026-10-05-technology-society-essay-intelligence-abundance-human-question/pt-BR.md"
+  ],
+  "notes": "No approval was created. No reports/, HTML, data/reports.json, or global site surface was modified. Canonical public-state search immediately before this decision found no materialized item for this ID."
+}
