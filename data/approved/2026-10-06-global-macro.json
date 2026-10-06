@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-06",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-06T08:47:00-03:00",
+  "reviewed_commit": "556db16f607989aa2e6266834f2b44938e11e175",
+  "pending_blob_sha": "b08a8821247ff155276fe1226d79600065b6a267",
+  "source_blob_shas": {
+    "en": "4e0b8545e06c782f3bddc29722adf0d6c5be4f52",
+    "pt-BR": "ceead228599532d937b4a1b280ea8d4f7f3df395"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_intraday_limitations",
+      "summary": "BLS, Federal Reserve, TreasuryDirect, China's National Bureau of Statistics, ECB, OPEC, TSE and BCB provide the primary policy and macro evidence. Intraday Treasury, equity and oil observations are clearly time-bounded and supported separately."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "The 6 October analytical delta moves beyond the prior day's activity-versus-prices divergence. The lead is now the split between softer front-end policy expectations and a still-expensive long end, with oil easing, China stabilizing and Brazil's electoral repricing awaiting fiscal confirmation."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The brief separates official macro releases from market observations, identifies the information cutoff, avoids treating a single Brazilian trading session as a policy forecast and states explicit invalidation conditions."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The brief links labour cooling, the Treasury term premium, energy transmission, Chinese stabilization, euro-area financing conditions and Brazil's political risk through explicit mechanisms and second-order effects."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 4 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "summary": "Visual floor for a brief is exceeded. Treasury yields are charted in common units; China PMI measures share an index scale; euro-area inflation and borrowing-cost values are explicitly caveated as different concepts; Brazil vote shares use TSE percentages.",
+      "limitations": "Treasury and oil observations are intraday. The euro-area chart places inflation and borrowing rates on the same percentage scale only for compact comparison, not to imply identical economic meaning."
+    }
+  },
+  "contrary_evidence": [
+    "Lower oil prices reduce part of the near-term inflation impulse and could help long yields stabilize if the decline persists.",
+    "Weak U.S. payroll growth and softer short-rate expectations could eventually pull the long end lower if activity deteriorates more broadly.",
+    "China's official PMI is only marginally above 50, while smaller manufacturers and non-manufacturing new orders remain weak.",
+    "Brazil's initial post-election asset repricing can reverse if fiscal commitments or coalition signals disappoint."
+  ],
+  "limitations": [
+    "Market prices cited for 6 October are early-session observations and can change materially before the close.",
+    "The article does not treat the Treasury term premium as directly observed; it is an analytical interpretation of curve behavior, inflation uncertainty, fiscal supply and duration risk.",
+    "China PMI diffusion indexes indicate breadth and direction rather than direct output growth rates.",
+    "The 5 October Focus survey reflects responses collected before Brazil's first-round election and is used only to identify the information lag between expectations and market repricing."
+  ],
+  "notes": "Approved for same-day publication with an 08:45 BRT information cutoff. EN/PT-BR parity and controlled geography/taxonomy were checked after editorial-future phrasing was removed from public prose.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-06",
+    "slug": "2026-10-06-global-macro",
+    "date": "2026-10-06",
+    "published_at": "2026-10-06T08:45:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-06-global-macro/en.md",
+        "title": "Global Macro — long yields become the constraint as oil eases and risk assets keep testing the cost of capital",
+        "deck": "Long U.S. yields remain near multi-decade highs even as oil eases below the recent risk peak, equities stay resilient, China stabilizes and Brazil absorbs a post-election repricing shock.",
+        "tags": [
+          "global macro",
+          "United States",
+          "Treasuries",
+          "term premium",
+          "oil",
+          "China PMI",
+          "euro area",
+          "Brazil election"
+        ],
+        "keywords": [
+          "Global Macro October 6 2026",
+          "Treasury 10 year 5.31",
+          "Treasury 30 year 5.67",
+          "Brent below 100 October 2026",
+          "China PMI 50.1 September 2026",
+          "euro area inflation 3.3",
+          "Brazil election 2026 markets"
+        ],
+        "regime": "Long-duration financing costs have become the main macro constraint: labour is cooling and oil is easing, but long U.S. yields remain above 5% while global activity avoids a synchronized contraction.",
+        "key_risk": "A persistent term premium above 5% can tighten credit and valuation conditions even without additional short-rate tightening, turning a resilient nominal-growth regime into a balance-sheet and refinancing problem.",
+        "watch": [
+          "FOMC minutes on 7 October",
+          "Treasury auctions",
+          "U.S. CPI on 14 October",
+          "weekly jobless claims",
+          "Brent and freight costs",
+          "China October PMIs",
+          "Brazil runoff on 25 October",
+          "post-election Focus survey"
+        ],
+        "search_text": "Global Macro October 6 2026 Treasury yields term premium oil China PMI euro area inflation Brazil election"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-06-global-macro/pt-BR.md",
+        "title": "Macro Global — juros longos viram a restrição central enquanto petróleo alivia e ativos de risco testam o custo de capital",
+        "deck": "Juros longos dos EUA continuam perto das máximas de décadas mesmo com petróleo abaixo do pico recente, ações resilientes, China estabilizando e Brasil absorvendo o choque de repricing pós-eleição.",
+        "tags": [
+          "macro global",
+          "Estados Unidos",
+          "Treasuries",
+          "prêmio de prazo",
+          "petróleo",
+          "PMI China",
+          "zona do euro",
+          "eleição Brasil"
+        ],
+        "keywords": [
+          "Macro Global 6 outubro 2026",
+          "Treasury 10 anos 5.31",
+          "Treasury 30 anos 5.67",
+          "Brent abaixo 100 outubro 2026",
+          "PMI China 50.1 setembro 2026",
+          "inflação zona do euro 3.3",
+          "eleição Brasil 2026 mercados"
+        ],
+        "regime": "O custo de financiamento de longa duração virou a principal restrição macro: o trabalho esfria e o petróleo alivia, mas juros longos dos EUA seguem acima de 5% enquanto a atividade global evita contração sincronizada.",
+        "key_risk": "Prêmio de prazo persistentemente acima de 5% pode apertar crédito e valuations mesmo sem novo aumento da taxa curta, transformando um regime de crescimento nominal resiliente em problema de balanço e refinanciamento.",
+        "watch": [
+          "ata do FOMC em 7 de outubro",
+          "leilões do Treasury",
+          "CPI dos EUA em 14 de outubro",
+          "pedidos semanais de seguro-desemprego",
+          "Brent e fretes",
+          "PMIs da China em outubro",
+          "segundo turno do Brasil em 25 de outubro",
+          "Focus pós-eleição"
+        ],
+        "search_text": "Macro Global 6 outubro 2026 Treasury juros prêmio de prazo petróleo PMI China inflação zona do euro eleição Brasil"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf",
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "demography-labor",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily"
+  }
+}
