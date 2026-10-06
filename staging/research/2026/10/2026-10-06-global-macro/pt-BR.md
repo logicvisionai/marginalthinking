@@ -130,7 +130,7 @@ O risco em 6 de outubro é extrapolar. Preços se movem mais rápido que informa
 
 Real mais forte pode reduzir inflação importada se persistir. Menor prêmio de risco local pode reduzir custo de financiamento. Mas esses canais dependem da sobrevivência do movimento pós-eleição diante de novas informações.
 
-O próximo Focus é relevante justamente porque o relatório de 5 de outubro foi construído com respostas coletadas antes do primeiro turno. A próxima edição começará a mostrar se as expectativas dos economistas acompanham o repricing observado no mercado.
+O Focus de 5 de outubro foi construído com respostas coletadas antes do primeiro turno e, por isso, ainda não pode ser lido como consenso pós-eleição. Dados de pesquisa formados após a votação permitirão testar se as expectativas dos economistas acompanham o repricing observado no mercado.
 
 ```map
 title: Transmissão macro de 6 de outubro
