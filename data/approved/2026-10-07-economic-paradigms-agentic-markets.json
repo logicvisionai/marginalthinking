@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "id": "MT-EP-2026-10-07-AGENTIC-MARKETS",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-07T09:56:00-03:00",
+  "reviewed_commit": "ac140f08068126cf0997060c0120bd5964b457f6",
+  "pending_blob_sha": "475d57b8d8c38d9e3bf018c21fd3076333033c5b",
+  "source_blob_shas": {
+    "en": "1eef7d91b44be328a2d38c482f7de6b629b2f2eb",
+    "pt-BR": "ab363fe8b2b49e2c60c11f1f1a29855f22067199"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Bank of England, BIS, FSB and Basel sources establish current financial-sector AI use, Project Logos, AI-market concentration, supervisory concerns and agentic-payment questions."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "Moves the paradigms line beyond programmable infrastructure to delegated machine agency, focusing on principal-agent boundaries, common-model correlation and system-level observability."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Public prose states facts and mechanisms directly, separates observed evidence from inference, includes explicit limitations and contains no internal publication-process narration."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Distinguishes current operating-scale AI support from controlled experiments in LLM portfolio management and from still-limited fully autonomous core trading."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Required visual budget and EN/PT-BR visual parity were checked; quantitative visuals use compatible units and structural visuals encode mechanisms defended in prose."
+    }
+  },
+  "contrary_evidence": [
+    "Fully autonomous trading is not described as a current dominant market structure.",
+    "The S&P 500 AI-company share is an approximate Bank of England classification, not a universal taxonomy."
+  ],
+  "limitations": [
+    "Fully autonomous trading is not described as a current dominant market structure.",
+    "The S&P 500 AI-company share is an approximate Bank of England classification, not a universal taxonomy.",
+    "Project Logos is a simulation project and cannot establish live-market systemic effects before results exist."
+  ],
+  "notes": "Approved in the 7 October deep editorial refresh after source, bilingual, taxonomy and visual checks.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-EP-2026-10-07-AGENTIC-MARKETS",
+    "slug": "2026-10-07-economic-paradigms-agentic-markets",
+    "date": "2026-10-07",
+    "published_at": "2026-10-07T09:48:00-03:00",
+    "kind": "economic-paradigm-assessment",
+    "priority": 26,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-07-economic-paradigms-agentic-markets/en.md",
+        "title": "From algorithmic markets to agentic markets: when software begins to act as an economic participant",
+        "deck": "Autonomous AI is shifting financial automation from prediction and execution toward delegated economic action, raising new questions about agency, correlated behavior, authorization and system-wide governance.",
+        "tags": [
+          "economic paradigms",
+          "AI agents",
+          "market design",
+          "financial stability",
+          "payments",
+          "algorithmic markets"
+        ],
+        "keywords": [
+          "agentic markets",
+          "AI agents finance",
+          "LLM portfolio managers",
+          "Project Logos",
+          "agentic payments",
+          "AI financial stability"
+        ],
+        "regime": "Financial automation is moving from human-supervised prediction and execution toward bounded delegated action by AI agents, while live core trading remains limited and supervisors focus increasingly on collective behavior.",
+        "key_risk": "Common models, infrastructure and objectives could create correlated machine-speed behavior before institutions can reliably observe or interrupt it.",
+        "watch": [
+          "Project Logos results",
+          "autonomous trading adoption",
+          "agent-initiated payment volumes",
+          "AI governance standards",
+          "market liquidity under AI-mediated stress",
+          "common-model dependencies"
+        ],
+        "search_text": "agentic markets AI agents finance LLM portfolio managers Project Logos payments financial stability principal agent market design"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-07-economic-paradigms-agentic-markets/pt-BR.md",
+        "title": "De mercados algorítmicos a mercados agênticos: quando software começa a agir como participante econômico",
+        "deck": "IA autônoma desloca a automação financeira de previsão e execução para ação econômica delegada, criando novas questões de agência, correlação, autorização e governança sistêmica.",
+        "tags": [
+          "paradigmas econômicos",
+          "agentes de IA",
+          "desenho de mercados",
+          "estabilidade financeira",
+          "pagamentos",
+          "mercados algorítmicos"
+        ],
+        "keywords": [
+          "mercados agênticos",
+          "agentes IA finanças",
+          "gestores LLM",
+          "Project Logos",
+          "pagamentos agênticos",
+          "IA estabilidade financeira"
+        ],
+        "regime": "Automação financeira passa de previsão e execução supervisionadas por humanos para ação delegada limitada por agentes de IA, enquanto negociação central autônoma continua restrita e supervisores focam comportamento coletivo.",
+        "key_risk": "Modelos, infraestrutura e objetivos comuns podem criar comportamento correlacionado em velocidade de máquina antes que instituições consigam observá-lo ou interrompê-lo.",
+        "watch": [
+          "resultados do Project Logos",
+          "adoção de negociação autônoma",
+          "volume de pagamentos iniciados por agentes",
+          "padrões de governança de IA",
+          "liquidez sob estresse mediado por IA",
+          "dependências de modelos comuns"
+        ],
+        "search_text": "mercados agênticos agentes IA finanças gestores LLM Project Logos pagamentos estabilidade financeira principal agente desenho mercado"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society"
+    ],
+    "series": "economic-paradigms-market-design",
+    "series_domain": "ai-automation-economic-institutions",
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "technology-innovation",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "assessment",
+    "cadence": "event-driven",
+    "revision": 0
+  }
+}
