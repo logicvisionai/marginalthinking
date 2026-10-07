@@ -760,6 +760,136 @@
     }
   },
   {
+    "id": "MT-CC-2026-10-04-turkiye",
+    "date": "2026-10-04",
+    "published_at": "2026-10-04T22:04:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "eastern-europe-balkans"
+      ],
+      "countries": [
+        {
+          "code": "TR",
+          "slug": "turkiye"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "revision": 1,
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "migration-displacement",
+      "demographic-transition",
+      "institutional-change",
+      "social-change",
+      "war-armed-conflict"
+    ],
+    "selection_rationale": "Türkiye is a major NATO, Black Sea, Mediterranean and Middle Eastern actor with deep EU manufacturing integration, yet the public corpus lacked a reusable country dossier connecting its inflation and exchange-rate regime, manufacturing structure, energy dependence, defence industry, refugee system, earthquake reconstruction and strategic geography. Existing Europe–Russia–Ukraine, Russia, Iran and Saudi Arabia research all require Turkish context to avoid reconstructing the same transmission mechanisms.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CS-2026-09-20-EUR-RU-UA",
+      "MT-CC-2026-09-23-russia",
+      "MT-CC-2026-09-23-iran",
+      "MT-CC-2026-09-23-saudi-arabia-deep"
+    ],
+    "contrary_evidence": [
+      "Inflation above 30% and recurring lira volatility support a macroeconomic-instability thesis, while low public debt, a functioning banking system, manufacturing exports and large tourism receipts argue against a sovereign or institutional-collapse narrative.",
+      "EU accession negotiations remain stalled, but the EU absorbs over two-fifths of Turkish goods exports and Customs Union cooperation continued to deepen in 2026.",
+      "Domestic gas, LNG infrastructure and renewables improve energy security, while natural-gas imports still represented roughly 95% of 2025 supply.",
+      "Defence exports above US$10 billion demonstrate significant industrial capability, but export value does not establish full technological autonomy because imported components and foreign certifications remain relevant."
+    ],
+    "limitations": [
+      "Inflation and growth forecasts changed materially during 2026 and must be attributed to their forecast date rather than averaged.",
+      "Turkish official sources are primary for administrative, trade, energy and defence-industry quantities but do not provide independent evaluation of policy performance.",
+      "Refugee stocks change through registration, voluntary return, resettlement and status changes; the latest UNHCR headline total used here is a mid-2025 snapshot.",
+      "Ethnicity is not comprehensively measured in official statistics, so the dossier avoids unsupported estimates of Kurdish or other ethnic population shares.",
+      "Defence-export figures are not equivalent to domestic value added or independently verified technological content.",
+      "Akkuyu's first unit remained in commissioning preparation at the evidence cutoff; planned generation is not counted as realised power supply.",
+      "Revision 1 adds the required evidence-bearing geographic map in both locales with semantic parity; no substantive factual conclusion is changed."
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "title": "Türkiye: industrial scale, monetary disinflation and strategic autonomy between Europe and Asia",
+    "deck": "Türkiye combines deep manufacturing, low sovereign debt and strategic geography with still-high inflation, external energy dependence and an unfinished shift toward higher-technology production; the central test is whether current disinflation becomes a durable institutional regime.",
+    "url": "/reports/2026/10/2026-10-04-country-context-turkiye.html",
+    "markdown_url": "/reports/2026/10/2026-10-04-country-context-turkiye/en.md",
+    "tags": [
+      "Türkiye",
+      "inflation",
+      "manufacturing",
+      "EU Customs Union",
+      "energy",
+      "defence industry",
+      "Black Sea",
+      "migration"
+    ],
+    "keywords": [
+      "Türkiye economy 2026",
+      "Turkey inflation 2026",
+      "Türkiye manufacturing",
+      "Türkiye EU customs union",
+      "Türkiye energy dependence",
+      "Türkiye defence industry",
+      "Türkiye Black Sea",
+      "Türkiye refugees"
+    ],
+    "regime": "Large transcontinental manufacturing economy undergoing restrictive disinflation, with low public debt and strong industrial capacity offset by high nominal instability, energy import dependence and large external financing flows.",
+    "key_risk": "Premature monetary easing or a regional energy shock could restart the inflation-lira cycle before expectations and reserves are strong enough to sustain lower inflation.",
+    "watch": [
+      "Inflation expectations, CPI and CBRT policy rate",
+      "International reserves and lira demand",
+      "EU manufacturing integration and Customs Union modernisation",
+      "High-technology share of manufacturing exports",
+      "Energy import bill, Black Sea gas and renewable generation",
+      "Female labour-force participation and demographic transition",
+      "Defence exports and civilian technology spillovers",
+      "Earthquake reconstruction, urban resilience and refugee transition"
+    ],
+    "search_text": "Türkiye Turkey 2026 inflation lira manufacturing EU Customs Union energy imports Black Sea gas renewables defence exports NATO refugees earthquake reconstruction demographics labour",
+    "qa_reviewed_at": "2026-10-04T23:49:55-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "21a76f73de1b8ede93e1fa9a072d1687b09bcbab"
+  },
+  {
     "id": "MT-CC-2026-10-04-portugal",
     "slug": "2026-10-04-country-context-portugal",
     "date": "2026-10-04",
@@ -7401,94 +7531,6 @@
     "qa_reviewed_commit": "a53b65140f34f2c40de53bc2f6a29ef1780de5f6"
   },
   {
-    "id": "MT-GM-2026-09-20",
-    "date": "2026-09-20",
-    "published_at": "2026-09-20T00:06:23-03:00",
-    "kind": "daily-global-macro",
-    "priority": 10,
-    "taxonomy_version": "1.0",
-    "program": "political-economy-markets",
-    "related_programs": [
-      "global-system-power"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "macroeconomics",
-      "monetary-policy",
-      "capital-markets",
-      "sovereign-debt",
-      "currencies",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "geopolitics-security"
-    ],
-    "phenomena": [
-      "war-armed-conflict",
-      "strategic-competition",
-      "defense-security"
-    ],
-    "format": "brief",
-    "cadence": "daily",
-    "source_locale": "en",
-    "title": "Global Macro — September 20, 2026",
-    "deck": "Lower oil is easing the immediate inflation shock, but a 4.93% U.S. 10-year par yield, a steep 2s30s curve, defensive fund flows and weak Chinese credit demand keep global financing conditions restrictive as U.S.-China talks move AI and rare earths into the near-term calendar.",
-    "url": "/reports/2026/09/2026-09-20-global-macro.html",
-    "markdown_url": "/reports/2026/09/2026-09-20-global-macro/en.md",
-    "tags": [
-      "global-macro",
-      "markets",
-      "monetary-policy",
-      "China",
-      "energy"
-    ],
-    "keywords": [
-      "Federal Reserve",
-      "Treasuries",
-      "China LPR",
-      "U.S.-China trade",
-      "AI",
-      "rare earths",
-      "oil",
-      "gold",
-      "fund flows",
-      "Brazil"
-    ],
-    "regime": "Selective equity resilience inside restrictive global financing conditions, with lower oil offset by high long yields, a steep Treasury curve and defensive fund flows.",
-    "key_risk": "Markets may treat lower oil and diplomatic engagement as normalization before Gulf logistics, long-term financing costs and U.S.-China technology and trade rules materially improve.",
-    "watch": [
-      "U.S.-China Bessent-He meeting outcomes",
-      "U.S. 10-year Treasury par yield at 4.93%",
-      "2s30s Treasury par-yield slope around +110 bp",
-      "Brent around $100–105/bbl",
-      "gold versus U.S. real yields",
-      "U.S. equity breadth and fund flows",
-      "China credit demand after unchanged LPRs",
-      "Brazilian long-end rates versus Selic"
-    ],
-    "search_text": "Global macro September 20 2026 Treasury par yields 4.24 4.93 5.34 China LPR U.S. China Bessent He AI rare earths Brent 104.87 fund flows Brazil markets.",
-    "revision": 2,
-    "revision_reason": "qa_rework",
-    "qa_fixes_applied": [
-      "Removed all references to the rejected draft, correction process and QA/rework history from EN and PT-BR public prose.",
-      "Restated the September 18 Treasury result directly: 2Y 4.24%, 10Y 4.93%, 30Y 5.34%, with the 2s30s slope approximately +110 bp.",
-      "Preserved the verified Brent settlement at $104.87/bbl and WTI at $100.30/bbl and all downstream factual conclusions.",
-      "Rechecked bilingual semantic parity after the editorial cleanup without changing the validated visual evidence."
-    ],
-    "qa_reviewed_at": "2026-09-20T03:17:37Z",
-    "qa_confidence": "high",
-    "qa_reviewed_commit": "1872f0ce6d287b2c201ae8fc63ee85dca918c0e5"
-  },
-  {
     "id": "MT-CS-2026-09-20-EUR-RU-UA",
     "date": "2026-09-20",
     "published_at": "2026-09-20T14:30:00-03:00",
@@ -7645,6 +7687,94 @@
         "search_text": "Europa Rússia Ucrânia sistema de conflito pós Guerra Fria expansão OTAN Memorando Budapeste Ato Fundador OTAN Rússia Bucareste 2008 não alinhamento Ucrânia 2010 Crimeia 2014 invasão 2022 rearmamento europeu 2026 opinião pública Kissinger Ordem Mundial Sarotte Not One Inch."
       }
     }
+  },
+  {
+    "id": "MT-GM-2026-09-20",
+    "date": "2026-09-20",
+    "published_at": "2026-09-20T00:06:23-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "sovereign-debt",
+      "currencies",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "source_locale": "en",
+    "title": "Global Macro — September 20, 2026",
+    "deck": "Lower oil is easing the immediate inflation shock, but a 4.93% U.S. 10-year par yield, a steep 2s30s curve, defensive fund flows and weak Chinese credit demand keep global financing conditions restrictive as U.S.-China talks move AI and rare earths into the near-term calendar.",
+    "url": "/reports/2026/09/2026-09-20-global-macro.html",
+    "markdown_url": "/reports/2026/09/2026-09-20-global-macro/en.md",
+    "tags": [
+      "global-macro",
+      "markets",
+      "monetary-policy",
+      "China",
+      "energy"
+    ],
+    "keywords": [
+      "Federal Reserve",
+      "Treasuries",
+      "China LPR",
+      "U.S.-China trade",
+      "AI",
+      "rare earths",
+      "oil",
+      "gold",
+      "fund flows",
+      "Brazil"
+    ],
+    "regime": "Selective equity resilience inside restrictive global financing conditions, with lower oil offset by high long yields, a steep Treasury curve and defensive fund flows.",
+    "key_risk": "Markets may treat lower oil and diplomatic engagement as normalization before Gulf logistics, long-term financing costs and U.S.-China technology and trade rules materially improve.",
+    "watch": [
+      "U.S.-China Bessent-He meeting outcomes",
+      "U.S. 10-year Treasury par yield at 4.93%",
+      "2s30s Treasury par-yield slope around +110 bp",
+      "Brent around $100–105/bbl",
+      "gold versus U.S. real yields",
+      "U.S. equity breadth and fund flows",
+      "China credit demand after unchanged LPRs",
+      "Brazilian long-end rates versus Selic"
+    ],
+    "search_text": "Global macro September 20 2026 Treasury par yields 4.24 4.93 5.34 China LPR U.S. China Bessent He AI rare earths Brent 104.87 fund flows Brazil markets.",
+    "revision": 2,
+    "revision_reason": "qa_rework",
+    "qa_fixes_applied": [
+      "Removed all references to the rejected draft, correction process and QA/rework history from EN and PT-BR public prose.",
+      "Restated the September 18 Treasury result directly: 2Y 4.24%, 10Y 4.93%, 30Y 5.34%, with the 2s30s slope approximately +110 bp.",
+      "Preserved the verified Brent settlement at $104.87/bbl and WTI at $100.30/bbl and all downstream factual conclusions.",
+      "Rechecked bilingual semantic parity after the editorial cleanup without changing the validated visual evidence."
+    ],
+    "qa_reviewed_at": "2026-09-20T03:17:37Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "1872f0ce6d287b2c201ae8fc63ee85dca918c0e5"
   },
   {
     "id": "MT-SA-2026-09-19-sovereign-capital",
@@ -8525,6 +8655,436 @@
     "qa_reviewed_commit": "1eb29145f1e88896d11b9d0eeb2895b9d9223dd6"
   },
   {
+    "id": "MT-EMIS-2026-09-16-grid-equipment",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:33:00-03:00",
+    "kind": "monthly-strategic-technology",
+    "priority": 23,
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "series": "energy-materials-industrial-systems",
+    "series_domain": "industrial-capacity-supply-chains",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "infrastructure-logistics",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "trade-investment"
+    ],
+    "format": "assessment",
+    "cadence": "event-driven",
+    "url": "/reports/2026/09/2026-09-16-grid-equipment.html",
+    "source_locale": "en",
+    "qa_reviewed_at": "2026-09-16T12:48:00-03:00",
+    "qa_confidence": "high",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Transformers and Cables in 2026: The Industrial Layer Behind Electrification",
+        "deck": "Long procurement cycles for transformers, cables and specialised inputs show that grid expansion depends on manufacturing capacity and standards as much as on investment plans.",
+        "tags": [
+          "Electricity",
+          "Transformers",
+          "Cables",
+          "Manufacturing",
+          "Supply Chains"
+        ],
+        "keywords": [
+          "transformers",
+          "power transformers",
+          "distribution transformers",
+          "cables",
+          "electrical steel",
+          "grid equipment",
+          "manufacturing",
+          "standardisation"
+        ],
+        "regime": "Rising grid demand confronting long equipment lead times, specialised materials and fragmented specifications",
+        "key_risk": "Grid investment plans may overstate executable capacity when equipment delivery, materials, testing and manufacturing slots are not modelled.",
+        "watch": [
+          "transformer lead times",
+          "cable lead times",
+          "factory expansions",
+          "electrical steel",
+          "equipment standardisation",
+          "utility procurement"
+        ],
+        "search_text": "transformers cables grid equipment electrical steel manufacturing supply chain standardization transmission distribution industrial capacity"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Transformadores e cabos em 2026: a camada industrial por trás da eletrificação",
+        "deck": "Prazos longos de transformadores, cabos e insumos especializados mostram que a expansão elétrica depende de capacidade fabril e padrões técnicos tanto quanto de planos de investimento.",
+        "tags": [
+          "Eletricidade",
+          "Transformadores",
+          "Cabos",
+          "Manufatura",
+          "Cadeias de Suprimento"
+        ],
+        "keywords": [
+          "transformadores",
+          "transformadores de potência",
+          "transformadores de distribuição",
+          "cabos",
+          "aço elétrico",
+          "equipamentos de rede",
+          "manufatura",
+          "padronização"
+        ],
+        "regime": "Demanda crescente por rede enfrentando prazos longos, materiais especializados e especificações fragmentadas",
+        "key_risk": "Planos de investimento em rede podem superestimar capacidade executável quando entrega de equipamentos, materiais, testes e slots fabris não são modelados.",
+        "watch": [
+          "prazos de transformadores",
+          "prazos de cabos",
+          "expansão fabril",
+          "aço elétrico",
+          "padronização",
+          "compras de concessionárias"
+        ],
+        "search_text": "transformadores cabos equipamentos de rede aço elétrico manufatura cadeia de suprimento padronização transmissão distribuição capacidade industrial"
+      }
+    }
+  },
+  {
+    "id": "MT-EMIS-2026-09-16-critical-minerals",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:32:00-03:00",
+    "kind": "monthly-strategic-technology",
+    "priority": 22,
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "series": "energy-materials-industrial-systems",
+    "series_domain": "strategic-advanced-materials",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "commodities-resources",
+      "industry-production",
+      "trade-investment",
+      "geopolitics-security",
+      "capital-markets"
+    ],
+    "format": "assessment",
+    "cadence": "event-driven",
+    "url": "/reports/2026/09/2026-09-16-critical-minerals.html",
+    "source_locale": "en",
+    "qa_reviewed_at": "2026-09-16T12:47:00-03:00",
+    "qa_confidence": "high",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Critical Minerals in 2026: The Strategic Constraint Is Moving Downstream",
+        "deck": "Resource ownership is only one layer of mineral power: refining, smelting, advanced materials and component manufacturing increasingly determine usable industrial supply.",
+        "tags": [
+          "Critical Minerals",
+          "Copper",
+          "Materials",
+          "Refining",
+          "Supply Chains"
+        ],
+        "keywords": [
+          "critical minerals",
+          "copper",
+          "rare earths",
+          "graphite",
+          "refining",
+          "smelting",
+          "advanced materials",
+          "processing",
+          "supply chains"
+        ],
+        "regime": "Mining diversification advancing alongside persistent or rising concentration in key downstream processing stages",
+        "key_risk": "Reserve and mine data may be mistaken for diversified industrial supply while processing and advanced-material capacity remain concentrated.",
+        "watch": [
+          "refining concentration",
+          "copper project pipeline",
+          "smelting utilization",
+          "export controls",
+          "downstream FIDs",
+          "recycling",
+          "public finance"
+        ],
+        "search_text": "critical minerals copper rare earths graphite refining smelting processing advanced materials magnets cathodes anodes industrial supply chains concentration"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Minerais críticos em 2026: a restrição estratégica se desloca para o processamento",
+        "deck": "A propriedade do recurso é apenas uma camada do poder mineral: refino, fundição, materiais avançados e componentes determinam cada vez mais a oferta industrial utilizável.",
+        "tags": [
+          "Minerais Críticos",
+          "Cobre",
+          "Materiais",
+          "Refino",
+          "Cadeias de Suprimento"
+        ],
+        "keywords": [
+          "minerais críticos",
+          "cobre",
+          "terras raras",
+          "grafite",
+          "refino",
+          "fundição",
+          "materiais avançados",
+          "processamento",
+          "cadeias de suprimento"
+        ],
+        "regime": "Diversificação da mineração avançando ao lado de concentração persistente ou crescente em etapas críticas de processamento",
+        "key_risk": "Dados de reservas e minas podem ser confundidos com oferta industrial diversificada enquanto processamento e materiais avançados permanecem concentrados.",
+        "watch": [
+          "concentração no refino",
+          "pipeline de cobre",
+          "utilização de fundições",
+          "controles de exportação",
+          "decisões a jusante",
+          "reciclagem",
+          "financiamento público"
+        ],
+        "search_text": "minerais críticos cobre terras raras grafite refino fundição processamento materiais avançados ímãs cátodos ânodos cadeias industriais concentração"
+      }
+    }
+  },
+  {
+    "id": "MT-EMIS-2026-09-16-hydrogen-fuels",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:31:00-03:00",
+    "kind": "monthly-strategic-technology",
+    "priority": 21,
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "series": "energy-materials-industrial-systems",
+    "series_domain": "fuels-energy-carriers",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "energy",
+      "industry-production",
+      "technology-innovation",
+      "trade-investment",
+      "capital-markets"
+    ],
+    "format": "assessment",
+    "cadence": "event-driven",
+    "url": "/reports/2026/09/2026-09-16-hydrogen-fuels.html",
+    "source_locale": "en",
+    "qa_reviewed_at": "2026-09-16T12:46:00-03:00",
+    "qa_confidence": "high",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Low-Emissions Hydrogen in 2026: The Market Is Moving from Announced Capacity to Contracted Demand",
+        "deck": "The 2030 hydrogen pipeline is contracting as projects encounter the harder tests of firm offtake, infrastructure, delivered cost and financing.",
+        "tags": [
+          "Energy",
+          "Hydrogen",
+          "Fuels",
+          "Industry",
+          "Infrastructure"
+        ],
+        "keywords": [
+          "low-emissions hydrogen",
+          "hydrogen",
+          "ammonia",
+          "methanol",
+          "e-fuels",
+          "SAF",
+          "offtake",
+          "electrolysis",
+          "industrial demand"
+        ],
+        "regime": "Project selection shifting from announced production capacity toward firm demand, infrastructure and finance",
+        "key_risk": "Announced project pipelines may be mistaken for future supply even when investment decisions and firm buyers are absent.",
+        "watch": [
+          "firm offtake",
+          "final investment decisions",
+          "operating production",
+          "electrolysis capacity",
+          "industrial conversions",
+          "delivered cost"
+        ],
+        "search_text": "hydrogen fuels energy carriers ammonia methanol e-fuels sustainable aviation fuel offtake electrolysis industrial demand infrastructure finance"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Hidrogênio de baixa emissão em 2026: o mercado migra de capacidade anunciada para demanda contratada",
+        "deck": "O pipeline de hidrogênio para 2030 encolhe à medida que projetos enfrentam testes mais duros de contratos firmes, infraestrutura, custo entregue e financiamento.",
+        "tags": [
+          "Energia",
+          "Hidrogênio",
+          "Combustíveis",
+          "Indústria",
+          "Infraestrutura"
+        ],
+        "keywords": [
+          "hidrogênio de baixa emissão",
+          "hidrogênio",
+          "amônia",
+          "metanol",
+          "e-fuels",
+          "SAF",
+          "contratos de compra",
+          "eletrólise",
+          "demanda industrial"
+        ],
+        "regime": "Seleção de projetos deslocando-se de capacidade anunciada para demanda firme, infraestrutura e financiamento",
+        "key_risk": "Pipelines anunciados podem ser confundidos com oferta futura mesmo sem decisões de investimento e compradores firmes.",
+        "watch": [
+          "contratos firmes",
+          "decisões finais de investimento",
+          "produção operacional",
+          "capacidade de eletrólise",
+          "conversões industriais",
+          "custo entregue"
+        ],
+        "search_text": "hidrogênio combustíveis vetores energéticos amônia metanol e-fuels combustível sustentável aviação contratos eletrólise demanda industrial infraestrutura financiamento"
+      }
+    }
+  },
+  {
+    "id": "MT-EMIS-2026-09-16-electricity-systems",
+    "date": "2026-09-16",
+    "published_at": "2026-09-16T12:30:00-03:00",
+    "kind": "monthly-strategic-technology",
+    "priority": 20,
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "series": "energy-materials-industrial-systems",
+    "series_domain": "electricity-systems",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "energy",
+      "infrastructure-logistics",
+      "industry-production",
+      "technology-innovation",
+      "capital-markets"
+    ],
+    "format": "assessment",
+    "cadence": "event-driven",
+    "url": "/reports/2026/09/2026-09-16-electricity-systems.html",
+    "source_locale": "en",
+    "qa_reviewed_at": "2026-09-16T12:45:00-03:00",
+    "qa_confidence": "high",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Electricity Systems in 2026: Generation Is Scaling Faster Than the Grid",
+        "deck": "Generation and storage are expanding faster than the networks that must connect, transmit and balance them, shifting scarcity toward grids, flexibility and electrical equipment.",
+        "tags": [
+          "Energy",
+          "Electricity",
+          "Grids",
+          "Storage",
+          "Infrastructure"
+        ],
+        "keywords": [
+          "electricity systems",
+          "power grid",
+          "transmission",
+          "distribution",
+          "connection queues",
+          "renewable capacity",
+          "storage",
+          "transformers"
+        ],
+        "regime": "Rapid generation and load growth with slower expansion of grid connection, transmission and equipment capacity",
+        "key_risk": "Installed generation capacity may be mistaken for deliverable electricity while network, flexibility and equipment constraints are ignored.",
+        "watch": [
+          "connection queues",
+          "grid investment",
+          "curtailment",
+          "transformer lead times",
+          "storage deployment",
+          "interconnection times"
+        ],
+        "search_text": "electricity systems grid transmission distribution interconnection renewables storage curtailment connection queues transformers cables industrial capacity"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Sistemas elétricos em 2026: a geração cresce mais rápido do que a rede",
+        "deck": "Geração e armazenamento avançam mais rapidamente do que as redes que precisam conectá-los, transmiti-los e equilibrá-los, deslocando a escassez para rede, flexibilidade e equipamentos elétricos.",
+        "tags": [
+          "Energia",
+          "Eletricidade",
+          "Redes",
+          "Armazenamento",
+          "Infraestrutura"
+        ],
+        "keywords": [
+          "sistemas elétricos",
+          "rede elétrica",
+          "transmissão",
+          "distribuição",
+          "filas de conexão",
+          "capacidade renovável",
+          "armazenamento",
+          "transformadores"
+        ],
+        "regime": "Crescimento rápido de geração e carga com expansão mais lenta de conexão, transmissão e capacidade de equipamentos",
+        "key_risk": "Capacidade instalada de geração pode ser confundida com eletricidade efetivamente entregável quando rede, flexibilidade e equipamentos são ignorados.",
+        "watch": [
+          "filas de conexão",
+          "investimento em redes",
+          "cortes de geração",
+          "prazos de transformadores",
+          "armazenamento",
+          "tempo de interconexão"
+        ],
+        "search_text": "sistemas elétricos rede transmissão distribuição interconexão renováveis armazenamento curtailment filas de conexão transformadores cabos capacidade industrial"
+      }
+    }
+  },
+  {
     "id": "MT-ST-2026-09-16-kazakhstan-corridor",
     "date": "2026-09-16",
     "published_at": "2026-09-16T12:19:27-03:00",
@@ -8936,436 +9496,6 @@
     "qa_reviewed_commit": "318c1741f31f59c3e023920f6b4ef02f8b80d4b9"
   },
   {
-    "id": "MT-EMIS-2026-09-16-electricity-systems",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:30:00-03:00",
-    "kind": "monthly-strategic-technology",
-    "priority": 20,
-    "taxonomy_version": "1.0",
-    "program": "technology-production-society",
-    "series": "energy-materials-industrial-systems",
-    "series_domain": "electricity-systems",
-    "related_programs": [
-      "global-system-power",
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "energy",
-      "infrastructure-logistics",
-      "industry-production",
-      "technology-innovation",
-      "capital-markets"
-    ],
-    "format": "assessment",
-    "cadence": "event-driven",
-    "url": "/reports/2026/09/2026-09-16-electricity-systems.html",
-    "source_locale": "en",
-    "qa_reviewed_at": "2026-09-16T12:45:00-03:00",
-    "qa_confidence": "high",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Electricity Systems in 2026: Generation Is Scaling Faster Than the Grid",
-        "deck": "Generation and storage are expanding faster than the networks that must connect, transmit and balance them, shifting scarcity toward grids, flexibility and electrical equipment.",
-        "tags": [
-          "Energy",
-          "Electricity",
-          "Grids",
-          "Storage",
-          "Infrastructure"
-        ],
-        "keywords": [
-          "electricity systems",
-          "power grid",
-          "transmission",
-          "distribution",
-          "connection queues",
-          "renewable capacity",
-          "storage",
-          "transformers"
-        ],
-        "regime": "Rapid generation and load growth with slower expansion of grid connection, transmission and equipment capacity",
-        "key_risk": "Installed generation capacity may be mistaken for deliverable electricity while network, flexibility and equipment constraints are ignored.",
-        "watch": [
-          "connection queues",
-          "grid investment",
-          "curtailment",
-          "transformer lead times",
-          "storage deployment",
-          "interconnection times"
-        ],
-        "search_text": "electricity systems grid transmission distribution interconnection renewables storage curtailment connection queues transformers cables industrial capacity"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Sistemas elétricos em 2026: a geração cresce mais rápido do que a rede",
-        "deck": "Geração e armazenamento avançam mais rapidamente do que as redes que precisam conectá-los, transmiti-los e equilibrá-los, deslocando a escassez para rede, flexibilidade e equipamentos elétricos.",
-        "tags": [
-          "Energia",
-          "Eletricidade",
-          "Redes",
-          "Armazenamento",
-          "Infraestrutura"
-        ],
-        "keywords": [
-          "sistemas elétricos",
-          "rede elétrica",
-          "transmissão",
-          "distribuição",
-          "filas de conexão",
-          "capacidade renovável",
-          "armazenamento",
-          "transformadores"
-        ],
-        "regime": "Crescimento rápido de geração e carga com expansão mais lenta de conexão, transmissão e capacidade de equipamentos",
-        "key_risk": "Capacidade instalada de geração pode ser confundida com eletricidade efetivamente entregável quando rede, flexibilidade e equipamentos são ignorados.",
-        "watch": [
-          "filas de conexão",
-          "investimento em redes",
-          "cortes de geração",
-          "prazos de transformadores",
-          "armazenamento",
-          "tempo de interconexão"
-        ],
-        "search_text": "sistemas elétricos rede transmissão distribuição interconexão renováveis armazenamento curtailment filas de conexão transformadores cabos capacidade industrial"
-      }
-    }
-  },
-  {
-    "id": "MT-EMIS-2026-09-16-hydrogen-fuels",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:31:00-03:00",
-    "kind": "monthly-strategic-technology",
-    "priority": 21,
-    "taxonomy_version": "1.0",
-    "program": "technology-production-society",
-    "series": "energy-materials-industrial-systems",
-    "series_domain": "fuels-energy-carriers",
-    "related_programs": [
-      "global-system-power",
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "energy",
-      "industry-production",
-      "technology-innovation",
-      "trade-investment",
-      "capital-markets"
-    ],
-    "format": "assessment",
-    "cadence": "event-driven",
-    "url": "/reports/2026/09/2026-09-16-hydrogen-fuels.html",
-    "source_locale": "en",
-    "qa_reviewed_at": "2026-09-16T12:46:00-03:00",
-    "qa_confidence": "high",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Low-Emissions Hydrogen in 2026: The Market Is Moving from Announced Capacity to Contracted Demand",
-        "deck": "The 2030 hydrogen pipeline is contracting as projects encounter the harder tests of firm offtake, infrastructure, delivered cost and financing.",
-        "tags": [
-          "Energy",
-          "Hydrogen",
-          "Fuels",
-          "Industry",
-          "Infrastructure"
-        ],
-        "keywords": [
-          "low-emissions hydrogen",
-          "hydrogen",
-          "ammonia",
-          "methanol",
-          "e-fuels",
-          "SAF",
-          "offtake",
-          "electrolysis",
-          "industrial demand"
-        ],
-        "regime": "Project selection shifting from announced production capacity toward firm demand, infrastructure and finance",
-        "key_risk": "Announced project pipelines may be mistaken for future supply even when investment decisions and firm buyers are absent.",
-        "watch": [
-          "firm offtake",
-          "final investment decisions",
-          "operating production",
-          "electrolysis capacity",
-          "industrial conversions",
-          "delivered cost"
-        ],
-        "search_text": "hydrogen fuels energy carriers ammonia methanol e-fuels sustainable aviation fuel offtake electrolysis industrial demand infrastructure finance"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Hidrogênio de baixa emissão em 2026: o mercado migra de capacidade anunciada para demanda contratada",
-        "deck": "O pipeline de hidrogênio para 2030 encolhe à medida que projetos enfrentam testes mais duros de contratos firmes, infraestrutura, custo entregue e financiamento.",
-        "tags": [
-          "Energia",
-          "Hidrogênio",
-          "Combustíveis",
-          "Indústria",
-          "Infraestrutura"
-        ],
-        "keywords": [
-          "hidrogênio de baixa emissão",
-          "hidrogênio",
-          "amônia",
-          "metanol",
-          "e-fuels",
-          "SAF",
-          "contratos de compra",
-          "eletrólise",
-          "demanda industrial"
-        ],
-        "regime": "Seleção de projetos deslocando-se de capacidade anunciada para demanda firme, infraestrutura e financiamento",
-        "key_risk": "Pipelines anunciados podem ser confundidos com oferta futura mesmo sem decisões de investimento e compradores firmes.",
-        "watch": [
-          "contratos firmes",
-          "decisões finais de investimento",
-          "produção operacional",
-          "capacidade de eletrólise",
-          "conversões industriais",
-          "custo entregue"
-        ],
-        "search_text": "hidrogênio combustíveis vetores energéticos amônia metanol e-fuels combustível sustentável aviação contratos eletrólise demanda industrial infraestrutura financiamento"
-      }
-    }
-  },
-  {
-    "id": "MT-EMIS-2026-09-16-critical-minerals",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:32:00-03:00",
-    "kind": "monthly-strategic-technology",
-    "priority": 22,
-    "taxonomy_version": "1.0",
-    "program": "technology-production-society",
-    "series": "energy-materials-industrial-systems",
-    "series_domain": "strategic-advanced-materials",
-    "related_programs": [
-      "global-system-power",
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "commodities-resources",
-      "industry-production",
-      "trade-investment",
-      "geopolitics-security",
-      "capital-markets"
-    ],
-    "format": "assessment",
-    "cadence": "event-driven",
-    "url": "/reports/2026/09/2026-09-16-critical-minerals.html",
-    "source_locale": "en",
-    "qa_reviewed_at": "2026-09-16T12:47:00-03:00",
-    "qa_confidence": "high",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Critical Minerals in 2026: The Strategic Constraint Is Moving Downstream",
-        "deck": "Resource ownership is only one layer of mineral power: refining, smelting, advanced materials and component manufacturing increasingly determine usable industrial supply.",
-        "tags": [
-          "Critical Minerals",
-          "Copper",
-          "Materials",
-          "Refining",
-          "Supply Chains"
-        ],
-        "keywords": [
-          "critical minerals",
-          "copper",
-          "rare earths",
-          "graphite",
-          "refining",
-          "smelting",
-          "advanced materials",
-          "processing",
-          "supply chains"
-        ],
-        "regime": "Mining diversification advancing alongside persistent or rising concentration in key downstream processing stages",
-        "key_risk": "Reserve and mine data may be mistaken for diversified industrial supply while processing and advanced-material capacity remain concentrated.",
-        "watch": [
-          "refining concentration",
-          "copper project pipeline",
-          "smelting utilization",
-          "export controls",
-          "downstream FIDs",
-          "recycling",
-          "public finance"
-        ],
-        "search_text": "critical minerals copper rare earths graphite refining smelting processing advanced materials magnets cathodes anodes industrial supply chains concentration"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Minerais críticos em 2026: a restrição estratégica se desloca para o processamento",
-        "deck": "A propriedade do recurso é apenas uma camada do poder mineral: refino, fundição, materiais avançados e componentes determinam cada vez mais a oferta industrial utilizável.",
-        "tags": [
-          "Minerais Críticos",
-          "Cobre",
-          "Materiais",
-          "Refino",
-          "Cadeias de Suprimento"
-        ],
-        "keywords": [
-          "minerais críticos",
-          "cobre",
-          "terras raras",
-          "grafite",
-          "refino",
-          "fundição",
-          "materiais avançados",
-          "processamento",
-          "cadeias de suprimento"
-        ],
-        "regime": "Diversificação da mineração avançando ao lado de concentração persistente ou crescente em etapas críticas de processamento",
-        "key_risk": "Dados de reservas e minas podem ser confundidos com oferta industrial diversificada enquanto processamento e materiais avançados permanecem concentrados.",
-        "watch": [
-          "concentração no refino",
-          "pipeline de cobre",
-          "utilização de fundições",
-          "controles de exportação",
-          "decisões a jusante",
-          "reciclagem",
-          "financiamento público"
-        ],
-        "search_text": "minerais críticos cobre terras raras grafite refino fundição processamento materiais avançados ímãs cátodos ânodos cadeias industriais concentração"
-      }
-    }
-  },
-  {
-    "id": "MT-EMIS-2026-09-16-grid-equipment",
-    "date": "2026-09-16",
-    "published_at": "2026-09-16T12:33:00-03:00",
-    "kind": "monthly-strategic-technology",
-    "priority": 23,
-    "taxonomy_version": "1.0",
-    "program": "technology-production-society",
-    "series": "energy-materials-industrial-systems",
-    "series_domain": "industrial-capacity-supply-chains",
-    "related_programs": [
-      "global-system-power",
-      "political-economy-markets"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "infrastructure-logistics",
-      "industry-production",
-      "energy",
-      "commodities-resources",
-      "trade-investment"
-    ],
-    "format": "assessment",
-    "cadence": "event-driven",
-    "url": "/reports/2026/09/2026-09-16-grid-equipment.html",
-    "source_locale": "en",
-    "qa_reviewed_at": "2026-09-16T12:48:00-03:00",
-    "qa_confidence": "high",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Transformers and Cables in 2026: The Industrial Layer Behind Electrification",
-        "deck": "Long procurement cycles for transformers, cables and specialised inputs show that grid expansion depends on manufacturing capacity and standards as much as on investment plans.",
-        "tags": [
-          "Electricity",
-          "Transformers",
-          "Cables",
-          "Manufacturing",
-          "Supply Chains"
-        ],
-        "keywords": [
-          "transformers",
-          "power transformers",
-          "distribution transformers",
-          "cables",
-          "electrical steel",
-          "grid equipment",
-          "manufacturing",
-          "standardisation"
-        ],
-        "regime": "Rising grid demand confronting long equipment lead times, specialised materials and fragmented specifications",
-        "key_risk": "Grid investment plans may overstate executable capacity when equipment delivery, materials, testing and manufacturing slots are not modelled.",
-        "watch": [
-          "transformer lead times",
-          "cable lead times",
-          "factory expansions",
-          "electrical steel",
-          "equipment standardisation",
-          "utility procurement"
-        ],
-        "search_text": "transformers cables grid equipment electrical steel manufacturing supply chain standardization transmission distribution industrial capacity"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Transformadores e cabos em 2026: a camada industrial por trás da eletrificação",
-        "deck": "Prazos longos de transformadores, cabos e insumos especializados mostram que a expansão elétrica depende de capacidade fabril e padrões técnicos tanto quanto de planos de investimento.",
-        "tags": [
-          "Eletricidade",
-          "Transformadores",
-          "Cabos",
-          "Manufatura",
-          "Cadeias de Suprimento"
-        ],
-        "keywords": [
-          "transformadores",
-          "transformadores de potência",
-          "transformadores de distribuição",
-          "cabos",
-          "aço elétrico",
-          "equipamentos de rede",
-          "manufatura",
-          "padronização"
-        ],
-        "regime": "Demanda crescente por rede enfrentando prazos longos, materiais especializados e especificações fragmentadas",
-        "key_risk": "Planos de investimento em rede podem superestimar capacidade executável quando entrega de equipamentos, materiais, testes e slots fabris não são modelados.",
-        "watch": [
-          "prazos de transformadores",
-          "prazos de cabos",
-          "expansão fabril",
-          "aço elétrico",
-          "padronização",
-          "compras de concessionárias"
-        ],
-        "search_text": "transformadores cabos equipamentos de rede aço elétrico manufatura cadeia de suprimento padronização transmissão distribuição capacidade industrial"
-      }
-    }
-  },
-  {
     "id": "MT-GM-2026-09-15",
     "date": "2026-09-15",
     "published_at": "2026-09-15T08:12:00-03:00",
@@ -9444,6 +9574,138 @@
     "qa_reviewed_at": "2026-09-15T08:48:28-03:00",
     "qa_confidence": "medium",
     "qa_reviewed_commit": "aa0b1c7d1800a8d0e84073ce72a646b6e3d126ea"
+  },
+  {
+    "id": "MT-WP-2026-09-15",
+    "date": "2026-09-15",
+    "published_at": "2026-09-15T01:42:40-03:00",
+    "kind": "monthly-wealth-power",
+    "priority": 30,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics"
+    ],
+    "format": "research-report",
+    "cadence": "monthly",
+    "url": "/reports/2026/09/2026-09-15-global-wealth-power-flows.html",
+    "source_locale": "en",
+    "qa_reviewed_at": "2026-09-15T02:21:22-03:00",
+    "qa_confidence": "medium",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Wealth & Power Flows — September 2026",
+        "deck": "Global financial wealth remains concentrated in U.S. markets, while sovereign investment and spending on mineral processing, chips, data centers and power systems reshape who receives future profits and financial income.",
+        "tags": [
+          "Global Wealth",
+          "Capital",
+          "Reserves",
+          "Gold",
+          "Energy",
+          "Minerals",
+          "AI",
+          "Geoeconomics"
+        ],
+        "keywords": [
+          "global wealth",
+          "capital flows",
+          "COFER",
+          "PIP",
+          "CPIS",
+          "BIS",
+          "foreign-exchange reserves",
+          "dollar",
+          "gold",
+          "sovereign wealth funds",
+          "FDI",
+          "UNCTAD",
+          "energy",
+          "critical minerals",
+          "semiconductors",
+          "data centers",
+          "artificial intelligence"
+        ],
+        "regime": "Dual concentration: financial capital in U.S. markets and critical processing and infrastructure capacity in strategic supply chains",
+        "key_risk": "Geoeconomic fragmentation combined with limited capacity in power systems, energy infrastructure and mineral processing",
+        "watch": [
+          "COFER",
+          "PIP/CPIS",
+          "BIS cross-border credit",
+          "revised official gold purchases",
+          "strategic FDI",
+          "semiconductors",
+          "power-grid capacity"
+        ],
+        "search_text": "global wealth power flows assets debt credit reserves dollar gold central banks sovereign wealth funds portfolio PIP CPIS BIS FDI UNCTAD energy electricity grids data centers AI semiconductors critical minerals processing refining wealth transfer matrix"
+      },
+      "pt-BR": {
+        "markdown": "../2026-09-15-global-wealth-power-flows.md",
+        "title": "Global Wealth & Power Flows — Setembro de 2026",
+        "deck": "A riqueza financeira permanece concentrada nos mercados dos EUA, enquanto investimentos soberanos e gastos com processamento mineral, chips, data centers e sistemas elétricos alteram quem recebe lucros e renda financeira no futuro.",
+        "tags": [
+          "Global Wealth",
+          "Capital",
+          "Reservas",
+          "Ouro",
+          "Energia",
+          "Minerais",
+          "IA",
+          "Geoeconomia"
+        ],
+        "keywords": [
+          "riqueza mundial",
+          "fluxos de capital",
+          "COFER",
+          "PIP",
+          "CPIS",
+          "BIS",
+          "reservas cambiais",
+          "dólar",
+          "ouro",
+          "fundos soberanos",
+          "FDI",
+          "UNCTAD",
+          "energia",
+          "minerais críticos",
+          "semicondutores",
+          "data centers",
+          "inteligência artificial"
+        ],
+        "regime": "Dupla concentração: capital financeiro nos mercados dos EUA e capacidades críticas de processamento e infraestrutura em cadeias estratégicas",
+        "key_risk": "Fragmentação geoeconômica combinada à capacidade limitada em sistemas elétricos, infraestrutura de energia e processamento mineral",
+        "watch": [
+          "COFER",
+          "PIP/CPIS",
+          "crédito bancário transfronteiriço do BIS",
+          "compras oficiais de ouro revisadas",
+          "FDI estratégico",
+          "semicondutores",
+          "capacidade de rede elétrica"
+        ],
+        "search_text": "riqueza mundial global wealth power flows ativos dívida crédito reservas dólar ouro bancos centrais fundos soberanos portfólio PIP CPIS BIS FDI UNCTAD energia eletricidade redes data centers IA semicondutores minerais críticos processamento refino wealth transfer matrix"
+      }
+    }
   },
   {
     "id": "MT-WF-2026-09-15",
@@ -9580,138 +9842,6 @@
           "refino de minerais críticos"
         ],
         "search_text": "riqueza mundial fluxos capital reservas cambiais COFER dólar ouro bancos centrais revisão Treasuries TIC BIS crédito transfronteiriço fundos soberanos FDI greenfield energia petróleo gás urânio eletricidade cobre lítio níquel cobalto terras raras ferro semicondutores baterias refino data centers infraestrutura IA China Índia Japão Estados Unidos Wealth Transfer Matrix"
-      }
-    }
-  },
-  {
-    "id": "MT-WP-2026-09-15",
-    "date": "2026-09-15",
-    "published_at": "2026-09-15T01:42:40-03:00",
-    "kind": "monthly-wealth-power",
-    "priority": 30,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets",
-      "technology-production-society"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "capital-markets",
-      "trade-investment",
-      "energy",
-      "commodities-resources",
-      "industry-production",
-      "technology-innovation",
-      "infrastructure-logistics"
-    ],
-    "format": "research-report",
-    "cadence": "monthly",
-    "url": "/reports/2026/09/2026-09-15-global-wealth-power-flows.html",
-    "source_locale": "en",
-    "qa_reviewed_at": "2026-09-15T02:21:22-03:00",
-    "qa_confidence": "medium",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Global Wealth & Power Flows — September 2026",
-        "deck": "Global financial wealth remains concentrated in U.S. markets, while sovereign investment and spending on mineral processing, chips, data centers and power systems reshape who receives future profits and financial income.",
-        "tags": [
-          "Global Wealth",
-          "Capital",
-          "Reserves",
-          "Gold",
-          "Energy",
-          "Minerals",
-          "AI",
-          "Geoeconomics"
-        ],
-        "keywords": [
-          "global wealth",
-          "capital flows",
-          "COFER",
-          "PIP",
-          "CPIS",
-          "BIS",
-          "foreign-exchange reserves",
-          "dollar",
-          "gold",
-          "sovereign wealth funds",
-          "FDI",
-          "UNCTAD",
-          "energy",
-          "critical minerals",
-          "semiconductors",
-          "data centers",
-          "artificial intelligence"
-        ],
-        "regime": "Dual concentration: financial capital in U.S. markets and critical processing and infrastructure capacity in strategic supply chains",
-        "key_risk": "Geoeconomic fragmentation combined with limited capacity in power systems, energy infrastructure and mineral processing",
-        "watch": [
-          "COFER",
-          "PIP/CPIS",
-          "BIS cross-border credit",
-          "revised official gold purchases",
-          "strategic FDI",
-          "semiconductors",
-          "power-grid capacity"
-        ],
-        "search_text": "global wealth power flows assets debt credit reserves dollar gold central banks sovereign wealth funds portfolio PIP CPIS BIS FDI UNCTAD energy electricity grids data centers AI semiconductors critical minerals processing refining wealth transfer matrix"
-      },
-      "pt-BR": {
-        "markdown": "../2026-09-15-global-wealth-power-flows.md",
-        "title": "Global Wealth & Power Flows — Setembro de 2026",
-        "deck": "A riqueza financeira permanece concentrada nos mercados dos EUA, enquanto investimentos soberanos e gastos com processamento mineral, chips, data centers e sistemas elétricos alteram quem recebe lucros e renda financeira no futuro.",
-        "tags": [
-          "Global Wealth",
-          "Capital",
-          "Reservas",
-          "Ouro",
-          "Energia",
-          "Minerais",
-          "IA",
-          "Geoeconomia"
-        ],
-        "keywords": [
-          "riqueza mundial",
-          "fluxos de capital",
-          "COFER",
-          "PIP",
-          "CPIS",
-          "BIS",
-          "reservas cambiais",
-          "dólar",
-          "ouro",
-          "fundos soberanos",
-          "FDI",
-          "UNCTAD",
-          "energia",
-          "minerais críticos",
-          "semicondutores",
-          "data centers",
-          "inteligência artificial"
-        ],
-        "regime": "Dupla concentração: capital financeiro nos mercados dos EUA e capacidades críticas de processamento e infraestrutura em cadeias estratégicas",
-        "key_risk": "Fragmentação geoeconômica combinada à capacidade limitada em sistemas elétricos, infraestrutura de energia e processamento mineral",
-        "watch": [
-          "COFER",
-          "PIP/CPIS",
-          "crédito bancário transfronteiriço do BIS",
-          "compras oficiais de ouro revisadas",
-          "FDI estratégico",
-          "semicondutores",
-          "capacidade de rede elétrica"
-        ],
-        "search_text": "riqueza mundial global wealth power flows ativos dívida crédito reservas dólar ouro bancos centrais fundos soberanos portfólio PIP CPIS BIS FDI UNCTAD energia eletricidade redes data centers IA semicondutores minerais críticos processamento refino wealth transfer matrix"
       }
     }
   },
