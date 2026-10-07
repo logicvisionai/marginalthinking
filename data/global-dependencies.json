@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "Global Dependency Network",
   "status": "active",
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-10-07",
   "history_file": "data/global-dependency-history.json",
   "description": {
     "en": "A cumulative network of evidenced dependencies linking resources, routes, infrastructure, productive capacity, technology, institutions and capital.",
@@ -165,7 +165,8 @@
       },
       "research_ids": [
         "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
+        "MT-WF-2026-09-18",
+        "MT-GM-2026-10-07"
       ],
       "home_preview": {
         "x": 9,
@@ -234,7 +235,8 @@
       },
       "research_ids": [
         "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
+        "MT-WF-2026-09-18",
+        "MT-GM-2026-10-07"
       ],
       "home_preview": {
         "x": 46,
@@ -257,7 +259,9 @@
       },
       "research_ids": [
         "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
+        "MT-WF-2026-09-18",
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
       ],
       "home_preview": {
         "x": 64,
@@ -280,7 +284,9 @@
       },
       "research_ids": [
         "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
+        "MT-WF-2026-09-18",
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
       ],
       "home_preview": {
         "x": 82,
@@ -878,14 +884,16 @@
       "substitutability": "medium",
       "confidence": "high",
       "horizon": "immediate",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-07",
       "mechanism": {
         "en": "Energy and transport costs pass through to inflation, household purchasing power and policy expectations at different speeds.",
         "pt-BR": "Custos de energia e transporte chegam à inflação, ao poder de compra das famílias e às expectativas de política econômica em velocidades diferentes."
       },
       "research_ids": [
         "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
+        "MT-WF-2026-09-18",
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
       ],
       "home_preview": true
     },
@@ -899,14 +907,16 @@
       "substitutability": "low",
       "confidence": "high",
       "horizon": "immediate",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-07",
       "mechanism": {
         "en": "Persistent inflation pressure raises the probability of tighter policy rates and higher financing benchmarks.",
         "pt-BR": "Pressão inflacionária persistente eleva a probabilidade de juros mais altos e parâmetros de financiamento mais restritivos."
       },
       "research_ids": [
         "MT-GM-2026-09-18",
-        "MT-WF-2026-09-18"
+        "MT-WF-2026-09-18",
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
       ],
       "home_preview": true
     },

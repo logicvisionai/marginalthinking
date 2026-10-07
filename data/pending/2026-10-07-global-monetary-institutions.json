@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GMFI-2026-10-07",
+  "slug": "2026-10-07-global-monetary-institutions",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T08:55:00-03:00",
+  "kind": "daily-institutional-monitor",
+  "priority": 8,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-07-global-monetary-institutions/en.md",
+      "title": "Global Monetary Institutions — policy paths diverge while balance-sheet channels tighten transmission",
+      "deck": "Fed, ECB and BOJ have tightened, the BoE is holding with a hawkish minority, and Brazil is easing; the institutional divide now runs through both policy rates and central-bank balance sheets.",
+      "tags": [
+        "central banks",
+        "monetary policy",
+        "Federal Reserve",
+        "ECB",
+        "Bank of England",
+        "Bank of Japan",
+        "Brazil",
+        "balance sheets"
+      ],
+      "keywords": [
+        "global monetary institutions October 7 2026",
+        "Fed 3.75 4.00",
+        "ECB deposit 2.50",
+        "Bank Rate 3.75",
+        "BOJ 1.25",
+        "Selic 13.75",
+        "central bank balance sheet policy"
+      ],
+      "regime": "Monetary-policy direction is diverging across jurisdictions while balance-sheet runoff, reserve management and sovereign-duration transmission make headline policy rates an incomplete measure of financial conditions.",
+      "key_risk": "A persistent energy shock can keep advanced-economy policy restrictive while global duration and exchange-rate spillovers reduce the room for easing in high-rate emerging economies.",
+      "watch": [
+        "FOMC minutes on 7 October",
+        "long sovereign yields and term premia",
+        "energy-price persistence",
+        "ECB transmission across sovereign curves",
+        "UK inflation and wage-setting",
+        "Bank of Japan October meeting",
+        "Brazil Focus expectations and Copom communication"
+      ],
+      "search_text": "Global Monetary Institutions October 7 2026 Fed ECB BoE BOJ BCB Selic central bank rates balance sheets liquidity sovereign yields"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-07-global-monetary-institutions/pt-BR.md",
+      "title": "Instituições Monetárias Globais — trajetórias de juros divergem enquanto balanços reforçam a transmissão",
+      "deck": "Fed, BCE e BoJ apertaram, o BoE mantém juros com minoria favorável à alta, e o Brasil flexibiliza; a divergência institucional agora passa por taxas básicas e balanços dos bancos centrais.",
+      "tags": [
+        "bancos centrais",
+        "política monetária",
+        "Federal Reserve",
+        "BCE",
+        "Banco da Inglaterra",
+        "Banco do Japão",
+        "Brasil",
+        "balanços"
+      ],
+      "keywords": [
+        "instituições monetárias globais 7 outubro 2026",
+        "Fed 3.75 4.00",
+        "BCE depósito 2.50",
+        "Bank Rate 3.75",
+        "BoJ 1.25",
+        "Selic 13.75",
+        "balanço banco central"
+      ],
+      "regime": "A direção da política monetária diverge entre jurisdições enquanto redução de balanços, gestão de reservas e transmissão pela duração soberana tornam a taxa básica uma medida incompleta das condições financeiras.",
+      "key_risk": "Choque persistente de energia pode manter a política das economias avançadas restritiva enquanto duração global e efeitos cambiais reduzem o espaço de flexibilização em emergentes com juros altos.",
+      "watch": [
+        "ata do FOMC em 7 de outubro",
+        "juros soberanos longos e prêmios de prazo",
+        "persistência dos preços de energia",
+        "transmissão do BCE entre curvas soberanas",
+        "inflação e salários no Reino Unido",
+        "reunião de outubro do Banco do Japão",
+        "expectativas Focus e comunicação do Copom"
+      ],
+      "search_text": "Instituições Monetárias Globais 7 outubro 2026 Fed BCE BoE BoJ BCB Selic juros bancos centrais balanços liquidez yields soberanos"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "asia-pacific"
+    ],
+    "subregions": [
+      "north-america",
+      "latin-america-caribbean",
+      "western-europe",
+      "east-asia"
+    ],
+    "countries": [
+      {
+        "code": "US",
+        "slug": "united-states"
+      },
+      {
+        "code": "GB",
+        "slug": "united-kingdom"
+      },
+      {
+        "code": "JP",
+        "slug": "japan"
+      },
+      {
+        "code": "BR",
+        "slug": "brazil"
+      }
+    ]
+  },
+  "topics": [
+    "monetary-policy",
+    "banking-credit",
+    "sovereign-debt",
+    "capital-markets",
+    "currencies",
+    "institutions-governance",
+    "energy"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "monitor",
+  "cadence": "daily",
+  "series": "global-monetary-financial-institutions",
+  "series_domain": "system-monitor",
+  "revision": 0
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Global Dependency Network history",
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-10-07",
   "event_types": {
     "baseline": {
       "en": "Baseline",
@@ -1738,6 +1738,156 @@
       },
       "research_ids": [
         "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "event_id": "strait-hormuz-2026-10-07-evidence-update",
+      "entity_type": "node",
+      "entity_id": "strait-hormuz",
+      "date": "2026-10-07",
+      "type": "evidence_update",
+      "snapshot": {
+        "type": "chokepoint",
+        "group": "energy-finance",
+        "label": {
+          "en": "Strait of Hormuz",
+          "pt-BR": "Estreito de Hormuz"
+        },
+        "description": {
+          "en": "Maritime passage whose security, insurance and transit conditions materially affect Gulf export capacity.",
+          "pt-BR": "Passagem marítima cujas condições de segurança, seguro e trânsito afetam materialmente a capacidade de exportação do Golfo."
+        }
+      },
+      "summary": {
+        "en": "Current macro evidence revalidates the Strait of Hormuz as a material energy-route risk feeding global delivered oil costs.",
+        "pt-BR": "Evidência macro atual revalida o Estreito de Hormuz como risco material de rota energética que afeta o custo global entregue do petróleo."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-07"
+      ]
+    },
+    {
+      "event_id": "global-oil-costs-2026-10-07-evidence-update",
+      "entity_type": "node",
+      "entity_id": "global-oil-costs",
+      "date": "2026-10-07",
+      "type": "evidence_update",
+      "snapshot": {
+        "type": "market",
+        "group": "energy-finance",
+        "label": {
+          "en": "Delivered oil cost",
+          "pt-BR": "Custo entregue do petróleo"
+        },
+        "description": {
+          "en": "Crude price, freight, insurance and route constraints transmitted to importers.",
+          "pt-BR": "Preço do petróleo, frete, seguro e restrições de rota transmitidos aos importadores."
+        }
+      },
+      "summary": {
+        "en": "The 7 October macro update revalidates delivered energy cost as the relevant transmission object rather than spot crude alone.",
+        "pt-BR": "A atualização macro de 7 de outubro revalida o custo entregue de energia como objeto relevante de transmissão, e não apenas o petróleo à vista."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-07"
+      ]
+    },
+    {
+      "event_id": "inflation-pressure-2026-10-07-evidence-update",
+      "entity_type": "node",
+      "entity_id": "inflation-pressure",
+      "date": "2026-10-07",
+      "type": "evidence_update",
+      "snapshot": {
+        "type": "market",
+        "group": "energy-finance",
+        "label": {
+          "en": "Inflation pressure",
+          "pt-BR": "Pressão inflacionária"
+        },
+        "description": {
+          "en": "Energy and transport costs transmitted into inflation expectations and policy trade-offs.",
+          "pt-BR": "Custos de energia e transporte transmitidos para expectativas de inflação e escolhas de política econômica."
+        }
+      },
+      "summary": {
+        "en": "Current macro and institutional evidence revalidates energy-to-inflation transmission across central-bank reaction functions.",
+        "pt-BR": "Evidência macro e institucional atual revalida a transmissão de energia para inflação nas funções de reação dos bancos centrais."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "event_id": "global-financing-2026-10-07-evidence-update",
+      "entity_type": "node",
+      "entity_id": "global-financing",
+      "date": "2026-10-07",
+      "type": "evidence_update",
+      "snapshot": {
+        "type": "finance",
+        "group": "energy-finance",
+        "label": {
+          "en": "Global financing conditions",
+          "pt-BR": "Condições globais de financiamento"
+        },
+        "description": {
+          "en": "Policy rates and long yields that set financing hurdles for capital-intensive projects.",
+          "pt-BR": "Juros de política e taxas longas que definem o custo de capital para projetos intensivos em investimento."
+        }
+      },
+      "summary": {
+        "en": "Current evidence expands the financing node beyond policy rates by revalidating sovereign duration, reserve management and central-bank balance-sheet channels.",
+        "pt-BR": "A evidência atual amplia o nó de financiamento além das taxas básicas ao revalidar duração soberana, gestão de reservas e canais de balanço dos bancos centrais."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "event_id": "dep-oil-inflation-2026-10-07-evidence-update",
+      "entity_type": "edge",
+      "entity_id": "dep-oil-inflation",
+      "date": "2026-10-07",
+      "type": "evidence_update",
+      "snapshot": {
+        "from": "global-oil-costs",
+        "to": "inflation-pressure",
+        "relation": "transmits",
+        "criticality": "high",
+        "substitutability": "medium"
+      },
+      "summary": {
+        "en": "Evidence on renewed energy pressure and central-bank inflation concerns revalidates the oil-cost to inflation-pressure relationship.",
+        "pt-BR": "Evidência sobre nova pressão de energia e preocupação inflacionária dos bancos centrais revalida a relação entre custo do petróleo e pressão inflacionária."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "event_id": "dep-inflation-financing-2026-10-07-evidence-update",
+      "entity_type": "edge",
+      "entity_id": "dep-inflation-financing",
+      "date": "2026-10-07",
+      "type": "evidence_update",
+      "snapshot": {
+        "from": "inflation-pressure",
+        "to": "global-financing",
+        "relation": "transmits",
+        "criticality": "high",
+        "substitutability": "low"
+      },
+      "summary": {
+        "en": "Divergent policy decisions and elevated long yields revalidate inflation pressure as a driver of financing conditions through rates and balance-sheet policy.",
+        "pt-BR": "Decisões monetárias divergentes e juros longos elevados revalidam a pressão inflacionária como determinante das condições financeiras por juros e política de balanço."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-07",
+        "MT-GMFI-2026-10-07"
       ]
     }
   ]

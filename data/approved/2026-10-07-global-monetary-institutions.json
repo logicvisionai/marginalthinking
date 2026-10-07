@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "id": "MT-GMFI-2026-10-07",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-07T08:59:00-03:00",
+  "reviewed_commit": "46cd7c400b55845b13b63106ed1c1bb0642410d0",
+  "pending_blob_sha": "18401497a34cd0db2dee2ec6930968ee973784c8",
+  "source_blob_shas": {
+    "en": "7ee51aab6702d05d7c9ceb6cb210abab9703fdd7",
+    "pt-BR": "e413a44d729445cec3907ef439e9d1e846031cab"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_cutoff",
+      "summary": "Current policy settings and institutional mechanisms were checked against Federal Reserve, ECB, Bank of England, Bank of Japan and Banco Central do Brasil primary material. The report explicitly excludes the FOMC minutes scheduled for later on 7 October from the 08:55 BRT information cutoff."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "The update moves beyond the 22 September monitor by comparing post-September policy divergence with balance-sheet transmission: Fed and ECB tightening, BoE hold plus gilt runoff, BOJ normalization, and Brazilian easing."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The monitor separates policy-rate direction from balance-sheet implementation, avoids treating nominal rate levels as comparable tightness measures, and states falsifiers and the information cutoff."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The analysis connects policy rates, reserve frameworks, portfolio runoff, sovereign duration, exchange rates, bank funding and fiscal transmission rather than treating central-bank decisions as isolated headlines."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 2 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "summary": "The monitor exceeds the visual floor. EN/PT-BR visuals have identical quantitative observations and structural relationships, with explicit caveats on cross-country rate comparability.",
+      "limitations": "Policy-rate levels are not a common tightness metric across jurisdictions; the report states this before interpreting the chart."
+    }
+  },
+  "contrary_evidence": [
+    "A persistent fall in energy prices could cause advanced-economy policy paths to converge toward easing faster than the current divergence suggests.",
+    "Falling term premia despite central-bank portfolio runoff would reduce the importance of the balance-sheet channel.",
+    "Brazil's easing cycle could slow or pause if inflation expectations or exchange-rate pressure rise again.",
+    "The FOMC minutes released after the cutoff may change the market interpretation of the September decision without changing the decision itself."
+  ],
+  "limitations": [
+    "The monitor compares institutions with different mandates, operating frameworks, neutral rates and financial structures.",
+    "The Bank of Japan policy setting is described through its overnight-rate guideline and must be interpreted together with its JGB purchase policy.",
+    "The information cutoff precedes the 7 October FOMC minutes.",
+    "Balance-sheet transmission is mechanism-based; the report does not claim a single quantitative measure of cross-country monetary tightness."
+  ],
+  "notes": "Approved for same-day publication after source, bilingual, visual and taxonomy review. The 08:55 BRT cutoff is preserved so later FOMC minutes are not silently incorporated.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GMFI-2026-10-07",
+    "slug": "2026-10-07-global-monetary-institutions",
+    "date": "2026-10-07",
+    "published_at": "2026-10-07T08:55:00-03:00",
+    "kind": "daily-institutional-monitor",
+    "priority": 8,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-07-global-monetary-institutions/en.md",
+        "title": "Global Monetary Institutions — policy paths diverge while balance-sheet channels tighten transmission",
+        "deck": "Fed, ECB and BOJ have tightened, the BoE is holding with a hawkish minority, and Brazil is easing; the institutional divide now runs through both policy rates and central-bank balance sheets.",
+        "tags": [
+          "central banks",
+          "monetary policy",
+          "Federal Reserve",
+          "ECB",
+          "Bank of England",
+          "Bank of Japan",
+          "Brazil",
+          "balance sheets"
+        ],
+        "keywords": [
+          "global monetary institutions October 7 2026",
+          "Fed 3.75 4.00",
+          "ECB deposit 2.50",
+          "Bank Rate 3.75",
+          "BOJ 1.25",
+          "Selic 13.75",
+          "central bank balance sheet policy"
+        ],
+        "regime": "Monetary-policy direction is diverging across jurisdictions while balance-sheet runoff, reserve management and sovereign-duration transmission make headline policy rates an incomplete measure of financial conditions.",
+        "key_risk": "A persistent energy shock can keep advanced-economy policy restrictive while global duration and exchange-rate spillovers reduce the room for easing in high-rate emerging economies.",
+        "watch": [
+          "FOMC minutes on 7 October",
+          "long sovereign yields and term premia",
+          "energy-price persistence",
+          "ECB transmission across sovereign curves",
+          "UK inflation and wage-setting",
+          "Bank of Japan October meeting",
+          "Brazil Focus expectations and Copom communication"
+        ],
+        "search_text": "Global Monetary Institutions October 7 2026 Fed ECB BoE BOJ BCB Selic central bank rates balance sheets liquidity sovereign yields"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-07-global-monetary-institutions/pt-BR.md",
+        "title": "Instituições Monetárias Globais — trajetórias de juros divergem enquanto balanços reforçam a transmissão",
+        "deck": "Fed, BCE e BoJ apertaram, o BoE mantém juros com minoria favorável à alta, e o Brasil flexibiliza; a divergência institucional agora passa por taxas básicas e balanços dos bancos centrais.",
+        "tags": [
+          "bancos centrais",
+          "política monetária",
+          "Federal Reserve",
+          "BCE",
+          "Banco da Inglaterra",
+          "Banco do Japão",
+          "Brasil",
+          "balanços"
+        ],
+        "keywords": [
+          "instituições monetárias globais 7 outubro 2026",
+          "Fed 3.75 4.00",
+          "BCE depósito 2.50",
+          "Bank Rate 3.75",
+          "BoJ 1.25",
+          "Selic 13.75",
+          "balanço banco central"
+        ],
+        "regime": "A direção da política monetária diverge entre jurisdições enquanto redução de balanços, gestão de reservas e transmissão pela duração soberana tornam a taxa básica uma medida incompleta das condições financeiras.",
+        "key_risk": "Choque persistente de energia pode manter a política das economias avançadas restritiva enquanto duração global e efeitos cambiais reduzem o espaço de flexibilização em emergentes com juros altos.",
+        "watch": [
+          "ata do FOMC em 7 de outubro",
+          "juros soberanos longos e prêmios de prazo",
+          "persistência dos preços de energia",
+          "transmissão do BCE entre curvas soberanas",
+          "inflação e salários no Reino Unido",
+          "reunião de outubro do Banco do Japão",
+          "expectativas Focus e comunicação do Copom"
+        ],
+        "search_text": "Instituições Monetárias Globais 7 outubro 2026 Fed BCE BoE BoJ BCB Selic juros bancos centrais balanços liquidez yields soberanos"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "GB",
+          "slug": "united-kingdom"
+        },
+        {
+          "code": "JP",
+          "slug": "japan"
+        },
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "monetary-policy",
+      "banking-credit",
+      "sovereign-debt",
+      "capital-markets",
+      "currencies",
+      "institutions-governance",
+      "energy"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "monitor",
+    "cadence": "daily",
+    "series": "global-monetary-financial-institutions",
+    "series_domain": "system-monitor",
+    "revision": 0
+  }
+}

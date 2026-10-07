@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-07T08:22:00-03:00",
+  "last_reconciled_at": "2026-10-07T09:08:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -3875,6 +3875,121 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No capability-stage transition under the Technology Signal contract is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-07-system-catchup-reconciliation",
+      "reconciled_at": "2026-10-07T09:08:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GMFI-2026-10-07",
+        "MT-GM-2026-10-07",
+        "MT-GM-2026-10-06",
+        "MT-GM-2026-10-05",
+        "MT-WF-2026-10-05",
+        "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-04-lithuania",
+        "MT-CC-2026-10-04-portugal",
+        "MT-CC-2026-10-04-turkiye",
+        "MT-GM-2026-10-03",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-CC-2026-10-03-ukraine",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-28-singapore",
+        "MT-WF-2026-09-28",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-GM-2026-09-27",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-GM-2026-09-23",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-russia",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22",
+        "MT-PE-2026-09-22-REAL-URV"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "updated",
+          "note": "The 7 October Global Macro and Monetary Institutions monitor revalidate the energy-to-inflation-to-financing chain. Canonical node provenance, two edge verification dates and append-only evidence history were updated."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The Türkiye dossier contains structural conditions relevant to future opportunity work, but the current evidence does not establish a project-level access, capacity, financing or execution state meeting the Atlas contract."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "updated",
+          "note": "Monetary-authority coverage was expanded with Bank of England, Bank of Japan and Banco Central do Brasil, a euro-area financing relation was added for the Eurosystem, and Federal Reserve evidence was refreshed to the 7 October monitor."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Türkiye energy dependence and maritime geography are relevant context, but the new publications do not establish a new controller-level reserve, ownership, operating-right, processing-control or physical-intermediation record."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The new publications are a current monetary monitor and a country dossier rather than bounded implemented policy cases requiring a Policy Case Atlas mutation."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Türkiye and Middle East transmission remain material to security and energy analysis, but the reviewed evidence does not establish a new verified operational conflict-system state or probability estimate."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "The reviewed publications affect financing and industrial context but do not establish a new technology capability, replication, deployment or scale transition."
         }
       ]
     }

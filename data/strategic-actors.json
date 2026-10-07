@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Strategic Actors & Structural Power",
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-10-07",
   "description": {
     "en": "A documented map of actors whose capital, ownership rights, institutional authority, physical flows, productive assets or technology can alter the constraints under which firms, states and societies operate.",
     "pt-BR": "Mapa documentado de atores cujo capital, direitos de propriedade, autoridade institucional, fluxos físicos, ativos produtivos ou tecnologia podem alterar as restrições sob as quais empresas, Estados e sociedades operam."
@@ -173,6 +173,38 @@
       "label": {
         "en": "Member development finance",
         "pt-BR": "Financiamento ao desenvolvimento dos membros"
+      }
+    },
+    {
+      "id": "euro-area-financing-conditions",
+      "category": "finance",
+      "label": {
+        "en": "Euro-area financing conditions",
+        "pt-BR": "Condições de financiamento da área do euro"
+      }
+    },
+    {
+      "id": "sterling-financing-conditions",
+      "category": "finance",
+      "label": {
+        "en": "Sterling financing conditions",
+        "pt-BR": "Condições de financiamento em libra"
+      }
+    },
+    {
+      "id": "japan-financing-conditions",
+      "category": "finance",
+      "label": {
+        "en": "Japanese financing conditions",
+        "pt-BR": "Condições de financiamento do Japão"
+      }
+    },
+    {
+      "id": "brazil-financing-conditions",
+      "category": "finance",
+      "label": {
+        "en": "Brazilian financing conditions",
+        "pt-BR": "Condições de financiamento do Brasil"
       }
     }
   ],
@@ -415,10 +447,11 @@
         "en": "Policy transmits through markets and institutions; it does not establish direct control over private credit allocation or foreign monetary policy.",
         "pt-BR": "A política se transmite por mercados e instituições; não estabelece controle direto sobre a alocação privada de crédito nem sobre política monetária externa."
       },
-      "last_verified": "2026-09-22",
+      "last_verified": "2026-10-07",
       "research_ids": [
         "MT-GMFI-2026-09-22",
-        "MT-GM-2026-09-22"
+        "MT-GM-2026-09-22",
+        "MT-GMFI-2026-10-07"
       ]
     },
     {
@@ -442,9 +475,10 @@
         "en": "Settlement infrastructure does not establish adoption or market scale; transaction volume and interoperability remain empirical questions.",
         "pt-BR": "Infraestrutura de liquidação não estabelece adoção nem escala de mercado; volume e interoperabilidade continuam sendo questões empíricas."
       },
-      "last_verified": "2026-09-22",
+      "last_verified": "2026-10-07",
       "research_ids": [
-        "MT-GMFI-2026-09-22"
+        "MT-GMFI-2026-09-22",
+        "MT-GMFI-2026-10-07"
       ]
     },
     {
@@ -498,6 +532,84 @@
       "last_verified": "2026-09-22",
       "research_ids": [
         "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "id": "bank-of-england",
+      "legal_name": "Bank of England",
+      "class": "central-bank",
+      "jurisdiction": "United Kingdom",
+      "label": {
+        "en": "Bank of England",
+        "pt-BR": "Banco da Inglaterra"
+      },
+      "description": {
+        "en": "UK monetary authority whose Bank Rate and gilt-portfolio decisions transmit through sterling funding, sovereign duration, bank pricing and domestic credit conditions.",
+        "pt-BR": "Autoridade monetária do Reino Unido cujas decisões sobre Bank Rate e carteira de gilts se transmitem por financiamento em libra, duração soberana, precificação bancária e condições domésticas de crédito."
+      },
+      "scale": {
+        "en": "Systemic monetary authority for a major reserve currency and global financial centre.",
+        "pt-BR": "Autoridade monetária sistêmica de uma importante moeda de reserva e centro financeiro global."
+      },
+      "limits": {
+        "en": "The Bank influences but does not directly control private credit allocation, fiscal issuance or global energy prices.",
+        "pt-BR": "O Banco influencia, mas não controla diretamente, a alocação privada de crédito, a emissão fiscal ou os preços globais de energia."
+      },
+      "last_verified": "2026-10-07",
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "id": "bank-of-japan",
+      "legal_name": "Bank of Japan",
+      "class": "central-bank",
+      "jurisdiction": "Japan",
+      "label": {
+        "en": "Bank of Japan",
+        "pt-BR": "Banco do Japão"
+      },
+      "description": {
+        "en": "Japanese monetary authority whose policy-rate and JGB-purchase decisions affect yen funding, domestic sovereign duration and global portfolio allocation.",
+        "pt-BR": "Autoridade monetária japonesa cujas decisões sobre juros e compras de JGBs afetam financiamento em iene, duração soberana doméstica e alocação global de portfólio."
+      },
+      "scale": {
+        "en": "Systemic monetary authority for a major reserve currency and one of the world's largest sovereign-bond markets.",
+        "pt-BR": "Autoridade monetária sistêmica de uma importante moeda de reserva e de um dos maiores mercados de títulos soberanos do mundo."
+      },
+      "limits": {
+        "en": "Policy transmission depends on inflation, wages, the JGB market, the yen and private balance sheets; the Bank does not directly determine global portfolio flows.",
+        "pt-BR": "A transmissão depende de inflação, salários, mercado de JGBs, iene e balanços privados; o Banco não determina diretamente os fluxos globais de portfólio."
+      },
+      "last_verified": "2026-10-07",
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "id": "banco-central-do-brasil",
+      "legal_name": "Banco Central do Brasil",
+      "class": "central-bank",
+      "jurisdiction": "Brazil",
+      "label": {
+        "en": "Banco Central do Brasil",
+        "pt-BR": "Banco Central do Brasil"
+      },
+      "description": {
+        "en": "Brazilian monetary authority whose Selic, liquidity and foreign-exchange operations shape local funding, exchange-rate transmission and inflation expectations.",
+        "pt-BR": "Autoridade monetária brasileira cujas decisões sobre Selic, liquidez e operações cambiais moldam financiamento local, transmissão cambial e expectativas de inflação."
+      },
+      "scale": {
+        "en": "Monetary authority for Latin America's largest economy and a major emerging-market local-rate complex.",
+        "pt-BR": "Autoridade monetária da maior economia da América Latina e de um importante mercado emergente de juros locais."
+      },
+      "limits": {
+        "en": "Its direct mandate and instruments are domestic; global effects arise through portfolio allocation, commodities, exchange rates and emerging-market risk channels rather than reserve-currency control.",
+        "pt-BR": "Seu mandato e instrumentos diretos são domésticos; efeitos globais surgem por alocação de portfólio, commodities, câmbio e canais de risco emergente, não por controle de moeda de reserva."
+      },
+      "last_verified": "2026-10-07",
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
       ]
     }
   ],
@@ -735,14 +847,15 @@
       "substitutability": "low",
       "confidence": "high",
       "horizon": "immediate",
-      "last_verified": "2026-09-22",
+      "last_verified": "2026-10-07",
       "mechanism": {
         "en": "Policy-rate and reserve-remuneration decisions anchor dollar short rates and transmit through yields, bank funding and cross-border financing costs.",
         "pt-BR": "Decisões de juros e remuneração de reservas ancoram juros curtos em dólar e se transmitem por yields, funding bancário e custos de financiamento transfronteiriço."
       },
       "research_ids": [
         "MT-GMFI-2026-09-22",
-        "MT-GM-2026-09-22"
+        "MT-GM-2026-09-22",
+        "MT-GMFI-2026-10-07"
       ]
     },
     {
@@ -797,6 +910,78 @@
       },
       "research_ids": [
         "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "id": "eurosystem-euro-financing",
+      "actor": "eurosystem",
+      "target": "euro-area-financing-conditions",
+      "channel": "monetary-policy",
+      "control_mode": "institutional-authority",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-10-07",
+      "mechanism": {
+        "en": "Policy rates, portfolio runoff and transmission instruments change euro-area money-market pricing, sovereign curves and bank financing conditions.",
+        "pt-BR": "Juros de política, redução de carteiras e instrumentos de transmissão alteram a precificação do mercado monetário, curvas soberanas e condições de financiamento bancário na área do euro."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "id": "boe-sterling-financing",
+      "actor": "bank-of-england",
+      "target": "sterling-financing-conditions",
+      "channel": "monetary-policy",
+      "control_mode": "institutional-authority",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-10-07",
+      "mechanism": {
+        "en": "Bank Rate and gilt-portfolio runoff alter sterling short rates, sovereign duration held by private investors and the financing conditions faced by households and firms.",
+        "pt-BR": "Bank Rate e redução da carteira de gilts alteram juros curtos em libra, duração soberana mantida por investidores privados e condições de financiamento de famílias e empresas."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "id": "boj-japan-financing",
+      "actor": "bank-of-japan",
+      "target": "japan-financing-conditions",
+      "channel": "monetary-policy",
+      "control_mode": "institutional-authority",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-10-07",
+      "mechanism": {
+        "en": "The overnight-rate guideline and JGB purchase path influence yen funding, Japanese sovereign yields and the incentives behind domestic and cross-border portfolio allocation.",
+        "pt-BR": "A diretriz para a taxa overnight e a trajetória de compras de JGBs influenciam financiamento em iene, juros soberanos japoneses e incentivos da alocação doméstica e transfronteiriça de portfólio."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
+      ]
+    },
+    {
+      "id": "bcb-brazil-financing",
+      "actor": "banco-central-do-brasil",
+      "target": "brazil-financing-conditions",
+      "channel": "monetary-policy",
+      "control_mode": "institutional-authority",
+      "substitutability": "low",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-10-07",
+      "mechanism": {
+        "en": "The Selic target anchors local short rates and transmits through bank credit, sovereign financing, portfolio allocation, the exchange rate and inflation expectations.",
+        "pt-BR": "A meta Selic ancora os juros curtos locais e se transmite por crédito bancário, financiamento soberano, alocação de portfólio, câmbio e expectativas de inflação."
+      },
+      "research_ids": [
+        "MT-GMFI-2026-10-07"
       ]
     }
   ]
