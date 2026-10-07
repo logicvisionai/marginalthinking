@@ -36,3 +36,17 @@ npm run build
 ```
 
 The build validates the research archive and writes the static site plus the public MCP research catalog to `dist/` for Cloudflare Workers Static Assets.
+
+## Operational surfaces
+
+The public build exposes the same research system through several derived surfaces:
+
+- `/research/coverage/` — corpus coverage by program, geography, topic and language;
+- `/system-status/` — editorial cadence, freshness, reconciliation and pipeline state;
+- `/data/` — machine-readable analytical datasets;
+- `/data/research-system-status.json` — machine-readable system health;
+- `/data/mcp-catalog.json` — machine-readable research catalog;
+- `/llms.txt` — agent-oriented discovery and canonical research links.
+
+These pages are derived at build time from canonical report bundles, the frozen taxonomy and the system registry. They are not separate editorial databases.
+
