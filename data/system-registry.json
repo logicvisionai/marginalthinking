@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-10-07",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -401,9 +401,9 @@
         "TECHNOLOGY-SIGNALS.md",
         "data/reports.json"
       ],
-      "update_mode": "event-driven",
+      "update_mode": "monthly-event-driven",
       "reconciliation_required": false,
-      "freshness_sla_hours": null
+      "freshness_sla_hours": 840
     },
     {
       "id": "editorial-conflict-systems",
@@ -512,6 +512,126 @@
       "update_mode": "weekly-event-driven",
       "reconciliation_required": false,
       "freshness_sla_hours": 192
+    },
+    {
+      "id": "system-status",
+      "type": "discovery-tool",
+      "status": "active",
+      "public_route": "/system-status/",
+      "source_files": [
+        "data/system-registry.json",
+        "data/reconciliation-ledger.json",
+        "scripts/lib/system-freshness.mjs",
+        "scripts/render-system-status.mjs"
+      ],
+      "render_script": "scripts/render-system-status.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "research-coverage",
+      "type": "discovery-tool",
+      "status": "active",
+      "public_route": "/research/coverage/",
+      "source_files": [
+        "data/taxonomy.json",
+        "data/reports.json",
+        "scripts/render-research-intelligence.mjs"
+      ],
+      "render_script": "scripts/render-research-intelligence.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "agent-discovery",
+      "type": "access-layer",
+      "status": "active",
+      "public_route": "/llms.txt",
+      "source_files": [
+        "data/taxonomy.json",
+        "scripts/render-agent-discovery.mjs"
+      ],
+      "render_script": "scripts/render-agent-discovery.mjs",
+      "update_mode": "build-derived",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-wealth-power-monthly",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "public_route": "/research/global-wealth-flows/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "monthly-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 840
+    },
+    {
+      "id": "editorial-wealth-power-annual",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "public_route": "/research/global-wealth-flows/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "annual-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 9000
+    },
+    {
+      "id": "editorial-global-institution-systems",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "public_route": "/research/global-system-power/",
+      "source_files": [
+        "data/reports.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-regional-integration-systems",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "public_route": "/research/political-economy-markets/",
+      "source_files": [
+        "data/reports.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-technology-society-essays",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "public_route": "/research/technology-production-society/",
+      "source_files": [
+        "data/reports.json",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
     }
   ]
 }

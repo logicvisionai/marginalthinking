@@ -208,7 +208,7 @@ For every approved ID that is not already public, it must:
 9. copy the approved staged Portuguese Markdown to `reports/YYYY/MM/<slug>/pt-BR.md`;
 10. create `reports/YYYY/MM/<slug>/metadata.json` with `source_locale:"en"`, relative Markdown paths `en.md` and `pt-BR.md`, the approved taxonomy, approved `phenomena` when present, and localized metadata;
 11. use canonical URL `/reports/YYYY/MM/<slug>.html`;
-12. update `data/reports.json` only as a backward-compatible index, using the same canonical classification, `phenomena` when present and URL;
+12. update `data/reports.json` as a backward-compatible index, preserving the same canonical classification, localized metadata, `phenomena` when present and URL; every public bundle must have a matching index entry;
 13. commit all publication changes atomically.
 
 The publisher must never create public metadata pointing to `staging/`.
@@ -270,7 +270,7 @@ Context maintenance runs only after successful publication work in the publisher
 - a public bundle points to `staging/`;
 - a public bundle references Markdown outside the `reports/` public tree.
 
-`scripts/validate-research.mjs` validates public bilingual bundles, controlled taxonomy including `phenomena` when present, and Markdown structure.
+`scripts/validate-research.mjs` validates public bilingual bundles, controlled taxonomy including `phenomena` when present, Markdown structure, unique compatibility-index IDs and complete `data/reports.json` coverage for every public bundle.
 
 A deployment must not proceed if either validator fails.
 
