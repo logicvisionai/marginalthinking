@@ -195,6 +195,18 @@ function validateTaxonomy(item){
 }
 
 let reports=[];try{reports=collectReports(root);}catch(e){fail.push(`coleta de pesquisas falhou: ${e.message}`);}
+let backwardIndex=[];
+try{
+  backwardIndex=JSON.parse(read('data/reports.json'));
+  if(!Array.isArray(backwardIndex))fail.push('data/reports.json deve ser um array');
+}catch(e){fail.push(`data/reports.json inválido: ${e.message}`);}
+const backwardIds=new Set();
+for(const item of backwardIndex){
+  if(!item?.id)fail.push('data/reports.json: entrada sem id');
+  else if(backwardIds.has(item.id))fail.push(`data/reports.json: id duplicado ${item.id}`);
+  else backwardIds.add(item.id);
+}
+for(const item of reports.filter(r=>r._bundle))if(!backwardIds.has(item.id))fail.push(`data/reports.json: bundle público ausente do índice retrocompatível (${item.id})`);
 const ids=new Set(),urls=new Set();
 for(const item of reports){
   for(const key of ['id','date','kind','title','deck','url','markdown_url'])if(!item[key])fail.push(`research: ${item.id||'entrada'} sem ${key}`);
