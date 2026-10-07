@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Policy Case Atlas",
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-10-07",
   "methodology": "POLICY-EXPERIMENTS.md",
   "disclaimer": {
     "en": "Comparative evidence on implemented policies and institutional transitions. Cases are not rankings, endorsements or binary success/failure labels.",
@@ -226,6 +226,65 @@
           "name": "IMF — Argentina transparency report",
           "url": "https://www.imf.org/external/np/rosc/arg/index.htm",
           "type": "institutional-research"
+        }
+      ]
+    },
+    {
+      "id": "nz-inflation-targeting-1990",
+      "domain": "monetary-stabilization",
+      "country": {
+        "code": "NZ",
+        "slug": "new-zealand",
+        "name": {
+          "en": "New Zealand",
+          "pt-BR": "Nova Zelândia"
+        }
+      },
+      "intervention": {
+        "en": "Inflation-targeting framework",
+        "pt-BR": "Regime de metas de inflação"
+      },
+      "period": {
+        "start": "1989",
+        "launch": "1990-03",
+        "end": null
+      },
+      "problem": {
+        "en": "Persistent high and volatile inflation combined with weak confidence that low inflation would survive short-horizon political pressure.",
+        "pt-BR": "Inflação persistentemente alta e volátil combinada com baixa confiança de que inflação baixa sobreviveria a pressões políticas de curto prazo."
+      },
+      "mechanism": {
+        "en": "The 1989 Reserve Bank Act established price stability as the primary monetary objective, operational independence for the central bank and public accountability; a Policy Targets Agreement translated the objective into an explicit inflation range.",
+        "pt-BR": "A lei do Reserve Bank de 1989 estabeleceu estabilidade de preços como objetivo monetário principal, independência operacional e prestação pública de contas; um Acordo de Metas traduziu o objetivo em uma faixa explícita de inflação."
+      },
+      "outcome_summary": {
+        "en": "Annual CPI inflation fell into the initial target range by 1991 and remained low in the early 1990s; the framework later evolved toward wider bands and a medium-term flexible inflation-targeting approach.",
+        "pt-BR": "A inflação anual entrou na faixa inicial da meta em 1991 e permaneceu baixa no início dos anos 1990; o regime depois evoluiu para bandas mais amplas e metas flexíveis em horizonte de médio prazo."
+      },
+      "transfer_limits": {
+        "en": "Disinflation was already under way before the Act and occurred alongside broad structural reforms. Transfer requires credible fiscal settings, operational capacity, transparent accountability and institutions capable of sustaining the target.",
+        "pt-BR": "A desinflação já estava em curso antes da lei e ocorreu junto de amplas reformas estruturais. A transferência exige configuração fiscal crível, capacidade operacional, prestação de contas transparente e instituições capazes de sustentar a meta."
+      },
+      "evidence_status": "verified",
+      "last_verified": "2026-10-07",
+      "related_research_ids": [
+        "MT-PE-2026-10-07-NZ-INFLATION-TARGETING"
+      ],
+      "sources": [
+        {
+          "name": "Reserve Bank of New Zealand — History of the Remit and Policy Targets Agreement",
+          "url": "https://www.rbnz.govt.nz/monetary-policy/about-monetary-policy/history-of-the-remit-and-policy-targets-agreement",
+          "type": "primary"
+        },
+        {
+          "name": "Reserve Bank of New Zealand — Monetary Policy Handbook",
+          "url": "https://www.rbnz.govt.nz/monetary-policy/about-monetary-policy/monetary-policy-handbook",
+          "type": "primary"
+        },
+        {
+          "name": "Reserve Bank of New Zealand / Stats NZ — Economic indicators",
+          "url": "https://www.rbnz.govt.nz/statistics/key-statistics/economic-indicators",
+          "type": "official-statistics"
         }
       ]
     }
