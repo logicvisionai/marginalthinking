@@ -153,6 +153,12 @@ jobs:
           test -f dist/system-status/index.html
           test -f dist/pt-br/system-status/index.html
           test -f dist/data/research-system-status.json
+          test -f dist/data/taxonomy/index.html
+          test -f dist/data/technology-signals/index.html
+          test -f dist/data/research-intelligence/index.html
+          test -f dist/data/search-index/index.html
+          test -f dist/data/system-registry/index.html
+          test -f dist/data/reports-index/index.html
           grep -q 'Policy Case Atlas' dist/policy-cases/index.html
           grep -q 'Atlas de Casos de Política' dist/pt-br/policy-cases/index.html
           grep -q 'policy-experiments-institutional-transitions' dist/index.html
@@ -209,6 +215,10 @@ jobs:
           grep -q '/pt-br/mcp-docs/' dist/pt-br/index.html
           grep -q 'https://marginalthinking.org/mcp' dist/mcp-docs/index.html
           grep -q 'get_conflict_system' dist/mcp-docs/index.html
+          grep -q 'get_research_system_status' dist/mcp-docs/index.html
+          grep -q 'get_public_dataset' dist/mcp-docs/index.html
+          grep -q 'marginalthinking://system-status' dist/mcp-docs/index.html
+          grep -q 'marginalthinking://taxonomy' dist/mcp-docs/index.html
           grep -q 'marginalthinking://conflict-systems' dist/mcp-docs/index.html
           grep -q 'https://marginalthinking.org/mcp' dist/pt-br/mcp-docs/index.html
           grep -q '<loc>https://marginalthinking.org/mcp-docs/</loc>' dist/sitemap.xml
