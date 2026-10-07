@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GMFI-2026-10-07",
+  "slug": "2026-10-07-global-monetary-institutions",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T09:35:00-03:00",
+  "kind": "daily-institutional-monitor",
+  "priority": 8,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-07-global-monetary-institutions/en.md",
+      "title": "Global Monetary Institutions — rates remain restrictive while surveillance, disclosure and AI governance move into the operating agenda",
+      "deck": "Major central banks remain restrictive while the IMF, Basel Committee and Federal Reserve expand the institutional agenda toward risk-based surveillance, machine-readable disclosure and AI-agent payments.",
+      "tags": [
+        "central banks",
+        "IMF",
+        "Basel Committee",
+        "AI agents",
+        "financial regulation",
+        "monetary policy"
+      ],
+      "keywords": [
+        "Global Monetary Institutions October 7 2026",
+        "Federal Reserve 3.75 4.00",
+        "ECB 2.50",
+        "Bank of England 3.75",
+        "IMF 2026 surveillance review",
+        "Basel machine readable Pillar 3",
+        "AI agent payments"
+      ],
+      "regime": "Restrictive policy rates coexist with an institutional shift toward risk-based surveillance, machine-readable prudential disclosure and governance of AI-mediated financial activity.",
+      "key_risk": "Institutions may face faster and more correlated financial adjustment before their disclosure, monitoring and intervention frameworks adapt to increasingly automated markets and payments.",
+      "watch": [
+        "FOMC minutes on 7 October",
+        "Bank of England 5 November decision",
+        "next ECB decision",
+        "machine-readable Pillar 3 implementation",
+        "Basel cryptoasset review",
+        "IMF surveillance guidance"
+      ],
+      "search_text": "Global monetary financial institutions October 7 2026 Fed ECB Bank of England IMF Basel AI agents payments surveillance Pillar 3"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-07-global-monetary-institutions/pt-BR.md",
+      "title": "Instituições Monetárias Globais — juros seguem restritivos enquanto supervisão, divulgação e governança de IA entram na agenda operacional",
+      "deck": "Grandes bancos centrais seguem restritivos enquanto FMI, Comitê de Basileia e Federal Reserve ampliam a agenda para supervisão orientada a risco, divulgação legível por máquinas e pagamentos por agentes de IA.",
+      "tags": [
+        "bancos centrais",
+        "FMI",
+        "Comitê de Basileia",
+        "agentes de IA",
+        "regulação financeira",
+        "política monetária"
+      ],
+      "keywords": [
+        "Instituições Monetárias Globais 7 outubro 2026",
+        "Federal Reserve 3.75 4.00",
+        "BCE 2.50",
+        "Banco da Inglaterra 3.75",
+        "FMI revisão supervisão 2026",
+        "Basileia Pilar 3 legível por máquina",
+        "pagamentos agentes IA"
+      ],
+      "regime": "Juros restritivos coexistem com deslocamento institucional para supervisão orientada a risco, divulgação prudencial legível por máquinas e governança de atividade financeira mediada por IA.",
+      "key_risk": "Instituições podem enfrentar ajustes financeiros mais rápidos e correlacionados antes que divulgação, monitoramento e instrumentos de intervenção se adaptem a mercados e pagamentos automatizados.",
+      "watch": [
+        "ata do FOMC em 7 de outubro",
+        "decisão do Banco da Inglaterra em 5 de novembro",
+        "próxima decisão do BCE",
+        "implementação do Pilar 3 legível por máquina",
+        "revisão de criptoativos de Basileia",
+        "orientação de supervisão do FMI"
+      ],
+      "search_text": "Instituições monetárias financeiras globais 7 outubro 2026 Fed BCE Banco Inglaterra FMI Basileia agentes IA pagamentos supervisão Pilar 3"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "series": "global-monetary-financial-institutions",
+  "series_domain": "system-monitor",
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "monetary-policy",
+    "banking-credit",
+    "sovereign-debt",
+    "capital-markets",
+    "currencies",
+    "institutions-governance",
+    "technology-innovation"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0
+}
