@@ -7,12 +7,11 @@ const parseDate=(value)=>{
   const d=new Date(/^\d{4}-\d{2}-\d{2}$/.test(s)?s+'T12:00:00Z':s);
   return Number.isNaN(d.getTime())?null:d;
 };
-const latestReport=(reports,pred)=>reports.filter(pred).slice().sort((a,b)=>String(b.published_at||b.date||'').localeCompare(String(a.published_at||a.date||'')))[0]||null;
+const latestReport=(reports,pred)=>reports.filter(pred).slice().sort((a,b)=>String(b.published_at||b.date||'').localeCompare(String(a.published_at||a.date||''))||String(b.id||'').localeCompare(String(a.id||'')))[0]||null;
+const latestRun=runs=>(Array.isArray(runs)?runs:[]).reduce((best,run)=>!best||String(run.reconciled_at||'')>=String(best.reconciled_at||'')?run:best,null);
 
 export function computeSystemFreshness({root,registry,ledger,reports,now=new Date()}){
-  const runs=Array.isArray(ledger.runs)?ledger.runs:[];
-  const latestRun=runs.slice().sort((a,b)=>String(b.reconciled_at||'').localeCompare(String(a.reconciled_at||'')))[0]||null;
-  const decisions=new Map((latestRun?.decisions||[]).map(d=>[d.asset_id,d]));
+  const run=latestRun(ledger.runs),decisions=new Map((run?.decisions||[]).map(d=>[d.asset_id,d]));
   return (registry.assets||[]).map(a=>{
     let sourceReport=null,lastActivity=null,modified=null,lastReconciled=null;
     if(a.type==='editorial-line'){
@@ -25,7 +24,7 @@ export function computeSystemFreshness({root,registry,ledger,reports,now=new Dat
       sourceReport=latestReport(reports,r=>r.series===a.taxonomy_id);
       lastActivity=sourceReport?.published_at||sourceReport?.date||null;
     }else if(a.reconciliation_required){
-      lastReconciled=latestRun?.reconciled_at||null;
+      lastReconciled=run?.reconciled_at||null;
       lastActivity=lastReconciled;
     }
     if(a.freshness_source&&fs.existsSync(path.join(root,a.freshness_source))){
@@ -34,11 +33,13 @@ export function computeSystemFreshness({root,registry,ledger,reports,now=new Dat
     }
     const at=parseDate(lastActivity),ageHours=at?Math.max(0,(now-at)/36e5):null,hasSla=a.freshness_sla_hours!=null;
     const state=!hasSla?'no_sla':(!at?'missing_activity':(ageHours>a.freshness_sla_hours?'review_due':'current'));
+    const decision=decisions.get(a.id)||null;
     return {
       id:a.id,type:a.type,status:a.status,public_route:a.public_route||null,update_mode:a.update_mode,
       reconciliation_required:!!a.reconciliation_required,freshness_sla_hours:a.freshness_sla_hours??null,
       last_activity:lastActivity,last_reconciled:lastReconciled,last_modified:modified,
-      latest_report_id:sourceReport?.id||null,decision:decisions.get(a.id)?.decision||null,
+      latest_report_id:sourceReport?.id||null,latest_report_date:sourceReport?.date||null,
+      decision:decision?.decision||null,decision_note:decision?.note||null,
       age_hours:ageHours==null?null:Math.round(ageHours*10)/10,state
     };
   });
