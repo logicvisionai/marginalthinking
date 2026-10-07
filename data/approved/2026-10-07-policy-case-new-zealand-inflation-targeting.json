@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-10-07-NZ-INFLATION-TARGETING",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-07T09:56:00-03:00",
+  "reviewed_commit": "ac140f08068126cf0997060c0120bd5964b457f6",
+  "pending_blob_sha": "8c951602f78a356f3f30d8f04c8d9e174f849e45",
+  "source_blob_shas": {
+    "en": "4f1e6327c75c92e40162934cce757a0695064cb7",
+    "pt-BR": "efb164edc4d1973d3b09c19a7172deb030768d51"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "RBNZ institutional histories and monetary-policy handbook establish the legal design and target evolution; RBNZ and Stats NZ historical CPI and labour data support the quantitative visuals."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "Adds the founding modern inflation-targeting case to the policy-case series, distinguishing institutional credibility from the broader disinflation already underway and documenting the later move toward flexibility."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Public prose states facts and mechanisms directly, separates observed evidence from inference, includes explicit limitations and contains no internal publication-process narration."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Separates target design, operational independence, accountability, observed disinflation, unemployment and transfer limits rather than attributing the full macro outcome to one law."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Required visual budget and EN/PT-BR visual parity were checked; quantitative visuals use compatible units and structural visuals encode mechanisms defended in prose."
+    }
+  },
+  "contrary_evidence": [
+    "Inflation was already declining before the 1989 Act, so the legal reform is not treated as a clean causal experiment.",
+    "The unemployment increase occurred amid broad structural reforms and recession and is not attributed solely to inflation targeting."
+  ],
+  "limitations": [
+    "Inflation was already declining before the 1989 Act, so the legal reform is not treated as a clean causal experiment.",
+    "The unemployment increase occurred amid broad structural reforms and recession and is not attributed solely to inflation targeting.",
+    "New Zealand's institutional capacity limits direct transfer to economies facing fiscal dominance or weaker policy credibility."
+  ],
+  "notes": "Approved in the 7 October deep editorial refresh after source, bilingual, taxonomy and visual checks.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-10-07-NZ-INFLATION-TARGETING",
+    "slug": "2026-10-07-policy-case-new-zealand-inflation-targeting",
+    "date": "2026-10-07",
+    "published_at": "2026-10-07T09:42:00-03:00",
+    "kind": "policy-case-study",
+    "priority": 18,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-07-policy-case-new-zealand-inflation-targeting/en.md",
+        "title": "New Zealand inflation targeting: credibility through an explicit target, operational independence and later flexibility",
+        "deck": "New Zealand's pioneering inflation-targeting regime combined a public numerical objective, operational central-bank independence and accountability, then became more flexible after credibility was established.",
+        "tags": [
+          "New Zealand",
+          "inflation targeting",
+          "central bank independence",
+          "monetary stabilization",
+          "policy institutions"
+        ],
+        "keywords": [
+          "New Zealand inflation targeting 1990",
+          "Reserve Bank Act 1989",
+          "Policy Targets Agreement",
+          "0 2 inflation target",
+          "central bank independence"
+        ],
+        "regime": "Institutional monetary stabilization through an explicit public inflation target, operational independence and accountability, followed by gradual transition toward flexible inflation targeting.",
+        "key_risk": "Copying the target without fiscal consistency, operational capacity and credible accountability can reproduce the form of inflation targeting without the mechanism that anchored expectations.",
+        "watch": [
+          "Credibility and expectation formation",
+          "Institutional independence and accountability",
+          "Real-economy costs of disinflation",
+          "Evolution from strict to flexible targets"
+        ],
+        "search_text": "New Zealand inflation targeting 1989 1990 Reserve Bank Act Policy Targets Agreement monetary stabilization central bank independence"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-07-policy-case-new-zealand-inflation-targeting/pt-BR.md",
+        "title": "Metas de inflação na Nova Zelândia: credibilidade por meta explícita, independência operacional e flexibilidade posterior",
+        "deck": "O regime pioneiro da Nova Zelândia combinou objetivo numérico público, independência operacional do banco central e prestação de contas, tornando-se mais flexível após a construção de credibilidade.",
+        "tags": [
+          "Nova Zelândia",
+          "metas de inflação",
+          "independência do banco central",
+          "estabilização monetária",
+          "instituições"
+        ],
+        "keywords": [
+          "metas inflação Nova Zelândia 1990",
+          "Reserve Bank Act 1989",
+          "Policy Targets Agreement",
+          "meta 0 2 inflação",
+          "independência banco central"
+        ],
+        "regime": "Estabilização monetária institucional por meta pública explícita, independência operacional e prestação de contas, seguida por transição gradual para metas flexíveis.",
+        "key_risk": "Copiar a meta sem consistência fiscal, capacidade operacional e prestação de contas crível pode reproduzir a forma sem o mecanismo que ancorou expectativas.",
+        "watch": [
+          "Credibilidade e formação de expectativas",
+          "Independência e prestação de contas",
+          "Custos reais da desinflação",
+          "Evolução de metas rígidas para flexíveis"
+        ],
+        "search_text": "Nova Zelândia metas inflação 1989 1990 Reserve Bank Act Policy Targets Agreement estabilização monetária independência banco central"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "series": "policy-experiments-institutional-transitions",
+    "series_domain": "monetary-stabilization",
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "oceania"
+      ],
+      "countries": [
+        {
+          "code": "NZ",
+          "slug": "new-zealand"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "banking-credit",
+      "currencies",
+      "institutions-governance",
+      "demography-labor"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "weekly",
+    "revision": 0,
+    "case_id": "nz-inflation-targeting-1990"
+  }
+}
