@@ -33,7 +33,13 @@
       "conflict-system": "Conflict Systems · Deep Research",
       "policy-case-study": "Policy Experiments · Case Study",
       "economic-paradigm-assessment": "Economic Paradigms · Assessment",
-      "technology-society-essay": "Technology & Society · Essay"
+      "technology-society-essay": "Technology & Society · Essay",
+      "strategic-transition": "Strategic Transitions · Assessment",
+      "monthly-strategic-technology": "Strategic Technology · Assessment",
+      "daily-institutional-monitor": "Monetary Institutions · Daily Monitor",
+      "institutional-decision": "Institutional Decisions · Deep Research",
+      "global-institution-system": "Global Institutions · System Research",
+      "regional-integration-system": "Regional Integration · System Research"
     },
     "home": {
       "eyebrow": "ECONOMICS · POLITICS · SOCIETY",
@@ -298,7 +304,13 @@
       "conflict-system": "Sistemas de Conflito · Pesquisa Profunda",
       "policy-case-study": "Experimentos de Política · Estudo de Caso",
       "economic-paradigm-assessment": "Paradigmas Econômicos · Avaliação",
-      "technology-society-essay": "Tecnologia & Sociedade · Ensaio"
+      "technology-society-essay": "Tecnologia & Sociedade · Ensaio",
+      "strategic-transition": "Transições Estratégicas · Avaliação",
+      "monthly-strategic-technology": "Tecnologia Estratégica · Avaliação",
+      "daily-institutional-monitor": "Instituições Monetárias · Monitor Diário",
+      "institutional-decision": "Decisões Institucionais · Pesquisa Profunda",
+      "global-institution-system": "Instituições Globais · Pesquisa Sistêmica",
+      "regional-integration-system": "Integração Regional · Pesquisa Sistêmica"
     },
     "home": {
       "eyebrow": "ECONOMIA · POLÍTICA · SOCIEDADE",
