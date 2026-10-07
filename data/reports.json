@@ -914,6 +914,172 @@
     }
   },
   {
+    "id": "MT-CC-2026-10-03-ukraine",
+    "slug": "2026-10-03-country-context-ukraine",
+    "date": "2026-10-03",
+    "published_at": "2026-10-03T20:58:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "strategic-transitions",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "eastern-europe-balkans"
+      ],
+      "countries": [
+        {
+          "code": "UA",
+          "slug": "ukraine"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "migration-displacement",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "selection_rationale": "Ukraine is a central actor in the existing Europe–Russia–Ukraine conflict-system report, but the public corpus lacked a reusable country-level dossier on how the Ukrainian state, war economy, reconstruction requirement, external financing, EU accession, defence industry, demographics, energy system and regional economic geography interact. The dossier avoids duplicating the conflict-history report and instead focuses on the internal political economy and reconstruction mechanisms required by current and future research.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-CS-2026-09-20-EUR-RU-UA",
+      "MT-CC-2026-09-23-russia",
+      "MT-CC-2026-10-03-poland",
+      "MT-CC-2026-10-03-germany"
+    ],
+    "contrary_evidence": [
+      "Ukraine's massive physical damage, demographic displacement and dependence on official finance argue against treating wartime institutional continuity as evidence of normal economic conditions.",
+      "Functioning banks, continued exports, domestic defence production, digital administration and progress toward EU accession argue against a state-collapse narrative.",
+      "Large reconstruction needs create investment opportunity but do not guarantee growth because security risk, governance, labour supply, insurance and project execution determine whether capital becomes productive capacity."
+    ],
+    "limitations": [
+      "Population, labour-force and migration denominators are unusually uncertain under occupation, displacement and wartime administrative conditions.",
+      "The 2026 state budget was materially amended during the year; original and amended defence and deficit figures describe different fiscal envelopes.",
+      "RDNA5 damage and reconstruction estimates have a 31 December 2025 cutoff and therefore exclude subsequent destruction.",
+      "Defence-industry capacity and procurement shares are official operational figures rather than independently audited national accounts.",
+      "IMF and NBU forecasts remain highly conditional on security assumptions and external-financing continuity.",
+      "A revisão 1 corrige exclusivamente localização editorial e unidades da edição PT-BR após rejeição de QA; as proposições factuais e o conteúdo analítico permanecem materialmente equivalentes à versão inglesa."
+    ],
+    "revision": 1,
+    "url": "/reports/2026/10/2026-10-03-country-context-ukraine.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-03T23:55:00Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "48666cd8e231b83a49c60e008c59b4a468ee4b2e",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Ukraine: war-state capacity, demographic rupture and the economics of reconstruction",
+        "deck": "Ukraine has preserved macroeconomic and institutional continuity under war, but its long-run trajectory depends on converting external finance, EU accession, reconstruction and defence innovation into productive capacity while reversing demographic loss.",
+        "tags": [
+          "Ukraine",
+          "reconstruction",
+          "war economy",
+          "EU accession",
+          "defence industry",
+          "energy",
+          "demography",
+          "public finance"
+        ],
+        "keywords": [
+          "Ukraine political economy 2026",
+          "Ukraine reconstruction 2026",
+          "Ukraine war economy",
+          "Ukraine EU accession",
+          "Ukraine defence industry",
+          "Ukraine demographics",
+          "Ukraine energy infrastructure"
+        ],
+        "regime": "Externally financed war-state resilience: exceptional defence mobilisation and large official financing preserve state capacity while infrastructure destruction, demographic loss and reconstruction needs reshape the economy toward deeper European integration.",
+        "key_risk": "Prolonged security risk and population loss keep private investment below reconstruction needs while reform slippage or weaker external financing raises fiscal and foreign-exchange pressure.",
+        "watch": [
+          "Security risk and repeated infrastructure damage",
+          "External financing disbursements and grant/loan composition",
+          "EU accession clusters and Ukraine Facility reform milestones",
+          "Refugee return, labour supply and veteran reintegration",
+          "Energy resilience, grid recovery and distributed generation",
+          "Defence-industry conversion into long-term European production and exports",
+          "Private fixed investment and war-risk insurance"
+        ],
+        "search_text": "Ukraine 2026 war economy reconstruction EU accession external financing defence industry drones energy damage refugees demographics public debt agriculture logistics"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Ucrânia: capacidade estatal de guerra, ruptura demográfica e economia da reconstrução",
+        "deck": "A Ucrânia preservou continuidade macroeconômica e institucional durante a guerra, mas sua trajetória depende de converter financiamento externo, adesão à UE, reconstrução e inovação de defesa em capacidade produtiva enquanto enfrenta perda demográfica.",
+        "tags": [
+          "Ucrânia",
+          "reconstrução",
+          "economia de guerra",
+          "adesão à UE",
+          "indústria de defesa",
+          "energia",
+          "demografia",
+          "finanças públicas"
+        ],
+        "keywords": [
+          "economia política Ucrânia 2026",
+          "reconstrução Ucrânia 2026",
+          "economia de guerra Ucrânia",
+          "adesão Ucrânia UE",
+          "indústria defesa Ucrânia",
+          "demografia Ucrânia",
+          "infraestrutura energia Ucrânia"
+        ],
+        "regime": "Resiliência de Estado de guerra financiada externamente: mobilização excepcional de defesa e grande financiamento oficial preservam capacidade estatal enquanto destruição, perda demográfica e reconstrução empurram a economia para integração europeia mais profunda.",
+        "key_risk": "Risco de segurança prolongado e perda populacional mantêm investimento privado abaixo das necessidades enquanto atraso de reformas ou menor financiamento externo aumenta pressão fiscal e cambial.",
+        "watch": [
+          "Risco de segurança e dano repetido à infraestrutura",
+          "Desembolsos externos e composição entre subvenções e empréstimos",
+          "Grupos temáticos de adesão e metas do Mecanismo para a Ucrânia",
+          "Retorno de refugiados, oferta de trabalho e reintegração de veteranos",
+          "Resiliência energética, recuperação da rede e geração distribuída",
+          "Conversão da indústria de defesa em produção e exportação europeias permanentes",
+          "Investimento fixo privado e seguro de risco de guerra"
+        ],
+        "search_text": "Ucrânia 2026 economia guerra reconstrução adesão UE financiamento externo defesa drones energia danos refugiados demografia dívida agricultura logística"
+      }
+    }
+  },
+  {
     "id": "MT-CC-2026-10-03-germany",
     "slug": "2026-10-03-country-context-germany",
     "date": "2026-10-03",
