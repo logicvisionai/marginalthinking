@@ -406,6 +406,53 @@ function createServer(env, requestUrl) {
   );
 
   server.registerTool(
+    'get_research_system_status',
+    {
+      title: 'Get Marginal Thinking research-system status',
+      description: 'Return current editorial freshness, reconciliation state, overdue lines, publication queue and pipeline health derived from the canonical registry and Git publication state.',
+      annotations: TOOL_ANNOTATIONS,
+      inputSchema: z.object({})
+    },
+    async () => {
+      try {
+        return jsonResult(await loadJson(env, requestUrl, '/data/research-system-status.json'));
+      } catch (error) {
+        return errorResult(`Marginal Thinking system-status lookup failed: ${error.message}`);
+      }
+    }
+  );
+
+  server.registerTool(
+    'get_public_dataset',
+    {
+      title: 'Read a Marginal Thinking public dataset',
+      description: 'Read a named machine-readable public dataset used by Marginal Thinking tools and research surfaces.',
+      annotations: TOOL_ANNOTATIONS,
+      inputSchema: z.object({
+        dataset: z.enum(['taxonomy','technology-signals','global-dependencies','strategic-actors','resource-control-atlas','policy-cases','structural-opportunities','research-intelligence','research-system-status'])
+      })
+    },
+    async ({dataset}) => {
+      const paths = {
+        'taxonomy':'/data/taxonomy.json',
+        'technology-signals':'/data/technology-signals.json',
+        'global-dependencies':'/data/global-dependencies.json',
+        'strategic-actors':'/data/strategic-actors.json',
+        'resource-control-atlas':'/data/resource-control-atlas.json',
+        'policy-cases':'/data/policy-cases.json',
+        'structural-opportunities':'/data/structural-opportunities.json',
+        'research-intelligence':'/data/research-intelligence.json',
+        'research-system-status':'/data/research-system-status.json'
+      };
+      try {
+        return jsonResult(await loadJson(env, requestUrl, paths[dataset]));
+      } catch (error) {
+        return errorResult(`Marginal Thinking dataset lookup failed: ${error.message}`);
+      }
+    }
+  );
+
+  server.registerTool(
     'get_conflict_system',
     {
       title: 'Read Marginal Thinking Conflict Systems data',
@@ -452,6 +499,34 @@ function createServer(env, requestUrl) {
     async uri => {
       const catalog = await loadCatalog(env, requestUrl);
       return {contents: [{uri: uri.href, mimeType: 'application/json', text: JSON.stringify(catalog)}]};
+    }
+  );
+
+  server.registerResource(
+    'marginal-thinking-system-status',
+    'marginalthinking://system-status',
+    {
+      title: 'Marginal Thinking research-system status',
+      description: 'Machine-readable editorial freshness, reconciliation and pipeline state.',
+      mimeType: 'application/json'
+    },
+    async uri => {
+      const data = await loadJson(env, requestUrl, '/data/research-system-status.json');
+      return {contents: [{uri: uri.href, mimeType: 'application/json', text: JSON.stringify(data)}]};
+    }
+  );
+
+  server.registerResource(
+    'marginal-thinking-taxonomy',
+    'marginalthinking://taxonomy',
+    {
+      title: 'Marginal Thinking controlled research taxonomy',
+      description: 'Programs, series, topics, regions, formats and phenomena used across the public research corpus.',
+      mimeType: 'application/json'
+    },
+    async uri => {
+      const data = await loadJson(env, requestUrl, '/data/taxonomy.json');
+      return {contents: [{uri: uri.href, mimeType: 'application/json', text: JSON.stringify(data)}]};
     }
   );
 
