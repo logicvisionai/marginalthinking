@@ -1,0 +1,109 @@
+{
+  "id": "MT-EP-2026-10-07-AGENTIC-MARKETS",
+  "slug": "2026-10-07-economic-paradigms-agentic-markets",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T09:48:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 26,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society"
+  ],
+  "series": "economic-paradigms-market-design",
+  "series_domain": "ai-automation-economic-institutions",
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "banking-credit",
+    "technology-innovation",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "revision": 0,
+  "url": "/reports/2026/10/2026-10-07-economic-paradigms-agentic-markets.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-07T09:56:00-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "ac140f08068126cf0997060c0120bd5964b457f6",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "From algorithmic markets to agentic markets: when software begins to act as an economic participant",
+      "deck": "Autonomous AI is shifting financial automation from prediction and execution toward delegated economic action, raising new questions about agency, correlated behavior, authorization and system-wide governance.",
+      "tags": [
+        "economic paradigms",
+        "AI agents",
+        "market design",
+        "financial stability",
+        "payments",
+        "algorithmic markets"
+      ],
+      "keywords": [
+        "agentic markets",
+        "AI agents finance",
+        "LLM portfolio managers",
+        "Project Logos",
+        "agentic payments",
+        "AI financial stability"
+      ],
+      "regime": "Financial automation is moving from human-supervised prediction and execution toward bounded delegated action by AI agents, while live core trading remains limited and supervisors focus increasingly on collective behavior.",
+      "key_risk": "Common models, infrastructure and objectives could create correlated machine-speed behavior before institutions can reliably observe or interrupt it.",
+      "watch": [
+        "Project Logos results",
+        "autonomous trading adoption",
+        "agent-initiated payment volumes",
+        "AI governance standards",
+        "market liquidity under AI-mediated stress",
+        "common-model dependencies"
+      ],
+      "search_text": "agentic markets AI agents finance LLM portfolio managers Project Logos payments financial stability principal agent market design"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "De mercados algorítmicos a mercados agênticos: quando software começa a agir como participante econômico",
+      "deck": "IA autônoma desloca a automação financeira de previsão e execução para ação econômica delegada, criando novas questões de agência, correlação, autorização e governança sistêmica.",
+      "tags": [
+        "paradigmas econômicos",
+        "agentes de IA",
+        "desenho de mercados",
+        "estabilidade financeira",
+        "pagamentos",
+        "mercados algorítmicos"
+      ],
+      "keywords": [
+        "mercados agênticos",
+        "agentes IA finanças",
+        "gestores LLM",
+        "Project Logos",
+        "pagamentos agênticos",
+        "IA estabilidade financeira"
+      ],
+      "regime": "Automação financeira passa de previsão e execução supervisionadas por humanos para ação delegada limitada por agentes de IA, enquanto negociação central autônoma continua restrita e supervisores focam comportamento coletivo.",
+      "key_risk": "Modelos, infraestrutura e objetivos comuns podem criar comportamento correlacionado em velocidade de máquina antes que instituições consigam observá-lo ou interrompê-lo.",
+      "watch": [
+        "resultados do Project Logos",
+        "adoção de negociação autônoma",
+        "volume de pagamentos iniciados por agentes",
+        "padrões de governança de IA",
+        "liquidez sob estresse mediado por IA",
+        "dependências de modelos comuns"
+      ],
+      "search_text": "mercados agênticos agentes IA finanças gestores LLM Project Logos pagamentos estabilidade financeira principal agente desenho mercado"
+    }
+  }
+}
