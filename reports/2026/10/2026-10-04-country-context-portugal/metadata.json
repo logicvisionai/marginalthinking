@@ -1,0 +1,173 @@
+{
+  "id": "MT-CC-2026-10-04-portugal",
+  "slug": "2026-10-04-country-context-portugal",
+  "date": "2026-10-04",
+  "published_at": "2026-10-04T21:58:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "southern-europe"
+    ],
+    "countries": [
+      {
+        "code": "PT",
+        "slug": "portugal"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "capital-markets",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "source_locale": "en",
+  "phenomena": [
+    "demographic-transition",
+    "institutional-change",
+    "social-change",
+    "strategic-competition",
+    "defense-security",
+    "migration-displacement"
+  ],
+  "selection_rationale": "Portugal is an EU, euro-area and NATO member whose fiscal repair, Atlantic geography, renewable-heavy power system, tourism-dependent external balance and migration-supported labour supply create mechanisms not covered by existing France, Germany or European security dossiers. A reusable Portuguese country context is needed to analyse Iberian energy integration, Atlantic logistics and defence, southern-European productivity convergence and the post-RRF investment transition without reconstructing the same structural background.",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-CS-2026-09-20-EUR-RU-UA",
+    "MT-CC-2026-09-27-france",
+    "MT-CC-2026-10-03-germany"
+  ],
+  "contrary_evidence": [
+    "Sharp public-debt reduction, repeated fiscal surpluses, historically low unemployment and stronger bank balance sheets support a resilience thesis, while debt remains high, ageing pressures are rising and productivity convergence remains weak.",
+    "Immigration has reversed population decline and expanded labour supply, while a very high ageing index and slower migration in 2025 show that demographic constraints have been mitigated rather than solved.",
+    "Renewables already supply most electricity consumption and can support industrial investment, while imported fuels, system-integration needs and the Iberian blackout demonstrate that electricity abundance is not equivalent to complete energy autonomy.",
+    "Housing price increases are extreme, but limited mortgage-credit expansion and stronger banks indicate that structural supply restrictions are currently a clearer mechanism than a repeat of the pre-2011 credit cycle."
+  ],
+  "limitations": [
+    "Portugal revised its 2021–2025 population series using a new administrative-data methodology, so demographic comparisons must use consistent vintages.",
+    "Second-quarter 2026 GDP was revised after the flash estimate; observed quarterly data and annual forecasts are kept separate.",
+    "PRR milestone completion and payment requests do not directly measure completed productive capital or long-run productivity effects.",
+    "Housing transaction prices and new-contract rents do not by themselves measure affordability.",
+    "Renewable electricity shares cannot be extrapolated to total final energy consumption.",
+    "The ENTSO-E blackout report describes a multi-factor interconnected-system event and should not be reduced to a single-country or single-technology cause.",
+    "The NATO 2% accounting measure does not directly measure operational readiness or domestic defence-industry output.",
+    "Revision 1 corrects the Q2 2026 year-on-year GDP figure to the current INE value of 2.5% and adds the required evidence-bearing geographic map in both locales; the broader analytical thesis is unchanged."
+  ],
+  "revision": 1,
+  "url": "/reports/2026/10/2026-10-04-country-context-portugal.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-04T23:12:16-03:00",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "3135e0b96c860d6d5494268b2e7aad7369429b9f",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Portugal: fiscal repair, migration-led labour supply and the productivity test after the recovery-fund cycle",
+      "deck": "Portugal has cut public debt sharply, reached historically low unemployment and built a renewable-heavy electricity system, but productivity, housing and ageing will determine whether post-PRR growth produces durable convergence in living standards.",
+      "tags": [
+        "Portugal",
+        "productivity",
+        "public debt",
+        "migration",
+        "housing",
+        "renewable energy",
+        "tourism",
+        "Atlantic security"
+      ],
+      "keywords": [
+        "Portugal economy 2026",
+        "Portugal productivity",
+        "Portugal public debt",
+        "Portugal PRR",
+        "Portugal housing prices",
+        "Portugal immigration",
+        "Portugal renewable electricity",
+        "Portugal tourism",
+        "Portugal NATO defence"
+      ],
+      "regime": "Fiscally repaired, services-heavy euro-area economy with strong labour demand, migration-supported population growth and renewable electricity, approaching a post-recovery-fund transition in which productivity and housing supply become decisive.",
+      "key_risk": "Exceptional EU-funded investment fades while productivity remains weak, housing costs stay elevated and migration slows, leaving ageing and higher defence expenditure to compete for a narrower fiscal and labour base.",
+      "watch": [
+        "Productivity and GDP-per-capita convergence",
+        "Post-PRR public and private investment",
+        "Public debt, primary balance and interest expenditure",
+        "House prices, rents, permits and completions",
+        "Immigration, youth emigration and working-age population",
+        "Tourism receipts and services external surplus",
+        "Renewable generation, storage and Iberian grid resilience",
+        "Defence spending and Atlantic infrastructure"
+      ],
+      "search_text": "Portugal 2026 economy productivity public debt PRR recovery plan migration housing prices tourism renewable electricity Sines Atlantic NATO defence euro"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Portugal: reparação fiscal, oferta de trabalho impulsionada pela imigração e o teste de produtividade após o ciclo dos fundos de recuperação",
+      "deck": "Portugal reduziu fortemente a dívida pública, alcançou desemprego historicamente baixo e construiu um sistema elétrico com forte participação renovável, mas produtividade, habitação e envelhecimento determinarão se o crescimento após o PRR produzirá convergência durável do padrão de vida.",
+      "tags": [
+        "Portugal",
+        "produtividade",
+        "dívida pública",
+        "imigração",
+        "habitação",
+        "energia renovável",
+        "turismo",
+        "segurança atlântica"
+      ],
+      "keywords": [
+        "economia Portugal 2026",
+        "produtividade Portugal",
+        "dívida pública Portugal",
+        "PRR Portugal",
+        "preços habitação Portugal",
+        "imigração Portugal",
+        "eletricidade renovável Portugal",
+        "turismo Portugal",
+        "defesa OTAN Portugal"
+      ],
+      "regime": "Economia da área do euro fiscalmente reparada e intensiva em serviços, com forte demanda por trabalho, crescimento populacional sustentado por migração e eletricidade renovável, entrando em uma transição pós-fundos de recuperação na qual produtividade e oferta habitacional se tornam decisivas.",
+      "key_risk": "O investimento excepcional financiado pela UE diminui enquanto produtividade continua fraca, habitação permanece cara e migração desacelera, deixando envelhecimento e maior gasto de defesa disputar uma base fiscal e de trabalho mais estreita.",
+      "watch": [
+        "Produtividade e convergência do PIB por habitante",
+        "Investimento público e privado após o PRR",
+        "Dívida pública, saldo primário e despesa de juros",
+        "Preços, aluguéis, licenças e conclusão de moradias",
+        "Imigração, emigração jovem e população em idade ativa",
+        "Receitas turísticas e superávit externo de serviços",
+        "Geração renovável, armazenamento e resiliência da rede ibérica",
+        "Gasto de defesa e infraestrutura atlântica"
+      ],
+      "search_text": "Portugal 2026 economia produtividade dívida pública PRR imigração habitação preços turismo eletricidade renovável Sines Atlântico OTAN defesa euro"
+    }
+  }
+}
