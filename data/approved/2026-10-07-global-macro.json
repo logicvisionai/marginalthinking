@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-07",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-07T08:08:00-03:00",
+  "reviewed_commit": "4687f7f9cad89bba9a694bada75f3a8a61b312e8",
+  "pending_blob_sha": "aad42337c00caa2b00ef2b20981581ccc7660761",
+  "source_blob_shas": {
+    "en": "d6de1a8f18fa5f0c53e2b4ea10454ac917f7a4ee",
+    "pt-BR": "06d28af4f218512d5ce996372c7fa6b90a4a99c7"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_intraday_limitations",
+      "summary": "Federal Reserve, U.S. Treasury, ECB, BCB and B3 provide the primary policy, yield-curve, monetary and Brazilian market evidence. Intraday Treasury, oil and European sovereign observations are explicitly time-bounded and supported separately."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "The 7 October delta reverses the prior day's partial offset: oil and long yields are rising together again, while the 10-year Treasury reopening and FOMC minutes create same-day tests of duration demand and the Fed reaction function."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The brief separates official closing data from early-session observations, states the information cutoff, treats the FOMC minutes as backward-looking evidence rather than a forecast and avoids reading Brazil's post-election asset move as a confirmed fiscal regime."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "The brief links energy, inflation uncertainty, Treasury supply, long-duration financing costs, French fiscal risk and Brazil's election repricing through explicit transmission mechanisms and invalidation conditions."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 2 explicit charts + 1 causal flow + 1 regional transmission map per locale",
+      "summary": "Visual floor for a brief is exceeded. Treasury yields are compared in common units across the prior official close and current early-session observations; France and Germany are compared on the same 10-year sovereign-yield scale; the flow and map encode mechanisms defended in prose.",
+      "limitations": "Intraday U.S., European and oil observations can move materially before the close. The France-Germany spread is not treated as a pure fiscal-risk measure."
+    }
+  },
+  "contrary_evidence": [
+    "A strong 10-year auction and lower post-auction yields would weaken the interpretation that duration supply is tightening financial conditions.",
+    "A renewed decline in Brent would restore part of the energy offset visible on 6 October.",
+    "The FOMC minutes describe a meeting held three weeks earlier and may carry less information than current inflation and labour data.",
+    "Brazil's stronger real and still-elevated equity level may persist even if the immediate post-election rally consolidates."
+  ],
+  "limitations": [
+    "Market prices cited for 7 October are early-session observations and can change materially before the close.",
+    "The analysis does not treat the Treasury term premium as directly observed; it infers duration pressure from the curve, supply calendar and market behavior.",
+    "The France-Germany yield gap includes monetary, liquidity and market-structure effects in addition to country-specific fiscal risk.",
+    "The Focus report released on 5 October reflects responses collected before Brazil's first-round election and is used only as a pre-election benchmark."
+  ],
+  "notes": "Approved for same-day publication with an 08:05 BRT information cutoff. EN/PT-BR factual parity, controlled geography/taxonomy and visual parity were checked.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-07",
+    "slug": "2026-10-07-global-macro",
+    "date": "2026-10-07",
+    "published_at": "2026-10-07T08:08:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-07-global-macro/en.md",
+        "title": "Global Macro — oil and long yields rise together as Fed minutes and Treasury supply test financial conditions",
+        "deck": "Oil is back above $101 while U.S. long yields return to multi-decade extremes, putting the 10-year Treasury reopening and FOMC minutes at the center of today's financial-conditions test.",
+        "tags": [
+          "global macro",
+          "United States",
+          "Treasuries",
+          "oil",
+          "FOMC minutes",
+          "France",
+          "Brazil election",
+          "financial conditions"
+        ],
+        "keywords": [
+          "Global Macro October 7 2026",
+          "Treasury 10 year 5.32",
+          "Treasury 30 year 5.70",
+          "Brent above 101 October 2026",
+          "FOMC minutes October 7 2026",
+          "France 10 year yield 4.89",
+          "Brazil markets October 6 2026"
+        ],
+        "regime": "Energy and long-duration rates are tightening together again: oil is above $101 while the U.S. 10-year is near 5.32% and the 30-year near 5.71%, making Treasury demand and the Fed reaction function the immediate tests.",
+        "key_risk": "Persistent co-movement between higher energy prices and higher long yields can tighten both operating margins and financing conditions before central banks change short-term policy rates.",
+        "watch": [
+          "U.S. 10-year Treasury reopening on 7 October",
+          "FOMC minutes at 2:00 p.m. ET",
+          "U.S. consumer credit at 3:00 p.m. ET",
+          "30-year Treasury reopening on 8 October",
+          "Brent and Strait of Hormuz shipping risk",
+          "French-German sovereign spread",
+          "Brazil runoff fiscal commitments",
+          "U.S. CPI on 14 October"
+        ],
+        "search_text": "Global Macro October 7 2026 oil Brent Treasury yields FOMC minutes France fiscal risk Brazil election"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-07-global-macro/pt-BR.md",
+        "title": "Macro Global — petróleo e juros longos sobem juntos enquanto ata do Fed e oferta do Treasury testam as condições financeiras",
+        "deck": "Petróleo volta para acima de US$ 101 enquanto juros longos dos EUA retornam às máximas de décadas, colocando a reabertura do Treasury de 10 anos e a ata do FOMC no centro do teste das condições financeiras de hoje.",
+        "tags": [
+          "macro global",
+          "Estados Unidos",
+          "Treasuries",
+          "petróleo",
+          "ata do FOMC",
+          "França",
+          "eleição Brasil",
+          "condições financeiras"
+        ],
+        "keywords": [
+          "Macro Global 7 outubro 2026",
+          "Treasury 10 anos 5.32",
+          "Treasury 30 anos 5.70",
+          "Brent acima 101 outubro 2026",
+          "ata FOMC 7 outubro 2026",
+          "juro França 10 anos 4.89",
+          "mercados Brasil 6 outubro 2026"
+        ],
+        "regime": "Energia e juros de longa duração voltaram a apertar juntos: petróleo acima de US$ 101, Treasury de 10 anos perto de 5,32% e de 30 anos perto de 5,71%, tornando demanda por títulos e função de reação do Fed os testes imediatos.",
+        "key_risk": "A persistência de petróleo mais caro junto com juros longos mais altos pode apertar margens operacionais e condições de financiamento antes de qualquer nova mudança nas taxas básicas dos bancos centrais.",
+        "watch": [
+          "reabertura do Treasury de 10 anos em 7 de outubro",
+          "ata do FOMC às 14h de Washington",
+          "crédito ao consumidor dos EUA às 15h",
+          "reabertura do Treasury de 30 anos em 8 de outubro",
+          "Brent e risco de navegação no Estreito de Ormuz",
+          "spread soberano França-Alemanha",
+          "compromissos fiscais no segundo turno do Brasil",
+          "CPI dos EUA em 14 de outubro"
+        ],
+        "search_text": "Macro Global 7 outubro 2026 petróleo Brent Treasury juros ata FOMC França risco fiscal eleição Brasil"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "FR",
+          "slug": "france"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0
+  }
+}
