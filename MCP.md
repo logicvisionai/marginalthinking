@@ -60,12 +60,22 @@ Builds a chronological research timeline around a country, market, institution, 
 
 Returns the automatically generated corpus coverage data from `dist/data/research-intelligence.json`.
 
+### `get_research_system_status`
+
+Returns the build-derived research-system status, including editorial freshness, overdue SLA-bound lines, reconciliation state, unpublished queue and pipeline counts.
+
+### `get_public_dataset`
+
+Reads a named canonical public dataset, including taxonomy, technology signals, dependencies, strategic actors, resource control, policy cases, structural opportunities, research intelligence and research-system status.
+
 ## Resource
 
 The server also exposes:
 
 ```text
 marginalthinking://catalog
+marginalthinking://system-status
+marginalthinking://taxonomy
 ```
 
 This resource contains the machine-readable public research catalog used by the tools.
