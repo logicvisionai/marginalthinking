@@ -1,5 +1,106 @@
 [
   {
+    "id": "MT-GM-2026-10-07",
+    "date": "2026-10-07",
+    "published_at": "2026-10-07T08:08:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "FR",
+          "slug": "france"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "source_locale": "en",
+    "title": "Global Macro — oil and long yields rise together as Fed minutes and Treasury supply test financial conditions",
+    "deck": "Oil is back above $101 while U.S. long yields return to multi-decade extremes, putting the 10-year Treasury reopening and FOMC minutes at the center of today's financial-conditions test.",
+    "url": "/reports/2026/10/2026-10-07-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-07-global-macro/en.md",
+    "tags": [
+      "global macro",
+      "United States",
+      "Treasuries",
+      "oil",
+      "FOMC minutes",
+      "France",
+      "Brazil election",
+      "financial conditions"
+    ],
+    "keywords": [
+      "Global Macro October 7 2026",
+      "Treasury 10 year 5.32",
+      "Treasury 30 year 5.70",
+      "Brent above 101 October 2026",
+      "FOMC minutes October 7 2026",
+      "France 10 year yield 4.89",
+      "Brazil markets October 6 2026"
+    ],
+    "regime": "Energy and long-duration rates are tightening together again: oil is above $101 while the U.S. 10-year is near 5.32% and the 30-year near 5.71%, making Treasury demand and the Fed reaction function the immediate tests.",
+    "key_risk": "Persistent co-movement between higher energy prices and higher long yields can tighten both operating margins and financing conditions before central banks change short-term policy rates.",
+    "watch": [
+      "U.S. 10-year Treasury reopening on 7 October",
+      "FOMC minutes at 2:00 p.m. ET",
+      "U.S. consumer credit at 3:00 p.m. ET",
+      "30-year Treasury reopening on 8 October",
+      "Brent and Strait of Hormuz shipping risk",
+      "French-German sovereign spread",
+      "Brazil runoff fiscal commitments",
+      "U.S. CPI on 14 October"
+    ],
+    "search_text": "Global Macro October 7 2026 oil Brent Treasury yields FOMC minutes France fiscal risk Brazil election",
+    "revision": 0,
+    "qa_reviewed_at": "2026-10-07T08:08:00-03:00",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "4687f7f9cad89bba9a694bada75f3a8a61b312e8"
+  },
+  {
     "id": "MT-GM-2026-10-06",
     "date": "2026-10-06",
     "published_at": "2026-10-06T08:45:00-03:00",
