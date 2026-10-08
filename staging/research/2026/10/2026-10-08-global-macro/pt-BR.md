@@ -57,17 +57,20 @@ As condições financeiras não podem ser resumidas ao rendimento do Treasury de
 
 O Brent avançou em direção a US$ 104–105 durante o pregão, com risco renovado para produção e transporte marítimo no Golfo. Mais importante que a cotação de uma hora é a persistência do choque. A variação do contrato de referência não chega da mesma forma a refinarias, importadores, exportadores e consumidores; câmbio, margens de refino, contratos de proteção, subsídios e tributos alteram o repasse.
 
+Preços de petróleo e juros soberanos precisam ser avaliados em suas respectivas unidades. A referência do Brent reportada para o fechamento de 8 de outubro ficou perto de US$ 103,80 por barril; uma única sessão não determina o repasse final à inflação.
+
+O mercado europeu de títulos de dez anos fornece uma comparação separada, com a mesma unidade:
+
 ```chart
 type: bar
-title: Brent — referência de 8 de outubro e patamar observado em 7 de outubro
-unit: US$ por barril
-Brent, referência de 7 out (limiar) | 101.00
-Brent, referência reportada de 8 out | 103.80
+title: Rendimentos soberanos europeus de 10 anos — observações reportadas em 8 de outubro
+unit: %
+França | 4.8965
+Alemanha | 3.4937
 ```
 
-O ponto de US$ 101 é somente o limiar de referência reportado no dia 7, e não um fechamento observado; o valor próximo de US$ 103,80 é referência reportada para o fechamento do dia 8. O gráfico compara patamares indicativos, não uma variação oficial exata entre dois fechamentos.
+O diferencial de aproximadamente 140 pontos-base combina elementos específicos de cada emissor, liquidez e estrutura de mercado; não representa probabilidade diretamente observada de inadimplência fiscal.
 
-Para economias importadoras, a alta do petróleo eleva a conta externa; para produtores, pode aumentar receita ao mesmo tempo que encarece transporte e indústria. O risco monetário está na duração suficiente do choque para afetar outras decisões de preços e salários. A ata do Fed descreve esse repasse de segunda ordem como risco, não como resultado já comprovado.
 
 ## Europa: risco fiscal e energia continuam distintos do movimento americano
 
