@@ -57,17 +57,20 @@ This is a more complete picture of financial conditions than simply equating a h
 
 Brent rose toward $104–105 per barrel during the session, with reports of renewed risks to Gulf shipping and supply. The exact intraday quotation is less important than the persistence of the cost shock. A sharp move in a benchmark oil contract transmits differently to refiners, importers, exporters and end users; local exchange rates, refining margins, hedges, subsidies and taxes determine how quickly it appears in final prices.
 
+The price of oil and the level of government yields must be assessed in their respective units. The reported Brent reference for 8 October was approximately $103.80 a barrel; a single-session move does not quantify its ultimate effect on inflation.
+
+A separate, dimensionally consistent comparison is available in Europe's 10-year sovereign bond markets:
+
 ```chart
 type: bar
-title: Two distinct 8 October price signals — auction yield and oil level
-unit: index (shown as separate raw series in text)
-Treasury 30-year auction yield, percent | 5.618
-Brent, dollars per barrel (reported closing reference) | 103.80
+title: European 10-year sovereign yields — 8 October reported observations
+unit: %
+France | 4.8965
+Germany | 3.4937
 ```
 
-These quantities have different units and cannot be interpreted as comparable bar heights. The chart is a reference locator only: the 30-year yield is 5.618%, while the reported Brent close is around $103.80 per barrel. A joint analytical conclusion requires the transmission mechanism, not a correlation inferred from their magnitudes.
+The roughly 140-basis-point gap combines sovereign-specific considerations with liquidity and market structure; it is not a directly observed fiscal-default probability.
 
-For energy-importing economies, oil raises the foreign-currency import bill. For producers, it can improve revenues while raising domestic transport and industrial costs. In both cases, the relevant policy issue is whether the energy increase persists long enough to influence broader pricing and wage expectations. The Fed minutes explicitly treated those second-round effects as a risk, not a certainty.
 
 ## Europe faces a second source of sovereign differentiation
 
