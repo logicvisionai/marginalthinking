@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-09-28  
+**Last reviewed:** 2026-10-08  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -60,6 +60,13 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 
 ## What changed since last review
 
+### 2026-10-08
+
+- **Changed:** the 8 October Treasury auction and September FOMC minutes sharpen the distinction between *ability to place debt* and *affordable long-duration finance*. A well-subscribed sovereign auction at elevated yields demonstrates market absorption at that price, not an end to the duration constraint. AI-related private borrowing adds a competing claimant on long-term savings alongside public issuance.
+- **Reinforced:** infrastructure investment is jointly constrained by financing duration and physical execution. Successful bond issuance by well-capitalized issuers may coexist with tighter credit for smaller firms, households and less immediately profitable projects; the October 5 technology assessment independently identifies electricity, grid connections, compute and distribution as bottlenecks.
+- **Watch:** whether repeated public and private duration issuance changes term premia, corporate-credit spreads, project completion and the breadth of productive investment. Distinguish auction stop-out yields from constant-maturity market rates and financing commitments from deployed capacity.
+
+
 ### 2026-09-27
 
 - **Changed:** the September 27 Global Macro adds a reusable segmentation mechanism inside monetary unions: a common policy-rate and duration shock can produce materially different effective financing conditions when country-specific fiscal credibility and political capacity are repriced through sovereign spreads and bank funding.
@@ -112,6 +119,10 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 
 ## Related Marginal Thinking research
 
+- `MT-GM-2026-10-08` — sovereign auction absorption versus persistent long-duration capital competition from public debt and AI infrastructure; source is the canonical 8 October report.
+- `MT-TS-2026-10-05-ai-abundance-infrastructure-concentration` — AI infrastructure scarcity, grid capacity and rent concentration; see also `ai-software-labor-rent-shift.md`.
+
+
 - `MT-WPMAP-2025` — structural map of financial ownership and productive capacity.
 - `MT-WP-2026-09-15` — current capital, FDI, SWF and cross-border-credit structure.
 - `MT-WF-2026-09-15` — recurring wealth-flow framework.
@@ -126,5 +137,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - `MT-WF-2026-09-28` — vehicle substitution across mutual funds, ETFs and cash-like balances; use to distinguish wrapper-level flow from aggregate allocation and to separate portfolio demand from domestic credit creation.
 
 ## Sources and verification notes
+
+For the 8 October mechanism, re-open the Federal Reserve September 2026 FOMC minutes and Treasury auction/constant-maturity releases before reusing quantities or policy views. Do not treat a single auction, one day's yield move or a committee discussion as a persistent structural outcome.
+
 
 Re-open SIFMA or primary market-statistics sources for global securities; IMF PIP/CPIS/COFER where relevant; BIS for bank claims and credit; UNCTAD for FDI/greenfield; U.S. Treasury TIC for U.S. securities flows; official SWF and IMF material for sovereign capital. For short-horizon fund flows, re-open the underlying provider or first-line reporting and verify whether regional and asset-class categories overlap before aggregation. Keep preliminary and consolidated investment estimates separate. For BlackRock, re-open current filings, stewardship/Voting Choice documentation and product mandates before treating delegated authority as current. For PIF, re-open official fund disclosures and Saudi fiscal/project data before using current AUM, portfolio composition, funding or project-status claims.
