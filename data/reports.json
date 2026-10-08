@@ -1,5 +1,106 @@
 [
   {
+    "id": "MT-GM-2026-10-08",
+    "date": "2026-10-08",
+    "published_at": "2026-10-08T17:50:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "FR",
+          "slug": "france"
+        },
+        {
+          "code": "DE",
+          "slug": "germany"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "source_locale": "en",
+    "title": "Global Macro — strong Treasury demand interrupts the yield spike, while oil and AI borrowing keep the inflation constraint alive",
+    "deck": "The U.S. 30-year auction cleared at 5.618% with 2.54-times cover; benchmark yields fell from Wednesday's close even as Brent stayed above $100 and the Fed exposed a new competition for long-term capital.",
+    "url": "/reports/2026/10/2026-10-08-global-macro.html",
+    "markdown_url": "/reports/2026/10/2026-10-08-global-macro/en.md",
+    "tags": [
+      "global macro",
+      "Treasuries",
+      "FOMC minutes",
+      "AI investment",
+      "oil",
+      "Brazil",
+      "France",
+      "duration"
+    ],
+    "keywords": [
+      "Global Macro October 8 2026",
+      "Treasury 30 year auction 5.618 2.54",
+      "US Treasury yields October 8",
+      "FOMC September minutes AI debt",
+      "Brent October 8 2026"
+    ],
+    "regime": "Strong 30-year auction demand brought 10-year and 30-year Treasury closing yields below 7 October even as oil and private AI-related capital demand sustained inflation and financing pressure.",
+    "key_risk": "Elevated energy costs and competition for long-term funds can overwhelm the relief from one well-received sovereign auction.",
+    "watch": [
+      "Secondary Treasury-market follow-through",
+      "Brent, refined fuels and Strait of Hormuz",
+      "Next U.S. CPI release",
+      "October FOMC decision",
+      "French-German sovereign spread",
+      "Brazil runoff fiscal commitments"
+    ],
+    "search_text": "Global Macro 8 October 2026 Treasury 30-year strong auction FOMC AI financing oil Europe Brazil",
+    "revision": 0,
+    "qa_reviewed_at": "2026-10-08T17:50:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "7a6689f2af65772e5ec87fee0b58d423f98f300f"
+  },
+  {
     "id": "MT-GM-2026-10-07",
     "date": "2026-10-07",
     "published_at": "2026-10-07T08:08:00-03:00",
