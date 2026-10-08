@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-08",
+  "slug": "2026-10-08-global-macro",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T17:50:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-08-global-macro/en.md",
+      "title": "Global Macro — strong Treasury demand interrupts the yield spike, while oil and AI borrowing keep the inflation constraint alive",
+      "deck": "The U.S. 30-year auction cleared at 5.618% with 2.54-times cover; benchmark yields fell from Wednesday's close even as Brent stayed above $100 and the Fed exposed a new competition for long-term capital.",
+      "tags": [
+        "global macro",
+        "Treasuries",
+        "FOMC minutes",
+        "AI investment",
+        "oil",
+        "Brazil",
+        "France",
+        "duration"
+      ],
+      "keywords": [
+        "Global Macro October 8 2026",
+        "Treasury 30 year auction 5.618 2.54",
+        "US Treasury yields October 8",
+        "FOMC September minutes AI debt",
+        "Brent October 8 2026"
+      ],
+      "regime": "Strong 30-year auction demand brought 10-year and 30-year Treasury closing yields below 7 October even as oil and private AI-related capital demand sustained inflation and financing pressure.",
+      "key_risk": "Elevated energy costs and competition for long-term funds can overwhelm the relief from one well-received sovereign auction.",
+      "watch": [
+        "Secondary Treasury-market follow-through",
+        "Brent, refined fuels and Strait of Hormuz",
+        "Next U.S. CPI release",
+        "October FOMC decision",
+        "French-German sovereign spread",
+        "Brazil runoff fiscal commitments"
+      ],
+      "search_text": "Global Macro 8 October 2026 Treasury 30-year strong auction FOMC AI financing oil Europe Brazil"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-08-global-macro/pt-BR.md",
+      "title": "Macro Global — demanda por Treasuries interrompe alta dos juros, mas petróleo e financiamento de IA mantêm a restrição inflacionária",
+      "deck": "Leilão americano de 30 anos saiu a 5,618%, com demanda 2,54 vezes a oferta; juros de referência recuaram frente a quarta-feira, embora o Brent siga acima de US$ 100 e a ata do Fed revele competição adicional por capital de longo prazo.",
+      "tags": [
+        "macro global",
+        "Treasuries",
+        "ata do FOMC",
+        "investimento em IA",
+        "petróleo",
+        "Brasil",
+        "França",
+        "duração"
+      ],
+      "keywords": [
+        "Macro Global 8 outubro 2026",
+        "leilão Treasury 30 anos 5.618 2.54",
+        "juros Estados Unidos 8 outubro",
+        "ata Fed setembro dívida IA",
+        "Brent 8 outubro 2026"
+      ],
+      "regime": "Demanda forte no leilão de 30 anos levou os juros dos Treasuries de 10 e 30 anos a fechar abaixo de 7 de outubro, mas petróleo e demanda de capital para IA mantêm pressão inflacionária e financeira.",
+      "key_risk": "Energia cara e concorrência por financiamento de longo prazo podem superar o alívio temporário de um leilão soberano bem recebido.",
+      "watch": [
+        "Persistência da queda de juros no secundário",
+        "Brent, derivados e Estreito de Ormuz",
+        "Próximo CPI americano",
+        "Decisão do FOMC de outubro",
+        "Spread soberano França-Alemanha",
+        "Propostas fiscais do segundo turno no Brasil"
+      ],
+      "search_text": "Macro Global 8 outubro 2026 leilão Treasury 30 anos ata FOMC IA financiamento petróleo Europa Brasil"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "latin-america-caribbean",
+      "western-europe",
+      "gulf"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "US",
+        "slug": "united-states"
+      },
+      {
+        "code": "FR",
+        "slug": "france"
+      },
+      {
+        "code": "DE",
+        "slug": "germany"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "currencies",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "political-stability",
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0
+}
