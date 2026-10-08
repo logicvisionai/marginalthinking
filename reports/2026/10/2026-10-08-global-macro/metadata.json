@@ -83,9 +83,9 @@
   },
   "url": "/reports/2026/10/2026-10-08-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-08T17:50:00-03:00",
+  "qa_reviewed_at": "2026-10-08T18:06:00-03:00",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "7a6689f2af65772e5ec87fee0b58d423f98f300f",
+  "qa_reviewed_commit": "0cf43d4d83f9b6353de01ba6b2a20163b68c0891",
   "locales": {
     "en": {
       "markdown": "en.md",
@@ -122,7 +122,7 @@
     },
     "pt-BR": {
       "markdown": "pt-BR.md",
-      "title": "Macro Global — demanda por Treasuries interrompe alta dos juros, mas petróleo e financiamento de IA mantêm a restrição inflacionária",
+      "title": "Macro Global — demanda por títulos americanos reduz os juros longos, mas petróleo e financiamento de IA mantêm a pressão inflacionária",
       "deck": "Leilão americano de 30 anos saiu a 5,618%, com demanda 2,54 vezes a oferta; juros de referência recuaram frente a quarta-feira, embora o Brent siga acima de US$ 100 e a ata do Fed revele competição adicional por capital de longo prazo.",
       "tags": [
         "macro global",

@@ -1,4 +1,4 @@
-# Macro Global — demanda por Treasuries interrompe alta dos juros, mas petróleo e financiamento de IA mantêm a restrição inflacionária
+# Macro Global — demanda por títulos americanos reduz os juros longos, mas petróleo e financiamento de IA mantêm a pressão inflacionária
 
 A mudança decisiva de 8 de outubro não foi uma nova alta dos juros longos, mas a capacidade do mercado de absorver dívida americana de prazo muito longo a uma taxa elevada, apesar de persistirem o choque do petróleo e a discussão sobre inflação. A reabertura de US$ 22 bilhões em Treasuries de 30 anos teve rendimento de 5,618% e relação entre demanda e oferta de 2,54. Depois do leilão, os juros longos recuaram em relação às máximas intradiárias. Na curva par diária oficial do Tesouro dos EUA, o rendimento de 10 anos fechou em 5,22% e o de 30 anos em 5,60%, ante 5,28% e 5,67% em 7 de outubro.
 
