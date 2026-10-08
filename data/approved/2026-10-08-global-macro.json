@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-08",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-08T17:50:00-03:00",
-  "reviewed_commit": "7a6689f2af65772e5ec87fee0b58d423f98f300f",
-  "pending_blob_sha": "3393f9cb70abc5a74fec6b54ad158bb12bead2d1",
+  "reviewed_at": "2026-10-08T18:06:00-03:00",
+  "reviewed_commit": "0cf43d4d83f9b6353de01ba6b2a20163b68c0891",
+  "pending_blob_sha": "638230b0d519b572f35ef09b527d998c448c294f",
   "source_blob_shas": {
     "en": "447b48d1c874143d4d67b3ffe07f46aa8cfa030e",
-    "pt-BR": "4fe9b1dc6b0f341bbd44a169986110bc229c1d35"
+    "pt-BR": "016e1b86c692716c8bbc62a2f2ba5d2b02ee6038"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -48,7 +48,7 @@
     "The FOMC minutes record participants' September assessments, not an 8 October decision.",
     "Market reactions to Brazil's election are not a causal estimate of eventual fiscal policy."
   ],
-  "notes": "Reviewed bilingual daily macro 8 October 2026: primary-source facts and same-day market references checked; controlled taxonomy, title, source parity and visual floor inspected; medium confidence because some cross-market observations are non-official session reports.",
+  "notes": "Headline integrity corrected; EN/PT-BR factual and visual parity retained and exact source/pending blobs re-reviewed against the canonical Portuguese headline.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -95,7 +95,7 @@
       },
       "pt-BR": {
         "markdown": "staging/research/2026/10/2026-10-08-global-macro/pt-BR.md",
-        "title": "Macro Global — demanda por Treasuries interrompe alta dos juros, mas petróleo e financiamento de IA mantêm a restrição inflacionária",
+        "title": "Macro Global — demanda por títulos americanos reduz os juros longos, mas petróleo e financiamento de IA mantêm a pressão inflacionária",
         "deck": "Leilão americano de 30 anos saiu a 5,618%, com demanda 2,54 vezes a oferta; juros de referência recuaram frente a quarta-feira, embora o Brent siga acima de US$ 100 e a ata do Fed revele competição adicional por capital de longo prazo.",
         "tags": [
           "macro global",
