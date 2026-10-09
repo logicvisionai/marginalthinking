@@ -2,13 +2,13 @@
 
 O Reino Unido de 2026 combina formas de força estrutural frequentemente analisadas separadamente: centro financeiro global, grande base exportadora de serviços, universidades e instituições científicas fortes, capacidades avançadas em aeroespacial e defesa, grande setor de ciências da vida, moeda e banco central próprios, recursos energéticos offshore e um Estado que se endivida na própria moeda. Ao mesmo tempo, carrega restrições que interagem com essas vantagens: produtividade fraca desde a crise financeira global, dívida pública e juros elevados, déficit persistente de bens, gargalos de habitação e infraestrutura, desigualdade regional, peso manufatureiro menor que o de vários pares continentais e um regime comercial pós-Brexit que alterou o custo da integração econômica com a União Europeia.
 
-A economia entrou no segundo semestre de 2026 com crescimento superior ao que o cenário fiscal de março projetava. O Office for National Statistics revisou o crescimento real do PIB para 0,6% frente ao trimestre anterior no primeiro trimestre e 0,5% no segundo. Produtividade, porém, é a variável estrutural mais importante: o produto por hora no segundo trimestre de 2026 estava apenas 2,3% acima da média de 2019 e 0,2% abaixo de um ano antes segundo a medida atual baseada na Labour Force Survey. O país consegue gerar crescimento; a questão é se consegue elevar produto por trabalhador de forma sustentada rápido o suficiente para sustentar envelhecimento, compromissos maiores de defesa e dívida pública próxima do tamanho do PIB anual.
+A economia entrou no segundo semestre de 2026 com crescimento superior ao que o cenário fiscal de março projetava. O Office for National Statistics revisou o crescimento real do PIB para 0,6% frente ao trimestre anterior no primeiro trimestre e 0,5% no segundo. Produtividade, porém, é a variável estrutural mais importante: o produto por hora no segundo trimestre de 2026 estava apenas 2,3% acima da média de 2019 e 0,2% abaixo de um ano antes segundo a medida atual baseada na Pesquisa de Força de Trabalho (Labour Force Survey). O país consegue gerar crescimento; a questão é se consegue elevar produto por trabalhador de forma sustentada rápido o suficiente para sustentar envelhecimento, compromissos maiores de defesa e dívida pública próxima do tamanho do PIB anual.
 
 O modelo pós-Brexit não é uma escolha simples entre "Europa" e "mundo". A geografia torna a Europa o grande mercado mais próximo, enquanto vantagens em finanças, serviços profissionais, ensino superior, tecnologia, defesa e cultura são globais. A estratégia viável é reduzir fricções comerciais e de investimento desnecessárias com a Europa e usar autonomia regulatória, política industrial e redes globais onde produzam ganhos mensuráveis.
 
 ## O sistema constitucional concentra soberania no Parlamento, mas distribui poder prático entre instituições e nações
 
-O Reino Unido não possui um único documento constitucional codificado. Soberania parlamentar, leis, common law, convenções, monarquia, Judiciário independente, governos devolvidos e serviço civil profissional formam o sistema constitucional operacional. O primeiro-ministro lidera o Governo de Sua Majestade e normalmente é a principal figura política na Câmara dos Comuns. Andy Burnham tornou-se primeiro-ministro em 20 de julho de 2026.
+O Reino Unido não possui um único documento constitucional codificado. Soberania parlamentar, leis, direito consuetudinário e jurisprudencial (common law), convenções, monarquia, Judiciário independente, governos devolvidos e serviço civil profissional formam o sistema constitucional operacional. O primeiro-ministro lidera o Governo de Sua Majestade e normalmente é a principal figura política na Câmara dos Comuns. Andy Burnham tornou-se primeiro-ministro em 20 de julho de 2026.
 
 A execução econômica é mais distribuída que a expressão "Estado unitário" sugere. Escócia, País de Gales e Irlanda do Norte possuem instituições devolvidas com poderes distintos sobre saúde, educação, transporte, planejamento, tributação e outras áreas. Autoridades locais e combinadas inglesas também importam para habitação, transporte e investimento regional. O Banco da Inglaterra define política monetária de forma independente dentro do marco legal, e o Office for Budget Responsibility produz previsões fiscais independentes.
 
@@ -24,7 +24,7 @@ Banco da Inglaterra
 OBR + reguladores + tribunais
   -> escrutínio fiscal, regras setoriais e restrições jurídicas
 Empresas + famílias + mercados de capitais
-  -> investimento, emprego, consumo e feedback financeiro
+  -> investimento, emprego, consumo e efeitos sobre o financiamento
 ```
 
 A vantagem é adaptabilidade institucional: políticas importantes podem mudar sem processo de emenda constitucional tão rígido quanto em muitos países. O risco é volatilidade. Quando governos alteram com frequência regras tributárias, de planejamento, energia ou política industrial, flexibilidade formal pode reduzir a confiança do setor privado em investimentos de longo prazo.
@@ -52,14 +52,10 @@ O ONS estima que o PIB real cresceu 0,6% no primeiro trimestre de 2026 e 0,5% no
 
 ```chart
 type: bar
-title: Reino Unido: indicadores selecionados de crescimento em 2026
-unit: percent
-PIB real Q1, t/t | 0.6
-PIB real Q2, t/t | 0.5
-Renda disponível real per capita Q1, t/t | -0.8
-Renda disponível real per capita Q2, t/t | 1.0
-Produto por hora Q2 2026 vs média 2019 | 2.3
-Produto por hora Q2 2026, a/a | -0.2
+title: Reino Unido: crescimento real do PIB no primeiro semestre de 2026
+unit: percentual, trimestre contra trimestre
+PIB real, 1º trimestre de 2026 | 0.6
+PIB real, 2º trimestre de 2026 | 0.5
 ```
 
 A produtividade é o principal alerta. O produto por hora supera modestamente o nível pré-pandemia após mais de seis anos. Isso é consistente com o histórico pós-2008, em que o crescimento de produtividade desacelerou fortemente diante das décadas anteriores à crise financeira global.
@@ -88,25 +84,23 @@ A linha de base estrutural é reconexão seletiva, não restauração do regime 
 
 A City de Londres continua entre os principais centros financeiros globais. Bancos, seguros, gestão de ativos, câmbio, serviços jurídicos e infraestrutura de mercado geram exportações, impostos e salários elevados. O ecossistema dá às empresas britânicas acesso a financiamento sofisticado.
 
-Um centro financeiro profundo, porém, não garante investimento doméstico alto. O Reino Unido convive há anos com o paradoxo de mercados globais fortes e formação de capital empresarial e infraestrutura fracas. Alocação de fundos de pensão, apetite por risco, demora de planejamento, financiamento de scale-ups e incerteza regulatória influenciam se a poupança chega a ativos produtivos.
+Um centro financeiro profundo, porém, não garante investimento doméstico alto. O Reino Unido convive há anos com o paradoxo de mercados globais fortes e formação de capital empresarial e infraestrutura fracas. Alocação de fundos de pensão, apetite por risco, demora de planejamento, financiamento de empresas em expansão e incerteza regulatória influenciam se a poupança chega a ativos produtivos.
 
 O desafio é de intermediação, não falta de sofisticação financeira. Estratégia bem-sucedida aumentaria financiamento de longo prazo para habitação, redes, transporte, manufatura avançada, empresas tecnológicas e energia limpa sem enfraquecer prudência. O indicador não é o volume negociado em Londres, e sim quanto capital produtivo é formado no país.
 
 ## O espaço fiscal é limitado pela dívida elevada e pelo custo incomum de juros
 
-A previsão do OBR de março de 2026 descreveu ponto de partida fiscal difícil. A dívida líquida do setor público foi projetada em aproximadamente 94,5% do PIB em 2025-26 e ao redor de meados de 90% até o fim da década. O endividamento permanece elevado antes de recuar gradualmente. O serviço de juros foi projetado perto de £110 bilhões em 2025-26 e crescendo nominalmente depois.
+A previsão do OBR de março de 2026 descreveu ponto de partida fiscal difícil. A dívida líquida do setor público foi projetada em aproximadamente 94,5% do PIB em 2025-26 e ao redor de meados de 90% até o fim da década. A necessidade anual de financiamento foi projetada em 4,3% do PIB em 2025-26 e 1,6% em 2030-31. Esses fluxos anuais não são diretamente comparáveis ao estoque de dívida mostrado no gráfico. O serviço de juros foi projetado perto de £110 bilhões em 2025-26 e crescendo nominalmente depois.
 
 ```chart
 type: bar
-title: Restrição fiscal britânica no cenário OBR de março de 2026
-unit: percent of GDP
-Dívida líquida do setor público 2025-26 | 94.5
-Pico projetado da dívida 2028-29 | 96.5
-Necessidade de financiamento 2025-26 | 4.3
-Necessidade projetada 2030-31 | 1.6
+title: Dívida líquida do setor público britânico — projeção do OBR de março de 2026
+unit: % do PIB
+2025-26 | 94.5
+Pico projetado, 2028-29 | 96.5
 ```
 
-A estrutura da dívida torna inflação e juros especialmente importantes. O Reino Unido possui estoque relevante de gilts indexados à inflação, e refinanciamento ocorre a taxas de mercado muito maiores que na década posterior à crise global. O OBR observa que juros da dívida aproximadamente dobraram como proporção do PIB em relação à década anterior à pandemia.
+A estrutura da dívida torna inflação e juros especialmente importantes. O Reino Unido possui estoque relevante de títulos públicos britânicos (gilts) indexados à inflação, e refinanciamento ocorre a taxas de mercado muito maiores que na década posterior à crise global. O OBR observa que juros da dívida aproximadamente dobraram como proporção do PIB em relação à década anterior à pandemia.
 
 Isso não implica crise soberana iminente. O país se endivida em libra, possui sistema financeiro profundo e banco central independente. Significa que cada compromisso permanente adicional tem custo de oportunidade maior. Defesa, saúde, pensões, subsídios industriais e infraestrutura competem dentro de envelope mais apertado por juros.
 
@@ -114,7 +108,7 @@ O cenário de março também antecede a mudança de primeiro-ministro em julho d
 
 ## A libra e um banco central independente fornecem flexibilidade, mas choques de energia mostram o custo
 
-O Banco da Inglaterra manteve a Bank Rate em 3,75% em setembro de 2026. O Comitê de Política Monetária registrou inflação CPI de 3,1% em agosto e expectativa de nova alta após aumento global dos preços de energia. Três dos nove membros votaram por elevar juros.
+O Banco da Inglaterra manteve a taxa básica de juros (Bank Rate) em 3,75% em setembro de 2026. O Comitê de Política Monetária registrou inflação medida pelo índice de preços ao consumidor (CPI) de 3,1% em agosto e expectativa de nova alta após aumento global dos preços de energia. Três dos nove membros votaram por elevar juros.
 
 Independência monetária dá ao país instrumento inexistente para membros do euro. O Banco pode definir juros conforme inflação e mercado de trabalho britânicos, enquanto a libra se ajusta a choques. Essa flexibilidade é valiosa quando o ciclo britânico difere do continental.
 
@@ -145,9 +139,9 @@ A migração líquida de longo prazo caiu para 171 mil no ano terminado em dezem
 ```chart
 type: bar
 title: Migração líquida de longo prazo no Reino Unido
-unit: thousand people
-Ano terminado dez 2024 | 331
-Ano terminado dez 2025 | 171
+unit: mil pessoas
+Ano terminado em dezembro de 2024 | 331
+Ano terminado em dezembro de 2025 | 171
 ```
 
 Isso importa porque o OBR já espera menor crescimento da oferta de trabalho à medida que migração diminui e população envelhece. Menor migração pode aliviar habitação e serviços em alguns locais, mas também apertar saúde, cuidados, hotelaria, construção, universidades e indústrias de alta qualificação. O efeito depende de composição, participação, produtividade e infraestrutura, não apenas do número agregado.
@@ -158,12 +152,11 @@ A Grã-Bretanha obteve 73,3% da geração elétrica de tecnologias de baixo carb
 
 ```chart
 type: bar
-title: Indicadores de eletricidade limpa da Grã-Bretanha
-unit: percent
-Baixo carbono na geração, 2023 | 68.3
-Baixo carbono na geração, 2024 | 73.7
-Baixo carbono na geração, 2025 | 73.3
-Fontes limpas na demanda, 2025 | 64.4
+title: Grã-Bretanha: participação de fontes de baixo carbono na geração elétrica
+unit: percentual da geração
+2023 | 68.3
+2024 | 73.7
+2025 | 73.3
 ```
 
 O país tem recursos excepcionais de eólica offshore, engenharia marítima madura, experiência nuclear, interconectores e longa história em petróleo e gás. A estratégia procura combinar eólica offshore, nuclear, armazenamento, redes, captura de carbono e outras tecnologias, usando Great British Energy e capital privado.
@@ -241,7 +234,7 @@ Eólica offshore, redes, nuclear, compras de defesa e manufatura avançada criam
 
 ### Cenário 4: choques de inflação e juros comprimem espaço de política
 
-Choques de energia, produtividade baixa e yields elevados mantêm inflação e serviço da dívida altos. Regras fiscais forçam repetidos ajustes de impostos ou gastos, reduzindo previsibilidade. Investimento privado permanece cauteloso e serviços públicos absorvem parcela crescente do orçamento.
+Choques de energia, produtividade baixa e juros dos títulos públicos elevados mantêm inflação e serviço da dívida altos. Regras fiscais forçam repetidos ajustes de impostos ou gastos, reduzindo previsibilidade. Investimento privado permanece cauteloso e serviços públicos absorvem parcela crescente do orçamento.
 
 ## O que fortaleceria a avaliação estrutural
 
@@ -254,14 +247,14 @@ Choques de energia, produtividade baixa e yields elevados mantêm inflação e s
 - capital privado mobilizado pela política industrial sem dependência permanente de subsídio;
 - eletricidade limpa acompanhada de menor custo industrial entregue;
 - compras de defesa gerando capacidade utilizável no prazo;
-- mais scale-ups permanecendo e investindo no país;
+- mais empresas em expansão permanecendo e investindo no país;
 - crescimento regional de produtividade fora de Londres e sudeste;
 - trajetória crível de redução de déficit e estabilização de juros da dívida.
 
 ## O que enfraqueceria a avaliação
 
 - produtividade próxima ao nível de 2019 por vários anos adicionais;
-- yields e juros da dívida forçando ajuste fiscal repetido;
+- juros dos títulos públicos e juros da dívida forçando ajuste fiscal repetido;
 - investimento empresarial fraco apesar de apoio industrial;
 - novas fricções comerciais com a UE sem ganhos compensatórios;
 - escassez persistente de habitação nas cidades produtivas;
@@ -277,8 +270,8 @@ Choques de energia, produtividade baixa e yields elevados mantêm inflação e s
 - Produto por hora e por trabalhador.
 - Investimento empresarial e formação bruta de capital.
 - Renda disponível real per capita.
-- Bank Rate, CPI e salários.
-- Yields de gilts, juros da dívida e dívida líquida pública.
+- Taxa básica de juros, inflação ao consumidor e salários.
+- Juros dos títulos públicos britânicos, juros da dívida e dívida líquida pública.
 - Déficit corrente e necessidade de financiamento.
 - Déficit de bens e superávit de serviços.
 - Comércio UE e não-UE por setor.
@@ -287,14 +280,14 @@ Choques de energia, produtividade baixa e yields elevados mantêm inflação e s
 - Filas de conexão à rede e transmissão.
 - Geração de baixo carbono, eólica offshore, marcos nucleares e uso de gás.
 - Migração líquida, emprego, inatividade e participação.
-- P&D, venture capital e financiamento de scale-ups.
+- P&D, venture capital e financiamento de empresas em expansão.
 - Produção e exportação de manufatura avançada.
 - Entrega de compras de defesa e conteúdo doméstico.
 - Produtividade e investimento por nação e região.
 
 ## Limitações de evidência
 
-Dados da Labour Force Survey do ONS passaram por problemas de qualidade e revisão metodológica; medidas de trabalho e produtividade devem seguir as ressalvas publicadas. A estimativa populacional mais recente refere-se a meados de 2025, apesar de o dossiê ser de outubro de 2026. As estimativas migratórias para o ano terminado em dezembro de 2025 são provisórias.
+Dados da pesquisa de força de trabalho do ONS passaram por problemas de qualidade e revisão metodológica; medidas de trabalho e produtividade devem seguir as ressalvas publicadas. A estimativa populacional mais recente refere-se a meados de 2025, apesar de o dossiê ser de outubro de 2026. As estimativas migratórias para o ano terminado em dezembro de 2025 são provisórias.
 
 A previsão fiscal do OBR de março de 2026 antecede a mudança de primeiro-ministro em julho. É usada como linha fiscal herdada, não como descrição de toda a política do governo atual. Orçamentos futuros podem alterar materialmente a trajetória.
 

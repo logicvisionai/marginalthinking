@@ -52,14 +52,10 @@ The ONS estimated that real GDP rose 0.6% in the first quarter of 2026 and 0.5% 
 
 ```chart
 type: bar
-title: United Kingdom: selected 2026 growth indicators
-unit: percent
-Real GDP Q1, q/q | 0.6
-Real GDP Q2, q/q | 0.5
-Real household disposable income per head Q1, q/q | -0.8
-Real household disposable income per head Q2, q/q | 1.0
-Output per hour Q2 2026 vs 2019 average | 2.3
-Output per hour Q2 2026, y/y | -0.2
+title: United Kingdom: real GDP growth in the first half of 2026
+unit: percent, quarter on quarter
+Real GDP Q1 2026 | 0.6
+Real GDP Q2 2026 | 0.5
 ```
 
 The productivity figures are the central warning. Output per hour only modestly exceeds the pre-pandemic level after more than six years. That is consistent with the broader post-2008 record in which productivity growth slowed sharply relative to the decades before the global financial crisis.
@@ -94,16 +90,14 @@ The challenge is therefore intermediation rather than a shortage of financial so
 
 ## Fiscal space is constrained by both a high debt stock and unusually expensive debt service
 
-The Office for Budget Responsibility's March 2026 forecast described a difficult fiscal starting point. Public sector net debt was projected at roughly 94.5% of GDP in 2025-26 and around the mid-90s through the end of the decade. Borrowing was projected to remain elevated before gradually declining. Debt interest spending was forecast at roughly £110 billion in 2025-26 and to rise in nominal terms thereafter.
+The Office for Budget Responsibility's March 2026 forecast described a difficult fiscal starting point. Public sector net debt was projected at roughly 94.5% of GDP in 2025-26 and around the mid-90s through the end of the decade. Borrowing was projected to remain elevated before gradually declining: 4.3% of GDP in 2025-26 and 1.6% in 2030-31. These annual borrowing flows are not comparable to the debt-stock percentages in the chart. Debt interest spending was forecast at roughly £110 billion in 2025-26 and to rise in nominal terms thereafter.
 
 ```chart
 type: bar
-title: UK fiscal constraint in the March 2026 OBR baseline
+title: UK public-sector net debt — March 2026 OBR projection
 unit: percent of GDP
-Public sector net debt 2025-26 | 94.5
-Public sector net debt peak 2028-29 | 96.5
-Public sector net borrowing 2025-26 | 4.3
-Projected borrowing 2030-31 | 1.6
+2025-26 | 94.5
+Projected peak, 2028-29 | 96.5
 ```
 
 The debt structure makes inflation and interest rates especially important. The UK has a meaningful stock of inflation-linked gilts, and refinancing occurs at market rates that are much higher than during the decade after the global financial crisis. The OBR noted that debt interest has roughly doubled as a share of GDP relative to the decade before the pandemic.
@@ -158,12 +152,11 @@ Great Britain obtained 73.3% of electricity generation from low-carbon technolog
 
 ```chart
 type: bar
-title: Great Britain clean-power indicators
-unit: percent
-Low-carbon share of generation, 2023 | 68.3
-Low-carbon share of generation, 2024 | 73.7
-Low-carbon share of generation, 2025 | 73.3
-Clean share of demand, 2025 | 64.4
+title: Great Britain low-carbon share of electricity generation
+unit: percent of generation
+2023 | 68.3
+2024 | 73.7
+2025 | 73.3
 ```
 
 The UK has exceptional offshore-wind resources, mature offshore engineering, nuclear experience, interconnectors and a long history in oil and gas. The government's strategy aims to combine offshore wind, nuclear, storage, grids, carbon capture and other technologies while using Great British Energy and private capital to expand investment.

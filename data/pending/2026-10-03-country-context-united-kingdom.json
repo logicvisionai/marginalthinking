@@ -71,7 +71,7 @@
       "key_risk": "Produtividade fraca e juros elevados comprimem espaço fiscal antes que investimentos em habitação, redes, defesa e indústria elevem capacidade produtiva.",
       "watch": [
         "Produto por hora e investimento empresarial",
-        "Yields de gilts, juros da dívida e déficit",
+        "Juros dos títulos públicos britânicos, serviço da dívida e déficit",
         "Fricções Reino Unido-UE e exportação de serviços",
         "Habitação, planejamento e conexões à rede",
         "Investimento em energia limpa e custo industrial entregue",
@@ -150,5 +150,14 @@
     "The March 2026 OBR fiscal forecast predates the July 2026 change of prime minister and is used as an inherited baseline rather than a full current-policy forecast.",
     "Great Britain clean-power metrics exclude Northern Ireland and are not identical to whole-UK energy statistics.",
     "Government industrial, energy and defence targets are policy commitments, not evidence of completed investment or capacity."
-  ]
+  ],
+  "qa_fixes_applied": [
+    "Localized Portuguese chart units, technical terminology and monitoring metadata; preserved underlying quantitative observations.",
+    "Separated unlike quantitative denominators in both language editions: GDP quarterly growth, public debt stock and low-carbon generation share now use internally comparable chart series; annual borrowing flows and electricity-demand share remain in qualified prose.",
+    "Preserved English/Portuguese quantitative parity and all country-context identity, taxonomy and research relations."
+  ],
+  "producer_checks": {
+    "editorial_localization_rework": "2026-10-09: PT-BR terminology and visual units revised",
+    "visual_evidence_rework": "2026-10-09: quantitative definitions separated and bilingual chart parity checked"
+  }
 }
