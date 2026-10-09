@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-09",
+  "slug": "2026-10-09-global-macro",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T07:32:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-09-global-macro/en.md",
+      "title": "Global Macro — energy forecasts rise as Brazil approaches a new inflation test",
+      "deck": "EIA raised Brent forecasts for 2026 and 2027; long Treasury yields eased after the 8 October auction, but Brazil's Friday IPCA and future energy pass-through remain unresolved.",
+      "tags": [
+        "global macro",
+        "EIA outlook",
+        "Brent",
+        "Treasury yields",
+        "ECB",
+        "Brazil",
+        "IPCA",
+        "energy inflation"
+      ],
+      "keywords": [
+        "global macro 9 October 2026",
+        "EIA Brent forecast October 2026",
+        "Treasury yield curve 8 October 2026",
+        "Brazil IPCA September 2026 release",
+        "ECB energy inflation"
+      ],
+      "regime": "Persistent energy risk and high global financing costs coexist with a one-session decline in U.S. long bond yields; Brazil's September inflation reading is pending.",
+      "key_risk": "Oil and refined-fuel costs spread into persistent broad inflation while financial conditions remain expensive.",
+      "watch": [
+        "IBGE September IPCA breakdown on 9 October",
+        "U.S. Treasury 2-, 10- and 30-year curve follow-through",
+        "Refined fuels and Gulf shipping",
+        "U.S. CPI release on 14 October",
+        "ECB energy-risk transmission"
+      ],
+      "search_text": "Global Macro 9 October 2026 EIA forecast oil Treasury yield EBC September projection Brazil IPCA anticipated"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-09-global-macro/pt-BR.md",
+      "title": "Macro Global — previsões de energia sobem enquanto o Brasil se aproxima de novo teste inflacionário",
+      "deck": "EIA elevou as projeções do Brent para 2026 e 2027; juros longos americanos recuaram após o leilão de 8 de outubro, mas o IPCA brasileiro e a transmissão dos custos energéticos continuam em aberto.",
+      "tags": [
+        "macro global",
+        "projeções EIA",
+        "Brent",
+        "juros Treasury",
+        "BCE",
+        "Brasil",
+        "IPCA",
+        "inflação energética"
+      ],
+      "keywords": [
+        "Macro Global 9 outubro 2026",
+        "EIA previsões Brent outubro 2026",
+        "curva Treasury 8 outubro",
+        "IPCA setembro 2026 divulgação",
+        "BCE inflação energia"
+      ],
+      "regime": "Risco energético persistente e financiamento global caro coexistem com recuo de um pregão nos juros longos americanos; o IPCA de setembro ainda não foi divulgado neste corte.",
+      "key_risk": "Petróleo e combustíveis mais caros disseminam inflação persistente em ambiente de juros elevados.",
+      "watch": [
+        "Abertura do IPCA de setembro em 9 de outubro",
+        "Curva americana de 2, 10 e 30 anos após o leilão",
+        "Derivados e transporte marítimo no Golfo",
+        "CPI americano previsto para 14 de outubro",
+        "Transmissão do risco energético no BCE"
+      ],
+      "search_text": "Macro Global 9 outubro 2026 previsão EIA petróleo Treasury BCE inflação Brasil IPCA antes da divulgação"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe",
+      "middle-east"
+    ],
+    "subregions": [
+      "north-america",
+      "latin-america-caribbean",
+      "western-europe",
+      "gulf"
+    ],
+    "countries": [
+      {
+        "code": "US",
+        "slug": "united-states"
+      },
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "DE",
+        "slug": "germany"
+      },
+      {
+        "code": "FR",
+        "slug": "france"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "energy",
+    "commodities-resources",
+    "currencies",
+    "geopolitics-security",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "political-stability"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0
+}
