@@ -124,14 +124,13 @@ Israel's civilian growth model is strongly shaped by research-intensive exports,
 
 The Israel Innovation Authority reports that high-tech output reached NIS 352 billion in 2025, up 8.2% from 2024. The sector employed about 400,000 people, 11.4% of total employment, and generated approximately US$85 billion in exports, equal to 58% of total Israeli exports. Nearly US$15 billion was raised by technology companies during 2025 and around 775 new startups were established.
 
-```chart
-type: bar
-title: Israel: concentration of the 2025 high-tech economy
-unit: percent
-Share of total employment | 11.4
-Share of total exports | 58
-High-tech output growth | 8.2
-```
+| High-tech indicator (2025) | Observation | Denominator or measurement basis |
+| --- | ---: | --- |
+| Share of total employment | 11.4% | High-tech workers as a share of all employed persons |
+| Share of total exports | 58% | High-tech exports as a share of all Israeli exports |
+| Real growth of high-tech output | 8.2% | Year-on-year change in sector output, 2024–2025 |
+
+These percentages describe **different denominators and concepts** and are not directly comparable as magnitudes. Their combination indicates export concentration, a narrower employment footprint and sector growth; it is not a single distribution or common-scale series.
 
 This concentration is both a strength and a vulnerability. A relatively small share of workers produces a large share of exports, tax receipts and productivity growth. Weakness in technology investment or relocation of R&D therefore has macroeconomic effects disproportionate to employment share.
 

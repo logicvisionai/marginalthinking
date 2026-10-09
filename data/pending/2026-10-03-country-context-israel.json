@@ -163,5 +163,13 @@
     "The ICJ source is an advisory opinion with separate and dissenting opinions; its legal conclusions are attributed precisely and not treated as a negotiated political settlement.",
     "Current macroeconomic forecasts are highly conditional on security assumptions and differ between the IMF and Bank of Israel.",
     "The 27 October 2026 election had not occurred by the evidence cutoff, so no electoral outcome is inferred."
-  ]
+  ],
+  "qa_fixes_applied": [
+    "Replaced the shared-axis high-tech bar chart with a sourced, denominator-qualified table in EN and PT-BR; retained all three underlying 2025 observations.",
+    "Explicitly separated sector employment share, export share and year-on-year output growth; no quantitative or causal claim was changed.",
+    "Rechecked remaining population and defence-export charts for like-unit series and preserved EN/PT-BR visual meaning and country-context identity."
+  ],
+  "producer_checks": {
+    "visual_evidence_rework": "2026-10-09: removed incompatible high-tech percentage chart; bilingual denominator-qualified table and remaining chart compatibility checked"
+  }
 }

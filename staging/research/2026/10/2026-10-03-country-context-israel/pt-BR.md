@@ -124,14 +124,13 @@ O modelo civil de crescimento de Israel é fortemente moldado por exportações 
 
 A Autoridade de Inovação de Israel informa que o produto da alta tecnologia chegou a NIS 352 bilhões em 2025, crescimento de 8,2% frente a 2024. O setor empregava cerca de 400 mil pessoas, 11,4% do emprego total, e gerava aproximadamente US$ 85 bilhões em exportações, equivalentes a 58% das exportações israelenses. Empresas tecnológicas captaram quase US$ 15 bilhões durante 2025 e aproximadamente 775 novas empresas foram criadas.
 
-```chart
-type: bar
-title: Israel: concentração da economia de alta tecnologia em 2025
-unit: percentual
-Participação no emprego total | 11.4
-Participação nas exportações | 58
-Crescimento do produto de alta tecnologia | 8.2
-```
+| Indicador de alta tecnologia (2025) | Observação | Denominador ou base de mensuração |
+| --- | ---: | --- |
+| Participação no emprego total | 11,4% | Trabalhadores de alta tecnologia em relação ao total de pessoas ocupadas |
+| Participação nas exportações totais | 58% | Exportações de alta tecnologia em relação a todas as exportações israelenses |
+| Crescimento real do produto de alta tecnologia | 8,2% | Variação anual do produto setorial entre 2024 e 2025 |
+
+Esses percentuais expressam **denominadores e conceitos distintos** e não são diretamente comparáveis em magnitude. Em conjunto, indicam concentração exportadora, participação mais restrita no emprego e crescimento setorial; não formam uma distribuição única nem uma série em escala comum.
 
 Essa concentração é força e vulnerabilidade. Parcela relativamente pequena dos trabalhadores produz grande parcela das exportações, receitas tributárias e crescimento de produtividade. Fraqueza do investimento tecnológico ou deslocamento de P&D possui, portanto, efeitos macroeconômicos desproporcionais ao peso no emprego.
 
