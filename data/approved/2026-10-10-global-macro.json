@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-10",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-10T00:37:51.563-03:00",
+  "reviewed_commit": "c8fb63c0b8c01c2f3d4ae360d845a4b22df6fdfb",
+  "pending_blob_sha": "0e4e12965912615df42d37044886c81889987035",
+  "source_blob_shas": {
+    "en": "bd7560a87a12630679b99b66f9ebd17279177f95",
+    "pt-BR": "106144cea6053b94d49b299c04319936305e0454"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_cutoff_limits",
+      "summary": "9 October Treasury curve from official U.S. Treasury; IPCA from 9 October IBGE reporting relayed by public broadcaster/B3; B3 9 October official exchange close; AP Brent and S&P closes; BLS 14/15 October release calendar. Saturday has no asserted market session."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "Moves from 9 October morning's pending IPCA and Thursday auction relief to observed September inflation composition, Friday Treasury reversal and Friday equity close."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Contiguous economic argument, conditional scenarios, explicit market/inflation/forecast separation, no investment recommendations, seven linked source resources per locale."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "summary": "Distinguishes temporary utility rebate level effect from inflation persistence, separates IPCA group contributions from subcategory electricity, notes debt cost transmission and importer/exporter distribution."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 evidence table + 2 same-unit bar charts + 1 causal flow + 1 regional map in both EN/PT-BR",
+      "summary": "Group IPCA contributions in percentage points, Treasury tenors in percent, matched values, region and flow captions conditional.",
+      "limitations": "IPCA group contributions must not be added to the electricity subcategory; AP market settlements separate from official statistics."
+    }
+  },
+  "contrary_evidence": [
+    "Electricity rebate expiry mechanically explains a large fraction of September's month-on-month headline but may not repeat.",
+    "Improved shipping or fuel deliveries can reduce secondary cost pressures without reversing prior price-level changes.",
+    "An equity rally may reflect earnings expectations unrelated to household real income."
+  ],
+  "limitations": [
+    "Only published 9 October closes and releases; no 10 October market trading prices.",
+    "IPCA breakdown relies on 9 October IBGE reporting reproduced by Agência Brasil and B3.",
+    "U.S. CPI due 14 October and PPI 15 October are not represented as already published.",
+    "Brent settlement reported by AP is not the EIA forecast and is not a retail fuel price."
+  ],
+  "notes": "Manual consistency review of link parity, visual-unit integrity, time cutoffs and numeric labels; CI validation and public rendering follow publication.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-10",
+    "slug": "2026-10-10-global-macro",
+    "date": "2026-10-10",
+    "published_at": "2026-10-10T00:36:40.486-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-10-global-macro/en.md",
+        "title": "Global Macro — Brazil's inflation surprise meets a rebound in U.S. bond yields",
+        "deck": "Brazil's September IPCA reached 0.82% as the Itaipu rebate reversed; equities rose even while U.S. Treasury yields and oil kept financing and living costs elevated.",
+        "tags": [
+          "global macro",
+          "Brazil",
+          "IPCA",
+          "Treasury yields",
+          "Brent",
+          "interest rates",
+          "inflation"
+        ],
+        "keywords": [
+          "global macro 10 October 2026",
+          "Brazil September 2026 IPCA 0.82",
+          "Treasury 9 October 2026",
+          "Ibovespa 209066.90"
+        ],
+        "regime": "Equity-index gains coexist with above-target Brazilian 12-month inflation, elevated U.S. long yields and uncertain energy costs.",
+        "key_risk": "Temporary electricity-bill effects turn into broader persistent inflation as expensive financing amplifies the pressure.",
+        "watch": [
+          "BLS U.S. CPI 14 October",
+          "BLS U.S. PPI 15 October",
+          "IPCA diffusion and electricity reversal",
+          "Treasury 2-, 10- and 30-year yields",
+          "Brent and refined fuels"
+        ],
+        "search_text": "Global Macro 10 October 2026 IPCA Brazil Treasury Brent equities financing energy persistence"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-10-global-macro/pt-BR.md",
+        "title": "Macro Global — surpresa do IPCA brasileiro encontra nova alta dos juros americanos",
+        "deck": "O IPCA de setembro avançou 0,82% após o fim do desconto de Itaipu; bolsas subiram apesar dos juros americanos elevados e dos riscos de energia e financiamento.",
+        "tags": [
+          "macro global",
+          "Brasil",
+          "IPCA",
+          "Treasuries",
+          "Brent",
+          "juros",
+          "inflação"
+        ],
+        "keywords": [
+          "macro global 10 outubro 2026",
+          "IPCA setembro 2026 0,82",
+          "Treasury 9 outubro 2026",
+          "Ibovespa 209066,90"
+        ],
+        "regime": "Altas dos índices acionários coexistem com inflação brasileira em 12 meses acima do teto da banda, juros longos americanos elevados e custos energéticos incertos.",
+        "key_risk": "Choque temporário de energia se dissemina para inflação persistente, agravada pelo financiamento caro.",
+        "watch": [
+          "CPI americano em 14 de outubro",
+          "PPI americano em 15 de outubro",
+          "Difusão do IPCA e reversão de eletricidade",
+          "Treasuries de 2, 10 e 30 anos",
+          "Brent e derivados"
+        ],
+        "search_text": "Macro Global 10 outubro 2026 IPCA Brasil Treasury Brent ações financiamento energia persistência"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe",
+        "gulf"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "DE",
+          "slug": "germany"
+        },
+        {
+          "code": "FR",
+          "slug": "france"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "energy",
+      "commodities-resources",
+      "currencies",
+      "geopolitics-security",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0
+  }
+}
