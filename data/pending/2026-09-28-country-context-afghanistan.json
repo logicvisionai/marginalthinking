@@ -4,7 +4,7 @@
   "id": "MT-CC-2026-09-28-afghanistan",
   "slug": "2026-09-28-country-context-afghanistan",
   "date": "2026-09-28",
-  "published_at": "2026-09-28T18:00:00-03:00",
+  "published_at": "2026-10-10T11:24:01-03:00",
   "kind": "country-context",
   "priority": 18,
   "source_locale": "en",
@@ -147,5 +147,13 @@
     "Fiscal, security and financial data are less transparent than in a normal statistical system.",
     "Competing state claims on armed groups are attributed rather than treated as independently verified facts.",
     "Planned infrastructure and announced mining projects are not treated as operating capacity."
-  ]
+  ],
+  "qa_rework": {
+    "reworked_at": "2026-10-10T11:24:01-03:00",
+    "based_on_rejection_reviewed_at": "2026-10-10T11:24:26.486Z",
+    "changes": [
+      "Corrected publication timestamp to 10 October 2026, after the explicitly stated 29 September 2026 information cutoff; canonical ID, date, slug, source texts, citations and taxonomy unchanged.",
+      "Preserved World Bank December 2025 and May 2026 vintage distinction previously checked by QA; request independent recheck of cutoff-sensitive claims before approval."
+    ]
+  }
 }
