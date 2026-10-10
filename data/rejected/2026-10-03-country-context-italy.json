@@ -1,0 +1,58 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-03-italy",
+  "slug": "2026-10-03-country-context-italy",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-10T10:17:32.455Z",
+  "reviewed_commit": "e59ac0fccaf07ef29a5853ea915de81750d1d8ee",
+  "pending_blob_sha": "17254df383eb1800394156733552f1187bb7f61d",
+  "source_blob_shas": {
+    "en": "f096855f2f557425bf891f3d3e870c087a0d35fd",
+    "pt-BR": "b22a401027e7db2dc29db4f66031127b39e2b7e7"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "taxonomy_issues": [],
+  "blocking_issues": [
+    {
+      "check": "factual_revision_currency",
+      "location": "en.md:5 / pt-BR.md:5, opening macroeconomic baseline",
+      "issue": "Both language editions state that real GDP grew 0.5% in 2025, but Istat's 22 September 2026 annual national-accounts revision raised the 2025 chained-volume growth estimate to 0.6%. The article dated 3 October 2026 presents the superseded March 2026 estimate as the observed current figure without a vintage qualification.",
+      "evidence": "Istat, Annual National Accounts – Years 2010–2025, published 22 September 2026: 2025 chained-volume GDP +0.6%; Istat 2 March 2026 earlier release: +0.5%."
+    },
+    {
+      "check": "country_context_trigger",
+      "location": "pending.related_research_ids and related canonical reports",
+      "issue": "None of the three referenced public reports materially identifies Italy in its substantive EN report body. The Europe–Russia–Ukraine security assessment and the France and Germany dossiers contain no Italy/Italian reference in their body text. Generic EU/NATO membership is insufficient to prove that this auxiliary dossier fills a gap necessary to understand an identified published research mechanism.",
+      "evidence": "Checked full EN bodies: reports/2026/09/2026-09-20-europe-russia-ukraine-security-system/en.md; reports/2026/09/2026-09-27-country-context-france/en.md; reports/2026/10/2026-10-03-country-context-germany/en.md. No Italy/Italian mention."
+    }
+  ],
+  "required_fixes": [
+    "Reconcile the 2025 GDP real-growth series with the 22 September 2026 Istat revision (+0.6%) throughout EN/PT-BR, metadata and any visuals or downstream claims; explicitly date older vintages if retained.",
+    "Find at least one already-published canonical research ID whose defended causal mechanism materially involves Italy, and demonstrate the linkage in the dossier text; do not replace the relation with another incidental country mention. If no such public trigger exists, withdraw the auxiliary dossier from the ready-to-publish pipeline until a qualifying parent research exists.",
+    "Revalidate all material time-sensitive claims against source vintages at the 3 October cutoff, and return the same ID and slug with changed staged source/pending blob SHAs for renewed independent QA."
+  ],
+  "evidence": [
+    {
+      "source": "Istat annual accounts 22 September 2026",
+      "url": "https://www.istat.it/en/press-release/annual-national-accounts-year-2025/",
+      "finding": "2025 real GDP +0.6% after revision"
+    },
+    {
+      "source": "Istat March 2026 earlier estimate",
+      "url": "https://www.istat.it/en/press-release/gdp-and-general-government-net-borrowing-years-2023-2025/",
+      "finding": "2025 real GDP +0.5% before September revision"
+    },
+    {
+      "source": "Canonical public parent/related reports",
+      "paths": [
+        "reports/2026/09/2026-09-20-europe-russia-ukraine-security-system/en.md",
+        "reports/2026/09/2026-09-27-country-context-france/en.md",
+        "reports/2026/10/2026-10-03-country-context-germany/en.md"
+      ],
+      "finding": "No material Italy mechanism in referenced research"
+    }
+  ],
+  "notes": "New unpublished country-context candidate; no approval written. Factual and parent-trigger blockers prevent publication. No retrabalho handoff attempted before verification of the rejection."
+}
