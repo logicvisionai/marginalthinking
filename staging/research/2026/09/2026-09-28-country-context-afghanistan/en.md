@@ -38,7 +38,7 @@ The Soviet intervention, anti-Soviet war, fall of the Najibullah government, civ
 
 ## A smaller fiscal state
 
-The republic's collapse removed much of the security payroll, development finance, technical assistance and normal financial connectivity. The replacement order operates with a smaller resource envelope. The World Bank projected domestic tax revenue at 17.1% of GDP in 2025 and described stronger enforcement and compliance. This is evidence of administrative capacity, not service quality or political inclusion.
+The republic's collapse removed much of the security payroll, development finance, technical assistance and normal financial connectivity. The replacement order operates with a smaller resource envelope. The World Bank's December 2025 projection placed domestic tax revenue at 17.1% of GDP in 2025. Its May 2026 update subsequently reported domestic revenue collection at 19.8% of GDP in 2025, supported by stronger enforcement. These are different estimate vintages and not evidence of a measured two-point increase within the same year. Better revenue mobilization demonstrates administrative reach, not equivalent service quality, broad political inclusion or replacement of the former grant-financed development budget. The later update still identifies declining grants as a constraint on infrastructure investment and shock response.
 
 ```flow
 Territorial and border control → observable tax/customs base → domestic revenue → core administration
@@ -47,19 +47,27 @@ Territorial and border control → observable tax/customs base → domestic reve
 
 ## Aggregate recovery is not household recovery
 
-The World Bank projected real GDP growth of 4.3% in 2025 after 2.5% in 2024, but population growth of 8.6%, driven heavily by mass returns, implied a 4% fall in GDP per capita. Average inflation was projected around 2%.
+The December 2025 World Bank update projected 2025 real GDP growth of 4.3%, population growth of 8.6% and a 4.0% fall in GDP per capita. Those projections were superseded as the latest anchor by the May 2026 Afghanistan Development Update: it estimated 2025 GDP growth at 4.8%, population growth at roughly 11% and a 5.6% decline in GDP per capita. The change in vintage strengthens, rather than reverses, the central finding: aggregate output can rise while average real output per resident falls. The May update also reported average inflation of 3.6% and a rise to 7.6% by March 2026; neither figure should be conflated with the older December projection of approximately 2% average inflation.
 
 ```chart
 type: bar
-title: Aggregate recovery versus per-capita pressure, World Bank 2025 projection
-unit: percent
-Real GDP growth | 4.3
-Population growth | 8.6
-GDP per capita change | -4.0
-Average inflation | 2.0
+title: World Bank revisions to estimated 2025 real GDP growth
+unit: percent annual change
+December 2025 projection | 4.3
+May 2026 estimate | 4.8
 ```
 
-The World Bank estimated 4-4.7 million people returned from Iran and Pakistan between September 2023 and July 2025. Returnees add demand and skills but also pressure jobs, housing, water, schools and health. Without corresponding capital formation, labor supply can grow faster than productive employment.
+```chart
+type: bar
+title: World Bank revisions to estimated 2025 real GDP per capita change
+unit: percent annual change
+December 2025 projection | -4.0
+May 2026 estimate | -5.6
+```
+
+Each chart compares the same indicator across publication vintages, not different measures on a common scale. The May 2026 estimate is the latest cited vintage before the 29 September cutoff. Population, GDP and income remain estimates in the absence of a recent comprehensive census.
+
+The December 2025 World Bank update described an estimated 4-4.7 million returns from Iran and Pakistan over September 2023-July 2025, while its May 2026 update used a different returnee estimate of about 3.7 million. Reference windows and definitions must be checked before these figures are compared or added. Returnees add demand and skills but also pressure jobs, housing, water, schools and health. Without corresponding capital formation, labor supply can grow faster than productive employment. The May update estimated a current-account deficit of 36.1% of GDP in 2025, linking import demand, weak export performance and declining external inflows; this is an external-financing constraint, not a measure of household consumption alone.
 
 ## Productive structure and trade
 
@@ -135,7 +143,9 @@ Territorial consolidation and revenue gains contradict a simple failed-state des
 ## Sources
 
 - World Bank, Afghanistan country updates, 2025-2026: https://www.worldbank.org/en/country/afghanistan
-- World Bank, December 2025 economic update: https://www.worldbank.org/en/news/press-release/2025/12/10/afghan-economy-expands-amid-persistent-challenges
+- World Bank, December 2025 economic update (older projection vintage): https://www.worldbank.org/en/news/press-release/2025/12/10/afghan-economy-expands-amid-persistent-challenges
+- World Bank, May 2026 Afghanistan Development Update (latest cited estimate vintage): https://www.worldbank.org/en/news/press-release/2026/05/26/afghanistan-s-economy-shows-resilience-but-living-standards-are-falling
+- World Bank, April 2026 Macro Poverty Outlook (GDP-per-capita estimate): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099111508192634644
 - UNAMA monitoring: https://unama.unmissions.org/
 - UNAMA, 8 March 2026 access-to-justice findings: https://unama.unmissions.org/en/news/women-afghanistan-nearly-four-times-less-likely-men-have-access-formal-justice
 - UNODC, opium and drug monitoring: https://www.unodc.org/
