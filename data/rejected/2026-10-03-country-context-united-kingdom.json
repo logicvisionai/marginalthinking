@@ -2,47 +2,65 @@
   "schema_version": 2,
   "id": "MT-CC-2026-10-03-united-kingdom",
   "revision": 0,
-  "qa_status": "rejected",
-  "reviewed_at": "2026-10-03T23:36:04-03:00",
-  "reviewed_commit": "0a609ef82b845b645c5f6162d15c73d11445fb55",
-  "pending_blob_sha": "77ae2a0a6169ff240f01ab84e3154b70220568e3",
-  "source_blob_shas": {
-    "en": "642218258bf34a33a2e40683c2eae43416b6349c",
-    "pt-BR": "c4a048fc838d42db2ae8e6fb3ff958fa955fcf38"
-  },
   "program": "political-economy-markets",
+  "reviewed_at": "2026-10-10T11:24:26.486Z",
+  "reviewed_commit": "13f107d1a0a93abd4d8b5fbd02ae36abd49d60c5",
+  "pending_blob_sha": "6dd55a454ca4d58bd748de121459e56c42cf6180",
+  "source_blob_shas": {
+    "en": "09800424a2669fffe10140f26e3f11b303c0f980",
+    "pt-BR": "118fcce087e05c2d043b7e33b23b3cd8633c8844"
+  },
+  "qa_status": "rejected",
   "confidence": "high",
   "blocking_issues": [
     {
-      "type": "editorial_localization",
-      "location": "pt-BR.md, quantitative visual blocks and body prose",
-      "issue": "The Brazilian Portuguese edition is not publication-ready as originally written PT-BR. Reader-facing visual metadata remains in English, including 'unit: percent' and 'unit: percent of GDP'. The prose also retains avoidable raw English or hybrid terminology such as 'common law', 'Labour Force Survey', 'feedback financeiro', 'scale-ups', 'Bank Rate' and 'CPI' without consistent natural-language localization or first-use explanation. The pending PT-BR watch metadata also uses the hybrid phrase 'Yields de gilts'. This violates the blocking localization and first-read rules in EDITORIAL-STYLE.md and the publication-readiness gate.",
+      "check": "country_context_trigger",
+      "location": "pending.selection_rationale and en.md section 'The UK's European and global roles reinforce one another more than they substitute for one another'",
+      "issue": "The dossier says the existing Europe–Russia–Ukraine assessment treats the UK as a central actor. In fact, that parent report mentions the UK only as one of four Budapest Memorandum signatories and once in a broad list of Western countries with differing positions. It does not analyse a UK-specific economic, productive or defence transmission mechanism sufficient to justify this broad auxiliary dossier. The other named Germany and France dossiers have no United Kingdom/UK/British reference in their EN bodies.",
       "evidence": [
-        "PT-BR growth chart uses 'unit: percent'.",
-        "PT-BR fiscal chart uses 'unit: percent of GDP'.",
-        "Pending PT-BR watch contains 'Yields de gilts, juros da dívida e déficit'."
+        "en.md paragraph under 'The UK's European and global roles...' asserts central-actor treatment.",
+        "reports/2026/09/2026-09-20-europe-russia-ukraine-security-system/en.md: UK occurs twice, as signatory/list member; no UK-specific mechanism.",
+        "reports/2026/10/2026-10-03-country-context-germany/en.md and reports/2026/09/2026-09-27-country-context-france/en.md: no UK/British reference."
       ]
     },
     {
-      "type": "visual_evidence_parity",
-      "location": "pt-BR.md chart metadata",
-      "issue": "The visual layer is structurally present, but its labels/units are not fully localized in PT-BR. Because visual evidence must be semantically equivalent and reader-ready in each locale, the current visual signature fails the visual publication gate despite meeting the apparent count floor."
+      "check": "editorial_localization",
+      "location": "pt-BR.md section 'Ciência é grande ativo, mas comercialização e scale-up continuam sendo gargalo' and related body paragraphs",
+      "issue": "The corrected Portuguese edition still exposes the raw English business-stage label 'scale-up' repeatedly in heading and prose, although a natural equivalent is available. The earlier rejection's chart units and watch metadata were fixed, but the language gate remains incomplete.",
+      "evidence": [
+        "H2: 'comercialização e scale-up continuam sendo gargalo'",
+        "Body: 'Um ecossistema de scale-up mais forte...'",
+        "Body: 'financiamento de scale-up elevam investimento...'"
+      ]
     }
   ],
   "required_fixes": [
-    "Localize all reader-facing chart units and labels in PT-BR, including 'percent' and 'percent of GDP', while preserving identical underlying values and definitions.",
-    "Replace avoidable hybrid English in PT-BR prose and pending metadata with natural Brazilian Portuguese; where an English institutional or technical term is materially useful, explain it naturally on first occurrence.",
-    "Re-run EN/PT-BR semantic parity after localization and confirm that no number, date, causal qualification, scenario, conclusion or visual meaning changed.",
-    "Return a new pending/source state with new Git blob SHAs for full QA. Factual checks not completed in this rejection must be re-run on the corrected blobs."
+    "Demonstrate a substantive, already-published UK-specific causal mechanism in at least one related canonical research ID; an incidental signatory or generic ally mention is insufficient. If no qualifying parent exists, withdraw the dossier from ready status rather than inventing a link.",
+    "Rewrite the PT-BR heading and two paragraphs to use natural expressions such as 'expansão de empresas inovadoras' or 'empresas em fase de crescimento', preserving the original analytical distinction from early-stage startups.",
+    "Revalidate EN/PT-BR semantics and quantitative visuals on changed source SHAs, and rerun complete factual QA before resubmission."
   ],
-  "taxonomy_issues": [],
-  "evidence": {
-    "factual_spot_checks": [
-      "The current UK Prime Minister claim was externally verified against GOV.UK: Andy Burnham became Prime Minister on 20 July 2026.",
-      "No factual approval is implied by this rejection; remaining quantitative, methodological, source-traceability and country-context checks must be completed on the corrected blobs."
-    ],
-    "editorial_publication_readiness": "failed",
-    "visual_evidence_readiness": "failed_localization"
+  "evidence": [
+    {
+      "source": "Canonical Europe–Russia–Ukraine security-system EN report",
+      "path": "reports/2026/09/2026-09-20-europe-russia-ukraine-security-system/en.md",
+      "finding": "UK references are a Budapest Memorandum signatory and a broad Western-country comparison, not a developed UK-specific mechanism."
+    }
+  ],
+  "checks": {
+    "taxonomy": "passed",
+    "translation": "failed_localization",
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "tables + four comparable bar charts + flow per locale"
+    },
+    "country_context_trigger": {
+      "result": "failed"
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Raw English 'scale-up' remains in a reader-facing PT-BR heading and prose; parent-link claim is overstated."
+    }
   },
-  "notes": "Country Context item. Canonical public-state recheck immediately before this decision found no reports/**/metadata.json result for this ID on current HEAD, so the decision was not superseded by materialization. No reports/**, HTML, data/reports.json, taxonomy or global site surface was changed."
+  "taxonomy_issues": [],
+  "notes": "Rejected current exact SHA tuple; previous public bundles, if any, remain unchanged. No publication or site-wide edits."
 }

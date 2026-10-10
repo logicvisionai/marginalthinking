@@ -1,0 +1,74 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-03-spain",
+  "revision": 0,
+  "program": "political-economy-markets",
+  "reviewed_at": "2026-10-10T11:24:26.486Z",
+  "reviewed_commit": "13f107d1a0a93abd4d8b5fbd02ae36abd49d60c5",
+  "pending_blob_sha": "f742a5141b0685729f05f1596a63e73fc56a84c8",
+  "source_blob_shas": {
+    "en": "ae6fe0b4009cb675aa5ccd78d923dfea9d9035c3",
+    "pt-BR": "c812477241ba0b28d7e97f967ce5da0180e6d4a8"
+  },
+  "qa_status": "rejected",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "country_context_trigger",
+      "location": "pending.related_research_ids and section 'The UK's ...' not applicable; Spanish dossier opening and selection_rationale",
+      "issue": "None of the three already-public canonical reports named as triggers substantively includes Spain, Spanish production, Iberian interconnection or a Spain-specific causal mechanism. The Europe–Russia–Ukraine report, Germany dossier and France dossier have no Spain/Spanish/Iberian mention in their full EN bodies. Generic EU/NATO or euro-area membership cannot create a material country-context trigger.",
+      "evidence": [
+        "reports/2026/09/2026-09-20-europe-russia-ukraine-security-system/en.md: no Spain/Spanish/Iberian mention",
+        "reports/2026/10/2026-10-03-country-context-germany/en.md: no Spain/Spanish/Iberian mention",
+        "reports/2026/09/2026-09-27-country-context-france/en.md: no Spain/Spanish/Iberian mention"
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "en.md and pt-BR.md chart 'Spain: institutional 2026 real GDP growth baselines' / 'Espanha: linhas de base institucionais para crescimento real em 2026'",
+      "issue": "The same-axis bar chart combines full-year 2026 forecasts (IMF and European Commission), an observed Q2 2026 year-on-year rate, and the observed 2025 full-year rate. The four bars have different periods and statuses; the visual invites a false like-for-like comparison despite descriptive labels.",
+      "evidence": [
+        "IMF 2026 forecast 2.1%; EC 2026 forecast 2.4%; Q2 2026 year-on-year observed 2.6%; 2025 observed 2.8%."
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "en.md and pt-BR.md chart 'Spain: 2025 electricity-system transformation' / 'Espanha: transformação do sistema elétrico em 2025'",
+      "issue": "The same-axis chart combines shares of annual electricity generation (55.5%, 56.6%, 75.5%) with a share of installed capacity (68.9%), which have different denominators and are not directly comparable measures of delivered generation.",
+      "evidence": [
+        "Renewable share of generation 55.5%; including self-consumption 56.6%; CO2-free generation 75.5%; renewable installed capacity including self-consumption 68.9%."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Do not advance this auxiliary dossier until a canonical published research ID materially involves Spain in a defended mechanism. Replace the three nonqualifying related_research_ids only with verifiable material triggers and explain the connection in both public editions; if none exists, withdraw ready status until an appropriate parent research is published.",
+    "Separate 2026 full-year forecasts from observed 2025 and Q2 2026 growth into a comparison that explicitly distinguishes period, status and series, using a table or comparable charts in both languages.",
+    "Separate installed-capacity shares from actual generation shares; avoid plotting them as interchangeable percentages on one bar axis.",
+    "Re-run complete factual, editorial and EN/PT-BR QA on corrected pending/source SHAs before publication."
+  ],
+  "evidence": [
+    {
+      "source": "INE, Spanish National Accounts, 25 September 2026",
+      "url": "https://ine.es/dyngs/Prensa/en/CNTR2T26.htm",
+      "finding": "Confirms Q2 2026 GDP +0.7% quarter on quarter, +2.6% year on year; observed quarterly figure must not be presented as full-year forecast."
+    }
+  ],
+  "checks": {
+    "taxonomy": "passed",
+    "translation": "provisionally_passed",
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature": "table + five bar charts + causal flow per locale",
+      "summary": "Two charts compare incompatible periods/statuses or denominators."
+    },
+    "country_context_trigger": {
+      "result": "failed"
+    },
+    "editorial_publication_readiness": {
+      "result": "blocked",
+      "summary": "A full-length standalone country assessment is not justified as auxiliary context by the named public parent reports."
+    }
+  },
+  "taxonomy_issues": [],
+  "notes": "Rejected current exact SHA tuple; previous public bundles, if any, remain unchanged. No publication or site-wide edits."
+}
