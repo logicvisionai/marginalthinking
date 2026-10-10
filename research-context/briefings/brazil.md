@@ -57,6 +57,13 @@ Related internal briefings include `brazil-real-plan-stabilization.md`, `global-
 
 ## What changed since last review
 
+### 2026-10-10 — electricity rebate and inflation interpretation
+
+- A temporary electricity-bill credit can depress a consumer-price observation when applied and raise the measured monthly rate when it expires. The resulting price-level comparison is not, on its own, evidence of persistent underlying inflation; the effect on household purchasing power remains real.
+- Separate expenditure-group contributions from nested electricity contributions to avoid double counting. Assess persistence using repeated non-energy increases and price-change diffusion. Distinguish a single inflation reading from the formal continuous-target compliance rule, which must be reverified with Banco Central documentation.
+- Recheck IBGE's detailed IPCA release, electricity-bill credit documentation and the applicable monetary-policy rules before reusing current claims. Related internal briefing: `electricity-grid-capacity.md` for physical system constraints.
+
+
 The 23 September 2026 country dossier consolidates Brazil as a reusable structural object beyond the narrower Real Plan briefing. It links long-run state formation and social structure to current productivity, capital formation, demography, resource/logistics geography and external institutional relationships. This does not replace the specialized stabilization briefing.
 
 ## Open questions
@@ -68,6 +75,8 @@ The 23 September 2026 country dossier consolidates Brazil as a reusable structur
 - Do BRICS, NDB, Mercosur and EU–Mercosur channels materially change capital allocation, trade composition or policy autonomy, rather than only diplomatic positioning?
 
 ## Related Marginal Thinking research
+
+- `MT-GM-2026-10-10` — the September IPCA electricity-credit reversal and the distinction between measured price levels and persistent inflation.
 
 - `MT-CC-2026-09-23-brazil` — canonical country-context dossier, revision 1.
 - The existing Real Plan/stabilization research and briefing should remain the specialized source of orientation for URV, indexation and stabilization mechanisms.
