@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-10T00:39:00-03:00",
+  "last_reconciled_at": "2026-10-10T12:27:02.094Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -4337,6 +4337,124 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Long-term financing pressure for data-centre and industrial investment does not constitute evidence of a new capability deployment or technology maturation stage."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-10-country-context-israel-publication",
+      "reconciled_at": "2026-10-10T12:27:02.094Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-10",
+        "MT-GM-2026-10-09",
+        "MT-GM-2026-10-08",
+        "MT-GM-2026-10-07",
+        "MT-GM-2026-10-06",
+        "MT-GM-2026-10-05",
+        "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+        "MT-WF-2026-10-05",
+        "MT-CC-2026-10-04-lithuania",
+        "MT-CC-2026-10-04-turkiye",
+        "MT-CC-2026-10-04-portugal",
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-03-israel",
+        "MT-CC-2026-10-03-ukraine",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-GM-2026-10-03",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-CC-2026-09-28-singapore",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Cross-border gas, security and technology relations are material, but a new network edge needs independent evaluation of criticality, substitutability and horizon; the country dossier does not provide that complete relation-level assessment."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Housing, transport and energy constraints are discussed without an evidenced, implementable opportunity record meeting the atlas contract."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Institutional and defence/technology actors are described at system level without a new verified ownership, mandate or control relationship meeting actor-registry requirements."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Gas and water systems are discussed, but field-level concessions, operators, verified capacity and controller rights have not been reconciled into an admissible resource-control record."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "The existing Israel 1985 stabilization case remains the canonical bounded intervention; broader country context establishes no separate completed policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Israel-Palestinian and regional conflict mechanisms warrant dedicated multi-actor history, evidence windows and interpretation checks before adding a conflict-system record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "High-technology output and R&D concentration do not establish a new technology deployment or maturity signal."
         }
       ]
     }
