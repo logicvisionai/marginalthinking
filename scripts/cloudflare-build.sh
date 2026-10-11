@@ -127,5 +127,7 @@ fi
 node --test tests/public-url.test.mjs
 node scripts/normalize-public-urls.mjs
 node scripts/validate-public-urls.mjs
+node --test tests/search-indexability.test.mjs
+node scripts/audit-search-indexability.mjs
 
 echo 'Cloudflare build ready: bilingual research with strict locale-card integrity, locale-safe client rendering, deterministic QA pipeline, four canonical research programs, permanent research hubs, indexable datasets, controlled series and domain pages, taxonomy-ranked related research, geographic navigation with correct active state, derived corpus intelligence, public MCP catalog and documentation, global static search, semantic taxonomy navigation, recovery 404, llms.txt and Markdown agent discovery, concise SEO metadata, per-report social cards and empty-collection index control, institutional copy reviewed, responsive output validated.'
