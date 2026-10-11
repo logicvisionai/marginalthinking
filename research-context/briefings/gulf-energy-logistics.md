@@ -38,6 +38,10 @@ For energy-importing economies, the social mechanism runs in the opposite direct
 
 Labour effects can also differ by sector. Transport, aviation, logistics, energy-intensive manufacturing and public-sector budgets may transmit an energy shock into employment or real-income pressure through different channels. These links require country-specific evidence before they are used publicly.
 
+## Poverty exposure and fiscal-protection design
+
+An energy-logistics shock can become a poverty and public-finance shock even without further movement in benchmark crude: delivered fuel, food transport, exchange rates, taxes and subsidy systems determine local pass-through. A UNDP scenario examined in the 11 October 2026 canonical macro report makes two reusable distinctions: *potential* movements across poverty thresholds are conditional model outcomes, not observed poverty counts, and alternative poverty thresholds overlap and must not be added. Fiscal compensation for all households and targeted protection of poorer households represent different budget costs **and different coverage**, not equivalent policy outcomes. Future work should test administrative targeting capacity, household exposure, fiscal headroom, debt-service obligations and displacement of other essential spending together; re-check country-specific results externally.
+
 ## Relationships
 
 The key reusable relationships are not simply `Iran versus Gulf exporters` or `Hormuz versus alternative routes`. Future work should map the more precise dependencies:
@@ -90,6 +94,11 @@ The September 17 context review added the historical, institutional and social m
 - **Research implication:** future energy-shock analysis should track crude, refinery availability, middle-distillate inventories, delivered diesel, freight and insurance as separate evidence layers rather than infer downstream inflation pressure from Brent alone.
 - **Watch:** U.S. and regional middle-distillate balances, refinery availability, verified Hormuz throughput, freight/insurance conditions and the speed with which product-market relief follows any crude-market normalization.
 
+### 2026-10-11
+
+- **Changed:** the 11 October canonical UNDP-based assessment adds an explicit distinction between modeled household poverty exposure, realized poverty outcomes and the fiscal cost of broad versus targeted compensation under prolonged fuel-price pressure.
+- **Research implication:** compare alternative coverage designs without assuming equivalent household protection; do not add overlapping poverty-threshold scenarios, and evaluate debt service, exchange rates and implementation capacity alongside imported fuel costs.
+
 ## Open questions
 
 - How much effective export capacity can Saudi alternative routes sustain under prolonged Hormuz impairment after accounting for maintenance, terminal constraints and crude compatibility?
@@ -114,12 +123,15 @@ The September 17 context review added the historical, institutional and social m
 
 - `MT-GM-2026-09-28` — refined-product and refining transmission under unresolved Hormuz normalization; use to separate crude-price relief from delivered-fuel and inflation relief.
 
+- `MT-GM-2026-10-11` — conditional UNDP household-poverty exposure and the budget trade-off between broad and targeted fuel-cost compensation; dated scenario, not observed poverty additions.
+
 ## Sources and verification notes
 
 This briefing is internal orientation, not evidence. Current or material claims must be re-verified before reuse.
 
 Useful primary/high-quality anchors for re-verification:
 
+- UNDP, *No Time to Recover: Compounding Crises, Depleted Fiscal Buffers and What It Means for Developing Economies* (11 October 2026) — verify scenario assumptions, overlapping poverty thresholds and household-compensation coverage/cost before reuse.
 - U.S. Energy Information Administration, `World Oil Transit Chokepoints` — current Hormuz flows, geography and bypass-pipeline estimates.
 - U.S. Energy Information Administration, Saudi Arabia country analysis — East-West pipeline and Red Sea export-route context.
 - U.S. Naval History and Heritage Command, `H-018-1 Tanker War` and related Tanker War histories — Operation Earnest Will, mining and commercial-shipping security mechanisms in 1987–1988.
