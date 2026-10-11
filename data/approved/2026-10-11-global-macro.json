@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-11",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-11T16:18:00-03:00",
+  "reviewed_commit": "a5e3b2573467c302064ce5d1930031b6822e47b9",
+  "pending_blob_sha": "42bcb31f3e5958df1dfda7b2155ee48a725bef0d",
+  "source_blob_shas": {
+    "en": "b8f39969c26626f8fdbff8c08d0d013f354096f1",
+    "pt-BR": "edf50248eb4e87e31b63b78c3933eecaa8da0cca"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed_with_cutoff_limits",
+      "summary": "UNDP publication dated 11 October 2026, IMF and WBG meeting calendars, BLS October release calendar and IBGE September IPCA. Modelled exposure distinguished from realised poverty."
+    },
+    "novelty": {
+      "result": "passed",
+      "summary": "New UNDP assessment dated 11 October, not a rewrite of 10 October's market and Brazil inflation recap."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Continuous argument on fuel price transmission, fiscal protection, sovereign debt, and prospective institutional evidence. English and Brazilian Portuguese reviewed for parity."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "signature": "1 table + 2 same-unit bar charts + 1 causal flow + 1 geographic mechanism map in each locale",
+      "summary": "UNDP poverty threshold scenarios explicitly overlapping; fuel prices separate from poverty units; mechanisms qualified."
+    }
+  },
+  "contrary_evidence": [
+    "The UNDP figures are scenario estimates under full pass-through; actual poverty effects can be mitigated by income adjustments and protection policies.",
+    "Net energy exporters may gain export revenues even as domestic fuel costs increase.",
+    "New multilateral liquidity or lower energy prices could relieve fiscal stress."
+  ],
+  "limitations": [
+    "No fresh Sunday financial-market settlement was claimed.",
+    "UNDP poverty estimates depend on conditional pass-through and overlap across alternative thresholds.",
+    "Country-sample averages are not population-weighted global inflation.",
+    "IMF and BLS releases scheduled for 13–15 October were not yet available at information cutoff."
+  ],
+  "notes": "Evidence and translation consistency checked against primary-source pages; build CI and live-route verification required after publication.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-11",
+    "slug": "2026-10-11-global-macro",
+    "date": "2026-10-11",
+    "published_at": "2026-10-11T16:18:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-11-global-macro/en.md",
+        "title": "Global Macro — fiscal protection narrows as energy and debt pressures converge before Bangkok",
+        "deck": "A new UNDP assessment quantifies rising fuel costs, potential poverty exposure and shrinking fiscal room before the IMF–World Bank meetings in Bangkok.",
+        "tags": [
+          "global macro",
+          "UNDP",
+          "energy prices",
+          "sovereign debt",
+          "Bangkok",
+          "IMF"
+        ],
+        "keywords": [
+          "global macro 11 October 2026",
+          "UNDP No Time to Recover 2026",
+          "IMF World Bank Bangkok 2026",
+          "energy debt fiscal space"
+        ],
+        "regime": "High energy costs and elevated debt service limit developing economies' room to shield households.",
+        "key_risk": "Expensive fuel and debt servicing reduce the capacity to protect vulnerable households without displacing essential spending.",
+        "watch": [
+          "IMF World Economic Outlook 13 October",
+          "IMF Global Financial Stability Report 13 October",
+          "IMF Fiscal Monitor 14 October",
+          "U.S. CPI 14 October",
+          "U.S. PPI 15 October"
+        ],
+        "search_text": "11 October 2026 energy crisis debt UNDP poverty estimates IMF World Bank Bangkok fiscal space"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-11-global-macro/pt-BR.md",
+        "title": "Macro Global — proteção fiscal encolhe diante da pressão simultânea de energia e dívida",
+        "deck": "Novo estudo do PNUD quantifica a alta dos combustíveis, a exposição potencial à pobreza e a perda de espaço fiscal às vésperas das reuniões do FMI e do Banco Mundial.",
+        "tags": [
+          "macro global",
+          "PNUD",
+          "energia",
+          "dívida soberana",
+          "Bangcoc",
+          "FMI"
+        ],
+        "keywords": [
+          "macro global 11 outubro 2026",
+          "PNUD No Time to Recover 2026",
+          "FMI Banco Mundial Bangcoc 2026",
+          "energia dívida espaço fiscal"
+        ],
+        "regime": "Energia cara e serviço da dívida elevado limitam a capacidade de proteger famílias nos países em desenvolvimento.",
+        "key_risk": "Combustíveis caros e juros da dívida diminuem os recursos para proteger famílias vulneráveis sem reduzir serviços essenciais.",
+        "watch": [
+          "World Economic Outlook do FMI em 13 de outubro",
+          "Relatório de Estabilidade Financeira do FMI em 13 de outubro",
+          "Fiscal Monitor do FMI em 14 de outubro",
+          "CPI americano em 14 de outubro",
+          "PPI americano em 15 de outubro"
+        ],
+        "search_text": "11 outubro 2026 crise energética dívida PNUD estimativas pobreza FMI Banco Mundial Bangcoc orçamento"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "energy",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "political-stability"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 0
+  }
+}

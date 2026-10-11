@@ -1,0 +1,115 @@
+{
+  "id": "MT-GM-2026-10-11",
+  "slug": "2026-10-11-global-macro",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T16:18:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "energy",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "political-stability"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-10-11T16:18:00-03:00",
+    "primary_sources": [
+      "United Nations Development Programme, 11 October 2026",
+      "International Monetary Fund meeting schedule",
+      "World Bank Annual Meetings schedule",
+      "Bureau of Labor Statistics",
+      "Instituto Brasileiro de Geografia e Estatística"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 table + 2 charts + 1 flow + 1 map per locale",
+    "novelty_against_previous_daily": "New UNDP 11 October fuel/debt/poverty analysis and Bangkok institutional reporting calendar"
+  },
+  "url": "/reports/2026/10/2026-10-11-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-11T16:18:00-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "a5e3b2573467c302064ce5d1930031b6822e47b9",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — fiscal protection narrows as energy and debt pressures converge before Bangkok",
+      "deck": "A new UNDP assessment quantifies rising fuel costs, potential poverty exposure and shrinking fiscal room before the IMF–World Bank meetings in Bangkok.",
+      "tags": [
+        "global macro",
+        "UNDP",
+        "energy prices",
+        "sovereign debt",
+        "Bangkok",
+        "IMF"
+      ],
+      "keywords": [
+        "global macro 11 October 2026",
+        "UNDP No Time to Recover 2026",
+        "IMF World Bank Bangkok 2026",
+        "energy debt fiscal space"
+      ],
+      "regime": "High energy costs and elevated debt service limit developing economies' room to shield households.",
+      "key_risk": "Expensive fuel and debt servicing reduce the capacity to protect vulnerable households without displacing essential spending.",
+      "watch": [
+        "IMF World Economic Outlook 13 October",
+        "IMF Global Financial Stability Report 13 October",
+        "IMF Fiscal Monitor 14 October",
+        "U.S. CPI 14 October",
+        "U.S. PPI 15 October"
+      ],
+      "search_text": "11 October 2026 energy crisis debt UNDP poverty estimates IMF World Bank Bangkok fiscal space"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — proteção fiscal encolhe diante da pressão simultânea de energia e dívida",
+      "deck": "Novo estudo do PNUD quantifica a alta dos combustíveis, a exposição potencial à pobreza e a perda de espaço fiscal às vésperas das reuniões do FMI e do Banco Mundial.",
+      "tags": [
+        "macro global",
+        "PNUD",
+        "energia",
+        "dívida soberana",
+        "Bangcoc",
+        "FMI"
+      ],
+      "keywords": [
+        "macro global 11 outubro 2026",
+        "PNUD No Time to Recover 2026",
+        "FMI Banco Mundial Bangcoc 2026",
+        "energia dívida espaço fiscal"
+      ],
+      "regime": "Energia cara e serviço da dívida elevado limitam a capacidade de proteger famílias nos países em desenvolvimento.",
+      "key_risk": "Combustíveis caros e juros da dívida diminuem os recursos para proteger famílias vulneráveis sem reduzir serviços essenciais.",
+      "watch": [
+        "World Economic Outlook do FMI em 13 de outubro",
+        "Relatório de Estabilidade Financeira do FMI em 13 de outubro",
+        "Fiscal Monitor do FMI em 14 de outubro",
+        "CPI americano em 14 de outubro",
+        "PPI americano em 15 de outubro"
+      ],
+      "search_text": "11 outubro 2026 crise energética dívida PNUD estimativas pobreza FMI Banco Mundial Bangcoc orçamento"
+    }
+  }
+}
