@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-10T12:27:02.094Z",
+  "last_reconciled_at": "2026-10-11T19:26:00.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -4455,6 +4455,125 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "High-technology output and R&D concentration do not establish a new technology deployment or maturity signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-global-macro-reconciliation",
+      "reconciled_at": "2026-10-11T16:26:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-11",
+        "MT-GM-2026-10-10",
+        "MT-GM-2026-10-09",
+        "MT-GM-2026-10-08",
+        "MT-GM-2026-10-07",
+        "MT-GM-2026-10-06",
+        "MT-GM-2026-10-05",
+        "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+        "MT-WF-2026-10-05",
+        "MT-CC-2026-10-04-lithuania",
+        "MT-CC-2026-10-04-turkiye",
+        "MT-CC-2026-10-04-portugal",
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-03-israel",
+        "MT-CC-2026-10-03-ukraine",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-GM-2026-10-03",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-CC-2026-09-28-singapore",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The UNDP fuel-cost, poverty-exposure and sovereign-debt scenarios affect current economic conditions but do not establish a new verified, enduring dependency edge, substitutability measure or control right."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The scenario quantifies fiscal pressure and subsidy coverage costs, but provides no evaluated implementable intervention meeting the structural-opportunity atlas evidence contract."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The UNDP, IMF and World Bank retain established institutional mandates; the October 11 report does not verify a new ownership, mandate, voting-power or critical-capability relationship."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Retail gasoline and diesel price changes are time-dependent market observations and do not evidence a change in mineral reserves, resource control, operating rights or durable supply capacity."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "UNDP household-compensation cost estimates compare alternative hypothetical targeting schemes, not a newly evaluated or implemented fiscal policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Economic and social effects from the Middle East energy disruption are considered, but the new UNDP scenario is insufficient to establish or modify a verified multi-actor conflict-system record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "The report adds fiscal and energy evidence, not a new technical capability, deployment maturity or production-scale validation."
         }
       ]
     }
