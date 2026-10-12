@@ -62,6 +62,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 
 ### 2026-10-12
 
+- **Fiscal and productive-investment constraint:** sovereign refinancing, resilient supply chains, household support and workforce adaptation compete for limited funding; compare debt maturity, taxation and implementation capacity before extrapolating aggregate debt ratios.
+- **Directed-finance trade-off:** policy that lowers explicit sovereign funding costs by channeling domestic savings can also constrain private lending and household returns; evaluate the distributional effect separately from the public borrowing rate.
 - **Changed:** the 12 October wealth-flow report separates physical gold-ETF subscriptions and holdings from COMEX managed-money and futures-spread positions; the instruments have different owners and accounting meanings, so their notional values cannot be combined or used as a direct decomposition of gold-price changes.
 - **Changed:** fund investment-objective labels and exchange-listing locations do not identify beneficial-owner residence or the ultimate destination of capital. Validate underlying holdings and custody before attributing geographic reallocation.
 - **Unchanged:** mutual-fund flows, ETF issuance, money-market asset stocks, official reserves and bank claims are not additive measures of a single global wealth transfer.
@@ -127,6 +129,7 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 
 ## Related Marginal Thinking research
 
+- `MT-GM-2026-10-12` — sovereign financing, supply-chain resilience and allocation trade-offs; verify the published IMF research rather than relying on the pre-release agenda.
 - `MT-WF-2026-10-12` — geographic fund attribution and gold ETF/futures separation; reverify ICI, WGC and relevant exchange data before public reuse.
 
 - `MT-GM-2026-10-08` — sovereign auction absorption versus persistent long-duration capital competition from public debt and AI infrastructure; source is the canonical 8 October report.
