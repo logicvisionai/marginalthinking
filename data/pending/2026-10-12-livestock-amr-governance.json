@@ -1,0 +1,101 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-BIO-2026-10-12-livestock-amr",
+  "slug": "2026-10-12-livestock-amr-governance",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T19:17:00-03:00",
+  "kind": "biosecurity-livestock-governance",
+  "priority": 36,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-12-livestock-amr-governance/en.md",
+      "title": "Livestock production, antimicrobial resistance and institutional risk",
+      "deck": "Animal health and antimicrobial use connect food production, public health, labor, trade and international security. WHO, WOAH and One Health surveillance expose crucial differences between treatment, risk and attribution.",
+      "tags": [
+        "livestock",
+        "antimicrobial resistance",
+        "One Health",
+        "veterinary policy",
+        "food safety"
+      ],
+      "keywords": [
+        "WHO GLASS 2025",
+        "WOAH antimicrobial use",
+        "livestock biosecurity",
+        "AMR",
+        "zoonoses"
+      ],
+      "regime": "Veterinary antimicrobial stewardship and One Health monitoring expand amid uneven evidence and implementation.",
+      "key_risk": "Weak diagnostics or indiscriminate controls conceal resistance while shifting costs toward small farmers and health services.",
+      "watch": [
+        "WHO GLASS surveillance coverage",
+        "WOAH animal antimicrobial use and denominator",
+        "veterinary diagnostics availability",
+        "animal disease notifications",
+        "One Health plan implementation"
+      ],
+      "search_text": "Livestock antibiotics antimicrobial resistance WOAH WHO GLASS One Health food safety international institutions."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-12-livestock-amr-governance/pt-BR.md",
+      "title": "Produção pecuária, resistência antimicrobiana e riscos institucionais",
+      "deck": "Sanidade animal e antimicrobianos conectam produção alimentar, saúde coletiva, trabalho, comércio e segurança internacional. A vigilância OMS, WOAH e Saúde Única distingue tratamento, risco e atribuição.",
+      "tags": [
+        "pecuária",
+        "resistência antimicrobiana",
+        "Saúde Única",
+        "política veterinária",
+        "segurança alimentar"
+      ],
+      "keywords": [
+        "GLASS OMS 2025",
+        "WOAH uso de antimicrobianos",
+        "biossegurança pecuária",
+        "resistência bacteriana",
+        "zoonoses"
+      ],
+      "regime": "Uso responsável na veterinária e vigilância Saúde Única avançam com grande desigualdade de evidência e implementação.",
+      "key_risk": "Diagnósticos precários ou restrições indiscriminadas ocultam resistência e transferem custos a pequenos produtores e serviços de saúde.",
+      "watch": [
+        "cobertura GLASS OMS",
+        "consumo veterinário e denominadores WOAH",
+        "acesso a diagnóstico veterinário",
+        "notificações de doenças animais",
+        "execução Saúde Única"
+      ],
+      "search_text": "Pecuária antibióticos resistência antimicrobiana WOAH OMS GLASS Saúde Única segurança alimentar instituições."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets",
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "institutions-governance",
+    "geopolitics-security",
+    "trade-investment",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1
+}
