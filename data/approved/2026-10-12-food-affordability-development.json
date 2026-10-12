@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-FS-2026-10-12-healthy-diet-development",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-12T22:10:51.519Z",
-  "reviewed_commit": "0a28655fe210084028bfa980d4da38bfc7b687dc",
+  "reviewed_at": "2026-10-12T22:48:00.468Z",
+  "reviewed_commit": "97fcb44ce52090016f86cfcc8f0a4ecbba21e346",
   "pending_blob_sha": "a16dabb61f503c4028262916ec1a7774773b28de",
   "source_blob_shas": {
-    "en": "43bd2825647aa4fbba3eb40c08f46869cc283858",
-    "pt-BR": "b5205edf9f527d4d6269e87e7f40ecd6db4db77f"
+    "en": "e306c5a5bab23b731e0472d3e6544990d5c2f020",
+    "pt-BR": "de43a0696ce00f37b5c23bf2027f4c5bfebb7cbd"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -19,7 +19,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Full bilingual texts checked for unit, date, mechanism and visual parity; new reports meet substantive depth checks."
+      "summary": "Full bilingual texts checked for unit, date, mechanism and visual parity; new reports meet substantive depth checks. End-of-article bibliographies and in-text numbered references checked for both languages."
     },
     "visual_evidence_readiness": {
       "result": "passed",
@@ -35,7 +35,7 @@
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "At least eight distinct URLs and four source domains per locale; source claims tied to primary institutional releases."
+      "summary": "At least eight distinct URLs and four source domains per locale; source claims tied to primary institutional releases. Primary sources presented in final reference lists rather than dispersed inline URLs."
     },
     "counterfactual_review": {
       "result": "passed",
@@ -51,7 +51,7 @@
     "Observational associations do not establish causal attribution.",
     "Cross-country sources differ in reference periods and data coverage."
   ],
-  "notes": "Editorial/source and cross-language QA completed during this publication transaction; no claim of independent external peer review. GitHub Actions will additionally check the canonical site build.",
+  "notes": "Editorial/source and cross-language QA completed during this publication transaction; no claim of independent external peer review. GitHub Actions will additionally check the canonical site build. Formatting revision: reference URLs moved exclusively to final bibliography; numbered in-text citations synchronized across EN/PT-BR, with corrections of outdated links. No outside scientific peer-review claim.",
   "publication": {
     "schema_version": 2,
     "ready": true,

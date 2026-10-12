@@ -8,7 +8,7 @@ Livestock farming connects food production, employment, trade, animal welfare, v
 
 Antimicrobials can be necessary to treat bacterial infections in animals. Their use also creates selection pressure that can favor resistant microorganisms. Resistance is a process in microbial populations; it should not be represented as an animal or person becoming resistant. Resistant organisms and resistance determinants can circulate through linked human, animal and environmental settings. The relative contribution of each pathway varies by organism, place and exposure and cannot be inferred from national antibiotic sales alone.
 
-WHO identifies antimicrobial resistance as a major public-health threat, with consequences for the safety of surgery and other modern treatments. Higher treatment costs, prolonged illness, mortality and lost productivity create economic effects beyond the livestock operation. Source: https://www.who.int/europe/news-room/fact-sheets/item/antimicrobial-resistance
+WHO identifies antimicrobial resistance as a major public-health threat, with consequences for the safety of surgery and other modern treatments. Higher treatment costs, prolonged illness, mortality and lost productivity create economic effects beyond the livestock operation. [1]
 
 ## Incentives and unequal capacities
 
@@ -40,7 +40,7 @@ For economic evaluation, measure the costs of prevention alongside expected loss
 
 ## Chemical and biological security boundaries
 
-Food-chain and animal-health infrastructure can be deliberately disrupted, but an outbreak is not evidence of an intentional biological attack. Attribution requires independent epidemiological and forensic findings and documented investigative procedures. Chemical and biological weapons governance belongs to distinct treaty regimes; the OPCW implements the Chemical Weapons Convention, while the Biological Weapons Convention has a different institutional and verification architecture. Sources: https://www.opcw.org/chemical-weapons-convention ; https://www.opcw.org/media-centre/news/2026/06/opcw-and-unoda-partner-bridge-gap-between-scientists-and-policymakers
+Food-chain and animal-health infrastructure can be deliberately disrupted, but an outbreak is not evidence of an intentional biological attack. Attribution requires independent epidemiological and forensic findings and documented investigative procedures. Chemical and biological weapons governance belongs to distinct treaty regimes; the OPCW implements the Chemical Weapons Convention, while the Biological Weapons Convention has a different institutional and verification architecture. [2, 3]
 
 The strategic issue is the capacity to prevent, identify and absorb animal and human health shocks while maintaining food supply and lawful international trade. The quality of disease surveillance, access to veterinary services and public-sector coordination is as consequential as farm-level technical choices.
 
@@ -55,7 +55,7 @@ Changes in food markets can transmit a localized disease shock internationally. 
 
 ## What the global surveillance evidence says
 
-The WHO's *Global antibiotic resistance surveillance report 2025*, issued on 13 October 2025, draws on more than 23 million bacteriologically confirmed cases in selected infection and pathogen categories. Data for 2023 were submitted by 104 countries; 110 countries supplied information at least once between 2016 and 2023. The 23 million number is a surveillance dataset size, not a count of antibiotic-resistant cases or deaths. Nor are country participation counts prevalence estimates. Published methodology: https://www.who.int/publications/i/item/9789240116337
+The WHO's *Global antibiotic resistance surveillance report 2025*, issued on 13 October 2025, draws on more than 23 million bacteriologically confirmed cases in selected infection and pathogen categories. Data for 2023 were submitted by 104 countries; 110 countries supplied information at least once between 2016 and 2023. The 23 million number is a surveillance dataset size, not a count of antibiotic-resistant cases or deaths. Nor are country participation counts prevalence estimates. [4]
 
 ```chart
 type: bar
@@ -67,7 +67,7 @@ unit: countries; 2023 single-year versus any submission during 2016–2023
 
 These bars have different observation windows and must not be interpreted as a time-series improvement of six countries. The gap illustrates why the coverage and completeness of surveillance data should be presented beside any comparison of resistance patterns. Differences in antibiotic access, ability to conduct microbiological tests and selection of patients for culture can shift the observed fraction of resistant isolates without equivalent changes in community incidence.
 
-The WOAH 2025 animal antimicrobial-use release reported data covering approximately 71% of the world's animal biomass in its ninth reporting assessment and described a decline of 5% in reported use in its comparison set. Neither figure implies that 71% of all farms submitted records, that the remaining biomass used no antibiotics, or that antimicrobial resistance itself fell by 5%. The reporting universe and comparability limits need to be carried forward in the analysis. Source: https://www.woah.org/en/article/less-antimicrobial-use-in-animals-a-win-for-everyone/
+The WOAH 2025 animal antimicrobial-use release reported data covering approximately 71% of the world's animal biomass in its ninth reporting assessment and described a decline of 5% in reported use in its comparison set. Neither figure implies that 71% of all farms submitted records, that the remaining biomass used no antibiotics, or that antimicrobial resistance itself fell by 5%. The reporting universe and comparability limits need to be carried forward in the analysis. [5]
 
 ```chart
 type: bar
@@ -83,7 +83,7 @@ The second value is the mathematical complement of the reported 71%, not an inde
 
 Resistance may emerge or be selected under antimicrobial exposure in human medicine, veterinary practice and some environmental conditions. Transmission then depends on the microbial species, genetic mechanism, sanitation, food preparation, occupational contact and healthcare infection control. A resistance gene detected in an animal sample and a gene detected in a hospital sample do not alone establish direction of transmission. A defensible attribution would require organism-specific study design, genomic or epidemiological relationships where available and control of competing sources.
 
-The One Health Quadripartite—FAO, WHO, WOAH and UNEP—issued integrated surveillance guidance in January 2026. It emphasizes combined observation of antimicrobial use and resistance across sectors, designed around national capacities. The guidance is not a universal claim that every sector contributes the same fraction of human illness. Source: https://www.unep.org/resources/report/quadripartite-guidance-one-health-integrated-surveillance-antimicrobial-resistance
+The One Health Quadripartite—FAO, WHO, WOAH and UNEP—issued integrated surveillance guidance in January 2026. It emphasizes combined observation of antimicrobial use and resistance across sectors, designed around national capacities. The guidance is not a universal claim that every sector contributes the same fraction of human illness. [6]
 
 In surveillance, absence of detected resistance can indicate either low prevalence or low test sensitivity and coverage. Countries reporting more resistance may have better laboratory networks and denominator information. Analysts should present sampling proportions, time periods, culture indications, isolate counts and uncertainty intervals where possible, rather than ranking health systems solely by the crude fraction of resistant samples.
 
@@ -107,7 +107,7 @@ Each arrow denotes a plausible link requiring data. In particular, the route fro
 
 Livestock health policy extends beyond the farm. Workers in transport, holding areas, slaughtering, processing and retail may face occupational hazards and unequal access to protective equipment and medical care. Food safety depends on ante-mortem and post-mortem inspection, hygienic processing, temperature controls, water quality, traceability and effective recall mechanisms. Contamination along these stages may occur even where farm-level infection indicators appear favorable.
 
-The FAO/WHO Codex Alimentarius includes microbiological food hygiene standards, guidance for control of certain food hazards and provisions on veterinary-drug residues. International standards can facilitate trade, but they do not replace national legislation or create a uniform inspection capacity across countries. Source: https://www.fao.org/fao-who-codexalimentarius/about-codex
+The FAO/WHO Codex Alimentarius includes microbiological food hygiene standards, guidance for control of certain food hazards and provisions on veterinary-drug residues. International standards can facilitate trade, but they do not replace national legislation or create a uniform inspection capacity across countries. [7]
 
 Investment in sanitation and laboratory facilities can protect consumers and preserve export market access. The distributional problem is how these costs are allocated among small farmers, larger processors, consumers and public budgets. A requirement that increases fixed compliance costs could encourage consolidation unless facilities, cooperative arrangements or technical assistance lower barriers to entry. Consolidation may, in turn, reshape prices, bargaining and surveillance incentives.
 
@@ -125,7 +125,7 @@ These are qualitative regional mechanisms, not measured rankings or claims that 
 
 ## Governance across sectors
 
-In August 2026, the Quadripartite announced the extension of its One Health Joint Plan of Action from the original 2022–2026 period through 2029. This is an institutional planning commitment, not an independently measured improvement in antimicrobial resistance outcomes. The extension allows countries to align public-health, environmental and animal-health efforts over a longer funding horizon. Source: https://www.woah.org/en/quadripartite-collaboration-extends-the-one-health-joint-plan-of-action-to-2029/
+In August 2026, the Quadripartite announced the extension of its One Health Joint Plan of Action from the original 2022–2026 period through 2029. This is an institutional planning commitment, not an independently measured improvement in antimicrobial resistance outcomes. The extension allows countries to align public-health, environmental and animal-health efforts over a longer funding horizon. [8]
 
 | Governance layer | Concrete role | Evidence required |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ In August 2026, the Quadripartite announced the extension of its One Health Join
 | Environment authority | Wastewater, runoff and environmental monitoring | Exposure pathways and microbial characterization |
 | International bodies | Guidance, harmonization and technical coordination | Adoption by countries and independent outcome measures |
 
-The 2025 WOAH annual publication, the 2025 WHO GLASS report and the 2026 UNEP guidance cover related but distinct analytical populations. Comparison is useful for identifying gaps, but their underlying measurements cannot simply be aggregated into a global 'One Health risk score'. References: https://www.woah.org/en/document/ninth-annual-report-antimicrobial-agents-intended-for-use-in-animals/ and https://www.unep.org/resources/report/quadripartite-guidance-one-health-integrated-surveillance-antimicrobial-resistance
+The 2025 WOAH annual publication, the 2025 WHO GLASS report and the 2026 UNEP guidance cover related but distinct analytical populations. Comparison is useful for identifying gaps, but their underlying measurements cannot simply be aggregated into a global 'One Health risk score'. [9, 6]
 
 ## Comparing policy approaches without false equivalence
 
@@ -157,7 +157,7 @@ Animal disease outbreaks can interrupt the movement of live animals and animal p
 
 Sanitary rules also have a geopolitical dimension: legitimate risk controls can protect consumers, while opaque or inconsistent application can be perceived as protectionism. Evaluating a trade measure requires identifying the declared hazard, evidentiary standard, proportionality and dispute-settlement regime. An import ban alone does not demonstrate intentional economic coercion.
 
-Biosecurity policy should not be conflated with chemical or biological weapons accusations. Deliberate hostile action is a separate hypothesis requiring extraordinary evidence, professional investigation and clearly documented attribution. The OPCW's chemical verification architecture rests on treaty declarations and inspections; this institutional fact cannot be automatically transferred to the Biological Weapons Convention. Reference: https://www.opcw.org/about/technical-secretariat/divisions/verification
+Biosecurity policy should not be conflated with chemical or biological weapons accusations. Deliberate hostile action is a separate hypothesis requiring extraordinary evidence, professional investigation and clearly documented attribution. The OPCW's chemical verification architecture rests on treaty declarations and inspections; this institutional fact cannot be automatically transferred to the Biological Weapons Convention. [10]
 
 ## The measurable research frontier
 
@@ -166,3 +166,16 @@ Three uncertainties should govern further comparisons. The first is attribution:
 National datasets should include antimicrobial quantities with common denominators, farm-level infection and mortality outcomes, human clinical surveillance, food-chain sampling, waste management, trade disruptions and costs of enforcement. Where any component is missing, an analyst should describe the blind spot instead of filling it with estimates lacking transparent assumptions.
 
 The economic value of livestock production and the need for disease prevention are not opposing absolutes. Their interaction depends on the capacity of institutions to identify risk, finance prevention, preserve necessary clinical treatment and prevent local health shocks from becoming long-lived economic and social losses.
+
+## References
+
+1. WHO. *Antimicrobial resistance: public-health fact sheet*. [Official source](https://www.who.int/europe/news-room/fact-sheets/item/antimicrobial-resistance).
+2. OPCW. *Chemical Weapons Convention*. [Official source](https://www.opcw.org/chemical-weapons-convention).
+3. OPCW (2026). *OPCW and UNODA cooperation on science and policy*. [Official source](https://www.opcw.org/media-centre/news/2026/06/opcw-and-unoda-partner-bridge-gap-between-scientists-and-policymakers).
+4. WHO (2025). *Global antibiotic resistance surveillance report 2025*. [Official source](https://www.who.int/publications/i/item/9789240116337).
+5. WOAH (2025). *Less antimicrobial use in animals: a win for everyone*. [Official source](https://www.woah.org/en/article/less-antimicrobial-use-in-animals-a-win-for-everyone/).
+6. UNEP and Quadripartite (2026). *Guidance on One Health integrated AMR surveillance*. [Official source](https://www.unep.org/resources/report/quadripartite-guidance-one-health-integrated-surveillance-antimicrobial-resistance).
+7. FAO/WHO. *Codex Alimentarius: institutional overview*. [Official source](https://www.fao.org/fao-who-codexalimentarius/about-codex).
+8. WOAH (2026). *One Health Joint Plan of Action extended to 2029*. [Official source](https://www.woah.org/en/quadripartite-collaboration-extends-the-one-health-joint-plan-of-action-to-2029/).
+9. WOAH. *Ninth annual report on antimicrobial agents intended for use in animals*. [Official source](https://www.woah.org/en/document/ninth-annual-report-antimicrobial-agents-intended-for-use-in-animals/).
+10. OPCW. *Verification Division: official remit*. [Official source](https://www.opcw.org/about/technical-secretariat/divisions/verification).

@@ -6,7 +6,7 @@ Food security cannot be inferred from agricultural output alone. A country can i
 
 Food systems transform land, water, energy, capital, labor and technology into agricultural output. This supply can reduce production costs, yet the price paid by a household also depends on storage, roads, transport, trade policy, retail competition and the composition of the diet. Household access depends on wages, cash income, transfers and relative prices. National production and household nutritional security therefore measure different outcomes.
 
-The FAO's *State of Food Security and Nutrition in the World 2026* estimates that 645 million people faced hunger in 2025 and approximately 2.7 billion people could not afford a healthy diet. These are not interchangeable indicators: undernourishment, food insecurity and the cost of an adequate diet describe different constraints and may follow different trends. Source: https://www.fao.org/publications/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/2022/en
+The FAO's *State of Food Security and Nutrition in the World 2026* estimates that 645 million people faced hunger in 2025 and approximately 2.7 billion people could not afford a healthy diet. These are not interchangeable indicators: undernourishment, food insecurity and the cost of an adequate diet describe different constraints and may follow different trends. [1]
 
 ## A causal pathway through human capital
 
@@ -16,7 +16,7 @@ A plausible long-run mechanism is household purchasing constraint → reduced di
 
 ## Safety and nutrition are related, but distinct
 
-The WHO's June 2026 food-safety assessment estimates 866 million illnesses and 1.52 million deaths per year due to contaminated food. These estimates measure foodborne disease, not deaths attributable to hunger, and should not be added to the FAO's estimates of food insecurity. Bacterial, viral, parasitic and chemical hazards have different exposure pathways and require different prevention measures. Source: https://www.who.int/news-room/fact-sheets/detail/food-safety
+The WHO's June 2026 food-safety assessment estimates 866 million illnesses and 1.52 million deaths per year due to contaminated food. These estimates measure foodborne disease, not deaths attributable to hunger, and should not be added to the FAO's estimates of food insecurity. Bacterial, viral, parasitic and chemical hazards have different exposure pathways and require different prevention measures. [2]
 
 The economic transmission includes treatment costs, absenteeism, avoidable mortality, disruption of food trade and diminished confidence in supply chains. Enforcement of water-quality standards, inspections, veterinary monitoring and temperature-controlled logistics can thus have benefits that are not captured by farm-gate commodity prices.
 
@@ -45,14 +45,14 @@ The observation to test over several years is whether increases in real househol
 
 ## Institutions and evidence
 
-FAO measures food security and diet affordability; WHO assesses health and foodborne hazards; Codex Alimentarius develops international food standards; domestic agricultural, sanitary and statistical institutions enforce and measure different parts of the system. The World Bank, national household budget surveys and labor statistics can help evaluate income and expenditure channels. Source: https://www.who.int/publications/m/item/the-state-of-food-security-and-nutrition-in-the-world-2025/ ; https://www.fao.org/fao-who-codexalimentarius/world-food-safety-day-2024/wfsd-homepage/en/
+FAO measures food security and diet affordability; WHO assesses health and foodborne hazards; Codex Alimentarius develops international food standards; domestic agricultural, sanitary and statistical institutions enforce and measure different parts of the system. The World Bank, national household budget surveys and labor statistics can help evaluate income and expenditure channels. [1, 3]
 
 The central research implication is institutional rather than purely agricultural: higher production is valuable, but durable nutritional progress depends on whether productive gains become affordable, safe and sufficiently diverse household diets. The strength and distribution of that conversion remain measurable empirical questions.
 
 
 ## What the 2026 evidence actually measures
 
-The FAO-led SOFI 2026 assessment separates three statistical objects that often get conflated in public debate. Hunger is estimated from insufficient dietary energy consumption; moderate or severe food insecurity captures compromised access to food; and inability to afford a healthy diet compares a least-cost nutritionally adequate food basket with an affordability threshold. The units and methods differ. For 2025, the report estimates 645 million people experiencing hunger, around 2.1 billion experiencing moderate or severe food insecurity, and 2.69 billion unable to afford a healthy diet. One person may appear in several categories, so adding their totals would count overlapping populations. The release date is 21 July 2026, and the observation year is 2025. Primary release: https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/
+The FAO-led SOFI 2026 assessment separates three statistical objects that often get conflated in public debate. Hunger is estimated from insufficient dietary energy consumption; moderate or severe food insecurity captures compromised access to food; and inability to afford a healthy diet compares a least-cost nutritionally adequate food basket with an affordability threshold. The units and methods differ. For 2025, the report estimates 645 million people experiencing hunger, around 2.1 billion experiencing moderate or severe food insecurity, and 2.69 billion unable to afford a healthy diet. One person may appear in several categories, so adding their totals would count overlapping populations. The release date is 21 July 2026, and the observation year is 2025. [1]
 
 The time series carries a seeming paradox: the average cost of a healthy diet rose from 3.44 PPP dollars per person per day in 2021 to 4.28 in 2025, while the number unable to afford one fell from 2.97 billion to 2.69 billion. These findings are compatible because the affordability calculation also depends on household purchasing power and distribution. The two numbers do not demonstrate that every poor household became better off, or that nominal food prices declined. Purchasing-power-parity dollars are not US retail prices, and cross-year methodological changes or survey uncertainty must be acknowledged before using the results as direct national treatment effects.
 
@@ -97,17 +97,17 @@ Geographic analysis must avoid converting regional means into assumptions about 
 
 ## Childhood, maternal nutrition and long economic horizons
 
-Early childhood makes the distinction between food quantity and nutritional adequacy especially consequential. SOFI 2026 reports approximately 150 million children under five with stunting and only 30.8% of children aged 6–23 months receiving a minimally diverse diet. Stunting is a population indicator associated with accumulated adverse conditions, not a direct diagnosis of one cause. Poor diet, recurrent infections, maternal health, sanitation and access to health care interact over a child's development. Primary release: https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/
+Early childhood makes the distinction between food quantity and nutritional adequacy especially consequential. SOFI 2026 reports approximately 150 million children under five with stunting and only 30.8% of children aged 6–23 months receiving a minimally diverse diet. Stunting is a population indicator associated with accumulated adverse conditions, not a direct diagnosis of one cause. Poor diet, recurrent infections, maternal health, sanitation and access to health care interact over a child's development. [1]
 
-UNICEF, WHO and World Bank joint estimates provide another measurement system, tracking stunting, wasting, overweight and related indicators across years and regions. They should be used with their age definitions and confidence intervals intact rather than merging incompatible survey waves. Methodological source: https://www.who.int/publications/i/item/9789240112308
+UNICEF, WHO and World Bank joint estimates provide another measurement system, tracking stunting, wasting, overweight and related indicators across years and regions. They should be used with their age definitions and confidence intervals intact rather than merging incompatible survey waves. [4]
 
 The economic horizon exceeds the electoral cycle. A shock during pregnancy or early childhood may be associated with later educational and health differences, but longitudinal evaluation has to control for family income, neighborhood conditions and access to services. This evidence supports analysis of early-life interventions without justifying a specific fiscal return on investment absent local program data. A school meal policy, maternal health service and clean-water project cannot be assumed to have interchangeable effects.
 
 ## Food safety as productive infrastructure
 
-The WHO's revised foodborne-disease estimates were released on 4 June 2026 and describe the burden observed in 2021. They cover 42 food hazards and estimate 866 million illnesses, 1.52 million deaths and US$310 billion in combined productivity and medical losses. The different release and reference years matter: calling these figures 'new 2026 cases' would be incorrect. The WHO emphasizes disproportionate effects on children and populations in lower-income countries. Research note: https://www.who.int/teams/nutrition-and-food-safety/monitoring-nutritional-status-and-food-safety-and-events/foodborne-disease-estimates/2026-edition
+The WHO's revised foodborne-disease estimates were released on 4 June 2026 and describe the burden observed in 2021. They cover 42 food hazards and estimate 866 million illnesses, 1.52 million deaths and US$310 billion in combined productivity and medical losses. The different release and reference years matter: calling these figures 'new 2026 cases' would be incorrect. The WHO emphasizes disproportionate effects on children and populations in lower-income countries. [2]
 
-In 2018, the World Bank separately estimated US$110 billion in annual losses due to unsafe food in low- and middle-income countries. The older figure covers a different geography, model and research period; it cannot be treated as a new additive component of the WHO global US$310 billion estimate. Comparison requires harmonizing geographic scope, cost definitions, currency years and method. Source: https://www.worldbank.org/en/topic/agriculture/publication/the-safe-food-imperative-accelerating-progress-in-low-and-middle-income-countries
+In 2018, the World Bank separately estimated US$110 billion in annual losses due to unsafe food in low- and middle-income countries. The older figure covers a different geography, model and research period; it cannot be treated as a new additive component of the WHO global US$310 billion estimate. Comparison requires harmonizing geographic scope, cost definitions, currency years and method. [5]
 
 ```flow
 Agricultural production → Storage, transport and processing → Retail price and food safety → Household diet → Health and learning → Labour productivity and fiscal capacity
@@ -120,7 +120,7 @@ The arrows identify possible channels rather than statistically proven causal co
 
 Debates around pesticides frequently confuse the intrinsic hazard of an active ingredient, the probability of exposure and the magnitude of health risk. Occupational spraying, contaminated water, drift and residues in food are different exposure pathways, with different duration and dose. A substance's ability to cause harm under a particular experimental condition is not sufficient to estimate harm at population-level exposures. Equally, compliance with one limit cannot establish zero risk under all mixtures and chronic conditions.
 
-Scientific and regulatory analysis should consider the compound, route, duration, susceptible population, biomonitoring evidence and uncertainty around mixture effects. The FAO/WHO Joint Meeting on Pesticide Residues supports international evaluations, while the Codex Alimentarius hosts food-safety standards, including pesticide-residue provisions. National authorities remain responsible for enforceable law, monitoring and worker protections. Sources: https://www.who.int/teams/nutrition-and-food-safety/standards-and-scientific-advice-on-food-and-nutrition/codex-alimentarius and https://www.fao.org/fao-who-codexalimentarius/about-codex
+Scientific and regulatory analysis should consider the compound, route, duration, susceptible population, biomonitoring evidence and uncertainty around mixture effects. The FAO/WHO Joint Meeting on Pesticide Residues supports international evaluations, while the Codex Alimentarius hosts food-safety standards, including pesticide-residue provisions. National authorities remain responsible for enforceable law, monitoring and worker protections. [6, 3]
 
 Economic evaluation also has to address the reasons for chemical use: yield protection, pest pressure, labor cost and the feasibility of alternatives. A restriction may reduce one exposure while shifting costs or encouraging different practices. These possibilities are questions for comparative agricultural, toxicological and labor evidence, not grounds to assume that existing regulation is sufficient or that all pesticide use has the same consequence.
 
@@ -155,7 +155,7 @@ Brazil provides a relevant research setting because agricultural export capacity
 
 Comparisons with import-dependent countries should not assume a common exposure to global grain prices. An exporter may experience currency depreciation, increased farm revenues and more expensive domestic food simultaneously. Consumers and producers occupy different positions in the same shock. Econometric work should specify what is observed, what is a modeled mechanism and what remains a possible confounder.
 
-Relevant public datasets and institutional responsibilities include FAOSTAT (https://www.fao.org/faostat/en/#home), World Bank development indicators (https://data.worldbank.org/), Brazil's IBGE statistics portal (https://www.ibge.gov.br/), and the WHO Global Health Observatory (https://www.who.int/data/gho). These resources offer compatible starting points, but their definitions, reporting delays and sampling frames must be checked before cross-country regressions.
+Relevant public datasets and institutional responsibilities include FAOSTAT [7], World Bank development indicators [8], Brazil's IBGE statistics portal [9], and the WHO Global Health Observatory [10]. These resources offer compatible starting points, but their definitions, reporting delays and sampling frames must be checked before cross-country regressions.
 
 ## Conditions that would change the assessment
 
@@ -164,3 +164,16 @@ The joint supply-and-income interpretation would weaken if consistently measured
 A second uncertainty is substitution: cheaper calories may coincide with less diverse diets, while higher spending on food may reflect prices rather than better nutrition. A third is timing: educational and chronic-disease outcomes can evolve more slowly than market prices. Finally, surveillance gains may increase measured disease incidence before actual risk declines. The correct unit of analysis changes with each proposed mechanism.
 
 Food policy cannot be assessed only by tons harvested, prices on commodity exchanges or export receipts. Its development effect depends on which people can obtain which foods, at which cost, under which sanitary conditions, and with which long-run consequences.
+
+## References
+
+1. FAO et al. (2026). *The State of Food Security and Nutrition in the World 2026: official findings*. [Official source](https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/).
+2. WHO (2026). *Foodborne disease estimates, 2026 edition*. [Official source](https://www.who.int/teams/nutrition-and-food-safety/monitoring-nutritional-status-and-food-safety-and-events/foodborne-disease-estimates/2026-edition).
+3. FAO/WHO. *Codex Alimentarius: institutional overview*. [Official source](https://www.fao.org/fao-who-codexalimentarius/about-codex).
+4. WHO, UNICEF and World Bank. *Joint child malnutrition estimates*. [Official source](https://www.who.int/publications/i/item/9789240112308).
+5. World Bank (2018). *The Safe Food Imperative*. [Official source](https://www.worldbank.org/en/topic/agriculture/publication/the-safe-food-imperative-accelerating-progress-in-low-and-middle-income-countries).
+6. WHO. *Codex Alimentarius: food standards and scientific advice*. [Official source](https://www.who.int/teams/nutrition-and-food-safety/standards-and-scientific-advice-on-food-and-nutrition/codex-alimentarius).
+7. FAO. *FAOSTAT: agriculture and food statistical database*. [Official source](https://www.fao.org/faostat/en/#home).
+8. World Bank. *World Development Indicators: open data*. [Official source](https://data.worldbank.org/).
+9. IBGE. *Brazilian official statistics*. [Official source](https://www.ibge.gov.br/).
+10. WHO. *Global Health Observatory*. [Official source](https://www.who.int/data/gho).

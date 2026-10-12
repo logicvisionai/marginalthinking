@@ -273,3 +273,10 @@ When a finding is useful to a public tool, state the substantive analytical find
 The same rule applies in Portuguese: avoid "a ferramenta pública registra", "o sistema começa a responder", "nesta primeira versão", "implicação para o mapa" and similar metalinguistic construction.
 
 QA treats these product/research boundary violations as blocking failures.
+
+
+## Referências bibliográficas ao final / References at the end
+
+Em novas publicações ou revisões substantivas, cite as fontes no corpo do texto com indicadores numéricos concisos (`[1]`, `[2]`, `[3]`). Reúna dados bibliográficos e links verificáveis numa seção **Referências** ao final da edição portuguesa, depois da conclusão. Evite URLs extensas e blocos de fontes entre as seções analíticas. Reutilize o mesmo número para uma fonte citada novamente; identifique instituição, ano de publicação (quando conhecido) e documento. Gráficos e tabelas devem permanecer rastreáveis às fontes.
+
+For new publications or substantive revisions, use concise numbered source references (`[1]`, `[2]`, `[3]`) within the argument. Place full bibliographic details and source links together in a **References** section at the end of the English text, after the conclusion. Do not insert long raw URLs or separate bibliographies between analytical sections. Reuse citation numbers consistently and distinguish document publication dates from the observation periods shown in charts and tables.

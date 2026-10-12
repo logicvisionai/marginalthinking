@@ -48,9 +48,9 @@
   },
   "url": "/reports/2026/10/2026-10-12-food-affordability-development.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-12T22:10:51.519Z",
+  "qa_reviewed_at": "2026-10-12T22:48:00.468Z",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "0a28655fe210084028bfa980d4da38bfc7b687dc",
+  "qa_reviewed_commit": "97fcb44ce52090016f86cfcc8f0a4ecbba21e346",
   "locales": {
     "en": {
       "markdown": "en.md",
