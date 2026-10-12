@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-12T02:25:55-03:00",
+  "last_reconciled_at": "2026-10-12T22:38:29.120Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -4816,6 +4816,129 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI employment and industrial investment are economic mechanisms, not validated new technical deployment or capability scale."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-12-food-and-biosecurity-release-reconciliation",
+      "reconciled_at": "2026-10-12T22:38:29.120Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-12",
+        "MT-WF-2026-10-12",
+        "MT-GM-2026-10-11",
+        "MT-GM-2026-10-10",
+        "MT-GM-2026-10-09",
+        "MT-GM-2026-10-08",
+        "MT-GM-2026-10-07",
+        "MT-GM-2026-10-06",
+        "MT-GM-2026-10-05",
+        "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+        "MT-WF-2026-10-05",
+        "MT-CC-2026-10-04-lithuania",
+        "MT-CC-2026-10-04-turkiye",
+        "MT-CC-2026-10-04-portugal",
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-03-israel",
+        "MT-CC-2026-10-03-ukraine",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-GM-2026-10-03",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-CC-2026-09-28-singapore",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22",
+        "MT-FS-2026-10-12-healthy-diet-development",
+        "MT-BIO-2026-10-12-livestock-amr"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "Food affordability and veterinary AMR explain plausible economic/health dependencies but do not establish quantified new bilateral reliance, verified directed edges or substitution constraints sufficient to alter the graph."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Potential sanitary/logistics improvements are general policy channels, not a geographically costed and validated opportunity entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "FAO, WHO, WOAH, UNEP and national regulators are named within their existing mandates; no independently verified control, voting, ownership or mandate change requires canonical actor updates."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Livestock scale, agricultural products and nutrition cost estimates do not document a changed ownership or verifiable right over strategic resource capacity."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Policies and counterfactuals are discussed as comparative hypotheses, not externally assessed realized policy cases eligible for inclusion."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "The reports address disease/biosecurity and possible trade shocks, but provide no verified intentional use of chemical/biological agents or attributable armed-conflict event requiring an entry."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "One Health coordination and diagnostic capabilities are institutional developments, without a new independently established breakthrough, demonstrated deployment stage, or material technical capability delta."
         }
       ]
     }
