@@ -125,6 +125,22 @@ Quatro conjuntos contábeis precisam ser preservados. **Reservas cambiais oficia
 
 As relações entre esses conjuntos, porém, podem ser economicamente relevantes. Quando o gestor de reservas soberanas compra títulos em euros, muda a composição de sua demanda; o cotista de ETF altera um balanço privado; um banco internacional que modifica empréstimos em dólares altera exposição a crédito e financiamento. Os três movimentos podem afetar juros, câmbio e condições de liquidez, mas a magnitude depende de contrapartes, alavancagem, profundidade de mercado e operações em sentido oposto. Mudança da participação nas reservas não comprova que o dólar deixou de ser a principal referência de liquidez internacional.
 
+```flow
+Resgates dos fundos de ações domésticas americanas → menor demanda nesse subconjunto, enquanto fundos internacionais recebem aplicações → destino final do capital não identificado
+Treasuries mais rentáveis e dólar fortalecido → maior custo de oportunidade para ouro sem cupom → pressão sobre preço do metal
+Aplicações em ETFs de ouro de longo prazo + redução de posições líquidas em futuros → mais metal mantido, mesmo com queda do preço
+Diversificação das moedas nas reservas oficiais → mudança de composição do COFER → não representa liquidação comprovada de títulos privados americanos
+```
+
+```map
+title: Locais de registro e exposições econômicas diferentes
+Estados Unidos | Fundos do ICI de ações domésticas registraram resgates na semana até 30 de setembro | Domicílio e categoria do fundo não identificam todos os proprietários finais
+Fundos internacionais | Categoria de ações internacionais recebeu entradas semanais positivas | O conjunto não informa países de destino e posições de cada carteira
+Reino Unido | ETFs de ouro listados no país acrescentaram 54 toneladas no trimestre | Listagem não é local obrigatório de custódia nem residência do investidor
+Ásia | ETFs de ouro listados na região captaram cerca de US$ 2,3 bi em setembro | China liderou a demanda regional; totais não constituem fluxos completos por país
+Autoridades monetárias globais | COFER registrou mudanças nas participações das moedas nas reservas em 2026 T2 | Reservas oficiais diferem dos fluxos de carteiras privadas
+```
+
 ## Intermediação não bancária modifica a transmissão dos próximos choques aos emergentes
 
 Pesquisa do FMI publicada em [abril de 2026](https://www.imf.org/en/blogs/articles/2026/04/07/as-emerging-markets-attract-more-nonbank-capital-they-also-face-new-challenges) estimou que os passivos de dívida de carteira frente ao exterior representavam cerca de **15% do PIB, em média, nos mercados emergentes da amostra**, e que instituições financeiras não bancárias respondiam por aproximadamente **80% dessa exposição**. O resultado corresponde ao estoque de *passivos externos de dívida de carteira*, não a 80% de toda a dívida emergente nem ao fluxo semanal de outubro. Ainda assim, indica por que o comportamento de gestores de ativos é importante no financiamento soberano.

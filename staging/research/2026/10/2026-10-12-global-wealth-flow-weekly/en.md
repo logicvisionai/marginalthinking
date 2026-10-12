@@ -125,6 +125,22 @@ Four separate ledgers need to remain separate. **Official FX reserves** represen
 
 The mechanism linking them is nevertheless economically significant. A sovereign reserve manager buying euro-denominated claims alters the composition of official demand; a gold ETF subscriber changes a private fund balance sheet; an international bank changing dollar lending modifies funding and credit exposure. All three can affect exchange rates, yields and funding conditions, but influence varies with size, counterparties, leverage, market depth and the direction of offsetting trades. A net reserve-share change alone cannot establish that the dollar ceased to be the principal international liquidity instrument.
 
+```flow
+U.S. domestic-equity fund redemptions → weaker domestic fund demand, while world-equity funds receive subscriptions → destination of final capital remains unidentified
+Higher Treasury yields and stronger U.S. dollar → more expensive opportunity cost for unremunerated gold → gold price pressure
+Long-term gold ETF subscriptions + falling futures net positioning → physical holdings rise even as the market price declines
+Official reserve currency reallocation → change in COFER composition → not equivalent to an observed liquidation of private U.S. securities
+```
+
+```map
+title: Different reporting locations and economic exposures
+United States | ICI domestic equity funds recorded net redemptions in the week ended 30 September | Fund domicile and classification do not identify every beneficial owner
+World equity funds | International-equity classification received positive weekly inflows | End markets and actual country allocation are not resolved in aggregate ICI data
+United Kingdom | UK-listed gold ETFs added 54 tonnes over the third quarter | Listing jurisdiction is not the custody or investor-residence location
+Asia | Asian-listed gold ETFs attracted about US$2.3bn in September | China led regional buying; region-level totals are not country-by-country portfolio flows
+Global monetary authorities | COFER reported changed currency reserve shares in 2026 Q2 | Official FX assets are separate from private portfolio-flow measures
+```
+
 ## Global nonbank intermediation changes the impact of the next shock
 
 The IMF's [April 2026 financial-stability research](https://www.imf.org/en/blogs/articles/2026/04/07/as-emerging-markets-attract-more-nonbank-capital-they-also-face-new-challenges) found that external portfolio debt liabilities averaged about **15% of GDP** across emerging markets in its analytical sample, and that nonbank financial institutions held roughly **80%** of this exposure. The result concerns a stock of *portfolio debt liabilities*, not 80% of all emerging-market debt, nor an October weekly flow. It nonetheless establishes why the behaviour of asset managers matters to sovereign funding conditions.
