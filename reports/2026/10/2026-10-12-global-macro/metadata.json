@@ -33,7 +33,7 @@
   "cadence": "daily",
   "revision": 0,
   "producer_checks": {
-    "verified_at": "2026-10-12T01:55:17-03:00",
+    "verified_at": "2026-10-12T01:57:18-03:00",
     "primary_sources": [
       "IMF",
       "World Bank Group",
@@ -45,9 +45,9 @@
   },
   "url": "/reports/2026/10/2026-10-12-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-12T01:55:17-03:00",
+  "qa_reviewed_at": "2026-10-12T01:57:18-03:00",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "6bde40748ea7c800c59b9c782571779011b6ba57",
+  "qa_reviewed_commit": "322a5260683ef79ce54b275621b9cf576258bfb3",
   "locales": {
     "en": {
       "markdown": "en.md",

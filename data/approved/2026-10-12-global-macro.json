@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-12",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-12T01:55:17-03:00",
-  "reviewed_commit": "6bde40748ea7c800c59b9c782571779011b6ba57",
+  "reviewed_at": "2026-10-12T01:57:18-03:00",
+  "reviewed_commit": "322a5260683ef79ce54b275621b9cf576258bfb3",
   "pending_blob_sha": "19d7317a7ec4d399cf2c40cd4ac7813206438efb",
   "source_blob_shas": {
     "en": "c670cabc3b7502a4cbc68c54ef14d8d4f6f235eb",
-    "pt-BR": "c1bc4af2c0d46f11f6b576cf655753a22d2e643d"
+    "pt-BR": "91914da65849dff1f547ce33c4f46e648e98b09c"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -40,7 +40,7 @@
     "Analysis precedes 12 October meetings and 13–14 October data releases.",
     "Historical IMF fiscal observations and 2029 projections are not 12 October realized data."
   ],
-  "notes": "Primary sources and bilingual visuals reviewed; staging validation run https://github.com/logicvisionai/marginalthinking/actions/runs/38205500704 successful.",
+  "notes": "PT-BR final sentence corrected to remove self-reference and re-reviewed against original argument; staged sources tied to exact blob SHA. Staging CI 38205500704 passed before editorial change; publication commit revalidation required.",
   "publication": {
     "schema_version": 2,
     "ready": true,

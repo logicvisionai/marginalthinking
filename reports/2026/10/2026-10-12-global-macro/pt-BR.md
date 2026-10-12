@@ -60,7 +60,7 @@ Menor inflação combinada a juros longos mais baixos reduziria várias restriç
 
 A hipótese de restrição fiscal perderia força se as projeções do FMI apontassem menores necessidades de financiamento e juros, acompanhadas de queda persistente nos rendimentos soberanos. O custo da resiliência produtiva seria menor se a oferta de insumos críticos se normalizasse sem novas despesas permanentes ou proteção comercial. Uma expansão ampla do emprego por IA precisaria aparecer em salários, postos de trabalho e produtividade, não apenas em anúncios de adoção e investimentos.
 
-O principal teste desta semana é saber se os dados institucionais reduzem ou ampliam a distância entre a resistência da atividade e seu custo de manutenção. Esta análise antecede os relatórios; não antecipa números que ainda não foram divulgados.
+O principal teste desta semana é saber se os dados institucionais reduzem ou ampliam a distância entre a resistência da atividade e seu custo de manutenção. Os relatórios previstos ainda não estavam disponíveis no horário de corte.
 
 ## Fontes
 
