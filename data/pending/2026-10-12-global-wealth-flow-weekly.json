@@ -1,0 +1,99 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-WF-2026-10-12",
+  "slug": "2026-10-12-global-wealth-flow-weekly",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T01:51:34-03:00",
+  "kind": "weekly-wealth-flow",
+  "priority": 20,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-12-global-wealth-flow-weekly/en.md",
+      "title": "Global Wealth Flow Monitor — 12 October 2026",
+      "deck": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows.",
+      "tags": [
+        "capital flows",
+        "ICI",
+        "money market funds",
+        "gold",
+        "ETFs",
+        "COFER"
+      ],
+      "keywords": [
+        "12 October 2026",
+        "global wealth flows",
+        "ETFs",
+        "money market assets",
+        "gold"
+      ],
+      "regime": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows.",
+      "key_risk": "A negative combined fund-flow reading alongside rebuilding money-market balances may signal more selective risk demand rather than broad-based rotation.",
+      "watch": [
+        "ICI weekly combined long-term fund flows",
+        "ICI weekly money-market assets",
+        "World Gold Council next monthly gold ETF flows",
+        "IMF next quarterly COFER release"
+      ],
+      "search_text": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-12-global-wealth-flow-weekly/pt-BR.md",
+      "title": "Global Wealth Flow Monitor — 12 de outubro de 2026",
+      "deck": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes.",
+      "tags": [
+        "fluxos de capital",
+        "ICI",
+        "fundos monetários",
+        "ouro",
+        "ETFs",
+        "COFER"
+      ],
+      "keywords": [
+        "12 outubro 2026",
+        "fluxos de riqueza",
+        "ETFs",
+        "fundos monetários",
+        "ouro"
+      ],
+      "regime": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes.",
+      "key_risk": "Fluxos combinados negativos e recomposição de fundos monetários podem sinalizar seletividade, não rotação generalizada de risco.",
+      "watch": [
+        "Fluxo semanal combinado do ICI",
+        "Ativos semanais de fundos monetários do ICI",
+        "Próximos fluxos mensais de ETFs de ouro do WGC",
+        "Próxima publicação trimestral COFER do FMI"
+      ],
+      "search_text": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "currencies",
+    "trade-investment",
+    "commodities-resources",
+    "sovereign-debt",
+    "banking-credit",
+    "industry-production"
+  ],
+  "phenomena": [],
+  "format": "monitor",
+  "cadence": "weekly",
+  "revision": 0
+}
