@@ -1,0 +1,109 @@
+{
+  "id": "MT-GM-2026-10-12",
+  "slug": "2026-10-12-global-macro",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T01:51:34-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "industry-production",
+    "institutions-governance"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 0,
+  "producer_checks": {
+    "verified_at": "2026-10-12T01:55:17-03:00",
+    "primary_sources": [
+      "IMF",
+      "World Bank Group",
+      "BLS"
+    ],
+    "bilingual_parity": "checked",
+    "visual_signature": "1 table, 1 chart, 1 flow, 1 map per locale",
+    "novelty": "IMF 12 October research programme and comparative fiscal, resilience and labour mechanisms, distinct from 11 October UNDP."
+  },
+  "url": "/reports/2026/10/2026-10-12-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-12T01:55:17-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "6bde40748ea7c800c59b9c782571779011b6ba57",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Bangkok opens with a test of fiscal capacity, supply-chain resilience and employment",
+      "deck": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment.",
+      "tags": [
+        "global macro",
+        "IMF",
+        "Bangkok",
+        "public debt",
+        "supply chains",
+        "artificial intelligence"
+      ],
+      "keywords": [
+        "12 October 2026",
+        "global macro",
+        "Bangkok IMF World Bank",
+        "debt employment AI"
+      ],
+      "regime": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment.",
+      "key_risk": "Higher borrowing costs may force governments to trade off supply-chain investment against household and workforce support.",
+      "watch": [
+        "IMF presentations on 12 October",
+        "IMF WEO and GFSR on 13 October",
+        "IMF Fiscal Monitor on 14 October",
+        "U.S. September CPI on 14 October"
+      ],
+      "search_text": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — Bangcoc inicia debates sobre dívida, cadeias produtivas e emprego",
+      "deck": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA.",
+      "tags": [
+        "macro global",
+        "FMI",
+        "Bangcoc",
+        "dívida pública",
+        "cadeias produtivas",
+        "inteligência artificial"
+      ],
+      "keywords": [
+        "12 outubro 2026",
+        "macro global",
+        "Bangcoc FMI Banco Mundial",
+        "dívida emprego IA"
+      ],
+      "regime": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA.",
+      "key_risk": "Juros elevados podem obrigar governos a disputar recursos entre cadeias produtivas, famílias e qualificação profissional.",
+      "watch": [
+        "Sessões do FMI em 12 de outubro",
+        "World Economic Outlook e GFSR em 13 de outubro",
+        "Fiscal Monitor em 14 de outubro",
+        "CPI dos EUA em 14 de outubro"
+      ],
+      "search_text": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA."
+    }
+  }
+}
