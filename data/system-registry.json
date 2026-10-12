@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-12",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -628,6 +628,36 @@
       "source_files": [
         "data/reports.json",
         "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-food-systems-development",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "public_route": "/reports/",
+      "source_files": [
+        "data/reports.json",
+        "FOOD-HEALTH-BIOSECURITY-EDITORIAL.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-biosecurity-livestock-governance",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "public_route": "/reports/",
+      "source_files": [
+        "data/reports.json",
+        "FOOD-HEALTH-BIOSECURITY-EDITORIAL.md"
       ],
       "update_mode": "event-driven",
       "reconciliation_required": false,
