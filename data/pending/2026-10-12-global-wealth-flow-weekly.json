@@ -11,15 +11,17 @@
   "sources": {
     "en": {
       "markdown": "staging/research/2026/10/2026-10-12-global-wealth-flow-weekly/en.md",
-      "title": "Global Wealth Flow Monitor — 12 October 2026",
-      "deck": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows.",
+      "title": "Global Wealth Flow Monitor — diverging US fund demand, gold positioning and reserve diversification",
+      "deck": "US domestic equity outflows contrasted with world-equity inflows, money-market funds rebuilt liquidity, and gold ETF purchases diverged from Treasury yields and futures positioning.",
       "tags": [
         "capital flows",
         "ICI",
         "money market funds",
         "gold",
         "ETFs",
-        "COFER"
+        "COFER",
+        "futures positioning",
+        "nonbank intermediation"
       ],
       "keywords": [
         "12 October 2026",
@@ -28,27 +30,32 @@
         "money market assets",
         "gold"
       ],
-      "regime": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows.",
+      "regime": "Selective risk demand: volatile fund flows, large liquid buffers, positive physical gold ETF buying, and gradual official reserve diversification.",
       "key_risk": "A negative combined fund-flow reading alongside rebuilding money-market balances may signal more selective risk demand rather than broad-based rotation.",
       "watch": [
         "ICI weekly combined long-term fund flows",
         "ICI weekly money-market assets",
         "World Gold Council next monthly gold ETF flows",
-        "IMF next quarterly COFER release"
+        "IMF next quarterly COFER release",
+        "Domestic versus world equity and credit fund flow decomposition",
+        "Treasury yields and dollar index",
+        "COMEX managed-money gold positions"
       ],
       "search_text": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows."
     },
     "pt-BR": {
       "markdown": "staging/research/2026/10/2026-10-12-global-wealth-flow-weekly/pt-BR.md",
-      "title": "Global Wealth Flow Monitor — 12 de outubro de 2026",
-      "deck": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes.",
+      "title": "Global Wealth Flow Monitor — fluxos americanos divergentes, ouro e diversificação de reservas",
+      "deck": "Saídas de ações americanas contrastaram com entradas em fundos internacionais, fundos monetários recompuseram liquidez e ETFs de ouro divergiram de juros e futuros.",
       "tags": [
         "fluxos de capital",
         "ICI",
         "fundos monetários",
         "ouro",
         "ETFs",
-        "COFER"
+        "COFER",
+        "posições de futuros",
+        "intermediação não bancária"
       ],
       "keywords": [
         "12 outubro 2026",
@@ -57,13 +64,16 @@
         "fundos monetários",
         "ouro"
       ],
-      "regime": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes.",
+      "regime": "Demanda seletiva: fluxos voláteis, liquidez elevada, compras de ETFs de ouro físico e diversificação oficial gradual.",
       "key_risk": "Fluxos combinados negativos e recomposição de fundos monetários podem sinalizar seletividade, não rotação generalizada de risco.",
       "watch": [
         "Fluxo semanal combinado do ICI",
         "Ativos semanais de fundos monetários do ICI",
         "Próximos fluxos mensais de ETFs de ouro do WGC",
-        "Próxima publicação trimestral COFER do FMI"
+        "Próxima publicação trimestral COFER do FMI",
+        "Fluxos de ações domésticas e internacionais e crédito",
+        "Treasuries e índice dólar",
+        "Posições de ouro dos gestores no COMEX"
       ],
       "search_text": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes."
     }
@@ -95,5 +105,5 @@
   "phenomena": [],
   "format": "monitor",
   "cadence": "weekly",
-  "revision": 0
+  "revision": 1
 }
