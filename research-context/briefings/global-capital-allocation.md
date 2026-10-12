@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-10-08  
+**Last reviewed:** 2026-10-12  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -59,6 +59,14 @@ These channels should not be collapsed into a single measure of "capital control
 The durable shift is not a wholesale relocation of the existing financial stock. It is a change in the composition of marginal investment toward infrastructure with high physical, technological and regulatory barriers. This increases the value of electricity, grid access, processing capacity, compute infrastructure and qualified industrial supply chains.
 
 ## What changed since last review
+
+### 2026-10-12
+
+- **Changed:** the 12 October wealth-flow report separates physical gold-ETF subscriptions and holdings from COMEX managed-money and futures-spread positions; the instruments have different owners and accounting meanings, so their notional values cannot be combined or used as a direct decomposition of gold-price changes.
+- **Changed:** fund investment-objective labels and exchange-listing locations do not identify beneficial-owner residence or the ultimate destination of capital. Validate underlying holdings and custody before attributing geographic reallocation.
+- **Unchanged:** mutual-fund flows, ETF issuance, money-market asset stocks, official reserves and bank claims are not additive measures of a single global wealth transfer.
+- **Watch:** comparable periods, classification revisions, investor geography and the difference between physical holdings and derivatives positioning.
+
 
 ### 2026-10-08
 
@@ -118,6 +126,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - When do persistent portfolio outflows become a financing constraint rather than merely a change in market positioning?
 
 ## Related Marginal Thinking research
+
+- `MT-WF-2026-10-12` — geographic fund attribution and gold ETF/futures separation; reverify ICI, WGC and relevant exchange data before public reuse.
 
 - `MT-GM-2026-10-08` — sovereign auction absorption versus persistent long-duration capital competition from public debt and AI infrastructure; source is the canonical 8 October report.
 - `MT-TS-2026-10-05-ai-abundance-infrastructure-concentration` — AI infrastructure scarcity, grid capacity and rent concentration; see also `ai-software-labor-rent-shift.md`.
