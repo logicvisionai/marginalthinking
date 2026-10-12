@@ -17,7 +17,7 @@
     "prepare:copy": "node scripts/apply-institutional-copy.mjs",
     "validate:pipeline": "node scripts/validate-pipeline.mjs",
     "validate:series": "node scripts/validate-series.mjs",
-    "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:series && npm run validate:policy-cases && npm run validate:system-registry && npm run validate:resource-control",
+    "validate": "npm run validate:pipeline && node scripts/validate-research.mjs && npm run validate:series && npm run validate:policy-cases && npm run validate:system-registry && npm run validate:resource-control && npm run validate:editorial-depth",
     "render": "npm run prepare:copy && node scripts/render-site.mjs",
     "mcp:catalog": "node scripts/render-mcp-catalog.mjs",
     "validate:dist": "node scripts/validate-dist.mjs",
@@ -25,6 +25,7 @@
     "validate:policy-cases": "node scripts/validate-policy-cases.mjs",
     "validate:system-registry": "node scripts/validate-system-registry.mjs",
     "audit:freshness": "node scripts/audit-system-freshness.mjs",
-    "validate:resource-control": "node scripts/validate-resource-control-atlas.mjs"
+    "validate:resource-control": "node scripts/validate-resource-control-atlas.mjs",
+    "validate:editorial-depth": "node scripts/validate-editorial-depth.mjs"
   }
 }

@@ -308,3 +308,20 @@ The website research pipeline publishes HTML and Markdown. PDF, DOCX and XLSX ar
 ### Visual validation
 
 From the effective date in `RESEARCH-VISUALS.md`, `scripts/validate-pipeline.mjs` blocks new staged research that misses the visual-evidence floor or EN/PT-BR visual parity. `scripts/validate-research.mjs` applies the same gate to public bundles. This makes visual completeness a build invariant rather than a prompt preference.
+
+## Substantive editorial acceptance standard (effective 12 October 2026)
+
+A successful build, a valid metadata record, a visually compliant article, or a QA sidecar is **not** evidence of research quality. Revised publications from 12 October onward and future new publications are subject to an additional substantive gate before approval and public promotion.
+
+- **Research question and novelty:** identify what changed relative to the last canonical issue; reject rewrites that only substitute a new date or meeting agenda for an economic finding.
+- **Evidence matrix and vintage:** maintain a source-level record of instrument, observation date, release date, geographic scope, stock/flow, nominal/real basis, and whether a number is observed, estimated, modelled or scheduled. Confirm source support for each material numerical or institutional claim.
+- **Mechanism and competing interpretations:** show the transmission between at least two observable variables, relevant time lags, an adverse or opposite explanation, and evidence that would disconfirm the preferred interpretation.
+- **Multiregional scope for global macro:** cover primary monetary areas and major transmission links, without manufacturing country-level numbers. A narrow institutional calendar item should instead be published as a data note.
+- **Wealth-flow reconciliation:** distinguish private fund estimates, official reserves, gold, banking claims and productive investment. Do not add unmatched stocks and flows or infer final beneficial owners from asset listings or custody locations.
+- **Figures must carry evidence:** maintain labelled units and periods; avoid charts of two unrelated facts and maps that imply coordinates or trade exposures unsupported by sources.
+- **English/Portuguese parity:** numerical series, dates, qualifications, and inferential claims must match; a fluent translation can still be analytically unfaithful.
+- **Independent editorial decision:** QA approval needs explicit `checks.research_depth`, `checks.evidence_traceability` and `checks.counterfactual_review` with `result: "passed"`, concrete source/methodology findings and residual limitations. Automated checks are minimum diagnostics and do not replace human-level factual scrutiny.
+- **Depth without padding:** substantive prose includes explanation, calibration, regional distinctions and falsifiers. Mere word count, more sources or more graphs never proves acceptance. A short item can be published as a brief or data note only when its taxonomy and scope honestly reflect the work, not when padding a full monitor.
+
+`npm run validate:editorial-depth` provides a deterministic minimum gate for revised 12 October items and later material. Its source and word thresholds detect some superficial outputs, but the scientific acceptance decision remains evidence-led. These rules do not retroactively alter previously approved immutable revisions without a new QA/publication cycle.
+
