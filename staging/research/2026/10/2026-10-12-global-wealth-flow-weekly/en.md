@@ -147,41 +147,6 @@ A proper cross-border test should compare observed nonresident bond and equity f
 These are monitoring conditions, **not numerical probability forecasts or portfolio recommendations**. The next high-frequency ICI release can test a short-run reversal; quarterly COFER cannot resolve the same question with the same clock. A stronger claim about movement of worldwide productive wealth would require changes in ownership and investment of real assets—production facilities, infrastructure, concessions and new capacity—not just market prices or investment-fund subscriptions.
 
 
-## Gold ETFs gained metal as the value of their assets declined
-
-The World Gold Council's **7 October** monthly report documents **$10 billion** of global gold-ETF inflows in September and a **67-tonne** increase in holdings to a record **4,256 tonnes**. The quarter brought a record **$31 billion** in inflows. Yet assets under management fell about **7%** month on month to **$574 billion**, because price changes can dominate the dollar value of an expanding physical holding.
-
-That divergence separates three concepts often conflated in market commentary: cash subscribed to a fund, the quantity of gold held on behalf of investors, and the market value of the holding. A fall in the third does not negate an increase in the first two. The gold ETF figures cannot be combined with ICI's U.S. all-asset-class ETF estimates: geographical coverage, fund universes, reporting windows and investment categories differ.
-
-The WGC attributes a particularly strong quarter to UK-listed gold ETFs, while Europe and North America both attracted capital and Asian funds added approximately **$2.3 billion in September**. Regional listings identify where fund shares are domiciled, not where the final beneficial owners necessarily live or where the underlying metal is physically stored.
-
-```map
-title: Geographic distribution of reported gold-ETF demand
-United Kingdom | UK-listed funds recorded their strongest quarter | Listing location is not the end investor's nationality
-Europe | Regional funds attracted inflows in Q3 | Regional flows are a subset of global gold-ETF demand
-North America | Listed funds also received inflows | Dollar value is affected by subscriptions and metal-price changes
-Asia | Asian funds added about $2.3bn in September | China was the largest regional contributor; other markets also bought
-```
-
-## Official reserve diversification remains a separate ledger
-
-The IMF's latest COFER release relates to **2026 Q2**, not to the week ended 7 October. It showed aggregate foreign-exchange reserves of about **$13.22 trillion** and the dollar representing about **56.70%** of reported reserves, with the euro at **20.60%**. The IMF attributed much of the euro increase to purchases rather than simply exchange-rate movements. Those are official reserve *claims*, not ETF shares, and COFER excludes monetary gold. The quarterly data provide context for diversification but cannot validate or explain the weekly fund flows.
-
-```flow
-Traditional U.S. long-term fund redemptions > ETF net issuance → small negative combined weekly flow
-U.S. money-market stock increases → liquid balances remain large → broad de-risking cannot be inferred without wider positions
-Gold-ETF subscriptions + new physical holdings → quantity of gold held rises → AUM can still fall when gold prices decline
-Official COFER currency claims → quarterly reserve composition → cannot be added to private ETF or money-market flows
-```
-
-The most defensible interpretation is selectivity: investors continue to create ETF shares and purchase gold exposure, while liquidity holdings are large and broad long-term fund demand has weakened relative to the prior week. No single asset-class narrative captures all three channels.
-
-## Tests for the next release cycle
-
-The next ICI combined release will determine whether negative aggregate long-term flows persist or reverse. The next money-market release will show whether the 7 October increase was temporary. Future WGC monthly observations can distinguish sustained physical demand from a one-month addition; future COFER data can confirm or weaken evidence of official-sector currency diversification. The U.S. Treasury's scheduled [TIC releases](https://home.treasury.gov/data/treasury-international-capital-tic-system) provide a different, cross-border securities perspective and must be interpreted with their own lag and coverage.
-
-If ETF issuance exceeds mutual-fund redemptions again while money-market assets remain high, wrapper choice—not a general departure from liquidity—will remain the stronger explanation. If both long-term flows and gold-ETF purchases weaken for several observations, diversification may be narrower than this week's data suggest. These are conditional tests, not investment instructions.
-
 ## Sources
 
 1. [Investment Company Institute, Combined Estimated Long-Term Flows and ETF Net Issuance](https://www.ici.org/research/stats/combined_flows), released 7 October 2026, week ended 30 September.

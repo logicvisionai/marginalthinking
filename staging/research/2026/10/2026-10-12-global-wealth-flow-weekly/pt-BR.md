@@ -147,41 +147,6 @@ O teste transfronteiriço adequado precisa comparar fluxos efetivos de títulos 
 As condições são **testes de acompanhamento**, não probabilidades calculadas nem recomendações de carteira. O próximo levantamento semanal do ICI pode confirmar ou refutar uma reversão de curto prazo; o COFER trimestral não responde à mesma pergunta no mesmo calendário. Qualquer tese sobre transferência global de riqueza produtiva precisaria examinar titularidade e investimento em ativos reais — fábricas, infraestrutura, concessões e capacidade operacional — e não apenas oscilações de cotas e de preços.
 
 
-## ETFs de ouro acumularam metal mesmo com queda no valor dos ativos
-
-O relatório mensal do World Gold Council, publicado em **7 de outubro**, registra **US$ 10 bilhões** de entradas globais em ETFs de ouro durante setembro e aumento de **67 toneladas** nos estoques, para o recorde de **4.256 toneladas**. No trimestre, as entradas atingiram o recorde de **US$ 31 bilhões**. Ainda assim, o patrimônio sob gestão caiu aproximadamente **7%** no mês, para **US$ 574 bilhões**, pois a mudança de preço pode dominar o valor monetário de um estoque físico crescente.
-
-A diferença separa três variáveis frequentemente confundidas: dinheiro aplicado no fundo, quantidade de ouro mantida em nome dos investidores e valor de mercado dessa posição. A queda da terceira não anula o crescimento das duas primeiras. Tampouco se podem somar ETFs globais de ouro às emissões americanas de ETFs de todas as classes registradas pelo ICI: geografias, universos, períodos e categorias são diferentes.
-
-Segundo o WGC, ETFs de ouro listados no Reino Unido tiveram trimestre especialmente forte, enquanto Europa e América do Norte receberam recursos e os fundos asiáticos captaram aproximadamente **US$ 2,3 bilhões em setembro**. O país ou a região de listagem informa a jurisdição do veículo, não necessariamente a residência do investidor final nem o local de custódia do metal.
-
-```map
-title: Distribuição geográfica da demanda reportada por ETFs de ouro
-Reino Unido | Fundos listados no país tiveram seu trimestre mais forte | Local de listagem não equivale à nacionalidade do investidor
-Europa | Fundos da região receberam entradas no terceiro trimestre | Fluxos regionais são subconjuntos da demanda global
-América do Norte | Fundos listados na região também captaram | Valor em dólares depende de aplicações e mudanças no preço do metal
-Ásia | Fundos asiáticos captaram cerca de US$ 2,3 bi em setembro | China liderou na região, mas houve compras em outros mercados
-```
-
-## Diversificação de reservas oficiais pertence a outro conjunto de contas
-
-A publicação COFER mais recente do FMI refere-se ao **segundo trimestre de 2026**, não à semana encerrada em 7 de outubro. O levantamento indicava cerca de **US$ 13,22 trilhões** em reservas cambiais globais, com participação aproximada de **56,70% do dólar** e **20,60% do euro**. O Fundo atribuiu boa parte do aumento do euro a compras, e não somente ao câmbio. São créditos de reservas *oficiais*, não cotas de ETF, e a metodologia COFER exclui ouro monetário. Os dados trimestrais contextualizam a diversificação, mas não explicam os fluxos semanais.
-
-```flow
-Resgates em fundos americanos de longo prazo > emissões de ETFs → pequeno fluxo semanal combinado negativo
-Aumento do estoque em fundos monetários americanos → liquidez segue elevada → fuga generalizada de risco não está demonstrada
-Novos aportes em ETFs de ouro + aumento das reservas físicas dos fundos → maior quantidade mantida → patrimônio pode cair se o preço do ouro recuar
-Reservas cambiais oficiais medidas pelo COFER → composição trimestral → não se somam aos fluxos privados de ETFs ou fundos monetários
-```
-
-A interpretação mais sustentada pelos dados é de seletividade: investidores continuam criando cotas de ETFs e adquirindo exposição ao ouro, enquanto o estoque de liquidez permanece elevado e a demanda agregada por fundos de longo prazo enfraqueceu em relação à semana anterior. Nenhuma classe de ativos, isoladamente, resume esse quadro.
-
-## O que observar nas próximas divulgações
-
-A próxima estatística combinada do ICI mostrará se o saldo negativo de fundos de longo prazo persiste ou se reverte. Os próximos números de fundos monetários indicarão se a recomposição de 7 de outubro foi temporária. Novos relatórios mensais do WGC poderão separar demanda física duradoura de uma alta isolada; futuras edições do COFER testarão a diversificação oficial entre moedas. Os dados de [Treasury International Capital](https://home.treasury.gov/data/treasury-international-capital-tic-system) abordam outro aspecto, o de títulos transfronteiriços, com defasagem e escopo próprios.
-
-Se a emissão de ETFs voltar a superar resgates de fundos mútuos enquanto os ativos monetários continuarem elevados, a preferência pelo veículo será explicação mais forte do que uma saída geral da liquidez. Se fluxos de longo prazo e compras de ETFs de ouro enfraquecerem em várias observações, a diversificação poderá ser mais restrita do que sugere o conjunto atual. São testes condicionais, não instruções de investimento.
-
 ## Fontes
 
 1. [Investment Company Institute, Combined Estimated Long-Term Flows and ETF Net Issuance](https://www.ici.org/research/stats/combined_flows), divulgado em 7 de outubro de 2026, semana até 30 de setembro.
