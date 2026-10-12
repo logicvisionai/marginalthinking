@@ -2,16 +2,16 @@
   "schema_version": 2,
   "id": "MT-WF-2026-10-12",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-12T01:55:17-03:00",
-  "reviewed_commit": "6bde40748ea7c800c59b9c782571779011b6ba57",
-  "pending_blob_sha": "8a65a833eb671b504a4685ca3455cadd3737e4ca",
+  "reviewed_at": "2026-10-12T02:25:55-03:00",
+  "reviewed_commit": "ec51075b827c28fbaccb1459265a70924b0cdd5c",
+  "pending_blob_sha": "01f3f4344339dbb0b97b17d3d4d862557147d302",
   "source_blob_shas": {
-    "en": "3a4e09945e1d703db2e6574626999d61e6cdff4b",
-    "pt-BR": "9e7d1aa16d3691a9f7ed51641652aef24796c58b"
+    "en": "ecdc40c18e123b7cb52050b117ce72b6ef8f7fa8",
+    "pt-BR": "ef4b3677b03791389fa7cf71e728d323f543da01"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
-  "confidence": "high",
+  "confidence": "medium",
   "checks": {
     "factual_methodology": {
       "result": "passed_with_cutoff_limits",
@@ -23,24 +23,42 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Full EN/PT-BR semantic parity and research prose; staging build and validation success."
+      "summary": "Both language editions substantively revised; numerically equivalent charts; staging GitHub Actions run 38207542797 passed."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "signature": "1 table, 2 charts, 1 flow, 1 map per locale",
-      "summary": "Quantities and units reproduced from referenced research, dates distinguish estimates, forecasts and scheduled events; bilingual parity."
+      "summary": "Numerical visual parity EN/PT-BR, units and period labels, source-linked tables, geographic mechanism and causal flow.",
+      "signature": "3 evidence tables + 6 charts + 1 flow + 1 map each locale"
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2485,
+        "pt-BR": 2812
+      },
+      "summary": "Five-week flow series, equity domicile, bond breakdown, money-market stock, gold-ETF/futures divergence, COFER currency shares and nonbank emerging-market funding with alternative tests."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "ICI releases 7/8 October, WGC gold ETF and market report 7 October, IMF September 30 COFER and IMF April analysis; observation versus release clocks and statistical universes reconciled."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Wrapper rotation, world versus domestic equity, cash stock, futures versus gold ETFs and COFER valuation/transaction distinctions all include falsifying conditions."
     }
   },
   "contrary_evidence": [
-    "One negative combined flow week is not a persistent trend.",
-    "Money-market balances do not census world liquidity.",
-    "Gold ETF holdings and subscriptions can rise while AUM falls."
+    "Weekly ICI signs reverse three times in five observations; the latest negative figure cannot establish secular flight.",
+    "U.S. domestic-equity withdrawals coincide with world-equity inflows and positive bonds.",
+    "Gold ETF demand and COMEX positioning have divergent signed changes.",
+    "COFER dollar share changes are not mechanically outright dollar sales."
   ],
   "limitations": [
-    "Different data universes and time windows for ICI combined flows, ICI money-market assets and WGC gold ETFs.",
-    "IMF COFER is quarterly, excludes monetary gold, and does not capture private ETF holdings."
+    "ICI estimates limited to U.S. fund universe and are revisable; cash/long-term reporting weeks differ.",
+    "Gold-backed ETF, futures positions and official FX reserves have distinct populations.",
+    "COFER Q2 data exclude monetary gold, and listing is not beneficial ownership."
   ],
-  "notes": "Primary sources and bilingual visuals reviewed; staging validation run https://github.com/logicvisionai/marginalthinking/actions/runs/38205500704 successful.",
+  "notes": "Substantive revision 1 supersedes shallow edition. First-party numbers and visual EN/PT parity checked; successful staging CI 38207542797. No external independent peer-review claim.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -54,15 +72,17 @@
     "sources": {
       "en": {
         "markdown": "staging/research/2026/10/2026-10-12-global-wealth-flow-weekly/en.md",
-        "title": "Global Wealth Flow Monitor — 12 October 2026",
-        "deck": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows.",
+        "title": "Global Wealth Flow Monitor — diverging US fund demand, gold positioning and reserve diversification",
+        "deck": "US domestic equity outflows contrasted with world-equity inflows, money-market funds rebuilt liquidity, and gold ETF purchases diverged from Treasury yields and futures positioning.",
         "tags": [
           "capital flows",
           "ICI",
           "money market funds",
           "gold",
           "ETFs",
-          "COFER"
+          "COFER",
+          "futures positioning",
+          "nonbank intermediation"
         ],
         "keywords": [
           "12 October 2026",
@@ -71,27 +91,32 @@
           "money market assets",
           "gold"
         ],
-        "regime": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows.",
+        "regime": "Selective risk demand: volatile fund flows, large liquid buffers, positive physical gold ETF buying, and gradual official reserve diversification.",
         "key_risk": "A negative combined fund-flow reading alongside rebuilding money-market balances may signal more selective risk demand rather than broad-based rotation.",
         "watch": [
           "ICI weekly combined long-term fund flows",
           "ICI weekly money-market assets",
           "World Gold Council next monthly gold ETF flows",
-          "IMF next quarterly COFER release"
+          "IMF next quarterly COFER release",
+          "Domestic versus world equity and credit fund flow decomposition",
+          "Treasury yields and dollar index",
+          "COMEX managed-money gold positions"
         ],
         "search_text": "Long-term U.S. fund flows turned slightly negative as ETF issuance fell short of mutual-fund withdrawals; money-market assets rose to $7.96tn and gold ETFs still attracted inflows."
       },
       "pt-BR": {
         "markdown": "staging/research/2026/10/2026-10-12-global-wealth-flow-weekly/pt-BR.md",
-        "title": "Global Wealth Flow Monitor — 12 de outubro de 2026",
-        "deck": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes.",
+        "title": "Global Wealth Flow Monitor — fluxos americanos divergentes, ouro e diversificação de reservas",
+        "deck": "Saídas de ações americanas contrastaram com entradas em fundos internacionais, fundos monetários recompuseram liquidez e ETFs de ouro divergiram de juros e futuros.",
         "tags": [
           "fluxos de capital",
           "ICI",
           "fundos monetários",
           "ouro",
           "ETFs",
-          "COFER"
+          "COFER",
+          "posições de futuros",
+          "intermediação não bancária"
         ],
         "keywords": [
           "12 outubro 2026",
@@ -100,13 +125,16 @@
           "fundos monetários",
           "ouro"
         ],
-        "regime": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes.",
+        "regime": "Demanda seletiva: fluxos voláteis, liquidez elevada, compras de ETFs de ouro físico e diversificação oficial gradual.",
         "key_risk": "Fluxos combinados negativos e recomposição de fundos monetários podem sinalizar seletividade, não rotação generalizada de risco.",
         "watch": [
           "Fluxo semanal combinado do ICI",
           "Ativos semanais de fundos monetários do ICI",
           "Próximos fluxos mensais de ETFs de ouro do WGC",
-          "Próxima publicação trimestral COFER do FMI"
+          "Próxima publicação trimestral COFER do FMI",
+          "Fluxos de ações domésticas e internacionais e crédito",
+          "Treasuries e índice dólar",
+          "Posições de ouro dos gestores no COMEX"
         ],
         "search_text": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes."
       }
@@ -138,6 +166,6 @@
     "phenomena": [],
     "format": "monitor",
     "cadence": "weekly",
-    "revision": 0
+    "revision": 1
   }
 }

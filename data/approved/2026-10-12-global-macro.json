@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-12",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-12T01:57:18-03:00",
-  "reviewed_commit": "322a5260683ef79ce54b275621b9cf576258bfb3",
-  "pending_blob_sha": "19d7317a7ec4d399cf2c40cd4ac7813206438efb",
+  "reviewed_at": "2026-10-12T02:25:55-03:00",
+  "reviewed_commit": "ec51075b827c28fbaccb1459265a70924b0cdd5c",
+  "pending_blob_sha": "ec8d8ee87b9e36f6091af1cedbf890061cf981b9",
   "source_blob_shas": {
-    "en": "c670cabc3b7502a4cbc68c54ef14d8d4f6f235eb",
-    "pt-BR": "91914da65849dff1f547ce33c4f46e648e98b09c"
+    "en": "7bac93184593ed6c84f74400e8db32a263321bed",
+    "pt-BR": "ef266e95f6e6fb34eaf5ea428c70bb117ae039c9"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -23,24 +23,43 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Full EN/PT-BR semantic parity and research prose; staging build and validation success."
+      "summary": "Both language editions substantively revised; numerically equivalent charts; staging GitHub Actions run 38207542797 passed."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "signature": "1 table, 1 chart, 1 flow, 1 map per locale",
-      "summary": "Quantities and units reproduced from referenced research, dates distinguish estimates, forecasts and scheduled events; bilingual parity."
+      "summary": "Numerical visual parity EN/PT-BR, units and period labels, source-linked tables, geographic mechanism and causal flow.",
+      "signature": "3 evidence tables + 3 charts + 1 flow + 1 map each locale"
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2407,
+        "pt-BR": 2526
+      },
+      "summary": "Fed/ECB policy divergence, Eurostat energy inflation, BLS September employment, IBGE IPCA, global debt and financial-stability transmission, four falsifiable scenarios."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Official primary releases: Fed September 16, ECB September 10, Eurostat October 2 flash, BLS October 2, IBGE October 9, IMF fiscal and GFSR April; forthcoming events not presented as outcomes."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Energy easing, persistent imported inflation, nonbank funding repricing and productivity improvements are competing conditional paths with discriminating evidence."
     }
   },
   "contrary_evidence": [
-    "Global debt figures conceal heterogeneous financing conditions.",
-    "Redundant supply chains can raise operating costs.",
-    "Financial repression can displace private credit."
+    "September Eurostat flash does not alone invalidate September ECB full-year projections.",
+    "Lower energy import prices would moderate pressure even without a rate cut.",
+    "Higher long-bond yields can result from productivity or term premiums as well as fiscal risk.",
+    "Asia AI labour-market questions are not observations of China-specific employment."
   ],
   "limitations": [
-    "Analysis precedes 12 October meetings and 13–14 October data releases.",
-    "Historical IMF fiscal observations and 2029 projections are not 12 October realized data."
+    "Historical, estimated, projected and scheduled observations labelled separately.",
+    "IMF global debt-at-risk is a conditional tail quantile, not a forecast average.",
+    "Inflation component rates and survey series are not automatically additive.",
+    "China-specific macro observations not manufactured from an Asian research agenda."
   ],
-  "notes": "PT-BR final sentence corrected to remove self-reference and re-reviewed against original argument; staged sources tied to exact blob SHA. Staging CI 38205500704 passed before editorial change; publication commit revalidation required.",
+  "notes": "Substantive revision 1 supersedes shallow edition. First-party numbers and visual EN/PT parity checked; successful staging CI 38207542797. No external independent peer-review claim.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -54,15 +73,18 @@
     "sources": {
       "en": {
         "markdown": "staging/research/2026/10/2026-10-12-global-macro/en.md",
-        "title": "Global Macro — Bangkok opens with a test of fiscal capacity, supply-chain resilience and employment",
-        "deck": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment.",
+        "title": "Global Macro — inflation divergence, sovereign finance and supply-chain constraints before Bangkok",
+        "deck": "Fed and ECB tightening, euro-area inflation at 3.8%, weaker US hiring and high sovereign debt frame the IMF–World Bank meetings and the week's coming data.",
         "tags": [
           "global macro",
           "IMF",
           "Bangkok",
           "public debt",
           "supply chains",
-          "artificial intelligence"
+          "artificial intelligence",
+          "ECB",
+          "Federal Reserve",
+          "inflation"
         ],
         "keywords": [
           "12 October 2026",
@@ -70,27 +92,32 @@
           "Bangkok IMF World Bank",
           "debt employment AI"
         ],
-        "regime": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment.",
+        "regime": "Divergent inflation and growth with constrained fiscal buffers and supply shocks; regional monetary transmission differs.",
         "key_risk": "Higher borrowing costs may force governments to trade off supply-chain investment against household and workforce support.",
         "watch": [
           "IMF presentations on 12 October",
           "IMF WEO and GFSR on 13 October",
           "IMF Fiscal Monitor on 14 October",
-          "U.S. September CPI on 14 October"
+          "U.S. September CPI on 14 October",
+          "Eurostat full September HICP release 16 October",
+          "Sovereign spreads and nonbank funding stress"
         ],
         "search_text": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment."
       },
       "pt-BR": {
         "markdown": "staging/research/2026/10/2026-10-12-global-macro/pt-BR.md",
-        "title": "Macro Global — Bangcoc inicia debates sobre dívida, cadeias produtivas e emprego",
-        "deck": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA.",
+        "title": "Macro Global — divergência inflacionária, dívida e restrições produtivas antes de Bangcoc",
+        "deck": "Aperto monetário do Fed e BCE, inflação europeia de 3,8%, contratações fracas nos EUA e dívida elevada condicionam as reuniões e os novos indicadores.",
         "tags": [
           "macro global",
           "FMI",
           "Bangcoc",
           "dívida pública",
           "cadeias produtivas",
-          "inteligência artificial"
+          "inteligência artificial",
+          "BCE",
+          "Federal Reserve",
+          "inflação"
         ],
         "keywords": [
           "12 outubro 2026",
@@ -98,13 +125,15 @@
           "Bangcoc FMI Banco Mundial",
           "dívida emprego IA"
         ],
-        "regime": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA.",
+        "regime": "Inflação e atividade divergentes, restrições fiscais e choques de oferta; transmissão monetária varia entre regiões.",
         "key_risk": "Juros elevados podem obrigar governos a disputar recursos entre cadeias produtivas, famílias e qualificação profissional.",
         "watch": [
           "Sessões do FMI em 12 de outubro",
           "World Economic Outlook e GFSR em 13 de outubro",
           "Fiscal Monitor em 14 de outubro",
-          "CPI dos EUA em 14 de outubro"
+          "CPI dos EUA em 14 de outubro",
+          "Inflação final da zona do euro em 16 de outubro",
+          "Spreads soberanos e financiamento de não bancos"
         ],
         "search_text": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA."
       }
@@ -134,6 +163,6 @@
     "phenomena": [],
     "format": "brief",
     "cadence": "daily",
-    "revision": 0
+    "revision": 1
   }
 }

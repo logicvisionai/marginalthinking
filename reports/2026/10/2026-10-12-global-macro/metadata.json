@@ -31,35 +31,38 @@
   "phenomena": [],
   "format": "brief",
   "cadence": "daily",
-  "revision": 0,
+  "revision": 1,
   "producer_checks": {
-    "verified_at": "2026-10-12T01:57:18-03:00",
-    "primary_sources": [
-      "IMF",
-      "World Bank Group",
-      "BLS"
-    ],
-    "bilingual_parity": "checked",
-    "visual_signature": "1 table, 1 chart, 1 flow, 1 map per locale",
-    "novelty": "IMF 12 October research programme and comparative fiscal, resilience and labour mechanisms, distinct from 11 October UNDP."
+    "verified_at": "2026-10-12T02:25:55-03:00",
+    "bilingual_parity": "numbers-and-mechanisms-matched",
+    "research_word_counts": {
+      "en": 2407,
+      "pt-BR": 2526
+    },
+    "source_check": "primary releases",
+    "novelty": "Fed/ECB policy divergence, Eurostat energy inflation, BLS September employment, IBGE IPCA, global debt and financial-stability transmission, four falsifiable scenarios.",
+    "visual_signature": "3 evidence tables + 3 charts + 1 flow + 1 map each locale"
   },
   "url": "/reports/2026/10/2026-10-12-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-12T01:57:18-03:00",
+  "qa_reviewed_at": "2026-10-12T02:25:55-03:00",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "322a5260683ef79ce54b275621b9cf576258bfb3",
+  "qa_reviewed_commit": "ec51075b827c28fbaccb1459265a70924b0cdd5c",
   "locales": {
     "en": {
       "markdown": "en.md",
-      "title": "Global Macro — Bangkok opens with a test of fiscal capacity, supply-chain resilience and employment",
-      "deck": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment.",
+      "title": "Global Macro — inflation divergence, sovereign finance and supply-chain constraints before Bangkok",
+      "deck": "Fed and ECB tightening, euro-area inflation at 3.8%, weaker US hiring and high sovereign debt frame the IMF–World Bank meetings and the week's coming data.",
       "tags": [
         "global macro",
         "IMF",
         "Bangkok",
         "public debt",
         "supply chains",
-        "artificial intelligence"
+        "artificial intelligence",
+        "ECB",
+        "Federal Reserve",
+        "inflation"
       ],
       "keywords": [
         "12 October 2026",
@@ -67,27 +70,32 @@
         "Bangkok IMF World Bank",
         "debt employment AI"
       ],
-      "regime": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment.",
+      "regime": "Divergent inflation and growth with constrained fiscal buffers and supply shocks; regional monetary transmission differs.",
       "key_risk": "Higher borrowing costs may force governments to trade off supply-chain investment against household and workforce support.",
       "watch": [
         "IMF presentations on 12 October",
         "IMF WEO and GFSR on 13 October",
         "IMF Fiscal Monitor on 14 October",
-        "U.S. September CPI on 14 October"
+        "U.S. September CPI on 14 October",
+        "Eurostat full September HICP release 16 October",
+        "Sovereign spreads and nonbank funding stress"
       ],
       "search_text": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment."
     },
     "pt-BR": {
       "markdown": "pt-BR.md",
-      "title": "Macro Global — Bangcoc inicia debates sobre dívida, cadeias produtivas e emprego",
-      "deck": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA.",
+      "title": "Macro Global — divergência inflacionária, dívida e restrições produtivas antes de Bangcoc",
+      "deck": "Aperto monetário do Fed e BCE, inflação europeia de 3,8%, contratações fracas nos EUA e dívida elevada condicionam as reuniões e os novos indicadores.",
       "tags": [
         "macro global",
         "FMI",
         "Bangcoc",
         "dívida pública",
         "cadeias produtivas",
-        "inteligência artificial"
+        "inteligência artificial",
+        "BCE",
+        "Federal Reserve",
+        "inflação"
       ],
       "keywords": [
         "12 outubro 2026",
@@ -95,13 +103,15 @@
         "Bangcoc FMI Banco Mundial",
         "dívida emprego IA"
       ],
-      "regime": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA.",
+      "regime": "Inflação e atividade divergentes, restrições fiscais e choques de oferta; transmissão monetária varia entre regiões.",
       "key_risk": "Juros elevados podem obrigar governos a disputar recursos entre cadeias produtivas, famílias e qualificação profissional.",
       "watch": [
         "Sessões do FMI em 12 de outubro",
         "World Economic Outlook e GFSR em 13 de outubro",
         "Fiscal Monitor em 14 de outubro",
-        "CPI dos EUA em 14 de outubro"
+        "CPI dos EUA em 14 de outubro",
+        "Inflação final da zona do euro em 16 de outubro",
+        "Spreads soberanos e financiamento de não bancos"
       ],
       "search_text": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA."
     }
