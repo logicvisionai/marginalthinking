@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "id": "MT-BIO-2026-10-12-livestock-amr",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-12T22:10:52.036Z",
+  "reviewed_commit": "0a28655fe210084028bfa980d4da38bfc7b687dc",
+  "pending_blob_sha": "498e9f0b45a555368dda767068f9c4f0fd8f9339",
+  "source_blob_shas": {
+    "en": "7e074eef7ff6baf046a941431a2053184a450421",
+    "pt-BR": "d517c3dd4ecf337a8c86ce4a312556159f795caf"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Verified primary reporting dates and statistical universes: FAO SOFI 2026 or WHO GLASS 2025 and WOAH 2025, UNEP and treaty oversight as applicable."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Full bilingual texts checked for unit, date, mechanism and visual parity; new reports meet substantive depth checks."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two numeric charts, multiple tables, causal flow and qualitative geography per locale; numeric series compared exactly."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2663,
+        "pt-BR": 2758
+      },
+      "summary": "Full causal, political economy, distributional, uncertainty, policy comparison and falsifiability sections."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "At least eight distinct URLs and four source domains per locale; source claims tied to primary institutional releases."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explicit rival interpretations, falsifying evidence and measurement limitations."
+    }
+  },
+  "contrary_evidence": [
+    "More reported resistant infections can reflect improved microbiological surveillance.",
+    "Lower reported antibiotic use does not by itself establish reduced resistance in humans."
+  ],
+  "limitations": [
+    "Editorial review and deterministic source/visual checks are not external scientific peer review.",
+    "Observational associations do not establish causal attribution.",
+    "Cross-country sources differ in reference periods and data coverage."
+  ],
+  "notes": "Editorial/source and cross-language QA completed during this publication transaction; no claim of independent external peer review. GitHub Actions will additionally check the canonical site build.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-BIO-2026-10-12-livestock-amr",
+    "slug": "2026-10-12-livestock-amr-governance",
+    "date": "2026-10-12",
+    "published_at": "2026-10-12T19:11:00-03:00",
+    "kind": "biosecurity-livestock-governance",
+    "priority": 36,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-12-livestock-amr-governance/en.md",
+        "title": "Livestock production, antimicrobial resistance and institutional risk",
+        "deck": "Animal health and antimicrobial use connect food production, public health, labor, trade and international security. WHO, WOAH and One Health surveillance expose crucial differences between treatment, risk and attribution.",
+        "tags": [
+          "livestock",
+          "antimicrobial resistance",
+          "One Health",
+          "veterinary policy",
+          "food safety"
+        ],
+        "keywords": [
+          "WHO GLASS 2025",
+          "WOAH antimicrobial use",
+          "livestock biosecurity",
+          "AMR",
+          "zoonoses"
+        ],
+        "regime": "Veterinary antimicrobial stewardship and One Health monitoring expand amid uneven evidence and implementation.",
+        "key_risk": "Weak diagnostics or indiscriminate controls conceal resistance while shifting costs toward small farmers and health services.",
+        "watch": [
+          "WHO GLASS surveillance coverage",
+          "WOAH animal antimicrobial use and denominator",
+          "veterinary diagnostics availability",
+          "animal disease notifications",
+          "One Health plan implementation"
+        ],
+        "search_text": "Livestock antibiotics antimicrobial resistance WOAH WHO GLASS One Health food safety international institutions."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-12-livestock-amr-governance/pt-BR.md",
+        "title": "Produção pecuária, resistência antimicrobiana e riscos institucionais",
+        "deck": "Sanidade animal e antimicrobianos conectam produção alimentar, saúde coletiva, trabalho, comércio e segurança internacional. A vigilância OMS, WOAH e Saúde Única distingue tratamento, risco e atribuição.",
+        "tags": [
+          "pecuária",
+          "resistência antimicrobiana",
+          "Saúde Única",
+          "política veterinária",
+          "segurança alimentar"
+        ],
+        "keywords": [
+          "GLASS OMS 2025",
+          "WOAH uso de antimicrobianos",
+          "biossegurança pecuária",
+          "resistência bacteriana",
+          "zoonoses"
+        ],
+        "regime": "Uso responsável na veterinária e vigilância Saúde Única avançam com grande desigualdade de evidência e implementação.",
+        "key_risk": "Diagnósticos precários ou restrições indiscriminadas ocultam resistência e transferem custos a pequenos produtores e serviços de saúde.",
+        "watch": [
+          "cobertura GLASS OMS",
+          "consumo veterinário e denominadores WOAH",
+          "acesso a diagnóstico veterinário",
+          "notificações de doenças animais",
+          "execução Saúde Única"
+        ],
+        "search_text": "Pecuária antibióticos resistência antimicrobiana WOAH OMS GLASS Saúde Única segurança alimentar instituições."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "industry-production",
+      "institutions-governance",
+      "geopolitics-security",
+      "trade-investment",
+      "demography-labor"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "id": "MT-FS-2026-10-12-healthy-diet-development",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-12T22:10:51.519Z",
+  "reviewed_commit": "0a28655fe210084028bfa980d4da38bfc7b687dc",
+  "pending_blob_sha": "a16dabb61f503c4028262916ec1a7774773b28de",
+  "source_blob_shas": {
+    "en": "43bd2825647aa4fbba3eb40c08f46869cc283858",
+    "pt-BR": "b5205edf9f527d4d6269e87e7f40ecd6db4db77f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Verified primary reporting dates and statistical universes: FAO SOFI 2026 or WHO GLASS 2025 and WOAH 2025, UNEP and treaty oversight as applicable."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Full bilingual texts checked for unit, date, mechanism and visual parity; new reports meet substantive depth checks."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two numeric charts, multiple tables, causal flow and qualitative geography per locale; numeric series compared exactly."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2954,
+        "pt-BR": 3135
+      },
+      "summary": "Full causal, political economy, distributional, uncertainty, policy comparison and falsifiability sections."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "At least eight distinct URLs and four source domains per locale; source claims tied to primary institutional releases."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explicit rival interpretations, falsifying evidence and measurement limitations."
+    }
+  },
+  "contrary_evidence": [
+    "Healthful diet costs rose while estimated inability to afford a diet fell; cost alone is insufficient.",
+    "Hunger, food insecurity, foodborne illness and healthy-diet affordability have different denominators."
+  ],
+  "limitations": [
+    "Editorial review and deterministic source/visual checks are not external scientific peer review.",
+    "Observational associations do not establish causal attribution.",
+    "Cross-country sources differ in reference periods and data coverage."
+  ],
+  "notes": "Editorial/source and cross-language QA completed during this publication transaction; no claim of independent external peer review. GitHub Actions will additionally check the canonical site build.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-FS-2026-10-12-healthy-diet-development",
+    "slug": "2026-10-12-food-affordability-development",
+    "date": "2026-10-12",
+    "published_at": "2026-10-12T19:11:00-03:00",
+    "kind": "food-systems-development",
+    "priority": 35,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-12-food-affordability-development/en.md",
+        "title": "The cost of a healthy diet and the economics of development",
+        "deck": "Food output does not guarantee healthy diets. FAO's 2026 price and affordability findings reveal the roles of income, logistics, childhood nutrition, food safety and public institutions.",
+        "tags": [
+          "food security",
+          "nutrition",
+          "development",
+          "health",
+          "political economy"
+        ],
+        "keywords": [
+          "healthy diet cost",
+          "SOFI 2026",
+          "food systems",
+          "foodborne disease",
+          "human capital"
+        ],
+        "regime": "Improving global affordability despite rising healthy-diet costs, with major distributional and regional gaps.",
+        "key_risk": "High production or cheaper calories fail to translate into safe, nutritious diets for low-income households.",
+        "watch": [
+          "food-group retail prices relative to wages",
+          "FAO healthy-diet affordability",
+          "child dietary diversity",
+          "foodborne-disease burden",
+          "post-farmgate logistics costs"
+        ],
+        "search_text": "Food systems nutrition healthy diet costs FAO SOFI 2026 WHO food safety development political economy."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-12-food-affordability-development/pt-BR.md",
+        "title": "O custo de uma dieta saudável e a economia do desenvolvimento",
+        "deck": "A produção agrícola não garante nutrição. Os dados de 2026 da FAO mostram o papel da renda, logística, saúde infantil, inocuidade alimentar e capacidade institucional.",
+        "tags": [
+          "segurança alimentar",
+          "nutrição",
+          "desenvolvimento",
+          "saúde",
+          "economia política"
+        ],
+        "keywords": [
+          "custo dieta saudável",
+          "SOFI 2026",
+          "sistemas alimentares",
+          "doenças alimentares",
+          "capital humano"
+        ],
+        "regime": "Melhora da acessibilidade global apesar do aumento do custo das dietas saudáveis e grandes diferenças regionais.",
+        "key_risk": "Produção elevada ou calorias baratas não asseguram dietas seguras e nutritivas para famílias com renda restrita.",
+        "watch": [
+          "preços por grupos alimentares em relação aos salários",
+          "acessibilidade de dietas saudáveis FAO",
+          "diversidade nutricional infantil",
+          "doenças alimentares",
+          "custos logísticos pós-produção"
+        ],
+        "search_text": "Sistemas alimentares nutrição custo dieta saudável FAO SOFI 2026 OMS economia do desenvolvimento."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "industry-production",
+      "inequality-distribution",
+      "demography-labor",
+      "institutions-governance",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1
+  }
+}

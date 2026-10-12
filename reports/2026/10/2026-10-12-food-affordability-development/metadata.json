@@ -1,0 +1,114 @@
+{
+  "id": "MT-FS-2026-10-12-healthy-diet-development",
+  "slug": "2026-10-12-food-affordability-development",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T19:11:00-03:00",
+  "kind": "food-systems-development",
+  "priority": 35,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "inequality-distribution",
+    "demography-labor",
+    "institutions-governance",
+    "infrastructure-logistics"
+  ],
+  "phenomena": [
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "producer_checks": {
+    "verified_at": "2026-10-12T22:10:51.519Z",
+    "bilingual_parity": "numeric-series-and-mechanisms",
+    "research_word_counts": {
+      "en": 2954,
+      "pt-BR": 3135
+    },
+    "source_check": "primary-institutional-releases",
+    "visual_signature": "3 tables, 2 charts, causal flow and regional map in both languages"
+  },
+  "url": "/reports/2026/10/2026-10-12-food-affordability-development.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-12T22:10:51.519Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "0a28655fe210084028bfa980d4da38bfc7b687dc",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "The cost of a healthy diet and the economics of development",
+      "deck": "Food output does not guarantee healthy diets. FAO's 2026 price and affordability findings reveal the roles of income, logistics, childhood nutrition, food safety and public institutions.",
+      "tags": [
+        "food security",
+        "nutrition",
+        "development",
+        "health",
+        "political economy"
+      ],
+      "keywords": [
+        "healthy diet cost",
+        "SOFI 2026",
+        "food systems",
+        "foodborne disease",
+        "human capital"
+      ],
+      "regime": "Improving global affordability despite rising healthy-diet costs, with major distributional and regional gaps.",
+      "key_risk": "High production or cheaper calories fail to translate into safe, nutritious diets for low-income households.",
+      "watch": [
+        "food-group retail prices relative to wages",
+        "FAO healthy-diet affordability",
+        "child dietary diversity",
+        "foodborne-disease burden",
+        "post-farmgate logistics costs"
+      ],
+      "search_text": "Food systems nutrition healthy diet costs FAO SOFI 2026 WHO food safety development political economy."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "O custo de uma dieta saudável e a economia do desenvolvimento",
+      "deck": "A produção agrícola não garante nutrição. Os dados de 2026 da FAO mostram o papel da renda, logística, saúde infantil, inocuidade alimentar e capacidade institucional.",
+      "tags": [
+        "segurança alimentar",
+        "nutrição",
+        "desenvolvimento",
+        "saúde",
+        "economia política"
+      ],
+      "keywords": [
+        "custo dieta saudável",
+        "SOFI 2026",
+        "sistemas alimentares",
+        "doenças alimentares",
+        "capital humano"
+      ],
+      "regime": "Melhora da acessibilidade global apesar do aumento do custo das dietas saudáveis e grandes diferenças regionais.",
+      "key_risk": "Produção elevada ou calorias baratas não asseguram dietas seguras e nutritivas para famílias com renda restrita.",
+      "watch": [
+        "preços por grupos alimentares em relação aos salários",
+        "acessibilidade de dietas saudáveis FAO",
+        "diversidade nutricional infantil",
+        "doenças alimentares",
+        "custos logísticos pós-produção"
+      ],
+      "search_text": "Sistemas alimentares nutrição custo dieta saudável FAO SOFI 2026 OMS economia do desenvolvimento."
+    }
+  }
+}
