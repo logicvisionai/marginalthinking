@@ -91,7 +91,18 @@ Os caminhos não são exaustivos nem recebem probabilidades inventadas. O cenár
 
 A verificação relevante nos próximos indicadores não será apenas ultrapassar um percentual agregado de crescimento, mas observar se a resistência econômica se estende para além de quem fornece tecnologia ou se beneficia de termos de troca favoráveis. A composição da inflação, o preço da energia entregue, as condições das emissões soberanas e a difusão efetivamente medida de produtividade ajudarão a distinguir convergência de divergência.
 
-undefined## Referências
+## Indicadores econômicos: datas, definições e testes para os cenários
+
+| Fonte | Situação no corte de 13 de outubro | Teste analítico |
+|---|---|---|
+| CPI americano de setembro — BLS, 14 de outubro [6] | Agendado, ainda não observado | A inflação cheia e o núcleo permitem avaliar o repasse de custos |
+| HICP definitivo de setembro na área do euro — Eurostat, 16 de outubro [7] | Agendado; leitura preliminar já publicada | Componentes de energia e serviços indicam mecanismos distintos |
+| IPCA brasileiro de setembro — IBGE, 9 de outubro [8] | Divulgado: +0,82% no mês depois de -0,32% em agosto | Variação doméstica e preços administrados não equivalem ao HICP europeu |
+| Fiscal Monitor do FMI — 14 de outubro [9] | Publicação agendada | Novas bases fiscais podem alterar a leitura de dívida e refinanciamento |
+
+O IPCA do Brasil avançou **0,82% em setembro**, depois de **-0,32% em agosto**, conforme divulgação do IBGE em 9 de outubro. São variações mensais nacionais, e não a inflação mundial anual. Esses valores não devem ser comparados diretamente com a projeção **global de 4,7% para 2026** do FMI. O mecanismo brasileiro de preços administrados também difere da metodologia harmonizada europeia. [8]
+
+## Referências
 
 1. Fundo Monetário Internacional, [World Economic Outlook — comunicado oficial de 13 de outubro de 2026](https://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3). Projeções primárias, exposição estrutural e riscos.
 2. Fundo Monetário Internacional, [World Economic Outlook Update — julho de 2026](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026). Previsão anterior, não resultado observado.
