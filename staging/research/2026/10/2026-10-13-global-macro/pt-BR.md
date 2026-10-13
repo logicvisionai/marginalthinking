@@ -91,10 +91,15 @@ Os caminhos não são exaustivos nem recebem probabilidades inventadas. O cenár
 
 A verificação relevante nos próximos indicadores não será apenas ultrapassar um percentual agregado de crescimento, mas observar se a resistência econômica se estende para além de quem fornece tecnologia ou se beneficia de termos de troca favoráveis. A composição da inflação, o preço da energia entregue, as condições das emissões soberanas e a difusão efetivamente medida de produtividade ajudarão a distinguir convergência de divergência.
 
-## Referências
+undefined## Referências
 
 1. Fundo Monetário Internacional, [World Economic Outlook — comunicado oficial de 13 de outubro de 2026](https://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3). Projeções primárias, exposição estrutural e riscos.
 2. Fundo Monetário Internacional, [World Economic Outlook Update — julho de 2026](https://www.imf.org/en/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026). Previsão anterior, não resultado observado.
 3. Fundo Monetário Internacional, [Global Financial Stability Report — comunicado oficial de 13 de outubro de 2026](https://mediacenter.imf.org/news/imf---global-financial-stability-report-annual-meetings--2026/s/f55368c1-983b-45b7-ba7c-1978f67c168c). Avaliação institucional de risco financeiro.
 4. Fundo Monetário Internacional, [World Economic Outlook de outubro de 2026, capítulo analítico sobre tributação corporativa](https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026). A página pode ser atualizada após a divulgação do relatório integral.
 5. Base do FMI, [World Economic Outlook, dados de outubro de 2026](https://data.imf.org/Datasets/WEO). Fonte para acompanhamento por país, sem inferência de cifras não verificadas.
+
+6. Bureau of Labor Statistics, release calendar. https://www.bls.gov/schedule/2026/10_sched_list.htm
+7. Eurostat, HICP release. https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-17092026-ap
+8. IBGE, IPCA. https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=calendario
+9. IMF, publication calendar. https://data.imf.org/en/Release-Calendar?urn=IMF.RES%3AWEO%286.0.0%29
