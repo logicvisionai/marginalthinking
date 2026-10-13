@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-10-12  
+**Last reviewed:** 2026-10-13  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -59,6 +59,13 @@ These channels should not be collapsed into a single measure of "capital control
 The durable shift is not a wholesale relocation of the existing financial stock. It is a change in the composition of marginal investment toward infrastructure with high physical, technological and regulatory barriers. This increases the value of electricity, grid access, processing capacity, compute infrastructure and qualified industrial supply chains.
 
 ## What changed since last review
+
+### 2026-10-13
+
+- **Nonbank transmission:** redemption promises against illiquid holdings, leverage-linked margin calls and concentrated counterparties can turn a price shock into forced sales. Analyse funds, insurers, pensions, private credit and hedge funds by their actual liquidity terms and exposures rather than treating all nonbanks as one balance sheet. Aggregate stress-test resilience does not establish resilience of every institution.
+- **Operational transmission:** outages in payments, clearing, custody or shared financial service providers can interrupt settlement without an initial borrower-solvency shock. Test redundancy, restoration and concentration of operational dependencies; a cyber scenario is not evidence of an incident.
+- **Verification:** re-open the IMF October 2026 Global Financial Stability Report and relevant supervisory/market-infrastructure disclosures before citing current exposures, incidents or stress-test findings.
+
 
 ### 2026-10-12
 
@@ -128,6 +135,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - When do persistent portfolio outflows become a financing constraint rather than merely a change in market positioning?
 
 ## Related Marginal Thinking research
+
+- `MT-GM-2026-10-13` — IMF October GFSR mechanisms linking sovereign duration, nonbank liquidity and financial-market operational resilience; distinguish stress scenarios from realised disruptions.
 
 - `MT-GM-2026-10-12` — sovereign financing, supply-chain resilience and allocation trade-offs; verify the published IMF research rather than relying on the pre-release agenda.
 - `MT-WF-2026-10-12` — geographic fund attribution and gold ETF/futures separation; reverify ICI, WGC and relevant exchange data before public reuse.
