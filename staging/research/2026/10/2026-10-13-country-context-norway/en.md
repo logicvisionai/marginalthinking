@@ -81,7 +81,17 @@ Norwegian mainland → Nordic power market | Electricity interconnectors transmi
 
 ## 8. Hydropower does not eliminate grid constraints
 
-Statistics Norway recorded 161.8 TWh of electricity generation in 2025, including 145.5 TWh from hydropower and 13.9 TWh from wind. Hydropower accounted for 89.9% of the year's output. Rainfall, reservoir inflows and network conditions make annual generation different from firm electricity available at a specific industrial site. [12]
+Statistics Norway recorded 161.8 TWh of electricity generation in 2025, including 145.5 TWh from hydropower and 13.9 TWh from wind. Hydropower accounted for 89.9% of the year's output.
+
+```chart
+type: bar
+title: Norway electricity generation by source, 2025
+unit: TWh generated; Statistics Norway, reference [12]
+Hydropower | 145.5
+Wind | 13.9
+```
+
+The chart compares the two reported sources, not total generation; other sources account for the remaining output. Rainfall, reservoir inflows and network conditions make annual generation different from firm electricity available at a specific industrial site. [12]
 
 Hydropower reservoirs provide flexibility, but grid capacity, connection queues, environmental licensing and regional price zones constrain industrial expansion. Data centres, electrified manufacturing and transport may compete for network access even when national renewable output is high. Additional generation is not always located where demand grows, and transmission projects require time and social acceptance. Energy policy must therefore distinguish installed capacity, annual production, peak deliverability and the cost of reinforcing physical networks.
 
