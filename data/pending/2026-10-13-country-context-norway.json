@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CC-2026-10-13-norway",
+  "slug": "2026-10-13-country-context-norway",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T10:22:00-03:00",
+  "kind": "country-context",
+  "priority": 18,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-13-country-context-norway/en.md",
+      "title": "Norway: public petroleum wealth and the limits of domestic productive capacity",
+      "deck": "Norway converts offshore resource income into foreign public savings, but parliamentary fiscal decisions, mainland productivity, welfare staffing, housing and power networks determine what the accumulated wealth can deliver.",
+      "tags": [
+        "Norway",
+        "GPFG",
+        "Sovereign Wealth",
+        "Petroleum",
+        "Welfare State",
+        "European Energy",
+        "EEA",
+        "Demography"
+      ],
+      "keywords": [
+        "Norway political economy 2026",
+        "Norway GPFG fiscal rule",
+        "Norway mainland productivity",
+        "Norway oil gas EU",
+        "Norway welfare labour ageing",
+        "Norway housing hydropower"
+      ],
+      "regime": "Petroleum-exporting welfare economy with a large externally invested public fund, parliamentary fiscal guidelines and deep European market integration, constrained by labour, housing and infrastructure capacity.",
+      "key_risk": "Confusing globally invested fund assets with immediately available domestic productive capacity conceals workforce, housing, electricity-grid and resource-depletion constraints.",
+      "watch": [
+        "Structural non-oil deficit and fund withdrawals",
+        "Mainland productivity and non-oil exports",
+        "Health-care labour shortages and ageing",
+        "Housing completions and household debt",
+        "Offshore investment and resource replacement",
+        "Grid connections and regional electricity prices",
+        "EEA access and European gas demand"
+      ],
+      "search_text": "Norway 2026 GPFG NBIM petroleum fiscal rule sovereign wealth Storting mainland GDP welfare ageing migration housing hydropower EU EEA gas exports"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-13-country-context-norway/pt-BR.md",
+      "title": "Noruega: riqueza pública petrolífera e limites da capacidade produtiva doméstica",
+      "deck": "A Noruega transforma renda offshore em poupança pública externa, mas decisões fiscais parlamentares, produtividade continental, pessoal dos serviços, moradia e redes elétricas determinam os resultados do patrimônio acumulado.",
+      "tags": [
+        "Noruega",
+        "GPFG",
+        "Fundo Soberano",
+        "Petróleo",
+        "Estado de Bem-Estar",
+        "Energia Europeia",
+        "EEE",
+        "Demografia"
+      ],
+      "keywords": [
+        "economia política Noruega 2026",
+        "regra fiscal GPFG Noruega",
+        "produtividade continental Noruega",
+        "petróleo gás Noruega UE",
+        "trabalho envelhecimento bem-estar Noruega",
+        "moradia hidreletricidade Noruega"
+      ],
+      "regime": "Economia de bem-estar exportadora de petróleo, com grande fundo público investido externamente, diretriz fiscal parlamentar e integração europeia profunda, limitada por capacidade de trabalho, moradia e infraestrutura.",
+      "key_risk": "Confundir ativos globais do fundo com capacidade produtiva doméstica imediatamente disponível oculta limites de pessoal, moradia, redes elétricas e esgotamento de recursos.",
+      "watch": [
+        "Déficit estrutural não petrolífero e retiradas do fundo",
+        "Produtividade continental e exportações não petrolíferas",
+        "Escassez de profissionais da saúde e envelhecimento",
+        "Moradias concluídas e dívida das famílias",
+        "Investimento offshore e reposição de recursos",
+        "Conexões à rede e preços regionais de eletricidade",
+        "Acesso ao EEE e demanda europeia de gás"
+      ],
+      "search_text": "Noruega 2026 GPFG NBIM petróleo regra fiscal fundo soberano Storting PIB continental bem-estar envelhecimento imigração moradia hidreletricidade UE EEE exportações de gás"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "northern-europe"
+    ],
+    "countries": [
+      {
+        "code": "NO",
+        "slug": "norway"
+      }
+    ]
+  },
+  "topics": [
+    "institutions-governance",
+    "fiscal-policy",
+    "capital-markets",
+    "sovereign-debt",
+    "energy",
+    "industry-production",
+    "trade-investment",
+    "demography-labor",
+    "inequality-distribution",
+    "infrastructure-logistics",
+    "climate-environment",
+    "geopolitics-security",
+    "banking-credit"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "demographic-transition",
+    "strategic-competition"
+  ],
+  "format": "country-dossier",
+  "cadence": "event-driven",
+  "context_role": "country-context",
+  "related_research_ids": [
+    "MT-SA-2026-09-23-NBIM-GPFG",
+    "MT-CS-2026-09-20-EUR-RU-UA",
+    "MT-WF-2026-10-12"
+  ],
+  "selection_rationale": "The published NBIM/GPFG study explains delegated portfolio ownership but not Norway's domestic fiscal, productive and social transmission mechanisms. A broad country context connects its parliamentary budget, offshore revenues, mainland industry, EEA and European gas dependence, labour-intensive welfare state, housing, ageing and electricity networks, adding reusable context to sovereign wealth-flow and European security research.",
+  "contrary_evidence": [
+    "The country's large public financial assets and renewable power base counter a simple fiscal-fragility interpretation, while labour, housing and grid constraints remain material.",
+    "The fund strengthens fiscal resilience but does not directly finance domestic productive capacity; its returns also expose wealth to global markets.",
+    "European gas demand supports export earnings, but resource depletion, demand shifts and regulation limit long-run permanence.",
+    "Population continues growing through births and migration, yet ageing increases care-sector demand and qualification and housing constraints slow labour adjustment."
+  ],
+  "limitations": [
+    "2027 budget amounts are proposals subject to parliamentary approval, not realised spending.",
+    "2026 mainland GDP figures are forecasts from different vintages.",
+    "GPFG allocation is a 30 June 2026 portfolio snapshot, not domestic investment.",
+    "Electricity production refers to 2025 and varies with hydrology.",
+    "Demographic projections depend on fertility, mortality and migration assumptions.",
+    "EU gas-import shares do not measure all European energy use.",
+    "Sámi rights and land-use issues require case-specific evidence and attribution."
+  ]
+}
