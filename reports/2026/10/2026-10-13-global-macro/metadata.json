@@ -1,0 +1,115 @@
+{
+  "id": "MT-GM-2026-10-13",
+  "slug": "2026-10-13-global-macro",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T10:08:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "industry-production",
+    "institutions-governance"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "producer_checks": {
+    "verified_at": "2026-10-13T10:08:00-03:00",
+    "bilingual_parity": "numeric-series-and-mechanisms-verified",
+    "research_word_counts": {
+      "en": 2058,
+      "pt-BR": 2156
+    },
+    "source_check": "primary institutional releases and calendars",
+    "novelty": "IMF October 13 WEO/GFSR new releases, AI investment versus productivity, energy trade and bond-market amplification.",
+    "visual_signature": "3 tables + 2 charts + 1 flow + 1 map in both locales"
+  },
+  "url": "/reports/2026/10/2026-10-13-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-13T10:08:00-03:00",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "e1c6c65a1c8537fa1717a055a558886cd08498f3",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — growth resilience faces a widening divide between technology and energy exposure",
+      "deck": "The IMF now projects 3.1% world growth and 4.7% global inflation in 2026; AI concentration, energy import exposure and sovereign finance frame the risks.",
+      "tags": [
+        "global macro",
+        "IMF",
+        "World Economic Outlook",
+        "GFSR",
+        "artificial intelligence",
+        "energy",
+        "sovereign debt"
+      ],
+      "keywords": [
+        "13 October 2026",
+        "global growth IMF",
+        "AI investment",
+        "bond yields",
+        "energy inflation"
+      ],
+      "regime": "Aggregate resilience with diverging energy, technology and financial exposure.",
+      "key_risk": "AI-market repricing could interact with sovereign bond yields and nonbank liquidity pressure.",
+      "watch": [
+        "IMF Fiscal Monitor, 14 October",
+        "US September CPI, 14 October",
+        "Eurostat September final HICP, 16 October",
+        "Sovereign auctions and financial spreads",
+        "Measured AI productivity and energy delivered costs"
+      ],
+      "search_text": "IMF October 2026 growth projections and differentiated shocks from AI, energy prices, debt and nonbank finance."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — resiliência do crescimento convive com divisão crescente entre tecnologia e energia",
+      "deck": "O FMI projeta crescimento mundial de 3,1% e inflação global de 4,7% em 2026; concentração em IA, energia e dívida soberana organizam os riscos.",
+      "tags": [
+        "macro global",
+        "FMI",
+        "World Economic Outlook",
+        "GFSR",
+        "inteligência artificial",
+        "energia",
+        "dívida soberana"
+      ],
+      "keywords": [
+        "13 outubro 2026",
+        "crescimento mundial FMI",
+        "investimento IA",
+        "juros soberanos",
+        "inflação energia"
+      ],
+      "regime": "Resiliência agregada e divergência nas exposições energética, tecnológica e financeira.",
+      "key_risk": "Reavaliação da IA pode interagir com juros soberanos e pressão de liquidez não bancária.",
+      "watch": [
+        "Fiscal Monitor do FMI, 14 de outubro",
+        "CPI americano de setembro, 14 de outubro",
+        "Inflação final europeia, 16 de outubro",
+        "Leilões soberanos e spreads financeiros",
+        "Produtividade da IA medida e custo da energia entregue"
+      ],
+      "search_text": "Projeções de outubro do FMI e os choques desiguais de IA, energia, dívida e intermediação financeira."
+    }
+  }
+}
