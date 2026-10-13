@@ -91,6 +91,17 @@ These paths are neither exhaustive nor assigned arbitrary probabilities. The IMF
 
 The immediate test for the next releases is not whether the world economy crosses a single growth threshold, but whether its resilience broadens beyond the economies that supply technology or benefit from commodity terms of trade. Inflation composition, delivered energy prices, sovereign issuance conditions and observable productivity diffusion will reveal whether the 2026 aggregate masks a narrowing or widening division.
 
+## Economic indicators: dates, definitions and what can change the assessment
+
+| Source | Status as of 13 October | Analytical test |
+|---|---|---|
+| US September CPI — BLS, 14 October [6] | Scheduled, not yet an observation | Breadth of headline versus underlying price pressure |
+| Euro-area September final HICP — Eurostat, 16 October [7] | Scheduled final reading | Energy versus services transmission |
+| Brazil September IPCA — IBGE, 9 October [8] | Released: +0.82% m/m versus -0.32% in August | Domestic administered-price effects versus import shock |
+| IMF Fiscal Monitor — 14 October [9] | Scheduled, not yet an observation | Sovereign financing baseline and sensitivity to higher yields |
+
+Brazil's September IPCA increase of **0.82%**, after **-0.32%** in August, was reported by IBGE on 9 October. Those are monthly readings for Brazil, not annual global inflation observations. The index should neither be equated to euro-area HICP nor compared directly with the IMF's annual **4.7% global** inflation projection. These distinctions prevent a superficially uniform energy narrative from substituting for the relevant statistical definitions. [8]
+
 ## Sources
 
 1. International Monetary Fund, [World Economic Outlook — IMF release, 13 October 2026](https://mediacenter.imf.org/news/imf---world-economic-outlook-annual-meetings--2026/s/22f94667-d194-473b-87b2-34c692b5a5a3). Primary release; forecasts for growth and global inflation, structural exposure and risk qualifications.
@@ -98,3 +109,8 @@ The immediate test for the next releases is not whether the world economy crosse
 3. International Monetary Fund, [Global Financial Stability Report — IMF release, 13 October 2026](https://mediacenter.imf.org/news/imf---global-financial-stability-report-annual-meetings--2026/s/f55368c1-983b-45b7-ba7c-1978f67c168c). Official financial stability risk assessment.
 4. International Monetary Fund, [World Economic Outlook October 2026, analytical chapter on corporate income taxation](https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026). October analytical work; webpage may update as full report is released.
 5. IMF Data, [World Economic Outlook dataset, October 2026](https://data.imf.org/Datasets/WEO). Database for country-level follow-up; no unsourced country figures are inferred.
+
+6. Bureau of Labor Statistics, release calendar. https://www.bls.gov/schedule/2026/10_sched_list.htm
+7. Eurostat, HICP release. https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-17092026-ap
+8. IBGE, IPCA. https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?t=calendario
+9. IMF, publication calendar. https://data.imf.org/en/Release-Calendar?urn=IMF.RES%3AWEO%286.0.0%29
