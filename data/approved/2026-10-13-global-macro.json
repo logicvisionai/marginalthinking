@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-13",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-13T10:08:00-03:00",
+  "reviewed_commit": "e1c6c65a1c8537fa1717a055a558886cd08498f3",
+  "pending_blob_sha": "3b495953e0a2da2a7d4b44017faffee46d442c38",
+  "source_blob_shas": {
+    "en": "8ec355d145fbfe71e802a13e40384d65b65728f3",
+    "pt-BR": "3a79876d2e575a94ba5ed1ca53962f0efa6f5a71"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "IMF 13 October 2026 primary WEO and GFSR releases cross-checked with July WEO and scheduled statistical calendars; forecasts, calendar events and realised observations kept distinct."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "English and Brazilian Portuguese analytical structure checked; no conversational framing or internal product roadmap; source references placed after body."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Three auditable tables, two matched numerical charts, two causal lines and one qualitative geographic exposure map per locale; numeric series and units verified."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2058,
+        "pt-BR": 2156
+      },
+      "summary": "Energy-trade transmission, technology investment versus productivity, sovereign duration and nonbank liquidity mismatches, distributional mechanisms and scenario falsifiers."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Nine distinct first-party URLs across six institutional hosts per language; October WEO/GFSR IMF, July IMF, BLS release schedule, Eurostat, IBGE and IMF release calendar."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explicit conditional paths for AI productivity, AI valuation disappointment, persistent energy shock and financial stress, with discriminating indicators."
+    }
+  },
+  "contrary_evidence": [
+    "A higher world growth forecast can reflect forecast assumptions and investment spending rather than observed productivity.",
+    "Energy exporters and technology importers may show mixed outcomes; broad regional labels alone cannot identify winners and losers.",
+    "Higher long-term sovereign yields can result from expectations and term premia without demonstrating a fiscal solvency event.",
+    "IMF stress tests show aggregate banking resilience while identifying a weaker-institution tail."
+  ],
+  "limitations": [
+    "Annual growth and inflation forecasts are not actual full-year observations.",
+    "Risk channels in the IMF GFSR are scenarios, not evidence of a realised shock on publication day.",
+    "No country-specific 2026 WEO forecasts were inferred from general IMF media commentary.",
+    "Editorial checking was conducted within this workflow; no claim of independent external peer review.",
+    "No 13 October closing prices or intraday market metrics were asserted."
+  ],
+  "notes": "Bilingual QA on reviewed Git blobs, linked source verification and exact numeric visual parity; no external independent review claim. Build and live-site checks remain separate operational gates.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-13",
+    "slug": "2026-10-13-global-macro",
+    "date": "2026-10-13",
+    "published_at": "2026-10-13T10:08:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-13-global-macro/en.md",
+        "title": "Global Macro — growth resilience faces a widening divide between technology and energy exposure",
+        "deck": "The IMF now projects 3.1% world growth and 4.7% global inflation in 2026; AI concentration, energy import exposure and sovereign finance frame the risks.",
+        "tags": [
+          "global macro",
+          "IMF",
+          "World Economic Outlook",
+          "GFSR",
+          "artificial intelligence",
+          "energy",
+          "sovereign debt"
+        ],
+        "keywords": [
+          "13 October 2026",
+          "global growth IMF",
+          "AI investment",
+          "bond yields",
+          "energy inflation"
+        ],
+        "regime": "Aggregate resilience with diverging energy, technology and financial exposure.",
+        "key_risk": "AI-market repricing could interact with sovereign bond yields and nonbank liquidity pressure.",
+        "watch": [
+          "IMF Fiscal Monitor, 14 October",
+          "US September CPI, 14 October",
+          "Eurostat September final HICP, 16 October",
+          "Sovereign auctions and financial spreads",
+          "Measured AI productivity and energy delivered costs"
+        ],
+        "search_text": "IMF October 2026 growth projections and differentiated shocks from AI, energy prices, debt and nonbank finance."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-13-global-macro/pt-BR.md",
+        "title": "Macro Global — resiliência do crescimento convive com divisão crescente entre tecnologia e energia",
+        "deck": "O FMI projeta crescimento mundial de 3,1% e inflação global de 4,7% em 2026; concentração em IA, energia e dívida soberana organizam os riscos.",
+        "tags": [
+          "macro global",
+          "FMI",
+          "World Economic Outlook",
+          "GFSR",
+          "inteligência artificial",
+          "energia",
+          "dívida soberana"
+        ],
+        "keywords": [
+          "13 outubro 2026",
+          "crescimento mundial FMI",
+          "investimento IA",
+          "juros soberanos",
+          "inflação energia"
+        ],
+        "regime": "Resiliência agregada e divergência nas exposições energética, tecnológica e financeira.",
+        "key_risk": "Reavaliação da IA pode interagir com juros soberanos e pressão de liquidez não bancária.",
+        "watch": [
+          "Fiscal Monitor do FMI, 14 de outubro",
+          "CPI americano de setembro, 14 de outubro",
+          "Inflação final europeia, 16 de outubro",
+          "Leilões soberanos e spreads financeiros",
+          "Produtividade da IA medida e custo da energia entregue"
+        ],
+        "search_text": "Projeções de outubro do FMI e os choques desiguais de IA, energia, dívida e intermediação financeira."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "industry-production",
+      "institutions-governance"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1
+  }
+}
