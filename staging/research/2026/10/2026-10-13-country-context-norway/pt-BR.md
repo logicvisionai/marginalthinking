@@ -81,7 +81,17 @@ Economia continental → Mercado elétrico nórdico | Interconectores transmitem
 
 ## 8. A hidreletricidade não elimina limites de rede
 
-A Statistics Norway registrou 161,8 TWh de geração elétrica em 2025, incluindo 145,5 TWh hidrelétricos e 13,9 TWh eólicos. A hidreletricidade respondeu por 89,9% da produção anual. Chuva, afluência aos reservatórios e condições da rede tornam a geração anual diferente da potência firme disponível em um local industrial específico. [12]
+A Statistics Norway registrou 161,8 TWh de geração elétrica em 2025, incluindo 145,5 TWh hidrelétricos e 13,9 TWh eólicos. A hidreletricidade respondeu por 89,9% da produção anual.
+
+```chart
+type: bar
+title: Geração elétrica norueguesa por fonte, 2025
+unit: TWh gerados; Statistics Norway, referência [12]
+Hidrelétrica | 145.5
+Eólica | 13.9
+```
+
+O gráfico compara as duas fontes informadas, não o total produzido; outras fontes correspondem ao restante da geração. Chuva, afluência aos reservatórios e condições da rede tornam a geração anual diferente da potência firme disponível em um local industrial específico. [12]
 
 Os reservatórios oferecem flexibilidade, mas capacidade de transmissão, filas de conexão, licenciamento ambiental e zonas regionais de preço limitam a expansão industrial. Centros de dados, manufatura eletrificada e transporte podem disputar acesso à rede mesmo quando a geração renovável nacional é alta. A produção adicional nem sempre fica onde a demanda cresce, e projetos de transmissão exigem tempo e aceitação social. A política energética deve distinguir potência instalada, produção anual, capacidade de entrega nos picos e custo de reforçar redes físicas.
 
