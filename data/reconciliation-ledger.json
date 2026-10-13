@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-12T22:38:29.120Z",
+  "last_reconciled_at": "2026-10-13T23:27:07.353Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -4939,6 +4939,130 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "One Health coordination and diagnostic capabilities are institutional developments, without a new independently established breakthrough, demonstrated deployment stage, or material technical capability delta."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-13-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-10-13T23:27:07.353Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-13",
+        "MT-GM-2026-10-12",
+        "MT-WF-2026-10-12",
+        "MT-GM-2026-10-11",
+        "MT-GM-2026-10-10",
+        "MT-GM-2026-10-09",
+        "MT-GM-2026-10-08",
+        "MT-GM-2026-10-07",
+        "MT-GM-2026-10-06",
+        "MT-GM-2026-10-05",
+        "MT-TSE-2026-10-05-intelligence-abundance-human-question",
+        "MT-TS-2026-10-05-ai-abundance-infrastructure-concentration",
+        "MT-WF-2026-10-05",
+        "MT-CC-2026-10-04-lithuania",
+        "MT-CC-2026-10-04-turkiye",
+        "MT-CC-2026-10-04-portugal",
+        "MT-GM-2026-10-04",
+        "MT-CC-2026-10-03-israel",
+        "MT-CC-2026-10-03-ukraine",
+        "MT-CC-2026-10-03-germany",
+        "MT-CC-2026-10-03-poland",
+        "MT-GM-2026-10-03",
+        "MT-GM-2026-10-02",
+        "MT-GM-2026-10-01",
+        "MT-GM-2026-09-30",
+        "MT-ST-2026-09-29-iraq-2026-state-capacity",
+        "MT-GM-2026-09-29",
+        "MT-ST-2026-09-28-hong-kong-institutional-financial-transition",
+        "MT-CC-2026-09-28-singapore",
+        "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
+        "MT-ST-2026-09-28-north-korea-post-pandemic",
+        "MT-ST-2026-09-28-afghanistan-post-2021",
+        "MT-WF-2026-09-28",
+        "MT-GM-2026-09-28",
+        "MT-CC-2026-09-27-france",
+        "MT-GM-2026-09-27",
+        "MT-GM-2026-09-26",
+        "MT-CC-2026-09-26-united-states",
+        "MT-GM-2026-09-25",
+        "MT-GM-2026-09-24",
+        "MT-SA-2026-09-23-NEW-DEVELOPMENT-BANK",
+        "MT-SA-2026-09-23-IMF",
+        "MT-SA-2026-09-23-EUROSYSTEM",
+        "MT-SA-2026-09-23-FEDERAL-RESERVE",
+        "MT-SA-2026-09-23-ASML",
+        "MT-SA-2026-09-23-GLENCORE",
+        "MT-SA-2026-09-23-TRAFIGURA",
+        "MT-SA-2026-09-23-TEMASEK",
+        "MT-SA-2026-09-23-MUBADALA",
+        "MT-SA-2026-09-23-PIF",
+        "MT-SA-2026-09-23-NBIM-GPFG",
+        "MT-SA-2026-09-23-BLACKROCK",
+        "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY",
+        "MT-PE-2026-09-23-BOLIVIA-1985-STABILIZATION",
+        "MT-PE-2026-09-23-ISRAEL-1985-STABILIZATION",
+        "MT-PE-2026-09-23-MERCOSUR",
+        "MT-GS-2026-09-23-BRICS",
+        "MT-CC-2026-09-23-venezuela",
+        "MT-CC-2026-09-23-uruguay",
+        "MT-CC-2026-09-23-paraguay",
+        "MT-CC-2026-09-23-bolivia",
+        "MT-CC-2026-09-23-argentina",
+        "MT-CC-2026-09-23-iran",
+        "MT-CC-2026-09-23-saudi-arabia-deep",
+        "MT-CC-2026-09-23-uae",
+        "MT-CC-2026-09-23-indonesia",
+        "MT-CC-2026-09-23-ethiopia",
+        "MT-CC-2026-09-23-egypt",
+        "MT-CC-2026-09-23-south-africa",
+        "MT-CC-2026-09-23-brazil",
+        "MT-CC-2026-09-23-india",
+        "MT-CC-2026-09-23-china",
+        "MT-CC-2026-09-23-russia",
+        "MT-EP-2026-09-23-PROGRAMMABLE-MARKETS",
+        "MT-GM-2026-09-23",
+        "MT-PE-2026-09-22-REAL-URV",
+        "MT-GMFI-2026-09-22-LICDSF",
+        "MT-GMFI-2026-09-22",
+        "MT-GM-2026-09-22",
+        "MT-FS-2026-10-12-healthy-diet-development",
+        "MT-BIO-2026-10-12-livestock-amr"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The October IMF WEO and GFSR inform macro-financial links among energy, technology, public finance and nonbank leverage. Their global risk narratives do not by themselves verify a new named bilateral dependency, measured substitutability or directed edge suitable for the canonical network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The global comparison of energy import exposure, AI investment and sovereign borrowing conditions does not document a bounded country-specific intervention with implementation costs and attribution sufficient to create a structural-opportunity record."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The October IMF releases update forecasts and systemic risk analysis; the report identifies no newly verified ownership, governance mandate, voting-right or control relationship for an actor in the registry."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Energy and compute-infrastructure exposure are discussed as macroeconomic mechanisms, without source-level evidence of a new durable change in physical reserves, operating rights, controllers or capacity fields."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The IMF projections and macroeconomic scenario branches are neither a newly implemented policy experiment nor a bounded completed intervention with independently evidenced outcomes."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Supply-chain disruption and geopolitical energy exposure are considered without an independently documented new armed-conflict event, attributable actor action, or source-bounded conflict mechanism meeting the conflict-system record contract."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI-related capital expenditure and potential productivity effects are economically material but forecast analysis alone does not prove a newly deployed technical capability, maturity transition or measured productivity breakthrough."
         }
       ]
     }
