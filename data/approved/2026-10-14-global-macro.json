@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-14",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-14T10:07:35.062Z",
+  "reviewed_commit": "fb11a47d1c0a978d7a587d4a398371abd08dfcde",
+  "pending_blob_sha": "f33761ecad8f80635aa49dbc002715adcc0f87e9",
+  "source_blob_shas": {
+    "en": "17bcc22ac0ad135e9dd8f366aa5229d248dbec6f",
+    "pt-BR": "82d0df040b37386379786ae99c3327faf7d447b9"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "IMF Fiscal Monitor 14 October official statement; 6 October analytical chapter; EIA 6 October winter outlook; BLS August CPI and October release calendar. Release time and forecasts distinguished from observed statistics; unverified intraday prices excluded."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "English-first and Portuguese editions reviewed for clear argument continuity, non-conversational prose, distinct evidence and inference, and final-only references. No internal publication or product roadmap material."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain three comparable evidentiary tables, two signed/numeric bar charts, one causal flow, one qualitative geographic exposure map and one mechanism mindmap. Numerical chart arrays and interpretation checked for parity."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2479,
+        "pt-BR": 2657
+      },
+      "summary": "Fiscal incidence and refinancing, cross-fuel household energy expenditure heterogeneity, CPI measures and release chronology, bond-yield decomposition, conditional scenarios and falsifying evidence."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Eight distinct primary-source references per locale; IMF, US BLS, and EIA official publications; original research cut off before US September CPI."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Alternatives explicitly consider narrow versus broad inflation, targeted versus open-ended relief, durable versus transitory energy costs, and stable sovereign refinancing."
+    }
+  },
+  "contrary_evidence": [
+    "The EIA projects lower winter spending for households primarily using natural gas and propane; a generalised energy-bill increase is not supported.",
+    "The August core CPI increase was lower than the headline, so energy-driven inflation does not on its own establish broad price persistence.",
+    "Higher bond yields can reflect expected rates, issuance supply or term premia without demonstrating a realised solvency crisis.",
+    "Fiscal relief may be effective and sustainable when temporary, well targeted and adequately financed."
+  ],
+  "limitations": [
+    "US September 2026 CPI had not been released at the research cutoff; no CPI forecast was presented as a measurement.",
+    "EIA winter bills are population-specific forecasts, not actual household expenses or weights for a national inflation index.",
+    "IMF policy recommendations are attributed to the institution, not asserted as universally optimal policy.",
+    "No October 14 intraday market prices, auctions, policy decisions or political developments were independently verified.",
+    "Editorial checking conducted in this workflow, not independent external peer review. Automated CI build and public-deployment checks are separate operational gates."
+  ],
+  "notes": "Content and visual source review tied to exact Git blobs; publication conditional on unchanged sidecar and EN/PT text; keep sources at report end.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-14",
+    "slug": "2026-10-14-global-macro",
+    "date": "2026-10-14",
+    "published_at": "2026-10-14T07:01:33-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-14-global-macro/en.md",
+        "title": "Global Macro — fiscal constraints meet uneven energy costs before the US inflation release",
+        "deck": "The IMF's October 14 fiscal warning intersects with divergent US winter heating expenses and a still-pending September CPI release; debt refinancing and household incidence are the core transmission channels.",
+        "tags": [
+          "global macro",
+          "IMF Fiscal Monitor",
+          "energy bills",
+          "US inflation",
+          "sovereign refinancing",
+          "distribution"
+        ],
+        "keywords": [
+          "14 October 2026",
+          "US September CPI schedule",
+          "EIA winter fuel expenditure forecasts",
+          "public debt fiscal risk",
+          "inflation pass-through"
+        ],
+        "regime": "Fiscal risks are elevated while the incidence of energy costs differs by household fuel, geography and financing conditions.",
+        "key_risk": "Persistent energy costs and higher sovereign refinancing yields can constrain effective household protection.",
+        "watch": [
+          "US CPI and real earnings — 14 October, 08:30 ET",
+          "US PPI — 15 October",
+          "US import/export prices — 16 October",
+          "EIA winter forecast updates and inventories",
+          "Sovereign issuance and debt maturity profile"
+        ],
+        "search_text": "IMF Fiscal Monitor October 14 2026; differentiated household heating costs; pre-release US September CPI; sovereign refinancing and targeted fiscal relief."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-14-global-macro/pt-BR.md",
+        "title": "Macro Global — restrições fiscais e custos desiguais de energia antes do CPI americano",
+        "deck": "O alerta fiscal do FMI em 14 de outubro converge com projeções divergentes de gastos domésticos de energia e a divulgação ainda pendente do CPI americano; refinanciamento e distribuição dos custos são os canais centrais.",
+        "tags": [
+          "macro global",
+          "Fiscal Monitor do FMI",
+          "contas de energia",
+          "inflação americana",
+          "rolagem soberana",
+          "distribuição"
+        ],
+        "keywords": [
+          "14 outubro 2026",
+          "calendário CPI americano setembro",
+          "projeções EIA gastos energia inverno",
+          "risco fiscal dívida pública",
+          "transmissão inflacionária"
+        ],
+        "regime": "Riscos fiscais elevados coexistem com impactos energéticos distintos por combustível, geografia e condições financeiras.",
+        "key_risk": "Custos persistentes de energia e juros soberanos mais altos podem restringir a proteção das famílias.",
+        "watch": [
+          "CPI e rendimentos reais dos EUA — 14 de outubro, 8h30 ET",
+          "PPI americano — 15 de outubro",
+          "Preços americanos de importação/exportação — 16 de outubro",
+          "Atualizações EIA, inverno e estoques",
+          "Emissões soberanas e perfil de vencimentos"
+        ],
+        "search_text": "Fiscal Monitor 14 outubro 2026; gastos de aquecimento domiciliar por combustível; CPI setembro ainda não divulgado; refinanciamento soberano e proteção focalizada."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "energy",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "producer_checks": {
+      "verified_at": "2026-10-14T07:01:33-03:00",
+      "information_cutoff": "before September 2026 US CPI release at 08:30 ET",
+      "source_check": "BLS, IMF and EIA official primary publications checked",
+      "bilingual_parity": "same numerical series, four sections of tables, mechanisms, assumptions and caveats",
+      "research_word_counts": {
+        "en": 2213,
+        "pt-BR": 2345
+      },
+      "visual_signature": "3 tables + 2 bar charts + 1 flow + 1 map + 1 mindmap in both locales",
+      "novelty": "IMF 14 October Fiscal Monitor fiscal incidence compared with EIA winter household fuel-specific expenditure outlook and the unreleased CPI window."
+    }
+  }
+}
