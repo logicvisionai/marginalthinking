@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-10-13  
+**Last reviewed:** 2026-10-14  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -65,6 +65,14 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - **Nonbank transmission:** redemption promises against illiquid holdings, leverage-linked margin calls and concentrated counterparties can turn a price shock into forced sales. Analyse funds, insurers, pensions, private credit and hedge funds by their actual liquidity terms and exposures rather than treating all nonbanks as one balance sheet. Aggregate stress-test resilience does not establish resilience of every institution.
 - **Operational transmission:** outages in payments, clearing, custody or shared financial service providers can interrupt settlement without an initial borrower-solvency shock. Test redundancy, restoration and concentration of operational dependencies; a cyber scenario is not evidence of an incident.
 - **Verification:** re-open the IMF October 2026 Global Financial Stability Report and relevant supervisory/market-infrastructure disclosures before citing current exposures, incidents or stress-test findings.
+
+
+### 2026-10-14
+
+- **Fiscal transmission is a refinancing-stock problem as well as a deficit-flow problem:** a government with a modest annual deficit may face high gross funding needs when old debt matures. Higher yields feed into debt service according to maturity, fixed/floating composition, currency denomination and investor demand; the same market-rate move does not create a uniform fiscal burden.
+- **Energy incidence is fuel-, place- and household-specific:** natural gas, electricity, propane and heating oil follow different production, tariff, transport and weather-exposure channels. Forecast percentage changes for different heating populations are not additive or a national CPI measure. Compare actual household weights, income vulnerability and administrative reach before evaluating targeted fiscal relief.
+- **Political and social feedback:** persistent essential-energy costs can intensify demands for subsidies precisely when sovereign refinancing constrains fiscal capacity. The relevant institutional comparison is targeted versus broad relief, eligibility, duration, tax capacity and the distribution of financing costs—not an assumed universal prescription.
+- **Verification:** these are reusable mechanisms, not an assertion that an October 2026 EIA winter forecast materialised. Re-open EIA's Winter Fuels Outlook, the IMF Fiscal Monitor and the relevant BLS release before citing current fuel expenditure, fiscal projections or CPI.
 
 
 ### 2026-10-12
@@ -135,6 +143,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - When do persistent portfolio outflows become a financing constraint rather than merely a change in market positioning?
 
 ## Related Marginal Thinking research
+
+- `MT-GM-2026-10-14` — fiscal refinancing versus deficits and heterogeneous heating-fuel exposure; EIA winter figures are forecasts, not observed CPI or comparable household weights.
 
 - `MT-GM-2026-10-13` — IMF October GFSR mechanisms linking sovereign duration, nonbank liquidity and financial-market operational resilience; distinguish stress scenarios from realised disruptions.
 
