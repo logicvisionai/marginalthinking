@@ -1,0 +1,119 @@
+{
+  "id": "MT-GM-2026-10-15",
+  "slug": "2026-10-15-global-macro",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T11:01:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "energy",
+    "sovereign-debt",
+    "inequality-distribution"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "producer_checks": {
+    "verified_at": "2026-10-15T11:01:00-03:00",
+    "information_cutoff": "15 Oct 2026, after 08:30 ET US PPI release",
+    "source_check": "BLS PPI, CPI, real earnings; Eurostat; ECB; IBGE; EIA; BEA; IMF original publications checked",
+    "bilingual_parity": "same ten sources, dates, statistics, chart numeric arrays, tables, scenarios and final bibliography",
+    "research_word_counts": {
+      "en": 2417,
+      "pt": 2829,
+      "urls_en": 10,
+      "urls_pt": 10
+    },
+    "visual_signature": "3 tables + 2 charts + 1 flow + 1 map in each locale",
+    "novelty": "Published September producer inflation and real wages, not merely a restatement of October 14 IMF fiscal risks."
+  },
+  "url": "/reports/2026/10/2026-10-15-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-15T14:01:00.000Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "bbb3b2ae22675240047f161992615511e63fa7a2",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — US producer inflation accelerates as energy costs squeeze real wages and policy space",
+      "deck": "September US PPI rose 1.3% and CPI 0.6% while real hourly earnings fell 0.5%; the key test is energy pass-through into core prices, demand and sovereign financing.",
+      "tags": [
+        "global macro",
+        "producer prices",
+        "US CPI",
+        "real wages",
+        "energy",
+        "fiscal space"
+      ],
+      "keywords": [
+        "15 October 2026",
+        "US September PPI 1.3 percent",
+        "September CPI 0.6",
+        "BLS real earnings",
+        "euro area energy inflation",
+        "Brazil IPCA"
+      ],
+      "regime": "Upstream prices and energy-sensitive household costs are rising faster than pay, against divergent European and Brazilian inflation conditions.",
+      "key_risk": "Energy and freight prices could spread into non-energy prices while eroding purchasing power and tightening financing.",
+      "watch": [
+        "US import and export prices — 16 October",
+        "Eurostat full September HICP — 16 October",
+        "BEA September household spending — 29 October",
+        "Subsequent CPI/PPI core and energy components",
+        "Sovereign issuance and real wage trends"
+      ],
+      "search_text": "US September 2026 PPI CPI real wages energy pass-through global fiscal financing euro area Brazil EIA IMF"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — inflação ao produtor acelera nos EUA enquanto energia reduz salários reais e restringe políticas públicas",
+      "deck": "O PPI americano de setembro subiu 1,3%, o CPI 0,6% e os rendimentos reais por hora caíram 0,5%; a questão é o repasse da energia para núcleo de preços, consumo e financiamento soberano.",
+      "tags": [
+        "macro global",
+        "preços ao produtor",
+        "CPI americano",
+        "salários reais",
+        "energia",
+        "restrição fiscal"
+      ],
+      "keywords": [
+        "15 outubro 2026",
+        "PPI setembro 1,3 por cento",
+        "CPI setembro 0,6",
+        "rendimentos reais BLS",
+        "inflação de energia euro",
+        "IPCA Brasil"
+      ],
+      "regime": "Custos na produção e energia do orçamento doméstico crescem acima da remuneração, com inflação europeia e brasileira heterogêneas.",
+      "key_risk": "Energia e fretes podem espalhar aumentos para preços não energéticos, reduzindo poder de compra e encarecendo financiamento.",
+      "watch": [
+        "Preços americanos de importação e exportação — 16 de outubro",
+        "Eurostat HICP completo de setembro — 16 de outubro",
+        "BEA consumo doméstico de setembro — 29 de outubro",
+        "Próximos núcleos e componentes de energia do CPI/PPI",
+        "Emissões soberanas e evolução do salário real"
+      ],
+      "search_text": "PPI CPI setembro 2026 salários reais energia inflação repasse condições fiscais Europa Brasil EIA FMI"
+    }
+  }
+}
