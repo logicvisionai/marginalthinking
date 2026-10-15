@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-10-14  
+**Last reviewed:** 2026-10-15  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -66,6 +66,12 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - **Operational transmission:** outages in payments, clearing, custody or shared financial service providers can interrupt settlement without an initial borrower-solvency shock. Test redundancy, restoration and concentration of operational dependencies; a cyber scenario is not evidence of an incident.
 - **Verification:** re-open the IMF October 2026 Global Financial Stability Report and relevant supervisory/market-infrastructure disclosures before citing current exposures, incidents or stress-test findings.
 
+
+### 2026-10-15
+
+- **Upstream versus consumer inflation:** producer-price indexes and household consumer-price indexes describe different baskets, weights and contract stages. A contemporaneous PPI/CPI gap is not a measured pass-through coefficient; trace freight, inventories, input contracts, retailer margins and timing before claiming diffusion into consumer prices.
+- **Real-income and institutional transmission:** when essential energy costs rise before nominal wages reset, real purchasing power and discretionary demand can weaken even while headline inflation accelerates. Distinguish a temporary energy-level shock from persistence in non-energy prices, and assess distributional exposure and fiscal capacity for relief rather than infer a uniform policy response.
+- **Verification:** re-open BLS PPI, CPI and Real Earnings releases for the same observation periods; match vintage, adjustment, coverage and wage measures before comparing. This mechanism is drawn from `MT-GM-2026-10-15`, not a forecast of sustained inflation or recession.
 
 ### 2026-10-14
 
@@ -143,6 +149,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - When do persistent portfolio outflows become a financing constraint rather than merely a change in market positioning?
 
 ## Related Marginal Thinking research
+
+- `MT-GM-2026-10-15` — producer/consumer basket differences, contract-mediated price pass-through, real-wage squeeze and conditional fiscal/social feedback; recheck BLS release vintages before public reuse.
 
 - `MT-GM-2026-10-14` — fiscal refinancing versus deficits and heterogeneous heating-fuel exposure; EIA winter figures are forecasts, not observed CPI or comparable household weights.
 
