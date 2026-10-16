@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-16",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-16T12:46:14.000Z",
+  "reviewed_commit": "fba1a2c97a64d86b80c1a039ca513a8053c577a5",
+  "pending_blob_sha": "a15791c9a3384a6e5304c46934f592ca15b54f47",
+  "source_blob_shas": {
+    "en": "bb783f48148b0dfd72aa3c25d559e74c177340bd",
+    "pt-BR": "116cd1a715c5df85329d05815aaeb78c8fce8991"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Confirmed BLS release Oct 16 import/export price aggregates, partner terms of trade and Eurostat final HICP breakdown, dates, component contributions and country rates using primary official releases; forecasts separated from observations."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Independent October 16 releases advance prior day's PPI/CPI story; causal argument, opposing evidence, non-additive quantities, limitations and end-of-text primary bibliography preserved in both languages."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain exactly aligned numerical data across two BLS/Eurostat charts, three tables, one causal flow and one qualitative regional map."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2312,
+        "pt": 2602,
+        "urls_en": 10,
+        "urls_pt": 10
+      },
+      "summary": "Border cost shock, nonfuel import pressures, country-specific European energy inflation, terms of trade, monetary policy, Brazil, falsifiable scenarios and limits."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Ten source URLs in each language across official BLS, Eurostat, ECB, IMF, IBGE and BEA publications; release and reference periods clearly stated."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Tests temporary-price, broader-diffusion and margin/demand-compression scenarios; acknowledges nonfuel/import heterogeneity, EU country disparities, Canadian bilateral decline and uncertain pass-through."
+    }
+  },
+  "contrary_evidence": [
+    "US September bilateral terms of trade with Canada fell 0.3% despite aggregate export prices rising more than aggregate import prices.",
+    "Eurostat final headline 3.8% agrees with its early-October flash rate; the detailed breakdown is new, not an upward headline revision.",
+    "Some air-freight export prices fell month on month despite large positive year-on-year rates.",
+    "Price-index changes alone cannot prove transaction volumes, real income or sovereign credit events."
+  ],
+  "limitations": [
+    "Neither US border prices nor the euro-area HICP reveal real trade quantities or causality by tariff/conflict/firm.",
+    "No intraday market quotation, foreign exchange move or sovereign bond-yield change asserted.",
+    "ECB and IMF values are dated projections rather than realized October observations.",
+    "QA conducted in this workflow, not independent external peer review."
+  ],
+  "notes": "Primary-source fact and editorial QA with bilingual numerical and visual parity; tied to exact pending and staged Markdown blob hashes.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-16",
+    "slug": "2026-10-16-global-macro",
+    "date": "2026-10-16",
+    "published_at": "2026-10-16T09:46:14-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-16-global-macro/en.md",
+        "title": "Global Macro — Border prices widen the inflation shock as European energy costs disperse",
+        "deck": "US September import prices rose 1.1% and export prices 2.2%; final euro-area annual inflation at 3.8% exposes energy-driven differences across countries and trade channels.",
+        "tags": [
+          "global macro",
+          "US import and export prices",
+          "euro area inflation",
+          "terms of trade",
+          "energy",
+          "real income"
+        ],
+        "keywords": [
+          "16 October 2026",
+          "BLS September import prices 1.1 percent",
+          "export prices 2.2 percent",
+          "Eurostat final September HICP 3.8",
+          "terms of trade",
+          "energy inflation"
+        ],
+        "regime": "Border-price inflation spans fuel and nonfuel imports, while Europe's final HICP reveals large energy and national differences.",
+        "key_risk": "Persistent input and fuel costs could flow into nonenergy prices, shrink purchasing power and raise financing constraints.",
+        "watch": [
+          "BLS October import/export indexes — 17 November",
+          "Eurostat October HICP flash — 4 November",
+          "BEA September income and outlays — 29 October",
+          "Nonfuel import and services-price persistence",
+          "Trade volumes, wage growth and sovereign funding conditions"
+        ],
+        "search_text": "US September 2026 import export prices BLS Eurostat HICP final 16 October European energy inflation bilateral terms trade Brazil"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-16-global-macro/pt-BR.md",
+        "title": "Macro Global — preços nas fronteiras ampliam o choque inflacionário e expõem divergências na Europa",
+        "deck": "Preços americanos de importação subiram 1,1% e os de exportação 2,2% em setembro; inflação anual europeia de 3,8% evidencia diferenças energéticas, comerciais e nacionais.",
+        "tags": [
+          "macro global",
+          "preços americanos de importação e exportação",
+          "inflação da zona do euro",
+          "termos de troca",
+          "energia",
+          "renda real"
+        ],
+        "keywords": [
+          "16 outubro 2026",
+          "BLS preços de importação setembro 1,1 por cento",
+          "preços de exportação 2,2 por cento",
+          "Eurostat HICP final setembro 3,8",
+          "termos de troca",
+          "inflação energética"
+        ],
+        "regime": "Alta de preços nas fronteiras envolve combustíveis e itens não energéticos; HICP europeu revela grandes diferenças entre componentes e países.",
+        "key_risk": "Persistência de insumos e combustíveis pode alcançar preços não energéticos, reduzir poder de compra e restringir financiamento.",
+        "watch": [
+          "Índices BLS de importação e exportação de outubro — 17 de novembro",
+          "Prévia Eurostat HICP de outubro — 4 de novembro",
+          "Renda e consumo BEA de setembro — 29 de outubro",
+          "Persistência dos preços não energéticos e serviços",
+          "Volumes comerciais, salários e financiamento soberano"
+        ],
+        "search_text": "preços americanos importação exportação setembro 2026 BLS Eurostat inflação final energia europeia termos de troca Brasil"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "trade-investment",
+      "monetary-policy",
+      "energy",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "producer_checks": {
+      "verified_at": "2026-10-16T09:46:14-03:00",
+      "information_cutoff": "16 October 2026, after BLS 08:30 ET import/export release and Eurostat final HICP.",
+      "source_check": "Primary October 16 BLS import/export index release and Eurostat final September HICP; ECB, IMF, BEA, BLS CPI/PPI, IBGE and release calendar sources checked.",
+      "bilingual_parity": "Same ten official URLs, calendar references, quantitative observations, three tables, two charts, causal flow and regional map in EN and PT-BR.",
+      "research_word_counts": {
+        "en": 2312,
+        "pt": 2602,
+        "urls_en": 10,
+        "urls_pt": 10
+      },
+      "visual_signature": "3 tables + 2 charts + 1 flow + 1 qualitative map per locale",
+      "novelty": "New BLS external-price data and final Eurostat HICP build upon, rather than repeat, October 15 producer/consumer inflation analysis."
+    }
+  }
+}
