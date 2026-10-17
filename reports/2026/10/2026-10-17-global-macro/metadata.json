@@ -1,0 +1,119 @@
+{
+  "id": "MT-GM-2026-10-17",
+  "slug": "2026-10-17-global-macro",
+  "date": "2026-10-17",
+  "published_at": "2026-10-17T09:30:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "trade-investment",
+    "monetary-policy",
+    "energy",
+    "inequality-distribution"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "producer_checks": {
+    "verified_at": "2026-10-17T09:30:00-03:00",
+    "information_cutoff": "17 October 2026, 09:30 BRT; official primary releases through 16 October.",
+    "source_check": "IEA OMR October; EIA STEO October; Eurostat August trade and September HICP; BLS September CPI PPI import-export; IMF WEO; ECB September projections; IBGE September IPCA.",
+    "bilingual_parity": "Same 11 official source URLs, 3 tables, 2 matched numerical charts, 2-line flow and five-region map in EN/PT-BR.",
+    "research_word_counts": {
+      "en": 2530,
+      "pt": 2638,
+      "urls_en": 11,
+      "urls_pt": 11
+    },
+    "visual_signature": "3 tables + 2 charts + 1 flow + 1 map per locale",
+    "novelty": "Analyzes product-specific diesel scarcity, Gulf crude recovery and European nominal trade rather than repeating 16 October border price study."
+  },
+  "url": "/reports/2026/10/2026-10-17-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-17T12:35:00.000Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "3927520d6ed46fc6d2682f3a215c6a65114fb40a",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Diesel bottlenecks outlast the Gulf crude export rebound",
+      "deck": "IEA October data show Gulf crude exports recovering faster than refined diesel shipments, creating differentiated risks to trade costs and real incomes.",
+      "tags": [
+        "global macro",
+        "oil refining",
+        "diesel",
+        "energy security",
+        "world trade",
+        "inflation"
+      ],
+      "keywords": [
+        "17 October 2026",
+        "IEA October Oil Market Report",
+        "diesel supply",
+        "Gulf oil exports",
+        "Europe trade deficit",
+        "energy inflation"
+      ],
+      "regime": "Crude-export recovery coexists with refineries, shipping and diesel stocks remaining constrained.",
+      "key_risk": "Weak refined-product supply could keep freight and household fuel costs elevated despite better crude output.",
+      "watch": [
+        "IEA diesel shipments and Gulf crude exports",
+        "Refinery throughput and diesel stock draws",
+        "Euro-area trade values versus quantities",
+        "Nonenergy US producer price changes",
+        "Real incomes and fuel subsidies"
+      ],
+      "search_text": "October 17 2026 global macro IEA diesel gasoil oil product exports Hormuz Eurostat trade deficits EIA inflation"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — gargalos do diesel persistem apesar da recuperação do petróleo bruto no Golfo",
+      "deck": "Dados de outubro da IEA revelam recuperação mais rápida das exportações de bruto do que dos derivados, com riscos distintos para custos comerciais e renda real.",
+      "tags": [
+        "macro global",
+        "refino",
+        "diesel",
+        "segurança energética",
+        "comércio mundial",
+        "inflação"
+      ],
+      "keywords": [
+        "17 outubro 2026",
+        "IEA relatório mercado petróleo outubro",
+        "oferta diesel",
+        "exportação de bruto Golfo",
+        "déficit comercial Europa",
+        "inflação energética"
+      ],
+      "regime": "Recuperação do bruto convive com restrições a refinarias, navios e estoques de diesel.",
+      "key_risk": "Oferta reduzida de derivados pode manter elevados frete e combustível doméstico apesar da extração de petróleo.",
+      "watch": [
+        "IEA exportações de diesel e bruto do Golfo",
+        "Processamento de refinarias e retirada dos estoques",
+        "Valores versus volumes de comércio europeu",
+        "Preços americanos não energéticos ao produtor",
+        "Renda real e subsídios"
+      ],
+      "search_text": "macro global 17 outubro 2026 IEA diesel gasóleo derivados petróleo bruto Ormuz Eurostat comércio EIA inflação"
+    }
+  }
+}
