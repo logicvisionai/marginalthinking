@@ -99,6 +99,11 @@ The September 17 context review added the historical, institutional and social m
 - **Changed:** the 11 October canonical UNDP-based assessment adds an explicit distinction between modeled household poverty exposure, realized poverty outcomes and the fiscal cost of broad versus targeted compensation under prolonged fuel-price pressure.
 - **Research implication:** compare alternative coverage designs without assuming equivalent household protection; do not add overlapping poverty-threshold scenarios, and evaluate debt service, exchange rates and implementation capacity alongside imported fuel costs.
 
+### 2026-10-17
+
+- **Inventory accessibility is a separate bottleneck:** the 17 October canonical study distinguishes crude recovery from middle-distillate supply and distinguishes oil in transit from usable on-land product stocks. An increase in aggregate crude flows or oil-on-water does not prove that diesel is available near inland distribution networks; refinery configuration, feedstock compatibility, storage location, transport and product specifications determine practical substitutability. This is a durable logistics constraint, not a claim that the October 2026 shortage will persist indefinitely.
+- **Verification:** re-open the IEA October 2026 Oil Market Report and current regional refinery, diesel/gasoil stock, port and freight data before citing quantities or describing the present constraint. Compare observations by product, location, period and inventory definition.
+
 ## Open questions
 
 - How much effective export capacity can Saudi alternative routes sustain under prolonged Hormuz impairment after accounting for maintenance, terminal constraints and crude compatibility?
@@ -110,6 +115,8 @@ The September 17 context review added the historical, institutional and social m
 - Under what conditions does an energy-logistics shock move from inflation repricing into material credit deterioration or deleveraging?
 
 ## Related Marginal Thinking research
+
+- `MT-GM-2026-10-17` — Gulf crude-export recovery versus refined-product scarcity and the distinction between oil in transit and locally accessible diesel stocks.
 
 - `MT-GM-2026-0914` — Global Macro, Markets & Political Risk Report, 2026-09-14.
 - `MT-GM-2026-09-15` — Global Macro, Markets & Political Risk, 2026-09-15.
