@@ -4,7 +4,7 @@ Em **17 de outubro de 2026**, a principal restrição energética não se resume
 
 Essa diferença conecta energia a comércio exterior, poder de compra e financiamento. O Eurostat informou déficit externo de bens da zona do euro de **€16,1 bilhões** em agosto. Os Estados Unidos registraram inflação mensal de **1,3%** nos preços ao produtor e **0,6%** nos preços ao consumidor em setembro. Cada dado corresponde a período e abrangência estatística próprios. O objetivo não é atribuir todos esses números ao diesel, mas examinar um mecanismo físico de transmissão cujos efeitos precisam ser testados com indicadores separados de comércio, inflação e renda. [4][6][7]
 
-**Corte informacional: 17 de outubro de 2026, 9h30 de Brasília.** Esta análise de sábado sintetiza divulgações oficiais disponíveis até sexta-feira, 16 de outubro. Não atribui fechamento de mercado ao sábado, cotações não verificadas, decisões de governo não anunciadas nem novos resultados militares. Projeções da IEA, EIA, FMI e BCE não são apresentadas como realizações observadas.
+**Corte informacional: 17 de outubro de 2026, 9h30 de Brasília.** A síntese de sábado utiliza divulgações oficiais disponíveis até sexta-feira, 16 de outubro. Não atribui fechamento de mercado ao sábado, cotações não verificadas, decisões de governo não anunciadas nem novos resultados militares. Projeções da IEA, EIA, FMI e BCE não são apresentadas como realizações observadas.
 
 ## 1. Extração de petróleo e entrega de combustíveis evoluem de maneira diferente
 
@@ -35,7 +35,7 @@ Os estoques mundiais observados estavam 509 milhões de barris abaixo do nível 
 
 A IEA projeta retração média da demanda mundial de petróleo de 2,6 mb/d em 2026, para 102,4 mb/d. Sua previsão de oferta média anual é de 100,7 mb/d. Ambas são **estimativas para o ano inteiro**; não devem ser subtraídas da oferta observada apenas em setembro para estimar o déficit atual. A duração do conflito, os preços e a economia condicionam a previsão. A demanda pode cair por menor atividade industrial e fretes caros, sem que a infraestrutura de refino tenha sido restaurada. [1]
 
-A oferta mundial de diesel e gasóleo ficou estimados 1,5 mb/d abaixo do nível do ano anterior no segundo trimestre e 1,7 mb/d abaixo no terceiro. As exportações combinadas de Rússia e Oriente Médio recuaram aproximadamente 1,3 mb/d em setembro, na comparação anual, enquanto outros fornecedores compensaram apenas parte da perda. A flexibilidade do consumo depende do uso: certas viagens podem ser adiadas, mas caminhões, colheitadeiras, geradores de emergência e aquecimento possuem substitutos limitados no curto prazo. A oferta pode ser deslocada entre países quando preços e restrições contratuais mudam. [1]
+A oferta mundial de diesel e gasóleo foi estimada em 1,5 mb/d abaixo do nível do ano anterior no segundo trimestre e 1,7 mb/d abaixo no terceiro. As exportações combinadas de Rússia e Oriente Médio recuaram aproximadamente 1,3 mb/d em setembro, na comparação anual, enquanto outros fornecedores compensaram apenas parte da perda. A flexibilidade do consumo depende do uso: certas viagens podem ser adiadas, mas caminhões, colheitadeiras, geradores de emergência e aquecimento possuem substitutos limitados no curto prazo. A oferta pode ser deslocada entre países quando preços e restrições contratuais mudam. [1]
 
 ```chart
 type: bar
@@ -119,7 +119,7 @@ A sequência de acompanhamento deve começar por exportações de **bruto** e de
 
 Permanecem perguntas sem resposta quantitativa. As divulgações não permitem estimar quantos pontos percentuais da inflação europeia vieram especificamente do diesel, qual parcela do PPI americano alcançará preços finais, nem o efeito sobre juros de um país. Previsões podem ser revistas; contratos, estoques, subsídios, câmbio e demanda mudam o repasse. Mecanismo econômico plausível não equivale a atribuição causal econométrica. [1][7][9]
 
-A conclusão é limitada, mas importante: restaurar extração de petróleo e restabelecer fornecimento de combustíveis específicos são processos distintos. Enquanto refinarias, estoques, transporte marítimo e comércio de diesel não se recuperarem em conjunto, melhora na produção de bruto pode não produzir redução proporcional do custo logístico, recomposição de caixa industrial ou alívio para as famílias. A próxima edição deverá testar essa diferença contra fluxos observados de derivados, sem inferir normalização apenas da contagem geral de barris. [1][2]
+A conclusão é limitada, mas importante: restaurar extração de petróleo e restabelecer fornecimento de combustíveis específicos são processos distintos. Enquanto refinarias, estoques, transporte marítimo e comércio de diesel não se recuperarem em conjunto, melhora na produção de bruto pode não produzir redução proporcional do custo logístico, recomposição de caixa industrial ou alívio para as famílias. A hipótese precisa ser testada com os fluxos observados de derivados, sem inferir normalização apenas da contagem geral de barris. [1][2]
 
 ## Referências e fontes
 
