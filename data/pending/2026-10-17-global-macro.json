@@ -11,7 +11,7 @@
   "sources": {
     "en": {
       "markdown": "staging/research/2026/10/2026-10-17-global-macro/en.md",
-      "title": "Global Macro — Diesel bottlenecks outlast the Gulf crude export rebound",
+      "title": "Global Macro — Diesel supply constraints outlast the Gulf crude export rebound",
       "deck": "IEA October data show Gulf crude exports recovering faster than refined diesel shipments, creating differentiated risks to trade costs and real incomes.",
       "tags": [
         "global macro",
@@ -42,7 +42,7 @@
     },
     "pt-BR": {
       "markdown": "staging/research/2026/10/2026-10-17-global-macro/pt-BR.md",
-      "title": "Macro Global — gargalos do diesel persistem apesar da recuperação do petróleo bruto no Golfo",
+      "title": "Macro Global — restrições na oferta de diesel persistem apesar da recuperação do petróleo bruto no Golfo",
       "deck": "Dados de outubro da IEA revelam recuperação mais rápida das exportações de bruto do que dos derivados, com riscos distintos para custos comerciais e renda real.",
       "tags": [
         "macro global",
@@ -105,8 +105,8 @@
     "source_check": "IEA OMR October; EIA STEO October; Eurostat August trade and September HICP; BLS September CPI PPI import-export; IMF WEO; ECB September projections; IBGE September IPCA.",
     "bilingual_parity": "Same 11 official source URLs, 3 tables, 2 matched numerical charts, 2-line flow and five-region map in EN/PT-BR.",
     "research_word_counts": {
-      "en": 2530,
-      "pt": 2638,
+      "en": 2531,
+      "pt": 2640,
       "urls_en": 11,
       "urls_pt": 11
     },

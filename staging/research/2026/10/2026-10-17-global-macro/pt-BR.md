@@ -1,4 +1,4 @@
-# Macro Global — gargalos do diesel persistem apesar da recuperação do petróleo bruto no Golfo
+# Macro Global — restrições na oferta de diesel persistem apesar da recuperação do petróleo bruto no Golfo
 
 Em **17 de outubro de 2026**, a principal restrição energética não se resume ao volume mundial extraído de petróleo. O relatório de outubro da Agência Internacional de Energia (IEA) identifica recuperação das exportações de bruto do Golfo, mas manutenção da escassez de derivados, especialmente diesel. A oferta mundial avançou **2,5 milhões de barris por dia (mb/d)** para **102,3 mb/d** em setembro, enquanto as exportações de derivados do Oriente Médio permaneceram em **1,9 mb/d**, ante **4,7 mb/d** antes do conflito. Extração, refino, armazenagem e entrega são operações econômicas diferentes. Maior produção na origem não significa disponibilidade imediata de diesel no destino. [1]
 

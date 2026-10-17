@@ -1,4 +1,4 @@
-# Global Macro — Diesel bottlenecks outlast the Gulf crude export rebound
+# Global Macro — Diesel supply constraints outlast the Gulf crude export rebound
 
 As of **17 October 2026**, the crucial energy constraint is not simply the volume of crude oil produced. The International Energy Agency's October report describes recovery in crude exports from the Gulf alongside persistent scarcity in refined fuels, especially diesel. Global oil supply rose by **2.5 million barrels per day (mb/d)** to **102.3 mb/d** in September, yet Middle Eastern refined-product exports remained at **1.9 mb/d**, against **4.7 mb/d** before the conflict. Extraction, refining, storage and delivery are different economic operations. A stronger upstream supply number does not immediately resolve transport fuel shortages. [1]
 
