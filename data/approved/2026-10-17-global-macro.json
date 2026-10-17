@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-17",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-17T12:35:00.000Z",
-  "reviewed_commit": "3927520d6ed46fc6d2682f3a215c6a65114fb40a",
-  "pending_blob_sha": "0ff548bb97ec2f5aa7e42631a249755aa2255251",
+  "reviewed_at": "2026-10-17T13:00:00.000Z",
+  "reviewed_commit": "c7c0cb510e15b80aa0b5161e2b95422b15af078a",
+  "pending_blob_sha": "dbb46a5727dfad0820ddbcd88f61758c3c965fdd",
   "source_blob_shas": {
-    "en": "5531657a102dc5ae67e4560fa05eeea0efcb2fb9",
-    "pt-BR": "3bc636767e4340aa2e0f5fc383b56b46af1dc2a5"
+    "en": "715f4896e92786f2dfb7628de83cd5df08befc45",
+    "pt-BR": "06d2f5728030112f09f21454955efa1fd189f562"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -19,7 +19,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Refined diesel supply and crude export recovery constitute a distinct question from the preceding border-price analysis; no unapproved editorial meta-language or false causal inference."
+      "summary": "Refined diesel supply and crude export recovery constitute a distinct question from the preceding border-price analysis; no unapproved editorial meta-language or false causal inference. Canonical bilingual titles now avoid terms modified during the published-language normalization pass."
     },
     "visual_evidence_readiness": {
       "result": "passed",
@@ -28,8 +28,8 @@
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 2530,
-        "pt": 2638,
+        "en": 2531,
+        "pt": 2640,
         "urls_en": 11,
         "urls_pt": 11
       },
@@ -68,7 +68,7 @@
     "sources": {
       "en": {
         "markdown": "staging/research/2026/10/2026-10-17-global-macro/en.md",
-        "title": "Global Macro — Diesel bottlenecks outlast the Gulf crude export rebound",
+        "title": "Global Macro — Diesel supply constraints outlast the Gulf crude export rebound",
         "deck": "IEA October data show Gulf crude exports recovering faster than refined diesel shipments, creating differentiated risks to trade costs and real incomes.",
         "tags": [
           "global macro",
@@ -99,7 +99,7 @@
       },
       "pt-BR": {
         "markdown": "staging/research/2026/10/2026-10-17-global-macro/pt-BR.md",
-        "title": "Macro Global — gargalos do diesel persistem apesar da recuperação do petróleo bruto no Golfo",
+        "title": "Macro Global — restrições na oferta de diesel persistem apesar da recuperação do petróleo bruto no Golfo",
         "deck": "Dados de outubro da IEA revelam recuperação mais rápida das exportações de bruto do que dos derivados, com riscos distintos para custos comerciais e renda real.",
         "tags": [
           "macro global",
@@ -162,8 +162,8 @@
       "source_check": "IEA OMR October; EIA STEO October; Eurostat August trade and September HICP; BLS September CPI PPI import-export; IMF WEO; ECB September projections; IBGE September IPCA.",
       "bilingual_parity": "Same 11 official source URLs, 3 tables, 2 matched numerical charts, 2-line flow and five-region map in EN/PT-BR.",
       "research_word_counts": {
-        "en": 2530,
-        "pt": 2638,
+        "en": 2531,
+        "pt": 2640,
         "urls_en": 11,
         "urls_pt": 11
       },
