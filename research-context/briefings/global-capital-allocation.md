@@ -2,7 +2,7 @@
 
 **Scope:** how global savings, credit, sovereign capital and productive investment are allocated across financial markets, countries and strategic sectors  
 **Canonical slug:** `global-capital-allocation`  
-**Last reviewed:** 2026-10-15  
+**Last reviewed:** 2026-10-18  
 **Evidence note:** internal orientation only; public claims require external re-verification.
 
 ## Structural assessment
@@ -59,6 +59,12 @@ These channels should not be collapsed into a single measure of "capital control
 The durable shift is not a wholesale relocation of the existing financial stock. It is a change in the composition of marginal investment toward infrastructure with high physical, technological and regulatory barriers. This increases the value of electricity, grid access, processing capacity, compute infrastructure and qualified industrial supply chains.
 
 ## What changed since last review
+
+### 2026-10-18
+
+- **Market repricing versus fiscal cash flow:** a rise in sovereign yields marks down existing fixed-rate bonds immediately, but does not retroactively increase their coupons. Public interest costs respond as obligations mature, new debt is issued or floating rates reset. Analyse gross financing needs, maturity and currency composition separately from the current benchmark yield.
+- **Nonbank amplification and double counting:** sovereign-bond valuation losses can trigger collateral calls, margin demands or fund redemptions before the fiscal rollover cost appears. Banks, funds, insurers and pensions have different cash-flow and liability structures; the same security may be held, financed and hedged through several intermediaries. Net overlapping claims before aggregating exposures; no specific institution's stress is established without position and liquidity data.
+- **Cross-program link:** energy costs can simultaneously weaken real household demand, increase requests for fiscal relief and affect inflation compensation in yields. Country outcomes depend on taxes, maturity profiles, energy exposure and administrative capacity. Connect to `gulf-energy-logistics.md`, `cross-border-price-transmission.md` and `lic-debt-sustainability-framework.md` without equating G7 refinancing with low-income-country debt architecture. IMF and ECB scenarios are conditional, not event probabilities.
 
 ### 2026-10-13
 
@@ -149,6 +155,8 @@ The durable shift is not a wholesale relocation of the existing financial stock.
 - When do persistent portfolio outflows become a financing constraint rather than merely a change in market positioning?
 
 ## Related Marginal Thinking research
+
+- `MT-GM-2026-10-18` — sovereign debt repricing versus delayed coupon costs, nonbank collateral amplification and the energy–fiscal–household transmission chain; verify IMF October fiscal/GFSR material and ECB forecast vintages before public reuse.
 
 - `MT-GM-2026-10-15` — producer/consumer basket differences, contract-mediated price pass-through, real-wage squeeze and conditional fiscal/social feedback; recheck BLS release vintages before public reuse.
 
