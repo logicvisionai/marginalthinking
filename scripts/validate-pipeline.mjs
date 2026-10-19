@@ -98,7 +98,12 @@ try{
 const requiredTaxonomy=['taxonomy_version','program','related_programs','dimensions','geography','topics','format','cadence'];
 const pendingFiles=walk('data/pending').filter(p=>p.endsWith('.json'));
 let active=0,approvedCount=0,legacyPublished=0;
+// Public deploys validate QA-approved/published records only. Full draft checks
+// run in the independent editorial-health workflow.
+const strictPending=process.env.MT_VALIDATE_ALL_PENDING==='1';
 for(const file of pendingFiles){
+  const approvalPath=file.replace('data/pending/','data/approved/');
+  if(!strictPending&&!exists(approvalPath))continue;
   let p;
   try{p=json(file);}catch(e){fail.push(`${file}: JSON inválido: ${e.message}`);continue;}
   if(!p?.id){fail.push(`${file}: id ausente`);continue;}
@@ -107,6 +112,10 @@ for(const file of pendingFiles){
   const isV2=(p.schema_version||1)>=2;
   const isNewerRevision=isV2&&publicRevision!==undefined&&pendingRevision>publicRevision;
   if(publicIds.has(p.id)&&(!isV2||!isNewerRevision)){if(!isV2)legacyPublished++;continue;}
+  if(!strictPending){
+    const approval=json(approvalPath);
+    if(approval.qa_status!=='approved'||Number(approval.publication?.revision??0)!==pendingRevision)continue;
+  }
   active++;
   if(p.schema_version!==2)fail.push(`${file}: item ainda não publicado deve usar schema_version 2`);
   for(const key of ['ready','id','slug','date','published_at','kind','priority','source_locale','sources',...requiredTaxonomy])if(p[key]===undefined||p[key]===null)fail.push(`${file}: ${key} ausente`);
