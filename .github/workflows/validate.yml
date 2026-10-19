@@ -238,7 +238,7 @@ jobs:
 
       - name: Stamp build provenance and verify October 18
         run: |
-          node -e 'const fs=require("fs");const a=require("./data/reports.json");const r=a.filter(x=>x.kind==="daily-global-macro").sort((a,b)=>b.date.localeCompare(a.date))[0];fs.writeFileSync("dist/deployment.json",JSON.stringify({sha:process.env.GITHUB_SHA,latest_global_macro:r.id})+"\\n");'
+          node -e 'const fs=require("fs");const a=require("./data/reports.json");const r=a.filter(x=>x.kind==="daily-global-macro").sort((a,b)=>b.date.localeCompare(a.date))[0];fs.writeFileSync("dist/deployment.json",JSON.stringify({sha:process.env.GITHUB_SHA,latest_global_macro:r.id}));'
           test -f dist/reports/2026/10/2026-10-18-global-macro.html
           test -f dist/pt-br/reports/2026/10/2026-10-18-global-macro.html
 
