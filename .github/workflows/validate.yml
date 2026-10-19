@@ -249,26 +249,66 @@ jobs:
         continue-on-error: true
         run: npm run audit:freshness
 
+      # Keep a reusable, validated build even if hosting credentials are unavailable.
+      # Only the public dist/ tree is uploaded; staged drafts and QA sidecars stay private.
+      - name: Upload validated production artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: marginal-thinking-dist
+          path: dist/
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy:
+    name: Deploy and verify production
+    needs: build
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Wrangler and dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Download validated production artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: marginal-thinking-dist
+          path: dist/
+
+      - name: Check artifact provenance
+        run: |
+          node -e 'const fs=require("node:fs"); const p=JSON.parse(fs.readFileSync("dist/deployment.json","utf8")); if(p.sha!==process.env.GITHUB_SHA){console.error("Build SHA mismatch: "+p.sha);process.exit(1)}; if(!p.latest_global_macro){console.error("Missing Global Macro provenance");process.exit(1)}; console.log("Validated build for "+p.sha+"; "+p.latest_global_macro);'
+
       - name: Check Cloudflare credentials
-        if: github.event_name != 'pull_request'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || vars.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          if [[ -z "$CLOUDFLARE_API_TOKEN" || -z "$CLOUDFLARE_ACCOUNT_ID" ]]; then
-            echo "::error::Cloudflare deploy not configured. Set CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID for the account serving marginalthinking.org."
+          if [[ -z "$CLOUDFLARE_API_TOKEN" ]]; then
+            echo "::error::Missing GitHub Actions secret CLOUDFLARE_API_TOKEN. Configure a scoped token for the Cloudflare account hosting marginalthinking.org."
+            exit 1
+          fi
+          if [[ -z "$CLOUDFLARE_ACCOUNT_ID" ]]; then
+            echo "::error::Missing CLOUDFLARE_ACCOUNT_ID. Set it as an Actions secret or repository variable for the Cloudflare account hosting marginalthinking.org."
             exit 1
           fi
 
       - name: Deploy to Cloudflare Workers
-        if: github.event_name != 'pull_request'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || vars.CLOUDFLARE_ACCOUNT_ID }}
         run: npx wrangler deploy --config wrangler.jsonc
 
       - name: Verify live site and editions
-        if: github.event_name != 'pull_request'
         env:
           MT_PUBLIC_ORIGIN: https://marginalthinking.org
           MT_EXPECTED_SHA: ${{ github.sha }}
