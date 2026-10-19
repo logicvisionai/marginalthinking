@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Structural Opportunity Atlas",
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-10-19",
   "status": "active",
   "disclaimer": {
     "en": "Analytical mapping of structural conditions. It is not an investment recommendation, country ranking or forecast of returns.",
@@ -84,7 +84,7 @@
       ],
       "horizon": "1-5y",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "ONS — PAR/PEL 2025",
@@ -141,7 +141,7 @@
       ],
       "horizon": "current",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "Banco Central do Brasil — Pix em números",
@@ -205,7 +205,7 @@
       ],
       "horizon": "1-4y",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "South African Government — National Transport Conference",
@@ -273,7 +273,7 @@
       ],
       "horizon": "3-10y",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "South African National Treasury — Independent Transmission Programme",
@@ -335,7 +335,7 @@
       ],
       "horizon": "current",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "NPCI — UPI Product Statistics",
@@ -401,7 +401,7 @@
       ],
       "horizon": "0-2y",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "Press Information Bureau — zero-MDR background",
@@ -473,7 +473,7 @@
       ],
       "horizon": "1-6y",
       "confidence": "high",
-      "last_verified": "2026-09-18",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "Chile Ministry of Energy — Ruta Energética 2026–2030",
@@ -539,7 +539,7 @@
       ],
       "horizon": "1-3y",
       "confidence": "high",
-      "last_verified": "2026-09-23",
+      "last_verified": "2026-10-19",
       "sources": [
         {
           "name": "FTSE Russell — March 2026 semi-annual country classification review",
@@ -555,6 +555,73 @@
           "name": "World Bank — A Turning Point for Viet Nam's Capital Markets",
           "url": "https://www.worldbank.org/en/news/feature/2026/04/22/a-turning-point-for-viet-nam-s-capital-markets",
           "date": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "id": "EUR-PONTES-001",
+      "country": {
+        "code": "EUR",
+        "name": {
+          "en": "Euro area",
+          "pt-BR": "Área do euro"
+        },
+        "lat": 50.11,
+        "lon": 8.68,
+        "region": "Europe"
+      },
+      "state": "leverageable_efficiency",
+      "feature": {
+        "en": "Pontes wholesale central-bank-money settlement for tokenised assets",
+        "pt-BR": "Liquidação de ativos tokenizados em moeda de banco central por meio do Pontes"
+      },
+      "perspective": {
+        "en": "Eligible euro-area banks, market infrastructures and issuers using DLT-based wholesale transactions.",
+        "pt-BR": "Bancos, infraestruturas de mercado e emissores elegíveis na área do euro que utilizam operações de atacado baseadas em registros distribuídos."
+      },
+      "mechanism": {
+        "en": "The Eurosystem launched Pontes on 21 September 2026, linking eligible tokenised-asset platforms to central-bank-money settlement. The ECB reports an initial onboarded group and a production-grade interim legal framework; access removes a settlement-asset barrier, but transaction volumes and adoption remain unproven.",
+        "pt-BR": "O Eurosistema colocou o Pontes em operação em 21 de setembro de 2026, conectando plataformas elegíveis de ativos tokenizados à liquidação em moeda de banco central. O BCE informa participantes inicialmente habilitados e um marco jurídico provisório para operação efetiva; o acesso remove uma restrição de liquidação, mas volumes e adoção ainda não foram comprovados."
+      },
+      "implication": {
+        "en": "Eligible participants can use central-bank-money settlement for wholesale tokenised transactions instead of relying exclusively on private settlement assets; productive benefits depend on real transaction use, interoperability and service expansion.",
+        "pt-BR": "Participantes elegíveis podem liquidar operações tokenizadas de atacado em moeda de banco central, sem depender exclusivamente de ativos privados de liquidação; os ganhos dependem do uso efetivo, da interoperabilidade e da expansão do serviço."
+      },
+      "constraints": {
+        "en": "Initial services and operating hours are limited, participant eligibility is restricted, public production-volume evidence is insufficient, and fuller implementation is planned through 2028. Frankfurt coordinates mark the ECB institutional location, not the service's geographic reach.",
+        "pt-BR": "Os serviços e horários iniciais são limitados, a elegibilidade é restrita, faltam dados públicos suficientes sobre volumes efetivos e a implementação completa é prevista até 2028. As coordenadas de Frankfurt indicam a sede institucional do BCE, não a abrangência geográfica do serviço."
+      },
+      "catalysts": [
+        {
+          "en": "Additional banks and DLT operators complete onboarding and publish production transaction evidence.",
+          "pt-BR": "Novos bancos e operadores de registros distribuídos concluem a habilitação e divulgam transações efetivas."
+        },
+        {
+          "en": "The Eurosystem expands functionality and operating hours toward its planned 2028 implementation.",
+          "pt-BR": "O Eurosistema amplia funcionalidades e horários em direção à implementação prevista para 2028."
+        }
+      ],
+      "transition": null,
+      "sectors": [
+        "wholesale-payments",
+        "settlement",
+        "capital-markets",
+        "tokenisation",
+        "financial-infrastructure"
+      ],
+      "horizon": "current-2028",
+      "confidence": "medium",
+      "last_verified": "2026-10-19",
+      "sources": [
+        {
+          "name": "ECB — Eurosystem brings central bank money to tokenised finance",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+          "date": "2026-09-21"
+        },
+        {
+          "name": "ECB — Governing Council decisions on Pontes go-live",
+          "url": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+          "date": "2026-10-02"
         }
       ]
     }

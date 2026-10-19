@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-19T01:22:15.825Z",
+  "last_reconciled_at": "2026-10-19T03:20:00.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -5698,6 +5698,25 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI supply-chain investment appears as a macroeconomic forecast driver, not independently benchmarked new technological performance, adoption or deployability signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-weekly-atlas-freshness",
+      "reconciled_at": "2026-10-19T03:20:00.000Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-13",
+        "MT-GM-2026-10-14",
+        "MT-GM-2026-10-15",
+        "MT-GM-2026-10-16",
+        "MT-GM-2026-10-17",
+        "MT-GM-2026-10-18"
+      ],
+      "decisions": [
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "updated",
+          "note": "Weekly full freshness pass reopened official evidence for all eight existing entries and added operational Eurosystem Pontes as EUR-PONTES-001 with baseline history. EU data-centre rating remains watch; September China SOE proposal remains preliminary. No state reclassification was inferred from macro news."
         }
       ]
     }

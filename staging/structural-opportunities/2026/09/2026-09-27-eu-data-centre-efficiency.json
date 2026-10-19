@@ -26,7 +26,16 @@
         "name": "Reuters — EU data-centre energy and water efficiency disclosure proposal",
         "url": "https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/",
         "date": "2026-09-21"
+      },
+      {
+        "name": "European Commission — Delegated Regulation on data-centre rating scheme",
+        "url": "https://energy.ec.europa.eu/publications/commission-delegated-regulation-establishing-common-union-rating-scheme-data-centres-and-annexes_en",
+        "date": "2026-09-21"
       }
     ]
-  }
+  },
+  "review_status": "watch",
+  "reviewed_at": "2026-10-19T00:20:00-03:00",
+  "review_notes": "Reopened European Commission's 21 September delegated-rating publication and 22 September official explanation. The rating scheme remains under two-month scrutiny; first labels are expected in 2027, and minimum performance standards remain under consultation until 14 December 2026. No observed regulatory enforcement or verified operating-capacity change supports promotion.",
+  "review_reason": "A disclosure proposal and consultation do not establish a presently binding, actor-specific blocking inefficiency or demonstrated operational constraint."
 }

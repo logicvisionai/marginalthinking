@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Structural Opportunity Atlas history",
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-10-19",
   "event_types": {
     "baseline": {
       "en": "Atlas inclusion",
@@ -294,6 +294,43 @@
           "name": "World Bank — A Turning Point for Viet Nam's Capital Markets",
           "url": "https://www.worldbank.org/en/news/feature/2026/04/22/a-turning-point-for-viet-nam-s-capital-markets",
           "date": "2026-04-22"
+        }
+      ]
+    },
+    {
+      "event_id": "EUR-PONTES-001-2026-10-19-baseline",
+      "entry_id": "EUR-PONTES-001",
+      "date": "2026-10-19",
+      "type": "baseline",
+      "country": {
+        "code": "EUR",
+        "name": {
+          "en": "Euro area",
+          "pt-BR": "Área do euro"
+        },
+        "lat": 50.11,
+        "lon": 8.68,
+        "region": "Europe"
+      },
+      "feature": {
+        "en": "Pontes wholesale central-bank-money settlement for tokenised assets",
+        "pt-BR": "Liquidação de ativos tokenizados em moeda de banco central por meio do Pontes"
+      },
+      "state": "leverageable_efficiency",
+      "summary": {
+        "en": "Pontes entered service on 21 September 2026 with eligible initial participants and a production-grade interim framework. The entry records operational settlement access, not established market-wide transaction scale.",
+        "pt-BR": "O Pontes entrou em operação em 21 de setembro de 2026 com participantes iniciais elegíveis e marco provisório de produção. O registro descreve acesso operacional à liquidação, não escala comprovada no mercado inteiro."
+      },
+      "sources": [
+        {
+          "name": "ECB — Eurosystem brings central bank money to tokenised finance",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+          "date": "2026-09-21"
+        },
+        {
+          "name": "ECB — Governing Council decisions on Pontes go-live",
+          "url": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+          "date": "2026-10-02"
         }
       ]
     }
