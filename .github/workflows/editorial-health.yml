@@ -1,0 +1,42 @@
+name: Editorial drafts and freshness
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'staging/research/**'
+      - 'data/pending/**'
+      - 'data/system-registry.json'
+      - 'data/reconciliation-ledger.json'
+      - 'scripts/validate-editorial-depth.mjs'
+  schedule:
+    - cron: '45 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pending-research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate all pending drafts without blocking published research
+        env:
+          MT_VALIDATE_ALL_PENDING: '1'
+        run: node scripts/validate-editorial-depth.mjs
+
+  stale-editorial-lines:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Identify overdue editorial streams independently
+        run: node scripts/audit-system-freshness.mjs
