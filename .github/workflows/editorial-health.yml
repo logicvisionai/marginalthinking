@@ -28,7 +28,9 @@ jobs:
       - name: Validate all pending drafts without blocking published research
         env:
           MT_VALIDATE_ALL_PENDING: '1'
-        run: node scripts/validate-editorial-depth.mjs
+        run: |
+          node scripts/validate-pipeline.mjs
+          node scripts/validate-editorial-depth.mjs
 
   stale-editorial-lines:
     runs-on: ubuntu-latest
