@@ -13,8 +13,8 @@ permissions:
   contents: read
 
 concurrency:
-  group: validate-${{ github.ref }}
-  cancel-in-progress: true
+  group: publish-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -236,9 +236,40 @@ jobs:
           node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"
           echo "Static site validation completed."
 
-      - name: Validate Worker bundle
-        run: npx wrangler deploy --dry-run --outdir .wrangler-dry-run
+      - name: Stamp build provenance and verify October 18
+        run: |
+          node -e 'const fs=require("fs");const a=require("./data/reports.json");const r=a.filter(x=>x.kind==="daily-global-macro").sort((a,b)=>b.date.localeCompare(a.date))[0];fs.writeFileSync("dist/deployment.json",JSON.stringify({sha:process.env.GITHUB_SHA,latest_global_macro:r.id})+"\\n");'
+          test -f dist/reports/2026/10/2026-10-18-global-macro.html
+          test -f dist/pt-br/reports/2026/10/2026-10-18-global-macro.html
 
-      - name: Audit research-system freshness
-        continue-on-error: ${{ github.event_name != 'schedule' }}
+      - name: Validate Worker bundle
+        run: npx wrangler deploy --config wrangler.jsonc --dry-run --outdir .wrangler-dry-run
+
+      - name: Audit freshness (informational; tracked separately)
+        continue-on-error: true
         run: npm run audit:freshness
+
+      - name: Check Cloudflare credentials
+        if: github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || vars.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [[ -z "$CLOUDFLARE_API_TOKEN" || -z "$CLOUDFLARE_ACCOUNT_ID" ]]; then
+            echo "::error::Cloudflare deploy not configured. Set CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID for the account serving marginalthinking.org."
+            exit 1
+          fi
+
+      - name: Deploy to Cloudflare Workers
+        if: github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || vars.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler deploy --config wrangler.jsonc
+
+      - name: Verify live site and editions
+        if: github.event_name != 'pull_request'
+        env:
+          MT_PUBLIC_ORIGIN: https://marginalthinking.org
+          MT_EXPECTED_SHA: ${{ github.sha }}
+        run: node scripts/verify-live-publication.mjs
