@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-10-18",
   "slug": "2026-10-18-global-macro",
   "date": "2026-10-18",
-  "published_at": "2026-10-18T21:00:00-03:00",
+  "published_at": "2026-10-18T22:16:19-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -100,7 +100,7 @@
   "cadence": "daily",
   "revision": 1,
   "producer_checks": {
-    "verified_at": "2026-10-18T21:00:00-03:00",
+    "verified_at": "2026-10-18T22:16:19-03:00",
     "information_cutoff": "18 October 2026; last institutional business-day releases through 16 October, IMF fiscal briefing 16 October; no weekend market settlement.",
     "source_check": "IMF October WEO, October GFSR and 15-16 October fiscal commentary; World Bank October Pink Sheet; ECB September scenarios; IEA OMR; EIA STEO; BEA release calendar.",
     "bilingual_parity": "Identical 9 primary-source URLs, 3 tables, 2 paired data charts, 1 three-chain flow and 1 five-region qualitative map in EN/PT-BR.",

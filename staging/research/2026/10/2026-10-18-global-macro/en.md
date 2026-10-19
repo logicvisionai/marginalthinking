@@ -13,17 +13,11 @@ A government bond yield is the price of financing at a particular maturity, not 
 Three separate mechanisms can raise nominal yields: changes in expected policy rates, the inflation compensation investors require and the compensation for duration or fiscal risk. The components cannot be recovered from a single quoted yield without a model and supplementary market instruments. Greater sovereign issuance can also compete for demand when insurers, pension funds and banks have balance-sheet constraints. Inflation erodes the real value of some fixed nominal liabilities, but this is not a costless debt reduction: it can raise new financing costs, weaken tax compliance, shorten desired maturities and damage household purchasing power. [2][3]
 
 | Fiscal variable | Transmission mechanism | Evidence needed before attribution |
-
 |---|---|---|
-
 | Ten-year sovereign yield | Pricing of new long-duration borrowing | Auction yields, forward rates, term premium estimates |
-
 | Average interest cost | Coupons and refinancing of existing debt stock | Maturity calendar, fixed/floating split, debt-service data |
-
 | Primary balance | Taxes minus expenditure excluding interest | Fiscal outturns, cyclically adjusted accounts |
-
 | Gross financing needs | Deficit plus debt redemptions | Treasury funding plans and rollover profile |
-
 | Debt-to-GDP ratio | Debt stock relative to nominal output | Valuation, exchange rate, primary deficit and growth |
 
 A sovereign with long average maturity may be able to absorb a temporary yield increase with limited immediate cash-flow impact. A borrower with heavy near-term redemptions has a different exposure, even at the same debt-to-GDP ratio. Likewise, a nation issuing predominantly in its own currency confronts risks different from one with substantial foreign-currency debt. Investors may distinguish fiscal solvency from short-term liquidity; the distinction is important because identical headline debt ratios need not imply identical chances of distress. [2][3]
@@ -59,17 +53,11 @@ Severe scenario | 0.4
 ```
 
 | Projection | 2026 | 2027 | Scope and limitation |
-
 |---|---:|---:|---|
-
 | IMF global real GDP growth | 3.1% | 3.4% | October WEO, global forecast |
-
 | IMF global headline inflation | 4.7% | 4.1% | October WEO, global forecast |
-
 | ECB euro-area GDP baseline | 0.9% | 1.4% | September ECB staff scenario |
-
 | ECB euro-area GDP severe scenario | 0.8% | 0.4% | Not a probability-weighted central forecast |
-
 | ECB euro-area HICP baseline | 3.0% | 2.5% | September ECB inflation projection |
 
 Forecast discrepancies between institutions need not represent errors. They can arise from data cutoffs, coverage, model assumptions and scenarios. A figure for global output cannot be compared directly with a euro-area estimate as though both described the same economy. Fiscal stress must also be assessed against nominal GDP, interest payments and primary fiscal balances; lower real growth does not mechanically translate to an equal change in nominal revenue when inflation, exchange rates and tax brackets change. The direction of pressure may be intelligible even when its magnitude is unidentified. [1][5]
@@ -121,17 +109,11 @@ The IMF's financial stability assessment cautions against assuming that buoyant 
 **Scenario C — market amplification.** A sharp sovereign yield move combined with collateral demands and fund redemptions can turn an orderly repricing into a liquidity problem. Tests are bid-ask spreads in government bonds, repo haircuts, leveraged-position disclosures, dealer inventory and unusual central-bank facility usage. The financial stability report treats this as a vulnerability rather than an event that has already happened. Evidence against a generalized crisis includes functioning primary auctions, term-funding access and unforced adjustment of private portfolios. [2]
 
 | Indicator to monitor | What would support stress | What would weaken the hypothesis |
-
 |---|---|---|
-
 | Sovereign auctions and maturity ladder | Rising borrowing cost and shorter duration | Stable coverage and longer committed maturity |
-
 | Revenue-based debt-service burden | Persistent rise in interest/revenue ratio | Stable or falling effective cost |
-
 | Commodity price transmission | Prolonged imported energy-cost pressure | Broad delivered-fuel price normalization |
-
 | Nonbank market liquidity | Wider spreads, forced liquidations and margins | Stable repo conditions and orderly redemptions |
-
 | Household incidence | Rising real energy burden among low-income groups | Effective targeted support and real-income recovery |
 
 The principal uncertainty is temporal and causal. September commodity prices, the IMF's early-October forecast dataset, the ECB's September simulations and the IMF's mid-October fiscal commentary describe different observation periods. A global estimate must not be inserted mechanically into a national budget without adjusting for import dependence, government tax rules and the debt-maturity structure. No yield closing price or new financial decision is attributed to Sunday, 18 October. The next US macroeconomic releases scheduled for 29 October are future observations, not evidence for the present review. [1][5][6][9]

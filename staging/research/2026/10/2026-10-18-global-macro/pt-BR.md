@@ -13,17 +13,11 @@ O rendimento de um título público representa o preço de financiamento em cert
 Três mecanismos distintos podem elevar os juros nominais: mudança na trajetória esperada da política monetária, compensação exigida pela inflação e prêmio pelo prazo ou pelo risco fiscal. Uma única taxa observada não permite separar essas parcelas sem modelos e outros instrumentos de mercado. A expansão de emissões do Tesouro pode disputar demanda quando bancos, fundos de pensão e seguradoras encontram limites em seus balanços. A inflação reduz o valor real de algumas obrigações nominais fixas, mas não extingue custos: pode elevar o financiamento novo, reduzir prazos desejados e diminuir o poder de compra da população. [2][3]
 
 | Variável fiscal | Mecanismo de transmissão | Evidência necessária para atribuição |
-
 |---|---|---|
-
 | Juros soberanos de dez anos | Preço de novos financiamentos longos | Leilões, juros futuros, estimativas de prêmio de prazo |
-
 | Custo médio da dívida | Cupons e refinanciamento do estoque existente | Calendário de vencimentos e composição por taxa |
-
 | Resultado primário | Arrecadação menos gastos, excluídos juros | Execução fiscal e séries comparáveis |
-
 | Necessidade bruta de financiamento | Déficit somado aos vencimentos | Plano de financiamento do Tesouro |
-
 | Relação dívida/PIB | Estoque de dívida relativo ao produto nominal | Câmbio, crescimento, resultado primário e avaliação patrimonial |
 
 Um governo com vencimentos distribuídos ao longo de muitos anos pode suportar uma alta temporária dos juros com impacto imediato limitado no caixa. Outro com concentração de resgates no curto prazo enfrenta exposição diferente, mesmo que ambos tenham proporção semelhante de dívida sobre PIB. Também variam os riscos entre um emissor de dívida majoritariamente em moeda própria e um devedor com obrigações externas em dólar. Investidores distinguem solvência de liquidez de curto prazo; índices agregados de endividamento, isoladamente, não oferecem uma probabilidade confiável de crise. [2][3]
@@ -59,17 +53,11 @@ Cenário grave | 0.4
 ```
 
 | Projeção | 2026 | 2027 | Abrangência e limitação |
-
 |---|---:|---:|---|
-
 | FMI: PIB real mundial | 3.1% | 3.4% | Previsão mundial de outubro |
-
 | FMI: inflação global cheia | 4.7% | 4.1% | Previsão mundial de outubro |
-
 | BCE: PIB da zona do euro no básico | 0.9% | 1.4% | Cenário de setembro |
-
 | BCE: PIB da zona do euro no grave | 0.8% | 0.4% | Não é cenário central ponderado |
-
 | BCE: inflação HICP no básico | 3.0% | 2.5% | Previsão de preços de setembro |
 
 Diferenças entre projeções de instituições não são necessariamente erros. Podem resultar de datas de corte, cobertura, hipóteses e modelagens distintas. Uma previsão para o mundo não pode ser cotejada diretamente com outra para a zona do euro como se descrevessem a mesma economia. A sustentabilidade fiscal também depende de PIB nominal, juros e resultado primário: uma queda do crescimento real não implica automaticamente igual alteração da arrecadação nominal quando inflação, câmbio e regras tributárias se modificam. A direção provável de uma pressão pode ser compreendida sem conhecer sua magnitude exata. [1][5]
@@ -121,17 +109,11 @@ A análise de estabilidade financeira do FMI alerta que valorização de ativos 
 **Cenário C — amplificação financeira.** Uma alta abrupta dos juros soberanos associada a exigências de garantias e resgates de fundos pode transformar reavaliação ordenada em dificuldade de liquidez. Os testes são spreads de compra e venda nos títulos, exigências de garantia em operações compromissadas, divulgação de posições alavancadas, estoques dos intermediários e uso anormal de linhas dos bancos centrais. O FMI identifica vulnerabilidade, e não um episódio já ocorrido. Evidência contrária a uma crise sistêmica inclui leilões funcionando, manutenção de financiamentos a prazo e ajuste voluntário das carteiras. [2]
 
 | Indicador monitorado | Sinal favorável à hipótese de estresse | Evidência contrária |
-
 |---|---|---|
-
 | Leilões e vencimentos soberanos | Maior custo e prazos menores | Boa demanda e alongamento de prazo |
-
 | Juros em relação à receita | Aumento persistente de juros/receita | Custo efetivo estável ou em queda |
-
 | Transmissão dos preços de energia | Persistência de custos externos | Normalização ampla do combustível entregue |
-
 | Liquidez de fundos e bancos | Spreads maiores e liquidações forçadas | Financiamento estável e resgates ordenados |
-
 | Incidência sobre famílias | Alta do gasto real em energia entre pobres | Apoio focalizado e recuperação da renda real |
 
 A principal incerteza é temporal e causal. Preços de setembro, dados de projeção fechados no início de outubro, simulações de setembro do BCE e comentários fiscais de meados do mês descrevem períodos diferentes. Estimativas globais não podem ser inseridas mecanicamente em um orçamento nacional sem considerar importações, tributação e vencimentos. Não são atribuídas cotações de fechamento ou novas decisões financeiras ao domingo, 18 de outubro. As próximas divulgações americanas previstas para 29 de outubro constituem observações futuras, não evidência disponível nesta data. [1][5][6][9]
