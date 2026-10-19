@@ -1,5 +1,124 @@
 [
   {
+    "id": "MT-GM-2026-10-18",
+    "slug": "2026-10-18-global-macro",
+    "date": "2026-10-18",
+    "published_at": "2026-10-18T22:16:19-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "energy",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "producer_checks": {
+      "verified_at": "2026-10-18T22:16:19-03:00",
+      "information_cutoff": "18 October 2026; last institutional business-day releases through 16 October, IMF fiscal briefing 16 October; no weekend market settlement.",
+      "source_check": "IMF October WEO, October GFSR and 15-16 October fiscal commentary; World Bank October Pink Sheet; ECB September scenarios; IEA OMR; EIA STEO; BEA release calendar.",
+      "bilingual_parity": "Identical 9 primary-source URLs, 3 tables, 2 paired data charts, 1 three-chain flow and 1 five-region qualitative map in EN/PT-BR.",
+      "research_word_counts": {
+        "en": 2796,
+        "pt": 2920,
+        "urls_en": 9,
+        "urls_pt": 9
+      },
+      "visual_signature": "3 tables + 2 charts + 1 flow + 1 map per locale",
+      "novelty": "Sovereign refinancing and fiscal incidence of energy shock rather than 17 October diesel refinery logistics."
+    },
+    "url": "/reports/2026/10/2026-10-18-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-19T01:19:22.226Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "9ac5365e7e2a9f3b5f55eef51efdd011d54c2107",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Sovereign borrowing costs turn the energy shock into a fiscal constraint",
+        "deck": "IMF sovereign-yield evidence and new projections reveal how energy prices interact with debt maturity, fiscal support and financial liquidity.",
+        "tags": [
+          "global macro",
+          "sovereign debt",
+          "government bonds",
+          "fiscal policy",
+          "energy inflation",
+          "financial stability"
+        ],
+        "keywords": [
+          "18 October 2026",
+          "IMF Fiscal Monitor",
+          "sovereign yields",
+          "refinancing risk",
+          "energy shock",
+          "G7 bonds"
+        ],
+        "regime": "Persistently higher energy costs can coincide with slower real growth and more expensive government refinancing.",
+        "key_risk": "Refinancing needs and nonbank liquidity strains amplify gradual fiscal pressure into funding volatility.",
+        "watch": [
+          "G7 government bond auctions and maturity schedules",
+          "Interest payments relative to government revenue",
+          "Energy commodity prices and domestic pass-through",
+          "Nonbank collateral and liquidity conditions",
+          "Targeted household support and budget execution"
+        ],
+        "search_text": "October 18 2026 global macro IMF sovereign yields fiscal policy public debt refinancing energy prices hedge funds government bonds"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Macro Global — o custo da dívida soberana transforma o choque energético em restrição fiscal",
+        "deck": "Evidências do FMI sobre juros soberanos e novas projeções revelam efeitos de energia, vencimentos da dívida, apoio fiscal e liquidez.",
+        "tags": [
+          "macro global",
+          "dívida soberana",
+          "títulos públicos",
+          "política fiscal",
+          "inflação energética",
+          "estabilidade financeira"
+        ],
+        "keywords": [
+          "18 outubro 2026",
+          "FMI Monitor Fiscal",
+          "juros soberanos",
+          "risco de refinanciamento",
+          "choque energético",
+          "títulos G7"
+        ],
+        "regime": "Custos energéticos persistentemente elevados podem conviver com menor crescimento real e refinanciamento mais caro.",
+        "key_risk": "Concentração de vencimentos e problemas de liquidez não bancária podem amplificar pressão fiscal em volatilidade de financiamento.",
+        "watch": [
+          "Leilões de títulos e vencimentos no G7",
+          "Juros pagos como parcela da receita",
+          "Preços de energia e repasse ao consumidor",
+          "Garantias e liquidez fora dos bancos",
+          "Apoio focalizado à renda e execução orçamentária"
+        ],
+        "search_text": "macro global 18 outubro 2026 FMI dívida soberana juros fiscal refinanciamento energia fundos hedge títulos públicos"
+      }
+    }
+  },
+  {
     "id": "MT-GM-2026-10-17",
     "slug": "2026-10-17-global-macro",
     "date": "2026-10-17",
