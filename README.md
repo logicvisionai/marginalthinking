@@ -50,3 +50,44 @@ The public build exposes the same research system through several derived surfac
 
 These pages are derived at build time from canonical report bundles, the frozen taxonomy and the system registry. They are not separate editorial databases.
 
+
+## Live publishing and deployment health
+
+The GitHub Actions workflow `.github/workflows/validate.yml` now deploys the
+verified `dist/` bundle to **Cloudflare Workers**, not just a dry run. Successful
+build checks do not mean the site is live. The workflow only succeeds after an
+actual Wrangler deploy and an HTTP smoke test of `marginalthinking.org`.
+
+### One-time configuration
+
+In **GitHub → Settings → Secrets and variables → Actions**, configure:
+
+- `CLOUDFLARE_API_TOKEN` (repository secret): a Cloudflare API token authorized
+  to edit Workers for the account that actually hosts `marginalthinking.org`.
+- `CLOUDFLARE_ACCOUNT_ID` (repository secret or variable): ID of **that same
+  Cloudflare account**, not an unrelated account containing other projects.
+
+Ensure `marginalthinking.org` is attached to the Worker named `marginalthinking`
+(`wrangler.jsonc`) in the relevant Cloudflare account. A Cloudflare project in a
+**different** account will not be updated by these credentials.
+
+Once configured, use **Actions → Validate Marginal Thinking → Run workflow**
+to perform a build, real deploy and verification. Every push to `main` and the
+daily scheduled run also deploy the latest approved version. The status will
+remain failed when credentials are missing, the deployment fails, the deployed
+SHA does not match `main`, or the report/archive URLs do not contain the
+expected article.
+
+The build writes `/deployment.json` containing a public, non-sensitive Git
+commit SHA to distinguish an up-to-date deployment from a stale one. The smoke
+test also checks English and PT-BR pages of the most recent Global Macro and
+18 October 2026 edition. The HTTP checker is in
+`scripts/verify-live-publication.mjs`.
+
+### Editorial review and scheduling
+
+Unapproved pending manuscripts are validated by the **Editorial drafts and
+freshness** workflow and are **not** a deployment dependency. Only QA-approved
+and public bundles can enter the live build. Overdue unrelated editorial-series
+SLAs continue to surface separately without suppressing an approved report.
+This does not weaken public-research checks or allow unapproved content online.
