@@ -17,6 +17,14 @@ const tasks=[];
 for(const f of fs.readdirSync(path.join(root,'data/pending')).filter(x=>x.endsWith('.json'))){
   const p=json('data/pending/'+f);
   if(!checks(p))continue;
+  // Only reviewed/approved work belongs to the production-build contract.
+  // The independent editorial-audit workflow checks all drafts in strict mode.
+  if(process.env.MT_VALIDATE_ALL_PENDING!=='1'){
+    const qaPath='data/approved/'+p.slug+'.json';
+    if(!exists(qaPath))continue;
+    const qa=json(qaPath);
+    if(qa.qa_status!=='approved' || Number(qa.publication?.revision??0)!==Number(p.revision??0))continue;
+  }
   const dir='staging/research/'+p.date.slice(0,4)+'/'+p.date.slice(5,7)+'/'+p.slug;
   tasks.push({p,dir,mode:'staged'});
 }
