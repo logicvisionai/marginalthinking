@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CS-2026-10-19-MAJOR-POWER",
+  "slug": "2026-10-19-major-power-war-global-system-consequences",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T21:02:19-03:00",
+  "kind": "conflict-system-research",
+  "priority": 35,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "geopolitics-security",
+    "macroeconomics",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "fiscal-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "demography-labor",
+    "social-change",
+    "inequality-distribution",
+    "institutions-governance",
+    "commodities-resources",
+    "currencies"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security",
+    "sanctions-economic-coercion",
+    "migration-displacement",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "related_research_ids": [
+    "MT-CS-2026-09-20-EUR-RU-UA"
+  ],
+  "contrary_evidence": [
+    "February 2026 Estonian foreign intelligence assessed no Russian intention to attack NATO within the following year.",
+    "September 2026 Danish intelligence described a broad conventional invasion as highly unlikely and no visible preparation, while noting low but rising risk of limited military attack.",
+    "NATO's defence commitments and nuclear deterrence can reduce incentives for deliberate major war even while proximity and incidents create risk."
+  ],
+  "limitations": [
+    "A hypothetical war has no empirically justifiable start date, duration, nuclear escalation probability or global casualty count.",
+    "Intelligence judgments reflect limited horizons, assumptions and possible unknown decision-making; they are not direct measurements of all state intentions.",
+    "SIPRI military spending, nuclear inventories and capacity figures are estimates; monetary totals do not measure theatre-specific operational readiness.",
+    "Scenario horizons are conceptual and not likelihood weights; economic and psychological consequences require country- and group-specific exposure data.",
+    "Historical background and contemporary incident attribution are distinct evidentiary tasks; no claimed anonymous sabotage is treated as verified."
+  ],
+  "assessment_confidence": "medium",
+  "revision": 0,
+  "url": "/reports/2026/10/2026-10-19-major-power-war-global-system-consequences.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-20T00:03:44Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "9c34d99aa3a9a4c6b3510d0dce5356b7faf20e77",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "When deterrence fails: NATO, Russia and the political economy of a major-power war",
+      "deck": "A comprehensive examination of how a direct great-power confrontation could transform military deterrence, nuclear risk, technology, finance, production, energy, media, societies, collective psychology and negotiated peace, with a critical reading of the actual 2026 threat assessments.",
+      "tags": [
+        "NATO",
+        "Russia",
+        "Ukraine",
+        "great-power conflict",
+        "nuclear deterrence",
+        "defence industry",
+        "war economy",
+        "society",
+        "information integrity",
+        "peace settlements"
+      ],
+      "keywords": [
+        "NATO Russia direct conflict 2026",
+        "global war risk assessment Danish intelligence Estonia",
+        "SIPRI world military spending 2025 nuclear 2026",
+        "major power war economic psychosocial effects",
+        "media censorship disinformation wartime law",
+        "long war armistice peace settlement duration"
+      ],
+      "regime": "Rising risk of limited military incidents within enduring nuclear deterrence; substantial industrial mobilisation without evidence that broad war is predetermined.",
+      "key_risk": "A limited incident, ambiguous attribution or disruption could trigger uncontrolled escalation, while prolonged conflict corrodes civilian infrastructure, trust, budgets and human capital.",
+      "watch": [
+        "Verified limited-incursion evidence and Article 4 consultation outcomes",
+        "Independent attribution of air, maritime, cyber and infrastructure incidents",
+        "Actual defence deliveries and readiness relative to procurement targets",
+        "Nuclear risk reduction arrangements after New START expiration",
+        "Civilian casualties, displacement, school/medical continuity and energy shipping",
+        "Verified crisis communications, arms-control negotiations and monitored settlements"
+      ],
+      "search_text": "NATO Russia direct war risk 2026 great power conflict economic social psychosocial consequences nuclear conventional chemical biological drones cyber space media control peace negotiations armistice geopolitical systems"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Quando a dissuasão falha: OTAN, Rússia e a economia política de uma guerra entre potências",
+      "deck": "Pesquisa aprofundada sobre como um confronto entre potências afetaria dissuasão nuclear, armamentos, tecnologia, finanças, produção, energia, mídia, sociedades, psicologia coletiva e acordos de paz, confrontando cenários com avaliações oficiais de 2026.",
+      "tags": [
+        "OTAN",
+        "Rússia",
+        "Ucrânia",
+        "conflito entre potências",
+        "dissuasão nuclear",
+        "indústria de defesa",
+        "economia de guerra",
+        "sociedade",
+        "integridade da informação",
+        "acordos de paz"
+      ],
+      "keywords": [
+        "risco de guerra OTAN Rússia 2026",
+        "inteligência da Dinamarca Estônia",
+        "gastos militares SIPRI 2025 armas nucleares 2026",
+        "efeitos econômicos sociais psicossociais guerra global",
+        "controle da mídia censura desinformação",
+        "duração conflito armistício tratado paz"
+      ],
+      "regime": "Maior risco de incidentes militares limitados sob dissuasão nuclear; mobilização industrial prolongada sem evidências de guerra ampla inevitável.",
+      "key_risk": "Incidente limitado, atribuição ambígua ou interrupção de infraestrutura podem ampliar a escalada, enquanto conflitos prolongados degradam serviços, confiança, finanças públicas e capital humano.",
+      "watch": [
+        "Incursões verificadas e resultados de consultas do Artigo 4º",
+        "Atribuição independente de incidentes aéreos, marítimos, digitais e de infraestrutura",
+        "Entregas industriais e prontidão reais ante metas de compras",
+        "Mecanismos de redução do risco nuclear após a expiração do New START",
+        "Baixas civis, refugiados, escola, saúde, energia e navegação",
+        "Comunicação verificável, controle de armamentos e acordos fiscalizados"
+      ],
+      "search_text": "OTAN Rússia risco guerra mundial 2026 conflito potências efeitos econômicos sociais psicossociais armas nucleares convencionais químicas biológicas drones ciber espaço controle mídia paz armistício duração"
+    }
+  }
+}
