@@ -63,7 +63,7 @@ for(const {p,dir,mode} of tasks){
     if(!exists(approval))failures.push(p.id+': approval absent');
     else{
       const qa=json(approval);
-      if(qa.publication?.revision!==p.revision)failures.push(p.id+': approved revision mismatch');
+      if(Number(qa.publication?.revision??0)!==Number(p.revision??0))failures.push(p.id+': approved revision mismatch');
       for(const key of ['research_depth','evidence_traceability','counterfactual_review']){
         if(qa.checks?.[key]?.result!=='passed')failures.push(p.id+': QA missing passed '+key);
       }
