@@ -59,6 +59,8 @@ The relative causal weight of these explanations remains contested and requires 
 
 ## What changed since last review
 
+- **2026-10-19:** `MT-CS-2026-10-19-MAJOR-POWER` adds a conditional wider-conflict perspective. Alliance consultation, collective-defence obligations, incident attribution and communication are separate institutional mechanisms. Military procurement competes for workers, materials and fiscal capacity; displacement, schooling, healthcare and social trust may remain affected after combat stops. Distinguish ceasefire, monitored armistice and lasting settlement. These are mechanisms, not predictions.
+
 - **2026-09-20:** canonical research `MT-CS-2026-09-20-EUR-RU-UA` established this conflict system as a reusable long-horizon research object and connected institutional history, actor perceptions, defence-industrial mobilisation, displacement and escalation mechanisms in one framework.
 
 ## Open questions
@@ -72,6 +74,7 @@ The relative causal weight of these explanations remains contested and requires 
 ## Related Marginal Thinking research
 
 - `MT-CS-2026-09-20-EUR-RU-UA` — Europe–Russia–Ukraine security system.
+- `MT-CS-2026-10-19-MAJOR-POWER` — conditional cross-border effects.
 - Related context: `research-context/briefings/global-capital-allocation.md` for financing and capital-allocation transmission.
 
 ## Sources and verification notes
