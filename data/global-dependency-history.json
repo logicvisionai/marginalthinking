@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Global Dependency Network history",
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-10-20",
   "event_types": {
     "baseline": {
       "en": "Baseline",
@@ -1738,6 +1738,64 @@
       },
       "research_ids": [
         "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "event_id": "middle-east-product-shipments-2026-10-20-added",
+      "entity_type": "node",
+      "entity_id": "middle-east-product-shipments",
+      "date": "2026-10-20",
+      "type": "node_added",
+      "snapshot": {
+        "type": "flow",
+        "group": "energy-finance",
+        "label": {
+          "en": "Middle East product shipments",
+          "pt-BR": "Embarques de derivados do Oriente Médio"
+        }
+      },
+      "summary": {
+        "en": "Separated product shipments from crude exports using October 2026 IEA data.",
+        "pt-BR": "Separados embarques de derivados de exportações de petróleo bruto com dados da AIE de outubro de 2026."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-19"
+      ],
+      "evidence_refs": [
+        {
+          "label": "IEA Oil Market Report October 2026",
+          "url": "https://www.iea.org/reports/oil-market-report-october-2026",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "event_id": "dep-refined-products-oil-costs-2026-10-20-added",
+      "entity_type": "edge",
+      "entity_id": "dep-refined-products-oil-costs",
+      "edge_id": "dep-refined-products-oil-costs",
+      "date": "2026-10-20",
+      "type": "edge_added",
+      "snapshot": {
+        "from": "middle-east-product-shipments",
+        "to": "global-oil-costs",
+        "relation": "transmits",
+        "criticality": "high",
+        "substitutability": "medium"
+      },
+      "summary": {
+        "en": "Documented the distinct price channel for constrained refined-fuel availability.",
+        "pt-BR": "Documentado o canal específico de preços ligado à menor disponibilidade de derivados."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-19"
+      ],
+      "evidence_refs": [
+        {
+          "label": "IEA Oil Market Report October 2026",
+          "url": "https://www.iea.org/reports/oil-market-report-october-2026",
+          "date": "2026-10-14"
+        }
       ]
     }
   ]
