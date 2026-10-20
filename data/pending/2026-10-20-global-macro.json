@@ -1,0 +1,118 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-20",
+  "slug": "2026-10-20-global-macro",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T04:45:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-20-global-macro/en.md",
+      "title": "Global Macro — China's stronger GDP conceals a shrinking domestic investment base",
+      "deck": "China's third-quarter improvement masks falling private investment as US long yields and weak housing expose uneven global financing conditions.",
+      "tags": [
+        "global macro",
+        "China GDP",
+        "investment",
+        "PBOC",
+        "US Treasury",
+        "housing",
+        "fund flows"
+      ],
+      "keywords": [
+        "20 October 2026",
+        "China Q3 GDP 2026",
+        "PBOC overnight proposal",
+        "US Treasury 19 October",
+        "NAHB October 2026",
+        "ICI flows"
+      ],
+      "regime": "Chinese export-led production resilience with weak domestic investment, rising US long yields and uneven global financing.",
+      "key_risk": "External-demand dependence and energy-linked refinancing pressure reinforce each other before domestic consumption and housing recover.",
+      "watch": [
+        "PBOC overnight repo and nonbank liquidity rules",
+        "China private nonproperty investment and consumer spending",
+        "US real Treasury yields and housing applications",
+        "Revised fund and ETF flows",
+        "Delivered refined-fuel costs and European sovereign spreads"
+      ],
+      "search_text": "Global Macro 20 October 2026 China GDP private fixed investment property PBOC overnight repo US Treasury housing fund flows energy"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-20-global-macro/pt-BR.md",
+      "title": "Macro Global — PIB mais forte na China esconde contração do investimento doméstico",
+      "deck": "A melhora do PIB chinês esconde queda do investimento privado, enquanto juros longos americanos e moradia fraca revelam financiamento global desigual.",
+      "tags": [
+        "macro global",
+        "PIB chinês",
+        "investimento",
+        "Banco Popular da China",
+        "Tesouro americano",
+        "moradia",
+        "fluxos"
+      ],
+      "keywords": [
+        "20 outubro 2026",
+        "China PIB terceiro trimestre",
+        "PBoC recompra um dia",
+        "Treasury 19 outubro",
+        "NAHB outubro 2026",
+        "fluxos ICI"
+      ],
+      "regime": "Resiliência industrial exportadora chinesa com investimento interno fraco, juros longos americanos em alta e financiamento global desigual.",
+      "key_risk": "Dependência da demanda externa e pressão de refinanciamento associada à energia se reforçam antes da recuperação do consumo e da moradia.",
+      "watch": [
+        "Regras de recompra diária e apoio a não bancários do PBoC",
+        "Investimento privado não imobiliário e consumo chinês",
+        "Juros reais americanos e pedidos de hipoteca",
+        "Fluxos revisados de fundos e ETFs",
+        "Custos entregues de derivados e spreads soberanos europeus"
+      ],
+      "search_text": "Macro Global 20 outubro 2026 China PIB investimento privado imobiliário Banco Popular juros Treasury moradia fluxos energia"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "capital-markets",
+    "monetary-policy",
+    "industry-production",
+    "trade-investment",
+    "sovereign-debt",
+    "energy",
+    "banking-credit"
+  ],
+  "phenomena": [
+    "political-stability",
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "producer_checks": {
+    "information_cutoff": "20 October 2026 04:45 BRT. China and US releases through 19 October; fund-flow observation to 7 October. No 20 October market closes asserted.",
+    "editorial_novelty": "China 19 October Q3 GDP release and private investment contraction plus new PBOC overnight operating proposal; distinct from 19 October US industrial capacity and 18 October sovereign fiscal analysis.",
+    "visual_signature": "2 tables, 2 charts, 1 map and 1 flow per language; values and units equivalent.",
+    "source_check": "NBS, US Treasury, NAHB, ICI, Eurostat, EIA, IEA and IBGE primary; Xinhua official-speech attribution, AP/Reuters market context; explicit vintages.",
+    "bilingual_parity": "12 matching URLs, equivalent numerical observations, dates, charts and scenario qualifications.",
+    "editorial_radar": "Reviewed all registered editorial lines, including food/nutrition, agricultural chemical exposure, livestock AMR, pandemic preparedness, chemical/biological security, conflict systems, social change, monetary institutions and technology. Existing October 20 protest research pending; no separate thematic report with independent verified delta justified.",
+    "institutional_signal_classes": "ICI flows are client capital evidence, not manager holdings; PBOC speech is attributed official policy intention; IMF WEO is a research forecast; Reuters/AP are secondary market context."
+  }
+}
