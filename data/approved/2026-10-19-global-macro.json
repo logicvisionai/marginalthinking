@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-19",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-20T00:10:55Z",
+  "reviewed_commit": "b18bad983b1593a546677dc1e14faa96b31cf1a3",
+  "pending_blob_sha": "ed4a06323c7b4befd7aab3f844776c6e3d585c85",
+  "source_blob_shas": {
+    "en": "371bc9517b94a25863fb76bb2f821e53df613786",
+    "pt-BR": "3879fa616e02bee07b0e8783e29e4de085993d99"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Checked 16 Oct 2026 Fed G.17 output/utilization, IMF 13 Oct WEO outlook, Eurostat 15 Oct August factory data, IBGE 2 Oct August factory data, and BEA 30 Sep household figures. Explicitly distinguishes August from September and nominal from real measures."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "US specialized industrial expansion compared with weaker euro-area and Brazil factory readings; evaluates industry diffusion, physical capacity, financing, incomes and energy without copying the 18 Oct sovereign-debt report."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two equivalent quantitative charts, two evidence tables, a causal flow and qualitative geographic map in both locales; chart values match."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 1878,
+        "pt": 2089,
+        "urls_en": 8,
+        "urls_pt": 8
+      },
+      "summary": "US sector-level output and utilization juxtaposed with euro-area and Brazil August production and US household expenditure; documents limits of aggregation, transmission channels and falsifiers."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Eight identical source URLs in English and Portuguese across Federal Reserve, IMF, EIA, ICI, Treasury, Eurostat, IBGE and BEA; primary observations dated and source vintages distinguished."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Alternative explanations include energy-driven utility demand, inventory timing, narrow semiconductors, geographically segmented cycles and future spread to capital goods and wages."
+    }
+  },
+  "contrary_evidence": [
+    "A national utilization gap cannot determine whether a local power network or semiconductor fabrication line has spare capacity.",
+    "Rising nominal household spending does not imply real purchasing-power gains.",
+    "Euro area and Brazil August output data are not contemporaneous with US September industrial figures; cross-country comparisons do not establish a shared causal shock."
+  ],
+  "limitations": [
+    "September Fed industrial observations are preliminary and scheduled for benchmark revisions.",
+    "Sectoral factory data cannot identify ownership or beneficiary geography of capital returns.",
+    "This internal QA checks key institutional anchors and article comparability, not external peer review of all interpretation."
+  ],
+  "notes": "Internal substantive bilingual editorial QA; 8 same institutional URL references and aligned source date units checked; latest material created after correction of research depth constraints.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-19",
+    "slug": "2026-10-19-global-macro",
+    "date": "2026-10-19",
+    "published_at": "2026-10-19T21:07:58-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-19-global-macro/en.md",
+        "title": "Global Macro — US industrial output rebounds while manufacturing capacity remains underused",
+        "deck": "September output rose 0.7% but utilities and semiconductors outpaced ordinary manufacturing, while overall utilization remained below normal.",
+        "tags": [
+          "global macro",
+          "industrial production",
+          "capacity utilization",
+          "semiconductors",
+          "energy",
+          "manufacturing"
+        ],
+        "keywords": [
+          "19 October 2026",
+          "Federal Reserve September 2026 G.17",
+          "industrial utilization",
+          "utilities",
+          "motor vehicles"
+        ],
+        "regime": "Selective US industrial recovery, uneven capacity use, and high international energy costs.",
+        "key_risk": "Specialized investment fails to broaden because of local infrastructure, financing and energy constraints.",
+        "watch": [
+          "Federal Reserve October industrial production and revisions",
+          "24 November G.17 annual benchmark revision",
+          "Vehicle output and factory orders",
+          "Grid connections and equipment deliveries",
+          "Industrial employment and real earnings"
+        ],
+        "search_text": "October 19 2026 US industrial production macro manufacturing mining utilities semiconductors capacity utilization energy IMF"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-19-global-macro/pt-BR.md",
+        "title": "Macro Global — produção industrial americana cresce, mas a capacidade de fabricação continua subutilizada",
+        "deck": "A produção de setembro avançou 0,7%, com serviços públicos e semicondutores à frente da transformação, enquanto a utilização geral seguiu abaixo da média.",
+        "tags": [
+          "macro global",
+          "produção industrial",
+          "utilização da capacidade",
+          "semicondutores",
+          "energia",
+          "transformação"
+        ],
+        "keywords": [
+          "19 outubro 2026",
+          "Federal Reserve produção industrial setembro",
+          "utilização capacidade",
+          "serviços públicos",
+          "veículos"
+        ],
+        "regime": "Recuperação industrial seletiva nos EUA, capacidade heterogênea e custos internacionais de energia elevados.",
+        "key_risk": "O investimento especializado não se dissemina por limitações locais de infraestrutura, crédito e energia.",
+        "watch": [
+          "Produção industrial de outubro e revisões do Federal Reserve",
+          "Revisão estrutural G.17 em 24 de novembro",
+          "Veículos e encomendas industriais",
+          "Conexões de rede e entrega de equipamentos",
+          "Emprego industrial e renda real"
+        ],
+        "search_text": "19 outubro 2026 macro global produção industrial Estados Unidos capacidade fabricação semicondutores energia FMI"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "industry-production",
+      "energy",
+      "capital-markets",
+      "infrastructure-logistics",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "producer_checks": {
+      "information_cutoff": "Official releases to 16 October 2026; published 19 October, no Monday close asserted.",
+      "editorial_novelty": "US September factory divergence cross-checked against August industrial contractions in the euro area and Brazil and US August household accounts.",
+      "visual_signature": "2 tables, 2 charts, 1 flow and 1 map per locale.",
+      "source_check": "Federal Reserve, IMF, EIA, ICI, Treasury, Eurostat, IBGE and BEA — eight primary institutional/industry sources; regional series are dated and not conflated.",
+      "bilingual_parity": "Eight matching institutional source URLs, aligned quantitative comparisons and unchanged chart series across both languages."
+    }
+  }
+}

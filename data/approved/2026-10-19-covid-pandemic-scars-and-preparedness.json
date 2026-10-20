@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-PH-2026-10-19-pandemic-scars",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-20T00:03:44Z",
-  "reviewed_commit": "9c34d99aa3a9a4c6b3510d0dce5356b7faf20e77",
+  "reviewed_at": "2026-10-20T00:10:55Z",
+  "reviewed_commit": "b18bad983b1593a546677dc1e14faa96b31cf1a3",
   "pending_blob_sha": "28c524a10c99dcd6c5491c59abc89593f183da04",
   "source_blob_shas": {
-    "en": "f2d382b04145b0d8895d0524c6a62047d4d9909d",
-    "pt-BR": "a82cfb037431b22378f3993e43a92ff649d2f7ea"
+    "en": "d91d9168856974fa2c8360516c587f9084330aa8",
+    "pt-BR": "abc699d8ca8313d20195c7514188d0811baac139"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -54,7 +54,7 @@
     "Historical estimated burdens and current clinical surveillance use different periods and denominators.",
     "The Pandemic Agreement and PABS negotiations are not equivalent to fully implemented international preparedness."
   ],
-  "notes": "Internal documentary and bilingual QA with manual checks against selected institutional primary sources and deterministic structure/visual parity; not external scientific peer review.",
+  "notes": "Internal documentary and bilingual QA with manual checks against selected institutional primary sources and deterministic structure/visual parity; not external scientific peer review. Targeted final factual-neutral prose fixes: English self-reference removed; Portuguese vaccine manufacturing quality control terminology clarified.",
   "publication": {
     "schema_version": 2,
     "ready": true,
