@@ -4,8 +4,8 @@
   "updated_at": "2026-10-20",
   "evidence_cutoff": "2026-10-19",
   "method": {
-    "en": "Each observation preserves period, population, geography, source release date, unit, publication status and caveats. No series are combined unless denominators and geographical coverage match. A newer source release requires a new or revised observation, not a mere timestamp edit.",
-    "pt-BR": "Cada observação preserva período, população, geografia, data da fonte, unidade, situação de publicação e ressalvas. Séries não são combinadas sem populações e abrangência geográfica compatíveis. Fonte nova exige observação nova ou revisada, não apenas alteração do timestamp."
+    "en": "Each observation preserves period, population, geography, source release date, unit, publication status and caveats. No series are combined unless denominators and geographical coverage match. A newer source release requires a new or revised observation, not a mere timestamp edit. Observed data, stock changes and forecasts are explicitly distinct; IMF and OECD projections are retained as separately sourced scenarios.",
+    "pt-BR": "Cada observação preserva período, população, geografia, data da fonte, unidade, situação de publicação e ressalvas. Séries não são combinadas sem populações e abrangência geográfica compatíveis. Fonte nova exige observação nova ou revisada, não apenas alteração do timestamp. Dados observados, variações de estoque e previsões são categorias distintas; as projeções do FMI e da OCDE são mantidas separadamente."
   },
   "observations": [
     {
@@ -228,6 +228,372 @@
       "caveat": {
         "en": "Product export category and regional definition differ from crude-oil production; the reference is not a precise matched-month counterfactual.",
         "pt-BR": "Categoria de derivados e geografia diferentes da produção de petróleo bruto; referência não é contrafactual mensal preciso."
+      }
+    },
+    {
+      "id": "imf-global-growth-2026",
+      "indicator": "global_real_gdp_growth_forecast",
+      "geography": "WORLD",
+      "population": "World real output; IMF WEO aggregate",
+      "period": "2026",
+      "released_at": "2026-10-13",
+      "value": 3.1,
+      "unit": "percent_yoy",
+      "status": "official_projection",
+      "source": {
+        "publisher": "IMF",
+        "title": "World Economic Outlook, October 2026",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
+      },
+      "description": {
+        "en": "IMF projected world real GDP growth in 2026.",
+        "pt-BR": "Projeção do FMI para o crescimento real do PIB mundial em 2026."
+      },
+      "caveat": {
+        "en": "Projection, not observed GDP growth; IMF WEO coverage, weighting and assumptions differ from OECD.",
+        "pt-BR": "Projeção, não PIB observado; cobertura, ponderação e premissas do FMI diferem das usadas pela OCDE."
+      },
+      "data_cutoff": "2026-10-01"
+    },
+    {
+      "id": "imf-global-inflation-2026",
+      "indicator": "global_headline_inflation_forecast",
+      "geography": "WORLD",
+      "population": "Global CPI aggregates; IMF WEO",
+      "period": "2026",
+      "released_at": "2026-10-13",
+      "value": 4.7,
+      "unit": "percent_yoy",
+      "status": "official_projection",
+      "source": {
+        "publisher": "IMF",
+        "title": "World Economic Outlook, October 2026",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
+      },
+      "description": {
+        "en": "IMF projected global headline consumer inflation for 2026.",
+        "pt-BR": "Projeção do FMI para a inflação ao consumidor mundial em 2026."
+      },
+      "caveat": {
+        "en": "Projected worldwide aggregate; not euro-area or EU inflation and not a realized 12-month observation.",
+        "pt-BR": "Agregado global projetado; não é inflação da zona do euro, da UE ou valor realizado em doze meses."
+      },
+      "data_cutoff": "2026-10-01"
+    },
+    {
+      "id": "imf-global-growth-2027",
+      "indicator": "global_real_gdp_growth_forecast",
+      "geography": "WORLD",
+      "population": "World real output; IMF WEO aggregate",
+      "period": "2027",
+      "released_at": "2026-10-13",
+      "value": 3.4,
+      "unit": "percent_yoy",
+      "status": "official_projection",
+      "source": {
+        "publisher": "IMF",
+        "title": "World Economic Outlook, October 2026",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
+      },
+      "description": {
+        "en": "IMF projected world real GDP growth in 2027.",
+        "pt-BR": "Projeção do FMI para o crescimento real do PIB mundial em 2027."
+      },
+      "caveat": {
+        "en": "Projection, not observed GDP growth; IMF WEO coverage, weighting and assumptions differ from OECD.",
+        "pt-BR": "Projeção, não PIB observado; cobertura, ponderação e premissas do FMI diferem das usadas pela OCDE."
+      },
+      "data_cutoff": "2026-10-01"
+    },
+    {
+      "id": "imf-global-inflation-2027",
+      "indicator": "global_headline_inflation_forecast",
+      "geography": "WORLD",
+      "population": "Global CPI aggregates; IMF WEO",
+      "period": "2027",
+      "released_at": "2026-10-13",
+      "value": 4.1,
+      "unit": "percent_yoy",
+      "status": "official_projection",
+      "source": {
+        "publisher": "IMF",
+        "title": "World Economic Outlook, October 2026",
+        "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026"
+      },
+      "description": {
+        "en": "IMF projected global headline consumer inflation for 2027.",
+        "pt-BR": "Projeção do FMI para a inflação ao consumidor mundial em 2027."
+      },
+      "caveat": {
+        "en": "Projected worldwide aggregate; not euro-area or EU inflation and not a realized 12-month observation.",
+        "pt-BR": "Agregado global projetado; não é inflação da zona do euro, da UE ou valor realizado em doze meses."
+      },
+      "data_cutoff": "2026-10-01"
+    },
+    {
+      "id": "oecd-world-growth-2026",
+      "indicator": "global_real_gdp_growth_forecast",
+      "geography": "WORLD",
+      "population": "World output, OECD economic-outlook aggregation",
+      "period": "2026",
+      "released_at": "2026-09-23",
+      "value": 2.9,
+      "unit": "percent_yoy",
+      "status": "official_projection",
+      "source": {
+        "publisher": "OECD",
+        "title": "OECD Economic Outlook, Interim Report September 2026",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-outlook-interim-report-september-2026_f751d02b-en.html"
+      },
+      "description": {
+        "en": "OECD September 2026 interim forecast for world real GDP growth in 2026.",
+        "pt-BR": "Projeção da OCDE de setembro de 2026 para o PIB real mundial em 2026."
+      },
+      "caveat": {
+        "en": "Not interchangeable with IMF projections; earlier information cutoff, different model and aggregation.",
+        "pt-BR": "Não é intercambiável com projeções do FMI; data de corte, modelo e agregação diferentes."
+      },
+      "data_cutoff": "2026-09-23"
+    },
+    {
+      "id": "oecd-world-growth-2027",
+      "indicator": "global_real_gdp_growth_forecast",
+      "geography": "WORLD",
+      "population": "World output, OECD economic-outlook aggregation",
+      "period": "2027",
+      "released_at": "2026-09-23",
+      "value": 3,
+      "unit": "percent_yoy",
+      "status": "official_projection",
+      "source": {
+        "publisher": "OECD",
+        "title": "OECD Economic Outlook, Interim Report September 2026",
+        "url": "https://www.oecd.org/en/publications/oecd-economic-outlook-interim-report-september-2026_f751d02b-en.html"
+      },
+      "description": {
+        "en": "OECD September 2026 interim forecast for world real GDP growth in 2027.",
+        "pt-BR": "Projeção da OCDE de setembro de 2026 para o PIB real mundial em 2027."
+      },
+      "caveat": {
+        "en": "Not interchangeable with IMF projections; earlier information cutoff, different model and aggregation.",
+        "pt-BR": "Não é intercambiável com projeções do FMI; data de corte, modelo e agregação diferentes."
+      },
+      "data_cutoff": "2026-09-23"
+    },
+    {
+      "id": "euro-area-energy-inflation-contribution-2026-09",
+      "indicator": "energy_inflation_contribution",
+      "geography": "EA21",
+      "population": "Euro-area September headline HICP annual rate contributions",
+      "period": "2026-09",
+      "released_at": "2026-10-16",
+      "value": 1.71,
+      "unit": "percentage_points_contribution",
+      "status": "official_final",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Euro area annual inflation 3.8% in September 2026",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap"
+      },
+      "description": {
+        "en": "Energy component contribution to annual euro-area HICP inflation.",
+        "pt-BR": "Contribuição do componente energético para a inflação anual IPCH da zona do euro."
+      },
+      "caveat": {
+        "en": "Contribution in percentage points, not the energy price index growth rate.",
+        "pt-BR": "Contribuição em pontos percentuais, não variação percentual do índice de preços da energia."
+      }
+    },
+    {
+      "id": "hicp-ro-2026-09",
+      "indicator": "annual_hicp_inflation",
+      "geography": "RO",
+      "population": "Romania harmonised consumer expenditure basket",
+      "period": "2026-09",
+      "released_at": "2026-10-16",
+      "value": 6.5,
+      "unit": "percent_yoy",
+      "status": "official_final",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Euro area annual inflation 3.8% in September 2026",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap"
+      },
+      "description": {
+        "en": "Romania annual HICP inflation in September 2026.",
+        "pt-BR": "Inflação anual IPCH da Romênia em setembro de 2026."
+      },
+      "caveat": {
+        "en": "National HICP is comparable by methodology, but household baskets and national exposures still differ.",
+        "pt-BR": "IPCH nacional comparável metodologicamente; cestas das famílias e exposições locais diferem."
+      }
+    },
+    {
+      "id": "hicp-lt-2026-09",
+      "indicator": "annual_hicp_inflation",
+      "geography": "LT",
+      "population": "Lithuania harmonised consumer expenditure basket",
+      "period": "2026-09",
+      "released_at": "2026-10-16",
+      "value": 6.1,
+      "unit": "percent_yoy",
+      "status": "official_final",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Euro area annual inflation 3.8% in September 2026",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap"
+      },
+      "description": {
+        "en": "Lithuania annual HICP inflation in September 2026.",
+        "pt-BR": "Inflação anual IPCH da Lituânia em setembro de 2026."
+      },
+      "caveat": {
+        "en": "National HICP is comparable by methodology, but household baskets and national exposures still differ.",
+        "pt-BR": "IPCH nacional comparável metodologicamente; cestas das famílias e exposições locais diferem."
+      }
+    },
+    {
+      "id": "hicp-bg-2026-09",
+      "indicator": "annual_hicp_inflation",
+      "geography": "BG",
+      "population": "Bulgaria harmonised consumer expenditure basket",
+      "period": "2026-09",
+      "released_at": "2026-10-16",
+      "value": 5.6,
+      "unit": "percent_yoy",
+      "status": "official_final",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Euro area annual inflation 3.8% in September 2026",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap"
+      },
+      "description": {
+        "en": "Bulgaria annual HICP inflation in September 2026.",
+        "pt-BR": "Inflação anual IPCH da Bulgária em setembro de 2026."
+      },
+      "caveat": {
+        "en": "National HICP is comparable by methodology, but household baskets and national exposures still differ.",
+        "pt-BR": "IPCH nacional comparável metodologicamente; cestas das famílias e exposições locais diferem."
+      }
+    },
+    {
+      "id": "euaa-pending-first-instance-end-2025",
+      "indicator": "asylum_cases_pending_first_instance",
+      "geography": "EU_PLUS",
+      "population": "Asylum cases awaiting a first-instance decision in EU+ countries",
+      "period": "2025",
+      "released_at": "2026-05-01",
+      "value": 863000,
+      "unit": "cases_approx",
+      "status": "agency_estimate_rounded",
+      "source": {
+        "publisher": "EUAA",
+        "title": "Asylum Report 2026, section 3.4",
+        "url": "https://dip-aws.euaa.europa.eu/asylum-report-2026/34-data-applications-international-protection"
+      },
+      "description": {
+        "en": "Approximate EU+ asylum applications pending at first instance at the end of 2025.",
+        "pt-BR": "Cerca de 863 mil processos de asilo pendentes de decisão de primeira instância na UE+ ao fim de 2025."
+      },
+      "caveat": {
+        "en": "Stock of undecided cases, not applications filed in the year or people arriving.",
+        "pt-BR": "Estoque de processos não decididos, não número de pedidos feitos no ano ou pessoas que chegaram."
+      }
+    },
+    {
+      "id": "iea-oil-demand-growth-2026",
+      "indicator": "global_oil_demand_change_forecast",
+      "geography": "WORLD",
+      "population": "Annual average world oil demand year-on-year change",
+      "period": "2026",
+      "released_at": "2026-10-14",
+      "value": -2.6,
+      "unit": "million_barrels_per_day_change",
+      "status": "agency_projection",
+      "source": {
+        "publisher": "IEA",
+        "title": "Oil Market Report October 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      "description": {
+        "en": "IEA October forecast: world oil demand in 2026 averages 2.6 million b/d less than in 2025.",
+        "pt-BR": "Previsão de outubro da AIE: demanda mundial de petróleo em 2026, em média, 2,6 milhões b/d menor que em 2025."
+      },
+      "caveat": {
+        "en": "Forecast change, not the absolute demand level or observed monthly supply.",
+        "pt-BR": "Variação projetada, não nível absoluto de demanda nem oferta mensal observada."
+      }
+    },
+    {
+      "id": "iea-gulf-crude-exports-2026-09",
+      "indicator": "gulf_crude_exports",
+      "geography": "MIDDLE_EAST",
+      "population": "Gulf crude oil export shipments",
+      "period": "2026-09",
+      "released_at": "2026-10-14",
+      "value": 13.9,
+      "unit": "million_barrels_per_day",
+      "status": "agency_estimate",
+      "source": {
+        "publisher": "IEA",
+        "title": "Oil Market Report October 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      "description": {
+        "en": "IEA estimated Gulf crude exports of 13.9 million barrels/day in September 2026.",
+        "pt-BR": "AIE estimou exportações de óleo bruto do Golfo de 13,9 milhões de barris/dia em setembro de 2026."
+      },
+      "caveat": {
+        "en": "Crude exports, distinct from refined-product exports and production; subject to revision.",
+        "pt-BR": "Exportação de petróleo bruto, distinta de derivados e produção; sujeita a revisões."
+      }
+    },
+    {
+      "id": "iea-hormuz-oil-flows-2026-09",
+      "indicator": "hormuz_oil_flows",
+      "geography": "STRAIT_HORMUZ",
+      "population": "Total oil transit through Strait of Hormuz",
+      "period": "2026-09",
+      "released_at": "2026-10-14",
+      "value": 10.9,
+      "unit": "million_barrels_per_day",
+      "status": "agency_estimate",
+      "source": {
+        "publisher": "IEA",
+        "title": "Oil Market Report October 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      "description": {
+        "en": "IEA estimated total oil flows through Hormuz of 10.9 million b/d in September 2026.",
+        "pt-BR": "A AIE estimou trânsito total de petróleo por Hormuz em 10,9 milhões b/d em setembro de 2026."
+      },
+      "caveat": {
+        "en": "Transit through a route, not an independent increment to Gulf crude exports.",
+        "pt-BR": "Fluxo por uma rota, não acréscimo independente às exportações de óleo bruto do Golfo."
+      }
+    },
+    {
+      "id": "iea-global-observed-oil-inventory-change-2026-09",
+      "indicator": "observed_oil_stocks_change_since_feb_2026",
+      "geography": "WORLD",
+      "population": "IEA globally observed petroleum inventory levels at end September vs end February 2026",
+      "period": "2026-09",
+      "released_at": "2026-10-14",
+      "value": -509,
+      "unit": "million_barrels_change",
+      "status": "agency_estimate",
+      "source": {
+        "publisher": "IEA",
+        "title": "Oil Market Report October 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      "description": {
+        "en": "Observed global inventories at end-September were 509 million barrels below end-February 2026 levels.",
+        "pt-BR": "Estoques mundiais observados ao fim de setembro estavam 509 milhões de barris abaixo do fim de fevereiro de 2026."
+      },
+      "caveat": {
+        "en": "Observed change in stock over the named interval; not oil production, consumption or export flows.",
+        "pt-BR": "Variação do estoque observado no intervalo, não produção, consumo ou exportação de petróleo."
       }
     }
   ]
