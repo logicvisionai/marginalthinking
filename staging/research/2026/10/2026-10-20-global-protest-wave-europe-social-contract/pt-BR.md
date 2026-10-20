@@ -98,6 +98,31 @@ Charles Tilly, ao estudar repertórios de contestação, e Sidney Tarrow, em *Po
 
 Também importa a resposta do regime político. Livre manifestação pacífica, imprensa independente e revisão judicial permitem transformar oposição em informação sobre falhas de política pública. Repressão desproporcional, detenção arbitrária e impunidade podem ampliar a desconfiança. Violência contra manifestantes, policiais ou terceiros exige investigação baseada em provas, não atribuição automática por identidade partidária. Conflito democrático não equivale, por si só, ao colapso da democracia. Às vezes, a manifestação demonstra precisamente que ainda existe espaço para expressar demandas coletivas.
 
+### Amostra comparativa mundial, 2022–2026
+
+Seis experiências fora da União Europeia permitem testar melhor a hipótese de que as ondas de protestos possuem uma única causa. **No Quênia, em 2024**, a mobilização contra um projeto de lei orçamentária nasceu de propostas de aumento de tributos: os participantes questionavam quem suportaria o ajuste fiscal e a distância percebida entre a cobrança de impostos e a entrega de serviços públicos. A rejeição de instrumentos tributários concretos convergiu com críticas mais amplas às elites governantes. A imigração transfronteiriça não era o centro da disputa. [26]
+
+**Em Bangladesh, em 2024**, manifestações estudantis começaram com controvérsias sobre cotas de acesso a empregos públicos e se transformaram em um movimento contra o governo. A primeira-ministra Sheikh Hasina deixou o país em 5 de agosto de 2024. Investigações sobre direitos humanos examinaram mortes durante os confrontos e depois da mudança de governo, bem como represálias contra grupos políticos e religiosos. A remoção de uma liderança, portanto, não garantiu resolução institucional nem prova que a controvérsia inicial explique toda a violência posterior. A passagem de uma disputa por oportunidades a uma crise de legitimidade foi documentada, mas suas consequências ultrapassaram a demanda original. [27]
+
+**No Nepal, em setembro de 2025**, a proibição de plataformas populares de redes sociais precipitou manifestações em ambiente de descontentamento com corrupção, nepotismo e privilégios das elites. Segundo a Associated Press, 19 manifestantes morreram na repressão inicial, e o primeiro-ministro K. P. Sharma Oli renunciou. A proibição digital foi o desencadeador, não prova de que a disputa se limitasse à liberdade de acesso a plataformas. O caso mostra a interação entre repressão estatal e questionamento à legitimidade distributiva. [28]
+
+**Na Indonésia, entre agosto e setembro de 2025**, protestos se desenvolveram contra os auxílios habitacionais de parlamentares e privilégios de representantes. A morte de um entregador durante ação policial intensificou a indignação. O objeto institucional eram a remuneração e a prestação de contas dos representantes, e concessões do governo não eliminaram questionamentos quanto à conduta contra manifestantes. Não se deve confundir esse caso com a crise habitacional europeia: *auxílios de moradia concedidos a parlamentares* e *a incapacidade de trabalhadores pagarem aluguel* podem provocar revolta por mecanismos orçamentários distintos. [29]
+
+**Em Madagascar, em 2025**, mobilizações juvenis questionaram a interrupção crônica de fornecimento de água e eletricidade, o nível de vida e a corrupção. Os acontecimentos foram seguidos por uma tomada de poder militar e pela suspensão de instituições constitucionais. Essa sequência separa o protesto contra falhas de prestação de serviços da forma de transferência política subsequente: insatisfação popular não confere, por si, legitimidade democrática a uma intervenção militar. Incapacidade estatal, repressão e intervenção das Forças Armadas são variáveis distintas que exigem avaliação separada. [30]
+
+**Na Índia, em outubro de 2026**, protestos se concentram na revisão de registros eleitorais e em acusações de exclusão de cidadãos aptos a votar. Manifestantes e organizações de oposição questionam autoridades eleitorais, enquanto governo e comissão eleitoral contestam acusações de manipulação partidária. O problema institucional imediato envolve representação e confiança nos procedimentos eleitorais, não o direito europeu de asilo nem um choque de preços supostamente homogêneo em todo o mundo. O caso relaciona mobilização social à administração do direito de participação política. [31]
+
+| País e período | Desencadeador imediato | Insatisfação estrutural | Resultado institucional ou questão pendente |
+| --- | --- | --- | --- |
+| Quênia, 2024 | Projeto orçamentário e novas tributações | Custos familiares e repartição do ajuste fiscal | Concessões legislativas e responsabilização das decisões orçamentárias |
+| Bangladesh, 2024 | Disputa sobre cotas em empregos públicos | Oportunidades e legitimidade governamental | Queda do governo; apuração de mortes e transição |
+| Nepal, 2025 | Proibição de plataformas e violência policial | Privilégios, corrupção e perspectivas para os jovens | Renúncia do primeiro-ministro; rearranjo institucional contestado |
+| Indonésia, 2025 | Auxílios de moradia dos parlamentares; morte durante ação policial | Privilégios dos representantes e responsabilização da polícia | Concessões e fiscalização contínua |
+| Madagascar, 2025 | Falta de água e eletricidade | Serviços, exclusão e governança | Tomada militar; contestação da legitimidade constitucional |
+| Índia, outubro de 2026 | Revisão do cadastro eleitoral | Acesso igualitário ao voto e confiança nos procedimentos | Acusações contestadas; correção institucional sob escrutínio |
+
+O resultado comparativo é mais preciso que a expressão *revolta mundial*. A insatisfação se converte em mobilização sustentada quando existem organizações, oportunidades e símbolos que viabilizam a ação coletiva. Torna-se crise constitucional quando decisões do Estado, resposta policial, divisões das elites e confiança pública interagem de maneiras específicas. A linguagem geracional pode acompanhar conflitos sobre tributação, participação legal, benefícios das elites, falha de infraestrutura e administração das eleições. Não se estabelece causalidade pela repetição do rótulo “Geração Z” nas manchetes. Tampouco a renúncia de um governante em determinado país deve ser convertida em modelo ou previsão para outros.
+
 ## VII. Como os protestos alcançam as finanças públicas, os mercados e a economia internacional
 
 O custo imediato de uma passeata pode ser reduzido, mas uma greve prolongada de transportes, paralisação nacional, saques disseminados ou impasse governamental duradouro têm consequências diferentes. Empresas perdem vendas e jornadas; seguradoras apuram danos cobertos; prefeituras arcam com reparos; turismo e logística sofrem interrupções; governos podem criar compensações e ampliar gastos com segurança. Parte desses custos constitui transferências e adiamentos de atividade, não destruição permanente de capital produtivo. Uma estimativa séria separaria patrimônio destruído, valor adicionado não produzido, compras adiadas ou realocadas, indenizações de seguros e despesas públicas, evitando dupla contagem. [1][2]
@@ -167,7 +192,7 @@ Fora da Europa, instabilidades continuarão tendo origens locais, mesmo quando r
 13. EUAA, *Latest Asylum Trends: Annual Analysis 2025*, março de 2026. https://www.euaa.europa.eu/latest-asylum-trends-annual-analysis/2025
 14. OIT, *Employment and Social Trends 2026*, janeiro de 2026. https://www.ilo.org/publications/flagship-reports/employment-and-social-trends-2026
 15. Eurostat, *Sustainable development in the European Union—2026 edition*, capítulo 10. https://ec.europa.eu/eurostat/documents/15234730/23770550/KS-01-25-064-EN-N.pdf
-16. OCDE, série anual *International Migration Outlook*. https://www.oecd.org/en/topics/international-migration.html
+16. OCDE, série anual *International Migration Outlook*. https://doi.org/10.1787/ae26c893-en
 17. Comissão Europeia, *New migration and asylum rules enter into application*, 12 de junho de 2026. https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en
 18. Parlamento Europeu, *Resultados eleitorais de 2024—sessão constitutiva*. https://results.elections.europa.eu/pt/resultados-eleitorais/2024-2029/
 19. OCDE, *Survey on Drivers of Trust in Public Institutions: 2026 Results*. https://doi.org/10.1787/9eb63fec-en
@@ -177,5 +202,12 @@ Fora da Europa, instabilidades continuarão tendo origens locais, mesmo quando r
 23. The Guardian, *Violent street protests in France and Italy trigger stock and bond sell-off*, 19 de outubro de 2026. https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates
 24. Mario Draghi, *The Future of European Competitiveness*, Comissão Europeia, 2024. https://commission.europa.eu/topics/competitiveness/draghi-report_en
 25. Dani Rodrik, *The Globalization Paradox* (Oxford University Press, 2011); Nancy Fraser, *Cannibal Capitalism* (Verso, 2022).
+
+26. Associated Press, *Thousands in Kenya demonstrate against proposed new taxes*, 20 de junho de 2024. https://apnews.com/article/396382bdac0fc18dfec7cd3003ece35b
+27. Associated Press, *UN calls for thorough investigation into all killings during Bangladesh unrest*, 30 de outubro de 2024. https://apnews.com/article/21f0de846824194734518823266c0cd3
+28. Associated Press, *Anger over corruption and nepotism fuel Nepal's deadly protests over social media ban*, 9 de setembro de 2025. https://apnews.com/article/9dc6ecd2c089141cc8c36af5949cfc09
+29. Associated Press, cobertura das manifestações na Indonésia sobre benefícios parlamentares e conduta policial, setembro de 2025. https://apnews.com/article/16cc8b10279d22efc9112d64d86929df
+30. Associated Press, *Madagascar's president is ousted in a military coup after weeks of youth-led protests*, outubro de 2025. https://apnews.com/article/ab1e1eb1aca45fe7e80e81314ebdb0c6
+31. Associated Press, *Crowds throng New Delhi and wave Indian flags amid escalating protests*, 17 de outubro de 2026. https://apnews.com/article/fc2868da068525b11506c97f2ee8932e
 
 **Nota metodológica:** notícias registram acontecimentos atribuídos a fontes e sujeitos a revisão; dados oficiais identificam população, definição e período; livros oferecem interpretações, não verificação de eventos atuais. Associações entre protestos, ativos financeiros, imigração e apoio político não devem ser confundidas com efeitos causais sem contrafactuais e dados nacionais. O corte das evidências é 19 de outubro de 2026; a pesquisa não pretende ser um censo mundial de manifestações nem uma identificação causal de cada episódio local.
