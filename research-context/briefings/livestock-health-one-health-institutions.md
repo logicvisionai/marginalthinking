@@ -20,6 +20,7 @@ Smaller producers may face greater fixed compliance costs. Sanitary infrastructu
 ## Relationships and open questions
 
 - Related briefing: `food-systems-diet-affordability.md`.
+- Related briefing: `pandemic-preparedness-social-resilience.md`. Veterinary and environmental surveillance connect to human epidemic preparedness through reporting, laboratory capacity and implementation.
 - How representative are inspection and laboratory observations?
 - Are changes due to actual conditions or reporting coverage?
 - Which preventive investments improve outcomes while remaining accessible to small producers?
@@ -27,6 +28,7 @@ Smaller producers may face greater fixed compliance costs. Sanitary infrastructu
 ## Related Marginal Thinking research
 
 - `MT-BIO-2026-10-12-livestock-amr` — canonical livestock health governance research.
+- `MT-PH-2026-10-19-pandemic-scars` — broader outbreak detection and social resilience.
 - `MT-FS-2026-10-12-healthy-diet-development` — food safety and household access.
 
 ## Verification notes
