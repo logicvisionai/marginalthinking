@@ -20,7 +20,7 @@ if (!date.test(data.updated_at || '')) fail.push('updated_at must be a YYYY-MM-D
 if (!date.test(data.evidence_cutoff || '')) fail.push('evidence_cutoff must be a YYYY-MM-DD date');
 bilingual(data.method, 'method');
 const ids = new Set();
-const allowedStatuses = new Set(['official_final', 'official_estimate', 'agency_estimate', 'agency_estimate_rounded']);
+const allowedStatuses = new Set(['official_final', 'official_estimate', 'agency_estimate', 'agency_estimate_rounded', 'official_projection', 'agency_projection']);
 for (const o of data.observations || []) {
   if (!o.id || ids.has(o.id)) fail.push('duplicate/missing observation id ' + o.id);
   ids.add(o.id);
@@ -38,6 +38,12 @@ for (const o of data.observations || []) {
   }
 }
 if (!ids.size) fail.push('at least one observation required');
+for (const o of data.observations || []) {
+  if (/projection$/.test(o.status) && !/^(?:\d{4})$/.test(o.period)) {
+    fail.push(o.id + ': annual forecast must have a stated forecast year');
+  }
+  if (o.data_cutoff && !date.test(o.data_cutoff)) fail.push(o.id + ': invalid source data cutoff');
+}
 if (fail.length) {
   console.error('Global conditions validation failed:\n- ' + fail.join('\n- '));
   process.exit(1);
