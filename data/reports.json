@@ -46,9 +46,9 @@
     "revision": 0,
     "url": "/reports/2026/10/2026-10-19-global-macro.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-20T00:10:55Z",
+    "qa_reviewed_at": "2026-10-20T00:14:03Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "b18bad983b1593a546677dc1e14faa96b31cf1a3",
+    "qa_reviewed_commit": "4cac662969a437b0e4bb8a5e8414e0fdacccc8c7",
     "locales": {
       "en": {
         "markdown": "en.md",

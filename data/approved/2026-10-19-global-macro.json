@@ -2,11 +2,11 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-19",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-20T00:10:55Z",
-  "reviewed_commit": "b18bad983b1593a546677dc1e14faa96b31cf1a3",
+  "reviewed_at": "2026-10-20T00:14:03Z",
+  "reviewed_commit": "4cac662969a437b0e4bb8a5e8414e0fdacccc8c7",
   "pending_blob_sha": "ed4a06323c7b4befd7aab3f844776c6e3d585c85",
   "source_blob_shas": {
-    "en": "371bc9517b94a25863fb76bb2f821e53df613786",
+    "en": "f4e322d0501cd30a12b72b029c4aa21f0c358b17",
     "pt-BR": "3879fa616e02bee07b0e8783e29e4de085993d99"
   },
   "taxonomy_check": "passed",
@@ -54,7 +54,7 @@
     "Sectoral factory data cannot identify ownership or beneficiary geography of capital returns.",
     "This internal QA checks key institutional anchors and article comparability, not external peer review of all interpretation."
   ],
-  "notes": "Internal substantive bilingual editorial QA; 8 same institutional URL references and aligned source date units checked; latest material created after correction of research depth constraints.",
+  "notes": "Internal substantive bilingual editorial QA; 8 same institutional URL references and aligned source date units checked; latest material created after correction of research depth constraints. Final review of the factual-neutral macro opening self-reference edit; citation and quantitative series unchanged.",
   "publication": {
     "schema_version": 2,
     "ready": true,
