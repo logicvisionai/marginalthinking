@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "id": "MT-PH-2026-10-19-pandemic-scars",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-20T00:03:44Z",
+  "reviewed_commit": "9c34d99aa3a9a4c6b3510d0dce5356b7faf20e77",
+  "pending_blob_sha": "28c524a10c99dcd6c5491c59abc89593f183da04",
+  "source_blob_shas": {
+    "en": "f2d382b04145b0d8895d0524c6a62047d4d9909d",
+    "pt-BR": "a82cfb037431b22378f3993e43a92ff649d2f7ea"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Checked WHO 2020–21 excess mortality definition and estimated toll, WHO 2026 post-COVID risk and the October 12 UN pandemic declaration; distinguished estimates from observed totals and political declarations from implemented preparedness."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Links mortality, work, schooling, psychosocial impacts, access to care and institutional readiness through mechanisms rather than treating the pandemic as a GDP-only event."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Source-linked quantitative charts, evidence tables, causal flow and scoped maps in both locales; 2 chart(s), 1 flow(s), 1 map(s)."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 3832,
+        "pt": 4239,
+        "urls_en": 23,
+        "urls_pt": 23
+      },
+      "summary": "Links mortality, work, schooling, psychosocial impacts, access to care and institutional readiness through mechanisms rather than treating the pandemic as a GDP-only event."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Twenty-three distinct institutional and academic references in each locale, including WHO, ILO, UNESCO, OECD, IMF, World Bank and CEPI; historical figures and 2026 policy status are attributed and limitations stated."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Examines alternative explanations for learning and mental health changes, heterogeneity of pathogens and intervention effects, unequal social exposure, and conditional response scenarios."
+    }
+  },
+  "contrary_evidence": [
+    "Excess mortality estimates include indirect causes and are not interchangeable with confirmed disease-specific deaths.",
+    "Psychosocial outcomes and learning changes have confounders; they cannot all be attributed to isolation policies.",
+    "Future outbreaks need not resemble SARS-CoV-2, and no evidence establishes a specific future pandemic timing."
+  ],
+  "limitations": [
+    "This review confirms principal institutional anchor facts and bilingual structure; it does not constitute external peer review of every cited study.",
+    "Historical estimated burdens and current clinical surveillance use different periods and denominators.",
+    "The Pandemic Agreement and PABS negotiations are not equivalent to fully implemented international preparedness."
+  ],
+  "notes": "Internal documentary and bilingual QA with manual checks against selected institutional primary sources and deterministic structure/visual parity; not external scientific peer review.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PH-2026-10-19-pandemic-scars",
+    "slug": "2026-10-19-covid-pandemic-scars-and-preparedness",
+    "date": "2026-10-19",
+    "published_at": "2026-10-19T21:02:19-03:00",
+    "kind": "pandemic-social-economic-preparedness",
+    "priority": 38,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-19-covid-pandemic-scars-and-preparedness/en.md",
+        "title": "COVID-19's long shadow: economic losses, social fractures and the unfinished architecture of pandemic preparedness",
+        "deck": "A cross-disciplinary study of mortality, employment, poverty, learning, mental health, social trust and the operational gaps of 2026 pandemic preparedness, with conditional scenarios for a future outbreak.",
+        "tags": [
+          "pandemics",
+          "COVID-19",
+          "economic scarring",
+          "social change",
+          "mental health",
+          "education",
+          "preparedness",
+          "health institutions"
+        ],
+        "keywords": [
+          "COVID-19 long term economic social psychosocial impacts",
+          "pandemic preparedness 2026",
+          "IHR 2025",
+          "PABS annex 2026",
+          "pandemic learning losses",
+          "long COVID",
+          "One Health",
+          "WHO pandemic intelligence"
+        ],
+        "regime": "Persisting uneven socioeconomic and psychosocial effects amid improved but incomplete international outbreak preparedness.",
+        "key_risk": "Formal agreements and rapid research capabilities fail to translate into accessible medical countermeasures and economic, educational and psychosocial continuity for vulnerable populations.",
+        "watch": [
+          "WHO PABS negotiations and signature/ratification pathway in 2027",
+          "Verified national IHR implementation and outbreak detection-to-response timing",
+          "CEPI 100 Days Mission field results, manufacturing and delivery evidence",
+          "National learning recovery, mental health and long COVID surveillance",
+          "Operational One Health and pandemic financing results"
+        ],
+        "search_text": "COVID-19 pandemic economic social psychosocial aftereffects global mortality employment poverty education mental health 2020 2026 future pandemic preparedness WHO IHR PABS CEPI One Health surveillance trust"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-19-covid-pandemic-scars-and-preparedness/pt-BR.md",
+        "title": "O legado prolongado da COVID-19: perdas econômicas, transformações sociais e os limites da preparação para outra pandemia",
+        "deck": "Pesquisa interdisciplinar sobre mortalidade, renda, trabalho, educação, saúde mental, confiança social e capacidade real de preparação para pandemias em 2026, com cenários condicionais para um novo surto.",
+        "tags": [
+          "pandemias",
+          "COVID-19",
+          "perdas econômicas",
+          "mudança social",
+          "saúde mental",
+          "educação",
+          "preparação sanitária",
+          "instituições de saúde"
+        ],
+        "keywords": [
+          "efeitos econômicos sociais psicossociais da pandemia",
+          "próxima pandemia 2026",
+          "Regulamento Sanitário Internacional",
+          "anexo PABS 2026",
+          "perdas de aprendizagem",
+          "covid longa",
+          "Saúde Única",
+          "vigilância epidemiológica OMS"
+        ],
+        "regime": "Persistência desigual dos impactos socioeconômicos e psicossociais em meio a avanços e lacunas na preparação internacional.",
+        "key_risk": "Acordos e avanços científicos não se converterem em acesso a produtos médicos e continuidade econômica, educacional e psicossocial para populações vulneráveis.",
+        "watch": [
+          "Negociação do PABS e assinatura/ratificação internacional em 2027",
+          "Execução nacional do Regulamento Sanitário Internacional e tempo real de resposta",
+          "Resultados da Missão de 100 Dias, fabricação e distribuição efetivas",
+          "Recuperação educacional, saúde mental e vigilância da condição pós-COVID",
+          "Resultados operacionais de Saúde Única e financiamento preventivo"
+        ],
+        "search_text": "COVID-19 pandemia consequências econômicas sociais psicossociais longo prazo mundo mortalidade renda emprego educação saúde mental 2020 2026 próxima pandemia preparação OMS acordos PABS CEPI Saúde Única vigilância confiança"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "institutions-governance",
+      "technology-innovation",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "social-change",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven"
+  }
+}
