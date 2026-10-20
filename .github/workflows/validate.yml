@@ -47,6 +47,10 @@ jobs:
           test -f dist/opportunities/index.html
           test -f dist/pt-br/opportunities/index.html
           test -f dist/data/structural-opportunities.json
+          test -f dist/data/global-conditions-monitor.json
+          test -f dist/data/global-conditions-monitor/index.html
+          test -f dist/pt-br/data/global-conditions-monitor/index.html
+          grep -q '2026-09' dist/data/global-conditions-monitor/index.html
           test -f dist/regions/index.html
           test -f dist/pt-br/regions/index.html
           grep -q 'atlas-country-grid' dist/regions/index.html
