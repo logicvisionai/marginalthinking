@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "Global Dependency Network",
   "status": "active",
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-10-20",
   "history_file": "data/global-dependency-history.json",
   "description": {
     "en": "A cumulative network of evidenced dependencies linking resources, routes, infrastructure, productive capacity, technology, institutions and capital.",
@@ -802,6 +802,31 @@
       "research_ids": [
         "MT-GMFI-2026-09-22"
       ]
+    },
+    {
+      "id": "middle-east-product-shipments",
+      "type": "flow",
+      "group": "energy-finance",
+      "layer": 1,
+      "order": 1,
+      "label": {
+        "en": "Middle East product shipments",
+        "pt-BR": "Embarques de derivados do Oriente Médio"
+      },
+      "description": {
+        "en": "The IEA measured 1.9 million barrels a day of refined-product shipments in September 2026, versus 4.7 million barrels a day before the regional disruption; these are not crude exports.",
+        "pt-BR": "A AIE mediu embarques de 1,9 milhão de barris por dia de derivados em setembro de 2026, ante 4,7 milhões por dia antes das interrupções regionais; não são exportações de petróleo bruto."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-19"
+      ],
+      "evidence_refs": [
+        {
+          "label": "IEA Oil Market Report October 2026",
+          "url": "https://www.iea.org/reports/oil-market-report-october-2026",
+          "date": "2026-10-14"
+        }
+      ]
     }
   ],
   "edges": [
@@ -1386,6 +1411,32 @@
       },
       "research_ids": [
         "MT-GMFI-2026-09-22"
+      ]
+    },
+    {
+      "id": "dep-refined-products-oil-costs",
+      "group": "energy-finance",
+      "from": "middle-east-product-shipments",
+      "to": "global-oil-costs",
+      "relation": "transmits",
+      "criticality": "high",
+      "substitutability": "medium",
+      "confidence": "high",
+      "horizon": "immediate",
+      "last_verified": "2026-10-20",
+      "mechanism": {
+        "en": "Lower refined-product shipments can tighten diesel and gasoil markets and raise import costs even as crude supply partly recovers; the IEA reports the shipment quantities, not a universal causal pass-through coefficient.",
+        "pt-BR": "Menores embarques de derivados podem pressionar mercados de diesel e gasóleo e elevar custos de importação mesmo com recuperação parcial do petróleo bruto; a AIE informa os volumes, não um coeficiente causal universal de repasse."
+      },
+      "research_ids": [
+        "MT-GM-2026-10-19"
+      ],
+      "evidence_refs": [
+        {
+          "label": "IEA Oil Market Report October 2026",
+          "url": "https://www.iea.org/reports/oil-market-report-october-2026",
+          "date": "2026-10-14"
+        }
       ]
     }
   ]
