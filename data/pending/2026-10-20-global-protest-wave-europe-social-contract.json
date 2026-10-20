@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-CS-2026-10-20-PROTESTS",
+  "slug": "2026-10-20-global-protest-wave-europe-social-contract",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T01:36:00-03:00",
+  "kind": "conflict-system-research",
+  "priority": 35,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-20-global-protest-wave-europe-social-contract/en.md",
+      "title": "Europe in the streets: the social contract, migration and the political economy of global unrest",
+      "deck": "A documented reconstruction of Europe's October 2026 protests, the postwar settlement and its crises, housing, wages, public finance, migration, legitimacy, global comparisons and conditional routes for institutional change.",
+      "tags": [
+        "Europe",
+        "protests",
+        "social contract",
+        "migration",
+        "housing",
+        "European Union",
+        "political economy",
+        "cost of living",
+        "youth",
+        "democracy"
+      ],
+      "keywords": [
+        "France Italy Belgium Spain Portugal Albania protests October 2026",
+        "European Union migration asylum pact June 2026",
+        "European economy inflation housing protests youth",
+        "Europe global social unrest political institutions",
+        "Eurobarometer 105 OECD trust 2026 Eurostat EUAA"
+      ],
+      "regime": "Simultaneous but heterogeneous protests amid housing pressure, public-service discontent and constrained fiscal and political bargaining.",
+      "key_risk": "Confusing distinct grievances and constituencies leads to policies that fail to address housing, public capacity and political responsiveness, while escalation can worsen financing conditions.",
+      "watch": [
+        "Event-level classification of peaceful demonstrations and violent episodes",
+        "Housing completions, rent growth and youth labor-market access",
+        "ECB inflation and national fiscal-budget negotiations",
+        "2026 Migration and Asylum Pact implementation metrics",
+        "Public trust, institutional responsiveness and police accountability",
+        "Country-specific sovereign spreads and service disruptions"
+      ],
+      "search_text": "Deep historical and political-economic research on October 2026 European protests France Italy Belgium Portugal Spain Albania Serbia migration housing macroeconomics European Union EU institutions trust global unrest"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-20-global-protest-wave-europe-social-contract/pt-BR.md",
+      "title": "A Europa nas ruas: a crise do contrato social, imigração e economia política da contestação global",
+      "deck": "Investigação documentada dos protestos europeus de outubro de 2026, da construção e das crises do pacto europeu, habitação, salários, finanças públicas, imigração, legitimidade institucional, comparações globais e trajetórias condicionais.",
+      "tags": [
+        "Europa",
+        "protestos",
+        "contrato social",
+        "imigração",
+        "moradia",
+        "União Europeia",
+        "economia política",
+        "custo de vida",
+        "juventude",
+        "democracia"
+      ],
+      "keywords": [
+        "protestos França Itália Bélgica Espanha Portugal Albânia outubro 2026",
+        "União Europeia pacto migração asilo junho 2026",
+        "Europa habitação inflação desemprego jovem protestos",
+        "crise contrato social Europa 2026",
+        "Eurobarômetro OCDE Eurostat EUAA"
+      ],
+      "regime": "Protestos simultâneos e heterogêneos sob pressão habitacional, insatisfação com serviços públicos e disputa fiscal e política limitada.",
+      "key_risk": "Confundir reivindicações e públicos diferentes produz políticas que não resolvem habitação, serviços e representação, enquanto a escalada pode agravar o financiamento.",
+      "watch": [
+        "Classificação de eventos pacíficos e episódios violentos",
+        "Novas moradias, aluguéis e condições de entrada dos jovens no mercado de trabalho",
+        "Inflação do BCE e negociações dos orçamentos nacionais",
+        "Indicadores de execução do Pacto de Migração e Asilo de 2026",
+        "Confiança, capacidade de resposta institucional e responsabilização policial",
+        "Juros soberanos por país e interrupção dos serviços"
+      ],
+      "search_text": "Pesquisa histórica política e econômica sobre protestos na Europa outubro 2026 França Itália Bélgica Portugal Espanha Albânia Sérvia imigração habitação União Europeia confiança democracia ondas mundiais"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "trade-investment",
+    "energy",
+    "demography-labor",
+    "inequality-distribution",
+    "institutions-governance",
+    "social-change",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "civil-unrest",
+    "political-stability",
+    "migration-displacement",
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "contrary_evidence": [
+    "Spring 2026 Eurobarometer shows majority appreciation of EU membership and 51% trust in the Union; protests are not proof of pan-European rejection.",
+    "EU+ asylum applications fell in 2025, contradicting any assertion that rising application counts alone explain current migration politics.",
+    "Aggregate EU unemployment remained 6.1% in August 2026; material dissatisfaction cannot be inferred from unemployment alone.",
+    "Most 17 October French demonstrations were peaceful; violent episodes cannot be attributed to all protesters."
+  ],
+  "limitations": [
+    "News details and participation counts may be revised as investigations and counting progress.",
+    "Historical theories are analytic interpretations rather than observational proof of current events.",
+    "EU, EU+ and OECD statistics represent different jurisdictions and populations and cannot be combined into one sample.",
+    "No controlled identification of a unique protest effect on sovereign yields; global interest-rate and energy shocks are confounders.",
+    "No claim that simultaneous worldwide demonstrations are organizationally coordinated, and no electoral-outcome forecasts."
+  ],
+  "assessment_confidence": "medium"
+}
