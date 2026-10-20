@@ -131,7 +131,8 @@
     "Historical theories are analytic interpretations rather than observational proof of current events.",
     "EU, EU+ and OECD statistics represent different jurisdictions and populations and cannot be combined into one sample.",
     "No controlled identification of a unique protest effect on sovereign yields; global interest-rate and energy shocks are confounders.",
-    "No claim that simultaneous worldwide demonstrations are organizationally coordinated, and no electoral-outcome forecasts."
+    "No claim that simultaneous worldwide demonstrations are organizationally coordinated, and no electoral-outcome forecasts.",
+    "Eurostat September 2026 final HICP is distinct from the earlier ECB bulletin and from Q2 remuneration growth; these observations cannot be directly netted to derive household income."
   ],
   "assessment_confidence": "medium",
   "research_scope": {
@@ -159,6 +160,10 @@
       "ACLED",
       "academic-books"
     ],
-    "submission_note": "Bilingual long-form research staged for independent QA review; not approved or published by producer."
+    "submission_note": "Bilingual long-form research staged for independent QA review; not approved or published by producer.",
+    "source_count": 32,
+    "evidence_cutoff": "2026-10-19",
+    "last_factual_revision": "2026-10-20",
+    "revision_note": "Replaced provisional August 2026 euro-area HICP claim with final Eurostat September 2026 HICP and explicitly preserved different wage observation periods."
   }
 }
