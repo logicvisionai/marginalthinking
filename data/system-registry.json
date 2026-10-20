@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-10-19",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -658,6 +658,36 @@
       "source_files": [
         "data/reports.json",
         "FOOD-HEALTH-BIOSECURITY-EDITORIAL.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-major-power-conflict",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "public_route": "/reports/",
+      "source_files": [
+        "CONFLICT-SECURITY-SOCIAL-CHANGE.md",
+        "data/reports.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-pandemic-preparedness",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "public_route": "/reports/",
+      "source_files": [
+        "FOOD-HEALTH-BIOSECURITY-EDITORIAL.md",
+        "data/reports.json"
       ],
       "update_mode": "event-driven",
       "reconciliation_required": false,
