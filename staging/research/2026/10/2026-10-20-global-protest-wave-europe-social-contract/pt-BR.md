@@ -1,3 +1,5 @@
+# A Europa nas ruas: a crise do contrato social, imigração e economia política da contestação global
+
 20 de outubro de 2026 | Pesquisa de economia política, imigração e mudança social | Corte das evidências: 19 de outubro de 2026
 
 As convulsões de outubro de 2026 não configuram uma revolução europeia única, tampouco uma sequência de incidentes isolados. Manifestações estudantis e sindicais na França, protestos por moradia na Espanha e em Portugal, mobilizações italianas sobre preços e serviços públicos, conflitos em torno da educação na Bélgica e manifestações anticorrupção na Albânia têm histórias organizacionais, demandas e relações com a violência diferentes. Protestos simultâneos em diversos países não comprovam uma direção centralizada, motivações idênticas ou que a agitação em um país tenha causado os acontecimentos em outro. A questão econômica comum é por que famílias enfrentam deterioração das perspectivas mesmo quando o emprego e a produção agregada não entraram em colapso. A questão política é se as instituições conseguem transformar descontentamento em representação e decisões verificáveis antes que choques temporários se convertam em antagonismos persistentes. [1][2][3]
@@ -49,6 +51,16 @@ unit: % da respectiva força de trabalho; comparação não aditiva
 Força de trabalho total | 6.1
 Pessoas com menos de 25 anos | 15.4
 ```
+
+```chart
+type: bar
+title: Variação de preços imobiliários e aluguéis na UE no segundo trimestre de 2026
+unit: % interanual ante o segundo trimestre de 2025; não aditivos
+Preços dos imóveis | 4.7
+Aluguéis | 3.0
+```
+
+O gráfico apresenta dois índices de preços diferentes; não mede a proporção entre aluguel e renda de determinada família nem prevê os preços de uma cidade. [11]
 
 Ter emprego não assegura moradia estável nem ingresso economicamente independente na vida adulta. Os preços da habitação dependem de terreno disponível, capacidade de construção, licenças, mudança demográfica, investidores, juros e concentração espacial de empregos. Em áreas urbanas com oferta rígida, a formação de novos domicílios aumenta a competição por espaço, sejam os residentes nativos ou recém-chegados. A pergunta relevante é como evoluem **oferta e demanda conjuntamente**, não uma atribuição monocausal aos imigrantes. Da mesma forma, negociações salariais assumem significados diferentes quando alimentos, transporte e aluguel encarecem mais depressa que a cesta de consumo do trabalhador. Uma recuperação média do salário real pode coexistir com perdas concentradas em certas faixas etárias e regiões. [10][11]
 
