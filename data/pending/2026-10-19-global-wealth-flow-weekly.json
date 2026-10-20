@@ -100,5 +100,13 @@
   ],
   "phenomena": [],
   "format": "monitor",
-  "cadence": "weekly"
+  "cadence": "weekly",
+  "producer_checks": {
+    "information_cutoff": "As of 19 October 2026, 00:20 BRT; no October 19 market close asserted",
+    "research_depth": "EN/PT exceed 2200 substantive words under scripts/validate-editorial-depth.mjs counting rule",
+    "visual_signature": "Three data-linked charts, evidence tables, causal flow and geographical attribution map in both languages; aligned numeric series",
+    "evidence_traceability": "Treasury TIC August 2026, ICI funds week ended October 7 and MMF October 14, BEA Q2 IIP, WGC September ETF, BlackRock Q3 and IMF October 2026 GFSR; periods and instruments explicitly separated",
+    "bilingual_parity": "English and Portuguese use the same numeric chart series, common primary citations and equivalent causal analysis",
+    "distinctions": "Stock, transaction flows, valuation and change of legal/beneficial control not conflated"
+  }
 }
