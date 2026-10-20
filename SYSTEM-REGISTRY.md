@@ -1,9 +1,9 @@
 # Marginal Thinking — Research System Registry & Reconciliation
 
 **Status:** normative operational standard  
-**Version:** 1.1  
+**Version:** 1.2  
 **Effective:** 2026-09-22  
-**Operational review:** 2026-10-07
+**Operational review:** 2026-10-20
 
 ## Purpose
 
@@ -73,3 +73,19 @@ The source `data/reports.json` remains a backward-compatible index rather than t
 
 Adding an operational line for an already-used report kind or registering an already-existing public tool is a registry maintenance change, not a taxonomy expansion. Creating a new program, controlled series, dimension, topic family, phenomenon or publication format still requires the change-control process in `EDITORIAL-ARCHITECTURE.md`.
 
+
+## Source-level observation freshness (20 October 2026)
+
+A dataset's `updated_at` is the **last material modification**, not the date when an editor opened the file. The public status now includes `dataset_age_hours` and `dataset_state` separately from reconciliation SLA:
+
+- `updated_within_sla`: the data were materially changed within the configured age limit;
+- `reviewed_no_material_change`: a recent, asset-specific review explicitly found no justified canonical update;
+- `source_update_overdue`: the data themselves are older than the SLA and no qualifying verification supports treating them as recently reviewed.
+
+The reconciliation clock must use the **latest run containing a decision for that exact asset**; a global run for unrelated assets is not proof of its review. A `not_applicable` or `deferred_evidence_gap` finding never licenses claiming the dataset was refreshed.
+
+The `global-conditions-observations` asset exposes official measurements at `/data/global-conditions-monitor/`, with values, units, geography, observed period, institutional release dates and original sources. These are dated research observations, never intraday prices or uniformly current statistics. Its weekly SLA is computed from the dataset's factual `updated_at`, not a publication timestamp.
+
+### End-to-end delivery limitation
+
+A passed local build or a green research validator is not evidence of a Cloudflare production deployment. Release status requires both the Actions deployment job to succeed and the public HTTP smoke tests to pass. Missing `CLOUDFLARE_API_TOKEN` or account-ID configuration must be classified as an external deployment blocker, never repaired by editing canonical research or marking reports current.

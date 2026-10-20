@@ -14,6 +14,9 @@ cp -R reports dist/
 find dist/reports -type f -name '*.html' -delete
 mkdir -p dist/data
 cp data/taxonomy.json dist/data/taxonomy.json
+# Current primary-source observations are not a live price feed; validate provenance.
+node scripts/validate-global-conditions-monitor.mjs
+cp data/global-conditions-monitor.json dist/data/global-conditions-monitor.json
 for f in LICENSE-CONTENT.md THIRD-PARTY-NOTICES.md TRADEMARKS.md; do
   [[ -f "$f" ]] && cp "$f" dist/
 done
