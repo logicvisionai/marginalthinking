@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "status": "observations_not_live_quotes",
+  "updated_at": "2026-10-20",
+  "evidence_cutoff": "2026-10-19",
+  "method": {
+    "en": "Each observation preserves period, population, geography, source release date, unit, publication status and caveats. No series are combined unless denominators and geographical coverage match. A newer source release requires a new or revised observation, not a mere timestamp edit.",
+    "pt-BR": "Cada observação preserva período, população, geografia, data da fonte, unidade, situação de publicação e ressalvas. Séries não são combinadas sem populações e abrangência geográfica compatíveis. Fonte nova exige observação nova ou revisada, não apenas alteração do timestamp."
+  },
+  "observations": [
+    {
+      "id": "eu-hicp-2026-09",
+      "indicator": "annual_hicp_inflation",
+      "geography": "EU",
+      "population": "EU consumer expenditure basket",
+      "period": "2026-09",
+      "released_at": "2026-10-16",
+      "value": 3.8,
+      "unit": "percent_yoy",
+      "status": "official_final",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Annual inflation up to 3.8% in the euro area",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+      },
+      "description": {
+        "en": "European Union headline HICP annual inflation, September 2026.",
+        "pt-BR": "Inflação anual do IPCH agregado da União Europeia em setembro de 2026."
+      },
+      "caveat": {
+        "en": "Headline HICP, not the euro-area measure or an individual's consumer basket.",
+        "pt-BR": "IPCH agregado, distinto da medida da zona do euro e da cesta particular de uma família."
+      }
+    },
+    {
+      "id": "euro-area-hicp-2026-09",
+      "indicator": "annual_hicp_inflation",
+      "geography": "EA21",
+      "population": "Euro area consumer expenditure basket",
+      "period": "2026-09",
+      "released_at": "2026-10-16",
+      "value": 3.8,
+      "unit": "percent_yoy",
+      "status": "official_final",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Annual inflation up to 3.8% in the euro area",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+      },
+      "description": {
+        "en": "Euro-area headline HICP inflation in September 2026, with the 2026 EA21 membership definition.",
+        "pt-BR": "Inflação anual do IPCH da zona do euro em setembro de 2026, usando a composição EA21 de 2026."
+      },
+      "caveat": {
+        "en": "Historical EA20 observations and current EA21 observations require harmonised coverage.",
+        "pt-BR": "Séries históricas EA20 e observações EA21 exigem harmonização territorial."
+      }
+    },
+    {
+      "id": "eu-unemployment-2026-08",
+      "indicator": "unemployment_rate",
+      "geography": "EU",
+      "population": "EU labour force",
+      "period": "2026-08",
+      "released_at": "2026-10-01",
+      "value": 6.1,
+      "unit": "percent_labor_force",
+      "status": "official_estimate",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Euro area unemployment at 6.4%, EU at 6.1%",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01102026-ap"
+      },
+      "description": {
+        "en": "EU seasonally adjusted unemployment rate, August 2026.",
+        "pt-BR": "Taxa de desemprego dessazonalizada da UE em agosto de 2026."
+      },
+      "caveat": {
+        "en": "Does not measure underemployment, inactivity, job quality or all working-age residents.",
+        "pt-BR": "Não mede subemprego, inatividade, qualidade do emprego ou todos os residentes em idade ativa."
+      }
+    },
+    {
+      "id": "eu-youth-unemployment-2026-08",
+      "indicator": "youth_unemployment_rate",
+      "geography": "EU",
+      "population": "EU labour force under 25 years old",
+      "period": "2026-08",
+      "released_at": "2026-10-01",
+      "value": 15.4,
+      "unit": "percent_youth_labor_force",
+      "status": "official_estimate",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "Euro area unemployment at 6.4%, EU at 6.1%",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01102026-ap"
+      },
+      "description": {
+        "en": "Youth unemployment among economically active persons under 25 in the EU.",
+        "pt-BR": "Desemprego entre pessoas economicamente ativas com menos de 25 anos na UE."
+      },
+      "caveat": {
+        "en": "Denominator is the young labour force; this is not the share of all young persons.",
+        "pt-BR": "O denominador é a força de trabalho jovem, não todos os jovens."
+      }
+    },
+    {
+      "id": "eu-house-prices-2026-q2",
+      "indicator": "house_price_index_growth",
+      "geography": "EU",
+      "population": "Residential real-estate transactions covered by EU HPI",
+      "period": "2026-Q2",
+      "released_at": "2026-10-01",
+      "value": 4.7,
+      "unit": "percent_yoy",
+      "status": "official_estimate",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "House prices and rents continued to rise in Q2 2026",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261001-3"
+      },
+      "description": {
+        "en": "EU house-price index growth in Q2 2026 compared with Q2 2025.",
+        "pt-BR": "Variação do índice de preços de imóveis da UE no segundo trimestre de 2026 contra 2025."
+      },
+      "caveat": {
+        "en": "Not a rent index; does not measure mortgage affordability in individual cities.",
+        "pt-BR": "Não representa aluguéis nem acessibilidade ao financiamento em cidades específicas."
+      }
+    },
+    {
+      "id": "eu-rents-2026-q2",
+      "indicator": "rent_price_index_growth",
+      "geography": "EU",
+      "population": "EU harmonised rent price index",
+      "period": "2026-Q2",
+      "released_at": "2026-10-01",
+      "value": 3,
+      "unit": "percent_yoy",
+      "status": "official_estimate",
+      "source": {
+        "publisher": "Eurostat",
+        "title": "House prices and rents continued to rise in Q2 2026",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261001-3"
+      },
+      "description": {
+        "en": "EU rent price index growth in Q2 2026 compared with Q2 2025.",
+        "pt-BR": "Variação do índice de aluguéis da UE no segundo trimestre de 2026 contra 2025."
+      },
+      "caveat": {
+        "en": "Harmonised index, not a single-city asking-rent series.",
+        "pt-BR": "Índice harmonizado, não uma série de anúncios de aluguel de determinada cidade."
+      }
+    },
+    {
+      "id": "eu-plus-asylum-applications-2025",
+      "indicator": "asylum_applications",
+      "geography": "EU_PLUS",
+      "population": "Applications to EU+ asylum systems",
+      "period": "2025",
+      "released_at": "2026-03-03",
+      "value": 822000,
+      "unit": "applications_approx",
+      "status": "agency_estimate_rounded",
+      "source": {
+        "publisher": "EUAA",
+        "title": "EU+ asylum applications down by one fifth in 2025",
+        "url": "https://www.euaa.europa.eu/news-events/eu-asylum-applications-down-one-fifth-2025-amid-shifting-geopolitical-dynamics"
+      },
+      "description": {
+        "en": "Approximate asylum applications lodged in EU+ in calendar 2025, down 19% from 2024.",
+        "pt-BR": "Número aproximado de solicitações de asilo na UE+ em 2025, queda de 19% ante 2024."
+      },
+      "caveat": {
+        "en": "EU+ is not identical to EU; requests are not total migrant entries and can include repeated claims.",
+        "pt-BR": "UE+ não equivale à UE; pedidos não são entradas migratórias totais e podem incluir solicitações repetidas."
+      }
+    },
+    {
+      "id": "world-oil-supply-2026-09",
+      "indicator": "world_oil_supply",
+      "geography": "WORLD",
+      "population": "World crude, condensates and associated liquid fuels measured by IEA",
+      "period": "2026-09",
+      "released_at": "2026-10-14",
+      "value": 102.3,
+      "unit": "million_barrels_per_day",
+      "status": "agency_estimate",
+      "source": {
+        "publisher": "IEA",
+        "title": "Oil Market Report - October 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      "description": {
+        "en": "IEA estimated global oil supply in September 2026.",
+        "pt-BR": "Estimativa da AIE para a oferta mundial de petróleo em setembro de 2026."
+      },
+      "caveat": {
+        "en": "Supply is a production flow, not exports or stocks; subsequent IEA revisions possible.",
+        "pt-BR": "Oferta é fluxo de produção, não exportações ou estoques; sujeita a revisões da AIE."
+      }
+    },
+    {
+      "id": "middle-east-refined-exports-2026-09",
+      "indicator": "middle_east_refined_product_exports",
+      "geography": "MIDDLE_EAST",
+      "population": "Refined-product shipments from Middle East, IEA definition",
+      "period": "2026-09",
+      "released_at": "2026-10-14",
+      "value": 1.9,
+      "unit": "million_barrels_per_day",
+      "status": "agency_estimate",
+      "source": {
+        "publisher": "IEA",
+        "title": "Oil Market Report - October 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      "description": {
+        "en": "September 2026 refined-product shipments from the Middle East; IEA cites 4.7 mb/d pre-war.",
+        "pt-BR": "Embarques de derivados do Oriente Médio em setembro de 2026; AIE informa referência pré-guerra de 4,7 milhões b/d."
+      },
+      "comparator": {
+        "value": 4.7,
+        "period": "pre-war",
+        "unit": "million_barrels_per_day",
+        "interpretation": "IEA reference level; not a dated September 2025 observation"
+      },
+      "caveat": {
+        "en": "Product export category and regional definition differ from crude-oil production; the reference is not a precise matched-month counterfactual.",
+        "pt-BR": "Categoria de derivados e geografia diferentes da produção de petróleo bruto; referência não é contrafactual mensal preciso."
+      }
+    }
+  ]
+}
