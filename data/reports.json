@@ -43,7 +43,6 @@
       "source_check": "Federal Reserve, IMF, EIA, ICI, Treasury, Eurostat, IBGE and BEA — eight primary institutional/industry sources; regional series are dated and not conflated.",
       "bilingual_parity": "Eight matching institutional source URLs, aligned quantitative comparisons and unchanged chart series across both languages."
     },
-    "revision": 0,
     "url": "/reports/2026/10/2026-10-19-global-macro.html",
     "qa_status": "approved",
     "qa_reviewed_at": "2026-10-20T00:14:03Z",
@@ -154,7 +153,6 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 0,
     "url": "/reports/2026/10/2026-10-19-covid-pandemic-scars-and-preparedness.html",
     "qa_status": "approved",
     "qa_reviewed_at": "2026-10-20T00:10:55Z",
@@ -305,7 +303,6 @@
       "Historical background and contemporary incident attribution are distinct evidentiary tasks; no claimed anonymous sabotage is treated as verified."
     ],
     "assessment_confidence": "medium",
-    "revision": 0,
     "url": "/reports/2026/10/2026-10-19-major-power-war-global-system-consequences.html",
     "qa_status": "approved",
     "qa_reviewed_at": "2026-10-20T00:03:44Z",
