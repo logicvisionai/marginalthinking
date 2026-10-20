@@ -1,3 +1,5 @@
+# Europe in the streets: the social contract, migration and the political economy of global unrest
+
 20 October 2026 | Political economy, migration and social-change research | Evidence cutoff: 19 October 2026
 
 The upheavals of October 2026 are neither a single European revolution nor merely a series of isolated disturbances. France's student and trade-union demonstrations, the Spanish and Portuguese housing protests, Italy's mobilizations over prices and public services, Belgium's education-related unrest, and Albania's anti-corruption demonstrations have different organizational histories, policy demands and relationships to violence. Reports of demonstrations in several countries in the same week establish simultaneity, not a unified command, identical motivation or proof that one country's unrest caused another's. The common economic question is why households can face deteriorating prospects even when aggregate output and employment have not collapsed. The political question is whether institutions can convert discontent into credible policy and representation before short-term crises become persistent institutional antagonism. [1][2][3]
@@ -49,6 +51,16 @@ unit: % of the relevant labour force; non-additive comparison
 All labour force | 6.1
 People under 25 | 15.4
 ```
+
+```chart
+type: bar
+title: EU house-price and rent change in Q2 2026
+unit: % year on year relative to Q2 2025; not additive
+House prices | 4.7
+Rents | 3.0
+```
+
+The housing chart reports two different price indices; it does not show a household's rent-to-income ratio or a forecast for an individual city. [11]
 
 A job is not a guarantee of stable housing or successful entry into adult life. The economics of housing couples land, construction bottlenecks, planning permission, demographic demand, investor behavior, interest rates and local employment concentration. In constrained urban locations an additional household can increase competition for space, whether that household is locally formed or newly arrived. Yet the relevant policy question is the joint evolution of housing supply and demand, not a monocausal attribution to migrants. Likewise, wage negotiations matter differently when food, transport and rents rise faster than earnings in the worker's relevant basket. Aggregate real-wage recovery may coexist with losses among particular cohorts and regions. [10][11]
 
