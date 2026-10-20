@@ -133,5 +133,32 @@
     "No controlled identification of a unique protest effect on sovereign yields; global interest-rate and energy shocks are confounders.",
     "No claim that simultaneous worldwide demonstrations are organizationally coordinated, and no electoral-outcome forecasts."
   ],
-  "assessment_confidence": "medium"
+  "assessment_confidence": "medium",
+  "research_scope": {
+    "time_cutoff": "2026-10-19",
+    "en_word_count": 5305,
+    "pt_word_count": 5820,
+    "sources_count": 31,
+    "regions_compared": [
+      "Europe",
+      "South Asia",
+      "Southeast Asia",
+      "East Africa",
+      "Southern Africa",
+      "North Africa"
+    ],
+    "reviewed_against": [
+      "Eurostat",
+      "ECB",
+      "European Commission",
+      "EUAA",
+      "OECD",
+      "ILO",
+      "European Parliament",
+      "AP",
+      "ACLED",
+      "academic-books"
+    ],
+    "submission_note": "Bilingual long-form research staged for independent QA review; not approved or published by producer."
+  }
 }
