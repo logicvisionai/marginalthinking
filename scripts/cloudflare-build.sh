@@ -56,6 +56,8 @@ node scripts/validate-policy-cases.mjs
 node scripts/render-policy-case-atlas.mjs
 # Publish structured datasets as indexable resources with Dataset JSON-LD and stable download URLs.
 node scripts/render-data-catalog.mjs
+# Render full bilingual observational tables with original primary sources.
+node scripts/render-global-conditions-monitor.mjs
 # Derive corpus-level intelligence from canonical metadata only. This adds no
 # publication burden to agents and never counts translations as separate research.
 node scripts/render-research-intelligence.mjs
