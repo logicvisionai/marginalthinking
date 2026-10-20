@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-10-19",
   "slug": "2026-10-19-global-macro",
   "date": "2026-10-19",
-  "published_at": "2026-10-19T00:41:00-03:00",
+  "published_at": "2026-10-19T21:07:58-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -99,9 +99,9 @@
   "cadence": "daily",
   "producer_checks": {
     "information_cutoff": "Official releases to 16 October 2026; published 19 October, no Monday close asserted.",
-    "editorial_novelty": "Physical industrial production and divergent capacity, distinct from 18 October sovereign borrowing and fiscal risk.",
+    "editorial_novelty": "US September factory divergence cross-checked against August industrial contractions in the euro area and Brazil and US August household accounts.",
     "visual_signature": "2 tables, 2 charts, 1 flow and 1 map per locale.",
-    "source_check": "Federal Reserve, IMF, EIA, ICI, Treasury — five official/industry primary sources.",
-    "bilingual_parity": "Equivalent analytical sections, periods, numerical values and visual signatures."
+    "source_check": "Federal Reserve, IMF, EIA, ICI, Treasury, Eurostat, IBGE and BEA — eight primary institutional/industry sources; regional series are dated and not conflated.",
+    "bilingual_parity": "Eight matching institutional source URLs, aligned quantitative comparisons and unchanged chart series across both languages."
   }
 }

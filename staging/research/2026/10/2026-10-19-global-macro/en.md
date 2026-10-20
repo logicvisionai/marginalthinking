@@ -97,6 +97,14 @@ Higher financing costs and energy prices may simultaneously compress firms' marg
 
 The Federal Reserve plans a **24 November 2026 annual revision** to industrial production and utilization, shifting the index reference year to 2022 and incorporating new benchmarks. September is preliminary and prior months have been revised. That revision may change measured sectoral growth and historical comparisons. Strong contrary evidence to the present reading would be sustained improvement across vehicles, ordinary capital goods, manufacturing utilization and real household income, rather than a narrow upturn concentrated in utilities and advanced components. [1]
 
+## Why the United States is not a proxy for the entire global factory cycle
+
+Evidence released before this report points to different industrial conditions across large economies. Eurostat reported a **0.5% monthly decline in euro-area industrial production in August**, following a revised **0.3% fall in July**; intermediate goods fell **0.8%** while capital goods rose **0.4%**. Brazil's IBGE measured a **0.6% decline in national industrial output in August** relative to July, seasonally adjusted. Those August observations cannot be treated as simultaneous with the US September rebound or added into a synthetic world production series. They show that sectoral and geographic diffusion of the American expansion remains unproven. [6][7]
+
+A different US release complicates a mechanical inference from factory output to household prosperity. The Bureau of Economic Analysis reported that August **nominal personal consumption expenditure increased 0.9%**, while personal income increased **0.2%** and the saving rate was **4.1%**. These are August household accounts, not September industrial indicators; nominal consumption can rise because of quantities, prices or their combination. An increase in spending therefore cannot by itself establish a broad recovery in real purchasing power or industrial wages. [8]
+
+This three-region comparison changes the policy interpretation. The industrial bottleneck is not necessarily a universal shortage of factories. It may consist of mismatched energy prices, particular advanced-component capacity, local power-grid connections, skilled labour or weak end demand. Evidence of global synchronization would require multiple months of output, new orders, export volumes and real household earnings improving together in the United States, the euro area and large emerging industrial economies. A persistent divergence would instead favour a segmented production-cycle explanation, despite the common exposure to energy and financing costs. [1][6][7][8]
+
 ## What will decide the next assessment
 
 The most relevant checks are October manufacturing and vehicle output, revised capacity use, factory orders and export shipments, monthly work hours, real earnings, grid connections and equipment lead times. These observations can test whether a specialized investment cycle is broadening. Neither the IMF's growth forecast nor a fund-flow headline is sufficient on its own to answer that question.
@@ -108,3 +116,6 @@ The most relevant checks are October manufacturing and vehicle output, revised c
 3. US Energy Information Administration, *Short-Term Energy Outlook: Global Oil Markets*, 6 October 2026: https://www.eia.gov/outlooks/steo/report/global_oil.php
 4. Investment Company Institute, *Combined Estimated Long-Term Flows and ETF Net Issuance*, 14 October 2026: https://www.ici.org/research/stats/combined_flows
 5. US Treasury, *Treasury International Capital Data for August 2026*, 16 October 2026: https://home.treasury.gov/news/press-releases/sb0662/
+6. Eurostat, *Industrial production down by 0.5% in the euro area*, 15 October 2026: https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap
+7. IBGE, *Pesquisa Industrial Mensal — Produção Física Brasil, August 2026*, 2 October 2026: https://www.ibge.gov.br/estatisticas-novoportal/economicas/industria/9294-pesquisa-industrial-mensal-producao-fisica-brasil.html?=&t=o-que-e
+8. US Bureau of Economic Analysis, *Personal Income and Outlays, August 2026*, 30 September 2026: https://bea.gov/news/2026/personal-income-and-outlays-august-2026
