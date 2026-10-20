@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-WF-2026-10-19",
+  "slug": "2026-10-19-global-wealth-flow-weekly",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T00:20:00-03:00",
+  "kind": "weekly-wealth-flow",
+  "priority": 20,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "currencies",
+    "sovereign-debt",
+    "banking-credit",
+    "trade-investment",
+    "commodities-resources",
+    "industry-production"
+  ],
+  "phenomena": [],
+  "format": "monitor",
+  "cadence": "weekly",
+  "producer_checks": {
+    "information_cutoff": "As of 19 October 2026, 00:20 BRT; no October 19 market close asserted",
+    "research_depth": "EN/PT exceed 2200 substantive words under scripts/validate-editorial-depth.mjs counting rule",
+    "visual_signature": "Three data-linked charts, evidence tables, causal flow and geographical attribution map in both languages; aligned numeric series",
+    "evidence_traceability": "Treasury TIC August 2026, ICI funds week ended October 7 and MMF October 14, BEA Q2 IIP, WGC September ETF, BlackRock Q3 and IMF October 2026 GFSR; periods and instruments explicitly separated",
+    "bilingual_parity": "English and Portuguese use the same numeric chart series, common primary citations and equivalent causal analysis",
+    "distinctions": "Stock, transaction flows, valuation and change of legal/beneficial control not conflated"
+  },
+  "url": "/reports/2026/10/2026-10-19-global-wealth-flow-weekly.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-20T02:03:55.865Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "c1bc38abc3add11f442fefb69335fb730ca20517",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Wealth Flow Monitor — long-term U.S. inflows rebound while short-term positions contract",
+      "deck": "August TIC long-term inflows reversed July's weakness while short-term Treasury and bank liabilities fell; newer fund data reveal selective bond and international-equity demand.",
+      "tags": [
+        "capital flows",
+        "Treasury TIC",
+        "mutual funds",
+        "ETFs",
+        "money markets",
+        "gold",
+        "nonbank finance"
+      ],
+      "keywords": [
+        "19 October 2026",
+        "Treasury International Capital August 2026",
+        "ICI October 2026",
+        "BlackRock Q3 2026",
+        "gold ETF holdings"
+      ],
+      "regime": "Selective long-term securities demand with contracting short-term dollar positions and uneven fund flows.",
+      "key_risk": "A sovereign-yield or concentrated-credit shock could reverse inflows and amplify nonbank liquidity stress.",
+      "watch": [
+        "September TIC release scheduled for 18 November",
+        "ICI weekly long-term and money-market fund flows",
+        "BIS banking statistics scheduled for 30 October",
+        "IMF COFER quarterly composition",
+        "October gold ETF flows and holdings",
+        "Realised industrial capital spending"
+      ],
+      "search_text": "TIC August 2026 $279.2bn long term capital flows U.S. foreign investment money markets October 2026 BlackRock Q3 gold ETF"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Wealth Flow Monitor — recuperação dos fluxos longos para os EUA e contração das posições curtas",
+      "deck": "O TIC de agosto reverteu a fraqueza de julho em títulos longos, enquanto letras do Tesouro e passivos bancários diminuíram; dados recentes de fundos mostram demanda seletiva por renda fixa e ações internacionais.",
+      "tags": [
+        "fluxos de capital",
+        "Tesouro americano",
+        "fundos mútuos",
+        "ETFs",
+        "fundos monetários",
+        "ouro",
+        "intermediação não bancária"
+      ],
+      "keywords": [
+        "19 outubro 2026",
+        "TIC agosto 2026",
+        "ICI outubro 2026",
+        "BlackRock terceiro trimestre 2026",
+        "ETFs de ouro"
+      ],
+      "regime": "Demanda seletiva por títulos longos com redução das posições estrangeiras curtas em dólar e fluxos heterogêneos entre fundos.",
+      "key_risk": "Choques nos juros soberanos ou no crédito concentrado podem reverter entradas e ampliar tensões de liquidez não bancária.",
+      "watch": [
+        "TIC de setembro previsto para 18 de novembro",
+        "Fluxos semanais de fundos longos e monetários do ICI",
+        "Estatísticas bancárias do BIS previstas para 30 de outubro",
+        "Composição trimestral COFER do FMI",
+        "Fluxos e posições de ETFs de ouro em outubro",
+        "Investimento industrial efetivamente realizado"
+      ],
+      "search_text": "TIC agosto 2026 US$ 279,2 bilhões fluxos títulos longos fundos monetários outubro BlackRock terceiro trimestre ETFs ouro"
+    }
+  }
+}
