@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-20",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-21T01:45:15.846Z",
+  "reviewed_commit": "bc19f508c3ab46166aab72549db36893c308ca4a",
+  "pending_blob_sha": "d6beb35dccdfa5fa2d15619d727b77b473e49c85",
+  "source_blob_shas": {
+    "en": "ac48d7fd4f68a4d5dddcfe2d9d04fa08292e3da5",
+    "pt-BR": "810e6e40265d2d3259c5c0d5e24bb9e89c15538f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Census starts estimate and unusually wide margin of error checked, NAR contract series distinguished from closings; mortgage and IMF/EIA observation dates are labeled."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "New October 20 US housing and financing analysis; industrial references contextual only, no duplication of October 19 factory-focused report."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both language editions have two equivalent numeric charts, two evidence tables, a causal flow and a geographic comparison."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2070,
+        "pt": 2150,
+        "urls_en": 8,
+        "urls_pt": 8
+      },
+      "summary": "Eight analytical sections cover housing statistics, contractual commitments, credit affordability, international transmission, uncertainty, scenarios, and falsification."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Eight same URLs from US Census, NAR, Freddie Mac, IMF, EIA, Federal Reserve, US Treasury and Eurostat in both editions."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explores alternative explanations: mortgage lock-in, supply scarcity, survey noise, regional weather, credit spreads and independent technology investment; three conditional paths stated."
+    }
+  },
+  "contrary_evidence": [
+    "September starts month-on-month change is statistically imprecise: Census reports +/-11.8 percentage points around -5.2%.",
+    "Completions increased month on month, which may reflect an older construction pipeline rather than an immediate rise in demand.",
+    "Pending contracts may decline because of supply or mortgage-rate lock-in without implying a broad labor-market recession."
+  ],
+  "limitations": [
+    "Pending sales, starts and mortgage rates refer to different frequencies and dates; no same-day causal identification.",
+    "Illustrative mortgage payments assume identical principal and a fixed 360-month amortization; exclude taxes, insurance and lender-specific fees.",
+    "Editorial verification checks eight anchored URLs and key observations; it is not external peer review of all hypothetical spillovers."
+  ],
+  "notes": "Reviewed 20 October bilingual article against official Census, NAR and Freddie Mac releases and supporting institutional outlooks; baseline versus forecast and sampling uncertainty explicit.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-20",
+    "slug": "2026-10-20-global-macro",
+    "date": "2026-10-20",
+    "published_at": "2026-10-20T22:45:15.847-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-20-global-macro/en.md",
+        "title": "Global Macro — Housing demand retreats as long-duration financing strains the transmission of growth",
+        "deck": "September US housing starts declined and contracts for existing homes fell sharply as 30-year mortgage rates reached 7.40%, exposing diverging household and industrial cycles.",
+        "tags": [
+          "global macro",
+          "housing",
+          "mortgage credit",
+          "affordability",
+          "interest rates",
+          "energy"
+        ],
+        "keywords": [
+          "20 October 2026",
+          "September housing starts",
+          "US pending home sales",
+          "mortgage rates",
+          "Census Bureau",
+          "Freddie Mac",
+          "credit transmission"
+        ],
+        "regime": "Housing and household credit weakness despite selective industrial resilience under expensive long-term finance.",
+        "key_risk": "Housing weakness spreads to household spending, construction jobs and cross-border goods demand while energy bills compress disposable income.",
+        "watch": [
+          "October pending home sales and cancellations",
+          "Freddie Mac weekly 30-year mortgage survey",
+          "Revised Census starts, permits and completions",
+          "US mortgage spreads and Treasury term yields",
+          "Construction employment and real disposable income"
+        ],
+        "search_text": "20 October 2026 US housing starts pending home sales mortgage borrowing costs construction permits completions IMF energy global macro"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-20-global-macro/pt-BR.md",
+        "title": "Macro Global — demanda por moradias recua enquanto o financiamento de longo prazo limita a transmissão do crescimento",
+        "deck": "Obras iniciadas e contratos imobiliários recuaram nos EUA em setembro, enquanto hipotecas de 30 anos alcançaram juros médios de 7,40%, evidenciando ciclos distintos entre famílias e indústria.",
+        "tags": [
+          "macro global",
+          "mercado imobiliário",
+          "crédito hipotecário",
+          "acessibilidade",
+          "juros",
+          "energia"
+        ],
+        "keywords": [
+          "20 outubro 2026",
+          "obras iniciadas setembro",
+          "contratos pendentes venda",
+          "juros hipotecas",
+          "Census Bureau",
+          "Freddie Mac",
+          "transmissão crédito"
+        ],
+        "regime": "Fraqueza de habitação e crédito das famílias apesar de resiliência industrial seletiva e financiamento caro.",
+        "key_risk": "Fraqueza imobiliária avança para consumo, emprego em obras e compras internacionais enquanto energia reduz renda disponível.",
+        "watch": [
+          "Contratos imobiliários de outubro e cancelamentos",
+          "Taxas semanais das hipotecas de 30 anos",
+          "Revisões de inícios, licenças e conclusões",
+          "Spreads hipotecários e juros longos dos Treasuries",
+          "Emprego na construção e renda real disponível"
+        ],
+        "search_text": "20 outubro 2026 construção Estados Unidos contratos imobiliários hipotecas juros licenças obras concluídas FMI energia macro global"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "banking-credit",
+      "capital-markets",
+      "industry-production",
+      "energy",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "producer_checks": {
+      "information_cutoff": "Official U.S. housing releases dated 20 October 2026; October 15 mortgage survey; October 13 IMF WEO and October 6 EIA outlook; different data vintages labeled.",
+      "editorial_novelty": "September housing starts and pending contracts contrasted with mortgage affordability and transmission to spending, suppliers and global energy; distinct from 19 October industrial production analysis.",
+      "visual_signature": "2 quantitative charts, 2 evidence tables, 1 causal flow and 1 geographic channel map per locale.",
+      "source_check": "Eight matching first-party and primary institutional/industry references (US Census, NAR, Freddie Mac, IMF, EIA, Fed, Treasury, Eurostat); Census uncertainty explicitly reported.",
+      "bilingual_parity": "Aligned housing data, rates, two numeric chart series, conditional scenarios and eight matching URLs in both languages."
+    }
+  }
+}
