@@ -2,7 +2,7 @@
 
 **Scope:** durable institutional, productive, social and financial mechanisms that shape how U.S. national scale converts into regional economic capacity and global transmission  
 **Canonical slug:** `united-states`  
-**Last reviewed:** 2026-10-03  
+**Last reviewed:** 2026-10-20  
 **Evidence note:** internal orientation only; public claims require current external re-verification.
 
 ## Structural assessment
@@ -60,6 +60,13 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## What changed since last review
 
+### 2026-10-20
+
+- **Mortgage transmission has several clocks:** Treasury benchmark yields, mortgage spreads, prepayment and servicing costs, underwriting and borrower income jointly determine quoted mortgage conditions. Distinguish new-buyer qualification, existing owners' low-rate lock-in, signed contracts, completed transactions and the outstanding mortgage stock; one day's bond repricing does not demonstrate an immediate household-credit easing.
+- **Housing pipeline is not a single demand series:** permits authorize, starts initiate, completions reflect older construction, and pending existing-home contracts lead potential closings. These measures have different units, sampling uncertainty and cancellation risks. A decline in contracts can reflect inventory scarcity or lock-in as well as weaker income; corroborate with revisions, cancellations, delinquency, construction employment and regional breadth before diagnosing a general contraction.
+- **Social and cross-border incidence:** debt-service thresholds affect marginal borrowers unevenly across incomes and regions; weaker transactions may propagate selectively to local services, construction labour, imported inputs and household durables. Do not infer a uniform global industrial shock from national housing indicators.
+- **Verification:** `MT-GM-2026-10-20` is the dated canonical research anchor, not a substitute for new verification. Reopen Census residential construction, NAR pending contracts, Freddie Mac mortgage surveys and Treasury benchmark yields; align release dates, observation periods, uncertainty and definitions before reusing figures.
+
 ### 2026-10-03
 
 - **Changed:** the canonical 3 October Global Macro strengthens the distinction between hiring velocity and labour-market level; weak payroll growth and downward revisions can coexist with relatively stable unemployment and participation.
@@ -79,6 +86,7 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## Related Marginal Thinking research
 
+- `MT-GM-2026-10-20` — mortgage affordability, distinct housing pipeline measures, distributional and selective cross-border transmission.
 - `MT-CC-2026-09-26-united-states` — canonical Country Context dossier establishing the federal, productive, housing, grid, labour and dollar-transmission mechanisms.
 - `MT-SA-2026-09-23-FEDERAL-RESERVE` — Federal Reserve institutional role and global monetary transmission.
 - `MT-GM-2026-09-25` — selective cross-asset stress under high long-term yields.
