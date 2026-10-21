@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T08:05:47.850Z",
+  "scope": "Daily editorial-line coverage audit; staging only, not public research or canonical reconciliation.",
+  "registry_updated_at": "2026-10-20",
+  "reviewed_line_count": 21,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "staged",
+      "note": "MT-GM-2026-10-21 staged on main; new UK ONS CPI and public-finance releases."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "BoE September policy vote and UK 21 October data screened; no new separate monetary-institution decision."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Registry line reviewed against recent canonical corpus and primary-source global screening; no distinct, sufficiently verified material delta selected for an additional article in this run."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "atlas_discovery_only",
+      "note": "Jackdaw consent and energy fund are new policy signals, but commissioning, disbursement and social effects remain unverified; Atlas discovery staged."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Food-price transmission screened via ONS September food CPI and existing 12 October canonical food-affordability report; no separate new causal delta."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "WHO AMR and WOAH/FAO animal-health screening; no new 21 October official result sufficient for an assessment."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Existing 19 October major-power conflict study reviewed; UK energy security announcement treated as regulatory discovery, not evidence of imminent war."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "WHO Bundibugyo outbreak update of 8 October checked; 19 October canonical pandemic research exists. No verified 21 October epidemiological update used."
+    }
+  ],
+  "selected_additional_article": null,
+  "material_candidates": [
+    {
+      "name": "UK Jackdaw production consent and Energy Wealth Fund",
+      "source": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+      "date": "2026-10-21",
+      "disposition": "Two separate Atlas discovery hypotheses; production and disbursement unverified, no second thematic article."
+    }
+  ],
+  "other_primary_evidence": [
+    {
+      "name": "UK CPI September",
+      "url": "https://cy.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "UK public finances September",
+      "url": "https://cy.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2026",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "WHO Ebola disease outbreak update",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "NBS China fixed investment",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261020_1965664.html",
+      "date": "2026-10-20"
+    }
+  ],
+  "limitations": "Not a claim that every editorial line had a new event or that absence of a web result proves absence of change. No hypothetical war, biological incident or future gas production treated as observed."
+}
