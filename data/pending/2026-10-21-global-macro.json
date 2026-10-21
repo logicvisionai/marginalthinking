@@ -4,10 +4,76 @@
   "id": "MT-GM-2026-10-21",
   "slug": "2026-10-21-global-macro",
   "date": "2026-10-21",
-  "published_at": "2026-10-21T05:03:28-03:00",
+  "published_at": "2026-10-21T15:12:25.864-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-21-global-macro/en.md",
+      "title": "Global Macro — British inflation accelerates while energy costs and debt financing test policy resilience",
+      "deck": "The UK reports 3.5% annual CPI inflation, 8.3% producer input inflation and £24.52 billion in monthly borrowing, exposing the transmission of energy shocks into prices and public finances.",
+      "tags": [
+        "global macro",
+        "UK inflation",
+        "energy",
+        "Bank of England",
+        "sovereign debt",
+        "producer prices"
+      ],
+      "keywords": [
+        "21 October 2026",
+        "UK September 2026 CPI",
+        "ONS public borrowing",
+        "UK producer prices",
+        "Bank Rate",
+        "Brent oil",
+        "fiscal conditions"
+      ],
+      "regime": "Energy-driven inflation acceleration, heterogeneous industrial activity and persistent interest-rate/fiscal constraints.",
+      "key_risk": "Energy shocks become persistent core and service inflation while indexed debt costs narrow fiscal policy space.",
+      "watch": [
+        "5 November Bank of England decision",
+        "UK October CPI and producer prices",
+        "ONS public-sector borrowing and debt interest",
+        "Middle East petroleum exports and refinery operations",
+        "Global industrial production and energy trade terms"
+      ],
+      "search_text": "21 October 2026 global macro Britain UK inflation producer input output public debt borrowing energy oil ECB BoE IMF"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-21-global-macro/pt-BR.md",
+      "title": "Macro Global — inflação britânica acelera sob pressão da energia e do financiamento da dívida pública",
+      "deck": "Inflação de 3,5% no CPI, custos industriais 8,3% maiores e endividamento mensal de £24,52 bilhões evidenciam repasses energéticos para preços e finanças públicas.",
+      "tags": [
+        "macro global",
+        "inflação Reino Unido",
+        "energia",
+        "Banco da Inglaterra",
+        "dívida soberana",
+        "preços industriais"
+      ],
+      "keywords": [
+        "21 outubro 2026",
+        "CPI britânico setembro 2026",
+        "endividamento público ONS",
+        "preços industriais",
+        "Bank Rate",
+        "Brent",
+        "fiscal"
+      ],
+      "regime": "Aceleração inflacionária ligada à energia, indústria internacional desigual e restrições monetárias e fiscais persistentes.",
+      "key_risk": "O choque energético se transforma em inflação persistente de núcleo e serviços enquanto títulos indexados reduzem espaço fiscal.",
+      "watch": [
+        "Decisão do Banco da Inglaterra em 5 de novembro",
+        "CPI e preços ao produtor de outubro",
+        "Finanças públicas e juros da dívida britânica",
+        "Exportações de petróleo e capacidade das refinarias",
+        "Produção industrial internacional e termos de troca energéticos"
+      ],
+      "search_text": "21 outubro 2026 macro global inflação Reino Unido indústria dívida pública empréstimos energia petróleo Banco da Inglaterra FMI"
+    }
+  },
   "taxonomy_version": "1.0",
   "program": "political-economy-markets",
   "related_programs": [
@@ -26,84 +92,22 @@
   },
   "topics": [
     "macroeconomics",
-    "fiscal-policy",
     "monetary-policy",
+    "fiscal-policy",
     "sovereign-debt",
     "capital-markets",
-    "banking-credit",
-    "currencies",
     "energy",
-    "trade-investment",
-    "institutions-governance"
+    "industry-production",
+    "inequality-distribution"
   ],
-  "phenomena": [
-    "political-stability",
-    "institutional-change"
-  ],
+  "phenomena": [],
   "format": "brief",
   "cadence": "daily",
-  "sources": {
-    "en": {
-      "markdown": "staging/research/2026/10/2026-10-21-global-macro/en.md",
-      "title": "Global Macro — Britain’s inflation and debt costs tighten the fiscal–monetary constraint",
-      "deck": "UK inflation and borrowing data expose distinct lags from energy prices to household bills, indexed public liabilities and monetary choices.",
-      "tags": [
-        "Global Macro",
-        "United Kingdom",
-        "Inflation",
-        "Public finance",
-        "Cross-asset"
-      ],
-      "keywords": [
-        "UK CPI September 2026",
-        "index-linked gilts",
-        "Bank of England",
-        "ONS public borrowing",
-        "France Bund spread",
-        "US Treasury curve",
-        "China investment",
-        "ETF flows"
-      ],
-      "regime": "Energy-driven inflation and sovereign financing pressure with uneven global transmission",
-      "key_risk": "Inflation-linked debt costs and persistent domestic prices collide with constrained fiscal and monetary room",
-      "watch": [
-        "UK 28 October Budget and OBR forecast",
-        "UK core/services CPI and wage settlements",
-        "France–Germany sovereign spread",
-        "Refined-fuel supply and Brent outlook"
-      ],
-      "search_text": "Global Macro 21 October 2026 UK inflation 3.5 debt interest 10.9 billion public borrowing 24.5 billion energy gilts fiscal monetary policy France China ETF flows"
-    },
-    "pt-BR": {
-      "markdown": "staging/research/2026/10/2026-10-21-global-macro/pt-BR.md",
-      "title": "Global Macro — Inflação e juros da dívida britânica pressionam orçamento e política monetária",
-      "deck": "Inflação e contas públicas britânicas revelam defasagens entre energia, renda das famílias, dívida indexada e decisões monetárias.",
-      "tags": [
-        "Global Macro",
-        "Reino Unido",
-        "Inflação",
-        "Contas públicas",
-        "Mercados globais"
-      ],
-      "keywords": [
-        "Inflação Reino Unido setembro 2026",
-        "títulos indexados",
-        "Banco da Inglaterra",
-        "déficit ONS",
-        "spread França Alemanha",
-        "Tesouro americano",
-        "investimento China",
-        "ETFs"
-      ],
-      "regime": "Inflação energética e pressão sobre financiamento soberano com transmissão global desigual",
-      "key_risk": "Correção da dívida indexada e persistência de preços domésticos diante de restrições fiscais e monetárias",
-      "watch": [
-        "Orçamento britânico de 28 de outubro e projeções OBR",
-        "Núcleo e serviços no CPI e reajustes salariais",
-        "Spread soberano França–Alemanha",
-        "Oferta de combustíveis refinados e Brent"
-      ],
-      "search_text": "Global Macro 21 outubro 2026 inflação Reino Unido 3,5 juros dívida 10,9 bilhões déficit 24,5 bilhões energia títulos indexados política monetária França China ETFs"
-    }
+  "producer_checks": {
+    "information_cutoff": "ONS UK CPI, PPI and public finance released 21 October 2026, September observations; BoE September meeting; EIA and IMF projections finalized largely on 1 October. No October 21 closing prices.",
+    "editorial_novelty": "UK consumer and producer inflation and fiscal borrowing released on 21 October analyzed jointly with Bank of England policy, energy supply and heterogeneous global industrial conditions; avoids 20 October US housing overlap.",
+    "visual_signature": "Two separate quantitative charts, two substantive tables, causal flow and comparative regional map per language.",
+    "source_check": "Eight identical institutional source URLs: ONS CPI, ONS PPI, ONS fiscal series, Bank of England, EIA, IMF, Eurostat and Federal Reserve. Original release dates and frequencies differentiated.",
+    "bilingual_parity": "English and Portuguese articles have identical numerical chart series, eight common source links, and parallel causal and counterfactual treatment."
   }
 }

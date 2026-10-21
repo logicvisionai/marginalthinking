@@ -1,101 +1,128 @@
-# Global Macro — Britain’s inflation and debt costs tighten the fiscal–monetary constraint
+# Global Macro — British inflation accelerates while energy costs and debt financing test policy resilience
 
-The new releases of **21 October 2026** connect two pressures on the United Kingdom. September consumer inflation rose to **3.5% year on year**, from 3.1%, while September public borrowing reached **£24.5 billion** and government debt interest payable **£10.9 billion**. The interest figure exceeded the official forecast by £2.0 billion. These are September observations released today, not 21 October trading prices. An energy shock reaches households through fuel bills and the Treasury through inflation-indexed liabilities on different contractual clocks. [1][2]
+**21 October 2026 — Information cutoff: UK statistics published on 21 October; Bank of England September decision; EIA projections finalized 1 October and IMF forecasts using information largely through 1 October. No 21 October closing market price is asserted.**
 
-The information gain over yesterday's US housing story is measurable: UK **core inflation accelerated from 2.6% to 2.8%**, services from **3.4% to 3.7%**, and **£4.0 billion** of September debt-interest accrual reflected an index-linked principal uplift. The simultaneous data releases expose a policy conflict before the 28 October Budget: support for households can raise financing needs while tighter monetary policy cannot directly repair fuel supply. [1][2][3]
+Three official UK releases on Wednesday show an energy shock passing through different economic accounts. **September CPI inflation rose to 3.5% from 3.1% in August**, while the more comprehensive CPIH measure advanced to **3.6% from 3.3%**. Factory input-price inflation reached **8.3%**, output inflation **4.6%**, and public sector borrowing in September totaled **£24.52 billion**. Provisional public debt exceeded **£3 trillion**. These numbers have distinct units and accounting populations; their relevance is that energy prices simultaneously affect household purchasing power, business production costs and government financing. [1][2][3]
 
-## Transport inflation spreads unevenly beyond fuel
+The strongest identifiable price driver was transport fuel. ONS attributes the largest upward contribution to the annual consumer-inflation acceleration to transport, principally motor fuels, with restaurants and hotels partly offsetting it. Producer statistics identify crude oil and refined petroleum products as important contributors to the upstream price shock. These separate results are consistent with an energy transmission channel, but not proof that every service price or wage movement is caused by fuel. [1][2]
 
-ONS reports transport inflation rising from 4.6% to **6.6%** in September. Petrol increased by 8.2 pence per litre during the month to 169.5 pence; diesel rose by 10.7 pence to 192.5 pence. Motor-fuel prices were **29.8% above September 2025**, compared with 23.0% in August. Airfares also contributed because their seasonal decline was smaller than one year earlier. These observations do not establish today's fuel prices or volumes. [1]
+## Consumer inflation and its distribution
 
-Counterevidence matters. Food inflation held at **1.3%**, and food prices fell 0.2% month on month. Restaurants and hotels partly offset the annual inflation acceleration. Rising core and services rates suggest that the inflation discussion can no longer stop at petrol, but one month does not establish a wage–price spiral. The necessary corroboration is repeated service-price breadth, settlements, margins and expectations. [1][3]
+CPI increased **0.4% month on month** in September; the monthly rate was close to zero in September 2025. Twelve-month inflation thus reflects both this year's observations and the previous year's comparison base. **Motor fuel prices rose 29.8% year on year**, accelerating from **23.0% in August**. The ONS measured average petrol at **169.5 pence per litre** after an **8.2 pence** monthly increase, and diesel at **192.5 pence**, after a **10.7 pence** increase. Those amounts describe retail road fuel and must not be confused with the Brent crude benchmark or the weighted contribution of fuel to the headline consumer index. [1]
 
-| UK ONS annual CPI measure | August 2026 | September 2026 |
-|---|---:|---:|
-| Headline | 3.1% | 3.5% |
-| Core excluding food, energy, alcohol and tobacco | 2.6% | 2.8% |
-| Services | 3.4% | 3.7% |
-| Goods | 2.7% | 3.2% |
-| Transport | 4.6% | 6.6% |
-| Food and non-alcoholic beverages | 1.3% | 1.3% |
+Underlying price measures also moved: **core CPI inflation increased from 2.6% to 2.8%**, **services CPI from 3.4% to 3.7%**, and **goods CPI from 2.7% to 3.2%**. In CPIH, core inflation reached **3.1%** and services **3.9%**. CPIH includes owner-occupiers' housing costs and council tax, whereas CPI is the target measure used by the Bank of England. These overlapping indices should not be added or treated as independent baskets. An increase in core inflation may reflect indirect energy transmission or separate wage and services dynamics, which the current releases cannot disentangle causally. [1]
+
+| UK consumer measure | August 2026 annual | September 2026 annual | Interpretation |
+|---|---:|---:|---|
+| Headline CPI | 3.1% | 3.5% | Monetary-policy target measure |
+| Headline CPIH | 3.3% | 3.6% | Includes owner housing costs |
+| Core CPI | 2.6% | 2.8% | Excludes energy, food, alcohol, tobacco |
+| CPI services | 3.4% | 3.7% | Subset of the consumer basket |
+| CPI goods | 2.7% | 3.2% | Subset, not additive with headline |
+| Motor fuel prices | 23.0% | 29.8% | Much narrower component |
 
 ```chart
 type: bar
-title: UK inflation by component, August and September 2026
-unit: percent year on year; component rates are not additive
-Headline August | 3.1
-Headline September | 3.5
-Core August | 2.6
-Core September | 2.8
-Services August | 3.4
-Services September | 3.7
+title: Consumer inflation in the UK, September 2026
+unit: percent year on year; different overlapping indices, not additive
+CPI | 3.5
+CPIH | 3.6
+Core CPI | 2.8
+Services CPI | 3.7
+Goods CPI | 3.2
+Motor fuels | 29.8
 ```
 
-The chart compares annual rates for distinct index components, not percentage-point contributions to the headline. They must not be summed. Lower spot oil prices could eventually reduce transport inflation without automatically reversing services inflation. [1]
+A household's exposure depends on spending weights and its ability to substitute. Rural workers and commercial drivers are relatively exposed to petrol and diesel; urban tenants may be more sensitive to rent, utility tariffs or public transport. Families close to debt-service limits may cut discretionary consumption even if their nominal wage still rises. A national 3.5% CPI rate is not an estimate of every household's individual inflation. The strong motor-fuel number does not imply that the overall basket rose by 29.8%, since fuel is only one weighted part of consumption.
 
-## Indexed gilts translate past inflation into future liabilities
+## The factory transmission: input inflation outruns output inflation
 
-September public borrowing exceeded September 2025 by **£1.8 billion** and the Office for Budget Responsibility (OBR) forecast by **£1.9 billion**. Borrowing for April–September totalled **£97.8 billion**: £4.4 billion *below* the year-earlier period but £6.0 billion *above* the forecast. A forecast miss is not synonymous with a year-on-year fiscal deterioration. [2]
+The UK producer-price series put annual inflation for inputs purchased by manufacturers at **8.3% in September**, compared with a revised **6.7% in August**. Output prices at the factory gate increased **4.6%**, after **3.8%**. Monthly input inflation was **1.5%**; output inflation **0.8%**. ONS identifies crude oil among the key contributors, with crude input prices up **51.0% year on year** and **14.0% in September alone**. Refined petroleum products rose **9.1% on the month** in the factory-output series. The result is a documented sequence of price pressure rather than a direct profitability observation. [2]
 
-Central-government debt interest of **£10.9 billion** was £1.6 billion higher than a year earlier. ONS attributes £4.0 billion to accrued principal uplift on index-linked gilts, largely reflecting an earlier Retail Prices Index movement. This is an accounting accrual, not necessarily cash paid in September, and its indexation lag means today's CPI release did not mechanically cause today's interest figure. Debt provisionally passed **£3 trillion**, but debt relative to GDP was lower than a year ago. The ONS also revised its previously estimated year-to-August borrowing down £4.0 billion, underscoring initial-data uncertainty. [2]
+The gap between annual input and output inflation widened from **2.9 percentage points in August** to **3.7 percentage points in September**. This calculated difference is not an estimate of business gross margin: firms buy and sell different product mixes, and labor, rents, hedging, credit and inventories all enter total costs. Nevertheless, input-cost growth above selling-price growth creates a plausible squeeze for producers unable to pass costs to buyers, especially where contracts are fixed and competition is intense. Businesses with long-term supply contracts or domestic energy sources may face very different outcomes.
+
+| UK producer prices | August 2026 | September 2026 | Caution |
+|---|---:|---:|---|
+| Input inflation, annual | 6.7% | 8.3% | Purchased intermediate materials and fuels |
+| Output inflation, annual | 3.8% | 4.6% | Factory gate, not retail |
+| Calculated input-output gap | 2.9 pp | 3.7 pp | Not an accounting profit margin |
+| Input inflation, monthly | 0.5% revised | 1.5% | Different time horizon from annual |
+| Output inflation, monthly | 0.7% | 0.8% | Factory output prices |
+| Services producer inflation | 4.2% in Q2 | 4.5% in Q3 | Quarterly series, year-on-year |
+
+```chart
+type: bar
+title: Producer prices UK, annual inflation August and September 2026
+unit: annual percent changes in two distinct indices, non-additive
+Inputs August | 6.7
+Inputs September | 8.3
+Outputs August | 3.8
+Outputs September | 4.6
+```
+
+Transport and storage services contributed materially to the services producer-price inflation acceleration. The services series rose to **4.5% in the year to the third quarter**, compared with **4.2% in the preceding quarter**. This quarterly reading is not a September-only factory indicator. Transport-cost inflation can pass into distribution and retail goods through contractual repricing and replacement inventories, often with a lag. The duration depends on competition, energy availability and the ability to shift freight routes. One month's factory data cannot establish how much of future CPI will come from this indirect channel. [2]
+
+## Public borrowing and the meaning of record nominal debt
+
+ONS estimates public sector net borrowing at **£24.52 billion in September**, **£1.8 billion above September 2025**. The same release reports a **£15.77 billion current-budget deficit** and **£8.75 billion in net public investment**, roughly reconciling to monthly borrowing. Government debt interest payable was near **£10.9 billion**, approximately **£1.6 billion above** the year-earlier figure. Interest costs are already included in the spending accounts; they must not be added to borrowing as if they were a completely independent extra bill. Nor is monthly borrowing equivalent to the total face value of new gilts issued. [3]
+
+Provisional debt stood at **£3.005 trillion**, representing **94.0% of GDP**. Although the cash stock exceeded £3 trillion, the debt ratio was **0.7 percentage points below** its level a year earlier. Nominal debt stocks can increase while ratios decline as nominal GDP grows; this prevents a misleading claim that the debt ratio has just hit a record. Borrowing for the fiscal year to September was **£97.8 billion**, **£4.4 billion below** the year-earlier period, but **£6.0 billion above** the Office for Budget Responsibility's forecast. Both comparisons matter. The monthly deficit cannot establish annual deterioration without the time path of tax receipts, expenditures and revisions. [3]
+
+Inflation can improve nominal tax revenue while worsening the cost of indexed benefits, contracts and index-linked debt. Higher yields affect new issuance and maturing debt immediately but the rest of the outstanding stock according to coupons, indexation, term structure and refinancing dates. Applying today's policy rate to the entire £3 trillion stock would misstate annual debt service. The fiscal constraint is therefore one of maturity and cash-flow transmission, not merely the debt stock's round-number milestone. Support for household energy bills can reduce near-term hardship but raises difficult distributional and funding questions if generalized or permanent.
+
+## The Bank of England's supply-shock dilemma
+
+The Bank of England's **17 September Monetary Policy Committee voted 6–3 to hold Bank Rate at 3.75%**; three members preferred **4.0%**. Its CPI target is **2%** and the next policy announcement is scheduled for **5 November**. The new September CPI and PPI releases were not available to policymakers at the September meeting. The minutes recognized elevated energy-price uncertainty and the possibility of second-round effects, while noting that evidence for broad wage-price persistence had still been limited. Today's observations strengthen the need to reassess, but do not mechanically fix the committee's next decision. [4]
+
+An interest-rate increase cannot increase oil supply or remove shipping bottlenecks. It can restrain spending and inflation expectations, at the cost of weaker interest-sensitive demand and higher refinancing costs. A decision to hold rates may limit the immediate economic slowdown, but can be problematic if expectations and services inflation become persistently elevated. The most relevant distinction is between a one-off shift in the relative price of imported energy and a generalized inflation process sustained by contracts, wages and repeated shocks. No official contemporaneous policy probability is inferred from market headlines.
 
 ```flow
-Earlier retail-price inflation → indexed gilt principal uplift → accrued debt interest → public borrowing and forecast variance
-Current motor-fuel prices → household purchasing power → wage and price-setting negotiations → monetary-policy decision
-Budget support or taxation → financing needs and distribution → gilt issuance and household income
+Energy supply and shipping disruptions → crude and refined fuel prices → transport and factory input costs → retail prices, disposable income and margins
+Persistent expectations → wage bargaining and service repricing → core inflation → Bank Rate decisions → mortgage, working-capital and investment demand
+Indexed public obligations and energy support → budget expenditure → funding needs and gilt auctions → future borrowing costs and fiscal capacity
 ```
 
-The fiscal mechanism depends on the indexed share of debt, maturity, nominal GDP, primary balance and policy design. Higher inflation can also lift nominal tax receipts. A record nominal debt stock alone does not prove a debt crisis, just as a lower debt-to-GDP ratio does not eliminate refinancing risk. The 28 October Budget and updated OBR forecast will test the scale and financing of any response. [2]
+## Energy supply and differentiated international exposure
 
-## Bank Rate cannot reopen an energy route
+The US EIA's **6 October Short-Term Energy Outlook**, finalized **1 October**, records an average **Brent price of $114 per barrel in September**, compared with **$91 in August**, and forecasts **$105 for the fourth quarter**. The last is a projection, not the spot price observed on 21 October. EIA discusses disruptions to Middle Eastern export infrastructure, production shut-ins and changes in shipping routes. An importer must allocate more foreign exchange or export revenue to obtain the same volume of crude; an exporter captures higher prices only if operating facilities, volumes and routes permit delivery. [5]
 
-In September the Bank of England held Bank Rate at **3.75% by six votes to three**; three members favoured 4.00%. Its minutes distinguished direct energy effects from potential second-round wage and price effects and noted little clear evidence of the latter at the time. Today's core and services figures add evidence, but do not reveal the next vote. The next policy decision is scheduled for **5 November**. [3]
-
-The Bank also announced a multi-year gilt-portfolio reduction, with £20 billion of annual active sales alongside maturities and average annual reduction of £46 billion to 2034. That is an earlier policy decision, not a new 21 October announcement. Monetary restraint can slow borrowing and demand, while the physical supply of oil, diesel and gas responds to security, transport and production conditions. Fiscal transfers can soften incidence but may increase financing needs if not offset. [3]
-
-## The global curve, European sovereign risk and fund flows diverge
-
-The US Treasury's **20 October** nominal par curve showed **4.79% at two years, 5.12% at ten years and 5.42% at thirty years**: spreads of 33 basis points (10Y–2Y) and 30 basis points (30Y–10Y). These are interpolated indicative government benchmarks, not mortgage rates or transaction-weighted funding costs. They maintain a high dollar discount-rate reference despite that day's easing. [4]
-
-France carries a separate euro-area fiscal risk. Reuters reported a French ten-year yield around **4.88%** and a France–Germany spread near **150 basis points** on 20 October amid political unrest. These are market quotes, not evidence of sovereign default or a completed auction. Eurostat's final September euro-area inflation was **3.8%**, up from 3.2%, with energy contributing 1.71 percentage points and services 1.52 points to the *level* of annual inflation. The UK CPI and euro-area harmonised index are not identical baskets. [5][6]
+The rest of the world does not move in lockstep. Eurostat reported a **0.5% monthly decline in euro-area industrial production in August**, while the Federal Reserve reported a **0.7% increase in US industrial production in September**, partly from utilities. These measurements refer to different months and have different industrial coverage. They support the observation of divergent industrial conditions but cannot be subtracted to calculate a contemporaneous global production gap. Nor does the UK September CPI describe inflation across Latin America, Africa or East Asia. Physical trade flows, currency pressure, supply contracts and local fiscal responses determine country-specific transmission. [7][8]
 
 ```map
-title: Different transmission channels across regions
-United Kingdom | Fuel CPI and indexed public liabilities | September outcomes, different contract lags
-Euro area | Energy inflation and country-specific sovereign spreads | Final September data, 20 October French market quotes
-United States | Dollar yield curve and listed-fund creation | 20 October Treasury, week-ended 14 October ETF data
-China | Selective digital capex against falling aggregate investment | January–September official investment data
-Emerging importers | Fuel bills and foreign-currency funding | Country impact depends on subsidies, reserves and debt structure
+title: Regional channels of the energy and financing shock
+United Kingdom | Consumer fuel bills, manufacturer inputs and indexed liabilities | Transmission into inflation and public finances
+Continental Europe | Imported fuels and uneven factory output | Industrial contracts and energy mixes determine exposure
+Middle East | Extraction and export infrastructure | Prices and actual shipment volumes jointly determine income
+United States | Industrial structure and domestic energy production | Selected sectors can grow despite global fuel constraints
+Energy-importing emerging markets | FX needs, subsidies and credit | Balance-of-payments and budget pressure can amplify shocks
 ```
 
-Capital-flow evidence does not mirror every price move. The Investment Company Institute estimated **US$53.26 billion** of US ETF net issuance for the week ended 14 October, including US$34.735 billion in equity ETFs and US$19.035 billion in bond ETFs. This is estimated fund-share creation net of redemption, not a global flow census or an asset manager's proprietary allocation. It cannot establish financing of new factories. [7]
+The IMF's October **World Economic Outlook** projects **3.1% global growth in 2026** and **3.4% in 2027**, alongside **4.7% global headline inflation in 2026**. These are annual forecasts based largely on data available through **1 October**, not measured outcomes of Britain's releases today. The IMF highlights risks from debt vulnerabilities, prolonged conflict, trade friction and uncertain AI-investment expectations. A technology-led upswing in selected supply chains can coexist with weaker housing or ordinary manufacturing elsewhere. Annual world growth forecasts cannot eliminate such internal sectoral and geographic differences. [6]
 
-China's statistical office reported January–September fixed-asset investment **down 7.2% year on year**, non-government investment **down 10.4%** and manufacturing investment **down 2.1%**, while information-transmission investment **rose 30.8%**. This is a sector-specific divergence, not proof of broad recovery or identifiable international supplier orders. [8]
+## Second-order effects: inequality, trade and fiscal policy
 
-The US Energy Information Administration's 6 October outlook projected **US$105 per barrel Brent in 2026 Q4**, based on assumptions finalised 1 October. It is not today's spot quote. Oil-market diplomatic relief on 20 October and September UK fuel inflation can coexist because the observations have different dates. Brazil and other emerging economies transmit this through FX, dollar funding, administered fuel prices and commodity trade; no verified daily local flow series is asserted here. [9]
+High fuel costs reduce purchasing power most for those with little savings, long travel distances or no substitute for private transportation. Rising input costs can cause smaller firms to delay hiring, reduce output or draw down working capital. Changes in exchange rates determine whether foreign-currency invoicing adds to energy costs; credit tightening can magnify trade financing pressure. Government transfers may stabilize demand but their financing can crowd out other priorities or increase future interest expenditure. There is no cost-free policy instrument, and the benefits of intervention depend on who receives it and for how long.
 
-## The policy collision has identifiable falsifiers
+The IMF emphasizes targeted, time-limited transfers in cost-of-living shocks rather than indiscriminate permanent subsidies. Such measures can shield vulnerable households without fully suppressing the incentive to conserve scarce energy. Implementation requires beneficiary identification, clear expiration rules and reporting of budget costs. Where subsidies are politically difficult to unwind, a temporary response can create persistent fiscal obligations. Conversely, a country with ample reserve buffers and diversified energy production can absorb more of the price shock without cutting essential services. These distributional differences matter more than headline inflation alone. [6]
 
-Three asymmetries deserve further research rather than trading instructions. UK indexed-debt accrual can worsen reported interest costs after the original price shock; subsequent RPI and OBR revisions may reverse the apparent surprise. French spreads can remain wide even if common euro-area inflation moderates; credible budget implementation and sustained spread narrowing would weaken that thesis. Chinese digital infrastructure spending may benefit selected suppliers even as total investment contracts, but actual procurement, access and utilisation remain unverified. [2][5][8]
+## Conditional scenarios and falsifiable implications
 
-The systemic risk is persistent energy inflation interacting with fiscal indexation and expensive refinancing. Contrary evidence includes contained UK food inflation, lower year-to-date borrowing than in 2025, and some oil-price relief. The decisive next observations are UK services prices and wage settlements, the 28 October fiscal forecast, French–German sovereign spreads, and refined-fuel availability. No personalised buy or sell recommendation is made.
+**Contained shock.** Export logistics stabilize, fuel prices moderate and manufacturer input inflation declines before output inflation. Core and services inflation cease accelerating, reducing the need for materially tighter policy. Evidence against this path would be continued wage and services inflation after imported energy prices recede.
 
-## Sources and dated evidence
+**Persistent second-round inflation.** Higher energy costs enter negotiated pay and long-lived contracts, so core inflation remains elevated even after crude stabilizes. Restrictive rates weaken investment, credit and real consumption. This path weakens if inflation expectations stay anchored and several subsequent producer and consumer reports show disinflation.
 
-[1] ONS, *Consumer price inflation, UK: September 2026*, 21 October 2026: https://cy.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026
+**Fiscal-financial amplification.** More costly index-linked obligations, weaker real growth and higher funding premiums compound pressure on public finances. Borrowing remains above official forecasts despite efforts to restrain spending. Contrary evidence would include lower debt-interest expenses, smoother gilt issuance, stronger receipts and a continued decline in debt-to-GDP relative to baseline. The observed year-on-year fall in the ratio already warns against assuming deterioration in every fiscal metric. [3][4]
 
-[2] ONS, *Public sector finances, UK: September 2026*, 21 October 2026; preliminary, revisable estimates: https://cy.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2026
+## Next observations and limits
 
-[3] Bank of England, *September 2026 Monetary Policy Summary and Minutes*, 17 September 2026: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026
+The decisive questions are whether oil supply constraints ease, whether factory inputs translate into persistent retail prices, whether negotiated wages and inflation expectations change, and how debt interest responds over future fiscal releases. The **5 November MPC decision** and subsequent CPI, PPI and public-finance vintages will help distinguish a contained supply shock from a more persistent inflation regime. No single day's equity or gilt movement establishes that answer. The supported conclusion on 21 October is a British price shock with uneven costs across households, firms and government, interacting with a segmented global industrial cycle; recession or a particular interest-rate decision is not an observed fact.
+### Sources
 
-[4] US Treasury, *Daily Treasury Par Yield Curve Rates*, 20 October 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&field_tdr_date_value_month=202610&type=daily_treasury_yield_curve
-
-[5] Reuters, *French bond yields dip but remain near 24-year high*, 20 October 2026: https://www.reuters.com/markets/us/french-bond-yields-near-24-year-high-new-protests-loom-2026-10-20/
-
-[6] Eurostat, *Annual inflation up to 3.8% in the euro area*, 16 October 2026: https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap
-
-[7] Investment Company Institute, *Estimated ETF Net Issuance*, 20 October 2026, week ended 14 October: https://www.ici.org/research/stats/etf_flows
-
-[8] National Bureau of Statistics of China, *Investment in Fixed Assets from January to September 2026*, 20 October 2026: https://www.stats.gov.cn/english/PressRelease/202610/t20261020_1965664.html
-
-[9] US Energy Information Administration, *Short-Term Energy Outlook*, 6 October 2026, inputs as of 1 October: https://www.eia.gov/OUTLOOKS/STEO/
+1. ONS UK CPI September 2026, 21 October: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026
+2. ONS UK PPI September 2026, 21 October: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/producerpriceinflation/september2026includingservicesjulytoseptember2026
+3. ONS Public sector finance September 2026, 21 October: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance
+4. Bank of England MPC, 17 September 2026: https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026
+5. EIA Short-Term Energy Outlook, 6 October 2026: https://www.eia.gov/outlooks/steo/report/global_oil.php
+6. IMF World Economic Outlook, 13 October 2026: https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026
+7. Eurostat August 2026 industrial output, 15 October 2026: https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-15102026-ap
+8. Federal Reserve G.17 September output, 16 October 2026: https://www.federalreserve.gov/releases/g17/current/default.htm
