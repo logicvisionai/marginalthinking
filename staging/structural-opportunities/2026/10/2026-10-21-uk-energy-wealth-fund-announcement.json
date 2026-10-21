@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-21T08:04:52.688Z",
+  "candidate": {
+    "country": {
+      "code": "GBR",
+      "name": "United Kingdom"
+    },
+    "previous_state": null,
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "UK renewable generation, low-carbon infrastructure and project-finance developers potentially eligible for future public capital allocation.",
+    "structural_condition": "The announced Energy Wealth Fund could channel North Sea fiscal revenues to low-carbon infrastructure, but operational rules, budget appropriation and deployed capital are not yet evidenced.",
+    "delta": "The UK government announced on 21 October 2026 an Energy Wealth Fund with an initial stated £2 billion contribution and an intended link to future North Sea oil-and-gas revenues.",
+    "mechanism": "If appropriated and deployed under accessible rules, earmarked public capital could lower financing barriers or share early-stage project risk; announcements alone do not demonstrate expenditure, additionality or lower electricity bills.",
+    "catalysts": [
+      "28 October Budget legal appropriations and governance rules",
+      "Published eligibility and procurement or financing terms",
+      "Signed projects, disbursements, commissioning and independently measured outcomes"
+    ],
+    "invalidation": "No appropriation or legal framework, delayed disbursement, diversion of existing spending rather than additional capital, or lack of viable eligible projects.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "UK Department for Energy Security and Net Zero and HM Treasury, Jackdaw and Energy Wealth Fund announcement",
+        "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+        "date": "2026-10-21"
+      }
+    ],
+    "status": "discovery_watch",
+    "notes": "The £2 billion figure is an announced initial funding intention, not a verified capital transfer or commissioned asset."
+  }
+}

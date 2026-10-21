@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-21T08:04:52.687Z",
+  "candidate": {
+    "country": {
+      "code": "GBR",
+      "name": "United Kingdom"
+    },
+    "previous_state": null,
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "UK gas importers, industrial users and energy-system operators that can use additional domestic offshore supply under existing gas market arrangements.",
+    "structural_condition": "Regulatory permission for the licensed Jackdaw North Sea field removes a previously binding consent obstacle, but production and usable throughput are not yet independently observed.",
+    "delta": "On 21 October 2026 the UK government agreed that the regulator may grant production consent after earlier environmental and legal delays; official first-gas timing is as early as late October, not confirmed operation.",
+    "mechanism": "A newly permitted domestic field can diversify physical supply and reduce some import-volume exposure, but wholesale gas prices, transmission, contracts, field decline, emissions conditions and future litigation determine whether end-user costs or reliability change.",
+    "catalysts": [
+      "NSTA's formal consent and licence conditions",
+      "First metered gas deliveries, volumes and duration verified by operator/regulator",
+      "Observed import displacement and wholesale-price effects rather than headline capacity"
+    ],
+    "invalidation": "Consent is delayed or overturned, first gas fails to arrive, actual volumes materially undershoot, or production substitutes existing UK output without improving net supply resilience.",
+    "confidence": "medium",
+    "materiality": "high",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "UK Department for Energy Security and Net Zero, Jackdaw gas field gets green light",
+        "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+        "date": "2026-10-21"
+      }
+    ],
+    "status": "discovery_watch",
+    "notes": "Official ~6% peak increase in domestic gas production is a forward-looking government estimate, not measured throughput. Approval is not production; no investment recommendation."
+  }
+}
