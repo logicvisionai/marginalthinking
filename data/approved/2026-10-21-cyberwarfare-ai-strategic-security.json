@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "id": "MT-CS-2026-10-21-CYBER-AI",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-21T19:59:33.550Z",
+  "reviewed_commit": "d18664fd0612eb5dc5310bf54fab3cefb4303a4e",
+  "pending_blob_sha": "2d7980946bb668ca743cd67b20717b6196cffbe0",
+  "source_blob_shas": {
+    "en": "bbb2f360bd8653c35453cd422ba88f4fb0baa0ae",
+    "pt-BR": "f7ac222953bc08689fe9fed492119156bb1fe18d"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Verified historical and 2026 source records for RAND, academic books, DOJ, ESET, Carnegie, NSA, ENISA, Anthropic, Google GTIG, NCSC, NATO, MITRE, NIST and ICRC; observed, alleged and forecast matters separated."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Substantive independent conflict-system research on cyberwarfare, espionage, industry, international law and AI, including competing scholarly theses and falsifiable horizons."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Three equivalent analytic tables, two number-matched charts, one causal flow, and one geographic map in each language."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 4673,
+        "pt": 4669,
+        "urls_en": 27,
+        "urls_pt": 27
+      },
+      "summary": "16 aligned sections covering history, theoretical debate, Ukraine, state actors, AI empirical data, agent security, economics, law, physical continuity, geopolitics and scenarios."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "27 same URLs from reputable primary, research and official sources across both languages; platform observational sample scope, historic dates and institutional interpretations annotated."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Four falsifiable scenarios; counterevidence includes Ukrainian wartime resilience, limited strategic military decisiveness and risk of AI agent evaluation error."
+    }
+  },
+  "contrary_evidence": [
+    "Carnegie research on wartime Ukraine finds visible military impact of cyber operations less decisive than many predictions, despite technically significant intrusions and civilian losses.",
+    "Real AI-enabled intrusions and agent errors do not demonstrate universal autonomous geopolitical campaign capabilities; platform-specific observational samples cannot estimate global prevalence.",
+    "Recovery, offline controls and trusted partnerships can limit civilian and physical impact even where advanced malware has reached operational environments."
+  ],
+  "limitations": [
+    "Historical state attribution varies by source and standard of proof; official charges are presented as official allegations, not definitive proof for every incident.",
+    "Anthropic's 832-account sample is selected from one provider; changes in internal risk classifications are not global cybercrime statistics.",
+    "Long-run cyber and AI scenarios are conditional, lack empirically defensible exact probabilities and must not be read as technology timelines.",
+    "The literature and incident record are unevenly observable because many intelligence operations remain classified and successful defense may not generate public evidence."
+  ],
+  "notes": "Internal source-review and structural bilingual QA with 27 reference URLs, parallel charts and explicit differentiation of forensic observations, official attribution and conditional futures; not external academic peer review.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-CS-2026-10-21-CYBER-AI",
+    "slug": "2026-10-21-cyberwarfare-ai-strategic-security",
+    "date": "2026-10-21",
+    "published_at": "2026-10-21T16:59:33.553-03:00",
+    "kind": "conflict-system-research",
+    "priority": 35,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-21-cyberwarfare-ai-strategic-security/en.md",
+        "title": "From digital espionage to algorithmic warfare: cybersecurity, cyberwarfare and AI as strategic power",
+        "deck": "A historical, technical and geopolitical examination of cyber conflict, state espionage, sabotage, critical infrastructure, AI-enabled operations, deterrence and civilian protection, grounded in specialist research through October 2026.",
+        "tags": [
+          "cyberwarfare",
+          "cybersecurity",
+          "artificial intelligence",
+          "state espionage",
+          "critical infrastructure",
+          "cyber deterrence",
+          "international law",
+          "military technology"
+        ],
+        "keywords": [
+          "cyberwarfare and artificial intelligence 2026",
+          "Stuxnet Ukraine Industroyer2 NotPetya",
+          "Ben Buchanan Thomas Rid Lucas Kello Martin Libicki",
+          "agentic AI intrusion Google Anthropic",
+          "cyber deterrence Tallinn Manual NATO ICRC",
+          "critical infrastructure security"
+        ],
+        "regime": "Persistent below-threshold cyber competition and increasing AI-enabled operational automation amid shared civil-military dependencies.",
+        "key_risk": "Faster AI-supported cyber operations and ambiguous prepositioned access reduce the time for attribution, defensive containment and political crisis assessment.",
+        "watch": [
+          "Verified frontier-model intrusion capabilities and their failure rates",
+          "Operational impact and recovery of critical infrastructure incidents",
+          "State attribution evidence and cyber escalation responses",
+          "Defensive time-to-patch and validated incident recovery",
+          "International legal positions on cyber effects and civilian protection",
+          "AI-agent tool boundaries and post-quantum migration milestones"
+        ],
+        "search_text": "cyberwarfare cybersecurity military AI as cyber weapon offensive agentic AI 2026 history Stuxnet NotPetya Ukraine espionage sabotage geopolitics cyber deterrence international law critical infrastructure"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-21-cyberwarfare-ai-strategic-security/pt-BR.md",
+        "title": "Da espionagem digital à guerra algorítmica: cibersegurança, ciberwarfare e IA como instrumento de poder estratégico",
+        "deck": "Investigação histórica, técnica e geopolítica sobre guerra cibernética, espionagem estatal, sabotagem, infraestrutura crítica, IA ofensiva, dissuasão e proteção civil, baseada em pesquisadores e fontes especializadas até outubro de 2026.",
+        "tags": [
+          "guerra cibernética",
+          "cibersegurança",
+          "inteligência artificial",
+          "espionagem estatal",
+          "infraestrutura crítica",
+          "dissuasão cibernética",
+          "direito internacional",
+          "tecnologia militar"
+        ],
+        "keywords": [
+          "guerra cibernética inteligência artificial 2026",
+          "Stuxnet Ucrânia Industroyer2 NotPetya",
+          "Ben Buchanan Thomas Rid Lucas Kello Martin Libicki",
+          "agentes IA operações ofensivas Anthropic Google",
+          "Tallinn Manual OTAN CICV",
+          "infraestrutura crítica sistemas industriais"
+        ],
+        "regime": "Competição cibernética persistente abaixo do limiar de guerra, com automação crescente por IA e dependências compartilhadas entre atividades civis e militares.",
+        "key_risk": "Operações assistidas por IA e acessos clandestinos ambíguos reduzem o tempo para atribuição, contenção e avaliação política das crises.",
+        "watch": [
+          "Capacidades verificadas e taxa de falhas de agentes de IA em intrusões",
+          "Impacto físico e tempo de recuperação em infraestrutura crítica",
+          "Evidências de atribuição estatal e respostas de escalada",
+          "Tempo de correção e recuperação defensiva comprovada",
+          "Posições jurídicas sobre danos cibernéticos e proteção de civis",
+          "Limites de ferramentas agentivas e migração de criptografia pós-quântica"
+        ],
+        "search_text": "guerra cibernética cibersegurança IA arma cibernética agentes ofensivos 2026 passado presente futuro Stuxnet NotPetya Ucrânia espionagem sabotagem geopolítica dissuasão direito internacional"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "geopolitics-security",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "industry-production",
+      "institutions-governance",
+      "trade-investment",
+      "capital-markets",
+      "social-change",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "war-armed-conflict",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "related_research_ids": [
+      "MT-CS-2026-10-19-MAJOR-POWER"
+    ],
+    "contrary_evidence": [
+      "Carnegie research on wartime Ukraine finds visible military impact of cyber operations less decisive than many predictions, despite technically significant intrusions and civilian losses.",
+      "Real AI-enabled intrusions and agent errors do not demonstrate universal autonomous geopolitical campaign capabilities; platform-specific observational samples cannot estimate global prevalence.",
+      "Recovery, offline controls and trusted partnerships can limit civilian and physical impact even where advanced malware has reached operational environments."
+    ],
+    "limitations": [
+      "Historical state attribution varies by source and standard of proof; official charges are presented as official allegations, not definitive proof for every incident.",
+      "Anthropic's 832-account sample is selected from one provider; changes in internal risk classifications are not global cybercrime statistics.",
+      "Long-run cyber and AI scenarios are conditional, lack empirically defensible exact probabilities and must not be read as technology timelines.",
+      "The literature and incident record are unevenly observable because many intelligence operations remain classified and successful defense may not generate public evidence."
+    ],
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "Primary and specialist sources published to 21 October 2026, with 2026 ENISA, Google GTIG, Anthropic, NATO, NCSC and longstanding academic scholarship. Historical and hypothetical claims separated.",
+      "editorial_novelty": "Long-form cyber conflict and AI strategic-power inquiry; distinct from 19 October hypothetical great-power war systemic study and 21 October macro edition.",
+      "visual_signature": "Three Markdown evidence/comparison tables, two numeric charts with matching source series, one causal flow and one geographic channel map per locale.",
+      "source_check": "27 matching specialty and primary references: RAND, King's College, Oxford, Yale, Langner, DOJ, ESET, Carnegie, NSA, ENISA, GTIG, Anthropic, NCSC, MITRE, Google DeepMind, NIST, ICRC, NATO, CISA and CSIS.",
+      "bilingual_parity": "4,669 PT-BR and 4,673 EN estimated substantive words; 16 aligned sections, 27 identical URLs, three equivalent tables, two matching quantitative chart series, flow and map.",
+      "methodology": "Separate documented intrusions, formal allegations, commercial telemetry and forecasts; explicitly discuss selection bias of Anthropic 832-account sample, case-by-case NATO interpretation, Tallinn Manual nonbinding status, counterevidence from Ukraine."
+    }
+  }
+}
