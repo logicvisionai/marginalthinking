@@ -9,13 +9,13 @@
     "previous_state": null,
     "proposed_state": "leverageable_efficiency",
     "perspective": "UK gas importers, industrial users and energy-system operators that can use additional domestic offshore supply under existing gas market arrangements.",
-    "structural_condition": "Regulatory permission for the licensed Jackdaw North Sea field removes a previously binding consent obstacle, but production and usable throughput are not yet independently observed.",
-    "delta": "On 21 October 2026 the UK government agreed that the regulator may grant production consent after earlier environmental and legal delays; official first-gas timing is as early as late October, not confirmed operation.",
+    "structural_condition": "NSTA granted development and production consent for Jackdaw on 21 October 2026; first gas, actual throughput and net import displacement are not yet observed.",
+    "delta": "On 21 October 2026 the UK regulator granted consent to Adura following ministerial environmental review. Forecast first gas in late October is not measured production.",
     "mechanism": "A newly permitted domestic field can diversify physical supply and reduce some import-volume exposure, but wholesale gas prices, transmission, contracts, field decline, emissions conditions and future litigation determine whether end-user costs or reliability change.",
     "catalysts": [
-      "NSTA's formal consent and licence conditions",
-      "First metered gas deliveries, volumes and duration verified by operator/regulator",
-      "Observed import displacement and wholesale-price effects rather than headline capacity"
+      "Metered first gas and regulator-verified production",
+      "Measured import displacement and net supply effects",
+      "Published operating and environmental compliance conditions"
     ],
     "invalidation": "Consent is delayed or overturned, first gas fails to arrive, actual volumes materially undershoot, or production substitutes existing UK output without improving net supply resilience.",
     "confidence": "medium",
@@ -23,12 +23,20 @@
     "related_atlas_ids": [],
     "evidence": [
       {
-        "name": "UK Department for Energy Security and Net Zero, Jackdaw gas field gets green light",
-        "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+        "name": "North Sea Transition Authority — NSTA grants consent for Jackdaw",
+        "url": "https://www.nstauthority.co.uk/news-publications/nsta-grants-consent-for-jackdaw/",
+        "date": "2026-10-21"
+      },
+      {
+        "name": "UK DESNZ — Jackdaw Field Development",
+        "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
         "date": "2026-10-21"
       }
     ],
     "status": "discovery_watch",
     "notes": "Official ~6% peak increase in domestic gas production is a forward-looking government estimate, not measured throughput. Approval is not production; no investment recommendation."
-  }
+  },
+  "review_status": "watch",
+  "reviewed_at": "2026-10-22T05:18:00-03:00",
+  "review_notes": "The NSTA itself confirms development and production consent was granted on 21 October, not merely authorised for future grant. First gas and delivered volumes are not independently observed. Retain discovery_watch and no canonical promotion."
 }

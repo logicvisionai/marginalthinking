@@ -23,10 +23,13 @@
     "related_atlas_ids": [],
     "evidence": [
       {
-        "name": "Reuters — EU data-centre energy and water efficiency disclosure proposal",
-        "url": "https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/",
+        "name": "European Commission, data centre energy performance",
+        "url": "https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive/energy-performance-data-centres_en",
         "date": "2026-09-21"
       }
     ]
-  }
+  },
+  "review_status": "watch",
+  "reviewed_at": "2026-10-22T05:18:00-03:00",
+  "review_notes": "Primary Commission documentation confirms a proposed rating scheme and a separate consultation on minimum standards through 14 December 2026; adoption and operating effects are unproven."
 }
