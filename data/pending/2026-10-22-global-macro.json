@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-22",
+  "slug": "2026-10-22-global-macro",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T18:39:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-22-global-macro/en.md",
+      "title": "Global Macro — Low US layoffs meet weak hiring, uneven Chinese growth and an energy-driven inflation divide",
+      "deck": "US initial claims fall to 194,000 while continuing insured unemployment rises; China's manufacturing diverges from construction and European inflation remains energy-led.",
+      "tags": [
+        "global macro",
+        "United States labor market",
+        "unemployment insurance",
+        "China GDP",
+        "European inflation",
+        "oil inventories",
+        "Brazil IPCA"
+      ],
+      "keywords": [
+        "22 October 2026",
+        "US unemployment claims 194000",
+        "continuing unemployment 1728000",
+        "China third-quarter GDP",
+        "EIA crude oil inventories",
+        "Eurostat HICP",
+        "Brazil IPCA"
+      ],
+      "regime": "Low US layoffs and slow hiring coexist with sector-specific Chinese growth and unequal energy-price transmission.",
+      "key_risk": "Persistent import-cost inflation and weak hiring delay household purchasing-power recovery even where manufacturing expands.",
+      "watch": [
+        "US continuing insured claims, payrolls and job openings",
+        "EIA crude, refined product balances and logistics",
+        "China domestic consumption and construction",
+        "Euro-area energy and services contributions to inflation",
+        "Brazil IPCA, manufacturing and exchange-rate pass-through"
+      ],
+      "search_text": "22 October 2026 global macro low layoffs slow hiring 194000 1728000 China GDP 4.5 energy euro area inflation 3.8 EIA Brazil IPCA"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-22-global-macro/pt-BR.md",
+      "title": "Macro Global — poucas demissões nos EUA coexistem com contratações fracas, crescimento desigual na China e inflação pressionada pela energia",
+      "deck": "Pedidos iniciais de seguro caem a 194 mil nos EUA, mas beneficiários continuados aumentam; manufatura chinesa diverge da construção e energia pressiona preços europeus.",
+      "tags": [
+        "macro global",
+        "mercado de trabalho americano",
+        "seguro-desemprego",
+        "PIB da China",
+        "inflação europeia",
+        "estoques de petróleo",
+        "IPCA brasileiro"
+      ],
+      "keywords": [
+        "22 outubro 2026",
+        "pedidos seguro-desemprego 194 mil",
+        "beneficiários 1,728 milhão",
+        "PIB chinês terceiro trimestre",
+        "estoques EIA",
+        "HICP Eurostat",
+        "IPCA Brasil"
+      ],
+      "regime": "Poucas demissões e contratações lentas nos EUA coexistem com crescimento setorial na China e transmissão desigual dos preços de energia.",
+      "key_risk": "Inflação persistente dos custos importados e contratações fracas adiam recuperação do poder de compra apesar da expansão manufatureira.",
+      "watch": [
+        "Beneficiários continuados, emprego e vagas nos EUA",
+        "Balanços semanais da EIA e logística de derivados",
+        "Consumo interno e construção na China",
+        "Componentes energia e serviços da inflação europeia",
+        "IPCA, indústria e repasse cambial no Brasil"
+      ],
+      "search_text": "22 outubro 2026 macro global desemprego 194 mil 1,728 milhão China PIB 4,5 energia inflação zona do euro 3,8 EIA IPCA"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "demography-labor",
+    "energy",
+    "capital-markets",
+    "industry-production",
+    "trade-investment",
+    "inequality-distribution"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "producer_checks": {
+    "information_cutoff": "US DOL 22 October; EIA 21 October for week to 16 October; China GDP released 21 October; Eurostat final September 16 October; BLS September 2 October; IBGE September; IMF October forecast vintage principally 1 October. No closing market prices asserted.",
+    "editorial_novelty": "Fresh divergence between declining initial US unemployment claims and increasing continuing insured unemployment, assessed against September weak payrolls, China's 21 October Q3 sectoral GDP and energy-inflation incidence across euro area and Brazil. Distinct from UK CPI/debt of 21 October.",
+    "visual_signature": "Each locale: three reproducible explicit quantitative bar charts, three substantive tables, one multichain flow and one geographic exposure map.",
+    "source_check": "Nine identical primary source URLs from US DOL, BLS, EIA, Chinese NBS, Eurostat, IBGE, IMF and Federal Reserve. Distinct release dates, stock/flow concepts, geographies and forecast versus observation are identified.",
+    "bilingual_parity": "Same official numeric facts, matching nine citation URLs and three identical numeric chart series in EN and PT-BR; conditional scenarios, counterfactuals and caveats parallel."
+  }
+}
