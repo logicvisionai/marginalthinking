@@ -2,6 +2,125 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-GM-2026-10-22",
+    "slug": "2026-10-22-global-macro",
+    "date": "2026-10-22",
+    "published_at": "2026-10-22T18:39:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "demography-labor",
+      "energy",
+      "capital-markets",
+      "industry-production",
+      "trade-investment",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "producer_checks": {
+      "information_cutoff": "US DOL 22 October; EIA 21 October for week to 16 October; China GDP released 21 October; Eurostat final September 16 October; BLS September 2 October; IBGE September; IMF October forecast vintage principally 1 October. No closing market prices asserted.",
+      "editorial_novelty": "Fresh divergence between declining initial US unemployment claims and increasing continuing insured unemployment, assessed against September weak payrolls, China's 21 October Q3 sectoral GDP and energy-inflation incidence across euro area and Brazil. Distinct from UK CPI/debt of 21 October.",
+      "visual_signature": "Each locale: three reproducible explicit quantitative bar charts, three substantive tables, one multichain flow and one geographic exposure map.",
+      "source_check": "Nine identical primary source URLs from US DOL, BLS, EIA, Chinese NBS, Eurostat, IBGE, IMF and Federal Reserve. Distinct release dates, stock/flow concepts, geographies and forecast versus observation are identified.",
+      "bilingual_parity": "Same official numeric facts, matching nine citation URLs and three identical numeric chart series in EN and PT-BR; conditional scenarios, counterfactuals and caveats parallel."
+    },
+    "url": "/reports/2026/10/2026-10-22-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-23T00:39:04.730Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "bc858a7fdee01c08b46c9c681fadce1eec278bff",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Low US layoffs meet weak hiring, uneven Chinese growth and an energy-driven inflation divide",
+        "deck": "US initial claims fall to 194,000 while continuing insured unemployment rises; China's manufacturing diverges from construction and European inflation remains energy-led.",
+        "tags": [
+          "global macro",
+          "United States labor market",
+          "unemployment insurance",
+          "China GDP",
+          "European inflation",
+          "oil inventories",
+          "Brazil IPCA"
+        ],
+        "keywords": [
+          "22 October 2026",
+          "US unemployment claims 194000",
+          "continuing unemployment 1728000",
+          "China third-quarter GDP",
+          "EIA crude oil inventories",
+          "Eurostat HICP",
+          "Brazil IPCA"
+        ],
+        "regime": "Low US layoffs and slow hiring coexist with sector-specific Chinese growth and unequal energy-price transmission.",
+        "key_risk": "Persistent import-cost inflation and weak hiring delay household purchasing-power recovery even where manufacturing expands.",
+        "watch": [
+          "US continuing insured claims, payrolls and job openings",
+          "EIA crude, refined product balances and logistics",
+          "China domestic consumption and construction",
+          "Euro-area energy and services contributions to inflation",
+          "Brazil IPCA, manufacturing and exchange-rate pass-through"
+        ],
+        "search_text": "22 October 2026 global macro low layoffs slow hiring 194000 1728000 China GDP 4.5 energy euro area inflation 3.8 EIA Brazil IPCA"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Macro Global — poucas demissões nos EUA coexistem com contratações fracas, crescimento desigual na China e inflação pressionada pela energia",
+        "deck": "Pedidos iniciais de seguro caem a 194 mil nos EUA, mas beneficiários continuados aumentam; manufatura chinesa diverge da construção e energia pressiona preços europeus.",
+        "tags": [
+          "macro global",
+          "mercado de trabalho americano",
+          "seguro-desemprego",
+          "PIB da China",
+          "inflação europeia",
+          "estoques de petróleo",
+          "IPCA brasileiro"
+        ],
+        "keywords": [
+          "22 outubro 2026",
+          "pedidos seguro-desemprego 194 mil",
+          "beneficiários 1,728 milhão",
+          "PIB chinês terceiro trimestre",
+          "estoques EIA",
+          "HICP Eurostat",
+          "IPCA Brasil"
+        ],
+        "regime": "Poucas demissões e contratações lentas nos EUA coexistem com crescimento setorial na China e transmissão desigual dos preços de energia.",
+        "key_risk": "Inflação persistente dos custos importados e contratações fracas adiam recuperação do poder de compra apesar da expansão manufatureira.",
+        "watch": [
+          "Beneficiários continuados, emprego e vagas nos EUA",
+          "Balanços semanais da EIA e logística de derivados",
+          "Consumo interno e construção na China",
+          "Componentes energia e serviços da inflação europeia",
+          "IPCA, indústria e repasse cambial no Brasil"
+        ],
+        "search_text": "22 outubro 2026 macro global desemprego 194 mil 1,728 milhão China PIB 4,5 energia inflação zona do euro 3,8 EIA IPCA"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-CS-2026-10-21-CYBER-AI",
     "slug": "2026-10-21-cyberwarfare-ai-strategic-security",
     "date": "2026-10-21",
@@ -495,126 +614,6 @@
   {
     "schema_version": 2,
     "ready": true,
-    "id": "MT-PH-2026-10-19-pandemic-scars",
-    "slug": "2026-10-19-covid-pandemic-scars-and-preparedness",
-    "date": "2026-10-19",
-    "published_at": "2026-10-19T21:02:19-03:00",
-    "kind": "pandemic-social-economic-preparedness",
-    "priority": 38,
-    "source_locale": "en",
-    "taxonomy_version": "1.0",
-    "program": "political-economy-markets",
-    "related_programs": [
-      "technology-production-society",
-      "global-system-power"
-    ],
-    "dimensions": [
-      "economy",
-      "politics",
-      "society"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "macroeconomics",
-      "demography-labor",
-      "inequality-distribution",
-      "social-change",
-      "institutions-governance",
-      "technology-innovation",
-      "infrastructure-logistics"
-    ],
-    "phenomena": [
-      "social-change",
-      "institutional-change"
-    ],
-    "format": "research-report",
-    "cadence": "event-driven",
-    "url": "/reports/2026/10/2026-10-19-covid-pandemic-scars-and-preparedness.html",
-    "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-20T00:10:55Z",
-    "qa_confidence": "medium",
-    "qa_reviewed_commit": "b18bad983b1593a546677dc1e14faa96b31cf1a3",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "COVID-19's long shadow: economic losses, social fractures and the unfinished architecture of pandemic preparedness",
-        "deck": "A cross-disciplinary study of mortality, employment, poverty, learning, mental health, social trust and the operational gaps of 2026 pandemic preparedness, with conditional scenarios for a future outbreak.",
-        "tags": [
-          "pandemics",
-          "COVID-19",
-          "economic scarring",
-          "social change",
-          "mental health",
-          "education",
-          "preparedness",
-          "health institutions"
-        ],
-        "keywords": [
-          "COVID-19 long term economic social psychosocial impacts",
-          "pandemic preparedness 2026",
-          "IHR 2025",
-          "PABS annex 2026",
-          "pandemic learning losses",
-          "long COVID",
-          "One Health",
-          "WHO pandemic intelligence"
-        ],
-        "regime": "Persisting uneven socioeconomic and psychosocial effects amid improved but incomplete international outbreak preparedness.",
-        "key_risk": "Formal agreements and rapid research capabilities fail to translate into accessible medical countermeasures and economic, educational and psychosocial continuity for vulnerable populations.",
-        "watch": [
-          "WHO PABS negotiations and signature/ratification pathway in 2027",
-          "Verified national IHR implementation and outbreak detection-to-response timing",
-          "CEPI 100 Days Mission field results, manufacturing and delivery evidence",
-          "National learning recovery, mental health and long COVID surveillance",
-          "Operational One Health and pandemic financing results"
-        ],
-        "search_text": "COVID-19 pandemic economic social psychosocial aftereffects global mortality employment poverty education mental health 2020 2026 future pandemic preparedness WHO IHR PABS CEPI One Health surveillance trust"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "O legado prolongado da COVID-19: perdas econômicas, transformações sociais e os limites da preparação para outra pandemia",
-        "deck": "Pesquisa interdisciplinar sobre mortalidade, renda, trabalho, educação, saúde mental, confiança social e capacidade real de preparação para pandemias em 2026, com cenários condicionais para um novo surto.",
-        "tags": [
-          "pandemias",
-          "COVID-19",
-          "perdas econômicas",
-          "mudança social",
-          "saúde mental",
-          "educação",
-          "preparação sanitária",
-          "instituições de saúde"
-        ],
-        "keywords": [
-          "efeitos econômicos sociais psicossociais da pandemia",
-          "próxima pandemia 2026",
-          "Regulamento Sanitário Internacional",
-          "anexo PABS 2026",
-          "perdas de aprendizagem",
-          "covid longa",
-          "Saúde Única",
-          "vigilância epidemiológica OMS"
-        ],
-        "regime": "Persistência desigual dos impactos socioeconômicos e psicossociais em meio a avanços e lacunas na preparação internacional.",
-        "key_risk": "Acordos e avanços científicos não se converterem em acesso a produtos médicos e continuidade econômica, educacional e psicossocial para populações vulneráveis.",
-        "watch": [
-          "Negociação do PABS e assinatura/ratificação internacional em 2027",
-          "Execução nacional do Regulamento Sanitário Internacional e tempo real de resposta",
-          "Resultados da Missão de 100 Dias, fabricação e distribuição efetivas",
-          "Recuperação educacional, saúde mental e vigilância da condição pós-COVID",
-          "Resultados operacionais de Saúde Única e financiamento preventivo"
-        ],
-        "search_text": "COVID-19 pandemia consequências econômicas sociais psicossociais longo prazo mundo mortalidade renda emprego educação saúde mental 2020 2026 próxima pandemia preparação OMS acordos PABS CEPI Saúde Única vigilância confiança"
-      }
-    }
-  },
-  {
-    "schema_version": 2,
-    "ready": true,
     "id": "MT-CS-2026-10-19-MAJOR-POWER",
     "slug": "2026-10-19-major-power-war-global-system-consequences",
     "date": "2026-10-19",
@@ -761,6 +760,126 @@
           "Comunicação verificável, controle de armamentos e acordos fiscalizados"
         ],
         "search_text": "OTAN Rússia risco guerra mundial 2026 conflito potências efeitos econômicos sociais psicossociais armas nucleares convencionais químicas biológicas drones ciber espaço controle mídia paz armistício duração"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PH-2026-10-19-pandemic-scars",
+    "slug": "2026-10-19-covid-pandemic-scars-and-preparedness",
+    "date": "2026-10-19",
+    "published_at": "2026-10-19T21:02:19-03:00",
+    "kind": "pandemic-social-economic-preparedness",
+    "priority": 38,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "institutions-governance",
+      "technology-innovation",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "social-change",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "url": "/reports/2026/10/2026-10-19-covid-pandemic-scars-and-preparedness.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-20T00:10:55Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "b18bad983b1593a546677dc1e14faa96b31cf1a3",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "COVID-19's long shadow: economic losses, social fractures and the unfinished architecture of pandemic preparedness",
+        "deck": "A cross-disciplinary study of mortality, employment, poverty, learning, mental health, social trust and the operational gaps of 2026 pandemic preparedness, with conditional scenarios for a future outbreak.",
+        "tags": [
+          "pandemics",
+          "COVID-19",
+          "economic scarring",
+          "social change",
+          "mental health",
+          "education",
+          "preparedness",
+          "health institutions"
+        ],
+        "keywords": [
+          "COVID-19 long term economic social psychosocial impacts",
+          "pandemic preparedness 2026",
+          "IHR 2025",
+          "PABS annex 2026",
+          "pandemic learning losses",
+          "long COVID",
+          "One Health",
+          "WHO pandemic intelligence"
+        ],
+        "regime": "Persisting uneven socioeconomic and psychosocial effects amid improved but incomplete international outbreak preparedness.",
+        "key_risk": "Formal agreements and rapid research capabilities fail to translate into accessible medical countermeasures and economic, educational and psychosocial continuity for vulnerable populations.",
+        "watch": [
+          "WHO PABS negotiations and signature/ratification pathway in 2027",
+          "Verified national IHR implementation and outbreak detection-to-response timing",
+          "CEPI 100 Days Mission field results, manufacturing and delivery evidence",
+          "National learning recovery, mental health and long COVID surveillance",
+          "Operational One Health and pandemic financing results"
+        ],
+        "search_text": "COVID-19 pandemic economic social psychosocial aftereffects global mortality employment poverty education mental health 2020 2026 future pandemic preparedness WHO IHR PABS CEPI One Health surveillance trust"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "O legado prolongado da COVID-19: perdas econômicas, transformações sociais e os limites da preparação para outra pandemia",
+        "deck": "Pesquisa interdisciplinar sobre mortalidade, renda, trabalho, educação, saúde mental, confiança social e capacidade real de preparação para pandemias em 2026, com cenários condicionais para um novo surto.",
+        "tags": [
+          "pandemias",
+          "COVID-19",
+          "perdas econômicas",
+          "mudança social",
+          "saúde mental",
+          "educação",
+          "preparação sanitária",
+          "instituições de saúde"
+        ],
+        "keywords": [
+          "efeitos econômicos sociais psicossociais da pandemia",
+          "próxima pandemia 2026",
+          "Regulamento Sanitário Internacional",
+          "anexo PABS 2026",
+          "perdas de aprendizagem",
+          "covid longa",
+          "Saúde Única",
+          "vigilância epidemiológica OMS"
+        ],
+        "regime": "Persistência desigual dos impactos socioeconômicos e psicossociais em meio a avanços e lacunas na preparação internacional.",
+        "key_risk": "Acordos e avanços científicos não se converterem em acesso a produtos médicos e continuidade econômica, educacional e psicossocial para populações vulneráveis.",
+        "watch": [
+          "Negociação do PABS e assinatura/ratificação internacional em 2027",
+          "Execução nacional do Regulamento Sanitário Internacional e tempo real de resposta",
+          "Resultados da Missão de 100 Dias, fabricação e distribuição efetivas",
+          "Recuperação educacional, saúde mental e vigilância da condição pós-COVID",
+          "Resultados operacionais de Saúde Única e financiamento preventivo"
+        ],
+        "search_text": "COVID-19 pandemia consequências econômicas sociais psicossociais longo prazo mundo mortalidade renda emprego educação saúde mental 2020 2026 próxima pandemia preparação OMS acordos PABS CEPI Saúde Única vigilância confiança"
       }
     }
   },
@@ -1817,6 +1936,110 @@
     }
   },
   {
+    "id": "MT-GM-2026-10-12",
+    "slug": "2026-10-12-global-macro",
+    "date": "2026-10-12",
+    "published_at": "2026-10-12T01:51:34-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "industry-production",
+      "institutions-governance"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "url": "/reports/2026/10/2026-10-12-global-macro.html",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — inflation divergence, sovereign finance and supply-chain constraints before Bangkok",
+        "deck": "Fed and ECB tightening, euro-area inflation at 3.8%, weaker US hiring and high sovereign debt frame the IMF–World Bank meetings and the week's coming data.",
+        "tags": [
+          "global macro",
+          "IMF",
+          "Bangkok",
+          "public debt",
+          "supply chains",
+          "artificial intelligence",
+          "ECB",
+          "Federal Reserve",
+          "inflation"
+        ],
+        "keywords": [
+          "12 October 2026",
+          "global macro",
+          "Bangkok IMF World Bank",
+          "debt employment AI"
+        ],
+        "regime": "Divergent inflation and growth with constrained fiscal buffers and supply shocks; regional monetary transmission differs.",
+        "key_risk": "Higher borrowing costs may force governments to trade off supply-chain investment against household and workforce support.",
+        "watch": [
+          "IMF presentations on 12 October",
+          "IMF WEO and GFSR on 13 October",
+          "IMF Fiscal Monitor on 14 October",
+          "U.S. September CPI on 14 October",
+          "Eurostat full September HICP release 16 October",
+          "Sovereign spreads and nonbank funding stress"
+        ],
+        "search_text": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment."
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Macro Global — divergência inflacionária, dívida e restrições produtivas antes de Bangcoc",
+        "deck": "Aperto monetário do Fed e BCE, inflação europeia de 3,8%, contratações fracas nos EUA e dívida elevada condicionam as reuniões e os novos indicadores.",
+        "tags": [
+          "macro global",
+          "FMI",
+          "Bangcoc",
+          "dívida pública",
+          "cadeias produtivas",
+          "inteligência artificial",
+          "BCE",
+          "Federal Reserve",
+          "inflação"
+        ],
+        "keywords": [
+          "12 outubro 2026",
+          "macro global",
+          "Bangcoc FMI Banco Mundial",
+          "dívida emprego IA"
+        ],
+        "regime": "Inflação e atividade divergentes, restrições fiscais e choques de oferta; transmissão monetária varia entre regiões.",
+        "key_risk": "Juros elevados podem obrigar governos a disputar recursos entre cadeias produtivas, famílias e qualificação profissional.",
+        "watch": [
+          "Sessões do FMI em 12 de outubro",
+          "World Economic Outlook e GFSR em 13 de outubro",
+          "Fiscal Monitor em 14 de outubro",
+          "CPI dos EUA em 14 de outubro",
+          "Inflação final da zona do euro em 16 de outubro",
+          "Spreads soberanos e financiamento de não bancos"
+        ],
+        "search_text": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA."
+      }
+    }
+  },
+  {
     "id": "MT-WF-2026-10-12",
     "slug": "2026-10-12-global-wealth-flow-weekly",
     "date": "2026-10-12",
@@ -1921,110 +2144,6 @@
           "Posições de ouro dos gestores no COMEX"
         ],
         "search_text": "Os fluxos de fundos americanos de longo prazo ficaram ligeiramente negativos, fundos monetários subiram a US$ 7,96 tri e ETFs de ouro continuaram recebendo aportes."
-      }
-    }
-  },
-  {
-    "id": "MT-GM-2026-10-12",
-    "slug": "2026-10-12-global-macro",
-    "date": "2026-10-12",
-    "published_at": "2026-10-12T01:51:34-03:00",
-    "kind": "daily-global-macro",
-    "priority": 10,
-    "source_locale": "en",
-    "taxonomy_version": "1.0",
-    "program": "political-economy-markets",
-    "related_programs": [
-      "global-system-power"
-    ],
-    "dimensions": [
-      "economy",
-      "politics"
-    ],
-    "geography": {
-      "level": "global",
-      "regions": [],
-      "subregions": [],
-      "countries": []
-    },
-    "topics": [
-      "macroeconomics",
-      "monetary-policy",
-      "sovereign-debt",
-      "industry-production",
-      "institutions-governance"
-    ],
-    "phenomena": [],
-    "format": "brief",
-    "cadence": "daily",
-    "revision": 1,
-    "url": "/reports/2026/10/2026-10-12-global-macro.html",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Global Macro — inflation divergence, sovereign finance and supply-chain constraints before Bangkok",
-        "deck": "Fed and ECB tightening, euro-area inflation at 3.8%, weaker US hiring and high sovereign debt frame the IMF–World Bank meetings and the week's coming data.",
-        "tags": [
-          "global macro",
-          "IMF",
-          "Bangkok",
-          "public debt",
-          "supply chains",
-          "artificial intelligence",
-          "ECB",
-          "Federal Reserve",
-          "inflation"
-        ],
-        "keywords": [
-          "12 October 2026",
-          "global macro",
-          "Bangkok IMF World Bank",
-          "debt employment AI"
-        ],
-        "regime": "Divergent inflation and growth with constrained fiscal buffers and supply shocks; regional monetary transmission differs.",
-        "key_risk": "Higher borrowing costs may force governments to trade off supply-chain investment against household and workforce support.",
-        "watch": [
-          "IMF presentations on 12 October",
-          "IMF WEO and GFSR on 13 October",
-          "IMF Fiscal Monitor on 14 October",
-          "U.S. September CPI on 14 October",
-          "Eurostat full September HICP release 16 October",
-          "Sovereign spreads and nonbank funding stress"
-        ],
-        "search_text": "The IMF–World Bank meetings open with distinct trade-offs in fiscal financing, resilient production networks and AI-related labour adjustment."
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Macro Global — divergência inflacionária, dívida e restrições produtivas antes de Bangcoc",
-        "deck": "Aperto monetário do Fed e BCE, inflação europeia de 3,8%, contratações fracas nos EUA e dívida elevada condicionam as reuniões e os novos indicadores.",
-        "tags": [
-          "macro global",
-          "FMI",
-          "Bangcoc",
-          "dívida pública",
-          "cadeias produtivas",
-          "inteligência artificial",
-          "BCE",
-          "Federal Reserve",
-          "inflação"
-        ],
-        "keywords": [
-          "12 outubro 2026",
-          "macro global",
-          "Bangcoc FMI Banco Mundial",
-          "dívida emprego IA"
-        ],
-        "regime": "Inflação e atividade divergentes, restrições fiscais e choques de oferta; transmissão monetária varia entre regiões.",
-        "key_risk": "Juros elevados podem obrigar governos a disputar recursos entre cadeias produtivas, famílias e qualificação profissional.",
-        "watch": [
-          "Sessões do FMI em 12 de outubro",
-          "World Economic Outlook e GFSR em 13 de outubro",
-          "Fiscal Monitor em 14 de outubro",
-          "CPI dos EUA em 14 de outubro",
-          "Inflação final da zona do euro em 16 de outubro",
-          "Spreads soberanos e financiamento de não bancos"
-        ],
-        "search_text": "As reuniões do FMI e Banco Mundial começam com escolhas distintas envolvendo financiamento público, resiliência produtiva e adaptação do trabalho à IA."
       }
     }
   },
@@ -5088,6 +5207,185 @@
     }
   },
   {
+    "id": "MT-CC-2026-09-28-singapore",
+    "slug": "2026-09-28-country-context-singapore",
+    "date": "2026-09-28",
+    "published_at": "2026-09-28T16:44:00-03:00",
+    "kind": "country-context",
+    "priority": 18,
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "asia-pacific"
+      ],
+      "subregions": [
+        "southeast-asia"
+      ],
+      "countries": [
+        {
+          "code": "SG",
+          "slug": "singapore"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "format": "country-dossier",
+    "cadence": "event-driven",
+    "source_locale": "en",
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "political-stability",
+      "demographic-transition",
+      "institutional-change",
+      "social-change"
+    ],
+    "assessment_confidence": "medium-high",
+    "selection_rationale": "Published canonical research already treats Temasek and Singapore's sovereign-capital architecture as a material transmission mechanism, but the corpus lacks country-level context connecting reserves, CPF, public housing, land, monetary policy, logistics, finance, industrial upgrading, foreign labour, demography and external strategy. This dossier supplies that reusable structural context without duplicating the existing actor studies.",
+    "context_role": "country-context",
+    "related_research_ids": [
+      "MT-SA-2026-09-23-TEMASEK",
+      "MT-SA-2026-09-19-sovereign-capital"
+    ],
+    "contrary_evidence": [
+      "Singapore's high gross public-debt ratio is not evidence of conventional fiscal distress because the Government reports a positive net asset position and most borrowing proceeds cannot finance recurrent spending; gross liabilities still require prudent management.",
+      "Public housing supports unusually broad owner-occupation, while 99-year lease decay, affordability and CPF withdrawals create genuine intergenerational and retirement trade-offs.",
+      "Foreign labour materially expands productive capacity, but it also creates a segmented labour market and additional housing, transport and social-integration pressures.",
+      "Singapore's port, financial and legal ecosystems are dense and difficult to reproduce quickly, while neighbouring economies continue improving infrastructure, talent and direct-connectivity alternatives.",
+      "Semiconductor investment is structurally important, but Singapore does not control the global leading-edge logic foundry chokepoint and remains heavily dependent on multinational firms and imported technology.",
+      "Deep security ties with the United States and deep economic relations with China coexist; the evidence supports issue-specific diversification rather than simple geopolitical equidistance or exclusive alignment."
+    ],
+    "limitations": [
+      "The total value of Singapore's national reserves is not publicly disclosed, and GIC does not disclose assets under management; third-party AUM estimates should not be treated as official figures.",
+      "Temasek's publicly reported net portfolio value is not equivalent to the stock of national reserves.",
+      "EDB fixed-asset-investment commitments are expected projects and should not be treated as already-realised investment.",
+      "The 6 GW low-carbon electricity-import target is planned capacity for 2035, not operating supply today.",
+      "Population statistics distinguish citizens, permanent residents and non-residents; total population alone obscures labour-market, infrastructure and political implications.",
+      "Political and civil-liberties assessments use source classes with different functions: official sources establish laws and institutional design, while external rights organisations provide attributed criticism and case-based evidence."
+    ],
+    "url": "/reports/2026/09/2026-09-28-country-context-singapore.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-09-28T21:40:00-03:00",
+    "qa_confidence": "medium-high",
+    "qa_reviewed_commit": "c45a5bcc0956c5079128d4c0966f71019aec00d0",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Singapore: sovereign balance-sheet capitalism, logistics density and the constraints of a small open state",
+        "deck": "Singapore converts land scarcity and external dependence into a dense system of public housing, compulsory savings, sovereign assets, ports, finance and advanced manufacturing; its next constraint is whether productivity and regional integration can offset ageing, imported energy and geopolitical fragmentation.",
+        "tags": [
+          "Singapore",
+          "Temasek",
+          "GIC",
+          "CPF",
+          "HDB",
+          "port logistics",
+          "asset management",
+          "semiconductors",
+          "ASEAN"
+        ],
+        "keywords": [
+          "Singapore political economy",
+          "Singapore sovereign reserves",
+          "Temasek GIC",
+          "Singapore CPF HDB",
+          "Singapore public debt",
+          "Singapore monetary policy SNEER",
+          "Singapore port Tuas",
+          "Singapore semiconductors",
+          "Singapore demographics immigration",
+          "Singapore US China ASEAN"
+        ],
+        "regime": "Sovereign balance-sheet capitalism in a logistics-financial city-state: private markets and multinational firms generate much of production and trade while public land, compulsory savings, reserves and specialised agencies shape long-horizon capital allocation and infrastructure.",
+        "key_risk": "The model depends on continued external connectivity: geopolitical fragmentation, imported-energy disruption, ageing, land and water constraints, or loss of multinational and financial intermediation could raise domestic costs faster than productivity and regional integration can offset them.",
+        "watch": [
+          "Labour productivity and value added per worker outside finance and electronics",
+          "Container throughput, transshipment share and Tuas Port productivity",
+          "Asset-management AUM, FDI and regional-headquarters activity",
+          "NIRC, GIC long-horizon real returns and Temasek portfolio returns",
+          "HDB affordability, CPF housing withdrawals and retirement adequacy",
+          "Citizen, permanent-resident and non-resident population composition, fertility and ageing",
+          "Gas dependence, low-carbon power imports, water demand and desalination/recycling capacity",
+          "Johor-Singapore RTS, Special Economic Zone and ASEAN integration"
+        ],
+        "search_text": "Singapore country context political economy sovereign balance sheet Temasek GIC CPF HDB public debt reserves SNEER port Tuas Changi semiconductors energy water immigration demographics PAP ASEAN Johor 2026"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Cingapura: capitalismo de balanço soberano, densidade logística e os limites de um pequeno Estado aberto",
+        "deck": "Cingapura converte escassez de terra e dependência externa em um sistema denso de habitação pública, poupança compulsória, ativos soberanos, portos, finanças e manufatura avançada; o próximo limite é saber se produtividade e integração regional conseguem compensar envelhecimento, energia importada e fragmentação geopolítica.",
+        "tags": [
+          "Cingapura",
+          "Temasek",
+          "GIC",
+          "CPF",
+          "HDB",
+          "logística portuária",
+          "gestão de ativos",
+          "semicondutores",
+          "ASEAN"
+        ],
+        "keywords": [
+          "economia política Cingapura",
+          "reservas soberanas Cingapura",
+          "Temasek GIC",
+          "CPF HDB Cingapura",
+          "dívida pública Cingapura",
+          "política monetária Cingapura SNEER",
+          "porto Tuas Cingapura",
+          "semicondutores Cingapura",
+          "demografia imigração Cingapura",
+          "Cingapura EUA China ASEAN"
+        ],
+        "regime": "Capitalismo de balanço soberano em uma cidade-Estado logístico-financeira: mercados privados e multinacionais geram grande parte da produção e do comércio, enquanto terra pública, poupança compulsória, reservas e agências especializadas moldam a alocação de capital e infraestrutura de longo prazo.",
+        "key_risk": "O modelo depende de conectividade externa contínua: fragmentação geopolítica, disrupção de energia importada, envelhecimento, restrições de terra e água ou perda de intermediação multinacional e financeira podem elevar custos domésticos mais rapidamente que produtividade e integração regional consigam compensar.",
+        "watch": [
+          "Produtividade do trabalho e valor adicionado por trabalhador fora de finanças e eletrônicos",
+          "Movimentação de contêineres, participação de transbordo e produtividade do Tuas Port",
+          "Ativos sob gestão, IED e atividade de sedes regionais",
+          "NIRC, retorno real de longo prazo da GIC e retornos do portfólio Temasek",
+          "Acessibilidade HDB, uso do CPF em habitação e adequação previdenciária",
+          "Composição entre cidadãos, residentes permanentes e não residentes, fecundidade e envelhecimento",
+          "Dependência de gás, importação de eletricidade de baixo carbono, demanda de água e capacidade de reciclagem/dessalinização",
+          "RTS Johor-Cingapura, Special Economic Zone e integração ASEAN"
+        ],
+        "search_text": "Cingapura contexto país economia política balanço soberano Temasek GIC CPF HDB dívida pública reservas SNEER porto Tuas Changi semicondutores energia água imigração demografia PAP ASEAN Johor 2026"
+      }
+    }
+  },
+  {
     "id": "MT-ST-2026-09-28-taiwan-semiconductor-political-economy",
     "slug": "2026-09-28-strategic-transition-taiwan-semiconductor-political-economy",
     "date": "2026-09-28",
@@ -5264,185 +5562,6 @@
           "Atividade aérea, naval e da guarda costeira da RPC ao redor de Taiwan sem inferir intenção apenas das contagens de atividade"
         ],
         "search_text": "Taiwan 2026 economia política semicondutores TSMC IA exportações superávit externo segurança energética demografia democracia Estreito de Taiwan China Estados Unidos Japão comércio defesa resiliência"
-      }
-    }
-  },
-  {
-    "id": "MT-CC-2026-09-28-singapore",
-    "slug": "2026-09-28-country-context-singapore",
-    "date": "2026-09-28",
-    "published_at": "2026-09-28T16:44:00-03:00",
-    "kind": "country-context",
-    "priority": 18,
-    "taxonomy_version": "1.0",
-    "program": "global-system-power",
-    "related_programs": [
-      "political-economy-markets",
-      "strategic-transitions",
-      "technology-production-society"
-    ],
-    "dimensions": [
-      "economy",
-      "politics",
-      "society"
-    ],
-    "geography": {
-      "level": "country",
-      "regions": [
-        "asia-pacific"
-      ],
-      "subregions": [
-        "southeast-asia"
-      ],
-      "countries": [
-        {
-          "code": "SG",
-          "slug": "singapore"
-        }
-      ]
-    },
-    "topics": [
-      "macroeconomics",
-      "fiscal-policy",
-      "monetary-policy",
-      "sovereign-debt",
-      "capital-markets",
-      "banking-credit",
-      "currencies",
-      "trade-investment",
-      "industry-production",
-      "technology-innovation",
-      "energy",
-      "commodities-resources",
-      "infrastructure-logistics",
-      "institutions-governance",
-      "geopolitics-security",
-      "demography-labor",
-      "inequality-distribution",
-      "social-change",
-      "climate-environment"
-    ],
-    "format": "country-dossier",
-    "cadence": "event-driven",
-    "source_locale": "en",
-    "phenomena": [
-      "strategic-competition",
-      "defense-security",
-      "political-stability",
-      "demographic-transition",
-      "institutional-change",
-      "social-change"
-    ],
-    "assessment_confidence": "medium-high",
-    "selection_rationale": "Published canonical research already treats Temasek and Singapore's sovereign-capital architecture as a material transmission mechanism, but the corpus lacks country-level context connecting reserves, CPF, public housing, land, monetary policy, logistics, finance, industrial upgrading, foreign labour, demography and external strategy. This dossier supplies that reusable structural context without duplicating the existing actor studies.",
-    "context_role": "country-context",
-    "related_research_ids": [
-      "MT-SA-2026-09-23-TEMASEK",
-      "MT-SA-2026-09-19-sovereign-capital"
-    ],
-    "contrary_evidence": [
-      "Singapore's high gross public-debt ratio is not evidence of conventional fiscal distress because the Government reports a positive net asset position and most borrowing proceeds cannot finance recurrent spending; gross liabilities still require prudent management.",
-      "Public housing supports unusually broad owner-occupation, while 99-year lease decay, affordability and CPF withdrawals create genuine intergenerational and retirement trade-offs.",
-      "Foreign labour materially expands productive capacity, but it also creates a segmented labour market and additional housing, transport and social-integration pressures.",
-      "Singapore's port, financial and legal ecosystems are dense and difficult to reproduce quickly, while neighbouring economies continue improving infrastructure, talent and direct-connectivity alternatives.",
-      "Semiconductor investment is structurally important, but Singapore does not control the global leading-edge logic foundry chokepoint and remains heavily dependent on multinational firms and imported technology.",
-      "Deep security ties with the United States and deep economic relations with China coexist; the evidence supports issue-specific diversification rather than simple geopolitical equidistance or exclusive alignment."
-    ],
-    "limitations": [
-      "The total value of Singapore's national reserves is not publicly disclosed, and GIC does not disclose assets under management; third-party AUM estimates should not be treated as official figures.",
-      "Temasek's publicly reported net portfolio value is not equivalent to the stock of national reserves.",
-      "EDB fixed-asset-investment commitments are expected projects and should not be treated as already-realised investment.",
-      "The 6 GW low-carbon electricity-import target is planned capacity for 2035, not operating supply today.",
-      "Population statistics distinguish citizens, permanent residents and non-residents; total population alone obscures labour-market, infrastructure and political implications.",
-      "Political and civil-liberties assessments use source classes with different functions: official sources establish laws and institutional design, while external rights organisations provide attributed criticism and case-based evidence."
-    ],
-    "url": "/reports/2026/09/2026-09-28-country-context-singapore.html",
-    "qa_status": "approved",
-    "qa_reviewed_at": "2026-09-28T21:40:00-03:00",
-    "qa_confidence": "medium-high",
-    "qa_reviewed_commit": "c45a5bcc0956c5079128d4c0966f71019aec00d0",
-    "locales": {
-      "en": {
-        "markdown": "en.md",
-        "title": "Singapore: sovereign balance-sheet capitalism, logistics density and the constraints of a small open state",
-        "deck": "Singapore converts land scarcity and external dependence into a dense system of public housing, compulsory savings, sovereign assets, ports, finance and advanced manufacturing; its next constraint is whether productivity and regional integration can offset ageing, imported energy and geopolitical fragmentation.",
-        "tags": [
-          "Singapore",
-          "Temasek",
-          "GIC",
-          "CPF",
-          "HDB",
-          "port logistics",
-          "asset management",
-          "semiconductors",
-          "ASEAN"
-        ],
-        "keywords": [
-          "Singapore political economy",
-          "Singapore sovereign reserves",
-          "Temasek GIC",
-          "Singapore CPF HDB",
-          "Singapore public debt",
-          "Singapore monetary policy SNEER",
-          "Singapore port Tuas",
-          "Singapore semiconductors",
-          "Singapore demographics immigration",
-          "Singapore US China ASEAN"
-        ],
-        "regime": "Sovereign balance-sheet capitalism in a logistics-financial city-state: private markets and multinational firms generate much of production and trade while public land, compulsory savings, reserves and specialised agencies shape long-horizon capital allocation and infrastructure.",
-        "key_risk": "The model depends on continued external connectivity: geopolitical fragmentation, imported-energy disruption, ageing, land and water constraints, or loss of multinational and financial intermediation could raise domestic costs faster than productivity and regional integration can offset them.",
-        "watch": [
-          "Labour productivity and value added per worker outside finance and electronics",
-          "Container throughput, transshipment share and Tuas Port productivity",
-          "Asset-management AUM, FDI and regional-headquarters activity",
-          "NIRC, GIC long-horizon real returns and Temasek portfolio returns",
-          "HDB affordability, CPF housing withdrawals and retirement adequacy",
-          "Citizen, permanent-resident and non-resident population composition, fertility and ageing",
-          "Gas dependence, low-carbon power imports, water demand and desalination/recycling capacity",
-          "Johor-Singapore RTS, Special Economic Zone and ASEAN integration"
-        ],
-        "search_text": "Singapore country context political economy sovereign balance sheet Temasek GIC CPF HDB public debt reserves SNEER port Tuas Changi semiconductors energy water immigration demographics PAP ASEAN Johor 2026"
-      },
-      "pt-BR": {
-        "markdown": "pt-BR.md",
-        "title": "Cingapura: capitalismo de balanço soberano, densidade logística e os limites de um pequeno Estado aberto",
-        "deck": "Cingapura converte escassez de terra e dependência externa em um sistema denso de habitação pública, poupança compulsória, ativos soberanos, portos, finanças e manufatura avançada; o próximo limite é saber se produtividade e integração regional conseguem compensar envelhecimento, energia importada e fragmentação geopolítica.",
-        "tags": [
-          "Cingapura",
-          "Temasek",
-          "GIC",
-          "CPF",
-          "HDB",
-          "logística portuária",
-          "gestão de ativos",
-          "semicondutores",
-          "ASEAN"
-        ],
-        "keywords": [
-          "economia política Cingapura",
-          "reservas soberanas Cingapura",
-          "Temasek GIC",
-          "CPF HDB Cingapura",
-          "dívida pública Cingapura",
-          "política monetária Cingapura SNEER",
-          "porto Tuas Cingapura",
-          "semicondutores Cingapura",
-          "demografia imigração Cingapura",
-          "Cingapura EUA China ASEAN"
-        ],
-        "regime": "Capitalismo de balanço soberano em uma cidade-Estado logístico-financeira: mercados privados e multinacionais geram grande parte da produção e do comércio, enquanto terra pública, poupança compulsória, reservas e agências especializadas moldam a alocação de capital e infraestrutura de longo prazo.",
-        "key_risk": "O modelo depende de conectividade externa contínua: fragmentação geopolítica, disrupção de energia importada, envelhecimento, restrições de terra e água ou perda de intermediação multinacional e financeira podem elevar custos domésticos mais rapidamente que produtividade e integração regional consigam compensar.",
-        "watch": [
-          "Produtividade do trabalho e valor adicionado por trabalhador fora de finanças e eletrônicos",
-          "Movimentação de contêineres, participação de transbordo e produtividade do Tuas Port",
-          "Ativos sob gestão, IED e atividade de sedes regionais",
-          "NIRC, retorno real de longo prazo da GIC e retornos do portfólio Temasek",
-          "Acessibilidade HDB, uso do CPF em habitação e adequação previdenciária",
-          "Composição entre cidadãos, residentes permanentes e não residentes, fecundidade e envelhecimento",
-          "Dependência de gás, importação de eletricidade de baixo carbono, demanda de água e capacidade de reciclagem/dessalinização",
-          "RTS Johor-Cingapura, Special Economic Zone e integração ASEAN"
-        ],
-        "search_text": "Cingapura contexto país economia política balanço soberano Temasek GIC CPF HDB dívida pública reservas SNEER porto Tuas Changi semicondutores energia água imigração demografia PAP ASEAN Johor 2026"
       }
     }
   },
