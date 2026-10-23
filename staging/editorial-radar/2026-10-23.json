@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "checked_at": "2026-10-23T07:59:44.350Z",
+  "scope": "Daily source-anchored editorial-line screening of all active registry editorial lines; staging-only operational audit, not a public article, a negative-evidence proof or cumulative-system reconciliation.",
+  "registry_updated_at": "2026-10-20",
+  "reviewed_line_count": 21,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "already_public",
+      "note": "MT-GM-2026-10-23 already has v2 approval and public report bundle on main; no rewrite or duplicate. Japan CPI, EA21 debt and US mortgage refinancing mechanisms are covered."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Existing weekly wealth-flow coverage through 19 October; BIS 19 October cross-border payment cost paper is research evidence, not new documented manager holdings or weekly flow disclosure."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "atlas_discovery_only",
+      "note": "World Bank 11 October Nigeria BRIDGE financing/investor-selection update creates a structural watch; no confirmed private equity close, commissioning or independent coverage/outcome measure."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "Nigeria and Brazil official institutional releases screened for structural mechanisms, but no country dossier justified from a single programme update."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "IEA 19 October electricity security board discussed grids and storage; a meeting is not a demonstrated technical performance or deployment breakthrough."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "ECB Pix–TIPS feasibility assessment and Nigeria fibre project are institutional/financing stages, not a verified new technology capability at scale."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "OPCW 13 and 22 October Syria/UK official notices screened; verification and diplomatic engagement are distinguished from new use allegations or independently verified new armed conflict."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "ECB/BCB, World Bank/AfDB and OPCW agency roles were checked; no demonstrated control or capital ownership transition merits a standalone strategic-actor report."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "atlas_discovery_only",
+      "note": "ECB 24 September approved investigation of TIPS–Pix; 2 October Council notice and BCB confirmation checked. No implementation decision or live settlement corridor."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "ECB TIPS–Pix investigation is a specific dated decision, but was already recorded as a structural candidate; no evidence of effective legal change or operational rail."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Nigeria open-access backbone and ECB payment interlinking remain implementation tests; no verified outcomes permit an institutional policy-effect evaluation."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "BIS 19 October Working Paper 1385 compares bank, fintech and stablecoin payment costs; a research comparison does not demonstrate changed cross-border market architecture."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "World Bank Nigeria private financing figures distinguish potential mobilisation from paid-in capital; no new canonical monthly change in wealth/control verified."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "IMF October WEO and Nigeria infrastructure financing screened; no new annual comparable wealth/control census or audited stocks."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "ECB/BCB TIPS–Pix cooperation, World Bank BRIDGE and OPCW notices show institution activity but not a new binding multilateral institutional structure."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "atlas_discovery_only",
+      "note": "Pix–TIPS feasibility concerns potential euro-area/Brazil payments corridor; legal, FX and settlement rules remain under assessment, not a functioning integration arrangement."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "Nigeria fibre access and IEA grid security provide production/society mechanisms, but rollout and observed productivity or labour effects are unverified."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "FAO 2 October September global food price index and 13 October domestic price warnings reviewed; existing 12 October food-affordability research covers transmission, with no newly verified 23 October shock."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "WOAH 12 October cattle/sheep/goat vaccine prioritisation expert call and July AMR plan screened; expert recruitment is not observed lower antimicrobial use or changed livestock risk."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "IMF 13 October WEO downside conflict scenarios and OPCW notices assessed as conditional risk/verification, not evidence of an imminent new interstate war."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "WHO DRC/Uganda Bundibugyo outbreak situation and September disease notices reviewed against 19 October pandemic report; no newly verified 23 October epidemiological change sufficient for a second report."
+    }
+  ],
+  "selected_additional_article": null,
+  "selection_rationale": "The mandatory Global Macro already exists publicly with valid QA. No separate topic met the combined new-evidence, distinct-mechanism, cross-source and bilingual visual-readiness threshold; two material structural questions are tracked in Atlas staging instead of being presented as deployed systems.",
+  "material_candidates": [
+    {
+      "name": "Pix–TIPS cross-border interoperability",
+      "source": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260924.de.html",
+      "date": "2026-09-24",
+      "disposition": "Atlas discovery watch; feasibility assessment only, not a live corridor."
+    },
+    {
+      "name": "Nigeria BRIDGE open-access fibre financing",
+      "source": "https://www.worldbank.org/en/news/feature/2026/10/11/unlocking-5-79-billion-world-bank-group-private-capital-mobilization-nigeria",
+      "date": "2026-10-11",
+      "disposition": "Atlas discovery watch; private equity selection planned, not financed/commissioned network."
+    }
+  ],
+  "other_primary_evidence": [
+    {
+      "name": "BIS — competing cross-border payment rails working paper",
+      "url": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "FAO — Food Price Monitoring and Analysis Bulletin",
+      "url": "https://www.fao.org/markets-and-trade/do-not-touch/all-widgets/food-price-monitoring-and-analysis-%28fpma%29-bulletin--8--13-october-2026---monthly-report-on-food-price-trends/en",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "WOAH — expert call on vaccines and animal antimicrobial use",
+      "url": "https://www.woah.org/en/article/call-for-experts-to-join-the-ad-hoc-group-on-the-prioritisation-of-diseases-for-which-vaccines-could-reduce-global-antimicrobial-use-in-animals-proeva-cattle-sheep-goats/",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "WHO — DRC Bundibugyo Ebola situation",
+      "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026",
+      "date": "2026-10-23 accessed; situation page continuously updated"
+    },
+    {
+      "name": "OPCW — Director-General UK visit",
+      "url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-official-visit-united-kingdom",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "OPCW — Syria verified destruction cooperation",
+      "url": "https://www.opcw.org/media-centre/news/2026/10/opcw-director-general-visits-syria",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "IMF — October 2026 WEO",
+      "url": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "IEA — Electricity Security Advisory Board",
+      "url": "https://www.iea.org/news/iea-electricity-security-advisory-board-convenes-in-paris-to-address-power-system-challenges",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "World Bank — Nigeria BRIDGE 2025 approval",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/10/07/world-bank-approves-new-financing-to-enhance-nigeria-digital-infrastructure-and-health-security",
+      "date": "2025-10-07"
+    }
+  ],
+  "limitations": "Screening uses official publications available before the European and US 23 October trading day. No proof that all countries, registries or events globally were exhaustively covered. Historical official releases are used for structural follow-up, not relabelled as today's news. No invented outbreaks, imminent war, commissioned fibre, actual cross-border payment rail or asset flows."
+}
