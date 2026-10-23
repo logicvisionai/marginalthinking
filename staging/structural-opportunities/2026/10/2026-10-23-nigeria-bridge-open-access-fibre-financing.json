@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-23T07:59:01.120Z",
+  "candidate": {
+    "country": {
+      "code": "NGA",
+      "name": "Nigeria"
+    },
+    "previous_state": null,
+    "proposed_state": "blocking_inefficiency",
+    "perspective": "Nigerian businesses, rural service providers, public schools, clinics and wholesale telecom access buyers currently constrained by costly or missing backhaul connectivity.",
+    "structural_condition": "Nigeria's last-mile and wholesale backbone access remains constrained; the BRIDGE public-private open-access fibre initiative has multilateral financing approval but has not demonstrated nationwide commissioned service.",
+    "delta": "The World Bank Group's 11 October 2026 FY2026 private-capital mobilisation update specified an expected initial BRIDGE investor-selection round of at least US$156 million private equity and potential later mobilisation of up to US$1.1 billion by 2030. This advances financing visibility relative to the October 2025 approval but is not an equity close, commissioned fibre or observed user connectivity.",
+    "mechanism": "A majority privately owned open-access backbone could eventually lower wholesale connectivity barriers for multiple service providers, enabling digital services and productivity in underserved areas; execution depends on procurement, right-of-way, financing close, network operation and commercially viable last-mile access.",
+    "catalysts": [
+      "Publication of first-round investor selection and actual equity closing",
+      "Verified SPV formation, signed contracts and kilometres commissioned",
+      "Independent wholesale tariffs, reliability, access and uptake data"
+    ],
+    "invalidation": "Private equity selection fails or is delayed, rights-of-way and power costs prevent network delivery, open-access terms are noncompetitive, or measured connectivity fails to expand despite completed backbone.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "World Bank — FY2026 Nigeria private-capital mobilisation and BRIDGE progress",
+        "url": "https://www.worldbank.org/en/news/feature/2026/10/11/unlocking-5-79-billion-world-bank-group-private-capital-mobilization-nigeria",
+        "date": "2026-10-11"
+      },
+      {
+        "name": "World Bank — 2025 BRIDGE financing approval and design",
+        "url": "https://www.worldbank.org/en/news/press-release/2025/10/07/world-bank-approves-new-financing-to-enhance-nigeria-digital-infrastructure-and-health-security",
+        "date": "2025-10-07"
+      },
+      {
+        "name": "AfDB — BRIDGE fibre backbone financing approval",
+        "url": "https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-group-approves-200-million-nigerias-digital-value-chain-infrastructure-project-bridge-expand-fibre-backbone-92278",
+        "date": "2026-04-10"
+      }
+    ],
+    "status": "discovery_watch",
+    "notes": "This is a staged implementation/financing hypothesis, not proof of 90,000 km constructed, 58 million newly connected, $156m equity raised or $1.1bn private capital disbursed."
+  }
+}

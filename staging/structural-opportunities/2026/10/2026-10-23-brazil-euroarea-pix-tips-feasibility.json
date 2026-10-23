@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-23T07:59:01.120Z",
+  "candidate": {
+    "country": {
+      "code": "BRA",
+      "name": "Brazil"
+    },
+    "previous_state": "leverageable_efficiency",
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "Brazilian and euro-area payment service providers, merchants, exporters and remittance users seeking interoperable public instant-payment infrastructure across currencies.",
+    "structural_condition": "Pix is a functioning domestic instant-payment rail, but interoperability with Eurosystem TIPS is not operational and cross-currency legal, FX, compliance and settlement arrangements remain untested.",
+    "delta": "On 24 September 2026 the ECB Governing Council and Brazil's central bank formally began technical, operational, legal and business feasibility assessment of Pix–TIPS interlinking, after the Atlas's 23 September update. This is an institutional investigation, not a launched corridor.",
+    "mechanism": "If a feasible interlink proceeds to implementation, reuse of two existing central-bank settlement infrastructures could reduce intermediated cross-border payment friction and broaden the productive reach of Brazil's existing Pix rail; FX conversion, AML checks, settlement finality and PSP access can still prevent the projected benefit.",
+    "catalysts": [
+      "Publication of joint technical/legal feasibility findings",
+      "A formal implementation decision with defined corridor, FX and compliance arrangements",
+      "Pilot transaction results and independently measured transaction costs"
+    ],
+    "invalidation": "Feasibility study finds prohibitive legal or technical obstacles; no implementation authorization follows; or a future pilot fails to lower measured cross-border cost or delay.",
+    "confidence": "high",
+    "materiality": "medium",
+    "related_atlas_ids": [
+      "BRA-PIX-001"
+    ],
+    "evidence": [
+      {
+        "name": "ECB — feasibility assessment of Pix–TIPS interlinking",
+        "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews260924.de.html",
+        "date": "2026-09-24"
+      },
+      {
+        "name": "Banco Central do Brasil — início da fase de avaliação Pix–TIPS",
+        "url": "https://www.bcb.gov.br/detalhenoticia/21271/nota",
+        "date": "2026-09-24"
+      },
+      {
+        "name": "ECB — non-rate Governing Council decisions",
+        "url": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+        "date": "2026-10-02"
+      }
+    ],
+    "status": "discovery_watch",
+    "notes": "No pilot, operational interconnection, FX settlement, pricing reduction or private capital flows are claimed. Candidate concerns possible extension of an existing domestic leverageable efficiency, not a new canonical state."
+  }
+}
