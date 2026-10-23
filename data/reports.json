@@ -2,6 +2,126 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-GM-2026-10-23",
+    "slug": "2026-10-23-global-macro",
+    "date": "2026-10-23",
+    "published_at": "2026-10-23T00:49:01.196-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "capital-markets",
+      "currencies",
+      "inequality-distribution"
+    ],
+    "phenomena": [],
+    "format": "brief",
+    "cadence": "daily",
+    "producer_checks": {
+      "information_cutoff": "Early 23 Oct Brazil time; Japan Statistics Bureau Sept national CPI released 23 Oct JST; Eurostat Q2 debt and annual deficit released 21 Oct; Freddie Mac 22 Oct mortgage survey; NAR Sept pending contracts released 20 Oct; IMF October GFSR/WEO; BCB Sep Copom. No yet-to-publish 23 Oct European/US releases or closing prices.",
+      "editorial_novelty": "Cross-asset refinancing and inflation transmission focused on new 23 Oct Japanese CPI, 21 Oct EA21 debt structure and 22 Oct US mortgage survey; distinguish EA20 2025 calendar deficit from EA21 2026-Q2 quarterly debt. Unlike 22 Oct issue, not based on US jobless claims, petroleum stock draw or China sector GDP.",
+      "visual_signature": "3 independent quantitative charts, 3 evidence tables, one conditional causal-flow diagram and one qualitative geographical exposure map in each language.",
+      "source_check": "Nine URL-identical primary institutional sources across Japan Statistics Bureau, Eurostat, Freddie Mac, NAR, IMF and Brazilian Central Bank; contemporaneous release dates and financial/real stock-flow qualifications.",
+      "bilingual_parity": "Matching 3 numeric chart series, 9 sources, tables, rate arithmetic, mortgage annuity example and counterfactual discussion in both locales."
+    },
+    "url": "/reports/2026/10/2026-10-23-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-23T03:49:49.432Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "52ed4f36fc9de0a88d336b0bfbbcbfbdf520a356",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Japan's price rebound, euro-area debt and US mortgage costs expose divergent refinancing pressures",
+        "deck": "New Japanese September inflation shows 2.1% headline and 2.4% excluding fresh food and energy; euro-area quarterly debt reaches 88.8% of GDP and the US 30-year mortgage rate remains high at 7.32%.",
+        "tags": [
+          "global macro",
+          "Japan CPI",
+          "euro-area sovereign debt",
+          "US mortgages",
+          "interest rates",
+          "refinancing",
+          "Brazil monetary policy"
+        ],
+        "keywords": [
+          "23 October 2026",
+          "Japan September 2026 CPI 2025 base",
+          "Eurostat Q2 government gross debt 88.8",
+          "Freddie Mac 7.32 mortgage",
+          "pending home sales",
+          "IMF GFSR 2026",
+          "Brazil Selic 13.75"
+        ],
+        "regime": "Heterogeneous consumer-price persistence, sovereign refinancing risks and high household borrowing costs across major regions.",
+        "key_risk": "Funding costs and inflation expectations tighten household and fiscal room before any synchronized drop in measured GDP.",
+        "watch": [
+          "Japan inflation persistence, wages, yen hedging and Bank of Japan official decisions",
+          "EA21 country public-debt maturities and primary balances",
+          "US purchase mortgage applications and pending home sales",
+          "Cross-border sovereign term premiums and nonbank leverage",
+          "Brazil credit spreads, inflation expectations and effective borrowing costs"
+        ],
+        "search_text": "23 October 2026 global macro Japan CPI 2.1 core euro area debt 88.8 US mortgage 7.32 financial stability refinancing sovereign rates"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Macro Global — inflação no Japão, dívida na área do euro e financiamento imobiliário nos EUA revelam pressões diferentes de refinanciamento",
+        "deck": "Inflação japonesa de setembro chega a 2,1% no índice cheio e 2,4% sem alimentos frescos e energia; dívida trimestral da área do euro atinge 88,8% do PIB e hipoteca americana segue elevada em 7,32%.",
+        "tags": [
+          "macro global",
+          "inflação japonesa",
+          "dívida soberana europeia",
+          "hipotecas americanas",
+          "juros",
+          "refinanciamento",
+          "política monetária brasileira"
+        ],
+        "keywords": [
+          "23 outubro 2026",
+          "CPI Japão setembro 2026 base 2025",
+          "Eurostat dívida segundo trimestre 88,8",
+          "Freddie Mac hipoteca 7,32",
+          "vendas pendentes imóveis",
+          "relatório FMI estabilidade 2026",
+          "Selic 13,75"
+        ],
+        "regime": "Persistência inflacionária heterogênea, riscos de refinanciamento soberano e juros elevados para famílias em grandes regiões.",
+        "key_risk": "Custo de financiamento e expectativas inflacionárias estreitam margens das famílias e do orçamento público antes de queda sincronizada do PIB.",
+        "watch": [
+          "Inflação, salários, proteção cambial e decisões oficiais do Banco do Japão",
+          "Prazos da dívida EA21 e resultados primários nacionais",
+          "Pedidos hipotecários e contratos imobiliários americanos",
+          "Prêmios soberanos e alavancagem de intermediários financeiros não bancários",
+          "Spreads, expectativas e custo efetivo de crédito no Brasil"
+        ],
+        "search_text": "23 outubro 2026 macro global inflação Japão 2,1 dívida área euro 88,8 hipoteca EUA 7,32 estabilidade financeira refinanciamento"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GM-2026-10-22",
     "slug": "2026-10-22-global-macro",
     "date": "2026-10-22",
