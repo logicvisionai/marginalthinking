@@ -120,13 +120,13 @@ US continuing claims, payroll revisions, hours and job openings will test whethe
 
 ### Primary sources and methodology
 
-1. US Department of Labor, *Unemployment Insurance Weekly Claims*, 22 October 2026: https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20261613.pdf
+1. US Department of Labor, *Unemployment Insurance Weekly Claims*, 22 October 2026: https://www.dol.gov/ui/data.pdf?20261022=1
 2. US Bureau of Labor Statistics, *Employment Situation — September 2026*, released 2 October: https://www.bls.gov/news.release/empsit.nr0.htm
 3. National Bureau of Statistics of China, *Preliminary Accounting Results of GDP for the Third Quarter of 2026*, 21 October: https://www.stats.gov.cn/english/PressRelease/202610/t20261021_1965671.html
 4. Eurostat, *Euro area annual inflation up to 3.8%*, final September, 16 October: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap
 5. US EIA, *Weekly Stocks of Crude Oil and Petroleum Products*, week to 16 October, published 21 October: https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm
 6. US EIA, *Weekly Product Supplied*, week to 16 October, published 21 October: https://www.eia.gov/dnav/pet/pet_cons_wpsup_k_w.htm
-7. IBGE, *Indicadores conjunturais — IPCA e indústria*, September/August vintages: https://www.ibge.gov.br/indicadores/indicadores-conjunturais/pnad-c.html
+7. IBGE, *Indicadores conjunturais — IPCA e indústria*, September/August vintages: https://www.ibge.gov.br/indicadores
 8. IMF, *World Economic Outlook — Resilience Under Strain, Urgent Choices*, 13 October: https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026
 9. Federal Reserve, *Industrial Production and Capacity Utilization*, October release for September figures (context; not used to infer fresh 22 October output): https://www.federalreserve.gov/releases/g17/current/default.htm
 
