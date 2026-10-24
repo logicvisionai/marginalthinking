@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "id": "MT-FS-2026-10-24-AGRIFOOD",
+  "revision": 1,
+  "program": "technology-production-society",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T21:40:04.000Z",
+  "reviewed_commit": "9a4a6a39f901df6dee4bbed786741b8cc6937135",
+  "pending_blob_sha": "440619a9cdd104144339eb1ce6f614b2948b879a",
+  "source_blob_shas": {
+    "en": "c9950eab43c205b102793f6f0d7671de7158bd89",
+    "pt-BR": "b653093f9f1bf90373856cc68fd80c9fac88bf4a"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "strict_editorial_depth_visual_gate",
+      "location": "Both staged Markdown editions; sole `chart` fence after 'Brazilian tropical agriculture and the Embrapa transformation' / 'Agropecuária tropical brasileira e a transformação da Embrapa'; scripts/validate-editorial-depth.mjs (visual counts and minCharts).",
+      "issue": "The strict post-2026-10-12 editorial-depth gate requires at least two explicit quantitative `chart` blocks per locale for nonweekly research. Each edition contains exactly one. The report is not eligible for QA approval even though the base RESEARCH-VISUALS.md floor is satisfied.",
+      "evidence": [
+        "Exact validator expressions reproduced on reviewed blobs: EN 2485 substantive words, PT-BR 2361 (minimum 1700); 14 distinct source URLs per locale; 12 H2 headings; each has chart=1, flow=1, map=1, table lines=6; minCharts=2.",
+        "Existing single chart is FAOSTAT/OWID 2024 gross agricultural production values China 1400, India 478, US 360, Brazil 200, USD billions; identical EN/PT-BR numeric series. Original data: https://ourworldindata.org/grapher/agricultural-output-dollars"
+      ]
+    },
+    {
+      "type": "research_product_boundary",
+      "location": "Section 'Seven distinct meanings of being the largest producer', paragraph 3 / 'Sete significados distintos de ser o maior produtor', paragraph 3.",
+      "issue": "Both public research texts prescribe dashboard product functionality ('An analytical dashboard should allow the user to switch...' / 'Painel analítico deve permitir alternar...'). RESEARCH-PUBLISHING.md prohibits public research from describing product/tool roadmap or operational design. This passage must be converted to an evidence-led methodological finding about rankings and denominators without directing interface features.",
+      "evidence": [
+        "EN exact sentence: 'An analytical dashboard should allow the user to switch between production, export volumes, imports, dietary diversity, domestic food price and agroecological indicators.'",
+        "PT-BR exact sentence: 'Painel analítico deve permitir alternar produção, exportações, importações, diversidade alimentar, preços domésticos e indicadores ambientais.'",
+        "RESEARCH-PUBLISHING.md Stage 2: research/product separation is a blocking editorial-integrity test."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Add at least one further genuinely analytical, sourced and dimensionally compatible quantitative `chart` to each language edition (two or more per locale). A comparable time series of Brazilian crop production or a separate measured food-security series is appropriate only after verifying observations, units, periods and original sources; never fabricate or infer missing points. Preserve EN/PT-BR numeric parity.",
+    "Remove dashboard/product-functionality prescriptions from the public argument in both languages. Replace them with a concise methodological conclusion explaining why rankings of gross output, exports, edible nutrients and household affordability cannot be interchanged.",
+    "Rerun `MT_VALIDATE_ALL_PENDING=1 node scripts/validate-editorial-depth.mjs` and `MT_VALIDATE_ALL_PENDING=1 node scripts/validate-pipeline.mjs` on the corrected repository checkout; address material failures, and preserve the same canonical ID and slug with an incremented revision or changed Git blob SHAs.",
+    "Revalidate every new numerical observation against the primary source and check bilingual chart series and map/flow semantics before marking the new pending ready."
+  ],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "V2 ready=true, English source locale, controlled program, topics, phenomena, format, cadence and geography; no public bundle or approval for this ID."
+    },
+    "research_depth": {
+      "result": "passed",
+      "en_words": 2485,
+      "pt_br_words": 2361,
+      "required_words": 1700,
+      "en_h2": 12,
+      "pt_br_h2": 12,
+      "unique_urls_en": 14,
+      "unique_urls_pt": 14,
+      "summary": "Quantitative length, source count, sections and explicit scenario conditions satisfy the strict diagnostics."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitations",
+      "summary": "Primary-source spot checks support FAO SOFI 2026 hunger 645m, food insecurity 2.1bn and healthy diet affordability ~2.7bn; Conab 15 Sep 2026 grain estimate 361.7m tonnes, 83.5m hectares and 2.6% increase; FAOSTAT/OWID 2024 China/India/US/Brazil values; IBGE 2017 family-farm shares; USDA October WASDE and World Bank September update. Not an exhaustive verification of every narrative statement."
+    },
+    "counterfactual_review": {
+      "result": "passed_with_limitations",
+      "summary": "Three conditional paths to 2035, climate/trade and distributional counterarguments, plus observational indicators; no artificial probabilities. Additional evidence could sharpen the alternatives."
+    },
+    "translation_check": {
+      "result": "passed",
+      "summary": "Equivalent 12 analytic sections, same 2024 chart numeric values [1400,478,360,200], consistent key FAO, Conab and IBGE figures, and equivalent public-product intrusion."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "A public research paragraph prescribes dashboard functionality rather than analyzing a documented mechanism. Opening also uses administrative edition/cutoff line before the thesis; remove or relocate where appropriate."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Each locale has only one explicit chart against two required by the effective strict editorial-depth gate. One flow and one map exist and chart numeric parity passes; the base visual budget does not override the stricter editorial-depth gate."
+    },
+    "strict_editorial_depth": {
+      "result": "failed",
+      "summary": "The actual Node validator was inspected, and its exact regex/count expressions were reproduced on Git-reviewed staged blobs. Full Node scripts could not be run because there was no local repository checkout and network clone failed."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "summary": "scripts/validate-pipeline.mjs inspected, but full execution unavailable without a local repository checkout; approval withheld independently because of two substantive blockers."
+    }
+  },
+  "contrary_evidence": [
+    "Record 2025/26 Brazilian grain production is not direct evidence of household food access or of human-edible tonnage.",
+    "The 2017 family-farming shares are dated census measurements and do not describe the 2026 distribution.",
+    "Gross agricultural production values in constant prices are not value added, calorie availability or export market shares."
+  ],
+  "limitations": [
+    "Spot-checks confirmed selected primary numerical claims, not every historical/qualitative claim.",
+    "A second source-backed chart must be checked independently before a later approval.",
+    "Full Node validator and pipeline scripts were inspected but not run."
+  ],
+  "notes": "Independent QA: no approval, public report, public index, taxonomy, CSS or institutional content modified. This is the first rejection of this exact ID/revision/blob triple. Producer rework should retain the canonical ID and slug; do not bypass QA."
+}
