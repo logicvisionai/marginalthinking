@@ -21,7 +21,7 @@ Classificações por país variam se a pergunta envolve toneladas de cereais, pr
 
 Em 2024, a série indica aproximadamente **US$ 1,4 trilhão para China**, **US$ 478 bilhões para Índia**, **US$ 360 bilhões para Estados Unidos** e **US$ 200 bilhões para Brasil**, em dólares constantes de referência. São valores brutos de produção agropecuária, não valor adicionado do setor ao PIB, saldo comercial nem calorias comestíveis. Inserir União Europeia como país juntamente com membros produziria dupla contagem. O método de preços importa ao comparar cestas variadas. [1]
 
-Painel analítico deve permitir alternar produção, exportações, importações, diversidade alimentar, preços domésticos e indicadores ambientais. Todo ranking precisa declarar denominador e ano. 'Maior agronegócio do mundo' sem medida é publicidade, não pesquisa.
+Comparar produção, exportações, dependência de importações, diversidade alimentar, preços familiares e indicadores ambientais exige denominadores próprios e séries datadas. Todo ranking precisa declarar denominador e ano. 'Maior agronegócio do mundo' sem medida é publicidade, não pesquisa.
 
 ## Da domesticação à mecanização e agronomia moderna
 
@@ -128,6 +128,23 @@ Três trajetórias devem ser separadas. Na **produtividade sustentável**, pesqu
 Indicadores incluem produtividade por cultura e área, produto animal por ração, preço real da alimentação, fome, custo da dieta, uso da terra, balanço nutricional dos solos, pesquisa pública, perdas de armazenagem, salários rurais e proteção social. Variáveis financeiras são margens do produtor, crédito rural, seguro e importações de insumos. Ranking único de exportação não substitui painel.
 
 A conclusão é que segurança alimentar exige coordenação de ciência biológica, logística, comércio, instituições fundiárias e renda. Brasil pode continuar produtor mundial decisivo e manter desigualdade nutricional e restrições ambientais. O objetivo mundial não é tonelagem máxima a qualquer preço, mas oferta confiável, nutritiva e acessível dentro de recursos produtivos e direitos de longo prazo.
+
+## Por que maior tonelagem pode coexistir com desigualdade nutricional
+
+O SOFI 2026 estima **645 milhões de pessoas em situação de fome em 2025**, cerca de **2,1 bilhões com insegurança alimentar moderada ou grave** e aproximadamente **2,7 bilhões sem renda para dieta saudável**. Os grupos não são disjuntos. Fome estima insuficiência nutricional; insegurança registra dificuldades de acesso; acessibilidade relaciona dieta, recursos e preços. Somá-los contaria famílias mais de uma vez. Da mesma forma, os 361,7 milhões de toneladas de grãos estimados para 2025/26 no Brasil incluem ração, processamento de óleo, insumos industriais e exportações, não refeições prontas de alimentos básicos. [2][3][5]
+
+```chart
+type: bar
+title: Medidas mundiais distintas e sobrepostas da segurança alimentar em 2025, FAO SOFI 2026
+unit: milhões de pessoas; populações sobrepostas, não devem ser somadas
+Pessoas em situação de fome | 645
+Insegurança alimentar moderada ou grave | 2100
+Sem poder pagar por dieta saudável | 2700
+```
+
+O comércio adiciona complicação. Desvalorização cambial pode elevar receitas em reais de exportadores de soja e encarecer fertilizantes importados, comprimindo o orçamento alimentar de famílias de baixa renda. Perdas logísticas e armazenagem impedem que safra recorde se converta proporcionalmente em oferta varejista. Economia precisa de contas explícitas de produção, ração, exportação e preços familiares; agronomia precisa de observações de solo, água, doenças e rendimento. As disciplinas interagem, sem substituir uma à outra.
+
+O resultado metodológico é comparar países com denominador declarado: produção bruta a preços constantes, embarques exportados, nutrientes comestíveis, acessibilidade e sustentabilidade são dimensões diferentes. Especialização cria interdependência internacional mesmo quando autossuficiência é objetivo político. Resiliência requer ciência, comércio confiável, serviços rurais, renda adequada, dietas diversas e proteção ambiental — não um ranking por tonelagem.
 
 ### Fontes e limites de mensuração
 
