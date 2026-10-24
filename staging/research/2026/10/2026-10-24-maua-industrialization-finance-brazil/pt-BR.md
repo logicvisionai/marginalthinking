@@ -40,8 +40,8 @@ O experimento revela falha de coordenação. Um trecho isolado não transforma a
 
 ```chart
 type: bar
-title: Mandatos iniciados por década por Mauá segundo a Câmara
-unit: número de inícios de mandatos em cada década, contagens documentais equivalentes
+title: Início dos mandatos parlamentares de Mauá por década, Câmara dos Deputados
+unit: contagem de mandatos iniciados em cada década conforme registro histórico
 Década de 1850 | 2
 Década de 1860 | 2
 Década de 1870 | 1
@@ -76,6 +76,16 @@ A conclusão histórica é mais delimitada que uma absolvição ou uma lista inv
 Pesquisa de Talita Alves de Messias examina a atuação de Irineu como intermediário de **empréstimos secretos brasileiros ao Uruguai em 1850**, durante a Guerra Grande e a chamada *Diplomacia do Patacão*. Pelo confronto de registros diplomáticos e financeiros, a historiadora conclui que ele foi convidado a intermediar a política e que sua participação combinou acesso a informações geopolíticas privilegiadas e oportunidades comerciais nas quais decidiu investir. Não significa que o financista tenha formulado sozinho a política externa brasileira. [11]
 
 O episódio conecta elementos frequentemente separados nas biografias populares: Tesouro imperial, crédito privado e diplomacia militar regional. Para transferir recursos com discrição e credibilidade, autoridades políticas podiam recorrer a intermediários comerciais, que por sua vez obtinham informação sobre decisões futuras do Estado. O acesso gerava vantagem informacional efetiva sem equivaler a propriedade do governo. Também demonstra que a trajetória do industrial não pode ser reduzida a invenções nacionais isoladas nem à oposição simplista entre empresário moderno e administração imperial inteiramente homogênea. [11]
+
+## A atribuição do Arquivo Nacional e os vínculos com a economia escravista
+
+O verbete biográfico do **Arquivo Nacional** inclui o **tráfico negreiro** entre os ramos de atuação atribuídos a Mauá. Trata-se de informação relevante sobre sua trajetória pessoal, incompatível com a imagem de empresário alheio à escravidão. Entretanto, o texto sintético não identifica carregamento específico, contrato, pessoa negociada, data da transação ou lucro obtido. A atribuição arquivística não determina isoladamente escala, período nem modalidade de participação. Há diferença entre o registro institucional de uma atividade e a comprovação detalhada de operações individuais; reconhecer essa diferença não significa absolver o empresário nem atribuir valores sem documentos. [10]
+
+Crédito, transporte, fazendas e trabalho escravizado estavam interligados no Brasil oitocentista. As contribuições industriais e ferroviárias não apagavam a violência que sustentava parte da produção exportadora. Ao mesmo tempo, a inserção geral dos negociantes nas redes de tráfico não permite identificar automaticamente ações específicas de cada comerciante. A atribuição biográfica sobre Mauá e sua participação documentada na modernização devem aparecer juntas.
+
+## Crédito e diplomacia regional sigilosa em 1850
+
+A historiadora Talita Alves de Messias documenta a atuação de Mauá como intermediário de **empréstimos secretos brasileiros ao Uruguai em 1850**, durante a Guerra Grande. O estudo de registros diplomáticos mostra a combinação entre acesso à informação política e oportunidades comerciais na *Diplomacia do Patacão*. A intermediação conferia participação nas transferências e conhecimento relevante, sem transformar o empresário no formulador de toda a política externa brasileira. O episódio insere sua atuação no financiamento estatal e nas disputas geopolíticas regionais, não apenas na engenharia doméstica. [11]
 
 ## Escravidão, mercado de trabalho e contradição da modernização
 
@@ -163,9 +173,9 @@ O contrafactual é específico. Se a demanda por fretes era forte, mas depósito
 
 ```chart
 type: bar
-title: Intervalos entre marcos das instituições bancárias de Mauá
-unit: anos civis decorridos, arredondados; não são dias de operação ou receitas auditadas
-Banco do Brasil privado 1851–1853 | 2
+title: Intervalos civis entre marcos das sucessivas sociedades bancárias de Mauá
+unit: anos decorridos entre datas documentadas, não lucro ou dias operacionais
+Banco do Brasil 1851–1853 | 2
 Mauá MacGregor 1854–1866 | 12
 Banco Mauá 1866–1875 | 9
 ```
@@ -188,10 +198,12 @@ Desenvolvimento industrial num Império escravista também depende do que não a
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historicoo
 
 [9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
 
 [10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mau
+
+[11] Talita Alves de Messias, intermediação dos empréstimos Brasil–Uruguai de 1850, História Econômica & História de Empresas: https://www.hehe.org.br/index.php/rabphe/article/view/807
 
 [11] Talita Alves de Messias, Irineu Evangelista de Souza na Guerra Grande, História Econômica & História de Empresas (2021): https://www.hehe.org.br/index.php/rabphe/article/view/807a
