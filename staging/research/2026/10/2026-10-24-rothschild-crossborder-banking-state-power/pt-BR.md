@@ -56,7 +56,7 @@ Durante as guerras napoleônicas, os irmãos coordenaram transporte de metal e p
 
 Guerra cria demanda urgente de liquidez em locais específicos. Um país com capacidade tributária e crédito pode, ainda assim, enfrentar dificuldade para enviar ouro que possa ser usado pelo exército no exterior. Mercadores com agentes confiáveis e correspondentes locais preenchem essa lacuna, cobrando comissões ou margens. Suportam risco de interceptação, câmbio, pagamento soberano e instabilidade política.
 
-O juízo histórico compara remessas documentadas e contratos com alternativas de intermediação, não atribui sucesso militar a banqueiro. Intermediários podem ser importantes sem tomar decisões de batalha ou produzir a guerra. Pesquisa também deve distinguir posições especulativas em títulos de contratos de prestação de serviços ao governo, com contrapartes e lucros distintos.
+O juízo histórico compara remessas documentadas e contratos com alternativas de intermediação, não atribui sucesso militar a banqueiro. Intermediários podem ser importantes sem tomar decisões de batalha ou produzir a guerra. Posições especulativas em títulos e contratos de serviços governamentais envolviam contrapartes e fontes de receita diferentes.
 
 ## Waterloo 1815: documentos, rumores e falseamento
 
@@ -86,7 +86,7 @@ Durante o século XIX, casas Rothschild passaram a financiar ferrovias, mineraç
 
 Ferrovias criam externalidades: conectar duas regiões industriais aumenta valor de trechos complementares. Isso incentiva participação estatal e complica cálculo de custo-benefício. Bancos internacionais forneciam acesso a poupadores distantes, mas não construíam pessoalmente cada via nem comandavam toda estação. Engenheiros, governos, construtores e financiadores locais tinham agência própria.
 
-Pesquisa financeira deve separar papel de credor e acionista, dividendos, garantias, cláusulas e condições de refinanciamento por projeto. Expectativas de progresso industrial podem sustentar obras caras de retorno privado insuficiente. A possibilidade importa ao avaliar legado de famílias conhecidas por financiar infraestrutura.
+Condição de credor ou acionista, dividendos, garantias, cláusulas e refinanciamento variavam entre empreendimentos. Expectativas de progresso industrial podem sustentar obras caras de retorno privado insuficiente. A possibilidade importa ao avaliar legado de famílias conhecidas por financiar infraestrutura.
 
 ## Suez 1875: operação documentada e política imperial
 
@@ -94,7 +94,7 @@ Em **1875**, a N M Rothschild & Sons adiantou **£ 4 milhões** ao governo brit�
 
 O pagamento não tornou a família proprietária de todo o canal nem transferiu soberania da hidrovia ao banco. A França permaneceu importante acionista; a crise fiscal egípcia motivou a venda; a política britânica buscava influência marítima estratégica. O debate parlamentar sobre a forma da compra é questão constitucional separada das condições do crédito-ponte.
 
-O episódio também envolve poder colonial. Controle estratégico de rota alterava comércio e projeção imperial; afetava soberania egípcia e política posterior. Avaliação crítica precisa separar lucro do credor, restituição, fiscalização fiscal e população atingida. A capacidade bancária facilitou ação cujos objetivos geopolíticos foram formulados pelo governo, não somente pelo financiador.
+O episódio também envolve poder colonial. Controle estratégico de rota alterava comércio e projeção imperial; afetava soberania egípcia e política posterior. Lucro do credor, restituição, encargos fiscais e efeitos sobre a população egípcia constituíam consequências distintas. A capacidade bancária facilitou ação cujos objetivos geopolíticos foram formulados pelo governo, não somente pelo financiador.
 
 ```map
 title: Distribuição espacial documentada da atuação
@@ -152,7 +152,7 @@ A contribuição verificável dos Rothschild foi ampliar redes de crédito e ope
 
 Três interpretações podem ser testadas. A tecnológica destaca eficiência das redes de informação e financiamento. A economia política examina a vantagem de barganha de credores privados quando governos precisam urgentemente de recursos e eleitores fiscalizam pouco. A crítica documental identifica a ampliação sem fundamento de contratos particulares em lendas de controle absoluto, frequentemente associadas a preconceito religioso. História completa incorpora as três, com padrões distintos de prova.
 
-Pesquisa comparativa deve usar prospectos de títulos, acordos societários, arquivos de tesourarias, condições dos empréstimos, direitos de voto e resultados econômicos. Nem admiração pela inovação financeira nem condenação moral substituem registros. A importância histórica da família é elevada e só pode ser compreendida rejeitando tanto hagiografia quanto conspirações antissemitas.
+Prospectos de títulos, acordos societários, arquivos de tesourarias, termos de empréstimos e direitos de voto identificam as relações financeiras efetivas. Nem admiração pela inovação financeira nem condenação moral substituem registros. A importância histórica da família é elevada e só pode ser compreendida rejeitando tanto hagiografia quanto conspirações antissemitas.
 
 ## Localização dos sócios, direitos contratuais e financiamento de Suez
 
