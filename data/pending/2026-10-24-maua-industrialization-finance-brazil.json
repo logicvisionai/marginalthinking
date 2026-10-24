@@ -100,14 +100,14 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 3,
+  "revision": 4,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
-    "editorial_novelty": "Full substantive revision of banking chronology, financial failure and credit exposure, parliamentary records, industrial geography and slavery-era development mechanisms.",
-    "visual_signature": "Two sourced quantitative charts, historical chronology, causal flow and qualitative map, matched across languages.",
-    "source_check": "Ten traceable historical and archival sources, with explicit contrasting official, self-interested and scholarly accounts.",
-    "bilingual_parity": "Substantial English and Brazilian Portuguese analytical chapters matched; two existing numeric visual series and citations retained.",
+    "editorial_novelty": "Complete banking and industrial revision, slavery association reported by the National Archives but transaction-level proof separated, and 1850 diplomatic loan intermediation documented.",
+    "visual_signature": "Two compatible quantitative bar charts: count of parliamentary mandates begun by decade, and elapsed durations of distinct banking legal phases; consistent observation status and separate contextual historical facts in a table.",
+    "source_check": "11 aligned references incl. corrected DNIT and National Archives official URLs, Chamber of Deputies political mandates, peer-reviewed 1850 Uruguay intermediary study.",
+    "bilingual_parity": "EN/PT paired chapter, chart values and all URLs identical; removed administrative opening lines.",
     "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
   }
 }
