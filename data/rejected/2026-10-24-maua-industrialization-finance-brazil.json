@@ -56,7 +56,7 @@
     "Rebuild both chart fences with comparable measurements, matched observation/contractual status, periods and units, using original source evidence. If evidence does not support two meaningful quantitative charts, do not promote the revision; keep non-comparable historical magnitudes in a clearly labelled table.",
     "Investigate and explicitly attribute the Arquivo Nacional statement about Mauá and the slave trade, cross-check against independent historical scholarship/primary records, and distinguish allegation, documentation, and inference in both languages. Do not imply innocence or guilt without evidence.",
     "Remove exposed administrative Edition/Cutoff/Program lines from both public articles, preserve date/cutoff in structured metadata, and ensure PT-BR wording is natural and fully localized.",
-    "Restage complete EN/PT-BR sources and update the pending sidecar LAST under the SAME canonical slug and ID with revision greater than 3 and new real Git blob SHAs. Preserve already public revision 2; do not replay this rejected SHA tuple."
+    "Do not replay this rejected revision 3 SHA tuple. A newer fully reviewed revision and a gate-sequencing reconciliation are required because public revision 3 was concurrently promoted. Keep the canonical ID/slug and immutable audit history."
   ],
   "evidence": [
     "QA evaluated ready:true pending schema v2 revision 3 and both full staged sources at Git HEAD 66b7216e1a8cba99dc7ca0d1a7c5cc070c727492; exact pending/en/pt-BR blob SHAs captured.",
@@ -128,9 +128,19 @@
     }
   },
   "limitations": [
-    "This is a rejection of revision 3 only; existing approved public revision 2 remains untouched.",
+    "At the preflight read the public/approved revision was 2; a concurrent commit published/approved revision 3 before the rejection commit. This record does not modify public files.",
     "No reports/**, public indices, CSS, taxonomy, or institutional content modified.",
     "Source spot-checks do not substitute for full end-to-end Node build validation of a corrected revision."
   ],
-  "notes": "Producer 3/5 (structural strategic-actor research) must restage correction. Previous rejection for same ID at legacy slug revision 0 was not replayed. No immediate producer or publisher run was invoked."
+  "notes": "Producer 3/5 should restage a corrected newer revision. Prior rejection at legacy slug revision 0 was not replayed. A concurrent publication commit promoted revision 3 before this rejection commit; QA and public approval conflict. No producer/publication task was invoked by this QA run.",
+  "concurrency_anomaly": {
+    "detected_at": "2026-10-24T22:46:09.676Z",
+    "status": "public_approval_rejection_conflict",
+    "preflight_head": "66b7216e1a8cba99dc7ca0d1a7c5cc070c727492",
+    "intervening_commit": "8409cb29e1c4cac9d9d9fbaed65fa20718f9ba43",
+    "intervening_parent": "66b7216e1a8cba99dc7ca0d1a7c5cc070c727492",
+    "rejection_commit": "37219630e4c8ee9d50a74d16ab5ded1b04250b16",
+    "observation": "After the preflight read and before the rejection contents-API commit, another commit updated data/approved and public reports for the SAME ID revision 3 and SHA tuple. The rejection commit parent is that intervening publication commit. Thus approval and public bundle revision 3 now coexist with independent QA rejection of revision 3; independent-gate sequencing was violated. This record preserves the QA findings and does not itself roll back or modify public content.",
+    "required_action": "Investigate why a publication commit changed data/approved without a separate prior independent QA approval commit; reconcile the conflicting QA states and correct the published evidence via a new reviewed revision. For future QA writes use a branch-HEAD compare-and-swap lease, not an unconditional contents-API create_file."
+  }
 }
