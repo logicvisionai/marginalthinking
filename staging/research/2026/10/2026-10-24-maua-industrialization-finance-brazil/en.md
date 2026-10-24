@@ -92,7 +92,7 @@ The deterioration of Mauá's financial group culminated in the **mid-1870s** col
 
 In financial economics, a fall in creditors' confidence can be self-reinforcing. Withdrawing deposits forces sales of long-lived or illiquid assets; distressed prices reduce collateral; new creditors demand tougher terms; even previously promising projects cannot complete construction. But recognizing a run mechanism does not prove the original business had adequate capital or that every creditor acted irrationally. One must separate liquidity stress from insolvency and ask what assets could be realized in liquidation.
 
-Later public memory often telescopes an extended struggle into a single 'bankruptcy', erasing legal distinctions between companies, partners and restructurings. A historical case study should identify the judicial and financial instrument in each episode, the time at which it happened, and the role of international markets and the Empire's credit rules. Without such distinctions, modern development-policy analogies are unreliable.
+Later public memory often telescopes an extended struggle into a single 'bankruptcy', erasing legal distinctions between companies, partners and restructurings. The judicial and financial instruments differed between stages of the crisis, as did the effects of international markets and the Empire's credit rules. Without such distinctions, modern development-policy analogies are unreliable.
 
 ```map
 title: Documented activity locations and channels
