@@ -653,14 +653,14 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 2,
+    "revision": 4,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
-      "editorial_novelty": "A monetary and institutional reconstruction of the Medici banking network, Florence's wool and silk economy, papal contracting, patronage, political power and 1494 collapse.",
-      "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
-      "source_check": "7 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
-      "bilingual_parity": "9 paired chapters, source URLs and chart values identical.",
+      "editorial_novelty": "Expanded multi-generational history of Giovanni, Cosimo, Lorenzo and later duchy, political and papal offices; English and Burgundian loan risk and Portinari's dual roles.",
+      "visual_signature": "Two dated comparable series: elapsed years of business life-cycle phases; and distinct Papal Chamber financial contracts, not continuous governance.",
+      "source_check": "Cross-checked twelve indexed references with valid historical Met portraits URL and de Roover's banking history; dissolved partnerships distinguished from subsequent ducal regime.",
+      "bilingual_parity": "Two numeric chart series and archival URL list match EN/PT-BR; no administrative frontmatter.",
       "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
     },
     "url": "/reports/2026/10/2026-10-24-medici-bank-renaissance-power.html",
@@ -729,9 +729,9 @@
       }
     },
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-24T22:08:31.091Z",
+    "qa_reviewed_at": "2026-10-24T23:27:07.047Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984"
+    "qa_reviewed_commit": "a3fd8b76a60e1a0c32399d0ec5207db6e17b2858"
   },
   {
     "schema_version": 2,

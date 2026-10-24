@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-SA-2026-10-24-MEDICI",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-24T22:08:31.091Z",
-  "reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984",
-  "pending_blob_sha": "3cf4a55dbe3db7d6c59b149c574123603dab9c81",
+  "reviewed_at": "2026-10-24T23:27:07.047Z",
+  "reviewed_commit": "a3fd8b76a60e1a0c32399d0ec5207db6e17b2858",
+  "pending_blob_sha": "cbf3d2dc8926ca27dadd030b10eb4432d64c3775",
   "source_blob_shas": {
-    "en": "6c7b1f7fc9c61ecdbd12e51b55f73b9dd7725ee7",
-    "pt-BR": "1be416d5cae8b8c6b32b220c369639685bc6ccd3"
+    "en": "48dff31c662e0d29661da0f0e20b49cc36d5db6a",
+    "pt-BR": "35a3358a84ba2628ca1dcf41a56dcdc206b4d688"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -15,11 +15,11 @@
   "checks": {
     "factual_methodology": {
       "result": "passed",
-      "summary": "Cross-referenced dated family archive, scholarly institutional history, and government/court documentary sources; authority distinguished from ownership and contracts."
+      "summary": "Oxford, Cambridge, Renaissance art institutions and historical economic scholarship verify defined legal regimes and periods."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Independent financial biography on bank partnerships, state contracts, credit and political leverage, with limitations on financial totals and conspiratorial claims."
+      "summary": "Individual dynasty chapters, financial practices, risks, politics, patronage, institutional succession and social distribution developed instead of formulaic meta-prose."
     },
     "visual_evidence_readiness": {
       "result": "passed",
@@ -28,16 +28,15 @@
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 2142,
-        "pt": 2059,
-        "urls_en": 8,
-        "urls_pt": 8
-      },
-      "summary": "11 analytic chapters, 8 linked references over 6 domain names."
+        "en": 3311,
+        "pt": 3193,
+        "urls_en": 11,
+        "urls_pt": 11
+      }
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "Cross-locale source URLs identical and linked numerals in prose; ownership or power claims limited to documented mandates."
+      "summary": "Research citations verified, encyclopedia link corrected; equivalent source and numeric chart values in both languages."
     },
     "counterfactual_review": {
       "result": "passed",
@@ -49,7 +48,7 @@
     "Surviving accounting ledgers do not establish a modern consolidated net worth",
     "Contractual access does not prove unlimited political control"
   ],
-  "notes": "Approved revision 2 from Git stage blobs, distinct from completed build or external deploy.",
+  "notes": "Substantive historical rewrite and source correction, including Giovanni, Cosimo, Lorenzo, Portinari, banking governance, papal finance, artistic patronage and distinct later dynasty; removes generic editorial afterword.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -156,14 +155,14 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 2,
+    "revision": 4,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
-      "editorial_novelty": "A monetary and institutional reconstruction of the Medici banking network, Florence's wool and silk economy, papal contracting, patronage, political power and 1494 collapse.",
-      "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
-      "source_check": "7 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
-      "bilingual_parity": "9 paired chapters, source URLs and chart values identical.",
+      "editorial_novelty": "Expanded multi-generational history of Giovanni, Cosimo, Lorenzo and later duchy, political and papal offices; English and Burgundian loan risk and Portinari's dual roles.",
+      "visual_signature": "Two dated comparable series: elapsed years of business life-cycle phases; and distinct Papal Chamber financial contracts, not continuous governance.",
+      "source_check": "Cross-checked twelve indexed references with valid historical Met portraits URL and de Roover's banking history; dissolved partnerships distinguished from subsequent ducal regime.",
+      "bilingual_parity": "Two numeric chart series and archival URL list match EN/PT-BR; no administrative frontmatter.",
       "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
     }
   }
