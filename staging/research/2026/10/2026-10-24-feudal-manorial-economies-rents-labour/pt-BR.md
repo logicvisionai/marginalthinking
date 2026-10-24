@@ -151,6 +151,22 @@ Desenho empírico válido compilariam-se colheitas, status, pagamentos, jornadas
 
 A lição não é romance de senhores protetores nem taxa numérica universal de exploração. Poder econômico depende de quem impõe trabalho, quais ativos a família controla e onde encontra renda alternativa. O dossiê senhorial complementa — sem duplicar — a história ampla do comércio, da moeda e da produção urbana medieval.
 
+## Renda monetária fixa e preços do grão: contrafactual explícito
+
+Renda fixa em dinheiro pode exigir venda de mais grão pelo camponês quando o preço da colheita cai. Suponha, como *ilustração numérica hipotética*, uma família que deve 25 moedas e vende cada unidade de grão por uma moeda. Precisa vender 25 unidades. Se o preço cai a meia moeda por unidade, deverá vender 50 para cumprir obrigação jurídica idêntica. O encargo real duplica apesar da renda nominal constante. Não é série observada de propriedade medieval nem prova de que todo senhorio converteu corveia em dinheiro. [3][4]
+
+```chart
+type: bar
+title: Grão hipotético necessário para pagar renda fixa de 25 moedas a preços diferentes
+unit: unidades vendidas; preços de 1,0 e 0,5 moeda por unidade são suposições do modelo
+Uma moeda por unidade | 25
+Meia moeda por unidade | 50
+```
+
+Arquivos Nacionais britânicos preservam documentação de tribunais, rendas e direitos comuns, permitindo reconstituir cobranças locais sem presumir 'contrato feudal' único e universal. A World History Encyclopedia distingue relação senhores-vassalos da organização manorial com arrendatários livres e não livres. É distinção decisiva ao determinar alcance jurídico das rendas e serviços. [10][11]
+
+O teste empírico cruza rendas monetárias, jornadas e preços de grãos numa jurisdição antes e depois da mudança demográfica. Salários maiores após a Peste Negra podiam melhorar barganha onde havia mobilidade exigível, enquanto restrições impediam a resposta em outros lugares. O mecanismo envolve escassez de fatores, contratos e poder institucional, não evolução inevitável de feudalismo a mercado.
+
 ### Bibliografia e delimitação metodológica
 
 [1] Cambridge, Lordship and Locality: Bloch versus Ganshof and institutional definitions: https://www.cambridge.org/core/books/abs/lordship-and-locality-in-the-long-twelfth-century/introduction/ADA8392C2FB857C0F08788EFFFD04A74
@@ -170,5 +186,9 @@ A lição não é romance de senhores protetores nem taxa numérica universal de
 [8] Cambridge, Shocking Contrasts and loss of labour: https://www.cambridge.org/core/books/shocking-contrasts/exogenous-loss-of-labor/EAEF2D934D4D01138B978E66801C098A
 
 [9] Cambridge, Commerce and Communications in Medieval Europe: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
+
+[10] UK National Archives, primary manorial court and tenancy records: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
+
+[11] World History Encyclopedia, Feudalism: distinction and disputed concept: https://www.worldhistory.org/Feudalism/
 
 **Limite:** Gráfico de 100 unidades é hipótese didática, não levantamento medieval. Feudo militar, senhorio agrário e servidão pessoal são categorias diferentes. Resultados demográficos precisam de data e região.
