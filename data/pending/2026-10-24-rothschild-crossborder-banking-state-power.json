@@ -104,13 +104,13 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
     "editorial_novelty": "An archival history of Jewish emancipation constraints, Mayer Amschel and the five branches, wartime remittances, bonds, railways, Suez, succession and legends.",
-    "visual_signature": "Dated comparative chronology, one quantitative duration/network chart, causal flow and qualified geography map in each language.",
-    "source_check": "11 matched archive, academic and government links with documentary and interpretive limits.",
+    "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
+    "source_check": "11 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
     "bilingual_parity": "10 paired chapters, source URLs and chart values identical.",
     "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
   }
