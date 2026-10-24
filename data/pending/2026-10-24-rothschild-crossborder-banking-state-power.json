@@ -104,14 +104,14 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
-    "editorial_novelty": "An archival history of Jewish emancipation constraints, Mayer Amschel and the five branches, wartime remittances, bonds, railways, Suez, succession and legends.",
+    "editorial_novelty": "Deepened financial biography of original partners and successors, imperial Brazilian loan issues of 1824, 1825 and 1829, railway financing from 1858, Napoleonic gold remittances and Suez political distinction.",
     "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
-    "source_check": "11 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
-    "bilingual_parity": "10 paired chapters, source URLs and chart values identical.",
+    "source_check": "Fourteen archival, state, academic and historical sources; sovereign credit, first issue and follow-on debt financing distinguished.",
+    "bilingual_parity": "Full parallel PT-BR and EN multigenerational financial mechanisms with source and numeric chart parity.",
     "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
   }
 }
