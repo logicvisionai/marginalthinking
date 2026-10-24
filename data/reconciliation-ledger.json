@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-24T22:13:16.523Z",
+  "last_reconciled_at": "2026-10-24T22:14:07.020Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6867,6 +6867,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Agronomy methods are historical and established, not newly dated signal entry."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-medieval-feudal-reconciliation",
+      "reconciled_at": "2026-10-24T22:14:07.020Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-10-24-MEDIEVAL",
+        "MT-PE-2026-10-24-FEUDAL"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Historical geography of medieval trade is explanatory; not a new present-day directed dependency record."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Hypothetical manor surplus and rent incidence are historical models rather than a location-bound current intervention."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Rural lordship and guild relations do not supply a new named contemporary entity."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Historic manorial tenure and commons are not new present dated resource-control assets."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Wage controls, rent commutation and medieval markets are historical mechanisms, not an instrument-specific assessed modern policy."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No current conflict event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Watermills and medieval technology are historical, not a new signal."
         }
       ]
     }
