@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-24T18:27:40.585Z",
+  "last_reconciled_at": "2026-10-24T22:12:29.237Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6775,6 +6775,52 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Frontier AI gains and deployment are covered by Stanford/issuer sources but no new distinct dated technical milestone suitable for the controlled technology-signal ledger is established by this analytical synthesis."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-history-actors-part1-reconciliation",
+      "reconciled_at": "2026-10-24T22:12:29.237Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-10-24-MAUA",
+        "MT-SA-2026-10-24-ROCKEFELLER",
+        "MT-SA-2026-10-24-MEDICI"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Historical capital and industrial networks studied, but no present dated directed exposure record suitable for a canonical dependency graph."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Biographies evaluate historical institutions, not a currently bounded investment opportunity intervention."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Maua Rockefeller Medici are documented historical actors; legacy schema does not admit direct historical family/person records with dated mandates and ownership chains."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Historical oil and industrial rights do not constitute new measured present physical resource-control record."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Past judicial and industrial decisions are history not one current evaluated intervention."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No new contemporary conflict incidents to register."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No new deployed contemporary technical milestones."
         }
       ]
     }

@@ -2,6 +2,368 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-SA-2026-10-24-MEDICI",
+    "slug": "2026-10-24-medici-bank-renaissance-power",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "institutions-governance",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
+      "editorial_novelty": "A monetary and institutional reconstruction of the Medici banking network, Florence's wool and silk economy, papal contracting, patronage, political power and 1494 collapse.",
+      "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
+      "source_check": "7 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
+      "bilingual_parity": "9 paired chapters, source URLs and chart values identical.",
+      "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
+    },
+    "url": "/reports/2026/10/2026-10-24-medici-bank-renaissance-power.html",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "The Medici: banking partnerships, papal finance, Renaissance politics and the limits of private capital",
+        "deck": "A monetary and institutional reconstruction of the Medici banking network, Florence's wool and silk economy, papal contracting, patronage, political power and 1494 collapse.",
+        "tags": [
+          "Família Medici",
+          "financial history",
+          "political power",
+          "banking"
+        ],
+        "keywords": [
+          "Medici bank",
+          "Giovanni di Bicci",
+          "1397",
+          "1420 papal depositary",
+          "Cosimo",
+          "Lorenzo",
+          "1494",
+          "Florence",
+          "credit",
+          "Renaissance"
+        ],
+        "regime": "Cross-border private finance and contested public and political authority.",
+        "key_risk": "Mistaking banking access and family historical prominence for all-encompassing political or monetary sovereignty.",
+        "watch": [
+          "Archival contract records",
+          "Revisions to institutional history",
+          "Legal ownership and counterparty rights"
+        ],
+        "search_text": "The Medici: banking partnerships, papal finance, Renaissance politics and the limits of private capital Medici bank Giovanni di Bicci 1397 1420 papal depositary Cosimo Lorenzo 1494 Florence credit Renaissance"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Os Medici: sociedades bancárias, finanças papais, política renascentista e limites do capital privado",
+        "deck": "Reconstrução monetária e institucional da rede Medici, economia têxtil de Florença, finanças papais, mecenato, poder político e crise de 1494.",
+        "tags": [
+          "Família Medici",
+          "história financeira",
+          "poder político",
+          "bancos"
+        ],
+        "keywords": [
+          "Medici bank",
+          "Giovanni di Bicci",
+          "1397",
+          "1420 papal depositary",
+          "Cosimo",
+          "Lorenzo",
+          "1494",
+          "Florence",
+          "credit",
+          "Renaissance"
+        ],
+        "regime": "Financiamento privado transfronteiriço e autoridade pública e política contestada.",
+        "key_risk": "Confundir acesso bancário e prestígio histórico de famílias com soberania monetária ou política ilimitada.",
+        "watch": [
+          "Contratos em arquivos",
+          "Revisões da historiografia",
+          "Direitos jurídicos de propriedade e das contrapartes"
+        ],
+        "search_text": "Os Medici: sociedades bancárias, finanças papais, política renascentista e limites do capital privado Medici bank Giovanni di Bicci 1397 1420 papal depositary Cosimo Lorenzo 1494 Florence credit Renaissance"
+      }
+    },
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-24T22:08:31.091Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984"
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-ROCKEFELLER",
+    "slug": "2026-10-24-rockefeller-oil-monopoly-philanthropy",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "industry-production",
+      "institutions-governance",
+      "trade-investment",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
+      "editorial_novelty": "How Rockefeller wealth emerged from refining, freight logistics and corporate trusts, how antitrust changed the industry, and how the family constructed lasting civic institutions.",
+      "visual_signature": "Two dated quantitative evidence charts, chronology table, causal flow and map in each language.",
+      "source_check": "8 parallel source URLs; governmental, archival and academic research; historical nominal quantities kept separate. 3 independently verified additions; bibliography and numeric visual parity updated.",
+      "bilingual_parity": "10 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
+      "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
+    },
+    "url": "/reports/2026/10/2026-10-24-rockefeller-oil-monopoly-philanthropy.html",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "The Rockefellers: Standard Oil, industrial concentration and the institutions of dynastic philanthropy",
+        "deck": "How Rockefeller wealth emerged from refining, freight logistics and corporate trusts, how antitrust changed the industry, and how the family constructed lasting civic institutions.",
+        "tags": [
+          "Família Rockefeller",
+          "historical political economy",
+          "capital networks",
+          "institutions"
+        ],
+        "keywords": [
+          "Rockefeller",
+          "Standard Oil",
+          "1870",
+          "1882",
+          "1911",
+          "Sherman Act",
+          "Ida Tarbell",
+          "Rockefeller Foundation",
+          "industrial concentration",
+          "philanthropy"
+        ],
+        "regime": "Capital formation, market structure and institutional accountability are examined within the historical context.",
+        "key_risk": "Equating historical organization size or private grant finance with verified causal control or social welfare outcomes.",
+        "watch": [
+          "Ownership and contract archives",
+          "Independent scholarship and historiographic revisions",
+          "Comparable measurements of financial exposure and public welfare"
+        ],
+        "search_text": "The Rockefellers: Standard Oil, industrial concentration and the institutions of dynastic philanthropy Rockefeller Standard Oil 1870 1882 1911 Sherman Act Ida Tarbell Rockefeller Foundation industrial concentration philanthropy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Os Rockefeller: Standard Oil, concentração industrial e instituições da filantropia dinástica",
+        "deck": "Como a fortuna Rockefeller nasceu do refino, logística ferroviária e trusts, como o antitruste remodelou o setor e como a família criou instituições civis duradouras.",
+        "tags": [
+          "Família Rockefeller",
+          "história econômica",
+          "redes de capital",
+          "instituições"
+        ],
+        "keywords": [
+          "Rockefeller",
+          "Standard Oil",
+          "1870",
+          "1882",
+          "1911",
+          "Sherman Act",
+          "Ida Tarbell",
+          "Rockefeller Foundation",
+          "industrial concentration",
+          "philanthropy"
+        ],
+        "regime": "Formação de capital, estrutura de mercado e responsabilidade institucional examinadas no contexto histórico.",
+        "key_risk": "Confundir tamanho de organizações e doações privadas com controle causal comprovado de resultados sociais.",
+        "watch": [
+          "Arquivos de propriedade e contratos",
+          "Revisões historiográficas independentes",
+          "Medições comparáveis de financiamento e bem-estar"
+        ],
+        "search_text": "Os Rockefeller: Standard Oil, concentração industrial e instituições da filantropia dinástica Rockefeller Standard Oil 1870 1882 1911 Sherman Act Ida Tarbell Rockefeller Foundation industrial concentration philanthropy"
+      }
+    },
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-24T22:07:46.105Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "8f879f3b386705405e082c4d0afcc3c65a9e34cc"
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-MAUA",
+    "slug": "2026-10-24-maua-industrialization-finance-brazil",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "industry-production",
+      "institutions-governance",
+      "trade-investment",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
+      "editorial_novelty": "Political-economic biography of Mauá: trade and finance, shipbuilding, railways, gas, telegraph, banking, state guarantees, slavery, banking failure and development alternatives.",
+      "visual_signature": "Two sourced quantitative charts, historical chronology, causal flow and qualitative map, matched across languages.",
+      "source_check": "8 matched documentary URLs; DNIT 72 ships/11 years and ministry 12 locomotive contract independently differentiated",
+      "bilingual_parity": "9 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
+      "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
+    },
+    "url": "/reports/2026/10/2026-10-24-maua-industrialization-finance-brazil.html",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Mauá: industrial capitalism against the constraints of Brazil's slaveholding empire",
+        "deck": "Political-economic biography of Mauá: trade and finance, shipbuilding, railways, gas, telegraph, banking, state guarantees, slavery, banking failure and development alternatives.",
+        "tags": [
+          "Irineu Evangelista de Sousa (Barão de Mauá)",
+          "historical political economy",
+          "capital networks",
+          "institutions"
+        ],
+        "keywords": [
+          "Mauá",
+          "Irineu Evangelista de Sousa",
+          "Brazil industrialization",
+          "Empire banking",
+          "Ponta da Areia",
+          "railways 1854",
+          "Bank Mauá collapse",
+          "slavery and development"
+        ],
+        "regime": "Capital formation, market structure and institutional accountability are examined within the historical context.",
+        "key_risk": "Equating historical organization size or private grant finance with verified causal control or social welfare outcomes.",
+        "watch": [
+          "Ownership and contract archives",
+          "Independent scholarship and historiographic revisions",
+          "Comparable measurements of financial exposure and public welfare"
+        ],
+        "search_text": "Mauá: industrial capitalism against the constraints of Brazil's slaveholding empire Mauá Irineu Evangelista de Sousa Brazil industrialization Empire banking Ponta da Areia railways 1854 Bank Mauá collapse slavery and development"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Barão de Mauá: capitalismo industrial e os limites do Império escravista brasileiro",
+        "deck": "Biografia econômica de Mauá: comércio e finanças, estaleiros, ferrovias, iluminação, telégrafo, bancos, concessões, escravidão, crise financeira e alternativas de desenvolvimento.",
+        "tags": [
+          "Irineu Evangelista de Sousa (Barão de Mauá)",
+          "história econômica",
+          "redes de capital",
+          "instituições"
+        ],
+        "keywords": [
+          "Mauá",
+          "Irineu Evangelista de Sousa",
+          "Brazil industrialization",
+          "Empire banking",
+          "Ponta da Areia",
+          "railways 1854",
+          "Bank Mauá collapse",
+          "slavery and development"
+        ],
+        "regime": "Formação de capital, estrutura de mercado e responsabilidade institucional examinadas no contexto histórico.",
+        "key_risk": "Confundir tamanho de organizações e doações privadas com controle causal comprovado de resultados sociais.",
+        "watch": [
+          "Arquivos de propriedade e contratos",
+          "Revisões historiográficas independentes",
+          "Medições comparáveis de financiamento e bem-estar"
+        ],
+        "search_text": "Barão de Mauá: capitalismo industrial e os limites do Império escravista brasileiro Mauá Irineu Evangelista de Sousa Brazil industrialization Empire banking Ponta da Areia railways 1854 Bank Mauá collapse slavery and development"
+      }
+    },
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-24T22:07:46.103Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "8f879f3b386705405e082c4d0afcc3c65a9e34cc"
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-IA-2026-10-24-AI-CAPITAL-CYCLE",
     "slug": "2026-10-24-ai-capital-cycle-debt-technical-debt",
     "date": "2026-10-24",
