@@ -102,6 +102,38 @@ Bacia amazônica | Navegação a vapor por concessões | Custo fixo elevado em l
 Rio Grande do Sul | Representação parlamentar e transportes | Intermediação política e regional
 ```
 
+## A sequência dos bancos: 1851, 1853, 1854, 1866 e a liquidação
+
+A trajetória bancária de Mauá não consistiu na expansão contínua de uma única instituição. Participou da organização de um Banco do Brasil privado em **1851**; a política financeira de **1853** levou à fusão dessa instituição com o Banco Comercial do Rio de Janeiro sob outro regime de emissão. Mauá recusou participar da diretoria do banco reorganizado. Em **1854**, iniciou empreendimento privado distinto, a Mauá, MacGregor & Cia., cuja constituição jurídica e composição societária procuravam preservar autonomia perante possíveis intervenções governamentais. Depois dos choques comerciais e financeiros dos anos 1860, a casa foi reorganizada como Banco Mauá & Cia. em **1866**. Os nomes sucessivos correspondem a contratos, sócios e circunstâncias monetárias diferentes, não a um banco juridicamente idêntico durante décadas. [9]
+
+A cronologia delimita os riscos públicos e privados. O governo podia restringir emissões, conceder autorizações ou oferecer auxílio emergencial; a administração bancária escolhia devedores, prazos e volume de exposição às empresas industriais. Estudo publicado na revista *RAM* registra que o apoio oficial na **crise bancária de 1864** permitiu a sobrevivência do empreendimento de Mauá quando outras instituições sucumbiram. A imagem recorrente de um industrial sistematicamente abandonado por Estado inteiramente hostil não corresponde à totalidade da documentação. Sua relação com o Império combinou contratos públicos, interlocução com políticos influentes, controvérsias monetárias e auxílio ocasional. [9]
+
+A operação dependia de dois prazos. Obrigações correntes — depósitos, fornecedores, letras de importação e pagamentos a bancos correspondentes — podiam vencer antes que trilhos, docas e equipamentos industriais produzissem caixa suficiente. Uma carteira de ativos fixos pode ter valor econômico de longo prazo superior às dívidas e, ainda assim, não conseguir pagar os vencimentos imediatos. O câmbio agravava o problema: obrigações liquidadas em Londres não podiam ser atendidas necessariamente por receitas domésticas convertidas a taxa estável. Investimento volumoso não demonstra sozinho a causa da crise; importam a composição dos pagamentos e a liquidez efetiva dos ativos.
+
+Mauá recorreu à moratória em **1875** diante do agravamento da situação bancária. A reconstrução biográfica do Arquivo Nacional registra a exposição posterior aos credores e a venda extensa de patrimônio. Informa pagamento de cerca de **66% do passivo ao longo de três anos**, cifra a ser interpretada nos termos daquela narrativa administrativa, sem confundi-la com a recuperação final de todas as categorias de credores. A sequência entre suspensão de pagamentos, falência judicial e venda de ativos impede reduzir a deterioração a uma data isolada. [10]
+
+## Os escritos de Mauá e a controvérsia pública sobre a falência
+
+A Câmara dos Deputados relaciona publicações produzidas pelo próprio empresário: relatório de **1858** sobre a navegação e o comércio amazônicos, manifesto à Câmara de **1873**, proposta ferroviária Paraná–Mato Grosso de **1875**, **O meio circulante do Brasil**, de **1878**, e a **Exposição dirigida aos credores e ao público**, também de **1878**. São documentos relevantes para conhecer projetos, posições e justificativas de Mauá. Não equivalem a auditorias independentes do resultado de cada empreendimento. Demonstram também que sua atuação técnica e política se desenvolveu em intervenções públicas durante décadas, em vez de ser criação retrospectiva de biógrafos. [1]
+
+Durante a crise, imprensa e Parlamento divergiram. A investigação de Martins e Gambi sobre jornais e discussões senatoriais de **1874–1875** documenta posições de apoio e crítica. Algumas leituras enfatizavam decisões da política financeira, choques externos e comportamento do mercado; outras, condução administrativa e crédito relacionado às empresas. Tomar a defesa do empresário como explicação completa transformaria uma narrativa interessada em causa incontroversa. Utilizar apenas os ataques da época cometeria erro equivalente. A divergência é evidência histórica relevante da disputa política em torno de salvamentos financeiros e insolvências. [3]
+
+Os cinco mandatos como deputado pelo Rio Grande do Sul, iniciados em **1855** e repetidos até **1872**, conforme registro da Câmara, inserem o banqueiro diretamente na economia política imperial. O mandato não significava controle do gabinete ou do Tesouro, mas oferecia arena de discussão sobre comércio, bancos e obras. As relações entre pedidos de indenização contratual, medidas fiscais e defesa de determinados investimentos dependiam de decisões administrativas e discursos específicos. [1]
+
+## A geografia industrial: o que permaneceu além do financiador
+
+O registro parlamentar relaciona participações em sistemas técnicos distintos: Fundição Ponta da Areia; Estrada de Ferro Mauá e outros empreendimentos ferroviários; iluminação urbana a gás; navegação a vapor costeira e amazônica; rebocadores na barra do Rio Grande do Sul; diques flutuantes; curtumes; e cabos submarinos de telecomunicações. Era carteira heterogênea em território e funcionamento. A metalurgia fornecia e reparava navios, mas a navegação amazônica dependia de demanda regional e regras de concessão diferentes das de um serviço urbano de iluminação. [1]
+
+Nos transportes, o valor econômico de uma linha depende da rede à qual está conectada. Trecho isolado pode economizar pouco tempo e captar pequena quantidade de carga, mesmo construído segundo boas práticas de engenharia. Trecho que conecta porto, zonas produtoras e mercados urbanos gera ganhos maiores sem necessariamente utilizar locomotivas melhores. Quilómetros inaugurados, portanto, não medem diretamente o custo social poupado. As **72 embarcações em onze anos** atribuídas à Ponta da Areia medem volume produzido, não custo relativo, taxa de lucro nem proporção de peças fabricadas no país. A distinção preserva realizações industriais concretas sem acrescentar rendimentos imaginários. [2][8]
+
+O colapso do financiamento não fez desaparecer simultaneamente máquinas, trabalhadores treinados, contratos e expectativas de serviço público. Equipamentos podem passar a novos proprietários, rotas continuam úteis e competências técnicas circulam entre oficinas e fornecedores. A trajetória do financiador e a da capacidade produtiva precisam de cronologias distintas. Inversamente, uma infraestrutura que sobrevive à falência privada não comprova que o contrato financeiro original tenha sido vantajoso.
+
+## Escravidão, emancipação e as fronteiras do desenvolvimento imperial
+
+Os investimentos industriais ocorreram num país em que a escravidão legal persistiu até **1888**. A contradição ia além da retórica moral. Uma sociedade que permitia tratar pessoas como propriedade limitava barganha salarial, participação no consumo, ensino e mobilidade de competências técnicas. Rotas exportadoras podiam baratear o transporte de café e outras mercadorias aos portos enquanto propriedade rural e relações de trabalho permaneciam concentradas e desiguais. Eram processos simultâneos, não descrições incompatíveis da mesma economia. [4][7]
+
+A biografia reúne inovação industrial documentada e relações políticas concretas. Nenhum desses elementos transforma Mauá no inventor solitário do capitalismo brasileiro. Direitos concedidos pelo Estado eram importantes para ferrovias, serviços urbanos e comunicações; perdas financeiras também dependeram de escolhas empresariais específicas e da instabilidade institucional mais ampla. O caso evidencia coexistência frágil entre infraestrutura moderna, crédito internacional, patrimônio concentrado e ordem trabalhista amplamente não livre. Nem a tese do 'gênio destruído pelo Império' nem a do 'banqueiro derrotado apenas por seus próprios erros' explica isoladamente essa combinação.
+
 ## O que a trajetória ensina à economia do desenvolvimento
 
 A experiência de Mauá comporta três lentes concorrentes. O desenvolvimentismo ressalta falhas de escala e coordenação que exigem capital paciente e redes públicas. A estabilidade financeira enfatiza passivos excessivos, empréstimos a afiliadas e ativos industriais ilíquidos. A economia política aponta concessões, interesses das elites e cidadania desigual determinando oportunidades e obstáculos. Nenhuma isoladamente explica o momento e a distribuição de todas as perdas. [1][2][3][4]
@@ -126,7 +158,7 @@ Locomotivas D Pedro II contratadas | 12
 
 Desenvolvimento industrial num Império escravista também depende do que não aparece nas contas empresariais: poder de compra das famílias, direitos de trabalho exigíveis, escola e distribuição do acesso à infraestrutura. Gasto público gera externalidades e também pode subsidiar posições privadas deficitárias. Avaliar investimento social exige comparar fretes e acessos por rota com garantias tarifárias e risco fiscal, distinguindo a crise comercial do valor coletivo das competências técnicas que sobreviveram. [4][8]
 
-### Documentos, obras e metodologia
+### Referências documentais e historiográficas
 
 [1] Brazilian Chamber of Deputies, parliamentary biography: https://www.camara.leg.br/deputados/660/biografia
 
@@ -142,6 +174,8 @@ Desenvolvimento industrial num Império escravista também depende do que não a
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historic
 
-**Limites de evidência:** Não somar valores nominais de períodos diferentes nem inferir causalidade de concessões ou subvenções sem contrafactuais; distinguir declarações institucionais de documentação pública independente. Resultados de investimentos e consequências políticas exigem séries próprias.
+[9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
+
+[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mauao
