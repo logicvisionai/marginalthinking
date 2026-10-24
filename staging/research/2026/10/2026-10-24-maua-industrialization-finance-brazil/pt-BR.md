@@ -110,6 +110,22 @@ A sequência causal é condicional: capital mercantil e conexões externas viabi
 
 Mauá não comprova que o Brasil precisava de um herói industrial isolado, nem que a iniciativa privada industrial era inútil. O resultado importante diz respeito à complementariedade institucional: regras contratuais, concessões transparentes, financiamento de desenvolvimento com limites prudenciais, ensino, trabalho livre e mercado interno devem avançar juntos. Um investidor pode antecipar corretamente uma tecnologia e perder capital porque contratos, financiamento e instituições amadurecem em ritmos incompatíveis.
 
+## Quantificar produção industrial sem confundir unidades e balanços
+
+O DNIT informa **72 embarcações produzidas em onze anos** pela Ponta da Areia após o investimento de meados dos anos 1840, enquanto o contrato de outra ferrovia, a D. Pedro II, encomendava **doze locomotivas em 1855**. Trata-se de produção e contratos de projetos diferentes: não formam ranking de produtividade. Juntos, demonstram que a modernização combinou competências industriais domésticas e equipamentos ferroviários importados. A concessão de 1852 e a inauguração de 1854 revelam ainda o intervalo entre direito público concedido e capital físico capaz de produzir receita. [2][8]
+
+O contrafactual é específico. Se a demanda por fretes era forte, mas depósitos e obrigações cambiais venciam antes das receitas, o gargalo de Mauá estava sobretudo no balanço. Se crédito era abundante e rotas não se conectavam a mercados complementares, o problema maior seria baixa utilização da rede física. Os dois mecanismos podem coexistir. Estaleiro paga salários e carvão continuamente; ferrovia recupera investimento durante décadas. Um banco que tenta intermediar ambos enfrenta descasamento de vencimentos. [1][3]
+
+```chart
+type: bar
+title: Grandezas de transporte do século XIX, não medidas equivalentes de eficiência
+unit: veículos; 72 navios fabricados na Ponta da Areia versus 12 locomotivas contratadas para a D Pedro II
+Navios Ponta da Areia produzidos | 72
+Locomotivas D Pedro II contratadas | 12
+```
+
+Desenvolvimento industrial num Império escravista também depende do que não aparece nas contas empresariais: poder de compra das famílias, direitos de trabalho exigíveis, escola e distribuição do acesso à infraestrutura. Gasto público gera externalidades e também pode subsidiar posições privadas deficitárias. Avaliar investimento social exige comparar fretes e acessos por rota com garantias tarifárias e risco fiscal, distinguindo a crise comercial do valor coletivo das competências técnicas que sobreviveram. [4][8]
+
 ### Documentos, obras e metodologia
 
 [1] Brazilian Chamber of Deputies, parliamentary biography: https://www.camara.leg.br/deputados/660/biografia
@@ -125,5 +141,7 @@ Mauá não comprova que o Brasil precisava de um herói industrial isolado, nem 
 [6] MultiRio, biographical chronology of Irineu: https://multirio.rio.rj.gov.br/index.php/historia-do-brasil/brasil-monarquico/8973-irineu-evangelista-de-souza%2C-o-bar%C3%A3o-de-mau%C3%A1
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
+
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
 
 **Limites de evidência:** Não somar valores nominais de períodos diferentes nem inferir causalidade de concessões ou subvenções sem contrafactuais; distinguir declarações institucionais de documentação pública independente. Resultados de investimentos e consequências políticas exigem séries próprias.
