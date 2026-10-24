@@ -165,7 +165,7 @@ Depois da desagregação, instalações continuaram operando e acionistas conser
 
 ### Fontes documentais e historiografia
 
-[1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
+[1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/ (fonte consultada em outubro de 2026)
 
 [2] Rockefeller Archive Center, John D Rockefeller Jr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-jr/
 
