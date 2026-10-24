@@ -1,7 +1,5 @@
 # Os Rockefeller: Standard Oil, concentração industrial e instituições da filantropia dinástica
 
-**Edição:** 24 de outubro de 2026 · **Corte:** 24 October 2026 · **Programa:** Global System & Power
-
 A família Rockefeller é um caso de longa duração sobre transformar lucros operacionais em propriedade concentrada, reorganizar essa propriedade após intervenção judicial e institucionalizar filantropia entre gerações. John D. Rockefeller (1839–1937) construiu a Standard Oil com refino, logística, escala e consolidação agressiva. A empresa reduziu custos e acumulou poder de mercado; tribunais americanos concluíram que sua organização violava a legislação antitruste. Os descendentes criaram fundações e instituições públicas financiadas por grandes doações, levantando perguntas sobre prioridades definidas por fortunas privadas. [1][2][3][4]
 
 As polarizações — gênio industrial benevolente ou conspiração que controla o mundo — ocultam os canais verificáveis. Integração empresarial não equivale automaticamente a abuso monopolista; doações não são direitos societários de voto; descendentes jurídicos da Standard Oil não formam uma holding atual única controlada pela família. A história econômica exige separar eficiência operacional, contratos excludentes, patrimônio familiar, decisões judiciais, transferências filantrópicas e resultados sociais. [1][3][5]
@@ -157,10 +155,10 @@ A decisão da Suprema Corte de 1911 examinou estrutura e exercício de poder mon
 
 ```chart
 type: bar
-title: Truste Standard Oil em 1882, funções de controle e direitos econômicos distintos
-unit: pessoas, não ações ou porcentagem de propriedade
-Trustees com controle corporativo | 9
-Titulares iniciais de certificados | 42
+title: Standard Oil Trust 1882: ações atribuídas ao grupo dos administradores e às demais participações
+unit: ações entre 35000; 23314 do grupo trustee e 11686 restantes por subtração, PBS
+Ações atribuídas aos trustees | 23314
+Demais ações | 11686
 ```
 
 Depois da desagregação, instalações continuaram operando e acionistas conservaram direitos sobre sucessoras. Remédio estrutural muda controle e incentivos, não a existência de todos os ativos produtivos. Programas filantrópicos constituem outra categoria: subvenções em saúde podem ser úteis enquanto prioridades escolhidas por doadores suscitam questões de autonomia científica e responsabilização democrática. Nenhum indicador — participação no refino, fortuna acionária ou doações históricas — estabelece saldo social final sem comparar preços, concorrência, resultados dos serviços e poder institucional.
@@ -193,4 +191,6 @@ Depois da desagregação, instalações continuaram operando e acionistas conser
 
 [13] Economic history study of hookworm eradication, National Library of Medicine: https://pmc.ncbi.nlm.nih.gov/articles/PMC3800113/
 
-[14] Cambridge, racism and medical services in Jim Crow South: https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/how-the-struggle-for-public-health-in-the-jim-crow-south-reflected-and-reinforced-systemic-racial-health-inequality/92742C878268765C849F244F39E4135E/
+[14] Cambridge, racism and medical services in Jim Crow South: https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/how-the-struggle-for-public-health-in-the-jim-crow-south-reflected-and-reinforced-systemic-racial-health-inequality/92742C878268765C849F244F39E4135E
+
+[15] PBS American Experience, John D Rockefeller senior, 1882 trust capitalization and share register: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-john//
