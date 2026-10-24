@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "id": "MT-CS-2026-10-20-PROTESTS",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T09:44:20.312Z",
+  "reviewed_commit": "ab4f23ac898a52e8e4c78827a119cbb45b2dfd35",
+  "pending_blob_sha": "882f73d4e4e9144afab2b935d498a2c779f90a58",
+  "source_blob_shas": {
+    "en": "1a786f4a320eebae2f0274e1dfde0cc09fa78511",
+    "pt-BR": "4744b5012a3c8c017be0b3b6e633df576400827b"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "system_registry_program_mismatch",
+      "location": "data/pending/2026-10-20-global-protest-wave-europe-social-contract.json: kind and program",
+      "issue": "Pending kind 'conflict-system-research' is registered in data/system-registry.json as editorial-major-power-conflict under program 'global-system-power', whereas pending declares 'political-economy-markets'. This creates an inconsistent institutional classification. Do not silently normalize the program or repurpose the registered kind."
+    },
+    {
+      "type": "source_traceability",
+      "location": "staging/research/2026/10/2026-10-20-global-protest-wave-europe-social-contract/{en.md,pt-BR.md}: paragraph 67 in section III and the adjacent indicator table",
+      "issue": "Both languages cite [9] (ECB Economic Bulletin 6/2026) for the definitive Eurostat 16 October 2026 euro-area HICP 3.8%, August 3.2%, and energy contribution 1.71 pp. Those final figures are in source [32], not the attached ECB September bulletin. The ECB reference also points to a Croatian-language PDF via eb202606.hr.html despite the English/Portuguese edition. The 3.8% and 1.71 pp values themselves match Eurostat's official 16 October release; the blocking defect is claim-to-source attribution."
+    },
+    {
+      "type": "historical_source_traceability",
+      "location": "EN section II paragraph 3 / PT-BR section II paragraph 3; sources [7] and [8]",
+      "issue": "The causal historical account of the euro sovereign-debt crisis and the 2015–16 refugee movement is referenced to a generic ECB homepage [7] and UNHCR Global Trends 2025 [8]. Neither is a directly identifiable historical document for the particular institutional mechanisms and 2015–16 claims as cited. Provide specific dated primary/historical references and separate historical interpretation from observed event evidence."
+    },
+    {
+      "type": "metadata_integrity",
+      "location": "data/pending/2026-10-20-global-protest-wave-europe-social-contract.json: research_scope.sources_count and research_scope.source_count",
+      "issue": "The same pending sidecar reports sources_count=31 and source_count=32. The bilingual source list has 32 numbered references, but these metadata fields contradict each other and cannot be treated as a reconciled source audit."
+    }
+  ],
+  "required_fixes": [
+    "Reconcile the report's kind/program against the canonical system registry. Either use the registered 'global-system-power' program for 'conflict-system-research' with an editorially justified framing, or use an already registered appropriate kind for a political-economy report; do not invent a kind or modify registry/taxonomy as part of QA.",
+    "Attach [32] to the September 2026 definitive HICP 3.8%, August 3.2% and 1.71 pp energy contribution in EN and PT-BR section III, retaining [9] only for the ECB compensation-per-employee statement. Replace the Croatian-language bulletin URL with a directly identifiable appropriately localized ECB source if used.",
+    "Replace generic historical links [7] and [8] with dated primary/archival sources that support the sovereign-debt-crisis and 2015–16 refugee institutional mechanisms, in both locales; qualify any interpretive causal assertions.",
+    "Reconcile source_count/sources_count in the pending research_scope to a single auditable count; confirm whether source [32] is included, and update both staged Markdown files and pending together with fresh Git blobs.",
+    "Re-run strict editorial-depth, visual, pipeline and institutional-registry checks, then resubmit the same ID/slug as a corrected staged item without creating a public bundle."
+  ],
+  "evidence": [
+    "data/system-registry.json: editorial-major-power-conflict, kind='conflict-system-research', program='global-system-power' (main HEAD reviewed); pending kind='conflict-system-research', program='political-economy-markets'.",
+    "Eurostat, 'Annual inflation up to 3.8% in the euro area', 16 October 2026, https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-16102026-ap — September 3.8%, August 3.2%, energy +1.71 percentage points.",
+    "ECB Economic Bulletin Issue 6/2026 source [9] links to https://www.ecb.europa.eu/press/economic-bulletin/html/eb202606.hr.html (Croatian edition); source [32] is the actual Eurostat final release.",
+    "Sources [7] https://www.ecb.europa.eu and [8] https://www.unhcr.org/global-trends do not directly identify dated 2008–2016 historical source material for section II.",
+    "Both staged Markdown editions have 11 H2 headings, two explicit chart blocks with identical numeric series [6.1,15.4] and [4.7,3.0], two flow blocks, one geographic map, and at least two structured tables. EN 5100 and PT-BR 5605 substantive words under the repository's strip-fences/URLs counting expression. Minimum depth and visual counts are not the cause of rejection.",
+    "Canonical public metadata at reports/2026/10/2026-10-20-global-protest-wave-europe-social-contract/metadata.json and data/approved/<slug>.json were absent on reviewed HEAD; no revision was already materialized."
+  ],
+  "taxonomy_issues": [
+    {
+      "field": "program",
+      "value": "political-economy-markets",
+      "registered_kind": "conflict-system-research",
+      "expected_program": "global-system-power",
+      "source": "data/system-registry.json"
+    }
+  ],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "failed",
+      "summary": "Pending v2, ready:true, English-first and controlled topic/phenomena fields present, but registered kind/program association is inconsistent."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "Official September 2026 HICP numbers independently match Eurostat, but the report misattributes the final release to an earlier ECB bulletin and historical references lack document-specific support."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "Section III final inflation claim [9] must cite [32]; section II historical claims require identifiable sources."
+    },
+    "research_depth": {
+      "result": "passed_on_inspected_staged_text",
+      "en_words": 5100,
+      "pt_br_words": 5605,
+      "en_h2": 11,
+      "pt_br_h2": 11,
+      "minimum_words": 1700,
+      "minimum_h2": 6,
+      "validator": "scripts/validate-editorial-depth.mjs (rule reproduced; Node script not executed)"
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_on_structural_and_numeric_checks",
+      "signature": {
+        "en": {
+          "charts": 2,
+          "flows": 2,
+          "maps": 1,
+          "table_rows": 29
+        },
+        "pt-BR": {
+          "charts": 2,
+          "flows": 2,
+          "maps": 1,
+          "table_rows": 29
+        }
+      },
+      "summary": "Both locales have identical explicit chart numeric series and matching structural visual counts. Geographic cards distinguish EU/non-EU, not decorative filler; full pipeline renderer was not executed."
+    },
+    "translation_check": {
+      "result": "passed_for_material_checked",
+      "summary": "Core factual figures, headings, scenarios and visual numeric series are semantically aligned; both locales share the same citation and classification problems."
+    },
+    "contextual_depth": {
+      "result": "partial",
+      "summary": "Historical and political mechanisms are present, but two material historical anchors lack traceable source documents."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Direct analytical thesis rather than an executive-template heading.",
+      "headings": "Specific analytical headings and sufficient structural depth.",
+      "language": "Natural institutional English and Brazilian Portuguese in inspected passages.",
+      "repetition": "No mechanical template repetition identified in sampled sections.",
+      "cohesion": "Historical-to-current mechanism and scenarios are coherent, subject to evidentiary repairs.",
+      "meta_qa": "No public QA scaffold identified.",
+      "blocking": "Unreconciled kind/program and evidence attribution prevent publication readiness."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "summary": "Full Node scripts could not be executed against the GitHub repository tree via the available connector; targeted structural checks reproduced from script source. No claim of complete pipeline pass."
+    }
+  },
+  "contrary_evidence": [
+    "Spring 2026 Eurobarometer records positive EU membership attitudes despite country-level grievances.",
+    "EU+ asylum applications declined in 2025, so increasing application counts alone cannot explain 2026 protest politics.",
+    "EU labor-market aggregates do not by themselves establish individual household distress."
+  ],
+  "limitations": [
+    "Source verification focused on decisive numerical attribution and identified historical references; remaining event-level claims require full external corroboration after corrections.",
+    "GitHub connector does not expose recursive repository directory listing or remote script execution; full inventory and script run could not be independently completed.",
+    "No approval or public materialization is authorized by this rejection."
+  ],
+  "notes": "First recorded rejection for this exact pending and staged blob triple; producer should correct the same ID and resubmit new blobs. No producer or publisher handoff was executed."
+}
