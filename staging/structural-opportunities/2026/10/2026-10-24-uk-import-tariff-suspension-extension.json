@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-24T05:02:29-03:00",
+  "candidate": {
+    "country": {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    "proposed_state": "leverageable_efficiency",
+    "previous_state": null,
+    "perspective": "UK import-dependent manufacturers and small firms sourcing eligible chemicals, plastics, automotive, food and hydrogen-related intermediate goods.",
+    "structural_condition": "Existing temporary import-tariff suspensions on more than 250 eligible goods lower certain input costs; the proposed extension would preserve this access beyond otherwise scheduled expirations.",
+    "delta": "On 23 October 2026 HM Treasury announced that tariff suspensions scheduled to expire 31 December 2026 would be extended to December 2028 and June 2027 expiries by six months to December 2027, subject to implementation; it estimated up to £155 million in annual import cost relief, distinct from a broader nearly £800 million package of proposed administrative and tariff savings.",
+    "mechanism": "Maintaining suspended duties can preserve lower landed input costs for eligible firms, reduce working-capital pressure and alter sourcing economics relative to expiry; incidence depends on import volume, eligibility, pass-through and FX, not headline government saving estimates alone.",
+    "catalysts": [
+      "Publication of binding tariff-extension instrument and precise commodity codes before 31 December 2026.",
+      "Official implementation of extended suspensions through December 2027 and December 2028.",
+      "Evidence from customs declarations, import prices and business costs that eligible firms actually benefit."
+    ],
+    "invalidation": "Extensions are not legally implemented, eligible tariff lines change materially, imports do not use the relief, or FX/freight costs offset the savings; government ex-ante £155m estimate is not independently measured realized benefit.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "HM Treasury — Government slashes red tape and tariffs to give businesses breathing space",
+        "url": "https://www.gov.uk/government/news/government-slashes-red-tape-and-tariffs-to-give-businesses-breathing-space",
+        "date": "2026-10-23"
+      }
+    ]
+  },
+  "review_stage": "discovery_watch",
+  "notes": "A policy announcement and future suspension extension are not already-operating incremental savings. No new canonical Atlas state asserted. UK administrative reporting relief in same release is separately estimated and not combined with tariff-only benefit."
+}
