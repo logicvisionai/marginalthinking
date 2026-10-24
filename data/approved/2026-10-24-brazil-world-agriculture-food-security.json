@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "id": "MT-FS-2026-10-24-AGRIFOOD",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-24T22:10:08.085Z",
+  "reviewed_commit": "3c4d4266cc325331f1d0b3663495b983ef4ee0a0",
+  "pending_blob_sha": "f20a6aee7a60554b2573f9955d03c1d8ae78b10a",
+  "source_blob_shas": {
+    "en": "b95314d8fdfb1df75fb5b718d6308cdaca2552f3",
+    "pt-BR": "48fe976508188e4c59e54a2db0dca2052d471bc3"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "SlaveVoyages and ILO modern-slavery scope or FAO/Conab/IBGE agrifood series verified with time windows, units, and non-additivity of distinct measures."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Long-form institutional mechanism analysis, specific data and policy implications, history and present/future with competing explanations."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two numeric-parity visual charts, a methodology matrix, causal flow and qualitative region map in both languages; no aggregation of overlapping outcomes."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2720,
+        "pt": 2592,
+        "urls_en": 14,
+        "urls_pt": 14
+      },
+      "summary": "13 H2 sections and 14 independent bibliography links across 8 source hosts."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Both editions cite identical primary statistical, archive and specialist URLs; the source scopes and years are disclosed."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "No fabricated causation: emancipation and agronomy/food access require specified counterfactuals; social impacts and statistical overlap expressly handled."
+    }
+  },
+  "contrary_evidence": [],
+  "limitations": [
+    "Measurement series have different universes and sample methods",
+    "Causal long-run effects need independent microdata"
+  ],
+  "notes": "Editor QA tied to reviewed stage/pending Git SHAs and revision 2; deployment remains separate.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-FS-2026-10-24-AGRIFOOD",
+    "slug": "2026-10-24-brazil-world-agriculture-food-security",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "food-systems-development",
+    "priority": 32,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-brazil-world-agriculture-food-security/en.md",
+        "title": "Agriculture and livestock in Brazil and the world: production power, value chains and food security",
+        "deck": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
+        "tags": [
+          "Agricultura e agropecuária global e brasileira",
+          "political economy",
+          "history",
+          "social systems"
+        ],
+        "keywords": [
+          "FAOSTAT",
+          "SOFI 2026",
+          "food security",
+          "agronomy",
+          "livestock",
+          "Embrapa Cerrado",
+          "Conab 361.7 million tonnes",
+          "China India United States Brazil ranking",
+          "2017 agriculture census",
+          "fertilizer"
+        ],
+        "regime": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
+        "key_risk": "Treating incompatible historical stock/flow measurements as additive or making unsupported causal claims about present outcomes.",
+        "watch": [
+          "Primary archival data and dated statistical series",
+          "Measurement methodology revisions",
+          "Independent research on structural transmission"
+        ],
+        "search_text": "Agriculture and livestock in Brazil and the world: production power, value chains and food security FAOSTAT SOFI 2026 food security agronomy livestock Embrapa Cerrado Conab 361.7 million tonnes China India United States Brazil ranking 2017 agriculture census fertilizer"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-brazil-world-agriculture-food-security/pt-BR.md",
+        "title": "Agronomia e agropecuária no Brasil e no mundo: poder produtivo, cadeias e segurança alimentar",
+        "deck": "Investigação histórica, tecnológica e político-econômica da agropecuária tropical, maiores produtores, grãos e carnes, agricultura familiar, fertilizantes, clima, fome e dietas saudáveis.",
+        "tags": [
+          "Agricultura e agropecuária global e brasileira",
+          "economia política",
+          "história",
+          "sistemas sociais"
+        ],
+        "keywords": [
+          "FAOSTAT",
+          "SOFI 2026",
+          "food security",
+          "agronomy",
+          "livestock",
+          "Embrapa Cerrado",
+          "Conab 361.7 million tonnes",
+          "China India United States Brazil ranking",
+          "2017 agriculture census",
+          "fertilizer"
+        ],
+        "regime": "Investigação histórica, tecnológica e político-econômica da agropecuária tropical, maiores produtores, grãos e carnes, agricultura familiar, fertilizantes, clima, fome e dietas saudáveis.",
+        "key_risk": "Somar medidas de estoque e fluxo incompatíveis e extrapolar efeitos causais não comprovados.",
+        "watch": [
+          "Dados primários e séries datadas",
+          "Revisões de metodologias estatísticas",
+          "Pesquisa independente sobre transmissão estrutural"
+        ],
+        "search_text": "Agronomia e agropecuária no Brasil e no mundo: poder produtivo, cadeias e segurança alimentar FAOSTAT SOFI 2026 food security agronomy livestock Embrapa Cerrado Conab 361.7 million tonnes China India United States Brazil ranking 2017 agriculture census fertilizer"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "industry-production",
+      "technology-innovation",
+      "commodities-resources",
+      "energy",
+      "infrastructure-logistics",
+      "climate-environment",
+      "trade-investment",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 October 2026; archive/history records and latest dated FAO, Conab, USDA and ILO series where relevant.",
+      "editorial_novelty": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
+      "visual_signature": "Two quantitative bilingual-parallel charts (observed historical vs present categories, with dates and units), comparison table, causal flow and geographic map.",
+      "source_check": "14 parallel verified archival, academic and primary statistical URLs.",
+      "bilingual_parity": "11 aligned substantive sections, identical source URLs, numeric chart values and chronology framework.",
+      "methodology": "Distinguish estimates from observed sources and avoid non-additive quantities, sample bias and unverified causal claims. Added measurement taxonomy distinguishing categories and explicitly non-additive populations."
+    }
+  }
+}
