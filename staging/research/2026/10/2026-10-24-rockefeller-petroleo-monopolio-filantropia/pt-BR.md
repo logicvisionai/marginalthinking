@@ -56,11 +56,12 @@ A continuidade histórica está na organização. Contabilidade sofisticada e co
 | Truste societário | Coordenação interestadual | Voto comum e decisões centralizadas | Proprietários e mandatos fiduciários |
 | Patrimônio filantrópico | Financiamento científico recorrente | Definição privada de prioridades | Avaliações independentes de programas |
 
-```chart
+ ```chart
 type: bar
-title: Doações filantrópicas históricas de Rockefeller Sr. ao longo da vida
-unit: milhões de dólares; fluxo histórico acumulado, não fortuna familiar atual
-Doações históricas | 540
+title: Standard Oil, capacidade de refino americana, 1878
+unit: percentual da capacidade nacional, dado histórico Smithsonian; não é mercado mundial
+Standard Oil | 90
+Outros refinadores | 10
 ```
 
 ```flow
@@ -90,6 +91,26 @@ Instituições relacionadas aos Rockefeller
 
 Documentos históricos demonstram atos, instituições e certas transações; não fornecem uma série homogênea de rentabilidade, bem-estar social e influência causal para todos os eventos. Distinguimos operações empresariais, benefícios sociais, conflitos distributivos e atribuições pessoais. Qualquer conclusão sobre mudanças sistêmicas exige comparar regiões e agentes contemporâneos semelhantes e explicitar incertezas.
 
+## Escala industrial, participação no mercado e prova de exclusão
+O Museu Nacional de História Americana, do Smithsonian, informa que a Standard Oil controlava mais de 90% da capacidade de refino americana em 1878. Trata-se de participação no refino sob classificação histórica do museu, não da extração mundial, de todo o petróleo do século XX ou do mercado energético contemporâneo. A concentração ocorreu em setor onde custos de processamento, transporte e financiamento podiam reforçar vantagens: refinarias grandes compravam equipamentos a custos menores, transportavam mais combustível e reinvestiam em oleodutos enquanto plantas pequenas negociavam sob condições piores. [2][5][9]
+
+A mesma estrutura aumentava eficiência e podia restringir concorrência. O julgamento histórico não deve depender apenas dos 90%. São necessários contratos: desconto de frete refletia economia legítima por barril ou exigia exclusão de rivais? A integração barateou produtos e melhorou qualidade? Quanto desse benefício chegou às famílias em vez dos acionistas? Pesquisa de Jonathan Wlasiuk examina poluição e problemas de qualidade do querosene, demonstrando por que eficiência empresarial não corresponde necessariamente a benefício social líquido. Governos locais às vezes absorviam custos de limpeza fora dos balanços. [9][10]
+
+## Governança do truste, imprensa investigativa e ação estatal
+O truste de 1882 concentrou ações em administradores comuns sem extinguir companhias operacionais nem leis societárias dos estados. Processos em Ohio em 1892 e a holding de Nova Jersey em 1899 mostram adaptações a restrições legais. As investigações de Ida Tarbell divulgaram documentos e alegações de práticas predatórias, contribuindo para o ambiente reformista. O processo federal encerrado em 1911 dependia de demonstrar restrições ao comércio interestadual. Não foi proibição geral de empresas grandes nem julgamento moral de toda a vida do fundador. [2][5][9]
+
+A solução dividiu a companhia em sucessoras com governança distinta; porém instalações e trabalhadores permaneceram, e investidores, incluindo o fundador, conservaram ações em várias delas. É possível obter mais concorrência sem afirmar que todo risco de oligopólio desapareceu. A procura petrolífera mudou quando motores ganharam espaço frente à iluminação por querosene. Identificar benefícios aos consumidores exige controlar a mudança da demanda antes de atribuir toda queda futura de custos ao julgamento.
+
+## Filantropia de saúde, conselhos e resultados mensuráveis
+A Fundação Rockefeller financiou saúde pública e pesquisa científica, em campanhas coordenando laboratórios, governos locais e equipes de controle de doenças. Recursos ampliam epidemiologia e formação médica, mas contextos coloniais e diferenças entre prioridades externas e comunidades locais exigem examinar quem define as intervenções. Programas devem ser avaliados por incidência de doenças, cobertura, profissionais formados, mortalidade e financiamento local duradouro, não pelo valor nominal da doação. [3][6]
+
+John D. Rockefeller Jr. e gerações posteriores estiveram associados a instituições diversas; fundações distintas não formam cadeia única de comando atual. O Rockefeller Archive Center preserva documentos empresariais e familiares porque a governança muda ao longo das gerações. O doador pode influenciar prioridades, mas contratos e conselhos precisam demonstrar o alcance dessa influência. Resultados filantrópicos positivos não tornam lícita conduta monopolista anterior, assim como práticas do passado não anulam todo benefício de projetos sanitários posteriores. [1][7][8]
+
+## Riqueza e influência através de gerações
+A fortuna originou-se da concentração no refino e distribuição, enquanto descendentes diversificaram atividades para bancos, cargos eletivos, fundações e investimentos sujeitos a deveres fiduciários distintos. A carreira política de Nelson e a liderança bancária de David Rockefeller não se confundem com a Standard Oil de 1870–1911. Medir uma dinastia exige seguir heranças, beneficiários de trustes, participações societárias e direitos legais de cada época. Ativos patrimoniais das fundações possuem restrições institucionais e não constituem caixa coletivo disponível a todos os herdeiros.
+
+A analogia contemporânea mais útil é o controle de acesso à distribuição: operadores integrados podem elevar custos dos rivais enquanto oferecem produtos úteis. Nuvem digital e oleodutos, contudo, diferem em interoperabilidade, custos marginais e remédios legais. Interessa identificar a conduta que limita entrada, quem suporta efeitos externos e se mudanças regulatórias efetivamente melhoram preços, qualidade e inovação em intervalo definido.
+
 ### Fontes primárias e bibliografia especializada
 
 [1] Rockefeller Archive Center, John D. Rockefeller senior biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
@@ -107,3 +128,7 @@ Documentos históricos demonstram atos, instituições e certas transações; n�
 [7] Rockefeller Brothers Fund, institutional mission and governance: https://www.rbf.org/
 
 [8] Rockefeller Family Fund, programs and history: https://www.rffund.org/
+
+[9] Smithsonian, concentração da Standard Oil em 1878: https://www.americanhistory.si.edu/explore/exhibitions/american-enterprise/online/corporate-era/competition
+
+[10] Wlasiuk, Refining Nature, University of Pittsburgh Press: https://www.jstor.org/stable/j.ctt21c4sxd

@@ -56,11 +56,12 @@ The deeper historical continuity is organizational. Accounting sophistication an
 | Corporate trust | Multistate coordination | Common voting and unified policy | Ownership and trustee mandates |
 | Foundation endowment | Recurring scientific funding | Private priority-setting | Independent program evaluations |
 
-```chart
+ ```chart
 type: bar
-title: Documented Rockefeller Sr. lifetime charitable giving
-unit: USD million; cumulative lifetime flow, not current family wealth
-Historical charitable giving | 540
+title: Standard Oil share of US refinery capacity in 1878
+unit: percent of national refinery capacity, Smithsonian historical estimate
+Standard Oil | 90
+Other refiners | 10
 ```
 
 ```flow
@@ -90,6 +91,26 @@ Rockefeller-related institutions
 
 Historical records establish actions, institutions and some transactions; they do not supply a homogeneous series of returns, welfare and causal influence across all events. We distinguish private operations, public benefits, distributional conflict and personal attribution. System-level causal conclusions require comparisons with similarly situated contemporaries and explicit uncertainty.
 
+## Industrial scale, market share and the evidence for exclusion
+The Smithsonian National Museum of American History states that Standard Oil controlled more than 90% of US refinery capacity by 1878. This is a share of refining capacity under that museum's historical classification, not the company's proportion of every barrel extracted, all twentieth-century world oil, or the entire modern energy market. The concentration emerged in an industry where processing costs, freight access and financing could create a self-reinforcing advantage. A larger refiner ordered equipment and barrels cheaply, shipped more fuel, and could reinvest profits into pipelines while smaller plants faced inferior terms. [2][5][9]
+
+The same institutional feature could raise productive efficiency and obstruct rivals. Historical judgment therefore cannot rest on a 90% number alone. It needs contract evidence: was the freight discount a legitimate reduction in cost per barrel, or did special rebates depend on excluding competitors? Did integrated refining reduce retail prices and contamination, and how much of any improvement reached households rather than shareholders? Jonathan Wlasiuk's research highlights pollution and kerosene quality problems, warning against equating the slogan of efficiency with the complete social result. Local governments sometimes bore cleanup costs, a transfer not visible on refinery statements. [9][10]
+
+## Trust governance, investigative journalism and public enforcement
+The trust established in 1882 concentrated shares in trustees; it did not erase the operating companies or the states whose corporation laws governed them. Ohio litigation in 1892 and the New Jersey holding company in 1899 illustrate adaptation to legal restraints. Ida Tarbell's investigation exposed allegations and evidence of predatory practices and contributed to the public environment of progressive-era antitrust. The federal case culminating in 1911 required a legal demonstration of restraining interstate trade. It should not be read as a general law against large balance sheets or a referendum on the personal character of Rockefeller. [2][5][9]
+
+The remedy created successor firms with separate corporate governance; however, infrastructure and skills remained, and investors including the founder retained shares in a number of them. Consequently, one can observe breakup and increased competition without asserting that every oligopolistic risk immediately disappeared. Petroleum demand changed profoundly as engines displaced kerosene lighting. A historical attempt to identify consumer benefit needs to control for that change in the composition of demand rather than crediting the entire century of falling costs to a single judgment.
+
+## Health philanthropy, boards and measurable outcomes
+The Rockefeller Foundation invested in public health and scientific research, sometimes with campaigns that coordinated laboratories, local governments and disease-control workers. Funding can expand epidemiological capacity and medical education, while colonial settings and differences between external priorities and local community preferences raise questions about who defines an acceptable intervention. A public-health program should be tested by specific outcomes—disease incidence, coverage, training, mortality and durable local funding—rather than treating the face value of a grant as its impact. [3][6]
+
+John D. Rockefeller Jr. and later family members influenced diverse institutions; subsequent foundations do not form one modern chain of command. The Rockefeller Archive Center preserves legal and personal papers precisely because family governance varies by generation and institution. A donor's preference may affect an organization's agenda, but researchers must inspect actual governance and grants to distinguish influence from asserted instruction over all downstream participants. Strong philanthropic outcomes cannot retrospectively make anticompetitive practices lawful, just as past exclusionary conduct cannot invalidate every later public-health benefit. [1][7][8]
+
+## Wealth and power across generations
+The historical fortune originated in control of refining and distribution, but later descendants diversified into banking, elected office, charitable organizations and investments with distinct fiduciary duties. Nelson Rockefeller's electoral career and David Rockefeller's banking leadership are not interchangeable with Standard Oil's 1870–1911 organization. Measuring a family dynasty requires following inheritance, trust beneficiaries, corporate shares and legal control in each year. Foundation endowments are institutionally restricted assets, not money held by every descendant jointly.
+
+The essential comparison with present platform markets is the control of distribution access: an integrated operator can raise rivals' costs, even when the product benefits consumers. Yet cloud services and pipelines differ in technical interoperability, marginal costs and legal remedies. The question should be what conduct limits entry, who bears external costs and whether regulatory changes actually improve prices, quality and innovation over a specified period.
+
 ### Primary sources and specialist bibliography
 
 [1] Rockefeller Archive Center, John D. Rockefeller senior biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
@@ -107,3 +128,7 @@ Historical records establish actions, institutions and some transactions; they d
 [7] Rockefeller Brothers Fund, institutional mission and governance: https://www.rbf.org/
 
 [8] Rockefeller Family Fund, programs and history: https://www.rffund.org/
+
+[9] Smithsonian, Standard Oil share by 1878: https://www.americanhistory.si.edu/explore/exhibitions/american-enterprise/online/corporate-era/competition
+
+[10] Wlasiuk, Refining Nature, University of Pittsburgh Press: https://www.jstor.org/stable/j.ctt21c4sxd

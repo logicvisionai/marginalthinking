@@ -82,6 +82,24 @@ Uruguai / Argentina / Londres | Crédito e relações comerciais | Liquidez inte
 
 Documentos históricos demonstram atos, instituições e certas transações; não fornecem uma série homogênea de rentabilidade, bem-estar social e influência causal para todos os eventos. Distinguimos operações empresariais, benefícios sociais, conflitos distributivos e atribuições pessoais. Qualquer conclusão sobre mudanças sistêmicas exige comparar regiões e agentes contemporâneos semelhantes e explicitar incertezas.
 
+## O ambiente macroeconômico do financiamento de infraestrutura
+
+O comércio externo do Império obtinha divisas sobretudo por exportações de mercadorias, enquanto investimentos industriais dependiam de máquinas importadas. Essa exposição criava restrição externa: quando receitas exportadoras diminuíam ou bancos europeus restringiam crédito, uma empresa podia deixar de comprar equipamentos mesmo com demanda doméstica. As redes de Mauá ajudavam a transpor parte da distância, mas nenhum banqueiro garantia simultaneamente câmbio estável, transporte barato e confiança permanente. História econômica deve distinguir crise monetária de fracasso técnico: ferrovia operacional pode sofrer falta de caixa porque credores cobram antes de maturar a receita de frete. [1][2]
+
+O tamanho do mercado doméstico também importava. A renda se concentrava em proprietários e comerciantes, enquanto o poder de compra baixo de grande parcela da população restringia a demanda de fábricas e serviços. Compras públicas e concessões podiam suprir alguma demanda, ao custo de dependência de tarifas e acordos políticos. Importar máquina avançada não criava imediatamente siderurgia, mercado de técnicos ou manutenção nacional. A sequência de capacidades vale mais que a cerimônia de inauguração.
+
+## Risco bancário e irreversibilidade do capital fixo
+
+Um navio ou uma fundição pode ser vendido apenas com grande desconto quando faltam clientes, rotas e trabalhadores especializados. Depósitos bancários, por outro lado, podem ser cobrados imediatamente. Quando banco financia ativos industriais duradouros com responsabilidades de curto prazo, investimento produtivo torna-se vulnerável a saques simultâneos. O problema se agrava com câmbio desfavorável quando dívida é devida em libra e clientes pagam em moeda brasileira. Isso não presume índice arquivístico específico do banco de Mauá; identifica variáveis que precisam ser reconstruídas em cartas e balanços. [1][2]
+
+Há também irreversibilidade política. Trilhos fixados a um corredor não podem ser realocados a baixo custo depois de mudanças tarifárias. Concessão troca algum direito exclusivo por risco de intervenção estatal prolongada. Avaliá-la requer capital inicial, preços pagos pelos usuários e obrigações públicas associadas à exclusividade. Enriquecer não prova que toda concessão foi abusiva, e a falência não demonstra que os serviços entregues perderam valor.
+
+## Agenda comparativa sobre pioneiros industriais
+
+Mauá pode ser comparado a promotores ferroviários britânicos, banqueiros europeus e industriais integrados americanos, mas o método precisa alinhar condições sociais e financiamento. Diferentemente de um empresário em grande mercado consumidor assalariado, operava em Império que manteve a escravidão legal até 1888. Diferentemente do Tesouro soberano, suas companhias não arrecadavam impostos gerais para refinanciar projetos. Essas diferenças ajudam a identificar interações entre Estado, trabalho e balanços privados.
+
+Uma avaliação futura baseada em arquivos deveria reconstruir demonstrativos por empreendimento: capital investido por data e moeda; receitas e tráfego ferroviário e naval; contratos tarifários; dívidas e retiradas de depósitos; empregos industriais; e variação de preços aos usuários. Com essas séries, seria possível distinguir produtividade industrial, externalidades sociais e solvência financeira. Sem elas, a biografia deve rejeitar vereditos aparentemente definitivos, mas impossíveis de testar, segundo os quais um empresário teria salvo sozinho a industrialização ou sido o único impedido de fazê-lo.
+
 ### Fontes primárias e bibliografia especializada
 
 [1] Arquivo Nacional, biografia documental de Mauá: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua
