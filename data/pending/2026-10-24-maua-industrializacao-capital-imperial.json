@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-MAUA",
+  "slug": "2026-10-24-maua-industrializacao-capital-imperial",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T16:30:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 27,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-maua-industrializacao-capital-imperial/en.md",
+      "title": "Mauá and the limits of industrial capitalism in imperial Brazil: banks, infrastructure, trade and slavery",
+      "deck": "Institutional biography of Irineu Evangelista de Sousa: accumulation, shipping, banking, industry, railways, politics, financing shocks and the constraints of a slaveholding economy.",
+      "tags": [
+        "maua",
+        "economic history",
+        "institutions",
+        "capital",
+        "corporate power"
+      ],
+      "keywords": [
+        "Mauá and the limits of industrial capitalism in imperial Brazil: banks, infrastructure, trade and slavery",
+        "capital and state",
+        "financial intermediation"
+      ],
+      "regime": "Historical industrial and institutional transformation constrained by law, capital and social structure.",
+      "key_risk": "Confusing individual fortunes, firm balance sheets, social externalities and institutional power.",
+      "watch": [
+        "Primary archival findings",
+        "Industrial finance and contract structures",
+        "Evidence of welfare versus private returns"
+      ],
+      "search_text": "Mauá and the limits of industrial capitalism in imperial Brazil: banks, infrastructure, trade and slavery"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-maua-industrializacao-capital-imperial/pt-BR.md",
+      "title": "Barão de Mauá e os limites do capitalismo industrial no Império: bancos, infraestrutura, comércio e escravidão",
+      "deck": "Biografia institucional de Irineu Evangelista de Sousa: acumulação, navegação, bancos, indústria, ferrovias, política, crises de financiamento e limites de uma economia escravista.",
+      "tags": [
+        "maua",
+        "história econômica",
+        "instituições",
+        "capital",
+        "poder empresarial"
+      ],
+      "keywords": [
+        "Barão de Mauá e os limites do capitalismo industrial no Império: bancos, infraestrutura, comércio e escravidão",
+        "capital e Estado",
+        "intermediação financeira"
+      ],
+      "regime": "Transformação histórica de indústria e instituições condicionada por leis, capital e organização social.",
+      "key_risk": "Confundir fortunas individuais, balanços empresariais, benefícios coletivos e influência institucional.",
+      "watch": [
+        "Fontes documentais",
+        "Contratos e financiamento industrial",
+        "Benefícios sociais versus retorno privado"
+      ],
+      "search_text": "Barão de Mauá e os limites do capitalismo industrial no Império: bancos, infraestrutura, comércio e escravidão"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "banking-credit",
+    "industry-production",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "producer_checks": {
+    "information_cutoff": "24 October 2026; historical national archives, primary records and economic history; financial histories not current market prices.",
+    "editorial_novelty": "Dedicated institutional maua dossier, separate from existing Marginal Thinking archive.",
+    "visual_signature": "Substantive analytical comparison table, traceable historical chart, causal flow and geographical/institutional representation in each language.",
+    "source_check": "7 matched source URLs across both languages; archival, official and specialist institutional references.",
+    "bilingual_parity": "Chapter count and numeric chart series aligned; same source URLs.",
+    "methodology": "Separates capital stocks, historical flows, productive spillovers, legal structure, and limits of causal inference."
+  }
+}

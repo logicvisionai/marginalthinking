@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-ROCKEFELLER",
+  "slug": "2026-10-24-rockefeller-petroleo-monopolio-filantropia",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T16:30:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 27,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-rockefeller-petroleo-monopolio-filantropia/en.md",
+      "title": "The Rockefellers: Standard Oil, industrial concentration, antitrust, dynastic capital and the institutions of philanthropy",
+      "deck": "A study of the Rockefeller family from the oil-refining system to the Standard Oil breakup, public health philanthropy, finance and divergent contemporary heirs.",
+      "tags": [
+        "rockefeller",
+        "economic history",
+        "institutions",
+        "capital",
+        "corporate power"
+      ],
+      "keywords": [
+        "The Rockefellers: Standard Oil, industrial concentration, antitrust, dynastic capital and the institutions of philanthropy",
+        "capital and state",
+        "financial intermediation"
+      ],
+      "regime": "Historical industrial and institutional transformation constrained by law, capital and social structure.",
+      "key_risk": "Confusing individual fortunes, firm balance sheets, social externalities and institutional power.",
+      "watch": [
+        "Primary archival findings",
+        "Industrial finance and contract structures",
+        "Evidence of welfare versus private returns"
+      ],
+      "search_text": "The Rockefellers: Standard Oil, industrial concentration, antitrust, dynastic capital and the institutions of philanthropy"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-rockefeller-petroleo-monopolio-filantropia/pt-BR.md",
+      "title": "Os Rockefeller: Standard Oil, concentração industrial, antitruste, riqueza dinástica e instituições filantrópicas",
+      "deck": "Estudo da família Rockefeller do refino de petróleo à dissolução da Standard Oil, às fundações de saúde pública, às finanças e aos herdeiros atuais.",
+      "tags": [
+        "rockefeller",
+        "história econômica",
+        "instituições",
+        "capital",
+        "poder empresarial"
+      ],
+      "keywords": [
+        "Os Rockefeller: Standard Oil, concentração industrial, antitruste, riqueza dinástica e instituições filantrópicas",
+        "capital e Estado",
+        "intermediação financeira"
+      ],
+      "regime": "Transformação histórica de indústria e instituições condicionada por leis, capital e organização social.",
+      "key_risk": "Confundir fortunas individuais, balanços empresariais, benefícios coletivos e influência institucional.",
+      "watch": [
+        "Fontes documentais",
+        "Contratos e financiamento industrial",
+        "Benefícios sociais versus retorno privado"
+      ],
+      "search_text": "Os Rockefeller: Standard Oil, concentração industrial, antitruste, riqueza dinástica e instituições filantrópicas"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "banking-credit",
+    "industry-production",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "producer_checks": {
+    "information_cutoff": "24 October 2026; historical national archives, primary records and economic history; financial histories not current market prices.",
+    "editorial_novelty": "Dedicated institutional rockefeller dossier, separate from existing Marginal Thinking archive.",
+    "visual_signature": "Substantive analytical comparison table, traceable historical chart, causal flow and geographical/institutional representation in each language.",
+    "source_check": "8 matched source URLs across both languages; archival, official and specialist institutional references.",
+    "bilingual_parity": "Chapter count and numeric chart series aligned; same source URLs.",
+    "methodology": "Separates capital stocks, historical flows, productive spillovers, legal structure, and limits of causal inference."
+  }
+}
