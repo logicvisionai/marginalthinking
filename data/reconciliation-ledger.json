@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-24T17:19:45.676Z",
+  "last_reconciled_at": "2026-10-24T17:43:12.785Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6687,6 +6687,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No measured new technology capability milestone or deployment event is introduced."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-george-soros-actor-reconciliation",
+      "reconciled_at": "2026-10-24T17:43:12.785Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-10-24-SOROS"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Documented Soros philanthropy and investment operate transnationally, but a new canonical dependency edge needs verified counterparties, dated directed amounts and relation-specific evidence."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Historical private-finance and philanthropic biography does not evaluate a new concrete economic intervention under this atlas's evidence rules."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "George Soros and SFM are described as distinct personal and organizational actors, with specific finance and grant mechanisms; existing strategic actor register does not yet support person-level canonical records with robust ownership/mandate identifiers. Preserve dossier without inventing a structured actor ID."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No new mineral, extraction, energy network or physical capability ownership evidence documented in this biography."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The 1992 ERM case is historical macro policy with documented monetary constraints, not a new evaluated, schema-qualified intervention case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Biographical references to wartime persecution, apartheid and Sarajevo do not document new current conflict-system events or institutional control."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No new evidence of deployed technology capacity or technical milestone."
         }
       ]
     }
