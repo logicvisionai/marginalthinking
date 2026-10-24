@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-SA-2026-10-24-ROTHSCHILD",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-24T22:08:31.094Z",
-  "reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984",
-  "pending_blob_sha": "c42d2fbe12b22a5005da208e567ea7bc9a381597",
+  "reviewed_at": "2026-10-24T23:27:54.054Z",
+  "reviewed_commit": "40e7d0ef7a816e4f721f9ca4fdc184a3da67696b",
+  "pending_blob_sha": "b1d4e98d099e4158c43a9d1be06721752eeab133",
   "source_blob_shas": {
-    "en": "f2cffd3bdd0f55de5ac8daecd7c4ee7c70035c51",
-    "pt-BR": "e78d165b8c0f733a5d76217ce11cead434a343dc"
+    "en": "3b17b35b55453a68ac6dc4e52892a91e17d6806e",
+    "pt-BR": "7660304db85e5d26faffca6eb4da256cc70a938b"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -15,11 +15,11 @@
   "checks": {
     "factual_methodology": {
       "result": "passed",
-      "summary": "Cross-referenced dated family archive, scholarly institutional history, and government/court documentary sources; authority distinguished from ownership and contracts."
+      "summary": "Historical contracts, Rothschild Archive, Brazilian issues, institutional records and specialist histories used with qualified conclusions; unsupported conspiracy claims rejected."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Independent financial biography on bank partnerships, state contracts, credit and political leverage, with limitations on financial totals and conspiratorial claims."
+      "summary": "Multiple generations, sovereign credit, historical political conditions, actual contractual authority and distributional effects developed as continuous research prose."
     },
     "visual_evidence_readiness": {
       "result": "passed",
@@ -28,16 +28,15 @@
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 2407,
-        "pt": 2249,
-        "urls_en": 12,
-        "urls_pt": 12
-      },
-      "summary": "12 analytic chapters, 12 linked references over 4 domain names."
+        "en": 3751,
+        "pt": 3576,
+        "urls_en": 14,
+        "urls_pt": 14
+      }
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "Cross-locale source URLs identical and linked numerals in prose; ownership or power claims limited to documented mandates."
+      "summary": "Documentary Rothschild Archive and state sources with aligned bilingual citation URLs and numeric charts."
     },
     "counterfactual_review": {
       "result": "passed",
@@ -49,7 +48,7 @@
     "Surviving accounting ledgers do not establish a modern consolidated net worth",
     "Contractual access does not prove unlimited political control"
   ],
-  "notes": "Approved revision 2 from Git stage blobs, distinct from completed build or external deploy.",
+  "notes": "Substantive historical rewrite, including Frankfurt, family partnerships, Napoleon-era bullion transfers, Brazilian sovereign bonds of 1824-29 and infrastructure financing, 1875 Suez and differences between economic influence and public power. Removed editorial afterword.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -156,14 +155,14 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 2,
+    "revision": 4,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
-      "editorial_novelty": "An archival history of Jewish emancipation constraints, Mayer Amschel and the five branches, wartime remittances, bonds, railways, Suez, succession and legends.",
-      "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
-      "source_check": "11 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
-      "bilingual_parity": "10 paired chapters, source URLs and chart values identical.",
+      "editorial_novelty": "Deepened financial biography of original partners and successors, imperial Brazilian loan issues of 1824, 1825 and 1829, railway financing from 1858, Napoleonic gold remittances and Suez political distinction.",
+      "visual_signature": "Dated cumulative family banking city branches 1810–1821; 1810 signatory counts mutually exclusive: 3 initial signatories vs 2 other sons.",
+      "source_check": "14 identical verified source URLs incl. authoritative Rothschild Archive signed 1810 agreement naming three sons Amschel, Salomon and Carl; Nathan and James not party.",
+      "bilingual_parity": "EN/PT sources canonical URLs, correct lineage and two chart value series match; metadata removed from article opening.",
       "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
     }
   }

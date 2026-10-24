@@ -40,14 +40,14 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 2,
+  "revision": 4,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
-    "editorial_novelty": "An archival history of Jewish emancipation constraints, Mayer Amschel and the five branches, wartime remittances, bonds, railways, Suez, succession and legends.",
-    "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
-    "source_check": "11 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
-    "bilingual_parity": "10 paired chapters, source URLs and chart values identical.",
+    "editorial_novelty": "Deepened financial biography of original partners and successors, imperial Brazilian loan issues of 1824, 1825 and 1829, railway financing from 1858, Napoleonic gold remittances and Suez political distinction.",
+    "visual_signature": "Dated cumulative family banking city branches 1810–1821; 1810 signatory counts mutually exclusive: 3 initial signatories vs 2 other sons.",
+    "source_check": "14 identical verified source URLs incl. authoritative Rothschild Archive signed 1810 agreement naming three sons Amschel, Salomon and Carl; Nathan and James not party.",
+    "bilingual_parity": "EN/PT sources canonical URLs, correct lineage and two chart value series match; metadata removed from article opening.",
     "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
   },
   "url": "/reports/2026/10/2026-10-24-rothschild-crossborder-banking-state-power.html",
@@ -116,7 +116,7 @@
     }
   },
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-24T22:08:31.094Z",
+  "qa_reviewed_at": "2026-10-24T23:27:54.054Z",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984"
+  "qa_reviewed_commit": "40e7d0ef7a816e4f721f9ca4fdc184a3da67696b"
 }
