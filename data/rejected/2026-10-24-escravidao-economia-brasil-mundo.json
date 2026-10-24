@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-10-24-SLAVERY",
+  "revision": 0,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T20:43:51.795Z",
+  "reviewed_commit": "8ac63c9ff6e4648acd7e81de252c8f4730ad3308",
+  "pending_blob_sha": "281f46df18e1db3b0309cdd8ea4ad6e299b4bd2e",
+  "source_blob_shas": {
+    "en": "ba03eba38d55d6ddc0e916bcf89e4d611ad512ce",
+    "pt-BR": "68e493c47ecfe86855edae44cfe01162f1e78f87"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "strict_editorial_depth_validator",
+      "location": "EN/PT-BR staged Markdown, only chart following the 1872/Atlantic/ILO denominators table; scripts/validate-editorial-depth.mjs",
+      "issue": "For nonweekly research dated 24 October 2026, the repository's strict editorial-depth validator requires at least two explicit chart fences per language. Each edition contains only one chart, despite sufficient words, source hosts, source URLs, H2s, one flow, one map and one table. The stricter depth gate fails; the more permissive RESEARCH-VISUALS.md minimum alone is insufficient.",
+      "evidence": [
+        "EN 2523 and PT-BR 2299 substantive words using script's wordCount expression; 15 H2 per language; 13 URLs from 10 hosts; 1 chart, 1 flow, 1 map, 1 table in each.",
+        "scripts/validate-editorial-depth.mjs: minCharts=isWeekly?3:2 and if(visual.chart<minCharts||...) failure."
+      ]
+    },
+    {
+      "type": "census_denominator_vintage_ambiguity",
+      "location": "EN/PT-BR section 'The 1872 census: what the 1.51 million figure shows' / 'O censo de 1872: o que o total de 1,51 milhão demonstra'",
+      "issue": "Both editions call 10,112,061 a 'later-adjusted' census population and pair it with 1,510,806 enslaved persons, while other official IBGE tabulations give 9,930,478 total and 1,510,806 enslaved. Both national totals appear in historical/official materials but reflect different compilations or vintages; the text does not identify which denominator it uses, why it is 'later-adjusted', or reconcile it with the other widely used total. This affects the enslaved share and historical comparability.",
+      "evidence": [
+        "EN: 'first nationwide Brazilian census recorded a later-adjusted population of 10,112,061 ... including 1,510,806 classified as enslaved'; PT-BR paired claim.",
+        "IBGE 2009 Censo 2010 historical note reports 9,930,478 total and 1,510,806 enslaved (https://censo2010.ibge.gov.br/images/pdf/censo2010/revista/vtc12_web.pdf).",
+        "IBGE 2019 historical timeline displays 10,112,061 (https://nada.ibge.gov.br/media/com_mediaibge/arquivos/47ad07161ac72b90ad0b2387ab2dda34.pdf). Reconciliation needed, not an unsupported declaration that either number is fabricated."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Directly below H1 in EN/PT-BR; H2s after visual blocks: 'The financial infrastructure of the Atlantic trade', 'Resistance, Black political organization and the economics of freedom', 'Global comparison and the methodological gap', 'The measurable inheritance of coerced labor'",
+      "issue": "Both editions begin with an administrative cutoff line rather than an analytical thesis. Four substantial sections after the visual evidence repeat material already covered in the Atlantic trade, abolition, global comparison and long-run inequality sections, with few new records or discriminating findings. The repetition creates apparent depth without enough incremental evidence and weakens the conclusion.",
+      "evidence": [
+        "EN lead '**Cutoff: 24 October 2026. Historical embarkations, national censuses and contemporary model-based estimates are distinct.**'; PT-BR paired 'Data-base...' line.",
+        "Later financial-infrastructure H2 repeats early 'The Atlantic system'; later Black-organization H2 repeats 'Resistance, abolitionism and legal chronology'; later global-comparison and inheritance H2s repeat earlier same-subject sections.",
+        "RESEARCH-PUBLISHING.md rejects stitched prose and repeated thesis restatements; EDITORIAL-STYLE.md requires direct, readable opening."
+      ]
+    },
+    {
+      "type": "visual_interpretation_and_evidence_scope",
+      "location": "The single carrier chart and qualitative `map` in both editions",
+      "issue": "The carrier chart is a legitimate sourced series, but the report needs a second distinct quantitative comparison. The geographic `map` is a qualitative region card including 'Asia and Middle East' although the plotted Atlantic dataset excludes those regions; its caveat prevents outright falsification but the surrounding text must make clear it is a conceptual scope comparison rather than a measured Atlantic flow map. Avoid adding arbitrary counts merely to satisfy the validator.",
+      "evidence": [
+        "SlaveVoyages estimates table confirms 12,521,337 total embarkations and carrier categories Portugal/Brazil 5,848,266, Great Britain 3,259,441, France 1,381,404 and Spain/Uruguay 1,061,524 (https://legacy.slavevoyages.org/assessment/estimates).",
+        "Current map explicitly says 'qualitative, not measured geographic routes'; it is not evidence of measured interregional flow quantities."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Provide at least two substantive, independently reproducible charts per locale; keep the existing SlaveVoyages carrier chart if correctly labelled and add a genuinely distinct series such as period-by-period embarkations from the same source or a separately dated comparable census series. State period, denominator, units and uncertainty; never compare cumulative embarkations to point-in-time population on one axis.",
+    "Reconcile the 1872 Brazilian census totals 10,112,061 and 9,930,478 using identified original and corrected tabulations. Name the vintage, define the denominator used for the 1,510,806 enslaved figure, compute the corresponding share transparently, and remove or substantiate 'later-adjusted'. Apply identically in EN/PT-BR.",
+    "Rewrite the opening into 1–3 analytical paragraphs that explain the coercion-to-capital/property/institutional transmission and why the Brazilian and global comparisons have distinct denominators; move cutoff note after the lead or to metadata.",
+    "Condense the four repeated late H2 sections or replace them with new documented comparative evidence, including specific contracts, census series, worker testimony or economic-historical research. End with a non-repetitive synthesis and observable research limitations.",
+    "Keep the qualitative map's geographic scope explicit; ensure its labels cannot be read as quantitative Atlantic routes to Asia/Middle East. Revalidate the two languages' chart values, visual signatures, source references and causal qualifications.",
+    "Preserve ID, slug, date and canonical identity. Return corrected pending plus both staged Markdown blobs for independent re-review; do not publish directly."
+  ],
+  "evidence": [
+    "Read complete pending and both staged editions at reviewed HEAD 8ac63c9ff6e4648acd7e81de252c8f4730ad3308; recorded real Git blob SHAs.",
+    "Exact strict-validator counting expressions reproduced against EN/PT-BR staged blobs; scripts/validate-editorial-depth.mjs and scripts/lib/visuals.mjs inspected, but full Node validators not executed.",
+    "SlaveVoyages official estimates verify 1501–1866 and carrier totals; ILO–IOM–Walk Free 2022 report confirms 2021 ~50m total, 28m forced labour and 22m forced marriage; IBGE historical census materials differ on total-population denominator."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 ready English-first; controlled political-economy-markets, three dimensions, six valid topics, three controlled phenomena, research-report and event-driven; staging paths valid."
+    },
+    "research_depth": {
+      "result": "failed",
+      "en_words": 2523,
+      "pt_br_words": 2299,
+      "required_words": 1700,
+      "en_h2": 15,
+      "pt_br_h2": 15,
+      "unique_urls_en": 13,
+      "unique_urls_pt": 13,
+      "source_hosts_en": 10,
+      "source_hosts_pt": 10,
+      "charts_en": 1,
+      "charts_pt": 1,
+      "required_charts": 2,
+      "flows_en": 1,
+      "flows_pt": 1,
+      "maps_en": 1,
+      "maps_pt": 1,
+      "tables_en": 1,
+      "tables_pt": 1,
+      "validator": "scripts/validate-editorial-depth.mjs strict expressions reproduced; not executed"
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "summary": "SlaveVoyages 12,521,337 and 5,848,266 carrier total verified; ILO modern estimates broadly verified. Census total population vintage and denominator require explicit reconciliation."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "summary": "The text avoids false equivalence of historical legal slavery and 2021 modelled forced labour, but the economic-inheritance argument remains generic and repetitious without longitudinal tests."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_material",
+      "summary": "Main series 12,521,337; 5,848,266; 1,510,806; 27.6m; 22m, chart values and 13 bibliography URLs are equivalent; changes require full recheck."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Only administrative cutoff immediately below H1.",
+      "headings": "Mechanism-specific H2s, but late four repeat earlier chapters.",
+      "language_localization": "PT-BR largely idiomatic.",
+      "repetition": "Trade finance, abolition activism, global comparison and inherited inequality repeated after figures.",
+      "cohesion": "Core history sequence is coherent but later appendices recycle same claims.",
+      "template_meta_qa": "Administrative date note and generic research agenda appear in reader-facing narrative."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature": "EN/PT-BR: 1 table, 1 chart, 1 flow, 1 map; chart [5.848266,3.259441,1.381404,1.061524] in both locales.",
+      "limitations": "RESEARCH-VISUALS.md base floor met but strict editorial-depth gate requires >=2 charts; qualitative map not measured routes."
+    },
+    "contextual_depth": {
+      "result": "partial",
+      "summary": "Transregional legal variation, Brazilian land/credit and abolition movements are materially incorporated; archival support for generational distribution mechanisms remains limited."
+    }
+  },
+  "contrary_evidence": [
+    "The Atlantic embarkation database does not measure arrivals alive or non-Atlantic slave systems.",
+    "The ILO modern slavery estimate uses modelled prevalence categories, not a legal chattel-slavery census.",
+    "Present-day inequality also depends on later migration, land policy, education, industrialisation and discrimination; no single causal share is identified."
+  ],
+  "limitations": [
+    "Historical census national total differs across official historical tabulations and must be reconciled; no claim that one is definitively wrong.",
+    "No full repository-wide Node execution without local checkout; deterministic relevant gates reproduced against Git blobs.",
+    "No public metadata or approval for this ID at immediately rechecked HEAD."
+  ],
+  "notes": "QA-only rejection; no reports/**, public indexes, CSS, taxonomy or institutional copy changed. Producer 3/5 to correct the same edition; no immediate handoff confirmed."
+}
