@@ -135,6 +135,22 @@ A claim that exchange vanished in all western Europe after Rome would be contrad
 
 This comparative history of medieval markets deliberately differs from a separate study of the manor and feudal rights. The latter must reconstruct peasant tenure, work dues, commons and seigneurial jurisdiction in detail, without claiming that an elite military fief is the same legal object as an agricultural estate.
 
+## Quantifying harvest risk without mistaking a model for a census
+
+A hypothetical medieval household harvesting 100 units, reserving 20 for seed and loss and paying a fixed rent of 25, has 55 units left for consumption or exchange. If harvest falls to 80 units while those two commitments are unchanged, only 35 remain. The chart is a *model of contractual incidence*, not an observed manor or a historical European average. It makes clear how nominally fixed rent amplifies the living-standard impact of a harvest failure even when the landlord's formal claim does not change. [8][10]
+
+```chart
+type: bar
+title: Hypothetical household remaining crop after fixed seed and rent commitments
+unit: model grain units; baseline 100 vs lower harvest 80, less 20 seed/loss and 25 rent in both cases
+Normal harvest remainder | 55
+Reduced harvest remainder | 35
+```
+
+The National Archives describes manorial court rolls, surveys, crop rules and property transfers as evidence that local medieval economies combined rural production, legal tenure and commercial exchange. This documentary source challenges the idea of universally closed barter villages. A town's grain market can be active while tenants remain obliged to provide work to a lord. Legal rights, trade intensity and physical production therefore evolve on partly independent axes. [12]
+
+A research comparison should pair weather and harvest records with grain prices, monetary dues, labour obligations and household size, then compare neighbouring areas with different rights. The Black Death offers another natural test: changing labour scarcity can affect wages, but landlords' control over mobility changes how much workers retain. Neither a rising post-epidemic wage nor one successful bank proves medieval society had become a uniform modern market economy.
+
 ### Source bibliography and methodological limits
 
 [1] Cambridge, Commerce and Communications in the New Cambridge Medieval History: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
@@ -158,5 +174,7 @@ This comparative history of medieval markets deliberately differs from a separat
 [10] Cambridge, Rural Society in the New Cambridge Medieval History: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/rural-society/5460DAB07534AC9926267591354CE64F
 
 [11] Oxford, Medici Bank 1397–1494: https://academic.oup.com/reference/62416/reference-article-abstract/555922868
+
+[12] UK National Archives, detailed manorial records as primary economic evidence: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
 
 **Method note:** Chart numbers are hypothetical. No global medieval GDP, universal real wage or average estate-extraction ratio is asserted without comparable historical evidence.
