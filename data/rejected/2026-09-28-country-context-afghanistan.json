@@ -2,56 +2,121 @@
   "schema_version": 2,
   "id": "MT-CC-2026-09-28-afghanistan",
   "revision": 0,
-  "program": "strategic-transitions",
-  "reviewed_at": "2026-10-10T11:24:26.486Z",
-  "reviewed_commit": "13f107d1a0a93abd4d8b5fbd02ae36abd49d60c5",
-  "pending_blob_sha": "669ab3edb4578b02d05fbbf43cbf9204d090888b",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T11:39:40.045Z",
+  "reviewed_commit": "3e669915bfb811a1ffbe9775abf6dc783c12970e",
+  "pending_blob_sha": "bf828ac0d0bce66c5906baf4cf476cc7ca44b896",
   "source_blob_shas": {
     "en": "80e024e64ec5d6a68b9f374739db4ef332a31efe",
     "pt-BR": "9371803624fbb80024629c6b9a71b551a9aaff64"
   },
-  "qa_status": "rejected",
+  "program": "strategic-transitions",
   "confidence": "high",
   "blocking_issues": [
     {
-      "check": "chronology_and_factual_cutoff",
-      "location": "pending.published_at vs en.md opening paragraph 3 / pt-BR.md opening paragraph 2",
-      "issue": "The staged editions explicitly claim an information cutoff of 29 September 2026, while the pending publication timestamp is 28 September 2026 at 18:00 -03:00. A public publication timestamp cannot precede the evidence cutoff by more than a day; the article would misrepresent when its research could have been completed.",
+      "type": "evidence_to_claim_traceability",
+      "location": "EN sections 'A smaller fiscal state', 'Aggregate recovery is not household recovery', 'Women and girls are a productive-capacity constraint'; PT-BR 'Estado fiscal menor', 'PIB e renda por pessoa podem divergir', 'Capital humano e acesso institucional'; both final Sources/Fontes sections",
+      "issue": "Neither language has a single numbered [n] in-text source marker despite numerous quantitative and sensitive factual claims. Eleven URLs appear only as an unnumbered bibliography. EDITORIAL-STYLE.md § 'Referências bibliográficas ao final' explicitly requires numbered in-text source references and a corresponding numbered reference list for new publications. Readers cannot audit which source supports 17.1%, 19.8%, 4.8%, -5.6%, 521 maternal deaths, or 14% versus 53%.",
       "evidence": [
-        "pending.published_at=2026-09-28T18:00:00-03:00",
-        "EN: Information cutoff: 29 September 2026",
-        "PT-BR: Corte de informação: 29 de setembro de 2026"
+        "EN and PT-BR each contain 0 numbered [n] markers and 11 unnumbered source URLs.",
+        "EDITORIAL-STYLE.md lines 278-282: use [1], [2], [3] in argument and full references at end.",
+        "World Bank 26 May 2026 and UNAMA 8 March 2026 are available primary sources, but claims are not linked to them in the body."
+      ]
+    },
+    {
+      "type": "fiscal_series_comparability",
+      "location": "EN 'A smaller fiscal state' paragraph 1; PT-BR 'Estado fiscal menor' paragraph 1",
+      "issue": "The text juxtaposes December 2025 'domestic tax revenues' projected at 17.1% of GDP with May 2026 'domestic revenue collection' at 19.8% of GDP and explains the difference only as estimate vintages. Tax revenue and total domestic revenue have different coverage, including non-tax and customs receipts; therefore the percentages cannot be interpreted as a revision of a single comparable fiscal series without harmonizing definitions.",
+      "evidence": [
+        "World Bank 11 December 2025 press release calls 17.1% 'domestic tax revenues'.",
+        "World Bank Afghanistan Economic Monitor March 2026 reports total domestic revenue AFN 272.4bn (19.8% of GDP) and separately tax revenue AFN 109.1bn, confirming materially different numerator coverage.",
+        "EN and PT-BR both describe the two estimates as different publication vintages but do not explicitly identify the coverage mismatch."
       ]
     }
   ],
   "required_fixes": [
-    "Correct pending.published_at to an actual publication time after the 29 September information cutoff, preserving the canonical ID, date and slug; do not backdate the publication time. If the intended evidence cutoff was actually 28 September, explicitly document it and reverify all claims/links available only later.",
-    "Regenerate the pending blob after correcting the temporal inconsistency and return the same ID for renewed independent QA; do not alter the public tree.",
-    "Retain the now-corrected World Bank vintage comparison: December 2025 projection +4.3%/-4.0% versus May 2026 estimate +4.8%/-5.6%, with 2025 population growth around 11% in the latter. Revalidate time-sensitive claims against the declared cutoff."
+    "Insert concise numbered source markers [n] at every material numerical, institutional and contested claim in both EN and PT-BR, including both charts and fiscal data; replace unnumbered bibliography with matching numbered document-level references at the end, retaining locale parity and source dates.",
+    "Reconcile 17.1% domestic tax revenue with 19.8% total domestic revenue: identify each numerator and fiscal/observation period, avoid treating the figures as a comparable same-series revision, and source both figures directly. If no comparable measure exists, state that clearly and avoid a numerical comparison implying improvement.",
+    "Preserve the same ID, date, slug, controlled taxonomy and linked canonical research. Return updated staged EN/PT-BR and pending, then rerun complete QA against new exact Git blob SHAs; do not create public bundle."
   ],
   "evidence": [
     {
       "source": "World Bank, Afghanistan Development Update, 26 May 2026",
       "url": "https://www.worldbank.org/en/news/press-release/2026/05/26/afghanistan-s-economy-shows-resilience-but-living-standards-are-falling",
-      "finding": "Confirms May 2026 GDP +4.8%, population about +11%, GDP per capita -5.6%; prior macro correction is present in both staged editions."
+      "finding": "Reports 4.8% GDP growth and ~11% population growth in 2025; figures agree with draft but require in-text source attribution."
+    },
+    {
+      "source": "World Bank, Afghanistan Economic Monitor, March 2026",
+      "url": "https://thedocs.worldbank.org/en/doc/0e8fcc8d331f2b21790da93ea0eacfc1-0310012026/original/Afghanistan-Economic-Monitor-March-2026.pdf",
+      "finding": "Reports total domestic revenue 19.8% of GDP and separately tax revenues, establishing a coverage difference from the 17.1% tax-revenue figure."
+    },
+    {
+      "source": "World Bank, 11 December 2025 economic update",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/12/10/afghan-economy-expands-amid-persistent-challenges",
+      "finding": "Labels 17.1% of GDP as projected domestic tax revenue."
+    },
+    {
+      "source": "UNAMA, 8 March 2026",
+      "url": "https://unama.unmissions.org/en/news/women-afghanistan-nearly-four-times-less-likely-men-have-access-formal-justice",
+      "finding": "14% women and 53% men consulted; correctly characterized as survey evidence, but not cited in-line."
     }
   ],
+  "taxonomy_issues": [],
   "checks": {
-    "taxonomy": "passed",
-    "translation": "provisionally_passed",
-    "visual_evidence_readiness": {
+    "schema_and_taxonomy": {
       "result": "passed",
-      "signature": "table + two vintage-labeled bar charts + flow/diagram + map in each locale"
+      "notes": "Ready v2 English-first, strategic-transitions, all three dimensions, country AF and related published MT-ST-2026-09-28-afghanistan-post-2021; controlled values valid."
+    },
+    "research_depth": {
+      "result": "passed_for_reviewed_material",
+      "notes": "EN 1882 and PT-BR 2168 substantive words; 14 level-2 sections each. 2026-09-28 predates stricter 2026-10-12 editorial-depth validator applicability."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Zero in-text numbered source markers in either language; fiscal numerator comparability unresolved."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_material",
+      "notes": "Acknowledges territorial/revenue improvements as contrary to failed-state narrative and recognizes GDP/per-capita and sanctions distinctions."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_material",
+      "notes": "Core claims, GDP chart series and evidence limitations equivalent; both locales share the same fiscal comparability and citation problems."
     },
     "editorial_publication_readiness": {
-      "result": "blocked",
-      "summary": "Opening itself carries a 29 September cutoff incompatible with publication metadata. Other prose and visuals substantially improved over the previous rejected blobs."
+      "result": "failed",
+      "opening": "Direct, specific analytical thesis; context linkage to originating report is visible.",
+      "headings": "14 substantive headings, no generic executive-summary template.",
+      "language_localization": "Generally natural EN/PT-BR; isolated compliance anglicism in PT-BR can be localized.",
+      "repetition": "Separate durable mechanisms from published post-2021 transition; no obvious duplicate dossier.",
+      "cohesion": "Progresses from geography and state formation through finance, production, social capacity and regional relations.",
+      "template_meta_qa": "No conspicuous agent QA narration, but unnumbered bibliography violates mandatory source-to-claim presentation."
     },
-    "factual_methodology": {
-      "result": "blocked_on_chronology",
-      "summary": "Central World Bank revision confirmed externally, but release chronology is internally impossible."
+    "visual_evidence_readiness": {
+      "result": "passed_for_reviewed_signature",
+      "signature": "Each locale: 1 markdown table, 2 matched bar charts (4.3/4.8 and -4.0/-5.6), 2 flow diagrams, 1 corridor map, 1 diagram.",
+      "limitations": "Visuals inspected for numeric parity and analytical purpose; repository-wide Node validators unavailable in this environment."
+    },
+    "contextual_depth": {
+      "result": "passed",
+      "notes": "Historical state formation, border institutions, labor, migration, education and regional dependencies are integrated into causal analysis."
     }
   },
-  "taxonomy_issues": [],
-  "notes": "Rejected current exact SHA tuple; previous public bundles, if any, remain unchanged. No publication or site-wide edits."
+  "contrary_evidence": [
+    "Territorial consolidation and stronger revenue collection contradict a simple failed-state description.",
+    "Aggregate GDP recovery does not imply household recovery when population grows faster and per-capita output falls.",
+    "Opium suppression demonstrates enforcement capacity but not a replacement rural economy.",
+    "Exchange-rate stability does not establish normal financial intermediation.",
+    "Geological resources do not constitute operating industrial capacity."
+  ],
+  "limitations": [
+    "No recent comprehensive census; population estimates change rapidly with mass returns.",
+    "International estimates use different periods and methods and should not be merged mechanically.",
+    "Fiscal, security and financial data are less transparent than in a normal statistical system.",
+    "Competing state claims on armed groups are attributed rather than treated as independently verified facts.",
+    "Planned infrastructure and announced mining projects are not treated as operating capacity.",
+    "Repository-wide Node validators could not run because this environment cannot clone the repository; static checks reproduced for this candidate.",
+    "Other claims and individual primary documents require revalidation after the producer changes the exact SHA tuple."
+  ],
+  "notes": "The previous 10 October rejection addressed impossible publication cutoff and had a different pending SHA; the timestamp mismatch is now corrected. No approval was issued. Prior public report remains untouched; no immediate producer execution claimed."
 }
