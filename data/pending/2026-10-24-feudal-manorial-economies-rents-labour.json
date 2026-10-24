@@ -107,13 +107,13 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026; research on medieval British and European tenure and legal institutions.",
     "editorial_novelty": "Manorial rent and labour analysis separated from complementary global medieval urban/trade study.",
-    "visual_signature": "One annotated hypothetical numeric allocation chart, detailed concept table, structural flow and qualified map per locale.",
-    "source_check": "9 matching university-published historical references.",
+    "visual_signature": "Two bilingual-parallel and expressly labeled model charts, methodology table, causal flow and geography map.",
+    "source_check": "9 matching university-published historical references. 2 additional independent archival/historical sources.",
     "bilingual_parity": "14 equivalent analytical chapters, identical source URLs and quantitative hypothetical chart series.",
     "methodology": "Explicitly disaggregate vassal fiefs, manorial estates, serfdom and local seigneurial rights; region-specific comparative history."
   }
