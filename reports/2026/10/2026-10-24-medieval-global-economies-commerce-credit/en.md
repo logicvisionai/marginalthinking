@@ -58,7 +58,7 @@ The growth period had vulnerabilities. Population pressure put some households o
 
 ## Craft guilds, apprenticeship, standards and exclusion
 
-Guilds shaped urban production through apprenticeship, standards, collective bargaining with town authorities and restrictions on market entry. Quality assurance can protect buyers where product attributes are difficult to observe. Training can accumulate human capital over long periods. Yet guild privileges can also exclude migrants, women or rivals and increase prices for customers. The effects vary by occupation, town and time. [3]
+Guilds shaped urban production through apprenticeship, standards, collective bargaining with town authorities and restrictions on market entry. Consistent product standards can protect buyers where product attributes are difficult to observe. Training can accumulate human capital over long periods. Yet guild privileges can also exclude migrants, women or rivals and increase prices for customers. The effects vary by occupation, town and time. [3]
 
 An apprenticeship agreement may offer instruction and future earnings, but also bind a young worker to a master's household under unequal legal conditions. A guild fee can finance shared functions or bar competition. No blanket claim of 'efficient medieval regulation' or 'entirely rent-seeking guilds' can survive without specific wage, output, price and entry records.
 
