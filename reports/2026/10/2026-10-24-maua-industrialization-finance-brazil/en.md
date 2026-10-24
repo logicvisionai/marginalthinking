@@ -92,7 +92,7 @@ The deterioration of Mauá's financial group culminated in the **mid-1870s** col
 
 In financial economics, a fall in creditors' confidence can be self-reinforcing. Withdrawing deposits forces sales of long-lived or illiquid assets; distressed prices reduce collateral; new creditors demand tougher terms; even previously promising projects cannot complete construction. But recognizing a run mechanism does not prove the original business had adequate capital or that every creditor acted irrationally. One must separate liquidity stress from insolvency and ask what assets could be realized in liquidation.
 
-Later public memory often telescopes an extended struggle into a single 'bankruptcy', erasing legal distinctions between companies, partners and restructurings. The judicial and financial instruments differed between stages of the crisis, as did the effects of international markets and the Empire's credit rules. Without such distinctions, modern development-policy analogies are unreliable.
+Later public memory often telescopes an extended struggle into a single 'bankruptcy', erasing legal distinctions between companies, partners and restructurings. A historical case study should identify the judicial and financial instrument in each episode, the time at which it happened, and the role of international markets and the Empire's credit rules. Without such distinctions, modern development-policy analogies are unreliable.
 
 ```map
 title: Documented activity locations and channels
@@ -101,38 +101,6 @@ Mauá–Inhomirim | First 14.5-km railway section in 1854 | Port and hinterland 
 Amazon basin | Steam navigation concessions | High fixed cost across long waterways
 Rio Grande do Sul | Parliamentary constituency and shipping interests | Political and regional intermediation
 ```
-
-## The sequence of the banks: 1851, 1853, 1854, 1866 and the liquidation
-
-Mauá's banking history was not the continuous expansion of a single institution. He helped organize a private Banco do Brasil in **1851**; the financial policy of **1853** merged that institution with Banco Comercial do Rio de Janeiro under a different issuing-bank arrangement. He declined to join the management of the reorganized institution. In **1854**, he pursued a separate private enterprise, Mauá, MacGregor & Cia., whose legal construction and shareholders reflected a search for autonomy from future government interventions. After the commercial and financial shocks of the 1860s, the firm was reorganized as Banco Mauá & Cia. in **1866**. The successive corporate names describe different contracts, shareholders and monetary circumstances, not a continuously identical bank. [9]
-
-This chronology matters to the problem of political and private risk. The government could constrain note issuance, grant charters or provide emergency support; bank managers nevertheless chose counterparties, maturities and the size of industrial exposure. A scholarly account published in *RAM* notes that official assistance during the **1864 banking crisis** allowed the Mauá enterprise to survive when others failed. The recurrent public portrait of an industrialist abandoned at every turn by an entirely hostile state is therefore historically inadequate. His relationship with the Empire combined public contracts, access to influential political circles, disputes over financial rules and occasional government support. [9]
-
-The economic operation depended on two clocks. Current liabilities—deposits, creditors, import bills and correspondent banking settlements—could be called before railway track, docks or industrial equipment generated enough cash. A diversified portfolio of long-lived assets can be worth more over time than its debts and still face insolvency today. Exchange exposure introduced a further constraint: obligations payable in London could not necessarily be met with sales or receivables in domestic currency at a stable rate. The failure of a particular lender cannot be inferred from investment volume alone; it is the pattern of cash claims and realizable collateral that matters.
-
-Mauá sought a moratorium in **1875** as the banking network deteriorated. The National Archives' biographical reconstruction recounts a subsequent public explanation to creditors and extensive asset disposals. It describes repayment of about **66% of liabilities over three years**, a claim that must be read in the administrative context of the biography rather than confused with a final percentage of every creditor's ultimate recovery. The sequence from suspension to judicial bankruptcy and private sale of assets rejects the shortcut of dating all economic collapse to a single headline. [10]
-
-## The entrepreneur's own documentary record and the dispute over bankruptcy
-
-The Chamber of Deputies catalogues Mauá's own publications: the **1858** report on navigation and commerce in the Amazon, a **1873** manifesto to the Chamber, the **1875** Paraná–Mato Grosso railway proposal, **O meio circulante do Brasil** in **1878**, and the **1878 exposition addressed to creditors and the public**. These texts are valuable evidence of what he proposed, defended and believed. They are not independent audits of whether each enterprise achieved its promised results. Their existence also establishes that his technical and political positions were developed through public interventions over decades rather than invented retrospectively by later admirers. [1]
-
-In his banking crisis, the press and Parliament did not speak with a single voice. Martins and Gambi's analysis of the **1874–1875** press and Senate debates documents both favourable interpretations and attacks. Rival readings attributed the breakdown to public finance decisions, external shocks, business management and politically mediated lending. An assessment based only on Mauá's own defence would turn a participant's explanation into an uncontested cause; one based only on adversarial editorials would make the opposite mistake. The divergence is substantive historical evidence about how financial rescues and insolvency were politically contested. [3]
-
-His five electoral mandates as deputy for Rio Grande do Sul—beginning in **1855** and recurring through **1872** according to the Chamber—also place the businessman directly inside the imperial political economy. Legislative service was not proof that he commanded the Cabinet or treasury; it did give him a visible arena to argue about commerce, finance and infrastructure. To separate a claim for compensation under a concession from a general fiscal-policy position, one must identify the contract, the legislative speech and the administrative decision involved. [1]
-
-## Industrial geography: where production capacity survived the financier
-
-The Chamber's register lists assets in several distinct regional and technical systems: the Ponta da Areia foundry; the Mauá railway and other rail interests; urban gas supply; coastal and Amazonian steam navigation; tugs for the Rio Grande do Sul bar; floating docks; leather production; and submarine telecommunications cables. This portfolio was geographically and operationally heterogeneous. Metallurgy could supply or repair ships, but an Amazon steam concession depended on regional freight demand and navigation regulation in a different way from an urban gas utility. [1]
-
-In transport, the economic value of a line depends on the network surrounding it. An isolated section that shortens a journey only marginally may attract little freight, even if built to sound engineering standards. A line connecting a port with export production and urban markets can deliver greater output without using a different locomotive. Consequently, counting inaugurated kilometres does not capture realized social savings. Ponta da Areia's recorded **72 vessels over eleven years** likewise measures production, not comparative cost, profitability or local sourcing rates. Distinguishing quantities avoids turning legitimate industrial accomplishments into unsupported financial returns. [2][8]
-
-After the collapse of the entrepreneur's financing vehicle, physical assets, trained workers, contracts and public expectations did not all disappear simultaneously. Machinery can pass to new owners, routes remain useful, and engineering knowledge circulates through workers and suppliers. The fate of the financier and that of industrial capability need separate timelines. Conversely, public investment that outlives a private bankruptcy is not automatically proof that the private financing terms were sound.
-
-## Slavery, emancipation and the boundaries of nineteenth-century development
-
-The industrial projects took place in a country whose legal slavery survived until **1888**. The contradiction extended beyond moral rhetoric. A society that allowed people to be owned as property restricted bargaining over wages, participation in consumer demand, education and the mobility of technical skills. Export routes could increase the efficiency with which coffee and other commodities reached ports while leaving rural ownership and labour relations unequal. These were simultaneous processes, not incompatible descriptions of the same economy. [4][7]
-
-Mauá's biography contains documented industrial innovation and documented entanglement with political authority. Neither makes him a solitary inventor of Brazilian capitalism. State-chartered rights were essential to railways, urban utilities and communication networks, while financial losses emerged from particular corporate decisions as well as wider institutional instability. His case reveals the fragile coexistence of modern infrastructure, international credit, concentrated property and a largely unfree labour order. No single choice between 'genius suppressed by the Empire' and 'banker who failed through his own errors' can account for that combination.
 
 ## What his legacy says about development economics
 
@@ -158,7 +126,7 @@ D Pedro II locomotives ordered | 12
 
 Industrial development in a slaveholding empire also depends on what does not appear in the entrepreneur's own ledger: household purchasing power, enforceable labour rights, education and the distribution of infrastructure access. Public expenditure can create spillovers while subsidizing unprofitable private positions. To evaluate the social investment, compare route-specific freight costs and service access with tariff guarantees and fiscal costs, and distinguish the commercial crisis from the societal value of surviving technical skills. [4][8]
 
-### Archival and historiographic references
+### Documentary sources and method
 
 [1] Brazilian Chamber of Deputies, parliamentary biography: https://www.camara.leg.br/deputados/660/biografia
 
@@ -174,8 +142,6 @@ Industrial development in a slaveholding empire also depends on what does not ap
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historic
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
 
-[9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
-
-[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mauao
+**Evidence limits:** Historical nominal amounts belong to distinct periods; grants and concessions do not prove causal outcomes without counterfactuals. Institutional self-reports and independent contemporary evidence carry different weight. Capital returns and political consequences require their own series.

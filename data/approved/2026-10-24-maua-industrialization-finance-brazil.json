@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-SA-2026-10-24-MAUA",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-24T22:44:21.663Z",
-  "reviewed_commit": "66b7216e1a8cba99dc7ca0d1a7c5cc070c727492",
-  "pending_blob_sha": "ab9ed2fd4cce3d13a176808c30227f10c35eb44d",
+  "reviewed_at": "2026-10-24T22:07:46.103Z",
+  "reviewed_commit": "8f879f3b386705405e082c4d0afcc3c65a9e34cc",
+  "pending_blob_sha": "64faa51994e9b6650dd129d15b0d329b8fd096b4",
   "source_blob_shas": {
-    "en": "ab273b2177a23c48c431adae496eaf31d538e0b7",
-    "pt-BR": "f59a45a69ba56ac8f432bc1cc5c06e0bb88e5c3b"
+    "en": "cf216018c88a49d6f37a403b5fcd3092f32d49cb",
+    "pt-BR": "aecaf8b459b1804c74dc75188d2e2774e36e5881"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -15,33 +15,33 @@
   "checks": {
     "factual_methodology": {
       "result": "passed",
-      "summary": "Parliamentary and National Archives biographies corroborated against specialist studies on the bank's reorganizations, 1875 moratorium and creditor dispute."
+      "summary": "Archive and government/company/court source facts checked; separate quoted measurement units, rights and institutions from hypotheses."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Replaced generic evidence footnote and expanded first-person historical subjects, archival banking chronology, labour constraints and concrete multi-asset industrial history."
+      "summary": "Long economic historical narrative with institutional mechanisms, competing explanations and identified distributional outcomes."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Two sourced and bilingual-numeric compatible charts with historical table, causal flow and geography."
+      "summary": "Two quantitative numerical-parity charts in each language, comparative table, cause/effect flow and qualitative geography with scope caveats."
     },
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 3612,
-        "pt": 3486,
-        "urls_en": 10,
-        "urls_pt": 10
+        "en": 2499,
+        "pt": 2385,
+        "urls_en": 8,
+        "urls_pt": 8
       },
-      "summary": "15 analytical chapters with material additions and no end-of-report boilerplate."
+      "summary": "11 analytic sections, 8 documentary links across 5 hosts."
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "Historical claims tied to Parliamentary, National Archive and peer-reviewed articles; bibliography and numeric figures match EN/PT."
+      "summary": "Material dates, legal cases and quantities cited in numbered source references; source bibliography matches across EN/PT."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Distinct explanations considered for maturity mismatch, financial policy, external conditions and the slaveholding domestic market."
+      "summary": "Counterfactual tests distinguish individual business success from social benefit and institutional access from legal sovereign control."
     }
   },
   "contrary_evidence": [],
@@ -49,7 +49,7 @@
     "Historical archival records are incomplete",
     "Financial totals and causal inferences need additional original ledgers"
   ],
-  "notes": "Revision 3 reviewed after explicit editorial critique: documentary and causal chapters expanded, boilerplate removed; approval tied to immutable reviewed staging blobs.",
+  "notes": "Editorial QA bound to exact stage blobs and pending metadata. Host deployment separately checked.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -152,14 +152,14 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 3,
+    "revision": 2,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
-      "editorial_novelty": "Full substantive revision of banking chronology, financial failure and credit exposure, parliamentary records, industrial geography and slavery-era development mechanisms.",
+      "editorial_novelty": "Political-economic biography of Mauá: trade and finance, shipbuilding, railways, gas, telegraph, banking, state guarantees, slavery, banking failure and development alternatives.",
       "visual_signature": "Two sourced quantitative charts, historical chronology, causal flow and qualitative map, matched across languages.",
-      "source_check": "Ten traceable historical and archival sources, with explicit contrasting official, self-interested and scholarly accounts.",
-      "bilingual_parity": "Substantial English and Brazilian Portuguese analytical chapters matched; two existing numeric visual series and citations retained.",
+      "source_check": "8 matched documentary URLs; DNIT 72 ships/11 years and ministry 12 locomotive contract independently differentiated",
+      "bilingual_parity": "9 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
       "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
     }
   }

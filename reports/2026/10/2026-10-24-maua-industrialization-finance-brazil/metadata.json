@@ -40,16 +40,17 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 3,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
-    "editorial_novelty": "Full substantive revision of banking chronology, financial failure and credit exposure, parliamentary records, industrial geography and slavery-era development mechanisms.",
+    "editorial_novelty": "Political-economic biography of Mauá: trade and finance, shipbuilding, railways, gas, telegraph, banking, state guarantees, slavery, banking failure and development alternatives.",
     "visual_signature": "Two sourced quantitative charts, historical chronology, causal flow and qualitative map, matched across languages.",
-    "source_check": "Ten traceable historical and archival sources, with explicit contrasting official, self-interested and scholarly accounts.",
-    "bilingual_parity": "Substantial English and Brazilian Portuguese analytical chapters matched; two existing numeric visual series and citations retained.",
+    "source_check": "8 matched documentary URLs; DNIT 72 ships/11 years and ministry 12 locomotive contract independently differentiated",
+    "bilingual_parity": "9 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
     "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
   },
+  "url": "/reports/2026/10/2026-10-24-maua-industrialization-finance-brazil.html",
   "locales": {
     "en": {
       "markdown": "en.md",
@@ -110,9 +111,8 @@
       "search_text": "Barão de Mauá: capitalismo industrial e os limites do Império escravista brasileiro Mauá Irineu Evangelista de Sousa Brazil industrialization Empire banking Ponta da Areia railways 1854 Bank Mauá collapse slavery and development"
     }
   },
-  "url": "/reports/2026/10/2026-10-24-maua-industrialization-finance-brazil.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-24T22:44:21.663Z",
-  "qa_reviewed_commit": "66b7216e1a8cba99dc7ca0d1a7c5cc070c727492",
-  "qa_confidence": "medium"
+  "qa_reviewed_at": "2026-10-24T22:07:46.103Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "8f879f3b386705405e082c4d0afcc3c65a9e34cc"
 }
