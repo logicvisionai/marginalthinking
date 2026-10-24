@@ -77,16 +77,6 @@ A separate study by Talita Alves de Messias examines Irineu's role as intermedia
 
 The episode connects three elements frequently separated in popular biographies: Treasury policy, private financing and regional military diplomacy. To move resources discreetly and credibly, political authorities could rely on commercial intermediaries, which in turn gained information about future state actions. Such access can create a genuine informational advantage without constituting ownership of the state. The episode also demonstrates why the industrialist's career cannot be reduced to isolated Brazilian inventions or to a conflict between a modern businessman and a supposedly uniform imperial administration. [11]
 
-## The National Archives' attribution and the slaveholding economy
-
-The Brazilian National Archives' biographical profile includes the **slave trade** among Mauá's fields of activity. That source-level attribution is material to his personal history and precludes treating him as detached from slavery. The brief biography, however, does not identify a particular shipment, contract, person traded, transaction date, or profit figure. It therefore cannot independently establish the scale, timing or specific form of the activities attributed to him. The distinction is between a documented institutional attribution and detailed transaction-level corroboration, not a declaration of innocence or an unsupported quantified accusation. [10]
-
-Credit, shipping, plantations and coerced labour were intertwined in the nineteenth-century Brazilian economy. The contribution of transport and industrial manufacturing did not erase the violence underlying slaveholding production. Equally, a general connection between merchants and the slave trade does not identify the actions of every individual merchant. Mauá's industrial record and this unresolved biographical attribution both belong in the historical account.
-
-## Credit and secret regional diplomacy in 1850
-
-Historian Talita Alves de Messias documents Mauá's intermediary role in **secret Brazilian financing to Uruguay in 1850**, during the Guerra Grande. Her examination of diplomatic records shows how access to political information and commercial opportunities intersected in the *Diplomacia do Patacão*. Intermediation gave the businessman influence over transfers and information without making him the author of Brazil's entire foreign policy. The episode places his career within regional state finance and geopolitical bargaining rather than only domestic engineering. [11]
-
 ## Slavery, labour markets and the contradiction of modernization
 
 Mauá operated in a slaveholding empire. The state protected ownership of enslaved people as a legal institution until **13 May 1888**; the 1850 traffic repression and 1871 and 1885 laws altered but did not extinguish the coercive labour system. Imported machinery, urban wage labour and better transport could coexist with coffee plantations dependent on enslaved labour. This is not an incidental 'social backdrop': coerced labour shaped household incomes, domestic demand, human capital and the political coalition making infrastructure decisions. [4][5][7]
@@ -198,12 +188,10 @@ Industrial development in a slaveholding empire also depends on what does not ap
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historicoo
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico/historico
 
 [9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
 
-[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mau
+[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua
 
 [11] Talita Alves de Messias, 1850 Brazil–Uruguay loan intermediation, História Econômica & História de Empresas: https://www.hehe.org.br/index.php/rabphe/article/view/807
-
-[11] Talita Alves de Messias, Irineu Evangelista de Souza na Guerra Grande, História Econômica & História de Empresas (2021): https://www.hehe.org.br/index.php/rabphe/article/view/807a
