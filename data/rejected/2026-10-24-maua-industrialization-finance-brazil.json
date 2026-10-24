@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-MAUA",
+  "slug": "2026-10-24-maua-industrialization-finance-brazil",
+  "revision": 3,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T22:45:10.009Z",
+  "reviewed_commit": "66b7216e1a8cba99dc7ca0d1a7c5cc070c727492",
+  "pending_blob_sha": "ab9ed2fd4cce3d13a176808c30227f10c35eb44d",
+  "source_blob_shas": {
+    "en": "ab273b2177a23c48c431adae496eaf31d538e0b7",
+    "pt-BR": "f59a45a69ba56ac8f432bc1cc5c06e0bb88e5c3b"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "evidence_traceability",
+      "location": "EN en.md lines 177 and 181; PT-BR pt-BR.md lines 177 and 181; all material claims citing [8] and [10]",
+      "issue": "Two original-source bibliography links are malformed and not independently retrievable as written in either locale. The DNIT railway history ends /historic instead of /historico; the Arquivo Nacional biography ends /mauao instead of /maua. These links are cited for 72 vessels/11 years, historical railway development, bank moratorium and recovery.",
+      "evidence": [
+        "Staged [8]: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historic ; actual DNIT source: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico (confirms 14.5 km and 72 ships).",
+        "Staged [10]: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mauao ; actual Arquivo Nacional source: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua ."
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "Both Markdown editions, two chart fences under 'Rail transport, contracts and the meaning of the 1854 milestone' / 'Ferrovias, contratos...' and 'Quantifying industrial output...' / 'Quantificar produção industrial...'",
+      "issue": "Both quantitative charts juxtapose different observation statuses or incomparable objects: 14.5 km of railway inaugurated in 1854 versus 60.337 km contracted in 1855, and 72 ships built versus 12 locomotives merely ordered for a different railway. Although titles warn these are not profit/productivity measures, the shared bar axes imply like-for-like quantitative comparison that is not analytically justified; two charts exist mechanically but are not two valid comparable evidence charts.",
+      "evidence": [
+        "Chart 1: 'Maua inaugurated | 14.5' versus 'D Pedro II contracted | 60.337'; Ministry of Transport explicitly identifies 14.5 km inaugurated 1854 and 60.337 km contracted 1855.",
+        "Chart 2: 'Ponta da Areia vessels built | 72' versus 'D Pedro II locomotives ordered | 12'; one is actual ship production, the other contractual procurement. RESEARCH-VISUALS.md bars mixing incompatible statuses/definitions do not satisfy substantive visual readiness."
+      ]
+    },
+    {
+      "check": "factual_methodology",
+      "location": "EN sections 'Slavery, labour markets and the contradiction of modernization' and 'Slavery, emancipation and the boundaries of nineteenth-century development'; corresponding PT-BR sections; bibliography [10]",
+      "issue": "The biography analyzes slavery almost exclusively as an external institutional constraint but omits a material source-level counterpoint: the Arquivo Nacional's biography explicitly attributes activity in the slave trade to Mauá. This allegation must be examined and attributed, not converted into an unsupported categorical inference; omission materially distorts the subject-specific evaluation of slavery and industrial capital.",
+      "evidence": [
+        "Arquivo Nacional, 'Irineu Evangelista de Sousa, barão e visconde de Mauá': 'Atuou em diferentes ramos como o tráfico negreiro, a construção de navios, ferrovias e manufaturas, além do sistema financeiro e de crédito.' https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua",
+        "The current two sections discuss 'a slaveholding empire' and 'a society that allowed people to be owned' without assessing this directly relevant archival attribution."
+      ]
+    },
+    {
+      "check": "editorial_publication_readiness",
+      "location": "EN en.md line 3; PT-BR pt-BR.md line 3, immediately after H1",
+      "issue": "Both public-facing editions begin with administrative Edition/Cutoff/Program metadata instead of the thesis. The Portuguese line additionally retains English date and program ('24 October 2026' and 'Global System & Power'), violating natural PT-BR and the first-reading institutional editorial standard.",
+      "evidence": [
+        "EN: '**Edition:** 24 October 2026 · **Cutoff:** 24 October 2026 · **Program:** Global System & Power'.",
+        "PT-BR: '**Edição:** 24 de outubro de 2026 · **Corte:** 24 October 2026 · **Programa:** Global System & Power'."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace [8] and [10] with the verified canonical DNIT and Arquivo Nacional URLs in BOTH language bibliographies; retest every claim citing them and retain exact citation numbering.",
+    "Rebuild both chart fences with comparable measurements, matched observation/contractual status, periods and units, using original source evidence. If evidence does not support two meaningful quantitative charts, do not promote the revision; keep non-comparable historical magnitudes in a clearly labelled table.",
+    "Investigate and explicitly attribute the Arquivo Nacional statement about Mauá and the slave trade, cross-check against independent historical scholarship/primary records, and distinguish allegation, documentation, and inference in both languages. Do not imply innocence or guilt without evidence.",
+    "Remove exposed administrative Edition/Cutoff/Program lines from both public articles, preserve date/cutoff in structured metadata, and ensure PT-BR wording is natural and fully localized.",
+    "Restage complete EN/PT-BR sources and update the pending sidecar LAST under the SAME canonical slug and ID with revision greater than 3 and new real Git blob SHAs. Preserve already public revision 2; do not replay this rejected SHA tuple."
+  ],
+  "evidence": [
+    "QA evaluated ready:true pending schema v2 revision 3 and both full staged sources at Git HEAD 66b7216e1a8cba99dc7ca0d1a7c5cc070c727492; exact pending/en/pt-BR blob SHAs captured.",
+    "Public reports/2026/10/2026-10-24-maua-industrialization-finance-brazil/metadata.json and existing approval cover revision 2, while current pending is revision 3; this rejection applies ONLY to revision 3 and does not invalidate revision 2.",
+    "Reproduced substantive structural checks: EN 3612 words, PT-BR 3486; 2 chart blocks, 1 flow, 1 map, 7 table lines per locale; two numeric chart series are byte-identical across locales. Numeric parity does not establish visual evidentiary validity.",
+    "Brazilian Ministry of Transport confirms first Mauá railway section 14.5 km inaugurated in 1854 and separate D. Pedro II contract for 60.337 km and 12 locomotives in 1855: https://www.gov.br/transportes/pt-br/assuntos/transportes-no-brasil-sintese-historica",
+    "DNIT historical page confirms 72 vessels over 11 years at Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico",
+    "Arquivo Nacional official biography supplies banking chronology, 1875 moratorium and material statement about slave trade: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua",
+    "Chamber of Deputies biographical register confirms parliamentary mandates in 1855, 1857, 1861, 1863 and 1872: https://www.camara.leg.br/deputados/660/biografia"
+  ],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 ready:true, revision 3, canonical slug matches already public revision 2; taxonomy controlled fields present."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "Historical numeric claims sampled against official records; material slavery-specific archival attribution omitted."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "Two cited bibliography links [8] and [10] are malformed in both locales."
+    },
+    "research_depth": {
+      "result": "passed_reproduced",
+      "en_words": 3612,
+      "pt_br_words": 3486,
+      "en_analytical_h2": 15,
+      "pt_br_analytical_h2": 15,
+      "source_urls_per_locale": 10,
+      "summary": "Depth/structure meets numeric floors, but mechanical validators were not executed end-to-end."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed_semantic",
+      "signature": {
+        "en": {
+          "charts": 2,
+          "flows": 1,
+          "maps": 1,
+          "table_lines": 7
+        },
+        "pt-BR": {
+          "charts": 2,
+          "flows": 1,
+          "maps": 1,
+          "table_lines": 7
+        }
+      },
+      "numeric_parity": true,
+      "summary": "Two bar comparisons mix realized versus contracted activity and ships built versus locomotives ordered; not valid like-for-like evidence."
+    },
+    "translation_check": {
+      "result": "partial",
+      "summary": "Numeric charts and sections equivalent; PT-BR opening retains English date and program."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "summary": "Financing and institutional counterfactuals present, but historical slavery attribution requires integration."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Visible administrative labels precede thesis in both editions.",
+      "language_localization": "Portuguese opening contains English date and program.",
+      "cohesion": "Substantial banking history and industrial geography added, but visual comparisons and slavery omission weaken evidentiary continuity."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "summary": "Full Node scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs could not run against complete repository because Git clone network access is unavailable in execution environment. Relevant structural rules reproduced on exact GitHub-staged text; material editorial failures independently block approval."
+    }
+  },
+  "limitations": [
+    "This is a rejection of revision 3 only; existing approved public revision 2 remains untouched.",
+    "No reports/**, public indices, CSS, taxonomy, or institutional content modified.",
+    "Source spot-checks do not substitute for full end-to-end Node build validation of a corrected revision."
+  ],
+  "notes": "Producer 3/5 (structural strategic-actor research) must restage correction. Previous rejection for same ID at legacy slug revision 0 was not replayed. No immediate producer or publisher run was invoked."
+}
