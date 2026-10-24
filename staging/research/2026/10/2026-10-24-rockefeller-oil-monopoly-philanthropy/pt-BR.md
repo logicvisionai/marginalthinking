@@ -117,6 +117,22 @@ A economia política equilibrada rejeita tanto a tese de que riqueza elevada cau
 
 A importância histórica é a transformação institucional: capital de refino tornou-se riqueza diversificada, influência política e organizações patrimoniais. A questão democrática permanente é preservar os benefícios de produção eficiente e financiamento filantrópico de longo prazo, restringindo exclusão, fiscalizando deveres públicos e protegendo autonomia científica e civil.
 
+## Comando jurídico, divisão societária e distribuição dos ganhos
+
+Os Arquivos Nacionais americanos identificam **nove trustees** na direção das empresas reunidas pelo arranjo de 1882; o Rockefeller Archive menciona **42 titulares iniciais de certificados**. Não são grandezas equivalentes: uma mede pessoas com comando societário, a outra conta titulares de direitos econômicos cujas participações não eram necessariamente iguais. Um pequeno grupo decisório podia controlar rede industrial ampla sem fundir toda refinaria numa pessoa jurídica convencional. [1][9]
+
+A decisão da Suprema Corte de 1911 examinou estrutura e exercício de poder monopolista ao longo de décadas. O acórdão descreve milhares de páginas de evidências. Não cabe reduzi-lo à regra de que toda empresa lucrativa com preço baixo é legal nem à ideia de que escala, por si só, é proibida. Ganhos de eficiência do refino padronizado, logística e distribuição devem ser pesados separadamente dos mecanismos de exclusão de concorrentes. As parcelas históricas de mercado têm denominadores diferentes — capacidade de refino, produção e vendas — e não devem ser tiradas numa média. [4][10][11]
+
+```chart
+type: bar
+title: Truste Standard Oil em 1882, funções de controle e direitos econômicos distintos
+unit: pessoas, não ações ou porcentagem de propriedade
+Trustees com controle corporativo | 9
+Titulares iniciais de certificados | 42
+```
+
+Depois da desagregação, instalações continuaram operando e acionistas conservaram direitos sobre sucessoras. Remédio estrutural muda controle e incentivos, não a existência de todos os ativos produtivos. Programas filantrópicos constituem outra categoria: subvenções em saúde podem ser úteis enquanto prioridades escolhidas por doadores suscitam questões de autonomia científica e responsabilização democrática. Nenhum indicador — participação no refino, fortuna acionária ou doações históricas — estabelece saldo social final sem comparar preços, concorrência, resultados dos serviços e poder institucional.
+
 ### Documentos, obras e metodologia
 
 [1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
@@ -134,5 +150,11 @@ A importância histórica é a transformação institucional: capital de refino 
 [7] US Library of Congress, historical oil and gas industry guide: https://guides.loc.gov/oil-and-gas-industry/history
 
 [8] Rockefeller Archive Center, family and biographies: https://rockarch.org/resources/about-the-rockefellers/
+
+[9] US National Archives: Sherman Antitrust Act and Standard Oil trust: https://www.archives.gov/milestone-documents/sherman-anti-trust-act
+
+[10] Cornell Legal Information Institute: Standard Oil 1911 Supreme Court ruling: https://www.law.cornell.edu/supremecourt/text/221/1
+
+[11] PBS: Rockefeller historical chronology: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-timeline/
 
 **Limites de evidência:** Não somar valores nominais de períodos diferentes nem inferir causalidade de concessões ou subvenções sem contrafactuais; distinguir declarações institucionais de documentação pública independente. Resultados de investimentos e consequências políticas exigem séries próprias.
