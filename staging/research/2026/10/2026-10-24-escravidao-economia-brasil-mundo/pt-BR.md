@@ -83,6 +83,26 @@ Europa | Intermediação marítima, crédito e consumo | Agentes e governos tinh
 
 A documentação não permite reduzir toda forma histórica de dependência à mesma categoria nem derivar responsabilidade de um grupo a partir de sua ancestralidade. Embarques atlânticos não medem escravidão em terra, e prevalência de trabalho forçado moderno não constitui estoque legal de pessoas como patrimônio. Acompanhamento exige estatísticas comparáveis, registros judiciais, histórias de trabalhadores, documentação de proprietários e avaliação causal das políticas públicas.
 
+## Infraestrutura financeira do tráfico atlântico
+A escravização oceânica não funcionava apenas por força física. Comerciantes financiavam viagens, embarcações, seguros, mantimentos e aquisições a crédito. Senhores de plantações buscavam terra e trabalhadores, credores aceitavam direitos sobre safras futuras e portos cobravam tributos de mercadorias exportadas. Os fluxos conectavam balanços distantes sem tornar todos os financiadores igualmente responsáveis por cada decisão. Reconstrução adequada identifica datas e beneficiários de cada operação, preservando a condição das pessoas traficadas como vítimas de coerção, não apenas lançamentos contábeis. [1][7]
+
+Lucros mercantis e arrecadação estatal não equivaliam a prosperidade social. A alta rentabilidade do traficante refletia danos impostos às vítimas; produção bruta das fazendas dependia da supressão de salário e mobilidade. Sem alternativas que pessoas livres poderiam ter escolhido, lucro convencional não mede bem-estar perdido. Registros de navios informam melhor sobre rotas e embarques que sobre famílias, culturas e separações; processos e testemunhos pessoais são complementos indispensáveis.
+
+## Resistência, organização política negra e economia da liberdade
+A abolição decorreu de diversas formas de ação: fugas, demandas judiciais, ativismo negro livre, imprensa abolicionista, quilombos, associações urbanas e alianças políticas. O significado de uma lei depende de quem conseguia aplicá-la. Regras contra o tráfico não protegiam automaticamente pessoas mantidas ilegalmente em cativeiro, e terminar a propriedade jurídica não produzia imediatamente contratos salariais sem intimidação. A cronologia brasileira de 1850 a 1888 precisa separar proibição de importação, leis de status gradual e abolição final. [7][13]
+
+A liberdade possuía conteúdo econômico: escolher trabalho e residência, guardar ganhos, possuir terra, educar filhos e participar das instituições. Regiões de patrimônio e autoridade concentrados podiam manter exploração severa mesmo sem escravidão formal. O efeito da abolição deve ser examinado por escrituras, escolas, renda familiar e cumprimento de direitos civis. A ruptura jurídica foi decisiva, mas a distribuição dos recursos produtivos seguiu outro calendário.
+
+## Comparação internacional e problema metodológico
+Os 12,52 milhões de embarques atlânticos estimados não correspondem à prevalência mundial de toda a história antiga ou medieval. Registros de viagens atlânticas são relativamente estruturados; muitas redes terrestres e do oceano Índico apresentam documentos descontínuos e classificações jurídicas diferentes. Um ranking que presumisse cobertura estatística homogênea seria falso. Estimativas contemporâneas de casamentos e trabalho forçados, por sua vez, dependem de modelos e inquéritos, não de manifestos marítimos. São danos e períodos diferentes. [1][2][7]
+
+Ainda é possível comparar mecanismos: acesso à violência organizada; restrição de saída; credores lucrando com produção coercitiva; Estados reconhecendo ou contestando propriedade sobre pessoas; e distribuição de patrimônio após reformas. Nenhuma etnia deve receber responsabilidade hereditária coletiva por contratos de comerciantes e governos específicos. Importa identificar jurisdição, compradores, proprietários, pessoas exploradas e alternativas de resistência.
+
+## Herança mensurável do trabalho coercitivo
+Desigualdade atual possui causas múltiplas; a escravidão foi instituição central, mas não se obtém conta de reparação precisa multiplicando diferenças patrimoniais contemporâneas por embarques históricos. Arquivos podem documentar origem de ativos ou danos identificáveis; comparações macro exigem controles para migração, escola, política fundiária posterior, industrialização e discriminação racial. Valores monetários de séculos diferentes exigem distinção entre moeda, poder de compra e situação jurídica. [4][11]
+
+A agenda deveria relacionar registros de fazendas e municípios a trajetórias de alforria, educação, crédito e trabalho nas gerações seguintes, sem apagar histórias produzidas pelas próprias comunidades ou limites dos censos oficiais. Políticas contra exploração atual exigem fiscalização e justiça; ações sobre desigualdade herdada incluem escola, terra, representação e investimento social. O resultado deve ser avaliado por mudanças em condições de vida e direitos, não somente pelos gastos anunciados.
+
 ### Fontes primárias e estudos metodológicos
 
 [1] SlaveVoyages, transatlantic voyage-based estimates: https://legacy.slavevoyages.org/assessment/estimates
