@@ -77,16 +77,6 @@ Pesquisa de Talita Alves de Messias examina a atuação de Irineu como intermedi
 
 O episódio conecta elementos frequentemente separados nas biografias populares: Tesouro imperial, crédito privado e diplomacia militar regional. Para transferir recursos com discrição e credibilidade, autoridades políticas podiam recorrer a intermediários comerciais, que por sua vez obtinham informação sobre decisões futuras do Estado. O acesso gerava vantagem informacional efetiva sem equivaler a propriedade do governo. Também demonstra que a trajetória do industrial não pode ser reduzida a invenções nacionais isoladas nem à oposição simplista entre empresário moderno e administração imperial inteiramente homogênea. [11]
 
-## A atribuição do Arquivo Nacional e os vínculos com a economia escravista
-
-O verbete biográfico do **Arquivo Nacional** inclui o **tráfico negreiro** entre os ramos de atuação atribuídos a Mauá. Trata-se de informação relevante sobre sua trajetória pessoal, incompatível com a imagem de empresário alheio à escravidão. Entretanto, o texto sintético não identifica carregamento específico, contrato, pessoa negociada, data da transação ou lucro obtido. A atribuição arquivística não determina isoladamente escala, período nem modalidade de participação. Há diferença entre o registro institucional de uma atividade e a comprovação detalhada de operações individuais; reconhecer essa diferença não significa absolver o empresário nem atribuir valores sem documentos. [10]
-
-Crédito, transporte, fazendas e trabalho escravizado estavam interligados no Brasil oitocentista. As contribuições industriais e ferroviárias não apagavam a violência que sustentava parte da produção exportadora. Ao mesmo tempo, a inserção geral dos negociantes nas redes de tráfico não permite identificar automaticamente ações específicas de cada comerciante. A atribuição biográfica sobre Mauá e sua participação documentada na modernização devem aparecer juntas.
-
-## Crédito e diplomacia regional sigilosa em 1850
-
-A historiadora Talita Alves de Messias documenta a atuação de Mauá como intermediário de **empréstimos secretos brasileiros ao Uruguai em 1850**, durante a Guerra Grande. O estudo de registros diplomáticos mostra a combinação entre acesso à informação política e oportunidades comerciais na *Diplomacia do Patacão*. A intermediação conferia participação nas transferências e conhecimento relevante, sem transformar o empresário no formulador de toda a política externa brasileira. O episódio insere sua atuação no financiamento estatal e nas disputas geopolíticas regionais, não apenas na engenharia doméstica. [11]
-
 ## Escravidão, mercado de trabalho e contradição da modernização
 
 Mauá atuou em Império escravista. O Estado protegeu juridicamente a propriedade de pessoas escravizadas até **13 de maio de 1888**; a repressão ao tráfico em 1850 e as leis de 1871 e 1885 alteraram, sem extinguir, o sistema coercitivo. Máquinas importadas, salários urbanos e ferrovias podiam coexistir com fazendas de café baseadas em trabalho cativo. Não se trata de 'contexto social' secundário: a coerção determinava renda familiar, mercado consumidor, formação de competências e a coalizão política que decidia sobre infraestrutura. [4][5][7]
@@ -198,12 +188,10 @@ Desenvolvimento industrial num Império escravista também depende do que não a
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historicoo
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico/historico
 
 [9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
 
-[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mau
+[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua
 
 [11] Talita Alves de Messias, intermediação dos empréstimos Brasil–Uruguai de 1850, História Econômica & História de Empresas: https://www.hehe.org.br/index.php/rabphe/article/view/807
-
-[11] Talita Alves de Messias, Irineu Evangelista de Souza na Guerra Grande, História Econômica & História de Empresas (2021): https://www.hehe.org.br/index.php/rabphe/article/view/807a
