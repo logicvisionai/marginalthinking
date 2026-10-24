@@ -105,13 +105,13 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 Oct 2026. Medieval historiography and regional data as in source bibliography.",
     "editorial_novelty": "Global comparative Medieval economies deliberately distinct from estate-level feudal study.",
-    "visual_signature": "One hypothetical explanatory chart, evidence-definition table, causal flow and qualitative regional map in each language.",
-    "source_check": "11 parallel scholarly research citations; dated/regionally bounded claims.",
+    "visual_signature": "Two bilingual-parallel and expressly labeled model charts, methodology table, causal flow and geography map.",
+    "source_check": "11 parallel scholarly research citations; dated/regionally bounded claims. 1 additional independent archival/historical sources.",
     "bilingual_parity": "12 aligned EN/PT sections, identical source URLs and numerical chart values.",
     "methodology": "Avoid spurious worldwide medieval GDP and treat illustrative allocation as hypothetical."
   }
