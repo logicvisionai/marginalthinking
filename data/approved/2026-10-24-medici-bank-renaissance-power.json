@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-MEDICI",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-24T22:08:31.091Z",
+  "reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984",
+  "pending_blob_sha": "3cf4a55dbe3db7d6c59b149c574123603dab9c81",
+  "source_blob_shas": {
+    "en": "6c7b1f7fc9c61ecdbd12e51b55f73b9dd7725ee7",
+    "pt-BR": "1be416d5cae8b8c6b32b220c369639685bc6ccd3"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Cross-referenced dated family archive, scholarly institutional history, and government/court documentary sources; authority distinguished from ownership and contracts."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Independent financial biography on bank partnerships, state contracts, credit and political leverage, with limitations on financial totals and conspiratorial claims."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two bilingual-parallel analytical quantitative charts with distinct measurement caveats, historical chronology, causal flow and geographic evidence map."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2142,
+        "pt": 2059,
+        "urls_en": 8,
+        "urls_pt": 8
+      },
+      "summary": "11 analytic chapters, 8 linked references over 6 domain names."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Cross-locale source URLs identical and linked numerals in prose; ownership or power claims limited to documented mandates."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Rejects unverified dynastic continuous corporate control and tests banking risk, repayment and institutional authority alternatives."
+    }
+  },
+  "contrary_evidence": [],
+  "limitations": [
+    "Surviving accounting ledgers do not establish a modern consolidated net worth",
+    "Contractual access does not prove unlimited political control"
+  ],
+  "notes": "Approved revision 2 from Git stage blobs, distinct from completed build or external deploy.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-MEDICI",
+    "slug": "2026-10-24-medici-bank-renaissance-power",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-medici-bank-renaissance-power/en.md",
+        "title": "The Medici: banking partnerships, papal finance, Renaissance politics and the limits of private capital",
+        "deck": "A monetary and institutional reconstruction of the Medici banking network, Florence's wool and silk economy, papal contracting, patronage, political power and 1494 collapse.",
+        "tags": [
+          "Família Medici",
+          "financial history",
+          "political power",
+          "banking"
+        ],
+        "keywords": [
+          "Medici bank",
+          "Giovanni di Bicci",
+          "1397",
+          "1420 papal depositary",
+          "Cosimo",
+          "Lorenzo",
+          "1494",
+          "Florence",
+          "credit",
+          "Renaissance"
+        ],
+        "regime": "Cross-border private finance and contested public and political authority.",
+        "key_risk": "Mistaking banking access and family historical prominence for all-encompassing political or monetary sovereignty.",
+        "watch": [
+          "Archival contract records",
+          "Revisions to institutional history",
+          "Legal ownership and counterparty rights"
+        ],
+        "search_text": "The Medici: banking partnerships, papal finance, Renaissance politics and the limits of private capital Medici bank Giovanni di Bicci 1397 1420 papal depositary Cosimo Lorenzo 1494 Florence credit Renaissance"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-medici-bank-renaissance-power/pt-BR.md",
+        "title": "Os Medici: sociedades bancárias, finanças papais, política renascentista e limites do capital privado",
+        "deck": "Reconstrução monetária e institucional da rede Medici, economia têxtil de Florença, finanças papais, mecenato, poder político e crise de 1494.",
+        "tags": [
+          "Família Medici",
+          "história financeira",
+          "poder político",
+          "bancos"
+        ],
+        "keywords": [
+          "Medici bank",
+          "Giovanni di Bicci",
+          "1397",
+          "1420 papal depositary",
+          "Cosimo",
+          "Lorenzo",
+          "1494",
+          "Florence",
+          "credit",
+          "Renaissance"
+        ],
+        "regime": "Financiamento privado transfronteiriço e autoridade pública e política contestada.",
+        "key_risk": "Confundir acesso bancário e prestígio histórico de famílias com soberania monetária ou política ilimitada.",
+        "watch": [
+          "Contratos em arquivos",
+          "Revisões da historiografia",
+          "Direitos jurídicos de propriedade e das contrapartes"
+        ],
+        "search_text": "Os Medici: sociedades bancárias, finanças papais, política renascentista e limites do capital privado Medici bank Giovanni di Bicci 1397 1420 papal depositary Cosimo Lorenzo 1494 Florence credit Renaissance"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "institutions-governance",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
+      "editorial_novelty": "A monetary and institutional reconstruction of the Medici banking network, Florence's wool and silk economy, papal contracting, patronage, political power and 1494 collapse.",
+      "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
+      "source_check": "7 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
+      "bilingual_parity": "9 paired chapters, source URLs and chart values identical.",
+      "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
+    }
+  }
+}

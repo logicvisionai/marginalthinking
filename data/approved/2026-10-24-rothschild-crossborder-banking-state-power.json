@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-ROTHSCHILD",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-24T22:08:31.094Z",
+  "reviewed_commit": "41a7fa0c81344e39ad37751169e741d058d67984",
+  "pending_blob_sha": "c42d2fbe12b22a5005da208e567ea7bc9a381597",
+  "source_blob_shas": {
+    "en": "f2cffd3bdd0f55de5ac8daecd7c4ee7c70035c51",
+    "pt-BR": "e78d165b8c0f733a5d76217ce11cead434a343dc"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Cross-referenced dated family archive, scholarly institutional history, and government/court documentary sources; authority distinguished from ownership and contracts."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Independent financial biography on bank partnerships, state contracts, credit and political leverage, with limitations on financial totals and conspiratorial claims."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two bilingual-parallel analytical quantitative charts with distinct measurement caveats, historical chronology, causal flow and geographic evidence map."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2407,
+        "pt": 2249,
+        "urls_en": 12,
+        "urls_pt": 12
+      },
+      "summary": "12 analytic chapters, 12 linked references over 4 domain names."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Cross-locale source URLs identical and linked numerals in prose; ownership or power claims limited to documented mandates."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Rejects unverified dynastic continuous corporate control and tests banking risk, repayment and institutional authority alternatives."
+    }
+  },
+  "contrary_evidence": [],
+  "limitations": [
+    "Surviving accounting ledgers do not establish a modern consolidated net worth",
+    "Contractual access does not prove unlimited political control"
+  ],
+  "notes": "Approved revision 2 from Git stage blobs, distinct from completed build or external deploy.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-ROTHSCHILD",
+    "slug": "2026-10-24-rothschild-crossborder-banking-state-power",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-rothschild-crossborder-banking-state-power/en.md",
+        "title": "The Rothschild banking network: sovereign credit, family partnerships and the limits of financial power",
+        "deck": "An archival history of Jewish emancipation constraints, Mayer Amschel and the five branches, wartime remittances, bonds, railways, Suez, succession and legends.",
+        "tags": [
+          "Família Rothschild",
+          "financial history",
+          "political power",
+          "banking"
+        ],
+        "keywords": [
+          "Rothschild Archive",
+          "Mayer Amschel",
+          "five sons",
+          "Frankfurt",
+          "Napoleonic War",
+          "Waterloo myth",
+          "Prussian loan 1818",
+          "Suez loan 1875",
+          "sovereign borrowing",
+          "historical banking"
+        ],
+        "regime": "Cross-border private finance and contested public and political authority.",
+        "key_risk": "Mistaking banking access and family historical prominence for all-encompassing political or monetary sovereignty.",
+        "watch": [
+          "Archival contract records",
+          "Revisions to institutional history",
+          "Legal ownership and counterparty rights"
+        ],
+        "search_text": "The Rothschild banking network: sovereign credit, family partnerships and the limits of financial power Rothschild Archive Mayer Amschel five sons Frankfurt Napoleonic War Waterloo myth Prussian loan 1818 Suez loan 1875 sovereign borrowing historical banking"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-rothschild-crossborder-banking-state-power/pt-BR.md",
+        "title": "A rede bancária Rothschild: crédito soberano, sociedades familiares e limites do poder financeiro",
+        "deck": "História arquivística das restrições aos judeus, de Mayer Amschel e das cinco casas, remessas militares, títulos, ferrovias, Suez, sucessão e lendas.",
+        "tags": [
+          "Família Rothschild",
+          "história financeira",
+          "poder político",
+          "bancos"
+        ],
+        "keywords": [
+          "Rothschild Archive",
+          "Mayer Amschel",
+          "five sons",
+          "Frankfurt",
+          "Napoleonic War",
+          "Waterloo myth",
+          "Prussian loan 1818",
+          "Suez loan 1875",
+          "sovereign borrowing",
+          "historical banking"
+        ],
+        "regime": "Financiamento privado transfronteiriço e autoridade pública e política contestada.",
+        "key_risk": "Confundir acesso bancário e prestígio histórico de famílias com soberania monetária ou política ilimitada.",
+        "watch": [
+          "Contratos em arquivos",
+          "Revisões da historiografia",
+          "Direitos jurídicos de propriedade e das contrapartes"
+        ],
+        "search_text": "A rede bancária Rothschild: crédito soberano, sociedades familiares e limites do poder financeiro Rothschild Archive Mayer Amschel five sons Frankfurt Napoleonic War Waterloo myth Prussian loan 1818 Suez loan 1875 sovereign borrowing historical banking"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "institutions-governance",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
+      "editorial_novelty": "An archival history of Jewish emancipation constraints, Mayer Amschel and the five branches, wartime remittances, bonds, railways, Suez, succession and legends.",
+      "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
+      "source_check": "11 matched archive, academic and government links with documentary and interpretive limits. 1 independent additions validated.",
+      "bilingual_parity": "10 paired chapters, source URLs and chart values identical.",
+      "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
+    }
+  }
+}
