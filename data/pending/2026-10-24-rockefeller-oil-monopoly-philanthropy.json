@@ -104,13 +104,13 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
     "editorial_novelty": "How Rockefeller wealth emerged from refining, freight logistics and corporate trusts, how antitrust changed the industry, and how the family constructed lasting civic institutions.",
-    "visual_signature": "One dated quantitative evidence chart, one historical chronology table, a causal flow and a geographically qualified map in both locales.",
-    "source_check": "8 parallel source URLs; governmental, archival and academic research; historical nominal quantities kept separate.",
+    "visual_signature": "Two dated quantitative evidence charts, chronology table, causal flow and map in each language.",
+    "source_check": "8 parallel source URLs; governmental, archival and academic research; historical nominal quantities kept separate. 3 independently verified additions; bibliography and numeric visual parity updated.",
     "bilingual_parity": "10 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
     "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
   }
