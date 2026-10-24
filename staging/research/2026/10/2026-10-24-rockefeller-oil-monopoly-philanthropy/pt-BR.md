@@ -109,6 +109,38 @@ Uma família rica pode conservar patrimônio, influenciar prioridades culturais 
 
 A transição energética acentua a diferença entre acionistas de petrolíferas, patrimônio filantrópico e advocacy. Organizações podem apoiar conservação ou pesquisa ambiental sem agir por instrução familiar oculta. História familiar rigorosa identifica pessoas e mandatos, sem transformar riqueza numa explicação total, sem provas, da mudança política e tecnológica.
 
+## A construção do império petrolífero: contabilidade, risco e conflito entre concorrência e coordenação
+
+John D. Rockefeller não ingressou no petróleo como descobridor de jazidas nem inventor do querosene. Sua vantagem se desenvolveu no comércio, no controle contábil e na escolha deliberada do refino, etapa sujeita à volatilidade do petróleo bruto e capaz de reduzir custos com utilização intensiva de equipamentos. O Rockefeller Archive descreve o aprendizado inicial em escrituração e comércio de produtos agrícolas antes dos investimentos em refinarias em Cleveland. Nos **anos 1860**, a expansão da oferta da Pensilvânia e a instabilidade das margens criavam oportunidades para novos negócios e falências frequentes de operadores menos capitalizados. [1][11]
+
+Cleveland dispunha de trabalhadores, ferrovias e acesso a rotas de transporte. Refinaria eficiente comprava petróleo bruto, fabricava querosene e outras frações, aproveitava subprodutos e embarcava mercadorias em lotes maiores. O volume podia reduzir custos médios quando equipamentos caros operavam perto da capacidade, mas vantagem de custo não tornava automaticamente todas as aquisições voluntárias ou concorrenciais. Rivais podiam ser comprados em condições razoáveis, pressionados por tarifas ferroviárias discriminatórias ou superados por custos unitários efetivamente maiores. Os mecanismos possuem consequências sociais e jurídicas diferentes. [3][4]
+
+A consolidação de **1872**, posteriormente conhecida como *Cleveland Massacre*, ocorreu num ambiente de disputa intensa entre refinadores e transportadores. Interpretar todas as compras como resgate benevolente de empresas ineficientes desconsidera denúncias dos operadores excluídos; tratar toda fusão como predatória ignora economias industriais possíveis. O elemento decisivo foi a combinação de escala manufatureira com poder de negociação perante ferrovias e potenciais concorrentes. A Suprema Corte, em 1911, examinou a sequência prolongada de combinações e restrições comerciais, não um cálculo automático de culpabilidade baseado no porte da empresa em determinada data. [4][10]
+
+O **truste de 1882** criou mecanismo jurídico para centralizar decisões de companhias nominalmente separadas. Rockefeller não possuía comando pessoal incontestável: a reconstrução da PBS descreve colegiado de nove administradores, certificados e divergências entre sócios. O controle era concentrado, mas sujeito a negociações e limites internos. O resultado decorreu de um sistema de gestão, engenharia societária e coordenação financeira, não de um personagem que emitia individualmente todas as ordens para refinarias e ferrovias. [11]
+
+## Minas de carvão, trabalhadores e Ludlow: a outra face da fortuna
+
+A história familiar não se encerra em preços de petróleo, desmembramento antitruste e doações universitárias. O patrimônio Rockefeller foi aplicado além da rede original de refinarias. No **Colorado**, a Colorado Fuel & Iron tornou-se centro de conflito industrial envolvendo práticas patronais, mineiros em greve, famílias, agentes privados de segurança e autoridades estaduais. Em **20 de abril de 1914**, a violência em **Ludlow** terminou com mortos no acampamento de grevistas; o guia de jornais históricos da Biblioteca do Congresso registra a destruição do local e a morte de pelo menos treze mulheres e crianças que ali se abrigavam. O episódio se converteu em debate nacional sobre poder patronal e legitimidade do emprego da força pública contra trabalhadores. [12]
+
+John D. Rockefeller **Jr.**, e não simplesmente seu pai, enfrentou questionamento público especialmente intenso por seus vínculos societários com a empresa. Confundir seus papéis transformaria a trajetória de uma família de várias gerações em decisões pessoais de um único homem. Depois do massacre, discutia-se até que ponto proprietários distantes podiam negar responsabilidade pelas condições trabalhistas enquanto recebiam dividendos. Não era necessário que um acionista comandasse pessoalmente agentes armados para existir questão de responsabilidade: participação proprietária, poderes de governança e capacidade de fiscalizar gestores eram relevantes. [2][12]
+
+O conflito trabalhista modifica a avaliação de eficiência industrial. Uma mineradora pode apresentar baixos custos salariais e produção contínua enquanto transfere à sociedade riscos de acidentes, dependência habitacional, gastos de policiamento e perda de vidas. O balanço social envolve condições de moradia, reivindicações sindicais, liberdade de negociação e emprego do aparato estatal. A posterior tentativa de reformar relações internas e a reputação da família também foi resposta à pressão do conflito. Gastos filantrópicos em uma área não corrigiam automaticamente práticas patronais em outra.
+
+## Combate a doenças como investimento institucional: resultados, seleção e desigualdade racial
+
+A Rockefeller Sanitary Commission iniciou sua campanha contra o ancilostomídeo em **1909**, apoiada em compromisso inicial de **US$ 1 milhão**. Profissionais de saúde mapearam infecções, realizaram exames, organizaram tratamento e divulgaram medidas sanitárias em onze estados do Sul americano. Pesquisas posteriores descrevem levantamento em mais de seiscentos condados e tratamento de mais de quatrocentas mil pessoas; são indicadores diferentes, um da cobertura territorial dos levantamentos, outro dos indivíduos tratados. A campanha exemplifica financiamento privado de atividades cujos benefícios poderiam atingir pessoas além do financiador. [13]
+
+A infecção prejudica a saúde e a participação escolar, de modo que o tratamento podia melhorar produtividade e frequência ao ensino. A mensuração causal, contudo, depende de comparar localidades tratadas e não tratadas levando em conta a seleção de condados participantes. A literatura econômica investigou essas diferenças; volume agregado de tratamentos não equivale a estimativa experimental de ganhos educacionais. A iniciativa também ocorreu em ordem social desigual. Segregação e distribuição racialmente assimétrica dos serviços públicos no Sul sob as leis Jim Crow influenciavam quem recebia proteção sanitária e quem tinha voz nas instituições locais. [13][14]
+
+O General Education Board e a Rockefeller Foundation institucionalizaram posteriormente doações em entidades especializadas, com conselhos, administração profissional de recursos e horizontes longos. Fundações duradouras conseguem apoiar vigilância epidemiológica, laboratórios e universidades durante décadas após o afastamento do fundador. Também escolhem quais problemas merecem recursos e sob quais condições. Criticar poder de agenda dos doadores não é negar efeitos positivos dos programas sanitários. Tampouco os benefícios da saúde pública apagam decisões antitruste ou o conflito de Ludlow: os processos pertenceram a organizações, direitos e mecanismos distintos.
+
+## Das pessoas às instituições: o que de fato permaneceu
+
+Ao longo das gerações, o nome 'Rockefeller' reúne pessoas diferentes, sociedades de investimento, patrimônios filantrópicos e instituições culturais. John D. Rockefeller Sr. conduziu a ascensão petrolífera. Seu filho enfrentou consequências políticas da concentração familiar de riqueza, inclusive nas relações trabalhistas, e promoveu iniciativas filantrópicas e imobiliárias. Descendentes posteriores participaram de ações cívicas, ambientais, financeiras e políticas sob mandatos diversos. Parentesco não constitui contrato de representação entre todas essas entidades. [1][2][6]
+
+A concentração histórica duradoura não correspondeu a comando secreto único sobre a sociedade americana. Consistiu em ativos petrolíferos, práticas de gestão, direitos societários, patrimônios de fundações e acesso a decisores, com possibilidade de converter riqueza privada em organizações permanentes. O julgamento antitruste demonstrou que o comando industrial concentrado podia encontrar limites legais; a filantropia mostra como recursos particulares modificam partes da vida pública sem equivaler a tributação estatal ou consentimento eleitoral. As duas trajetórias precisam ser consideradas conjuntamente, sem substituí-las por slogans de virtude ou vilania.
+
 ## Síntese: eficiência, antitruste e distribuição da riqueza privada
 
 A experiência Rockefeller produz três proposições testáveis. Primeiro, integração pode aumentar produtividade e reduzir custos, mas também permitir exclusão concorrencial; ambas devem ser medidas com dados operacionais e de mercado. Segundo, a divisão de um truste altera incentivos sem apagar riqueza ou tecnologias construídas. Terceiro, filantropia profissional financia ciência e educação úteis ao mesmo tempo que concentra a escolha de agendas fora da representação política. As três afirmações podem ser simultaneamente verdadeiras. [1][2][3][5]
@@ -133,7 +165,7 @@ Titulares iniciais de certificados | 42
 
 Depois da desagregação, instalações continuaram operando e acionistas conservaram direitos sobre sucessoras. Remédio estrutural muda controle e incentivos, não a existência de todos os ativos produtivos. Programas filantrópicos constituem outra categoria: subvenções em saúde podem ser úteis enquanto prioridades escolhidas por doadores suscitam questões de autonomia científica e responsabilização democrática. Nenhum indicador — participação no refino, fortuna acionária ou doações históricas — estabelece saldo social final sem comparar preços, concorrência, resultados dos serviços e poder institucional.
 
-### Documentos, obras e metodologia
+### Fontes documentais e historiografia
 
 [1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
 
@@ -155,6 +187,10 @@ Depois da desagregação, instalações continuaram operando e acionistas conser
 
 [10] Cornell Legal Information Institute: Standard Oil 1911 Supreme Court ruling: https://www.law.cornell.edu/supremecourt/text/221/1
 
-[11] PBS: Rockefeller historical chronology: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-timeline/
+[11] PBS: Rockefeller historical chronology: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-timeline
 
-**Limites de evidência:** Não somar valores nominais de períodos diferentes nem inferir causalidade de concessões ou subvenções sem contrafactuais; distinguir declarações institucionais de documentação pública independente. Resultados de investimentos e consequências políticas exigem séries próprias.
+[12] US Library of Congress, Ludlow Massacre contemporary newspaper record: https://guides.loc.gov/chronicling-america-ludlow-massacre
+
+[13] Economic history study of hookworm eradication, National Library of Medicine: https://pmc.ncbi.nlm.nih.gov/articles/PMC3800113/
+
+[14] Cambridge, racism and medical services in Jim Crow South: https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/how-the-struggle-for-public-health-in-the-jim-crow-south-reflected-and-reinforced-systemic-racial-health-inequality/92742C878268765C849F244F39E4135E/
