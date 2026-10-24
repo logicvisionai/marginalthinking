@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-IA-2026-10-24-AI-CAPITAL-CYCLE",
+  "slug": "2026-10-24-ai-capital-cycle-debt-technical-debt",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T15:15:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 34,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-ai-capital-cycle-debt-technical-debt/en.md",
+      "title": "The AI capital cycle: possible bubble, Big Tech debt and the technical liabilities of accelerated deployment",
+      "deck": "A 360-degree study of the AI investment boom: historical bubbles, 2026 corporate filings, cloud capex, lease commitments, circular credit, GPU depreciation, software technical debt, electricity, productivity and conditional paths through 2030.",
+      "tags": [
+        "AI bubble",
+        "Big Tech debt",
+        "hyperscalers",
+        "technical debt",
+        "private credit",
+        "GPU depreciation",
+        "data centers",
+        "AI ROI",
+        "capital allocation"
+      ],
+      "keywords": [
+        "24 October 2026 AI investment bubble",
+        "Microsoft 329.1 billion future leases",
+        "Oracle RPO 664 billion financing",
+        "IMF AI circular financing 300 650 1400",
+        "Meta Q3 34.91 capex",
+        "CoreWeave 104 billion backlog",
+        "Nvidia data center 89 billion",
+        "METR AI developers 19 percent slower",
+        "DORA GitClear technical debt",
+        "IEA 485 950 TWh"
+      ],
+      "regime": "Real technological adoption amid unprecedented financial commitments, debt-funded capacity, uneven monetization and uncertain technical replacement costs.",
+      "key_risk": "Demand and cash contribution from independent end users may fall short of fixed funding obligations, equipment replacement and secure production-software operation.",
+      "watch": [
+        "Hyperscaler incremental free cash flow after actual capex and lease principal",
+        "Uncommenced versus recognized cloud leases and funding costs",
+        "AI collateral, neocloud renewals and GPU rental rates by generation",
+        "Real productivity and error-adjusted enterprise ROI",
+        "Electricity commissioning, water/transformer bottlenecks and public-grid costs",
+        "Related-party contracts, repayment maturities and private-credit exposure"
+      ],
+      "search_text": "AI bubble 2026 Big Tech corporate debt capex Oracle Meta Microsoft Alphabet Amazon CoreWeave Nvidia AI infrastructure lease circular financing GPU depreciation software technical debt energy GDP productivity scenario 2030"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-ai-capital-cycle-debt-technical-debt/pt-BR.md",
+      "title": "A possível bolha da IA: dívidas das Big Techs, passivos técnicos e riscos da corrida por infraestrutura",
+      "deck": "Estudo aprofundado do ciclo de capital da inteligência artificial: bolhas históricas, balanços de 2026, capex de nuvem, arrendamentos, crédito circular, obsolescência de GPUs, débito técnico, eletricidade, produtividade e cenários até 2030.",
+      "tags": [
+        "bolha da IA",
+        "dívidas das Big Techs",
+        "hyperscalers",
+        "débito técnico",
+        "crédito privado",
+        "depreciação das GPUs",
+        "data centers",
+        "retorno da IA",
+        "alocação de capital"
+      ],
+      "keywords": [
+        "24 outubro 2026 bolha inteligência artificial",
+        "Microsoft 329,1 bilhões arrendamentos futuros",
+        "Oracle RPO 664 bilhões financiamento",
+        "FMI 300 650 1400 bilhões circular",
+        "Meta capex Q3 34,91",
+        "CoreWeave backlog 104 bilhões",
+        "Nvidia data center 89 bilhões",
+        "METR desenvolvimento 19% lento",
+        "DORA GitClear dívida técnica",
+        "IEA 485 950 TWh"
+      ],
+      "regime": "Adoção tecnológica real com compromissos financeiros excepcionais, capacidade financiada por dívida e monetização e reposição técnica incertas.",
+      "key_risk": "Margem em caixa de clientes finais independentes pode não cobrir encargos fixos de capital, renovação de equipamentos e operação segura de software produtivo.",
+      "watch": [
+        "Caixa livre incremental após capex e principal de arrendamentos",
+        "Contratos futuros versus passivos contabilizados e custo financeiro",
+        "Garantias, renovações e aluguel de GPUs por geração",
+        "Produtividade real e ROI empresarial ajustado por erros",
+        "Energia entregue, transformadores, água e custos públicos",
+        "Partes relacionadas, vencimentos e exposição de crédito privado"
+      ],
+      "search_text": "bolha IA 2026 big tech dívidas corporativas capex Oracle Meta Microsoft Alphabet Amazon CoreWeave Nvidia infraestrutura arrendamento financiamento circular depreciação GPUs débito técnico software eletricidade PIB produtividade cenários 2030"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "capital-markets",
+    "banking-credit",
+    "monetary-policy",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "trade-investment",
+    "inequality-distribution",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "scenarios": [
+    "Productive infrastructure absorption",
+    "Selective oversupply and consolidation",
+    "Funding and credit contagion"
+  ],
+  "limitations": [
+    "Financial data mix current filings, earlier vintages and analyst projections with explicit descriptions; no sum of incompatible stocks and flows.",
+    "Private AI firms and nonbank deals have limited disclosure; contingent obligations and counterparty chains remain incompletely measured.",
+    "Engineering and productivity studies may have selection and observability biases; no aggregate causal estimate is asserted.",
+    "IEA 2030 projection is a scenario, not measured future electricity demand."
+  ],
+  "contrary_evidence": [
+    "AI suppliers and cloud divisions report large realized revenue and deployment, inconsistent with zero commercial adoption.",
+    "NBER/Stanford find significant AI adoption; DORA finds positive results in disciplined organizations, contrary to universal technical harm.",
+    "METR 2025 task-level slowdown does not estimate economy-wide developer productivity in 2026.",
+    "Central banks identify financing fragility, but do not establish a systemic default wave today."
+  ],
+  "producer_checks": {
+    "information_cutoff": "24 Oct 2026; latest verified Meta Q3 Oct 21, Oracle Sep 10, Microsoft fiscal Jun 30 annual, Google/Amazon Jul, Nvidia Aug, IMF Oct 13, BoE Sep 30, IEA Apr, Stanford 2026 and NBER Oct revision.",
+    "editorial_novelty": "Cross-layer 2026 AI capital-cycle research joining debt, leases, contractual revenue, physical grids and production software technical debt; distinct from prior general technology abundance signal and macro bulletins.",
+    "visual_signature": "Two comparable charts (IEA TWh 2025 observed versus 2030 scenario; Meta Q2 Q3 capex) per locale; three substantive tables, causal flow and regional exposure map.",
+    "source_check": "32 matched URLs from BIS, IMF, Bank of England, IEA, official investor disclosures (Microsoft, Oracle, Meta, Alphabet, Amazon, Nvidia, CoreWeave), NBER, Stanford, METR, Google DORA, NIST, FTC, independently qualified analyst/observational methods.",
+    "bilingual_parity": "Matched analytical headings, 32 identical links, quantitative charts and the same historical/accounting/credit/debt technical mechanisms in EN and PT-BR.",
+    "methodology": "Differentiate realized capex and supplier sales from contract backlog, uncommenced lease liabilities, issued/outstanding debt, equity financing, depreciation and technology maintenance. Counterfactual scenarios not deterministic forecasts."
+  }
+}
