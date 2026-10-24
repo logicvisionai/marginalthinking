@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-24",
+  "checked_at": "2026-10-24T05:02:29-03:00",
+  "scope": "Daily source-anchored screening of all active editorial lines. Nonpublic editorial audit only; does not establish negative evidence across every possible source or perform public-system reconciliation.",
+  "registry_updated_at": "2026-10-20",
+  "reviewed_line_count": 21,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "staged_pending_qa",
+      "note": "MT-GM-2026-10-24 staged ready:true; 23 Oct cross-region flash PMI, US Treasury yields, UK retail, Michigan sentiment, IBGE IPCA-15; no public approval implied."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "LSEG Lipper 21 Oct US fund flows show large-cap subscriptions and small-cap redemptions; covered within today's macro. A one-week fund sample does not establish new global wealth/control stocks."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "atlas_discovery_only",
+      "note": "23 Oct UK HM Treasury announced tariff-suspension extension and proposed administrative savings; a structural discovery candidate is reserved for Atlas, not a demonstrated countrywide productivity outcome."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "UK institutional policy proposal and French business disruption were screened; neither alone supports a full updated country dossier with independently verified multi-year mechanisms."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "World Bank 20 Oct digital strategy and shared GPU initiative are strategy announcements, not measured deployment at scale or replicated engineering breakthrough."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "World Bank digital strategy and UK regulatory process checked; no verified new technical capability, performance replication or industrial scale to justify monthly assessment."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "S&P Global 23 Oct eurozone survey attributes some French disruption to unrest; energy-market threats remain attributed reports. No new independently verified battlefield or physical throughput change for standalone conflict system."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "UK Treasury, ECB, World Bank and corporate PMI actors reviewed; no evidence of new control over strategic assets or a transfer of ownership justifying a separate actor report."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "US Treasury 23 Oct nominal curve and 23 Oct flash PMIs covered in Global Macro; no separate newly effective monetary settlement rule verified."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "atlas_discovery_only",
+      "note": "UK 23 Oct announced tariff-suspension extension, filing simplification and consultation; proposal and future effective dates kept separate from operational results, tracked in Atlas."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "UK administrative saving estimates (£800m annual total) are government projections, not measured ex-post outcomes; no policy-effect study yet."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "S&P Global October investment-manager survey is expressed preference, not proprietary capital allocation or evidence of a new market architecture."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "US fund flow compilation and sovereign par yields do not provide a new audited global wealth ownership or control census."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "No new comparable annual cross-country wealth/control balance sheet established by the screened 23 Oct releases."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "World Bank 20 Oct digital strategy and UK 23 Oct regulatory proposals screened; neither is a new binding global institution."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "UK tariff-suspension extension concerns domestic import duties, not proof of a newly operating bilateral/regional trade agreement; Pix–TIPS remains feasibility-stage from prior scan."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "World Bank 20 Oct digital access strategy raises access/skills/AI questions, but no measured societal outcome or scaled deployment change for a separate essay."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "FAO October food-price surveillance and UK tariff suspensions including food/drinks screened; no newly measured food availability, nutrition or pesticide exposure shock sufficient for standalone analysis."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "WOAH October animal vaccine prioritisation and antimicrobial resistance agenda considered; expert prioritisation is not measured reduced antimicrobial use, and no new herd management efficacy result verified."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Middle East energy-route risks and European civil unrest screened conditionally; threats and claims not promoted to verified imminent war or physical supply loss."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "WHO DRC Ebola situation and previous pandemic research reviewed at screening level; no new independently verified 23 Oct outbreak acceleration, vaccine efficacy or biosecurity governance change suitable for another article."
+    }
+  ],
+  "selected_additional_article": null,
+  "selection_rationale": "Today's cross-region flash PMI evidence is used in mandatory Global Macro. UK 23 Oct administrative/tariff announcement has a plausible structural mechanism but is not yet an implemented, outcome-measured policy, so it is Atlas discovery rather than a duplicate thematic article.",
+  "material_candidates": [
+    {
+      "name": "UK tariff suspension extension and administrative reporting relief",
+      "source": "https://www.gov.uk/government/news/government-slashes-red-tape-and-tariffs-to-give-businesses-breathing-space",
+      "date": "2026-10-23",
+      "disposition": "Atlas medium-materiality watch: tariff extensions announced for 2027-28, administrative savings government estimates; effectiveness and measured costs unverified."
+    }
+  ],
+  "other_primary_evidence": [
+    {
+      "name": "World Bank digital strategy",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "S&P Global October Eurozone flash PMI",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/eurozone-flash-pmi-growth-spurt-wanes-amid-renewed-french-downturn-and-elevated-inflation",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "IBGE October IPCA-15",
+      "url": "https://www.ibge.gov.br/indicadores/inflacao",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "WHO Ebola DRC situation",
+      "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026",
+      "date": "2026-10-24 accessed; continuously updated"
+    }
+  ],
+  "evidence_limitations": "Global event discovery is not exhaustive; no independent confirmation of new health outcomes or war-related physical throughput; no second article forced."
+}
