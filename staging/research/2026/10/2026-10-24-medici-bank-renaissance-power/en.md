@@ -166,7 +166,7 @@ The banking partnerships ended amid the crisis of 1494; members of the family su
 
 [7] Cambridge, commerce and communication in medieval Europe: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
 
-[8] Encyclopaedia Britannica, history of the Medici family: https://www.britannica.com/topic/Medici-famil
+[8] Encyclopaedia Britannica, history of the Medici family: https://www.britannica.com/topic/Medici-family
 
 [9] The Metropolitan Museum of Art, Florence and Central Italy, political and artistic economy: https://82nd-and-fifth.metmuseum.org/toah/ht/08/eustc.html
 
