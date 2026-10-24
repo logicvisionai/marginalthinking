@@ -122,6 +122,22 @@ Três interpretações podem ser testadas. A tecnológica destaca eficiência da
 
 Pesquisa comparativa deve usar prospectos de títulos, acordos societários, arquivos de tesourarias, condições dos empréstimos, direitos de voto e resultados econômicos. Nem admiração pela inovação financeira nem condenação moral substituem registros. A importância histórica da família é elevada e só pode ser compreendida rejeitando tanto hagiografia quanto conspirações antissemitas.
 
+## Localização dos sócios, direitos contratuais e financiamento de Suez
+
+O acordo familiar de **1810** reuniu Mayer Amschel e **quatro filhos em Frankfurt**, enquanto Nathan atuava na Inglaterra. A rede posterior de cinco cidades surgiu gradualmente, e não como banco global moderno criado num instante. Correspondência familiar facilitava remessas e informações, mas não eliminava risco político ou cambial. A Deutsche Biographie confirma sociedades em transformação e registra mitos que acompanharam a ascensão. [2][3][12]
+
+O **empréstimo de £ 4 milhões em 1875** para aquisição britânica das ações egípcias do Canal de Suez é verificável em arquivos familiares, diplomáticos e do Banco da Inglaterra. O financiador acelerou a liquidação de aquisição autorizada pelo governo britânico, que se tornou titular das ações. A distinção importa à responsabilidade colonial: crise fiscal egípcia, poder estratégico britânico, custo do crédito e governança do canal são canais causais diferentes. [6][7][8]
+
+```chart
+type: bar
+title: Organização dos negócios familiares no acordo de 1810
+unit: filhos Rothschild, não participação no mercado bancário
+Filhos na sociedade Frankfurt | 4
+Nathan separadamente ativo na Inglaterra | 1
+```
+
+Alegações de comando financeiro privado ilimitado devem ser testadas com direitos identificáveis: empréstimos, garantias, votos e instruções executáveis. A existência de uma família bancária judaica influente não comprova propriedade clandestina de governos ou de todos os bancos centrais. Rejeitar afirmações sem prova não protege influência financeira real da investigação; estabelece a evidência necessária para medi-la.
+
 ### Fontes e registros documentais
 
 [1] Rothschild Archive, family origins: https://www.rothschildarchive.org/family
@@ -145,5 +161,7 @@ Pesquisa comparativa deve usar prospectos de títulos, acordos societários, arq
 [10] Rothschild Archive, Nathan Rothschild and Waterloo critical study: https://www.rothschildarchive.org/materials/nathan_and_waterloo.pdf
 
 [11] Rothschild Archive, 1875 loan receipts collection: https://www.rothschildarchive.org/collections/archivists_choice/march_2015_suez_canal_loan_receipts_1876
+
+[12] Deutsche Biographie, history of Rothschild dynasty and banking: https://www.deutsche-biographie.de/sfz108438.html
 
 **Critério epistemológico:** Diferenciar evidência de contrato, informações de arquivos mantidos pelas famílias, interpretações acadêmicas e lendas posteriores. Não converter prestígio financeiro em poder soberano não documentado.
