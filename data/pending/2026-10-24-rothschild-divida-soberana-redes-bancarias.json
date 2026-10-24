@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-ROTHSCHILD",
+  "slug": "2026-10-24-rothschild-divida-soberana-redes-bancarias",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T16:45:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 27,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-rothschild-divida-soberana-redes-bancarias/en.md",
+      "title": "The Rothschild banking houses: sovereign bonds, information networks, European infrastructure and the limits of dynastic power",
+      "deck": "Historical institutional study of Mayer Amschel and the five banking houses, public debt placement, war payments, rail finance, philanthropy and conspiracy claims tested against archives.",
+      "tags": [
+        "economic history",
+        "banking",
+        "institutional power",
+        "dynasties",
+        "MT-SA-2026-10-24-ROTHSCHILD"
+      ],
+      "keywords": [
+        "The Rothschild banking houses: sovereign bonds, information networks, European infrastructure and the limits of dynastic power",
+        "historical banks"
+      ],
+      "regime": "Banking and public institutions developed across changing political regimes.",
+      "key_risk": "Conflating banking contracts with legally unlimited control of states.",
+      "watch": [
+        "Archival counterparty record",
+        "Underwriting and institution history"
+      ],
+      "search_text": "The Rothschild banking houses: sovereign bonds, information networks, European infrastructure and the limits of dynastic power"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-rothschild-divida-soberana-redes-bancarias/pt-BR.md",
+      "title": "As casas Rothschild: dívida soberana, redes de informação, infraestrutura europeia e limites do poder dinástico",
+      "deck": "Estudo histórico de Mayer Amschel e das cinco casas bancárias, colocação de dívida pública, pagamentos em guerras, ferrovias, filantropia e lendas confrontadas com arquivos.",
+      "tags": [
+        "história econômica",
+        "bancos",
+        "poder institucional",
+        "dinastias",
+        "MT-SA-2026-10-24-ROTHSCHILD"
+      ],
+      "keywords": [
+        "As casas Rothschild: dívida soberana, redes de informação, infraestrutura europeia e limites do poder dinástico",
+        "bancos históricos"
+      ],
+      "regime": "Bancos e instituições públicas evoluíram sob regimes políticos distintos.",
+      "key_risk": "Confundir contratos financeiros com poder ilimitado sobre Estados.",
+      "watch": [
+        "Registros documentais",
+        "Contratos de emissão e governança"
+      ],
+      "search_text": "As casas Rothschild: dívida soberana, redes de informação, infraestrutura europeia e limites do poder dinástico"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "banking-credit",
+    "institutions-governance",
+    "inequality-distribution",
+    "trade-investment",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "producer_checks": {
+    "information_cutoff": "Historical archive and specialist academic materials reviewed 24 October 2026.",
+    "editorial_novelty": "Distinct MT-SA-2026-10-24-ROTHSCHILD institutional historical research; not a repeat of other family dossiers.",
+    "visual_signature": "One comparison table, chronological evidence chart, causal flow and qualitative historical geographic map in both languages.",
+    "source_check": "8 identical documentary and scholarly source URLs, with scope limits.",
+    "bilingual_parity": "Equal analytical chapter order, visual numbers and references.",
+    "methodology": "Named legal entities, ownership, documented transactions, and explicit uncertainty; reject unsupported all-controlling dynasty claims."
+  }
+}
