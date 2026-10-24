@@ -110,6 +110,22 @@ The puzzle is why political leverage could not insure the balance sheet. Concent
 
 Future investigation should reconstruct partnership agreements, loans by borrower, foreign-exchange settlements, taxes and political appointment networks by period. De Roover expressly warned about missing balance sheets: any exact modern net-worth ranking of the fifteenth-century family should therefore be treated as speculative. A meaningful conclusion concerns causal mechanisms and documentation, not an invented trillions-of-dollars family fortune.
 
+## Contractual access and bank solvency in the fifteenth century
+
+Oxford dates the first Medici depository office with the Apostolic Chamber to **1420**, a relationship lasting **twenty-two years**, and a different later mandate in **1443–1473**, a thirty-year dated span. The source's loose phrase 'almost forty years' should not displace the explicit dates. Banking for a papal institution creates valuable settlement business but not political sovereignty. Contractual authority is neither equity ownership nor executive command of the Church. [1]
+
+Sovereign borrowers and overseas branch managers created correlated risk. A nominally collectible debt to a ruler can become impossible to enforce while depositors still seek coin settlement. Branch partnerships retained separate capital and obligations, making retrospective calculation of a single total bank fortune hazardous. Prestige, international reach and mecenato are different assets with different liquidity. [2][3][4]
+
+```chart
+type: bar
+title: Separate Medici Apostolic Chamber banking periods
+unit: years; initial tenure and later dated interval, not uninterrupted control
+First period after 1420 | 22
+Later 1443–1473 period | 30
+```
+
+The banking partnerships ended amid the crisis of 1494; members of the family subsequently held ecclesiastical and ducal offices under other institutions. Cultural influence survived where the firm's liabilities and rights did not. A rigorous financial assessment needs contracts, branch accounts, recovery on princely loans and distinct legal entities—not an unverified net-worth ranking projected into today's currency.
+
 ### Documents and research sources
 
 [1] Oxford Bibliographies, Heinrich Lang, Medici Bank 1397–1494: https://academic.oup.com/reference/62416/reference-article-abstract/555922868
@@ -125,5 +141,7 @@ Future investigation should reconstruct partnership agreements, loans by borrowe
 [6] Cambridge University Press, Italian urban economy and guilds: https://www.cambridge.org/core/books/abs/towns-of-italy-in-the-later-middle-ages/urban-economy/6540F6DF9A4B2916950F2CC2076D7389
 
 [7] Cambridge, commerce and communication in medieval Europe: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
+
+[8] Encyclopaedia Britannica, history of the Medici family: https://www.britannica.com/topic/Medici-family
 
 **Evidence rule:** Distinguish contracts and state records, family-maintained archival descriptions, scholarly causal interpretations and later legends. Financial prestige cannot be translated into undocumented sovereign command.
