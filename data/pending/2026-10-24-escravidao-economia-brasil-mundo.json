@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-10-24-SLAVERY",
+  "slug": "2026-10-24-escravidao-economia-brasil-mundo",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T17:00:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 35,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-escravidao-economia-brasil-mundo/en.md",
+      "title": "Slavery in Brazil and the world: coercion, political economy, emancipation and historical inequality",
+      "deck": "A transregional study of coercive labor, Atlantic voyages, Brazilian imperial censuses, abolition, long-run property inequality and modern forced labor.",
+      "tags": [
+        "slavery",
+        "Brazilian history",
+        "economic history",
+        "Atlantic world",
+        "inequality",
+        "human rights"
+      ],
+      "keywords": [
+        "SlaveVoyages 12.52 million",
+        "Brazil 1872 1510806",
+        "ILO 2021 forced labour",
+        "abolition history"
+      ],
+      "regime": "Forced labor and its legal abolition left unequal economic and institutional inheritances.",
+      "key_risk": "Treating historical embarkations and modern model estimates as equivalent counts.",
+      "watch": [
+        "Historical records and revisions",
+        "Modern labor enforcement",
+        "Long-run wealth and equal access"
+      ],
+      "search_text": "slavery Brazil world history economy slave trade legal abolition forced labour IBGE SlaveVoyages ILO"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-escravidao-economia-brasil-mundo/pt-BR.md",
+      "title": "Escravidão no Brasil e no mundo: economia política da coerção, abolição e desigualdade histórica",
+      "deck": "Estudo transregional do trabalho coercitivo, tráfico atlântico, censos do Império, abolição, patrimônio desigual e trabalho forçado contemporâneo.",
+      "tags": [
+        "escravidão",
+        "história brasileira",
+        "história econômica",
+        "Atlântico",
+        "desigualdade",
+        "direitos humanos"
+      ],
+      "keywords": [
+        "SlaveVoyages 12,52 milhões",
+        "Brasil censo 1872 1510806",
+        "OIT 2021 trabalho forçado",
+        "história abolição"
+      ],
+      "regime": "Trabalho escravizado e abolição legal deixaram heranças econômicas e institucionais desiguais.",
+      "key_risk": "Confundir embarques históricos e estimativas contemporâneas de categorias diferentes.",
+      "watch": [
+        "Revisões documentais",
+        "Fiscalização trabalhista",
+        "Desigualdade patrimonial de longo prazo"
+      ],
+      "search_text": "escravidão Brasil mundo economia tráfico atlântico abolição trabalho forçado IBGE SlaveVoyages OIT"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "inequality-distribution",
+    "demography-labor",
+    "institutions-governance",
+    "trade-investment",
+    "social-change",
+    "macroeconomics"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "migration-displacement"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "producer_checks": {
+    "information_cutoff": "Historical 1501–1888 record; 2021 global modern slavery estimate published in 2022; documented through 24 October 2026.",
+    "editorial_novelty": "Global and Brazilian comparative history distinguishing chattel slavery, Atlantic embarkations, nineteenth-century abolition and modern forced labor.",
+    "visual_signature": "Source-based Atlantic carrier embarkation chart, denominators table, causal flow and geographically qualified map in each locale.",
+    "source_check": "13 matching institutional and research sources (SlaveVoyages, IBGE, ILO/IOM/Walk Free, UNESCO, US and UK official archives).",
+    "bilingual_parity": "Same chapters, figures and evidentiary chart numerics across EN/PT-BR.",
+    "methodology": "History, law, economic mechanisms and modern prevalence surveys kept separate; no invented reparations totals or unsupported ethnic attributions."
+  }
+}
