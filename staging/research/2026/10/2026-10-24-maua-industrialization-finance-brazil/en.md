@@ -40,8 +40,8 @@ The transport experiment thus illustrates coordination failure. One isolated rai
 
 ```chart
 type: bar
-title: Parliamentary mandates begun by decade, Mauá, Chamber records
-unit: number of mandate starts in each decade, comparable archival counts
+title: Parliamentary mandate starts by decade, Chamber of Deputies
+unit: count of mandates beginning in each decade; comparable dates from an archival register
 1850s | 2
 1860s | 2
 1870s | 1
@@ -76,6 +76,16 @@ The historical conclusion is narrower and more defensible than either exoneratio
 A separate study by Talita Alves de Messias examines Irineu's role as intermediary in **secret Brazilian loans to Uruguay in 1850**, during the Guerra Grande and the so-called *Diplomacia do Patacão*. Cross-referencing diplomatic and financial records, the article concludes that he was invited to act as an intermediary in the policy and that participation combined privileged geopolitical information with commercial opportunities in which he invested. It does not imply that the financier alone designed Brazilian foreign policy. [11]
 
 The episode connects three elements frequently separated in popular biographies: Treasury policy, private financing and regional military diplomacy. To move resources discreetly and credibly, political authorities could rely on commercial intermediaries, which in turn gained information about future state actions. Such access can create a genuine informational advantage without constituting ownership of the state. The episode also demonstrates why the industrialist's career cannot be reduced to isolated Brazilian inventions or to a conflict between a modern businessman and a supposedly uniform imperial administration. [11]
+
+## The National Archives' attribution and the slaveholding economy
+
+The Brazilian National Archives' biographical profile includes the **slave trade** among Mauá's fields of activity. That source-level attribution is material to his personal history and precludes treating him as detached from slavery. The brief biography, however, does not identify a particular shipment, contract, person traded, transaction date, or profit figure. It therefore cannot independently establish the scale, timing or specific form of the activities attributed to him. The distinction is between a documented institutional attribution and detailed transaction-level corroboration, not a declaration of innocence or an unsupported quantified accusation. [10]
+
+Credit, shipping, plantations and coerced labour were intertwined in the nineteenth-century Brazilian economy. The contribution of transport and industrial manufacturing did not erase the violence underlying slaveholding production. Equally, a general connection between merchants and the slave trade does not identify the actions of every individual merchant. Mauá's industrial record and this unresolved biographical attribution both belong in the historical account.
+
+## Credit and secret regional diplomacy in 1850
+
+Historian Talita Alves de Messias documents Mauá's intermediary role in **secret Brazilian financing to Uruguay in 1850**, during the Guerra Grande. Her examination of diplomatic records shows how access to political information and commercial opportunities intersected in the *Diplomacia do Patacão*. Intermediation gave the businessman influence over transfers and information without making him the author of Brazil's entire foreign policy. The episode places his career within regional state finance and geopolitical bargaining rather than only domestic engineering. [11]
 
 ## Slavery, labour markets and the contradiction of modernization
 
@@ -163,11 +173,11 @@ The counterfactual is specific. If freight demand was strong but deposits and fo
 
 ```chart
 type: bar
-title: Recorded Mauá banking organization intervals, dates from historical studies
-unit: calendar-year elapsed intervals, rounded, not audited operating days or revenue
-Private Banco do Brasil 1851–1853 | 2
-Mauá MacGregor 1854–1866 | 12
-Banco Mauá 1866–1875 | 9
+title: Elapsed calendar intervals of successive Maua banking entities
+unit: whole calendar years between dated legal milestones, not trading profit or operational days
+Banco do Brasil 1851–1853 | 2
+Maua MacGregor 1854–1866 | 12
+Banco Maua 1866–1875 | 9
 ```
 
 Industrial development in a slaveholding empire also depends on what does not appear in the entrepreneur's own ledger: household purchasing power, enforceable labour rights, education and the distribution of infrastructure access. Public expenditure can create spillovers while subsidizing unprofitable private positions. To evaluate the social investment, compare route-specific freight costs and service access with tariff guarantees and fiscal costs, and distinguish the commercial crisis from the societal value of surviving technical skills. [4][8]
@@ -188,10 +198,12 @@ Industrial development in a slaveholding empire also depends on what does not ap
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historicoo
 
 [9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
 
 [10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mau
+
+[11] Talita Alves de Messias, 1850 Brazil–Uruguay loan intermediation, História Econômica & História de Empresas: https://www.hehe.org.br/index.php/rabphe/article/view/807
 
 [11] Talita Alves de Messias, Irineu Evangelista de Souza na Guerra Grande, História Econômica & História de Empresas (2021): https://www.hehe.org.br/index.php/rabphe/article/view/807a
