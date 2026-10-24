@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-13-norway",
+  "revision": 0,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T10:36:20.989Z",
+  "reviewed_commit": "ba352e997751d893eac719d4e161a18b5c5e250c",
+  "pending_blob_sha": "2dc447a3fc27c73a0c976440e3442237b788a153",
+  "source_blob_shas": {
+    "en": "fe608dddbebf2d5aa7132b5316864f7f3b98e664",
+    "pt-BR": "030005bae517478b8ccd7c04265f8f6e7c9cc55f"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "editorial_publication_readiness",
+      "location": "EN en.md, lines 3-6 immediately after H1; PT-BR pt-BR.md, lines 3-6 immediately after H1; final Related Marginal Thinking research/Pesquisas relacionadas line",
+      "issue": "Both editions open with exposed administrative fields (Program/Programa, Code/Código, Edition/Edição, Information cutoff/Corte de informação) before the thesis. The final related-research line exposes raw internal MT identifiers rather than readable public article titles/links. This makes the article read like an internal staging record, violating the institutional first-reading/publication-readiness gate.",
+      "evidence": [
+        "EN opening: **Program:** Global System & Power; **Code:** MT-CC-2026-10-13-norway; **Edition:** 13 October 2026; **Information cutoff:** 13 October 2026.",
+        "PT opening: **Programa:** Sistema Global & Poder; **Código:** MT-CC-2026-10-13-norway; **Edição:** 13 de outubro de 2026; **Corte de informação:** 13 de outubro de 2026.",
+        "The country-context thesis begins only after these internal metadata lines."
+      ]
+    },
+    {
+      "check": "evidence_traceability",
+      "location": "EN section 6, paragraph 2 beginning 'The European Commission reports'; PT-BR section 6, paragraph 2 beginning 'A Comissão Europeia informa'; References/Referências [9]",
+      "issue": "The 2025 Norway–EU merchandise-trade shares (62.6% of total goods trade, 66.3% of exports, 56.4% of imports) are numerically correct but lack the directly supporting European Commission trade-statistics source in the bibliography or an attached claim citation. Reference [9] is an EEA agreement explainer, not the cited 2025 merchandise-trade data.",
+      "evidence": [
+        "Primary European Commission trade page: https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/norway_en",
+        "Both editions list [9] as https://www.norway.no/en/missions/eu/areas-of-cooperation/the-eea-agreement/; this does not directly substantiate the three 2025 trade percentages.",
+        "The paragraph gives the three figures without a numbered citation to the direct trade-statistics page."
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "EN section 7, map block 'Norway's external transmission channels'; PT-BR section 7, map block 'Canais de transmissão externa da Noruega'",
+      "issue": "The `map` mixes genuine spatial corridors (Norwegian continental shelf to EU gas consumers; Nordic power market) with a non-geographic portfolio/institutional relationship ('GPFG → Global securities markets' / 'GPFG → Mercados globais de títulos e ações'). That arrow is a capital-allocation mechanism, not a mapped location or geographic corridor; using the map grammar can misrepresent the nature of the evidence.",
+      "evidence": [
+        "EN map line: GPFG → Global securities markets | Public savings hold foreign assets and market risk",
+        "PT-BR map line: GPFG → Mercados globais de títulos e ações | Poupança pública mantém ativos estrangeiros e risco de mercado",
+        "RESEARCH-VISUALS.md: maps must represent exposure, flow, location, corridor or regional mechanism without implying unsupported geographic precision."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Remove the four administrative lines immediately below the H1 in BOTH languages. Begin directly with the existing specific thesis paragraph, preserving necessary publication date/cutoff in metadata or integrating only relevant time qualification naturally into prose. Replace the final raw MT IDs with reader-facing titles and verified canonical internal links, or omit that line if public related-research navigation already supplies it.",
+    "Add the directly supporting European Commission 2025 Norway trade page to References/Referências and attach its citation number to section 6's 62.6%, 66.3% and 56.4% claim in BOTH languages; do not silently change the numbers.",
+    "Move the GPFG-to-global-securities relationship from the `map` block to the existing `flow`/`mindmap` or explanatory prose. Keep the map restricted to defensible geographic exposure/corridors and preserve EN/PT-BR semantic parity.",
+    "Restage both full Markdown sources and update pending last, preserving ID, slug, date, program and canonical relation. Return new real Git blob SHAs for QA; do not replay this rejected tuple."
+  ],
+  "evidence": [
+    "Staged EN and PT-BR texts were read against the same Git commit; no public bundle or prior QA record for this slug existed at decision-time HEAD.",
+    "Repository editorial-depth logic reproduced on reviewed Markdown: EN 2582 substantive words, 15 analytical H2 headings; PT-BR 2785 words, 15 headings. Both exceed the country-dossier 1,600-word/12-section floor and post-2026-10-12 1,700-word/6-section minimum.",
+    "EN and PT-BR each contain 2 explicit charts, 1 flow, 1 map, 1 mindmap and 12 Markdown table lines. Numeric chart series match: [72.1,25.8,1.6,0.5] and [145.5,13.9]. The quantitative floor passes; the map semantics fail editorial QA.",
+    "Norwegian Ministry of Finance 7 Oct 2026 budget release directly confirms proposed NOK 608.4bn GPFG spending, NOK 85bn Ukraine allocation, 2.7% fund ratio, 12.6% trend mainland GDP, 2026/27 mainland growth forecasts of 1.1%/1.7%: https://www.regjeringen.no/en/whats-new/key-figures-in-the-national-budget-for-2027/id3174610/",
+    "NBIM first-half 2026 page confirms NOK 22,683bn fund value and 72.1%/25.8%/1.6%/0.5% allocations: https://www.nbim.no/en/investments/the-funds-value/",
+    "European Commission confirms 31% of total EU gas imports and 54% of EU pipeline gas imports from Norway in 2025: https://energy.ec.europa.eu/topics/international-cooperation/key-partner-countries-and-regions/norway_en",
+    "Statistics Norway confirms 161.8 TWh total 2025 generation and 89.9% hydro share: https://www.ssb.no/energi-og-industri/energi/statistikk/elektrisitet/artikler/hoyeste-stromproduksjon-noensinne-05052026"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "v2 ready English-first; country geography NO/norway; program, related programs, dimensions, topics and phenomena use controlled taxonomy; related IDs are present in canonical public metadata."
+    },
+    "country_context_contract": {
+      "result": "passed_for_checked_mechanisms",
+      "notes": "Norway materially participates in the public NBIM/GPFG study and European energy/security research; country-level fiscal, labour, housing, grid and EEA mechanisms add context beyond portfolio governance."
+    },
+    "research_depth": {
+      "result": "passed_reproduced",
+      "en_words": 2582,
+      "pt_br_words": 2785,
+      "en_analytical_h2": 15,
+      "pt_br_analytical_h2": 15,
+      "notes": "Reproduced relevant validator expressions; full Node repository validators not executed."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "EU trade data source missing from cited bibliography; spot-checked budget, NBIM, EU gas and electricity numbers were consistent."
+    },
+    "translation_check": {
+      "result": "passed_for_inspected_material",
+      "notes": "Both editions present matching major figures and equivalent chart series; correction must preserve this parity."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Administrative fields appear before thesis in both locales.",
+      "headings": "15 informative analytical sections, mechanically sufficient.",
+      "language_localization": "PT-BR reads naturally in inspected sections; metadata labels and raw IDs are reader-facing staging artifacts.",
+      "repetition": "Related public NBIM report covers delegated portfolio governance; dossier adds fiscal, labour, housing and electricity mechanisms.",
+      "cohesion": "Clear structural progression, but staging metadata interrupts the opening.",
+      "template_meta_qa": "Visible Program/Code/Edition/Cutoff and raw MT identifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed_semantic",
+      "signature": "EN/PT-BR: 2 charts, 1 flow, 1 map, 1 mindmap, 12 table lines; chart numeric series 3/3 semantically and numerically equivalent.",
+      "limitations": "The map improperly mixes a non-geographic portfolio link with geographic corridors; renderer and full pipeline scripts not executed."
+    },
+    "contextual_depth": {
+      "result": "passed_for_checked_mechanisms",
+      "notes": "Fiscal mandate, European market access, welfare staffing, demography, housing, regional power grid and Arctic land-use constraints connect historical institutions to current productive capacity."
+    }
+  },
+  "contrary_evidence": [
+    "Large foreign financial assets, hydroelectric generation and EEA access materially counter a simple fiscal-fragility thesis.",
+    "Portfolio wealth and fiscal spending do not by themselves prove higher domestic labour productivity or grid deliverability."
+  ],
+  "limitations": [
+    "Full repository Node validation was unavailable in this environment; exact staged files were checked against relevant published validator expressions.",
+    "Factual checks are targeted, not exhaustive; after source and editorial corrections the revised SHA tuple requires complete QA.",
+    "No publication was attempted; no public reports, indices, CSS, taxonomy or institutional content changed."
+  ],
+  "notes": "Independent QA rejection on exact reviewed SHA tuple. Country-context structural producer 3/5 should restage same ID; no immediate producer run is claimed."
+}
