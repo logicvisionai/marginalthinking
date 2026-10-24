@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-SOROS",
+  "slug": "2026-10-24-george-soros-finance-philanthropy-power",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T15:00:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 35,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-george-soros-finance-philanthropy-power/en.md",
+      "title": "George Soros: refugee, global macro investor and architect of transnational philanthropic power",
+      "deck": "An institutional biography of George Soros: early life, Popper, Quantum, 1992 sterling, Asian crisis, financial losses, reflexivity, legal record, philanthropy, political finance, evidence of impact and limits on power.",
+      "tags": [
+        "George Soros",
+        "Quantum Fund",
+        "Reflexivity",
+        "Open Society Foundations",
+        "philanthropy",
+        "political finance",
+        "currencies",
+        "Soros Fund Management"
+      ],
+      "keywords": [
+        "George Soros in-depth biography",
+        "London School of Economics Karl Popper",
+        "Quantum Fund Double Eagle 1969",
+        "ERM Black Wednesday September 1992",
+        "Asian financial crisis 1997",
+        "French insider trading case 2011",
+        "Open Society 2024 expenditures",
+        "Democracy PAC 2026 FEC",
+        "philanthropy political influence accountability"
+      ],
+      "regime": "Financial capital transformed into a durable, contested private philanthropic and political institutional network.",
+      "key_risk": "Conflating donor-funded institutional capacity with command over outcomes, or obscuring legitimate accountability concerns behind conspiracy allegations.",
+      "watch": [
+        "OSF endowment and audited grant outcomes",
+        "SFM annual AUM and governance changes",
+        "FEC committee filings and transfers",
+        "recipient autonomy and independent country-level evaluations",
+        "cross-border legal and civic space governance"
+      ],
+      "search_text": "George Soros biography financial speculation reflexivity Quantum hedge fund Black Wednesday Bank England Open Society philanthropy Alex Soros politics PAC grants evidence 2026"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-george-soros-finance-philanthropy-power/pt-BR.md",
+      "title": "George Soros: refugiado, investidor global macro e arquiteto de influência filantrópica transnacional",
+      "deck": "Biografia institucional de George Soros: formação, Popper, Quantum, libra em 1992, crise asiática, perdas, reflexividade, processo judicial, filantropia, financiamento político e limites reais de influência.",
+      "tags": [
+        "George Soros",
+        "Quantum Fund",
+        "reflexividade",
+        "Open Society Foundations",
+        "filantropia",
+        "financiamento político",
+        "moedas",
+        "Soros Fund Management"
+      ],
+      "keywords": [
+        "George Soros biografia aprofundada",
+        "London School of Economics Karl Popper",
+        "Quantum Double Eagle 1969",
+        "ERM quarta-feira negra setembro 1992",
+        "crise asiática 1997",
+        "condenação negociação privilegiada França 2011",
+        "OSF despesas 2024",
+        "Democracy PAC FEC 2026",
+        "influência filantropia soberania accountability"
+      ],
+      "regime": "Conversão de capital financeiro privado em redes filantrópicas e políticas institucionais duradouras e contestadas.",
+      "key_risk": "Confundir capacidade de financiar instituições com comando sobre resultados, ou encobrir debate legítimo sobre accountability por acusações conspiratórias.",
+      "watch": [
+        "patrimônio e resultados auditados das OSF",
+        "AUM e governança SFM",
+        "registros FEC e transferências",
+        "autonomia dos beneficiários e avaliações independentes",
+        "regulação do espaço cívico transfronteiriço"
+      ],
+      "search_text": "George Soros biografia profunda finanças especulação reflexividade Quantum hedge fund libra Bank of England Open Society philanthropy Alex Soros PAC atuação 2026"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "currencies",
+    "banking-credit",
+    "trade-investment",
+    "institutions-governance",
+    "inequality-distribution",
+    "social-change",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "George Soros",
+    "type": "person"
+  },
+  "contrary_evidence": [
+    "NBER 1998 finds no evidence Soros or large currency hedge funds caused 1997 Asian crash.",
+    "GSQ 2021 finds no detectable macro effects of OSF grants on measured democratic outcomes and no evidence for claims of protest/migration destabilization.",
+    "2000 technology losses contradict the claim of investment infallibility.",
+    "Dated UK central-bank record shows the sterling regime was under macroeconomic pressure before a single fund's trades."
+  ],
+  "limitations": [
+    "Past returns, fund AUM, personal assets, endowment and annual grants are distinct measures.",
+    "OSF geographic spending data are organization-reported; peer-reviewed causal evidence remains limited and mixed.",
+    "Attribution of political impacts requires specific filings, grants, recipient actions and comparative outcomes.",
+    "Secondary media reports of 1992 profit and 2000 financial losses are distinguished from official accounting."
+  ],
+  "producer_checks": {
+    "information_cutoff": "24 October 2026. OSF 2024 regional expenditure and November 2025 fact sheet; Soros Fund Management current firm description; FactCheck August 2026 based on FEC June 30 reports; historic Bank of England, ECtHR, NBER and scholarly record.",
+    "editorial_novelty": "First sustained individual biography of George Soros for actor research; economic, personal, intellectual, political and philanthropic institutions separated; distinct from BlackRock or IMF organizational actor dossiers.",
+    "visual_signature": "Two bilingual identical numeric OSF charts with units and vintage, two substantial comparison tables, one causal flow and one qualitative geography map.",
+    "source_check": "21 identical institutional, scholarly, court and quality-journalism references; Bank of England 1992, NBER 1998, ECtHR 2011, OUP 2021, OECD 2025, OSF 2024/2025, FEC-linked FactCheck 2026. Primary and secondary separated.",
+    "bilingual_parity": "Matching 16 analytical headings, 21 exact source URLs, identical quantitative series, matched chronology, fiscal distinctions, legal conclusions and uncertainty statements.",
+    "methodology": "Distinguish legal persons and capital stocks/flows, avoid inferring political command from funding, present contrary evidence and documented market-abuse judgment, refuse ethnic conspiracy frames."
+  }
+}
