@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-23T02:48:45-03:00",
+  "last_reconciled_at": "2026-10-24T17:19:45.676Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6643,6 +6643,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No new technology deployment, capability milestone or maturity change supported by the report meets the signal ledger inclusion threshold."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-global-macro-r2-reconciliation",
+      "reconciled_at": "2026-10-24T17:19:45.676Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-24"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Oil-route exposure and cross-border inflation transmission are analytically plausible but no dated new bilateral physical-flow or counterparty measurement establishes a canonical edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "October surveys and monthly demand series do not document a specific intervention, structural efficiency gap with evidence or new actionable canonical opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Institutional survey and market releases identify no newly verified ownership, voting control or institutional mandate change."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Oil price premium and dated EIA forecast do not prove new extraction capacity, reserves control or physical logistics throughput change on 23 October."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "No evaluated policy intervention with observed outcomes is introduced."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Contemporaneous regional energy route concerns reported but no independently verified actor-specific new conflict event meeting canonical threshold."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No measured new technology capability milestone or deployment event is introduced."
         }
       ]
     }

@@ -2,6 +2,125 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-GM-2026-10-24",
+    "slug": "2026-10-24-global-macro",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T05:02:29-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "capital-markets",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "energy",
+      "industry-production",
+      "demography-labor"
+    ],
+    "phenomena": [
+      "civil-unrest",
+      "political-stability"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "producer_checks": {
+      "information_cutoff": "Friday 23 Oct close for business/markets; prior primary releases by EIA, BEA, Census, ICI; no Saturday equity close.",
+      "editorial_novelty": "October 23 simultaneous flash PMI releases and matched Treasury yields differ materially from Oct 23 Japan CPI/euro-area debt/US mortgage report.",
+      "visual_signature": "2 tables, 2 quantitative bar charts, 1 flow and 1 map in each locale; values identical, decimal point used in chart syntax.",
+      "bilingual_parity": "Six substantive sections; matched numbers and dates, 15 identical source URLs, 2 quantitative charts, 2 tables, 1 flow and 1 map.",
+      "source_check": "15 matched URLs per language; sourced ICI 22 Oct asset stock, Census 15 Oct nominal retail, BEA 30 Sep real spending, EIA Oct 6 forecast vintage; secondary 23 Oct oil and India PMI qualified."
+    },
+    "revision": 2,
+    "revision_reason": "Resolve r1 editorial-depth and evidence findings; real-demand sixth section, direct dated EIA, primary ICI instead of Reuters/Lipper, evidence-led conclusions, 15 parallel URLs.",
+    "url": "/reports/2026/10/2026-10-24-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-24T17:19:45.676Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "b8fdb4c11fd0fbce69073efecff2384a1f3a94a0",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — October business surveys widen the gap between output, purchasing power and financing costs",
+        "deck": "New October flash PMIs reveal a sharp US/euro-area divergence while Treasury yields, household affordability and fund flows signal selective risk-taking.",
+        "tags": [
+          "global macro",
+          "October flash PMI",
+          "US Treasury",
+          "euro area",
+          "household purchasing power",
+          "capital flows"
+        ],
+        "keywords": [
+          "24 October 2026",
+          "flash PMI October 2026 US 57.6 Eurozone 51.9 UK 53.1 Japan 52.3 India 56.7",
+          "Treasury October 23 2y 4.69 10y 5.00 30y 5.33",
+          "ICI money-market assets 21 October 7.94 trillion",
+          "Michigan consumer sentiment 48.0"
+        ],
+        "regime": "Divergent private-sector output with elevated nominal financing costs and uneven inflation pass-through.",
+        "key_risk": "Corporate output resilience may conceal lagged damage to household demand and refinancing-sensitive borrowers.",
+        "watch": [
+          "October final PMI prices and orders",
+          "Matched US nominal and real yields and credit spreads",
+          "Physical energy shipping volumes",
+          "Household real durable goods demand",
+          "France sovereign financing"
+        ],
+        "search_text": "global macro October flash PMI US Treasury euro area household purchasing power capital flows October 2026 Treasury yield PMI consumption funds energy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Macro Global — pesquisas de outubro ampliam a distância entre produção, poder de compra e custo do financiamento",
+        "deck": "Novos PMIs de outubro revelam divergência entre EUA e área do euro, enquanto juros, renda disponível e fluxos mostram seletividade no risco.",
+        "tags": [
+          "macro global",
+          "PMI outubro",
+          "Tesouro americano",
+          "área do euro",
+          "poder de compra",
+          "fluxos de capital"
+        ],
+        "keywords": [
+          "24 October 2026",
+          "flash PMI October 2026 US 57.6 Eurozone 51.9 UK 53.1 Japan 52.3 India 56.7",
+          "Treasury October 23 2y 4.69 10y 5.00 30y 5.33",
+          "ICI money-market assets 21 October 7.94 trillion",
+          "Michigan consumer sentiment 48.0"
+        ],
+        "regime": "Produção privada divergente, financiamento nominal caro e transmissão inflacionária desigual.",
+        "key_risk": "Produção empresarial resistente pode esconder perdas defasadas na demanda das famílias e no refinanciamento de devedores.",
+        "watch": [
+          "Preços e encomendas dos PMIs finais de outubro",
+          "Juros reais e nominais americanos e spreads de crédito",
+          "Volume físico de transporte energético",
+          "Consumo real de bens duráveis",
+          "Financiamento soberano francês"
+        ],
+        "search_text": "macro global PMI outubro Tesouro americano área do euro poder de compra fluxos de capital October 2026 Treasury yield PMI consumption funds energy"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GM-2026-10-23",
     "slug": "2026-10-23-global-macro",
     "date": "2026-10-23",
