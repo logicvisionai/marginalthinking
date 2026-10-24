@@ -9,6 +9,7 @@ Every publication must comply with:
 - [`EDITORIAL-ARCHITECTURE.md`](./EDITORIAL-ARCHITECTURE.md);
 - [`data/taxonomy.json`](./data/taxonomy.json);
 - [`EDITORIAL-STYLE.md`](./EDITORIAL-STYLE.md);
+- [`BIOGRAPHICAL-RESEARCH.md`](./BIOGRAPHICAL-RESEARCH.md) for all people and family/dynasty historical dossiers;
 - [`INSTITUTIONAL-EDITORIAL.md`](./INSTITUTIONAL-EDITORIAL.md);
 - [`TECHNOLOGY-SIGNALS.md`](./TECHNOLOGY-SIGNALS.md) for weekly technology-signal research and monthly Strategic Technology Assessments;
 - [`CONFLICT-SECURITY-SOCIAL-CHANGE.md`](./CONFLICT-SECURITY-SOCIAL-CHANGE.md) whenever conflict, security or social-change phenomena are materially relevant;
