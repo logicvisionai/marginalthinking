@@ -1,7 +1,5 @@
 # A rede bancária Rothschild: crédito soberano, sociedades familiares e limites do poder financeiro
 
-**Edição:** 24 October 2026 · **Corte informacional:** 24 October 2026 · **Programa:** Global System & Power
-
 A dinastia financeira Rothschild surgiu numa Europa de soberanias fragmentadas, restrições aos direitos civis de judeus e demanda crescente por empréstimos públicos. A realização comercial foi uma sociedade familiar coordenada em várias cidades, capaz de movimentar moeda, ouro, títulos e informação entre fronteiras em períodos de guerra. Mayer Amschel Rothschild (1744–1812) consolidou um negócio em Frankfurt, depois ampliado pelos cinco filhos em Londres, Paris, Viena, Nápoles e na casa alemã original. Foi uma rede financeira relevante, nunca prova de soberania formal sobre os Estados europeus. [1][2][3]
 
 O objetivo da economia política é documentar a conversão de correspondência comercial em crédito soberano e influência de mercado, distinguindo contratos efetivos de mitos conspiratórios. Catálogos arquivísticos, acordos societários assinados e registros governamentais permitem biografia baseada em prova. Não há base histórica para afirmar que uma família controla secretamente todos os bancos ou governos mundiais. Explicações totais também reproduzem estereótipos antissemitas, impedindo compreender a verdadeira história empresarial. [5][6][9]
@@ -118,7 +116,7 @@ Para cada suposta influência coercitiva, o contrafactual é simples: demonstrar
 
 A ascensão de Mayer Amschel Rothschild ocorreu sob restrições sociais e jurídicas impostas aos judeus em Frankfurt. A **Judengasse** não era apenas um endereço: residência, participação cívica e possibilidades profissionais dependiam da condição política e legal de uma comunidade minoritária. Mayer atuou com moedas e crédito e estabeleceu relações comerciais que posteriormente deram a seus filhos entrada em mercados de várias capitais. A organização familiar surgiu de reputação e acesso sob instituições desiguais, não de mandato hereditário para governar Estados europeus. [1][12]
 
-Os cinco filhos desenvolveram operações economicamente relacionadas, mas distintas em território e forma jurídica. A **sociedade de 1810** reuniu quatro filhos a Mayer em Frankfurt, quando Nathan já estabelecia negócios na Inglaterra; a expansão alcançou Londres, Paris, Viena e Nápoles ao longo dos anos seguintes. Correspondência e parentesco reduziam a possibilidade de intermediários ocultarem operações ou desviarem recebimentos. Relação familiar, porém, não corresponde a balanço único com garantias ilimitadas: uma casa inglesa podia dispor de ouro enquanto outra mantinha títulos soberanos locais temporariamente difíceis de negociar. Liquidez, capital e obrigações dependiam de cada contrato. [2][3]
+Os cinco filhos desenvolveram operações economicamente relacionadas, mas distintas em território e forma jurídica. A **sociedade de 1810** reuniu três filhos — Amschel, Salomon e Carl — a Mayer em Frankfurt; Nathan e James não assinaram o primeiro contrato, quando Nathan já estabelecia negócios na Inglaterra; a expansão alcançou Londres, Paris, Viena e Nápoles ao longo dos anos seguintes. Correspondência e parentesco reduziam a possibilidade de intermediários ocultarem operações ou desviarem recebimentos. Relação familiar, porém, não corresponde a balanço único com garantias ilimitadas: uma casa inglesa podia dispor de ouro enquanto outra mantinha títulos soberanos locais temporariamente difíceis de negociar. Liquidez, capital e obrigações dependiam de cada contrato. [2][3]
 
 A reputação também dependia de pagamentos pontuais quando transporte e comunicações eram incertos. Recibos de títulos governamentais, correspondência sobre remessas e letras de câmbio revelam mecanismos mais concretos que a expressão abstrata 'poder financeiro'. Governos podiam preferir bancos capazes de distribuir títulos entre investidores de mercados diferentes; a vantagem estava na colocação, na liquidação confiável e na antecipação de recursos antes da arrecadação tributária. A rede internacional ampliava oportunidades e, simultaneamente, exposição a governos instáveis e mudanças cambiais.
 
@@ -156,16 +154,16 @@ Prospectos de títulos, acordos societários, arquivos de tesourarias, termos de
 
 ## Localização dos sócios, direitos contratuais e financiamento de Suez
 
-O acordo familiar de **1810** reuniu Mayer Amschel e **quatro filhos em Frankfurt**, enquanto Nathan atuava na Inglaterra. A rede posterior de cinco cidades surgiu gradualmente, e não como banco global moderno criado num instante. Correspondência familiar facilitava remessas e informações, mas não eliminava risco político ou cambial. A Deutsche Biographie confirma sociedades em transformação e registra mitos que acompanharam a ascensão. [2][3][12]
+O acordo familiar de **1810** reuniu Mayer Amschel e **três filhos — Amschel, Salomon e Carl — em Frankfurt**; Nathan e James não eram signatários do contrato inicial, e Nathan já atuava na Inglaterra. A rede posterior de cinco cidades surgiu gradualmente, e não como banco global moderno criado num instante. Correspondência familiar facilitava remessas e informações, mas não eliminava risco político ou cambial. A Deutsche Biographie confirma sociedades em transformação e registra mitos que acompanharam a ascensão. [2][3][12]
 
 O **empréstimo de £ 4 milhões em 1875** para aquisição britânica das ações egípcias do Canal de Suez é verificável em arquivos familiares, diplomáticos e do Banco da Inglaterra. O financiador acelerou a liquidação de aquisição autorizada pelo governo britânico, que se tornou titular das ações. A distinção importa à responsabilidade colonial: crise fiscal egípcia, poder estratégico britânico, custo do crédito e governança do canal são canais causais diferentes. [6][7][8]
 
 ```chart
 type: bar
-title: Organização dos negócios familiares no acordo de 1810
-unit: filhos Rothschild, não participação no mercado bancário
-Filhos na sociedade Frankfurt | 4
-Nathan separadamente ativo na Inglaterra | 1
+title: Participação dos cinco filhos de Mayer Amschel no primeiro contrato de 1810
+unit: filhos conforme condição de sócio signatário; documento do Rothschild Archive
+Filhos que assinaram com Mayer | 3
+Filhos fora do contrato original | 2
 ```
 
 Alegações de comando financeiro privado ilimitado devem ser testadas com direitos identificáveis: empréstimos, garantias, votos e instruções executáveis. A existência de uma família bancária judaica influente não comprova propriedade clandestina de governos ou de todos os bancos centrais. Rejeitar afirmações sem prova não protege influência financeira real da investigação; estabelece a evidência necessária para medi-la.
@@ -194,8 +192,8 @@ Alegações de comando financeiro privado ilimitado devem ser testadas com direi
 
 [11] Rothschild Archive, 1875 loan receipts collection: https://www.rothschildarchive.org/collections/archivists_choice/march_2015_suez_canal_loan_receipts_1876
 
-[12] Deutsche Biographie, history of Rothschild dynasty and banking: https://www.deutsche-biographie.de/sfz108438.htm
+[12] Deutsche Biographie, history of Rothschild dynasty and banking: https://www.deutsche-biographie.de/sfz108438.html
 
 [13] The Rothschild Archive, Financing the New Nation, Brazil 1824–1829 sovereign loans: https://www.rothschildarchive.org/exhibitions/brazil/financing_the_new_nation
 
-[14] The Rothschild Archive, Brazil, 1825 bond and 1858 railway financing; British military gold transfers: https://www.rothschildarchive.org/exhibitions/brazil/the_rothschilds_in_brazill
+[14] The Rothschild Archive, Brazil, 1825 bond and 1858 railway financing; British military gold transfers: https://www.rothschildarchive.org/exhibitions/brazil/the_rothschilds_in_brazil
