@@ -104,14 +104,14 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 3,
+  "revision": 4,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026; archival and scholarly sources dated in bibliography.",
     "editorial_novelty": "Deepened financial biography of original partners and successors, imperial Brazilian loan issues of 1824, 1825 and 1829, railway financing from 1858, Napoleonic gold remittances and Suez political distinction.",
-    "visual_signature": "Two quantified, semantically matched bilingual charts; chronology, flow, geographical map.",
-    "source_check": "Fourteen archival, state, academic and historical sources; sovereign credit, first issue and follow-on debt financing distinguished.",
-    "bilingual_parity": "Full parallel PT-BR and EN multigenerational financial mechanisms with source and numeric chart parity.",
+    "visual_signature": "Dated cumulative family banking city branches 1810–1821; 1810 signatory counts mutually exclusive: 3 initial signatories vs 2 other sons.",
+    "source_check": "14 identical verified source URLs incl. authoritative Rothschild Archive signed 1810 agreement naming three sons Amschel, Salomon and Carl; Nathan and James not party.",
+    "bilingual_parity": "EN/PT sources canonical URLs, correct lineage and two chart value series match; metadata removed from article opening.",
     "methodology": "Cross-check family archive against academic/court/government source; avoid unverified historical fortune or covert-control claims."
   }
 }
