@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-24T17:43:12.785Z",
+  "last_reconciled_at": "2026-10-24T18:27:40.585Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6731,6 +6731,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No new evidence of deployed technology capacity or technical milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-ai-capital-cycle-reconciliation",
+      "reconciled_at": "2026-10-24T18:27:40.585Z",
+      "report_ids_reviewed": [
+        "MT-IA-2026-10-24-AI-CAPITAL-CYCLE"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Qualitative counterparty circular financing, Taiwan semiconductor and global power dependencies are evidenced at sector level; this report does not supply new canonical directed pair-level exposures, dated amounts and recoverable edges without double counting."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Potential grid efficiency, GPU reuse, portability and smaller-model routing can reduce waste, but this report does not verify one geographically and operationally bounded atlas-ready intervention with attributable result."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Microsoft, Alphabet, Amazon, Meta, Oracle, Nvidia and CoreWeave financing/contracting are documented as institutional roles; existing actor entries have no verified new beneficial-ownership or governance-control event that warrants changing canonical record."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Electricity access, advanced chip fabrication and memory are structural input constraints but no new operator-specific ownership/production-capacity rights are independently verified for an atlas addition."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Central bank risk assessments and regulatory inquiry are research context, not one bounded intervention with verified policy outcome data."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Strategic chip competition and dual-use issues are treated conditionally; no dated armed-conflict system event with actor-specific corroboration is introduced."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Frontier AI gains and deployment are covered by Stanford/issuer sources but no new distinct dated technical milestone suitable for the controlled technology-signal ledger is established by this analytical synthesis."
         }
       ]
     }
