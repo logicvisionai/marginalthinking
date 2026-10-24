@@ -110,6 +110,22 @@ O enigma é por que prestígio político não protegeu o balanço. Acesso privil
 
 Pesquisas futuras devem reconstituir contratos societários, empréstimos por devedor, liquidações cambiais, impostos e nomeações ao longo do tempo. De Roover ressaltou a inexistência de balanços completos; rankings exatos da fortuna da família no século XV, convertidos a dólares de hoje, são especulativos. A conclusão relevante envolve mecanismos e documentos, não patrimônio familiar inventado de trilhões.
 
+## Acesso contratual e solvência dos bancos no século XV
+
+A Oxford situa a primeira função Medici como depositária da Câmara Apostólica em **1420**, por **vinte e dois anos**, e outro vínculo posterior em **1443–1473**, intervalo de trinta anos. A expressão imprecisa 'quase quarenta' na fonte não deve substituir datas explícitas. Serviços financeiros papais geram liquidação de pagamentos valiosa, mas não soberania política. Direito contratual não é propriedade do patrimônio eclesiástico nem comando executivo da Igreja. [1]
+
+Governantes devedores e gestores externos criavam riscos correlacionados. Dívida nominalmente exigível de um príncipe pode ser impossível de cobrar enquanto depositantes pedem moeda. As filiais preservavam capitais e obrigações próprias, tornando arriscado calcular retrospectivamente uma fortuna bancária única. Prestígio, alcance internacional e mecenato são ativos diferentes em sua liquidez. [2][3][4]
+
+```chart
+type: bar
+title: Dois períodos distintos de relação financeira dos Medici com a Câmara Apostólica
+unit: anos; primeira função e intervalo posterior, sem controle ininterrupto
+Primeiro período depois de 1420 | 22
+Período posterior 1443–1473 | 30
+```
+
+As sociedades bancárias terminaram na crise de 1494; familiares ocuparam depois cargos eclesiásticos e ducais sob outras instituições. Influência cultural sobreviveu onde obrigações e direitos empresariais não. Avaliação financeira precisa de contratos, contas de filiais, recuperação de empréstimos e pessoas jurídicas distintas, não estimativa inventada de fortuna convertida à moeda atual.
+
 ### Fontes e registros documentais
 
 [1] Oxford Bibliographies, Heinrich Lang, Medici Bank 1397–1494: https://academic.oup.com/reference/62416/reference-article-abstract/555922868
@@ -125,5 +141,7 @@ Pesquisas futuras devem reconstituir contratos societários, empréstimos por de
 [6] Cambridge University Press, Italian urban economy and guilds: https://www.cambridge.org/core/books/abs/towns-of-italy-in-the-later-middle-ages/urban-economy/6540F6DF9A4B2916950F2CC2076D7389
 
 [7] Cambridge, commerce and communication in medieval Europe: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
+
+[8] Encyclopaedia Britannica, history of the Medici family: https://www.britannica.com/topic/Medici-family
 
 **Critério epistemológico:** Diferenciar evidência de contrato, informações de arquivos mantidos pelas famílias, interpretações acadêmicas e lendas posteriores. Não converter prestígio financeiro em poder soberano não documentado.
