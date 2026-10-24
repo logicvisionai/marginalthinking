@@ -1,0 +1,132 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-ROCKEFELLER",
+  "revision": 0,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T18:45:47.027Z",
+  "reviewed_commit": "23f9db18601f4188dd3413caa6fd10f8f57d4573",
+  "pending_blob_sha": "7642cc03b7f6f8817007aebb0c6a75041f515953",
+  "source_blob_shas": {
+    "en": "0f6ba7fd970e964246d02971569081b2c452cb40",
+    "pt-BR": "9403c86430a5af724d512dcc51a512f56372ae0b"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "strict_editorial_depth_validator",
+      "location": "Both staged Markdown editions; scripts/validate-editorial-depth.mjs lines 37-53",
+      "issue": "Post-12-Oct nonweekly research requires >=1700 substantive words, >=2 explicit chart fences, >=1 flow, >=1 map, >=3 table rows, >=8 distinct source URLs and >=6 H2. EN has 1739 words, 1 chart, 0 maps; PT-BR has 1655 words, 1 chart, 0 maps. Both have 8 URLs, 10 H2, 1 flow and 6 table lines. The PT-BR word floor and both chart/map floors fail.",
+      "evidence": [
+        "scripts/validate-editorial-depth.mjs: minWords=1700, minCharts=2, visual.map>=1 for research dated 2026-10-24.",
+        "EN 1739 words/1 chart/0 maps; PT-BR 1655 words/1 chart/0 maps; full source and word expressions reproduced on exact Git staged blobs."
+      ]
+    },
+    {
+      "type": "visual_evidence_not_analytical",
+      "location": "Both Markdown `chart` blocks titled 'Documented Rockefeller Sr. lifetime charitable giving' / 'Doações filantrópicas históricas de Rockefeller Sr.'",
+      "issue": "The only quantitative chart in each language contains a single bar (540 USD million cumulative lifetime donations). This is a number rendered as a chart without a meaningful distribution, time series or comparison. It fails RESEARCH-VISUALS.md's evidence-bearing rather than decorative requirement, independently of the strict chart count. The flow and mindmap are useful structural aids but do not substitute for a meaningful quantitative comparison or required map.",
+      "evidence": [
+        "Rockefeller Archive Center biography verifies $540m total but supplies additional comparable historical figures with explicit units, e.g. Standard Oil capitalization and dated holdings; a valid new chart must use compatible observations and not mix cumulative giving with capital stocks.",
+        "https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/"
+      ]
+    },
+    {
+      "type": "evidence_to_claim_traceability",
+      "location": "Both versions 'The second and third generations...' and 'Changing attitudes to fossil energy...' / 'Segunda e terceira gerações...' and 'Mudanças de orientação...' ",
+      "issue": "The text cites [6] a Rockefeller Foundation homepage, [7] the Rockefeller Brothers Fund homepage and [8] the Rockefeller Family Fund homepage to support distinct individual biographies, governance arrangements and modern divestment/climate claims. Those generic landing pages are not direct evidence for each dated institutional action or genealogy. The direct Rockefeller Archive Center biographies and the RBF dated fossil-fuel-divestment disclosures provide materially closer evidence and should be cited claim-by-claim.",
+      "evidence": [
+        "https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-jr/",
+        "https://www.rbf.org/mission-aligned-investing/fossil-fuel-divestment",
+        "https://www.rffund.org/"
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Both editions immediately below H1; PT-BR 'Corte documental: 24 October 2026'",
+      "issue": "The report opens with administrative publication/cutoff labels and a generic self-description of research methodology rather than a direct thesis. The PT-BR date contains untranslated English. This fails first-reading and localization requirements; additionally the draft's conclusion after the visual blocks is a generic evidence-limits template rather than a specific synthesis of antitrust, wealth control and philanthropic governance.",
+      "evidence": [
+        "EN: 'Research on economic, institutional and social relationships.'",
+        "PT-BR: 'Corte documental: 24 October 2026.'",
+        "EN/PT-BR 'Evidence limits and counterfactuals' paragraphs are generic and could apply to an unrelated institutional biography."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Expand PT-BR to at least 1700 substantive words through evidence and distinct causal analysis, not padding. Preserve semantic parity with EN and verify every new material claim.",
+    "Provide at least two genuinely analytical and reproducible quantitative charts in both editions and a meaningful geographic `map` block as required by the actual strict validator. Prefer comparable dated Standard Oil market/production figures or philanthropy institution footprints from original records; label period, unit and source. Do not fabricate, interpolate or mix incompatible stock/flow measures.",
+    "Replace the single-value $540m chart with a sourced, dimensionally valid comparison, or present that number in a table/prose and use charts that reveal an actual analytical pattern.",
+    "Attach specific archival biographies to John D. Rockefeller Jr., Nelson Rockefeller and David Rockefeller claims. Cite the RBF's dated fossil-fuel divestment disclosure and RFF's specific climate-program description for contemporary actions; distinguish private holdings from endowment portfolios and public grantmaking.",
+    "Rewrite EN/PT-BR openings as a direct 1–3 paragraph thesis about integration, exclusion, antitrust remedies, post-breakup asset control and independent philanthropy. Remove reader-facing administrative template lines or move to metadata, and localize PT-BR dates fully.",
+    "Replace generic 'Evidence limits and counterfactuals' conclusion with Rockefeller-specific evidence boundaries and falsifiable institutional interpretations; preserve the accurate $540m lifetime figure as historical nominal giving, not present family wealth."
+  ],
+  "evidence": [
+    "Full pending and both staged Markdown editions read from reviewed HEAD 23f9db18601f4188dd3413caa6fd10f8f57d4573; three Git blob SHAs recorded literally.",
+    "Strict validator's exact word/URL/heading/chart/flow/map/table expressions reproduced; full repository Node scripts were inspected but not run on local checkout.",
+    "Rockefeller Archive Center documents Standard Oil organization in 1870, court-ordered dissolution in 1911 and $540m lifetime philanthropy; the US Supreme Court opinion and Rockefeller Brothers Fund 2014 divestment statement provide direct context for the legal and climate claims."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 ready English-first; program, dimensions, topics, phenomena, format, cadence and global geography are controlled. The global geography classification is broad for US-originated history but not a strict taxonomy violation given worldwide philanthropic mechanisms."
+    },
+    "research_depth": {
+      "result": "failed",
+      "en_words": 1739,
+      "pt_br_words": 1655,
+      "required_words": 1700,
+      "en_h2": 10,
+      "pt_br_h2": 10,
+      "unique_urls_en": 8,
+      "unique_urls_pt": 8,
+      "charts_en": 1,
+      "charts_pt": 1,
+      "required_charts": 2,
+      "maps_en": 0,
+      "maps_pt": 0,
+      "required_maps": 1,
+      "validator": "scripts/validate-editorial-depth.mjs"
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "summary": "Rockefeller Archive Center $540m, Standard Oil founding 1870 and 1911 decision independently confirmed. Generic homepages insufficient for distinct descendant biographies and dated divestment/governance claims."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "summary": "Text correctly avoids inferring that corporate breakup confiscated all assets and distinguishes endowment from private wealth, but needs institution-specific causal evidence and evaluation."
+    },
+    "translation_check": {
+      "result": "failed",
+      "summary": "Substantive historical claims and $540m value match; PT-BR contains English cutoff date, and PT-BR research depth is below floor."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Administrative labels and methodological self-description precede thesis.",
+      "headings": "Ten topical analytical H2 headings per edition.",
+      "language_localization": "PT-BR '24 October 2026' remains English.",
+      "repetition": "No same-subject duplicate detected among recent canonical October reports; no novelty-only rejection.",
+      "cohesion": "Sequence from refineries to antitrust to philanthropy is broadly coherent but conclusion is generic.",
+      "template_meta_qa": "Generic lead and evidence-limit conclusion read like reusable template."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature": "Each locale: one one-bar 540m USD chart, one 4-row table, one causal flow, one mindmap; no map.",
+      "limitations": "Strict visual count fails and lone chart is decorative rather than a comparison. EN/PT chart values match."
+    },
+    "contextual_depth": {
+      "result": "partial",
+      "summary": "Industrial organization, law and philanthropic governance mechanisms are integrated, but individual descendant/institution distinctions need more direct documentary substantiation."
+    }
+  },
+  "contrary_evidence": [
+    "Rockefeller Archive Center documents that the 1911 breakup preserved the successor corporations and Rockefeller's shareholdings; the text appropriately acknowledges continuing wealth but does not quantify changes.",
+    "Rockefeller Brothers Fund's March 31 2026 disclosure still reports approximately 0.1% fossil-fuel exposure, contrary to an inference that the institution had eliminated every such investment; the draft does not assert full divestment but should specify the distinction if it discusses outcomes."
+  ],
+  "limitations": [
+    "Full repository Node validators were not executed; exact strict expressions were reproduced on reviewed files.",
+    "The historical $540m giving figure is confirmed by Rockefeller Archive Center but does not by itself establish philanthropic outcomes or contemporary family wealth.",
+    "Review of all descendant biographies and climate grants requires revised direct source citations."
+  ],
+  "notes": "No approval created. Producer 3/5 should correct same ID/slug with new pending and staged source blobs. Rejection is tied to exact three reviewed blob SHAs; no public surfaces modified."
+}
