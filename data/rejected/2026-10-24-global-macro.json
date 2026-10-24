@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-24",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T08:39:46.745Z",
+  "reviewed_commit": "1c79b84dde5b87a13e43e8ca80be53719ed72c60",
+  "pending_blob_sha": "2a38d8f65efdefefa571e0600ea3f947f29dfcb8",
+  "source_blob_shas": {
+    "en": "594df0fa5d78aaafeaa64f3183d72408171a3c3f",
+    "pt-BR": "e7beafa7e9ca986ab559d7506dc5d8184e145fbf"
+  },
+  "program": "political-economy-markets",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_depth_validator",
+      "location": "staging/research/2026/10/2026-10-24-global-macro/en.md and pt-BR.md; all level-2 headings",
+      "issue": "Both staged editions contain exactly five level-2 analytical headings, below the six required by scripts/validate-editorial-depth.mjs for research after 2026-10-12. The strict editorial-depth gate therefore fails despite meeting the word-count and visual-count thresholds. The sections currently are business surveys; Treasury yields; household affordability; capital selectivity; and dislocations/next test."
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "EN final paragraph beginning 'The reader learns today...' and PT-BR final paragraph beginning 'A novidade é que...'",
+      "issue": "The English ending speaks about what the reader learns today and announces 'This is institutional analysis, not personalized investment advice'; the paired Portuguese text similarly comments on the edition rather than ending solely with an evidence-led synthesis. This is avoidable meta-editorial scaffolding under RESEARCH-PUBLISHING.md and EDITORIAL-STYLE.md."
+    },
+    {
+      "type": "source_traceability",
+      "location": "EN and PT-BR Sources [12], and oil-route paragraph citing [12][13]",
+      "issue": "Reference [12] labels an October EIA outlook but links to the generic EIA Markets & Finance page. That landing page is not the dated October Short-Term Energy Outlook itself. The correct primary outlook has release date 6 October 2026 and model inputs finalized 1 October, which matters for interpreting the 23 October oil market move. A direct dated citation is needed."
+    }
+  ],
+  "required_fixes": [
+    "Develop at least one additional substantive, distinct evidence-and-mechanism section in both editions so the six-heading minimum is met; do not insert an ornamental heading. For example, distinguish the observed October PMI price components from real household income, policy transmission and any independently dated household spending series, using verified primary data.",
+    "Rewrite the final EN/PT-BR synthesis to state the supported economic conclusion and discriminating future observations directly, without narrating what the reader learns or advertising the editorial process.",
+    "Replace [12] with the dated EIA October 2026 Short-Term Energy Outlook primary document, explicitly noting the 1 October forecast-input cutoff and that it cannot verify the 23 October oil quotation. Keep the contemporaneous price source [13] separately attributed and clarify Brent/WTI benchmark and observation time if stating a numeric market quote.",
+    "Keep the same ID, slug, date and revision logic, return new staged EN/PT-BR files and updated pending SHAs, and rerun strict editorial-depth, pipeline, factual and bilingual visual checks."
+  ],
+  "evidence": [
+    "scripts/validate-editorial-depth.mjs sets minWords=1700, minCharts=2 and requires headings >=6 for non-weekly items after 2026-10-12. Its word-count and heading expressions were applied directly to the reviewed staged texts: EN 1803 words/5 level-2 headings; PT-BR 1965 words/5 level-2 headings.",
+    "Both staged editions have two explicit charts, one flow, one map and two markdown tables; the chart numeric series match literally across EN and PT-BR. No visual minimum failure identified in this pass.",
+    "ONS Retail Sales, Great Britain: September 2026, released 23 October 2026, confirms -0.4% September month-on-month, +0.7% revised August and +0.7% Q3/Q2 volume change (https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026).",
+    "University of Michigan Institute for Social Research, 23 October 2026, confirms October sentiment 48.0 versus September 48.1, -18% durable buying conditions and 4.8-point minimum significant change (https://isr.umich.edu/news-events/news-releases/as-concerns-over-purchasing-power-dominate-consumer-sentiment-moves-sideways/).",
+    "EIA October Short-Term Energy Outlook release dated 6 October, inputs finalized 1 October (https://www.eia.gov/outlooks/steo/), unlike the cited general finance landing page (https://www.eia.gov/finance/).",
+    "Reuters 23 October 2026 reporting LSEG Lipper fund flows confirms $5.07bn equity inflows, $8.63bn large-cap inflows, $4.24bn small-cap outflows, $969m bond outflows and $14.82bn money-market inflows (https://www.reuters.com/legal/transactional/us-equity-funds-post-inflows-second-straight-week-2026-10-23/)."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_on_reviewed_fields",
+      "notes": "V2, ready, English-first, controlled program, dimensions, topics and phenomena were structurally consistent in the inspected pending."
+    },
+    "research_depth": {
+      "result": "failed",
+      "en_words": 1803,
+      "pt_br_words": 1965,
+      "en_level2_headings": 5,
+      "pt_br_level2_headings": 5,
+      "required_level2_headings": 6,
+      "validator": "scripts/validate-editorial-depth.mjs"
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Generic EIA landing page is substituted for the cited dated October outlook; the time-vintage qualification is material."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "Text distinguishes survey inference from GDP, market price from physical oil interruption, and records contrary UK/India activity. Full recheck is required on corrected SHAs."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_material",
+      "notes": "EN/PT-BR observed figures, visual numeric series and main economic argument agree in the passages reviewed."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Specific October PMI thesis in the opening, not a generic form.",
+      "headings": "Five analytical level-2 headings in each locale, below strict six-heading threshold.",
+      "language_localization": "No blocking untranslated English heading found in PT-BR.",
+      "repetition": "Distinct from 21–23 October editions in headline new October flash-PMI observations; no repetition-only rejection.",
+      "cohesion": "Coherent movement from business surveys to financing, households, fund flows and scenarios, but missing one substantive section under the stricter contract.",
+      "template_meta_qa": "Final paragraph contains explicit reader-facing editorial meta-commentary in EN and PT-BR."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_inspected_signature",
+      "signature": "EN/PT-BR: 2 charts, 2 tables, 1 flow, 1 map; identical chart values [57.6,56.7,53.1,52.3,51.9] and [4.69,5.00,5.33].",
+      "limitations": "Full repository validators were not executed in this connector-only environment; figures and arrows require revalidation on changed SHAs."
+    },
+    "contextual_depth": {
+      "result": "sufficient_for_checked_claims",
+      "notes": "UK consumption, French institutional disruption and US household affordability are connected to economic transmission rather than inserted as ornamental history."
+    }
+  },
+  "contrary_evidence": [
+    "The euro-area PMI remained above 50 despite deceleration.",
+    "UK and India flash composite PMIs accelerated, contrasting with euro-area slowdown.",
+    "US sentiment monthly change of -0.1 point is not statistically meaningful.",
+    "An oil price premium does not demonstrate an equivalent physical supply interruption."
+  ],
+  "limitations": [
+    "The complete scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs were inspected, but not executed as a repository-wide Node process; the blocking depth subchecks were reproduced directly against exact reviewed files.",
+    "Not every market or PMI subindex claim was independently verified; factual QA must be repeated on corrected staged SHAs.",
+    "No public metadata for this ID, and no approved or rejected sidecar, existed at the immediately rechecked HEAD before this rejection."
+  ],
+  "notes": "QA-only rejection; no reports/**, public index, taxonomy, CSS or institutional content changed. Producer 1/5 should correct the same ID and return new pending/source SHAs. No producer handoff is claimed unless independently confirmed."
+}
