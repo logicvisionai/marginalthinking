@@ -170,7 +170,7 @@ Alegações de comando financeiro privado ilimitado devem ser testadas com direi
 
 ### Arquivos documentais e historiografia
 
-[1] Rothschild Archive, family origins: https://www.rothschildarchive.org/family
+[1] Rothschild Archive, family origins: https://www.rothschildarchive.org/family (fonte consultada em outubro de 2026)
 
 [2] Rothschild Archive, five banking branches and business network: https://www.rothschildarchive.org/business/
 
