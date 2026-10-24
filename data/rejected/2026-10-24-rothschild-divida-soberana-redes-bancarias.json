@@ -1,0 +1,139 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-ROTHSCHILD",
+  "revision": 0,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T20:43:12.873Z",
+  "reviewed_commit": "cf018ad80571648d6c6572da91624c6a821dd38b",
+  "pending_blob_sha": "f1464909b732c8b5a018d341ea9d10777bb3e631",
+  "source_blob_shas": {
+    "en": "dec05d4be6e46367ba1712ef6fcffacab5732d3e",
+    "pt-BR": "3bc8ef7c925db22a450b9ea29edb6912588f4689"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "strict_editorial_depth_validator",
+      "location": "EN/PT-BR staged Markdown, sole chart block; bibliography [1]–[8]; scripts/validate-editorial-depth.mjs",
+      "issue": "For post-12-Oct nonweekly research the validator requires >=2 explicit chart fences and >=4 distinct source hosts in each language. Both editions have one chart and only three hosts (rothschildarchive.org, arxiv.org, ft.com), despite eight URLs, adequate word counts, H2s, one flow, one map and one Markdown table. The candidate fails the mandatory strict gate.",
+      "evidence": [
+        "EN 2411 and PT-BR 2195 substantive words using script's stripFences/wordCount expressions; 15 H2 each; one chart each; 8 URLs across 3 hosts.",
+        "scripts/validate-editorial-depth.mjs: minCharts=isWeekly?3:2; domains.size<4; strict-mode MT_VALIDATE_ALL_PENDING=1."
+      ]
+    },
+    {
+      "type": "decorative_visual_and_bilingual_label",
+      "location": "Both chart fences immediately following the four-row mechanism table; EN 'Sons represented in two phases of the Rothschild business network'; PT-BR 'Filhos da família associados às duas fases da rede Rothschild'",
+      "issue": "The 3-versus-5 bars compare named sons in an 1810 agreement with the later number of banking houses. They are different category definitions across time, not a comparable independent financial observation; PT-BR explicitly labels the second bar as houses, while EN labels it sons leading houses. This induces an artificial 3-to-5 quantitative trajectory and breaks semantic parity of the measured unit.",
+      "evidence": [
+        "EN: 'Sons named in 1810 partnership | 3' versus 'Sons leading later five banking houses | 5'.",
+        "PT-BR: 'Sócios filhos nomeados no acordo de 1810 | 3' versus 'Casas associadas a filhos na rede posterior | 5'.",
+        "RESEARCH-VISUALS.md Evidence rules 1–5 and 9; visual must not be decorative or compare different units."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Directly after H1 in both editions; later H2 'Sovereign debt underwriting and the boundaries of creditor power', 'Networks of information, currency and risk', 'Brazil, credit dependence and an uncomfortable historical legacy', 'Financial dynasties, institutions and responsible interpretation'",
+      "issue": "The opening consists solely of a date/cutoff disclaimer followed by a heading, without a 1–3 paragraph thesis. After the visual blocks, four sections substantially re-explain the underwriting/sovereignty distinction, correspondence advantages, Brazil 1886 and family control/Waterloo already covered in earlier sections, adding length but little new documentary evidence. The narrative is stitched and repetitive.",
+      "evidence": [
+        "EN lead '**Date and information cutoff: 24 October 2026. Historical analysis; records and figures are attributed to their respective periods and entities.**'; PT-BR paired administrative line.",
+        "Repeated first-half H2s 'Sovereign bonds, coupon collection and the price of state credit', 'Information advantages and their historical limits', 'Brazilian sovereign finance and the 1886 correspondence over slavery' and 'Testing myths...' map onto the four later H2s."
+      ]
+    },
+    {
+      "type": "source_traceability",
+      "location": "Brazil 1886 sections citing [8]; financing and railway sections citing [4]–[6]",
+      "issue": "The 1886 Brazil correspondence is attributed to a Financial Times commentary behind a registration barrier, without a directly identified archival letter, date/sender/counterparty and accessible transcription. Broad Rothschild Archive business-house pages support institutional background but not the specific rail issues, fee schedules or loan transactions implied in the analysis. Historical claims must distinguish documented primary contracts from plausible economic mechanisms.",
+      "evidence": [
+        "FT Alphaville article 'Ür-ESG, Brazil and the Rothschilds' at https://www.ft.com/content/14c854d8-4c5c-4e88-9d57-f69db7100a5d is access-gated; original 1886 letter not linked in bibliography.",
+        "https://arxiv.org/abs/2103.01558 studies 23,493 bills re-discounted in 1906, appropriate as later market context, not direct proof of nineteenth-century Rothschild transactions.",
+        "Rothschild Archive pages [4]–[6] are institutional overviews rather than dated bond or railway contracts."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the 3-versus-5 bar chart with two or more independently sourced and analytically meaningful charts per locale, using compatible units and dated observations; if the archive lacks reliable quantitative series, reframe with sourced comparable counts and clear scope rather than invent values.",
+    "Add at least one independent, material fourth source host (not another URL on the same archive domain), tied to a specific historical assertion; retain eight or more distinct cited source URLs.",
+    "Write a thesis-bearing opening in both languages explaining the specific relationship between banking intermediation, sovereign finance and the limits of creditor control; move administrative cutoff into metadata or after the analytical lead.",
+    "Condense repeated later sections into genuinely distinct new evidence or remove duplication; conclude with specific archival limitations and economic findings rather than a repeated Waterloo/ownership caveat.",
+    "For the 1886 Brazilian episode, identify the original archival correspondence or specialist scholarly treatment and explicitly distinguish the available FT secondary interpretation from primary record; attach transaction-specific sources to particular railway and sovereign debt claims.",
+    "Restore semantic EN/PT-BR equivalence for every quantitative label and unit; keep ID, slug, date, source_locale and canonical identity unchanged and return changed pending/EN/PT-BR Git blobs for fresh QA."
+  ],
+  "evidence": [
+    "Entire v2 pending and both staged editions inspected from Git HEAD cf018ad80571648d6c6572da91624c6a821dd38b; real blob SHAs recorded.",
+    "Reproduced exact word, URL-host, chart, map, flow and heading checks from scripts/validate-editorial-depth.mjs and visual signature from scripts/lib/visuals.mjs; repository-wide Node validators were inspected but not executed.",
+    "Arxiv 2103.01558 primary paper confirms authors Accominotti, Lucena-Piquero and Ugolini and 1906 bills dataset; FT 1886 commentary access-gated; Rothschild Archive family partnership citation inspected as linked but its page fetch was unavailable."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "schema v2 ready English source, controlled global-system-power, related program, economy/politics/society, topics, phenomena, format research-report, cadence event-driven; staged files exist."
+    },
+    "research_depth": {
+      "result": "failed",
+      "en_words": 2411,
+      "pt_br_words": 2195,
+      "required_words": 1700,
+      "en_h2": 15,
+      "pt_br_h2": 15,
+      "unique_urls_en": 8,
+      "unique_urls_pt": 8,
+      "source_hosts_en": 3,
+      "source_hosts_pt": 3,
+      "required_hosts": 4,
+      "charts_en": 1,
+      "charts_pt": 1,
+      "required_charts": 2,
+      "flows_en": 1,
+      "flows_pt": 1,
+      "maps_en": 1,
+      "maps_pt": 1,
+      "tables_en": 1,
+      "tables_pt": 1,
+      "validator": "scripts/validate-editorial-depth.mjs strict expressions reproduced; not executed"
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "No directly linked 1886 archival letter; FT secondary article registration-gated; several specific transaction implications rely on generic institutional archive landing pages."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "summary": "Useful distinction between creditor contracts and sovereign authority and rejection of conspiracy narratives; causal historical evidence needs dated transaction records and a stronger comparison."
+    },
+    "translation_check": {
+      "result": "failed",
+      "summary": "Same general sections and citations, but chart denominator switches between sons and banking houses in the two locales; recheck after fixes."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Date/cutoff-only line before first H2; no opening thesis.",
+      "headings": "Mostly specific but four late headings duplicate earlier argument.",
+      "language_localization": "PT-BR generally idiomatic; chart denominator differs.",
+      "repetition": "Underwriting, network information, Brazil 1886, dynastic control and Waterloo restated after visuals.",
+      "cohesion": "First half coherent; second half appends near-duplicate mini-essays.",
+      "template_meta_qa": "Administrative cutoff opening and generic repeated caution are visible."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature": "EN/PT-BR: 1 table, 1 chart, 1 flow, 1 map; chart values 3 and 5, but second category measures different objects.",
+      "limitations": "Minimum 2 charts in stricter editorial-depth script not met; quantitative bar chart lacks meaningful same-unit series."
+    },
+    "contextual_depth": {
+      "result": "partial",
+      "summary": "Legal restrictions on Jewish residents and interstate finance are relevant; stronger archival grounding of Brazilian political-economy link needed."
+    }
+  },
+  "contrary_evidence": [
+    "The cited 1906 bill-market study shows numerous competing intermediaries rather than exclusive Rothschild control.",
+    "Legal sovereign authority and beneficial ownership differ from underwriting and custody.",
+    "FT secondary discussion of 1886 correspondence is not proof of a causal role in abolition or regime change."
+  ],
+  "limitations": [
+    "Original 1886 letter and paywalled FT full text were not independently opened; no conclusive finding on its exact wording.",
+    "Full Node validators cannot run without a local repository checkout; deterministic gates were reproduced against Git blobs.",
+    "No public metadata or approval for this ID existed at immediately rechecked HEAD."
+  ],
+  "notes": "QA-only rejection. No reports/**, indexes, taxonomy, CSS or institutional surfaces changed. Producer 3/5 is responsible for correction; no immediate producer handoff confirmed."
+}
