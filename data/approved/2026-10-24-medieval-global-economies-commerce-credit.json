@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-10-24-MEDIEVAL",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-24T22:10:57.269Z",
+  "reviewed_commit": "64def9ddf660fda3215450524999f240ba8bfea6",
+  "pending_blob_sha": "9f2a2d124261996badb732b800d21697a1567b7c",
+  "source_blob_shas": {
+    "en": "792b94eb0ce2be0d0ea2bad584d96a0165e5c518",
+    "pt-BR": "a17372341164c25ccbcfca27e378a82ca1cf3d61"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Medieval scholarship and National Archives source framework; historical model numbers and periods expressly hypothetical, never misrepresented as measured population averages."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Distinct products: global/European medieval commercial economy versus narrower manorial rents and coercive rights, without conflating fief and manor."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two numeric-series charts with explicit pedagogical and sourcing caveats, evidence/measurement table, historical causal diagram and geography map; bilingual numerical agreement."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2776,
+        "pt": 2487,
+        "urls_en": 12,
+        "urls_pt": 12
+      },
+      "summary": "14 analytic headings, 12 scholarly and archive references over 4 hosts."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Cambridge, Oxford, Wiley and UK National Archives / history specialist references integrated; source URLs and modeling assumptions match across locales."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explicit contract-incidence examples show mechanisms rather than pretending to estimate medieval averages; pestilence and regional labour divergence assessed conditionally."
+    }
+  },
+  "contrary_evidence": [],
+  "limitations": [
+    "Numerical models are didactic, not empirical medieval averages",
+    "Spatial and legal diversity prohibits universal feudal GDP inference"
+  ],
+  "notes": "QA tied to exact pending and staged source blobs, subject to independent production build and deployment.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-10-24-MEDIEVAL",
+    "slug": "2026-10-24-medieval-global-economies-commerce-credit",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T18:00:00-03:00",
+    "kind": "economic-paradigm-assessment",
+    "priority": 31,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-medieval-global-economies-commerce-credit/en.md",
+        "title": "Medieval economies beyond the stereotype: agriculture, cities, money and trading networks",
+        "deck": "Comparative medieval economic history from agricultural surplus to urban markets, guilds, monetary instruments and the demographic effects of plague across distinct world regions.",
+        "tags": [
+          "Medieval economies",
+          "Agrarian surplus",
+          "Guilds",
+          "Banking",
+          "Trade",
+          "Black Death"
+        ],
+        "keywords": [
+          "medieval economy",
+          "1000-1300 commerce",
+          "guilds",
+          "medieval banks",
+          "bills of exchange",
+          "Black Death",
+          "Islamic Middle East",
+          "economic history"
+        ],
+        "regime": "Agrarian and urban financial systems coexist under highly varied institutions.",
+        "key_risk": "Anachronistic GDP claims and global application of a uniform feudal model.",
+        "watch": [
+          "Archival wage and yield records",
+          "Regional institutional historiography",
+          "Cross-region comparability of currencies and prices"
+        ],
+        "search_text": "medieval economy historical agriculture guilds Black Death wages trade Islamic medieval urban finance"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-medieval-global-economies-commerce-credit/pt-BR.md",
+        "title": "Economias da Idade Média além do estereótipo: agricultura, cidades, moeda e redes comerciais",
+        "deck": "História medieval comparada do excedente agrícola aos mercados urbanos, corporações, instrumentos monetários e efeitos da peste em regiões distintas.",
+        "tags": [
+          "Economia medieval",
+          "Excedente agrícola",
+          "Corporações",
+          "Bancos",
+          "Comércio",
+          "Peste Negra"
+        ],
+        "keywords": [
+          "economia medieval",
+          "comércio 1000 1300",
+          "corporações",
+          "bancos medievais",
+          "letras de câmbio",
+          "Peste Negra",
+          "mundo islâmico",
+          "história econômica"
+        ],
+        "regime": "Sistemas agrários, urbanos e financeiros coexistem sob instituições heterogêneas.",
+        "key_risk": "PIB anacrônico e aplicação mundial de feudalismo uniforme.",
+        "watch": [
+          "Arquivos de salários e colheitas",
+          "Historiografia institucional regional",
+          "Comparabilidade de moedas e preços"
+        ],
+        "search_text": "economia medieval agricultura corporações peste salários comércio mundo islâmico história financeira"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "banking-credit",
+      "trade-investment",
+      "industry-production",
+      "institutions-governance",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "24 Oct 2026. Medieval historiography and regional data as in source bibliography.",
+      "editorial_novelty": "Global comparative Medieval economies deliberately distinct from estate-level feudal study.",
+      "visual_signature": "Two bilingual-parallel and expressly labeled model charts, methodology table, causal flow and geography map.",
+      "source_check": "11 parallel scholarly research citations; dated/regionally bounded claims. 1 additional independent archival/historical sources.",
+      "bilingual_parity": "12 aligned EN/PT sections, identical source URLs and numerical chart values.",
+      "methodology": "Avoid spurious worldwide medieval GDP and treat illustrative allocation as hypothetical."
+    }
+  }
+}
