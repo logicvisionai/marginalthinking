@@ -38,7 +38,7 @@ Em **30 de abril de 1854**, foi inaugurado o primeiro trecho da Estrada de Ferro
 
 A economia ferroviária depende de rotas e volume transportado. Uma linha curta só se remunera se houver passageiros e carga suficientes, conectando áreas produtivas a portos ou outras redes. Trilhos, pontes e locomotivas precisam ser pagos antes de o tráfego amadurecer; direitos de passagem, tarifas e concessões determinam a apropriação pública e privada da renda. O desenvolvimento fracassa quando estradas, estações ou terminais complementares não são instalados simultaneamente.
 
-O experimento revela falha de coordenação. Um trecho isolado não transforma automaticamente um país continental. O contrafactual deve comparar fretes, tempos, tráfego esperado, garantias fiscais e investimentos públicos alternativos, e não traçar uma linha direta de 1854 ao crescimento industrial. A herança é um laboratório de cooperação público-privada em mercado nacional ainda fragmentado.
+O experimento revela falha de coordenação. Um trecho isolado não transforma automaticamente um país continental. Fretes, tempos de viagem, volume de cargas, garantias fiscais e alternativas de investimento determinam os ganhos atribuíveis à linha inaugurada em 1854; a cerimônia não demonstra por si só efeitos nacionais de crescimento. A herança é um laboratório de cooperação público-privada em mercado nacional ainda fragmentado.
 
 ```chart
 type: bar
@@ -70,7 +70,7 @@ Mauá atuou em Império escravista. O Estado protegeu juridicamente a propriedad
 
 Salários industriais podem ampliar consumo, mas se grande parcela da população não escolhe livremente empregadores nem acumula propriedade, o mercado interno de manufaturas permanece limitado. Proprietários de escravizados dispunham de poder político e práticas de garantia patrimonial que condicionavam crédito e legislação. O emprego de trabalhadores livres em um estaleiro não demonstra que seu proprietário transformou todo o regime de trabalho do Império.
 
-A avaliação integral exige contrafactual: com trabalho amplamente livre, escola e outra distribuição de terra, quais setores teriam formado demanda interna confiável? Responder numericamente requer dados hoje não apresentados; nenhum coeficiente inventado é utilizado. Industrialização por enclaves era possível sob escravidão, mas tinha alcance social profundamente limitado e desigual.
+A avaliação integral exige contrafactual: com trabalho amplamente livre, escola e outra distribuição de terra, quais setores teriam formado demanda interna confiável? Não há dados suficientes para quantificar a trajetória alternativa do consumo e dos salários após uma emancipação anterior. Industrialização por enclaves era possível sob escravidão, mas tinha alcance social profundamente limitado e desigual.
 
 ```flow
 Crédito mercantil e tecnologia importada → portos, ferrovias, metalurgia e comunicações → menores custos e trabalho especializado
@@ -92,7 +92,7 @@ A deterioração do grupo financeiro culminou na crise e nos processos da **meta
 
 Economicamente, perda de confiança de credores pode reforçar a si mesma. Retiradas de depósitos impõem venda de ativos imobilizados, preços deprimidos reduzem garantias, novos financiadores exigem condições piores e projetos promissores deixam de concluir obras. Mas reconhecer o mecanismo de corrida não demonstra capital próprio suficiente no início nem irracionalidade de todos os credores. É preciso distinguir iliquidez de insolvência e perguntar o que realmente podia ser realizado na liquidação.
 
-A memória pública comprime um processo extenso na palavra 'falência', apagando distinções jurídicas entre empresas, sócios e reestruturações. O estudo histórico deve identificar instrumento judicial e financeiro em cada episódio, sua data e a influência de mercados internacionais e regras de crédito do Império. Sem tais cuidados, analogias atuais com políticas de desenvolvimento são frágeis.
+A memória pública comprime um processo extenso na palavra 'falência', apagando distinções jurídicas entre empresas, sócios e reestruturações. Os instrumentos judiciais e financeiros diferiram entre as etapas da crise, assim como os efeitos dos mercados internacionais e das regras de crédito do Império. Sem tais cuidados, analogias atuais com políticas de desenvolvimento são frágeis.
 
 ```map
 title: Canais e locais documentados
