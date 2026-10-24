@@ -74,7 +74,7 @@ Dados da LSEG Lipper referentes à semana encerrada em **21 de outubro** apontar
 
 A distinção entre **fluxo, valorização e propriedade** é decisiva. Os números indicam preferência simultânea por ações grandes e líquidas e por reservas monetárias, não rotação universal para risco. Pesquisa separada da S&P Global com gestores identificou maior preferência por tecnologia, mas visão agregada neutra sobre retorno de curto prazo. É **opinião declarada**, não carteira verificada; uma pesquisa e um dado semanal não constituem consenso institucional amplo. A seletividade e os limites de cobertura são justamente a informação útil. [9][11]
 
-A alta do petróleo relatada na sexta-feira, associada na cobertura de mercado a novos receios sobre rotas do Oriente Médio, pode transmitir inflação, mas não comprova perda física equivalente de barris. Prêmio de risco, volume efetivamente interrompido e preço entregue ao importador são observações distintas. Ameaças ou alegações de grupos armados devem ser atribuídas; operações futuras são cenários, não fatos. A projeção de outubro da EIA não é cotação observada na sexta-feira. Uma interrupção persistente pode elevar fretes, combustíveis e custos de produção e reduzir a renda real dos importadores com defasagem. [12]
+A alta do petróleo relatada na sexta-feira, associada na cobertura de mercado a novos receios sobre rotas do Oriente Médio, pode transmitir inflação, mas não comprova perda física equivalente de barris. Prêmio de risco, volume efetivamente interrompido e preço entregue ao importador são observações distintas. Ameaças ou alegações de grupos armados devem ser atribuídas; operações futuras são cenários, não fatos. A projeção de outubro da EIA não é cotação observada na sexta-feira. Uma interrupção persistente pode elevar fretes, combustíveis e custos de produção e reduzir a renda real dos importadores com defasagem. [12][13]
 
 ```flow
 Produção e pedidos em carteira fortes nos EUA → restrições de oferta e frete → tentativa de repasse de preços → expectativas inflacionárias e custo nominal de financiamento
@@ -124,3 +124,6 @@ A novidade é que as pesquisas de outubro **divergem entre regiões e entre bala
 [11] Reuters, LSEG Lipper US weekly fund flows through 21 Oct, reported 23 Oct (secondary): https://www.reuters.com/legal/transactional/us-equity-funds-post-inflows-second-straight-week-2026-10-23/
 
 [12] EIA, October energy outlook vintage: https://www.eia.gov/finance/
+
+
+[13] Folha de S.Paulo, Brent/WTI cobertura de mercado, 23 Oct 2026 (secondary market price report): https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml

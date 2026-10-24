@@ -74,7 +74,7 @@ LSEG Lipper data reported for the week ending **21 October** recorded **$5.07 bi
 
 The distinction between **flows, market valuation and ownership** is essential. The numbers indicate simultaneous preference for large liquid equity exposure and cash-like buffers, not a universal rotation into risk. S&P Global's separate October investment-manager survey found stronger technology-sector preference alongside a neutral short-horizon overall return view. That is a **survey of expressed views**, not verified holdings; a single survey and a weekly flow release do not establish broad institutional consensus. Both sources are useful precisely because they reveal selectivity and limitations. [9][11]
 
-Friday's reported oil-price rise, linked in market commentary to renewed Middle East supply-route fears, is a potential inflation-transmission channel, not verified evidence of an equivalent physical loss of barrels. A risk premium, actual disrupted throughput and delivered import prices are separate observations. Threats or claims by armed actors must be attributed; future military operations are scenarios, not facts. The EIA October outlook is a forecast vintage, not Friday's observed price. A sustained disruption could raise freight, fuel and production costs and reduce importers' real purchasing power with lags. [12]
+Friday's reported oil-price rise, linked in market commentary to renewed Middle East supply-route fears, is a potential inflation-transmission channel, not verified evidence of an equivalent physical loss of barrels. A risk premium, actual disrupted throughput and delivered import prices are separate observations. Threats or claims by armed actors must be attributed; future military operations are scenarios, not facts. The EIA October outlook is a forecast vintage, not Friday's observed price. A sustained disruption could raise freight, fuel and production costs and reduce importers' real purchasing power with lags. [12][13]
 
 ```flow
 Strong US output and backlogs → supply and freight constraints → attempted price pass-through → inflation expectations and nominal financing costs
@@ -124,3 +124,6 @@ The reader learns today that the October activity surveys **diverge across regio
 [11] Reuters, LSEG Lipper US weekly fund flows through 21 Oct, reported 23 Oct (secondary): https://www.reuters.com/legal/transactional/us-equity-funds-post-inflows-second-straight-week-2026-10-23/
 
 [12] EIA, October energy outlook vintage: https://www.eia.gov/finance/
+
+
+[13] Folha de S.Paulo, Brent/WTI market reporting, 23 Oct 2026 (secondary market price report): https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml
