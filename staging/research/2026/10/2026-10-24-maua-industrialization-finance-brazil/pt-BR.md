@@ -1,7 +1,5 @@
 # Barão de Mauá: capitalismo industrial e os limites do Império escravista brasileiro
 
-**Edição:** 24 de outubro de 2026 · **Corte:** 24 October 2026 · **Programa:** Global System & Power
-
 No Império brasileiro do século XIX, um comerciante podia criar estaleiros, bancos, ferrovias e serviços telegráficos dentro de uma economia organizada em torno de grandes propriedades, escravidão, privilégios políticos e escassez de financiamento de longo prazo. Irineu Evangelista de Sousa (1813–1889), futuro Barão e Visconde de Mauá, oferece um caso decisivo dessa contradição. Narrativas heroicas o descrevem como inventor solitário derrotado pelo atraso; interpretações críticas ressaltam expansão excessiva e vínculos com concessões. Nenhuma basta sem reconstituir ativos, contratos, credores, conjuntura política e vulnerabilidade a choques de liquidez. [1][2][3]
 
 O problema econômico é compreender como capital mercantil e bancário podia ser convertido em infraestrutura imobilizada e depois comprometido por prazos incompatíveis, decisões oficiais e perda de confiança. Registros parlamentares e pesquisas recentes mostram por que a crise do Banco Mauá não deve ser reduzida a uma fábula de uma causa única. Um empreendimento pode produzir externalidades positivas e, simultaneamente, apresentar estrutura financeira frágil. [1][3]
@@ -42,10 +40,11 @@ O experimento revela falha de coordenação. Um trecho isolado não transforma a
 
 ```chart
 type: bar
-title: Primeiros trechos ferroviários diferentes nos anos 1850, extensão não é rentabilidade
-unit: quilômetros; Mauá inaugurado 1854 vs D Pedro II contratado 1855
-Mauá inaugurado | 14.5
-D Pedro II contratado | 60.337
+title: Mandatos iniciados por década por Mauá segundo a Câmara
+unit: número de inícios de mandatos em cada década, contagens documentais equivalentes
+Década de 1850 | 2
+Década de 1860 | 2
+Década de 1870 | 1
 ```
 
 ## Iluminação a gás, telégrafo, navegação e complementariedades de rede
@@ -63,6 +62,20 @@ O Banco Mauá e negócios associados ligavam clientes brasileiros ao financiamen
 Uma quebra bancária comporta causas que se reforçam: deterioração de ativos, crédito excessivo a partes relacionadas, aperto externo, alterações comerciais, corridas de confiança e hostilidade política. Constatar discurso parlamentar contrário ao banco não prova que esse discurso causou insolvência; identificar choque estrangeiro não elimina responsabilidade de gestão. Pesquisa histórica recente encontrou versões conflitantes na imprensa e no Senado justamente porque finanças e política estavam entrelaçadas. [3]
 
 Uma reconstituição de risco de crédito exigiria livros contemporâneos: depósitos à vista, notas emitidas, obrigações em moeda estrangeira, vencimentos, garantias, exposições a afiliadas e recuperações na liquidação. A falta de série consolidada auditada limita conclusões numéricas. Reduzir a crise a 'perseguição ao progresso' ou 'imprudência isolada' oculta mecanismos institucionais ainda relevantes para bancos de desenvolvimento.
+
+## A atribuição arquivística sobre o tráfico negreiro e o alcance da prova
+
+A **biografia do Arquivo Nacional** inclui o **tráfico negreiro** entre os ramos em que Irineu Evangelista de Sousa teria atuado. A atribuição não pode ser omitida numa avaliação do empresário que viveu no Império escravista. Ao mesmo tempo, o verbete sintético não identifica transações, pessoas escravizadas, manifestos de navios, contratos, datas ou lucros ligados à expressão. Portanto, não estabelece sozinho quanto de sua riqueza derivou de operações específicas de tráfico, se a participação foi direta ou intermediada, nem quais episódios concretos pretende descrever. [10]
+
+O tráfico transatlântico e o comércio interno de escravizados eram mercados diferentes, submetidos a legislações mutáveis, embora suas redes de crédito e navegação pudessem se cruzar com o comércio convencional. Pesquisas sobre o financiamento mercantil do Rio de Janeiro demonstram que crédito, transporte, seguros, lavoura e trabalho coagido integravam o mesmo ambiente de negócios. Porém, constatar que uma classe de negociantes participava de redes escravistas não comprova transação particular de um indivíduo nomeado. A atribuição do Arquivo Nacional é indício documental relevante que exige comprovação no nível das operações; considerar o financiador automaticamente alheio à escravidão seria igualmente enganoso. [4][10]
+
+A conclusão histórica é mais delimitada que uma absolvição ou uma lista inventada de viagens. Os investimentos de Mauá ocorreram numa economia sustentada também pelo trabalho escravizado, e um órgão arquivístico nacional o associa expressamente ao tráfico negreiro. O conjunto de fontes utilizado não permite quantificar operações individuais atribuídas a ele. A distinção preserva a experiência histórica dos escravizados e reconhece as lacunas da biografia empresarial.
+
+## O Prata e a informação privilegiada no financiamento do Uruguai em 1850
+
+Pesquisa de Talita Alves de Messias examina a atuação de Irineu como intermediário de **empréstimos secretos brasileiros ao Uruguai em 1850**, durante a Guerra Grande e a chamada *Diplomacia do Patacão*. Pelo confronto de registros diplomáticos e financeiros, a historiadora conclui que ele foi convidado a intermediar a política e que sua participação combinou acesso a informações geopolíticas privilegiadas e oportunidades comerciais nas quais decidiu investir. Não significa que o financista tenha formulado sozinho a política externa brasileira. [11]
+
+O episódio conecta elementos frequentemente separados nas biografias populares: Tesouro imperial, crédito privado e diplomacia militar regional. Para transferir recursos com discrição e credibilidade, autoridades políticas podiam recorrer a intermediários comerciais, que por sua vez obtinham informação sobre decisões futuras do Estado. O acesso gerava vantagem informacional efetiva sem equivaler a propriedade do governo. Também demonstra que a trajetória do industrial não pode ser reduzida a invenções nacionais isoladas nem à oposição simplista entre empresário moderno e administração imperial inteiramente homogênea. [11]
 
 ## Escravidão, mercado de trabalho e contradição da modernização
 
@@ -150,10 +163,11 @@ O contrafactual é específico. Se a demanda por fretes era forte, mas depósito
 
 ```chart
 type: bar
-title: Grandezas de transporte do século XIX, não medidas equivalentes de eficiência
-unit: veículos; 72 navios fabricados na Ponta da Areia versus 12 locomotivas contratadas para a D Pedro II
-Navios Ponta da Areia produzidos | 72
-Locomotivas D Pedro II contratadas | 12
+title: Intervalos entre marcos das instituições bancárias de Mauá
+unit: anos civis decorridos, arredondados; não são dias de operação ou receitas auditadas
+Banco do Brasil privado 1851–1853 | 2
+Mauá MacGregor 1854–1866 | 12
+Banco Mauá 1866–1875 | 9
 ```
 
 Desenvolvimento industrial num Império escravista também depende do que não aparece nas contas empresariais: poder de compra das famílias, direitos de trabalho exigíveis, escola e distribuição do acesso à infraestrutura. Gasto público gera externalidades e também pode subsidiar posições privadas deficitárias. Avaliar investimento social exige comparar fretes e acessos por rota com garantias tarifárias e risco fiscal, distinguindo a crise comercial do valor coletivo das competências técnicas que sobreviveram. [4][8]
@@ -174,8 +188,10 @@ Desenvolvimento industrial num Império escravista também depende do que não a
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historic
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
 
 [9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
 
-[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mauao
+[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mau
+
+[11] Talita Alves de Messias, Irineu Evangelista de Souza na Guerra Grande, História Econômica & História de Empresas (2021): https://www.hehe.org.br/index.php/rabphe/article/view/807a
