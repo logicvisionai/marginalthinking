@@ -136,6 +136,22 @@ Três tarefas devem permanecer distintas. História documental reconstitui rotas
 
 A pergunta futura é institucional: Estados conseguem garantir direito real de saída, proteger migrantes e trabalhadores informais, ampliar terra e ensino onde exclusão persiste e fiscalizar fornecedores? Um custo de PIB contrafactual ou cálculo preciso de reparações requer modelo e hipóteses próprios. A pesquisa não disfarça questões morais por equação sem prova.
 
+## Separar numericamente tráfico histórico e prevalência atual de coerção
+
+A cifra de **12,52 milhões** de SlaveVoyages mede embarques estimados no tráfico transatlântico entre 1501 e 1866, não população viva numa data. Já os **49,6 milhões em 2021** de OIT/OIM/Walk Free estimam a *prevalência* contemporânea, composta por **27,6 milhões em trabalho forçado** e **22,0 milhões em casamento forçado**. Períodos, categorias, métodos e denominadores distintos tornam sem significado somá-los para obter 'quantidade de escravizados na história'. [1][7][8]
+
+O estoque de aproximadamente 1,5 milhão de residentes escravizados no Censo de 1872 é terceira classe de medida. Crianças nascidas localmente e falecimentos alteram esse estoque, mas não são novos embarques atlânticos. Para investigar contribuição econômica da coerção, registros precisam ser ligados por fazenda, crédito, localização, condição laboral e safra. Lucros de transportadores, colateral nominal de fazendeiros e impostos podem representar etapas sobrepostas: somá-los como benefícios sociais independentes duplica transferências e ignora danos humanos.
+
+```chart
+type: bar
+title: Estimativas OIT/OIM/Walk Free 2021 sobre escravidão moderna por categoria
+unit: milhões de pessoas; trabalho e casamento forçado, não embarques históricos
+Trabalho forçado | 27.6
+Casamento forçado | 22.0
+```
+
+O contrafactual econômico decisivo é a liberdade, não a substituição de trabalhadores coagidos por pessoas livres com custos idênticos. Trabalho livre muda mobilidade, consumo, treinamento, incentivos, posse e barganha familiar. A emancipação de 1888 alterou a propriedade jurídica sem distribuir automaticamente terra ou escola. Desigualdades persistentes exigem registros intergeracionais e regiões comparáveis, não coeficiente inventado de PIB. A agência dos escravizados, com resistência e abolicionismo, integra a causalidade, não é nota moral destacável.
+
 ### Fontes e limites de mensuração
 
 [1] SlaveVoyages, Trans-Atlantic Slave Trade Estimates 1501–1866: https://www.slavevoyages.org/assessment/estimates
