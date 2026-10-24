@@ -48,13 +48,10 @@ The feudal manor and a contemporary corporation both organize assets and payment
 
 ```chart
 type: bar
-title: Analytical count of distinct obligation categories discussed, not historical prevalence
-unit: number of named obligation types in this study
-Labor service | 1
-Produce rent | 1
-Cash rent | 1
-Tithe | 1
-Court fee | 1
+title: Black Death labor scarcity context, European mortality estimate range
+unit: percent of population; uncertainty bounds, not measurements for a given manor
+Lower estimate | 30
+Upper estimate | 50
 ```
 
 ```flow
@@ -72,6 +69,36 @@ Low Countries | Some coastal zones with free landholding | Manorialism was not u
 Eastern Europe | Changing rural labor obligations | Later coercive intensification in some areas
 ```
 
+## Why land control could determine bargaining without an open market
+A tenant may hold cultivation rights without possessing unrestricted ownership over the soil. A lord might have claims to demesne labor, payments for use of a mill, inheritance dues or legal jurisdiction. If the tenant cannot easily move and alternative landlords compete weakly, the lord may collect a larger share of output than would arise from voluntary contracts. The rent cannot be evaluated merely as a price for land if force and hereditary status constrain choice. Conversely, some medieval tenants enjoyed documented customary protections and access to local courts that limited discretionary seizure. [1][3]
+
+Institutional analysis therefore reconstructs the bundle of rights: sowing and harvesting, grazing, gathering timber, transferring holdings, marriage and inheritance. A legal record may show dues attached to a household while archaeological and harvest evidence show the actual productive system. A standard diagram with one king, one lord and one serf conceals diverse legal structures and the economic participation of women, tenants without land and independent farmers.
+
+## Services, rent conversion and the monetary economy
+When obligations required work on the lord's reserve, the tenant sacrificed time otherwise available to cultivate a household plot. The economic opportunity cost depended on harvest season: a required day during the peak cutting period could be much more onerous than a day during slack time. Commuting labor services to cash rent changed who bore risks of yields and wage fluctuations. The tenant needed money from market exchange or seasonal work; the lord could hire labor at prevailing rates. These shifts might improve flexibility but could worsen insecurity if grain prices collapsed or rents were rigid. [2][4]
+
+Manorial estates were consequently connected to towns and prices. A lord's desire for manufactured items or military equipment could encourage cash dues and peasant sales. A peasant's sale of produce did not automatically make the legal relationship capitalist: tenancy rights and court authority remained asymmetric. Commercial growth and legal coercion can coexist, which is a core point in Wickham's discussion of the internal logic of feudal production.
+
+## Commons, enclosures and external economic effects
+Common land was not necessarily land without rules. Villages defined access to grazing, forests and water by season, household and status. These resources supplied fuel, manure, animal feed and materials vital to poorer families. Increasing the lord's exclusive control over a pasture might improve a particular estate's income while reducing the resilience of households previously relying on shared access. The transfer is distributive even when no market price for the lost rights is preserved. [3][5]
+
+A rigorous local case would combine boundaries, usage customs, court disputes, livestock counts and estate accounts. One could then ask whether a new enclosure raised total yields enough to offset the value of lost grazing. It would be unsound to generalize either that all commons were inefficient or that every consolidation was predatory without studying the actual resource and management practices.
+
+## Demographic catastrophe and the struggle over scarce workers
+After the Black Death, reductions in working population changed the negotiation between landlords and tenants. In certain western European regions surviving workers could demand higher remuneration or reduced services; rulers and lords might respond by attempting to regulate wages or mobility. Other regions followed different paths, some toward more coercive institutions. The outcomes depended on legal enforcement, local market size, war and inheritance, not an automatic effect of the same plague everywhere. [6]
+
+European mortality estimates from the Black Death are often given as a broad range, roughly 30–50%, rather than a uniformly measured national census. The range must not be interpreted as exact figures for every manor or as proof of a particular wage increase. Local court records, numbers of occupied holdings and payment accounts provide more relevant measures for a specific estate.
+
+## Comparing extraction with modern rent and public taxation
+A modern lease and a hereditary servile service are both claims on income in a broad accounting sense, but the rights and constraints differ. Modern tenants may have access to alternative contracts and public courts; dependent medieval tenants sometimes could not freely leave. Medieval lords combined functions now separated among landlords, employers and political authorities. A tax levied by a state with defined public responsibilities also differs from a toll collected by a local authority exercising private jurisdiction. [1][2]
+
+The most useful historical comparison follows the recipients of surplus and the alternatives available to producers. If farm productivity rose, did households consume more, pay higher dues, invest in animals or sell to towns? Did the lord spend receipts on war, construction, hospitality or improved mills? Without dated account books and records of labor rights, modern categories such as profitability and productivity cannot be applied with precision.
+
+## Decline and transformation are historically uneven
+Feudal and manorial institutions did not vanish on a single date. Some areas saw labor duties converted to fixed cash rents; others maintained forms of servitude or developed new restrictive rules much later. Town growth, disease, state formation, military technology and political conflict interacted, so an explanation based only on markets or only on class struggle misses institutional variation. The eventual expansion of wage labor and large commercial farms depended on property, law and technology as well as demography.
+
+For a comparative archive, measure households by tenure, labor obligations per season, cash and produce rent, court fines, yields, wages, and the ability to relocate. Those variables can test whether peasants gained materially from commercial growth. The broader lesson is not that medieval Europe lacked economic rationality, but that contractual options and coercive rights organized who benefited from economic progress.
+
 ### Scholarship
 
 [1] Bouchard, Oxford Bibliographies, Feudalism: https://academic.oup.com/reference/62384/reference-article-abstract/555072719
@@ -85,3 +112,5 @@ Eastern Europe | Changing rural labor obligations | Later coercive intensificati
 [5] Bas van Bavel, Power, Property and Social Structures: https://academic.oup.com/book/8856/chapter-abstract/155066430
 
 [6] Jedwab, Johnson and Koyama, Economic Impact of the Black Death: https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639
+
+[7] World History Encyclopedia, Black Death mortality estimates: https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/

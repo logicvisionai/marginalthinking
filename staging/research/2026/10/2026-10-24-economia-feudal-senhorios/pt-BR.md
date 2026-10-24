@@ -48,13 +48,10 @@ Senhorios e empresas modernas organizam ativos e pagamentos, mas status jurídic
 
 ```chart
 type: bar
-title: Categorias distintas de obrigações discutidas, não frequência histórica
-unit: número de tipos nomeados no estudo
-Serviço de trabalho | 1
-Renda em produtos | 1
-Renda monetária | 1
-Dízimo | 1
-Taxa judicial | 1
+title: Peste Negra e escassez de trabalho, faixa estimada de mortalidade europeia
+unit: percentual da população; limites aproximados, não medida de senhorio individual
+Limite inferior | 30
+Limite superior | 50
 ```
 
 ```flow
@@ -72,6 +69,36 @@ Países Baixos | Certas zonas costeiras de terras livres | Senhorio não era uni
 Europa Oriental | Mudanças nas obrigações rurais | Intensificação coercitiva posterior em certas áreas
 ```
 
+## Como controle da terra alterava barganha sem mercado aberto
+Um arrendatário podia cultivar sem ser proprietário absoluto do solo. O senhor cobrava jornadas na reserva, uso de moinho, heranças e jurisdição. Quando mudar de residência era difícil e proprietários alternativos não competiam, o senhor recebia parcela da produção maior que a de contrato plenamente voluntário. A renda não pode ser tratada apenas como preço da terra se a saída era limitada por status hereditário e coerção. Por outro lado, certos costumes protegiam camponeses e asseguravam acesso a tribunais que restringiam confisco arbitrário. [1][3]
+
+A análise reconstrói feixes de direitos: plantar, colher, pastar, recolher lenha, transferir posse, casar e herdar. Documento jurídico registra prestação por família, enquanto arqueologia e contas mostram condições de produção. A pirâmide de um rei, um senhor e um servo esconde arranjos distintos e a atividade econômica de mulheres, trabalhadores sem terra e pequenos proprietários independentes.
+
+## Serviço, conversão da renda e economia monetária
+Quando era obrigatório trabalhar na reserva do senhor, o camponês perdia tempo de cuidar de seu próprio lote. O custo variava conforme a estação: um dia exigido no pico da colheita podia causar dano maior que na época de pouca atividade. Converter serviços em renda monetária mudava a distribuição de riscos. O camponês precisava vender ou trabalhar por salário; o senhor podia contratar trabalhadores. A troca ampliava flexibilidade, mas podia piorar insegurança quando preço do grão caía e renda era fixa. [2][4]
+
+Senhorios, portanto, se relacionavam a vilas e preços. Desejo de produtos manufaturados e equipamentos militares estimulava pagamentos em moeda. A venda de trigo não encerrava automaticamente relação servil: direitos fundiários e tribunais continuavam assimétricos. Comércio e coerção legal podem coexistir, elemento central na análise de Wickham sobre produção feudal.
+
+## Terras comuns, cercamento e consequências sociais
+Terras coletivas não eram necessariamente áreas sem regras. Aldeias organizavam pastagens, bosques e água por estação, família e condição. Os recursos forneciam lenha, adubo, alimento animal e materiais indispensáveis aos pobres. Um senhor que concentrasse acesso à pastagem podia elevar renda própria e reduzir a proteção de famílias dependentes do uso compartilhado. Trata-se de transferência distributiva mesmo onde o valor dos direitos perdidos não foi registrado em dinheiro. [3][5]
+
+Estudo local rigoroso combina limites de propriedade, costumes, disputas judiciais, rebanhos e balanços. Seria então possível perguntar se um novo cercamento aumentou a produtividade total o suficiente para compensar a perda de pastoreio. Não cabe presumir que toda terra comum era ineficiente ou que toda consolidação era predatória sem conhecer manejo e recursos.
+
+## Catástrofe demográfica e disputa por trabalhadores escassos
+Depois da Peste Negra, a redução da população em idade de trabalhar alterou a negociação entre proprietários e camponeses. Em partes do Ocidente, sobreviventes passaram a exigir remuneração maior ou serviços menores; autoridades tentaram controlar salários e mobilidade. Outras áreas seguiram trajetórias diferentes, inclusive novas restrições. Os resultados dependeram de leis, mercado local, guerras e heranças, não de um efeito automático da mesma epidemia em todo lugar. [6]
+
+Estimativas de mortalidade europeia costumam apontar faixa ampla de aproximadamente 30–50%, não censo nacional homogêneo. A faixa não representa valores exatos de cada senhorio nem prova aumento salarial específico. Registros de tribunais, lotes ocupados e pagamentos oferecem medidas mais adequadas a propriedades concretas.
+
+## Extração medieval, aluguel moderno e tributação pública
+Um arrendamento contemporâneo e uma obrigação servil hereditária são direitos sobre renda em sentido contábil amplo, mas restrições jurídicas diferem. Hoje, locatários podem recorrer a contratos alternativos e tribunais estatais; dependentes medievais nem sempre tinham liberdade de mudar. Senhores reuniam funções que atualmente pertencem separadamente a proprietários, empregadores e autoridades públicas. O tributo de um Estado com deveres definidos difere de tarifa cobrada por jurisdição senhorial privada. [1][2]
+
+A comparação histórica acompanha os destinatários do excedente e alternativas dos produtores. Quando produtividade subia, camponeses consumiam mais, pagavam mais rendas, compravam animais ou vendiam aos centros urbanos? O senhor gastava com guerras, construções, hospitalidade ou moinhos melhores? Sem contas datadas e registros de direitos, rentabilidade moderna não pode ser aplicada com precisão.
+
+## Declínio e transformação variavam no tempo e no espaço
+Instituições feudais e senhoriais não desapareceram numa data. Algumas regiões converteram serviços em aluguéis, outras preservaram servidão ou intensificaram restrições posteriormente. Cidades, epidemias, formação estatal, tecnologia militar e conflitos interagiam; explicar tudo apenas por mercados ou luta social é insuficiente. A expansão posterior do trabalho assalariado e das grandes fazendas comerciais envolveu propriedade, leis e tecnologia além da demografia.
+
+Um arquivo comparativo deveria medir famílias por tipo de posse, dias de obrigação, renda em produtos e moeda, multas, colheitas, salários e liberdade de mudança. Os dados permitem testar se camponeses ganharam com comércio. A conclusão histórica não é falta de racionalidade econômica na Idade Média, mas que direitos e alternativas desiguais condicionavam quem recebia o benefício do progresso.
+
 ### Fontes acadêmicas
 
 [1] Bouchard, Oxford, Feudalism: https://academic.oup.com/reference/62384/reference-article-abstract/555072719
@@ -85,3 +112,5 @@ Europa Oriental | Mudanças nas obrigações rurais | Intensificação coercitiv
 [5] Bas van Bavel, Power, Property and Social Structures: https://academic.oup.com/book/8856/chapter-abstract/155066430
 
 [6] Jedwab, Johnson e Koyama, Black Death: https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639
+
+[7] World History Encyclopedia, intervalo de mortalidade da Peste Negra: https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/

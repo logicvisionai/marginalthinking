@@ -48,11 +48,10 @@ The Black Death, war, changing wages and agrarian contracts influenced the later
 
 ```chart
 type: bar
-title: Documentary temporal scope of this study
-unit: centuries CE; period boundaries are illustrative, not levels of activity
-Early Middle Ages ends | 10
-High Middle Ages ends | 13
-Late Middle Ages ends | 15
+title: Historical estimate range for European Black Death mortality
+unit: percent of population; lower and upper uncertainty bounds, not two outcomes
+Lower estimate | 30
+Upper estimate | 50
 ```
 
 ```flow
@@ -69,6 +68,36 @@ England | Wool, agriculture and port commerce | Changing manorial and town insti
 Central Europe | Agriculture, mining and regional trade | Different lordship and legal customs
 ```
 
+## Production technology and institutions in the agricultural economy
+A medieval farm's crop output depended on land quality, labor, draft animals, tools, seed selection and rainfall. Improvements in heavy plows, watermills, rotation and animal traction did not spread uniformly, nor did they generate immediate surpluses everywhere. Agricultural production had to finance its own reproduction by reserving seed and feed before any rents or sales. The lord's ability to extract surplus could alter peasants' incentives, while common rights to pasture and forest provided insurance against uncertainty. An estate ledger records obligations more precisely than it measures farmers' freedom to choose alternatives. [2]
+
+The village should not be modeled as a sealed unit. A household might produce its food, exchange wool or cheese with a market town, hire seasonal labor and pay part of its rent in coins. Different modes of production coexisted. The central question is how changes in market access affected the division of output, technology adoption and legal obligations. An increase in market trading could improve incomes while remaining compatible with unequal land rights and coercive courts.
+
+## Trade finance, town budgets and monetary plurality
+International merchants handled currencies minted by rulers with different metal content and accounting units. Weights, discount rates and coin quality mattered in every settlement. Commerce stimulated specialist money changers and credit partnerships, and governments themselves became borrowers to finance wars and urban infrastructure. Religious restrictions on lending at interest were interpreted through intricate legal categories and commercial conventions. None of this implies that credit was identical to modern regulated commercial banking. Bankruptcy protection, contract enforcement and political interference varied from city to city. [1][5]
+
+Local public finance also shaped commerce. Town walls, market halls, bridges and roads required funds, while customs and tolls could simultaneously pay for services and impede exchange. Merchants sought privileges to enter and operate across jurisdictions. A town that secured safe passage could attract trade, but its charter might exclude unprivileged groups. Financial growth therefore changed both productive opportunity and political bargaining.
+
+## The distribution of political and economic rights
+Peasants, tenant farmers, independent freeholders, urban merchants, apprentices, women in commerce and clerical institutions did not occupy identical social positions. A legally free merchant could accumulate distant credit claims while an agricultural tenant owed services to a manor. Women's commercial activity was often substantial but constrained by marriage, guild and inheritance law in region-specific ways. Legal heterogeneity requires documentary comparisons rather than sweeping claims of 'no rights' across a thousand years. [1][4]
+
+The economic value of security should also be investigated. Violence, tolls and war raised the cost of delivery, so institutions that reduced arbitrary confiscation could improve returns to trade. On the other hand, political authorities sometimes granted monopolies to privileged associations. Economic historians must evaluate the gains from enforcement and the losses from exclusion, including who paid the fees.
+
+## Black Death, bargaining and divergent paths
+A severe demographic loss can raise land available per surviving worker and the marginal product of labor. But outcomes depend on legal institutions: lords may accept higher wages or impose stronger service restrictions. Research reviewed by Jedwab, Johnson and Koyama finds heterogeneous long-run consequences; some European regions recorded higher per-capita incomes while others experienced different paths. Price indices, harvest variation and plague recurrence complicate comparisons. A single mortality percentage cannot identify a universal increase in equality. [3]
+
+The period is thus not adequately described as steady progress toward capitalism. Certain areas saw commercialization and release from specific obligations, while others experienced renewed forms of rural dependence. The rise of civic lending institutions did not end all aristocratic control, and wars could reverse gains. The best longitudinal approach follows wages, population, land rents and political rights across a series of dated local records.
+
+## Global exchanges and the non-European frame
+Latin Christian Europe interacted with Mediterranean Islamic powers, Byzantium and commercial systems reaching Central Asia and the Indian Ocean. Goods and techniques moved through intermediaries under multiple legal traditions. Different regions had commercial finance and urban populations without needing to pass through an identical European-style feudal stage. It would be wrong to infer medieval global rankings from a sparse set of European estate records or to assume that non-European growth was derivative of Italian innovations. [1][2]
+
+The methodological task is to compare customs accounts, harbor records, monetary practices and evidence of long-distance shipping with sensitivity to incomplete survival. Climate, navigation, warfare and disease could change routes and the profitability of exchange. A state may facilitate trade through security while also extracting taxes and exercising coercive power over subjects.
+
+## Transition is gradual, not one event
+By the fifteenth century, commercial towns, rural landlords and state fiscal systems had evolved in diverse directions. Some centers built complex merchant finance; other regions remained dominated by landed obligations. The distinction between medieval and early modern economies is a historian's organizational tool, not a universal date on which barter was replaced by money. Progressively larger markets did not make property rights equal or end coerced labor; early modern colonial systems would introduce additional coercion.
+
+A robust empirical agenda should reconstruct urban output, agricultural yields, real wages, taxes, trade volumes, coin evidence and demographic shocks on consistent regional periods. The evidence can test causal claims about specialization and institutions more effectively than claims of universal stagnation followed by a sudden awakening.
+
 ### Specialist references
 
 [1] Cambridge medieval commerce: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
@@ -82,3 +111,5 @@ Central Europe | Agriculture, mining and regional trade | Different lordship and
 [5] Oxford, Medici Bank institutional research: https://academic.oup.com/reference/62416/reference-article-abstract/555922868
 
 [6] Oxford, trade and political security: https://academic.oup.com/edited-volume/35422/chapter-abstract/303173745
+
+[7] World History Encyclopedia, estimated Black Death mortality range (30–50%): https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/

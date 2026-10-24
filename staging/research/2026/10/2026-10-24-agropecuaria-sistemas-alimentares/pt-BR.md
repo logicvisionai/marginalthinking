@@ -60,6 +60,42 @@ União Europeia | Cereais, lácteos e alimentos processados | Bloco de países d
 Sudeste Asiático | Arroz, produtos tropicais e palma | Unidades e impactos ambientais diferentes
 ```
 
+## Comparações internacionais precisam de denominadores corretos
+
+Produtividade agronômica é colheita por hectare; produtividade do trabalho é produto por hora; valor adicionado é o valor agrícola líquido de insumos intermediários comprados. País grande pode liderar toneladas com rendimento médio modesto; país pequeno pode ser muito produtivo e pouco exportador. Estatísticas de lavouras e animais também utilizam unidades diferentes. Rankings exigem ano, cultura e denominador. FAOSTAT disponibiliza categorias comparáveis, sujeitas a revisões históricas. [1]
+
+Mercados domésticos extensos podem reduzir a participação exportadora mesmo com produção absoluta alta. Exportadores concentrados sofrem com normas sanitárias externas, fretes e câmbio. China, Índia, EUA, Brasil e União Europeia combinam abastecimento interno e vendas ao exterior em proporções distintas. Um quadro por produto é superior a somar arroz, boi, cana e leite como se a massa representasse nutrientes equivalentes.
+
+## Fertilizantes, solos e função biológica de produção
+
+Lavouras dependem de genética, estrutura do solo, nutrientes, água, temperatura e manejo. Fertilizantes nitrogenados têm forte relação com energia; fósforo e potássio dependem de jazidas e transporte. Insumos mais caros alteram doses aplicadas e influenciam safra e margem futuras. Calagem e cultivares adaptadas fizeram partes do Cerrado produzirem mais, mas defensivos e fertilizantes mal administrados impõem custos a rios e biodiversidade. A avaliação considera produção, desembolso e efeito ambiental medido, não apenas toneladas por hectare. [2][7]
+
+Produtores diferem em acesso a crédito, máquinas, orientação e irrigação. Cultivar resistente à seca pode aumentar estabilidade, não produtividade máxima. Menor variância de safra tem valor social mesmo sem recorde anual. Conservação do solo e culturas de cobertura exigem investimentos presentes em troca de ganhos futuros; proprietários e arrendatários de curto prazo podem ter incentivos distintos.
+
+## Crédito rural e risco do capital de giro
+
+Plantar exige pagar semente, fertilizante, diesel, trabalhadores, arrendamento e seguro meses antes de vender. Juros maiores aumentam o preço de equilíbrio da colheita; volume recorde pode pressionar cotações e reduzir caixa do produtor. Armazém permite vender posteriormente, mas exige capital e energia. Pequenos produtores sem estocagem podem liquidar a safra cedo para quitar dívidas. [3][4]
+
+Subsídios creditícios precisam ser avaliados por investimento adicional obtido, distribuição entre tamanhos de propriedade, inadimplência e salvaguardas ambientais. Programa que aumenta produção e valoriza apenas grandes terras pode não melhorar proporcionalmente nutrição. Seguro distribui parte do choque climático, mas não substitui medição da seca nem elimina correlação regional das perdas.
+
+## Logística, biossegurança e exposição comercial
+
+A fazenda é apenas um elo. Secagem, refrigeração, inspeção sanitária, armazéns, trens, hidrovias, caminhões e portos determinam perdas e preços. Doenças animais podem fechar exportações, reduzir preço recebido pelo produtor e elevar custo de contenção, enquanto o varejo reage de outra maneira. O valor de projeto logístico se mede por perda reduzida, preço do frete e acesso comercial, não apenas capacidade construída.
+
+Geopolítica também importa. Dependência de fertilizantes e energia externos expõe o Brasil a fornecedores concentrados, interrupções marítimas, câmbio e sanções. Contratos longos e insumos diversificados podem reduzir vulnerabilidade, embora custem mais em tempos normais. A escolha envolve continuidade esperada do abastecimento versus custo corrente e exige transparência sobre quem suporta o risco.
+
+## Trabalho agrícola e distribuição do valor
+
+Máquinas elevam produto por trabalhador, alterando procura de operadores, técnicos e serviços sazonais. Agricultura familiar pode produzir frutas e hortaliças intensivas em trabalho; grandes lavouras obtêm economias por mecanização. Nenhuma forma é automaticamente melhor em ambiente e sociedade. Escrituras confiáveis, extensão e crédito determinam oportunidades de adotar tecnologia. Um país pode registrar exportações enormes e famílias rurais ainda com renda insuficiente. [2]
+
+Comparações devem medir renda dos estabelecimentos, salário rural, posse da terra, saúde e infraestrutura. Política centrada em produção eleva oferta sem necessariamente mudar como arrendadores, transportadores e varejistas dividem os ganhos. A análise identifica quem recebe cada aumento de renda.
+
+## Ambiente e alimentação até 2035
+
+Clima e escassez hídrica afetam safras, doenças e estabilidade. Irrigação diminui parte da variabilidade, mas consome energia e pode pressionar aquíferos. Integração lavoura–pecuária–floresta pode recuperar solos e pastos em contextos brasileiros específicos; benefício líquido exige comparação com custo e uso alternativo da terra. Projeções OCDE–FAO são cenários, não promessa de dieta acessível a todos em 2035. [7]
+
+Monitoramento deve reunir custo real da dieta diante do salário, estoques de grãos em relação ao uso, nutrição infantil, recuperação de solo, desmatamento comprovado, disponibilidade de água, rendimento por hectare e trabalhador, doenças animais e inadimplência rural. Se recordes produtivos coexistirem com comida inacessível e má nutrição, a estratégia de apenas toneladas é insuficiente. Se transferência de renda comprometer incentivos produtivos e logística, oferta também pode cair. Produção e acesso estável e equitativo são necessários.
+
 ### Fontes
 
 [1] FAOSTAT 2010–2024: https://www.fao.org/statistics/highlights-archive/highlights-detail/agricultural-production-statistics-2010-2024/
