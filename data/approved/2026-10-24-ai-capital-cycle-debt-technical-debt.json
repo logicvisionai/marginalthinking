@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-IA-2026-10-24-AI-CAPITAL-CYCLE",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-24T18:26:54.571Z",
-  "reviewed_commit": "cb96790e5577cfa304847eb343b9bf2030d0793c",
+  "reviewed_at": "2026-10-24T22:06:19.287Z",
+  "reviewed_commit": "6dd3a69bda0df8cf336e18effe82cfaa2adf3bd5",
   "pending_blob_sha": "4244ae7eb86b911b17bed6c87c42c5bf3bbd011f",
   "source_blob_shas": {
-    "en": "3c635f21c769623a724ff8e10129340ccdbde8e0",
-    "pt-BR": "cd8b8f1015b5d268446610661472de06571b57ea"
+    "en": "409950df8bf97e081c22643ce422ce34d5462128",
+    "pt-BR": "55c24288975923416593221c98fdbd2b9d688ecc"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -59,7 +59,7 @@
     "Illustrative hardware depreciation is not an actual issuer chip price or a forecast.",
     "DORA, METR, GitClear and enterprise surveys have different populations, research designs and causal strengths."
   ],
-  "notes": "Manual and source-level bilingual QA of exact stage Git blobs, subject to independent CI build and separate production HTTP confirmation.",
+  "notes": "Manual and source-level bilingual QA of exact stage Git blobs, subject to independent CI build and separate production HTTP confirmation. Prose-only correction of prohibited report self-reference, staged and public Markdown matched byte-for-byte; no claim, numbers or sources changed.",
   "publication": {
     "schema_version": 2,
     "ready": true,
