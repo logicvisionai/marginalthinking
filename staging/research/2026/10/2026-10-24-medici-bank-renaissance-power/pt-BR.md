@@ -62,7 +62,7 @@ Cosimo de' Medici consolidou influência sem abolir inicialmente as instituiçõ
 
 A distinção ajuda a identificar poder. Um banqueiro que financia obras públicas pode tornar-se indispensável aos administradores; opositores percebem exclusão mesmo quando os cargos rodam formalmente. Dependência financeira influencia lealdades, mas provar causalidade exige dívidas, subvenções e nomeações registradas. Encomendas artísticas ampliam prestígio sem automaticamente converter-se em percentual de votos.
 
-A análise social deve incluir grupos fora da elite: trabalhadores têxteis e mulheres não tinham igual poder de decisão. Chamar Florença de 'livre' apenas por manter procedimentos republicanos apagaria estratificação. Inversamente, chamar Cosimo de monarca absoluto apagaria a agência de outros grupos e controvérsias jurídicas.
+Trabalhadores têxteis e mulheres não possuíam o mesmo acesso das elites às decisões municipais. Chamar Florença de 'livre' apenas por manter procedimentos republicanos apagaria estratificação. Inversamente, chamar Cosimo de monarca absoluto apagaria a agência de outros grupos e controvérsias jurídicas.
 
 ## Mecenato renascentista como investimento e legitimação
 
@@ -70,7 +70,7 @@ O mecenato Medici sustentou arquitetura, arte, estudos e instituições associad
 
 Mecenato também gerava capital reputacional. Financiar capela ou construção cívica podia demonstrar devoção, legitimidade e liderança. Numa sociedade oligárquica, monumentos coexistiam com tributos desiguais e participação política restrita. O valor cultural atual das obras não corresponde à taxa de retorno histórico do banco.
 
-Avaliação econômica precisa comparar salários pagos e benefícios artísticos duradouros com custo de oportunidade, origem dos recursos e acesso social ao patrimônio. Deve reconhecer autoria e criatividade dos artistas, não reduzir o patrono a produtor exclusivo. Um banco financiador da inovação teve influência cultural mensurável sem possuir autoria monopolista do humanismo renascentista.
+Os salários pagos nas oficinas, a origem dos recursos e o acesso ao patrimônio artístico mostram como benefícios culturais e custos se distribuíam. A autoria e a criatividade pertenciam aos artistas, e o mecenas não era o produtor exclusivo das obras. Um banco financiador da inovação teve influência cultural mensurável sem possuir autoria monopolista do humanismo renascentista.
 
 ```flow
 Tecidos e comércio internacional → sociedades bancárias e letras de câmbio → tesouraria papal e elites → influência financeira
@@ -150,7 +150,7 @@ Primeiro período depois de 1420 | 22
 Período posterior 1443–1473 | 30
 ```
 
-As sociedades bancárias terminaram na crise de 1494; familiares ocuparam depois cargos eclesiásticos e ducais sob outras instituições. Influência cultural sobreviveu onde obrigações e direitos empresariais não. Avaliação financeira precisa de contratos, contas de filiais, recuperação de empréstimos e pessoas jurídicas distintas, não estimativa inventada de fortuna convertida à moeda atual.
+As sociedades bancárias terminaram na crise de 1494; familiares ocuparam depois cargos eclesiásticos e ducais sob outras instituições. Influência cultural sobreviveu onde obrigações e direitos empresariais não. Contratos, contas de filiais e recuperação incerta de empréstimos a governantes não sustentam uma fortuna consolidada em moeda atual.
 
 ### Referências históricas, arquivos e estudos
 
