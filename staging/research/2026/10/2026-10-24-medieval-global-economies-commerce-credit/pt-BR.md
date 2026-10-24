@@ -58,7 +58,7 @@ O crescimento continha vulnerabilidades. Pressão demográfica empurrou família
 
 ## Corporações de ofício, aprendizagem, qualidade e exclusão
 
-Corporações de ofício moldavam produção urbana por aprendizagem, padrões de qualidade, barganha com autoridades e restrições de entrada. Controle de qualidade protege compradores quando características são difíceis de observar. Treinamento acumula capital humano durante anos. Porém privilégios podem excluir migrantes, mulheres e concorrentes, elevando preços. Os efeitos variam por cidade, profissão e período. [3]
+Corporações de ofício moldavam produção urbana por aprendizagem, padrões de qualidade, barganha com autoridades e restrições de entrada. A padronização dos produtos protege compradores quando características são difíceis de observar. Treinamento acumula capital humano durante anos. Porém privilégios podem excluir migrantes, mulheres e concorrentes, elevando preços. Os efeitos variam por cidade, profissão e período. [3]
 
 Contrato de aprendiz oferece instrução e renda futura, mas pode vincular jovem ao mestre em condições legais desiguais. Taxa de ingresso pode custear função coletiva ou impedir competição. Nem 'regulação medieval eficiente' nem 'corporações inteiramente extrativas' resistem sem registros de salários, preços, produção e entrada.
 
