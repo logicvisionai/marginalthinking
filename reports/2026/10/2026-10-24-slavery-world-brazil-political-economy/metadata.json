@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-ST-2026-10-24-SLAVERY",
+  "slug": "2026-10-24-slavery-world-brazil-political-economy",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T18:00:00-03:00",
+  "kind": "strategic-transition",
+  "priority": 32,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "institutions-governance",
+    "inequality-distribution",
+    "demography-labor",
+    "social-change",
+    "trade-investment"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "24 October 2026; archive/history records and latest dated FAO, Conab, USDA and ILO series where relevant.",
+    "editorial_novelty": "A long-duration, source-based study of ancient and colonial coercion, Atlantic trafficking, Brazilian agriculture, resistance, emancipation and present forced labour.",
+    "visual_signature": "Two quantitative bilingual-parallel charts (observed historical vs present categories, with dates and units), comparison table, causal flow and geographic map.",
+    "source_check": "11 parallel verified archival, academic and primary statistical URLs.",
+    "bilingual_parity": "12 aligned substantive sections, identical source URLs, numeric chart values and chronology framework.",
+    "methodology": "Distinguish estimates from observed sources and avoid non-additive quantities, sample bias and unverified causal claims. Added measurement taxonomy distinguishing categories and explicitly non-additive populations."
+  },
+  "url": "/reports/2026/10/2026-10-24-slavery-world-brazil-political-economy.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Slavery and economic power: a global history with Brazil at the centre of the Atlantic system",
+      "deck": "A long-duration, source-based study of ancient and colonial coercion, Atlantic trafficking, Brazilian agriculture, resistance, emancipation and present forced labour.",
+      "tags": [
+        "Escravidão histórica e contemporânea",
+        "political economy",
+        "history",
+        "social systems"
+      ],
+      "keywords": [
+        "slavery",
+        "transatlantic slave trade",
+        "SlaveVoyages",
+        "Brazil 1888",
+        "1872 census",
+        "resistance quilombos",
+        "free womb",
+        "forced labour ILO",
+        "political economy"
+      ],
+      "regime": "A long-duration, source-based study of ancient and colonial coercion, Atlantic trafficking, Brazilian agriculture, resistance, emancipation and present forced labour.",
+      "key_risk": "Treating incompatible historical stock/flow measurements as additive or making unsupported causal claims about present outcomes.",
+      "watch": [
+        "Primary archival data and dated statistical series",
+        "Measurement methodology revisions",
+        "Independent research on structural transmission"
+      ],
+      "search_text": "Slavery and economic power: a global history with Brazil at the centre of the Atlantic system slavery transatlantic slave trade SlaveVoyages Brazil 1888 1872 census resistance quilombos free womb forced labour ILO political economy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Escravidão, riqueza e poder: história econômica mundial com o Brasil no centro do sistema atlântico",
+      "deck": "Estudo de longa duração de coerção antiga e colonial, tráfico atlântico, economia escravista brasileira, resistência, abolição e trabalho forçado contemporâneo.",
+      "tags": [
+        "Escravidão histórica e contemporânea",
+        "economia política",
+        "história",
+        "sistemas sociais"
+      ],
+      "keywords": [
+        "slavery",
+        "transatlantic slave trade",
+        "SlaveVoyages",
+        "Brazil 1888",
+        "1872 census",
+        "resistance quilombos",
+        "free womb",
+        "forced labour ILO",
+        "political economy"
+      ],
+      "regime": "Estudo de longa duração de coerção antiga e colonial, tráfico atlântico, economia escravista brasileira, resistência, abolição e trabalho forçado contemporâneo.",
+      "key_risk": "Somar medidas de estoque e fluxo incompatíveis e extrapolar efeitos causais não comprovados.",
+      "watch": [
+        "Dados primários e séries datadas",
+        "Revisões de metodologias estatísticas",
+        "Pesquisa independente sobre transmissão estrutural"
+      ],
+      "search_text": "Escravidão, riqueza e poder: história econômica mundial com o Brasil no centro do sistema atlântico slavery transatlantic slave trade SlaveVoyages Brazil 1888 1872 census resistance quilombos free womb forced labour ILO political economy"
+    }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-24T22:10:08.079Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "3c4d4266cc325331f1d0b3663495b983ef4ee0a0"
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-FS-2026-10-24-AGRIFOOD",
+  "slug": "2026-10-24-brazil-world-agriculture-food-security",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T18:00:00-03:00",
+  "kind": "food-systems-development",
+  "priority": 32,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets",
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "technology-innovation",
+    "commodities-resources",
+    "energy",
+    "infrastructure-logistics",
+    "climate-environment",
+    "trade-investment",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "24 October 2026; archive/history records and latest dated FAO, Conab, USDA and ILO series where relevant.",
+    "editorial_novelty": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
+    "visual_signature": "Two quantitative bilingual-parallel charts (observed historical vs present categories, with dates and units), comparison table, causal flow and geographic map.",
+    "source_check": "14 parallel verified archival, academic and primary statistical URLs.",
+    "bilingual_parity": "11 aligned substantive sections, identical source URLs, numeric chart values and chronology framework.",
+    "methodology": "Distinguish estimates from observed sources and avoid non-additive quantities, sample bias and unverified causal claims. Added measurement taxonomy distinguishing categories and explicitly non-additive populations."
+  },
+  "url": "/reports/2026/10/2026-10-24-brazil-world-agriculture-food-security.html",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Agriculture and livestock in Brazil and the world: production power, value chains and food security",
+      "deck": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
+      "tags": [
+        "Agricultura e agropecuária global e brasileira",
+        "political economy",
+        "history",
+        "social systems"
+      ],
+      "keywords": [
+        "FAOSTAT",
+        "SOFI 2026",
+        "food security",
+        "agronomy",
+        "livestock",
+        "Embrapa Cerrado",
+        "Conab 361.7 million tonnes",
+        "China India United States Brazil ranking",
+        "2017 agriculture census",
+        "fertilizer"
+      ],
+      "regime": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
+      "key_risk": "Treating incompatible historical stock/flow measurements as additive or making unsupported causal claims about present outcomes.",
+      "watch": [
+        "Primary archival data and dated statistical series",
+        "Measurement methodology revisions",
+        "Independent research on structural transmission"
+      ],
+      "search_text": "Agriculture and livestock in Brazil and the world: production power, value chains and food security FAOSTAT SOFI 2026 food security agronomy livestock Embrapa Cerrado Conab 361.7 million tonnes China India United States Brazil ranking 2017 agriculture census fertilizer"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Agronomia e agropecuária no Brasil e no mundo: poder produtivo, cadeias e segurança alimentar",
+      "deck": "Investigação histórica, tecnológica e político-econômica da agropecuária tropical, maiores produtores, grãos e carnes, agricultura familiar, fertilizantes, clima, fome e dietas saudáveis.",
+      "tags": [
+        "Agricultura e agropecuária global e brasileira",
+        "economia política",
+        "história",
+        "sistemas sociais"
+      ],
+      "keywords": [
+        "FAOSTAT",
+        "SOFI 2026",
+        "food security",
+        "agronomy",
+        "livestock",
+        "Embrapa Cerrado",
+        "Conab 361.7 million tonnes",
+        "China India United States Brazil ranking",
+        "2017 agriculture census",
+        "fertilizer"
+      ],
+      "regime": "Investigação histórica, tecnológica e político-econômica da agropecuária tropical, maiores produtores, grãos e carnes, agricultura familiar, fertilizantes, clima, fome e dietas saudáveis.",
+      "key_risk": "Somar medidas de estoque e fluxo incompatíveis e extrapolar efeitos causais não comprovados.",
+      "watch": [
+        "Dados primários e séries datadas",
+        "Revisões de metodologias estatísticas",
+        "Pesquisa independente sobre transmissão estrutural"
+      ],
+      "search_text": "Agronomia e agropecuária no Brasil e no mundo: poder produtivo, cadeias e segurança alimentar FAOSTAT SOFI 2026 food security agronomy livestock Embrapa Cerrado Conab 361.7 million tonnes China India United States Brazil ranking 2017 agriculture census fertilizer"
+    }
+  },
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-24T22:10:08.085Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "3c4d4266cc325331f1d0b3663495b983ef4ee0a0"
+}

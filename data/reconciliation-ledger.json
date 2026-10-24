@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-24T22:12:29.237Z",
+  "last_reconciled_at": "2026-10-24T22:13:16.523Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6821,6 +6821,52 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No new deployed contemporary technical milestones."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-history-society-food-reconciliation",
+      "reconciled_at": "2026-10-24T22:13:16.523Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-10-24-ROTHSCHILD",
+        "MT-ST-2026-10-24-SLAVERY",
+        "MT-FS-2026-10-24-AGRIFOOD"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Historical Rothschild banking, Atlantic slavery and agricultural international value chains are documented, but there are no new pairwise dated exposure values to register without double counting."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Soil productivity, nutrition access and policy improvements have potential but no newly measured location-bound intervention qualified for opportunity register."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Rothschild is a network of separate historical partnerships; not enough current verified beneficial ownership for canonical actor write."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Agricultural land, fertilizer and energy constraints described at global/national aggregate levels, not verified control of a new named physical asset."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Abolition and agricultural reforms in broad history are not one contemporary intervention with isolated measured outcome."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Historical slavery and military references do not introduce a new contemporary conflict-system incident."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Agronomy methods are historical and established, not newly dated signal entry."
         }
       ]
     }
