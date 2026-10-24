@@ -134,7 +134,7 @@ The Medici created a consequential combination of cross-city settlement, partner
 
 The puzzle is why political leverage could not insure the balance sheet. Concentrated elite access may bring important clients but undermine prudent refusal of a ruler's request; cultural legitimacy may protect reputations but cannot pay debts when loans are unrecoverable. A policy lesson is that institutional power and financial solvency need different controls.
 
-Future investigation should reconstruct partnership agreements, loans by borrower, foreign-exchange settlements, taxes and political appointment networks by period. De Roover expressly warned about missing balance sheets: any exact modern net-worth ranking of the fifteenth-century family should therefore be treated as speculative. A meaningful conclusion concerns causal mechanisms and documentation, not an invented trillions-of-dollars family fortune.
+Surviving partnership contracts, borrower ledgers, exchange settlements, fiscal records and political appointments provide only partial coverage of different periods. De Roover expressly warned about missing balance sheets: any exact modern net-worth ranking of the fifteenth-century family should therefore be treated as speculative. A meaningful conclusion concerns causal mechanisms and documentation, not an invented trillions-of-dollars family fortune.
 
 ## Contractual access and bank solvency in the fifteenth century
 
@@ -150,7 +150,7 @@ First period after 1420 | 22
 Later 1443–1473 period | 30
 ```
 
-The banking partnerships ended amid the crisis of 1494; members of the family subsequently held ecclesiastical and ducal offices under other institutions. Cultural influence survived where the firm's liabilities and rights did not. A rigorous financial assessment needs contracts, branch accounts, recovery on princely loans and distinct legal entities—not an unverified net-worth ranking projected into today's currency.
+The banking partnerships ended amid the crisis of 1494; members of the family subsequently held ecclesiastical and ducal offices under other institutions. Cultural influence survived where the firm's liabilities and rights did not. The financial record rests on partnership contracts, branch accounts and the uncertain recovery of loans to rulers; it does not establish a modern consolidated net-worth figure.
 
 ### Historical archives and academic works
 
