@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-SA-2026-10-24-ROCKEFELLER",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-24T22:07:46.105Z",
-  "reviewed_commit": "8f879f3b386705405e082c4d0afcc3c65a9e34cc",
-  "pending_blob_sha": "2e50e53586e2c504a80015d8df866865c58c65ec",
+  "reviewed_at": "2026-10-24T23:26:20.554Z",
+  "reviewed_commit": "b4fa370aa43c18ee4564204e07080410083678e5",
+  "pending_blob_sha": "20e1d29e1b5e0b598297e4d5c218ecc627d49cee",
   "source_blob_shas": {
-    "en": "4b8ecf4dc9baa9ccadc3116c4f3c70d341f495df",
-    "pt-BR": "a097115a76e63145f214e52be010f1c27d647443"
+    "en": "236fa7bb6a5d6198913c8277d06dd678e30a4fcd",
+    "pt-BR": "1578da75ffa74b901a00224bb85eaece59194c20"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -15,11 +15,11 @@
   "checks": {
     "factual_methodology": {
       "result": "passed",
-      "summary": "Archive and government/company/court source facts checked; separate quoted measurement units, rights and institutions from hypotheses."
+      "summary": "Court, Library of Congress, Rockefeller Archive and independent economic history sources cross-referenced."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Long economic historical narrative with institutional mechanisms, competing explanations and identified distributional outcomes."
+      "summary": "Long-form narrative of individual actions, mechanisms, consequences and worker impacts; removed generic afterword and internal methodological directions."
     },
     "visual_evidence_readiness": {
       "result": "passed",
@@ -28,16 +28,15 @@
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 2676,
-        "pt": 2557,
-        "urls_en": 11,
-        "urls_pt": 11
-      },
-      "summary": "12 analytic sections, 11 documentary links across 5 hosts."
+        "en": 4022,
+        "pt": 3871,
+        "urls_en": 15,
+        "urls_pt": 15
+      }
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "Material dates, legal cases and quantities cited in numbered source references; source bibliography matches across EN/PT."
+      "summary": "Fifteen numbered references, repaired PBS citation and bilingual numerical parity."
     },
     "counterfactual_review": {
       "result": "passed",
@@ -49,7 +48,7 @@
     "Historical archival records are incomplete",
     "Financial totals and causal inferences need additional original ledgers"
   ],
-  "notes": "Editorial QA bound to exact stage blobs and pending metadata. Host deployment separately checked.",
+  "notes": "Comprehensive rewritten family and institutional biography including Standard Oil corporate strategy, 1911 antitrust ruling, 1914 Ludlow massacre, public-health interventions and philanthropy. Generic source limitations and process talk removed.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -156,14 +155,14 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 2,
+    "revision": 4,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
-      "editorial_novelty": "How Rockefeller wealth emerged from refining, freight logistics and corporate trusts, how antitrust changed the industry, and how the family constructed lasting civic institutions.",
-      "visual_signature": "Two dated quantitative evidence charts, chronology table, causal flow and map in each language.",
-      "source_check": "8 parallel source URLs; governmental, archival and academic research; historical nominal quantities kept separate. 3 independently verified additions; bibliography and numeric visual parity updated.",
-      "bilingual_parity": "10 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
+      "editorial_novelty": "Full substantive development of Rockefeller's industrial strategy, contested antitrust chronology, 1914 Ludlow labour conflict, epidemiological philanthropic programs, racial access and institutional succession.",
+      "visual_signature": "Two comparable quantified figures: nominal historical lifetime donations by individual (caveated) and mutually exclusive 1882 trust shares held by trustees vs remainder (PBS 35000 share denominator).",
+      "source_check": "15 primary, scholarly and archival URLs including detailed PBS Standard Oil Trust account; legal shareholders, votes and charitable lifetime totals not conflated.",
+      "bilingual_parity": "EN/PT source URLs and numerical chart series identical, opening administrative metadata removed.",
       "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
     }
   }
