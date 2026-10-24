@@ -1,7 +1,5 @@
 # The Medici: banking partnerships, papal finance, Renaissance politics and the limits of private capital
 
-**Edition:** 24 October 2026 · **Information cutoff:** 24 October 2026 · **Program:** Global System & Power
-
 The Medici exemplify how a family business could become a political regime without first building a modern nation-state. In late medieval Florence, wealth came from interlinked banking partnerships, exchange bills, textile commerce, papal treasury contracts, elite relationships and control of political appointments. The Medici banking organization is conventionally traced to Giovanni di Bicci's 1397 Roman enterprise; the partnerships were liquidated amid Florentine upheaval in 1494. Historians emphasize that a modern public corporation, a merchant partnership and a ruling dynasty are not the same legal thing. [1][2][3]
 
 The central research problem is to reconstruct **the conversion of commercial advantage into political leverage**, then explain why influence and spectacular cultural patronage did not prevent banking failure. A family able to finance popes and patrons can remain exposed to sovereign defaults, distant branch agents, unstable exchange and shrinking equity. A glorious artistic legacy is not audited evidence of perpetual financial prosperity. [1][4][5]
@@ -42,10 +40,10 @@ For political economists, papal finance illustrates how institutions allocate va
 
 ```chart
 type: bar
-title: Medici Bank chronology intervals, derived from attested milestones
-unit: years elapsed; these are not continuous papal mandates
-1397 foundation to 1420 papal depositor | 23
-1420 first depositor mandate to 1494 liquidation | 74
+title: Medici bank life-cycle stages between recorded milestones, Sapori and de Roover
+unit: years elapsed from 1397 founding to Cosimo death 1464; then to 1494 dissolution; not equal banking performance
+1397–1464 early growth and consolidation | 67
+1464–1494 contraction and dissolution | 30
 ```
 
 ## Bills of exchange, credit and the problem of the interest prohibition
@@ -176,4 +174,4 @@ The banking partnerships ended amid the crisis of 1494; members of the family su
 
 [11] Raymond de Roover, The Medici Bank Organization and Management, Journal of Economic History: https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/medici-bank-organization-and-management/C479683DE651459ABC23506617FA365E
 
-[12] Metropolitan Museum of Art, The Medici: Portraits and Politics, 1512–1570: https://www.metmuseum.org/pt/met-publications/the-medici-portraits-and-politicsy
+[12] Metropolitan Museum of Art, The Medici: Portraits and Politics, 1512–1570: https://www.metmuseum.org/pt/met-publications/the-medici-portraits-and-politics
