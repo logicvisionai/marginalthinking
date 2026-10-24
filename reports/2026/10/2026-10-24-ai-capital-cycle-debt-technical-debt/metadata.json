@@ -74,9 +74,9 @@
   },
   "url": "/reports/2026/10/2026-10-24-ai-capital-cycle-debt-technical-debt.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-24T18:26:54.571Z",
+  "qa_reviewed_at": "2026-10-24T22:06:19.287Z",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "cb96790e5577cfa304847eb343b9bf2030d0793c",
+  "qa_reviewed_commit": "6dd3a69bda0df8cf336e18effe82cfaa2adf3bd5",
   "locales": {
     "en": {
       "markdown": "en.md",
