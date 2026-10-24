@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-MAUA",
+  "slug": "2026-10-24-maua-industrialization-finance-brazil",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T18:00:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 33,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-maua-industrialization-finance-brazil/en.md",
+      "title": "Mauá: industrial capitalism against the constraints of Brazil's slaveholding empire",
+      "deck": "Political-economic biography of Mauá: trade and finance, shipbuilding, railways, gas, telegraph, banking, state guarantees, slavery, banking failure and development alternatives.",
+      "tags": [
+        "Irineu Evangelista de Sousa (Barão de Mauá)",
+        "historical political economy",
+        "capital networks",
+        "institutions"
+      ],
+      "keywords": [
+        "Mauá",
+        "Irineu Evangelista de Sousa",
+        "Brazil industrialization",
+        "Empire banking",
+        "Ponta da Areia",
+        "railways 1854",
+        "Bank Mauá collapse",
+        "slavery and development"
+      ],
+      "regime": "Capital formation, market structure and institutional accountability are examined within the historical context.",
+      "key_risk": "Equating historical organization size or private grant finance with verified causal control or social welfare outcomes.",
+      "watch": [
+        "Ownership and contract archives",
+        "Independent scholarship and historiographic revisions",
+        "Comparable measurements of financial exposure and public welfare"
+      ],
+      "search_text": "Mauá: industrial capitalism against the constraints of Brazil's slaveholding empire Mauá Irineu Evangelista de Sousa Brazil industrialization Empire banking Ponta da Areia railways 1854 Bank Mauá collapse slavery and development"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-maua-industrialization-finance-brazil/pt-BR.md",
+      "title": "Barão de Mauá: capitalismo industrial e os limites do Império escravista brasileiro",
+      "deck": "Biografia econômica de Mauá: comércio e finanças, estaleiros, ferrovias, iluminação, telégrafo, bancos, concessões, escravidão, crise financeira e alternativas de desenvolvimento.",
+      "tags": [
+        "Irineu Evangelista de Sousa (Barão de Mauá)",
+        "história econômica",
+        "redes de capital",
+        "instituições"
+      ],
+      "keywords": [
+        "Mauá",
+        "Irineu Evangelista de Sousa",
+        "Brazil industrialization",
+        "Empire banking",
+        "Ponta da Areia",
+        "railways 1854",
+        "Bank Mauá collapse",
+        "slavery and development"
+      ],
+      "regime": "Formação de capital, estrutura de mercado e responsabilidade institucional examinadas no contexto histórico.",
+      "key_risk": "Confundir tamanho de organizações e doações privadas com controle causal comprovado de resultados sociais.",
+      "watch": [
+        "Arquivos de propriedade e contratos",
+        "Revisões historiográficas independentes",
+        "Medições comparáveis de financiamento e bem-estar"
+      ],
+      "search_text": "Barão de Mauá: capitalismo industrial e os limites do Império escravista brasileiro Mauá Irineu Evangelista de Sousa Brazil industrialization Empire banking Ponta da Areia railways 1854 Bank Mauá collapse slavery and development"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "banking-credit",
+    "industry-production",
+    "institutions-governance",
+    "trade-investment",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
+    "editorial_novelty": "Political-economic biography of Mauá: trade and finance, shipbuilding, railways, gas, telegraph, banking, state guarantees, slavery, banking failure and development alternatives.",
+    "visual_signature": "One dated quantitative evidence chart, one historical chronology table, a causal flow and a geographically qualified map in both locales.",
+    "source_check": "7 parallel source URLs; governmental, archival and academic research; historical nominal quantities kept separate.",
+    "bilingual_parity": "9 aligned substantive chapters, identical documented URLs and chart numbers across EN/PT-BR.",
+    "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
+  }
+}
