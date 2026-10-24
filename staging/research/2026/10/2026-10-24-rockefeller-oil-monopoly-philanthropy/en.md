@@ -1,7 +1,5 @@
 # The Rockefellers: Standard Oil, industrial concentration and the institutions of dynastic philanthropy
 
-**Edition:** 24 October 2026 · **Cutoff:** 24 October 2026 · **Program:** Global System & Power
-
 The Rockefeller family offers a century-and-a-half case in turning operating profits into ownership concentration, reorganizing that ownership after legal intervention, and institutionalizing philanthropy across generations. John D. Rockefeller (1839–1937) built Standard Oil through refining, logistics, economies of scale and aggressive consolidation. The firm lowered production costs and established market power; US courts ultimately determined that its organization violated antitrust law. His heirs developed foundations and public institutions that distributed substantial resources while also raising lasting questions about private agenda-setting. [1][2][3][4]
 
 The common polarities—benevolent industrial genius or conspiracy controlling the world—obscure the observable channels. Company integration is not identical to monopoly abuse; philanthropic grants are not identical to corporate voting rights; the legal descendants of Standard Oil are not a single surviving family-controlled holding company. Economic history needs separate ledgers for operating efficiency, exclusionary contracts, family share ownership, court remedies, charitable transfers and resulting social outcomes. [1][3][5]
@@ -157,10 +155,10 @@ The 1911 Supreme Court decision dealt with the structure and use of monopoly pow
 
 ```chart
 type: bar
-title: Standard Oil trust in 1882, distinct governance and beneficial-claim roles
-unit: individuals, not shares or percentage ownership
-Trustees with corporate control | 9
-Certificate holders initially | 42
+title: Standard Oil Trust 1882: shares attributed to trustee group versus others, PBS historical account
+unit: shares out of 35000; trustees 23314, remaining 11686 by subtraction, not vote weight per certificate
+Shares attributed to trustees | 23314
+Other shares | 11686
 ```
 
 After dissolution, industrial facilities continued to operate and equity holders still had claims on successor companies. A structural remedy changes control and incentives, not every productive asset's existence. Philanthropic programs are another independent outcome category: public-health grants can be beneficial while donor-selected priorities raise questions of scientific autonomy and electoral accountability. No one metric—percentage refining control, stock wealth or historical donations—can determine a final net social effect without comparing prices, rival entry, service outcomes and institutional power.
@@ -193,4 +191,6 @@ After dissolution, industrial facilities continued to operate and equity holders
 
 [13] Economic history study of hookworm eradication, National Library of Medicine: https://pmc.ncbi.nlm.nih.gov/articles/PMC3800113/
 
-[14] Cambridge, racism and medical services in Jim Crow South: https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/how-the-struggle-for-public-health-in-the-jim-crow-south-reflected-and-reinforced-systemic-racial-health-inequality/92742C878268765C849F244F39E4135E/
+[14] Cambridge, racism and medical services in Jim Crow South: https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/how-the-struggle-for-public-health-in-the-jim-crow-south-reflected-and-reinforced-systemic-racial-health-inequality/92742C878268765C849F244F39E4135E
+
+[15] PBS American Experience, John D Rockefeller senior, 1882 trust capitalization and share register: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-john//
