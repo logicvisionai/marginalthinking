@@ -161,7 +161,7 @@ A fair normative comparison is not between a politically active Soros and an ima
 
 ## Sovereignty, Hungarian backlash and contested democratic legitimacy
 
-The confrontation around Soros-backed institutions in Hungary illustrates a genuine dispute about political legitimacy. Central European University was established with Soros's support in the early 1990s and became a prominent transnational academic institution. Subsequent Hungarian regulatory changes caused major institutional conflict and a relocation of much of its activity to Vienna. A **2020 judgment of the Court of Justice of the European Union** held relevant conditions imposed on foreign universities incompatible with EU law. A legal finding on a particular regulatory framework does not adjudicate every political argument between the Hungarian government and Soros. [12]
+The confrontation around Soros-backed institutions in Hungary illustrates a genuine dispute about political legitimacy. Central European University was established with Soros's support in the early 1990s and became a prominent transnational academic institution. Subsequent Hungarian regulatory changes caused major institutional conflict and a relocation of much of its activity to Vienna. A **2020 judgment of the Court of Justice of the European Union** (C-66/18) held relevant conditions imposed on foreign universities incompatible with EU law. A legal finding on a particular regulatory framework does not adjudicate every political argument between the Hungarian government and Soros. [12][22]
 
 For those defending academic freedom, outside financing supported independent research and public debate in a political environment increasingly hostile to those institutions. For nationalist critics, foreign-funded institutions can create agenda power without direct domestic electoral accountability. These are different claims: one concerns concrete restrictions on institutional freedoms, the other concerns how societies govern cross-border financial influence. The disagreement can be investigated through legal rules, academic autonomy, published grant conditions, curricular control and documented political decisions. [12][15]
 
@@ -234,5 +234,7 @@ Several hypotheses remain testable. If OSF financing is decisive for local group
 [20] Open Society Foundations, 2023 scholarships impact evaluation: https://www.opensocietyfoundations.org/publications/open-society-scholarship-programs-evaluation-report
 
 [21] Wiley, The Alchemy of Finance, historical publisher account: https://www.wiley.com/en-gb/the-alchemy-of-finance-reading-the-mind-of-the-market-p-9780471043133
+
+[22] Court of Justice of the European Union, 6 October 2020, Commission v Hungary (Higher education), C-66/18: https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?num=C-66%2F18
 
 **Method note:** Monetary quantities are nominal, drawn from different entities, vintages and scopes. They are not inflation-adjusted comparisons or causal effects. Self-reported institutional sources document organizational perspectives and are compared where possible with independent research and official records.

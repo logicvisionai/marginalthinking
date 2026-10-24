@@ -161,7 +161,7 @@ A comparação normativa adequada não opõe um Soros politicamente ativo a um m
 
 ## Soberania, reação húngara e legitimidade democrática contestada
 
-O confronto sobre instituições apoiadas por Soros na Hungria revela disputa real de legitimidade política. A Central European University foi criada com seu apoio no início dos anos 1990 e tornou-se instituição acadêmica transnacional relevante. Mudanças regulatórias húngaras posteriores produziram conflito e deslocamento de grande parte das atividades para Viena. Em **2020**, o Tribunal de Justiça da União Europeia considerou incompatíveis com o direito europeu certas condições impostas à atuação de universidades estrangeiras. A decisão jurídica sobre regras específicas não resolve todos os argumentos políticos entre governo húngaro e Soros. [12]
+O confronto sobre instituições apoiadas por Soros na Hungria revela disputa real de legitimidade política. A Central European University foi criada com seu apoio no início dos anos 1990 e tornou-se instituição acadêmica transnacional relevante. Mudanças regulatórias húngaras posteriores produziram conflito e deslocamento de grande parte das atividades para Viena. Em **2020**, o Tribunal de Justiça da União Europeia (C-66/18) considerou incompatíveis com o direito europeu certas condições impostas à atuação de universidades estrangeiras. A decisão jurídica sobre regras específicas não resolve todos os argumentos políticos entre governo húngaro e Soros. [12][22]
 
 Na perspectiva de defensores da liberdade acadêmica, o financiamento externo sustentou pesquisa independente e debate público em ambiente político cada vez menos receptivo a tais instituições. Para críticos nacionalistas, entidades financiadas de fora podem influenciar agendas internas sem responsabilização eleitoral direta. São alegações distintas: uma trata de restrições concretas a liberdades institucionais; outra, da governança de recursos transfronteiriços. Ambas podem ser examinadas por normas jurídicas, autonomia universitária, condições públicas de doações, independência curricular e decisões políticas documentadas. [12][15]
 
@@ -234,5 +234,7 @@ Permanecem hipóteses testáveis. Se o financiamento da OSF é decisivo para cer
 [20] Open Society Foundations, 2023 scholarships impact evaluation: https://www.opensocietyfoundations.org/publications/open-society-scholarship-programs-evaluation-report
 
 [21] Wiley, The Alchemy of Finance, historical publisher account: https://www.wiley.com/en-gb/the-alchemy-of-finance-reading-the-mind-of-the-market-p-9780471043133
+
+[22] Court of Justice of the European Union, 6 October 2020, Commission v Hungary (Higher education), C-66/18: https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?num=C-66%2F18
 
 **Nota metodológica:** Os montantes monetários são nominais e correspondem a bases, anos, entidades e divulgações diferentes; não são comparações cambiais, ajustes de inflação ou estimativas de causalidade. Fontes de organizações participantes registram a perspectiva institucional e são confrontadas, quando possível, com pesquisa independente e documentos oficiais.
