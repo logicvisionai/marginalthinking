@@ -1,7 +1,5 @@
 # Mauá: industrial capitalism against the constraints of Brazil's slaveholding empire
 
-**Edition:** 24 October 2026 · **Cutoff:** 24 October 2026 · **Program:** Global System & Power
-
 In the nineteenth-century Brazilian Empire, a merchant could build a shipyard, create banking enterprises and bring rail and telegraph technology into a plantation economy while still being constrained by political privileges, concentrated land ownership, slavery and weak long-term finance. Irineu Evangelista de Sousa (1813–1889), the future Barão and Visconde de Mauá, is an unusually revealing case of this contradiction. Heroic histories portray a lone inventor defeated by backwardness; hostile accounts suggest excessive expansion and privileged dealings. Neither explanation is sufficient without reconstructing his actual assets, concession agreements, creditors, policy environment and exposure to liquidity shocks. [1][2][3]
 
 The analytical question is not whether Mauá was a 'visionary', but how the commercial and financial capital of an imperial economy could be transformed into fixed infrastructure and then undermined by mismatched maturities, political decisions and unstable confidence. The surviving parliamentary record and recent scholarship caution against treating his bank's decline as a single-cause morality tale. A development institution can be economically useful and financially vulnerable at the same time. [1][3]
@@ -42,10 +40,11 @@ The transport experiment thus illustrates coordination failure. One isolated rai
 
 ```chart
 type: bar
-title: Different 1850s Brazilian railway first sections, length not profitability
-unit: kilometres; Maua section inaugurated 1854 vs D Pedro II section contracted 1855
-Maua inaugurated | 14.5
-D Pedro II contracted | 60.337
+title: Parliamentary mandates begun by decade, Mauá, Chamber records
+unit: number of mandate starts in each decade, comparable archival counts
+1850s | 2
+1860s | 2
+1870s | 1
 ```
 
 ## Gas lighting, telegraph, navigation and platform complementarities
@@ -63,6 +62,20 @@ The Bank Mauá and affiliated businesses linked Brazilian clients with commercia
 One banking collapse can have several interacting explanations. Deficient asset quality, excessive related-party credit, tightening global finance, adverse trade conditions, confidence runs and political hostility can reinforce one another. An archival finding that a parliamentary speaker attacked the bank does not establish that the speech caused insolvency; an adverse foreign shock does not exonerate management choices. Recent historical research finds opposing parliamentary and press narratives precisely because finance and politics were entangled. [3]
 
 A credit-risk reconstruction would need contemporaneous ledgers: demand deposits, notes, foreign-currency obligations, maturity distribution, securities posted as collateral, affiliate exposures and recoveries in liquidation. The absence of a consistent audited consolidated series limits quantitative conclusions. Calling the entire crisis 'persecution of progress' or 'recklessness alone' conceals the institutional mechanics that continue to matter to development banks today.
+
+## The archival attribution concerning slave trading and its evidentiary limits
+
+The **Brazilian National Archives' biographical profile** includes the **slave trade** among the businesses in which Irineu Evangelista de Sousa was active. That attribution cannot be omitted when evaluating a businessman operating in a slaveholding empire. At the same time, the short institutional biography does not identify the transactions, enslaved individuals, ship manifests, contracts, dates or profits behind that description. It therefore does not, by itself, establish how much of the businessman's wealth was acquired through particular trafficking operations, whether the activity was direct or mediated, or which episodes the statement concerns. [10]
+
+The Atlantic slave trade and the domestic movement of enslaved people were different markets, subject to changing laws, even while their finance and shipping networks could overlap with ordinary commerce. The scholarly literature on Rio de Janeiro merchant credit makes clear that funding, freight, insurance, plantation investment and coercive labour could be connected in the same business environment. But general evidence that a merchant class operated through slave-trade networks is not proof of a named person's particular transaction. The National Archives' attribution is a serious factual lead requiring transaction-level documentation; an industrial-modernization narrative that instead assumes the financier was external to slavery would be misleading. [4][10]
+
+The historical conclusion is narrower and more defensible than either exoneration or an invented list of voyages. Mauá's investments took place inside and benefited from the operation of a slaveholding economy, and a national archival profile explicitly associates him with the slave trade. The available source set does not quantify individual trafficking transactions. This distinction preserves the agency and suffering of enslaved people while identifying the limits of an individual biography.
+
+## The River Plate and privileged information in the 1850 financing of Uruguay
+
+A separate study by Talita Alves de Messias examines Irineu's role as intermediary in **secret Brazilian loans to Uruguay in 1850**, during the Guerra Grande and the so-called *Diplomacia do Patacão*. Cross-referencing diplomatic and financial records, the article concludes that he was invited to act as an intermediary in the policy and that participation combined privileged geopolitical information with commercial opportunities in which he invested. It does not imply that the financier alone designed Brazilian foreign policy. [11]
+
+The episode connects three elements frequently separated in popular biographies: Treasury policy, private financing and regional military diplomacy. To move resources discreetly and credibly, political authorities could rely on commercial intermediaries, which in turn gained information about future state actions. Such access can create a genuine informational advantage without constituting ownership of the state. The episode also demonstrates why the industrialist's career cannot be reduced to isolated Brazilian inventions or to a conflict between a modern businessman and a supposedly uniform imperial administration. [11]
 
 ## Slavery, labour markets and the contradiction of modernization
 
@@ -150,10 +163,11 @@ The counterfactual is specific. If freight demand was strong but deposits and fo
 
 ```chart
 type: bar
-title: Distinct 19th-century Brazilian transport figures, not equivalent efficiency measures
-unit: vehicles; 72 Ponta da Areia ships manufactured versus 12 D Pedro II locomotives contracted
-Ponta da Areia vessels built | 72
-D Pedro II locomotives ordered | 12
+title: Recorded Mauá banking organization intervals, dates from historical studies
+unit: calendar-year elapsed intervals, rounded, not audited operating days or revenue
+Private Banco do Brasil 1851–1853 | 2
+Mauá MacGregor 1854–1866 | 12
+Banco Mauá 1866–1875 | 9
 ```
 
 Industrial development in a slaveholding empire also depends on what does not appear in the entrepreneur's own ledger: household purchasing power, enforceable labour rights, education and the distribution of infrastructure access. Public expenditure can create spillovers while subsidizing unprofitable private positions. To evaluate the social investment, compare route-specific freight costs and service access with tariff guarantees and fiscal costs, and distinguish the commercial crisis from the societal value of surviving technical skills. [4][8]
@@ -174,8 +188,10 @@ Industrial development in a slaveholding empire also depends on what does not ap
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
 
-[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historic
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
 
 [9] Academic historical account, Revista de Administração Mackenzie, Mauá banking institutions: https://www.scielo.br/j/ram/a/pS9yLmC9Yr5vnHLBpm8zWTn/?lang=pt
 
-[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.an.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mauao
+[10] Arquivo Nacional, Irineu Evangelista de Sousa biography, bankruptcy and 1875 moratorium: https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-mau
+
+[11] Talita Alves de Messias, Irineu Evangelista de Souza na Guerra Grande, História Econômica & História de Empresas (2021): https://www.hehe.org.br/index.php/rabphe/article/view/807a
