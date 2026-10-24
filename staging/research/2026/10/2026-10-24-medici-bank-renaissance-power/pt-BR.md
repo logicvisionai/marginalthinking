@@ -152,7 +152,7 @@ As sociedades bancárias terminaram na crise de 1494; familiares ocuparam depois
 
 ### Referências históricas, arquivos e estudos
 
-[1] Oxford Bibliographies, Heinrich Lang, Medici Bank 1397–1494: https://academic.oup.com/reference/62416/reference-article-abstract/555922868
+[1] Oxford Bibliographies, Heinrich Lang, Medici Bank 1397–1494: https://academic.oup.com/reference/62416/reference-article-abstract/555922868 (fonte consultada em outubro de 2026)
 
 [2] A. Sapori, The Medici Bank, PSL Quarterly Review: https://rosa.uniroma1.it/rosa04duplex/psl_quarterly_review/article/view/12855
 
