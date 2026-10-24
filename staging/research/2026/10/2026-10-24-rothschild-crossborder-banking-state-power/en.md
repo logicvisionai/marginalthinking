@@ -56,7 +56,7 @@ During the Napoleonic conflict, the brothers coordinated bullion and payments fo
 
 War finance creates urgent demand for liquid money in specific places. A country with borrowing authority and future tax revenues can still struggle to move payable bullion to its army abroad. Merchants with trusted agents and local currency contacts can bridge this mismatch and earn fees or trading margins. Their risk includes interception, currency values, sovereign repayment and political upheaval.
 
-The correct historical judgment compares documented remittances and contracts with alternative intermediaries rather than attribute Allied military success to a banker. Intermediaries can be consequential without making battlefield decisions or creating a war. Archival research should also distinguish speculative bond positions from government service contracts, as these involve different counterparties and profit mechanisms.
+The correct historical judgment compares documented remittances and contracts with alternative intermediaries rather than attribute Allied military success to a banker. Intermediaries can be consequential without making battlefield decisions or creating a war. Speculative positions in government bonds and contracts to provide services to states involved different counterparties and sources of income.
 
 ## Waterloo 1815: sources, rumor and falsification
 
@@ -86,7 +86,7 @@ During the nineteenth century, Rothschild houses expanded into railway financing
 
 A railway creates network externalities: connecting two industrial regions can increase the value of other routes. That encourages state involvement and complicates cost-benefit comparisons. Cross-border bankers supplied access to distant capital markets but did not themselves lay every line or control every station. Builders, engineers, governments and local investors had independent agency.
 
-An archival financial study should identify lender versus shareholder status, dividend entitlements, debt covenants, guarantees and refinancing terms for each railway. Public expectations of industrial progress can support expensive projects whose private returns are weak. That possibility is especially important when interpreting the long-term influence of families known for financing infrastructure.
+Lender and shareholder status, dividends, credit covenants, collateral and refinancing conditions varied between railway transactions. Public expectations of industrial progress can support expensive projects whose private returns are weak. That possibility is especially important when interpreting the long-term influence of families known for financing infrastructure.
 
 ## Suez 1875: an unusually well-documented transaction and imperial politics
 
@@ -94,7 +94,7 @@ In **1875**, N M Rothschild & Sons advanced **£4 million** to the British gover
 
 The payment did not make the Rothschild family owner of the entire canal, nor did it transfer full sovereignty over the waterway to the bank. France remained a major shareholder; Egypt's fiscal distress was the reason shares were sold; British state policy pursued strategic maritime influence. Debate in Parliament about the executive's handling of the purchase is a constitutional question distinct from the terms of the bridge financing.
 
-The case also implicates colonial power. Strategic control of a route influenced trade and imperial projection; it affected Egyptian sovereignty and subsequent politics. A critical assessment must examine lender profit, repayment, fiscal accountability and affected populations separately. Family banking capacity enabled an action whose geopolitical objectives were formulated by a government, not by the lender alone.
+The case also implicates colonial power. Strategic control of a route influenced trade and imperial projection; it affected Egyptian sovereignty and subsequent politics. Lender profit, repayment, the government's fiscal responsibilities and the experience of affected populations were separate consequences. Family banking capacity enabled an action whose geopolitical objectives were formulated by a government, not by the lender alone.
 
 ```map
 title: Documented geography of institutions and relationships
@@ -152,7 +152,7 @@ The Rothschilds' measurable contribution was scaling cross-border credit and ope
 
 Three interpretations can be evaluated. A technological account emphasizes the network's information and financing efficiencies. A political-economy account examines private lenders' bargaining advantage when governments urgently need cash and citizens have limited oversight. An archival-critical account identifies the unsupported expansion of particular deals into legends of omnipotent control, often inflected by religious prejudice. A complete history considers all three but assigns each different standards of proof.
 
-Modern comparative research should use bond prospectuses, partnership agreements, official treasury archives, loan terms, voting rights and economic outcomes. Neither admiration for financial innovation nor moral condemnation should substitute for the records. The family's historical importance is substantial, and understanding it requires refusing both hagiography and antisemitic conspiracy myths.
+Bond prospectuses, partnership agreements, treasury records, loan terms and voting rights identify the actual financial relationships. Neither admiration for financial innovation nor moral condemnation should substitute for the records. The family's historical importance is substantial, and understanding it requires refusing both hagiography and antisemitic conspiracy myths.
 
 ## Partner location, contract rights and the Suez financing
 
