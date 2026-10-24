@@ -151,6 +151,22 @@ A valid empirical design would compile harvests, legal status, payments, working
 
 The resulting lesson is not a romantic story of protective lords nor a universal numerical extraction rate. Economic power depends on who can compel labour, which assets families control and where they can seek alternative income. This distinct feudal/manorial dossier complements—rather than duplicates—a broader history of medieval commerce, currency and urban production.
 
+## Fixed money rent under changing grain prices: an explicit counterfactual
+
+A fixed money rent can increase the real quantity of grain a peasant must sell when crop prices collapse. Suppose, as a *hypothetical numerical illustration*, a household owes 25 coins and can sell grain at one coin per unit. It needs to sell 25 units. At half a coin per unit it needs 50 units for the identical legal obligation. The effective real burden doubled even though the nominal rent did not change. This is neither a measured estate series nor proof that every manor converted labour services into cash. [3][4]
+
+```chart
+type: bar
+title: Hypothetical grain needed to pay fixed 25-coin rent under two grain prices
+unit: grain units sold; prices of 1.0 and 0.5 coins/unit are model assumptions
+One coin per unit | 25
+Half a coin per unit | 50
+```
+
+The UK National Archives preserves documentation of manorial courts, rent arrangements and communal rights, making it possible to reconstruct local claims without presuming a single uniform 'feudal contract'. World History Encyclopedia distinguishes the elite lord-vassal relationship from manorial arrangements involving free and unfree tenants. That distinction is essential to the conceptual scope of rents and services. [10][11]
+
+For an empirical test, compare recorded cash rents, workdays and grain prices within one jurisdiction before and after demographic change. Higher wages after the Black Death could improve bargaining where labour mobility was enforceable, while restrictions could suppress the same response elsewhere. The mechanism is a three-way interaction of factor scarcity, contract terms and institutional power, not an inevitable linear progression from feudalism to markets.
+
 ### Sources and methodological boundaries
 
 [1] Cambridge, Lordship and Locality: Bloch versus Ganshof and institutional definitions: https://www.cambridge.org/core/books/abs/lordship-and-locality-in-the-long-twelfth-century/introduction/ADA8392C2FB857C0F08788EFFFD04A74
@@ -170,5 +186,9 @@ The resulting lesson is not a romantic story of protective lords nor a universal
 [8] Cambridge, Shocking Contrasts and loss of labour: https://www.cambridge.org/core/books/shocking-contrasts/exogenous-loss-of-labor/EAEF2D934D4D01138B978E66801C098A
 
 [9] Cambridge, Commerce and Communications in Medieval Europe: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
+
+[10] UK National Archives, primary manorial court and tenancy records: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
+
+[11] World History Encyclopedia, Feudalism: distinction and disputed concept: https://www.worldhistory.org/Feudalism/
 
 **Limit:** The 100-unit allocation is an illustrative model, not observed medieval statistics. Military fief, agricultural manor and personal servitude are different institutions. Demographic effects need dated regional evidence.
