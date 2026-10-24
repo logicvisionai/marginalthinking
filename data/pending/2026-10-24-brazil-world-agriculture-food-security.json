@@ -105,14 +105,14 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026; archive/history records and latest dated FAO, Conab, USDA and ILO series where relevant.",
     "editorial_novelty": "Historical, technological and political-economy examination of tropical agriculture, global producer rankings, Brazilian grains and livestock, family farms, fertilizers, climate, hunger and healthy diets.",
-    "visual_signature": "Quantitative comparative chart with explicit measurement scope, table of comparable units, causal flow and geographic exposure map in each locale.",
+    "visual_signature": "Two quantitative bilingual-parallel charts (observed historical vs present categories, with dates and units), comparison table, causal flow and geographic map.",
     "source_check": "14 parallel verified archival, academic and primary statistical URLs.",
     "bilingual_parity": "11 aligned substantive sections, identical source URLs, numeric chart values and chronology framework.",
-    "methodology": "Distinguish estimates from observed sources and avoid non-additive quantities, sample bias and unverified causal claims."
+    "methodology": "Distinguish estimates from observed sources and avoid non-additive quantities, sample bias and unverified causal claims. Added measurement taxonomy distinguishing categories and explicitly non-additive populations."
   }
 }
