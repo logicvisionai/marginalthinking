@@ -170,7 +170,7 @@ A historical claim of unlimited private financial command must be tested against
 
 ### Archival sources and historical scholarship
 
-[1] Rothschild Archive, family origins: https://www.rothschildarchive.org/family
+[1] Rothschild Archive, family origins: https://www.rothschildarchive.org/family (source consulted October 2026)
 
 [2] Rothschild Archive, five banking branches and business network: https://www.rothschildarchive.org/business/
 
