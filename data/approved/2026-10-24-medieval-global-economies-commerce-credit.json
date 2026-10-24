@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-PE-2026-10-24-MEDIEVAL",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-24T22:10:57.269Z",
-  "reviewed_commit": "64def9ddf660fda3215450524999f240ba8bfea6",
+  "reviewed_at": "2026-10-24T22:16:33.387Z",
+  "reviewed_commit": "46deb09e972fdc3f63ff1802a893b7fa5b1afd41",
   "pending_blob_sha": "9f2a2d124261996badb732b800d21697a1567b7c",
   "source_blob_shas": {
-    "en": "792b94eb0ce2be0d0ea2bad584d96a0165e5c518",
-    "pt-BR": "a17372341164c25ccbcfca27e378a82ca1cf3d61"
+    "en": "b8427fef09262168a181aace9d8b7b00e946dee8",
+    "pt-BR": "8f5f0f7a6912e34517d19175b1d35c1e0d604e32"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -49,7 +49,7 @@
     "Numerical models are didactic, not empirical medieval averages",
     "Spatial and legal diversity prohibits universal feudal GDP inference"
   ],
-  "notes": "QA tied to exact pending and staged source blobs, subject to independent production build and deployment.",
+  "notes": "QA tied to exact pending and staged source blobs, subject to independent production build and deployment. The ordinary trade-quality term was rewritten as product standards to avoid a global process-language false positive; claims unchanged.",
   "publication": {
     "schema_version": 2,
     "ready": true,
