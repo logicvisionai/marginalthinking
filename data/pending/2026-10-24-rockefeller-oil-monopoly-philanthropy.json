@@ -104,14 +104,14 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 3,
+  "revision": 4,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "24 October 2026 historical document and peer-reviewed study cutoff; dated primary and academic sources in both languages.",
     "editorial_novelty": "Full substantive development of Rockefeller's industrial strategy, contested antitrust chronology, 1914 Ludlow labour conflict, epidemiological philanthropic programs, racial access and institutional succession.",
-    "visual_signature": "Two dated quantitative evidence charts, chronology table, causal flow and map in each language.",
-    "source_check": "Fourteen historical archives, court, economic history and public health references with US Library of Congress and peer-reviewed counter-evidence.",
-    "bilingual_parity": "Parallel in-depth English and PT-BR chapters; quantitative research charts consistent.",
+    "visual_signature": "Two comparable quantified figures: nominal historical lifetime donations by individual (caveated) and mutually exclusive 1882 trust shares held by trustees vs remainder (PBS 35000 share denominator).",
+    "source_check": "15 primary, scholarly and archival URLs including detailed PBS Standard Oil Trust account; legal shareholders, votes and charitable lifetime totals not conflated.",
+    "bilingual_parity": "EN/PT source URLs and numerical chart series identical, opening administrative metadata removed.",
     "methodology": "Distinguish records, archival institutional self-reports, historiographic interpretation and causal counterfactuals."
   }
 }
