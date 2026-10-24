@@ -184,7 +184,7 @@ Desenvolvimento industrial num Império escravista também depende do que não a
 
 ### Referências documentais e historiográficas
 
-[1] Brazilian Chamber of Deputies, parliamentary biography: https://www.camara.leg.br/deputados/660/biografia
+[1] Brazilian Chamber of Deputies, parliamentary biography: https://www.camara.leg.br/deputados/660/biografia (fonte consultada em outubro de 2026)
 
 [2] Brazilian Ministry of Transport, railways historical synthesis: https://www.gov.br/transportes/pt-br/assuntos/transportes-no-brasil-sintese-historica
 
