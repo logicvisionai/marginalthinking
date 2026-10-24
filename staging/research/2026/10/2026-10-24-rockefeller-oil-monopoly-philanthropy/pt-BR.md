@@ -193,4 +193,4 @@ Depois da desagregação, instalações continuaram operando e acionistas conser
 
 [14] Cambridge, racism and medical services in Jim Crow South: https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/how-the-struggle-for-public-health-in-the-jim-crow-south-reflected-and-reinforced-systemic-racial-health-inequality/92742C878268765C849F244F39E4135E
 
-[15] PBS American Experience, John D Rockefeller senior, 1882 trust capitalization and share register: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-john//
+[15] PBS American Experience, John D Rockefeller senior, 1882 trust capitalization and share register: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-john/
