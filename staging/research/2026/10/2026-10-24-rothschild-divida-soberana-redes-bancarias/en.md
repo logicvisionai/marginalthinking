@@ -56,13 +56,10 @@ The evidence standard is symmetric. Real wealth, preferential sovereign access, 
 
 ```chart
 type: bar
-title: Foundational chronology of family banking network
-unit: calendar year; milestone dates are not comparative magnitudes
-Mayer Amschel born | 1744
-First formal family partnership | 1810
-Mayer Amschel dies | 1812
-Wellington payment commission period | 1814
-Battle of Waterloo | 1815
+title: Sons represented in two phases of the Rothschild business network
+unit: persons; 1810 agreement versus later five banking houses
+Sons named in 1810 partnership | 3
+Sons leading later five banking houses | 5
 ```
 
 ```flow
@@ -82,6 +79,26 @@ Naples | Carl and Southern Italian house | Local regimes and political changes
 ## Counterfactuals and source limitations
 
 Contracts and archival records demonstrate certain financial relationships and influence episodes, but do not measure every transaction's causal effect on economic growth, democracy or society. An assessment must separate entities, effective dates, ownership and beneficiaries; family histories do not demonstrate unlimited power.
+
+## Sovereign debt underwriting and the boundaries of creditor power
+A loan syndicate needs to place securities at prices investors will accept. If a government requests funds to equip an army or build a railway, the underwriting house can assemble subscribers, advance part of the proceeds and distribute coupons through its branches. That service supplies liquidity and a market price for sovereign risk. It does not transfer the government's legal ability to tax, legislate or command troops to the intermediary. An underwriter may continue holding some bonds or sell all of them. Consequently, the gross amount of government securities sold cannot be treated as the banking family's net assets. [4][6]
+
+Real political influence nevertheless deserves examination. A state facing urgent external payments may become reliant on access to a narrow distribution network, and the price of refinancing can affect fiscal decisions. Such dependence is conditional: alternative houses, domestic tax reform, negotiations and political refusal also shape outcomes. Identifying the actual degree of leverage requires loan prospectuses, signed mandates, sovereign accounts, fee schedules and the names of end holders. A bankers' correspondence mentioning a ministry is evidence of contact, not proof that the minister acted under instruction.
+
+## Networks of information, currency and risk
+Coordination across the five European houses had commercial value because an agent familiar with local bonds and exchange rates could recommend settlements without sending precious metal for every transaction. Yet communication speed depended on postal routes and changing technology. During wars, couriers and transport could be captured; in peacetime, rival banks and later telegraph networks narrowed the information advantage. Relationships reduced some risks, while exposing partners to defaults transmitted between jurisdictions. [1][2]
+
+The family arrangement must therefore be treated as both commercial infrastructure and governance challenge. Members could share profits and information, but each house had its own clients, contracts and changing partnerships. An investor who held bonds distributed by a Rothschild house was not necessarily part of family capital. Similarly, banks holding securities issued by governments were financial creditors, not the owners of the states. These distinctions are indispensable before discussing any estimate of dynastic wealth or international influence.
+
+## Brazil, credit dependence and an uncomfortable historical legacy
+The correspondence on Brazilian borrowing in the 1880s matters because it links monetary transactions to a society still organized around slavery. Foreign creditors assessed export capacity, fiscal stability and political transition while Brazil's population debated emancipation and landowner compensation. If a bank wanted reassurance on the consequences of abolishing slavery, that reveals how labor coercion and access to international capital intersected. It does not establish that a London family directed the 1888 abolition or the 1889 regime change. Such claims require records showing specific instructions, decisions and compliance. [8]
+
+The economic questions are empirical. Did anticipated regime reform change the yield demanded on Brazilian bonds? Which intermediaries held the risk after placement? Were sovereign proceeds used for productive infrastructure, budget stabilization or refinancing earlier debt? How were tax burdens shared among slaveholders, freed workers and other citizens? One isolated document cannot resolve all these matters, but it identifies where archival debt contracts and Brazilian fiscal history should be read together.
+
+## Financial dynasties, institutions and responsible interpretation
+The Rothschild name spans more than two centuries. Its historical banking houses, later reorganized firms, family-owned businesses and charities are not a unified asset with a single perpetual owner. Descendants may share ancestry without common financial authority; control must be established from beneficial ownership and governance records. A banking firm holding assets for clients cannot count those investments as members' personal wealth, just as a foundation's restricted assets cannot be freely assigned to heirs. [1][6]
+
+The Waterloo myth provides a methodological test. The archive documents payment services to the British campaign but contests the story that Nathan secretly exploited early news of victory in a master trade. Preserving the real record is necessary to analyze legitimate concerns about unequal financial access. Unsupported claims of universal Jewish control reproduce prejudice and erase the documented actions of states, creditors, merchants and millions of market participants. Evidence should be demanded of every powerful financier regardless of ancestry, political position or religion.
 
 ### Historical and institutional references
 

@@ -56,13 +56,10 @@ O padrão de prova deve ser simétrico. Fortuna real, acesso privilegiado a gove
 
 ```chart
 type: bar
-title: Cronologia da constituição da rede bancária familiar
-unit: ano civil; datas de eventos não representam tamanhos comparáveis
-Nascimento de Mayer Amschel | 1744
-Sociedade formal familiar | 1810
-Falecimento de Mayer Amschel | 1812
-Comissão de pagamentos a Wellington | 1814
-Batalha de Waterloo | 1815
+title: Filhos da família associados às duas fases da rede Rothschild
+unit: número de filhos; acordo de 1810 versus cinco casas históricas posteriores
+Sócios filhos nomeados no acordo de 1810 | 3
+Casas associadas a filhos na rede posterior | 5
 ```
 
 ```flow
@@ -82,6 +79,26 @@ Nápoles | Carl e casa no sul italiano | Regimes locais e mudanças políticas
 ## Contrafactuais e limites das fontes
 
 Contratos e evidências arquivísticas demonstram certas relações financeiras e episódios de influência; não quantificam o efeito causal de todos os contratos sobre crescimento, democracia ou sociedade. A avaliação exige separar instituições, período de vigência, titularidade e beneficiários finais; a história não é uma demonstração de poder ilimitado de famílias.
+
+## Colocação de dívida soberana e limites do poder do credor
+Uma sindicância de crédito precisa vender títulos por preços aceitos pelos investidores. Quando governo obtém dinheiro para exército ou ferrovia, a casa bancária organiza compradores, eventualmente antecipa recursos e distribui cupons. O serviço oferece liquidez e precifica risco soberano; não transfere ao intermediário a competência legal do governo para tributar, legislar ou comandar tropas. O colocador pode conservar parte dos papéis ou revendê-los. Portanto, o principal bruto de emissões não constitui patrimônio líquido da família bancária. [4][6]
+
+Influência política real, contudo, merece investigação. Estado com pagamentos externos urgentes pode depender de poucos canais de distribuição, e o custo da rolagem influencia escolhas fiscais. A dependência é condicional: outras casas, reforma tributária, negociação e recusa política também alteram resultados. Quantificar poder de barganha exige prospectos, mandatos assinados, contas soberanas, comissões e titulares finais. Carta de banqueiro mencionando ministro demonstra contato, não prova de que ministro obedecia a ordens.
+
+## Redes de informação, moeda e risco
+A coordenação entre cinco casas europeias tinha valor porque agentes conhecedores de títulos e câmbio locais podiam recomendar pagamentos sem transportar metais em cada operação. A rapidez dependia de correios e tecnologia. Em guerras, mensageiros e cargas podiam ser capturados; em paz, bancos concorrentes e telégrafo reduziram vantagens. Relações diminuíam certos riscos, mas ligavam os sócios a inadimplências em jurisdições diferentes. [1][2]
+
+O arranjo familiar era infraestrutura comercial e problema de governança simultaneamente. Parentes dividiam informações e lucros, porém cada casa possuía clientes, contratos e sociedades mutáveis. Investidor que comprava título distribuído por uma casa Rothschild não se tornava, por isso, parte do patrimônio familiar. Banco credor do Tesouro tampouco era dono do Estado. As distinções são indispensáveis antes de estimar riqueza dinástica e influência internacional.
+
+## Brasil, dependência de crédito e herança histórica desconfortável
+A correspondência sobre empréstimos brasileiros na década de 1880 conecta mercado financeiro a sociedade ainda organizada pela escravidão. Credores externos avaliavam capacidade exportadora, estabilidade fiscal e transição política enquanto o Brasil discutia emancipação e compensações a proprietários. Se uma casa buscava garantias sobre os efeitos do fim da escravidão, isso demonstra ligação entre trabalho coercitivo e acesso a capital internacional. Não comprova que uma família londrina dirigiu a abolição de 1888 ou a mudança de regime em 1889; tais afirmações exigem registros de instruções, decisões e obediência. [8]
+
+As perguntas econômicas são verificáveis. Expectativas de reforma mudaram os juros exigidos pelos títulos brasileiros? Quem conservou o risco após sua distribuição? Recursos da emissão foram para infraestrutura, equilíbrio orçamentário ou rolagem de dívida? Como se repartiam impostos entre senhores, libertos e demais cidadãos? Um documento isolado não responde, mas orienta a leitura conjunta de contratos e história fiscal brasileira.
+
+## Dinastias financeiras, instituições e interpretação responsável
+O sobrenome Rothschild atravessou mais de dois séculos. Casas históricas, bancos reorganizados, negócios e entidades beneficentes não compõem ativo unificado com proprietário eterno. Descendentes podem partilhar ascendência sem mandato financeiro comum; direitos precisam ser reconstruídos por documentos de propriedade e governança. Uma firma com recursos de clientes sob gestão não os transforma em riqueza pessoal de parentes, como fundos patrimoniais restritos não são caixa livre dos herdeiros. [1][6]
+
+A lenda de Waterloo testa a metodologia. O arquivo comprova serviços de pagamentos à campanha britânica e contesta a história de Nathan usando notícia secreta da vitória em operação genial. Preservar fatos permite examinar acesso financeiro privilegiado real. Alegações sem prova sobre controle judaico universal reproduzem preconceitos e apagam a atuação de Estados, credores, negociantes e demais participantes dos mercados. O padrão de evidência deve ser o mesmo para todo financista poderoso, independentemente da religião, origem ou orientação política.
 
 ### Referências históricas e institucionais
 

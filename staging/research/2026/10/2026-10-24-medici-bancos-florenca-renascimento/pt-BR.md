@@ -56,13 +56,10 @@ Um teste atual investigaria concentração em soberanos, liquidez por filial, pr
 
 ```chart
 type: bar
-title: Datas de transformação do banco e das instituições da família Médici
-unit: ano civil; datas são marcos, não magnitudes comparáveis
-Banco de Giovanni consolidado | 1397
-Retorno político de Cosimo | 1434
-Morte de Cosimo / auge bancário | 1464
-Colapso do banco / saída de Piero | 1494
-Cosimo I assume ducado | 1537
+title: Casas documentadas do Banco Médici no comércio europeu
+unit: número de centros nomeados por Sapori; não representa filiais em todas as épocas
+Roma e Veneza | 2
+Lyon, Bruges e Londres | 3
 ```
 
 ```flow
@@ -82,6 +79,26 @@ Veneza / Lyon | Bancos e operações comerciais | Formatos societários variaram
 ## Contrafactuais e limites das fontes
 
 Contratos e evidências arquivísticas demonstram certas relações financeiras e episódios de influência; não quantificam o efeito causal de todos os contratos sobre crescimento, democracia ou sociedade. A avaliação exige separar instituições, período de vigência, titularidade e beneficiários finais; a história não é uma demonstração de poder ilimitado de famílias.
+
+## Como as sociedades Médici alocavam capital e supervisionavam gerentes
+A organização bancária evidencia a distinção entre reputação familiar e recursos disponíveis em cada filial. Um gerente no exterior podia ingressar em sociedade com capital próprio e participação nos lucros. Isso incentivava encontrar clientes, mas também expunha os sócios centrais a empréstimos cuja qualidade só era conhecida por livros e cartas periódicas. O problema se aproxima da gestão delegada atual: um agente amplia créditos para ganhar comissões enquanto outro assume parte da perda. Não havia base integrada de riscos, garantia de depósitos ou emprestador de última instância moderno. [1][2]
+
+A discussão de Sapori sobre de Roover identifica filiais em Roma, Veneza, Lyon, Bruges e Londres. É uma lista de locais documentados, não a afirmação de que o banco possuía exatamente cinco casas durante toda sua história. Distância e jurisdição eram essenciais: empréstimos a monarcas ofereciam prestígio e tarifas altas, mas vulnerabilizavam a instituição quando soberanos não pagavam. Moedas distintas e regras sobre juros complicavam contratos. O estudo de rentabilidade requer livros de cada filial, não retorno sobre patrimônio de banco moderno inventado.
+
+## Comércio, desigualdade e instituições da República de Florença
+A riqueza bancária produzia influência porque as decisões públicas exigiam alianças com corporações e magistrados. Crédito e favores comerciais reforçavam essas redes, mas impostos, guerras e mobilização popular podiam interrompê-las. Identificar um devedor não comprova que seu voto servia ao banco: a cadeia causal exige contrato, competência do oficial e evidência de comportamento alterado. Tratar Florença como bem privado de uma família apaga rivais, artesãos, corporações, procedimentos e conflitos de facções. [1][5]
+
+A cidade possuía estratos econômicos. Comerciantes e cambistas com capital acessavam contratos vedados a trabalhadores sem garantias ou direitos corporativos. Finanças internacionais coexistiam com restrições de acesso a cargos e lucros da manufatura urbana. O mecenato renascentista deve ser estudado nessa distribuição: salários de pedreiros, custo de materiais e organização das oficinas importam tanto quanto o prestígio do patrocinador.
+
+## Negócios papais e vulnerabilidade ao crédito soberano
+Os Médici obtiveram papéis relevantes de depósito e pagamento nas finanças papais, sem que o contrato conferisse governo direto sobre a cristandade. O estudo bibliográfico de Oxford registra relações formais com a Câmara Apostólica a partir de 1420, ligando finanças a um fluxo de receitas institucional. O banco administrava valores e câmbio, mas dependia das mudanças de administração e da concorrência. Risco semelhante ocorria no crédito real: cortes demandavam recursos por guerras e tributos insuficientes, mas governantes inadimplentes eram difíceis de executar judicialmente. [1]
+
+É necessário separar dinheiro de clientes, capital do banco, letras dos correspondentes, empréstimos e comissões esperadas. Montante bruto movimentado não é riqueza privada criada. A crise de 1494 ocorreu durante ruptura política, mas não pode ser atribuída apenas ao exílio ou a gastos luxuosos. Riscos dispersos, autonomia dos gerentes e empréstimos concentrados em soberanos já enfraqueciam a estrutura. Importa diferenciar vulnerabilidade acumulada do evento que precipita a liquidação.
+
+## Inovação renascentista e legado além do controle familiar
+Financiar igrejas e artistas não significa ter inventado impressão, perspectiva ou todo humanismo. Desenvolvimentos tiveram muitos financiadores e profissionais. Capital viabilizava obras longas e edifícios urbanos, mas cultura dependia também de artesãos, ensino, materiais, intercâmbio e liberdade institucional. Resultados exigem obras sobreviventes e contratos, sem derivar uma era cultural inteira de um livro de contas.
+
+Governos Médici posteriores exerciam tributação e coerção legal qualitativamente diferentes da competência contratual de emprestar de um banco privado. A passagem da família mercantil ao ducado revela conversão de influência em cargos e títulos, não concentração ininterrupta do patrimônio bancário. Comparar com fortunas de hoje exige identificar instituições e datas: crédito privado, mecenato, impostos e doações não são parcelas somáveis de um fictício 'poder dinástico'.
 
 ### Referências históricas e institucionais
 
