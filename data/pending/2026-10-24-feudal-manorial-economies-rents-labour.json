@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-10-24-FEUDAL",
+  "slug": "2026-10-24-feudal-manorial-economies-rents-labour",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T18:00:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 31,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-feudal-manorial-economies-rents-labour/en.md",
+      "title": "The political economy of lordship and manors: land, rent, coercion and the historical limits of feudalism",
+      "deck": "Institutional investigation of feudal and manorial land, rents, peasant labour, commons, courts, plagues and regional divergence, differentiating fiefs from rural estates.",
+      "tags": [
+        "Feudal economy",
+        "Manorial production",
+        "Serfdom",
+        "Labour dues",
+        "Rent",
+        "Agrarian history"
+      ],
+      "keywords": [
+        "fief vassal",
+        "manorial economy",
+        "corvee",
+        "serfdom decline",
+        "demesne",
+        "common lands",
+        "Black Death",
+        "Susan Reynolds",
+        "Mark Bailey"
+      ],
+      "regime": "Unequal customary rights structure production and redistribution in locally variable rural economies.",
+      "key_risk": "Universal feudal pyramid and invented extraction percentages conceal legal and statistical heterogeneity.",
+      "watch": [
+        "Manorial court and harvest records",
+        "Tenant mobility and wage histories",
+        "Comparative decline or persistence of serfdom"
+      ],
+      "search_text": "feudal economic history manorial farm fief vassal corvee rent labour medieval inequality"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-feudal-manorial-economies-rents-labour/pt-BR.md",
+      "title": "Economia dos feudos e senhorios: terra, renda, coerção e limites históricos do feudalismo",
+      "deck": "Investigação institucional de feudos e senhorios, rendas, trabalho camponês, recursos comuns, tribunais, epidemias e divergências regionais, distinguindo vínculos militares de fazendas.",
+      "tags": [
+        "Economia feudal",
+        "Senhorio",
+        "Servidão",
+        "Corveia",
+        "Renda",
+        "História agrária"
+      ],
+      "keywords": [
+        "feudo vassalagem",
+        "senhorio",
+        "corveia",
+        "declínio servidão",
+        "reserva",
+        "bens comuns",
+        "Peste Negra",
+        "Susan Reynolds",
+        "Mark Bailey"
+      ],
+      "regime": "Direitos costumeiros desiguais estruturam produção e distribuição de economias rurais localmente variáveis.",
+      "key_risk": "Pirâmide feudal universal e percentuais inventados ocultam diferenças jurídicas e estatísticas.",
+      "watch": [
+        "Registros rurais e judiciais",
+        "Mobilidade camponesa e salários",
+        "Persistência regional da servidão"
+      ],
+      "search_text": "economia feudal feudos senhorialismo servidão corveia rendas exploração trabalho camponês"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "banking-credit",
+    "trade-investment",
+    "industry-production",
+    "institutions-governance",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "24 October 2026; research on medieval British and European tenure and legal institutions.",
+    "editorial_novelty": "Manorial rent and labour analysis separated from complementary global medieval urban/trade study.",
+    "visual_signature": "One annotated hypothetical numeric allocation chart, detailed concept table, structural flow and qualified map per locale.",
+    "source_check": "9 matching university-published historical references.",
+    "bilingual_parity": "14 equivalent analytical chapters, identical source URLs and quantitative hypothetical chart series.",
+    "methodology": "Explicitly disaggregate vassal fiefs, manorial estates, serfdom and local seigneurial rights; region-specific comparative history."
+  }
+}
