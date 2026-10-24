@@ -134,7 +134,7 @@ Slavery contributed materially to the production and movement of commodities in 
 
 There are three research tasks that should not be collapsed. A documentary history reconstructs routes, laws, owners, contracts and resistance. A causal economic history asks how forced labour affected output, land, schooling and financial accumulation against credible alternatives. A present labour-rights study measures coercion under contemporary conventions. Each has its own units and uncertainty.
 
-The forward question is institutional: can states enforce real exit rights, protect migrants and informal workers, expand access to land and education where exclusion persists, and hold supply chains accountable? Any precise cost-of-slavery GDP counterfactual or quantitative reparations assessment requires a separate model and assumptions. This report avoids disguising moral stakes as an unverified equation.
+The forward question is institutional: can states enforce real exit rights, protect migrants and informal workers, expand access to land and education where exclusion persists, and hold supply chains accountable? Any precise cost-of-slavery GDP counterfactual or quantitative reparations assessment requires a separate model and assumptions. The moral stakes cannot be reduced to an unverified equation.
 
 ## A quantitative separation of historical trade and modern forced-labour prevalence
 
