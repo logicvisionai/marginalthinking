@@ -110,6 +110,22 @@ The causal sequence is conditional: commercial capital and external connections 
 
 Mauá is therefore not proof that Brazil required a single industrial hero, nor proof that private industrial finance was futile. The more useful conclusion concerns institutional complementarities: property and contractual rules, transparent concessions, development credit with risk limits, education, free labour and domestic demand need to progress together. An investor can be early and correct about a technology yet lose money because contracts, financing and surrounding institutions mature on incompatible schedules.
 
+## Quantifying industrial output without confusing units or balance sheets
+
+The Brazilian DNIT records **72 ships built over eleven years** at Ponta da Areia following the mid-1840s investment, while the 1855 contract for the separate D. Pedro II railway ordered **twelve locomotives**. These observations concern different projects and production versus contractual commitments, so they cannot be used as a productivity ranking. They instead demonstrate how a modernization push combined domestic manufacturing capability and imported rail equipment. The 1852 concession and 1854 inauguration also reveal the gap between a signed public right and revenue-producing physical capital. [2][8]
+
+The counterfactual is specific. If freight demand was strong but deposits and foreign exchange liabilities matured before revenue collection, Mauá's bottleneck lay chiefly in the balance sheet. If credit was ample while routes failed to connect complementary markets, physical network utilization was the more binding constraint. Both may have occurred. A shipyard's wages and coal bills recur monthly; a railway's capital is recovered over decades. A banking group that attempts to intermediate both faces severe maturity mismatch. [1][3]
+
+```chart
+type: bar
+title: Distinct 19th-century Brazilian transport figures, not equivalent efficiency measures
+unit: vehicles; 72 Ponta da Areia ships manufactured versus 12 D Pedro II locomotives contracted
+Ponta da Areia vessels built | 72
+D Pedro II locomotives ordered | 12
+```
+
+Industrial development in a slaveholding empire also depends on what does not appear in the entrepreneur's own ledger: household purchasing power, enforceable labour rights, education and the distribution of infrastructure access. Public expenditure can create spillovers while subsidizing unprofitable private positions. To evaluate the social investment, compare route-specific freight costs and service access with tariff guarantees and fiscal costs, and distinguish the commercial crisis from the societal value of surviving technical skills. [4][8]
+
 ### Documentary sources and method
 
 [1] Brazilian Chamber of Deputies, parliamentary biography: https://www.camara.leg.br/deputados/660/biografia
@@ -125,5 +141,7 @@ Mauá is therefore not proof that Brazil required a single industrial hero, nor 
 [6] MultiRio, biographical chronology of Irineu: https://multirio.rio.rj.gov.br/index.php/historia-do-brasil/brasil-monarquico/8973-irineu-evangelista-de-souza%2C-o-bar%C3%A3o-de-mau%C3%A1
 
 [7] Federal Chamber, law 3353 of 1888: https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-norma-pl.html
+
+[8] DNIT, histórico ferroviário e industrial da Ponta da Areia: https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico
 
 **Evidence limits:** Historical nominal amounts belong to distinct periods; grants and concessions do not prove causal outcomes without counterfactuals. Institutional self-reports and independent contemporary evidence carry different weight. Capital returns and political consequences require their own series.
