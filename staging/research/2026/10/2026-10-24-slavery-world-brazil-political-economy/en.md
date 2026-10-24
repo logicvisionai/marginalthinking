@@ -136,6 +136,22 @@ There are three research tasks that should not be collapsed. A documentary histo
 
 The forward question is institutional: can states enforce real exit rights, protect migrants and informal workers, expand access to land and education where exclusion persists, and hold supply chains accountable? Any precise cost-of-slavery GDP counterfactual or quantitative reparations assessment requires a separate model and assumptions. This report avoids disguising moral stakes as an unverified equation.
 
+## A quantitative separation of historical trade and modern forced-labour prevalence
+
+The **12.52 million** SlaveVoyages figure measures estimated embarkations in the transatlantic route from 1501 to 1866, not the number of people alive at one moment. Conversely, the ILO/IOM/Walk Free **49.6 million for 2021** is an estimated contemporary *prevalence*, comprising **27.6 million in forced labour** and **22.0 million in forced marriage**. Different years, legal categories, source methods and denominators make any aggregate 'number of slaves across human history' constructed by adding them meaningless. [1][7][8]
+
+Brazil's 1872 census stock of roughly 1.5 million enslaved residents presents a third measurement category. Locally born children and deaths affect that stock but are not new Atlantic embarkations. To investigate coercion's economic contribution, records should be linked by plantation, credit instrument, location, labour status and production year. A merchant's shipping profit, a planter's nominal collateral and the state's customs receipts may reflect overlapping value chains: summing each as independent benefits to society double counts the same transfers and ignores human harm.
+
+```chart
+type: bar
+title: ILO/IOM/Walk Free 2021 estimates of modern slavery by category
+unit: million people; forced labour and forced marriage, survey model, not Atlantic embarkations
+Forced labour | 27.6
+Forced marriage | 22.0
+```
+
+The crucial economic counterfactual concerns freedom, not simply replacing forced workers at identical costs. Free labour changes mobility, consumption, training, incentives, land rights and household bargaining. Emancipation in 1888 altered legal ownership without automatically redistributing property or education. Investigating persistent inequalities demands intergenerational records and comparable regions, rather than a fabricated GDP coefficient. The agency of enslaved people through resistance and abolitionism is part of the causal mechanism, not a detachable moral footnote.
+
 ### Research sources and measurement caveats
 
 [1] SlaveVoyages, Trans-Atlantic Slave Trade Estimates 1501–1866: https://www.slavevoyages.org/assessment/estimates
