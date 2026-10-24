@@ -21,7 +21,7 @@ Country rankings change depending on whether the question concerns tonnes of cer
 
 For 2024, that series gives approximately **$1.4 trillion for China**, **$478 billion India**, **$360 billion United States** and **$200 billion Brazil** in constant reference dollars. These are agricultural gross production values, not farm-sector GDP value added, trade balances or quantities of edible calories. Inserting the EU as though it were a country or combining regions and member states would double count territories. The reference-price method matters when comparing diverse baskets. [1]
 
-An analytical dashboard should allow the user to switch between production, export volumes, imports, dietary diversity, domestic food price and agroecological indicators. Every rank must declare the denominator and year. 'Largest agribusiness country' without a metric is marketing, not research.
+Any comparison across production, export volumes, import dependence, dietary diversity, household prices and agroecological indicators requires separate denominators and dated evidence. Every rank must declare the denominator and year. 'Largest agribusiness country' without a metric is marketing, not research.
 
 ## From domestication to mechanization and modern agronomy
 
@@ -128,6 +128,23 @@ Three paths must be distinguished. Under **sustainable productivity**, research,
 Relevant observations include commodity-specific yields and planted area, animal output per feed unit, real food prices, undernourishment and dietary affordability, land use, nutrient balances, public research spending, warehouse/storage losses, rural wages and social protection coverage. Financial variables include producer margins, rural credit conditions, insurance and input imports. A single export ranking cannot substitute for this scorecard.
 
 The principal implication is that food security requires coordinating biological science, logistics, trade, land institutions and household incomes. Brazil can remain a decisive global producer while still facing domestic nutritional inequality and environmental constraints. The global objective should not be maximal tonnage regardless of costs; it is reliable, accessible and nutritious supply consistent with long-run productive resources and rights.
+
+## Why more tonnes can coexist with unequal access to nutrition
+
+SOFI 2026 places **645 million people in hunger during 2025**, approximately **2.1 billion with moderate/severe food insecurity**, and roughly **2.7 billion unable to afford a healthy diet**. These categories are not disjoint populations. Hunger estimates nutritional inadequacy; food insecurity captures experienced difficulty accessing food; affordability compares diets with resources and prices. Combining them would count some affected households more than once. Likewise, Brazil's 361.7-million-tonne grain estimate for 2025/26 includes animal feed, vegetable-oil processing, industrial inputs and exports, not 361.7 million tonnes of ready-to-eat staple meals. [2][3][5]
+
+```chart
+type: bar
+title: Different overlapping global food-security measures for 2025, FAO SOFI 2026
+unit: million people; concepts overlap, bars must not be summed
+People experiencing hunger | 645
+People with moderate or severe food insecurity | 2100
+People unable to afford a healthy diet | 2700
+```
+
+The trade channel adds another complication. A currency depreciation can raise local currency revenues for soybean exporters while making imported fertilizer more expensive and narrowing low-income consumers' budgets. Transport and storage losses can also prevent a record harvest from creating equivalent retail supply. An economist needs explicit production, feed conversion, export and household-price accounts; an agronomist needs soil, water, disease and yield observations. The disciplines interact but cannot substitute for one another.
+
+The correct methodological conclusion is to compare each country under a stated denominator: gross output at constant prices, export shipments, edible nutrients, local affordability and resource sustainability are separate dimensions. Crop specialization creates global interdependence even where national food self-sufficiency is a policy goal. Resilience requires science, open and reliable trade, rural services, adequate incomes, access to diverse diets and ecological safeguards—not a single ranking by tonnage.
 
 ### Research sources and measurement caveats
 
