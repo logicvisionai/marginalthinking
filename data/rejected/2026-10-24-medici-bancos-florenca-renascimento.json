@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-MEDICI",
+  "revision": 0,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-24T19:40:45.948Z",
+  "reviewed_commit": "331269cc2f32af81fe25a4a7723516b383de0699",
+  "pending_blob_sha": "966cd0a5f6fd819aaff4e72a620cf5b006078506",
+  "source_blob_shas": {
+    "en": "c284c3e9f4a93a702c5b52979cd355f562e144c9",
+    "pt-BR": "fb5295af652b6af53d2532ceda95818897b38b62"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "strict_editorial_depth_validator",
+      "location": "Both complete staged Markdown editions; scripts/validate-editorial-depth.mjs lines 37-53; bibliography and visual blocks",
+      "issue": "Nonweekly research dated 24 October 2026 requires at least eight distinct cited source URLs and two explicit chart fences per language. Both editions contain seven distinct URLs and one chart. EN has 2439 substantive words and PT-BR 2163; 14 H2, one flow, one map and six Markdown table lines in each locale pass. These two deterministic failures block approval regardless of narrative length.",
+      "evidence": [
+        "scripts/validate-editorial-depth.mjs: links.length<(isWeekly?7:8); visual.chart<minCharts with minCharts=isWeekly?3:2",
+        "Exact source URL and visual-count expressions reproduced over Git blobs c284c3e9f4a93a702c5b52979cd355f562e144c9 and fb5295af652b6af53d2532ceda95818897b38b62."
+      ]
+    },
+    {
+      "type": "visual_evidence_not_analytical",
+      "location": "Both `chart` fences following the institutional comparison table: EN 'Selected Medici banking houses identified in historical account'; PT-BR 'Casas documentadas do Banco Médici no comércio europeu'",
+      "issue": "The sole bar chart counts the number of place names arbitrarily grouped in its own labels ('Rome and Venice' = 2; 'Lyon, Bruges and London' = 3). These are tautological counts of listed cities, not independently observed historical values or a meaningful comparison of branches, time, capital, profitability or exposure. The qualification 'not all branches at one date' does not make the two bars an evidentiary series. A second equally decorative chart would not fix the analytical problem.",
+      "evidence": [
+        "EN chart data: Rome and Venice | 2; Lyon, Bruges and London | 3. PT-BR uses identical 2/3 values.",
+        "RESEARCH-VISUALS.md, Evidence rules and QA gate: prohibit decorative and silently transformed data.",
+        "https://mediateca.palazzomediciriccardi.it/events-and-daily-life/giovanni-di-bicci-fonda-il-banco-medici/ documents dated 1397 establishment, initial capital and early branches, illustrating the need for dated evidence instead of counting selected city labels."
+      ]
+    },
+    {
+      "type": "source_to_claim_traceability",
+      "location": "EN/PT-BR sections on papal finance, Renaissance patronage and institutional history; bibliography [3] and [4]",
+      "issue": "Bibliographic entry [3] points to the Medici Archive Project homepage rather than a particular fifteenth-century banking record, and [4] to the general Uffizi homepage rather than a dated patronage record. These landing pages do not establish individual transaction, contract or patronage claims on their own. Distinguish documentary evidence from broad institutional background and cite direct records or specialist studies at each material claim.",
+      "evidence": [
+        "https://www.medici.org/ (institutional home page, no identified bank contract)",
+        "https://www.uffizi.it/en/the-uffizi (general collection page)",
+        "https://mediateca.palazzomediciriccardi.it/events-and-daily-life/giovanni-di-bicci-fonda-il-banco-medici/ (dated institutional history with references to de Roover)."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Both editions immediately below H1 and before first H2 'Medieval Florence was already a complex trading city' / 'Florença medieval já possuía economia mercantil complexa'",
+      "issue": "The only text between H1 and the first analytical heading is an administrative date/cutoff note. The report therefore has no direct introductory thesis explaining how dispersed banking partnerships converted financial access into political influence and why the 1494 bank failure must be distinguished from later territorial power. Readers encounter a metadata line and then a chapter label, not an institutional lead.",
+      "evidence": [
+        "EN: '**Date and information cutoff: 24 October 2026. Historical analysis; records and figures are attributed to their respective periods and entities.**'",
+        "PT-BR: '**Data e corte informacional: 24 de outubro de 2026. Estudo histórico; documentos e números são interpretados por período e entidade.**'",
+        "EDITORIAL-STYLE.md first-read rule; RESEARCH-PUBLISHING.md substantive editorial acceptance standard."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Add at least one genuinely independent and directly relevant source URL per edition (eight or more distinct), preferably a dated archival or specialist historical source; attach it to specific material claims, not merely the bibliography.",
+    "Replace the 2-versus-3 city-name bar chart with a sourced, comparable historical series; provide at least two genuinely analytical charts per language, with explicit observation dates, units and source traceability. Do not add a second decorative chart or mix capital stocks with accumulated profits.",
+    "Replace generic institutional homepages as evidence for particular contracts and patronage events with direct archive records or specialist historical studies. Clarify the historical scope of 1413 papal banker status versus the later 1420 Apostolic Chamber relationship if both are discussed.",
+    "Write a direct 1–3-paragraph EN/PT-BR opening stating the Medici bank's governance, credit and political-access mechanism, while differentiating bank decline from later state power. Keep the date in metadata or place it after the analytical lead.",
+    "Preserve the ID, slug and bilingual factual equivalence; correct the same pending/staged edition and return new Git blobs for independent QA."
+  ],
+  "evidence": [
+    "Reviewed the entire pending v2 and both staged Markdown files from HEAD 331269cc2f32af81fe25a4a7723516b383de0699; exact Git blob SHAs are recorded above.",
+    "Reproduced the literal counting expressions of scripts/validate-editorial-depth.mjs against the complete EN and PT-BR staged text; full Node repository validators were not executed.",
+    "Independent historical cross-check: Palazzo Medici Riccardi Mediateca on Giovanni di Bicci and the 1397 bank; Raymond de Roover's The Rise and Decline of the Medici Bank, 1397–1494, bibliographic listing; Medici Archive Project institutional page."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 ready, English source locale, required fields, controlled program, topics, dimensions, phenomena, format and cadence checked. Broad global geographic scope is imprecise for Florence/European history but not the basis for rejection."
+    },
+    "research_depth": {
+      "result": "failed",
+      "en_words": 2439,
+      "pt_br_words": 2163,
+      "en_h2": 14,
+      "pt_br_h2": 14,
+      "unique_urls_en": 7,
+      "unique_urls_pt": 7,
+      "required_urls": 8,
+      "source_hosts_en": 6,
+      "source_hosts_pt": 6,
+      "charts_en": 1,
+      "charts_pt": 1,
+      "required_charts": 2,
+      "flows_en": 1,
+      "flows_pt": 1,
+      "maps_en": 1,
+      "maps_pt": 1,
+      "table_rows_en": 6,
+      "table_rows_pt": 6,
+      "validator": "scripts/validate-editorial-depth.mjs (exact expressions reproduced; script not executed)"
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "summary": "Broad chronology of Giovanni di Bicci, Cosimo, 1494 collapse and later ducal regime is consistent with consulted specialist historical records; source [3]/[4] are generic homepages rather than specific evidence for individual transactions or patronage."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "summary": "The text appropriately rejects anachronistic all-controlling dynasty narratives and separates banking from sovereign authority, but no independent full claim-by-claim archival verification was possible before structural remediation."
+    },
+    "translation_check": {
+      "result": "partial",
+      "summary": "EN/PT-BR section order, 2/3 chart values and seven bibliography URLs match; substantive editorial corrections and revised visual evidence require fresh parity check."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "opening": "Administrative date/cutoff line directly below H1 without introductory thesis.",
+      "headings": "Fourteen H2 headings are mostly specific and mechanism-bearing.",
+      "language_localization": "PT-BR is broadly natural; the opening is institutional metadata rather than public-facing prose.",
+      "repetition": "Repeated caution against unlimited dynastic control is generally justified but can be condensed where it restates the same limitation.",
+      "cohesion": "Historical progression and bank-to-state distinction are coherent; introduction needs thesis before chapter headings.",
+      "template_meta_qa": "Opening is a metadata template, not a lead; no extensive internal QA language observed."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "signature": "EN/PT-BR: 1 six-line table, 1 bar chart with 2/3 city-label counts, 1 flow, 1 qualitative historical map; chart series semantically equivalent.",
+      "limitations": "Strict two-chart floor fails; the sole chart counts its own arbitrarily grouped city labels rather than measured historical phenomena, so it is decorative."
+    },
+    "contextual_depth": {
+      "result": "partial",
+      "summary": "Political institutions, guild restrictions, church finance, bank partnerships and later ducal authority are connected to economic mechanisms, but additional direct records are needed to substantiate particular transactions."
+    }
+  },
+  "contrary_evidence": [
+    "Palazzo Medici Riccardi Mediateca documents specific dated early-bank facts, including 1397 foundation and 1408 branches; the draft's undated grouped-city chart does not capture chronology or exposure.",
+    "No evidence in the consulted archival summaries warrants equating family influence with unlimited state ownership; the draft correctly rejects that inference."
+  ],
+  "limitations": [
+    "Only selected historical claims were independently checked; a full source-by-source historical audit should follow structural remediation.",
+    "Node validators were not executed locally; their deterministic word, URL, heading and visual expressions were reproduced exactly on staged Markdown.",
+    "This rejection does not imply that the 1494 bank-failure chronology or the bank-versus-state distinction is factually false."
+  ],
+  "notes": "No approval created; no public surface modified. Producer 3/5 should revise the same canonical ID and staged files. This decision is tied to exact pending/EN/PT-BR Git blob SHAs."
+}
