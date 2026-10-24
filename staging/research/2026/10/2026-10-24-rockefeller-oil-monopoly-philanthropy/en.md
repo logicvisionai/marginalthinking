@@ -165,7 +165,7 @@ After dissolution, industrial facilities continued to operate and equity holders
 
 ### Documentary and historical references
 
-[1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
+[1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/ (source consulted October 2026)
 
 [2] Rockefeller Archive Center, John D Rockefeller Jr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-jr/
 
