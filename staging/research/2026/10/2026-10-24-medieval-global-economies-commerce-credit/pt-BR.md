@@ -135,6 +135,22 @@ A afirmação de que comércio desapareceu de toda a Europa após Roma é contra
 
 Este estudo comparativo de mercados medievais difere intencionalmente da investigação de senhorios e direitos feudais. A segunda precisa reconstituir posses camponesas, corveias, recursos comuns e jurisdição senhorial, sem assumir que concessão militar de elite e propriedade agrícola são juridicamente idênticas.
 
+## Quantificar risco agrícola sem tratar modelo como censo
+
+Uma família medieval hipotética que colhe 100 unidades, reserva 20 a sementes e perdas e paga renda fixa de 25 fica com 55 para consumo ou comércio. Se a safra cair a 80, mantidas as duas obrigações, restam apenas 35. O gráfico é *modelo de incidência contratual*, não observação de senhorio ou média europeia. Ilustra como renda fixa intensifica o dano de uma quebra da colheita à família mesmo quando a cobrança formal do senhor permanece inalterada. [8][10]
+
+```chart
+type: bar
+title: Modelo hipotético de colheita restante após sementes e renda fixas
+unit: unidades de grão do modelo; colheitas 100 e 80 menos 20 de sementes/perdas e 25 de renda em ambos
+Sobra na colheita normal | 55
+Sobra na colheita menor | 35
+```
+
+Os Arquivos Nacionais britânicos descrevem atas de tribunais senhoriais, pesquisas patrimoniais, normas agrícolas e transmissões de posse como evidências de economias locais que combinavam agricultura, direitos jurídicos e trocas comerciais. A documentação contraria a ideia de aldeias de escambo universalmente fechadas. Mercado urbano de grãos podia existir enquanto arrendatários continuavam obrigados a jornadas no domínio senhorial. Direitos, comércio e produção física evoluíam em eixos parcialmente independentes. [12]
+
+Uma comparação empírica precisa cruzar clima e colheita com preços, rendas monetárias, jornadas obrigatórias e composição familiar, então confrontar regiões próximas sob regimes jurídicos diferentes. A Peste Negra fornece outro teste: escassez de trabalhadores altera salários, mas direitos de mobilidade condicionam quanto o trabalhador retém. Nem salário pós-epidemia crescente nem um banco de sucesso comprovam que a sociedade medieval inteira se tornou mercado moderno uniforme.
+
 ### Referências e delimitação
 
 [1] Cambridge, Commerce and Communications in the New Cambridge Medieval History: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/commerce-and-communications/7BD511AF3E26C53B7EAC960073AF4D8F
@@ -158,5 +174,7 @@ Este estudo comparativo de mercados medievais difere intencionalmente da investi
 [10] Cambridge, Rural Society in the New Cambridge Medieval History: https://www.cambridge.org/core/books/abs/new-cambridge-medieval-history/rural-society/5460DAB07534AC9926267591354CE64F
 
 [11] Oxford, Medici Bank 1397–1494: https://academic.oup.com/reference/62416/reference-article-abstract/555922868
+
+[12] UK National Archives, detailed manorial records as primary economic evidence: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
 
 **Nota metodológica:** Valores do gráfico são hipotéticos. Não foram inferidos PIB mundial, salários universais ou uma média de renda senhorial sem dados historicamente comparáveis.
