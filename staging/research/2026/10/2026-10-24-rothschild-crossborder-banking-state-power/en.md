@@ -122,6 +122,22 @@ Three interpretations can be evaluated. A technological account emphasizes the n
 
 Modern comparative research should use bond prospectuses, partnership agreements, official treasury archives, loan terms, voting rights and economic outcomes. Neither admiration for financial innovation nor moral condemnation should substitute for the records. The family's historical importance is substantial, and understanding it requires refusing both hagiography and antisemitic conspiracy myths.
 
+## Partner location, contract rights and the Suez financing
+
+The signed family structure of **1810** combined Mayer Amschel with **four sons in Frankfurt**, while Nathan was operating in England. The later five-city network emerged sequentially, not as one modern global bank created at a single instant. Family correspondence facilitated remittances and information exchange but could not abolish currency or political risk. Deutsche Biographie confirms the evolving partnerships and documents the myths surrounding their rise. [2][3][12]
+
+The **1875 £4 million loan** for Britain's purchase of Egyptian Suez Canal Company shares is unusually traceable through family, diplomatic and Bank of England records. The lender accelerated settlement of an acquisition authorized by the British government, which became the holder of the shares. This distinction matters for colonial accountability: Egyptian fiscal crisis, British strategic power, bank financing costs and canal governance are different causal channels. [6][7][8]
+
+```chart
+type: bar
+title: Family business structure at 1810 partnership formation
+unit: Rothschild sons, not banking market share
+Sons in Frankfurt partnership | 4
+Nathan separately active in England | 1
+```
+
+A historical claim of unlimited private financial command must be tested against identifiable rights: documented loans, security agreements, voting interests and enforceable instructions. The existence of a prominent Jewish banking family is not proof of clandestine ownership of governments or every central bank. Rejecting unsupported claims does not immunize genuine finance and political influence from scrutiny; it specifies the evidence required to measure it.
+
 ### Documents and research sources
 
 [1] Rothschild Archive, family origins: https://www.rothschildarchive.org/family
@@ -145,5 +161,7 @@ Modern comparative research should use bond prospectuses, partnership agreements
 [10] Rothschild Archive, Nathan Rothschild and Waterloo critical study: https://www.rothschildarchive.org/materials/nathan_and_waterloo.pdf
 
 [11] Rothschild Archive, 1875 loan receipts collection: https://www.rothschildarchive.org/collections/archivists_choice/march_2015_suez_canal_loan_receipts_1876
+
+[12] Deutsche Biographie, history of Rothschild dynasty and banking: https://www.deutsche-biographie.de/sfz108438.html
 
 **Evidence rule:** Distinguish contracts and state records, family-maintained archival descriptions, scholarly causal interpretations and later legends. Financial prestige cannot be translated into undocumented sovereign command.
