@@ -1,7 +1,5 @@
 # Os Medici: sociedades bancárias, finanças papais, política renascentista e limites do capital privado
 
-**Edição:** 24 October 2026 · **Corte informacional:** 24 October 2026 · **Programa:** Global System & Power
-
 Os Medici demonstram como uma empresa familiar podia tornar-se regime político sem primeiro construir um Estado nacional moderno. Na Florença tardo-medieval, a riqueza vinha de sociedades bancárias interligadas, letras de câmbio, comércio têxtil, contratos com a tesouraria papal, relações de elite e influência sobre nomeações. A estrutura bancária costuma ser associada ao negócio romano de Giovanni di Bicci em 1397; as sociedades foram liquidadas em meio à crise política de 1494. Historiadores ressaltam que sociedade mercantil, companhia moderna e dinastia governante não possuem identidade jurídica. [1][2][3]
 
 O problema é reconstituir **a conversão de vantagem comercial em influência política** e explicar por que mecenato monumental e prestígio não evitaram o fracasso financeiro. Uma família capaz de financiar papas e governantes continuava exposta a calotes soberanos, administradores distantes, câmbio e capital próprio insuficiente. Herança artística extraordinária não é demonstração auditada de prosperidade bancária permanente. [1][4][5]
@@ -42,10 +40,10 @@ Para economia política, as finanças papais mostram como instituições distrib
 
 ```chart
 type: bar
-title: Intervalos históricos do Banco Medici calculados por marcos documentados
-unit: anos transcorridos; não representam mandato papal contínuo
-1397 fundação até 1420 depositário papal | 23
-1420 função papal inicial até liquidação 1494 | 74
+title: Ciclo de vida bancário dos Medici entre marcos históricos, Sapori e de Roover
+unit: anos decorridos da fundação 1397 à morte de Cosimo 1464 e à dissolução 1494; não é desempenho
+1397–1464 expansão e consolidação | 67
+1464–1494 retração e dissolução | 30
 ```
 
 ## Letras de câmbio, crédito e o problema da proibição dos juros
@@ -176,4 +174,4 @@ As sociedades bancárias terminaram na crise de 1494; familiares ocuparam depois
 
 [11] Raymond de Roover, The Medici Bank Organization and Management, Journal of Economic History: https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/medici-bank-organization-and-management/C479683DE651459ABC23506617FA365E
 
-[12] Metropolitan Museum of Art, The Medici: Portraits and Politics, 1512–1570: https://www.metmuseum.org/pt/met-publications/the-medici-portraits-and-politicsy
+[12] Metropolitan Museum of Art, The Medici: Portraits and Politics, 1512–1570: https://www.metmuseum.org/pt/met-publications/the-medici-portraits-and-politics
