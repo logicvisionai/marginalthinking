@@ -29,7 +29,7 @@ A Standard Oil surgiu em **1870**, com capital inicial informado pelo Rockefelle
 
 O arquivo registra capacidade de refino e integração inicial de armazenagem. O mecanismo histórico combinava coordenação vertical — barris, tanques, refino, terminais, dutos e vendas — com consolidação horizontal de refinarias concorrentes. Essa integração reduz movimentações redundantes, mas dificulta aos independentes alcançar mercados em condições equivalentes. Os efeitos precisam ser medidos separadamente.
 
-Um estudo jurídico analisaria descontos ferroviários, escrituras de compra, depoimentos da época, preços ao consumidor e novas entradas após a concentração. Aquisição rápida não é automaticamente ilícita; acordos que restringem concorrência e utilização discriminatória de infraestrutura essencial são outra questão. O caso tornou-se central porque eficiência industrial e poder político nasceram de escolhas organizacionais parcialmente comuns.
+Registros de descontos ferroviários, escrituras de compra, depoimentos contemporâneos, preços ao consumidor e entrada de concorrentes delimitam os efeitos da concentração. Aquisição rápida não é automaticamente ilícita; acordos que restringem concorrência e utilização discriminatória de infraestrutura essencial são outra questão. O caso tornou-se central porque eficiência industrial e poder político nasceram de escolhas organizacionais parcialmente comuns.
 
 ## O truste de 1882 e a inovação jurídica da rede corporativa
 
@@ -37,7 +37,7 @@ Em **1882**, os bens da Standard Oil foram reunidos no truste com **US$ 70 milh�
 
 Nas décadas seguintes o grupo concentrou grande parte do petróleo americano, mas as medidas variam conforme se conte refino, produção ou vendas. A Biblioteca do Congresso indica cerca de **90% das refinarias americanas no fim dos anos 1880**; o arquivo Rockefeller descreve aproximadamente **75% do negócio petrolífero na década de 1890**. São datas e denominadores diferentes, não duas medições idênticas que possam ser interpoladas sem cuidado. [1][4]
 
-A resposta regulatória incluiu contestação estadual e reorganização sob regras societárias de Nova Jersey. Quando a legislação mudou, a empresa alterou forma jurídica; a análise deve perseguir o controle efetivo através da mudança formal das entidades. A experiência permanece relevante a conglomerados e plataformas digitais: redes de propriedade, contratos e direitos decisórios mostram mais que nomes empresariais.
+A resposta regulatória incluiu contestação estadual e reorganização sob regras societárias de Nova Jersey. Quando a legislação mudou, a empresa alterou forma jurídica; a mudança de pessoa jurídica não revela sozinha se o comando efetivo foi alterado. A experiência permanece relevante a conglomerados e plataformas digitais: redes de propriedade, contratos e direitos decisórios mostram mais que nomes empresariais.
 
 ```chart
 type: bar
