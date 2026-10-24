@@ -25,7 +25,7 @@
         "24 October 2026",
         "flash PMI October 2026 US 57.6 Eurozone 51.9 UK 53.1 Japan 52.3 India 56.7",
         "Treasury October 23 2y 4.69 10y 5.00 30y 5.33",
-        "Lipper weekly flows October 21",
+        "ICI money-market assets 21 October 7.94 trillion",
         "Michigan consumer sentiment 48.0"
       ],
       "regime": "Divergent private-sector output with elevated nominal financing costs and uneven inflation pass-through.",
@@ -55,7 +55,7 @@
         "24 October 2026",
         "flash PMI October 2026 US 57.6 Eurozone 51.9 UK 53.1 Japan 52.3 India 56.7",
         "Treasury October 23 2y 4.69 10y 5.00 30y 5.33",
-        "Lipper weekly flows October 21",
+        "ICI money-market assets 21 October 7.94 trillion",
         "Michigan consumer sentiment 48.0"
       ],
       "regime": "Produção privada divergente, financiamento nominal caro e transmissão inflacionária desigual.",
@@ -103,12 +103,12 @@
   "format": "brief",
   "cadence": "daily",
   "producer_checks": {
-    "information_cutoff": "23 October 2026 latest completed session; no Saturday price; 12 named sources including qualified secondary India and Lipper.",
+    "information_cutoff": "Friday 23 Oct close for business/markets; prior primary releases by EIA, BEA, Census, ICI; no Saturday equity close.",
     "editorial_novelty": "October 23 simultaneous flash PMI releases and matched Treasury yields differ materially from Oct 23 Japan CPI/euro-area debt/US mortgage report.",
     "visual_signature": "2 tables, 2 quantitative bar charts, 1 flow and 1 map in each locale; values identical, decimal point used in chart syntax.",
-    "bilingual_parity": "13 identical reference URLs, matching 2 tables, 2 charts, 1 flow and 1 map, causal mechanisms and limitations.",
-    "source_check": "13 source URLs identical across locales; 9 direct primary institutional sources and explicitly qualified secondary India, Lipper flows and Friday oil quote."
+    "bilingual_parity": "Six substantive sections; matched numbers and dates, 15 identical source URLs, 2 quantitative charts, 2 tables, 1 flow and 1 map.",
+    "source_check": "15 matched URLs per language; sourced ICI 22 Oct asset stock, Census 15 Oct nominal retail, BEA 30 Sep real spending, EIA Oct 6 forecast vintage; secondary 23 Oct oil and India PMI qualified."
   },
-  "revision": 1,
-  "revision_reason": "Add contemporaneous cited market source for Friday oil price move in both languages; preserve original identity and analytical scope."
+  "revision": 2,
+  "revision_reason": "Resolve r1 editorial-depth and evidence findings; real-demand sixth section, direct dated EIA, primary ICI instead of Reuters/Lipper, evidence-led conclusions, 15 parallel URLs."
 }
