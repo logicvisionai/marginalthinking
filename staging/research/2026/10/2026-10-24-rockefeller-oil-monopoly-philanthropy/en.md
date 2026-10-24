@@ -117,6 +117,22 @@ A balanced political economy rejects both claims that large wealth automatically
 
 The long-run significance of the dynasty is institutional transformation: oil-refining capital became diversified wealth, political influence and endowed organizations. The unresolved democratic question is how societies preserve the benefits of efficient production and patient philanthropic funding while constraining exclusionary power, ensuring transparent public obligations and protecting the autonomy of research and civic life.
 
+## Legal command, corporate breakup and the distribution of gains
+
+The US National Archives identifies **nine trustees** who directed the constituent companies under the 1882 arrangement; the Rockefeller Archive identifies **42 initial holders of trust certificates**. These figures cannot be conflated: one measures those controlling corporate policy, while the other counts holders of financial claims, whose ownership shares were not necessarily equal. A relatively narrow decision-making group could control a much wider industrial network without merging every refinery into one ordinary legal corporation. [1][9]
+
+The 1911 Supreme Court decision dealt with the structure and use of monopoly power, evaluating practices over decades. The original opinion describes an evidentiary record of thousands of pages. Its legal findings cannot be represented by a simplistic rule that any successful firm with low prices is lawful or that scale is intrinsically forbidden. Efficiency gains from standardized refining, rail logistics and distribution must be weighed separately against foreclosure of competitors. Early oil market-share figures also have different denominators—refining capacity, production and sales—and should not be averaged. [4][10][11]
+
+```chart
+type: bar
+title: Standard Oil trust in 1882, distinct governance and beneficial-claim roles
+unit: individuals, not shares or percentage ownership
+Trustees with corporate control | 9
+Certificate holders initially | 42
+```
+
+After dissolution, industrial facilities continued to operate and equity holders still had claims on successor companies. A structural remedy changes control and incentives, not every productive asset's existence. Philanthropic programs are another independent outcome category: public-health grants can be beneficial while donor-selected priorities raise questions of scientific autonomy and electoral accountability. No one metric—percentage refining control, stock wealth or historical donations—can determine a final net social effect without comparing prices, rival entry, service outcomes and institutional power.
+
 ### Documentary sources and method
 
 [1] Rockefeller Archive Center, John D Rockefeller Sr biography: https://rockarch.org/resources/about-the-rockefellers/john-d-rockefeller-sr/
@@ -134,5 +150,11 @@ The long-run significance of the dynasty is institutional transformation: oil-re
 [7] US Library of Congress, historical oil and gas industry guide: https://guides.loc.gov/oil-and-gas-industry/history
 
 [8] Rockefeller Archive Center, family and biographies: https://rockarch.org/resources/about-the-rockefellers/
+
+[9] US National Archives: Sherman Antitrust Act and Standard Oil trust: https://www.archives.gov/milestone-documents/sherman-anti-trust-act
+
+[10] Cornell Legal Information Institute: Standard Oil 1911 Supreme Court ruling: https://www.law.cornell.edu/supremecourt/text/221/1
+
+[11] PBS: Rockefeller historical chronology: https://www.pbs.org/wgbh/americanexperience/features/rockefellers-timeline/
 
 **Evidence limits:** Historical nominal amounts belong to distinct periods; grants and concessions do not prove causal outcomes without counterfactuals. Institutional self-reports and independent contemporary evidence carry different weight. Capital returns and political consequences require their own series.
