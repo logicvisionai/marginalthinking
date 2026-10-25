@@ -290,8 +290,25 @@ Varoufakis and economic institutions
   - Platform governance
 ```
 
-## References
 
+
+```chart
+type: bar
+title: Use of the authorized ESM envelope, 2015–2018
+unit: % of €86 billion ceiling, rounded amounts
+Disbursed | 72
+Not disbursed | 28
+```
+
+```map
+title: Institutional geography of the Greek debt crisis
+Greece | Government, banks and voters directly affected | Main domestic exposure to adjustment costs
+Euro area | Creditor states and joint monetary commitments | Distinct national interests and institutional mandates
+European Union | Commission, Council and Eurogroup coordination | Formal and informal authorities differ
+International financial system | IMF and sovereign debt markets | Restructuring depends on contracts and financing conditions
+```
+
+## References
 [1] Yanis Varoufakis, biographical and academic information: https://www.yanisvaroufakis.eu/about-the-author/
 
 [2] Yanis Varoufakis, books and publication history: https://www.yanisvaroufakis.eu/books/
