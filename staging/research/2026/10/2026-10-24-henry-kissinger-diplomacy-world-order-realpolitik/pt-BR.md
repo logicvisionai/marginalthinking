@@ -152,6 +152,10 @@ As três carreiras ocorreram em níveis institucionais diferentes. Churchill dir
 
 ## Kissinger após 1977: consultoria, livros e influência não governamental
 
+Até 2026, os registros históricos do Departamento de Estado e as coleções desclassificadas do National Security Archive permitem confrontar decisões oficiais e interpretações publicadas por Kissinger. [1][4]
+
+
+
 Depois de deixar o governo, Kissinger fundou a Kissinger Associates e continuou ativo como consultor, escritor e interlocutor de empresas e dirigentes estrangeiros. O papel mudou: sem mandato público, suas opiniões podiam influenciar debates e redes políticas, mas não eram ordens oficiais do Departamento de Estado. Sua presença em comissões, conferências e publicações prolongou a circulação da visão de mundo formulada em Harvard e praticada durante a Guerra Fria. Ele morreu em 29 de novembro de 2023, aos cem anos. [1][2]
 
 A posteridade de Kissinger combina instituições e linguagem. A aproximação sino-americana tornou-se fundamento de transformações econômicas posteriores, embora seus resultados industriais envolvam reformas chinesas, escolhas empresariais e conjunturas que ele não controlou. O vocabulário de equilíbrio, legitimidade e prudência continua influente, mas os arquivos sobre Chile, Bangladesh e Sudeste Asiático impedem uma história exclusivamente celebratória. A força interpretativa de *Diplomacy* e *World Order* aumenta quando seus conceitos são confrontados com as decisões do autor e com as sociedades atingidas.
