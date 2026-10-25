@@ -101,26 +101,28 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "research_subject": {
     "name": "Nick Land",
     "type": "person"
   },
-  "related_research": [
-    "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
-    "2026-10-24-peter-thiel-finance-technology-and-political-power",
-    "2026-10-24-elon-musk-technology-industrial-power-politics",
-    "2026-10-24-accelerationism-intellectual-history-capital-technology-politics"
-  ],
+  "related_research": [],
   "producer_checks": {
     "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
-    "research_depth": "Editorial depth in current source blobs: EN 4782 substantive words / 16 URLs from 10 domains / 22 headings; PT-BR 4516 substantive words / 16 URLs from 10 domains / 22 headings. Does not constitute QA approval.",
+    "research_depth": "EN 4989 and PT-BR 4703 substantive words; 23/23 H2 headings; sources 18/18 URLs across 12/12 domains.",
     "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
-    "source_check": "Selected primary publications, corporate filings, NASA materials, academic and archival references were cross-checked; all claim-to-source correspondences require independent editorial QA before promotion.",
-    "visual_signature": "Two bilingual-identical numerical bar charts plus causal flow, geographical exposure map and comparative tables.",
+    "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+    "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"3.36\",\"10.76\"],[\"30\",\"27\",\"26\",\"15\"]]. See period and evidence limitations in body.",
     "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
     "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
-    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending."
-  }
+    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+    "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+    "source_blob_shas": {
+      "en": "f8659f0d6a7bf04a7a4bea8ac4c1078f929faa29",
+      "pt-BR": "b3b9556c03d9951ed60c355ebc448750af2a4136"
+    },
+    "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+  },
+  "revision_reason": "Replaced chronology-only charts with logarithmic transistor density and IEA 2024 data-centre generation mix; specified scope and noncausal limits. Removed four unpublished report hyperlinks."
 }
