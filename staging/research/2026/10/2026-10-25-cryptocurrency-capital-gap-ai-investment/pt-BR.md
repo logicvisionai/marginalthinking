@@ -252,8 +252,25 @@ Economia digital em transformação
   - Custos de acesso e concentração
 ```
 
-## Referências
 
+
+```chart
+type: bar
+title: Participação da IA no VC mundial, OCDE
+unit: % do capital de risco global
+2022 | 30
+2025 | 61
+```
+
+```map
+title: Dependências geográficas do capital digital
+Estados Unidos | Destino majoritário do VC de IA medido pela OCDE | Concentração do financiamento não equivale à produção mundial
+América Latina | Demanda por pagamentos e moedas estáveis | Adoção varia conforme inflação, acesso bancário e regulação
+Europa | Regulação de criptoativos e mercados digitais | Modelos institucionais e direitos diferem entre jurisdições
+Ásia | Produção de semicondutores e serviços digitais | Cadeias técnicas e fluxos de capital não coincidem
+```
+
+## Referências
 [1] OCDE, *Venture capital investments in artificial intelligence through 2025*, fevereiro de 2026: https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html
 
 [2] Galaxy Research, *Crypto and Blockchain Venture Capital – Q2 2026*, setembro de 2026: https://www.galaxy.com/insights/research/crypto-blockchain-venture-capital-q2-2026-deal-count-fundraising
