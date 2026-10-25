@@ -201,6 +201,15 @@ United States / Silicon Valley | Yarvin, Thiel, Musk and technology investment |
 Transnational online communities | e/acc and ideological diffusion | No single government or membership list
 ```
 
+## Connected research in this series
+
+The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** The four institutional biographies distinguish textual influence, enterprise relationships, investment, and political analogy.
+
+- [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+
 ## Sources and works
 
 [1] Benjamin Noys, The Persistence of the Negative (2010): https://academic.oup.com/edinburgh-scholarship-online/book/17894/chapter-abstract/175688946
