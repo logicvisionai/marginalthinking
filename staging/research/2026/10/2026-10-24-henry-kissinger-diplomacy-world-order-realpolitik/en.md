@@ -154,6 +154,10 @@ The three careers occupied distinct institutional levels. Churchill directed war
 
 ## After public office: consulting, books and the enduring contradiction
 
+By 2026, State Department historical records and the National Security Archive's declassified collections permit a detailed comparison of official actions and the interpretive claims in his books. [1][4]
+
+
+
 After January 1977, Kissinger established Kissinger Associates and remained a writer, consultant and interlocutor for statesmen and corporate leaders. His position had changed: influence through advice and networks was not legal command over the U.S. State Department. His books and interviews continued to transmit concepts developed at Harvard and in office. Kissinger died on 29 November 2023 at the age of one hundred. [1][2]
 
 The transformation of U.S.–Chinese relations would shape later economic integration, but factories, trade reform and industrial investment depended on decisions by Chinese leaders, companies and institutions far beyond Kissinger's control. His language of power, legitimacy and prudence remains influential. The archives on Chile, South Asia and Southeast Asia make it impossible to treat that influence as an uncomplicated story of diplomatic success. The lasting tension of *Diplomacy* and *World Order* is between the stability of the international system and the rights of people who often have no voice in constructing it.
