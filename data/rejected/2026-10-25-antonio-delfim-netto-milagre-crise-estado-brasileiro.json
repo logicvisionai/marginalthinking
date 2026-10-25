@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-25-DELFIM",
+  "slug": "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T03:45:10.233Z",
+  "reviewed_commit": "441c22a80ede766cc311f7d513c923e8c07b8151",
+  "pending_blob_sha": "5d5ab4456930c0264e48854ce2a6d10ba6aa3804",
+  "source_blob_shas": {
+    "en": "df2fe88cbe2f1e98e32029b28315728609e22aa9",
+    "pt-BR": "fe11aee23e85237652d4615e3e9287d5cb894825"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "factual_methodology",
+      "location": "staging/research/2026/10/2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro/en.md:174 and pt-BR.md:174 (chronology table); surrounding ambassador sections lines 79-83",
+      "issue": "Both chronologies date Delfim Netto's ambassadorship in France to 1974–1978. The Brazilian Chamber of Deputies' official parliamentary biography records 1975–1978. The draft conflates departure from the Finance Ministry in March 1974 with the start of the diplomatic appointment.",
+      "evidence": [
+        "Câmara dos Deputados, official Delfim Netto biography: 'Embaixador, Embaixada do Brasil em Paris, França, 1975 - 1978' — https://www.camara.leg.br/deputados/73445/biografia",
+        "Folha documentary profile separately states France ambassadorship 1975–1978 — https://www1.folha.uol.com.br/folha/treinamento/hotsites/ai5/personas/delfimNetto.html"
+      ]
+    },
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro/en.md:151-155, bibliography 217 and 239; pt-BR.md:151-155, bibliography 217 and 239",
+      "issue": "The comparison with Hjalmar Schacht asserts German monetary stabilization in 1923 and financing of Nazi rearmament through indirect credit and trade controls, citing [3] (FGV's Brazilian economic miracle entry) and [14] (Banco Central do Brasil's historical board-of-directors page). Neither is a documentary source for Schacht's German actions. A material cross-country historical claim therefore lacks a directly supporting source in both editions.",
+      "evidence": [
+        "FGV Atlas [3] is a study of Brazil's 1967–1973 miracle and does not discuss Schacht: https://atlas.fgv.br/verbete/6001",
+        "Banco Central [14] is titled 'Histórico da Diretoria', not a Reichsbank, 1923 stabilization or Nazi armament-finance archive: https://www.bcb.gov.br/acessoinformacao/historicodiretoria",
+        "Draft EN/PT-BR paragraph cites [3][14] immediately after Schacht claims."
+      ]
+    },
+    {
+      "check": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro/en.md:133-149 and pt-BR.md:133-149 (later career and legacy); bibliography [12] at lines 235-236",
+      "issue": "The biography's assessment of later public controversies omits a directly relevant adverse record already contained in its cited Folha dossier: accusations involving French-company commissions and a loan transaction, the CPI's lack of confirmation of the former, and an acquittal reported for 1994 in the latter. BIOGRAPHICAL-RESEARCH.md requires examining documented contested conduct while distinguishing allegations, findings and legal outcomes. Omission leaves the political-financial career materially one-sided; it is not grounds to assert wrongdoing.",
+      "evidence": [
+        "Folha historical dossier [12], paragraphs after the 1983 debt account, reports the allegations, that the CPI did not confirm the French-commission allegation, and an STF acquittal in 1994: https://www1.folha.uol.com.br/folha/treinamento/hotsites/ai5/personas/delfimNetto.html",
+        "No discussion of the CPI allegation, reported judicial outcome or their evidentiary limits in either staged edition. A primary court record should be sought before asserting the precise procedural scope of the acquittal."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Correct the France ambassadorship dates to 1975–1978 in BOTH chronology tables and verify all career dates against the Câmara dos Deputados' official biography.",
+    "Add directly relevant German primary archival and specialist historical references for Schacht's 1923 currency role and later rearmament-finance mechanisms, or remove the unsupported comparison from BOTH editions. Do not cite Brazilian FGV/BCB pages as evidence for those German claims.",
+    "Investigate the controversies reported in bibliography [12] and, where independently verifiable, present allegations, absence of confirmation, judicial outcome and limits in proportionate, neutral language in BOTH editions; do not infer culpability or innocence beyond documented proceedings.",
+    "Keep canonical ID and slug; update both staged Markdown editions, write pending v2 LAST with incremented revision and updated three blob SHAs, and resubmit to independent QA. Do not modify reports/** or public indexes."
+  ],
+  "evidence": [
+    "Reviewed Git HEAD 441c22a80ede766cc311f7d513c923e8c07b8151, pending 5d5ab4456930c0264e48854ce2a6d10ba6aa3804, en df2fe88cbe2f1e98e32029b28315728609e22aa9, pt-BR fe11aee23e85237652d4615e3e9287d5cb894825.",
+    "Reproduced exact structural expressions from scripts/validate-editorial-depth.mjs: EN 4020 substantive words, 13 URLs/12 hosts, 27 sections, 2 charts, 1 flow, 1 map; PT-BR 4567 words, 13 URLs/12 hosts, 27 sections, 2 charts, 1 flow, 1 map. Both have chart series [[7,6,20],[10.2,14]].",
+    "2026-10-19 Wealth pending and approval are already matched at revision 0; no public work was reprocessed.",
+    "Complete Node validators were not executed: GitHub connector offers file reads and Git object writes, but no local repository checkout; direct external git clone in the execution container failed DNS resolution."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "v2 ready true, revision 1, canonical slug/ID, controlled program/topics/phenomena, bilingual source paths and producer SHAs 3/3."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4020,
+      "pt_br_words": 4567,
+      "en_h2": 27,
+      "pt_br_h2": 27,
+      "source_urls_each": 13,
+      "distinct_hosts_each": 12,
+      "notes": "Strict editorial-depth thresholds reproduced from repository script; full Node script not run."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "notes": "French ambassador appointment year differs from official Câmara biography."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "German Schacht comparison relies on unrelated Brazilian FGV/BCB sources."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "Causal qualifications generally distinguish policy choices, global shocks and authoritarian repression; contested later-career records require assessment."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Both editions share the same historical date error, unsupported Schacht citation and omitted controversy; chart numeric series and section structure agree."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Material source-backed controversy absent from biographical discussion, alongside chronology and source traceability failures."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_checked_substance",
+      "notes": "Both editions have one historical chronology table, two matching quantitative charts with labeled units, one causal flow and one geographic map; no fabricated visual numbers detected in reviewed checks. Does not override substantive failures."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Full scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs require local repository filesystem unavailable in this run; deterministic depth expressions reproduced directly."
+    }
+  },
+  "producer_route": "task 3/5 — structural strategic-actor/biographical research",
+  "notes": "First rejection for this ID/revision/SHA tuple. No QA approval or public bundle existed at reviewed HEAD. No publisher task triggered."
+}
