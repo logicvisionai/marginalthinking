@@ -128,6 +128,12 @@ Há comparação instrutiva entre a reforma monetária alemã conduzida por Scha
 
 A conexão verificável é metodológica. É necessário distinguir gasto orçamentário efetivo de passivo contingente; criação de dinheiro de aumento de produção física; proteção monetária de distribuição de renda; estabilidade financeira de legitimidade política. O Reichsbank demonstra, de modo extremo, o perigo de uma autoridade monetária sem condições de recusar financiamento a projetos coercitivos do Executivo. A lição histórica não reside em copiar técnica de Schacht, mas em compreender como a escolha das instituições determina seu uso.
 
+## Uma hipótese econômica verificável sobre o financiamento oculto
+
+A hipótese de que as letras MEFO permitiram ampliar compras militares sem reconhecer imediatamente o passivo no orçamento pode ser testada por séries de encomendas, emissão e redesconto de títulos, declarações da dívida, receitas tributárias e produção industrial. A correspondência entre títulos aceitos e pagamentos a fabricantes ajuda a determinar quanto da expansão foi efetivamente financiado fora dos instrumentos fiscais convencionais. Os 12 bilhões de reichsmarks emitidos até 1938 são uma referência documental para a escala da operação, não prova automática de igual estoque monetário, gasto líquido ou inflação realizada. [12][13]
+
+A interpretação rival destacaria que parte do financiamento teria sido obtida por impostos e empréstimos públicos se a mesma produção militar fosse mantida. Esse contrafactual exige examinar capacidade de tributação, disposição dos investidores e restrições do Reichsbank. A experiência alemã demonstra que esconder dívida pode alterar a visibilidade e o calendário dos custos, mas não abolir a necessidade de recursos físicos nem de pagamento final.
+
 ## Legado: eficiência técnica, cumplicidade e limites da autoridade econômica
 
 A reputação de Schacht como estabilizador em 1923 teve fundamento histórico, mas não explica a totalidade de sua carreira. Suas decisões após 1933 contribuíram de modo material para rearmar a Alemanha nazista e ocultar parte do seu custo, antes de entrar em choque com a direção política sobre gasto e inflação. O julgamento penal limitou certas imputações, enquanto documentos bancários e depoimentos permanecem suficientes para explicar sua participação financeira. [2][4][12]
