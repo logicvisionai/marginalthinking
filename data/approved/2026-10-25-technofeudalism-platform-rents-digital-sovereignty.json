@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-10-25-TECHNOFEUDALISM",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-25T18:21:18.605Z",
+  "reviewed_commit": "09c0f528a220f1cc150a350aac47176ad8e224e5",
+  "pending_blob_sha": "78930273103653237f3017d505a832a5ecc24ac1",
+  "source_blob_shas": {
+    "en": "eb19b072f547634ccb61f3d29b2f62333977f6c1",
+    "pt-BR": "15b8294734427c9a0d3e79c5422e27235923973f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Cross-checked core numerical and institutional claims against public primary sources and source-linked methodological distinctions; internal source review, not external peer review."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Long-form causal argument, distinct economic mechanisms, competing interpretations and no product-process prose in public text."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two quantitative charts with identical numeric series in both languages, comparison table, causal flow, and geographic map."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 5214,
+        "pt": 5738,
+        "urls_en": 10,
+        "urls_pt": 10
+      },
+      "summary": "Both editions exceed 5,000 words, with substantive multi-section analysis."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Dated academic, official and institutional reference list in both locales. Major figures separately linked to their source."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Competing explanations, conditional scenarios and important alternative interpretations included; no invented exact scenario probabilities."
+    }
+  },
+  "contrary_evidence": [
+    "Alternative interpretations of the principal mechanisms are discussed in the body.",
+    "Observed market concentration or infrastructure expansion is not by itself proof of historical causation."
+  ],
+  "limitations": [
+    "Underlying sources have different observational universes and estimation methods.",
+    "Scenario trajectories describe conditional mechanisms, not realized future data.",
+    "No external peer-review claim is made for this internal publication review."
+  ],
+  "notes": "Internal evidence and structural review by the publishing assistant in the current session; GitHub build validation is separately run. This is not an external academic peer review.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-10-25-TECHNOFEUDALISM",
+    "slug": "2026-10-25-technofeudalism-platform-rents-digital-sovereignty",
+    "date": "2026-10-25",
+    "published_at": "2026-10-25T14:45:00-03:00",
+    "kind": "economic-paradigm-assessment",
+    "priority": 45,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-25-technofeudalism-platform-rents-digital-sovereignty/en.md",
+        "title": "Technofeudalism: platforms, economic rents and digital sovereignty",
+        "deck": "Yanis Varoufakis, Evgeny Morozov and Cédric Durand on property, monopoly power, cloud capital, labor and democratic governance.",
+        "tags": [
+          "political economy",
+          "technology",
+          "institutions"
+        ],
+        "keywords": [
+          "Technofeudalism",
+          "platforms",
+          "economic",
+          "rents",
+          "and",
+          "digital",
+          "sovereignty"
+        ],
+        "regime": "Changing capital formation, ownership, institutional rules and distribution.",
+        "key_risk": "Confusing valuation, financing and control or accepting one theoretical interpretation as proven.",
+        "watch": [
+          "Primary sources",
+          "Observable economic and institutional effects",
+          "Competing explanatory models"
+        ],
+        "search_text": "Technofeudalism: platforms, economic rents and digital sovereignty Yanis Varoufakis, Evgeny Morozov and Cédric Durand on property, monopoly power, cloud capital, labor and democratic governance."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-25-technofeudalism-platform-rents-digital-sovereignty/pt-BR.md",
+        "title": "Tecnofeudalismo: plataformas, renda e soberania digital",
+        "deck": "Varoufakis, Morozov e Durand debatem propriedade, monopólio, capital de nuvem, trabalho e governança democrática.",
+        "tags": [
+          "economia política",
+          "tecnologia",
+          "instituições"
+        ],
+        "keywords": [
+          "Tecnofeudalismo",
+          "plataformas",
+          "renda",
+          "e",
+          "soberania",
+          "digital"
+        ],
+        "regime": "Transformação da formação de capital, propriedade, regras institucionais e distribuição.",
+        "key_risk": "Confundir valorização, financiamento e controle ou tomar uma interpretação teórica por fato.",
+        "watch": [
+          "Fontes primárias",
+          "Efeitos econômicos e institucionais observáveis",
+          "Modelos explicativos concorrentes"
+        ],
+        "search_text": "Tecnofeudalismo: plataformas, renda e soberania digital Varoufakis, Morozov e Durand debatem propriedade, monopólio, capital de nuvem, trabalho e governança democrática."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "technology-innovation",
+      "institutions-governance",
+      "industry-production",
+      "inequality-distribution",
+      "demography-labor"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "series": "economic-paradigms-market-design",
+    "series_domain": "economic-thought-policy-paradigms",
+    "producer_checks": {
+      "information_cutoff": "2026-10-25",
+      "research_depth": "At least 5,000 words in each language, with distinct argumentative sections and cited institutional sources.",
+      "visual_signature": "Bilingual numeric chart parity, tables, regional exposure maps and causal mechanisms.",
+      "source_check": "Primary and specialist references reviewed; independent QA pending.",
+      "editorial_status": "Producer completed and handed off to the separately governed QA and publisher process.",
+      "source_metrics": {
+        "en": {
+          "words": 5214,
+          "urls": 10,
+          "hosts": 9
+        },
+        "pt": {
+          "words": 5738,
+          "urls": 10,
+          "hosts": 9
+        }
+      }
+    }
+  }
+}

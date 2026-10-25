@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-25-YANIS-VAROUFAKIS",
+  "slug": "2026-10-25-yanis-varoufakis-economic-thought-greece",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T14:45:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 46,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "sovereign-debt",
+    "monetary-policy",
+    "capital-markets",
+    "institutions-governance",
+    "technology-innovation",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "political-stability",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "series": "economic-paradigms-market-design",
+  "series_domain": "economic-thought-policy-paradigms",
+  "producer_checks": {
+    "information_cutoff": "2026-10-25",
+    "research_depth": "At least 5,000 words in each language, with distinct argumentative sections and cited institutional sources.",
+    "visual_signature": "Bilingual numeric chart parity, tables, regional exposure maps and causal mechanisms.",
+    "source_check": "Primary and specialist references reviewed; independent QA pending.",
+    "editorial_status": "Producer completed and handed off to the separately governed QA and publisher process.",
+    "source_metrics": {
+      "en": {
+        "words": 5562,
+        "urls": 15,
+        "hosts": 8
+      },
+      "pt": {
+        "words": 6449,
+        "urls": 15,
+        "hosts": 8
+      }
+    }
+  },
+  "research_subject": {
+    "name": "Yanis Varoufakis",
+    "type": "person"
+  },
+  "url": "/reports/2026/10/2026-10-25-yanis-varoufakis-economic-thought-greece.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-25T18:21:18.605Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "09c0f528a220f1cc150a350aac47176ad8e224e5",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Yanis Varoufakis: economic thought, the Greek crisis and digital power",
+      "deck": "Intellectual biography: game theory, eurozone negotiations of 2015, sovereign debt, DiEM25, MeRA25 and cloud capital.",
+      "tags": [
+        "political economy",
+        "technology",
+        "institutions"
+      ],
+      "keywords": [
+        "Yanis",
+        "Varoufakis",
+        "economic",
+        "thought",
+        "the",
+        "Greek",
+        "crisis",
+        "and",
+        "digital",
+        "power"
+      ],
+      "regime": "Changing capital formation, ownership, institutional rules and distribution.",
+      "key_risk": "Confusing valuation, financing and control or accepting one theoretical interpretation as proven.",
+      "watch": [
+        "Primary sources",
+        "Observable economic and institutional effects",
+        "Competing explanatory models"
+      ],
+      "search_text": "Yanis Varoufakis: economic thought, the Greek crisis and digital power Intellectual biography: game theory, eurozone negotiations of 2015, sovereign debt, DiEM25, MeRA25 and cloud capital."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Yanis Varoufakis: pensamento econômico, crise grega e poder digital",
+      "deck": "Biografia intelectual: teoria dos jogos, negociações gregas de 2015, dívida soberana, DiEM25, MeRA25 e capital de nuvem.",
+      "tags": [
+        "economia política",
+        "tecnologia",
+        "instituições"
+      ],
+      "keywords": [
+        "Yanis",
+        "Varoufakis",
+        "pensamento",
+        "econômico",
+        "crise",
+        "grega",
+        "e",
+        "poder",
+        "digital"
+      ],
+      "regime": "Transformação da formação de capital, propriedade, regras institucionais e distribuição.",
+      "key_risk": "Confundir valorização, financiamento e controle ou tomar uma interpretação teórica por fato.",
+      "watch": [
+        "Fontes primárias",
+        "Efeitos econômicos e institucionais observáveis",
+        "Modelos explicativos concorrentes"
+      ],
+      "search_text": "Yanis Varoufakis: pensamento econômico, crise grega e poder digital Biografia intelectual: teoria dos jogos, negociações gregas de 2015, dívida soberana, DiEM25, MeRA25 e capital de nuvem."
+    }
+  }
+}
