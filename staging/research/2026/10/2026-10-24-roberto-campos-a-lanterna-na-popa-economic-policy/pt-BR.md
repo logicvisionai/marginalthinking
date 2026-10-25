@@ -215,6 +215,14 @@ Londres | Embaixada e negociação internacional | Relações externas
 Brasil | Reformas institucionais e debate parlamentar | Custos e benefícios distributivos
 ```
 
+```chart
+type: bar
+title: Intervalos entre obras selecionadas de Roberto Campos
+unit: anos decorridos entre primeiras publicações; não mede influência
+1963 Economia Planejamento e Nacionalismo a 1964 A Moeda o Governo e o Tempo | 1
+1964 A Moeda o Governo e o Tempo a 1994 A Lanterna na Popa | 30
+```
+
 ## Fontes e bibliografia
 
 [1] FGV CPDOC, Roberto Campos, Dicionário Histórico-Biográfico Brasileiro: https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf
