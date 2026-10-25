@@ -180,6 +180,12 @@ Campos ajudou a construir mecanismos de crédito para industrialização, partic
 
 *A Lanterna na Popa* preserva a memória de um agente extraordinariamente bem posicionado para observar decisões de Estado. Seu valor cresce quando confrontado com documentos que revelam quem pagou os custos das políticas, como se distribuíram os benefícios e quais instituições sobreviveram a seus criadores. A oscilação entre planejamento e liberalização não constitui anomalia individual; expressa os dilemas de uma economia periférica que precisava simultaneamente financiar capital, proteger moeda, competir internacionalmente e ampliar direitos sociais.
 
+## Desinflação e PIB observados durante o PAEG
+
+A estabilização de 1964–1967 é verificável por indicadores de preço e produto, não pela duração dos mandatos. Uma pesquisa histórica da USP reproduz para o Índice Geral de Preços da FGV inflação anual de 91,9% em 1964, 35,5% em 1965, 38,8% em 1966 e 24,3% em 1967. A queda não foi monotônica: houve aceleração em 1966. O índice não é o IPCA atual nem representa isoladamente a perda salarial. [15]
+
+A série 7326 do Banco Central, cuja fonte é o IBGE, registra crescimento real do PIB de 3,4%, 2,4%, 6,7% e 4,2% no mesmo intervalo. Os gráficos revelam desinflação e crescimento irregular, não causalidade exclusiva de um ministro. Política de crédito, impostos, regras salariais e acontecimentos externos agiram ao mesmo tempo. [16]
+
 ## Cronologia institucional
 
 | Ano ou intervalo | Cargos, obra e reforma | Repercussão |
@@ -198,11 +204,12 @@ Campos ajudou a construir mecanismos de crédito para industrialização, partic
 
 ```chart
 type: bar
-title: Duração de mandatos e intervalos institucionais documentados
-unit: anos nominais decorridos; não representa intensidade de atuação
-Ministério do Planejamento 1964–1967 | 3
-Senado 1983–1991 | 8
-Câmara 1991–1999 | 8
+title: Inflação anual durante o PAEG conforme série histórica IGP FGV citada em estudo da USP
+unit: variação percentual anual do IGP histórico FGV; não equivale ao IPCA atual
+1964 | 91.9
+1965 | 35.5
+1966 | 38.8
+1967 | 24.3
 ```
 
 ```flow
@@ -221,10 +228,12 @@ Brasil | Reformas institucionais e debate parlamentar | Custos e benefícios dis
 
 ```chart
 type: bar
-title: Intervalos entre obras selecionadas de Roberto Campos
-unit: anos decorridos entre primeiras publicações; não mede influência
-1963 Economia Planejamento e Nacionalismo a 1964 A Moeda o Governo e o Tempo | 1
-1964 A Moeda o Governo e o Tempo a 1994 A Lanterna na Popa | 30
+title: Crescimento anual real do PIB brasileiro entre 1964 e 1967, série 7326 IBGE BCB
+unit: percentual anual do PIB real em volume; não mede distribuição de renda
+1964 | 3.4
+1965 | 2.4
+1966 | 6.7
+1967 | 4.2
 ```
 
 ## Fontes e bibliografia
@@ -256,3 +265,11 @@ unit: anos decorridos entre primeiras publicações; não mede influência
 [13] FGV Atlas, milagre brasileiro e PAEG: https://atlas.fgv.br/verbete/6001
 
 [14] Banco Central, Arminio Fraga, Dez Anos de Metas para a Inflação, citação das memórias: https://bcb.gov.br/conteudo/eventos/Documents/legado/XI_Seminario_Anual_Metas_para_Inflacao_BC/2009_XISemAnualMetasInflBCB_ArminioFraga.pdf
+
+[15] Universidade de São Paulo, pesquisa histórica com tabela anual IGP/FGV 1964–1986: https://teses.usp.br/teses/disponiveis/8/8131/tde-12052023-155850/publico/2001_JoseCarlosMartinesBelieiroJunior.pdf
+
+[16] Banco Central do Brasil, série SGS 7326 crescimento anual real do PIB IBGE: https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarValores&series=7326
+
+[17] FGV CPDOC, biografia documentada de Roberto Campos: https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf
+
+[18] SciELO, história da delegação brasileira em Bretton Woods: https://www.scielo.br/j/his/a/csdMSqrtpcr5FxFBSGkc8XJ/?lang=pt
