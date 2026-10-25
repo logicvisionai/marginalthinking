@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-25",
+  "revision": 1,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-25T15:26:42.492Z",
+  "reviewed_commit": "66a7090234810472df581548fa8e98ddd5ff195b",
+  "pending_blob_sha": "e1d603609ab9b6f90fc3654e94a98b1c6fa1a718",
+  "source_blob_shas": {
+    "en": "e8e45a5f7c10e9499e08aee8b6f5fa91d8138d6f",
+    "pt-BR": "5b36f88ef24600cfdb6bae65fd8140564e87dd64"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Cross-checked TSE first-round certified shares, dates and voting schedule, ICI money-market assets, US Treasury 2/10/30 year constant maturity rates, Brent and WTI settlement historical records, S&P Global flash PMI releases, September Japanese CPI, UK ONS retail volumes, and Brazilian government fiscal planning/autonomy rules. Source and observation vintages identified."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2064,
+        "pt": 2299,
+        "urls_en": 15,
+        "urls_pt": 15
+      },
+      "summary": "Six independently meaningful H2 analytic sections per language, greater than 1700 substantive words excluding visual fences and URLs. New fiscal implementation section is supported by federal government PPA/LOA source."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "15 numbered citations in both languages with matching source URLs, including direct Japan September 2026 statistical release and the correct dated individual energy futures historical quotes. Contemporary oil market prices do not prove real physical oil loss."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Election outcome not predicted, Sunday market prices not invented, oil spot/settlement distinction explicit, global oil/geopolitical shock differentiated from actual delivery losses, money-market assets not treated as identifiable portfolio shifts."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two distinct bar charts (Brazil first-round valid vote shares and Brent/WTI USD per barrel), plus material evidence table, causal flow and geographic transmission map. Quantitative series identical EN and PT-BR, incomparable units not added."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Six causal sections with legal-institutional fiscal detail, policy financing and oil trade transmission. Original release explicitly early Sunday before the second-round outcome; language avoids winner prediction and trade advice."
+    }
+  },
+  "contrary_evidence": [
+    "The 4 October first-round lead does not forecast the 25 October runoff winner.",
+    "The Brent–WTI spread does not separately identify a Gulf shipping risk premium.",
+    "Elevated U.S. flash PMI output and rising money-market assets coexist with other possible liquidity interpretations; these data do not identify investor trades.",
+    "British third-quarter retail volume increase differs in period from September's monthly contraction."
+  ],
+  "limitations": [
+    "Review concerns an early-Sunday 05:00 BRT snapshot, not later election-night outcomes or live market moves.",
+    "Some secondary energy shipping security and oil sentiment remain narrative risk descriptions rather than verified physical disruption measurements.",
+    "The market-price history source is a secondary trading-data service rather than an exchange-certified final contract settlement.",
+    "Site deployment, live availability and crawl visibility require downstream independent build verification."
+  ],
+  "notes": "Focused editorial QA after prior revision-0 rejection. Primary statistical, legal and electoral observations independently checked in a new review pass against dated original sources; revisions correct documented gates. Approval binds exact revised pending/source Git blobs and does not endorse any other pending biographies.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-25",
+    "slug": "2026-10-25-global-macro",
+    "date": "2026-10-25",
+    "published_at": "2026-10-25T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-25-global-macro/en.md",
+        "title": "Global Macro — Brazil votes while a Gulf oil premium waits for the next market opening",
+        "deck": "Brazil's Sunday runoff creates a closed-market political information shock as Friday's crude futures reflect renewed Gulf shipping risk; the cross-asset transmission depends on fiscal institutions, dollar yields and physical throughput.",
+        "tags": [
+          "global macro",
+          "Brazil election",
+          "Brent crude",
+          "US Treasuries",
+          "geopolitical risk",
+          "energy shipping"
+        ],
+        "keywords": [
+          "25 October 2026",
+          "Brazil runoff October 25 2026",
+          "Brent WTI October 23 2026",
+          "Treasury October 23 2026",
+          "Gulf energy logistics",
+          "institutional political risk"
+        ],
+        "regime": "Weekend political information shock alongside elevated dollar financing costs and Gulf energy-transport risk.",
+        "key_risk": "Conflating an unobserved Brazilian election result and reported Gulf threats with verified asset repricing or physical oil supply losses.",
+        "watch": [
+          "TSE certified runoff result and turnout",
+          "Monday BRL, DI yields and B3 breadth versus emerging-market peers",
+          "Verified Gulf tanker throughput, freight and insurance",
+          "US real yields, breakevens and credit spreads"
+        ],
+        "search_text": "Global Macro 25 October 2026 Brazil runoff Lula Flavio Bolsonaro Gulf shipping Brent WTI Treasury 2y 10y 30y cross asset political risk energy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-25-global-macro/pt-BR.md",
+        "title": "Macro Global — Brasil vota enquanto o prêmio de risco do petróleo aguarda a reabertura dos mercados",
+        "deck": "O segundo turno brasileiro cria um choque político de informação com mercados fechados, enquanto o petróleo reflete riscos renovados à navegação no Golfo; a transmissão depende de instituições fiscais, juros em dólar e fluxos físicos.",
+        "tags": [
+          "macro global",
+          "eleição brasileira",
+          "petróleo Brent",
+          "Treasuries",
+          "risco geopolítico",
+          "transporte energético"
+        ],
+        "keywords": [
+          "25 October 2026",
+          "Brazil runoff October 25 2026",
+          "Brent WTI October 23 2026",
+          "Treasury October 23 2026",
+          "Gulf energy logistics",
+          "institutional political risk"
+        ],
+        "regime": "Choque político de informação no fim de semana, com financiamento em dólar caro e risco ao transporte energético no Golfo.",
+        "key_risk": "Confundir resultado eleitoral ainda não observado e ameaças relatadas no Golfo com reprecificação comprovada de ativos ou perdas físicas de oferta.",
+        "watch": [
+          "Resultado oficial e comparecimento do segundo turno no TSE",
+          "Real, juros DI e amplitude da B3 na segunda-feira versus emergentes",
+          "Volume físico de navios no Golfo, fretes e seguros",
+          "Juros reais americanos, inflação implícita e spreads de crédito"
+        ],
+        "search_text": "Macro Global 25 outubro 2026 segundo turno Brasil Lula Flavio Bolsonaro transporte Golfo Brent WTI Treasury juros câmbio risco político energia"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "capital-markets",
+      "monetary-policy",
+      "sovereign-debt",
+      "energy",
+      "trade-investment",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "political-stability",
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "producer_checks": {
+      "information_cutoff": "Early Sunday 25 October 2026, 05:00 BRT; last completed liquid market session Friday 23 October. No second-round result, Sunday Brazilian market close or post-election prices included.",
+      "novelty": "Sunday 25 October Brazilian runoff is new discrete political information after the 24 October cross-region PMI report; Friday Gulf oil repricing is contextual transmission, not recycled central thesis.",
+      "visual_signature": "Bilingual chart series [[\"47.03\",\"45.16\"],[\"116.72\",\"103.27\"]], 1 dated evidence table, 1 two-chain flow and 1 geographic mechanism map per locale.",
+      "source_check": "15 dated bilingual sources; direct TSE, Treasury, ICI, IEA, ONS, Statistics Bureau of Japan Sep CPI, Brazilian planning and BCB documentation; separate historical Brent/WTI market-price tables, no Reuters.",
+      "bilingual_parity": "Six aligned analytical H2 sections, 15 source entries, matched data and concepts, chart numeric parity, separate post-election/fiscal risk qualifications.",
+      "research_depth": "Validated producer counting proxy: EN 2064, PT-BR 2299 substantive words excluding code fences and URLs; 6 H2 analytical sections each, 2 numeric charts, table, causal flow, map.",
+      "qa_handoff": "Previous QA rejection revision 0 remedied in staging; further independent review and SHA-bound approval required before public promotion."
+    },
+    "revision": 1,
+    "revision_reason": "Resolve r0 independent QA depth rejection: six substantive sections in both editions, greater than 1,700 words in both; new documented PPA/LDO/LOA and BCB autonomy channel. Replace Reuters with two distinct dated market-price sources, preserve numerical chart parity."
+  }
+}
