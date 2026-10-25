@@ -174,6 +174,10 @@ Henry Kissinger would later examine the conditions under which powerful states a
 
 ## Return to office, Cold War and historical legacy
 
+By 2026, the Churchill Archive and publicly maintained institutional collections still preserve official materials for comparing his retrospective narrative with the decisions of the War Cabinet and military authorities. [3]
+
+
+
 Churchill again served as prime minister from 1951 to 1955, in declining health and amid the consolidated Cold War. He supported the Atlantic alliance and sought to limit escalation with Moscow through personal diplomacy, with modest results. His Conservative government accepted much of the welfare-state architecture built under Labour after 1945. He resigned in 1955 and died on 24 January 1965. [1][2]
 
 His legacy contains tensions that cannot cancel each other: anti-Nazi resistance, arguable strategic mistakes, rhetorical leadership, defence of empire and political responsibility amid colonial suffering. Explaining Allied victory requires industrial economics, intelligence, diplomacy and ordinary human labour in addition to political courage. Churchill's biography becomes more convincing when it reconstructs what he decided, what he could not control and whose lives bore the consequences, rather than relying on a saintly or demonic portrait.
