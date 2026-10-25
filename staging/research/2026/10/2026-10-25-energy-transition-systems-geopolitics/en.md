@@ -180,6 +180,8 @@ Efficiency changes the relation between energy input and useful services. Better
 
 Standards, labeling, public procurement and targeted finance can address some barriers. Their success should be measured in operational outcomes, not merely installed equipment counts. Rebound effects also matter: when a service becomes cheaper, its use may increase. The resulting welfare gain can coexist with a smaller-than-expected reduction in aggregate energy demand.
 
+In 2024, approximately 655 million people worldwide still lacked access to electricity, according to the World Bank's 2026 reporting on global energy access. That shortfall illustrates why low-carbon policy and energy development cannot be reduced to suppressing aggregate demand. [9]
+
 Countries with large unmet demand should not aim at deprivation. Reliable electricity for refrigeration, sanitation, hospitals, schools and productive activities can increase social welfare. The relevant policy objective is to make access cleaner and more efficient as it expands. Using national consumption reductions as the only benchmark can obscure unacceptable energy poverty.
 
 ## 23. Artificial intelligence, data centres and electricity demand
@@ -280,3 +282,6 @@ Other sources | 14.4
 [7] IEA, *Energy and AI*, 2025, and subsequent updates: https://www.iea.org/reports/energy-and-ai/energy-demand-from-aI ; https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
 
 [8] IEA, *World Energy Investment 2026*: https://www.iea.org/reports/world-energy-investment-2026
+
+
+[9] World Bank, *655 Million People Still Without Electricity Underscore Urgent Need to Deliver Universal Energy Access*, June 2026: https://www.worldbank.org/en/news/press-release/2026/06/16/accelerating-universal-energy-access
