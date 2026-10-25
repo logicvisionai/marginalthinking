@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-THIEL",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T09:38:50.914Z",
+  "reviewed_commit": "0317efa22de16598bcc3c051601c42b1c313faa5",
+  "pending_blob_sha": "61733bc4c3b44c77952a13e5c8015eee0c800567",
+  "source_blob_shas": {
+    "en": "27d4905009062b5f3af3cad432d99a45424932de",
+    "pt-BR": "3d1ecdc5c0267800d8579f747bc5add167323079"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power/en.md:200-207 and pt-BR.md:200-207",
+      "issue": "Four internal hyperlinks in each locale point to reports without any public metadata bundle or data/reports.json entry at reviewed HEAD. All four destinations are unpublished, including rejected studies. Publishing this dossier as a standalone approved item would introduce eight broken localized links.",
+      "evidence": [
+        "EN lines 204-207 link to Curtis Yarvin, Nick Land, Elon Musk, and the accelerationism genealogy; PT-BR lines 204-207 link to their /pt-br/reports/ counterparts.",
+        "GitHub tree at HEAD 0317efa22de16598bcc3c051601c42b1c313faa5 contains no reports/**/metadata.json for these four slugs, and data/reports.json (135 entries) has none of their IDs.",
+        "Existing QA rejection sidecars cover Yarvin, Land, Musk and accelerationism revision 1; a public target cannot be assumed from staged work."
+      ]
+    },
+    {
+      "type": "historical_context_and_evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power/en.md:37-41,75-81 and pt-BR.md:37-41,75-81",
+      "issue": "The report repeatedly interprets Thiel's April 2009 claim that freedom and democracy are incompatible but omits his explicit reference in that same primary essay to women's enfranchisement and welfare beneficiaries as reasons for his pessimism about 'capitalist democracy'. The same primary page includes a later clarification denying support for disenfranchisement. Omitting both passages materially narrows the historical record in an institutional biography centered on his political ideas.",
+      "evidence": [
+        "Primary essay 'The Education of a Libertarian', Cato Unbound, 2009-04-13, paragraph beginning 'The 1920s were the last decade...' directly discusses women's voting rights and welfare beneficiaries: https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/",
+        "The editor's note and subsequent statement on the same page say Thiel did not advocate disenfranchising a class of people; both the initial claim and clarification require precise attribution.",
+        "Neither staged edition mentions women's suffrage, women's voting rights or the later clarification, despite multiple analytical sections on the 2009 essay."
+      ]
+    },
+    {
+      "type": "source_dates_and_attribution",
+      "location": "staging/research/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power/en.md:101 and pt-BR.md:101; bibliography lines 219,237",
+      "issue": "Both editions say The Guardian and The Washington Post described Thiel's 2025 Antichrist lectures but cite only [14], a Guardian article. The bibliography's Washington Post [5] concerns Yarvin/DOGE and is dated 2025-05-08, before the September–October lecture series. The claim itself has contemporary reporting support, but its specific Washington Post source is absent from the reference list.",
+      "evidence": [
+        "Washington Post's actual 2025-10-10 report: https://www.washingtonpost.com/technology/2025/10/10/peter-thiel-antichrist-lectures-leaked/",
+        "Guardian's 2025-10-10 report [14]: https://www.theguardian.com/us-news/2025/oct/10/peter-thiel-lectures-antichrist",
+        "Bibliography [5] is https://www.washingtonpost.com/politics/2025/05/08/curtis-yarvin-doge-musk-thiel/ and does not document the later lecture series."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Remove or convert all four related-study hyperlinks in EN and PT-BR to non-clickable references until each has its own approved and public bundle; do not change public reports or indexes.",
+    "Expand the analysis of Thiel's 2009 essay in both languages to address its explicit discussion of women's enfranchisement and welfare recipients, and quote or accurately paraphrase his subsequent clarification that he did not support disenfranchisement. Attribute both statements and avoid inferring policy intentions beyond the evidence.",
+    "Add the October 10, 2025 Washington Post lecture investigation to both final bibliographies and cite it where the newspaper's reporting is invoked, or remove the unsupported newspaper attribution.",
+    "Preserve canonical ID and slug, revise both staged editions, increment pending revision, write the pending v2 sidecar last, and resubmit for independent QA with fresh Git blob SHAs."
+  ],
+  "evidence": [
+    "Reviewed HEAD 0317efa22de16598bcc3c051601c42b1c313faa5; pending blob 61733bc4c3b44c77952a13e5c8015eee0c800567; EN blob 27d4905009062b5f3af3cad432d99a45424932de; PT-BR blob 3d1ecdc5c0267800d8579f747bc5add167323079.",
+    "Exact deterministic checks based on scripts/validate-editorial-depth.mjs: EN 4,776 substantive words, PT-BR 4,666; each has 23 H2 sections, 13 distinct URLs from 8 source hosts, 2 charts, 1 flow, 1 map and 14 Markdown table rows; chart series identical [[2.9,4.5],[711,954]].",
+    "Palantir primary 2025 10-K: 2025/2024 revenue approximately $4.5bn/$2.9bn and 954/711 customers under the company's definition: https://investors.palantir.com/files/2025%20FY%20PLTR%2010-K.pdf",
+    "Cato primary essay and subsequent clarification: https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_for_checked_fields",
+      "notes": "Pending v2 ready true, revision 1, source_locale en, canonical slug/ID and source paths, controlled program/topics/phenomena, bilingual metadata."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "Pending and both staged Git blob SHAs match main HEAD; all 3 exact source objects reviewed."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4776,
+      "pt_br_words": 4666,
+      "en_h2": 23,
+      "pt_br_h2": 23,
+      "source_urls_each": 13,
+      "distinct_hosts_each": 8,
+      "notes": "Meets strict script numeric thresholds; full Node scripts not executed."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "The original 2009 primary essay's material suffrage rationale and clarification are omitted; Washington Post 2025 lectures reporting is not cited to the correct contemporary source."
+    },
+    "source_dates_and_attribution": {
+      "result": "failed",
+      "notes": "Washington Post [5] May 2025 predates September-October 2025 lectures; contemporary October 10 report is missing."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Prose generally separates investor, company and state authority, offers competing economic interpretations and testable questions."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Both editions share 23 H2 headings, numeric charts, reference URLs, missing 2009 context and four non-public links."
+    },
+    "novelty_vs_corpus": {
+      "result": "partial",
+      "notes": "The biographical dossier adds Palantir governance and venture-finance mechanisms; exhaustive comparative novelty audit against all 135 public bundles deferred until blockers are corrected."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_checked_substance",
+      "notes": "Revenue and customer charts use compatible within-series definitions, direct primary 10-K figures, EN/PT-BR numeric parity; causal flow and geographical map align with documented mechanisms."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Four non-existent public report destinations in each locale, material historical omission and incomplete attribution prevent approval."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Repository-wide Node scripts unavailable in GitHub-connector-only runtime; reviewed script source and reproduced exact deterministic editorial-depth expressions, plus visual grammar counts."
+    }
+  },
+  "contrary_evidence": [
+    "Thiel's later clarification expressly rejects disenfranchisement; the original 2009 remarks must not be represented as an unqualified proposal to remove voting rights.",
+    "Palantir revenue and customer growth are corporate disclosures and do not demonstrate individual control of government operations or effectiveness of each software deployment."
+  ],
+  "limitations": [
+    "Full scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs were not executed; relevant deterministic checks were reproduced on the exact source blobs.",
+    "Primary-source spot checks and bibliography verification identify concrete blockers; exhaustive line-by-line source verification is required before any later approval.",
+    "This QA transaction must not change public reports, CSS, indexes, taxonomy, institutional copy or staged content."
+  ],
+  "notes": "Independent QA rejection. Route corrective work to producer 3/5 for MT-SA structural actor dossier; no immediate execution of producer or publisher claimed. MT-WF-2026-10-19 has matching approval and public bundle at revision 0 and was not reprocessed."
+}
