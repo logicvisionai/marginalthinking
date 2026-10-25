@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-CHURCHILL",
+  "slug": "2026-10-24-winston-churchill-second-world-war-strategy-empire",
+  "revision": 1,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T12:41:09.392Z",
+  "reviewed_commit": "b09135364d09bf5a77ade7c7d93130ba2a03255b",
+  "pending_blob_sha": "ddf2153a749c42392f61aa5bd21cd24a03b27a8e",
+  "source_blob_shas": {
+    "en": "da1c0406973b39dd97673269f66c88b4169cdb54",
+    "pt-BR": "139561a58b17d0f291c37861117f5e5486f4661e"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/en.md:185-231; staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/pt-BR.md:185-231",
+      "issue": "Both bar charts measure only nominal years in office (5/4) and elapsed years between selected military milestones (4/1). They repeat the adjacent chronology and do not test shipping, industrial production, wartime financing, military losses or colonial allocation mechanisms central to the biography. Mechanical count and bilingual numeric parity do not satisfy the substantive visual-evidence gate.",
+      "evidence": [
+        "EN/PT-BR lines 202-208 and 225-231 contain the exact numeric arrays [[\"5\",\"4\"],[\"4\",\"1\"]]; the chronology table is at lines 187-200.",
+        "RESEARCH-VISUALS.md QA gate explicitly rejects technically compliant but visually redundant/decorative charts. BIOGRAPHICAL-RESEARCH.md permits chronology intervals as calculations but does not treat them as proof of historical mechanisms."
+      ]
+    },
+    {
+      "check": "evidence_traceability_and_source_attribution",
+      "location": "staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/en.md:43-59,145-151,235-250; staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/pt-BR.md:43-59,145-151,235-250",
+      "issue": "Dunkirk evacuation of approximately 338,000 is attributed in the prose to an Imperial War Museums memorial [7], but bibliography [7] is the UK Parliament page for Churchill's 4 June 1940 speech, not an IWM memorial or evacuation statistics release. Source [8], described as an IWM Battle of Britain historical overview and cited for broad radar, air-defense and Blitz analyses, is actually the Battle of Britain Memorial register record WMR-38895, with an inscription and monument description; it does not provide a specialist institutional analysis of the technical and civilian mechanisms claimed. The figure itself is credible, but the cited provenance and scope are wrong.",
+      "evidence": [
+        "UK Parliament [7] is a speech collection, not the claimed IWM memorial: https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/churchillexhibition/churchill-the-orator/fight-on-the-beaches/",
+        "IWM source [8] identifies WMR-38895 as a sculptured/cast Battle of Britain memorial unveiled in 2005: https://memorials.iwm.org.uk/memorial/38895",
+        "Actual IWM Dunkirk fact sheet independently supports approximately 338,000 evacuated and distinguishes the French contingent: https://www.iwm.org.uk/sites/default/files/press-release/dunkirk_film_2017_fact_sheet_and_iwm_resources_available.pdf"
+      ]
+    },
+    {
+      "check": "evidence_traceability_cross_biography",
+      "location": "staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/en.md:169-173,235-253; staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/pt-BR.md:169-173,235-253; pending sources.en.keywords and sources.pt-BR.keywords",
+      "issue": "The Bretton Woods section asserts Roberto Campos's membership of the 1944 Brazilian delegation with citations [1][3], which are Churchill's Nobel biography and the Churchill Archive catalogue; neither documents Campos. The adjacent theoretical reference to Kissinger lacks a direct source and advances an unrelated cross-biographical thread. Both metadata locales include template-like keywords 'World Order', 'Diplomacy', 'A Lanterna na Popa' while the two related dossiers remain rejected and nonpublic.",
+      "evidence": [
+        "Churchill Nobel biography: https://www.nobelprize.org/prizes/literature/1953/churchill/biographical/ ; Churchill archive catalogue: https://www.churchillarchive.com/browse-the-catalogue",
+        "The related Kissinger and Campos drafts each have QA rejection records at this HEAD; neither has an approved or public bundle. The Campos claim needs a direct Brazilian diplomatic archive, Bretton Woods participant list or specialist historical study, not Churchill biographical references."
+      ]
+    },
+    {
+      "check": "editorial_argument_continuity",
+      "location": "staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/en.md:97-103,117-135,153-167; staging/research/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire/pt-BR.md:97-103,117-135,153-167",
+      "issue": "The same claims are restated in separate H2 chapters without substantial new evidence: six-volume memoirs at 123-127 and 129-135; Bengal famine at 97-103 and 153-159; 1945 electoral mandate at 117-121 and 161-167. This inflates section count without equivalent historical advancement and conflicts with the biographical standard's requirement that each section advance chronology, conflict, mechanism or consequence.",
+      "evidence": [
+        "29 H2 sections in each locale, with three pairs of adjacent or repeated thematic treatments.",
+        "BIOGRAPHICAL-RESEARCH.md prohibits rephrasing conclusions under new chapter titles; RESEARCH-PUBLISHING.md requires depth without padding."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace or substantially rework the two chronology-only charts with source-reproducible, same-unit quantitative evidence about war logistics, industrial production, financial dependence, losses or documented colonial allocation; specify period, population, definition, source and limitation; preserve exact EN/PT-BR numeric equivalence. Do not invent values.",
+    "Correct [7] to the actual IWM Dunkirk fact sheet or equivalent primary/curated source for 338,000, while retaining the parliamentary speech as a separate properly described source; replace or supplement [8] with a substantive IWM/RAF/National Archives history for radar, air defence and the Blitz. Recheck all claim-to-citation mappings in both languages.",
+    "Cite a direct source for Campos's 1944 Bretton Woods delegation and any Kissinger interpretation, or remove the unsupported cross-biography material. Remove misleading metadata keywords and avoid implying rejected related dossiers are public.",
+    "Consolidate repetitive memoir, Bengal and 1945-election sections; use the recovered space for documented decisions, contrary evidence and distinct mechanisms rather than repeated conclusions.",
+    "Preserve canonical ID and slug; revise both staged Markdown editions, increment pending revision to 2 and write the pending sidecar last. Run strict full validators before resubmission; do not modify public files."
+  ],
+  "evidence": [
+    "Reviewed main HEAD b09135364d09bf5a77ade7c7d93130ba2a03255b; exact Git blobs pending ddf2153a749c42392f61aa5bd21cd24a03b27a8e, EN da1c0406973b39dd97673269f66c88b4169cdb54, PT-BR 139561a58b17d0f291c37861117f5e5486f4661e. No existing approval, rejection or public metadata for this ID/slug at review.",
+    "Exact scripts/validate-editorial-depth.mjs expressions reproduced on both complete staged Markdown sources: EN 4528 substantive words, PT-BR 5158; each 29 H2, 13 distinct URLs, 11 hosts, 2 chart fences, 1 flow, 1 map, 14 table rows; chart arrays [[\"5\",\"4\"],[\"4\",\"1\"]].",
+    "Data taxonomy v1.0 fields validated against controlled programs, dimensions, formats, cadences, topics and phenomena. MT-WF-2026-10-19 approved pending SHA 3fc90b8aa8817d26fff2baee69ced2cfbd616a2e and public metadata present at revision 0; not reprocessed."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_for_checked_fields",
+      "notes": "Pending v2, ready true, revision 1, canonical slug, source paths and controlled taxonomy fields valid."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "Exact Git blob SHAs 3/3 matched reviewed HEAD; no approval, rejection or public metadata for this slug."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4528,
+      "pt_br_words": 5158,
+      "en_h2": 29,
+      "pt_br_h2": 29,
+      "source_urls_each": 13,
+      "distinct_hosts_each": 11,
+      "notes": "Mechanical minima met; not a qualitative approval."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Two materially misleading source attributions and unrelated Campos/Kissinger claims without direct supporting references."
+    },
+    "source_dates_and_attribution": {
+      "result": "failed",
+      "notes": "Dunkirk evacuation number confirmed in an IWM fact sheet, but its staged citation identifies a different parliamentary resource; Battle of Britain reference is a memorial register, not a specialist overview."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "War/peace and famine allocation alternatives are considered, but repeated broad commentary and missing source-specific counterevidence limit falsifiability."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "29 H2 and identical chart arrays, bibliography URLs and matched relevant passages; shared evidence defects in both locales."
+    },
+    "novelty_vs_corpus": {
+      "result": "partial",
+      "notes": "No public Churchill ID or matching slug in the 135-entry index; repetitive internal sections and unsourced cross-biographical material require correction."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two charts pass numerical count and bilingual parity but repeat calendar chronology and add no independent mechanism evidence."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Material visual-evidence, citation-provenance and argument-continuity defects block approval."
+    },
+    "pipeline_validation": {
+      "result": "inspected_not_executed",
+      "notes": "Full Node validators unavailable without local repository checkout; exact editorial-depth expressions and visual floor/signature code inspected and reproduced on complete staged files."
+    }
+  },
+  "contrary_evidence": [
+    "Churchill's military leadership cannot substitute for measured shipping, industrial or economic effects; office duration is not an outcome metric.",
+    "The IWM confirms Dunkirk rescue figures, but the staged bibliography misattributes the relevant source.",
+    "The Battle of Britain memorial provides commemorative context but does not substantiate every technological or civilian claim attributed to it."
+  ],
+  "limitations": [
+    "Selected documentary sources independently checked; this rejection is not exhaustive line-by-line peer review.",
+    "Node validation scripts not executed in full because a repository checkout is unavailable in the connector runtime; reproducible depth checks are recorded.",
+    "No public reports, indexes, CSS, taxonomy, institutional pages or staged Markdown modified."
+  ],
+  "notes": "Independent QA 4/5. Return strategic-actor revision to producer 3/5; no immediate producer or publisher execution confirmed. MT-WF-2026-10-19 already approved and public at revision 0, so it was not reprocessed."
+}
