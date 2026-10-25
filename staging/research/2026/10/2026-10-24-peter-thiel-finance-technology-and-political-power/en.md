@@ -164,6 +164,15 @@ Washington, DC | Federal contracting and political influence debates | Legal pub
 Global enterprise customers | Palantir's international market | Contractual presence differs from personal sovereignty
 ```
 
+## Connected research in this series
+
+The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** Yarvin's reported Tlon link, Land's distinct ontology, Musk's direct PayPal history and the competing accelerationist traditions.
+
+- [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+- [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Sources and bibliography
 
 [1] Independent Institute, Peter Thiel professional biography: https://www.independent.org/person/peter-a-thiel/
