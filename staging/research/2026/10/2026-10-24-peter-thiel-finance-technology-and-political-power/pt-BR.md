@@ -164,6 +164,15 @@ Washington, DC | Debates sobre contratos federais e influência política | Deci
 Clientes globais da Palantir | Mercado internacional de software | Contratos não equivalem a soberania pessoal
 ```
 
+## Pesquisas relacionadas da série
+
+Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** A ligação relatada com a Tlon de Yarvin, a ontologia distinta de Land, a relação PayPal com Musk e correntes aceleracionistas.
+
+- [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+- [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Fontes e bibliografia
 
 [1] Independent Institute, biografia profissional: https://www.independent.org/person/peter-a-thiel/
