@@ -100,23 +100,27 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "research_subject": {
     "name": "Henry Kissinger",
     "type": "person"
   },
-  "related_research": [
-    "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
-    "2026-10-24-winston-churchill-second-world-war-strategy-empire"
-  ],
+  "related_research": [],
   "producer_checks": {
     "information_cutoff": "2026-10-24",
-    "research_depth": "Validated staging EN 4590 / PT-BR 5055 words excluding visual fences and URLs; 13 / 13 unique URLs from 8 / 8 hosts.",
-    "visual_signature": "Two comparable bar charts, chronological table, causal flow and geographic map per locale. Numeric chart values EN/PT-BR equal: [[\"16\",\"15\",\"8\"],[\"6\",\"4\"]].",
+    "research_depth": "EN 4811 and PT-BR 5222 substantive words; 27/26 H2 headings; sources 19/19 URLs across 14/14 domains.",
+    "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"1054\",\"1618\"],[\"710\",\"950\"]]. See period and evidence limitations in body.",
     "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
     "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
-    "source_check": "Primary and secondary documentary bibliography provided; external link reliability, claim-level attribution and historical narrative require independent QA.",
-    "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging."
-  }
+    "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+    "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+    "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+    "source_blob_shas": {
+      "en": "d25dad22e2a6cc4fd84f0ec7f829805cdeb66837",
+      "pt-BR": "6b32ee8ae8ae31010ccd06cf28a39c00a1214f46"
+    },
+    "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+  },
+  "revision_reason": "Replaced calendars with SALT I official launcher stock/conditional ceilings, linked first-hand Diplomacy chapter and original World Order argument plus contemporary scholarship; removed unsupported historical cross-biography."
 }
