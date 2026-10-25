@@ -1,111 +1,117 @@
 {
   "schema_version": 2,
   "id": "MT-HT-2026-10-24-ACCELERATIONISM",
-  "revision": 1,
+  "revision": 2,
   "qa_status": "rejected",
-  "reviewed_at": "2026-10-25T01:45:50.556Z",
-  "reviewed_commit": "b86a4ac7df422f6fe949b70a6e3c73fb15bb0095",
-  "pending_blob_sha": "b644620bc2105047679554f21adda706687aec6d",
+  "reviewed_at": "2026-10-25T16:38:59.193Z",
+  "reviewed_commit": "57ce075b967b45365a2f28774ffd95f1466697b3",
+  "pending_blob_sha": "a71db099e56589ec0f764bd5223587678a17e703",
   "source_blob_shas": {
-    "en": "b9b2da9397cb0ed2bc9e093ed826817d3bf4bca1",
-    "pt-BR": "950dba65a24eae29ab3e875a0d2e7c5728ede6b0"
+    "en": "3137446693b1842cf536ea3b62f2f93031aa0a0e",
+    "pt-BR": "180a88a8b125f6fc638b3e706e1d98e0de41388c"
   },
   "program": "technology-production-society",
   "confidence": "high",
   "blocking_issues": [
     {
-      "type": "visual_evidence_readiness",
-      "location": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md and pt-BR.md; two `chart` fences after the two comparative tables",
-      "issue": "Both quantitative charts are constructed solely from arbitrarily selected publication-date gaps (2 vs 39 years, 5 vs 10 years). They neither measure intellectual influence nor test the report's mechanisms, institutional effects or acceleration in a defined economic variable. They are correctly calculated but ornamental, and no adjacent analysis interprets the comparison. Passing the numeric count of two charts does not satisfy RESEARCH-VISUALS.md's substantive-evidence rule.",
+      "type": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md:135; pt-BR.md:135",
+      "issue": "The PayPal corporate relationship of Musk and Thiel and the Founders Fund/Tlon link to Yarvin are asserted with citations [4][5][6][11][12]. Those cited documents concern Land's intellectual history, Yarvin's 2007 manifesto, Thiel's 2009 political essay, NASA commercial crew and Musk's 2025 DOGE role; none establishes both corporate and financing links. The financial relationship is materially central to the section's distinction between ideas and institutional capital.",
       "evidence": [
-        "EN chart titles: 'Publication intervals in the historical genealogy' and 'Recent intervals in public acceleration debate'; PT-BR: 'Intervalos de publicação na genealogia histórica' and 'Intervalos recentes do debate sobre aceleração'.",
-        "First chart compares Anti-Oedipus (1972) to Libidinal Economy (1974) with the disjoint interval from 1974 to the 2013 manifesto; second compares Yarvin (2007) to Land (2012) and a separate 2013-to-2023 interval.",
-        "Both editions explicitly state that chronology does not demonstrate intellectual influence; dates are not fabricated, but the chosen gap magnitudes carry no supported analytical conclusion."
+        "PayPal's 2002 SEC S-1/A documents X.com/Confinity's 30 March 2000 merger and Thiel's role: https://www.sec.gov/Archives/edgar/data/1103415/000091205702003491/a2060419zs-1a.htm",
+        "The draft does not cite a source identifying Tlon's financing and the relationship must distinguish a fund investment from Thiel's personal control.",
+        "Both language editions reproduce the same unsupported [4][5][6][11][12] citation chain."
+      ]
+    },
+    {
+      "type": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md:79-81; pt-BR.md:79-81",
+      "issue": "The discussion of violent appropriation of 'accelerationism' ends with [7], a 2026 Journal of Business Venturing Insights conceptual study on ideological entrepreneurship, not a source documenting extremist violent movements. The article itself includes the relevant ICCT investigation as [19] elsewhere, but the claim-to-source link here is incorrect.",
+      "evidence": [
+        "[7] is Chalmers et al., 'Entrepreneurship and ideology: Accelerationism, degrowth, and the emerging political economy of venture creation', DOI 10.1016/j.jbvi.2025.e00566: https://ideas.repec.org/a/eee/jobuve/v25y2026ics2352673425000538.html",
+        "[19] ICCT Farrell-Molloy/Macklin (15 June 2022) documents violent siege-culture uses and distinguishes them from other philosophies: https://icct.nl/publication/ted-kaczynski-anti-technology-radicalism-and-eco-fascism"
+      ]
+    },
+    {
+      "type": "bibliographic_traceability_and_bilingual_parity",
+      "location": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md:219; pt-BR.md:219; reference [4]",
+      "issue": "The revision-1 required fix to normalize the exact bibliographic identity in both languages remains incomplete. EN now supplies the complete title and journal, but PT-BR still abbreviates it to 'The TOXIC schema', omitting 'How Nick Land's Dark Enlightenment works' and the journal identification.",
+      "evidence": [
+        "Publisher original: Christian Fuchs, 'The TOXIC schema: How Nick Land's Dark Enlightenment works', Thesis Eleven, first published online 16 September 2026: https://journals.sagepub.com/doi/10.1177/07255136261487456",
+        "Previous revision-1 QA rejection expressly required the same precise bibliographic identity in EN and PT-BR."
       ]
     },
     {
       "type": "editorial_publication_readiness",
-      "location": "Both editions: 'Connected research in this series' / 'Pesquisas relacionadas da série'; four /reports or /pt-br/reports hyperlinks",
-      "issue": "All four linked dossiers (Yarvin, Land, Thiel, Musk) are still pending without an approval or public index entry at reviewed HEAD. Publishing this edition alone would introduce four non-existent report destinations in both languages.",
+      "location": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md:205-207; pt-BR.md:205-207",
+      "issue": "An empty H2 ('Documented empirical comparison' / 'Comparação empírica documentada') is immediately followed by another H2, leaving a false analytical section between the figures and their interpretation. This breaks the article's evidentiary reading flow even though mechanical heading counts pass.",
       "evidence": [
-        "data/reports.json at HEAD contains 135 entries and zero entries for MT-SA-2026-10-24-YARVIN, MT-SA-2026-10-24-LAND, MT-SA-2026-10-24-THIEL or MT-SA-2026-10-24-MUSK.",
-        "The repository tree at HEAD has no corresponding approved sidecars or public metadata bundles for those four slugs."
-      ]
-    },
-    {
-      "type": "bibliographic_traceability",
-      "location": "EN Sources and works [4] vs PT-BR Fontes e obras [4]",
-      "issue": "The same DOI 10.1177/07255136261487456 is labelled 'Nick Land and Dark Enlightenment' in English but 'The TOXIC schema' in Portuguese. The verified original title is 'The TOXIC schema: How Nick Land's Dark Enlightenment works' (Christian Fuchs, Thesis Eleven, published online 16 September 2026). Use the precise same bibliographic identity in both editions.",
-      "evidence": [
-        "Primary publisher DOI https://journals.sagepub.com/doi/10.1177/07255136261487456",
-        "University repository metadata https://ris.uni-paderborn.de/record/67152"
+        "EN 205 is H2, 206 blank, 207 is another H2; PT-BR identical structural sequence.",
+        "RESEARCH-PUBLISHING.md requires continuous evidence-to-claim argument rather than mechanical section inflation."
       ]
     }
   ],
   "required_fixes": [
-    "Replace the two publication-gap charts with at least two genuinely evidence-bearing, source-reproducible quantitative visualizations tied to a substantive research question, or redesign the visual argument using supported structured evidence without manufacturing numeric observations. Retain the strict two-chart gate; a purely chronological display can be a table/diagram but cannot be counted as substantive chart evidence.",
-    "Remove or defer the four public links until their target reports have actually been QA-approved and materialized, or make the cross-references plain text without broken destinations. Revalidate both locales and the public corpus immediately before any later approval.",
-    "Normalize reference [4] to the exact publisher title and date in EN/PT-BR; verify citation-to-claim correspondence after revision.",
-    "Keep the canonical ID and slug unchanged; stage both revised Markdown files and update the pending v2 sidecar last. Submit new Git blob SHAs for independent QA, without public writes."
+    "Add claim-specific sources for the PayPal X.com/Confinity merger and Tlon/Founders Fund relationship in both locales; explicitly distinguish investment by a fund from personal investment, ownership or direction by Peter Thiel.",
+    "Replace [7] with the directly relevant ICCT [19] citation for violent accelerationism, and keep the distinct concepts and movements separately attributed.",
+    "Use the complete verified Christian Fuchs article title, journal and 16 September 2026 online date in reference [4] in both languages.",
+    "Remove the empty H2 or write a genuinely separate analytical section; keep chart interpretation adjacent and causally connected to its evidence.",
+    "Stage both revised Markdown files, then update pending v2 last with a higher revision and new exact source blob SHAs; do not modify any public file."
   ],
   "evidence": [
-    "Exact source blobs at reviewed HEAD: pending b644620bc2105047679554f21adda706687aec6d; EN b9b2da9397cb0ed2bc9e093ed826817d3bf4bca1; PT-BR 950dba65a24eae29ab3e875a0d2e7c5728ede6b0.",
-    "The post-2026-10-12 strict editorial-depth expressions in scripts/validate-editorial-depth.mjs were applied directly: EN 5,027 substantive words, 24 H2 headings, 20 unique URLs from 18 hosts; PT-BR 4,846 words, 24 H2 headings, 20 URLs from 18 hosts. Both have 2 charts, 1 flow, 1 map, 16 table lines and identical numeric chart arrays [[2,39],[5,10]].",
-    "The primary 2013 Williams/Srnicek manifesto and 2023 Andreessen manifesto are cited as distinct political positions, but their arbitrary elapsed interval does not establish ideological proximity, technology deployment or acceleration.",
-    "Christian Fuchs, Thesis Eleven 2026 original publisher and Paderborn repository: https://journals.sagepub.com/doi/10.1177/07255136261487456 ; https://ris.uni-paderborn.de/record/67152.",
-    "The ICCT source [19] does discuss a violent siege-culture use of 'accelerationism'; the draft generally distinguishes it from philosophical accelerationism, so no unsupported equivalence is alleged here."
+    "Exact reviewed blobs: pending a71db099e56589ec0f764bd5223587678a17e703; EN 3137446693b1842cf536ea3b62f2f93031aa0a0e; PT-BR 180a88a8b125f6fc638b3e706e1d98e0de41388c.",
+    "Depth expressions reproduced: EN 5,255 words, PT-BR 5,058; 25 H2 each, 22 unique URLs from 19 hosts, two charts, one flow, one map and 16 Markdown table lines each.",
+    "IEA 2025 primary source confirms 415/945 TWh estimate/scenario and 45/25/15% geographic shares: https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "Previous rejection r1 concerns visual quality and dead links were remediated in r2; this record addresses remaining citation and editorial defects rather than replaying old visual issues."
   ],
   "taxonomy_issues": [],
   "checks": {
     "schema_and_taxonomy": {
       "result": "passed",
-      "notes": "Pending schema_version 2, ready true, English-first, canonical ID/slug, valid taxonomy 1.0 program, related programs, dimensions, topics, phenomena, format, cadence and geography."
+      "notes": "v2 ready; canonical ID/slug; controlled taxonomy, format and locales checked against repository contracts."
     },
     "research_depth": {
-      "result": "passed_on_exact_expressions",
-      "en_words": 5027,
-      "pt_br_words": 4846,
-      "en_h2": 24,
-      "pt_br_h2": 24,
-      "source_urls_each": 20,
-      "distinct_hosts_each": 18,
-      "notes": "Strict depth thresholds reproduced from the repository script, but not executed as a full Node repository process."
+      "result": "passed",
+      "en_words": 5255,
+      "pt_br_words": 5058,
+      "en_h2": 25,
+      "pt_br_h2": 25,
+      "source_urls_each": 22,
+      "distinct_hosts_each": 19,
+      "notes": "Reproduced exact expressions from scripts/validate-editorial-depth.mjs on full staged sources; complete Node script not executed."
     },
     "evidence_traceability": {
-      "result": "partial",
-      "notes": "Selected primary texts, dated scholarly publisher metadata and distinction of extremist terminology checked; bibliography [4] is inconsistent between locales; no exhaustive sentence-level verification was completed."
+      "result": "failed",
+      "notes": "Material claims of PayPal and Tlon financial relationships are cited to unrelated documents; violent-extremism claim is cited to a conceptual entrepreneurship paper instead of the relevant ICCT research."
     },
     "counterfactual_review": {
       "result": "partial",
-      "notes": "Distinguishes ideology from measured productivity, private investment from public authority, philosophical from violent accelerationism; complete evidence-to-claim recheck needed after visual corrections."
+      "notes": "Distinctions among ideology, investment, technological capacity and state power are generally maintained, but finance/control linkage lacks claim-specific documentation."
     },
     "translation_check": {
-      "result": "passed_for_checked_substance",
-      "notes": "Equivalent 24 section headings, 20 matched URLs, main argument, dates and identical chart values; bibliography [4] label differs."
+      "result": "partial",
+      "notes": "Equivalent main argument and quantitative chart values, but bibliographic entry [4] lacks the exact verified subtitle in PT-BR."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "notes": "Four internal links resolve to currently unapproved, nonpublic reports; publication would create broken navigation. Introductory thesis is substantive, and no gross partisan advocacy was identified."
+      "notes": "Untraceable institutional/financing assertions, incorrect extremism citation and an empty H2 immediately followed by another H2 before chart interpretation."
     },
     "visual_evidence_readiness": {
-      "result": "failed",
-      "notes": "Two date-gap charts pass the count regex but are arbitrary chronology-as-quantity and do not test any claim or mechanism. EN/PT-BR values match; flow/map are broadly aligned with the thesis."
+      "result": "passed",
+      "notes": "Two substantive IEA Energy and AI (2025) charts: 2024 estimated 415 TWh vs 2030 Base Case projected 945 TWh; 2024 US/China/Europe shares 45/25/15%. IEA original confirms numbers, status, units; EN/PT chart parity exact. 2 tables, 1 flow, 1 map each."
     },
     "pipeline_validation": {
       "result": "not_executed",
-      "notes": "No full local Git checkout available; GitHub connector supports read and commit but not execution of repository-wide Node validators."
+      "notes": "No executable repository checkout available in runtime; read scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs and reproduced applicable depth/visual checks."
     }
   },
   "contrary_evidence": [
-    "The report acknowledges that philosophical, political and business uses of acceleration are not a unitary movement.",
-    "A technology spending increase does not establish productivity gains or political control.",
-    "The ICCT research distinguishes violent collapse tactics from philosophical accelerationism; shared vocabulary is not proof of affiliation."
+    "The new IEA charts are quantitatively accurate and correctly distinguish an observed estimate from a conditional projection; their values do not prove ideological influence.",
+    "The text generally avoids treating philosophical, political and violent uses of 'accelerationism' as one organization or movement."
   ],
   "limitations": [
-    "Visual evidence was examined against the actual RESEARCH-VISUALS.md contract; counts alone cannot certify chart usefulness.",
-    "The strict depth validator's exact expressions were reproduced, not the complete Node script execution.",
-    "Only selected sources were independently cross-checked; a revised candidate requires fresh factual and bilingual verification.",
-    "No approved sidecar or public bundle for this ID was present at reviewed HEAD."
+    "The complete repository Node validation scripts were inspected but not executed because the GitHub connector exposes file reads/writes, not an executable checkout.",
+    "External fact-check was targeted to the decisive disputed citations and the two revised IEA visual datasets, not a complete re-verification of every paragraph."
   ],
-  "notes": "Independent QA rejection only. No reports/**, public index, CSS, taxonomy or institutional files modified. Retrabalho should go to producer 3/5 as a structural historical-intellectual research item; no producer or publisher task execution is claimed."
+  "notes": "Independent QA only; no public files, taxonomy, CSS, institutional content or indexes modified. Retrabalho: producer 3/5 for structural historical-intellectual research. No producer/publisher task execution claimed."
 }
