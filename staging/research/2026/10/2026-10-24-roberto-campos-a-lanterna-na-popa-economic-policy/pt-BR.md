@@ -148,6 +148,22 @@ O Estado desenvolvimentista reuniu técnicos capazes de calcular retorno de proj
 
 Nas reformas do regime militar, a assimetria democrática torna a análise ainda mais necessária. Trabalhadores sujeitos a regras salariais e ao FGTS tinham menos capacidade de contestação política. Empresários também enfrentavam impostos, juros e mudanças regulatórias, mas possuíam canais diferentes de negociação. A estabilidade monetária é um bem público que beneficia especialmente quem não pode defender a renda, mas a transição para estabilidade pode impor custos desiguais. A história de Campos permanece incompleta sem os dois lados do balanço distributivo.
 
+## Bretton Woods, restrições cambiais e a industrialização brasileira
+
+A participação inicial de Campos na Conferência de Bretton Woods colocou suas ambições de industrialização no contexto de uma nova organização monetária internacional. Países em desenvolvimento precisavam de moedas fortes para importar máquinas, petróleo e insumos. Um investimento cuja produção começa anos depois pode exigir financiamento externo antes de produzir receitas em exportações. A variável decisiva não é somente a taxa de juros, mas o momento em que dívidas precisam ser pagas relativamente à capacidade de gerar divisas. [1]
+
+Essa restrição acompanhou o planejamento brasileiro por décadas. Bancos de desenvolvimento podiam fornecer recursos em moeda doméstica para construir uma usina, mas não criar dólares ilimitados para comprar equipamentos estrangeiros. Controles cambiais e prioridades de importação distribuíam moeda escassa entre empresas, criando disputas e estímulo à busca de tratamento especial. Campos enfrentou o mesmo problema externo em cargos diferentes: negociador internacional, dirigente bancário e planejador.
+
+A questão ajuda a entender por que se pode defender coordenação estatal seletiva e rejeitar déficits fiscais descontrolados. Crédito dirigido a uma central elétrica pode ampliar produção futura; emissão usada para financiar despesas recorrentes pode elevar preços sem criar capacidade. A dificuldade prática está no fato de governos e grupos de interesse apresentarem quase toda despesa como investimento produtivo. Avaliação independente de projetos e contabilidade transparente da dívida são instrumentos para distinguir finalidades.
+
+## Liberalização e a mudança das obrigações do Estado
+
+A defesa tardia de privatização por Campos pode ser entendida como reação a inflação, dívida e ineficiência de empresas protegidas, mas não autoriza apagar retrospectivamente sua função na construção do aparato público. Mercados privados dependem de instituições: crédito exige contratos e contabilidade confiáveis; eletricidade competitiva depende de regras de acesso às redes; comércio aberto requer portos e moeda relativamente estável.
+
+A escolha não é apenas tamanho grande ou pequeno do Estado. Projetos institucionais diferem em incentivos, gasto fiscal, qualidade de serviços e responsabilização. Um governo pode deixar de operar diretamente uma atividade e, ao mesmo tempo, precisar fiscalizar contratos e impedir abusos de poder de mercado. Sem essas funções, a venda de monopólio estatal pode produzir monopólio privado em vez de concorrência.
+
+O legado de Campos é mais esclarecedor nos pontos em que resiste a rótulos. Ele construiu crédito público de longo prazo, tentou estabilizar a moeda, defendeu correção financeira, aceitou ministério sob ditadura e promoveu liberalização num sistema democrático. Nenhuma palavra isolada mede os efeitos sociais. As consequências pertencem a trabalhadores, contribuintes, investidores e usuários, não somente ao estadista que escreveu sobre elas.
+
 ## O lugar de Roberto Campos na história econômica brasileira
 
 Campos ajudou a construir mecanismos de crédito para industrialização, participou da formulação de reformas monetárias e trabalhistas e tornou-se referência na crítica aos custos de Estado empresarial. Seu percurso acompanha a passagem brasileira de uma economia com infraestrutura escassa a uma economia complexa, endividada e sujeita a crises inflacionárias. Não foi autor isolado do BNDE, do Plano de Metas ou do PAEG: governos, legisladores, técnicos, empresas, trabalhadores e instituições internacionais participaram de cada processo. [1][5][6]
