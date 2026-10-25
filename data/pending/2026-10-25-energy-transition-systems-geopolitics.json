@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-EN-2026-10-25-ENERGY-TRANSITION",
+  "slug": "2026-10-25-energy-transition-systems-geopolitics",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T14:45:00-03:00",
+  "kind": "energy-industrial-systems-research",
+  "priority": 43,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-25-energy-transition-systems-geopolitics/en.md",
+      "title": "Energy transition: industrial, financial and geopolitical restructuring of the world energy system",
+      "deck": "How renewables, fossil asset retirement, grids, critical minerals, nuclear power, energy access and industrial competition change productive capacity and risk.",
+      "tags": [
+        "political economy",
+        "technology",
+        "institutions"
+      ],
+      "keywords": [
+        "Energy",
+        "transition",
+        "industrial",
+        "financial",
+        "and",
+        "geopolitical",
+        "restructuring",
+        "of",
+        "the",
+        "world",
+        "energy",
+        "system"
+      ],
+      "regime": "Changing capital formation, ownership, institutional rules and distribution.",
+      "key_risk": "Confusing valuation, financing and control or accepting one theoretical interpretation as proven.",
+      "watch": [
+        "Primary sources",
+        "Observable economic and institutional effects",
+        "Competing explanatory models"
+      ],
+      "search_text": "Energy transition: industrial, financial and geopolitical restructuring of the world energy system How renewables, fossil asset retirement, grids, critical minerals, nuclear power, energy access and industrial competition change productive capacity and risk."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-25-energy-transition-systems-geopolitics/pt-BR.md",
+      "title": "Transição energética: a reorganização industrial, financeira e geopolítica do sistema mundial de energia",
+      "deck": "Como renováveis, ativos fósseis, redes, minerais críticos, energia nuclear, acesso energético e competição industrial redistribuem capacidade e riscos.",
+      "tags": [
+        "economia política",
+        "tecnologia",
+        "instituições"
+      ],
+      "keywords": [
+        "Transição",
+        "energética",
+        "a",
+        "reorganização",
+        "industrial",
+        "financeira",
+        "e",
+        "geopolítica",
+        "do",
+        "sistema",
+        "mundial",
+        "de"
+      ],
+      "regime": "Transformação da formação de capital, propriedade, regras institucionais e distribuição.",
+      "key_risk": "Confundir valorização, financiamento e controle ou tomar uma interpretação teórica por fato.",
+      "watch": [
+        "Fontes primárias",
+        "Efeitos econômicos e institucionais observáveis",
+        "Modelos explicativos concorrentes"
+      ],
+      "search_text": "Transição energética: a reorganização industrial, financeira e geopolítica do sistema mundial de energia Como renováveis, ativos fósseis, redes, minerais críticos, energia nuclear, acesso energético e competição industrial redistribuem capacidade e riscos."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "global-system-power",
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "energy",
+    "climate-environment",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "industry-production",
+    "trade-investment",
+    "technology-innovation",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "electricity-systems",
+  "producer_checks": {
+    "information_cutoff": "2026-10-25",
+    "research_depth": "At least 5,000 words in each language, with distinct argumentative sections and cited institutional sources.",
+    "visual_signature": "Bilingual numeric chart parity, tables, regional exposure maps and causal mechanisms.",
+    "source_check": "Primary and specialist references reviewed; independent QA pending.",
+    "editorial_status": "Producer completed and handed off to the separately governed QA and publisher process.",
+    "source_metrics": {
+      "en": {
+        "words": 5886,
+        "urls": 10,
+        "hosts": 4
+      },
+      "pt": {
+        "words": 6223,
+        "urls": 10,
+        "hosts": 4
+      }
+    }
+  }
+}
