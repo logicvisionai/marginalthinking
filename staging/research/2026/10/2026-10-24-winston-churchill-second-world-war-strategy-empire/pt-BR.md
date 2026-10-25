@@ -166,6 +166,12 @@ A mudança revela uma distinção central da legitimidade democrática. Governar
 
 A prosperidade britânica posterior dependeria de reconstrução industrial, comércio, sistema monetário internacional e reconfiguração imperial. A vitória foi conquistada por um país financeiramente enfraquecido que não conservaria sem alterações sua posição global anterior a 1939. A transição entre prestígio militar e diminuição de poder econômico ajuda a explicar tanto o retorno da política partidária quanto a futura redefinição do papel britânico no mundo.
 
+## Bretton Woods, Guerra Fria e redistribuição do poder mundial
+
+As prioridades de Churchill tiveram efeitos muito além das eleições de 1945. A escassez de divisas britânicas e a dependência da produção americana reduziram a capacidade de preservar a antiga predominância financeira do Reino Unido. Durante a guerra, representantes de diversos países desenharam as instituições de Bretton Woods, fundamentais para parte da cooperação monetária do pós-guerra. Roberto Campos participou da delegação brasileira em 1944, lembrando que a nova ordem envolvia países com necessidades de desenvolvimento muito diferentes das potências anglo-americanas. [1][3]
+
+Henry Kissinger examinaria posteriormente as condições em que grandes Estados aceitam restrições comuns e países menores tentam preservar autonomia. Seus problemas estratégicos surgiram numa ordem parcialmente definida pela Segunda Guerra e pela confrontação soviético-americana. O legado de Churchill não se resume à liderança no campo militar: a vitória acelerou mudanças no poder econômico relativo, ascensão das finanças americanas e declínio dos impérios europeus. As conexões entre Churchill, Campos e Kissinger são estruturais e cronológicas, não prova de colaboração pessoal.
+
 ## Retorno ao poder, Guerra Fria e final da trajetória
 
 Churchill voltou ao cargo de primeiro-ministro entre 1951 e 1955, já com problemas de saúde e em cenário de Guerra Fria consolidada. Procurou apoiar laços transatlânticos e reduzir riscos de confronto com Moscou por diplomacia pessoal, com sucesso limitado. O governo conservador aceitou grande parte do Estado de bem-estar social construído pelos trabalhistas após 1945, sinalizando mudança do consenso doméstico britânico. Churchill deixou o cargo em 1955 e morreu em 24 de janeiro de 1965. [1][2]
