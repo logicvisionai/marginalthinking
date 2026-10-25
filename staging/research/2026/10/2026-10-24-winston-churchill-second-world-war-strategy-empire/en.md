@@ -218,6 +218,14 @@ Normandy and Western Europe | Operation Overlord | Continental invasion
 India and Bengal | Colonial food and wartime policy | Distribution and political rights
 ```
 
+```chart
+type: bar
+title: Intervals between major milestones of Churchill's wartime government
+unit: elapsed calendar years; strategic sequence rather than battle effectiveness
+1940 Churchill takes office to 1944 Normandy landings | 4
+1944 Normandy landings to 1945 German surrender | 1
+```
+
 ## Documentary bibliography
 
 [1] Nobel Prize, Churchill biography and historical bibliography: https://www.nobelprize.org/prizes/literature/1953/churchill/biographical/
