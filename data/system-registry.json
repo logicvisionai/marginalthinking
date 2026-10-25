@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-20",
+  "updated_at": "2026-10-25T16:49:23.406Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -707,6 +707,21 @@
       "update_mode": "weekly-event-driven",
       "reconciliation_required": false,
       "freshness_sla_hours": 168
+    },
+    {
+      "id": "editorial-historical-intellectual-research",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "public_route": "/reports/",
+      "source_files": [
+        "BIOGRAPHICAL-RESEARCH.md",
+        "data/reports.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
     }
   ]
 }
