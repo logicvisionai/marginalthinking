@@ -94,6 +94,22 @@ The International Military Tribunal considered Schacht's role under charges invo
 
 German denazification proceedings then produced a separate judgment, including an initial sentence to eight years in a labour camp, followed by reversal and release in 1948. Criminal liability, the applicable legal standard and the historian's explanation of causes are distinct. A judgment may fail to establish a required criminal mental state while documentary evidence still demonstrates that an official funded armaments expansion on a large scale. [3][6]
 
+## MEFO on a balance sheet: contingent liabilities versus visible money creation
+
+MEFO shows how a government can expand spending without recognizing all commitments in published accounts. An armaments supplier received a bill accepted by a nominal company; the creditor held a claim carrying a promise of payment and possible liquidity through the Reichsbank. The public sector bore an economic risk when the paper was issued even without an immediate Treasury cash outflow. When the bill matured, settlement required taxes, another liability, money creation or central-bank rediscounting. The categories of bills issued, bills outstanding, bills discounted and liabilities actually settled must be kept separate. [12][13][14]
+
+The 12 billion Reichsmarks of cumulative issues reported at Nuremberg by April 1938 should not be interpreted automatically as the stock held by investors on that exact date. Nor can the number be added without adjustment to published military spending, since doing so may count the same activity twice. Failure to recognize indirect liabilities can understate public spending, while combining a flow of bills with a debt stock can overstate historical exposure. Monetary consequences differed according to whether banks held their claims or sought central-bank liquidity. [12]
+
+The vulnerability increased when further armaments orders continually required additional financing. The regime could delay cash settlement but could not indefinitely postpone the use of actual workers, metals, fuel and factories. If effective purchasing power grew faster than civilian supply, pressure could emerge as inflation, shortages or rationing under administrative price controls. The record describes a system for postponing and concealing obligations, not an invention that created limitless resources.
+
+## Financial policy amid persecution and expropriation
+
+Financial administration belonged to a regime that persecuted political opponents, excluded Jews from economic activity and used coercion to shift ownership. Nazi economic policy cannot be described solely as investment and inflation management without accounting for the destruction of civil rights and the state direction of productive resources. The United States Holocaust Memorial Museum places Schacht within the institutional leadership of the regime while also recording the narrow legal result at Nuremberg. [3][4]
+
+This does not establish that the Reichsbank president personally ordered every seizure or crime carried out by separate offices. Attribution requires documents identifying laws, orders, bankers, administrators and those who exercised actual control. But the credit system he designed materially increased the state's capacity to arm itself. A financial analysis that describes machinery and funds while ignoring the consequences of their allocation is historically incomplete.
+
+The contrast with Weimar stabilization is stark. Restoring a credible currency in 1923 helped recover contractual exchange after hyperinflation. Under Nazism, financial tools were subordinated to military priorities and a state withdrawing rights from whole populations. By 2026, judicial records, museum collections and institutional economic histories make it possible to reconstruct these separate episodes without accepting Schacht's self-defence as the final account.
+
 ## Postwar memoirs, the Düsseldorf bank and foreign advice
 
 After release, Schacht published accounts attempting to explain his actions, including *Abrechnung mit Hitler* (1948) and *76 Jahre meines Lebens* (1953). He offered economic advice in Egypt, India, Indonesia, Pakistan and Syria, and founded a foreign-trade banking enterprise in Düsseldorf in 1953. Institutional biographies document these engagements and his death in Munich in 1970. [1][6][17]
