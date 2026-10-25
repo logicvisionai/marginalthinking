@@ -148,6 +148,22 @@ Development planning assembled experts who could estimate project returns and ne
 
 Under military rule the democratic asymmetry was even more consequential. Wage earners affected by PAEG adjustment formulas and FGTS had fewer avenues to contest policy. Employers faced taxes and interest rates as well, but often possessed different channels of negotiation. Price stability is a public good that can especially protect people who cannot hedge their wages, yet transitions toward it may impose unequal costs. Campos's history remains incomplete without the distribution of gains and sacrifices.
 
+## Bretton Woods, exchange-rate constraints and Brazil's industrial strategy
+
+Campos's early presence at the Bretton Woods conference connected Brazilian industrial ambitions to postwar international monetary rules. Industrializing countries needed hard currency for machines, oil, patents and imported intermediate goods. A development project that increases output only after several years can require foreign financing long before it earns export income. The critical variable is not just the interest rate on a loan but the timing of debt service relative to foreign-exchange receipts. [1]
+
+This was an enduring concern in Brazilian economic planning. Public development banks could finance domestic construction with local resources but could not create unlimited dollars to purchase machinery. Exchange controls and import priorities distributed scarce foreign currency among enterprises, creating political disputes and incentives to lobby for favourable treatment. Campos's involvement with international creditors, the BNDE and the Targets Plan exposed him to the same underlying external constraint from different offices.
+
+The financing problem also explains why a politician might support selective state coordination while opposing uncontrolled fiscal deficits. Credit for an electricity plant might increase future productive capacity; monetary finance used to cover recurring expenditure might raise inflation without expanding output. The difficulty is that governments and interest groups can describe many expenditures as productive investments. Independent project appraisal and transparent debt accounts are needed to separate them.
+
+## Liberalization and the changing meaning of state capacity
+
+Campos's later advocacy of privatization can be understood partly as a response to persistent inflation, debt and the inefficiency of some protected enterprises, but it must not be used to retrospectively erase his state-building role. Public and private institutions often depend on each other: an open capital market needs enforceable contracts and reliable accounting; a competitive utility market needs rules on network access and pricing; effective trade liberalization requires infrastructure and monetary stability.
+
+The choice is therefore not simply between a large state and a small state. It is between institutional designs with different incentives, fiscal costs, quality of provision and accountability. A government may cease producing a service directly while acquiring stronger duties to regulate market power and supervise contracts. If those duties are weak, privatization can replace a public monopoly with a private monopoly rather than create competition.
+
+Campos's institutional legacy is most illuminating where it resists slogans. He built long-term public credit, attempted monetary stabilization, defended indexed finance, accepted an authoritarian government portfolio and later advocated liberal economic reforms in a democratic setting. No single label can establish the net social outcome of that sequence. The economic consequences belong to workers, taxpayers, investors and service users, not only to the statesman who described them.
+
 ## Campos's economic-historical place
 
 Campos helped construct development-credit mechanisms, designed or defended monetary and labour reforms, and became one of Brazil's best-known critics of the entrepreneurial state. His life tracks a transition from major infrastructure gaps to a diversified, indebted and inflation-prone economy. He did not create BNDE, the Targets Plan or PAEG single-handedly: governments, economists, legislators, international institutions, businesses and workers shaped each programme. [1][5][6]
