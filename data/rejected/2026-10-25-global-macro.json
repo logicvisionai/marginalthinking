@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-25",
+  "slug": "2026-10-25-global-macro",
+  "revision": 0,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T08:40:24.326Z",
+  "reviewed_commit": "3c770257fd23a5a1ab1c218949e74690668ab7c6",
+  "pending_blob_sha": "bb393c86f31c39a7c56b8a87393c41ff7571f004",
+  "source_blob_shas": {
+    "en": "6fb1199b076481603c255bc627c0f8cffb502ae1",
+    "pt-BR": "2f6496bc491bcdcf55ad34c6b441a779d9a13fab"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "research_depth",
+      "location": "staging/research/2026/10/2026-10-25-global-macro/en.md:1-112 (substantive prose, excluding fenced visual blocks and URLs)",
+      "issue": "English edition has only 1,643 substantive words under the exact wordCount expression in scripts/validate-editorial-depth.mjs, below the required 1,700 for non-weekly research dated after 2026-10-12. PT-BR has 1,884, but both languages must independently pass.",
+      "evidence": [
+        "Current validator sets minWords=isWeekly?2200:1700 and strips fenced code blocks plus URL tokens before counting.",
+        "EN: 1643 < 1700, deficit 57 words; PT-BR: 1884 >= 1700.",
+        "The report's core new election-fiscal scenario remains shorter than the minimum research depth despite credible dated quantitative anchors."
+      ]
+    },
+    {
+      "check": "research_depth",
+      "location": "staging/research/2026/10/2026-10-25-global-macro/en.md:9,35,65,73,79 and pt-BR.md:9,35,65,73,79",
+      "issue": "Both editions contain only five H2 analytical sections. scripts/validate-editorial-depth.mjs requires at least six for all research within its post-2026-10-12 scope. Sources are H3, not H2; visual fences do not create analytical sections.",
+      "evidence": [
+        "EN H2 sections: election fiscal feasibility; Gulf oil/shipping; US financing; household incidence; dislocations/falsifiers.",
+        "PT-BR has the five corresponding H2 sections, same line positions.",
+        "Current validator checks (content.match(/^## /gm)||[]).length < 6 and would fail both locales."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Expand the English analysis substantively above 1,700 words, preferably with independently sourced additional evidence on the new Brazil election-to-fiscal transmission rather than filler, generic summaries or duplicated previous-day PMI commentary.",
+    "Develop at least six coherent evidence-driven H2 analytical sections in each locale. A distinct section could test fiscal/legislative implementation constraints and the actual evidence needed for Monday repricing, if original sources substantiate it; do not merely split headings to game the threshold.",
+    "Keep both locales semantically equivalent, preserve original source-vintage distinctions, and rerun node scripts/validate-editorial-depth.mjs with MT_VALIDATE_ALL_PENDING=1 plus scripts/validate-pipeline.mjs in strict mode when possible.",
+    "Preserve canonical ID MT-GM-2026-10-25 and slug 2026-10-25-global-macro; revise staged EN and PT-BR, increment pending revision from implicit 0 to 1 and write pending last. Do not modify public bundles or indices."
+  ],
+  "evidence": [
+    "Reviewed HEAD 3c770257fd23a5a1ab1c218949e74690668ab7c6; exact Git blobs: pending bb393c86f31c39a7c56b8a87393c41ff7571f004; EN 6fb1199b076481603c255bc627c0f8cffb502ae1; PT-BR 2f6496bc491bcdcf55ad34c6b441a779d9a13fab.",
+    "Reproduced exact deterministic expressions in scripts/validate-editorial-depth.mjs: EN 1643 substantive words, 5 H2 sections; PT-BR 1884 words, 5 H2 sections. Both 11 distinct URLs/9 source hosts, 2 chart fences, 1 flow, 1 map, 7 table rows. Numeric chart arrays match: [[\"47.03\",\"45.16\"],[\"116.72\",\"103.27\"]].",
+    "TSE confirms 2026 election timetable 08:00–17:00 and 158,765,543 eligible voters: https://www.tse.jus.br/eleicoes/cde-2026",
+    "Agência Brasil 2026-10-04 reports first-round 47.03% and 45.16%: https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/quando-sera-o-segundo-turno-das-eleicoes-veja-data",
+    "ICI 2026-10-22 release confirms $7.94tn money-market fund assets, +$21.49bn total and +$21.82bn government funds: https://www.ici.org/research/stats/mmf",
+    "ONS 2026-10-23 release confirms UK September retail -0.4% m/m and Q3 +0.7% q/q: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026",
+    "Reuters 2026-10-23 reports Brent 116.72 and WTI 103.27 settlements as secondary market evidence: https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_for_checked_fields",
+      "notes": "Pending schema_version=2, ready=true, ID/slug canonical, taxonomy version 1.0 and program/format/cadence are consistent with current controlled values."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "Git tree blob SHAs matched the three complete reviewed source files at the pre-commit HEAD (3/3)."
+    },
+    "research_depth": {
+      "result": "failed",
+      "en_words": 1643,
+      "pt_br_words": 1884,
+      "en_h2": 5,
+      "pt_br_h2": 5,
+      "minimum_words": 1700,
+      "minimum_h2": 6,
+      "notes": "Current validate-editorial-depth.mjs deterministic gates fail for EN word count and both locales' H2 count."
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "notes": "Verified TSE, Agência Brasil, ICI, ONS, S&P Global and contemporaneous crude settlement reports for selected anchor claims. Remaining claims were not exhaustively re-audited after definitive depth failures."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Runoff outcome not predicted, Brent-WTI spread not equated to Gulf premium, physical interruption distinguished from reported threat, money-market assets not treated as observed trades."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Same five H2 analytical sections, two numeric chart series, 11 source URLs, quantitative dates and named mechanisms; both editions still fail the H2 floor."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed_for_checked_substance",
+      "notes": "25 Oct runoff is a distinct new dated political event compared with 24 Oct business-survey thesis; full novelty review should be repeated after revisions."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_checked_substance",
+      "notes": "Two charts show labeled, dated vote shares and same-unit benchmark oil settlements, plus one evidence table, flow and map; bilingual visual counts and numeric series match. Mechanical visual budget passes; this does not override failed research depth."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Mandatory depth gates fail; do not approve despite broadly credible primary-source anchors and analytical visual design."
+    },
+    "pipeline_validation": {
+      "result": "inspected_not_executed",
+      "notes": "Full repository Node validation not run because GitHub connector exposes file reads and Git writes but no repository checkout or execution; exact relevant validate-editorial-depth.mjs checks reproduced from staged contents. scripts/validate-pipeline.mjs source inspected for schema, taxonomy and visual checks."
+    }
+  },
+  "contrary_evidence": [
+    "The first-round 1.87 percentage-point lead is not a forecast for the second round.",
+    "A Brent-WTI price spread is not a measured geopolitical premium or verified physical production loss.",
+    "Money-market asset changes cannot identify investors' trades or portfolio consensus."
+  ],
+  "limitations": [
+    "This is a material gate rejection on two reproducible depth failures, not an exhaustive verification of every claim.",
+    "Full Node validators were not executed in this connector-only GitHub environment.",
+    "No public promotion, CI run or Cloudflare deployment was performed."
+  ],
+  "notes": "Independent QA 4/5. Route revision to daily thematic/MT-GM producer task 1/5. No immediate task execution confirmed. Re-review only after a new pending and staged blob SHA; avoid replay on unchanged inputs."
+}
