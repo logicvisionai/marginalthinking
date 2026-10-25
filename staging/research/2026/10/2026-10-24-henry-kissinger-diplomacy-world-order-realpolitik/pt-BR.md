@@ -72,11 +72,19 @@ Esse método privilegia compromissos intermediários e garantias verificáveis q
 
 ## Diplomacy, de 1994: sistema europeu, razão de Estado e excepcionalismo americano
 
+O trecho original do primeiro capítulo, reproduzido pela editora Simon & Schuster, atribui a Richelieu uma abordagem baseada no interesse nacional, apresenta o equilíbrio britânico e caracteriza as escolhas de Metternich e Bismarck. São argumentos textuais do próprio Kissinger, não inferências tiradas de sumário bibliográfico. Charles Maechling, em resenha de 1994 na Foreign Service Journal, criticou o recorte seletivo e centrado nas grandes potências. A atribuição original e a crítica posterior pertencem a registros distintos. [24][27]
+
+
+
 Em *Diplomacy*, Kissinger apresenta uma história da diplomacia moderna organizada por tradições rivais: o equilíbrio europeu, os projetos de universalismo revolucionário, a realpolitik de Bismarck e o excepcionalismo americano, associado em diferentes momentos a Theodore Roosevelt e Woodrow Wilson. Richelieu aparece como figura fundamental da razão de Estado, enquanto Metternich e Castlereagh representam busca de estabilidade após a guerra napoleônica. A ordem, nessa construção, depende de correlação de forças e de legitimidade reconhecida pelos principais participantes. [2][5]
 
 A interpretação tem poder explicativo para alianças que parecem contradizer afinidades culturais. Estados podem cooperar com adversários ideológicos para evitar hegemonia regional; inimigos podem reconhecer limites recíprocos. Sua limitação está no risco de confundir o ponto de vista do gabinete diplomático com a história da sociedade. Revoluções, colonialismo, escravidão, nacionalismos e movimentos anticoloniais não eram somente perturbações externas ao sistema; contribuíram para redefinir seus agentes e sua própria legitimidade. O livro deve ser lido em confronto com a experiência de seus destinatários, não como narrativa incontestável.
 
 ## World Order, de 2014: quatro tradições de legitimidade
+
+Em ensaio original de 2014, Kissinger contrasta tradições europeias de Estados concorrentes com a concepção americana da democracia como fonte de estabilidade global. A resenha de Bryan Griffin na Columbia University analisa as concepções regionais, a tecnologia e os limites dessa busca de ordem. Essas fontes permitem localizar teses identificáveis do autor sem assumir aceitação universal de seu modelo. [25][26]
+
+
 
 Duas décadas depois, *World Order* examinou a dificuldade de construir ordem internacional compartilhada entre tradições civilizacionais distintas. A obra compara a experiência europeia associada à Paz de Vestfália e ao pluralismo entre soberanias, concepções políticas do Oriente Médio, a diversidade histórica da Ásia e a visão americana de ordem universal. Analisa ainda a questão iraniana, a relação sino-americana e os efeitos da tecnologia sobre consciência, autoridade e decisões estratégicas. O sumário registrado em catálogos universitários documenta essa arquitetura temática. [6][19]
 
@@ -143,12 +151,6 @@ O desafio tornou-se particularmente importante durante a descolonização. Estad
 Defensores de Kissinger destacam a abertura com a China, a distensão nuclear e acordos diplomáticos como demonstrações de capacidade estratégica. Críticos observam que determinadas vitórias de negociação coexistiram com bombardeios, apoio a governos repressivos e omissão diante de crimes em massa. As duas avaliações operam em escalas diferentes: evitar confronto entre superpotências não anula perdas de vida em países terceiros; denunciar essas perdas não apaga acordos cuja influência histórica pode ser documentada. [4][20]
 
 Uma comparação rigorosa perguntaria quais alternativas estavam disponíveis ao presidente e aos governos estrangeiros em cada episódio. Poderia Washington abrir canais com Pequim sem apoiar Yahya Khan? Teria sido possível reduzir participação no Vietnã com menos violência no Camboja? Quais instrumentos podiam limitar apoio à ditadura chilena? Os documentos ajudam a identificar escolhas reais; não fornecem respostas automáticas. Evitar a falsa equivalência entre resultados estratégicos e custos humanos é condição para compreender tanto a eficácia quanto as consequências de suas ações.
-
-## Churchill, Bretton Woods e a ordem internacional herdada por Kissinger
-
-A estratégia do pós-guerra formulada por Kissinger surgiu numa estrutura internacional que Reino Unido e Estados Unidos ajudaram a preservar e reformular durante a Segunda Guerra. A recusa de Churchill a uma paz separada em 1940 conservou uma base militar aliada; a vitória posterior criou condições para a predominância americana e as Nações Unidas. Bretton Woods, conferência da qual Roberto Campos participou pela delegação brasileira em 1944, tratou de outra dimensão da mesma reconstrução: pagamentos internacionais, estabilidade cambial e crédito. [1][2]
-
-As três carreiras ocorreram em níveis institucionais diferentes. Churchill dirigia estratégia militar e imperial; Campos negociava a inserção de país em desenvolvimento na ordem econômica emergente; Kissinger passou a administrar a competição estratégica num mundo nuclear. A continuidade está na necessidade de instituições e distribuição de poder. O conflito está em quem participa: colônias, países periféricos e civis atingidos por decisões de grandes potências não possuíam a mesma autoridade dos governos que construíam acordos. A comparação estrutural não implica colaboração pessoal entre os três.
 
 ## Kissinger após 1977: consultoria, livros e influência não governamental
 
