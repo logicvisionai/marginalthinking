@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-LAND",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T07:39:43.343Z",
+  "reviewed_commit": "cd5714cb9371a45425a194f4262054f099ff1227",
+  "pending_blob_sha": "28cab3136090858f2f218f5656341cf0cfa7f6a0",
+  "source_blob_shas": {
+    "en": "ac7c158dc90e341cd8b802b1fb4ce78692539887",
+    "pt-BR": "7cf643a85364c33f58cc0615c9c964ff106014cf"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "visual_evidence_readiness",
+      "location": "Staged EN and PT-BR Markdown lines 164–178, both `chart` fences",
+      "issue": "Both bar charts quantify only arbitrarily selected elapsed periods (20/5 and 1/10 years) between texts or intellectual milestones. The first juxtaposes the duration of an anthology's coverage with a later publication gap, while the second juxtaposes unrelated intervals between distinct authors' manifestos. These are legitimate calendar calculations, but they are not independent quantitative evidence for ideological transmission, productive capability, capital allocation or institutional change. RESEARCH-VISUALS.md § QA gate expressly rejects redundant/decorative charts even when the mechanical two-chart count passes.",
+      "evidence": [
+        "EN chart 1: '1987–2007 collected corpus span | 20' versus '2007–2012 later political essay interval | 5'; EN chart 2: '2012 Dark Enlightenment to 2013 left manifesto | 1' versus '2013 left manifesto to 2023 techno-optimist manifesto | 10'.",
+        "PT-BR has the identical numerical arrays [[20,5],[1,10]], with chronology as the sole numerical measure.",
+        "The main thesis concerns intellectual changes and claims about economic and political mechanisms; no source-derived measure of those mechanisms appears in either bar chart."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Staged EN/PT-BR Markdown lines 193–200, Connected research / Pesquisas relacionadas",
+      "issue": "Four linked internal HTML report destinations are absent from the public metadata tree at the reviewed HEAD. These are unpublished pending/rejected studies, so publishing this draft independently would create broken navigation in both locales.",
+      "evidence": [
+        "No reports/**/metadata.json exists for the linked slugs Curtis Yarvin, Peter Thiel, Elon Musk, or the accelerationism genealogy at HEAD cd5714cb9371a45425a194f4262054f099ff1227.",
+        "EN targets /reports/2026/10/<slug>.html and PT-BR targets /pt-br/reports/2026/10/<slug>.html.",
+        "The corresponding Yarvin, Musk and accelerationism drafts have existing QA rejections; Thiel remains without QA approval."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the chronology-only bar charts with at least two source-reproducible quantitative comparisons directly relevant to the thesis and clearly defined by unit, population, period and status. If such measures are unavailable, present chronology in a table and use structural visual evidence without fabricating observations; do not represent the current charts as sufficient.",
+    "Remove or defer all four public hyperlinks in EN and PT-BR until their targets have independent QA approval and a public metadata bundle. Plain-text discussion of related actors may remain. Recheck target existence immediately before next QA.",
+    "Preserve canonical ID and slug, update both staged Markdown files and then increment revision in pending v2 last; do not change public surfaces."
+  ],
+  "evidence": [
+    "Reviewed HEAD cd5714cb9371a45425a194f4262054f099ff1227; pending blob 28cab3136090858f2f218f5656341cf0cfa7f6a0; EN blob ac7c158dc90e341cd8b802b1fb4ce78692539887; PT-BR blob 7cf643a85364c33f58cc0615c9c964ff106014cf.",
+    "Deterministic expressions from scripts/validate-editorial-depth.mjs reproduced: EN 4782 substantive words, 16 URLs, 10 hosts, 22 H2 sections; PT-BR 4516 words, 16 URLs, 10 hosts, 22 H2 sections. Each has 2 charts, 1 flow, 1 map, 13 table rows and identical numeric series [[\"20\",\"5\"],[\"1\",\"10\"]].",
+    "Urbanomic primary publisher catalog identifies Fanged Noumena as Collected Writings 1987–2007: https://www.urbanomic.com/edition/fanged-noumena-fourth-edition/",
+    "Christian Fuchs, 'The TOXIC schema: How Nick Land’s Dark Enlightenment works', Thesis Eleven, first published 2026-09-16: https://journals.sagepub.com/doi/10.1177/07255136261487456"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_for_checked_fields",
+      "notes": "Pending schema_version 2, ready true, revision 1, canonical ID/slug and staged paths consistent with current taxonomy program and format."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "Exact Git blobs read for pending and both staged editions at reviewed HEAD; 3/3 SHA verified."
+    },
+    "research_depth": {
+      "result": "passed",
+      "en_words": 4782,
+      "pt_br_words": 4516,
+      "en_h2": 22,
+      "pt_br_h2": 22,
+      "source_urls_each": 16,
+      "distinct_hosts_each": 10,
+      "notes": "Mechanical editorial-depth thresholds and chart numeric parity passed; full Node validators not executed."
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "notes": "Original Urbanomic publisher catalog and the September 2026 scholarly article independently checked; exhaustive claim-by-claim verification deferred because publication-blocking defects remain."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "The prose separates intellectual resemblance from institutional control and discusses falsifiability, but numerical visuals do not independently test the mechanisms."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "EN/PT-BR share 22 H2 sections, 16 reference URLs, 10 hosts, identical numeric chart series, visual counts and four missing public targets."
+    },
+    "novelty_vs_corpus": {
+      "result": "partial",
+      "notes": "Distinct intellectual biography from other staged strategic-actor drafts; overlapping material with the accelerationism corpus requires a final novelty pass after revisions."
+    },
+    "source_dates_and_attribution": {
+      "result": "passed_for_checked_claims",
+      "notes": "1987–2007 collection period confirmed by publisher; 2026 Fuchs study date and title confirmed by journal. This does not validate every citation."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two elapsed-time bar charts do not constitute substantive evidence of the central intellectual/economic/institutional mechanisms despite formal numeric and bilingual parity."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Four internal report links lack public targets at reviewed HEAD; do not publish."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Full repository Node scripts unavailable for execution in connector-only environment; inspected script logic and reproduced relevant deterministic checks on exact Git source blobs."
+    }
+  },
+  "contrary_evidence": [
+    "Publisher's 1987–2007 coverage period does not itself establish continuous ideological development or intellectual influence.",
+    "Shared technological vocabulary is not evidence of direct mentorship, capital control or governmental direction."
+  ],
+  "limitations": [
+    "No complete Node validation was run; reproduction of the relevant deterministic checks is not a substitute for full pipeline validation.",
+    "Source spot-checks are limited; full factual audit must be completed before any later approval.",
+    "Two blocking defects require revision in both locales."
+  ],
+  "notes": "Independent QA rejection. Route to producer 3/5. No public, institutional, CSS, index, taxonomy or staged content modified; no separate task execution claimed."
+}
