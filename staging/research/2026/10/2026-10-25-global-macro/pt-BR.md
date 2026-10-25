@@ -118,7 +118,7 @@ Dois riscos de transmissão se destacam: interrupção marítima de oferta compr
 
 [10] ONS britânico, varejo de setembro de 2026, divulgado 23/out: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026
 
-[11] Instituto de Estatística do Japão, CPI de setembro divulgado 23/out: https://www.stat.go.jp/english/
+[11] Instituto de Estatística do Japão, CPI de setembro divulgado 23/out: https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.htm
 
 [12] Governo Federal do Brasil, processo de tramitação PPA/LDO/LOA: https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional
 
