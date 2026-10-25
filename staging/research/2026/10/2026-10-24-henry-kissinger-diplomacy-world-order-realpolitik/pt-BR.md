@@ -194,6 +194,14 @@ Chile e Timor-Leste | Intervenção e alianças de segurança | Custos da polít
 Egito, Israel e Síria | Negociação no Oriente Médio | Acordos parciais após guerra
 ```
 
+```chart
+type: bar
+title: Cargos executivos simultâneos exercidos por Kissinger nos Estados Unidos
+unit: anos nominais aproximados de cada cargo; mandatos simultâneos não são somáveis
+Conselheiro de Segurança Nacional 1969–1975 | 6
+Secretário de Estado 1973–1977 | 4
+```
+
 ## Fontes documentais e bibliografia
 
 [1] U.S. Department of State, Office of the Historian, biografia e cargos oficiais: https://history.state.gov/departmenthistory/people/kissinger-henry-a
