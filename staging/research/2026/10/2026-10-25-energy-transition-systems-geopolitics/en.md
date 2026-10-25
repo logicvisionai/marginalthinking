@@ -254,8 +254,17 @@ United States | Innovation, finance and industrial policy | Regulatory and geogr
 Brazil | High renewable electricity share and natural resources | Grid, industrial and non-electric-use constraints
 ```
 
-## References
 
+
+```chart
+type: bar
+title: Global renewable additions, IRENA 2025
+unit: % of newly added global power capacity
+Renewables | 85.6
+Other sources | 14.4
+```
+
+## References
 [1] IRENA, *Renewable Capacity Statistics 2026*, 1 April 2026: https://www.irena.org/News/pressreleases/2026/Apr/Near-700-GW-Surge-in-2025-Proves-Renewable-Energy-Resilience
 
 [2] IEA, *Global Energy Review 2026*, 20 April 2026, emissions chapter: https://www.iea.org/reports/global-energy-review-2026/co2-emissions
