@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-25",
+  "slug": "2026-10-25-global-macro",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "capital-markets",
+    "monetary-policy",
+    "sovereign-debt",
+    "energy",
+    "trade-investment",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "political-stability",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "producer_checks": {
+    "information_cutoff": "Early Sunday 25 October 2026, 05:00 BRT; last completed liquid market session Friday 23 October. No second-round result, Sunday Brazilian market close or post-election prices included.",
+    "novelty": "Sunday 25 October Brazilian runoff is new discrete political information after the 24 October cross-region PMI report; Friday Gulf oil repricing is contextual transmission, not recycled central thesis.",
+    "visual_signature": "Bilingual chart series [[\"47.03\",\"45.16\"],[\"116.72\",\"103.27\"]], 1 dated evidence table, 1 two-chain flow and 1 geographic mechanism map per locale.",
+    "source_check": "15 dated bilingual sources; direct TSE, Treasury, ICI, IEA, ONS, Statistics Bureau of Japan Sep CPI, Brazilian planning and BCB documentation; separate historical Brent/WTI market-price tables, no Reuters.",
+    "bilingual_parity": "Six aligned analytical H2 sections, 15 source entries, matched data and concepts, chart numeric parity, separate post-election/fiscal risk qualifications.",
+    "research_depth": "Validated producer counting proxy: EN 2064, PT-BR 2299 substantive words excluding code fences and URLs; 6 H2 analytical sections each, 2 numeric charts, table, causal flow, map.",
+    "qa_handoff": "Previous QA rejection revision 0 remedied in staging; further independent review and SHA-bound approval required before public promotion."
+  },
+  "revision": 1,
+  "revision_reason": "Resolve r0 independent QA depth rejection: six substantive sections in both editions, greater than 1,700 words in both; new documented PPA/LDO/LOA and BCB autonomy channel. Replace Reuters with two distinct dated market-price sources, preserve numerical chart parity.",
+  "url": "/reports/2026/10/2026-10-25-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-25T15:26:42.492Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "66a7090234810472df581548fa8e98ddd5ff195b",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Brazil votes while a Gulf oil premium waits for the next market opening",
+      "deck": "Brazil's Sunday runoff creates a closed-market political information shock as Friday's crude futures reflect renewed Gulf shipping risk; the cross-asset transmission depends on fiscal institutions, dollar yields and physical throughput.",
+      "tags": [
+        "global macro",
+        "Brazil election",
+        "Brent crude",
+        "US Treasuries",
+        "geopolitical risk",
+        "energy shipping"
+      ],
+      "keywords": [
+        "25 October 2026",
+        "Brazil runoff October 25 2026",
+        "Brent WTI October 23 2026",
+        "Treasury October 23 2026",
+        "Gulf energy logistics",
+        "institutional political risk"
+      ],
+      "regime": "Weekend political information shock alongside elevated dollar financing costs and Gulf energy-transport risk.",
+      "key_risk": "Conflating an unobserved Brazilian election result and reported Gulf threats with verified asset repricing or physical oil supply losses.",
+      "watch": [
+        "TSE certified runoff result and turnout",
+        "Monday BRL, DI yields and B3 breadth versus emerging-market peers",
+        "Verified Gulf tanker throughput, freight and insurance",
+        "US real yields, breakevens and credit spreads"
+      ],
+      "search_text": "Global Macro 25 October 2026 Brazil runoff Lula Flavio Bolsonaro Gulf shipping Brent WTI Treasury 2y 10y 30y cross asset political risk energy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Macro Global — Brasil vota enquanto o prêmio de risco do petróleo aguarda a reabertura dos mercados",
+      "deck": "O segundo turno brasileiro cria um choque político de informação com mercados fechados, enquanto o petróleo reflete riscos renovados à navegação no Golfo; a transmissão depende de instituições fiscais, juros em dólar e fluxos físicos.",
+      "tags": [
+        "macro global",
+        "eleição brasileira",
+        "petróleo Brent",
+        "Treasuries",
+        "risco geopolítico",
+        "transporte energético"
+      ],
+      "keywords": [
+        "25 October 2026",
+        "Brazil runoff October 25 2026",
+        "Brent WTI October 23 2026",
+        "Treasury October 23 2026",
+        "Gulf energy logistics",
+        "institutional political risk"
+      ],
+      "regime": "Choque político de informação no fim de semana, com financiamento em dólar caro e risco ao transporte energético no Golfo.",
+      "key_risk": "Confundir resultado eleitoral ainda não observado e ameaças relatadas no Golfo com reprecificação comprovada de ativos ou perdas físicas de oferta.",
+      "watch": [
+        "Resultado oficial e comparecimento do segundo turno no TSE",
+        "Real, juros DI e amplitude da B3 na segunda-feira versus emergentes",
+        "Volume físico de navios no Golfo, fretes e seguros",
+        "Juros reais americanos, inflação implícita e spreads de crédito"
+      ],
+      "search_text": "Macro Global 25 outubro 2026 segundo turno Brasil Lula Flavio Bolsonaro transporte Golfo Brent WTI Treasury juros câmbio risco político energia"
+    }
+  }
+}
