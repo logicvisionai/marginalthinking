@@ -144,6 +144,12 @@ Defensores de Kissinger destacam a abertura com a China, a distensão nuclear e 
 
 Uma comparação rigorosa perguntaria quais alternativas estavam disponíveis ao presidente e aos governos estrangeiros em cada episódio. Poderia Washington abrir canais com Pequim sem apoiar Yahya Khan? Teria sido possível reduzir participação no Vietnã com menos violência no Camboja? Quais instrumentos podiam limitar apoio à ditadura chilena? Os documentos ajudam a identificar escolhas reais; não fornecem respostas automáticas. Evitar a falsa equivalência entre resultados estratégicos e custos humanos é condição para compreender tanto a eficácia quanto as consequências de suas ações.
 
+## Churchill, Bretton Woods e a ordem internacional herdada por Kissinger
+
+A estratégia do pós-guerra formulada por Kissinger surgiu numa estrutura internacional que Reino Unido e Estados Unidos ajudaram a preservar e reformular durante a Segunda Guerra. A recusa de Churchill a uma paz separada em 1940 conservou uma base militar aliada; a vitória posterior criou condições para a predominância americana e as Nações Unidas. Bretton Woods, conferência da qual Roberto Campos participou pela delegação brasileira em 1944, tratou de outra dimensão da mesma reconstrução: pagamentos internacionais, estabilidade cambial e crédito. [1][2]
+
+As três carreiras ocorreram em níveis institucionais diferentes. Churchill dirigia estratégia militar e imperial; Campos negociava a inserção de país em desenvolvimento na ordem econômica emergente; Kissinger passou a administrar a competição estratégica num mundo nuclear. A continuidade está na necessidade de instituições e distribuição de poder. O conflito está em quem participa: colônias, países periféricos e civis atingidos por decisões de grandes potências não possuíam a mesma autoridade dos governos que construíam acordos. A comparação estrutural não implica colaboração pessoal entre os três.
+
 ## Kissinger após 1977: consultoria, livros e influência não governamental
 
 Depois de deixar o governo, Kissinger fundou a Kissinger Associates e continuou ativo como consultor, escritor e interlocutor de empresas e dirigentes estrangeiros. O papel mudou: sem mandato público, suas opiniões podiam influenciar debates e redes políticas, mas não eram ordens oficiais do Departamento de Estado. Sua presença em comissões, conferências e publicações prolongou a circulação da visão de mundo formulada em Harvard e praticada durante a Guerra Fria. Ele morreu em 29 de novembro de 2023, aos cem anos. [1][2]
