@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-YARVIN",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T06:35:59.731Z",
+  "reviewed_commit": "625b38a1788311bdc09cf1889efca8713da9d28b",
+  "pending_blob_sha": "95bbc3ee986533b3f756e697b9c403a1b141f789",
+  "source_blob_shas": {
+    "en": "f687c3ee30945011a2cf6e5bd208ac2ea9e9c018",
+    "pt-BR": "addb68b8e4e31f51688cea1784ee5e4bb26e4437"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "visual_evidence_readiness",
+      "location": "EN and PT-BR staged Markdown, lines 155–169; two `chart` blocks",
+      "issue": "Both charts encode only elapsed years between selected intellectual-publication dates (5/8 and 7/6 years). These arbitrary intervals do not quantify the political reach, governance outcomes, network transmission or technological performance central to the report. The second chart repeats the same type of chronology, so the two-chart mechanical floor is met but the substantive evidence requirement of RESEARCH-VISUALS.md and BIOGRAPHICAL-RESEARCH.md is not.",
+      "evidence": [
+        "EN chart titles: 'Intervals between documented publication milestones' and 'Distinct documented phases in Yarvin's writing'; PT-BR titles: 'Intervalos entre marcos documentados da produção intelectual' and 'Fases distintas das publicações de Yarvin'.",
+        "Both locales have exactly chart arrays [[5,8],[7,6]]; no quantitative causal or comparative institutional series is attached to the main claims.",
+        "The prose explicitly disclaims influence measurement; elapsed dates are not fabricated but the visual choice does not test the report's arguments."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "EN lines 184–191, PT-BR lines 184–191: Connected research / Pesquisas relacionadas",
+      "issue": "Four internal hyperlinks point to reports that are not QA-approved or materialized at the reviewed HEAD. Publishing Yarvin independently would introduce four broken public destinations, including the accelerationism dossier already rejected at revision 1.",
+      "evidence": [
+        "Missing public metadata and index IDs: MT-SA-2026-10-24-LAND, MT-SA-2026-10-24-THIEL, MT-SA-2026-10-24-MUSK, MT-HT-2026-10-24-ACCELERATIONISM.",
+        "The `data/reports.json` index and `reports/**/metadata.json` tree at reviewed HEAD contain none of these IDs/slugs.",
+        "EN links target /reports/2026/10/*.html; PT-BR links target /pt-br/reports/2026/10/*.html."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the two chronology-as-bar-chart blocks with at least two source-reproducible, analytically meaningful quantitative comparisons tied to actual intellectual transmission, verifiable institutional outcomes, or documented engineering adoption, with identical units/status/period definitions. If suitable quantitative evidence is unavailable, use a chronology table or structural diagram for dates, but do not fabricate numeric observations or count ornamental charts as substantive evidence.",
+    "Remove/defer all four public hyperlinks in both languages until their target reports are independently QA-approved and publicly materialized; plain-text contextual references may remain. Recheck the public index immediately before the next QA decision.",
+    "Keep ID and canonical slug unchanged, revise both staged Markdown editions, update the pending v2 sidecar last with a new revision and blob SHA; do not modify public files."
+  ],
+  "evidence": [
+    "Reviewed HEAD 625b38a1788311bdc09cf1889efca8713da9d28b; exact Git blobs pending 95bbc3ee986533b3f756e697b9c403a1b141f789, EN f687c3ee30945011a2cf6e5bd208ac2ea9e9c018, PT-BR addb68b8e4e31f51688cea1784ee5e4bb26e4437.",
+    "Exact editorial-depth regex from scripts/validate-editorial-depth.mjs reproduced on these blobs: EN 4,775 substantive words, PT-BR 4,571; 21 H2 sections, 16 distinct source URLs, 15 hosts, 2 chart fences, 1 flow, 1 map and 12 table lines in each locale; both numeric chart arrays [[5,8],[7,6]].",
+    "Princeton Digital Collections catalog independently identifies Curtis Yarvin as author of 'A formalist manifesto' (2007): https://digital-collections.princeton.edu/i/a-formalist-manifesto/item/3bb1128d-b60c-4db7-a9b0-4a93b6725f75/metadata",
+    "Primary Yarvin essay dated 24 April 2007: https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/",
+    "IWM/James Rosenberg independently describes the corporate-sovereignty and elite-theory interpretations: https://www.iwm.at/publication/iwmpost-article/curtis-yarvin-postliberalism-with-computational-characteristics",
+    "US Office of Personnel Management directly cites 5 U.S.C. 2301/2302: https://www.opm.gov/policy-data-oversight/oversight-and-effectiveness/oversight-responsibility",
+    "The scholarly elite-theory article cited as [16] addresses Mosca, Pareto and Michels: https://pmc.ncbi.nlm.nih.gov/articles/PMC9046547/"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "schema_version 2, ready true, ID and slug consistent, source_locale en, controlled taxonomy program/topics/phenomena/format/cadence valid."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "All three Git blobs independently read at exact reviewed HEAD; staged paths match pending sources; both Markdown files present."
+    },
+    "research_depth": {
+      "result": "passed",
+      "en_words": 4775,
+      "pt_br_words": 4571,
+      "en_h2": 21,
+      "pt_br_h2": 21,
+      "source_urls_each": 16,
+      "distinct_hosts_each": 15,
+      "notes": "Minimum strict quantitative editorial-depth expressions passed, without executing the complete Node script."
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "notes": "Primary 2007 text, Princeton archival catalog, IWM analysis, OPM statutory explanation and elite-theory paper independently spot-checked; full sentence-level citation audit was not completed because blocking defects require revision."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "The prose distinguishes citation/investment from political control and proposes falsifiers for concentrated executive governance, but the quantitative figures cannot test those claims."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Same 21 H2 sections, 16 reference URLs, two numeric chart arrays, visual counts and four broken target slugs; reviewed EN/PT-BR passages are substantively equivalent."
+    },
+    "novelty_vs_corpus": {
+      "result": "partial",
+      "notes": "This is an individual intellectual biography, distinct from the pending Land/Thiel/Musk/accelerationism subjects, but the four cross-links are not publicly available."
+    },
+    "source_dates_and_attribution": {
+      "result": "passed_for_checked_claims",
+      "notes": "Primary manifesto dated 24 April 2007; Princeton catalog lists 2007; Gray Mirror 'Coriolanus and the conservatives' dated 2 March 2021; OPM confirms cited statutes. Media-reported political connections are qualified as attributed."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two arbitrary elapsed-year charts are chronological illustrations, not empirical tests of a documented mechanism. Bilingual numeric parity and mechanical counts pass."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Four broken internal report links in both languages; linked research not QA-approved/published at reviewed HEAD."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "GitHub connector allows full source and validator inspection but does not provide local Node execution; deterministic depth expressions and relevant visual floor were reproduced."
+    }
+  },
+  "contrary_evidence": [
+    "Yarvin's documented criticism of DOGE is inconsistent with a simple one-command-chain theory linking him and Musk.",
+    "Venture investment and public citations do not establish direction of government policy.",
+    "IWM scholarly analysis and primary texts confirm the anti-democratic argument while not proving administrative performance."
+  ],
+  "limitations": [
+    "Quantitative depth and visual counts are necessary but not sufficient for independent approval.",
+    "The full repository Node validators could not be executed in this connector-only runtime.",
+    "Selected original sources were independently verified, but an exhaustive source-by-source audit is deferred until visual and public-link defects are corrected."
+  ],
+  "notes": "Independent QA rejection of unchanged staged revision 1. No public files or producer sources altered. Route corrective work to producer 3/5; no separate task execution claimed."
+}
