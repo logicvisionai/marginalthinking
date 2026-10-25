@@ -201,6 +201,15 @@ Estados Unidos / Vale do Silício | Yarvin, Thiel, Musk e investimentos | Empres
 Comunidades digitais transnacionais | e/acc e difusão ideológica | Sem cadastro único ou governo central
 ```
 
+## Pesquisas relacionadas da série
+
+Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** As quatro biografias distinguem influência textual, relações empresariais, investimentos e analogias políticas.
+
+- [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+
 ## Fontes e obras
 
 [1] Benjamin Noys, *The Persistence of the Negative* (2010): https://academic.oup.com/edinburgh-scholarship-online/book/17894/chapter-abstract/175688946
