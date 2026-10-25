@@ -163,18 +163,20 @@ Uma hipótese concorrente afirma que dinamismo tecnológico e controle democrát
 
 ```chart
 type: bar
-title: Períodos entre marcos centrais de publicação
-unit: anos decorridos; não representam medida da influência das ideias
-1987–2007 duração do corpus reunido | 20
-2007–2012 intervalo até ensaio político | 5
+title: Transistores médios por microprocessador em log10 (série histórica OWID)
+unit: log10 dos transistores por microprocessador, aproximado; contagens originais 1971 2.308 e 2021 58,2 bilhões
+1971 observado | 3.36
+2021 observado | 10.76
 ```
 
 ```chart
 type: bar
-title: Intervalos de transformação intelectual entre obras documentadas
-unit: anos decorridos entre publicações
-2012 Dark Enlightenment a manifesto de 2013 | 1
-2013 manifesto de esquerda a tecno-otimismo de 2023 | 10
+title: Fontes de eletricidade utilizadas pelos centros de dados mundiais em 2024 (AIE)
+unit: % aproximados da eletricidade consumida, participações arredondadas e não exaustivas
+Carvão | 30
+Renováveis | 27
+Gás natural | 26
+Nuclear | 15
 ```
 
 ```flow
@@ -190,14 +192,15 @@ Estados Unidos / Vale do Silício | Debates posteriores sobre tecnologia e capit
 Ambiente digital transnacional | Circulação de Dark Enlightenment e e/acc | Adoção online não comprova mentoria
 ```
 
-## Pesquisas relacionadas da série
+## Comparação empírica documentada
 
-Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** A soberania formalista de Yarvin, as instituições financeiras de Thiel, a indústria de Musk e a genealogia filosófica do tema.
+## A aceleração tecnológica depende de capital físico e eletricidade
 
-- [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
-- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
-- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
-- [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+Uma tendência técnica mensurável não demonstra que o capital seja literalmente uma inteligência autônoma. A Our World in Data registra média estimada de 2.308 transistores por microprocessador em 1971 e 58,2 bilhões em 2021, correspondendo a aproximadamente 2,03 anos por duplicação ao longo da série. Os valores logarítmicos do primeiro gráfico (log10 das contagens divulgadas, arredondado a duas casas) permitem representar crescimento exponencial numa escala legível. Não medem capacidade dos modelos, produtividade do trabalho, influência política ou consciência. [17]
+
+O segundo limite é físico. Na estimativa da AIE publicada em 2025, a geração de eletricidade que abasteceu centros de dados em 2024 veio aproximadamente de carvão (30%), renováveis (27%), gás natural (26%) e energia nuclear (15%). As participações são arredondadas e não esgotam todas as fontes. Essa composição representa infraestrutura energética, não a participação da IA no consumo mundial nem os efeitos políticos do CCRU. [18]
+
+A ideia de Land de retroalimentação entre técnica e finanças encontra objeto testável na fabricação de semicondutores, nas redes elétricas e no investimento. Mas maior integração de transistores não demonstra destino inevitável para governo, trabalho ou desigualdade. Eletricidade, minerais, propriedade e organização jurídica tornam o processo supostamente abstrato dependente de instituições e limites materiais.
 
 ## Fontes e bibliografia
 
@@ -232,3 +235,7 @@ Os estudos compartilham interseções intelectuais, empresariais ou instituciona
 [15] Andy Beckett, reconstrução com entrevistas, *Guardian*, 2017: https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
 
 [16] Routledge, registro editorial de *The Thirst for Annihilation*, de Nick Land (1992): https://www.routledge.com/The-Thirst-for-Annihilation-Georges-Bataille-and-Virulent-Nihilism/Land/p/book/9780415056076
+
+[17] Our World in Data, Moore's law: mean microprocessor transistor count 1971 and 2021: https://ourworldindata.org/data-insights/moores-law-has-accurately-predicted-the-progress-in-transistor-counts-over-the-last-50-years
+
+[18] Agência Internacional de Energia, Energy and AI (2025), global energy supply for data centres: https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
