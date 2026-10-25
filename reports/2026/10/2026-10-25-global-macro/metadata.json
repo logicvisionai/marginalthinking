@@ -47,15 +47,15 @@
     "source_check": "15 dated bilingual sources; direct TSE, Treasury, ICI, IEA, ONS, Statistics Bureau of Japan Sep CPI, Brazilian planning and BCB documentation; separate historical Brent/WTI market-price tables, no Reuters.",
     "bilingual_parity": "Six aligned analytical H2 sections, 15 source entries, matched data and concepts, chart numeric parity, separate post-election/fiscal risk qualifications.",
     "research_depth": "Validated producer counting proxy: EN 2064, PT-BR 2299 substantive words excluding code fences and URLs; 6 H2 analytical sections each, 2 numeric charts, table, causal flow, map.",
-    "qa_handoff": "Previous QA rejection revision 0 remedied in staging; further independent review and SHA-bound approval required before public promotion."
+    "qa_handoff": "Revision 2 addresses the public editorial self-reference linter; QA source and numerical evidence unchanged. Publisher must atomically update approved snapshot, public text and index."
   },
-  "revision": 1,
-  "revision_reason": "Resolve r0 independent QA depth rejection: six substantive sections in both editions, greater than 1,700 words in both; new documented PPA/LDO/LOA and BCB autonomy channel. Replace Reuters with two distinct dated market-price sources, preserve numerical chart parity.",
+  "revision": 2,
+  "revision_reason": "Editorial copy correction after public r1 validator failure: replace first-person editorial self-reference in PT-BR body. No historical data, chart, figures, or external citations changed.",
   "url": "/reports/2026/10/2026-10-25-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-25T15:26:42.492Z",
+  "qa_reviewed_at": "2026-10-25T15:41:37.955Z",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "66a7090234810472df581548fa8e98ddd5ff195b",
+  "qa_reviewed_commit": "be4b9406c47a5ef9b76e2a00393d78989c815eeb",
   "locales": {
     "en": {
       "markdown": "en.md",

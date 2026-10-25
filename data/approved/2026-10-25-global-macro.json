@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "id": "MT-GM-2026-10-25",
-  "revision": 1,
+  "revision": 2,
   "qa_status": "approved",
-  "reviewed_at": "2026-10-25T15:26:42.492Z",
-  "reviewed_commit": "66a7090234810472df581548fa8e98ddd5ff195b",
-  "pending_blob_sha": "e1d603609ab9b6f90fc3654e94a98b1c6fa1a718",
+  "reviewed_at": "2026-10-25T15:41:37.955Z",
+  "reviewed_commit": "be4b9406c47a5ef9b76e2a00393d78989c815eeb",
+  "pending_blob_sha": "48f217d4003973fa3706f34c74f27dad25d54084",
   "source_blob_shas": {
     "en": "e8e45a5f7c10e9499e08aee8b6f5fa91d8138d6f",
-    "pt-BR": "5b36f88ef24600cfdb6bae65fd8140564e87dd64"
+    "pt-BR": "e21fe43b57878e3f3fc34502321155c12ef194f1"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -42,7 +42,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Six causal sections with legal-institutional fiscal detail, policy financing and oil trade transmission. Original release explicitly early Sunday before the second-round outcome; language avoids winner prediction and trade advice."
+      "summary": "Reviewed r2 PT-BR body copyedit: replaced 'Esta análise não pressupõe vencedor.' with a directly stated pre-count election limitation. No self-referential 'este/esta artigo/relatório/análise/pesquisa' strings remain in public prose. Earlier six evidence-grounded sections and the English edition unchanged."
     }
   },
   "contrary_evidence": [
@@ -57,7 +57,7 @@
     "The market-price history source is a secondary trading-data service rather than an exchange-certified final contract settlement.",
     "Site deployment, live availability and crawl visibility require downstream independent build verification."
   ],
-  "notes": "Focused editorial QA after prior revision-0 rejection. Primary statistical, legal and electoral observations independently checked in a new review pass against dated original sources; revisions correct documented gates. Approval binds exact revised pending/source Git blobs and does not endorse any other pending biographies.",
+  "notes": "r2 copy-edit verification corrects exactly one PT-BR self-reference rejected by public validator; quantitative data, sources, EN and all prior independent factual/evidence checks unchanged; binds to PT and pending new source hashes.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -169,9 +169,9 @@
       "source_check": "15 dated bilingual sources; direct TSE, Treasury, ICI, IEA, ONS, Statistics Bureau of Japan Sep CPI, Brazilian planning and BCB documentation; separate historical Brent/WTI market-price tables, no Reuters.",
       "bilingual_parity": "Six aligned analytical H2 sections, 15 source entries, matched data and concepts, chart numeric parity, separate post-election/fiscal risk qualifications.",
       "research_depth": "Validated producer counting proxy: EN 2064, PT-BR 2299 substantive words excluding code fences and URLs; 6 H2 analytical sections each, 2 numeric charts, table, causal flow, map.",
-      "qa_handoff": "Previous QA rejection revision 0 remedied in staging; further independent review and SHA-bound approval required before public promotion."
+      "qa_handoff": "Revision 2 addresses the public editorial self-reference linter; QA source and numerical evidence unchanged. Publisher must atomically update approved snapshot, public text and index."
     },
-    "revision": 1,
-    "revision_reason": "Resolve r0 independent QA depth rejection: six substantive sections in both editions, greater than 1,700 words in both; new documented PPA/LDO/LOA and BCB autonomy channel. Replace Reuters with two distinct dated market-price sources, preserve numerical chart parity."
+    "revision": 2,
+    "revision_reason": "Editorial copy correction after public r1 validator failure: replace first-person editorial self-reference in PT-BR body. No historical data, chart, figures, or external citations changed."
   }
 }

@@ -88,7 +88,7 @@ O efeito distributivo potencial da energia cara é relevante, mas desigual. Fam�
 
 ## Distorções e evidências capazes de contrariar a hipótese
 
-A primeira assimetria é a **chegada de informação política enquanto o mercado brasileiro à vista está fechado**. Uma abertura forte na segunda-feira poderá revelar mudança de expectativas, mas somente em conjunto com volumes negociados, dólar global, ativos emergentes comparáveis e agenda efetiva de governo. Nas semanas seguintes, propostas fiscais, nomeações e negociações no Congresso poderão confirmar ou reverter a leitura inicial. Esta análise não pressupõe vencedor.
+A primeira assimetria é a **chegada de informação política enquanto o mercado brasileiro à vista está fechado**. Uma abertura forte na segunda-feira poderá revelar mudança de expectativas, mas somente em conjunto com volumes negociados, dólar global, ativos emergentes comparáveis e agenda efetiva de governo. Nas semanas seguintes, propostas fiscais, nomeações e negociações no Congresso poderão confirmar ou reverter a leitura inicial. Nenhum resultado eleitoral é pressuposto antes da apuração oficial.
 
 A segunda é a **diferença entre os referenciais de petróleo e a oferta efetivamente entregue**. O diferencial Brent–WTI é observável; sua parcela atribuível ao Golfo não é. Fluxo de petroleiros, operações portuárias, estoques de derivados e preços de seguro e frete indicarão se o mercado subestima ou exagera uma interrupção física. Distensão diplomática ou entregas estáveis enfraqueceriam a hipótese de escassez. Liquidez e acesso variam consideravelmente entre contratos físicos de energia, ações e dívida soberana.
 
