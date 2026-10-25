@@ -263,8 +263,25 @@ Platform political economy
   - Labor rights
 ```
 
-## References
 
+
+```chart
+type: bar
+title: Composition of global venture funding in 2025, OECD
+unit: % of VC
+AI | 61
+Other sectors | 39
+```
+
+```map
+title: Institutional geography of platform power
+United States | Headquarters of major cloud and platform providers | Corporate headquarters and served markets are not equivalent
+European Union | Digital Markets Act and competition enforcement | Measures and duties vary by gatekeeper
+Brazil | Public payment infrastructure and digital regulation | PIX does not eliminate dependence on private infrastructure
+Developing economies | Dependence on imported digital capabilities | Conditions vary by sector and domestic productive capacity
+```
+
+## References
 [1] Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023), conceptual discussion: https://www.yanisvaroufakis.eu/2024/01/13/qa-on-technofeudalism-interviewed-by-lorenzo-tecleme-for-valori-it/
 
 [2] Evgeny Morozov, *Critique of Techno-Feudal Reason*, *New Left Review*, 2022: https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason
