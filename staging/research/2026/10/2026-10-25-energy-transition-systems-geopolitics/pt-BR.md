@@ -252,8 +252,17 @@ Estados Unidos | Inovação, capital e política industrial | Divergências regu
 Brasil | Alta renovabilidade elétrica e recursos | Gargalos de rede, indústria e usos não elétricos
 ```
 
-## Referências
 
+
+```chart
+type: bar
+title: Participação das renováveis na nova capacidade mundial, IRENA 2025
+unit: % da capacidade global adicionada
+Fontes renováveis | 85.6
+Demais fontes | 14.4
+```
+
+## Referências
 [1] IRENA, *Renewable Capacity Statistics 2026* e comunicado de 1º de abril de 2026: https://www.irena.org/News/pressreleases/2026/Apr/Near-700-GW-Surge-in-2025-Proves-Renewable-Energy-Resilience
 
 [2] IEA, *Global Energy Review 2026*, 20 de abril de 2026, capítulo de emissões: https://www.iea.org/reports/global-energy-review-2026/co2-emissions
