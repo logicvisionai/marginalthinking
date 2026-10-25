@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-LAND",
+  "slug": "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T21:50:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 34,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "institutions-governance",
+    "social-change",
+    "capital-markets"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Nick Land",
+    "type": "person"
+  },
+  "related_research": [],
+  "producer_checks": {
+    "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+    "research_depth": "EN 4989 and PT-BR 4703 substantive words; 23/23 H2 headings; sources 18/18 URLs across 12/12 domains.",
+    "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+    "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+    "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"3.36\",\"10.76\"],[\"30\",\"27\",\"26\",\"15\"]]. See period and evidence limitations in body.",
+    "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+    "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+    "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+    "source_blob_shas": {
+      "en": "f8659f0d6a7bf04a7a4bea8ac4c1078f929faa29",
+      "pt-BR": "b3b9556c03d9951ed60c355ebc448750af2a4136"
+    },
+    "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+  },
+  "revision_reason": "Replaced chronology-only charts with logarithmic transistor density and IEA 2024 data-centre generation mix; specified scope and noncausal limits. Removed four unpublished report hyperlinks.",
+  "url": "/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-25T16:40:54.033Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Nick Land: capitalism, cybernetics and the philosophical journey from Warwick to the Dark Enlightenment",
+      "deck": "Intellectual biography tracing CCRU, Deleuze, desire, impersonal capital, hyperstition, Dark Enlightenment and divergences from left accelerationism.",
+      "tags": [
+        "Nick Land",
+        "intellectual history",
+        "capital and institutions",
+        "accelerationism"
+      ],
+      "keywords": [
+        "Nick Land",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Technology, finance and institutional authority under contestation.",
+      "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+      "watch": [
+        "Primary-source publication record",
+        "Verified company and public-sector disclosures",
+        "Documented relationships and policy outcomes"
+      ],
+      "search_text": "Nick Land: capitalism, cybernetics and the philosophical journey from Warwick to the Dark Enlightenment Nick Land political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Nick Land: capitalismo, cibernética e a trajetória filosófica de Warwick ao Iluminismo das Trevas",
+      "deck": "Biografia intelectual da CCRU, Deleuze, desejo, capital impessoal, hiperstição, Dark Enlightenment e divergências em relação à esquerda aceleracionista.",
+      "tags": [
+        "Nick Land",
+        "história intelectual",
+        "capital e instituições",
+        "aceleracionismo"
+      ],
+      "keywords": [
+        "Nick Land",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+      "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+      "watch": [
+        "Publicações primárias",
+        "Documentos empresariais e de órgãos públicos",
+        "Relações comprovadas e resultados de políticas"
+      ],
+      "search_text": "Nick Land: capitalismo, cibernética e a trajetória filosófica de Warwick ao Iluminismo das Trevas Nick Land political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-CAMPOS",
+  "revision": 2,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-25T16:43:06.896Z",
+  "reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "pending_blob_sha": "d2a07c1a1a9c717db07c7baf14920152d43adac5",
+  "source_blob_shas": {
+    "en": "3ff6a426404812f0c47bb4f6ce67bfc0e6ad7a91",
+    "pt-BR": "fac644304d86a71c0301931fbe48883be9980de1"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Period-specific FGV IGP inflation (91.9/35.5/38.8/24.3 for 1964–1967) independently checked in USP historical study; real GDP growth 3.4/2.4/6.7/4.2 confirmed in academic historical tables. Private leadership and electoral vote qualified and attributed to FGV CPDOC. Historical fact and legal/moral responsibility not conflated."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Extensive contextual biography in both languages, material political counterevidence, and multiple distinct well-developed topical sections."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Verified key quantitative and controversial historical claims against academic or official institutional sources; all numbered citations have bibliography entries."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Prose distinguishes historical events from competing explanations and does not infer welfare, political legitimacy or sole authorship from macroeconomic or military results."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two meaningful source-reproducible charts with compatible units and identical quantitative series in EN/PT-BR; distinct table/flow/geographic visual."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Revised r1 weaknesses: documented historical omissions, correct attribution of contested claims and sources, removed repetitive chapters and unsupported cross-bibliography claims."
+    }
+  },
+  "contrary_evidence": [
+    "GDP expansion and falling inflation cannot in isolation demonstrate equitable outcomes or prove necessity of authoritarian policies.",
+    "Military evacuation and multinational air defence do not establish that one political figure caused collective wartime outcomes."
+  ],
+  "limitations": [
+    "Document-specific pre-publication check with source comparisons; not an exhaustive archival edition nor permanent URL uptime guarantee.",
+    "Contested historical allegations are attributed, not automatically accepted as established fact."
+  ],
+  "notes": "Independent review pass over distinct r2 sources, correction of substantive r1 issues confirmed, with fixed blob hashes.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-CAMPOS",
+    "slug": "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T22:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 34,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/en.md",
+        "title": "Roberto Campos: A Lanterna na Popa and the contradictions of Brazilian development",
+        "deck": "A historical biography of Campos's diplomacy, Bretton Woods, Petrobras proposal, BNDE, Targets Plan, PAEG, Central Bank, ORTN, FGTS, memoirs and later economic liberalism.",
+        "tags": [
+          "Roberto Campos",
+          "international history",
+          "political economy",
+          "diplomacy",
+          "historical biography"
+        ],
+        "keywords": [
+          "Roberto Campos",
+          "A Lanterna na Popa",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Historical institutions of diplomacy, economy and state power.",
+        "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+        "watch": [
+          "Archival sources",
+          "Original legal and institutional records",
+          "Contrary historiography"
+        ],
+        "search_text": "Roberto Campos: A Lanterna na Popa and the contradictions of Brazilian development A historical biography of Campos's diplomacy, Bretton Woods, Petrobras proposal, BNDE, Targets Plan, PAEG, Central Bank, ORTN, FGTS, memoirs and later economic liberalism. world history international order Brazil war industrial policy political economy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/pt-BR.md",
+        "title": "Roberto Campos: A Lanterna na Popa, desenvolvimento brasileiro e contradições do liberalismo",
+        "deck": "Biografia histórica da diplomacia de Campos, Bretton Woods, proposta da Petrobras, BNDE, Plano de Metas, PAEG, Banco Central, ORTN, FGTS, memórias e liberalismo econômico posterior.",
+        "tags": [
+          "Roberto Campos",
+          "história internacional",
+          "economia política",
+          "diplomacia",
+          "biografia histórica"
+        ],
+        "keywords": [
+          "Roberto Campos",
+          "A Lanterna na Popa",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+        "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+        "watch": [
+          "Fontes arquivísticas",
+          "Legislação e registros institucionais",
+          "Historiografia divergente"
+        ],
+        "search_text": "Roberto Campos: A Lanterna na Popa, desenvolvimento brasileiro e contradições do liberalismo Biografia histórica da diplomacia de Campos, Bretton Woods, proposta da Petrobras, BNDE, Plano de Metas, PAEG, Banco Central, ORTN, FGTS, memórias e liberalismo econômico posterior. world history international order Brazil war industrial policy political economy"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "monetary-policy",
+      "fiscal-policy",
+      "banking-credit",
+      "institutions-governance",
+      "industry-production",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "political-stability"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Roberto Campos",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24",
+      "research_depth": "EN 4974 and PT-BR 5402 substantive words; 31/31 H2 headings; sources 16/16 URLs across 14/14 domains.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"91.9\",\"35.5\",\"38.8\",\"24.3\"],[\"3.4\",\"2.4\",\"6.7\",\"4.2\"]]. See period and evidence limitations in body.",
+      "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+      "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "3ff6a426404812f0c47bb4f6ce67bfc0e6ad7a91",
+        "pt-BR": "fac644304d86a71c0301931fbe48883be9980de1"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced calendars with annual FGV inflation and IBGE GDP growth across PAEG; documented Diretas Já, Maluf vote, InvestBanco, Olivetti, Mercedes and Hanna–Consultec allegations without asserting proof; removed unsupported cross-biography."
+  }
+}

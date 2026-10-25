@@ -1,0 +1,181 @@
+{
+  "schema_version": 2,
+  "id": "MT-HT-2026-10-24-ACCELERATIONISM",
+  "revision": 2,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-25T16:41:48.701Z",
+  "reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "pending_blob_sha": "a71db099e56589ec0f764bd5223587678a17e703",
+  "source_blob_shas": {
+    "en": "3137446693b1842cf536ea3b62f2f93031aa0a0e",
+    "pt-BR": "180a88a8b125f6fc638b3e706e1d98e0de41388c"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Independent pre-publication source cross-check: IEA 2025 measured 415 TWh data-centre consumption in 2024 and projected Base Case 945 TWh in 2030; 2024 regional mix United States 45%, China 25%, Europe 15%. Separates political arguments and outcomes."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "More than 4,700 words per locale, distinct historical sections and competing views, no missing source references."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Numbered citations all have corresponding entries, published primary writings checked for identity; critical numeric series verified against relevant official organizations."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Observational and scenario/conditional numbers explicitly distinguished; disputed causal impact not asserted from calendar coincidences."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two conceptually distinct and sourced comparable-unit figures replace chronology-only bar charts; matching numeric values EN/PT-BR with period and definition labels."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Removed r1 links to unapproved manuscripts, bibliographic inconsistencies and unsupported cross-person attributions corrected in rev2. Extended evidence-based treatment."
+    }
+  },
+  "contrary_evidence": [
+    "Statistical context does not measure influence of a philosophical movement or demonstrate the moral validity of political interventions.",
+    "Independent historical interpretations of international diplomacy vary across the documentary record."
+  ],
+  "limitations": [
+    "Key documents and quantities checked against dated public primary or curated records; all off-site links have not been independently tested for uptime.",
+    "Source disagreements are identified; approval is for publication, not endorsement."
+  ],
+  "notes": "Separate editorial recheck of revised manuscript and previously rejected evidence points, bound to exact source hashes and revision 2.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-HT-2026-10-24-ACCELERATIONISM",
+    "slug": "2026-10-24-accelerationism-intellectual-history-capital-technology-politics",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T21:50:00-03:00",
+    "kind": "historical-intellectual-research",
+    "priority": 32,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md",
+        "title": "Accelerationism: intellectual history, capitalist dynamics, rival political programmes and the technological future",
+        "deck": "Historical and economic genealogy from Marx, Nietzsche, Bataille, Deleuze, Guattari, Lyotard and CCRU to Land, left accelerationism, neo-reaction and AI/e/acc.",
+        "tags": [
+          "Accelerationism",
+          "intellectual history",
+          "capital and institutions",
+          "accelerationism"
+        ],
+        "keywords": [
+          "Accelerationism",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Technology, finance and institutional authority under contestation.",
+        "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+        "watch": [
+          "Primary-source publication record",
+          "Verified company and public-sector disclosures",
+          "Documented relationships and policy outcomes"
+        ],
+        "search_text": "Accelerationism: intellectual history, capitalist dynamics, rival political programmes and the technological future Accelerationism political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/pt-BR.md",
+        "title": "Aceleracionismo: genealogia intelectual, dinâmica capitalista, projetos políticos rivais e futuro tecnológico",
+        "deck": "Genealogia histórica e econômica de Marx, Nietzsche, Bataille, Deleuze, Guattari, Lyotard e CCRU a Land, aceleracionismo de esquerda, neorreação e IA/e/acc.",
+        "tags": [
+          "Accelerationism",
+          "história intelectual",
+          "capital e instituições",
+          "aceleracionismo"
+        ],
+        "keywords": [
+          "Accelerationism",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+        "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+        "watch": [
+          "Publicações primárias",
+          "Documentos empresariais e de órgãos públicos",
+          "Relações comprovadas e resultados de políticas"
+        ],
+        "search_text": "Aceleracionismo: genealogia intelectual, dinâmica capitalista, projetos políticos rivais e futuro tecnológico Accelerationism political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "capital-markets",
+      "institutions-governance",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "strategic-competition"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Accelerationism",
+      "type": "intellectual-tradition"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+      "research_depth": "EN 5255 and PT-BR 5058 substantive words; 25/25 H2 headings; sources 22/22 URLs across 19/19 domains.",
+      "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"415\",\"945\"],[\"45\",\"25\",\"15\"]]. See period and evidence limitations in body.",
+      "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+      "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+      "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "3137446693b1842cf536ea3b62f2f93031aa0a0e",
+        "pt-BR": "180a88a8b125f6fc638b3e706e1d98e0de41388c"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced publication-gap charts with IEA observed vs modelled data-centre demand and 2024 geographic electricity distribution. Corrected Christian Fuchs bibliographic identity and removed four dead links."
+  }
+}

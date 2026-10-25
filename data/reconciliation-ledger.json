@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-25T15:43:56.826Z",
+  "last_reconciled_at": "2026-10-25T16:45:03.251Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6956,6 +6956,55 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No dated new technology deployment or adoption milestone in the edition."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-six-biographies-intellectual-history-r2-publication",
+      "reconciled_at": "2026-10-25T16:45:03.251Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-10-24-YARVIN",
+        "MT-SA-2026-10-24-LAND",
+        "MT-HT-2026-10-24-ACCELERATIONISM",
+        "MT-SA-2026-10-24-KISSINGER",
+        "MT-SA-2026-10-24-CAMPOS",
+        "MT-SA-2026-10-24-CHURCHILL"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Biographical records identify historical diplomatic and economic dependencies, but no newly validated contemporary directed node-to-node flow or time-sensitive relationship requiring a canonical network update."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Historical studies and contested ideologies are not a new country-specific, measurable investment or intervention opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "The six reports concern historically important persons and an intellectual movement; do not infer current legal ownership or control from ideological influence. Full historical biographies appear in published research, while actor registry needs separately evidenced control claims."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No new contemporaneous asset ownership, extraction licence, or operational resource-control claim with validated quantitative attribution."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Historical PAEG and SALT I institutional decisions are described in long-form studies; no separately encoded contemporary intervention/outcome dataset added to controlled case registry."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "World War II and Cold War diplomatic histories have dated conflicts and documented forces but do not record a new operational event for the current conflict system."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Technical adoption trends in chips and data-centre electricity are historical and scenario evidence, not newly validated present-day deployment capabilities requiring technology signal ledger change."
         }
       ]
     }

@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-CHURCHILL",
+  "slug": "2026-10-24-winston-churchill-second-world-war-strategy-empire",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T22:00:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 35,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "geopolitics-security",
+    "institutions-governance",
+    "industry-production",
+    "infrastructure-logistics",
+    "social-change",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "defense-security",
+    "strategic-competition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Winston Churchill",
+    "type": "person"
+  },
+  "related_research": [],
+  "producer_checks": {
+    "information_cutoff": "2026-10-24",
+    "research_depth": "EN 3930 substantive words (26 headings); PT-BR 4514 substantive words (26 headings).",
+    "visual_signature": "Documentary counts: [[\"224320\",\"113906\"],[\"2353\",\"574\"]] identical EN/PT-BR; timed wartime table, causal flow and map.",
+    "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+    "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+    "source_check": "English Heritage, Royal Canadian Air Force, RAF Museum and IWM documentary sources added with primary attributed counts; independent expert and translator verification required.",
+    "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+    "source_blob_shas": {
+      "en": "da7d283f59e6ee6eaec653704a6075774db4160b",
+      "pt-BR": "8591b1049838bcf0663cf47ff5bc0d9feac17cdd"
+    },
+    "qa_handoff": "Revision 2 substantially remediates r1 rejection, preserves rejected history, staged not approved or public. Independent QA required."
+  },
+  "revision_reason": "Replaced nominal-year charts with sourced Dunkirk and RAF aircrew comparisons; corrected Parliament/IWM/RAF citations; consolidated repeated memoir, Bengal and 1945 chapters; removed unsupported cross-biographical analogy.",
+  "url": "/reports/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-25T16:43:34.161Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Winston Churchill: the Second World War, strategy, empire and the limits of leadership",
+      "deck": "A political and military biography from Gallipoli and appeasement to 1940, Dunkirk, the Battle of Britain, Atlantic shipping, coalition warfare, Bengal, 1945 and six volumes of wartime memoir.",
+      "tags": [
+        "Winston Churchill",
+        "international history",
+        "political economy",
+        "diplomacy",
+        "historical biography"
+      ],
+      "keywords": [
+        "Winston Churchill",
+        "World Order",
+        "Diplomacy",
+        "A Lanterna na Popa",
+        "Second World War",
+        "Bretton Woods",
+        "economic history",
+        "state power"
+      ],
+      "regime": "Historical institutions of diplomacy, economy and state power.",
+      "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+      "watch": [
+        "Archival sources",
+        "Original legal and institutional records",
+        "Contrary historiography"
+      ],
+      "search_text": "Winston Churchill: the Second World War, strategy, empire and the limits of leadership A political and military biography from Gallipoli and appeasement to 1940, Dunkirk, the Battle of Britain, Atlantic shipping, coalition warfare, Bengal, 1945 and six volumes of wartime memoir. world history international order Brazil war industrial policy political economy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Winston Churchill: Segunda Guerra Mundial, estratégia, império e limites da liderança",
+      "deck": "Biografia política e militar de Gallipoli e apaziguamento até 1940, Dunquerque, Batalha da Inglaterra, Atlântico, coalizões, Bengala, 1945 e os seis volumes memorialísticos sobre a guerra.",
+      "tags": [
+        "Winston Churchill",
+        "história internacional",
+        "economia política",
+        "diplomacia",
+        "biografia histórica"
+      ],
+      "keywords": [
+        "Winston Churchill",
+        "World Order",
+        "Diplomacy",
+        "A Lanterna na Popa",
+        "Second World War",
+        "Bretton Woods",
+        "economic history",
+        "state power"
+      ],
+      "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+      "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+      "watch": [
+        "Fontes arquivísticas",
+        "Legislação e registros institucionais",
+        "Historiografia divergente"
+      ],
+      "search_text": "Winston Churchill: Segunda Guerra Mundial, estratégia, império e limites da liderança Biografia política e militar de Gallipoli e apaziguamento até 1940, Dunquerque, Batalha da Inglaterra, Atlântico, coalizões, Bengala, 1945 e os seis volumes memorialísticos sobre a guerra. world history international order Brazil war industrial policy political economy"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-KISSINGER",
+  "revision": 2,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-25T16:42:12.745Z",
+  "reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "pending_blob_sha": "f0f232a1083ff18093c72d240991f2ae49387ce2",
+  "source_blob_shas": {
+    "en": "d25dad22e2a6cc4fd84f0ec7f829805cdeb66837",
+    "pt-BR": "6b32ee8ae8ae31010ccd06cf28a39c00a1214f46"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Independent pre-publication source cross-check: Cross-checked 1972 SALT I US/Soviet ICBM launcher inventory 1,054/1,618 and conditional SLBM maxima 710/950 from official U.S. defence and State Department documentation. Separates political arguments and outcomes."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "More than 4,700 words per locale, distinct historical sections and competing views, no missing source references."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Numbered citations all have corresponding entries, published primary writings checked for identity; critical numeric series verified against relevant official organizations."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Observational and scenario/conditional numbers explicitly distinguished; disputed causal impact not asserted from calendar coincidences."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two conceptually distinct and sourced comparable-unit figures replace chronology-only bar charts; matching numeric values EN/PT-BR with period and definition labels."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Removed r1 links to unapproved manuscripts, bibliographic inconsistencies and unsupported cross-person attributions corrected in rev2. Extended evidence-based treatment."
+    }
+  },
+  "contrary_evidence": [
+    "Statistical context does not measure influence of a philosophical movement or demonstrate the moral validity of political interventions.",
+    "Independent historical interpretations of international diplomacy vary across the documentary record."
+  ],
+  "limitations": [
+    "Key documents and quantities checked against dated public primary or curated records; all off-site links have not been independently tested for uptime.",
+    "Source disagreements are identified; approval is for publication, not endorsement."
+  ],
+  "notes": "Separate editorial recheck of revised manuscript and previously rejected evidence points, bound to exact source hashes and revision 2.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-KISSINGER",
+    "slug": "2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T22:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/en.md",
+        "title": "Henry Kissinger: diplomacy, world order and the contradictions of American power",
+        "deck": "From Bavaria and Harvard to Nixon and Ford: rapprochement with China, nuclear détente, Vietnam, Chile, Bangladesh and the intellectual architecture of Diplomacy and World Order.",
+        "tags": [
+          "Henry Kissinger",
+          "international history",
+          "political economy",
+          "diplomacy",
+          "historical biography"
+        ],
+        "keywords": [
+          "Henry Kissinger",
+          "World Order",
+          "Diplomacy",
+          "A Lanterna na Popa",
+          "Second World War",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Historical institutions of diplomacy, economy and state power.",
+        "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+        "watch": [
+          "Archival sources",
+          "Original legal and institutional records",
+          "Contrary historiography"
+        ],
+        "search_text": "Henry Kissinger: diplomacy, world order and the contradictions of American power From Bavaria and Harvard to Nixon and Ford: rapprochement with China, nuclear détente, Vietnam, Chile, Bangladesh and the intellectual architecture of Diplomacy and World Order. world history international order Brazil war industrial policy political economy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/pt-BR.md",
+        "title": "Henry Kissinger: diplomacia, ordem mundial e as contradições do poder americano",
+        "deck": "De Fürth e Harvard aos governos Nixon e Ford: aproximação com a China, détente nuclear, Vietnã, Chile, Bangladesh e a arquitetura intelectual de Diplomacy e World Order.",
+        "tags": [
+          "Henry Kissinger",
+          "história internacional",
+          "economia política",
+          "diplomacia",
+          "biografia histórica"
+        ],
+        "keywords": [
+          "Henry Kissinger",
+          "World Order",
+          "Diplomacy",
+          "A Lanterna na Popa",
+          "Second World War",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+        "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+        "watch": [
+          "Fontes arquivísticas",
+          "Legislação e registros institucionais",
+          "Historiografia divergente"
+        ],
+        "search_text": "Henry Kissinger: diplomacia, ordem mundial e as contradições do poder americano De Fürth e Harvard aos governos Nixon e Ford: aproximação com a China, détente nuclear, Vietnã, Chile, Bangladesh e a arquitetura intelectual de Diplomacy e World Order. world history international order Brazil war industrial policy political economy"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "geopolitics-security",
+      "institutions-governance",
+      "trade-investment",
+      "social-change"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict",
+      "defense-security",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Henry Kissinger",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24",
+      "research_depth": "EN 4811 and PT-BR 5222 substantive words; 27/26 H2 headings; sources 19/19 URLs across 14/14 domains.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"1054\",\"1618\"],[\"710\",\"950\"]]. See period and evidence limitations in body.",
+      "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+      "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "d25dad22e2a6cc4fd84f0ec7f829805cdeb66837",
+        "pt-BR": "6b32ee8ae8ae31010ccd06cf28a39c00a1214f46"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced calendars with SALT I official launcher stock/conditional ceilings, linked first-hand Diplomacy chapter and original World Order argument plus contemporary scholarship; removed unsupported historical cross-biography."
+  }
+}

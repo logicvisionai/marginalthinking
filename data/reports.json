@@ -613,6 +613,141 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-HT-2026-10-24-ACCELERATIONISM",
+    "slug": "2026-10-24-accelerationism-intellectual-history-capital-technology-politics",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T21:50:00-03:00",
+    "kind": "historical-intellectual-research",
+    "priority": 32,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "capital-markets",
+      "institutions-governance",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "strategic-competition"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Accelerationism",
+      "type": "intellectual-tradition"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+      "research_depth": "EN 5255 and PT-BR 5058 substantive words; 25/25 H2 headings; sources 22/22 URLs across 19/19 domains.",
+      "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"415\",\"945\"],[\"45\",\"25\",\"15\"]]. See period and evidence limitations in body.",
+      "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+      "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+      "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "3137446693b1842cf536ea3b62f2f93031aa0a0e",
+        "pt-BR": "180a88a8b125f6fc638b3e706e1d98e0de41388c"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced publication-gap charts with IEA observed vs modelled data-centre demand and 2024 geographic electricity distribution. Corrected Christian Fuchs bibliographic identity and removed four dead links.",
+    "url": "/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-25T16:41:48.701Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Accelerationism: intellectual history, capitalist dynamics, rival political programmes and the technological future",
+        "deck": "Historical and economic genealogy from Marx, Nietzsche, Bataille, Deleuze, Guattari, Lyotard and CCRU to Land, left accelerationism, neo-reaction and AI/e/acc.",
+        "tags": [
+          "Accelerationism",
+          "intellectual history",
+          "capital and institutions",
+          "accelerationism"
+        ],
+        "keywords": [
+          "Accelerationism",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Technology, finance and institutional authority under contestation.",
+        "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+        "watch": [
+          "Primary-source publication record",
+          "Verified company and public-sector disclosures",
+          "Documented relationships and policy outcomes"
+        ],
+        "search_text": "Accelerationism: intellectual history, capitalist dynamics, rival political programmes and the technological future Accelerationism political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Aceleracionismo: genealogia intelectual, dinâmica capitalista, projetos políticos rivais e futuro tecnológico",
+        "deck": "Genealogia histórica e econômica de Marx, Nietzsche, Bataille, Deleuze, Guattari, Lyotard e CCRU a Land, aceleracionismo de esquerda, neorreação e IA/e/acc.",
+        "tags": [
+          "Accelerationism",
+          "história intelectual",
+          "capital e instituições",
+          "aceleracionismo"
+        ],
+        "keywords": [
+          "Accelerationism",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+        "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+        "watch": [
+          "Publicações primárias",
+          "Documentos empresariais e de órgãos públicos",
+          "Relações comprovadas e resultados de políticas"
+        ],
+        "search_text": "Aceleracionismo: genealogia intelectual, dinâmica capitalista, projetos políticos rivais e futuro tecnológico Accelerationism political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-ST-2026-10-24-SLAVERY",
     "slug": "2026-10-24-slavery-world-brazil-political-economy",
     "date": "2026-10-24",
@@ -728,6 +863,137 @@
     "qa_reviewed_at": "2026-10-24T22:10:08.079Z",
     "qa_confidence": "medium",
     "qa_reviewed_commit": "3c4d4266cc325331f1d0b3663495b983ef4ee0a0"
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-KISSINGER",
+    "slug": "2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T22:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "geopolitics-security",
+      "institutions-governance",
+      "trade-investment",
+      "social-change"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict",
+      "defense-security",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Henry Kissinger",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24",
+      "research_depth": "EN 4811 and PT-BR 5222 substantive words; 27/26 H2 headings; sources 19/19 URLs across 14/14 domains.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"1054\",\"1618\"],[\"710\",\"950\"]]. See period and evidence limitations in body.",
+      "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+      "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "d25dad22e2a6cc4fd84f0ec7f829805cdeb66837",
+        "pt-BR": "6b32ee8ae8ae31010ccd06cf28a39c00a1214f46"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced calendars with SALT I official launcher stock/conditional ceilings, linked first-hand Diplomacy chapter and original World Order argument plus contemporary scholarship; removed unsupported historical cross-biography.",
+    "url": "/reports/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-25T16:42:12.745Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Henry Kissinger: diplomacy, world order and the contradictions of American power",
+        "deck": "From Bavaria and Harvard to Nixon and Ford: rapprochement with China, nuclear détente, Vietnam, Chile, Bangladesh and the intellectual architecture of Diplomacy and World Order.",
+        "tags": [
+          "Henry Kissinger",
+          "international history",
+          "political economy",
+          "diplomacy",
+          "historical biography"
+        ],
+        "keywords": [
+          "Henry Kissinger",
+          "World Order",
+          "Diplomacy",
+          "A Lanterna na Popa",
+          "Second World War",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Historical institutions of diplomacy, economy and state power.",
+        "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+        "watch": [
+          "Archival sources",
+          "Original legal and institutional records",
+          "Contrary historiography"
+        ],
+        "search_text": "Henry Kissinger: diplomacy, world order and the contradictions of American power From Bavaria and Harvard to Nixon and Ford: rapprochement with China, nuclear détente, Vietnam, Chile, Bangladesh and the intellectual architecture of Diplomacy and World Order. world history international order Brazil war industrial policy political economy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Henry Kissinger: diplomacia, ordem mundial e as contradições do poder americano",
+        "deck": "De Fürth e Harvard aos governos Nixon e Ford: aproximação com a China, détente nuclear, Vietnã, Chile, Bangladesh e a arquitetura intelectual de Diplomacy e World Order.",
+        "tags": [
+          "Henry Kissinger",
+          "história internacional",
+          "economia política",
+          "diplomacia",
+          "biografia histórica"
+        ],
+        "keywords": [
+          "Henry Kissinger",
+          "World Order",
+          "Diplomacy",
+          "A Lanterna na Popa",
+          "Second World War",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+        "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+        "watch": [
+          "Fontes arquivísticas",
+          "Legislação e registros institucionais",
+          "Historiografia divergente"
+        ],
+        "search_text": "Henry Kissinger: diplomacia, ordem mundial e as contradições do poder americano De Fürth e Harvard aos governos Nixon e Ford: aproximação com a China, détente nuclear, Vietnã, Chile, Bangladesh e a arquitetura intelectual de Diplomacy e World Order. world history international order Brazil war industrial policy political economy"
+      }
+    }
   },
   {
     "schema_version": 2,
@@ -1216,6 +1482,140 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-SA-2026-10-24-YARVIN",
+    "slug": "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T21:50:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "institutions-governance",
+      "technology-innovation",
+      "social-change",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "political-stability"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Curtis Yarvin",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+      "research_depth": "EN 4925 and PT-BR 4722 substantive words; 22/22 H2 headings; sources 19/19 URLs across 16/16 domains.",
+      "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"34\",\"19\",\"-2\"],[\"50\",\"29\",\"11\"]]. See period and evidence limitations in body.",
+      "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+      "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+      "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "bf2c1b2228304e3d9cd2e5e2662e645e9db1e785",
+        "pt-BR": "fc637e37050a6c207436b32a872538d5e8c36d85"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced chronology-only charts with Freedom House rights and liberties comparisons for 2025, preserving explicit non-causal interpretation. Removed four dead related-report hyperlinks.",
+    "url": "/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-25T16:40:28.545Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Curtis Yarvin: from software engineer to architect of neo-reactionary state theory",
+        "deck": "A documentary biography of Moldbug, formalism, the Cathedral, neocameralism, Urbit, Gray Mirror and the limits of claims about political influence.",
+        "tags": [
+          "Curtis Yarvin",
+          "intellectual history",
+          "capital and institutions",
+          "accelerationism"
+        ],
+        "keywords": [
+          "Curtis Yarvin",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Technology, finance and institutional authority under contestation.",
+        "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+        "watch": [
+          "Primary-source publication record",
+          "Verified company and public-sector disclosures",
+          "Documented relationships and policy outcomes"
+        ],
+        "search_text": "Curtis Yarvin: from software engineer to architect of neo-reactionary state theory Curtis Yarvin political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Curtis Yarvin: do engenheiro de software à formulação neorreacionária do Estado",
+        "deck": "Biografia documental de Moldbug: formalismo, Catedral, neocameralismo, Urbit, Gray Mirror e os limites de alegações de influência política.",
+        "tags": [
+          "Curtis Yarvin",
+          "história intelectual",
+          "capital e instituições",
+          "aceleracionismo"
+        ],
+        "keywords": [
+          "Curtis Yarvin",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+        "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+        "watch": [
+          "Publicações primárias",
+          "Documentos empresariais e de órgãos públicos",
+          "Relações comprovadas e resultados de políticas"
+        ],
+        "search_text": "Curtis Yarvin: do engenheiro de software à formulação neorreacionária do Estado Curtis Yarvin political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-IA-2026-10-24-AI-CAPITAL-CYCLE",
     "slug": "2026-10-24-ai-capital-cycle-debt-technical-debt",
     "date": "2026-10-24",
@@ -1370,6 +1770,400 @@
           "Partes relacionadas, vencimentos e exposição de crédito privado"
         ],
         "search_text": "bolha IA 2026 big tech dívidas corporativas capex Oracle Meta Microsoft Alphabet Amazon CoreWeave Nvidia infraestrutura arrendamento financiamento circular depreciação GPUs débito técnico software eletricidade PIB produtividade cenários 2030"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-CAMPOS",
+    "slug": "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T22:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 34,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "monetary-policy",
+      "fiscal-policy",
+      "banking-credit",
+      "institutions-governance",
+      "industry-production",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change",
+      "political-stability"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Roberto Campos",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24",
+      "research_depth": "EN 4974 and PT-BR 5402 substantive words; 31/31 H2 headings; sources 16/16 URLs across 14/14 domains.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"91.9\",\"35.5\",\"38.8\",\"24.3\"],[\"3.4\",\"2.4\",\"6.7\",\"4.2\"]]. See period and evidence limitations in body.",
+      "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+      "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "3ff6a426404812f0c47bb4f6ce67bfc0e6ad7a91",
+        "pt-BR": "fac644304d86a71c0301931fbe48883be9980de1"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced calendars with annual FGV inflation and IBGE GDP growth across PAEG; documented Diretas Já, Maluf vote, InvestBanco, Olivetti, Mercedes and Hanna–Consultec allegations without asserting proof; removed unsupported cross-biography.",
+    "url": "/reports/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-25T16:43:06.896Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Roberto Campos: A Lanterna na Popa and the contradictions of Brazilian development",
+        "deck": "A historical biography of Campos's diplomacy, Bretton Woods, Petrobras proposal, BNDE, Targets Plan, PAEG, Central Bank, ORTN, FGTS, memoirs and later economic liberalism.",
+        "tags": [
+          "Roberto Campos",
+          "international history",
+          "political economy",
+          "diplomacy",
+          "historical biography"
+        ],
+        "keywords": [
+          "Roberto Campos",
+          "A Lanterna na Popa",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Historical institutions of diplomacy, economy and state power.",
+        "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+        "watch": [
+          "Archival sources",
+          "Original legal and institutional records",
+          "Contrary historiography"
+        ],
+        "search_text": "Roberto Campos: A Lanterna na Popa and the contradictions of Brazilian development A historical biography of Campos's diplomacy, Bretton Woods, Petrobras proposal, BNDE, Targets Plan, PAEG, Central Bank, ORTN, FGTS, memoirs and later economic liberalism. world history international order Brazil war industrial policy political economy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Roberto Campos: A Lanterna na Popa, desenvolvimento brasileiro e contradições do liberalismo",
+        "deck": "Biografia histórica da diplomacia de Campos, Bretton Woods, proposta da Petrobras, BNDE, Plano de Metas, PAEG, Banco Central, ORTN, FGTS, memórias e liberalismo econômico posterior.",
+        "tags": [
+          "Roberto Campos",
+          "história internacional",
+          "economia política",
+          "diplomacia",
+          "biografia histórica"
+        ],
+        "keywords": [
+          "Roberto Campos",
+          "A Lanterna na Popa",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+        "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+        "watch": [
+          "Fontes arquivísticas",
+          "Legislação e registros institucionais",
+          "Historiografia divergente"
+        ],
+        "search_text": "Roberto Campos: A Lanterna na Popa, desenvolvimento brasileiro e contradições do liberalismo Biografia histórica da diplomacia de Campos, Bretton Woods, proposta da Petrobras, BNDE, Plano de Metas, PAEG, Banco Central, ORTN, FGTS, memórias e liberalismo econômico posterior. world history international order Brazil war industrial policy political economy"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-LAND",
+    "slug": "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T21:50:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 34,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "institutions-governance",
+      "social-change",
+      "capital-markets"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Nick Land",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+      "research_depth": "EN 4989 and PT-BR 4703 substantive words; 23/23 H2 headings; sources 18/18 URLs across 12/12 domains.",
+      "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"3.36\",\"10.76\"],[\"30\",\"27\",\"26\",\"15\"]]. See period and evidence limitations in body.",
+      "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+      "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+      "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "f8659f0d6a7bf04a7a4bea8ac4c1078f929faa29",
+        "pt-BR": "b3b9556c03d9951ed60c355ebc448750af2a4136"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced chronology-only charts with logarithmic transistor density and IEA 2024 data-centre generation mix; specified scope and noncausal limits. Removed four unpublished report hyperlinks.",
+    "url": "/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-25T16:40:54.033Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Nick Land: capitalism, cybernetics and the philosophical journey from Warwick to the Dark Enlightenment",
+        "deck": "Intellectual biography tracing CCRU, Deleuze, desire, impersonal capital, hyperstition, Dark Enlightenment and divergences from left accelerationism.",
+        "tags": [
+          "Nick Land",
+          "intellectual history",
+          "capital and institutions",
+          "accelerationism"
+        ],
+        "keywords": [
+          "Nick Land",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Technology, finance and institutional authority under contestation.",
+        "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+        "watch": [
+          "Primary-source publication record",
+          "Verified company and public-sector disclosures",
+          "Documented relationships and policy outcomes"
+        ],
+        "search_text": "Nick Land: capitalism, cybernetics and the philosophical journey from Warwick to the Dark Enlightenment Nick Land political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Nick Land: capitalismo, cibernética e a trajetória filosófica de Warwick ao Iluminismo das Trevas",
+        "deck": "Biografia intelectual da CCRU, Deleuze, desejo, capital impessoal, hiperstição, Dark Enlightenment e divergências em relação à esquerda aceleracionista.",
+        "tags": [
+          "Nick Land",
+          "história intelectual",
+          "capital e instituições",
+          "aceleracionismo"
+        ],
+        "keywords": [
+          "Nick Land",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+        "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+        "watch": [
+          "Publicações primárias",
+          "Documentos empresariais e de órgãos públicos",
+          "Relações comprovadas e resultados de políticas"
+        ],
+        "search_text": "Nick Land: capitalismo, cibernética e a trajetória filosófica de Warwick ao Iluminismo das Trevas Nick Land political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-CHURCHILL",
+    "slug": "2026-10-24-winston-churchill-second-world-war-strategy-empire",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T22:00:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 35,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "geopolitics-security",
+      "institutions-governance",
+      "industry-production",
+      "infrastructure-logistics",
+      "social-change",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "defense-security",
+      "strategic-competition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Winston Churchill",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24",
+      "research_depth": "EN 3930 substantive words (26 headings); PT-BR 4514 substantive words (26 headings).",
+      "visual_signature": "Documentary counts: [[\"224320\",\"113906\"],[\"2353\",\"574\"]] identical EN/PT-BR; timed wartime table, causal flow and map.",
+      "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+      "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+      "source_check": "English Heritage, Royal Canadian Air Force, RAF Museum and IWM documentary sources added with primary attributed counts; independent expert and translator verification required.",
+      "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+      "source_blob_shas": {
+        "en": "da7d283f59e6ee6eaec653704a6075774db4160b",
+        "pt-BR": "8591b1049838bcf0663cf47ff5bc0d9feac17cdd"
+      },
+      "qa_handoff": "Revision 2 substantially remediates r1 rejection, preserves rejected history, staged not approved or public. Independent QA required."
+    },
+    "revision_reason": "Replaced nominal-year charts with sourced Dunkirk and RAF aircrew comparisons; corrected Parliament/IWM/RAF citations; consolidated repeated memoir, Bengal and 1945 chapters; removed unsupported cross-biographical analogy.",
+    "url": "/reports/2026/10/2026-10-24-winston-churchill-second-world-war-strategy-empire.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-25T16:43:34.161Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Winston Churchill: the Second World War, strategy, empire and the limits of leadership",
+        "deck": "A political and military biography from Gallipoli and appeasement to 1940, Dunkirk, the Battle of Britain, Atlantic shipping, coalition warfare, Bengal, 1945 and six volumes of wartime memoir.",
+        "tags": [
+          "Winston Churchill",
+          "international history",
+          "political economy",
+          "diplomacy",
+          "historical biography"
+        ],
+        "keywords": [
+          "Winston Churchill",
+          "World Order",
+          "Diplomacy",
+          "A Lanterna na Popa",
+          "Second World War",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Historical institutions of diplomacy, economy and state power.",
+        "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+        "watch": [
+          "Archival sources",
+          "Original legal and institutional records",
+          "Contrary historiography"
+        ],
+        "search_text": "Winston Churchill: the Second World War, strategy, empire and the limits of leadership A political and military biography from Gallipoli and appeasement to 1940, Dunkirk, the Battle of Britain, Atlantic shipping, coalition warfare, Bengal, 1945 and six volumes of wartime memoir. world history international order Brazil war industrial policy political economy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Winston Churchill: Segunda Guerra Mundial, estratégia, império e limites da liderança",
+        "deck": "Biografia política e militar de Gallipoli e apaziguamento até 1940, Dunquerque, Batalha da Inglaterra, Atlântico, coalizões, Bengala, 1945 e os seis volumes memorialísticos sobre a guerra.",
+        "tags": [
+          "Winston Churchill",
+          "história internacional",
+          "economia política",
+          "diplomacia",
+          "biografia histórica"
+        ],
+        "keywords": [
+          "Winston Churchill",
+          "World Order",
+          "Diplomacy",
+          "A Lanterna na Popa",
+          "Second World War",
+          "Bretton Woods",
+          "economic history",
+          "state power"
+        ],
+        "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+        "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+        "watch": [
+          "Fontes arquivísticas",
+          "Legislação e registros institucionais",
+          "Historiografia divergente"
+        ],
+        "search_text": "Winston Churchill: Segunda Guerra Mundial, estratégia, império e limites da liderança Biografia política e militar de Gallipoli e apaziguamento até 1940, Dunquerque, Batalha da Inglaterra, Atlântico, coalizões, Bengala, 1945 e os seis volumes memorialísticos sobre a guerra. world history international order Brazil war industrial policy political economy"
       }
     }
   },

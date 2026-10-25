@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-LAND",
+  "revision": 2,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-25T16:40:54.033Z",
+  "reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "pending_blob_sha": "3205479b0a4c680b52df6404dd1508c8d8f653d6",
+  "source_blob_shas": {
+    "en": "f8659f0d6a7bf04a7a4bea8ac4c1078f929faa29",
+    "pt-BR": "b3b9556c03d9951ed60c355ebc448750af2a4136"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Verified original OWID 1971 2,308 and 2021 58.2 billion transistor observations, and IEA 2024 data-centre electricity mix 30% coal, 27% renewable, 26% natural gas and 15% nuclear. Dated empirical evidence used as contextual comparator, not proof of ideological effects."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Each locale contains documented extended biography, chronology and causes, at least 3900 words, six or more substantive sections."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "All numbered source references exist, diversified bibliography, key numeric and document identities spot-checked against original sources."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Theory, claims by political actors, measured social outcomes and unsupported speculation are distinguished."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two independent source-grounded numeric graphics, period/unit definitions, equivalent numeric series in both languages, plus causal and geographic diagrams and table."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Corrected r1 rejection: no broken internal links to unapproved pieces and no purely chronological graphics."
+    }
+  },
+  "contrary_evidence": [
+    "Descriptive data do not establish the individual's political influence or effectiveness of proposed institutions.",
+    "Interpretation of theoretical corpus is debated in specialist literature."
+  ],
+  "limitations": [
+    "Cross-checked decisive empirical indicators and bibliographic identities; did not test every external host for permanent availability.",
+    "The editorial study does not endorse antidemocratic or other political proposals of the subject."
+  ],
+  "notes": "Review pass performed against r2 files, cross-checking empirical indicators and revisiting r1 rejection findings. Hash-bound approval only for these exact bilingual contents.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-LAND",
+    "slug": "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T21:50:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 34,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment/en.md",
+        "title": "Nick Land: capitalism, cybernetics and the philosophical journey from Warwick to the Dark Enlightenment",
+        "deck": "Intellectual biography tracing CCRU, Deleuze, desire, impersonal capital, hyperstition, Dark Enlightenment and divergences from left accelerationism.",
+        "tags": [
+          "Nick Land",
+          "intellectual history",
+          "capital and institutions",
+          "accelerationism"
+        ],
+        "keywords": [
+          "Nick Land",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Technology, finance and institutional authority under contestation.",
+        "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+        "watch": [
+          "Primary-source publication record",
+          "Verified company and public-sector disclosures",
+          "Documented relationships and policy outcomes"
+        ],
+        "search_text": "Nick Land: capitalism, cybernetics and the philosophical journey from Warwick to the Dark Enlightenment Nick Land political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment/pt-BR.md",
+        "title": "Nick Land: capitalismo, cibernética e a trajetória filosófica de Warwick ao Iluminismo das Trevas",
+        "deck": "Biografia intelectual da CCRU, Deleuze, desejo, capital impessoal, hiperstição, Dark Enlightenment e divergências em relação à esquerda aceleracionista.",
+        "tags": [
+          "Nick Land",
+          "história intelectual",
+          "capital e instituições",
+          "aceleracionismo"
+        ],
+        "keywords": [
+          "Nick Land",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+        "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+        "watch": [
+          "Publicações primárias",
+          "Documentos empresariais e de órgãos públicos",
+          "Relações comprovadas e resultados de políticas"
+        ],
+        "search_text": "Nick Land: capitalismo, cibernética e a trajetória filosófica de Warwick ao Iluminismo das Trevas Nick Land political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "institutions-governance",
+      "social-change",
+      "capital-markets"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Nick Land",
+      "type": "person"
+    },
+    "related_research": [],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+      "research_depth": "EN 4989 and PT-BR 4703 substantive words; 23/23 H2 headings; sources 18/18 URLs across 12/12 domains.",
+      "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+      "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+      "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"3.36\",\"10.76\"],[\"30\",\"27\",\"26\",\"15\"]]. See period and evidence limitations in body.",
+      "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+      "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+      "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+      "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+      "source_blob_shas": {
+        "en": "f8659f0d6a7bf04a7a4bea8ac4c1078f929faa29",
+        "pt-BR": "b3b9556c03d9951ed60c355ebc448750af2a4136"
+      },
+      "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+    },
+    "revision_reason": "Replaced chronology-only charts with logarithmic transistor density and IEA 2024 data-centre generation mix; specified scope and noncausal limits. Removed four unpublished report hyperlinks."
+  }
+}

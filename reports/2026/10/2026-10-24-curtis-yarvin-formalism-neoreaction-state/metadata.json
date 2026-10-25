@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-YARVIN",
+  "slug": "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T21:50:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 33,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "institutions-governance",
+    "technology-innovation",
+    "social-change",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Curtis Yarvin",
+    "type": "person"
+  },
+  "related_research": [],
+  "producer_checks": {
+    "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+    "research_depth": "EN 4925 and PT-BR 4722 substantive words; 22/22 H2 headings; sources 19/19 URLs across 16/16 domains.",
+    "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+    "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+    "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"34\",\"19\",\"-2\"],[\"50\",\"29\",\"11\"]]. See period and evidence limitations in body.",
+    "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+    "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
+    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+    "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+    "source_blob_shas": {
+      "en": "bf2c1b2228304e3d9cd2e5e2662e645e9db1e785",
+      "pt-BR": "fc637e37050a6c207436b32a872538d5e8c36d85"
+    },
+    "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+  },
+  "revision_reason": "Replaced chronology-only charts with Freedom House rights and liberties comparisons for 2025, preserving explicit non-causal interpretation. Removed four dead related-report hyperlinks.",
+  "url": "/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-25T16:40:28.545Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Curtis Yarvin: from software engineer to architect of neo-reactionary state theory",
+      "deck": "A documentary biography of Moldbug, formalism, the Cathedral, neocameralism, Urbit, Gray Mirror and the limits of claims about political influence.",
+      "tags": [
+        "Curtis Yarvin",
+        "intellectual history",
+        "capital and institutions",
+        "accelerationism"
+      ],
+      "keywords": [
+        "Curtis Yarvin",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Technology, finance and institutional authority under contestation.",
+      "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+      "watch": [
+        "Primary-source publication record",
+        "Verified company and public-sector disclosures",
+        "Documented relationships and policy outcomes"
+      ],
+      "search_text": "Curtis Yarvin: from software engineer to architect of neo-reactionary state theory Curtis Yarvin political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Curtis Yarvin: do engenheiro de software à formulação neorreacionária do Estado",
+      "deck": "Biografia documental de Moldbug: formalismo, Catedral, neocameralismo, Urbit, Gray Mirror e os limites de alegações de influência política.",
+      "tags": [
+        "Curtis Yarvin",
+        "história intelectual",
+        "capital e instituições",
+        "aceleracionismo"
+      ],
+      "keywords": [
+        "Curtis Yarvin",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+      "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+      "watch": [
+        "Publicações primárias",
+        "Documentos empresariais e de órgãos públicos",
+        "Relações comprovadas e resultados de políticas"
+      ],
+      "search_text": "Curtis Yarvin: do engenheiro de software à formulação neorreacionária do Estado Curtis Yarvin political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    }
+  }
+}

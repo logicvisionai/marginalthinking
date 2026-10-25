@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-CAMPOS",
+  "slug": "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T22:00:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 34,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "monetary-policy",
+    "fiscal-policy",
+    "banking-credit",
+    "institutions-governance",
+    "industry-production",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Roberto Campos",
+    "type": "person"
+  },
+  "related_research": [],
+  "producer_checks": {
+    "information_cutoff": "2026-10-24",
+    "research_depth": "EN 4974 and PT-BR 5402 substantive words; 31/31 H2 headings; sources 16/16 URLs across 14/14 domains.",
+    "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"91.9\",\"35.5\",\"38.8\",\"24.3\"],[\"3.4\",\"2.4\",\"6.7\",\"4.2\"]]. See period and evidence limitations in body.",
+    "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
+    "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
+    "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+    "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging.",
+    "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+    "source_blob_shas": {
+      "en": "3ff6a426404812f0c47bb4f6ce67bfc0e6ad7a91",
+      "pt-BR": "fac644304d86a71c0301931fbe48883be9980de1"
+    },
+    "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+  },
+  "revision_reason": "Replaced calendars with annual FGV inflation and IBGE GDP growth across PAEG; documented Diretas Já, Maluf vote, InvestBanco, Olivetti, Mercedes and Hanna–Consultec allegations without asserting proof; removed unsupported cross-biography.",
+  "url": "/reports/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-25T16:43:06.896Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "a2723df7444c2577a2d0d32a663d86fa21c88949",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Roberto Campos: A Lanterna na Popa and the contradictions of Brazilian development",
+      "deck": "A historical biography of Campos's diplomacy, Bretton Woods, Petrobras proposal, BNDE, Targets Plan, PAEG, Central Bank, ORTN, FGTS, memoirs and later economic liberalism.",
+      "tags": [
+        "Roberto Campos",
+        "international history",
+        "political economy",
+        "diplomacy",
+        "historical biography"
+      ],
+      "keywords": [
+        "Roberto Campos",
+        "A Lanterna na Popa",
+        "Bretton Woods",
+        "economic history",
+        "state power"
+      ],
+      "regime": "Historical institutions of diplomacy, economy and state power.",
+      "key_risk": "Treating autobiographical testimony as independently verified political or economic outcomes.",
+      "watch": [
+        "Archival sources",
+        "Original legal and institutional records",
+        "Contrary historiography"
+      ],
+      "search_text": "Roberto Campos: A Lanterna na Popa and the contradictions of Brazilian development A historical biography of Campos's diplomacy, Bretton Woods, Petrobras proposal, BNDE, Targets Plan, PAEG, Central Bank, ORTN, FGTS, memoirs and later economic liberalism. world history international order Brazil war industrial policy political economy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Roberto Campos: A Lanterna na Popa, desenvolvimento brasileiro e contradições do liberalismo",
+      "deck": "Biografia histórica da diplomacia de Campos, Bretton Woods, proposta da Petrobras, BNDE, Plano de Metas, PAEG, Banco Central, ORTN, FGTS, memórias e liberalismo econômico posterior.",
+      "tags": [
+        "Roberto Campos",
+        "história internacional",
+        "economia política",
+        "diplomacia",
+        "biografia histórica"
+      ],
+      "keywords": [
+        "Roberto Campos",
+        "A Lanterna na Popa",
+        "Bretton Woods",
+        "economic history",
+        "state power"
+      ],
+      "regime": "Instituições históricas de diplomacia, economia e poder estatal.",
+      "key_risk": "Confundir testemunho autobiográfico com resultados políticos ou econômicos comprovados independentemente.",
+      "watch": [
+        "Fontes arquivísticas",
+        "Legislação e registros institucionais",
+        "Historiografia divergente"
+      ],
+      "search_text": "Roberto Campos: A Lanterna na Popa, desenvolvimento brasileiro e contradições do liberalismo Biografia histórica da diplomacia de Campos, Bretton Woods, proposta da Petrobras, BNDE, Plano de Metas, PAEG, Banco Central, ORTN, FGTS, memórias e liberalismo econômico posterior. world history international order Brazil war industrial policy political economy"
+    }
+  }
+}
