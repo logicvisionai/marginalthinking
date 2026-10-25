@@ -166,6 +166,12 @@ This illustrates a central feature of democratic legitimacy. Leadership in an ex
 
 Britain's postwar prosperity depended on reconstruction, trade, the monetary system and changes to empire. Victory had been won by a country whose financial position was much weaker than before 1939. The contrast between wartime prestige and declining relative economic power helps explain both the return of party politics and Britain's subsequent redefinition of its global role.
 
+## Bretton Woods, Cold War strategy and the reallocation of global power
+
+Churchill's wartime priorities had implications long beyond the 1945 election. British foreign-exchange shortages and reliance on American production reduced the country's ability to preserve its old financial predominance. During the war, officials from Allied and associated countries designed the Bretton Woods institutions that would structure important parts of postwar monetary cooperation. Roberto Campos participated in the 1944 Brazilian delegation, a reminder that the new order was negotiated by countries whose development needs differed markedly from those of Britain and the United States. [1][3]
+
+Henry Kissinger would later examine the conditions under which powerful states accept common restraints and smaller countries attempt to defend autonomy. His strategic problems emerged in an order shaped partly by World War II and the Soviet–American confrontation that followed it. Churchill's legacy therefore includes more than battlefield leadership: Allied victory accelerated changes in relative economic power, the rise of American financing and the decline of traditional European empires. The connections among Churchill, Campos and Kissinger are structural and chronological, not evidence of personal collaboration.
+
 ## Return to office, Cold War and historical legacy
 
 Churchill again served as prime minister from 1951 to 1955, in declining health and amid the consolidated Cold War. He supported the Atlantic alliance and sought to limit escalation with Moscow through personal diplomacy, with modest results. His Conservative government accepted much of the welfare-state architecture built under Labour after 1945. He resigned in 1955 and died on 24 January 1965. [1][2]
