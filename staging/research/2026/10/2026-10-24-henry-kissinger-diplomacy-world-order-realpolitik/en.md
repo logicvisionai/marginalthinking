@@ -162,6 +162,14 @@ After January 1977, Kissinger established Kissinger Associates and remained a wr
 
 The transformation of U.S.–Chinese relations would shape later economic integration, but factories, trade reform and industrial investment depended on decisions by Chinese leaders, companies and institutions far beyond Kissinger's control. His language of power, legitimacy and prudence remains influential. The archives on Chile, South Asia and Southeast Asia make it impossible to treat that influence as an uncomplicated story of diplomatic success. The lasting tension of *Diplomacy* and *World Order* is between the stability of the international system and the rights of people who often have no voice in constructing it.
 
+## Quantitative evidence and interpretation
+
+## SALT I as an observable constraint: unequal starting inventories and negotiated ceilings
+
+The May 1972 Interim Agreement did not require the two nuclear superpowers to possess equal strategic forces. The U.S. State Department's contemporary account registers 1,054 American and an estimated 1,618 Soviet intercontinental ballistic missile launchers, including units operational or under construction. The agreement froze the number of land-based launchers at existing levels. A second instrument regulated submarine-launched missile launchers: under the protocol, the United States could deploy up to 710 and the Soviet Union up to 950, but additions required dismantling older ICBM or SLBM launchers. These are launchers, not nuclear warheads, destructive capacity or a complete balance of nuclear forces. [22][23]
+
+The two charts thus show different mechanisms of the treaty: an unequal freeze of existing land-based launchers, and conditional ceilings on sea-based launchers. The agreement did not eliminate competition in bomber fleets, multiple independently targetable warheads or missile accuracy, which limits any inference about strategic parity. This is quantitative evidence of the bargain negotiated during Kissinger's tenure rather than a proxy for his general influence or for preventing nuclear war. [22]
+
 ## Chronology of documented decisions
 
 | Year | Event | Institutional source | Consequence |
@@ -179,11 +187,10 @@ The transformation of U.S.–Chinese relations would shape later economic integr
 
 ```chart
 type: bar
-title: Elapsed years between documented biographical landmarks
-unit: calendar years between the stated milestones, not a measure of performance
-1938 exile to 1954 doctorate | 16
-1954 doctorate to 1969 White House | 15
-1969 NSC entry to 1977 State Department exit | 8
+title: ICBM launchers existing or under construction when SALT I was signed, May 1972
+unit: individual land-based ICBM launchers; inventory levels frozen under the Interim Agreement
+United States | 1054
+Soviet Union | 1618
 ```
 
 ```flow
@@ -202,10 +209,10 @@ Egypt, Israel and Syria | Shuttle diplomacy after war | Partial diplomatic settl
 
 ```chart
 type: bar
-title: Overlapping U.S. executive offices held by Kissinger
-unit: approximate nominal years in each office; overlapping appointments are not additive
-National Security Adviser 1969–1975 | 6
-Secretary of State 1973–1977 | 4
+title: Conditional SLBM launcher ceilings under the May 1972 protocol
+unit: maximum individual submarine-launched ballistic-missile launchers, contingent on retiring older launchers
+United States | 710
+Soviet Union | 950
 ```
 
 ## Documentary sources and bibliography
@@ -250,3 +257,15 @@ Secretary of State 1973–1977 | 4
 
 [20] National Security Archive, human rights documentary collections: https://nsarchive.gwu.edu/briefing-book/chile-cold-war-henry-kissinger-indonesia-southern-cone-vietnam/2023-11-29/henry
 [21] Richard Falk, scholarly review of World Order (2015): https://journals.sagepub.com/doi/10.1177/0305829815594038
+
+[22] U.S. Department of State, 1972 Interim Agreement: land-based launchers and conditional sea-based ceilings: https://1997-2001.state.gov/global/arms/treaties/interim1.html
+
+[23] U.S. Army, SALT Agreements signed: 1,054/1,618 ICBM and 710/950 SLBM ceilings: https://www.army.mil/article-amp/170260/smdc_history_salt_agreements_signed
+
+[24] Simon & Schuster, publisher excerpt of Diplomacy, Chapter One: https://www.simonandschuster.biz/books/Diplomacy/Henry-Kissinger/9781439126318
+
+[25] Henry Kissinger, original 2014 essay outlining World Order, Hoover Institution: https://www.hoover.org/research/henry-kissinger-assembly-new-world-order-concept-has-underpinned-modern-geopolitical-era
+
+[26] Columbia Journal of International Affairs, Bryan D. Griffin review of World Order, 2014: https://jia.sipa.columbia.edu/news/prospects-world-order
+
+[27] Charles Maechling, review of Diplomacy, Foreign Service Journal, September 1994: https://afsa.org/sites/default/files/fsj-1994-09-september_0.pdf
