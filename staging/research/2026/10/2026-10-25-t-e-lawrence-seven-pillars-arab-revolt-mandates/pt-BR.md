@@ -90,6 +90,14 @@ Winston Churchill, então responsável por assuntos coloniais, reuniu autoridade
 
 As monarquias hachemitas não constituíram a independência unificada imaginada por certos nacionalistas durante a revolta. Surgiram em territórios sob tutela e influência britânica, com governos locais e poderes externos entrelaçados. Os arranjos podiam permitir autonomia administrativa relativa enquanto reservavam aos britânicos meios decisivos de defesa e relações internacionais. Esse resultado mostra a dimensão institucional, e não somente dramática, da colaboração Lawrence–Churchill: ambos participaram da formação de uma ordem mandatária que contradizia certas aspirações da guerra.
 
+## O testemunho de Faiçal: independência reivindicada pelos próprios árabes
+
+A memória de Lawrence pode ser contrastada com documentos em que representantes de Faiçal formulam reivindicações políticas diretamente. Um memorando encaminhado em março de 1921, preservado na documentação das Nações Unidas sobre a questão palestina, declara que os árabes entraram na guerra desejando independência e invoca as garantias britânicas recebidas por Hussein antes da revolta. A reivindicação apresenta a guerra como empreendimento de um povo que esperava decidir seu destino, não como missão pessoal de um oficial estrangeiro. [16]
+
+O memorando também demonstra a diferença entre uma promessa militar e uma solução diplomática aceita. Partes da correspondência de 1915 continham exceções e ressalvas; as potências europeias interpretavam esses termos sob seus interesses na Síria, Palestina e Mesopotâmia. Para os representantes hachemitas, a credibilidade britânica dependia de que a colaboração contra os otomanos fosse reconhecida politicamente. A guerra criara obrigações morais e expectativas materiais que não eram eliminadas pela simples assinatura dos mandatos.
+
+A ligação com Churchill aparece em documentação material preservada pela Biblioteca do Congresso dos EUA, inclusive fotografia de Churchill e Lawrence durante a Conferência do Cairo de 1921. A imagem comprova presença e cooperação institucional, não um acordo particular sobre cada fronteira ou o consentimento de seus habitantes. Juntar memorando árabe, registros oficiais e testemunho de Lawrence permite reconstruir uma diplomacia na qual os atores tinham capacidade de decisão profundamente desigual. [17]
+
 ## A construção de Seven Pillars: manuscrito de 1922, edição de 1926 e edição de 1927
 
 O processo editorial de *Os Sete Pilares da Sabedoria* altera substantivamente o que se lê. A redação de 1922, conhecida como *Oxford Text*, tinha cerca de 335 mil palavras e foi impressa em apenas oito cópias de prova. A edição restrita aos assinantes de 1926, com aproximadamente 250 mil palavras, foi artisticamente elaborada e muito custosa. Para cobrir despesas, Lawrence preparou *Revolt in the Desert* em 1927, uma condensação de aproximadamente 130 mil palavras. O Royal United Services Institute documenta essas três escalas e os custos extraordinários da edição de 1926. [4][5]
@@ -232,3 +240,6 @@ Iraque e Transjordânia | Arranjos de 1921 | Monarquias hachemitas e mandatos
 
 [14] Library of Congress, Seven Pillars 1926, registro e material exemplar: https://www.loc.gov/item/67123168/
 [15] Seven Pillars of Wisdom, sumário dos dez livros: https://www.bookfusion.com/books/2101755-seven-pillars-of-wisdom
+[16] Nações Unidas, memorando apresentado por Faiçal em março de 1921: https://www.un.org/unispal/document/auto-insert-203679/
+
+[17] Biblioteca do Congresso, Churchill e T. E. Lawrence no Cairo em 1921: https://www.loc.gov/exhibits/churchill/interactive/_html/wc0079.html
