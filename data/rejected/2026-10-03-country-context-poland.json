@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-03-poland",
+  "slug": "2026-10-03-country-context-poland",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T21:42:09Z",
+  "reviewed_commit": "72e80e2ae2c5bf2ebc06d9fb10e4599b2325118f",
+  "pending_blob_sha": "6f0d17f5e3d31a82139d2870b0ecdb417bebf283",
+  "source_blob_shas": {
+    "en": "d1ed0a207c9a00b85f4b6ca8fd7ee6c3850b733a",
+    "pt-BR": "06ddb0bbb07c9ae508b32fc2a83382461d14ec82"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "factual_methodology",
+      "location": "staging/research/2026/10/2026-10-03-country-context-poland/en.md:49-59; pt-BR.md:49-59",
+      "issue": "The Q2 2026 comparative GDP chart labels the EU year-on-year growth rate 1.2% and France 0.7%, whereas Eurostat's 7 September 2026 harmonised Q2 release reports EU 1.4% and France 0.5%. The 1.2% value is the euro-area rate, not the EU rate. The draft uses Polish GUS 3.9% alongside Eurostat-style peer comparisons without disclosing the harmonisation difference (Eurostat's seasonally adjusted Poland figure is 3.8%). The same errors appear in both locales.",
+      "evidence": [
+        "EN chart values Poland 3.9, EU 1.2, Germany 1.0, France 0.7; PT-BR numeric array identical.",
+        "Eurostat GDP Q2 2026, 7 Sep 2026, harmonised year-on-year figures: EU 1.4%, euro area 1.2%, Germany 1.0%, France 0.5%, Poland 3.8%: https://ec.europa.eu/eurostat/web/products/euro-indicators/w/2-07092026-ap",
+        "The 3.9% GUS value may be retained as a separately defined national estimate, but should not be silently mixed into a harmonised cross-country comparison."
+      ]
+    },
+    {
+      "check": "factual_methodology",
+      "location": "staging/research/2026/10/2026-10-03-country-context-poland/en.md:186-192; pt-BR.md:186-192",
+      "issue": "The report states the Polish RRF plan totals €59.8bn, including €25.3bn grants and €29.4bn loans. These components total €54.7bn, not €59.8bn. The €59.8bn figure belongs to the earlier plan before the loan allocation was reduced; the European Parliament's April 2026 briefing documents the revised €54.7bn total. This materially confuses an older financing envelope with the current approved plan.",
+      "evidence": [
+        "EN/PT-BR line 190: €59.8bn total, €25.3bn grants, €29.4bn loans; arithmetic difference €5.1bn.",
+        "European Parliamentary Research Service, 9 Apr 2026, Poland's NRRP latest state of play: €54.7bn total (€25.3bn grants and €29.4bn loans), down from €34.5bn loans: https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2022)733665",
+        "The linked European Commission country page retains older documents for the €59.8bn historical version, so the source edition and revision date must be identified."
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-03-country-context-poland/en.md:90-98; pt-BR.md:90-98",
+      "issue": "The bar chart 'Poland: demographic and macro scale in 2026' combines population (37.2 million persons), GDP growth (3.9%), CPI inflation (4.0%) and an interest rate (3.75%) on a single numeric axis labelled 'unit: value'. This is a dimensionally invalid comparison, not quantitative evidence. Both languages reproduce it.",
+      "evidence": [
+        "EN values [37.2,3.9,4.0,3.75], PT-BR identical; the first category is persons in millions while the others are rates.",
+        "RESEARCH-VISUALS.md evidence rules 3-5 require explicit units and compatible denominators; a chart must not compare incompatible units because they fit one axis."
+      ]
+    },
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-03-country-context-poland/en.md:67-116, 178-190, 322-352; pt-BR.md:67-116,178-190,322-352",
+      "issue": "Both editions have zero numbered source markers in the argument. Only 10 direct URLs appear at the end, followed by generic, unlinked 'sources retained from the first edition'. Claims about September CPI, NBP interest rate, SAFE defence financing, presidential vetoes, and nuclear licensing are not linked to their exact primary releases. A substantive revision must use claim-level numbered references and a final complete bibliography.",
+      "evidence": [
+        "EN/PT-BR complete Markdown: zero [1]/[2]/etc. references; 10 distinct URLs across 6 source hosts; 11 unlinked generic source entries at lines 342-352.",
+        "EDITORIAL-STYLE.md lines 278-283 explicitly require concise numbered in-text references and full bibliographic details/links at the end for substantive revisions.",
+        "The listed presidency URL https://k.prezydent.pl/en/news is a news index, not the specific 41-veto/255-signature document; the SAFE loan figure and 2026 nuclear licensing statements lack linked original documents."
+      ]
+    },
+    {
+      "check": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-03-country-context-poland/en.md:9-169 and 170-296; pt-BR.md:9-169 and 170-296",
+      "issue": "The revision preserves the first edition's 14 analytical sections and appends a second analytical pass that repeats the same institutional, convergence, German trade, demography, defence, coal, nuclear and fiscal mechanisms. The added material has useful details but is not integrated into a continuous argument; multiple section pairs restate the same data and thesis. This fails RESEARCH-PUBLISHING.md's argument-continuity and no-stitched-prose gate.",
+      "evidence": [
+        "EN 9-28 versus 178-184 (divided executive), 30-46 versus 170-176 (convergence), 47-64 versus 194-200 (growth), 82-99 versus 226-232 (demography), 100-109 versus 234-240 (defence), 110-130 versus 250-264 (energy/nuclear), 147-153 versus 202-208 (German industrial link).",
+        "Prior public edition: approximately 2,385 substantive EN words/14 H2; staged revision: approximately 5,633 words/31 H2. Increased length adds depth but also duplicated first-pass sections."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Rebuild the Q2 2026 comparison using one harmonised Eurostat vintage and clearly specify seasonal/calendar adjustment, observation period and release date in both locales; EU 1.4%, France 0.5% in the 7 Sep 2026 release, and distinguish Polish GUS 3.9% from Eurostat adjusted 3.8% if both are retained.",
+    "Correct RRF financing to the revised €54.7bn (€25.3bn grants plus €29.4bn loans) as documented before the 3 Oct 2026 article cut; mention €59.8bn only as the older envelope with dated attribution, and revise economic interpretations where relevant.",
+    "Replace the population/GDP/CPI/rate single-axis bar chart with comparable observations, or split indicators into an annotated table or separate visuals. Maintain numeric and semantic EN/PT-BR parity; assess whether energy generation share versus installed capacity needs clearer separation.",
+    "Add numbered in-text references in both languages, with exact original statistical releases, SAFE decisions, presidential report, nuclear licensing documents, and dated bibliographic links at the end; remove unlinked generic source padding.",
+    "Integrate the added historical and industrial detail into the existing analytical structure, remove repeated first-pass sections, and preserve the genuine new evidence and contradiction ledger.",
+    "Keep canonical ID/slug and public revision 0 unchanged. Update BOTH staged Markdown editions first, then rewrite pending v2 LAST with revision 2 and new Git blob SHAs before independent QA. Do not modify public reports, indices, CSS, taxonomy or institutional content."
+  ],
+  "evidence": [
+    "At reviewed HEAD 72e80e2ae2c5bf2ebc06d9fb10e4599b2325118f: pending 6f0d17f5e3d31a82139d2870b0ecdb417bebf283, EN d1ed0a207c9a00b85f4b6ca8fd7ee6c3850b733a, PT-BR 06ddb0bbb07c9ae508b32fc2a83382461d14ec82; 3/3 source paths matched the Git tree; public Poland metadata revision 0 (f5776bc732465589c64f483e088a81553da2de6f); no existing Poland rejection file.",
+    "Reproduced deterministic content metrics on both complete staged Markdown files: EN 5,633 substantive words, PT-BR 5,639; 31 H2 each (including Sources), 4 charts, 1 flow, 18 Markdown table lines, 10 distinct URLs and 6 source hosts in each. All four chart numeric arrays match EN/PT-BR. Country-context 1,600-word/12-H2 floor passes, but substantive factual/visual/editorial gates fail.",
+    "Source cross-check: Eurostat Q2 2026 harmonised GDP release of 7 Sep 2026; European Parliament EPRS Poland RRF update of 9 Apr 2026. Both predate the report's 3 Oct 2026 cut.",
+    "The staged revision is longer than the public edition but carries forward its incompatible-unit demographic chart and repeats core sections rather than integrating the additional analysis.",
+    "Full scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs were inspected but NOT executed under Node: repository checkout unavailable and container git DNS resolution failed. This is not recorded as a successful validator run."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "Pending v2 ready true, revision 1, canonical ID/slug, controlled program, topics, phenomena, geography, format and cadence; related public Russia and France dossiers exist."
+    },
+    "research_depth": {
+      "result": "passed_on_reproduced_expressions",
+      "en_words": 5633,
+      "pt_br_words": 5639,
+      "en_h2": 31,
+      "pt_br_h2": 31,
+      "source_urls_each": 10,
+      "source_hosts_each": 6,
+      "charts_each": 4,
+      "flow_each": 1,
+      "table_lines_each": 18,
+      "notes": "Country-context minimum passed; Node scripts not executed."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "notes": "GDP EU/France comparator data inconsistent with pre-cut Eurostat Q2 release; RRF headline amount is an older allocation and does not equal stated components."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Zero numbered references and several material claims without exact original source URLs."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "Contradiction ledger and conditional scenarios present, but unsupported categorical phrasing and inconsistent baselines need correction."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Same section structure, 10 source URLs and four identical numeric chart arrays; both locales share blocking defects."
+    },
+    "novelty_against_public_corpus": {
+      "result": "partial",
+      "notes": "Substantial added analysis beyond revision 0, but duplicated first-pass mechanisms prevent a coherent new edition."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Repeated thematic sections and inadequate claim-level source tracing."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Population millions and three percent rates plotted together on an untyped numeric axis."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Node scripts inspected; no local checkout. Deterministic expressions reproduced; no false pass claimed."
+    }
+  },
+  "producer_route": "task 3/5 — MT-CC country-context structural producer",
+  "notes": "First rejection for this canonical ID revision 1 and exact 3/3 SHA tuple. Existing public revision 0 remains unchanged. No producer/publisher task invocation claimed."
+}
