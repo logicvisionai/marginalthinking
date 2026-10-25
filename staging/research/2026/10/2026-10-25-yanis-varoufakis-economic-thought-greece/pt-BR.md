@@ -294,8 +294,25 @@ Trajetória intelectual de Varoufakis
   - Propriedade e democracia econômica
 ```
 
-## Referências
 
+
+```chart
+type: bar
+title: Distribuição do limite autorizado do ESM 2015–2018
+unit: % do teto de €86 bilhões, valores arredondados
+Desembolsado | 72
+Não desembolsado | 28
+```
+
+```map
+title: Geografia institucional da crise grega
+Grécia | Governo, bancos e eleitores diretamente atingidos | Principal exposição doméstica aos custos de ajuste
+Zona do euro | Estados credores e compromissos monetários conjuntos | Interesses nacionais e mandatos institucionais distintos
+União Europeia | Comissão, Conselho e coordenação do Eurogrupo | Autoridades formais e informais não são idênticas
+Sistema financeiro internacional | FMI e mercados de dívida soberana | Reestruturação depende de contratos e condições financeiras
+```
+
+## Referências
 [1] Yanis Varoufakis, informações biográficas e carreira universitária: https://www.yanisvaroufakis.eu/about-the-author/
 
 [2] Yanis Varoufakis, bibliografia de livros e edições: https://www.yanisvaroufakis.eu/books/
