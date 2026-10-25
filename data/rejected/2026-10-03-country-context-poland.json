@@ -20,7 +20,7 @@
       "issue": "The Q2 2026 comparative GDP chart labels the EU year-on-year growth rate 1.2% and France 0.7%, whereas Eurostat's 7 September 2026 harmonised Q2 release reports EU 1.4% and France 0.5%. The 1.2% value is the euro-area rate, not the EU rate. The draft uses Polish GUS 3.9% alongside Eurostat-style peer comparisons without disclosing the harmonisation difference (Eurostat's seasonally adjusted Poland figure is 3.8%). The same errors appear in both locales.",
       "evidence": [
         "EN chart values Poland 3.9, EU 1.2, Germany 1.0, France 0.7; PT-BR numeric array identical.",
-        "Eurostat GDP Q2 2026, 7 Sep 2026, harmonised year-on-year figures: EU 1.4%, euro area 1.2%, Germany 1.0%, France 0.5%, Poland 3.8%: https://ec.europa.eu/eurostat/web/products/euro-indicators/w/2-07092026-ap",
+        "Eurostat GDP Q2 2026, 7 Sep 2026, harmonised year-on-year figures: EU 1.4%, euro area 1.2%, Germany 1.0%, France 0.5%, Poland 3.8%: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-07092026-ap",
         "The 3.9% GUS value may be retained as a separately defined national estimate, but should not be silently mixed into a harmonised cross-country comparison."
       ]
     },
