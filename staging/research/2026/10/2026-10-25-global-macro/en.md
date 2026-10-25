@@ -118,7 +118,7 @@ Two transmission risks dominate: an independently verified maritime supply inter
 
 [10] UK ONS, September 2026 retail sales, released 23 Oct: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026
 
-[11] Japan Statistics Bureau, September CPI released 23 Oct: https://www.stat.go.jp/english/
+[11] Japan Statistics Bureau, September CPI released 23 Oct: https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.htm
 
 [12] Federal Government of Brazil, official budget approval process (PPA/LDO/LOA): https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional
 
