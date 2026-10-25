@@ -218,6 +218,14 @@ Normandia e Europa Ocidental | Operação Overlord | Abertura da frente ocidenta
 Índia e Bengala | Política colonial e crise alimentar | Direitos e distribuição sob guerra
 ```
 
+```chart
+type: bar
+title: Intervalos entre marcos militares do governo Churchill
+unit: anos corridos entre marcos; sequência estratégica, não desempenho militar
+1940 posse de Churchill a 1944 desembarque na Normandia | 4
+1944 desembarque na Normandia a 1945 rendição alemã | 1
+```
+
 ## Bibliografia e documentação histórica
 
 [1] Nobel Prize, biografia de Winston Churchill e bibliografia histórica: https://www.nobelprize.org/prizes/literature/1953/churchill/biographical/
