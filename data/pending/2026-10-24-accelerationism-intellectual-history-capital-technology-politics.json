@@ -103,26 +103,28 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "research_subject": {
     "name": "Accelerationism",
     "type": "intellectual-tradition"
   },
-  "related_research": [
-    "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
-    "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
-    "2026-10-24-peter-thiel-finance-technology-and-political-power",
-    "2026-10-24-elon-musk-technology-industrial-power-politics"
-  ],
+  "related_research": [],
   "producer_checks": {
     "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
-    "research_depth": "Editorial depth in current source blobs: EN 5027 substantive words / 20 URLs from 18 domains / 24 headings; PT-BR 4846 substantive words / 20 URLs from 18 domains / 24 headings. Does not constitute QA approval.",
+    "research_depth": "EN 5255 and PT-BR 5058 substantive words; 25/25 H2 headings; sources 22/22 URLs across 19/19 domains.",
     "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
-    "source_check": "Selected primary publications, corporate filings, NASA materials, academic and archival references were cross-checked; all claim-to-source correspondences require independent editorial QA before promotion.",
-    "visual_signature": "Two bilingual-identical numerical bar charts plus causal flow, geographical exposure map and comparative tables.",
+    "source_check": "Primary/curated source URLs and counterevidence added in r2. Bibliography and chart data parity producer-screened; independent claim-to-source and substantive author bias QA still required.",
+    "visual_signature": "Two independent evidence-based numeric charts and a historical evidence table, a causal flow, a geographic/structural visual per language; precisely equivalent chart numbers [[\"415\",\"945\"],[\"45\",\"25\",\"15\"]]. See period and evidence limitations in body.",
     "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
     "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
-    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending."
-  }
+    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+    "qa_handoff": "Staged revision 2 remediates the recorded revision-1 rejection topics. Previous rejection retained as historical record; source hashes below; not approved and not published.",
+    "source_blob_shas": {
+      "en": "3137446693b1842cf536ea3b62f2f93031aa0a0e",
+      "pt-BR": "180a88a8b125f6fc638b3e706e1d98e0de41388c"
+    },
+    "review_required": "Independent QA must independently assess documentary evidence, chart method and interpretation, source metadata and translated equivalence before producing approved r2."
+  },
+  "revision_reason": "Replaced publication-gap charts with IEA observed vs modelled data-centre demand and 2024 geographic electricity distribution. Corrected Christian Fuchs bibliographic identity and removed four dead links."
 }
