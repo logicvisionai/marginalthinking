@@ -165,6 +165,15 @@ United States / Silicon Valley | Later technology and capital discussions | Rhet
 Online transnational sphere | Dark Enlightenment and e/acc circulation | Internet adoption does not prove direct mentorship
 ```
 
+## Connected research in this series
+
+The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** Yarvin's formalist sovereignty, Thiel's venture-political institutions, Musk's industrial development and the broader philosophical genealogy.
+
+- [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+- [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Sources and bibliography
 
 [1] Urbanomic, Nick Land, Fanged Noumena collection: https://www.urbanomic.com/book/fanged-noumena/
