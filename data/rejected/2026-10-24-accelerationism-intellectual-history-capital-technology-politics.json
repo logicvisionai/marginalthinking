@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "id": "MT-HT-2026-10-24-ACCELERATIONISM",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T01:45:50.556Z",
+  "reviewed_commit": "b86a4ac7df422f6fe949b70a6e3c73fb15bb0095",
+  "pending_blob_sha": "b644620bc2105047679554f21adda706687aec6d",
+  "source_blob_shas": {
+    "en": "b9b2da9397cb0ed2bc9e093ed826817d3bf4bca1",
+    "pt-BR": "950dba65a24eae29ab3e875a0d2e7c5728ede6b0"
+  },
+  "program": "technology-production-society",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md and pt-BR.md; two `chart` fences after the two comparative tables",
+      "issue": "Both quantitative charts are constructed solely from arbitrarily selected publication-date gaps (2 vs 39 years, 5 vs 10 years). They neither measure intellectual influence nor test the report's mechanisms, institutional effects or acceleration in a defined economic variable. They are correctly calculated but ornamental, and no adjacent analysis interprets the comparison. Passing the numeric count of two charts does not satisfy RESEARCH-VISUALS.md's substantive-evidence rule.",
+      "evidence": [
+        "EN chart titles: 'Publication intervals in the historical genealogy' and 'Recent intervals in public acceleration debate'; PT-BR: 'Intervalos de publicação na genealogia histórica' and 'Intervalos recentes do debate sobre aceleração'.",
+        "First chart compares Anti-Oedipus (1972) to Libidinal Economy (1974) with the disjoint interval from 1974 to the 2013 manifesto; second compares Yarvin (2007) to Land (2012) and a separate 2013-to-2023 interval.",
+        "Both editions explicitly state that chronology does not demonstrate intellectual influence; dates are not fabricated, but the chosen gap magnitudes carry no supported analytical conclusion."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Both editions: 'Connected research in this series' / 'Pesquisas relacionadas da série'; four /reports or /pt-br/reports hyperlinks",
+      "issue": "All four linked dossiers (Yarvin, Land, Thiel, Musk) are still pending without an approval or public index entry at reviewed HEAD. Publishing this edition alone would introduce four non-existent report destinations in both languages.",
+      "evidence": [
+        "data/reports.json at HEAD contains 135 entries and zero entries for MT-SA-2026-10-24-YARVIN, MT-SA-2026-10-24-LAND, MT-SA-2026-10-24-THIEL or MT-SA-2026-10-24-MUSK.",
+        "The repository tree at HEAD has no corresponding approved sidecars or public metadata bundles for those four slugs."
+      ]
+    },
+    {
+      "type": "bibliographic_traceability",
+      "location": "EN Sources and works [4] vs PT-BR Fontes e obras [4]",
+      "issue": "The same DOI 10.1177/07255136261487456 is labelled 'Nick Land and Dark Enlightenment' in English but 'The TOXIC schema' in Portuguese. The verified original title is 'The TOXIC schema: How Nick Land's Dark Enlightenment works' (Christian Fuchs, Thesis Eleven, published online 16 September 2026). Use the precise same bibliographic identity in both editions.",
+      "evidence": [
+        "Primary publisher DOI https://journals.sagepub.com/doi/10.1177/07255136261487456",
+        "University repository metadata https://ris.uni-paderborn.de/record/67152"
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the two publication-gap charts with at least two genuinely evidence-bearing, source-reproducible quantitative visualizations tied to a substantive research question, or redesign the visual argument using supported structured evidence without manufacturing numeric observations. Retain the strict two-chart gate; a purely chronological display can be a table/diagram but cannot be counted as substantive chart evidence.",
+    "Remove or defer the four public links until their target reports have actually been QA-approved and materialized, or make the cross-references plain text without broken destinations. Revalidate both locales and the public corpus immediately before any later approval.",
+    "Normalize reference [4] to the exact publisher title and date in EN/PT-BR; verify citation-to-claim correspondence after revision.",
+    "Keep the canonical ID and slug unchanged; stage both revised Markdown files and update the pending v2 sidecar last. Submit new Git blob SHAs for independent QA, without public writes."
+  ],
+  "evidence": [
+    "Exact source blobs at reviewed HEAD: pending b644620bc2105047679554f21adda706687aec6d; EN b9b2da9397cb0ed2bc9e093ed826817d3bf4bca1; PT-BR 950dba65a24eae29ab3e875a0d2e7c5728ede6b0.",
+    "The post-2026-10-12 strict editorial-depth expressions in scripts/validate-editorial-depth.mjs were applied directly: EN 5,027 substantive words, 24 H2 headings, 20 unique URLs from 18 hosts; PT-BR 4,846 words, 24 H2 headings, 20 URLs from 18 hosts. Both have 2 charts, 1 flow, 1 map, 16 table lines and identical numeric chart arrays [[2,39],[5,10]].",
+    "The primary 2013 Williams/Srnicek manifesto and 2023 Andreessen manifesto are cited as distinct political positions, but their arbitrary elapsed interval does not establish ideological proximity, technology deployment or acceleration.",
+    "Christian Fuchs, Thesis Eleven 2026 original publisher and Paderborn repository: https://journals.sagepub.com/doi/10.1177/07255136261487456 ; https://ris.uni-paderborn.de/record/67152.",
+    "The ICCT source [19] does discuss a violent siege-culture use of 'accelerationism'; the draft generally distinguishes it from philosophical accelerationism, so no unsupported equivalence is alleged here."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "Pending schema_version 2, ready true, English-first, canonical ID/slug, valid taxonomy 1.0 program, related programs, dimensions, topics, phenomena, format, cadence and geography."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 5027,
+      "pt_br_words": 4846,
+      "en_h2": 24,
+      "pt_br_h2": 24,
+      "source_urls_each": 20,
+      "distinct_hosts_each": 18,
+      "notes": "Strict depth thresholds reproduced from the repository script, but not executed as a full Node repository process."
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "notes": "Selected primary texts, dated scholarly publisher metadata and distinction of extremist terminology checked; bibliography [4] is inconsistent between locales; no exhaustive sentence-level verification was completed."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "Distinguishes ideology from measured productivity, private investment from public authority, philosophical from violent accelerationism; complete evidence-to-claim recheck needed after visual corrections."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Equivalent 24 section headings, 20 matched URLs, main argument, dates and identical chart values; bibliography [4] label differs."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Four internal links resolve to currently unapproved, nonpublic reports; publication would create broken navigation. Introductory thesis is substantive, and no gross partisan advocacy was identified."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two date-gap charts pass the count regex but are arbitrary chronology-as-quantity and do not test any claim or mechanism. EN/PT-BR values match; flow/map are broadly aligned with the thesis."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "No full local Git checkout available; GitHub connector supports read and commit but not execution of repository-wide Node validators."
+    }
+  },
+  "contrary_evidence": [
+    "The report acknowledges that philosophical, political and business uses of acceleration are not a unitary movement.",
+    "A technology spending increase does not establish productivity gains or political control.",
+    "The ICCT research distinguishes violent collapse tactics from philosophical accelerationism; shared vocabulary is not proof of affiliation."
+  ],
+  "limitations": [
+    "Visual evidence was examined against the actual RESEARCH-VISUALS.md contract; counts alone cannot certify chart usefulness.",
+    "The strict depth validator's exact expressions were reproduced, not the complete Node script execution.",
+    "Only selected sources were independently cross-checked; a revised candidate requires fresh factual and bilingual verification.",
+    "No approved sidecar or public bundle for this ID was present at reviewed HEAD."
+  ],
+  "notes": "Independent QA rejection only. No reports/**, public index, CSS, taxonomy or institutional files modified. Retrabalho should go to producer 3/5 as a structural historical-intellectual research item; no producer or publisher task execution is claimed."
+}
