@@ -117,7 +117,7 @@
   ],
   "producer_checks": {
     "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
-    "research_depth": "Current staged source substantive token-counting proxy: English 3823 words, Brazilian Portuguese 3776; 19/19 analytical sections; 13/13 external URLs; 8/8 source hosts. Counts exclude code-fenced charts and literal URLs.",
+    "research_depth": "Editorial depth in current source blobs: EN 4776 substantive words / 13 URLs from 8 domains / 23 headings; PT-BR 4666 substantive words / 13 URLs from 8 domains / 23 headings. Does not constitute QA approval.",
     "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
     "source_check": "Selected primary publications, corporate filings, NASA materials, academic and archival references were cross-checked; all claim-to-source correspondences require independent editorial QA before promotion.",
     "visual_signature": "Two bilingual-identical numerical bar charts plus causal flow, geographical exposure map and comparative tables.",
