@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-25-SCHACHT",
+  "slug": "2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T04:43:18.180Z",
+  "reviewed_commit": "f771cd9a01df6781de5909a3dfabaa89725f7201",
+  "pending_blob_sha": "0a4047d85255d9a9bbc20c96efb1995bb679483b",
+  "source_blob_shas": {
+    "en": "7e594ab157a6a407ed80dff432bd9dd068c4c019",
+    "pt-BR": "a7f2423fa18cf58f34726b6106c67e222579abfe"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/en.md:137-173 and pt-BR.md:143-179; both chart fences and chronology tables",
+      "issue": "Both charts repeat career chronology rather than testing the economic-finance mechanism at the center of the dossier. The first plots approximate overlapping office durations (7, 6, 3 years); the second plots arbitrarily selected gaps between unrelated career milestones (10, 6, 7 years). Their dates are not fabricated and BIOGRAPHICAL-RESEARCH.md permits meaningful tenure chronologies, but here the second chart duplicates the first/table and neither conveys issuance, maturity, rediscounting, military production, or foreign-exchange constraints. The two-chart count is met but the substantive visual-evidence readiness test is not.",
+      "evidence": [
+        "RESEARCH-VISUALS.md §§Evidence rules and QA; BIOGRAPHICAL-RESEARCH.md §Contrato gráfico: evidence rather than decoration, comparable periods and data-linked visuals.",
+        "Nuremberg 23 November 1945 prosecution transcript [12] documents cumulative MEFO issues of 12 billion Reichsmarks by 1 April 1938 and distinguishes the financing mechanism; source has historical financial quantities that could support a documented analytical visualization if independently reconciled: https://avalon.law.yale.edu/imt/11-23-45.asp",
+        "EN chart data [[7,6,3],[10,6,7]]; PT-BR identical. The second chart has no defined economic variable, denominator or interpretation beyond elapsed years."
+      ]
+    },
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/en.md:61-71,189-219 (bibliography [2] and [15]); pt-BR.md:61-71,195-225",
+      "issue": "The detailed discussion of blocked accounts, bilateral clearing, commercial bargaining and exchange controls cites [15], described as a German History in Documents and Images documentary source on the New Plan. [15] duplicates [2] exactly and resolves to a photograph of Hitler and Schacht dated 5 May 1934, accompanied by a short retrospective editorial abstract. That abstract mentions import restrictions and state trade control but does not itself document the detailed bilateral clearing contracts or blocked-credit mechanisms asserted in the manuscript. The source type and claim-level support are overstated.",
+      "evidence": [
+        "Actual GHDI record, title 'Hitler with Reichsbank President Hjalmar Schacht (May 5, 1934)', identifies its primary source as an image of a foundation-stone ceremony; abstract offers brief historical summary: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934",
+        "Both bibliography [2] and [15] point to that same photograph/abstract; [15] is used alone for the bilateral-clearing section in both languages.",
+        "Nuremberg prosecution transcript provides separate original statements about the New Plan's import and exchange control, but not country-level blocked-account contracts: https://avalon.law.yale.edu/imt/11-23-45.asp"
+      ]
+    },
+    {
+      "check": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/en.md:37-41 and chronology table:145-146; pt-BR.md:37-41 and chronology table:151-152",
+      "issue": "The political chronology jumps from Schacht's 1931 Harzburg Front participation to his 1933 return to the Reichsbank, while describing his role in Hitler's rise only as an influential intermediary. It omits a concrete and directly documented 1932 action central to the biography's thesis about political agency: the German Historical Museum records Schacht initiating a petition by industrialists and bankers to President Hindenburg to appoint Hitler chancellor. The omission makes the account of his active support materially less specific than the available primary institutional chronology.",
+      "evidence": [
+        "Deutsches Historisches Museum, LeMO biography, entry November 1932: 'Als Mitglied des Freundeskreises der Wirtschaft initiiert er eine Petition deutscher Industrieller und Bankiers an Reichspräsident Paul von Hindenburg, Hitler zum Reichskanzler zu ernennen.' https://www.dhm.de/lemo/biografie/hjalmar-schacht",
+        "Current EN and PT-BR paragraphs describe Harzburg in 1931 and business networks but not the 1932 petition or its political purpose; both chronology tables omit 1932."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace or materially redesign the arbitrary milestone-gap chart and add a second source-reproducible quantitative visual that illuminates the economic mechanisms (MEFO financing, central-bank exposure, import/FX allocation, or documented industrial production), with harmonized periods, definitions, units and EN/PT-BR values. Do not invent missing series or mix issuance flows with outstanding stocks.",
+    "Correct bibliography [2]/[15] to identify the photograph and editorial abstract accurately; remove duplicate inflation of distinct-source claims. Cite contemporaneous trade-control decrees, clearing agreements or specialist archival studies for the detailed blocked-account and bilateral-settlement assertions, or narrow those claims to what the existing sources actually establish, in both languages.",
+    "Add the 1932 petition to Hindenburg and Schacht's documented role, with attribution to the German Historical Museum and proportional historical context, in EN/PT-BR narrative and chronology.",
+    "Retain the same canonical ID and slug; update both staged Markdown files, write the pending v2 sidecar LAST with revision incremented and new Git blob SHAs; submit for new independent QA. Do not change reports/**, indexes, CSS, taxonomy or institutional content."
+  ],
+  "evidence": [
+    "HEAD f771cd9a01df6781de5909a3dfabaa89725f7201; pending blob 0a4047d85255d9a9bbc20c96efb1995bb679483b; EN 7e594ab157a6a407ed80dff432bd9dd068c4c019; PT-BR a7f2423fa18cf58f34726b6106c67e222579abfe; pending producer_checks source_shas 2/2 match staged files.",
+    "Exact expressions from scripts/validate-editorial-depth.mjs reproduced on both staged Markdown files: EN 3565 substantive words, 16 distinct URLs/8 source hosts, 23 H2 headings, 2 charts, 1 flow, 1 map, 17 table lines; PT-BR 4380 words, 16 URLs/8 hosts, 24 H2, 2 charts, 1 flow, 1 map, 17 table lines. Numeric chart arrays [[7,6,3],[10,6,7]] in both languages. Formal quantitative floor passes; substantive visual gate fails.",
+    "Primary source spot-checks: Nuremberg 23 Nov 1945 transcript confirms 12 billion RM cumulative MEFO issues and New Plan claims; Bundesbank Vocke biography confirms board memorandum authorship; DHM confirms 1932 petition and main career dates. The legal acquittal and later denazification proceedings are generally distinguished appropriately.",
+    "MT-WF-2026-10-19 is already approved and public at revision 0 with matching pending/approval/public blobs and was not reprocessed.",
+    "Complete Node scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs could not run because a local Git checkout was unavailable (container git DNS failed); this is not a claim of passing full validation."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "Pending v2 ready true, revision 1, canonical ID and slug, controlled program, topics, phenomena, format and geography; no approved/rejected/public artifact for this slug at reviewed HEAD."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 3565,
+      "pt_br_words": 4380,
+      "en_h2": 23,
+      "pt_br_h2": 24,
+      "source_urls_each": 16,
+      "distinct_hosts_each": 8,
+      "notes": "Strict depth floor reproduced; full Node script not executed."
+    },
+    "factual_methodology": {
+      "result": "partial",
+      "notes": "Key MEFO 12 billion cumulative issues, Schacht appointment dates and 1939 Vocke memo cross-checked; detailed clearing and political agency need source-level correction."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Bibliography [15] repeats [2] and misidentifies a historical photograph plus short abstract as direct trade-policy documentation for bilateral clearing."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Distinguishes issued MEFO bills from outstanding stock, legal verdict from historical agency, financing from real resources; these merits do not override failed gates."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Both locales share same financial claims, charts, citation URLs and omissions; PT-BR has one additional analytical section; corrected sources and visuals must be rechecked."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Material 1932 political-action omission and claim-to-source weaknesses; article not ready for publication."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two chronological bar charts count mechanically but do not independently expose economic evidence; the second uses arbitrary event gaps."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "No local checkout to run Node scripts; deterministic editorial-depth regex reproduced directly."
+    }
+  },
+  "producer_route": "task 3/5 — MT-SA structural strategic-actor/biographical research",
+  "notes": "First rejection for ID MT-SA-2026-10-25-SCHACHT revision 1 and this exact 3/3 SHA tuple. Independent QA only; no approval, no public write, no publisher or producer task invocation claimed."
+}
