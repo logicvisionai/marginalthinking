@@ -164,6 +164,12 @@ The choice is therefore not simply between a large state and a small state. It i
 
 Campos's institutional legacy is most illuminating where it resists slogans. He built long-term public credit, attempted monetary stabilization, defended indexed finance, accepted an authoritarian government portfolio and later advocated liberal economic reforms in a democratic setting. No single label can establish the net social outcome of that sequence. The economic consequences belong to workers, taxpayers, investors and service users, not only to the statesman who described them.
 
+## Wartime origins of the postwar system: Churchill and Kissinger as points of comparison
+
+Campos's participation at Bretton Woods in 1944 took place while Churchill's government and the Allied powers were still fighting World War II. Economic reconstruction was being designed before the war ended. The task was different from Churchill's military leadership: developing economies needed monetary arrangements, development lending and access to hard currency within a financial order increasingly centred on the United States. [1]
+
+Decades later, Henry Kissinger's writings on world order distinguished political legitimacy from the distribution of coercive power. Campos's institutional experience suggests a parallel distinction in economics: access to formal membership in international organizations is not identical to equal control over credit, currency or industrial technology. Both men navigated arrangements defined heavily by powerful states, but they operated in different institutions and defended different goals. The comparison does not establish a direct personal intellectual relationship. It highlights how postwar military victory, economic institution-building and Cold War diplomacy became connected parts of a wider historical order.
+
 ## Campos's economic-historical place
 
 Campos helped construct development-credit mechanisms, designed or defended monetary and labour reforms, and became one of Brazil's best-known critics of the entrepreneurial state. His life tracks a transition from major infrastructure gaps to a diversified, indebted and inflation-prone economy. He did not create BNDE, the Targets Plan or PAEG single-handedly: governments, economists, legislators, international institutions, businesses and workers shaped each programme. [1][5][6]
