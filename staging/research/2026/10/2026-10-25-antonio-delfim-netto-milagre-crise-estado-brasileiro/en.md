@@ -210,32 +210,32 @@ Industrial and agricultural Brazil | Credit, exports and labour | Distributional
 
 ## Sources and documentary bibliography
 
-[1] FEA-USP, perfil de Antonio Delfim Netto e trajetória acadêmica: https://www.fea.usp.br/fea-usp-prestara-homenagem-seu-professor-emerito-antonio-delfim-netto
+[1] University of São Paulo FEA, Delfim Netto academic biography: https://www.fea.usp.br/fea-usp-prestara-homenagem-seu-professor-emerito-antonio-delfim-netto
 
-[2] Câmara dos Deputados, biografia e mandatos de Delfim Netto: https://www.camara.leg.br/deputados/73445/biografia
+[2] Brazilian Chamber of Deputies, Delfim Netto parliamentary biography: https://www.camara.leg.br/deputados/73445/biografia
 
-[3] FGV Atlas Histórico, milagre econômico 1967–1973 e administração Delfim: https://atlas.fgv.br/verbete/6001
+[3] FGV Historical Atlas, Brazilian economic miracle and Delfim's ministry: https://atlas.fgv.br/verbete/6001
 
-[4] Arquivo Nacional, Memórias Reveladas, documento e efeitos do AI-5: https://www.gov.br/memoriasreveladas/pt-br/centrais-de-conteudo/destaques/instituido-o-ai-5
+[4] Brazilian National Archives, Institutional Act Number Five: https://www.gov.br/memoriasreveladas/pt-br/centrais-de-conteudo/destaques/instituido-o-ai-5
 
-[5] Jornal da Unicamp, crescimento, desigualdade e dados do milagre: https://jornal.unicamp.br/edicao/702/bolo-cresce-mas-receita-desanda-e-pais-ainda-paga-a-conta-do-milagre/
+[5] University of Campinas, economic miracle growth and inequality: https://jornal.unicamp.br/edicao/702/bolo-cresce-mas-receita-desanda-e-pais-ainda-paga-a-conta-do-milagre/
 
-[6] Pesquisa FAPESP, formação, carreira e crítica histórica: https://revistapesquisa.fapesp.br/delfim-netto-conduziu-a-economia-na-ditadura-e-manteve-influencia-na-academia-e-na-politica/
+[6] Pesquisa FAPESP, Delfim's intellectual and political history: https://revistapesquisa.fapesp.br/delfim-netto-conduziu-a-economia-na-ditadura-e-manteve-influencia-na-academia-e-na-politica/
 
-[7] USP Instituto de Estudos Avançados, estudos do café e cátedra: https://www.iea.usp.br/pessoas/pasta-pessoaa/antonio-delfim-netto
+[7] University of São Paulo IEA, coffee research and professorship: https://www.iea.usp.br/pessoas/pasta-pessoaa/antonio-delfim-netto
 
-[8] FGV Atlas, legado do PAEG no milagre econômico: https://atlas.fgv.br/verbete/6001
+[8] FGV Historical Atlas, economic reforms preceding the miracle: https://atlas.fgv.br/verbete/6001
 
-[9] Arquivo Nacional, AI-5 de dezembro de 1968: https://www.gov.br/memoriasreveladas/pt-br/assuntos/destaques/ato-institucional-no-5
+[9] Brazilian National Archives, original text and powers of AI-5: https://www.gov.br/memoriasreveladas/pt-br/assuntos/destaques/ato-institucional-no-5
 
-[10] Delfim Netto, interpretação própria da história industrial brasileira, USP Estudos Econômicos: https://revistas.usp.br/ee/article/download/171761/161628/
+[10] Delfim Netto, retrospective economic history published by USP: https://revistas.usp.br/ee/article/download/171761/161628/
 
-[11] FAPESP, trajetória de 1974–1985 e papel político posterior: https://revistapesquisa.fapesp.br/delfim-netto-conduziu-a-economia-na-ditadura-e-manteve-influencia-na-academia-e-na-politica/
+[11] Pesquisa FAPESP, period 1974–1985 and later influence: https://revistapesquisa.fapesp.br/delfim-netto-conduziu-a-economia-na-ditadura-e-manteve-influencia-na-academia-e-na-politica/
 
-[12] Folha de S.Paulo, levantamento de políticas econômicas de 1979–1985: https://www1.folha.uol.com.br/folha/treinamento/hotsites/ai5/personas/delfimNetto.html
+[12] Folha de S.Paulo, documentary timeline of 1979–1985 economic policy: https://www1.folha.uol.com.br/folha/treinamento/hotsites/ai5/personas/delfimNetto.html
 
-[13] Jornal da USP, morte em 2024 e acervo doado à universidade: https://jornal.usp.br/institucional/reitoria-divulga-nota-em-razao-do-falecimento-do-professor-emerito-da-fea-delfim-netto/
+[13] USP institutional remembrance and Delfim book collection: https://jornal.usp.br/institucional/reitoria-divulga-nota-em-razao-do-falecimento-do-professor-emerito-da-fea-delfim-netto/
 
-[14] Banco Central do Brasil, história das instituições monetárias: https://www.bcb.gov.br/acessoinformacao/historicodiretoria
+[14] Central Bank of Brazil, historical monetary institutions: https://www.bcb.gov.br/acessoinformacao/historicodiretoria
 
-[15] Câmara dos Deputados, história institucional de 1964–1988: https://www2.camara.leg.br/a-camara/conheca/historia/Ex_presidentesCD_Republica/republica5.html
+[15] Brazilian Chamber of Deputies, dictatorship and political transition: https://www2.camara.leg.br/a-camara/conheca/historia/Ex_presidentesCD_Republica/republica5.html
