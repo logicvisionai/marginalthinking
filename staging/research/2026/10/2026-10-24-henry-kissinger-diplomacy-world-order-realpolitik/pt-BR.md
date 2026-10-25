@@ -124,6 +124,20 @@ As memórias de Kissinger, seu *Diplomacy* e seu *World Order* foram escritos po
 
 Arquivos desclassificados acrescentam elementos que memórias não necessariamente priorizam: anotações de assessores, registros de telefonemas, objeções internas, operações reservadas e linguagem usada sobre civis estrangeiros. Uma reunião com Zhou Enlai documentada pelo próprio Kissinger deve ser cotejada com a informação chinesa e a decisão de Nixon; uma orientação sobre Chile exige reconstruir CIA, governo chileno e cronologia específica. A escrita histórica não ganha força ao substituir a voz do participante por uma única voz acusatória; ganha quando documentos de origens distintas permitem identificar decisões e responsabilidades.
 
+## Centralização da decisão e o problema dos arquivos parciais
+
+Kissinger acumulou os cargos de secretário de Estado e conselheiro de Segurança Nacional até novembro de 1975, quando Ford retirou sua segunda função. A estrutura concentrava acesso ao presidente, contatos diplomáticos e coordenação estratégica num mesmo dirigente. Ainda assim, documentos oficiais demonstram que ele dependia de inteligência militar, execução por agências, negociações estrangeiras e decisões de presidentes. Controlar um canal de conversa não equivale a comandar integralmente um conflito exterior. [1][3]
+
+A documentação desclassificada sustenta conclusões de diferentes níveis. Um memorando assinado por Kissinger prova o que reportou a Nixon; registro operacional da CIA pode mostrar o planejamento de uma agência; ordens de unidades militares são necessárias para identificar comandantes imediatos. O Chile de 1973 exige separar operações encobertas anteriores, relatórios americanos do golpe, ações militares chilenas e repressão da ditadura posterior. A sequência está conectada, mas não constitui cadeia de documentos única. [15][16]
+
+Bangladesh apresenta evidência de outro tipo: diplomatas transmitiram informes sobre atrocidades, enquanto uma conversa da Casa Branca registra decisão de não condenar publicamente a repressão. É prova mais forte de conhecimento e escolha política que qualquer comparação retrospectiva de interesses. A responsabilidade deve ser ligada ao silêncio e ao alinhamento diplomático efetivo, sem alegar comando individual de todos os crimes cometidos pelas forças paquistanesas. [13]
+
+## Paz entre Estados e consentimento das populações
+
+O método de Kissinger permite imaginar negociação entre adversários que não podem ser derrotados ou convertidos a custo aceitável. Mas contém dilema ético permanente: acordo duradouro entre governos pode coexistir com privação sistemática de direitos dentro deles. Se legitimidade significa apenas aceitação de quem possui força suficiente para romper o equilíbrio, povos sem exército ou poder de veto podem ser excluídos indefinidamente.
+
+O desafio tornou-se particularmente importante durante a descolonização. Estados novos contestavam a autoridade de potências antigas para definir a ordem internacional; princípios de não intervenção e autodeterminação podiam protegê-los, mas também servir de escudo a repressões internas. A prudência estratégica continua relevante, porém os custos humanos da Guerra Fria demonstram que prudência diante dos poderosos pode coincidir com exposição extrema de civis periféricos. Uma ordem pode durar sem ser justa; uma causa pode ser moralmente atraente e estrategicamente inviável. Nenhuma das duas observações elimina a outra.
+
 ## Poder, ética e o problema da comparação contrafactual
 
 Defensores de Kissinger destacam a abertura com a China, a distensão nuclear e acordos diplomáticos como demonstrações de capacidade estratégica. Críticos observam que determinadas vitórias de negociação coexistiram com bombardeios, apoio a governos repressivos e omissão diante de crimes em massa. As duas avaliações operam em escalas diferentes: evitar confronto entre superpotências não anula perdas de vida em países terceiros; denunciar essas perdas não apaga acordos cuja influência histórica pode ser documentada. [4][20]
