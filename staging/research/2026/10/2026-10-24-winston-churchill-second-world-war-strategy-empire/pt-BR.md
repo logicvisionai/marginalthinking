@@ -174,6 +174,10 @@ Henry Kissinger examinaria posteriormente as condições em que grandes Estados 
 
 ## Retorno ao poder, Guerra Fria e final da trajetória
 
+Até 2026, o Churchill Archive e coleções institucionais de acesso público continuam preservando documentos oficiais que permitem comparar a narrativa memorialística de Churchill com decisões do gabinete e de autoridades militares. [3]
+
+
+
 Churchill voltou ao cargo de primeiro-ministro entre 1951 e 1955, já com problemas de saúde e em cenário de Guerra Fria consolidada. Procurou apoiar laços transatlânticos e reduzir riscos de confronto com Moscou por diplomacia pessoal, com sucesso limitado. O governo conservador aceitou grande parte do Estado de bem-estar social construído pelos trabalhistas após 1945, sinalizando mudança do consenso doméstico britânico. Churchill deixou o cargo em 1955 e morreu em 24 de janeiro de 1965. [1][2]
 
 Seu legado resulta de conflitos que não se anulam: resistência ao nazismo, decisões estratégicas discutíveis, construção retórica de coesão, defesa do império e responsabilidade governamental diante de sofrimento colonial. A explicação da vitória aliada pertence à economia de guerra, à inteligência, à diplomacia e às pessoas mobilizadas, além da coragem política. A biografia de Churchill se torna historicamente mais robusta quando não depende de um retrato santo ou demoníaco, mas acompanha o que ele decidiu, o que não controlava e quem sofreu as consequências.
