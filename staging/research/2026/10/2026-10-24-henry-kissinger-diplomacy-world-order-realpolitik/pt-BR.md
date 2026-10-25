@@ -160,6 +160,12 @@ Depois de deixar o governo, Kissinger fundou a Kissinger Associates e continuou 
 
 A posteridade de Kissinger combina instituições e linguagem. A aproximação sino-americana tornou-se fundamento de transformações econômicas posteriores, embora seus resultados industriais envolvam reformas chinesas, escolhas empresariais e conjunturas que ele não controlou. O vocabulário de equilíbrio, legitimidade e prudência continua influente, mas os arquivos sobre Chile, Bangladesh e Sudeste Asiático impedem uma história exclusivamente celebratória. A força interpretativa de *Diplomacy* e *World Order* aumenta quando seus conceitos são confrontados com as decisões do autor e com as sociedades atingidas.
 
+## Limites nucleares e resultado documental das negociações SALT I
+
+Em maio de 1972, os Estados Unidos possuíam 1.054 lançadores de ICBM e a União Soviética aproximadamente 1.618, contados os operacionais ou em construção. O Acordo Interino SALT I congelou esses totais. Um protocolo permitia até 710 lançadores navais americanos e 950 soviéticos, desde que sistemas anteriores fossem retirados em compensação. Esses são limites e estoques de lançadores, não contagens de ogivas ou uma medida total de capacidade destrutiva. [22][23]
+
+Os dois gráficos evidenciam uma negociação sob forças assimétricas: congelamento terrestre e limites condicionais de lançadores de submarinos. Não demonstram paridade nuclear nem medem influência pessoal de Kissinger. Bombardeiros estratégicos e múltiplas ogivas não foram resolvidos pelo Acordo Interino. A interpretação deve observar a diferença entre mecanismos jurídicos do tratado, capacidade de verificação e resultados posteriores. [22][23]
+
 ## Cronologia e decisões documentadas
 
 | Ano | Episódio | Instituição ou documento | Efeito e controvérsia |
@@ -177,11 +183,10 @@ A posteridade de Kissinger combina instituições e linguagem. A aproximação s
 
 ```chart
 type: bar
-title: Tempo decorrido entre eventos biográficos documentados
-unit: anos entre marcos indicados; intervalos não medem desempenho político
-1938 emigração a 1954 doutorado | 16
-1954 doutorado a 1969 Casa Branca | 15
-1969 entrada no Conselho a 1977 fim da Secretaria | 8
+title: Lançadores de ICBM existentes ou em construção quando SALT I foi assinado, maio de 1972
+unit: lançadores individuais terrestres de mísseis intercontinentais; congelados nos níveis iniciais
+Estados Unidos | 1054
+União Soviética | 1618
 ```
 
 ```flow
@@ -200,10 +205,10 @@ Egito, Israel e Síria | Negociação no Oriente Médio | Acordos parciais após
 
 ```chart
 type: bar
-title: Cargos executivos simultâneos exercidos por Kissinger nos Estados Unidos
-unit: anos nominais aproximados de cada cargo; mandatos simultâneos não são somáveis
-Conselheiro de Segurança Nacional 1969–1975 | 6
-Secretário de Estado 1973–1977 | 4
+title: Tetos condicionais de lançadores navais de SLBM no protocolo SALT I de 1972
+unit: máximo de lançadores individuais embarcados, com retirada correspondente de lançadores antigos
+Estados Unidos | 710
+União Soviética | 950
 ```
 
 ## Fontes documentais e bibliografia
@@ -248,3 +253,15 @@ Secretário de Estado 1973–1977 | 4
 
 [20] National Security Archive, documentos sobre controvérsias de direitos humanos: https://nsarchive.gwu.edu/briefing-book/chile-cold-war-henry-kissinger-indonesia-southern-cone-vietnam/2023-11-29/henry
 [21] Richard Falk, resenha acadêmica de World Order (2015): https://journals.sagepub.com/doi/10.1177/0305829815594038
+
+[22] Departamento de Estado dos EUA, Acordo Interino de 1972 e limitações: https://1997-2001.state.gov/global/arms/treaties/interim1.html
+
+[23] Exército dos EUA, limites do SALT I e composição de forças: https://www.army.mil/article-amp/170260/smdc_history_salt_agreements_signed
+
+[24] Simon & Schuster, trecho primário do capítulo inicial de Diplomacy: https://www.simonandschuster.biz/books/Diplomacy/Henry-Kissinger/9781439126318
+
+[25] Henry Kissinger, ensaio original de 2014 sobre ordem mundial no Hoover Institution: https://www.hoover.org/research/henry-kissinger-assembly-new-world-order-concept-has-underpinned-modern-geopolitical-era
+
+[26] Columbia Journal of International Affairs, crítica documentada de World Order: https://jia.sipa.columbia.edu/news/prospects-world-order
+
+[27] Charles Maechling, resenha crítica de Diplomacy, Foreign Service Journal (1994): https://afsa.org/sites/default/files/fsj-1994-09-september_0.pdf
