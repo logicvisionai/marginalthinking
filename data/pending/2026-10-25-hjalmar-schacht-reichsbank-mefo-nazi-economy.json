@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-25-SCHACHT",
+  "slug": "2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T00:08:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 39,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/en.md",
+      "title": "Hjalmar Schacht: from currency stabilization to financing Nazi rearmament",
+      "deck": "A documented biography covering the 1923 Rentenmark stabilization, reparations, the New Plan, MEFO credit instruments, Reichsbank autonomy, rearmament and the specific Nuremberg judgment.",
+      "tags": [
+        "Hjalmar Schacht",
+        "biography",
+        "political economy",
+        "international history",
+        "institutions"
+      ],
+      "keywords": [
+        "Hjalmar Schacht",
+        "international power",
+        "economic history",
+        "military policy",
+        "monetary institutions",
+        "democratic legitimacy",
+        "historical biography"
+      ],
+      "regime": "Historic decisions linking institutional authority, production, finance and conflict.",
+      "key_risk": "Treating authors' memoirs and legal verdicts as complete historical assessments.",
+      "watch": [
+        "Archival and museum record",
+        "Primary governmental and financial records",
+        "Competing specialist historical literature"
+      ],
+      "search_text": "Hjalmar Schacht: from currency stabilization to financing Nazi rearmament A documented biography covering the 1923 Rentenmark stabilization, reparations, the New Plan, MEFO credit instruments, Reichsbank autonomy, rearmament and the specific Nuremberg judgment. Hjalmar Schacht original documents historical institutions finance diplomacy empire"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/pt-BR.md",
+      "title": "Hjalmar Schacht: da estabilização do marco ao financiamento do rearmamento nazista",
+      "deck": "Biografia documental sobre estabilização monetária de 1923, reparações, Novo Plano, letras MEFO, autonomia do Reichsbank, rearmamento e o alcance específico da sentença de Nuremberg.",
+      "tags": [
+        "Hjalmar Schacht",
+        "biografia",
+        "economia política",
+        "história internacional",
+        "instituições"
+      ],
+      "keywords": [
+        "Hjalmar Schacht",
+        "international power",
+        "economic history",
+        "military policy",
+        "monetary institutions",
+        "democratic legitimacy",
+        "historical biography"
+      ],
+      "regime": "Decisões históricas conectando autoridade institucional, produção, finanças e conflito.",
+      "key_risk": "Tratar memórias e sentenças judiciais como avaliações históricas completas.",
+      "watch": [
+        "Acervos históricos e museológicos",
+        "Registros governamentais e financeiros primários",
+        "Historiografia especializada divergente"
+      ],
+      "search_text": "Hjalmar Schacht: da estabilização do marco ao financiamento do rearmamento nazista Biografia documental sobre estabilização monetária de 1923, reparações, Novo Plano, letras MEFO, autonomia do Reichsbank, rearmamento e o alcance específico da sentença de Nuremberg. Hjalmar Schacht original documents historical institutions finance diplomacy empire"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "monetary-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "industry-production",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "war-armed-conflict",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Hjalmar Schacht",
+    "type": "person"
+  },
+  "related_research": [
+    "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+    "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro"
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-10-25",
+    "research_depth": "EN 3565 substantive words; PT-BR 4380 substantive words (excluding fenced graphics and raw URLs). 23/24 analytical headings, 16/16 distinct external URLs from 8/8 domains.",
+    "source_check": "Producer screened institutional, archive and court source references; independent claim-to-source and URL availability QA still required before public approval.",
+    "visual_signature": "Two bilingual-comparable numeric charts with series [[\"7\",\"6\",\"3\"],[\"10\",\"6\",\"7\"]], chronological table, causal flow and geographic exposure map per language.",
+    "translation_parity": "Same chronology, bibliographic URLs, visual numeric series, source claims and biographical mechanisms; independent bilingual QA pending.",
+    "methodology": "Separate actions taken by the subject from memoir narrative, collective institutional work, legal culpability and conjecture; distinguish nominal financial amounts from real production and impacted populations.",
+    "editorial_status": "Producer checks passed in staging; no approval or publication claimed; require independent QA bound to exact source blob SHAs.",
+    "source_shas": {
+      "en": "7e594ab157a6a407ed80dff432bd9dd068c4c019",
+      "pt-BR": "a7f2423fa18cf58f34726b6106c67e222579abfe"
+    }
+  }
+}
