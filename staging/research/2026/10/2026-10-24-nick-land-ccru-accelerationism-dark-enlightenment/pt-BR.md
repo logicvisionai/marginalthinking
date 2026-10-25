@@ -165,6 +165,15 @@ Estados Unidos / Vale do Silício | Debates posteriores sobre tecnologia e capit
 Ambiente digital transnacional | Circulação de Dark Enlightenment e e/acc | Adoção online não comprova mentoria
 ```
 
+## Pesquisas relacionadas da série
+
+Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** A soberania formalista de Yarvin, as instituições financeiras de Thiel, a indústria de Musk e a genealogia filosófica do tema.
+
+- [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+- [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Fontes e bibliografia
 
 [1] Urbanomic, coletânea *Fanged Noumena*: https://www.urbanomic.com/book/fanged-noumena/
