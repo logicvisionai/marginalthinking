@@ -180,6 +180,8 @@ Melhorar eficiência reduz energia necessária por unidade de serviço, mas seus
 
 Políticas de eficiência abrangem padrões mínimos de equipamentos, etiquetagem, reforma de edifícios, logística, iluminação, motores industriais e gestão de processos. Seus resultados dependem de fiscalização e acesso a crédito. Um equipamento eficiente que custa mais inicialmente pode não ser comprado por famílias de baixa renda, apesar de poupar gastos no longo prazo. Financiamento, aluguel e incentivos divididos entre proprietários e inquilinos afetam a adoção.
 
+Em 2024, aproximadamente 655 milhões de pessoas ainda não tinham acesso à eletricidade, segundo a divulgação de 2026 do Banco Mundial. Essa carência evidencia que desenvolvimento energético e descarbonização não podem ser reduzidos à simples contenção do consumo agregado. [9]
+
 Em países com grande demanda reprimida, a meta não deve ser simplesmente reduzir consumo absoluto. Eletricidade adicional para refrigeração de vacinas, saneamento, transporte público e escolarização pode elevar bem-estar. O objetivo é fornecer serviços com menores custos e danos ambientais, não confundir pobreza energética com virtude climática.
 
 ## 23. Inteligência artificial, centros de dados e demanda elétrica
@@ -278,3 +280,5 @@ Demais fontes | 14.4
 [7] IEA, *Energy and AI*, 2025, e atualização das projeções: https://www.iea.org/reports/energy-and-ai/energy-demand-from-aI ; https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary
 
 [8] IEA, *World Energy Investment 2026*: https://www.iea.org/reports/world-energy-investment-2026
+
+[9] Banco Mundial, *655 Million People Still Without Electricity Underscore Urgent Need to Deliver Universal Energy Access*, junho de 2026: https://www.worldbank.org/en/news/press-release/2026/06/16/accelerating-universal-energy-access
