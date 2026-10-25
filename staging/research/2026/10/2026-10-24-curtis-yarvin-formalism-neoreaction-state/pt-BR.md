@@ -154,18 +154,20 @@ A hipótese de Yarvin poderia ser testada por sistemas com comando executivo con
 
 ```chart
 type: bar
-title: Intervalos entre marcos documentados da produção intelectual
-unit: anos decorridos; manifesto de 2007, texto de Land de 2012 e Gray Mirror de 2020
-2007–2012 | 5
-2012–2020 | 8
+title: Direitos políticos em sistemas usados como casos comparativos (Freedom House 2025)
+unit: pontos na escala de direitos políticos de 0 a 40, com penalizações negativas possíveis; não mede eficiência de governo
+Estados Unidos | 34
+Singapura | 19
+China | -2
 ```
 
 ```chart
 type: bar
-title: Fases distintas das publicações de Yarvin
-unit: anos decorridos; durações não medem público ou influência
-2007–2014 fase inicial do blog | 7
-2014–2020 intervalo até Gray Mirror | 6
+title: Liberdades civis nos mesmos casos comparativos (Freedom House 2025)
+unit: pontos na escala de liberdades civis de 0 a 60; não mede o efeito das ideias de Yarvin
+Estados Unidos | 50
+Singapura | 29
+China | 11
 ```
 
 ```flow
@@ -181,14 +183,13 @@ Washington, DC | Disputas sobre Executivo federal e DOGE | Autoridade pública s
 Reino Unido / Warwick | Contexto intelectual anterior de Nick Land | Conexão filosófica indireta
 ```
 
-## Pesquisas relacionadas da série
+## Comparação empírica documentada
 
-Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** A inflexão neorreacionária de Land, o financiamento empresarial relatado de Thiel, a comparação administrativa com Musk e a genealogia do aceleracionismo.
+## Poder político e instituições observadas: evidência comparativa, não prova do formalismo
 
-- [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
-- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
-- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
-- [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+As propostas de Yarvin sobre soberania executiva concentrada e jurisdições competitivas podem ser confrontadas com regimes existentes, mas nenhum país deve ser apresentado como implementação de sua teoria. Na avaliação Freedom in the World 2025, os direitos políticos receberam 34/40 nos Estados Unidos, 19/40 em Singapura e −2/40 na China. Em liberdades civis, os valores foram 50/60, 29/60 e 11/60. São classificações de direitos por especialistas, não medições de eficiência administrativa, desenvolvimento econômico ou influência de Yarvin. As escalas são diferentes e cada uma aparece isoladamente. [17][18][19]
+
+O contraste importa porque capacidade estatal, estabilidade jurídica e liberdades políticas não variam necessariamente em conjunto. A tese de que a concentração do poder numa autoridade semelhante à direção empresarial melhoraria o governo não pode ser deduzida de indicadores de crescimento ou digitalização. Os escores da Freedom House representam uma metodologia normativa discutível, útil como referência para estudar compromissos institucionais, não como experimento causal nem evidência de que Singapura ou China adotaram a constituição proposta por Yarvin.
 
 ## Fontes e obras
 
@@ -223,3 +224,9 @@ Os estudos compartilham interseções intelectuais, empresariais ou instituciona
 [15] Documentação técnica do Urbit, Arvo e semântica determinística do kernel: https://docs.urbit.org/build-on-urbit/app-school/1-arvo
 
 [16] Artigo acadêmico sobre Mosca, Pareto e Michels, teoria clássica das elites: https://pmc.ncbi.nlm.nih.gov/articles/PMC9046547/
+
+[17] Freedom House, Freedom in the World 2025: United States: https://freedomhouse.org/country/united-states/freedom-world/2025
+
+[18] Freedom House, Freedom in the World 2025: Singapore: https://freedomhouse.org/country/singapore/freedom-world/2025
+
+[19] Freedom House, Freedom in the World 2025: China: https://freedomhouse.org/country/china/freedom-world/2025
