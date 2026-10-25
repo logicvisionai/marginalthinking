@@ -58,6 +58,20 @@ Lawrence's practical writing about liaison with Arab forces is frequently summar
 
 Such principles are not a universal recipe for successful rebellion. Guerrilla movements differ in social base, external supply, political goals, access to weapons and relations with civilians. Tactics from the Hejaz cannot be transplanted mechanically into later wars. The analytically useful distinction is between conventional territorial occupation and raising the cost of an opponent's control, while acknowledging that a military method cannot guarantee a legitimate political settlement.
 
+## Auda Abu Tayi, Nuri al-Said and the neglected local protagonists
+
+The Aqaba campaign and other Hejaz operations depended on men whose importance popular accounts often subordinate to the British liaison officer. Auda Abu Tayi, a leading figure among the Howeitat, was instrumental in mobilizing desert fighters. Other Arab officers and political figures, including Nuri al-Said, participated in military decisions and later became important in the emerging institutions of the region. Lawrence negotiated, advised, transmitted information and secured British support among people with their own political authority. [2][3]
+
+External assistance did not erase local agency. Command of fighters, knowledge of routes and access to supplies depended on leaders whose relationships with communities could not be manufactured in Cairo. Tribes and towns were not passive instruments of British strategy; their support had to be negotiated amid prestige, family and political interests. The landward operation against Aqaba relied on this expertise. A purely personal legend diminishes the people who carried out the campaign and suggests incorrectly that the region's future emerged only from European decisions.
+
+Postwar biographies further weaken the single-hero frame. Feisal pursued a Syrian government before becoming king of Iraq; Abdullah consolidated authority in Transjordan; other officers entered local armies and politics. Their outcomes diverged because institutions and opportunities differed. Lawrence did not possess sovereign authority over their choices. His genuine talent as a mediator becomes clearer when those he served are treated as political agents rather than background characters.
+
+## Ottoman perspectives: railway defence, garrisons and imperial overstretch
+
+For Ottoman officials the Hejaz campaign was one of several fronts in a much larger war. Protecting the railway meant maintaining communication with Medina and retaining the ability to move men and supplies. The garrisons operated amid long distances, illness, water shortages and uncertain resupply. Arab attacks increased those costs, but their importance must be assessed alongside conventional Allied offensives and the wider deterioration of Ottoman military and financial capacity. [2][11]
+
+The Ottoman defeat was not caused solely by destroyed tracks or Feisal's army. Military losses elsewhere, central government choices and pressure on the imperial economy also mattered. A stronger history treats Ottoman soldiers and commanders as an organization confronting constraints and making decisions, rather than merely a faceless enemy in the protagonist's story. Reprisals and civilian harm can then be examined as historical and ethical problems rather than dramatic elements in an adventure.
+
 ## Paris, 1919: the asymmetry between battlefield contribution and diplomatic authority
 
 At the Paris Peace Conference, Lawrence accompanied Feisal and sought recognition of Arab independence. The British and French governments possessed the military, economic and diplomatic resources to shape a mandate system, while leaders who had fought the Ottomans could not impose the outcome they wanted. The National Army Museum describes Lawrence's unsuccessful efforts to support Arab self-determination at Paris and later Cairo. [2]
