@@ -173,18 +173,19 @@ O acompanhamento deve reunir preços de energia, chips, formação de capital, p
 
 ```chart
 type: bar
-title: Intervalos de publicação na genealogia histórica
-unit: anos entre textos datados; cronologia não comprova influência
-1972 O Anti-Édipo a 1974 Economia Libidinal | 2
-1974 Economia Libidinal a manifesto de 2013 | 39
+title: Demanda mundial de eletricidade dos centros de dados, AIE Energy and AI 2025
+unit: TWh por ano; 2024 estimado e 2030 Cenário Base projetado, não duas observações
+Estimativa de 2024 | 415
+Cenário Base para 2030 | 945
 ```
 
 ```chart
 type: bar
-title: Intervalos recentes do debate sobre aceleração
-unit: anos entre publicações históricas identificadas
-2007 manifesto de Yarvin a ensaio de Land de 2012 | 5
-2013 manifesto de esquerda a tecno-otimismo de 2023 | 10
+title: Participação regional no consumo mundial de eletricidade dos centros de dados em 2024 (AIE)
+unit: % aproximados do consumo mundial de centros de dados; outras regiões omitidas
+Estados Unidos | 45
+China | 25
+Europa | 15
 ```
 
 ```flow
@@ -201,14 +202,15 @@ Estados Unidos / Vale do Silício | Yarvin, Thiel, Musk e investimentos | Empres
 Comunidades digitais transnacionais | e/acc e difusão ideológica | Sem cadastro único ou governo central
 ```
 
-## Pesquisas relacionadas da série
+## Comparação empírica documentada
 
-Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** As quatro biografias distinguem influência textual, relações empresariais, investimentos e analogias políticas.
+## Infraestrutura técnica cresce de forma mensurável; influência aceleracionista não se deduz dela
 
-- [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
-- [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
-- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
-- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+O estudo *Energy and AI*, da AIE, estima o consumo mundial de eletricidade de centros de dados em aproximadamente 415 TWh em 2024 e projeta 945 TWh para 2030 em seu Cenário Base — não se trata de observação futura. As duas barras representam consumo anual em TWh comparável, mas com estados probatórios distintos: estimativa observacional e projeção condicional. A expansão exige geração, redes e equipamentos; não determina por si o valor moral ou político de acelerar tecnologia. [21]
+
+A distribuição geográfica em 2024 também foi assimétrica: os Estados Unidos concentraram aproximadamente 45% do consumo elétrico de centros de dados, a China 25% e a Europa 15%, enquanto o restante estava disperso. As participações não demonstram propriedade final, distribuição de benefícios nem consequências para direitos políticos. Permitem visualizar uma geografia concentrada que expressões como aceleração universal frequentemente escondem. [22]
+
+A defesa aceleracionista de esquerda da direção coletiva e a tendência à direita de tratar mercados como processos autônomos são leituras políticas concorrentes dessa expansão, não descrições rivais da base da AIE. Restrição de redes, licenciamento, água, financiamento e semicondutores vinculam a trajetória técnica a escolhas públicas. Projetar crescimento só produz tese ética ou governamental quando se identifica quem suporta custos, quem controla infraestrutura e quais alternativas existem.
 
 ## Fontes e obras
 
@@ -251,3 +253,7 @@ Os estudos compartilham interseções intelectuais, empresariais ou instituciona
 [19] International Centre for Counter-Terrorism, apropriação violenta do aceleracionismo: https://icct.nl/publication/ted-kaczynski-anti-technology-radicalism-and-eco-fascism
 
 [20] Urbanomic, *Cute Accelerationism*, edição de 2026: https://www.urbanomic.com/edition/cute-accelerationism-second-edition/
+
+[21] Agência Internacional de Energia, Energy and AI (2025): global data centre demand 2024 and 2030 Base Case: https://www.iea.org/reports/energy-and-ai/energy-demand-from-aI
+
+[22] Agência Internacional de Energia, Energy and AI (2025): regional shares of world data centre electricity, 2024: https://www.iea.org/reports/energy-and-ai/executive-summary
