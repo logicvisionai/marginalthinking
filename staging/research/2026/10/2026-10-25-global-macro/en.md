@@ -32,9 +32,19 @@ Luiz Inácio Lula da Silva | 45.16
 
 Political risk is not synonymous with predicting the winner. The test after polls close is whether verified results, coalition arithmetic and institutional decisions support the policy path priced by local markets. A change in the real should be compared with the dollar index and peer emerging-market currencies; a rise in local yields should be decomposed between expected monetary policy, inflation and term premium. These comparisons are unavailable in this early Sunday edition.
 
+## Fiscal implementation has a legal timetable distinct from election-night pricing
+
+Brazil's budget architecture provides a measurable constraint on any incoming economic agenda. The federal government's budget proposal is prepared by the executive but examined, amended and voted on in Congress; the Annual Budget Law is connected to the Budget Guidelines Law and to the four-year Multi-Year Plan. A presidential candidate may propose lower taxes, new transfers, additional public investment or changes to state-enterprise governance, yet the funding, legal authority and legislative sequence differ across those proposals. The official budget explanation describes the path from executive proposals to congressional amendments, approval and presidential sanction or veto. [12]
+
+The Multi-Year Plan is particularly relevant for interpreting a presidential transition because its four-year cycle begins in the second year of a term and extends into the successor's first year. This creates institutional continuity between administrations and makes immediate replacement of every project inconsistent with the ordinary planning calendar. In addition, existing contracts and mandatory expenditure obligations constrain what can change through a campaign promise alone. The relevant test is the gap between announced policy, a submitted budget, approved appropriations and the cash execution that follows. [13]
+
+Monetary policy is institutionally separate. Brazil's central bank operates under the autonomy framework of Complementary Law 179/2021, with price stability as its fundamental objective. A change of president does not mechanically set the next Selic rate, and changes to inflation expectations do not reveal how the central bank will vote without examining the expected inflation path and other economic conditions. The resulting policy mix can include political pressure to expand spending while borrowing costs remain high, but that is a conditional mechanism, not an election-night outcome. [14]
+
+Several falsifiable observations follow. A fiscal announcement with an identified funding source, draft legislation and a credible coalition is different from an unfunded commitment; a foreign-exchange move common to emerging markets is different from an idiosyncratic Brazil premium; a shift in nominal yields could reflect inflation or duration risk rather than a revision of the central bank's next decision. The first completed Monday session will provide tradable observations, not definitive proof of the new administration's long-run effectiveness. Comparisons must also control for Friday's oil repricing, which occurred before the Brazilian vote.
+
 ## The oil shock is a shipping and delivery mechanism, not a verified loss of production
 
-Contemporaneous Reuters market reporting places Friday's **Brent settlement at $116.72**, a **$3.55 daily increase**, and **WTI at $103.27**, up **$3.80**. The **$13.45 per barrel** difference is the arithmetic spread between two benchmarks, not an independently measured Hormuz risk premium. Contract specifications, crude quality, geography and freight all affect that gap. The International Energy Agency's October Oil Market Report provides a prior-vintage framework for production, refining and inventories, not verification of a Friday trade. [4][5]
+Historical exchange-price records report Friday's **Brent settlement at $116.72**, a **$3.55 daily increase**, and **WTI at $103.27**, up **$3.80**. The **$13.45 per barrel** difference is the arithmetic spread between two benchmarks, not an independently measured Hormuz risk premium. Contract specifications, crude quality, geography and freight all affect that gap. The International Energy Agency's October Oil Market Report provides a prior-vintage framework for production, refining and inventories, not verification of a Friday trade. [4][5]
 
 ```chart
 type: bar
@@ -94,7 +104,7 @@ Two transmission risks dominate: an independently verified maritime supply inter
 
 [3] TSE, Electoral Resolution 23.751/2026, procedures: https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026
 
-[4] Reuters, reported Brent/WTI settlements and Gulf security, 23 Oct 2026 (secondary): https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/
+[4] Investing.com, historical Brent/WTI settlement quotations for 23 October 2026 (secondary market-price record): https://www.investing.com/commodities/brent-oil-historical-data?cid=1184864
 
 [5] IEA, October Oil Market Report launch, 14 Oct 2026 (earlier vintage): https://www.iea.org/events/oil-market-report-october-2026
 
@@ -109,3 +119,9 @@ Two transmission risks dominate: an independently verified maritime supply inter
 [10] UK ONS, September 2026 retail sales, released 23 Oct: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026
 
 [11] Japan Statistics Bureau, September CPI released 23 Oct: https://www.stat.go.jp/english/
+
+[12] Federal Government of Brazil, official budget approval process (PPA/LDO/LOA): https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional
+
+[13] Ministry of Planning and Budget, Multi-Year Plan four-year cycle: https://www.gov.br/planejamento/pt-br/assuntos/planejamento/planoplurianual
+
+[14] Central Bank of Brazil, autonomy framework under Complementary Law 179/2021: https://www.bcb.gov.br/acessoinformacao/autonomia
