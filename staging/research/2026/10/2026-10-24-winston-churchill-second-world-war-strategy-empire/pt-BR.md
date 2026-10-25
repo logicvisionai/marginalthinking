@@ -42,7 +42,7 @@ A decisão mudou o futuro possível da guerra europeia. Uma paz britânica separ
 
 ## Dunquerque: evacuação, derrota terrestre e preservação de capacidade
 
-Entre 26 de maio e o início de junho de 1940, a Operação Dynamo retirou da região de Dunquerque aproximadamente 338 mil militares aliados, segundo registro memorialístico catalogado pelo Imperial War Museums. Uma parte significativa era francesa. O resgate preservou pessoal militar fundamental para reorganizar a defesa britânica, mas exigiu abandonar muitos veículos, artilharia e equipamentos e não eliminou a derrota das forças terrestres na campanha francesa. A Royal Navy, embarcações civis, tripulações e forças de cobertura participaram de uma operação que envolveu grande risco aéreo. [7]
+Entre 26 de maio e o início de junho de 1940, a Operação Dynamo retirou da região de Dunquerque aproximadamente 338 mil militares aliados, conforme registros da English Heritage e do Imperial War Museums. Uma parte significativa era francesa. O resgate preservou pessoal militar fundamental para reorganizar a defesa britânica, mas exigiu abandonar muitos veículos, artilharia e equipamentos e não eliminou a derrota das forças terrestres na campanha francesa. A Royal Navy, embarcações civis, tripulações e forças de cobertura participaram de uma operação que envolveu grande risco aéreo. [17][20]
 
 O discurso de Churchill de 4 de junho perante o Parlamento deu à evacuação interpretação de resistência continuada sem apresentá-la como vitória estratégica completa. O efeito material da operação foi preservar combatentes e manter uma força treinada disponível; o efeito político foi fortalecer confiança num momento de derrotas. A análise dos dois resultados impede confundir moral nacional com capacidade militar imediatamente restaurada.
 
@@ -126,14 +126,6 @@ Após a guerra, Churchill publicou os seis volumes de *The Second World War*, en
 
 A influência dos volumes na memória pública decorre também do prestígio de Churchill, do acesso a arquivos e de sua habilidade narrativa. Historiadores posteriores podem confrontá-los com memorandos aliados, registros operacionais alemães e soviéticos, correspondência de ministros e testemunhos civis coloniais. A obra é inseparável do evento histórico, mas sua autoridade depende de ser tratada como narrativa situada, não como tribunal definitivo.
 
-## Os seis volumes da Segunda Guerra: arquitetura de uma narrativa de estadista
-
-A obra *The Second World War* foi publicada originalmente em seis volumes com títulos que revelam uma interpretação do conflito. *The Gathering Storm* reconstrói a acumulação de ameaças e a incapacidade de detê-las; *Their Finest Hour* concentra-se no período de sobrevivência britânica em 1940; *The Grand Alliance* descreve a ampliação da coalizão; *The Hinge of Fate* apresenta a inversão da dinâmica militar; *Closing the Ring* acompanha o cerco progressivo ao Eixo; *Triumph and Tragedy* confronta vitória e desordem política do pós-guerra. Registros bibliográficos de editoras e bibliotecas documentam a sequência entre 1948 e 1953, embora edições britânicas e americanas possam trazer datas distintas de impressão. [16]
-
-Os títulos fazem mais do que organizar páginas. Transformam a sequência da guerra em narrativa de advertência, provação, aliança, virada, fechamento e desfecho ambíguo. Churchill já era um escritor de história política e militar antes de assumir o cargo em 1940. Sua capacidade de escolher imagens e definir marcos moldou o modo como as gerações seguintes interpretaram a resistência britânica, especialmente a expressão de 1940 como momento de coragem nacional singular.
-
-As memórias também apresentam problemas documentais próprios. O autor trabalhou com assessores, fontes oficiais e correspondência de governo, mas a possibilidade de citar documentos ainda sujeitos a restrições não era idêntica à de historiadores posteriores. A perspectiva britânica tende a colocar decisões de Londres no centro, mesmo quando seu êxito dependia de planos de Moscou, da indústria norte-americana e de operações feitas por forças imperiais de múltiplas nacionalidades. Uma boa história militar separa o testemunho do protagonista do alcance efetivo de seu comando.
-
 ## O gabinete de guerra como organização: decisões, discordâncias e execução
 
 Churchill acumulava chefia de governo e a função de ministro da Defesa, mas nenhuma organização de guerra complexa poderia funcionar por decisões individuais não contestadas. Gabinete, Chefes de Estado-Maior, Almirantado, ministérios da produção, autoridades locais e parceiros estrangeiros trocavam memorandos, objeções e estimativas. O Churchill Archive conserva séries de papéis oficiais, correspondência e discursos que permitem reconstituir esse processo. [3]
@@ -149,28 +141,6 @@ A capacidade britânica de defesa envolveu ciência aplicada a uma escala sem pr
 Há uma lição econômica importante. Pesquisa e desenvolvimento não se converteram automaticamente em equipamentos prontos; foram necessários financiamento, padronização, linhas de produção e manutenção. Tecnologias aparentemente decisivas, como radares, exigiam operadores, peças e comunicações que não falhassem sob bombardeio. O Estado financiava inovação porque a defesa nacional não poderia depender exclusivamente de consumidores privados adquirindo individualmente serviços de proteção.
 
 O problema da inteligência também era institucional. Informações secretas sobre a posição do inimigo podiam ser valiosas e simultaneamente perigosas se sua utilização revelasse fontes. Dirigentes precisavam decidir quanto revelar a comandantes e quanto proteger processos de coleta. Tal dilema não faz do primeiro-ministro inventor de todo avanço científico nem substitui o papel dos profissionais responsáveis por verificar sinais e probabilidades.
-
-## Bengala, direito à alimentação e os custos da guerra imperial
-
-O debate sobre 1943 pode ser organizado em três questões diferentes. A primeira é por que pessoas morreram mesmo quando existiam alimentos em determinadas regiões: acesso depende de preços, renda, transporte e decisões administrativas. A segunda é por que recursos imperiais foram distribuídos segundo prioridades que colocaram operações militares, estoques e rotas acima de necessidades civis urgentes. A terceira é qual responsabilidade pessoal de Churchill se pode documentar por solicitações, decisões do gabinete e comunicações a administradores na Índia. [11][12][13]
-
-A interpretação de Amartya Sen desloca o foco de produção agregada de grãos para direitos efetivos de aquisição: um trabalhador rural pode passar fome quando seu salário compra arroz insuficiente, mesmo que parte dos comerciantes disponha de estoques. Inflação, especulação, deslocamento e política de compras intensificam essa perda de acesso. Estudos acadêmicos também analisam efeitos de medidas britânicas de guerra, incluindo intervenções nos mercados e problemas de circulação entre províncias. Assim, uma narrativa que compara apenas toneladas embarcadas e consumidas fica incompleta.
-
-Em contrapartida, a defesa de que Churchill pessoalmente planejou a morte em massa exige prova de intenção distinta da demonstração de negligência, atraso ou preferência por outros teatros de guerra. Documentos de carregamentos enviados não eliminam responsabilidade por auxílio insuficiente ou tardio; restrições logísticas também não podem ser tratadas como invenção sem examinar navios disponíveis. Uma historiografia séria compara decisões possíveis e suas consequências, não escolhe de antemão absolvição ou condenação por associação simbólica.
-
-## Vitória militar e transição econômica: o que o eleitorado de 1945 escolheu
-
-O desfecho da guerra criou expectativa de transformação doméstica. A mobilização total havia demonstrado capacidade de coordenar produção, emprego, transportes, saúde e alimentação em escala nacional. Cidadãos passaram a demandar que essa capacidade se traduzisse em habitação, segurança social e empregos no pós-guerra. O programa trabalhista de Attlee recebeu maioria eleitoral, impondo transição pacífica justamente quando Churchill possuía prestígio militar extraordinário. [14]
-
-A mudança revela uma distinção central da legitimidade democrática. Governar bem numa ameaça militar não confere automaticamente autorização para governar políticas sociais futuras. O eleitor pode reconhecer a resistência de 1940 e preferir um programa de reconstrução distinto em 1945. O resultado não reduz a importância de Churchill no conflito; impede tratar a nação como propriedade política de seu comandante de guerra.
-
-A prosperidade britânica posterior dependeria de reconstrução industrial, comércio, sistema monetário internacional e reconfiguração imperial. A vitória foi conquistada por um país financeiramente enfraquecido que não conservaria sem alterações sua posição global anterior a 1939. A transição entre prestígio militar e diminuição de poder econômico ajuda a explicar tanto o retorno da política partidária quanto a futura redefinição do papel britânico no mundo.
-
-## Bretton Woods, Guerra Fria e redistribuição do poder mundial
-
-As prioridades de Churchill tiveram efeitos muito além das eleições de 1945. A escassez de divisas britânicas e a dependência da produção americana reduziram a capacidade de preservar a antiga predominância financeira do Reino Unido. Durante a guerra, representantes de diversos países desenharam as instituições de Bretton Woods, fundamentais para parte da cooperação monetária do pós-guerra. Roberto Campos participou da delegação brasileira em 1944, lembrando que a nova ordem envolvia países com necessidades de desenvolvimento muito diferentes das potências anglo-americanas. [1][3]
-
-Henry Kissinger examinaria posteriormente as condições em que grandes Estados aceitam restrições comuns e países menores tentam preservar autonomia. Seus problemas estratégicos surgiram numa ordem parcialmente definida pela Segunda Guerra e pela confrontação soviético-americana. O legado de Churchill não se resume à liderança no campo militar: a vitória acelerou mudanças no poder econômico relativo, ascensão das finanças americanas e declínio dos impérios europeus. As conexões entre Churchill, Campos e Kissinger são estruturais e cronológicas, não prova de colaboração pessoal.
 
 ## Retorno ao poder, Guerra Fria e final da trajetória
 
@@ -254,7 +224,7 @@ Do exterior | 574
 
 [7] Parliament, discurso de Churchill sobre Dunquerque, 4 de junho de 1940: https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/churchillexhibition/churchill-the-orator/fight-on-the-beaches/
 
-[8] Imperial War Museums, Battle of Britain and Blitz, documentação histórica: https://memorials.iwm.org.uk/memorial/38895
+[8] Imperial War Museums, Battle of Britain and Blitz, documentação histórica: https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/how-radar-works.aspx
 
 [9] National Army Museum, Segunda Batalha de El Alamein: https://www.nam.ac.uk/explore/battle-alamein
 
