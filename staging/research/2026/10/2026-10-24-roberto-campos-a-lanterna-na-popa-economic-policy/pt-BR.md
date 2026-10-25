@@ -172,6 +172,10 @@ Décadas depois, Henry Kissinger escreveria sobre a diferença entre legitimidad
 
 ## O lugar de Roberto Campos na história econômica brasileira
 
+Em 2026, o Banco Central, o BNDES e o FGTS continuam em funcionamento, embora suas regras e funções tenham sido alteradas por leis e políticas posteriores. A permanência torna especialmente importante distinguir o desenho original de cada instituição de seu funcionamento atual. [7][11]
+
+
+
 Campos ajudou a construir mecanismos de crédito para industrialização, participou da formulação de reformas monetárias e trabalhistas e tornou-se referência na crítica aos custos de Estado empresarial. Seu percurso acompanha a passagem brasileira de uma economia com infraestrutura escassa a uma economia complexa, endividada e sujeita a crises inflacionárias. Não foi autor isolado do BNDE, do Plano de Metas ou do PAEG: governos, legisladores, técnicos, empresas, trabalhadores e instituições internacionais participaram de cada processo. [1][5][6]
 
 *A Lanterna na Popa* preserva a memória de um agente extraordinariamente bem posicionado para observar decisões de Estado. Seu valor cresce quando confrontado com documentos que revelam quem pagou os custos das políticas, como se distribuíram os benefícios e quais instituições sobreviveram a seus criadores. A oscilação entre planejamento e liberalização não constitui anomalia individual; expressa os dilemas de uma economia periférica que precisava simultaneamente financiar capital, proteger moeda, competir internacionalmente e ampliar direitos sociais.
