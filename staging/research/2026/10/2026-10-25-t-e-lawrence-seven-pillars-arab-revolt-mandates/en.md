@@ -190,31 +190,31 @@ Iraq and Transjordan | 1921 settlement | Hashemite monarchies and mandates
 
 ## Primary documents, archives and bibliography
 
-[1] University of Cambridge, Russell Crandall, T. E. Lawrence and Arab Revolt: https://www.cambridge.org/core/books/abs/americas-dirty-wars/intermezzo/57849F3234C639E9FFCE110AA0E91BD0
+[1] Cambridge University Press, Russell Crandall on Lawrence and Arab Revolt: https://www.cambridge.org/core/books/abs/americas-dirty-wars/intermezzo/57849F3234C639E9FFCE110AA0E91BD0
 
-[2] National Army Museum, Lawrence of Arabia: The Man Behind the Robes: https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes
+[2] National Army Museum, Lawrence of Arabia and Arab political leadership: https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes
 
-[3] Australian War Memorial, Seven Pillars of Wisdom, 1926 edição de assinantes: https://www.awm.gov.au/collection/MON01397
+[3] Australian War Memorial, catalogue of the 1926 subscribers' edition: https://www.awm.gov.au/collection/MON01397
 
-[4] Royal United Services Institute, análise editorial de Seven Pillars: https://www.rusi.org/news-and-comment/library-news/book-of-the-month---seven-pillars-of-wisdom-a-triumph-by-te-lawrence
+[4] Royal United Services Institute, bibliography and history of Seven Pillars editions: https://www.rusi.org/news-and-comment/library-news/book-of-the-month---seven-pillars-of-wisdom-a-triumph-by-te-lawrence
 
-[5] T. E. Lawrence Society, bibliografia e edições de 1922, 1926, 1927 e 1935: https://telsociety.co.uk/about-the-society/recommended-reading-and-viewing/
+[5] T. E. Lawrence Society, first editions and original manuscripts: https://telsociety.co.uk/about-the-society/recommended-reading-and-viewing/
 
-[6] T. E. Lawrence Studies, edições e registro bibliográfico: https://telstudies.org.uk/reference/reference/printed_material.html
+[6] T. E. Lawrence Studies, bibliographic edition records: https://telstudies.org.uk/reference/reference/printed_material.html
 
-[7] National Army Museum, campanha árabe e atuação britânica: https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes
+[7] National Army Museum, British support for Arab Revolt: https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes
 
-[8] Shapell Manuscript Foundation, carta de Lawrence de 7 de setembro de 1917: https://www.shapell.org/manuscript/lawrence-of-arabia/
+[8] Shapell Manuscript Foundation, Lawrence letter dated 7 September 1917: https://www.shapell.org/manuscript/lawrence-of-arabia/
 
-[9] T. E. Lawrence, carta ao The Times de 11 de setembro de 1919, documentos de promessas: https://www.biglow.co.uk/telstudies.co.uk/writings/letters/1919-20/190911_the_times.html
+[9] T. E. Lawrence, original Times letter of September 1919: https://www.biglow.co.uk/telstudies.co.uk/writings/letters/1919-20/190911_the_times.html
 
-[10] National Army Museum, Sykes–Picot e disputa pós-guerra: https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes
+[10] National Army Museum, Sykes-Picot and postwar settlements: https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes
 
-[11] Cambridge University Press, estudo de insurgência e contrainsurgência: https://www.cambridge.org/core/books/abs/americas-dirty-wars/intermezzo/57849F3234C639E9FFCE110AA0E91BD0
+[11] Cambridge University Press, scholarship on insurgency and counterinsurgency: https://www.cambridge.org/core/books/abs/americas-dirty-wars/intermezzo/57849F3234C639E9FFCE110AA0E91BD0
 
-[12] Imperial War Museums, Churchill and the Middle East, guia museológico: https://www.iwm.org.uk/sites/default/files/files/2024-07/churchill_and_the_middle_east_large_print_guide.pdf
+[12] Imperial War Museums, Churchill and the Middle East exhibition guide: https://www.iwm.org.uk/sites/default/files/files/2024-07/churchill_and_the_middle_east_large_print_guide.pdf
 
-[13] University of St Andrews, manuscritos e crítica histórica da revolta: https://collections.st-andrews.ac.uk/sub-group/notes-on-arab-revolt-and-t-e-lawrence/2000439
+[13] University of St Andrews, Lawrence and Arab Revolt manuscript collection: https://collections.st-andrews.ac.uk/sub-group/notes-on-arab-revolt-and-t-e-lawrence/2000439
 
-[14] Library of Congress, Seven Pillars 1926, registro e material exemplar: https://www.loc.gov/item/67123168/
-[15] Seven Pillars of Wisdom, full ten-book table of contents: https://www.bookfusion.com/books/2101755-seven-pillars-of-wisdom
+[14] Library of Congress, 1926 copy of Seven Pillars: https://www.loc.gov/item/67123168/
+[15] Seven Pillars, ten-book table of contents: https://www.bookfusion.com/books/2101755-seven-pillars-of-wisdom
