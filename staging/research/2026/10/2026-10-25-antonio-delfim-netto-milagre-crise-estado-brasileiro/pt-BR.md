@@ -106,6 +106,30 @@ A inflação brasileira avançou no final da ditadura e durante os anos seguinte
 
 A comparação com o PAEG de Roberto Campos ajuda a identificar continuidade institucional, mas não causalidade única. Regras de correção monetária criadas para proteger poupança nos anos 1960 foram adaptadas por governos posteriores em contextos de inflação e crise fiscal diferentes. Nenhum ministro sozinho criou a indexação generalizada, assim como nenhuma mudança de regra resolveria a dívida externa. A persistência da inflação reflete instituições e choques acumulados.
 
+## Política salarial, produtividade e desigualdade durante a expansão
+
+Um dos problemas centrais do milagre brasileiro é a distância entre o crescimento do produto por trabalhador e a capacidade dos empregados de negociar participação nos ganhos. As fórmulas salariais introduzidas em parte no período anterior limitavam correções e podiam produzir perdas reais quando inflação observada ultrapassava expectativas incorporadas aos reajustes. A produção industrial se expandia com crédito e capacidade instalada, mas salários não eram definidos num ambiente de livre negociação coletiva. Restrições políticas e sindicais alteravam o poder de barganha dos trabalhadores. [3][5][9]
+
+A desigualdade também dependia da estrutura do emprego. Trabalhadores urbanos formais em grandes fábricas tinham acesso diferente a benefícios e oportunidades de pessoas em atividades informais, rurais ou regiões com menor infraestrutura. A migração para cidades ampliava oferta de mão de obra e pressionava serviços urbanos. A industrialização podia aumentar rendimentos de determinados grupos e simultaneamente produzir moradia precária e baixos salários para outros. A passagem de uma economia agrária para centros industriais não foi uma redistribuição uniforme de oportunidades.
+
+O debate sobre a fórmula do bolo tornou-se duradouro porque a promessa de distribuição posterior não vinha acompanhada de mecanismo automático. Maior arrecadação pode financiar serviços públicos, mas isso depende de decisões tributárias e orçamentárias; maior produtividade pode elevar salários, mas depende de instituições de contratação e concorrência. A política econômica de Delfim precisa ser examinada por essas relações observáveis e não por uma hipótese de que o tempo, sozinho, faria os benefícios chegarem a todos.
+
+## Diferenças entre os dois mandatos: condições iniciais, juros e financiamento
+
+O sucesso relativo da política expansionista de 1967–1973 ocorreu quando parte da indústria dispunha de capacidade ociosa e os mercados externos forneciam financiamento barato. Em 1979, o quadro era muito diferente: novas instalações industriais demandavam energia importada mais cara, a dívida acumulada já possuía serviço financeiro importante e os juros internacionais começaram a subir. Mesmo que o objetivo declarado fosse novamente estimular produção, a relação entre crédito e oferta potencial deixara de ser igual. [3][11][12]
+
+Um programa que aumenta demanda pode elevar utilização de máquinas existentes, reduzindo custos médios, quando não enfrenta falta de materiais. Em ambiente de escassez de petróleo e divisas, o mesmo impulso amplia importações e pressiona moeda. O resultado não deriva de incompetência de uma única pessoa, mas também não se resolve culpando exclusivamente o exterior. Políticas do governo Geisel, empresas estatais, credores privados, autoridade cambial e decisões de Delfim no Planejamento contribuíram em momentos diferentes para a estrutura da dívida.
+
+A comparação ilustra uma questão de engenharia econômica: políticas são condicionais a estoques e fluxos. Estoque de dívida e prazo de vencimento condicionam gastos futuros; reservas cambiais e receita exportadora definem a capacidade de pagar importações; capital instalado e produtividade determinam resposta da produção. Uma taxa alta de crescimento num ciclo não demonstra que a mesma combinação de instrumentos produzirá igual resultado em circunstâncias posteriores.
+
+## O poder das redes tecnocráticas e a fiscalização democrática
+
+Delfim cultivou um grupo de especialistas de formação comum que dominava estatística, contabilidade pública, indústria e crédito. Essa rede permitia decisões informadas e continuidade de projetos, mas concentrava parte da interpretação dos problemas em poucos interlocutores. Na universidade, hipóteses podem ser criticadas em publicações e seminários; num governo autoritário, cidadãos e opositores encontravam barreiras institucionais à contestação. [6][7]
+
+A competência técnica não elimina conflitos de interesse. Um ministério pode priorizar bancos e indústrias que considera capazes de gerar exportações, relegando setores de baixa produtividade e trabalhadores menos organizados. Critérios de seleção precisam ser públicos e avaliados por resultados, pois subsídios e crédito barato também podem perpetuar privilégios. O controle parlamentar e a imprensa livre não substituem análise técnica, mas oferecem meios de denunciar erros, favoritismo e sacrifícios não consentidos.
+
+Em 2026, os registros acadêmicos, parlamentares e arquivos da ditadura permitem distinguir o Delfim formulador de hipóteses, o ministro efetivamente responsável por decisões e o comentarista de décadas posteriores. A longevidade e a capacidade de adaptação política não transformam a experiência ministerial em autoridade incontestável nem tornam sua participação na repressão um detalhe biográfico.
+
 ## Redemocratização, Constituinte e cinco mandatos parlamentares
 
 Delfim deixou o governo em 1985, na transição civil, e foi eleito deputado federal em 1986, integrando a Assembleia Constituinte de 1987–1988. Sua biografia oficial na Câmara registra cinco mandatos entre 1987 e 2007 por São Paulo e atuação em comissões de economia, finanças e outras áreas. O ex-ministro de ditadura passou a exercer influência por votação, coalizões partidárias, projetos e debate público sob instituições representativas. [2]
