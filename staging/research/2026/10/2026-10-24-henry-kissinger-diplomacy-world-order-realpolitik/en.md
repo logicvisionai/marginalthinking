@@ -72,11 +72,19 @@ Incremental agreements can be valuable when leaders lack domestic support for co
 
 ## Diplomacy (1994): Europe, statecraft and American exceptionalism
 
+The publisher's primary excerpt from chapter one explicitly names Richelieu's raison d'état, Britain's balance-of-power diplomacy, Metternich's post-Napoleonic settlement and Bismarck's transformation of European politics. Those claims can therefore be attributed to Kissinger's own opening argument rather than inferred from a library catalogue. Charles Maechling's contemporary Foreign Service Journal review considered the work ambitious but criticized its highly selective, state-centred historical narrative. The difference between authorial thesis and independent criticism is material. [24][27]
+
+
+
 In *Diplomacy*, Kissinger traces rival approaches to international relations: continental balances of power, revolutionary universalism, Bismarckian Realpolitik and American exceptionalism, with Theodore Roosevelt and Woodrow Wilson treated as contrasting strategic traditions. Richelieu stands for reason of state, Metternich and Castlereagh for post-Napoleonic equilibrium. His central premise is that lasting order needs a distribution of power that prevents domination as well as rules regarded as legitimate by major participants. [2][5]
 
 The approach explains alliances that violate ideological expectations: governments may cooperate with cultural and political adversaries to block a hegemon. Its limitation is the danger of mistaking diplomatic cabinets for society as a whole. Colonialism, slavery, social revolutions and anti-imperial movements helped redefine the order rather than merely disturbing it from outside. Kissinger's account deserves engagement with other historical perspectives, particularly those of societies whose political futures were often negotiated by others.
 
 ## World Order (2014): legitimacy across distinct traditions
+
+In his own 2014 essay, Kissinger contrasts Europe's traditions of competing sovereign states with the United States' conviction that representative governance can support international peace. This is the author's contemporary public argument, not proof that all societies shared its assumptions. Bryan Griffin's review at Columbia analyzes the distinct regional conceptions of order and the role of technological change. [25][26]
+
+
 
 Twenty years later, *World Order* explored the difficulty of finding common international principles among civilizations with different histories of authority. The book compares the European Westphalian tradition, forms of political order in the Middle East, the plurality of Asia and the American conception of universal legitimacy. Separate discussions address Iran, Asian security and the implications of digital technology for strategic decision-making. University library catalogues confirm the chapter structure. [6][19]
 
@@ -145,12 +153,6 @@ The lasting value of the diplomatic method lies in negotiation, verification and
 Kissinger's defenders cite rapprochement with China, nuclear détente and Middle Eastern agreements as achievements of strategic statecraft. Critics cite covert intervention, bombing campaigns, silence amid mass atrocities and support for authoritarian allies. The outcomes cannot be collapsed into a single score. Lowering the probability of superpower war did not compensate individual victims in Chile, Cambodia or Bangladesh; documenting those harms does not undo the existence of negotiated agreements. [4][20]
 
 More informative counterfactuals focus on actual decision possibilities: Could China contact have been maintained with less support for Pakistan's rulers? Could U.S. withdrawal from Vietnam have proceeded with fewer Cambodian civilian losses? Which forms of pressure could Washington have used to discourage repression by Chile's junta? Documents narrow the alternatives but cannot identify an imaginary costless path. The discipline of distinguishing consequences for different populations is essential to judging strategic brilliance alongside political responsibility.
-
-## Churchill, Bretton Woods and the institutions Kissinger inherited
-
-Kissinger's postwar strategic vision developed within an international structure Britain and the United States had fought to preserve and transform during the Second World War. Churchill's refusal to make a separate peace in 1940 preserved an Allied base; the eventual victory created conditions for U.S. predominance and the United Nations. Bretton Woods, which Roberto Campos attended as part of the Brazilian delegation in 1944, addressed a different dimension of the same reconstruction: payments, exchange stability and financing. [1][2]
-
-The three careers occupied distinct institutional levels. Churchill directed wartime military and imperial strategy; Campos helped a developing country negotiate within the emerging economic order; Kissinger later sought to manage strategic competition in a nuclear world. The continuity lies in the need for enforceable institutions and the distribution of power. Their conflicts concern representation: colonies, developing states and civilians affected by great-power decisions did not enjoy the same authority as the governments shaping agreements. No direct collaboration among the three is implied by the structural comparison.
 
 ## After public office: consulting, books and the enduring contradiction
 
