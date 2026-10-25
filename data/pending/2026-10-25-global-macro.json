@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-25",
+  "slug": "2026-10-25-global-macro",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-25-global-macro/en.md",
+      "title": "Global Macro — Brazil votes while a Gulf oil premium waits for the next market opening",
+      "deck": "Brazil's Sunday runoff creates a closed-market political information shock as Friday's crude futures reflect renewed Gulf shipping risk; the cross-asset transmission depends on fiscal institutions, dollar yields and physical throughput.",
+      "tags": [
+        "global macro",
+        "Brazil election",
+        "Brent crude",
+        "US Treasuries",
+        "geopolitical risk",
+        "energy shipping"
+      ],
+      "keywords": [
+        "25 October 2026",
+        "Brazil runoff October 25 2026",
+        "Brent WTI October 23 2026",
+        "Treasury October 23 2026",
+        "Gulf energy logistics",
+        "institutional political risk"
+      ],
+      "regime": "Weekend political information shock alongside elevated dollar financing costs and Gulf energy-transport risk.",
+      "key_risk": "Conflating an unobserved Brazilian election result and reported Gulf threats with verified asset repricing or physical oil supply losses.",
+      "watch": [
+        "TSE certified runoff result and turnout",
+        "Monday BRL, DI yields and B3 breadth versus emerging-market peers",
+        "Verified Gulf tanker throughput, freight and insurance",
+        "US real yields, breakevens and credit spreads"
+      ],
+      "search_text": "Global Macro 25 October 2026 Brazil runoff Lula Flavio Bolsonaro Gulf shipping Brent WTI Treasury 2y 10y 30y cross asset political risk energy"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-25-global-macro/pt-BR.md",
+      "title": "Macro Global — Brasil vota enquanto o prêmio de risco do petróleo aguarda a reabertura dos mercados",
+      "deck": "O segundo turno brasileiro cria um choque político de informação com mercados fechados, enquanto o petróleo reflete riscos renovados à navegação no Golfo; a transmissão depende de instituições fiscais, juros em dólar e fluxos físicos.",
+      "tags": [
+        "macro global",
+        "eleição brasileira",
+        "petróleo Brent",
+        "Treasuries",
+        "risco geopolítico",
+        "transporte energético"
+      ],
+      "keywords": [
+        "25 October 2026",
+        "Brazil runoff October 25 2026",
+        "Brent WTI October 23 2026",
+        "Treasury October 23 2026",
+        "Gulf energy logistics",
+        "institutional political risk"
+      ],
+      "regime": "Choque político de informação no fim de semana, com financiamento em dólar caro e risco ao transporte energético no Golfo.",
+      "key_risk": "Confundir resultado eleitoral ainda não observado e ameaças relatadas no Golfo com reprecificação comprovada de ativos ou perdas físicas de oferta.",
+      "watch": [
+        "Resultado oficial e comparecimento do segundo turno no TSE",
+        "Real, juros DI e amplitude da B3 na segunda-feira versus emergentes",
+        "Volume físico de navios no Golfo, fretes e seguros",
+        "Juros reais americanos, inflação implícita e spreads de crédito"
+      ],
+      "search_text": "Macro Global 25 outubro 2026 segundo turno Brasil Lula Flavio Bolsonaro transporte Golfo Brent WTI Treasury juros câmbio risco político energia"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "capital-markets",
+    "monetary-policy",
+    "sovereign-debt",
+    "energy",
+    "trade-investment",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "political-stability",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "producer_checks": {
+    "information_cutoff": "2026-10-25 05:00 BRT; Friday 23 October market close, no Sunday result or post-vote prices.",
+    "novelty": "Sunday 25 October Brazilian runoff is new discrete political information after the 24 October cross-region PMI report; Friday Gulf oil repricing is contextual transmission, not recycled central thesis.",
+    "visual_signature": "Each locale: 1 quantitative election chart, 1 quantitative oil chart, 1 five-row evidence table, 1 two-chain flow and 1 five-region map. Chart numbers and units identical.",
+    "source_check": "11 numbered source URLs identical in both locales, including official TSE, Treasury, ICI, IEA, ONS, Japanese Statistics Bureau; Reuters explicitly qualified for Friday futures settlements.",
+    "bilingual_parity": "Same six analytical sections, identical quantities and dates, same 11 source URLs, 2 charts, table, flow and map."
+  }
+}
