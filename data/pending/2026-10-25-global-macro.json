@@ -103,10 +103,14 @@
   "format": "brief",
   "cadence": "daily",
   "producer_checks": {
-    "information_cutoff": "2026-10-25 05:00 BRT; Friday 23 October market close, no Sunday result or post-vote prices.",
+    "information_cutoff": "Early Sunday 25 October 2026, 05:00 BRT; last completed liquid market session Friday 23 October. No second-round result, Sunday Brazilian market close or post-election prices included.",
     "novelty": "Sunday 25 October Brazilian runoff is new discrete political information after the 24 October cross-region PMI report; Friday Gulf oil repricing is contextual transmission, not recycled central thesis.",
-    "visual_signature": "Each locale: 1 quantitative election chart, 1 quantitative oil chart, 1 five-row evidence table, 1 two-chain flow and 1 five-region map. Chart numbers and units identical.",
-    "source_check": "11 numbered source URLs identical in both locales, including official TSE, Treasury, ICI, IEA, ONS, Japanese Statistics Bureau; Reuters explicitly qualified for Friday futures settlements.",
-    "bilingual_parity": "Same six analytical sections, identical quantities and dates, same 11 source URLs, 2 charts, table, flow and map."
-  }
+    "visual_signature": "Bilingual chart series [[\"47.03\",\"45.16\"],[\"116.72\",\"103.27\"]], 1 dated evidence table, 1 two-chain flow and 1 geographic mechanism map per locale.",
+    "source_check": "15 numbered source entries, primary TSE/Treasury/ICI/IEA/ONS/BCB/Planning and two secondary market price history records; Reuters removed. Source-vintage and late-Sunday uncertainty preserved.",
+    "bilingual_parity": "Six aligned analytical H2 sections, 15 source entries, matched data and concepts, chart numeric parity, separate post-election/fiscal risk qualifications.",
+    "research_depth": "Validated producer counting proxy: EN 2064, PT-BR 2299 substantive words excluding code fences and URLs; 6 H2 analytical sections each, 2 numeric charts, table, causal flow, map.",
+    "qa_handoff": "Previous QA rejection revision 0 remedied in staging; further independent review and SHA-bound approval required before public promotion."
+  },
+  "revision": 1,
+  "revision_reason": "Resolve r0 independent QA depth rejection: six substantive sections in both editions, greater than 1,700 words in both; new documented PPA/LDO/LOA and BCB autonomy channel. Replace Reuters with two distinct dated market-price sources, preserve numerical chart parity."
 }
