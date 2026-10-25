@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "checked_at": "2026-10-25T05:00:00-03:00",
+  "candidate_ids": [],
+  "coverage_summary": "Compared all eight canonical Atlas conditions (snapshot updated 2026-09-23), 22/23/24 October daily scan markers and latest public Global Macro through 24 October plus today's pending. Screened primary TSE election procedures, US Treasury and ICI financing data, IEA October energy report, FAO October food price index, OECD October pesticide-residue consultation, EU Council food/feed regulatory mandate, and September World Bank/BNDES industrial decarbonization financing. The 25 October Brazilian runoff is an electoral event, not an implemented fiscal/regulatory reform; Friday Gulf oil futures do not establish a new operating infrastructure constraint. OECD consultation, EU negotiating mandate and Brazil industrial financing are already announced/proposed stages, without newly verified effective rules, commissioning or demonstrated scaling at this cutoff. No new medium/high-materiality structural mechanism beyond existing Atlas or previously staged 23/24 October candidates was verified; no canonical change.",
+  "canonical_atlas_updated_at": "2026-09-23",
+  "reviewed_canonical_ids": [
+    "BRA-GRID-001",
+    "BRA-PIX-001",
+    "ZAF-FREIGHT-001",
+    "ZAF-GRID-001",
+    "IND-UPI-LEVERAGE-001",
+    "IND-UPI-BARRIER-001",
+    "CHL-GRID-001",
+    "VNM-CAPITAL-ACCESS-001"
+  ],
+  "recent_marker_candidate_counts": {
+    "2026-10-22": 0,
+    "2026-10-23": 2,
+    "2026-10-24": 1
+  },
+  "evidence_urls": [
+    "https://www.tse.jus.br/eleicoes/cde-2026",
+    "https://www.iea.org/events/oil-market-report-october-2026",
+    "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+    "https://www.oecd.org/en/events/public-consultations/2026/10/second-commenting-round-of-the-revised-draft-guidance-on-the-definition-of-residue.html",
+    "https://www.worldbank.org/en/news/press-release/2026/09/15/world-bank-group-backs-transformation-of-energy-intensive-industries-in-brazil"
+  ],
+  "limitations": [
+    "Sunday 05:00 cutoff predates election outcome; no verified new physical energy throughput release.",
+    "No repeated staging of earlier UK tariff, Pix-TIPS or Nigeria BRIDGE candidates.",
+    "No inference that zero candidates means zero global structural change."
+  ]
+}
