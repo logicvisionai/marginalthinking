@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-25T16:49:23.406Z",
+  "updated_at": "2026-10-25T18:23:36.738Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -717,6 +717,20 @@
       "public_route": "/reports/",
       "source_files": [
         "BIOGRAPHICAL-RESEARCH.md",
+        "data/reports.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-energy-industrial-systems-research",
+      "type": "editorial-line",
+      "kind": "energy-industrial-systems-research",
+      "status": "active",
+      "public_route": "/series/energy-materials-industrial-systems/",
+      "source_files": [
+        "ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md",
         "data/reports.json"
       ],
       "update_mode": "event-driven",

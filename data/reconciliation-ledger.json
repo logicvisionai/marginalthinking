@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-25T16:45:03.251Z",
+  "last_reconciled_at": "2026-10-25T18:23:36.738Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7005,6 +7005,53 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Technical adoption trends in chips and data-centre electricity are historical and scenario evidence, not newly validated present-day deployment capabilities requiring technology signal ledger change."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-four-deep-research-dossiers-published-reconciliation",
+      "reconciled_at": "2026-10-25T18:23:36.738Z",
+      "report_ids_reviewed": [
+        "MT-EN-2026-10-25-ENERGY-TRANSITION",
+        "MT-PE-2026-10-25-CRYPTO-AI-CAPITAL",
+        "MT-PE-2026-10-25-TECHNOFEUDALISM",
+        "MT-SA-2026-10-25-YANIS-VAROUFAKIS"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Research describes energy, digital infrastructure and sovereign-credit dependencies but includes no separately verified new directed bilateral flow or ownership relationship for the canonical network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Comparative political-economy research and biography do not establish a new country-specific actionable structural opportunity with independent current metrics."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Varoufakis is the subject of a historical and intellectual biography; no present-day legal control rights or corporate ownership claims were verified for entry into the actor registry."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Energy and critical-mineral supply concentration is analyzed, but the publication does not provide a current verified asset-level change to existing reserve, mine, refining or infrastructure control records."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Greek 2015 policy history is described but does not introduce a newly coded quantitative intervention-outcome case for the policy case registry."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Geopolitical and political economy contexts are covered without introducing a newly verified active armed-conflict event or change to a conflict-system record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "The long-form studies review historical deployment and financial conditions; no single newly measured engineering capability or independent near-term technology milestone is asserted for the signal ledger."
         }
       ]
     }
