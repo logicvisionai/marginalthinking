@@ -90,6 +90,14 @@ As colonial secretary Winston Churchill convened meetings in Cairo in 1921 to re
 
 These arrangements were not the unified, fully independent Arab polity envisaged by some participants in the wartime Revolt. Local dynasties held recognizable political authority while British influence remained powerful in security and foreign affairs. The Lawrence–Churchill link is thus an institutional and historically documented one: they helped shape a postwar settlement whose limitations conflicted with wartime aspirations, rather than merely participating in an anecdote of personal friendship.
 
+## Feisal's own case for independence: an Arab voice beyond Lawrence's memoir
+
+Lawrence's later account can be checked against documents in which Feisal's representatives made political claims directly. A memorandum submitted in March 1921, preserved in United Nations documentation on Palestine, states that Arabs had entered the war to obtain independence and invokes Britain's assurances to Sharif Hussein before the revolt. It presents the campaign as a struggle undertaken by people seeking control over their own future, rather than the personal mission of a British officer. [16]
+
+The document also illuminates the gap between military promises and a settlement accepted by the allies. Correspondence from 1915 contained qualifications that the European powers interpreted through their interests in Syria, Palestine and Mesopotamia. To Hashemite negotiators, British credibility depended on converting the wartime partnership into political recognition. Military sacrifice had created expectations and claims that were not extinguished by issuing mandates.
+
+A Library of Congress exhibit preserves a photograph of Churchill and Lawrence at the 1921 Cairo Conference, verifying their presence and institutional cooperation. It does not prove private agreement over each boundary or consent among the people being governed. Bringing together Feisal's memorandum, institutional records and Lawrence's account produces a more precise history of negotiations among actors with profoundly unequal power. [17]
+
 ## The writing of Seven Pillars: the Oxford Text, subscribers and Revolt in the Desert
 
 The editions of *Seven Pillars* are fundamental evidence about its construction. The 1922 Oxford Text, printed as eight proof copies, contained approximately 335,000 words. Lawrence reduced it to roughly 250,000 for the lavish privately printed subscribers' edition of 1926. To address mounting production costs, he made the 1927 *Revolt in the Desert* abridgment of about 130,000 words. RUSI explains the different texts, the extraordinary expense of the 1926 printing and the public release of the full subscribers' version after his death in 1935. [4][5]
@@ -232,3 +240,6 @@ Iraq and Transjordan | 1921 settlement | Hashemite monarchies and mandates
 
 [14] Library of Congress, 1926 copy of Seven Pillars: https://www.loc.gov/item/67123168/
 [15] Seven Pillars, ten-book table of contents: https://www.bookfusion.com/books/2101755-seven-pillars-of-wisdom
+[16] United Nations, Feisal's memorandum of March 1921: https://www.un.org/unispal/document/auto-insert-203679/
+
+[17] Library of Congress, Churchill and T. E. Lawrence at Cairo 1921: https://www.loc.gov/exhibits/churchill/interactive/_html/wc0079.html
