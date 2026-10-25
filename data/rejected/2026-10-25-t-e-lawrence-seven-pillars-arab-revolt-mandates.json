@@ -1,0 +1,109 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-25-LAWRENCE",
+  "slug": "2026-10-25-t-e-lawrence-seven-pillars-arab-revolt-mandates",
+  "revision": 1,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T05:35:53.168Z",
+  "reviewed_commit": "4d003a616a0ddad533bba63b64f390f67f1c29b1",
+  "pending_blob_sha": "cebf12204f3efbce0d45971a86af1577008dd23d",
+  "source_blob_shas": {
+    "en": "81efbd57ffc248c309e557c6d6deccfe8e31cccd",
+    "pt-BR": "0bb61b0fdc11b2df966b94fc081758c03d317f86"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-25-t-e-lawrence-seven-pillars-arab-revolt-mandates/en.md:49-53,129-133,159-163 and pt-BR.md:49-53,129-133,159-163",
+      "issue": "The biographical account of the 1918 advance to Damascus and its ethical consequences omits the Tafas episode (27 September 1918), including the killings of civilians by retreating Ottoman forces and Lawrence's documented account of retaliatory orders and killings of prisoners. The dossier instead speaks generically of 'reprisals' and 'killing' without identifying this material and contested decision by its subject. BIOGRAPHICAL-RESEARCH.md requires examination of documented violent and controversial conduct, attributed and distinguished from later inference; an extensive account of Lawrence's wartime agency is incomplete without this episode.",
+      "evidence": [
+        "Scott Anderson, Smithsonian Magazine, 'The True Story of Lawrence of Arabia' (2014), reports Lawrence's 'no quarter' order and quotes his battlefield report on the killing of captives, while locating the events after Tafas: https://www.smithsonianmag.com/history/true-story-lawrence-arabia-180951857/",
+        "Historical article published by the Turkish Historical Society (Belleten, 1987) independently discusses the late-1918 no-prisoners order and Arab Bulletin No. 106; its interpretation is critical and should be checked against the primary narrative, not adopted as unqualified fact: https://www.belleten.gov.tr/eng/full-text/1948/eng",
+        "Boston University scholarly conference paper discusses Tafas and competing interpretations of Lawrence's responsibility and intentions: https://www.bu.edu/historic/conference08/bwyattbrown.pdf",
+        "Neither locale names Tafas or provides a source-based assessment of Lawrence's conduct there."
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-25-t-e-lawrence-seven-pillars-arab-revolt-mandates/en.md:165-197 and pt-BR.md:165-197",
+      "issue": "The first chart is a defensible, approximate comparison of the three editions' lengths (335, 250, 130 thousand words). The second chart selects unrelated intervals (1916–17=1, 1918–26=8, 1926–35=9 years) with no common analytical population or causal variable and merely recasts selected dates already listed in the chronology table. It adds no independent evidence about the revolt's logistics, postwar mandates or the book's substantive revisions. Although the numeric chart floor is mechanically met, the effective substantive two-chart requirement fails under RESEARCH-VISUALS.md §QA gate (visually redundant/decorative research) and BIOGRAPHICAL-RESEARCH.md §Contrato gráfico.",
+      "evidence": [
+        "Both locales chart arrays [[335,250,130],[1,8,9]], matching numeric values; the 1/8/9 intervals are arithmetic, not invented measurements, but their selection does not support an analytical comparison.",
+        "Jeremy Wilson's T. E. Lawrence Studies confirms approximately 334,500 words for the Oxford text and 250,500 for the subscribers' text: https://www.telstudies.org.uk/biography/biography/t_e_lawrence_as_writer.html",
+        "RESEARCH-VISUALS.md §§Evidence rules and QA gate require material insight, not redundant or decorative counts."
+      ]
+    },
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-25-t-e-lawrence-seven-pillars-arab-revolt-mandates/en.md:129-133, bibliography [5] and [13] at 223 and 239; pt-BR.md:129-133, bibliography [5] and [13] at 223 and 239",
+      "issue": "The Deraa paragraph asserts that biographers have challenged details and chronology of Lawrence's account, but its two attached references are only a T. E. Lawrence Society recommended-reading list [5] and the St Andrews catalogue description of Elie Kedourie's papers [13]. Neither linked page presents the particular historical arguments, documents or chronology invoked. This is a material contested biographical claim that needs specific, competing specialist treatments rather than a catalogue entry being used as claim-level evidence.",
+      "evidence": [
+        "St Andrews link is an archive inventory with three envelopes and a summary of Kedourie's notes; it does not publish or adjudicate the relevant evidence: https://collections.st-andrews.ac.uk/sub-group/notes-on-arab-revolt-and-t-e-lawrence/2000439",
+        "Jeremy Wilson's detailed source-critical response to Lawrence James's claim uses the 10th Motor Section war diary, ship log and contemporaneous records, illustrating the specific evidentiary debate: https://telstudies.org.uk/discussion/rejected_legend/rejected_legend/rejected_legend_deraa.html",
+        "The manuscript's [5] links to recommended reading rather than a specific argument: https://telsociety.co.uk/about-the-society/recommended-reading-and-viewing/"
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Add a balanced, sourced Tafas (September 1918) subsection to both languages, distinguishing Ottoman violence against civilians, Lawrence's contemporaneous/memoir accounts of retaliation and prisoner killing, corroboration and interpretive limits; do not infer unsupported victim totals or exculpation.",
+    "Replace the arbitrary 1/8/9-year milestone chart with a second materially analytical, source-reproducible quantitative comparison, or restructure visuals so two distinct charts contribute independent evidence with comparable units, periods and explicit analytical interpretation; preserve EN/PT-BR parity and do not invent military data.",
+    "Replace bibliography-only and archive-catalogue citations for Deraa with specific contrasting scholarly analyses and primary documents where available; attribute disagreements precisely, in both locales.",
+    "Retain canonical ID and slug; update both staged Markdown files and write pending v2 LAST with incremented revision and new source SHAs; submit for new independent QA. Do not edit reports/**, public indexes, CSS, taxonomy or institutional content."
+  ],
+  "evidence": [
+    "Reviewed main HEAD 4d003a616a0ddad533bba63b64f390f67f1c29b1; pending blob cebf12204f3efbce0d45971a86af1577008dd23d; EN 81efbd57ffc248c309e557c6d6deccfe8e31cccd; PT-BR 0bb61b0fdc11b2df966b94fc081758c03d317f86; producer_checks.source_shas match staged 2/2.",
+    "Exact expressions from scripts/validate-editorial-depth.mjs reproduced on complete staged Markdown: EN 4515 words, 14 distinct source URLs, 13 distinct hosts, 27 H2 sections, 2 charts, 1 flow, 1 map, 13 table rows; PT-BR 5034 words, 14 URLs, 13 hosts, 27 H2, 2 charts, 1 flow, 1 map, 13 table rows. Chart values identical across locales.",
+    "Primary-source spot checks: Faisal memorandum dated 10 March 1921 and signed Faisal is accessible in the UN archive; National Army Museum documents 6 July 1917 Aqaba and the 1917 Twenty-Seven Articles; T. E. Lawrence Studies documents the edition lengths and 1935 public release. https://www.un.org/unispal/document/auto-insert-203679/ ; https://www.nam.ac.uk/explore/lawrence-arabia-man-behind-robes ; https://www.telstudies.org.uk/biography/biography/t_e_lawrence_as_writer.html",
+    "Priority MT-WF-2026-10-19 remains approved and public at revision 0: pending/approved/public 3/3 SHA matches; not reprocessed.",
+    "Full Node validators scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs were not executed because a local repository checkout was unavailable; direct git clone failed DNS resolution. Reproduced deterministic depth and visual expressions only."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "Pending schema v2 ready true, canonical slug and ID, revision 1, allowed program, topics, phenomena, format and geography; no prior approved/rejected/public artifact for this ID or slug at reviewed HEAD."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4515,
+      "pt_br_words": 5034,
+      "en_h2": 27,
+      "pt_br_h2": 27,
+      "source_urls_each": 14,
+      "distinct_hosts_each": 13,
+      "notes": "Quantitative thresholds pass; complete Node validator not executed."
+    },
+    "factual_methodology": {
+      "result": "partial",
+      "notes": "Major dates, 1921 Faisal memorandum and literary edition lengths independently cross-checked; Tafas episode and Deraa controversy require fuller documentary treatment."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Specific contested Deraa interpretation is attributed to a reading list and archival catalogue rather than published source-level analysis."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Distinguishes collective Arab agency from memoir self-presentation and mandate legitimacy; does not invent quantified military or economic counterfactuals."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "EN and PT-BR share claims, source URLs, dates and numeric chart values; both share the same substantive omissions and weak citations."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Material omission of Lawrence's reported conduct after the Tafas killings, despite generic mentions of reprisals."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Second chart is an arbitrary chronology-gap comparison and adds no substantive independent evidence; numerical equivalence does not satisfy analytical readiness."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Full Node validators require a local checkout unavailable in this run; strict depth expressions were reproduced directly."
+    }
+  },
+  "producer_route": "task 3/5 — structural strategic-actor/biographical research",
+  "notes": "First QA rejection for this ID/revision/three-SHA tuple. No public bundle or approval was present at reviewed HEAD. No producer or publisher task was invoked."
+}
