@@ -188,38 +188,38 @@ Indonesia and Middle East | Postwar economic advice | Distinct national contexts
 
 ## Primary sources and critical bibliography
 
-[1] Deutsches Historisches Museum, Hjalmar Schacht, biografia completa: https://www.dhm.de/lemo/biografie/hjalmar-schacht
+[1] German Historical Museum, Hjalmar Schacht institutional biography: https://www.dhm.de/lemo/biografie/hjalmar-schacht
 
-[2] German History in Documents and Images, Schacht e financiamento de guerra: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
+[2] German History in Documents and Images, economic ministry and MEFO: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
 
-[3] United States Holocaust Memorial Museum, perfil judicial: https://encyclopedia.ushmm.org/content/en/article/hjalmar-schacht
+[3] United States Holocaust Memorial Museum, Schacht legal case: https://encyclopedia.ushmm.org/content/en/article/hjalmar-schacht
 
-[4] Avalon Project, julgamento de Nuremberg, Schacht: https://avalon.law.yale.edu/imt/judschac.asp
+[4] Avalon Project, International Military Tribunal judgment on Schacht: https://avalon.law.yale.edu/imt/judschac.asp
 
-[5] Nuremberg, sentença sobre Schacht, transcrição de 1º outubro de 1946: https://avalon.law.yale.edu/imt/10-01-46.asp
+[5] Avalon Project, Nuremberg judgment delivered in October 1946: https://avalon.law.yale.edu/imt/10-01-46.asp
 
-[6] Deutsche Biographie, verbete com documentação e obras: https://www.deutsche-biographie.de/sfz110486.html
+[6] Deutsche Biographie, Schacht's life and bibliography: https://www.deutsche-biographie.de/sfz110486.html
 
-[7] Deutsche Bundesbank, Inflation: lessons learnt from history: https://www.bundesbank.de/en/tasks/topics/inflation-lessons-learnt-from-history-666006
+[7] Deutsche Bundesbank, historical inflation and currency reform: https://www.bundesbank.de/en/tasks/topics/inflation-lessons-learnt-from-history-666006
 
-[8] GHDI, Hjalmar Schacht sobre a estabilização do marco (1927): https://germanhistorydocs.org/en/weimar-germany-1918-1933/hjalmar-schacht-on-the-stabilization-of-the-mark-1927
+[8] German History in Documents and Images, Schacht on the mark stabilization: https://germanhistorydocs.org/en/weimar-germany-1918-1933/hjalmar-schacht-on-the-stabilization-of-the-mark-1927
 
-[9] Weimar Republic portal, Schacht e Dawes/Young: https://www.weimarer-republik.net/en/weimar-gateway/people-whos-who-of-the-weimar-republic/parties/ddp/hjalmar-schacht/
+[9] Weimar Republic historical portal, Dawes and Young Plans: https://www.weimarer-republik.net/en/weimar-gateway/people-whos-who-of-the-weimar-republic/parties/ddp/hjalmar-schacht/
 
-[10] Deutsches Historisches Museum, Frente de Harzburg: https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/harzburger
+[10] German Historical Museum, Harzburg Front 1931: https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/harzburger
 
-[11] Deutsche Biographie, mudança ideológica e ligação com nazistas: https://www.deutsche-biographie.de/gnd118606026.html?language=de
+[11] Deutsche Biographie, political and intellectual trajectory: https://www.deutsche-biographie.de/gnd118606026.html?language=de
 
-[12] Nuremberg, origem das letras MEFO e 12 bilhões de reichsmarks: https://avalon.law.yale.edu/imt/11-23-45.asp
+[12] Nuremberg court transcript, MEFO financing and aggregate issuance: https://avalon.law.yale.edu/imt/11-23-45.asp
 
-[13] Avalon Project, materiais de acusação sobre rearmamento: https://avalon.law.yale.edu/imt/chap_08.asp
+[13] Avalon Project, Nazi rearmament evidence: https://avalon.law.yale.edu/imt/chap_08.asp
 
-[14] Nuremberg, interrogatório de Schacht sobre vencimento MEFO: https://avalon.law.yale.edu/imt/05-03-46.asp
+[14] Nuremberg court transcript, questioning about MEFO maturities: https://avalon.law.yale.edu/imt/05-03-46.asp
 
-[15] GHDI, Schacht, New Plan e controle comercial: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
+[15] German History in Documents and Images, New Plan and controlled trade: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
 
-[16] Bundesbank, Wilhelm Vocke e memorando contra Hitler em 1939: https://www.bundesbank.de/en/tasks/topics/standard-bearer-for-bundesbank-independence-667026
+[16] Deutsche Bundesbank, Wilhelm Vocke and 1939 memorandum: https://www.bundesbank.de/en/tasks/topics/standard-bearer-for-bundesbank-independence-667026
 
-[17] Deutsches Historisches Museum, cronologia após Nuremberg: https://www.dhm.de/lemo/biografie/hjalmar-schacht
+[17] German Historical Museum, Schacht after 1946: https://www.dhm.de/lemo/biografie/hjalmar-schacht
 
-[18] Institute für Zeitgeschichte München, coleção de correspondências Schacht 1948–1950: https://open.ifz-muenchen.de/entities/bestand/8ab06b2c-5406-48df-9a64-5ece42ab1031/full
+[18] Institute of Contemporary History Munich, Schacht documentary collection: https://open.ifz-muenchen.de/entities/bestand/8ab06b2c-5406-48df-9a64-5ece42ab1031/full
