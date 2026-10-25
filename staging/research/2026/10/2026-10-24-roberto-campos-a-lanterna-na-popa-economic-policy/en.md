@@ -172,6 +172,10 @@ Decades later, Henry Kissinger's writings on world order distinguished political
 
 ## Campos's economic-historical place
 
+In 2026, the Central Bank of Brazil, BNDES and FGTS remain operating institutions, albeit substantially changed by subsequent law and policy. Their continuing existence makes the distinction between original design and present function especially important. [7][11]
+
+
+
 Campos helped construct development-credit mechanisms, designed or defended monetary and labour reforms, and became one of Brazil's best-known critics of the entrepreneurial state. His life tracks a transition from major infrastructure gaps to a diversified, indebted and inflation-prone economy. He did not create BNDE, the Targets Plan or PAEG single-handedly: governments, economists, legislators, international institutions, businesses and workers shaped each programme. [1][5][6]
 
 *A Lanterna na Popa* preserves the recollections of an official exceptionally well placed to witness Brazilian state-making. Its value rises when the memoir is read against the documents identifying who bore policy costs, how benefits were distributed and which institutions outlived their architects. The tension between planning and liberalization is not simply a personal inconsistency; it reflects the dilemmas of a peripheral economy that needed capital, stable money, international competitiveness and broader social rights simultaneously.
