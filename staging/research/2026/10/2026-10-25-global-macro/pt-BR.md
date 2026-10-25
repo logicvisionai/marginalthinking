@@ -44,7 +44,7 @@ Essas relações permitem testes distintos. Um anúncio fiscal acompanhado de fo
 
 ## O choque do petróleo começa no transporte e na entrega, não em uma perda de produção já comprovada
 
-Conforme o histórico de cotações de mercado para 23 de outubro, o **Brent encerrou 23 de outubro a US$ 116,72**, alta diária de **US$ 3,55**, e o **WTI a US$ 103,27**, avanço de **US$ 3,80**. A diferença aritmética de **US$ 13,45 por barril** entre os dois referenciais não é uma medida independente do prêmio de risco de Ormuz. Especificações contratuais, qualidade do petróleo, localização e frete também influenciam essa distância. O relatório de outubro da Agência Internacional de Energia fornece uma referência anterior para produção, refino e estoques, mas não comprova uma negociação de sexta-feira. [4][5]
+Conforme os registros históricos de contratos futuros para 23 de outubro, o **Brent encerrou 23 de outubro a US$ 116,72**, alta diária de **US$ 3,55**, e o **WTI a US$ 103,27**, avanço de **US$ 3,80**. [15] A diferença aritmética de **US$ 13,45 por barril** entre os dois referenciais não é uma medida independente do prêmio de risco de Ormuz. Especificações contratuais, qualidade do petróleo, localização e frete também influenciam essa distância. O relatório de outubro da Agência Internacional de Energia fornece uma referência anterior para produção, refino e estoques, mas não comprova uma negociação de sexta-feira. [4][5]
 
 ```chart
 type: bar
@@ -125,3 +125,5 @@ Dois riscos de transmissão se destacam: interrupção marítima de oferta compr
 [13] Ministério do Planejamento e Orçamento, ciclo de quatro anos do PPA: https://www.gov.br/planejamento/pt-br/assuntos/planejamento/planoplurianual
 
 [14] Banco Central do Brasil, autonomia prevista na Lei Complementar nº 179/2021: https://www.bcb.gov.br/acessoinformacao/autonomia
+
+[15] Investing.com, histórico dos futuros WTI negociados na CME em 23/out/2026 (registro secundário): https://www.investing.com/commodities/crude-oil-historical-data?cid=1178037
