@@ -263,8 +263,25 @@ Economia das plataformas
   - Direitos trabalhistas
 ```
 
-## Referências
 
+
+```chart
+type: bar
+title: Composição do capital de risco global em 2025, OCDE
+unit: % do capital de risco
+IA | 61
+Demais setores | 39
+```
+
+```map
+title: Geografia institucional do poder de plataforma
+Estados Unidos | Sede de provedores relevantes de nuvem e plataformas | Sede jurídica e mercados atendidos não são equivalentes
+União Europeia | Digital Markets Act e aplicação da concorrência | Medidas e obrigações diferem por gatekeeper
+Brasil | Infraestrutura pública de pagamentos e regulação digital | PIX não elimina dependência de infraestrutura privada
+Países em desenvolvimento | Dependência de capacidades digitais importadas | Situação varia por setor e capacidade doméstica
+```
+
+## Referências
 [1] Yanis Varoufakis, *Technofeudalism: What Killed Capitalism*, 2023; entrevista sobre conceitos de capital e renda de nuvem: https://www.yanisvaroufakis.eu/2024/01/13/qa-on-technofeudalism-interviewed-by-lorenzo-tecleme-for-valori-it/
 
 [2] Evgeny Morozov, *Critique of Techno-Feudal Reason*, *New Left Review*, 2022: https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason
