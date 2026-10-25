@@ -182,6 +182,15 @@ Europe and global satellite territories | Tesla sales and Starlink presence | Op
 Washington, DC | DOGE and public administration debate | Formal state authority differs from private leadership
 ```
 
+## Connected research in this series
+
+The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** Yarvin's DOGE comparison, Land's theory of technocapital, Thiel's PayPal relationship and the broader debate about technical speed.
+
+- [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Sources and bibliography
 
 [1] Tesla Investor Relations, Elon Musk biography and board chronology: https://ir.tesla.com/corporate/elon-musk
