@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-09-23-saudi-arabia-deep",
+  "slug": "2026-09-23-country-context-saudi-arabia-deep",
+  "revision": 3,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T13:44:17.328Z",
+  "reviewed_commit": "376c580b4dd76348a12c812d746062e23fe4d9cb",
+  "pending_blob_sha": "921d2ac7185ae51c131aec13e36a3c3de77ed00c",
+  "source_blob_shas": {
+    "en": "923beffaeb06d3d5afd65978d2af11a1a683bc48",
+    "pt-BR": "8ae40c4b4d19a0571a04f868f827e1ccb1f042f8"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "historical_source_date_and_attribution",
+      "location": "staging/research/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md:478-484 and pt-BR.md:480-486",
+      "issue": "Both editions attribute to Reuters in September 2026, citing sources familiar with Saudi policy, a finding that Saudi Arabia had not formally joined BRICS. The identifiable Reuters report citing two such Saudi-policy sources is dated 8 May 2025, not September 2026. The 2026 summit reporting and the Indian BRICS presidency are separate sources; no Reuters item supporting the exact dated attribution is in the bibliography. The assessment of institutional ambiguity is reasonable, but the claimed reporting date and evidence chain are not substantiated.",
+      "evidence": [
+        "Reuters, 8 May 2025, Saudi Arabia sits on fence over BRICS with eye on vital ties with US: https://www.reuters.com/world/middle-east/saudi-arabia-sits-fence-over-brics-with-eye-vital-ties-with-us-2025-05-08/",
+        "Reuters, 12 September 2026, BRICS bloc agrees on joint declaration, lists ten members without Saudi Arabia but does not document the same two Saudi-policy source interviews: https://www.reuters.com/world/china/brics-bloc-agrees-joint-declaration-sources-say-2026-09-12/",
+        "The staged Sources/Fontes sections contain the BRICS Indian presidency homepage but no Reuters report URL."
+      ]
+    },
+    {
+      "type": "material_conflict_operations_omission",
+      "location": "staging/research/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md:418-446 and pt-BR.md:420-448; scenario/security passages en.md:537-543 and pt-BR.md corresponding",
+      "issue": "The dossier treats the 2026 conflict mainly as a maritime/oil shock and Saudi-Iran diplomatic stress, but omits the Saudi government's own documented July 2026 strikes in Iraq coordinated with U.S. CENTCOM and the September 2026 Saudi statement on Houthi attacks affecting civilian/economic targets and Red Sea shipping. These are material demonstrated/deployed operations and direct infrastructure-security constraints, not peripheral chronology. The omission weakens the analysis of Saudi operational involvement, regional retaliation, and logistics/industrial exposure at the stated 28 September cutoff.",
+      "evidence": [
+        "Saudi Press Agency, 29 July 2026, official Saudi Foreign Ministry account of Saudi Armed Forces strikes in Iraq: https://www.spa.gov.sa/en/N2643572",
+        "U.S. CENTCOM, 28 July 2026 (U.S. dating), coordinated Saudi-U.S. precision strikes in Iraq: https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4558347/",
+        "Saudi official Umm Al-Qura statement dated 8 September 2026 describing Houthi attacks on Abha, Khamis Mushait, Jazan and Najran and shipping threats: https://www.uqn.gov.sa/news/official-statements/4001791",
+        "Neither 'Iraq' nor 'Houthi' occurs in the staged EN Markdown; corresponding operational analysis is absent from PT-BR."
+      ]
+    },
+    {
+      "type": "visual_source_traceability",
+      "location": "staging/research/2026/09/2026-09-23-country-context-saudi-arabia-deep/en.md:240-250 and pt-BR.md:240-250; Sources/Fontes en.md:628-634 and pt-BR.md corresponding",
+      "issue": "The sole quantitative chart's December 2024/2025 and February 2025/2026 oil-export shares are reproducible from GASTAT releases, but the bibliography cites only the generic GASTAT homepage for trade statistics. The original month-specific bulletins are not linked, preventing direct reader audit of all four observations. The bar labels also mix December 2025 before February 2025; order chronologically or explicitly group by matched month/year pairs.",
+      "evidence": [
+        "GASTAT, 25 February 2026, December 2025 trade bulletin: 68.7% in December 2024 and 67.4% in December 2025: https://www.stats.gov.sa/en/w/news/168",
+        "GASTAT, 23 April 2026, February 2026 trade bulletin: 71.5% in February 2025 and 68.7% in February 2026: https://www.stats.gov.sa/en/w/news/185",
+        "Both staged charts show 68.7, 67.4, 71.5, 68.7 with matched numeric values; the problem is source-level traceability and presentation order, not fabricated figures."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Correct the Reuters date/attribution and cite the precise Reuters 2025 source plus the relevant 2026 Indian presidency and Saudi summit statements at the end of both editions; do not imply the 2025 source interviews occurred in September 2026.",
+    "In the 2026 regional-security and Iran sections, add the Saudi-U.S. strikes in Iraq and the Saudi September 2026 Houthi-attack statements with precise dates, explicit attribution, operational/claimed/verified distinctions, and effects on oil facilities, logistics, fiscal/industrial exposure; do not equate government claims with independent verification of damage or responsibility.",
+    "Add direct GASTAT December 2025 and February 2026 release URLs to both Sources/Fontes lists, anchor the chart to these releases, and present matched periods in a defensible order.",
+    "Revise both staged Markdown editions together, preserve canonical ID and slug, increment pending revision to 4, write pending last, and rerun repository validators before submitting again. Do not alter reports, indices, CSS, taxonomy or institutional copy."
+  ],
+  "evidence": [
+    "Reviewed HEAD 376c580b4dd76348a12c812d746062e23fe4d9cb; pending and EN/PT-BR Git blob SHAs 3/3 recorded above.",
+    "Compared public country dossier revision 2 with ready pending revision 3; current public metadata remains revision 2 and must not be reprocessed or overwritten without a new QA approval.",
+    "Primary-source checks: IMF 2026 Article IV and PIF April 2026 strategy support major macro/portfolio anchors; GASTAT original releases confirm the chart values; Saudi and U.S. official releases document omitted 2026 operational events.",
+    "The Node repository validators were not executed because a complete GitHub checkout is unavailable in this runtime. Candidate-specific deterministic depth and visual-count expressions were independently evaluated on the complete staged GitHub blobs."
+  ],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending v2 ready true, revision 3, controlled program/dimensions/geography/topics/phenomena, canonical slug and bilingual staged source paths."
+    },
+    "revision_and_replay": {
+      "result": "passed",
+      "summary": "Public and approved revision 2; pending revision 3 is a genuine new candidate. No prior rejection sidecar for this slug existed at reviewed HEAD."
+    },
+    "research_depth": {
+      "result": "passed",
+      "en_substantive_words": 8034,
+      "pt_br_substantive_words": 8676,
+      "en_h2": 50,
+      "pt_br_h2": 50,
+      "summary": "Both locales exceed country-context floor of 1600 substantive words and 12 analytical H2 headings."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "One chart, three flows, one map and at least one table in both editions; numeric series 3/3 parity and GASTAT values confirmed, but direct month-specific source provenance is absent from the article and category ordering is not defensible as a timeline."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "BRICS Reuters attribution misdated/missing from bibliography; dated primary conflict operations omitted; chart original monthly bulletins not cited directly."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Contradiction ledger and four conditional scenarios present, including falsifiers and competing financing/security mechanisms."
+    },
+    "translation_check": {
+      "result": "passed",
+      "summary": "Corresponding analytical sections and chart numeric series matched in both languages for the reviewed blocking passages; both require parallel correction."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The revised dossier is extensive and institutionally phrased but not publication-ready due to the BRICS source/date misattribution and materially incomplete operational conflict coverage."
+    },
+    "pipeline_validator": {
+      "result": "not_run",
+      "summary": "No complete local checkout; repository scripts inspected and relevant deterministic gates reproduced without claiming a full Node validation."
+    }
+  },
+  "contrary_evidence": [
+    "Saudi diversification, PIF and tourism claims are substantially supported by original 2025/2026 releases; rejection is not based on denying those outcomes.",
+    "BRICS Indian presidency lists Saudi Arabia as a member, while Saudi/Reuters material describes participation and accession inconsistently; the editorial conclusion of ambiguity is justified but attribution must be corrected.",
+    "Official Saudi/U.S. statements establish that strikes were claimed/conducted; they do not independently establish all target identities, damage or responsibility claims."
+  ],
+  "limitations": [
+    "The complete public corpus was inventoried by tree paths and the current candidate was compared against public revision 2; full Node pipeline validation was unavailable.",
+    "The July 28/29 2026 strikes have different source date conventions; preserve the source-specific dates rather than presenting two separate operations.",
+    "The stated information cutoff is 28 September 2026; later October 2026 developments should not be retroactively inserted as if known at that cutoff."
+  ],
+  "notes": "QA gate only. Producer 3/5 is the retrabalho owner for structural country-context research. No publisher invocation and no public-surface modification."
+}
