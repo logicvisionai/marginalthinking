@@ -215,6 +215,14 @@ London | Ambassadorship and external negotiations | Foreign relations
 Brazil | Institutional reform and parliamentary debate | Distributional effects of policies
 ```
 
+```chart
+type: bar
+title: Intervals between selected published works by Roberto Campos
+unit: elapsed years between first publication dates; not an impact measure
+1963 Economy, Planning and Nationalism to 1964 Currency, Government and Time | 1
+1964 Currency, Government and Time to 1994 A Lanterna na Popa | 30
+```
+
 ## Documentary sources and bibliography
 
 [1] FGV CPDOC, Roberto Campos, historical biographical dictionary: https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf
