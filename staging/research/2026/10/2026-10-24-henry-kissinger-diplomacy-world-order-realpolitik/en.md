@@ -146,6 +146,12 @@ Kissinger's defenders cite rapprochement with China, nuclear détente and Middle
 
 More informative counterfactuals focus on actual decision possibilities: Could China contact have been maintained with less support for Pakistan's rulers? Could U.S. withdrawal from Vietnam have proceeded with fewer Cambodian civilian losses? Which forms of pressure could Washington have used to discourage repression by Chile's junta? Documents narrow the alternatives but cannot identify an imaginary costless path. The discipline of distinguishing consequences for different populations is essential to judging strategic brilliance alongside political responsibility.
 
+## Churchill, Bretton Woods and the institutions Kissinger inherited
+
+Kissinger's postwar strategic vision developed within an international structure Britain and the United States had fought to preserve and transform during the Second World War. Churchill's refusal to make a separate peace in 1940 preserved an Allied base; the eventual victory created conditions for U.S. predominance and the United Nations. Bretton Woods, which Roberto Campos attended as part of the Brazilian delegation in 1944, addressed a different dimension of the same reconstruction: payments, exchange stability and financing. [1][2]
+
+The three careers occupied distinct institutional levels. Churchill directed wartime military and imperial strategy; Campos helped a developing country negotiate within the emerging economic order; Kissinger later sought to manage strategic competition in a nuclear world. The continuity lies in the need for enforceable institutions and the distribution of power. Their conflicts concern representation: colonies, developing states and civilians affected by great-power decisions did not enjoy the same authority as the governments shaping agreements. No direct collaboration among the three is implied by the structural comparison.
+
 ## After public office: consulting, books and the enduring contradiction
 
 After January 1977, Kissinger established Kissinger Associates and remained a writer, consultant and interlocutor for statesmen and corporate leaders. His position had changed: influence through advice and networks was not legal command over the U.S. State Department. His books and interviews continued to transmit concepts developed at Harvard and in office. Kissinger died on 29 November 2023 at the age of one hundred. [1][2]
