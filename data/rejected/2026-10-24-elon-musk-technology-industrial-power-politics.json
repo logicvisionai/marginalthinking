@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-MUSK",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T02:36:10.242Z",
+  "reviewed_commit": "8886798d3a2e3c7b5a7feb8487181d6cb24766c7",
+  "pending_blob_sha": "de4ad193224ca4d3ffb2c37f2dc978fbfa418018",
+  "source_blob_shas": {
+    "en": "ff1aeedfab2204bd754be61be6368d583855aed0",
+    "pt-BR": "70b37da19d61247bc6ab06416820a4fa265d12bb"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics/en.md:210-217 and pt-BR.md:210-217",
+      "issue": "Both editions contain four live public-report hyperlinks whose target reports do not exist in the public repository index or bundles at reviewed HEAD. Three targets are unpublished pending studies (Yarvin, Nick Land, Peter Thiel), and the fourth (Accelerationism) has an explicit QA rejection for revision 1. Public promotion of this standalone Musk dossier would introduce four broken internal links in each locale.",
+      "evidence": [
+        "EN links at lines 214-217 point to /reports/2026/10/2026-10-24-{curtis-yarvin-formalism-neoreaction-state,nick-land-ccru-accelerationism-dark-enlightenment,peter-thiel-finance-technology-and-political-power,accelerationism-intellectual-history-capital-technology-politics}.html; PT-BR uses corresponding /pt-br/reports/ paths.",
+        "data/reports.json at reviewed HEAD contains 135 records and no MT-SA-2026-10-24-YARVIN, MT-SA-2026-10-24-LAND, MT-SA-2026-10-24-THIEL, or MT-HT-2026-10-24-ACCELERATIONISM.",
+        "No approved sidecars or reports/**/metadata.json exist for these four targets. data/rejected/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.json records revision 1 rejected, pending SHA b644620bc2105047679554f21adda706687aec6d."
+      ]
+    },
+    {
+      "type": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics/en.md:41,180-186 and pt-BR.md:41,180-186",
+      "issue": "The precise 2025 Tesla production and delivery figures are presented as figures reported in the annual SEC filing / 2025 annual filing, but the directly verified numerical table is Tesla Investor Relations' January 2, 2026 production-and-deliveries release, bibliography [16]. The 2025 10-K [10] is a valid source for financial and risk disclosures but is not the clear table-level source for the exact 1,654,667 and 1,636,129 counts. This is a source-attribution problem, not a claim that the figures themselves are false.",
+      "evidence": [
+        "Tesla Investor Relations, 'Tesla Fourth Quarter 2025 Production, Deliveries & Deployments', dated 2026-01-02, table '2025': production 1,654,667; deliveries 1,636,129; energy storage 46.7 GWh: https://ir.tesla.com/press-release/tesla-fourth-quarter-2025-production-deliveries-deployments",
+        "SEC Tesla 2025 Form 10-K used as bibliography [10]: https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+        "Both chart captions currently say '2025 annual filing' / 'relatório anual' rather than the dated Tesla IR production disclosure."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Remove the four public hyperlinks until each target has its own independent QA approval and published bundle, or convert them into non-clickable plain-text contextual references. Do not create public bundles or alter the index in the producer or QA step.",
+    "In both languages, attribute the exact Tesla production/delivery counts and chart to the 2026-01-02 Tesla Investor Relations release [16]; use SEC Form 10-K [10] only for claims actually present in that filing.",
+    "Retain canonical ID MT-SA-2026-10-24-MUSK and slug 2026-10-24-elon-musk-technology-industrial-power-politics; revise both staged Markdown files and write pending v2 last, advancing revision with new 3/3 blob SHAs. Submit for fresh independent QA before any public promotion."
+  ],
+  "evidence": [
+    "Reviewed Git blobs at HEAD 8886798d3a2e3c7b5a7feb8487181d6cb24766c7: pending de4ad193224ca4d3ffb2c37f2dc978fbfa418018; EN ff1aeedfab2204bd754be61be6368d583855aed0; PT-BR 70b37da19d61247bc6ab06416820a4fa265d12bb.",
+    "Reproduced scripts/validate-editorial-depth.mjs strict expressions: EN 4,915 substantive words; PT-BR 4,786; 24 H2 headings each; 16 distinct URLs from 11 distinct hosts each; 2 chart fences, 1 flow, 1 map and 17 Markdown table rows each. Both locales have matching numeric chart arrays [[1.66,1.64],[4.2,2.6]].",
+    "NASA primary source confirms 2014 Commercial Crew CCtCap awards Boeing $4.2 billion and SpaceX $2.6 billion: https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/commercial-crew-program-essentials/",
+    "Academic arXiv papers 2304.04129 and 2212.10646 correspond to the cited Twitter/X studies; qualitative inferences remain appropriately qualified."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "Pending v2 ready true; valid canonical ID, slug, program, controlled phenomena, geography, topics, format and bilingual source paths."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4915,
+      "pt_br_words": 4786,
+      "en_h2": 24,
+      "pt_br_h2": 24,
+      "source_urls_each": 16,
+      "distinct_hosts_each": 11,
+      "notes": "Deterministic strict thresholds reproduced from current repository script; complete Node script not executed."
+    },
+    "factual_methodology": {
+      "result": "partial",
+      "notes": "NASA 2014 CCtCap and Tesla 2025 production/energy data verified against original NASA and Tesla sources. Full sentence-by-sentence fact-check remains necessary after revision."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Attribution of 2025 vehicle production/delivery table to SEC annual filing rather than dated Tesla IR production release requires correction in both locales."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Distinguishes company influence from state authority, procurement ceilings from expenditures, production from deliveries, and claimed autonomous capability from demonstrated and scaled deployment; presents competing outcomes and falsifiers."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Both locales preserve 24 headings, 16 identical bibliographic URLs, matching numerical charts and all four broken internal links. Numeric content and major qualifications align."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Four non-public internal links per locale, including one explicitly rejected report, block standalone publication."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_checked_substance",
+      "notes": "Both numerical charts use comparable units and time windows, with clear contractual versus realized qualifications; flow and geographic map are broadly consistent with narrative, numeric series identical in EN/PT-BR."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Full local Git checkout unavailable in this connector runtime. Exact deterministic editorial-depth checks reproduced directly; repository-wide scripts/validate-pipeline.mjs not run."
+    }
+  },
+  "contrary_evidence": [
+    "NASA contract ceilings are not actual expenditures or profit.",
+    "Tesla's reported 2025 vehicle output and energy deployments do not prove profitability or autonomous-driving safety.",
+    "The manuscript explicitly limits ideological equivalence among Musk, Yarvin, Land and Thiel."
+  ],
+  "limitations": [
+    "The two concrete blocking issues are independently localizable and affect both language editions.",
+    "Only selected primary source claims were externally cross-checked; full validator execution was unavailable.",
+    "The four linked dossiers may become public in a future separate QA/publisher cycle, but none is public at reviewed HEAD."
+  ],
+  "notes": "Independent QA rejection only. Do not change reports/**, public index, CSS, taxonomy or institutional copy. Retrabalho routes to producer 3/5 (MT-SA structural actor dossier); no immediate producer or publisher execution claimed. MT-WF-2026-10-19 already has approval and public bundle at revision 0 and was not reprocessed."
+}
