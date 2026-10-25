@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-CAMPOS",
+  "slug": "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T11:37:48.004Z",
+  "reviewed_commit": "b312c92ad6bec726de0a79c427966fc5875812a9",
+  "pending_blob_sha": "8a1ca09448dab5e608ecdb89d70c0e3324848b23",
+  "source_blob_shas": {
+    "en": "f398f6ed0bcfc584c86889d3617405697944e2bc",
+    "pt-BR": "39f670a494a1902fba03fcdddbdd5d34d85ad385"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/en.md:183-228; staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/pt-BR.md:183-228",
+      "issue": "Both explicit bar charts are chronology-only: 3/8/8 nominal years in offices and 1/30 years between selected books. Their figures are arithmetically consistent and bilingual, but do not quantify any financing, monetary, wage, tax, investment, employment or distributional mechanism central to this economic biography. The adjacent chronology table already provides the underlying dates; the charts are redundant, contrary to RESEARCH-VISUALS.md QA rule against decorative/redundant visuals.",
+      "evidence": [
+        "EN lines 199-206 and 222-228; PT-BR lines 199-206 and 222-228. Numeric arrays identical: [[\"3\",\"8\",\"8\"],[\"1\",\"30\"]].",
+        "RESEARCH-VISUALS.md: charts must reduce cognitive load or expose meaningful comparisons; technical compliance alone is insufficient."
+      ]
+    },
+    {
+      "check": "historical_completeness_and_counterevidence",
+      "location": "staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/en.md:91-113,159-165; staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/pt-BR.md:91-113,159-165",
+      "issue": "The sections on Campos's democratic-era liberalism and his relationship to political freedom omit material contemporaneous political choices documented in the report's own source [1]: he opposed the Dante de Oliveira amendment for direct presidential elections in April 1984 and supported/voted for Paulo Maluf in the 1985 electoral college. These facts directly qualify the narrative of liberalism under democratization and cannot be replaced by general commentary on liberty versus authoritarianism.",
+      "evidence": [
+        "FGV CPDOC Roberto Campos biography, PDF pages 23-24, text lines 703-722: opposition to the Dante de Oliveira amendment, Maluf support and electoral-college vote. https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf",
+        "The staged EN/PT-BR editions do not name Diretas Já, Dante de Oliveira, the 1985 electoral college or Paulo Maluf."
+      ]
+    },
+    {
+      "check": "biographical_evidence_and_private_sector",
+      "location": "staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/en.md:85-107,109-121,139-149; staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/pt-BR.md:85-107,109-121,139-149",
+      "issue": "The biography jumps from the 1964-1967 ministerial years to the London embassy and elected office without examining Campos's direct private-sector executive positions: InvestBanco president in 1968, Olivetti do Brasil president and Mercedes-Benz board member in 1972. These roles are material to the report's thesis about state planning versus market liberalism, and are recorded in its own principal source [1]. The same source records allegations of personal interests in the Hanna Mining/Consultec case; the report should examine the controversy with careful attribution and without implying the allegations were proved.",
+      "evidence": [
+        "FGV CPDOC biography, PDF page 20, text lines 603-614, confirms InvestBanco, Olivetti and Mercedes-Benz appointments. https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf",
+        "FGV CPDOC biography, PDF pages 18-19, text lines 552-578, documents the Hanna Mining controversy and expressly attributes the allegations to critics; it does not establish personal wrongdoing.",
+        "Neither staged locale discusses InvestBanco, Olivetti, Mercedes-Benz, Hanna Mining or Consultec."
+      ]
+    },
+    {
+      "check": "evidence_traceability_and_argument_continuity",
+      "location": "staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/en.md:167-171,230-258; staging/research/2026/10/2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy/pt-BR.md:167-171,230-258; pending sources.*.keywords and related_research",
+      "issue": "The Churchill/Kissinger comparative section introduces Kissinger's theory of world order without a direct Kissinger work or specialist citation; the 14-item bibliography documents Campos and Brazilian economic policy, not that attributed theoretical interpretation. The comparison does not add a demonstrated causal or archival link to Campos's choices. Both metadata locales also contain template-like keywords 'World Order' and 'Diplomacy' and reference two not-yet-public research slugs (Kissinger rejected revision 1; Churchill still pending). The cross-biographical comparison should be independently sourced and integrated or removed; metadata should not imply unavailable public research.",
+      "evidence": [
+        "EN/PT-BR lines 167-171 invoke Kissinger without a directly traceable Kissinger source; bibliography [1]-[14] is Campos/PAEG/legal/FGV/BCB-focused.",
+        "At reviewed HEAD, data/rejected/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik.json exists; data/approved for that slug and Churchill slug do not exist; neither has public metadata."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the two chronology-only bar charts with at least two source-reproducible, same-unit comparisons directly illuminating Campos's economic or institutional mechanisms, with explicit periods, sources, units, realized/planned status and EN/PT-BR parity; do not invent or silently normalize values.",
+    "Add the 1984 direct-election amendment position and the 1985 Maluf electoral-college vote in their historical context, citing CPDOC and, if available, contemporaneous parliamentary records. Do not present later economic liberalism as equivalent to an unqualified commitment to direct elections.",
+    "Examine Campos's InvestBanco, Olivetti and Mercedes-Benz executive roles and their relevance to state/private-capital incentives; address the Hanna/Consultec allegations only with attribution and counterevidence, distinguishing claims from established findings.",
+    "Provide direct source support for the Kissinger comparison or remove the stitched Churchill/Kissinger segment. Remove misleading generic metadata keywords and ensure related research does not imply approved/public links when neither related dossier is public.",
+    "Keep canonical ID and slug; revise both staged Markdown editions, increment pending revision to 2 and write the pending sidecar last. Rerun the full validators in strict mode before resubmission; do not modify public files."
+  ],
+  "evidence": [
+    "Reviewed main HEAD b312c92ad6bec726de0a79c427966fc5875812a9; exact Git blob SHAs pending 8a1ca09448dab5e608ecdb89d70c0e3324848b23, EN f398f6ed0bcfc584c86889d3617405697944e2bc, PT-BR 39f670a494a1902fba03fcdddbdd5d34d85ad385. No approval, rejection or public metadata for this slug at reviewed HEAD; canonical data/reports.json index has no matching ID/slug.",
+    "Exact deterministic checks from scripts/validate-editorial-depth.mjs reproduced on full Markdown: EN 4746 words, 29 H2, 13 unique URLs/11 hosts; PT-BR 5221 words, 29 H2, 13 unique URLs/11 hosts. Both: 2 chart fences, 1 flow, 1 map, 13 Markdown table rows; numeric chart series [[\"3\",\"8\",\"8\"],[\"1\",\"30\"]].",
+    "FGV CPDOC full biographical record and original referenced bibliography: https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf",
+    "Academia Brasileira de Letras official bibliography confirms 1994 Topbooks edition of A Lanterna na Popa and publication years for selected books: https://www.academia.org.br/academicos/roberto-campos/bibliografia",
+    "Federal Senate original FGTS statute and legislative text independently confirm Law 5.107 dated 1966-09-13: https://legis.senado.leg.br/norma/546965",
+    "FGV historical atlas identifies multiple contributors to the 1967-1973 boom and PAEG reforms rather than attributing the result to Campos alone: https://atlas.fgv.br/verbete/6001"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_for_checked_fields",
+      "notes": "Pending schema_version 2, ready true, canonical ID/slug/revision and two staged source paths; controlled taxonomy fields checked against schema and taxonomy."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "All three full source blobs match reviewed HEAD; no approval or public revision for this ID/slug in checked paths and canonical index."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4746,
+      "pt_br_words": 5221,
+      "en_h2": 29,
+      "pt_br_h2": 29,
+      "source_urls_each": 13,
+      "distinct_hosts_each": 11,
+      "notes": "Passes deterministic minimums; quantitative depth is not substantive editorial approval."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Kissinger interpretive comparison lacks a directly supporting source; major private-sector and political history documented by the main biography is omitted."
+    },
+    "historical_completeness": {
+      "result": "failed",
+      "notes": "Documented 1984/1985 political choices, 1968/1972 private-sector roles and qualified Hanna controversy are missing."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "PAEG disinflation and distribution are described with alternatives, but omitted counterevidence affects the interpretation of political freedom and state/private interests."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Matching 29 H2 sections, 13 source URLs, numeric chart series and corresponding passages; shared omissions remain."
+    },
+    "novelty_vs_corpus": {
+      "result": "partial",
+      "notes": "No matching public ID in 135-record index; distinct Campos subject, but extensive repeated BNDE/Bretton Woods sections and unsupported cross-biography weaken continuity."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two numeric charts meet mechanical floor and bilingual parity but repeat calendar chronology without demonstrating economic mechanisms."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Material visual, counterevidence and biographical completeness gates prevent approval."
+    },
+    "pipeline_validation": {
+      "result": "inspected_not_executed",
+      "notes": "Full Node validators cannot run without a local repository checkout in this GitHub-connector runtime. Exact relevant expressions of validate-editorial-depth.mjs reproduced on complete staged files; validate-pipeline.mjs and visuals.mjs inspected."
+    }
+  },
+  "contrary_evidence": [
+    "FGV CPDOC documents Campos's opposition to direct presidential elections in 1984 and his 1985 Maluf vote, complicating a simple democratic-liberal interpretation.",
+    "FGV CPDOC documents private-company management after the PAEG ministry, which changes the state/private-sector trajectory.",
+    "Nominal duration in office and intervals between books are not observations of policy impact, capital allocation or influence."
+  ],
+  "limitations": [
+    "Selected original source documents and statutory/academic anchors spot-checked; this rejection is not exhaustive peer review of every sentence.",
+    "Node validators not executed because network access to clone the repository is unavailable; mechanical depth expressions independently reproduced.",
+    "No staged research, public bundle, index, taxonomy, CSS or institutional content modified."
+  ],
+  "notes": "Independent QA gate 4/5; return revision to structural/strategic-actors producer 3/5. No immediate producer or publisher task execution confirmed. MT-WF-2026-10-19 already approved and public at revision 0 and is not reprocessed."
+}
