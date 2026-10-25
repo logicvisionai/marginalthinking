@@ -180,6 +180,12 @@ Campos helped construct development-credit mechanisms, designed or defended mone
 
 *A Lanterna na Popa* preserves the recollections of an official exceptionally well placed to witness Brazilian state-making. Its value rises when the memoir is read against the documents identifying who bore policy costs, how benefits were distributed and which institutions outlived their architects. The tension between planning and liberalization is not simply a personal inconsistency; it reflects the dilemmas of a peripheral economy that needed capital, stable money, international competitiveness and broader social rights simultaneously.
 
+## Inflation and real output during the PAEG, 1964–1967
+
+A University of São Paulo historical study reproduces annual inflation of 91.9% in 1964, 35.5% in 1965, 38.8% in 1966 and 24.3% in 1967, using FGV's historical general price index. The reduction was substantial but not uninterrupted: 1966 had higher inflation than 1965. These are general-price-index values, not contemporary IPCA readings or wage-loss estimates. [15]
+
+The Central Bank's archived IBGE GDP series 7326 reports 3.4%, 2.4%, 6.7% and 4.2% annual real output growth for the same years. A separate chart is necessary because inflation and growth have different meanings even when both are reported as percentages. They capture the uneven co-movement of nominal stabilization and production, not causal proof that one minister generated every observation. [16]
+
 ## Institutional chronology
 
 | Year / interval | Office, work or reform | Historical consequence |
@@ -198,11 +204,12 @@ Campos helped construct development-credit mechanisms, designed or defended mone
 
 ```chart
 type: bar
-title: Nominal durations of documented public offices
-unit: elapsed years from stated dates; does not measure work intensity
-Planning Ministry 1964–1967 | 3
-Senate 1983–1991 | 8
-Chamber 1991–1999 | 8
+title: Brazilian annual inflation during PAEG, FGV general price index from USP historical research
+unit: annual % change in historical FGV general price index, not contemporary consumer price index
+1964 | 91.9
+1965 | 35.5
+1966 | 38.8
+1967 | 24.3
 ```
 
 ```flow
@@ -221,10 +228,12 @@ Brazil | Institutional reform and parliamentary debate | Distributional effects 
 
 ```chart
 type: bar
-title: Intervals between selected published works by Roberto Campos
-unit: elapsed years between first publication dates; not an impact measure
-1963 Economy, Planning and Nationalism to 1964 Currency, Government and Time | 1
-1964 Currency, Government and Time to 1994 A Lanterna na Popa | 30
+title: Annual real GDP growth 1964–1967, IBGE/BCB SGS series 7326
+unit: yearly % real GDP volume change, not welfare or income distribution
+1964 | 3.4
+1965 | 2.4
+1966 | 6.7
+1967 | 4.2
 ```
 
 ## Documentary sources and bibliography
@@ -256,3 +265,11 @@ unit: elapsed years between first publication dates; not an impact measure
 [13] FGV Historical Atlas, 1968–1973 boom and PAEG: https://atlas.fgv.br/verbete/6001
 
 [14] Central Bank, lecture citing Campos's memoir: https://bcb.gov.br/conteudo/eventos/Documents/legado/XI_Seminario_Anual_Metas_para_Inflacao_BC/2009_XISemAnualMetasInflBCB_ArminioFraga.pdf
+
+[15] USP historical thesis, FGV general price index 1964–1986: https://teses.usp.br/teses/disponiveis/8/8131/tde-12052023-155850/publico/2001_JoseCarlosMartinesBelieiroJunior.pdf
+
+[16] Brazilian Central Bank, SGS historical annual real GDP growth series 7326: https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarValores&series=7326
+
+[17] FGV CPDOC, documented full Roberto Campos biography: https://cpdoc.fgv.br/sites/default/files/brasilia/dhbb/Roberto%20Campos.pdf
+
+[18] SciELO, academic account of the Brazilian delegation to Bretton Woods: https://www.scielo.br/j/his/a/csdMSqrtpcr5FxFBSGkc8XJ/?lang=pt
