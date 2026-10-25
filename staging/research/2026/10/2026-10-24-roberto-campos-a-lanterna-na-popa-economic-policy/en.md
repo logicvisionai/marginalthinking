@@ -96,6 +96,18 @@ The contrast was historical rather than merely psychological. In the 1950s scarc
 
 ## The 1988 Constitution and competing ideas of economic citizenship
 
+## Direct elections and the electoral college: limits of political liberalism
+
+FGV CPDOC records that Campos opposed the Dante de Oliveira amendment for direct presidential elections in April 1984, and later supported and voted for Paulo Maluf in the 1985 presidential electoral college. These choices materially qualify accounts of his democratic-era market liberalism. Economic liberalization and support for immediate direct elections are different commitments. Voting within the available indirect succession mechanism does not demonstrate responsibility for every prior repressive act, but it is a contemporaneous political record that autobiographical reflections cannot replace. [1][17]
+
+## InvestBanco, Olivetti, Mercedes-Benz and the Hanna–Consultec controversy
+
+After the Planning Ministry, Campos became InvestBanco president in 1968. FGV CPDOC also records his presidency of Olivetti do Brasil and a seat on Mercedes-Benz's board in 1972. These positions expose the movement between public planning, financial regulation and firms that operated within Brazil's state-shaped credit and industrial-policy framework. The roles are relevant to the tension between his work building public institutions and his later advocacy of competition. [1][17]
+
+During the controversy over iron-ore mining concessions and Hanna Mining, political critics alleged personal interests arising from earlier links to Consultec, a consultancy connected to assessments in the sector. CPDOC attributes allegations to opponents; it does not demonstrate personal wrongdoing by Campos. A parliamentary inquiry examined mining and consultancy relationships. Political allegation, institutional examination and proven illicit activity must be kept distinct. [1][17]
+
+
+
 The constitutional assembly of 1987–1988 coincided with the restoration of representative democracy and disputes about social rights, taxation, property and development. Campos opposed provisions he regarded as overly interventionist or expensive. The resulting constitution enlarged democratic and social protections after two decades of authoritarian rule. Disagreement about financing public services does not erase the constitutional transition's importance in restoring civilian control and political rights. [1][2]
 
 Campos's liberal argument emphasized the possibility that fiscal complexity and protected monopolies could inhibit investment and competition. Other political traditions held that universal services and labour rights address unequal market access and social vulnerability. Neither side is settled by counting taxes or public enterprises. The relevant evidence concerns service coverage, quality, productivity, revenue capacity and distributive consequences.
@@ -163,12 +175,6 @@ Campos's later advocacy of privatization can be understood partly as a response 
 The choice is therefore not simply between a large state and a small state. It is between institutional designs with different incentives, fiscal costs, quality of provision and accountability. A government may cease producing a service directly while acquiring stronger duties to regulate market power and supervise contracts. If those duties are weak, privatization can replace a public monopoly with a private monopoly rather than create competition.
 
 Campos's institutional legacy is most illuminating where it resists slogans. He built long-term public credit, attempted monetary stabilization, defended indexed finance, accepted an authoritarian government portfolio and later advocated liberal economic reforms in a democratic setting. No single label can establish the net social outcome of that sequence. The economic consequences belong to workers, taxpayers, investors and service users, not only to the statesman who described them.
-
-## Wartime origins of the postwar system: Churchill and Kissinger as points of comparison
-
-Campos's participation at Bretton Woods in 1944 took place while Churchill's government and the Allied powers were still fighting World War II. Economic reconstruction was being designed before the war ended. The task was different from Churchill's military leadership: developing economies needed monetary arrangements, development lending and access to hard currency within a financial order increasingly centred on the United States. [1]
-
-Decades later, Henry Kissinger's writings on world order distinguished political legitimacy from the distribution of coercive power. Campos's institutional experience suggests a parallel distinction in economics: access to formal membership in international organizations is not identical to equal control over credit, currency or industrial technology. Both men navigated arrangements defined heavily by powerful states, but they operated in different institutions and defended different goals. The comparison does not establish a direct personal intellectual relationship. It highlights how postwar military victory, economic institution-building and Cold War diplomacy became connected parts of a wider historical order.
 
 ## Campos's economic-historical place
 
