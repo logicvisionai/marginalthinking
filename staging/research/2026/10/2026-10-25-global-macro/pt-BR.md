@@ -32,9 +32,19 @@ Luiz Inácio Lula da Silva | 45.16
 
 Risco político não significa prever quem vencerá. Depois da apuração, será preciso verificar se o resultado, a composição das coalizões e as decisões institucionais sustentam a trajetória de política econômica embutida nos preços. A variação do real deverá ser confrontada com o dólar global e moedas emergentes comparáveis; uma alta dos juros locais precisará ser examinada à luz das expectativas de Selic, inflação e prêmio de prazo. Essas comparações ainda não existem nesta edição antecipada.
 
+## A execução fiscal tem calendário legal diferente da precificação eleitoral
+
+A arquitetura orçamentária brasileira impõe restrições verificáveis à próxima agenda econômica. O projeto de orçamento federal é elaborado pelo Executivo, mas precisa ser examinado, emendado e votado pelo Congresso. A Lei Orçamentária Anual se articula com a Lei de Diretrizes Orçamentárias e com o Plano Plurianual. Candidatos podem propor redução de impostos, novas transferências, investimento público ou alterações na governança de estatais; cada proposta, porém, possui formas de financiamento, exigências legais e etapas legislativas próprias. O governo federal descreve a tramitação desde o projeto do Executivo até a deliberação parlamentar, sanção ou veto. [12]
+
+O Plano Plurianual é especialmente importante na transição presidencial porque seu ciclo de quatro anos começa no segundo ano de mandato e alcança o primeiro ano do sucessor. Essa regra cria continuidade institucional entre administrações e impede pressupor que todos os programas possam ser substituídos imediatamente pelo resultado eleitoral. Contratos existentes e despesas obrigatórias também limitam mudanças decididas apenas no discurso de campanha. A evidência relevante é a diferença entre política anunciada, projeto orçamentário apresentado, autorização aprovada e execução financeira efetiva. [13]
+
+A política monetária está institucionalmente separada. O Banco Central do Brasil opera sob o regime de autonomia previsto na Lei Complementar nº 179/2021, tendo a estabilidade de preços como objetivo fundamental. A eleição presidencial não fixa automaticamente a próxima Selic, e mudanças nas expectativas de inflação não revelam isoladamente o voto futuro dos dirigentes do banco sem análise de preços, demanda e condições financeiras. A combinação de pressão por gastos com juros elevados é um risco condicional, não um resultado produzido pela apuração. [14]
+
+Essas relações permitem testes distintos. Um anúncio fiscal acompanhado de fonte de custeio, projeto de lei e coalizão parlamentar é diferente de compromisso sem financiamento; uma variação cambial semelhante à de outros emergentes não identifica um prêmio exclusivamente brasileiro; uma elevação dos juros nominais pode refletir inflação ou prêmio de prazo, não apenas expectativas sobre a próxima decisão monetária. O primeiro pregão completo de segunda-feira oferecerá preços observáveis, mas não comprovará a eficácia futura da administração. A comparação deverá controlar também a reprecificação do petróleo ocorrida antes da votação brasileira.
+
 ## O choque do petróleo começa no transporte e na entrega, não em uma perda de produção já comprovada
 
-Segundo a cobertura de mercado contemporânea da Reuters, o **Brent encerrou 23 de outubro a US$ 116,72**, alta diária de **US$ 3,55**, e o **WTI a US$ 103,27**, avanço de **US$ 3,80**. A diferença aritmética de **US$ 13,45 por barril** entre os dois referenciais não é uma medida independente do prêmio de risco de Ormuz. Especificações contratuais, qualidade do petróleo, localização e frete também influenciam essa distância. O relatório de outubro da Agência Internacional de Energia fornece uma referência anterior para produção, refino e estoques, mas não comprova uma negociação de sexta-feira. [4][5]
+Conforme o histórico de cotações de mercado para 23 de outubro, o **Brent encerrou 23 de outubro a US$ 116,72**, alta diária de **US$ 3,55**, e o **WTI a US$ 103,27**, avanço de **US$ 3,80**. A diferença aritmética de **US$ 13,45 por barril** entre os dois referenciais não é uma medida independente do prêmio de risco de Ormuz. Especificações contratuais, qualidade do petróleo, localização e frete também influenciam essa distância. O relatório de outubro da Agência Internacional de Energia fornece uma referência anterior para produção, refino e estoques, mas não comprova uma negociação de sexta-feira. [4][5]
 
 ```chart
 type: bar
@@ -94,7 +104,7 @@ Dois riscos de transmissão se destacam: interrupção marítima de oferta compr
 
 [3] TSE, Resolução Eleitoral 23.751/2026, procedimentos: https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-751-de-26-de-fevereiro-de-2026
 
-[4] Reuters, ajustes de Brent/WTI e segurança no Golfo, 23/out/2026 (fonte secundária): https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/
+[4] Investing.com, histórico de fechamentos dos contratos Brent e WTI em 23/out/2026 (registro secundário de preço): https://www.investing.com/commodities/brent-oil-historical-data?cid=1184864
 
 [5] AIE, lançamento do Oil Market Report de outubro, 14/out/2026 (edição anterior): https://www.iea.org/events/oil-market-report-october-2026
 
@@ -109,3 +119,9 @@ Dois riscos de transmissão se destacam: interrupção marítima de oferta compr
 [10] ONS britânico, varejo de setembro de 2026, divulgado 23/out: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026
 
 [11] Instituto de Estatística do Japão, CPI de setembro divulgado 23/out: https://www.stat.go.jp/english/
+
+[12] Governo Federal do Brasil, processo de tramitação PPA/LDO/LOA: https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional
+
+[13] Ministério do Planejamento e Orçamento, ciclo de quatro anos do PPA: https://www.gov.br/planejamento/pt-br/assuntos/planejamento/planoplurianual
+
+[14] Banco Central do Brasil, autonomia prevista na Lei Complementar nº 179/2021: https://www.bcb.gov.br/acessoinformacao/autonomia
