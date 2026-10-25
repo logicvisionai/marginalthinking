@@ -182,6 +182,14 @@ Churchill again served as prime minister from 1951 to 1955, in declining health 
 
 His legacy contains tensions that cannot cancel each other: anti-Nazi resistance, arguable strategic mistakes, rhetorical leadership, defence of empire and political responsibility amid colonial suffering. Explaining Allied victory requires industrial economics, intelligence, diplomacy and ordinary human labour in addition to political courage. Churchill's biography becomes more convincing when it reconstructs what he decided, what he could not control and whose lives bore the consequences, rather than relying on a saintly or demonic portrait.
 
+## Dunkirk and the international RAF: collective capacity in quantitative evidence
+
+English Heritage records 338,226 Allied personnel evacuated from Dunkirk, including 224,320 British servicemen; the difference of 113,906 represents French and other non-British Allies. The dates are 26 May to 4 June 1940. The IWM fact sheet separately records approximately 338,000 rescued. These are troops saved from a retreat after military defeat, not a tally of victories or weapons preserved. [17][20]
+
+The Royal Canadian Air Force's account of Battle of Britain participation records 2,353 operational aircrew from Great Britain and 574 from overseas within its formal eligibility definition between 10 July and 31 October 1940. Different historical institutions have slightly different recognition rolls; this chart does not include all ground crews, civilians or other defense personnel. RAF Museum research documents the radar, Observer Corps and fighter control integration. [18][19]
+
+These two measurements give substance to a collective history of Britain's defence without diminishing the importance of Churchill's parliamentary and strategic decisions.
+
 ## War and government chronology
 
 | Year | Event | Actors and institutions | Meaning |
@@ -201,10 +209,10 @@ His legacy contains tensions that cannot cancel each other: anti-Nazi resistance
 
 ```chart
 type: bar
-title: Churchill's terms as prime minister
-unit: approximate calendar years between beginning and end of service
-Wartime government 1940–1945 | 5
-Second government 1951–1955 | 4
+title: Allied military personnel evacuated from Dunkirk, Operation Dynamo, 1940
+unit: individual persons; total 338226, British 224320, non-British 113906 derived by subtraction
+British servicemen | 224320
+French and other allied servicemen | 113906
 ```
 
 ```flow
@@ -224,10 +232,10 @@ India and Bengal | Colonial food and wartime policy | Distribution and political
 
 ```chart
 type: bar
-title: Intervals between major milestones of Churchill's wartime government
-unit: elapsed calendar years; strategic sequence rather than battle effectiveness
-1940 Churchill takes office to 1944 Normandy landings | 4
-1944 Normandy landings to 1945 German surrender | 1
+title: Battle of Britain eligible aircrew, Royal Canadian Air Force historical definition
+unit: individuals participating in an operational sortie July–October 1940, excludes ground personnel
+From Great Britain | 2353
+From overseas | 574
 ```
 
 ## Documentary bibliography
@@ -262,3 +270,13 @@ unit: elapsed calendar years; strategic sequence rather than battle effectivenes
 
 [15] Nobel Prize in Literature, 1953 citation: https://www.nobelprize.org/prizes/literature/1953/summary/
 [16] University library catalogue of The Second World War, six volumes (1948–1953): https://libcat.weber.edu/bib/1024283
+
+[17] English Heritage, Operation Dynamo: total evacuation and British personnel counts: https://production.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/operation-dynamo-things-you-need-to-know/
+
+[18] Royal Canadian Air Force, Battle of Britain aircrew composition: https://www.canada.ca/en/air-force/services/history-heritage/battle-britain/history.html
+
+[19] RAF Museum, Dowding system and radar as integrated air defense: https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/how-radar-works.aspx
+
+[20] Imperial War Museums, 2017 Dunkirk historical fact sheet: https://www.iwm.org.uk/sites/default/files/press-release/dunkirk_film_2017_fact_sheet_and_iwm_resources_available.pdf
+
+[21] RAF Museum, authoritative Battle of Britain historical exhibition: https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain
