@@ -42,7 +42,7 @@ Continuing the war preserved a potential Allied naval, air and industrial base i
 
 ## Dunkirk: evacuation after a strategic defeat
 
-Operation Dynamo evacuated approximately 338,000 Allied servicemen from the Dunkirk area between late May and early June 1940, according to the Imperial War Museums. Many were French. The operation preserved trained personnel but involved abandoning heavy weapons, vehicles and equipment; it did not reverse the military defeat in France. Royal Navy vessels, civilian craft, shore units and air protection played complementary roles under severe threat. [7]
+Operation Dynamo evacuated approximately 338,000 Allied servicemen from the Dunkirk area between late May and early June 1940, recorded in an Imperial War Museums war memorial. Many were French. The operation preserved trained personnel but involved abandoning heavy weapons, vehicles and equipment; it did not reverse the military defeat in France. Royal Navy vessels, civilian craft, shore units and air protection played complementary roles under severe threat. [7]
 
 Churchill's 4 June parliamentary address gave the evacuation a meaning of continued resistance while recognizing the gravity of the defeat. There were two different outputs: personnel saved for reconstituting Britain's defence, and a political restoration of confidence. Treating the operation as an uncomplicated victory would obscure the loss of continental position and material assets.
 
@@ -228,7 +228,7 @@ India and Bengal | Colonial food and wartime policy | Distribution and political
 
 [7] UK Parliament, Churchill's Dunkirk address, 4 June 1940: https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/churchillexhibition/churchill-the-orator/fight-on-the-beaches/
 
-[8] Imperial War Museums, historical overview of the Battle of Britain: https://www.iwm.org.uk/history/8-things-you-need-to-know-about-the-battle-of-britain
+[8] Imperial War Museums, historical overview of the Battle of Britain: https://memorials.iwm.org.uk/memorial/38895
 
 [9] National Army Museum, Second Battle of El Alamein: https://www.nam.ac.uk/explore/battle-alamein
 
