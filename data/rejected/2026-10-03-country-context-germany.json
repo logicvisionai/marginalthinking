@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "id": "MT-CC-2026-10-03-germany",
+  "slug": "2026-10-03-country-context-germany",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T14:41:34.390Z",
+  "reviewed_commit": "a70ab030760d45aad4c4e92cc6398a5080a0d707",
+  "pending_blob_sha": "14ca62d91ddc1fc62106ffe2bf5d73be817e5f79",
+  "source_blob_shas": {
+    "en": "9bbbfa635d1d6aab9946b113a5cb40799a66729f",
+    "pt-BR": "3f639126f7fb4df489578a23c0c38f01d478ec27"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-03-country-context-germany/en.md:69-82, 189-196, 282-312; pt-BR.md:69-82, 189-196, 282-312",
+      "issue": "The new substantive revision has zero numbered in-text source markers in either language. The bibliography lists only 10 direct URLs, followed by unlinked and partly generic source titles. Material assertions on August 2026 employment, July current account, migration and 2026 budget accounts cannot be traced to a particular cited document at their point of use. EDITORIAL-STYLE.md requires concise numbered markers and full bibliographic details at the end for substantive revisions.",
+      "evidence": [
+        "Both complete staged Markdown texts contain 0 occurrences of [1], [2] or any other numbered citation marker.",
+        "EDITORIAL-STYLE.md lines 278-283 require numbered in-text references for new publications and substantive revisions.",
+        "The 2026-09-30 employment release and 2026-09-11 Bundesbank balance-of-payments release appear only as bare titles in 'Additional sources retained from the first edition', without URLs or in-text anchors."
+      ]
+    },
+    {
+      "check": "factual_methodology",
+      "location": "staging/research/2026/10/2026-10-03-country-context-germany/en.md:69-82, pt-BR.md:69-82; bibliography 284-310",
+      "issue": "The demographic chart labels 74.74 million as 'Projected population, 2100', while the listed 16th coordinated Destatis population projection ends in 2070, not 2100. Destatis' own moderate-variant figure is about 74.7 million in 2070; a distinct Eurostat EUROPOP2025 projection also puts Germany at about 74.7 million in 2100. The draft fails to identify which model, baseline and variant produced the exact 74.74 and conflates distinct horizons.",
+      "evidence": [
+        "Destatis 16th coordinated population projection (published 2025-12-11): https://www.destatis.de/EN/Themes/Society-Environment/Population/Population-Projection/cpp_16.html ; period 2024–2070 and 74.7m for 2070 in moderate variant G2L2W2.",
+        "Eurostat EUROPOP2025 projections, released 2026-04-16, separately project Germany near 74.7m in 2100: https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/44711.pdf",
+        "No Eurostat 2100 release or dataset is linked in either bibliography; the paragraph and chart lack explicit scenario/model attribution."
+      ]
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-03-country-context-germany/en.md:75-82 and pt-BR.md:75-82",
+      "issue": "The single demographic bar chart compares total population (83.47 million, 2026), employed residents (45.41 million, August 2026, a subset of the population), and a conditional total-population projection (74.74 million, 2100) on one axis without a categorical status or scenario qualification. Equal units do not make those denominators and observational statuses comparable. RESEARCH-VISUALS.md requires dimensionally compatible definitions and explicit status for projections.",
+      "evidence": [
+        "Chart numeric series identical in EN/PT-BR: [83.47,45.41,74.74], with labels 'Population, 2026', 'Employment, Aug 2026', 'Projected population, 2100'.",
+        "RESEARCH-VISUALS.md evidence rules 2–5 prohibit silently mixing observed and scenario quantities or incompatible definitions; scenario source is not identified."
+      ]
+    },
+    {
+      "check": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-03-country-context-germany/en.md:84-140 and 213-252; pt-BR.md:84-140 and 213-252",
+      "issue": "The revision appends a second pass over the same fiscal, energy, logistics, defence and euro/savings mechanisms after already treating them at length. Later sections largely restate the same amounts and constraints (€500bn special fund, €128.7bn investment, 257.5 TWh/58.8% renewables, grid/storage costs, procurement versus capacity) instead of integrating the additional evidence into a continuous argument. This breaches RESEARCH-PUBLISHING.md's no-stitched-prose and repeated-thesis guardrails.",
+      "evidence": [
+        "Fiscal mechanism first at lines 84-93, repeated at 213-220; energy at 94-116 and 221-228; logistics at 117-124 and 229-236; defence at 125-132 and 237-244; euro/saving at 133-140 and 245-252.",
+        "Repeated figures and causal statements appear in equivalent locations in both locales; sections can be collapsed without losing a distinct factual mechanism."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Introduce numbered source markers tied to each material claim, chart and table in BOTH locales, with complete, original document links and publication/observation dates in a final References/Referências section; remove duplicate unlinked generic bibliography entries.",
+    "Disambiguate the 74.74m demographic projection: identify Eurostat EUROPOP2025 (2100) with the exact variant/dataset if using that series, or use the Destatis 16th coordinated projection with its 2070 horizon and scenario; correct text, chart and bibliography in both locales.",
+    "Rebuild the demographic visual using comparable denominators and clearly distinguished observed versus projected periods; place employment in a separate labour indicator or use a properly annotated table, preserving EN/PT-BR numerical parity.",
+    "Merge repetitive fiscal, energy, defence, logistics and savings sections into a coherent argument; retain genuinely new historical and sectoral mechanisms, and verify that every section advances the thesis.",
+    "Keep canonical ID/slug and existing public revision 0 unchanged; update staged EN/PT-BR first, then write pending v2 last with revision 2 and fresh blob SHAs; resubmit to independent QA."
+  ],
+  "evidence": [
+    "At reviewed HEAD a70ab030760d45aad4c4e92cc6398a5080a0d707 pending blob 14ca62d91ddc1fc62106ffe2bf5d73be817e5f79; EN 9bbbfa635d1d6aab9946b113a5cb40799a66729f; PT-BR 3f639126f7fb4df489578a23c0c38f01d478ec27. All three paths verified against Git tree immediately before QA write.",
+    "Public Germany bundle and index are at revision 0, while pending is ready:true revision 1. Existing approval is for the previous pending SHA 9b0a3588d61337207563834c9d394d1e30f4b83b; no revision-1 approval exists.",
+    "Reproduced deterministic editorial-depth expressions on complete staged Markdown: EN 5,458 words, PT-BR 5,613; 26 H2 each, 10 distinct URLs/6 hosts each, 3 matching charts, 1 flow and 23 Markdown table rows; country-dossier 1,600-word/12-H2 floor passed. Numeric chart parity 3/3.",
+    "Primary checks confirmed Destatis 2026 Q2 GDP +0.3% q/q and +1.0% y/y, China trade turnover €251.8bn and imports €170.6bn, Bundesnetzagentur 2025 renewables 257.5 TWh/58.8% and 573 negative-price hours; those figures are not rejection grounds.",
+    "Full Node validators could not be executed: no local repository checkout and external git clone failed DNS resolution. This is not recorded as a passed script run."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "notes": "Pending v2 ready true, revision 1, canonical ID/slug, controlled program/topics/phenomena and geography, three existing public related_research_ids."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 5458,
+      "pt_br_words": 5613,
+      "en_h2": 26,
+      "pt_br_h2": 26,
+      "urls_each": 10,
+      "hosts_each": 6,
+      "charts_each": 3,
+      "flows_each": 1,
+      "table_rows_each": 23,
+      "notes": "Country-context >=1600 words and >=12 H2 floor passed. Full Node script not executed."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "notes": "2100 demographic figure not traceable to the listed 16th Destatis 2070 projection; Eurostat 2100 projection is separate and absent from references."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Zero numbered in-text references and unlinked source titles prevent direct claim-to-source audit."
+    },
+    "counterfactual_review": {
+      "result": "partial",
+      "notes": "Contains useful conditional alternatives for fiscal execution and industrial restructuring; demographic scenario model is unspecified."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "26 matched sections, 10 matching source URLs and all three chart numeric arrays identical; both editions share the same defects."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Repeated second-pass sections and missing required in-text references undermine publication readiness."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Demographic chart mixes observed total, employment subset and conditional projection without source/status/denominator qualification."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs not run in Node; source expressions reproduced; local checkout unavailable."
+    }
+  },
+  "producer_route": "task 3/5 — country-context structural producer",
+  "notes": "First rejection for Germany pending revision 1 and these exact three Git blobs. Public revision 0 preserved. No publisher or producer task triggered, and no public surface modified."
+}
