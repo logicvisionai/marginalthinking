@@ -112,6 +112,42 @@ Campos served as minister in a government installed through a coup. PAEG policy 
 
 There is an important difference between freedom to conduct business and freedom to participate in binding public decisions. Financial and tax institutions created under a dictatorship can later operate legitimately under democratic law, but their origin and early allocation of costs remain historical facts. Good economic results do not make political coercion legitimate, and criticizing coercion does not require denying productive outcomes.
 
+## Petrobras, BNDE and ECLAC: development before the market–state binary
+
+FGV CPDOC records an often-overlooked episode: in 1951 Campos joined the economic advisory work that drafted an initial proposal for Petrobras. That proposal envisaged a mixed-capital company under majority public control. Congress modified the institutional model, and Law 2,004 of 1953 established a state petroleum monopoly. The disagreement was not simply whether the state should exist in energy, but who should own assets, provide capital and coordinate a strategically important industry. Campos's involvement challenges an account of his life as unwavering opposition to public enterprise. [1]
+
+BNDE established contacts with the United Nations Economic Commission for Latin America in 1952; in 1953, a joint BNDE–ECLAC research group led by Celso Furtado was formed. Its 1955 work influenced the Targets Plan. The institutional contact between Campos and Furtado is revealing. They participated in a common effort to build technical planning capacity while developing different views about industrial strategy, foreign capital and structural constraints. The disagreement should not erase the shortage of infrastructure and foreign exchange both were trying to address. [1]
+
+Campos himself left BNDE's board in 1953 amid disagreement over the allocation of funds outside core infrastructure, returning in 1955 as managing director during the stabilization efforts associated with Eugênio Gudin. This sequence demonstrates competing operational choices rather than an administrator merely implementing a fixed theory. [1]
+
+## The 1955–1956 stabilization proposal and Brasília
+
+Before Kubitschek's inauguration, Campos and Lucas Lopes directed a team that outlined ways to finance development with less monetary inflation. It proposed stricter credit management, control of public expenditure and greater tax revenue. The later acceleration of public investment exposed a real tension between how quickly the government wished to build productive assets and how fast tax and voluntary saving could finance them. [1]
+
+According to CPDOC, President Kubitschek inserted the construction of Brasília into the programme against the positions of Campos and Lucas Lopes. Relocating the capital had territorial and political ambitions: it might stimulate transport, construction and internal settlement, but it also competed for resources with power projects, roads and factories. The disagreement shows that economic plans were not merely technical calculations. Presidential preferences could change priorities, timeframes and financing needs even when economists emphasized macroeconomic limits. [1]
+
+Industrial growth also cannot be reduced to a GDP number. A power plant may lower production costs for decades; a car industry creates jobs and a need for imported components; a new capital demands construction resources and debt. Assessing the balance requires economic and social returns, public costs, complementary infrastructure and foreign-exchange exposure. Campos's role included trying to apply these assessments in a government surrounded by strong regional and political claims.
+
+## PAEG's financial machinery: wages, public credit and government debt
+
+Reforms from 1964 to 1967 changed how the government borrowed and influenced credit. Inflation-indexed Treasury bonds protected creditors against depreciation, while wage policies tried to prevent past price increases from being fully incorporated into future wage adjustments. These decisions had a clear distributive dimension: holders of indexed claims could preserve real principal while wage earners lost purchasing power when actual inflation exceeded formula-based adjustments. [5][9]
+
+The programme also relied on more effective taxation and lower monetary financing of deficits. It could help stabilize prices, but the outcome is not established merely because new laws and instruments were created. A meaningful assessment tracks actual spending, bank financing to the Treasury, money growth, debt maturities and inflation. Establishing the Central Bank clarified important responsibilities, but its de facto independence varied over subsequent governments. [7][8]
+
+FGTS links macroeconomics to social institutions. By replacing part of the existing employment-tenure protections with deposits, the government altered hiring and dismissal incentives, worker asset accumulation and exposure to unemployment. Firms received more predictable costs; employees faced a different combination of financial protection and job insecurity. The fund's eventual use in housing finance did not give every contributor an automatic right to a home. Outcomes depended on lending policy, interest rates and access to mortgage credit. [10][11]
+
+## Autobiographical memory and the distance between people and institutions
+
+The 1994 memoir encompasses a career extending from Vargas, Kubitschek and Jânio Quadros to Goulart, Castello Branco and the end of the Cold War. It is tempting to treat these leaders as sole authors of national choices, but economic policy is generated through ministries, banks, laws, corporations, labour organizations and international conditions. Campos's wit offers vivid personal accounts of meetings and political conflict; their reliability requires comparison with contemporary records. [2][4]
+
+An aphorism or recollection is not proof of policy effectiveness. A statement that a particular minister blocked a reform can identify a political disagreement; demonstrating its consequences requires knowing the proposed measure, available alternatives and actual implementation. The same applies to his later support for liberalization. Outcomes of privatization, price stabilization and trade reform should be traced to dated decisions, not assumed to flow from having been advocated by a prominent commentator.
+
+## Workers, firms and citizens beyond the planning meetings
+
+Development planning assembled experts who could estimate project returns and negotiate loans, but gains did not arrive equally in all regions. Infrastructure projects and factories attracted labour, changed land prices and expanded markets; costs could fall on taxpayers, households losing purchasing power to inflation or communities displaced by construction. Evaluation of a BNDE loan or Targets Plan project would need to compare affected groups and foregone alternatives, not merely list approved investments.
+
+Under military rule the democratic asymmetry was even more consequential. Wage earners affected by PAEG adjustment formulas and FGTS had fewer avenues to contest policy. Employers faced taxes and interest rates as well, but often possessed different channels of negotiation. Price stability is a public good that can especially protect people who cannot hedge their wages, yet transitions toward it may impose unequal costs. Campos's history remains incomplete without the distribution of gains and sacrifices.
+
 ## Campos's economic-historical place
 
 Campos helped construct development-credit mechanisms, designed or defended monetary and labour reforms, and became one of Brazil's best-known critics of the entrepreneurial state. His life tracks a transition from major infrastructure gaps to a diversified, indebted and inflation-prone economy. He did not create BNDE, the Targets Plan or PAEG single-handedly: governments, economists, legislators, international institutions, businesses and workers shaped each programme. [1][5][6]
