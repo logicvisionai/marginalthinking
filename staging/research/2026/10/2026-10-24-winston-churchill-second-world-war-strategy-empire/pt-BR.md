@@ -42,7 +42,7 @@ A decisão mudou o futuro possível da guerra europeia. Uma paz britânica separ
 
 ## Dunquerque: evacuação, derrota terrestre e preservação de capacidade
 
-Entre 26 de maio e o início de junho de 1940, a Operação Dynamo retirou da região de Dunquerque aproximadamente 338 mil militares aliados, segundo o Imperial War Museums. Uma parte significativa era francesa. O resgate preservou pessoal militar fundamental para reorganizar a defesa britânica, mas exigiu abandonar muitos veículos, artilharia e equipamentos e não eliminou a derrota das forças terrestres na campanha francesa. A Royal Navy, embarcações civis, tripulações e forças de cobertura participaram de uma operação que envolveu grande risco aéreo. [7]
+Entre 26 de maio e o início de junho de 1940, a Operação Dynamo retirou da região de Dunquerque aproximadamente 338 mil militares aliados, segundo registro memorialístico catalogado pelo Imperial War Museums. Uma parte significativa era francesa. O resgate preservou pessoal militar fundamental para reorganizar a defesa britânica, mas exigiu abandonar muitos veículos, artilharia e equipamentos e não eliminou a derrota das forças terrestres na campanha francesa. A Royal Navy, embarcações civis, tripulações e forças de cobertura participaram de uma operação que envolveu grande risco aéreo. [7]
 
 O discurso de Churchill de 4 de junho perante o Parlamento deu à evacuação interpretação de resistência continuada sem apresentá-la como vitória estratégica completa. O efeito material da operação foi preservar combatentes e manter uma força treinada disponível; o efeito político foi fortalecer confiança num momento de derrotas. A análise dos dois resultados impede confundir moral nacional com capacidade militar imediatamente restaurada.
 
@@ -228,7 +228,7 @@ Normandia e Europa Ocidental | Operação Overlord | Abertura da frente ocidenta
 
 [7] Parliament, discurso de Churchill sobre Dunquerque, 4 de junho de 1940: https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/churchillexhibition/churchill-the-orator/fight-on-the-beaches/
 
-[8] Imperial War Museums, Battle of Britain and Blitz, documentação histórica: https://www.iwm.org.uk/history/8-things-you-need-to-know-about-the-battle-of-britain
+[8] Imperial War Museums, Battle of Britain and Blitz, documentação histórica: https://memorials.iwm.org.uk/memorial/38895
 
 [9] National Army Museum, Segunda Batalha de El Alamein: https://www.nam.ac.uk/explore/battle-alamein
 
