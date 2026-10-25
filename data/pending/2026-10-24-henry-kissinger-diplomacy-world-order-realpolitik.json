@@ -112,11 +112,11 @@
   ],
   "producer_checks": {
     "information_cutoff": "2026-10-24",
-    "research_depth": "EN 4562 / PT-BR 5028 substantive words, excluding visual fences and URLs; 26 / 26 analytical headings; 21 / 21 numbered bibliographic records; 13 / 13 unique URLs across 8 / 8 domains.",
-    "visual_signature": "Each locale: dated source-driven chronological table, numeric duration chart with bilingual identical values, 2-chain explanatory flow and geographic exposure map.",
+    "research_depth": "Validated staging EN 4590 / PT-BR 5055 words excluding visual fences and URLs; 13 / 13 unique URLs from 8 / 8 hosts.",
+    "visual_signature": "Two comparable bar charts, chronological table, causal flow and geographic map per locale. Numeric chart values EN/PT-BR equal: [[\"16\",\"15\",\"8\"],[\"6\",\"4\"]].",
     "bilingual_parity": "Matching quantitative chart series and matched numbered bibliography across locales; translation and claim-level QA remain pending.",
     "methodology": "Compare memoir and authored books to government documents, statutes, primary archives and scholarly interpretations; preserve causality, chronology and political responsibility.",
     "source_check": "Primary and secondary documentary bibliography provided; external link reliability, claim-level attribution and historical narrative require independent QA.",
-    "editorial_status": "Long-form research staged in both languages; producer did not create approval or public reports. Independent editorial approval of exact blob SHAs is mandatory."
+    "editorial_status": "Producer structural and bilingual chart checks passed; source-level independent editorial QA required for approval; unpublished in staging."
   }
 }
