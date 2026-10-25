@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-24-YARVIN",
+  "slug": "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T21:50:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 33,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state/en.md",
+      "title": "Curtis Yarvin: from software engineer to architect of neo-reactionary state theory",
+      "deck": "A documentary biography of Moldbug, formalism, the Cathedral, neocameralism, Urbit, Gray Mirror and the limits of claims about political influence.",
+      "tags": [
+        "Curtis Yarvin",
+        "intellectual history",
+        "capital and institutions",
+        "accelerationism"
+      ],
+      "keywords": [
+        "Curtis Yarvin",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Technology, finance and institutional authority under contestation.",
+      "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+      "watch": [
+        "Primary-source publication record",
+        "Verified company and public-sector disclosures",
+        "Documented relationships and policy outcomes"
+      ],
+      "search_text": "Curtis Yarvin: from software engineer to architect of neo-reactionary state theory Curtis Yarvin political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state/pt-BR.md",
+      "title": "Curtis Yarvin: do engenheiro de software à formulação neorreacionária do Estado",
+      "deck": "Biografia documental de Moldbug: formalismo, Catedral, neocameralismo, Urbit, Gray Mirror e os limites de alegações de influência política.",
+      "tags": [
+        "Curtis Yarvin",
+        "história intelectual",
+        "capital e instituições",
+        "aceleracionismo"
+      ],
+      "keywords": [
+        "Curtis Yarvin",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+      "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+      "watch": [
+        "Publicações primárias",
+        "Documentos empresariais e de órgãos públicos",
+        "Relações comprovadas e resultados de políticas"
+      ],
+      "search_text": "Curtis Yarvin: do engenheiro de software à formulação neorreacionária do Estado Curtis Yarvin political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "institutions-governance",
+    "technology-innovation",
+    "social-change",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Curtis Yarvin",
+    "type": "person"
+  },
+  "related_research": [
+    "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
+    "2026-10-24-peter-thiel-finance-technology-and-political-power",
+    "2026-10-24-elon-musk-technology-industrial-power-politics",
+    "2026-10-24-accelerationism-intellectual-history-capital-technology-politics"
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+    "research_depth": "At least 2,100 substantive words per locale, ten or more references, 2 parallel charts, flow, map, 2 tables and 11+ analytical headings. Requires independent factual/editorial QA.",
+    "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+    "source_check": "Bibliographies include named books and papers, primary authors, public corporate/government filings and independent historical reporting; verify URL and claim-level fit at independent QA.",
+    "visual_signature": "Two bilingual-identical numerical bar charts plus causal flow, geographical exposure map and comparative tables.",
+    "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance."
+  }
+}
