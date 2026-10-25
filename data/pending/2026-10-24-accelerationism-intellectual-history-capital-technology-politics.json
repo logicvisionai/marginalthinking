@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-HT-2026-10-24-ACCELERATIONISM",
+  "slug": "2026-10-24-accelerationism-intellectual-history-capital-technology-politics",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T21:50:00-03:00",
+  "kind": "historical-intellectual-research",
+  "priority": 32,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/en.md",
+      "title": "Accelerationism: intellectual history, capitalist dynamics, rival political programmes and the technological future",
+      "deck": "Historical and economic genealogy from Marx, Nietzsche, Bataille, Deleuze, Guattari, Lyotard and CCRU to Land, left accelerationism, neo-reaction and AI/e/acc.",
+      "tags": [
+        "Accelerationism",
+        "intellectual history",
+        "capital and institutions",
+        "accelerationism"
+      ],
+      "keywords": [
+        "Accelerationism",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Technology, finance and institutional authority under contestation.",
+      "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+      "watch": [
+        "Primary-source publication record",
+        "Verified company and public-sector disclosures",
+        "Documented relationships and policy outcomes"
+      ],
+      "search_text": "Accelerationism: intellectual history, capitalist dynamics, rival political programmes and the technological future Accelerationism political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics/pt-BR.md",
+      "title": "Aceleracionismo: genealogia intelectual, dinâmica capitalista, projetos políticos rivais e futuro tecnológico",
+      "deck": "Genealogia histórica e econômica de Marx, Nietzsche, Bataille, Deleuze, Guattari, Lyotard e CCRU a Land, aceleracionismo de esquerda, neorreação e IA/e/acc.",
+      "tags": [
+        "Accelerationism",
+        "história intelectual",
+        "capital e instituições",
+        "aceleracionismo"
+      ],
+      "keywords": [
+        "Accelerationism",
+        "Curtis Yarvin",
+        "Nick Land",
+        "Peter Thiel",
+        "Elon Musk",
+        "acceleracionism",
+        "neoreaction",
+        "political economy",
+        "institutions",
+        "technology"
+      ],
+      "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+      "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+      "watch": [
+        "Publicações primárias",
+        "Documentos empresariais e de órgãos públicos",
+        "Relações comprovadas e resultados de políticas"
+      ],
+      "search_text": "Aceleracionismo: genealogia intelectual, dinâmica capitalista, projetos políticos rivais e futuro tecnológico Accelerationism political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "global-system-power",
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "industry-production",
+    "capital-markets",
+    "institutions-governance",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "strategic-competition"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Accelerationism",
+    "type": "intellectual-tradition"
+  },
+  "related_research": [
+    "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
+    "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
+    "2026-10-24-peter-thiel-finance-technology-and-political-power",
+    "2026-10-24-elon-musk-technology-industrial-power-politics"
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+    "research_depth": "At least 2,100 substantive words per locale, ten or more references, 2 parallel charts, flow, map, 2 tables and 11+ analytical headings. Requires independent factual/editorial QA.",
+    "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+    "source_check": "Bibliographies include named books and papers, primary authors, public corporate/government filings and independent historical reporting; verify URL and claim-level fit at independent QA.",
+    "visual_signature": "Two bilingual-identical numerical bar charts plus causal flow, geographical exposure map and comparative tables.",
+    "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance."
+  }
+}
