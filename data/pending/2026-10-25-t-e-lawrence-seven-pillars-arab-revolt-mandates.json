@@ -110,15 +110,15 @@
   ],
   "producer_checks": {
     "information_cutoff": "2026-10-25",
-    "research_depth": "EN 4284 substantive words; PT-BR 4776 substantive words (excluding fenced graphics and raw URLs). 26/26 analytical headings, 12/12 distinct external URLs from 12/12 domains.",
+    "research_depth": "EN 4515 words, 14 distinct URLs from 13 domains. PT-BR 5034 words, 14 distinct URLs from 13 domains. Source word counts exclude fenced visuals and URL tokens.",
     "source_check": "Producer screened institutional, archive and court source references; independent claim-to-source and URL availability QA still required before public approval.",
     "visual_signature": "Two bilingual-comparable numeric charts with series [[\"335\",\"250\",\"130\"],[\"1\",\"8\",\"9\"]], chronological table, causal flow and geographic exposure map per language.",
-    "translation_parity": "Same chronology, bibliographic URLs, visual numeric series, source claims and biographical mechanisms; independent bilingual QA pending.",
+    "translation_parity": "Equal chronology and primary claim structure, independently authored idiomatic translations, numeric chart parity; editorial fact-level translation QA pending.",
     "methodology": "Separate actions taken by the subject from memoir narrative, collective institutional work, legal culpability and conjecture; distinguish nominal financial amounts from real production and impacted populations.",
-    "editorial_status": "Producer checks passed in staging; no approval or publication claimed; require independent QA bound to exact source blob SHAs.",
+    "editorial_status": "Revised research in staging, producer structural checks passed. Independent QA and formal publication approval required; not live.",
     "source_shas": {
-      "en": "8252910b9be60a04651872f25c47c133a25a50ee",
-      "pt-BR": "95afcf97708e39d92186093d5ba3ec9b4bf7f87e"
+      "en": "81efbd57ffc248c309e557c6d6deccfe8e31cccd",
+      "pt-BR": "0bb61b0fdc11b2df966b94fc081758c03d317f86"
     }
   }
 }
