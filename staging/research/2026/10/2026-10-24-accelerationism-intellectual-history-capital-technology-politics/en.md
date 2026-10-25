@@ -173,18 +173,19 @@ The resulting research programme follows energy prices, chip supply, public and 
 
 ```chart
 type: bar
-title: Publication intervals in the historical genealogy
-unit: years between cited landmark texts; chronology is not intellectual influence
-1972 Anti-Oedipus to 1974 Libidinal Economy | 2
-1974 Libidinal Economy to 2013 left manifesto | 39
+title: World data centre electricity demand, IEA Energy and AI 2025 study
+unit: TWh per year; 2024 estimated versus 2030 Base Case projection, not two observed years
+2024 estimate | 415
+2030 Base Case scenario | 945
 ```
 
 ```chart
 type: bar
-title: Recent intervals in public acceleration debate
-unit: years between dated landmark publications
-2007 Yarvin formalist manifesto to 2012 Land essay | 5
-2013 left manifesto to 2023 techno-optimist manifesto | 10
+title: Geographic share of worldwide data centre electricity consumption in 2024 (IEA)
+unit: approximate % of worldwide data centre electricity consumption; other regions omitted
+United States | 45
+China | 25
+Europe | 15
 ```
 
 ```flow
@@ -201,14 +202,15 @@ United States / Silicon Valley | Yarvin, Thiel, Musk and technology investment |
 Transnational online communities | e/acc and ideological diffusion | No single government or membership list
 ```
 
-## Connected research in this series
+## Documented empirical comparison
 
-The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** The four institutional biographies distinguish textual influence, enterprise relationships, investment, and political analogy.
+## Growth of technical infrastructure is measurable; accelerationist influence is not inferred from it
 
-- [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
-- [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
-- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
-- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+The IEA's *Energy and AI* study estimates global data-centre electricity consumption at around 415 TWh in 2024 and projects approximately 945 TWh in 2030 in a Base Case, not an observed future outcome. These are comparable annual electricity demands in TWh, but the two bars have different evidential status: one is an estimate and one a conditional model result. Faster technical use imposes material requirements on grids, generation and equipment lead times; it says nothing by itself about the moral desirability of technological or political acceleration. [21]
+
+The 2024 geographic distribution also differs markedly: the United States accounts for about 45% of global data-centre electricity consumption, China for 25% and Europe for 15%, with the remainder spread across other regions. These regional shares do not identify who holds ultimate ownership, who benefits from production or how investment alters political rights. They instead expose the geographic asymmetry hidden by the language of inevitable, universal acceleration. [22]
+
+The left accelerationist call for collective direction and the right-wing tendency to treat markets as autonomous are competing political interpretations of this capacity expansion, not rival descriptions of the IEA dataset. Grid constraints, planning consent, water, finance and chips connect technological trajectories to public choice. A growth projection becomes an ethical or governmental argument only after specifying who bears costs, who controls infrastructure and which alternatives are politically available.
 
 ## Sources and works
 
@@ -218,7 +220,7 @@ The following studies share verifiable intellectual, business or institutional i
 
 [3] Alex Williams and Nick Srnicek, #ACCELERATE (2013): https://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/
 
-[4] Christian Fuchs, Nick Land and Dark Enlightenment, 2026: https://journals.sagepub.com/doi/10.1177/07255136261487456
+[4] Christian Fuchs, The TOXIC schema: How Nick Land's Dark Enlightenment works, Thesis Eleven (2026): https://journals.sagepub.com/doi/10.1177/07255136261487456
 
 [5] Curtis Yarvin, A Formalist Manifesto (2007): https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/
 
@@ -251,3 +253,7 @@ The following studies share verifiable intellectual, business or institutional i
 [19] International Centre for Counter-Terrorism, violent siege and collapse acceleration: https://icct.nl/publication/ted-kaczynski-anti-technology-radicalism-and-eco-fascism
 
 [20] Urbanomic, *Cute Accelerationism*, 2026 edition: https://www.urbanomic.com/edition/cute-accelerationism-second-edition/
+
+[21] International Energy Agency, Energy and AI (2025): global data centre demand 2024 and 2030 Base Case: https://www.iea.org/reports/energy-and-ai/energy-demand-from-aI
+
+[22] International Energy Agency, Energy and AI (2025): regional shares of world data centre electricity, 2024: https://www.iea.org/reports/energy-and-ai/executive-summary
