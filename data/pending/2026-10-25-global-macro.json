@@ -106,7 +106,7 @@
     "information_cutoff": "Early Sunday 25 October 2026, 05:00 BRT; last completed liquid market session Friday 23 October. No second-round result, Sunday Brazilian market close or post-election prices included.",
     "novelty": "Sunday 25 October Brazilian runoff is new discrete political information after the 24 October cross-region PMI report; Friday Gulf oil repricing is contextual transmission, not recycled central thesis.",
     "visual_signature": "Bilingual chart series [[\"47.03\",\"45.16\"],[\"116.72\",\"103.27\"]], 1 dated evidence table, 1 two-chain flow and 1 geographic mechanism map per locale.",
-    "source_check": "15 numbered source entries, primary TSE/Treasury/ICI/IEA/ONS/BCB/Planning and two secondary market price history records; Reuters removed. Source-vintage and late-Sunday uncertainty preserved.",
+    "source_check": "15 dated bilingual sources; direct TSE, Treasury, ICI, IEA, ONS, Statistics Bureau of Japan Sep CPI, Brazilian planning and BCB documentation; separate historical Brent/WTI market-price tables, no Reuters.",
     "bilingual_parity": "Six aligned analytical H2 sections, 15 source entries, matched data and concepts, chart numeric parity, separate post-election/fiscal risk qualifications.",
     "research_depth": "Validated producer counting proxy: EN 2064, PT-BR 2299 substantive words excluding code fences and URLs; 6 H2 analytical sections each, 2 numeric charts, table, causal flow, map.",
     "qa_handoff": "Previous QA rejection revision 0 remedied in staging; further independent review and SHA-bound approval required before public promotion."
