@@ -253,8 +253,25 @@ Transforming digital economy
   - Regulation and accountability
 ```
 
-## References
 
+
+```chart
+type: bar
+title: AI share of worldwide VC, OECD
+unit: % of worldwide venture investment
+2022 | 30
+2025 | 61
+```
+
+```map
+title: Geographic dependencies of digital capital
+United States | Principal destination for tracked AI venture funding | Financing concentration is not the same as worldwide production
+Latin America | Demand for payments and stable currencies | Adoption varies with inflation, bank access and regulation
+Europe | Cryptoasset and digital-market regulation | Institutional models and rights vary between jurisdictions
+Asia | Semiconductor production and digital services | Technical supply chains and capital flows differ
+```
+
+## References
 [1] OECD, *Venture capital investments in artificial intelligence through 2025*, February 2026: https://www.oecd.org/en/publications/venture-capital-investments-in-artificial-intelligence-through-2025_a13752f5-en/full-report.html
 
 [2] Galaxy Research, *Crypto and Blockchain Venture Capital – Q2 2026*, September 2026: https://www.galaxy.com/insights/research/crypto-blockchain-venture-capital-q2-2026-deal-count-fundraising
