@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-24T22:14:07.020Z",
+  "last_reconciled_at": "2026-10-25T15:43:56.826Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -6912,6 +6912,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Watermills and medieval technology are historical, not a new signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-global-macro-publication-reconciliation-r2",
+      "reconciled_at": "2026-10-25T15:43:56.826Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-25"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Oil shipping and US dollar-rate transmission discussed as potential cross-market dependencies; no pairwise dated measured physical supply or financing edge established at early Sunday cutoff."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Pre-result election risk and oil-futures repricing are macro conditions, not a bounded and independently measured intervention opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazilian election actors and Gulf shipping risk are discussed, but no newly verified current ownership/control entry or final election outcome at stated cutoff."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Gulf transit and energy logistics risk is conditional; no verified new physical facility ownership or measured cargo loss establishing a resource-control update."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Fiscal platforms are proposals rather than enacted policy interventions with observed outcomes."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Reported security threats in Gulf shipping are not independently verified in the issue as dated incidents sufficient for adding a conflict-system record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No dated new technology deployment or adoption milestone in the edition."
         }
       ]
     }
