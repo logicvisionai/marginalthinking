@@ -182,6 +182,14 @@ Churchill voltou ao cargo de primeiro-ministro entre 1951 e 1955, já com proble
 
 Seu legado resulta de conflitos que não se anulam: resistência ao nazismo, decisões estratégicas discutíveis, construção retórica de coesão, defesa do império e responsabilidade governamental diante de sofrimento colonial. A explicação da vitória aliada pertence à economia de guerra, à inteligência, à diplomacia e às pessoas mobilizadas, além da coragem política. A biografia de Churchill se torna historicamente mais robusta quando não depende de um retrato santo ou demoníaco, mas acompanha o que ele decidiu, o que não controlava e quem sofreu as consequências.
 
+## Dunquerque e a Batalha da Inglaterra: a dimensão coletiva em números
+
+Dunquerque permitiu evacuar 338.226 militares aliados, dos quais 224.320 eram britânicos segundo a English Heritage. Por diferença, 113.906 eram franceses ou militares de outros países aliados. A operação ocorreu entre 26 de maio e 4 de junho de 1940 e não preservou grande parte dos equipamentos pesados. A ficha do Imperial War Museums confirma aproximadamente 338 mil resgatados. Trata-se de sobreviventes de uma retirada após derrota terrestre, não de inimigos vencidos. [17][20]
+
+O papel internacional na defesa aérea também é mensurável. Segundo a história oficial da força aérea canadense, 2.353 tripulantes da Grã-Bretanha e 574 do exterior realizaram pelo menos uma missão operacional elegível durante a Batalha da Inglaterra, de 10 de julho a 31 de outubro de 1940. Os gráficos empregam a população definida para a condecoração; não abrangem mecânicos, observadores ou todos os civis. O Museu da RAF documenta a rede de radares e controle de interceptação que sustentou essas operações. [18][19]
+
+Os números qualificam a narrativa individual: a firmeza do primeiro-ministro teve peso, mas a resistência exigiu marinha, exércitos aliados, pilotos internacionais e engenharia de defesa aérea.
+
 ## Cronologia da guerra e do governo
 
 | Ano | Episódio | Agentes e instituições | Significado |
@@ -201,10 +209,10 @@ Seu legado resulta de conflitos que não se anulam: resistência ao nazismo, dec
 
 ```chart
 type: bar
-title: Mandatos de Churchill como primeiro-ministro
-unit: anos decorridos entre datas de início e fim; intervalos aproximados
-Governo de guerra 1940–1945 | 5
-Segundo governo 1951–1955 | 4
+title: Militares aliados retirados de Dunquerque na Operação Dynamo de 1940
+unit: pessoas evacuadas; total 338226, britânicos 224320, demais aliados 113906 por subtração
+Britânicos | 224320
+Franceses e outros aliados | 113906
 ```
 
 ```flow
@@ -224,10 +232,10 @@ Normandia e Europa Ocidental | Operação Overlord | Abertura da frente ocidenta
 
 ```chart
 type: bar
-title: Intervalos entre marcos militares do governo Churchill
-unit: anos corridos entre marcos; sequência estratégica, não desempenho militar
-1940 posse de Churchill a 1944 desembarque na Normandia | 4
-1944 desembarque na Normandia a 1945 rendição alemã | 1
+title: Tripulantes elegíveis na Batalha da Inglaterra segundo registro da força aérea canadense
+unit: pessoas com missão operacional reconhecida entre julho e outubro de 1940; pessoal terrestre excluído
+Da Grã-Bretanha | 2353
+Do exterior | 574
 ```
 
 ## Bibliografia e documentação histórica
@@ -262,3 +270,13 @@ unit: anos corridos entre marcos; sequência estratégica, não desempenho milit
 
 [15] Nobel de Literatura de 1953, justificativa oficial: https://www.nobelprize.org/prizes/literature/1953/summary/
 [16] Catálogo universitário de The Second World War, seis volumes (1948–1953): https://libcat.weber.edu/bib/1024283
+
+[17] English Heritage, Operação Dynamo, total e componente britânico: https://production.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/operation-dynamo-things-you-need-to-know/
+
+[18] Força Aérea Real Canadense, histórico de participantes britânicos e estrangeiros: https://www.canada.ca/en/air-force/services/history-heritage/battle-britain/history.html
+
+[19] Museu da RAF, radar e integração do sistema Dowding: https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/how-radar-works.aspx
+
+[20] Imperial War Museums, ficha histórica de Dunquerque e 338 mil evacuados: https://www.iwm.org.uk/sites/default/files/press-release/dunkirk_film_2017_fact_sheet_and_iwm_resources_available.pdf
+
+[21] Museu da RAF, história institucional da Batalha da Inglaterra: https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain
