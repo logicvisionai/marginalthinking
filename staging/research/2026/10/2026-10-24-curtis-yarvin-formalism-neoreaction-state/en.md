@@ -181,6 +181,15 @@ Washington, DC | Debates on federal executive power and DOGE | Actual public aut
 United Kingdom / Warwick | Nick Land's earlier intellectual milieu | Indirect philosophical connection
 ```
 
+## Connected research in this series
+
+The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** Land's later neoreactionary synthesis, Thiel's reported venture connection, Musk's administrative comparison and the historical accelerationist dispute.
+
+- [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+- [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Sources and works
 
 [1] Yarvin, *A Formalist Manifesto* (2007): https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/
