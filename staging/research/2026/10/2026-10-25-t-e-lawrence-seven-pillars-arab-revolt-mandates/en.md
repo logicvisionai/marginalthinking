@@ -82,6 +82,22 @@ The editions of *Seven Pillars* are fundamental evidence about its construction.
 
 These were not neutral changes of physical format. Omission and rewriting can alter pacing, emphasis on self-doubt, military detail and portrayals of other actors. A scholar quoting Lawrence must specify which version is being used. The distinction between an expensive private edition, a shortened commercial bestseller and a later general edition also shows how public fascination preceded broad access to the author's complete testimony.
 
+## The inner architecture of Seven Pillars: ten books and an interpretation of war
+
+The widely circulated text is arranged in an introduction and ten books that move from Lawrence's encounter with Feisal to the end of the campaign in Syria. *The Discovery of Feisal* places the choice of a military interlocutor at its centre; *Opening the Arab Offensive* develops operational capacity; *A Railway Diversion* emphasizes communications; *Extending to Akaba* expands the geography of the war; and *Marking Time* focuses on pauses and regrouping. The publisher's table of contents confirms the sequence. [4][15]
+
+The later books follow a different rhythm. *The Raid upon the Bridges* presents attacks on communications, *The Dead Sea Campaign* connects the operation to Palestine, *The Ruin of High Hope* records setbacks, *Balancing for a Last Effort* prepares the final stage, and *The House Is Perfected* culminates in Damascus. These headings form a crafted account of discovery, advance, crisis and completion. Each book combines operations with encounters, retrospective thought and moral judgement; it is not a self-contained operation report. [15]
+
+The arrangement also discloses the author's perspective. Feisal is 'discovered' by an English narrator despite possessing an established political life before their encounter. Railways acquire narrative weight because they mattered to military planning. Damascus supplies the aesthetic conclusion even though the struggle over Arab sovereignty would continue after the book's final events. Literary closure and political settlement are different historical outcomes.
+
+## Three kinds of evidence: memoir, letters and political institutions
+
+The narrative is best examined alongside three types of source. One consists of the different manuscript and published versions. A second includes contemporary correspondence, such as Lawrence's September 1917 letter and his 1919 intervention in *The Times*. A third encompasses government files, the Paris settlement and documents implementing mandates. Each can support claims of a different kind. [8][9][13]
+
+A letter can establish what Lawrence knew at a particular moment but not that he had authority to reverse a policy. A chapter written years after a campaign records his retrospective experience but does not by itself establish the precise order of military movements. A treaty reveals the governments' intended arrangement without proving consent among local populations. Distinguishing those questions allows the historian to use Lawrence's powerful testimony without granting it automatic control over all other evidence.
+
+By 2026, museum catalogues and documentary collections make it possible to trace the changing editions and key decisions with greater precision. They do not justify reducing modern Middle Eastern politics to a mechanical consequence of a single agreement made in 1916. Communities and governments subsequently made choices that transformed the region in ways neither Lawrence nor the wartime imperial negotiators controlled.
+
 ## Literary form: epic, confession, travel writing and political self-fashioning
 
 The narrative combines landscapes, combat, reflections on identity and episodes of moral exhaustion. Lawrence gave the Arabian desert a literary role as space of danger, freedom and estrangement. Biblical echoes in the title do not make its contents a transparent account of a single unified Arab political experience. The book developed in a literary tradition of travel and imperial memoir while complicating that tradition through the narrator's doubts. [4][5]
@@ -201,3 +217,4 @@ Iraq and Transjordan | 1921 settlement | Hashemite monarchies and mandates
 [13] University of St Andrews, manuscritos e crítica histórica da revolta: https://collections.st-andrews.ac.uk/sub-group/notes-on-arab-revolt-and-t-e-lawrence/2000439
 
 [14] Library of Congress, Seven Pillars 1926, registro e material exemplar: https://www.loc.gov/item/67123168/
+[15] Seven Pillars of Wisdom, full ten-book table of contents: https://www.bookfusion.com/books/2101755-seven-pillars-of-wisdom
