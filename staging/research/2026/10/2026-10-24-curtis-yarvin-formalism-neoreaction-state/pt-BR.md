@@ -181,6 +181,15 @@ Washington, DC | Disputas sobre Executivo federal e DOGE | Autoridade pública s
 Reino Unido / Warwick | Contexto intelectual anterior de Nick Land | Conexão filosófica indireta
 ```
 
+## Pesquisas relacionadas da série
+
+Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** A inflexão neorreacionária de Land, o financiamento empresarial relatado de Thiel, a comparação administrativa com Musk e a genealogia do aceleracionismo.
+
+- [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Elon Musk](/pt-br/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
+- [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Fontes e obras
 
 [1] Yarvin, *A Formalist Manifesto* (2007): https://www.unqualified-reservations.org/2007/04/formalist-manifesto-originally-posted/
