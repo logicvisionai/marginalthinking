@@ -154,18 +154,20 @@ A falsifiable version of the Yarvin thesis would predict that jurisdictions with
 
 ```chart
 type: bar
-title: Intervals between documented publication milestones
-unit: elapsed years; 2007 first manifesto, 2012 Land essay, 2020 Gray Mirror
-2007–2012 | 5
-2012–2020 | 8
+title: Political rights across institutional comparator cases (Freedom House 2025)
+unit: points on the 0–40 political-rights scale, which permits negative penalty points; not a governance-performance measure
+United States | 34
+Singapore | 19
+China | -2
 ```
 
 ```chart
 type: bar
-title: Distinct documented phases in Yarvin's writing
-unit: years of elapsed time; intervals are not a measure of audience or influence
-2007–2014 early blog period | 7
-2014–2020 gap before Gray Mirror | 6
+title: Civil liberties across the same institutional comparator cases (Freedom House 2025)
+unit: points on the 0–60 civil-liberties scale; not a measured effect of Yarvin's ideas
+United States | 50
+Singapore | 29
+China | 11
 ```
 
 ```flow
@@ -181,14 +183,13 @@ Washington, DC | Debates on federal executive power and DOGE | Actual public aut
 United Kingdom / Warwick | Nick Land's earlier intellectual milieu | Indirect philosophical connection
 ```
 
-## Connected research in this series
+## Documented empirical comparison
 
-The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** Land's later neoreactionary synthesis, Thiel's reported venture connection, Musk's administrative comparison and the historical accelerationist dispute.
+## Political authority in observed institutions: comparator evidence, not proof of formalism
 
-- [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
-- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
-- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
-- [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+Yarvin's proposals for concentrated executive sovereignty and competitive jurisdictions can be examined against existing political systems without treating any country as an implementation of his theory. Freedom House's 2025 country assessments record political-rights scores of 34/40 for the United States, 19/40 for Singapore and −2/40 for China. The corresponding civil-liberties scores are 50/60, 29/60 and 11/60. These values come from expert-coded rights criteria, not measurements of public-sector efficiency, economic development or Yarvin's influence. Their scales are separate, so each dimension is displayed independently. [17][18][19]
+
+The contrast is analytically consequential: administrative capacity, stable property rules and political freedoms need not move together; a proposition that rule by a single corporate-style owner necessarily improves government cannot be inferred from aggregate growth or digital infrastructure. Freedom House is one normative measurement framework whose expert judgments are contestable. Its country reports provide a baseline for studying institutional trade-offs rather than a causal experiment or a demonstration that Singapore or China is governed by Yarvin's preferred constitutional design.
 
 ## Sources and works
 
@@ -223,3 +224,9 @@ The following studies share verifiable intellectual, business or institutional i
 [15] Urbit developer documentation, Arvo and deterministic kernel semantics: https://docs.urbit.org/build-on-urbit/app-school/1-arvo
 
 [16] Scholarly account of Mosca, Pareto and Michels, classical elite theory: https://pmc.ncbi.nlm.nih.gov/articles/PMC9046547/
+
+[17] Freedom House, Freedom in the World 2025: United States: https://freedomhouse.org/country/united-states/freedom-world/2025
+
+[18] Freedom House, Freedom in the World 2025: Singapore: https://freedomhouse.org/country/singapore/freedom-world/2025
+
+[19] Freedom House, Freedom in the World 2025: China: https://freedomhouse.org/country/china/freedom-world/2025
