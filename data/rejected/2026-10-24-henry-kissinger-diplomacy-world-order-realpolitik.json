@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-24-KISSINGER",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-25T10:37:39.537Z",
+  "reviewed_commit": "98aafb1850928bbe80f97d85394876131d08a8a2",
+  "pending_blob_sha": "de319f7ffc0af29e34fc9572c2869673b8a18dad",
+  "source_blob_shas": {
+    "en": "2a6c1539ec89f5fb997e020e75e24936831e6b30",
+    "pt-BR": "e1fd980fc57ef9c8fc9f1c595270bf82f0f82ca2"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/en.md:180-209; staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/pt-BR.md:178-207",
+      "issue": "The two bar charts are chronology-only: arbitrary intervals between biography milestones (16/15/8 years) and approximate tenure lengths of two overlapping offices (6/4 years). These are valid calendar calculations but provide no independent quantitative evidence of diplomatic results, arms-control mechanisms, humanitarian consequences, or institutional effects central to the dossier. A timeline and the existing chronology table already communicate the same facts. The visual-evidence standard rejects technically compliant but redundant/decorative charts.",
+      "evidence": [
+        "EN and PT-BR numeric series are identical: [[\"16\",\"15\",\"8\"],[\"6\",\"4\"]]; first chart explicitly states it is not a measure of performance; second chart measures nominal years of office and cautions against summing overlaps.",
+        "RESEARCH-VISUALS.md, Evidence rules 1, 4, 8 and QA gate, requires analytical evidence and rejects visually redundant charts."
+      ]
+    },
+    {
+      "type": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/en.md:73-113,211-230; staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/pt-BR.md:73-113,209-228",
+      "issue": "Interpretations of the internal arguments of Diplomacy (1994), World Order (2014) and A World Restored (1957) are attributed to bibliography entries [5]-[7] and [19], but these entries link to a Nobel biographical bibliography and a university catalogue/table of contents, not to the cited book passages. A table of contents can establish chapter structure, not the detailed historical arguments, authorial claims or ethical interpretation asserted in these sections.",
+      "evidence": [
+        "Texas A&M catalogue https://catalog.library.tamu.edu/Record/in00003504607/TOC displays title, publication metadata and nine chapter headings, without the book text.",
+        "Nobel biographical URL https://www.nobelprize.org/prizes/peace/1973/kissinger/biographical/ is a biographical/bibliographical record, not a chapter- or page-level primary citation for the book arguments.",
+        "Sections at EN/PT lines 73-113 analyze Richelieu, Bismarck, Westphalia, Iran and technological judgment using [5][6][7][19] as if these documented full interpretive passages."
+      ]
+    },
+    {
+      "type": "source_dates_and_attribution",
+      "location": "staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/en.md:149-153; staging/research/2026/10/2026-10-24-henry-kissinger-diplomacy-world-order-realpolitik/pt-BR.md:147-151",
+      "issue": "The comparison involving Churchill's 1940 refusal of a separate peace and Roberto Campos's participation in Bretton Woods in 1944 is cited solely to [1][2], which are biographical sources about Kissinger and do not substantiate either independent historical claim. The underlying Campos claim is documentable, but the bibliography lacks the relevant historical evidence and the Churchill claim is not traced to a Churchill-era source.",
+      "evidence": [
+        "[1] U.S. Department of State biography https://history.state.gov/departmenthistory/people/kissinger-henry-a concerns Kissinger's service and does not document Campos's Bretton Woods delegation or Churchill's 1940 Cabinet decisions.",
+        "[2] Nobel Kissinger biography is likewise not a source for these two other actors.",
+        "Relevant historical scholarship directly documents Campos and Brazilian delegation: https://www.scielo.br/j/his/a/csdMSqrtpcr5FxFBSGkc8XJ/?lang=pt ; a 1994 contemporary interview also describes his delegation role: https://www1.folha.uol.com.br/fsp/1994/7/17/mundo/15.html"
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Replace the two chronology-only bar charts in both languages with at least two source-reproducible quantitative comparisons that genuinely illuminate the diplomatic/institutional/humanitarian mechanisms under study, specifying population, dates, units, status, sources and limitations. Do not fabricate values or use unlike measures on one axis. Preserve bilingual numeric equivalence.",
+    "Add traceable citations to specific editions/chapters/pages of Kissinger's three analyzed books or suitable specialist scholarship for the claims currently supported only by bibliographic listings. Distinguish the author's interpretation from the reviewer's assessment in both languages.",
+    "Support the Churchill 1940 and Campos 1944 comparison with appropriate independent primary archives or academic historiography; update both bibliographies and in-text references. Alternatively remove the unsupported cross-biographical comparison.",
+    "Recheck argument continuity and consolidate repeated stability-versus-rights conclusions if they do not advance new evidence. Preserve the canonical ID and slug, update both staged editions, increment pending revision, write pending v2 last, and resubmit for independent QA with new Git blob SHAs."
+  ],
+  "evidence": [
+    "Reviewed main HEAD 98aafb1850928bbe80f97d85394876131d08a8a2; pending Git blob de319f7ffc0af29e34fc9572c2869673b8a18dad; EN 2a6c1539ec89f5fb997e020e75e24936831e6b30; PT-BR e1fd980fc57ef9c8fc9f1c595270bf82f0f82ca2. All three blobs match the tree at the reviewed HEAD.",
+    "Exact deterministic expressions from scripts/validate-editorial-depth.mjs reproduced: EN 4,590 substantive words, PT-BR 5,055; 26 H2 sections per locale; 13 unique URLs and 8 source hosts per locale; 2 charts, 1 flow, 1 map, 12 Markdown table rows per locale; chart values match [[\"16\",\"15\",\"8\"],[\"6\",\"4\"]].",
+    "U.S. Department of State official biography independently confirms 1969-1975 National Security Adviser and 1973-1977 Secretary of State dates: https://history.state.gov/departmenthistory/people/kissinger-henry-a",
+    "National Security Archive original White House conversation of 1971-03-28 supports a specific claim about knowledge of East Pakistan atrocities and a decision against public condemnation: https://nsarchive.gwu.edu/document/33893-document-2-white-house-telcon-kissinger-nixon-conversation-archer-blood-genocide"
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "passed_for_checked_fields",
+      "notes": "Pending schema v2, ready true, revision 1, ID/slug/date/source paths consistent; program, dimensions, topics and phenomena belong to controlled taxonomy."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "notes": "All three Git blob SHAs checked against reviewed HEAD tree; no existing approval, rejection or public metadata for this slug."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 4590,
+      "pt_br_words": 5055,
+      "en_h2": 26,
+      "pt_br_h2": 26,
+      "source_urls_each": 13,
+      "distinct_hosts_each": 8,
+      "notes": "Meets script mechanical floors for nonweekly research; full Node scripts not executed."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Detailed book interpretations cite bibliography and table-of-contents records rather than primary book passages or scholarly analyses; two unrelated biographical claims cite Kissinger biographies."
+    },
+    "source_dates_and_attribution": {
+      "result": "failed",
+      "notes": "Official tenure dates and a 1971 White House conversation independently spot-checked; Churchill/Campos comparison has mismatched citations."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Discussion distinguishes strategic outcomes from civilian effects and asks bounded alternatives for Pakistan, Cambodia and Chile without assigning fabricated probabilities."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "EN/PT-BR maintain 26 analytical H2 sections, 13 identical source URLs and matched numeric chart arrays; defects occur in both locales."
+    },
+    "novelty_vs_corpus": {
+      "result": "partial",
+      "notes": "Biographical focus differs from the public index's 135 reports, but full corpus-wide semantic comparison is deferred until evidence defects are corrected."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "notes": "Two charts satisfy numeric count and bilingual parity but are decorative chronology/tenure graphics, not independent evidence of the central mechanisms."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Substantive visual evidence and claim-to-source traceability are insufficient; cannot approve for publication."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Full Node scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs require local repository checkout unavailable through this GitHub-connector runtime; exact editorial-depth expressions reproduced from script source."
+    }
+  },
+  "contrary_evidence": [
+    "Documented strategic agreements cannot be used to offset or erase civilian costs; the report generally separates these outcomes but its quantitative graphics do not test either.",
+    "Office duration is not a quantitative measure of effectiveness or individual control of a diplomatic outcome."
+  ],
+  "limitations": [
+    "Full Node validators not executed; mechanical checks do not replace qualitative visual and source audits.",
+    "Primary-source spot checks are selective; exhaustive claim-level validation required before any future approval.",
+    "No public reports, indexes, CSS, taxonomy, institutional copy or staged source content changed by this QA transaction."
+  ],
+  "notes": "Independent QA rejection; corrective work belongs to producer 3/5 (MT-SA strategic actor). No immediate execution of producer or publisher claimed. MT-WF-2026-10-19 already has an approved revision 0 and public metadata; not reprocessed."
+}
