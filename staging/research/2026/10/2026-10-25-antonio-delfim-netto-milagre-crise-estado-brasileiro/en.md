@@ -106,6 +106,30 @@ Brazilian inflation worsened through the end of military rule. Contracts, debt a
 
 The link to the PAEG indexation reforms is real but not exclusive. Rules designed to protect savings in the 1960s were modified by successive governments and operated in changing circumstances. No individual minister created every form of subsequent indexation; nor could a technical rule erase foreign liabilities. Macroeconomic instability reflected accumulated institutional and external pressures.
 
+## Wages, productivity and the unequal distribution of the boom
+
+A central question about the Brazilian miracle is the distance between rising output per worker and employees' capacity to obtain a share of productivity gains. Wage-adjustment formulas, some inherited from the previous administration, could produce real losses when actual inflation exceeded assumptions used in nominal increases. Industry expanded with greater access to credit and machinery utilization while wages were set under constraints on collective bargaining. Political and labour restrictions influenced workers' bargaining power. [3][5][9]
+
+Labour-market structure also mattered. Formal employees of large urban manufacturers faced different opportunities from informal workers, agricultural labourers and people in regions with weak infrastructure. Rural migration expanded the urban labour supply and increased pressure on housing, sanitation and transport. Industrialization created real opportunities for some groups while imposing precarious living conditions on others. The transformation of the labour force did not automatically equalize incomes.
+
+The growing-cake metaphor persisted because a promise of future distribution was not accompanied by an automatic institutional mechanism. Higher government revenue can pay for public services if budgets allocate it there; productivity can increase wages if bargaining and competition transmit the gains. Delfim's policy has to be tested against those concrete channels rather than an assumption that time alone spreads benefits.
+
+## Two ministries under different conditions: credit, energy and debt
+
+Delfim's expansionary years of 1967–1973 began with significant unused industrial capacity and relatively accessible international finance. In 1979, the economy faced higher costs for imported energy, substantial accumulated foreign liabilities and rising international interest rates. Similar rhetoric about stimulating output therefore confronted a different relationship between credit and potential supply. [3][11][12]
+
+Demand expansion may increase the use of existing factories, lowering average costs, when materials and finance remain readily available. Amid shortages of oil and dollars, the same stimulus can raise imports and weaken the external account. This does not mean one politician alone caused the later recession, but neither does it justify treating foreign shocks as the exclusive explanation. Decisions under Geisel, borrowing by state enterprises and private firms, lenders' behaviour and later policies at Planning all formed the balance-sheet exposure.
+
+The contrast illustrates the conditional nature of macroeconomic policy. Debt stocks and maturities constrain future cash flows; exports and reserves determine the ability to pay for imported inputs; productive capacity shapes the response to new demand. High growth in one cycle does not prove the same instruments will work under different constraints.
+
+## Technocratic networks and the limits of accountability
+
+Delfim maintained an influential network of economists trained in statistics, public finance, industry and credit. Shared methods made communication and policy coordination easier, but also concentrated the interpretation of evidence. University research can be contested in seminars and publications; under authoritarian government many citizens and political opponents faced restrictions on their ability to challenge administrative priorities. [6][7]
+
+Technical competence does not erase conflicts over who receives scarce resources. A ministry may favour banks and firms expected to generate exports while marginalizing smaller enterprises or regions. Subsidies and cheap credit require public criteria and outcome evaluation because they can also preserve inefficient privileges. Parliamentary oversight and a free press do not replace professional economics, but provide means of identifying errors, patronage and unconsented sacrifices.
+
+By 2026, parliamentary, university and dictatorship archives allow the scholar to distinguish Delfim's published hypotheses, the concrete choices of his two ministerial periods and the views expressed decades later. His political longevity does not make those decisions immune from scrutiny or turn his participation in repression into an incidental biographical detail.
+
 ## Democratization and five parliamentary terms
 
 Delfim left government in 1985 during the civilian transition and was elected to the Chamber of Deputies in 1986, joining the constitutional assembly of 1987–1988. The official parliamentary biography records five terms representing São Paulo, extending through early 2007, and participation in economic, financial and other commissions. A former military-regime minister became a political actor subject to elections, coalition negotiations and legislative scrutiny. [2]
