@@ -196,6 +196,14 @@ Chile and East Timor | Intervention and security relationships | Costs of anti-c
 Egypt, Israel and Syria | Shuttle diplomacy after war | Partial diplomatic settlements
 ```
 
+```chart
+type: bar
+title: Overlapping U.S. executive offices held by Kissinger
+unit: approximate nominal years in each office; overlapping appointments are not additive
+National Security Adviser 1969–1975 | 6
+Secretary of State 1973–1977 | 4
+```
+
 ## Documentary sources and bibliography
 
 [1] U.S. State Department, official biography: https://history.state.gov/departmenthistory/people/kissinger-henry-a
