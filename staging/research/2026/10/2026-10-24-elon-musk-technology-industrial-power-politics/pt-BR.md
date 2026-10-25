@@ -182,6 +182,15 @@ Europa e outras regiões atendidas | Veículos Tesla e redes Starlink | Dependê
 Washington, DC | Debate administrativo e DOGE | Autoridade pública distinta de liderança privada
 ```
 
+## Pesquisas relacionadas da série
+
+Os estudos compartilham interseções intelectuais, empresariais ou institucionais verificáveis. **Uma ligação temática não demonstra cadeia comum de comando.** A comparação com DOGE em Yarvin, o tecnocapital de Land, a ligação histórica com Thiel no PayPal e o debate da velocidade técnica.
+
+- [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
+- [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
+- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+- [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+
 ## Fontes e bibliografia
 
 [1] Tesla Investor Relations, biografia e cargos de Musk: https://ir.tesla.com/corporate/elon-musk
