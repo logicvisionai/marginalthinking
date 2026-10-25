@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "checked_at": "2026-10-25T05:00:00-03:00",
+  "scope": "All active editorial lines in canonical registry; primary-source screening, historical releases identified by date. No claim of exhaustive global negative evidence. Nonpublic editorial audit, not a public-system reconciliation.",
+  "registry_updated_at": "2026-10-20",
+  "reviewed_line_count": 21,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "staged_pending_qa",
+      "note": "MT-GM-2026-10-25 staged; Sunday Brazilian presidential runoff and Friday energy/US Treasury transmission; not approved."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "ICI 22 Oct fund-asset stock is covered in macro; no newly verified global wealth stock/control transfer."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "Brazilian election outcome not yet known; institutional transition cannot be asserted."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "Brazil institutional background informs macro; no new full country dossier warranted."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "IMF October GFSR AI concentration risk remains prior research context; no new demonstrated deployment or scale event verified."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "No new evidence of deployment, production scaling or capacity change at this cutoff."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Gulf maritime threats assessed as attributed claims, not verified production loss; no separate system study."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Election platforms and security statements are not evidence of new capital control or institutional capacity."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "US Treasury Oct 23 curve and ICI weekly money-market fund assets included; no independent monetary decision on Sunday."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "TSE voting procedure is operational election context, not a new institutional decision warranting standalone research."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "Policy promises require implementation and outcome data before causal case study."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "No novel implemented market design or monetary infrastructure change verified."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "Energy futures price and fund-asset stocks do not establish global beneficial ownership changes."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "No new audited reserve, sovereign-wealth or control inventory suitable for annual map."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "TSE/IEA/IMF frameworks checked for current mechanism; no new global institutional architecture."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "No verified new trade-bloc ratification or implemented regional settlement integration."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "No distinct causal evidence on AI, labor or social effects beyond already covered baseline."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "FAO 2 Oct food-price index and 23 Oct oil transport exposure noted; no new independently measured food availability or nutrition outcome."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "OECD Oct pesticide-residue consultation and EU Council Sept negotiating mandate remain proposals; no effective rule or quantified new exposure."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Reported Gulf security incidents and escalation claims not equated with verified deployments, damage or throughput; no speculative war forecast."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "WHO 2025 AMR surveillance remains baseline, not a new 25 Oct 2026 pandemic event; no independent fresh outbreak verification."
+    }
+  ],
+  "selected_additional_article": null,
+  "selection_reason": "Today's Global Macro is the only publication candidate with a distinct new event: Brazilian runoff occurs on 25 October. Other monitored items either belong in its cross-asset mechanism or lack a new primary-source causal delta; no duplicate thematic article.",
+  "screened_primary_sources": [
+    {
+      "institution": "TSE",
+      "date": "2026-10-25",
+      "url": "https://www.tse.jus.br/eleicoes/cde-2026",
+      "use": "election schedule and electorate"
+    },
+    {
+      "institution": "US Treasury",
+      "date": "2026-10-23",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+      "use": "nominal par yields"
+    },
+    {
+      "institution": "ICI",
+      "date": "2026-10-22",
+      "url": "https://www.ici.org/research/stats/mmf",
+      "use": "money-market assets, not manager allocation"
+    },
+    {
+      "institution": "FAO",
+      "date": "2026-10-02",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "use": "food commodity index vintage"
+    },
+    {
+      "institution": "OECD",
+      "date": "2026-10-02",
+      "url": "https://www.oecd.org/en/events/public-consultations/2026/10/second-commenting-round-of-the-revised-draft-guidance-on-the-definition-of-residue.html",
+      "use": "consultation, not implemented pesticide rule"
+    },
+    {
+      "institution": "WHO",
+      "date": "2025-10-13",
+      "url": "https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide",
+      "use": "prior-vintage AMR surveillance, not new outbreak"
+    }
+  ],
+  "limitations": [
+    "Sunday early cutoff: no runoff result, post-vote prices, or new weekend oil throughput measurement.",
+    "A screening pass does not certify absence of all possible events.",
+    "No independently verified new pandemic or chemical/biological attack evidence."
+  ]
+}
