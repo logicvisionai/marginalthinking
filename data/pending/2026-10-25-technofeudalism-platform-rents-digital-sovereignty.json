@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-10-25-TECHNOFEUDALISM",
+  "slug": "2026-10-25-technofeudalism-platform-rents-digital-sovereignty",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T14:45:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 45,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-25-technofeudalism-platform-rents-digital-sovereignty/en.md",
+      "title": "Technofeudalism: platforms, economic rents and digital sovereignty",
+      "deck": "Yanis Varoufakis, Evgeny Morozov and Cédric Durand on property, monopoly power, cloud capital, labor and democratic governance.",
+      "tags": [
+        "political economy",
+        "technology",
+        "institutions"
+      ],
+      "keywords": [
+        "Technofeudalism",
+        "platforms",
+        "economic",
+        "rents",
+        "and",
+        "digital",
+        "sovereignty"
+      ],
+      "regime": "Changing capital formation, ownership, institutional rules and distribution.",
+      "key_risk": "Confusing valuation, financing and control or accepting one theoretical interpretation as proven.",
+      "watch": [
+        "Primary sources",
+        "Observable economic and institutional effects",
+        "Competing explanatory models"
+      ],
+      "search_text": "Technofeudalism: platforms, economic rents and digital sovereignty Yanis Varoufakis, Evgeny Morozov and Cédric Durand on property, monopoly power, cloud capital, labor and democratic governance."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-25-technofeudalism-platform-rents-digital-sovereignty/pt-BR.md",
+      "title": "Tecnofeudalismo: plataformas, renda e soberania digital",
+      "deck": "Varoufakis, Morozov e Durand debatem propriedade, monopólio, capital de nuvem, trabalho e governança democrática.",
+      "tags": [
+        "economia política",
+        "tecnologia",
+        "instituições"
+      ],
+      "keywords": [
+        "Tecnofeudalismo",
+        "plataformas",
+        "renda",
+        "e",
+        "soberania",
+        "digital"
+      ],
+      "regime": "Transformação da formação de capital, propriedade, regras institucionais e distribuição.",
+      "key_risk": "Confundir valorização, financiamento e controle ou tomar uma interpretação teórica por fato.",
+      "watch": [
+        "Fontes primárias",
+        "Efeitos econômicos e institucionais observáveis",
+        "Modelos explicativos concorrentes"
+      ],
+      "search_text": "Tecnofeudalismo: plataformas, renda e soberania digital Varoufakis, Morozov e Durand debatem propriedade, monopólio, capital de nuvem, trabalho e governança democrática."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society",
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "capital-markets",
+    "technology-innovation",
+    "institutions-governance",
+    "industry-production",
+    "inequality-distribution",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "series": "economic-paradigms-market-design",
+  "series_domain": "economic-thought-policy-paradigms",
+  "producer_checks": {
+    "information_cutoff": "2026-10-25",
+    "research_depth": "At least 5,000 words in each language, with distinct argumentative sections and cited institutional sources.",
+    "visual_signature": "Bilingual numeric chart parity, tables, regional exposure maps and causal mechanisms.",
+    "source_check": "Primary and specialist references reviewed; independent QA pending.",
+    "editorial_status": "Producer completed and handed off to the separately governed QA and publisher process.",
+    "source_metrics": {
+      "en": {
+        "words": 5214,
+        "urls": 10,
+        "hosts": 9
+      },
+      "pt": {
+        "words": 5738,
+        "urls": 10,
+        "hosts": 9
+      }
+    }
+  }
+}
