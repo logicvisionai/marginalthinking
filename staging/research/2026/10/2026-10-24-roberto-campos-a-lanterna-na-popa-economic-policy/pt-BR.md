@@ -164,6 +164,12 @@ A escolha não é apenas tamanho grande ou pequeno do Estado. Projetos instituci
 
 O legado de Campos é mais esclarecedor nos pontos em que resiste a rótulos. Ele construiu crédito público de longo prazo, tentou estabilizar a moeda, defendeu correção financeira, aceitou ministério sob ditadura e promoveu liberalização num sistema democrático. Nenhuma palavra isolada mede os efeitos sociais. As consequências pertencem a trabalhadores, contribuintes, investidores e usuários, não somente ao estadista que escreveu sobre elas.
 
+## Bretton Woods, Churchill e Kissinger: dimensões de uma ordem do pós-guerra
+
+A participação de Campos em Bretton Woods, em 1944, ocorreu enquanto o governo Churchill e os Aliados ainda combatiam na Segunda Guerra. O sistema monetário do pós-guerra começou a ser desenhado antes do encerramento militar do conflito. O problema de Campos era diferente do enfrentado pelo primeiro-ministro britânico: países em industrialização precisavam de regras cambiais, crédito de desenvolvimento e acesso a moeda forte numa ordem financeira cada vez mais centrada nos Estados Unidos. [1]
+
+Décadas depois, Henry Kissinger escreveria sobre a diferença entre legitimidade política e distribuição de poder coercitivo. A carreira institucional de Campos sugere distinção equivalente em economia: participar formalmente de organizações internacionais não significa controlar em igualdade as fontes de crédito, a moeda de reserva ou as tecnologias industriais. Os dois atuaram em sistemas fortemente moldados por potências, mas em instituições e com objetivos diferentes. Não se atribui colaboração pessoal ou influência intelectual direta. A comparação mostra como vitória militar, criação de instituições econômicas e diplomacia da Guerra Fria integraram uma mesma transformação histórica.
+
 ## O lugar de Roberto Campos na história econômica brasileira
 
 Campos ajudou a construir mecanismos de crédito para industrialização, participou da formulação de reformas monetárias e trabalhistas e tornou-se referência na crítica aos custos de Estado empresarial. Seu percurso acompanha a passagem brasileira de uma economia com infraestrutura escassa a uma economia complexa, endividada e sujeita a crises inflacionárias. Não foi autor isolado do BNDE, do Plano de Metas ou do PAEG: governos, legisladores, técnicos, empresas, trabalhadores e instituições internacionais participaram de cada processo. [1][5][6]
