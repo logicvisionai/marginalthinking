@@ -163,18 +163,20 @@ The alternative hypothesis is that technological dynamism requires institutions 
 
 ```chart
 type: bar
-title: Dated periods between central published landmarks
-unit: elapsed years, not a measure of ideas' influence
-1987–2007 collected corpus span | 20
-2007–2012 later political essay interval | 5
+title: Mean microprocessor transistor count, log10 transformation (OWID historical series)
+unit: log10 of transistors per microprocessor, approximate; 1971 raw 2,308 and 2021 raw 58.2 billion
+1971 observed | 3.36
+2021 observed | 10.76
 ```
 
 ```chart
 type: bar
-title: Intellectual transition intervals between documented milestones
-unit: elapsed years between landmark publications
-2012 Dark Enlightenment to 2013 left manifesto | 1
-2013 left manifesto to 2023 techno-optimist manifesto | 10
+title: Electricity supply for data centres by generation source, world 2024 (IEA)
+unit: approximate % of supplied electricity, rounded shares not a complete total
+Coal | 30
+Renewables | 27
+Natural gas | 26
+Nuclear | 15
 ```
 
 ```flow
@@ -190,14 +192,15 @@ United States / Silicon Valley | Later technology and capital discussions | Rhet
 Online transnational sphere | Dark Enlightenment and e/acc circulation | Internet adoption does not prove direct mentorship
 ```
 
-## Connected research in this series
+## Documented empirical comparison
 
-The following studies share verifiable intellectual, business or institutional intersections. **A link between subjects is not evidence of a common command structure.** Yarvin's formalist sovereignty, Thiel's venture-political institutions, Musk's industrial development and the broader philosophical genealogy.
+## Technological acceleration depends on capital stock and electricity
 
-- [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
-- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
-- [Elon Musk](/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html)
-- [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
+A measurable technological trend is not evidence that capital is literally a self-governing intelligence. Our World in Data estimates mean microprocessor transistor counts of 2,308 in 1971 and 58.2 billion in 2021, corresponding to a roughly 2.03-year doubling time in its longer series. The logarithmic values shown in the first figure (log10 of the reported counts, rounded to two decimals) allow an exponential series to fit a readable scale. They do not measure model performance, labour productivity, political influence or consciousness. [17]
+
+The complementary constraint is physical energy. The IEA's 2025 estimate of the source mix of electricity consumed by data centres puts coal at approximately 30%, renewable electricity at 27%, gas at 26% and nuclear at 15% in 2024. These source shares are rounded and do not exhaust every generation source. This second distribution describes energy infrastructure, not the share of AI in total electricity and not the political effects of the CCRU. [18]
+
+Land's claim that technological and financial systems develop feedback beyond individuals gains a concrete analytical object when tested against chip manufacturing, power systems, mineral supply chains and investment. Yet documented improvements in transistor density cannot prove that governance, employment, environmental effects or inequality follow an autonomous destiny. Electricity availability and the legal organization of production make the apparently abstract process dependent on political and physical institutions.
 
 ## Sources and bibliography
 
@@ -232,3 +235,7 @@ The following studies share verifiable intellectual, business or institutional i
 [15] Andy Beckett, interview-based historical reconstruction, *Guardian*, 2017: https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in
 
 [16] Routledge, publisher's bibliographic record for Nick Land's *The Thirst for Annihilation* (1992): https://www.routledge.com/The-Thirst-for-Annihilation-Georges-Bataille-and-Virulent-Nihilism/Land/p/book/9780415056076
+
+[17] Our World in Data, Moore's law: mean microprocessor transistor count 1971 and 2021: https://ourworldindata.org/data-insights/moores-law-has-accurately-predicted-the-progress-in-transistor-counts-over-the-last-50-years
+
+[18] International Energy Agency, Energy and AI (2025), global energy supply for data centres: https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
