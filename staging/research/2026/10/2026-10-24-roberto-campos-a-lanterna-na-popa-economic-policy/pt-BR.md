@@ -94,6 +94,16 @@ Campos ocupou a embaixada brasileira em Londres durante os anos 1970 e o início
 
 O contraste é histórico, não apenas psicológico. Em meados do século, o problema principal frequentemente era a ausência de financiamento para infraestrutura, e o Estado surgia como coordenador; nos anos 1980 e 1990, endividamento, inflação, monopólios e baixa eficiência de determinados setores estimulavam crítica ao planejamento. A transformação da economia mundial, os limites do modelo brasileiro e as experiências pessoais de Campos podem explicar parte da mudança. A autobiografia a apresenta como coerência de longo prazo, embora a realidade tenha sido feita de escolhas institucionais contingentes.
 
+## Diretas Já e o Colégio Eleitoral em 1985
+
+Campos se posicionou contra a emenda Dante de Oliveira, que propunha eleições presidenciais diretas, em abril de 1984. Posteriormente apoiou Paulo Maluf no Colégio Eleitoral de 1985 e votou no candidato, segundo a biografia do CPDOC. Essas decisões distinguem a defesa de liberdades econômicas de seu posicionamento concreto durante a transição democrática, sem pressupor responsabilidade individual por todos os atos do regime. [1][17]
+
+## Cargos privados e disputa em torno da Hanna Mining
+
+Depois do ministério, Campos presidiu o InvestBanco em 1968. Segundo o CPDOC, em 1972 ocupou a presidência da Olivetti do Brasil e posição no conselho da Mercedes-Benz. A circulação entre administração, banco, consultoria e empresas explicita conflitos possíveis entre política econômica e interesses privados. [1][17]
+
+No caso Hanna Mining, adversários políticos alegaram interesses pessoais de Campos e de outros dirigentes devido a vínculos anteriores com a Consultec. O registro do CPDOC atribui tais alegações aos críticos, sem demonstrar conduta ilícita pessoal. O Congresso também examinou o setor mineral e relações comerciais por CPI. O episódio exige separar alegações, atos de investigação e fatos comprovados. [1][17]
+
 ## Constituição de 1988, privatização e dissenso econômico
 
 A Assembleia Constituinte de 1987–1988 ocorreu num cenário de democratização e de disputas sobre direitos sociais, regime fiscal, propriedade e desenvolvimento. Campos manteve posição crítica em relação a dispositivos que considerava excessivamente dirigistas e custosos. A Constituição ampliou garantias democráticas e direitos sociais após duas décadas de ditadura. O desacordo sobre a forma de financiá-los não altera seu papel na reconstrução de controle civil sobre o Estado. [1][2]
@@ -163,12 +173,6 @@ A defesa tardia de privatização por Campos pode ser entendida como reação a 
 A escolha não é apenas tamanho grande ou pequeno do Estado. Projetos institucionais diferem em incentivos, gasto fiscal, qualidade de serviços e responsabilização. Um governo pode deixar de operar diretamente uma atividade e, ao mesmo tempo, precisar fiscalizar contratos e impedir abusos de poder de mercado. Sem essas funções, a venda de monopólio estatal pode produzir monopólio privado em vez de concorrência.
 
 O legado de Campos é mais esclarecedor nos pontos em que resiste a rótulos. Ele construiu crédito público de longo prazo, tentou estabilizar a moeda, defendeu correção financeira, aceitou ministério sob ditadura e promoveu liberalização num sistema democrático. Nenhuma palavra isolada mede os efeitos sociais. As consequências pertencem a trabalhadores, contribuintes, investidores e usuários, não somente ao estadista que escreveu sobre elas.
-
-## Bretton Woods, Churchill e Kissinger: dimensões de uma ordem do pós-guerra
-
-A participação de Campos em Bretton Woods, em 1944, ocorreu enquanto o governo Churchill e os Aliados ainda combatiam na Segunda Guerra. O sistema monetário do pós-guerra começou a ser desenhado antes do encerramento militar do conflito. O problema de Campos era diferente do enfrentado pelo primeiro-ministro britânico: países em industrialização precisavam de regras cambiais, crédito de desenvolvimento e acesso a moeda forte numa ordem financeira cada vez mais centrada nos Estados Unidos. [1]
-
-Décadas depois, Henry Kissinger escreveria sobre a diferença entre legitimidade política e distribuição de poder coercitivo. A carreira institucional de Campos sugere distinção equivalente em economia: participar formalmente de organizações internacionais não significa controlar em igualdade as fontes de crédito, a moeda de reserva ou as tecnologias industriais. Os dois atuaram em sistemas fortemente moldados por potências, mas em instituições e com objetivos diferentes. Não se atribui colaboração pessoal ou influência intelectual direta. A comparação mostra como vitória militar, criação de instituições econômicas e diplomacia da Guerra Fria integraram uma mesma transformação histórica.
 
 ## O lugar de Roberto Campos na história econômica brasileira
 
