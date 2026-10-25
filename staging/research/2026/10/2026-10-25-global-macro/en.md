@@ -44,7 +44,7 @@ Several falsifiable observations follow. A fiscal announcement with an identifie
 
 ## The oil shock is a shipping and delivery mechanism, not a verified loss of production
 
-Historical exchange-price records report Friday's **Brent settlement at $116.72**, a **$3.55 daily increase**, and **WTI at $103.27**, up **$3.80**. The **$13.45 per barrel** difference is the arithmetic spread between two benchmarks, not an independently measured Hormuz risk premium. Contract specifications, crude quality, geography and freight all affect that gap. The International Energy Agency's October Oil Market Report provides a prior-vintage framework for production, refining and inventories, not verification of a Friday trade. [4][5]
+Historical market-price records for Brent and WTI report Friday's **Brent settlement at $116.72**, a **$3.55 daily increase**, and **WTI at $103.27**, up **$3.80**. [15] The **$13.45 per barrel** difference is the arithmetic spread between two benchmarks, not an independently measured Hormuz risk premium. Contract specifications, crude quality, geography and freight all affect that gap. The International Energy Agency's October Oil Market Report provides a prior-vintage framework for production, refining and inventories, not verification of a Friday trade. [4][5]
 
 ```chart
 type: bar
@@ -125,3 +125,5 @@ Two transmission risks dominate: an independently verified maritime supply inter
 [13] Ministry of Planning and Budget, Multi-Year Plan four-year cycle: https://www.gov.br/planejamento/pt-br/assuntos/planejamento/planoplurianual
 
 [14] Central Bank of Brazil, autonomy framework under Complementary Law 179/2021: https://www.bcb.gov.br/acessoinformacao/autonomia
+
+[15] Investing.com, CME WTI futures historical prices, 23 Oct 2026 (secondary market-price record): https://www.investing.com/commodities/crude-oil-historical-data?cid=1178037
