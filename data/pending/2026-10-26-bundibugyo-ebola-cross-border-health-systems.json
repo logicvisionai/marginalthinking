@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PH-2026-10-26-ebola-response",
+  "slug": "2026-10-26-bundibugyo-ebola-cross-border-health-systems",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T05:23:05-03:00",
+  "kind": "pandemic-social-economic-preparedness",
+  "priority": 35,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "infrastructure-logistics",
+    "social-change"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "migration-displacement",
+    "social-change"
+  ],
+  "format": "assessment",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "signal_rationale": "WHO 23 October 2026 confirmed Nigeria's imported case and Kenya's traced cluster, while DRC contact-follow-up, community deaths and vaccine trial launch provide new institutional and socioeconomic evidence.",
+  "key_constraints": [
+    "DRC insecurity and disrupted access",
+    "contact follow-up below WHO target",
+    "no approved Bundibugyo vaccine or specific therapy",
+    "financing includes planned amounts"
+  ],
+  "producer_checks": {
+    "research_depth": "EN 2135 and PT-BR 2303 substantive words, eight analytical headings, 12 primary source URLs and five source hosts.",
+    "visual_signature": "Two quantitative charts, table, map and flow in both languages, identical chart data.",
+    "information_cutoff": "WHO DON622 published 23 Oct with observations to 20 Oct; CDC 24 Oct; financing and UNICEF releases dated separately.",
+    "source_shas": {
+      "en": "04f7f1bec8e11ff100d124f6994e2a068821c715",
+      "pt-BR": "a7a32d92dcf8d030e5c1edf47db934f65cc3afe0"
+    }
+  },
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-26-bundibugyo-ebola-cross-border-health-systems/en.md",
+      "title": "Ebola crosses borders while eastern Congo's response capacity remains the decisive constraint",
+      "deck": "WHO documents 9,704 DRC cases and imported cases in Kenya and Nigeria; contact tracing, essential services and financing delivery shape the socioeconomic consequences.",
+      "tags": [
+        "Ebola",
+        "Bundibugyo",
+        "DRC",
+        "Kenya",
+        "Nigeria",
+        "health security",
+        "humanitarian financing"
+      ],
+      "keywords": [
+        "WHO DON622",
+        "9704 confirmed cases 4687 deaths",
+        "October 2026 Ebola",
+        "contact tracing 79.7 percent",
+        "Bundibugyo vaccine trial"
+      ],
+      "regime": "Imported cases without documented generalized cross-border spread, amid sustained DRC transmission and uneven response coverage.",
+      "key_risk": "Unlinked clusters and interruptions to routine care outpace tracing and delivered response capacity.",
+      "watch": [
+        "Contact follow-up versus 95% target",
+        "Unlinked cases in Kenya or Nigeria",
+        "Deaths outside treatment centres",
+        "Financing converted into verified operations"
+      ],
+      "search_text": "Ebola crosses borders while eastern Congo's response capacity remains the decisive constraint WHO documents 9,704 DRC cases and imported cases in Kenya and Nigeria; contact tracing, essential services and financing delivery shape the socioeconomic consequences. Ebola Bundibugyo 2026 WHO World Bank UNICEF DRC Kenya Nigeria"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-26-bundibugyo-ebola-cross-border-health-systems/pt-BR.md",
+      "title": "Ebola atravessa fronteiras enquanto a capacidade de resposta no leste do Congo continua decisiva",
+      "deck": "OMS registra 9.704 casos na RDC e casos importados no Quênia e na Nigéria; rastreamento, serviços essenciais e execução financeira determinam consequências socioeconômicas.",
+      "tags": [
+        "Ebola",
+        "Bundibugyo",
+        "RDC",
+        "Quênia",
+        "Nigéria",
+        "segurança sanitária",
+        "financiamento humanitário"
+      ],
+      "keywords": [
+        "OMS DON622",
+        "9704 casos confirmados 4687 mortes",
+        "Ebola outubro 2026",
+        "rastreamento 79,7 por cento",
+        "ensaio vacinal Bundibugyo"
+      ],
+      "regime": "Casos importados sem disseminação transfronteiriça generalizada comprovada, em meio à transmissão persistente na RDC e cobertura desigual.",
+      "key_risk": "Novos grupos sem vínculo e interrupções da assistência básica superarem o rastreamento e a capacidade operacional entregue.",
+      "watch": [
+        "Cobertura do rastreamento ante a meta de 95%",
+        "Casos sem vínculo no Quênia ou na Nigéria",
+        "Mortes fora dos centros de tratamento",
+        "Financiamento convertido em operações verificadas"
+      ],
+      "search_text": "Ebola atravessa fronteiras enquanto a capacidade de resposta no leste do Congo continua decisiva OMS registra 9.704 casos na RDC e casos importados no Quênia e na Nigéria; rastreamento, serviços essenciais e execução financeira determinam consequências socioeconômicas. Ebola Bundibugyo 2026 WHO World Bank UNICEF DRC Kenya Nigeria"
+    }
+  }
+}
