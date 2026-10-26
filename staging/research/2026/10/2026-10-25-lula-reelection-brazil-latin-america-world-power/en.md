@@ -2,7 +2,7 @@
 
 The projected re-election of Luiz Inácio Lula da Silva in Brazil's presidential runoff on 25 October 2026 has significance beyond the continuity of one administration. It brings together three long-running conflicts: the ability of a profoundly unequal society to change and renew its government through elections, disagreement over the role of the state in production and social welfare, and the position of a major Latin American economy amid increasingly intense competition between the United States and China. Lula's projected defeat of Flávio Bolsonaro, the political heir of former president Jair Bolsonaro's movement, takes place in a fragmented electorate and alongside a newly elected Congress whose balance of forces is substantially different from that of the presidential contest. [1][2][3]
 
-Datafolha projected Lula's victory on election night. At the moment of its projection, with 86.41% of polling sections counted, Lula held 51.45% of valid votes against Flávio Bolsonaro's 48.55%. Those figures described the provisional count and the basis for a projection, not the fully finalized official result. The first-round result already showed the extraordinary competitiveness of the opposition: Flávio Bolsonaro received 47.03% of valid votes on 4 October, ahead of Lula's 45.16%. The reversal in the runoff suggests that turnout and the decisions of voters outside the two leading blocs were consequential; precise attribution requires individual-level or longitudinal evidence rather than an inference from totals alone. [1][2]
+Datafolha projected Lula's victory on election night. At the moment of its projection, with 86.41% of polling sections counted, Lula held 51.45% of valid votes against Flávio Bolsonaro's 48.55%. Those figures described the provisional count and the basis for a projection, not the fully finalized official result. At 9:26 p.m. Brasília time, the TSE's directly published tally recorded **99.87% of polling sections counted**, with **64,144,599 votes (51.76%) for Lula** and **59,774,442 (48.24%) for Flávio Bolsonaro**. The margin exceeded 4.37 million votes and made the outcome mathematically irreversible given the 658 sections outstanding, even though complete tabulation and subsequent formal procedures remain distinct events. [20] The first-round result already showed the extraordinary competitiveness of the opposition: Flávio Bolsonaro received 47.03% of valid votes on 4 October, ahead of Lula's 45.16%. The reversal in the runoff suggests that turnout and the decisions of voters outside the two leading blocs were consequential; precise attribution requires individual-level or longitudinal evidence rather than an inference from totals alone. [1][2]
 
 A presidential election authorizes an executive government without delivering ownership of the entire political system. The Liberal Party, or PL, elected 121 of the 513 deputies who will take office in 2027, while the Workers' Party–Communist Party–Green Party federation elected 88. Conservative, centrist, regionally anchored and economically liberal factions retain powerful legislative influence. Re-election, governing capacity and political hegemony are therefore distinct outcomes. The durability of Lula's next administration will depend on negotiated laws, credible fiscal choices and the preservation of legitimate opposition as much as on the result of the presidential ballot. [3][4]
 
@@ -278,6 +278,8 @@ The historical significance of Lula's projected 2026 re-election will ultimately
 | Jair Bolsonaro in presidential runoff | 2022 | 49.10% | Final TSE result |
 | Flávio Bolsonaro in presidential first round | 2026 | 47.03% | TSE first-round count |
 | Lula in presidential first round | 2026 | 45.16% | TSE first-round count |
+| Lula, second-round count | 25 Oct 2026, 21:26 | 51.76% | TSE, 99.87% counted, 64,144,599 votes |
+| Flávio Bolsonaro, same count | 25 Oct 2026, 21:26 | 48.24% | TSE, 99.87% counted, 59,774,442 votes |
 | Lula in election-night runoff snapshot | 25 Oct 2026 | 51.45% | Provisional result at 86.41% counted; Datafolha victory projection |
 | Flávio Bolsonaro in that snapshot | 25 Oct 2026 | 48.55% | Same count and methodology |
 | PL seats in Chamber | 2026 | 121 | Newly elected 2027 legislature |
@@ -301,6 +303,15 @@ title: Party groups elected to Brazil's Chamber in 2026
 unit: federal deputies
 PL | 121
 PT-PCdoB-PV Federation | 88
+```
+
+
+```chart
+type: bar
+title: 2026 presidential runoff, official TSE count at 9:26 p.m.
+unit: % of valid votes
+Lula | 51.76
+Flávio Bolsonaro | 48.24
 ```
 
 ```flow
@@ -380,3 +391,5 @@ The 2026 election and Brazilian political power
 [18] European Parliament Research Service, *Brazil ahead of the 2026 elections*, September 2026: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/09/EPRS_BRI%282026%29791522.html?locale=EN
 
 [19] World Bank, *Poverty & Equity Brief: Brazil*, October 2025: https://documents1.worldbank.org/curated/en/099516404212531759/pdf/IDU-219d2fbb-9fdf-4efb-8504-5addb6c841fd.pdf
+
+[20] Brazil's Superior Electoral Court, public 2026 presidential runoff tally file, 25 October 2026 at 21:26, 99.87% of polling sections: https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json
