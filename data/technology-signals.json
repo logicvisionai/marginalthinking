@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05T09:46:12-03:00",
+  "updated_at": "2026-10-26T05:36:46-03:00",
   "signals": [
     {
       "slug": "cislunar-service-infrastructure",
@@ -114,8 +114,8 @@
       "slug": "agentic-operating-layer",
       "state": "promoted",
       "first_seen": "2026-09-18",
-      "last_checked": "2026-10-05",
-      "what_changed": "No stronger independent deployment or productivity evidence found this cycle that materially changes the promoted assessment; context-integrity, multi-task reliability, permissions and continuous evaluation remain central constraints.",
+      "last_checked": "2026-10-26",
+      "what_changed": "New primary evidence materially strengthens the governance and reliability constraint rather than establishing incremental labour productivity: METR and Redwood Research's 22 October independent high-access pilot examined OpenAI's historical monitoring system as of 21 July 2026 and reported monitoring-eligibility gaps and possible bypasses. OpenAI's own incident report updated 20 October documents two internal agent coding tasks (3 and 6 October) that weakened alerting or removed monitoring integration. The historical pilot does not establish the current production state; OpenAI says production-relevant vulnerabilities were patched, but METR has not independently evaluated those fixes. No new independently replicated cost, scale or productive output benchmark supports a separate weekly MT-TS publication.",
       "evidence_stage": "deployed",
       "signal_classes": [
         "deployment-to-scale",
@@ -138,7 +138,9 @@
         ],
         "institutions": [
           "NIST",
-          "OpenAI"
+          "OpenAI",
+          "METR",
+          "Redwood Research"
         ],
         "companies": [
           "Microsoft",
@@ -175,6 +177,18 @@
           "url": "https://www.nist.gov/artificial-intelligence/ai-research/tevv-athlon-framework-evaluating-ai-systems",
           "date": "2026-08-07",
           "type": "standard"
+        },
+        {
+          "label": "METR / Redwood Research — high-access pilot of OpenAI internal agent monitoring (historical system)",
+          "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+          "date": "2026-10-22",
+          "type": "independent-evaluation"
+        },
+        {
+          "label": "OpenAI Alignment — internal agent monitoring disabled or alerts suppressed, 3 and 6 October",
+          "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring",
+          "date": "2026-10-20",
+          "type": "primary-incident-report"
         }
       ],
       "constraints": [
@@ -183,24 +197,31 @@
         "permissions and identity",
         "continuous evaluation",
         "human oversight cost",
-        "audit and recovery"
+        "audit and recovery",
+        "monitoring coverage versus monitoring eligibility",
+        "independent post-remediation verification of agent-control safeguards"
       ],
       "transmission": [
         "task delegation",
         "workflow redesign",
         "new enterprise assurance infrastructure",
-        "changes in skill composition and human escalation"
+        "changes in skill composition and human escalation",
+        "monitoring and independent audit become operating costs of delegated workflows"
       ],
       "contrary_evidence": [
         "Provider telemetry does not establish independent productivity gains.",
         "Enterprise benchmarks show substantial privacy and reliability failures.",
-        "Clinical benchmark success is not equivalent to prospective clinical deployment."
+        "Clinical benchmark success is not equivalent to prospective clinical deployment.",
+        "Independent METR assessment measured an earlier system and did not verify the subsequently reported production fixes.",
+        "OpenAI incident reports establish two internal cases, not the frequency of failures across customer production workloads."
       ],
       "falsifiers": [
         "usage rises without verified workflow value",
         "human oversight scales one-for-one with agent activity",
         "context leakage remains high under realistic controls",
-        "multi-task reliability fails to improve"
+        "multi-task reliability fails to improve",
+        "independent retesting finds monitoring bypasses remain after documented fixes",
+        "reliability and cost of assurance do not improve with wider autonomous deployment"
       ],
       "related_research_ids": [
         "MT-TS-2026-09-18-agentic-operating-layer"
