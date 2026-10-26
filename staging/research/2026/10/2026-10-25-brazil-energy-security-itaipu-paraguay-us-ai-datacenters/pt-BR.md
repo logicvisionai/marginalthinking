@@ -208,3 +208,364 @@ O Paraguai poderá reter parte do valor por meio de construção, serviços elé
 
 A economia política deve comparar **custo de oportunidade da eletricidade**: qual seria o uso alternativo do bloco de potência, que investimentos na rede seriam necessários, que carga local pode deixar de ser atendida e como novas receitas financiarão benefícios duráveis? Sem esse exame, slogans de “soberania digital” podem encobrir simples subsídio a eletricidade de compradores muito capitalizados.
 
+## 26. A ANDE, as tarifas paraguaias e o problema do contrato desconhecido
+
+A **Administración Nacional de Electricidad (ANDE)** responde pelo fornecimento de energia aos consumidores paraguaios segundo normas nacionais e instrumentos ligados ao tratado. A tabela oficial de tarifas da instituição lista categorias de consumo intensivo, tarifas para indústrias eletrointensivas e grupos especiais, inclusive tecnologias avançadas. A existência dessas categorias mostra que a atração de grandes cargas não ocorre em vazio regulatório. [24]
+
+Entretanto, a comunicação pública da parceria Crusoe–Araico até 25 de outubro de 2026 não forneceu conjunto completo de documentos capazes de determinar a tarifa efetiva do projeto, quem arcará com reforços de rede, garantias de potência, penalidades, eventual prioridade de despacho ou cronograma de carga. A imprensa paraguaia procurou informações da ANDE sem obter, naquele momento, resposta sobre os termos contratuais. Essa ausência pública de documentação não prova que exista ilegalidade, mas constitui lacuna importante para fiscalização. [25]
+
+O foco institucional deve ser solicitar estudos de conexão, classificação tarifária, processo de aprovação e direitos dos consumidores existentes. Se um grande campus obtiver energia muito abaixo do custo incremental, alguém absorverá a diferença; se pagar tarifa que remunere rede e serviço e ainda gerar capacidade industrial, o projeto pode ser economicamente benéfico. Sem contratos, qualquer dos julgamentos é prematuro.
+
+## 27. Energia barata, subsídios e a transferência indireta de riqueza
+
+O preço da eletricidade inclui mais do que seu custo de geração em uma hidrelétrica amortizada. São necessários investimentos em transformadores, subestações, transmissão, reserva operativa, compensação de potência reativa, perdas e serviços de confiabilidade. Se um grande consumidor pagar apenas por energia e sua conexão exigir investimentos socializados, sua conta privada pode não refletir custo total ao sistema.
+
+Também é possível que um consumidor de carga estável melhore utilização de infraestrutura ou viabilize investimento que não seria realizado sem contrato longo. O custo marginal pode variar segundo horários e localização; uma nova carga perto de uma usina não necessariamente dispensa rede robusta nem gera benefício automaticamente. O resultado depende de fluxo de potência, contingências e exigências de qualidade.
+
+A política pública precisa publicar relação entre tarifas ofertadas, custos incrementais e receitas tributárias esperadas, sem revelar segredos comerciais desnecessários. Em empreendimentos internacionalizados, é igualmente importante acompanhar preços entre empresas relacionadas e onde os serviços digitais serão faturados. Eletricidade local pode produzir receitas no exterior quando propriedade intelectual e contratos globais pertencem a operador estrangeiro.
+
+## 28. REDATA: a resposta industrial brasileira em 2026
+
+O Brasil aprovou a **Lei nº 15.504, de 15 de setembro de 2026**, instituindo o **Regime Especial de Tributação para Serviços de Datacenter (Redata)**. A lei concede incentivos tributários para equipamentos e exige contrapartidas em sustentabilidade, investimento e atendimento ao mercado nacional. O governo associa a política à atração de infraestrutura de IA e à redução da dependência de serviços digitais externos. [26][27]
+
+Segundo o Ministério da Fazenda, os participantes devem direcionar em regra **ao menos 10% da capacidade de serviços ao mercado interno**, realizar investimentos correspondentes a **2% do valor de bens beneficiados**, contratar ou autoproduzir energia limpa para atender sua demanda e observar indicador de eficiência hídrica de **até 0,05 litro/kWh**. A norma contempla adequações regionais e condições regulamentares específicas que não podem ser ignoradas em comparação de incentivos. [27]
+
+O Redata não demonstra que o Brasil superará automaticamente o Paraguai na atração de data centers. Tarifas efetivas, custo dos equipamentos, disponibilidade de energia firme, tributos, latência de comunicação, segurança jurídica, conectividade e custo de capital continuam decisivos. A comparação também não deve presumir que todos os projetos paraguaios recebam incentivos idênticos aos brasileiros.
+
+## 29. A demanda potencial de data centers e a diferença entre pedido e consumo
+
+A EPE informou que os projetos com solicitação de conexão à rede brasileira somavam aproximadamente **9 GW até 2035**, segundo levantamento de setembro de 2024, e cresceram para cerca de **15,7 GW até 2037** na atualização de fevereiro de 2025. A expansão das solicitações revela interesse, mas não equivale a usinas de computação contratadas, construídas e operando em carga nominal. Parte dos projetos pode ser revista, cancelada ou competir pelo mesmo acesso. [28]
+
+Se hipoteticamente **15,7 GW** fossem consumidos de maneira contínua, a energia correspondente seria **137,5 TWh anuais**, escala materialmente relevante diante dos **667,8 TWh de consumo final de eletricidade do Brasil em 2025**. Esse é limite aritmético, não previsão da EPE de consumo realizado. Eficiência energética, fatores de utilização, etapas de implantação e diferenças entre potência solicitada e carga de TI mudariam o cálculo. [7][28]
+
+A concentração regional também importa. Uma nova instalação pode demandar subestações, linhas e geração de suporte justamente onde a rede já enfrenta restrições. A simples abundância nacional de parques eólicos no Nordeste não garante entrega instantânea a centros de dados em São Paulo. O planejamento deve relacionar localização, carga horária e custo de transmissão.
+
+## 30. Data centers como consumidores inflexíveis e infraestrutura crítica
+
+Uma operação de nuvem e IA precisa assegurar continuidade para preservar contratos e integridade dos serviços. Alguns trabalhos podem ser deslocados entre regiões ou horas de preço baixo, mas processamento em tempo real e aplicações de baixa latência exigem padrões de disponibilidade mais rígidos. Uma instalação pode combinar tarefas flexíveis e inflexíveis; tratá-la como carga inteiramente adaptável seria imprudente.
+
+Do ponto de vista do sistema elétrico, a demanda contínua pode ajudar a absorver geração renovável em certos horários, mas também aumentar pressão durante escassez hidrológica e períodos de ponta. Sua participação em programas de resposta da demanda, armazenamento e autoprodução pode reduzir custos, desde que a flexibilidade seja verificável e remunerada de forma transparente.
+
+A segurança do data center exige redundância elétrica, resfriamento, proteção contra incêndio, fibras, sistemas cibernéticos e reservas de equipamento. O consumo de energia não constitui seu único impacto; água, geradores de emergência, descarte de calor e equipamentos eletrônicos também geram custos locais e riscos operacionais.
+
+## 31. Inteligência artificial e competição por eletricidade de baixa emissão
+
+Modelos de linguagem, simulações científicas e serviços de nuvem usam processadores cujo desempenho e consumo dependem de hardware, arquitetura, técnicas de treinamento e taxa de utilização. A demanda mundial de computação incentiva empresas a buscar países com energia relativamente barata, baixa intensidade de carbono e disponibilidade de terreno e infraestrutura.
+
+Um data center perto de Itaipu oferece narrativa comercial atraente: eletricidade hidrelétrica associada a um empreendimento de grande escala. Contudo, contratos e medições precisam confirmar a origem e o impacto marginal do fornecimento, especialmente em sistemas interligados nos quais deslocar energia de um consumidor pode induzir geração por outra fonte. O selo de energia renovável não resolve automaticamente emissões adicionais do sistema.
+
+A proximidade da fonte também não garante soberania digital ao país anfitrião. Empresas podem manter controle do software, das chaves de criptografia, do treinamento de modelos e das receitas de nuvem fora do território. O governo deve distinguir localizar computadores no país de adquirir autonomia científica, tecnológica e jurídica sobre sistemas que deles dependem.
+
+## 32. Curtailment: por que energia excedente pode ser desperdiçada em um país renovável
+
+O Brasil enfrenta episódios de **restrição de geração eólica e solar**, conhecidos como *curtailment*. O Operador Nacional do Sistema e a ANEEL passaram a aperfeiçoar regras para gerenciar excesso de geração, limitações de escoamento e requisitos elétricos. Em outubro de 2026, a ANEEL aprovou nova ordem para cortes obrigatórios associados, entre outras causas, à sobreoferta energética. [29][30]
+
+Quando o sistema precisa limitar geração em determinado horário, a energia potencial que não foi produzida não fica automaticamente armazenada para o período noturno. O valor de novas cargas dependerá de sua capacidade de consumir justamente em áreas e horas com excesso. Data centers que funcionam continuamente não solucionam, por si só, o descompasso sazonal ou horário sem armazenamento e flexibilidade.
+
+O fenômeno demonstra que abundância de fontes renováveis pode coexistir com custos elevados e restrições operativas. A solução envolve transmissão, controle de tensão, resposta da demanda, armazenamento, previsão meteorológica e desenho tarifário coerente. Conceder energia barata a um campus que não alivie a restrição relevante pode piorar o resultado econômico.
+
+## 33. Hidrologia do Paraná: segurança contra estiagem e excesso de chuva
+
+A geração de Itaipu depende da vazão que chega ao reservatório, da operação das usinas a montante e das condições da bacia. Alterações climáticas e de uso do solo podem modificar riscos de estiagem, extremos pluviométricos e erosão. Um reservatório hidrelétrico não produz água; converte parte de sua energia potencial em eletricidade conforme condições físicas e operativas.
+
+Em **23 de outubro de 2026**, a Itaipu Binacional informou ações de redução estratégica do nível do reservatório diante de previsão de chuvas intensas e possibilidade de acumulados superiores a **300–350 mm** em pontos da bacia. O objetivo comunicado era moderar defluências e reduzir risco de coincidência dos picos de cheia do Paraná e do Iguaçu. Trata-se de risco de **inundação e gestão hidráulica**, não de escassez de energia nem ataque estrangeiro. [31]
+
+A segurança energética precisa conciliar geração, prevenção de cheias, manutenção de barragens e proteção de ribeirinhos. Em determinados momentos, verter água é obrigação de segurança e não desperdício causado por incapacidade industrial. O planejamento deve evitar interpretações que punam operadores por priorizar vida humana ou estabilidade hidráulica.
+
+## 34. As secas, a complementaridade das fontes e a resiliência do SIN
+
+Secas regionais podem reduzir produção hidrelétrica, elevar custos marginais e exigir maior despacho térmico. Uma matriz majoritariamente hídrica apresenta vulnerabilidade à hidrologia, mitigada parcialmente pela diversidade geográfica de reservatórios, integração de sistemas e outras fontes. Eólicas e solares reduzem consumo de água dos reservatórios em certos períodos, mas não substituem automaticamente potência firme no pico noturno.
+
+A expansão de armazenamento, linhas de interligação e gerenciamento da demanda pode reduzir exposição a eventos climáticos. A complementaridade de eólicas do Nordeste, solar e hidrelétricas deve ser avaliada em séries temporais e eventos extremos, não somente em médias anuais. O custo de uma alternativa depende de sua contribuição à segurança em horas críticas.
+
+A crescente carga de data centers exige atenção especial à coincidência com períodos hidrologicamente difíceis. O planejamento de Itaipu, as regras nacionais e a programação de novos empreendimentos precisam considerar cenários de vazão baixa e alta demanda, e não assumir repetição da produção favorável observada em 2025.
+
+## 35. Transmissão como infraestrutura tão estratégica quanto a barragem
+
+A energia de Itaipu chega ao Brasil mediante sistemas de transmissão interligados e estações adequadas às diferentes frequências. O aproveitamento do potencial depende dessas linhas, transformadores, sistemas de compensação e dispositivos de proteção. Falha em um corredor de transmissão pode ter efeito amplo mesmo que as turbinas permaneçam operacionais.
+
+A construção e modernização de linhas exigem licenciamento, servidões, aço, transformadores e equipamentos de controle frequentemente sujeitos a mercados globais. A dependência de componentes importados é forma de exposição geopolítica distinta do contrato de energia entre Estados. Ela pode tornar prolongada a recuperação de falhas quando equipamentos possuem longos prazos de entrega.
+
+Redundância deve ser calculada para contingências plausíveis, equilibrando custo e segurança. Duplicar toda a infraestrutura sem critério não é economicamente eficiente; operar sem peças críticas ou planos de reposição também é perigoso. Reguladores e operadores precisam acompanhar confiabilidade, manutenção e disponibilidade real.
+
+## 36. Eventos climáticos extremos e quedas de torres em 2026
+
+Em outubro de 2026, o ONS comunicou que tempestades associadas ao El Niño haviam danificado extensamente torres de transmissão em várias regiões desde o inverno. Informações divulgadas à imprensa apontaram **mais de 290 estruturas afetadas**, com concentração no Sul; apesar das ocorrências, o operador avaliou que a resposta do sistema preservou a maior parte do atendimento. [32]
+
+Esse evento demonstra a diferença entre vulnerabilidade física e apagão sistêmico. Uma rede resiliente pode perder elementos e ainda abastecer consumidores por rotas alternativas, desde que proteções e reservas operem adequadamente. Por outro lado, os custos de recuperação, segurança do pessoal e reposição de equipamentos permanecem relevantes.
+
+A análise de ameaças deve dar prioridade a fatores observados — tempestades, incêndios, manutenção, vandalismo e falhas técnicas — sem negligenciar sabotagem ou ataques deliberados quando existirem evidências. Atribuir cada falha a ingerência externa não melhora a proteção e pode induzir políticas de defesa mal dimensionadas.
+
+## 37. Segurança cibernética de usinas, subestações e data centers
+
+Infraestrutura elétrica moderna utiliza sistemas de supervisão, proteção, comunicação e automação que ampliam eficiência e controle. Também aumenta a superfície potencial de ataque digital se redes corporativas, fornecedores e operações industriais não estiverem devidamente segmentados. Um incidente pode afetar disponibilidade ou integridade das informações sem causar necessariamente perda física da geração.
+
+A criticidade de Itaipu exige atenção a gestão de acesso, atualização controlada, verificação de fornecedores, recuperação offline, monitoramento de anomalias e coordenação entre equipes binacionais. Essas práticas devem ser implantadas sem expor detalhes operacionais sensíveis em materiais públicos. A segurança industrial é responsabilidade contínua, não simples aquisição de software.
+
+A presença de data centers amplia conexões comerciais e tráfego digital próximos à infraestrutura energética, mas não prova que computadores empresariais serão conectados aos sistemas de controle da usina. O projeto deve manter separação física e lógica adequada entre rede elétrica, automação da geração e serviços privados de computação.
+
+## 38. O Exército Brasileiro e a proteção de infraestrutura estratégica
+
+As Forças Armadas possuem missão constitucional de defesa do território e podem integrar planejamento de contingências para instalações de importância nacional. Isso não transforma todo contrato elétrico em matéria militar nem afasta competências de autoridades civis, reguladores e operadores. A segurança cotidiana depende de proteção física, inteligência, coordenação com polícias e resposta a emergências.
+
+A presença de Itaipu na fronteira exige cooperação de Brasil e Paraguai para evitar incidentes e proteger trabalhadores e população. Uma operação unilateral em território do outro país teria consequências jurídicas e diplomáticas graves. A lógica de defesa preventiva deve privilegiar comunicação e protocolos bilaterais.
+
+Interesses norte-americanos em data centers não devem ser confundidos com mobilização de tropas contra a barragem. Risco armado interestatal exigiria evidência de intenções e meios militares que não aparece nos anúncios de outubro de 2026. A prioridade verificável inclui resiliência da rede, segurança física, controle de acesso e preparação para catástrofes naturais.
+
+## 39. A política energética como instrumento de influência econômica
+
+Um país ou empresa pode exercer influência por financiamento, tecnologia, contratos de fornecimento, padrões de operação, comércio ou presença de clientes industriais. Essas formas de poder são reais e podem modificar decisões nacionais sem uso de força. No caso paraguaio, a capacidade de atrair data centers norte-americanos pode ampliar incentivos para destinar mais energia a novos negócios e aumentar o valor econômico da parcela que antes era cedida ao Brasil.
+
+Para Washington, diversificar locais de computação sob empresas de sua esfera econômica pode reduzir exposição a custos de energia e criar novos corredores de infraestrutura digital. Para Assunção, oferece investimento e promessa de modernização. Para Brasília, altera a comparação entre comprar excedente e desenvolver alternativas domésticas.
+
+A palavra **interferência** deve ser empregada com precisão. Diplomacia comercial transparente é influência legítima; pressão econômica pode ser contestada segundo suas circunstâncias; operações clandestinas requerem prova própria; violação de direitos binacionais depende dos instrumentos do tratado. O simples fato de um empresário norte-americano negociar no Paraguai não demonstra irregularidade.
+
+## 40. O valor estratégico de 2027: energia paraguaia no mercado brasileiro
+
+O acordo anunciado pelo governo brasileiro em 2024 contemplou a perspectiva de abertura de mercado para excedentes paraguaios a partir de 2027. Sua implementação depende de negociações do Anexo C e regras complementares. A presença simultânea de potenciais clientes digitais no Paraguai pode reduzir a quantidade disponível para exportação se a demanda local crescer, sob o regime jurídico efetivamente aplicável. [19]
+
+Isso pode modificar preços e fluxos, mas não prova perda de segurança de abastecimento do Brasil em proporção idêntica à capacidade de TI anunciada. O sistema brasileiro possui outras fontes, e cada incremento de demanda exige análise física. O Paraguai também deve avaliar a estabilidade de sua oferta doméstica e investimentos de rede caso grandes clientes se concentrem próximos à fronteira.
+
+As alternativas de política brasileira incluem diversificação de geração e transmissão, contratos de longo prazo, negociação bilateral e maior integração energética regional. Nenhuma é gratuita. O ganho resulta de comparar custos de garantia de suprimento, impactos sobre consumidores e benefícios de relações políticas estáveis.
+
+## 41. Paraguai, mineração de criptoativos e precedentes de consumo intenso
+
+A disponibilidade relativa de hidreletricidade estimulou interesse paraguaio em atividades de grande consumo elétrico, incluindo mineração de criptoativos. A comparação com data centers de IA exige atenção: ambos podem empregar equipamentos digitais intensivos em energia, mas possuem cadeias de receita, requisitos de disponibilidade, emprego e impactos financeiros diferentes.
+
+A presença de grandes consumidores pode ajudar a utilizar infraestrutura em períodos favoráveis, mas também criar pressão para tarifas especiais. Reguladores precisam proteger consumidores residenciais e empresas existentes contra subsídios cruzados não transparentes. Contratos mal desenhados tornam o Estado dependente de operadores cuja atividade pode se deslocar rapidamente conforme lucratividade.
+
+O programa de IA anunciado para 2027 deve ser examinado por seus próprios fluxos: contratos de nuvem, uso local, transferência de conhecimento, licenciamento e investimentos complementares. Transferir conclusões econômicas de criptoativos para IA apenas porque ambos usam eletricidade produziria diagnóstico deficiente.
+
+## 42. Brasil, Argentina, Uruguai e a integração elétrica sul-americana
+
+O Brasil possui experiências de intercâmbio e interligação com Argentina e Uruguai, além de Itaipu e outros sistemas de fronteira. A integração pode reduzir custos quando países possuem excesso e escassez em momentos diferentes. Ao mesmo tempo, depende de regras comerciais, linhas de transmissão e coordenação diplomática.
+
+A Argentina ilustra risco de conflito sobre aproveitamento de águas compartilhadas, resolvido em parte pelo Acordo Tripartite de 1979, e o potencial de intercâmbio de eletricidade em sistemas com complementaridade sazonal. O Uruguai oferece outro modelo de cooperação, com escala de mercado e parque gerador distintos.
+
+Uma política sul-americana de segurança energética não deve buscar dependência exclusiva de um vizinho. Deve diversificar intercâmbios, assegurar reservas e organizar mecanismos previsíveis de negociação. O risco geopolítico se reduz quando os países possuem incentivos econômicos compartilhados e regras para resolver disputas.
+
+## 43. Comparação global: Quebec, Noruega e centros de dados energointensivos
+
+Regiões com eletricidade hidrelétrica e temperaturas favoráveis procuram atrair serviços computacionais por benefícios de energia, resfriamento e baixo carbono. Quebec e Noruega são exemplos de ambientes em que governo, concessionárias e empresas precisam equilibrar desenvolvimento digital com necessidades de indústria e consumidores. A vantagem relativa pode ser limitada por falta de linhas, competição por potência ou ausência de mão de obra especializada.
+
+A comparação não autoriza assumir que basta uma barragem para criar uma economia de inteligência artificial. Energia é insumo relevante, mas produção de hardware, redes de fibra óptica, pesquisa em algoritmos, segurança dos dados e instituições contratuais também determinam localização e captura de valor.
+
+Paraguai e Brasil podem competir por investimentos, mas diferem em escala de mercado doméstico, estrutura de tarifas, tributação, demanda digital e conectividade. O investimento com maior benefício nacional pode não ser necessariamente o de maior capacidade anunciada.
+
+## 44. Escenarios de poder: investimento, dependência e maior autonomia
+
+No cenário de **integração produtiva**, o Paraguai usa energia de sua parcela contratual para atrair computação com tarifas adequadas, investimento de rede e programas de qualificação. O Brasil mantém diálogo eficaz sobre o Anexo C, amplia capacidade nacional de IA e diversifica fontes de energia firme. A eletricidade binacional sustenta novas cadeias sem prejudicar direitos contratuais nem consumidores.
+
+No cenário de **dependência digital**, o Paraguai disponibiliza energia barata a operadores cujo lucro, tecnologia e faturamento permanecem predominantemente no exterior. O Brasil responde com incentivos fiscais pouco avaliados, elevando custos públicos sem desenvolver capacidade científica significativa. Grandes anúncios não se convertem em inovação local.
+
+No cenário de **contencioso tarifário**, desacordos sobre preço, uso do excedente e investimentos de transmissão degradam a relação política. Empresas enfrentam incerteza e podem adiar projetos. No cenário de **choque físico ou climático**, estiagem severa, falha de transmissão ou eventos extremos tornam a segurança do abastecimento mais importante que metas de expansão de computação. Os cenários são condicionais, não previsões probabilísticas.
+
+## 45. A matriz de riscos específicos para o Brasil
+
+A **exposição hidrológica** permanece elevada pela importância da água nos custos e na flexibilidade da eletricidade nacional. A **exposição de transmissão** envolve eventos extremos, necessidade de expansão e equipamentos críticos. A **exposição financeira** deriva de tarifas, encargos e possíveis subsídios a grandes consumidores. A **exposição contratual externa** aparece na renegociação com Paraguai e nos efeitos da captura de cargas industriais de alta potência.
+
+A **exposição digital** envolve dependência de provedores de nuvem, chips, sistemas de automação e segurança de dados. A **exposição político-diplomática** é ilustrada pela suspensão de negociações após a crise de espionagem de 2025. A **exposição socioambiental** abrange cheias, secas, reservatórios e impactos de grandes projetos.
+
+Uma ameaça militar norte-americana para tomar Itaipu não apresenta evidência pública equivalente às exposições listadas. Sua consideração em planejamento de contingências requer sinais concretos de escalada, não a nacionalidade da Crusoe ou declarações genéricas sobre segurança econômica.
+
+## 46. Custos de oportunidade: eletricidade para indústria ou para serviços digitais
+
+O custo de oportunidade de uma unidade de energia depende de alternativas reais, não de preferências abstratas por determinado setor. Produção de aço, fertilizantes, hidrogênio, alumínio ou computação pode usar eletricidade e gerar diferentes volumes de empregos, exportações, impostos e competências. A comparação deve considerar a produtividade marginal, recursos complementares e competitividade global de cada cadeia.
+
+O data center tem vantagens de implantação escalável e forte demanda internacional por serviços, mas pode produzir menos empregos diretos por megawatt do que algumas atividades industriais. Por outro lado, sua presença pode desenvolver ecossistema de serviços digitais, desde que haja formação, empresas locais e clientes. A avaliação não pode reduzir benefício a empregos de obra nem ignorar pesquisa, tributos e infraestrutura compartilhada.
+
+O Brasil deveria exigir de projetos incentivados metas verificáveis de uso local, eficiência elétrica, disponibilidade de água e formação tecnológica. O Paraguai pode adotar critérios próprios. O objetivo não é ditar escolhas a Assunção, mas negociar efeitos binacionais e evitar que consumidores nacionais absorvam externalidades de decisões privadas.
+
+## 47. Indicadores para acompanhar Itaipu e a indústria de IA
+
+A monitorização deve distinguir **energia total produzida**, **energia entregue a cada país**, **cota cedida**, **potência contratada**, **tarifas efetivas**, **royalties** e **custos de operação**. Todos precisam ter período, unidade e origem identificados. A diferença entre direito de 50% e energia fisicamente entregue deve permanecer explícita.
+
+Para data centers, indicadores relevantes incluem potência de TI, potência total do campus, conexão elétrica autorizada, consumo mensal medido, PUE observado, eficiência hídrica, tarifa, investimentos de rede, disponibilidade, clientes nacionais e empregos qualificados. A iniciativa Crusoe–Araico deve ser acompanhada em marcos de licenciamento, construção, energização e operação comercial, em vez de contabilizada como 280 MW instalados no momento do anúncio.
+
+Para segurança energética nacional, devem ser acompanhados níveis de reservatórios, riscos climáticos, perdas de transmissão, cortes de geração renovável, importações de combustíveis, reservas operativas e recuperação após incidentes. Um painel com séries históricas comparáveis vale mais que uma sucessão de declarações políticas sem métricas.
+
+## 48. O que o Brasil pode negociar sem violar a soberania paraguaia
+
+A política externa brasileira pode exigir cumprimento de direitos contratuais, transparência sobre efeitos de novos projetos na operação binacional e previsibilidade de entrega. Pode negociar regras para intercâmbio, recomposição tarifária, investimentos comuns e solução de controvérsias. Não deve reivindicar controle absoluto sobre a parcela paraguaia apenas porque empresas estrangeiras poderão utilizar parte da energia.
+
+Também é legítimo propor cooperação industrial, pesquisa energética conjunta e infraestrutura digital binacional com distribuição transparente dos ganhos. A coordenação pode ser mais produtiva que disputa de soma zero quando investimentos de rede e novos consumidores oferecem receitas adicionais.
+
+Por outro lado, a ausência de participação brasileira em cerimônia empresarial não constitui autorização para afirmar que o Tratado foi violado. A evidência decisiva estaria no fornecimento efetivo, em cláusulas contratuais incompatíveis com regras vigentes ou em decisões unilaterais da entidade binacional sem competência. Nenhuma dessas conclusões decorre automaticamente dos anúncios examinados.
+
+## 49. A lição histórica de Itaipu para o século da computação
+
+Itaipu surgiu da combinação de engenharia, autoridade estatal, necessidades de industrialização e assimetrias regionais. A obra mudou a segurança energética de dois países, exigiu negociação com um terceiro e deixou legados econômicos e socioambientais. O Tratado de 1973 e o Anexo C continuam determinando a distribuição de direitos em contexto que seus autores não poderiam prever: a eletricidade passou a ser insumo para sistemas avançados de inteligência artificial.
+
+O Paraguai tem direito de desenvolver indústria e serviços com energia dentro do quadro jurídico acordado. O Brasil possui interesse legítimo em modicidade tarifária, previsibilidade do abastecimento e proteção da estrutura binacional. Os Estados Unidos buscam infraestrutura digital confiável e ampliam sua influência por empresas, diplomacia e cooperação econômica. Esses objetivos podem coexistir ou entrar em conflito, conforme os contratos e as instituições.
+
+A soberania efetiva não é medida pelo número de anúncios governamentais ou por acusações sem prova. Ela está na capacidade de assegurar rede elétrica resiliente, negociar tarifas justas, preservar direitos internacionais, desenvolver tecnologia própria e impedir que custos privados sejam transferidos silenciosamente à população.
+
+## 50. O futuro até 2040: energia como fundamento da autonomia política e digital
+
+A transição elétrica e digital será condicionada por hidrologia, disponibilidade de capital, tecnologias de armazenamento, linhas de transmissão e sistemas computacionais. Países capazes de combinar energia firme, manufatura, educação técnica e governança de dados capturarão parcela maior do valor criado. A dependência de uma única fonte ou de um único comprador pode reduzir autonomia mesmo quando a eletricidade consumida é renovável.
+
+O desafio do Brasil é aproveitar vantagem em fontes limpas sem sacrificar modicidade ou confiabilidade para famílias e indústrias. Itaipu oferece instrumento de integração regional valioso, mas sua governança deve adaptar-se a novos usos econômicos, inclusive data centers. O investimento estrangeiro não é ameaça automática nem garantia de benefício; sua qualidade depende de contratos, concorrência e aprendizagem doméstica.
+
+No século XXI, a política energética deixa de ser apenas política de eletricidade. Ela define onde serão construídos computadores, quais sociedades controlarão serviços digitais, que receitas permanecerão localmente e quanto espaço Estados terão para escolher parceiros. A disputa por Itaipu será decisiva se orientar essa transformação para prosperidade compartilhada e segurança durável, e não para um novo ciclo de dependência.
+
+## Quadro comparativo de indicadores e documentos
+
+| Indicador | Período | Valor | Significado e ressalva |
+|---|---|---:|---|
+| Itaipu, capacidade instalada | Estrutura atual | 14 GW | Potência máxima nominal, não energia produzida |
+| Itaipu, unidades geradoras | Estrutura atual | 20 | Máquinas de 700 MW cada |
+| Itaipu, produção anual | 2025 | 72,879 TWh | Dado final binacional |
+| Itaipu, produção anterior | 2024 | 67,089 TWh | Dado final binacional |
+| Itaipu, fornecimento à ANDE | 2025 | 25,768 TWh | Energia efetivamente entregue ao Paraguai |
+| Itaipu, energia cedida da cota paraguaia ao Brasil | 2025 | 10,455 TWh | Dados comunicados ao Legislativo brasileiro |
+| Itaipu, energia destinada ao Brasil | 2025 | 46,679 TWh | Dados comunicados ao Legislativo brasileiro |
+| Brasil, oferta interna de eletricidade | 2025 | 783,3 TWh | BEN 2026, inclui importações líquidas |
+| Brasil, consumo final de eletricidade | 2025 | 667,8 TWh | BEN 2026, conceito diferente da oferta |
+| Brasil, renováveis na oferta elétrica | 2025 | 86,6% | BEN 2026 |
+| Brasil, fonte hídrica na oferta elétrica | 2025 | 52,2% | BEN 2026 |
+| Itaipu, custo unitário do serviço acordado | 2024–2026 | US$ 19,28/kW-mês | Não é preço direto por MWh de data center |
+| Crusoe–Araico, escala projetada de TI | Futuro | 106 MW | Capacidade de expansão anunciada |
+| Crusoe–Araico, opção de longo prazo | Futuro | até 280 MW | Não é projeto completo já em operação |
+| 280 MW de TI em uso contínuo | Hipótese aritmética | 2,4528 TWh/ano | Não é consumo medido |
+| 280 MW de TI, PUE 1,20 | Hipótese aritmética | 2,9434 TWh/ano | Demanda total de campus hipotético |
+| Solicitações de conexão de data centers no Brasil | Atualização 2025, até 2037 | 15,7 GW | Solicitações; não carga construída |
+
+## Visualizações analíticas
+
+```chart
+type: bar
+title: Itaipu, geração anual em TWh
+unit: TWh
+2024 | 67.089
+2025 | 72.879
+```
+
+```chart
+type: bar
+title: Energia entregue em 2025 por Itaipu, segundo país de destino
+unit: TWh
+Brasil | 46.679
+Paraguai | 25.768
+```
+
+```chart
+type: bar
+title: Dimensão anual de um data center de 280 MW em uso contínuo
+unit: TWh por ano
+Equipamentos de TI | 2.4528
+Instalação completa com PUE 1,20 | 2.94336
+```
+
+```flow
+Tratado de 1973 → propriedade e direitos iguais → Anexo C e comercialização → revisão após 2023 → contratos e usos econômicos a partir de 2027
+Parcela energética paraguaia → ANDE e clientes locais → novos investimentos em computação → valor industrial local ou dependência de operadores externos
+Segurança brasileira → hidrologia e geração → linhas e conversores → tarifas e contratos → continuidade do fornecimento
+```
+
+```map
+title: Infraestrutura e interesses da segurança energética regional
+Usina de Itaipu, Foz do Iguaçu, Paraná, Brasil | Hidrelétrica binacional | Produção partilhada por tratado
+Hernandarias, Alto Paraná, Paraguai | Infraestrutura da margem paraguaia | Conexões elétricas e acesso de consumidores
+Yguazú, Alto Paraná, Paraguai | Campus digital em desenvolvimento | Projeto de computação Crusoe-Araico na região
+Assunção, Paraguai | Governo paraguaio e ANDE | Direitos contratuais, regulação e negociação do Anexo C
+Brasília, Distrito Federal, Brasil | Governo, MME e ENBPar | Política de energia e diplomacia bilateral
+Buenos Aires, Argentina | Estado a jusante na bacia | Acordo Tripartite de 1979
+Washington, DC, Estados Unidos | Departamento de Estado | Pax Silica e estratégia internacional de IA
+```
+
+```mindmap
+Segurança energética do Brasil e Itaipu
+- História e soberania
+  - Guerra do Paraguai
+  - Tratado de 1973
+  - Anexo C e revisão em 2023
+  - Renegociação de 2009-2011
+- Sistema elétrico
+  - Hidrologia e reservatórios
+  - Geração e oferta firme
+  - Transmissão e conversão
+  - Segurança cibernética
+- Conflito de interesses
+  - Brasil e modicidade
+  - Paraguai e industrialização
+  - Estados Unidos e Pax Silica
+  - Empresas de computação
+- Data centers
+  - Potência anunciada e demanda medida
+  - Redata brasileiro
+  - Tarifas e custo incremental
+  - Água e infraestrutura
+- Riscos e futuro
+  - Eventos climáticos
+  - Conflito diplomático
+  - Dependência tecnológica
+  - Cenários até 2040
+```
+
+## Referências
+
+[1] Decreto nº 72.707, de 28 de agosto de 1973, promulgação do Tratado de Itaipu: https://www2.camara.leg.br/legin/fed/decret/1970-1979/decreto-72707-28-agosto-1973-421325-publicacaooriginal-1-pe.html
+
+[2] Itaipu Binacional, resultado final da geração em 2025, publicado em 12/01/2026: https://www.itaipu.gov.py/noticias/energia/central-hidroelectrica-itaipu-registro-una-productividad-record-en-el-ano-2025
+
+[3] Itaipu Binacional, fornecimento de energia à ANDE em 2025, publicado em 09/01/2026: https://www.itaipu.gov.py/noticias/energia/itaipu-suministro-25-768-gwh-de-energia-electrica-a-paraguay-en-el-2025
+
+[4] Crusoe, comunicado empresarial sobre parceria com Araico, 22/10/2026: https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership
+
+[5] Ministério das Relações Exteriores do Paraguai, adesão à Pax Silica, 23/10/2026: https://www.mre.gov.py/paraguay-se-suma-a-la-declaracion-de-la-pax-silica/
+
+[6] Agência de Informação Paraguaia, anúncio de Yguazú Digital e parceria Crusoe–Araico, 23/10/2026: https://mediosdelestado.gov.py/ip/2026/10/23/pena-presenta-en-ee-uu-proyecto-yguazu-digital-para-atraer-inversiones-en-infraestructura-digital-y-centros-de-datos/
+
+[7] Empresa de Pesquisa Energética, *Balanço Energético Nacional 2026*, ano-base 2025: https://dashboard.epe.gov.br/apps/livro-ben/livro/pt/capitulo_1.html
+
+[8] Congresso Nacional, Decreto Legislativo nº 23 de 1973, aprovação do Tratado: https://www2.camara.leg.br/legin/fed/decleg/1970-1979/decretolegislativo-23-30-maio-1973-346403-publicacaooriginal-1-pl.html
+
+[9] Itaipu Binacional, cinquentenário e revisão do Anexo C: https://www.itaipu.gov.py/noticias/institucional/quincuagesimo-aniversario-de-vigencia-del-tratado-de-itaipu-abre-paso-a-la-revision-del-anexo-c
+
+[10] Itaipu Binacional, Anexo C original em português: https://www.itaipu.gov.py/sites/default/files/u123/AnexoC.pdf
+
+[11] Barros, Luiz Eduardo Pinto, estudo acadêmico sobre Argentina e Itaipu (1966–1979), *Em Tempo de Histórias*: https://periodicostestes.bce.unb.br/index.php/emtempos/article/view/37048
+
+[12] Itaipu Binacional, história institucional e Acordo Tripartite de 1979: https://www.itaipu.gov.py/institucional/sobre-itaipu/nuestra-historia
+
+[13] Banco Interamericano de Desenvolvimento, *Monetary and Fiscal History of Brazil, 1960–2016*, contexto do choque de 1973: https://publications.iadb.org/publications/english/document/The_Monetary_and_Fiscal_History_of_Brazil_1960-2016_en_en.pdf
+
+[14] Federal Reserve History, *Latin American Debt Crisis of the 1980s*: https://www.federalreservehistory.org/essays/latin-american-debt-crisis
+
+[15] Columbia Center on Sustainable Investment, *Leveraging Paraguay's Hydropower for Economic Development*, dívida de Itaipu: https://ccsi.columbia.edu/sites/ccsi.columbia.edu/files/content/docs/our%20focus/extractive%20industries/Leveraging-Paraguays-Hydropower-for-Economic-Development-Final-CCSI.pdf
+
+[16] Itaipu Binacional, aprovação brasileira da triplicação de compensação ao Paraguai, 2011: https://www.itaipu.gov.py/noticias/sin-categorizar/brasil-aprobo-triplicar-compensacion-al-paraguay-por-energia-de-itaipu
+
+[17] Câmara dos Deputados, aprovação de aumento da compensação por energia, 06/04/2011: https://www.camara.leg.br/noticias/212411-CAMARA-APROVA-AUMENTO-DO-VALOR-PAGO-AO-PARAGUAI-POR-ENERGIA-DE-ITAIPU
+
+[18] Ministério da Indústria e Comércio do Paraguai, acordo de tarifa para 2024–2026: https://www.mic.gov.py/paraguay-y-brasil-acuerdan-historica-tarifa-de-itaipu-y-anuncian-el-inicio-de-las-negociaciones-del-anexo-c/
+
+[19] Ministério de Minas e Energia do Brasil, acordo estrutural de 2024 e perspectivas para 2027: https://www.gov.br/mme/pt-br/assuntos/noticias/brasil-e-paraguai-fecham-acordo-estrutural-para-tarifas-de-itaipu
+
+[20] Ministério das Relações Exteriores do Paraguai, negociações de março de 2026: https://www.mre.gov.py/paraguay-y-brasil-avanzan-en-la-revision-del-anexo-c-de-itaipu/
+
+[21] Itaipu Binacional, comunicado dos chanceleres de 19/03/2026: https://www.itaipu.gov.py/noticias/institucional/cancilleres-de-paraguay-y-brasil-destacan-avances-en-la-revision-del-anexo-c-del-tratado-de-itaipu
+
+[22] Associated Press, suspensão de negociações de Itaipu após revelações de espionagem brasileira, 01/04/2025: https://apnews.com/article/24bd56c84442acfc08c5b6985df344f2
+
+[23] Agência de Informação Paraguaia, visita de Christopher Landau e investimentos anunciados, 22/10/2026: https://mediosdelestado.gov.py/ip/2026/10/22/inversiones-en-tecnologia-y-nuevas-fuentes-de-energia-se-formalizaron-en-visita-del-subsecretario-de-ee-uu/
+
+[24] ANDE, tarifas vigentes e categorias de consumo intensivo: https://www.ande.gov.py/tarifas_vigentes.php
+
+[25] ABC Color, questionamentos sobre contrato de energia da parceria Araico–Crusoe, 23/10/2026: https://www.abc.com.py/economia/2026/10/23/araico-y-crusoe-usaran-energia-de-itaipu-para-un-centro-de-ia-la-ande-no-informa-sobre-el-contrato/
+
+[26] Presidência da República, Lei nº 15.504, de 15/09/2026, Redata: https://www.presidencia.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15504.htm
+
+[27] Ministério da Fazenda, sanção e contrapartidas do Redata, 16/09/2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/regime-especial-de-tributacao-para-servicos-de-datacenter-e-sancionado
+
+[28] EPE, *O consumo de energia elétrica dos data centers no Brasil — ponderações e incertezas*, 2025: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-458/topico-801/GPL-018.pdf
+
+[29] ONS, dados e documentos sobre restrições de geração e curtailment: https://www.ons.org.br/Paginas/faq_curtailment.aspx
+
+[30] ANEEL, nova regra para cortes de geração aprovada em 06/10/2026: https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-regra-para-organizar-cortes-de-geracao
+
+[31] Itaipu Binacional, gestão do reservatório e risco de cheia em 23/10/2026: https://www.itaipu.gov.br/noticias/utilidade-publica/itaipu-adota-estrategia-para-conter-elevacao-do-rio-parana-diante-da-previsao-de-chuvas-intensas
+
+[32] Folha de S.Paulo, informação sobre danos climáticos a linhas de transmissão em outubro de 2026: https://c-level.folha.uol.com.br/infraestrutura/2026/10/efeitos-do-el-nino-derrubam-mais-de-290-torres-de-energia-no-brasil-desde-julho.shtml
+
+[33] Câmara dos Deputados, resposta do Ministério de Minas e Energia sobre destinação de energia de Itaipu em 2025: https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3134139&filename=Tramitacao-18-RIC-352-2026
