@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-26T02:50:15.990Z",
+  "last_reconciled_at": "2026-10-26T04:57:51.514Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7184,6 +7184,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "2026 AI campus is publicly announced for prospective 2027 service; no delivered operating capacity or verified technical-performance result as of cutoff."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-macro-and-weekly-wealth-joint-reconciliation",
+      "reconciled_at": "2026-10-26T04:57:51.514Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-26",
+        "MT-WF-2026-10-26"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Treasury funding and fund allocation mechanisms documented, but no new cross-country verified beneficial ownership edge or dollar balance sheet asset pair meets canonical schema."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The dated macro/wealth monitoring assesses realized statistics and scenarios, not a separately evaluated investable opportunity record."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "ICI, BlackRock and governments are identified but ultimate beneficial-owner control cannot be reconstructed from aggregate fund-flow disclosures."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "No new legally verified ownership/control transfer of a physical resource asset or strategic infrastructure is established by these reports."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Election outcome and fund flow releases have not generated implemented policy outcomes suitable for a causal case study."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Oil logistics risk is discussed without a separately verified armed-conflict event in the scope of the current publication."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI valuation and technology dependences are covered as systemic financial exposures, not newly validated engineering performance milestones."
         }
       ]
     }

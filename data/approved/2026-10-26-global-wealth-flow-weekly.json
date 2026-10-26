@@ -1,0 +1,191 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-10-26",
+  "revision": 1,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-26T04:57:51.514Z",
+  "reviewed_commit": "e637d3c747e55faf7fcfb71cd583bf6ad703374e",
+  "pending_blob_sha": "51431b1faf8b65418d20b06e93f7a88d8cae49e4",
+  "source_blob_shas": {
+    "en": "be2884459d3519621d7044162abe8484ea5dc738",
+    "pt-BR": "e7131d08f70f722e23345196fc3f027ac0534692"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Separate Oct-14 CIT fund flows, Oct-21 money market stocks, August TIC, September gold and company AUM; follow ICI primary qualifier."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2536,
+        "pt-BR": 2923
+      },
+      "summary": "Threshold met in both languages with analytical sections and sourced numeric charts."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "12 distinct source links from 8 hosts; direct statistical issuer and primary institutional documents are identified."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explicitly offers alternative causal interpretations, scenarios, observable tests and disconfirming evidence without categorical market forecasts."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Numerical chart parity confirmed; causal flow, location map, evidence table, and analytic H2 sections in each locale."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Canonical localized titles exactly match Markdown H1; no known public-prose blockers, no Reuters sources or unsupported action recommendations."
+    }
+  },
+  "contrary_evidence": [
+    "ICI attributes the extraordinary domestic-equity outflows primarily to collective investment trusts, not widespread retail sales.",
+    "Positive ETF net issuance is already inside the combined flow statistic and cannot be counted a second time.",
+    "August TIC inflows predate October fund activity and cannot establish the destination of those withdrawals.",
+    "Gold ETF tonnage rose while market valuations fell; market value and physical quantity are not equivalent."
+  ],
+  "limitations": [
+    "ICI CIT outflows do not identify ultimate liquidation, beneficial-owner relocation or final loss of wealth.",
+    "Month and week reporting periods are intentionally non-additive."
+  ],
+  "notes": "Internal structural, source-identity and numerical-parity review; independent external peer review was not performed.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-10-26",
+    "slug": "2026-10-26-global-wealth-flow-weekly",
+    "date": "2026-10-26",
+    "published_at": "2026-10-26T01:44:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit",
+      "trade-investment",
+      "commodities-resources",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "monitor",
+    "cadence": "weekly",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "scenarios": [
+      "CIT reporting reclassification with retained beneficial exposure",
+      "Underlying asset liquidation and leveraged deleveraging",
+      "Selective ETF and bond demand persists",
+      "Official and private gold diversification diverge"
+    ],
+    "contrary_evidence": [
+      "ICI attributes the extraordinary domestic-equity outflows primarily to collective investment trusts, not widespread retail sales.",
+      "Positive ETF net issuance is already inside the combined flow statistic and cannot be counted a second time.",
+      "August TIC inflows predate October fund activity and cannot establish the destination of those withdrawals.",
+      "Gold ETF tonnage rose while market valuations fell; market value and physical quantity are not equivalent."
+    ],
+    "producer_checks": {
+      "information_cutoff": "26 October 2026, 01:44 America/Sao_Paulo; no post-election market prices; official TSE release after midnight; fund data refer to their disclosed 14/21 October windows.",
+      "research_depth": "EN 2536 and PT-BR 2923 substantive words, bilingual weekly research in 2026-10-26-global-wealth-flow-weekly.",
+      "source_check": "12 cited source URLs and 8 independent hosts per edition, dated releases and original statistical categories.",
+      "visual_signature": "3 charts, source table, causal flow, geographic map, matched numeric series in both editions.",
+      "bilingual_parity": "Identical chart values, equivalent time-window qualifications, factual and conditional policy/flow conclusions.",
+      "methodology": "Stock versus transaction flow, market value versus ownership, fund vehicle versus end-owner, and different observation periods segregated.",
+      "source_shas": {
+        "en": "be2884459d3519621d7044162abe8484ea5dc738",
+        "pt-BR": "e7131d08f70f722e23345196fc3f027ac0534692"
+      }
+    },
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-26-global-wealth-flow-weekly/en.md",
+        "title": "Global Wealth Weekly — the exceptional institutional fund movement is not proven flight of global wealth",
+        "deck": "ICI estimates US$471.677bn of net long-term fund and ETF outflows with a major collective-investment-trust effect; ETF issuance, money-market assets and earlier TIC inflows require separate accounting.",
+        "tags": [
+          "global wealth",
+          "ICI funds",
+          "collective investment trusts",
+          "ETF issuance",
+          "Treasury TIC",
+          "money market",
+          "gold ETFs"
+        ],
+        "keywords": [
+          "ICI 14 October 2026 minus 471.677 billion",
+          "collective investment trusts mutual fund outflow",
+          "ETF plus 53.262 billion",
+          "Treasury TIC August 2026",
+          "money market October 21 2026",
+          "World Gold Council September 2026 holdings 4256 tons"
+        ],
+        "regime": "Extraordinary institutional fund-vehicle withdrawals coexist with positive ETF issuance, liquid cash-fund assets and earlier foreign securities demand.",
+        "key_risk": "Conflating CIT reporting effects with final market liquidation, counting assets and flows together, or claiming proven global wealth flight.",
+        "watch": [
+          "ICI revisions and destination of collective investment trusts",
+          "Next weekly ETF and money-market disclosures",
+          "September TIC scheduled release 18 November",
+          "BIS banking update 30 October",
+          "Gold ETF holdings versus futures exposure",
+          "Final ownership of industrial and energy assets"
+        ],
+        "search_text": "Global Wealth Weekly — the exceptional institutional fund movement is not proven flight of global wealth ICI estimates US$471.677bn of net long-term fund and ETF outflows with a major collective-investment-trust effect; ETF issuance, money-market assets and earlier TIC inflows require separate accounting. ICI 14 October 2026 minus 471.677 billion collective investment trusts mutual fund outflow ETF plus 53.262 billion Treasury TIC August 2026 money market October 21 2026 World Gold Council September 2026 holdings 4256 tons"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-26-global-wealth-flow-weekly/pt-BR.md",
+        "title": "Global Wealth Weekly — a movimentação institucional extraordinária não equivale a fuga global de patrimônio",
+        "deck": "O ICI registra saída líquida estimada de US$ 471,677 bilhões com efeito extraordinário de fundos institucionais coletivos; ETFs, liquidez monetária e TIC exigem contas separadas.",
+        "tags": [
+          "riqueza global",
+          "fundos ICI",
+          "fundos institucionais coletivos",
+          "ETFs",
+          "TIC americano",
+          "fundos monetários",
+          "ouro"
+        ],
+        "keywords": [
+          "ICI 14 October 2026 minus 471.677 billion",
+          "collective investment trusts mutual fund outflow",
+          "ETF plus 53.262 billion",
+          "Treasury TIC August 2026",
+          "money market October 21 2026",
+          "World Gold Council September 2026 holdings 4256 tons"
+        ],
+        "regime": "Saída extraordinária em veículos institucionais coexiste com emissão positiva de ETFs, fundos de liquidez e demanda internacional prévia por títulos.",
+        "key_risk": "Confundir efeito estatístico de CITs com liquidação final, somar estoques e fluxos ou anunciar fuga mundial comprovada.",
+        "watch": [
+          "Revisões do ICI e destino das operações de CITs",
+          "Próximos ETFs e fundos monetários",
+          "TIC setembro previsto para 18 de novembro",
+          "BIS bancário previsto para 30 de outubro",
+          "Ouro em ETFs versus posição em futuros",
+          "Propriedade final de ativos produtivos e energéticos"
+        ],
+        "search_text": "Global Wealth Weekly — a movimentação institucional extraordinária não equivale a fuga global de patrimônio O ICI registra saída líquida estimada de US$ 471,677 bilhões com efeito extraordinário de fundos institucionais coletivos; ETFs, liquidez monetária e TIC exigem contas separadas. ICI 14 October 2026 minus 471.677 billion collective investment trusts mutual fund outflow ETF plus 53.262 billion Treasury TIC August 2026 money market October 21 2026 World Gold Council September 2026 holdings 4256 tons"
+      }
+    }
+  }
+}
