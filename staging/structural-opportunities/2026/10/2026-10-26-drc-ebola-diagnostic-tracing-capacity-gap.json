@@ -42,5 +42,21 @@
     "stage": "discovery_watch",
     "implementation_status": "Diagnostic platforms reported delivered, not independently verified installed and used at scale; follow-up coverage observed below target.",
     "caveat": "A public-health capacity condition, not a commercial opportunity or investment recommendation."
-  }
+  },
+  "review_status": "watch",
+  "reviewed_at": "2026-10-26T05:36:46-03:00",
+  "review_notes": "Primary-source review confirms WHO DON622 (23 October; observations to 20 October) reports 24,017/30,130 contacts seen in 24 hours (79.7%, below the 95% target), and 307 of 482 recently reported deaths occurring in communities. World Bank (13 October) reports delivery of 104 diagnostic platforms and 70,000 tests, but not independently measured usage or a causal estimate of tracing improvement. No evidence yet warrants canonical Atlas promotion; retain discovery_watch. WHO's provincial breakdown contains an apparent denominator transcription inconsistency: Tshopo is printed as 1,077/12,086 = 83.7%, whereas 1,077/1,286 is 83.7% and the corrected denominator would reconcile exactly to the stated 30,130 total. Do not silently replace WHO's printed figure in public analysis; seek a corrigendum or validated provincial dataset before using the subnational denominator.",
+  "review_sources_checked": [
+    {
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+      "source_date": "2026-10-23",
+      "observed_through": "2026-10-20",
+      "check": "national contact follow-up, community deaths and inconsistent Tshopo denominator"
+    },
+    {
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/13/world-bank-group-expands-ongoing-support-for-ebola-response-in-drc-and-the-region",
+      "source_date": "2026-10-13",
+      "check": "reported delivery and planned financing, not observed facility utilisation"
+    }
+  ]
 }
