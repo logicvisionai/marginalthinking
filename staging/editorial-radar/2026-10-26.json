@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "checked_at": "2026-10-26T05:24:10-03:00",
+  "scope": "All active editorial lines in canonical registry, cross-checked with current public corpus and selected dated primary releases. This is a nonpublic screening record, not a claim of exhaustive global negative evidence.",
+  "registry_updated_at": "2026-10-26T04:57:51.514Z",
+  "reviewed_line_count": 26,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "already_public",
+      "note": "MT-GM-2026-10-26 approved and present in reports; election result and pre-opening cross-asset analysis not duplicated."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "already_public",
+      "note": "26 Oct weekly wealth flow public in HEAD; separate weekly producer owns revisions."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "WHO 23 Oct DRC cross-border case delta belongs in pandemic response assessment, not a new country transition dossier."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "no_additional_article",
+      "note": "DRC security and health institutions assessed in thematic article; no new standalone country-context source package."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "WHO 23 Oct TUMAINI trial start is clinical enrollment, not demonstrated vaccine efficacy or scalable production."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "UNICEF/Gavi manufacturer expression of interest is prospective supply preparation, not approved or deployed vaccine capacity."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_additional",
+      "note": "DRC insecurity and displacement affect health-team access; no unverified claim of intentional biological attack."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "World Bank and WHO response capacity assessed; no distinct control/ownership change demonstrated."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "26 Oct Global Macro public; no additional monetary decision with distinct verified causal delta at early cutoff."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "WHO emergency coordination and trial enrollment verified; institutional effects covered in Ebola study."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "World Bank reported improved Ebola detection time; not an independently identified causal evaluation of policy."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "no_additional_article",
+      "note": "No new implemented market-design rule with sufficient verified delta in screened releases."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "World Bank US$426.6m is current and planned financing, not a global change in beneficial asset ownership."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "no_additional_article",
+      "note": "No new audited stock of sovereign assets or control inventory identified."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "WHO/Africa CDC and World Bank coordination is material but integrated into health assessment; no new institutional architecture demonstrated."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Cross-border Ebola surveillance in DRC/Kenya/Nigeria is operational cooperation, not implemented trade-bloc or payments integration."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Health technology, access and social trust examined in Ebola assessment; no independent deployment study justified."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Food availability and agricultural transport can be affected by DRC access restrictions; no new quantified production or nutrition delta verified."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Pesticide exposure, livestock handling and AMR baselines reviewed; no new verified regulatory implementation or measured exposure. Bundibugyo is not alleged to be weaponized."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Conflict is a verified constraint on DRC health access, not evidence of imminent interstate war or chemical/biological attack."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "selected_additional_article",
+      "note": "WHO DON622 confirms new Nigerian imported case, Kenya linked cluster and tracing deficit; World Bank and UNICEF document finance and social effects. New EN/PT assessment staged."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "no_additional_article",
+      "note": "No new primary historical archive or materially corrective source identified in this daily event-driven screen."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "no_additional_article",
+      "note": "Existing energy-security and grid research covers baseline; no fresh operational capacity change established in current screening."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "Brazilian runoff result and high dollar financing costs already treated in public 26 Oct Global Macro; avoid duplicate."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "no_additional_article",
+      "note": "Brazil rare earths and resource-sovereignty research published 25 Oct; no verified new resource control or mining permit delta."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "no_additional_article",
+      "note": "Itaipu, Paraguay and data-centre energy-security research already public 25 Oct; no new implemented grid or treaty change verified."
+    }
+  ],
+  "selected_additional_article": {
+    "id": "MT-PH-2026-10-26-ebola-response",
+    "slug": "2026-10-26-bundibugyo-ebola-cross-border-health-systems",
+    "status": "pending_v2_ready_qa",
+    "commit": "98543b88a0c426afaebea172d5f5616702841157"
+  },
+  "selection_reason": "WHO 23 Oct DON622 reports imported Nigerian case after Kenyan linked cluster; 9,704 DRC cases, contact tracing deficit, TUMAINI trial start, and verified UNICEF/World Bank operational evidence form a substantive cross-border health-system and socioeconomic delta distinct from 19 Oct COVID preparedness retrospective.",
+  "screened_primary_sources": [
+    {
+      "institution": "WHO",
+      "date": "2026-10-23",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+      "use": "DRC/Kenya/Nigeria cases, tracing, clinical trial, trade advice"
+    },
+    {
+      "institution": "WHO",
+      "date": "2026-09-10",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617",
+      "use": "comparison reporting vintage"
+    },
+    {
+      "institution": "World Bank",
+      "date": "2026-10-13",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/13/world-bank-group-expands-ongoing-support-for-ebola-response-in-drc-and-the-region",
+      "use": "financing and diagnostic delivery"
+    },
+    {
+      "institution": "UNICEF",
+      "date": "2026-10-06",
+      "url": "https://www.unicef.org/press-releases/more-1900-children-orphaned-or-separated-their-families-ebola-eastern-dr-congo",
+      "use": "child protection and social effects"
+    },
+    {
+      "institution": "UNICEF",
+      "date": "2026-08-06",
+      "url": "https://www.unicef.org/press-releases/dr-congo-ebola-child-deaths-pass-300-unicef-warns-outbreak-also-threatens-essential",
+      "use": "routine healthcare service disruption"
+    },
+    {
+      "institution": "World Bank",
+      "date": "2026-10-20",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "use": "digital infrastructure strategy is an announcement, not deployment"
+    },
+    {
+      "institution": "WHO",
+      "date": "2025-10-13",
+      "url": "https://www.who.int/news/item/13-10-2025-who-warns-of-widespread-resistance-to-common-antibiotics-worldwide",
+      "use": "prior-vintage AMR baseline, not a new 26 Oct signal"
+    }
+  ],
+  "limitations": [
+    "Case counts primarily as of 20 October; no independent 26 October epidemiological totals included.",
+    "No current primary evidence of Ebola-related generalized trade closures, biological weaponization or macroeconomic loss magnitude.",
+    "Food, pesticide, livestock, chemical-weapons and broad technology lines were screened selectively; absence of a staged article is not proof that no event occurred anywhere."
+  ]
+}
