@@ -1,4 +1,4 @@
-# Brazilian energy security, Itaipu and the new competition for power: Paraguay, the United States, data centers and strategic infrastructure
+# Brazil's energy security, Itaipu and the US–Paraguay AI infrastructure contest
 
 Brazilian energy security cannot be measured solely by the number of power stations or the renewable share of electricity generation. A secure system must supply reliable power when and where it is needed, transport it across resilient networks, finance critical maintenance, protect international agreements and manage the competing claims of ordinary consumers and industrial enterprises. The global expansion of artificial intelligence adds another dimension: dependable electricity and grid interconnection now influence where computational infrastructure will be built and who will capture its economic value.
 

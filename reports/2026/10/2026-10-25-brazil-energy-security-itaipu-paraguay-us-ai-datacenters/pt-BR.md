@@ -1,4 +1,4 @@
-# Segurança energética brasileira, Itaipu e a nova disputa pelo poder: Paraguai, Estados Unidos, data centers e infraestrutura estratégica
+# Segurança energética do Brasil: Itaipu, Paraguai, influência dos EUA e a disputa pelos data centers de IA
 
 A segurança energética do Brasil não se resume à quantidade de usinas instaladas nem à proporção de fontes renováveis na matriz elétrica. Ela depende da capacidade de produzir eletricidade quando e onde se precisa dela, transportá-la por redes resilientes, preservar contratos internacionais confiáveis, financiar a manutenção de instalações críticas e impedir que interesses comerciais sejam confundidos com decisões sobre soberania. A expansão de data centers e sistemas de inteligência artificial introduz novo elemento: eletricidade firme e conexão à rede passam a determinar a localização de infraestrutura digital e a captura de valor econômico em uma competição cada vez mais intensa entre governos e empresas globais.
 

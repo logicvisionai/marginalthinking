@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GSP-2026-10-25-ITAIPU-AI-ENERGY-SECURITY",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-26T02:50:15.990Z",
-  "reviewed_commit": "51f92c62491e89b64377baa725d923826e0039b1",
-  "pending_blob_sha": "1ce97b1f10258be84d4f2a802dc96faaf4aaab09",
+  "reviewed_at": "2026-10-26T02:53:49.464Z",
+  "reviewed_commit": "364f3b1c1bcf6f27a6886cc795191028d7584744",
+  "pending_blob_sha": "c1919ae25d7a87eb19ce462eb06681aa108dbc9a",
   "source_blob_shas": {
-    "en": "4ec18d593befff809e2b24b2cb3a6eff0aece174",
-    "pt-BR": "2033199ab785990a52d0dc813f294588e492a79c"
+    "en": "6f130ff0c10d402b894be3bd38772675f4995b00",
+    "pt-BR": "f6f8068f5b5a8ab721fc583a4c2ef4874341761a"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -58,7 +58,7 @@
     "Annual electricity use at 280 MW and PUE 1.20 is a hypothetical calculation, not the companies' operating forecast.",
     "Energy-security scenarios are illustrative, without invented scenario probabilities."
   ],
-  "notes": "Internal source/document/structure and bilingual parity review, not externally peer reviewed. Primary public sources distinguish ownership, announcements and operation.",
+  "notes": "Internal bilingual/editorial review, now including exact metadata-H1 title match. Original 2026 evidence and numbers unchanged; no external peer review.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -218,10 +218,10 @@
       "visual_signature": "Three quantitative charts per locale; comparison table, causal flow, geopolitical map and mindmap; identical series in both languages.",
       "translation_parity": "Same 50-section chronological and economic argument; key 2025 production, 2026 announcements, 2027 project plans and theoretical PUE comparisons preserved across editions.",
       "methodology": "Separates contractual treaty entitlement, physical delivery, installed GW, IT MW, full-facility demand, annual MWh and contracted price per kW-month. Unpublished ANDE contract terms and US operational-interference claims not inferred.",
-      "editorial_status": "In-session bilingual factual/structure review and chart parity completed; not represented as third-party academic peer review.",
+      "editorial_status": "Metadata-H1 parity corrected in both languages following CI validation, source hashes rebound; article substance unchanged.",
       "source_shas": {
-        "en": "4ec18d593befff809e2b24b2cb3a6eff0aece174",
-        "pt-BR": "2033199ab785990a52d0dc813f294588e492a79c"
+        "en": "6f130ff0c10d402b894be3bd38772675f4995b00",
+        "pt-BR": "f6f8068f5b5a8ab721fc583a4c2ef4874341761a"
       }
     }
   }

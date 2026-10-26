@@ -157,10 +157,10 @@
     "visual_signature": "Three quantitative charts per locale; comparison table, causal flow, geopolitical map and mindmap; identical series in both languages.",
     "translation_parity": "Same 50-section chronological and economic argument; key 2025 production, 2026 announcements, 2027 project plans and theoretical PUE comparisons preserved across editions.",
     "methodology": "Separates contractual treaty entitlement, physical delivery, installed GW, IT MW, full-facility demand, annual MWh and contracted price per kW-month. Unpublished ANDE contract terms and US operational-interference claims not inferred.",
-    "editorial_status": "In-session bilingual factual/structure review and chart parity completed; not represented as third-party academic peer review.",
+    "editorial_status": "Metadata-H1 parity corrected in both languages following CI validation, source hashes rebound; article substance unchanged.",
     "source_shas": {
-      "en": "4ec18d593befff809e2b24b2cb3a6eff0aece174",
-      "pt-BR": "2033199ab785990a52d0dc813f294588e492a79c"
+      "en": "6f130ff0c10d402b894be3bd38772675f4995b00",
+      "pt-BR": "f6f8068f5b5a8ab721fc583a4c2ef4874341761a"
     }
   }
 }
