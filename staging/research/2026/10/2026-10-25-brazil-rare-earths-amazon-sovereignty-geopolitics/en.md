@@ -164,7 +164,7 @@ The authority's proceeding examines competition and notification requirements. I
 
 The United States seeks alternative rare-earth supplies because China dominates chemical processing and magnet manufacturing. American defense, aerospace, automotive and electronics firms need reliable access to magnet inputs. Public finance, development agencies and private investors can support mining and processing ventures abroad as part of a strategy to reduce concentrated supply-chain risk. [3]
 
-Brazil's Mines and Energy Ministry referenced a proposed **$565 million US Development Finance Corporation financing structure** for Serra Verde in its 2026 national-strategy study. The reported financing is not necessarily equivalent to the entire amount of funds already disbursed or to ownership of all the company's assets. It is evidence of substantial US financial interest in an alternative industrial supply chain. [16]
+Brazil's Mines and Energy Ministry referenced a proposed **$565 million US Development Finance Corporation financing structure** for Serra Verde in its 2026 national-strategy study. The reported financing is not necessarily equivalent to the entire amount of funds already disbursed or to ownership of all the company's assets. It is evidence of substantial US financial interest in an alternative industrial supply chain. [16] The USGS's separate heavy-rare-earth chapter records **$465 million approved in November 2025** for a Brazilian operation. The two amounts should not be added or treated as interchangeable without verifying whether they describe successive authorizations, tranches or different funding arrangements. Approved credit is not the same as actual cash disbursement. [30]
 
 The interests of Brazilian project sponsors can align with those of American lenders when financing turns otherwise uneconomic reserves into producing assets. Tensions emerge when exclusivity, pricing, location of refining or intellectual-property rights limit domestic industrial options. The most useful test concerns actual contract terms and retained technological capabilities, not the nationality of the financing institution alone.
 
@@ -566,3 +566,5 @@ Mineral sovereignty as an institutional system
 [28] Brazilian Constitution, article 231 and Indigenous territorial rights: https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Aconstituicao%3A1988-10-05%3B1988
 
 [29] Brazilian Defense Ministry, Calha Norte programme: https://www.gov.br/defesa/pt-br/assuntos/secretaria-geral/programa-calha-norte
+
+[30] USGS, *Mineral Commodity Summaries 2026 — Rare Earths (Heavy)*, capítulo de fevereiro de 2026, aprovação DFC de 2025: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths-heavy.pdf
