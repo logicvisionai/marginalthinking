@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-25T18:23:36.738Z",
+  "last_reconciled_at": "2026-10-26T00:33:29.454Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7052,6 +7052,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "The long-form studies review historical deployment and financial conditions; no single newly measured engineering capability or independent near-term technology milestone is asserted for the signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-lula-election-geopolitical-political-economy-reconciliation",
+      "reconciled_at": "2026-10-26T00:33:29.454Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-10-25-LULA-REELECTION-WORLD-POWER"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Documented Brazil–US trade/tariff pressures and Brazil–China trade dependence do not by themselves establish a new stable, independently quantified node-to-node relation distinct from existing network coverage."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Election and national political-economy assessment is not a country-specific investment opportunity record."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazil's elected executive and Congress are analyzed; the report does not establish a new legal corporate ownership or asset-control claim for the actor register."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Historical geopolitics, minerals and food are described without newly documented physical reserve ownership, processing rights or operational facility control changes."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Electoral victory is not an implemented policy experiment with a separately verified intervention-outcome time series."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The historical Latin American coups and contemporary political polarization do not add an independently verified new armed-conflict event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No newly demonstrated technical capability, new deployment milestone or engineering-scale evidence requiring a signal entry is asserted."
         }
       ]
     }

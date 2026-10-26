@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-25T18:23:36.738Z",
+  "updated_at": "2026-10-26T00:33:29.454Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -732,6 +732,21 @@
       "source_files": [
         "ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md",
         "data/reports.json"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-political-economy-election-assessment",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "political-economy-event-assessment",
+      "public_route": "/research/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md",
+        "EDITORIAL-ARCHITECTURE.md"
       ],
       "update_mode": "event-driven",
       "reconciliation_required": false,

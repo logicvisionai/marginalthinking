@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-10-25-LULA-REELECTION-WORLD-POWER",
+  "slug": "2026-10-25-lula-reelection-brazil-latin-america-world-power",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T21:26:00-03:00",
+  "kind": "political-economy-event-assessment",
+  "priority": 49,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      }
+    ]
+  },
+  "topics": [
+    "institutions-governance",
+    "geopolitics-security",
+    "macroeconomics",
+    "fiscal-policy",
+    "trade-investment",
+    "industry-production",
+    "inequality-distribution",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "political-stability",
+    "strategic-competition",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "high",
+  "producer_checks": {
+    "information_cutoff": "25 October 2026, 21:26 America/Sao_Paulo; TSE official second-round tally 99.87% sections, Lula 64,144,599 (51.76%), Flávio Bolsonaro 59,774,442 (48.24%); explicit distinction between partial tally, mathematical outcome and formal full tabulation.",
+    "research_depth": "English 6385 words, PT-BR 7138 words; each includes 33 chronological and causal sections plus quantitative/structural evidence.",
+    "source_check": "20 linked source entries including TSE live results, federal legislative election figures, Library of Congress, U.S. National Archives, National Security Archive, WTO, USTR, MDIC, IMF, IBGE and World Bank.",
+    "visual_signature": "Three matching numeric charts per language (presidential first round, legislative seats, second-round partial), a structured comparison table, causal flow, regional dependency map and political economy mindmap.",
+    "translation_parity": "Numerical chart values and key quantitative findings are identical across English and Portuguese editions. Temporal qualifications distinguish Datafolha projection and the TSE 99.87%-count official update.",
+    "editorial_status": "Bilingual long-form manuscript prepared for Git-SHA-bound QA and canonical-publication process.",
+    "source_shas": {
+      "en": "6e27137aac87c6ef3b60762dea84c7f5a8602de0",
+      "pt-BR": "5249ed7d50e03a4d3646af86afb27851a69eb0ff"
+    }
+  },
+  "url": "/reports/2026/10/2026-10-25-lula-reelection-brazil-latin-america-world-power.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-26T00:32:38.912Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "345fbd5c9af7d236a66d7148bcf4974394106a37",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Lula's 2026 victory: Brazilian political history, US influence and the changing world balance of power",
+      "deck": "The election, Brazil's long struggle over the state, US interventions in Latin America, conservative congressional power, inequality, BRICS, China and Brazil's strategic options through 2030.",
+      "tags": [
+        "Brazil 2026 election",
+        "Luiz Inácio Lula da Silva",
+        "Flávio Bolsonaro",
+        "Latin America",
+        "United States",
+        "China",
+        "political polarization",
+        "BRICS"
+      ],
+      "keywords": [
+        "Lula elected 2026",
+        "Brazil presidential runoff",
+        "US influence Latin America",
+        "Brazil 1964 coup",
+        "Brazil 2027 Congress",
+        "Brazil China trade",
+        "Brazil strategic autonomy"
+      ],
+      "regime": "A narrowly divided presidential electorate coexists with a more conservative legislature, constrained public finance and increased geopolitical rivalry.",
+      "key_risk": "Confusing presidential legitimacy with legislative control or treating US and Chinese influence as deterministic causes of national politics.",
+      "watch": [
+        "Official final TSE count and legal electoral proceedings",
+        "New Chamber and Senate leadership and governing coalitions",
+        "Brazil–US trade dispute and WTO DS646",
+        "China trade exposure and industrial diversification",
+        "Fiscal policy, interest rates and income outcomes"
+      ],
+      "search_text": "Lula's 2026 victory: Brazilian political history, US influence and the changing world balance of power The election, Brazil's long struggle over the state, US interventions in Latin America, conservative congressional power, inequality, BRICS, China and Brazil's strategic options through 2030. Lula elected 2026 Brazil presidential runoff US influence Latin America Brazil 1964 coup Brazil 2027 Congress Brazil China trade Brazil strategic autonomy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "A vitória de Lula em 2026: história do Brasil, influência dos EUA e a nova balança de poder mundial",
+      "deck": "A eleição, a disputa histórica pelo Estado brasileiro, as intervenções dos EUA na América Latina, o novo Congresso conservador, desigualdade, BRICS, China e cenários até 2030.",
+      "tags": [
+        "eleições Brasil 2026",
+        "Luiz Inácio Lula da Silva",
+        "Flávio Bolsonaro",
+        "América Latina",
+        "Estados Unidos",
+        "China",
+        "polarização",
+        "BRICS"
+      ],
+      "keywords": [
+        "Lula reeleito 2026",
+        "segundo turno 2026",
+        "influência americana América Latina",
+        "golpe de 1964",
+        "Congresso 2027",
+        "relações Brasil China",
+        "autonomia estratégica"
+      ],
+      "regime": "Eleitorado presidencial dividido, Congresso mais conservador, restrições fiscais e intensificação da rivalidade geopolítica.",
+      "key_risk": "Confundir legitimidade presidencial com controle legislativo ou tratar influência externa como determinação das escolhas nacionais.",
+      "watch": [
+        "Resultado final do TSE e procedimentos eleitorais",
+        "Lideranças da Câmara e do Senado e coalizões",
+        "Contencioso comercial Brasil–EUA na OMC",
+        "Comércio com China e diversificação produtiva",
+        "Política fiscal, juros e evolução da renda"
+      ],
+      "search_text": "A vitória de Lula em 2026: história do Brasil, influência dos EUA e a nova balança de poder mundial A eleição, a disputa histórica pelo Estado brasileiro, as intervenções dos EUA na América Latina, o novo Congresso conservador, desigualdade, BRICS, China e cenários até 2030. Lula reeleito 2026 segundo turno 2026 influência americana América Latina golpe de 1964 Congresso 2027 relações Brasil China autonomia estratégica"
+    }
+  }
+}
