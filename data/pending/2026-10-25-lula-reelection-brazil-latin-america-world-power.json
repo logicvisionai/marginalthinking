@@ -92,9 +92,11 @@
   "geography": {
     "level": "country",
     "regions": [
-      "south-america"
+      "americas"
     ],
-    "subregions": [],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
     "countries": [
       {
         "code": "BR",
