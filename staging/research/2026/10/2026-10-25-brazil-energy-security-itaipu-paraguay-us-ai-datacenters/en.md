@@ -207,3 +207,364 @@ Low-cost electricity can attract manufacturers or data centers. The benefits ret
 Paraguay could benefit through local construction, electrical engineering, logistics, technical training and domestic software providers. Alternatively, it could become primarily a location where imported computing equipment uses subsidized power to sell services billed elsewhere. Similar choices confront Brazil under its domestic data-center policies.
 
 The relevant opportunity cost is the value of electricity under realistic alternative uses: what other industries or consumers could purchase it, what network investments are required and who receives the resulting gains? “Digital sovereignty” cannot be demonstrated merely by locating foreign-owned processors near a hydropower station.
+## 26. ANDE, Paraguayan tariffs and the missing contract terms
+
+Paraguay's **National Electricity Administration (ANDE)** is responsible for delivering electricity to the country's consumers under its statutory and regulatory framework. Its published tariff documents include special provisions for energy-intensive customers and advanced industrial activities. This shows that large computing loads need to be considered within established pricing and regulatory categories rather than assumed to obtain electricity directly and without conditions from the binational plant. [24]
+
+The public announcement of the Crusoe–Araico partnership had not, by 25 October 2026, disclosed a complete electricity purchase contract, the final rate applicable to the site, the cost allocation of any necessary grid reinforcement, firm-capacity rights or operational penalties. Paraguayan journalists reported trying unsuccessfully to obtain clarification from ANDE about the contract. Such missing public information does not establish illegality, but it creates a material limitation for economic evaluation. [25]
+
+A proper assessment needs approved interconnection studies, power and energy tariff categories, network investment responsibilities and demand forecasts. If the project receives electricity below its incremental system cost, others may absorb the difference. If it pays a cost-reflective tariff, finances the required infrastructure and stimulates new local capabilities, it may create net economic value. Neither conclusion can be reached from the corporate press release alone.
+
+## 27. Subsidies, electricity pricing and transfers of economic value
+
+The price of electricity includes generation as well as substations, protective equipment, high-voltage lines, reactive power management, operational reserves and losses. A major customer with an attractive energy-only price may nevertheless impose additional system costs. When those costs are socialized through household or other industrial tariffs, the project receives an implicit subsidy even if its electricity purchase agreement looks commercially attractive.
+
+The opposite may also occur. A stable long-term customer can justify grid investment that would otherwise not be financed, improving overall infrastructure use. The value depends on location, seasonal dispatch and the power-system requirements for contingencies. Proximity to a large dam alone does not determine whether a connection is economically efficient.
+
+Authorities should make enough information public to evaluate the relation between incremental costs and expected revenues while protecting legitimate commercial confidentiality. The allocation of profits and taxes also matters: electricity can be bought domestically to support digital services whose main contracts and intellectual-property rights remain in another jurisdiction.
+
+## 28. Brazil's REDATA law and industrial response in 2026
+
+Brazil enacted **Law No. 15,504 on 15 September 2026**, creating the **Special Tax Regime for Data Center Services (REDATA)**. The law provides tax incentives for qualifying equipment and establishes conditions linked to sustainability, national markets and research investment. It represents an attempt to attract AI infrastructure while reducing dependence on foreign cloud services. [26][27]
+
+According to Brazil's Finance Ministry, firms benefiting from the programme generally must allocate **at least 10% of their computing and data-services capacity to the domestic market**, invest **2% of the eligible purchase value** in local research-related commitments, secure sufficient clean electricity and meet a cooling-water efficiency standard of **0.05 liter/kWh or less**. Regional adaptations and implementing rules need to be considered before applying the thresholds to particular projects. [27]
+
+The programme does not establish that Brazil will automatically attract investment over Paraguay. Net electricity costs, taxes, grid availability, land, submarine cable connections, latency, borrowing conditions and customer access all influence site selection. Comparative evaluation requires actual project contracts and rules rather than promotional statements by either government.
+
+## 29. Forecast grid connection requests versus actual electricity use
+
+EPE's research on the impact of large data centers reported a growing number of connection requests to Brazil's transmission system. One update covering February 2025 identified **36 requested connections totaling approximately 15.7 GW by 2037**. The number reflects a pipeline of proposed demand, not completed and operating computing plants. Individual projects may be delayed, resized, cancelled or mutually exclusive in their access requirements. [28]
+
+If 15.7 GW were hypothetically consumed continuously, it would equal roughly **137.5 TWh a year**. That is an important scale relative to Brazil's **667.8 TWh final electricity consumption in 2025**. Yet this is only a mathematical upper-bound illustration, not EPE's forecast of energy actually used. Differences between requested connection power, IT load, facility overhead and operating utilization are fundamental. [7][28]
+
+Many requests concentrate near major urban and industrial centers, placing pressure on specific corridors and substations. Wind output that cannot be delivered from the Northeast does not automatically solve a transmission bottleneck around São Paulo. The economic effects of new data centers must be modeled geographically and hourly.
+
+## 30. Why computing campuses are distinctive grid customers
+
+AI training and cloud infrastructure require substantial electrical availability, but different workloads have different degrees of flexibility. Some batch computing may be shifted to periods when renewable output is abundant. Real-time inference, customer-facing applications and latency-sensitive services often need continuous capacity. Treating all computing loads as freely interruptible would overstate their usefulness for balancing electricity systems.
+
+A constant demand profile may help absorb otherwise underused generation in some hours, but can also increase pressure during drought, outages and peak periods. Energy-storage agreements, credible demand-response commitments and independently verified operational flexibility influence whether a new project increases or decreases the broader system's cost.
+
+The facility itself needs redundancy, cooling, backup supply, optical networks, fire protection and cyber defenses. Power consumption is only one component of its environmental and economic footprint. Water use, thermal discharge, backup generator emissions and equipment replacement may impose locally important costs.
+
+## 31. The worldwide competition for low-carbon electricity and AI
+
+Advanced AI models, cloud servers and scientific computing systems require chips whose electrical demand depends on architecture, cooling design and workload utilization. Firms therefore seek locations with comparatively low-cost power, stable grids, good communications infrastructure and predictable contracts.
+
+Power marketed as hydropower can provide an attractive emissions profile, but claims about marginal emissions should account for electricity that might otherwise serve another customer. In interconnected systems, a change in one customer's demand may cause different plants to dispatch at another hour or in another region. The label renewable does not by itself establish the complete system-wide effects of a new large load.
+
+Locating servers in a country is also not equivalent to transferring the ability to design AI chips, operate foundation models or control customer data. True technological autonomy depends on corporate governance, technical training, encryption, service contracts and national legal protections.
+
+## 32. Renewable curtailment and the limits of apparent electricity surpluses
+
+Brazil has been experiencing **curtailment of wind and solar generation** when supply exceeds system requirements or network and reliability constraints prevent generation from being used. In October 2026, ANEEL approved updated rules for the sequence of mandatory reductions, while the national system operator continued work on measuring and communicating generation restrictions. [29][30]
+
+Electricity not generated during a sunny midday cannot automatically be used during an evening peak. Additional daytime load can be helpful in some locations, but a computing campus requiring round-the-clock service will still need night-time and contingency supplies. Storage and well-designed load flexibility are therefore important if the project is intended to absorb renewable surpluses.
+
+Curtailment illustrates why a country can have abundant renewable potential while maintaining material system costs. Transmission, voltage control, operational reserve, forecasting and demand management are necessary complements to new wind and solar capacity.
+
+## 33. Paraná hydrology and the competing risks of drought and flooding
+
+Itaipu's annual output depends on river inflows, upstream reservoir operations and physical limits on the use of water. Climate variability and land-use change influence the availability and timing of water. Hydropower stations cannot create a water resource; they transform the energy of the flow they receive within technical and environmental constraints.
+
+On **23 October 2026**, Itaipu announced a strategy to lower reservoir levels in anticipation of very heavy rainfall, including forecasts exceeding **300–350 mm** in parts of the region. The purpose was to manage downstream releases and reduce the coincidence of flood peaks in the Paraná and Iguaçu rivers. This is an observed flood-management event, not an indication of sabotage or of a scarcity emergency. [31]
+
+Electricity production and public safety cannot be separated. At times, a hydropower operator must release water to preserve structural and downstream safety even if some potential generation is forgone. Evaluating that decision only in terms of lost megawatt-hours would ignore human life, infrastructure damage and legal responsibilities.
+
+## 34. Drought resilience and Brazil's diversified generating fleet
+
+Extended dry periods can reduce hydraulic generation and increase the use of thermal electricity, generally at higher marginal costs. Wind and solar provide complementary resources and can conserve reservoir water during favorable periods, but their availability is variable. The optimal portfolio combines resource diversity, transmission links and appropriately chosen flexible capacity.
+
+Batteries, demand response and improved forecasting can mitigate hourly imbalances. They do not replace seasonal water storage under every condition. Planning needs to examine synchronized risks: low river inflows, high temperatures, high demand and simultaneous outages.
+
+The expansion of data centers increases the importance of such combined scenarios. A project that depends on the hydrological conditions of a good year without contingency planning may expose other consumers to unexpected pressure in a dry year. Long-term contracts should address volume uncertainty and firm-power commitments explicitly.
+
+## 35. Transmission as an asset equal in strategic importance to generation
+
+Itaipu's power reaches consumers through an interlinked transmission network and equipment that accommodates different frequency systems. Transformers, converter stations, substations, lines and protective devices are indispensable parts of the supply chain. A generating plant can remain operational while a failed transmission corridor prevents a significant share of its output from reaching customers.
+
+Maintaining such networks requires skilled labor, replacement equipment, financing and often internationally sourced components. Transformer lead times and grid-automation dependencies can make recovery expensive. These vulnerabilities are distinct from whether Paraguay and Brazil agree on the latest Annex C tariff.
+
+Resilience should be designed around credible contingencies and economic costs. Redundancy can be valuable, but indiscriminate duplication of all equipment may be prohibitively expensive. The relevant measures are restoration times, critical spares, maintenance backlogs and the ability to reroute electricity after a component fails.
+
+## 36. Extreme weather and the transmission failures of 2026
+
+In October 2026, Brazil's grid operator described major weather-related damage to transmission towers following severe storms. Media reporting cited **more than 290 affected structures** over preceding months, especially in southern Brazil, while the operator characterized actual disruption to served demand as relatively limited owing to system resilience. [32]
+
+The episode distinguishes physical exposure from system failure. Losing a line may be survivable when alternate paths and grid protections operate correctly. It still creates repair costs and dangerous working conditions and can expose smaller communities to localized interruptions.
+
+Energy-security evaluation should focus on documented storm risks, fires, maintenance problems, vandalism and technical failures while retaining appropriate procedures for investigating deliberate interference if evidence appears. Attributing every outage to external geopolitics would misallocate resources and obscure practical preventive measures.
+
+## 37. Industrial cybersecurity at dams, substations and data centers
+
+Modern electricity networks rely on supervisory control, telemetry, protective relays, digital communications and industrial software. These systems improve operational efficiency but require disciplined cyber risk management. A digital intrusion can disrupt availability or compromise records without necessarily damaging generation equipment physically.
+
+For a binational installation, good practice includes tightly managed access, vendor assurance, segmentation between business and control networks, recovery capability and coordinated incident response across institutions. Public discussion should remain at the level of governance and resilience rather than expose operational vulnerabilities.
+
+A data center near a substation does not automatically connect its servers to the hydroelectric plant's industrial-control network. Engineering and security rules should preserve separation between corporate computing traffic, electricity delivery and the plant's own control systems.
+
+## 38. Brazilian defense institutions and critical-infrastructure security
+
+Brazil's Armed Forces have constitutional responsibilities for territorial defense and may participate in contingency planning for strategic facilities. That does not transfer electricity tariff decisions or industrial licensing away from the competent civilian agencies. Routine safety also relies on utilities, police, fire response and regulators.
+
+A major facility on a border requires Brazil and Paraguay to coordinate physical protection and responses to serious incidents. Military actions crossing the border without authorization would present major legal and diplomatic risks and are not a rational interpretation of existing cooperation.
+
+The American corporate interest in an AI facility is not evidence of foreign troops mobilizing to seize Itaipu. Planning for exceptional military conflict can exist as a contingency, but the documented priorities include secure grid operations, physical access management and natural-hazard readiness.
+
+## 39. Economic leverage and changing bargaining positions
+
+A state or corporation can influence energy decisions through capital, technological knowledge, long-term contracts and access to major industrial customers. These channels may change choices without military force. In Paraguay, attracting high-value computing projects can raise the opportunity cost of transferring electricity to Brazil, potentially strengthening its position in future negotiations.
+
+American firms may seek trusted, low-carbon computing locations for clients and supply chains. Paraguay can use that demand to promote development. Brazil may face changing electricity volumes and incentives while possessing alternative generation capacity and opportunities for its own data-center market.
+
+The term interference should be used precisely. Ordinary commercial diplomacy is an exercise of influence; coercion or corruption requires additional evidence and legal analysis. A diplomatic announcement made without Brazilian participation is not itself proof of unlawful control over binational electricity.
+
+## 40. The 2027 market-opening question
+
+The Brazilian government's 2024 agreement with Paraguay contemplated a framework for more flexible marketing of unused Paraguayan electricity beginning in 2027. The practical conditions require negotiated Annex C provisions and subsequent implementing arrangements. New domestic Paraguayan customers could reduce the amount available for sale abroad if they use electricity within that legal framework. [19]
+
+That possibility should not be mechanically translated into an equivalent loss of electricity for Brazil from the 280 MW press-release figure. The Brazilian grid has other suppliers, and the project has not reached the stage of measured full load. Bilateral allocation, contractual rights and physical delivery conditions must all be examined.
+
+Available Brazilian policy responses include network reinforcement, diversified generating capacity, long-term energy contracts and constructive bilateral negotiation. Each choice involves costs, and its value depends on a realistic comparison rather than an assumption that the cheapest alternative will always be to demand another country's surplus.
+
+## 41. Crypto mining as a separate energy-intensive comparator
+
+Paraguay has also attracted interest from energy-intensive digital businesses such as cryptocurrency mining. These activities share high electrical consumption with some AI infrastructure, but their revenue sources, price sensitivity, technological needs and labor impacts differ. The existence of an earlier energy-intensive industry can inform regulatory debates without establishing that all future computing projects behave identically.
+
+A demand for special rates can create risks of cross-subsidy where other customers pay for infrastructure. Conversely, reliable industrial demand may justify useful investment. The relevant questions concern incremental costs, contract stability and the capability to enforce payment and operating conditions.
+
+The AI project announced in 2026 should be examined on its own merits: cloud customers, national service provision, research capacity, fiscal treatment and the quality of the technology transferred to the local economy.
+
+## 42. Argentina, Uruguay and regional electricity cooperation
+
+Brazil has other electricity exchange experiences with Argentina and Uruguay, alongside its Itaipu and broader South American connections. Regional exchanges can lower costs when hydrological, seasonal or time-of-day conditions differ. Their success depends on grid links, stable commercial rules and governments' willingness to honor agreements.
+
+Argentina's role as a downstream state in the historical Itaipu dispute demonstrates the potential for conflict over shared resources, while the 1979 settlement shows that institutions can reconcile important differences. Uruguay offers a smaller-market example of energy integration with different generation and policy structures.
+
+A resilient Brazilian strategy should avoid exclusive dependence on a single bilateral source or an assumption of permanently frictionless regional relations. Diversified exchanges and predictable settlement mechanisms reduce risk while preserving mutually beneficial trade.
+
+## 43. The comparisons with Quebec and Norway
+
+Jurisdictions with abundant hydropower and favorable climates have become attractive to large computing installations because electricity and cooling affect costs and emissions. Quebec and Norway illustrate broader patterns of competition for low-carbon electricity, industrial development and transmission capacity.
+
+Neither case demonstrates that hydropower alone creates a leading AI industry. Semiconductor access, fiber connectivity, software engineering, capital and customer markets also determine where advanced services grow. A region can supply energy while capturing only a small fraction of the economic value.
+
+Brazil and Paraguay have different scales of domestic demand and different energy pricing and tax institutions. The best project for one country is not necessarily the largest campus in terms of announced megawatts. Value added, fiscal return and technical capabilities should carry weight alongside power consumption.
+
+## 44. Four possible development paths through 2040
+
+Under a **productive integration** path, Paraguay attracts computing investments with cost-reflective electricity, local infrastructure and enforceable training commitments. Brazil negotiates Annex C provisions constructively, expands its own computing industry and secures alternative electricity capacity. The binational plant remains an asset supporting two productive economies.
+
+Under a **digital dependency** path, Paraguayan electricity is allocated cheaply to operators whose software, cloud clients and large margins remain outside the country. Brazil responds with poorly evaluated incentives that transfer resources without creating meaningful local research or manufacturing capability.
+
+Under a **tariff confrontation** path, disagreements over compensation, contracted power and network costs damage political confidence and delay projects. Under a **physical shock** path, drought, floods or transmission failures make reliability more important than planned computing expansion. These are conditional mechanisms, not assigned numerical forecasts.
+
+## 45. A ranked set of exposures for Brazil
+
+**Hydrological exposure** remains significant because water availability affects power output and dispatch flexibility. **Transmission exposure** concerns storms, long replacement times and network expansion. **Financial exposure** arises from tariffs, service charges and potential subsidies to large consumers. **External contractual exposure** involves ongoing Paraguay negotiations and the possibility of future domestic uses for energy formerly ceded.
+
+**Digital exposure** includes dependence on foreign clouds, processors, industrial software and cybersecurity providers. **Diplomatic exposure** was illustrated by the dispute following the 2025 surveillance revelations. **Environmental exposure** includes floods, reservoir management and the effects of large infrastructure development.
+
+An American military operation to capture Itaipu has not been demonstrated by the publicly available evidence used here. It should not be placed in the same risk category as the observable vulnerabilities simply because American firms and diplomats are active in the region.
+
+## 46. Industrial alternatives for scarce firm electricity
+
+Electricity can support aluminium, fertilizers, hydrogen, steel, chemical processing or digital services. The economic value of an additional unit of electricity depends on realistic alternatives, not a predetermined ideological preference for either traditional manufacturing or data centers.
+
+Computing campuses often involve large capital investment with relatively few permanent jobs per megawatt. They can nevertheless support valuable engineering and software ecosystems where skills, local procurement and public research are developed. The assessment should consider all these effects without confusing construction employment with long-term operations.
+
+Projects benefiting from public policy should be evaluated for use of national services, cost-reflective electricity tariffs, water performance and durable domestic capability. Brazil can set rules for its own incentives; Paraguay will make decisions within its institutions and treaty obligations. Cooperation can protect the interests of both better than a zero-sum contest.
+
+## 47. Metrics that reveal rather than conceal performance
+
+Itaipu monitoring should separately report **total output, deliveries to each country, electricity ceded from Paraguay's legal share, contracted capacity, effective tariffs, royalty payments and operating costs**. Every indicator needs a date range, a unit and a clear source. A fifty-fifty legal entitlement cannot be replaced with a single year's physical delivery ratio.
+
+Data-center metrics should distinguish planned IT power, approved grid connection, installed facility capacity, electricity actually measured each month, observed PUE, water usage, tariffs, grid cost allocation and local-service provision. Crusoe–Araico's future 280 MW should remain a project option until construction, energization and commercial operations justify reporting realized capacity.
+
+National electricity-security monitoring needs reservoirs, weather exposure, transmission outages, renewable curtailment, reserve margins, imported fuels and restoration times. Stable historical series are more useful for accountability than rapidly changing promises of megawatts without clear definitions.
+
+## 48. What Brazil can legitimately negotiate with Paraguay
+
+Brazil can demand that binational rights and operating procedures be respected, request transparency about effects on treaty commitments and negotiate reliable future deliveries. It can propose grid investments, long-term electricity exchanges and mutually beneficial changes to pricing. It cannot simply claim the unrestricted right to control Paraguay's electricity because a foreign-owned company might become a customer.
+
+Joint research, integrated digital infrastructure and transparent benefit sharing may create opportunities for both governments. The aim should be to identify shared gains instead of treating every Paraguayan industrial project as a Brazilian loss.
+
+The absence of Brazil from a business ceremony is not itself proof that an international treaty has been violated. Stronger evidence would involve incompatible contract terms, actual unauthorized reallocation or decisions beyond an institution's competence. The public documentation available in October 2026 does not by itself establish those findings.
+
+## 49. Itaipu's historical legacy for the century of computing
+
+Itaipu emerged from a combination of major engineering, state authority, industrial requirements and asymmetric regional power. It changed electricity supply in two countries, required accommodation with a third and left enduring environmental and political legacies. The 1973 treaty still determines rights in an environment transformed by cloud services and AI.
+
+Paraguay has legitimate rights to develop industry using its electricity allocation within the agreed legal framework. Brazil has legitimate interests in affordability, dependable supply and maintaining a functioning binational entity. American technology firms seek energy for computing and strengthen their position through investment and diplomacy. These motives can complement or conflict with one another depending on actual contract terms.
+
+Sovereignty is measured through functioning institutions and legal control, not through the loudness of geopolitical accusations. Reliable grids, fair tariffs, scientific capability and transparent negotiated rights give countries more durable autonomy than unsupported claims of foreign invasion.
+
+## 50. Energy and digital power through 2040
+
+The pace of electrification and AI expansion will depend on water conditions, network capacity, storage technologies, financing and the efficiency of computing systems. States that combine dependable electricity with engineering talent, manufacturing and data governance are more likely to capture a greater share of digital value.
+
+Brazil's challenge is to exploit its clean-power advantage without undermining affordability or reliability for households and firms. Itaipu should remain an instrument of beneficial regional integration, adapted to growing demand and new economic uses. Foreign capital is neither inherently a threat nor a guarantee of prosperity; its effects depend on competitive alternatives, contracts and local learning.
+
+Electricity policy increasingly determines where computing infrastructure and associated economic power will reside. Itaipu's future will matter not only for megawatt-hours, but for whether its two owners can convert a historic shared resource into long-term productive capacity and institutional security.
+
+## Quantitative and documentary comparison
+
+| Indicator | Period | Value | Category and qualification |
+|---|---|---:|---|
+| Itaipu installed capacity | Existing plant | 14 GW | Nameplate power, not annual energy |
+| Itaipu generating units | Existing plant | 20 | Each rated at 700 MW |
+| Itaipu annual output | 2025 | 72.879 TWh | Binational production figure |
+| Itaipu annual output | 2024 | 67.089 TWh | Binational production figure |
+| Itaipu electricity delivered to ANDE | 2025 | 25.768 TWh | Actual Paraguayan delivery |
+| Paraguayan share ceded to Brazil | 2025 | 10.455 TWh | Brazilian parliamentary documentation |
+| Itaipu electricity destined for Brazil | 2025 | 46.679 TWh | Brazilian parliamentary documentation |
+| Brazil internal electricity supply | 2025 | 783.3 TWh | EPE accounting definition |
+| Brazil final electricity consumption | 2025 | 667.8 TWh | Distinct from total internal supply |
+| Brazil renewable share of electricity supply | 2025 | 86.6% | EPE |
+| Brazil hydraulic share of electricity supply | 2025 | 52.2% | EPE |
+| Itaipu agreed service cost | 2024–2026 | US$19.28/kW-month | Not direct data-center energy price |
+| Crusoe–Araico projected IT capacity | Future | 106 MW | Expansion path announced |
+| Crusoe–Araico long-term option | Future | Up to 280 MW | Not installed consumption |
+| 280 MW IT, running constantly | Arithmetic scenario | 2.4528 TWh/year | Not metered demand |
+| 280 MW IT, assumed PUE 1.20 | Arithmetic scenario | 2.9434 TWh/year | Hypothetical facility demand |
+| Proposed Brazilian data-center connections | 2025 review through 2037 | 15.7 GW | Requests, not operating loads |
+
+## Analytical visualizations
+
+```chart
+type: bar
+title: Itaipu annual generation
+unit: TWh
+2024 | 67.089
+2025 | 72.879
+```
+
+```chart
+type: bar
+title: Itaipu 2025 electricity by national destination
+unit: TWh
+Brazil | 46.679
+Paraguay | 25.768
+```
+
+```chart
+type: bar
+title: Continuous operation at 280 MW: annual electricity
+unit: TWh/year
+IT equipment | 2.4528
+Whole facility at assumed PUE 1.20 | 2.94336
+```
+
+```flow
+1973 treaty → equal sovereign entitlements → Annex C contractual rules → review after 2023 → changing commercial arrangements and digital demand from 2027
+Paraguayan national allocation → ANDE and local customers → new computing investment → either local productive value or foreign-operator dependency
+Brazilian energy security → hydrology and generation → conversion and transmission → tariffs and international contracts → reliable national supply
+```
+
+```map
+title: Energy infrastructure and regional geopolitical actors
+Itaipu Dam, Foz do Iguaçu, Paraná, Brazil | Binational hydropower | Shared treaty ownership
+Hernandarias, Alto Paraná, Paraguay | Paraguayan grid infrastructure | Electricity network and major customers
+Yguazú, Alto Paraná, Paraguay | Digital development area | Proposed Crusoe–Araico regional investment
+Asunción, Paraguay | National government and ANDE | Tariffs and Annex C negotiation
+Brasília, Distrito Federal, Brazil | Brazilian energy and diplomatic authorities | Security and binational policy
+Buenos Aires, Argentina | Downstream Paraná River state | Historical 1979 Tripartite Agreement
+Washington, DC, United States | State Department and technology diplomacy | Pax Silica strategic AI initiative
+```
+
+```mindmap
+Itaipu and Brazilian electricity security
+- History and sovereignty
+  - Paraguayan War
+  - 1973 treaty
+  - Annex C fifty-year review
+  - 2009-2011 renegotiation
+- Physical electricity system
+  - Hydrology and reservoirs
+  - Dispatchable power and renewable mix
+  - Grid transmission and conversion
+  - Cyber resilience
+- Competing interests
+  - Brazilian consumer affordability
+  - Paraguayan industrial development
+  - US Pax Silica and technology strategy
+  - Private cloud operators
+- Data centers
+  - Announced versus observed electricity use
+  - Brazil REDATA
+  - Cost-reflective pricing and subsidies
+  - Water and networking
+- Future risks
+  - Climate extremes
+  - Diplomatic conflict
+  - Technology dependency
+  - Conditional paths through 2040
+```
+
+## References and documents
+
+[1] Brazil, Decree No. 72,707 of 28 August 1973, Treaty of Itaipu: https://www2.camara.leg.br/legin/fed/decret/1970-1979/decreto-72707-28-agosto-1973-421325-publicacaooriginal-1-pe.html
+
+[2] Itaipu Binacional, 2025 generation and productivity, January 2026: https://www.itaipu.gov.py/noticias/energia/central-hidroelectrica-itaipu-registro-una-productividad-record-en-el-ano-2025
+
+[3] Itaipu Binacional, 2025 electricity supplied to ANDE, January 2026: https://www.itaipu.gov.py/noticias/energia/itaipu-suministro-25-768-gwh-de-energia-electrica-a-paraguay-en-el-2025
+
+[4] Crusoe, corporate statement on the Araico partnership, 22 October 2026: https://www.crusoe.ai/resources/newsroom/crusoe-araico-hydroelectric-ai-infrastructure-partnership
+
+[5] Paraguayan Ministry of Foreign Relations, Pax Silica accession, 23 October 2026: https://www.mre.gov.py/paraguay-se-suma-a-la-declaracion-de-la-pax-silica/
+
+[6] Paraguay state news service, Yguazú Digital and Crusoe–Araico, 23 October 2026: https://mediosdelestado.gov.py/ip/2026/10/23/pena-presenta-en-ee-uu-proyecto-yguazu-digital-para-atraer-inversiones-en-infraestructura-digital-y-centros-de-datos/
+
+[7] EPE, *National Energy Balance 2026*, 2025 data: https://dashboard.epe.gov.br/apps/livro-ben/livro/pt/capitulo_1.html
+
+[8] Brazilian National Congress, 1973 approval of the Itaipu treaty: https://www2.camara.leg.br/legin/fed/decleg/1970-1979/decretolegislativo-23-30-maio-1973-346403-publicacaooriginal-1-pl.html
+
+[9] Itaipu Binacional, fifty-year anniversary and Annex C revision: https://www.itaipu.gov.py/noticias/institucional/quincuagesimo-aniversario-de-vigencia-del-tratado-de-itaipu-abre-paso-a-la-revision-del-anexo-c
+
+[10] Itaipu Binacional, original Annex C text: https://www.itaipu.gov.py/sites/default/files/u123/AnexoC.pdf
+
+[11] Luiz Eduardo Pinto Barros, historical study of Argentina and Itaipu, 1966–1979: https://periodicostestes.bce.unb.br/index.php/emtempos/article/view/37048
+
+[12] Itaipu Binacional, institutional history and the 1979 Tripartite Agreement: https://www.itaipu.gov.py/institucional/sobre-itaipu/nuestra-historia
+
+[13] Inter-American Development Bank, *Monetary and Fiscal History of Brazil, 1960–2016*: https://publications.iadb.org/publications/english/document/The_Monetary_and_Fiscal_History_of_Brazil_1960-2016_en_en.pdf
+
+[14] Federal Reserve History, *Latin American Debt Crisis*: https://www.federalreservehistory.org/essays/latin-american-debt-crisis
+
+[15] Columbia Center on Sustainable Investment, *Leveraging Paraguay's Hydropower for Sustainable Economic Development*: https://ccsi.columbia.edu/sites/ccsi.columbia.edu/files/content/docs/our%20focus/extractive%20industries/Leveraging-Paraguays-Hydropower-for-Economic-Development-Final-CCSI.pdf
+
+[16] Itaipu Binacional, increased compensation for ceded energy, May 2011: https://www.itaipu.gov.py/noticias/sin-categorizar/brasil-aprobo-triplicar-compensacion-al-paraguay-por-energia-de-itaipu
+
+[17] Brazilian Chamber of Deputies, April 2011 approval of the payment increase: https://www.camara.leg.br/noticias/212411-CAMARA-APROVA-AUMENTO-DO-VALOR-PAGO-AO-PARAGUAI-POR-ENERGIA-DE-ITAIPU
+
+[18] Paraguayan Ministry of Industry and Commerce, 2024–2026 tariff agreement: https://www.mic.gov.py/paraguay-y-brasil-acuerdan-historica-tarifa-de-itaipu-y-anuncian-el-inicio-de-las-negociaciones-del-anexo-c/
+
+[19] Brazilian Mines and Energy Ministry, bilateral tariff agreement and 2027 plans: https://www.gov.br/mme/pt-br/assuntos/noticias/brasil-e-paraguai-fecham-acordo-estrutural-para-tarifas-de-itaipu
+
+[20] Paraguayan Foreign Ministry, March 2026 Annex C meeting: https://www.mre.gov.py/paraguay-y-brasil-avanzan-en-la-revision-del-anexo-c-de-itaipu/
+
+[21] Itaipu Binacional, 19 March 2026 foreign ministers' statement: https://www.itaipu.gov.py/noticias/institucional/cancilleres-de-paraguay-y-brasil-destacan-avances-en-la-revision-del-anexo-c-del-tratado-de-itaipu
+
+[22] Associated Press, Brazil–Paraguay espionage dispute, April 2025: https://apnews.com/article/24bd56c84442acfc08c5b6985df344f2
+
+[23] Paraguayan government news service, Christopher Landau visit, 22 October 2026: https://mediosdelestado.gov.py/ip/2026/10/22/inversiones-en-tecnologia-y-nuevas-fuentes-de-energia-se-formalizaron-en-visita-del-subsecretario-de-ee-uu/
+
+[24] ANDE, applicable electricity tariffs and intensive-use categories: https://www.ande.gov.py/tarifas_vigentes.php
+
+[25] ABC Color, requests for clarification of the Araico–Crusoe electricity contract, 23 October 2026: https://www.abc.com.py/economia/2026/10/23/araico-y-crusoe-usaran-energia-de-itaipu-para-un-centro-de-ia-la-ande-no-informa-sobre-el-contrato/
+
+[26] Brazil, Law No. 15,504 of 15 September 2026, REDATA: https://www.presidencia.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15504.htm
+
+[27] Brazil's Finance Ministry, REDATA obligations, 16 September 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/regime-especial-de-tributacao-para-servicos-de-datacenter-e-sancionado
+
+[28] EPE, *Impacts of large data-center expansion on Brazilian electricity demand*, 2025: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-458/topico-801/GPL-018.pdf
+
+[29] Brazil's National Electric System Operator, renewable curtailment data: https://www.ons.org.br/Paginas/faq_curtailment.aspx
+
+[30] ANEEL, updated mandatory generation-restriction rules, 6 October 2026: https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-regra-para-organizar-cortes-de-geracao
+
+[31] Itaipu Binacional, flood management during the October 2026 rain event: https://www.itaipu.gov.br/noticias/utilidade-publica/itaipu-adota-estrategia-para-conter-elevacao-do-rio-parana-diante-da-previsao-de-chuvas-intensas
+
+[32] Folha de S.Paulo, extreme-weather damage to transmission equipment in October 2026: https://c-level.folha.uol.com.br/infraestrutura/2026/10/efeitos-do-el-nino-derrubam-mais-de-290-torres-de-energia-no-brasil-desde-julho.shtml
+
+[33] Brazilian Chamber of Deputies, Mines and Energy Ministry information on Itaipu 2025 deliveries: https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3134139&filename=Tramitacao-18-RIC-352-2026
