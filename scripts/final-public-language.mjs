@@ -111,8 +111,10 @@ function applyPairs(text,pairs){let out=text;for(const [re,to] of pairs)out=out.
 function visibleText(html){return html.replace(/<(script|style|pre|code)\b[\s\S]*?<\/\1>/gi,' ').replace(/<[^>]+>/g,' ');}
 function normalizeHtml(text,en){
   const protectedBlocks=[];
-  // The report-page H1 is rendered from locale metadata and must stay byte-exact for localized output validation.
-  let work=text.replace(/<(script|style|pre|code|h1)\b[\s\S]*?<\/\1>/gi,m=>{const token=`___MT_PROTECTED_${protectedBlocks.length}___`;protectedBlocks.push(m);return token;});
+  // Preserve only report-page H1 from canonical locale metadata; other page headings need normal translation.
+  const isReportPage=/<section class=["'][^"']*\breport-page-hero\b/i.test(text);
+  const protectedPattern=isReportPage?/<(script|style|pre|code|h1)\b[\s\S]*?<\/\1>/gi:/<(script|style|pre|code)\b[\s\S]*?<\/\1>/gi;
+  let work=text.replace(protectedPattern,m=>{const token=`___MT_PROTECTED_${protectedBlocks.length}___`;protectedBlocks.push(m);return token;});
   work=work.split(/(<[^>]+>)/g).map(part=>part.startsWith('<')?part:applyPairs(part,en?enPairs:ptPairs)).join('');
   return work.replace(/___MT_PROTECTED_(\d+)___/g,(_,n)=>protectedBlocks[Number(n)]);
 }
