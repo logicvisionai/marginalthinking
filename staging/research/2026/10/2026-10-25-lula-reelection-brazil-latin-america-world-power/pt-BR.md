@@ -2,7 +2,7 @@
 
 A projeção de reeleição de Luiz Inácio Lula da Silva no segundo turno presidencial de 25 de outubro de 2026 não representa apenas a continuidade de um governo. Ela concentra três disputas históricas distintas: a capacidade de uma democracia socialmente desigual transferir e renovar o poder pelo voto; o conflito sobre quem controla recursos públicos, direitos sociais e políticas econômicas; e a posição de um país de grande escala em uma ordem internacional pressionada pela rivalidade entre Estados Unidos e China. A vitória projetada sobre Flávio Bolsonaro, herdeiro político do campo liderado por Jair Bolsonaro, ocorre quando o eleitorado manifesta preferências territoriais e sociais fortemente divididas, e quando a Câmara eleita oferece uma correlação de forças significativamente diferente daquela expressa na Presidência. [1][2][3]
 
-Na noite da votação, a projeção do Datafolha indicou a vitória de Lula. Com 86,41% das seções apuradas, o petista registrava 51,45% dos votos válidos contra 48,55% de Flávio. A informação corresponde à projeção feita durante a totalização, não ao resultado final homologado, e os números definitivos precisam ser distinguidos da fotografia daquele momento. O primeiro turno já havia exposto a competitividade da oposição: Flávio obtivera 47,03% dos votos válidos e Lula 45,16%. A inversão da liderança em segundo turno sugere a importância da mobilização de eleitores ausentes e das transferências de votos, mas não permite atribuir causalidade precisa a cada grupo sem dados de painel ou estudo eleitoral apropriado. [1][2]
+Na noite da votação, a projeção do Datafolha indicou a vitória de Lula. Com 86,41% das seções apuradas, o petista registrava 51,45% dos votos válidos contra 48,55% de Flávio. A informação corresponde à projeção feita durante a totalização, não ao resultado final homologado, e os números definitivos precisam ser distinguidos da fotografia daquele momento. Às 21h26, o arquivo público de totalização do TSE registrou **99,87% das seções**, com **64.144.599 votos (51,76%) para Lula** e **59.774.442 votos (48,24%) para Flávio Bolsonaro**. A vantagem, superior a 4,37 milhões de votos, tornou a vitória matematicamente irreversível diante das 658 seções ainda não totalizadas, embora a totalização integral e os atos formais posteriores devessem continuar separados desse marco. [20] O primeiro turno já havia exposto a competitividade da oposição: Flávio obtivera 47,03% dos votos válidos e Lula 45,16%. A inversão da liderança em segundo turno sugere a importância da mobilização de eleitores ausentes e das transferências de votos, mas não permite atribuir causalidade precisa a cada grupo sem dados de painel ou estudo eleitoral apropriado. [1][2]
 
 Uma eleição presidencial renova a legitimidade de um chefe do Executivo, não o controle de toda a estrutura estatal. O PL elegeu 121 dos 513 deputados federais para 2027, contra 88 da federação PT–PCdoB–PV. O resultado produz uma presidência sustentada pela coalizão vencedora e um Legislativo em que conservadores, liberais econômicos, partidos de centro e representantes regionais conservam ampla capacidade de veto e negociação. Isso distingue reeleição, governabilidade e hegemonia política. A qualidade do próximo mandato dependerá menos do tamanho das manifestações da noite eleitoral que da capacidade de transformar uma autorização eleitoral em política pública executável, preservando oposição legítima e instituições independentes. [3][4]
 
@@ -278,6 +278,8 @@ O resultado da eleição de 2026 terá significado maior se permitir manter comp
 | Jair Bolsonaro no segundo turno | 2022 | 49,10% | Resultado final do TSE |
 | Flávio Bolsonaro no primeiro turno | 2026 | 47,03% | TSE, totalização do primeiro turno |
 | Lula no primeiro turno | 2026 | 45,16% | TSE, totalização do primeiro turno |
+| Lula, totalização do segundo turno | 25/10/2026, 21h26 | 51,76% | TSE, 99,87% das seções, 64.144.599 votos |
+| Flávio Bolsonaro, mesma totalização | 25/10/2026, 21h26 | 48,24% | TSE, 99,87% das seções, 59.774.442 votos |
 | Lula na apuração de segundo turno | 25/10/2026 | 51,45% | Parcial com 86,41% apurado, Datafolha projetou vitória; não é resultado final |
 | Flávio Bolsonaro na mesma parcial | 25/10/2026 | 48,55% | Mesma parcial e metodologia |
 | PL, deputados eleitos | 2026 | 121 | Composição para legislatura de 2027 |
@@ -301,6 +303,15 @@ title: Bancadas eleitas para a Câmara dos Deputados em 2026
 unit: deputados federais
 PL | 121
 Federação PT-PCdoB-PV | 88
+```
+
+
+```chart
+type: bar
+title: Segundo turno presidencial de 2026, totalização oficial do TSE às 21h26
+unit: % de votos válidos
+Lula | 51.76
+Flávio Bolsonaro | 48.24
 ```
 
 ```flow
@@ -380,3 +391,5 @@ A eleição de 2026 e o poder brasileiro
 [18] Parlamento Europeu, *Brazil ahead of the 2026 elections*, setembro de 2026: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/09/EPRS_BRI%282026%29791522.html?locale=EN
 
 [19] World Bank, *Poverty & Equity Brief: Brazil*, outubro de 2025: https://documents1.worldbank.org/curated/en/099516404212531759/pdf/IDU-219d2fbb-9fdf-4efb-8504-5addb6c841fd.pdf
+
+[20] Tribunal Superior Eleitoral, arquivo público de divulgação da totalização do 2º turno presidencial de 2026, registro de 25/10/2026 às 21h26, 99,87% das seções: https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json
