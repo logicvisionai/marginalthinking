@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "id": "MT-PH-2026-10-26-ebola-response",
+  "slug": "2026-10-26-bundibugyo-ebola-cross-border-health-systems",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-26T08:49:39.815Z",
+  "reviewed_commit": "8910c4f79fc633a80647cd41bb5a5f17804a0e51",
+  "pending_blob_sha": "a2f7cb19c26eea8cd850fc741611b7c4c9e577aa",
+  "source_blob_shas": {
+    "en": "04f7f1bec8e11ff100d124f6994e2a068821c715",
+    "pt-BR": "a7a32d92dcf8d030e5c1edf47db934f65cc3afe0"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-26-bundibugyo-ebola-cross-border-health-systems/en.md:3-92 and 94-107; staging/research/2026/10/2026-10-26-bundibugyo-ebola-cross-border-health-systems/pt-BR.md:3-92 and 94-107",
+      "issue": "Neither edition contains a numbered in-text source marker [1], [2], etc., although each appends a 12-entry bibliography. EDITORIAL-STYLE.md lines 278-282 requires concise numbered claim-level references for new publications. Key epidemiological and financing assertions therefore cannot be unambiguously traced to the corresponding final reference without manual inference.",
+      "evidence": [
+        "Exact full-Markdown scan: EN 0 numbered [n] in-text markers; PT-BR 0. Both list 12 numbered bibliographic entries only as '1.', '2.' etc. at lines 96-107.",
+        "High-impact claims needing attached markers: WHO 9,704/4,687 and 79.7% contact coverage (lines 3-5, 35-41); UNICEF 1,900 children and 42% service decline (line 64); World Bank US$426.6m and 104 diagnostic platforms (line 68); vaccine trial status (lines 76-78).",
+        "Normative source: EDITORIAL-STYLE.md, 'Referências bibliográficas ao final / References at the end', lines 278-282."
+      ]
+    },
+    {
+      "check": "schema_and_taxonomy",
+      "location": "data/pending/2026-10-26-bundibugyo-ebola-cross-border-health-systems.json: signal_rationale",
+      "issue": "Pending v2 declares signal_rationale as a string, but data/schemas/research-pending-v2.json defines this property as an object requiring delta, evidence, scale_path, transmission and falsifier when present. The v2 sidecar is not valid against its normative JSON Schema even though its core fields and source SHAs are present.",
+      "evidence": [
+        "Actual value begins 'WHO 23 October 2026 confirmed Nigeria's imported case...' and has JSON type string.",
+        "data/schemas/research-pending-v2.json properties.signal_rationale: type object; required delta, evidence, scale_path, transmission, falsifier.",
+        "This is a thematic public-health assessment, not a technology signal; remove the optional field or provide a valid structured object if genuinely applicable."
+      ]
+    },
+    {
+      "check": "taxonomy_geography",
+      "location": "data/pending/2026-10-26-bundibugyo-ebola-cross-border-health-systems.json: geography.level, geography.regions, geography.subregions, geography.countries",
+      "issue": "The article's evidence and geographic map concern a specific cross-border outbreak in DRC, Uganda, Kenya and Nigeria, yet the pending declares geography.level='global' with no countries or regions. This misclassifies the primary geographic object and prevents country/region access to the research, contrary to EDITORIAL-ARCHITECTURE.md's geography-as-access-axis rule.",
+      "evidence": [
+        "Staged EN map lines 13-19 and PT-BR map lines 13-19 name eastern DRC, Uganda, Kenya and Nigeria; no globally distributed case series is studied.",
+        "Current geography object: {level:'global', regions:[], subregions:[], countries:[]}.",
+        "EDITORIAL-ARCHITECTURE.md lines 109-122 defines multi-country access and ISO 3166-1 alpha-2 country identifiers; data/taxonomy.json controls region 'africa' and subregion 'sub-saharan-africa'."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Insert concise numbered source references in both EN/PT-BR arguments, tables and chart explanations, reusing the same numbers as the existing final bibliography. Ensure each material quantity and institutional claim points to the exact primary release and its observation date; retain all bibliography URLs at the end.",
+    "Make pending schema-compliant: remove the optional string signal_rationale or replace it with a meaningful object containing all five required schema keys, without adding an unsupported editorial line.",
+    "Set geographic scope to multi-country with controlled Africa/sub-Saharan Africa region identifiers and canonical ISO country entries for DRC, Uganda, Kenya and Nigeria; retain semantic EN/PT-BR parity and the current canonical report ID and slug.",
+    "Correct both staged Markdown editions before rewriting the pending sidecar LAST; increment revision from 1 to 2, refresh source SHAs in producer_checks, commit atomically, then resubmit for independent QA. Do not modify reports/**, public indexes, CSS, taxonomy or institutional files.",
+    "Run MT_VALIDATE_ALL_PENDING=1 node scripts/validate-editorial-depth.mjs and node scripts/validate-pipeline.mjs after revision, and resolve any additional failures. Do not treat the existing publication as approved."
+  ],
+  "evidence": [
+    "Reviewed HEAD 8910c4f79fc633a80647cd41bb5a5f17804a0e51; pending SHA a2f7cb19c26eea8cd850fc741611b7c4c9e577aa; EN 04f7f1bec8e11ff100d124f6994e2a068821c715; PT-BR a7a32d92dcf8d030e5c1edf47db934f65cc3afe0. Producer source SHA references match both Git blobs 2/2; no prior approval, rejection or public metadata for this slug at review time.",
+    "Reproduced exact expressions from scripts/validate-editorial-depth.mjs: EN 2,135 substantive words; PT-BR 2,303; 8 H2 each; 12 URLs/6 hosts each; 2 charts, 1 flow, 1 map, 9 Markdown table lines each; numeric chart series [[6757,9704],[307,175]] identical.",
+    "WHO DON622 (23 Oct 2026) confirms DRC 9,704 cases/4,687 deaths, 66 zones, 79.7% contact follow-up, Kenya 9 cases and Nigeria 1: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+    "WHO DON617 (10 Sep 2026) confirms DRC 6,757 cases/3,267 deaths as of 7 Sep: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617",
+    "World Bank (13 Oct 2026) confirms $426.6m current/planned, $80m/$13m components, 104 diagnostic platforms, 70,000 tests, 340 tonnes delivered: https://www.worldbank.org/en/news/press-release/2026/10/13/world-bank-group-expands-ongoing-support-for-ebola-response-in-drc-and-the-region",
+    "UNICEF (6 Oct 2026) reports >1,900 orphaned/separated children: https://www.unicef.org/press-releases/more-1900-children-orphaned-or-separated-their-families-ebola-eastern-dr-congo",
+    "UNICEF (6 Aug 2026) reports 42% hotspot and ~13% Ituri essential-care utilization decline: https://www.unicef.org/press-releases/dr-congo-ebola-child-deaths-pass-300-unicef-warns-outbreak-also-threatens-essential",
+    "Full Node scripts not executed because no local checkout and git DNS resolution failed; relevant validator expressions were reproduced directly against complete staged Markdown."
+  ],
+  "taxonomy_issues": [
+    "Pending optional signal_rationale has wrong JSON Schema type.",
+    "Geography classified global/empty despite explicit multi-country African evidence."
+  ],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "notes": "3/3 Git blob SHA paths checked against current HEAD; producer_checks source_shas match 2/2."
+    },
+    "schema_and_taxonomy": {
+      "result": "failed",
+      "notes": "signal_rationale is a string rather than the required structured object; geography is materially misclassified."
+    },
+    "research_depth": {
+      "result": "passed_on_exact_expressions",
+      "en_words": 2135,
+      "pt_br_words": 2303,
+      "en_h2": 8,
+      "pt_br_h2": 8,
+      "urls_each": 12,
+      "hosts_each": 6,
+      "charts_each": 2,
+      "flow_each": 1,
+      "map_each": 1,
+      "table_lines_each": 9,
+      "notes": "All quantitative minimums pass for nonweekly research; full Node validator not run."
+    },
+    "factual_methodology": {
+      "result": "passed_for_checked_primary_claims",
+      "notes": "WHO DON622/DON617, World Bank and UNICEF originals support principal dates, figures and attributed claims; no fabricated outbreak or financing numbers detected in spot checks."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "notes": "Zero required numbered in-text citations in both editions despite final source lists."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "notes": "Same eight H2 analytical sections, two chart numeric series, key claims and 12 URLs; citation omissions and geographic metadata require correction."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_checked_substance",
+      "notes": "Two auditable same-unit charts, one table, map and two causal flow chains in each locale; numeric values and meanings match. Visuals do not remedy citation/schema failures."
+    },
+    "counterfactual_review": {
+      "result": "passed_for_checked_substance",
+      "notes": "Separates imported from secondary cases, reported burden from infection dates, financing commitments from delivery, trials from approved protection; favorable/adverse scenarios have observable falsifiers."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed_for_checked_substance",
+      "notes": "Current DRC/Kenya/Nigeria Bundibugyo outbreak differs materially from prior 19 Oct COVID-19 pandemic-scars assessment."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "Mandatory claim-level reference rule and pending schema/taxonomy failures block independent approval."
+    },
+    "pipeline_validation": {
+      "result": "inspected_not_executed",
+      "notes": "scripts/validate-editorial-depth.mjs, scripts/validate-pipeline.mjs and scripts/lib/visuals.mjs inspected; exact depth/visual expressions reproduced; full Node execution unavailable without checkout."
+    }
+  },
+  "contrary_evidence": [
+    "WHO reports no wider community transmission beyond the linked Kenya cluster as of 20 Oct, weakening any generalized cross-border-wave narrative.",
+    "WHO advises against travel/trade restrictions; the CDC separately documents a U.S. travel-entry restriction, which is not evidence of a region-wide commercial shutdown."
+  ],
+  "limitations": [
+    "Fact-check sampled major original primary documents, not every possible epidemiological source.",
+    "No local Node execution or deployment verification; no public files touched."
+  ],
+  "notes": "Independent QA 4/5. Thematic public-health research routes to producer task 1/5. No immediate task trigger available or confirmed. Do not repeat rejection on identical pending + staged blobs; allow at most 3 new rejection revisions per ID."
+}
