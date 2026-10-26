@@ -150,7 +150,7 @@ Em **19 de março de 2026**, os chanceleres **Mauro Vieira** e **Rubén Ramírez
 
 Essa informação limita afirmações sobre “novo preço inevitável de Itaipu” em 2027. Declarações políticas de intenção de reduzir custos ou ampliar liberdade de mercado não substituem texto binacional concluído, aprovação exigida e regras operacionais. Cenários financeiros devem ser identificados como hipóteses enquanto não existem documentos finais.
 
-A perspectiva de venda de excedente paraguaio em mercado mais aberto tem potencial para alterar competição e negociação. Isso não significa que capacidade de transmissão, contratos atuais e regras do Tratado desaparecerão. A implementação demandará mecanismos regulatórios e coordenação entre ANDE, ENBPar, operadores e autoridades bilaterais.
+A perspectiva de venda de excedente paraguaio em mercado mais aberto tem potencial para alterar competição e negociação. A abertura comercial ainda depende da capacidade de transmissão, dos contratos atuais e das regras do Tratado. A implementação demandará mecanismos regulatórios e coordenação entre ANDE, ENBPar, operadores e autoridades bilaterais.
 
 ## 19. A crise de espionagem brasileira revelada em 2025
 
