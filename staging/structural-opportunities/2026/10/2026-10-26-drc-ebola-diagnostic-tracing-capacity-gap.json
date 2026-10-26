@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-26T08:24:44.385Z",
+  "candidate": {
+    "country": {
+      "code": "COD",
+      "name": "Democratic Republic of the Congo"
+    },
+    "proposed_state": "blocking_inefficiency",
+    "previous_state": null,
+    "perspective": "Provincial health authorities and response teams attempting to convert diagnostic delivery into complete household contact follow-up and uninterrupted essential care.",
+    "structural_condition": "Laboratory diagnostic logistics have expanded during the Bundibugyo Ebola response, but safe field access, follow-up capacity and routine-service continuity remain binding constraints on effective outbreak control.",
+    "delta": "WHO 23 October report (data as of 20 October) shows only 79.7% of 30,130 contacts requiring follow-up reached in 24 hours versus 95% operational target, and 307 of 482 newly reported deaths occurred in communities. World Bank 13 October reported delivery of 104 diagnostic platforms, 70,000 tests and improved detection time from ten days to one or two by September; these are different indicators and do not establish causal attribution.",
+    "mechanism": "Additional diagnostic platforms can shorten sample-processing delays, but laboratory throughput does not ensure safe access to households, completed tracing or timely care. Conflict, displacement, local trust, transport and workforce availability can prevent clinical and surveillance gains from translating into sustained transmission interruption. Imported cases in Kenya and Nigeria raise the value of cross-border coordination.",
+    "catalysts": [
+      "Sustained WHO contact follow-up at or above 95% with denominator and geography disclosed",
+      "Verified deployment and use of the 104 delivered diagnostic platforms across affected health zones",
+      "Operational results from additional DRC US$80m and regional US$13m World Bank financing",
+      "Lower share of deaths occurring in communities and maintained routine-care access"
+    ],
+    "invalidation": "Later WHO surveillance demonstrates sustained 95% or higher contact follow-up, falling unlinked transmission and community deaths, and the reported operational constraint no longer limits response; or revisions show the reported metrics are not comparable.",
+    "confidence": "medium",
+    "materiality": "high",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "WHO Disease Outbreak News DON622, contact coverage and community deaths",
+        "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+        "date": "2026-10-23 (data to 2026-10-20)"
+      },
+      {
+        "name": "World Bank expanded Ebola response and diagnostic delivery",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/10/13/world-bank-group-expands-ongoing-support-for-ebola-response-in-drc-and-the-region",
+        "date": "2026-10-13"
+      },
+      {
+        "name": "UNICEF essential health services and access in Ituri",
+        "url": "https://www.unicef.org/press-releases/dr-congo-ebola-child-deaths-pass-300-unicef-warns-outbreak-also-threatens-essential",
+        "date": "2026-08-06"
+      }
+    ],
+    "stage": "discovery_watch",
+    "implementation_status": "Diagnostic platforms reported delivered, not independently verified installed and used at scale; follow-up coverage observed below target.",
+    "caveat": "A public-health capacity condition, not a commercial opportunity or investment recommendation."
+  }
+}
