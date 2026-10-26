@@ -75,17 +75,17 @@
       "visual_signature": "Three numeric-parity bilingual charts (USGS reserves and output, Congressional Research Service Chinese processing shares); one comparison table, causal flow, geographic exposure map and risk mindmap per language.",
       "translation_parity": "Equal 51-section analytical structure, substantive country comparisons, distinctions of legal rights and mineral categories, the same quantitative evidence and identical chart values.",
       "methodology": "Country resources/reserves and annual mine production are distinguished by definition; company financing and offtake are not conflated with federal subsoil ownership; security threat categories have independent evidence standards.",
-      "editorial_status": "Full bilingual dossier ready for hash-bound editorial review and canonical publication.",
+      "editorial_status": "Bilingual research fully checked, one prohibited self-reference revised; source hashes updated and linked to editorial approval.",
       "source_shas": {
-        "en": "28480d1759167fc8716e5269ef33e69c79444b40",
+        "en": "23fa6e53a9c2e3dde7df7cfb736e3ace2045e817",
         "pt-BR": "fdbc333d61037899ad8351a598c23fc2b2888618"
       }
     },
     "url": "/reports/2026/10/2026-10-25-brazil-rare-earths-amazon-sovereignty-geopolitics.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-26T02:18:09.295Z",
+    "qa_reviewed_at": "2026-10-26T02:22:37.929Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "35bca346d99b0cf91a768159133487bc519387ad",
+    "qa_reviewed_commit": "c44b539e9538ec09b6b64336d8d0926161259fc4",
     "locales": {
       "en": {
         "markdown": "en.md",

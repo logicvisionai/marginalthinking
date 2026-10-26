@@ -230,7 +230,7 @@ Rare-earth projects can compete with agriculture, settlements and municipal wate
 
 Mining can improve local services and generate employment, but heavy transport, dust and water withdrawals can impose costs on nearby production. The cumulative impacts of multiple projects are especially important in the Cerrado, whose headwaters support water systems far beyond individual municipalities. Land-use conflicts cannot be evaluated exclusively within a mine's registered polygon.
 
-Asymmetric access to information also matters. Large businesses can employ lawyers and geological experts to negotiate with project owners, while smallholders may struggle to understand long-term consequences. Public access to mineral and environmental registries and independent technical assistance can improve fairness. Naming farmers as participants in an alleged foreign conspiracy without deeds or contracts is not an acceptable substitute for this analysis.
+Asymmetric access to information also matters. Large businesses can employ lawyers and geological experts to negotiate with project owners, while smallholders may struggle to understand long-term consequences. Public access to mineral and environmental registries and independent technical assistance can improve fairness. Naming farmers as participants in an alleged foreign conspiracy without deeds or contracts does not establish the allegation.
 
 ## 29. Argentina as a relevant but non-equivalent comparison
 

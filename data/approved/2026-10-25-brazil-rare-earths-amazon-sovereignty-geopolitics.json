@@ -2,11 +2,11 @@
   "schema_version": 2,
   "id": "MT-GSP-2026-10-25-BRAZIL-RARE-EARTHS",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-26T02:18:09.295Z",
-  "reviewed_commit": "35bca346d99b0cf91a768159133487bc519387ad",
-  "pending_blob_sha": "4f44822e9256200d864d934718e7c45b0f8ff629",
+  "reviewed_at": "2026-10-26T02:22:37.929Z",
+  "reviewed_commit": "c44b539e9538ec09b6b64336d8d0926161259fc4",
+  "pending_blob_sha": "4968aeb6a78e70816b1a27d042da0721a62ab8ba",
   "source_blob_shas": {
-    "en": "28480d1759167fc8716e5269ef33e69c79444b40",
+    "en": "23fa6e53a9c2e3dde7df7cfb736e3ace2045e817",
     "pt-BR": "fdbc333d61037899ad8351a598c23fc2b2888618"
   },
   "taxonomy_check": "passed",
@@ -57,7 +57,7 @@
     "Geopolitical scenarios are conditional; publicly documented foreign investment does not imply military aggression.",
     "Not externally peer reviewed: internal claim and structural checks are recorded, while later source revisions may require updates."
   ],
-  "notes": "Internal in-session editorial review, with sourced checks and validated bilingual numerical parity. No claim of independent external peer review.",
+  "notes": "Internal in-session editorial review; revised prohibited English editorial self-reference detected by site build. All source SHAs and pending snapshot rebound. No independent external peer review claimed.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -224,9 +224,9 @@
       "visual_signature": "Three numeric-parity bilingual charts (USGS reserves and output, Congressional Research Service Chinese processing shares); one comparison table, causal flow, geographic exposure map and risk mindmap per language.",
       "translation_parity": "Equal 51-section analytical structure, substantive country comparisons, distinctions of legal rights and mineral categories, the same quantitative evidence and identical chart values.",
       "methodology": "Country resources/reserves and annual mine production are distinguished by definition; company financing and offtake are not conflated with federal subsoil ownership; security threat categories have independent evidence standards.",
-      "editorial_status": "Full bilingual dossier ready for hash-bound editorial review and canonical publication.",
+      "editorial_status": "Bilingual research fully checked, one prohibited self-reference revised; source hashes updated and linked to editorial approval.",
       "source_shas": {
-        "en": "28480d1759167fc8716e5269ef33e69c79444b40",
+        "en": "23fa6e53a9c2e3dde7df7cfb736e3ace2045e817",
         "pt-BR": "fdbc333d61037899ad8351a598c23fc2b2888618"
       }
     }
