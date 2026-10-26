@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-26T02:18:09.295Z",
+  "last_reconciled_at": "2026-10-26T02:50:15.990Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7140,6 +7140,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Rare-earth process technology and chemical separation are explained, with no newly independently demonstrated engineering-scale capability milestone entered in the signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-itaipu-brazil-energy-security-ai-infrastructure-reconciliation",
+      "reconciled_at": "2026-10-26T02:50:15.990Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-10-25-ITAIPU-AI-ENERGY-SECURITY"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Documented Brazilian-Paraguayan treaty electricity flows, US-Paraguay AI announcement and ANDE contract uncertainty are researched; no new machine-verifiable network edge independently registered with stable link schema."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The report assesses conditional strategic energy-security pathways rather than validating a new specific cross-country investment opportunity entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Crusoe, Araico and Paraguayan and Brazilian institutions are named with primary sources, but final shareholder rights and the unpublished supply tariff were not independently audited to atlas schema."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Itaipu equal binational treaty title remains the reference. The AI computing partnership does not demonstrate new ownership of the generating asset."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "REDATA law and Anexo C reviews are described; implementation outcomes and causally evaluated policy-case records are not independently verified."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "2025 espionage diplomatic dispute and 2026 commercial announcements do not constitute a newly verified armed-conflict event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "2026 AI campus is publicly announced for prospective 2027 service; no delivered operating capacity or verified technical-performance result as of cutoff."
         }
       ]
     }
