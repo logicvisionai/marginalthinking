@@ -1,0 +1,234 @@
+{
+  "schema_version": 2,
+  "id": "MT-GSP-2026-10-25-BRAZIL-RARE-EARTHS",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-26T02:18:09.295Z",
+  "reviewed_commit": "35bca346d99b0cf91a768159133487bc519387ad",
+  "pending_blob_sha": "4f44822e9256200d864d934718e7c45b0f8ff629",
+  "source_blob_shas": {
+    "en": "28480d1759167fc8716e5269ef33e69c79444b40",
+    "pt-BR": "fdbc333d61037899ad8351a598c23fc2b2888618"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 9948,
+        "pt-BR": 11868
+      },
+      "summary": "Two substantive full-length language editions above 8,000 words, 51 numbered analytical chapters each."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Source-linked ANM, USGS, CADE, MPF, SGB, SEGEMAR, constitutional and parliamentary records, French and Interpol official releases and European mineral research. Price and reserve classes distinguished."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Foreign armed invasion not presented as fact. Criminal conflict, commercial coercion, social disputes and exceptional interstate war are assessed separately with alternative explanations and four conditional outcomes."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Three quantitative charts, a comparative table, causal flow, geographic map and mindmap in both languages; identical numeric chart series."
+    },
+    "editorial_integrity": {
+      "result": "passed",
+      "summary": "No conversational article intros, publication-tool language or unverified allegations about named businesspeople; institutional sources and analytic distinctions included."
+    },
+    "translation_parity": {
+      "result": "passed",
+      "summary": "Matching 51-section chronological structure, numbers, country-comparison qualifications and risk differentiation, with idiomatic separate language editions."
+    },
+    "sources": {
+      "result": "passed",
+      "summary": "30 unique source URLs in each edition; 19 distinct hosts. Primary-source claims about CADE and rare earths differentiated from potential geological resources and opinion."
+    }
+  },
+  "contrary_evidence": [
+    "USGS Brazil reserve estimates do not imply commercial production, and ANM concentrate statistics use a different product and classification.",
+    "Foreign ownership or contracts do not constitute evidence of intended armed invasion.",
+    "Albania is not a comparable rare-earth reserve power; Argentina's identified resources have different classification.",
+    "Protection of the Amazon and protected lands can be legitimate sovereign decisions independent of extraction."
+  ],
+  "limitations": [
+    "Some source publications report mineral reserve and production categories which are not mutually interchangeable.",
+    "Geopolitical scenarios are conditional; publicly documented foreign investment does not imply military aggression.",
+    "Not externally peer reviewed: internal claim and structural checks are recorded, while later source revisions may require updates."
+  ],
+  "notes": "Internal in-session editorial review, with sourced checks and validated bilingual numerical parity. No claim of independent external peer review.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GSP-2026-10-25-BRAZIL-RARE-EARTHS",
+    "slug": "2026-10-25-brazil-rare-earths-amazon-sovereignty-geopolitics",
+    "date": "2026-10-25",
+    "published_at": "2026-10-25T23:15:00-03:00",
+    "kind": "resource-sovereignty-geopolitics",
+    "priority": 52,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-25-brazil-rare-earths-amazon-sovereignty-geopolitics/en.md",
+        "title": "Brazil's rare earths: five centuries of resource control, the Amazon and the geopolitical contest for industrial sovereignty",
+        "deck": "A historical and strategic investigation of Brazilian minerals, Enéas Carneiro, the Armed Forces, Amazonian territorial rights, private investors, US–European interests, China, Argentina, Albania and armed-conflict risks.",
+        "tags": [
+          "Brazil rare earths",
+          "Amazon sovereignty",
+          "critical minerals",
+          "China",
+          "United States",
+          "France",
+          "Argentina",
+          "Albania",
+          "Enéas Carneiro",
+          "mineral rights",
+          "strategic competition"
+        ],
+        "keywords": [
+          "Serra Verde USA Rare Earth CADE 2026",
+          "Minaçu Goiás magnetic rare earths",
+          "USGS Brazilian reserves 21 million tonnes",
+          "Amazon Seis Lagos Pitinga",
+          "Brazil constitution mineral ownership",
+          "US DFC rare earth financing",
+          "European separation and magnet industry",
+          "Kalunga quilombola rights",
+          "Brazil army Calha Norte",
+          "Enéas technological nationalism",
+          "Argentina SEGEMAR resource 190395",
+          "Albania USGS critical minerals",
+          "risk of armed conflict in Amazon"
+        ],
+        "regime": "Large estimated reserves coexist with very limited domestic processing capability, foreign supply contracts, sensitive territory and geopolitical competition.",
+        "key_risk": "Confusing reserves with mine output, land ownership with federal mineral title, commercial leverage with evidence of foreign invasion, or competing resource classifications as identical.",
+        "watch": [
+          "USGS and ANM revisions of reserve and production definitions",
+          "CADE review and the scope of Serra Verde Phase I offtake",
+          "Domestic separation, metals and magnets capacity",
+          "Indigenous and Kalunga consultation and territorial decisions",
+          "Brazil-France Amazon enforcement and cross-border crime",
+          "US-China-EU trade policy, financing and technology control"
+        ],
+        "search_text": "Brazil's rare earths: five centuries of resource control, the Amazon and the geopolitical contest for industrial sovereignty A historical and strategic investigation of Brazilian minerals, Enéas Carneiro, the Armed Forces, Amazonian territorial rights, private investors, US–European interests, China, Argentina, Albania and armed-conflict risks. Serra Verde USA Rare Earth CADE 2026 Minaçu Goiás magnetic rare earths USGS Brazilian reserves 21 million tonnes Amazon Seis Lagos Pitinga Brazil constitution mineral ownership US DFC rare earth financing European separation and magnet industry Kalunga quilombola rights Brazil army Calha Norte Enéas technological nationalism Argentina SEGEMAR resource 190395 Albania USGS critical minerals risk of armed conflict in Amazon"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-25-brazil-rare-earths-amazon-sovereignty-geopolitics/pt-BR.md",
+        "title": "Terras raras, Amazônia e soberania brasileira: cinco séculos de recursos naturais, interesses privados e competição geopolítica",
+        "deck": "Investigação histórica e estratégica sobre minerais brasileiros, Enéas Carneiro, Forças Armadas, direitos territoriais, investidores privados, EUA, França, Europa, China, Argentina, Albânia e riscos de conflito armado.",
+        "tags": [
+          "terras raras Brasil",
+          "soberania amazônica",
+          "minerais críticos",
+          "China",
+          "Estados Unidos",
+          "França",
+          "Argentina",
+          "Albânia",
+          "Enéas Carneiro",
+          "direitos minerários",
+          "competição estratégica"
+        ],
+        "keywords": [
+          "Serra Verde USA Rare Earth Cade 2026",
+          "Minaçu Goiás terras raras magnéticas",
+          "USGS reservas Brasil 21 milhões",
+          "Amazônia Seis Lagos Pitinga",
+          "Constituição propriedade recursos minerais",
+          "DFC EUA financiamento terras raras",
+          "separação química indústria europeia",
+          "território Kalunga quilombola",
+          "Exército Calha Norte",
+          "Enéas nacionalismo tecnológico",
+          "Argentina SEGEMAR recurso 190395",
+          "Albânia USGS cromo níquel",
+          "risco de conflito armado na Amazônia"
+        ],
+        "regime": "Grandes reservas estimadas coexistem com processamento nacional limitado, contratos externos de fornecimento, territórios sensíveis e competição geopolítica.",
+        "key_risk": "Confundir reservas com produção, propriedade rural com direito mineral federal, influência comercial com evidência de invasão ou classificações geológicas distintas.",
+        "watch": [
+          "Revisões de reservas e produção do USGS e ANM",
+          "Decisão do Cade e abrangência do offtake da Fase I",
+          "Capacidade nacional de separação, metais e ímãs",
+          "Consulta e decisões territoriais indígenas e Kalunga",
+          "Operações Brasil-França e crimes de fronteira",
+          "Políticas EUA-China-UE de comércio, financiamento e tecnologia"
+        ],
+        "search_text": "Terras raras, Amazônia e soberania brasileira: cinco séculos de recursos naturais, interesses privados e competição geopolítica Investigação histórica e estratégica sobre minerais brasileiros, Enéas Carneiro, Forças Armadas, direitos territoriais, investidores privados, EUA, França, Europa, China, Argentina, Albânia e riscos de conflito armado. Serra Verde USA Rare Earth Cade 2026 Minaçu Goiás terras raras magnéticas USGS reservas Brasil 21 milhões Amazônia Seis Lagos Pitinga Constituição propriedade recursos minerais DFC EUA financiamento terras raras separação química indústria europeia território Kalunga quilombola Exército Calha Norte Enéas nacionalismo tecnológico Argentina SEGEMAR recurso 190395 Albânia USGS cromo níquel risco de conflito armado na Amazônia"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "commodities-resources",
+      "geopolitics-security",
+      "industry-production",
+      "technology-innovation",
+      "institutions-governance",
+      "trade-investment",
+      "climate-environment",
+      "infrastructure-logistics",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "scenarios": [
+      "Negotiated industrialization with transparent domestic processing",
+      "Mineral export enclave with concentrated offtake",
+      "Territorial and environmental conflict constraining projects",
+      "Geopolitically fragmented mineral supply chain"
+    ],
+    "contrary_evidence": [
+      "USGS Brazil reserve estimates do not imply commercial production, and ANM concentrate statistics use a different product and classification.",
+      "Foreign ownership or contracts do not constitute evidence of intended armed invasion.",
+      "Albania is not a comparable rare-earth reserve power; Argentina's identified resources have different classification.",
+      "Protection of the Amazon and protected lands can be legitimate sovereign decisions independent of extraction."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-10-25; official ANM release 14 October 2026; USGS 2026; CADE May 2026; relevant country institutional publications through October 2026.",
+      "research_depth": "EN 9948 substantive words, PT-BR 11868 substantive words; 51 long-form analytical chapters, separate technical, historical, legal and geopolitical mechanisms.",
+      "source_check": "Both locales reference 30 distinct source URLs from 19 hosts including USGS, ANM, SGB, CADE, MPF, Chamber of Deputies, MME, BNDES, SEGEMAR, French Armed Forces, Interpol and European bodies.",
+      "visual_signature": "Three numeric-parity bilingual charts (USGS reserves and output, Congressional Research Service Chinese processing shares); one comparison table, causal flow, geographic exposure map and risk mindmap per language.",
+      "translation_parity": "Equal 51-section analytical structure, substantive country comparisons, distinctions of legal rights and mineral categories, the same quantitative evidence and identical chart values.",
+      "methodology": "Country resources/reserves and annual mine production are distinguished by definition; company financing and offtake are not conflated with federal subsoil ownership; security threat categories have independent evidence standards.",
+      "editorial_status": "Full bilingual dossier ready for hash-bound editorial review and canonical publication.",
+      "source_shas": {
+        "en": "28480d1759167fc8716e5269ef33e69c79444b40",
+        "pt-BR": "fdbc333d61037899ad8351a598c23fc2b2888618"
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-26T00:33:29.454Z",
+  "last_reconciled_at": "2026-10-26T02:18:09.295Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7096,6 +7096,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No newly demonstrated technical capability, new deployment milestone or engineering-scale evidence requiring a signal entry is asserted."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-brazil-rare-earths-mineral-sovereignty-review",
+      "reconciled_at": "2026-10-26T02:18:09.295Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-10-25-BRAZIL-RARE-EARTHS"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The long-form study documents foreign corporate offtake, mineral import dependence, and border governance, but does not establish a newly validated directional network edge with canonical metadata and quantitative flow."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Mineral geopolitical risks and conditional national policy paths are not a validated country-level investment opportunity record."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "US and European companies, Brazilian constitutional owners, historical policymakers and Indigenous communities are discussed; no new audited beneficial-owner asset-control dataset or actor record is produced."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "USGS and ANM reserve statistics, CADE contractual facts and SGB occurrence mapping identify candidates for resource-control tracking, but no verified asset-level ownership/right update is entered in the atlas."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "This historical and geopolitical study does not evaluate a newly implemented policy case with a separately structured intervention-outcome dataset."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The report distinguishes documented illegal-mining crime and cooperation from hypothetical armed interstate conflict; no new active military conflict event is established."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Rare-earth process technology and chemical separation are explained, with no newly independently demonstrated engineering-scale capability milestone entered in the signal ledger."
         }
       ]
     }
