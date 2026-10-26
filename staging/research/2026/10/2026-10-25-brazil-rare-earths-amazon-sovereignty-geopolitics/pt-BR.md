@@ -184,3 +184,385 @@ A União Europeia busca diversificar o suprimento de matérias-primas críticas,
 
 É importante separar a Europa como mercado, a União Europeia como formuladora de política e investidores particulares que decidem contratos. Governos podem desejar diversificação e empresas podem buscar lucro, sem identidade perfeita de objetivos. O desafio brasileiro consiste em usar o interesse externo para negociar laboratórios, formação de especialistas, propriedade intelectual e produção mais sofisticada, não apenas preço maior pelo concentrado.
 
+## 23. A Guiana Francesa: a presença da França na fronteira brasileira
+
+A França tem presença territorial permanente na América do Sul por meio da Guiana Francesa, que constitui parte do território da República Francesa e da União Europeia. A fronteira com o Amapá torna os dois países vizinhos em uma região de floresta, rios e mobilidade transfronteiriça. Essa circunstância é diferente da presença de uma empresa francesa no setor mineral. Ela envolve soberania territorial francesa ao norte do rio Oiapoque e soberania brasileira ao sul, sob direitos internacionais e acordos vigentes.
+
+O Ministério brasileiro dos Povos Indígenas informou, em janeiro de 2025, a assinatura de acordo de cooperação contra o garimpo ilegal de ouro. Em março de 2025, o Ministério das Forças Armadas francês descreveu a operação conjunta **Jararaca**, realizada por militares franceses e brasileiros na fronteira para combater instalações clandestinas. Há documentação sobre coordenação operacional, centros de comando e apreensões. Isso constitui **cooperação autorizada entre Estados**, e não evidência de invasão francesa ou de operação militar para ocupar depósitos de terras raras. [18][19]
+
+A presença francesa deve entrar na análise de riscos por motivos concretos: crimes ambientais que atravessam a fronteira, circulação ilegal de mercúrio, armas, dinheiro e pessoas, eventuais incidentes entre agentes de segurança e possibilidade de crises diplomáticas se fronteiras forem violadas. A resposta envolve comunicação militar, protocolos jurídicos, fiscalização ambiental e inteligência financeira. Atribuir à França um plano secreto de anexação da Amazônia sem fontes idôneas prejudicaria a credibilidade de uma avaliação genuína de defesa.
+
+## 24. Garimpo, ouro e crime armado não são sinônimos de terras raras
+
+A Amazônia possui conflitos documentados envolvendo garimpo ilegal de ouro, redes de lavagem, tráfico de mercúrio e grupos criminosos armados. Em janeiro de 2026, a Interpol anunciou uma operação coordenada entre Brasil, Guiana Francesa, Guiana e Suriname que resultou em 198 detenções relacionadas ao enfrentamento de mineração ilegal e atividades associadas. A cooperação internacional revela que o problema transcende fronteiras, sem demonstrar que todos os crimes dizem respeito a terras raras. [20]
+
+O incentivo econômico do ouro é diferente daquele de um projeto típico de terras raras. O ouro possui mercado líquido, alta densidade de valor e pode circular clandestinamente em pequenas quantidades. Terras raras geralmente requerem volumes muito maiores de material, instalações químicas, compradores industriais e uma cadeia logística sofisticada. Isso dificulta transportar clandestinamente a mesma escala econômica de produto final, embora corrupção, grilagem e mineração sem licença possam ocorrer em ambas as cadeias.
+
+O risco de conflito armado interno ou transfronteiriço decorre, sobretudo, de redes que buscam controlar rotas, impor violência a comunidades ou proteger operações ilegais. A resposta não deveria deslocar automaticamente esse diagnóstico para uma guerra entre Exércitos nacionais. Medidas verificáveis incluem rastreabilidade, investigações patrimoniais, fiscalização de combustíveis e equipamentos, proteção territorial e alternativas econômicas lícitas. O Estado precisa distinguir crime organizado de oposição ambiental e de atividade empresarial regular.
+
+## 25. Seis Lagos: quando potencial geológico encontra restrição territorial
+
+Morro dos Seis Lagos, no noroeste do Amazonas, representa uma mineralização amplamente discutida pelo Serviço Geológico do Brasil. Sua complexidade reside em características geológicas, isolamento, sobreposição com proteção territorial e obstáculos legais à exploração. O fato de estudos apontarem potencial não significa que exista uma reserva comercial atualmente disponível ao mercado, com projeto autorizado, obra iniciada e compradores contratados. [5][21]
+
+Debates que apresentam Seis Lagos como tesouro que bastaria “abrir” ignoram custos de logística, energia, água, conservação e direitos indígenas. Em áreas remotas, cada tonelada de insumos, combustível e produto pode depender de longas cadeias fluviais ou terrestres. A intervenção física pode alterar a dinâmica de rios e ecossistemas que sustentam comunidades. A legitimidade das operações depende de regras constitucionais e de avaliação cuidadosa dos efeitos acumulados.
+
+O cálculo estratégico deve incluir opção de **não exploração**, pelo menos enquanto faltarem condições técnicas e institucionais. Preservar um recurso em território protegido não equivale a abandoná-lo a outro país. Pode significar exercer soberania por meio de proteção ambiental, pesquisa científica não invasiva e decisão democrática. O exercício dessa opção pressupõe presença estatal suficiente para impedir mineração ilegal ou apropriação clandestina do território.
+
+## 26. Pitinga, Roraima e o mosaico geológico amazônico
+
+Pitinga, no Amazonas, tornou-se conhecida pela mineração de estanho e minerais associados, incluindo mineralizações de relevância para debates sobre materiais estratégicos. O noroeste amazônico e áreas de Roraima têm sido objeto de levantamentos sobre nióbio, fosfatos e elementos terras raras. Os ambientes geológicos são variados e os elementos podem aparecer misturados a minerais cuja exploração principal seria outra commodity. [5][21]
+
+A recuperação como subproduto pode alterar profundamente o balanço econômico. Se uma mina já produz estanho, nióbio ou fosfato e dispõe de infraestrutura, uma rota tecnicamente viável para recuperar elementos adicionais pode apresentar custo marginal menor do que criar nova mina isolada. Contudo, transformar rejeito em produto comercial requer processos próprios, avaliação radiológica quando pertinente e autorização ambiental. A existência de resíduo com elementos de interesse não garante que sua reprocessamento seja rentável.
+
+A Amazônia brasileira não deve ser representada como unidade mineral homogênea. Roraima, Amazonas, Pará, Rondônia e Amapá possuem histórias de ocupação, infraestrutura e restrições ambientais diferentes. Uma política nacional deve permitir que prospecção identifique possibilidades, sem assumir de antemão que todas elas merecem se tornar minas. A escolha do território produtivo deve depender de critérios transparentes de custo, legalidade e benefício social.
+
+## 27. Meio ambiente: a cadeia química não desaparece na transição energética
+
+Terras raras são utilizadas em tecnologias associadas à eletrificação e à redução de emissões, mas sua extração pode impor custos ambientais significativos. Lixiviação, reagentes, alterações na drenagem, rejeitos e consumo de energia precisam ser avaliados segundo o processo efetivamente escolhido. As características dos minerais e a presença eventual de tório ou urânio podem exigir medidas específicas de segurança química ou radiológica. [3][5]
+
+A mineração de argilas iônicas frequentemente envolve soluções químicas que recuperam íons adsorvidos nas argilas. A eficiência de recuperação depende de pH, composição mineralógica, quantidade de reagentes e gestão do efluente. Afirmar que todo projeto é ambientalmente seguro porque emprega menor britagem, ou que todo projeto necessariamente envenenará rios, seria cientificamente impróprio. Monitoramento independente deve acompanhar águas superficiais e subterrâneas, estabilidade geotécnica, biodiversidade e qualidade da recuperação das áreas.
+
+O princípio econômico é a internalização dos custos. Quando uma empresa obtém receita e parte do risco ambiental recai sobre comunidades ou governos futuros, o preço privado não reflete o custo social. Garantias financeiras para fechamento, seguro, monitoramento por longo período e planos de remediação reduzem esse desequilíbrio. A avaliação precisa quantificar quem paga se a empresa falir ou se o projeto deixar passivos superiores às garantias disponíveis.
+
+## 28. Terra, água, agricultura e o interesse dos grandes produtores
+
+A expansão mineral pode se sobrepor a áreas de agricultura comercial, pequenas propriedades, assentamentos e cadeias pecuárias. Grandes produtores rurais geralmente defendem previsibilidade sobre acesso à terra, água e infraestrutura, mas não constituem um grupo de interesses único. Um produtor que pode receber compensação por servidão mineral talvez apoie um projeto; outro que utiliza nascente próxima pode contestá-lo por risco à produção.
+
+Os efeitos de uma mina podem incluir estradas melhores e novos serviços, mas também poeira, circulação pesada, competição por água e alterações em preços da terra. Estudos de impacto precisam analisar efeitos cumulativos quando mineração, monoculturas e urbanização disputam a mesma bacia hidrográfica. A produção de alimentos, por sua vez, também possui relevância geopolítica e não pode ser tratada como atividade dispensável em favor de todo novo mineral crítico.
+
+A economia fundiária envolve assimetrias de informação. Proprietários com acesso a dados geológicos, advogados e capital podem negociar com empresas em melhores condições que agricultores familiares. Transparência de registros, participação do Ministério Público quando pertinente e assistência técnica independente são instrumentos para reduzir disputas. Não há base para presumir uma ação coordenada de “fazendeiros brasileiros” destinada a transferir toda a riqueza mineral a estrangeiros.
+
+## 29. A Argentina como comparação necessária, mas não equivalente
+
+A Argentina é comparador importante porque possui Estado soberano, histórico de ciclos de exportação de recursos naturais, federalismo, desafios de financiamento e crescente interesse em minerais críticos. O Serviço Geológico Mineiro Argentino, **SEGEMAR**, divulgou em junho de 2026 um levantamento de **190.395 toneladas de recursos identificados de terras raras**, com depósitos ou indícios em diferentes províncias, incluindo Salta, Jujuy, San Luis, Santiago del Estero e Córdoba, além de áreas não plenamente avaliadas em San Juan. [22]
+
+Esse número **não é comparável diretamente** às **21 milhões de toneladas de reservas brasileiras estimadas pelo USGS**. Recurso identificado, potencial geológico e reserva economicamente explotável são categorias diferentes, derivadas de métodos e dados diferentes. A publicação argentina subsidia um debate legislativo sobre classificação estratégica e condições de prospecção, não a declaração de que o país possui uma indústria de ímãs competitiva ou jazidas prontas em escala chinesa.
+
+A relevância histórica da Argentina vai além da geologia. Dependência de financiamento externo, volatilidade cambial, conflitos entre governo federal e províncias e demandas de investimento estrangeiro mostram como soberania formal convive com limitações materiais. O paralelo ensina que regimes de incentivo podem acelerar pesquisa, mas condições tributárias isoladas não substituem infraestrutura, legitimidade local e tecnologia metalúrgica.
+
+## 30. O federalismo argentino, o RIGI e a competição por investimentos
+
+Na Argentina, políticas de grandes investimentos e propostas legislativas sobre terras raras refletem a disputa entre atrair capital e preservar benefícios produtivos nacionais. O SEGEMAR informou que uma iniciativa parlamentar discutia inserir exploração desses elementos em mecanismo de incentivo a grandes projetos, associado ao RIGI. A proposição não deve ser confundida automaticamente com lei promulgada ou contrato de investimento realizado. [22]
+
+O federalismo argentino atribui papel importante às províncias no regime de recursos e no relacionamento com empresas. Isso modifica negociações territoriais e a distribuição de receitas em comparação ao Brasil, onde o subsolo integra o patrimônio da União, embora estados e municípios possuam competências ambientais, tributárias e administrativas relevantes. Diferenças institucionais importam mais para uma comparação rigorosa que discursos genéricos sobre “entregar minerais”.
+
+Projetos argentinos frequentemente concorrem com investimentos em lítio, cobre, energia e infraestrutura. Capital privado escolhe empreendimentos segundo expectativa de retorno, risco cambial e maturidade técnica. A vantagem geológica brasileira em reservas de terras raras não impede a Argentina de competir em segmentos específicos de tecnologia, mas os dois países partem de bases distintas. Uma cooperação regional em pesquisa e processamento pode gerar ganhos maiores que concorrência fiscal indiscriminada.
+
+## 31. Albânia: uma comparação de capacidade institucional, não de reservas gigantes
+
+A Albânia aparece em debates mais amplos sobre minerais estratégicos europeus, mas não possui, nas fontes examinadas, posição equivalente à do Brasil no mercado global de terras raras. O **USGS** registra em 2024 produção albanesa de cromo, níquel, cobre, ferro-ligas, materiais de construção e outros minerais, sem classificá-la como produtora mundial importante de terras raras. A legislação mineral albanesa envolve títulos de pesquisa e exploração, órgãos geológicos e avaliação de conformidade. [23]
+
+Documentos europeus sobre matérias-primas críticas identificam ocorrências de minerais estratégicos na Albânia, com reservas classificadas em geral como pequenas ou médias, destacando titanomagnetita e níquel. Essas referências permitem examinar a integração de um país menor às cadeias industriais europeias, mas não autorizam afirmar que grandes reservas albanesas de neodímio sejam elemento central da competição mundial. [24]
+
+A utilidade analítica da Albânia reside em três temas: como países periféricos recebem capital estrangeiro para mineração, como regulam externalidades e licenças, e como sua posição econômica diante de mercados maiores influencia capacidade de negociação. Sua trajetória também ilustra que “minerais críticos” é categoria ampla que abrange substâncias de importância diferente, e que o discurso estratégico pode crescer mais depressa que a comprovação de recursos econômicos.
+
+## 32. Albânia, Balcãs e as armadilhas da analogia geopolítica
+
+A história albanesa inclui dominação otomana, formação de Estado independente no século XX, regimes autoritários e transformação econômica após o comunismo. Suas relações com a Europa são mediadas por comércio, migração, instituições regionais e perspectivas de integração. A dimensão territorial e demográfica do país difere profundamente da brasileira. Seu entorno de segurança tampouco reproduz a fronteira amazônica.
+
+A comparação serve para estudar relações assimétricas entre uma economia menor e parceiros tecnologicamente mais fortes. O risco de exportar mineral pouco processado, depender de máquinas estrangeiras ou conceder benefícios excessivos ao investidor aparece em múltiplos países. Todavia, não se deve usar a experiência albanesa para demonstrar uma invasão iminente do Brasil ou uma estratégia comum de apropriação de terras raras.
+
+Uma avaliação comparativa precisa identificar variáveis controláveis: natureza do depósito, custo logístico, estabilidade institucional, mercado consumidor, presença de indústrias químicas e proteção ambiental. Quando não há correspondência, a conclusão correta é reconhecer a limitação da analogia. A Albânia ensina sobre instituições de mineração periférica, não oferece um espelho geológico do Brasil.
+
+## 33. Austrália e os Estados Unidos: minas sem autonomia completa no refino
+
+A Austrália possui setor mineral desenvolvido, empresas internacionalizadas e projetos de terras raras que podem atender mercados industriais avançados. Mesmo países capazes de operar minas de escala relevante enfrentam dificuldades de separar óxidos e fabricar ímãs diante da posição chinesa. Uma mina não se converte em cadeia industrial completa só porque pertence a empresa de país aliado. [1][3]
+
+Os Estados Unidos dispõem de produção mineral estimada em **51 mil toneladas** em 2025, de acordo com o USGS, além de grandes empresas tecnológicas e consumidores de ímãs. Ainda assim, o relatório do Congresso norte-americano descreve dependência externa para parte dos elementos e materiais processados. Isso motiva financiamento a cadeias em outros países, inclusive Brasil. O incentivo é reduzir vulnerabilidade industrial e militar, não necessariamente desenvolver todos os estágios produtivos no território do país fornecedor. [3]
+
+O paralelo é útil ao Brasil porque demonstra que acesso a minério é requisito insuficiente para soberania industrial. Tecnologia de separação, contratos de longa duração, formação de químicos e metalurgistas, qualidade de ligas e clientes finais competitivos são condições cumulativas. Uma política bem desenhada procuraria incluir o Brasil nessas etapas sem prometer autossuficiência imediata em toda a cadeia.
+
+## 34. China e Mianmar: a vulnerabilidade da etapa intermediária
+
+A China consolidou durante décadas escala em extração, separação, metalização e fabricação de ímãs. Economias de aglomeração, conhecimento especializado, mercado doméstico e políticas industriais sustentaram essa posição. Controles de exportação chineses sobre determinados elementos e tecnologias demonstram que capacidade de refino pode ser usada como instrumento de poder econômico. A publicação do USGS de 2026 registra restrições chinesas introduzidas em 2025 e alterações posteriores de sua implementação. [1][3]
+
+Mianmar aparece nos dados internacionais como produtor relevante, em especial em cadeias vinculadas a materiais demandados por processadores asiáticos. O país ilustra o risco de mineração em ambiente de fragilidade institucional e conflito interno. A existência de produção não assegura que os ganhos sejam distribuídos, que direitos locais sejam protegidos ou que as cadeias resistam a instabilidade política.
+
+Para o Brasil, a lição é dupla. Concentração industrial no exterior cria vulnerabilidade de clientes e preços, mas tentar substituí-la instantaneamente por capacidade doméstica pode produzir custos proibitivos. Diversificação exige sequenciamento: pesquisa aplicada, planta-piloto, separação comercial, metais e ligas, indústria de ímãs, clientes de motores e equipamentos, além de reciclagem. Cada etapa deve justificar-se pela eficiência real e pela redução mensurável de riscos.
+
+## 35. Groenlândia e Noruega: recursos sem mineração imediata
+
+A Groenlândia revela como projetos de terras raras podem encontrar oposição política e ambiental mesmo quando há interesse geológico e geopolítico. Um estudo do Parlamento Europeu de outubro de 2026 descreveu o bloqueio de Kvanefjeld sob regras locais relativas à concentração de urânio e a controvérsia jurídica envolvendo a empresa responsável. A disputa relaciona saúde, ambiente, pesca, turismo, direitos econômicos e autonomia institucional. A existência de depósito estratégico não torna inevitável sua exploração. [25]
+
+Na Noruega, o projeto Fen divulgou em 2026 aumento significativo de suas estimativas de **recursos minerais** — e não necessariamente reservas econômicas — para cerca de **15,9 milhões de toneladas de óxidos totais de terras raras**, com planos de produção em anos posteriores. Esse valor não deve ser colocado na mesma coluna que as reservas USGS sem qualificar sua classificação. O caso mostra que conhecimento técnico e infraestrutura podem ser tão relevantes quanto tonelagem bruta estimada. [26]
+
+O paralelo com a Amazônia é especialmente útil: conservar, adiar ou condicionar uma mina pode ser exercício legítimo de soberania. A opção econômica de explorar amanhã depende da preservação do território hoje. Instituições confiáveis precisam decidir com base em direito, ciência e interesses das populações, não apenas na pressão de compradores estrangeiros.
+
+## 36. Competição entre Washington, Pequim, Paris e Bruxelas
+
+Estados Unidos, China e União Europeia possuem objetivos estratégicos parcialmente convergentes — obter suprimento seguro, reduzir custos e proteger indústrias —, mas competem pela localização das etapas de maior valor agregado. A China busca preservar vantagens em refino e manufatura; Washington financia diversificação para cadeias consideradas essenciais à indústria e defesa; Bruxelas promove projetos para reduzir dependências e cumprir metas industriais. Empresas particulares podem divergir das prioridades de seus governos. [3][15][16]
+
+A França reúne características específicas: proximidade física via Guiana Francesa, capacidade industrial química e metalúrgica e participação em iniciativas europeias. A presença militar francesa na Guiana deve ser analisada em função da defesa de seu território e de operações de cooperação, não confundida com propriedade de negócios franceses em terras raras. O Reino Unido aparece como localização de atividades industriais em arranjos privados, sem que isso autorize imputar uma política militar conjunta de captura de depósitos.
+
+O Brasil ganha poder de barganha quando diversos investidores competem e quando o país possui dados geológicos, regras claras e capacidade de escolher contratos. Perde poder quando precisa de um único financiador, quando aceita exclusividade excessiva ou quando órgãos reguladores carecem de instrumentos técnicos para avaliar operações. O objetivo não é evitar todo relacionamento estrangeiro, mas negociar a partir de alternativas verificáveis.
+
+## 37. O papel do BNDES, da Finep e da pesquisa nacional
+
+A industrialização de terras raras exige investimentos que podem demorar muitos anos para produzir receitas e enfrentam riscos tecnológicos elevados. Bancos de desenvolvimento, instrumentos de inovação e universidades podem reduzir falhas de coordenação, sobretudo na passagem do laboratório para a escala-piloto. O estudo de estratégia nacional lançado pelo Ministério de Minas e Energia em 2026 demonstra reconhecimento oficial de que mineração isolada não basta. [16][17][27]
+
+O financiamento de R$ 77,5 milhões aprovado pelo BNDES à Viridis para desenvolvimento de técnicas de processamento é exemplo de investimento voltado a uma etapa tecnológica intermediária. Isso não prova que a empresa alcançará rentabilidade ou que os direitos de propriedade intelectual permanecerão integralmente nacionais. O teste será a operação da planta, recuperação efetiva, contratos de compra e formação de profissionais. [17]
+
+Políticas públicas também podem fracassar. Crédito subsidiado mal direcionado transfere risco ao contribuinte; exigência abrupta de processamento doméstico pode inviabilizar depósitos economicamente marginais; concessões fiscais genéricas podem apenas elevar retorno privado. A intervenção deve usar metas mensuráveis de aprendizagem, produtividade, exportação de produtos transformados e capacidade de competir sem proteção permanente.
+
+## 38. Defesa nacional: o que militares podem realmente proteger
+
+A defesa da Amazônia e das cadeias minerais envolve tarefas distintas. A primeira é territorial: impedir presença armada não autorizada, proteger fronteiras e assegurar mobilidade de tropas e autoridades brasileiras. A segunda é informacional: manter consciência situacional por radar, satélite, comunicação e inteligência. A terceira é logística: garantir acesso e suprimento a unidades isoladas. A quarta é civil: apoiar instituições competentes quando requisitado, dentro de competências legais. [8][18][19]
+
+Nenhuma dessas tarefas substitui a função de agentes ambientais, geólogos ou autoridades concorrenciais. As Forças Armadas não determinam automaticamente contratos de fornecimento, licenças ambientais ou direitos de comunidades. A utilização indistinta de militares como solução para problemas fundiários pode gerar conflitos e desviar pessoal de capacidades de defesa.
+
+Sistemas de dissuasão precisam considerar ameaças concretas. Ataques armados de grupos ilegais contra agentes do Estado, redes de fronteira e crimes ambientais têm base documental. Uma intervenção externa de grande escala para tomar jazidas envolveria custos logísticos, políticos e militares excepcionais e não aparece como movimento operacional demonstrado em documentos públicos consultados. O planejamento deve prever contingências sem transformar hipóteses remotas em certezas.
+
+## 39. Possibilidade de conflito armado: quatro mecanismos diferentes
+
+O **conflito criminal local** é o cenário mais observado: organizações ilegais competem por rotas, máquinas, mão de obra coagida e mercados de minerais de alto valor. A violência pode envolver comunidades, agentes públicos e intermediários privados. Suas causas são econômicas e institucionais, com riscos intensificados por fiscalização fraca e grandes áreas remotas. A mineração ilegal de ouro fornece evidência concreta desse mecanismo. [20]
+
+O **conflito social associado a empreendimento regular** envolve manifestações, disputa por água, acesso à terra e reação a falhas de consulta. Ele não é, por definição, conflito militar ou criminal. Pode degenerar em violência se direitos forem ignorados ou se agentes armados forem empregados para intimidar moradores. O caso Kalunga demonstra a importância de procedimentos de consulta e decisões judiciais na prevenção de escalada. [12][13]
+
+O **conflito econômico entre Estados** envolve tarifas, sanções, restrições de exportação e pressão diplomática. É plausível diante da concentração do refino e da rivalidade tecnológica, mas normalmente ocorre sem uso de armas. O **conflito militar interestatal** exigiria mudanças muito mais graves na ordem regional e em decisões políticas internacionais. Com as evidências públicas disponíveis até outubro de 2026, esse último cenário não constitui previsão fundamentada para terras raras brasileiras.
+
+## 40. O que poderia elevar de fato o risco de crise interestatal
+
+Uma escalada militar envolveria sinais específicos: disputas oficiais de fronteira, deslocamento atípico de grandes forças, ameaças governamentais explícitas, ruptura diplomática, incidentes armados entre unidades estatais ou bloqueios militares de rotas. Nenhum desses sinais pode ser inferido da nacionalidade de uma mineradora, da abertura de investigação pelo Cade ou de visita comercial de uma delegação estrangeira.
+
+Há formas graduais de coerção que merecem monitoramento antes de qualquer cenário extremo. Restrições de venda de tecnologia podem atrasar plantas brasileiras; decisões sobre crédito e seguro podem elevar custo de capital; contratos exclusivos podem limitar compradores; campanhas de desinformação podem manipular expectativas e gerar conflito social. O Estado deve construir resiliência por diversificação tecnológica, reservas de equipamentos críticos, diplomacia e regulação.
+
+É igualmente necessário distinguir ameaça à soberania de perdas em uma negociação legítima. Uma empresa estrangeira obter lucro não implica violação territorial; uma empresa brasileira prejudicar direitos comunitários não se torna aceitável por ser nacional. O princípio de segurança nacional exige avaliar controle efetivo, legalidade, continuidade de suprimento e capacidade de decisão.
+
+## 41. Cibersegurança, propriedade intelectual e espionagem industrial
+
+Mineradoras modernas usam sistemas industriais conectados, modelos geológicos digitais, softwares de controle de processos e dados comerciais sensíveis. Ataques cibernéticos podem interromper equipamentos, expor informações ou degradar confiança nos sistemas de supervisão. A relevância estratégica cresce quando operações dependem de prestadores externos para manutenção, infraestrutura de nuvem e equipamentos industriais de difícil substituição.
+
+Espionagem industrial é risco distinto de comércio regular. Países e firmas buscam conhecer processos de separação, composição de depósitos, custos de recuperação e contratos com compradores. A informação pode influenciar concorrência e negociações de preços, mas não se deve acusar empresas ou governos específicos sem investigação verificável.
+
+A defesa econômica inclui proteção de dados geológicos estratégicos sem bloquear pesquisa científica, auditoria de sistemas operacionais, contratos de confidencialidade executáveis e capacidade local de manutenção. Uma política de segurança exclusivamente física, concentrada em patrulhas de fronteira, deixaria vulneráveis ativos industriais situados longe da Amazônia, como plantas-piloto, laboratórios e bancos de dados.
+
+## 42. A competição pela manufatura de ímãs
+
+O produto industrial de maior importância em diversas aplicações não é o concentrado mineral, mas o ímã projetado e fabricado com composição, pureza e propriedades controladas. A cadeia inclui separação de óxidos, metalurgia, produção de liga, processamento de pó, orientação magnética, sinterização e revestimentos, com rigor de qualidade. Montadoras, fabricantes de motores e empresas de defesa exigem rastreabilidade e repetibilidade. [3]
+
+Investir apenas em mineração pode fortalecer a posição brasileira como fornecedor alternativo de matéria-prima para fábricas no exterior. Investir em separação sem clientes industriais pode produzir capacidade ociosa. Uma estratégia de verticalização exige coordenar demanda, energia competitiva, engenharia, padrões de qualidade e compradores com contratos críveis. O país não deve pressupor que possuir reserva confere vantagem automática em cada etapa.
+
+A transição pode ser organizada em estágios. Primeiro, caracterização e recuperação econômica; depois, óxidos separados em qualidade comercial; posteriormente, metais e ligas em escala; finalmente, manufatura de ímãs ligada a clientes reais. O sucesso de cada estágio deve ser medido por rendimento, custo, certificação, produção entregue e participação doméstica no valor final.
+
+## 43. Preços, concentração de compradores e contratos de exclusividade
+
+Mercados de terras raras diferem em liquidez e transparência. Certos elementos têm preços mais divulgados, enquanto contratos especializados incorporam teor, impurezas, prazos e riscos de entrega. Uma pequena alteração no preço de um elemento crítico pode afetar significativamente projetos com composição mineral concentrada. Projeções comerciais frequentemente usam premissas de preço que não serão necessariamente observadas.
+
+Contratos de fornecimento de longa duração podem viabilizar financiamento, pois reduzem a incerteza sobre comprador e receita. Essa vantagem é real e pode permitir desenvolver depósitos que de outra forma ficariam inativos. Entretanto, exclusividade abrangente pode restringir oportunidades de abastecer indústria nacional futura ou de aproveitar compradores alternativos dispostos a pagar mais. A avaliação deve considerar preço mínimo, indexação, possibilidade de renegociação, garantias e quantidade comprometida.
+
+O arranjo de Serra Verde, descrito pelo Cade, constitui caso especialmente importante para análise de offtake. A expressão “100% da produção da Fase I” possui alcance contratual delimitado: não significa necessariamente 100% de todas as reservas minerais brasileiras, de todas as futuras fases ou de depósitos de terceiros. Respeitar esse perímetro é fundamental para avaliar o risco sem exagero. [15]
+
+## 44. Brasil, Europa e as políticas de matérias-primas críticas
+
+A União Europeia estruturou políticas para reduzir dependência excessiva de materiais essenciais a tecnologias de energia, defesa e indústria. Seus interesses incluem aumentar fornecimento diversificado, estabelecer parcerias com países produtores, reciclar materiais e desenvolver capacidade local de processamento. O interesse europeu em projetos brasileiros deriva desses objetivos, mas empresas e governos podem divergir na distribuição de custos e margens.
+
+O Brasil pode negociar inclusão industrial por meio de exigências de pesquisa cooperativa, formação de engenheiros, laboratórios, produção de intermediários e participação de fornecedores locais. Tais obrigações precisam ser economicamente sustentáveis e juridicamente claras. Uma exigência sem infraestrutura ou clientes pode deslocar investimento a outros países; ausência completa de condições pode consolidar dependência de exportações primárias.
+
+A discussão não deve ser reduzida ao contraste político entre “vender tudo” e “fechar o país”. A combinação de capital internacional com governança doméstica pode gerar capacidade industrial real, desde que contratos sejam verificáveis e políticas públicas avaliem resultados. A robustez de um parceiro se mede por sua disposição de compartilhar riscos produtivos e desenvolver capacidade local, não apenas por comunicados favoráveis à sustentabilidade.
+
+## 45. A segurança alimentar e a pressão sobre as bacias hidrográficas
+
+A mineração de terras raras concorre por recursos físicos com agricultura, cidades e ecossistemas. Água é essencial tanto ao processamento mineral quanto à irrigação e ao abastecimento humano. Uma bacia já submetida a uso intensivo exige análise integrada de vazão, qualidade, captação e contingências de estiagem. A relevância geopolítica dos ímãs não elimina a importância dos alimentos produzidos pelas áreas adjacentes.
+
+O impacto de um empreendimento não deve ser avaliado somente dentro de seu perímetro cadastral. A água transporta poluentes, estradas reorganizam ocupação e fragmentação de vegetação afeta habitats além dos limites de licença. A avaliação de risco precisa considerar efeitos indiretos e cumulativos de mineração, pecuária, lavouras e infraestrutura. O Cerrado exige atenção especial por sua contribuição a grandes sistemas de nascentes.
+
+A análise econômica deve atribuir valor às perdas potenciais, custos de monitoramento e obrigações de reparação. Uma operação que gera emprego e impostos pode ser socialmente indesejável se destrói serviços hídricos de alto valor. Em outros locais, a mineração pode ser compatível com atividades agrícolas mediante desenho e fiscalização adequados. Não existe decisão universal a priori.
+
+## 46. Conflito federativo, licenciamento e incentivos locais
+
+Governos estaduais buscam investimentos, empregos e arrecadação, enquanto o governo federal regula direitos minerais e possui competências ambientais e de proteção territorial. Municípios enfrentam demandas por moradia, transporte e serviços quando projetos atraem trabalhadores. Essa multiplicidade pode gerar concorrência por licenças, insegurança regulatória ou acordos de desenvolvimento bem estruturados.
+
+Regimes de prioridade a minerais críticos podem reduzir atrasos burocráticos sem necessariamente enfraquecer avaliações ambientais. O problema surge quando rapidez se converte em dispensa de análise científica, consulta social ou publicidade dos estudos. A judicialização posterior pode impor custos muito maiores do que a economia de tempo inicialmente obtida.
+
+A distribuição de receitas e encargos também importa. O município que recebe a mina pode suportar pressões sobre saúde, saneamento e habitação enquanto parte da renda empresarial e tributária é apropriada fora da região. Mecanismos de compensação devem ser rastreáveis e vinculados a necessidades verificadas. O debate nacional deve considerar incentivos para que autoridades locais defendam simultaneamente emprego e integridade ambiental, sem depender financeiramente de um único operador.
+
+## 47. O balanço de riscos para o Brasil
+
+O primeiro risco é a **dependência industrial persistente**: exportar concentrados e importar materiais refinados, metais e ímãs. O segundo é a **concentração de compradores**, quando contratos de longo prazo reduzem alternativas comerciais. O terceiro é a **apropriação insuficiente de conhecimento**, se empresas nacionais participam apenas de lavra e serviços pouco especializados. Esses três riscos podem se concretizar mesmo em projetos legalmente licenciados e ambientalmente bem operados.
+
+O quarto risco é **socioambiental**, especialmente associado a água, rejeitos, desmatamento e impactos sobre comunidades. O quinto é **institucional**, envolvendo fiscalização insuficiente, regulação incerta, conflitos de competência e captura de decisões por interesses concentrados. O sexto é **financeiro**, caso preços ou recuperações metalúrgicas decepcionem após grandes investimentos públicos e privados.
+
+Há ainda riscos **geopolíticos** — embargos, tarifas e acesso a tecnologia — e riscos **territoriais**, como exploração ilegal e intimidação armada. O risco de invasão militar estrangeira para tomar jazidas é de outra categoria e não apresenta evidência pública comparável aos anteriores. Uma avaliação nacional de segurança seria mais robusta se priorizasse exposições demonstradas, mantendo acompanhamento de mudanças excepcionais no ambiente militar regional.
+
+## 48. Quatro trajetórias possíveis até 2040
+
+Na trajetória de **industrialização negociada**, o Brasil usa sua posição geológica para atrair capital, estabelecer pesquisa e separação comercial e criar clientes de metais e ímãs. Os acordos incluem obrigações verificáveis de capacidade local, garantia ambiental e transferência de conhecimento. A renda mineral ajuda financiar infraestrutura e qualificação, permitindo que empresas brasileiras concorram em etapas progressivamente mais complexas.
+
+Na trajetória de **enclave exportador**, ocorre expansão de lavra sem formação equivalente de indústria doméstica. A produção pode gerar receitas e empregos, mas contratos exclusivos e dependência externa de refino mantêm margens mais elevadas em outros países. O setor fica vulnerável a variações de preços e decisões comerciais de grandes clientes internacionais.
+
+Na trajetória de **bloqueio socioambiental**, conflitos fundiários, licenciamento precário e passivos hídricos geram litígios e perda de legitimidade. Investimento sofre atrasos, comunidades arcam com custos e a riqueza geológica permanece pouco aproveitada. Na trajetória de **fragmentação geopolítica**, embargos e disputas comerciais elevam custos de equipamentos, enquanto compradores tentam reservar produção por contratos de exclusividade. As quatro trajetórias são mecanismos condicionais, não profecias inevitáveis.
+
+## 49. Os indicadores que efetivamente medem soberania produtiva
+
+O indicador central não é a tonelagem de reserva declarada, mas a relação entre recursos tecnicamente recuperáveis e capacidade produtiva executada. Devem ser medidos número de projetos em operação, renda mineral efetiva, produção de óxidos separados, metalização, ligas, capacidade de fabricar ímãs e participação das empresas brasileiras em patentes, processos e equipamentos. Importações e exportações precisam ser desagregadas por estágio de transformação e composição do produto.
+
+O monitoramento contratual deve incluir destino das vendas, duração de exclusividades, garantias de preços, direitos de controle acionário, obrigações tecnológicas e riscos de refinanciamento. A política ambiental precisa divulgar qualidade da água, volumes e características de rejeitos, acidentes, reparações e situação dos planos de fechamento. A proteção de direitos exige acompanhar consulta, regularização fundiária, indenizações e processos administrativos.
+
+A segurança militar e civil deve acompanhar incidência de mineração ilegal, ataques a agentes e comunidades, presença logística estatal e cooperação transfronteiriça. Não é adequado criar indicadores artificiais de ameaça militar para justificar orçamento sem evidência. Medidas comparáveis ao longo de anos tornam possível corrigir programas e verificar se a riqueza mineral realmente ampliou a autonomia brasileira.
+
+## 50. Uma política nacional compatível com soberania, direitos e produtividade
+
+A estratégia coerente começa por **conhecimento público de qualidade**. Mapas geológicos, padrões de reporte de reservas, pesquisa mineral transparente e dados de risco socioambiental reduzem assimetria entre empresas, comunidades e Estado. Recursos públicos destinados à pesquisa devem apoiar formação de especialistas e laboratórios com capacidade de verificar teor, recuperação e pureza. Nenhum volume de retórica nacionalista substitui competências técnicas.
+
+A segunda dimensão é **negociação industrial**. Autorizar investimentos deve vir acompanhado de análise da cadeia, do valor gerado localmente e das possibilidades realistas de processamento. Contratos de longa duração merecem escrutínio antitruste e atenção a dependência futura. A terceira é **proteção territorial**, assegurando licenciamento, consulta e fiscalização com qualidade suficiente para prevenir conflitos e passivos.
+
+A quarta é **defesa e diplomacia proporcionais**. A presença de Estados Unidos, França e União Europeia na cadeia pode produzir investimentos legítimos e disputas comerciais reais, sem constituir plano militar de ocupação. O Brasil deve manter relações diversificadas e capacidade de defender suas fronteiras e instituições. A quinta é **prestação de contas**: o projeto estratégico somente justifica custo público se apresentar resultados produtivos, ambientais e fiscais mensuráveis.
+
+## 51. A medida histórica de um país rico em recursos
+
+A história brasileira demonstra que grandes recursos naturais podem coexistir com desigualdade, dependência tecnológica e poder concentrado. O país exportou madeira, açúcar, ouro, café, minério e produtos agrícolas em diferentes épocas, alterando gradualmente sua estrutura produtiva. Em nenhuma delas a simples existência de recurso bastou para determinar seu futuro político. Instituições, mercados, infraestrutura, trabalho e conhecimento foram decisivos para quem capturou valor.
+
+As terras raras introduzem um capítulo industrial novo, porque sua importância decorre de tecnologias contemporâneas e de uma cadeia química e manufatureira concentrada. A análise dos interesses americanos e europeus precisa ser concreta: financiamento público e privado, controle de produção contratada, tecnologia de separação e direitos societários. A análise brasileira precisa ser igualmente concreta: quem possui competência tecnológica, quais comunidades enfrentam impactos, qual imposto será arrecadado e quais oportunidades produtivas serão criadas.
+
+A soberania não se mede pela ausência de estrangeiros, mas pela capacidade de decidir legalmente, impor condições razoáveis, manter alternativas e proteger os direitos da população. O cenário militar merece vigilância institucional, mas o conflito mais provável sobre terras raras brasileiras é a disputa política e econômica pela distribuição do valor produzido. A transformação de reservas em desenvolvimento depende de resolver essa disputa com transparência e competência antes que exclusividades e danos irreversíveis estreitem as opções nacionais.
+
+## Evidência quantitativa e comparações
+
+| País ou indicador | Ano e categoria | Valor | Interpretação |
+|---|---|---:|---|
+| Brasil, reservas estimadas, USGS | 2025, óxidos equivalentes | 21.000.000 t | Reserva, não produção anual |
+| China, reservas estimadas, USGS | 2025, óxidos equivalentes | 44.000.000 t | Reserva na mesma série |
+| Austrália, reservas estimadas, USGS | 2025, óxidos equivalentes | 6.300.000 t | Reserva na mesma série |
+| EUA, reservas estimadas, USGS | 2025, óxidos equivalentes | 1.900.000 t | Reserva na mesma série |
+| China, produção mineral, USGS | 2025, óxidos equivalentes | 270.000 t | Fluxo anual, comparável com produção USGS |
+| Brasil, produção mineral, USGS | 2025, óxidos equivalentes | 2.000 t | Não substituir pela produção ANM |
+| Brasil, concentrado produzido, ANM | 2025, categoria brasileira | 326 t | Produto e metodologia distintos |
+| Brasil, exportação de concentrado, ANM | 2025, valor FOB informado | US$ 14,9 milhões | Fluxo comercial |
+| Brasil, importação de óxidos e ímãs, ANM | 2025, valor informado | US$ 30,6 milhões | Cesta de produtos transformados |
+| Argentina, recurso identificado pelo SEGEMAR | 2026, recurso geológico | 190.395 t | Não comparável à reserva USGS |
+| Albânia, produção de ETR | 2024, inventário USGS | Não identificada como produtor significativo | Outros minerais têm maior relevância |
+| Brasil, autorizações em fase de pesquisa, ANM | outubro de 2026 | 3.067 áreas | Potencial em pesquisa, não minas |
+| Serra Verde–USAR, compromisso de Fase I | Acordo anunciado em 2026 | 100% da Fase I | Não equivale a 100% das reservas nacionais |
+
+As comparações quantitativas de reservas e produção entre Brasil, China, Austrália e Estados Unidos utilizam categorias internacionais do USGS, enquanto a Argentina apresenta estimativa nacional de recursos de outra categoria. A diferença de metodologia é parte do diagnóstico e não deve ser suprimida.
+
+```chart
+type: bar
+title: Reservas estimadas de terras raras, USGS 2026
+unit: milhões de toneladas de óxidos equivalentes
+China | 44
+Brasil | 21
+Austrália | 6.3
+Estados Unidos | 1.9
+```
+
+```chart
+type: bar
+title: Produção mineral de terras raras, USGS, ano 2025
+unit: toneladas de óxidos equivalentes
+China | 270000
+Estados Unidos | 51000
+Austrália | 29000
+Brasil | 2000
+```
+
+```chart
+type: bar
+title: Participação chinesa aproximada nas etapas da cadeia
+unit: percentual global
+Extração | 60
+Separação e processamento | 90
+Fabricação de ímãs | 94
+```
+
+```flow
+Prospecção e caracterização → recursos e reservas economicamente avaliados → licença e consulta territorial → beneficiamento → separação de óxidos → metais e ligas → fabricação de ímãs → motores, eletrônica e defesa
+Propriedade nacional da jazida → concessão e contratos comerciais → distribuição efetiva de renda e controle tecnológico
+```
+
+```map
+title: Territórios, instituições e poder nas terras raras
+Minaçu, Goiás, Brasil | Serra Verde e argilas iônicas | Produção e acordos internacionais de fornecimento
+Poços de Caldas, Minas Gerais, Brasil | Projetos e processamento-piloto | Formação de capacidade metalúrgica
+Araxá, Minas Gerais, Brasil | Complexos mineralizados e indústria de nióbio | Possibilidade de aproveitamento de subprodutos
+Morro dos Seis Lagos, Amazonas, Brasil | Potencial geológico e proteção territorial | Restrições jurídicas e ambientais
+Pitinga, Amazonas, Brasil | Mineração de estanho e minerais associados | Logística e aproveitamento de outros elementos
+Argentina | Recursos geológicos identificados pelo SEGEMAR | Comparador de política mineral e federalismo
+Albânia | Produção de cromo e níquel | Comparação institucional; não grande produtora de ETR
+Guiana Francesa, França | Fronteira com Amapá | Cooperação contra crimes transfronteiriços
+China | Processamento e ímãs | Concentração industrial e poder comercial
+Estados Unidos | Clientes, financiamento e indústria de defesa | Diversificação de suprimento
+```
+
+```mindmap
+A soberania mineral como sistema
+- Território e direitos
+  - União e regime constitucional de jazidas
+  - Povos indígenas e territórios quilombolas
+  - Proprietários rurais e agricultura
+- Tecnologia e economia
+  - Pesquisa geológica
+  - Separação química e metalização
+  - Ímãs e indústria final
+  - Contratos de offtake e financiamento
+- Relações internacionais
+  - Estados Unidos
+  - China
+  - França e União Europeia
+  - Argentina e Albânia
+- Segurança
+  - Garimpo e crime organizado
+  - Fronteiras e cooperação
+  - Coerção comercial
+  - Conflito interestatal de baixa evidência atual
+```
+
+## Referências e documentos
+
+[1] USGS, *Mineral Commodity Summaries 2026*, resumo de terras raras, edição revista de maio de 2026: https://pubs.usgs.gov/publication/mcs2026
+
+[2] Agência Nacional de Mineração, *Autorizações de Pesquisa para terras raras tiveram aumento de 485,4% entre 2021 e 2025*, 14/10/2026: https://www.gov.br/anm/pt-br/assuntos/noticias/autorizacoes-de-pesquisa-para-terras-raras-tiveram-um-aumento-de-485-4-entre-2021-e-2025-veja-dados-no-portal-de-minerais-criticos-e-estrategicos
+
+[3] Congressional Research Service, *Rare Earth Elements and U.S. Supply Chains*, 2026: https://www.everycrsreport.com/reports/IF13171.html
+
+[4] Agência Nacional de Mineração, *Sumário Mineral Brasileiro 2025*, terras raras: https://www.gov.br/anm/pt-br/assuntos/economia-mineral/publicacoes/sumario-mineral/sumario-mineral-brasileiro-2025/sumario-2025.pdf
+
+[5] Serviço Geológico do Brasil, *Panorama dos elementos terras raras no Brasil*, 2026: https://rigeo.sgb.gov.br/items/9466a9cf-48ac-4025-9a42-76dae0b2bde0
+
+[6] Câmara dos Deputados, Constituição Federal de 1988, especialmente art. 20 e art. 231: https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html
+
+[7] Normas Legais do Brasil, art. 176 da Constituição, redação vigente: https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Aconstituicao%3A1988-10-05%3B1988%21art176
+
+[8] Lourenção, Humberto, *Concepções de políticas de defesa e desenvolvimento da Amazônia de 1985 a 2006*, Revista da Escola Superior de Guerra: https://revista.esg.br/index.php/revistadaesg/article/view/188
+
+[9] Câmara dos Deputados, biografia institucional de Enéas Carneiro: https://www.camara.leg.br/deputados/74269/biografia
+
+[10] Agência Câmara, *Saiba mais sobre a vida de Enéas*, 06/05/2007: https://www.camara.leg.br/noticias/98946-saiba-mais-sobre-a-vida-de-eneas/
+
+[11] Câmara dos Deputados, discurso de Enéas Carneiro no Grande Expediente, 21/08/2003: https://www.camara.leg.br/internet/sitaqweb/TextoHTML.asp?Data=21%2F08%2F2003&dtHoraQuarto=16%3A10&dtHorarioQuarto=16%3A10&etapa=3&nuInsercao=0&nuOrador=2&nuQuarto=66&nuSessao=150.1.52.O&sgFaseSessao=GE++++++++&txApelido=EN%C3%89AS&txEtapa=Com+reda%C3%A7%C3%A3o+final&txFaseSessao=Grande+Expediente+++++++++++++
+
+[12] Ministério Público Federal, sentença para titulação do território Kalunga, 12/01/2026: https://www.mpf.mp.br/o-mpf/unidades/pr-go/noticias/mpf-obtem-sentenca-que-determina-a-conclusao-da-titulacao-do-territorio-quilombola-kalunga-go
+
+[13] Ministério Público Federal, suspensão de requerimentos de mineração no território Kalunga, 19/11/2025: https://www.mpf.mp.br/o-mpf/unidades/pr-go/noticias/mpf-garante-suspensao-de-requerimentos-de-mineracao-no-territorio-kalunga-go
+
+[14] Observatório da Mineração, *Factsheet Cerrado: minerais críticos e territórios*, 25/09/2026: https://observatoriodamineracao.com.br/factsheet-cerrado/
+
+[15] Conselho Administrativo de Defesa Econômica, *Cade apura acordos de combinação e de fornecimento em terras raras*, 11/05/2026: https://www.gov.br/cade/pt-br/assuntos/noticias/cade-apura-acordos-de-combinacao-e-de-fornecimento-em-terras-raras
+
+[16] Ministério de Minas e Energia, *Apoio à preparação da Estratégia Nacional de Terras Raras*, relatório técnico, 2026: https://www.gov.br/mme/pt-br/assuntos/noticias/2023-2026/estudo-liderado-pelo-mme-abre-caminho-para-estrategia-nacional-que-transforme-potencial-das-terras-raras-em-desenvolvimento-e-reindustrializacao
+
+[17] Banco Nacional de Desenvolvimento Econômico e Social, *BNDES aprova R$ 77,5 milhões para Viridis processar terras raras*, 08/09/2026: https://agenciadenoticias.bndes.gov.br/noticia/BNDES-aprova-R%24-775-mi-para-Viridis-processar-terras-raras-em-Pocos-de-Caldas-MG/
+
+[18] Ministério dos Povos Indígenas, *Brasil e França assinam acordo contra garimpo ilegal de ouro*, 17/01/2025: https://www.gov.br/povosindigenas/pt-br/brasil-e-franca-assinam-acordo-contra-garimpo-ilegal-de-ouro
+
+[19] Ministério das Forças Armadas da França, *FAG – HARPIE: operação JARARACA entre França e Brasil*, 28/03/2025: https://www.defense.gouv.fr/operations/actualites/fag-harpie-fin-loperation-jararaca-entre-france-bresil-contre-lorpaillage-illegal
+
+[20] Interpol, *198 arrests in cross-border illegal gold mining operation in South America*, 22/01/2026: https://www.interpol.int/News-and-Events/News/2026/198-arrests-in-cross-border-illegal-gold-mining-operation-in-South-America
+
+[21] Serviço Geológico do Brasil, Série Minerais Estratégicos, incluindo Seis Lagos, Pitinga e potencial de Roraima: https://sgb.gov.br/minerais-estrategicos
+
+[22] SEGEMAR, *Un informe del SEGEMAR forma parte del proyecto de ley para permitir la exploración de tierras raras*, 02/06/2026: https://www.argentina.gob.ar/noticias/un-informe-del-segemar-forma-parte-del-proyecto-de-ley-para-permitir-la-exploracion-de
+
+[23] U.S. Geological Survey, *Albania: Minerals Yearbook Country Information*, base de 2024: https://www.usgs.gov/centers/national-minerals-information-center/albania
+
+[24] Comissão Europeia, documento sobre a integração dos minerais críticos e capacidade mineral da Albânia, 2025: https://enlargement.ec.europa.eu/document/download/1cce234f-a88f-4dfa-8e67-5d0132e9e3fd_en?filename=C_2025_5272_F1_ANNEX_EN_V1_P1_4233109.PDF
+
+[25] Parlamento Europeu, *The new US–Denmark–Greenland agreement*, outubro de 2026: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA%282026%29791543.html?locale=EN
+
+[26] Rare Earths Norway, estimativa de recursos Fen de 2026, conforme reportado no setor: https://www.rareearthsnorway.com/
+
+[27] Ministério de Minas e Energia, *MME inicia estudos para construção da Estratégia Nacional de Terras Raras*, 22/01/2026: https://www.gov.br/mme/pt-br/assuntos/noticias/mme-inicia-estudos-para-construcao-da-estrategia-nacional-de-terras-raras
+
+[28] Constituição Federal, art. 231 e direitos territoriais indígenas: https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Aconstituicao%3A1988-10-05%3B1988
+
+[29] Ministério da Defesa, *Programa Calha Norte*, memória institucional: https://www.gov.br/defesa/pt-br/assuntos/secretaria-geral/programa-calha-norte
