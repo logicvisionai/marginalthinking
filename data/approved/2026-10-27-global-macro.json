@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-27",
+  "slug": "2026-10-27-global-macro",
+  "revision": 1,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-27T08:06:04.689Z",
+  "reviewed_commit": "4d48e32b04c15498fde71f80cfdb81cba25eaaf6",
+  "pending_blob_sha": "10473ab704bb6c4ee748f9b3e1efd6c66be508fa",
+  "source_blob_shas": {
+    "en": "f393df09b2e6e8a89417bc3fdfc18342de1252e4",
+    "pt-BR": "d60d2353ae75e9470b5d6741d6ef9969906717d6"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Three current Git blobs match the immutable pending, English and PT-BR source SHA references (3/3); canonical ID and slug are unchanged."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "All required pending-v2 fields present; controlled program, topics, dimensions, phenomena, geography, format and cadence verified against taxonomy v1.0."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "26 October market evidence checked against original B3 circuit-breaker notice and B3 close (Ibovespa 176,608.23/-13.88%), Banco Central PTAX sell 5.5007, US Treasury 23/26 Oct nominal 2Y/10Y/30Y and real 10Y curves, ifo 90.2/89.9 and ICI 21 October assets $7.94tn/+21.49bn. Reuters confirms Brazil spot/CDS and Brent/WTI; AP confirms US closes. PTAX distinguished from spot, fund asset changes from same-day capital flows, and auction cancellation from sovereign insolvency."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "14 numbered final references in both editions, 35 numbered in-text citation markers per edition, 10 distinct source hosts. Official and specialist references retain observation dates and distinguish reported market quotes from institutional releases."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2330,
+        "pt-BR": 2621
+      },
+      "reviewed_source_urls": {
+        "en": 14,
+        "pt-BR": 14
+      },
+      "reviewed_source_hosts": {
+        "en": 10,
+        "pt-BR": 10
+      },
+      "reviewed_h2": {
+        "en": 6,
+        "pt-BR": 6
+      },
+      "summary": "Reproduced scripts/validate-editorial-depth.mjs counting and budget expressions against both full staged Markdown sources; daily 1,700-word floor, 8 URLs, 4 hosts, 6 sections, 2 charts, flow, map and table all met."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions contain one 8-row evidence table, two explicit numeric charts, a two-chain causal flow and a five-region map. Signed 26 October equity returns and 2Y/10Y/30Y Treasury yield chart series match exactly EN/PT-BR; chart units, date cutoffs and non-flow caveats are stated."
+    },
+    "translation_check": {
+      "result": "passed",
+      "summary": "All market levels, dates, institutional distinctions, scenario falsifiers, numeric chart series and 14 final reference URLs match semantically across EN and PT-BR."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Brazil-specific repricing tested against peer emerging markets, auction resumption and liquidity, developed-market Treasury benchmarks, physical Gulf supply evidence and earnings/credit observations."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The 26 October edition had election results but no post-runoff trading. The 27 October edition adds the completed 26 October Brazil equity/FX/CDS shock, circuit breaker and sovereign auction decision; incremental evidence is explicit."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Reports market and institutional responses to an election without advocating for a party or treating anticipated policies as enacted; separates observed prices from inferred causes."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Natural bilingual institutional prose, claim-level numbered references with URLs at end, quantitative and causal distinctions, adequate analytical depth and falsifiable counterevidence; no public workflow/QA labels or investment recommendations."
+    },
+    "pipeline_validation": {
+      "result": "passed_for_candidate",
+      "summary": "GitHub Actions at source HEAD 8890bdc5: node scripts/validate-pipeline.mjs passed for 151 public bundles. Strict MT_VALIDATE_ALL_PENDING=1 editorial-depth job failed only on previously rejected unrelated 24 October drafts (SLAVERY, MAUA, MEDICI, ROCKEFELLER, ROTHSCHILD); new MT-GM-2026-10-27 had no failures. Exact candidate validator expressions reproduced; full local Node run unavailable due github.com DNS failure."
+    }
+  },
+  "contrary_evidence": [
+    "US S&P 500 and European STOXX 600 advanced while Brazil declined, weakening a global indiscriminate risk-off thesis.",
+    "US nominal and real ten-year Treasury yields were unchanged on 23 versus 26 October, limiting a new global rate-shock explanation.",
+    "Brazilian PTAX and Reuters spot differ by instrument and observation window; no capital-outflow volume was verified.",
+    "An auction cancellation alone does not demonstrate impaired sovereign debt service or prolonged market illiquidity.",
+    "Reported HSBC portfolio view is not independently confirmed by the original house-view note and does not prove actual capital reallocations."
+  ],
+  "limitations": [
+    "Brazilian five-year CDS and spot USD/BRL values are attributed Reuters market quotes rather than primary exchange fixing series.",
+    "Original full HSBC house-view and primary Brazilian Treasury cancellation notice were not independently obtained; the latter was corroborated by multiple reports quoting the official notice.",
+    "CI strict all-pending depth gate fails on pre-existing rejected drafts; the candidate itself meets its effective gates. No local checkout was available to run Node directly.",
+    "No 27 October cash-session quotation is asserted; 26 October completed sessions are the information cutoff."
+  ],
+  "notes": "Independent QA 4/5; source 3/3 SHAs verified on current HEAD. This approval is an immutable snapshot for publisher 5/5. No public files changed.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-27",
+    "slug": "2026-10-27-global-macro",
+    "date": "2026-10-27",
+    "published_at": "2026-10-27T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "capital-markets",
+      "monetary-policy",
+      "sovereign-debt",
+      "currencies",
+      "banking-credit",
+      "energy",
+      "trade-investment",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "political-stability",
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "27 October 2026 05:00 America/Sao_Paulo; completed 26 Oct global sessions; BCB PTAX distinct from spot; no 27 Oct cash-session quotations.",
+      "research_depth": "EN 2566 words, PT-BR 2879 words",
+      "source_check": "14 numbered references, official B3/BCB/US Treasury/ifo/ICI and contemporaneous Reuters/AP; original HSBC outlook not independently obtained.",
+      "visual_signature": "One quantitative return chart, one Treasury yield chart, one evidence table, one causal flow and one regional map in each locale.",
+      "bilingual_parity": "Same chart values and units, same cross-asset evidence and caveats; two chart + table + flow + map.",
+      "source_shas": {
+        "en": "f393df09b2e6e8a89417bc3fdfc18342de1252e4",
+        "pt-BR": "d60d2353ae75e9470b5d6741d6ef9969906717d6"
+      }
+    },
+    "contrary_evidence": [
+      "US and European equities advanced while Brazil declined.",
+      "US Treasury nominal and real ten-year yields were nearly unchanged.",
+      "BCB PTAX and Reuters spot quotes differ by construction.",
+      "No institution-specific forced selling or capital outflow volume verified."
+    ],
+    "scenarios": [
+      "Brazilian market stabilisation and resumed auctions",
+      "Persistent local funding stress and spread widening",
+      "Global oil/funding shock amplifies local repricing"
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-27-global-macro/en.md",
+        "title": "Global Macro — Brazil's market shock exposes the difference between electoral repricing and global risk appetite",
+        "deck": "Brazil's 13.88% equity selloff, FX depreciation and debt-auction cancellation contrast with gains in US and European stocks and stable US yields.",
+        "tags": [
+          "global macro",
+          "Brazil market shock",
+          "sovereign debt",
+          "US Treasury yields",
+          "cross-asset",
+          "oil",
+          "institutional flows"
+        ],
+        "keywords": [
+          "27 October 2026",
+          "Brazil Ibovespa -13.88%",
+          "B3 circuit breaker",
+          "Brazil sovereign CDS 120 144 basis points",
+          "Brazil Treasury auction cancellation",
+          "US 10Y Treasury 5.00%",
+          "German ifo 90.2",
+          "Brent 115.81",
+          "US money market funds 7.94 trillion"
+        ],
+        "regime": "Sharp Brazil-specific political and funding repricing amid resilient developed-market equities, elevated energy prices and stable US benchmark yields.",
+        "key_risk": "Local margin and funding amplification mistaken for global risk-off or future fiscal policy already enacted.",
+        "watch": [
+          "Brazilian fixed-rate auction resumption and DI liquidity",
+          "BRL and five-year CDS versus emerging-market peers",
+          "US real yields, spreads and earnings revisions",
+          "Gulf verified export throughput and refined-product freight"
+        ],
+        "search_text": "Global Macro 27 October 2026 Brazil Ibovespa -13.88 circuit breaker sovereign CDS auction cancellation BRL PTAX US Treasury 5.00 Germany ifo 90.2 global equities oil."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-27-global-macro/pt-BR.md",
+        "title": "Macro Global — choque nos mercados brasileiros expõe a diferença entre risco eleitoral e apetite global por ativos",
+        "deck": "Ibovespa cai 13,88%, real perde valor e Tesouro cancela leilões, enquanto bolsas americanas e europeias sobem e os juros dos EUA pouco mudam.",
+        "tags": [
+          "macro global",
+          "choque de mercado brasileiro",
+          "dívida soberana",
+          "juros americanos",
+          "ativos globais",
+          "petróleo",
+          "fluxos institucionais"
+        ],
+        "keywords": [
+          "27 October 2026",
+          "Brazil Ibovespa -13.88%",
+          "B3 circuit breaker",
+          "Brazil sovereign CDS 120 144 basis points",
+          "Brazil Treasury auction cancellation",
+          "US 10Y Treasury 5.00%",
+          "German ifo 90.2",
+          "Brent 115.81",
+          "US money market funds 7.94 trillion"
+        ],
+        "regime": "Reprecificação política e financeira concentrada no Brasil, com bolsas desenvolvidas resilientes, energia cara e juros americanos estáveis.",
+        "key_risk": "Confundir amplificação doméstica por garantias e liquidez com aversão global ao risco ou política fiscal já implementada.",
+        "watch": [
+          "Retomada de leilões prefixados e liquidez do DI",
+          "Real e CDS de cinco anos ante pares emergentes",
+          "Juros reais, spreads e lucros americanos",
+          "Exportações físicas do Golfo e frete de derivados"
+        ],
+        "search_text": "Macro Global 27 outubro 2026 Ibovespa -13,88 circuit breaker CDS soberano cancelamento leilões real PTAX Treasury 5,00 ifo Alemanha petróleo bolsas globais."
+      }
+    }
+  }
+}
