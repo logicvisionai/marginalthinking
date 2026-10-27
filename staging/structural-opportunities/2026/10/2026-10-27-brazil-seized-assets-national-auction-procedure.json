@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-27T08:04:18.907Z",
+  "id": "2026-10-27-brazil-seized-assets-national-auction-procedure",
+  "candidate": {
+    "country": {
+      "code": "BRA",
+      "name": "Brazil"
+    },
+    "previous_state": null,
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "Brazilian federal public-asset custodians, the National Secretariat for Drug Policy and Asset Management (Senad), courts and legally authorized auction operators seeking to dispose of seized assets while protecting judicial rights.",
+    "structural_condition": "Nationally standardized judicial and administrative procedure for early disposal of movable and immovable assets seized in criminal proceedings and held by the Federal Police; previously fragmented case-by-case authorizations can delay sales and increase storage and depreciation costs.",
+    "delta": "CNJ Provimento 257/2026, dated 16 October and published in the official judicial gazette on 19 October 2026, is marked in force and establishes a national route for Senad-managed disposals. MJSP's 21 October release, updated 26 October, identifies an initial inventory of 519 assets (277 vehicles and 242 properties) and a prospective R$1 billion sales estimate. After 90 days from publication, sales may proceed under the procedure absent judicial opposition; this is an effective procedural authorization, not a completed auction or realized fiscal receipt.",
+    "mechanism": "Standardized lists, notification and court review can reduce duplicated requests and storage time, preserving asset value and releasing custody capacity. A legal mechanism is available now, but realized throughput, bid competition, procedural fairness, judicial objections and net public proceeds remain unverified.",
+    "catalysts": [
+      "Publication of eligible asset lists and expiry of the statutory 90-day review window, subject to judicial orders.",
+      "First electronic auctions under Provimento 257/2026 with audited sale prices, costs and time-to-sale.",
+      "Disclosure of realized net proceeds and legal challenges compared with historical disposal process."
+    ],
+    "invalidation": "Material court objections, suspended auctions, weak bidding, low net proceeds after fees, or no measured reduction in storage duration/cost would weaken the claim that the new legal mechanism yields operational efficiency.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "Conselho Nacional de Justiça, Provimento 257/2026, in force; DJe 19 October",
+        "url": "https://atos.cnj.jus.br/atos/detalhar/7134",
+        "date": "2026-10-19"
+      },
+      {
+        "name": "CNJ, national rules for early disposal of seized Federal Police assets",
+        "url": "https://www.cnj.jus.br/corregedoria-nacional-de-justica-estabelece-regras-para-agilizar-venda-de-bens-apreendidos-pela-pf/",
+        "date": "2026-10-20"
+      },
+      {
+        "name": "Ministério da Justiça e Segurança Pública, asset inventory and projected auction proceeds",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
+        "date": "2026-10-26"
+      }
+    ]
+  },
+  "screening_note": "Discovery only: neither estimated R$1bn nor 519 inventoried assets are completed sales. CNJ legal rule is effective, but the 90-day review period and judicial safeguards remain. No Atlas canonical state updated."
+}
