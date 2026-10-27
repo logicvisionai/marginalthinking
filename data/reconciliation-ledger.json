@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-26T04:57:51.514Z",
+  "last_reconciled_at": "2026-10-27T08:08:07.602Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7229,6 +7229,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI valuation and technology dependences are covered as systemic financial exposures, not newly validated engineering performance milestones."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-10-27T08:08:07.602Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-27"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The approved 27 October macro report documents Brazil-specific equity, FX and sovereign funding repricing against developed-market benchmarks; no independently verified cross-border exposure, ownership edge or asset/liability pair sufficient for the canonical network schema."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The publication assesses observed macro-market repricing and conditional scenarios, not a verified investable structural opportunity with project-level evidence."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "B3, the Brazilian Treasury, BCB and other institutions are discussed, but market quotations and an auction decision do not establish a new verified control relationship, beneficiary or durable actor capability to encode."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed the 27 October report: no evidenced transfer of legal title, operating control or beneficial ownership of a physical resource or strategic infrastructure asset."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report concerns market reactions and a reported auction cancellation; it does not provide an implemented policy with independently evaluated outcomes suitable for a policy-case entry."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Geopolitical energy risks are scenarios, with no newly verified conflict event or change in a conflict-system record established by the report."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No independently validated technology milestone, maturity change, or engineering-performance evidence is introduced by this macro publication."
         }
       ]
     }
