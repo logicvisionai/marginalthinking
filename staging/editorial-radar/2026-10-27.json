@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "checked_at": "2026-10-27T05:00:00-03:00",
+  "scope": "All active editorial lines in canonical registry reviewed against 26 October market releases, 23 October WHO outbreak update and selected primary institutional sources; negative screening is not a claim of exhaustive global absence.",
+  "registry_updated_at": "2026-10-26T04:57:51.514Z",
+  "reviewed_line_count": 26,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "new_pending_qa",
+      "note": "27 Oct market repricing article staged: B3 -13.88%, auction cancellations, US/European divergence."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "26 Oct weekly Wealth edition already in canonical corpus; no second weekly product created."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "German industrial expectations and Brazilian funding shock monitored; no independently verified structural transition requiring a separate country study."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Brazil, Germany and Gulf country context used selectively; no new country dossier."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI earnings/capex financing test monitored; no newly demonstrated capability or scale change."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "World Bank 20 Oct AI readiness initiative is announced, not operating capacity."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Gulf shipping and Saudi infrastructure attack claims treated conditionally, with no verified physical throughput loss."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new ownership/control rights independently established in reviewed releases."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "26 Oct Treasury US curve, Brazil debt auctions and Fed/ECB decision horizon integrated into Global Macro."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "Brazil Treasury auction cancellation and B3 circuit breaker are institutional operations, not a new structural policy."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "atlas_candidate_only",
+      "note": "CNJ Provimento 257/2026 enacted, potential asset-management reform staged for Atlas validation, no completed policy impact evaluation."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "CNJ seized-asset auctions rule is implementation change; not a general new market-design paradigm."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Money market fund assets are intermediated fund stocks, not beneficial wealth control changes."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new audited annual wealth/control inventory from screened sources."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "CNJ/Senad operational agreement monitored; no new global governance institution."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No new executed cross-border payments, customs or integration mechanism independently verified."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI infrastructure capex and employment issues monitored; no distinct evidence package beyond earnings watch."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "FAO nutrition, farm-input and pesticide exposure agendas screened; no new 26 Oct primary outcome series found."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Antimicrobial resistance, livestock management, chemical/pesticide safety and One Health baselines screened; no verified new regulation/implementation."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Gulf war and energy security treated as conditional capacity/transmission, not prediction of imminent war."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "existing_pending_qa",
+      "note": "26 Oct Bundibugyo Ebola EN/PT pending already staged; WHO DON622 remains latest primary update retrieved; avoid duplicate."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No newly retrieved primary historical record correcting published intellectual-history research."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "Oil/freight risks monitored; no independently evidenced new pipeline commissioning or export throughput."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "Post-runoff Brazilian equity, FX, CDS and debt-management reaction covered in daily Global Macro."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Brazil resources and rare-earth controls screened; no new dated mining concession/control change verified."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Itaipu and datacenter grid links remain under watch; no new operating transmission/digital capacity independently established."
+    }
+  ],
+  "selected_additional_article": null,
+  "selection_reason": "Global Macro has a material new post-election cross-asset delta; the 26 Oct Ebola assessment is already staged and no distinct, newly verified 27 Oct thematic evidence warrants a second report.",
+  "screened_primary_sources": [
+    {
+      "institution": "B3",
+      "date": "2026-10-26",
+      "url": "https://www.b3.com.br/pt_br/noticias/b3-informa.htm",
+      "use": "Equity-market interruption"
+    },
+    {
+      "institution": "BCB",
+      "date": "2026-10-26",
+      "url": "https://ptax.bcb.gov.br/ptax_internet/consultarUltimaCotacaoDolar.do",
+      "use": "Official exchange-rate reference"
+    },
+    {
+      "institution": "US Treasury",
+      "date": "2026-10-26",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+      "use": "Global financing benchmark"
+    },
+    {
+      "institution": "ifo Institute",
+      "date": "2026-10-26",
+      "url": "https://www.ifo.de/en/press-release/2026-10-26/ifo-business-climate-rises-october-2026",
+      "use": "Germany activity expectations"
+    },
+    {
+      "institution": "WHO",
+      "date": "2026-10-23",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+      "use": "Latest retrieved Bundibugyo update; not a new 27 Oct event"
+    },
+    {
+      "institution": "CNJ",
+      "date": "2026-10-19",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7134",
+      "use": "Enacted seized-assets disposal procedure"
+    },
+    {
+      "institution": "MJSP",
+      "date": "2026-10-21",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
+      "use": "Regulatory implementation and prospective scope"
+    },
+    {
+      "institution": "World Bank",
+      "date": "2026-10-20",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "use": "Digital access and AI readiness announced, not deployed"
+    }
+  ],
+  "coverage_limits": [
+    "No comprehensive real-time livestock, pesticide-exposure or AMR registry release for 27 Oct independently verified.",
+    "No independent Gulf throughput series or institutional investor beneficial ownership flows established.",
+    "No additional thematic article created."
+  ]
+}
