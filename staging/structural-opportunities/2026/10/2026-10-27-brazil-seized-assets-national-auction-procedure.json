@@ -40,5 +40,28 @@
       }
     ]
   },
-  "screening_note": "Discovery only: neither estimated R$1bn nor 519 inventoried assets are completed sales. CNJ legal rule is effective, but the 90-day review period and judicial safeguards remain. No Atlas canonical state updated."
+  "screening_note": "Discovery only: neither estimated R$1bn nor 519 inventoried assets are completed sales. CNJ legal rule is effective, but the 90-day review period and judicial safeguards remain. No Atlas canonical state updated.",
+  "review_status": "watch",
+  "reviewed_at": "2026-10-27T05:22:13-03:00",
+  "review_notes": "Primary legal source CNJ Provimento 257/2026 is in force (DJe 19 October); MJSP 21 October release updated 26 October reports 519 inventoried assets (277 vehicles, 242 properties) and potential R$1bn proceeds. Neither inventory nor estimated proceeds is an auction, realised cash flow, final forfeiture or change in legal ownership. After 90 days the procedure permits eligible auctions absent judicial opposition; parties can seek exclusion/return, and proceeds from early disposal remain judicially linked until legal allocation. Historical early-vs-final auction average prices differ but are not causal evidence of value preservation because asset mix, quality, legal timing and selection can differ. Retain discovery watch; require first completed auction and net receipts, procedural safeguards, observed time-to-sale/storage-cost reduction before any canonical Atlas transition.",
+  "review_sources_checked": [
+    {
+      "url": "https://atos.cnj.jus.br/atos/detalhar/7134",
+      "source_date": "2026-10-19",
+      "check": "Provimento 257/2026 official status in force, judicial and administrative framework; no auction completion inferred"
+    },
+    {
+      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
+      "source_date": "2026-10-21",
+      "updated_at": "2026-10-26",
+      "check": "519 inventoried assets, prospective R$1bn, 90-day procedure, judicial safeguards, historical mean prices not causal effect, quarterly reporting obligations"
+    }
+  ],
+  "monitoring": {
+    "observed": "Legal procedure is effective and 519 assets are inventoried; the ministry estimates potential proceeds.",
+    "not_observed": "No completed sales, buyer-level transfer, net fiscal inflow, verified sale prices, storage-cost reduction or average time-to-sale under the new procedure.",
+    "wealth_accounting": "Reclassification or valuation of seized assets is not a capital flow. An executed auction changes the owner of a specific asset; the gross sale price and eventual government receipts are distinct, with early-sale funds potentially held subject to court decisions.",
+    "second_order": "If realised, shorter storage periods could preserve asset condition and reduce custody costs, but claims about aggregate fiscal impact require realised net receipts and baseline costs.",
+    "decision": "discovery_watch; do not change canonical data/structural-opportunities.json or history without observed implementation."
+  }
 }
