@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "checked_at": "2026-10-28T05:00:00-03:00",
+  "candidate_ids": [
+    "2026-10-28-korea-hbm4-contracted-memory-capacity"
+  ],
+  "coverage_summary": "Compared the eight canonical Structural Opportunity Atlas entries (last updated 2026-09-23), the 25–27 Oct daily scan markers, 25–27 Oct public Global Macro and current 28 Oct staged edition. Screened SK hynix official 28 Oct earnings, HBM4 production and signed 2027–28 contracts; RBNZ/ABS energy and monetary transmission; US Treasury and ICI financing; B3 debt-market conditions; WHO DON622 and prior health-system candidate; Gulf physical logistics and recently staged CNJ, UK, Nigeria and Pix–TIPS signals. One high-materiality discovery hypothesis staged for Korea HBM4 contract visibility; planned 2027 capacity is not counted as commissioned. No canonical Atlas edit.",
+  "canonical_atlas_updated_at": "2026-09-23",
+  "sources_checked": [
+    {
+      "name": "SK hynix Q3 results",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "RBNZ OCR decision",
+      "url": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "ABS CPI",
+      "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "WHO DON622",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+      "date": "2026-10-23"
+    }
+  ]
+}

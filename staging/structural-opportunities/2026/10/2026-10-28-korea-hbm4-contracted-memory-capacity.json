@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-28T05:00:00-03:00",
+  "candidate": {
+    "id": "2026-10-28-korea-hbm4-contracted-memory-capacity",
+    "country": {
+      "code": "KOR",
+      "name": "South Korea"
+    },
+    "proposed_state": "leverageable_efficiency",
+    "previous_state": null,
+    "perspective": "SK hynix as an advanced-memory manufacturer allocating fabrication capacity and investment against signed long-term customer procurement commitments.",
+    "structural_condition": "Operational HBM4 shipments and a rising contracted share of 2027–2028 high-bandwidth and other memory output improve production planning for a concentrated supplier, while buyers face lock-in and downstream execution risk.",
+    "delta": "In its 28 October 2026 preliminary third-quarter disclosure, SK hynix reports that 14 major customers have signed long-term agreements covering more than 50% of total production capacity for both 2027 and 2028; HBM4 shipments are already under way and M15X output is being ramped, but planned Yongin Phase 1 full-scale operation next year is not yet demonstrated.",
+    "mechanism": "Signed volume commitments reduce the producer's near-term demand uncertainty and can support capacity planning and financing, while supply allocation and pricing clauses may increase the procurement exposure of AI data-centre buyers. This does not prove profitable downstream AI usage, complete contracted delivery or an industry-wide shortage.",
+    "catalysts": [
+      "Observed HBM4 shipments and current M15X production ramp",
+      "Reported signed LTAs with 14 customers covering more than 50% of 2027 and 2028 planned total capacity",
+      "Planned Yongin Phase 1 full-scale operation in 2027, still future",
+      "Independent evidence of customer deployment, contract fulfilment and profitable AI workloads"
+    ],
+    "invalidation": "Material cancellations or renegotiations of LTAs, failure to scale fabrication yields or power supply, insufficient customer utilisation, or audited results inconsistent with preliminary reported capacity and earnings would weaken the condition.",
+    "confidence": "medium",
+    "materiality": "high",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "SK hynix — 3Q26 preliminary financial results and long-term agreement disclosures",
+        "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+        "date": "2026-10-28"
+      }
+    ],
+    "status": "discovery_watch",
+    "horizon": "2026-2028",
+    "evidence_stage": "operating shipments and signed agreements; future capacity announced, not yet commissioned",
+    "disclosure_limitations": "Company-reported aggregate contract coverage, not independently audited contract-by-contract, no customer-specific prices or minimum take-or-pay disclosed."
+  }
+}
