@@ -1,0 +1,213 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-28",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-28T08:09:35.584Z",
+  "reviewed_commit": "5b4847dde74d19f046e2b9b47ed77e6e3d226de9",
+  "pending_blob_sha": "4ce3340a06912ee875e7e277ae9e541c48d2ea7e",
+  "source_blob_shas": {
+    "en": "db223023406e46cca01d29070f72cc494a6b45a8",
+    "pt-BR": "fd7d14ce19f698c57c6a0bdfd637de5767216c0f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary-source verification against SK hynix 28 Oct preliminary K-IFRS results and 14 LTAs, RBNZ 28 Oct 4–3 OCR decision and 3.7% CPI, ABS 28 Oct September 4.3% CPI and revised 3.5% August trimmed mean, US Treasury 26–27 Oct nominal and real yield curves, ICI 21 Oct fund assets and B3 27 Oct market bulletin; Reuters checked for market closes, Asian intraday moves and 27 Oct oil settlements. Observed values, dated estimates, management forecasts, transactions, financial stocks and index-price changes remain separate."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The new Korean HBM4 contracting/profit milestone and Australian–New Zealand monetary divergence differ substantively from the 27 Oct Brazil-centred issue; sections connect supplier procurement, customer financing, fuel import prices, central-bank choices and sovereign rates. No public workflow labels, fabricated capital flows, investment advice or unsupported conflict attribution."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Each locale contains one dated eight-row evidence table, two explicit charts (SK hynix Q2/Q3 revenue and operating profit; US 2Y/10Y/30Y nominal yields), one two-chain causal flow and one five-region transmission map. Chart numeric sequences and visual counts match EN/PT-BR; same-unit accounting measures are explicitly non-additive and source-backed; no inferred geographic precision."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2491,
+        "pt-BR": 2844,
+        "urls_en": 12,
+        "urls_pt": 12
+      },
+      "summary": "Both editions exceed the 1700 substantive-word daily floor, with seven H2 sections, eight source hosts, dated evidence, 12 numbered references, two numeric charts, an evidence table, flow, map, multiregional transmission, competing interpretations and falsifiable outcomes."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Cross-checked SK hynix corporate results and contract language; RBNZ vote, OCR, inflation forecast and minutes; ABS CPI and trimmed-mean revision; US Treasury 27 Oct nominal and TIPS curves; ICI 21 Oct MMF assets; B3 close; Reuters 27–28 Oct session and oil settlement reporting. The article labels company forecasts, preliminary unaudited results, fund asset stocks, intraday Asian prices and non-observed physical Gulf throughput."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Alternative explanations include strong supplier profits with weak downstream AI returns, intra-equity repricing without net portfolio inflows, temporary fuel-driven inflation versus domestic persistence, and Brazil-specific repricing rather than global contagion. Falsifiers include customer free cash flow/capex conversion, debt issuance/spreads, physical oil logistics, inflation persistence and subsequent central-bank guidance."
+    },
+    "bilingual_parity": {
+      "result": "passed",
+      "summary": "EN and PT-BR have the same seven H2 structure, 12 matching original reference URLs, 8-row evidence table, two charts with exactly matching numerical series, identical observation windows, five geographic channels and equivalent qualifications."
+    },
+    "conflict_security_attribution": {
+      "result": "passed",
+      "summary": "Middle East disruption, reported attacks and diplomatic contacts are attributed to reporting, not treated as proof of refinery recovery or shipping safety; no unsupported attribution of responsibility or claims of military outcome."
+    }
+  },
+  "contrary_evidence": [
+    "Strong US equity gains and SK hynix preliminary supplier profits coexist with high Treasury yields; generalized credit contraction is not demonstrated.",
+    "RBNZ September CPI eased while Australian inflation rose; a synchronized Pacific monetary tightening cycle is not established.",
+    "Brent and WTI fell on the 27 October settlement, but intraday 28 October oil price changes and physical Gulf logistics are different observations.",
+    "Brazilian equities fell even as the real recovered; price moves do not identify foreign portfolio flows or lasting fiscal improvement."
+  ],
+  "limitations": [
+    "SK hynix Q3 figures are preliminary and not independently audited; management contract coverage and 2030 shortage outlook are company claims, not proof of downstream AI investment returns.",
+    "Asian equity and FX prices are intraday 28 October; US and Brazilian closes and Treasury curves refer to 27 October, and the Fed decision was not yet released at the 05:00 BRT cutoff.",
+    "ICI assets are dated 21 October and cannot be matched to investor-level reallocations; price appreciation is not a capital flow.",
+    "Brent and WTI are futures benchmarks, not measured cargo arrivals, refinery utilisation, or shipping-insurance normalisation.",
+    "Reuters provides secondary market reporting; source-level verification does not constitute independent financial audit or external peer review.",
+    "The repository's strict all-drafts editorial-depth CI fails on five previously rejected drafts, not on MT-GM-2026-10-28; production validation of the existing 152 public bundles passes."
+  ],
+  "notes": "Independent QA against exact Git blobs on main. This approval authorizes only the immutable pending snapshot and does not publish the report. No reports, public indices, taxonomy, CSS or institutional files modified.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-28",
+    "slug": "2026-10-28-global-macro",
+    "date": "2026-10-28",
+    "published_at": "2026-10-28T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "capital-markets",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "trade-investment",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition",
+      "political-stability"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "28 October 2026 05:00 BRT (08:00 UTC); 27 Oct completed US/Brazil sessions; 28 Oct Korea/Australia/NZ official releases and intraday Asia; Fed decision not yet issued.",
+      "research_depth": "EN 2491 and PT-BR 2844 words excluding code fences and URLs; seven H2 including references.",
+      "source_check": "12 numbered references per locale; official SK hynix, RBNZ, ABS, US Treasury nominal/real, Fed, B3 and ICI; Reuters for global prices, energy and Brazil market context.",
+      "visual_signature": "Two explicit numerical charts, one eight-row dated evidence table, causal flow and regional map in both locales.",
+      "bilingual_parity": "Matching 4-point KRW chart, 3-point US Treasury chart, evidence table, causal flow, regional map and 12 reference URLs; decimal separators adapted to locale only in prose.",
+      "novelty": "New 28 Oct SK hynix Q3 earnings and 2027-28 contracted capacity; 4-3 RBNZ hold and ABS 4.3% inflation, versus prior Brazil election/repricing sequence.",
+      "source_shas": {
+        "en": "db223023406e46cca01d29070f72cc494a6b45a8",
+        "pt-BR": "fd7d14ce19f698c57c6a0bdfd637de5767216c0f"
+      }
+    },
+    "contrary_evidence": [
+      "US equities and SK hynix supplier earnings strengthened despite high Treasury yields; a generalized credit freeze is not established.",
+      "New Zealand CPI decelerated and its central bank held, while Australian inflation accelerated; global synchronized tightening is not established.",
+      "Brent and WTI declined on 27 Oct, but verified physical Gulf shipping recovery is not established.",
+      "Brazil's 27 Oct index remained negative despite currency retracement; no foreign portfolio flow attribution."
+    ],
+    "scenarios": [
+      "AI service revenues validate customer capex and supplier capacity contracts",
+      "Supplier concentration and high dollar rates compress weaker customer free cash flow",
+      "Fuel price persistence widens inflation and central-bank policy divergence"
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-28-global-macro/en.md",
+        "title": "Global Macro — AI memory contracts deepen the earnings–financing divide as Pacific central banks confront inflation",
+        "deck": "SK hynix's contracted HBM capacity and record profits expose a widening gap between supplier earnings and downstream AI financing, while Australia and New Zealand diverge on inflation and rates.",
+        "tags": [
+          "global macro",
+          "AI semiconductors",
+          "SK hynix",
+          "New Zealand monetary policy",
+          "Australia inflation",
+          "US Treasury curve",
+          "energy",
+          "cross-asset"
+        ],
+        "keywords": [
+          "28 October 2026",
+          "SK hynix 104.6155 trillion won Q3 revenue",
+          "HBM4 2027 2028 contracts more than half",
+          "RBNZ 2.75 hold 4-3",
+          "Australia CPI 4.3 September",
+          "US Treasury 10Y 4.99",
+          "Brent 113.88",
+          "Brazil Ibovespa 175710"
+        ],
+        "regime": "Concentrated AI supplier profitability and contracted memory capacity coexist with expensive dollar funding, energy-driven inflation and divergent Pacific monetary responses.",
+        "key_risk": "Treating supplier contract coverage and equity appreciation as proof of profitable AI adoption or actual cross-border capital inflows.",
+        "watch": [
+          "AI cloud customers' free cash flow and realised capex returns",
+          "US credit spreads, issuance terms and 2Y/10Y/30Y Treasury curve",
+          "Energy shipping throughput, refined fuel prices and freight insurance",
+          "Fed/ECB/BOJ policy communication and Australian/New Zealand inflation persistence"
+        ],
+        "search_text": "Global Macro 28 October 2026 SK hynix HBM4 contracted production 2027 2028 104.6155 trillion RBNZ 4-3 hold Australia CPI 4.3 US Treasury AI capital expenditure financing energy cross asset"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-28-global-macro/pt-BR.md",
+        "title": "Macro Global — contratos de memória para IA ampliam a distância entre lucros e financiamento enquanto bancos centrais divergem",
+        "deck": "Contratos de memória e lucros recordes da SK hynix contrastam com o custo do financiamento da IA, enquanto Austrália e Nova Zelândia apresentam inflação e respostas monetárias diferentes.",
+        "tags": [
+          "macro global",
+          "semicondutores para IA",
+          "SK hynix",
+          "política monetária da Nova Zelândia",
+          "inflação australiana",
+          "Treasuries",
+          "energia",
+          "mercados globais"
+        ],
+        "keywords": [
+          "28 de outubro de 2026",
+          "SK hynix receita 104,6155 trilhões won",
+          "contratos HBM4 2027 2028 mais da metade",
+          "RBNZ juros 2,75 votação 4 a 3",
+          "Austrália inflação 4,3 setembro",
+          "Treasury 10 anos 4,99",
+          "Brent 113,88",
+          "Ibovespa 175710"
+        ],
+        "regime": "Lucros concentrados e memória contratada para IA convivem com financiamento caro em dólar, inflação energética e respostas monetárias distintas no Pacífico.",
+        "key_risk": "Confundir contratos do fornecedor e valorização das bolsas com rentabilidade comprovada de toda a IA ou fluxos internacionais efetivos.",
+        "watch": [
+          "Fluxo de caixa dos clientes de nuvem e retorno dos investimentos em IA",
+          "Spreads, condições de emissão e curva americana de 2, 10 e 30 anos",
+          "Escoamento físico de energia, derivados, fretes e seguros",
+          "Comunicados Fed/BCE/BoJ e persistência da inflação na Austrália e Nova Zelândia"
+        ],
+        "search_text": "Macro Global 28 outubro 2026 SK hynix HBM4 contratos 2027 2028 receita 104,6155 trilhões Nova Zelândia RBNZ 2,75 inflação Austrália 4,3 Treasury 4,99 financiamento IA energia mercados"
+      }
+    }
+  }
+}
