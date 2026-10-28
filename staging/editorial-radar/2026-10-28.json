@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "checked_at": "2026-10-28T05:00:00-03:00",
+  "scope": "Daily evidence screening of all active canonical editorial lines against 27 Oct completed global market sessions and 28 Oct official RBNZ, ABS and SK hynix releases, with B3, Treasury, ICI and WHO primary evidence. This is a bounded daily review, not a claim of exhaustive worldwide absence.",
+  "registry_updated_at": "2026-10-26T04:57:51.514Z",
+  "reviewed_line_count": 26,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "new_pending_qa",
+      "note": "28 Oct SK hynix earnings/contract coverage, RBNZ split and ABS inflation, cross-asset and Fed horizon staged."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "27 Oct equity rally and ICI 21 Oct fund-asset stock do not establish a new global wealth-flow allocation; weekly product remains separate."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Korean memory-capacity expansion and New Zealand monetary divergence reviewed; insufficient independent multi-dimensional transition evidence for separate country study."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Korea, New Zealand, Australia, Brazil and US context used selectively; no newly verified country dossier change."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "covered_in_macro",
+      "note": "SK hynix HBM4 shipment ramp and contracted 2027–28 capacity are substantive, included in Global Macro and Atlas discovery; avoid parallel thematic duplication."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Long-term memory demand forecast remains issuer guidance; cloud customers' realised returns not yet evidenced for new monthly assessment."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Gulf negotiation reports and crude settlement changes treated as price and logistics risk, not proof of cessation of conflict or restored throughput."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "SK hynix long-term purchase contracts do not prove ownership or control transfers; Venezuelan cargo/control report requires original transaction documents."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "RBNZ 4–3 hold, ABS 4.3% CPI, US Treasury 27 Oct curve and upcoming Fed meeting included."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "RBNZ official decision and Brazilian debt-management response distinguished from policy expectations."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "RBNZ split is current decision, not evaluated long-run policy outcome; no separate counterfactual case study."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "HBM long-term contracts and debt financing change industrial allocation, not an independently demonstrated new market design paradigm."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "ICI money-fund assets and SK hynix capital-return plans are not beneficial ownership/control changes; avoid conflation."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new comparable audited annual global capital-control inventory verified in this pass."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "RBNZ/Fed decisions within existing mandates; no newly operational global institution identified."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Gulf mediation is not a ratified economic integration mechanism; no new executed cross-border payment corridor confirmed."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI supply commitments and potential employment effects reviewed; downstream labour/productivity adoption remains unquantified."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "RBNZ notes fuel/fertiliser-to-food price channel; no newly released FAO global nutrition or food-system outcome series in screened window."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Livestock management, antimicrobial resistance, pesticides and chemical/biological governance checked against standing WHO/FAO themes; no newly implemented 28 Oct regulatory delta verified."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Gulf claims, shipping and price risk treated conditionally; no independently demonstrated new war-scale capacity event warranting separate report."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "existing_pending_or_rejected",
+      "note": "WHO DON622 dated 23 Oct remains latest verified Bundibugyo outbreak report; 26 Oct thematic draft has QA rejection, not suitable for duplicate daily article."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new primary archive or historical evidence change warranting an event-driven history study."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "covered_in_macro",
+      "note": "HBM4 production ramp and Gulf refined-fuel logistics integrated; a separate thematic product would duplicate same evidence."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Brazil's 27 Oct market sector dispersion follows already documented election outcome; no enacted fiscal package verified."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Reported Venezuelan cargo and ownership stake require transaction documents and effective-control evidence before resource-sovereignty assessment."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Oil shipping and data-centre power costs tracked; no newly commissioned binational grid or digital infrastructure identified."
+    }
+  ],
+  "additional_thematic_article": null,
+  "selection_reason": "The material 28 Oct SK hynix, RBNZ and ABS deltas are already integrated into today's Global Macro; 23 Oct WHO outbreak data underpin a rejected 26 Oct thematic item and no new independent 28 Oct update was verified. A second article would duplicate the same evidence or bypass QA.",
+  "sources_checked": [
+    {
+      "name": "SK hynix Q3 2026",
+      "date": "2026-10-28",
+      "url": "https://news.skhynix.com/en/q3-2026-business-results/"
+    },
+    {
+      "name": "RBNZ OCR decision",
+      "date": "2026-10-28",
+      "url": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent"
+    },
+    {
+      "name": "ABS September CPI",
+      "date": "2026-10-28",
+      "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026"
+    },
+    {
+      "name": "WHO DON622 Bundibugyo",
+      "date": "2026-10-23",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+    },
+    {
+      "name": "B3 27 October market",
+      "date": "2026-10-27",
+      "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cede-051-puxado-por-minerio-de-ferro-e-petroleo-em-baixa-dolar-cai-a-r-535/"
+    },
+    {
+      "name": "US Treasury daily curve",
+      "date": "2026-10-27",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610"
+    }
+  ]
+}
