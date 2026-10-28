@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-27T08:08:07.602Z",
+  "last_reconciled_at": "2026-10-28T08:12:39.040Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7273,6 +7273,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No independently validated technology milestone, maturity change, or engineering-performance evidence is introduced by this macro publication."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-10-28T08:12:39.040Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-28"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The approved 28 Oct report identifies SK hynix long-term contracts with 14 unnamed customers and supplier financing exposures, but gives neither verified counterparties nor bilateral capacities/ownership flows sufficient for a canonical dependency edge; do not infer buyers or flows."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "A 28 Oct Korean HBM4 contracted-capacity candidate exists in staging; preliminary company earnings and contract coverage do not independently verify project-level costs, capacity utilisation, bottlenecks and comparative structural state. Leave canonical atlas unchanged for specialist review."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "SK hynix's preliminary disclosure names the supplier and 14 unnamed major customers, but not verifiable counterparties, contractual control rights or ownership relationships suitable for a new strategic-actor relation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed the 28 Oct supplier earnings, HBM4 capacity ramp and contracted production: these do not document a transfer of legal title, beneficial ownership or operating control of an identified resource or infrastructure asset. No canonical ownership/control update."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "RBNZ's 4–3 hold and Australian inflation readings are current policy/price observations, not an independently evaluated implemented policy intervention with outcomes appropriate for the policy-case atlas."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The report distinguishes Gulf energy-market futures from unverified physical shipping conditions and does not establish a newly verified conflict event or system-level change."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "SK hynix reports HBM4 shipments, M15X ramp and 2027–28 contract coverage, but preliminary company disclosures alone do not validate independent engineering performance, customer adoption or maturity transition for a canonical technology signal. Refer to specialist Atlas/Tech review."
         }
       ]
     }
