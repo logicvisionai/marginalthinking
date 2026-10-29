@@ -281,7 +281,7 @@ Export controls add another layer. An aircraft capable of carrying advanced comp
 
 ## 31. Air cargo hubs: Hong Kong, Memphis, Doha, Dubai and Frankfurt
 
-Hong Kong is an important logistics and air trade center associated with the Pearl River Delta's dense manufacturing networks. Memphis hosts major express distribution activity, combining an airport with sorting operations and ground delivery. Frankfurt links European industries, intercontinental services and specialized shipments. Doha and Dubai support long-distance aviation networks that combine passengers, airfreight and regional connectivity.
+Hong Kong is an important logistics and air trade center associated with the the Pearl River estuary's dense manufacturing networks. Memphis hosts major express distribution activity, combining an airport with sorting operations and ground delivery. Frankfurt links European industries, intercontinental services and specialized shipments. Doha and Dubai support long-distance aviation networks that combine passengers, airfreight and regional connectivity.
 
 A hub does not necessarily manufacture or consume the goods passing through it. Shipments can be transferred between aircraft or to another mode without entering the local market as final imports. Airport throughput therefore needs to distinguish domestic trade, international imports and exports, transshipment, express parcels and transit cargo.
 
@@ -605,7 +605,7 @@ Port of Santos, São Paulo, Brazil | Ocean trade hub | Containers, grain and man
 
 ```map
 title: High-value air cargo hubs
-Hong Kong International Airport, Hong Kong | Electronics and Asian logistics | Pearl River Delta production
+Hong Kong International Airport, Hong Kong | Electronics and Asian logistics | Pearl River industrial region
 Memphis International Airport, Tennessee, United States | Express air cargo | Sorting and last-mile logistics
 Frankfurt Airport, Germany | European industry | Pharmaceuticals and machines
 Hamad International Airport, Doha, Qatar | Intercontinental connectivity | Regional airspace exposure
