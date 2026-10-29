@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-29T12:37:29.270Z",
+  "last_reconciled_at": "2026-10-29T19:24:57.745Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7361,6 +7361,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-world-strategic-trade-routes-reconciliation",
+      "reconciled_at": "2026-10-29T19:24:57.745Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-10-29-TRADE-ROUTES"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Global chokepoint observations and corridor relationships are sourced, but an exhaustive, consistently weighted trade-flow edge dataset is not constructed from incompatible products/periods."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "World Bank Middle Corridor investment estimates are scenario needs; no specific new independently valued investment opportunity record is approved."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Maritime carriers, coastal states and terminal operators are distinguished, but no full legal-beneficial ownership atlas of companies has been verified."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "No newly documented transfer of sovereignty or legally binding ownership of Panama, Suez, Malacca or Hormuz is established."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Treaty and corridor policy history is grounded but no new measured causal programme evaluation with counterfactual has been prepared."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Red Sea, Black Sea and 2026 energy disruptions are analyzed using periodized trade statistics without adding an independently verified event-specific conflict record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Aircraft cargo, shipping networks and port connectivity metrics are operational transport statistics rather than validation of a new technology performance milestone."
         }
       ]
     }

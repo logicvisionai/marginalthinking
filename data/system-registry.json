@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-29T12:37:29.270Z",
+  "updated_at": "2026-10-29T19:24:57.745Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -776,6 +776,21 @@
       "source_files": [
         "data/reports.json",
         "EDITORIAL-ARCHITECTURE.md",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-strategic-global-trade-corridors",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "public_route": "/reports/",
+      "source_files": [
+        "data/reports.json",
         "RESEARCH-PUBLISHING.md"
       ],
       "update_mode": "event-driven",

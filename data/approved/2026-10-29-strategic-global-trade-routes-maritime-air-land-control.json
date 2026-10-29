@@ -1,0 +1,213 @@
+{
+  "schema_version": 2,
+  "id": "MT-GSP-2026-10-29-TRADE-ROUTES",
+  "revision": 1,
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-29T19:24:57.745Z",
+  "reviewed_commit": "de95b8b8c35437a560adc6962de471d1916dadaa",
+  "pending_blob_sha": "f605e651ccf4cab85b7effe8de8ea1d4cbc026ee",
+  "source_blob_shas": {
+    "en": "c98344a10e62f7c5cf779336cf6dc5ca56fef02c",
+    "pt-BR": "cb5d1cb60495f9a438e6d0fb1509f7f1249da5f8"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary dated metrics with separate population, units and time references; projected corridors separated from operating freight."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 10100,
+        "pt-BR": 11904
+      },
+      "summary": "60 analytical H2 chapters per locale, each over 8,000 substantive words."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "34 unique URLs from 15 institutional domains, source list cited in both editions."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Legal versus commercial control, substitution pathways, and alternative climate/trade conflict scenarios with disconfirming evidence."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Five matched charts, three maps, two flows, mindmap and comparative risk matrices."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Localized titles match exact H1, public-language blockers checked, quantitative denominator caveats present."
+    }
+  },
+  "contrary_evidence": [
+    "Coastal or operating control of a terminal does not imply sovereignty over an international strait.",
+    "EIA chokepoint figures cover petroleum liquids and sometimes overlapping passages, not total value or volume of world merchandise.",
+    "The Middle Corridor investment forecasts and the Ferrogrão capacities are projected rather than operating freight data.",
+    "Arctic Council overall polar shipping counts do not measure Northern Sea Route intercontinental container traffic alone.",
+    "International air cargo CTK market shares cannot be compared directly with port TEU or oil-barrel statistics."
+  ],
+  "limitations": [
+    "The relative strategic importance of each route varies by product, origin and contractual timing; no unsupported single numeric ranking is proposed.",
+    "Petroleum chokepoint passages can overlap; their volumes cannot be summed to yield world maritime trade.",
+    "Africa and future India–Middle East–Europe links are described qualitatively without invented capacity figures.",
+    "No live berth-level, air-traffic or carrier AIS data were collected; official releases have explicit reporting lags."
+  ],
+  "notes": "Internal research/editing and quantitative chart cross-language QA, not independent external peer review.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GSP-2026-10-29-TRADE-ROUTES",
+    "slug": "2026-10-29-strategic-global-trade-routes-maritime-air-land-control",
+    "date": "2026-10-29",
+    "published_at": "2026-10-29T16:07:00-03:00",
+    "kind": "strategic-global-trade-corridors",
+    "priority": 52,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "infrastructure-logistics",
+      "trade-investment",
+      "geopolitics-security",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "institutions-governance",
+      "technology-innovation",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "scenarios": [
+      "Stable reopening of conventional sea routes and lower freight costs",
+      "Persistent geopolitical fragmentation and higher ton-mile costs",
+      "Eurasian rail/road logistics improvement without replacing ocean bulks",
+      "Climate, freshwater and digital-infrastructure shocks to transport resilience"
+    ],
+    "contrary_evidence": [
+      "Coastal or operating control of a terminal does not imply sovereignty over an international strait.",
+      "EIA chokepoint figures cover petroleum liquids and sometimes overlapping passages, not total value or volume of world merchandise.",
+      "The Middle Corridor investment forecasts and the Ferrogrão capacities are projected rather than operating freight data.",
+      "Arctic Council overall polar shipping counts do not measure Northern Sea Route intercontinental container traffic alone.",
+      "International air cargo CTK market shares cannot be compared directly with port TEU or oil-barrel statistics."
+    ],
+    "producer_checks": {
+      "information_cutoff": "29 October 2026, 16:07 America/Sao_Paulo; dated EIA quarterly petroleum data to 2026 Q2, UNCTAD 2026 Q3 port connectivity, IATA August 2026 lanes, Panama Canal FY2026, primary institutions.",
+      "research_depth": "PT-BR 11904 substantive words, EN 10100; 60 historical, geopolitical, technical and practical analytical chapters per edition.",
+      "source_check": "34 unique referenced URLs from 15 hosts per edition, including UNCTAD, EIA, ACP, IATA, ICAO, IMO, World Bank, ITU, Arctic Council, EU Commission, UN ESCAP, Brazilian transport ministries and TCU.",
+      "visual_signature": "Five matched numeric chart series, three geographic maps, two causal flows, comparative tables and a risk-control mindmap in both languages.",
+      "bilingual_parity": "Same 60 sections and interpretation; identical five chart numeric series; matched source list and methodology.",
+      "methodology": "Separate maritime petroleum liquids from all maritime cargo, air CTK from tonnage, canal PC/UMS tonnage from cargo mass, and terminal concession from territorial sovereignty. Document operating infrastructure apart from announced projects.",
+      "editorial_status": "In-session document structure, cited institutional data, source attribution and bilingual chart-parity checks passed; not externally peer-reviewed.",
+      "source_shas": {
+        "en": "c98344a10e62f7c5cf779336cf6dc5ca56fef02c",
+        "pt-BR": "cb5d1cb60495f9a438e6d0fb1509f7f1249da5f8"
+      }
+    },
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-29-strategic-global-trade-routes-maritime-air-land-control/en.md",
+        "title": "The world's strategic trade routes: who controls maritime, air and land corridors, what they carry and why they face growing pressure",
+        "deck": "A comprehensive historical and geopolitical investigation of sea chokepoints, air-cargo markets, Eurasian rail, road freight, shipping ownership, Brazilian export routes and the physical risks of global trade through 2040.",
+        "tags": [
+          "strategic trade corridors",
+          "maritime chokepoints",
+          "air cargo",
+          "international trade",
+          "shipping control",
+          "railway logistics",
+          "Hormuz Malacca Suez Panama",
+          "Brazilian ports"
+        ],
+        "keywords": [
+          "global trade routes 2026 maritime air road rail",
+          "Hormuz Q2 2026 oil flows",
+          "Malacca Suez Panama controls",
+          "UNCTAD port connectivity 2026",
+          "IATA air cargo lanes 2025 2026",
+          "middle corridor World Bank 2040",
+          "BR-163 Northern Arc Brazil soybeans",
+          "Arctic shipping 2025",
+          "submarine cable logistics security"
+        ],
+        "regime": "Strategic concentration of cargo lanes and jurisdiction, rising route substitution costs, distinct energy and airfreight disruption windows.",
+        "key_risk": "Conflating petroleum flows with container trade, port operator equity with territorial sovereignty, and planned continental corridors with installed freight capacity.",
+        "watch": [
+          "Quarterly Hormuz, Malacca, Bab el-Mandeb and Cape oil flows",
+          "Panama Canal freshwater and fiscal transit reports",
+          "Suez vessel traffic and freight insurance conditions",
+          "IATA air cargo CTK by regional lane",
+          "Middle Corridor actual transit times and Caspian handling volumes",
+          "Brazilian BR-163, ports and inland waterway performance",
+          "Arctic merchant origin-destination voyages and actual costs"
+        ],
+        "search_text": "The world's strategic trade routes: who controls maritime, air and land corridors, what they carry and why they face growing pressure A comprehensive historical and geopolitical investigation of sea chokepoints, air-cargo markets, Eurasian rail, road freight, shipping ownership, Brazilian export routes and the physical risks of global trade through 2040. global trade routes 2026 maritime air road rail Hormuz Q2 2026 oil flows Malacca Suez Panama controls UNCTAD port connectivity 2026 IATA air cargo lanes 2025 2026 middle corridor World Bank 2040 BR-163 Northern Arc Brazil soybeans Arctic shipping 2025 submarine cable logistics security"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-29-strategic-global-trade-routes-maritime-air-land-control/pt-BR.md",
+        "title": "Rotas comerciais estratégicas do mundo: quem controla os corredores marítimos, aéreos e terrestres, o que transportam e por que estão sob pressão",
+        "deck": "Investigação histórica e geopolítica sobre estreitos marítimos, rotas aéreas, ferrovias euroasiáticas, corredores rodoviários, controle de portos, exportações brasileiras e riscos ao comércio mundial até 2040.",
+        "tags": [
+          "rotas comerciais",
+          "estreitos estratégicos",
+          "transporte marítimo",
+          "carga aérea",
+          "geopolítica do comércio",
+          "ferrovias",
+          "Ormuz Malaca Suez Panamá",
+          "portos brasileiros"
+        ],
+        "keywords": [
+          "rotas comerciais estratégicas 2026 mar ar ferrovia rodovia",
+          "Ormuz petróleo segundo trimestre 2026",
+          "Malaca Suez Panamá controle de canais",
+          "conectividade portuária UNCTAD 2026",
+          "IATA carga aérea rotas 2025 2026",
+          "Middle Corridor Banco Mundial até 2040",
+          "BR-163 Arco Norte soja brasileira",
+          "rotas do Ártico e cabos submarinos"
+        ],
+        "regime": "Concentração estratégica de corredores e competências, custos crescentes de desvios e diferentes janelas de interrupção da energia e da carga aérea.",
+        "key_risk": "Confundir fluxos petrolíferos com contêineres, ações de operadores com soberania e projetos ferroviários com capacidade instalada.",
+        "watch": [
+          "Fluxos trimestrais de petróleo por Ormuz, Malaca, Bab el-Mandeb e Cabo",
+          "Água e trânsitos fiscais do Canal do Panamá",
+          "Passagens de Suez e preços de seguros",
+          "CTK da IATA por corredor aéreo",
+          "Tempo efetivo do Middle Corridor e portos do Cáspio",
+          "BR-163, portos e hidrovias brasileiras",
+          "Viagens efetivas pelo Ártico, origem, destino e custo"
+        ],
+        "search_text": "Rotas comerciais estratégicas do mundo: quem controla os corredores marítimos, aéreos e terrestres, o que transportam e por que estão sob pressão Investigação histórica e geopolítica sobre estreitos marítimos, rotas aéreas, ferrovias euroasiáticas, corredores rodoviários, controle de portos, exportações brasileiras e riscos ao comércio mundial até 2040. rotas comerciais estratégicas 2026 mar ar ferrovia rodovia Ormuz petróleo segundo trimestre 2026 Malaca Suez Panamá controle de canais conectividade portuária UNCTAD 2026 IATA carga aérea rotas 2025 2026 Middle Corridor Banco Mundial até 2040 BR-163 Arco Norte soja brasileira rotas do Ártico e cabos submarinos"
+      }
+    }
+  }
+}
