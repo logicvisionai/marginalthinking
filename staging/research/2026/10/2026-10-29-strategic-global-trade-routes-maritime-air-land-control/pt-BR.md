@@ -281,7 +281,7 @@ Sanções e controles de exportação introduzem outra camada. Uma aeronave tecn
 
 ## 31. Hubs de aviação: Hong Kong, Memphis, Doha, Dubai e Frankfurt
 
-Hong Kong atua como grande centro de comércio aéreo associado a serviços logísticos e cadeias do delta do Rio das Pérolas. Memphis é importante na rede de distribuição expressa norte-americana, particularmente por causa da integração entre aeroporto, triagem e transporte de última milha. Frankfurt articula indústrias europeias, conexões intercontinentais e carga especializada. Doha e Dubai conectam rotas de longa distância que dependem de redes de passageiros e cargueiros.
+Hong Kong atua como grande centro de comércio aéreo associado a serviços logísticos e cadeias da região do Rio das Pérolas. Memphis é importante na rede de distribuição expressa norte-americana, particularmente por causa da integração entre aeroporto, triagem e transporte de última milha. Frankfurt articula indústrias europeias, conexões intercontinentais e carga especializada. Doha e Dubai conectam rotas de longa distância que dependem de redes de passageiros e cargueiros.
 
 Um hub não é automaticamente o lugar onde as mercadorias foram fabricadas ou onde serão consumidas. Muitas remessas são transferidas entre aeronaves ou modalidades diferentes, e podem aparecer nos registros de movimentação local sem se transformar em comércio final daquela economia. É necessário distinguir cargas de importação/exportação de **transbordo**, serviços expressos e conexões temporárias.
 
@@ -605,7 +605,7 @@ Porto de Santos, São Paulo, Brasil | Terminal oceânico | Contêineres, grãos 
 
 ```map
 title: Nós aéreos estratégicos da economia de alto valor
-Aeroporto Internacional de Hong Kong, Hong Kong | Eletrônicos e logística asiática | Cadeias industriais do delta
+Aeroporto Internacional de Hong Kong, Hong Kong | Eletrônicos e logística asiática | Cadeias industriais da região
 Aeroporto Internacional de Memphis, Tennessee, Estados Unidos | Expresso aéreo | Centros de distribuição e última milha
 Aeroporto de Frankfurt, Alemanha | Indústria e conexões | Farmacêuticos e máquinas
 Aeroporto Internacional Hamad, Doha, Catar | Conexões intercontinentais | Redes com risco de sobrevoo regional
