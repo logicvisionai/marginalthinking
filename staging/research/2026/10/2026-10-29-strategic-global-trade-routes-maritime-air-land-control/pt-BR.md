@@ -319,7 +319,7 @@ O Banco Mundial concluiu em 2024 que investimentos e coordenação poderiam **tr
 
 A capacidade de controle é fragmentada: Casaquistão, Azerbaijão, Geórgia, Turquia e operadores associados decidem sobre suas respectivas partes. Empresas e governos podem construir arranjos coordenados para reduzir atrasos e aproximar o desempenho de um serviço integrado. A autoridade sobre a travessia no Cáspio não substitui a da ferrovia que leva cargas aos portos.
 
-## 36. Caspiano, gargalos de fronteira e mudança do clima
+## 36. Caspiano, restrições nas fronteiras e mudança do clima
 
 O mar Cáspio exige ligações entre portos e navios compatíveis, sujeitos à disponibilidade de berços, instalações de contêineres e condições meteorológicas. A queda do nível do mar cria riscos adicionais para calado e equipamentos portuários. No território terrestre, a variação de bitola, inspeções, necessidade de transbordo e procedimentos documentais aumentam tempo e custo.
 
@@ -521,7 +521,7 @@ Para governos, prioridades incluem dados aduaneiros interoperáveis, planos de c
 | Seca em Panamá | Nível de água, calado, reservas e trânsitos ACP | Menor número de vagas ou calado efetivo | Operação mantida e água suficiente |
 | Reorganização aérea | CTK por corredores e direitos de sobrevoo IATA/ICAO | Desvio de capacidade e persistência da demanda | Retorno de permissões e tempo de voo |
 | Avanço do Middle Corridor | Tempo ponta a ponta e carga efetivamente transportada | Ganhos por fronteiras, portos e ferrovias | Obras incompletas e atrasos sem redução |
-| Gargalo brasileiro | BR-163, hidrovias e terminais ANTAQ/Conab | Fila, ruptura de calado ou queda de saída | Diversão eficiente e operações normais |
+| Restrição logística brasileira | BR-163, hidrovias e terminais ANTAQ/Conab | Fila, ruptura de calado ou queda de saída | Diversão eficiente e operações normais |
 | Trânsito ártico | Viagens efetivas com origem/destino intercontinental | Operação regular economicamente competitiva | Tráfego predominantemente regional e sazonal |
 | Crise de cabos | Dados de interrupção e tempos de restauração ITU | Falha física com impacto digital mensurado | Redundância absorve incidentes |
 
