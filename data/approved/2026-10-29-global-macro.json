@@ -1,0 +1,212 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-29",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-29T08:08:16Z",
+  "reviewed_commit": "727063a9bc7f877b38defb7aff3534be0a7bcf08",
+  "pending_blob_sha": "d8e0396f4c5b1c5e2d9fbbdb7a2940a314266234",
+  "source_blob_shas": {
+    "en": "83393e464d07205dc27d3474f8024fb4d4a9ac9f",
+    "pt-BR": "12432b2c4805e01dc0131f015bc4c97d5dc7220d"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Reviewed the complete pending v2 and both staged Markdown editions; Git blob SHAs matched 3/3 and the producer's declared source SHAs matched 2/2. No approval or public metadata existed at pre-commit HEAD."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Cross-checked 28 October Fed 10–2 hold and implementation note; Bank of Canada +25 bp to 2.50% and projections; Treasury 26–28 October 2Y/10Y/30Y daily par yields; ABS September CPI; RBNZ 4–3 hold; ICI 21 October weekly fund flow components; ECB current rate and BEA future release schedule. EIA 23 October stock vintage cross-checked with dated contemporaneous Reuters report; market closes checked against Reuters. Institutional forecasts and estimates are explicitly labeled."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Cutoff 29 October 2026 05:00 BRT / 08:00 UTC. Fed/BoC and market observations dated 28 October; ICI flows dated week ended 21 October; EIA stocks dated week ended 23 October; ECB/BOJ and US GDP/PCE 29 October outcomes not asserted."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Fourteen numbered bibliographic references per locale, identical original URLs, ten distinct source hosts, majority official primary institutions; each major numerical observation is tied to a date and instrument. EIA's dynamic page vintage limitation is explicitly disclosed."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2288,
+        "pt-BR": 2650
+      },
+      "summary": "Applied substantive word-count logic from scripts/validate-editorial-depth.mjs, stripping fenced visuals and URLs; both editions exceed 1700-word daily threshold, have six section headings, fourteen sources and explicit competing explanations and falsifiable release tests."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Each locale contains one auditable evidence table, two numeric charts, a two-chain causal flow and a five-region exposure map (five total visuals). Treasury 10Y series 5.00/4.99/5.05 and fund-flow series -33.50/+45.82/+12.32 have identical numeric values, dates and units in EN/PT-BR; values were checked against Treasury and ICI originals. Meets scripts/lib/visuals.mjs floor and depth validator chart count."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Bilingual research uses natural institutional prose with substantive sections, no product-roadmap content or internal QA labels, numerical citations in the argument and full bibliographic URLs only at the end. Separates policy announcements, market observations, forecast estimates, inferences and conditional scenarios; no asset recommendation."
+    },
+    "translation_parity": {
+      "result": "passed",
+      "summary": "Complete EN and PT-BR editions read; identical reference URLs, dated quantitative observations, Fed/BoC/NZ votes, 10Y curve and fund-flow chart series, inventory numbers, conditional mechanisms, caveats and conclusion."
+    },
+    "novelty_against_corpus": {
+      "result": "passed",
+      "summary": "Compared public Global Macro 27 and 28 October editions. New core evidence is the 28 October Fed/BoC divergence, 28 October US yield-curve steepening, EIA inventory vintage and 28 October ICI release; earlier AI supplier financing and Brazil electoral repricing are treated as background, not recycled thesis."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Contrary evidence includes modest positive equity closes, positive combined fund flows, New Zealand's narrow hold and possibility that higher long yields reflect real investment rather than inflation expectations. Future GDP/PCE, ECB/BOJ decisions, 10Y–2Y spread and distillate stocks provide discriminating observations."
+    },
+    "conflict_security_attribution": {
+      "result": "passed",
+      "summary": "Middle East supply and shipping uncertainty is described as exposure, not unverified military capability or measured lost barrels; physical EIA stocks, oil futures prices and causal scenarios are distinguished. No conflict attribution is asserted without evidence."
+    },
+    "validator_contract": {
+      "result": "passed",
+      "summary": "Applied the candidate-specific requirements of scripts/validate-editorial-depth.mjs and scripts/lib/visuals.mjs against both full Markdown files and inspected scripts/validate-pipeline.mjs and pending v2 schema. Full repository-wide Node validator execution unavailable in this environment because GitHub clone DNS failed; no full-build success is claimed."
+    }
+  },
+  "contrary_evidence": [
+    "US equities advanced modestly on 28 Oct, contradicting a blanket risk-off reading.",
+    "ICI combined fund flows were positive for the earlier 21 Oct week, despite mutual-fund outflows.",
+    "NZ held narrowly and Australian underlying inflation is not identical to headline inflation; tightening is not globally synchronized."
+  ],
+  "limitations": [
+    "The 29 Oct ECB, BOJ, GDP and personal-income/outlays releases are after cutoff.",
+    "The dynamic EIA weekly page did not consistently expose the 28 Oct vintage, so its figures were cross-checked with contemporaneous Reuters reporting.",
+    "No verified 28 Oct issuer-level financing or complete cross-border investor flow dataset; yield changes cannot be decomposed into term premium and inflation expectations.",
+    "Market settlements and official daily par yields are distinct instruments and observation times.",
+    "Repository-wide validation scripts were inspected and candidate-specific contracts checked, but not executed as full Node processes in this environment."
+  ],
+  "notes": "Independent QA of revision 1, exact staged source Git blobs. Source checks against official institutional releases and dated contemporaneous market reporting; full-repository CI remains the publisher/build responsibility. No public files modified.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-29",
+    "slug": "2026-10-29-global-macro",
+    "date": "2026-10-29",
+    "published_at": "2026-10-29T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "trade-investment",
+      "geopolitics-security",
+      "industry-production"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-29-global-macro/en.md",
+        "title": "Global Macro — A Fed pause, a Canadian hike and a steeper Treasury curve expose the cost of persistent energy inflation",
+        "deck": "The Fed held 3.75–4.00% with two dissents while Canada raised rates; US long yields rose despite a softer two-year yield, revealing divergent responses to energy inflation and financing needs.",
+        "tags": [
+          "Global Macro",
+          "Federal Reserve",
+          "Bank of Canada",
+          "Treasury yields",
+          "Energy inflation"
+        ],
+        "keywords": [
+          "FOMC October 2026",
+          "Canada rate hike",
+          "US Treasury curve",
+          "oil inventories",
+          "ETF flows",
+          "inflation transmission"
+        ],
+        "regime": "Monetary-policy divergence and long-duration funding pressure amid persistent energy inflation.",
+        "key_risk": "Fuel-cost pass-through and duration-financing needs tighten credit conditions without a further Fed rate increase.",
+        "watch": [
+          "US Q3 GDP advance and September personal income/outlays release",
+          "ECB and Bank of Japan 29 October decisions",
+          "US Treasury 10Y–2Y curve and long-term issuance",
+          "US distillate inventories and fuel-price pass-through"
+        ],
+        "search_text": "29 October 2026 global macro Fed 10-2 hold Canada 25 basis point hike 2.50 percent Treasury 10-year 5.05 percent ETF issuance oil distillates ECB BOJ GDP PCE"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-29-global-macro/pt-BR.md",
+        "title": "Global Macro — Pausa do Fed, alta de juros no Canadá e inclinação da curva americana revelam o custo da inflação energética persistente",
+        "deck": "O Fed manteve juros de 3,75% a 4,00%, com duas dissidências, enquanto o Canadá elevou a taxa; rendimentos longos dos Treasuries subiram apesar da queda no papel de dois anos.",
+        "tags": [
+          "Global Macro",
+          "Federal Reserve",
+          "Banco do Canadá",
+          "Treasuries",
+          "Inflação energética"
+        ],
+        "keywords": [
+          "Fed outubro 2026",
+          "alta de juros Canadá",
+          "curva Treasury",
+          "estoques de petróleo",
+          "fluxos de ETFs",
+          "transmissão inflacionária"
+        ],
+        "regime": "Divergência de política monetária e encarecimento do financiamento longo em meio à inflação energética persistente.",
+        "key_risk": "Repasse dos combustíveis e necessidades de financiamento longo restringem o crédito mesmo sem nova alta de juros pelo Fed.",
+        "watch": [
+          "PIB preliminar do terceiro trimestre e renda/gastos pessoais de setembro nos EUA",
+          "Decisões do BCE e do Banco do Japão em 29 de outubro",
+          "Curva Treasury de dez menos dois anos e emissões de longo prazo",
+          "Estoques de destilados e repasse dos combustíveis"
+        ],
+        "search_text": "Global Macro 29 outubro 2026 Fed mantém 10 a 2 Canadá sobe 25 pontos-base para 2,50 por cento Treasury dez anos 5,05 ETFs petróleo destilados BCE Banco do Japão PIB inflação PCE"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "2026-10-29 05:00 BRT (08:00 UTC). Completed 28 Oct US/Canada sessions and releases; 29 Oct ECB, BOJ, US GDP and PCE not yet released.",
+      "novelty": "Compared 26–28 Oct public MT-GM editions. New 28 Oct FOMC 10–2 hold and Canadian first hike since July 2023; 27–28 Oct US yield-curve bear steepening; 28 Oct ICI weekly flow vintage and EIA stocks. Earlier AI memory contracts, Australian CPI and Brazil post-election repricing are background.",
+      "source_check": "14 dated numbered references per locale, predominantly official Fed, BoC, US Treasury, ABS, RBNZ, ICI, ECB, BEA and EIA; Reuters used for closing prices and EIA-vintage cross-check.",
+      "visual_signature": "Both editions have 1 dated 10Y Treasury chart (26/27/28 Oct), 1 fund-flow bar chart (21 Oct week), 1 six-row policy table, 1 two-chain causal flow and 1 five-region map; numeric values/units identical.",
+      "bilingual_parity": "Identical 14 reference URLs and dates; matched 10Y yields 5.00/4.99/5.05, fund flows -33.50/+45.82/+12.32, monetary policy levels, EIA inventory observations, caveats and information cutoff.",
+      "research_depth": "EN ~2512 words; PT-BR ~2899 words, including references.",
+      "source_shas": {
+        "en": "83393e464d07205dc27d3474f8024fb4d4a9ac9f",
+        "pt-BR": "12432b2c4805e01dc0131f015bc4c97d5dc7220d"
+      }
+    },
+    "contrary_evidence": [
+      "US equities advanced modestly on 28 Oct, contradicting a blanket risk-off reading.",
+      "ICI combined fund flows were positive for the earlier 21 Oct week, despite mutual-fund outflows.",
+      "NZ held narrowly and Australian underlying inflation is not identical to headline inflation; tightening is not globally synchronized."
+    ],
+    "limitations": [
+      "The 29 Oct ECB, BOJ, GDP and personal-income/outlays releases are after cutoff.",
+      "The dynamic EIA weekly page did not consistently expose the 28 Oct vintage, so its figures were cross-checked with contemporaneous Reuters reporting.",
+      "No verified 28 Oct issuer-level financing or complete cross-border investor flow dataset; yield changes cannot be decomposed into term premium and inflation expectations.",
+      "Market settlements and official daily par yields are distinct instruments and observation times."
+    ]
+  }
+}
