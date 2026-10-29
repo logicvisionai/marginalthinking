@@ -33,7 +33,17 @@
         "url": "https://www.abs.gov.au/media-centre/media-releases/energy-exports-10-year-low",
         "date": "2026-10-29"
       }
+    ],
+    "status": "discovery_watch",
+    "horizon": "2024–25 historical observation; 2025–26 operating/access evidence pending",
+    "evidence_stage": "Official retrospective ABS physical energy-account measurements, not demonstrated new 2026 capacity, firm delivery or electricity access.",
+    "last_verified_at": "2026-10-29",
+    "disclosure_limitations": "ABS 2024–25 tables revise 2023–24 renewable output to 339 PJ, compared with 341 PJ in the original 2023–24 release. Use 339 PJ only as the revised like-for-like baseline. Physical export PJ is not export revenue or an electricity-system flow; 17,363 PJ includes coal, LNG, uranium and petroleum. No contemporaneous connection, curtailment, industrial offtake, network availability or firming-cost data are supplied.",
+    "contrary_evidence": [
+      "ABS reports 2024–25 hydro output fell 5.6% to 51 PJ despite increases in wind and solar, showing renewable sources do not move uniformly.",
+      "The decline in physical energy exports does not establish lower export receipts, new domestic power availability or a causal link with solar/wind growth.",
+      "Revised historical 2023–24 ABS renewable output is 339 PJ rather than the originally released 341 PJ; comparing across vintages without noting revision is misleading."
     ]
   },
-  "research_note": "Discovery-only candidate; new statistical evidence describes FY2024–25, not an October 2026 operational transition. No inferred project economics, asset returns, access right or canonical Atlas promotion."
+  "research_note": "Primary ABS 29 October 2026 energy-account tables and release rechecked. Candidate retained in discovery_watch only: 2024–25 retrospective physical statistics show renewable electricity 372 PJ (+9.7% from revised 339 PJ), 37% of domestic electricity use, while physical energy exports fell 3.1% to 17,363 PJ. No proven 2026 commissioning, new access right, firming economics, change of asset control or causal substitution of exports by renewable power. Canonical Atlas unchanged."
 }
