@@ -110,7 +110,7 @@ These figures must not be carried forward as 2026 observations. EIA's subsequent
 
 Saudi Arabia operates pipelines connecting eastern oil-producing areas to the Red Sea, and the United Arab Emirates uses infrastructure toward Fujairah outside the narrow Gulf exit. EIA estimated roughly **4.7 million barrels/day** of combined bypass capability for major Saudi and UAE facilities under a specified disruption scenario. The figure is a conditional capacity estimate, not a guarantee of fully available incremental flows every day. [6]
 
-Rerouting oil requires pipeline capacity, operational compatibility, terminals and tankers at alternate loading locations. A ship sailing from a Red Sea outlet may encounter a different bottleneck near Bab el-Mandeb. A bypass of one chokepoint can therefore introduce reliance on another.
+Rerouting oil requires pipeline capacity, operational compatibility, terminals and tankers at alternate loading locations. A ship sailing from a Red Sea outlet may encounter another maritime constraint near Bab el-Mandeb. A bypass of one chokepoint can therefore introduce reliance on another.
 
 Refineries are also configured for particular crude characteristics. Replacing a missing barrel of one quality with a barrel of another can require technical and contractual adjustment. Aggregate global oil supply may look adequate while some facilities face a deficit of a suitable input.
 
@@ -319,11 +319,11 @@ The World Bank concluded in 2024 that investments and coordination could **tripl
 
 Kazakhstan, Azerbaijan, Georgia, Türkiye and participating operators retain distinct authority over their sections. Coordinated services could improve customs processing, pricing and schedules, but sovereignty over a Caspian sea crossing does not imply ownership of all railway assets leading to it.
 
-## 36. Caspian infrastructure, border bottlenecks and climate
+## 36. Caspian infrastructure, border infrastructure constraints and climate
 
 Cross-Caspian trade requires ports and vessels compatible with berth availability, draft and handling equipment. Declining water levels add long-term risks to maritime access. Inland segments face differences in rail gauge, wagon transfer, customs inspections and document formats, all of which raise transit times.
 
-The World Bank identified the Almaty rail bottleneck, inadequate rail connections, port equipment and border delays among practical constraints. In February 2026 it approved a **US$846 million guarantee** aimed at mobilizing financing for a major railway project in Kazakhstan. A guarantee is neither an entirely disbursed loan nor proof that the project has finished construction. [20][21]
+The World Bank identified the Almaty rail capacity constraint, inadequate rail connections, port equipment and border delays among practical constraints. In February 2026 it approved a **US$846 million guarantee** aimed at mobilizing financing for a major railway project in Kazakhstan. A guarantee is neither an entirely disbursed loan nor proof that the project has finished construction. [20][21]
 
 The corridor also matters to the states along it, not merely to China–Europe traffic. Better reliability could expand trade between Central Asian and Caucasian firms, even if the route captures only a limited share of intercontinental shipping.
 
