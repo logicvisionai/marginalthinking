@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "checked_at": "2026-10-29T08:06:36.712Z",
+  "scope": "Daily screening of all registered active editorial lines using 28 Oct FOMC, BoC, RBNZ, ABS, US Treasury, ICI and EIA observations, 29 Oct ABS Energy Account and WHO respiratory surveillance. Bounded review, not an assertion that no global event exists outside checked evidence.",
+  "registry_updated_at": "2026-10-26T04:57:51.514Z",
+  "reviewed_line_count": 26,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "new_pending_qa",
+      "note": "29 Oct Fed 10–2 hold, first Canadian hike since July 2023, Treasury bear steepening and ICI/EIA transmission staged as MT-GM-2026-10-29."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "ICI 28 Oct release shows 21 Oct mutual-fund outflows and ETF issuance; weekly flow window is lagged and not a new global wealth-control map."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Australian physical energy export decline and renewable growth are discovery-stage structural signals, not yet a full national transition assessment."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Canada, US, New Zealand and Australia policy context reviewed; no verified independent country dossier delta."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI financing cost discussed as a conditional macro transmission; no new demonstrated technical capability beyond the 28 Oct memory supplier report."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Earnings and AI capex headlines do not establish downstream utilization or return on capital; no monthly reassessment."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Middle East conflict transmitted through crude/distillate stocks and policy responses; no verified new deployment or physical throughput claim."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new primary beneficial-ownership or control disclosure found for a separate strategic actor profile."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "Fed 10–2 hold, BoC 25bp increase, NZ 4–3 hold, ECB/BOJ pending, and Treasury curve form the monetary intelligence layer."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "28 Oct Fed and Bank of Canada primary decisions interpreted as divergent responses to persistent energy-cost pressure."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Canada's first rate hike is a decision, not a measured ex-post policy experiment with identifiable counterfactual."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "ETF issuance and fund redemptions do not prove a novel market architecture or institutional redesign."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "ICI fund flows are transactions within reported vehicles, not changes in ownership or strategic control."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new annual cross-country capital-control dataset or comparable annual ownership release verified."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Fed, BoC and ECB mechanisms covered in macro; no new institutional mandate or structural rule change verified."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Trade and energy spillovers reviewed; no newly operational regional integration agreement evidenced."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI-related financing pressure is not a demonstrated labor or societal transition sufficient for a standalone essay."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Fuel-to-food cost and distribution channel screened against RBNZ and BoC; no new comparable primary food-security shock quantified."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "WHO respiratory-virus surveillance and livestock/AMR governance screened; no newly substantiated cross-border structural change for a report."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Middle East conflict remains material for energy but no verified new major-power deployment or quantified escalation warrants separate study."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "WHO weekly respiratory surveillance and ABS respiratory-death releases screened; do not infer pandemic acceleration from isolated regional observations."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new primary archival or intellectual-history evidence requiring an event-driven article."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "atlas_candidate",
+      "note": "ABS 29 Oct release: 2024–25 physical energy exports -3.1%, renewable generation +9.7%; discovery signal staged in Atlas, not a duplicate full report."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Brazil's earlier post-election asset repricing remains background; no verified new fiscal policy or investor-flow attribution at the cutoff."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Australian coal/LNG energy export volumes and Middle East shipping risks screened; no new verified resource-control transfer."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Energy price and grid-financing effects covered in macro; no independently confirmed new binational interconnection or data-centre commissioning."
+    }
+  ],
+  "additional_thematic_article": null,
+  "selection_reason": "No separate article: the most material current policy and cross-asset delta is in MT-GM-2026-10-29; Australia's newly released 2024–25 energy structure is recorded as an Atlas discovery candidate, not treated as an immediately operational 2026 change.",
+  "sources_checked": [
+    {
+      "name": "Federal Reserve FOMC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "Bank of Canada policy decision",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "US Treasury yield curve",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "ICI combined long-term flows",
+      "url": "https://www.ici.org/research/stats/combined_flows",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "Australian ABS Energy Account",
+      "url": "https://www.abs.gov.au/statistics/industry/energy/energy-account-australia/2024-25",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "WHO weekly respiratory-virus activity",
+      "url": "https://www.who.int/publications/m/item/influenza",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "RBNZ OCR decision",
+      "url": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent",
+      "date": "2026-10-28"
+    }
+  ]
+}
