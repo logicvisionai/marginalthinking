@@ -278,3 +278,447 @@ The **1944 Chicago Convention** establishes that every state has **complete and 
 A state may close airspace for safety under relevant international obligations, and an airline may avoid a zone even without a formal prohibition. Aviation regulators, air traffic controllers and meteorological services affect commercial access. An airport may serve as a hub for a foreign airline without transferring territorial sovereignty.
 
 Export controls add another layer. An aircraft capable of carrying advanced computing equipment may lack legal permission to transport certain chips to a destination. Control of air cargo therefore includes goods classification, technology authorization and payment as well as the legal right to land.
+
+## 31. Air cargo hubs: Hong Kong, Memphis, Doha, Dubai and Frankfurt
+
+Hong Kong is an important logistics and air trade center associated with the Pearl River Delta's dense manufacturing networks. Memphis hosts major express distribution activity, combining an airport with sorting operations and ground delivery. Frankfurt links European industries, intercontinental services and specialized shipments. Doha and Dubai support long-distance aviation networks that combine passengers, airfreight and regional connectivity.
+
+A hub does not necessarily manufacture or consume the goods passing through it. Shipments can be transferred between aircraft or to another mode without entering the local market as final imports. Airport throughput therefore needs to distinguish domestic trade, international imports and exports, transshipment, express parcels and transit cargo.
+
+A new overflight restriction may shift activity from one hub to another, but airports cannot expand capacity instantaneously. Runway slots, refrigeration warehouses, security screening, customs staffing and aircraft availability create limits. Air cargo security also requires oversight of hazardous goods, sanctions compliance and end-to-end traceability.
+
+## 32. Semiconductors, pharmaceuticals and the price of hours
+
+A chip or advanced computing component can be worth far more per kilogram than iron ore, while being just as exposed to a disruption of transportation. A few days of delay may stop production of vehicles, telecom equipment or precision medical devices. Temperature-sensitive medicines require monitored cold chains, sanitary authorization and reliable handling; product value may be destroyed even if the shipment eventually arrives.
+
+IATA reported in a 2026 study that air transport carried **more than two-thirds of AI-related goods** under the study's particular product classification in 2025. This is not a claim that two-thirds of all chip weight or physical data-center infrastructure traveled by plane. It illustrates how AI investment relies on timely delivery of high-value components. [14]
+
+Resilience requires more than contracting a second airline. Customers need approved alternative suppliers, safety stock for non-substitutable components, export documentation and airports that can handle specialized cargo.
+
+## 33. Europe's overland transport network as a single-market foundation
+
+The European Union coordinates major strategic links through the **Trans-European Transport Network (TEN-T)**, covering highways, railways, ports, airports and inland navigation. Its current structure includes nine transport corridors and horizontal priorities for railway interoperability and European maritime systems. The framework supports common planning and investment while day-to-day infrastructure remains under different national and commercial operators. [15]
+
+The **North Sea–Rhine–Mediterranean** axis links Atlantic and northern seaports to the Rhine industrial area, the Alps and northern Italy. **Rhine–Danube** joins western industrial centers to Central Europe and the Black Sea through several modes. **Baltic–Adriatic** connects industrial Poland and Central Europe with Mediterranean ports. [16][17]
+
+Operational resilience depends on compatible rail signaling, electrification, track standards, loading gauges, hazardous-cargo rules and terminals. Customs or rail-border delays can cancel a train's theoretical speed advantage. The EU does not own every kilometer of the network; it provides a coordinating regulatory and investment architecture.
+
+## 34. China–Europe rail: time advantages under political constraints
+
+Freight train services between China and Europe offer an intermediate option between the sea and air for cargo whose delivery time matters. Routes cross several states and can require locomotive changes, incompatible track gauges, customs processing and technical inspections. Prices and schedules differ by origin, final market, geopolitical conditions and the availability of train paths.
+
+Lines crossing Russia, Belarus and other northern Eurasian territories gained commercial importance but remain exposed to political risk, sanctions and additional screening. A country can control one physical section without controlling all the customers and downstream market access. Railway operators and customs authorities determine whether a nominally fast corridor actually provides dependable service.
+
+Rail works especially for containers and selected industrial goods; it cannot replace an ocean fleet's bulk commodity capacity at identical cost. The relevant evidence is actual annual tonnage, loaded units, scheduling reliability and delivered cost. An announced count of trains cannot establish capacity available for every product category.
+
+## 35. The Middle Corridor across Central Asia, Caspian Sea and Caucasus
+
+The **Trans-Caspian or Middle Corridor** combines railway and road services through Central Asia with shipping across the Caspian and land routes through Azerbaijan, Georgia and Türkiye toward European markets. It is a multinational logistics system rather than a highway controlled by one state. A high-performing rail segment remains constrained if the next Caspian ferry or border crossing lacks capacity.
+
+The World Bank concluded in 2024 that investments and coordination could **triple freight flows and halve transit times by 2030** under specified improvement scenarios. In September 2026 it presented a further assessment through 2040, identifying needs exceeding **US$25 billion for physical infrastructure** and around **US$30 billion in enabling investment** covering local links, equipment and logistics. Those are investment requirements and modeled scenarios, not completed construction or money already fully disbursed. [18][19]
+
+Kazakhstan, Azerbaijan, Georgia, Türkiye and participating operators retain distinct authority over their sections. Coordinated services could improve customs processing, pricing and schedules, but sovereignty over a Caspian sea crossing does not imply ownership of all railway assets leading to it.
+
+## 36. Caspian infrastructure, border bottlenecks and climate
+
+Cross-Caspian trade requires ports and vessels compatible with berth availability, draft and handling equipment. Declining water levels add long-term risks to maritime access. Inland segments face differences in rail gauge, wagon transfer, customs inspections and document formats, all of which raise transit times.
+
+The World Bank identified the Almaty rail bottleneck, inadequate rail connections, port equipment and border delays among practical constraints. In February 2026 it approved a **US$846 million guarantee** aimed at mobilizing financing for a major railway project in Kazakhstan. A guarantee is neither an entirely disbursed loan nor proof that the project has finished construction. [20][21]
+
+The corridor also matters to the states along it, not merely to China–Europe traffic. Better reliability could expand trade between Central Asian and Caucasian firms, even if the route captures only a limited share of intercontinental shipping.
+
+## 37. India–Middle East–Europe: plans are not operating capacity
+
+The proposed **India–Middle East–Europe Economic Corridor (IMEC)** combines ambitions for maritime connectivity, rail construction, energy and digital links across countries with different interests. The objective is to strengthen trade routes and reduce frictions for certain markets. It has strategic value as a policy framework.
+
+However, a set of announcements cannot be represented as one fully functional, seamless transport corridor unless its missing links, service contracts and customs systems are demonstrably complete. An accurate inventory would distinguish operating railways from planned segments, signed financing from executed works and projected traffic from actual cargo.
+
+A road-and-rail combination does not necessarily replace an ocean container ship at comparable cost. The opportunity may be strongest for high-value goods and intermediate regional markets, but competitiveness requires consistent service and confirmed demand rather than a geopolitical map alone.
+
+## 38. Asian Highway Network and trade by truck
+
+The **Asian Highway Network**, coordinated by UN ESCAP, comprises **more than 145,000 kilometers across 32 countries**. It is an intergovernmental framework for cooperation and technical standards, not one road concession or company. The network was initiated in 1959; an agreement was adopted in 2003 and entered into force in 2005. [22]
+
+Highways connect factories, farms, cities and customs points to sea and air terminals. They enable frequent deliveries of foods, consumer products, vehicle components and machinery. A short bridge at a frontier can have enormous strategic importance if it carries most trade between two neighboring industrial regions.
+
+Road costs depend on pavement condition, tolls, fuel, safety, legal weight limits, customs and border delays. National regulatory systems remain distinct even where a regional road network is shown on one map. A continuous road does not guarantee a continuous legal right for every foreign truck.
+
+## 39. China–Kazakhstan–Europe overland road corridor
+
+Kazakhstan illustrates how continental infrastructure combines with trade facilitation. The World Bank reported road transit from China to Europe through Kazakhstan increasing from about **1,196 metric tons in 2015 to 106,113 tons in 2023**, under the study's particular methodology. This is not total Sino-European trade and remains much smaller than aggregate seaborne flows. [23]
+
+The Almaty ring road is an example of how a bypass can reduce urban freight congestion and costs while improving public safety. Nevertheless, faster pavement cannot eliminate customs delays, shortages of compliant drivers or a lack of trucks legally allowed to cross the next border.
+
+Commercial economics also depend on backhaul traffic. A corridor may have strong outbound demand yet limited goods available for return trips. Empty backhauls increase cost per loaded journey, especially where border and cabotage restrictions make truck utilization difficult.
+
+## 40. East Africa: Mombasa and access for inland economies
+
+Mombasa is a major maritime gateway for East Africa, connected with road and rail services serving Uganda, Rwanda and other inland markets. The corridor's strategic role comes from providing landlocked economies with access to imported fuels, containers, industrial machinery, pharmaceuticals and export markets.
+
+Kenya's role as host of a seaport does not create sovereignty over every road or railway to inland destinations. The effective service depends on transit agreements, customs cooperation, dry ports, public safety and cross-border operating conditions. Long delays can make essential fertilizer and medicine considerably more expensive far from the coast.
+
+A successful modernization programme requires coordinated port access, border management, road maintenance and rail-to-truck handling. Building one isolated rail segment without the required transfer and border capacity may deliver only a fraction of its projected benefits.
+
+## 41. West Africa and the access corridors toward the Sahel
+
+Ports on the Gulf of Guinea, including Abidjan, Tema, Lomé and Lagos, connect Atlantic shipping to inland markets through road networks. They handle food, fuel, machinery, consumer goods and agricultural inputs. Shippers choose among different gateways according to reliability, charges, congestion and applicable customs agreements.
+
+Security risk includes more than armed attacks. Unpredictable inspections, power failures at terminals, poor road maintenance and administrative corruption can raise trade costs without a military conflict. For landlocked communities, losing access to a reliable road may threaten essential imports.
+
+Political exposure varies across countries and road segments. It would be misleading to treat the whole African continent as one road corridor governed by a single risk score or security condition.
+
+## 42. North America's interdependent industrial road and rail system
+
+Manufacturing chains connecting the United States, Mexico and Canada rely on roads and railways carrying cars, vehicle parts, foods, electrical equipment and consumer goods. Many factories use frequent deliveries, with a border crossing forming an intermediate step of production rather than the end of the transaction.
+
+Control includes national customs, rules of origin, trade agreements, rail concessions, highways and logistics companies. A tariff can change competitiveness even where the road is physically open. Inspection delays may block components without formally prohibiting their import.
+
+Parts can cross a border multiple times before becoming a finished consumer product. Gross trade values should not be counted as wholly new value at every crossing. The economic analysis needs to distinguish cross-border transaction volumes from value added by each stage of production.
+
+## 43. South America's Atlantic–Pacific axes and the Pan-American Highway
+
+Brazil's prospective road connections to Pacific ports may reduce shipping distance for some exporters serving Asian markets. But their actual cost depends on the cargo's origin, mountain passes, road condition, border procedures, local port capacity and availability of return freight. A route shorter in kilometers may be slower or more expensive because of the Andes and associated logistics.
+
+The **Pan-American Highway** describes a continental network with a well-known discontinuity across the Darién region between Panama and Colombia. There is no single uninterrupted road allowing trucks to traverse every section of the Americas. Environmental protection, safety, territorial rights and construction cost are relevant constraints.
+
+Bioceanic corridors are conditional opportunities, not automatic substitutes for Brazilian Atlantic ports. They should be evaluated by specific door-to-door prices, seasonality, weight, container availability and confirmed importer demand.
+
+## 44. Brazil's BR-163 as an agricultural export artery
+
+The **BR-163 highway**, especially between Sinop in Mato Grosso and Itaituba in Pará, connects grain production to Tapajós river terminals. Trucks deliver soybeans and corn to transshipment points where barges can carry cargo toward northern river and sea terminals. The corridor provides an alternative to long inland journeys ending at southern and southeastern ports.
+
+Brazil's federal audit court described a **970.2-kilometer BR-163/BR-230 concession scope** in 2026. Its earlier business model assumed that the proposed Ferrogrão railway would eventually absorb a significant share of truck freight. Delayed railway capacity created a need to reassess road investments and the assumptions underlying the concession. [24]
+
+Road reliability depends on rainfall, pavement, maintenance, accident prevention and adequate lanes. The export route is **multimodal**: an open ocean port cannot load cargo that is unable to reach a river terminal. A blocked highway can disrupt export operations even if all deep-sea vessels remain ready.
+
+## 45. Ferrogrão: a proposed 933-kilometer railway is not existing capacity
+
+The planned **Ferrogrão railway** would connect **Sinop and Itaituba** over approximately **933 kilometers** and increase capacity for agricultural commodities. Brazil's Transport Ministry described a project potentially carrying up to **52 million tonnes annually**, depending on future implementation. This is a design estimate, not a current operating railway's measured traffic. [25]
+
+The project raises environmental, financing and land-rights questions, including impacts on Indigenous and local communities. Public policy must compare the expected costs and benefits with road expansion, waterway operations and other alternatives, rather than attributing environmental improvements to an unbuilt project.
+
+A proposed line has a different risk profile from existing rail infrastructure. Counting projected Ferrogrão capacity as current export tonnage would materially overstate the redundancy available to Brazil in 2026.
+
+## 46. Northern Brazilian export corridors: Tapajós, Amazonas and Barcarena
+
+Brazil's **Arco Norte**, or Northern Arc, connects roads, inland waterways and ports to move soybeans, corn and other goods from expanding agricultural regions. The Tapajós connects transfer facilities near Miritituba with larger river and maritime networks, while ports in Pará and Maranhão provide alternative downstream connections.
+
+Brazilian government sources reported **58 million tonnes of grain through Northern Arc ports in 2025** under a Conab classification and **163.4 million tonnes of multiple cargo categories** through the region's ports and terminals under an ANTAQ grouping. These are different statistical populations, not conflicting estimates or figures to add together. [26]
+
+Water levels, dredging, riverbank stability, navigation safety and effects on riverside communities are major considerations. Potential logistics savings do not eliminate the need for environmental assessment and consultation when building or expanding facilities.
+
+## 47. Santos, Paranaguá, Itaqui, Ponta da Madeira and Tubarão
+
+The port complex of **Santos** connects Brazil's largest economic region to global trade, handling containers, agricultural commodities, sugar, fuel and manufactured goods. Brazil's Ports Ministry reported **186.4 million tonnes for the broader Santos complex in 2025**. A separate regional release reported **142.8 million tonnes for a narrower public-port category**. The two figures have different scope; the smaller number is not simply a correction to the larger one. [27][28]
+
+Paranaguá is important for grains, fertilizers and industry. Itaqui and Ponta da Madeira serve agricultural cargoes and mining; Tubarão in Espírito Santo is significant for iron ore. Petroleum terminals such as Açu and coastal installations connect offshore extraction, refining and external markets.
+
+The country's practical trade power depends on all inland links to these facilities. Queues in Santos, flooding along BR-163, unavailable rail wagons or low water levels can impose major costs even when East Asian import demand is strong. Geographic diversification requires real available capacity and coordination.
+
+## 48. Soybeans, iron ore and fertilizer exposure
+
+Government data compiled with agricultural logistics statistics indicate Brazilian soybean exports of approximately **108.18 million tonnes in 2025**, including **85.4 million tonnes to China**, or **78.9%** of the total. This identifies the destination of Brazil's exports, not the percentage passing a particular maritime chokepoint. Santos, Itaqui, Paranaguá, Barcarena and Rio Grande are major shipping locations. [29]
+
+Fertilizers flow in the opposite direction, exposing farms to imported inputs, shipping costs and storage constraints. The Ports Ministry reported approximately **49.3 million tonnes of fertilizer imports in port statistics for 2025**. The figure cannot all be attributed to one foreign source or a single ocean canal without separate shipment-level evidence. [30]
+
+Iron ore relies on large-volume railway-to-port chains. Oil and fuel also use coastal shipping to connect Brazilian terminals and domestic consumers. Malacca and Hormuz may affect Brazil through international price formation even when a specific Brazilian vessel does not physically traverse those passages.
+
+## 49. Arctic routes: shorter distances and unresolved operational limits
+
+Climate change and more specialized navigation have increased attention to Arctic routes, including the Northern Sea Route near Russia and the Northwest Passage near Canada. They may shorten some seasonal Europe–Asia voyages, but residual ice, severe weather, high insurance charges, ship requirements and limited rescue infrastructure constrain commercial viability.
+
+The Arctic Council recorded **1,812 unique vessels entering the Polar Code area during 2025**, about **40% more than in 2013**, while the distance traveled in that Arctic region increased from 6.1 million to 11.9 million nautical miles. These are **whole-region Arctic shipping statistics**, not a count of intercontinental cargo transits through Russia's Northern Sea Route alone. [31]
+
+Russia and Canada exercise coastal and regulatory powers under legal regimes that remain contested in some respects. Lower ice extent does not establish that global container carriers can operate reliable scheduled services comparable to Suez across the year. The future remains uncertain and environmentally sensitive.
+
+## 50. Chinese port investment and influence without territorial sovereignty
+
+China's maritime connectivity reflects the scale of its industry, deepwater ports and logistics network. Investments by Chinese corporations in foreign terminals can provide commercial access, improve infrastructure and create contractual dependencies. Corporate equity in a terminal is not automatically sovereign ownership of the coastline or military authority over nearby shipping.
+
+Analysis must distinguish a port concession, terminal lease, minority shareholding, construction loan and effective decision-making control. A host country may retain customs, security, environmental and navigational jurisdiction, with rights defined in national law and the individual investment agreement.
+
+Similar distinctions apply to American, European, Gulf and other investors. It is incorrect to attribute every port used by a shipping company to its national government. The useful questions are who can legally set charges, withhold terminal services, access operating data or impose enforceable contract conditions.
+
+## 51. The invisible layer: submarine cables and trade information
+
+Payments, insurance, customs declarations, ship tracking and logistics platforms rely on digital networks. The International Telecommunication Union reports that submarine cables carry **over 99% of international data traffic**, with more than 500 operational systems and approximately 1.4 million kilometers in its 2025 assessment. Large technology companies have become significant investors in this infrastructure. [32]
+
+A cable failure is not a physical closure of a sea lane. But losing data connectivity can complicate cargo coordination, banking, port management and cloud operations, increasing uncertainty and delay. ITU notes that many faults arise from fishing, anchoring and other human activity; those figures do not prove that every incident is deliberate sabotage.
+
+Digital trade resilience requires diversified fiber routes, redundant service providers, secure data centers and protected industrial-control systems. Geographic proximity of a cable to a state does not by itself establish beneficial ownership or complete access to the traffic it carries.
+
+## 52. Actual power: jurisdiction, title and the ability to disrupt
+
+Trade-route power can be separated into at least seven mechanisms: legal jurisdiction, infrastructure operation, ownership of vessels and terminals, financing and insurance, technological standards, customer demand, and physical military disruption. These powers are often divided among competing states and private organizations.
+
+An operator may raise terminal charges within a concession without controlling a whole international strait. A government can own an airport but depend on foreign airlines to carry goods. A vessel-owning country must still secure access to other countries' ports. Insurers can make a voyage uneconomic while legal navigation rights remain unchanged.
+
+Every meaningful claim of control needs an identifiable **asset, legal rule, contract, decision-maker, date and cargo population**. Without that specification, declarations that one country “controls all world trade” cannot be substantiated.
+
+## 53. Comparing legal control and material exposure
+
+| Route | Mode | Main cargo | Leading legal/operational actors | Main exposure | Potential substitute |
+|---|---|---|---|---|---|
+| Hormuz | Maritime | Crude, oil products, LNG | Coastal states, shipping law, carriers | War, insurance, supply disruption | Limited pipelines and rerouting |
+| Malacca/Singapore | Maritime | Energy, containers, chemicals | Indonesia, Malaysia, Singapore, carriers | Congestion, armed incidents, escalation | Sunda/Lombok at extra cost |
+| Suez | Maritime canal | Containers, bulk, oil | Egyptian state and Suez authority | Regional security, rates, capacity | Cape of Good Hope |
+| Bab el-Mandeb | Maritime strait | Asia–Europe cargo, energy | Coastal jurisdictions and shipping | Attacks, war risk, insurance | Cape diversion |
+| Panama | Maritime canal | Containers, LPG, grains | Panama and ACP | Drought, locks, transit slots | Other oceanic/multimodal routes |
+| Taiwan/Bashi | Maritime | Electronics, energy | Coastal jurisdictions, transit rights | Escalation and chip supply | Partial shipping detours |
+| Turkish Straits | Maritime | Oil, grain, industry | Türkiye and Montreux regime | Conflict, congestion | Few equivalent Black Sea outlets |
+| Gibraltar | Maritime | Container, oil, industry | Coastal states and maritime law | Traffic and regulatory risk | No identical Mediterranean substitute |
+| Asia–North America | Air | Chips, electronics, pharmaceuticals | Overflight states, airlines and airports | Fuel, air restrictions, tariffs | Longer routings or inventory |
+| Europe–Asia | Air | Machines, electronics, health | State airspace and carrier networks | Regional war and safety | Detours and other hubs |
+| Middle Corridor | Rail/road/sea | Containers and regional freight | Central Asian and Caucasian states | Borders, Caspian, capital | Northern rail or sea |
+| European TEN-T | Road/rail/river | Cars, parts, food | Member states, EU, operators | Capacity, climate, compatibility | Other European axes |
+| BR-163/Northern Arc | Road/river/sea | Soy, corn, inputs | Brazil, concessions, ports | Rain, road and water levels | Santos, Paranaguá and others |
+| Arctic | Maritime | Energy, bulk, regional goods | Coastal states and disputed legal regimes | Ice, insurance, politics | Established ocean routes |
+
+The table deliberately avoids one universal risk score. **Likelihood and severity change with product, origin, final destination and time horizon.** A strait can be essential to one refinery but less important to a software company. Tankers and container vessels may experience different commercial risk in the same location.
+
+## 54. A conditional measure of supply-chain exposure
+
+A useful exposure model combines the importance of the affected good to production or revenue, the fraction sourced through one corridor, the financial consequences of delay and the lack of alternatives. A simplified conceptual representation is:
+
+**Economic exposure = critical-input share × corridor dependence × delay impact × substitution shortfall.**
+
+This is a framework rather than a numerical ranking because consistent public data on inventories, contracts and substitute capacity do not exist across all routes. Assigning precise numbers to Hormuz, airports, Middle Corridor and Suez using unrelated source populations would create false accuracy.
+
+An LNG importer must assess regasification capacity and contracts by origin. A farmer needs access to inputs and export terminals. A semiconductor fab depends on specific equipment, inputs and electricity. Strategic risk is the event that prevents the needed product from arriving at the time required by the operation.
+
+## 55. Four development paths through 2040
+
+Under **stable corridor reopening**, ships gradually return to shorter routes, easing freight and vessel-capacity pressure. This would not eliminate security requirements at Suez, Panama and other crossings. A return to normal routes can reduce the extraordinary commercial advantages enjoyed by some diversion ports.
+
+Under **persistent fragmentation**, attacks, sanctions, tariffs and airspace restrictions force firms to duplicate stocks, suppliers and transport options. Trade continues but costs more in tonne-miles, inventories and financing. Small import-dependent economies may bear disproportionately high costs for energy and food.
+
+Under **continental corridor development**, rail modernization and customs coordination improve reliability and strengthen alternatives for selected higher-value goods. Middle Corridor and European networks gain traffic without replacing the great majority of ocean bulk trade. Such outcomes require coordination and sustained investment across many jurisdictions.
+
+Under **climate and technology shocks**, water scarcity limits canals and rivers while port systems, digital infrastructure and electricity grids face vulnerabilities. Successful adaptation requires water management, maintenance, data security and dependable power in logistics facilities.
+
+## 56. Strategic priorities for Brazil
+
+Brazil should avoid excessive dependence on a narrow group of export roads, ports and buyers. Diversification between Santos, Paranaguá, the Northern Arc and other locations can reduce exposure only if usable capacity, inland connections and channel access exist. Public concessions should be assessed on total door-to-door performance rather than isolated kilometers of new pavement.
+
+A national monitoring framework should distinguish throughput in tonnes, export value, road delays, rail availability, navigable river levels, customs clearance and destination concentration. Food and industrial security require separate statistics on imported fertilizer, fuel, medicines and advanced components, including realistic replacement lead times.
+
+Commercial diplomacy also matters. South Atlantic cooperation, access to Asian markets and South American connections can create alternatives without claims of absolute control over foreign chokepoints. Logistics sovereignty comes from **practical redundancy, reliable infrastructure and enforceable contracts**, not ownership of an imaginary line on a map.
+
+## 57. An actionable agenda for firms, banks and operators
+
+Exporters should map the full chain to the customer, including carriers' actual vessels, transfer ports and service contracts. Hiring two shipping lines does not create meaningful redundancy if both depend on the same terminal and strait. The same applies to seemingly independent suppliers whose components transit one airport.
+
+Banks and insurers can stress-test longer freight journeys, delayed payments, increased working-capital needs and reduced coverage for particular voyages. Buyers may negotiate contracts specifying responsibility for rerouting, exceptional inspections and customs changes. The objective is measurable allocation of costs before a disruption occurs.
+
+Governments should prioritize interoperable customs systems, port continuity plans, electricity reliability, communications redundancy and maritime security cooperation. The goal is not to eliminate all risks but to prevent high-impact correlated failures at a justifiable cost.
+
+## 58. Evidence that would confirm or weaken the scenarios
+
+| Risk or scenario | Primary indicator | Evidence supporting concern | Evidence weakening it |
+|---|---|---|---|
+| Hormuz energy disruption | Actual crude/LNG loads, insurance, ports | Sustained fall in shipments | Recovery of loading and viable routes |
+| Suez return | SCA voyages and tonnage, carrier schedules | Sustained transits without prohibitive risk | Continued Cape diversion |
+| Panama drought | ACP water, draft and transit slots | Lower capacity or operating draft | Stable water and canal operation |
+| Air route reorganization | IATA CTK, ICAO overflight rules | Capacity shifts and persistent demand | Restored permissions and routes |
+| Middle Corridor progress | Door-to-door time, measured throughput | Effective improvements across borders | Incomplete construction and delays |
+| Brazilian logistics congestion | BR-163 and ANTAQ/Conab series | Queues, low draft, export disruption | Effective diversion and normal operation |
+| Arctic shipping growth | Actual intercontinental origin/destination voyages | Reliable commercially competitive service | Mostly local seasonal operations |
+| Submarine cable failure | ITU interruption and repair data | Measured disruption of digital services | Redundancy absorbs the fault |
+
+Observation windows must remain explicit. EIA publishes quarterly estimates and revisions, canal authorities use fiscal and calendar statistics, IATA publishes monthly CTK, and railway proposals often contain projections for distant years. A report that confuses completed activity, model forecasts and promotional investment commitments would create false certainty.
+
+## 59. Visual comparison of corridors and control
+
+```chart
+type: bar
+title: Panama Canal annual vessel transits, FY2025 and FY2026
+unit: transits; ACP fiscal years
+FY2025 | 13404
+FY2026 | 13951
+```
+
+```chart
+type: bar
+title: International port liner connectivity, third quarter of 2026
+unit: UNCTAD PLSCI index points; not TEUs
+Shanghai | 2439
+Ningbo-Zhoushan | 2110
+Singapore | 1883
+Busan | 1655
+Qingdao | 1422
+```
+
+```chart
+type: bar
+title: Selected Brazilian port and export measures, 2025
+unit: million tonnes; different populations
+Brazilian soybean exports | 108.18
+Fertilizer imports | 49.3
+Northern Arc grain cargo | 58.0
+Santos port complex total | 186.4
+```
+
+The Brazilian figures have **different statistical denominators and must not be added together**. Soybeans represent national merchandise exports; fertilizers represent imports handled in port statistics; the Northern Arc is a regional grain grouping; Santos includes multiple cargo types and operations. The purpose is to compare orders of magnitude, not shares of one whole.
+
+```flow
+China, Korea and Japan → Malacca and Asian seas → Indian Ocean → Bab el-Mandeb → Suez → Europe
+China and Southeast Asia → Pacific Ocean → North American ports → inland road and rail → industry and consumers
+Persian Gulf → Hormuz → Asian buyers; partial pipeline bypass to alternative ports
+Asia → Indian Ocean → Cape of Good Hope → Atlantic → Europe when Red Sea shipping is avoided
+Mato Grosso → BR-163 → Miritituba → Tapajós → Santarém and Barcarena → global shipping
+Kazakhstan → Caspian Sea → Azerbaijan and Georgia → Türkiye and Europe; multimodal transfers
+```
+
+```flow
+Strait disruption → diversion or curtailed cargo → more days at sea → lower effective fleet capacity → higher freight and inventories
+Airspace closure → longer flight → higher fuel and lower payload → higher cost per kilogram of urgent goods
+Slow rail frontier → transfer and waiting → unpredictable delivery → larger inventories and lower competitiveness
+Canal or waterway drought → draft and slots restricted → queues and toll pressure → diversion or harvest delay
+```
+
+```map
+title: Global maritime chokepoints and commercial centers
+Strait of Hormuz, Oman and Iran | Gulf energy | Oil and LNG; flows changed in 2026
+Strait of Malacca, Malaysia and Indonesia | Indian–Pacific | Energy and Asian manufacturing
+Singapore Strait, Singapore | Transshipment hub | Containers and maritime services
+Suez Canal, Egypt | Europe–Asia | Egyptian Suez Canal Authority
+Bab el-Mandeb, Yemen and Djibouti | Southern Red Sea | Attacks, war-risk insurance
+Cape of Good Hope, South Africa | Oceanic alternative | Avoids the Red Sea
+Panama Canal, Panama | Atlantic–Pacific | ACP and freshwater dependence
+Strait of Gibraltar, Spain and Morocco | Mediterranean–Atlantic | Containers, oil and grains
+Bosphorus Strait, Istanbul, Türkiye | Black Sea | Montreux legal regime
+Bashi Channel, Taiwan and Philippines | Western Pacific | Shipping and semiconductor exposure
+```
+
+```map
+title: Land and multimodal trade corridors
+Almaty, Kazakhstan | China–Europe transit | Road and rail investment
+Port of Aktau, Kazakhstan | Middle Corridor | Railway-to-Caspian link
+Port of Baku, Azerbaijan | Middle Corridor | Caspian and Caucasus interface
+Tbilisi, Georgia | Rail and highways | Türkiye and Black Sea links
+Duisburg, Germany | European inland hub | Rail, waterways and industry
+Mombasa, Kenya | East Africa | Landlocked-country gateway
+Sinop, Mato Grosso, Brazil | Soybean production | BR-163 and planned Ferrogrão
+Miritituba, Itaituba, Pará, Brazil | River transshipment | Tapajós and Northern Arc
+Port of Santos, São Paulo, Brazil | Ocean trade hub | Containers, grain and manufacturing
+```
+
+```map
+title: High-value air cargo hubs
+Hong Kong International Airport, Hong Kong | Electronics and Asian logistics | Pearl River Delta production
+Memphis International Airport, Tennessee, United States | Express air cargo | Sorting and last-mile logistics
+Frankfurt Airport, Germany | European industry | Pharmaceuticals and machines
+Hamad International Airport, Doha, Qatar | Intercontinental connectivity | Regional airspace exposure
+Dubai International Airport, Dubai, United Arab Emirates | Eurasian aviation hub | Cargo and passenger belly capacity
+```
+
+```mindmap
+Strategic power over world trade routes
+- Legal control
+  - International straits and law of the sea
+  - Sovereignty over airspace
+  - Canal treaties and port concessions
+- Operational control
+  - Shipping lines and vessel slots
+  - Terminals and customs
+  - Airports and rail networks
+- Economic control
+  - Insurance, credit and finance
+  - Sanctions and licenses
+  - Commodity buyers and final markets
+- Strategic commodities
+  - Crude, LNG and fuels
+  - Grain, fertilizer and ores
+  - Containers and machinery
+  - Chips and medical products
+- Exposure
+  - War, attack and piracy
+  - Drought, ice and extreme weather
+  - Congestion and border friction
+  - Digital and technological dependence
+- Resilience
+  - Route substitution and redundancy
+  - Stocks and contracts
+  - Infrastructure and maintenance
+  - Documented monitoring
+```
+
+## 60. The geography of prosperity through 2040
+
+Historically, access to trade routes helped finance empires, shift industrial centers and concentrate the profits of port cities. Today maritime passages remain crucial, but the ability to interrupt supply chains also depends on credit, insurance, telecommunications, technical standards and legal controls on goods. The future network will be shaped by climate, infrastructure aging, computational demand, changing energy systems and national security choices.
+
+There is no universal substitute for maritime corridors. Better railways and roads can reduce certain exposures and make selected higher-value deliveries more competitive, but the greatest volumes of ore, crude oil and grain will remain dependent on ports and ocean shipping. Air freight will be increasingly important for high-technology production despite its cost and mass constraints.
+
+Authority over a trade route rarely rests with one actor. Panama administers its canal but depends on water and global demand; Egypt administers Suez while southern Red Sea threats may lie beyond its direct authority; Malacca's coastal states exercise jurisdiction while insurers and shipowners make commercial decisions; Brazil produces food and minerals but needs reliable inland and ocean gateways. Durable logistics sovereignty means **preserving access, negotiating rights and reducing critical dependencies**, not claiming abstract ownership of a line across the map.
+
+## Primary references and institutional literature
+
+[1] UNCTAD, *Review of Maritime Transport 2025*, September 2025: https://unctad.org/publication/review-maritime-transport-2025
+
+[2] UNCTAD, *Maritime trade under pressure*, September 2025: https://unctad.org/news/maritime-trade-under-pressure-growth-set-stall-2025
+
+[3] Panama Canal Authority, fiscal 2026 performance, October 2026: https://pancanal.com/en/panama-canal-reports-growth-in-transits-and-tonnage-in-fiscal-year-2026/
+
+[4] UNCTAD, *Review of Maritime Transport 2025*, fleet and alliances: https://unctad.org/publication/review-maritime-transport-2025
+
+[5] IMO, United Nations Convention on the Law of the Sea: https://www.imo.org/en/ourwork/legal/pages/unitednationsconventiononthelawofthesea.aspx/
+
+[6] US EIA, *World Oil Transit Chokepoints*, 2026: https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints
+
+[7] US EIA, *Short-Term Energy Outlook — Energy Security*, through 2026 Q2: https://www.eia.gov/outlooks/steo/report/energysecurity/article.php
+
+[8] Suez Canal Authority, 2025 maritime traffic statistics: https://www.suezcanal.gov.eg/English/Navigation/Pages/NavigationStatistics.aspx
+
+[9] UNCTAD Data Hub, third-quarter 2026 port liner connectivity: https://unctadstat.unctad.org/insights/theme/271
+
+[10] IMO, Maritime Safety Committee 111th meeting, 2025 piracy statistics: https://www.imo.org/en/mediacentre/meetingsummaries/pages/temporary-msc-111.aspx
+
+[11] IATA, global air cargo performance in 2025: https://www.iata.org/en/pressroom/2026-releases/2026-01-29-01
+
+[12] IATA, August 2026 air cargo trade lanes: https://www.iata.org/en/pressroom/2026-releases/09-29-air-cargo-demand-grows-august/
+
+[13] ICAO, sovereignty over airspace, December 2025: https://www.icao.int/news/icao-statement-state-sovereignty-over-airspace-and-safety-assessments
+
+[14] IATA, *Air Cargo, Trade, and Economic Growth in 2025*: https://www.iata.org/en/iata-repository/publications/economic-reports/air-cargo-trade-and-economic-growth-in-2025/
+
+[15] European Commission, TEN-T transport corridors: https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en
+
+[16] European Commission, Rhine–Danube corridor: https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t/rhine-danube-corridor_en
+
+[17] European Commission, Baltic Sea–Adriatic Sea corridor: https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t/baltic-sea-adriatic-sea-corridor_en
+
+[18] World Bank, Middle Trade and Transport Corridor study, 2024: https://www.worldbank.org/en/region/eca/publication/middle-trade-and-transport-corridor
+
+[19] World Bank, Trans-Caspian investments and 2040 scenarios, September 2026: https://www.worldbank.org/en/news/press-release/2026/09/28/trans-caspian-transport-corridor-investments-spur-growth-and-create-millions-jobs
+
+[20] World Bank, ten priorities for the Middle Corridor: https://www.worldbank.org/en/brief/2024/04/17/10-priority-actions-that-can-triple-trade-in-the-middle-corridor-by-2030
+
+[21] World Bank, railway financing guarantee for Kazakhstan, February 2026: https://www.worldbank.org/en/news/press-release/2026/02/19/world-bank-support-to-enhance-rail-connectivity-and-logistics-in-kazakhstan
+
+[22] UN ESCAP, Asian Highway Network and regional agreement: https://www.unescap.org/our-work/transport/regional-land-transport/asian-highway
+
+[23] World Bank, highway investment and Kazakhstan freight transit: https://www.worldbank.org/en/results/2024/07/11/how-new-roads-in-kazakhstan-create-jobs-save-lives-and-boost-trade
+
+[24] Brazilian Federal Audit Court, BR-163/BR-230 concession review: https://portal.tcu.gov.br/publicacoes-institucionais/solucoes-consensuais/rodovia-via-brasil
+
+[25] Brazilian Transport Ministry, planned Ferrogrão EF-170: https://www.gov.br/transportes/pt-br/assuntos/sustentabilidade/gt-da-ef-170-ferrograo
+
+[26] Brazilian Ports Ministry, production routes, August 2026: https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/08/de-norte-a-sul-os-caminhos-que-levam-a-producao-brasileira-ao-mundo
+
+[27] Brazilian Ports Ministry, Santos port complex statistics for 2025: https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/01/porto-de-santos-movimenta-186-4-milhoes-de-toneladas-em-2025-e-avanca-para-ampliar-sua-capacidade/
+
+[28] Brazilian Ports Ministry, southeastern public ports in 2025: https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/sudeste-movimenta-quase-700-milhoes-de-toneladas-em-2025-e-amplia-protagonismo-logistico
+
+[29] Brazilian Ports Ministry, soybean export logistics in 2025: https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/07/plano-safra-de-r-525-bilhoes-deve-ampliar-movimentacao-de-cargas-em-portos-e-hidrovias-nacionais
+
+[30] Brazilian Ports Ministry, 2025 port activity: https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/02/portos-brasileiros-movimentam-1-4-bilhao-de-toneladas-em-2025-e-batem-recorde-historico
+
+[31] Arctic Council, Arctic shipping growth and observed voyages, February 2026: https://arctic-council.org/news/increase-in-arctic-shipping/
+
+[32] ITU, Global Connectivity Report 2025, submarine cable infrastructure: https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-3/
+
+[33] ITU, submarine cable resilience report, July 2026: https://www.itu.int/en/mediacentre/Pages/PR-2026-07-10-Submarine-cable-resilience-report.aspx
+
+[34] UNCTAD, country shipping connectivity, September 2026: https://unctadstat.unctad.org/insights/theme/246
+
+[35] World Bank, *Integration: World-Class Trade Logistics Along the Trans-Caspian Transport Corridor*: https://www.worldbank.org/en/region/eca/publication/world-class-trade-logistics-along-trans-caspian-transport-corridor
