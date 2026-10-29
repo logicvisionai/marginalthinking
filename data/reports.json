@@ -2,6 +2,141 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-GM-2026-10-29",
+    "slug": "2026-10-29-global-macro",
+    "date": "2026-10-29",
+    "published_at": "2026-10-29T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "trade-investment",
+      "geopolitics-security",
+      "industry-production"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "2026-10-29 05:00 BRT (08:00 UTC). Completed 28 Oct US/Canada sessions and releases; 29 Oct ECB, BOJ, US GDP and PCE not yet released.",
+      "novelty": "Compared 26–28 Oct public MT-GM editions. New 28 Oct FOMC 10–2 hold and Canadian first hike since July 2023; 27–28 Oct US yield-curve bear steepening; 28 Oct ICI weekly flow vintage and EIA stocks. Earlier AI memory contracts, Australian CPI and Brazil post-election repricing are background.",
+      "source_check": "14 dated numbered references per locale, predominantly official Fed, BoC, US Treasury, ABS, RBNZ, ICI, ECB, BEA and EIA; Reuters used for closing prices and EIA-vintage cross-check.",
+      "visual_signature": "Both editions have 1 dated 10Y Treasury chart (26/27/28 Oct), 1 fund-flow bar chart (21 Oct week), 1 six-row policy table, 1 two-chain causal flow and 1 five-region map; numeric values/units identical.",
+      "bilingual_parity": "Identical 14 reference URLs and dates; matched 10Y yields 5.00/4.99/5.05, fund flows -33.50/+45.82/+12.32, monetary policy levels, EIA inventory observations, caveats and information cutoff.",
+      "research_depth": "EN ~2512 words; PT-BR ~2899 words, including references.",
+      "source_shas": {
+        "en": "83393e464d07205dc27d3474f8024fb4d4a9ac9f",
+        "pt-BR": "12432b2c4805e01dc0131f015bc4c97d5dc7220d"
+      }
+    },
+    "contrary_evidence": [
+      "US equities advanced modestly on 28 Oct, contradicting a blanket risk-off reading.",
+      "ICI combined fund flows were positive for the earlier 21 Oct week, despite mutual-fund outflows.",
+      "NZ held narrowly and Australian underlying inflation is not identical to headline inflation; tightening is not globally synchronized."
+    ],
+    "limitations": [
+      "The 29 Oct ECB, BOJ, GDP and personal-income/outlays releases are after cutoff.",
+      "The dynamic EIA weekly page did not consistently expose the 28 Oct vintage, so its figures were cross-checked with contemporaneous Reuters reporting.",
+      "No verified 28 Oct issuer-level financing or complete cross-border investor flow dataset; yield changes cannot be decomposed into term premium and inflation expectations.",
+      "Market settlements and official daily par yields are distinct instruments and observation times."
+    ],
+    "url": "/reports/2026/10/2026-10-29-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-29T08:08:16Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "727063a9bc7f877b38defb7aff3534be0a7bcf08",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — A Fed pause, a Canadian hike and a steeper Treasury curve expose the cost of persistent energy inflation",
+        "deck": "The Fed held 3.75–4.00% with two dissents while Canada raised rates; US long yields rose despite a softer two-year yield, revealing divergent responses to energy inflation and financing needs.",
+        "tags": [
+          "Global Macro",
+          "Federal Reserve",
+          "Bank of Canada",
+          "Treasury yields",
+          "Energy inflation"
+        ],
+        "keywords": [
+          "FOMC October 2026",
+          "Canada rate hike",
+          "US Treasury curve",
+          "oil inventories",
+          "ETF flows",
+          "inflation transmission"
+        ],
+        "regime": "Monetary-policy divergence and long-duration funding pressure amid persistent energy inflation.",
+        "key_risk": "Fuel-cost pass-through and duration-financing needs tighten credit conditions without a further Fed rate increase.",
+        "watch": [
+          "US Q3 GDP advance and September personal income/outlays release",
+          "ECB and Bank of Japan 29 October decisions",
+          "US Treasury 10Y–2Y curve and long-term issuance",
+          "US distillate inventories and fuel-price pass-through"
+        ],
+        "search_text": "29 October 2026 global macro Fed 10-2 hold Canada 25 basis point hike 2.50 percent Treasury 10-year 5.05 percent ETF issuance oil distillates ECB BOJ GDP PCE"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Global Macro — Pausa do Fed, alta de juros no Canadá e inclinação da curva americana revelam o custo da inflação energética persistente",
+        "deck": "O Fed manteve juros de 3,75% a 4,00%, com duas dissidências, enquanto o Canadá elevou a taxa; rendimentos longos dos Treasuries subiram apesar da queda no papel de dois anos.",
+        "tags": [
+          "Global Macro",
+          "Federal Reserve",
+          "Banco do Canadá",
+          "Treasuries",
+          "Inflação energética"
+        ],
+        "keywords": [
+          "Fed outubro 2026",
+          "alta de juros Canadá",
+          "curva Treasury",
+          "estoques de petróleo",
+          "fluxos de ETFs",
+          "transmissão inflacionária"
+        ],
+        "regime": "Divergência de política monetária e encarecimento do financiamento longo em meio à inflação energética persistente.",
+        "key_risk": "Repasse dos combustíveis e necessidades de financiamento longo restringem o crédito mesmo sem nova alta de juros pelo Fed.",
+        "watch": [
+          "PIB preliminar do terceiro trimestre e renda/gastos pessoais de setembro nos EUA",
+          "Decisões do BCE e do Banco do Japão em 29 de outubro",
+          "Curva Treasury de dez menos dois anos e emissões de longo prazo",
+          "Estoques de destilados e repasse dos combustíveis"
+        ],
+        "search_text": "Global Macro 29 outubro 2026 Fed mantém 10 a 2 Canadá sobe 25 pontos-base para 2,50 por cento Treasury dez anos 5,05 ETFs petróleo destilados BCE Banco do Japão PIB inflação PCE"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GM-2026-10-28",
     "slug": "2026-10-28-global-macro",
     "date": "2026-10-28",

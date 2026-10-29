@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-28T08:12:39.040Z",
+  "last_reconciled_at": "2026-10-29T12:37:29.270Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7317,6 +7317,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "SK hynix reports HBM4 shipments, M15X ramp and 2027–28 contract coverage, but preliminary company disclosures alone do not validate independent engineering performance, customer adoption or maturity transition for a canonical technology signal. Refer to specialist Atlas/Tech review."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-10-29T12:37:29.270Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-29"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Today's monetary decisions and inventory releases do not establish a new verified transfer of ownership of physical resources."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "The daily macro brief tracks dated policy, flows and financing, without a new validated atlas record in this subsystem."
         }
       ]
     }
