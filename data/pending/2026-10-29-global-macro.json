@@ -42,7 +42,7 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -112,9 +112,10 @@
     "bilingual_parity": "Identical 14 reference URLs and dates; matched 10Y yields 5.00/4.99/5.05, fund flows -33.50/+45.82/+12.32, monetary policy levels, EIA inventory observations, caveats and information cutoff.",
     "research_depth": "EN ~2512 words; PT-BR ~2899 words, including references.",
     "source_shas": {
-      "en": "83393e464d07205dc27d3474f8024fb4d4a9ac9f",
+      "en": "f0568824602c8254054ae48d645c0d05908c7bf9",
       "pt-BR": "12432b2c4805e01dc0131f015bc4c97d5dc7220d"
-    }
+    },
+    "revision_reason": "Remove a single English research self-reference; numerical data and historical citations unchanged."
   },
   "contrary_evidence": [
     "US equities advanced modestly on 28 Oct, contradicting a blanket risk-off reading.",

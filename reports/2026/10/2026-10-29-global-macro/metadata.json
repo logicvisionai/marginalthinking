@@ -42,7 +42,7 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "2026-10-29 05:00 BRT (08:00 UTC). Completed 28 Oct US/Canada sessions and releases; 29 Oct ECB, BOJ, US GDP and PCE not yet released.",
@@ -52,9 +52,10 @@
     "bilingual_parity": "Identical 14 reference URLs and dates; matched 10Y yields 5.00/4.99/5.05, fund flows -33.50/+45.82/+12.32, monetary policy levels, EIA inventory observations, caveats and information cutoff.",
     "research_depth": "EN ~2512 words; PT-BR ~2899 words, including references.",
     "source_shas": {
-      "en": "83393e464d07205dc27d3474f8024fb4d4a9ac9f",
+      "en": "f0568824602c8254054ae48d645c0d05908c7bf9",
       "pt-BR": "12432b2c4805e01dc0131f015bc4c97d5dc7220d"
-    }
+    },
+    "revision_reason": "Remove a single English research self-reference; numerical data and historical citations unchanged."
   },
   "contrary_evidence": [
     "US equities advanced modestly on 28 Oct, contradicting a blanket risk-off reading.",
@@ -69,9 +70,9 @@
   ],
   "url": "/reports/2026/10/2026-10-29-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-10-29T08:08:16Z",
+  "qa_reviewed_at": "2026-10-29T12:39:14.820Z",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "727063a9bc7f877b38defb7aff3534be0a7bcf08",
+  "qa_reviewed_commit": "89807fe8a7c9b4d3d3ad3e1fd82b19f6d3d40217",
   "locales": {
     "en": {
       "markdown": "en.md",
