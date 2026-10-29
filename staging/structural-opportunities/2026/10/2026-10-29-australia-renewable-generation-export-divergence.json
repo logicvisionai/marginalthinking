@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-29T08:07:11.527Z",
+  "candidate": {
+    "id": "2026-10-29-australia-renewable-generation-export-divergence",
+    "country": {
+      "code": "AUS",
+      "name": "Australia"
+    },
+    "previous_state": null,
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "Australian electricity-system planners and industrial electricity users evaluating the existing renewable generation base and its usable access, not commodity investors.",
+    "structural_condition": "An expanding domestic solar-and-wind electricity production base coexists with declining physical energy-export volumes, creating distinct domestic flexibility and export-dependence questions.",
+    "delta": "The ABS Energy Account released 29 October 2026 documents 2024–25 renewable electricity supply of 372 PJ (+9.7%, from 339 PJ), 37% of domestic electricity use (34% previously), while physical energy exports fell 3.1% to 17,363 PJ, their lowest in a decade. This is newly published retrospective evidence, not evidence of a new 2026 commissioning.",
+    "mechanism": "From the electricity-user perspective, already produced renewable electricity may be leveraged for domestic loads and decarbonisation if network access, time-of-day availability and storage/flexibility permit; declining coal/LNG/other physical export volumes represent a separate external-market exposure, not a direct transfer of export energy into the grid. Export energy totals and renewable electricity use have different denominators and must not be subtracted or compared as a single balance.",
+    "catalysts": [
+      "Evidence of 2025–26 renewable commissioning and usable transmission capacity rather than annual energy-account inference alone.",
+      "Measured curtailment, grid congestion, firming capacity and industrial offtake under accessible connection rules.",
+      "Updated 2025–26 export energy volumes and energy-price exposure."
+    ],
+    "invalidation": "A revised ABS series reverses the renewable/export divergence, or updated system-operation data show that renewable supply cannot be economically accessed by the named users without prohibitive network or firming costs.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "Australian Bureau of Statistics, Energy Account Australia 2024–25, 29 October 2026",
+        "url": "https://www.abs.gov.au/statistics/industry/energy/energy-account-australia/2024-25",
+        "date": "2026-10-29"
+      },
+      {
+        "name": "Australian Bureau of Statistics, Energy exports at 10-year low, 29 October 2026",
+        "url": "https://www.abs.gov.au/media-centre/media-releases/energy-exports-10-year-low",
+        "date": "2026-10-29"
+      }
+    ]
+  },
+  "research_note": "Discovery-only candidate; new statistical evidence describes FY2024–25, not an October 2026 operational transition. No inferred project economics, asset returns, access right or canonical Atlas promotion."
+}

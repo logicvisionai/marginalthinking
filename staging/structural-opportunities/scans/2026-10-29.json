@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "checked_at": "2026-10-29T08:07:18.842Z",
+  "candidate_ids": [
+    "2026-10-29-australia-renewable-generation-export-divergence"
+  ],
+  "coverage_summary": "Compared all eight canonical Structural Opportunity Atlas entries (updated 2026-09-23), 25–28 Oct daily scan markers, public 26–28 Oct Global Macro, 28 Oct Korea HBM4 and recent staged health, Brazilian asset-disposal, Pix–TIPS, Nigeria BRIDGE and UK energy candidates. Screened 29 Oct ABS Energy Account (retrospective 2024–25 physical exports and renewable generation), 28 Oct Bank of Canada monetary policy and Fed reserve implementation, US Treasury financing, ICI flows, EIA weekly stocks, WHO respiratory surveillance, and prior energy/logistics and market-access signals. One medium-materiality Australian discovery hypothesis staged; no 2026 commissioning or grid-access claim, no canonical Atlas change.",
+  "canonical_atlas_updated_at": "2026-09-23",
+  "sources_checked": [
+    {
+      "name": "ABS Energy Account Australia 2024–25",
+      "url": "https://www.abs.gov.au/statistics/industry/energy/energy-account-australia/2024-25",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "ABS Energy exports at 10-year low",
+      "url": "https://www.abs.gov.au/media-centre/media-releases/energy-exports-10-year-low",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "Bank of Canada policy statement",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "Federal Reserve implementation note",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "EIA Weekly Petroleum Status Report",
+      "url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "WHO Global Respiratory Virus Activity Weekly Update 601",
+      "url": "https://www.who.int/publications/m/item/influenza",
+      "date": "2026-10-28"
+    }
+  ],
+  "canonical_updated": false
+}
