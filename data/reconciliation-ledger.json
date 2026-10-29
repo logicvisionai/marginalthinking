@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-28T08:12:39.040Z",
+  "last_reconciled_at": "2026-10-29T08:09:57.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7317,6 +7317,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "SK hynix reports HBM4 shipments, M15X ramp and 2027–28 contract coverage, but preliminary company disclosures alone do not validate independent engineering performance, customer adoption or maturity transition for a canonical technology signal. Refer to specialist Atlas/Tech review."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-10-29T08:09:57.000Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-29"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The approved 29 Oct report documents divergent Fed/Bank of Canada policy and US Treasury term yields, but does not establish verified bilateral credit, funding or energy-supply dependency edges, counterparties or magnitudes. Do not infer a new network edge from rate or price correlations."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Fuel-cost pass-through and expensive long-duration financing are structural pressures, not a validated project opportunity. No project-specific capacity, capex, financing terms or comparative feasibility is established for an atlas record; refer candidates to specialist weekly/structural review."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Reviewed the dated Federal Reserve and Bank of Canada decisions and votes: these are institutional policy observations, not evidence of a new verified ownership, control, investment or contractual actor relationship. Existing actor relations remain unchanged."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed EIA dated crude/distillate inventory observations and energy-market prices. Stock changes and futures prices do not document a change in legal title, beneficial ownership or operational control of a named resource or infrastructure asset."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The 28 Oct Fed hold and Bank of Canada hike are newly observed policy decisions; the report does not evaluate a completed implemented policy experiment with attributable outcomes required for a policy-case atlas entry."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report notes Middle East energy/shipping exposure but explicitly does not verify physical throughput losses, a new military event, actor attribution or a changed conflict configuration. Specialist conflict-source verification is needed before changing the canonical system."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "This issue is about monetary-policy divergence, Treasury duration and fuel inflation, not an independently evidenced new technology capability, adoption milestone or maturity transition."
         }
       ]
     }
