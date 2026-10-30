@@ -146,6 +146,17 @@ O país também participa do Mercosul, que negocia seus próprios instrumentos e
 
 A política americana pode combinar aproximação comercial e pressões pontuais sem assumir como objetivo único afastar o Brasil da China. Da mesma forma, o governo brasileiro pode procurar investimento americano em minerais e manter relações com Pequim. A questão é a distribuição das capacidades produtivas, dos direitos sobre ativos e dos riscos futuros.
 
+```map
+title: Distribuição geoeconômica de produção, demanda, capital e infraestrutura
+Brasil | Reservas de terras raras e Pix doméstico em reais | Reserva não equivale a refino, nem Pix a liquidação internacional
+Estados Unidos | Mercados de capitais, política comercial e financiamento mineral | Seção 301 e instrumentos DFC operam por marcos diferentes
+China | Demanda por commodities e alta capacidade de processamento mineral | Posição industrial não deriva apenas de reservas geológicas
+Índia e demais BRICS | Mercados e alternativas de pagamento ainda heterogêneas | Não existe moeda única nem política monetária comum
+Europa | Mercado de destino, padrões e busca por cadeias de fornecimento mais diversas | Acesso e investimentos dependem de regulamentação e contratos
+```
+
+O mapa registra funções geoeconômicas por região; não localiza jazidas, instalações nem fluxos físicos específicos. A relação de cada país com o Brasil não tem uma direção única: uma economia pode financiar projetos, comprar matérias-primas e competir em produtos de maior valor agregado simultaneamente.
+
 ## 15. Terras raras: reservas no subsolo não são ímãs, ligas ou motores
 
 O USGS estimou, nas *Mineral Commodity Summaries 2026*, reservas de elementos de terras raras equivalentes a **44 milhões de toneladas de óxidos na China**, **21 milhões no Brasil**, **6,3 milhões na Austrália**, **3,8 milhões na Rússia** e **1,9 milhão nos EUA**. Os mesmos quadros estimam produção de mina em 2025 de **270 mil toneladas para China**, **2 mil para Brasil** e **51 mil para EUA**. Reservas e produção anual são grandezas diferentes e devem aparecer em gráficos separados. Os dados de produção incluem estimativas e reservas podem ser revisadas. [16]
