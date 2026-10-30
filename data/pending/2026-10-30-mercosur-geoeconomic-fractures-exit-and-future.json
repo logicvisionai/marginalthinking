@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-10-30-MERCOSUR-GEOECONOMIC-FRACTURES",
+  "slug": "2026-10-30-mercosur-geoeconomic-fractures-exit-and-future",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T16:04:00-03:00",
+  "kind": "regional-geoeconomic-integration-research",
+  "priority": 52,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-30-mercosur-geoeconomic-fractures-exit-and-future/en.md",
+      "title": "Mercosur under pressure: history, strategic competition, political divergence and the economics of a possible exit",
+      "deck": "A 29-chapter historical, legal, economic and geopolitical investigation of Mercosur's internal fractures, US–Argentina and EU agreements, China, EFTA, political divergence, lawful withdrawal and conditional futures.",
+      "tags": [
+        "Mercosur",
+        "South America",
+        "geoeconomics",
+        "regional integration",
+        "trade policy",
+        "Argentina",
+        "United States",
+        "European Union",
+        "China",
+        "withdrawal law"
+      ],
+      "keywords": [
+        "Mercosur 2026 Argentina exit treaty Articles 21 22",
+        "Mercosur US Argentina agreement February 2026",
+        "EU Mercosur provisional application May 2026",
+        "Mercosur tariff exception decision 1 2025",
+        "Mercosur Venezuela Bolivia Uruguay Paraguay trade geopolitical pressure"
+      ],
+      "regime": "An imperfect customs union facing multiple externally driven liberalization agendas while retaining industrial and diplomatic interdependence.",
+      "key_risk": "Confusing political divergence or a bilateral US agreement with formal treaty denunciation, and conditional scenarios with forecasts.",
+      "watch": [
+        "Formal treaty notifications under Articles 21–22",
+        "Country-specific implementation of US–Argentina terms",
+        "Mercosur tariff exceptions and rules of origin",
+        "EU interim agreement preference utilization",
+        "EFTA/Singapore implementation by country",
+        "China, India and other collective negotiation mandates",
+        "Regional automotive investment and customs delays"
+      ],
+      "search_text": "Mercosur under pressure, a detailed 2026 geoeconomic and political-history report on US China EU Argentina possible withdrawal, tariff exceptions, Brazil, Paraguay, Uruguay, Bolivia, Venezuela, industries, customs, legal exit and regional future."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-30-mercosur-geoeconomic-fractures-exit-and-future/pt-BR.md",
+      "title": "Mercosul sob pressão: história, disputa entre potências, desalinhamento político e a economia de uma possível saída",
+      "deck": "Investigação histórica, jurídica, econômica e geopolítica em 29 capítulos sobre divergências internas, acordos EUA–Argentina e UE, China, EFTA, retirada juridicamente possível e cenários condicionais.",
+      "tags": [
+        "Mercosul",
+        "América do Sul",
+        "geoeconomia",
+        "integração regional",
+        "política comercial",
+        "Argentina",
+        "Estados Unidos",
+        "União Europeia",
+        "China",
+        "denúncia de tratado"
+      ],
+      "keywords": [
+        "Mercosul 2026 Argentina saída tratado artigos 21 22",
+        "acordo Estados Unidos Argentina fevereiro 2026",
+        "acordo Mercosul UE aplicação provisória maio 2026",
+        "Mercosul exceções tarifárias Decisão 1 2025",
+        "Bolívia Venezuela Uruguai Paraguai Mercosul competição geopolítica"
+      ],
+      "regime": "União aduaneira imperfeita pressionada por estratégias externas de liberalização diferentes, mas sustentada por interdependência industrial e diplomática.",
+      "key_risk": "Confundir divergência política ou acordo bilateral com denúncia formal do tratado e apresentar cenários condicionais como previsões.",
+      "watch": [
+        "Notificação formal de retirada pelos artigos 21 e 22",
+        "Implementação nacional de cláusulas EUA–Argentina",
+        "Exceções tarifárias e fiscalização de origem",
+        "Uso efetivo de preferências do acordo provisório com UE",
+        "Vigência por país dos acordos EFTA e Singapura",
+        "Mandatos conjuntos para China, Índia e outros",
+        "Investimento automotivo regional e atrasos aduaneiros"
+      ],
+      "search_text": "Mercosul sob pressão, pesquisa histórica e geoeconômica de 2026 sobre EUA China UE Argentina possível saída, exceções tarifárias, Brasil, Paraguai, Uruguai, Bolívia, Venezuela, indústria, aduanas, saída jurídica e futuro regional."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "multi-country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "AR",
+        "slug": "argentina"
+      },
+      {
+        "code": "BO",
+        "slug": "bolivia"
+      },
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "PY",
+        "slug": "paraguay"
+      },
+      {
+        "code": "UY",
+        "slug": "uruguay"
+      },
+      {
+        "code": "VE",
+        "slug": "venezuela"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "trade-investment",
+    "industry-production",
+    "institutions-governance",
+    "geopolitics-security",
+    "infrastructure-logistics",
+    "energy",
+    "commodities-resources",
+    "monetary-policy",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "strategic-competition",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "scenarios": [
+    "Managed flexibility through transparent negotiated tariff waivers",
+    "Selective deepening through external accords and customs facilitation",
+    "Prolonged institutional paralysis and regulatory divergence",
+    "Asymmetric redesign of founding-member commitments",
+    "Formal withdrawal following Treaty of Asunción Articles 21 and 22"
+  ],
+  "contrary_evidence": [
+    "An intergovernmental customs union can accommodate varying domestic ideologies without formal dissolution.",
+    "Intra-regional production and neighboring logistics can remain economically significant even when global commodity export shares increase.",
+    "Unilateral trade autonomy might reduce selected input costs but can also create origin-rule and market-access costs.",
+    "A signed bilateral trade agreement does not prove its complete implementation or legal incompatibility with Mercosur.",
+    "The EU interim trade agreement's provisional application is not the full partnership's final ratification."
+  ],
+  "producer_checks": {
+    "information_cutoff": "30 October 2026, America/Sao_Paulo; primary material spans 1991–2026 with 2023 Mercosur goods trade, 2025 Brazil shares and October 2026 law/status cited separately.",
+    "research_depth": "EN 5,769 and PT-BR 6,192 whitespace-delimited words including numbered sources; 29 substantive chapters, structured scenario matrix, industrial and legal withdrawal analysis per locale.",
+    "visual_signature": "Two reproducible bar charts, one geographic exposure map, one causal flow, one mindmap and three evidence tables per locale. 2023 export destination percentages and Oct 2026 authorized tariff exception maxima explicitly distinguished.",
+    "bilingual_parity": "Both drafts have chapters numbered 1–29 in the same order; exactly 25 numbered references and the same five visual types/order. Numeric series 29/14/12 and 100/100/649/225 identical.",
+    "source_check": "25 individually identifiable bibliographic URLs in both languages including Mercosur, Argentine treaty source, Brazilian MRE/MDIC, European Commission/Parliament, USTR, IMF, EFTA, Singapore and India; producer evidence check performed, independent QA still mandatory.",
+    "methodology": "Facts, attributed positions, and conditional scenario mechanisms separated. No fabricated exit probability or economic-loss estimate. Trade export shares use different populations and vintages transparently.",
+    "editorial_status": "Staged bilingual draft submitted for independent QA. No public publication or independent approval is asserted.",
+    "source_blob_shas": {
+      "en": "fbd4d79ca66730373bae0226733710ba04737fdb",
+      "pt-BR": "1803e93eabfbe25e1a004dde284ba9ce55e8b186"
+    }
+  }
+}
