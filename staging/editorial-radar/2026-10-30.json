@@ -2,9 +2,9 @@
   "schema_version": 1,
   "date": "2026-10-30",
   "checked_at": "2026-10-30T08:02:07Z",
-  "scope": "Bounded screening of all 27 active registered editorial lines. Sources: 29 Oct BEA GDP and PCE, US Treasury, ECB, EU ECFIN, ICI money-market assets, EIA gas storage; 30 Oct BOJ decision; 28 Oct World Bank commodity outlook; WHO 23 Oct Bundibugyo update, FAO price-release schedule, WOAH animal-health guidance. Risk/attribution and vintage limitations preserved. Absence of new article is not proof of absence of global events.",
+  "scope": "Bounded screening of all 28 active registered editorial lines. Sources: 29 Oct BEA GDP and PCE, US Treasury, ECB, EU ECFIN, ICI money-market assets, EIA gas storage; 30 Oct BOJ decision; 28 Oct World Bank commodity outlook; WHO 23 Oct Bundibugyo update, FAO price-release schedule, WOAH animal-health guidance. Risk/attribution and vintage limitations preserved. Absence of new article is not proof of absence of global events.",
   "registry_updated_at": "2026-10-29T19:24:57.745Z",
-  "reviewed_line_count": 27,
+  "reviewed_line_count": 28,
   "reviewed_lines": [
     {
       "registry_id": "editorial-global-macro-daily",
@@ -194,6 +194,13 @@
       "program": "global-system-power",
       "decision": "watch_no_article",
       "note": "World Bank energy/food shipping risks screened; no primary verified new operational port, pipeline or corridor throughput delta. Distinguish insurance/price risk from actual closure."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "World Bank October 2026 commodity outlook, EIA 29 October regional gas storage and existing energy/materials research were screened for strategic stocks, reserves, stock-to-use vulnerability, import dependence and physical security. Price forecasts and one regional storage reading do not establish a new globally comparable inventory, emergency reserve, food buffer, medical stockpile or control transfer. No additional standalone report without dated primary stock series and reconciled definitions."
     }
   ],
   "additional_thematic_article": null,
@@ -264,6 +271,9 @@
     "No new 30 Oct primary quantitative pesticide exposure or livestock antibiotic consumption series established.",
     "No new WHO Bundibugyo bulletin after 23 Oct independently verified; earlier article remains under QA rejection.",
     "No completed BOJ ETF sales at revised pace before Jan 2027.",
-    "No independent real-time Gulf oil shipping throughput or new war escalation confirmed."
-  ]
+    "No independent real-time Gulf oil shipping throughput or new war escalation confirmed.",
+    "No dated, definitionally comparable primary global stock series for food buffers, strategic minerals, energy emergency reserves and medical stockpiles was established in this bounded scan."
+  ],
+  "reconciliation_note": "30 October follow-up: one active registered line (editorial-strategic-resource-stocks-security) was omitted from the morning 27-line radar. Reconciled against all 28 active editorial lines in data/system-registry.json; no new report justified on existing primary stock evidence.",
+  "reconciled_at": "2026-10-30T21:23:11Z"
 }
