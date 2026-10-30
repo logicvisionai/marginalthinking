@@ -240,6 +240,15 @@ jobs:
           node -e "const x=require('./dist/data/mcp-catalog.json'); if(!x.items?.length||!x.items.every(i=>i.id&&i.views&&Object.keys(i.views).length)) process.exit(1)"
           echo "Static site validation completed."
 
+      - name: Verify strategic resource inventory article EN/PT and discovery
+        run: |
+          test -s dist/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html
+          test -s dist/pt-br/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html
+          grep -q "The world's strategic resource stocks" dist/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html
+          grep -q 'Os estoques estratégicos do mundo' dist/pt-br/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html
+          grep -q '2026-10-29-world-strategic-resource-stocks-food-health-energy-materials' dist/sitemap.xml
+          node -e 'const fs=require("fs");const id="MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS";const i=JSON.parse(fs.readFileSync("dist/data/reports-index.json","utf8"));const s=JSON.stringify(i);if(!s.includes(id)){console.error("Resource inventory absent in discovery");process.exit(1)}'
+
       - name: Stamp build provenance and verify October 18
         run: |
           node -e 'const fs=require("fs");const a=require("./data/reports.json");const r=a.filter(x=>x.kind==="daily-global-macro").sort((a,b)=>b.date.localeCompare(a.date))[0];fs.writeFileSync("dist/deployment.json",JSON.stringify({sha:process.env.GITHUB_SHA,latest_global_macro:r.id}));'
