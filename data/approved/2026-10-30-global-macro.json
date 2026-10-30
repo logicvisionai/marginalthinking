@@ -1,0 +1,223 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-30",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-30T08:11:53.954Z",
+  "reviewed_commit": "f17a8abddd87d227feb7e3afcc25a3095e6cb14d",
+  "pending_blob_sha": "1fd677fb90917de4c5f1d15dfd937c3f3b801eff",
+  "source_blob_shas": {
+    "en": "b651cfa012968f7e2ef15a6042d6c048a32183eb",
+    "pt-BR": "5a7b6663f1b1873395e7ee0c89b6bccd1176a304"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Read pending v2 and both complete staged Markdown editions at pinned HEAD. Verified exact Git blob SHAs 3/3, matching producer-declared EN/PT-BR SHAs 2/2, ID MT-GM-2026-10-30, revision 1, canonical slug, ready:true, and no prior approval or public metadata for this revision."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Verified BEA 29 Oct advance Q3 GDP 3.4% vs Q2 2.2%, private final domestic sales 4.9%; September real DPI -0.3%, real PCE rounded 0.0%, PCE inflation 3.6% y/y and saving rate 3.8%. US Treasury official daily par 10Y 4.99/5.05/4.98% for Oct 27/28/29 and 2Y 4.67/4.61%. ECB 29 Oct deposit 2.50%, refinancing 2.65%, marginal 2.90%. BOJ original 30 Oct statement: 8-1 hold at 1.25%; unanimous ETF pace change from ¥330bn to ¥860bn book value, effective January 2027; 43 vs 112 years and 0.1% vs 0.05% of trading value. ICI 29 Oct release: money-market fund assets $7,901.28bn, -$43.29bn weekly. EC October ESI 96.9 and euro-area EEI 98.2; World Bank 28 Oct 2026 commodity outlook +23% aggregate, +32% energy, +10% food; EIA 29 Oct regional gas storage East 913 Bcf (+0.2% y/y) and Mountain 258 Bcf (-9.5% y/y). Reuters/AP contemporaneous completed-session market context confirms concentrated technology selloff."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Cutoff 30 Oct 2026 05:00 BRT (08:00 UTC); BEA, ECB, EC, Treasury, ICI, EIA and US market observations released/completed Oct 29; BOJ statement released 30 Oct 12:02 JST (00:02 BRT). Monthly vs quarterly, observed vs forecast and book value vs market value are distinguished. BOJ ETF pace acceleration is scheduled for January 2027, not an immediate full liquidation."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Twelve numbered bibliography references per language, identical source URLs, with official BEA, Treasury, ECB, BOJ, ICI, European Commission, World Bank and EIA primary evidence and Reuters for market context. Each major number checked against source observation period and instrument; references appear in the end section. Source URLs are dynamic for ICI, EIA and EC and must be rechecked against their dated 29 Oct 2026 release if later updated."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2274,
+        "pt-BR": 2650
+      },
+      "summary": "Both exceed 1,700 substantive-word daily threshold after stripping fenced visuals and URLs. Seven H2 headings per edition including bibliography, six analytical sections; mechanism of GDP-income divergence, Treasury financing, AI capex/cash returns, euro-area energy exposure and BOJ balance-sheet normalization is continuous and includes counterevidence and falsifiable monitoring points."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain one six-row quantitative evidence table, three source-derived charts (Q2/Q3 GDP 2.2/3.4%, Aug/Sep real DPI 0.0/-0.3%, Oct 27/28/29 10Y Treasury 4.99/5.05/4.98%), one four-chain causal flow and one five-region qualitative transmission map. Identical chart numeric series and equivalent period/unit/qualifications; no interpolated, fabricated or dimensionally mixed chart data. Visual count 6 per edition meets brief minimum and stricter depth-script chart threshold."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Institutional English and natural Brazilian Portuguese; numbered source markers in body with full bibliographic URLs at end. Separates observed facts, inferential explanations and conditional scenarios. No product-roadmap commentary, internal QA labels, decorative visuals or investment recommendation; regional interpretation acknowledges missing borrower-level spreads and unobserved portfolio transactions."
+    },
+    "translation_parity": {
+      "result": "passed",
+      "summary": "Complete EN and PT-BR editions reviewed; all twelve source URLs, three chart numeric series, BOJ votes and ETF amounts, ECB rates, Treasury and BEA observations, forecasts, risk conditions and interpretive limitations correspond."
+    },
+    "novelty_against_corpus": {
+      "result": "passed",
+      "summary": "Compared public Global Macro 28 and 29 October editions: Oct 28 focused SK hynix memory supply commitments; Oct 29 focused Fed/BoC divergence and Treasury steepening. Oct 30 adds BEA Q3 GDP/September real income divergence, post-earnings equity reaction, ECB 29 Oct hold, EC sentiment and BOJ 30 Oct ETF disposal decision; not merely a date refresh."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Robust 4.9% private final domestic sales and positive Russell 2000 performance constrain a broad-recession or universal-AI-capitulation narrative. Higher European employment expectations coexist with lower sentiment; BOJ ETF sales remain conditional and future-dated. Falsifiers include subsequent US real income/consumption, hyperscaler free cash flow and orders, energy costs, credit spreads and actual BOJ disposals."
+    },
+    "conflict_security_attribution": {
+      "result": "passed",
+      "summary": "Energy and commodity shocks attributed to dated World Bank scenario assumptions; conflict and weather risks are not presented as measured future outcomes or independent verified loss estimates."
+    },
+    "validator_contract": {
+      "result": "passed",
+      "summary": "Inspected scripts/validate-editorial-depth.mjs, scripts/validate-pipeline.mjs and scripts/lib/visuals.mjs; independently checked candidate-specific thresholds, taxonomy and source paths, EN/PT chart signatures, table/flow/map counts, dates, references and conditional reasoning. GitHub Actions build job for pinned HEAD completed successfully and logged Pipeline validation OK (155 public bundles; 1 unpublished pending; 1 approved unpublished) and Editorial depth validation OK (101 public/revised artifacts). Draft is not included in the default depth validator until approved; local full-repository Node execution unavailable due GitHub clone DNS failure."
+    }
+  },
+  "contrary_evidence": [
+    "US private domestic final sales increased 4.9% annualised and Russell 2000 advanced despite Nasdaq losses; the weakness is not uniform.",
+    "ECB October employment expectations improved despite lower sentiment; consumer weakness does not prove a broad labour collapse.",
+    "BOJ ETF sales are scheduled from January 2027 and may be adjusted or suspended; immediate liquidity impact is not observed."
+  ],
+  "limitations": [
+    "GDP is advance quarterly estimate; September income/PCE is a separate monthly vintage and must not be read as quarterly GDP reversal.",
+    "No verified borrower-level credit spreads, international investor transaction flows or decomposition of Treasury term premium.",
+    "BOJ ETF price effects require observed sales after January 2027; 43-year completion is a mechanical scenario.",
+    "World Bank commodity prices are forecasts, not observed spot prices; EIA gas stocks are regional, not global crude data.",
+    "Asian intraday price data and later 30 October releases after 05:00 BRT are excluded.",
+    "The current source-specific checks do not establish borrower-level credit-spread decomposition or causal identification of equity sellers; Reuters market reaction is context, not proof of investment-flow direction.",
+    "ICI, EIA and European Commission source pages update over time; the checked release vintage is 29 October 2026.",
+    "The full repository-wide Node validators were confirmed in the pre-approval GitHub Actions build, not rerun locally after approval."
+  ],
+  "notes": "Independent QA approval for the immutable staged revision 1, not publication confirmation. No reports/**, public index, CSS, taxonomy or institutional content changed. Public promotion remains exclusively the publisher's responsibility.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-10-30",
+    "slug": "2026-10-30-global-macro",
+    "date": "2026-10-30",
+    "published_at": "2026-10-30T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "commodities-resources",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-30-global-macro/en.md",
+        "title": "Global Macro — Strong US growth meets falling real income and a reassessment of AI financing",
+        "deck": "US GDP accelerated to 3.4% annualised while September real disposable income fell; Treasury yields declined, technology shares sold off, and Japan changed its future ETF disposal pace.",
+        "tags": [
+          "Global Macro",
+          "US GDP",
+          "Real disposable income",
+          "AI investment",
+          "ECB",
+          "Bank of Japan"
+        ],
+        "keywords": [
+          "October 2026 US GDP",
+          "September 2026 PCE",
+          "Treasury yields",
+          "AI capex",
+          "BOJ ETF sales",
+          "ECB policy",
+          "ICI money market funds"
+        ],
+        "regime": "Selective capital allocation and household purchasing-power pressure despite robust quarterly US activity.",
+        "key_risk": "Energy inflation and expensive project financing undermine household demand and AI cash returns despite measured output strength.",
+        "watch": [
+          "US October real income and spending, 25 November",
+          "AI hyperscaler free cash flow and equipment orders",
+          "European consumer confidence and financing conditions",
+          "BOJ ETF sales beginning January 2027",
+          "Energy physical inventories and transport"
+        ],
+        "search_text": "30 October 2026 global macro US GDP 3.4 percent real disposable income -0.3 September PCE 3.6 percent ECB hold 2.50 BOJ 1.25 ETF sales 860 billion yen Nasdaq decline"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-30-global-macro/pt-BR.md",
+        "title": "Global Macro — Crescimento forte nos EUA contrasta com perda de renda real e revisão dos investimentos em IA",
+        "deck": "O PIB americano acelerou para 3,4% anualizados, mas a renda real disponível caiu em setembro; Treasuries recuaram, ações de tecnologia perderam valor e o Japão alterou as vendas futuras de ETFs.",
+        "tags": [
+          "Global Macro",
+          "PIB dos EUA",
+          "Renda real disponível",
+          "Investimento em IA",
+          "BCE",
+          "Banco do Japão"
+        ],
+        "keywords": [
+          "PIB americano outubro 2026",
+          "PCE setembro 2026",
+          "juros Treasuries",
+          "investimentos em IA",
+          "venda ETFs BOJ",
+          "BCE juros",
+          "fundos monetários ICI"
+        ],
+        "regime": "Alocação seletiva de capital e pressão sobre o poder de compra apesar da atividade trimestral americana robusta.",
+        "key_risk": "Inflação energética e custo do financiamento de projetos comprimem consumo e retorno da IA apesar do crescimento observado.",
+        "watch": [
+          "Renda e consumo reais americanos de outubro, 25 de novembro",
+          "Fluxo de caixa livre de operadores de nuvem e pedidos de equipamentos",
+          "Confiança europeia e condições de crédito",
+          "Vendas de ETFs pelo BOJ a partir de janeiro de 2027",
+          "Estoques físicos e transporte de energia"
+        ],
+        "search_text": "Global Macro 30 outubro 2026 PIB EUA 3,4 por cento renda real disponível menos 0,3 setembro PCE 3,6 BCE mantém 2,50 BOJ 1,25 vendas ETFs 860 bilhões ienes Nasdaq"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "2026-10-30 05:00 BRT (08:00 UTC). US/European releases and completed sessions 29 Oct; BOJ 30 Oct 12:02 JST decision included.",
+      "novelty": "Compared 27, 28, 29 Oct MT-GM. New BEA 29 Oct GDP 3.4% Q3 and September real DPI -0.3%, PCE inflation 3.6% y/y; ECB 29 Oct hold, EU October sentiment, 30 Oct BOJ 8-1 hold and scheduled ETF disposal acceleration; 29 Oct US Treasury yield decline and technology-heavy equity divergence. Distinct from prior Brazil shock, memory supplier contracts and Fed/BoC decision.",
+      "source_check": "12 numbered references in each locale; BEA, Treasury, ECB, BOJ, European Commission, ICI, World Bank, EIA primary; Reuters limited to market settlements and earnings context. Observation dates and measurement definitions separated.",
+      "visual_signature": "Both editions contain one 6-row evidence table, three quantitative charts with identical values (GDP 2.2/3.4, real DPI 0.0/-0.3, Treasury 4.99/5.05/4.98), one four-chain causal flow and one five-region map.",
+      "bilingual_parity": "Same 12 source URLs and numbered references, identical 3 chart series, monetary policy levels, BOJ ETF amounts and dates, BEA price and income measures, source-vintage caveats and conditional scenarios.",
+      "research_depth": "English 2489 substantive words; Portuguese 2884 substantive words, excluding chart fences and source URLs.",
+      "source_shas": {
+        "en": "b651cfa012968f7e2ef15a6042d6c048a32183eb",
+        "pt-BR": "5a7b6663f1b1873395e7ee0c89b6bccd1176a304"
+      }
+    },
+    "contrary_evidence": [
+      "US private domestic final sales increased 4.9% annualised and Russell 2000 advanced despite Nasdaq losses; the weakness is not uniform.",
+      "ECB October employment expectations improved despite lower sentiment; consumer weakness does not prove a broad labour collapse.",
+      "BOJ ETF sales are scheduled from January 2027 and may be adjusted or suspended; immediate liquidity impact is not observed."
+    ],
+    "limitations": [
+      "GDP is advance quarterly estimate; September income/PCE is a separate monthly vintage and must not be read as quarterly GDP reversal.",
+      "No verified borrower-level credit spreads, international investor transaction flows or decomposition of Treasury term premium.",
+      "BOJ ETF price effects require observed sales after January 2027; 43-year completion is a mechanical scenario.",
+      "World Bank commodity prices are forecasts, not observed spot prices; EIA gas stocks are regional, not global crude data.",
+      "Asian intraday price data and later 30 October releases after 05:00 BRT are excluded."
+    ]
+  }
+}
