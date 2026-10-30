@@ -247,7 +247,7 @@ jobs:
           grep -q "The world's strategic resource stocks" dist/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html
           grep -q 'Os estoques estratégicos do mundo' dist/pt-br/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html
           grep -q '2026-10-29-world-strategic-resource-stocks-food-health-energy-materials' dist/sitemap.xml
-          node -e 'const fs=require("fs");const id="MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS";const i=JSON.parse(fs.readFileSync("dist/data/reports-index.json","utf8"));const s=JSON.stringify(i);if(!s.includes(id)){console.error("Resource inventory absent in discovery");process.exit(1)}'
+          node -e 'const fs=require("fs");const id="MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS";const i=JSON.parse(fs.readFileSync("dist/data/search-index.json","utf8"));for(const loc of ["en","pt-BR"]){const found=i.locales?.[loc]?.find(v=>v.type==="report"&&v.id===id);if(!found){console.error("Resource inventory absent in "+loc+" discovery index");process.exit(1)}}'
 
       - name: Stamp build provenance and verify October 18
         run: |
