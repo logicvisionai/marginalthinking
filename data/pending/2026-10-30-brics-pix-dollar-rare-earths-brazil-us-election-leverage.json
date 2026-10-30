@@ -96,7 +96,7 @@
     "level": "multi-country",
     "regions": [
       "americas",
-      "asia",
+      "asia-pacific",
       "europe",
       "africa"
     ],
@@ -177,7 +177,7 @@
     "research_depth": "Portuguese ~8,239 and English ~6,603 whitespace-delimited words including documentary references. 30 substantive numbered sections in each language with causal mechanisms, competing interpretations, four conditional scenarios and explicit evidence gap tests.",
     "source_check": "32 numbered documentary references per locale with exactly matching URLs: India PMO BRICS declaration, Lula 2023/2026 statements, BCB Pix, BIS, USTR Section 301, Brazil MDIC, USGS 2026, IEA 2026, DFC mineral financing, TSE electoral result, Reuters/NYT-Folha on Flávio. Producer source-consistency review; independent QA required.",
     "visual_signature": "Four sourced quantitative paired bar charts (BIS 89.2/28.9/8.5 currency sides; USGS REO reserves 44/21/6.3/3.8/1.9; USGS REO mine output 270/51/29/2 thousands; TSE 64.256232/59.826041 million votes), two causal flow diagrams, one institutional mindmap, one regional economic exposure map and four audit tables per locale.",
-    "bilingual_parity": "30 matching chapter concepts, 32/32 reference URLs identical, visual types/order chart-flow-map-chart-chart-chart-flow-mindmap, common numerical values, confidence qualifications and no unsupported secret-agreement assertion in either language.",
+    "bilingual_parity": "30 matching chapter concepts, 32 identical reference URLs, eight paired visual types (chart, flow, map, chart, chart, chart, flow, mindmap), matched core numeric claims and the same explicit uncertainty over unproven cross-issue bargaining.",
     "methodology": "Distinguishes attributed US and Brazilian positions from observed law, institutional currency proposal from payment interoperability, reserve versus production, monetary share versus transaction value, pre-election trade talks versus post-election political crisis. Hypothesis of cross-conditionality left unproven.",
     "editorial_status": "Bilingual staged research submitted for independent editorial QA; public publication remains blocked until immutable SHA-based approval.",
     "source_blob_shas": {
