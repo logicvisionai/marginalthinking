@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-29T19:24:57.745Z",
+  "last_reconciled_at": "2026-10-30T08:13:11.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7405,6 +7405,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Aircraft cargo, shipping networks and port connectivity metrics are operational transport statistics rather than validation of a new technology performance milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-10-30T08:13:11.000Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-30"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The approved 30 October brief connects US real-income weakness, Treasury financing conditions and AI capital expenditure, but supplies no verified bilateral exposure, ownership or capital-flow edge sufficient to modify the canonical dependency network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "AI financing repricing is relevant to prospective infrastructure returns, but the report does not establish verified project-level cost, capacity, cash-flow and bottleneck comparisons for an atlas opportunity. Specialist structural review required."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Reviewed the ECB and Bank of Japan policy decisions and BOJ's future ETF disposal schedule; the approved evidence establishes no new legal control, beneficial ownership or durable institutional relationship that requires an actor-map change."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed the energy-inventory and macro-financing observations; no documented transfer of physical-resource title, operating control or beneficial ownership is established by the report."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The ECB hold and BOJ announced ETF-disposal timetable are policy observations; no observed post-implementation outcome and credible counterfactual are supplied for a new evaluated policy-case record."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Energy-price and transport risks appear as macroeconomic transmission or conditional scenarios, not as a newly verified conflict event or change in a documented conflict-system record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "The report describes AI capital expenditure and financing expectations, but no independently validated engineering performance, deployment maturity or adoption milestone warrants changing the technology-signal ledger."
         }
       ]
     }

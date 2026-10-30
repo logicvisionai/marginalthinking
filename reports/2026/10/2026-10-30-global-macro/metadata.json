@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-30",
+  "slug": "2026-10-30-global-macro",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "energy",
+    "commodities-resources",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "2026-10-30 05:00 BRT (08:00 UTC). US/European releases and completed sessions 29 Oct; BOJ 30 Oct 12:02 JST decision included.",
+    "novelty": "Compared 27, 28, 29 Oct MT-GM. New BEA 29 Oct GDP 3.4% Q3 and September real DPI -0.3%, PCE inflation 3.6% y/y; ECB 29 Oct hold, EU October sentiment, 30 Oct BOJ 8-1 hold and scheduled ETF disposal acceleration; 29 Oct US Treasury yield decline and technology-heavy equity divergence. Distinct from prior Brazil shock, memory supplier contracts and Fed/BoC decision.",
+    "source_check": "12 numbered references in each locale; BEA, Treasury, ECB, BOJ, European Commission, ICI, World Bank, EIA primary; Reuters limited to market settlements and earnings context. Observation dates and measurement definitions separated.",
+    "visual_signature": "Both editions contain one 6-row evidence table, three quantitative charts with identical values (GDP 2.2/3.4, real DPI 0.0/-0.3, Treasury 4.99/5.05/4.98), one four-chain causal flow and one five-region map.",
+    "bilingual_parity": "Same 12 source URLs and numbered references, identical 3 chart series, monetary policy levels, BOJ ETF amounts and dates, BEA price and income measures, source-vintage caveats and conditional scenarios.",
+    "research_depth": "English 2489 substantive words; Portuguese 2884 substantive words, excluding chart fences and source URLs.",
+    "source_shas": {
+      "en": "b651cfa012968f7e2ef15a6042d6c048a32183eb",
+      "pt-BR": "5a7b6663f1b1873395e7ee0c89b6bccd1176a304"
+    }
+  },
+  "contrary_evidence": [
+    "US private domestic final sales increased 4.9% annualised and Russell 2000 advanced despite Nasdaq losses; the weakness is not uniform.",
+    "ECB October employment expectations improved despite lower sentiment; consumer weakness does not prove a broad labour collapse.",
+    "BOJ ETF sales are scheduled from January 2027 and may be adjusted or suspended; immediate liquidity impact is not observed."
+  ],
+  "limitations": [
+    "GDP is advance quarterly estimate; September income/PCE is a separate monthly vintage and must not be read as quarterly GDP reversal.",
+    "No verified borrower-level credit spreads, international investor transaction flows or decomposition of Treasury term premium.",
+    "BOJ ETF price effects require observed sales after January 2027; 43-year completion is a mechanical scenario.",
+    "World Bank commodity prices are forecasts, not observed spot prices; EIA gas stocks are regional, not global crude data.",
+    "Asian intraday price data and later 30 October releases after 05:00 BRT are excluded."
+  ],
+  "url": "/reports/2026/10/2026-10-30-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-10-30T08:11:53.954Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "f17a8abddd87d227feb7e3afcc25a3095e6cb14d",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Strong US growth meets falling real income and a reassessment of AI financing",
+      "deck": "US GDP accelerated to 3.4% annualised while September real disposable income fell; Treasury yields declined, technology shares sold off, and Japan changed its future ETF disposal pace.",
+      "tags": [
+        "Global Macro",
+        "US GDP",
+        "Real disposable income",
+        "AI investment",
+        "ECB",
+        "Bank of Japan"
+      ],
+      "keywords": [
+        "October 2026 US GDP",
+        "September 2026 PCE",
+        "Treasury yields",
+        "AI capex",
+        "BOJ ETF sales",
+        "ECB policy",
+        "ICI money market funds"
+      ],
+      "regime": "Selective capital allocation and household purchasing-power pressure despite robust quarterly US activity.",
+      "key_risk": "Energy inflation and expensive project financing undermine household demand and AI cash returns despite measured output strength.",
+      "watch": [
+        "US October real income and spending, 25 November",
+        "AI hyperscaler free cash flow and equipment orders",
+        "European consumer confidence and financing conditions",
+        "BOJ ETF sales beginning January 2027",
+        "Energy physical inventories and transport"
+      ],
+      "search_text": "30 October 2026 global macro US GDP 3.4 percent real disposable income -0.3 September PCE 3.6 percent ECB hold 2.50 BOJ 1.25 ETF sales 860 billion yen Nasdaq decline"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Crescimento forte nos EUA contrasta com perda de renda real e revisão dos investimentos em IA",
+      "deck": "O PIB americano acelerou para 3,4% anualizados, mas a renda real disponível caiu em setembro; Treasuries recuaram, ações de tecnologia perderam valor e o Japão alterou as vendas futuras de ETFs.",
+      "tags": [
+        "Global Macro",
+        "PIB dos EUA",
+        "Renda real disponível",
+        "Investimento em IA",
+        "BCE",
+        "Banco do Japão"
+      ],
+      "keywords": [
+        "PIB americano outubro 2026",
+        "PCE setembro 2026",
+        "juros Treasuries",
+        "investimentos em IA",
+        "venda ETFs BOJ",
+        "BCE juros",
+        "fundos monetários ICI"
+      ],
+      "regime": "Alocação seletiva de capital e pressão sobre o poder de compra apesar da atividade trimestral americana robusta.",
+      "key_risk": "Inflação energética e custo do financiamento de projetos comprimem consumo e retorno da IA apesar do crescimento observado.",
+      "watch": [
+        "Renda e consumo reais americanos de outubro, 25 de novembro",
+        "Fluxo de caixa livre de operadores de nuvem e pedidos de equipamentos",
+        "Confiança europeia e condições de crédito",
+        "Vendas de ETFs pelo BOJ a partir de janeiro de 2027",
+        "Estoques físicos e transporte de energia"
+      ],
+      "search_text": "Global Macro 30 outubro 2026 PIB EUA 3,4 por cento renda real disponível menos 0,3 setembro PCE 3,6 BCE mantém 2,50 BOJ 1,25 vendas ETFs 860 bilhões ienes Nasdaq"
+    }
+  }
+}
