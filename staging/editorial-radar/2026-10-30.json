@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "checked_at": "2026-10-30T08:02:07Z",
+  "scope": "Bounded screening of all 27 active registered editorial lines. Sources: 29 Oct BEA GDP and PCE, US Treasury, ECB, EU ECFIN, ICI money-market assets, EIA gas storage; 30 Oct BOJ decision; 28 Oct World Bank commodity outlook; WHO 23 Oct Bundibugyo update, FAO price-release schedule, WOAH animal-health guidance. Risk/attribution and vintage limitations preserved. Absence of new article is not proof of absence of global events.",
+  "registry_updated_at": "2026-10-29T19:24:57.745Z",
+  "reviewed_line_count": 27,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "new_pending_qa",
+      "note": "MT-GM-2026-10-30 staged: BEA Q3 GDP +3.4% annualised versus September real DPI -0.3%, ECB hold, BOJ ETF-sale schedule, Treasury 29 Oct repricing."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "ICI 29 Oct money-market assets $7.901tn, weekly change -$43.29bn; distinguish flow proxy, valuation, holdings and beneficial control. Weekly producer owns full assessment."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "BOJ ETF disposal changes future Japanese market structure; Japan transition is already covered by country context and staged Atlas hypothesis, not a new national dossier."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "US quarterly-versus-monthly demand and Japan policy normalization screened; no standalone country dossier with independently validated structural delta."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "covered_in_macro",
+      "note": "AI capex and earnings repricing examined as finance evidence; no new replicated technical capability or deployment stage proven by equity selloff."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI equipment imports and cloud cash returns require verified utilization, customer revenues and commissioning; earnings disappointment is not a technology maturity transition."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "World Bank October commodity scenario links Middle East conflict to energy and food supply; no independent new military operation or throughput measure verified for a separate conflict system."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "BOJ ownership of ETF assets documented, but sale schedule is not transfer of control completed; no new full strategic actor profile justified."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "ECB 29 Oct hold 2.50% deposit and BOJ 30 Oct hold 1.25% with separate ETF sales schedule; Fed 28 Oct decision background."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "BOJ 30 Oct unanimous ETF sale acceleration from ¥330bn to ¥860bn annually from Jan 2027; distinguished from rate vote 8–1."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "BOJ future sales cannot yet support an ex-post policy case; observe implementation and liquidity effects from January 2027."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "atlas_candidate",
+      "note": "BOJ reduction of public ETF holdings changes expected equity supply, but market-design consequences remain a hypothesis pending actual trading."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "ICI money-market asset decline and BOJ future ETF sales are distinct cash/stock/control categories; no new monthly global control dataset."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No newly observed comparable annual beneficial ownership or strategic control data; do not extrapolate weekly money-fund assets."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "BOJ and ECB operating mandates and asset-runoff decisions examined; no separate institutional system article beyond already documented mechanisms."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "EU October sentiment and ECB decision do not constitute new regional integration agreement or settlement infrastructure."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI infrastructure spending and technology shares do not measure worker displacement or productivity diffusion; no new verified social transformation."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "World Bank 28 Oct projects 2026 food commodity prices +10% and 2027 +7%; FAO September food price index is latest completed monthly release. Pesticide exposure and regulation, healthy-diet affordability, farm productivity, nutrition and rural distribution screened; no fresh comparable exposure/outcome data supports separate article."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "WOAH animal-health reporting standards, livestock management and veterinary antibiotic/AMR governance screened; no newly verified cross-border change in animal outbreak, antimicrobial use or chemical/biological weapons safeguards. Do not infer hazard equals exposure."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Middle East energy supply assumptions in World Bank baseline and adverse scenario screened. Major-power war remains conditional; no confirmed new military capability, attack attribution or physical throughput delta."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_existing",
+      "note": "WHO 23 Oct Bundibugyo bulletin reports 9,704 confirmed cases in DRC as of 20 Oct; staged 26 Oct article has QA rejection. No independently newer situation report verified for another publication. Avoid equating imported cases with sustained spread outside documented clusters."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new archival evidence affecting historical/intellectual research; recent political-economy and AI arguments are not new historical source material."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "World Bank 28 Oct energy +32% forecast and EIA 29 Oct regional gas storage vintage screened; no newly commissioned energy system or independently confirmed capacity change."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Brazil post-election repricing was covered on 27 Oct; no newly verified fiscal decree, sovereign issuance change or investor attribution justifying another election article."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Commodity Outlook discusses energy, metals and food exposure; price forecasts do not document a new concession, resource ownership or sovereign control change."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "AI equipment investment and energy price risks reviewed; no verified new cross-border grid operation, Itaipu governance change or commissioned data-centre electricity connection."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "World Bank energy/food shipping risks screened; no primary verified new operational port, pipeline or corridor throughput delta. Distinguish insurance/price risk from actual closure."
+    }
+  ],
+  "additional_thematic_article": null,
+  "selection_reason": "Global Macro contains the material 29–30 Oct cross-asset and policy delta. BOJ ETF sales are a staged Atlas structural hypothesis, not an observed 2027 execution. World Bank commodity outlook is forecast rather than newly measured farm/health outcomes. WHO Bundibugyo subject already has a 26 Oct rejected staged article; no duplicate. No second theme meets primary-evidence and corpus-novelty gates.",
+  "sources_checked": [
+    {
+      "name": "BEA Q3 GDP advance",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "BEA September personal income and PCE",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "ECB monetary policy",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "BOJ policy and ETF disposals",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "US Treasury daily yields",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "ICI money market fund assets",
+      "url": "https://www.ici.org/research/stats/mmf",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "European Commission business and consumer surveys",
+      "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "World Bank Commodity Markets Outlook",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "WHO Bundibugyo Disease Outbreak News",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "FAO Food Price Index release schedule",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "WOAH Avian Influenza surveillance framework",
+      "url": "https://www.woah.org/en/disease/avian%20influenza/",
+      "date": "undated guidance"
+    },
+    {
+      "name": "EIA Weekly Natural Gas Storage",
+      "url": "https://www.eia.gov/naturalgas/storage/",
+      "date": "2026-10-29"
+    }
+  ],
+  "evidence_gaps": [
+    "No new 30 Oct primary quantitative pesticide exposure or livestock antibiotic consumption series established.",
+    "No new WHO Bundibugyo bulletin after 23 Oct independently verified; earlier article remains under QA rejection.",
+    "No completed BOJ ETF sales at revised pace before Jan 2027.",
+    "No independent real-time Gulf oil shipping throughput or new war escalation confirmed."
+  ]
+}
