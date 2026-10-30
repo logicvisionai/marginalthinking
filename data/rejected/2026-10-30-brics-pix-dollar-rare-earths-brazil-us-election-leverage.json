@@ -1,0 +1,87 @@
+{
+  "schema_version": 2,
+  "id": "MT-GSP-2026-10-30-BRICS-PIX-RARE-EARTHS-BRAZIL-US",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-30T21:06:23.879Z",
+  "reviewed_commit": "48e24d2913cb6107a1d6d4193c0d411a66d5adf2",
+  "pending_blob_sha": "914dbbe11e7f2cd184dd594b0ce3fc473c7cf621",
+  "source_blob_shas": {
+    "en": "f56848f1862bba4e76f0f71b8c6d361ada76d3f6",
+    "pt-BR": "9c3d675c7efd8bb0bd072cfb0904d16c2e207d7d"
+  },
+  "program": "global-system-power",
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "type": "editorial_publication_readiness",
+      "location": "data/pending/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage.json: \"kind\" = \"monetary-infrastructure-resource-geoeconomics-research\"; data/system-registry.json: assets[type=\"editorial-line\"][].kind; SYSTEM-REGISTRY.md: \"Editorial-line coverage\"",
+      "issue": "The ready:true candidate declares a new publication kind that has no active editorial-line entry in the canonical registry (28 registered editorial lines checked). Under SYSTEM-REGISTRY.md every report from the enforcement date must map by exact kind to a registered editorial line. QA cannot approve an immutable publication snapshot whose kind will fail the public registry/reconciliation gate.",
+      "evidence": [
+        "Reviewed pending Git blob 914dbbe11e7f2cd184dd594b0ce3fc473c7cf621 has kind \"monetary-infrastructure-resource-geoeconomics-research\", revision 1 and ready:true.",
+        "Canonical data/system-registry.json Git blob 94b56f49ef9b035682c56af8c7ebc9da54b723a7 has 28 editorial-line entries; none matches the candidate kind.",
+        "An existing active line \"global-institution-system\" is registered under program \"global-system-power\"; alternative existing kinds must be selected by substantive editorial fit, not merely to satisfy the validator.",
+        "SYSTEM-REGISTRY.md requires an exact registered editorial-line match for all new public report kinds; public promotion without that mapping would violate institutional governance."
+      ]
+    }
+  ],
+  "required_fixes": [
+    "Producer must classify this research under an existing active registered kind consistent with its primary Global System & Power scope (for example evaluate \"global-institution-system\"), or obtain an authorized, separate registry-maintenance decision before resubmission. QA must not change data/system-registry.json or controlled taxonomy.",
+    "If kind changes, update data/pending/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage.json to revision 2, retain canonical ID and slug, verify both EN/PT-BR staged source SHAs and refresh producer checks; then mark ready:true for a new independent QA decision.",
+    "Do not publish or modify reports/**, public indexes, CSS or institutional copy before approval."
+  ],
+  "evidence": [
+    "Exact staged Git blobs: pending 914dbbe11e7f2cd184dd594b0ce3fc473c7cf621; EN f56848f1862bba4e76f0f71b8c6d361ada76d3f6; PT-BR 9c3d675c7efd8bb0bd072cfb0904d16c2e207d7d.",
+    "Independent spot checks confirmed the BIS April 2025 FX shares 89.2/28.9/8.5, TSE 25 October 2026 official 64,256,232/59,826,041 votes, USTR June/July 2026 Section 301 decisions, BRICS New Delhi paragraph 90 and DFC SVRE/Pela Ema US$465m financing notice.",
+    "Both editions have 30 numbered analytical chapters plus method and references, 32 matching numbered reference URLs, four quantitative charts, two flows, one map, one mindmap and four tables.",
+    "Public metadata and approval for this slug absent at 48e24d2913cb6107a1d6d4193c0d411a66d5adf2; no prior rejection exists."
+  ],
+  "taxonomy_issues": [],
+  "checks": {
+    "schema_and_taxonomy": {
+      "result": "partial",
+      "notes": "Pending v2, canonical ID/slug, controlled primary program and research-report format verified; publication kind is not registered in the mandatory editorial-line registry."
+    },
+    "research_depth": {
+      "result": "passed",
+      "en_words": 6602,
+      "pt_br_words": 8238,
+      "en_h2": 32,
+      "pt_br_h2": 32,
+      "source_urls_each": 32,
+      "notes": "Both full staged editions inspected; depth floor satisfied; substantive chapters distinguish money, settlement, reserves, processing and political bargaining."
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "notes": "Primary sources and key numeric claims spot-checked (BIS, USTR, TSE, India PMO, DFC); complete independent source-by-source audit deferred because mandatory registry classification already blocks publication."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "notes": "Competing explanations and four conditional scenarios are explicit; no documentary proof of migration-for-minerals or Pix concessions is claimed."
+    },
+    "translation_check": {
+      "result": "passed",
+      "notes": "30 corresponding numbered chapters, 32 matching reference URLs and matching quantitative chart values and visual types."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "notes": "The publication kind has no matching editorial-line in data/system-registry.json; immutable QA approval would be ineligible for public promotion."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "notes": "Four sourced paired quantitative charts, four paired tables and four structural visuals per locale; visual values and units agree across locales. BIS and TSE chart values independently verified; USGS values checked against published MCS-derived data."
+    },
+    "pipeline_validation": {
+      "result": "not_executed",
+      "notes": "Repository checkout unavailable (container GitHub DNS failure); no commit-specific CI runs or status checks were returned for the reviewed HEAD. This is not a claim that validators passed."
+    }
+  },
+  "contrary_evidence": [
+    "The substantive draft is unusually developed and key primary source numbers match; rejection concerns the mandatory institutional publication contract, not an assertion that the underlying geoeconomic analysis is false."
+  ],
+  "limitations": [
+    "Full Node validation scripts were not executed because the GitHub connector provides file reads/writes but no executable checkout, and container GitHub DNS resolution failed.",
+    "Source spot-checks are not a complete verification of all 32 references; subsequent QA must revalidate after the producer corrects classification."
+  ],
+  "notes": "Independent QA. Retrabalho routed to thematic/daily producer 1/5. No public files, taxonomy, CSS, institutional content, system registry or indexes changed."
+}
