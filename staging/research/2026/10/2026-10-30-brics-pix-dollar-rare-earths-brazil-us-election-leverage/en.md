@@ -146,6 +146,17 @@ Brazil's Mercosur membership creates a separate layer of commitments. A BRICS pa
 
 US policy can combine commercial outreach with pressure on selected practices. Brazilian policy can welcome American capital for minerals while keeping major Chinese trade relationships. Actual bargaining outcomes depend on contractual rights, processing capabilities, market alternatives and state institutions, not just diplomatic rhetoric.
 
+```map
+title: Geoeconomic distribution of production, demand, capital and infrastructure
+Brazil | Rare-earth reserves and domestic real-denominated Pix | Reserves are not refining capacity, and Pix is not international settlement
+United States | Capital markets, trade policy and minerals financing | Section 301 and DFC lending operate under different frameworks
+China | Commodity demand and extensive mineral processing capacity | Industrial position does not come from geological reserves alone
+India and other BRICS | Diverse markets and payment alternatives under development | No shared currency or monetary policy exists
+Europe | Export market, regulation and diversified supply-chain investment | Access and investment depend on contracts and standards
+```
+
+This map describes regional geoeconomic functions, not mine locations, operating plants or quantified bilateral flows. A partner can finance projects, purchase primary commodities and compete in downstream manufacturing at the same time.
+
 ## 15. Rare earths: the difference between resources and industrial control
 
 The US Geological Survey's 2026 mineral statistics estimated rare-earth reserves at **44 million metric tons of REO equivalent in China**, **21 million in Brazil**, **6.3 million in Australia**, **3.8 million in Russia** and **1.9 million in the US**. Estimated **2025 mine production** was **270,000 metric tons for China**, **2,000 for Brazil** and **51,000 for the US**. Reserves and annual production represent separate phenomena; they are plotted separately. Figures are subject to methodology, estimation and revision. [16]
