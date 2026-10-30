@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-10-30T08:02:07Z",
+  "candidate": {
+    "id": "2026-10-30-japan-boj-etf-disposal-pace",
+    "country": {
+      "code": "JPN",
+      "name": "Japan"
+    },
+    "previous_state": null,
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "Japanese equity market makers, ETF liquidity providers and long-horizon private institutional investors assessing future access to units formerly held by the Bank of Japan; not a directional stock-market trading recommendation.",
+    "structural_condition": "The central bank has begun a multi-decade reduction of its unusually large ETF holdings and has now raised the scheduled annual disposal pace, potentially changing the future supply of units and private ownership distribution without establishing immediate market effects.",
+    "delta": "At its 30 October 2026 meeting the Bank of Japan unanimously raised the planned ETF disposal pace from approximately ¥330 billion to ¥860 billion per year on a book-value basis, effective January 2027. The BOJ estimates the new annual pace at about 0.1% of Tokyo Stock Exchange Prime Market turnover, versus 0.05% before, and approximately 43 years to complete sales versus 112 years at the prior pace. The BOJ separately held its overnight rate at 1.25% by 8–1.",
+    "mechanism": "For market makers and long-term private holders, gradual official sales may increase tradable ETF unit supply and shift ownership over many years; price effects depend on actual execution, offsetting private demand, underlying stock liquidity, fund redemptions and changing trading volume. A schedule change is not a realized increase in float or a measured improvement in price discovery. The ETF sale plan and overnight monetary policy are distinct instruments.",
+    "catalysts": [
+      "January 2027 implementation and monthly/quarterly BOJ reports of executed ETF disposals.",
+      "Observed ETF primary/secondary market liquidity, premiums/discounts and investor absorption relative to the 0.1% turnover reference.",
+      "Disclosure of changes to BOJ ETF book holdings, market values and the timing of sales.",
+      "Evidence that private buyers can absorb supply without persistent liquidity discounts."
+    ],
+    "invalidation": "The BOJ suspends or substantially reduces sales, trading-value assumptions cease to hold, or observed liquidity/price discovery does not improve despite executed sales; alternatively, large market impact would contradict the low-impact execution premise.",
+    "confidence": "medium",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "Bank of Japan, Statement on Monetary Policy, 30 October 2026, policy and ETF sale decision",
+        "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+        "date": "2026-10-30"
+      },
+      {
+        "name": "Bank of Japan, Decisions regarding a Change in the Pace of Sales of ETFs, 30 October 2026",
+        "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+        "date": "2026-10-30"
+      }
+    ],
+    "status": "discovery_watch",
+    "horizon": "January 2027 onward; multi-decade scheduled disposal",
+    "evidence_stage": "Formal monetary-authority decision and announced future annual pace; January 2027 revised-rate implementation and its market effects not yet observed.",
+    "last_verified_at": "2026-10-30",
+    "disclosure_limitations": "¥330bn and ¥860bn are annual book-value sale rates, not market-value sales or daily trades. BOJ's ¥2.46tn market-value conversion is an estimate based on historical market-to-book ratios, not a realized transaction. The 43-year/112-year horizons assume static book-value pace and stock. BOJ can suspend or adjust sales with market conditions. J-REIT sales remain approximately ¥5bn/year and are not included in the ETF acceleration.",
+    "contrary_evidence": [
+      "BOJ says January–September 2026 sales were smooth and had avoided major market impact; this reduces evidence for a severe existing liquidity blockage.",
+      "A larger scheduled public-holder supply could pressure valuations rather than improve private investors' access; the sign of price effects is unknown.",
+      "The estimated 0.1% of Prime Market turnover is small relative to total trading, and BOJ explicitly allows suspensions."
+    ]
+  },
+  "research_note": "New formal BOJ 30 October policy decision, distinct from already staged Korea HBM4, Australia energy, Brazil auction and Pix–TIPS hypotheses. Candidate discovery only; no modification to data/structural-opportunities.json or history. The relevant perspective is private-market access/liquidity rather than a country score. Reassess only with realized 2027 sales, liquidity and ownership evidence."
+}

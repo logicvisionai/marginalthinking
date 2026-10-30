@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "checked_at": "2026-10-30T08:02:07Z",
+  "candidate_ids": [
+    "2026-10-30-japan-boj-etf-disposal-pace"
+  ],
+  "coverage_summary": "One daily primary-source discovery scan. Compared eight canonical Atlas entries (2026-09-23) and staged Oct 27 Brazil seized-asset auction, Oct 28 Korea HBM4 capacity and Oct 29 Australia energy divergence, plus earlier Pix–TIPS and Nigerian fibre proposals. Screened BOJ 30 Oct ETF sales decision and policy statement, BEA 29 Oct investment/import composition, ECB and EU financing/sentiment, World Bank 28 Oct commodity scenarios, EIA 29 Oct regional gas storage, ICI 29 Oct money-market assets, FAO food-price release schedule and trade/logistics exposure. One new formal Japanese future ETF supply-schedule hypothesis staged. No January 2027 execution, proven liquidity improvement, new physical infrastructure commissioning or capital transfer assumed. Canonical Atlas unchanged.",
+  "canonical_atlas_updated_at": "2026-09-23",
+  "sources_checked": [
+    {
+      "name": "BOJ ETF disposal pace decision",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "BOJ Statement on Monetary Policy",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "BEA GDP advance and equipment/imports",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "ECB Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "ICI Money Market Fund Assets",
+      "url": "https://www.ici.org/research/stats/mmf",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "EIA Natural Gas Storage",
+      "url": "https://www.eia.gov/naturalgas/storage/",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "World Bank Commodity Markets Outlook",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "European Commission October sentiment",
+      "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en",
+      "date": "2026-10-29"
+    }
+  ],
+  "canonical_updated": false,
+  "idempotency_key": "structural-opportunity-scan:2026-10-30",
+  "review_limitations": [
+    "BOJ 2027 ETF sales are planned, not executed.",
+    "No source-proven new October 2026 energy capacity or infrastructure throughput change beyond existing candidates.",
+    "No evidence that the observed US AI capital goods import expansion translates into independently accessible infrastructure."
+  ]
+}
