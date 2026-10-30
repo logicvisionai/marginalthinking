@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-30T08:13:11.000Z",
+  "last_reconciled_at": "2026-10-30T13:03:47.104Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7449,6 +7449,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "The report describes AI capital expenditure and financing expectations, but no independently validated engineering performance, deployment maturity or adoption milestone warrants changing the technology-signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-world-strategic-resource-stocks-publication-reconciliation",
+      "reconciled_at": "2026-10-30T13:03:47.104Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The bilingual dossier identifies source-verified commodity stocks, refining chokepoints and strategic dependencies, but does not provide an instrument-harmonized country-to-country dependency edge dataset with reliable bilateral volume, controlling entity, vintage and unit. No inferred edge is added."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The analysis identifies vulnerability to phosphate, critical mineral processing, fertilizers, food imports and medicines, but lacks verified project-specific investment costs, operational constraints, alternative capacity, and measurable returns needed for an atlas entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "USGS mineral reserves, IEA energy inventories, and public agency stockpile figures are not legal-beneficial ownership records. The article does not verify new individual corporate control rights or contractual relationships for a canonical actors graph."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report distinguishes geological geography, physical stocks, midstream processing and ownership, but the cross-country numbers alone cannot substantiate new title, concession, operating control or beneficial ownership links in the canonical control atlas."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The five compound disruption scenarios are analytical stress tests, not measured implemented interventions with causal outcome evaluations and counterfactuals. No policy-case entry warranted."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Maritime disruptions, sanctions and systemic shocks are conditional scenarios; the dossier does not certify a new event-specific conflict record, perpetrator attribution or altered system boundary."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Stock, capacity and industrial-processing vulnerability observations do not independently validate a discrete technology performance, deployment readiness or adoption milestone as required by the cumulative technology-signal ledger."
         }
       ]
     }
