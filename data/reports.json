@@ -17370,5 +17370,167 @@
         "search_text": "Global Macro 30 outubro 2026 PIB EUA 3,4 por cento renda real disponível menos 0,3 setembro PCE 3,6 BCE mantém 2,50 BOJ 1,25 vendas ETFs 860 bilhões ienes Nasdaq"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS",
+    "slug": "2026-10-29-world-strategic-resource-stocks-food-health-energy-materials",
+    "date": "2026-10-29",
+    "published_at": "2026-10-29T17:25:00-03:00",
+    "kind": "global-strategic-resource-stocks-and-security",
+    "priority": 56,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "commodities-resources",
+      "energy",
+      "geopolitics-security",
+      "infrastructure-logistics",
+      "industry-production",
+      "institutions-governance",
+      "trade-investment",
+      "climate-environment",
+      "technology-innovation",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "scenarios": [
+      "Prolonged disruption of a global oil and refined-products transport corridor",
+      "Consecutive adverse harvests coinciding with fertilizer-price and import-financing shocks",
+      "Restrictions on high-purity critical mineral exports with downstream industrial interruption",
+      "Epidemic stress combined with essential medicine, oxygen, diagnostics and vaccine supply failures",
+      "Compound drought, power-grid, irrigation, water-treatment and food loss shock"
+    ],
+    "contrary_evidence": [
+      "Large global cereal stocks do not establish that every importing country can obtain food or maintain household affordability.",
+      "USGS mineral reserves measure geological endowment, not deliverable metals or qualified industrial components.",
+      "2025 UNICEF vaccine deliveries are annual flows and cannot be treated as stock held in October 2026.",
+      "IEA energy inventory movements, GIE gas readings and FAO crop forecasts use different statistical coverage and observation dates.",
+      "A global estimate is not stated for essential pharmaceuticals, transformer spares and private fertilizer inventories because comparable verified data are lacking."
+    ],
+    "producer_checks": {
+      "information_cutoff": "29 October 2026, America/Sao_Paulo. Primary data vintages individually specified, including October 2026 FAO/IEA/DOE/GIE, USGS Mineral Commodity Summaries 2026 and UNICEF 2025.",
+      "research_depth": "40 substantive numbered chapters per locale plus provenance and source section; 9,308 EN and 10,131 PT-BR whitespace-delimited words including figures and references.",
+      "source_check": "24 distinct source URLs in each language, covering FAO, IEA, USGS, DOE, UNICEF, WHO, GIE, ACER, UN-Water, UNCTAD, WFP and other institutional providers. URLs and figures require independent QA verification.",
+      "visual_signature": "Six paired quantitative charts with equal series in EN/PT-BR, two paired geographic regional maps, three paired causal flows, one paired mind map and several comparison and evidence tables.",
+      "bilingual_parity": "Both locale manuscripts contain the same 40 numbered chapters; 6 chart series numerically identical, visual fence types and counts identical, all 24 source URLs equivalent and core quantitative claims aligned.",
+      "methodology": "Distinguishes estimated geological resources/reserves, physical inventories, stock-to-use ratios, percentages of gas storage, operating throughput, annual deliveries, government stockpile targets, and scenarios. Never sums incompatible units. National and private stock gaps labeled unknown.",
+      "editorial_status": "Submitted for independent editorial QA. No approval, public publication, peer review or live deployment claimed.",
+      "source_shas": {
+        "en": "84737e071184d5474b4d31252ec91fca0f049262",
+        "pt-BR": "db374574b0095f39666405495c9fae27e41f2e24"
+      }
+    },
+    "url": "/reports/2026/10/2026-10-29-world-strategic-resource-stocks-food-health-energy-materials.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-10-29T20:42:11.980Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "aabfd692db448a10ca1d07150accbe050bd0f740",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "The world's strategic resource stocks: food, water, health, energy and the material foundations of security",
+        "deck": "A global strategic inventory of food carryovers, freshwater, fertilizer minerals, oil and gas stocks, uranium, critical minerals, medicines, vaccines, seeds and industrial capacity; distribution, control, substitution and five compound-risk scenarios.",
+        "tags": [
+          "strategic resources",
+          "global inventories",
+          "food security",
+          "energy security",
+          "health security",
+          "critical minerals",
+          "water security",
+          "supply chain resilience",
+          "geoeconomics",
+          "geopolitical risk"
+        ],
+        "keywords": [
+          "world strategic resource stockpiles 2026",
+          "FAO cereal ending stocks 2026 2027",
+          "IEA 2026 global oil inventories",
+          "USGS rare earth phosphate reserves 2026",
+          "EU gas storage October 2026",
+          "global essential medicine and vaccine stocks",
+          "global water security stocks flows",
+          "resource control refining vulnerability"
+        ],
+        "regime": "High aggregate geological and agricultural endowment coexists with location-specific, process-specific and income-mediated accessibility risks.",
+        "key_risk": "Confusing geological reserves with ready-to-release inventories, installed capacity with output, annual deliveries with present stocks, or forecasts with physical observations.",
+        "watch": [
+          "FAO cereal ending stocks and regional distribution",
+          "IEA crude and product inventories and emergency releases",
+          "GIE European gas refill and storage cover",
+          "USGS mineral reserve revisions and IEA refining market shares",
+          "WHO ICG stockpile fills and UNICEF vaccine deliveries",
+          "Fertilizer availability before planting seasons",
+          "Hospital essential-medicine stockout rates and alternative API suppliers"
+        ],
+        "search_text": "The world's strategic resource stocks: food, water, health, energy and the material foundations of security. A global strategic inventory of food carryovers, freshwater, fertilizer minerals, oil and gas stocks, uranium, critical minerals, medicines, vaccines, seeds and industrial capacity; distribution, control, substitution and five compound-risk scenarios.. Resources, inventories, food security, health, fertilizers, water, energy, rare earths, geopolitics, strategic reserves."
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Os estoques estratégicos do mundo: alimentos, água, saúde, energia e as bases materiais da segurança global",
+        "deck": "Inventário estratégico mundial de cereais, água, fertilizantes, reservas e estoques de petróleo e gás, urânio, minerais críticos, medicamentos, vacinas, sementes e capacidade industrial; acesso, controle, substituição e cinco cenários de crise.",
+        "tags": [
+          "recursos estratégicos",
+          "estoques mundiais",
+          "segurança alimentar",
+          "segurança energética",
+          "segurança sanitária",
+          "minerais críticos",
+          "segurança hídrica",
+          "resiliência produtiva",
+          "geoeconomia",
+          "risco geopolítico"
+        ],
+        "keywords": [
+          "estoques estratégicos mundiais de recursos 2026",
+          "FAO estoques finais cereais 2026 2027",
+          "IEA estoques petróleo 2026",
+          "USGS reservas fosfato terras raras 2026",
+          "gás armazenado Europa outubro 2026",
+          "estoques de medicamentos e vacinas",
+          "segurança da água recursos hídricos",
+          "refino minerais críticos poder industrial"
+        ],
+        "regime": "Patrimônio geológico e agrícola mundial expressivo convive com vulnerabilidades de acesso determinadas por localização, processamento industrial e renda.",
+        "key_risk": "Confundir reservas geológicas com mercadorias prontas para liberação, capacidade instalada com produção, entregas anuais com estoque vigente ou previsões com observações físicas.",
+        "watch": [
+          "Estoques finais de cereais FAO e distribuição regional",
+          "Inventários IEA de petróleo e derivados e liberações emergenciais",
+          "Reposição e cobertura de gás europeu segundo GIE",
+          "Revisões USGS de reservas e participação no refino segundo IEA",
+          "Preenchimento de reservas OMS/ICG e distribuição UNICEF",
+          "Fertilizantes antes das épocas de plantio",
+          "Falta de medicamentos essenciais em hospitais e fornecedores alternativos de IFAs"
+        ],
+        "search_text": "Os estoques estratégicos do mundo: alimentos, água, saúde, energia e as bases materiais da segurança global. Inventário estratégico mundial de cereais, água, fertilizantes, reservas e estoques de petróleo e gás, urânio, minerais críticos, medicamentos, vacinas, sementes e capacidade industrial; acesso, controle, substituição e cinco cenários de crise.. Recursos, inventários, segurança alimentar, saúde, fertilizantes, água, energia, terras raras, geopolítica e reservas estratégicas."
+      }
+    }
   }
 ]
