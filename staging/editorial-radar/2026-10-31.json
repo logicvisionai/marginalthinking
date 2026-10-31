@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-31",
+  "checked_at": "2026-10-31T08:00:00Z",
+  "scope": "All 28 active registered editorial lines screened using primary 31 Oct NBS, 30 Oct Eurostat and Treasury, 28 Oct World Bank, 14 Oct IEA, 2 Oct FAO, 30 Oct WHO risk assessment, 23 Oct WHO Ebola and existing corpus. Screening does not prove absence of other events. No second thematic article meets independently verified delta/depth threshold.",
+  "registry_updated_at": "2026-10-30T13:03:47.104Z",
+  "reviewed_line_count": 28,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "new_pending_qa",
+      "note": "MT-GM-2026-10-31: NBS October manufacturing 49.3, new export orders 48.7, Eurostat Q3 euro area GDP +0.4% q/q and 30 Oct Treasury 10Y 4.94%; staged EN/PT."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "ICI 29 Oct US money-market assets $7.901tn (-$43.29bn week) are a fund-asset change, not cross-border flow or ownership; weekly producer owns reconciliation."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "China firm-size PMI divergence (large 50.2, small 47.5) is a one-month survey; not a verified national structural transition without trade, credit and labour confirmation."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "China survey and euro-area country GDP distribution screened; existing country dossiers not revised on one preliminary macro vintage."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "China computing/communications manufacturing subsectors reported output and orders >=53; survey sentiment is not proof of new technical capability or deployed scale."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI supplier contracts and capex covered in prior editions; no new independent commissioning, utilisation or productivity measurement."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Middle East energy route risks included conditionally; no independently verified new shipping throughput loss or military attribution adopted as fact."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "BOJ ETF sale decision previously covered; NBS PMI cannot infer ownership/control or a new strategic actor position."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "ECB 29 Oct deposit rate 2.50%, Fed 28 Oct 3.75–4.00%, US Treasury 30 Oct 10Y 4.94%; policy settings distinguished from credit conditions."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "No new policy decision on 31 Oct verified; ECB/Fed/BOJ latest decisions contextualised with source dates."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No observed ex-post effect of 2027 BOJ ETF disposal or proposed China demand stimulus; not a policy-outcome study."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "China survey and yield-curve data do not demonstrate a change in market design or an operational monetary experiment."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Money-fund assets, sovereign yields and equity valuations are not beneficial ownership or a completed control transfer."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new comparable global ownership, reserve or control dataset; monthly diffusion and weekly funds cannot populate annual stocks."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "NBS and Eurostat primary statistical institutions; ECB/Fed policy transmission discussed without a new institutional mandate change."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Euro-area Q3 GDP +0.4% and cross-country heterogeneity do not establish a new treaty, payment integration or trade-corridor agreement."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "China high-tech PMI relative resilience does not quantify employment displacement, automation diffusion or social outcomes."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "FAO September Food Price Index 136.0 (+1.5% m/m), next release 6 Nov; World Bank Oct commodity outlook food +10% 2026 forecast. Diet affordability, pesticide exposure and agricultural productivity require local price/exposure series; no new standalone causal result."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "WHO/WOAH animal and human health governance, herd management, antimicrobial use, pesticide and chemical exposure screened; no newly validated veterinary outbreak or measured exposure change for separate publication."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Oil shipping risk discussed as conditional scenario with attribution and missing throughput evidence; no imminent-war claim or new deployment inferred."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_existing",
+      "note": "WHO 30 Oct Yellow fever Africa rapid risk assessment listed; WHO 23 Oct Bundibugyo outbreak 9,704 confirmed DRC cases as of 20 Oct. Prior 26 Oct thematic staged/rejected; no new epidemic article before complete source-level verification and QA."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No newly examined primary archival evidence affecting the historical research corpus; current PMIs do not warrant intellectual-history essay."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "IEA Oct Oil Market Report September stocks -10 mb and global stocks -509 mb since end-Feb; World Bank Oct energy price scenario; no new commissioned infrastructure or physical throughput proven."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Brazil 30 Oct market repricing and labour releases screened; prior post-election coverage exists, no verified new legal or fiscal action with distinct systemic delta."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "World Bank commodity forecasts and IEA oil stock estimates do not establish new ownership, mineral reserve certification or sovereign resource transfer."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "No new primary verified binational electricity agreement, grid commissioning or datacentre capacity; existing Itaipu/digital infrastructure research not duplicated."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "China export-order PMI 48.7 and Gulf shipping exposure screened; customs export volumes and independent physical route flows not available for standalone corridor study."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "IEA global oil stocks -509 mb since end-Feb (Oct14 report) and FAO price series considered; no newly comparable food/medical/mineral/energy strategic-stock inventory for cross-resource publication."
+    }
+  ],
+  "source_vintages": [
+    {
+      "name": "China NBS October PMI",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "Eurostat Q3 GDP",
+      "date": "2026-10-30",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    {
+      "name": "Eurostat September unemployment",
+      "date": "2026-10-30",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-30102026-bp"
+    },
+    {
+      "name": "WHO yellow fever risk assessment listing",
+      "date": "2026-10-30",
+      "url": "https://www.who.int/emergencies/risk-assessment/rapid-risk-assessment"
+    },
+    {
+      "name": "WHO Bundibugyo outbreak",
+      "date": "2026-10-23",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+    },
+    {
+      "name": "FAO Food Price Index",
+      "date": "2026-10-02",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/"
+    },
+    {
+      "name": "IEA Oil Market Report",
+      "date": "2026-10-14",
+      "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+    },
+    {
+      "name": "World Bank Commodity Outlook",
+      "date": "2026-10-28",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    }
+  ],
+  "additional_thematic_item": "none: no independently sufficient new primary-data causal assessment after today's Global Macro",
+  "open_evidence_gaps": [
+    "WHO 30 Oct yellow fever risk assessment needs full quantitative and geographic verification before article selection.",
+    "China SME PMI divergence is not a direct measure of credit or structural productivity.",
+    "Pesticide, veterinary antimicrobial resistance and chemical/biological security lack verified new comparable exposure or intervention outcomes.",
+    "Strategic inventories across food, medical supplies, energy and minerals are not harmonised."
+  ]
+}
