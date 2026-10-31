@@ -1,0 +1,191 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GSP-2026-10-30-POLAND-CONSTITUTIONAL-SECURITY-2026",
+  "slug": "2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T23:10:00-03:00",
+  "kind": "global-institution-system",
+  "priority": 57,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/en.md",
+      "title": "Poland at the constitutional brink: the October 2026 court crisis, Europe's strategic balance and pressure from Russia and the West",
+      "deck": "A 35-chapter historical, legal and geoeconomic investigation into the contested Polish Constitutional Tribunal suspensions and coup allegations, PiS–Tusk–Nawrocki politics, EU integration, public debt, defence, Russia, Belarus, NATO, Ukraine and external pressure.",
+      "tags": [
+        "Poland",
+        "2026 constitutional crisis",
+        "Constitutional Tribunal",
+        "Donald Tusk",
+        "Karol Nawrocki",
+        "Law and Justice PiS",
+        "European Union",
+        "Russia",
+        "Ukraine",
+        "NATO",
+        "geopolitics"
+      ],
+      "keywords": [
+        "Poland October 30 2026 coup allegations constitutional tribunal",
+        "Tusk Nawrocki Swieczkowski Korwin-Piotrowska legal dispute",
+        "Poland EU European Commission 2026 economic forecast fiscal debt",
+        "Poland NATO defence 4.8 percent GDP 2026",
+        "Russia Belarus Polish border hybrid threats Suwalki gap",
+        "Poland Ukraine Volhynia grain refugees historical disputes"
+      ],
+      "regime": "Constitutional dual legitimacy and judicial deadlock intersect with sustained EU-funded growth, fiscal pressure from defence, and high strategic exposure to Russia's war in Ukraine.",
+      "key_risk": "Treating attributed allegations of coup as evidence of a completed overthrow, or attributing the domestic judicial dispute to undocumented orders by Washington, Moscow or Brussels.",
+      "watch": [
+        "Constitutional Tribunal composition and oath rulings",
+        "Tusk and Nawrocki legal acts",
+        "2027 parliamentary electoral administration",
+        "EC funds and rule-of-law milestones",
+        "Fiscal deficit debt and financing rates",
+        "Baltic and Belarusian hybrid incidents",
+        "Poland Ukraine border assistance and agricultural trade"
+      ],
+      "search_text": "Poland at the constitutional brink: the October 2026 court crisis, Europe's strategic balance and pressure from Russia and the West. A 35-chapter historical, legal and geoeconomic investigation into the contested Polish Constitutional Tribunal suspensions and coup allegations, PiS–Tusk–Nawrocki politics, EU integration, public debt, defence, Russia, Belarus, NATO, Ukraine and external pressure.. Poland October 30 2026 coup allegations constitutional tribunal. Tusk Nawrocki Swieczkowski Korwin-Piotrowska legal dispute. Poland EU European Commission 2026 economic forecast fiscal debt. Poland NATO defence 4.8 percent GDP 2026. Russia Belarus Polish border hybrid threats Suwalki gap. Poland Ukraine Volhynia grain refugees historical disputes"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/pt-BR.md",
+      "title": "Polônia no limite institucional: a crise de outubro de 2026, o equilíbrio europeu e a competição entre Rússia e Ocidente",
+      "deck": "Investigação histórica, institucional e geoeconômica com 35 capítulos sobre suspensão de dirigentes do Tribunal Constitucional, denúncias de golpe, PiS, Tusk, Nawrocki, integração europeia, déficit e dívida, defesa, Rússia, Bielorrússia, OTAN, Ucrânia e pressões externas.",
+      "tags": [
+        "Polônia",
+        "crise constitucional 2026",
+        "Tribunal Constitucional",
+        "Donald Tusk",
+        "Karol Nawrocki",
+        "PiS",
+        "União Europeia",
+        "Rússia",
+        "Ucrânia",
+        "OTAN",
+        "geopolítica"
+      ],
+      "keywords": [
+        "Polônia outubro 2026 tribunal constitucional acusações de golpe",
+        "Tusk Nawrocki disputa Swieczkowski Korwin-Piotrowska",
+        "Polônia economia 2026 UE dívida déficit projeções",
+        "Polônia gastos defesa OTAN 2026",
+        "Rússia Bielorrússia incursões drones Suwalki",
+        "Polônia Ucrânia Volínia grãos refugiados"
+      ],
+      "regime": "Crise de legitimidade judicial e bloqueio institucional coexistem com crescimento sustentado por investimento europeu, pressão fiscal da defesa e exposição estratégica à guerra da Rússia na Ucrânia.",
+      "key_risk": "Apresentar acusação partidária de golpe como tomada do Estado comprovada ou imputar a crise polonesa a ordens secretas de Washington, Moscou ou Bruxelas sem provas.",
+      "watch": [
+        "Nomeações e decisões do Tribunal Constitucional",
+        "Atos de Tusk e Nawrocki",
+        "Regras e eleições parlamentares de 2027",
+        "Fundos UE e marcos judiciais",
+        "Déficit dívida juros",
+        "Incidentes no flanco oriental",
+        "Comércio e apoio logístico à Ucrânia"
+      ],
+      "search_text": "Polônia no limite institucional: a crise de outubro de 2026, o equilíbrio europeu e a competição entre Rússia e Ocidente. Investigação histórica, institucional e geoeconômica com 35 capítulos sobre suspensão de dirigentes do Tribunal Constitucional, denúncias de golpe, PiS, Tusk, Nawrocki, integração europeia, déficit e dívida, defesa, Rússia, Bielorrússia, OTAN, Ucrânia e pressões externas.. Polônia outubro 2026 tribunal constitucional acusações de golpe. Tusk Nawrocki disputa Swieczkowski Korwin-Piotrowska. Polônia economia 2026 UE dívida déficit projeções. Polônia gastos defesa OTAN 2026. Rússia Bielorrússia incursões drones Suwalki. Polônia Ucrânia Volínia grãos refugiados"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "eastern-europe-balkans"
+    ],
+    "countries": [
+      {
+        "code": "PL",
+        "slug": "poland"
+      },
+      {
+        "code": "UA",
+        "slug": "ukraine"
+      },
+      {
+        "code": "RU",
+        "slug": "russia"
+      },
+      {
+        "code": "BY",
+        "slug": "belarus"
+      },
+      {
+        "code": "DE",
+        "slug": "germany"
+      },
+      {
+        "code": "US",
+        "slug": "united-states"
+      }
+    ]
+  },
+  "topics": [
+    "institutions-governance",
+    "geopolitics-security",
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "demography-labor",
+    "infrastructure-logistics",
+    "social-change"
+  ],
+  "phenomena": [
+    "political-stability",
+    "institutional-change",
+    "strategic-competition",
+    "defense-security",
+    "sanctions-economic-coercion",
+    "migration-displacement",
+    "civil-unrest"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "scenarios": [
+    "Constitutional accommodation with legally accepted oaths, tenure and rulings",
+    "Prolonged parallel legal authority under functioning elections and ministries",
+    "Broader unconstitutional coercive rupture beyond a single judicial institution",
+    "Severe eastern-frontier security or hybrid shock requiring NATO coordination"
+  ],
+  "contrary_evidence": [
+    "Reuters and AP document contested court suspension and police intervention; neither establishes a completed military overthrow or replacement national government.",
+    "The Polish president's interrupted Senegal trip demonstrates political alarm but does not by itself mean the army seized state power.",
+    "March–April 2026 disputed parliamentary and presidential judicial oaths predate the October standoff; the crisis is not uniquely explained by foreign interference.",
+    "EU funding conditionality and Poland's earlier judicial conflicts are real but do not establish that Brussels ordered the October 30 police operation.",
+    "Russian UAV incursions and hybrid activity establish security risks, not proof that Moscow directed the Tribunal confrontation.",
+    "Commission 2026 real GDP growth forecast of 3.5% means political and fiscal instability cannot be equated with observed recession.",
+    "Poland remains in the EU but retains the zloty; the Commission 2026 convergence assessment does not identify euro accession as completed.",
+    "Polish–Ukrainian strategic cooperation coexists with genuine economic and historical disputes; disagreement does not demonstrate Russian control over all opposition voices."
+  ],
+  "producer_checks": {
+    "information_cutoff": "30 October 2026 (Poland local time), observing publication times and ongoing disputes. Key breaking news Oct30 Reuters/AP/Notes; EC spring projections May21, OECD Jun3; IMF Article IV Feb3; IISS February and PISM August 2026.",
+    "research_depth": "35 numbered substantive historical, constitutional, economic, social and geopolitical chapters per locale, plus evidence matrix, monitoring framework and methodology; about 8,090 Portuguese and 6,985 English whitespace-separated words; no thin summary.",
+    "source_check": "31 numbered sources per language with identical 31 URLs, roughly 23 distinct primary, research and independent news source hosts; Reuters, AP, IDEA, EC, IMF, OECD, European Parliament, NATO, IISS, Carnegie, PISM, Polish government, HRW, academic historical analysis and attributed conservative position Ordo Iuris. Independent QA must audit material citations and breaking-news status.",
+    "visual_signature": "Three bilingual quantitative charts: EC 2025-27 growth and deficit/2026 HICP forecast, EC gross debt 59.7/64.5/68.3% GDP, OECD/IMF defence spending 2.2/4.5/4.8/5%; one causal institutional chronology flow, one country spatial exposure map and one 2030 scenario mindmap; two evidence/monitoring tables in each language.",
+    "bilingual_parity": "35 aligned numbered analytical chapters, 31 identical reference URLs, matching 3 numeric chart series and 6 visual fence types (flow, chart, chart, chart, map, mindmap) in parallel order, two comparable tables and identical distinctions between coup allegations, court crisis and verified military takeover.",
+    "methodology": "Distinguishes reported court suspension and legal claims from adjudicated validity; democratic institutional deadlock from completed military coup; documented EU conditionality and NATO integration from unverified external orchestration; forecasts from observed values; NATO defence spending methodology from fiscal accounts; Russian hybrid risks from proof of complicity in Polish judicial proceedings.",
+    "editorial_status": "Staged bilingual long-form analytical investigation; pending independent SHA-bound QA approval. Do not make or modify reports public bundle until a separate publisher action after approval.",
+    "source_blob_shas": {
+      "en": "ace92ff97c388ffa97e2c0b394c4a70f8b553df7",
+      "pt-BR": "3c051c3e8482addab59f7e91c1747787c3db2ae0"
+    }
+  }
+}
