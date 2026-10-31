@@ -1,125 +1,109 @@
 {
   "schema_version": 2,
   "id": "MT-GSP-2026-10-30-BRICS-PIX-RARE-EARTHS-BRAZIL-US",
-  "revision": 2,
+  "revision": 4,
   "qa_status": "rejected",
-  "reviewed_at": "2026-10-30T21:22:29.741Z",
-  "reviewed_commit": "c733feaccf6d14806ba96b5c4cbc073cd2699d82",
-  "pending_blob_sha": "1b85a81be421836ec0ceb2b67b069df10057cdcb",
+  "reviewed_at": "2026-10-31T00:25:40.679Z",
+  "reviewed_commit": "68f24f486129c4b38c2e3c3fbe15d33471bbe856",
+  "pending_blob_sha": "3382d8e1450fad97137cefda7ae8d43aad92bf08",
   "source_blob_shas": {
-    "en": "f56848f1862bba4e76f0f71b8c6d361ada76d3f6",
-    "pt-BR": "9c3d675c7efd8bb0bd072cfb0904d16c2e207d7d"
+    "en": "436ec3cd17112eb0cc4cee0ac9a703116ef6104d",
+    "pt-BR": "780bc0bfc848192fe47aee8a251279a52f61c707"
   },
   "program": "global-system-power",
   "confidence": "high",
   "blocking_issues": [
     {
-      "type": "evidence_traceability_and_visual_evidence_readiness",
-      "location": "staging/research/2026/10/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage/en.md:160-185; pt-BR.md:160-185; data/pending/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage.json:producer_checks.source_check and visual_signature",
-      "issue": "Both editions and the reserve chart assert that USGS Mineral Commodity Summaries 2026 estimates Brazilian rare-earth reserves at 21 million tonnes REO. The latest USGS MCS 2026 version 1.3 (revised 27 May 2026) instead reports 11 million tonnes; 21 million belongs to an earlier edition/version. The cited URL points to the current full 2026 compendium, not the earlier vintage. The chart's principal Brazil observation is materially wrong for the cited source and information cutoff.",
+      "type": "editorial_publication_readiness",
+      "location": "staging/research/2026/10/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage/en.md:9",
+      "issue": "Revision 4 removes the r3 report self-reference but introduces a broken lead: 'Four connected systems shape the conflict—...—and asks how each affects ...'. The plural subject 'Four connected systems' cannot take singular 'asks', and systems do not ask the research question. The central analytical framing is grammatically incomplete and fails the natural institutional English gate.",
       "evidence": [
-        "EN section 15: '21 million in Brazil'; EN reserves chart: 'Brazil | 21'; PT-BR section 15: '21 milhões no Brasil'; PT-BR reserves chart: 'Brasil | 21'.",
-        "USGS publication record states MCS 2026 version 1.3 revised 27 May 2026: https://pubs.usgs.gov/publication/mcs2026",
-        "Latest USGS full report (version 1.3) and its rare-earths reserves table: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026.pdf ; https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf",
-        "Earlier USGS version 1.2 retained the 21-million-tonne figure: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths_ver.1.2.pdf",
-        "The 2026 latest-version reserves table has China 44m, Brazil 11m, Australia 6.3m, Russia 3.8m and United States 1.9m REO-equivalent tonnes; mine-production estimates are a different series."
+        "Current EN staged line 9: 'Four connected systems shape the conflict—**currency, payment infrastructure, mineral supply-chain control and political bargaining**—and asks how each affects American influence, Brazilian interests and the heterogeneous BRICS coalition.'",
+        "Approved/public EN revision 3 line 9: 'This assessment reconstructs four connected systems—...—and asks how each affects ...'. The replacement is the source of the new defect.",
+        "Git blob change EN 590aada2e0a3540cdb8a99cf7b5ff4e92ada1745 → 436ec3cd17112eb0cc4cee0ac9a703116ef6104d. PT-BR is unchanged at 780bc0bfc848192fe47aee8a251279a52f61c707.",
+        "RESEARCH-PUBLISHING.md Stage 2 natural institutional prose requirement and EDITORIAL-STYLE.md idiomatic research English. GitHub Actions run 41149860868 job 124383660555 fails public r3 editorial-integrity lint on the two self-references r4 seeks to eliminate."
       ],
-      "required_fix": "Correct both prose and both reserve charts to the latest version-1.3 value of 11 million tonnes (or explicitly cite and label an earlier historical edition as such, with a reason for not using the latest), reconcile dates/denominators and USGS reference [16], and revalidate visual parity and all derived comparisons."
-    },
-    {
-      "type": "source_vintage_and_institutional_control",
-      "location": "staging/research/2026/10/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage/en.md:197-204,249-263,281-294,360-365; pt-BR.md:197-204,249-263,281-294,360-365; data/pending/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage.json:producer_checks.source_check, information_cutoff and methodology",
-      "issue": "The candidate presents a 2025 proposed US$465m DFC financing as the concrete current case and treats ownership/offtake/control mainly as hypothetical, while omitting decisive pre-cutoff 2026 transactions: a US$565m DFC financing package agreed 5 February, a 15-year offtake for 100% of Phase I magnetic rare earths, a US-government-backed US$1.55bn purchasing SPV capitalized 24 August, and completion of USA Rare Earth's acquisition of Serra Verde on 3 September 2026. This materially changes the report's analysis of actual US corporate control and contract rights over the Pela Ema operation. An April agreement is not the same as the September completed transaction; conditional funding and purchase commitments must not be conflated with cash disbursement.",
-      "evidence": [
-        "EN section 17 says 'proposed US$465 million financing' and 'expected product'; PT-BR section 17 describes US$465m and does not identify the completed ownership transaction.",
-        "Serra Verde official release dated 5 February 2026 announces agreed US$565m DFC financing and an option for US government minority equity: https://www.serraverde.com/2026/02/serra-verde-secures-us565-million-financing-from-us-international-development-finance-corporation/",
-        "USA Rare Earth 20 April 2026 definitive acquisition agreement and 15-year 100% offtake with price floors: https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-announces-definitive-agreement-acquire-serra",
-        "USA Rare Earth 24 August 2026 announcement: SPV capitalization US$1.55bn (US$750m government commitment, up-to-US$500m bank credit commitment, at least US$300m forward purchase contract): https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-nasdaq-usar-announces-completion-upsized-155",
-        "USA Rare Earth 4 September 2026 release states acquisition completed on 3 September 2026: https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-completes-combination-serra-verde-group",
-        "SEC exhibit confirms completion of the merger on 3 September: https://www.sec.gov/Archives/edgar/data/1970622/000121390026097399/ea030400101ex99-1.htm"
-      ],
-      "required_fix": "Update both editions with a dated legal/financial timeline distinguishing the 2025 proposed facility, February 2026 financing package, April acquisition/offtake agreements, August SPV commitments and September completed corporate acquisition. Specify rights of USAR, DFC and the offtake SPV; distinguish acquisition, lending, conditional financing, offtake and government mineral title. Reassess sections 17, 21-23, 26 and conclusion, source references and pending producer_checks; preserve uncertainty about any unrelated Flávio/Pix quid pro quo."
+      "required_fix": "Producer 1/5: create revision 5 under the SAME canonical ID and slug; rewrite EN opening as grammatical, direct institutional prose (e.g. 'Four connected systems shape the conflict: currency, payment infrastructure, mineral supply-chain control and political bargaining. Each affects American influence, Brazilian interests and the heterogeneous BRICS coalition in different ways.'). Preserve numerical data, references, charts and PT-BR parity; update pending revision and exact source_blob_shas. Do not edit public files. Return for independent SHA-bound QA."
     }
   ],
   "required_fixes": [
-    "Producer 1/5: submit revision 3 of the same canonical ID and slug; do not rename, replace the taxonomy or touch public files.",
-    "Recheck the latest official USGS MCS 2026 version history and correct the Brazilian reserve figure and quantitative EN/PT-BR charts; document observation period and edition.",
-    "Update the Pela Ema/Serra Verde/USAR ownership, US DFC financing and 15-year off-take facts through 30 October 2026 with first-party filings, while distinguishing commitments, ownership and disbursements.",
-    "Refresh final references and both staged Markdown editions, then update producer_checks.source_blob_shas to the actual new Git blobs; keep ready:true only after self-checks. A new independent QA pass is required."
+    "Producer 1/5: create revision 5 under the SAME canonical ID and slug; rewrite EN opening as grammatical, direct institutional prose (e.g. 'Four connected systems shape the conflict: currency, payment infrastructure, mineral supply-chain control and political bargaining. Each affects American influence, Brazilian interests and the heterogeneous BRICS coalition in different ways.'). Preserve numerical data, references, charts and PT-BR parity; update pending revision and exact source_blob_shas. Do not edit public files. Return for independent SHA-bound QA."
   ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "notes": "Pinned HEAD c733feaccf6d14806ba96b5c4cbc073cd2699d82, exact ready:true v2 pending revision 2 and staged EN/PT-BR Git blob SHAs match 3/3; no approval or public bundle for this ID; revision 1 rejection SHA differs and is retained historically."
+      "summary": "HEAD pinned; pending ready:true revision 4 and exact 3/3 blob SHAs match producer checks. Public and approved revision 3 remain intact."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "notes": "Revised kind global-institution-system maps to active editorial line editorial-global-institution-systems under global-system-power in canonical registry SHA 94b56f49ef9b035682c56af8c7ebc9da54b723a7; revision-1 registry blocker resolved."
+      "summary": "Registered kind global-institution-system and controlled program/taxonomy unchanged from approved r3."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Diff against exact approved r3 EN has only two prose changes at lines 9 and 265; PT-BR, all figures and 40 source references unchanged."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Prior USGS v1.3 and Serra Verde corrections unchanged; no new dates or numerical claims."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "40 final references and all material factual propositions retained from previously approved revision 3."
     },
     "research_depth": {
       "result": "passed",
-      "en_words": 6603,
-      "pt_br_words": 8239,
-      "en_h2": 32,
-      "pt_br_h2": 32,
-      "notes": "30 substantive numbered sections per locale, methods and 32 references; continuity and counterfactual scenarios substantial. Depth alone cannot override material data errors."
-    },
-    "evidence_traceability": {
-      "result": "failed",
-      "notes": "USGS latest v1.3 Brazil reserves 11m versus cited/charted 21m; critical 2026 Serra Verde acquisition and financing/offtake developments omitted despite October cutoff."
-    },
-    "source_vintage_and_cutoff": {
-      "result": "failed",
-      "notes": "2025 DFC proposal presented without 2026 funding/ownership timeline; 2026 USGS edition/revision not reconciled."
+      "summary": "30 analytical chapters per locale, method, references and conditional futures unchanged."
     },
     "visual_evidence_readiness": {
-      "result": "failed",
-      "notes": "Formal budget and bilingual chart parity satisfied (4 tables, 4 charts, 2 flows, map, mindmap per locale), but Brazil reserves chart is not reproducible from latest cited USGS edition."
+      "result": "passed",
+      "summary": "Four charts, four tables, three flows, one map and one mindmap in each locale; evidence, units and numerical parity unchanged."
     },
     "translation_check": {
       "result": "passed",
-      "notes": "EN/PT-BR have 30 corresponding analytical chapters, 32 matching final reference URLs and same 4 chart series and numbers; both share the same substantive error."
-    },
-    "editorial_publication_readiness": {
-      "result": "failed",
-      "notes": "Critical inaccurate reserve chart and missing pre-cutoff acquisition/control evidence prevent responsible publication notwithstanding corrected registered kind and neutral prose."
-    },
-    "counterfactual_review": {
-      "result": "passed",
-      "notes": "Differentiates US trade measures, election events, official TSE outcome and unproven quid pro quo; conditional scenarios and falsifiers present."
+      "summary": "PT-BR approved blob unchanged; EN only two prose edits, but one fails English publication quality."
     },
     "conflict_security_attribution": {
       "result": "passed",
-      "notes": "Flávio US entry, asylum/recognition distinctions and allegations treated with appropriate attribution; no claim that migration status was proven exchanged for mineral concessions."
+      "summary": "No documented quid pro quo is asserted; EN line 265 remains qualified."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Conditional scenarios and falsifiers unchanged from r3."
     },
     "novelty_against_corpus": {
-      "result": "partial",
-      "notes": "Distinct synthesis of BRICS/Pix/minerals/election from prior structural dossiers; missing Sep 2026 acquisition reduces novelty and current explanatory value."
+      "result": "passed",
+      "summary": "This is a correction to existing public r3, not a new duplicate research report."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "EN opening line 9 subject–verb and agency error introduced in revision 4."
     },
     "pipeline_validation": {
       "result": "passed_with_scope_limit",
-      "notes": "GitHub Actions HEAD c733 build job 124314112425 passed validate-pipeline.mjs (157 public, 1 unpublished ready candidate, 1 approved unpublished) and validate-editorial-depth.mjs (105 approved/public artifacts). Separate strict all-pending editorial-depth job failed on five previously rejected older research drafts, not this candidate. Full Node tests not executed locally (container github.com DNS unavailable). CI success does not verify primary-source correctness."
+      "summary": "CI run 41149860829: validate-pipeline.mjs passed for 158 public bundles; all-pending editorial-depth fails on five older drafts, not r4. CI run 41149860868 build fails on public r3 self-reference lint; r4 staged was not promoted. Local scripts unavailable due github.com DNS failure."
     }
   },
   "contrary_evidence": [
-    "The candidate correctly corrected its unregistered editorial kind in revision 2; no registry objection remains.",
-    "BIS April 2025 currency-side percentages, Pix September 2026 measures, USTR Section 301 dates, TSE 25 October votes and BRICS paragraph 90 were independently cross-checked and generally support the text.",
-    "US corporate ownership of Serra Verde is now a documented 3 September 2026 fact; it is not evidence of any secret US protection-for-minerals arrangement involving Flávio Bolsonaro."
+    "Revision 4 removes the two self-referential EN expressions flagged in the public r3 build; the newly introduced line-9 grammatical defect is separate.",
+    "The prior revision 3 passed source and visual QA and is public; this rejection concerns only the new r4 lead."
   ],
   "limitations": [
-    "USGS PDF access through the web fetch returned HTTP 403; version-1.3 revision, official USGS publication metadata, indexed current tables and independent version-reconciliation records were triangulated. Producer should directly retrieve and pin the original revised PDF.",
-    "A full 32-reference source-by-source audit was not completed after two material blocking issues were confirmed; remaining claims require re-verification at the next eligible revision.",
-    "Local repository checkout and Node validators unavailable due container github.com DNS resolution failure; commit-specific GitHub Actions logs were checked."
+    "No new factual claims or sources in r4; full 40-source audit was not repeated, and r3 independent source checks were used for unchanged claims.",
+    "Local Node execution unavailable because container cannot resolve github.com; current HEAD GitHub Actions logs reviewed."
   ],
   "previous_rejection": {
-    "revision": 1,
-    "qa_status": "rejected",
-    "reviewed_at": "2026-10-30T21:06:23.879Z",
-    "rejected_blob_sha": "070997b695b29e91d00f217d26291090890bb5dc",
-    "pending_blob_sha": "914dbbe11e7f2cd184dd594b0ce3fc473c7cf621",
-    "blocking_issue": "editorial_publication_readiness",
-    "disposition": "Corrected in revision 2; original rejection remains in Git history at parent commit a510deefc5a65d2db9a371ab2c7ec2f28bc3603a and is not repeated."
+    "revision": 2,
+    "rejected_blob_sha": "dd1a6329ac00fda2ee3c472cdbf8873aaadc87ff",
+    "rejection_count_for_id": 2,
+    "pending_blob_sha": "1b85a81be421836ec0ceb2b67b069df10057cdcb",
+    "disposition": "Prior r1/r2 factual and classification blockers were resolved by approved r3; this is a distinct r4 editorial defect."
   },
-  "rejection_count_for_id": 2,
-  "notes": "Independent QA rejection only. Producer 1/5 owns correction. No public bundle, index, CSS, taxonomy, institutional copy or registry changed. No publication or deployment claimed."
+  "previous_approval": {
+    "revision": 3,
+    "approved_blob_sha": "0adbc4a40e07b24ea52cbf49406a898297590eab",
+    "approved_pending_blob_sha": "2f0499f9681f8e2bda3fd9c34151920db7ede4ef",
+    "public_revision": 3
+  },
+  "rejection_count_for_id": 3,
+  "notes": "Independent QA only. Third rejection in bounded loop; producer 1/5 owns next correction. No reports/**, public index, CSS, taxonomy or institutional content altered. Revision 4 is not authorized for publication."
 }
