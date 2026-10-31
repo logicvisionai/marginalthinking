@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "id": "MT-GSP-2026-10-30-POLAND-CONSTITUTIONAL-SECURITY-2026",
+  "slug": "2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics",
+  "revision": 1,
+  "program": "global-system-power",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-31T02:29:10.477Z",
+  "reviewed_commit": "aac4dd9f71a37587182771ef8137a01e5d12e953",
+  "pending_blob_sha": "c9441fbfdc3e5426a2ac99b9232151cf44b41c3d",
+  "source_blob_shas": {
+    "en": "ace92ff97c388ffa97e2c0b394c4a70f8b553df7",
+    "pt-BR": "3c051c3e8482addab59f7e91c1747787c3db2ae0"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "factual_methodology",
+      "location": "staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/en.md:9; staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/pt-BR.md:9",
+      "issue": "The bilingual opening presents Poland as the NATO ally with the highest defence expenditure as a share of GDP in the 2026 current context. This is not true under the NATO's July 7, 2026 country-comparable 2026 estimates. Lithuania 5.33%, Estonia 5.10%, Latvia 4.92%, and Poland 4.68%: Poland ranks fourth. The April 2026 IMF box and the March NATO annual report describe 2025 or earlier estimates, not the updated 2026 ranking. The unqualified current superlative is materially false in a central strategic claim.",
+      "evidence": [
+        "EN line 9: 'is financing the highest defence expenditure relative to GDP among NATO countries.' PT-BR line 9: 'agora financia a maior mobilização militar proporcional entre os aliados da OTAN.'",
+        "NATO Defence Investment Update, 7 July 2026: https://www.nato.int/en/news-and-events/articles/news/2026/07/07/defence-investment-update-record-spending-in-europe-and-canada",
+        "Reuters, 7 July 2026, reporting NATO comparable estimates: Lithuania 5.33%, Estonia 5.1%, Latvia 4.92%, Poland 4.68%: https://www.reuters.com/world/americas/five-nato-members-seen-spend-over-35-gdp-core-defence-year-alliance-2026-07-07/",
+        "IMF April 2026 WEO Box 2.1 supports Poland's 2025 4.5% estimate and 2021 2.2%, but does not justify a current 2026 NATO first-place claim: https://www.elibrary.imf.org/abstract/book/9798229042758/CH002.xml"
+      ],
+      "required_fix": "Replace the 2026 lead superlative in BOTH locales with a date- and methodology-qualified statement ('among NATO's highest defence-spending shares'; 2026 NATO estimate fourth), cite the NATO 7 July data in the final bibliography and in-body reference, and distinguish NATO's 2026 4.68% core-defence estimate from OECD's 2026 4.8% projection and IMF's 2025 estimate. Preserve the 2025 historical ranking only if dated and supported."
+    },
+    {
+      "check": "visual_evidence_readiness",
+      "location": "staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/en.md:144-154; staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/pt-BR.md:144-154",
+      "issue": "The first quantitative bar chart puts GDP growth and HICP inflation (annual changes in percent) on the same axis as the general-government deficit (percent of GDP) but declares a single unit 'annual percentages'/'% anual'. The deficit observations 7.3 and 6.5 are not annual percentage changes; they are deficit magnitudes as shares of GDP. A common 'annual percentage' axis is dimensionally misleading even though the underlying values match the European Commission release.",
+      "evidence": [
+        "EN chart unit: 'annual percentages; fiscal deficit shown as absolute value'; PT-BR chart unit: '% anual; déficit representado em módulo'. Both show GDP 3.6/3.5/2.8, HICP 3.6, deficit 7.3/6.5 on one axis.",
+        "European Commission spring forecast 21 May 2026 explicitly separates GDP growth (% year-on-year), HICP inflation (% year-on-year), and general government balance (% of GDP): https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/poland/economic-forecast-poland_en",
+        "RESEARCH-VISUALS.md evidence rules 3–5 require unambiguous units and forbid mixing incompatible definitions merely because they fit a common scale."
+      ],
+      "required_fix": "Separate deficit (% of GDP) from GDP growth/HICP annual rates in a table or its own chart, or otherwise use distinct correctly labelled axes/visuals supported by the renderer. Keep EN/PT-BR identical numerical evidence, dates, labels, forecast status and visual order; do not fabricate values to satisfy the visual budget."
+    }
+  ],
+  "required_fixes": [
+    "Producer MT 1/5 (MT-GSP thematic daily): correct the 2026 NATO comparative ranking and explicitly distinguish NATO 2026, OECD 2026 and IMF 2025 measures in both editions; cite the 7 July NATO release.",
+    "Rebuild the first mixed-unit quantitative chart into dimensionally compatible visual evidence with correct denominators in EN and PT-BR.",
+    "Retain the canonical ID and slug, update both staged Markdown files, then rewrite pending v2 LAST with revision 2 and exact new Git blob SHAs. Do not touch reports/**, public indices, CSS, taxonomy or institutional text. Submit for fresh independent SHA-bound QA."
+  ],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pinned HEAD aac4dd9; pending v2 ready:true revision 1, Git blob SHA c9441f... and both staged EN/PT-BR blobs ace92f.../3c051c... match producer-declared 3/3; no prior approval, rejection or public bundle for this canonical slug."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Registered kind global-institution-system, controlled taxonomy fields, research-report format and event-driven cadence; no canonical rename."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "2026 NATO defence spending first-place claim contradicted by July 2026 NATO country-comparable data (Poland fourth)."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "failed",
+      "summary": "Unqualified present-tense superlative relies on older 2025 leadership instead of the available 7 July 2026 NATO estimates; breaking October 30 court events otherwise matched Reuters/AP spot checks."
+    },
+    "evidence_traceability": {
+      "result": "partial",
+      "summary": "31 numbered bibliographic entries per locale but only 30 distinct URLs; source [13] and [30] repeat. Current NATO ranking not linked; EC May forecast, OECD June outlook, IMF April WEO and IDEA April judicial oath timeline independently spot-checked."
+    },
+    "research_depth": {
+      "result": "passed_on_reproduced_expressions",
+      "summary": "35 consecutive numbered analytical chapters in each locale, 6988 EN and 8092 PT-BR whitespace words, 31 reference entries, extensive history/institutional/economic/security analysis; no thin summary."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Each locale has 3 charts, 1 flow, 1 map, 1 mindmap and 19 Markdown table lines; numeric arrays and visual order match, but chart 1 conflates annual change rates and deficit-to-GDP levels under one 'annual percentages' unit."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Opening contains material current-year NATO ranking error; first quantitative figure has a misleading common unit. Both require correction before release."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "summary": "Both locales have 35 matching numbered sections, 31 identical URL sequences, same 3 chart arrays and same visual type sequence; both share the blocking errors."
+    },
+    "conflict_security_attribution": {
+      "result": "passed_for_checked_substance",
+      "summary": "Court suspension and politically attributed coup allegations are distinguished from a verified national military overthrow; no unsupported Russian, EU or US operational orchestration asserted."
+    },
+    "novelty_against_corpus": {
+      "result": "passed",
+      "summary": "Compared public 3 Oct Poland country dossier (14 sections): this research adds the 30 Oct constitutional court event, 35-section historical and geopolitical investigation and distinct scenario mechanisms."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Separates contested legal legitimacy, possible accommodation, deadlock, coercive rupture and external hybrid-security shock without invented probabilities."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_scope_limit",
+      "summary": "At HEAD aac4dd9 GitHub Actions run 41159885556: validate-pipeline.mjs OK (158 public bundles, 18 unpublished pending, 1 approved unpublished); validate-editorial-depth.mjs failed only five previously rejected legacy drafts for missing visual budgets, not this candidate. Full local scripts not executed: git ls-remote failed because github.com DNS unavailable."
+    }
+  },
+  "contrary_evidence": [
+    "April IMF and March NATO 2025 figures correctly place Poland among NATO leaders historically, but July 2026 NATO estimates rank it fourth, not first.",
+    "October 30 Reuters/AP accounts corroborate a court confrontation, not a completed military coup.",
+    "European Commission May 2026 GDP, deficit and debt numeric values are correct; the failure is the chart's conflated units, not fabricated observations."
+  ],
+  "limitations": [
+    "QA audited major breaking claims, EC/IMF/OECD and NATO figures, not every one of the 31 bibliography entries.",
+    "CI editorial-depth all-pending failure is preexisting and does not certify candidate publication readiness; local Node scripts could not run without checkout."
+  ],
+  "rejection_count_for_id": 1,
+  "producer_route": "MT 1/5 — Diário e Radar (MT-GSP thematic daily)",
+  "notes": "First rejection for this exact revision 1 and SHA tuple. No public bundle exists; no publisher approval. QA changed only data/rejected/<slug>.json."
+}
