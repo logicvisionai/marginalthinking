@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-31",
+  "checked_at": "2026-10-31T08:00:00Z",
+  "idempotency_key": "structural-opportunity-scan:2026-10-31",
+  "candidate_ids": [],
+  "coverage_summary": "One daily primary-source structural scan of infrastructure, energy, market design, logistics, productive capacity, credit access and institutions. Compared recent Oct 27 Brazil seized-assets, Oct 28 Korea HBM4, Oct 29 Australia energy, Oct 30 BOJ ETF staged hypotheses and earlier Pix-TIPS/Nigeria fibre. NBS Oct 31 manufacturing PMI size split (large 50.2, medium 48.4, small 47.5) is an operating-condition survey, not evidence of structural financing access or a durable opportunity; IEA Oct 14 global oil stock draw and World Bank Oct 28 commodity outlook are prior-vintage observations already within research. No new source-proven structural transition with perspective, accessible mechanism and falsifier established. No candidate fabricated; canonical Atlas untouched.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "NBS October PMI and firm size",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "Eurostat Q3 GDP",
+      "date": "2026-10-30",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    {
+      "name": "IEA October Oil Market Report",
+      "date": "2026-10-14",
+      "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+    },
+    {
+      "name": "World Bank Commodity Markets Outlook",
+      "date": "2026-10-28",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "name": "FAO food-price series",
+      "date": "2026-10-02",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/"
+    },
+    {
+      "name": "US Treasury par yields",
+      "date": "2026-10-30",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+    }
+  ],
+  "review_limitations": [
+    "PMI firm-size dispersion does not prove bank-credit rationing, cost savings or an investable structural inefficiency.",
+    "IEA global inventories observed through September, not a new October 31 physical measurement.",
+    "No new verified infrastructure commissioning, transmission capacity or logistics throughput change.",
+    "No changes made to canonical structural opportunities or history."
+  ]
+}
