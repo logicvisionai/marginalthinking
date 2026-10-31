@@ -6,7 +6,7 @@ The disputed suspension of senior officials of Poland's Constitutional Tribunal 
 
 **A coup allegation is not proof of a completed military overthrow or foreign seizure of power.** The demonstrable issue is a constitutional conflict in which Parliament, the executive, the presidency and rival groups of judges accept incompatible rules for judicial appointment and leadership. The risk of escalation depends on actual commands, institutional compliance, police conduct, judicial remedies, electoral mobilization and political compromise. [3][4][23]
 
-The confrontation takes place in a state that transformed its economy after 1989, joined NATO in 1999 and the European Union in 2004, built integrated manufacturing and logistics industries, and is financing the highest defence expenditure relative to GDP among NATO countries. Poland is not a passive buffer acted upon by Moscow, Brussels and Washington: domestic parties, institutions and voters possess independent interests. Nevertheless, its security and economic development depend on external military, financial, technological and trading relationships. [5][7][8][10][11]
+The confrontation takes place in a state that transformed its economy after 1989, joined NATO in 1999 and the European Union in 2004, built integrated manufacturing and logistics industries, and remains among NATO's highest defence spenders without ranking first: in comparable alliance estimates released on 7 July 2026, Poland ranked fourth for core defence expenditure, at 4.68% of GDP. [32] Poland is not a passive buffer acted upon by Moscow, Brussels and Washington: domestic parties, institutions and voters possess independent interests. Nevertheless, its security and economic development depend on external military, financial, technological and trading relationships. [5][7][8][10][11]
 
 Several histories intersect in modern Poland: national survival between empires, Soviet-era government and the 1989 settlement, integration into Germany-centred industrial networks, conflicting judicial legitimacy, Russia's invasion of Ukraine and the different priorities of Europe and the United States. The analysis separates October 30 events from earlier institutional causes and distinguishes observed facts from conditional projections.
 
@@ -143,14 +143,21 @@ The European Commission's spring 2026 forecast projected Polish real GDP growth 
 
 ```chart
 type: bar
-title: Real GDP, inflation and general government deficit — EC spring 2026
-unit: annual percentages; fiscal deficit shown as absolute value
+title: Real GDP growth and HICP inflation — EC spring 2026
+unit: year-on-year rate, %; 2026–2027 forecasts
 GDP 2025 | 3.6
 GDP 2026 forecast | 3.5
 GDP 2027 forecast | 2.8
-HICP 2026 forecast | 3.6
-Deficit 2025 magnitude | 7.3
-Deficit 2026 magnitude forecast | 6.5
+HICP inflation 2026 forecast | 3.6
+```
+
+```chart
+type: bar
+title: General government deficit — EC spring 2026
+unit: % of GDP, absolute deficit magnitude (not a year-on-year rate)
+Deficit 2025 actual | 7.3
+Deficit 2026 forecast | 6.5
+Deficit 2027 forecast | 6.3
 ```
 
 Private demand, EU-financed investment, defence procurement and public projects sustain economic activity. The OECD projected somewhat lower growth of **3.0% for 2026**, using different assumptions about energy and external conditions. Forecast differences illustrate uncertainty and should not be mistaken for inconsistencies in observed GDP. [7]
@@ -168,7 +175,7 @@ unit: % of GDP; 2026 and 2027 are forecasts
 
 ## 17. Defence as a major fiscal and industrial choice
 
-Poland has increased defence spending faster than most NATO members. The OECD estimated **4.5% of GDP in 2025**, projected **4.8% for 2026** and **5.0% for 2027**. The IMF estimated an increase from **2.2% of GDP in 2021** to **4.5% in 2025**; equipment acquisitions represented more than half of defence outlays. Distinct sources, classifications and forecast periods must not be presented as a single observed budget line. [7][8]
+Poland has increased defence spending faster than most NATO members. The OECD estimated **4.5% of GDP in 2025**, projected **4.8% for 2026** and **5.0% for 2027**. The IMF estimated an increase from **2.2% of GDP in 2021** to **4.5% in 2025**; equipment acquisitions represented more than half of defence outlays. Distinct sources, classifications and forecast periods must not be presented as a single observed budget line. In its **7 July 2026 update**, NATO's comparable **core-defence** estimates rank **Lithuania (5.33%), Estonia (5.10%) and Latvia (4.92%) ahead of Poland (4.68%)** for 2026. Poland is **fourth**, not first. NATO's 4.68% estimate, the OECD's 4.8% projection and the IMF's historical 2025 estimate of 4.5% use different vintages and may differ in coverage. They should not be conflated. [7][8][32]
 
 ```chart
 type: bar
@@ -178,6 +185,16 @@ unit: percent of GDP
 2025 estimate | 4.5
 2026 projection | 4.8
 2027 projection | 5.0
+```
+
+```chart
+type: bar
+title: NATO core defence expenditure, 2026 estimate published 7 July
+unit: % of GDP, harmonised NATO core-defence definition for 2026
+Lithuania | 5.33
+Estonia | 5.10
+Latvia | 4.92
+Poland | 4.68
 ```
 
 American and South Korean suppliers provide a substantial share of purchased weapons and platforms. Imported capital equipment can rapidly strengthen deterrence but has a smaller immediate domestic employment multiplier than locally produced systems. Maintenance, technology transfer and domestic supply-chain contracts could improve long-term benefits; outcomes depend on contractual implementation, not aspirations. [8]
@@ -453,3 +470,5 @@ Macroeconomic projections dated May and June 2026 are not final October outcomes
 [30] PISM, information warfare and Polish–Ukrainian tensions: https://www.pism.pl/publications/escalating-the-polish-ukrainian-dispute-russias-operational-objective-in-poland
 
 [31] Polish History, account of 1989 Round Table: https://polishhistory.pl/the-long-route-to-polands-round-table-agreement/
+
+[32] NATO, Defence Investment Update, 7 July 2026: https://www.nato.int/en/news-and-events/articles/news/2026/07/07/defence-investment-update-record-spending-in-europe-and-canada
