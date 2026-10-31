@@ -157,6 +157,15 @@ A economia cresce graças a consumo das famílias, investimento público e priva
 
 O contraste entre baixo desemprego e grande déficit fiscal é politicamente relevante. Políticas sociais, juros, aquisição de armamentos e obras concorrem por receita e empréstimos. Se o governo não conseguir aprovar medidas tributárias ou de redução de despesas, a dívida crescerá mais rapidamente; se reduzir gasto excessivamente durante choque energético ou segurança regional, pode fragilizar investimento e apoio social.
 
+```chart
+type: bar
+title: Dívida bruta do governo geral polonês, Comissão Europeia, primavera de 2026
+unit: % do PIB; 2026 e 2027 são projeções
+2025 realizado | 59.7
+2026 projetado | 64.5
+2027 projetado | 68.3
+```
+
 ## 17. A restrição fiscal e a militarização das prioridades
 
 A Polônia transformou defesa em prioridade orçamentária. Segundo a OCDE, o gasto militar foi aproximadamente **4,5% do PIB em 2025**, com projeção de **4,8% em 2026** e **5% em 2027**. O FMI calcula que despesas cresceram de **2,2% do PIB em 2021** para cerca de **4,5% em 2025**, sendo mais da metade em aquisição de equipamentos. São estimativas e projeções de metodologias específicas, não valores definitivos de toda a execução orçamentária. [7][8]
