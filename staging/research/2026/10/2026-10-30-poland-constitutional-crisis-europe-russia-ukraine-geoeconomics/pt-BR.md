@@ -6,7 +6,7 @@ A suspensão contestada de dirigentes do Tribunal Constitucional da Polônia em 
 
 Não é correto confundir a **acusação de golpe** com prova de que as Forças Armadas derrubaram o governo ou de que o Estado polonês foi tomado por um poder externo. A tensão verificável é uma **crise constitucional de múltiplas legitimidades**: Parlamento, presidência, Executivo, juízes e direção do Tribunal reconhecem diferentes procedimentos de investidura e exercício do cargo. O risco de agravamento depende de obediência administrativa, reação das forças de segurança, decisões judiciais, mobilização popular e disposição de negociar. [3][4][23]
 
-Essa disputa ocorre num país que transformou sua economia desde 1989, aderiu à OTAN em 1999 e à União Europeia em 2004, tornou-se importante centro industrial e logístico da Europa e agora financia a maior mobilização militar proporcional entre os aliados da OTAN. A Polônia não é mero território sobre o qual Rússia, Bruxelas e Washington decidem: possui memória histórica, partidos, empresas, alianças e interesses próprios. Mas também não consegue escapar de dependências de defesa, comércio, financiamento e energia. [5][7][8][9][10][11]
+Essa disputa ocorre num país que transformou sua economia desde 1989, aderiu à OTAN em 1999 e à União Europeia em 2004, tornou-se importante centro industrial e logístico da Europa e figura entre os países de maior gasto com defesa da OTAN, embora não seja o primeiro: nas estimativas comparáveis divulgadas pela aliança em 7 de julho de 2026, a Polônia ocupa a quarta posição, com 4,68% do PIB destinados à defesa principal. [32] A Polônia não é mero território sobre o qual Rússia, Bruxelas e Washington decidem: possui memória histórica, partidos, empresas, alianças e interesses próprios. Mas também não consegue escapar de dependências de defesa, comércio, financiamento e energia. [5][7][8][9][10][11]
 
 A interpretação exige cruzar seis histórias: a sobrevivência nacional entre impérios; a experiência socialista e a transição de 1989; a integração produtiva à Alemanha e à UE; a batalha sobre quem designa os juízes; a guerra da Rússia contra a Ucrânia; e a competição dentro da própria aliança ocidental entre segurança americana, prioridades de Bruxelas e nacionalismo polonês. As projeções econômicas de 2026 e as notícias de 30 de outubro são identificadas por data, sem misturar fatos observados com cenários.
 
@@ -143,14 +143,21 @@ A Comissão Europeia projeta crescimento real do PIB de **3,5% em 2026**, após 
 
 ```chart
 type: bar
-title: PIB real, inflação e déficit do governo geral — Comissão Europeia, primavera de 2026
-unit: % anual; déficit representado em módulo
+title: Crescimento real do PIB e inflação harmonizada — Comissão Europeia, primavera de 2026
+unit: variação anual, %; 2026 e 2027 são projeções
 PIB 2025 | 3.6
 PIB 2026 projetado | 3.5
 PIB 2027 projetado | 2.8
 Inflação HICP 2026 projetada | 3.6
-Déficit 2025 (módulo) | 7.3
-Déficit 2026 projetado (módulo) | 6.5
+```
+
+```chart
+type: bar
+title: Déficit das administrações públicas — Comissão Europeia, primavera de 2026
+unit: % do PIB, magnitude do saldo negativo (não é taxa de crescimento anual)
+Déficit 2025 realizado | 7.3
+Déficit 2026 projetado | 6.5
+Déficit 2027 projetado | 6.3
 ```
 
 A economia cresce graças a consumo das famílias, investimento público e privado, recursos europeus e expansão ligada à defesa. A OCDE projetou crescimento menor, **3,0% em 2026**, refletindo hipóteses distintas sobre energia e ambiente externo; a diferença entre projeções demonstra incerteza, não erro automático de uma instituição. [7]
@@ -168,7 +175,7 @@ unit: % do PIB; 2026 e 2027 são projeções
 
 ## 17. A restrição fiscal e a militarização das prioridades
 
-A Polônia transformou defesa em prioridade orçamentária. Segundo a OCDE, o gasto militar foi aproximadamente **4,5% do PIB em 2025**, com projeção de **4,8% em 2026** e **5% em 2027**. O FMI calcula que despesas cresceram de **2,2% do PIB em 2021** para cerca de **4,5% em 2025**, sendo mais da metade em aquisição de equipamentos. São estimativas e projeções de metodologias específicas, não valores definitivos de toda a execução orçamentária. [7][8]
+A Polônia transformou defesa em prioridade orçamentária. Segundo a OCDE, o gasto militar foi aproximadamente **4,5% do PIB em 2025**, com projeção de **4,8% em 2026** e **5% em 2027**. O FMI calcula que despesas cresceram de **2,2% do PIB em 2021** para cerca de **4,5% em 2025**, sendo mais da metade em aquisição de equipamentos. São estimativas e projeções de metodologias específicas, não valores definitivos de toda a execução orçamentária. **A atualização da OTAN de 7 de julho de 2026**, utilizando a mesma definição comparável de despesa principal de defesa para os membros, coloca **Lituânia (5,33%), Estônia (5,10%) e Letônia (4,92%) à frente da Polônia (4,68%)** em 2026. Isso significa a **quarta posição**, não a liderança do bloco. O percentual da OTAN (4,68%) não deve ser misturado com a projeção da OCDE (4,8%) ou com a estimativa histórica de 2025 do FMI (4,5%) sem identificar definições e datas. [7][8][32]
 
 ```chart
 type: bar
@@ -178,6 +185,16 @@ unit: % do PIB
 2025 estimado | 4.5
 2026 projetado | 4.8
 2027 projetado | 5.0
+```
+
+```chart
+type: bar
+title: Gastos principais de defesa da OTAN em 2026, estimativa de 7 de julho
+unit: % do PIB, definição harmonizada OTAN para 2026
+Lituânia | 5.33
+Estônia | 5.10
+Letônia | 4.92
+Polônia | 4.68
 ```
 
 Uma parcela expressiva dos armamentos vem do exterior, notadamente Estados Unidos e Coreia do Sul. O FMI assinala que a dependência de importações restringe o multiplicador de curto prazo sobre a economia doméstica e altera o balanço de pagamentos; por outro lado, eleva rapidamente capacidade de dissuasão. Programas de transferência tecnológica, manutenção e fabricação local podem ampliar retornos internos, desde que haja escala e contratos exequíveis.
@@ -453,3 +470,5 @@ Projeções macroeconômicas de maio e junho de 2026 não são medidas fechadas 
 [30] PISM, pesquisa sobre guerra informacional e provocação regional em 2026: https://www.pism.pl/publications/escalating-the-polish-ukrainian-dispute-russias-operational-objective-in-poland
 
 [31] História polonesa, negociações da Mesa-Redonda em 1989: https://polishhistory.pl/the-long-route-to-polands-round-table-agreement/
+
+[32] OTAN, Defence Investment Update, 7 de julho de 2026: https://www.nato.int/en/news-and-events/articles/news/2026/07/07/defence-investment-update-record-spending-in-europe-and-canada
