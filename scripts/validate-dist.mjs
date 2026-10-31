@@ -108,7 +108,10 @@ for(const file of files.filter(x=>x.endsWith('.md'))){
   if(rel.endsWith('/en.md')) blockers=enEditorialBlockers;
   else if(/^reports\/\d{4}\/\d{2}\/[^/]+\.md$/i.test(rel)||rel.endsWith('/pt-BR.md')) blockers=ptEditorialBlockers;
   if(!blockers) continue;
-  for(const rx of blockers)if(rx.test(s))fail.push(`${rel}: formulação editorial bloqueada no Markdown público (${rx})`);
+  // Check editorial prose, not citation URLs: a legitimate source slug can contain
+  // English words such as "claim" without introducing them into PT-BR copy.
+  const editorialMarkdown=s.replace(/https?:\/\/[^\s<>"']+/gi,' ');
+  for(const rx of blockers)if(rx.test(editorialMarkdown))fail.push(`${rel}: formulação editorial bloqueada no Markdown público (${rx})`);
 }
 
 const languageCss=path.join(root,'assets/css/language-switch.css');
