@@ -157,6 +157,15 @@ Private demand, EU-financed investment, defence procurement and public projects 
 
 Low unemployment coexists with substantial fiscal pressure. Defence, public wages, social programmes and infrastructure require financing. Excessively rapid consolidation could constrain investment, while persistent deficits increase debt and future interest obligations. The political conflict becomes more consequential if it obstructs credible budget decisions.
 
+```chart
+type: bar
+title: Polish gross general government debt, European Commission spring 2026
+unit: % of GDP; 2026 and 2027 are forecasts
+2025 actual | 59.7
+2026 projected | 64.5
+2027 projected | 68.3
+```
+
 ## 17. Defence as a major fiscal and industrial choice
 
 Poland has increased defence spending faster than most NATO members. The OECD estimated **4.5% of GDP in 2025**, projected **4.8% for 2026** and **5.0% for 2027**. The IMF estimated an increase from **2.2% of GDP in 2021** to **4.5% in 2025**; equipment acquisitions represented more than half of defence outlays. Distinct sources, classifications and forecast periods must not be presented as a single observed budget line. [7][8]
