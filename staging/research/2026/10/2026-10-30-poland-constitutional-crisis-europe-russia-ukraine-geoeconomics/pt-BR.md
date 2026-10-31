@@ -98,6 +98,13 @@ A polícia foi mobilizada para o perímetro do edifício. Parte dos manifestante
 
 O ponto central não é a fotografia de policiais diante de um prédio. É saber se os órgãos estatais continuarão aceitando procedimentos públicos, transparentes e revisáveis para determinar a composição do Judiciário ou se autoridades de orientação oposta passarão a manter estruturas concorrentes de comando.
 
+```flow
+2015, nomeações e reformas judiciais contestadas → 2023, alternância de maioria parlamentar → 2025, presidência conservadora e vetos
+Março/abril de 2026, juramentos incompatíveis → outubro, dirigentes do Tribunal suspensos por autoridade contestada → polícia, protestos e acusações de golpe
+Implicações políticas → decisões judiciais mutuamente questionadas → incerteza institucional e risco de escalada
+Pressões externas distintas → UE condiciona certos desembolsos a garantias judiciais → OTAN e EUA oferecem dissuasão militar → Rússia e Bielorrússia ampliam risco híbrido
+```
+
 ## 12. O termo golpe: três definições que não se devem misturar
 
 **Golpe militar clássico** é a destituição do poder por unidades armadas ou forças de segurança que assumem ou transferem o governo fora das regras constitucionais. **Autogolpe** ocorre quando quem já controla o Executivo suspende, dissolve ou subordina mecanismos constitucionais para se perpetuar. **Ruptura institucional por captura de órgão** pode envolver ocupação coercitiva e nomeações ilegais sem resultar imediatamente na tomada do governo nacional.
