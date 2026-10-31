@@ -159,14 +159,16 @@ O mapa registra funções geoeconômicas por região; não localiza jazidas, ins
 
 ## 15. Terras raras: reservas no subsolo não são ímãs, ligas ou motores
 
-O USGS estimou, nas *Mineral Commodity Summaries 2026*, reservas de elementos de terras raras equivalentes a **44 milhões de toneladas de óxidos na China**, **21 milhões no Brasil**, **6,3 milhões na Austrália**, **3,8 milhões na Rússia** e **1,9 milhão nos EUA**. Os mesmos quadros estimam produção de mina em 2025 de **270 mil toneladas para China**, **2 mil para Brasil** e **51 mil para EUA**. Reservas e produção anual são grandezas diferentes e devem aparecer em gráficos separados. Os dados de produção incluem estimativas e reservas podem ser revisadas. [16]
+O USGS publicou em fevereiro de 2026 a série *Mineral Commodity Summaries*, posteriormente revisada até a **versão 1.3 de 27 de maio de 2026**. A tabela atualizada e individual de terras raras estima reservas de óxidos equivalentes (REO) de **44 milhões de toneladas na China**, **11 milhões no Brasil**, **6,3 milhões na Austrália**, **3,8 milhões na Rússia** e **1,9 milhão nos Estados Unidos**. A estimativa brasileira de **21 milhões de toneladas**, reproduzida em versões anteriores da edição 2026, foi substituída pela revisão de maio; para um corte editorial em outubro não se deve reutilizar o número antigo. [16][33]
+
+A mesma publicação apresenta produção mineira estimada para 2025 de **270 mil toneladas na China**, **51 mil nos EUA**, **29 mil na Austrália** e **2 mil no Brasil**. O quadro distingue explicitamente reservas geológicas de fluxo anual de extração, medido em REO equivalente. Mudanças de metodologia, novas informações oficiais e revisão de reservas não são equivalentes a perda física súbita de dez milhões de toneladas no subsolo. O dado atualizado não elimina a relevância da posição brasileira; exige, porém, rigor sobre a base estatística utilizada. [16][33]
 
 ```chart
 type: bar
-title: Reservas estimadas de terras raras por país, USGS 2026
+title: Reservas estimadas de terras raras por país, USGS MCS 2026 v1.3 (maio)
 unit: milhões de toneladas de óxido equivalente (REO)
 China | 44
-Brasil | 21
+Brasil | 11
 Austrália | 6.3
 Rússia | 3.8
 Estados Unidos | 1.9
@@ -182,9 +184,9 @@ Austrália | 29
 Brasil | 2
 ```
 
-O contraste brasileiro é decisivo: grande potencial geológico não se traduz automaticamente em produção industrial, poder de mercado ou capacidade de substituir fornecedores chineses. Viabilidade depende de teor do minério, composição entre terras raras leves e pesadas, licença ambiental, recuperação metalúrgica, custo de capital, estradas, energia, reagentes, qualificação técnica e acordos de compra. Mesmo depois de obter concentrado ou carbonato misto, são necessárias etapas de separação, refino, metalurgia e fabricação de ímãs permanentes.
+A divergência entre a reserva brasileira e o pequeno fluxo de produção nacional demonstra que potencial geológico não equivale a poder de mercado. Teor do depósito, proporção de elementos pesados, autorização ambiental, recuperação metalúrgica, energia, reagentes, conhecimento químico, infraestrutura e contratos de venda determinam a escala industrial. O concentrado ou carbonato misto de terras raras (MREC) ainda demanda separação, refino, metalização e fabricação de componentes especializados.
 
-As terras raras não são uma mercadoria uniforme. Neodímio e praseodímio são usados em ímãs importantes para motores; disprósio e térbio podem melhorar desempenho em altas temperaturas, com cadeias particularmente sensíveis. Quantidade bruta de reserva não informa diretamente quais elementos existem em concentrações comercialmente aproveitáveis. Essa composição afeta o valor estratégico de cada jazida.
+Neodímio e praseodímio são centrais para determinados ímãs permanentes; disprósio e térbio podem ser relevantes para estabilidade a altas temperaturas. Um dado agregado de reservas em REO não informa sozinho a proporção recuperável de cada elemento, nem sua rentabilidade. O caso brasileiro deve ser analisado por jazida e etapa da cadeia, particularmente após o controle empresarial e o direcionamento de compras da Serra Verde em 2026. [34][35][36][37]
 
 ## 16. A importância da capacidade de refino chinesa
 
@@ -196,11 +198,27 @@ Essa diferença entre localização da rocha e controle da transformação é cr
 
 ## 17. O financiamento americano existente: o caso Pela Ema
 
-A *Development Finance Corporation* americana divulgou documentação sobre financiamento de **US$ 465 milhões** ao projeto ligado à mina Pela Ema, em Goiás, com custos totais projetados de aproximadamente **US$ 628 milhões**. O instrumento busca ampliar capacidade de terras raras, inclusive pesadas, e inclui despesas operacionais e refinanciamento previstas no projeto. O produto principal esperado é carbonato misto de terras raras, intermediário que exige processamento posterior. [18]
+O caso Pela Ema, em Minaçu, Goiás, deixou de ser apenas um projeto potencial financiado pelos EUA. A sequência documental revela **financiamento contratado, contrato de fornecimento de longo prazo, capitalização de comprador ligado ao governo americano e aquisição societária concluída**. Confundir essas operações ou tratá-las como simples possibilidades futuras enfraquece a análise das opções de política industrial brasileira.
 
-Essa é evidência concreta de interesse estratégico e econômico americano no Brasil; não constitui prova de que o governo dos EUA controla todas as terras raras brasileiras. Tampouco permite concluir que o país recebeu direitos automáticos sobre depósitos nacionais como contrapartida pela proteção política a um candidato. Financiamento, investimento acionário, contrato de compra futura, licença de lavra e soberania mineral são instrumentos diferentes com direitos distintos.
+**Primeira fase, 2025–fevereiro de 2026.** A DFC americana havia indicado em 2025 um financiamento de **US$ 465 milhões**. Em **5 de fevereiro de 2026**, a Serra Verde anunciou um pacote ampliado de **US$ 565 milhões**, com opção de participação acionária minoritária para o governo americano. Documento apresentado à SEC descreve uma linha sênior garantida de até US$ 565 milhões, formalizada em janeiro, com juros indexados à SOFR mais quatro pontos percentuais, garantias sobre ativos da operação e **primeiro saque de US$ 325 milhões realizado em 6 de março**. Portanto, limite contratado e recursos efetivamente sacados não são sinônimos. A apresentação à SEC também descreve warrants ligados à DFC, cujos direitos sofreriam tratamento na posterior combinação societária. [18][34][35]
 
-A análise deve mapear beneficiário, custo de capital, garantias, covenants, direitos de preferência na compra, conteúdo local, riscos ambientais, transparência de beneficiários finais e possibilidade de desenvolver separação química no Brasil. Mesmo financiamentos que diversificam a cadeia global podem produzir assimetrias contratuais relevantes para fornecedores nacionais.
+**Segunda fase, abril–agosto.** Em **20 de abril de 2026**, foi anunciado acordo de aquisição da Serra Verde pela **USA Rare Earth (USAR)**. No mesmo ciclo foi estabelecido contrato de compra futura (*offtake*) por **15 anos**, envolvendo **100% da produção da Fase I** de minerais magnéticos contidos no carbonato misto produzido no Brasil, direcionado a uma sociedade de propósito específico (SPV) com participação do governo dos EUA e de capital privado. O acordo combina obrigações de retirada e pagamento (*take-or-pay*) com preços mínimos contratuais; a Serra Verde anunciou pisos de **US$ 2.050/kg para térbio**, **US$ 575/kg para disprósio** e **US$ 110/kg para neodímio e praseodímio**. Os números se referem ao arranjo contratual informado pela companhia, não a um preço mundial fixado pelo governo. [35][36][37]
+
+Em **24 de agosto**, USA Rare Earth e Serra Verde comunicaram a organização de um **SPV de até US$ 1,55 bilhão** para adquirir o produto da Fase I. Sua estrutura anunciada compreendia **US$ 750 milhões de compromisso de aporte governamental**, compromisso de linha bancária de até **US$ 500 milhões**, sujeito a condições, e compra futura por órgãos dos EUA de **pelo menos US$ 300 milhões ao longo de cinco anos**. Esses componentes não devem ser descritos como US$ 1,55 bilhão integralmente desembolsados em caixa no Brasil; distinguem-se capitalização, linha condicionada e obrigação comercial futura. A Serra Verde afirmou que o contrato entrara em plena eficácia para iniciar entregas previstas para o quarto trimestre de 2026. [36][37]
+
+**Terceira fase, setembro.** A **aquisição de Serra Verde pela USAR foi concluída em 3 de setembro de 2026**, conforme anúncio do dia seguinte e documentação da SEC. A estrutura divulgada envolveu **US$ 300 milhões em dinheiro e aproximadamente 126,85 milhões de ações USAR** destinadas a vendedores e beneficiários dos direitos da empresa adquirida. A operação integrou a mineradora goiana ao grupo americano que pretende atuar da mina ao ímã, com unidades e projetos no Brasil, Estados Unidos, Reino Unido e França. A expectativa de ampliar produção de TREO para cerca de 4 mil toneladas anuais até o final de 2026 é uma **meta de capacidade**, não produção já constatada. [38][39]
+
+Essa cronologia mostra um fato mais forte do que a antiga hipótese de interesse: **houve aquisição corporativa efetiva de uma produtora estratégica brasileira e forte vinculação de sua produção da Fase I a compradores associados a interesses americanos**. Isso não transfere a soberania sobre o subsolo brasileiro aos EUA, não equivale à propriedade de todas as reservas do país e não demonstra, por si, vínculo com a acolhida posterior de Flávio Bolsonaro. Mas modifica concretamente o controle societário, os direitos de comercialização e as alternativas disponíveis à operação.
+
+A autoridade antitruste brasileira, **Cade**, informou em **11 de maio** a abertura de procedimento para examinar a combinação e o fornecimento. Esse fato comprova atenção regulatória, não julgamento conclusivo de ilicitude ou conclusão de que a aquisição foi proibida. A investigação precisa acompanhar as decisões, a governança da operação, os contratos, as licenças, os direitos trabalhistas e ambientais, o cumprimento de compromissos locais e a localização efetiva das etapas de separação química. [40]
+
+```flow
+DFC 2025, proposta US$ 465 mi → fevereiro de 2026, crédito contratado até US$ 565 mi → março, primeiro saque US$ 325 mi
+Abril, aquisição e offtake anunciados → agosto, SPV US$ 1,55 bi estruturado e offtake em vigor → setembro, aquisição pela USA Rare Earth concluída
+Conseqüência operacional → controle societário americano e Fase I contratada por 15 anos → avaliação brasileira de concorrência, industrialização e limites jurídicos
+```
+
+A discussão de soberania deve, a partir daqui, diferenciar controle da empresa, direitos de compra de produto, garantias financeiras e jurisdição territorial. Um controle societário americano efetivo sobre a concessionária brasileira não é uma anexação da jazida; tampouco é mera possibilidade abstrata de investidor estrangeiro. O objeto estratégico é a alocação de produção e tecnologia em uma cadeia transnacional. [35][36][38][39][40]
 
 ## 18. O papel das eleições de 2026 na negociação comercial
 
@@ -248,11 +266,13 @@ Transformar essa capacidade potencial de influência em afirmação de chantagem
 
 ## 22. Quais seriam as concessões materiais em uma barganha mineral
 
-Um eventual acordo poderia tratar de financiamento para mineração, garantias de compra, transferência de tecnologia, criação de capacidade local de refino, cooperação geológica, padrões ambientais, facilitação de investimentos, proteção de propriedade intelectual ou acesso a materiais para cadeias de defesa e tecnologia. As alternativas têm consequências distributivas distintas. O Brasil poderia fornecer concentrados e importar ímãs, ou negociar plantas de separação e formação de fornecedores nacionais.
+A cronologia da Serra Verde fornece um **caso observado de barganha mineral materializada antes da eleição brasileira de outubro**. Já existem crédito contratado, aquisição societária e compromissos sobre a produção. O debate não deve voltar ao tempo condicional para esses fatos: uma empresa americana concluiu a combinação com a operadora goiana, e um veículo capitalizado com apoio público americano contratou 100% do produto da Fase I por quinze anos. [34][36][37][38][39]
 
-Uma leitura de soberania não deve reduzir toda participação estrangeira à perda de controle. Propriedade do subsolo, regime de autorização mineral, controle de infraestrutura, direito de comercializar produto, governança societária e repartição tributária são dimensões separadas. É possível obter investimento estrangeiro mantendo cláusulas de industrialização, transparência e monitoramento; é possível, também, criar dependência contratual com capital predominantemente nacional se a tecnologia e a clientela permanecerem concentradas no exterior.
+Outras concessões possíveis continuam em discussão: investimento em separação química no Brasil, transferência tecnológica, facilitação de novos financiamentos e licenciamento, acesso prioritário a outros depósitos, incorporação de fornecedores nacionais e cooperação em padrões ambientais. Essas possibilidades não devem ser confundidas com direitos já adquiridos pela USA Rare Earth na operação específica de Pela Ema.
 
-A pergunta operacional para cada projeto é onde ficam a margem de lucro, o emprego qualificado, a propriedade intelectual e o risco de fechamento da cadeia. Uma negociação coerente deve ser analisada por documentos públicos, registro empresarial, composição de produtos e execução física, não por slogans sobre entrega ou defesa da riqueza nacional.
+**O contrafactual brasileiro** deve comparar três arranjos, sem pressupor a resposta: exportação contratada de MREC para processamento externo; instalação de plantas brasileiras de separação e refino com parceiros; e desenvolvimento gradual de uma cadeia de metalização e fabricação de ímãs. Em cada modalidade importa medir emprego qualificado, transferência de conhecimento, margens, receita tributária, estabilidade de demanda, riscos de preços e compromissos socioambientais.
+
+Uma reserva em território brasileiro permanece sujeita às instituições e leis brasileiras, mas o controle societário e comercial da empresa que a explora pode situar-se fora do país. Essa diferença é central para a geoeconomia: concessão de lavra, ações da companhia, dívida garantida, contrato take-or-pay e propriedade do minério extraído são direitos distintos. Também torna inadequado afirmar que os EUA precisariam esperar uma fuga política em outubro para assegurar presença num ativo que já haviam adquirido em setembro. [38][39][40]
 
 ## 23. Incentivos internos do Brasil: políticas industriais e custos do desenvolvimento
 
@@ -283,7 +303,7 @@ A pressão geoeconômica sobre o Brasil também pode ter repercussões para Para
 | Evidência | Constatação sustentada | Inferência que não se pode fazer automaticamente |
 |---|---|---|
 | USTR, investigação e tarifa em 2025–2026 | Disputa comercial formal, incluindo Pix | Tarifa exclusivamente motivada por moeda dos BRICS |
-| Documentação DFC sobre Pela Ema | Financiamento americano de terras raras no Brasil | Transferência automática de soberania sobre depósitos |
+| Documentação DFC, SPV e aquisição da Serra Verde | Crédito US$ 565 mi, 15 anos de offtake da Fase I e compra societária concluída em setembro | Transferência automática de soberania sobre todas as reservas ou vínculo provado com a saída de Flávio |
 | Grupo de trabalho comercial em setembro | Negociação bilateral iniciada antes da eleição | Acordo de outubro exclusivamente causado pela fuga |
 | Resultado do TSE em 25/10 | Vitória eleitoral oficial de Lula | Reconhecimento de Flávio como presidente alternativo |
 | Entrada de Flávio nos EUA após 28/10 | Acolhida migratória relatada por múltiplas fontes | Compromisso secreto já provado sobre Pix ou minerais |
@@ -351,7 +371,7 @@ O valor desses indicadores é impedir que uma mudança narrativa seja confundida
 
 ## 30. Síntese: o conflito pela infraestrutura da autonomia
 
-Há competição objetiva por normas de pagamento, cadeias minerais, mercados e legitimidade diplomática. O BRICS oferece ao Brasil um fórum para negociar alternativas de financiamento e instrumentos de pagamentos, mas não dispõe de moeda comum aprovada. O Pix provou ser infraestrutura doméstica de escala expressiva e tornou-se objeto de acusações comerciais oficiais dos EUA; isso não faz dele substituto do dólar no mercado global. Terras raras brasileiras são um recurso estratégico potencial, mas só geram influência industrial quando reservas são transformadas em materiais e produtos que fábricas possam usar. [1][7][10][16][17]
+Há competição objetiva por normas de pagamento, cadeias minerais, mercados e legitimidade diplomática. O BRICS oferece ao Brasil um fórum para negociar alternativas de financiamento e instrumentos de pagamentos, mas não dispõe de moeda comum aprovada. O Pix provou ser infraestrutura doméstica de escala expressiva e tornou-se objeto de acusações comerciais oficiais dos EUA; isso não faz dele substituto do dólar no mercado global. As reservas brasileiras constituem potencial estratégico, mas o caso Serra Verde mostra que o controle de empresas e offtakes já molda a cadeia antes mesmo da expansão industrial: sua aquisição por companhia americana ocorreu em setembro e sua Fase I está contratualmente vinculada por quinze anos. [1][7][10][16][17][36][38]
 
 A reeleição de Lula em 25 de outubro e a saída de Flávio Bolsonaro acrescentaram tensão política real a relações Brasil–EUA que já continham tarifas, consultas e negociações minerais. Há evidências de atuação americana na acolhida migratória relatada por fontes jornalísticas; **não há, nas fontes analisadas, prova direta de que Washington tenha condicionado essa acolhida a uma entrega de terras raras, mudança do Pix ou abandono de projetos BRICS**. Aceitar a primeira constatação e recusar a segunda como fato não diminui a importância da investigação; delimita seu padrão de prova. [14][15][20][23][24]
 
@@ -361,7 +381,7 @@ O poder brasileiro dependerá, em larga medida, de como transforma esses conflit
 
 **Fatos observados:** atos do USTR, documentos do governo brasileiro, declaração BRICS de setembro, registros do Banco Central, TSE, tabelas USGS e instrumento de financiamento DFC. **Posições atribuídas:** alegações do USTR sobre discriminação, defesa brasileira, declarações de Lula e Flávio, declarações de representantes americanos e argentinos. **Inferências condicionais:** efeitos econômicos esperados de interoperabilidade, de diferentes contratos minerais e de pressões diplomáticas. **Cenários:** quatro alternativas sem atribuição de probabilidades.
 
-As reportagens sobre deslocamento internacional de Flávio dependem de declarações de fontes e cobertura independente; atos migratórios completos não foram apresentados como publicamente disponíveis. O relatório técnico de terras raras traz estimativas para 2025, não contagem física de outubro de 2026. Os dados do BIS medem presença de moeda em transações cambiais e somam mais de 100% por envolverem dois lados; dados do Pix medem atividade nacional, não substituição de receitas internacionais. A documentação DFC comprova estrutura de financiamento anunciada, sem autorizar extrapolação para todas as jazidas brasileiras. A causalidade entre o acolhimento de Flávio e concessões geoeconômicas permanece **não demonstrada**.
+As reportagens sobre deslocamento internacional de Flávio dependem de declarações de fontes e cobertura independente; atos migratórios completos não foram apresentados como publicamente disponíveis. O relatório técnico de terras raras traz estimativas para 2025, não contagem física de outubro de 2026. Os dados do BIS medem presença de moeda em transações cambiais e somam mais de 100% por envolverem dois lados; dados do Pix medem atividade nacional, não substituição de receitas internacionais. A documentação DFC, da Serra Verde, da USAR e da SEC comprova crédito e primeiro saque, acordo de compra e conclusão de aquisição societária em fases e datas distintas; esses fatos não autorizam generalização para todas as jazidas brasileiras. A causalidade entre o acolhimento de Flávio e concessões geoeconômicas permanece **não demonstrada**.
 
 ## Referências e documentos de pesquisa
 
@@ -395,7 +415,7 @@ As reportagens sobre deslocamento internacional de Flávio dependem de declaraç
 
 [15] MDIC, reunião de negociação comercial com USTR, 30 set. 2026: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/reuniao-presencial-brasil-eua-sobre-temas-comerciais
 
-[16] USGS, Mineral Commodity Summaries 2026, terras raras, reserva e produção em REO: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026.pdf
+[16] USGS, Mineral Commodity Summaries 2026, ficha de terras raras atualizada na versão 1.3 de maio (11 Mt REO para Brasil): https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf
 
 [17] IEA, Global Critical Minerals Outlook 2026, sumário executivo: https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary
 
@@ -428,3 +448,19 @@ As reportagens sobre deslocamento internacional de Flávio dependem de declaraç
 [31] IEA, versão 2026 do relatório de minerais críticos com enfoque na América Latina: https://www.iea.org/reports/global-critical-minerals-outlook-2026
 
 [32] Reuters, discursos de Lula na cúpula BRICS, agosto 2023: https://economia.uol.com.br/noticias/reuters/2023/08/24/lula-sauda-expansao-do-brics-e-diz-que-bloco-criou-grupo-para-estudar-moeda-de-referencia.htm
+
+[33] USGS, histórico de versões das Mineral Commodity Summaries 2026 (v1.3 revisada em 27 maio): https://pubs.usgs.gov/publication/mcs2026
+
+[34] Serra Verde, comunicado de financiamento DFC de US$ 565 milhões (5 fevereiro 2026): https://www.serraverde.com/2026/02/serra-verde-secures-us565-million-financing-from-us-international-development-finance-corporation/
+
+[35] SEC, documentação de crédito DFC, saque de US$ 325 milhões e acordo de fornecimento: https://www.sec.gov/Archives/edgar/data/1970622/000121390026055508/ea0290028-01.htm
+
+[36] Serra Verde, offtake de quinze anos, preços pisos e capitalização SPV (24 agosto): https://www.serraverde.com/2026/08/serra-verde-announces-finalization-of-us-government-offtake-agreement-with-mrec-deliveries-to-commence-by-this-year/
+
+[37] USA Rare Earth, capitalização e compromissos do SPV US$ 1,55 bilhão (24 agosto): https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-nasdaq-usar-announces-completion-upsized-155
+
+[38] USA Rare Earth, fechamento da combinação com Serra Verde em 3 setembro: https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-completes-combination-serra-verde-group
+
+[39] SEC, registro de transação concluída com US$ 300 milhões e 126,85 milhões de ações: https://www.sec.gov/Archives/edgar/data/1970622/000121390026097756/ea0304148-s3_usarare.htm
+
+[40] Cade, apuração de combinação societária e contrato de fornecimento (11 maio): https://www.gov.br/cade/pt-br/assuntos/noticias/cade-apura-acordos-de-combinacao-e-de-fornecimento-em-terras-raras
