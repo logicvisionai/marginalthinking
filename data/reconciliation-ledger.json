@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-30T13:03:47.104Z",
+  "last_reconciled_at": "2026-10-31T00:23:59.152Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7493,6 +7493,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Stock, capacity and industrial-processing vulnerability observations do not independently validate a discrete technology performance, deployment readiness or adoption milestone as required by the cumulative technology-signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30-brics-pix-rare-earths-publication-reconciliation",
+      "reconciled_at": "2026-10-31T00:23:59.152Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-10-30-BRICS-PIX-RARE-EARTHS-BRAZIL-US"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "BRICS payment interoperability, US trade pressure and the Serra Verde offtake identify candidate dependencies; the report does not verify normalized bilateral flow magnitudes, counterparties and exposure units for a new canonical network edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "BRA-PIX-001 already exists. The 2026 Pix trade dispute and mineral processing prospects do not provide new verified project-level investment costs, execution constraints and measurable returns for an atlas revision."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "SEC, DFC and company records cited in the approved dossier document USA Rare Earth–Serra Verde acquisition, lending and offtake, but the actors graph needs specialist entity/relation mapping distinguishing legal ownership, lenders, buyers and mining-rights holders before a canonical edit."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "September 2026 corporate acquisition and 15-year Phase I offtake are documented control channels, but the dossier does not establish all concession title, beneficial ownership, allocation of mine output and jurisdictional rights required for a verified new resource-control atlas entry. Refer for specialist structured research."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report evaluates BRICS/Pix policy disputes and mineral commercial transactions; it is not a measured policy experiment with implemented outcomes and counterfactual evidence required for the policy-case atlas."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The article addresses trade and diplomatic pressure, not a verified armed conflict event or change in a mapped conflict system."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Pix adoption and rare-earth supply chains are background infrastructure and industrial observations here; no new measured discrete technology performance or deployment milestone is validated."
         }
       ]
     }
