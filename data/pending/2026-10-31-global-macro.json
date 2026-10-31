@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-31",
+  "slug": "2026-10-31-global-macro",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/10/2026-10-31-global-macro/en.md",
+      "title": "Global Macro — China's orders retreat as Europe's output slows and energy risks outlast the bond rally",
+      "deck": "China's October factory and export-order surveys fell below 50, Europe's Q3 GDP growth slowed and US yields eased; uneven demand meets persistent energy risks.",
+      "tags": [
+        "Global Macro",
+        "China PMI",
+        "Euro area GDP",
+        "US Treasury",
+        "Energy prices",
+        "Industrial orders"
+      ],
+      "keywords": [
+        "China October 2026 PMI 49.3",
+        "China export orders 48.7",
+        "euro area Q3 GDP 0.4",
+        "Treasury yield October 30 4.94",
+        "global trade demand"
+      ],
+      "regime": "Uneven global expansion with weaker Chinese order diffusion and persistent energy cost risks.",
+      "key_risk": "Industrial demand weakens while energy import costs and borrower-specific credit costs stay elevated.",
+      "watch": [
+        "China November PMI and customs exports",
+        "Euro area October flash HICP 4 November",
+        "Eurostat Q3 GDP revision 13 November",
+        "US Treasury curve and private credit spreads",
+        "Verified Gulf physical energy flows"
+      ],
+      "search_text": "31 October 2026 Global Macro China manufacturing PMI 49.3 export orders 48.7 euro area GDP 0.4 unemployment 6.5 US Treasury 4.94 energy risk"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/10/2026-10-31-global-macro/pt-BR.md",
+      "title": "Global Macro — Encomendas chinesas recuam, crescimento europeu perde ritmo e risco energético persiste apesar da queda dos Treasuries",
+      "deck": "PMIs industriais e de exportação da China ficaram abaixo de 50, o PIB europeu desacelerou e os rendimentos americanos recuaram; demanda desigual enfrenta custos energéticos persistentes.",
+      "tags": [
+        "Global Macro",
+        "PMI da China",
+        "PIB da área do euro",
+        "Treasury americano",
+        "Energia",
+        "Encomendas industriais"
+      ],
+      "keywords": [
+        "China PMI outubro 2026 49,3",
+        "encomendas exportação China 48,7",
+        "PIB euro terceiro trimestre 0,4",
+        "Treasury 30 outubro 4,94",
+        "demanda comércio mundial"
+      ],
+      "regime": "Expansão mundial desigual, enfraquecimento das encomendas chinesas e risco persistente de custos energéticos.",
+      "key_risk": "Demanda industrial enfraquece enquanto importações energéticas e crédito privado permanecem caros.",
+      "watch": [
+        "PMI chinês de novembro e exportações aduaneiras",
+        "Prévia de inflação europeia em 4 de novembro",
+        "Revisão do PIB europeu em 13 de novembro",
+        "Curva americana e spreads privados",
+        "Fluxos físicos comprovados de energia no Golfo"
+      ],
+      "search_text": "Global Macro 31 outubro 2026 China PMI industrial 49,3 exportações 48,7 PIB euro 0,4 desemprego 6,5 Treasury 4,94 energia"
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "2026-10-31 05:00 BRT (08:00 UTC); China NBS 31 Oct 09:30 CST released 30 Oct 22:30 BRT; 30 Oct US/EU completed releases and sessions.",
+    "novelty": "Compared 28 Oct Korean AI memory contracts, 29 Oct Fed/BoC divergence, 30 Oct US GDP/income. New NBS October PMI by size and export orders plus Eurostat Q3 GDP and Sep unemployment and 30 Oct US Treasury curve; distinct thesis on geographically uneven goods demand.",
+    "source_check": "14 numbered references in each language; primary NBS, Eurostat, Treasury, BEA, ECB, Fed, World Bank, ICI. Reuters used only for qualified conflict/settlement context. Dates, frequencies and conditional forecasts distinguished.",
+    "visual_signature": "EN/PT each 1 evidence table, 5 quantitative charts with identical values, 1 three-chain flow, 1 five-region map. All chart values trace to NBS, Eurostat and Treasury.",
+    "bilingual_parity": "Same 14 reference URLs, numerical evidence, uncertainty qualifiers, five chart series and conditional scenario logic in both languages.",
+    "research_depth": "Substantive multi-regional argument; independent mechanisms, contrary evidence, falsifiers, stock-flow distinctions, observation vintages."
+  },
+  "contrary_evidence": [
+    "Chinese high-technology manufacturing subsectors above 53 and large manufacturers at 50.2; one-month survey can be affected by holidays.",
+    "Euro-area real GDP still expanded 0.4% q/q in Q3; Irish and Spanish growth show heterogeneity.",
+    "US Q3 real GDP rose 3.4% annualised, inconsistent with a uniform global contraction."
+  ],
+  "limitations": [
+    "China PMI is a diffusion index and not measured export volumes, factory output growth or SME credit access.",
+    "Eurostat GDP is preliminary, country composition and annualisation differ from US GDP.",
+    "No independently verified new Gulf shipping throughput, insurance costs or borrower-level credit spreads.",
+    "Cross-border capital flow attribution unavailable; ICI money fund asset change cannot identify international reallocations."
+  ],
+  "evidence_sources": [
+    {
+      "name": "NBS PMI",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "NBS interpretation",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html"
+    },
+    {
+      "name": "Eurostat GDP",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    {
+      "name": "Eurostat unemployment",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-30102026-bp"
+    },
+    {
+      "name": "Treasury curve",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "World Bank commodities",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    }
+  ]
+}
