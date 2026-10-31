@@ -98,6 +98,13 @@ Police surrounded the premises. Demonstrators sought to cross barriers, objects 
 
 The question is whether Poland's institutions can establish a procedure accepted as valid for judicial appointment, removal and appeal, or whether incompatible chains of authority become entrenched.
 
+```flow
+2015, disputed judicial appointments and reforms → 2023, parliamentary majority changes → 2025, conservative presidency and vetoes
+March/April 2026, incompatible oaths → October, contested suspension of tribunal leaders → police, protests and coup allegations
+Political transmission → mutually disputed judicial decisions → institutional uncertainty and escalation risk
+Distinct external pressures → EU funding conditionality for judicial guarantees → NATO and US military deterrence → Russian and Belarusian hybrid-security pressure
+```
+
 ## 12. What 'coup d'état' can mean—and why definitions matter
 
 A **military coup** involves armed forces or security units illegally removing a government or transferring control of national power. An **autogolpe** involves an incumbent government suspending or subordinating constitutional checks to entrench itself. A **coercive takeover of a particular constitutional body** can violate law even without a completed national coup.
