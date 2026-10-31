@@ -159,14 +159,16 @@ This map describes regional geoeconomic functions, not mine locations, operating
 
 ## 15. Rare earths: the difference between resources and industrial control
 
-The US Geological Survey's 2026 mineral statistics estimated rare-earth reserves at **44 million metric tons of REO equivalent in China**, **21 million in Brazil**, **6.3 million in Australia**, **3.8 million in Russia** and **1.9 million in the US**. Estimated **2025 mine production** was **270,000 metric tons for China**, **2,000 for Brazil** and **51,000 for the US**. Reserves and annual production represent separate phenomena; they are plotted separately. Figures are subject to methodology, estimation and revision. [16]
+The US Geological Survey first published its *Mineral Commodity Summaries 2026* in February, then revised the edition through **version 1.3 dated 27 May 2026**. The updated rare-earth factsheet estimates reserves of **44 million metric tons of rare-earth oxide equivalent (REO) in China**, **11 million in Brazil**, **6.3 million in Australia**, **3.8 million in Russia** and **1.9 million in the United States**. The previously circulated **21-million-ton figure for Brazil** belonged to an earlier release of the same edition; it is not the revised value applicable to an October 2026 evidence cutoff. [16][33]
+
+The same statistical table estimates **2025 mine output** of **270,000 metric tons in China**, **51,000 in the US**, **29,000 in Australia** and **2,000 in Brazil**. Reserves and annual mine output must be displayed independently. A statistical downward revision does not mean that ten million tons of physical ore suddenly disappeared: reserve estimates respond to classification, updated official information and economic assumptions. Brazil remains geologically important even after the revised estimate. [16][33]
 
 ```chart
 type: bar
-title: Estimated rare-earth reserves by country, USGS 2026
+title: Estimated rare-earth reserves by country, USGS MCS 2026 v1.3 (May)
 unit: million metric tons rare-earth oxide equivalent (REO)
 China | 44
-Brazil | 21
+Brazil | 11
 Australia | 6.3
 Russia | 3.8
 United States | 1.9
@@ -182,9 +184,9 @@ Australia | 29
 Brazil | 2
 ```
 
-Brazil's central contrast is substantial geological endowment and relatively small current extraction. A country's reserve estimate does not establish an immediately deliverable supply of qualified magnets. Ore grade, light versus heavy rare-earth composition, metallurgical recovery, environmental permissions, roads, energy, reagents, financing and reliable buyers determine commercial output. After mixed concentrates or carbonates are produced, additional separation, refining, metalmaking and magnet manufacturing remain necessary.
+The divide between Brazilian reserves and low annual extraction illustrates that resources alone do not produce industrial power. Ore grades, heavy-element composition, metallurgical yield, environmental licences, financing, specialist labour, reagents, energy and customers constrain production. Mixed rare-earth carbonate (MREC) still requires separation, refining, metalmaking and qualified component production.
 
-The term rare earth covers materials with different strategic uses. Neodymium and praseodymium are important in magnets; terbium and dysprosium can support performance in high-temperature applications. The value of a deposit depends on recoverable composition, not simply aggregate REO tonnage.
+Neodymium and praseodymium are central to various permanent magnets; dysprosium and terbium support selected demanding thermal applications. Aggregate REO reserves do not show their economically recoverable ratio in a particular ore body. For Brazil, operational control and purchase rights in 2026 are as significant as the headline geological figure. [34][35][36][37]
 
 ## 16. China's downstream processing concentration
 
@@ -196,11 +198,27 @@ For Brazil, signing an ore or mixed-carbonate sales agreement may generate jobs 
 
 ## 17. An actual US financial commitment: the Pela Ema project
 
-The US Development Finance Corporation released documentation for a proposed **US$465 million financing** of SVRE's Pela Ema rare-earth project in Goiás, involving production expansion, operating costs and other specified uses. Estimated total project costs were **US$628 million**. Its expected product includes mixed rare-earth carbonate, which still requires downstream processing. [18]
+Pela Ema in Minaçu, Goiás, was not merely a future American-financed prospect by October 2026. The documentary sequence includes **executed financing, a 15-year supply contract, a government-backed buyer vehicle and a completed US corporate acquisition**. An assessment that focuses only on a 2025 project-financing announcement materially understates American control over the Brazilian operation.
 
-This is direct evidence of American strategic and commercial interest. It is not proof that Washington owns every Brazilian mineral deposit, or that funding conveyed automatic control over national sovereignty. Lending agreements, shareholdings, purchase contracts, operating licenses and ownership of subsurface resources establish different rights.
+**Stage one, 2025–February 2026.** The US Development Finance Corporation (DFC) had indicated **US$465 million** in 2025. Serra Verde announced on **5 February 2026** an expanded **US$565 million financing package**, including an option for the US government to acquire a minority equity interest. A US SEC filing describes a facility of up to US$565 million secured by the operation's assets, priced at SOFR plus four percentage points, and records a **first drawdown of US$325 million on 6 March**. Facility size, actual money drawn and equity rights must be reported separately. DFC-related warrants and their subsequent treatment were also documented in securities disclosures. [18][34][35]
 
-A complete review must examine credit conditions, security, covenants, offtake commitments, environmental obligations, tax effects, beneficial ownership and possibilities for local separation facilities. International supply diversification can coexist with contractual asymmetries that deserve public scrutiny.
+**Stage two, April–August.** On **20 April 2026**, USA Rare Earth (USAR) announced its agreement to acquire Serra Verde, alongside a **15-year take-or-pay offtake contract covering 100% of Phase I output** of magnetic rare-earth materials embedded in mixed carbonate produced in Brazil. A US-backed and privately financed special-purpose vehicle (SPV) would purchase the material, with guaranteed floors disclosed by Serra Verde: **US$2,050/kg for terbium**, **US$575/kg for dysprosium**, and **US$110/kg each for neodymium and praseodymium**. These are reported contract floors, not universal global benchmark prices. [35][36][37]
+
+On **24 August**, the companies announced an **up-to-US$1.55 billion SPV capitalization framework** to purchase Phase I output. Its structure comprised **a US$750 million government funding commitment**, **a conditional bank facility of up to US$500 million**, and a government commitment to buy **at least US$300 million of material over five years**. It is misleading to treat the stated aggregate as cash already disbursed to a Brazilian mine: committed capital, conditional borrowing capacity and forward purchases are different instruments. Serra Verde stated that the offtake had become operational for deliveries anticipated in the fourth quarter of 2026. [36][37]
+
+**Stage three, September.** The **USA Rare Earth acquisition closed on 3 September 2026**, confirmed the next day and in SEC registration documents. The reported consideration included **US$300 million cash and approximately 126.85 million USAR common shares** for selling shareholders and other qualifying holders. Serra Verde consequently joined an American-owned platform designed to connect Brazilian mining with downstream processing and magnet production in additional countries. USAR's projected end-2026 TREO annualized run rate of around 4,000 tons was a **capacity target**, not independently observed yearly production. [38][39]
+
+The transaction establishes **effective US corporate ownership of a significant Brazilian rare-earth operator, coupled with extensive contractual direction of Phase I output toward a US-backed buyer**. It does not transfer territorial sovereignty over Brazil's mineral resources, establish control over every Brazilian rare-earth deposit or prove a bargain involving the later admission of Flávio Bolsonaro. Corporate ownership, mineral licensing, debt security and purchase rights are materially different legal categories.
+
+Brazil's antitrust authority **Cade** announced an inquiry on **11 May 2026** into the business combination and supply agreement. Opening an inquiry does not establish an antitrust violation or imply that the authority ultimately prohibited the transaction. Public scrutiny should distinguish the scope and status of the proceeding, licences, local obligations, the actual progress of mineral separation in Brazil and downstream rights attached to the offtake. [40]
+
+```flow
+DFC 2025, US$465m proposal → February 2026, up to US$565m financing → March, first US$325m draw
+April, merger and offtake announced → August, US$1.55bn buyer SPV structured and offtake in force → September, USAR acquisition completed
+Operational implication → American corporate control and 15-year Phase I contract → Brazilian competition, industrialisation and legal oversight
+```
+
+The policy question is not whether foreign ownership might occur in a hypothetical future. It has occurred in this defined operation. The analytical task is to measure what was purchased, the legal limits of those rights and the effects on Brazil's ability to develop competitive domestic refining and manufacturing capacity. [35][36][38][39][40]
 
 ## 18. The 2026 Brazilian election and industrial negotiation incentives
 
@@ -248,11 +266,13 @@ To establish a specific minerals-for-protection trade, investigators would need 
 
 ## 22. What a real minerals agreement could exchange
 
-Potential bilateral terms include mining credit, purchase guarantees, geological cooperation, technology transfer, local processing capacity, permitting, environmental standards and access to strategic inputs for defence and industrial customers. The distributional consequences vary. Brazil could remain a supplier of intermediate material and import advanced magnets, or negotiate investment in domestic separation and qualified component manufacture.
+Serra Verde provides an **observed example of binding mineral-sector decisions made before the October election**. Credit was agreed, a merger completed and Phase I output committed for fifteen years to a government-backed and privately financed buyer structure. These are not conditional examples or speculative possibilities; they alter real commercial bargaining positions. [34][36][37][38][39]
 
-National sovereignty consists of several concrete rights: mineral licensing, taxation, corporate governance, disposition of output, environmental oversight, access to information and enforceability of contracts. Foreign financing does not inherently mean sovereignty is lost; nor does domestic ownership guarantee independence when downstream technology and buyers remain concentrated abroad.
+Potential additional negotiations still concern domestic chemical separation, local technology transfer, permits, new credit lines, supply from other deposits, Brazilian industrial suppliers and environmental requirements. Such proposals must not be confused with the rights already obtained by USAR in the specific Pela Ema operation.
 
-Project-level evidence should establish where profits, jobs, intellectual property and shutdown risks reside. Documents and actual investment matter more than labels such as surrender or liberation of natural resources.
+A rigorous counterfactual should compare at least three feasible arrangements: contracted Brazilian MREC exports for external processing; Brazilian separation or refining facilities developed with international partners; and the gradual creation of domestic metallurgy and magnet-manufacturing capability. Each entails different investment, workforce, value-added, fiscal and environmental conditions.
+
+Brazil retains legal sovereignty over its territory and mineral licensing, but the ownership of a mining company and contractual direction of output can reside abroad. Mining authorization, corporate equity, secured lending, take-or-pay purchase rights and ownership of delivered product are distinct. The September completion of USAR's purchase also weakens claims that Washington had to wait for Flávio's October departure to gain access to a deposit whose operator had already changed hands. [38][39][40]
 
 ## 23. Domestic industrial trade-offs and environmental constraints
 
@@ -283,7 +303,7 @@ Other members could face second-order logistics and industrial effects of Brazil
 | Evidence | Supported observation | Unsupported leap |
 |---|---|---|
 | USTR investigation and tariff | Formal US trade dispute involving Pix | All tariffs exist solely to defeat a BRICS currency |
-| DFC project documentation | US financing interest in Brazilian rare earths | Automatic transfer of mineral sovereignty |
+| DFC, Serra Verde SPV and merger filings | US$565m facility, a 15-year Phase I offtake and September US corporate acquisition | Automatic transfer of sovereignty over Brazilian reserves or proven linkage to Flávio's flight |
 | September bilateral working group | Negotiation began before the election | October flight created the talks from nothing |
 | 25 October TSE result | Official Lula reelection | Flávio recognized as alternative president |
 | Reports of US humanitarian parole | US admission of Flávio and family | Proven secret exchange for Pix or minerals |
@@ -351,7 +371,7 @@ Indicators prevent rhetoric from being mistaken for economic transformation. A m
 
 ## 30. Conclusion: the contest over the infrastructure of autonomy
 
-There is measurable competition over payment standards, mineral supply chains, export markets and political legitimacy. BRICS provides a forum to discuss financing and national-currency payment mechanisms, not an adopted common currency. Pix has become a large-scale Brazilian public payment infrastructure explicitly contested in US trade policy, but it is not an international dollar substitute. Brazil's rare-earth reserves provide potential strategic value only insofar as geology is converted into industrially usable materials and capabilities. [1][7][10][16][17]
+There is measurable competition over payment standards, mineral supply chains, export markets and political legitimacy. BRICS provides a forum to discuss financing and national-currency payment mechanisms, not an adopted common currency. Pix has become a large-scale Brazilian public payment infrastructure explicitly contested in US trade policy, but it is not an international dollar substitute. Brazilian reserves are strategically important, but the Serra Verde case shows that corporate ownership and offtake contracts can shape the value chain before further industrial expansion: USAR completed the acquisition in September and the Phase I output is contracted for fifteen years. [1][7][10][16][17][36][38]
 
 Lula's reelection and Flávio's flight added a real diplomatic controversy to US–Brazil relations that already involved tariffs, trade consultations and minerals. Journalism documents US admission of the former candidate, but the examined record **does not demonstrate a direct bargain conditioning that admission on mineral concessions, a changed Pix regime or abandoning BRICS monetary initiatives**. Maintaining that distinction is necessary for a defensible geopolitical investigation. [14][15][20][23][24]
 
@@ -361,7 +381,7 @@ Brazil's choices over the coming years concern institution-building more than sy
 
 **Observed:** formal USTR actions, Brazilian and BRICS government documents, Central Bank statistics, TSE results, USGS data and the DFC financing documentation. **Attributed claims:** US allegations of payment discrimination, Brazilian responses, positions expressed by Lula, Flávio and officials. **Conditional inferences:** possible economic effects of local-currency settlement, alternative mineral contracting and political leverage. **Scenarios:** explicitly hypothetical, without unsupported probabilities.
 
-Journalistic reporting on Flávio's international movement relies on attributed sources; this dossier does not claim to reproduce complete US immigration records. USGS figures estimate reserves and 2025 mine production, not a 30 October 2026 physical census. BIS currency turnover shares count either side of FX trades and therefore cannot be added to 100%. Pix figures measure domestic activity, not direct losses for American card networks. DFC materials document financing terms without entailing control over Brazilian deposits generally. The proposed causal link between admission of Flávio and concessions in payments or minerals remains **unproven**.
+Journalistic reporting on Flávio's international movement relies on attributed sources; this dossier does not claim to reproduce complete US immigration records. USGS figures estimate reserves and 2025 mine production, not a 30 October 2026 physical census. BIS currency turnover shares count either side of FX trades and therefore cannot be added to 100%. Pix figures measure domestic activity, not direct losses for American card networks. DFC, Serra Verde, USAR and SEC disclosures establish different phases of lending and drawdown, supply commitments and a completed corporate acquisition; none implies ownership of Brazil's deposits generally. The proposed causal link between admission of Flávio and concessions in payments or minerals remains **unproven**.
 
 ## References and source documents
 
@@ -395,7 +415,7 @@ Journalistic reporting on Flávio's international movement relies on attributed 
 
 [15] Brazil MDIC, bilateral trade talks, 30 September 2026: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral/setembro/reuniao-presencial-brasil-eua-sobre-temas-comerciais
 
-[16] USGS, Mineral Commodity Summaries 2026, rare-earth reserves and REO production: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026.pdf
+[16] USGS, Mineral Commodity Summaries 2026, revised May v1.3 rare-earth factsheet (Brazil 11m metric tons REO): https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf
 
 [17] IEA, Global Critical Minerals Outlook 2026, executive summary: https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary
 
@@ -428,3 +448,19 @@ Journalistic reporting on Flávio's international movement relies on attributed 
 [31] IEA, Global Critical Minerals Outlook 2026, Latin America focus: https://www.iea.org/reports/global-critical-minerals-outlook-2026
 
 [32] Reuters, Lula BRICS summit and currency reference proposal, August 2023: https://economia.uol.com.br/noticias/reuters/2023/08/24/lula-sauda-expansao-do-brics-e-diz-que-bloco-criou-grupo-para-estudar-moeda-de-referencia.htm
+
+[33] USGS, publication and version history of Mineral Commodity Summaries 2026, v1.3 dated 27 May: https://pubs.usgs.gov/publication/mcs2026
+
+[34] Serra Verde, US$565 million DFC facility announcement, 5 February 2026: https://www.serraverde.com/2026/02/serra-verde-secures-us565-million-financing-from-us-international-development-finance-corporation/
+
+[35] SEC, DFC loan terms, US$325 million first draw, and Phase I offtake: https://www.sec.gov/Archives/edgar/data/1970622/000121390026055508/ea0290028-01.htm
+
+[36] Serra Verde, 15-year offtake, contractual floors and buyer capitalization, 24 August: https://www.serraverde.com/2026/08/serra-verde-announces-finalization-of-us-government-offtake-agreement-with-mrec-deliveries-to-commence-by-this-year/
+
+[37] USA Rare Earth, US$1.55 billion SPV commitments and funding conditions, 24 August: https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-nasdaq-usar-announces-completion-upsized-155
+
+[38] USA Rare Earth, completed Serra Verde acquisition, 3 September: https://investors.usare.com/news-releases/news-release-details/usa-rare-earth-completes-combination-serra-verde-group
+
+[39] SEC registration statement, closed merger consideration US$300 million plus shares: https://www.sec.gov/Archives/edgar/data/1970622/000121390026097756/ea0304148-s3_usarare.htm
+
+[40] Cade, Brazilian inquiry into merger and supply terms, 11 May 2026: https://www.gov.br/cade/pt-br/assuntos/noticias/cade-apura-acordos-de-combinacao-e-de-fornecimento-em-terras-raras
