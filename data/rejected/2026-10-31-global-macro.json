@@ -1,0 +1,101 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-10-31",
+  "slug": "2026-10-31-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-10-31T08:07:39.068Z",
+  "reviewed_commit": "b40aa96057dd887e48f40e0934a972a2149a730c",
+  "pending_blob_sha": "4a86eecfc08cd2afbc0e173156b4467fbdd2b079",
+  "source_blob_shas": {
+    "en": "1ae10f5ab301fb06e54755294843cd1367fac873",
+    "pt-BR": "3acbe6767582ab5e5d8e01cb3fbcb81304a44e27"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "check": "evidence_traceability",
+      "location": "staging/research/2026/10/2026-10-31-global-macro/en.md:81,144; staging/research/2026/10/2026-10-31-global-macro/pt-BR.md:81,144",
+      "issue": "Both editions assert September 2026 US real disposable personal income fell 0.3% month on month and real consumption was essentially flat, but attach reference [7], which is BEA's Q3 2026 GDP advance-estimate release rather than the original Personal Income and Outlays, September 2026 release. This household-income counterpoint is central to the report's claim that strong US quarterly GDP coexists with weak household purchasing power. The stated values are correct, but the cited original does not document them, breaking claim-level source traceability under EDITORIAL-STYLE.md.",
+      "evidence": [
+        "EN line 81: 'Its September income accounts nevertheless showed −0.3% monthly real disposable personal income and essentially flat real consumption ... [7]'. PT-BR line 81: 'Nas contas mensais de setembro, porém, a renda pessoal disponível real caiu 0,3%, enquanto o consumo real praticamente não cresceu ... [7]'.",
+        "Reference [7] in both editions is 'GDP (Advance Estimate), 3rd Quarter 2026', 29 October 2026: https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+        "The required original is BEA 'Personal Income and Outlays, September 2026', 29 October 2026, with Real DPI −0.3% and Real PCE 0.0% (rounded): https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+        "EDITORIAL-STYLE.md, References at the end: numbered claim-level source markers must identify the actual original document, with source links collected at the end."
+      ],
+      "required_fix": "Add the BEA 29 October 2026 'Personal Income and Outlays, September 2026' release as a separate numbered bibliography item in BOTH EN/PT-BR editions, attach its number to the September real DPI and real PCE statements at line 81, and preserve [7] for the Q3 GDP figures. Verify that every numeric assertion points to the relevant original release and that both editions retain identical source URLs and citation mapping. Then increment pending revision to 2 after updating both staged Markdown blobs; keep canonical ID and slug."
+    }
+  ],
+  "required_fixes": [
+    "MT 1/5 — Diário e Radar: fix the household-income source attribution in both editions using the BEA original; keep the Q3 GDP reference separate from September personal-income data.",
+    "Audit remaining in-text numeric citations against the final bibliography and preserve the 14 existing sources; add the separate BEA income source to both editions with matching numbering.",
+    "Update both staged Markdown files, then write pending v2 LAST at revision 2 with fresh Git blob SHA tuple; no changes to reports/**, public indices, CSS, taxonomy or institutional content."
+  ],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "At pinned HEAD, pending and both staged Markdown Git blob SHAs match the exact 3/3 tuple recorded here; no existing approval, rejection or public bundle for this ID."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending v2 ready:true revision 1, controlled political-economy-markets program, brief/daily format, global scope and registered topics/phenomena; no canonical collision."
+    },
+    "factual_methodology": {
+      "result": "passed_for_checked_claims",
+      "summary": "Original NBS Oct PMI, Eurostat Q3 GDP and Sep unemployment, Treasury 28–30 Oct yields, ECB/Fed decisions, BEA Q3 GDP, Eurostat HICP, World Bank commodity projections and ICI weekly MMF values independently checked. The household-income figures are true but misattributed in both editions."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "05:00 BRT 31 Oct cutoff is after 09:30 CST China NBS release; other observations 30 Oct or earlier. Annual forecasts, survey diffusion points, daily yields and quarterly GDP conventions are distinguished."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "Critical household-income and real-consumption claims use citation [7] to BEA GDP release, not BEA's 29 Oct September Personal Income and Outlays primary release."
+    },
+    "research_depth": {
+      "result": "passed_on_reproduced_expressions",
+      "summary": "Exact validator expressions reproduced: 2,561 substantive EN words and 2,701 PT-BR, seven H2 headings, 14 URLs across nine hosts each, and sufficient falsifiable scenarios; full Node script not run locally."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_for_checked_substance",
+      "summary": "Five source-linked numeric charts, one causal flow, one geographic map and 11 Markdown table lines in each locale; all five numeric chart series match exactly; units and forecast/observation distinction are explicit."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Material source misattribution in the US household purchasing-power counterpoint must be corrected before QA approval, despite otherwise coherent prose and visual evidence."
+    },
+    "translation_check": {
+      "result": "passed_for_checked_substance",
+      "summary": "EN/PT-BR have the same six analytical sections, 14 final references, five equivalent numeric chart series and matching contrary/conditional interpretations; both share the source misattribution."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Compared 30 Oct Global Macro: new China October manufacturing PMI and export-order breadth plus Eurostat Q3 GDP and Sep unemployment support a distinct cross-regional industrial-demand mechanism."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Chinese November PMI/customs, euro-area labour data, actual energy shipping and credit spreads are explicit falsifiers; high-tech Chinese manufacturing and robust US GDP are contrary evidence."
+    },
+    "conflict_security_attribution": {
+      "result": "passed_for_checked_substance",
+      "summary": "Reuters Gulf security reports are identified as reports/claims; no independently verified new throughput loss or invented oil supply figure asserted."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_scope_limit",
+      "summary": "GitHub Actions 41182989765 at earlier HEAD d062c8d: validate-pipeline.mjs passed (159 public bundles), validate-editorial-depth.mjs passed (109 public/approved artifacts), build and visual tests passed. Current HEAD CI run 41183052611 was still in progress when inspected. Full local scripts unavailable because github.com DNS resolution failed; exact depth/visual expressions reproduced against both staged sources."
+    }
+  },
+  "contrary_evidence": [
+    "China's larger and high-technology manufacturers remain relatively strong; PMI diffusion does not measure export volumes.",
+    "Euro-area Q3 GDP remained positive, and US Q3 GDP advanced 3.4% annualised; no global contraction established.",
+    "BEA's September real DPI −0.3% and real PCE 0.0% are confirmed in a separate primary release; this rejection concerns reference integrity, not invented numbers."
+  ],
+  "limitations": [
+    "Primary-source fact check sampled material quantitative claims; not every sentence independently verified.",
+    "No local full Node validation or domain deployment verification; current HEAD CI still in progress at review time."
+  ],
+  "rejection_count_for_id": 1,
+  "producer_route": "MT 1/5 — Diário e Radar (MT-GM daily)",
+  "notes": "First rejection for revision 1 and this SHA tuple. QA may only change data/rejected/<slug>.json. Do not re-reject identical tuple; maximum three new rejection revisions per ID."
+}
