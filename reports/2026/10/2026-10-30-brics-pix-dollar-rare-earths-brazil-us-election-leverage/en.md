@@ -6,7 +6,7 @@ The 2026 dispute between Brazil and the United States is not one conflict with o
 
 Documented US commercial pressure and American admission of a defeated Brazilian presidential contender are important facts. A further claim—that Washington arranged his exit in return for Brazilian concessions over rare earths, Pix or BRICS—requires a different evidentiary standard. No reviewed primary negotiating record or independent account establishes an explicit exchange of those kinds. The episode should be investigated through sequencing and bargaining mechanisms, **not treated as a proven secret minerals-for-protection transaction**. [21][23][24][25][26]
 
-This assessment reconstructs four connected systems—**currency, payment infrastructure, mineral supply-chain control and political bargaining**—and asks how each affects American influence, Brazilian interests and the heterogeneous BRICS coalition. Information cutoff is **30 October 2026, Brasília time**. Numbers retain their source dates; scenarios are conditional and never retrospective observations.
+Four connected systems shape the conflict: **currency, payment infrastructure, mineral supply-chain control and political bargaining**. Their interactions determine how American influence, Brazilian economic interests and the heterogeneous BRICS coalition are affected. Information cutoff is **30 October 2026, Brasília time**. Numbers retain their source dates; scenarios are conditional and never retrospective observations.
 
 ## 1. From Bretton Woods to BRICS: international payments were political before Lula's proposal
 
@@ -262,7 +262,7 @@ Providing temporary admission to an opposition figure can affect diplomacy, dome
 
 Several explanations remain possible: ideological sympathy, declared humanitarian grounds, domestic US political incentives, desire to maintain channels with Brazilian opposition or concern about relations with Lula. Alternatively, the White House may judge that formal backing for an electoral challenge would impair the trade relationship with a legally reelected Brazilian government. Reuters' 30 October account documents a posture of caution at that point, though policies can change. [23][24]
 
-To establish a specific minerals-for-protection trade, investigators would need negotiating correspondence linking the visitor's status to mineral terms, formal demands, a documented concession schedule, or corroborated direct testimony. **None was established by the central records reviewed for this assessment.** The possibility deserves continued scrutiny, but not publication as settled causation.
+To establish a specific minerals-for-protection trade, investigators would need negotiating correspondence linking the visitor's status to mineral terms, formal demands, a documented concession schedule, or corroborated direct testimony. **No such documentary link has been established in the reviewed primary and independently corroborated records.** The possibility deserves continued scrutiny, but not publication as settled causation.
 
 ## 22. What a real minerals agreement could exchange
 

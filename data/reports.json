@@ -17618,7 +17618,7 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 3,
+    "revision": 5,
     "assessment_confidence": "medium",
     "scenarios": [
       "Pragmatic bilateral trade agreement with no fundamental Pix or BRICS alteration",
@@ -17641,21 +17641,21 @@
       "research_depth": "30 numbered analytical chapters in each locale plus methods and references; PT-BR 9,253 and EN 7,468 whitespace-delimited words; updated section 15 reserve measurement, section 17 completed merger, and section 22 industrial bargaining counterfactuals.",
       "source_check": "40 matching sources per locale including 8 new first-party/SEC sources: revised USGS factsheet and version history, Serra Verde February DFC statement, SEC financing and draw, Serra Verde August offtake, USAR SPV commitments, USAR Sept acquisition, SEC Sept merger consideration, Cade antitrust inquiry. Independent QA source-by-source audit required.",
       "visual_signature": "Four bilingual numeric charts (BIS dollar 89.2, euro 28.9, CNY 8.5 % sides; USGS updated reserves 44,11,6.3,3.8,1.9 million REO; 2025 mining 270,51,29,2 thousand REO; TSE 64.256232 and 59.826041 million), three paired flow diagrams incl. real 2026 DFC/offtake/merger timeline, one map, one mindmap, four tables.",
-      "bilingual_parity": "30 matching numbered chapters, 40 same numbered source URLs, nine corresponding visual blocks in order chart-flow-map-chart-chart-flow-chart-flow-mindmap, four numerically identical chart series and matched caveats about sanctions, monetary arrangements, reserve revision and status of US-financed SPV and merger.",
+      "bilingual_parity": "All 30 analytical chapters, 40 corresponding reference URLs, 9 visual types and 4 numerical chart series match. EN opening rewritten from broken report self-reference to two complete, direct institutional sentences. PT-BR source unchanged.",
       "methodology": "Cites latest revised USGS MCS2026 May edition, not stale February estimate. Separates mineral REO reserves from mining production and carbonate from separated oxide/magnets; US corporate ownership (Sept 3) from Brazilian territorial sovereignty, executed DFC facility from actual US$325m March drawdown, government funding commitments from conditional credit and future purchases. The pre-election industrial transaction does not prove an exchange for post-election Flavio US admission.",
-      "editorial_status": "Revision 3 resubmitted to independent QA after r2 rejection for two material source omissions. Both localized stage blobs updated; no manual approval/public promotion. Historic rejection audit retained.",
+      "editorial_status": "Revision 5 resubmitted for independent QA following r4 grammar rejection. The completed r3 public bundle exists but requires SHA-bound replacement and public build revalidation; producer must not alter QA record manually.",
       "source_blob_shas": {
-        "en": "590aada2e0a3540cdb8a99cf7b5ff4e92ada1745",
+        "en": "b2c018ab6981b6e4f6d1074816e62a3c951d95cb",
         "pt-BR": "780bc0bfc848192fe47aee8a251279a52f61c707"
       },
-      "qa_handoff": "Check prior r2 blocking issues now remediated using references [16][33] (USGS v1.3 Brazil 11m), [34][35] (US$565m DFC/US$325m drawn), [36][37] (15y 100% Phase I offtake, US$1.55bn SPV capitalization), [38][39] (USAR merger closed Sep 3), [40] (Cade inquiry). Verify SHA-exact bilingual visual parity and avoid implicit causal claim of Flavio election pressure."
+      "qa_handoff": "r5 correction is strictly EN opening grammar. Verify 'Four connected systems shape the conflict: currency, payment infrastructure, mineral supply-chain control and political bargaining. Their interactions determine ...' is grammatical, no 'This assessment...' self-reference, then check exact pending/source SHAs. Public r3 should be promoted atomically to r5 with matching QA metadata/index."
     },
-    "revision_reason": "QA r2 rejected factual errors: USGS Brazil REO reserve revised to 11m (MCS2026 v1.3 May); omitted 2026 DFC US$565m financing, March drawdown, 15y 100% Phase I offtake, August SPV commitments, September completed USA Rare Earth acquisition and Cade case. Both manuscripts comprehensively revised with primary sources.",
+    "revision_reason": "Revision 5 fixes single independent QA r4 rejection: malformed EN opening 'Four connected systems ... and asks'. It is now two grammatical, direct institutional statements with no report self-reference. All r3 independently fact-checked statistics, 40 references, paired visuals, PT-BR and contracts unchanged.",
     "url": "/reports/2026/10/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-31T00:19:35.996Z",
+    "qa_reviewed_at": "2026-10-31T00:31:00.741Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "c897c65ba598d8078009eabf49c413d23b0bd1d7",
+    "qa_reviewed_commit": "4fdc0b01bad05ff914c4addc0de50de46e56f950",
     "locales": {
       "en": {
         "markdown": "en.md",
