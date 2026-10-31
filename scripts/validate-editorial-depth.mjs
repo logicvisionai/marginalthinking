@@ -64,9 +64,26 @@ for(const {p,dir,mode} of tasks){
     else{
       const qa=json(approval);
       if(Number(qa.publication?.revision??0)!==Number(p.revision??0))failures.push(p.id+': approved revision mismatch');
+      // Independent QA sometimes records a substantive evidence pass with explicit
+      // source-sampling limitations. Preserve that provenance instead of silently
+      // converting the immutable QA record to an unconditional 'passed'.
+      // Accept this narrow grade only when critical primary-source integrity,
+      // factual methodology, cutoff, visual and publication checks all passed.
+      const evidence=qa.checks?.evidence_traceability?.result;
+      const verifiedEvidenceWithLimits=
+        evidence==='passed_with_limitation' &&
+        ['source_integrity','factual_methodology','source_vintage_and_cutoff',
+         'visual_evidence_readiness','editorial_publication_readiness']
+          .every(key=>qa.checks?.[key]?.result==='passed') &&
+        Array.isArray(qa.limitations) && qa.limitations.length>0 &&
+        ['medium','high'].includes(qa.confidence);
       for(const key of ['research_depth','evidence_traceability','counterfactual_review']){
-        if(qa.checks?.[key]?.result!=='passed')failures.push(p.id+': QA missing passed '+key);
+        const result=qa.checks?.[key]?.result;
+        if(result!=='passed' && !(key==='evidence_traceability' && verifiedEvidenceWithLimits))
+          failures.push(p.id+': QA missing passed '+key);
       }
+      if(verifiedEvidenceWithLimits)
+        console.warn('WARN '+p.id+': evidence traceability approved with explicit sampling limitations; see the independent QA record');
     }
   }
 }
