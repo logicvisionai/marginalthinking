@@ -157,7 +157,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "scenarios": [
     "Constitutional accommodation with legally accepted oaths, tenure and rulings",
@@ -173,19 +173,23 @@
     "Russian UAV incursions and hybrid activity establish security risks, not proof that Moscow directed the Tribunal confrontation.",
     "Commission 2026 real GDP growth forecast of 3.5% means political and fiscal instability cannot be equated with observed recession.",
     "Poland remains in the EU but retains the zloty; the Commission 2026 convergence assessment does not identify euro accession as completed.",
-    "Polish–Ukrainian strategic cooperation coexists with genuine economic and historical disputes; disagreement does not demonstrate Russian control over all opposition voices."
+    "Polish–Ukrainian strategic cooperation coexists with genuine economic and historical disputes; disagreement does not demonstrate Russian control over all opposition voices.",
+    "NATO 7 July 2026 comparable data put Poland fourth, after Lithuania, Estonia and Latvia; the r1 NATO first-place description was a source-vintage error corrected in r2.",
+    "EU Commission's year-on-year GDP and HICP percentage growth rates have different denominators than deficit and debt as shares of GDP; these are now depicted in separate charts."
   ],
   "producer_checks": {
-    "information_cutoff": "30 October 2026 (Poland local time), observing publication times and ongoing disputes. Key breaking news Oct30 Reuters/AP/Notes; EC spring projections May21, OECD Jun3; IMF Article IV Feb3; IISS February and PISM August 2026.",
-    "research_depth": "35 numbered substantive historical, constitutional, economic, social and geopolitical chapters per locale, plus evidence matrix, monitoring framework and methodology; about 8,090 Portuguese and 6,985 English whitespace-separated words; no thin summary.",
-    "source_check": "31 numbered sources per language with identical 31 URLs, roughly 23 distinct primary, research and independent news source hosts; Reuters, AP, IDEA, EC, IMF, OECD, European Parliament, NATO, IISS, Carnegie, PISM, Polish government, HRW, academic historical analysis and attributed conservative position Ordo Iuris. Independent QA must audit material citations and breaking-news status.",
-    "visual_signature": "Three bilingual quantitative charts: EC 2025-27 growth and deficit/2026 HICP forecast, EC gross debt 59.7/64.5/68.3% GDP, OECD/IMF defence spending 2.2/4.5/4.8/5%; one causal institutional chronology flow, one country spatial exposure map and one 2030 scenario mindmap; two evidence/monitoring tables in each language.",
-    "bilingual_parity": "35 aligned numbered analytical chapters, 31 identical reference URLs, matching 3 numeric chart series and 6 visual fence types (flow, chart, chart, chart, map, mindmap) in parallel order, two comparable tables and identical distinctions between coup allegations, court crisis and verified military takeover.",
+    "information_cutoff": "30 October 2026; NATO Defence Investment Update 7 July 2026 is the controlling comparable defence ranking for 2026. European Commission spring May 2026 forecast distinguishes GDP/HICP year-on-year rates from deficit and debt % GDP. Political news October 30, 2026.",
+    "research_depth": "35 numbered chapters per locale, approximately 8,285 PT-BR and 7,132 EN whitespace-delimited words including chart values and 32 source entries; substantive historical, constitutional, EU political economy, NATO-Russia-Ukraine, and conditional future analysis.",
+    "source_check": "32 same numbered URLs per locale; new primary NATO July 7 2026 source [32] verifies 2026 Poland fourth at 4.68%, with Lithuania 5.33, Estonia 5.10, Latvia 4.92. EC May 2026 source [5] supports GDP, HICP and deficit chart split. Some prior sources overlap (PISM [13] and [30]) and are retained for attribution; independent QA may review.",
+    "visual_signature": "Five matching quantitative bar charts per locale: (1) GDP growth/HICP year-on-year 3.6,3.5,2.8,3.6%; (2) deficit absolute magnitude as % GDP 7.3,6.5,6.3; (3) gross debt % GDP 59.7,64.5,68.3; (4) OECD/IMF defence trend 2.2,4.5,4.8,5.0% GDP (vintages distinguished); (5) NATO comparable 2026 expenditure Lithuania 5.33, Estonia 5.10, Latvia 4.92, Poland 4.68% GDP. Two paired evidence tables, one institutional flow, one geography map, one mindmap in each locale.",
+    "bilingual_parity": "35 matching numbered chapters, 32 identical bibliography URLs, identical five chart numerical series and chart/flow/map/mindmap order; explanatory distinctions about NATO 2026 vs OECD/IMF older estimates and annual rates vs GDP denominator made in both languages.",
     "methodology": "Distinguishes reported court suspension and legal claims from adjudicated validity; democratic institutional deadlock from completed military coup; documented EU conditionality and NATO integration from unverified external orchestration; forecasts from observed values; NATO defence spending methodology from fiscal accounts; Russian hybrid risks from proof of complicity in Polish judicial proceedings.",
-    "editorial_status": "Staged bilingual long-form analytical investigation; pending independent SHA-bound QA approval. Do not make or modify reports public bundle until a separate publisher action after approval.",
+    "editorial_status": "Revision 2 resubmitted for fresh independent QA, after specific r1 factual and units errors fixed. All staged blobs updated and source Git SHAs pinned. No independent approval or public publication yet.",
     "source_blob_shas": {
-      "en": "ace92ff97c388ffa97e2c0b394c4a70f8b553df7",
-      "pt-BR": "3c051c3e8482addab59f7e91c1747787c3db2ae0"
-    }
-  }
+      "en": "8ab552086d04498e2a49e7b20d137ea1d6cfaae8",
+      "pt-BR": "c6e22417b3eaf698b164acdcb23a26542b46b0b5"
+    },
+    "qa_handoff": "Verify both r1 blockers specifically: no highest-in-NATO 2026 claim, NATO July 7 link [32], 2026 4.68% fourth, 2025 and OECD projection vintages separated; charts with common units only, GDP/HICP YoY chart separate from general government deficit (% GDP), fifth NATO comparison chart matched across languages. Independently verify exact source Git SHAs and no unsupported coup or foreign-orchestration claims."
+  },
+  "revision_reason": "Corrects the independent QA rejection of r1: NATO 7 July 2026 comparable ranking has Lithuania 5.33%, Estonia 5.10%, Latvia 4.92% and Poland 4.68% (fourth); separates GDP/HICP annual percent-change visual from deficit levels (% GDP). Adds 32nd primary NATO source; both language versions, figures and evidence updated."
 }
