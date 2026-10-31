@@ -6,7 +6,7 @@ The 2026 dispute between Brazil and the United States is not one conflict with o
 
 Documented US commercial pressure and American admission of a defeated Brazilian presidential contender are important facts. A further claim—that Washington arranged his exit in return for Brazilian concessions over rare earths, Pix or BRICS—requires a different evidentiary standard. No reviewed primary negotiating record or independent account establishes an explicit exchange of those kinds. The episode should be investigated through sequencing and bargaining mechanisms, **not treated as a proven secret minerals-for-protection transaction**. [21][23][24][25][26]
 
-Four connected systems shape the conflict—**currency, payment infrastructure, mineral supply-chain control and political bargaining**—and asks how each affects American influence, Brazilian interests and the heterogeneous BRICS coalition. Information cutoff is **30 October 2026, Brasília time**. Numbers retain their source dates; scenarios are conditional and never retrospective observations.
+Four connected systems shape the conflict: **currency, payment infrastructure, mineral supply-chain control and political bargaining**. Their interactions determine how American influence, Brazilian economic interests and the heterogeneous BRICS coalition are affected. Information cutoff is **30 October 2026, Brasília time**. Numbers retain their source dates; scenarios are conditional and never retrospective observations.
 
 ## 1. From Bretton Woods to BRICS: international payments were political before Lula's proposal
 
