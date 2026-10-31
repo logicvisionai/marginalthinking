@@ -1,0 +1,287 @@
+{
+  "schema_version": 2,
+  "id": "MT-GSP-2026-10-30-POLAND-CONSTITUTIONAL-SECURITY-2026",
+  "slug": "2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics",
+  "revision": 2,
+  "program": "global-system-power",
+  "qa_status": "approved",
+  "reviewed_at": "2026-10-31T02:59:45.706Z",
+  "reviewed_commit": "d5c148a69de6c68195ca942ab871c4703b1f50cf",
+  "pending_blob_sha": "fa1a8f905fc5e3f50a5c4da87b6c34d6c0a83c7b",
+  "source_blob_shas": {
+    "en": "8ab552086d04498e2a49e7b20d137ea1d6cfaae8",
+    "pt-BR": "c6e22417b3eaf698b164acdcb23a26542b46b0b5"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pinned HEAD d5c148a69de6c68195ca942ab871c4703b1f50cf; ready:true pending revision 2 SHA fa1a8f...; both staged EN 8ab552... and PT-BR c6e224... equal producer-pinned Git blobs. Prior r1 rejection SHA c9441f... superseded; no approval/public bundle for this canonical ID and slug."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending v2 required fields, immutable canonical ID and slug, registered global-institution-system editorial kind, controlled global-system-power program, geography, dimensions, topics, phenomena, event-driven cadence and research-report format checked against frozen taxonomy and registry."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "October 30, 2026 judicial standoff distinguished from May 21 EC forecast, June 3 OECD forecast, April IMF WEO, July 7 NATO estimates, earlier historical events and forecasts. 2026 NATO rank fourth correctly dated and distinguished from 2025 estimates."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Independently checked primary NATO July 7, 2026 defence-investment PDF Table 3: Lithuania 5.33, Estonia 5.10, Latvia 4.92, Poland 4.68 (% GDP); EC May 21 Poland forecast GDP 3.6/3.5/2.8, HICP 2026 3.6, deficit -7.3/-6.5/-6.3, debt 59.7/64.5/68.3; OECD June forecast GDP 3.0 in 2026, defence 4.5 in 2025 and 4.8/5.0 in 2026/27; Reuters and AP October 30 corroborate contested suspension, protests and president's return, not completed coup."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "32 numbered bibliography entries per locale (31 distinct original URLs; PISM [13]/[30] duplicate, non-blocking). NATO primary PDF, European Commission primary forecast, OECD original outlook and Reuters/AP breaking event directly verified; other historical and interpretive references inspected for attribution, not every URL independently re-audited."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 7131,
+        "pt-BR": 8284
+      },
+      "summary": "35 consecutive analytical chapters per locale, 32 numbered references, 31 distinct URLs, extensive constitutional history, macro-fiscal and NATO-Russia-Ukraine analysis, explicit evidence matrix, institutional transmission and four conditional scenarios; not a brief or stitched chronology."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions contain five explicit numeric charts, two evidentiary tables, one causal flow, one regional exposure map and one mindmap; identical chart numeric series and order. Corrected chart 1 compares annual GDP/HICP growth; separate chart 2 deficit absolute magnitude % GDP; separate debt % GDP; NATO 2026 comparison sourced to original table; OECD/IMF time-vintage comparison explicitly caveated. Visuals reproduce report evidence, not fabricated decoration."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Bilingual opening is grammatically natural and attributes allegations; 2026 NATO superlative corrected; separate fiscal units, forecasts and historical observations; numbered inline citations with full sources only at end; no internal QA/product-roadmap labels, unfounded coup conclusion or unsupported foreign-control claim."
+    },
+    "translation_parity": {
+      "result": "passed",
+      "summary": "35 matching numbered sections, 32 same reference URLs in same order, five identical chart arrays, same visual type order (flow/chart/chart/chart/chart/chart/map/mindmap), equivalent 2026 NATO fourth-place and dimensional caveats; translated labels preserve denominators and dates."
+    },
+    "novelty_against_corpus": {
+      "result": "passed",
+      "summary": "Distinct from October 3 Poland country dossier (existing public r0): new October 30 constitutional-court event, court legitimacy chronology, security/fiscal transmissions and four 2030 scenarios; canonical research slug is not a renamed country dossier."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Explicit conditional accommodation, dual-authority deadlock, coercive rupture and external security shock, with observables and contrary evidence; no invented probabilities or inference that Moscow, Brussels or Washington commanded the court events."
+    },
+    "conflict_security_attribution": {
+      "result": "passed",
+      "summary": "Separates reported police operation, contested legal authority and political coup accusation from verified military overthrow; distinguishes alliance procurement, deployment, hybrid-security risk, information operations and attribution; domestic political agency retained."
+    },
+    "validator_contract": {
+      "result": "passed_with_scope_limit",
+      "summary": "GitHub Actions at pinned HEAD run 41162198702: scripts/validate-pipeline.mjs passed (158 public bundles, 18 unpublished pending, 1 approved unpublished); scripts/validate-editorial-depth.mjs with MT_VALIDATE_ALL_PENDING=1 failed only five previously rejected legacy drafts (SLAVERY, MAUA, MEDICI, ROCKEFELLER, ROTHSCHILD), not this candidate. Candidate depth and visual expressions independently reproduced. Full local scripts unavailable because git clone DNS lookup failed."
+    }
+  },
+  "contrary_evidence": [
+    "July 7 NATO harmonised 2026 ranking puts Poland fourth; March/April reports of earlier ranking cannot be treated as current.",
+    "EC May 2026 forecast and OECD June 2026 outlook have different GDP and defence projections; both are dated, neither is final October observation.",
+    "Reuters/AP on October 30 corroborate tribunal confrontation, not military seizure or foreign operational control.",
+    "EU funding and NATO integration create incentives but do not prove Brussels, Washington or Moscow directed the judicial conflict.",
+    "Commission forecasts show positive real GDP growth even as deficit and debt ratios remain elevated."
+  ],
+  "limitations": [
+    "Independent source verification sampled NATO, EC, OECD and breaking Reuters/AP; not all 32 bibliographic entries were independently opened. PISM source duplicated at [13] and [30].",
+    "NATO's July 2026 estimates, OECD June projections and IMF April historical figures have different reporting vintages and possibly coverage; the text flags these differences.",
+    "EC 2026–27 numbers are forecasts, not realized October 30 economic observations.",
+    "Constitutional legality and final outcome of the October 30 confrontation remain disputed at information cutoff.",
+    "All-drafts editorial-depth CI fails for five preexisting rejected older research items, not the Polish candidate; full local Node scripts could not run because github.com DNS resolution failed.",
+    "Approval confirms the reviewed staged SHA tuple and does not establish public Git promotion or live deployment."
+  ],
+  "notes": "Independent QA revision 2 after prior r1 rejection: both factual NATO ranking and mixed-dimensional visual defects corrected. No new rejection issued. Publisher must independently verify immutable approval snapshot, all three Git blobs, public revision and canonical route before atomic publication. QA changes only data/approved/<slug>.json.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GSP-2026-10-30-POLAND-CONSTITUTIONAL-SECURITY-2026",
+    "slug": "2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics",
+    "date": "2026-10-30",
+    "published_at": "2026-10-30T23:10:00-03:00",
+    "kind": "global-institution-system",
+    "priority": 57,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/en.md",
+        "title": "Poland at the constitutional brink: the October 2026 court crisis, Europe's strategic balance and pressure from Russia and the West",
+        "deck": "A 35-chapter historical, legal and geoeconomic investigation into the contested Polish Constitutional Tribunal suspensions and coup allegations, PiS–Tusk–Nawrocki politics, EU integration, public debt, defence, Russia, Belarus, NATO, Ukraine and external pressure.",
+        "tags": [
+          "Poland",
+          "2026 constitutional crisis",
+          "Constitutional Tribunal",
+          "Donald Tusk",
+          "Karol Nawrocki",
+          "Law and Justice PiS",
+          "European Union",
+          "Russia",
+          "Ukraine",
+          "NATO",
+          "geopolitics"
+        ],
+        "keywords": [
+          "Poland October 30 2026 coup allegations constitutional tribunal",
+          "Tusk Nawrocki Swieczkowski Korwin-Piotrowska legal dispute",
+          "Poland EU European Commission 2026 economic forecast fiscal debt",
+          "Poland NATO defence 4.8 percent GDP 2026",
+          "Russia Belarus Polish border hybrid threats Suwalki gap",
+          "Poland Ukraine Volhynia grain refugees historical disputes"
+        ],
+        "regime": "Constitutional dual legitimacy and judicial deadlock intersect with sustained EU-funded growth, fiscal pressure from defence, and high strategic exposure to Russia's war in Ukraine.",
+        "key_risk": "Treating attributed allegations of coup as evidence of a completed overthrow, or attributing the domestic judicial dispute to undocumented orders by Washington, Moscow or Brussels.",
+        "watch": [
+          "Constitutional Tribunal composition and oath rulings",
+          "Tusk and Nawrocki legal acts",
+          "2027 parliamentary electoral administration",
+          "EC funds and rule-of-law milestones",
+          "Fiscal deficit debt and financing rates",
+          "Baltic and Belarusian hybrid incidents",
+          "Poland Ukraine border assistance and agricultural trade"
+        ],
+        "search_text": "Poland at the constitutional brink: the October 2026 court crisis, Europe's strategic balance and pressure from Russia and the West. A 35-chapter historical, legal and geoeconomic investigation into the contested Polish Constitutional Tribunal suspensions and coup allegations, PiS–Tusk–Nawrocki politics, EU integration, public debt, defence, Russia, Belarus, NATO, Ukraine and external pressure.. Poland October 30 2026 coup allegations constitutional tribunal. Tusk Nawrocki Swieczkowski Korwin-Piotrowska legal dispute. Poland EU European Commission 2026 economic forecast fiscal debt. Poland NATO defence 4.8 percent GDP 2026. Russia Belarus Polish border hybrid threats Suwalki gap. Poland Ukraine Volhynia grain refugees historical disputes"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-30-poland-constitutional-crisis-europe-russia-ukraine-geoeconomics/pt-BR.md",
+        "title": "Polônia no limite institucional: a crise de outubro de 2026, o equilíbrio europeu e a competição entre Rússia e Ocidente",
+        "deck": "Investigação histórica, institucional e geoeconômica com 35 capítulos sobre suspensão de dirigentes do Tribunal Constitucional, denúncias de golpe, PiS, Tusk, Nawrocki, integração europeia, déficit e dívida, defesa, Rússia, Bielorrússia, OTAN, Ucrânia e pressões externas.",
+        "tags": [
+          "Polônia",
+          "crise constitucional 2026",
+          "Tribunal Constitucional",
+          "Donald Tusk",
+          "Karol Nawrocki",
+          "PiS",
+          "União Europeia",
+          "Rússia",
+          "Ucrânia",
+          "OTAN",
+          "geopolítica"
+        ],
+        "keywords": [
+          "Polônia outubro 2026 tribunal constitucional acusações de golpe",
+          "Tusk Nawrocki disputa Swieczkowski Korwin-Piotrowska",
+          "Polônia economia 2026 UE dívida déficit projeções",
+          "Polônia gastos defesa OTAN 2026",
+          "Rússia Bielorrússia incursões drones Suwalki",
+          "Polônia Ucrânia Volínia grãos refugiados"
+        ],
+        "regime": "Crise de legitimidade judicial e bloqueio institucional coexistem com crescimento sustentado por investimento europeu, pressão fiscal da defesa e exposição estratégica à guerra da Rússia na Ucrânia.",
+        "key_risk": "Apresentar acusação partidária de golpe como tomada do Estado comprovada ou imputar a crise polonesa a ordens secretas de Washington, Moscou ou Bruxelas sem provas.",
+        "watch": [
+          "Nomeações e decisões do Tribunal Constitucional",
+          "Atos de Tusk e Nawrocki",
+          "Regras e eleições parlamentares de 2027",
+          "Fundos UE e marcos judiciais",
+          "Déficit dívida juros",
+          "Incidentes no flanco oriental",
+          "Comércio e apoio logístico à Ucrânia"
+        ],
+        "search_text": "Polônia no limite institucional: a crise de outubro de 2026, o equilíbrio europeu e a competição entre Rússia e Ocidente. Investigação histórica, institucional e geoeconômica com 35 capítulos sobre suspensão de dirigentes do Tribunal Constitucional, denúncias de golpe, PiS, Tusk, Nawrocki, integração europeia, déficit e dívida, defesa, Rússia, Bielorrússia, OTAN, Ucrânia e pressões externas.. Polônia outubro 2026 tribunal constitucional acusações de golpe. Tusk Nawrocki disputa Swieczkowski Korwin-Piotrowska. Polônia economia 2026 UE dívida déficit projeções. Polônia gastos defesa OTAN 2026. Rússia Bielorrússia incursões drones Suwalki. Polônia Ucrânia Volínia grãos refugiados"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "europe"
+      ],
+      "subregions": [
+        "eastern-europe-balkans"
+      ],
+      "countries": [
+        {
+          "code": "PL",
+          "slug": "poland"
+        },
+        {
+          "code": "UA",
+          "slug": "ukraine"
+        },
+        {
+          "code": "RU",
+          "slug": "russia"
+        },
+        {
+          "code": "BY",
+          "slug": "belarus"
+        },
+        {
+          "code": "DE",
+          "slug": "germany"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "institutions-governance",
+      "geopolitics-security",
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "demography-labor",
+      "infrastructure-logistics",
+      "social-change"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change",
+      "strategic-competition",
+      "defense-security",
+      "sanctions-economic-coercion",
+      "migration-displacement",
+      "civil-unrest"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "scenarios": [
+      "Constitutional accommodation with legally accepted oaths, tenure and rulings",
+      "Prolonged parallel legal authority under functioning elections and ministries",
+      "Broader unconstitutional coercive rupture beyond a single judicial institution",
+      "Severe eastern-frontier security or hybrid shock requiring NATO coordination"
+    ],
+    "contrary_evidence": [
+      "Reuters and AP document contested court suspension and police intervention; neither establishes a completed military overthrow or replacement national government.",
+      "The Polish president's interrupted Senegal trip demonstrates political alarm but does not by itself mean the army seized state power.",
+      "March–April 2026 disputed parliamentary and presidential judicial oaths predate the October standoff; the crisis is not uniquely explained by foreign interference.",
+      "EU funding conditionality and Poland's earlier judicial conflicts are real but do not establish that Brussels ordered the October 30 police operation.",
+      "Russian UAV incursions and hybrid activity establish security risks, not proof that Moscow directed the Tribunal confrontation.",
+      "Commission 2026 real GDP growth forecast of 3.5% means political and fiscal instability cannot be equated with observed recession.",
+      "Poland remains in the EU but retains the zloty; the Commission 2026 convergence assessment does not identify euro accession as completed.",
+      "Polish–Ukrainian strategic cooperation coexists with genuine economic and historical disputes; disagreement does not demonstrate Russian control over all opposition voices.",
+      "NATO 7 July 2026 comparable data put Poland fourth, after Lithuania, Estonia and Latvia; the r1 NATO first-place description was a source-vintage error corrected in r2.",
+      "EU Commission's year-on-year GDP and HICP percentage growth rates have different denominators than deficit and debt as shares of GDP; these are now depicted in separate charts."
+    ],
+    "producer_checks": {
+      "information_cutoff": "30 October 2026; NATO Defence Investment Update 7 July 2026 is the controlling comparable defence ranking for 2026. European Commission spring May 2026 forecast distinguishes GDP/HICP year-on-year rates from deficit and debt % GDP. Political news October 30, 2026.",
+      "research_depth": "35 numbered chapters per locale, approximately 8,285 PT-BR and 7,132 EN whitespace-delimited words including chart values and 32 source entries; substantive historical, constitutional, EU political economy, NATO-Russia-Ukraine, and conditional future analysis.",
+      "source_check": "32 same numbered URLs per locale; new primary NATO July 7 2026 source [32] verifies 2026 Poland fourth at 4.68%, with Lithuania 5.33, Estonia 5.10, Latvia 4.92. EC May 2026 source [5] supports GDP, HICP and deficit chart split. Some prior sources overlap (PISM [13] and [30]) and are retained for attribution; independent QA may review.",
+      "visual_signature": "Five matching quantitative bar charts per locale: (1) GDP growth/HICP year-on-year 3.6,3.5,2.8,3.6%; (2) deficit absolute magnitude as % GDP 7.3,6.5,6.3; (3) gross debt % GDP 59.7,64.5,68.3; (4) OECD/IMF defence trend 2.2,4.5,4.8,5.0% GDP (vintages distinguished); (5) NATO comparable 2026 expenditure Lithuania 5.33, Estonia 5.10, Latvia 4.92, Poland 4.68% GDP. Two paired evidence tables, one institutional flow, one geography map, one mindmap in each locale.",
+      "bilingual_parity": "35 matching numbered chapters, 32 identical bibliography URLs, identical five chart numerical series and chart/flow/map/mindmap order; explanatory distinctions about NATO 2026 vs OECD/IMF older estimates and annual rates vs GDP denominator made in both languages.",
+      "methodology": "Distinguishes reported court suspension and legal claims from adjudicated validity; democratic institutional deadlock from completed military coup; documented EU conditionality and NATO integration from unverified external orchestration; forecasts from observed values; NATO defence spending methodology from fiscal accounts; Russian hybrid risks from proof of complicity in Polish judicial proceedings.",
+      "editorial_status": "Revision 2 resubmitted for fresh independent QA, after specific r1 factual and units errors fixed. All staged blobs updated and source Git SHAs pinned. No independent approval or public publication yet.",
+      "source_blob_shas": {
+        "en": "8ab552086d04498e2a49e7b20d137ea1d6cfaae8",
+        "pt-BR": "c6e22417b3eaf698b164acdcb23a26542b46b0b5"
+      },
+      "qa_handoff": "Verify both r1 blockers specifically: no highest-in-NATO 2026 claim, NATO July 7 link [32], 2026 4.68% fourth, 2025 and OECD projection vintages separated; charts with common units only, GDP/HICP YoY chart separate from general government deficit (% GDP), fifth NATO comparison chart matched across languages. Independently verify exact source Git SHAs and no unsupported coup or foreign-orchestration claims."
+    },
+    "revision_reason": "Corrects the independent QA rejection of r1: NATO 7 July 2026 comparable ranking has Lithuania 5.33%, Estonia 5.10%, Latvia 4.92% and Poland 4.68% (fourth); separates GDP/HICP annual percent-change visual from deficit levels (% GDP). Adds 32nd primary NATO source; both language versions, figures and evidence updated."
+  }
+}
