@@ -12,7 +12,7 @@
     "en": {
       "markdown": "staging/research/2026/10/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage/en.md",
       "title": "BRICS, Pix and rare earths: Brazil between monetary autonomy, US–China competition and the political crisis of 2026",
-      "deck": "A documentary, historical and geoeconomic inquiry into Lula's BRICS currency proposals, Pix and Section 301, dollar dominance, US rare-earth financing, the 2026 election and evidence limits around Flávio Bolsonaro's US admission.",
+      "deck": "A documented, 40-source economic and strategic investigation of Lula's BRICS currency proposals, US complaints about Pix, the revised USGS Brazilian rare-earth reserves, completed USAR–Serra Verde takeover and US-backed offtake, the Brazilian 2026 election and testable claims of diplomatic pressure.",
       "tags": [
         "BRICS",
         "Pix",
@@ -47,7 +47,7 @@
     "pt-BR": {
       "markdown": "staging/research/2026/10/2026-10-30-brics-pix-dollar-rare-earths-brazil-us-election-leverage/pt-BR.md",
       "title": "BRICS, Pix e terras raras: o Brasil entre a autonomia monetária, a competição dos EUA com a China e a crise política de 2026",
-      "deck": "Investigação documental, histórica e geoeconômica sobre propostas monetárias de Lula, Pix e Seção 301, hegemonia do dólar, financiamento americano de minerais, eleições de 2026 e limites probatórios da acolhida de Flávio Bolsonaro nos EUA.",
+      "deck": "Investigação geoeconômica com 40 fontes sobre a moeda proposta por Lula no BRICS, a disputa americana sobre o Pix, as reservas revistas pelo USGS, a compra concluída da Serra Verde pela USAR, o contrato de 15 anos e as eleições brasileiras de 2026.",
       "tags": [
         "BRICS",
         "Pix",
@@ -155,7 +155,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "scenarios": [
     "Pragmatic bilateral trade agreement with no fundamental Pix or BRICS alteration",
@@ -168,23 +168,24 @@
     "Pix September 2026 domestic volume does not quantify the diversion of Visa/Mastercard revenue or dollar settlement.",
     "The US-Brazil trade working group and documented minerals interest predate the October election and Flávio's departure.",
     "US statements on 30 October indicate no current plan to recognize Flávio as Brazilian president.",
-    "Mineral reserves of 21 million tonnes REO do not equate to operating downstream processing or an automatic strategic monopoly.",
     "Brazil formally contests the USTR Section 301 assessment; the US allegations remain attributed positions.",
-    "There is no documentary proof in the reviewed source set of an explicit protection-for-minerals or Pix concession exchange."
+    "There is no documentary proof in the reviewed source set of an explicit protection-for-minerals or Pix concession exchange.",
+    "The prior MCS2026 Brazil rare earth reserve value of 21 million tonnes REO was revised in May 2026 to 11 million; the latest value is used in both charts and references.",
+    "Serra Verde's completed September USA Rare Earth takeover and 15-year US-backed offtake predate the October Brazilian election; they establish real ownership/contractual control but not a migration-for-minerals exchange."
   ],
   "producer_checks": {
-    "information_cutoff": "30 October 2026 America/Sao_Paulo. Sources individually dated: BIS Apr 2025, Pix Sep 2026, USGS reserves/2025 production, BRICS declaration Sep 12 2026, TSE Oct 25, Reuters Oct 27–30.",
-    "research_depth": "Portuguese ~8,239 and English ~6,603 whitespace-delimited words including documentary references. 30 substantive numbered sections in each language with causal mechanisms, competing interpretations, four conditional scenarios and explicit evidence gap tests.",
-    "source_check": "32 numbered documentary references per locale with exactly matching URLs: India PMO BRICS declaration, Lula 2023/2026 statements, BCB Pix, BIS, USTR Section 301, Brazil MDIC, USGS 2026, IEA 2026, DFC mineral financing, TSE electoral result, Reuters/NYT-Folha on Flávio. Producer source-consistency review; independent QA required.",
-    "visual_signature": "Four sourced quantitative paired bar charts (BIS 89.2/28.9/8.5 currency sides; USGS REO reserves 44/21/6.3/3.8/1.9; USGS REO mine output 270/51/29/2 thousands; TSE 64.256232/59.826041 million votes), two causal flow diagrams, one institutional mindmap, one regional economic exposure map and four audit tables per locale.",
-    "bilingual_parity": "30 matching chapter concepts, 32 identical reference URLs, eight paired visual types (chart, flow, map, chart, chart, chart, flow, mindmap), matched core numeric claims and the same explicit uncertainty over unproven cross-issue bargaining.",
-    "methodology": "Distinguishes attributed US and Brazilian positions from observed law, institutional currency proposal from payment interoperability, reserve versus production, monetary share versus transaction value, pre-election trade talks versus post-election political crisis. Hypothesis of cross-conditionality left unproven.",
-    "editorial_status": "Revision 2 submitted to independent QA after r1 rejection for an unregistered publication kind. Existing 30-chapter English and Portuguese manuscripts unchanged. No producer approval or public publication asserted.",
+    "information_cutoff": "30 October 2026 BRT; USGS MCS2026 version 1.3 revised May 27, 2026 used consistently, not earlier 21m Brazil estimate. DFC and USAR/SEC updates through Sept 4, 2026. Political developments through Oct 30.",
+    "research_depth": "30 numbered analytical chapters in each locale plus methods and references; PT-BR 9,253 and EN 7,468 whitespace-delimited words; updated section 15 reserve measurement, section 17 completed merger, and section 22 industrial bargaining counterfactuals.",
+    "source_check": "40 matching sources per locale including 8 new first-party/SEC sources: revised USGS factsheet and version history, Serra Verde February DFC statement, SEC financing and draw, Serra Verde August offtake, USAR SPV commitments, USAR Sept acquisition, SEC Sept merger consideration, Cade antitrust inquiry. Independent QA source-by-source audit required.",
+    "visual_signature": "Four bilingual numeric charts (BIS dollar 89.2, euro 28.9, CNY 8.5 % sides; USGS updated reserves 44,11,6.3,3.8,1.9 million REO; 2025 mining 270,51,29,2 thousand REO; TSE 64.256232 and 59.826041 million), three paired flow diagrams incl. real 2026 DFC/offtake/merger timeline, one map, one mindmap, four tables.",
+    "bilingual_parity": "30 matching numbered chapters, 40 same numbered source URLs, nine corresponding visual blocks in order chart-flow-map-chart-chart-flow-chart-flow-mindmap, four numerically identical chart series and matched caveats about sanctions, monetary arrangements, reserve revision and status of US-financed SPV and merger.",
+    "methodology": "Cites latest revised USGS MCS2026 May edition, not stale February estimate. Separates mineral REO reserves from mining production and carbonate from separated oxide/magnets; US corporate ownership (Sept 3) from Brazilian territorial sovereignty, executed DFC facility from actual US$325m March drawdown, government funding commitments from conditional credit and future purchases. The pre-election industrial transaction does not prove an exchange for post-election Flavio US admission.",
+    "editorial_status": "Revision 3 resubmitted to independent QA after r2 rejection for two material source omissions. Both localized stage blobs updated; no manual approval/public promotion. Historic rejection audit retained.",
     "source_blob_shas": {
-      "en": "f56848f1862bba4e76f0f71b8c6d361ada76d3f6",
-      "pt-BR": "9c3d675c7efd8bb0bd072cfb0904d16c2e207d7d"
+      "en": "590aada2e0a3540cdb8a99cf7b5ff4e92ada1745",
+      "pt-BR": "780bc0bfc848192fe47aee8a251279a52f61c707"
     },
-    "qa_handoff": "Independent QA should verify r2 institutional editorial-line mapping (global-institution-system in data/system-registry.json), and complete evidence traceability spot checks deferred at r1. Preserve r1 rejection as historical record. Recalculate pending/source Git blob SHA bindings before any approval."
+    "qa_handoff": "Check prior r2 blocking issues now remediated using references [16][33] (USGS v1.3 Brazil 11m), [34][35] (US$565m DFC/US$325m drawn), [36][37] (15y 100% Phase I offtake, US$1.55bn SPV capitalization), [38][39] (USAR merger closed Sep 3), [40] (Cade inquiry). Verify SHA-exact bilingual visual parity and avoid implicit causal claim of Flavio election pressure."
   },
-  "revision_reason": "Revision 2 corrects the rejected, unregistered publication kind to the existing active global-institution-system editorial line, retaining the Global System & Power program and the complete SHA-identical bilingual manuscripts."
+  "revision_reason": "QA r2 rejected factual errors: USGS Brazil REO reserve revised to 11m (MCS2026 v1.3 May); omitted 2026 DFC US$565m financing, March drawdown, 15y 100% Phase I offtake, August SPV commitments, September completed USA Rare Earth acquisition and Cade case. Both manuscripts comprehensively revised with primary sources."
 }
