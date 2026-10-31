@@ -155,7 +155,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 3,
+  "revision": 4,
   "assessment_confidence": "medium",
   "scenarios": [
     "Pragmatic bilateral trade agreement with no fundamental Pix or BRICS alteration",
@@ -178,14 +178,14 @@
     "research_depth": "30 numbered analytical chapters in each locale plus methods and references; PT-BR 9,253 and EN 7,468 whitespace-delimited words; updated section 15 reserve measurement, section 17 completed merger, and section 22 industrial bargaining counterfactuals.",
     "source_check": "40 matching sources per locale including 8 new first-party/SEC sources: revised USGS factsheet and version history, Serra Verde February DFC statement, SEC financing and draw, Serra Verde August offtake, USAR SPV commitments, USAR Sept acquisition, SEC Sept merger consideration, Cade antitrust inquiry. Independent QA source-by-source audit required.",
     "visual_signature": "Four bilingual numeric charts (BIS dollar 89.2, euro 28.9, CNY 8.5 % sides; USGS updated reserves 44,11,6.3,3.8,1.9 million REO; 2025 mining 270,51,29,2 thousand REO; TSE 64.256232 and 59.826041 million), three paired flow diagrams incl. real 2026 DFC/offtake/merger timeline, one map, one mindmap, four tables.",
-    "bilingual_parity": "30 matching numbered chapters, 40 same numbered source URLs, nine corresponding visual blocks in order chart-flow-map-chart-chart-flow-chart-flow-mindmap, four numerically identical chart series and matched caveats about sanctions, monetary arrangements, reserve revision and status of US-financed SPV and merger.",
+    "bilingual_parity": "30 corresponding numbered sections; 40 identical source URLs; nine matching visual blocks and four matching numeric chart series; r4 has two EN prose self-references removed without semantic alteration; Portuguese staged blob unchanged.",
     "methodology": "Cites latest revised USGS MCS2026 May edition, not stale February estimate. Separates mineral REO reserves from mining production and carbonate from separated oxide/magnets; US corporate ownership (Sept 3) from Brazilian territorial sovereignty, executed DFC facility from actual US$325m March drawdown, government funding commitments from conditional credit and future purchases. The pre-election industrial transaction does not prove an exchange for post-election Flavio US admission.",
-    "editorial_status": "Revision 3 resubmitted to independent QA after r2 rejection for two material source omissions. Both localized stage blobs updated; no manual approval/public promotion. Historic rejection audit retained.",
+    "editorial_status": "Revision 4 submitted for independent QA to resolve strict public research editorial-integrity lint after initial public r3 bundle. Public r3 is unbuildable until r4 is approved and replaces the public source and its QA-bound metadata/index.",
     "source_blob_shas": {
-      "en": "590aada2e0a3540cdb8a99cf7b5ff4e92ada1745",
+      "en": "436ec3cd17112eb0cc4cee0ac9a703116ef6104d",
       "pt-BR": "780bc0bfc848192fe47aee8a251279a52f61c707"
     },
-    "qa_handoff": "Check prior r2 blocking issues now remediated using references [16][33] (USGS v1.3 Brazil 11m), [34][35] (US$565m DFC/US$325m drawn), [36][37] (15y 100% Phase I offtake, US$1.55bn SPV capitalization), [38][39] (USAR merger closed Sep 3), [40] (Cade inquiry). Verify SHA-exact bilingual visual parity and avoid implicit causal claim of Flavio election pressure."
+    "qa_handoff": "QA should verify r3 source/fact checks remain valid, r4 EN removes the two strict self-reference findings, and approve pending+source SHAs. Public publisher must atomically update reports/<slug>/en.md, metadata.json and data/reports.json to r4 only after approval; PT-BR blob may be preserved identically."
   },
-  "revision_reason": "QA r2 rejected factual errors: USGS Brazil REO reserve revised to 11m (MCS2026 v1.3 May); omitted 2026 DFC US$565m financing, March drawdown, 15y 100% Phase I offtake, August SPV commitments, September completed USA Rare Earth acquisition and Cade case. Both manuscripts comprehensively revised with primary sources."
+  "revision_reason": "Revision 4: public build on r3 failed 2026-10-31 editorial-integrity lint due to two self-referential EN phrases ('This assessment reconstructs'; 'for this assessment'). EN staged manuscript rewritten in substantive institutional language only; quantitative charts, 40 references, PT-BR and all underlying claims unchanged. Requires fresh SHA-bound QA and public revision."
 }
