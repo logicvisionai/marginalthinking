@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-31T00:23:59.152Z",
+  "last_reconciled_at": "2026-10-31T03:01:49.788Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7537,6 +7537,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Pix adoption and rare-earth supply chains are background infrastructure and industrial observations here; no new measured discrete technology performance or deployment milestone is validated."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-poland-constitutional-security-publication-reconciliation",
+      "reconciled_at": "2026-10-31T03:01:49.788Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-10-30-POLAND-CONSTITUTIONAL-SECURITY-2026"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The approved Poland dossier describes EU financing, NATO defence procurement, and Russia/Ukraine exposure, but supplies no verified normalized bilateral flow amounts, direction, or compatible time-series needed to change network edges."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "EU-funded investment and defence industry may imply opportunities, but this report does not provide project-level capital costs, ownership, execution risk, and returns suitable for a canonical opportunity entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Polish government, presidency, Constitutional Tribunal, European Commission, NATO and Russian institutions are discussed; no verified new ownership, control or decision-right relation has been mapped for the canonical actor dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The constitutional crisis and defence-fiscal analysis does not establish a new resource concession, extraction title, beneficial ownership or commodity control relation."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The disputed judicial actions and EU conditionality are not a completed measured policy experiment with observed outcomes and counterfactual evidence for the policy-case atlas."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Russia/Belarus border and Ukraine-war security exposures are relevant, but the dossier does not verify a new geolocated conflict event or attribution and causal edges sufficient for a canonical conflict-system update."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No independently measured technology performance, adoption milestone, or discrete technical deployment signal is established by this constitutional and geoeconomic research."
         }
       ]
     }
