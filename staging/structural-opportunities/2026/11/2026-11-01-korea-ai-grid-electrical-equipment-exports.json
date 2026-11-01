@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-11-01T05:04:01-03:00",
+  "candidate": {
+    "id": "2026-11-01-korea-ai-grid-electrical-equipment-exports",
+    "country": {
+      "code": "KOR",
+      "name": "South Korea"
+    },
+    "previous_state": null,
+    "proposed_state": "leverageable_efficiency",
+    "perspective": "Korean manufacturers and overseas buyers of transformers, cables and other electrical equipment supplying data-centre power connections; not a security recommendation or equity valuation.",
+    "structural_condition": "Existing Korean electrical-equipment export capacity appears capable of supplying rising global demand for data-centre grid components, while the timing of installation, capacity bottlenecks, profitability and power-grid commissioning remain unverified.",
+    "delta": "The Republic of Korea Ministry of Trade, Industry and Resources reported on 1 November that October 2026 electrical-equipment exports reached a monthly record $1.99 billion, up 74.0% year on year; the ministry attributes the increase partly to transformers, wires and cables demanded by AI data centres. September value was $1.83 billion, while July was $1.72 billion. October is a realized nominal trade receipt, not a newly commissioned grid connection.",
+    "mechanism": "A pre-existing export manufacturing base can leverage demand for transformer/cable delivery as compute infrastructure expands. Orders and export receipts can finance factory utilization and investment; buyer access and project schedules depend on actual lead times, technical certification, domestic power supply, equipment delivery, installation and commissioning. Higher prices or holiday effects can raise export value without equivalent volume growth.",
+    "catalysts": [
+      "Two or more additional months of published electrical-equipment export volumes, unit prices and delivery destinations, beyond a nominal value record.",
+      "Independent customer/project disclosure linking Korean exported transformers and cables to commissioned power infrastructure and verified grid MW.",
+      "Supplier order backlogs, capacity utilization, lead times, warranty performance and margins supported by audited filings.",
+      "Measured energy costs and financing terms for Korean electrical-equipment producers."
+    ],
+    "invalidation": "Subsequent customs data show the increase is principally unit-price or calendar effects rather than shipped quantities; new orders or equipment backlogs reverse; deliveries fail grid certification or commissioning; or realized margins do not improve despite higher export receipts.",
+    "confidence": "low-to-medium",
+    "materiality": "medium",
+    "related_atlas_ids": [
+      "2026-10-28-korea-hbm4-contracted-memory-capacity"
+    ],
+    "evidence": [
+      {
+        "name": "Republic of Korea MOTIR, October 2026 exports/imports; electrical equipment $1.99bn (+74%) and monthly ranking",
+        "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view",
+        "date": "2026-11-01"
+      }
+    ],
+    "status": "discovery_watch",
+    "horizon": "2026-2027; reassess with actual shipment volumes and commissioned projects",
+    "evidence_stage": "Official realized customs export values and ministry attribution; physical grid commissioning and customer-level demand not established",
+    "last_verified_at": "2026-11-01",
+    "disclosure_limitations": "Nominal customs value may reflect price, exchange-rate, calendar and product-mix effects; does not establish profitability, capacity additions, project deployment or power delivered to AI facilities.",
+    "contrary_evidence": [
+      "The same release reports crude import unit prices +62% and crude volumes -6.3%, showing why nominal trade growth cannot be treated as physical volume growth.",
+      "Electrical equipment is only $1.99bn versus $56.44bn semiconductors, so the signal is material to a specific supply chain, not proof of a diversified nationwide AI boom.",
+      "Korean overall exports were below September despite faster year-on-year growth, demonstrating base/calendar sensitivity."
+    ]
+  },
+  "research_note": "Distinct from 28 Oct Korea HBM4 contracted memory capacity: this concerns power-grid equipment manufacturing and actual nominal exports, not memory production contracts. Discovery signal only. No canonical Atlas/history modification; review belongs to 2/5."
+}

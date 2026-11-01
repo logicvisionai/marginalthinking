@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "checked_at": "2026-11-01T08:04:01Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-01",
+  "candidate_ids": [
+    "2026-11-01-korea-ai-grid-electrical-equipment-exports"
+  ],
+  "coverage_summary": "One primary-source daily structural scan of infrastructure, energy, logistics, regulation, productivity, production, credit access and institutions. New Korean MOTIR 1 Nov data show electrical-equipment monthly export record $1.99bn (+74% y/y), including AI datacentre transformers/wires/cables. This is a distinct provisional grid-equipment supplier leverage signal, not proof of commissioned megawatts or durable productivity. Reviewed prior Korea HBM4, BOJ ETF, Australia energy, Brazil seized-assets and other staged candidates to avoid duplication. China 31 Oct PMI small-firm weakness remains a survey, not proven structural credit rationing. No change to canonical Atlas.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "Korean MOTIR October exports and imports",
+      "date": "2026-11-01",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view"
+    },
+    {
+      "name": "China NBS October PMI",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "IEA October Oil Market Report",
+      "date": "2026-10-14",
+      "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+    },
+    {
+      "name": "World Bank Commodity Outlook",
+      "date": "2026-10-28",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "name": "ECB October monetary decision",
+      "date": "2026-10-29",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+    }
+  ],
+  "review_limitations": [
+    "Electrical-equipment exports are nominal customs receipts, not shipment volume, installed capacity or measured productive efficiency.",
+    "One month of record sales is not enough to determine durable grid access, margins or customer concentration.",
+    "No independent power-connection commissioning, MW capacity, lead-time or contract fulfillment dataset for the Korean equipment exported in October.",
+    "No canonical Atlas state or historical event changed."
+  ]
+}
