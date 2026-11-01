@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "checked_at": "2026-11-01T08:04:01Z",
+  "scope": "All 28 active registered editorial lines screened after staging the required 1 November Global Macro. New Korean official customs release dated 1 Nov compared with 31 Oct NBS PMI, 30 Oct Eurostat/Treasury, 29 Oct BEA/ICI, 28 Oct World Bank, 14 Oct IEA, 2 Oct FAO and WHO recent outbreak/risk listings. No separate thematic item has a new primary-source causal result beyond macro or prior corpus. A screening is not proof that no other event occurred.",
+  "registry_updated_at": "2026-10-30T13:03:47.104Z",
+  "reviewed_line_count": 28,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "new_pending_qa",
+      "note": "MT-GM-2026-11-01 staged EN/PT with official 1 Nov Korea October exports $115.28bn (+93.7% y/y), chips $56.44bn (+259.4%), crude import price +62.0% versus volume -6.3%, against China PMI 49.3; 14 end sources and 4 charts."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "Korean merchandise surplus $42.50bn is goods trade, not net financial-account flows; US ICI money-market assets do not identify Korean investors. Weekly reconciliation belongs to 2/5."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Korean semiconductor concentration and energy-price burden are important but a single October trade release does not establish a persistent national structural transition or social outcomes."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Korean October customs and China PMI are relevant country evidence, not enough to replace canonical country-context dossiers without full stock/flow institutional analysis."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Korean chips $56.44bn and computers $5.85bn are trade receipts, not newly demonstrated AI capability or independently measured deployment. Weekly technology task owns capability stage."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new verified utilization, energy efficiency, returns on AI datacenters or sustained output capacity; Korea electrical-equipment $1.99bn (+74%) is a sales signal, not commissioned power."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "IEA Sept Hormuz 10.9 mb/d and OPEC 4 Oct required production contextualized. No 1 Nov physical route measurement or verified new armed escalation adopted as fact."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Korean export receipts do not reveal ownership, financing control or signed supplier contracts beyond existing HBM4 candidate; no new actor dossier."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "Fed 28 Oct held 3.75–4.00%, ECB 29 Oct held deposit 2.50%, UST 30 Oct 10Y 4.94%; no Sunday trading close or 1 Nov central-bank decision invented."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "OPEC+ 1 Nov meeting scheduled but not confirmed as completed at 05 BRT; 4 Oct official communiqué still last verified seven-country decision."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Korean trade surge and energy import costs are outcomes of markets, not proof of a newly implemented fiscal or industrial policy and its counterfactual effects."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "High nominal chip receipts do not document a new monetary instrument, market design or operating experiment; avoid speculative digital-currency causal links."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Trade balance and equity valuations do not measure beneficial ownership or asset control; no new ownership-resolved monthly capital dataset."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new globally comparable annual control/reserve/wealth stock census; Korean merchandise exports are flows, not ownership stock."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Korean MOTIR, Chinese NBS, Fed/ECB and IEA observed; no new verified mandate or institutional redesign beyond already reported decisions."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Korean exports to ASEAN $21.33bn (+128%) and EU $8.10bn (+56.4%) are bilateral/regional trade values, not evidence of a new integration treaty."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI equipment export growth does not quantify employment displacement, household distribution or technological access; no independently measured social impact delta."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "FAO Sep food index 136.0 (+1.5% m/m), next release 6 Nov; WB Oct food outlook is forecast. Korean agricultural-food exports $1.11bn (+11.6%) do not establish food affordability, pesticide exposure or nutrition outcomes."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Herd management, antimicrobial use/resistance, pesticide and chemical exposure screened against WHO/FAO/WOAH governance context; no newly validated comparative intervention or outbreak series to justify separate analysis."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Gulf oil route disruption treated as conditional mechanism using dated IEA estimates. No imminent major-power war claim or new deployment inferred from unverified reports."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_existing",
+      "note": "WHO 30 Oct yellow-fever rapid-risk-assessment listing and 23 Oct Ebola outbreak require source-level verification; previously rejected Ebola thematic not duplicated or converted into new outbreak claim."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new primary archival material for intellectual-history or historical-political economy work; current Korean trade statistics do not justify another historical essay."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "Korea energy imports $16.49bn (+63.1%), crude import unit price +62.0% and physical volume -6.3%; electrical equipment exports $1.99bn (+74%) warrant Atlas discovery, not another article repeating macro."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "No new primary verified election-law, fiscal or institutional decision with distinct cross-country consequences; prior Brazil election coverage remains separate."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Korean import cost and IEA Sept stocks do not establish new mineral-reserve certification, sovereign control or ownership transfer; Brazil rare-earth corpus not duplicated."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Korean transformers/cables export value points to demand, not installed grid megawatts, a binational electricity agreement or datacenter commissioning; no Itaipu-specific new primary action."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Korea destination trade China $26.98bn, US $24.90bn, ASEAN $21.33bn, Latin America -37% y/y; no independent 1 Nov freight throughput for new corridor assessment."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "IEA Sep observed oil stocks -509 mb versus end-Feb, FAO Sep prices and Korean crude import bill examined; no harmonized current food/medical/mineral/energy reserve inventory."
+    }
+  ],
+  "source_vintages": [
+    {
+      "name": "Korea MOTIR October merchandise trade",
+      "date": "2026-11-01",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view"
+    },
+    {
+      "name": "China NBS October PMI",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "Eurostat Q3 GDP",
+      "date": "2026-10-30",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    {
+      "name": "IEA October Oil Market Report",
+      "date": "2026-10-14",
+      "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+    },
+    {
+      "name": "World Bank October Commodity Outlook",
+      "date": "2026-10-28",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "name": "FAO September Food Price Index",
+      "date": "2026-10-02",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/"
+    },
+    {
+      "name": "WHO rapid risk assessment listing",
+      "date": "2026-10-30",
+      "url": "https://www.who.int/emergencies/risk-assessment/rapid-risk-assessment"
+    }
+  ],
+  "additional_thematic_item": "none: Korea trade/AI/energy delta covered in Global Macro, no independently distinct verified thematic causal assessment",
+  "open_evidence_gaps": [
+    "Korean chip unit prices versus physical shipment volumes, ultimate customers and data-centre returns not independently observed.",
+    "Korean electrical equipment export growth does not establish grid commissioning or MW capacity; Atlas discovery only.",
+    "No new verified pesticide, antimicrobial resistance, livestock outbreak, pandemic or chemical/biological incident quantitative dataset with comparable exposure and intervention outcomes.",
+    "No harmonised current strategic inventory for food, medicines, minerals and energy; no 1 Nov independent Hormuz flow data.",
+    "OPEC+ final 1 Nov decision not verified at 05:00 BRT cutoff."
+  ]
+}
