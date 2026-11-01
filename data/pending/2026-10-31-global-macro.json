@@ -43,7 +43,7 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -110,15 +110,22 @@
   "producer_checks": {
     "information_cutoff": "2026-10-31 05:00 BRT (08:00 UTC); China NBS 31 Oct 09:30 CST released 30 Oct 22:30 BRT; 30 Oct US/EU completed releases and sessions.",
     "novelty": "Compared 28 Oct Korean AI memory contracts, 29 Oct Fed/BoC divergence, 30 Oct US GDP/income. New NBS October PMI by size and export orders plus Eurostat Q3 GDP and Sep unemployment and 30 Oct US Treasury curve; distinct thesis on geographically uneven goods demand.",
-    "source_check": "14 numbered references in each language; primary NBS, Eurostat, Treasury, BEA, ECB, Fed, World Bank, ICI. Reuters used only for qualified conflict/settlement context. Dates, frequencies and conditional forecasts distinguished.",
-    "visual_signature": "EN/PT each 1 evidence table, 5 quantitative charts with identical values, 1 three-chain flow, 1 five-region map. All chart values trace to NBS, Eurostat and Treasury.",
-    "bilingual_parity": "Same 14 reference URLs, numerical evidence, uncertainty qualifiers, five chart series and conditional scenario logic in both languages.",
-    "research_depth": "Substantive multi-regional argument; independent mechanisms, contrary evidence, falsifiers, stock-flow distinctions, observation vintages."
+    "source_check": "15 numbered identical source URLs in EN and PT-BR. New primary BEA September 2026 Personal Income and Outlays [15] separately supports real DPI -0.3% monthly and real PCE 0.0%; BEA Q3 GDP original [7] supports +3.4% annualised and Q2 +2.2%. ECB deposit rate 2.50% [6]; Eurostat September HICP [8] and calendar [9]. NBS, Eurostat GDP/labour and Treasury remains unchanged. Claim-level source mapping corrected.",
+    "visual_signature": "EN/PT each 1 evidence table, 5 identical quantitative charts (China PMI, export orders, firm sizes, euro GDP, UST yield), 1 three-chain flow and 1 five-region map. Numerical evidence untouched since r1.",
+    "bilingual_parity": "EN and PT-BR retain same 15 numbered reference URLs, corrected BEA [7] GDP and [15] DPI/PCE citation, ECB [6], five identical numerical chart series, visual sequence chart-chart-chart-chart-chart-flow-map, and conditional scenario logic.",
+    "research_depth": "Substantive multi-regional argument; independent mechanisms, contrary evidence, falsifiers, stock-flow distinctions, observation vintages.",
+    "editorial_status": "Revision 2 resubmitted to independent QA after r1 source-misattribution rejection; exact staged Git blobs pinned; no publisher may promote without fresh approval.",
+    "source_blob_shas": {
+      "en": "52b06705790c3244e92c657247dc8294e65ddf8b",
+      "pt-BR": "cfa416e2eed1bf6ade825f5babb11975d0f25636"
+    },
+    "qa_handoff": "Audit rejection r1 root cause using original BEA September release source [15]: Sep real DPI -0.3% m/m and real PCE 0.0%; Q3 GDP [7] +3.4% annualized. Cross-check ECB rate 2.50% [6], Eurostat HICP [8], bibliography parity, five numeric chart arrays. Approved QA must pin r2 pending blob SHA and both staged Git blob SHAs and include evidence_traceability result passed where supported."
   },
   "contrary_evidence": [
     "Chinese high-technology manufacturing subsectors above 53 and large manufacturers at 50.2; one-month survey can be affected by holidays.",
     "Euro-area real GDP still expanded 0.4% q/q in Q3; Irish and Spanish growth show heterogeneity.",
-    "US Q3 real GDP rose 3.4% annualised, inconsistent with a uniform global contraction."
+    "US Q3 real GDP rose 3.4% annualised, inconsistent with a uniform global contraction.",
+    "The US BEA reported real DPI -0.3% m/m and real PCE 0.0% for September, from its separate September Personal Income and Outlays release, not the Q3 GDP advance estimate; monthly demand weakness does not erase +3.4% annualized Q3 GDP growth."
   ],
   "limitations": [
     "China PMI is a diffusion index and not measured export volumes, factory output growth or SME credit access.",
@@ -150,6 +157,11 @@
     {
       "name": "World Bank commodities",
       "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "name": "BEA Personal Income and Outlays September 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
     }
-  ]
+  ],
+  "revision_reason": "Correct independent QA r1 rejection: BEA September Personal Income and Outlays (29 October 2026) is new bibliography [15] in EN/PT; September real DPI -0.3% and real PCE 0.0% cite [15], while Q3 GDP 3.4% cites [7]. Also corrected intro US GDP ref [6] -> [7], and ECB deposit-rate paragraph now cites ECB [6] alongside Eurostat [8] and calendar [9]. All 5 chart values unchanged."
 }
