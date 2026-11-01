@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-01T01:52:36.605Z",
+  "last_reconciled_at": "2026-11-01T15:18:50.551Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7626,6 +7626,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Manufacturing PMI and sector diffusion readings are survey indicators, not verified technical performance, adoption or deployment milestones of a discrete technology signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-global-macro-post-publication-reconciliation",
+      "reconciled_at": "2026-11-01T15:18:50.551Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-01"
+      ],
+      "audit_note": "Report was published in a SHA-bound atomic content/index commit before its required system reconciliation; this ledger-only reconciliation restores the build invariant and leaves independently approved report text and metadata unchanged. Decisions distinguish observed Korean customs values from unmeasured control and project outcomes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "MOTIR October export totals by destination (China 26.98, US 24.90, ASEAN 21.33, EU 8.10 USD bn) and chip concentration indicate new trade-value exposures, but a canonical dependency edge still requires bilateral directional denominator, matched import flows, product comparability and an appropriate reference period. No network edge updated."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Korean semiconductor, data-centre computer and electrical equipment exports indicate possible supply-chain investment opportunities. The macro release does not document a specific investible project, owner, capital cost, cash flows or executable return model for a new atlas entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "The official seven-country OPEC+ decision maintains September 2026 production requirements for December, and named Korean/Chinese institutions report trade. This does not establish new verified actor ownership, contracting rights or control edges within the actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Korean energy import unit prices, physical crude volume and OPEC+ production requirements are useful market signals but do not evidence a new concession, beneficial ownership transfer, mineral control or offtake right."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "OPEC+'s November 1 decision for December requirements is an announced policy measure; December physical compliance, prices and a credible counterfactual are unobserved. Insufficient causal evidence for a measured policy-case entry."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The IEA September Hormuz transit estimate and Gulf energy-risk discussion do not verify a new November geolocated incident, attribution, casualties, damage or physical throughput disruption; no new conflict-system event is recorded."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Semiconductor export receipts rose strongly and electrical equipment sales expanded with reported data-centre demand, but customs nominal values do not independently verify installed AI compute capacity, hardware performance, utilization, network megawatts or technical deployment milestones."
         }
       ]
     }
