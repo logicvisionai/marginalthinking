@@ -22,7 +22,7 @@ const normalizeEntities=s=>String(s||'').replace(/&amp;/g,'&').replace(/&#39;/g,
 
 for(const item of reports)for(const locale of availableLocales(item).filter(l=>cfg.locales[l])){
   const file=fileForUrl(reportPath(item,locale));if(!fs.existsSync(file)){fail.push(`${item.id}/${locale}: HTML ausente`);continue;}const html=fs.readFileSync(file,'utf8');
-  const title=html.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||'';if(!title||title.length>90)fail.push(`${item.id}/${locale}: title SEO ausente ou longo (${title.length})`);
+  const title=normalizeEntities(htmlTitle(html));if(!title||title.length>90)fail.push(`${item.id}/${locale}: title SEO ausente ou longo (${title.length})`);
   const description=contentAttr(html,'name','description');if(!description||description.length>170)fail.push(`${item.id}/${locale}: meta description ausente ou longa (${description.length})`);
   const og=contentAttr(html,'property','og:image'),expected=`${site}${socialPath(item,locale)}`;if(og!==expected)fail.push(`${item.id}/${locale}: og:image não é PNG específico`);
   if(contentAttr(html,'property','og:image:type')!=='image/png')fail.push(`${item.id}/${locale}: og:image:type deve ser image/png`);
