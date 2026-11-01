@@ -44,13 +44,13 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
       "markdown": "staging/research/2026/11/2026-11-01-global-macro/en.md",
       "title": "Global Macro — Korea's chip-export boom meets China's order contraction and an energy import squeeze",
-      "deck": "Korean October exports surged 93.7% year on year, led by chips, but imports became more expensive and China's broad industrial orders contracted.",
+      "deck": "Korean October semiconductor export receipts surged as Chinese orders weakened; the official September baseline corrects the trade-surplus comparison, while OPEC+ held December production requirements.",
       "tags": [
         "Global Macro",
         "Korea exports",
@@ -69,18 +69,18 @@
       "regime": "Concentrated AI hardware receipts alongside weak Chinese order diffusion and elevated energy import costs.",
       "key_risk": "High chip receipts and trade surplus obscure dependence on prices, customer capital spending and energy import unit costs.",
       "watch": [
-        "Korea November exports and chip price/volume split",
+        "Korea November exports and semiconductor prices versus physical volumes",
         "China customs trade and November PMI",
-        "Verified OPEC+ final decision and physical oil shipments",
-        "US credit spreads and yields",
-        "FAO 6 November food prices"
+        "OPEC+ compliance with December requirements and next seven-country meeting 29 November",
+        "US credit spreads and latest completed Treasury yield curve",
+        "FAO food-price report 6 November"
       ],
       "search_text": "Global Macro 1 November 2026 South Korea October exports 93.7 percent 115.28 billion chips 56.44 billion China PMI 49.3 crude import unit prices 62 percent"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-01-global-macro/pt-BR.md",
       "title": "Global Macro — Exportações coreanas de chips disparam enquanto encomendas chinesas recuam e petróleo encarece importações",
-      "deck": "As exportações coreanas avançaram 93,7% em outubro, puxadas por chips, mas o custo das importações subiu e as encomendas industriais chinesas enfraqueceram.",
+      "deck": "Receitas coreanas de chips avançaram apesar de encomendas chinesas fracas; o superávit foi comparado à base oficial de setembro, e a OPEP+ manteve exigências de produção para dezembro.",
       "tags": [
         "Global Macro",
         "Exportações coreanas",
@@ -99,40 +99,42 @@
       "regime": "Receitas concentradas em hardware de IA convivem com enfraquecimento das encomendas chinesas e energia importada cara.",
       "key_risk": "Receitas de chips e superávit comercial encobrem dependência de preços, investimentos dos clientes e custos energéticos.",
       "watch": [
-        "Exportações coreanas de novembro e preços/volumes de chips",
-        "Aduana chinesa e PMI de novembro",
-        "Decisão final da OPEP+ e embarques físicos",
-        "Spreads de crédito e Treasury",
-        "Preços da FAO em 6 de novembro"
+        "Exportações coreanas de novembro e preços de chips versus volumes físicos",
+        "Dados aduaneiros chineses e PMI de novembro",
+        "Cumprimento da exigência de produção para dezembro pela OPEP+ e reunião de 29 de novembro",
+        "Spreads de crédito e última curva Treasury negociada",
+        "Índice de preços de alimentos da FAO em 6 de novembro"
       ],
       "search_text": "Global Macro 1 novembro 2026 Coreia exportações 93,7 por cento 115,28 bilhões semicondutores 56,44 bilhões China PMI 49,3 petróleo preço 62 por cento"
     }
   },
   "producer_checks": {
-    "information_cutoff": "2026-11-01 05:00 BRT (08:00 UTC); MOTIR 1 Nov 2026 Seoul release available; US/EU markets last completed Friday 30 Oct.",
-    "novelty": "Compared 29 Oct Fed/Canada divergence, 30 Oct US GDP versus real household income and AI financing, 31 Oct China PMI/Euro GDP: first full Korean October customs breakdown reveals 93.7% nominal export growth, 259.4% chip sales, 76% daily-adjusted growth, oil import unit price +62.0% with crude volume -6.3%, and geographically uneven destination trade. Distinct price-volume/concentration thesis.",
-    "source_check": "14 matching numbered end-references; core 1 Nov Korean trade facts checked against MOTIR original Korean primary release; 31 Oct China PMI NBS; BEA September DPI original distinct from Q3 GDP; IEA September inventories and flows dated correctly; OPEC 4 Oct communiqué not mistaken for Nov 1 outcome.",
-    "visual_signature": "EN/PT each one evidence table, four charts with exactly corresponding numeric arrays (selected Korean products, Sep/Oct export totals, crude price/volume/value, selected destinations), one three-chain flow, one six-region map.",
-    "bilingual_parity": "Identical 14 reference URLs, same chart series values and units, same sections and conditional scenarios; locale-specific natural prose and chart labels.",
-    "research_depth": "EN 2572 and PT 2741 words excluding fenced visuals, distinct mechanisms, evidence/interpretation/scenarios, contradictory observations and falsifiers, stock-flow-price-volume separation.",
-    "editorial_status": "New edition only; no public report or QA approval created by producer.",
+    "information_cutoff": "Initial 2026-11-01 05:00 BRT (08:00 UTC) Korea trade, NBS and last 30 October financial sessions; same-day update after official seven-country OPEC+ 1 Nov statement, before release of this revision. No fictitious Sunday financial close.",
+    "novelty": "Distinct from October 31 China PMI: first full Korean October trade report 1 Nov (exports $115.28bn, chips $56.44bn, nonchip +34%, oil unit price +62%, physical crude volume -6.3%, region data), crosschecked to original September 1 Oct vintage ($120.94bn, +83.5% y/y, surplus $49.85bn), plus official seven OPEC+ countries Nov1 decision maintaining September required production levels for December. No new physical oil flow inferred.",
+    "source_check": "16 matching numbered original references per language; Korean MOTIR 1 November October trade [1] and 1 October September trade [15] separate source periods, original NBS 31 Oct PMI [2], Eurostat 30 Oct GDP and labour [3][14], original BEA 29 Oct Q3 GDP [4] and September DPI [5], verified 1 November OPEC+ primary release [16], original 4 Oct OPEC [12], dated IEA/World Bank/FAO and Fed/ECB/Treasury sources. September trade surplus 49.85-42.50 = 7.35 USD bn.",
+    "visual_signature": "4 bilingual matching source-linked bar charts (selected Korean exports, Sep/Oct Korea merchandise exports $120.94bn/$115.28bn, Korean crude oil import unit price +62%, physical volume -6.3%, import value +51.9%, trade destinations); one 3-chain flow, one 6-region map, one evidence table; 16 sourced bibliography entries.",
+    "bilingual_parity": "16 identical reference URLs, original September official exports +83.5%, surplus $49.85bn and Oct surplus $42.50bn, delta $7.35bn, exact 4 numeric chart series and parallel visuals, both include dated official OPEC+ Nov1 decision for December and Sept euro-area unemployment source [14]. Distinguishes initial morning cutoff from same-day official update.",
+    "research_depth": "Eight H2 analytical sections per edition with three transmission pathways, two falsifiable alternative scenarios, price/volume/stock/flow distinctions; 16 primary/research and news reference URLs; four source-linked quantitative charts and one evidence table per language.",
+    "editorial_status": "Revision 2 re-submitted for independent SHA-bound QA, addressing factual rejection and new primary November 1 OPEC+ release; no public promotion without approval and three Git SHA verification.",
     "source_blob_shas": {
-      "en": "39a0eaca49430bdb7e3ffd4557985d60e58ea2cf",
-      "pt-BR": "9190dd452b3b82629870b6f0e3dd740ae0d3d555"
+      "en": "b7da08475f5d43d9fb321a46dd2dec4354d4fc4f",
+      "pt-BR": "ae2a035544f7635f66b860c704ac0c0d74805fa5"
     },
-    "qa_handoff": "Review Korea 1 Nov official release value vs volume, 2026 holiday-adjusted 76% growth, 49.0% derived semiconductor share, 14 matching citations and chart numeric arrays, China PMI diffusion interpretation, oil and OPEC decision cutoff; approve only after SHA-bound independent QA."
+    "qa_handoff": "Audit prior r1 rejected claims using primary Korea September 1 Oct report [15]: +83.5% export growth, merchandise surplus $49.85bn and October $42.50bn -> -$7.35bn; check October original [1] and absence of old 83.7/49.97/7.47, bilingual matching source links and chart arrays, newly verified seven-country OPEC+ 1 Nov decision December requirements vs 4 Oct decision for November [12][16]. Verify 3/3 Git blobs, no future pricing or quotas asserted as physical volumes; send only to public publisher after independent QA."
   },
   "contrary_evidence": [
     "Non-semiconductor Korean exports rose 34% by value; Korea's overall October exports were below September despite faster y/y growth.",
     "China October PMI below 50 does not prevent sharply higher Korean semiconductor exports to China.",
     "Euro area GDP expanded 0.4% q/q and US Q3 GDP 3.4% SAAR despite weaker household real income.",
-    "Crude-oil import physical volumes fell 6.3% even as unit prices and nominal import bills rose."
+    "Crude-oil import physical volumes fell 6.3% even as unit prices and nominal import bills rose.",
+    "September 1 October MOTIR primary data export +83.5% and surplus $49.85bn; October $42.50bn implies a decline of $7.35bn despite strong annual chip growth.",
+    "OPEC+ November 1 maintained September production requirements for December; this quota decision does not independently establish October-November physical shipment normalization."
   ],
   "limitations": [
     "Korean customs values cannot isolate chip volume, unit prices, ultimate users or AI customer return on capital.",
     "No Sunday closing equity, bond, currency or commodity prices; latest completed sessions 30 Oct.",
     "IEA September physical Hormuz flow estimate not a 1 November throughput observation.",
-    "OPEC+ 1 November meeting not yet verified as final at cutoff.",
+    "OPEC+ November 1 official decision verified after 05 BRT morning cutoff; requirements for December do not prove compliance or physical output.",
     "Country-level credit spreads, capital-flow attribution and food retail pass-through not established."
   ],
   "evidence_sources": [
@@ -155,6 +157,17 @@
       "name": "World Bank October Commodity Outlook",
       "date": "2026-10-28",
       "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "name": "Korea MOTIR original September merchandise trade",
+      "date": "2026-10-01",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172254/view"
+    },
+    {
+      "name": "OPEC seven-country production requirements for December 2026",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
     }
-  ]
+  ],
+  "revision_reason": "Independent QA r1 rejection fixed: 1 Oct MOTIR original September merchandise trade exports +83.5% y/y and surplus USD 49.85bn; 1 Nov October surplus USD 42.50bn yields a 7.35bn decline. Both languages cite Sept original [15]. Verified same-date OPEC+ 1 Nov official decision for December production requirements added as [16], replacing outdated 'not yet decided'; euro-area Sept unemployment referenced to primary Eurostat [14]."
 }
