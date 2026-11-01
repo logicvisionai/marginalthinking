@@ -22,6 +22,7 @@ const rxEsc=s=>String(s).replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
 const label=(obj,locale,fallback)=>obj?.[locale]||obj?.en||fallback;
 const compact=(value,max)=>{const s=String(value||'').replace(/\s+/g,' ').trim();if(s.length<=max)return s;const slice=s.slice(0,max+1);const cut=slice.lastIndexOf(' ');return `${slice.slice(0,cut>max*.62?cut:max).replace(/[,:;\-–—\s]+$/,'')}…`;};
 const seoTitle=value=>compact(value,62);
+const seoDocumentTitle=(title,brand,max=90)=>{const suffix=` | ${escHtml(brand)}`;for(let cap=String(title).length;cap>=1;cap--){const value=escHtml(compact(title,cap))+suffix;if(value.length<=max)return value;}throw new Error('SEO title cannot fit within limit');};
 const seoDescription=value=>compact(value,158);
 const dateIso=v=>String(v||'').slice(0,10);
 const lastDate=items=>items.map(x=>dateIso(x.updated_at||x.qa_reviewed_at||x.published_at||x.date)).filter(Boolean).sort().at(-1)||'';
@@ -96,7 +97,7 @@ async function optimizeReports(){
     const card=socialPath(item,locale),cardFile=path.join(out,card.replace(/^\//,''));await writePng(cardFile,renderSocialCard(item,locale,view));
     const override=reportOverride(item.id,locale);const title=seoTitle(override?.title||view.seo_title||view.title||item.id),description=seoDescription(override?.description||view.seo_description||view.deck||''),imageUrl=`${site}${card}`;
     let html=fs.readFileSync(file,'utf8');
-    html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${escHtml(title)} | ${escHtml(cfg.site_name)}</title>`);
+    html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${seoDocumentTitle(title,cfg.site_name)}</title>`);
     html=setMeta(html,'description',description,'name');
     html=setMeta(html,'og:title',title,'property');html=setMeta(html,'og:description',description,'property');html=setMeta(html,'og:image',imageUrl,'property');html=setMeta(html,'og:image:secure_url',imageUrl,'property');
     html=setMeta(html,'og:image:type','image/png','property');html=setMeta(html,'og:image:width','1200','property');html=setMeta(html,'og:image:height','630','property');html=setMeta(html,'og:image:alt',view.title||item.id,'property');
