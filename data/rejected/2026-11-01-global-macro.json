@@ -1,0 +1,148 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-01",
+  "slug": "2026-11-01-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-01T08:11:58.063Z",
+  "reviewed_commit": "dde1e2fdc8ed8cb01418146526178ea1c6d016c3",
+  "pending_blob_sha": "b810d4a2381cf5add695fc4c9c18b50c65681d44",
+  "source_blob_shas": {
+    "en": "39a0eaca49430bdb7e3ffd4557985d60e58ea2cf",
+    "pt-BR": "9190dd452b3b82629870b6f0e3dd740ae0d3d555"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "code": "MT-GM-2026-11-01-SEP-BALANCE",
+      "severity": "material",
+      "category": "factual_methodology_and_source_traceability",
+      "locations": [
+        {
+          "path": "staging/research/2026/11/2026-11-01-global-macro/en.md",
+          "line": 9
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-01-global-macro/pt-BR.md",
+          "line": 9
+        }
+      ],
+      "observed": "Both editions state that September 2026 Korea merchandise trade surplus was approximately USD 49.97bn and that October's USD 42.50bn surplus declined by USD 7.47bn.",
+      "verified_evidence": "Korea MOTIR's original 1 October 2026 September trade release reports exports USD 120.94bn, imports USD 71.09bn, and surplus USD 49.85bn (498.5 eok USD). The October 1 November release reports surplus USD 42.50bn. Using these primary-source vintages, September-to-October change is -USD 7.35bn, not -USD 7.47bn. Reuters reports USD 49.97bn in some coverage, but the report cites only October MOTIR release [1] for this comparison and does not disclose an alternative revised vintage.",
+      "evidence_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172254/view",
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view"
+      ],
+      "required_fix": "Reconcile and explicitly name the chosen September data vintage; under MOTIR's original September release use USD 49.85bn and -USD 7.35bn, with a direct dated September source reference in both locales. If a revised official September figure is used instead, provide the revised primary document and label its vintage; recheck all arithmetic and related prose."
+    },
+    {
+      "code": "MT-GM-2026-11-01-SEP-GROWTH",
+      "severity": "material",
+      "category": "factual_methodology_and_source_traceability",
+      "locations": [
+        {
+          "path": "staging/research/2026/11/2026-11-01-global-macro/en.md",
+          "line": 53
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-01-global-macro/pt-BR.md",
+          "line": 53
+        }
+      ],
+      "observed": "Both editions describe September 2026 Korean merchandise-export year-on-year growth as approximately +83.7%, compared with October +93.7%.",
+      "verified_evidence": "The Korean MOTIR original September 2026 trade release dated 1 October states +83.5% year on year for USD 120.94bn of September exports. The article's +83.7% is inconsistent with that official source and the article lacks a September original-source bibliography entry.",
+      "evidence_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172254/view"
+      ],
+      "required_fix": "Change the September growth figure to +83.5% in both languages, or substantiate a later official revision with its observation vintage and primary URL; add the September primary-source reference to both end bibliographies."
+    }
+  ],
+  "required_fixes": [
+    "Correct and source the September trade-surplus level and September-to-October delta in both editions; do not silently mix initial and revised official data vintages.",
+    "Correct and source the September year-on-year export growth in both editions.",
+    "Add the dated 1 October 2026 MOTIR September primary report to the numbered end references in EN and PT-BR, align the relevant inline reference numbers, rerun bilingual numeric parity and candidate depth/visual validation, and stage a new pending revision with updated Git blob SHAs."
+  ],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "HEAD dde1e2fdc8ed8cb01418146526178ea1c6d016c3; ready:true pending v2 revision 1 Git blob b810d4a2381cf5add695fc4c9c18b50c65681d44 and complete EN/PT-BR staged blobs 39a0eaca49430bdb7e3ffd4557985d60e58ea2cf / 9190dd452b3b82629870b6f0e3dd740ae0d3d555 agree 3/3 with producer-declared source_blob_shas. No approved, rejected, or public metadata file exists for this slug at review time."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending schema_version 2, ready true, ID MT-GM-2026-11-01, revision 1, brief/daily, political-economy-markets, controlled topics/phenomena, global geography, two staged locale paths. No taxonomy changes."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed_with_limitation",
+      "summary": "MOTIR October release dated 1 November was available by stated 05:00 BRT cutoff; China NBS October PMI was dated 31 October; 30 October US Treasury close and October IEA/World Bank/FAO observations are explicitly separated from Sunday prices. September comparative values mix an unsupported source/vintage, a factual blocking issue detailed above."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "MOTIR September 1 October original reports September exports +83.5% y/y and merchandise surplus USD 49.85bn, not draft's +83.7% and USD 49.97bn; corresponding October-to-September surplus decline USD 7.35bn, not USD 7.47bn. Both languages repeat the same discrepancies."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "Draft cites October 1 November MOTIR release [1] for September +83.7%, USD 49.97bn and USD 7.47bn decline, without citing the original 1 October September release. Other sampled claims matched NBS PMI 49.3/new export orders 48.7, MOTIR October export values and unit price/volume, IEA September stock/Hormuz estimates, World Bank commodity forecasts, Fed/ECB policy, Treasury 30 October and FAO September index."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2558,
+        "pt-BR": 2727
+      },
+      "summary": "Reproduced exact candidate formulas from scripts/validate-editorial-depth.mjs against both GitHub staged blobs: 2,558 EN / 2,727 PT-BR words excluding fences and URLs, 8 H2 sections, 14 reference URLs, 12 hosts, four quantitative charts, one flow, one map and nine Markdown table lines per locale; above brief minima. Both contain conditional falsifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Four charts in each language use identical numeric arrays 4/4: product values, September/October export levels, crude price/volume/value changes, and six non-overlapping destinations; one evidence table, causal flow and qualitative six-region map each. Primary October product and regional values sampled against MOTIR; no chart-series parity mismatch. September narrative errors remain outside charts."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The central thesis quantifies a change in Korean trade surplus from September to October using an unsupported September baseline and derived delta, while another paragraph misstates the official September y/y export rate. Both require correction before publication."
+    },
+    "translation_parity": {
+      "result": "passed_with_shared_errors",
+      "summary": "EN and PT-BR share the same September factual discrepancies; all four chart arrays and reference URLs are equivalent. Language parity alone does not establish factual correctness."
+    },
+    "novelty_against_corpus": {
+      "result": "passed",
+      "summary": "First complete 1 November Korean October product/destination release provides distinct value/volume and AI-demand concentration analysis versus 29-31 October macro sequence; no public bundle with same ID/revision exists."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Notes non-chip exports +34%, positive EU/US GDP and weak Chinese order diffusion alongside Korean chip purchases; offers falsifiers using November Korean/Chinese data, oil cargo deliveries, unit prices and credit spreads."
+    },
+    "conflict_security_attribution": {
+      "result": "passed",
+      "summary": "Distinguishes IEA September observed/estimated oil flows from November deliveries and treats OPEC+ 1 November decision as unverified at stated cutoff; no unverified attack claimed as established fact."
+    },
+    "editorial_style": {
+      "result": "passed_with_limitation",
+      "summary": "Institutional bilingual prose and end references, no internal QA/process labels in report body; one unused bibliography item [14] is non-blocking and may be removed or cited if relevant."
+    },
+    "pipeline_validation": {
+      "result": "candidate_depth_and_visual_passed_full_ci_pending",
+      "summary": "Reproduced candidate-specific scripts/validate-editorial-depth.mjs word, URL, host, heading, chart, flow, map, table and numeric-series equivalence expressions. Full Node scripts/validate-pipeline.mjs and validate-editorial-depth.mjs could not run locally because github.com DNS resolution is unavailable. GitHub Actions run 41287616036 for this HEAD was still in progress at inspection; no assertion of full CI success."
+    }
+  },
+  "contrary_evidence": [
+    "MOTIR October release confirms 93.7% y/y export growth and 259.4% semiconductor growth, with +34% non-chip export value and October export total below September; the central analysis need not be rewritten wholesale.",
+    "China October manufacturing PMI 49.3 and new export orders 48.7 are diffusion indices, not physical-volume measures; Korean chip exports to China rose concurrently.",
+    "IEA September Hormuz flow 10.9 mb/d is not proof of 1 November deliveries; World Bank Brent figures are conditional annual forecasts."
+  ],
+  "limitations": [
+    "The September MOTIR original dated 1 October is the authoritative source for the disputed figures; if revised official September data exists, producer must supply and explicitly label the revised vintage rather than silently replacing it.",
+    "Independent fact-check sampled primary sources and numerically audited the report's central Korean trade comparisons; it was not a full verification of every sentence and bibliography item.",
+    "Full repository-wide Node validation was unavailable locally; candidate-specific exact depth and visual expressions were reproduced against immutable GitHub blob contents.",
+    "Rejection does not modify staged Markdown, public reports, taxonomy, CSS, indices, or institutional copy."
+  ],
+  "rejection_count_for_id": 1,
+  "producer_route": {
+    "series": "MT-GM",
+    "task": "MT 1/5 — Diário e Radar",
+    "task_id": "6a8d9b7bbfc88191a2fea2af12852687",
+    "dispatch": "rejection record available to producer watchdog; no external task execution claimed"
+  },
+  "previous_rejections": [],
+  "notes": "First QA rejection for revision 1. New revision must update pending and both Markdown blobs; do not re-review the identical SHA tuple. Public publisher remains blocked until independent QA approval of corrected revision."
+}
