@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-10-31T03:01:49.788Z",
+  "last_reconciled_at": "2026-11-01T01:52:36.605Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7581,6 +7581,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No independently measured technology performance, adoption milestone, or discrete technical deployment signal is established by this constitutional and geoeconomic research."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-global-macro-post-publication-reconciliation-repair",
+      "reconciled_at": "2026-11-01T01:52:36.605Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-10-31"
+      ],
+      "audit_note": "Integrity repair: prior public commit 89e90e62b7211e43ee930fa348ea2dab816311fc published the approved bilingual bundle and derived index without the required reconciliation ledger. This separate commit restores the registry invariant; it does not retroactively make the publication atomic or alter approved sources.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The approved 31 Oct Global Macro documents China's manufacturing/export-order PMI, euro-area GDP and energy-import risk. These suggest candidate supply-chain demand transmission, but no verified bilateral trade-flow weights, dated dependency edges or causal magnitudes justify a canonical network update."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The report evaluates aggregate industrial surveys, GDP and market yields, not a specified investment project with independently verified capex, returns and execution constraints; no atlas opportunity can be created from this evidence."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "NBS, Eurostat, ECB, BEA, Treasury and the World Bank are cited as data providers. The report does not verify a new ownership, decision-right or strategic control relationship between mapped actors."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil price forecasts and energy import exposure do not establish a new mineral/energy concession, offtake, beneficial owner or verified physical resource-control change."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report compares macroeconomic indicators and policy-rate context, not an implemented policy experiment with measured outcomes and counterfactual design suitable for a canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report attributes Gulf shipping/infrastructure threats to external reporting and explicitly lacks independently verified physical throughput loss, incident geolocation and attribution. No new conflict event or edge can be recorded without that evidence."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Manufacturing PMI and sector diffusion readings are survey indicators, not verified technical performance, adoption or deployment milestones of a discrete technology signal."
         }
       ]
     }
