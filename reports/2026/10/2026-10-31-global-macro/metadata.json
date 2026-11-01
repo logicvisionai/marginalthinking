@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-10-31",
+  "slug": "2026-10-31-global-macro",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 3,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "2026-10-31 05:00 BRT (08:00 UTC); China NBS 31 Oct 09:30 CST released 30 Oct 22:30 BRT; 30 Oct US/EU completed releases and sessions.",
+    "novelty": "Compared 28 Oct Korean AI memory contracts, 29 Oct Fed/BoC divergence, 30 Oct US GDP/income. New NBS October PMI by size and export orders plus Eurostat Q3 GDP and Sep unemployment and 30 Oct US Treasury curve; distinct thesis on geographically uneven goods demand.",
+    "source_check": "15 matching numbered primary/source URLs EN/PT. EU preliminary Q3 GDP original [3] verified: Ireland +5.5%, Spain and Netherlands +0.6%, Germany +0.2%, France -0.1%, Lithuania -1.0% q/q; PT country paragraph now uses explicit minus glyph. BEA Sep DPI -0.3% and PCE 0.0% [15] separate from Q3 GDP 3.4% SAAR [7]. ECB deposit rate [6].",
+    "visual_signature": "EN/PT each 1 evidence table, 5 identical quantitative charts (China PMI, export orders, firm sizes, euro GDP, UST yield), 1 three-chain flow and 1 five-region map. Numerical evidence untouched since r1.",
+    "bilingual_parity": "EN/PT 15 identical source URLs; five chart numeric series and seven block order match. Eurostat country comparison in both locales: Ireland +5.5, Spain/Netherlands +0.6, Germany +0.2, France -0.1, Lithuania -1.0 (quarter-on-quarter); where negative percentage is verbal ('fell') it is never misread as a rise; English/Portuguese other signed percentages reviewed. BEA [7] vs [15] aligned.",
+    "research_depth": "Substantive multi-regional argument; independent mechanisms, contrary evidence, falsifiers, stock-flow distinctions, observation vintages.",
+    "editorial_status": "Revision 3 for independent QA: first BEA original source misattribution (r1) and second Lithuania GDP sign (r2) corrected; staged blobs SHA pinned. No public promotion before independent approval.",
+    "source_blob_shas": {
+      "en": "52b06705790c3244e92c657247dc8294e65ddf8b",
+      "pt-BR": "a91f156df8001dc7d7620d89e17a90be93098475"
+    },
+    "qa_handoff": "Recheck r2 blocker Eurostat Lithuania -1.0% q/q and France -0.1% in the full EN/PT prose (PT line ~60), source [3]; audit other signed values and comparative GDP growth, and original BEA separate income [15] vs GDP [7]. Source pointer of PT-BR changed, EN unchanged. Verify exact r3 pending/source SHA tuple; no other r3 changes."
+  },
+  "contrary_evidence": [
+    "Chinese high-technology manufacturing subsectors above 53 and large manufacturers at 50.2; one-month survey can be affected by holidays.",
+    "Euro-area real GDP still expanded 0.4% q/q in Q3; Irish and Spanish growth show heterogeneity.",
+    "US Q3 real GDP rose 3.4% annualised, inconsistent with a uniform global contraction.",
+    "The US BEA reported real DPI -0.3% m/m and real PCE 0.0% for September, from its separate September Personal Income and Outlays release, not the Q3 GDP advance estimate; monthly demand weakness does not erase +3.4% annualized Q3 GDP growth.",
+    "Eurostat's preliminary Q3 2026 country data show Lithuania -1.0% and France -0.1% quarter-on-quarter despite euro-area +0.4% aggregate; Portuguese signed GDP comparison corrected to match English."
+  ],
+  "limitations": [
+    "China PMI is a diffusion index and not measured export volumes, factory output growth or SME credit access.",
+    "Eurostat GDP is preliminary, country composition and annualisation differ from US GDP.",
+    "No independently verified new Gulf shipping throughput, insurance costs or borrower-level credit spreads.",
+    "Cross-border capital flow attribution unavailable; ICI money fund asset change cannot identify international reallocations."
+  ],
+  "evidence_sources": [
+    {
+      "name": "NBS PMI",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "NBS interpretation",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html"
+    },
+    {
+      "name": "Eurostat GDP",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    {
+      "name": "Eurostat unemployment",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-30102026-bp"
+    },
+    {
+      "name": "Treasury curve",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "World Bank commodities",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+    },
+    {
+      "name": "BEA Personal Income and Outlays September 2026",
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
+    }
+  ],
+  "revision_reason": "Corrects independently identified r2 Eurostat country signed-quantity mismatch: Lithuania Q3 2026 real GDP quarter-on-quarter -1.0%, not +1.0%; France -0.1% explicitly signed. Original Eurostat Oct30 Q3 flash corroborates; EN already correct. Preserves r2 original BEA September Personal Income and Outlays primary citation [15] and separate Q3 GDP [7].",
+  "url": "/reports/2026/10/2026-10-31-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-01T01:50:11.760Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "32e625cd1c40029057947fc1461acbde5fa47f3e",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — China's orders retreat as Europe's output slows and energy risks outlast the bond rally",
+      "deck": "China's October factory and export-order surveys fell below 50, Europe's Q3 GDP growth slowed and US yields eased; uneven demand meets persistent energy risks.",
+      "tags": [
+        "Global Macro",
+        "China PMI",
+        "Euro area GDP",
+        "US Treasury",
+        "Energy prices",
+        "Industrial orders"
+      ],
+      "keywords": [
+        "China October 2026 PMI 49.3",
+        "China export orders 48.7",
+        "euro area Q3 GDP 0.4",
+        "Treasury yield October 30 4.94",
+        "global trade demand"
+      ],
+      "regime": "Uneven global expansion with weaker Chinese order diffusion and persistent energy cost risks.",
+      "key_risk": "Industrial demand weakens while energy import costs and borrower-specific credit costs stay elevated.",
+      "watch": [
+        "China November PMI and customs exports",
+        "Euro area October flash HICP 4 November",
+        "Eurostat Q3 GDP revision 13 November",
+        "US Treasury curve and private credit spreads",
+        "Verified Gulf physical energy flows"
+      ],
+      "search_text": "31 October 2026 Global Macro China manufacturing PMI 49.3 export orders 48.7 euro area GDP 0.4 unemployment 6.5 US Treasury 4.94 energy risk"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Encomendas chinesas recuam, crescimento europeu perde ritmo e risco energético persiste apesar da queda dos Treasuries",
+      "deck": "PMIs industriais e de exportação da China ficaram abaixo de 50, o PIB europeu desacelerou e os rendimentos americanos recuaram; demanda desigual enfrenta custos energéticos persistentes.",
+      "tags": [
+        "Global Macro",
+        "PMI da China",
+        "PIB da área do euro",
+        "Treasury americano",
+        "Energia",
+        "Encomendas industriais"
+      ],
+      "keywords": [
+        "China PMI outubro 2026 49,3",
+        "encomendas exportação China 48,7",
+        "PIB euro terceiro trimestre 0,4",
+        "Treasury 30 outubro 4,94",
+        "demanda comércio mundial"
+      ],
+      "regime": "Expansão mundial desigual, enfraquecimento das encomendas chinesas e risco persistente de custos energéticos.",
+      "key_risk": "Demanda industrial enfraquece enquanto importações energéticas e crédito privado permanecem caros.",
+      "watch": [
+        "PMI chinês de novembro e exportações aduaneiras",
+        "Prévia de inflação europeia em 4 de novembro",
+        "Revisão do PIB europeu em 13 de novembro",
+        "Curva americana e spreads privados",
+        "Fluxos físicos comprovados de energia no Golfo"
+      ],
+      "search_text": "Global Macro 31 outubro 2026 China PMI industrial 49,3 exportações 48,7 PIB euro 0,4 desemprego 6,5 Treasury 4,94 energia"
+    }
+  }
+}
