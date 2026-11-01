@@ -2,15 +2,15 @@
   "schema_version": 2,
   "id": "MT-GM-2026-10-31",
   "slug": "2026-10-31-global-macro",
-  "revision": 3,
+  "revision": 4,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-01T01:50:11.760Z",
-  "reviewed_commit": "32e625cd1c40029057947fc1461acbde5fa47f3e",
-  "pending_blob_sha": "909efa61ba7fd018de7f0c7c1a64fd94e2a9e0f0",
+  "reviewed_at": "2026-11-01T01:56:48.261Z",
+  "reviewed_commit": "38d230ba3d5c0958791db6367b70f00ad60b6a8a",
+  "pending_blob_sha": "3953fa2615befbd94dab7659bc7139e5e2a71e22",
   "source_blob_shas": {
-    "en": "52b06705790c3244e92c657247dc8294e65ddf8b",
-    "pt-BR": "a91f156df8001dc7d7620d89e17a90be93098475"
+    "en": "bf9db3d270f95c7fe962c67ff603f71bdb0b06af",
+    "pt-BR": "a03d5a115ca546a0ca26704132ab6fa3c685caeb"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -18,63 +18,63 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pinned main HEAD 32e625cd1c40029057947fc1461acbde5fa47f3e; pending revision 3 blob 909efa61ba7fd018de7f0c7c1a64fd94e2a9e0f0 and complete staged EN 52b06705790c3244e92c657247dc8294e65ddf8b / PT-BR a91f156df8001dc7d7620d89e17a90be93098475 match 3/3 and the producer-declared 2/2 source SHAs. Canonical ID and slug unchanged; r1/r2 rejections remain historical; no public bundle or approval for this revision at prewrite HEAD."
+      "summary": "Pinned HEAD 38d230ba3d5c0958791db6367b70f00ad60b6a8a; revision 4 pending 3953fa2615befbd94dab7659bc7139e5e2a71e22, EN bf9db3d270f95c7fe962c67ff603f71bdb0b06af and PT-BR a03d5a115ca546a0ca26704132ab6fa3c685caeb match exact Git blob SHAs 3/3 and producer declarations. Public revision 3 and prior QA revision 3 were checked; no public revision >=4 or competing approval exists. Canonical ID and slug unchanged."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Parsed v2 schema required fields, ready:true, daily-global-macro brief, revision 3, global geography, political-economy-markets program, related program, dimensions, controlled topics and phenomena against frozen taxonomy 1.0; no invalid identifiers or missing source pointers."
+      "summary": "Complete pending v2 revision 4, ready:true, unchanged ID/slug, date, kind, source paths, taxonomy 1.0, political-economy-markets, geography, controlled topics, phenomena and cadence relative to QA-approved revision 3. No new taxonomy categories."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "31 October 2026 05:00 BRT cutoff correctly includes China NBS 31 Oct 09:30 Beijing (30 Oct 22:30 BRT), Eurostat and US releases completed on 29-30 Oct. Monthly surveys, quarterly preliminary nonannualised EU GDP, annualised US GDP, observed Treasury yields and World Bank annual forecasts are separately dated."
+      "summary": "No change to 31 Oct 2026 05:00 BRT information cutoff or observation vintages compared with fact-checked revision 3. NBS Oct 31 release, Eurostat Oct 30 flash GDP, US BEA Oct 29 and Treasury Oct 30 remain correctly dated and distinguish monthly, quarterly and daily observations."
     },
     "factual_methodology": {
       "result": "passed",
-      "summary": "Primary originals verified: China NBS 31 Oct manufacturing PMI 49.3, export orders 48.7, production 49.8, large/medium/small 50.2/48.4/47.5; Eurostat 30 Oct Q3 euro area +0.4% and EU +0.5%, Ireland +5.5%, Spain/Netherlands +0.6%, Germany +0.2%, France -0.1%, Lithuania -1.0%; Eurostat Sep unemployment 6.5%, 11.555m euro-area unemployed and +122k m/m, youth 15.4%; ECB 29 Oct deposit 2.50%; Eurostat Sep HICP 3.8%, energy +1.71 pp; US Treasury 10Y 5.05/4.98/4.94% on Oct 28/29/30, 2Y 4.67/4.61/4.56%; BEA Q3 GDP +3.4% annualised versus Q2 +2.2%, Sep real DPI -0.3% and real PCE 0.0%; World Bank annual 2026 energy +32%, Brent $91 2026/$79 2027 and adverse $105 2027; ICI Oct 28 assets $7,901.28bn, weekly -$43.29bn. Prior Lithuania sign failure corrected in PT-BR line 60."
+      "summary": "Diff against public QA-approved revision 3 is exactly one prose sentence per locale, no data, references, charts, statistics, methods, period, or policy-status changes. Rechecked primary BEA Sep real DPI -0.3% and real PCE 0.0% [15] and Eurostat Q3 Lithuania -1.0% and France -0.1% [3]; prior r3 primary-source factual audit carries forward unchanged."
     },
     "evidence_traceability": {
       "result": "passed_with_limitation",
-      "summary": "Fifteen identically numbered original/source URLs in both end bibliographies, nine source hosts; original NBS, Eurostat GDP/unemployment/HICP, ECB, Treasury, BEA GDP/income, World Bank and ICI data checked for sampled material claims. GDP [7] and monthly real DPI/PCE [15] now refer to separate original BEA releases. Reuters Gulf report treated as attributed report, not proof of new physical throughput loss. Some remaining contextual links not independently re-opened."
+      "summary": "Fifteen identical numbered bibliography URLs across both locales and nine hosts, unchanged from r3; BEA original monthly income release [15] and Eurostat GDP flash [3] reopened and verified. Other primary/source facts remain unchanged from prior independent r3 audit, with original sampling limitations preserved; no new unsupported numerical claims introduced."
     },
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 2583,
-        "pt-BR": 2719
+        "en": 2580,
+        "pt-BR": 2725
       },
-      "summary": "Reproduced exact candidate word-count and structural expressions of scripts/validate-editorial-depth.mjs: 2,583 EN / 2,719 PT-BR substantive words, seven H2 headings, fifteen reference URLs, nine hosts, five numeric charts, one causal flow, one geographic map, eleven Markdown table rows and conditional falsifiers in each language; daily 1,700-word and 2-chart gates passed."
+      "summary": "Reproduced exact candidate-specific validate-editorial-depth.mjs formulas: 2,580 EN and 2,725 PT-BR substantive words, seven H2 sections, fifteen distinct reference URLs, nine hosts, five explicit quantitative charts, one causal flow, one geographic map, eleven Markdown table rows and conditional falsifiers per locale. Above brief minima."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "One auditable nine-observation evidence table, five original-data-linked charts (China manufacturing PMI, export orders, firm sizes, euro-area quarterly GDP and US Treasury 10Y), one three-chain causal flow and one five-region qualitative transmission map in both editions. Numeric chart arrays match 5/5 exactly, with period, units and diffusion-versus-growth distinctions. No inferred geographic coordinates, interpolated observations or mixed incompatible chart units. Meets scripts/lib/visuals.mjs and RESEARCH-VISUALS.md."
+      "summary": "Unchanged from approved revision 3: one evidence table, five primary-data quantitative charts, one causal flow and one qualitative geographic map per locale. Exact numeric chart arrays match 5/5 across EN/PT-BR; chart values, units and period labels unchanged, no fabricated geographic or flow data."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "EN/PT-BR maintain coherent mechanism from Chinese orders to Asian suppliers and European demand, energy-import costs, financing constraints and conditional outcomes. Facts, forecasts, reported threats and inferences are separated; references gathered at end, with numbered claim markers in body. No internal QA instructions, public product roadmap, asset recommendations or decorative visuals. Prior material signed GDP error corrected."
+      "summary": "Strict editorial-integrity blockers in validate-research.mjs reproduced against complete revised prose: zero self-referential 'in this report'/'nesta pesquisa' or other QA/product-process markers. EN line 89 now states evidence limitation directly; PT-BR line 124 now states the lack of a documented coordinated fiscal package directly. No change to substantive thesis or evidence. Existing public revision 3 remains build-blocked until publisher promotes approved revision 4."
     },
     "translation_parity": {
       "result": "passed",
-      "summary": "Full bilingual staged Markdown reviewed. Lithuania -1.0% and France -0.1% are explicitly negative in both EN/PT-BR at line 60; Ireland +5.5%, Spain/Netherlands +0.6%, Germany +0.2%, euro area +0.4%, US GDP +3.4%, BEA income -0.3% and 15 source URLs agree. All five numeric chart arrays and visual block sequence agree; forecasts, caveats and scenario logic are semantically equivalent."
+      "summary": "Both staged Markdown editions reviewed as full texts and compared against corresponding published revision 3. Exactly one institutional-prose sentence changed in each locale; fiscal package and unmeasured downstream outcomes remain qualified equivalently. All fifteen numbered references, five numeric chart arrays, GDP country signs, BEA monthly/quarterly figures, scenarios and evidence limitations remain aligned."
     },
     "novelty_against_corpus": {
       "result": "passed",
-      "summary": "Compared prior Global Macro 28-30 Oct thematic sequence: 28 Oct Korean AI-memory contracts, 29 Oct Fed/BoC divergence, 30 Oct US GDP and real income. New Oct 31 NBS industrial PMI by firm size and export-order breadth, Eurostat Q3 GDP country heterogeneity and Sep unemployment plus Treasury Oct 30 observation support a distinct cross-regional goods-demand thesis."
+      "summary": "Revision 4 is a narrowly scoped editorial correction to the independently reviewed and distinct 31 Oct Global Macro thesis. No new article or duplicated analytical claim; original novelty versus 28-30 Oct daily sequence documented in r3 remains intact."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Positive euro-area GDP +0.4%, US GDP +3.4%, Chinese large-firm PMI 50.2 and high-tech sectors above 53 qualify a uniform contraction thesis. November NBS/customs, EU GDP revisions and labour data, verified energy shipments and actual borrower credit spreads are stated as tests; scenarios remain conditional."
+      "summary": "No changes to contrary evidence or falsifiers: euro-area GDP +0.4%, US GDP +3.4% annualised, Chinese large-firm PMI 50.2 and stronger high-tech subsectors limit recession interpretation; future customs, credit and shipping observations remain conditional tests."
     },
     "conflict_security_attribution": {
       "result": "passed",
-      "summary": "30 Oct Gulf shipping and infrastructure threats attributed to reports, not elevated to verified attacks, measured cargo losses or proven military effects. World Bank conflict-linked commodity outlook labeled forecast/scenario; independent throughput, freight and insurance evidence explicitly absent."
+      "summary": "No change to Gulf-threat attribution or physical throughput caveats; reported threats and hypothetical oil-price disruptions are not presented as verified physical losses or proven armed attacks."
     },
     "editorial_style": {
       "result": "passed",
-      "summary": "Natural institutional English and Brazilian Portuguese, no unsupported causal certainty, price-versus-capital-flow distinction, and clear separation of survey diffusion, physical volumes, market valuations, borrowing costs and fiscal-policy hypotheticals."
+      "summary": "The two self-referential sentences that failed the production build were replaced with direct, natural institutional English/Portuguese statements. References remain consolidated at the end; no conversational scaffolding or internal publication language."
     },
     "pipeline_validation": {
-      "result": "passed_with_scope_limit",
-      "summary": "Read scripts/validate-pipeline.mjs, scripts/validate-editorial-depth.mjs and scripts/lib/visuals.mjs at pinned HEAD; reproduced their candidate-specific required schema/taxonomy, exact staged source paths, depth, reference/host, visual and EN/PT chart-parity expressions without failures. Full repository-wide Node scripts not executed locally because GitHub clone DNS is unavailable; no new CI success is claimed for this commit. Existing five older strict-draft depth failures do not involve this revision."
+      "result": "candidate_passed_public_r3_blocked",
+      "summary": "Candidate-specific exact validate-editorial-depth.mjs, visual parity and validate-research.mjs strict editorial-integrity expressions reproduced against Git blobs and passed. GitHub Actions run 41262950770 at this HEAD fails on already-published revision 3 EN 'in this report' and PT-BR 'nesta pesquisa', the exact two phrases removed in revision 4; CI cannot pass until publisher atomically replaces public r3 with QA-approved r4. Full Node scripts not executable locally (github.com DNS unavailable). Separate strict all-pending editorial audit 41262950781 fails on five older drafts unrelated to this candidate."
     }
   },
   "contrary_evidence": [
@@ -88,9 +88,11 @@
     "ICI money-market fund assets are US fund holdings and do not identify cross-border beneficial owners or capital transfers.",
     "China PMI is a diffusion survey, not actual export volumes; EU GDP is preliminary and not annualised; World Bank oil estimates are forecasts rather than observed daily prices.",
     "Full repository-wide Node scripts were not executed locally because github.com DNS is unavailable; candidate-specific equivalent checks were reproduced against exact GitHub blobs.",
-    "Approval is a repository QA gate only; neither publication commit nor deployment to the public domain is implied."
+    "Approval is a repository QA gate only; neither publication commit nor deployment to the public domain is implied.",
+    "Full Node repository-wide validation cannot pass while public revision 3 retains strict editorial self-reference; candidate-specific checks pass and promotion of revision 4 is required to restore build.",
+    "Original r3 primary-source review used documented sampling; revision 4 has no changes to original numerical facts, bibliography or chart data."
   ],
-  "notes": "Independent QA of producer r3 following historical r1 BEA citation and r2 Lithuania sign rejections. Both issues now corrected in the immutable staged state; publisher may promote only if all three Git blobs still match. No reports/**, public indices, CSS, taxonomy or institutional content changed by QA.",
+  "notes": "Independent QA approval for public revision 3 editorial-integrity repair. Revision 4 changes only two prose sentences (EN line 89, PT-BR line 124) and is SHA-bound to pending and both staged Markdown files. Existing public revision 3 is build-blocked; only publisher 5/5 may update reports/** and public index atomically after approval. QA changes only this approval record; no deployment or domain publication implied.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -136,7 +138,7 @@
     ],
     "format": "brief",
     "cadence": "daily",
-    "revision": 3,
+    "revision": 4,
     "assessment_confidence": "medium",
     "sources": {
       "en": {
@@ -205,14 +207,14 @@
       "novelty": "Compared 28 Oct Korean AI memory contracts, 29 Oct Fed/BoC divergence, 30 Oct US GDP/income. New NBS October PMI by size and export orders plus Eurostat Q3 GDP and Sep unemployment and 30 Oct US Treasury curve; distinct thesis on geographically uneven goods demand.",
       "source_check": "15 matching numbered primary/source URLs EN/PT. EU preliminary Q3 GDP original [3] verified: Ireland +5.5%, Spain and Netherlands +0.6%, Germany +0.2%, France -0.1%, Lithuania -1.0% q/q; PT country paragraph now uses explicit minus glyph. BEA Sep DPI -0.3% and PCE 0.0% [15] separate from Q3 GDP 3.4% SAAR [7]. ECB deposit rate [6].",
       "visual_signature": "EN/PT each 1 evidence table, 5 identical quantitative charts (China PMI, export orders, firm sizes, euro GDP, UST yield), 1 three-chain flow and 1 five-region map. Numerical evidence untouched since r1.",
-      "bilingual_parity": "EN/PT 15 identical source URLs; five chart numeric series and seven block order match. Eurostat country comparison in both locales: Ireland +5.5, Spain/Netherlands +0.6, Germany +0.2, France -0.1, Lithuania -1.0 (quarter-on-quarter); where negative percentage is verbal ('fell') it is never misread as a rise; English/Portuguese other signed percentages reviewed. BEA [7] vs [15] aligned.",
+      "bilingual_parity": "Identical 15 source links, identical 5 chart numeric arrays and visual block order. R4 removes one separate self-referential prose phrase per locale; EN and PT state that measurable new outcomes or fiscal packages are not yet established by primary data; country GDP signs and BEA claim-level citations remain aligned.",
       "research_depth": "Substantive multi-regional argument; independent mechanisms, contrary evidence, falsifiers, stock-flow distinctions, observation vintages.",
-      "editorial_status": "Revision 3 for independent QA: first BEA original source misattribution (r1) and second Lithuania GDP sign (r2) corrected; staged blobs SHA pinned. No public promotion before independent approval.",
+      "editorial_status": "Revision 4 submitted for independent SHA-bound QA following r3 public release; r3 was QA-approved but the production build failed on two prohibited report self-references. R4 is the identical research with only two direct institutional prose replacements. Public bundle r3 must be updated atomically only after r4 QA approval.",
       "source_blob_shas": {
-        "en": "52b06705790c3244e92c657247dc8294e65ddf8b",
-        "pt-BR": "a91f156df8001dc7d7620d89e17a90be93098475"
+        "en": "bf9db3d270f95c7fe962c67ff603f71bdb0b06af",
+        "pt-BR": "a03d5a115ca546a0ca26704132ab6fa3c685caeb"
       },
-      "qa_handoff": "Recheck r2 blocker Eurostat Lithuania -1.0% q/q and France -0.1% in the full EN/PT prose (PT line ~60), source [3]; audit other signed values and comparative GDP growth, and original BEA separate income [15] vs GDP [7]. Source pointer of PT-BR changed, EN unchanged. Verify exact r3 pending/source SHA tuple; no other r3 changes."
+      "qa_handoff": "Verify revision 4 staged files have no strict self-reference ('in this report', 'nesta pesquisa'), retain validated 15-source BEA mapping [7] GDP/[15] September income, Eurostat Lithuania -1.0% Q3 and all five chart arrays. QA approval must be SHA-bound for pending r4 and the exact two staged Markdown Git blobs; downstream public publisher replaces both public markdown files, metadata and index atomically."
     },
     "contrary_evidence": [
       "Chinese high-technology manufacturing subsectors above 53 and large manufacturers at 50.2; one-month survey can be affected by holidays.",
@@ -257,6 +259,6 @@
         "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
       }
     ],
-    "revision_reason": "Corrects independently identified r2 Eurostat country signed-quantity mismatch: Lithuania Q3 2026 real GDP quarter-on-quarter -1.0%, not +1.0%; France -0.1% explicitly signed. Original Eurostat Oct30 Q3 flash corroborates; EN already correct. Preserves r2 original BEA September Personal Income and Outlays primary citation [15] and separate Q3 GDP [7]."
+    "revision_reason": "Revision 4 corrects the production build's strict public editorial-integrity blocker on independently approved r3: EN phrase 'in this report' and PT-BR phrase 'nesta pesquisa'. Two sentences replaced by direct substantive claims. No numerical fact, data source, citation, chart value, policy claim, or scope changed."
   }
 }
