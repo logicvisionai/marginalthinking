@@ -44,21 +44,21 @@
     ],
     "format": "brief",
     "cadence": "daily",
-    "revision": 3,
+    "revision": 4,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "2026-10-31 05:00 BRT (08:00 UTC); China NBS 31 Oct 09:30 CST released 30 Oct 22:30 BRT; 30 Oct US/EU completed releases and sessions.",
       "novelty": "Compared 28 Oct Korean AI memory contracts, 29 Oct Fed/BoC divergence, 30 Oct US GDP/income. New NBS October PMI by size and export orders plus Eurostat Q3 GDP and Sep unemployment and 30 Oct US Treasury curve; distinct thesis on geographically uneven goods demand.",
       "source_check": "15 matching numbered primary/source URLs EN/PT. EU preliminary Q3 GDP original [3] verified: Ireland +5.5%, Spain and Netherlands +0.6%, Germany +0.2%, France -0.1%, Lithuania -1.0% q/q; PT country paragraph now uses explicit minus glyph. BEA Sep DPI -0.3% and PCE 0.0% [15] separate from Q3 GDP 3.4% SAAR [7]. ECB deposit rate [6].",
       "visual_signature": "EN/PT each 1 evidence table, 5 identical quantitative charts (China PMI, export orders, firm sizes, euro GDP, UST yield), 1 three-chain flow and 1 five-region map. Numerical evidence untouched since r1.",
-      "bilingual_parity": "EN/PT 15 identical source URLs; five chart numeric series and seven block order match. Eurostat country comparison in both locales: Ireland +5.5, Spain/Netherlands +0.6, Germany +0.2, France -0.1, Lithuania -1.0 (quarter-on-quarter); where negative percentage is verbal ('fell') it is never misread as a rise; English/Portuguese other signed percentages reviewed. BEA [7] vs [15] aligned.",
+      "bilingual_parity": "Identical 15 source links, identical 5 chart numeric arrays and visual block order. R4 removes one separate self-referential prose phrase per locale; EN and PT state that measurable new outcomes or fiscal packages are not yet established by primary data; country GDP signs and BEA claim-level citations remain aligned.",
       "research_depth": "Substantive multi-regional argument; independent mechanisms, contrary evidence, falsifiers, stock-flow distinctions, observation vintages.",
-      "editorial_status": "Revision 3 for independent QA: first BEA original source misattribution (r1) and second Lithuania GDP sign (r2) corrected; staged blobs SHA pinned. No public promotion before independent approval.",
+      "editorial_status": "Revision 4 submitted for independent SHA-bound QA following r3 public release; r3 was QA-approved but the production build failed on two prohibited report self-references. R4 is the identical research with only two direct institutional prose replacements. Public bundle r3 must be updated atomically only after r4 QA approval.",
       "source_blob_shas": {
-        "en": "52b06705790c3244e92c657247dc8294e65ddf8b",
-        "pt-BR": "a91f156df8001dc7d7620d89e17a90be93098475"
+        "en": "bf9db3d270f95c7fe962c67ff603f71bdb0b06af",
+        "pt-BR": "a03d5a115ca546a0ca26704132ab6fa3c685caeb"
       },
-      "qa_handoff": "Recheck r2 blocker Eurostat Lithuania -1.0% q/q and France -0.1% in the full EN/PT prose (PT line ~60), source [3]; audit other signed values and comparative GDP growth, and original BEA separate income [15] vs GDP [7]. Source pointer of PT-BR changed, EN unchanged. Verify exact r3 pending/source SHA tuple; no other r3 changes."
+      "qa_handoff": "Verify revision 4 staged files have no strict self-reference ('in this report', 'nesta pesquisa'), retain validated 15-source BEA mapping [7] GDP/[15] September income, Eurostat Lithuania -1.0% Q3 and all five chart arrays. QA approval must be SHA-bound for pending r4 and the exact two staged Markdown Git blobs; downstream public publisher replaces both public markdown files, metadata and index atomically."
     },
     "contrary_evidence": [
       "Chinese high-technology manufacturing subsectors above 53 and large manufacturers at 50.2; one-month survey can be affected by holidays.",
@@ -103,12 +103,12 @@
         "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
       }
     ],
-    "revision_reason": "Corrects independently identified r2 Eurostat country signed-quantity mismatch: Lithuania Q3 2026 real GDP quarter-on-quarter -1.0%, not +1.0%; France -0.1% explicitly signed. Original Eurostat Oct30 Q3 flash corroborates; EN already correct. Preserves r2 original BEA September Personal Income and Outlays primary citation [15] and separate Q3 GDP [7].",
+    "revision_reason": "Revision 4 corrects the production build's strict public editorial-integrity blocker on independently approved r3: EN phrase 'in this report' and PT-BR phrase 'nesta pesquisa'. Two sentences replaced by direct substantive claims. No numerical fact, data source, citation, chart value, policy claim, or scope changed.",
     "url": "/reports/2026/10/2026-10-31-global-macro.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-11-01T01:50:11.760Z",
+    "qa_reviewed_at": "2026-11-01T01:56:48.261Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "32e625cd1c40029057947fc1461acbde5fa47f3e",
+    "qa_reviewed_commit": "38d230ba3d5c0958791db6367b70f00ad60b6a8a",
     "locales": {
       "en": {
         "markdown": "en.md",
