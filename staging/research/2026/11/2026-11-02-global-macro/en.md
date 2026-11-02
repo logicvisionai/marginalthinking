@@ -85,7 +85,7 @@ If oil stays elevated, producers may cut output despite healthy order books beca
 
 The Bank of Japan maintained its **1.25%** setting at the 30 October policy meeting. Its October outlook and monetary statements indicated further normalization remained possible, conditional on sustained inflation and economic developments. Policy rates have higher confidence than speculation about the precise date of the next increase. [6][7]
 
-The Federal Reserve had maintained its **3.75%–4.00%** target range on **28 October**, while the European Central Bank held its **2.50% deposit facility rate** on **29 October**. These are policy instruments with different operational meanings and should not be presented as directly comparable lending rates for businesses. Financial conditions depend additionally on credit spreads, collateral quality, exchange-rate hedging and bond maturities. [14]
+The Federal Reserve had maintained its **3.75%–4.00%** target range on **28 October**, while the European Central Bank held its **2.50% deposit facility rate** on **29 October**. These are policy instruments with different operational meanings and should not be presented as directly comparable lending rates for businesses. Financial conditions depend additionally on credit spreads, collateral quality, exchange-rate hedging and bond maturities. [14][20]
 
 Japan's policy normalization matters to capital markets beyond Tokyo because yen funding, hedging costs and investors' international bond holdings interact with US and European assets. Yet a claim that a specific November 2 equity decline was caused exclusively by Bank of Japan policy would require evidence on intraday orders and portfolio positions.
 
@@ -182,3 +182,4 @@ This evidence does not support a deterministic forecast of a global AI collapse,
 17. US Treasury, Daily Treasury Par Yield Curve, 30 Oct 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
 18. World Bank, October Commodity Markets Outlook, 28 Oct 2026: https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026
 19. IMF, Asia Pacific growth projections table, October 2026: https://www.elibrary.imf.org/abstract/book/9798229030120/CH001.xml
+20. European Central Bank, monetary policy decisions 29 October 2026, deposit rate 2.50%: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html
