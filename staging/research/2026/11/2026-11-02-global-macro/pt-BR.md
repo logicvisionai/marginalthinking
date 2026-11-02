@@ -182,3 +182,4 @@ A evidência disponível não fundamenta previsão determinística de colapso mu
 17. US Treasury, Daily Treasury Par Yield Curve, 30 Oct 2026: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
 18. World Bank, October Commodity Markets Outlook, 28 Oct 2026: https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026
 19. IMF, Asia Pacific growth projections table, October 2026: https://www.elibrary.imf.org/abstract/book/9798229030120/CH001.xml
+20. European Central Bank, monetary policy decisions 29 October 2026, deposit rate 2.50%: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html
