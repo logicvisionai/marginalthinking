@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-02T08:49:36.341Z",
+  "last_reconciled_at": "2026-11-02T15:57:08.881Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7761,6 +7761,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "References to AI-related chips, infrastructure and investment announcements do not establish independently measured installed compute, commissioning, operational performance, grid capacity or verified technical milestones; no technology signal updated."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-cyber-conflict-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-02T15:57:08.881Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-11-02-CYBER-CONFLICT-2026"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The European refrigeration incidents and Polish industrial OT attempt demonstrate possible cross-border vendor dependencies, but shared manufacturer/control-plane identity and directed client-to-client dependency edges remain forensically unconfirmed; no network links revised."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Industrial cybersecurity and grocery cold-chain resilience suggest possible investment needs, but no independently verified named opportunity with ownership, committed capex, contracting status, cash flows and execution milestones is established."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "EU Council sanctions, state notices and vendor incident reporting identify participants but do not establish newly audited beneficial-control, voting or ownership edges among the strategic actors tracked by the existing atlas."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Cyber disruption of refrigeration, personal data and power infrastructure does not document a new physical resource reserve, concession, extraction licence, off-take claim or beneficiary control of raw materials."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "NIS2, incident-response obligations and EU sanctions are institutional policy mechanisms, but the article does not present a new enacted intervention with measured effectiveness and a credible counterfactual suitable for a policy-case record."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "European refrigeration disruptions reported on 2 November are real but perpetrator, technical commonality, geopolitical connection and state attribution are unverified; Poland's December 2025 attempted energy sabotage is documented but a new canonical event requires independent structured forensic reconciliation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI-assisted attacker operations and OT intrusion risks are discussed from selected Mandiant/Microsoft/GTIG samples, without an independently reproduced capability benchmark, deployment milestone or performance metric demonstrating a new technology signal."
         }
       ]
     }

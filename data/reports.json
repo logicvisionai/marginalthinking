@@ -2,6 +2,169 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-GSP-2026-11-02-CYBER-CONFLICT-2026",
+    "slug": "2026-11-02-cyber-conflict-europe-global-hybrid-war-economy-society",
+    "date": "2026-11-02",
+    "published_at": "2026-11-02T12:43:00-03:00",
+    "kind": "conflict-system-research",
+    "priority": 58,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "technology-production-society",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "geopolitics-security",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "industry-production",
+      "institutions-governance",
+      "social-change",
+      "inequality-distribution",
+      "capital-markets",
+      "trade-investment"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "war-armed-conflict",
+      "sanctions-economic-coercion",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "related_research_ids": [
+      "MT-CS-2026-10-21-CYBER-AI"
+    ],
+    "assessment_confidence": "medium",
+    "contrary_evidence": [
+      "Poland reported continued electricity supply after the destructive December 2025 attempts; cyber access and attempted harm do not establish national blackout.",
+      "Reuters reports on 2 November 2026 did not establish a perpetrator or forensic linkage among national supermarket refrigeration incidents.",
+      "ENISA and CERT-EU use defined, nonrepresentative incident universes; their percentages cannot be added or converted into global attack probabilities.",
+      "Mandiant finds most observed successful intrusions still exploited human and systemic weaknesses, despite new AI-enabled attack workflows.",
+      "EEAS FIMI incident/channel counts do not show that voters changed their behavior or that an election outcome was altered."
+    ],
+    "limitations": [
+      "Same-day November 2 reports are provisional; attribution, store counts, financial losses and technical linkage require independent forensic revision.",
+      "Source incident data and vendor investigations are selected observational samples with distinct denominators and disclosure biases.",
+      "Russian, Chinese and other official attributions are identified as institutional statements, not blanket proofs across unrelated incidents.",
+      "Forward scenarios for 2027–2030 are conditional and have no defensible precise probability.",
+      "A prior general Marginal Thinking cyberwarfare-and-AI study exists; this research focuses on new civilian, economic, psychological and European incident dynamics."
+    ],
+    "scenarios": [
+      "Bounded recurring disruption with short restoration",
+      "Correlated multi-country supplier compromise",
+      "Cyber-physical escalation linked to geopolitical crisis",
+      "AI-accelerated cybercrime specialization",
+      "Greater civilian infrastructure resilience and measured recoverability"
+    ],
+    "producer_checks": {
+      "information_cutoff": "2 November 2026; Reuters day-of reports, September 2026 ENISA, October 2026 CERT-EU, 2026 IMF/GTIG/Microsoft/Mandiant/Council/Poland statements; observations and release dates distinguished.",
+      "editorial_novelty": "Separate from the 21 October theoretical cyberwarfare-and-AI article; forensic European retail incidents, economics of civilian OT, supply-chain concentration, psychosocial harms, finance and observable scenarios.",
+      "visual_signature": "Each locale contains three matching evidence/comparison tables, two comparable numeric bar charts, one causal flow and one geographic regional exposure map.",
+      "source_check": "23 matched official/specialist/news URLs, including Reuters, ENISA, CERT-EU, Polish government/CERT Polska, EU Council, Google/Mandiant, Microsoft, IMF, EEAS and ICRC.",
+      "bilingual_parity": "English 4016 substantive words and PT-BR 3986; 16 substantive numbered sections, 23 matching URLs, matching two chart data series, equivalent table/flow/map semantics.",
+      "methodology": "Separate intrusion from sabotage, state nexus from unknown actor, official allegation from technical proof, observed 2025 annual sample from 2 November 2026 incident reporting, and physical effect from macroeconomic scenario."
+    },
+    "url": "/reports/2026/11/2026-11-02-cyber-conflict-europe-global-hybrid-war-economy-society.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-02T15:43:00Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "e0ca8910bda23f5777380536335e7120150856fe",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Cyber conflict as a system of power: Europe’s new attacks, global digital coercion and the economics of civilian vulnerability",
+        "deck": "A deep historical, political-economic and psychological study of cyber conflict through 2 November 2026: European retail refrigeration, Polish energy sabotage, government and medical breaches, Russia–EU coercion, global competition, AI, law, civilian harm and five falsifiable futures.",
+        "tags": [
+          "cyber conflict",
+          "Europe cyberattacks",
+          "industrial cybersecurity",
+          "Russia and European security",
+          "ransomware",
+          "information manipulation",
+          "digital economic security",
+          "artificial intelligence",
+          "civilian protection"
+        ],
+        "keywords": [
+          "European supermarket refrigeration cyberattack November 2 2026",
+          "CERT-EU ENISA 2026",
+          "Poland energy cyber sabotage December 2025",
+          "Berlin Rhysida government data 2026",
+          "Russia China EU cyber sanctions 2026",
+          "financial systemic cyber risk IMF",
+          "FIMI political psychological operations 2026"
+        ],
+        "regime": "Chronic below-threshold digital confrontation combines criminal extraction, state-linked espionage, hacktivism, industrial sabotage and influence operations across transnational commercial dependencies.",
+        "key_risk": "Treating contemporary cross-border incidents as one state-directed operation without forensics; undercounting physical, social and distributional costs of compromised supplier networks.",
+        "watch": [
+          "Forensic linkage and responsibility for 2 November European refrigeration incidents",
+          "Physical food losses and cold-chain restoration",
+          "Industrial control incident confirmations and energy service continuity",
+          "Independent attribution versus official political statements",
+          "Mandiant attack cycle and recovery-time changes",
+          "Financial concentration and supplier outage cascades",
+          "EEAS information manipulation and behavioral evidence"
+        ],
+        "search_text": "November 2026 cyber conflict cyberwarfare Europe attacks refrigerators Poland grid Berlin Sweden hospital Russia China geopolitical security economy psychology information warfare ransomware AI finance supply chain humanitarian law"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "A ciberguerra como sistema de poder: os novos ataques à Europa, a coerção digital global e a economia da vulnerabilidade civil",
+        "deck": "Investigação histórica, geopolítica, econômica, social e psicológica sobre a disputa cibernética até 2 de novembro de 2026: refrigeração no varejo europeu, energia polonesa, vazamentos governamentais e médicos, rivalidades internacionais, IA, direito, proteção civil e cinco cenários verificáveis.",
+        "tags": [
+          "ciberguerra",
+          "ataques cibernéticos à Europa",
+          "segurança industrial",
+          "Rússia e segurança europeia",
+          "ransomware",
+          "manipulação informacional",
+          "segurança econômica digital",
+          "inteligência artificial",
+          "proteção de civis"
+        ],
+        "keywords": [
+          "ataques cibernéticos a geladeiras supermercados Europa 2 novembro 2026",
+          "ENISA CERT-EU 2026",
+          "sabotagem energia Polônia dezembro 2025",
+          "Berlim Rhysida dados governo 2026",
+          "Rússia China UE sanções cibernéticas",
+          "risco sistêmico financeiro FMI",
+          "operações psicológicas manipulação de informação FIMI"
+        ],
+        "regime": "Competição digital persistente abaixo do limiar da guerra reúne extração criminosa, espionagem estatal, hacktivismo, sabotagem industrial e manipulação informacional em redes comerciais transnacionais.",
+        "key_risk": "Atribuir incidentes transfronteiriços a uma única operação estatal sem perícia e subestimar custos físicos, sociais e distributivos de fornecedores comprometidos.",
+        "watch": [
+          "Vínculo pericial e autoria dos incidentes frigoríficos europeus de 2 de novembro",
+          "Perdas de alimentos e recuperação da cadeia de frio",
+          "Confirmação de incidentes industriais e continuidade elétrica",
+          "Perícia independente versus atribuições políticas",
+          "Tempos de ataque e recuperação medidos por Mandiant",
+          "Concentração de fornecedores e falhas em cascata",
+          "Manipulação informacional EEAS e evidência comportamental"
+        ],
+        "search_text": "ciberguerra atual novembro 2026 ataques Europa supermercados refrigeração Polônia rede elétrica Berlim dados Suécia hospitais Rússia China geopolítica economia psicologia guerra informacional ransomware IA finanças cadeia de fornecedores proteção de civis"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GM-2026-11-02",
     "slug": "2026-11-02-global-macro",
     "date": "2026-11-02",
