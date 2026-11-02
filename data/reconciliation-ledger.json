@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-01T15:18:50.551Z",
+  "last_reconciled_at": "2026-11-02T05:09:18.294Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7671,6 +7671,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Semiconductor export receipts rose strongly and electrical equipment sales expanded with reported data-centre demand, but customs nominal values do not independently verify installed AI compute capacity, hardware performance, utilization, network megawatts or technical deployment milestones."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-global-macro-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-02T05:09:18.294Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-02"
+      ],
+      "audit_note": "Atomic publication reconciliation accompanies the 2 Nov bilingual QA-approved public bundle and registry coverage in the same Git commit. No changes to canonical research datasets without verified new structured evidence.",
+      "decisions": [
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Middle East conflict and shipping exposure are discussed, but the early-November survey and oil data do not substantiate a new specific geolocated conflict event, independently attributed perpetrator, casualties or new physical transport loss."
+        },
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "October PMIs in Japan, Korea, Taiwan and China alongside Korea semiconductor trade values suggest supplier-demand dependence but do not establish normalized bilateral shipment/ownership edges, comparable denominator or verified flow magnitude for canonical network updates."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The Bank of Japan October hold and OPEC+ December quota decision are real policy actions, but observed future effectiveness, causal counterfactual and compliance outcomes are missing; no measured policy-case outcome may be asserted."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Energy supply obligations, quota statements and imported oil cost pressures do not establish a new resource concession, offtake agreement, extraction title or beneficiary ownership transfer."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "November 1 OPEC+ decisions and national central bank policy involve named decision makers, but no new mapped beneficial ownership, control stake or decision-right relation between actors is independently established."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "AI infrastructure purchases and rising electrical-equipment trade can indicate opportunities but do not define an audited individual investment project, verified capex, owner, financing, measured return and execution constraints."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "The 1 Nov Korean October chip customs revenue and November 2 manufacturing PMI show nominal sales and order diffusion, not independently measured installed compute capacity, grid connection, machine performance or sustained customer returns."
         }
       ]
     }
