@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-02",
+  "slug": "2026-11-02-global-macro",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T02:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "inequality-distribution",
+    "infrastructure-logistics"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-02-global-macro/en.md",
+      "title": "Global Macro — Asian factories lose momentum as AI capital spending meets energy and credit risks",
+      "deck": "October PMIs slow in Korea and Japan while China's official and private surveys diverge; OPEC+ held December production requirements and Japan's 1.25% policy rate frames credit risk.",
+      "tags": [
+        "Global Macro",
+        "Asia manufacturing",
+        "AI capital spending",
+        "China PMIs",
+        "South Korea",
+        "Japan",
+        "OPEC+",
+        "Energy",
+        "Global credit"
+      ],
+      "keywords": [
+        "November 2 2026 Asia manufacturing PMI",
+        "South Korea 51.3 Japan 53.3 Taiwan 54.9",
+        "China official PMI 49.3 private RatingDog 52.0",
+        "OPEC November 1 December 2026 unchanged required production",
+        "Bank of Japan October 30 2026 1.25 percent",
+        "IMF Asia 2026 4.8 percent growth"
+      ],
+      "regime": "Asian manufacturing remains expansive in selected economies but is losing momentum, with China survey divergence, concentrated AI export value and higher energy and financing risks.",
+      "key_risk": "Confusing nominal tech receipts with broad factory expansion or treating unchanged OPEC+ requirements as real oil deliveries obscures simultaneous profit, price and logistics pressure.",
+      "watch": [
+        "November 2 US and Europe final manufacturing PMIs after the 05 UTC cutoff",
+        "Korea and Japan November PMI new orders and input prices",
+        "China November official and private PMI convergence",
+        "Actual December OPEC+ oil output and 29 November decision",
+        "Corporate credit spreads, AI client capex and dated yields",
+        "November 3 US midterm voting and subsequent policy announcements"
+      ],
+      "search_text": "Global Macro November 2 2026 Korea Japan manufacturing PMIs 51.3 53.3 China official 49.3 private 52.0 AI semiconductor capex energy OPEC+ BoJ 1.25 percent and IMF Asia slowdown"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-02-global-macro/pt-BR.md",
+      "title": "Global Macro — Indústria asiática perde ritmo sob custos de energia e riscos do ciclo de IA",
+      "deck": "PMIs de outubro desaceleram no Japão e na Coreia, enquanto pesquisas chinesas divergem; OPEP+ mantém cotas de dezembro e juros japoneses a 1,25% tornam o crédito estratégico.",
+      "tags": [
+        "Global Macro",
+        "PMI asiático",
+        "Investimentos em IA",
+        "Indústria da China",
+        "Coreia do Sul",
+        "Japão",
+        "OPEP+",
+        "Energia",
+        "Crédito global"
+      ],
+      "keywords": [
+        "Global Macro 2 novembro 2026 indústria Ásia",
+        "PMI Coreia 51,3 Japão 53,3 Taiwan 54,9",
+        "China PMI oficial 49,3 privado 52,0",
+        "OPEP novembro 2026 cotas dezembro",
+        "Banco do Japão juros 1,25 outubro 2026",
+        "FMI Ásia 2026 4,8% crescimento"
+      ],
+      "regime": "A indústria de algumas economias asiáticas continua expandindo, mas perde intensidade; a China diverge por amostras, exportações de IA são concentradas e há riscos de crédito e energia.",
+      "key_risk": "Confundir receitas nominais de chips com expansão industrial generalizada ou cotas de produção da OPEP+ com barris entregues esconde riscos simultâneos de lucro, custo e logística.",
+      "watch": [
+        "PMIs finais de EUA e Europa de 2 de novembro posteriores ao corte",
+        "Novas encomendas e custos nos PMIs de novembro da Coreia e do Japão",
+        "Convergência entre PMIs chinês oficial e privado",
+        "Cumprimento físico de cotas de dezembro da OPEP+ e reunião de 29/11",
+        "Spreads de crédito, investimento dos clientes de IA e curva de juros datada",
+        "Eleições legislativas dos EUA em 3/11 e medidas posteriores"
+      ],
+      "search_text": "Global Macro 2 novembro 2026 PMI indústria Japão 53,3 Coreia 51,3 China oficial 49,3 privada 52,0 OPEP+ energia crédito juros Japão IA"
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "2026-11-02 02:00 America/Sao_Paulo (05:00 UTC); only Asian surveys released by cutoff are treated as 2 Nov readings. US/European major equity benchmark returns dated 30 Oct. No 2 Nov US/Europe close, ISM, euro PMI, or election outcome claimed.",
+    "novelty": "The 1 Nov macro focused on Korean October customs AI semiconductors vs China official PMI and oil imports; the 2 Nov edition adds simultaneous completed S&P Global Korea/Japan PMIs (51.3 from 53.9; 53.3 from 54.1), Taiwan 54.9, RatingDog China private 52.0 vs official NBS 49.3, per-country breadth and inventories, BoJ 1.25 percent framework, Friday US equity repricing and IMF October APAC 2025-27 growth trajectory. Distinct survey-population and credit-transmission thesis.",
+    "source_check": "20 matching numbered reference URLs per language; November 2 Reuters primary-interview reporting [1]-[4] for regional survey release; China NBS official original [5], dated BOJ statement and outlook [6][7], IMF October Asia REO and projections [8][19], OPEC 1 Nov official [9] (Reuters secondary [10]), Korea MOTIR 1 Nov primary [11], Eurostat Q3 GDP [12], BEA Q3 GDP [13], Fed Oct28 [14], US session Oct30 via dated NDTV Nov2 [15], IEA Oct [16], Treasury Oct30 [17], World Bank Oct28 [18], ECB Oct29 original [20]. No later intraday observation asserted.",
+    "visual_signature": "Identical four bar charts per locale: October Asian PMI [54.9,53.3,52.0,51.3,49.3]; paired September/October PMI [53.9,51.3,54.1,53.3,52.1,52.0]; Friday Oct30 US benchmark price changes [-2.86,-1.82,-1.09]; IMF Asia GDP actual/forecast [5.0,4.8,4.4]. One causal three-stage flow, one qualitative seven-region map and two analytical/evidence tables per language. Each plot labels comparable data bases or periods.",
+    "bilingual_parity": "English and Brazilian Portuguese contain 20 identical reference links, eight ordered chapters, four charts with byte-equivalent numeric arrays, one flow, one map, and two complementary evidence tables. Same source time cutoffs, national indicator readings, BOJ and Fed/ECB rate periods, and conditional scenarios.",
+    "research_depth": "Substantive 8 H2 long-form daily analytical sections and 3200+ EN/3400+ PT whitespace-token manuscript lengths inclusive of figures/bibliography; country contrast, survey methodology, nominal versus real technology receipts, physical oil logistics, policy and financial feedback, geographic channels and falsifiable scenarios.",
+    "editorial_status": "Ready revision 1 staged only, SHA-pinned for independent QA; no public bundle or index created by producer. All facts and cutoff dated.",
+    "source_blob_shas": {
+      "en": "54f6667863653e24a00e15b372350e812ae6cb4d",
+      "pt-BR": "8d2e2093eb9e9495438d4aa2d1381bbb66d30777"
+    },
+    "qa_handoff": "Independently verify S&P/Reuters Oct PMI series Korea 51.3 vs 53.9, Japan 53.3 vs 54.1, Taiwan 54.9 and China RatingDog 52.0 vs official NBS 49.3; China private Sep 52.1, IMF Asian 5.0/4.8/4.4, Oct30 US price changes, BoJ 1.25 Oct30, OPEC Nov1 requirements versus deliveries, all chart units and survey differences, 20 URLs and staged Git blobs. No 2 Nov later US/Europe releases or prices falsely stated. Return SHA-bound approval only if all material tests pass."
+  },
+  "contrary_evidence": [
+    "China official PMI 49.3 signals contraction in official survey while private RatingDog 52.0 indicates expansion: different populations and sectors, neither can erase the other.",
+    "South Korean manufacturing PMI 51.3 represents slower expansion, not an observed 2.6% fall in national factory output.",
+    "Korean October semiconductor receipts $56.44bn grew 259.4% nominally, but nonchip exports also grew 34%, arguing against both a broad collapse and an exclusively technology-led expansion.",
+    "Japan PMI 53.3 and Taiwan 54.9 remain above 50 although decelerating, so a synchronized Asian recession is not evidenced.",
+    "IMF regional GDP projection remains 4.8% in 2026 while falling to 4.4% in 2027; declines in PMI momentum do not establish a current recession.",
+    "Official OPEC+ December required output unchanged does not prove delivered barrels, shipping normality or a peace agreement.",
+    "Friday 30 Oct US equity index declines are not an observed Monday 2 Nov close; capital expenditure profitability cannot be inferred solely from prices.",
+    "BoJ Oct30 maintained 1.25%; potential future increase is a scenario, not an implemented 2 Nov rate change."
+  ],
+  "limitations": [
+    "Cutoff 05:00 UTC on Nov2; US ISM and European Monday PMIs, US closing stock prices, later statements and US elections of Nov3 are not observed.",
+    "PMI diffusion measures are not comparable to nominal customs values or physical production growth; sample-composition detail is incomplete.",
+    "Reuters PMI descriptions used where original subscription-only S&P country reports cannot be publicly inspected, marked as a source-limited verification.",
+    "Oil quotas do not establish compliance or delivered oil volumes; 14 Oct IEA data describe September not 2 Nov movements.",
+    "Financial market benchmark percentage moves are the Friday 30 Oct closed session, not realtime Nov2 pricing.",
+    "Household energy pass-through, business credit spreads and investment profitability require independent account-level and sectoral evidence."
+  ],
+  "evidence_sources": [
+    {
+      "name": "Reuters Asia manufacturing survey synthesis",
+      "date": "2026-11-02",
+      "url": "https://www.reuters.com/world/asia-pacific/global-economy-asias-factory-activity-feels-fading-glimmer-ai-boom-2026-11-02/"
+    },
+    {
+      "name": "Reuters China RatingDog PMI",
+      "date": "2026-11-02",
+      "url": "https://www.reuters.com/world/asia-pacific/china-factory-growth-slows-october-export-orders-ease-private-pmi-shows-2026-11-02/"
+    },
+    {
+      "name": "National Bureau of Statistics of China official PMI",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "IMF Asia October 2026 regional economic outlook",
+      "date": "2026-10-15",
+      "url": "https://www.imf.org/en/publications/reo/apac/issues/2026/10/15/regional-economic-outlook-for-asia-and-pacific-october-2026"
+    },
+    {
+      "name": "OPEC November 1 December production requirements",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "Bank of Japan October policy statement",
+      "date": "2026-10-30",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/"
+    }
+  ]
+}
