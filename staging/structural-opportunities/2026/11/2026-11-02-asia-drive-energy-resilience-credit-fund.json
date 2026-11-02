@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-11-02T05:12:40-03:00",
+  "candidate": {
+    "id": "2026-11-02-asia-drive-energy-resilience-credit-fund",
+    "country": null,
+    "region": {
+      "name": "Southeast and South Asia",
+      "framework_partners": [
+        "Japan",
+        "World Bank Group",
+        "Singapore"
+      ]
+    },
+    "previous_state": null,
+    "proposed_state": "exploitable_inefficiency",
+    "perspective": "Eligible private infrastructure developers seeking long-tenor risk-sharing capital for energy efficiency and cleaner industrial projects in Southeast and South Asia, rather than public-market investors.",
+    "structural_condition": "Energy-efficiency and low-carbon industrial projects face financing, risk-allocation and long-tenor capital constraints; the World Bank/Japan DRIVE framework offers a new regional financing channel via a Singapore-initiated privately managed fund, but investment commitments and actual deployment must be distinguished.",
+    "delta": "World Bank Group announced 15 October 2026 that the first DRIVE project is an investment in the Emerging Asia Infrastructure Credit Fund, targeting US$750 million in fund capital; IFC is investing up to US$50 million alongside JICA. The fund target is not a fully raised amount and IFC's 'up to' amount is not proof of full disbursement. Newly identified in 2 November discovery scan, not a new 2 November policy announcement.",
+    "mechanism": "Risk sharing and concessional/development-finance participation may lower perceived project financing hurdles and crowd in private capital for energy-efficiency and lower-carbon infrastructure. Realized impact requires signed financing agreements, fund closings, eligibility, credit pricing, actual project disbursement and measured operational outputs.",
+    "catalysts": [
+      "First/next fund close and audited paid-in capital versus US$750m target.",
+      "IFC/JICA actual disbursements, project-level debt terms and risk-sharing structure.",
+      "Named financed energy-efficiency or infrastructure projects with commissioning dates and measured energy savings.",
+      "Independent project performance and default/repayment disclosures."
+    ],
+    "invalidation": "Fund fails to raise capital or reach financial close; IFC/JICA commitments are withdrawn or remain undisbursed; projects cannot obtain permits or secure grid access; pricing and project outputs do not improve versus comparable unfunded projects.",
+    "confidence": "medium for official announcement; low for economic impact",
+    "materiality": "medium",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "World Bank Group, first DRIVE project and Emerging Asia Infrastructure Credit Fund financing announcement",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia",
+        "date": "2026-10-15"
+      },
+      {
+        "name": "IEA, Electricity 2026 grid bottlenecks and investment needs (context, not fund performance)",
+        "url": "https://www.iea.org/reports/electricity-2026/grids",
+        "date": "2026"
+      }
+    ],
+    "status": "discovery_watch",
+    "horizon": "2026–2028, conditional on financial closes and project deployment",
+    "evidence_stage": "Announced institutional financing mechanism and capital target; no observed financing uplift, installed MW or energy-efficiency result",
+    "last_verified_at": "2026-11-02",
+    "disclosure_limitations": "US$750m is a target fund size, IFC US$50m is an upper commitment; neither should be treated as raised capital, disbursement, completed projects or economic impact. Source is the World Bank Group's own release; independent fund documentation and beneficiary data remain unavailable.",
+    "contrary_evidence": [
+      "IEA grid queues indicate structural bottlenecks, but do not establish this fund's additionality or actual impact.",
+      "Development-finance participation can catalyze private investment, but displacement of other lenders and selection bias are not ruled out.",
+      "The first project was announced 15 October, so 2 November is a discovery date only, not a new event date."
+    ]
+  },
+  "research_note": "Provisional cross-border capital-access candidate, separate from 1 Nov Korean equipment-export capacity, 28 Oct HBM4 capacity and 30 Oct BoJ ETF balance-sheet signals. Do not modify canonical Atlas or imply a country-level score."
+}
