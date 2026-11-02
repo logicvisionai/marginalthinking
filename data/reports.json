@@ -192,6 +192,151 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-WF-2026-11-02",
+    "slug": "2026-11-02-global-wealth-flow-weekly",
+    "date": "2026-11-02",
+    "published_at": "2026-11-02T05:25:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "currencies",
+      "sovereign-debt",
+      "banking-credit",
+      "trade-investment",
+      "commodities-resources",
+      "industry-production"
+    ],
+    "phenomena": [],
+    "format": "monitor",
+    "cadence": "weekly",
+    "assessment_confidence": "medium",
+    "scenarios": [
+      "Euro credit and reserve diversification persists while dollar credit continues expanding",
+      "Collective investment trust outflows were primarily a transient wrapper/accounting shock",
+      "Large investment values mask weaker project conversion and ownership concentration",
+      "Sovereign yield and energy stress transmits through nonbank collateral and project funding"
+    ],
+    "contrary_evidence": [
+      "Both euro- and dollar-denominated cross-border bank credit grew 11% year on year; euro share growth is not dollar exit.",
+      "ICI attributes the 14 October domestic-equity withdrawal primarily to collective investment trusts rather than individual redemptions.",
+      "The 21 October combined ICI estimate returned to positive territory and cannot prove where the earlier institutional assets went.",
+      "Money-market asset changes cover a different week and population from long-term combined fund flows.",
+      "BEA Q2 external balance changes were dominated by market valuation rather than new transactions.",
+      "UNCTAD M&A deal value increased while deal counts and greenfield announcements declined."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-02 05:25 America/Sao_Paulo; no 2 November market close, October TIC or October gold ETF data asserted.",
+      "research_depth": "EN approximately 3755 and PT-BR approximately 4200 substantive words using scripts/validate-editorial-depth.mjs counting rule; both exceed weekly minimum 2200.",
+      "source_check": "14 directly linked original source releases and 11 distinct institutional hosts; source dates and observation periods attached to all material aggregates.",
+      "visual_signature": "4 explicit charts, 4 source and mechanism tables, 1 causal flow and 1 regional map per locale; matching chart numeric series and units.",
+      "bilingual_parity": "Identical numerical chart series, periods, distinctions, conditional scenarios and 14 references across EN/PT-BR; translated geographic and causal labels.",
+      "methodology": "BIS adjusted loans versus broader claims, fund flows versus ETF issuance, money-market assets, TIC transactions, COFER reserves, BEA price valuation, M&A control and project delivery explicitly separated.",
+      "source_shas": {
+        "en": "3e9ffef610d210834af891dd4113957f90257ba4",
+        "pt-BR": "29ca113fc272b361b3826b5851ad704868ece544"
+      }
+    },
+    "revision": 0,
+    "url": "/reports/2026/11/2026-11-02-global-wealth-flow-weekly.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-02T08:47:06.080Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "6517824cbb44756dc2733f414d0a64ab970d8a53",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Wealth Weekly — euro bank-credit expansion meets a fund-flow normalization, not a proven transfer of ownership",
+        "deck": "BIS reports US$877bn of adjusted Q2 cross-border credit growth, led by euros; ICI combined flows returned to +US$12.324bn after an extraordinary institutional week, while real investment conversion remains uneven.",
+        "tags": [
+          "global wealth",
+          "BIS international banking",
+          "euro credit",
+          "ICI fund flows",
+          "collective investment trusts",
+          "Treasury TIC",
+          "official reserves",
+          "FDI and M&A",
+          "grid infrastructure"
+        ],
+        "keywords": [
+          "BIS Q2 2026 cross-border bank credit 40.7 trillion 877 billion",
+          "euro 424 billion dollar 383 billion bank credit",
+          "ICI October 21 2026 plus 12.324 billion",
+          "ICI October 14 2026 minus 471.677 billion",
+          "money market funds October 28 2026 7901.28 billion",
+          "UNCTAD Global Investment Trends Monitor 51 October 2026",
+          "IMF COFER 2026Q2 USD 56.70 euro 20.60"
+        ],
+        "regime": "Euro-denominated cross-border credit gains relative weight as both major currency segments grow; fund-wrapper flows normalize amid uneven physical investment.",
+        "key_risk": "Conflating banking claims, currency shares, ETF net issuance, asset repricing, deal announcements and realized changes of control.",
+        "watch": [
+          "ICI next revised weekly estimates and CIT disclosures",
+          "September TIC scheduled for 18 November 2026",
+          "Next BIS constant-exchange-rate banking release",
+          "Next IMF COFER revision and active allocation",
+          "UNCTAD deal completion and greenfield commissioning",
+          "Grid connection, energy infrastructure and project disbursements"
+        ],
+        "search_text": "BIS 2026Q2 euro bank credit 424 billion dollar 383 billion global wealth flow ICI 21 October 2026 12.324 billion money market 28 October UNCTAD FDI COFER reserves"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Global Wealth Semanal — avanço do crédito em euros e normalização dos fundos não comprovam transferência de propriedade",
+        "deck": "O BIS registra US$ 877 bilhões de expansão ajustada do crédito transfronteiriço no T2, liderada pelo euro; os fluxos combinados do ICI voltaram a +US$ 12,324 bilhões, enquanto a execução de investimentos reais permanece desigual.",
+        "tags": [
+          "riqueza global",
+          "crédito internacional BIS",
+          "crédito em euros",
+          "fluxos ICI",
+          "fundos institucionais coletivos",
+          "TIC americano",
+          "reservas oficiais",
+          "IED e aquisições",
+          "infraestrutura elétrica"
+        ],
+        "keywords": [
+          "BIS Q2 2026 cross-border bank credit 40.7 trillion 877 billion",
+          "euro 424 billion dollar 383 billion bank credit",
+          "ICI October 21 2026 plus 12.324 billion",
+          "ICI October 14 2026 minus 471.677 billion",
+          "money market funds October 28 2026 7901.28 billion",
+          "UNCTAD Global Investment Trends Monitor 51 October 2026",
+          "IMF COFER 2026Q2 USD 56.70 euro 20.60"
+        ],
+        "regime": "Crédito bancário transfronteiriço em euros ganha peso relativo com crescimento das duas principais moedas; veículos financeiros normalizam enquanto a conversão produtiva segue desigual.",
+        "key_risk": "Confundir direitos bancários, participações cambiais, emissão líquida de ETFs, reprecificação, anúncios de negócios e mudança efetiva de controle.",
+        "watch": [
+          "Próximas estimativas revisadas do ICI e explicações dos CITs",
+          "TIC de setembro previsto para 18 de novembro de 2026",
+          "Próximas séries bancárias do BIS a câmbio constante",
+          "Próximo COFER do FMI e compras ativas",
+          "UNCTAD: conclusão de negócios e comissionamento greenfield",
+          "Conexão elétrica, infraestrutura energética e desembolsos"
+        ],
+        "search_text": "BIS 2026T2 crédito em euros 424 bilhões dólares 383 bilhões riqueza global fluxos ICI 21 outubro 2026 12.324 bilhões fundos monetários 28 outubro UNCTAD IED COFER reservas"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GM-2026-11-01",
     "slug": "2026-11-01-global-macro",
     "date": "2026-11-01",

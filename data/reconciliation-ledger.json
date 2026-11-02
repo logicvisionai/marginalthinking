@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-02T05:09:18.294Z",
+  "last_reconciled_at": "2026-11-02T08:49:36.341Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7716,6 +7716,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "The 1 Nov Korean October chip customs revenue and November 2 manufacturing PMI show nominal sales and order diffusion, not independently measured installed compute capacity, grid connection, machine performance or sustained customer returns."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-global-wealth-flow-weekly-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-02T08:49:36.341Z",
+      "report_ids_reviewed": [
+        "MT-WF-2026-11-02"
+      ],
+      "audit_note": "Atomic SHA-bound publication of independently QA-approved 2 Nov 2026 Global Wealth Weekly. Financial instrument stocks, transaction flows, valuation changes and control rights remain distinct; no canonical dataset rewritten without structured evidence.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "BIS reports USD 40.7tn cross-border bank credit and Q2 adjusted growth USD 877bn (EUR USD 424bn, USD USD 383bn), but currency aggregates do not identify comparable directional country-to-country dependency edges, ultimate counterparties or bilateral denominators; no network data changed."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "UNCTAD deal-value and greenfield-announcement contrasts and bank financing do not establish a verified executable project with identified owner, committed capex, financing, expected returns and implementation milestones; no atlas project updated."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Aggregate M&A deal value, cross-border credit and portfolio flows do not identify a verified new named beneficial owner, voting right, control stake or contractual actor relationship; no actor records updated."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The report distinguishes gold ETF holdings, energy/mineral financing and capital-market positions from actual control; no verified new extraction title, mineral concession, offtake right, reserve control or beneficial-ownership transfer is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "BIS, ICI, TIC, IMF COFER and UNCTAD observations describe different financial stocks and flows; no single newly implemented policy intervention with measured outcomes and defensible causal counterfactual is established for a policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "This weekly wealth-flow monitor contains no independently verified new geolocated armed-conflict incident, attributed perpetrator, casualties, material destruction or escalation event requiring a canonical conflict-system update."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "References to AI-related chips, infrastructure and investment announcements do not establish independently measured installed compute, commissioning, operational performance, grid capacity or verified technical milestones; no technology signal updated."
         }
       ]
     }
