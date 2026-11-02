@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "checked_at": "2026-11-02T08:12:40Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-02",
+  "candidate_ids": [
+    "2026-11-02-asia-drive-energy-resilience-credit-fund"
+  ],
+  "coverage_summary": "Daily structural discovery across infrastructure, energy, regulation, logistics, productivity, access to capital, production and institutions. 15 Oct World Bank Group primary release documents first DRIVE investment in a Singapore-initiated Emerging Asia Infrastructure Credit Fund: US$750m target and IFC up-to-US$50m participation with JICA. New discovery candidate concerns regional risk-sharing/long-tenor capital access, distinct from 1 Nov Korea grid-equipment exports and 28 Oct HBM4 manufacturing. 1 Nov OPEC+ decision reviewed for energy logistics, China NBS 31 Oct PMI for production, IEA grid-connection backlog for bottleneck context, FAO InFARM for food/health institution context. No evidence of actual project disbursement, commissioned power or measured return. Canonical Atlas untouched.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank Group/Japan DRIVE first project announcement",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    },
+    {
+      "name": "IEA Electricity 2026: grids",
+      "date": "2026",
+      "url": "https://www.iea.org/reports/electricity-2026/grids"
+    },
+    {
+      "name": "OPEC+ seven-country November decision",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "China NBS official October PMI",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    },
+    {
+      "name": "FAO InFARM AMR surveillance data call",
+      "date": "2026-07-27",
+      "url": "https://www.fao.org/members-gateway/news/detail/en/c/1760280/"
+    }
+  ],
+  "review_limitations": [
+    "DRIVE announcement is 15 Oct; discovery on 2 Nov is not a new financial closing or deployment event.",
+    "US$750m is a fund target; IFC up-to-US$50m is not confirmed as fully invested or disbursed.",
+    "No audited project-level funding, terms, MW connected, energy savings, credit performance or counterfactual access-to-capital improvement.",
+    "No physical oil shipping data from the 1 Nov OPEC+ required-production announcement; do not equate quotas with delivered oil.",
+    "No change to data/structural-opportunities.json or data/structural-opportunity-history.json."
+  ]
+}
