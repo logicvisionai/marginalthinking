@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "checked_at": "2026-11-02T08:12:40Z",
+  "scope": "All active editorial lines from current main registry screened after verifying the 2 Nov Global Macro already QA-approved and publicly bundled. Screening combines the 2 Nov Asia manufacturing evidence and primary OPEC+ 1 Nov, WHO 23 Oct, FAO InFARM, World Bank/IFC 15 Oct, IEA and latest monetary sources. It does not establish that no other event occurred.",
+  "registry_updated_at": "2026-10-30T13:03:47.104Z",
+  "registry_head_at_review": "37fac00221fa29ccde83c23857ddc23614923c59",
+  "reviewed_line_count": 28,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "already_published",
+      "note": "MT-GM-2026-11-02 r1 is QA-approved and publicly bundled on main (37fac002). Asian October PMIs: Korea 51.3, Japan 53.3, Taiwan 54.9; China official 49.3 versus private 52.0. No duplicate daily item."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "Asia PMI and Korean customs receipts do not establish cross-border wealth flows or beneficial ownership. Weekly research belongs to 2/5."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "China official/private PMI divergence and Korea/Japan deceleration do not alone demonstrate an enduring institutional or social transition; require repeated surveys and physical output."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Country-level survey contrasts for China, Korea, Japan and Taiwan were incorporated in the Global Macro; no new country dossier without deeper structural delta."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Korean semiconductor receipts and PMI dispersion do not independently demonstrate a new technical capability, utilization, or AI deployment efficiency."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "AI capex profitability and grid commissioning remain unverified; Korean electrical equipment export signal already staged on 1 Nov; no monthly duplication."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "OPEC+ Nov 1 required production decision does not prove physical tanker flows or conflict escalation; no new verified conflict-system shift."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "OPEC+ announced collective requirements and WB/IFC investment framework, but no new evidence of beneficial control or strategic actor network beyond named official roles."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "BoJ 30 Oct policy rate 1.25%, Fed/ECB latest dated decisions and cross-border credit transmission are treated in 2 Nov macro; no separate new central-bank decision established at cutoff."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "OPEC+ 1 Nov official communiqué maintained September 2026 required production for December; decision is institutional, not evidence of delivered barrels. No second piece."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "World Bank/Japan DRIVE 15 Oct financing announcement is a facility commitment, not a measured impact or evaluated policy experiment."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No independently documented new monetary-market design or causal policy trial; China survey divergence is not a market-design experiment."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "PMIs, Korean trade and IFC up-to-$50m investment commitment are not ownership-resolved monthly wealth stocks."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No newly comparable annual beneficial-ownership or strategic-reserve census; preserve yearly product discipline."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "OPEC+ decision and WB/Japan DRIVE are official institutional actions but no newly evidenced governance redesign or systemic outcome today."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Asia supply-chain finance under DRIVE is not a new regional integration treaty; separate committed financing from targets."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "PMI and chip export figures cannot quantify labor displacement, access, distribution or other social effects of AI."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "FAO September food price index is older than today's cutoff; no new 2 Nov primary comparable nutrition/pesticide exposure or food-affordability evidence for a thematic report."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "FAO InFARM 2026 submission window remains open through 30 Nov for 2015–2025 animal/food AMR data; not yet a new harmonized outcome series. No verified new pesticide, herd management or biological/chemical weapons governance delta."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "War escalation is conditional; no independently verified 2 Nov military deployment or imminent major-power war signal established. Oil logistics risks remain scenario, not fact."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_existing",
+      "note": "WHO 23 Oct Bundibugyo Ebola update documented 9,704 confirmed cases/4,687 deaths as of 20 Oct; 26 Oct thematic already staged and must not be duplicated. No new 2 Nov verified surveillance vintage."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new archival primary documents or historical reappraisal supported by today's macro releases; avoid repackaging historical corpus."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "OPEC+ 1 Nov required output unchanged for December, not physical supply. IEA grid queues and Korea export equipment signal require project-level deployment before separate industrial assessment."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "US midterm voting scheduled 3 Nov is future at cutoff; no outcome or new official fiscal decision inferred. Prior Brazil election corpus not duplicated."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "No new dated primary reserve certification, resource ownership transfer or access-control change; distinguish strategic scarcity scenarios from established events."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Korean electrical equipment sales and IEA grid queue estimates do not prove installed MW, Itaipu-specific policy or commissioned datacenter grid access."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Asian factory survey and OPEC+ decision indicate exposure channels but no new independently measured 2 Nov port, tanker or rail throughput."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "IEA October oil balances, FAO food prices and WHO preparedness evidence lack a harmonized 2 Nov comparable inventory for energy, food, minerals and medical reserves."
+    }
+  ],
+  "additional_thematic_selected": false,
+  "additional_thematic_reason": "No distinct 2 Nov primary evidence delta sufficient for a second fully sourced bilingual research item: Asia PMI/OPEC+ already in macro; WHO Ebola already staged; AMR reporting window and DRIVE financing do not yet supply observed outcome data.",
+  "source_vintages": [
+    {
+      "name": "OPEC+ seven countries December required production communiqué",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "WHO Bundibugyo outbreak report",
+      "date": "2026-10-23",
+      "url": "https://www.who.int/india/home/emergencies/disease-outbreak-news/item/2026-DON622"
+    },
+    {
+      "name": "FAO InFARM 2026 reporting call",
+      "date": "2026-07-27",
+      "url": "https://www.fao.org/members-gateway/news/detail/en/c/1760280/"
+    },
+    {
+      "name": "World Bank/IFC DRIVE energy resilience financing",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    },
+    {
+      "name": "IEA Electricity 2026 grids",
+      "date": "2026",
+      "url": "https://www.iea.org/reports/electricity-2026/grids"
+    },
+    {
+      "name": "China NBS October PMI",
+      "date": "2026-10-31",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html"
+    }
+  ],
+  "limitations": [
+    "Screening is bounded by releases accessible by the 05:12 BRT review; not a complete worldwide real-time incident feed.",
+    "No independent 2 Nov cross-border livestock AMR outcomes, pesticide-exposure statistics, clinical Ebola incidence update or physical oil cargo delivery series was found in the checked primary sources.",
+    "The daily Global Macro was already approved and public at this run's HEAD, so no producer re-staging or QA handoff was necessary.",
+    "No claim that external deploy has occurred; only public repository bundle verified."
+  ]
+}
