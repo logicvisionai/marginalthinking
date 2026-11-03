@@ -11,8 +11,8 @@
   "sources": {
     "en": {
       "markdown": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/en.md",
-      "title": "Hjalmar Schacht: from currency stabilization to financing Nazi rearmament",
-      "deck": "A documented biography covering the 1923 Rentenmark stabilization, reparations, the New Plan, MEFO credit instruments, Reichsbank autonomy, rearmament and the specific Nuremberg judgment.",
+      "title": "The shadow currency that was not a currency: Schacht, Mefo bills and Nazi rearmament",
+      "deck": "The political and financial machinery behind Schacht's Mefo bills: Weimar monetary reform, clandestine public debt, Reichsbank rediscounting, trade restrictions, military production and the financial aftermath of war.",
       "tags": [
         "Hjalmar Schacht",
         "biography",
@@ -27,7 +27,15 @@
         "military policy",
         "monetary institutions",
         "democratic legitimacy",
-        "historical biography"
+        "historical biography",
+        "Mefo bills",
+        "shadow money",
+        "Nazi rearmament finance",
+        "Reichsbank",
+        "Rentenmark",
+        "interwar Germany",
+        "off-budget debt",
+        "Germany government debt 1938 1945"
       ],
       "regime": "Historic decisions linking institutional authority, production, finance and conflict.",
       "key_risk": "Treating authors' memoirs and legal verdicts as complete historical assessments.",
@@ -36,12 +44,12 @@
         "Primary governmental and financial records",
         "Competing specialist historical literature"
       ],
-      "search_text": "Hjalmar Schacht: from currency stabilization to financing Nazi rearmament A documented biography covering the 1923 Rentenmark stabilization, reparations, the New Plan, MEFO credit instruments, Reichsbank autonomy, rearmament and the specific Nuremberg judgment. Hjalmar Schacht original documents historical institutions finance diplomacy empire"
+      "search_text": "The shadow currency that was not a currency: Schacht, Mefo bills and Nazi rearmament The political and financial machinery behind Schacht's Mefo bills: Weimar monetary reform, clandestine public debt, Reichsbank rediscounting, trade restrictions, military production and the financial aftermath of war. Germany Weimar MEFO bills Hjalmar Schacht 1932 petition Hindenburg 1934 rearmament off-balance-sheet sovereign liabilities New Plan bilateral clearing 1938 1945"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/pt-BR.md",
-      "title": "Hjalmar Schacht: da estabilização do marco ao financiamento do rearmamento nazista",
-      "deck": "Biografia documental sobre estabilização monetária de 1923, reparações, Novo Plano, letras MEFO, autonomia do Reichsbank, rearmamento e o alcance específico da sentença de Nuremberg.",
+      "title": "A moeda secreta que não era moeda: Schacht, as letras MEFO e o financiamento do rearmamento nazista",
+      "deck": "A engenharia financeira das letras MEFO: a estabilização de Weimar, a dívida militar disfarçada, o redesconto no Reichsbank, as restrições comerciais e as consequências econômicas e políticas do rearmamento.",
       "tags": [
         "Hjalmar Schacht",
         "biografia",
@@ -56,7 +64,14 @@
         "military policy",
         "monetary institutions",
         "democratic legitimacy",
-        "historical biography"
+        "historical biography",
+        "letras MEFO",
+        "moeda secreta",
+        "financiamento nazista",
+        "Rentenmark",
+        "crédito oculto",
+        "dívida pública alemã",
+        "redesconto Reichsbank"
       ],
       "regime": "Decisões históricas conectando autoridade institucional, produção, finanças e conflito.",
       "key_risk": "Tratar memórias e sentenças judiciais como avaliações históricas completas.",
@@ -65,7 +80,7 @@
         "Registros governamentais e financeiros primários",
         "Historiografia especializada divergente"
       ],
-      "search_text": "Hjalmar Schacht: da estabilização do marco ao financiamento do rearmamento nazista Biografia documental sobre estabilização monetária de 1923, reparações, Novo Plano, letras MEFO, autonomia do Reichsbank, rearmamento e o alcance específico da sentença de Nuremberg. Hjalmar Schacht original documents historical institutions finance diplomacy empire"
+      "search_text": "A moeda secreta que não era moeda: Schacht, as letras MEFO e o financiamento do rearmamento nazista A engenharia financeira das letras MEFO: a estabilização de Weimar, a dívida militar disfarçada, o redesconto no Reichsbank, as restrições comerciais e as consequências econômicas e políticas do rearmamento. Alemanha Weimar MEFO Schacht 1932 petição Hindenburg rearmamento passivo público extraorçamentário Novo Plano clearing comércio Brasil 1938 1945"
     }
   },
   "taxonomy_version": "1.0",
@@ -99,7 +114,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "research_subject": {
     "name": "Hjalmar Schacht",
@@ -110,16 +125,16 @@
     "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro"
   ],
   "producer_checks": {
-    "information_cutoff": "2026-10-25",
-    "research_depth": "EN 3565 words, 16 distinct URLs from 8 domains. PT-BR 4380 words, 16 distinct URLs from 8 domains. Source word counts exclude fenced visuals and URL tokens.",
-    "source_check": "Producer screened institutional, archive and court source references; independent claim-to-source and URL availability QA still required before public approval.",
-    "visual_signature": "Two bilingual-comparable numeric charts with series [[\"7\",\"6\",\"3\"],[\"10\",\"6\",\"7\"]], chronological table, causal flow and geographic exposure map per language.",
-    "translation_parity": "Equal chronology and primary claim structure, independently authored idiomatic translations, numeric chart parity; editorial fact-level translation QA pending.",
-    "methodology": "Separate actions taken by the subject from memoir narrative, collective institutional work, legal culpability and conjecture; distinguish nominal financial amounts from real production and impacted populations.",
-    "editorial_status": "Revised research in staging, producer structural checks passed. Independent QA and formal publication approval required; not live.",
+    "information_cutoff": "3 November 2026; historical sources include Deutsche Bundesbank (2024), IMF (2019), CESifo Working Paper 4135 (2013), German Historical Museum, the Nuremberg proceedings, and 2025 scholarly balance-sheet analysis.",
+    "research_depth": "PT-BR 53,766 characters / approximately 7,468 whitespace-separated terms; EN 46,461 characters / approximately 6,252 terms. 31 section headings per language; three source-reproducible finance time-series charts, audited explanatory table, flow and map.",
+    "source_check": "Revised to address rejected v1 findings: added Deutsches Historisches Museum's 1932 petition chronology; replaced duplicated GHDI photographic citation for New Plan and bilateral clearing with IMF research; introduced financial time series from Burret, Feld and Köhler, table 4, with stocks, total debt and currency separately classified; differentiated 4% vs 5% coupon in sources; QA source-by-source review still required.",
+    "visual_signature": "Three matching line charts in EN/PT-BR, fiscal 1938/39–1944/45, nominal billions Reichsmarks: Mefo bills outstanding [11.9,11.4,10.8,10.1,9.5,8.8,8.1], general government debt [53.2,73.5,102.6,153.3,208,284.9,387.9], notes and coins in circulation [11,15.2,18.3,23.8,29.8,38.7,73]. Final fiscal year partly estimated. Charts are not additive.",
+    "translation_parity": "Both language editions have 31 H2 chapters, identical three chart datasets, financial periods and balances, parallel 1932 petition and revised clearing and source discussion.",
+    "methodology": "Separate the 1923 Rentenmark from the 1934 MEFO bills; bills are credit instruments not legal tender; distinguish issued flows from outstanding stocks, physical currency from bank liabilities and fiscal debt, economic from legal responsibility; illustrative RM100 accounting table explicitly hypothetical.",
+    "editorial_status": "Revision 2 staged and awaiting independent QA. NOT approved or publicly published.",
     "source_shas": {
-      "en": "7e594ab157a6a407ed80dff432bd9dd068c4c019",
-      "pt-BR": "a7f2423fa18cf58f34726b6106c67e222579abfe"
+      "en": "e3b4ab16428d8a23fb0a99f8d5e8d861cacde1e6",
+      "pt-BR": "fde3bf1e288c47a73cef348fbc34849b76449ae1"
     }
   }
 }
