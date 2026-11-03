@@ -104,6 +104,7 @@ node scripts/validate-seo.mjs
 node scripts/validate-localized-output.mjs
 node scripts/validate-research-product.mjs
 node scripts/validate-visual-output.mjs
+node scripts/validate-report-images.mjs --dist
 node scripts/validate-public-prose.mjs
 
 # Analytics is optional and never blocks publishing research.
