@@ -149,7 +149,7 @@ A tax on robots is often presented as a simple financing solution. Yet the tax b
 
 Brazil's stakes differ from those of the economies that develop most frontier models. Many Brazilian workers are in services, commerce, logistics, agriculture, industry, public administration and informal activities whose tasks, connectivity and capital intensity vary widely. A cheap Portuguese-language assistant may improve small-business administration or access to public information without replacing a full worker. At the same time, professional services, software entry roles and outsourced business processes may face greater direct competition from automation.
 
-The IBGE's PNAD Contínua recorded a 5.3% unemployment rate in the moving quarter ending August 2026. That is a national labour-market observation, not a measure of AI displacement. To investigate a Brazilian AI effect, researchers would need to combine PNAD, formal-employment and wage microdata, sectoral adoption, enterprise surveys and occupational task changes, while controlling for interest rates, regional trends, labour demand and the business cycle. Announcing a national AI unemployment crisis from one aggregate rate would be as unjustified as using low unemployment to dismiss a possible loss of junior opportunities. [11]
+The IBGE's PNAD Contínua recorded a 5.2% unemployment rate in the moving quarter ending September 2026, released on 30 October. That is a national labour-market observation, not a measure of AI displacement. To investigate a Brazilian AI effect, researchers would need to combine PNAD, formal-employment and wage microdata, sectoral adoption, enterprise surveys and occupational task changes, while controlling for interest rates, regional trends, labour demand and the business cycle. Announcing a national AI unemployment crisis from one aggregate rate would be as unjustified as using low unemployment to dismiss a possible loss of junior opportunities. [11]
 
 Brazil also has policy options broader than subsidising foreign-owned data centres. It can evaluate the return on digital infrastructure, technical education, independent research, open language resources, public procurement, SME adoption and the extension of productive technology to agribusiness and manufacturing. Each option has a different route into wages and productive capacity. For social protection, reforms must start with the existing budget, eligibility systems, tax incidence and constraints of municipal service provision. It is not analytically defensible to finance a hypothetical universal grant with a hypothetical future tax on models whose taxable profit has not yet appeared in Brazil.
 
@@ -231,7 +231,7 @@ The correct editorial position is neither to celebrate frictionlessness nor to r
 
 [10] United Nations Web TV, Security Council 10228th meeting, 23 September 2026: https://webtv.un.org/en/asset/k1e/k1ehru4okj
 
-[11] Instituto Brasileiro de Geografia e Estatística, PNAD Contínua, August 2026: https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html
+[11] Instituto Brasileiro de Geografia e Estatística, PNAD Contínua, September 2026, released 30 October: https://www.ibge.gov.br/estatisticas/sociais/trabalho/2511-np-pnadcontinua/17270-pnad-continua.html?edicao=37526
 
 [12] NATO, *Innovation and technology adoption*, updated 8 July 2026: https://nato.int/en/what-we-do/deterrence-and-defence/emerging-and-disruptive-technologies
 
