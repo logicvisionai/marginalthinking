@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY",
+  "slug": "2026-11-02-paleolithic-economy-technology-cooperation-risk-networks",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T22:21:00-03:00",
+  "kind": "historical-civilizations-research",
+  "priority": 60,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-02-paleolithic-economy-technology-cooperation-risk-networks/en.md",
+      "title": "Before cities and markets: the political economy of survival in the Paleolithic",
+      "deck": "Comparative archaeological investigation of production, energy, cooperation, food risk, material exchange, social organization and power before farming, from earliest lithic technologies to Late Pleistocene foragers.",
+      "tags": [
+        "Paleolithic economy",
+        "prehistoric cooperation",
+        "early stone tools",
+        "food security",
+        "hominin evolution",
+        "hunter-gatherer networks",
+        "inequality",
+        "archaeological political economy"
+      ],
+      "keywords": [
+        "Lomekwi 3",
+        "Nyayanga Oldowan",
+        "Olorgesailie obsidian",
+        "Neumark-Nord Neanderthals",
+        "Sunghir Upper Paleolithic",
+        "Madjedbebe",
+        "archaeological inequality",
+        "food sharing",
+        "hunter gatherer social networks"
+      ],
+      "regime": "Diverse Pleistocene foraging systems organize production, risk management, material access and social cooperation without presupposing states or monetary markets.",
+      "key_risk": "Treating first archaeological appearances as dates of universal invention, or projecting modern states, prices, gender roles and class structures onto fragmentary evidence.",
+      "watch": [
+        "New dates and stratigraphic revisions for Lomekwi, Nyayanga and Olorgesailie",
+        "Archaeological arguments about fire manufacture versus controlled use",
+        "Alternative readings of Sunghir burials and inequality proxies",
+        "Further palaeoclimate and material sourcing evidence",
+        "Limits of ethnographic analogy across time"
+      ],
+      "search_text": "Paleolithic economic history human evolution prehistory technology early tools food gathering cooperative hunting sharing mobility inequality political authority obsidian fire social networks archaeology"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-02-paleolithic-economy-technology-cooperation-risk-networks/pt-BR.md",
+      "title": "Antes das cidades e dos mercados: a economia política da sobrevivência no Paleolítico",
+      "deck": "Investigação arqueológica comparativa da produção, energia, cooperação, risco alimentar, circulação de materiais, organização social e poder antes da agricultura, das primeiras ferramentas ao Pleistoceno tardio.",
+      "tags": [
+        "Economia paleolítica",
+        "cooperação pré-histórica",
+        "ferramentas de pedra",
+        "segurança alimentar",
+        "evolução humana",
+        "redes de caçadores-coletores",
+        "desigualdade",
+        "economia política arqueológica"
+      ],
+      "keywords": [
+        "Lomekwi 3",
+        "Nyayanga Olduvaiense",
+        "obsidiana Olorgesailie",
+        "neandertais Neumark-Nord",
+        "Sunghir Paleolítico Superior",
+        "Madjedbebe",
+        "desigualdade arqueológica",
+        "partilha de alimentos",
+        "redes sociais caçadores coletores"
+      ],
+      "regime": "Sistemas coletores diversos durante o Pleistoceno organizam produção, risco, acesso a materiais e cooperação sem pressupor Estados ou mercados monetários.",
+      "key_risk": "Tratar primeiras evidências arqueológicas como datas de invenção universal ou projetar Estados, preços, papéis sexuais e classes modernos em vestígios fragmentários.",
+      "watch": [
+        "Novas datações e revisões estratigráficas de Lomekwi, Nyayanga e Olorgesailie",
+        "Distinção arqueológica entre produção e uso controlado do fogo",
+        "Interpretações concorrentes sobre Sunghir e indicadores de desigualdade",
+        "Novas evidências paleoclimáticas e origem de matérias-primas",
+        "Limites da analogia etnográfica entre períodos"
+      ],
+      "search_text": "Paleolítico história econômica pré-história evolução humana tecnologia ferramentas antigas alimentação caça cooperativa partilha mobilidade desigualdade autoridade política obsidiana fogo redes sociais arqueologia"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "technology-innovation",
+    "demography-labor",
+    "inequality-distribution",
+    "institutions-governance",
+    "social-change",
+    "commodities-resources"
+  ],
+  "phenomena": [
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "related_research_ids": [
+    "MT-PE-2026-10-24-FEUDAL",
+    "MT-PE-2026-10-24-MEDIEVAL"
+  ],
+  "contrary_evidence": [
+    "The same lithic material can arise from mobility, direct procurement or exchange; no unique monetary or legal regime follows from geochemical sourcing.",
+    "Grave gifts and conspicuous burials are not equivalent to a community-wide distribution of land title, income or durable elite power.",
+    "Ethnographic behavior of modern foragers generates hypotheses and is not direct observation of Pleistocene societies.",
+    "Environmental variability is a plausible contributor to technological change but cannot alone demonstrate why specific innovations spread.",
+    "The fire-making claim at Barnham is distinct from older and differently assessed claims about controlled fire use."
+  ],
+  "limitations": [
+    "Archaeological visibility is uneven and biased toward durable materials, excavated sites and particular burial practices.",
+    "Dates are approximate site-specific archaeological first appearances, not universal human milestones.",
+    "The chart compares only documented antiquities using millions of years before present; it is not a measure of technological sophistication or evolutionary progress.",
+    "Ancient DNA and present-day ethnography cover selected groups and should not be generalized to the entire Paleolithic.",
+    "Numerical GDP, income inequality, population and wage series are deliberately absent for prehistoric periods due to lack of comparable observations."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2 November 2026; source literature spanning 2011–2026 and source-specific dating conventions; no fast-moving contemporary incident claims.",
+    "editorial_novelty": "First case in the historical civilizations editorial line; research starts before agricultural settlement, examines economic production, material circulation, political limits and social differentiation with testable alternatives.",
+    "visual_signature": "Two substantive bilingual-parallel evidence/comparison tables, one four-observation dated-technology bar chart (3.3, 2.9, 1.76, 0.32 million years), one two-line causal flow and one seven-region archaeological map.",
+    "source_check": "17 matching academic or institutionally documented URLs in both editions; primary journal papers and abstracts for stone tools, exchange, fire, cooperation, social organization, gender and inequality.",
+    "bilingual_parity": "16 equivalent heading sections including source notes, same 17 source URLs, matching chart values and cases, same visual types and conclusions.",
+    "research_depth": "English approximately 4,335 words / 31,996 characters; Portuguese approximately 4,635 words / 34,393 characters, each substantially above mandatory 8,000 substantive characters.",
+    "methodology": "Source triangulation via stratigraphy, lithic studies, isotope sourcing, palaeoecology, ancient DNA, comparative ethnography and explicit nonidentification of modern economic institutions where evidence cannot show them."
+  }
+}
