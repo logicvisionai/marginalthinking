@@ -1,5 +1,6 @@
 import {esc, slug, inline} from './markup.mjs';
 import {renderVisual, renderTable, renderFlow} from './research-visuals.mjs';
+import {renderReportImage, parseImageBlock} from './report-images.mjs';
 export {esc, slug} from './markup.mjs';
 
 function split(line=''){let s=line.trim();if(s.startsWith('|'))s=s.slice(1);if(s.endsWith('|'))s=s.slice(0,-1);return s.split('|').map(x=>x.trim());}
@@ -8,9 +9,9 @@ function block(lines,i){const l=(lines[i]||'').trim(),n=(lines[i+1]||'').trim();
 export function renderMarkdown(md='',options={}){
   const locale=options.locale||'en',notes=new Map(),lines=[];
   for(const line of md.replace(/\r/g,'').split('\n')){const m=line.match(/^\[\^([^\]]+)\]:\s*(.*)$/);m?notes.set(m[1],m[2]):lines.push(line);}
-  const out=[],toc=[];let i=0,seenH1=false,sectionTitle='';
+  const out=[],toc=[];let i=0,seenH1=false,sectionTitle='',imageNumber=options.imageStart||1;
   while(i<lines.length){const l=lines[i].trim();if(!l){i++;continue;}
-    const f=l.match(/^```([^\s]*)\s*$/);if(f){const c=[];i++;while(i<lines.length&&!/^```\s*$/.test(lines[i].trim()))c.push(lines[i++]);i++;out.push(renderVisual(f[1].toLowerCase(),c,locale));continue;}
+    const f=l.match(/^```([^\s]*)\s*$/);if(f){const c=[];i++;while(i<lines.length&&!/^```\s*$/.test(lines[i].trim()))c.push(lines[i++]);i++;if(f[1].toLowerCase()==='image'){out.push(renderReportImage(parseImageBlock(c),locale,{number:imageNumber++,expectedSlug:options.reportSlug}));}else out.push(renderVisual(f[1].toLowerCase(),c,locale));continue;}
     const h=l.match(/^(#{1,4})\s+(.+)$/);if(h){let level=h[1].length;const text=h[2].trim();if(level===1){if(!seenH1){seenH1=true;i++;continue;}level=2;}sectionTitle=text;const id=slug(text);if(level===2)toc.push({id,text});out.push(`<h${level} id="${id}">${inline(text)}</h${level}>`);i++;continue;}
     if(/^[-*_]{3,}$/.test(l)){out.push('<hr>');i++;continue;}
     if(l.includes('|')&&separator((lines[i+1]||'').trim())){const heads=split(l),rows=[];i+=2;while(i<lines.length&&lines[i].trim()&&lines[i].includes('|'))rows.push(split(lines[i++]));out.push(renderTable(heads,rows,locale,''));continue;}
