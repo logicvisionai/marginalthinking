@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "checked_at": "2026-11-03T08:02:26.761Z",
+  "scope": "All 30 active editorial lines in the current 3 Nov main registry reviewed after verifying MT-GM-2026-11-03 r1 is QA-approved and publicly bundled. Evidence is bounded by the macro's 3 Nov 01:45 BRT cutoff plus already released primary documents; this is not a claim that all events worldwide were observed.",
+  "registry_updated_at": "2026-11-03T02:37:32.551Z",
+  "registry_blob_sha": "11fbaa9963be3fbee866e04c5553b060f4ed7dfd",
+  "registry_head_at_review": "790cd53ec9c65afb63fbe7ec50034577932c13ed",
+  "reviewed_line_count": 30,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "already_published",
+      "note": "MT-GM-2026-11-03 r1 already staged, independently QA-approved and publicly bundled on main. Nov 2 completed ISM 55.5, prices-paid 75.2, Brent settlement $104.77 (-7.63%), Nasdaq -1.07%, euro-area PMI 52.7 and France 49.5 form today's novel macro evidence. No duplicate ID."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_existing",
+      "note": "US equity-sector divergence and an AI debt financing announcement do not establish net beneficial-owner capital transfers or a new weekly cross-border allocation series. Weekly ownership and flow analysis remains with 2/5."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Uzbekistan's Oct 27 $371m substation-modernization programme is an observable financing/infrastructure signal, not evidence that jobs, generation or energy reliability have already improved. Candidate belongs to Atlas discovery, not a full transition dossier today."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "US, Brazil, China, France and Uzbekistan signals are dated, but no independently documented country-wide structural transformation beyond existing dossiers warrants another country context publication."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_existing",
+      "note": "Korean electrical-equipment exports and US AI debt financing are financial/industrial indicators, not a measured AI capability jump. Existing Nov 1 grid-equipment signal and Nov 3 algorithmic-culture staging should not be duplicated."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No new audited AI infrastructure utilization, project returns, model capability or grid commissioning since previous monitoring. US corporate financing announcement is not an independently measured technology maturity change."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Nov 2 oil futures fell on attributed Iran diplomacy reports, but no verified signed peace or normal Hormuz cargo/insurance series; treat logistics outcomes as conditional, not an observed end to conflict."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "OPEC+ production requirements and diplomatic reporting identify official actors and commitments, not beneficial control, physical shipments or newly evidenced actor-network change."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "Fed Oct 28, ECB Oct 29 and BoJ Oct 30 decisions are dated prior observations; Brazil's Nov 4 Copom decision and US Nov 3 election outcome are not known at the macro cutoff. No separate daily institutional monitor."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "OPEC+ Nov 1 required production, Fed/ECB settings and upcoming Brazil Copom are classified as decision, prior policy or scheduled event respectively. No new enacted institutional redesign established after the macro cutoff."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Uzbekistan Oct 27 World Bank $100m/ADB $200m/Uzbek $71m programme has projected outcomes; no completed counterfactual policy evaluation or measured 2031 savings."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Credit-funded AI investment and high US input-price diffusion raise financing and inflation questions but do not demonstrate a new institutional market-design regime or policy experiment."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Market valuations, AI capex plans and sovereign financing announcements cannot be converted into monthly ownership stocks or proven wealth redistribution without holdings and flow disclosures."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No new harmonized annual census of ownership, sovereign assets or strategic resources; avoid manufacturing an annual map from a daily market close."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "World Bank/ADB cofinancing in Uzbekistan uses a Full Mutual Reliance Framework, an institutional arrangement, but no new observed systemic outcomes or mandate change justifies separate institution research today."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Central Asia's regional electricity market is an earlier World Bank programme (Jan 22); Uzbekistan's Oct 27 national grid investment is not evidence of newly operating cross-border power trade."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_existing",
+      "note": "AI financing/attention concerns and algorithmic social-change research already have Nov 3 staging. No additional causal labor-displacement or income-distribution estimate verified for a second essay."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "FAO InFARM surveillance is not food-price or nutrition outcome data; no new harmonized Nov 3 pesticide-exposure, diet quality, affordability or livestock productivity series established. Distinguish hazard from measured exposure."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "FAO 2026 InFARM submission window runs Jul 20–Nov 30 for 2015–2025 animal/food AMR data; submission call is not a new observed prevalence series. No newly verified herd-management, pesticide residue or biological/chemical weapons governance outcome."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "US midterm voting and Iran-related diplomatic reports do not establish imminent interstate war. Any escalation pathway requires attributed military deployment, logistics and independently dated evidence."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_existing",
+      "note": "WHO's Oct 23 Ebola Bundibugyo bulletin and existing Oct 26 staged thematic report are not superseded by a newly verified Nov 3 surveillance vintage in this pass; no duplicate outbreak article."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No newly authenticated archival document or scholarly revision today changes existing long-run political-intellectual arguments. Preserve historical dossier research instead of recycling current market observations."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "OPEC+ Nov 1 required barrels, Nov 2 oil futures and Uzbekistan's Oct 27 planned 60-substation upgrade are separate physical, financial and prospective series; no new commissioned capacity is observed."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "US Nov 3 midterm voting is scheduled at 01:45 BRT information cutoff; results and fiscal/regulatory consequences are conditional. Prior Brazil election analysis exists; no new outcome claimed."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "No newly verified mineral reserve certification, export restriction or beneficial ownership transfer in the scan. OPEC+ quotas do not prove delivered physical oil or strategic inventory stocks."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Uzbekistan grid financing is not an Itaipu policy decision or commissioned datacenter MW; AI equipment exports and announced loans do not prove physical energy availability."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Oil futures and Iran diplomacy imply potential Hormuz freight risk but no independently dated Nov 3 tanker volumes, marine insurance or port throughput were established. Avoid conflating announced quotas and cargo deliveries."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No newly comparable global inventory series across oil stocks, staple-food reserves, strategic minerals and medical supplies; FAO food prices and OPEC output requirements are not stock counts."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_existing",
+      "note": "Prehistory and forager/civilization research already entered Nov 2 corpus/staging. No new dated archaeological primary finding establishes a different economic, social or institutional causal mechanism for a new chapter today."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_existing",
+      "note": "Nov 3 algorithmic attention/power/social-conflict staging and prior accelerationism corpus cover the active line. New market observations do not independently prove a novel social transformation; avoid duplicating editorial surveillance."
+    }
+  ],
+  "thematic_selection": {
+    "selected": null,
+    "reason": "No independently sourced incremental systemic thesis beyond today's already published Global Macro and existing Nov 3 algorithmic/other research staging; prevent duplicate article and avoid presenting old primary evidence as a new release."
+  },
+  "primary_sources_reviewed": [
+    {
+      "name": "Institute for Supply Management, October 2026 Manufacturing PMI",
+      "date": "2026-11-02",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"
+    },
+    {
+      "name": "OPEC, production requirements",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "US Federal Reserve FOMC statement",
+      "date": "2026-10-28",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "name": "European Central Bank monetary policy statement",
+      "date": "2026-10-29",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+    },
+    {
+      "name": "B3 Finados holiday market calendar",
+      "date": "2026-10-30",
+      "url": "https://b3.com.br/pt_br/noticias/confira-o-funcionamento-da-b3-no-feriado-de-finados.htm"
+    },
+    {
+      "name": "World Bank Uzbekistan substations cofinancing approval",
+      "date": "2026-10-27",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo"
+    },
+    {
+      "name": "World Bank Uzbekistan programme appraisal document P514733",
+      "date": "2026-10-27",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100626115027680"
+    },
+    {
+      "name": "FAO 2026 InFARM antimicrobial resistance data call",
+      "date": "2026-07-27",
+      "url": "https://www.fao.org/members-gateway/news/detail/en/c/1760280/"
+    },
+    {
+      "name": "OPCW CSP-31 conference calendar",
+      "date": "2026-11-23",
+      "url": "https://www.opcw.org/calendar/csp"
+    },
+    {
+      "name": "WHO global cholera, meningitis and plague surveillance summary",
+      "date": "2026-09-29",
+      "url": "https://www.who.int/marshallislands/news/detail-global/29-09-2026-who-reports-latest-global-trends-in-cholera--meningitis-and-plague"
+    },
+    {
+      "name": "Republic of Korea October 2026 trade release",
+      "date": "2026-11-01",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view"
+    },
+    {
+      "name": "World Bank Central Asia REMIT regional power programme",
+      "date": "2026-01-22",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/01/22/central-asia-regional-electricity-market-interconnectivity-and-trade-program"
+    }
+  ],
+  "limitations": [
+    "No independent contemporaneous physical oil cargo/insurance series verified; futures do not prove physical supply.",
+    "No new harmonized nutrition, pesticide exposure, animal AMR prevalence or global strategic inventory vintage for 3 Nov.",
+    "Several sources predate the scan and serve structural context, not newly published 3 Nov observations.",
+    "Future US midterm results, Brazil Copom decision and November 4 euro-area inflation release not treated as observed.",
+    "No separate thematic product staged; existing 3 Nov thematic research is outside this daily producer's duplicate allowance."
+  ]
+}
