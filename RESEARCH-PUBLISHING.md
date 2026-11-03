@@ -15,6 +15,7 @@ Every publication must comply with:
 - [`TECHNOLOGY-SIGNALS.md`](./TECHNOLOGY-SIGNALS.md) for weekly technology-signal research and monthly Strategic Technology Assessments;
 - [`CONFLICT-SECURITY-SOCIAL-CHANGE.md`](./CONFLICT-SECURITY-SOCIAL-CHANGE.md) whenever conflict, security or social-change phenomena are materially relevant;
 - [`RESEARCH-VISUALS.md`](./RESEARCH-VISUALS.md) for the visual-evidence contract.
+- [`RESEARCH-IMAGES.md`](./RESEARCH-IMAGES.md) for original and third-party report photography, illustrations, attribution, bilingual media metadata and asset integrity.
 
 The publication invariant is:
 
