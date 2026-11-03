@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T13:21:00Z",
+  "last_reconciled_at": "2026-11-03T13:39:00Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8165,6 +8165,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Early Holocene cultivation, drainage engineering and animal management are documented archaeological technologies, not new modern claimed/demonstrated/deployed/scaled technology milestones tracked by the ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-catalhoyuk-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T13:39:00Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-03-CATALHOYUK-HOUSEHOLDS"
+      ],
+      "audit_note": "Atomic publisher promotion of SHA-approved Çatalhöyük research revision 1, with all active required system assets reconciled. Historical archaeological evidence is not used to fabricate modern dependencies, events, projects or strategic control.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Çatalhöyük prehistoric obsidian provenance documents archaeological exchange, not a new verified contemporary international supply-chain exposure or measurable bilateral dependency."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Ancient house repairs, grain storage and exchange materials do not represent an investable modern project with named owner, funding structure, completion horizon and return data."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Social and maternal-line networks of people buried in Neolithic houses cannot be inserted as verified modern corporate control, voting, ownership or contractual edges."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Neolithic grazing, farming and volcanic obsidian use do not change present-day mineral reserves, concessions, licensing, resource ownership or offtake control datasets."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Household ritual, historic inequality and sanitation hypotheses are not a newly implemented contemporary policy intervention with a verified measurable causal outcome."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Healed skeletal cranial trauma over prehistoric centuries does not constitute a newly dated geolocated modern armed-conflict event with accountable actor, casualties or escalation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Neolithic plastering, roof circulation, stone blades and granaries are archaeological technologies, not new present-day demonstrated/deployed/scaled technology signals."
         }
       ]
     }

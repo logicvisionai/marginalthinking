@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-03-CATALHOYUK-HOUSEHOLDS",
+  "slug": "2026-11-03-catalhoyuk-households-ritual-inequality-kinship",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T10:36:20-03:00",
+  "kind": "historical-civilizations-research",
+  "priority": 60,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "commodities-resources",
+    "institutions-governance",
+    "inequality-distribution",
+    "demography-labor",
+    "social-change",
+    "trade-investment"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "related_research_ids": [
+    "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY",
+    "MT-PE-2026-11-02-FORAGER-TERRITORY",
+    "MT-PE-2026-11-03-NEOLITHIC-TRANSITIONS"
+  ],
+  "contrary_evidence": [
+    "Çatalhöyük 2024 20-building sample finds no enduring institutionalized wealth hierarchy but does identify temporary inequality and differentiated access to non-staple goods.",
+    "131 sampled ancient genomes in the 2025 Science study demonstrate maternal-line connections and changing burial-house kinship; they do not directly prove a female government, legal inheritance rules or universally sex-biased community migration.",
+    "2019 PNAS cranial injury observations (25 of 93, 12 with repeat injuries) identify interpersonal harm but do not identify state police, a professional army or the motives for each injury.",
+    "Subperiosteal skeletal reactions decrease 33%, 26%, 19% across Early/Middle/Late samples despite maximal crowding in Middle phase; density cannot be the sole infection mechanism.",
+    "Eastern Anatolian obsidian came from sources over 600 km away; geology does not reveal whether exchange used marriage, gifts, merchant intermediaries or direct travel.",
+    "UNESCO heritage East Mound occupation 7400–6200 BCE differs from detailed analytical period convention 7100–5950 cal BCE; different models and strata should remain explicit."
+  ],
+  "limitations": [
+    "The UNESCO 37-hectare property includes both mounds and cannot be interpreted as the simultaneously occupied settlement area or a population census.",
+    "The plotted 400, 200 and 550 year phase lengths derive from coarse published analytical boundaries, not independently determined occupation lengths of every building.",
+    "Two health charts show different osteological indicators and denominators; values must not be pooled into a sitewide disease incidence rate.",
+    "Cranial injuries with recurrent trauma are a subset of the 25 injured individuals among 93 analyzed; the chart bars cannot be added.",
+    "Gini-style archaeological household proxies from 20 comparatively excavated buildings are not observed currency income distributions.",
+    "Ancient genetic kinship captures biological relations among sampled buried people, not adoption legal status, religious offices or political leadership.",
+    "Obsidian-source provenance is not direct evidence of a trade contract, merchant expedition or market price.",
+    "Source verification is based on directly accessible academic sources and cited summaries, not external scholarly peer review."
+  ],
+  "producer_checks": {
+    "information_cutoff": "3 November 2026, America/Sao_Paulo. Includes academic research published in 2019, 2024, 2025 and a 2026 synthesis on matrilocality; literature sources all visible and individually identified in bilingual bibliography.",
+    "editorial_novelty": "Fourth scheduled study (Block A item 4), a geographically focused Çatalhöyük monograph distinct from prior worldwide forager mobility and Neolithic origins comparative dossiers.",
+    "visual_signature": "Four matching charts per language: Early/Middle/Late phases [400,200,550] years, skeletal lesion prevalence [33,26,19] %, dental caries by period and sex [10.5,9.7,12.9,10.0,10.4,11.0] %, cranial trauma sample non-additive [25,12] of 93; one evidence-limit matrix, four-chain causal diagram, seven-region evidence map.",
+    "source_check": "17 equivalent bibliography URLs in both versions across 10 independent hosts. Core numbers cross-checked in Larsen et al. PNAS 2019, Twiss et al. PLOS ONE 2024, Yüncü et al. Science 2025 and UNESCO heritage; obsidian provenance checked against archaeological journal abstracts.",
+    "bilingual_parity": "22 substantive sections and 1 bibliography each; matching 17 URLs and citation numbering, 4 identical numeric chart series, same major factual and methodological qualifications, equivalent table, map and flow.",
+    "research_depth": "Each locale has over 5,400 substantive words and 42,000 characters, 22 chapters, critical comparison of contrary archaeological interpretations and auditable numeric charts.",
+    "methodology": "Stratigraphic, bioarchaeological, paleogenomic, archaeological-architecture, dietary and geoarchaeological analysis. Separate observable quantities from hypotheses of property, authority, migration, inequality, political coercion and ritual meaning."
+  },
+  "url": "/reports/2026/11/2026-11-03-catalhoyuk-households-ritual-inequality-kinship.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-03T13:36:20Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "6bb74c25982cda36e5a9a8416ce424cf3ddb1503",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Çatalhöyük: houses, kinship, ritual and power in a Neolithic society without a documented state",
+      "deck": "A detailed social, economic and political reconstruction of Çatalhöyük: food and household production, rooftop architecture, kinship DNA, burial and ritual, interpersonal violence, health costs, obsidian exchange and the evidence for episodic rather than institutionalized inequality.",
+      "tags": [
+        "Çatalhöyük",
+        "Neolithic house societies",
+        "household economy",
+        "Anatolian archaeology",
+        "female-line kinship",
+        "matrilocality evidence",
+        "inequality",
+        "ritual and burial",
+        "health and infection",
+        "obsidian trade",
+        "history houses",
+        "prehistoric power"
+      ],
+      "keywords": [
+        "Çatalhöyük PNAS 2019 skeletal infection",
+        "Çatalhöyük Science 2025 maternal genetic kinship",
+        "Çatalhöyük PLOS ONE 2024 inequality",
+        "Çatalhöyük houses roof access and burial",
+        "Çatalhöyük 25 of 93 cranial trauma",
+        "Çatalhöyük 131 genomes 2025",
+        "Çatalhöyük Cappadocia obsidian 600 km",
+        "Çatalhöyük Neolithic household history",
+        "Çatalhöyük goddess figurines archaeology"
+      ],
+      "regime": "Neolithic Çatalhöyük combined agricultural production, enduring house histories, maternal-line social relationships, selective access to prestige goods and recurring ritual, but the excavated evidence does not establish a permanent state-level hierarchy or universal economic equality.",
+      "key_risk": "Conflating female-line genetic relationships with legal matriarchy, cranial trauma with organized armies, household food stores with state taxation, and Gini-like archaeological proxies with measured incomes or enduring class structure.",
+      "watch": [
+        "New stratigraphy and dates linking East and West Mound occupation",
+        "Ancient DNA integration with burial and diet over consecutive periods",
+        "Household-scale storage versus interhousehold obligations",
+        "Revision of the 2024 multi-proxy inequality sample",
+        "Obsidian provenance and competing exchange-network models",
+        "Health, infection and interpersonal trauma datasets"
+      ],
+      "search_text": "Çatalhöyük Neolithic Anatolia households architecture rooftop access agriculture grain storage sheep goats burials DNA maternal line matrilocality 2025 inequality 2024 health trauma 2019 obsidian Gini ritual houses politics economy"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Çatalhöyük: casas, parentesco, rituais e poder numa sociedade neolítica sem Estado documentado",
+      "deck": "Reconstrução econômica, social e política de Çatalhöyük: produção e alimentação domésticas, arquitetura sobre telhados, DNA e parentesco, sepultamentos e rituais, violência, saúde, trocas de obsidiana e desigualdade episódica em vez de hierarquia institucionalizada.",
+      "tags": [
+        "Çatalhöyük",
+        "sociedades neolíticas de casas",
+        "economia doméstica",
+        "arqueologia anatólica",
+        "linhagens maternas",
+        "evidências de matrilocalidade",
+        "desigualdade",
+        "ritos e sepultamentos",
+        "saúde e infecção",
+        "comércio de obsidiana",
+        "história das casas",
+        "poder pré-histórico"
+      ],
+      "keywords": [
+        "Çatalhöyük PNAS 2019 infecção óssea",
+        "Çatalhöyük Science 2025 parentesco materno",
+        "Çatalhöyük PLOS ONE 2024 desigualdade",
+        "Çatalhöyük telhados casas e sepultamentos",
+        "Çatalhöyük 25 de 93 trauma craniano",
+        "Çatalhöyük 131 genomas 2025",
+        "Çatalhöyük obsidiana Capadócia 600 km",
+        "Çatalhöyük história das casas",
+        "Çatalhöyük estatuetas deusa mãe arqueologia"
+      ],
+      "regime": "Çatalhöyük combinava agricultura, memórias duradouras das casas, relações sociais por linhagens maternas, acesso diferenciado a bens de prestígio e rituais recorrentes, sem que a evidência comprovasse hierarquia estatal permanente nem igualdade econômica universal.",
+      "key_risk": "Confundir vínculos genéticos maternos com matriarcado jurídico, traumatismos com exércitos organizados, estoques domésticos com tributação e indicadores arqueológicos semelhantes ao Gini com renda medida ou estrutura de classes permanente.",
+      "watch": [
+        "Novas estratigrafias e datações da passagem entre montes oriental e ocidental",
+        "Integração do DNA antigo com sepultamento e dieta por períodos",
+        "Armazenagem doméstica e obrigações entre casas",
+        "Revisões das amostras multivariáveis de desigualdade de 2024",
+        "Origem de obsidiana e mecanismos concorrentes de troca",
+        "Bases de saúde, infecção e trauma interpessoal"
+      ],
+      "search_text": "Çatalhöyük Neolítico Anatólia casas arquitetura telhado agricultura grãos estoques cabras ovelhas sepultamentos DNA linhagens maternas matrilocalidade 2025 desigualdade 2024 saúde violência 2019 obsidiana Gini religião economia política"
+    }
+  }
+}
