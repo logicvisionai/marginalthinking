@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "checked_at": "2026-11-03T08:02:59.715Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-03",
+  "candidate_ids": [
+    "2026-11-03-uzbekistan-grid-substation-modernization"
+  ],
+  "coverage_summary": "Once-daily primary-source discovery across energy, infrastructure, grid capacity, logistics, production, regulation, capital access and institutions. The 27 Oct World Bank/ADB Uzbekistan US$371m programme is a distinct recent 60-substation grid-upgrade candidate. Cross-checked against 2025 distribution programme and 2026 REMIT regional market to avoid double-counting. Other screened signals: 2 Nov US ISM, 1 Nov OPEC+ output requirements, 15 Oct DRIVE Asian energy fund, Korea electrical equipment exports, FAO InFARM surveillance and OPCW scheduled governance conference. No proof of commissioned Uzbek MW or 3 Nov newly enacted financing.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank, 27 October 2026 financing approval and 60-substation targets",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "World Bank, Programme Appraisal Document P514733, dated 30 September, disclosed 27 October 2026",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100626115027680",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "World Bank, distinct 2025 distribution-network modernization programme (do not double-count)",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/05/15/uzbekistan-to-invest-in-modernizing-electricity-distribution-networks-with-world-bank-support",
+      "date": "2025-05-15"
+    },
+    {
+      "name": "World Bank, distinct Central Asia REMIT regional electricity market programme",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/01/22/central-asia-regional-electricity-market-interconnectivity-and-trade-program",
+      "date": "2026-01-22"
+    },
+    {
+      "name": "OPEC, Nov 1 oil production requirements (not physical delivery)",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "World Bank/Japan DRIVE Asia first project, previously discovered 2 Nov",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    },
+    {
+      "name": "FAO 2026 InFARM animal/food AMR submission call",
+      "date": "2026-07-27",
+      "url": "https://www.fao.org/members-gateway/news/detail/en/c/1760280/"
+    }
+  ],
+  "review_limitations": [
+    "Uzbekistan programme approval 27 Oct is older than the 3 Nov discovery date; not a newly approved 3 Nov loan.",
+    "World Bank/ADB US$371m total includes $100m World Bank, $200m ADB and $71m government budget; actual disbursements unknown.",
+    "Projected 3.3 GW renewable integration, 20,000 MWh annual loss savings, 11,700 jobs and 60 upgraded substations are not realized outputs.",
+    "No primary measured post-project baseline or signed substation procurement contracts independently inspected.",
+    "No modification to data/structural-opportunities.json or data/structural-opportunity-history.json."
+  ]
+}

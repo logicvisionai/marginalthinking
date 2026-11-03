@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-11-03T08:02:59.715Z",
+  "candidate": {
+    "id": "2026-11-03-uzbekistan-grid-substation-modernization",
+    "country": {
+      "code": "UZB",
+      "name": "Uzbekistan"
+    },
+    "previous_state": null,
+    "proposed_state": "blocking_inefficiency",
+    "perspective": "Independent renewable generation developers, industrial electricity users and national grid planners facing overloaded substations and delayed access to reliable power; not a recommendation to invest in Uzbek securities.",
+    "structural_condition": "Aged and overloaded high-voltage substations restrict network reliability and renewable-power integration. A newly approved financing package targets modernization and digitalization of 60 substations, but construction and realized loss reductions have not been established.",
+    "delta": "The World Bank approved US$100 million on 27 October 2026 for the Modernization of Electricity Distribution Systems Program under a Full Mutual Reliance Framework with the Asian Development Bank. ADB had approved US$200 million on 30 September and Uzbekistan contributes US$71 million, making US$371 million in stated programme financing. World Bank forecasts by 2031: 60 modernized substations, 20,000 MWh/year fewer losses in renovated substations, and grid integration capacity for at least 3.3 GW of renewables. These are financing decisions and targets, not disbursement or completed assets. First discovered for this Atlas scan 3 November, not a 3 November project approval.",
+    "mechanism": "Rehabilitation of substations and higher transformation/digital-control capability can reduce technical losses and network constraints that block electricity deliveries. If commissioned and properly operated, greater reliability can improve industrial utilization and make more renewable projects connectable; the effects depend on procurement, grid engineering, tariff collection, construction, dispatch and measured reliability.",
+    "catalysts": [
+      "Procurement and implementation notices identifying the 60 substations, milestones, contract awards and construction start dates.",
+      "Audited loan effectiveness and disbursement under the World Bank/ADB financing package; no automatic equation of approval and expenditure.",
+      "Verified pre/post technical losses in MWh, outage frequency/duration and connected renewable MW against explicit baselines.",
+      "Independent commissioning and actual energy dispatch rather than the 3.3 GW programme target; evidence of grid-user cost and reliability effects."
+    ],
+    "invalidation": "Substation works are delayed, cancelled or poorly integrated; loan disbursements lag; renewable projects cannot secure connection despite rehabilitation; verified losses, reliability or access do not improve against baseline after commissioning.",
+    "confidence": "high for dated financing approval and official project design; low for future operating and employment impact",
+    "materiality": "medium-high",
+    "related_atlas_ids": [],
+    "evidence": [
+      {
+        "name": "World Bank, 27 October 2026 financing approval and 60-substation targets",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo",
+        "date": "2026-10-27"
+      },
+      {
+        "name": "World Bank, Programme Appraisal Document P514733, dated 30 September, disclosed 27 October 2026",
+        "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100626115027680",
+        "date": "2026-10-27"
+      },
+      {
+        "name": "World Bank, distinct 2025 distribution-network modernization programme (do not double-count)",
+        "url": "https://www.worldbank.org/en/news/press-release/2025/05/15/uzbekistan-to-invest-in-modernizing-electricity-distribution-networks-with-world-bank-support",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "World Bank, distinct Central Asia REMIT regional electricity market programme",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/01/22/central-asia-regional-electricity-market-interconnectivity-and-trade-program",
+        "date": "2026-01-22"
+      }
+    ],
+    "status": "discovery_watch",
+    "horizon": "2026–2031, subject to project execution and independently observed outputs",
+    "evidence_stage": "Board-approved cofinancing and official project appraisal; no verified commissioning, incremental connected renewable GW or measured annual savings yet.",
+    "last_verified_at": "2026-11-03",
+    "disclosure_limitations": "US$371m is a programme financing package, not evidence of full disbursement. 60 substations, 3.3 GW, 20,000 MWh/year losses and 11,700 estimated jobs are prospective targets or modelled outcomes, not observed changes. The separate 2025 REPN programme and Jan 2026 REMIT regional market must not be counted as components of the Oct 2026 NEGU project without documentary linkage.",
+    "contrary_evidence": [
+      "An earlier May 2025 World Bank-supported programme also targeted Uzbek electricity distribution, so attribution of national reliability changes to this new 2026 project will require project-level separation.",
+      "The country has earlier regional power-market and generation programmes; national network expansion cannot be attributed solely to this financing.",
+      "Loan approval and projected renewable absorption do not establish that 3.3 GW of generation has been connected or that industrial users have received cheaper power."
+    ]
+  },
+  "research_note": "Distinct 2026 Uzbekistan high-voltage substation investment, not the 2025 distribution lines/transformer programme or Jan 2026 regional market. Candidate only; Atlas current snapshot/history unchanged; review/reclassification reserved for task 2/5."
+}
