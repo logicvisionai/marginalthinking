@@ -221,7 +221,7 @@ A transformação não produziu um único modo superior de viver nem um Estado d
 
 [4] Lu et al., “Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago”, *PNAS* (2009): https://doi.org/10.1073/pnas.0900158106
 
-[5] Ma et al., “Rice Domestication Revealed by Reduced Shattering of Archaeological rice from the Lower Yangtze valley”, *Scientific Reports* (2016): https://pmc.ncbi.nlm.nih.gov/articles/PMC4914946/
+[5] Zheng et al., “Rice Domestication Revealed by Reduced Shattering of Archaeological rice from the Lower Yangtze valley”, *Scientific Reports* (2016): https://pmc.ncbi.nlm.nih.gov/articles/PMC4914946/
 
 [6] Denham et al., “Origins of agriculture at Kuk Swamp in the highlands of New Guinea”, *Science* (2003): https://pubmed.ncbi.nlm.nih.gov/12817084/
 
@@ -249,7 +249,7 @@ A transformação não produziu um único modo superior de viver nem um Estado d
 
 [18] Fuller e colaboradores, “How did the domestication of Fertile Crescent grain crops increase their yields?”, resumo de pesquisa experimental: https://pubmed.ncbi.nlm.nih.gov/28286354/
 
-[19] Zheng et al., “New evidence for rice harvesting in the early Neolithic Lower Yangtze River, China”, *PLOS ONE* (2022): https://pmc.ncbi.nlm.nih.gov/articles/PMC9728911/
+[19] Wang et al., “New evidence for rice harvesting in the early Neolithic Lower Yangtze River, China”, *PLOS ONE* (2022): https://pmc.ncbi.nlm.nih.gov/articles/PMC9728911/
 
 [20] UNESCO, “Kuk Early Agricultural Site”: https://whc.unesco.org/en/list/887
 
