@@ -105,7 +105,7 @@ A implantação de uma brigada alemã na Lituânia marca uma alteração histór
 
 A presença avançada produz benefícios e compromissos. Uma força já instalada reduz o tempo inicial de reação e sinaliza que qualquer agressão envolveria diretamente militares alemães, elevando o custo esperado de um ataque ao território aliado. Em contrapartida, instalações permanentes criam despesas familiares e habitacionais, exigem apoio do Estado anfitrião e transferem parte da responsabilidade pela proteção da força a um território mais próximo da Rússia e de Belarus.
 
-Em outubro de 2026, a Bundeswehr anunciou que a formação da brigada exigiria considerar designações temporárias e, em determinadas especialidades, deslocamentos que não dependeriam apenas de voluntários. A própria documentação alemã reconhece que as necessidades operacionais poderão prevalecer em alguns casos sobre preferências individuais dos militares. Isso não deve ser confundido com recrutamento compulsório generalizado da população: trata-se da gestão do pessoal já vinculado às forças. A medida revela uma restrição concreta que os anúncios de efetivos planejados frequentemente escondem. [21]
+Em setembro de 2026, a Bundeswehr anunciou que a formação da brigada exigiria considerar designações temporárias e, em determinadas especialidades, deslocamentos que não dependeriam apenas de voluntários. A própria documentação alemã reconhece que as necessidades operacionais poderão prevalecer em alguns casos sobre preferências individuais dos militares. Isso não deve ser confundido com recrutamento compulsório generalizado da população: trata-se da gestão do pessoal já vinculado às forças. A medida revela uma restrição concreta que os anúncios de efetivos planejados frequentemente escondem. [21]
 
 ```map
 title: Geografia da dissuasão e da logística alemã
@@ -233,7 +233,7 @@ A Alemanha de 2026 não está simplesmente voltando a ser a potência militar qu
 
 [20] Bundeswehr, *Bundeswehr in Lithuania*, programa e unidades. https://www.bundeswehr.de/en/news/bundeswehr-lithuania
 
-[21] Bundeswehr, *Brigade Litauen: Personeller Aufwuchs geht voran*, outubro 2026. https://www.bundeswehr.de/de/auftrag/verteidigung/aufgaben/bundeswehr-litauen-grosse-schritte-deutsche-kampfbrigade/brigade-litauen-verpflichtende-massnahmen-6151408
+[21] Bundeswehr, *Brigade Litauen: Personeller Aufwuchs geht voran*, 14 de setembro de 2026. https://www.bundeswehr.de/de/auftrag/verteidigung/aufgaben/bundeswehr-litauen-grosse-schritte-deutsche-kampfbrigade/brigade-litauen-verpflichtende-massnahmen-6151408
 
 [22] Bundeswehr, *Personalbilanz 2025: Bundeswehr wuchs deutlich*, janeiro 2026. https://www.bundeswehr.de/de/organisation/personal/personalbilanz-2025-bundeswehr-wuchs-6059472
 
