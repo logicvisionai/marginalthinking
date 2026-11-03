@@ -59,6 +59,10 @@
     "conflict_security_attribution": {
       "result": "passed",
       "summary": "Iran/Qatar talks are attributed to Reuters reporting and not described as concluded peace; OPEC required output not asserted as real loadings, inventories or safe passage; political election claims conditional."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The published brief includes explicit three-way scenario analysis with counterevidence and observable invalidation tests: US ISM/Euro-area PMIs remain above 50 despite price-cost stress, Dow rose while S&P/Nasdaq fell, oil futures decline is not a verified physical supply recovery, B3 was closed on November 2, and November 3/4 elections and central-bank actions are still unobserved. Every scenario is constrained by physical cargo delivery, manufacturing input costs, order books, credit spreads and fiscal implementation evidence."
     }
   },
   "contrary_evidence": [
