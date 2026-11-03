@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T13:39:00Z",
+  "last_reconciled_at": "2026-11-03T17:18:49.359Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8210,6 +8210,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Neolithic plastering, roof circulation, stone blades and granaries are archaeological technologies, not new present-day demonstrated/deployed/scaled technology signals."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-germany-military-awakening-publication-reconciliation",
+      "reconciled_at": "2026-11-03T17:18:49.359Z",
+      "report_ids_reviewed": [
+        "MT-GS-2026-11-03-GERMANY-MILITARY-AWAKENING"
+      ],
+      "audit_note": "SHA-approved historical and current German military research (1914–2026), originally published as canonical bilingual bundle in commit 023b6a5. Reconciliation against all active required cumulative systems; no unsupported new industrial investment, verified combat incident, quantified dependence or military equipment deployment was inserted into structured atlases.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Germany-to-Lithuania military logistics, allied troop transit and defence production relationships are documented qualitatively. No newly audited bilateral quantified dependency weight, inventory or contractual supply-chain edge is established for the canonical network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Defence expenditure authorisations and European industrial capacity pressures do not identify a named investable industrial project with audited funding, expected completion, owner and return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Breuer, Freuding and military institutions have documented roles; their legal commands and projected appointments are described, but no verified new beneficial-ownership or business control relation suitable for the strategic actor dataset is established."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The study addresses ammunition, energy, steel and industrial supply constraints without new documented rights to resources, reserves, concessions or offtake agreements."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "2025 fiscal constitutional reforms and 2026 military-service changes are documented policy interventions, but their downstream employment, capability and readiness effects lack a measured evaluation and credible counterfactual for a canonical outcomes case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The Ukraine war and hypothetical NATO–Russia escalation are security context rather than a new independently verified, geolocated conflict episode with actor attribution and observed casualties or territorial control change."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Military drones, surveillance and data-link modernisation are analysed as sector trends; no new independently measured technology milestone with a demonstrated performance or deployment delta was established."
         }
       ]
     }
