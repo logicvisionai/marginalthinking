@@ -408,3 +408,63 @@ A leitura de 2027 depende de comparar expectativas iniciais com resultados efeti
 A existência de fatores favoráveis não fornece, isoladamente, uma taxa de crescimento inevitável. O país dispõe de capacidade de produção, financiamento e integração internacional, mas seu desempenho dependerá da coordenação entre dívida pública, moeda, empresas, trabalho e infraestrutura. O horizonte de 2027 é curto demais para que reformas estruturais elevem instantaneamente a produtividade nacional, mas suficientemente longo para revelar se decisões orçamentárias, monetárias e empresariais estão construindo condições mais estáveis para os anos seguintes. [5][6][23]
 
 A combinação de recursos naturais, mercado interno e complexidade industrial pode sustentar crescimento, mas o resultado será determinado por como a economia transforma receitas de exportação e poupança em equipamentos, conhecimento, serviços e renda real. Um saldo comercial elevado não substitui formação de capital; juros menores não substituem solvência fiscal; e participação em acordos internacionais não substitui capacidade de competir em qualidade, preço e inovação. As escolhas de 2027 determinarão principalmente a velocidade com que as oportunidades disponíveis se convertem em produção e bem-estar mensuráveis. [5][6][17]
+
+## Fontes e documentos
+
+[1] Ministério da Fazenda, “PIB brasileiro cresce 0,5% no segundo trimestre de 2026” (01/09/2026): https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/pib-brasileiro-cresce-0-5-no-segundo-trimestre-de-2026
+
+[2] Banco Central do Brasil, *Relatório de Política Monetária*, setembro de 2026: https://www.bcb.gov.br/publicacoes/rpm/202609
+
+[3] Agência Brasil, “Mercado eleva projeção para inflação, juros e dólar em 2026”, dados do Focus divulgados em 03/11/2026: https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-para-inflacao-juros-e-dolar-em-2026
+
+[4] Secretaria de Política Econômica / Ministério da Fazenda, *Boletim Macrofiscal de setembro de 2026*: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027/
+
+[5] Grupo Banco Mundial, panorama econômico e desafios de produtividade e inclusão do Brasil, atualizado em 2026: https://www.worldbank.org/ext/pt/country/brazil
+
+[6] Fundo Monetário Internacional, *Brazil: 2026 Article IV Consultation*, publicação de 23/07/2026, cenários, risco fiscal, setor financeiro e economia externa: https://www.imf.org/en/news/articles/2026/07/23/pr26257-brazil-imf-executive-board-concludes-2026-article-iv-consultation
+
+[7] Ministério da Fazenda, Projeto de Lei Orçamentária de 2027, resultado primário integral e ajustado, limites e dotações, divulgado em 01/09/2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-federal-apresenta-projeto-de-orcamento-de-2027-com-previsao-de-superavit-primario-de-r-18-6-bilhoes
+
+[8] Ministério da Fazenda, *Prisma Fiscal*, projeções de outubro de 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/prisma-fiscal-eleva-projecao-de-deficit-para-2026-e-reduz-estimativa-para-2027
+
+[9] Instituição Fiscal Independente do Senado Federal, *Relatório de Acompanhamento Fiscal n.º 116*, setembro de 2026, PLOA, precatórios e prêmio de risco fiscal: https://www2.senado.leg.br/jspui/handle/id/962520
+
+[10] Tesouro Nacional, *Relatório de Projeções Fiscais*, 8.ª edição, junho de 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/junho/tesouro-nacional-divulga-8a-edicao-do-relatorio-de-projecoes-fiscais-com-cenarios-para-os-proximos-dez-anos
+
+[11] Banco Central do Brasil, *Histórico das metas de inflação*, meta contínua de 3% e intervalo de tolerância: https://bcb.gov.br/controleinflacao/historicometas
+
+[12] Banco Central do Brasil, *Histórico das taxas básicas de juros*, decisões do Copom até setembro de 2026: https://www.bcb.gov.br/controleinflacao/historicotaxasjuros
+
+[13] Banco Central do Brasil, *Estatísticas monetárias e de crédito*, nota de 29/09/2026, saldos de agosto e inadimplência: https://www.bcb.gov.br/estatisticas/estatisticasmonetariascredito
+
+[14] Banco Central do Brasil, *Relatório de Estabilidade Financeira*, maio de 2026: https://www.bcb.gov.br/publicacoes/ref
+
+[15] ANBIMA, “Emissões de debêntures incentivadas somam R$ 6,3 bilhões em setembro”, 29/10/2026: https://www.anbima.com.br/pt_br/noticias/emissoes-de-debentures-incentivadas-somam-r-6-3-bilhoes-em-setembro.htm
+
+[16] ANBIMA, “Mercado de capitais registra R$ 48,8 bilhões em ofertas em agosto”, setembro de 2026: https://www.anbima.com.br/pt_br/noticias/mercado-de-capitais-registra-r-48-8-bilhoes-em-ofertas-em-agosto.htm
+
+[17] Ministério do Desenvolvimento, Indústria, Comércio e Serviços, *Balança Comercial Mensal – Dados Consolidados*, setembro de 2026, totais e parceiros: https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/nota.html
+
+[18] MDIC, “Alcance das Medidas Tarifárias dos Estados Unidos sobre Exportações Brasileiras”, nota de 24/07/2026: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras/
+
+[19] Conselho da União Europeia, registro do *Interim Agreement on Trade between the European Union and Mercosur*, assinatura e aplicação provisória: https://www.consilium.europa.eu/en/documents/treaties-agreements/agreement/?docLanguage=en&id=2025033
+
+[20] Conselho da União Europeia, *Os acordos UE–Mercosul em síntese*, instrumentos jurídicos e regras gerais: https://www.consilium.europa.eu/pt/policies/eu-mercosur-agreements-explained/
+
+[21] Presidência Brasileira do BRICS, esclarecimento do embaixador Mauricio Lyrio sobre moeda comum e meios de pagamento: https://brics.br/en/news/ambassador-mauricio-lyrio-highlights-brasils-priorities-in-brics-and-demystifies-creation-of-a-new-currency
+
+[22] MDIC, comunicado conjunto dos Estados Partes sobre a assinatura dos acordos Mercosul–UE, atualização de 26/10/2026: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/janeiro/comunicado-conjunto-sobre-a-assinatura-do-acordo-de-associacao-entre-o-mercosul-e-a-uniao-europeia
+
+[23] Receita Federal, *Entenda a Reforma Tributária do Consumo*, cronograma de transição 2026–2033, atualizado em outubro de 2026: https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda/entenda-a-reforma-tributaria-do-consumo/
+
+[24] IBGE, via Agência Gov, PNAD Contínua, trimestre encerrado em agosto de 2026, desemprego e ocupação: https://agenciagov.ebc.com.br/noticias/202609/desemprego-cai-no-trimestre-e-numero-de-pessoas-ocupadas-e-o-maior-da-serie-historica
+
+[25] IBGE, Censo Demográfico 2022, *Pirâmide etária*, envelhecimento populacional de 2010 a 2022: https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-piramide-etaria.html
+
+[26] BNDES, *Perspectiva de investimentos para o período 2025–2029*, estudo de 2026: https://blogdodesenvolvimento.bndes.gov.br/serie/estudos-especiais/Perspectiva-de-investimentos-para-o-periodo-2025-2029-e-positiva-com-expansao-media-entre-30-e-45/
+
+[26a] BNDES, *Nova Indústria Brasil terá R$ 140 bilhões até dezembro de 2026*, anúncio de financiamento, junho de 2026: https://agenciadenoticias.bndes.gov.br/noticia/Nova-Industria-Brasil-tera-R%24-140-bilhoes-ate-dezembro-de-2026/
+
+[27] Empresa de Pesquisa Energética, *Plano Decenal de Expansão de Energia 2035*, horizonte 2026–2035: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2035
+
+[28] Ministério dos Transportes, carteira prospectiva de concessões rodoviárias e ferroviárias para 2027, 15/10/2026: https://www.gov.br/transportes/pt-br/assuntos/noticias/2026/copy_of_10/mais-recorde-ministerio-dos-transportes-preve-29-projetos-para-2027
