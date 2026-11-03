@@ -11,7 +11,7 @@ Research has two public formats only:
 
 There are no PDF, DOCX or XLSX report artifacts in the publishing pipeline.
 
-See [`RESEARCH-PUBLISHING.md`](./RESEARCH-PUBLISHING.md) for the editorial architecture, supported visual syntax and QA rules.
+See [`RESEARCH-PUBLISHING.md`](./RESEARCH-PUBLISHING.md) for the editorial architecture, supported visual syntax and QA rules. Original editorial images and licensed documentary photographs are stored in GitHub and rendered with bilingual alt text, captions, credits and source rights; see [`RESEARCH-IMAGES.md`](./RESEARCH-IMAGES.md). Use `npm run validate:images` for a targeted media audit.
 
 ## Research agendas
 
