@@ -40,7 +40,20 @@ const kindLabels={
 };
 const textLabels={'en':{figure:'Figure',credit:'Credit',source:'Source',license:'License'},'pt-BR':{figure:'Figura',credit:'Crédito',source:'Fonte',license:'Licença'}};
 
+// Editorial retraction: these abstract figures add no verifiable information and are not shown in public HTML.
+// Approved report source Markdown remains unchanged for auditability.
+export const retiredEditorialImagePaths = new Set([
+  "/assets/images/reports/2026-11-03-algorithmic-revolution-attention-power-social-conflict/recommendation-feedback.svg",
+  "/assets/images/reports/2026-11-03-algorithmic-revolution-attention-power-social-conflict/camera-performance.svg",
+  "/assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-organisational-infrastructure.svg",
+  "/assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-documentary-boundaries.svg"
+]);
+export function isEditorialImageRetired(input){
+  return input?.kind==='editorial-illustration' && retiredEditorialImagePaths.has(String(input?.src||''));
+}
+
 export function renderReportImage(input,locale='en',{number=1,lead=false,expectedSlug}={}){
+  if(isEditorialImageRetired(input))return '';
   const image=localizedImage(input,locale),parts=imagePathParts(image?.src);
   if(!parts||(expectedSlug&&parts.slug!==expectedSlug))return '';
   const width=Number(image.width),height=Number(image.height);

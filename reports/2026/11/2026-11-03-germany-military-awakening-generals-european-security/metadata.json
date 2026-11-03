@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GS-2026-11-03-GERMANY-MILITARY-AWAKENING",
+  "slug": "2026-11-03-germany-military-awakening-generals-european-security",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T12:30:00-03:00",
+  "kind": "historical-strategic-security-research",
+  "priority": 52,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "europe"
+    ],
+    "subregions": [
+      "western-europe"
+    ],
+    "countries": [
+      {
+        "code": "DE",
+        "slug": "germany"
+      }
+    ]
+  },
+  "topics": [
+    "geopolitics-security",
+    "institutions-governance",
+    "fiscal-policy",
+    "industry-production",
+    "technology-innovation",
+    "infrastructure-logistics",
+    "demography-labor",
+    "trade-investment",
+    "social-change",
+    "sovereign-debt"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition",
+    "defense-security",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "high",
+  "related_research_ids": [
+    "MT-CC-2026-10-03-germany"
+  ],
+  "selection_rationale": "Major evidence-based transformation of German defence expenditure, officer leadership, NATO positioning, service law, permanent Lithuanian basing and whole-of-society logistics in 2026, explained through two world wars, post-1945 constitutional reconstruction and post-1990 demobilisation.",
+  "contrary_evidence": [
+    "Fiscal budgets are authorised or proposed amounts, not receipts of materiel or deployable force; 2027 proposal should not be portrayed as 2027 actual spending.",
+    "Breuer's warning that Russia could possess capability to attack from 2029 explicitly does not mean Russia has decided to attack.",
+    "NATO Military Committee chair is a collective advisory office, not SACEUR or German command over Allied forces.",
+    "2026 military service remains primarily voluntary, with mandatory questionnaires for men and future medical assessment; compulsory enlistment requires further legal steps.",
+    "Historical German military aggression does not make contemporary parliamentary NATO defence identical to imperial or Nazi military institutions."
+  ],
+  "limitations": [
+    "Budget categories of the national core budget, the Bundeswehr special fund and NATO expenditure ratios are not directly interchangeable.",
+    "End-2025 active personnel are observed, while 2026/2035 staffing and end-2027 Lithuanian brigade figures are planned targets.",
+    "OPLAN DEU full content remains classified: only public summary and quantified transit scenario can be analysed.",
+    "Assessment of Russian military capability from 2029 is a planning scenario, not independent verification of future attack intention.",
+    "Industrial throughput, availability of equipment, training and reserve deployability require rolling official confirmation.",
+    "Poll findings represent April–May 2026 respondents and vary by question and subgroup."
+  ],
+  "producer_checks": {
+    "information_cutoff": "3 November 2026, São Paulo local date. Primary-source military, legislative and parliamentary reports include September 2026 developments; no post-cutoff assertions.",
+    "research_depth": "18 analytical chapters per language; PT-BR 40,184 characters / 5,479 words; EN 39,394 characters / 5,058 words. Historical 1914–1945 through Weimar, Nazi wartime crimes, 1955 reconstitution, Cold War, 1990–2022 transformations, 2025–2026 fiscal shift, generals, deployment, manpower, industry, social support and 2027–2035 scenarios.",
+    "evidence_inventory": "25 numbered matching institutional and scholarly references per language, including Bundesarchiv, USHMM, DHM, Bundestag, Bundesbank, NATO, Bundeswehr and ZMSBw; factual qualifiers reflect source vintage.",
+    "visual_signature": "Both languages contain two bar charts with the same arrays [[82.7,25.5,109.7,29.9],[184.2,186,190]], one two-chain causal flow, one five-region geopolitical map, one nine-row status/evidence table. Numeric labels and qualifications are consistent.",
+    "translation_check": "Manual bilingual parity audit: identical 18 sections, 25 bibliography IDs, two chart value arrays, map regions and status tables; legal and temporal qualifications preserved.",
+    "factual_cautions": "Distinguish 2027 budget proposal from 2026 appropriations and NATO-defined defence ratios; distinguish military service questionnaire and reserve planning from enacted mass conscription; do not equate committee advisory chair with NATO command authority.",
+    "editorial_status": "Staged only. Public reports metadata must not be created without independent v2 QA approval. No conversational prose or public-facing meta editorial explanations.",
+    "source_cutoff": "September 2026 military committee election, September 2026 Lithuanian brigade staffing document, September 2026 ZMSBw survey, Bundestag 2026/2027 budgets; historical records 1914–1955."
+  },
+  "url": "/reports/2026/11/2026-11-03-germany-military-awakening-generals-european-security.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-03T15:44:43.085Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "2e863d36f0084ac362f5c93ef821215b046b72a8",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Germany's Military Awakening: From the First World War to Europe's Strategic Rearmament in 2026",
+      "deck": "A historical and strategic investigation of German rearmament, from Hindenburg and the Wehrmacht to Breuer, Freuding, NATO's eastern flank, mobilisation, defence industry and parliamentary control.",
+      "tags": [
+        "Germany",
+        "Bundeswehr",
+        "NATO",
+        "European security",
+        "Carsten Breuer",
+        "Christian Freuding",
+        "Military history",
+        "Defence budget",
+        "Conscription",
+        "Lithuania"
+      ],
+      "keywords": [
+        "German rearmament 2026",
+        "Bundeswehr military buildup",
+        "Carsten Breuer NATO military committee 2027",
+        "Christian Freuding German army drones",
+        "German military history 1914 1945 1955",
+        "Operationsplan Deutschland 800000",
+        "Germany Lithuania brigade 2027",
+        "Germany defence budget 2026 2027",
+        "German military service law 2035",
+        "Europe Russia war deterrence"
+      ],
+      "regime": "German defence has shifted from a limited expeditionary model to territorial and collective deterrence, while the scale of operating readiness lags behind fiscal and legal commitments.",
+      "key_risk": "Confusing planned force levels and draft budget figures with fielded capability; equating constitutional German defence policy with historic aggressive militarism; presenting Breuer's 2029 capability warning as a confirmed Russian attack plan.",
+      "watch": [
+        "Budget legislation and executed deliveries of 2027 regular and special defence expenditure",
+        "Carsten Breuer's scheduled NATO committee chairmanship in 2027",
+        "Brigade Lithuania unit formation and end-2027 personnel target",
+        "Bundeswehr active-duty and reserve growth versus section 91 legal milestones",
+        "Defence industry production, stocks and force availability",
+        "Debate on voluntary service and any separate compulsory-service legislation"
+      ],
+      "search_text": "Germany Bundeswehr military awakening 1914 imperial Hindenburg Ludendorff Versailles Reichswehr Wehrmacht 1945 1955 2011 2022 Zeitenwende 2026 Carsten Breuer Christian Freuding NATO Lithuania brigade recruitment defence budget"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "O despertar militar da Alemanha: de 1914 à reconstrução do poder estratégico europeu em 2026",
+      "deck": "Da Primeira Guerra e da Wehrmacht ao rearmamento de 2026: Breuer, Freuding, OTAN, Lituânia, conscrição, indústria bélica, logística e os limites constitucionais do poder militar alemão.",
+      "tags": [
+        "Alemanha",
+        "Bundeswehr",
+        "OTAN",
+        "Segurança europeia",
+        "Carsten Breuer",
+        "Christian Freuding",
+        "História militar",
+        "Orçamento de defesa",
+        "Serviço militar",
+        "Lituânia"
+      ],
+      "keywords": [
+        "rearmamento Alemanha 2026",
+        "despertar militar alemão",
+        "Carsten Breuer OTAN 2027",
+        "Christian Freuding Exército alemão drones",
+        "história militar alemã 1914 1945 1955",
+        "Plano Operacional Alemanha 800 mil",
+        "brigada alemã Lituânia 2027",
+        "orçamento defesa Alemanha 2026 2027",
+        "lei serviço militar alemão 2035",
+        "dissuasão Rússia Europa"
+      ],
+      "regime": "A defesa alemã migrou de forças expedicionárias limitadas à dissuasão territorial e coletiva, enquanto a prontidão operacional cresce mais lentamente que as dotações e metas legais.",
+      "key_risk": "Confundir metas de pessoal e propostas orçamentárias com efetivo empregado; igualar defesa constitucional à agressão militar histórica; apresentar a advertência de Breuer sobre 2029 como intenção russa comprovada.",
+      "watch": [
+        "Lei orçamentária de 2027 e entregas físicas resultantes",
+        "Posse prevista de Carsten Breuer no Comitê Militar da OTAN em 2027",
+        "Formação da brigada na Lituânia até o final de 2027",
+        "Efetivo e reservas versus metas legais do §91",
+        "Produção de munição e disponibilidade de sistemas",
+        "Evolução do serviço voluntário e eventual nova lei de conscrição"
+      ],
+      "search_text": "Alemanha despertar militar rearmamento 2026 Bundeswehr Primeira Guerra Hindenburg Ludendorff Versalhes Reichswehr Wehrmacht 1955 2011 2022 Zeitenwende Carsten Breuer Christian Freuding OTAN Lituânia orçamento recrutamento"
+    }
+  }
+}

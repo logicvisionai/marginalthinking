@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
 import {collectReports,reportView} from './lib/reports.mjs';
-import {imagePathParts,imageBlocks,supportedKinds,supportedLicenses} from './lib/report-images.mjs';
+import {imagePathParts,imageBlocks,supportedKinds,supportedLicenses,isEditorialImageRetired} from './lib/report-images.mjs';
 
 const root=process.cwd(),distMode=process.argv.includes('--dist'),fail=[],used=new Map(),reports=collectReports(root).filter(x=>x._bundle);
 const catalogPath=path.join(root,'data/report-images.json');
@@ -79,7 +79,7 @@ for(const item of reports){
       const output=path.join(root,'dist',prefix,item.url.replace(/^\//,''));
       if(!fs.existsSync(output)){issue(item.id+'/'+locale,'missing rendered HTML');continue;}
       const html=fs.readFileSync(output,'utf8');
-      const expected=[...(catalog.reports?.[item.id]?.lead?[catalog.reports[item.id].lead]:[]),...blocks];
+      const expected=[...(catalog.reports?.[item.id]?.lead?[catalog.reports[item.id].lead]:[]),...blocks].filter(img=>!isEditorialImageRetired(img));
       for(const [i,img] of expected.entries()){
         const parts=imagePathParts(img.src);
         if(!parts)continue;

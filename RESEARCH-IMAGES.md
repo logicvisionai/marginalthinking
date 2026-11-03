@@ -130,3 +130,18 @@ npm run validate:images checks public source assets, ownership/licensing metadat
 Start with a reviewed lead artwork on one public report, then expand to the highest-value long-form dossiers where historical documentation, infrastructure, technical systems or geography truly benefits from visual illustration. New major research should plan photos and illustrations during the producer evidence pass rather than attach them after writing. Avoid blanket automated backfills, repeated generic pictures and identical illustration for unrelated topics.
 
 The future "Algorithm Revolution" research can include documentary primary-source photos of McNamara (only with verified rights and context), original schematics of recommendation pipelines, formally sourced historical imagery of political mobilisation, analytically labelled iconography for short-form media, and verified context-dependent war imagery without false event attribution.
+
+## Editorial image quality gate — 3 November 2026
+
+**Default: publish without a lead or decorative illustration.** A report does not require an editorial cover image or generated artwork. The evidence-based visual standards for tables, charts, geographic comparisons and structural diagrams remain unchanged; they must not be satisfied by decorative image files.
+
+- Generic silhouettes, networks, icons, symbolic institutional buildings and abstract nodes do not qualify as an illustration merely because the caption offers an interpretation of them. Only a precise subject-specific visual that genuinely informs the surrounding analysis should be added.
+- Prefer a documentary photograph or archive reproduction from a source with verifiable identity, subject, event date where applicable, licence and redistribution rights. Freely viewable does not mean free to reproduce. Cite the specific source and rights holder.
+- A caption must accurately describe visible content. It must not claim to depict a process, institution, funding relationship or historical event that the image does not actually document.
+- Realistic generated images may be used only for a specific justified illustrative purpose, clearly marked synthetic, never as documentary evidence of a real person, historical event, meeting or armed operation.
+- If source quality, copyright clearance, specific relevance or captions cannot be verified, omit the image. No placeholder, generic stock imagery or image used simply to fill the report layout.
+- Presentation-only retirement of unsuitable existing images may be made without changing immutable QA-approved research Markdown. A source-level change requires the normal staged review and approval.
+
+### November 2026 visual cleanup
+
+Three generic conceptual lead illustrations were withdrawn from `data/report-images.json`. Four uninformative inline SVG editorial drawings in the algorithmic-revolution and Rockbridge research were explicitly suppressed in the presentation renderer and associated output validator, without altering the reviewed Markdown or its evidence records. Charts, tables, causal diagrams and geography figures are unaffected.

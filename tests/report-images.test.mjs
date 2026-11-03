@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {imagePathParts,parseImageBlock,imageBlocks,localizedImage,renderReportImage} from '../scripts/lib/report-images.mjs';
+import {imagePathParts,parseImageBlock,imageBlocks,localizedImage,renderReportImage,isEditorialImageRetired} from '../scripts/lib/report-images.mjs';
 
 const src='/assets/images/reports/2026-11-02-after-accelerationism-ai-labor-income-power/ai-productive-systems.svg';
 const media={
@@ -45,4 +45,11 @@ test('inline image fenced blocks parse without interfering with ordinary charts'
   assert.equal(blocks[0].caption,'A detailed editorial diagram');
   assert.equal(parseImageBlock(['foo: a','foo: b'])._invalid,true);
   assert.equal(localizedImage(media,'pt-BR').alt,'Diagrama de centros de dados, IA e pessoas.');
+});
+
+test('retired abstract editorial image is omitted from public presentation while approved sources are preserved',()=>{
+  const retired={...media,src:'/assets/images/reports/2026-11-03-algorithmic-revolution-attention-power-social-conflict/recommendation-feedback.svg'};
+  assert.equal(isEditorialImageRetired(retired),true);
+  assert.equal(renderReportImage(retired,'pt-BR',{expectedSlug:'2026-11-03-algorithmic-revolution-attention-power-social-conflict'}),'');
+  assert.equal(isEditorialImageRetired(media),false);
 });
