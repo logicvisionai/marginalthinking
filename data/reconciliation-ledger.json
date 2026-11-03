@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T06:14:33.130Z",
+  "last_reconciled_at": "2026-11-03T13:21:00Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8120,6 +8120,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Commercial AI, military technology and data centres discussed as strategic markets, not a new independently demonstrated capability or deployment signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-neolithic-transitions-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T13:21:00Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-03-NEOLITHIC-TRANSITIONS"
+      ],
+      "audit_note": "Atomic promotion of SHA-approved Neolithic comparative political economy article, revision 1; all active reconciliation-required systems examined with explicit no-current-update decisions. No fabricated geographic production or contemporary rights series.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Comparative prehistoric domestication and diffusion do not establish audited modern bilateral input dependence, ultimate counterparties or contemporary country-to-country supply-chain exposure."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Ancient farming techniques, storage and landscape projects do not identify a present-day investable project with named developer, committed capital, funding, milestones and financial returns."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Neolithic people and communities are not new contemporary verified beneficial ownership, control, contracting or voting-right relationships in the strategic-actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Ancient cereal stores, goat herds and plant domestication do not demonstrate new modern rights to mineral reserves, resource licences, concessions or offtake and do not alter the resource-control dataset."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "A comparison of historical storage, land control and inequality is not evidence of a specific enacted contemporary policy intervention with measured effects and a credible causal counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Historical possibilities for coercion and conflict around food stores do not identify any verified new geolocated contemporary armed-conflict incident, actor attribution, casualties or escalation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Early Holocene cultivation, drainage engineering and animal management are documented archaeological technologies, not new modern claimed/demonstrated/deployed/scaled technology milestones tracked by the ledger."
         }
       ]
     }
