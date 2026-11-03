@@ -231,7 +231,7 @@ A posição editorial adequada não é celebrar um mundo sem restrições nem ro
 
 [10] UN Web TV, Conselho de Segurança, reunião 10228, 23 de setembro de 2026: https://webtv.un.org/en/asset/k1e/k1ehru4okj
 
-[11] Instituto Brasileiro de Geografia e Estatística, PNAD Contínua, agosto de 2026: https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html
+[11] Instituto Brasileiro de Geografia e Estatística, PNAD Contínua, agosto de 2026: https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html
 
 [12] OTAN, *Innovation and technology adoption*, atualizado em 8 de julho de 2026: https://nato.int/en/what-we-do/deterrence-and-defence/emerging-and-disruptive-technologies
 
