@@ -155,7 +155,7 @@ The camera changes the temporal relation between an act and its evaluation. Perf
 
 These incentives do not produce a single social consequence. Documented aura events have included play, dance, parody and nonviolent community interaction. Elsewhere, the expectation of notoriety may combine with peer rivalry and willingness to take risks. No automatic progression connects the two. The relationship between audience and hazardous conduct depends on context, motives and the rewards attached to particular actions. A similarly cinematic montage can depict a dance, an athletic contest, a demonstration or an actual confrontation without the underlying events sharing a cause.
 
-The phenomenon is historically significant because **platform metrics and cultural codes become everyday categories of reputation**. Individuals need not calculate their own behaviour numerically to inhabit an environment where recognition is constantly counted, compared and displayed. Aura farming is one expression of that arrangement: people still confer prestige, while technical systems organise much of the circulation that gives prestige its scale.
+**Platform metrics and cultural codes have become everyday categories of reputation.** Individuals need not calculate their own behaviour numerically to inhabit an environment where recognition is constantly counted, compared and displayed. Aura farming is one expression of that arrangement: people still confer prestige, while technical systems organise much of the circulation that gives prestige its scale.
 
 ## 11. Adolescence, identity and the apprenticeship problem
 
@@ -182,7 +182,7 @@ The experimental findings also have significant limits. A 2023 *Science* study e
 | Chronological-feed experiment, 2023 | Feed ordering changed during 2020 US election | Significant platform-experience changes without significant short-run changes in key attitudes | Absence of all long-run or population-specific effects |
 | Nguyen et al., 2025 | Meta-analysis of observational and other short-video studies | Associations with attention, inhibitory control and well-being | Universal cognitive damage or a single confirmed causal direction |
 
-The research supports a nuanced conclusion: social-media design can influence attention and particular behaviours; the magnitude, persistence, direction and social consequences are highly context-dependent. Political criticism becomes more credible, not weaker, when it respects those distinctions.
+Social-media design can alter attention and specific behaviours, while the magnitude, duration, direction and social consequences vary with context. Existing experiments identify bounded effects without establishing unrestricted platform control over political preferences.
 
 ## 13. The Brazilian political case: an existing social conflict meets a new communications infrastructure
 
@@ -268,7 +268,7 @@ Ukraine | War documentation, first-person testimony, advocacy and platform-nativ
 United States | Randomised platform interventions and measured political or emotional responses | Facebook experiments from 2012 and 2014; 2023 chronological-feed counterevidence
 ```
 
-This geographic comparison does not imply a route connecting the countries or that all citizens within a country share a single response. Differences between events and platform functions limit direct cross-national comparison. The same function—video sharing—can support electoral persuasion, eyewitness documentation, public accountability, fundraising or unlawful coordination, depending on the situation.
+The events documented in these four countries are not stages of a single process and do not represent uniform responses across their populations. Differences between events and platform functions limit direct cross-national comparison. The same function—video sharing—can support electoral persuasion, eyewitness documentation, public accountability, fundraising or unlawful coordination, depending on the situation.
 
 Documents establish that a particular message or recording existed. Platform data describe interactions within access limitations; interviews reveal stated motivations but may reflect selective memory; experiments estimate effects under defined interventions; administrative and judicial records document outcomes and accountability. Attributing large-scale social change to algorithmic mechanisms requires convergence across these forms of evidence rather than reliance on the emotional intensity of footage.
 
