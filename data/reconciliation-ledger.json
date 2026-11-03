@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T02:21:00Z",
+  "last_reconciled_at": "2026-11-03T03:01:49.160Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7895,6 +7895,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Ancient storage, fishing and monumental technologies are research subjects, not a new modern demonstrated technology capability or deployment milestone in the signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-accelerationism-ai-labor-income-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T03:01:49.160Z",
+      "report_ids_reviewed": [
+        "MT-ACC-2026-11-02-AI-LABOR-INCOME"
+      ],
+      "audit_note": "Publisher promotion of independently QA-approved accelerationism systems research revision 1 in both languages. Seven cumulative systems individually evaluated; no new numerical series, actors or datasets fabricated to imply state changes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "The study discusses transnational chip/cloud dependency conceptually but supplies no new measured bilateral country-to-country exposure, signed supplier link or current trade-flow evidence suitable for the network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No newly discovered named investable project, financed asset, responsible owner, return measure or entry constraint eligible for the opportunity atlas."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Statements by Altman and Amodei, and general industry concentration, were compared with the strategic-actors criteria; they do not document a new ownership/control link, financing transaction or changed government actor relationship."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Historical IEA 2024 electricity distribution and its 2030 forecast do not establish a new verified physical resource reserve, concession, corporate mineral control, offtake or inventory change."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "The US NBER cash-transfer experiment and prospective UBI designs were reviewed, but no newly implemented state policy with attributable outcomes warrants a new canonical policy-case record."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The NATO technology policy and UN-ICRC autonomous-weapons appeal document institutional priorities, not a new verified geolocated conflict incident, operational attack attribution or battlefield escalation observation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Stanford adoption figures and IEA energy scenarios are already historical evidence; the dossier brings analytical synthesis, not a new independently demonstrated 2026 capability, replicated breakthrough or deployment milestone requiring a technology-signal record change."
         }
       ]
     }
