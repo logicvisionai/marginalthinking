@@ -205,7 +205,7 @@ O mecanismo não eliminava escassez de moeda estrangeira; redistribuía-a admini
 
 A política de compensação bilateral permitia registrar exportações e importações entre dois países e liquidar saldos por mecanismos negociados, reduzindo necessidade imediata de moeda forte. Tal estrutura podia preservar comércio quando divisas eram escassas, mas também conferir poder de barganha a uma potência industrial diante de fornecedores menores. Se um exportador recebe créditos bloqueados que só podem ser usados na compra de produtos alemães, sua liberdade comercial fica limitada. [15]
 
-Uma análise de economia política deve medir poder contratual e condições específicas de cada país, não declarar que todo acordo de clearing constitui exploração da mesma intensidade. Os arranjos ajudaram a manter suprimentos essenciais num regime que se preparava para guerra; a racionalidade geopolítica importava tanto quanto qualquer ganho de eficiência comercial. O caso mostra como técnicas aparentemente neutras de pagamentos podem ser projetadas para prioridades de poder estatal.
+Os efeitos distributivos dos acordos de compensação variavam conforme preços contratados, saldos bloqueados, regras de conversibilidade e alternativas comerciais disponíveis a cada país. Os arranjos ajudaram a manter suprimentos essenciais num regime que se preparava para guerra; a racionalidade geopolítica importava tanto quanto qualquer ganho de eficiência comercial. O caso mostra como técnicas aparentemente neutras de pagamentos podem ser projetadas para prioridades de poder estatal.
 
 ## 1935–1936: economia de guerra e conflito com Göring
 
@@ -245,7 +245,7 @@ A avaliação da política financeira precisa considerar também a estrutura de 
 
 Isso não significa atribuir ao presidente do Reichsbank cada operação de confisco ou cada crime cometido por agentes diferentes. A responsabilidade de uma política depende da cadeia decisória: leis, ordens, registros bancários, execução por empresas e autoridades que comandavam o processo. As técnicas de crédito utilizadas no rearmamento, contudo, aumentaram a capacidade do regime de adquirir armas e financiar organizações repressivas e militares. Separar descrição financeira e consequências humanas como se fossem mundos distintos produziria história econômica incompleta.
 
-O contraste com 1923 é especialmente severo. Na estabilização de Weimar, recuperar a função da moeda ajudava a restabelecer contratos e trocas numa sociedade devastada pela inflação. Na ditadura, técnicas financeiras foram subordinadas à militarização e a um Estado que eliminava garantias de grupos inteiros. Em 2026, os registros do julgamento, biografias institucionais e acervos econômicos permitem reconstruir essa diferença sem aceitar a autodefesa memorialística como relato final.
+O contraste com 1923 é especialmente severo. Na estabilização de Weimar, recuperar a função da moeda ajudava a restabelecer contratos e trocas numa sociedade devastada pela inflação. Na ditadura, técnicas financeiras foram subordinadas à militarização e a um Estado que eliminava garantias de grupos inteiros. Os registros do julgamento e os arquivos do Reichsbank esclarecem essas diferenças e expõem as limitações da autodefesa posterior de Schacht.
 
 ## Depois da guerra: consultoria internacional, banco privado e memória
 
