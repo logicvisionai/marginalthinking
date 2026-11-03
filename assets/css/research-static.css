@@ -33,3 +33,17 @@
 @media(max-width:980px){.related-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:860px){.header-row>.language-switch{display:none}.report-content{width:100%;min-width:0}.related-grid{grid-template-columns:1fr}.citation-box{align-items:flex-start;flex-direction:column}.citation-actions{flex-wrap:wrap}.toc-panel{display:none}.meta-grid{grid-template-columns:1fr!important}.report-shell{padding-top:28px!important}}
 @media(max-width:560px){.report-content{padding-inline:14px}.report-content>p,.report-content>li{font-size:17px;line-height:1.72}.report-content>h2{font-size:29px}.author-signature{grid-template-columns:42px 1fr;margin-inline:14px;padding:18px}.author-signature .brand-mark{width:28px;height:48px}.citation-box,.related-research{margin-left:14px;margin-right:14px}.report-byline{font-size:11px}.report-content>.report-section{gap:13px;margin-bottom:30px}}
+
+/* Editorial photographs and illustrations. Original files live under assets/images/reports. */
+.report-content .report-image{display:block;width:100%;min-width:0;max-width:var(--reading);margin:28px 0 34px;border:1px solid #d6e0e3;border-radius:12px;background:#fff;overflow:hidden;box-shadow:0 10px 30px rgba(21,38,48,.055)}
+.report-content .report-image--lead{max-width:960px;margin:4px 0 40px}
+.report-content .report-image-frame{width:100%;overflow:hidden;background:#f3f5f3}
+.report-content .report-image img{display:block;width:100%;height:auto;object-fit:contain}
+.report-content .report-image figcaption{display:grid;gap:7px;padding:15px 18px 17px;border-top:1px solid #e1e7e7}
+.report-content .report-image-label{font:700 10px/1.4 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:#3f6576}
+.report-content .report-image-caption{font:400 15px/1.55 var(--serif);color:#23333a}
+.report-content .report-image-credit{font:400 11px/1.5 var(--sans);color:#617078}
+.report-content .report-image-credit a{font:inherit;color:#2b657a;text-underline-offset:2px}
+.report-content>.report-section>.report-image{margin:4px 0 12px}
+@media(max-width:560px){.report-content .report-image{margin:22px 0 28px;border-radius:8px}.report-content .report-image--lead{margin:0 0 28px}.report-content .report-image figcaption{padding:12px 13px 15px;gap:5px}.report-content .report-image-caption{font-size:14px}.report-content .report-image-credit{font-size:10px}}
+@media print{.report-content .report-image{break-inside:avoid;box-shadow:none;border-color:#bbb}.report-content .report-image-frame img{max-height:45vh;object-fit:contain}}
