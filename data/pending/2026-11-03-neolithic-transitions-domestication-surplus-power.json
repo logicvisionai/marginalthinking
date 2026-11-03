@@ -1,0 +1,156 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-03-NEOLITHIC-TRANSITIONS",
+  "slug": "2026-11-03-neolithic-transitions-domestication-surplus-power",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T10:15:00-03:00",
+  "kind": "historical-civilizations-research",
+  "priority": 60,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-03-neolithic-transitions-domestication-surplus-power/en.md",
+      "title": "The Neolithic transformations: cultivation, domestication, surplus and the changing architecture of power",
+      "deck": "A comparative economic, political and social history of cultivation, domestication, storage and authority across the Levant, China, New Guinea, Africa and the Americas, with direct archaeological evidence and rival interpretations.",
+      "tags": [
+        "Neolithic transformations",
+        "independent agricultural origins",
+        "domestication",
+        "grain storage",
+        "political economy",
+        "agricultural inequality",
+        "prehistoric health",
+        "animal husbandry",
+        "agricultural labour",
+        "archaeological institutions"
+      ],
+      "keywords": [
+        "Dhra granaries predomestication",
+        "Kuk Swamp agriculture",
+        "Lower Yangtze rice domestication",
+        "Cishan millet",
+        "Balsas maize origin",
+        "Sahel pearl millet",
+        "Çatalhöyük inequality",
+        "Neolithic demographic transition",
+        "Zagros goat herding",
+        "early agricultural inequality PNAS 2025"
+      ],
+      "regime": "Multiple regional processes restructured harvest risk, labor, land access, household storage and the potential for coercive surplus capture without an inevitable state-forming sequence.",
+      "key_risk": "Mistaking archaeological storage for taxation, domesticates for complete farming packages, cross-regional earliest-date indicators for a single calendar of invention or material wealth proxies for measured incomes.",
+      "watch": [
+        "Independent dating and genetic evidence for early crop management",
+        "Regional mobility versus settlement evidence",
+        "Household access to stored harvests and inequality proxies",
+        "Sex- and age-specific skeletal labor burdens",
+        "New paleogenetic evidence of animal management and dairying"
+      ],
+      "search_text": "neolithic origins of agriculture political economy farming plant domestication crop centers maize millet rice New Guinea Kuk Swamp grain surplus storage property inequality labor disease fertility archaeology"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-03-neolithic-transitions-domestication-surplus-power/pt-BR.md",
+      "title": "As transformações neolíticas: cultivo, domesticação, excedentes e a nova arquitetura do poder",
+      "deck": "História comparada econômica, política e social do cultivo, domesticação, armazenagem e autoridade no Levante, China, Nova Guiné, África e Américas, com evidência arqueológica e interpretações concorrentes.",
+      "tags": [
+        "Transformações neolíticas",
+        "origens independentes da agricultura",
+        "domesticação",
+        "estoques de grãos",
+        "economia política",
+        "desigualdade agrícola",
+        "saúde pré-histórica",
+        "criação animal",
+        "trabalho agrícola",
+        "instituições arqueológicas"
+      ],
+      "keywords": [
+        "celeiros predomesticação Dhra",
+        "Kuk Swamp agricultura",
+        "domesticação arroz Yangtzé",
+        "milheto Cishan",
+        "origem milho Balsas",
+        "milheto Sahel",
+        "desigualdade Çatalhöyük",
+        "transição demográfica neolítica",
+        "cabras Zagros",
+        "desigualdade agrícola PNAS 2025"
+      ],
+      "regime": "Processos regionais distintos reorganizaram o risco de colheitas, o trabalho, o acesso à terra, os estoques domésticos e a capacidade potencial de capturar excedentes sem formação inevitável de Estados.",
+      "key_risk": "Confundir armazenagem arqueológica com tributação, organismos domesticados com agricultura plenamente estabelecida, datas de evidências diversas com invenções universais ou proxies materiais com renda medida.",
+      "watch": [
+        "Novas datações e evidências genéticas de manejo vegetal",
+        "Mobilidade regional diante do sedentarismo",
+        "Direitos sobre estoques e indicadores de desigualdade",
+        "Carga física por sexo e idade em esqueletos",
+        "Novos resultados paleogenéticos de rebanhos e uso de leite"
+      ],
+      "search_text": "revolução neolítica origens agricultura economia política cultivo domesticação vegetal domesticação animal milho milheto arroz Nova Guiné Kuk Swamp celeiros excedente propriedade desigualdade trabalho doenças fertilidade arqueologia"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "commodities-resources",
+    "demography-labor",
+    "inequality-distribution",
+    "institutions-governance",
+    "technology-innovation",
+    "social-change",
+    "climate-environment"
+  ],
+  "phenomena": [
+    "demographic-transition",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "related_research_ids": [
+    "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY",
+    "MT-PE-2026-11-02-FORAGER-TERRITORY"
+  ],
+  "contrary_evidence": [
+    "Dhra granaries precede the archaeological evidence of fully domesticated cereals, so storage, sedentism and domestication cannot be assumed synchronous.",
+    "Çatalhöyük's multi-proxy study finds no unified trajectory of lasting institutionalized hierarchy, contradicting an agricultural-equals-permanent-elite law.",
+    "Cross-cultural inequality study finds marked increases often lagged plant domestication by 1,000 years or more, with population/land constraints relevant.",
+    "The Kuk Swamp record shows early exploitation, later mounds and much later ditches rather than a single invention moment.",
+    "Huxi early rice spikelet bases contain 61.2% wild shattering, 30.1% intermediate and 8.7% domesticated-type bases, undermining instant completed domestication.",
+    "Present-day inferred origins and prehistoric archaeological first occurrences have heterogeneous dates, contexts and biological criteria."
+  ],
+  "limitations": [
+    "Dates are site-specific and often calibrated BP; model-estimated pearl-millet expansion is not commensurable with an archaeological first appearance.",
+    "The cross-regional chronological chart compares selected indicative markers, not comparable dates of full domestication or quantitative productivity.",
+    "No prehistoric GDP, tax rates, global population series or directly observed income Gini values are claimed.",
+    "Skeletal proxies of health and workload capture selected people and cannot establish universal wellbeing changes.",
+    "DNA ancestry and domestication traits cannot by themselves identify ownership, legal entitlements or political coercion.",
+    "Review uses published source materials and secondary institutional summaries; it is not an independent peer-reviewed archaeological monograph."
+  ],
+  "producer_checks": {
+    "information_cutoff": "3 November 2026 BRT. Source papers 2003–2026, including 2024 Çatalhöyük inequality, 2025 cross-regional wealth comparison and February 2026 Iranian dairy evidence.",
+    "editorial_novelty": "Third independent study in Civilizations, Economics & Power: agricultural origins, domestication and changing surplus/power mechanisms rather than first Paleolithic toolmaking or preagricultural territorial institutions.",
+    "visual_signature": "Two bilingual-matched quantitative chronology charts: [11.3,10,9.4,8.7,6.95,4.9] thousand years BP for regional indicators of heterogeneous types and [10.22,6.95,4.35] thousand cal BP for Kuk phases; two evidence comparison tables, one three-chain causal diagram and one ten-region contextual map.",
+    "source_check": "23 matching scholarly/institutional URLs in both locales; verified key numbers against PNAS Dhra granaries, Scientific Reports early rice spikelets, Science Kuk sequence, UNESCO Çatalhöyük, PLOS 2024 and PNAS 2025 inequality and Nature Human Behaviour 2026 dairy study.",
+    "bilingual_parity": "19 equivalent analytical chapters plus bibliography; 23 matching URLs, identical chart values and observations; visual types and competing interpretations substantively equivalent.",
+    "research_depth": "English 4,947 substantive words / 39,484 characters; Brazilian Portuguese 5,265 substantive words / 41,820 characters, both substantially exceeding 8,000 substantive characters.",
+    "methodology": "Distinguishes plant collection, cultivation, morphological domestication, animal management, sedentism, household storage, institutional coercion and state formation; case-specific BP/cal BP/BCE chronology, historical alternatives and source provenance."
+  }
+}
