@@ -23,6 +23,10 @@ Research Markdown may use:
 
 Charts must be explicitly authored. The renderer does not infer a quantitative series from a table: prose, dates, ranges, units and non-additive categories cannot safely establish comparable observations.
 
+## Editorial images complement, but do not replace, research visuals
+
+Documentary photographs, archival images and conceptual illustrations are supported as local, SHA-versioned files under `assets/images/reports/` via the Markdown `image` fence and optional presentation-only lead manifest `data/report-images.json`. Their authenticity, source, licensing, bilingual alt text, caption, format and size are governed by [`RESEARCH-IMAGES.md`](./RESEARCH-IMAGES.md). A photograph or illustrative cover **does not count** as a sourced quantitative chart, a causal diagram or a geographical research map for the visual-evidence floor below. Existing immutable approved Markdown must not be altered merely to attach presentation-only original artwork.
+
 ## Minimum visual budget
 
 For research dated on or after 2026-09-18:
