@@ -21,27 +21,6 @@
         "license_url": "https://creativecommons.org/licenses/by/4.0/",
         "origin": "original"
       }
-    },
-    "MT-TECH-2026-11-03-ALGORITHMIC-REVOLUTION": {
-      "slug": "2026-11-03-algorithmic-revolution-attention-power-social-conflict",
-      "lead": {
-        "src": "/assets/images/reports/2026-11-03-algorithmic-revolution-attention-power-social-conflict/algorithmic-society-cover.svg",
-        "origin": "original",
-        "kind": "editorial-illustration",
-        "width": 1600,
-        "height": 900,
-        "alt": {
-          "en": "Conceptual art linking organizational metrics, computational networks and a pair of human silhouettes.",
-          "pt-BR": "Arte conceitual conectando indicadores organizacionais, redes computacionais e silhuetas humanas."
-        },
-        "caption": {
-          "en": "The revolution in algorithms connects quantitative administration, systems of selection and human relations. Conceptual illustration; not a documentary image or measured dataset.",
-          "pt-BR": "A revolução dos algoritmos conecta a administração quantitativa, os sistemas de seleção e as relações humanas. Ilustração conceitual, não imagem documental nem conjunto de dados medidos."
-        },
-        "credit": "LOGV / Marginal Thinking",
-        "license": "CC-BY-4.0",
-        "license_url": "https://creativecommons.org/licenses/by/4.0/"
-      }
     }
   }
 }
