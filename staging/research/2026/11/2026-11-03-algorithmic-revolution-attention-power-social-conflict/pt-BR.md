@@ -155,7 +155,7 @@ A presença da câmera modifica sobretudo a relação temporal entre ação e ju
 
 Essa gramática de reconhecimento não possui consequência social única. Encontros documentados de *aura* incluem brincadeira, dança, paródia e formas de convivência não violentas. Em outras situações, a expectativa de notoriedade pode somar-se a disputas entre pares e à disposição para assumir riscos. Entre os dois extremos, porém, não existe passagem automática. A relação entre audiência e comportamento perigoso depende do contexto, das motivações e das recompensas atribuídas ao ato. Uma montagem cinematográfica semelhante pode representar uma dança, uma competição esportiva, uma manifestação ou um confronto real sem que os acontecimentos compartilhem a mesma causa.
 
-O interesse histórico do fenômeno está na maneira como **métricas e linguagens de plataformas se tornam categorias cotidianas de reputação**. O indivíduo não precisa calcular matematicamente seu comportamento para agir dentro de um ambiente em que reconhecimento é continuamente contado, comparado e exibido. A cultura da *aura* é uma expressão desse processo: o prestígio continua sendo concedido por pessoas, mas a circulação que lhe dá escala é organizada por sistemas técnicos.
+**Métricas e linguagens de plataformas se converteram em categorias cotidianas de reputação.** O indivíduo não precisa calcular matematicamente seu comportamento para agir dentro de um ambiente em que reconhecimento é continuamente contado, comparado e exibido. A cultura da *aura* é uma expressão desse processo: o prestígio continua sendo concedido por pessoas, mas a circulação que lhe dá escala é organizada por sistemas técnicos.
 
 ## 11. Adolescência, identidade e o problema da formação de competências
 
@@ -182,7 +182,7 @@ As evidências experimentais apresentam limites relevantes. Uma pesquisa publica
 | Experimento de feed cronológico, 2023 | Mudança de ordenação durante a eleição norte-americana de 2020 | Mudanças importantes de experiência sem alteração significativa de atitudes centrais no curto prazo | Ausência de todos os efeitos prolongados ou de grupos específicos |
 | Nguyen e colegas, 2025 | Meta-análise de estudos sobre vídeos curtos | Associações com atenção, inibição e bem-estar | Dano cognitivo universal ou direção causal única |
 
-A literatura sustenta conclusão mais precisa: o desenho das redes sociais pode influenciar atenção e comportamentos determinados; magnitude, duração, direção e consequências sociais dependem profundamente do contexto. Uma crítica política torna-se mais consistente, não mais fraca, quando preserva essas diferenças.
+O desenho das redes sociais pode alterar a atenção e determinados comportamentos, mas magnitude, duração, direção e consequências variam segundo o contexto. As intervenções experimentais disponíveis identificam efeitos específicos, sem atribuir às plataformas um domínio irrestrito sobre preferências políticas.
 
 ## 13. O caso político brasileiro: um conflito social existente encontra nova infraestrutura comunicacional
 
@@ -268,7 +268,7 @@ Ucrânia | Documentação da guerra, testemunhos em primeira pessoa, mobilizaç�
 Estados Unidos | Intervenções experimentais em plataformas e respostas políticas e emocionais mensuradas | Experimentos do Facebook em 2012 e 2014; evidência contrária sobre feeds cronológicos publicada em 2023
 ```
 
-A comparação geográfica não implica uma rota entre os países nem respostas uniformes de todas as pessoas dentro de cada território. As diferenças entre eventos e funções das plataformas limitam qualquer comparação direta. A mesma capacidade de compartilhar vídeos pode apoiar persuasão eleitoral, documentação de testemunhas, responsabilização pública, financiamento coletivo ou coordenação ilegal, de acordo com a situação.
+As ocorrências registradas nos quatro países não representam etapas de um processo comum nem um padrão de resposta de suas populações. As diferenças entre eventos e funções das plataformas limitam qualquer comparação direta. A mesma capacidade de compartilhar vídeos pode apoiar persuasão eleitoral, documentação de testemunhas, responsabilização pública, financiamento coletivo ou coordenação ilegal, de acordo com a situação.
 
 Registros documentais demonstram que determinada mensagem ou gravação existiu. Dados de plataformas descrevem interações dentro dos limites de acesso; entrevistas revelam motivações declaradas, com riscos de memória seletiva; experimentos estimam efeitos sob intervenções específicas; registros administrativos e judiciais documentam desfechos e responsabilidades. Atribuir uma mudança social ampla a mecanismos algorítmicos depende da convergência dessas fontes, não da intensidade visual de uma gravação.
 
