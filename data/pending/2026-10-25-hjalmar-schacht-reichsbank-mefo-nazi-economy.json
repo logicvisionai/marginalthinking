@@ -126,7 +126,7 @@
   ],
   "producer_checks": {
     "information_cutoff": "3 November 2026; historical sources include Deutsche Bundesbank (2024), IMF (2019), CESifo Working Paper 4135 (2013), German Historical Museum, the Nuremberg proceedings, and 2025 scholarly balance-sheet analysis.",
-    "research_depth": "PT-BR 53,766 characters / approximately 7,468 whitespace-separated terms; EN 46,461 characters / approximately 6,252 terms. 31 section headings per language; three source-reproducible finance time-series charts, audited explanatory table, flow and map.",
+    "research_depth": "PT-BR ~53.8k characters / >7,000 words; EN ~46.5k characters / >6,000 words; 31 analytical sections in each edition, 3 reproducible historical financial charts, an explanatory balance-sheet table, a quantitative annual stock table, a causal flow and a geographical mechanism map.",
     "source_check": "Revised to address rejected v1 findings: added Deutsches Historisches Museum's 1932 petition chronology; replaced duplicated GHDI photographic citation for New Plan and bilateral clearing with IMF research; introduced financial time series from Burret, Feld and Köhler, table 4, with stocks, total debt and currency separately classified; differentiated 4% vs 5% coupon in sources; QA source-by-source review still required.",
     "visual_signature": "Three matching line charts in EN/PT-BR, fiscal 1938/39–1944/45, nominal billions Reichsmarks: Mefo bills outstanding [11.9,11.4,10.8,10.1,9.5,8.8,8.1], general government debt [53.2,73.5,102.6,153.3,208,284.9,387.9], notes and coins in circulation [11,15.2,18.3,23.8,29.8,38.7,73]. Final fiscal year partly estimated. Charts are not additive.",
     "translation_parity": "Both language editions have 31 H2 chapters, identical three chart datasets, financial periods and balances, parallel 1932 petition and revised clearing and source discussion.",
@@ -134,7 +134,7 @@
     "editorial_status": "Revision 2 staged and awaiting independent QA. NOT approved or publicly published.",
     "source_shas": {
       "en": "e3b4ab16428d8a23fb0a99f8d5e8d861cacde1e6",
-      "pt-BR": "fde3bf1e288c47a73cef348fbc34849b76449ae1"
+      "pt-BR": "4e59d298c3ab1ae31a4bb807062730f25e2f9b32"
     }
   }
 }
