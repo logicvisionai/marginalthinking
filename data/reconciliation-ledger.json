@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-02T15:57:08.881Z",
+  "last_reconciled_at": "2026-11-03T01:58:43Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7805,6 +7805,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI-assisted attacker operations and OT intrusion risks are discussed from selected Mandiant/Microsoft/GTIG samples, without an independently reproduced capability benchmark, deployment milestone or performance metric demonstrating a new technology signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-paleolithic-economy-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T01:58:43Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY"
+      ],
+      "audit_note": "QA-approved Paleolithic history research, revision 3, published atomically in both languages; all currently tracked cumulative assets reviewed, no fabricated historical-to-modern dataset transfer.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Prehistoric lithic circulation and social networks provide comparative historical context but do not establish modern country-to-country dependency edges or verified current exposure quantities."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No contemporary investable opportunity, named project, committed capex, owner or return forecast arises from Paleolithic archaeological sites."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Prehistoric communities and archaeological localities do not create currently tracked beneficial-ownership or corporate-state control relationships."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Stone provenance and ancient resource access do not document current mineral rights, concessions, reserves, ownership or offtake contracts."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Historical hypotheses about risk-sharing and authority are not an implemented contemporary policy intervention with observed causal outcomes."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Discussion of ancient coercion and territorial exclusion is not a verified contemporary armed-conflict event, attribution or escalation record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Pleistocene stone technology and fire-making evidence are historical findings, not a current demonstrated/deployed/scaled technology signal requiring a ledger change."
         }
       ]
     }
