@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-ACC-2026-11-02-AI-LABOR-INCOME",
+  "slug": "2026-11-02-after-accelerationism-ai-labor-income-power",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T23:55:00-03:00",
+  "kind": "accelerationism-systems-research",
+  "priority": 42,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-02-after-accelerationism-ai-labor-income-power/en.md",
+      "title": "After Accelerationism: Artificial Intelligence, Labour Income and the Struggle over the Pace of the Twenty-First Century",
+      "deck": "Why accelerating AI capability does not automatically produce broad prosperity: employment, early-career opportunity, capital ownership, basic income, electrical infrastructure, governance and autonomous warfare under 2026 evidence.",
+      "tags": [
+        "accelerationism",
+        "AI political economy",
+        "labour and income",
+        "universal basic income",
+        "autonomy and power"
+      ],
+      "keywords": [
+        "accelerationism",
+        "effective accelerationism",
+        "artificial intelligence",
+        "employment",
+        "productivity",
+        "wage distribution",
+        "universal basic income",
+        "automation",
+        "Dario Amodei",
+        "Sam Altman",
+        "energy",
+        "autonomous weapons",
+        "Brazil"
+      ],
+      "regime": "Fast technical diffusion, contested labour effects and unequal infrastructures.",
+      "key_risk": "Mistaking task exposure for unemployment, announced capital expenditure for delivered productivity and corporate statements for verified policy outcomes.",
+      "watch": [
+        "Youth hiring and employment in exposed occupations",
+        "Cost per verified task and measured firm-level productivity",
+        "Worker income share and cloud/chip concentration",
+        "Data-centre power delivery and demand",
+        "Independent frontier-safety and autonomous-weapons evidence"
+      ],
+      "search_text": "After Accelerationism: AI, labour income and the pace of technological progress, basic income, early-career employment, governance and security"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-02-after-accelerationism-ai-labor-income-power/pt-BR.md",
+      "title": "Depois do aceleracionismo: inteligência artificial, renda do trabalho e a disputa pelo ritmo do século XXI",
+      "deck": "Por que a rápida expansão da capacidade de IA não produz automaticamente prosperidade compartilhada: emprego, entrada na carreira, propriedade do capital, renda básica, infraestrutura elétrica, governança e guerra autônoma à luz de evidências de 2026.",
+      "tags": [
+        "aceleracionismo",
+        "economia política da IA",
+        "trabalho e renda",
+        "renda básica universal",
+        "autonomia e poder"
+      ],
+      "keywords": [
+        "aceleracionismo",
+        "aceleracionismo efetivo",
+        "inteligência artificial",
+        "emprego",
+        "produtividade",
+        "distribuição salarial",
+        "renda básica universal",
+        "automação",
+        "Dario Amodei",
+        "Sam Altman",
+        "energia",
+        "armas autônomas",
+        "Brasil"
+      ],
+      "regime": "Difusão técnica rápida, impactos laborais contestados e infraestrutura desigual.",
+      "key_risk": "Confundir exposição de tarefas com desemprego, investimento anunciado com produtividade entregue e declarações empresariais com resultados políticos comprovados.",
+      "watch": [
+        "Contratações de jovens e emprego em ocupações expostas",
+        "Custo por tarefa validada e produtividade empresarial medida",
+        "Participação salarial e concentração em chips/nuvem",
+        "Conexão elétrica de centros de dados e demanda",
+        "Evidências independentes sobre segurança de IA e armas autônomas"
+      ],
+      "search_text": "Depois do aceleracionismo: inteligência artificial, renda do trabalho, renda básica, contratação de iniciantes, governança e segurança"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets",
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "demography-labor",
+    "inequality-distribution",
+    "industry-production",
+    "institutions-governance",
+    "capital-markets",
+    "energy",
+    "geopolitics-security",
+    "social-change"
+  ],
+  "phenomena": [
+    "social-change",
+    "institutional-change",
+    "strategic-competition",
+    "defense-security"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Accelerationism, AI and social distribution",
+    "type": "political-economy-system"
+  },
+  "related_research_ids": [
+    "MT-HT-2026-10-24-ACCELERATIONISM"
+  ],
+  "producer_checks": {
+    "information_cutoff": "2 November 2026, America/Sao_Paulo; cites explicitly dated 2024, 2025 and 2026 sources and keeps observation years separate from publication dates.",
+    "research_depth": "English 5,584 approximate words, PT-BR 6,064 approximate words; 15 substantive H2 sections per locale. Both manuscripts provide methodological distinctions and competing scenarios.",
+    "source_check": "16 distinct URLs per locale including Stanford HAI, ILO, IMF, Anthropic, IEA, NBER, NATO, United Nations, OpenAI, Dario Amodei and IBGE; principal numerical series checked against source presentations.",
+    "translation_parity": "Matching three numeric chart series, equivalent article outline, tables, key claims, qualifications and source list in English and Brazilian Portuguese.",
+    "visual_signature": "Three quantitative charts each locale: survey AI adoption 55/88%, IMF exposure 60/40/26%, IEA data-centre electricity 415/945 TWh. Four analytical tables, one causal flow and one regional comparison map per locale, with numeric values identical.",
+    "methodology": "Separate task exposure from unemployment, survey adoption from deployment, scenario from observation, corporate statements from implementation, controlled research from political endorsement; contrast 3-4 conditional paths and note falsifiers.",
+    "draft_status": "Bilingual staging completed. Pending v2 is submitted for independent fact-check, editorial depth and visual QA; producer does not approve its own research.",
+    "limitations": [
+      "Source-page URLs were reviewed against published institutional summaries, but independent line-by-line verification and online availability remain QA responsibilities.",
+      "No original causal estimate of AI-induced labour displacement or fiscal UBI model is claimed.",
+      "Comparative geography table states mechanisms, not an audited country ranking."
+    ]
+  },
+  "revision_reason": "First current-affairs systems study under the new accelerationism editorial line; complements the October intellectual-history and technofeudalism publications."
+}
