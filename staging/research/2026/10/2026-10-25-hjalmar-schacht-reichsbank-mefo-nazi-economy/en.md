@@ -1,4 +1,4 @@
-# Hjalmar Schacht: from currency stabilization to financing Nazi rearmament
+# The shadow currency that was not a currency: Schacht, Mefo bills and Nazi rearmament
 
 Horace Greeley Hjalmar Schacht (1877–1970) exercised substantial monetary power under radically different German political regimes. In 1923 he helped coordinate stabilization during the final phase of the Weimar hyperinflation, initially as currency commissioner and then as president of the Reichsbank. After Adolf Hitler came to power, Schacht returned as central-bank president in 1933 and became Reich economics minister in 1934, designing credit arrangements that financed rearmament, concealed public obligations and concentrated foreign exchange on strategic imports. His financial competence acquired political meaning through the beneficiaries and purposes chosen for it. [1][2][3]
 
@@ -51,6 +51,143 @@ Employment recovery cannot be attributed to one official or interpreted without 
 Schacht's MEFO arrangement used bills issued by armaments suppliers and accepted through a nominal private company, *Metallurgische Forschungsgesellschaft*. The Reich ultimately guaranteed the claims, and banks could rediscount them with the Reichsbank. This allowed manufacturers to receive finance while major military obligations were kept outside transparent budget lines and ordinary central-bank disclosure. The Nuremberg prosecution recorded approximately 12 billion Reichsmarks of MEFO bills issued before the scheme ended for new instruments in April 1938. [12][13]
 
 A bill is a promise to pay; it does not create iron ore, labour or machinery. Financing makes orders and production possible by rearranging claims on future fiscal resources. If spending outruns the capacity to supply inputs, inflation or shortages follow. Price controls and rationing may conceal rather than remove those pressures. The scheme materially supported military expansion and reduced public scrutiny of its costs.
+
+
+## Mefo bills: why the purported secret currency was not a currency
+
+The *Mefo-Wechsel* were neither legal tender nor a separate unit of account. They were bills of exchange denominated in Reichsmarks, accepted by a special-purpose company, effectively guaranteed by the Reich and eligible for discounting through the banking system. Arms contractors could hold these remunerated claims, transfer them or seek cash liquidity. Unlike a Reichsbank note, a bill remained a credit claim against a named debtor with maturity and legal conditions. The phrase “shadow currency” describes its potential function as a liquid substitute for cash, not the creation of a second official German money. [12][19][23]
+
+Metallurgische Forschungsgesellschaft mbH had nominal capital of approximately **one million Reichsmarks** but accepted obligations on the scale of **12 billion Reichsmarks** near the 1938 termination of new issues—about **12,000 times** its equity. Creditworthiness could not plausibly rest on the company's own operating assets. It depended on sovereign guarantees and the expected support of the Reichsbank. The company's function was legal and financial: it converted government armaments purchasing into claims that appeared to originate in private commerce. [12][19][23]
+
+This was a mechanism for relocating debt, not eliminating it. Military procurement was the state's decision, while the financing appeared as a transaction between suppliers, a nominally private acceptor and banks. The Treasury could defer a visible cash payment and keep part of the obligations out of conventional public disclosures. Steel, labour and machinery were nevertheless consumed when weapons were delivered. Financial accounting postponed or redistributed claims; it did not reverse the underlying allocation of resources. [13][19]
+
+## Six participants in the Mefo financing circuit
+
+The structure connected government military agencies, weapons producers, Mefo, commercial banks, the Reichsbank and the Treasury as ultimate sovereign guarantor. The state commissioned equipment; the producer delivered it and drew a bill; Mefo accepted it; the contractor could retain the claim or sell it to a bank; a bank could seek rediscounting at the central bank. Transfers across balance sheets changed who held the asset without changing the public origin of the military order. [12][19][23]
+
+A **hypothetical RM100 transaction**, ignoring interest and discount charges, makes the accounting sequence transparent. Following delivery, the supplier records a RM100 claim and Mefo recognises a corresponding liability. No reserves must be created at this point. If a bank buys the bill by crediting a deposit, the supplier receives bank money. If that bank subsequently rediscounts the instrument at the Reichsbank, the central bank acquires the bill and credits reserves. Bank deposits and central-bank reserves can therefore be created at times different from the physical delivery of arms. [19][23]
+
+| Illustrative phase | Asset | Corresponding obligation | Liquidity effect |
+|---|---|---|---|
+| RM100 arms delivery | Contractor holds accepted RM100 bill | Mefo accepts; Reich guarantees | No automatic reserve creation |
+| Sale to a bank | Bank receives RM100 bill | Bank pays or credits deposit | Supplier obtains bank liquidity |
+| Reichsbank rediscount | Central bank receives bill | Central bank credits reserves | Monetary base may expand |
+| Final repayment | Holder receives Reichsmarks | Reich finances obligation | Taxes, new debt or monetary credit |
+
+This model is not an individual documented transaction and does not presume that every discount increased deposits by the full face value. Actual bills carried coupons, discounts, maturities and legal constraints. Haas, Reimer, Guter-Sandu and Murau reconstruct Mefo as an off-balance-sheet fiscal intermediary whose claims had a central-bank liquidity backstop. [23]
+
+The willing retention of bills mobilised private liquidity and delayed direct monetary financing, but also created a refinancing problem. If holders demanded cash at the same time, the state and its central bank would face the obligation. A legally commercial paper could ultimately carry sovereign risk. [19][21]
+
+## Maturity, interest and the limits of refinancing
+
+Evidence presented at Nuremberg described bills initially issued for six months and extended in successive three-month periods, sometimes remaining in existence for more than four years. Legal short-term paper was financing long-lived military commitments. Rolling over a bill does not reduce the borrower's debt; it exchanges an immediate payment for a later one. The structure depended on new financing, tax receipts and creditors prepared to maintain exposure. [12][14]
+
+Sources differ on the remuneration. The Bundesbank's 2024 institutional history cites **5%** as a rate intended to make the paper attractive to holders, whereas the IMF's account of interwar debt and some academic literature describe **4%**. The sources examined do not establish a uniform coupon for every issue and period. Their common economic finding is that interest income, a government guarantee and a potential route into central-bank liquidity encouraged holding. [19][21][26]
+
+Transfers between investors, retention on corporate balance sheets, the use of bills as quasi-money and rediscounting at the Reichsbank are different events. Bundesbank research points to restrictions designed to prevent broad monetary circulation of Mefo bills while documenting substantial monetisation through central-bank holdings. The IMF discusses the commercial and banking mechanisms that disguised sovereign indebtedness. The disputed shares of each channel affect the allocation of financing between private and central-bank balance sheets; they do not alter its underlying fiscal origin. [19][21][23]
+
+## The Weimar inheritance and Schacht's deliberate political choice
+
+Public credit programmes, acceptance-bank practices and employment measures existed in the final years of the Weimar Republic. German industrial indicators began improving before Mefo grew large. It would be historically inaccurate to credit one banker with the invention of anticrisis finance. Schacht's contribution under the dictatorship was to coordinate familiar banking methods into a secret procurement system for a military buildup under authoritarian control. [19][25]
+
+The 1923 Rentenmark was a very different event. The Weimar government, under acute hyperinflation, introduced a new currency framework backed by fiscal adjustment, restrictions on issuance and institutional reorganisation. Schacht became a central figure in stabilisation and then headed the Reichsbank, but the Rentenmark had been designed before his appointment. Mefo in 1934 was a device for financing procurement and disguising government liabilities, not replacing an inflating currency. [1][7][8][19]
+
+A May 1935 memorandum by Schacht to Hitler acknowledged the priority of armaments and the financial difficulties they imposed. Contemporary evidence is incompatible with the notion that Schacht financed only civilian recovery without knowing the purpose of the orders. His later hope of servicing the bills through future fiscal resources was a proposed funding exit, not proof that the regime would curb military expenditure. [12][13][14]
+
+## The 1932 petition for Hitler's appointment
+
+In November 1932 Schacht, a member of the *Freundeskreis der Wirtschaft*, **initiated a petition by industrialists and bankers to President Paul von Hindenburg urging him to appoint Adolf Hitler chancellor**. The Deutsches Historisches Museum specifically records this intervention. It preceded Schacht's return to the Reichsbank under the new regime and documents active political support, not merely technical obedience after the transfer of power. [1]
+
+Financial and conservative elites had varied motives, including anti-communism, nationalism, opposition to reparations and the expectation of industrial discipline. These motives do not assign identical criminal liability to every participant, but they make political choices an essential part of the biography. Schacht initially helped advance Hitler's accession and subsequently designed a central instrument of the regime's armaments financing. [1][4]
+
+## The New Plan and Germany's shortage of foreign exchange
+
+Credit claims denominated in Reichsmarks could bring forward payments to German factories, but they could not create dollars, sterling, oil, rubber or imported iron ore. Schacht's September 1934 New Plan coordinated import licences, foreign-exchange rationing and administrative priorities. Scarce external purchasing power was directed towards materials judged strategically necessary. Civilian buyers and unfavoured producers faced restrictions while the armaments sector increased demand for the same inputs. [15][21][30]
+
+Bilateral clearing arrangements allowed trade credits and debits to be offset through reciprocal accounts instead of requiring full immediate settlement in hard currency. Where balances were blocked or non-convertible, exporters could have to purchase German goods or negotiate special terms. Such agreements sustained trade for some firms but also gave political and financial administrators leverage over settlement. Their distributional effects depended on negotiated prices, available alternatives, convertibility and relative bargaining power. [21][22]
+
+Brazil is a documented example. Research in the *Revista de Historia Económica* examines German compensation trade during Getúlio Vargas's administration. Brazil also operated exchange controls and wanted export markets; Germany sought raw materials without an equivalent immediate expenditure of convertible reserves. The resulting contracts reflected economic interests on both sides, but restrictions on payments could make export earnings less freely usable. [29]
+
+In parts of central and south-eastern Europe, administered trade increased dependence on the German industrial market. The steel industry highlights the physical constraint: a claim promising Reichsmarks could not replace a missing shipment of iron ore. Mefo financing accelerated domestic payments; exchange controls addressed a separate shortage of foreign goods and foreign purchasing power, only partially and at a cost. [21][30]
+
+## Employment and civilian welfare: two different outcomes
+
+Richard Overy identifies early industrial recovery before Hitler's accession. With 1928 industrial output equal to 100, the index stood at **66 at the end of 1933** and regained its late-1920s level only around 1936. Construction, public demand, international recovery and rearmament contributed at different times. Conscription, exclusions and administrative changes also affected recorded unemployment. Falling unemployment cannot be attributed wholly to Mefo bills. [24][25]
+
+Military demand altered the **composition of production**. A steelmaker filling arms orders could hire workers, increase output and earn revenue, but its materials were then less available for housing, consumer goods and civilian machinery. Employment and interest income benefited selected workers, suppliers and financial institutions, while taxpayers and consumers faced future costs and forgone alternatives. The restoration of industrial activity was not automatically a corresponding increase in general welfare. [19][25]
+
+As Germany approached full employment, supplies of skilled labour, metals and foreign currency increasingly constrained the arms programme. Controlled prices and wages could obscure part of the inflationary pressure without producing more civilian goods. Shortages, queues and lower quality became alternative forms of adjustment. Financial promises could reorganise claims on production; they could not determine that the desired resources would physically exist. [19][20]
+
+The regime retained substantial private industry while directing procurement and repressing labour and minorities. Bundesbank research documents the Reichsbank's role in dismissing Jewish staff and in foreign-exchange controls linked to dispossession. Mefo bills did not cause each act of confiscation, but both credit mobilisation and persecution operated through institutions responsible to an authoritarian regime rather than democratic scrutiny. [19][28]
+
+## 1938–1945: Mefo liabilities declined as total Reich debt surged
+
+New Mefo issues ceased in spring 1938, but outstanding bills remained and armaments spending increased. A claim could be refinanced, transferred or redeemed through other state liabilities without eliminating the underlying fiscal burden. The regime increasingly used alternative debt instruments and the central bank as its financing needs expanded through war. [19][20][21]
+
+Burret, Feld and Köhler report a historical series assembled from Hansmeyer and Caesar. It distinguishes Mefo bills outstanding, general government debt and physical currency in circulation between 1938/39 and 1944/45. All figures below are **nominal billions of marks**, but they measure different aggregates. Mefo obligations are not an additional amount that can simply be added to the reported public-debt total; notes and coins do not cover all bank deposits. The final fiscal period is partly estimated. [20]
+
+| Fiscal year | Mefo bills outstanding, RM billions | General government debt, RM billions | Notes and coins, RM billions |
+|---|---:|---:|---:|
+| 1938/39 | 11.9 | 53.2 | 11.0 |
+| 1939/40 | 11.4 | 73.5 | 15.2 |
+| 1940/41 | 10.8 | 102.6 | 18.3 |
+| 1941/42 | 10.1 | 153.3 | 23.8 |
+| 1942/43 | 9.5 | 208.0 | 29.8 |
+| 1943/44 | 8.8 | 284.9 | 38.7 |
+| 1944/45* | 8.1 | 387.9 | 73.0 |
+
+*Burret, Feld and Köhler (2013), table 4, drawing on Hansmeyer and Caesar (1976). Final period partly estimated; nominal categories cannot be indiscriminately aggregated.* [20]
+
+```chart
+type: line
+title: Mefo bills outstanding between 1938/39 and 1944/45
+unit: nominal billions of Reichsmarks; final period partly estimated
+1938/39 | 11.9
+1939/40 | 11.4
+1940/41 | 10.8
+1941/42 | 10.1
+1942/43 | 9.5
+1943/44 | 8.8
+1944/45 | 8.1
+```
+
+```chart
+type: line
+title: German general government debt between 1938/39 and 1944/45
+unit: nominal billions of marks; final period partly estimated
+1938/39 | 53.2
+1939/40 | 73.5
+1940/41 | 102.6
+1941/42 | 153.3
+1942/43 | 208
+1943/44 | 284.9
+1944/45 | 387.9
+```
+
+```chart
+type: line
+title: Notes and coins in circulation between 1938/39 and 1944/45
+unit: nominal billions of marks; final period partly estimated
+1938/39 | 11
+1939/40 | 15.2
+1940/41 | 18.3
+1941/42 | 23.8
+1942/43 | 29.8
+1943/44 | 38.7
+1944/45 | 73
+```
+
+Mefo bills outstanding fell from **11.9 billion** in 1938/39 to **8.1 billion Reichsmarks** in 1944/45. Over the same interval, government debt rose from **53.2 billion to 387.9 billion**, and physical currency circulation from **11 billion to 73 billion**. The fall in a specific category does not show fiscal discipline: the total burden expanded sharply through other channels. Nor should the roughly 12 billion reported close to the end of new issuance be added again to the public debt as if it were outside the aggregate. [12][20]
+
+Price and wage control did not extinguish the resource cost. As military allocation absorbed goods and labour, civilian purchasing power faced tighter supply; pressure could appear as shortages and deteriorating quality rather than recorded price changes alone. The 1948 Deutsche Mark reform followed defeat and institutional collapse, not the ordinary repayment of a separately issued Mefo currency. [19][20]
+
+## Schacht's political record and the Nuremberg judgment
+
+The International Military Tribunal acquitted Schacht on the counts adjudicated because it did not find proof beyond reasonable doubt of the necessary knowing participation in the alleged aggressive-war plan. It did not deny his role in financing rearmament. A documented financing decision and the proof required for criminal conviction of a particular offence are different matters. [4][5]
+
+His dismissal in 1939, detention in 1944 and acquittal in 1946 remain important facts, but they do not undo his 1932 campaign for Hitler's appointment or the 1934–38 credit structures that expanded military procurement. Technical competence once directed towards Weimar stabilisation was deployed under the Nazi dictatorship for a radically different political purpose. [1][19][28]
+
+Mefo did not create a sustainable escape from fiscal constraints. It transformed political guarantees, commercial financial claims and a central-bank backstop into immediate purchasing power for armaments. Financial obligations could be moved, rolled over and obscured; the allocation of real resources and the consequences of the regime's choices could not. [19][20][23]
 
 ## Maturity, rolling debt and the central bank's contingent liability
 
@@ -122,12 +259,6 @@ Schacht's record defeats the assumption that financial techniques have an inhere
 
 Military procurement may reduce unemployment and raise measured industrial output without improving sustainable civilian welfare. Steel, labour, research and energy used to produce weapons are not simultaneously available for consumer products or housing. War destroys further human and physical capital. Employment statistics detached from coercion and the composition of output cannot establish that Nazi economic policy was a replicable model of prosperity.
 
-## Schacht, Campos and Delfim: comparing instruments without equating regimes
-
-Schacht's experience has a limited methodological parallel with Brazilian debates involving Roberto Campos and Antônio Delfim Netto. Monetary control, sovereign borrowing, external credit and import priorities pose related accounting and economic problems. But indexed debt under Brazil's military regime, industrial-development lending and Nazi rearmament had different purposes, coercive structures and consequences. Similar financial instruments do not create a common ideology or equal political responsibility. [7][15]
-
-The shared analytical task is to separate budget expenditure from contingent liabilities, financial claims from actual productive resources, and a stable currency from a just political order. Schacht offers an extreme warning about the danger of central banks financing military projects without effective political restraint.
-
 ## The historical verdict: stabilization, complicity and constrained dissent
 
 Schacht did play an important role in the successful stabilization of 1923. He also materially financed and organized Nazi military expansion until the leadership's accelerating demands exceeded what he was prepared to support. Nuremberg limited a specific criminal accusation, while historical records establish the actual financing mechanisms. Neither the acquittal nor his later arrest can cancel earlier political collaboration. [2][4][12]
@@ -143,6 +274,7 @@ A precise account follows institutions, decisions, credit flows, maturities, res
 | 1924 | Dawes Plan | Creditors and government | Finance and reparations |
 | 1930 | Reichsbank resignation | Weimar Republic | Young Plan conflict |
 | 1931 | Harzburg Front | Conservatives and Nazi Party | Anti-democratic coalition |
+| 1932 | Petition urging Hitler's appointment | Business circles and Hindenburg | Schacht initiated the appeal |
 | 1933 | Return to Reichsbank | Hitler government | Monetary leadership |
 | 1934 | Economy ministry and MEFO | Government and central bank | Hidden rearmament obligations |
 | 1936 | Göring's Four-Year Plan | Nazi regime | Shift in influence |
@@ -154,23 +286,9 @@ A precise account follows institutions, decisions, credit flows, maturities, res
 | 1953 | Bank and memoir | Düsseldorf | Postwar narrative |
 | 1970 | Death | Munich | End of career |
 
-```chart
-type: bar
-title: Nominal durations of Schacht's principal economic offices
-unit: approximate years per office; overlapping roles are not additive
-Reichsbank presidency 1923–1930 | 7
-Reichsbank presidency 1933–1939 | 6
-Economy ministry 1934–1937 | 3
-```
 
-```chart
-type: bar
-title: Intervals between Schacht's documented career events
-unit: elapsed calendar years; chronology not a measure of effectiveness
-Stabilization 1923 to return to Reichsbank 1933 | 10
-Return 1933 to dismissal 1939 | 6
-Dismissal 1939 to Nuremberg judgment 1946 | 7
-```
+
+
 
 ```flow
 Military procurement contracts → MEFO company accepts bills → banks hold or rediscount claims → Reichsbank supplies liquidity → sovereign-backed liabilities
@@ -190,7 +308,7 @@ Indonesia and Middle East | Postwar economic advice | Distinct national contexts
 
 [1] German Historical Museum, Hjalmar Schacht institutional biography: https://www.dhm.de/lemo/biografie/hjalmar-schacht
 
-[2] German History in Documents and Images, economic ministry and MEFO: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
+[2] German History in Documents and Images, documentary photograph of Hitler and Schacht (5 May 1934), with editorial context: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
 
 [3] United States Holocaust Memorial Museum, Schacht legal case: https://encyclopedia.ushmm.org/content/en/article/hjalmar-schacht
 
@@ -216,10 +334,34 @@ Indonesia and Middle East | Postwar economic advice | Distinct national contexts
 
 [14] Nuremberg court transcript, questioning about MEFO maturities: https://avalon.law.yale.edu/imt/05-03-46.asp
 
-[15] German History in Documents and Images, New Plan and controlled trade: https://germanhistorydocs.org/en/nazi-germany-1933-1945/hitler-with-reichsbank-president-hjalmar-schacht-may-5-1934
+[15] IMF, historical research on the New Plan, import control and bilateral clearing: https://www.elibrary.imf.org/abstract/book/9781513511795/ch006.xml
 
 [16] Deutsche Bundesbank, Wilhelm Vocke and 1939 memorandum: https://www.bundesbank.de/en/tasks/topics/standard-bearer-for-bundesbank-independence-667026
 
 [17] German Historical Museum, Schacht after 1946: https://www.dhm.de/lemo/biografie/hjalmar-schacht
 
 [18] Institute of Contemporary History Munich, Schacht documentary collection: https://open.ifz-muenchen.de/entities/bestand/8ab06b2c-5406-48df-9a64-5ece42ab1031/full
+
+[19] Deutsche Bundesbank, Magnus Brechtken and Ingo Loose, eds., *From the Reichsbank to the Bundesbank* (2024), institutional history of Nazi monetary financing: https://www.bundesbank.de/resource/blob/927730/25fef541e4458e82d064ac532464646f/mL/von-der-reichsbank-zur-bundesbank-data.pdf
+
+[20] H. T. Burret, L. P. Feld and E. A. Köhler, *Sustainability of German Fiscal Policy and Public Debt: Historical and Time Series Evidence for the Period 1850–2010*, CESifo Working Paper 4135 (2013), table 4: https://www.ifo.de/DocDL/cesifo1_wp4135.pdf
+
+[21] IMF, *Germany in the Interbellum: Camouflaging Sovereign Debt*, in *Debt and Entanglements Between the Wars* (2019): https://www.elibrary.imf.org/abstract/book/9781513511795/ch006.xml
+
+[22] *Central European History*, “The Nazi Financial Order: Banking Law and the Credit Supervisory Office in Germany and Austria”: https://www.cambridge.org/core/journals/central-european-history/article/nazi-financial-order-banking-law-and-the-credit-supervisory-office-in-germany-and-austria/39DF888E66F688C7F2D64EC6BBFF0041
+
+[23] A. Haas, F. Reimer, A. Guter-Sandu and S. Murau, *The Mefo Operation*, summary of macrofinancial balance-sheet reconstruction (2025): https://steffenmurau.com/2025/05/02/the-mefo-operation/
+
+[24] Deutsches Historisches Museum, “Arbeitslose in Deutschland 1933–1939”: https://www.dhm.de/lemo/bestand/objekt/arbeitslose-in-deutschland-1933-1939
+
+[25] R. J. Overy, *The Nazi Economic Recovery 1932–1938*, chapter “The nature of the recovery”: https://www.cambridge.org/core/books/abs/nazi-economic-recovery-19321938/nature-of-the-recovery/025B25E94F7DEF89BD2218A0BD716F14
+
+[26] *Economia e Sociedade*, “Hjalmar Schacht e a economia alemã (1920–1950)”, SciELO: https://www.scielo.br/j/ecos/a/Mgwc4vsJhRdCxnfVXjNfZzS/?lang=pt
+
+[27] Bundesbank, “Standard bearer for Bundesbank independence”, Wilhelm Vocke and the 1939 memorandum: https://www.bundesbank.de/en/tasks/topics/standard-bearer-for-bundesbank-independence-667026
+
+[28] United States Holocaust Memorial Museum, “How did the Nazis and their collaborators implement the Holocaust?”: https://encyclopedia.ushmm.org/content/en/question/how-did-the-nazis-and-their-collaborators-implement-the-holocaust
+
+[29] *Revista de Historia Económica*, “German Economic Strategies for Brazil: Autarky and Extended Economic Space in the 1930s”: https://www.cambridge.org/core/journals/revista-de-historia-economica-journal-of-iberian-and-latin-american-economic-history/article/german-economic-strategies-for-brazil-autarky-and-extended-economic-space-in-the-1930s/AB13872A0D97B4BC9B8563371BF9D0EA
+
+[30] “Import Dependence and Strategic War Planning – The German Iron and Steel Industry, 1933–1945”: https://www.tandfonline.com/doi/full/10.1080/07075332.2024.2323490
