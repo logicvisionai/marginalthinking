@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "id": "MT-TECH-2026-11-03-ALGORITHMIC-REVOLUTION",
-  "revision": 1,
+  "revision": 2,
   "qa_status": "approved",
-  "reviewed_at": "2026-11-03T04:20:35.394Z",
-  "reviewed_commit": "b00ec547ff8509c84d3bfa8d39b178d3b3faed99",
-  "pending_blob_sha": "8ce2b65aff238390e3d927e66f745f4d5de1b770",
+  "reviewed_at": "2026-11-03T04:40:15.550Z",
+  "reviewed_commit": "98ea54aadda63317ba9e1ce0f3bf0f8882674c91",
+  "pending_blob_sha": "f5f1b173b2d099b715065e44dc79d31593116592",
   "source_blob_shas": {
-    "en": "4fd024258b5061f10e48ee8e8baa4a64d16359e7",
-    "pt-BR": "8f0527fb0edb8cc704da759eb4df4250e22bbd6a"
+    "en": "8f82e7e8769a8f5ff7238332b75a01e6fc31aa13",
+    "pt-BR": "5e0241b38f852f141b2e41adc94ebbe92f89e2cb"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -20,11 +20,11 @@
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Reviewed EN 70,908 characters, PT-BR 75,128 characters; 24 substantive chapters and full bibliography per language. Covers quantified administration, technical ranking, platform economy, youth psychology, aura, Brazilian politics, France, Ukraine, automated work, Thiel, regulation, counter-hypotheses and falsifiable futures."
+      "summary": "Revised EN 73,095 and PT-BR 78,107 characters, 24 substantive chapters plus references; substantial editor-led rewrite of aura and 30 other paragraph clusters per language without shortening analysis."
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "24 numbered references in both languages, 24/24 labels declared and used, including original academic and institutional publications from Nature, PNAS, Science, Psychological Bulletin, CNA, OECD, Senate France, the European Commission, Brazilian researchers and agencies. All high-impact platform count and sample denominators are stated and qualified."
+      "summary": "Revision maintains the same 24 source URLs, numbering and unchanged primary numeric observations as prior QA-approved v1; no material new contemporary findings. Expository changes do not silently change empirical claims."
     },
     "counterfactual_review": {
       "result": "passed",
@@ -32,11 +32,11 @@
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "The two quantitative chart series, 108/24/1 and 36/5/4/2/2/1/0.6, match exactly between languages with original-source denominators, dates and qualifications. Two detailed evidence tables, a two-chain causal flow, a case-study regional map and two local original SVG illustrations per locale; matching image paths and CC BY 4.0 author credits verified."
+      "summary": "The revision preserves two source-qualified quantitative bar charts (108/24/1; 36/5/4/2/2/1/0.6) with identical data values and contextual denominators, two tables, causal flow, geographic case map, two original CC-BY-4.0 illustrations in each locale, unchanged from prior approved public revision."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Corporate, legal, neurological, military and political factual claims attributed and separated from causal theories; substantive reporting has no conversational scaffolding, internal pipeline notes or unverified synthetic historical photographs. Bilingual version preserves 24-section logic, sources and empirical status, not just summaries."
+      "summary": "Article prose now states mechanisms, historical examples, distinctions and outcomes without overt instructions to the author/reader. The revised passages align with EDITORIAL-STYLE.md natural prose mandate."
     },
     "source_vintage_and_context": {
       "result": "passed",
@@ -44,7 +44,15 @@
     },
     "source_integrity": {
       "result": "passed",
-      "summary": "Bilingual staged manuscripts and the pending v2 snapshot reread and tied to exact Git SHA values; 24 numbered source identities and corresponding URLs inspected; two original SVG assets present at referenced repository paths."
+      "summary": "All 24 references and their URLs match existing QA-reviewed revision 1; latest source and pending files bound to exact Git blobs. Editorial correction is not presented as a new independent empirical investigation."
+    },
+    "natural_institutional_prose": {
+      "result": "passed",
+      "summary": "Both languages re-read after substantive rewrite; removed direct metadiscourse about the article, repeated prescriptive research advice, formulaic counterfactual narration and loose causal transitions. Chapter 10 now explains symbolic status accumulation, camera-mediated reputation and distribution mechanics directly."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Preserves section order, conceptual mechanisms and economic/political qualifications in both languages; exactly same 24 source numbers, two chart numerical series, two inline image paths and two structured tables."
     }
   },
   "contrary_evidence": [
@@ -59,9 +67,10 @@
     "The French inspectorate sample rates are non-exhaustive and the Brazil sample refers to high-interaction content in selected groups; the figures cannot be treated as nationally representative.",
     "The manuscript does not claim proof of platform-induced military enlistment or violent action, and it does not diagnose any individual or age group.",
     "Two source-localised inline illustrations and one optional original cover are editorial art, not independent photographic evidence.",
-    "Full site deployment remains separate from editorial approval and requires a successful GitHub Actions build and configured hosting credentials."
+    "Full site deployment remains separate from editorial approval and requires a successful GitHub Actions build and configured hosting credentials.",
+    "Review of revision 2 verifies literary and analytical consistency against previously approved source citations; external sources were not all re-fetched anew because source list and quantitative claims were unchanged."
   ],
-  "notes": "Evidence-based editorial verification performed after the producer completed both manuscripts, with source identity, terminology, political neutrality, numerical parity, format, images and exact SHAs checked; the public publisher must independently repeat immutable-hash and registry-ledger checks before promoting.",
+  "notes": "Revision 2 editorial QA: addresses publisher complaint about conversational and metadiscursive writing throughout. Chapter 10 rebuilt and dozens of paragraphs rewritten in both locales. Original research references and quantitative values unchanged; source and pending blob hashes verified, original public revision remains 1 until publisher promotion. No direct public bundle modification in this QA transaction.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -203,7 +212,7 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 1,
+    "revision": 2,
     "assessment_confidence": "medium",
     "research_subject": {
       "name": "The algorithmic organisation of social experience, allocation and political power",
@@ -216,7 +225,7 @@
     "producer_checks": {
       "information_cutoff": "Research documented through 2 November 2026 BRT; publication date 3 November 2026. Distinguishes 2010/2012 and 2014 experiments, 2018/2022 Brazilian evidence, 2023 French unrest, 2025 meta-analysis, and preliminary 2026 regulation.",
       "editorial_novelty": "Systematic genealogy from quantitative state administration and McNamara's Vietnam-era measures to contemporary feedback loops, identity performance, filmed conflict, political mobilisation, algorithmic management and the economics of attention.",
-      "research_depth": "English about 9,632 words / 70,908 characters, PT-BR about 10,074 words / 75,128 characters. Exactly 24 substantive chapters plus a full references section; includes causal models, competing hypotheses and falsification criteria.",
+      "research_depth": "Revised English around 9,800 words / 73,095 characters; revised Brazilian Portuguese around 10,400 words / 78,107 characters; 24 substantive chapters and full bibliography per edition. The revision replaces editorial meta-explanation with direct historical, sociological, political and economic mechanisms.",
       "source_check": "24 numbered academic, historical, institutional, governmental and documented journalistic references present and cited in both editions; primary empirical numbers trace to CNA, Nature, PNAS, Science, Psychological Bulletin, Piaia/Alves, Agência Pública/UFMG, InternetLab, Sénat, OECD and European Commission.",
       "visual_signature": "Both editions have two quantitative charts (TikTok/Kwai provenance: 108/24/1; French inspectorate sample rates: 36/5/4/2/2/1/0.6), two evidence tables, one causal flow, one geographic case map and two localized original SVG inline illustrations. Original cover illustration reserved for the public media registry after QA.",
       "bilingual_parity": "25 matching H2 headings including references, 24/24 numbered source entries with identical URLs, identical chart numeric data and image paths, logically aligned evidence and counterarguments. Both versions use the same report slug and media provenance.",
@@ -229,8 +238,11 @@
         "Brazilian message counts and short-video provenance originate in bounded samples; the article does not estimate election vote causation.",
         "The 2025 short-video meta-analysis reports correlational synthesis, not experimental proof of permanent cognitive injury.",
         "Some third-party works are cited only, not reproduced; three illustrations are original conceptual art and never presented as event photography."
-      ]
+      ],
+      "editorial_revision": "Revision 2, editorial rewrite: replaced the full chapter 10 in both languages; reworked 30 additional passage clusters per language to remove conversational scaffolding and narrator commentary; preserved all numerical series, documented historical claims, sources and visual assets. Final language scan removed remaining self-referential summaries and rhetorical prompts.",
+      "revision_equivalence": "EN 73,095 characters; PT-BR 78,107 characters; both 25 H2 including references, 24 original numbered bibliographic entries, identical chart values 108/24/1 and 36/5/4/2/2/1/0.6, same two SVG paths, two evidence tables, one flow and one comparative map per language.",
+      "revision_scope": "Editorial clarity and argument continuity, not a new factual claim. Eliminates repetitive phrases such as 'the hypothesis would require', 'this case is valuable', 'a research agenda must', and Portuguese equivalents. Treats aura farming as social reputation and platform feedback rather than a moralistic warning."
     },
-    "revision_reason": "First full historical, political-economic and sociopsychological research on algorithmic governance and attention power, connected to the accelerationism programme but broader than any one political movement."
+    "revision_reason": "Substantive editorial revision requested by publisher: replace conversational and self-referential research prose with direct institutional analysis across both languages; completely rewrite aura farming as an examination of symbolic reputation, numerical visibility and physical/digital interaction. Preserve all factual claims, source numbering and visual data."
   }
 }
