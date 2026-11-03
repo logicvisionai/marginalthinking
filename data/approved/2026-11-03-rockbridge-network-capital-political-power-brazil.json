@@ -1,0 +1,306 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-03-ROCKBRIDGE-NETWORK",
+  "slug": "2026-11-03-rockbridge-network-capital-political-power-brazil",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-03T06:13:32.428Z",
+  "reviewed_commit": "4459f28e6d8a5d4651b6fa21004250022c58a3c8",
+  "pending_blob_sha": "bbe8b25ae42992f16cbfa9bc72356ff0a3ebae2d",
+  "source_blob_shas": {
+    "en": "457fdcbba42552cd2e5a131461350b0a53bc3110",
+    "pt-BR": "62453788dc58ec55e304289adbad7a4fb97ac87e"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Staged manuscripts and pending SHA match exact Git blobs; first approved review only."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Registered editorial kind, report format, controlled taxonomy and two canonical locales verified."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Historical reporting 2019-2026 dated accurately; current inquiry dated 27 October; no US midterm result asserted."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "FEC committee and filing windows, 2024 budget estimate, 2026 proposed funding and Brazil prospectus pricing not conflated."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "24 numbered bibliography URLs identical across languages, sourced official electoral statutes and FEC financial filing; private proposals attributed."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN 7783 and PT-BR 9433 words; 22 analytic chapters and documentary reference sections."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Three numeric chart arrays identical, one map, one flow, one table and two original properly attributed local figures per language."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Analytical institutional prose, competing mechanisms and published responses; no conversational writing scaffolding."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Same 24 sources and numeric series, cross-country comparison, dispute qualifications and visual source paths."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Opposing interpretations distinguished; registration does not establish funding and political contacts do not prove unlawful services."
+    },
+    "conflict_security_attribution": {
+      "result": "passed",
+      "summary": "Official STF inquiry distinguished from conviction; legal foreign-funding rules and attributed claims separated."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Named parties' denials and due-process limits included alongside reported original documents."
+    }
+  },
+  "contrary_evidence": [
+    "Donor network and 1789 Capital have overlapping people and intellectual origins but separate legal identities; fund portfolio ownership cannot be automatically imputed to Rockbridge.",
+    "Rockbridge Brazil LLC exists in Wyoming, but the US organisation states the Brazilian project was rejected, never funded and never operated; others said the Technology Council did not meet.",
+    "Brazilian parties and newspapers reported possible campaign assistance; formal allegations remain under investigation with denials by campaign and named intermediaries, and no published final finding of unlawful financing.",
+    "High-priced member offers and the claimed $100 billion economic impact are proposals and not verified cash receipts, investment contracts or realised employment.",
+    "2024 super PAC receipts and 2026 announced turnout targets describe different time horizons and administrative entities, not one audited total of Rockbridge resources.",
+    "Political participation, meetings, trade/investment dialogues and conservative media funding can be lawful; prohibited foreign campaign benefits require evidence of concrete underlying acts and financing.",
+    "The existence of mineral interest, defence investments or high-level access alone does not establish a corrupt bargain, asset transfer or rigged public procurement."
+  ],
+  "limitations": [
+    "Financing of private network entities and beneficial ownership are not fully disclosed; reported 2024 network budget is a sourced estimate, not audited accounts.",
+    "Federal filing counts relate to Turnout for America and not the sum of all Rockbridge committees; overlapping flows or periods are not aggregated.",
+    "Proprietary or confidential Brazilian plans are examined through named Brazilian investigative publications; not all original internal pages are independently accessible.",
+    "Brazilian operations, candidate involvement and possible foreign economic contributions remain disputed and under investigation as of the dated public sources.",
+    "Reported 1789 Capital holdings and its historical AUM are not current investment valuations or evidence of control over government procurement.",
+    "Corporate registration in Wyoming does not by itself establish beneficial ownership, active Brazil operations or a completed commercial investment.",
+    "Illustrations are original conceptual art, not photographs, technical evidence of ownership or depictions of proven financial transfers.",
+    "No later November 3 US midterm result incorporated in an article with early November 3 cutoff."
+  ],
+  "notes": "QA review: source identity, relative dates, case-law characterization and unpublished proposal versus actual finance were checked. Exact 3/3 SHA lock; no claim of established campaign wrongdoing.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-03-ROCKBRIDGE-NETWORK",
+    "slug": "2026-11-03-rockbridge-network-capital-political-power-brazil",
+    "date": "2026-11-03",
+    "published_at": "2026-11-03T03:10:05-03:00",
+    "kind": "political-economy-event-assessment",
+    "priority": 37,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "institutions-governance",
+      "geopolitics-security",
+      "technology-innovation",
+      "trade-investment",
+      "banking-credit",
+      "infrastructure-logistics",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "social-change"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "political-stability",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-03-rockbridge-network-capital-political-power-brazil/en.md",
+        "title": "Rockbridge Network: Political Venture Capital, the American Tech Elite and the Contest for Influence in Brazil",
+        "deck": "From J.D. Vance, Chris Buskirk and Peter Thiel to US super PAC finance, 1789 Capital, South Korea and disputed political operations in Brazil: an evidence-led investigation of private capital and democratic influence.",
+        "tags": [
+          "Rockbridge Network",
+          "J.D. Vance",
+          "Chris Buskirk",
+          "Peter Thiel",
+          "1789 Capital",
+          "Political capital",
+          "United States",
+          "Brazil election 2026",
+          "Foreign campaign finance",
+          "Technology and defence",
+          "Institutional power"
+        ],
+        "keywords": [
+          "Rockbridge Network 2019",
+          "JD Vance Chris Buskirk Peter Thiel",
+          "political venture capital",
+          "Turnout for America FEC C00883520 2024",
+          "1789 Capital Donald Trump Jr",
+          "Rockbridge Korea 2026",
+          "Rockbridge Brazil LLC Wyoming May 12 2026",
+          "Flavio Dino federal police October 27 2026",
+          "Flavio Bolsonaro campaign allegations",
+          "Brazil critical minerals rare earths technology council",
+          "US super PAC independent expenditures",
+          "2026 Brazilian election foreign interference investigation"
+        ],
+        "regime": "Private donor networks increasingly finance durable political institutions and connect technology investment, strategic industries and access to public decision-makers; Brazilian extension remains contested at the evidence level.",
+        "key_risk": "Equating Rockbridge donor network with separate 1789 Capital or turning Brazilian corporate registration, proposed investor memberships and ongoing investigation into proven illicit campaign finance.",
+        "watch": [
+          "Updated FEC Turnout for America reports and realised 2026 spending",
+          "Status and evidence of Federal Police investigation ordered on 27 October",
+          "Rockbridge Brazil LLC corporate records, contracts and payments",
+          "Any operational Technology Council meetings, verified investment agreements or member contributions",
+          "Brazil critical-mineral licences and real beneficial owners, if any transaction emerges",
+          "South Korean entity governance and verifiable public forums",
+          "US congressional results after polls close and institutional consequences, not assumed in early 3 November cutoff"
+        ],
+        "search_text": "Rockbridge Network donor financing political venture capital JD Vance Chris Buskirk Peter Thiel 1789 Capital Turnout For America US election Brazil Rockbridge LLC Wyoming China rare earths Brazilian Flavio Bolsonaro Federal Police October 27 2026 investigation"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-03-rockbridge-network-capital-political-power-brazil/pt-BR.md",
+        "title": "Rockbridge Network: capital político, elite tecnológica americana e a disputa por influência no Brasil",
+        "deck": "A rede de J.D. Vance, Chris Buskirk e Peter Thiel, o financiamento político americano, a 1789 Capital, a atuação coreana e a controvérsia brasileira de 2026 analisados por documentos, registros e evidências.",
+        "tags": [
+          "Rockbridge Network",
+          "J.D. Vance",
+          "Chris Buskirk",
+          "Peter Thiel",
+          "1789 Capital",
+          "Capital político",
+          "Estados Unidos",
+          "Eleição brasileira 2026",
+          "Financiamento estrangeiro",
+          "Tecnologia e defesa",
+          "Poder institucional"
+        ],
+        "keywords": [
+          "Rockbridge Network Brasil",
+          "Vance Buskirk Thiel rede conservadora",
+          "capital de risco político",
+          "Turnout for America FEC C00883520 2024",
+          "1789 Capital Trump Jr",
+          "Rockbridge Coreia do Sul 2026",
+          "Rockbridge Brazil LLC Wyoming 12 maio 2026",
+          "Flávio Dino polícia federal 27 outubro 2026",
+          "campanha Flávio Bolsonaro denúncias",
+          "terras raras conselho tecnologia Rockbridge",
+          "super PAC legislação EUA",
+          "financiamento eleitoral estrangeiro Brasil 2026"
+        ],
+        "regime": "Redes privadas de doadores financiam infraestrutura política duradoura e aproximam investimento em tecnologia, indústrias estratégicas e acesso ao Estado; a execução brasileira permanece contestada.",
+        "key_risk": "Confundir a Rockbridge e a gestora independente 1789 Capital ou tratar o registro da empresa brasileira, as anuidades propostas e a investigação em curso como prova de financiamento ilegal.",
+        "watch": [
+          "Atualizações de prestações de contas do Turnout for America na FEC",
+          "Andamento e resultados comprovados da investigação da PF determinada em 27 de outubro",
+          "Registros, contratos e pagamentos da Rockbridge Brazil LLC",
+          "Operação concreta de conselho tecnológico e compromissos de investimento verificados",
+          "Licenças de minerais críticos e beneficiários econômicos caso surjam operações",
+          "Governança das entidades e encontros sul-coreanos",
+          "Resultados das legislativas americanas de 3/11 somente após apuração oficial"
+        ],
+        "search_text": "Rockbridge Network rede capital político Vance Buskirk Thiel 1789 Capital Turnout for America financiadores EUA Brasil Rockbridge Brazil Wyoming Flávio Bolsonaro STF Dino investigação 27 outubro 2026 terras raras Conselho Tecnologia"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "3 November 2026 America/Sao_Paulo; documented 2019–2026 sources through October 27/30. No November 3 US congressional result claimed. Brazilian October election result distinguished from ongoing criminal or electoral inquiry.",
+      "novelty": "Comprehensive political economy and institutional genealogy, separate entity and cash-flow accounting, comparison of independently audited FEC filings with proposed memberships, 1789 ownership and defence capital, US-Korea-Brazil comparative organisation, statutory cross-border election-finance boundaries, and rigorous treatment of 27 October Brazilian federal investigation.",
+      "source_check": "24 numbered links identical in both editions. Reuters 2024 internal-prospectus investigation, Washington Post 2025 Buskirk genealogy and October 2026 Brazil probe, FEC and ProPublica Itemizer financial accounts, FEC Super PAC law, TSE official campaign finance and Lei 9504, CBS and Axios Rockbridge gatherings and declared 2026 turnout target, Folha and Intercept original documents from Brazilian proposal, Korea Herald and Korea JoongAng public Korean activity, Reuters and WaPo separate 1789 Capital enterprise reporting. All financial claims carry exact source dates and original scope.",
+      "visual_signature": "Three explicit numeric bar charts in both languages: Turnout for America 2024 [45.67,34.54] million USD actual receipt/spending flows, FEC 2025/through June 2026 [2.535,2.907] million USD period-specific flows, and proposed Rockbridge Brazil annual membership [0.5,1.0] million USD offer not collected. One causal flow, three-country regional comparison map, a 10-item factual/evidence-status table and two local original CC-BY-4.0 illustrations in matching paths, with bilingual captions. Additional original lead illustration stored in repository; attach only on public promotion after QA.",
+      "bilingual_parity": "EN 59,858 chars/approximately 7,783 whitespace words; PT-BR 72,331 chars/approximately 9,433 whitespace words; 22 analytical chapters + references each, exact 24 numbered citations and source URLs in identical order, three charts with identical numerical values and period definitions, same image paths, consistent legal qualifications and investigated/alleged wording.",
+      "research_depth": "Report with 22 substantive chapters from 2019 founding and domestic party realignment to donor architecture, FEC filing numbers, political venture institutions, church/social trust, 1789 corporate distinction, technology/defence material assets, South Korean activity, Wyoming Brazilian LLC, proposed tiers, media/universities/legislature council, foreign-funding investigation, statute, critical minerals, mechanisms, limitations and falsifiable conditional scenarios.",
+      "political_integrity": "No implied guilt from mere membership or corporate incorporation; direct denial by US network, Tallis Gomes and other parties reported. Federal Police inquiry 27 October explicitly not a conviction. Separate 1789 commercial holdings from Rockbridge political operations. Lula re-election in October 2026 noted as reported, no November 3 US midterm outcome invented.",
+      "legal_integrity": "Distinguishes lawful foreign policy dialogue and investment from prohibited donations/in-kind electoral services, cites TSE Lei 9504 art24 and FEC restrictions on foreign nationals. Labels allegations about tech council, rare earth quid-pro-quo and platform favouritism unproven.",
+      "editorial_status": "Bilingual staged sources only, QA required and public bundle absent. No metadiscourse, repeated conversational scaffolding or unverified documentary event photographs.",
+      "source_blob_shas": {
+        "en": "457fdcbba42552cd2e5a131461350b0a53bc3110",
+        "pt-BR": "62453788dc58ec55e304289adbad7a4fb97ac87e"
+      },
+      "qa_handoff": "Independently check 2024 FEC committee receipts 45.67m spending 34.54m, 2025–June2026 2.535m /2.907m, 2026 announced 50m not realised; US Rockbridge 2024 75m budget source estimate rather than consolidated audit, Brazilian Wyoming LLC registration 12 May2026, offers 0.5m/1m uncollected, Council 23 and $100bn/500k jobs only claims, Supreme Court order Oct27 not guilt, SuperPAC and Brazil lawful distinction. En/pt refs 24 and images/charts exact parity."
+    },
+    "contrary_evidence": [
+      "Donor network and 1789 Capital have overlapping people and intellectual origins but separate legal identities; fund portfolio ownership cannot be automatically imputed to Rockbridge.",
+      "Rockbridge Brazil LLC exists in Wyoming, but the US organisation states the Brazilian project was rejected, never funded and never operated; others said the Technology Council did not meet.",
+      "Brazilian parties and newspapers reported possible campaign assistance; formal allegations remain under investigation with denials by campaign and named intermediaries, and no published final finding of unlawful financing.",
+      "High-priced member offers and the claimed $100 billion economic impact are proposals and not verified cash receipts, investment contracts or realised employment.",
+      "2024 super PAC receipts and 2026 announced turnout targets describe different time horizons and administrative entities, not one audited total of Rockbridge resources.",
+      "Political participation, meetings, trade/investment dialogues and conservative media funding can be lawful; prohibited foreign campaign benefits require evidence of concrete underlying acts and financing.",
+      "The existence of mineral interest, defence investments or high-level access alone does not establish a corrupt bargain, asset transfer or rigged public procurement."
+    ],
+    "limitations": [
+      "Financing of private network entities and beneficial ownership are not fully disclosed; reported 2024 network budget is a sourced estimate, not audited accounts.",
+      "Federal filing counts relate to Turnout for America and not the sum of all Rockbridge committees; overlapping flows or periods are not aggregated.",
+      "Proprietary or confidential Brazilian plans are examined through named Brazilian investigative publications; not all original internal pages are independently accessible.",
+      "Brazilian operations, candidate involvement and possible foreign economic contributions remain disputed and under investigation as of the dated public sources.",
+      "Reported 1789 Capital holdings and its historical AUM are not current investment valuations or evidence of control over government procurement.",
+      "Corporate registration in Wyoming does not by itself establish beneficial ownership, active Brazil operations or a completed commercial investment.",
+      "Illustrations are original conceptual art, not photographs, technical evidence of ownership or depictions of proven financial transfers.",
+      "No later November 3 US midterm result incorporated in an article with early November 3 cutoff."
+    ],
+    "evidence_sources": [
+      {
+        "name": "Reuters internal Rockbridge prospectus investigation",
+        "date": "2024-08-20",
+        "url": "https://www.investing.com/news/world-news/tech-donor-network-cofounded-by-jd-vance-seeks-to-push-america-to-the-right-3578816"
+      },
+      {
+        "name": "FEC Turnout for America committee data",
+        "date": "2026-11-03",
+        "url": "https://www.fec.gov/data/committee/C00883520/"
+      },
+      {
+        "name": "ProPublica Itemizer 2024 Turnout for America",
+        "date": "2025-01-31",
+        "url": "https://projects.propublica.org/itemizer/committee/C00883520/2024"
+      },
+      {
+        "name": "Intercept Brazil Rockbridge LLC and documents investigation",
+        "date": "2026-09-29",
+        "url": "https://www.intercept.com.br/2026/09/29/rede-rockbridge-operacao-brasil/"
+      },
+      {
+        "name": "Folha Brazilian Rockbridge expansion plans",
+        "date": "2026-09-25",
+        "url": "https://www1.folha.uol.com.br/poder/2026/09/rockbridge-grupo-conservador-do-vice-presidente-dos-eua-iniciou-instalacao-no-brasil.shtml"
+      },
+      {
+        "name": "Folha October 1 reported campaign contacts and denials",
+        "date": "2026-10-01",
+        "url": "https://www1.folha.uol.com.br/poder/2026/10/empresarios-ligados-ao-grupo-rockbridge-ajudaram-flavio-bolsonaro-com-relatorios-e-consultoria-dizem-aliados.shtml"
+      },
+      {
+        "name": "UOL October 27 STF federal investigation",
+        "date": "2026-10-27",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/27/dino-manda-pf-apurar-interferencia-de-grupo-ligado-a-trump-na-eleicao.amp.htm"
+      },
+      {
+        "name": "Brazil TSE statute Election Law 9504 Article 24",
+        "date": "2026-11-03",
+        "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/lei-das-eleicoes/lei-das-eleicoes-lei-nb0-9.504-de-30-de-setembro-de-1997"
+      }
+    ]
+  }
+}
