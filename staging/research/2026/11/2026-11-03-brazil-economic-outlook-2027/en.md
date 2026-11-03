@@ -172,3 +172,133 @@ The BNDES assessment of 21 sectors over 2025–2029 described average annual inv
 Brazilian manufacturing faces competition in intermediates, vehicles, chemicals, machines and electronics. Successful industrial development need not mean domestic production of every component. It requires activities in which knowledge, scale, endowments and supplier networks support competitive costs and quality, while imports remain available when they lower input prices and accelerate learning. Tariff protection can shelter jobs temporarily but also make equipment and components more expensive for other productive sectors. [5][17]
 
 The technology problem is cumulative. Research without industrialisation produces prototypes that never reach factories; factory finance without demand, engineering, quality and productivity can create permanent subsidy dependence. Success in 2027 should be tested by operating output, exports, unit costs, worker skills and domestic supplier linkages rather than the monetary value of programme announcements. [6][26]
+
+## 15. Agriculture: international competitiveness and exposure to weather and logistics
+
+Brazil's agricultural economy combines highly productive export chains with vulnerabilities in storage, transport, financing, imported inputs and climatic conditions. In January–September 2026, exports classified by the trade ministry under agriculture reached **US$64.84 billion**, up **8.9%** year on year. Export revenue depends on volume, prices, exchange rates and harvest timing, which can move in opposite directions. Greater production does not necessarily mean higher farm income if global prices fall and input costs remain elevated. [17]
+
+The Finance Ministry revised its 2027 inflation projection upward in September partly because a possible stronger El Niño could disrupt grain production and later meat prices. The IMF identified imported fertilisers as a vulnerability to geopolitical and logistical shocks. Farmers depend on nitrogen, potash, phosphates, diesel, machinery, finance, insurance, storage and access to export corridors. Competitive yields at the farm gate may be offset by high transport costs between inland regions and seaports. [4][6][17]
+
+Rural credit is particularly exposed to weather and price cycles. Crop failure can reduce cash revenue exactly when equipment, seasonal and lease liabilities mature. Renegotiation can transfer pressure to cooperatives, banks and suppliers. Prudential supervision needs to distinguish temporary liquidity disruption from underlying insolvency without turning public guarantees into a permanent incentive to misprice risk. Insurance, irrigation, crop diversification and reliable weather data may reduce losses, but their effects depend on contract coverage, premiums and verifiable claims. [6][14]
+
+Environmental compliance is also becoming part of market access. Traceability, land-title compliance and sanitary standards influence which buyers can legally receive produce, timber and other goods. Agricultural expansion and environmental protection are not necessarily a binary choice, but firms and governments need credible evidence of land use, emissions and contractual compliance to preserve access to regulated markets. [5][20]
+
+## 16. Oil, natural gas and Petrobras: export receipts, fiscal income and fuel prices
+
+Expanded hydrocarbon production can support the trade balance, tax receipts and industrial investment. The IMF notes that higher international oil prices improve Brazil's terms of trade while BNDES research identifies significant projects in exploration, production, gas infrastructure and refining. Yet additional dollar earnings do not automatically reduce the prices paid at domestic filling stations. Fuel prices also reflect refinery capacity, product imports, taxes, distribution costs and corporate pricing decisions. [6][26]
+
+Petrobras and private producers make decisions about dividends, exploration, refining, local suppliers, transport and capital expenditure within different market and regulatory constraints. Policies that cushion international price shocks can reduce near-term consumer volatility, but persistent differences from replacement costs can redistribute the burden to companies, taxpayers or shareholders. The eventual effects depend on the design and duration of intervention rather than simply on public ownership. [6]
+
+Natural gas can support industrial heat, fertilisers, petrochemicals and electricity supply, but economic benefits require processing plants, pipelines, transport contracts and competitive delivered prices. Offshore reserves do not ensure that a small inland manufacturer can purchase affordable gas. The intervening infrastructure and regulations determine access. [26][27]
+
+Oil also makes fiscal revenue more sensitive to world prices. The IMF recommended saving oil-related windfalls instead of converting temporarily high receipts into permanent expenditure. Fiscal analysis must distinguish royalty payments, tax revenue, public dividends, company earnings and capital expenditure rather than counting them as separate Treasury receipts without considering the relevant accounting boundaries. [6][10]
+
+## 17. Electricity: abundant generation does not guarantee usable power
+
+Brazil has a substantial renewable electricity base and opportunities to expand solar, wind and other generation. Installed capacity, however, is not the same as reliable energy available at the precise location and hour required by a factory or data centre. Intermittency, transmission constraints, storage, operating reserves, curtailment and tariffs determine the cost of usable power. The national Energy Expansion Plan through 2035 models the 2026–2035 horizon; it does not guarantee that every planned investment will be delivered. [27]
+
+Large new customers such as electrified mines, low-carbon manufacturers, electrolysers and data centres are changing the geography of electricity demand. A project located near generation can still fail if grid connection requires delayed transmission works. Other locations may become more attractive through long-term power contracts or more reliable network access. The relationship between regulators, operators, distributors, transmission owners and customers matters as much as the construction cost of an individual plant. [5][27]
+
+Rainfall and hydrology influence generation costs, the use of thermal plants and reservoir management. Extreme weather can hit agriculture, hydropower and transport at once. Such supply shocks can raise prices in ways the Selic cannot directly reverse, although monetary policy remains important for preventing temporary shocks from turning into persistent expectations and economy-wide inflation. [2][4][6]
+
+## 18. Roads, railways and ports: the economic price of distance
+
+The Transport Ministry presented a prospective **29-project concession portfolio for 2027**, including **11 road projects** and **18 railway projects**, with projected investment commitments of **R$262.6 billion**. This is a pipeline of planned projects, not evidence of completed expenditure in 2027. Tender preparation, auction, contracting, permits, land access and actual construction are different steps with separate risks. [28]
+
+Brazil's productive geography relies on long corridors connecting grain, mineral and industrial areas to consumer regions and ports. Freight pricing reflects fuel, equipment, labour, tolls, maintenance, waiting time and storage availability. Rail can lower unit costs where there is enough demand and a functioning route, but the full gain also requires terminals, transfers and road access at both ends. Infrastructure raises productivity when it connects actual origins and destinations at a competitive total cost. [5][28]
+
+Concession design needs credible risk allocation. Excessive tariffs can deprive users of benefits; unrealistic revenue forecasts can destabilise operators; poorly recognised public guarantees can reappear as future fiscal liabilities. Viable projects need observed freight volumes, safety standards, maintenance requirements and service-quality measurement, not solely announced investment totals. [6][9]
+
+Infrastructure also has an urban dimension. Inadequate public transport narrows the geography from which firms can recruit; insufficient sanitation raises disease and absenteeism; expensive metropolitan housing reduces skilled workers' mobility. Productivity is not exclusively a property of a factory or firm. It is also shaped by the city networks that determine how workers spend time and reach markets. [5]
+
+## 19. Manufacturing, cities, housing and services as connected systems
+
+Residential and commercial construction respond to mortgage terms, materials prices and real disposable income. High interest rates can make private projects unviable even where demand for housing is significant. Public programmes can expand access, but need evaluation by completed unit, location, infrastructure and overall service cost. An inexpensive home far from employment can impose large commuting expenses on residents. [5][13]
+
+Productivity varies substantially among services. Technology-intensive providers can sell to customers across cities and borders, while local retail, food service and care work depend heavily on neighbourhood incomes. Movement of workers into services is neither automatically harmful deindustrialisation nor automatic economic progress. The relevant measures are value added per hour, formalisation, enterprise growth and skill accumulation. [1][5]
+
+Sanitation, waste management, mobility, healthcare and connectivity affect decisions to open or expand businesses. Some benefits accrue to society without being captured entirely by a private investor, supporting consideration of transparent concessions, public investment and appropriately designed subsidies. Evaluation must still test financing, execution and access for users. [5][6]
+
+## 20. China: Brazil's largest goods-export market and a major industrial competitor
+
+Brazil exported **US$84.68 billion to China** and imported **US$58.62 billion** in January–September 2026, yielding a bilateral goods surplus of approximately **US$26.05 billion**. The surplus supports foreign-exchange receipts and export-sector revenues but does not mean every Brazilian industry is internationally competitive. The relationship combines commodities on the export side with significant manufactured equipment and inputs from China. Bilateral surpluses can coexist with deficits in advanced machinery and particular industrial technologies. [17]
+
+China buys soybeans, iron ore, oil and pulp while supplying machinery, electronics, vehicles, chemicals and components for energy infrastructure. A 2027 slowdown in Chinese construction or industrial output could lower demand for iron ore and related freight even if food imports remained resilient. Conversely, investment by Chinese manufacturers in Brazilian facilities could build local employment and suppliers, but the size of that benefit depends on sourcing decisions, skills transfer, competition and export integration. [5][6][17]
+
+The competition problem cannot be solved by diplomatic alignment alone. Tariffs and trade remedies may support sectors exposed to imports considered unfairly priced, but can also increase the costs paid by Brazilian buyers and manufacturers using Chinese inputs. A locally operating factory and an imported finished product have different effects on domestic productive capacity. Assessment requires investment contracts, installed equipment, employment, technology transfer and the destination of output. [5][17]
+
+Excessive reliance on one foreign customer can increase fiscal and currency volatility despite positive trade balances. New export destinations and competitive processing of raw materials may reduce this exposure, provided greater value added comes from real productivity rather than permanent protection. [5][6]
+
+## 21. The United States: tariffs, industry, services and technology
+
+The United States remains significant for Brazilian manufactured exports, petroleum, steel products, aerospace activities and investment. Brazil sold **US$27.46 billion** in goods to the US in January–September 2026, down **6.5%** from the corresponding year-earlier period, while imports from the US reached **US$31.79 billion**. The resulting goods deficit was **US$4.33 billion**. A bilateral deficit is not itself proof of economic harm because imported machinery and intermediate products can support domestic production. [17]
+
+In July 2026 Brazil's trade ministry described new US **Section 301** measures imposing additional **25% and 12.5%** tariffs on selected product categories. Using Brazil's 2024 exports to the US as its reference basket, the ministry calculated that **23.1%** were within the scope of the two new measures, while **52.7%** remained outside country-specific or sectoral additional tariffs; other shipments could be affected by Section 232 measures. These shares do not mean that every Brazilian product faced an identical tariff in 2026 or 2027. [18]
+
+A tariff raises the buyer's landed cost unless sellers reduce prices or absorb the difference. Producers may cut margins, seek other markets, reorganise supply chains or move parts of production. The employment effect depends on demand elasticities, alternative suppliers and the proportion of local inputs. Broad retaliation can create additional costs for Brazilian firms importing technology or medicines even when those firms were not directly involved in the original dispute. [17][18]
+
+Bilateral ties extend beyond merchandise to investment, digital platforms, professional services, financial systems and intellectual property. Economic resilience requires predictable access to technology and markets and transparent rules for competitive sectors, without assuming that a trade controversy necessarily means a wholesale breakdown of economic relations. [5][6]
+
+## 22. The European Union: provisional trade application and the economic work ahead
+
+The EU–Mercosur interim trade agreement was **signed in Asunción on 17 January 2026**. According to the EU Council's treaty registry, **provisional application between the EU and Brazil began on 1 May 2026**. The broader partnership agreement and the interim trade instrument have separate legal procedures. Provisional trade application is a real status that must not be confused with full entry into force of all associated instruments. [19][20]
+
+Brazil exported **US$44.15 billion** to the European Union and imported **US$38.05 billion** in January–September 2026, generating a **US$6.10 billion** goods surplus. The relationship involves European purchases of food, forest products, minerals and energy, while Brazilian firms import machinery, chemicals, pharmaceuticals and industrial equipment. Gradual trade liberalisation can widen markets and lower input costs while also exposing protected Brazilian suppliers to more competition. [17][20]
+
+Outcomes depend on phase-in schedules, tariff quotas, rules of origin, sanitary procedures, certification and firms' ability to use preferences. A preferential rate does not generate exports for a producer unable to meet the buyer's standards or minimum volumes. The economic test is preference utilisation, new investment, productivity and durable supply-chain changes, not merely the existence of a signed treaty. [19][20]
+
+European environmental rules increase the value of verifiable traceability while raising compliance costs in certain land-use and emissions-intensive chains. Brazil has competitive resources but producers must invest in monitoring, records and certification. The distribution of gains and costs may differ markedly between large exporters and smaller suppliers. [5][20]
+
+## 23. Mercosur: imperfect integration, Argentina and regional industrial chains
+
+Mercosur remains an incomplete customs union, with tariff exceptions, national regulatory differences and intergovernmental coordination. Brazil and Argentina are central to automotive and other regional production links, while Paraguay and Uruguay have different market-access incentives. Economic integration depends on border logistics, technical standards, recognised certifications and reliable cross-border contracts as much as on the common external tariff. [17][19][20]
+
+Trade with Argentina weakened materially during 2026. Brazilian exports to the country fell **18.5%** in January–September, to **US$11.58 billion**, while imports from Argentina were approximately **US$9.95 billion**. Bilateral real exchange rates, vehicle demand, import policies and domestic Argentine conditions can affect Brazilian auto-parts producers even when Chinese buyers are increasing commodity purchases. [17]
+
+Physical integration requires waterways, electricity systems, gas connections and roads that function as networks. Manufacturing specialisation can generate efficiency when components cross borders with limited delay; incompatible rules, uncertain access to foreign exchange and slow settlement can make a regional supply chain more costly than a domestic one. Differences in members' macroeconomic policies will continue to require negotiation, but do not establish that dissolution of the bloc is inevitable. [19][20]
+
+The EU trade agreement creates a new test of Mercosur as an export platform while increasing competitive pressure within it. Firms that can reorganise regional suppliers under common origin rules may reach new buyers; others will face lower barriers to European competitors. Reliable infrastructure, product quality and consistent rules will determine the outcome. [20]
+
+## 24. BRICS: settlement systems, development finance and the nonexistent common currency
+
+BRICS includes economies with different currencies, exchange-rate systems, production structures and geopolitical interests. For Brazil, it provides channels for trade, development finance and efforts to reduce the cost of cross-border payments. **No shared BRICS currency existed in November 2026.** Brazil's representative had clarified in 2025 that a common currency was not under discussion at that point. Payment interoperability, settlement in national currencies and the creation of a supranational currency are entirely different institutional arrangements. [21]
+
+Settling trade in reais, rupees or yuan can reduce conversion steps and some dollar exposures without abolishing foreign-exchange risk. Exporters must use, convert or hedge the currency they receive, and banks still need liquidity and position limits. A common currency would require monetary governance, issuance rules, convertibility and arrangements to handle asymmetric shocks across countries. Membership in a diplomatic group does not automatically provide these institutions. [6][21]
+
+The New Development Bank can provide infrastructure and sustainability finance, but the value of each loan depends on its maturity, currency, funding cost, guarantees and project quality. A local-currency loan may reduce the borrower's currency mismatch without necessarily being cheaper than a foreign-currency loan with appropriate hedging. BRICS finance is more accurately understood as an additional set of funding and payment channels than as an immediate replacement for the dollar system. [6][21]
+
+China is both a BRICS participant and Brazil's leading goods-export market, but its industrial interests do not necessarily match Brazil's. BRICS is not a unified tariff area. Brazilian firms will still choose suppliers and customers on price, quality, financing and enforceable market rules rather than on diplomatic membership alone. [17][21]
+
+## 25. Brazil's trade geography: scale, exposure and diversification
+
+The value of goods exported to four selected destinations in January–September 2026 permits a comparison of economically important trading relationships. All figures measure **Brazilian goods exports on an FOB basis in US-dollar billions**, for the same period and from the same trade source. The destinations are not a complete decomposition of total exports. China absorbs considerably more goods by value than the US or Argentina, but different product mixes affect jobs, profit margins and associated domestic value added. [17]
+
+```chart
+type: bar
+title: Brazilian goods exports to selected destinations, January–September 2026
+unit: US$ billions FOB; selected destinations, not total exports
+China | 84.68
+European Union | 44.15
+United States | 27.46
+Argentina | 11.58
+```
+
+| Partner or bloc | Brazilian exports Jan–Sep 2026, US$bn | Brazilian imports, US$bn | Bilateral balance, US$bn |
+|---|---:|---:|---:|
+| China | 84.68 | 58.62 | +26.05 |
+| European Union | 44.15 | 38.05 | +6.10 |
+| United States | 27.46 | 31.79 | -4.33 |
+| Argentina | 11.58 | 9.95 | +1.63 |
+
+*Source: MDIC/Secex, consolidated September 2026 trade statistics. Rounding may cause small differences.* [17]
+
+```map
+title: Brazil's trade relationships and economic transmission mechanisms
+China and East Asia | Soybeans, iron ore, oil and manufactured imports | Chinese industrial demand and technology supply chains
+United States | Industrial exports, oil, services and investment | Tariffs, technology access and competition
+European Union | Food, raw materials, machinery and chemicals | Trade preferences, traceability and regulatory requirements
+Mercosur and Argentina | Vehicles, components, energy and regional services | Bilateral exchange rates, manufacturing links and borders
+Other markets | Diversification of food, manufactured goods and services | Logistics, export financing and technical standards
+```
+
+A China shock would directly expose selected agricultural and minerals sectors; US restrictions could affect manufacturers reliant on specific overseas buyers; European rules could change compliance costs and market access; an Argentine downturn would affect automotive supply chains. Effective diversification is not indiscriminately replacing a large buyer with smaller ones. It means widening the range of products, customers, technologies and payment channels that allow Brazil's economy to withstand distinct shocks. [5][6][17][18][19]
