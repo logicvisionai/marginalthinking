@@ -45,7 +45,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "research_subject": {
     "name": "The algorithmic organisation of social experience, allocation and political power",
@@ -58,7 +58,7 @@
   "producer_checks": {
     "information_cutoff": "Research documented through 2 November 2026 BRT; publication date 3 November 2026. Distinguishes 2010/2012 and 2014 experiments, 2018/2022 Brazilian evidence, 2023 French unrest, 2025 meta-analysis, and preliminary 2026 regulation.",
     "editorial_novelty": "Systematic genealogy from quantitative state administration and McNamara's Vietnam-era measures to contemporary feedback loops, identity performance, filmed conflict, political mobilisation, algorithmic management and the economics of attention.",
-    "research_depth": "English about 9,632 words / 70,908 characters, PT-BR about 10,074 words / 75,128 characters. Exactly 24 substantive chapters plus a full references section; includes causal models, competing hypotheses and falsification criteria.",
+    "research_depth": "Revised English around 9,800 words / 73,095 characters; revised Brazilian Portuguese around 10,400 words / 78,107 characters; 24 substantive chapters and full bibliography per edition. The revision replaces editorial meta-explanation with direct historical, sociological, political and economic mechanisms.",
     "source_check": "24 numbered academic, historical, institutional, governmental and documented journalistic references present and cited in both editions; primary empirical numbers trace to CNA, Nature, PNAS, Science, Psychological Bulletin, Piaia/Alves, Agência Pública/UFMG, InternetLab, Sénat, OECD and European Commission.",
     "visual_signature": "Both editions have two quantitative charts (TikTok/Kwai provenance: 108/24/1; French inspectorate sample rates: 36/5/4/2/2/1/0.6), two evidence tables, one causal flow, one geographic case map and two localized original SVG inline illustrations. Original cover illustration reserved for the public media registry after QA.",
     "bilingual_parity": "25 matching H2 headings including references, 24/24 numbered source entries with identical URLs, identical chart numeric data and image paths, logically aligned evidence and counterarguments. Both versions use the same report slug and media provenance.",
@@ -71,9 +71,13 @@
       "Brazilian message counts and short-video provenance originate in bounded samples; the article does not estimate election vote causation.",
       "The 2025 short-video meta-analysis reports correlational synthesis, not experimental proof of permanent cognitive injury.",
       "Some third-party works are cited only, not reproduced; three illustrations are original conceptual art and never presented as event photography."
-    ]
+    ],
+    "editorial_revision": "Revision 2, editorial rewrite: replaced the full chapter 10 in both languages; reworked 30 additional passage clusters per language to remove conversational scaffolding and narrator commentary; preserved all numerical series, documented historical claims, sources and visual assets. Final language scan removed remaining self-referential summaries and rhetorical prompts.",
+    "revision_equivalence": "EN 73,095 characters; PT-BR 78,107 characters; both 25 H2 including references, 24 original numbered bibliographic entries, identical chart values 108/24/1 and 36/5/4/2/2/1/0.6, same two SVG paths, two evidence tables, one flow and one comparative map per language.",
+    "revision_scope": "Editorial clarity and argument continuity, not a new factual claim. Eliminates repetitive phrases such as 'the hypothesis would require', 'this case is valuable', 'a research agenda must', and Portuguese equivalents. Treats aura farming as social reputation and platform feedback rather than a moralistic warning."
   },
-  "revision_reason": "First full historical, political-economic and sociopsychological research on algorithmic governance and attention power, connected to the accelerationism programme but broader than any one political movement.",
+  "revision_reason": "Substantive editorial revision requested by publisher: replace conversational and self-referential research prose with direct institutional analysis across both languages; completely rewrite aura farming as an examination of symbolic reputation, numerical visibility and physical/digital interaction. Preserve all factual claims, source numbering and visual data.",
+  "url": "/reports/2026/11/2026-11-03-algorithmic-revolution-attention-power-social-conflict.html",
   "contrary_evidence": [
     "Randomised experiments demonstrate some social or expressive influence, while the 2023 chronological-feed intervention found no significant short-run changes in key political attitudes despite large exposure changes.",
     "Bolsonarism developed amid economic, institutional and cultural disputes that predated the observed network communications. Neither WhatsApp content counts nor a sample of videos can establish vote shares attributable to algorithms.",
@@ -86,13 +90,13 @@
     "The French inspectorate sample rates are non-exhaustive and the Brazil sample refers to high-interaction content in selected groups; the figures cannot be treated as nationally representative.",
     "The manuscript does not claim proof of platform-induced military enlistment or violent action, and it does not diagnose any individual or age group.",
     "Two source-localised inline illustrations and one optional original cover are editorial art, not independent photographic evidence.",
-    "Full site deployment remains separate from editorial approval and requires a successful GitHub Actions build and configured hosting credentials."
+    "Full site deployment remains separate from editorial approval and requires a successful GitHub Actions build and configured hosting credentials.",
+    "Review of revision 2 verifies literary and analytical consistency against previously approved source citations; external sources were not all re-fetched anew because source list and quantitative claims were unchanged."
   ],
-  "url": "/reports/2026/11/2026-11-03-algorithmic-revolution-attention-power-social-conflict.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-11-03T04:20:35.394Z",
+  "qa_reviewed_at": "2026-11-03T04:40:15.550Z",
   "qa_confidence": "medium",
-  "qa_reviewed_commit": "b00ec547ff8509c84d3bfa8d39b178d3b3faed99",
+  "qa_reviewed_commit": "98ea54aadda63317ba9e1ce0f3bf0f8882674c91",
   "locales": {
     "en": {
       "markdown": "en.md",

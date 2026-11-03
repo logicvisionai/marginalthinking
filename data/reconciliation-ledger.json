@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T04:21:44.865Z",
+  "last_reconciled_at": "2026-11-03T04:41:01.635Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7985,6 +7985,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "YouTube's 2016 architecture and TikTok recommender explanations are historical or descriptive; no newly independently demonstrated 2026 capability or scaled deployment event is documented."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-algorithmic-revolution-revision-2-editorial-reconciliation",
+      "reconciled_at": "2026-11-03T04:41:01.635Z",
+      "report_ids_reviewed": [
+        "MT-TECH-2026-11-03-ALGORITHMIC-REVOLUTION"
+      ],
+      "audit_note": "Version 2 corrects prose, narrative voice and analytical continuity in an existing published report. All 24 original source references, quantitative chart values and original image assets remain unchanged. Seven cumulative systems checked and do not require changes because no new verifiable structural observations were added.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
         }
       ]
     }
