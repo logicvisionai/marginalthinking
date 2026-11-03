@@ -812,6 +812,22 @@
       "update_mode": "event-driven",
       "reconciliation_required": false,
       "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-historical-civilizations-political-economy",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "public_route": "/research/political-economy-markets/",
+      "source_files": [
+        "CIVILIZATIONS-HISTORICAL-POLITICAL-ECONOMY.md",
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
     }
   ]
 }
