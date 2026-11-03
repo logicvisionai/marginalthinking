@@ -302,3 +302,109 @@ Outros mercados | Diversificação de alimentos, manufaturas e serviços | Logí
 ```
 
 Um choque da China atingiria mais diretamente alguns segmentos minerais e agrícolas; medidas dos EUA poderiam afetar segmentos manufatureiros com exigências de conteúdo e mercados específicos; mudanças na Europa deslocariam demanda e custos de conformidade; uma recessão argentina afetaria cadeias automotivas regionais. A diversificação eficiente não significa substituir indiscriminadamente o maior comprador por mercados menores, mas ampliar a quantidade de produtos, clientes e origens de tecnologia, reduzindo exposição excessiva a um único tipo de choque. [5][6][17][18][19]
+
+## 26. Índia, Sudeste Asiático, África e Oriente Médio: diversificação que exige infraestrutura comercial
+
+A geografia das exportações brasileiras não se encerra nos quatro destinos de maior visibilidade política. Países do Sul e do Sudeste Asiático, do Golfo e da África oferecem demanda por alimentos, combustíveis, proteínas e serviços de engenharia, mas possuem exigências sanitárias, regulatórias, culturais e logísticas diferentes. Um novo mercado pode diminuir dependência de um único comprador e, ao mesmo tempo, ampliar custo de comercialização, seguro, prospecção e financiamento. A diversificação precisa ser avaliada pelo resultado líquido para empresas e cadeias produtivas, não apenas pela abertura formal de uma representação diplomática. [5][6][17]
+
+A Índia apresenta escala populacional, crescimento urbano e demanda por energia e insumos, mas seu padrão de tarifas e sua organização produtiva não reproduzem o mercado chinês. O Oriente Médio conecta oportunidades de suprimento alimentar a riscos de transporte marítimo, energia, seguros e pagamentos internacionais. Países africanos combinam potencial de urbanização, necessidades de infraestrutura e elevada heterogeneidade de renda e capacidade estatal. A estratégia brasileira precisa adaptar crédito à exportação, serviços de manutenção, investimento local e certificações ao mercado de destino. [6][17]
+
+A expansão de serviços exportáveis — engenharia especializada, software, finanças, serviços criativos e educação — pode diversificar receitas cambiais sem exigir o mesmo volume de transporte físico que commodities. Para isso, são necessárias competências, tributação previsível, proteção contratual, acesso a pagamentos e integração digital. Uma nova carteira de clientes internacionais não substitui a formação tecnológica e gerencial exigida para competir de maneira sustentável. [5][6]
+
+## 27. Balanço de pagamentos: superávit comercial não é superávit externo total
+
+A balança comercial de bens do Brasil apresentou **superávit de US$ 62,40 bilhões de janeiro a setembro de 2026**, com exportações de **US$ 284,65 bilhões** e importações de **US$ 222,26 bilhões**. Esse saldo positivo não equivale ao resultado em transações correntes do país. Serviços, remessas de lucros e dividendos, juros e outras rendas podem consumir parte da receita gerada pelas mercadorias. A conta financeira, por sua vez, registra formas diferentes de entrada e saída de capital. [17]
+
+Investimento estrangeiro direto em fábricas, energia e logística apresenta horizonte e risco diferentes de aplicações de curto prazo em títulos e ações. Um investidor que constrói uma unidade produtiva assume riscos operacionais e pode financiar importações de máquinas; outro que compra um título público pode retirar recursos com rapidez se sua avaliação de juros e câmbio mudar. Ambos alteram a demanda por reais e moeda estrangeira, mas não devem ser contados como a mesma contribuição à capacidade produtiva. [6]
+
+O FMI projetava em julho de 2026 déficit em conta corrente de **1,7% do PIB em 2027**, condicionado ao cenário usado na análise. A estimativa não deve ser tratada como dado realizado. O risco relevante não é a mera existência de déficit, mas a composição de seu financiamento, seus vencimentos, a disponibilidade de reservas e a capacidade da economia de gerar exportações e rendas futuras. Uma economia com investimento direto produtivo pode sustentar déficit temporário em condições muito diferentes daquelas de outra dependente de dívida externa curta e não protegida. [6]
+
+## 28. Mineração, terras raras e o desafio de processar no país
+
+O Brasil dispõe de recursos minerais relevantes para aço, agropecuária, eletrificação e tecnologias industriais. Minério de ferro, cobre, níquel, grafita e terras raras possuem estruturas de mercado distintas e exigem investimentos diferentes em pesquisa, extração, beneficiamento, refino, metalurgia e produção de componentes. A existência geológica de uma reserva não representa produção comercial pronta, nem garante que o país retenha o maior valor agregado da cadeia. [5][6][26]
+
+A concentração internacional de processamento de minerais estratégicos cria oportunidade e dependência. Empresas brasileiras podem fornecer concentrados e depender de tecnologia, financiamento e compradores estrangeiros para etapas posteriores. Construir refino local pode capturar valor, mas exige escala, energia, água, tratamento de resíduos, tecnologia e demanda contratada. Projetos cuja viabilidade se baseia apenas na alta momentânea de um preço internacional podem tornar-se economicamente frágeis quando novos fornecedores entram no mercado. [5][26][27]
+
+O desafio de 2027 é desenvolver capacidades de engenharia, licenciamento confiável e acesso à infraestrutura antes de prometer uma indústria completa de baterias, ímãs ou semicondutores. Parcerias com empresas internacionais podem reduzir lacunas de capital e aprendizado; o resultado dependerá de contratos de tecnologia, emprego qualificado, padrões ambientais e integração com fornecedores domésticos. [6][26]
+
+## 29. Tecnologia, inteligência artificial, produtividade e concentração de mercado
+
+A adoção de inteligência artificial e automação pode elevar produtividade em agricultura, manufatura, finanças, saúde e serviços profissionais, mas o efeito agregado depende da difusão para empresas de diferentes tamanhos. Firmas com dados, capital, pessoal qualificado e infraestrutura computacional conseguem adotar sistemas mais cedo; empresas pequenas podem enfrentar custos de integração, falta de competências e dependência de plataformas externas. O país pode tornar-se grande consumidor de tecnologia sem desenvolver capacidade proporcional de produção e inovação. [5][6]
+
+O mecanismo econômico deve ser observado em tarefas concretas. Prever falhas de máquinas pode reduzir paradas de produção; automatizar conferência de documentos pode encurtar prazos; algoritmos de crédito podem melhorar precificação quando testados e supervisionados. Entretanto, erros automatizados e decisões opacas podem ampliar perdas, discriminação ou riscos operacionais. A aquisição de software não constitui evidência suficiente de produtividade, e redução de mão de obra em uma tarefa não determina automaticamente aumento de emprego na economia. [5][6]
+
+Data centers exigem energia confiável, fibras, equipamentos importados, terreno e resfriamento; seu crescimento conecta política digital a planejamento elétrico. Sem contratos de energia, conectividade e qualificação, a expansão nominal de capacidade computacional pode importar grande quantidade de hardware e gerar poucas ligações com fornecedores locais. Um ganho mais amplo depende de serviços exportáveis, pesquisa aplicada, segurança de dados e treinamento técnico em escala. [6][27]
+
+## 30. Clima, água, seguro e o custo econômico de eventos extremos
+
+A exposição climática do Brasil atravessa agricultura, geração hidrelétrica, sistemas urbanos, seguros, logística e saúde pública. Chuvas excessivas podem interromper rodovias e destruir estoques; estiagens afetam safra, reservatórios e navegação; ondas de calor elevam consumo elétrico e reduzem horas de trabalho em certas atividades. A intensidade dos efeitos varia entre regiões e não permite converter automaticamente um alerta meteorológico em previsão de queda definida do PIB. [4][5][6]
+
+Empresas e governos enfrentam a necessidade de investir em drenagem, conservação de solos, gestão de bacias, irrigação, monitoramento, reservação e redes elétricas mais resilientes. A prevenção possui caráter intertemporal: parte do benefício consiste em perdas que deixam de ocorrer no futuro, difíceis de observar no ano da construção. Licitações devem comparar custo total de vida útil e risco de falhas, não só menor preço inicial. [5][27]
+
+Seguro privado pode repartir parte do risco, mas não substitui obras ou ordenamento territorial quando o perigo se torna recorrente e correlacionado entre propriedades. Quando muitas empresas sofrem perdas simultâneas, prêmios podem subir e cobertura pode encolher. A relação entre política climática e crédito será mais estreita em 2027 porque bancos, seguradoras e concessionárias precisarão precificar a exposição física de seus ativos. [6][14]
+
+## 31. Estados e municípios: o Brasil de taxas de crescimento muito diferentes
+
+Os resultados nacionais agregam economias locais com especializações diferentes. Estados exportadores de minérios podem se beneficiar da demanda chinesa; regiões de petróleo recebem atividades e receitas associadas à produção offshore; polos industriais dependem de bens duráveis e encomendas empresariais; cidades turísticas e universitárias respondem a serviços e mobilidade de pessoas. Um aumento de exportações nacionais não implica distribuição regional homogênea de empregos e impostos. [5][17]
+
+A competição por investimentos precisa considerar infraestrutura, educação, custos logísticos e estabilidade regulatória. Benefícios tributários isolados podem deslocar uma fábrica de um estado para outro sem elevar muito a produção do país; investimentos em acesso a portos, formação técnica e eletricidade podem melhorar a eficiência do conjunto. A reforma tributária muda gradualmente os incentivos à localização, mas os custos de adaptação e as disputas jurídicas poderão persistir por vários exercícios. [5][23]
+
+A capacidade municipal importa diretamente para saneamento, transporte, escolas e atenção primária à saúde. Municípios com poucos profissionais e baixa capacidade de elaborar projetos podem deixar de executar recursos autorizados, enquanto centros urbanos mais organizados captam financiamentos e fazem licitações. O combate à desigualdade territorial depende de apoio técnico, modelos de contratos auditáveis e critérios de distribuição que considerem necessidades e capacidade de execução. [5][9]
+
+## 32. Instituições políticas em 2027: continuidade administrativa e negociação orçamentária
+
+O orçamento de 2027 será executado depois das eleições gerais de 2026, sob uma configuração de autoridades e coalizões que precisa atuar dentro de regras constitucionais, decisões judiciais e competências federativas. Mudanças de direção política podem alterar prioridades de investimento, tributação e concessões, mas não transformam instantaneamente os vencimentos da dívida, a legislação previdenciária ou contratos vigentes. Planos empresariais são afetados principalmente pela previsibilidade dessas decisões e pela capacidade de implementação. [7][9]
+
+O Congresso exerce poder de aprovação de orçamento, tributos e regras fiscais; o Executivo elabora propostas e administra a execução; o Banco Central dispõe de mandato e estrutura decisória próprios para perseguir a estabilidade de preços; agências reguladoras definem condições técnicas de setores específicos. Conflitos entre essas instituições podem produzir atrasos ou controles adicionais, mas negociações também fazem parte da governança democrática. A análise econômica deve se concentrar nos textos aprovados, nos desembolsos executados e na qualidade dos contratos, sem converter disputas políticas em previsões personalizadas de crescimento. [2][7][11]
+
+O tratamento das emendas parlamentares, vinculações de receitas, despesas judiciais e benefícios fiscais afetará a percepção sobre cumprimento e substância do resultado primário. Uma meta que dependa predominantemente de exceções contábeis pode produzir credibilidade diferente de um resultado fiscal integral apoiado por receitas recorrentes e despesas transparentes. A avaliação precisa também observar quem recebe recursos, quais serviços são entregues e a qualidade do controle público. [6][7][9]
+
+## 33. Vulnerabilidades externas: juros americanos, guerra e preços internacionais
+
+O custo de financiamento brasileiro responde às condições monetárias globais. Se a remuneração dos títulos norte-americanos subir, parte dos investidores pode exigir prêmio maior por ativos de países emergentes, mesmo sem mudança imediata nas contas públicas brasileiras. Uma alteração de expectativa sobre inflação dos Estados Unidos ou sobre crescimento chinês pode deslocar câmbio, preço de ações e curva de juros antes que os dados do IBGE mostrem efeito sobre o produto. [2][6]
+
+Conflitos no Oriente Médio afetam petróleo, gás, fretes marítimos e seguro. O Brasil, exportador líquido relevante de petróleo, pode ganhar receita em dólares com preços mais altos, mas também enfrentar combustíveis, fertilizantes e bens importados mais caros. Não existe benefício uniforme de um choque petrolífero: arrecadação de royalties, custos de transporte, inflação ao consumidor e lucros de empresas podem reagir de modo oposto. [6][10]
+
+Uma desaceleração industrial chinesa, agravamento de tensões comerciais com os EUA ou interrupção em fertilizantes pode atingir diferentes regiões e setores brasileiros. Para que um risco geopolítico se converta em efeito macroeconômico, deve ser rastreada uma transmissão: preço ou acesso a insumo, custo de financiamento, resposta das firmas, mudanças de produção e emprego e, por fim, efeitos sobre preços, renda e impostos. Ausência de evidência de transmissão efetiva impede tratar todo conflito internacional como recessão brasileira inevitável. [6][17][18]
+
+## 34. Três cenários econômicos condicionais para 2027
+
+**Cenário de recuperação gradual.** A inflação de serviços desacelera, preços de alimentos deixam de sofrer choques relevantes, a execução fiscal se aproxima de um resultado primário integral mais forte e o prêmio de risco de longo prazo diminui. O Banco Central consegue reduzir juros preservando expectativas mais próximas da meta. Financiamento habitacional, construção, crédito empresarial e investimento em infraestrutura respondem ao longo do ano. O crescimento se torna mais distribuído entre consumo, indústria e serviços, sem depender somente de um salto dos preços de commodities. As condições desse cenário são observáveis; não há atribuição de probabilidade nem taxa de PIB fabricada. [2][4][6]
+
+**Cenário de crescimento restrito.** A atividade permanece positiva, mas famílias usam renda adicional para pagar dívida, a Selic cai lentamente, empresas adiam projetos e o orçamento executa despesas rígidas sem elevar muito o investimento. A agropecuária e o petróleo sustentam exportações, enquanto segmentos de indústria de transformação e bens duráveis têm expansão modesta. O resultado é compatível com diferentes projeções institucionais mais baixas, mas nenhuma delas confirma antecipadamente a trajetória efetiva. [2][3][5]
+
+**Cenário de choque adverso.** Uma combinação de interrupções logísticas, preços externos desfavoráveis, depreciação cambial e piora de expectativas fiscais dificulta o controle da inflação e amplia juros longos. Famílias e firmas com dívida cara restringem consumo e investimento, enquanto governos enfrentam menor receita real e maior pressão por gastos. O risco bancário aumenta principalmente onde já existe inadimplência elevada. Esse cenário só se materializaria por choques e decisões concretos, não por pertencer o país a um bloco comercial ou por uma troca de governo. [6][9][13][14]
+
+| Variável de transmissão | Recuperação gradual | Crescimento restrito | Choque adverso |
+|---|---|---|---|
+| Inflação e expectativas | Desaceleração persistente | Convergência lenta | Nova pressão cambial ou de oferta |
+| Juros e custo de capital | Redução de Selic e prêmios longos | Corte lento e spreads ainda altos | Reprecificação de títulos e crédito |
+| Orçamento e dívida | Melhor resultado integral e previsibilidade | Rigidez mantém expansão da dívida | Piora do diferencial juros–crescimento |
+| Empresas e trabalho | Investimento e produtividade em vários setores | Contratações e crédito cautelosos | Corte de projetos, perdas e inadimplência |
+| Comércio exterior | Diversificação e preços externos administráveis | Commodities sustentam parte do saldo | Demanda fraca e custos de importação maiores |
+
+```flow
+Expectativas fiscais deterioram → investidores exigem prêmio maior em títulos públicos → juros longos e crédito empresarial encarecem → projetos de investimento são adiados → menor capacidade produtiva e arrecadação futura
+Inflação e risco fiscal diminuem → prêmio de juros recua → capital de longo prazo fica menos caro → investimento e produtividade podem crescer → base tributária se amplia sem elevação automática de alíquotas
+Choque externo de alimentos ou energia → custos de produção e preços sobem → renda real dos consumidores diminui → consumo muda de composição → Banco Central avalia persistência e expectativas antes de decidir juros
+```
+
+## 35. Indicadores que permitirão verificar a mudança durante o ano
+
+A leitura de 2027 depende de comparar expectativas iniciais com resultados efetivos. Variação trimestral do PIB deve ser separada de crescimento em doze meses; inflação mensal, de IPCA acumulado em doze meses; taxa Selic, de juros bancários finais; saldo comercial, de conta corrente; dívida bruta, de dívida líquida e obrigações contingentes. A qualidade do diagnóstico melhora quando as fontes e os denominadores permanecem consistentes ao longo do tempo. [1][2][6][10]
+
+| Bloco | Indicador observável | Transmissão ou hipótese avaliada |
+|---|---|---|
+| Atividade | PIB trimestral, indústria, serviços e FBCF | Demanda convertida em investimento e produção |
+| Preços | IPCA, núcleos, serviços, alimentos, expectativas | Convergência da inflação à meta de 3% |
+| Política monetária | Selic, juros reais esperados, curva prefixada e NTN-B | Financiamento de longo prazo e custo de capital |
+| Crédito | Inadimplência PF/PJ, spreads, dívida e renda comprometida | Sustentabilidade do consumo e das empresas |
+| Fiscal | Resultado primário integral e ajustado, dívida/PIB, precatórios | Diferença entre regra cumprida e financiamento efetivo |
+| Indústria e infraestrutura | FBCF, investimento executado, projetos concluídos | Ganho de capacidade versus anúncios |
+| Comércio | Exportações por produto e destino, importações, conta corrente | Dependência externa e capacidade de obter divisas |
+| Ambiente social | Renda real, formalidade, ocupação, pobreza, aprendizagem | Alcance distributivo e produtividade futura |
+| Clima e energia | Safras, reservatórios, restrições elétricas, seguros | Choques reais que podem elevar custos |
+
+A existência de fatores favoráveis não fornece, isoladamente, uma taxa de crescimento inevitável. O país dispõe de capacidade de produção, financiamento e integração internacional, mas seu desempenho dependerá da coordenação entre dívida pública, moeda, empresas, trabalho e infraestrutura. O horizonte de 2027 é curto demais para que reformas estruturais elevem instantaneamente a produtividade nacional, mas suficientemente longo para revelar se decisões orçamentárias, monetárias e empresariais estão construindo condições mais estáveis para os anos seguintes. [5][6][23]
+
+A combinação de recursos naturais, mercado interno e complexidade industrial pode sustentar crescimento, mas o resultado será determinado por como a economia transforma receitas de exportação e poupança em equipamentos, conhecimento, serviços e renda real. Um saldo comercial elevado não substitui formação de capital; juros menores não substituem solvência fiscal; e participação em acordos internacionais não substitui capacidade de competir em qualidade, preço e inovação. As escolhas de 2027 determinarão principalmente a velocidade com que as oportunidades disponíveis se convertem em produção e bem-estar mensuráveis. [5][6][17]
