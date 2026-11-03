@@ -1,4 +1,4 @@
-# Argentina's Inflationary System: From the Formation of the Peso to the Monetary Crisis of 2026
+# Argentina's Inflationary System: From the Formation of the Peso to the Stability Test of 2026
 
 Argentine inflation did not begin with the 2001 collapse, Peronism, or Javier Milei's presidency. Its historical preconditions emerged as the new state struggled to consolidate taxation, banking and a national currency in an economy strongly exposed to agricultural export receipts and foreign capital. The crisis of 1890 exposed vulnerabilities in credit and exchange-rate commitments. Chronic inflation, however, became a persistent feature principally after the Second World War; the break of 1975 pushed inflation into a different regime; 1989–90 brought hyperinflation; convertibility suppressed inflation during 1991–2001 but could not remove fiscal and external fragilities; and subsequent decades saw renewed interactions among foreign-exchange scarcity, deficits, debt and collapsing confidence in the peso. [1][2][3][4]
 

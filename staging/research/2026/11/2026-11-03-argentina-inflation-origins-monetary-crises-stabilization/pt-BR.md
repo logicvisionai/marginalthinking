@@ -1,4 +1,4 @@
-# Argentina e a inflação como sistema: da construção do peso à crise monetária de 2026
+# Argentina e a inflação como sistema: da construção do peso ao desafio da estabilidade em 2026
 
 A inflação argentina não nasceu com a crise de 2001, com o peronismo ou com a presidência de Javier Milei. Suas condições históricas surgiram quando um Estado ainda em consolidação tentou organizar o dinheiro, cobrar tributos e financiar sua expansão em uma economia dependente de exportações agropecuárias e capitais externos. A crise de 1890 revelou a vulnerabilidade de um sistema de crédito e moeda subordinado à confiança dos investidores estrangeiros. A inflação persistente, porém, tornou-se um traço regular sobretudo depois da Segunda Guerra Mundial; a ruptura de 1975 a transformou em um problema de três dígitos; em 1989–1990 houve hiperinflação; entre 1991 e 2001 o câmbio fixo suspendeu a dinâmica inflacionária sem eliminar a fragilidade fiscal e externa; e a partir da década de 2010 a desvalorização, a escassez de dólares e o financiamento monetário voltaram a se reforçar. [1][2][3][4]
 
