@@ -105,7 +105,7 @@ A permanent German brigade in Lithuania is a historical shift. Instead of relyin
 
 The advanced presence brings both deterrent value and lasting obligations. Forces already in position shorten the initial response time and signal that an attack would immediately involve German personnel, increasing the expected cost of aggression. At the same time, permanent bases create family and housing expenditures, require extensive host-country infrastructure and expose units to risks closer to Russia and Belarus.
 
-In October 2026, the Bundeswehr acknowledged that staffing the brigade might require temporary assignments and, in particular specialist roles, service postings not based exclusively on soldiers' voluntary preferences. Operational readiness could outweigh individual wishes in some situations. This must not be confused with mandatory enlistment of civilians. It concerns the management of personnel already subject to military service obligations. It nonetheless reveals a binding manpower constraint that aggregate expansion targets can conceal. [21]
+In September 2026, the Bundeswehr acknowledged that staffing the brigade might require temporary assignments and, in particular specialist roles, service postings not based exclusively on soldiers' voluntary preferences. Operational readiness could outweigh individual wishes in some situations. This must not be confused with mandatory enlistment of civilians. It concerns the management of personnel already subject to military service obligations. It nonetheless reveals a binding manpower constraint that aggregate expansion targets can conceal. [21]
 
 ```map
 title: Geography of German deterrence and alliance logistics
@@ -233,7 +233,7 @@ Germany in 2026 is not simply returning to a former military identity. It is att
 
 [20] Bundeswehr, *Bundeswehr in Lithuania*. https://www.bundeswehr.de/en/news/bundeswehr-lithuania
 
-[21] Bundeswehr, *Brigade Litauen: Personeller Aufwuchs geht voran*, October 2026. https://www.bundeswehr.de/de/auftrag/verteidigung/aufgaben/bundeswehr-litauen-grosse-schritte-deutsche-kampfbrigade/brigade-litauen-verpflichtende-massnahmen-6151408
+[21] Bundeswehr, *Brigade Litauen: Personeller Aufwuchs geht voran*, 14 September 2026. https://www.bundeswehr.de/de/auftrag/verteidigung/aufgaben/bundeswehr-litauen-grosse-schritte-deutsche-kampfbrigade/brigade-litauen-verpflichtende-massnahmen-6151408
 
 [22] Bundeswehr, *Personalbilanz 2025: Bundeswehr wuchs deutlich*, January 2026. https://www.bundeswehr.de/de/organisation/personal/personalbilanz-2025-bundeswehr-wuchs-6059472
 
