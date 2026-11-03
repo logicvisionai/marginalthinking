@@ -159,13 +159,13 @@
     "Poll findings represent April–May 2026 respondents and vary by question and subgroup."
   ],
   "producer_checks": {
-    "information_cutoff": "3 November 2026, São Paulo local date. Primary-source military, legislative and parliamentary reports include September–October 2026 developments; no post-cutoff assertions.",
+    "information_cutoff": "3 November 2026, São Paulo local date. Primary-source military, legislative and parliamentary reports include September 2026 developments; no post-cutoff assertions.",
     "research_depth": "18 analytical chapters per language; PT-BR 40,184 characters / 5,479 words; EN 39,394 characters / 5,058 words. Historical 1914–1945 through Weimar, Nazi wartime crimes, 1955 reconstitution, Cold War, 1990–2022 transformations, 2025–2026 fiscal shift, generals, deployment, manpower, industry, social support and 2027–2035 scenarios.",
     "evidence_inventory": "25 numbered matching institutional and scholarly references per language, including Bundesarchiv, USHMM, DHM, Bundestag, Bundesbank, NATO, Bundeswehr and ZMSBw; factual qualifiers reflect source vintage.",
     "visual_signature": "Both languages contain two bar charts with the same arrays [[82.7,25.5,109.7,29.9],[184.2,186,190]], one two-chain causal flow, one five-region geopolitical map, one nine-row status/evidence table. Numeric labels and qualifications are consistent.",
     "translation_check": "Manual bilingual parity audit: identical 18 sections, 25 bibliography IDs, two chart value arrays, map regions and status tables; legal and temporal qualifications preserved.",
     "factual_cautions": "Distinguish 2027 budget proposal from 2026 appropriations and NATO-defined defence ratios; distinguish military service questionnaire and reserve planning from enacted mass conscription; do not equate committee advisory chair with NATO command authority.",
     "editorial_status": "Staged only. Public reports metadata must not be created without independent v2 QA approval. No conversational prose or public-facing meta editorial explanations.",
-    "source_cutoff": "September 2026 military committee election, October 2026 Lithuanian brigade staffing document, September 2026 ZMSBw survey, Bundestag 2026/2027 budgets; historical records 1914–1955."
+    "source_cutoff": "September 2026 military committee election, September 2026 Lithuanian brigade staffing document, September 2026 ZMSBw survey, Bundestag 2026/2027 budgets; historical records 1914–1955."
   }
 }
