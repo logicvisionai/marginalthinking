@@ -56,6 +56,19 @@ Total disbursements | 2.907
 
 Together, these records demonstrate an ability to mobilise substantial financing within parts of the political ecosystem. They do not reveal the number of voters persuaded, the electoral impact attributable to the programme or the private income of any founder. Such effects require contact-level data, independent evaluation and credible counterfactuals.
 
+```image
+src: /assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-organisational-infrastructure.svg
+origin: original
+kind: editorial-illustration
+width: 1600
+height: 900
+alt: Three groups of institutional resources linked by a nonquantitative conceptual pathway.
+caption: Original conceptual illustration of the distinction between donor resources, organisations and capabilities. It does not represent a verified legal ownership chart.
+credit: LOGV / Marginal Thinking
+license: CC-BY-4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+```
+
 ## 4. Political venture capital: infrastructure rather than a cheque to a candidate
 
 A direct donation transfers resources to a campaign within a defined election cycle. An infrastructure-building strategy instead invests in capacities that can be activated repeatedly: databases, volunteer training, polling relationships, content production, legal expertise and local networks. The distinction is critical to how political power compounds.
@@ -224,6 +237,19 @@ The Rockbridge Brazil presentations included technology, energy, data-centre inf
 A data centre is not merely a software investment. Its feasibility depends on reliable electricity, transmission capacity, cooling, land, permits, connectivity and a customer able to pay for computation. An investment advertised as a technology partnership may entail negotiation of tariffs, electricity contracts, tax treatment and access to infrastructure. Those material dependencies give economic importance to regulatory and diplomatic relationships but do not make every such relationship an improper bargain.
 
 The geopolitics also involve competition with China and industrial sovereignty. The United States may seek diversified supply chains and trusted partners; Brazil may seek higher-value industrialisation rather than merely exporting unprocessed ore. These goals can overlap if technology transfer, local production and stable returns exist. They can conflict when agreements concentrate ownership, limit domestic competition or give away public advantages without transparent reciprocal obligations.
+
+```image
+src: /assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-documentary-boundaries.svg
+origin: original
+kind: editorial-illustration
+width: 1600
+height: 900
+alt: Two separate groups of abstract records connected by a dotted line representing an unresolved documentary relation.
+caption: Original illustration distinguishing documented corporate registration from implementation proposals and disputed political activity. The connectors do not indicate proven cash transfers.
+credit: LOGV / Marginal Thinking
+license: CC-BY-4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+```
 
 ## 19. What was established, contested and merely projected in Brazil
 
