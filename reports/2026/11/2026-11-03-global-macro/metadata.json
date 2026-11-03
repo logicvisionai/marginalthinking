@@ -1,0 +1,212 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-03",
+  "slug": "2026-11-03-global-macro",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T01:45:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "inequality-distribution",
+    "infrastructure-logistics"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "3 November 2026 01:45 America/Sao_Paulo, 04:45 UTC; every market observation explicitly tied to completed 2 November US/Europe session or Friday 30 October Brazil B3 last trade. No 3 November US election result, B3 new session, unpublished Brazil Focus, Copom November 4 decision or Eurostat November 4 October flash claimed.",
+    "novelty": "3 November edition adds completed Nov2 ISM US October 55.5 and prices paid 75.2, Eurozone PMI 52.7 and France 49.5, Brent 7.63% and WTI 7.36% settlement after Iran diplomatic signals, US Nov2 close, AI debt finance Oracle announcement, Brazil B3 Finados gap, and US Congressional election scenarios. Previous Nov2 edition focused on Asian factory diffusion and OPEC quota.",
+    "source_check": "20 identical numbered reference URLs in English and Brazilian Portuguese, 11 source hosts. Verified ISM direct release, official OPEC Nov1, ECB Oct29, Fed Oct28, Eurostat GDP/inflation, B3 Finados notice, BCB September 16 communiqué and November 3/4 meeting, IBGE September unemployment, BOJ October and dated Reuters close/PMI/oil and CNN Brazil Friday. Reuters ISM cross-checked against publisher release.",
+    "visual_signature": "4 equivalent quantitative charts per language with identical numeric series: oil settlement [104.77,96.46]; ISM October [55.5,59.0,55.5,52.4,59.1,75.2]; 2 Nov US equity signed daily returns [-0.51,-1.07,0.41]; selected US/Eurozone/France October industrial PMIs [55.5,52.7,49.5]. Two distinct causal flows, one 6-region comparative map and one extended indicator table per locale. Each source period, units and inferential limits stated.",
+    "bilingual_parity": "EN 32,626 and PT-BR 35,155 characters; 9 ordered narrative chapters plus 20 numbered end references, 4 charts with exact matching numeric data, 2 flow blocks, 1 map block, 1 indicator table, substantive factual interpretation in each language. All 20 URLs, observation cutoffs and labels align.",
+    "research_depth": "Long-form daily 9-section brief (EN approx 4515 and PT-BR approx 5041 whitespace words including visuals and references) with oil futures versus physical flows/inventories, manufacturing costs, US equity funding structure, Europe GDP and inflation, US election conditional scenarios, Asian credit exposure, Brazilian B3/Fiscal/Copom, channels and falsifiable scenarios.",
+    "editorial_status": "Ready staged version only, revision 1; independent QA required before public promotion. No unverified election or central-bank result.",
+    "source_blob_shas": {
+      "en": "876a3ec408f341fe7c4bbdecc386fd163c0240de",
+      "pt-BR": "cf1bacd4c663c4222a4ba0e54451b570f63b8cf9"
+    },
+    "qa_handoff": "Check source chronology (November 2 completed session, November 3 01:45 BRT cutoff); ISM direct [1] 55.5/59.0/55.5/52.4/59.1/75.2; Reuters crude [5] 104.77/96.46 and -7.63/-7.36; Reuters stocks [7] -0.51/-1.07/+0.41; euro zone PMI52.7 France49.5, Eurostat last inflation 3.8% Sep (Oct scheduled Nov4), B3 Nov2 holiday, Copom Nov4, Fed/ECB rates, source URLs and full visual parity. QA approval must bind exact three blobs."
+  },
+  "contrary_evidence": [
+    "October US ISM PMI 55.5 and production 59.0 signify stronger surveyed industry even as AI stocks and Nasdaq declined on Nov2; equity performance is not a real manufacturing output series.",
+    "Oil Brent -7.63% and WTI -7.36% reflect market expectations around Iran talks; no signed comprehensive peace accord or verified full transit restoration was established.",
+    "ISM input price index 75.2 fell from 77.9 yet remains an elevated diffusion index; not a 2.7% drop in prices or immediate disinflation.",
+    "Euro-area October PMI 52.7 and US55.5 remain expansionary, while French49.5 contracted; cannot claim a synchronized manufacturing recession.",
+    "Nasdaq -1.07 and S&P500 -0.51 but Dow +0.41 show cross-sector differences; no across-the-board US equity collapse on Nov2.",
+    "Brazil B3 was closed Nov2; domestic equity and dollar last verified session October30, not Monday.",
+    "US midterm results, Brazil Copom decision and Eurostat October flash estimate not yet published at 01:45 BRT cutoff.",
+    "Price futures, cargo volumes, physical oil stocks, official OPEC+ production requirements and actual production are distinct economic measures."
+  ],
+  "limitations": [
+    "Information cutoff 3 November 2026 01:45 BRT; do not treat later US election returns, Asian opening, B3 trading or Central Bank/Eurostat releases as known at this timestamp.",
+    "S&P PMI euro-area and France details reported from Reuters where underlying subscription survey material is not fully open; ISM original directly checked.",
+    "Oil prices are November2 futures settlements and cannot establish current physical delivery, stored inventory totals or a concluded peace agreement.",
+    "Focus November3 release scheduled after cutoff; no new Focus median numbers claimed.",
+    "Brazil October30 closing levels and decline are dated and cannot stand for November3 live opening prices.",
+    "US manufacturing PMI, European factory diffusion and real GDP annualisation are methodologically different measures and cannot be converted into common output growth.",
+    "Foreign currency and corporate debt reactions are scenarios with contingencies, not point estimates or personal investment recommendations.",
+    "External verification sampled critical primary and dated Reuters sources; all 20 links checked for identity but some were not independently crawled for the complete article body. Deterministic GitHub Actions build still required before public deployment."
+  ],
+  "evidence_sources": [
+    {
+      "name": "ISM original October Manufacturing report",
+      "date": "2026-11-02",
+      "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"
+    },
+    {
+      "name": "Reuters November2 crude oil settlement",
+      "date": "2026-11-02",
+      "url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/"
+    },
+    {
+      "name": "Reuters November2 US equity close",
+      "date": "2026-11-02",
+      "url": "https://www.reuters.com/business/media-telecom/wall-street-futures-rise-ai-stocks-catch-their-breath-midterms-focus-2026-11-02/"
+    },
+    {
+      "name": "OPEC official November1 production requirements",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "ECB October29 policy",
+      "date": "2026-10-29",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+    },
+    {
+      "name": "Fed October28 FOMC statement",
+      "date": "2026-10-28",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "name": "B3 market calendar Finados November2",
+      "date": "2026-10-30",
+      "url": "https://b3.com.br/pt_br/noticias/confira-o-funcionamento-da-b3-no-feriado-de-finados.htm"
+    },
+    {
+      "name": "Brazil Central Bank September communiqué Nov4 next meeting",
+      "date": "2026-09-16",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=45963&tipo=Comunicado"
+    }
+  ],
+  "url": "/reports/2026/11/2026-11-03-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-03T04:56:57.393Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "9cd04d42fb765230586a7ca47b35b48b102ed416",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Oil's 7.6% decline exposes a split between industrial resilience and financing risk",
+      "deck": "Brent's 7.63% fall, October US ISM 55.5 with prices 75.2, weaker Nasdaq, divergent European industry and pending US midterms and Brazil Copom reveal a global battle between energy relief and the cost of finance.",
+      "tags": [
+        "Global Macro",
+        "Oil and Iran diplomacy",
+        "US ISM October",
+        "AI capital expenditure",
+        "Euro area and France PMI",
+        "US midterms",
+        "Brazil B3 reopening",
+        "Copom",
+        "Credit and sovereign rates"
+      ],
+      "keywords": [
+        "November 3 2026 Global Macro",
+        "Brent November 2 104.77 WTI 96.46",
+        "US manufacturing ISM October 55.5 prices 75.2",
+        "S&P -0.51 Nasdaq -1.07 Dow +0.41",
+        "Eurozone PMI 52.7 France 49.5",
+        "B3 holiday Finados November 2",
+        "Brazil Copom Nov 4 Selic 13.75",
+        "US midterm election November 3 2026",
+        "Oracle 20 billion capital raising",
+        "ECB 2.50 Fed 3.75 4.00"
+      ],
+      "regime": "Strong industrial US activity and uneven euro-area growth coexist with elevated input costs, a sharp geopolitical oil-price fall and renewed concern about debt-funded AI investment.",
+      "key_risk": "Interpreting lower Brent futures as completed physical supply recovery or stronger PMI as disinflation would understate simultaneous financing, currency and fiscal risks.",
+      "watch": [
+        "Actual Iran-US mediation progress, Hormuz cargo volumes and marine insurance",
+        "US manufacturing prices paid and supplier delivery follow-through",
+        "November 3 US midterm election results, future Congressional budget and AI oversight",
+        "Brazil November 3 B3 reopening, FX and yields; November 4 Copom decision",
+        "Eurostat October euro-area inflation flash on November 4",
+        "AI capex cash returns and corporate debt issuance spreads",
+        "November oil physical output against OPEC+ required levels"
+      ],
+      "search_text": "Global Macro early November 3 2026 oil Brent down 7.63% 104.77 WTI 96.46 Iran peace talks United States ISM 55.5 costs 75.2 Oracle AI financing Nasdaq down 1.07% European factories PMI 52.7 France 49.5 Brazilian B3 Finados reopening Lula fiscal Copom midterm elections"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Queda de 7,6% no petróleo expõe divergência entre resistência industrial e risco de financiamento",
+      "deck": "Brent cai 7,63%, ISM americano atinge 55,5 com preços pagos em 75,2, Nasdaq recua, indústria europeia diverge e eleições americanas e Copom brasileiro ampliam a disputa entre alívio energético e custo do crédito.",
+      "tags": [
+        "Global Macro",
+        "Petróleo e diplomacia com o Irã",
+        "ISM americano outubro",
+        "Investimentos em IA",
+        "PMI Europa e França",
+        "Eleições EUA",
+        "Reabertura da B3",
+        "Copom",
+        "Crédito e dívida pública"
+      ],
+      "keywords": [
+        "Global Macro 3 novembro 2026",
+        "Brent 2 novembro 104,77 WTI 96,46",
+        "PMI indústria americana outubro 55,5 preços 75,2",
+        "S&P -0,51 Nasdaq -1,07 Dow +0,41",
+        "PMI zona do euro 52,7 França 49,5",
+        "B3 feriado Finados 2 novembro",
+        "Copom 4 novembro Selic 13,75",
+        "eleições legislativas EUA 3 novembro 2026",
+        "Oracle captação 20 bilhões",
+        "BCE 2,50 Fed 3,75 4,00"
+      ],
+      "regime": "A indústria americana resistente e a expansão heterogênea europeia coexistem com insumos caros, queda forte do petróleo associada à geopolítica e dúvidas sobre financiamento dos investimentos em IA.",
+      "key_risk": "Interpretar Brent mais barato como recuperação física da oferta ou PMI elevado como desinflação ignora riscos simultâneos de crédito, câmbio e fiscal.",
+      "watch": [
+        "Progresso verificável das negociações com o Irã, cargas pelo estreito de Ormuz e seguro marítimo",
+        "Preços pagos industriais americanos e prazos de fornecedores",
+        "Resultados da eleição americana de 3/11 e efeitos fiscais e regulatórios posteriores",
+        "Reabertura da B3, câmbio e juros brasileiros em 3/11; decisão do Copom em 4/11",
+        "Estimativa preliminar de inflação da zona do euro de outubro em 4/11",
+        "Investimento, caixa e spreads de dívida das empresas de infraestrutura de IA",
+        "Produção física de petróleo versus requisitos anunciados pela OPEP+"
+      ],
+      "search_text": "Global Macro 3 novembro 2026 petróleo Brent 7,63% US$ 104,77 WTI 96,46 diplomacia Irã PMI EUA ISM 55,5 preços 75,2 Nasdaq -1,07% financiamento Oracle IA indústria zona do euro França B3 Finados eleição Lula Copom meio de mandato EUA"
+    }
+  }
+}

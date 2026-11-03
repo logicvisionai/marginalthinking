@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T04:41:01.635Z",
+  "last_reconciled_at": "2026-11-03T04:57:54.940Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8030,6 +8030,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Bilingual editorial rewrite of already-public historical research; no new measurable dataset fact, physical asset, strategic control relation, policy intervention outcome, contemporary incident or new technology deployment."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-global-macro-qa-approved-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T04:57:54.940Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-03"
+      ],
+      "audit_note": "Current 3 November Global Macro early edition. Nine analytical sections, dated November 2 closures and industrial source releases, no fabricated upcoming elections/central-bank outcomes, approved SHA-bound bilingual research. Seven cumulative datasets reviewed without unsupported new rows.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "No new quantified bilateral trade, capital, security or transport dependency edge. US, Europe, Middle East, Asia and Brazil transmission in prose and map is scenario analysis of dated indicators."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No verified new capital project, named operator financing commitment, investable opportunity owner or independently estimated future return; Oracle proposed capital raising is an observation, not standalone project opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Election outcome unobserved, conditional Congressional priorities are projections rather than new actor ownership/control relationships; no control edge can be added."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "OPEC+ retained output requirements and oil futures settled lower, but no proved physical oil reserve, concession, inventory, asset-control or delivery-quantity change is established by these sources."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Fed and ECB rate holds are externally documented background, while Brazil Copom and US midterms are pending. The brief does not identify a new quantitatively attributable policy intervention outcome."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Reuters attributed diplomacy and oil futures repricing are reported; no independently verified new geolocated conflict incident, escalation, military effect or participant responsibility established here."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Corporate AI capex financing concerns and industrial diffusion measures are market and survey observations, not newly demonstrated or scaled AI technology performance capability."
         }
       ]
     }
