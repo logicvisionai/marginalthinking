@@ -81,7 +81,7 @@ unit: % per year; meeting decisions, not monthly averages
 2026-09 | 13.75
 ```
 
-Since January 2025, the inflation target has been **3%**, with a **1.5-percentage-point tolerance band on either side**, assessed under a continuous-target framework. In September 2026 the IPCA increased **0.82%**, reaching **4.58% over twelve months**. A tight labour market and persistent service inflation complicate convergence, while volatile food and electricity prices cause shocks monetary policy cannot directly repair on the supply side. Managed prices, taxation, exchange rates and climatic conditions affect inflation even when domestic demand weakens. [2][11][24]
+Since January 2025, the inflation target has been **3%**, with a **1.5-percentage-point tolerance band on either side**, assessed under a continuous-target framework. In September 2026 the IPCA increased **0.82%**, reaching **4.58% over twelve months**. A tight labour market and persistent service inflation complicate convergence, while volatile food and electricity prices cause shocks monetary policy cannot directly repair on the supply side. Managed prices, taxation, exchange rates and climatic conditions affect inflation even when domestic demand weakens. [2][11][29]
 
 Premature easing could increase demand and currency pressures if expectations deteriorate; excessive restraint could depress investment and employment without fixing supply bottlenecks. The appropriate response depends on underlying services inflation, expectations and fiscal conditions, not on a mechanical rule connecting each 0.25-percentage-point cut to a fixed amount of GDP growth. One month's headline inflation is likewise not a sufficient basis for inferring the future policy path. [2][6]
 
@@ -165,7 +165,7 @@ Regional inequality adds a coordination problem. Grain-producing areas may gener
 
 ## 14. Industrial development: subsidised finance versus genuine competitiveness
 
-Nova Indústria Brasil uses public credit and investment mechanisms to support manufacturing, technological capacity and decarbonisation. In June 2026, the BNDES announced **R$140 billion available through December**, with **R$102.5 billion from BNDES** and **R$37.5 billion from Finep**. Available resources, loan commitments, disbursements, completed investment and measured productivity gains are separate stages and must not be treated as interchangeable outcomes. [26]
+Nova Indústria Brasil uses public credit and investment mechanisms to support manufacturing, technological capacity and decarbonisation. In June 2026, the BNDES announced **R$140 billion available through December**, with **R$102.5 billion from BNDES** and **R$37.5 billion from Finep**. Available resources, loan commitments, disbursements, completed investment and measured productivity gains are separate stages and must not be treated as interchangeable outcomes. [26a]
 
 The BNDES assessment of 21 sectors over 2025–2029 described average annual investment growth of **3% under its baseline** and **4.5% in an optimistic scenario**. These are exploratory projections, not guaranteed expenditure. Projects can fail to materialise when funding costs rise, permits are delayed, demand weakens or international prices change. [26]
 
@@ -468,3 +468,5 @@ Natural resources, a large domestic market and a diversified industrial base can
 [27] Brazilian Energy Research Office, *Ten-Year Energy Expansion Plan 2035*, 2026–2035 outlook: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2035
 
 [28] Brazilian Transport Ministry, planned 2027 road and railway concession portfolio, 15 October 2026: https://www.gov.br/transportes/pt-br/assuntos/noticias/2026/copy_of_10/mais-recorde-ministerio-dos-transportes-preve-29-projetos-para-2027
+
+[29] IBGE, Brazil Economic Indicators, September 2026 IPCA (0.82% monthly and 4.58% over twelve months): https://www.ibge.gov.br/indicadores-economicos/ipca.html
