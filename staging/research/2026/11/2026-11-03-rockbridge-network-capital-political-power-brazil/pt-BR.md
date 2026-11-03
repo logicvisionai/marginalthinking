@@ -165,3 +165,195 @@ A Folha relatou contatos da rede com figuras empresariais e políticas, menciona
 
 A localização do registro empresarial também importa. A empresa com denominação brasileira foi aberta nos Estados Unidos, não necessariamente constituída sob a legislação societária brasileira. O uso do nome do país e os documentos para potenciais associados não bastam para caracterizar estabelecimento ativo, realização de serviços ou ingresso de recursos no sistema financeiro brasileiro. Uma apuração financeira precisa localizar contas, contratos, responsáveis econômicos e prestações efetivas.
 
+## 12. O prospecto brasileiro: o valor econômico do acesso político
+
+Documentos obtidos pela Folha descreviam duas modalidades de associação para a Rockbridge Brasil. A categoria **Keystone**, com contribuição anual prevista de **US$ 500 mil**, e a **Visionary**, de **US$ 1 milhão**, ofereceriam possibilidades distintas de participação em reuniões, encontros com doadores internacionais e eventos reservados. A modalidade superior incluiria uma cadeira no conselho estratégico proposto. Os materiais admitiam modalidades amplas de pagamento, inclusive determinadas estruturas patrimoniais e ativos financeiros. São **preços ofertados em documentos**, não receitas verificadas, valores efetivamente pagos por associados brasileiros ou transferências confirmadas a campanhas. [10]
+
+```chart
+type: bar
+title: Rockbridge Brasil: contribuições anuais propostas nos documentos de 2026
+unit: milhões de dólares dos EUA por membro por ano; valores oferecidos, não contribuições pagas comprovadamente
+Proposta Keystone | 0.5
+Proposta Visionary | 1.0
+```
+
+O acesso político pode gerar benefícios econômicos antes mesmo de alguma autoridade tomar uma decisão. Um associado pode conhecer investidores com projetos complementares, obter informações sobre prioridades de governo, participar de debates de política industrial ou aumentar a visibilidade de propostas específicas. Essas oportunidades não se confundem automaticamente com compra ilícita de atos administrativos. Entretanto, uma estrutura privada de adesão muito cara suscita questões de transparência e igualdade no acesso a dirigentes públicos, especialmente quando o próprio material publicitário valoriza encontros exclusivos.
+
+O modelo comercial proposto expunha uma tensão recorrente em redes transnacionais de influência. Apresentações reuniam objetivos cívicos e ideológicos, instrumentos típicos de investimento e promessas de proximidade com autoridades. Para os associados, as anuidades poderiam ser justificadas por contatos empresariais e expectativa de influência sobre decisões. Para instituições democráticas, o exercício legítimo da atividade política depende de regras sobre transparência, financiamento e soberania que não podem ser afastadas por um contrato privado.
+
+Não há nos materiais públicos aqui utilizados demonstração de que associados brasileiros tenham pago esses valores, de que a empresa tenha arrecadado um orçamento anual equivalente à soma das anuidades anunciadas ou de que tais contribuições tenham financiado qualquer candidatura. Multiplicar os preços apresentados por um número hipotético de participantes produziria uma receita fictícia. A reconstrução econômica depende de comprovantes bancários, contratos, registros contábeis e identificação dos beneficiários.
+
+A própria palavra *membro* contém ambiguidades. Uma pessoa incluída em lista preliminar, um interessado que compareceu a uma reunião, alguém que assinou contrato e um associado que transferiu recursos possuem vínculos diferentes. A diferença é decisiva para a avaliação da estrutura comercial e para eventual responsabilização eleitoral.
+
+## 13. Três frentes institucionais: imprensa, universidades e Legislativo
+
+Um plano de negócios brasileiro datado de abril de 2026 e examinado pelo *Intercept Brasil* descreveu projeto inspirado no modelo americano de capital de risco político. A proposta identificava como prioritários três ambientes: **comunicação social, formação de jovens e universidades, e apoio legislativo**. No enquadramento utilizado nos documentos, esses campos apresentariam desequilíbrio de representação contra setores conservadores. As medidas incluíam apoio a veículos de imprensa de direita, formação intelectual e organizacional de novas lideranças e fornecimento de equipes técnicas ou ferramentas de dados a parlamentares aliados. [9]
+
+O financiamento de veículos de comunicação altera a disponibilidade de reportagens, análises e canais de distribuição. A formação universitária pode produzir profissionais especializados, candidatos, juristas e dirigentes vários anos depois do investimento inicial. Serviços de assessoria legislativa podem aumentar a capacidade de acompanhar projetos de lei, fiscalizar agências e coordenar propostas. Ao contrário de uma propaganda eleitoral isolada, são capacidades que sobrevivem ao calendário de uma eleição e podem influenciar o comportamento das instituições no longo prazo.
+
+Essas funções também existem legalmente em organizações da sociedade civil de diferentes correntes políticas. Institutos de pesquisa, fundações, entidades empresariais e associações de formação apoiam a elaboração de políticas e a preparação de quadros em diversas democracias. A distinção relevante está na origem do financiamento, no controle dos recursos, no emprego efetivo de pessoal ou serviços em campanhas específicas e nas restrições impostas pela legislação do país.
+
+O programa divulgado para a Rockbridge Brasil combinava a criação de uma estrutura ideológica duradoura com mecanismos de aproximação empresarial. Essa combinação pode ampliar a participação de grupos que se consideram pouco representados, mas também concentrar a organização da agenda pública em poucos financiadores. Os efeitos democráticos dependem da autonomia editorial, da concorrência entre instituições, do conhecimento público dos financiadores e da liberdade para contestar prioridades.
+
+As universidades merecem atenção particular porque sua função não se limita a transmitir opiniões políticas. Pesquisa científica, critérios de avaliação acadêmica e liberdade intelectual exigem governança diferente daquela de uma associação militante. Financiar centros de formação política é distinto de estabelecer mecanismos para controlar produção acadêmica ou condicionar resultados científicos a interesses de financiadores. Os documentos divulgados indicavam intenções organizacionais, mas não demonstram implementação de programas universitários concretos pela entidade brasileira.
+
+## 14. O Conselho de Tecnologia e suas projeções de investimento
+
+Apresentações noticiadas pela Folha propunham um **Conselho de Tecnologia de 23 integrantes**, com participação de brasileiros e investidores ou executivos internacionais. Os materiais projetavam **impacto econômico superior a US$ 100 bilhões em dez anos** e criação de **500 mil empregos**. Os números pertenciam a um plano prospectivo; não representam carteira de investimentos comprometidos, despesas executadas nem previsão de emprego validada por metodologia publicada. Não foram identificados nos materiais públicos contratos, cronogramas de desembolso, hipóteses setoriais verificáveis, multiplicadores de emprego ou estimativa contrafactual necessária para demonstrar adicionalidade. [10]
+
+A aproximação de capital internacional e tecnologia a um programa de industrialização possui motivações econômicas compreensíveis. O Brasil dispõe de oportunidades em eletricidade renovável, transformação mineral, manufatura, defesa e infraestrutura digital. Contudo, a sequência entre contatos e investimento executado possui diversas etapas: a oferta de cadeira em conselho não comprova aceitação; uma carta de intenção não é contrato vinculante; um contrato não é construção realizada; um investimento físico executado pode criar empregos diretos e simultaneamente deslocar outras atividades. Cada estágio apresenta riscos e obrigações diferentes.
+
+Quando números de grande escala aparecem em documentos de campanha, a composição econômica deles ganha relevância. Uma projeção de US$ 100 bilhões pode abranger investimento direto estrangeiro, financiamento doméstico, valor bruto de ativos, receitas cumulativas ou estimativas de impacto ao longo de uma década. Sem definição publicada, não se pode adicioná-la ao PIB, ao valor de reservas minerais ou às exportações. A promessa de 500 mil empregos pode contar ocupações temporárias, postos indiretos e criação bruta, grandezas diferentes de empregos permanentes líquidos.
+
+A composição do conselho anunciado também permaneceu contestada. Algumas pessoas citadas ou suas empresas negaram convites e autorizações para uso de seus nomes. Outros participantes afirmaram que a estrutura não foi efetivamente instalada nem chegou a realizar reuniões. A existência de um documento de apresentação e de nomes impressos não comprova a existência de uma diretoria operacional com poderes de vincular capital estrangeiro. [10][11]
+
+O uso de linguagem como *diplomacia de capital* nos documentos revela uma tentativa de associar a proximidade de investidores às prioridades de um eventual governo. Diplomacia oficial depende de competências estatais e compromissos públicos; encontros privados não podem substituí-la juridicamente. Investidores podem abrir contatos comerciais importantes, mas não obtêm autoridade constitucional para negociar direitos sobre recursos nacionais em nome da República.
+
+## 15. Assessores, contatos e a campanha presidencial brasileira de 2026
+
+Em 1º de outubro, a Folha noticiou que pessoas relacionadas ao ambiente Rockbridge teriam auxiliado a campanha de **Flávio Bolsonaro** com monitoramento, relatórios, atividades logísticas e discussões sobre infraestrutura de inteligência artificial. A reportagem citou integrantes ou pessoas próximas à candidatura e descreveu tarefas atribuídas a Pedro Sang e Tallis Gomes. Também registrou negações de financiamento estrangeiro e divergências sobre a existência de vínculos formais com a iniciativa brasileira. [11]
+
+Há diferenças jurídicas entre aconselhamento informal, serviços remunerados, trabalho voluntário permitido e benefício de campanha economicamente mensurável fornecido por fonte proibida. Um relatório pode ser elaborado gratuitamente por alguém sem ligação com a estrutura americana; pode constituir serviço pago de origem legítima; ou pode representar vantagem irregular em circunstâncias específicas. A identificação exige conhecer o autor, o mandante, o pagador, o custo, a vantagem recebida, a origem do recurso e o conhecimento da candidatura sobre o arranjo.
+
+A campanha negou ter recebido verba ou estrutura estrangeira. Tallis Gomes negou participar de arrecadação eleitoral ou intermediar recursos vindos do exterior e contestou os papéis formais atribuídos a ele. Outros envolvidos declararam que a operação brasileira nunca saiu do papel. Por outro lado, reportagens trouxeram relatos de contatos e serviços que justificaram questionamentos de adversários e autoridades. Nenhuma dessas declarações isoladamente encerra o exame dos fatos. [11][12]
+
+A eleição presidencial terminou com a reeleição de Luiz Inácio Lula da Silva em outubro de 2026, conforme a cobertura contemporânea. O resultado não extinguiu a relevância jurídica da controvérsia: eventuais serviços ou recursos eleitorais de origem vedada, se comprovados, envolveriam a integridade da disputa independentemente do candidato vencedor. A relevância da investigação está na natureza e procedência de qualquer benefício demonstrado, não em uma afirmação sem base de que a Rockbridge decidiu o resultado da eleição. [12][22]
+
+Os relatos também apontam para uma relação frequente entre campanhas e empresários da economia digital. Candidaturas buscam propostas para centros de dados, políticas fiscais, IA, inovação e infraestrutura. Empresários podem fornecer sugestões legitimamente. O problema surge quando a assessoria de campanha se mistura com contrapartidas privadas ou financiamento não declarado, exigindo regras de integridade específicas.
+
+## 16. A determinação do STF em 27 de outubro: investigação não é condenação
+
+Em **27 de outubro de 2026**, o ministro **Flávio Dino**, do Supremo Tribunal Federal, determinou à Polícia Federal apurar suspeitas de interferência estrangeira e apoio eleitoral vedado. Reportagens da Folha, do UOL e do *Washington Post* identificaram entre os pontos investigados contatos vinculados à Rockbridge, possíveis recursos e serviços e questionamentos sobre quem teria custeado atividades em favor de uma candidatura. Outras suspeitas mencionavam atuação de perfis sediados no exterior, comportamento de redes sociais e possíveis interesses econômicos em minerais críticos. A determinação instaurou ou ampliou a apuração; não representa decisão judicial de que os citados cometeram crimes eleitorais. [12][13][22]
+
+O significado jurídico está na possibilidade de um financiamento ocorrer sem transferência bancária direta para uma campanha. Consultores podem fornecer pesquisas, relatórios, equipe de trabalho, inteligência de dados ou publicidade que possuam valor de mercado. Se tais atividades forem bancadas por fonte vedada e preencherem os demais requisitos legais, podem representar apoio estimável em dinheiro. A responsabilização exige demonstrar a execução, o valor, o financiador, o beneficiário, o enquadramento jurídico e a participação ou conhecimento de cada responsável segundo a legislação aplicável.
+
+As denúncias sobre eventual favorecimento algorítmico por plataformas digitais constituem questão probatória separada. Erros de moderação, desigualdade de alcance entre perfis e recomendações de conteúdo não comprovam coordenação com uma rede de doadores. Eventuais irregularidades das plataformas dependem de registros técnicos, critérios de decisão, tratamento comparativo e demonstração de efeitos. Sua inclusão em um procedimento investigativo não faz de todas as alegações uma única cadeia causal.
+
+O mesmo vale para terras raras. Mencionar recursos minerais em um plano de política industrial pode demonstrar interesse estratégico; comprovar troca entre assistência eleitoral e concessão de acesso a minerais exigiria contratos, decisões, pagamentos ou comunicações capazes de vincular os fatos. As fontes públicas examinadas não estabelecem acordo concluído dessa natureza. [12][13]
+
+O devido processo é especialmente importante em conflitos políticos polarizados. A investigação deve preservar provas, permitir defesa, examinar documentos e evitar que acusações não demonstradas se convertam em sanções antecipadas. A soberania eleitoral depende tanto da prevenção de financiamento indevido quanto da capacidade do Estado de distinguir oposição legítima, relações comerciais e condutas efetivamente ilícitas.
+
+## 17. Financiamento eleitoral e soberania: onde está a fronteira jurídica brasileira
+
+A legislação eleitoral brasileira veda determinadas formas de financiamento de origem estrangeira. O **artigo 24 da Lei nº 9.504/1997** proíbe a partidos e candidatos receber, direta ou indiretamente, doações em dinheiro ou benefícios mensuráveis em dinheiro de fontes vedadas, incluindo entidades ou governos estrangeiros. Orientações do Tribunal Superior Eleitoral para as eleições de 2026 também identificam recursos de origem estrangeira e doações de pessoas jurídicas entre as fontes proibidas. As normas abrangem, sob condições específicas, apoio indireto e publicidade que represente benefício econômico eleitoral. [18][19]
+
+Essas restrições não tornam ilícito o contato entre político brasileiro e empresário estrangeiro, a presença em conferência internacional ou a análise de um projeto de investimento. O problema aparece quando a relação se converte em benefício de campanha custeado por origem vedada ou quando outras exigências da legislação eleitoral deixam de ser observadas. A nacionalidade do indivíduo e a origem estrangeira efetiva de recursos não são conceitos jurídicos sempre equivalentes; a jurisprudência anotada pelo TSE reconhece distinções sobre procedência do valor e situação de residentes. [19]
+
+Os Estados Unidos também proíbem diversas modalidades de participação financeira de estrangeiros em eleições americanas. A Federal Election Commission esclarece que super PACs não podem aceitar contribuições de estrangeiros, embora possam receber valores ilimitados de fontes domésticas legalmente autorizadas. As arquiteturas de financiamento dos dois países diferem, mas ambas tratam apoio eleitoral transnacional financiado por fonte estrangeira como risco específico à autonomia política. [20][21]
+
+A conformidade não decorre apenas do nome de uma pessoa jurídica. Um pagamento intermediado por consultoria nacional pode exigir exame da procedência econômica; uma reunião legítima com investidores não implica necessariamente repasse de recursos. Registros bancários, notas fiscais, contratos de serviços, documentação do trabalho executado, comunicações e identificação de controladores econômicos possuem maior valor probatório que afinidade ideológica declarada.
+
+Também existe diferença entre influência diplomática pública e financiamento clandestino. Estados exercem pressão internacional por tarifas, acordos, negociações e declarações oficiais, atividades submetidas a normas próprias. Grupos privados podem defender posições estrangeiras em debate público. O ponto de ruptura jurídico-eleitoral não é simplesmente uma opinião favorável a outro país, mas a utilização de recursos ou serviços de procedência proibida em favor de uma candidatura nos termos da lei.
+
+## 18. Minerais críticos, centros de dados e interesses econômicos estratégicos
+
+Recursos minerais, eletricidade e mercado interno tornam o Brasil relevante para estratégias industriais internacionais. Terras raras são utilizadas em certos ímãs e equipamentos; outros minerais críticos integram baterias, redes elétricas, sistemas de defesa e cadeias de semicondutores. A existência de recursos geológicos não equivale a reservas economicamente demonstradas, minas operacionais, capacidade de separação, produção metalúrgica ou fabricação de componentes. Cada etapa depende de conhecimento técnico, licenciamento, capital e acesso a compradores.
+
+As apresentações da Rockbridge Brasil mencionavam tecnologia, energia, infraestrutura de centros de dados e possibilidades de aproximação com capital internacional. A controvérsia eleitoral acrescentou suspeitas de que determinados atores estrangeiros buscariam condições favoráveis no mercado brasileiro de terras raras. O interesse econômico no setor aparece na agenda política discutida, mas a alegação de que indivíduos específicos obtiveram ou receberam promessa de ativos minerais exigiria identificar concessões, proprietários beneficiários, contratos e compromissos administrativos. Esses elementos não foram demonstrados pelas fontes que documentaram a proposta. [10][12]
+
+Centros de dados não são investimentos puramente informáticos. Dependem de energia confiável, capacidade de transmissão, refrigeração, terrenos, licenças, fibra óptica e contratos de clientes que remunerem a computação. Uma parceria anunciada como tecnológica pode envolver negociação de tarifas, contratos de eletricidade, tratamento tributário e acesso a infraestrutura pública. Essas relações materiais explicam a importância de contatos regulatórios e diplomáticos, mas não transformam toda negociação legítima em troca irregular de favores.
+
+A disputa geopolítica inclui a busca americana por cadeias produtivas menos dependentes da China e o interesse brasileiro em industrializar parte de seus recursos em lugar de exportar apenas minérios sem processamento. As estratégias podem convergir quando há transferência de tecnologia, capacidade produtiva local, competição e retorno econômico. Também podem divergir quando acordos concentram propriedade, limitam concorrentes brasileiros ou concedem vantagens públicas sem contrapartidas transparentes.
+
+A análise da soberania econômica precisa observar as etapas que geram maior valor. Extrair mineral de alto potencial não equivale a dominar purificação, metalurgia, ligas e produtos finais. Uma relação comercial pode ampliar exportações enquanto conserva dependência tecnológica em processos posteriores. Investidores, governos e comunidades locais podem perceber vantagens diferentes no mesmo projeto, sobretudo quando há consumo intenso de energia, água ou alterações ambientais.
+
+## 19. Evidências, disputas e projeções na presença brasileira
+
+| Objeto | Situação documentada até 3 de novembro de 2026 | Limite da evidência |
+| --- | --- | --- |
+| Rockbridge Network nos EUA | Círculo ativo desde 2019, com organização política e doadores documentados | Não possui balanço consolidado público que permita somar todas as estruturas |
+| Turnout for America, 2024 | Super PAC registrado; cerca de US$ 45,67 milhões de receitas e US$ 34,54 milhões de despesas | Valores de comitê específico não representam gastos totais da Rockbridge |
+| Iniciativa eleitoral americana de US$ 50 milhões para 2026 | Meta de mobilização publicamente anunciada | Anúncio não equivale a despesa final executada |
+| Presença sul-coreana | Organização coreana e seminário público de segurança relatados | Governança e financiamento não são idênticos às estruturas americanas |
+| Rockbridge Brazil LLC | Registro societário em Wyoming em 12 de maio de 2026 | Registro não prova operação ativa ou identifica todos os proprietários |
+| Anuidades brasileiras propostas | Ofertas de US$ 500 mil e US$ 1 milhão em materiais examinados pela imprensa | Não há receitas correspondentes comprovadas |
+| Conselho de Tecnologia brasileiro | Proposta de 23 nomes e estimativas de US$ 100 bilhões e 500 mil empregos | Não há conselho operacional comprovado, investimento comprometido ou metodologia validada |
+| Serviços em campanha brasileira | Reportagens relataram contatos e possível apoio; partidos apresentaram denúncias | Funções e financiamentos são contestados; transferência ilegal não demonstrada |
+| Apuração STF/PF | Investigação determinada em 27 de outubro | Investigar não equivale a condenar nem a confirmar acusações |
+| Acesso a minerais | Tema estratégico e suspeitas levantadas durante a campanha | Não há contrato concluído ou troca comprovada de apoio eleitoral por direitos minerais |
+
+A tabela expõe assimetria fundamental entre os casos. Nos Estados Unidos, a infraestrutura política associada à Rockbridge é sustentada por anos de investigação jornalística e por operações de comitês com registros financeiros públicos. No Brasil, os elementos mais concretos envolvem registro formal, apresentações confidenciais, contatos e acusações cuja execução é contestada. O interesse político dos dois contextos é relevante, mas a documentação não sustenta conclusões equivalentes sobre dinheiro efetivamente utilizado.
+
+A existência de apuração estatal eleva a importância da transparência, mas não altera automaticamente o status de cada evidência. Um documento comercial pode ser autêntico e seus projetos não terem sido executados. Uma pessoa pode ter participado de reunião sem integrar formalmente a organização. Uma investigação pode identificar irregularidades específicas ou concluir pela ausência de elementos suficientes. Esses resultados precisam permanecer distinguidos.
+
+## 20. Capital político privado e responsabilização democrática
+
+Financiadores privados podem ampliar o pluralismo ao sustentar instituições negligenciadas por partidos tradicionais ou grandes veículos de comunicação. Também podem concentrar poder quando um número pequeno de pessoas muito ricas conquista acesso recorrente a ministros, candidatos e decisões de infraestrutura. O mesmo mecanismo permite formar outra elite política enquanto se apresenta como contestação da elite anterior. Os efeitos democráticos dependem da governança, da participação efetiva dos cidadãos e da possibilidade de fiscalizar recursos e decisões.
+
+O fenômeno não é exclusivo de uma ideologia. Fundações, entidades associativas, sindicatos, organizações empresariais e financiadores de comunicação em diferentes campos políticos procuram exercer influência duradoura. A especificidade da Rockbridge está na combinação de capital de risco político, anuidades elevadas, riqueza ligada à tecnologia, organização partidária e tentativa de internacionalização.
+
+Três dimensões precisam ser separadas. **Poder financeiro** corresponde a quem fornece recursos, quem os recebe e por quais instrumentos. **Poder organizacional** corresponde a quem recruta, administra cadastros, condiciona financiamento de veículos e seleciona projetos. **Poder institucional** corresponde ao acesso a autoridades e à capacidade efetiva de influenciar normas, contratações e políticas públicas. Evidência sobre uma dimensão não comprova automaticamente as outras.
+
+A concentração oligárquica torna-se risco quando riqueza, acesso político privilegiado e decisões públicas se reforçam sem mecanismos adequados de transparência. O abuso estatal aparece no sentido oposto: autoridades podem utilizar acusações de interferência estrangeira para criminalizar associações lícitas ou prejudicar adversários sem fundamento probatório. As duas situações exigem tribunais independentes, acesso a registros, concorrência institucional e garantias processuais.
+
+A legitimidade democrática não pode ser medida apenas pela legalidade formal do repasse. Projetos de lei, licitações, concessões e regulação precisam poder ser contestados por cidadãos que nunca integraram clubes privados de financiadores. Ao mesmo tempo, a participação de empresários ou pessoas ricas no debate público não pode ser proibida simplesmente por sua posição econômica. O equilíbrio depende de transparência material, prevenção de conflitos de interesses e igualdade de aplicação das regras.
+
+## 21. Cenários depois da eleição brasileira e antes das legislativas americanas
+
+No corte informacional da madrugada brasileira de **3 de novembro de 2026**, as eleições legislativas americanas programadas para essa data ainda não estavam concluídas. Seu resultado poderia alterar a posição dos republicanos no Congresso e a conjuntura da possível candidatura de Vance em 2028, mas nenhum desfecho eleitoral desta terça-feira integra a análise. O pleito presidencial brasileiro já terminara com a reeleição de Lula, enquanto a investigação da Polícia Federal seguia como processo distinto. [12][17]
+
+**Consolidação institucional nos Estados Unidos.** Organizações associadas à Rockbridge mantêm mobilização territorial, relação com financiadores e apoio à comunicação conservadora através de eleições sucessivas. A evidência correspondente seriam relatórios financeiros efetivos, manutenção de organizações operacionais e continuidade de redes locais. A hipótese enfraquece se a despesa prometida não ocorrer, a rotatividade destruir a capacidade de campo ou os financiadores migrarem para redes concorrentes.
+
+**Expansão internacional com limites formais.** A iniciativa coreana prossegue em encontros públicos de política e defesa, enquanto eventual retomada brasileira adota constituição jurídica clara, financiamento legal e separação entre iniciativas empresariais e campanhas. Isso exigiria registros societários, operações verificáveis, encontros publicados e governança transparente. A trajetória perde consistência caso conselhos permaneçam no papel ou os participantes e recursos não sejam confirmados.
+
+**Conflito jurídico e diplomático.** Investigadores brasileiros identificam serviços eleitorais ou transferências vedadas e a controvérsia provoca disputas envolvendo governos e organizações privadas. Esse desenvolvimento dependeria de provas transacionais, comunicações e decisões fundamentadas no direito aplicável. Sem esses elementos, acusações não sustentam declaração de culpa nem a afirmação de que investimentos foram negociados como contrapartida por apoio eleitoral.
+
+Também é possível trajetória menos dramática: a rede americana mantém atividades domésticas, a Rockbridge Brazil LLC permanece inativa, a investigação termina sem comprovação de financiamento ilegal e interesses econômicos no Brasil são conduzidos por investimento convencional e diplomacia oficial. Nem todo projeto anunciando proximidade política se transforma em entidade operacional.
+
+## 22. A distribuição de poder na nova infraestrutura conservadora
+
+A Rockbridge ocupa uma posição de encontro entre grandes patrimônios privados e organizações que distribuem influência política. Seu modelo americano documentado procura financiar capacidades permanentes, e não apenas propaganda eleitoral isolada. O círculo empresarial associado à rede inclui investidores posicionados em tecnologias cujos mercados dependem de políticas industriais, contratações públicas, segurança e competição internacional. A atuação coreana demonstra que iniciativas desse tipo podem se projetar para outros países. O episódio brasileiro evidencia a tensão entre ambição política, registro formal, versões contraditórias e limites de soberania eleitoral.
+
+Três distinções impedem conclusões exageradas. Uma **rede de doadores** não é a mesma pessoa jurídica de uma **gestora de investimentos**. A **carteira de uma gestora** não comprova **controle de contratos públicos**. Uma **proposta política estrangeira** não constitui prova de **financiamento eleitoral ilícito executado**. Essas fronteiras não retiram importância da Rockbridge; tornam possível situar seu poder nas capacidades privadas de reunir recursos, conhecimento técnico, confiança social e acesso político em estruturas duradouras.
+
+O capital de risco político incorpora à competição democrática uma lógica conhecida dos mercados financeiros: portfólios de projetos, horizontes prolongados, patrocinadores concentrados e expectativa de retornos cumulativos. Entretanto, ao contrário dos investimentos privados, seus resultados podem incluir decisões públicas que afetam milhões de cidadãos não associados ao círculo de financiadores. A legitimidade dessas decisões não decorre dos ideais declarados pelos investidores nem das suspeitas levantadas pelos adversários. Depende de registros acessíveis, igualdade perante a lei, autonomia das instituições e possibilidade efetiva de contestar o exercício do poder.
+
+## Referências documentais
+
+[1] Alexandra Ulmer and Aram Roston, Reuters, *Tech donor network co-founded by JD Vance seeks to push America to the right*, 20 August 2024: https://www.investing.com/news/world-news/tech-donor-network-cofounded-by-jd-vance-seeks-to-push-america-to-the-right-3578816
+
+[2] Elizabeth Dwoskin, *The Washington Post*, *The secretive donor circle that lifted JD Vance is now rewriting MAGA's future*, 4 November 2025: https://www.washingtonpost.com/technology/2025/11/04/chris-buskirk-maga-vance-post-trump/
+
+[3] ProPublica Itemizer, *Turnout For America, 2024 election-cycle federal filings*: https://projects.propublica.org/itemizer/committee/C00883520/2024
+
+[4] US Federal Election Commission, *Turnout for America — committee C00883520*, filing periods and financial summary: https://www.fec.gov/data/committee/C00883520/
+
+[5] CBS News, *JD Vance appears at secretive conservative donor summit*, 30 March 2026: https://www.cbsnews.com/amp/news/jd-vance-rockbridge-network-conservative-donor-summit-nashville/
+
+[6] Axios, *$50m investment in voter turnout adds to Trump's midterm firepower*, 30 March 2026: https://www.axios.com/2026/03/30/midterms-trump-maga-40-million-gop
+
+[7] Axios, *Secretive Vance-aligned donor network draws GOP power players in Dallas*, 9 September 2026: https://www.axios.com/2026/09/09/vance-fundraising-network-rockbridge-gop
+
+[8] Alexa Salomão, Folha de S.Paulo, *O que é a Rockbridge Network*, 25 September 2026: https://www1.folha.uol.com.br/poder/2026/09/o-que-e-a-rockbridge-network-grupo-conservador-dos-eua-que-alimenta-polemica-eleitoral-no-brasil.shtml
+
+[9] Cecília Olliveira, Gisele Lobato and Nick Cleveland-Stout, Intercept Brasil, *Rede trumpista Rockbridge tentou esconder início de operação no Brasil*, 29 September 2026: https://www.intercept.com.br/2026/09/29/rede-rockbridge-operacao-brasil/
+
+[10] Alexa Salomão, Folha de S.Paulo, *Rockbridge, grupo conservador do vice-presidente dos EUA, iniciou instalação no Brasil*, 25 September 2026: https://www1.folha.uol.com.br/poder/2026/09/rockbridge-grupo-conservador-do-vice-presidente-dos-eua-iniciou-instalacao-no-brasil.shtml
+
+[11] Carolina Linhares, Folha de S.Paulo, *Empresários ligados à Rockbridge ajudaram Flávio Bolsonaro com relatórios e consultoria, dizem aliados*, 1 October 2026: https://www1.folha.uol.com.br/poder/2026/10/empresarios-ligados-ao-grupo-rockbridge-ajudaram-flavio-bolsonaro-com-relatorios-e-consultoria-dizem-aliados.shtml
+
+[12] UOL Notícias, *Dino manda PF apurar interferência de grupo ligado a Trump na eleição*, 27 October 2026: https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/27/dino-manda-pf-apurar-interferencia-de-grupo-ligado-a-trump-na-eleicao.amp.htm
+
+[13] Folha de S.Paulo, *Dino manda PF investigar suspeita de financiamento estrangeiro à campanha de Flávio Bolsonaro*, October 2026: https://www1.folha.uol.com.br/poder/2026/10/dino-manda-pf-investigar-suspeita-de-financiamento-estrangeiro-a-campanha-de-flavio-bolsonaro.shtml
+
+[14] The Korea Herald, *Trump-linked Rockbridge Network sets up Korean arm with ex-PM, tycoons*, 2025: https://www.koreaherald.com/article/10582591
+
+[15] Korea JoongAng Daily, *JD Vance-founded Rockbridge to hold first Korea-US-Japan security seminar*, 9 September 2026: https://www.koreajoongangdaily.com/korea/jd-vancefounded-rockbridge-to-hold-first-security-seminar-in-seoul/12867131
+
+[16] Reuters, *Trump son Don Jr joining venture capital firm 1789 Capital, sources say*, 12 November 2024: https://www.reuters.com/world/us/trump-son-don-jr-joining-venture-capital-firm-1789-capital-sources-say-2024-11-12/
+
+[17] The Washington Post, *Trump's sons invest heavily in defense tech as father's administration pours money in*, 13 July 2026: https://www.washingtonpost.com/technology/interactive/2026/07/13/trumps-sons-invest-heavily-defense-fathers-administration-pours-money/
+
+[18] Tribunal Superior Eleitoral, *Por Dentro das Eleições: aplicação dos recursos de campanha*, May 2026: https://www.tse.jus.br/comunicacao/noticias/2026/Maio/por-dentro-das-eleicoes-saiba-como-funciona-a-aplicacao-dos-recursos-de-campanha
+
+[19] Tribunal Superior Eleitoral, *Lei das Eleições — Lei 9.504/1997*, article 24 and annotated provisions: https://www.tse.jus.br/legislacao/codigo-eleitoral/lei-das-eleicoes/lei-das-eleicoes-lei-nb0-9.504-de-30-de-setembro-de-1997
+
+[20] US Federal Election Commission, *Contributions to Super PACs and Hybrid PACs*: https://www.fec.gov/help-candidates-and-committees/taking-receipts-pac/contributions-to-super-pacs-and-hybrid-pacs/
+
+[21] US Federal Election Commission, *Foreign nationals*: https://www.fec.gov/help-candidates-and-committees/foreign-nationals/
+
+[22] The Washington Post, *Brazilian judge orders investigation into JD Vance donor network*, 27 October 2026: https://www.washingtonpost.com/world/2026/10/27/brazilian-judge-orders-investigation-into-jd-vance-donor-network/
+
+[23] Filipe Mendonça, *The Conversation* syndicated at Terra, *Como um fundo de capital político dos EUA está influenciando a eleição no Brasil*, 16 October 2026: https://www.terra.com.br/noticias/como-um-fundo-de-capital-politico-dos-eua-esta-influenciando-a-eleicao-no-brasil%2C99aec69038909d96757b0ef654ad04fayb9rtog0.html
+
+[24] Bruno Ribeiro, Folha de S.Paulo, *Consultoria da Faria Lima auxiliou registro de Rockbridge*, 26 September 2026: https://www1.folha.uol.com.br/poder/2026/09/consultoria-da-faria-lima-auxiliou-registro-de-rockbridge-grupo-conservador-dos-eua-no-brasil.shtml
