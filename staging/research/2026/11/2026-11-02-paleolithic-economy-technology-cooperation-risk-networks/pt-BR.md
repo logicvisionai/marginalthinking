@@ -124,6 +124,18 @@ Essa assimetria é decisiva para explicar a origem do Estado. Seria metodologica
 
 A relação recíproca entre economia e autoridade continua pertinente. Pessoas que organizam tarefas produtivas difíceis podem conquistar influência sobre a distribuição; quem controla o acesso a recursos confiáveis pode adquirir poder de barganha; famílias capazes de abandonar um grupo podem limitar exigências de possíveis líderes. São mecanismos a testar contra vestígios e comparações, não uma sequência reconstruída de governos para todo o Pleistoceno.
 
+O gráfico das primeiras tecnologias comprime milhões de anos; atividades muito posteriores tornam-se quase invisíveis nessa escala. Uma cronologia aproximada revela a distância entre o contexto de produção deliberada do fogo, a exploração de grandes animais por neandertais, a ocupação antiga e debatida da Austrália e os sepultamentos de Sunghir. As datas se referem a sítios específicos e **não** à invenção do fogo, da caça, da navegação ou de rituais funerários. A reunião de casos independentes num gráfico não descreve uma sucessão evolutiva. [6][7][11][12]
+
+```chart
+type: bar
+title: Evidências pré-históricas posteriores em escala cronológica ampliada
+unit: milhares de anos antes do presente; antiguidade aproximada registrada nos sítios
+Interpretação da produção deliberada do fogo em Barnham | 400
+Exploração de elefantes em Neumark-Nord | 125
+Ocupação antiga de Madjedbebe | 65
+Contexto paleolítico superior de Sunghir | 34
+```
+
 ## 13. Geografia da evidência: ecologias distintas, possibilidades diferentes
 
 ```map
