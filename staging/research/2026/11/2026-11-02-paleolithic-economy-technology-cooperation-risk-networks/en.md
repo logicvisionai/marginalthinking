@@ -124,6 +124,18 @@ This asymmetry matters for explanations of the origins of the state. It would be
 
 The reciprocal link between economy and authority nevertheless remains meaningful. People who organize difficult procurement may gain a voice in the distribution; people who control access to dependable resources may acquire bargaining power; households able to leave can limit the demands of would-be leaders. These are mechanisms to test against sites and comparative material, not a reconstructed sequence of governments for the entire Pleistocene.
 
+The earliest-technologies chart compresses millions of years; later activities would be visually nearly invisible on its scale. A closer chronology separates a much later fire-making context from Neanderthal megafauna exploitation, the debated early Australian occupation and the Sunghir graves. These dates are approximate site contexts, **not** the invention dates of fire, hunting, sea travel or funerary ritual. The sites are independent; plotting them together does not imply an evolutionary succession. [6][7][11][12]
+
+```chart
+type: bar
+title: Later prehistoric evidence on a closer time scale
+unit: thousands of years before present; approximate reported site antiquity
+Barnham deliberate fire-making interpretation | 400
+Neumark-Nord elephant exploitation | 125
+Madjedbebe early occupation | 65
+Sunghir Upper Paleolithic context | 34
+```
+
 ## 13. Geography of evidence: different ecologies, different options
 
 ```map
