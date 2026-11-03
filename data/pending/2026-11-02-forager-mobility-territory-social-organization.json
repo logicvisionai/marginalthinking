@@ -1,0 +1,151 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-02-FORAGER-TERRITORY",
+  "slug": "2026-11-02-forager-mobility-territory-social-organization",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T23:16:00-03:00",
+  "kind": "historical-civilizations-research",
+  "priority": 60,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-02-forager-mobility-territory-social-organization/en.md",
+      "title": "Territories without states: mobility, collective labour and inequality in hunting-and-gathering societies",
+      "deck": "Global comparison of mobile and settled foragers, resource rights, reciprocity, stored food and political authority, from Ju/'hoansi networks to the Northwest Coast, Natufian Levant, Jōmon and Poverty Point.",
+      "tags": [
+        "Hunter-gatherer political economy",
+        "mobility and territory",
+        "non-state societies",
+        "forager inequality",
+        "Ju/'hoansi hxaro",
+        "Hadza networks",
+        "Northwest Coast fishing",
+        "Natufian settlement",
+        "Jomon",
+        "Poverty Point"
+      ],
+      "keywords": [
+        "forager mobility",
+        "territorial rights",
+        "social networks",
+        "risk pooling",
+        "food storage",
+        "Jomon Sannai Maruyama",
+        "Poverty Point monumental earthworks",
+        "Northwest Coast hierarchy",
+        "Ju hoansi hxaro Wiessner 1974 2018",
+        "Natufian cereal harvesting"
+      ],
+      "regime": "Foraging societies combined flexible mobility, negotiated territory, gift networks, resource storage and, in specific cases, hereditary hierarchy without a single universally necessary state or farming transition.",
+      "key_risk": "Treating all foragers as timeless egalitarian bands, or projecting modern ethnographic gift rates and colonial categories backward as direct Paleolithic statistics.",
+      "watch": [
+        "Direct archaeological tests of territorial exclusion and storage",
+        "Revision of Natufian cultivation and sedentism chronology",
+        "Comparative regional evidence on hereditary inequality and resource defensibility",
+        "Continuation and disruption of Indigenous land governance",
+        "Evidence of Poverty Point residential and construction sequence"
+      ],
+      "search_text": "hunter gatherers foragers territoriality mobility land rights social organization egalitarian inequality cooperation collective construction Poverty Point Jomon Natufian Ju hoansi Hadza Northwest Coast Alaska Australia"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-02-forager-mobility-territory-social-organization/pt-BR.md",
+      "title": "Territórios sem Estados: mobilidade, trabalho coletivo e desigualdade nas sociedades caçadoras-coletoras",
+      "deck": "Comparação mundial entre comunidades coletoras móveis e sedentárias, direitos territoriais, reciprocidade, armazenamento e autoridade, das redes Ju/'hoansi à costa noroeste, Levante natufiense, Jōmon e Poverty Point.",
+      "tags": [
+        "Economia política de caçadores-coletores",
+        "mobilidade e território",
+        "sociedades sem Estado",
+        "desigualdade entre coletores",
+        "hxaro Ju/'hoansi",
+        "redes Hadza",
+        "pesca costa noroeste",
+        "sedentarismo natufiense",
+        "Jōmon",
+        "Poverty Point"
+      ],
+      "keywords": [
+        "mobilidade caçadores coletores",
+        "direitos territoriais",
+        "redes sociais",
+        "partilha risco",
+        "estoque de alimentos",
+        "Jomon Sannai Maruyama",
+        "Poverty Point construções monumentais",
+        "hierarquia costa noroeste",
+        "Ju hoansi hxaro Wiessner 1974 2018",
+        "colheita cereais natufienses"
+      ],
+      "regime": "Sociedades coletoras combinaram mobilidade, direitos territoriais negociados, trocas de presentes, estoques e, em casos específicos, hierarquias hereditárias sem exigência universal de Estado ou agricultura.",
+      "key_risk": "Tratar todos os coletores como bandos igualitários atemporais ou projetar estatísticas etnográficas modernas e categorias coloniais como dados paleolíticos diretos.",
+      "watch": [
+        "Testes arqueológicos de exclusão territorial e armazenamento",
+        "Revisões da cronologia de cultivo e sedentarismo natufiense",
+        "Comparações regionais sobre desigualdade hereditária e controle de recursos",
+        "Continuidade e ruptura da governança territorial indígena",
+        "Evidências sobre residência e sequência construtiva em Poverty Point"
+      ],
+      "search_text": "caçadores coletores mobilidade territorialidade direitos terra organização social igualitarismo desigualdade cooperação construção coletiva Poverty Point Jomon Natufiense Ju hoansi Hadza costa noroeste Alasca Austrália"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "institutions-governance",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change",
+    "commodities-resources",
+    "industry-production",
+    "trade-investment"
+  ],
+  "phenomena": [
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "related_research_ids": [
+    "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY"
+  ],
+  "contrary_evidence": [
+    "The ethnographic sample of 32 forager societies is not a census of Paleolithic populations or a universal residential size.",
+    "Ju/'hoansi gifting ratios measure different observed gifts and people in 1974 and 2018 and cannot establish prehistoric rates.",
+    "Resource concentration has evidence as a mechanism of hierarchy in Northwest Coast/California comparisons, but not a universal causal law for all fishermen.",
+    "Poverty Point demonstrates monumental coordination by foragers, not a verified king, tax ministry or hereditary elite.",
+    "Natufian intensive wild cereal gathering and possible cultivation are not proof of fully domesticated crops across all communities.",
+    "Current Australian cultural fire and Country practices document varied governance and historical continuity, not a continent-wide unchanged regime since the Pleistocene."
+  ],
+  "limitations": [
+    "Historical and ethnographic examples span different periods and cannot be merged into a synchronous prehistoric world model.",
+    "Modern ethnography is conditioned by colonial relations, land dispossession, fencing, markets and national policies.",
+    "Archaeological visibility of rank, household rights and social ties is unequal and does not directly measure global prehistoric income inequality.",
+    "The charts concern measured modern 1974–2018 Ju/'hoansi gifting; they are not Pleistocene quantitative reconstructions.",
+    "Sources combine full research articles, abstracts and institutional summaries; full independent academic peer review has not been conducted."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2 November 2026 BRT; bibliography covers 2004–2026 academic archaeology, anthropology and Indigenous governance; contemporary Ju/'hoansi observations refer to 1974 and 2018.",
+    "editorial_novelty": "Distinct from the first Paleolithic survival article; institution-centered comparative analysis of access, movement, exclusion, social reciprocity, class formation, settlement intensity and collective engineering.",
+    "visual_signature": "Both locales carry two numerical charts with matched measured Ju/'hoansi gift percentages [23,1] and [35,45] for 1974/2018, plus two detailed evidence tables, one three-chain causal diagram and one eight-case regional map.",
+    "source_check": "22 matching URLs in EN/PT-BR across PNAS, Science, Nature, Annual Review, university archives, UNESCO and HRAF, covering territoriality, exchanges, political hierarchy, Jōmon, Natufian and Poverty Point.",
+    "bilingual_parity": "18 corresponding substantive chapters plus sources, identical 22 URL references and two chart series, same scenarios, cases, evidence, chronology and qualifications.",
+    "research_depth": "English approx. 4,622 substantive words / 37,324 characters; PT-BR approx. 4,895 substantive words / 40,008 characters, both above the 8,000-character line requirement.",
+    "methodology": "Comparative archaeological and ethnographic political economy; explicitly differentiate time, region, ancient/modern, evidence/inference, food stocks, access rights and reproducible 1974/2018 cross-sectional survey data."
+  }
+}
