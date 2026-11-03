@@ -172,3 +172,133 @@ O estudo prospectivo do BNDES para 2025–2029 apontou investimentos mapeados em
 A indústria brasileira enfrenta concorrência nos segmentos de bens intermediários, máquinas, veículos, químicos e equipamentos eletrônicos. Reindustrialização não exige produzir domesticamente todos os componentes de toda cadeia. O critério econômico é desenvolver atividades em que conhecimento, escala, recursos e fornecedores gerem competitividade, preservando capacidade de importação onde ela reduz custos e acelera aprendizado. Uma tarifa protetora pode sustentar produção e emprego no curto prazo, mas também encarecer máquinas para outros setores, reduzindo produtividade sistêmica. [5][17]
 
 O problema tecnológico é cumulativo. Investir em pesquisa aplicada sem capacidade de industrialização produz protótipos que não chegam a fábricas; financiar fábricas sem mercados, engenharia, qualidade e produtividade pode produzir dependência permanente de crédito subsidiado. O sucesso de 2027 dependerá da proporção de projetos que alcançam produção, exportação, menor custo unitário e vínculos com pequenas e médias empresas fornecedoras. [6][26]
+
+## 15. Agropecuária: competitividade mundial e dependência de clima, crédito e logística
+
+A agropecuária combina alta produtividade em cadeias exportadoras com fragilidades de transporte, armazenagem, financiamento e riscos climáticos. No acumulado de janeiro a setembro de 2026, as exportações agropecuárias brasileiras somaram **US$ 64,84 bilhões** na classificação setorial do MDIC, alta de 8,9% ante igual período de 2025. A receita depende de preço, volume, calendário de safra e câmbio, variáveis que podem evoluir em direções opostas. Uma colheita maior nem sempre gera renda agrícola maior se cotações internacionais caírem e insumos permanecerem caros. [17]
+
+A previsão da Fazenda para a inflação de 2027 foi elevada, em setembro, em parte porque se considerou a possibilidade de El Niño mais intenso afetar grãos e, posteriormente, preços das carnes. O relatório do FMI identifica fertilizantes importados como vulnerabilidade diante de interrupções logísticas e tensões geopolíticas. A cadeia agrícola brasileira precisa de nitrogênio, potássio, fósforo, diesel, armazenagem, máquinas, seguros e corredores de escoamento. A competitividade da fazenda não basta quando o custo da tonelada transportada até o porto absorve parte da vantagem de produtividade. [4][6][17]
+
+O financiamento rural agrega exposição própria a preços e clima. Uma safra frustrada reduz receita justamente quando parcelas de máquinas, custeio e arrendamento vencem; renegociações podem transmitir riscos a cooperativas, bancos e fornecedores. O desafio prudencial é separar um choque transitório de uma mudança estrutural de solvência, sem transformar garantias públicas em incentivo à tomada permanente de riscos mal administrados. Seguro, irrigação, diversidade de culturas e dados climáticos confiáveis reduzem perdas potenciais, mas a expansão dessas soluções depende de custo, cobertura e verificação dos sinistros. [6][14]
+
+A política ambiental também se tornou parte do acesso a mercados. Rastreabilidade de origem, regularidade fundiária e respeito a regras sanitárias alteram os compradores que podem receber alimentos e madeira. A integração entre agricultura, conservação e infraestrutura não precisa ser tratada como uma escolha binária, mas empresas e governos terão de demonstrar resultados verificáveis em uso da terra, emissões e cumprimento de contratos para preservar reputação e mercados. [5][20]
+
+## 16. Petróleo, gás e Petrobras: exportação, receitas públicas e inflação de combustíveis
+
+A expansão da produção de hidrocarbonetos pode fortalecer a balança comercial, arrecadação e investimento industrial. O FMI destaca o efeito de preços internacionais de petróleo sobre termos de troca e receitas brasileiras, enquanto estudos do BNDES identificam projetos expressivos no setor de exploração, produção, gás e refino. O aumento da receita em dólares, contudo, não equivale a redução proporcional do preço pago pelo consumidor: combustíveis dependem de refino, importação de derivados, tributos, distribuição, margens e política de preços. [6][26]
+
+Petrobras e empresas privadas operam sob decisões comerciais e regulatórias que afetam dividendos, exploração, conteúdo local, refino, transporte e investimentos. Uma política de preços que amorteça choques externos pode reduzir volatilidade imediata ao consumidor, mas também redistribuir custo para empresas, contribuintes ou acionistas quando a diferença em relação ao preço de reposição é persistente. O impacto sobre a inflação depende do desenho da política e de sua duração, não apenas da existência de participação estatal. [6]
+
+O gás natural oferece possibilidade de ampliar a oferta de energia e matéria-prima a fertilizantes, química e indústrias intensivas em calor. O benefício depende de capacidade de processamento, dutos, demanda contratada e preço entregue ao consumidor industrial. Possuir reservas offshore não assegura que uma pequena fábrica no interior tenha gás competitivo; infraestrutura e regulação determinam o custo efetivo de acesso. [26][27]
+
+Exportar mais petróleo cria oportunidade fiscal, mas também risco de concentração de receitas em ciclo de preços voláteis. O FMI recomendou que receitas extraordinárias fossem usadas para fortalecer a posição fiscal, em vez de criar despesas permanentes impossíveis de sustentar quando o barril cair. O debate econômico de 2027 exigirá distinguir dividendos distribuídos, tributos, royalties e lucros de investimento bruto, evitando somar todas essas grandezas como se fossem receitas orçamentárias independentes. [6][10]
+
+## 17. Energia elétrica: abundância de geração e escassez de infraestrutura útil
+
+O Brasil dispõe de uma matriz elétrica com participação expressiva de fontes renováveis e perspectivas de expansão de solar, eólica e outras tecnologias. Entretanto, a existência de potência instalada não significa disponibilidade contínua no local e no horário em que uma fábrica ou centro de dados precisa consumir. Intermitência, redes de transmissão, armazenamento, reserva operativa, restrições de escoamento e tarifas determinam o custo efetivo da eletricidade. O Plano Decenal de Expansão de Energia 2035 estabelece cenários para o horizonte 2026–2035, não garantias de execução automática. [27]
+
+Novos grandes consumidores — mineração eletrificada, indústria de baixo carbono, eletrolisadores e data centers — alteram a geografia do uso de energia. Investimentos próximos a fontes de geração podem ser inviáveis se a conexão à rede depender de obras não concluídas; tarifas e contratos de longo prazo podem tornar empreendimentos viáveis em outras regiões. A coordenação entre regulador, operadores, distribuidoras, transmissoras e consumidores é tão importante quanto o preço de construir uma usina. [5][27]
+
+Chuvas e hidrologia afetam custo marginal de geração, uso de térmicas e condições de reservatórios. Eventos climáticos extremos podem pressionar simultaneamente oferta elétrica, preços agrícolas e logística. Um choque desse tipo produz inflação de oferta que não desaparece com aumento da Selic, embora a política monetária continue relevante para evitar sua propagação a expectativas, salários e preços gerais. [2][4][6]
+
+## 18. Infraestrutura: rodovias, ferrovias, portos e o preço da distância
+
+O Ministério dos Transportes apresentou para 2027 uma carteira prospectiva de **29 projetos**, sendo **11 concessões rodoviárias** e **18 ferroviárias**, com investimentos previstos de **R$ 262,6 bilhões**. A cifra descreve uma carteira de projetos e compromissos planejados, não despesas realizadas em 2027. Entre divulgação, leilão, contratação, licenciamento, desapropriação e obras existe uma sequência de riscos que pode alterar valor e prazo. [28]
+
+A economia brasileira depende de corredores longos entre regiões produtoras de grãos, minério e produtos industriais e os mercados consumidores ou portos. O frete precisa remunerar combustível, caminhões, condutores, pedágios, manutenção, tempo de espera e capacidade de armazenamento. Onde a ferrovia é viável e há demanda concentrada, pode reduzir custo por tonelada; onde a malha é incompleta, o ganho depende de terminais intermodais e acesso rodoviário. Infraestrutura só gera produtividade quando integra origens e destinos efetivamente demandados. [5][28]
+
+Concessões exigem contratos com repartição de riscos crível. Se tarifas são excessivamente altas, usuários perdem parte do benefício; se receitas projetadas são irreais, o concessionário enfrenta dificuldades e busca reequilíbrios; se o Estado assume riscos sem contabilizá-los, a obrigação pode retornar como passivo fiscal futuro. Projetos bem desenhados precisam de medições de volume, segurança, qualidade, manutenção e entrega, não apenas de valores de investimento anunciados. [6][9]
+
+O custo da infraestrutura também é urbano. Transporte coletivo insuficiente reduz a área onde trabalhadores conseguem aceitar empregos; saneamento precário aumenta doenças e faltas; habitação cara nas metrópoles limita a mobilidade de profissionais. A produtividade não é apenas propriedade da firma, mas também resultado de redes de cidade que economizam tempo e recursos dos trabalhadores. [5]
+
+## 19. Indústria, cidades, habitação e serviços como faces da mesma transformação
+
+A construção residencial e não residencial reage às taxas de financiamento, ao custo de materiais e à renda. Juros altos inviabilizam parte dos projetos financiados a mercado, mesmo quando a demanda potencial por moradia é elevada. Programas públicos podem ampliar acesso, mas requerem análise do custo por unidade entregue, localização e serviços disponíveis. Uma habitação distante do emprego pode reduzir qualidade de vida ao transferir para a família o custo do deslocamento. [5][13]
+
+Nos serviços, diferenças de produtividade são amplas. Atividades intensivas em tecnologia conseguem vender para diferentes cidades ou países; comércio local, alimentação e cuidados dependem principalmente da renda disponível no entorno. A migração de trabalhadores para serviços não significa automaticamente desindustrialização danosa nem progresso: importa o valor adicionado por hora, a formalidade, a possibilidade de crescimento da empresa e a formação de habilidades. [1][5]
+
+Saneamento, gestão de resíduos, mobilidade, saúde e conectividade alteram custos de instalação de novos empreendimentos. O retorno pode ser socialmente elevado sem ser capturado integralmente por um investidor privado; essa diferença justifica examinar concessões, subsídios explícitos ou investimento público à luz de externalidades e regras de governança. A seleção deve levar em conta financiamento, execução e acesso dos usuários. [5][6]
+
+## 20. China: o principal mercado de produtos básicos e a nova concorrência industrial
+
+Entre janeiro e setembro de 2026, o Brasil exportou **US$ 84,68 bilhões para a China** e importou **US$ 58,62 bilhões**, registrando superávit bilateral de aproximadamente **US$ 26,05 bilhões**, segundo o MDIC. O resultado sustenta oferta de dólares e receitas de exportadores, mas não estabelece que todas as cadeias brasileiras são competitivas. Grande parte da relação depende de commodities e de equipamentos ou manufaturas produzidas em escala chinesa. Um superávit bilateral pode coexistir com déficit em bens industriais ou tecnologias específicas. [17]
+
+A economia chinesa importa soja, minério de ferro, petróleo e celulose e também fornece máquinas, eletrônicos, veículos, químicos e componentes para infraestrutura energética. Em 2027, uma desaceleração imobiliária ou industrial chinesa poderia reduzir demanda por minério e frete, mesmo que as compras de alimentos permanecessem fortes. Por outro lado, maior investimento chinês em manufatura e energia no Brasil poderia criar empregos e cadeias locais, mas esses efeitos dependeriam de compras de fornecedores brasileiros, transferência de habilidades, concorrência e inserção exportadora. [5][6][17]
+
+Há um dilema de competitividade que não se resolve por alinhamento diplomático. Tarifas e medidas antidumping podem proteger setores de importações a preços considerados desleais, mas elevam custos para consumidores e outras indústrias que usam insumos chineses. Investimentos chineses podem agregar capacidade produtiva real, enquanto a simples importação de bens finais não cria a mesma base industrial doméstica. A distinção exige olhar contrato, planta instalada, emprego, conteúdo tecnológico e destino da produção. [5][17]
+
+A dependência excessiva de um comprador pode ampliar volatilidade fiscal e cambial mesmo quando o saldo comercial é positivo. Diversificar mercados e subir na cadeia de processamento — grãos transformados, metais refinados e componentes especializados — permite reduzir alguma exposição, desde que o valor agregado adicional seja competitivo e não fruto apenas de proteção permanente. [5][6]
+
+## 21. Estados Unidos: tarifas, serviços, indústria e competição tecnológica
+
+Os Estados Unidos continuam mercado relevante para exportações brasileiras de produtos manufaturados, petróleo, siderurgia, bens aeronáuticos e outros segmentos. De janeiro a setembro de 2026, as vendas brasileiras aos EUA somaram **US$ 27,46 bilhões**, queda de **6,5%** ante o mesmo período anterior, enquanto importações brasileiras dos EUA chegaram a **US$ 31,79 bilhões**. O déficit bilateral de bens foi de **US$ 4,33 bilhões**. Déficit comercial bilateral não equivale necessariamente a perda econômica: importações podem incluir máquinas, tecnologia e insumos produtivos; o efeito depende do valor criado internamente. [17]
+
+Em julho de 2026, o MDIC descreveu novas medidas norte-americanas sob a **Seção 301**, com sobretaxas de **25% e 12,5%** para grupos definidos de produtos. Usando a pauta brasileira exportada aos EUA em 2024 como base, o órgão estimou que **23,1%** estavam abrangidos pelas duas novas medidas e que **52,7%** continuavam fora de tarifas adicionais setoriais ou específicas contra o Brasil. Os demais produtos podiam ser afetados por regras da Seção 232. Essas proporções não são alíquotas uniformes cobradas sobre todas as exportações de 2026 ou de 2027. [18]
+
+Uma sobretaxa reduz competitividade do fornecedor brasileiro se o comprador não puder ou não quiser absorvê-la. Firmas podem diminuir margens, mudar origem de insumos, buscar mercado alternativo, negociar contratos ou deslocar etapas da produção. Efeitos no emprego dependem da elasticidade da demanda, da concorrência de outros países e do conteúdo local. A resposta brasileira também envolve riscos: retaliação ampla pode encarecer máquinas e medicamentos importados e prejudicar empresas sem relação direta com a disputa original. [17][18]
+
+A relação é mais ampla que mercadorias. Investimentos, serviços digitais, sistemas financeiros, propriedade intelectual e regulação de plataformas integram a cadeia de valor bilateral. O desafio é preservar acesso a mercados de tecnologia e investimento, negociar regras previsíveis e reduzir dependências incompatíveis com a competitividade local, sem presumir que uma controvérsia comercial implica necessariamente ruptura de toda a relação econômica. [5][6]
+
+## 22. União Europeia: um acordo já aplicado provisoriamente e sua agenda de execução
+
+O acordo de comércio provisório entre União Europeia e Mercosul foi **assinado em Assunção em 17 de janeiro de 2026**. Segundo o registro de tratados do Conselho da União Europeia, sua **aplicação provisória entre a UE e o Brasil começou em 1º de maio de 2026**. O acordo de parceria mais amplo e a aplicação de regras comerciais são instrumentos juridicamente distintos, com procedimentos próprios. A entrada em vigor plena não deve ser confundida com a aplicação provisória já registrada. [19][20]
+
+Entre janeiro e setembro de 2026, o Brasil vendeu **US$ 44,15 bilhões à União Europeia** e importou **US$ 38,05 bilhões**, obtendo superávit de **US$ 6,10 bilhões**. A relação combina compras europeias de alimentos, produtos florestais, minerais e energia com fornecimento europeu de máquinas, químicos, medicamentos e equipamentos industriais. A eliminação gradual de barreiras pode ampliar mercados e reduzir custos de insumos, mas também pressionar produtores brasileiros protegidos que enfrentarão concorrência adicional. [17][20]
+
+Os benefícios dependem de cronogramas de desgravação tarifária, regras de origem, certificações, cotas, exigências sanitárias e capacidade de pequenos exportadores cumprir requisitos. Uma preferência comercial não gera exportação se a firma não conhece o mercado, não dispõe de escala ou não consegue demonstrar conformidade. A integração deve ser medida por uso efetivo das preferências, novos investimentos e mudanças de produtividade, não somente pelo número de páginas do tratado. [19][20]
+
+A agenda ambiental europeia acrescenta custo de rastreabilidade e potencial valorização de produtores conformes. Produtos associados ao uso da terra e cadeias com emissões elevadas enfrentam avaliações de origem e sustentabilidade, sujeitas a regras setoriais. O Brasil dispõe de recursos e capacidade produtiva, mas terá de financiar sistemas de monitoramento, padronização e comprovação. Ganhos de exportação e custos de adaptação provavelmente serão distribuídos de modo desigual entre grandes grupos e firmas menores. [5][20]
+
+## 23. Mercosul: integração incompleta, Argentina e cadeias industriais
+
+O Mercosul continua uma união aduaneira imperfeita, com exceções tarifárias, regras nacionais e coordenação política intergovernamental. Brasil e Argentina são polos relevantes da indústria automobilística e de outras cadeias regionais; Paraguai e Uruguai possuem incentivos diferentes de abertura e infraestrutura. A utilidade econômica do bloco não decorre apenas da tarifa externa comum: depende de logística de fronteira, padrões técnicos, reconhecimento de certificações e previsibilidade de acordos produtivos. [17][19][20]
+
+A desaceleração comercial com a Argentina é um sinal concreto de exposição regional. De janeiro a setembro de 2026, as exportações brasileiras para o país caíram **18,5%**, para **US$ 11,58 bilhões**, enquanto as importações brasileiras de origem argentina chegaram a **US$ 9,95 bilhões**. Mudanças no câmbio real bilateral, demanda por veículos, importações e política argentina podem afetar fornecedores localizados no Brasil mesmo quando a economia chinesa está comprando mais produtos básicos. [17]
+
+A integração física envolve hidrovias, sistemas de energia, gasodutos e rodovias. O setor industrial pode se beneficiar de especialização regional quando etapas de produção funcionam sem longos atrasos alfandegários. Ao contrário, regras incompatíveis e incerteza sobre divisas ou pagamentos podem tornar a cadeia multinacional mais cara do que produzir tudo num só país. A discussão sobre flexibilidade de acordos externos e diferenças macroeconômicas entre membros será recorrente, mas não há base para presumir dissolução inevitável do bloco. [19][20]
+
+O acordo com a União Europeia transforma o Mercosul em plataforma de acesso a mercados e também cria pressão competitiva interna. Empresas que conseguirem reorganizar fornecedores regionais para cumprir origem e padrões europeus poderão ampliar vendas; outras enfrentarão novos concorrentes. A resposta econômica passa por infraestrutura, qualidade e regras consistentes, não somente por um discurso favorável ou contrário à integração. [20]
+
+## 24. BRICS: liquidação comercial, bancos de desenvolvimento e a falsa moeda única
+
+O BRICS reúne economias com moedas, regimes cambiais, estruturas produtivas e interesses geopolíticos diferentes. Para o Brasil, a relevância econômica do grupo decorre do comércio com grandes países emergentes, acesso a cooperação financeira, projetos de infraestrutura e tentativas de reduzir custos de pagamentos internacionais. **Não existia uma moeda comum dos BRICS** em novembro de 2026; a representação brasileira esclarecera em 2025 que uma nova moeda única não estava em discussão naquele momento. Sistemas de pagamento, acordos em moedas locais e moeda supranacional são conceitos institucionais distintos. [21]
+
+Liquidar uma transação em reais, rúpias ou yuans pode diminuir etapas de conversão e certas exposições ao dólar, mas não elimina risco cambial. O exportador que recebe moeda estrangeira precisa empregá-la, convertê-la ou protegê-la; o banco precisa administrar posições e liquidez. Uma moeda comum exigiria autoridade monetária, regras de emissão, coordenação fiscal, convertibilidade e arranjos de absorção de choques entre economias muito diferentes. A participação num grupo diplomático não fornece automaticamente essas instituições. [6][21]
+
+O Novo Banco de Desenvolvimento pode apoiar projetos de infraestrutura e sustentabilidade, mas a utilidade de cada financiamento depende de prazo, moeda, custo de captação, garantias e qualidade do projeto. Um empréstimo em moeda local pode reduzir descasamento cambial do devedor, porém não é necessariamente mais barato que um empréstimo externo com proteção adequada. A relação entre BRICS e sistema financeiro internacional tende a ser de múltiplas fontes de financiamento e pagamentos, não uma substituição instantânea do dólar. [6][21]
+
+A China é simultaneamente membro do BRICS e principal parceiro de exportação brasileiro, mas seus incentivos industriais nem sempre coincidem com os do Brasil. O grupo pode facilitar diálogo, projetos e comércio sem constituir um bloco tarifário único. A escolha de empresas brasileiras entre fornecedores chineses, europeus ou norte-americanos continuará sujeita a preços, qualidade, financiamento e regras de mercado, não apenas à diplomacia. [17][21]
+
+## 25. A geografia do comércio brasileiro: dependência e diversificação medidas
+
+O valor exportado para quatro parceiros e blocos selecionados entre janeiro e setembro de 2026 permite comparar a escala de relações comerciais relevantes. Os números referem-se a **exportações brasileiras de bens FOB**, em bilhões de dólares, no mesmo intervalo e na mesma fonte. Não constituem uma decomposição completa das exportações, pois há outros mercados, e UE e países individuais são categorias geográficas diferentes sem sobreposição com os parceiros apresentados. A China aparece como destino substancialmente maior em valor de vendas do que EUA ou Argentina; o tipo de produto, entretanto, altera o impacto econômico de cada dólar exportado. [17]
+
+```chart
+type: bar
+title: Exportações brasileiras de bens a parceiros selecionados, janeiro–setembro de 2026
+unit: US$ bilhões FOB; destinos selecionados, não total da pauta
+China | 84.68
+União Europeia | 44.15
+Estados Unidos | 27.46
+Argentina | 11.58
+```
+
+| Parceiro ou bloco | Exportações brasileiras jan.–set. 2026, US$ bi | Importações brasileiras, US$ bi | Saldo bilateral, US$ bi |
+|---|---:|---:|---:|
+| China | 84,68 | 58,62 | +26,05 |
+| União Europeia | 44,15 | 38,05 | +6,10 |
+| Estados Unidos | 27,46 | 31,79 | -4,33 |
+| Argentina | 11,58 | 9,95 | +1,63 |
+
+*Fonte: MDIC/Secex, estatísticas consolidadas de setembro de 2026. Valores arredondados podem produzir pequenas diferenças aritméticas.* [17]
+
+```map
+title: Dependências comerciais e seus mecanismos econômicos
+China e Ásia Oriental | Soja, minério, petróleo e oferta de manufaturas | Sensibilidade à demanda industrial e às cadeias tecnológicas
+Estados Unidos | Produtos industriais, petróleo, serviços e investimento | Tarifas, acesso a tecnologia e concorrência externa
+União Europeia | Agroindústria, matérias-primas, máquinas e químicos | Preferências comerciais, rastreabilidade e exigências regulatórias
+Mercosul e Argentina | Veículos, autopeças, energia e serviços regionais | Câmbio bilateral, integração industrial e fronteiras
+Outros mercados | Diversificação de alimentos, manufaturas e serviços | Logística, crédito à exportação e padrões técnicos
+```
+
+Um choque da China atingiria mais diretamente alguns segmentos minerais e agrícolas; medidas dos EUA poderiam afetar segmentos manufatureiros com exigências de conteúdo e mercados específicos; mudanças na Europa deslocariam demanda e custos de conformidade; uma recessão argentina afetaria cadeias automotivas regionais. A diversificação eficiente não significa substituir indiscriminadamente o maior comprador por mercados menores, mas ampliar a quantidade de produtos, clientes e origens de tecnologia, reduzindo exposição excessiva a um único tipo de choque. [5][6][17][18][19]
