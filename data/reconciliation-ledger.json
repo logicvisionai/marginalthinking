@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T03:01:49.160Z",
+  "last_reconciled_at": "2026-11-03T04:21:44.865Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7940,6 +7940,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Stanford adoption figures and IEA energy scenarios are already historical evidence; the dossier brings analytical synthesis, not a new independently demonstrated 2026 capability, replicated breakthrough or deployment milestone requiring a technology-signal record change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-algorithmic-revolution-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T04:21:44.865Z",
+      "report_ids_reviewed": [
+        "MT-TECH-2026-11-03-ALGORITHMIC-REVOLUTION"
+      ],
+      "audit_note": "Atomic promotion of QA-approved long-form bilingual algorithmic revolution research. Seven cumulative datasets individually examined for relevance; the article synthesises existing historical, observational and institutional evidence and does not fabricate new canonical structural data.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Historical cross-platform political and military information networks are analysed as mechanisms, not as new measured current bilateral exposure or trade dependency edges."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The study does not identify a funded contemporary investment opportunity, attributable new project, verified project owner or measurable forward return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The Thiel section documents attributed public philosophical statements and past technology ownership context, but establishes no new legal control edge, beneficial ownership transaction, financial commitment or changed contemporary relation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The research does not establish a new verified resource reserve, concession, physical inventory, offtake contract or asset-control change."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "European preliminary DSA findings and Brazilian child-safety law are policy background, not independently estimated outcomes of a new auditable intervention; creating a new causal policy case would overstate evidence."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "French 2023 unrest, Brazilian January 2023 and Ukrainian war-media studies are historical analytical cases, not newly verified geolocated contemporary incident records or fresh operational attribution."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "YouTube's 2016 architecture and TikTok recommender explanations are historical or descriptive; no newly independently demonstrated 2026 capability or scaled deployment event is documented."
         }
       ]
     }

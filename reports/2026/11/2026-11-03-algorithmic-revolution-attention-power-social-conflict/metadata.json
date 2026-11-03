@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-TECH-2026-11-03-ALGORITHMIC-REVOLUTION",
+  "slug": "2026-11-03-algorithmic-revolution-attention-power-social-conflict",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T01:18:02-03:00",
+  "kind": "technology-society-essay",
+  "priority": 43,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets",
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "social-change",
+    "institutions-governance",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "banking-credit",
+    "industry-production"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change",
+    "civil-unrest",
+    "defense-security",
+    "war-armed-conflict",
+    "political-stability"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "The algorithmic organisation of social experience, allocation and political power",
+    "type": "technology-political-economy-systems"
+  },
+  "related_research_ids": [
+    "MT-ACC-2026-11-02-AI-LABOR-INCOME",
+    "MT-HT-2026-10-24-ACCELERATIONISM"
+  ],
+  "producer_checks": {
+    "information_cutoff": "Research documented through 2 November 2026 BRT; publication date 3 November 2026. Distinguishes 2010/2012 and 2014 experiments, 2018/2022 Brazilian evidence, 2023 French unrest, 2025 meta-analysis, and preliminary 2026 regulation.",
+    "editorial_novelty": "Systematic genealogy from quantitative state administration and McNamara's Vietnam-era measures to contemporary feedback loops, identity performance, filmed conflict, political mobilisation, algorithmic management and the economics of attention.",
+    "research_depth": "English about 9,632 words / 70,908 characters, PT-BR about 10,074 words / 75,128 characters. Exactly 24 substantive chapters plus a full references section; includes causal models, competing hypotheses and falsification criteria.",
+    "source_check": "24 numbered academic, historical, institutional, governmental and documented journalistic references present and cited in both editions; primary empirical numbers trace to CNA, Nature, PNAS, Science, Psychological Bulletin, Piaia/Alves, Agência Pública/UFMG, InternetLab, Sénat, OECD and European Commission.",
+    "visual_signature": "Both editions have two quantitative charts (TikTok/Kwai provenance: 108/24/1; French inspectorate sample rates: 36/5/4/2/2/1/0.6), two evidence tables, one causal flow, one geographic case map and two localized original SVG inline illustrations. Original cover illustration reserved for the public media registry after QA.",
+    "bilingual_parity": "25 matching H2 headings including references, 24/24 numbered source entries with identical URLs, identical chart numeric data and image paths, logically aligned evidence and counterarguments. Both versions use the same report slug and media provenance.",
+    "psychological_integrity": "Avoids 'dopamine depletion' myths, distinguishes correlations and clinical harm, treats aura farming as often playful and nonviolent, limits conclusions about violence and enlistment to documented evidence.",
+    "political_neutrality": "Bolsonarism case distinguishes 2018 WhatsApp/YouTube/Facebook from later short-form video platforms, pre-existing preferences and crises from media mechanisms, strategic amplification from genuine political support, and digital speech from unlawful action.",
+    "security_integrity": "The Ukraine and French cases distinguish verified events, selected audiovisual samples, legal context, platform documentation and unproven recruitment/violent conduct causal theories.",
+    "limitations": [
+      "Most platform ranking weights are proprietary; public statements cannot independently establish operating optimisation.",
+      "French platform percentages are limited to inspectorate sample references; they do not sum to 100 and are not national platform market shares.",
+      "Brazilian message counts and short-video provenance originate in bounded samples; the article does not estimate election vote causation.",
+      "The 2025 short-video meta-analysis reports correlational synthesis, not experimental proof of permanent cognitive injury.",
+      "Some third-party works are cited only, not reproduced; three illustrations are original conceptual art and never presented as event photography."
+    ]
+  },
+  "revision_reason": "First full historical, political-economic and sociopsychological research on algorithmic governance and attention power, connected to the accelerationism programme but broader than any one political movement.",
+  "contrary_evidence": [
+    "Randomised experiments demonstrate some social or expressive influence, while the 2023 chronological-feed intervention found no significant short-run changes in key political attitudes despite large exposure changes.",
+    "Bolsonarism developed amid economic, institutional and cultural disputes that predated the observed network communications. Neither WhatsApp content counts nor a sample of videos can establish vote shares attributable to algorithms.",
+    "Digital recording may document harm, provide civic accountability or foster community. Aura farming is an example of often playful non-violent offline social participation.",
+    "Short-video use and poorer attention indicators are associated in synthesised studies; selection effects, reverse causality, duration and subgroup differences limit causal extrapolation."
+  ],
+  "limitations": [
+    "Some references are research abstracts, government disclosures or journalistic investigations rather than full experimental replication; not all external URLs were independently tested for uptime.",
+    "Platform ranking weights and intervention mechanisms are proprietary; historical user-count experiments do not establish today's universal platform behaviour.",
+    "The French inspectorate sample rates are non-exhaustive and the Brazil sample refers to high-interaction content in selected groups; the figures cannot be treated as nationally representative.",
+    "The manuscript does not claim proof of platform-induced military enlistment or violent action, and it does not diagnose any individual or age group.",
+    "Two source-localised inline illustrations and one optional original cover are editorial art, not independent photographic evidence.",
+    "Full site deployment remains separate from editorial approval and requires a successful GitHub Actions build and configured hosting credentials."
+  ],
+  "url": "/reports/2026/11/2026-11-03-algorithmic-revolution-attention-power-social-conflict.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-03T04:20:35.394Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "b00ec547ff8509c84d3bfa8d39b178d3b3faed99",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "The Algorithmic Revolution: From the Quantification of War to the Struggle over Attention, Behaviour and Power",
+      "deck": "A long historical and empirical inquiry into algorithmic power: McNamara and the limits of quantification, recommender systems and attention markets, psychology and short videos, digital political mobilisation in Brazil, French unrest, Ukraine's war imagery, automated work decisions, Peter Thiel and the governance of AI.",
+      "tags": [
+        "Algorithmic society",
+        "Economics of attention",
+        "Social media and political power",
+        "Psychology of visibility",
+        "Algorithmic management",
+        "Modern war and digital culture"
+      ],
+      "keywords": [
+        "algorithms",
+        "McNamara",
+        "The Fog of War",
+        "TikTok",
+        "Facebook",
+        "Instagram",
+        "YouTube Shorts",
+        "dopamine",
+        "short-form video",
+        "aura farming",
+        "Bolsonaro",
+        "Bolsonarism",
+        "Brazil 2018 election",
+        "French riots 2023",
+        "Ukraine POV war",
+        "Peter Thiel",
+        "Girard",
+        "recommendation systems",
+        "social conflict",
+        "digital services act"
+      ],
+      "regime": "Quantitative systems increasingly mediate attention, identity, work and social coordination, without a proven general law of behavioural control.",
+      "key_risk": "Mistaking algorithmic exposure for causation, aesthetic similarity for a common motive, or statistical association for forced behavioural change.",
+      "watch": [
+        "Independent audits of recommender exposure and contestability",
+        "Longitudinal short-form video cognition studies",
+        "Political mobilisation evidence matched to real-world acts",
+        "AI military decision-support accountability",
+        "Employment and credit algorithmic appeal mechanisms",
+        "Regulatory implementation and consequences"
+      ],
+      "search_text": "Algorithmic revolution quantified governance McNamara Fog of War digital platforms TikTok short videos dopamine aura farming Brazil bolsonarism 2018 2022 January 2023 France riots Ukraine POV war Thiel digital society regulation"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "A Revolução dos Algoritmos: da quantificação da guerra à disputa pela atenção, pelo comportamento e pelo poder",
+      "deck": "Uma investigação histórica e empírica do poder algorítmico: McNamara e os limites da quantificação, recomendadores e economia da atenção, psicologia e vídeos curtos, mobilização política no Brasil, distúrbios franceses, imagens da guerra na Ucrânia, gestão automatizada do trabalho, Peter Thiel e governança da IA.",
+      "tags": [
+        "Sociedade algorítmica",
+        "Economia da atenção",
+        "Plataformas e poder político",
+        "Psicologia da visibilidade",
+        "Gestão algorítmica",
+        "Guerras modernas e cultura digital"
+      ],
+      "keywords": [
+        "algoritmos",
+        "McNamara",
+        "Sob a Névoa da Guerra",
+        "TikTok",
+        "Facebook",
+        "Instagram",
+        "YouTube Shorts",
+        "dopamina",
+        "vídeos curtos",
+        "farmar aura",
+        "Bolsonaro",
+        "bolsonarismo",
+        "eleições Brasil 2018",
+        "distúrbios França 2023",
+        "guerra Ucrânia POV",
+        "Peter Thiel",
+        "Girard",
+        "recomendação",
+        "conflitos sociais",
+        "regulação de plataformas"
+      ],
+      "regime": "Sistemas quantitativos mediam crescentemente atenção, identidade, trabalho e coordenação, sem lei demonstrada de controle comportamental generalizado.",
+      "key_risk": "Confundir exposição algorítmica com causalidade, semelhança estética com motivação comum ou associação estatística com mudança comportamental compulsória.",
+      "watch": [
+        "Auditorias independentes da exposição e contestabilidade dos feeds",
+        "Estudos longitudinais de vídeos curtos e cognição",
+        "Mobilização política relacionada a ações presenciais verificadas",
+        "Responsabilização por IA no apoio a decisões militares",
+        "Recursos contra decisões automatizadas em emprego e crédito",
+        "Aplicação efetiva das normas e suas consequências"
+      ],
+      "search_text": "Revolução dos algoritmos sociedade quantificação guerra McNamara Sob a Névoa da Guerra plataformas TikTok vídeos curtos dopamina farmar aura Brasil bolsonarismo França Ucrânia POV Peter Thiel governança"
+    }
+  }
+}
