@@ -58,6 +58,19 @@ Desembolsos totais | 2.907
 
 Os registros comprovam capacidade de reunir recursos expressivos em partes do ecossistema político. Não informam quantos eleitores foram persuadidos, qual parcela do resultado de uma eleição pode ser atribuída ao trabalho ou qual renda privada cada fundador obteve. Esses resultados exigiriam dados de contatos realizados, avaliação independente e comparações capazes de isolar efeitos de mobilização de preferências anteriores.
 
+```image
+src: /assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-organisational-infrastructure.svg
+origin: original
+kind: editorial-illustration
+width: 1600
+height: 900
+alt: Três grupos de recursos institucionais conectados por um percurso conceitual não quantitativo.
+caption: Ilustração conceitual original da diferença entre recursos dos financiadores, organizações e capacidades políticas. Não representa organograma societário confirmado.
+credit: LOGV / Marginal Thinking
+license: CC-BY-4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+```
+
 ## 4. Capital de risco político: construir infraestrutura em vez de apenas pagar campanhas
 
 Uma doação eleitoral direta transfere recursos a uma candidatura durante um período delimitado. O investimento em infraestrutura procura financiar capacidades que podem ser acionadas reiteradamente: bancos de dados, treinamento de voluntários, relações com institutos de pesquisa, produção de materiais, assessoria jurídica e redes locais. A diferença explica como o poder de organização pode crescer mesmo quando uma iniciativa individual perde uma eleição.
@@ -256,6 +269,19 @@ Centros de dados não são investimentos puramente informáticos. Dependem de en
 A disputa geopolítica inclui a busca americana por cadeias produtivas menos dependentes da China e o interesse brasileiro em industrializar parte de seus recursos em lugar de exportar apenas minérios sem processamento. As estratégias podem convergir quando há transferência de tecnologia, capacidade produtiva local, competição e retorno econômico. Também podem divergir quando acordos concentram propriedade, limitam concorrentes brasileiros ou concedem vantagens públicas sem contrapartidas transparentes.
 
 A análise da soberania econômica precisa observar as etapas que geram maior valor. Extrair mineral de alto potencial não equivale a dominar purificação, metalurgia, ligas e produtos finais. Uma relação comercial pode ampliar exportações enquanto conserva dependência tecnológica em processos posteriores. Investidores, governos e comunidades locais podem perceber vantagens diferentes no mesmo projeto, sobretudo quando há consumo intenso de energia, água ou alterações ambientais.
+
+```image
+src: /assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-documentary-boundaries.svg
+origin: original
+kind: editorial-illustration
+width: 1600
+height: 900
+alt: Dois grupos separados de registros abstratos ligados por linha pontilhada representando relação documental não esclarecida.
+caption: Ilustração original que distingue registro societário documentado de propostas de implementação e atividade política contestada. As conexões não representam transferências financeiras comprovadas.
+credit: LOGV / Marginal Thinking
+license: CC-BY-4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+```
 
 ## 19. Evidências, disputas e projeções na presença brasileira
 
