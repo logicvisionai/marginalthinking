@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-10-30T13:03:47.104Z",
+  "updated_at": "2026-11-03T02:37:32.551Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -824,6 +824,22 @@
         "CIVILIZATIONS-HISTORICAL-POLITICAL-ECONOMY.md",
         "data/reports.json",
         "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-accelerationism-systems",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "public_route": "/research/technology-production-society/",
+      "source_files": [
+        "ACCELERATIONISM-SYSTEMS-EDITORIAL.md",
+        "RESEARCH-PUBLISHING.md",
+        "TECHNOLOGY-SIGNALS.md"
       ],
       "update_mode": "event-driven",
       "reconciliation_required": false,
