@@ -130,9 +130,9 @@
     "MT-HT-2026-10-24-ACCELERATIONISM"
   ],
   "producer_checks": {
-    "information_cutoff": "2 November 2026, America/Sao_Paulo; cites explicitly dated 2024, 2025 and 2026 sources and keeps observation years separate from publication dates.",
+    "information_cutoff": "2 November 2026, America/Sao_Paulo; latest Brazil employment observation is the IBGE September 2026 moving-quarter estimate released 30 October. Sources distinguish publication date from observation year.",
     "research_depth": "English 5,584 approximate words, PT-BR 6,064 approximate words; 15 substantive H2 sections per locale. Both manuscripts provide methodological distinctions and competing scenarios.",
-    "source_check": "16 distinct URLs per locale including Stanford HAI, ILO, IMF, Anthropic, IEA, NBER, NATO, United Nations, OpenAI, Dario Amodei and IBGE; principal numerical series checked against source presentations.",
+    "source_check": "17 distinct original or institutional-reference URLs per locale, including Stanford HAI, ILO, IMF, Anthropic, IEA, NBER, NATO, UN, OpenAI, Dario Amodei, IBGE and APA. Critical numeric series, dated official releases and source roles checked; independent editorial QA still required.",
     "translation_parity": "Matching three numeric chart series, equivalent article outline, tables, key claims, qualifications and source list in English and Brazilian Portuguese.",
     "visual_signature": "Three quantitative charts each locale: survey AI adoption 55/88%, IMF exposure 60/40/26%, IEA data-centre electricity 415/945 TWh. Four analytical tables, one causal flow and one regional comparison map per locale, with numeric values identical.",
     "methodology": "Separate task exposure from unemployment, survey adoption from deployment, scenario from observation, corporate statements from implementation, controlled research from political endorsement; contrast 3-4 conditional paths and note falsifiers.",
