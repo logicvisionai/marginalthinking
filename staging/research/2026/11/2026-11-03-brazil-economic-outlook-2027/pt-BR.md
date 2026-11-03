@@ -81,7 +81,7 @@ unit: % ao ano; decisão vigente após a reunião, não média mensal
 2026-09 | 13.75
 ```
 
-A meta vigente desde janeiro de 2025 é de 3%, com tolerância de 1,5 ponto percentual em cada direção e avaliação contínua segundo as regras do CMN. O IPCA em setembro de 2026 foi de **0,82%**, acumulando **4,58% em doze meses**. A taxa de desemprego baixa e a inflação de serviços dificultam o processo de convergência, enquanto preços de alimentos e energia introduzem choques que a Selic não consegue resolver pela oferta. Políticas de preços administrados, tributação, câmbio e condições climáticas podem deslocar a inflação mesmo que o consumo desacelere. [2][11][24]
+A meta vigente desde janeiro de 2025 é de 3%, com tolerância de 1,5 ponto percentual em cada direção e avaliação contínua segundo as regras do CMN. O IPCA em setembro de 2026 foi de **0,82%**, acumulando **4,58% em doze meses**. A taxa de desemprego baixa e a inflação de serviços dificultam o processo de convergência, enquanto preços de alimentos e energia introduzem choques que a Selic não consegue resolver pela oferta. Políticas de preços administrados, tributação, câmbio e condições climáticas podem deslocar a inflação mesmo que o consumo desacelere. [2][11][29]
 
 Uma redução precipitada dos juros pode ampliar demanda e pressão cambial se expectativas de inflação piorarem; juros excessivamente restritivos podem reduzir investimento, crédito e emprego sem reparar problemas de oferta. O balanço depende da persistência de serviços, núcleos de inflação, expectativas de médio prazo e dinâmica fiscal. Não existe relação mecânica pela qual cada corte de 0,25 ponto percentual gere crescimento determinado do PIB, nem a inflação observada do mês permite identificar sozinha a taxa apropriada do ano seguinte. [2][6]
 
@@ -165,7 +165,7 @@ A desigualdade regional acrescenta uma restrição de coordenação. Regiões pr
 
 ## 14. Indústria brasileira: política de financiamento versus capacidade competitiva
 
-A Nova Indústria Brasil utiliza crédito e instrumentos públicos para estimular transformação industrial, inovação e descarbonização. O BNDES informou em junho de 2026 que haveria **R$ 140 bilhões disponibilizados até dezembro**, sendo **R$ 102,5 bilhões pelo BNDES** e **R$ 37,5 bilhões pela Finep**. Disponibilização de recursos não significa contratação integral, desembolso, instalação de capacidade ou ganho medido de produtividade; cada etapa exige indicador próprio. [26]
+A Nova Indústria Brasil utiliza crédito e instrumentos públicos para estimular transformação industrial, inovação e descarbonização. O BNDES informou em junho de 2026 que haveria **R$ 140 bilhões disponibilizados até dezembro**, sendo **R$ 102,5 bilhões pelo BNDES** e **R$ 37,5 bilhões pela Finep**. Disponibilização de recursos não significa contratação integral, desembolso, instalação de capacidade ou ganho medido de produtividade; cada etapa exige indicador próprio. [26a]
 
 O estudo prospectivo do BNDES para 2025–2029 apontou investimentos mapeados em 21 setores, com crescimento médio estimado de **3% ao ano no cenário base** e **4,5% no cenário otimista**. Esses números constituem cenários de projetos e intenções, não volume garantido de investimentos executados. Uma economia pode anunciar projetos relevantes e ter execução inferior devido a custo de capital, atraso de licenciamento, demanda insuficiente ou mudança de preços internacionais. [26]
 
@@ -468,3 +468,5 @@ A combinação de recursos naturais, mercado interno e complexidade industrial p
 [27] Empresa de Pesquisa Energética, *Plano Decenal de Expansão de Energia 2035*, horizonte 2026–2035: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2035
 
 [28] Ministério dos Transportes, carteira prospectiva de concessões rodoviárias e ferroviárias para 2027, 15/10/2026: https://www.gov.br/transportes/pt-br/assuntos/noticias/2026/copy_of_10/mais-recorde-ministerio-dos-transportes-preve-29-projetos-para-2027
+
+[29] IBGE, painel de indicadores econômicos, IPCA de setembro de 2026 (0,82% no mês e 4,58% em 12 meses): https://www.ibge.gov.br/indicadores-economicos/ipca.html
