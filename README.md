@@ -13,6 +13,10 @@ There are no PDF, DOCX or XLSX report artifacts in the publishing pipeline.
 
 See [`RESEARCH-PUBLISHING.md`](./RESEARCH-PUBLISHING.md) for the editorial architecture, supported visual syntax and QA rules.
 
+## Research agendas
+
+- **Accelerationism, Technology, Power & Society** — a long-horizon research and monitoring agenda spanning AI, employment, income distribution, autonomous warfare, politics, psychology, energy, and industrial capacity. See [`ACCELERATIONISM-SYSTEMS-EDITORIAL.md`](./ACCELERATIONISM-SYSTEMS-EDITORIAL.md). This agenda is registered under the existing Technology, Production & Society program; it is not a new controlled research program or a bypass of independent editorial QA.
+
 ## MCP
 
 The public research corpus is also exposed through a stateless, read-only Model Context Protocol endpoint:
