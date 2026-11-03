@@ -26,7 +26,7 @@ The question after a sharp adoption increase is therefore not whether AI is pres
 
 ## 2. Accelerationism is not one policy programme
 
-The philosophical history of accelerationism has already been examined in Marginal Thinking's work on its intellectual genealogy, Nick Land and Curtis Yarvin. Those studies differentiate the Marxian question of productive forces from Land's account of runaway capitalist and cybernetic dynamics, left-accelerationist projects for collective institutions, neo-reactionary designs of sovereignty, and contemporary effective-accelerationist culture. The intellectual families share an interest in speed and technological transformation; they do not share a single theory of property, political legitimacy or desirable social outcome. [13][14][15]
+The philosophical history of accelerationism has already been examined in Marginal Thinking's work on its intellectual genealogy, Nick Land and Curtis Yarvin. Those studies differentiate the Marxian question of productive forces from Land's account of runaway capitalist and cybernetic dynamics, left-accelerationist projects for collective institutions, neo-reactionary designs of sovereignty, and contemporary effective-accelerationist culture. The intellectual families share an interest in speed and technological transformation; they do not share a single theory of property, political legitimacy or desirable social outcome. [14][15][16]
 
 The present dispute begins where those earlier accounts leave off: when someone calls for faster AI, **which constraint should be relaxed, for whose benefit and with what accountability**? Public funding for electricity grids, a reduction in anticompetitive behaviour, faster medical trials, permission to deploy less-tested military autonomy and the removal of civil-service checks are distinct interventions. Treating them as expressions of one coherent ideology conflates social objectives with instruments. Inversely, treating a request for safety evaluation as a rejection of innovation conceals the economic question of which actors bear the costs of a failure.
 
@@ -231,7 +231,7 @@ The correct editorial position is neither to celebrate frictionlessness nor to r
 
 [10] United Nations Web TV, Security Council 10228th meeting, 23 September 2026: https://webtv.un.org/en/asset/k1e/k1ehru4okj
 
-[11] Instituto Brasileiro de Geografia e Estatística, PNAD Contínua, August 2026: https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html
+[11] Instituto Brasileiro de Geografia e Estatística, PNAD Contínua, August 2026: https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html
 
 [12] NATO, *Innovation and technology adoption*, updated 8 July 2026: https://nato.int/en/what-we-do/deterrence-and-defence/emerging-and-disruptive-technologies
 
