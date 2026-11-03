@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T01:58:43Z",
+  "last_reconciled_at": "2026-11-03T02:21:00Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -7850,6 +7850,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Pleistocene stone technology and fire-making evidence are historical findings, not a current demonstrated/deployed/scaled technology signal requiring a ledger change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-forager-territory-atomic-publication-reconciliation",
+      "reconciled_at": "2026-11-03T02:21:00Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-02-FORAGER-TERRITORY"
+      ],
+      "audit_note": "Atomic publisher promotion of QA-approved forager mobility and political economy article, revision 2. Comparisons relate to historical/ethnographic institutions and do not justify fabricated current dataset changes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Ethnographic intergroup reciprocity and prehistoric exchange are historical analogues; they do not establish current bilateral country dependencies, financing edges or comparable modern trade exposures."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No contemporary named capital project, investable owner, project financing or attributable future return is established by the historical/ethnographic cases."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Historic Indigenous social arrangements and community governance are not new verified present-day corporate beneficial-control edges tracked by the strategic-actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Archaeological raw-material provenance and traditional access rights do not change modern physical reserve measures, concession holders, offtake claims or documented mineral control."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Comparisons of forager systems, colonial disruptions and modern gifting observations do not represent a newly implemented policy case with a validated causal impact estimate."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Historical and ethnographic mentions of coercion, slavery and territory are not a newly verifiable, geolocated contemporary armed-conflict event or escalation observation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Ancient storage, fishing and monumental technologies are research subjects, not a new modern demonstrated technology capability or deployment milestone in the signal ledger."
         }
       ]
     }
