@@ -110,7 +110,7 @@ Social history cannot consist only of spectacular weapons and elite burials. Ani
 
 No defensible universal statement makes every mobile foraging society equal or every large settlement hierarchical. Some contemporary and historically documented foraging societies showed differences in rank, material accumulation and influence, often associated with resource defensibility, demographic pressure or constraints on movement. A 2026 scholarly commentary reviewing archaeological arguments rejects the convention of treating foragers as necessarily egalitarian and emphasizes variation in autonomy and resource access. [16]
 
-Sunghir's striking Upper Paleolithic burials show that costly objects and elaborate mortuary treatment could exist without evidence of an agricultural state. But grave wealth is not automatically the same as lifetime income, political office, hereditary land title or control over food stocks. The distinction between ceremonial expenditure, prestige and enforceable productive ownership is crucial. Even a clear difference in grave goods may reflect ritual selection or burial practices rather than the full distribution of wealth. [11]
+Sunghir's striking Upper Paleolithic burials show that costly objects and elaborate mortuary treatment could exist without evidence of an agricultural state. But grave wealth is not automatically the same as lifetime income, political office, hereditary land title or control over food stocks. The distinction between ceremonial expenditure, prestige and enforceable productive ownership is crucial. Even a clear difference in grave goods may reflect ritual selection or burial practices rather than the full distribution of wealth. [11][18]
 
 New quantitative work on archaeological inequality emphasizes selection and preservation biases. Only some people receive archaeologically recognizable graves; different materials survive differently; excavated samples are rarely random; the estimated inequality of one observable object cannot be transparently transformed into a society-wide income Gini coefficient. Approaches that account for uncertainty are useful, but do not manufacture a single series of prehistoric global income inequality. [15]
 
@@ -187,7 +187,7 @@ Paleolithic political economy demonstrates a more general result: resources beco
 
 [5] Smithsonian Institution, Nyayanga raw-material procurement research statement (2025): https://www.si.edu/newsdesk/releases/craft-early-tools-ancient-human-relatives-transported-stones-over-long-distances
 
-[6] Ashton et al., “Earliest evidence of making fire,” *Nature* (2025): https://www.nature.com/articles/s41586-025-09855-6
+[6] Davis et al., “Earliest evidence of making fire,” *Nature* (2025): https://www.nature.com/articles/s41586-025-09855-6
 
 [7] Gaudzinski-Windheuser, Kindler and Roebroeks, “Widespread evidence for elephant exploitation by Last Interglacial Neanderthals,” *PNAS* (2023): https://doi.org/10.1073/pnas.2309427120
 
@@ -210,3 +210,6 @@ Paleolithic political economy demonstrates a more general result: resources beco
 [16] Kohler, “Archaeology supports proposed redefinition of egalitarianism,” *Behavioral and Brain Sciences* (2026), abstract: https://pubmed.ncbi.nlm.nih.gov/42825715/
 
 [17] Morin et al., “Why Do Humans Hunt Cooperatively?” *Current Anthropology* (2024): https://www.journals.uchicago.edu/doi/10.1086/732354
+
+
+[18] Trinkaus et al., “Diversity and differential disposal of the dead at Sunghir,” *Antiquity* (2018): https://doi.org/10.15184/aqy.2017.223
