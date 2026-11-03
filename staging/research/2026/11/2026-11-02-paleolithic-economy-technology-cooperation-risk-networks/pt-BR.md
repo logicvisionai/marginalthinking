@@ -110,7 +110,7 @@ A história social não pode limitar-se a armas espetaculares e sepultamentos de
 
 Não se sustenta a afirmação universal de que toda sociedade coletora móvel era igualitária nem a de que todo assentamento numeroso possuía chefia centralizada. Algumas populações coletoras registradas historicamente e em pesquisas etnográficas apresentaram diferenças de posição, riqueza material e influência, por vezes associadas à possibilidade de defender recursos, à pressão demográfica ou a restrições de movimento. Comentário acadêmico de 2026, discutindo a arqueologia do igualitarismo, rejeita a convenção de tratar coletores como necessariamente iguais e enfatiza as diferenças de autonomia e de acesso aos recursos. [16]
 
-Os sepultamentos elaborados de Sunghir mostram que objetos custosos e tratamentos funerários diferenciados podiam existir sem evidências de um Estado agrícola. Mas riqueza depositada numa sepultura não equivale automaticamente à renda recebida em vida, a cargo político, à propriedade hereditária de terras ou ao controle de estoques alimentares. Diferenciar gasto cerimonial, prestígio e direito produtivo exigível é fundamental. Mesmo uma desigualdade clara entre oferendas pode refletir seleção ritual ou costumes funerários, e não toda a distribuição da riqueza. [11]
+Os sepultamentos elaborados de Sunghir mostram que objetos custosos e tratamentos funerários diferenciados podiam existir sem evidências de um Estado agrícola. Mas riqueza depositada numa sepultura não equivale automaticamente à renda recebida em vida, a cargo político, à propriedade hereditária de terras ou ao controle de estoques alimentares. Diferenciar gasto cerimonial, prestígio e direito produtivo exigível é fundamental. Mesmo uma desigualdade clara entre oferendas pode refletir seleção ritual ou costumes funerários, e não toda a distribuição da riqueza. [11][18]
 
 Pesquisas quantitativas recentes sobre desigualdade arqueológica destacam vieses de seleção e preservação. Apenas parte das pessoas recebe sepulturas reconhecíveis arqueologicamente; materiais sobrevivem de maneiras distintas; as amostras escavadas raramente são aleatórias; a distribuição de um objeto não pode ser convertida automaticamente num índice de Gini de renda para toda a população. Métodos que incorporam incerteza são úteis, mas não autorizam construir séries inventadas da desigualdade de renda global na pré-história. [15]
 
@@ -187,7 +187,7 @@ A economia política do Paleolítico demonstra um resultado mais geral: recursos
 
 [5] Smithsonian Institution, estudo sobre transporte de matérias-primas em Nyayanga (2025): https://www.si.edu/newsdesk/releases/craft-early-tools-ancient-human-relatives-transported-stones-over-long-distances
 
-[6] Ashton et al., “Earliest evidence of making fire”, *Nature* (2025): https://www.nature.com/articles/s41586-025-09855-6
+[6] Davis et al., “Earliest evidence of making fire”, *Nature* (2025): https://www.nature.com/articles/s41586-025-09855-6
 
 [7] Gaudzinski-Windheuser, Kindler e Roebroeks, “Widespread evidence for elephant exploitation by Last Interglacial Neanderthals”, *PNAS* (2023): https://doi.org/10.1073/pnas.2309427120
 
@@ -210,3 +210,6 @@ A economia política do Paleolítico demonstra um resultado mais geral: recursos
 [16] Kohler, “Archaeology supports proposed redefinition of egalitarianism”, *Behavioral and Brain Sciences* (2026), resumo: https://pubmed.ncbi.nlm.nih.gov/42825715/
 
 [17] Morin et al., “Why Do Humans Hunt Cooperatively?”, *Current Anthropology* (2024): https://www.journals.uchicago.edu/doi/10.1086/732354
+
+
+[18] Trinkaus et al., “Diversity and differential disposal of the dead at Sunghir”, *Antiquity* (2018): https://doi.org/10.15184/aqy.2017.223
