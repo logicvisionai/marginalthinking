@@ -408,3 +408,63 @@ Analysis of 2027 requires comparing forecasts prepared in 2026 with realised res
 Brazil possesses production capability, financial institutions and international market links, but these are not sufficient to guarantee any particular growth rate. The year 2027 is too short for tax simplification, education and infrastructure to produce all their potential long-run productivity gains, yet long enough to reveal whether fiscal, monetary and business decisions are improving the conditions for further investment. [5][6][23]
 
 Natural resources, a large domestic market and a diversified industrial base can support growth, but the outcome depends on the transformation of export earnings and savings into equipment, skills, tradable services and real incomes. A large trade surplus does not replace capital formation; lower short-term rates do not replace credible public finances; and international agreements do not replace firms' ability to compete on price, quality and innovation. The economic significance of 2027 lies in how much of the country's available potential becomes verifiable production and widely shared welfare. [5][6][17]
+
+## Sources and documents
+
+[1] Brazilian Finance Ministry, “Brazilian GDP grows 0.5% in the second quarter of 2026”, 1 September 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/pib-brasileiro-cresce-0-5-no-segundo-trimestre-de-2026
+
+[2] Central Bank of Brazil, *Monetary Policy Report*, September 2026: https://www.bcb.gov.br/publicacoes/rpm/202609
+
+[3] Agência Brasil, Focus market expectations released on 3 November 2026: https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-para-inflacao-juros-e-dolar-em-2026
+
+[4] Brazilian Finance Ministry, Economic Policy Secretariat, *September 2026 MacroFiscal Bulletin*: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027/
+
+[5] World Bank Group, Brazil country outlook, structural productivity, inclusion and fiscal conditions, 2026: https://www.worldbank.org/ext/pt/country/brazil
+
+[6] International Monetary Fund, *2026 Article IV Consultation with Brazil*, published 23 July 2026: https://www.imf.org/en/news/articles/2026/07/23/pr26257-brazil-imf-executive-board-concludes-2026-article-iv-consultation
+
+[7] Brazilian Finance Ministry, draft 2027 federal budget, full and adjusted primary balances, expenditure limits, 1 September 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-federal-apresenta-projeto-de-orcamento-de-2027-com-previsao-de-superavit-primario-de-r-18-6-bilhoes
+
+[8] Finance Ministry, *Prisma Fiscal*, private-sector forecasts, October 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/prisma-fiscal-eleva-projecao-de-deficit-para-2026-e-reduz-estimativa-para-2027
+
+[9] Brazilian Senate Independent Fiscal Institution, *Fiscal Monitoring Report No. 116*, September 2026: https://www2.senado.leg.br/jspui/handle/id/962520
+
+[10] Brazilian National Treasury, eighth edition of the medium-term *Fiscal Projections Report*, June 2026: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/junho/tesouro-nacional-divulga-8a-edicao-do-relatorio-de-projecoes-fiscais-com-cenarios-para-os-proximos-dez-anos
+
+[11] Central Bank of Brazil, *History of Inflation Targets*, 3% continuous target and tolerance bands: https://bcb.gov.br/controleinflacao/historicometas
+
+[12] Central Bank of Brazil, *History of the Selic Policy Rate*, Copom decisions through September 2026: https://www.bcb.gov.br/controleinflacao/historicotaxasjuros
+
+[13] Central Bank of Brazil, *Monetary and Credit Statistics*, release of 29 September 2026, data through August: https://www.bcb.gov.br/estatisticas/estatisticasmonetariascredito
+
+[14] Central Bank of Brazil, *Financial Stability Report*, May 2026: https://www.bcb.gov.br/publicacoes/ref
+
+[15] ANBIMA, September 2026 infrastructure debenture issuance, publication 29 October 2026: https://www.anbima.com.br/pt_br/noticias/emissoes-de-debentures-incentivadas-somam-r-6-3-bilhoes-em-setembro.htm
+
+[16] ANBIMA, August 2026 domestic capital-market offerings: https://www.anbima.com.br/pt_br/noticias/mercado-de-capitais-registra-r-48-8-bilhoes-em-ofertas-em-agosto.htm
+
+[17] Brazilian Ministry of Development, Industry, Trade and Services, *Monthly Consolidated Foreign Trade Statistics*, September 2026: https://balanca.mdic.gov.br/balanca/publicacoes_dados_consolidados/nota.html
+
+[18] Brazilian Trade Ministry, *Scope of United States Tariff Measures Affecting Brazilian Exports*, 24 July 2026: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/julho/alcance-das-medidas-tarifarias-dos-estados-unidos-sobre-exportacoes-brasileiras/
+
+[19] Council of the European Union, *Interim Trade Agreement between the EU and Mercosur*, treaty registry and provisional application dates: https://www.consilium.europa.eu/en/documents/treaties-agreements/agreement/?docLanguage=en&id=2025033
+
+[20] Council of the European Union, *The EU–Mercosur agreements explained*, legal instruments and trade framework: https://www.consilium.europa.eu/pt/policies/eu-mercosur-agreements-explained/
+
+[21] Brazil BRICS Presidency, Ambassador Mauricio Lyrio on payment arrangements and the absence of a common-currency proposal: https://brics.br/en/news/ambassador-mauricio-lyrio-highlights-brasils-priorities-in-brics-and-demystifies-creation-of-a-new-currency
+
+[22] Brazil's Trade Ministry, Mercosur–EU agreement signing communiqué, updated October 2026: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/janeiro/comunicado-conjunto-sobre-a-assinatura-do-acordo-de-associacao-entre-o-mercosul-e-a-uniao-europeia
+
+[23] Federal Revenue Service, *Understanding Brazil's Consumption Tax Reform*, 2026–2033 implementation schedule: https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/entenda/entenda-a-reforma-tributaria-do-consumo/
+
+[24] Brazilian statistics agency IBGE, via Agência Gov, Continuous Household Labour Survey, rolling quarter through August 2026: https://agenciagov.ebc.com.br/noticias/202609/desemprego-cai-no-trimestre-e-numero-de-pessoas-ocupadas-e-o-maior-da-serie-historica
+
+[25] IBGE 2022 Census, *Brazilian Population Age Structure*, changes since 2010: https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-piramide-etaria.html
+
+[26] BNDES, *Investment Outlook 2025–2029*, 21-sector study published in 2026: https://blogdodesenvolvimento.bndes.gov.br/serie/estudos-especiais/Perspectiva-de-investimentos-para-o-periodo-2025-2029-e-positiva-com-expansao-media-entre-30-e-45/
+
+[26a] BNDES, announcement of R$140 billion available for Nova Indústria Brasil by December 2026: https://agenciadenoticias.bndes.gov.br/noticia/Nova-Industria-Brasil-tera-R%24-140-bilhoes-ate-dezembro-de-2026/
+
+[27] Brazilian Energy Research Office, *Ten-Year Energy Expansion Plan 2035*, 2026–2035 outlook: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2035
+
+[28] Brazilian Transport Ministry, planned 2027 road and railway concession portfolio, 15 October 2026: https://www.gov.br/transportes/pt-br/assuntos/noticias/2026/copy_of_10/mais-recorde-ministerio-dos-transportes-preve-29-projetos-para-2027
