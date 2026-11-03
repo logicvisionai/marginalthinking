@@ -42,6 +42,27 @@
         "license": "CC-BY-4.0",
         "license_url": "https://creativecommons.org/licenses/by/4.0/"
       }
+    },
+    "MT-PE-2026-11-03-ROCKBRIDGE-NETWORK": {
+      "slug": "2026-11-03-rockbridge-network-capital-political-power-brazil",
+      "lead": {
+        "src": "/assets/images/reports/2026-11-03-rockbridge-network-capital-political-power-brazil/rockbridge-capital-networks.svg",
+        "origin": "original",
+        "kind": "editorial-illustration",
+        "width": 1600,
+        "height": 900,
+        "alt": {
+          "en": "Four connected abstract institutions represent capital, organising, political communications and public decision-making.",
+          "pt-BR": "Quatro instituições abstratas conectadas representam capital, organização, comunicação política e decisões públicas."
+        },
+        "caption": {
+          "en": "Original conceptual illustration of the relationships between private resources, political organisations and institutions. It is not an ownership diagram or evidence of a specific money transfer.",
+          "pt-BR": "Ilustração conceitual original das relações entre recursos privados, organizações políticas e instituições. Não representa organograma societário nem comprovação de transferência financeira específica."
+        },
+        "credit": "LOGV / Marginal Thinking",
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      }
     }
   }
 }

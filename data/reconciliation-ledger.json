@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T04:57:54.940Z",
+  "last_reconciled_at": "2026-11-03T06:14:33.130Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8075,6 +8075,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Corporate AI capex financing concerns and industrial diffusion measures are market and survey observations, not newly demonstrated or scaled AI technology performance capability."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03-rockbridge-network-evidence-reconciliation",
+      "reconciled_at": "2026-11-03T06:14:33.130Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-03-ROCKBRIDGE-NETWORK"
+      ],
+      "audit_note": "First QA-approved Rockbridge political finance/strategic industry research; source-attributed 2019–2026 political donors, FEC and Brazil formation, with explicit limits on contested implementation, electoral allegations and beneficial ownership. Three source Git blobs locked.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "US-Korea-Brazil donor and political relations analysed with media and FEC evidence; no auditable quantified bilateral capital or contractual dependency edge for a canonical numeric relation."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Research covers private political networks and investment interests; Brazilian $100bn impact claim is unvalidated, not a confirmed project pipeline or investable opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Named founders, investors and advisers documented with different roles, but private Rockbridge and Brazil LLC beneficial ownership and full contractual control not independently evidenced to meet canonical actor control-edge standard."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Critical mineral and data-centre interests described without identifiable new concession, physical inventory, resource transfer or beneficial-control transaction."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Electoral law and 27 October 2026 STF inquiry documented but no resolved intervention effectiveness or verified quantified policy outcome for atlas entry."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Political influence, security conferences and defence investment links analysed, but no newly verified military conflict incident or geolocated operational effect."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Commercial AI, military technology and data centres discussed as strategic markets, not a new independently demonstrated capability or deployment signal."
         }
       ]
     }
