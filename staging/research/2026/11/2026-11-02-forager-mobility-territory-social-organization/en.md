@@ -108,7 +108,7 @@ At **Poverty Point** in what is now Louisiana, the North American Late Archaic a
 
 The engineering achievement establishes coordination of substantial labor, landscape design and access to extra-local materials. It does not, by itself, identify a monarch, a hereditary bureaucracy, the exact number of workers, a compulsory tax system or a universal class structure. Archaeologists continue to distinguish continuous residence from episodic ceremonial aggregation; a monumental center might combine functions over time. The absence of agriculture as the principal subsistence mode cannot be taken to mean absence of complex politics.
 
-Poverty Point is therefore a test case for collective-action theories. Large projects can be motivated by ritual, identity, reciprocal obligations, competition, exchange gatherings or political pressure in changing proportions. Excavation, construction sequences, residential traces and material provenance can constrain these hypotheses. Monumentality alone does not settle which institution authorized the labor.
+Poverty Point is therefore a test case for collective-action theories. Large projects can be motivated by ritual, identity, reciprocal obligations, competition, exchange gatherings or political pressure in changing proportions. Comparative research on large-scale forager cooperation documents shared investments and institutions beyond residential camps, without resolving which of those incentives operated at Poverty Point. Excavation, construction sequences, residential traces and material provenance can constrain these hypotheses. [22] Monumentality alone does not settle which institution authorized the labor.
 
 ## 12. Northern maritime societies: technology, seasonality and cooperation
 
