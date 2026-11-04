@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-25-SCHACHT",
+  "slug": "2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy",
+  "revision": 2,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-04T21:00:05.466Z",
+  "reviewed_commit": "1aef4aa4992cfdfb9957ad5dee602019db1f17b7",
+  "pending_blob_sha": "6cc703dd4abe6052d812b4c610425156f21f9c2e",
+  "source_blob_shas": {
+    "en": "e3b4ab16428d8a23fb0a99f8d5e8d861cacde1e6",
+    "pt-BR": "4e59d298c3ab1ae31a4bb807062730f25e2f9b32"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Revision 2 pending and English/Portuguese source blob hashes match producer-provided fingerprints 3/3. Revision 1 rejected record preserved; no approved or public report of this slug before publication."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Schema-v2 ready strategic-actors kind with political-economy-markets primary program, existing controlled taxonomy; biographical dossiers in existing public index use strategic-actors kind across political economy and global-system-power programs."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Historic events anchored to 1923 monetary reform, November 1932 petition, 1933 Reichsbank, 1934 MEFO device, 1 April 1938 issuance close, 1939 dispute and 1946 tribunal verdict; selected 1938/39–1944/45 nominal Reichsmark fiscal series explicitly dated, last year partly estimated."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Nuremberg tribunal records confirm 12 billion Reichsmarks in MEFO bills issued by 1 April 1938, invoice/guarantee/rediscount mechanics and Schacht's role; 1932 letter and petition participation documented in Yale/Harvard Nuremberg transcriptions and DHM biography; Bundesbank 2024 and IMF 2019 differ on 5% versus 4% paper rates, discrepancy explicitly acknowledged in both texts rather than presented as one universal rate; USHMM/IMT confirm acquittal on charged counts while preserving historical agency."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "27 distinct citation URLs across 14 hosts shared in EN/PT. Prior rejected duplicate historical photograph citation corrected: [2] openly identified as photograph/editorial context and [15] now cites IMF research on clearing/New Plan. Primary tribunal, Bundesbank, IMF and academic economic history sampled for central finance and political claims. 1938–45 full historical fiscal charts reference table 4 of historical working paper; individual archival source rows not independently recompiled in this pass."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "About 6006 EN and 7204 PT substantive words with 30 chapters and 30 numbered bibliography items, long-term biography, Rentenmark, anti-Nazi-to-Nazi institutional choices, MEFO credit, import controls, forced labour and recovery propaganda, Nuremberg judgment and postwar history."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Revision 1's decorative chronology charts replaced by three quantitative historical series with identical paired arrays: Mefo outstanding [11.9,11.4,10.8,10.1,9.5,8.8,8.1], nominal debt [53.2,73.5,102.6,153.3,208,284.9,387.9], notes/coins [11,15.2,18.3,23.8,29.8,38.7,73]. Same fiscal-year periods and caveats, 33 table rows, a map and a causal flow in both locales; monetary quantities are not combined as identical instruments."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Same 3 chart arrays, 27 distinct URLs, historical agency claims, MEFO sources and rate discrepancy explicitly present in English and Portuguese; equivalent original-political agency attribution and conclusion."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "New 1932 petition narrative included in both languages, historic sources [2]/[15] correctly characterized, no prose written as instructions to the reader or site producer. Nuremberg legal verdict not misrepresented as total exoneration of historical conduct."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "DHM/Nuremberg evidence of political collaboration balanced with Tribunal legal acquittal; 4%-versus-5% source disagreement disclosed; aggregate 12bn issued does not equal outstanding fiscal stock or delivered military capacity."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Distinct causal explanations for labour recovery, credit growth, price controls and rearmament; MEFO liquidity risks and external material constraints distinguished. Political and economic effects cannot be credited to one financier alone."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Structural source checks reproduced: >1700 words each, 3 numerical charts, >=1 map, >=1 flow, >=3 table rows, >6 headings, >8 URLs on >=4 domains, exact EN/PT numerical equivalence. Final full npm build and site smoke verification require GitHub Actions."
+    }
+  },
+  "contrary_evidence": [],
+  "limitations": [
+    "Primary evidence checks were sampled from Nuremberg, Bundesbank, IMF, USHMM and published historical research, not a full reproduction of all financial series from original archives.",
+    "The 4% vs 5% quoted rate in different institutional sources is not silently resolved; original historical terms may vary by instrument and time.",
+    "No full Node repository checkout was executed for this source review; GitHub build checks required."
+  ],
+  "notes": "Revision 2 supersedes previously rejected unpublished revision 1; producer's three specific blocking defects were checked for remediation, including 1932 agency, nondecorative finance charts and correct New Plan evidence. Do not publish if any source SHA changes.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-25-SCHACHT",
+    "slug": "2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy",
+    "date": "2026-10-25",
+    "published_at": "2026-10-25T00:08:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 39,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/en.md",
+        "title": "The shadow currency that was not a currency: Schacht, Mefo bills and Nazi rearmament",
+        "deck": "The political and financial machinery behind Schacht's Mefo bills: Weimar monetary reform, clandestine public debt, Reichsbank rediscounting, trade restrictions, military production and the financial aftermath of war.",
+        "tags": [
+          "Hjalmar Schacht",
+          "biography",
+          "political economy",
+          "international history",
+          "institutions"
+        ],
+        "keywords": [
+          "Hjalmar Schacht",
+          "international power",
+          "economic history",
+          "military policy",
+          "monetary institutions",
+          "democratic legitimacy",
+          "historical biography",
+          "Mefo bills",
+          "shadow money",
+          "Nazi rearmament finance",
+          "Reichsbank",
+          "Rentenmark",
+          "interwar Germany",
+          "off-budget debt",
+          "Germany government debt 1938 1945"
+        ],
+        "regime": "Historic decisions linking institutional authority, production, finance and conflict.",
+        "key_risk": "Treating authors' memoirs and legal verdicts as complete historical assessments.",
+        "watch": [
+          "Archival and museum record",
+          "Primary governmental and financial records",
+          "Competing specialist historical literature"
+        ],
+        "search_text": "The shadow currency that was not a currency: Schacht, Mefo bills and Nazi rearmament The political and financial machinery behind Schacht's Mefo bills: Weimar monetary reform, clandestine public debt, Reichsbank rediscounting, trade restrictions, military production and the financial aftermath of war. Germany Weimar MEFO bills Hjalmar Schacht 1932 petition Hindenburg 1934 rearmament off-balance-sheet sovereign liabilities New Plan bilateral clearing 1938 1945"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy/pt-BR.md",
+        "title": "A moeda secreta que não era moeda: Schacht, as letras MEFO e o financiamento do rearmamento nazista",
+        "deck": "A engenharia financeira das letras MEFO: a estabilização de Weimar, a dívida militar disfarçada, o redesconto no Reichsbank, as restrições comerciais e as consequências econômicas e políticas do rearmamento.",
+        "tags": [
+          "Hjalmar Schacht",
+          "biografia",
+          "economia política",
+          "história internacional",
+          "instituições"
+        ],
+        "keywords": [
+          "Hjalmar Schacht",
+          "international power",
+          "economic history",
+          "military policy",
+          "monetary institutions",
+          "democratic legitimacy",
+          "historical biography",
+          "letras MEFO",
+          "moeda secreta",
+          "financiamento nazista",
+          "Rentenmark",
+          "crédito oculto",
+          "dívida pública alemã",
+          "redesconto Reichsbank"
+        ],
+        "regime": "Decisões históricas conectando autoridade institucional, produção, finanças e conflito.",
+        "key_risk": "Tratar memórias e sentenças judiciais como avaliações históricas completas.",
+        "watch": [
+          "Acervos históricos e museológicos",
+          "Registros governamentais e financeiros primários",
+          "Historiografia especializada divergente"
+        ],
+        "search_text": "A moeda secreta que não era moeda: Schacht, as letras MEFO e o financiamento do rearmamento nazista A engenharia financeira das letras MEFO: a estabilização de Weimar, a dívida militar disfarçada, o redesconto no Reichsbank, as restrições comerciais e as consequências econômicas e políticas do rearmamento. Alemanha Weimar MEFO Schacht 1932 petição Hindenburg rearmamento passivo público extraorçamentário Novo Plano clearing comércio Brasil 1938 1945"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "industry-production",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "war-armed-conflict",
+      "political-stability"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Hjalmar Schacht",
+      "type": "person"
+    },
+    "related_research": [
+      "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+      "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro"
+    ],
+    "producer_checks": {
+      "information_cutoff": "3 November 2026; historical sources include Deutsche Bundesbank (2024), IMF (2019), CESifo Working Paper 4135 (2013), German Historical Museum, the Nuremberg proceedings, and 2025 scholarly balance-sheet analysis.",
+      "research_depth": "PT-BR ~53.8k characters / >7,000 words; EN ~46.5k characters / >6,000 words; 31 analytical sections in each edition, 3 reproducible historical financial charts, an explanatory balance-sheet table, a quantitative annual stock table, a causal flow and a geographical mechanism map.",
+      "source_check": "Revised to address rejected v1 findings: added Deutsches Historisches Museum's 1932 petition chronology; replaced duplicated GHDI photographic citation for New Plan and bilateral clearing with IMF research; introduced financial time series from Burret, Feld and Köhler, table 4, with stocks, total debt and currency separately classified; differentiated 4% vs 5% coupon in sources; QA source-by-source review still required.",
+      "visual_signature": "Three matching line charts in EN/PT-BR, fiscal 1938/39–1944/45, nominal billions Reichsmarks: Mefo bills outstanding [11.9,11.4,10.8,10.1,9.5,8.8,8.1], general government debt [53.2,73.5,102.6,153.3,208,284.9,387.9], notes and coins in circulation [11,15.2,18.3,23.8,29.8,38.7,73]. Final fiscal year partly estimated. Charts are not additive.",
+      "translation_parity": "Both language editions have 31 H2 chapters, identical three chart datasets, financial periods and balances, parallel 1932 petition and revised clearing and source discussion.",
+      "methodology": "Separate the 1923 Rentenmark from the 1934 MEFO bills; bills are credit instruments not legal tender; distinguish issued flows from outstanding stocks, physical currency from bank liabilities and fiscal debt, economic from legal responsibility; illustrative RM100 accounting table explicitly hypothetical.",
+      "editorial_status": "Revision 2 staged and awaiting independent QA. NOT approved or publicly published.",
+      "source_shas": {
+        "en": "e3b4ab16428d8a23fb0a99f8d5e8d861cacde1e6",
+        "pt-BR": "4e59d298c3ab1ae31a4bb807062730f25e2f9b32"
+      }
+    }
+  }
+}
