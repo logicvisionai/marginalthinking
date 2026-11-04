@@ -130,6 +130,12 @@ A competência técnica não elimina conflitos de interesse. Um ministério pode
 
 Em 2026, os registros acadêmicos, parlamentares e arquivos da ditadura permitem distinguir o Delfim formulador de hipóteses, o ministro efetivamente responsável por decisões e o comentarista de décadas posteriores. A longevidade e a capacidade de adaptação política não transformam a experiência ministerial em autoridade incontestável nem tornam sua participação na repressão um detalhe biográfico.
 
+## Denúncias, investigação parlamentar e desfechos judiciais
+
+O dossiê histórico da Folha de S.Paulo registra acusações formuladas por um ex-adido militar e um antigo dirigente do DOI-CODI de que Delfim teria recebido comissões para facilitar negócios de empresas francesas durante sua passagem pela embaixada em Paris. **A CPI da Dívida Externa não confirmou essa denúncia**, conforme a própria reportagem. A existência de uma acusação sem confirmação parlamentar não demonstra o recebimento de comissões. A mesma fonte relata controvérsia envolvendo autorização de crédito da Caixa Econômica Federal associado ao empresário Assis Paim Cunha e a operações envolvendo as corretoras Coroa–Brastel e Laureano. [12]
+
+**Segundo a Folha, Delfim foi absolvido pelo Supremo Tribunal Federal em 1994 no caso dos empréstimos.** A notícia não reproduz integralmente os autos nem permite inferir qualquer resultado de outras acusações. Tampouco a absolvição elimina o interesse econômico de investigar a distribuição do crédito público, a exposição da instituição financeira, as relações políticas e os mecanismos de fiscalização. Acusações, ausência de confirmação na CPI e decisão judicial devem permanecer como fatos distintos, sem transformar denúncias não comprovadas em culpa histórica estabelecida. [12]
+
 ## Redemocratização, Constituinte e cinco mandatos parlamentares
 
 Delfim deixou o governo em 1985, na transição civil, e foi eleito deputado federal em 1986, integrando a Assembleia Constituinte de 1987–1988. Sua biografia oficial na Câmara registra cinco mandatos entre 1987 e 2007 por São Paulo e atuação em comissões de economia, finanças e outras áreas. O ex-ministro de ditadura passou a exercer influência por votação, coalizões partidárias, projetos e debate público sob instituições representativas. [2]
@@ -150,7 +156,7 @@ A memória pública divide-se entre reconhecimento de capacidade de gestão econ
 
 ## Delfim, Roberto Campos e Schacht: técnicas monetárias e regimes políticos
 
-Roberto Campos participou da construção institucional do Banco Central brasileiro e do PAEG; Delfim assumiu fase de expansão posterior e enfrentou décadas depois uma crise externa. Hjalmar Schacht, em contexto incomparavelmente mais extremo, estabilizou a moeda alemã em 1923 e, depois, financiou a militarização nazista por créditos indiretos e controles comerciais. A aproximação metodológica está na relação entre moeda, Estado, crédito e produção, não numa equivalência política entre seus regimes ou numa influência intelectual direta demonstrada. [3][14]
+Roberto Campos participou da construção institucional do Banco Central brasileiro e do PAEG; Delfim assumiu fase de expansão posterior e enfrentou décadas depois uma crise externa. Hjalmar Schacht, em contexto incomparavelmente mais extremo, estabilizou a moeda alemã em 1923 e, depois, financiou a militarização nazista por créditos indiretos e controles comerciais. A aproximação metodológica está na relação entre moeda, Estado, crédito e produção, não numa equivalência política entre seus regimes ou numa influência intelectual direta demonstrada. [3][14][16][17]
 
 Em todos os casos, números de crescimento precisam ser ligados à composição do produto e às pessoas afetadas. Crédito pode sustentar infraestrutura, consumo ou armamentos; estabilidade monetária pode proteger poupadores ou operar com repressão; controle cambial pode priorizar energia ou excluir setores sem representação. Instituições econômicas não são neutras em sua distribuição de poder. A biografia de Delfim mostra como escolhas macroeconômicas e condições políticas moldam efeitos que perduram muito além de mandatos individuais.
 
@@ -171,7 +177,7 @@ A história econômica mais convincente distingue resultados observados de justi
 | 1967–1974 | Ministro da Fazenda | Costa e Silva / Médici | Milagre econômico |
 | 1968 | Assinatura do AI-5 | Ditadura militar | Supressão de direitos |
 | 1968–1973 | Crescimento acelerado | Economia brasileira | Produção e concentração |
-| 1974–1978 | Embaixador na França | Itamaraty | Diplomacia econômica |
+| 1975–1978 | Embaixador na França | Itamaraty | Diplomacia econômica |
 | 1979 | Agricultura e Planejamento | Governo Figueiredo | Retorno sob choque externo |
 | 1982–1983 | Crise da dívida e FMI | Credores e governo | Ajuste e recessão |
 | 1987–2007 | Cinco mandatos de deputado | Congresso Nacional | Atuação parlamentar |
@@ -239,3 +245,7 @@ Brasil industrial e agrícola | Crédito, exportações e trabalho | Consequênc
 [14] Banco Central do Brasil, história das instituições monetárias: https://www.bcb.gov.br/acessoinformacao/historicodiretoria
 
 [15] Câmara dos Deputados, história institucional de 1964–1988: https://www2.camara.leg.br/a-camara/conheca/historia/Ex_presidentesCD_Republica/republica5.html
+
+[16] Deutsches Historisches Museum, LeMO, biografia de Hjalmar Schacht: estabilização monetária em 1923 e cargos econômicos e políticos posteriores: https://www.dhm.de/lemo/biografie/hjalmar-schacht
+
+[17] Tribunal Militar Internacional, documentação de Nuremberg sobre financiamento MEFO e rearmamento nazista: https://avalon.law.yale.edu/imt/11-23-45.asp
