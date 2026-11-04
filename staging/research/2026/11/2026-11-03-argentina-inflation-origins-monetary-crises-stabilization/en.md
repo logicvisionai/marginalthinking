@@ -174,6 +174,17 @@ Wage and contract adjustment + expectations of further depreciation → repeated
 Credible fiscal balance + sustained demand for pesos + predictable access to foreign exchange → reduced monetary-financing pressure and more durable disinflation
 ```
 
+
+The regional mechanism links export revenue generation to domestic currency demand and import-intensive activity. The geographic categories below describe transmission channels, not measured provincial contributions, a precise origin-destination freight network or a claim that every location has the same economic exposure. The historical export and foreign-credit dependence and the contemporary reserve problem are documented in the cited monetary histories and IMF reviews. [1][2][16][20]
+
+```map
+title: Argentina's geographic channels of foreign-exchange and inflation risk
+Pampas and Paraná export corridor | Agricultural exports generate foreign-exchange earnings | Harvest and international commodity-price shocks alter the availability of dollars; not a measured provincial reserve series
+Buenos Aires and main industrial centres | Imported machinery, components and domestic wage-price formation | Peso depreciation raises imported-input costs; impact varies by firm and contract
+Energy-producing regions | Potential diversification of export receipts and import substitution | Capacity, transport, contracts and timing constrain any immediate reserve improvement
+Foreign financing centres | Sovereign refinancing and hard-currency debt exposure | External funding reversals can increase peso and debt stress; historic episodes differ in creditor structure
+```
+
 ## 22. Informal dollarization and the legacy of hyperinflation
 
 For many Argentines the dollar has become more than a foreign currency: it serves as a preferred benchmark for long-term savings, property transactions and household wealth. Repeated monetary reforms, depreciation, deposit restrictions, inflation and failed exchange-rate promises reinforced this behavior. Currency preferences established over decades do not immediately disappear when monthly inflation falls. [3][11][13]
