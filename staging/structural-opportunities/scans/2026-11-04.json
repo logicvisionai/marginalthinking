@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "checked_at": "2026-11-04T08:00:07Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-04",
+  "candidate_ids": [],
+  "coverage_summary": "Early 4 November review of dated primary evidence for energy, grid infrastructure, logistics, industrial capacity, regulation, access to finance and institutions. Rechecked the already staged Uzbekistan substation programme, Japan/World Bank DRIVE energy financing, OPEC December output requirements and US Treasury funding conditions. No independently evidenced new structural candidate distinct from prior staging was established; no candidate invented.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank Uzbekistan grid modernization approval",
+      "date": "2026-10-27",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo"
+    },
+    {
+      "name": "World Bank/Japan DRIVE Asia financing",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    },
+    {
+      "name": "OPEC December production requirements",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    },
+    {
+      "name": "US Treasury November yields",
+      "date": "2026-11-03",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    }
+  ],
+  "review_limitations": [
+    "This was a bounded early-day source scan, not exhaustive discovery of all new 4 November announcements.",
+    "Prior Uzbekistan and DRIVE financing approvals do not establish disbursement, commissioning or measured productivity gains.",
+    "No newly dated verified physical project completion, binding new capital commitment or logistics bottleneck sufficient for a distinct candidate.",
+    "Canonical Atlas and history left untouched."
+  ]
+}
