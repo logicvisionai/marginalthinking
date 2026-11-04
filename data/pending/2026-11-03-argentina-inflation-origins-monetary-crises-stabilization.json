@@ -56,7 +56,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "related_research_ids": [
     "MT-CC-2026-09-23-argentina",
@@ -151,9 +151,19 @@
     "information_cutoff": "3 November 2026; latest INDEC IPC observed September 2026, announced 13 October, latest referenced BCRA private expectations survey published 6 October; 2026 IMF review published 22 May.",
     "research_depth": "25 chapters in each edition; PT-BR 42,684 characters, 5,955 whitespace-delimited words; EN 38,432 characters, 4,995 words, plus 24 matched bibliographic entries per language.",
     "historical_coverage": "Nineteenth-century monetary fragmentation and 1890 Baring crisis; gold standard; 1935 BCRA; Peronist industrialisation, 1955–74 stop-go cycle, 1975 Rodrigazo, dictatorship finance, 1985 Austral, 1989–90 hyperinflation, 1991 convertibility, 2001–02, 2007 statistics, 2018 IMF, 2020–23, Milei stabilization and 2026 data.",
-    "visual_signature": "Both languages have two fully sourced bar charts with matching numeric series [84,17.6,7.4,3.9] and [211.4,117.8,31.5], one eight-row status/period table, two multi-chain causal flow diagrams and one mechanism mindmap; no editorial illustrations or photos.",
+    "visual_signature": "Both languages have two matching historical CPI bar charts [84,17.6,7.4,3.9] and [211.4,117.8,31.5], one status table, two causal flows, one analytical mindmap and a four-region sourced foreign-exchange exposure map; revision 2 closes QA-identified missing map gate.",
     "bibliography": "24 paired numbered references to BCRA, INDEC, IMF, World Bank, university and journal research, with 24 source URLs in each language. Material historical and current source claims correspond to numbered citations in text.",
     "methodological_cautions": "Avoid treating 1890 as modern sustained CPI inflation, annualized September 2026 rates as actual year-end, US$57bn IMF 2018 authorization as US$45bn disbursements, or an urban poverty series as total census coverage.",
-    "status": "Only staged for independent editorial QA. No approved or published claim made."
-  }
+    "status": "Revision 2 staged after QA rejection of revision 1; requires independent factual/editorial re-review tied to new source and pending Git blob SHAs; no public artifact until approved.",
+    "source_shas": {
+      "en": "754ef4bc95866d74e873f6b79b6018bc75400ecf",
+      "pt-BR": "a3cf73fb474462eb281e2fd5cc90af8c3700aaeb"
+    }
+  },
+  "revision_reason": "Correct independent QA rejection of revision 1: add fully sourced geographic foreign-exchange exposure map in each language without inventing numeric province-level data; preserve historical and current inflation evidence and the revised manuscript's substantive balance.",
+  "qa_fixes_applied": [
+    "MT-PE-2026-11-03-ARGENTINA-VISUAL-MAP: one sourced four-region foreign-exchange/transmission map added to English and Brazilian Portuguese following section 21, with non-quantitative spatial limitations explicitly stated.",
+    "Retain the same 2 numerical charts, 2 causal flows, mind map and 25 ordered analytical sections in both language versions.",
+    "Reconcile revision 2 source Git blob SHA fingerprints: exact English and pt-BR staged content hashes."
+  ]
 }
