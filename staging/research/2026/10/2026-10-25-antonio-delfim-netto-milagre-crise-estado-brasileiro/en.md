@@ -130,6 +130,12 @@ Technical competence does not erase conflicts over who receives scarce resources
 
 By 2026, parliamentary, university and dictatorship archives allow the scholar to distinguish Delfim's published hypotheses, the concrete choices of his two ministerial periods and the views expressed decades later. His political longevity does not make those decisions immune from scrutiny or turn his participation in repression into an incidental biographical detail.
 
+## Allegations, parliamentary scrutiny and the outcome of proceedings
+
+A Folha de S.Paulo historical dossier records accusations made by a former military attaché and a former head of DOI-CODI that Delfim had received commissions for facilitating transactions involving French firms during his ambassadorship. **The foreign-debt parliamentary inquiry did not confirm that allegation**, according to the same account. An accusation that an inquiry did not substantiate is not an established finding of receipt of commissions. The dossier also recounts controversy over approval of Caixa Econômica Federal lending associated with businessman Assis Paim Cunha and the Coroa–Brastel/Laureano brokerage transactions. [12]
+
+**Folha reports that Delfim was acquitted by Brazil's Supreme Federal Court in 1994 in the lending matter.** The media account is not a reproduction of the judicial ruling and must not be read as proof of a different result or as a conclusion about unrelated allegations. Neither allegations nor acquittal cancel the requirement to examine the economic decision: allocation of state bank credit, political connections, lender exposure and public oversight determine whether contingent risks were borne by private actors or public institutions. The contemporaneous investigation and subsequent judicial outcome belong to the record without converting unproven charges into proven conduct. [12]
+
 ## Democratization and five parliamentary terms
 
 Delfim left government in 1985 during the civilian transition and was elected to the Chamber of Deputies in 1986, joining the constitutional assembly of 1987–1988. The official parliamentary biography records five terms representing São Paulo, extending through early 2007, and participation in economic, financial and other commissions. A former military-regime minister became a political actor subject to elections, coalition negotiations and legislative scrutiny. [2]
@@ -150,7 +156,7 @@ Public memory is divided between recognition of his economic and academic abilit
 
 ## Delfim, Roberto Campos and Schacht: institutional comparisons and their limits
 
-Roberto Campos helped establish Brazilian monetary and development institutions; Delfim managed subsequent expansion and later a major external-debt crisis. Hjalmar Schacht, in a radically different setting, helped stabilize Germany's currency and subsequently financed Nazi rearmament through indirect credit and import controls. Their economic instruments have methodological parallels—government borrowing, monetary limits, industrial finance and foreign-exchange scarcity—but the political regimes, objectives and consequences must not be equated. [3][14]
+Roberto Campos helped establish Brazilian monetary and development institutions; Delfim managed subsequent expansion and later a major external-debt crisis. Hjalmar Schacht, in a radically different setting, helped stabilize Germany's currency and subsequently financed Nazi rearmament through indirect credit and import controls. Their economic instruments have methodological parallels—government borrowing, monetary limits, industrial finance and foreign-exchange scarcity—but the political regimes, objectives and consequences must not be equated. [3][14][16][17]
 
 All three careers show that growth figures need examination of the goods produced and the people affected. Credit can finance transport, housing or weapons; exchange controls can secure productive imports or serve military ambitions; a stable currency need not imply a just political order. Economic institutions allocate resources and authority, and their operation depends on political choices.
 
@@ -171,7 +177,7 @@ A credible history separates observed results from retrospective justifications.
 | 1967–1974 | Finance minister | Costa e Silva and Médici | Economic miracle |
 | 1968 | Signature of AI-5 | Military dictatorship | Suspension of rights |
 | 1968–1973 | High GDP growth | Brazilian economy | Output and inequality |
-| 1974–1978 | Ambassador to France | Foreign Ministry | Economic diplomacy |
+| 1975–1978 | Ambassador to France | Foreign Ministry | Economic diplomacy |
 | 1979 | Agriculture and Planning | Figueiredo government | Return under external shock |
 | 1982–1983 | Debt crisis and IMF | Creditors and government | Adjustment and recession |
 | 1987–2007 | Five congressional terms | National Congress | Parliamentary politics |
@@ -239,3 +245,7 @@ Industrial and agricultural Brazil | Credit, exports and labour | Distributional
 [14] Central Bank of Brazil, historical monetary institutions: https://www.bcb.gov.br/acessoinformacao/historicodiretoria
 
 [15] Brazilian Chamber of Deputies, dictatorship and political transition: https://www2.camara.leg.br/a-camara/conheca/historia/Ex_presidentesCD_Republica/republica5.html
+
+[16] Deutsches Historisches Museum, LeMO biography of Hjalmar Schacht, role in 1923 monetary stabilization and subsequent economic and political offices: https://www.dhm.de/lemo/biografie/hjalmar-schacht
+
+[17] International Military Tribunal, Nuremberg documentary record on the MEFO financing mechanism and Nazi rearmament: https://avalon.law.yale.edu/imt/11-23-45.asp
