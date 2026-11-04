@@ -1,0 +1,255 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-03-ARGENTINA-INFLATION-HISTORY",
+  "slug": "2026-11-03-argentina-inflation-origins-monetary-crises-stabilization",
+  "revision": 2,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-04T20:51:00Z",
+  "reviewed_commit": "a536f6594e1ce7d9e8b38ede5c5e8f294c63e6aa",
+  "pending_blob_sha": "cbddb5552ba4b82079c99dd67afa5ca381f10969",
+  "source_blob_shas": {
+    "en": "754ef4bc95866d74e873f6b79b6018bc75400ecf",
+    "pt-BR": "a3cf73fb474462eb281e2fd5cc90af8c3700aaeb"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Exact Git blob fingerprints from revision-2 pending and both staged documents compared; revision-1 rejection retained; no existing public bundle; all three artifacts in same revision branch."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Schema 2, ready true, revision 2, country-context, program political-economy-markets, Argentina geography, frozen taxonomy topics/phenomena and bilingual sources."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Research cutoff dated 3 November 2026. September 2026 CPI observed 1.9% released 13 October per INDEC; 2025 annual CPI 31.5%; 2024 117.8%; 2023 211.4%; IMF May 2026 25% inflation and 3.5% growth are forecasts, not outcomes."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Key figures independently cross-checked against INDEC IPC and first-half 2026 poverty (32.3% persons among 31 urban agglomerations), BCRA September REM (1.9% CPI, 1.5% 2026 GDP estimate), and IMF May 2026 25% year-end CPI projection/3.5% GDP. Debt/program historical mechanisms appropriately attributed, no forced continuity of nineteenth-century CPI."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "23 matching unique bibliography URLs across 13 domains with source-note citations. Current pivotal claims matched to INDEC, BCRA and IMF primary publications; historical analysis cites BCRA monetary history, IMFs ex-post evaluation, academic works. Exhaustive line-by-line archive PDF/historical interpretation cannot be certified through this connector review; limitation recorded."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Twenty-five substantive chronological chapters, source bibliography, EN about 4,785 words, PT-BR about 5,715; contrasts 1890, 1975, 1989, convertibility/2001, 2018, 2024–26 and mechanisms of monetary, fiscal, external and distributional change."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Revision 1 rejection repaired in revision 2. Two numerically matched CPI charts [[84,17.6,7.4,3.9],[211.4,117.8,31.5]], 2 causal flows, 1 historical mechanism mindmap, 1 meaningful geographical map with Pampas/export corridor, industrial centres, energy regions and overseas refinancing channels, 8-row period/status table. Geographic evidence explicitly qualitative and qualified in both languages."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Matching 25 analytical chapters and semantic framing, identical 23 source URLs, exact chart values and 4-region qualitative map channels, numbers and dates localized without meaning drift."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Continuous institutional analysis rather than conversational scaffold. No unsupported synthetic historical images. Citations included, prospects for 2026 conditional, older policy cases linked only to existing published report."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Distinguishes pre-1945 instability from chronic inflation, genuine early 1990s disinflation from regime sustainability, IMF projections from observed CPI, stabilization benefits from poverty and credit costs."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Contrasts monetary, structural, fiscal, expectations and balance-sheet mechanisms by historical episode; durability conditions and disconfirming potential 2026 outcomes explicitly identified."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Source static checks reproduce current editorial-depth grammar: words>1700, 2+ charts, flow, map, table, 6+ headings, at least eight URLs across four domains, numerical chart equivalence. Full npm pipeline and actual build require GitHub CI after merge."
+    }
+  },
+  "contrary_evidence": [
+    "Nineteenth-century banking and exchange crises do not establish uninterrupted high CPI inflation since independence; chronic inflation primarily consolidated after 1945.",
+    "The 1991 peg genuinely achieved rapid disinflation before later collapse under external and debt constraints.",
+    "The 2018 sudden stop and 2001 crisis demonstrate debt and currency vulnerabilities not captured by money growth alone.",
+    "The inflation slowdown observed in 2024–2025 does not by itself resolve the reserves, growth, debt and income-distribution constraints.",
+    "2007–15 CPI/GDP reliability and methodological breaks limit long-run series comparability."
+  ],
+  "limitations": [
+    "Historic monetary regimes and selected postwar inflation observations cannot be joined to modern nationally representative CPI as a homogeneous series.",
+    "Observed year-end 2023–2025 annual inflation, September 2026 monthly CPI and May 2026 IMF forecasts have distinct time frequencies and evidentiary status.",
+    "INDEC poverty refers to 31 urban agglomerations and half-year comparisons require seasonal and methodological care.",
+    "Fiscal, monetary, currency, wage indexation and external effects are not attributed an unsupported constant quantitative weight across different historical regimes.",
+    "Bibliography includes repeated foundational publications to align explanatory source use; distinct source counts must use unique works and hosts.",
+    "Independent factual sample verified against INDEC BCRA IMF current original releases; not a comprehensive historical archive review of every claim.",
+    "npm build / pipeline and production deployment not independently executed by this QA tool. GitHub CI required after merging.",
+    "Map regions represent documented mechanisms and deliberately avoid invented provincial transaction volumes."
+  ],
+  "notes": "Revision 2 resolves revision-1 rejection for absence of geographical evidence, preserves immutable old rejection. Publisher must validate all 3 SHA binds and publish only this revision if no later changes.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-03-ARGENTINA-INFLATION-HISTORY",
+    "slug": "2026-11-03-argentina-inflation-origins-monetary-crises-stabilization",
+    "date": "2026-11-03",
+    "published_at": "2026-11-03T15:00:07.081-03:00",
+    "kind": "country-context",
+    "priority": 37,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "AR",
+          "slug": "argentina"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "institutions-governance",
+      "commodities-resources",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change"
+    ],
+    "phenomena": [
+      "political-stability",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "related_research_ids": [
+      "MT-CC-2026-09-23-argentina",
+      "MT-PE-2026-09-23-ARGENTINA-CONVERTIBILITY"
+    ],
+    "selection_rationale": "Full original longitudinal investigation of Argentine fiscal, monetary, external and social inflation mechanisms from national monetary formation and the 1890 banking collapse, through 1975, 1989–90, 1991–2001, 2018 and the observed 2024–September 2026 period, distinguished from existing concise country overview and 1991 policy case.",
+    "contrary_evidence": [
+      "Nineteenth-century banking and exchange crises do not establish uninterrupted high CPI inflation since independence; chronic inflation primarily consolidated after 1945.",
+      "The 1991 peg genuinely achieved rapid disinflation before later collapse under external and debt constraints.",
+      "The 2018 sudden stop and 2001 crisis demonstrate debt and currency vulnerabilities not captured by money growth alone.",
+      "The inflation slowdown observed in 2024–2025 does not by itself resolve the reserves, growth, debt and income-distribution constraints.",
+      "2007–15 CPI/GDP reliability and methodological breaks limit long-run series comparability."
+    ],
+    "limitations": [
+      "Historic monetary regimes and selected postwar inflation observations cannot be joined to modern nationally representative CPI as a homogeneous series.",
+      "Observed year-end 2023–2025 annual inflation, September 2026 monthly CPI and May 2026 IMF forecasts have distinct time frequencies and evidentiary status.",
+      "INDEC poverty refers to 31 urban agglomerations and half-year comparisons require seasonal and methodological care.",
+      "Fiscal, monetary, currency, wage indexation and external effects are not attributed an unsupported constant quantitative weight across different historical regimes.",
+      "Bibliography includes repeated foundational publications to align explanatory source use; distinct source counts must use unique works and hosts."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-03-argentina-inflation-origins-monetary-crises-stabilization/en.md",
+        "title": "Argentina's Inflationary System: From the Formation of the Peso to the Stability Test of 2026",
+        "deck": "From the 1890 crisis and 1975 Rodrigazo to hyperinflation, dollarization, convertibility, debt crises and the 2026 stabilization test.",
+        "tags": [
+          "Argentina",
+          "Inflation",
+          "Monetary history",
+          "Peso",
+          "Dollarization",
+          "BCRA",
+          "IMF",
+          "Rodrigazo",
+          "Convertibility",
+          "Hyperinflation",
+          "Javier Milei"
+        ],
+        "keywords": [
+          "Argentina inflation origins 1890 1975 1989 1991 2001 2026",
+          "BCRA peso monetary history",
+          "Argentine hyperinflation Rodrigazo debt crisis 2001",
+          "Argentina Milei inflation 2024 2025 2026 INDEC"
+        ],
+        "regime": "From nineteenth-century banking and exchange crises to postwar chronic inflation, 1975 acceleration, 1989 hyperinflation, convertibility, debt crises and observed disinflation in 2024–25.",
+        "key_risk": "Conflating nineteenth-century crises with continuous inflation, attributing the sequence to one government, treating end-2026 projections as data or ignoring exchange-rate balance sheets and distributional costs.",
+        "watch": [
+          "INDEC releases for final-quarter 2026 CPI",
+          "BCRA reserves and peso demand",
+          "Fiscal and debt-financing consistency",
+          "Real wages, poverty and credit",
+          "IMF 2026 review and monetary-exchange policy"
+        ],
+        "search_text": "Argentina historical inflation origins peso BCRA Baring 1890 1935 1946 peronism 1975 Rodrigazo 1989 hyperinflation 1991 convertibility 2001 default 2018 IMF 2023 2026 Milei disinflation"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-03-argentina-inflation-origins-monetary-crises-stabilization/pt-BR.md",
+        "title": "Argentina e a inflação como sistema: da construção do peso ao desafio da estabilidade em 2026",
+        "deck": "Da crise de 1890 à hiperinflação, ao dólar, à conversibilidade e à desinflação recente: as raízes da inflação argentina.",
+        "tags": [
+          "Argentina",
+          "Inflação",
+          "História monetária",
+          "Peso",
+          "Dolarização",
+          "BCRA",
+          "FMI",
+          "Rodrigazo",
+          "Conversibilidade",
+          "Hiperinflação",
+          "Javier Milei"
+        ],
+        "keywords": [
+          "origem inflação argentina 1890 1975 1989 1991 2001 2026",
+          "história peso BCRA peronismo dívida hiperinflação",
+          "Argentina inflação 2023 2024 2025 2026 INDEC",
+          "Milei FMI estabilização dólar"
+        ],
+        "regime": "De instabilidade monetária e bancária no século XIX à inflação crônica no pós-guerra, salto em 1975, hiperinflação, âncoras cambiais e desinflação observada em 2024–2025.",
+        "key_risk": "Confundir crises oitocentistas com inflação crônica contínua, atribuir tudo a uma única doutrina, confundir estimativas com resultados e omitir dívida cambial e efeitos sociais.",
+        "watch": [
+          "Divulgação dos IPC mensais e anual de 2026",
+          "Reservas internacionais e demanda por pesos",
+          "Dívida e contas fiscais",
+          "Salários reais, pobreza e atividade",
+          "Avaliação de 2026 pelo FMI"
+        ],
+        "search_text": "origem inflação argentina 1890 peso ouro banco central BCRA 1935 peronismo 1975 Rodrigazo 1989 hiperinflação Plano Austral conversibilidade 2001 corralito FMI 2018 Milei 2026"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "3 November 2026; latest INDEC IPC observed September 2026, announced 13 October, latest referenced BCRA private expectations survey published 6 October; 2026 IMF review published 22 May.",
+      "research_depth": "25 chapters in each edition; PT-BR 42,684 characters, 5,955 whitespace-delimited words; EN 38,432 characters, 4,995 words, plus 24 matched bibliographic entries per language.",
+      "historical_coverage": "Nineteenth-century monetary fragmentation and 1890 Baring crisis; gold standard; 1935 BCRA; Peronist industrialisation, 1955–74 stop-go cycle, 1975 Rodrigazo, dictatorship finance, 1985 Austral, 1989–90 hyperinflation, 1991 convertibility, 2001–02, 2007 statistics, 2018 IMF, 2020–23, Milei stabilization and 2026 data.",
+      "visual_signature": "Both languages have two matching historical CPI bar charts [84,17.6,7.4,3.9] and [211.4,117.8,31.5], one status table, two causal flows, one analytical mindmap and a four-region sourced foreign-exchange exposure map; revision 2 closes QA-identified missing map gate.",
+      "bibliography": "24 paired numbered references to BCRA, INDEC, IMF, World Bank, university and journal research, with 24 source URLs in each language. Material historical and current source claims correspond to numbered citations in text.",
+      "methodological_cautions": "Avoid treating 1890 as modern sustained CPI inflation, annualized September 2026 rates as actual year-end, US$57bn IMF 2018 authorization as US$45bn disbursements, or an urban poverty series as total census coverage.",
+      "status": "Revision 2 staged after QA rejection of revision 1; requires independent factual/editorial re-review tied to new source and pending Git blob SHAs; no public artifact until approved.",
+      "source_shas": {
+        "en": "754ef4bc95866d74e873f6b79b6018bc75400ecf",
+        "pt-BR": "a3cf73fb474462eb281e2fd5cc90af8c3700aaeb"
+      }
+    },
+    "revision_reason": "Correct independent QA rejection of revision 1: add fully sourced geographic foreign-exchange exposure map in each language without inventing numeric province-level data; preserve historical and current inflation evidence and the revised manuscript's substantive balance.",
+    "qa_fixes_applied": [
+      "MT-PE-2026-11-03-ARGENTINA-VISUAL-MAP: one sourced four-region foreign-exchange/transmission map added to English and Brazilian Portuguese following section 21, with non-quantitative spatial limitations explicitly stated.",
+      "Retain the same 2 numerical charts, 2 causal flows, mind map and 25 ordered analytical sections in both language versions.",
+      "Reconcile revision 2 source Git blob SHA fingerprints: exact English and pt-BR staged content hashes."
+    ]
+  }
+}

@@ -174,6 +174,17 @@ Correção salarial e de contratos + expectativas de novas desvalorizações →
 Superávit fiscal + demanda privada estável por pesos + acesso previsível a divisas → menor necessidade de emissão e maior capacidade de sustentar a desinflação
 ```
 
+
+A transmissão regional liga a geração de divisas pelas exportações à demanda por moeda estrangeira da indústria e à formação de preços internos. As regiões abaixo representam mecanismos econômicos, não uma medição da contribuição de cada província, um mapa exato de rotas de transporte ou a afirmação de que as exposições são uniformes. As histórias monetárias e avaliações do FMI documentam a dependência de receitas externas e a importância de reservas utilizáveis. [1][2][16][20]
+
+```map
+title: Canais geográficos da exposição cambial e inflacionária argentina
+Pampas e corredor exportador do Paraná | Exportações agropecuárias geram divisas | Safras e preços internacionais alteram disponibilidade de dólares; não representa reservas mensuradas por província
+Buenos Aires e principais centros industriais | Equipamentos e componentes importados e formação interna de preços e salários | Desvalorização do peso encarece insumos; efeito varia conforme empresa e contrato
+Regiões produtoras de energia | Potencial de diversificação exportadora e substituição de importações | Capacidade produtiva, transporte, contratos e prazos limitam efeito imediato sobre reservas
+Centros financeiros externos | Refinanciamento soberano e dívida em moeda estrangeira | Reversões de financiamento podem pressionar peso e dívida; composição dos credores varia historicamente
+```
+
 ## 22. Dolarização informal e a herança social da hiperinflação
 
 Para parte dos argentinos, o dólar não é apenas moeda estrangeira: tornou-se a unidade preferida para poupança de longo prazo, aquisição de imóveis e comparação patrimonial. Esse padrão foi reforçado por repetidas substituições de moeda, confiscos ou restrições bancárias, depreciações, inflação crônica e quebra de promessas de paridade. Quando famílias e empresas deixam de confiar na moeda doméstica, a demanda por dólares permanece elevada até em momentos de queda da inflação. [3][11][13]
