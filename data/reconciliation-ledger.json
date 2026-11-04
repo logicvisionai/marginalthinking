@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-04T03:52:39Z",
+  "last_reconciled_at": "2026-11-04T20:53:02.790Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8300,6 +8300,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI and data-centre financing is a documented investment theme, not a separately verified new technical capability, deployment scale or measurable productivity milestone suitable for a technology signal update."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-argentina-inflation-history-revision-2-reconciliation",
+      "reconciled_at": "2026-11-04T20:53:02.790Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-03-ARGENTINA-INFLATION-HISTORY"
+      ],
+      "audit_note": "Approved historical Argentina inflation dossier revision 2, source SHA-locked, with analytical map and comparable CPI series. All cumulative tools assessed without inventing exposures, assets or new measured program outcomes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Argentina's commodity-export foreign-exchange concentration and external refinancing are evidenced qualitatively but provide no newly audited directed dependency with quantities or counterparties."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Historical inflation research does not introduce an investable new structural project with sponsor, funding, schedule and measured return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "No new ownership, documented formal control or asset-to-actor relation follows from currency history or past governments."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Agricultural export dependence is examined as a monetary mechanism, without new verified resource concessions or beneficial control of reserves."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "Existing canonical Argentina convertibility historical policy case is directly referenced; the longer inflation chronology introduces no new independently evaluable policy case with counterfactual outcomes."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Research covers political history and inflation, without a new verified violent conflict episode or contemporary conflict-systems event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No new claimed, demonstrated or deployed technical milestone requiring a technology ledger change."
         }
       ]
     }
