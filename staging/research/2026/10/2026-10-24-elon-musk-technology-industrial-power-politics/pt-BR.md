@@ -180,7 +180,7 @@ Até 2026, Musk pode ser compreendido como empresário que transformou capital e
 ```chart
 type: bar
 title: Produção e entregas de veículos de consumo da Tesla em 2025
-unit: milhões de veículos; números arredondados do relatório anual
+unit: milhões de veículos; comunicado de produção e entregas da Tesla de 2 de janeiro de 2026 [16], números anuais de 2025 arredondados
 Produção | 1.66
 Entregas | 1.64
 ```
@@ -213,7 +213,7 @@ Os estudos compartilham interseções intelectuais, empresariais ou instituciona
 
 - [Curtis Yarvin](/pt-br/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
 - [Nick Land](/pt-br/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
-- [Peter Thiel](/pt-br/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+A associação histórica entre Peter Thiel e Musk na trajetória do PayPal é examinada no texto; não há remissão para o estudo independente de Thiel enquanto ele não estiver publicado.
 - [Aceleracionismo: genealogia intelectual](/pt-br/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
 
 ## Fontes e bibliografia

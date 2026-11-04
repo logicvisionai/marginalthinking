@@ -21119,5 +21119,149 @@
         "search_text": "A moeda secreta que não era moeda: Schacht, as letras MEFO e o financiamento do rearmamento nazista A engenharia financeira das letras MEFO: a estabilização de Weimar, a dívida militar disfarçada, o redesconto no Reichsbank, as restrições comerciais e as consequências econômicas e políticas do rearmamento. Alemanha Weimar MEFO Schacht 1932 petição Hindenburg rearmamento passivo público extraorçamentário Novo Plano clearing comércio Brasil 1938 1945"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-24-MUSK",
+    "slug": "2026-10-24-elon-musk-technology-industrial-power-politics",
+    "date": "2026-10-24",
+    "published_at": "2026-10-24T21:50:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 36,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "industry-production",
+      "technology-innovation",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "political-stability"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    "related_research": [
+      "2026-10-24-curtis-yarvin-formalism-neoreaction-state",
+      "2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment",
+      "2026-10-24-peter-thiel-finance-technology-and-political-power",
+      "2026-10-24-accelerationism-intellectual-history-capital-technology-politics"
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-10-24; historical primary texts, dated corporate/government records and cited scholarship, including 2026 sources.",
+      "research_depth": "Editorial depth in current source blobs: EN 4915 substantive words / 16 URLs from 11 domains / 24 headings; PT-BR 4786 substantive words / 16 URLs from 11 domains / 24 headings. Does not constitute QA approval.",
+      "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
+      "source_check": "Selected primary publications, corporate filings, NASA materials, academic and archival references were cross-checked; all claim-to-source correspondences require independent editorial QA before promotion.",
+      "visual_signature": "Two source-reproducible charts (Tesla vehicles 2025, NASA 2014 awards), flow, geographic exposure map and comparative tables, exact bilingual chart series; 2025 Tesla counts sourced to 2 Jan 2026 Tesla Investor Relations [16].",
+      "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
+      "editorial_status": "Revision 2 staged with two factual/link QA fixes; source SHA-bound, independent approval required before public release.",
+      "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+      "source_shas": {
+        "en": "ba428494b3d5ef44972d02807e498ff751128a1f",
+        "pt-BR": "8a514d811049c2f0b8d55bcaedc566b3f76ad303"
+      },
+      "revision_2_note": "Linked Yarvin, Land and accelerationism canonical reports verified published 4 November 2026; unapproved Thiel cross-link removed."
+    },
+    "revision_reason": "Resolve source-attribution error for Tesla production/delivery figures and remove an unpublished Peter Thiel cross-link; keep published source-backed related links.",
+    "qa_fixes_applied": [
+      "Replace Tesla chart statement '2025 annual filing' with explicit Tesla Investor Relations January 2, 2026 full-year delivery table [16] in both English and Portuguese.",
+      "Remove the link to unapproved Peter Thiel biography from related research in both languages; retain factual PayPal association in prose.",
+      "Re-check other internal URLs for Yarvin, Nick Land and accelerationism against public index; all three currently exist in the canonical corpus."
+    ],
+    "url": "/reports/2026/10/2026-10-24-elon-musk-technology-industrial-power-politics.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-04T21:06:43.445Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "239f8787192bfa8f27786c59ded286db65d1f73e",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Elon Musk: industrial entrepreneurship, infrastructure power and the politics of technological acceleration",
+        "deck": "Business and institutional biography of PayPal, SpaceX, Tesla, Starlink, X, DOGE, government procurement and industrial scaling.",
+        "tags": [
+          "Elon Musk",
+          "intellectual history",
+          "capital and institutions",
+          "accelerationism"
+        ],
+        "keywords": [
+          "Elon Musk",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Technology, finance and institutional authority under contestation.",
+        "key_risk": "Confusing intellectual reference, capital investment and demonstrable political control.",
+        "watch": [
+          "Primary-source publication record",
+          "Verified company and public-sector disclosures",
+          "Documented relationships and policy outcomes"
+        ],
+        "search_text": "Elon Musk: industrial entrepreneurship, infrastructure power and the politics of technological acceleration Elon Musk political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Elon Musk: empreendedorismo industrial, poder de infraestrutura e política da aceleração tecnológica",
+        "deck": "Biografia empresarial e institucional de PayPal, SpaceX, Tesla, Starlink, X, DOGE, contratos governamentais e expansão industrial.",
+        "tags": [
+          "Elon Musk",
+          "história intelectual",
+          "capital e instituições",
+          "aceleracionismo"
+        ],
+        "keywords": [
+          "Elon Musk",
+          "Curtis Yarvin",
+          "Nick Land",
+          "Peter Thiel",
+          "Elon Musk",
+          "acceleracionism",
+          "neoreaction",
+          "political economy",
+          "institutions",
+          "technology"
+        ],
+        "regime": "Tecnologia, finanças e autoridade institucional em disputa.",
+        "key_risk": "Confundir referência intelectual, investimento de capital e controle político demonstrável.",
+        "watch": [
+          "Publicações primárias",
+          "Documentos empresariais e de órgãos públicos",
+          "Relações comprovadas e resultados de políticas"
+        ],
+        "search_text": "Elon Musk: empreendedorismo industrial, poder de infraestrutura e política da aceleração tecnológica Elon Musk political economy intellectual biography technological acceleration neoreaction capitalism democracy"
+      }
+    }
   }
 ]

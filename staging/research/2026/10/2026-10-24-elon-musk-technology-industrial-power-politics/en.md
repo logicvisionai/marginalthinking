@@ -180,7 +180,7 @@ By 2026 Musk is best understood as an entrepreneur who converted capital and org
 ```chart
 type: bar
 title: Tesla consumer vehicle production and deliveries in 2025
-unit: million vehicles; 2025 annual filing, rounded reported values
+unit: million vehicles; Tesla Investor Relations 2 January 2026 production-and-deliveries release [16], rounded full-year 2025 figures
 Production | 1.66
 Deliveries | 1.64
 ```
@@ -213,7 +213,7 @@ The following studies share verifiable intellectual, business or institutional i
 
 - [Curtis Yarvin](/reports/2026/10/2026-10-24-curtis-yarvin-formalism-neoreaction-state.html)
 - [Nick Land](/reports/2026/10/2026-10-24-nick-land-ccru-accelerationism-dark-enlightenment.html)
-- [Peter Thiel](/reports/2026/10/2026-10-24-peter-thiel-finance-technology-and-political-power.html)
+Peter Thiel's documented association with Musk through PayPal is discussed in the text; no public cross-link is provided until the separate Thiel study is approved.
 - [Accelerationism: intellectual genealogy](/reports/2026/10/2026-10-24-accelerationism-intellectual-history-capital-technology-politics.html)
 
 ## Sources and bibliography
