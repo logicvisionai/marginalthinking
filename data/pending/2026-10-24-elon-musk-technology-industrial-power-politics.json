@@ -103,7 +103,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "research_subject": {
     "name": "Elon Musk",
@@ -120,9 +120,20 @@
     "research_depth": "Editorial depth in current source blobs: EN 4915 substantive words / 16 URLs from 11 domains / 24 headings; PT-BR 4786 substantive words / 16 URLs from 11 domains / 24 headings. Does not constitute QA approval.",
     "translation_parity": "Matching referenced URLs, chronology, quantitative chart series and main argument in English and Brazilian Portuguese, subject to separate QA.",
     "source_check": "Selected primary publications, corporate filings, NASA materials, academic and archival references were cross-checked; all claim-to-source correspondences require independent editorial QA before promotion.",
-    "visual_signature": "Two bilingual-identical numerical bar charts plus causal flow, geographical exposure map and comparative tables.",
+    "visual_signature": "Two source-reproducible charts (Tesla vehicles 2025, NASA 2014 awards), flow, geographic exposure map and comparative tables, exact bilingual chart series; 2025 Tesla counts sourced to 2 Jan 2026 Tesla Investor Relations [16].",
     "methodology": "Distinguish documented interaction from thematic similarity, attribution from proof, government procurement from corporate revenue, normative ideology from technical performance.",
-    "editorial_status": "Long-form bilingual reconstruction complete in staging; independent source-specific review, bibliographic integrity and approval remain pending.",
-    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending."
-  }
+    "editorial_status": "Revision 2 staged with two factual/link QA fixes; source SHA-bound, independent approval required before public release.",
+    "bilingual_parity": "Equivalent section concepts, documented quantitative chart data, visual budget and four explicit cross-references in PT-BR and EN; independent factual-language assessment pending.",
+    "source_shas": {
+      "en": "ba428494b3d5ef44972d02807e498ff751128a1f",
+      "pt-BR": "8a514d811049c2f0b8d55bcaedc566b3f76ad303"
+    },
+    "revision_2_note": "Linked Yarvin, Land and accelerationism canonical reports verified published 4 November 2026; unapproved Thiel cross-link removed."
+  },
+  "revision_reason": "Resolve source-attribution error for Tesla production/delivery figures and remove an unpublished Peter Thiel cross-link; keep published source-backed related links.",
+  "qa_fixes_applied": [
+    "Replace Tesla chart statement '2025 annual filing' with explicit Tesla Investor Relations January 2, 2026 full-year delivery table [16] in both English and Portuguese.",
+    "Remove the link to unapproved Peter Thiel biography from related research in both languages; retain factual PayPal association in prose.",
+    "Re-check other internal URLs for Yarvin, Nick Land and accelerationism against public index; all three currently exist in the canonical corpus."
+  ]
 }
