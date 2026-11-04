@@ -1,0 +1,240 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-04",
+  "slug": "2026-11-04-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-04T03:43:00Z",
+  "reviewed_commit": "9f03b31a797bb788f0934190dec03c453bb1fdfe",
+  "pending_blob_sha": "f8239efcd26f55faa05c5a95123b999abc7ee8e4",
+  "source_blob_shas": {
+    "en": "a952eaef0e9a8df8ea9e3d5cc40e378f6c9daa78",
+    "pt-BR": "14fb3319648ec44c177812b413521b6bc0a1039e"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "All 3 reviewed artifacts fetched from HEAD: pending f8239efcd26f55faa05c5a95123b999abc7ee8e4; EN a952eaef0e9a8df8ea9e3d5cc40e378f6c9daa78; pt-BR 14fb3319648ec44c177812b413521b6bc0a1039e; review 1 with no prior approval or public bundle."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Ready schema v2, ID MT-GM-2026-11-04, daily Global Macro, primary programme political-economy-markets, controlled topics and phenomena, English source, PT-BR parity, no conflicting public ID."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "4 November 2026 00:39 BRT cutoff. 3 November completed Treasury/B3/oil/US equity data; September JOLTS released 3 November; RBA decision 3 November; no 4 November Eurostat flash, Copom result or final US midterm control presented as observed."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Independent primary verification of BLS 7.5m/5.4m/5.3m/3.4m/1.6m/4.5%, Treasury 4.61/4.95/5.32%, RBA 4.85% hike by six-to-three, B3 -1.42%/165528.92/BRL5.48, Reuters Brent103.60 WTI96.09, Eurostat September 3.8% and Fed Oct28 statement. Futures-vs-cargo, openings-vs-hires, observed-vs-scenario distinctions preserved."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "11 identical numbered source URLs on 10 distinct hosts per language. Primary US Treasury, BLS, RBA, B3, Eurostat, Fed and OPEC independently checked against text; Reuters dated settlements and AP equity close cross-checked with B3. Some link-to-claim assessments necessarily sampled; B3 investor article is attributable contemporaneous market reporting not an official historical market data feed."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN 2751 substantive words; PT-BR 3123; both have 9 analytical chapters plus source notes, 2 explicit charts, 2 causal flows, 1 qualitative 5-region exposure map, 10 indicator rows. Material delta vs 3 Nov: completed Nov3 local and international trading, US JOLTS and RBA tightening."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two paired charts with identical series [[4.61,4.95,5.32],[7.5,5.4,5.3,3.4,1.6]], dated units and non-additivity caveat, plus 2 analytical flow diagrams and 5-region map per language; no invented geographic coordinates."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Matching headings, chronological cutoff, indicators, chart values, 11 identical bibliography links, conditional scenarios, causal logic, and attributed limits."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Natural institutional voice without meta descriptions, conversational scaffolding or internal pipeline references in report prose. Future decisions explicitly conditional. No unsupported certainty about US election, Copom or energy transit."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "US labour vacancies robust yet hiring not net payrolls; tech equity gains do not imply credit easing; cheaper futures do not confirm physical relief; RBA hike does not forecast Brazil Copom; late releases not represented as known."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Three falsifiable branches: physical energy normalisation with falling yields; persistent inflation despite lower crude; equity-credit divergence. Observations which would weaken each stated, no fabricated probabilities."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Static reproduction of scripts/validate-editorial-depth.mjs hard gates with source strings and chart values passed for both locales; live npm scripts/validate-pipeline.mjs and full GitHub Actions deploy could not be executed by this tool and remain publisher/deployment validation."
+    }
+  },
+  "contrary_evidence": [
+    "US JOLTS vacancies remain strong but gross hiring and separations do not establish accelerated net payrolls or wage growth.",
+    "3 November Nasdaq and S&P gains diverge from the Dow loss and Brazil's Ibovespa decline; no general global equity recovery established.",
+    "Oil futures settled lower on 3 November but no signed Iran peace accord or physical normalisation of Hormuz deliveries established.",
+    "Australia's RBA tightened 6-3 while the Brazilian Copom outcome had not occurred at cutoff, preventing an assumption of synchronized easing.",
+    "Market expectations in B3 Copom options and Focus do not constitute the Central Bank's actual future decision.",
+    "Eurostat 4 November inflation flash and US election national outcomes were not established at cutoff."
+  ],
+  "limitations": [
+    "Information cutoff 00:39 BRT on November 4, 2026; current 4 November releases and later US election counting omitted.",
+    "Oil figures are dated 3 November futures settlements and not verified physical cargo flows.",
+    "B3's own informational publication reports 165528.92 close, while other media sources show differing final/indicative values; source distinction must be checked during QA.",
+    "US Treasury constant maturity yields derive from indicative market quotations and not a live bond transaction for the exact constant maturity.",
+    "Labour observations refer to September while market observations refer to November 3; cross-period comparisons describe mechanisms not an estimated causal model.",
+    "English and PT-BR drafts were prepared by the same producer and require independent methodological, substantive, and bilingual editorial QA before publication.",
+    "Audit run used GitHub source reads and external primary/major news sources; repository npm validators and final live deployment were not executed in this QA pass.",
+    "B3 investor editorial index close differs slightly from some third-party indicative closing data; reported as attributed B3 value. No quantitative thesis depends on the last tens of index points."
+  ],
+  "notes": "QA gate for revision 1 on immutable three Git blob SHAs; original independent source comparison completed. Source traceability has explicitly documented sampling limitation. No source or index modification; publisher must verify matching SHAs and deployment separately.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-04",
+    "slug": "2026-11-04-global-macro",
+    "date": "2026-11-04",
+    "published_at": "2026-11-04T00:39:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "inequality-distribution",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-04-global-macro/en.md",
+        "title": "Global Macro — Higher bond yields and divergent interest-rate decisions expose the limits of oil relief",
+        "deck": "US job openings at 7.5 million, Treasury ten-year yields at 4.95%, an Australian rate hike, softer crude and Brazil's 1.42% equity decline show why lower energy futures are not yet broad financial easing.",
+        "tags": [
+          "Global Macro",
+          "US JOLTS September",
+          "Treasury term yields",
+          "Australia RBA",
+          "Oil and shipping",
+          "Brazil Ibovespa",
+          "Copom",
+          "AI financing",
+          "US midterms",
+          "European inflation"
+        ],
+        "keywords": [
+          "4 November 2026 global macro",
+          "JOLTS 7.5 million September",
+          "Treasury 10-year 4.95 3 November",
+          "Australia RBA 4.85",
+          "Brent 103.60 WTI 96.09",
+          "Ibovespa 165528.92 down 1.42",
+          "Copom November 4 Selic 13.75",
+          "Eurostat October flash forthcoming"
+        ],
+        "regime": "Resilient US vacancies and selected AI equities coexist with near-5% sovereign yields, Australian monetary tightening, cheaper oil futures and regional credit and currency stress.",
+        "key_risk": "Mistaking lower oil futures and positive technology equity returns for confirmed disinflation or generalized credit easing.",
+        "watch": [
+          "4 November Eurostat October inflation flash, measured versus September 3.8%",
+          "Brazil Copom decision and communication, benchmark at 13.75% before meeting",
+          "US ADP and services output and prices releases",
+          "Verified Hormuz cargo deliveries, refinery throughput and shipping insurance",
+          "US Treasury long yields, corporate spreads and labour-market hiring",
+          "Subsequent official US midterm counts and actual enacted fiscal/regulatory decisions"
+        ],
+        "search_text": "Global Macro early 4 November 2026 employment JOLTS 7.5 million September US Treasury 10-year 4.95% November 3 RBA hikes 4.85 Brazil Ibovespa down 1.42 dollar 5.48 Brent 103.60 WTI 96.09 Fed euro area inflation Copom election AI financing"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-04-global-macro/pt-BR.md",
+        "title": "Global Macro — Juros longos elevados e decisões monetárias divergentes limitam o alívio do petróleo",
+        "deck": "Vagas americanas em 7,5 milhões, Treasury de dez anos a 4,95%, alta de juros na Austrália, queda do petróleo e recuo de 1,42% do Ibovespa expõem os limites do alívio financeiro global.",
+        "tags": [
+          "Global Macro",
+          "JOLTS setembro EUA",
+          "Juros dos Treasuries",
+          "Banco central australiano",
+          "Petróleo e transporte",
+          "Ibovespa",
+          "Copom",
+          "Financiamento da IA",
+          "Eleições EUA",
+          "Inflação europeia"
+        ],
+        "keywords": [
+          "Global Macro 4 novembro 2026",
+          "JOLTS 7,5 milhões setembro",
+          "Treasury dez anos 4,95 3 novembro",
+          "Austrália RBA 4,85",
+          "Brent 103,60 WTI 96,09",
+          "Ibovespa 165528,92 queda 1,42",
+          "Copom 4 novembro Selic 13,75",
+          "prévia inflação Eurostat outubro pendente"
+        ],
+        "regime": "Vagas americanas resistentes e valorização seletiva de tecnologia coexistem com juros soberanos próximos de 5%, aperto monetário australiano, petróleo futuro mais barato e pressão regional sobre câmbio e crédito.",
+        "key_risk": "Confundir recuo de contratos futuros de petróleo e valorização de ações tecnológicas com desinflação comprovada ou afrouxamento geral do crédito.",
+        "watch": [
+          "Prévia de inflação de outubro do Eurostat em 4/11, após setembro a 3,8%",
+          "Decisão e comunicação do Copom, Selic de 13,75% antes da reunião",
+          "Indicadores americanos ADP e serviços",
+          "Embarques por Ormuz, refino e seguros marítimos efetivamente verificados",
+          "Juros longos americanos, spreads de crédito e contratações",
+          "Apuração oficial posterior das eleições e políticas fiscais e regulatórias efetivamente aprovadas"
+        ],
+        "search_text": "Global Macro madrugada 4 novembro 2026 JOLTS vagas 7,5 milhões setembro Treasury 10 anos 4,95% 3 novembro RBA eleva juros 4,85 Brasil Ibovespa queda 1,42 dólar 5,48 Brent 103,60 WTI 96,09 Fed zona do euro Copom eleições IA financiamento"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "4 November 2026 00:39 America/Sao_Paulo (03:39 UTC), with 3 November completed market closes, dated September BLS JOLTS, 3 November RBA decision. No 4 November Copom or Eurostat flash represented as observed; no definitive US congressional control claimed.",
+      "novelty": "Relative to 3 November early edition using 2 November data, this edition adds completed 3 November Brazilian equity and FX trading, September BLS JOLTS, US Treasury par yields for 3 November, Australian RBA 25-basis-point hike, November 3 Brent/WTI settlements, and November 3 US close. Distinguishes earlier oil decline from physical restoration.",
+      "source_check": "11 dated primary/major editorial source URLs present in both locales. BLS 7.5 million vacancies, RBA 4.85% in 6-3 decision, US Treasury 4.61/4.95/5.32, B3 -1.42%/165528.92, Reuters Brent 103.60 WTI 96.09, AP close, Eurostat September 3.8%, BCB Focus calendar and Copom pending, OPEC targets.",
+      "visual_signature": "Two numerically identical chart series per locale: US Treasury yields [4.61,4.95,5.32]; BLS labour quantities [7.5,5.4,5.3,3.4,1.6]. One 10-row indicator table, two causal flow blocks and one 5-region map per locale. Chart periods and non-additive categories labelled.",
+      "bilingual_parity": "Nine same-order sections, equivalent numerical evidence, links, source qualification, tables, charts, flow and geographic exposures. EN ~21,783 characters; PT-BR ~23,661 characters.",
+      "research_depth": "Long-form bilingual daily analysis covering labour-demand measurement, US sovereign duration, RBA inflation mechanism, crude futures vs physical flows, AI capital structure, Brazil B3/FX/fiscal/Copom, Eurostat and conditional scenarios.",
+      "editorial_status": "Producer-only staged ready revision 1. Publication explicitly withheld pending separate independent QA tied to exact Git blobs.",
+      "qa_handoff": "Independently recheck BLS September JOLTS date, RBA decision 6-3/4.85, Treasury 3 November yield curve 2-year 4.61, 10-year 4.95, 30-year 5.32, B3 165528.92 -1.42, Reuters November 3 crude 103.60/96.09, Eurostat September 3.8 and November 4 publication calendar, and 00:39 BRT election/Copom cutoff. Verify 2 identical numerical chart series and source link parity."
+    },
+    "contrary_evidence": [
+      "US JOLTS vacancies remain strong but gross hiring and separations do not establish accelerated net payrolls or wage growth.",
+      "3 November Nasdaq and S&P gains diverge from the Dow loss and Brazil's Ibovespa decline; no general global equity recovery established.",
+      "Oil futures settled lower on 3 November but no signed Iran peace accord or physical normalisation of Hormuz deliveries established.",
+      "Australia's RBA tightened 6-3 while the Brazilian Copom outcome had not occurred at cutoff, preventing an assumption of synchronized easing.",
+      "Market expectations in B3 Copom options and Focus do not constitute the Central Bank's actual future decision.",
+      "Eurostat 4 November inflation flash and US election national outcomes were not established at cutoff."
+    ],
+    "limitations": [
+      "Information cutoff 00:39 BRT on November 4, 2026; current 4 November releases and later US election counting omitted.",
+      "Oil figures are dated 3 November futures settlements and not verified physical cargo flows.",
+      "B3's own informational publication reports 165528.92 close, while other media sources show differing final/indicative values; source distinction must be checked during QA.",
+      "US Treasury constant maturity yields derive from indicative market quotations and not a live bond transaction for the exact constant maturity.",
+      "Labour observations refer to September while market observations refer to November 3; cross-period comparisons describe mechanisms not an estimated causal model.",
+      "English and PT-BR drafts were prepared by the same producer and require independent methodological, substantive, and bilingual editorial QA before publication."
+    ]
+  }
+}
