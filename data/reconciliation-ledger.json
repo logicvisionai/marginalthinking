@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-04T20:53:02.790Z",
+  "last_reconciled_at": "2026-11-04T20:56:17.621Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8345,6 +8345,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No new claimed, demonstrated or deployed technical milestone requiring a technology ledger change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-brazil-2027-economic-outlook-publication-reconciliation",
+      "reconciled_at": "2026-11-04T20:56:17.621Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-03-BRAZIL-2027"
+      ],
+      "audit_note": "Independent QA-approved 2027 economic outlook across domestic fiscal, monetary, financial, industry, trade and external mechanisms; assessed all seven cumulative systems without treating conditional forecasts or planned investments as realized changes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "China, US, EU and Mercosur trade transmission is evidenced with dated aggregate exports, but no single new bilateral commodity-specific dependency edge with matched source, denominator and direction was independently audited for the canonical network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Public financing, concession pipelines and BNDES investment intentions are not documented executed investable projects with owner, physical milestone and verified project return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "No new beneficial ownership, formal company control or observed change in legal control is established by this macroeconomic outlook."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Energy, mineral and rare-earth resources are assessed as sector exposures, without an independently verified new concession, processing capacity, controlled reserve stock or shareholder relationship."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "CBS transition and other institutional reforms remain in implementation; their 2027 distributional/productivity outcomes have not occurred, preventing audited counterfactual policy-case entries."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "US sanctions, global wars and geostrategic frictions are considered external macro risks; no new verified geolocated armed incident or attributed casualty evidence is presented."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI infrastructure and industrial productivity are analyzed as conditional economic mechanisms, without a separately verified deployed capability or realized productivity improvement suitable for a new ledger milestone."
         }
       ]
     }
