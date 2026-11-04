@@ -1,0 +1,161 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-04-PARAGUAY-BANKS-UENO",
+  "slug": "2026-11-04-paraguay-economic-history-banks-ueno-crisis",
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T20:22:00-03:00",
+  "kind": "country-context",
+  "priority": 37,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "PY",
+        "slug": "paraguay"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "fiscal-policy",
+    "monetary-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "institutions-governance",
+    "commodities-resources",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change"
+  ],
+  "phenomena": [
+    "political-stability",
+    "civil-unrest",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "related_research_ids": [
+    "MT-CC-2026-09-23-paraguay"
+  ],
+  "selection_rationale": "Longitudinal original research on Paraguay's economic formation and history, monetary institutions, public and private banks and the Ueno bank resolution announced on 3 November 2026. The preexisting September country dossier does not address banking history and current prudential crisis at this depth.",
+  "contrary_evidence": [
+    "Sovereign investment-grade ratings and satisfactory aggregate banking ratios do not establish that every individual bank has adequate capital, but Ueno failure alone does not establish system-wide insolvency.",
+    "Paraguay's 2026 growth projections and pre-crisis capital ratios are of distinct dates and should not be read as post-intervention indicators.",
+    "The Paraguayan state's 19th century industry and state intervention do not demonstrate that it was inevitably destined to industrialize without the Triple Alliance War.",
+    "Corruption or conflict-of-interest allegations surrounding political and banking figures are not criminal convictions or proof of specific wrongdoing.",
+    "Public deposits reportedly held at Ueno are exposures, not yet established final losses; recovery is unknown."
+  ],
+  "limitations": [
+    "Cutoff is November 4, 2026; Ueno asset valuations, coverage, claims ranking, payouts and criminal proceedings continue to evolve.",
+    "Historical accounts of demographic loss during the Triple Alliance War differ; a single death toll is deliberately avoided.",
+    "The historical figures on bank failures and estimated costs depend on institutional definitions and the period measured.",
+    "The 2026 GDP and fiscal estimates are forecasts published before the resolution, not final year results.",
+    "Reported Ueno public-deposit exposure of US$800–850 million and IPS exposure around US$380 million require subsequent official reconciliation.",
+    "Historical country case and modern banking supervision are linked through documented mechanisms rather than direct uninterrupted causation."
+  ],
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/en.md",
+      "title": "Paraguay: Economic History, Banking Institutions and the Ueno Crisis of 2026",
+      "deck": "From Guaraní society, state-directed modernization and the Triple Alliance War to Itaipu, the 1995–2003 bank failures, monetary reforms, public finance and the November 2026 Ueno resolution.",
+      "tags": [
+        "Paraguay",
+        "Economic history",
+        "Guarani",
+        "BCP",
+        "Ueno Bank",
+        "Deposit insurance",
+        "Banking regulation",
+        "Itaipu",
+        "Public banks",
+        "Financial crisis",
+        "Santiago Peña"
+      ],
+      "keywords": [
+        "Paraguay full economic history 1811 1870 1952 2026",
+        "Banco Central del Paraguay BCP history 1952",
+        "Paraguay 1995 1997 2002 2003 banking crises",
+        "Paraguay November 2026 Ueno resolution IPS public deposits"
+      ],
+      "regime": "Paraguay's 2026 macroeconomic stability and investment grade coexist with a major institution-specific bank resolution and unresolved questions about public deposits, governance and banking supervision.",
+      "key_risk": "Presenting Ueno's insolvency as system-wide collapse, treating disputed allegations as convictions, mixing forecasts and observed values or misrepresenting deposits as definitive taxpayer losses.",
+      "watch": [
+        "BCP resolution updates and FGD payouts",
+        "IPS and public-sector deposit reconciliation",
+        "Other banks' deposits, liquidity and interbank funding",
+        "Criminal and congressional proceedings",
+        "Fiscal contingencies and banking supervision reforms"
+      ],
+      "search_text": "Paraguay economic and monetary history Guarani Francia Lopez Triple Alliance War Stroessner Itaipu banking crises 1995 2002 Ueno Bank November 2026 BCP IPS BNF AFD"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/pt-BR.md",
+      "title": "Paraguai: a formação da economia, o sistema bancário e a ruptura do Ueno em 2026",
+      "deck": "Das economias guaranis, da modernização estatal e da Guerra da Tríplice Aliança a Itaipu, crises de 1995–2003, banco central, bancos públicos e privados e resolução do Ueno em novembro de 2026.",
+      "tags": [
+        "Paraguai",
+        "História econômica",
+        "Guarani",
+        "Banco Central",
+        "Ueno Bank",
+        "Garantia de depósitos",
+        "Regulação bancária",
+        "Itaipu",
+        "Bancos públicos",
+        "Crise financeira",
+        "Santiago Peña"
+      ],
+      "keywords": [
+        "história econômica completa do Paraguai 1811 1870 1952 2026",
+        "Banco Central del Paraguay história",
+        "crises bancárias paraguaias 1995 1997 2002 2003",
+        "resolução Ueno novembro 2026 IPS depósitos públicos"
+      ],
+      "regime": "A estabilidade macroeconômica e o grau de investimento em 2026 coexistem com a resolução de um banco significativo e dúvidas sobre depósitos públicos, governança e fiscalização.",
+      "key_risk": "Confundir insolvência do Ueno com colapso sistêmico, tratar acusações como condenações, misturar projeções com resultados ou chamar depósitos expostos de prejuízo definitivo.",
+      "watch": [
+        "Comunicados do BCP e pagamentos do FGD",
+        "Conciliação de depósitos do IPS e outros órgãos",
+        "Saques, liquidez e custo de captação de outros bancos",
+        "Investigações criminais e processo político",
+        "Contingências fiscais e reformas de fiscalização"
+      ],
+      "search_text": "Paraguai história econômica Francia López Guerra da Tríplice Aliança Stroessner Itaipu crise bancária 1995 2002 Ueno Bank novembro 2026 BCP IPS BNF AFD"
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "November 4, 2026; latest Ueno and political developments verified through that date.",
+    "research_depth": "31 core sections plus seven other analytical/visual headings and bibliography; PT-BR 53,140 characters / about 7,283 words; EN 44,870 characters / about 5,791 words; 27 numbered bibliographic sources per locale.",
+    "visual_signature": "Both editions: 2 bar charts with identical values; 1 evidence table, 1 two-line causal flow, 1 financial-system mindmap and a 4-region economic transmission map.",
+    "methodological_cautions": "Different vintages for data and projections, macro indicators not bank-specific solvency, unresolved political allegations and pending judicial outcomes.",
+    "source_shas": {
+      "en": "900c9ae2e829574f141844e0ac9c10153462fb79",
+      "pt-BR": "1ef89f9d7ad88a134147a4a199d02cb945783aa3"
+    },
+    "status": "Staged as pending, awaiting independent editorial QA. Not approved, not promoted to public reports and not deployed."
+  }
+}
