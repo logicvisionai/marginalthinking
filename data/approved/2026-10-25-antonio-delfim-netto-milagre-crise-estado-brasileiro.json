@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-10-25-DELFIM",
+  "slug": "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro",
+  "revision": 2,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-04T21:11:35.920Z",
+  "reviewed_commit": "ac709b3c583946badee720ce8664da0a26db78b3",
+  "pending_blob_sha": "84d7575dc02a5bd8fc850c61c769fed4c401c79f",
+  "source_blob_shas": {
+    "en": "e4ae94dc7b7e722e62315ebdc982374df7e99141",
+    "pt-BR": "c1dfd8a86549079975ef7e43b5910ce9a8adc97f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Read full revised EN/PT sources and v2 pending on same branch; exact source fingerprints match, original r1 rejection retained and no existing public report."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Ready schema v2, revision 2 strategic-actors within political-economy-markets programme, controlled topics, EN source, PT-BR translation, no new institutional category."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Brazil 1967–1974 Finance, 1975–1978 France ambassadorship, 1979–1985 Planning, parliamentary 1987–2007, death 2024; source biographies have correct chronology and are not recent-current predictions."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Chamber of Deputies biographical position record explicitly confirms 1975–1978 France ambassadorship. Folha historical dossier documents two separate allegations, records CPI nonconfirmation for French commissions and reports 1994 Supreme Federal Court acquittal in the Caixa/Coroa–Brastel lending controversy. Neither an allegation nor reported verdict generalized. DHM directly grounds Schacht 1923 Rentenmark coordination, IMT directly grounds Nazi rearmament MEFO finance."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "15 unique source URLs across both languages, including original Chamber biography, historic Folha dossier, German Historical Museum chronology and International Military Tribunal transcript; dossier has additional USP, FGV, Unicamp, FAPESP sources. Major corrected claims compared directly to originals; full 1967–1985 fiscal archival statistical reconciliation not executed."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "27 chapter body extended to 28 analytical sections plus bibliography, 4271 English and 4800 Portuguese substantive words, public fiscal/industrial context, inequality, rights, debt, civic aftermath, contested record with judicial qualifications."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two numerically identical charts in each language: tenure [7,6,20] years and output growth [10.2,14] annual percentage; both have labels, period qualifiers. One causal flow and one geographic exposure map and 14 table lines paired with each language."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Corrected 1975–78 dates and allegations/1994 judicial outcome aligned in EN/PT, cross-country Schacht direct source citations [16]/[17] added in both, equivalent visual values and 15 identical URL sources."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Direct institutional prose, document distinctions between allegation, CPI nonconfirmation and Folha-reported acquittal; historic source not mischaracterized as direct judicial ruling. No conversational instruction or unsourced assertion of criminal responsibility."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Positive growth and university scholarship coexist with AI-5 and inequality; unconfirmed commissions and reported acquittal explicitly prevent treating allegations as guilt; comparative German financial mechanism not regime equivalence."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Growth versus authoritarian necessity explicitly requires evidence, external crisis versus domestic policy responsibilities distinguished, source qualifications preserved."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Reproduced v2 source structural gates for >=1700 substantive words, two charts, one table/flow/map, >6 headings, 15 original URLs and numeric parity; complete npm CI build remains required."
+    }
+  },
+  "contrary_evidence": [],
+  "limitations": [
+    "Historical lawsuit and CPI outcomes are reported through Folha's historical article, not a newly authenticated full judicial docket or CPI transcript.",
+    "Source sample focuses on three previously rejected factual/research-integrity issues; other empirical claims remain subject to institutional source limitations.",
+    "Static source-level validator reproduced, not full npm test/build on local clone."
+  ],
+  "notes": "Supersedes unpublished rejected revision 1, with three documented corrections. Source SHA changes after approval would invalidate publication.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-10-25-DELFIM",
+    "slug": "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro",
+    "date": "2026-10-25",
+    "published_at": "2026-10-25T00:08:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 40,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/10/2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro/en.md",
+        "title": "Antônio Delfim Netto: Brazil's economic miracle, dictatorship and debt crisis",
+        "deck": "Economic biography of USP research, the 1967–1973 boom, income inequality, AI-5, export and credit policies, 1979–1985 debt adjustment, democratic transition and parliamentary career.",
+        "tags": [
+          "Antônio Delfim Netto",
+          "biography",
+          "political economy",
+          "international history",
+          "institutions"
+        ],
+        "keywords": [
+          "Antônio Delfim Netto",
+          "international power",
+          "economic history",
+          "military policy",
+          "monetary institutions",
+          "democratic legitimacy",
+          "historical biography"
+        ],
+        "regime": "Historic decisions linking institutional authority, production, finance and conflict.",
+        "key_risk": "Treating authors' memoirs and legal verdicts as complete historical assessments.",
+        "watch": [
+          "Archival and museum record",
+          "Primary governmental and financial records",
+          "Competing specialist historical literature"
+        ],
+        "search_text": "Antônio Delfim Netto: Brazil's economic miracle, dictatorship and debt crisis Economic biography of USP research, the 1967–1973 boom, income inequality, AI-5, export and credit policies, 1979–1985 debt adjustment, democratic transition and parliamentary career. Antônio Delfim Netto original documents historical institutions finance diplomacy empire"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/10/2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro/pt-BR.md",
+        "title": "Antônio Delfim Netto: desenvolvimento, milagre econômico, ditadura e a crise brasileira",
+        "deck": "Biografia econômica da pesquisa na USP, crescimento de 1967–1973, desigualdade, AI-5, crédito e exportações, crise de 1979–1985, transição democrática e atuação parlamentar.",
+        "tags": [
+          "Antônio Delfim Netto",
+          "biografia",
+          "economia política",
+          "história internacional",
+          "instituições"
+        ],
+        "keywords": [
+          "Antônio Delfim Netto",
+          "international power",
+          "economic history",
+          "military policy",
+          "monetary institutions",
+          "democratic legitimacy",
+          "historical biography"
+        ],
+        "regime": "Decisões históricas conectando autoridade institucional, produção, finanças e conflito.",
+        "key_risk": "Tratar memórias e sentenças judiciais como avaliações históricas completas.",
+        "watch": [
+          "Acervos históricos e museológicos",
+          "Registros governamentais e financeiros primários",
+          "Historiografia especializada divergente"
+        ],
+        "search_text": "Antônio Delfim Netto: desenvolvimento, milagre econômico, ditadura e a crise brasileira Biografia econômica da pesquisa na USP, crescimento de 1967–1973, desigualdade, AI-5, crédito e exportações, crise de 1979–1985, transição democrática e atuação parlamentar. Antônio Delfim Netto original documents historical institutions finance diplomacy empire"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "sovereign-debt",
+      "industry-production",
+      "institutions-governance",
+      "inequality-distribution",
+      "trade-investment"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "political-stability",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "research_subject": {
+      "name": "Antônio Delfim Netto",
+      "type": "person"
+    },
+    "related_research": [
+      "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+      "2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy"
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-10-25",
+      "research_depth": "EN 4020 words, 13 distinct URLs from 12 domains. PT-BR 4567 words, 13 distinct URLs from 12 domains. Source word counts exclude fenced visuals and URL tokens.",
+      "source_check": "Chamber biography confirms 1975–78 France; Folha's AI-5 historical dossier documents accusations, CPI nonconfirmation and reported STF 1994 acquittal; DHM and IMT documents support Schacht comparison.",
+      "visual_signature": "Two bilingual-comparable numeric charts with series [[\"7\",\"6\",\"20\"],[\"10.2\",\"14\"]], chronological table, causal flow and geographic exposure map per language.",
+      "translation_parity": "Equal chronology and primary claim structure, independently authored idiomatic translations, numeric chart parity; editorial fact-level translation QA pending.",
+      "methodology": "Separate actions taken by the subject from memoir narrative, collective institutional work, legal culpability and conjecture; distinguish nominal financial amounts from real production and impacted populations.",
+      "editorial_status": "Staged corrected revision 2, independent QA pending; public output prohibited until SHA-bound approval.",
+      "source_shas": {
+        "en": "e4ae94dc7b7e722e62315ebdc982374df7e99141",
+        "pt-BR": "c1dfd8a86549079975ef7e43b5910ce9a8adc97f"
+      }
+    },
+    "revision_reason": "Correct ambassador-to-France tenure to 1975–78 against Chamber biography, cite German primary/institutional source for Schacht comparison and include accurately attributed allegations, parliamentary inquiry nonconfirmation and reported 1994 Supreme Federal Court acquittal.",
+    "qa_fixes_applied": [
+      "Replace 1974–78 with Chamber of Deputies verified 1975–78 ambassador tenure in both chronologies.",
+      "Add DHM biography and Nuremberg transcript directly to German Schacht comparison instead of only Brazilian FGV/BCB documents.",
+      "Add distinct editorial passage to each language citing Folha dossier: accusations involving French business commissions unconfirmed by CPI; separate Caixa lending controversy and Folha-reported 1994 STF acquittal. Neither accusations nor acquittal overgeneralized."
+    ]
+  }
+}

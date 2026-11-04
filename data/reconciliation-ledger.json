@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-04T21:07:29.851Z",
+  "last_reconciled_at": "2026-11-04T21:12:25.827Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8480,6 +8480,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Existing Tesla production and NASA award historical measures are evidence of business operations, not a newly demonstrated technical benchmark or deployment delta requiring a separate signal update."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-delfim-biography-revision-2-publication-reconciliation",
+      "reconciled_at": "2026-11-04T21:12:25.827Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-10-25-DELFIM"
+      ],
+      "audit_note": "SHA-approved historical Delfim Netto biography revision 2, corrected source-specific French embassy term, Schacht economic comparison and proven/unproven controversy distinction; all seven canonical assets reviewed.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Historical debt refinancing and oil import exposures document macro mechanisms but do not provide a new canonical directed quantified dependency edge with a defensible denominator and date."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Economic miracle state investments are historical, not current investable opportunities with audited financing or future project milestones."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Delfim's documented government and parliamentary offices do not introduce a newly audited contemporary beneficial ownership or legal control relation suitable for the canonical dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Descriptions of oil shocks and industrial capacity do not demonstrate new rights, reserves, concessions or change of resource control."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Credit, wage and macro policies are discussed historically, but no newly validated causal effect estimate or comparable control framework warrants creating a canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The 1968 AI-5 and military dictatorship are political rights and institutional context; no new independently verified contemporary geolocated armed incident is established."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Historical industrial methods and monetary policy do not describe a new demonstrated or deployed technological milestone."
         }
       ]
     }

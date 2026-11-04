@@ -1,0 +1,137 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-SA-2026-10-25-DELFIM",
+  "slug": "2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T00:08:00-03:00",
+  "kind": "strategic-actors",
+  "priority": 40,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "sovereign-debt",
+    "industry-production",
+    "institutions-governance",
+    "inequality-distribution",
+    "trade-investment"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "political-stability",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 2,
+  "assessment_confidence": "medium",
+  "research_subject": {
+    "name": "Antônio Delfim Netto",
+    "type": "person"
+  },
+  "related_research": [
+    "2026-10-24-roberto-campos-a-lanterna-na-popa-economic-policy",
+    "2026-10-25-hjalmar-schacht-reichsbank-mefo-nazi-economy"
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-10-25",
+    "research_depth": "EN 4020 words, 13 distinct URLs from 12 domains. PT-BR 4567 words, 13 distinct URLs from 12 domains. Source word counts exclude fenced visuals and URL tokens.",
+    "source_check": "Chamber biography confirms 1975–78 France; Folha's AI-5 historical dossier documents accusations, CPI nonconfirmation and reported STF 1994 acquittal; DHM and IMT documents support Schacht comparison.",
+    "visual_signature": "Two bilingual-comparable numeric charts with series [[\"7\",\"6\",\"20\"],[\"10.2\",\"14\"]], chronological table, causal flow and geographic exposure map per language.",
+    "translation_parity": "Equal chronology and primary claim structure, independently authored idiomatic translations, numeric chart parity; editorial fact-level translation QA pending.",
+    "methodology": "Separate actions taken by the subject from memoir narrative, collective institutional work, legal culpability and conjecture; distinguish nominal financial amounts from real production and impacted populations.",
+    "editorial_status": "Staged corrected revision 2, independent QA pending; public output prohibited until SHA-bound approval.",
+    "source_shas": {
+      "en": "e4ae94dc7b7e722e62315ebdc982374df7e99141",
+      "pt-BR": "c1dfd8a86549079975ef7e43b5910ce9a8adc97f"
+    }
+  },
+  "revision_reason": "Correct ambassador-to-France tenure to 1975–78 against Chamber biography, cite German primary/institutional source for Schacht comparison and include accurately attributed allegations, parliamentary inquiry nonconfirmation and reported 1994 Supreme Federal Court acquittal.",
+  "qa_fixes_applied": [
+    "Replace 1974–78 with Chamber of Deputies verified 1975–78 ambassador tenure in both chronologies.",
+    "Add DHM biography and Nuremberg transcript directly to German Schacht comparison instead of only Brazilian FGV/BCB documents.",
+    "Add distinct editorial passage to each language citing Folha dossier: accusations involving French business commissions unconfirmed by CPI; separate Caixa lending controversy and Folha-reported 1994 STF acquittal. Neither accusations nor acquittal overgeneralized."
+  ],
+  "url": "/reports/2026/10/2026-10-25-antonio-delfim-netto-milagre-crise-estado-brasileiro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-04T21:11:35.920Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "ac709b3c583946badee720ce8664da0a26db78b3",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Antônio Delfim Netto: Brazil's economic miracle, dictatorship and debt crisis",
+      "deck": "Economic biography of USP research, the 1967–1973 boom, income inequality, AI-5, export and credit policies, 1979–1985 debt adjustment, democratic transition and parliamentary career.",
+      "tags": [
+        "Antônio Delfim Netto",
+        "biography",
+        "political economy",
+        "international history",
+        "institutions"
+      ],
+      "keywords": [
+        "Antônio Delfim Netto",
+        "international power",
+        "economic history",
+        "military policy",
+        "monetary institutions",
+        "democratic legitimacy",
+        "historical biography"
+      ],
+      "regime": "Historic decisions linking institutional authority, production, finance and conflict.",
+      "key_risk": "Treating authors' memoirs and legal verdicts as complete historical assessments.",
+      "watch": [
+        "Archival and museum record",
+        "Primary governmental and financial records",
+        "Competing specialist historical literature"
+      ],
+      "search_text": "Antônio Delfim Netto: Brazil's economic miracle, dictatorship and debt crisis Economic biography of USP research, the 1967–1973 boom, income inequality, AI-5, export and credit policies, 1979–1985 debt adjustment, democratic transition and parliamentary career. Antônio Delfim Netto original documents historical institutions finance diplomacy empire"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Antônio Delfim Netto: desenvolvimento, milagre econômico, ditadura e a crise brasileira",
+      "deck": "Biografia econômica da pesquisa na USP, crescimento de 1967–1973, desigualdade, AI-5, crédito e exportações, crise de 1979–1985, transição democrática e atuação parlamentar.",
+      "tags": [
+        "Antônio Delfim Netto",
+        "biografia",
+        "economia política",
+        "história internacional",
+        "instituições"
+      ],
+      "keywords": [
+        "Antônio Delfim Netto",
+        "international power",
+        "economic history",
+        "military policy",
+        "monetary institutions",
+        "democratic legitimacy",
+        "historical biography"
+      ],
+      "regime": "Decisões históricas conectando autoridade institucional, produção, finanças e conflito.",
+      "key_risk": "Tratar memórias e sentenças judiciais como avaliações históricas completas.",
+      "watch": [
+        "Acervos históricos e museológicos",
+        "Registros governamentais e financeiros primários",
+        "Historiografia especializada divergente"
+      ],
+      "search_text": "Antônio Delfim Netto: desenvolvimento, milagre econômico, ditadura e a crise brasileira Biografia econômica da pesquisa na USP, crescimento de 1967–1973, desigualdade, AI-5, crédito e exportações, crise de 1979–1985, transição democrática e atuação parlamentar. Antônio Delfim Netto original documents historical institutions finance diplomacy empire"
+    }
+  }
+}
