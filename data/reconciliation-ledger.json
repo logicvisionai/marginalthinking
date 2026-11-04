@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-03T17:18:49.359Z",
+  "last_reconciled_at": "2026-11-04T03:52:39Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8255,6 +8255,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Military drones, surveillance and data-link modernisation are analysed as sector trends; no new independently measured technology milestone with a demonstrated performance or deployment delta was established."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-04T03:52:39Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-04"
+      ],
+      "audit_note": "4 November bilingual Global Macro publication after SHA-bound research QA. Financial yields, oil-futures prices, central bank action and equity closing values are dated observations; qualitative transmission mechanisms do not alone justify adding unmeasured dependencies or investing/technology system outcomes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Observed US yields, Brazil FX and petroleum futures are dated macro prices rather than a newly audited bilateral dependency edge with quantified weights and dated counterparties; no unsupported new network relation recorded."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Discussion of AI data centres, energy and credit identifies no newly verified investable project with sponsor, budget, offtake, physical milestones and expected return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Fed, RBA, BCB and listed companies have no newly established beneficial ownership, governance or business control relationship for the actor dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil futures and transit risk are not evidence of new resource rights, concessions, reserves, storage ownership or extraction control changes."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The 3 November RBA hike is an observed policy decision but subsequent inflation, household consumption and employment outcomes are not yet observed; the 4 November Copom decision was still pending at cutoff. No credible evaluated policy counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Iran mediation and shipping risk are discussed through market prices, but no independently audited new geolocated incident, actor attribution or verified physical harm is documented by this brief for a conflict record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI and data-centre financing is a documented investment theme, not a separately verified new technical capability, deployment scale or measurable productivity milestone suitable for a technology signal update."
         }
       ]
     }
