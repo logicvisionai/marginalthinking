@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-04T20:56:17.621Z",
+  "last_reconciled_at": "2026-11-04T21:02:00.276Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8390,6 +8390,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI infrastructure and industrial productivity are analyzed as conditional economic mechanisms, without a separately verified deployed capability or realized productivity improvement suitable for a new ledger milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-schacht-mefo-revision-2-publication-reconciliation",
+      "reconciled_at": "2026-11-04T21:02:00.276Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-10-25-SCHACHT"
+      ],
+      "audit_note": "SHA-approved revision 2 of archival historical MEFO research, independently reviewed for chart evidence, documentary source use, 1932 petition and qualifying historical mechanisms; seven cumulative tools individually reviewed with no speculative changes.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Bilateral clearing and import controls are historically documented, but no newly verified, quantitatively comparable bilateral dependency weight, direction, and period is established for the current dependency network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Historical German wartime finance does not present a current investable project with audited sponsor, expected return, capital and physical delivery."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Schacht's documented political roles and historical influence are not new contemporary beneficial ownership or legally operative control relationships supported for the canonical strategic actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Trade administration and raw-material import priorities do not establish a newly audited ownership or concession over natural resources."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The MEFO financing mechanism and rearmament are historically reconstructed, but no verified new cross-policy measured outcome with a credible counterfactual was established for canonical policy-case structures."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Rearmament and historical war preparation are evaluated as past political economic history; the report establishes no newly dated, attributed and geolocated contemporary armed incident."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Historical financial instruments and military procurement do not constitute a new demonstrated or deployed technological capability."
         }
       ]
     }
