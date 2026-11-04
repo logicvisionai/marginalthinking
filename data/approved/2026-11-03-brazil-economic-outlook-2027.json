@@ -1,0 +1,288 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-03-BRAZIL-2027",
+  "slug": "2026-11-03-brazil-economic-outlook-2027",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-04T20:55:04.283Z",
+  "reviewed_commit": "9b1aae592bc7f6968df5da4144a67a05e28eae96",
+  "pending_blob_sha": "031978cfa7871f295b246c61390fb4001c994dba",
+  "source_blob_shas": {
+    "en": "fd3673da4c68a67d33b6a50e06a53228e55a69f1",
+    "pt-BR": "14d345ec13f77e219a4c8768a9154c95bf095c62"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Exact Git blob binding of 031978cfa7871f295b246c61390fb4001c994dba (pending), fd3673da4c68a67d33b6a50e06a53228e55a69f1 (EN) and 14d345ec13f77e219a4c8768a9154c95bf095c62 (PT-BR), with source SHA claims matching. No earlier public bundle or approval under this ID."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Schema v2 source_locale en, revision 1, political-economy-markets with Brazil country geography and controlled topics/phenomena; new descriptive kind structural-economic-outlook registered as editorial line within existing programme, without taxonomy change."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "As-of 3 November 2026 information cutoff. 2027 GDP, fiscal, inflation, currency and interest estimates explicitly labeled forecasts from institution-specific vintages. 2026 Jan-Sep trade and quarterly macro observations have dated source and do not masquerade as realised 2027 data."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Key institutional claims cross-checked: 2027 PLOA R$18.6bn full vs R$83.4bn adjusted primary estimates, target R$73.2bn and R$2.576tn primary ceiling (Planning Ministry); Selic Jan-Sep path 15,14.75,14.5,14.25,14,13.75 and BCB Sep GDP2027 1.4; Sept SPE GDP2027 2.3; Jul IMF 2.2 GDP2027 and 3.1 CPI; World Bank 1.7 GDP2027; Oct Prisma Fiscal R$44bn primary deficit and 87% DBGG; MDIC Jan–Sep export partners [84.68,44.15,27.46,11.58] USD bn; EU-Mercosur provisional May1 2026. Observed, forecast, budget appropriations, fiscal balance definitions and actual trade differentiated."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "Thirty matching primary and institutional original URLs in each locale across 17 distinct hosts, with source inventory at end and inline numbered citations. Verified central macro, fiscal, trade and treaty mechanisms from BCB, MPO, SPE, IMF, World Bank, MDIC, Council EU and government Prisma. Exhaustive line-by-line verification of each international source and every individual sector example is not possible in this review, so approval retains explicit sampling caveat."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN approximately 9746 substantive words and PT-BR 11223, with 35 ordered analytical chapters plus bibliography, full national macro, banks/credit, regional trade blocs, sectors, infrastructure, institutions, AI, climate, and three conditional 2027 outlooks. Not a brief topical outline."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Three numeric charts in both languages: dated GDP forecast [1.2,1.4,1.7,2.2,2.3], observed Selic target series [15,14.75,14.5,14.25,14,13.75], and Jan–Sep 2026 country/region exports [84.68,44.15,27.46,11.58]; all paired exactly. Also table evidence >=31 Markdown rows, 1 causal flow and 1 geographic exposure map per language; labels distinguish units/vintages and selected destinations."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Exact 35-section analytical structure, 30 identical bibliography URLs, equal chart values and source periods, equivalent scenario, balance sheet and fiscal caveats with fluent idiomatic Portuguese and English."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Long-form institutional prose free from conversational instructions, duplicated meta descriptions, fabricated illustrative media, or electoral endorsement. Figures are source-backed and qualified; dates and causal links explicit."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Forecast range not uncertainty band; adjusted PLOA surplus not full balance; China trade surplus not competitiveness guarantee; EU treaty provisional application not observed benefits; BRICS settlement systems not common currency."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Three conditional paths and next-year monitoring signals explicitly identify criteria that would weaken investment recovery, fiscal credibility, disinflation and external-trade theses; no own probabilities assigned."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Source-level validation reproduced structural thresholds and exact chart values, 30 link parity and registry kind registration. Full npm run build/validate-pipeline and downstream deployment must be established by GitHub CI; not attested here."
+    }
+  },
+  "contrary_evidence": [
+    "Forecasts range from 1.2% to 2.3% real GDP growth using different institutions, dates and model assumptions; none is a realised 2027 figure.",
+    "The 2027 draft budget's R$83.4 billion adjusted primary surplus differs from its R$18.6 billion full primary balance and should not be treated as the same fiscal outcome.",
+    "The EU–Mercosur interim trade agreement has been provisionally applied to Brazil since 1 May 2026, but measured investment and export effects require subsequent evidence.",
+    "China's large bilateral trade surplus does not identify Brazilian industrial competitiveness or future commodity prices.",
+    "BRICS payment interoperability and local-currency settlement are not a common currency or a unified capital market."
+  ],
+  "limitations": [
+    "The 2027 budget remains a proposal as of the information cutoff; neither appropriation nor project pipeline constitutes executed spending.",
+    "2026 data from GDP, credit, fiscal and trade statistics have different observation dates and should not be presented as one synchronized monthly release.",
+    "GDP forecast vintages are shown for comparison, not as a statistical confidence interval or political performance ranking.",
+    "Underlying financial and market figures are from public institutional reporting and do not include firm-by-firm audited financial statements.",
+    "Conditional scenarios are not assigned subjective probabilities or invented GDP levels.",
+    "Fact checking concentrated on primary sources for headline quantitative claims and institutional claims; 30 source URLs catalogued but not all original sector studies read in full.",
+    "Comparison of institutional 2027 growth forecasts is illustrative and cannot be used as a statistically pooled forecast or confidence interval.",
+    "Complete npm build and static public output were not executed by the source connector; GitHub Actions must validate before treating the site as live."
+  ],
+  "notes": "Editorial programme mapping fixed by adding a registered editorial-line kind, with no new taxonomy programme. Published report must preserve this precise schema-v2 snapshot and SHA-bound staging content.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-03-BRAZIL-2027",
+    "slug": "2026-11-03-brazil-economic-outlook-2027",
+    "date": "2026-11-03",
+    "published_at": "2026-11-03T15:00:00-03:00",
+    "kind": "structural-economic-outlook",
+    "priority": 48,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-03-brazil-economic-outlook-2027/en.md",
+        "title": "Brazil 2027: Growth, Debt, Industry and the Contest for Economic Space",
+        "deck": "A full political-economic assessment of Brazil's 2027 outlook: fiscal arithmetic, central banking, credit, households, enterprises, markets, trade blocs, resources, infrastructure, technology, climate and conditional growth paths.",
+        "tags": [
+          "Brazil",
+          "2027",
+          "macroeconomics",
+          "fiscal policy",
+          "Selic",
+          "banking",
+          "B3",
+          "BRICS",
+          "Mercosur",
+          "European Union",
+          "China",
+          "United States",
+          "industry",
+          "trade",
+          "productivity"
+        ],
+        "keywords": [
+          "Brazil 2027 economic outlook",
+          "Brazil 2027 GDP forecasts",
+          "Selic 2027",
+          "Brazil 2027 federal budget",
+          "Brazil debt sustainability",
+          "Brazil China trade 2026",
+          "Brazil US tariffs 2026",
+          "EU Mercosur agreement 2026",
+          "BRICS payments",
+          "Brazil banking credit 2026",
+          "Brazil tax reform CBS 2027",
+          "Brazil stock market B3",
+          "Brazil agricultural outlook",
+          "Brazil industrial productivity",
+          "Brazil conditional economic scenarios"
+        ],
+        "regime": "Growth projections diverge as monetary restraint, public debt and private investment interact with trade opportunities and international risk.",
+        "key_risk": "Treating forecast vintages as outcomes, planned budget appropriations as executed investment, adjusted primary balances as full fiscal surpluses, or treaty signature as commercial results.",
+        "watch": [
+          "Central Bank 2027 inflation, interest-rate and GDP releases",
+          "2027 full versus target-adjusted primary fiscal balance and debt dynamics",
+          "Credit delinquency, household debt service and long-dated corporate funding",
+          "Investment execution and infrastructure delivery against announced projects",
+          "EU–Mercosur preference utilisation, US tariffs and exports to China and Argentina",
+          "CBS rollout and investment/productivity measurements"
+        ],
+        "search_text": "Brazil 2027 economic challenges in depth fiscal debt Selic central bank inflation credit banks B3 equities capital markets companies industrial production agriculture oil gas renewables infrastructure labor inequality taxes CBS IBS BRICS Mercosur EU United States China trade current account climate investment productivity conditional scenarios"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-03-brazil-economic-outlook-2027/pt-BR.md",
+        "title": "Brasil 2027: crescimento, dívida, indústria e a disputa por espaço na economia mundial",
+        "deck": "Diagnóstico integral dos desafios econômicos brasileiros de 2027: fiscal, Banco Central, inflação, crédito, empresas, bolsa, agropecuária, indústria, energia, BRICS, Mercosul, União Europeia, EUA, China e cenários condicionais.",
+        "tags": [
+          "Brasil",
+          "2027",
+          "economia brasileira",
+          "dívida pública",
+          "Selic",
+          "Banco Central",
+          "bancos",
+          "B3",
+          "BRICS",
+          "Mercosul",
+          "União Europeia",
+          "China",
+          "Estados Unidos",
+          "indústria",
+          "produtividade"
+        ],
+        "keywords": [
+          "desafios econômicos Brasil 2027",
+          "PIB brasileiro 2027",
+          "juros Selic 2027",
+          "orçamento 2027",
+          "dívida pública brasileira",
+          "mercado financeiro B3",
+          "bolsa de valores",
+          "BRICS moeda comum",
+          "Mercosul União Europeia 2026",
+          "China exportações brasileiras",
+          "tarifas EUA Brasil",
+          "reforma tributária CBS 2027",
+          "bancos brasileiros",
+          "economia interna",
+          "agropecuária brasileira",
+          "crescimento e produtividade",
+          "cenários econômicos 2027"
+        ],
+        "regime": "Divergências de crescimento refletem transmissão de juros, dívida e investimento produtivo sob restrições de oferta, câmbio e geopolítica.",
+        "key_risk": "Confundir projeções com resultados, orçamento proposto com gasto executado, superávit primário ajustado com resultado integral ou assinatura de acordo com efeitos comerciais já realizados.",
+        "watch": [
+          "Relatórios Focus, Copom, inflação e crescimento em 2027",
+          "Resultado primário integral e ajustado, precatórios e dívida pública",
+          "Inadimplência e comprometimento de renda das famílias",
+          "Juros longos, debêntures, investimentos executados e produção industrial",
+          "Comércio com China, EUA, UE e Argentina, com uso de preferências do acordo",
+          "Transição da CBS e evidência de ganhos de produtividade"
+        ],
+        "search_text": "Brasil 2027 desafios econômicos profundos fiscal dívida pública juros Banco Central Selic inflação bancos crédito bolsa B3 empresas indústria mercado interno agropecuária petróleo energia logística BRICS Mercosul União Europeia Estados Unidos China comércio exterior emprego desigualdade reforma tributária CBS IBS cenários condicionais"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "monetary-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "sanctions-economic-coercion",
+      "institutional-change",
+      "demographic-transition",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "selection_rationale": "The 2027 policy and investment horizon joins a 2026 high-rate monetary cycle, legislated CBS rollout, draft 2027 budget, provisionally applicable EU–Mercosur trade terms, new US trade barriers, Chinese commodity demand and persistent structural productivity constraints.",
+    "contrary_evidence": [
+      "Forecasts range from 1.2% to 2.3% real GDP growth using different institutions, dates and model assumptions; none is a realised 2027 figure.",
+      "The 2027 draft budget's R$83.4 billion adjusted primary surplus differs from its R$18.6 billion full primary balance and should not be treated as the same fiscal outcome.",
+      "The EU–Mercosur interim trade agreement has been provisionally applied to Brazil since 1 May 2026, but measured investment and export effects require subsequent evidence.",
+      "China's large bilateral trade surplus does not identify Brazilian industrial competitiveness or future commodity prices.",
+      "BRICS payment interoperability and local-currency settlement are not a common currency or a unified capital market."
+    ],
+    "limitations": [
+      "The 2027 budget remains a proposal as of the information cutoff; neither appropriation nor project pipeline constitutes executed spending.",
+      "2026 data from GDP, credit, fiscal and trade statistics have different observation dates and should not be presented as one synchronized monthly release.",
+      "GDP forecast vintages are shown for comparison, not as a statistical confidence interval or political performance ranking.",
+      "Underlying financial and market figures are from public institutional reporting and do not include firm-by-firm audited financial statements.",
+      "Conditional scenarios are not assigned subjective probabilities or invented GDP levels."
+    ],
+    "producer_checks": {
+      "information_cutoff": "3 November 2026, São Paulo civil date. Observed macro series latest from 2026 Q2/September depending on release; 3 November Focus vintage.",
+      "research_depth": "Portuguese 84,405 characters / 11,223 substantive whitespace tokens; English 77,105 characters / 9,746 substantive whitespace tokens; 35 analytical chapters plus numbered bibliography in each version.",
+      "evidence_inventory": "30 unique source URLs across 17 distinct domains per language; includes IBGE, BCB, Finance Ministry, National Treasury, Senate IFI, IMF, World Bank, EU Council, MDIC, BRICS, ANBIMA, BNDES and EPE.",
+      "visual_signature": "Three comparable bilingual charts: 2027 GDP growth forecasts [1.2,1.4,1.7,2.2,2.3]; observed selected 2026 Selic targets [15,14.75,14.5,14.25,14,13.75]; 2026 Jan–Sep selected export destinations [84.68,44.15,27.46,11.58]. Each language also has a cross-market exposure map, two-way fiscal and monetary transmission flow, and multi-variable empirical and scenario tables.",
+      "translation_parity": "Thirty-five matching analytical chapters; same first-order economic conclusions, quantifications, fiscal distinctions, dated observations and chart numerical arrays in both editions. Source URL inventories identical.",
+      "methodology": "Separate observed 2026 data from published 2027 projections and conditional scenarios; use comparable units and periods; do not equate adjusted and full fiscal results; compare national and IMF debt definitions only with caveats; distinguish provisional trade rules from realised outcomes.",
+      "source_check": "Primary institutional reporting screened through dated source pages. Independent claim-to-source factual QA and publication approval still required.",
+      "editorial_status": "Staged producer manuscript only, awaiting independent QA; no public reports bundle, build, deployment or publication claimed.",
+      "source_shas": {
+        "en": "fd3673da4c68a67d33b6a50e06a53228e55a69f1",
+        "pt-BR": "14d345ec13f77e219a4c8768a9154c95bf095c62"
+      }
+    }
+  }
+}
