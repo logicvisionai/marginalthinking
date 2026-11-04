@@ -1,0 +1,78 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-03-ARGENTINA-INFLATION-HISTORY",
+  "slug": "2026-11-03-argentina-inflation-origins-monetary-crises-stabilization",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-04T00:34:43Z",
+  "reviewed_commit": "ab2088ce62442fa6209a4e7365d9a3e92b0e1c7f",
+  "pending_blob_sha": "c5886515da44de93a081c05a036e10e9465ee0ae",
+  "source_blob_shas": {
+    "en": "2e4d7739460390200e9af01904ff698e7fb1924d",
+    "pt-BR": "6ae888d762d1b3f2d086131f7eef2c7ab44d1770"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "code": "MT-PE-2026-11-03-ARGENTINA-VISUAL-MAP",
+      "severity": "material",
+      "category": "visual_evidence_readiness",
+      "locations": [
+        {
+          "path": "staging/research/2026/11/2026-11-03-argentina-inflation-origins-monetary-crises-stabilization/en.md",
+          "line": 171
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-03-argentina-inflation-origins-monetary-crises-stabilization/pt-BR.md",
+          "line": 171
+        }
+      ],
+      "observed": "Both staged manuscripts have 2 chart blocks, 2 flow blocks, 10 table rows and zero ```map blocks. Their last visual is a flow at line 171. The required research visual evidence budget is therefore unmet in both locales.",
+      "verified_evidence": "GitHub Actions job 126121195301 on HEAD ab2088ce62442fa6209a4e7365d9a3e92b0e1c7f reports 'MT-PE-2026-11-03-ARGENTINA-INFLATION-HISTORY staged en: research visual evidence budget missing' and the same for pt-BR. scripts/validate-editorial-depth.mjs requires at least one map block per locale (visual.map >= 1). Direct independent counts of both complete staged blobs confirm map=0.",
+      "evidence_urls": [
+        "https://github.com/logicvisionai/marginalthinking/actions/runs/41694451863/job/126121195301",
+        "https://github.com/logicvisionai/marginalthinking/blob/ab2088ce62442fa6209a4e7365d9a3e92b0e1c7f/scripts/validate-editorial-depth.mjs"
+      ],
+      "required_fix": "Add a genuinely analytical, sourced ```map block in each locale, such as a historical geographic transmission/foreign-exchange exposure map only if its locations and relationships are defensible. Ensure matching semantic and numeric evidence, no invented geography, and rerun MT_VALIDATE_ALL_PENDING=1 node scripts/validate-editorial-depth.mjs and node scripts/validate-pipeline.mjs. Stage revision 2 with updated pending and EN/PT-BR Git blob SHAs."
+    }
+  ],
+  "required_fixes": [
+    "Supply a substantive, evidence-based map in both languages, not decorative geography; rerun depth and pipeline validators and submit a new revision."
+  ],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending and both complete staged manuscripts read; Git blobs 3/3 match the immutable reviewed HEAD."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending schema_version 2, ready true, revision 1 and both staged source paths exist."
+    },
+    "research_depth": {
+      "result": "passed_with_limitation",
+      "summary": "Two charts and two flows exist in both locales; full qualitative research-depth review was not completed because the mandatory visual gate already failed."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Zero map blocks in both languages; required >=1. CI reproduces exact error for both."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Cannot approve a candidate that fails mandatory visual evidence validator."
+    },
+    "factual_methodology": {
+      "result": "not_completed",
+      "summary": "No comprehensive independent primary-source fact check; no factual approval implied."
+    },
+    "bilingual_parity": {
+      "result": "passed_with_limitation",
+      "summary": "Both manuscripts have equivalent visual block counts; complete semantic parity not independently certified."
+    },
+    "pipeline_validation": {
+      "result": "failed",
+      "summary": "Strict draft editorial-depth CI job failed; other legacy failures in same job are separate."
+    }
+  },
+  "notes": "Single new rejection for revision 1; do not re-reject identical SHA. No public bundle or prior approval/rejection exists for this slug at the reviewed HEAD."
+}
