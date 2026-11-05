@@ -21400,5 +21400,223 @@
         "search_text": "Antônio Delfim Netto: desenvolvimento, milagre econômico, ditadura e a crise brasileira Biografia econômica da pesquisa na USP, crescimento de 1967–1973, desigualdade, AI-5, crédito e exportações, crise de 1979–1985, transição democrática e atuação parlamentar. Antônio Delfim Netto original documents historical institutions finance diplomacy empire"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-05",
+    "slug": "2026-11-05-global-macro",
+    "date": "2026-11-05",
+    "published_at": "2026-11-05T01:58:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "inequality-distribution",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "5 November 2026 01:58 America/Sao_Paulo (04:58 UTC); last complete US/Brazil/European 4 November sessions; no November 5 American trading or November 6 BLS official payrolls claimed as observed.",
+      "novelty": "Changes relative to November 4 early edition: Nov4 US Democratic midterm congressional sweep, Brent settlement $94.62 (-8.67%) vs $103.60 Nov3, US 10y Treasury 4.90 from 4.95, Eurostat October HICP flash 4.0% with energy 20.8%, ISM services October 54.5/prices 73, ADP October payroll +86k, Brazil Copom unanimous hold 13.75%, B3 Wednesday +1.23%, Reuters global equity rally.",
+      "source_check": "12 bibliography entries, 11 distinct URLs including primary Eurostat, US Treasury, ISM, ADP, B3, Fed, RBA and BCB Focus plus full Copom primary-text reproduction and dated Reuters market close. Avoid confusing B3 closure before Copom communiqué and Reuters vs vendor indicative closes.",
+      "visual_signature": "Three exactly matching EN/PT numerical chart series [4.58,4.90,5.28], [103.60,94.62], [54.5,53.8,55.9,51.4,73.0]. Each locale has >1 data table, one qualitative six-region map and one causal flow block.",
+      "bilingual_parity": "Nine matching analytical sections in both languages, same statistics and citation URLs, same 3 numerical chart arrays, one flow and six-region map in each, scenario falsifiers, dates and evidence boundaries.",
+      "research_depth": "~2.9k substantive English and ~3.0k Portuguese words analyzing post-midterm energy expectations vs physical flow, Eurozone inflation, US labour/services, Brazilian monetary/fiscal constraints, regional incidence and 3 falsifiable scenarios.",
+      "editorial_status": "Producer-stage ready revision 1. No standalone producer assertion of independent QA; SHA-bound review and publisher gate required.",
+      "qa_handoff": "Validate market settlement Reuters Brent $94.62 WTI $88.12 and B3 167563.47 +1.23; US Treasury 2y 4.58 10y 4.90 30y5.28 vs Nov3; Eurostat October flash HICP 4.0 energy20.8; ISM services 54.5/53.8/55.9/51.4/prices73; ADP +86k; actual Copom November4 unanimous hold 13.75, Focus 5.2/4.8 forecast vs central-bank Q2 2028 3.5; congressional election outcomes and no finalized Iran peace. Charts equivalent."
+    },
+    "contrary_evidence": [
+      "Papers and long yields rallied on November 4 while latest euro-area flash inflation rose to 4.0% and US services prices diffusion remained 73.0; no established simultaneous disinflation.",
+      "Oil futures fell 8.67% but neither verified normalized Strait of Hormuz cargo deliveries nor signed final peace terms were evidenced.",
+      "Brazil's equities closed +1.23% before the post-close Copom decision; market rally cannot be attributed to the later unchanged Selic communiqué.",
+      "ADP +86k private jobs differ methodologically from official BLS payrolls expected November 6; ISM index 73.0 is not a 73% inflation rate.",
+      "Brazil Copom paused while Australia's RBA had raised rates to 4.85% and US Treasury yields fell; monetary decisions are country-specific.",
+      "Congressional Democratic control changes oversight and bargaining, not automatically executive military policy or passed appropriations."
+    ],
+    "limitations": [
+      "Cutoff 5 November 2026 01:58 BRT, with market closes from November 4 only; no claim of later trading or official November 6 US jobs data.",
+      "Brent and WTI are dated futures settlements; physical cargo, freight and refiners have not been independently demonstrated as fully normalized.",
+      "Eurostat October HICP is flash estimate, not final released time series.",
+      "US Treasury yields are constant-maturity rates, not transaction quotes or Fed administered rates.",
+      "ADP private jobs and ISM survey diffusion indices are different measures and cannot be converted directly into BLS payroll or CPI inflation.",
+      "Copom's unanimous November 4 decision postdates B3 trading close; no contemporaneous domestic market reaction to the communiqué inferred.",
+      "Election result is observed; subsequent policy outcomes, cessation of hostilities and energy transmission are scenarios rather than established events."
+    ],
+    "evidence_sources": [
+      {
+        "name": "Reuters, global market close and oil settlements",
+        "date": "2026-11-04",
+        "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-04/"
+      },
+      {
+        "name": "US Department of Treasury, daily yield curve",
+        "date": "2026-11-04",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+      },
+      {
+        "name": "B3, Brazilian stock and currency market close",
+        "date": "2026-11-04",
+        "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-123-com-externo-e-a-espera-do-copom-dolar-cai-a-r-545/"
+      },
+      {
+        "name": "Eurostat, October euro-area HICP flash estimate",
+        "date": "2026-11-04",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+      },
+      {
+        "name": "ISM, October US services PMI",
+        "date": "2026-11-04",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/"
+      },
+      {
+        "name": "ADP, October US National Employment Report",
+        "date": "2026-11-04",
+        "url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86%2C000-Jobs-in-October"
+      },
+      {
+        "name": "Banco Central do Brasil, 4 Nov Copom statement reproduced by Broadcast",
+        "date": "2026-11-04",
+        "url": "https://www.broadcast.com.br/ultimas-noticias/veja-a-integra-do-comunicado-do-copom-com-manutencao-da-taxa-selic-de-1375/"
+      },
+      {
+        "name": "Reuters, Brazil's central bank decision",
+        "date": "2026-11-04",
+        "url": "https://www.reuters.com/world/americas/brazils-central-bank-ends-run-rate-cuts-after-lula-election-win-2026-11-04/"
+      },
+      {
+        "name": "Federal Reserve, 28 Oct 2026 FOMC statement",
+        "date": "2026-10-28",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      },
+      {
+        "name": "RBA, 3 Nov 2026 monetary decision",
+        "date": "2026-11-03",
+        "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html"
+      },
+      {
+        "name": "BCB, Focus inflation expectations",
+        "date": "2026-11-04",
+        "url": "https://www.bcb.gov.br/publicacoes/focus"
+      }
+    ],
+    "url": "/reports/2026/11/2026-11-05-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-05T05:07:04.989Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "6ff24d663a56d0a66b454c6a372756bd6cdc5a9d",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Oil's collapse and Treasury relief do not erase persistent inflation or restrictive monetary policy",
+        "deck": "Brent falls 8.67% to $94.62 and 10-year Treasuries ease to 4.90% after the US midterms, while euro-area inflation reaches 4.0%, US services prices remain high and Brazil holds Selic at 13.75%.",
+        "tags": [
+          "Global Macro",
+          "US midterms 2026",
+          "Iran war and crude oil",
+          "Euro area inflation",
+          "US Treasury yields",
+          "Brazil Copom Selic",
+          "ISM services October",
+          "ADP jobs October",
+          "Energy supply chain",
+          "Fiscal risk"
+        ],
+        "keywords": [
+          "November 5 2026 global macro",
+          "Brent 94.62 down 8.67 November 4",
+          "US 10-year Treasury 4.90 November 4",
+          "eurozone October flash inflation 4.0",
+          "ISM services 54.5 prices 73 October",
+          "US ADP 86000 jobs October",
+          "Brazil Copom hold 13.75 November 4",
+          "Ibovespa 167563.47 up 1.23",
+          "US Democrats midterms Congress"
+        ],
+        "regime": "Conditional financial decompression following the US congressional election with sharp crude-price relief and lower long yields, but persistent euro-area and US services price pressures and restrictive Brazilian monetary policy.",
+        "key_risk": "Confusing geopolitically sensitive futures and a one-day market rally with verified physical oil normalization, durable disinflation or enacted fiscal policy.",
+        "watch": [
+          "Official US October payrolls due November 6",
+          "Physical oil deliveries, Hormuz shipping and war-risk insurance",
+          "Euro-area October HICP revisions and energy pass-through",
+          "US services prices paid and credit spreads",
+          "Brazil Focus inflation expectations, fiscal implementation and yield curve",
+          "Enacted Congressional budget, oversight and diplomatic actions"
+        ],
+        "search_text": "Global Macro 5 November 2026 Brent 94.62 US midterms Democrats both chambers US Treasury 10-year 4.90 Fed ISM 54.5 prices 73 ADP 86 thousand October euro area flash inflation 4.0 Brazil Copom Selic 13.75 Ibovespa rally"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Global Macro — Queda do petróleo e alívio dos Treasuries não eliminam a inflação persistente nem a restrição monetária",
+        "deck": "Brent recua 8,67%, Treasury de dez anos cede a 4,90% após eleições americanas, mas inflação europeia atinge 4,0%, serviços dos EUA seguem pressionados e Copom mantém Selic em 13,75%.",
+        "tags": [
+          "Global Macro",
+          "Eleições legislativas EUA",
+          "Petróleo e Irã",
+          "Inflação da zona do euro",
+          "Juros dos Treasuries",
+          "Copom Selic",
+          "ISM serviços",
+          "ADP emprego privado",
+          "Cadeias energéticas",
+          "Risco fiscal"
+        ],
+        "keywords": [
+          "Global Macro 5 novembro 2026",
+          "Brent 94,62 queda 8,67 4 novembro",
+          "Treasury 10 anos 4,90",
+          "inflação outubro zona do euro 4,0",
+          "ISM serviços 54,5 preços 73",
+          "ADP 86 mil empregos",
+          "Copom manutenção Selic 13,75 4 novembro",
+          "Ibovespa 167563,47 alta 1,23",
+          "democratas Congresso eleições EUA"
+        ],
+        "regime": "Descompressão financeira condicional após eleição parlamentar americana, com recuo acentuado do petróleo e dos juros longos, mas inflação resistente na Europa, pressão de preços em serviços dos EUA e política monetária restritiva no Brasil.",
+        "key_risk": "Confundir alívio dos futuros geopolíticos e alta diária das bolsas com normalização física da energia, desinflação duradoura ou política fiscal já implementada.",
+        "watch": [
+          "Payroll oficial americano de outubro previsto para 6 de novembro",
+          "Entregas físicas de petróleo, Ormuz e seguros marítimos",
+          "Revisões do HICP europeu e transmissão de energia",
+          "Preços pagos em serviços nos EUA e spreads de crédito",
+          "Expectativas Focus, execução fiscal e curva de juros brasileira",
+          "Leis, orçamento, fiscalização e diplomacia efetivamente implementados nos EUA"
+        ],
+        "search_text": "Global Macro 5 novembro 2026 petróleo Brent 94,62 vitória democratas Congresso EUA Treasury dez anos 4,90 Fed serviços ISM 54,5 preços 73 ADP 86 mil outubro Europa inflação 4,0 Copom Selic 13,75 Ibovespa alta"
+      }
+    }
   }
 ]
