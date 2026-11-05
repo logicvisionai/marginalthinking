@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "checked_at": "2026-11-05T08:00:00Z",
+  "scope": "All active editorial lines at registry HEAD; bounded early-morning primary-source and corpus review. Global Macro independently approved and already in public repository bundle; no new article duplicated.",
+  "registry_updated_at": "2026-11-04T20:54:16.963Z",
+  "registry_blob_sha": "a4d46eac9f35e5ac3ebc7e2e31d68c8fcd3c1ee8",
+  "reviewed_line_count": 32,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "already_approved",
+      "note": "MT-GM-2026-11-04 revision 1 already staged and independently QA-approved at 03:43 UTC, matching pending/source blob SHAs; no duplicate or producer-side publication. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: US equity-sector divergence and an AI debt financing announcement do not establish net beneficial-owner capital transfers or a new weekly cross-border allocation series. Weekly ownership and flow analysis remains with 2/5. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Uzbekistan's Oct 27 $371m substation-modernization programme is an observable financing/infrastructure signal, not evidence that jobs, generation or energy reliability have already improved. Candidate belongs to Atlas discovery, not a full transition dossier today. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: US, Brazil, China, France and Uzbekistan signals are dated, but no independently documented country-wide structural transformation beyond existing dossiers warrants another country context publication. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Korean electrical-equipment exports and US AI debt financing are financial/industrial indicators, not a measured AI capability jump. Existing Nov 1 grid-equipment signal and Nov 3 algorithmic-culture staging should not be duplicated. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: No new audited AI infrastructure utilization, project returns, model capability or grid commissioning since previous monitoring. US corporate financing announcement is not an independently measured technology maturity change. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Carry-forward research question from 3 Nov: Nov 2 oil futures fell on attributed Iran diplomacy reports, but no verified signed peace or normal Hormuz cargo/insurance series; treat logistics outcomes as conditional, not an observed end to conflict. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: OPEC+ production requirements and diplomatic reporting identify official actors and commitments, not beneficial control, physical shipments or newly evidenced actor-network change. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "4 Nov approved macro already covers 3 Nov US Treasury/JOLTS, RBA tightening, Brazil market close, oil futures and conditional shipping risk; Copom and Eurostat outcomes remain pending at its 00:39 BRT cutoff. No independent new thematic evidence established. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "4 Nov approved macro already covers 3 Nov US Treasury/JOLTS, RBA tightening, Brazil market close, oil futures and conditional shipping risk; Copom and Eurostat outcomes remain pending at its 00:39 BRT cutoff. No independent new thematic evidence established. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Uzbekistan Oct 27 World Bank $100m/ADB $200m/Uzbek $71m programme has projected outcomes; no completed counterfactual policy evaluation or measured 2031 savings. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Credit-funded AI investment and high US input-price diffusion raise financing and inflation questions but do not demonstrate a new institutional market-design regime or policy experiment. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Market valuations, AI capex plans and sovereign financing announcements cannot be converted into monthly ownership stocks or proven wealth redistribution without holdings and flow disclosures. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: No new harmonized annual census of ownership, sovereign assets or strategic resources; avoid manufacturing an annual map from a daily market close. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: World Bank/ADB cofinancing in Uzbekistan uses a Full Mutual Reliance Framework, an institutional arrangement, but no new observed systemic outcomes or mandate change justifies separate institution research today. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Central Asia's regional electricity market is an earlier World Bank programme (Jan 22); Uzbekistan's Oct 27 national grid investment is not evidence of newly operating cross-border power trade. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: AI financing/attention concerns and algorithmic social-change research already have Nov 3 staging. No additional causal labor-displacement or income-distribution estimate verified for a second essay. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Food availability, nutrition, pesticides and development: no newly verified comparable primary series or independently measured change at this cutoff; maintain watch without treating hypothetical exposure as an observed event."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Livestock management, antimicrobial resistance, chemical and biological security, and weapons governance: no new attributable official surveillance or regulatory outcome established in this bounded review."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "War risk remains conditional; November 4 oil futures relief is not verified physical shipping normalization or a signed settlement."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Viruses, bacteria, outbreak surveillance and public-health preparedness: no newly verified outbreak severity or response change sufficient for a separate study; distinguish alerts from confirmed transmission."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: No newly authenticated archival document or scholarly revision today changes existing long-run political-intellectual arguments. Preserve historical dossier research instead of recycling current market observations. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "4 Nov approved macro already covers 3 Nov US Treasury/JOLTS, RBA tightening, Brazil market close, oil futures and conditional shipping risk; Copom and Eurostat outcomes remain pending at its 00:39 BRT cutoff. No independent new thematic evidence established. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "covered_in_macro",
+      "note": "Carry-forward research question from 3 Nov: US Nov 3 midterm voting is scheduled at 01:45 BRT information cutoff; results and fiscal/regulatory consequences are conditional. Prior Brazil election analysis exists; no new outcome claimed. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: No newly verified mineral reserve certification, export restriction or beneficial ownership transfer in the scan. OPEC+ quotas do not prove delivered physical oil or strategic inventory stocks. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Uzbekistan grid financing is not an Itaipu policy decision or commissioned datacenter MW; AI equipment exports and announced loans do not prove physical energy availability. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "4 Nov approved macro already covers 3 Nov US Treasury/JOLTS, RBA tightening, Brazil market close, oil futures and conditional shipping risk; Copom and Eurostat outcomes remain pending at its 00:39 BRT cutoff. No independent new thematic evidence established. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No harmonized new primary stock data for strategic energy, minerals, food and medical supplies; avoid synthetic stock estimates."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Prehistory and forager/civilization research already entered Nov 2 corpus/staging. No new dated archaeological primary finding establishes a different economic, social or institutional causal mechanism for a new chapter today. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Nov 3 algorithmic attention/power/social-conflict staging and prior accelerationism corpus cover the active line. New market observations do not independently prove a novel social transformation; avoid duplicating editorial surveillance. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Carry-forward research question from 3 Nov: Historical strategic-security coverage requires verified primary archives and military records; no new dated evidence examined sufficient for a separate dossier. Reviewed against 5 Nov approved macro and existing corpus; bounded early-morning screening only, not a claim that no new events exist."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Existing daily macro covers oil, inflation, monetary divergence and financing; no independent new structural 2027 baseline established."
+    }
+  ],
+  "additional_thematic_article": null,
+  "decision_rationale": "November 4 market and official releases already analyzed in approved MT-GM-2026-11-05. No separately validated new thematic mechanism with primary evidence beyond existing research established before cutoff.",
+  "limitations": [
+    "Early morning limited evidence screening, not comprehensive confirmation of absence of global events.",
+    "No verified new antimicrobial surveillance, pandemic outcomes, harmonized strategic stocks or completed energy commissioning series.",
+    "No producer-side approval or publication actions."
+  ]
+}
