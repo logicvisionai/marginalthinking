@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "checked_at": "2026-11-05T08:00:00Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-05",
+  "candidate_ids": [],
+  "coverage_summary": "Bounded primary-source screening of 4 November official monetary decisions, Treasury yields, energy market pricing, industrial services indicators and previously staged infrastructure financing. New price and policy observations were already captured by the independently approved daily Global Macro. No independently verified new project commissioning, physical throughput, binding infrastructure financing or structural bottleneck distinct from prior candidates established. No candidate fabricated.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "US Treasury daily yield curve",
+      "date": "2026-11-04",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "World Bank Uzbekistan grid modernization",
+      "date": "2026-10-27",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo"
+    },
+    {
+      "name": "World Bank and Japan Asia energy resilience financing",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    },
+    {
+      "name": "OPEC December production requirements",
+      "date": "2026-11-01",
+      "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+    }
+  ],
+  "review_limitations": [
+    "Screen is bounded to known official sources and approved research; it is not an exhaustive survey of all 5 November global infrastructure announcements.",
+    "Brent futures and sovereign yields are market prices, not verified new physical productive capacity.",
+    "Uzbekistan and DRIVE financing approvals remain prior candidates; no observed disbursement, completion or output change independently established.",
+    "Canonical Atlas unchanged; no speculative signals invented."
+  ]
+}
