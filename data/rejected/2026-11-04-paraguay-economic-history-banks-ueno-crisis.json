@@ -1,0 +1,95 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-04-PARAGUAY-BANKS-UENO",
+  "slug": "2026-11-04-paraguay-economic-history-banks-ueno-crisis",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-05T19:37:00Z",
+  "reviewed_commit": "00a70ccf38a13f73e71435dd27fd2b468a77b8d6",
+  "pending_blob_sha": "404996353a5f1217ee3e27784dd6736ce9eb3ce2",
+  "source_blob_shas": {
+    "en": "900c9ae2e829574f141844e0ac9c10153462fb79",
+    "pt-BR": "1ef89f9d7ad88a134147a4a199d02cb945783aa3"
+  },
+  "confidence": "high",
+  "blocking_issues": [
+    {
+      "code": "MT-PE-2026-11-04-UENO-SECURITIES-FUND-SPILLOVER",
+      "severity": "material",
+      "category": "factual_methodology",
+      "locations": [
+        {
+          "path": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/en.md",
+          "line": 147
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/en.md",
+          "line": 185
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/en.md",
+          "line": 272
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/pt-BR.md",
+          "line": 147
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/pt-BR.md",
+          "line": 185
+        },
+        {
+          "path": "staging/research/2026/11/2026-11-04-paraguay-economic-history-banks-ueno-crisis/pt-BR.md",
+          "line": 272
+        }
+      ],
+      "observed": "Both full manuscripts describe the November 2-4 Ueno bank resolution and its financial spillovers, but omit BCP Superintendencia de Valores resolutions SV.SG. 0014/2026 (suspension of Ueno-issued securities trading), 0015/2026 (temporary suspension of redemptions in affected mutual funds) and 0016/2026 (valuation rules for fund holdings tied to Ueno and related companies). Neither bibliography references these regulatory acts. The scenario and transmission analysis therefore leaves out confirmed non-bank investment-fund liquidity and valuation channels.",
+      "verified_evidence": "BCP official resolutions register lists SV.SG. 0014, 0015 and 0016/2026; official 0016/2026 dated November 3 expressly invokes the Ueno resolution and 0015/2026. BCP Circular SV.SG. 020/2026 confirms affected mutual-fund redemption suspension. Full staged manuscripts independently checked at their exact blob SHAs.",
+      "evidence_urls": [
+        "https://www.bcp.gov.py/en/resoluciones/",
+        "https://www.bcp.gov.py/documents/20117/2780455/2026-11-03_RESOLUCI%C3%93N_SVSG_0016_CRITERIOS_VALORIZACI%C3%93N%2B%282%29.pdf/acde17a9-c011-ac00-718c-25bb1e3697b4?t=1793754846413",
+        "https://www.bcp.gov.py/documents/20117/0/2026-11-03_CIRCULAR_SVSG-020_SUSPENSION_TEMPORAL_FONDOS.pdf/c97c74d0-c2b8-e140-cdb7-688f45b4ee13?t=1793733403574.pdf"
+      ],
+      "required_fix": "Add a sourced, date-specific explanation in EN/PT-BR distinguishing the bank resolution, suspended securities trading, temporarily restricted redemptions in specifically affected mutual funds, and valuation rules; distinguish fund assets from insured bank deposits, and avoid implying all funds were affected or that temporary suspensions prove permanent losses. Update causal channels, scenario monitoring and final bibliographies with primary BCP documents. Submit a new pending revision and both updated Markdown blobs for independent QA."
+    }
+  ],
+  "required_fixes": [
+    "Integrate primary BCP resolutions SV.SG. 0014, 0015 and 0016/2026 and the related mutual-fund valuation/redemption transmission channel in both languages; update references and increment revision."
+  ],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Exact pending and complete bilingual staged blobs inspected; SHAs match HEAD tree."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed_with_limitation",
+      "summary": "Pending v2 ready:true revision 1 and canonical staged files confirmed; exhaustive schema validation not run."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "Material contemporaneous primary regulatory acts and non-bank investment-fund contagion channel omitted."
+    },
+    "research_depth": {
+      "result": "not_completed",
+      "summary": "Substantive manuscript and charts inspected; no full depth-script execution."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_with_limitation",
+      "summary": "Both locales have 2 chart, 1 flow, 1 map and 14 table lines; actual visual evidence semantics and automated validation not certified."
+    },
+    "bilingual_parity": {
+      "result": "passed_with_limitation",
+      "summary": "Matching structural visuals and missing material regulatory evidence in both languages; full translation audit not completed."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Material factual coverage omission blocks approval."
+    },
+    "pipeline_validation": {
+      "result": "not_run",
+      "summary": "Local execution of scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs unavailable; no passing status asserted."
+    }
+  },
+  "notes": "First rejection of this exact revision/SHA. No public metadata or prior approval/rejection for this slug at reviewed HEAD. Do not repeat rejection for unchanged blob; producer must submit revision 2."
+}
