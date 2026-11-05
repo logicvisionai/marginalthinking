@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-04T21:12:25.827Z",
+  "last_reconciled_at": "2026-11-05T05:08:53.091Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8525,6 +8525,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Historical industrial methods and monetary policy do not describe a new demonstrated or deployed technological milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-05T05:08:53.091Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-05"
+      ],
+      "audit_note": "Dated Nov4 closes and first official November US employment/services, euro area inflation and Copom; reviewed seven cumulative assets. No hard-evidence data augmentation or inferred change of ownership from market movements.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Dated macro observations describe energy transport and financing dependence but lack verified bilateral flows, denominators and precise exposure dates required for a canonical new directed network edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "A market-wide macro brief contains no audited investable project cashflows, financing and execution milestones qualifying for a new structural opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "US legislative control and Brazilian monetary appointments are institutional context but no independently quantified change in beneficial asset control was established."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil futures settlements and shipping expectations do not evidence a new mineral concession, owned reserve, production right or resource title transfer."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazil Copom held the Selic at 13.75%, an observed policy decision, but outcomes and suitable comparison to an independently evaluated counterfactual are not yet measurable."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Iran-war expectations are recorded, but no new sourced, dated, geolocated attack or verified casualty/incident data passed the confidence threshold for an event update."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "ISM memory-component shortage comments are survey indications, not independently measured new technology deployment or performance milestone; no canonical signal amendment supported."
         }
       ]
     }
