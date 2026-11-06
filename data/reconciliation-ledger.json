@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-05T05:08:53.091Z",
+  "last_reconciled_at": "2026-11-06T03:23:33.597Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8570,6 +8570,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "ISM memory-component shortage comments are survey indications, not independently measured new technology deployment or performance milestone; no canonical signal amendment supported."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-06T03:23:33.597Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-06"
+      ],
+      "audit_note": "Independent source-level comparison for Nov5 equity collapse, Brent futures rebound, official yield/monetary series and October manufacturing/price surveys. Seven cumulative systems reviewed with no unsupported numerical data updates inferred from market repricing.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Energy shipping insecurity and AI-chip dependencies are analyzed; the report does not establish a new dated, unit-consistent bilateral physical flow and exposure denominator required for a canonical directed edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The US technology sell-off and high cost of capital are macro valuation signals, not audited individual infrastructure projects with cash-flow and financing evidence."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "US congressional outcome and technology-firm valuation changes do not document a new verified legal ownership or beneficial-control transfer for any strategic actor."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Futures oil settlements and reported tanker incidents do not verify a new concession, mineral reserve, physical production entitlement or asset title."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Bank of England tightening, Brazilian Selic hold and US FOMC hold are observed policy settings; new independent counterfactual impact estimates required for canonical policy case additions are absent."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Tanker incidents are attributed reports without sufficient vessel-level incident forensic attribution, geolocation and verified physical effects for an authoritative conflict event entry."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Semiconductor share prices and speculation about AI capex are financial signals, not a verified newly deployed technology benchmark, production volume or adoption milestone."
         }
       ]
     }
