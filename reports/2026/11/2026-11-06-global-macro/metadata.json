@@ -1,0 +1,242 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-06",
+  "slug": "2026-11-06-global-macro",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T00:07:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security",
+    "inequality-distribution",
+    "infrastructure-logistics"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "6 Nov 2026 00:07 BRT (03:07 UTC). Completed Nov 5 US, Brazilian and global market closes; Nov 6 official October US payrolls not yet observed.",
+    "editorial_novelty": "Nov 5 global risk-off reversal after Nov 4 post-midterm rally; Nasdaq -5.52, broad S&P -4.36, Philadelphia chip equities approximately -12.2; Brent rebounds +3.88 to $98.29 on tanker security reports; US 2y and 10y Treasury yields fall 12 and 6 bp; BoE raises Bank Rate to 4.00; Brazil B3 -0.82 and currency depreciation with Selic held at 13.75.",
+    "source_check": "15 matched source URLs in both locales including primary Treasury, Bank of England, Fed, Eurostat, NBS China, B3, ISM, ADP plus Reuters and AP closing accounts. External attack reports separated from proof; November 6 payroll forecasts are explicitly labeled future.",
+    "visual_signature": "Three numerically identical EN/PT charts [4.46,4.84,5.25],[-4.36,-5.52,-12.20],[94.62,98.29]; each edition contains two tables, one multichain flow and a six-region exposure map.",
+    "bilingual_parity": "Ten matching sections counting sources; central arguments, data periods, contrasts, scenarios and source URLs equivalent. Same charts, map entries and flow mechanisms.",
+    "methodological_boundaries": "Dated market vs survey/policy reference periods; diffusion vs inflation; future vs delivered oil; stock valuation vs real capital spending; policy rates vs constant-maturity securities; attributed attacks and competing explanations.",
+    "editorial_status": "Producer-stage research, independently reviewed QA gate required; no public bundle created by producer."
+  },
+  "contrary_evidence": [
+    "US equities fell sharply as constant-maturity Treasury yields also fell; a nominal bond rally cannot be attributed to a Fed policy cut on Nov 5.",
+    "Brent futures rose 3.88% after their Nov 4 8.67% drop, but independently verified physical oil cargo deficits were not measured.",
+    "A technology equity-market sell-off does not prove that AI capital expenditure, data-center projects or output have already declined.",
+    "BoE raised Bank Rate to 4.00 while Brazil held Selic at 13.75 and US Treasury yields declined; monetary stances are not synchronized.",
+    "Euro-area October flash headline inflation 4.0 and Chinese manufacturing PMI 49.3 show cost and demand pressures that do not move together.",
+    "An ADP October private-job report is not equivalent to official BLS nonfarm payrolls due Nov 6."
+  ],
+  "limitations": [
+    "Information cutoff is 6 November 2026 00:07 BRT; no claim of observed November 6 US payrolls or later market closes.",
+    "Semiconductor index change approximately -12.2%, rounded; primary stock index closes taken from AP and Reuters.",
+    "US Treasury constant-maturity yields are indicative par curves, not executed central bank policy rates.",
+    "Brent/WTI price observations are futures settlements and do not measure physical oil delivered or war-risk insurance costs.",
+    "Shipping attacks are reported and attributed within source accounts, not independently forensically verified case-by-case.",
+    "Bank of England mid-2027 inflation estimate is forecast, not realized inflation; Eurostat October HICP is flash.",
+    "China official PMI surveys are diffusion data, not industrial output-growth percentages.",
+    "Sources observed during assisted preparation; independent QA and public deployment have not occurred at producer stage."
+  ],
+  "evidence_sources": [
+    {
+      "name": "Associated Press",
+      "date": "2026-11-05",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-afe254c608c3d1fe2ea792812ba9765a"
+    },
+    {
+      "name": "Reuters Brent WTI and tanker incidents",
+      "date": "2026-11-05",
+      "url": "https://www.reuters.com/business/energy/oil-falls-fourth-day-expectations-lower-risk-iran-war-escalation-2026-11-05/"
+    },
+    {
+      "name": "US Treasury daily par yields",
+      "date": "2026-11-05",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "Reuters global market close",
+      "date": "2026-11-05",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-11-05/"
+    },
+    {
+      "name": "Bank of England 2026 November MPC",
+      "date": "2026-11-05",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+    },
+    {
+      "name": "B3 domestic market close",
+      "date": "2026-11-05",
+      "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cede-082-com-pressao-de-queda-em-wall-street-dolar-vai-a-r-548/"
+    },
+    {
+      "name": "Federal Reserve FOMC",
+      "date": "2026-10-28",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "name": "Eurostat flash October HICP",
+      "date": "2026-11-04",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+      "name": "China NBS October manufacturing PMI",
+      "date": "2026-11-01",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+    },
+    {
+      "name": "Reuters Brazil Copom",
+      "date": "2026-11-04",
+      "url": "https://www.reuters.com/world/americas/brazils-central-bank-ends-run-rate-cuts-after-lula-election-win-2026-11-04/"
+    },
+    {
+      "name": "Reuters US AI stock correction",
+      "date": "2026-11-05",
+      "url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/"
+    },
+    {
+      "name": "ISM October manufacturing",
+      "date": "2026-11-02",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/"
+    },
+    {
+      "name": "ISM October services",
+      "date": "2026-11-04",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/"
+    },
+    {
+      "name": "ADP October private employment",
+      "date": "2026-11-04",
+      "url": "https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86%2C000-Jobs-in-October"
+    },
+    {
+      "name": "TD Economic release calendar",
+      "date": "2026-10-30",
+      "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-30/upcoming.htm"
+    }
+  ],
+  "url": "/reports/2026/11/2026-11-06-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-06T03:20:38.467Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "6d2f3b37427643e766d5a20e6fd59e3b5583c8dc",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — AI repricing, an oil rebound and divergent central banks reverse the post-election relief",
+      "deck": "Nasdaq drops 5.52% and chip shares 12.2% as Brent rebounds to $98.29; Treasuries rally even as the Bank of England raises rates to 4% and Brazil holds Selic at 13.75%.",
+      "tags": [
+        "Global Macro",
+        "AI equities correction",
+        "US midterms",
+        "Brent oil and tanker security",
+        "Treasury yield curve",
+        "Bank of England hike",
+        "Brazil Copom Selic",
+        "Euro-area inflation",
+        "China manufacturing PMI",
+        "US employment"
+      ],
+      "keywords": [
+        "November 6 2026 global macro",
+        "Nasdaq down 5.52 November 5",
+        "Philadelphia semiconductors down 12.2",
+        "Brent 98.29 November 5",
+        "two year Treasury 4.46 ten year 4.84",
+        "Bank of England 4% November 5",
+        "Brazil Selic 13.75 Ibovespa 166191.45",
+        "China October PMI 49.3",
+        "Euro area inflation 4.0",
+        "US payroll November 6 upcoming"
+      ],
+      "regime": "Technology-sector valuation shock and renewed tanker supply risk coexist with a US Treasury rally, persistent energy-led inflation and increasingly divergent monetary decisions.",
+      "key_risk": "Treating falling AI shares as already-canceled productive investment, an oil futures rebound as measured physical shortage, or bond-yield declines as executed central-bank cuts.",
+      "watch": [
+        "Official October US payrolls and revisions on 6 November",
+        "Verified tanker movements, freight and cargo insurance in Gulf routes",
+        "AI data-center permits, company capital expenditure and component orders",
+        "US credit spreads and Treasury yield-curve shifts",
+        "Bank of England inflation and wage expectations",
+        "Brazil Focus, IPCA, fiscal execution and local curves",
+        "Eurostat energy inflation and China new orders"
+      ],
+      "search_text": "Global Macro November 6 2026 risk-off US AI Nasdaq semiconductor index Brent tanker attacks oil 98.29 Bank of England 4% Federal Reserve 3.75-4 Brazil Selic 13.75 Ibovespa 166191 China PMI 49.3 Eurostat HICP 4.0 Treasury yields jobs payroll"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Reprecificação da IA, recuperação do petróleo e divergência dos bancos centrais encerram o alívio pós-eleitoral",
+      "deck": "Nasdaq cai 5,52% e semicondutores recuam 12,2% enquanto Brent volta a US$ 98,29; Treasuries se valorizam, Inglaterra eleva juros a 4% e Copom mantém Selic a 13,75%.",
+      "tags": [
+        "Global Macro",
+        "Queda das ações de IA",
+        "Eleições americanas",
+        "Brent e segurança marítima",
+        "Curva de juros americana",
+        "Banco da Inglaterra",
+        "Copom Selic",
+        "Inflação europeia",
+        "PMI industrial chinês",
+        "Emprego americano"
+      ],
+      "keywords": [
+        "Global Macro 6 novembro 2026",
+        "Nasdaq recuo 5,52 5 novembro",
+        "semicondutores Filadélfia queda 12,2",
+        "Brent 98,29 5 novembro",
+        "Treasury dois anos 4,46 dez anos 4,84",
+        "Banco da Inglaterra 4%",
+        "Selic 13,75 Ibovespa 166191,45",
+        "China PMI outubro 49,3",
+        "zona do euro inflação 4,0",
+        "payroll americano novembro 6"
+      ],
+      "regime": "Queda das avaliações das ações de tecnologia e novo risco de abastecimento marítimo coexistem com valorização dos Treasuries, inflação energética persistente e decisões monetárias divergentes.",
+      "key_risk": "Confundir queda de ações de IA com investimento real já cancelado, alta dos futuros do petróleo com escassez física quantificada ou queda de juros de mercado com cortes efetivos de bancos centrais.",
+      "watch": [
+        "Payroll oficial de outubro e revisões em 6 de novembro",
+        "Movimento confirmado de petroleiros, fretes e seguros no Golfo",
+        "Licenças de centros de dados, capex corporativo e pedidos de componentes",
+        "Spreads de crédito e curva dos Treasuries",
+        "Expectativas de inflação e salários no Reino Unido",
+        "Focus, IPCA, execução fiscal e curva doméstica",
+        "Energia na inflação europeia e novos pedidos na China"
+      ],
+      "search_text": "Global Macro 6 novembro 2026 aversão ao risco IA Nasdaq semicondutores petróleo Brent 98,29 navios Banco Inglaterra 4% Federal Reserve Brasil Selic 13,75 Ibovespa 166191 China PMI 49,3 inflação europeia HICP 4,0 emprego payroll"
+    }
+  }
+}
