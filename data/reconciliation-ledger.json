@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-06T03:23:33.597Z",
+  "last_reconciled_at": "2026-11-07T04:01:41.289Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8615,6 +8615,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Semiconductor share prices and speculation about AI capex are financial signals, not a verified newly deployed technology benchmark, production volume or adoption milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-07T04:01:41.289Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-07"
+      ],
+      "audit_note": "Global Macro Nov7: Nov6 verified US payrolls BLS +165k, Treasury yields, Reuters/AP markets, B3 and Brent; seven canonical systems inspected for qualifying evidence. No changes to canonical quantitative datasets are warranted from market-price movements alone.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "BLS employment and technology/energy import exposures identify macro transmission but no new evidenced country-to-country flow, denominators, funding volumes or dated quantified network edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Market-wide equity recovery, interest rate repricing and commodity pressures do not constitute audited project-level financing, returns or investment milestones."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Market capitalizations, elected legislative majorities and changes in interest-rate expectations do not establish new audited legal beneficial ownership or control transfers."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Futures settlements at Brent US$98.32 and reported tanker danger do not document new mineral rights, reserves, resource concession or control over physical extraction."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "BLS labor releases, previously observed Copom and Bank of England decisions provide macro context but no new causal policy-effect study with comparable control."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Reuters tanker reports including a fatal November5 explosion remain attributed accounts without independent case-specific forensic responsibility and physically quantified damage suitable for canonical incident additions."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Nasdaq and Asian chip-stock losses represent changes in expected earnings/discount rates; no verified technological performance milestone, new deployment scale or actual cancelled industrial project is established."
         }
       ]
     }

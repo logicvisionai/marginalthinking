@@ -21860,5 +21860,251 @@
         "search_text": "Global Macro 6 novembro 2026 aversão ao risco IA Nasdaq semicondutores petróleo Brent 98,29 navios Banco Inglaterra 4% Federal Reserve Brasil Selic 13,75 Ibovespa 166191 China PMI 49,3 inflação europeia HICP 4,0 emprego payroll"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-07",
+    "slug": "2026-11-07-global-macro",
+    "date": "2026-11-07",
+    "published_at": "2026-11-07T00:55:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "geopolitics-security",
+      "inequality-distribution",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "7 November 2026 00:55 America/Sao_Paulo; completed market closes 6 November. October BLS official jobs release (6 Nov) now observed, unlike in Nov6 issue. No weekend equities treated as active sessions.",
+      "novelty": "Replaces the Nov6 issue's future-payroll risk with confirmed +165k October BLS, 4.1% unemployment, +84k prior-month revisions, 4.8m involuntary part-time; yields 2y 4.51/10y 4.86/30y 5.26 on Nov6; Fri Nasdaq +1.09 yet -3.4 week, S&P +0.31 yet -2.7 week; Ibovespa +1.39, Brent98.32, Asia tech rout and European losses.",
+      "source_check": "16 matched dated URLs, primary BLS, US Treasury, B3, BoE, FOMC, Eurostat, China NBS, congressional labor update plus Reuters and AP contemporaneous closes. Markets are labeled actual; maritime allegations attributed; no fabricated future policy decision.",
+      "visual_signature": "Three chart sequences identical EN/PT: [4.51,4.86,5.26],[186,60,165],[-2.7,-3.4,-0.9,-2.1]. Each has >1 table, explanatory causal flow, qualitative 6-region map and 9 analytical sections.",
+      "bilingual_parity": "16 matched references, same chart labels mapped by translation, exact series numbers, matching mechanisms and 3 falsifiable scenarios; no editorial meta-language in public prose.",
+      "methodological_boundaries": "Stock market revaluation vs capex; survey diffusion vs output; two BLS surveys; revisions vs current employment; Treasury yields vs administered rate; oil futures vs delivered cargo; source attribution for attacks.",
+      "editorial_status": "Bilingual producer staging complete. SHA-bound documented QA required before public promotion; no human-independent auditor inferred."
+    },
+    "contrary_evidence": [
+      "October +165k US payroll and upward revisions coexist with 4.8m involuntary part-time jobs and 2m long-duration unemployed: strength is uneven.",
+      "Nasdaq recovered 1.09% Friday but declined 3.4% over the week; the daily bounce is not a weekly reversal.",
+      "US equities and Brazilian equities rose Friday while Nikkei and Kospi each fell about 6%; global financial stress is differentiated.",
+      "Treasury nominal yields rose 5bp 2y and 2bp 10y but the Fed did not change its policy rate on November 6.",
+      "Brent fell heavily over the week while tanker threats and freight constraints persisted; no direct measure of global physically delivered barrels provided.",
+      "October China manufacturing PMI was below 50 while US labor hiring picked up; the global growth cycle is not homogeneous."
+    ],
+    "limitations": [
+      "Market cutoff 7 November 2026 00:55 BRT; latest complete equities, currency and oil sessions are 6 November Friday.",
+      "October US BLS survey preliminary and subject to later revision; payroll, unemployment and part-time work are different statistical series.",
+      "AP index returns and values may differ slightly from some data vendors with alternate cutoff conventions; the report uses one stated AP print.",
+      "Treasury par curve is constant-maturity nominal yield, not executable bond transaction or actual Fed target rate.",
+      "Brent/WTI settlement is a futures contract; shipping incidents are attributed reports, not independently verified identities or volume losses.",
+      "Euro-area October HICP is a flash estimate and UK mid-2027 inflation an official forecast, not a realized observation.",
+      "Asian equities approximated from closing reports; underlying index composition and currency differ.",
+      "Market-implied Dec FOMC rate probabilities reflect instrument models, not an official FOMC forecast.",
+      "Source and bilingual review were assisted, not an independent human fact-check; site deploy separate from Git publication."
+    ],
+    "evidence_sources": [
+      {
+        "name": "US Bureau of Labor Statistics October employment",
+        "date": "2026-11-06",
+        "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+      },
+      {
+        "name": "US Treasury daily nominal yield curve",
+        "date": "2026-11-06",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+      },
+      {
+        "name": "Associated Press US index closes",
+        "date": "2026-11-06",
+        "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-806f71d95105bc7efbc760b194dd8cad"
+      },
+      {
+        "name": "Reuters Brent WTI and maritime incidents",
+        "date": "2026-11-06",
+        "url": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/"
+      },
+      {
+        "name": "Reuters jobs and rate market commentary",
+        "date": "2026-11-06",
+        "url": "https://www.reuters.com/business/view-strong-october-jobs-report-sends-yields-higher-2026-11-06/"
+      },
+      {
+        "name": "Reuters Asian market index selloff",
+        "date": "2026-11-06",
+        "url": "https://live.euronext.com/en/financial-news/stocks-tumble-ai-panic-sweeps-markets-bonds-draw-haven-demand"
+      },
+      {
+        "name": "Reuters Europe STOXX 600",
+        "date": "2026-11-06",
+        "url": "https://www.reuters.com/markets/europe/european-shares-set-fall-global-ai-rout-gathers-pace-2026-11-06/"
+      },
+      {
+        "name": "B3 market close Ibovespa dollar",
+        "date": "2026-11-06",
+        "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550/"
+      },
+      {
+        "name": "Bank of England November MPC minutes",
+        "date": "2026-11-05",
+        "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+      },
+      {
+        "name": "Federal Reserve October FOMC",
+        "date": "2026-10-28",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      },
+      {
+        "name": "Eurostat October flash HICP",
+        "date": "2026-11-04",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+      },
+      {
+        "name": "NBS China October PMI",
+        "date": "2026-11-03",
+        "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+      },
+      {
+        "name": "US Congress JEC employment update",
+        "date": "2026-11-06",
+        "url": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/employment/national/Monthly%20Employment%20Update.html"
+      },
+      {
+        "name": "Reuters week ahead",
+        "date": "2026-11-06",
+        "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-06/"
+      },
+      {
+        "name": "Asia market close reference",
+        "date": "2026-11-06",
+        "url": "https://edgeconsultancykw.com/asia-market-wrap-06-november-2026/"
+      },
+      {
+        "name": "Reuters Brazil Copom decision",
+        "date": "2026-11-04",
+        "url": "https://www.reuters.com/world/americas/brazils-central-bank-ends-run-rate-cuts-after-lula-election-win-2026-11-04/"
+      }
+    ],
+    "url": "/reports/2026/11/2026-11-07-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-07T04:01:15.547Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "22fb64811bf679337385609d34b61ca5a92c9a45",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Stronger US payrolls lift rate expectations while AI markets remain fractured",
+        "deck": "October payrolls +165,000 and unemployment 4.1% push US yields higher; Nasdaq rebounds but falls 3.4% weekly, with Brazil up and Asia sharply down.",
+        "tags": [
+          "Global Macro",
+          "US October payrolls",
+          "Treasury yields",
+          "Federal Reserve",
+          "AI equity drawdown",
+          "Brent and Strait of Hormuz",
+          "Brazil Ibovespa and Selic",
+          "European inflation",
+          "China manufacturing PMI",
+          "Global funding conditions"
+        ],
+        "keywords": [
+          "global macro 7 November 2026",
+          "165000 US jobs October 2026 BLS",
+          "October 4.1 unemployment revised August September 84000",
+          "Treasury 4.51 4.86 November 6",
+          "Nasdaq November 6 weekly decline 3.4",
+          "Brent 98.32 WTI 90.83",
+          "Ibovespa 168498.45 November 6",
+          "BoE rate 4 percent euro inflation 4 percent",
+          "China PMI 49.3"
+        ],
+        "regime": "Resilient US hiring and higher expected policy rates coexist with selective US equity rebound, deep Asian technology losses, elevated maritime energy risk and divergent national credit conditions.",
+        "key_risk": "Mistaking payroll revisions for October jobs, rising Treasury yields for an actual Fed hike, Friday's equity bounce for reversal of weekly losses, or crude futures for physical cargo prices.",
+        "watch": [
+          "US consumer and producer prices next week",
+          "Changes in Treasury yield curve and December FOMC expectations",
+          "Credit spreads and actual AI capex/order cancellations",
+          "Maritime safety and physically delivered energy costs",
+          "Brazil IPCA, Focus, fiscal execution and domestic rates",
+          "European activity and energy inflation",
+          "Chinese new orders and export releases"
+        ],
+        "search_text": "Global Macro 7 November 2026 US jobs payroll 165000 unemployment 4.1 percent revisions 84000 2-year Treasury 4.51 ten year 4.86 Nasdaq down 3.4 weekly Ibovespa 168498 Brent 98.32 China PMI 49.3 UK Bank Rate 4"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Global Macro — Emprego forte nos EUA amplia a pressão sobre os juros enquanto os mercados de IA permanecem fragilizados",
+        "deck": "Payroll de outubro +165 mil e desemprego de 4,1% elevam Treasuries; Nasdaq reage mas perde 3,4% na semana, com Brasil em alta e Ásia em forte baixa.",
+        "tags": [
+          "Global Macro",
+          "Payroll americano outubro",
+          "Treasuries",
+          "Federal Reserve",
+          "Correção de ações de IA",
+          "Brent e Ormuz",
+          "Ibovespa e Selic",
+          "Inflação europeia",
+          "PMI industrial chinês",
+          "Financiamento global"
+        ],
+        "keywords": [
+          "global macro 7 novembro 2026",
+          "payroll 165 mil empregos outubro 2026",
+          "desemprego americano 4,1 revisões 84 mil",
+          "Treasury 4,51 4,86 6 novembro",
+          "Nasdaq queda semanal 3,4",
+          "Brent 98,32 WTI 90,83",
+          "Ibovespa 168498,45 6 novembro",
+          "Banco Inglaterra 4% inflação Europa 4%",
+          "PMI chinês 49,3"
+        ],
+        "regime": "Emprego americano resistente e expectativas de juros mais altos coexistem com recuperação seletiva das ações americanas, perdas tecnológicas asiáticas, insegurança energética e condições de crédito nacionais divergentes.",
+        "key_risk": "Confundir revisões de meses anteriores com vagas de outubro, alta do Treasury com decisão do Fed, recuperação diária da bolsa com reversão das perdas semanais ou futuros de petróleo com preços de entrega física.",
+        "watch": [
+          "CPI e PPI americanos na semana seguinte",
+          "Curva dos Treasuries e expectativas para o FOMC",
+          "Spreads e investimentos efetivos em IA",
+          "Navegação e custo de energia entregue",
+          "IPCA, Focus, política fiscal e curva brasileira",
+          "Atividade e inflação energética na Europa",
+          "Novos pedidos e exportações chinesas"
+        ],
+        "search_text": "Global Macro 7 novembro 2026 emprego Estados Unidos 165 mil desemprego 4,1 revisão 84 mil Treasury 2 anos 4,51 10 anos 4,86 Nasdaq semana -3,4 Ibovespa 168498 Brent 98,32 China PMI 49,3 Selic 13,75"
+      }
+    }
   }
 ]
