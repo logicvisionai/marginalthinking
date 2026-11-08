@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-08",
+  "slug": "2026-11-08-global-macro",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-08T08:41:00Z",
+  "reviewed_commit": "6b00d67cb819b7333cdcedb9d3d20a8d5587e3bb",
+  "pending_blob_sha": "7c18c7ed9902bfce7df59a415078cae2baca83c9",
+  "source_blob_shas": {
+    "en": "cfcf5bb6e427ab17510bdb685651aa87ad66595d",
+    "pt-BR": "1b67c48910a23db46c4ec04eb99472a5578c104f"
+  },
+  "checks": {
+    "research_depth": {
+      "result": "failed"
+    },
+    "evidence_traceability": {
+      "result": "failed"
+    },
+    "visual_evidence_readiness": {
+      "result": "failed"
+    },
+    "editorial_publication_readiness": {
+      "result": "failed"
+    }
+  },
+  "issues": [
+    {
+      "code": "EDITORIAL_DEPTH",
+      "location": "staging/research/2026/11/2026-11-08-global-macro/{en,pt-BR}.md",
+      "evidence": "EN approximately 1470 whitespace words; PT-BR approximately 1577 before removing fenced blocks. scripts/validate-editorial-depth.mjs requires >=1700 substantive words per daily locale, >=6 analytical H2 sections.",
+      "correction": "Expand original sourced analysis in both languages to >=1700 substantive words each after fenced-block exclusion, with >=6 H2 sections; include independently testable global channels."
+    },
+    {
+      "code": "VISUAL_BUDGET",
+      "location": "staging/research/2026/11/2026-11-08-global-macro/{en,pt-BR}.md",
+      "evidence": "Each locale contains one ```chart block; scripts/validate-editorial-depth.mjs requires at least two for daily research.",
+      "correction": "Add a second genuine data-linked chart with independently verifiable period, source and unit in both locales, and preserve numeric parity; do not fabricate values."
+    },
+    {
+      "code": "SOURCE_COVERAGE",
+      "location": "staging/research/2026/11/2026-11-08-global-macro/{en,pt-BR}.md > References",
+      "evidence": "Each locale lists only 3 external source URLs (BLS employment, BLS schedule, Treasury yield curve) and 2 internal reports. Validator requires >=8 distinct URLs and >=4 source hosts.",
+      "correction": "Add at least 5 additional independently checked primary-source URLs, from at least one additional original host, supporting the geographic, energy, equity and credit assertions; cite evidence appropriately at the end."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true
+  }
+}
