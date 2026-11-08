@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "checked_at": "2026-11-08T08:03:00Z",
+  "scope": "All active registered editorial lines reconciled against current registry after staging MT-GM-2026-11-08. Sunday primary-source check of BLS employment and November release schedule, Treasury prior session, and existing corpus. No verified independent thematic delta adequate for publication; screening is bounded, not exhaustive.",
+  "registry_updated_at": "2026-11-04T20:54:16.963Z",
+  "registry_blob_sha": "a4d46eac9f35e5ac3ebc7e2e31d68c8fcd3c1ee8",
+  "reviewed_line_count": 32,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "staged_pending",
+      "note": "MT-GM-2026-11-08 staged in both languages; pending v2 ready, awaiting independent QA; weekend no new cash trading session."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "November 6 BLS and Treasury observations incorporated into the daily macro; November 10 CPI is scheduled, not yet observed."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "program": null,
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed for incremental evidence; no new distinct verified primary-source delta in bounded Sunday screening. Carry-forward topics are not promoted to observed events; no article created."
+    }
+  ],
+  "thematic_article_created": false,
+  "sources_checked": [
+    {
+      "name": "US BLS October employment",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+    },
+    {
+      "name": "US BLS November release calendar",
+      "date": "2026-11-08",
+      "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+    },
+    {
+      "name": "US Treasury daily rates",
+      "date": "2026-11-06",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    }
+  ],
+  "evidence_gaps": [
+    "No independently verified new comparable AMR, pesticide exposure, food inventory, pandemic, livestock, chemical or biological security data in this bounded screen.",
+    "No corroborated new physical maritime disruption or war escalation in this run.",
+    "No new completed infrastructure or realized financing outcomes.",
+    "No thematic article produced from inherited or hypothetical risks."
+  ]
+}
