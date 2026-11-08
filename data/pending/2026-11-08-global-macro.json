@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-08",
+  "slug": "2026-11-08-global-macro",
+  "date": "2026-11-08",
+  "published_at": "2026-11-08T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "strategic-competition"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-08-global-macro/en.md",
+      "title": "Global Macro — The inflation test after resilient US hiring: markets enter a data gap",
+      "deck": "Sunday analytical edition: October US payroll resilience meets the still-unreleased CPI, with separate channels for global rates, credit, technology and energy.",
+      "tags": [
+        "Global Macro",
+        "US inflation",
+        "US employment",
+        "Treasury yields",
+        "Global credit",
+        "Energy",
+        "China PMI"
+      ],
+      "keywords": [
+        "global macro 8 November 2026",
+        "US CPI 10 November 2026",
+        "October US payrolls 165000",
+        "US Treasury yield curve 6 November 2026",
+        "global credit energy risk"
+      ],
+      "regime": "Resilient US labor market, unresolved inflation persistence and differentiated international financing channels.",
+      "key_risk": "Treating a scheduled CPI release as observed, or Friday prices as Sunday quotes.",
+      "watch": [
+        "US CPI on 10 November",
+        "US Treasury yield curve",
+        "Credit spreads and actual investment orders",
+        "Physical energy deliveries"
+      ],
+      "search_text": "8 November 2026 weekend Global Macro US payroll CPI upcoming Treasury credit energy China PMI"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-08-global-macro/pt-BR.md",
+      "title": "Global Macro — O teste inflacionário após o emprego resistente nos EUA: os mercados entram em uma janela de dados",
+      "deck": "Edição analítica dominical: emprego americano resistente antecede CPI ainda não divulgado; juros, crédito, tecnologia e energia têm canais distintos.",
+      "tags": [
+        "Global Macro",
+        "US inflation",
+        "US employment",
+        "Treasury yields",
+        "Global credit",
+        "Energy",
+        "China PMI"
+      ],
+      "keywords": [
+        "global macro 8 November 2026",
+        "US CPI 10 November 2026",
+        "October US payrolls 165000",
+        "US Treasury yield curve 6 November 2026",
+        "global credit energy risk"
+      ],
+      "regime": "Mercado de trabalho americano resistente, persistência inflacionária não resolvida e canais internacionais de financiamento diferenciados.",
+      "key_risk": "Tratar CPI agendado como divulgado ou preços de sexta como cotações de domingo.",
+      "watch": [
+        "CPI americano em 10 de novembro",
+        "Curva de Treasuries",
+        "Spreads de crédito e encomendas efetivas",
+        "Entregas físicas de energia"
+      ],
+      "search_text": "Global Macro 8 novembro 2026 domingo emprego americano CPI futuro Treasuries crédito energia PMI China"
+    }
+  }
+}
