@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "checked_at": "2026-11-08T08:03:00Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-08",
+  "candidate_ids": [],
+  "coverage_summary": "Sunday bounded primary-source and existing-candidate review. US October employment and Friday Treasury curve change financing assumptions but do not demonstrate realized infrastructure deployment, productivity or access to capital. Existing Uzbekistan grid and Asia DRIVE energy-finance signals were already recorded and not duplicated. No new distinct candidate passed source and structural-delta thresholds.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "US Bureau of Labor Statistics, October employment",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+    },
+    {
+      "name": "US Treasury, nominal yield curve",
+      "date": "2026-11-06",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "World Bank, Uzbekistan electricity modernization",
+      "date": "2026-10-27",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo"
+    },
+    {
+      "name": "World Bank and Japan, Asia energy resilience partnership",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    }
+  ],
+  "review_limitations": [
+    "No new primary-source verified commissioning, disbursement, physical capacity or measured productivity improvement.",
+    "Review was limited to specified source set and existing candidate ledger, not a comprehensive global infrastructure census.",
+    "Announced finance is not actual disbursement; market yield changes are not new productive capacity.",
+    "Canonical Atlas left unchanged."
+  ]
+}
