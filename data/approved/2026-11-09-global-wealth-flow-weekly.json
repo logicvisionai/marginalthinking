@@ -1,0 +1,286 @@
+{
+  "schema_version": 2,
+  "id": "MT-WF-2026-11-09",
+  "slug": "2026-11-09-global-wealth-flow-weekly",
+  "revision": 1,
+  "program": "global-system-power",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-09T04:06:52.089Z",
+  "reviewed_commit": "2dbd5c41b7e5da16520c1e8a429898b8369e48ce",
+  "pending_blob_sha": "bda9fb554656d94a856eaf58c8a505994fe00955",
+  "source_blob_shas": {
+    "en": "10d8f4cbf9dd9b2eede3072c600f3e7e1959290c",
+    "pt-BR": "42d6264ee2b1f2c4a64288527aade542a676646a"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Exact pending blob bda9fb554656d94a856eaf58c8a505994fe00955, EN 10d8f4cbf9dd9b2eede3072c600f3e7e1959290c, PT-BR 42d6264ee2b1f2c4a64288527aade542a676646a, revision1, no existing public record for ID."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "schema v2; canonical weekly-wealth-flow, global-system-power, monitor/weekly; permitted taxonomy and source_locale en."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Weekly LSEG and ICI through Nov4, Oct28 combined ICI, October WGC gold, Q2 BIS/COFER, distinct release vintages."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Lipper equity +38.63, bonds +9.91, global MMF +172.71; ICI US MMF 8015.74 asset stock +114.46, combined Oct28 +9.36; WGC gold 4275 tonnes, +19t, AUM -6%; BIS credit 40.7tn +877bn; COFER dollar 56.70%, euro 20.60%. Stocks, fund flows, market prices and changes of control differentiated."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "15 source URLs per locale, primary statistical institutions plus dated Reuters market or flow reports. Selected original primary data checked; no claim of individually audited investor ownership, vessel movements, or all underlying Lipper microdata."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN 2943 substantive words, PT 3100; nine analytical sections, economic mechanisms, explicit competing scenarios, dated sources and regional transmission."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Identical EN/PT numeric chart arrays, 5 chart blocks, evidence tables, one causal flow and one six-region exposure map each; units and period boundaries labeled."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Equivalent analytical structure, exact chart numerical values, same 15 URL references, identical observation periods, scenarios and key limitations."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Institutional prose and citations at document end; no internal production dialogue, fictitious prices, random images or unwarranted conflation of stock/flow/control."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Competing interpretations and their contrary signals explicitly described; liquidity demand is not liquidation; recoveries can coexist with weekly losses; different currencies, surveys, fund universes and market periods not added."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Conditional pathways contain separately observable supporting and disconfirming evidence without invented scenario probabilities."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Manual reproduction of editorial-depth and visual grammar criteria, sources/hosts, table presence and exact bilingual chart number parity. Full npm CI build and domain HTTP deployment remain separate."
+    }
+  },
+  "contrary_evidence": [
+    "Equity fund inflows occur amid declines in equity indices; subscriptions and mark-to-market prices measure different phenomena.",
+    "US ICI money-market assets +$114.46bn and worldwide Lipper money-market flow +$172.71bn differ in population and concept.",
+    "Gold ETF tonnage +19t with AUM -6% demonstrates holdings versus price valuation.",
+    "BIS euro and dollar credit both grow 11% year-over-year; higher euro share is not dollar exit."
+  ],
+  "limitations": [
+    "Lipper global sampled fund net flows are not globally comprehensive balance of payments and categories overlap.",
+    "ICI US money-market asset changes are stock movements used as proxy for flows, not equal to Lipper global fund flow.",
+    "ICI Oct28 combined series is older than Lipper Nov4 and cannot be added.",
+    "WGC October physically backed ETF stocks exclude central bank bullion and are priced at changing market levels.",
+    "BIS and COFER use Q2 2026 observations, not November flows.",
+    "Prepared and QA-documented within the same assisted session, not independently checked by a separate human editor.",
+    "Full deployment is not established by an approval record."
+  ],
+  "notes": "SHA-bound factual/editorial verification, source vintage and numbers with stated limitations. Documented automated/assisted review, not an independent human auditor. Publication and CI are separate.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-WF-2026-11-09",
+    "slug": "2026-11-09-global-wealth-flow-weekly",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09T00:54:00-03:00",
+    "kind": "weekly-wealth-flow",
+    "priority": 20,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "sovereign-debt",
+      "trade-investment",
+      "commodities-resources",
+      "industry-production",
+      "monetary-policy"
+    ],
+    "phenomena": [],
+    "format": "monitor",
+    "cadence": "weekly",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-09-global-wealth-flow-weekly/en.md",
+        "title": "Global Wealth Weekly — Cash absorbs record inflows while equity funds attract money despite falling share prices",
+        "deck": "Lipper reports global equity +$38.63bn and money-market +$172.71bn through November 4; ICI US money-market assets reach $8.016tn while gold holdings increase despite lower AUM.",
+        "tags": [
+          "Global Wealth",
+          "LSEG Lipper flows",
+          "ICI money markets",
+          "Gold ETFs",
+          "BIS credit",
+          "IMF COFER",
+          "ETF issuance",
+          "Stock versus flow"
+        ],
+        "keywords": [
+          "MT-WF-2026-11-09",
+          "9 November 2026",
+          "Lipper global fund flows through Nov4 +38.63bn equity +9.91bn bonds +172.71bn money market, ICI US 8015.74bn asset stock (+114.46)"
+        ],
+        "regime": "Positive global equity fund subscriptions coexist with large defensive money-market inflows and risky equity price corrections; official credit and currency reserves require slower separate observation.",
+        "key_risk": "Never add overlapping Lipper/ICI universes, interpret AUM as physical holdings, or confuse fund flows with legal change of ownership.",
+        "watch": [
+          "New ICI/Lipper flow vintages",
+          "Gold ETF holdings and valuations",
+          "TIC next available official month",
+          "BIS cross-border credit",
+          "IMF COFER active reallocations",
+          "Real AI investment orders"
+        ],
+        "search_text": "Lipper global fund flows through Nov4 +38.63bn equity +9.91bn bonds +172.71bn money market, ICI US 8015.74bn asset stock (+114.46), ICI Oct28 combined long-term +9.36bn, gold October physical ETF holdings 4275 tonnes (+19t) while AUM falls 6%. Distinct BIS Q2 and IMF COFER Q2 baseline."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-09-global-wealth-flow-weekly/pt-BR.md",
+        "title": "Global Wealth Semanal — Captação histórica em ativos líquidos convive com entradas em ações e queda dos preços de mercado",
+        "deck": "Lipper registra US$38,63 bi em fundos de ações e US$172,71 bi em fundos monetários; estoque americano ICI chega a US$8,016 tri e ETFs de ouro aumentam toneladas apesar da queda patrimonial.",
+        "tags": [
+          "Global Wealth",
+          "LSEG Lipper flows",
+          "ICI money markets",
+          "Gold ETFs",
+          "BIS credit",
+          "IMF COFER",
+          "ETF issuance",
+          "Stock versus flow"
+        ],
+        "keywords": [
+          "MT-WF-2026-11-09",
+          "9 November 2026",
+          "Lipper global fund flows through Nov4 +38.63bn equity +9.91bn bonds +172.71bn money market, ICI US 8015.74bn asset stock (+114.46)"
+        ],
+        "regime": "Captação global positiva em fundos de ações convive com fluxos extraordinários para veículos monetários e queda de preços de ativos; crédito e reservas oficiais têm relógios estatísticos distintos.",
+        "key_risk": "Never add overlapping Lipper/ICI universes, interpret AUM as physical holdings, or confuse fund flows with legal change of ownership.",
+        "watch": [
+          "New ICI/Lipper flow vintages",
+          "Gold ETF holdings and valuations",
+          "TIC next available official month",
+          "BIS cross-border credit",
+          "IMF COFER active reallocations",
+          "Real AI investment orders"
+        ],
+        "search_text": "Lipper global fund flows through Nov4 +38.63bn equity +9.91bn bonds +172.71bn money market, ICI US 8015.74bn asset stock (+114.46), ICI Oct28 combined long-term +9.36bn, gold October physical ETF holdings 4275 tonnes (+19t) while AUM falls 6%. Distinct BIS Q2 and IMF COFER Q2 baseline."
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "9 Nov 2026 00:54 BRT; Lipper and ICI to Nov4, ICI combined to Oct28, WGC October, BIS/COFER Q2.",
+      "novelty": "Lipper global fund flows through Nov4 +38.63bn equity +9.91bn bonds +172.71bn money market, ICI US 8015.74bn asset stock (+114.46), ICI Oct28 combined long-term +9.36bn, gold October physical ETF holdings 4275 tonnes (+19t) while AUM falls 6%. Distinct BIS Q2 and IMF COFER Q2 baseline.",
+      "bilingual_parity": "EN/PT have identical numerical chart series and same 15 source URLs; 9 sections, source notes, evidence tables, causal flow, six-region map and scenario falsifiers.",
+      "editorial_status": "Producer ready. Approval tied to exact staging and pending Git blob SHAs required prior to public promotion.",
+      "source_check": "15 source URLs with institutional primary evidence and contemporaneous Reuters/AP context; dated populations, revisions and forecast status are preserved."
+    },
+    "contrary_evidence": [
+      "Equity fund inflows occur amid declines in equity indices; subscriptions and mark-to-market prices measure different phenomena.",
+      "US ICI money-market assets +$114.46bn and worldwide Lipper money-market flow +$172.71bn differ in population and concept.",
+      "Gold ETF tonnage +19t with AUM -6% demonstrates holdings versus price valuation.",
+      "BIS euro and dollar credit both grow 11% year-over-year; higher euro share is not dollar exit."
+    ],
+    "limitations": [
+      "Lipper global sampled fund net flows are not globally comprehensive balance of payments and categories overlap.",
+      "ICI US money-market asset changes are stock movements used as proxy for flows, not equal to Lipper global fund flow.",
+      "ICI Oct28 combined series is older than Lipper Nov4 and cannot be added.",
+      "WGC October physically backed ETF stocks exclude central bank bullion and are priced at changing market levels.",
+      "BIS and COFER use Q2 2026 observations, not November flows."
+    ],
+    "evidence_sources": [
+      {
+        "name": "Reuters / LSEG Lipper Nov4 world flows",
+        "date": "2026-11-06",
+        "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-06/"
+      },
+      {
+        "name": "ICI Nov4 money-market assets",
+        "date": "2026-11-05",
+        "url": "https://www.ici.org/research/stats/mmf"
+      },
+      {
+        "name": "ICI Oct28 combined long-term and ETF",
+        "date": "2026-10-29",
+        "url": "https://www.ici.org/research/stats/combined_flows"
+      },
+      {
+        "name": "ICI mutual fund estimate Oct28",
+        "date": "2026-10-29",
+        "url": "https://www.ici.org/research/stats/flows"
+      },
+      {
+        "name": "WGC October gold ETFs",
+        "date": "2026-11-05",
+        "url": "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/11"
+      },
+      {
+        "name": "BIS banking Q2",
+        "date": "2026-10-29",
+        "url": "https://www.bis.org/publications/202610-commentary-ibs-gli"
+      },
+      {
+        "name": "IMF COFER Q2 brief",
+        "date": "2026-10-29",
+        "url": "https://data.imf.org/news/imf%20data%20brief%20september%2030"
+      },
+      {
+        "name": "IMF COFER definitions",
+        "date": "2026-10-29",
+        "url": "https://data.imf.org/Datasets/COFER"
+      },
+      {
+        "name": "WGC Q3 outlook",
+        "date": "2026-10-29",
+        "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/outlook"
+      },
+      {
+        "name": "US Treasury yields",
+        "date": "2026-10-29",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+      },
+      {
+        "name": "BLS October jobs",
+        "date": "2026-10-29",
+        "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+      },
+      {
+        "name": "Reuters Nov9 markets",
+        "date": "2026-10-29",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/"
+      },
+      {
+        "name": "BEA IIP dataset",
+        "date": "2026-10-29",
+        "url": "https://www.bea.gov/data/intl-trade-investment/international-investment-position"
+      },
+      {
+        "name": "US Treasury TIC",
+        "date": "2026-10-29",
+        "url": "https://ticdata.treasury.gov/"
+      },
+      {
+        "name": "UNCTAD investment data",
+        "date": "2026-10-29",
+        "url": "https://www.unctad.org/topic/investment/world-investment-report"
+      }
+    ]
+  }
+}
