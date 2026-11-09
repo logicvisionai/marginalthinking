@@ -46,6 +46,17 @@ Agricultural contexts | 0.35
 
 The 2017 study also found greater post-Neolithic disparities in its sampled Eurasian societies than in the sampled societies of North America and Mesoamerica. Its interpretation gives importance to the availability of large domestic animals, more extensive cultivation and eventually mounted military elites. Such a mechanism is plausible because animals provide traction, manure, transport and a transferable asset; mounted force can also increase the geographical scale of appropriation. But multiple institutional configurations coexist with those technologies, and the study's geographical gaps and heterogeneous chronology limit claims of a universal civilizational ladder. [3]
 
+A separate measurement check published in the same 2017 paper draws on ethnographic wealth estimates for living or historically recorded societies. Across five foraging groups the reported mean of group means is 0.25, across four horticultural groups 0.28 and across eight agricultural groups 0.44. Unlike the preceding chart, these are **not house-size Ginis or archaeological medians**: they are averages from heterogeneous wealth proxies in independent ethnographic material. Their principal value is testing the approximate direction and scale of the house-area estimates; the different populations, weighting and asset definitions forbid subtracting the bars of one chart from those of the other as if they were matched observations. [3]
+
+```chart
+type: bar
+title: Ethnographic cross-check cited by Kohler et al. (2017): mean of group-mean wealth Ginis
+unit: Gini of different wealth proxies, ethnographic groups (foragers n=5; horticulturalists n=4; agriculturalists n=8); not archaeological house Gini
+Foraging societies (n=5) | 0.25
+Horticultural societies (n=4) | 0.28
+Agricultural societies (n=8) | 0.44
+```
+
 A complementary test comes from the comparative anthropology of 21 historical and contemporary small-scale populations. Borgerhoff Mulder and colleagues found stronger transmission of important forms of wealth and more pronounced inequality among pastoral and small-scale farming groups than among the foraging and horticultural groups studied. Material wealth, bodily skills and relational wealth have different rates of inheritance. This is not direct observation of the Neolithic: the contemporary comparisons identify mechanisms that archaeological research must independently test. [2]
 
 ```flow
