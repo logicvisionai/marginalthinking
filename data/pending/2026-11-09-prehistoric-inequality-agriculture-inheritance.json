@@ -131,15 +131,16 @@
     "Sunghir funerary treatment does not establish a tax state or reconstruct all contemporary households.",
     "2024 mound analysis samples approximately 5,000 selected funerary monuments and cannot describe the wealth distribution of the entire living population.",
     "English and Portuguese versions are substantively parallel but require independent QA checking citations, nuance and visual grammar.",
-    "Git staging is not publication; independent approval SHA lock and publisher promotion are required."
+    "Git staging is not publication; independent approval SHA lock and publisher promotion are required.",
+    "2017 paper's independent ethnographic cross-check [0.25,0.28,0.44] uses mean group wealth Ginis from unequal category samples n=5,4,8, distinct from archaeological house-size Gini medians [0.17,0.27,0.35]; values cannot be directly paired or differenced."
   ],
   "producer_checks": {
     "information_cutoff": "9 November 2026 (BRT); peer-reviewed research through 2025.",
     "editorial_novelty": "Fifth study in Civilizations, Economics & Power Block A, linking previously published Paleolithic, forager, Neolithic and Çatalhöyük studies to the next Uruk administrative-systems case.",
-    "visual_signature": "Matching EN/PT chart of 0.17 0.27 0.35 sample house-area Gini medians; six-row evidence matrix, 3-chain causal flow, four-branch mind map, five-region comparative map.",
+    "visual_signature": "Two matched bilingual charts: archaeological house-area Gini medians [0.17,0.27,0.35] and separately measured ethnographic wealth Gini group-mean averages [0.25,0.28,0.44] (n=5,4,8); a six-row evidence matrix, causal flow, mind map and five-region comparative map. Different observational units explicitly separated.",
     "source_check": "Eight identical bibliographic URLs in both locales: AEA, NCBI/PMC, Nature/PMC, PubMed, PLOS ONE, Antiquity DOI, Nature HSSC, Cambridge.",
-    "bilingual_parity": "15 numbered analytical chapters plus bibliographies, 8 same URLs and source ordinals; 1 identical numerical chart series, equivalent three flow chains, one mindmap and five-region map in each language.",
-    "research_depth": "English 31,381 characters (~4,203 words); Portuguese 34,193 characters (~4,598 words); distinction between episodic and enduring inequality across 15 substantive sections, grounded in archeological and comparative scholarly evidence.",
-    "editorial_status": "Producer ready. Independent QA must verify original research, translation and visuals and cryptographically approve the staged blobs before publisher promotion."
+    "bilingual_parity": "15 numbered analytical chapters plus bibliographies, 8 same bibliographic URLs and source ordinals; two numerical chart series (0.17,0.27,0.35 and 0.25,0.28,0.44) identical in EN/PT, same 3 causal flow chains, one mindmap and 5-region map in each language.",
+    "research_depth": "English 32,500 characters; Portuguese 35,385 characters; 15 analytical sections and eight academic references; explains the different units and samples of two Gini comparisons.",
+    "editorial_status": "Producer staged revised bilingual evidence (2 charts per locale) and submitted for independent SHA-locked QA. Not approved or publicly promoted."
   }
 }
