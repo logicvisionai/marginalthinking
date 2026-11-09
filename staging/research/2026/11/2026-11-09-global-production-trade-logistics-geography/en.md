@@ -10,7 +10,7 @@ Three questions must therefore be kept separate: where a commodity is physically
 
 The distinction also changes the meaning of competitiveness. An exporter can ship large quantities but depend on imported machinery, shipping, insurance, credit and specialized refining. Another country may have little raw material but earn income through engineering and process control. A third may run a transshipment port with enormous throughput but modest local manufacturing of the goods passing through it. These are structurally different sources of income, bargaining power and vulnerability.
 
-| | | |
+| Production stage | Principal measurable object | Why it can differ from exports |
 | --- | --- | --- |
 | Extraction and harvest | Physical output, grade, location | Domestic use and stock changes may precede foreign sales |
 | Processing and refining | Yield, capacity utilization, output | Imported raw materials can feed domestic industry |
