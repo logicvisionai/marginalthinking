@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-07T04:01:41.289Z",
+  "last_reconciled_at": "2026-11-09T03:32:11.229Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8660,6 +8660,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Nasdaq and Asian chip-stock losses represent changes in expected earnings/discount rates; no verified technological performance milestone, new deployment scale or actual cancelled industrial project is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-western-preparedness-psychological-warfare-collapse-narratives-publication-reconciliation",
+      "reconciled_at": "2026-11-09T03:32:11.229Z",
+      "report_ids_reviewed": [
+        "MT-GS-2026-11-08-WESTERN-PREPAREDNESS-PSYCHOLOGICAL-WARFARE"
+      ],
+      "audit_note": "Publication-level review of sources and seven cumulative systems for the 8 November 2026 bilingual report: no verified canonical dataset delta. Risk preparedness and FIMI observations remain explicitly distinct from event-level attribution or quantified resource control.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The research explains interdependence among water, power, refrigeration, logistics and communication but supplies no new dated country-level quantified dependency edge suitable for the canonical dataset."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Emergency-preparedness programmes and risk perceptions are not audited investable projects with documented financing, cash flow, returns or operational milestones."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "The verified 2024–2026 EU, UK, NATO and Brazilian actions do not document new legal ownership, beneficial control, shareholding or concessions by strategic actors."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Household stockpiles and continuity recommendations do not establish new mineral, energy or agricultural reserves, extraction rights or legally verified resource control."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Recent preparedness guidance is a policy intervention, but no defensible counterfactual, implementation-outcome series or attributable effect estimate supports a new comparative policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The EEAS records FIMI incidents and attributed Russian and Chinese activity; no case-specific operational forensic evidence establishes that particular emergency-kit narratives are a state-directed attack."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Risk-management and civil-protection guidance do not demonstrate a new technological capability, benchmark, deployed system or adoption scale for a technology signal."
         }
       ]
     }
