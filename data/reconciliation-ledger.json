@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-09T03:32:11.229Z",
+  "last_reconciled_at": "2026-11-09T04:08:05.374Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8705,6 +8705,96 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Risk-management and civil-protection guidance do not demonstrate a new technological capability, benchmark, deployed system or adoption scale for a technology signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-09T04:08:04.743Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-09"
+      ],
+      "audit_note": "Reviewed Global Macro November9 Asian indications and US/Brazil Friday prices with CPI still future; no invented new dataset facts.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Asian index moves and US yields are not documented bilateral physical or capital exposure weights."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Portfolio prices and macro flows are not new audited investable projects with project-level cashflow and financing."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "No new verified change in legal control, voting rights, or ultimate beneficial ownership; fund subscriptions and revaluations cannot establish it."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Brent futures quotes do not evidence new resource title, production concessions or stock ownership."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Observed monetary decisions and macro conditions do not establish a new measured causal policy effect with counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Conflict context and reported maritime risks do not provide new fully attributed, verified physical incident records for the canonical system."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI stock valuations do not verify actual new technical deployment, performance milestone or capacity commissioning."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-global-wealth-flow-weekly-publication-reconciliation",
+      "reconciled_at": "2026-11-09T04:08:05.374Z",
+      "report_ids_reviewed": [
+        "MT-WF-2026-11-09"
+      ],
+      "audit_note": "Reviewed Global Wealth November9 fund flows, MMF assets, gold ETF, BIS/COFER without merging stock, flow or asset control.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "BIS and Lipper reports provide financial aggregates but not newly verified directed country-to-country dependency weights."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Portfolio prices and macro flows are not new audited investable projects with project-level cashflow and financing."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "No new verified change in legal control, voting rights, or ultimate beneficial ownership; fund subscriptions and revaluations cannot establish it."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Gold ETF bullion asset positions are not newly transferred extraction concessions or mining-resource rights."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Observed monetary decisions and macro conditions do not establish a new measured causal policy effect with counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Conflict context and reported maritime risks do not provide new fully attributed, verified physical incident records for the canonical system."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI stock valuations do not verify actual new technical deployment, performance milestone or capacity commissioning."
         }
       ]
     }

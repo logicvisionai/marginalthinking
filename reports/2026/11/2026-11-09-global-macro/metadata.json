@@ -1,0 +1,211 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-09",
+  "slug": "2026-11-09-global-macro",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T00:54:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "energy",
+    "commodities-resources",
+    "industry-production",
+    "geopolitics-security",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "9 Nov 2026 00:54 BRT; Asian early Monday indications and Friday completed US/Brazil closes; CPI future.",
+    "novelty": "Nov9 early Asian risk recovery (Nikkei/Taiwan ~+2.5%, MSCI ex-Japan +0.8%), Brent early 97.49 vs Nov6 settlement 98.32, focus on pre-CPI uncertainty while +165k October US payroll is known. Different market sessions and intraday statuses documented.",
+    "bilingual_parity": "EN/PT have identical numerical chart series and same 15 source URLs; 9 sections, source notes, evidence tables, causal flow, six-region map and scenario falsifiers.",
+    "editorial_status": "Producer ready. Approval tied to exact staging and pending Git blob SHAs required prior to public promotion.",
+    "source_check": "15 source URLs with institutional primary evidence and contemporaneous Reuters/AP context; dated populations, revisions and forecast status are preserved."
+  },
+  "contrary_evidence": [
+    "Early Monday Asian rebound does not reverse prior week selloff or establish Monday full-session closes.",
+    "US strong payroll may reduce recession fears while tightening expected policy, with no actual new FOMC decision.",
+    "Falling Brent future quote does not document delivered cargo normalization.",
+    "China PMI 49.3 and US +165k jobs reflect different economies and statistical objects."
+  ],
+  "limitations": [
+    "9 Nov early Asian market figures are intraday not market closes.",
+    "Friday oil settlement and Monday indicative futures price cannot be treated as equivalent full-day closes.",
+    "US October CPI is scheduled Nov10 and is not observed.",
+    "Reported tanker threats and political statements are not physically quantified shipping interruptions."
+  ],
+  "evidence_sources": [
+    {
+      "name": "Reuters global markets Nov 9",
+      "date": "2026-11-09",
+      "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/"
+    },
+    {
+      "name": "BLS October payrolls",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+    },
+    {
+      "name": "BLS November schedule",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+    },
+    {
+      "name": "US Treasury November curve",
+      "date": "2026-11-06",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "AP Nov6 equity close",
+      "date": "2026-11-06",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-806f71d95105bc7efbc760b194dd8cad"
+    },
+    {
+      "name": "Reuters Nov6 oil",
+      "date": "2026-11-06",
+      "url": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/"
+    },
+    {
+      "name": "Bank of England MPC",
+      "date": "2026-11-06",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+    },
+    {
+      "name": "Eurostat October HICP",
+      "date": "2026-11-06",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+      "name": "NBS China PMI",
+      "date": "2026-11-06",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+    },
+    {
+      "name": "B3 Nov6 close",
+      "date": "2026-11-06",
+      "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550/"
+    },
+    {
+      "name": "Federal Reserve Oct FOMC",
+      "date": "2026-11-06",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "name": "ISM October services",
+      "date": "2026-11-06",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/october/"
+    },
+    {
+      "name": "ISM October manufacturing",
+      "date": "2026-11-06",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/"
+    },
+    {
+      "name": "ICI Nov4 money markets",
+      "date": "2026-11-06",
+      "url": "https://www.ici.org/research/stats/mmf"
+    },
+    {
+      "name": "Reuters Lipper Nov4 flows",
+      "date": "2026-11-06",
+      "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-06/"
+    }
+  ],
+  "url": "/reports/2026/11/2026-11-09-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-09T04:06:48.312Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "5bd3bda9e5effd676eb8d1939657e93122042be2",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Asia rebounds into the US inflation test, but the return of risk appetite has limits",
+      "deck": "Early Asian shares and Brent move as US October jobs support firm rate expectations, with October CPI still due on November 10.",
+      "tags": [
+        "Global Macro",
+        "United States inflation",
+        "Federal Reserve",
+        "Asia equities",
+        "Oil shipping risk",
+        "Brazil",
+        "Euro area",
+        "China manufacturing"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-09",
+        "9 November 2026",
+        "Nov9 early Asian risk recovery (Nikkei/Taiwan ~+2.5%, MSCI ex-Japan +0.8%), Brent early 97.49 vs Nov6 settlement 98.32, focus on p"
+      ],
+      "regime": "Asian risk assets partly rebound ahead of an unobserved US inflation reading; US labor resilience prolongs tightening expectations and geopolitical oil risk remains conditional.",
+      "key_risk": "Do not present early Monday indications as closes or future October CPI as a realized release.",
+      "watch": [
+        "US CPI due 10 Nov",
+        "US Treasury curve and Fed communications",
+        "Physical oil deliveries and insurance",
+        "Verified AI investment and supply orders",
+        "Brazil IPCA and fiscal data"
+      ],
+      "search_text": "Nov9 early Asian risk recovery (Nikkei/Taiwan ~+2.5%, MSCI ex-Japan +0.8%), Brent early 97.49 vs Nov6 settlement 98.32, focus on pre-CPI uncertainty while +165k October US payroll is known. Different market sessions and intraday statuses documented."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Ásia se recupera antes do teste da inflação americana, mas o retorno do apetite por risco encontra limites",
+      "deck": "Bolsa asiática e Brent reagem após emprego americano resistente; CPI de outubro ainda será divulgado em 10 de novembro.",
+      "tags": [
+        "Global Macro",
+        "United States inflation",
+        "Federal Reserve",
+        "Asia equities",
+        "Oil shipping risk",
+        "Brazil",
+        "Euro area",
+        "China manufacturing"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-09",
+        "9 November 2026",
+        "Nov9 early Asian risk recovery (Nikkei/Taiwan ~+2.5%, MSCI ex-Japan +0.8%), Brent early 97.49 vs Nov6 settlement 98.32, focus on p"
+      ],
+      "regime": "Ações asiáticas recuperam parte das perdas antes do CPI americano não divulgado; emprego resistente prolonga expectativas restritivas enquanto risco físico do petróleo persiste.",
+      "key_risk": "Do not present early Monday indications as closes or future October CPI as a realized release.",
+      "watch": [
+        "US CPI due 10 Nov",
+        "US Treasury curve and Fed communications",
+        "Physical oil deliveries and insurance",
+        "Verified AI investment and supply orders",
+        "Brazil IPCA and fiscal data"
+      ],
+      "search_text": "Nov9 early Asian risk recovery (Nikkei/Taiwan ~+2.5%, MSCI ex-Japan +0.8%), Brent early 97.49 vs Nov6 settlement 98.32, focus on pre-CPI uncertainty while +165k October US payroll is known. Different market sessions and intraday statuses documented."
+    }
+  }
+}
