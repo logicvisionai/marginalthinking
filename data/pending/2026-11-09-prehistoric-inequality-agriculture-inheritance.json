@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-09-PREHISTORIC-INEQUALITY",
+  "slug": "2026-11-09-prehistoric-inequality-agriculture-inheritance",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T08:19:00-03:00",
+  "kind": "historical-civilizations-research",
+  "priority": 60,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/en.md",
+      "title": "Before and after agriculture: wealth, inheritance and the institutions of prehistoric inequality",
+      "deck": "Comparative archaeology of prehistoric wealth and power: house-area Gini estimates, Upper Paleolithic graves, Neolithic communities, Bronze Age inherited status and competing accounts of enduring inequality.",
+      "tags": [
+        "prehistoric inequality",
+        "wealth transmission",
+        "agriculture",
+        "inheritance",
+        "house-size Gini",
+        "Sunghir",
+        "Çatalhöyük",
+        "Bronze Age",
+        "political institutions",
+        "collective redistribution"
+      ],
+      "keywords": [
+        "Bowles Fochesato 2024 economic inequality",
+        "Kohler Smith Bogaard 2017 house size 63 sites",
+        "Borgerhoff Mulder 2009 wealth transmission",
+        "Mittnik 2019 Lech valley 104 genomes",
+        "Twiss 2024 Catalhoyuk inequality",
+        "John Robb 2025 achieving equality"
+      ],
+      "regime": "Farming expanded storable and inheritable assets but persistent inequality depended on institutions governing succession, exclusion, labor and coercion rather than agriculture alone.",
+      "key_risk": "Mistaking house-area Gini for income, singular elite tombs for entire social classes, kinship for legal inheritance, or cross-regional correlations for a universal causal timeline.",
+      "watch": [
+        "New household-level comparative archaeological datasets",
+        "Ancient DNA and isotope evidence for multigenerational status",
+        "New Neolithic studies that test redistribution and persistence",
+        "Broader regional comparison outside the 2017 sampled sites"
+      ],
+      "search_text": "Prehistoric inequality before and after agriculture, inheritance and asset persistence, house-size Gini foragers horticulture farming 0.17 0.27 0.35, Sunghir, Catalhoyuk, Lech valley Bronze Age kinship, egalitarian institutions."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/pt-BR.md",
+      "title": "Antes e depois da agricultura: riqueza, herança e as instituições da desigualdade pré-histórica",
+      "deck": "Arqueologia comparada da riqueza e do poder na pré-história: Gini de áreas residenciais, sepultamentos paleolíticos, comunidades neolíticas, posições herdadas na Idade do Bronze e interpretações concorrentes sobre desigualdade duradoura.",
+      "tags": [
+        "desigualdade pré-histórica",
+        "transmissão de patrimônio",
+        "agricultura",
+        "herança",
+        "Gini de áreas de casas",
+        "Sunghir",
+        "Çatalhöyük",
+        "Idade do Bronze",
+        "instituições políticas",
+        "redistribuição coletiva"
+      ],
+      "keywords": [
+        "Bowles Fochesato 2024 desigualdade econômica",
+        "Kohler 2017 63 sítios Gini casas",
+        "Borgerhoff Mulder 2009 herança",
+        "Mittnik 2019 Lech 104 indivíduos",
+        "Twiss 2024 desigualdade Çatalhöyük",
+        "John Robb 2025 igualdade pré-história"
+      ],
+      "regime": "A agricultura ampliou ativos armazenáveis e transmissíveis, mas a desigualdade duradoura dependeu das instituições de sucessão, exclusão, trabalho e coerção, não somente do cultivo.",
+      "key_risk": "Confundir Gini das casas com renda, sepultamentos de elite com classe social inteira, parentesco com herança jurídica ou associação regional com causalidade universal.",
+      "watch": [
+        "Novos conjuntos comparativos de residências arqueológicas",
+        "DNA antigo e isótopos sobre posições sociais multigeracionais",
+        "Novos testes sobre redistribuição neolítica e persistência",
+        "Comparações regionais fora dos sítios amostrados em 2017"
+      ],
+      "search_text": "Desigualdade pré-histórica antes e depois da agricultura, herança e persistência patrimonial, Gini da área de casas caçadores horticultores agricultores 0.17 0.27 0.35, Sunghir, Çatalhöyük, vale do Lech, Bronze, instituições igualitárias."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "inequality-distribution",
+    "institutions-governance",
+    "industry-production",
+    "demography-labor",
+    "social-change",
+    "commodities-resources"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "related_research_ids": [
+    "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY",
+    "MT-PE-2026-11-02-FORAGER-TERRITORY",
+    "MT-PE-2026-11-03-NEOLITHIC-TRANSITIONS",
+    "MT-PE-2026-11-03-CATALHOYUK-HOUSEHOLDS"
+  ],
+  "contrary_evidence": [
+    "Elaborate Sunghir child burials precede agriculture, so social differentiation cannot be dated solely from cultivation.",
+    "2024 Çatalhöyük multi-proxy data show temporary inequalities and unequal access to nonstaples without a coherent durable institutional trend.",
+    "2017 house-area Gini medians show cross-context association, not causation or world-representative household income distribution.",
+    "John Robb 2025 challenges selective elite-tomb narratives and emphasizes collective checks on hierarchy in European prehistory.",
+    "Lech valley 2019 microregional genomic study supports enduring multigenerational status but does not establish a single continental origin date."
+  ],
+  "limitations": [
+    "House-area Gini 0.17, 0.27 and 0.35 are archaeological sample medians using residential size as proxy, not modern income or wealth metrics.",
+    "2017 study covers 63 sites or contemporaneous-site groups and lacks balanced regional coverage of Africa, South Asia, South America and Oceania.",
+    "21 populations in the 2009 anthropological comparison are historical/contemporary, not direct archaeological observations of Neolithic people.",
+    "Lech valley 104 individuals and approximately 700 years concern a specific microregion and sampled cemeteries.",
+    "Sunghir funerary treatment does not establish a tax state or reconstruct all contemporary households.",
+    "2024 mound analysis samples approximately 5,000 selected funerary monuments and cannot describe the wealth distribution of the entire living population.",
+    "English and Portuguese versions are substantively parallel but require independent QA checking citations, nuance and visual grammar.",
+    "Git staging is not publication; independent approval SHA lock and publisher promotion are required."
+  ],
+  "producer_checks": {
+    "information_cutoff": "9 November 2026 (BRT); peer-reviewed research through 2025.",
+    "editorial_novelty": "Fifth study in Civilizations, Economics & Power Block A, linking previously published Paleolithic, forager, Neolithic and Çatalhöyük studies to the next Uruk administrative-systems case.",
+    "visual_signature": "Matching EN/PT chart of 0.17 0.27 0.35 sample house-area Gini medians; six-row evidence matrix, 3-chain causal flow, four-branch mind map, five-region comparative map.",
+    "source_check": "Eight identical bibliographic URLs in both locales: AEA, NCBI/PMC, Nature/PMC, PubMed, PLOS ONE, Antiquity DOI, Nature HSSC, Cambridge.",
+    "bilingual_parity": "15 numbered analytical chapters plus bibliographies, 8 same URLs and source ordinals; 1 identical numerical chart series, equivalent three flow chains, one mindmap and five-region map in each language.",
+    "research_depth": "English 31,381 characters (~4,203 words); Portuguese 34,193 characters (~4,598 words); distinction between episodic and enduring inequality across 15 substantive sections, grounded in archeological and comparative scholarly evidence.",
+    "editorial_status": "Producer ready. Independent QA must verify original research, translation and visuals and cryptographically approve the staged blobs before publisher promotion."
+  }
+}
