@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GS-2026-11-09-GLOBAL-LOGISTICS",
+  "slug": "2026-11-09-global-production-trade-logistics-geography",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T10:30:00-03:00",
+  "kind": "strategic-global-trade-corridors",
+  "priority": 45,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "technology-production-society",
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "trade-investment",
+    "infrastructure-logistics",
+    "industry-production",
+    "commodities-resources",
+    "energy",
+    "geopolitics-security",
+    "demography-labor",
+    "inequality-distribution",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "contrary_evidence": [
+    "An economy can achieve productivity and consumer welfare gains while importing advanced intermediate goods; import dependence is not automatically evidence of industrial failure.",
+    "A higher concentration ratio need not imply acute fragility when stocks, competitive qualified substitutes or alternative process capacity are demonstrably available.",
+    "WTO merchandise trade projections suggest aggregate resilience even though EIA estimated severe changes in specific 2026 energy corridors."
+  ],
+  "limitations": [
+    "This is a structural multiregional report, not transaction-level tracking or a claim to enumerate all trade flows and routes.",
+    "The most recent cited official source vintages differ: 2024 maritime ton-miles and food trade, 2025 port cargo, 2026 Q2 energy chokepoints, and 2022 TiVA value-added estimates. They are never combined into a fictitious common-year ledger.",
+    "EIA chokepoint estimates rely partly on shipping tracking, not customs declarations; charted oil flows are quarterly averages, not full-year consumption.",
+    "Quantitative diagrams present sources and measurement limits; the regional map is analytical and does not imply vessel GPS tracks or precise coordinates."
+  ],
+  "producer_checks": {
+    "information_cutoff": "9 November 2026, America/Sao_Paulo. WTO report released 8 Oct 2026; Brazil Comex Stat through Oct 2026; EIA August 2026 chokepoint analysis; primary maritime, mineral, food and port vintages explicitly recorded.",
+    "editorial_novelty": "Inaugural article of the Global Production, Trade and Logistics Geography editorial research agenda. Examines five heterogeneous physical chains and different national/territorial functions; complements rather than duplicates existing energy and geopolitical reports.",
+    "research_depth": "18 substantive analytical sections per locale (over 5,700 words each), covering extraction, processing, manufacture, inland and ocean transport, insurance, value added, labour, regional development, economic transmission and 2026 disruptions.",
+    "source_check": "16 full original source URLs in both locales, including UNCTAD, WTO, EIA, IEA, FAO, OECD, USGS, World Bank, UN Comtrade, Brazil MDIC, ANTAQ, and port authorities. Published summaries and statistical definitions checked on 9 November 2026.",
+    "visual_signature": "Two matched bar charts per language: UNCTAD 2024 volume 2.2% and tonne-miles 5.9%; IEA key energy mineral refiners top-three average 82% (2020) and 86% (2024). Three source-qualified tables, two-chain causal flow and five-region analytical map in both locales.",
+    "bilingual_parity": "18 same analytical sections, identical 16 numbered references, matched five supply-chain case studies, same quantitative series in two charts and the same five comparative region entries. Dates, units and confidence qualifications are matched.",
+    "methodology": "Distinguishes tonnes, tonne-miles, TEUs, trade value, value-added, original location and port transshipment; cross-sectional averages versus single mineral; source observations versus WTO forecast; stock, flow, ownership and effective physical capacity.",
+    "draft_status": "Bilingual manuscripts staged. Pending v2 submitted for independent fact check, language and visual QA. No producer approval granted."
+  },
+  "url": "/reports/2026/11/2026-11-09-global-production-trade-logistics-geography.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-09T14:21:07.406Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "354dca110ffd73e31a6f19f4b3e7da2e14e6cdbe",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Where the world economy actually moves: factories, commodities, corridors and power",
+      "deck": "A global political economy of physical trade: from mines, farms and industrial clusters to inland transport, seaports, chokepoints, end markets and local livelihoods, with evidence from 2024–2026.",
+      "tags": [
+        "global supply chains",
+        "trade geography",
+        "hinterland",
+        "maritime chokepoints",
+        "industry",
+        "agrifood",
+        "critical minerals",
+        "semiconductors",
+        "logistics costs",
+        "regional development",
+        "Brazil",
+        "Europe",
+        "Africa"
+      ],
+      "keywords": [
+        "UNCTAD 2024 tonne miles 5.9 volume 2.2",
+        "WTO October 2026 trade forecast 3.9 4.1",
+        "EIA August 2026 Hormuz oil flow first quarter 2025 second quarter 2026",
+        "IEA critical mineral refining concentration 82 86",
+        "Brazil ANTAQ tonne-kilometres",
+        "OECD TiVA 2025 trade in value added",
+        "international logistics 2026"
+      ],
+      "regime": "Physical global trade remains deeply integrated but differentiated by processing capacity, inland access, route risk and value-added control; aggregate resilience coexists with sharp corridor disruptions.",
+      "key_risk": "Confusing national export origin, freight routing and transshipment with the place of extraction, manufacture, ownership or final consumption; treating estimates and forecasts as observed itineraries.",
+      "watch": [
+        "Verified maritime transits through Hormuz, Suez, Malacca and Panama",
+        "Realized 2026 trade flows versus WTO projections",
+        "Changes in mining and refining capacity",
+        "Brazilian bulk and inland corridor activity",
+        "Documented new factories and qualified substitute suppliers"
+      ],
+      "search_text": "global value chains trade routes global ports Brazil Santos northern arc Horn of Africa Suez Hormuz Malacca Rotterdam copper refining soybean fertilizers semiconductors production value added freight economic development 2026"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Por onde passa a economia mundial: fábricas, matérias-primas, corredores e poder",
+      "deck": "A economia política do comércio físico: de minas, fazendas e polos industriais a ferrovias, portos, estreitos, mercados consumidores e renda regional, com evidências de 2024 a 2026.",
+      "tags": [
+        "cadeias globais de suprimento",
+        "geografia do comércio",
+        "hinterlândia",
+        "estreitos marítimos",
+        "indústria",
+        "agroalimentos",
+        "minerais críticos",
+        "semicondutores",
+        "custos logísticos",
+        "desenvolvimento regional",
+        "Brasil",
+        "Europa",
+        "África"
+      ],
+      "keywords": [
+        "UNCTAD toneladas-milha 2024 5,9 volume 2,2",
+        "OMC outubro 2026 projeções 3,9 4,1",
+        "EIA agosto 2026 fluxo Ormuz 2025 2026",
+        "IEA concentração refino 82 86",
+        "ANTAQ toneladas quilômetros 2025",
+        "OCDE TiVA comércio valor adicionado 2025",
+        "logística comércio mundial 2026"
+      ],
+      "regime": "O comércio físico permanece integrado, mas suas dependências variam por processamento, acesso terrestre, riscos de rota e controle do valor adicionado; a resistência agregada convive com choques graves em corredores.",
+      "key_risk": "Confundir país exportador, rota logística e transbordo com extração, manufatura, propriedade ou consumo final; tratar estimativas e projeções como trajetórias observadas de cargas.",
+      "watch": [
+        "Trânsito comprovado por Ormuz, Suez, Malaca e Panamá",
+        "Comércio efetivo de 2026 versus projeções da OMC",
+        "Capacidade operacional de mineração e refino",
+        "Movimento dos corredores brasileiros",
+        "Fábricas realmente operacionais e fornecedores alternativos qualificados"
+      ],
+      "search_text": "cadeia logística global como funciona comércio mundial portos Brasil Santos Arco Norte Suez Ormuz Malaca Rotterdam África cobre soja fertilizantes minério semicondutores valor adicionado fretes desenvolvimento regional 2026"
+    }
+  }
+}
