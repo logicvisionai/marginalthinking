@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-11-09T03:32:11.229Z",
+  "updated_at": "2026-11-09T13:47:29.003Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -791,7 +791,8 @@
       "public_route": "/reports/",
       "source_files": [
         "data/reports.json",
-        "RESEARCH-PUBLISHING.md"
+        "RESEARCH-PUBLISHING.md",
+        "GLOBAL-PRODUCTION-TRADE-LOGISTICS-EDITORIAL.md"
       ],
       "update_mode": "event-driven",
       "reconciliation_required": false,
