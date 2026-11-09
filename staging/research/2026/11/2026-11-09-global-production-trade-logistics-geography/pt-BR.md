@@ -128,7 +128,7 @@ Polos industriais apresentam desenvolvimento cumulativo. Fornecedores próximos 
 
 ## Exportações brutas não identificam propriedade, procedência ou renda nacional
 
-Estatísticas aduaneiras são indispensáveis, mas respondem perguntas mais restritas do que parecem. Importações podem ser registradas em base CIF, enquanto exportações costumam usar FOB; o primeiro incorpora seguro e frete conforme a convenção adotada. Calendário, código de mercadoria, sigilo, avaliação, reexportação e critério do país de procedência geram diferenças entre declarações de parceiros. A metodologia da UNCTAD distingue expressamente país de origem e país de expedição e explica algumas assimetrias com reexportações e operações comerciais sem entrada física do bem na economia do intermediário. A passagem por entreposto não altera automaticamente a origem econômica. [15]
+Estatísticas aduaneiras são indispensáveis, mas respondem perguntas mais restritas do que parecem. Importações podem ser registradas em base CIF, enquanto exportações costumam usar FOB; o primeiro incorpora seguro e frete conforme a convenção adotada. Calendário, código de mercadoria, sigilo, avaliação, reexportação e critério do país de procedência geram diferenças entre declarações de parceiros. A documentação da UN Comtrade distingue exportações domésticas, reexportações e critérios de origem, e explica como mercados intermediários podem produzir assimetrias nos fluxos registrados pelos parceiros. A passagem por entreposto não altera automaticamente a origem econômica. [15]
 
 Isso importa especialmente para produtores sem litoral e polos de comércio. Uma remessa pode ser exportada por empresa registrada num país, embarcada em navio de outra bandeira, segurada num terceiro território, transbordada num quarto e consumida no quinto. Sede de multinacional, acionista final, concessão de terminal e operador de navio fornecem informações diferentes. Nenhuma substitui as demais. Identificar “quem controla a cadeia” exige especificar o direito exercido: propriedade do ativo produtivo, alocação de capacidade de transporte, formação de preços, licença tecnológica ou autoridade jurídica sobre o porto.
 
@@ -248,7 +248,7 @@ A estrutura duradoura do comércio global não é hierarquia eterna entre paíse
 
 [14] Port of Rotterdam Authority, 2025 Annual Report, 12 March 2026. https://www.portofrotterdam.com/en/news-and-press-releases/2025-annual-report-port-rotterdam-authority-working-resilient-port
 
-[15] UN Trade and Development, methodological guidelines on country of consignment and re-exports. https://unctad.org/system/files/non-official-document/20210917_IFFsGuidelinesForPilots_en_0.pdf
+[15] UN Comtrade, Mode of Transport and Trade Routes: re-exports, intermediate partners and statistical origin. https://uncomtrade.org/docs/mode-of-transport-and-trade-routes/
 
 [16] World Bank, WITS trade, tariff and trade policy data portal. https://wits.worldbank.org/
 
