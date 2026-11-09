@@ -10,7 +10,7 @@ Três perguntas precisam permanecer separadas: onde a mercadoria é criada ou ex
 
 A distinção também modifica o conceito de competitividade. Um exportador pode embarcar grande quantidade, mas depender de máquinas, navegação, seguros, crédito e refino especializados importados. Outro país pode possuir poucas matérias-primas e obter renda com engenharia e controle de processos. Um terceiro pode movimentar cargas enormes num porto de transbordo e fabricar localmente apenas uma pequena parcela dos bens transportados. São fontes diferentes de renda, poder de negociação e vulnerabilidade.
 
-| | | |
+| Etapa produtiva | Objeto mensurável principal | Por que difere da exportação |
 | --- | --- | --- |
 | Extração e colheita | Produção física, qualidade e localização | Uso doméstico e estoques podem preceder venda externa |
 | Processamento e refino | Rendimento, utilização, produção | Matéria-prima importada pode alimentar a indústria local |
