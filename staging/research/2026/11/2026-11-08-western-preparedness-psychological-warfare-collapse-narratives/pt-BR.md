@@ -57,10 +57,10 @@ As economias avançadas ficaram eficientes ao reduzir imobilização de capital 
 
 Interrupções físicas e digitais produzem efeitos distintos. Falha elétrica local pode ser reparada sem perda permanente de produção. Sabotagem de equipamento de difícil reposição pode prolongar indisponibilidade. Um ataque cibernético contra logística pode desorganizar operações sem destruir instalações; um boato que antecipa falsamente o fechamento dos supermercados pode gerar compras concentradas sem dano técnico prévio. A resposta depende de identificar qual elo efetivamente falhou. [2][11]
 
-\`\`\`flow
+```flow
 Ameaça física ou digital → interrupção de energia e comunicações → restrição ao bombeamento, pagamentos, refrigeração e transporte → entregas irregulares → pressão sobre famílias e serviços públicos
 Rumor de desabastecimento → compras antecipadas simultâneas → esvaziamento temporário das prateleiras → imagens sem contexto → novas compras antecipadas
-\`\`\`
+```
 
 A primeira cadeia descreve transmissão de um choque operacional; a segunda, um mecanismo de realimentação possível em episódios de pânico de consumo. Uma pode ocorrer sem a outra. Separá-las evita responsabilizar propaganda por um dano técnico comprovado ou atribuir a um inimigo externo a escassez causada por procura excepcional.
 
@@ -78,14 +78,14 @@ Mas não existe razão para presumir que todo conteúdo de medo tenha a mesma or
 
 O quarto relatório anual do Serviço Europeu de Ação Externa, publicado em março de 2026, examinou **540 incidentes** de manipulação e interferência informacional estrangeira detectados em 2025. Na amostra, 29% foram atribuídos à Rússia; 6% foram associados à China; aproximadamente 65% permaneceram sem atribuição conclusiva. O relatório registrou ainda **10.500 canais únicos** envolvidos nos incidentes examinados. Esses números descrevem observações selecionadas pela metodologia do serviço, não todas as mensagens falsas existentes na internet, nem a proporção da população europeia convencida por elas. [14]
 
-\`\`\`chart
+```chart
 type: bar
 title: Incidentes de FIMI analisados em 2025 — atribuição segundo o EEAS
 unit: % dos 540 incidentes examinados; percentuais arredondados e pequena sobreposição de atribuição
 Atribuídos à Rússia | 29
 Ligados à China | 6
 Sem atribuição conclusiva | 65
-\`\`\`
+```
 
 O relatório não autoriza concluir que 65% dos casos foram conduzidos por um terceiro país, nem que todos os incidentes tenham o mesmo alcance. Alguns casos envolvem operações relacionadas; outros podem ser difíceis de atribuir precisamente porque operadores disfarçam contas, servidores e financiamento. Contagem de canais e contagem de incidentes medem coisas distintas. [14]
 
@@ -103,7 +103,7 @@ A teoria da amplificação social do risco, desenvolvida por Roger Kasperson e c
 
 A Organização Mundial da Saúde empregou o conceito de *infodemia* para situações de excesso de informações verdadeiras e falsas em emergências sanitárias. A experiência sanitária não é equivalente a um conflito militar, mas torna observável um processo comum: excesso informacional pode dificultar encontrar orientação prática, elevar ansiedade e desgastar a confiança em autoridades. [20]
 
-\`\`\`mindmap
+```mindmap
 Circuito de percepção do risco
 - Origem
   - Evento físico verificável
@@ -123,7 +123,7 @@ Circuito de percepção do risco
   - Compra impulsiva
   - Desconfiança e fadiga
   - Cooperação comunitária
-\`\`\`
+```
 
 Cada transformação é uma possibilidade causal, não uma atribuição automática. O mesmo circuito pode ser alimentado por uma falha operacional, uma campanha de marketing, uma ação hostil ou a simples repetição de orientações legítimas.
 
@@ -153,7 +153,7 @@ O conselho “mantenha dez dias de reservas” não tem o mesmo custo para uma f
 
 O Eurobarômetro especial de 2024 identificou, no conjunto da UE, 29% dos entrevistados informando manter uma reserva de bebida e alimento para emergências, 20% informando reserva de água para cozinhar e higiene e 18% com acordos prévios de contato com parentes ou amigos. São respostas declaradas sobre medidas adotadas, não uma auditoria da adequação ou duração efetiva dos estoques. A pesquisa também registrou limitações de recursos e informação entre os entrevistados. [21][22]
 
-\`\`\`chart
+```chart
 type: bar
 title: Preparação declarada por domicílios na União Europeia — Eurobarômetro 547, 2024
 unit: % dos respondentes UE27; respostas múltiplas, categorias não aditivas
@@ -165,7 +165,7 @@ Rádio a pilhas acessível | 20
 Plano de contato com pessoas próximas | 18
 Documentos protegidos ou copiados | 16
 Inscrição em alertas oficiais | 11
-\`\`\`
+```
 
 A baixa disponibilidade de suprimentos entre os respondentes ajuda a compreender a ação preventiva das autoridades, independentemente de uma escalada militar. Ao mesmo tempo, medidas de resiliência precisam contemplar abastecimento comunitário, comunicação acessível, atendimento prioritário, escolas, asilos e pessoas incapazes de transportar ou armazenar reservas. O objetivo público não é apenas aumentar vendas de kits, mas reduzir os danos de interrupções especialmente entre os mais vulneráveis.
 
@@ -173,14 +173,14 @@ A baixa disponibilidade de suprimentos entre os respondentes ajuda a compreender
 
 A proximidade da guerra, as características climáticas e a capacidade administrativa tornam diferentes as políticas nacionais. Países bálticos e nórdicos enfrentam uma posição geográfica e uma memória institucional de defesa diferentes das do sul da Europa. O Reino Unido incorpora experiência de enchentes, tempestades e interrupção de serviços. Estados do Mediterrâneo enfrentam incêndios e ondas de calor; no Brasil, cheias, deslizamentos, secas e falhas locais de abastecimento são elementos mais diretamente documentados na rotina de defesa civil do que um cenário de guerra europeia transferido sem mediação. [1][4][9][10]
 
-\`\`\`map
+```map
 title: Geografia das orientações e dos mecanismos de exposição
 Europa setentrional | Preparação civil integrada à segurança territorial | Ameaças militares coexistem com clima e falhas de infraestrutura
 Europa continental | Redes interdependentes de energia, logística e indústria | Planejamento da OTAN e UE não equivale a cronograma de ofensiva
 Reino Unido | Continuidade doméstica por três dias | Campanha inclui tempo severo, água, telefone e eletricidade
 América do Norte | Tradição de kits para emergências e desastres | Recomendações multirriscos não são novas
 Brasil | Proteção civil contra desastres e interrupções locais | Nota federal de 7 de novembro nega alerta nacional extraordinário
-\`\`\`
+```
 
 Um mapa de riscos elaborado apenas com países que publicaram manuais confunde capacidade de comunicação com intensidade de ameaça. Autoridades mais transparentes podem aparecer como mais alarmadas justamente porque publicam instruções; países sem comunicação equivalente podem ter vulnerabilidades maiores ou sistemas institucionais menos visíveis.
 
