@@ -128,7 +128,7 @@ Industrial clusters can build on themselves. A dense supplier base reduces lead 
 
 ## Export totals cannot identify ownership, origin or national income
 
-Customs statistics are essential but answer narrower questions than they appear to. Import values may be recorded CIF while exports are commonly expressed FOB; the former includes insurance and freight under relevant measurement conventions. Timing, product codes, confidentiality, valuation, re-exports and country-of-consignment treatment create asymmetries between partner reports. UNCTAD's guidance explicitly distinguishes country of origin from country of dispatch and uses merchanting and re-exports to explain some recorded trade discrepancies. A route through a hub does not automatically change the good's economic origin. [15]
+Customs statistics are essential but answer narrower questions than they appear to. Import values may be recorded CIF while exports are commonly expressed FOB; the former includes insurance and freight under relevant measurement conventions. Timing, product codes, confidentiality, valuation, re-exports and country-of-consignment treatment create asymmetries between partner reports. UN Comtrade's guidance explicitly distinguishes domestic exports, re-exports and country-of-origin treatment, and explains why intermediate markets can produce asymmetries between recorded partner flows. A route through a hub does not automatically change the good's economic origin. [15]
 
 This is particularly important for landlocked producers and trading hubs. A shipment can be exported by a firm registered in one country, loaded on a vessel under another flag, insured in a third, transshipped through a fourth and physically consumed in a fifth. A listed multinational's headquarters, its ultimate shareholders, a terminal concession and a ship's operator provide different pieces of information. None can substitute for the others. Identifying 'who controls the chain' requires specifying the right being exercised: ownership of productive assets, allocation of shipping capacity, price setting, technology licensing or legal authority over a port.
 
@@ -248,7 +248,7 @@ The lasting structure of global trade is therefore neither a permanent hierarchy
 
 [14] Port of Rotterdam Authority, 2025 Annual Report, 12 March 2026. https://www.portofrotterdam.com/en/news-and-press-releases/2025-annual-report-port-rotterdam-authority-working-resilient-port
 
-[15] UN Trade and Development, methodological guidelines on country of consignment and re-exports. https://unctad.org/system/files/non-official-document/20210917_IFFsGuidelinesForPilots_en_0.pdf
+[15] UN Comtrade, Mode of Transport and Trade Routes: re-exports, intermediate partners and statistical origin. https://uncomtrade.org/docs/mode-of-transport-and-trade-routes/
 
 [16] World Bank, WITS trade, tariff and trade policy data portal. https://wits.worldbank.org/
 
