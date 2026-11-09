@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-09",
+  "checked_at": "2026-11-09T08:56:52Z",
+  "scope": "Reconciliation of every active editorial line against registry at HEAD. MT-GM-2026-11-09 independently QA-approved and already in public repository bundle; market evidence cutoff of its manuscript 00:54 BRT. Review uses available primary BLS, Treasury, Eurostat, NBS and BoE references; not an exhaustive new primary-source review for each thematic line.",
+  "registry_updated_at": "2026-11-09T03:32:11.229Z",
+  "registry_blob_sha": "2ec05beb855fe633372061a47faf2a833990d630",
+  "reviewed_line_count": 33,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "published_in_repository",
+      "note": "MT-GM-2026-11-09 approved revision 1, public bundle present in main; no duplicate."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "October US payroll and Treasury curve included; November 10 CPI is future, not observed."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    },
+    {
+      "registry_id": "editorial-strategic-security-resilience",
+      "kind": "strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled against registry; no independent verified thematic delta established in bounded source screening. No new article; hypothetical risks not presented as events."
+    }
+  ],
+  "thematic_article_created": false,
+  "limitations": [
+    "Registry coverage does not imply exhaustive fresh source verification of each line.",
+    "No verified independent delta established for food safety, pesticide exposure, antimicrobial resistance, biosecurity or conflict to justify thematic publication.",
+    "No unverified war, outbreak or strategic-stock claim promoted to fact."
+  ]
+}
