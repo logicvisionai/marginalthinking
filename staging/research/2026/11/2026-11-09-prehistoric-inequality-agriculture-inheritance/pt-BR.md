@@ -46,6 +46,17 @@ Agricultores | 0.35
 
 O estudo de 2017 também identificou desigualdades pós-neolíticas mais elevadas nas sociedades eurasiáticas amostradas do que nas amostras da América do Norte e da Mesoamérica. Sua interpretação atribui importância à disponibilidade de grandes animais domesticáveis, à expansão da área agrícola e, posteriormente, às elites militares montadas. O mecanismo é plausível: animais fornecem tração, esterco, transporte e patrimônio transferível; forças montadas podem ampliar a escala territorial de apropriação de recursos. Entretanto, tecnologias semelhantes podem coexistir com instituições diferentes, e a distribuição desigual da amostra e das cronologias impede transformar o resultado numa escada civilizacional universal. [3]
 
+Uma verificação de medidas independentes, apresentada no mesmo artigo de 2017, utiliza estimativas etnográficas de riqueza para sociedades vivas ou documentadas historicamente. Em cinco grupos caçadores-coletores, a média das médias grupais é 0,25; em quatro grupos hortícolas, 0,28; e em oito grupos agrícolas, 0,44. Ao contrário do gráfico anterior, **não são coeficientes baseados em áreas residenciais nem medianas arqueológicas**: são médias produzidas com diferentes indicadores de riqueza e populações etnográficas independentes. Servem para verificar aproximadamente a direção e a magnitude das estimativas residenciais. Populações, ponderação e definições patrimoniais distintas impedem subtrair diretamente barras de um gráfico das barras do outro como se fossem observações emparelhadas. [3]
+
+```chart
+type: bar
+title: Verificação etnográfica apresentada por Kohler et al. (2017): média das médias grupais do Gini de riqueza
+unit: Gini de indicadores diversos de riqueza, grupos etnográficos (caçadores n=5; hortícolas n=4; agricultores n=8); não é Gini de casas
+Sociedades caçadoras-coletoras (n=5) | 0.25
+Sociedades hortícolas (n=4) | 0.28
+Sociedades agrícolas (n=8) | 0.44
+```
+
 Outro teste aparece na antropologia comparativa de 21 populações históricas e contemporâneas de pequena escala. Borgerhoff Mulder e colaboradores encontraram transmissão familiar mais intensa das formas importantes de riqueza e maior desigualdade entre grupos pastoris e de pequena agricultura do que entre os grupos hortícolas e caçadores-coletores examinados. Patrimônio material, capacidades pessoais e relações sociais apresentam formas diferentes de transmissão. Isso não constitui observação direta do Neolítico: a comparação contemporânea identifica mecanismos que precisam ser testados independentemente na arqueologia. [2]
 
 ```flow
