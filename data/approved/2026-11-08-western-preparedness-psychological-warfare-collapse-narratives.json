@@ -1,0 +1,234 @@
+{
+  "schema_version": 2,
+  "id": "MT-GS-2026-11-08-WESTERN-PREPAREDNESS-PSYCHOLOGICAL-WARFARE",
+  "slug": "2026-11-08-western-preparedness-psychological-warfare-collapse-narratives",
+  "revision": 1,
+  "program": "global-system-power",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-09T01:29:04.663Z",
+  "reviewed_commit": "5fa73ac1a65558be6ec0671e351877e6fa097c05",
+  "pending_blob_sha": "dd21644dff860eb8f0b219f03f1a8baba131247d",
+  "source_blob_shas": {
+    "en": "2e92331fdec9d09f3504735c1560cb627e4e8af7",
+    "pt-BR": "534406872252a653bdccfb35a5d751a7e26a3dc8"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending Git blob dd21644dff860eb8f0b219f03f1a8baba131247d, staged EN 2e92331fdec9d09f3504735c1560cb627e4e8af7, PT-BR 534406872252a653bdccfb35a5d751a7e26a3dc8; both read directly from main. No public bundle or prior QA approval for slug at review."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Ready v2 initial revision 1; global program global-system-power, valid controlled dimensions, topics and conflict/security/social-change phenomena, both locales present."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Review cutoff 8 Nov 2026 BRT; 2024 Niinistö and Eurobarometer, Mar/Jul 2025 Commission, Sep 2026 NATO, Oct 22 2026 UK Cabinet Office and Nov 7 2026 Brazilian federal civil defense carefully distinguished. Earlier reference wrongly dated Nov 3 2026 not repeated."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Cross-checked official UK Cabinet Office 22 Oct 2026; NATO 15 Sep 2026 resilience baseline; Brazil MIDR 7 Nov 2026 denial of extraordinary national alert; 2025 EEAS FIMI sample published Mar 2026; Commission July 2025 stockpiling; EU 2024 Eurobarometer figure 6 values; EU Council 8 Oct 2026 sanctions totals and 2022 Kasperson DOI. Denominators and attribution qualifications preserved."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "23 numbered bibliography items / 22 unique URLs / 17 source hosts per locale; direct primary-source sample includes NATO, UK Cabinet Office, MIDR, Commission, EEAS, Council and Eurobarometer; EU DisinfoLab and risk literature. Source integrity sampled rather than independently forensic-auditing every URL; no claimed attribution of particular stockpiling posts to a state."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "18 numbered substantive chapters each: EN approx 4,949 deterministic substantive words, PT-BR approx 5,268; sustained historical, psychological, strategic, socioeconomic, infrastructure, distribution and scenario analysis with separate competing explanations and falsifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both languages include two explicit bar charts with precisely matching numeric vectors [29,6,65] and [47,36,29,20,20,18,16,11]; two comparative tables (14 pipe-rows), two-chain causal flow, nested mindmap and five-region map, each backed by prose and citations."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "18 numbered chapters and 23 ordered numbered bibliography references per locale; equivalent 22 unique URLs, chart data, table assertions, conditional scenarios, limitations on inference and geographic coverage; no mechanical translation of controlled taxonomy."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Institutional long-form analysis, no assistant conversations or instructions to editors, no invented images, no speculative countdown to collapse, no conflation of recommendations with intelligence. Bibliography located at end. Historical context and policy/evidence distinctions maintained."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Explains why documented FIMI campaigns do not attribute specific emergency-kit news; demonstrates older civilian guidance predating crisis headlines; acknowledges real hazards so counter-inference 'all warnings are propaganda' is rejected."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Four explicit alternative hypotheses with evidentiary tests; three conditional scenarios identify what observations would confirm or disconfirm normal preparedness, limited shocks and major strategic escalation; no unsupported scenario probabilities."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "GitHub editorial-health workflow at commit 7152a9e reported validate-pipeline OK (182 public bundles; 17 unpublished pending); cross-language structure, charts and depth of this dossier exceed individual thresholds. Strict all-pending editorial-depth job fails on older unrelated articles, including 8 Nov Global Macro, not this dossier."
+    }
+  },
+  "contrary_evidence": [
+    "Emergency stockpiling and 72-hour household self-sufficiency guidance date to 2024–2025, rather than a single unprecedented November 2026 European crisis announcement.",
+    "The 7 November 2026 Brazilian ministry clarification rejects the interpretation of domestic kit guidance as an extraordinary warning of generalized national collapse.",
+    "Observed foreign information manipulation campaigns do not establish responsibility for specific food-and-water preparedness headlines without distribution and attribution evidence.",
+    "Infrastructure and geopolitical vulnerabilities are material, so dismissing all civil preparedness as propaganda would be equally unfounded."
+  ],
+  "limitations": [
+    "No case-specific network forensic attribution for the November 2026 social-media stockpiling narrative; the investigation distinguishes documented general FIMI activity from the untested claim of a coordinated campaign targeting these particular alerts.",
+    "EEAS 2025 FIMI incident shares describe a selected observed sample, not the universe of online misinformation or population-level persuasion.",
+    "Eurobarometer 2024 household preparedness data are self-reported and cannot be interpreted as audited stocks or current November 2026 rates.",
+    "No evidence from the researched official preparedness documents establishes a calendar for imminent Western collapse; absence of such evidence does not rule out future emergencies.",
+    "National emergency-kit guidance varies in its water-use definitions, recommendations and geographic contexts.",
+    "This is an assisted and documented source-sampling QA in the same user-requested workflow as production, not an independent external human fact-check. An automated pipeline status does not certify the live deployment."
+  ],
+  "notes": "Reviewed against independent content, timeline, source-vintage, metric-denominator, hypothesis, visual and bilingual checks. No claim of externally independent human review; no emergency-kit headline attributed to an information operation without case-specific forensics.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GS-2026-11-08-WESTERN-PREPAREDNESS-PSYCHOLOGICAL-WARFARE",
+    "slug": "2026-11-08-western-preparedness-psychological-warfare-collapse-narratives",
+    "date": "2026-11-08",
+    "published_at": "2026-11-08T22:00:00-03:00",
+    "kind": "strategic-security-research",
+    "priority": 54,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "geopolitics-security",
+      "institutions-governance",
+      "infrastructure-logistics",
+      "social-change",
+      "inequality-distribution",
+      "industry-production",
+      "technology-innovation"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "defense-security",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium",
+    "selection_rationale": "A comprehensive original investigation into how verifiable 2024–2026 civilian preparedness programmes interact with foreign information interference, media amplification, public confidence and critical-infrastructure interdependence; differentiates real risk, warning, attributed campaigns and unsupported collapse claims.",
+    "contrary_evidence": [
+      "Emergency stockpiling and 72-hour household self-sufficiency guidance date to 2024–2025, rather than a single unprecedented November 2026 European crisis announcement.",
+      "The 7 November 2026 Brazilian ministry clarification rejects the interpretation of domestic kit guidance as an extraordinary warning of generalized national collapse.",
+      "Observed foreign information manipulation campaigns do not establish responsibility for specific food-and-water preparedness headlines without distribution and attribution evidence.",
+      "Infrastructure and geopolitical vulnerabilities are material, so dismissing all civil preparedness as propaganda would be equally unfounded."
+    ],
+    "limitations": [
+      "No case-specific network forensic attribution for the November 2026 social-media stockpiling narrative; the investigation distinguishes documented general FIMI activity from the untested claim of a coordinated campaign targeting these particular alerts.",
+      "EEAS 2025 FIMI incident shares describe a selected observed sample, not the universe of online misinformation or population-level persuasion.",
+      "Eurobarometer 2024 household preparedness data are self-reported and cannot be interpreted as audited stocks or current November 2026 rates.",
+      "No evidence from the researched official preparedness documents establishes a calendar for imminent Western collapse; absence of such evidence does not rule out future emergencies.",
+      "National emergency-kit guidance varies in its water-use definitions, recommendations and geographic contexts."
+    ],
+    "producer_checks": {
+      "information_cutoff": "8 November 2026, America/Sao_Paulo; official October–November 2026 updates and prior European institutional records included.",
+      "research_depth": "18 analytical chapters per locale, 23 numbered references; PT-BR 42,332 characters (~5,637 words), EN 41,014 characters (~5,286 words).",
+      "evidence_inventory": "23 matched references per language; European Commission, UK Cabinet Office, NATO, EEAS, Council of the EU, Sweden, Germany's BBK, Brazilian federal civil defense, EU DisinfoLab, peer-reviewed risk psychology, WHO and OECD.",
+      "visual_signature": "Two auditable matching bar charts in both locales: EEAS attribution shares [29,6,65] and Eurobarometer preparedness categories [47,36,29,20,20,18,16,11]. Both have two comparative tables, a dual-chain flow, a mindmap and a regional exposure map.",
+      "translation_check": "Identical 18 numbered argument chapters, 23 numbered bibliography entries, numeric chart arrays, comparative table logic and causal/geographic visuals; qualifications concerning attribution and imminent collapse preserved.",
+      "source_shas": {
+        "en": "2e92331fdec9d09f3504735c1560cb627e4e8af7",
+        "pt-BR": "534406872252a653bdccfb35a5d751a7e26a3dc8"
+      },
+      "factual_cautions": "Distinguishes government hazard planning from military intelligence of immediate danger, direct detection of FIMI from attribution of particular panic narratives, and hypothetical supply chain feedbacks from measured shortages."
+    },
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-08-western-preparedness-psychological-warfare-collapse-narratives/en.md",
+        "title": "The West and the Politics of Fear: Civil Preparedness, Psychological Warfare and Narratives of Collapse",
+        "deck": "From European 72-hour guidance and NATO resilience to Russian-attributed information interference, supply-chain dependence and the politics of panic: what current evidence does and does not establish.",
+        "tags": [
+          "Civil preparedness",
+          "Psychological warfare",
+          "Foreign information manipulation",
+          "NATO",
+          "European Union",
+          "Crisis resilience",
+          "Risk amplification",
+          "Critical infrastructure",
+          "Collapse narratives",
+          "Brazil",
+          "Hybrid threats"
+        ],
+        "keywords": [
+          "western psychological warfare food water stockpiling 2026",
+          "EU 72 hour emergency preparedness 2025",
+          "UK Be Ready October 2026 campaign",
+          "NATO 2026 resilience baseline",
+          "EEAS FIMI 2026 report Russia China",
+          "Brazil civil defense November 2026 kit warning",
+          "risk amplification and panic buying",
+          "civil defense supply chains and disinformation"
+        ],
+        "regime": "Civil resilience policy has expanded across allied states while documented FIMI campaigns and attention-driven media create opportunities to recast risk-management guidance as imminent-collapse claims.",
+        "key_risk": "Inferring a centrally coordinated psychological operation or imminent catastrophe from independent preparedness guidance and generic evidence of information warfare, without establishing source-to-claim attribution.",
+        "watch": [
+          "New official preparedness directives versus recycling of earlier guidance",
+          "Specific traceable influence networks distributing food-and-water collapse claims",
+          "Measured disruptions in utilities, logistics and retail inventory rather than unverified imagery",
+          "Public clarification and communication effectiveness",
+          "NATO and European contingency planning evidence versus operational military signals"
+        ],
+        "search_text": "Western psychological warfare collapse fear emergency stockpiling water food NATO EU preparedness 72 hours 2024 2025 2026 UK Be Ready Brazilian civil defense EEAS FIMI Doppelganger risk amplification households supply chains"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-08-western-preparedness-psychological-warfare-collapse-narratives/pt-BR.md",
+        "title": "O Ocidente diante do medo: preparação civil, guerra psicológica e a economia política das narrativas de colapso",
+        "deck": "Das orientações de 72 horas na Europa à resiliência da OTAN e às operações de interferência informacional: evidências, mecanismos econômicos, vulnerabilidades e o limite das previsões de caos.",
+        "tags": [
+          "Preparação civil",
+          "Guerra psicológica",
+          "Manipulação informacional estrangeira",
+          "OTAN",
+          "União Europeia",
+          "Resiliência civil",
+          "Amplificação do risco",
+          "Infraestrutura crítica",
+          "Narrativas de colapso",
+          "Brasil",
+          "Guerra híbrida"
+        ],
+        "keywords": [
+          "guerra psicológica ocidente estoques água alimentos 2026",
+          "União Europeia preparação 72 horas 2025",
+          "campanha britânica Be Ready outubro 2026",
+          "OTAN resiliência setembro 2026",
+          "EEAS FIMI relatório 2026 Rússia China",
+          "defesa civil Brasil novembro 2026 kit de emergência",
+          "amplificação social do risco compras por pânico",
+          "cadeias de abastecimento guerra informacional e medo"
+        ],
+        "regime": "O planejamento de resiliência civil expandiu-se entre países aliados, enquanto operações documentadas de interferência informacional e a mídia orientada à atenção permitem transformar orientações preventivas em narrativas de catástrofe iminente.",
+        "key_risk": "Tratar orientações independentes de proteção civil e evidência genérica de guerra informacional como prova de operação psicológica coordenada ou de colapso iminente, sem demonstrar atribuição específica.",
+        "watch": [
+          "Distinção entre novos alertas oficiais e recirculação de orientações antigas",
+          "Redes identificáveis que distribuam alegações sobre escassez de água e alimentos",
+          "Interrupções mensuradas de energia, logística e abastecimento, evitando vídeos sem contexto",
+          "Esclarecimentos oficiais e eficácia de comunicação pública",
+          "Evidência de planejamento militar em contraste com movimentações e ataques operacionais comprovados"
+        ],
+        "search_text": "Ocidente guerra psicológica medo estocar água comida alimentos 2026 OTAN União Europeia preparação civil 72 horas Reino Unido Be Ready defesa civil Brasil novembro EEAS FIMI Doppelganger economia política da resiliência"
+      }
+    },
+    "revision": 1
+  }
+}
