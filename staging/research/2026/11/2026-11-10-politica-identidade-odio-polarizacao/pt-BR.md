@@ -101,6 +101,8 @@ Europa | Conflitos socioeconômicos e culturais heterogêneos | Sistemas multipa
 América Latina | Desigualdade e crises de representação | Não há uma trajetória uniforme entre regimes e economias
 ```
 
+Uma investigação publicada em abril de 2026 na *Nature Human Behaviour*, baseada em questionários on-line com cotas em 30 países e 15.202 participantes, observou mais relatos de hostilidade política digital em sociedades menos democráticas e economicamente menos igualitárias. Os autores também encontraram associação entre hostilidade on-line e off-line nos países estudados. Como os dados são observacionais, não demonstram que desigualdade, instituições ou redes sociais causem isoladamente esse comportamento. A amostragem tampouco permite comparar cada país com a precisão de um censo. A pesquisa acrescenta contexto institucional e distributivo ao problema, sem transformá-lo em determinismo econômico.
+
 O relatório da democracia de 2026 do V-Dem situa a disputa política em um contexto global de pressões sobre instituições representativas. É necessário separar três perguntas: qual a distância entre preferências políticas, quanta aversão existe entre grupos e se mecanismos democráticos de alternância continuam respeitados. Indicadores de democracia, pesquisas de opinião e resultados eleitorais medem coisas diferentes. Somá-los como se fossem um índice único de “ódio mundial” produziria uma conclusão enganosa.
 
 ## Plataformas, algoritmos e o mercado da indignação
