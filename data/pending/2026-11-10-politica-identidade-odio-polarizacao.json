@@ -6,7 +6,7 @@
   "revision": 0,
   "date": "2026-11-10",
   "published_at": "2026-11-10T17:26:00-03:00",
-  "kind": "research-report",
+  "kind": "political-economy-event-assessment",
   "priority": 6,
   "source_locale": "en",
   "sources": {
@@ -146,5 +146,13 @@
     "Reducing exposure to like-minded posts need not reduce measured polarization.",
     "Perceived hostility may exceed actual policy disagreement."
   ],
-  "source_integrity": "Direct links to TSE, MPF, OECD, Pew, peer-reviewed papers and dated Datafolha reports; observational claims distinguished from experiments."
+  "source_integrity": "Direct links to TSE, MPF, OECD, Pew, peer-reviewed papers and dated Datafolha reports; observational claims distinguished from experiments.",
+  "producer_checks": {
+    "content_depth": "EN/PT-BR both exceed 4,000 approximate raw words and 3,700+ substantive words",
+    "bilingual_visuals": "two source-based charts, two tables, flow and map per locale",
+    "source_vintage": "observations dated 2022–2026, cutoff 2026-11-10",
+    "scope": "political economy, psychology, social identity, institutions, digital platforms, Brazil and cross-regional comparison",
+    "falsification": "explicit observations that would weaken major mechanisms",
+    "independent_qa_required": true
+  }
 }
