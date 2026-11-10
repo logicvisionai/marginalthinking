@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-10T04:44:00.000Z",
+  "last_reconciled_at": "2026-11-10T20:48:26.392Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8885,6 +8885,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "China AI-linked export value growth and US technology equity prices do not verify technology performance, factory commissioning or deployed computing capacity."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-political-polarization-110204826392",
+      "reconciled_at": "2026-11-10T20:48:26.392Z",
+      "report_ids_reviewed": [
+        "MT-RR-2026-11-10-POLARIZATION"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "No validated new structural observation, financial position, technical deployment or asset relationship for this cumulative system follows from this historical and comparative study."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No validated new structural observation, financial position, technical deployment or asset relationship for this cumulative system follows from this historical and comparative study."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Political leaders and parties are examined as actors in identity formation, but source evidence does not establish a new durable actor-control relationship requiring a canonical entry."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No validated new structural observation, financial position, technical deployment or asset relationship for this cumulative system follows from this historical and comparative study."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "No validated new structural observation, financial position, technical deployment or asset relationship for this cumulative system follows from this historical and comparative study."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "The 8 January 2023 institutional attack is discussed as a verified historical event, not as a newly observed armed conflict; no new systemic incident or exposure warrants a canonical dataset change."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No validated new structural observation, financial position, technical deployment or asset relationship for this cumulative system follows from this historical and comparative study."
         }
       ]
     }
