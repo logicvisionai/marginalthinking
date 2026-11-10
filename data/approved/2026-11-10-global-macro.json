@@ -5,11 +5,11 @@
   "revision": 1,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-10T04:44:00.000Z",
-  "reviewed_commit": "633f5b997d578b5cca5dab27a7a371167eed6963",
+  "reviewed_at": "2026-11-10T05:00:00.000Z",
+  "reviewed_commit": "5941688d6ccb8f7bc8786a21f4da9b61f93d75a9",
   "pending_blob_sha": "ba0b6e3c72a5dd3e8ade60f22356e396368d3597",
   "source_blob_shas": {
-    "en": "6920eeac5c122dee21cd5f7c2da151c74236310e",
+    "en": "8ab3cd9f90478e9f4dcfd9219e84ce16f13df966",
     "pt-BR": "9294fdf2c4d5509f2185c445c8e1614e99dc6637"
   },
   "taxonomy_check": "passed",
@@ -18,7 +18,7 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Exact staged source and pending Git blob SHAs independently read from main; publication snapshot immutable."
+      "summary": "Approved SHA of revised EN staging and published public EN is identical; pending and PT blobs unchanged."
     },
     "schema_and_taxonomy": {
       "result": "passed",
@@ -50,7 +50,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Cohesive analytical sections; no meta-instructions or fictional figures; distinguishes information sources and proof of physical vs financial change."
+      "summary": "Editorial autocitation eliminated from EN source; revised staged and public file SHA pinned, prose now makes cutoff fact directly. Other reviewed sources and arguments unchanged."
     },
     "contrary_evidence": {
       "result": "passed",
@@ -80,7 +80,7 @@
     "Site delivery requires separate CI and HTTP verification.",
     "Reviewed by assistant-led source and SHA checks, not a separate human editor."
   ],
-  "notes": "Documented SHA-bound evidence review. Automated/assisted QA does not represent independent human approval; publication, CI and web deployment are distinct.",
+  "notes": "Documented SHA-bound evidence review. Automated/assisted QA does not represent independent human approval; publication, CI and web deployment are distinct. Minor EN sentence change to eliminate editorial self-reference in CI validation; substantive facts unchanged.",
   "publication": {
     "schema_version": 2,
     "ready": true,

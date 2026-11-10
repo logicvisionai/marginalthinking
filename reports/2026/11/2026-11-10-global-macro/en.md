@@ -96,7 +96,7 @@ The 9 November Focus survey, collecting responses through 6 November, placed med
 
 Lower crude prices can cut expected diesel and freight costs for agriculture and commerce, while decreasing potential oil-producer receipts and some royalties. Exchange-rate changes may offset part of any benefit to importers. High domestic financing rates continue to constrain construction, equipment investment and working capital, and a one-day equity rise cannot identify the direction of lending to smaller firms.
 
-Brazil's Copom minutes are scheduled for Tuesday 10 November. The October IPCA itself is due Thursday 12 November according to the IBGE calendar. Minutes explain policymakers' reasoning for an existing decision; the upcoming price index supplies newly measured inflation. Both are future events at this report's cutoff. [12][13]
+Brazil's Copom minutes are scheduled for Tuesday 10 November. The October IPCA itself is due Thursday 12 November according to the IBGE calendar. Minutes explain policymakers' reasoning for an existing decision; the upcoming price index supplies newly measured inflation. Neither document had been released by the 01:44 BRT cutoff. [12][13]
 
 ## 6. Europe: lower spot oil arrives after a large accumulated price shock
 
