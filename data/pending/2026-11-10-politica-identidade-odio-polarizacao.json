@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-RR-2026-11-10-POLARIZATION",
+  "slug": "2026-11-10-politica-identidade-odio-polarizacao",
+  "revision": 0,
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T17:26:00-03:00",
+  "kind": "research-report",
+  "priority": 6,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-10-politica-identidade-odio-polarizacao/en.md",
+      "title": "The Dark Side of Politics: Why Struggles for Power Turn Disagreement into Hatred",
+      "deck": "A historical, philosophical, psychological and political-economic investigation into collective identity, resentment, democratic rivalry and polarization in Brazil and across the world.",
+      "tags": [
+        "Political polarization",
+        "Affective polarization",
+        "Political psychology",
+        "Brazil",
+        "Democracy",
+        "Social identity",
+        "Political economy"
+      ],
+      "keywords": [
+        "Tajfel",
+        "Arendt",
+        "Hobbes",
+        "Fromm",
+        "Haidt",
+        "Iyengar",
+        "Piketty",
+        "Bolsonaro",
+        "Lula",
+        "social media",
+        "moralization"
+      ],
+      "regime": "Identity-based political conflict and declining intergroup trust",
+      "key_risk": "Confusing policy disagreement with group-based dehumanization and attacks on democratic legitimacy",
+      "watch": [
+        "Perceptions of out-groups",
+        "Acceptance of electoral outcomes",
+        "Institutional trust",
+        "Economic and cultural insecurity",
+        "Algorithmic exposure"
+      ],
+      "search_text": "Political hostility, affective polarization, social identity theory, Brazil 2026, political economy, resentment and algorithmic amplification."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-10-politica-identidade-odio-polarizacao/pt-BR.md",
+      "title": "O lado sombrio da política: por que a disputa pelo poder transforma divergências em ódio",
+      "deck": "Uma investigação histórica, filosófica, psicológica e de economia política sobre identidade coletiva, ressentimento, disputa democrática e polarização no Brasil e no mundo.",
+      "tags": [
+        "Polarização política",
+        "Polarização afetiva",
+        "Psicologia política",
+        "Brasil",
+        "Democracia",
+        "Identidade social",
+        "Economia política"
+      ],
+      "keywords": [
+        "Tajfel",
+        "Arendt",
+        "Hobbes",
+        "Fromm",
+        "Haidt",
+        "Iyengar",
+        "Piketty",
+        "Bolsonaro",
+        "Lula",
+        "redes sociais",
+        "moralização"
+      ],
+      "regime": "Conflito político identitário e deterioração da confiança entre grupos",
+      "key_risk": "Confundir divergência programática com desumanização coletiva e contestação da legitimidade democrática",
+      "watch": [
+        "Percepção dos adversários",
+        "Aceitação de resultados eleitorais",
+        "Confiança institucional",
+        "Insegurança material e cultural",
+        "Exposição algorítmica"
+      ],
+      "search_text": "Hostilidade política, polarização afetiva, identidade social, Brasil 2026, economia política, ressentimento e algoritmos."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [
+      "americas",
+      "europe"
+    ],
+    "subregions": [
+      "north-america",
+      "latin-america-caribbean",
+      "western-europe"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      },
+      {
+        "code": "US",
+        "slug": "united-states"
+      }
+    ]
+  },
+  "topics": [
+    "institutions-governance",
+    "inequality-distribution",
+    "social-change",
+    "technology-innovation"
+  ],
+  "phenomena": [
+    "political-stability",
+    "civil-unrest",
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "research_question": "Why do political differences become interpersonal hatred and how are social identity, economic insecurity, institutions and media systems transmitted into affective polarization?",
+  "evidence_cutoff": "2026-11-10",
+  "assumptions_and_limits": [
+    "Datafolha 2026 measures perceived polarization rather than direct personal hostility.",
+    "The 2022 electoral vote margin does not measure affective polarization.",
+    "US and Brazilian polls have different questions and samples and are not merged into a common index.",
+    "Classical theories inform mechanisms but are not 2026 quantitative evidence.",
+    "Platform experiments differ in treatment, duration and outcomes."
+  ],
+  "counterfactuals": [
+    "Polarization may persist without a major economic shock.",
+    "Reducing exposure to like-minded posts need not reduce measured polarization.",
+    "Perceived hostility may exceed actual policy disagreement."
+  ],
+  "source_integrity": "Direct links to TSE, MPF, OECD, Pew, peer-reviewed papers and dated Datafolha reports; observational claims distinguished from experiments."
+}
