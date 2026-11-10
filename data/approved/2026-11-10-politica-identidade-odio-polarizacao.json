@@ -1,0 +1,233 @@
+{
+  "schema_version": 2,
+  "id": "MT-RR-2026-11-10-POLARIZATION",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-10T20:44:42.680Z",
+  "reviewed_commit": "0c652a45a4ddb063e9d21bc57b90a057c4382434",
+  "pending_blob_sha": "0b43817eaa5ba1384256dfdfd4fed9247c728f06",
+  "source_blob_shas": {
+    "en": "6a79efab0c6fd2f85b8bb184c0abef387cd62f8a",
+    "pt-BR": "35e29d2f7c334cca18dd4bdd6374cd1e3ef2c77f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary 2022 Brazilian electoral returns, dated Datafolha polling, 2026 Brazilian longitudinal experimental study, 30-country observational survey and 2026 US Pew study checked; perceptions, feelings, electoral votes and party evaluations explicitly distinguished."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Bilingual manuscripts include 19 direct scholarly, institutional and original-publication references across 11 distinct source hosts. Classical theorists are presented as conceptual frameworks, not contemporaneous empirical measurements."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "As-of 2026-11-10 cutoff stated, with explicitly dated observations from 2022, 2024, 2025 and 2026. Election 2022 compared with 2026 perception polls without mistaking them for contemporaneous measures."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Eleven coherent analytical sections connect historical theory, affective identity, economic and cultural insecurity, political incentives, platform experiments, institutional legitimacy, and falsifiable rival interpretations without political endorsements."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two numeric charts in each language reproduce TSE 2022 shares and Datafolha 2026 perceived climate; two Markdown evidence tables, one causal flow and one comparative regional map per language; both chart numerical signatures exactly match."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 3979,
+        "pt-BR": 4144,
+        "urls_en": 19,
+        "urls_pt": 19
+      },
+      "summary": "Both language editions substantially exceed the 1700-word floor, contain 11 substantive sections, 19 citations and cover social, political, psychological, institutional and economic mechanisms."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Prominent numerical claims traced to named original TSE, Datafolha, OECD, Pew and Nature studies; dates and populations stated; findings from observational and experimental designs kept separate."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Tests specify how corrected misperception, similar economic circumstances, and feed-ranking interventions could fail to change hostility; alternative material, cultural, institutional, and media explanations contrasted."
+    },
+    "translation_equivalence": {
+      "result": "passed",
+      "summary": "Full EN/PT-BR research narratives follow parallel argument and citations; tables, diagram and map are semantically parallel; the two charts include identical underlying numeric values."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "No advocacy or electoral ranking. Distinguishes criticism, criminal wrongdoing, peaceful protest and the individual liability of violent participants; refuses to equate all voters with actors in institutional attacks."
+    }
+  },
+  "contrary_evidence": [
+    "Reducing exposure to like-minded sources on Facebook did not detectably reduce polarization in a 2023 experiment.",
+    "The 2018 exposure-to-opponents field experiment shows confrontational contact may increase disagreement.",
+    "2026 X algorithm findings distinguish changes in specific policy attitudes from nonsignificant polarization changes."
+  ],
+  "limitations": [
+    "Datafolha 2026 reports perceived division, not a direct census of interpersonal hostility.",
+    "Cross-country associations between reported hostility, democracy and inequality are observational and survey instruments vary.",
+    "Classical philosophical works are conceptual frameworks, not comparable empirical estimates.",
+    "Platform experiments measure specific users and interventions over limited horizons, not guaranteed real-world effects."
+  ],
+  "notes": "Independent QA stage performed against the final three Git blobs and controlled v2 pending contract. Primary sources and journal articles sample-checked against source claims. Local npm command execution unavailable through GitHub connector; all accessible structural, source and bilingual checks manually verified.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-RR-2026-11-10-POLARIZATION",
+    "slug": "2026-11-10-politica-identidade-odio-polarizacao",
+    "revision": 0,
+    "date": "2026-11-10",
+    "published_at": "2026-11-10T17:26:00-03:00",
+    "kind": "political-economy-event-assessment",
+    "priority": 6,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-10-politica-identidade-odio-polarizacao/en.md",
+        "title": "The Dark Side of Politics: Why Struggles for Power Turn Disagreement into Hatred",
+        "deck": "A historical, philosophical, psychological and political-economic investigation into collective identity, resentment, democratic rivalry and polarization in Brazil and across the world.",
+        "tags": [
+          "Political polarization",
+          "Affective polarization",
+          "Political psychology",
+          "Brazil",
+          "Democracy",
+          "Social identity",
+          "Political economy"
+        ],
+        "keywords": [
+          "Tajfel",
+          "Arendt",
+          "Hobbes",
+          "Fromm",
+          "Haidt",
+          "Iyengar",
+          "Piketty",
+          "Bolsonaro",
+          "Lula",
+          "social media",
+          "moralization"
+        ],
+        "regime": "Identity-based political conflict and declining intergroup trust",
+        "key_risk": "Confusing policy disagreement with group-based dehumanization and attacks on democratic legitimacy",
+        "watch": [
+          "Perceptions of out-groups",
+          "Acceptance of electoral outcomes",
+          "Institutional trust",
+          "Economic and cultural insecurity",
+          "Algorithmic exposure"
+        ],
+        "search_text": "Political hostility, affective polarization, social identity theory, Brazil 2026, political economy, resentment and algorithmic amplification."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-10-politica-identidade-odio-polarizacao/pt-BR.md",
+        "title": "O lado sombrio da política: por que a disputa pelo poder transforma divergências em ódio",
+        "deck": "Uma investigação histórica, filosófica, psicológica e de economia política sobre identidade coletiva, ressentimento, disputa democrática e polarização no Brasil e no mundo.",
+        "tags": [
+          "Polarização política",
+          "Polarização afetiva",
+          "Psicologia política",
+          "Brasil",
+          "Democracia",
+          "Identidade social",
+          "Economia política"
+        ],
+        "keywords": [
+          "Tajfel",
+          "Arendt",
+          "Hobbes",
+          "Fromm",
+          "Haidt",
+          "Iyengar",
+          "Piketty",
+          "Bolsonaro",
+          "Lula",
+          "redes sociais",
+          "moralização"
+        ],
+        "regime": "Conflito político identitário e deterioração da confiança entre grupos",
+        "key_risk": "Confundir divergência programática com desumanização coletiva e contestação da legitimidade democrática",
+        "watch": [
+          "Percepção dos adversários",
+          "Aceitação de resultados eleitorais",
+          "Confiança institucional",
+          "Insegurança material e cultural",
+          "Exposição algorítmica"
+        ],
+        "search_text": "Hostilidade política, polarização afetiva, identidade social, Brasil 2026, economia política, ressentimento e algoritmos."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "western-europe"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "institutions-governance",
+      "inequality-distribution",
+      "social-change",
+      "technology-innovation"
+    ],
+    "phenomena": [
+      "political-stability",
+      "civil-unrest",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "research_question": "Why do political differences become interpersonal hatred and how are social identity, economic insecurity, institutions and media systems transmitted into affective polarization?",
+    "evidence_cutoff": "2026-11-10",
+    "assumptions_and_limits": [
+      "Datafolha 2026 measures perceived polarization rather than direct personal hostility.",
+      "The 2022 electoral vote margin does not measure affective polarization.",
+      "US and Brazilian polls have different questions and samples and are not merged into a common index.",
+      "Classical theories inform mechanisms but are not 2026 quantitative evidence.",
+      "Platform experiments differ in treatment, duration and outcomes."
+    ],
+    "counterfactuals": [
+      "Polarization may persist without a major economic shock.",
+      "Reducing exposure to like-minded posts need not reduce measured polarization.",
+      "Perceived hostility may exceed actual policy disagreement."
+    ],
+    "source_integrity": "Direct links to TSE, MPF, OECD, Pew, peer-reviewed papers and dated Datafolha reports; observational claims distinguished from experiments.",
+    "producer_checks": {
+      "content_depth": "EN/PT-BR both exceed 4,000 approximate raw words and 3,700+ substantive words",
+      "bilingual_visuals": "two source-based charts, two tables, flow and map per locale",
+      "source_vintage": "observations dated 2022–2026, cutoff 2026-11-10",
+      "scope": "political economy, psychology, social identity, institutions, digital platforms, Brazil and cross-regional comparison",
+      "falsification": "explicit observations that would weaken major mechanisms",
+      "independent_qa_required": true
+    }
+  }
+}
