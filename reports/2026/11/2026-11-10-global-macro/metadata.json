@@ -1,0 +1,230 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-10",
+  "slug": "2026-11-10-global-macro",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T01:44:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "energy",
+    "commodities-resources",
+    "industry-production",
+    "geopolitics-security",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "10 Nov 2026 01:44 BRT (04:44 UTC); Nov9 completed US/Brazil, early Tuesday Nov10 Asia; US October CPI still future.",
+    "novelty": "Nov9 equity rallies and oil collapse, new Nov10 China merchandise trade US$1.04tn cumulative surplus, Monday US Treasury curve and new Nov9 Brazil Focus.",
+    "bilingual_parity": "Same 18 URLs, nine sections, three identical chart data arrays, one causal flow and one region map per locale.",
+    "editorial_status": "Producer staged; SHA-bound independent QA gate required.",
+    "source_check": "18 dated verified sources, primary statistical and central bank pages plus contemporaneous Reuters/AP/B3; distinctions between forecasts, market indications and observed data."
+  },
+  "contrary_evidence": [
+    "Equity rally coexists with higher short US Treasury yields and falling Nvidia shares.",
+    "Oil-price repricing does not establish restored physical maritime supply.",
+    "Strong Chinese exports coexist with sub-50 manufacturing PMI.",
+    "Falling oil may reduce headline inflation faster than core services."
+  ],
+  "limitations": [
+    "10 Nov CPI and Copom minutes future at cutoff.",
+    "Asia and Tuesday Brent intraday quotes, not settlements.",
+    "China customs value changes nominal and year on year.",
+    "B3 primary closing value chosen over conflicting secondary summaries.",
+    "Assistant review cannot substitute for an independent human QA auditor.",
+    "Site delivery requires separate CI and HTTP verification."
+  ],
+  "evidence_sources": [
+    {
+      "name": "Reuters: Tuesday Asia and Brent",
+      "date": "2026-11-10",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-10/"
+    },
+    {
+      "name": "Reuters: China October trade and Jan-Oct surplus",
+      "date": "2026-11-10",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
+    },
+    {
+      "name": "Reuters: China's October crude oil imports",
+      "date": "2026-11-10",
+      "url": "https://www.reuters.com/business/energy/chinas-october-crude-oil-imports-rise-highest-level-since-march-amid-middle-east-2026-11-10/"
+    },
+    {
+      "name": "AP: completed US market session Nov 9",
+      "date": "2026-11-09",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-f7ec9680fc858e3c2505913e7b3a54e2"
+    },
+    {
+      "name": "B3: completed Brazilian market session Nov 9",
+      "date": "2026-11-09",
+      "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-222-com-alivio-no-exterior-dolar-fica-em-r-550/"
+    },
+    {
+      "name": "US Treasury: November nominal yields",
+      "date": "2026-11-09",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "BLS: October jobs release",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+    },
+    {
+      "name": "BLS: November CPI and PPI calendar",
+      "date": "2026-11-03",
+      "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+    },
+    {
+      "name": "Federal Reserve: October FOMC decision",
+      "date": "2026-10-28",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "name": "Brazilian Central Bank: Focus survey methodology",
+      "date": "2026-11-09",
+      "url": "https://www.bcb.gov.br/controleinflacao/relatoriofocus"
+    },
+    {
+      "name": "November 9 Focus figures reported by InfoMoney",
+      "date": "2026-11-09",
+      "url": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-09112026/"
+    },
+    {
+      "name": "IBGE: upcoming Brazil statistics",
+      "date": "2026-11-09",
+      "url": "https://www.ibge.gov.br/calendario-de-divulgacoes.html"
+    },
+    {
+      "name": "B3: Copom minutes scheduled Nov 10",
+      "date": "2026-11-09",
+      "url": "https://borainvestir.b3.com.br/noticias/mercados-hoje-ata-do-copom-e-dados-de-inflacao-no-brasil-e-no-eua-sao-os-destaques-da-semana/"
+    },
+    {
+      "name": "Bank of England: November MPC",
+      "date": "2026-11-05",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+    },
+    {
+      "name": "Eurostat: October flash HICP",
+      "date": "2026-11-04",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+      "name": "China NBS: October manufacturing PMI",
+      "date": "2026-11-01",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+    },
+    {
+      "name": "ICI: US money-market assets",
+      "date": "2026-11-06",
+      "url": "https://www.ici.org/research/stats/mmf"
+    },
+    {
+      "name": "Reuters Lipper: early November global fund flows",
+      "date": "2026-11-06",
+      "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-06/"
+    }
+  ],
+  "url": "/reports/2026/11/2026-11-10-global-macro.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-10T04:44:00.000Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "633f5b997d578b5cca5dab27a7a371167eed6963",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Global Macro — Oil de-escalation lifts equities while inflation and China's trade imbalance remain unresolved",
+      "deck": "Oil-led equity relief, an unreleased US CPI and China's record merchandise surplus shape early Tuesday risks.",
+      "tags": [
+        "Global Macro",
+        "Energy",
+        "US CPI",
+        "China exports",
+        "Fed",
+        "Brazil",
+        "Trade",
+        "Interest rates"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-10",
+        "10 November 2026",
+        "Oil equity rally US inflation China trade tensions Brazil"
+      ],
+      "regime": "Oil risk premium falls while monetary tightening, nominal export concentration and lagged energy inflation constrain recovery.",
+      "key_risk": "Do not treat CPI forecasts as published figures or intraday Asia futures as daily settlements.",
+      "watch": [
+        "10 Nov US CPI",
+        "10 Nov Brazil Copom minutes",
+        "12 Nov Brazil IPCA",
+        "13 Nov US PPI",
+        "US-Iran physical shipping",
+        "China trade composition"
+      ],
+      "search_text": "10 November 2026 Global Macro oil repricing, equity markets, China exports and trade surplus, US inflation and Brazil credit"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Global Macro — Queda do petróleo anima as bolsas, mas inflação e desequilíbrio comercial chinês permanecem",
+      "deck": "Alívio no petróleo e alta das bolsas convivem com CPI pendente, crédito caro e superávit recorde de mercadorias da China.",
+      "tags": [
+        "Global Macro",
+        "Petróleo",
+        "CPI americano",
+        "China",
+        "Fed",
+        "Brasil",
+        "Comércio exterior",
+        "Juros"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-10",
+        "10 de novembro de 2026",
+        "Petróleo bolsas inflação CPI superávit comercial chinês e juros brasileiros"
+      ],
+      "regime": "O prêmio de risco do petróleo cai, mas juros restritivos e choque energético acumulado ainda limitam a recuperação.",
+      "key_risk": "Não confundir projeções de inflação com dados divulgados nem cotações asiáticas intradiárias com fechamentos.",
+      "watch": [
+        "CPI dos EUA 10/11",
+        "Ata do Copom 10/11",
+        "IPCA 12/11",
+        "PPI americano 13/11",
+        "Custo do transporte de petróleo",
+        "Composição do comércio chinês"
+      ],
+      "search_text": "Global Macro 10 de novembro de 2026 petróleo inflação EUA China Brasil bolsas e juros"
+    }
+  }
+}

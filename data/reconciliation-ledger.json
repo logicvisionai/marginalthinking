@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-09T04:08:05.374Z",
+  "last_reconciled_at": "2026-11-10T04:44:00.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8795,6 +8795,96 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI stock valuations do not verify actual new technical deployment, performance milestone or capacity commissioning."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-global-logistics-retrospective-reconciliation",
+      "reconciled_at": "2026-11-10T04:44:00.000Z",
+      "report_ids_reviewed": [
+        "MT-GS-2026-11-09-GLOBAL-LOGISTICS"
+      ],
+      "audit_note": "Retrospective non-mutating reconciliation for already public 9 Nov logistics report; fixes build-level registry coverage, not a new asset update.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Trade corridors, EIA shipping estimates and intermediary dependencies are discussed; no new harmonised directed bilateral weights suitable for canonical network edges."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Corridor exposures reveal potentially useful infrastructure investment themes but no verified project financing, costs, concession terms or risk-adjusted return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Port and production operators are discussed without independently verified changes in legal beneficial ownership or voting control."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Regional mineral and oil refining concentration is discussed but no verified new concession, reserve title or operational asset ownership transfer."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "System-wide transport and trade mapping does not establish a new observed policy intervention and counterfactual impact estimate."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Maritime chokepoint disruptions are assessed using estimated flows, without incident-level confirmation needed to mutate conflict system."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Semiconductor trade geography is not newly audited product deployment or tested technology capacity commissioning."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-10T04:44:00.000Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-10"
+      ],
+      "audit_note": "10 November dated macro data and conditional physical-financial causality assessed for seven canonical registry domains.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Latest China oil and trade volumes and US Treasury market yields indicate exposures but no new comparable directional bilateral dependency edge weights."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Energy-risk premium and equity repricing are not verified projects with financing or implementation status."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Trade and market changes do not prove changes in legal control or ultimate beneficial ownership."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil futures and national crude import statistics do not establish transfers of oil rights or production concessions."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "FOMC and Bank of England rate actions are observed, but no new identified causal policy treatment effect with counterfactual is established."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "US-Iran de-escalation statements change market expectations; no independently verified incident or stable new conflict outcome documented."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "China AI-linked export value growth and US technology equity prices do not verify technology performance, factory commissioning or deployed computing capacity."
         }
       ]
     }
