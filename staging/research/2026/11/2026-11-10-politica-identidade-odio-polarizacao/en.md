@@ -101,6 +101,8 @@ Europe | Diverse socioeconomic and cultural conflicts | Multiparty systems and e
 Latin America | Inequality and representational crises | There is no uniform political trajectory across its countries
 ```
 
+Research published in *Nature Human Behaviour* in April 2026 drew on quota-sampled online surveys of 15,202 respondents across 30 countries. Reported online political hostility was higher in less democratic and more economically unequal societies, and people who were hostile online also tended to be hostile offline across the sampled countries. These observational relationships do not establish that inequality, institutional conditions, or platforms independently cause hostility. Quota-sampled surveys should not be read as censuses. The findings nonetheless place online antagonism within broader distributions of resources, status, and political institutions.
+
 The V-Dem Institute's *Democracy Report 2026* puts current political disputes in the wider setting of pressures on representative institutions. Three questions must remain separate: how distant are competing policy positions, how strongly do social groups dislike each other, and do institutional rules for alternation in power remain legitimate? Democracy indices, opinion surveys, and election results do not measure the same variables. They should not be combined into an imaginary single global “hatred index.”
 
 ## Algorithms and the economics of outrage
