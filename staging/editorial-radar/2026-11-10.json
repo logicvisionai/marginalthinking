@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "checked_at": "2026-11-10T08:05:00Z",
+  "scope": "Complete registry reconciliation at main with bounded evidence screening; no exhaustive independent primary audit of each thematic field. Today's macro is already approved and present in public repository bundle; no duplicate production.",
+  "registry_updated_at": "2026-11-09T13:47:29.003Z",
+  "registry_blob_sha": "725baf74525e2985847392c05ff820a78c4eeb40",
+  "reviewed_line_count": 33,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "published_in_repository",
+      "note": "MT-GM-2026-11-10 revision 1 approved, public bundle present; do not duplicate."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "November 9 Treasury curve and forthcoming US CPI covered; forecasts distinguished from releases."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No new directly verified food-price, nutrition or pesticide-exposure dataset in bounded evidence set; no claim of safety deterioration."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No newly corroborated herd disease, antimicrobial resistance, chemical/biological incident or weapons governance decision in bounded evidence set."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Oil repricing tied to reported US-Iran statements, not proof of ceasefire or restored maritime transit."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No verified new pandemic/virology/bacteriology surveillance shift in bounded evidence set; scenarios remain conditional."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "China trade figures and oil shipment uncertainty covered in macro; no independently verified new route capacity."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line checked. Bounded current primary evidence and existing corpus do not establish an independently substantiated incremental article; no hypothetical risk asserted as fact."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "US yields, China manufacturing and trade divergences covered; no second article."
+    },
+    {
+      "registry_id": "editorial-strategic-security-resilience",
+      "kind": "strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Physical maritime restoration and strategic stocks remain unverified."
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "US Treasury daily yield curve, 9 November",
+      "date": "2026-11-09",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "BLS October employment, released 6 November",
+      "date": "2026-11-06",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+    },
+    {
+      "name": "China NBS October manufacturing PMI",
+      "date": "2026-11-03",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+    },
+    {
+      "name": "B3 November 9 market close",
+      "date": "2026-11-09",
+      "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-222-com-alivio-no-exterior-dolar-fica-em-r-550/"
+    }
+  ],
+  "new_thematic_article": false,
+  "limitations": [
+    "Source screening bounded to already traceable macro evidence and a small primary-source set; not a claim of exhaustive surveillance.",
+    "No new verified primary AMR, pesticide, livestock, pathogen, strategic stock or biological security time series to support a separate article.",
+    "No producer changes to public files, approvals, taxonomy or routes."
+  ]
+}
