@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "checked_at": "2026-11-10T08:06:00Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-10",
+  "candidate_ids": [],
+  "coverage_summary": "Bounded daily scan of primary evidence on capital costs (US Treasury), industrial demand (China NBS), and previously registered electricity infrastructure/financing signals (World Bank Uzbekistan and Asia DRIVE). No new independently verified project execution, regulatory trigger, physical commissioning or actual disbursement establishes a distinct structural opportunity. Market repricing alone is not a structural transition.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "US Treasury daily yield curve, 9 November",
+      "date": "2026-11-09",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "China NBS October manufacturing PMI",
+      "date": "2026-11-03",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+    },
+    {
+      "name": "World Bank Uzbekistan electricity modernization",
+      "date": "2026-10-27",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo"
+    },
+    {
+      "name": "World Bank Japan Asia energy resilience",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    }
+  ],
+  "review_limitations": [
+    "Previously registered World Bank project announcements are not new evidence of disbursement or commissioned assets.",
+    "No comprehensive primary census of grid infrastructure, freight logistics, capital-access or regulatory changes completed.",
+    "No candidate invented; canonical Atlas untouched."
+  ]
+}
