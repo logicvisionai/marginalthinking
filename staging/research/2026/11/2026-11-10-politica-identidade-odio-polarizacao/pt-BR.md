@@ -64,26 +64,26 @@ As manifestações de 2013 reuniram causas e orientações distintas, não um bl
 
 Segundo a totalização oficial do Tribunal Superior Eleitoral, Lula recebeu 60.345.999 votos válidos (50,90%) e Bolsonaro, 58.206.354 (49,10%) no segundo turno de 2022. A margem estreita é fato eleitoral, não medida automática de ódio: eleições apertadas também ocorrem em sociedades com competição institucional saudável.
 
-~~~chart
+```chart
 type: bar
 title: Segundo turno presidencial do Brasil em 2022 — participação nos votos válidos
 unit: %
 Lula | 50.90
 Bolsonaro | 49.10
-~~~
+```
 
 O ataque de 8 de janeiro de 2023 às sedes do Congresso, do Supremo Tribunal Federal e da Presidência demonstrou que setores radicalizados foram além do protesto e recorreram à invasão e à destruição de instituições. O Ministério Público Federal documenta os acontecimentos e os danos materiais. A responsabilidade por crimes exige apuração individual e respeito ao devido processo; não se deve confundir participantes de atos violentos com todos os eleitores de um candidato.
 
 Em dezembro de 2025, o Datafolha registrou 40% dos entrevistados mais alinhados ao petismo e 34% ao bolsonarismo em uma escala de identificação, mas também encontrou pessoas que se declaravam ideologicamente à direita dentro do primeiro grupo e à esquerda dentro do segundo. Isso evidencia que personalismo, aversão ao adversário e orientação ideológica não se sobrepõem perfeitamente. Já em 13 e 14 de outubro de 2026, uma pesquisa presencial com 2.520 pessoas em 153 municípios encontrou 78% que percebiam o Brasil dividido em dois campos opostos, 17% que identificavam convivência harmoniosa e 5% sem resposta. Trata-se de **percepção da polarização**, não de estimativa direta do percentual de pessoas hostis.
 
-~~~chart
+```chart
 type: bar
 title: Percepção do ambiente político brasileiro — Datafolha, outubro de 2026
 unit: % dos entrevistados
 Polarização | 78
 Harmonia | 17
 Não souberam | 5
-~~~
+```
 
 O estudo longitudinal publicado em *Nature Communications* em 2026, com ondas de levantamento ao redor das eleições de 2022 e amostras de aproximadamente 2 mil a 3 mil respondentes por onda, encontrou forte polarização afetiva entre lulistas e bolsonaristas antes da campanha, persistência durante a eleição e alguma redução posterior. Em tratamentos experimentais, corrigir percepções incorretas sobre a posição do grupo adversário em temas controversos reduziu o indicador de hostilidade em até 6,66 pontos percentuais na escala utilizada. O resultado não promete reconciliação nacional automática; mostra que uma parcela do antagonismo se alimenta de crenças incorretas sobre o outro.
 
@@ -93,13 +93,13 @@ Nos Estados Unidos, a identificação Democrata–Republicano é um exemplo bem 
 
 Na Europa, disputas sobre imigração, integração regional, austeridade, segurança, secularização e soberania assumem formas diferentes entre países. Há eleições com clivagens territoriais, geracionais ou educacionais, e sistemas multipartidários nos quais coalizões cruzam linhas ideológicas. Na América Latina, crises de representação, inflação e violência podem ampliar antagonismos, mas não autorizam tratar Argentina, México, Chile e Brasil como se tivessem trajetórias iguais. Na Ásia e em outros contextos, nacionalismo, clivagens religiosas e disputas institucionais operam sob regras distintas. O conceito de polarização precisa preservar essas diferenças.
 
-~~~map
+```map
 title: Contextos comparados de polarização — mecanismos, não níveis comparáveis
 Brasil | Personalização e identidade negativa | Dados de 2022 a 2026 mostram descompasso entre orientação ideológica e antagonismo afetivo
 Estados Unidos | Alinhamento partidário e mídia segmentada | Estudos permitem medir antipatia entre partidos e testar intervenções informacionais
 Europa | Conflitos socioeconômicos e culturais heterogêneos | Sistemas multipartidários e países diferem na estrutura das coalizões
 América Latina | Desigualdade e crises de representação | Não há uma trajetória uniforme entre regimes e economias
-~~~
+```
 
 O relatório da democracia de 2026 do V-Dem situa a disputa política em um contexto global de pressões sobre instituições representativas. É necessário separar três perguntas: qual a distância entre preferências políticas, quanta aversão existe entre grupos e se mecanismos democráticos de alternância continuam respeitados. Indicadores de democracia, pesquisas de opinião e resultados eleitorais medem coisas diferentes. Somá-los como se fossem um índice único de “ódio mundial” produziria uma conclusão enganosa.
 
@@ -111,10 +111,10 @@ Os resultados experimentais obrigam a abandonar explicações simples. Em 2023, 
 
 O ecossistema também favorece “desintermediação” política: políticos conversam diretamente com públicos segmentados, enquanto vídeos curtos recortam declarações e transformam adversários em caricaturas. O cidadão pode passar a conhecer o outro campo sobretudo por suas falas mais ofensivas, que são precisamente as mais compartilháveis. O ruído não só transmite desacordos; fabrica uma ideia distorcida da pessoa comum do outro lado.
 
-~~~flow
+```flow
 Insegurança material ou simbólica → procura por pertencimento e explicações → identidade política moralizada → seleção enviesada de informações → superestimação da hostilidade adversária → recompensa pública à humilhação → desconfiança e retaliação
 Instituições responsivas e pluralismo → representação de interesses → conflitos negociados → alternância legítima → redução do incentivo à ruptura
-~~~
+```
 
 ## Por que humilhar o outro pode parecer uma vitória
 
