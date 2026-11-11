@@ -155,6 +155,15 @@ The fact that 48% of Brazilian students reported using chatbots at least weekly 
 
 Electrical training, nursing, maintenance, mechanics, automation and other practical disciplines depend on facilities, instruments and safety procedures. A simulation can support instruction but cannot automatically replace the ability to perform a measurement, diagnose a defective component or accept responsibility for an operation. Brazil's opportunities depend on integrating AI with foundational skills and supervised practice rather than undermining the ability to perform and verify work.
 
+```map
+title: Where the learning and labour evidence comes from
+Brazil | PISA 2025: 28% reach basic mathematics proficiency | OECD national survey; cannot identify an AI effect
+United States | University AI tutor experiments yielded contrasting learning outcomes | Different interventions; findings are not nationally representative
+World | ILO estimates one in four workers in an occupation with some GenAI exposure | Occupational exposure is neither displacement nor a measure of educational motivation
+```
+
+The geographical contrast does not establish a world ranking of AI-driven learning loss. It identifies evidence drawn from different populations, measures and causal designs [5][6][9][13].
+
 ## 12. The politics of comfortable ignorance
 
 Democracy assumes that citizens can assess promises, compare claims, recognise interests and hold officials accountable. It has never required every person to be a technical expert. It does require intermediate institutions — journalism, schools, courts, universities, professional bodies and public administration — capable of producing knowledge that can be challenged and verified.

@@ -155,6 +155,15 @@ O fato de 48% dos estudantes brasileiros declararem usar chatbots pelo menos sem
 
 Cursos de eletrotécnica, enfermagem, manutenção, mecânica, automação e outras formações práticas dependem de instalações, instrumentos e segurança. Uma simulação pode ajudar a aprender, mas não substitui automaticamente a capacidade de realizar uma medição, identificar um componente defeituoso ou assumir responsabilidade numa operação. A vantagem nacional dependerá de integrar ferramentas de IA a formação fundamental e prática supervisionada, sem degradar a própria capacidade de fazer e verificar.
 
+```map
+title: Onde foram obtidas as evidências sobre aprendizagem e trabalho
+Brasil | PISA 2025: 28% atingem a proficiência básica em matemática | Pesquisa nacional da OCDE; não identifica efeito da IA
+Estados Unidos | Experimentos universitários com tutores de IA tiveram resultados divergentes | Intervenções distintas; resultados não representam o país inteiro
+Mundo | OIT estima um em cada quatro trabalhadores em ocupação com alguma exposição à IA generativa | Exposição ocupacional não mede desemprego nem interesse por estudar
+```
+
+O contraste geográfico não estabelece uma classificação mundial de perda de aprendizagem causada pela IA. Identifica pesquisas com populações, medidas e desenhos causais diferentes [5][6][9][13].
+
 ## 12. A política da ignorância confortável
 
 Democracias pressupõem uma população capaz de avaliar promessas, confrontar versões dos fatos, reconhecer interesses e responsabilizar governantes. Nunca exigiram que todos fossem especialistas. Exigem, porém, instituições intermediárias — imprensa, escolas, tribunais, universidades, organismos técnicos, associações e administração pública — capazes de produzir conhecimento discutível e verificável.
