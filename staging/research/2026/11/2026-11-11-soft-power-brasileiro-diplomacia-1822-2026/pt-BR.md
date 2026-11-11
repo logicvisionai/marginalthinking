@@ -184,211 +184,211 @@ A vantagem brasileira é a combinação de **alcance cultural, alimentos, ecossi
 
 A cronologia distingue atos diplomáticos de seus efeitos jurídicos. Uma posse ministerial é um acontecimento institucional verificável, não prova de mudança de orientação; um tratado assinado mas não ratificado não equivale a acordo vigente. Quando não há tratado ou ação multilateral isolados, registros consulares, nomeações, condicionantes internos e a situação de um processo já iniciado ajudam a reconstituir o ano. A ausência de evento único não significa ausência de relações exteriores naquele ano. A cronologia não pressupõe que todos os anos tenham sido marcos de inflexão da política externa.
 
-- **1822** — Independência; José Bonifácio e o reconhecimento externo tornam-se prioridades do Estado recém-criado.
-- **1823** — Negociação de reconhecimento e impasse constitucional interno condicionam a legitimidade da nova monarquia.
-- **1824** — Constituição imperial; reconhecimento internacional ainda não está consolidado.
-- **1825** — Portugal reconhece a independência; eclode a guerra da Cisplatina.
-- **1826** — Acordos com a Grã-Bretanha associam reconhecimento, comércio e compromissos sobre tráfico de escravizados.
-- **1827** — Tratado comercial com a Grã-Bretanha e tensões sobre soberania fiscal e escravidão.
-- **1828** — Convenção Preliminar de Paz resulta na independência do Uruguai, amortecedor geopolítico no Prata.
+- **1822** — Independência; José Bonifácio e o reconhecimento externo tornam-se prioridades do Estado recém-criado. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1823** — Negociação de reconhecimento e impasse constitucional interno condicionam a legitimidade da nova monarquia. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1824** — Constituição imperial; reconhecimento internacional ainda não está consolidado. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1825** — Portugal reconhece a independência; eclode a guerra da Cisplatina. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
+- **1826** — Acordos com a Grã-Bretanha associam reconhecimento, comércio e compromissos sobre tráfico de escravizados. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1827** — Tratado comercial com a Grã-Bretanha e tensões sobre soberania fiscal e escravidão. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1828** — Convenção Preliminar de Paz resulta na independência do Uruguai, amortecedor geopolítico no Prata. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/uruguai).
 - **1829** — Brasil negocia empréstimo em Londres garantido por receita alfandegária; Itabaiana assina tratado com a Sardenha, ampliando contatos europeus, enquanto a dívida estreita a margem de política fiscal. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
-- **1830** — Pressão britânica pela supressão do tráfico atlântico permanece.
-- **1831** — Abdicação de Pedro I; lei antitráfico é promulgada, com execução insuficiente.
+- **1830** — Pressão britânica pela supressão do tráfico atlântico permanece. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1831** — Abdicação de Pedro I; lei antitráfico é promulgada, com execução insuficiente. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
 - **1832** — Bento da Silva Lisboa assume a pasta dos Negócios Estrangeiros em setembro; a Regência reorganiza sua burocracia durante levantes internos que dificultam projeção externa. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1833** — A ocupação britânica das Malvinas provoca protesto argentino; registro da FUNAG assinala o reconhecimento brasileiro do direito argentino, antecipando um ponto persistente das relações sul-americanas. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1833** — O Reino Unido ocupa as Malvinas em 2 de janeiro, provocando protesto argentino. A cronologia retrospectiva da FUNAG registra o tema e menciona apoio brasileiro à reivindicação argentina, sem identificar um ato brasileiro de reconhecimento assinado em 1833. [Registros documentais](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha)
 - **1834** — Após a Convenção de Évora-Monte em Portugal, a Regência envia missão de Araújo Ribeiro a Lisboa; Duarte da Ponte Ribeiro apresenta credenciais no México, diversificando postos diplomáticos. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
-- **1835** — Regência enfrenta a Revolução Farroupilha e instabilidade no sul do território.
+- **1835** — Regência enfrenta a Revolução Farroupilha e instabilidade no sul do território. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
 - **1836** — Brasil e Portugal assinam tratado de comércio e navegação que não obtém aprovação da Câmara brasileira; o episódio diferencia negociação diplomática de compromisso efetivamente ratificado. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
 - **1837** — Três mudanças na chefia dos Negócios Estrangeiros — Limpo de Abreu, Montezuma e Maciel Monteiro — expõem a instabilidade ministerial que condicionava continuidade da ação exterior regencial. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1838** — Encarregados de Brasil e Chile assinam em Santiago tratado de amizade, comércio e navegação, mas a falta de ratificação brasileira impede sua entrada em vigor. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/chile).
-- **1839** — Regência procura administrar guerra regional e continuidade do reconhecimento externo.
-- **1840** — Maioridade de Pedro II reforça a centralização política imperial.
+- **1839** — Regência procura administrar guerra regional e continuidade do reconhecimento externo. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1840** — Maioridade de Pedro II reforça a centralização política imperial. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
 - **1841** — Duarte da Ponte Ribeiro negocia em Lima tratados de limites, comércio e navegação com o Peru, sem ratificação pelo Império; a discussão dos rios amazônicos permanece aberta. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/peru).
 - **1842** — Notas diplomáticas com a Grã-Bretanha acordam a neutralização provisória do território de Pirara, em disputa com a Guiana Britânica; missão britânica busca novo tratado comercial e repressão ao tráfico. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
-- **1843** — Missão Pimenta Bueno explora negociações com o Paraguai, em contexto de disputas platinas.
-- **1844** — Tarifa Alves Branco amplia instrumentos fiscais e proteção manufatureira.
-- **1845** — Fim da Farroupilha; o Império recupera capacidade de projeção sobre o espaço meridional.
+- **1843** — Missão Pimenta Bueno explora negociações com o Paraguai, em contexto de disputas platinas. [Fonte histórica](https://funag.gov.br/loja-nova/produto/31-1-a_missao_pimenta_bueno).
+- **1844** — Tarifa Alves Branco amplia instrumentos fiscais e proteção manufatureira. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1845** — Fim da Farroupilha; o Império recupera capacidade de projeção sobre o espaço meridional. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
 - **1846** — Troca de notas com a Venezuela discute entraves ao comércio e à comunicação de fronteira; incidentes relacionados à corveta norte-americana Saratoga exigem resposta diplomática brasileira. [Documento](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf).
 - **1847** — Brasil declara sem efeito artigos comerciais do Tratado de 1825 com Portugal relativos à nação mais favorecida e à tarifa de 15%, ampliando espaço para renegociar privilégios tarifários. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
-- **1848** — Consolidação conservadora e mudanças europeias exigem gestão diplomática prudente.
+- **1848** — Consolidação conservadora e mudanças europeias exigem gestão diplomática prudente. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
 - **1849** — Acordo com os Estados Unidos trata de indenizações por navios capturados no bloqueio do Prata; nota brasileira declara neutralidade na disputa Argentina–Paraguai, antes da fase intervencionista de 1851. [Documento](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf).
-- **1850** — Lei Eusébio de Queirós reprime o tráfico transatlântico; Lei de Terras reorganiza propriedade fundiária.
-- **1851** — Alianças do Império no Prata contra Oribe e Rosas reordenam o equilíbrio regional.
-- **1852** — Queda de Rosas na Batalha de Caseros fortalece posição brasileira no Prata.
+- **1850** — Lei Eusébio de Queirós reprime o tráfico transatlântico; Lei de Terras reorganiza propriedade fundiária. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1851** — Alianças do Império no Prata contra Oribe e Rosas reordenam o equilíbrio regional. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1852** — Queda de Rosas na Batalha de Caseros fortalece posição brasileira no Prata. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
 - **1853** — Antônio Paulino Limpo de Abreu assume o Ministério dos Negócios Estrangeiros em setembro; o gabinete administra questões pendentes de fronteira e navegação após a queda de Rosas. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1854** — Conflito diplomático com o Paraguai sobre navegação e fronteiras.
+- **1854** — Conflito diplomático com o Paraguai sobre navegação e fronteiras. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/paraguai).
 - **1855** — José Maria da Silva Paranhos, futuro visconde do Rio Branco, assume a pasta em junho; a diplomacia do Prata volta a depender de continuidade ministerial e capacidade de negociação. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1856** — Negociações sobre navegação fluvial e acesso aos rios platinos continuam.
+- **1856** — Negociações sobre navegação fluvial e acesso aos rios platinos continuam. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1857** — Caetano Maria Lopes Gama assume a chancelaria em maio; a chefia política do Itamaraty muda enquanto tratados de navegação e limites ainda reclamam implementação. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1858** — José Maria da Silva Paranhos volta ao Ministério dos Negócios Estrangeiros em dezembro, sinal de recorrência de quadros especializados na condução da política regional. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1859** — Tratado de limites Brasil–Venezuela é concluído em 5 de maio; João Lins Vieira Cansansão de Sinimbu assume a chefia do Ministério em agosto. [Documento](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
 - **1860** — A vigência das negociações de fronteira iniciadas pelo Tratado de 1859 com a Venezuela exige a distinção entre linha acordada e demarcação efetiva; sem novo tratado isolado estabelecido para este ano na fonte consultada. [Documento](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
-- **1861** — Começam incidentes que desembocariam na Questão Christie com o Reino Unido.
+- **1861** — Começam incidentes que desembocariam na Questão Christie com o Reino Unido. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
 - **1862** — O Ministério passa por Carlos Carneiro de Campos e Miguel Calmon du Pin e Almeida; alternância de chefia antecede agravamento das disputas com o Paraguai e o Reino Unido. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1863** — Questão Christie provoca ruptura temporária das relações diplomáticas com Londres.
-- **1864** — Intervenção brasileira no Uruguai e início da guerra com o Paraguai.
-- **1865** — Tratado da Tríplice Aliança une Brasil, Argentina e Uruguai contra o Paraguai.
-- **1866** — Guerra do Paraguai consome recursos e redefine relações civil-militares.
-- **1867** — Prosseguem campanhas militares e disputas sobre os objetivos de guerra.
-- **1868** — Continuidade da guerra e pressão fiscal e política sobre o Império.
-- **1869** — Ocupação de Assunção não encerra a guerra; prossegue a campanha contra López.
-- **1870** — Fim da Guerra do Paraguai, com enorme custo humano e efeitos persistentes sobre a região.
-- **1871** — Lei do Ventre Livre cria nova contradição entre reputação civilizatória e escravidão.
-- **1872** — Tratado Cotegipe–Loizaga define fronteira Brasil–Paraguai, com tensões entre aliados.
+- **1863** — Questão Christie provoca ruptura temporária das relações diplomáticas com Londres. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1864** — Intervenção brasileira no Uruguai e início da guerra com o Paraguai. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1865** — Tratado da Tríplice Aliança une Brasil, Argentina e Uruguai contra o Paraguai. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1866** — Guerra do Paraguai consome recursos e redefine relações civil-militares. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1867** — Prosseguem campanhas militares e disputas sobre os objetivos de guerra. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1868** — Continuidade da guerra e pressão fiscal e política sobre o Império. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1869** — Ocupação de Assunção não encerra a guerra; prossegue a campanha contra López. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1870** — Fim da Guerra do Paraguai, com enorme custo humano e efeitos persistentes sobre a região. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
+- **1871** — Lei do Ventre Livre cria nova contradição entre reputação civilizatória e escravidão. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1872** — Tratado Cotegipe–Loizaga define fronteira Brasil–Paraguai, com tensões entre aliados. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
 - **1873** — Carlos Carneiro de Campos assume a chancelaria; concessão autorizada em junho viabiliza a futura ligação telegráfica submarina entre Brasil e Portugal, ampliando comunicação transatlântica. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1874** — Inauguração do cabo telegráfico submarino Pernambuco–Portugal reduz o tempo de comunicação política, mercantil e consular entre Brasil e Europa, nova infraestrutura de presença internacional. [Documento](https://www.scielo.br/j/rbef/a/9sWYj3hNN8bnHDSzk7Lypsr/?lang=pt).
 - **1875** — João Maurício Wanderley assume os Negócios Estrangeiros em junho; relações com Paraguai e demais vizinhos continuam condicionadas pelo pós-guerra e pela permanência de tropas brasileiras. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1876** — Retirada das tropas brasileiras do Paraguai conclui fase da ocupação.
+- **1876** — Retirada das tropas brasileiras do Paraguai conclui fase da ocupação. [Fonte histórica](https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf).
 - **1877** — Diogo Velho Cavalcanti de Albuquerque assume a pasta em fevereiro; a grande seca de 1877–1879 começa a pressionar economia e sociedade do Nordeste, revelando custos domésticos da inserção exportadora. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1878** — Carlos Leôncio de Carvalho e Domingos de Souza Leão sucedem-se na chancelaria em janeiro e fevereiro, enquanto a emergência social da seca prolongada desafia prioridades do Império. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1879** — O Império envia missão especial à China, com Eduardo Callado e Arthur de Jaceguai, preparando aproximação comercial e discussão sobre circulação de trabalhadores. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
-- **1880** — Diplomacia imperial concentra-se em comércio, imigração e estabilização das fronteiras.
+- **1880** — Diplomacia imperial concentra-se em comércio, imigração e estabilização das fronteiras. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
 - **1881** — Diplomatas brasileiros assinam em Tianjin novo Tratado de Amizade, Comércio e Navegação com a China, após rejeição da versão anterior; a diplomacia imperial alcança parceiros asiáticos. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
 - **1882** — Filipe Franco de Sá e Lourenço Cavalcanti de Albuquerque assumem sucessivamente os Negócios Estrangeiros; a alternância mostra a inserção da diplomacia na instabilidade ministerial do Segundo Reinado. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1883** — Francisco de Carvalho Soares Brandão assume a chefia dos Negócios Estrangeiros em maio; a diplomacia continua vinculada ao sistema de gabinetes parlamentares do Império. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1884** — João da Mata Machado e Manuel Pinto de Souza Dantas ocupam sucessivamente a chancelaria; o avanço abolicionista torna cada vez mais difícil sustentar internacionalmente o escravismo imperial. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1885** — Lei dos Sexagenários não resolve o problema estrutural da escravidão.
+- **1885** — Lei dos Sexagenários não resolve o problema estrutural da escravidão. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
 - **1886** — A Lei 3.310 revoga a pena legal de açoites, mas não extingue a escravidão; o contraste entre reforma parcial e liberdade evidencia a fragilidade da pretensão civilizatória imperial. [Documento](https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3310-15-outubro-1886-543161-publicacaooriginal-53172-pl.html).
 - **1887** — O Clube Militar se recusa a mobilizar o Exército na perseguição a pessoas escravizadas fugitivas; a crise abolicionista mina o suporte interno à ordem imperial às vésperas da abolição. [Documento](https://museudarepublica.museus.gov.br/wp-content/uploads/2017/10/CronoCanudos.pdf).
-- **1888** — Abolição legal da escravidão; persistem exclusões sociais e raciais.
-- **1889** — Proclamação da República muda as referências de legitimidade e a política continental.
-- **1890** — Primeiros governos republicanos buscam reconhecimento e reorientação pan-americana.
-- **1891** — Constituição republicana redefine competências institucionais e relações exteriores.
+- **1888** — Abolição legal da escravidão; persistem exclusões sociais e raciais. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1889** — Proclamação da República muda as referências de legitimidade e a política continental. [Fonte histórica](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889).
+- **1890** — Primeiros governos republicanos buscam reconhecimento e reorientação pan-americana. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1891** — Constituição republicana redefine competências institucionais e relações exteriores. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1892** — Inocêncio Serzedello Corrêa e Antônio de Paula Sousa assumem a chancelaria ao longo do ano; mudanças ministeriais acompanham a frágil consolidação da República. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1893** — Revolta da Armada limita estabilidade e credibilidade externa.
+- **1893** — Revolta da Armada limita estabilidade e credibilidade externa. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1894** — Carlos Augusto de Carvalho assume a pasta em novembro; a República procura estabilizar a administração externa após sucessivas mudanças durante a crise política da década. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1895** — Arbitragem do presidente Cleveland decide a questão de Palmas em favor do Brasil.
+- **1895** — Arbitragem do presidente Cleveland decide a questão de Palmas em favor do Brasil. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1896** — Dionísio de Castro Cerqueira assume o Ministério em setembro; decisões de arbitragem territorial começam a transformar documentação técnica em recurso de prestígio internacional. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1897** — Conflitos internos, como Canudos, expõem fragilidades da integração nacional.
+- **1897** — Conflitos internos, como Canudos, expõem fragilidades da integração nacional. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1898** — Olinto de Magalhães assume a chancelaria em novembro, preservando a busca de relações regulares com países vizinhos durante a consolidação republicana. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1899** — Rio Branco muda-se para Berna para acompanhar arbitragem da controvérsia do Amapá perante a Suíça, consolidando a estratégia jurídica iniciada no caso de Palmas. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
-- **1900** — Arbitragem suíça reconhece posição brasileira na questão do Amapá.
+- **1900** — Arbitragem suíça reconhece posição brasileira na questão do Amapá. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1901** — Rio Branco é designado representante brasileiro em Berlim após sucesso na arbitragem do Amapá; sua entrada em posto permanente antecede a nomeação para chanceler em 1902. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
-- **1902** — Rio Branco assume o Ministério das Relações Exteriores.
-- **1903** — Tratado de Petrópolis incorpora o Acre mediante compensações e compromissos com a Bolívia.
-- **1904** — Brasil reconhece o Panamá; Rio Branco amplia a agenda hemisférica.
+- **1902** — Rio Branco assume o Ministério das Relações Exteriores. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
+- **1903** — Tratado de Petrópolis incorpora o Acre mediante compensações e compromissos com a Bolívia. [Fonte histórica](https://concordia.itamaraty.gov.br/acordo/243).
+- **1904** — Brasil reconhece o Panamá; Rio Branco amplia a agenda hemisférica. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1905** — Protocolos assinados com a Venezuela buscam finalizar demarcação da fronteira; acordo de arbitramento geral com a Argentina amplia o uso do direito como instrumento de estabilização bilateral. [Documento](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
-- **1906** — Terceira Conferência Pan-Americana é realizada no Rio de Janeiro.
-- **1907** — Tratado com a Colômbia avança a delimitação de fronteira.
+- **1906** — Terceira Conferência Pan-Americana é realizada no Rio de Janeiro. [Fonte histórica](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf).
+- **1907** — Tratado com a Colômbia avança a delimitação de fronteira. [Fonte histórica](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
 - **1908** — Correspondência entre Rio Branco e o embaixador Joaquim Nabuco, em dezembro, aborda a corrida naval e o equilíbrio com a Argentina; capacidade militar e diplomacia operavam conjuntamente. [Documento](https://funag.gov.br/loja/download/892-Joaquim_Nabuco_Vol._II.pdf).
-- **1909** — Acordo com o Uruguai altera direitos sobre a Lagoa Mirim e o rio Jaguarão.
-- **1910** — Rio Branco oferece bons ofícios para evitar conflito entre Peru e Equador.
+- **1909** — Acordo com o Uruguai altera direitos sobre a Lagoa Mirim e o rio Jaguarão. [Fonte histórica](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf).
+- **1910** — Rio Branco oferece bons ofícios para evitar conflito entre Peru e Equador. [Fonte histórica](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf).
 - **1911** — Brasil firma convenções de arbitragem, inclusive com o Uruguai em janeiro, e promulga decisões pan-americanas sobre propriedade intelectual e codificação do direito internacional. [Documento](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf).
-- **1912** — Morte de Rio Branco encerra década central da diplomacia de fronteiras.
+- **1912** — Morte de Rio Branco encerra década central da diplomacia de fronteiras. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1913** — Sob o chanceler Lauro Müller, iniciado em 1912, a República ajusta a diplomacia à fase posterior a Rio Branco; estudos de 1913 preservam a centralidade dos tratados de arbitragem. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1914** — Primeira Guerra Mundial começa; Brasil permanece inicialmente neutro.
+- **1914** — Primeira Guerra Mundial começa; Brasil permanece inicialmente neutro. [Fonte histórica](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
 - **1915** — Relatório oficial de 1914–1915 descreve apoio consular e repatriação de brasileiros atingidos pela guerra europeia; neutralidade também exigia serviços concretos a cidadãos no exterior. [Documento](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
 - **1916** — Relatórios do Itamaraty referentes a 1916–1917 registram medidas consulares para brasileiros na Alemanha; proteção de nacionais precede a ruptura diplomática e a entrada na guerra em 1917. [Documento](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
-- **1917** — Ataques a navios precipitam a declaração brasileira de guerra contra a Alemanha.
-- **1918** — Participação brasileira no esforço aliado associa saúde, patrulhamento e diplomacia.
-- **1919** — Brasil participa da Conferência de Paz de Paris e da criação da Liga das Nações.
-- **1920** — Brasil assume mandato no Conselho da Liga das Nações.
+- **1917** — Ataques a navios precipitam a declaração brasileira de guerra contra a Alemanha. [Fonte histórica](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
+- **1918** — Participação brasileira no esforço aliado associa saúde, patrulhamento e diplomacia. [Fonte histórica](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
+- **1919** — Brasil participa da Conferência de Paz de Paris e da criação da Liga das Nações. [Fonte histórica](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
+- **1920** — Brasil assume mandato no Conselho da Liga das Nações. [Fonte histórica](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
 - **1921** — Representante brasileiro Gastão da Cunha preside sessão do Conselho da Liga das Nações; o Brasil participa da deliberação sobre a Alta Silésia, demonstrando atuação substantiva além da demanda de assento. [Documento](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
-- **1922** — Centenário da Independência projeta representação nacional e recepção de delegações.
+- **1922** — Centenário da Independência projeta representação nacional e recepção de delegações. [Fonte histórica](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
 - **1923** — Decreto 16.132 promulga emendas ao Pacto da Liga das Nações; o Brasil investe em regras multilaterais enquanto disputa espaço permanente no Conselho. [Documento](https://www.planalto.gov.br/ccivil_03/decreto/1910-1929/d16132.html).
-- **1924** — Divergências sobre assentos permanentes agudizam ambições brasileiras na Liga.
-- **1925** — A representação do Brasil na Liga das Nações mantém o pleito por maior posição decisória; a documentação do Itamaraty da época permite rastrear negociações, mas não comprova êxito no assento. [Documento](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934).
-- **1926** — Brasil se retira da Liga das Nações após fracassar projeto de assento permanente.
+- **1924** — Divergências sobre assentos permanentes agudizam ambições brasileiras na Liga. [Fonte histórica](https://www.scielo.br/j/rbpi/a/JZKHQvrbfbV6gsQWGdXbwky/).
+- **1925** — O embaixador brasileiro Régis de Oliveira apresenta a Austen Chamberlain, em 30 de julho, memorando defendendo assento permanente no Conselho da Liga das Nações; o delegado Mello Franco volta a tratar do tema em Genebra, em 11 de setembro. O pleito não obtém consenso. [Registros documentais](https://www.scielo.br/j/rbpi/a/JZKHQvrbfbV6gsQWGdXbwky/)
+- **1926** — Brasil se retira da Liga das Nações após fracassar projeto de assento permanente. [Fonte histórica](https://www.scielo.br/j/rbpi/a/JZKHQvrbfbV6gsQWGdXbwky/).
 - **1927** — Otávio Mangabeira, chanceler desde novembro de 1926, administra relações bilaterais após a retirada brasileira da Liga; a decisão de 1926 reduz uma via institucional sem extinguir a diplomacia. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1928** — Sob Mangabeira, a chancelaria publica relatórios de 1928 que documentam relações exteriores posteriores à saída da Liga, enquanto a economia continua vulnerável ao comércio cafeeiro. [Documento](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934).
-- **1929** — Crise mundial expõe dependência da exportação de café.
-- **1930** — Revolução de 1930 inaugura nova organização do Estado e da diplomacia econômica.
+- **1928** — O Brasil participa da VI Conferência Internacional Americana em Havana, assinando convenções sobre tratados, agentes consulares, diplomatas e asilo em fevereiro. A aprovação brasileira pelo Decreto 5.647 só ocorreria em janeiro de 1929. [Registros documentais](https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5647-8-janeiro-1929-561479-publicacaooriginal-85118-pl.html)
+- **1929** — Crise mundial expõe dependência da exportação de café. [Fonte histórica](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
+- **1930** — Revolução de 1930 inaugura nova organização do Estado e da diplomacia econômica. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1931** — Afrânio de Melo Franco, no Ministério desde outubro de 1930, conduz a adaptação diplomática da nova administração Vargas em contexto de depressão e reorganização comercial. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1932** — Conflito constitucionalista limita imagem de estabilidade.
+- **1932** — Conflito constitucionalista limita imagem de estabilidade. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1933** — O governo brasileiro oferece mediação na crise de Letícia entre Peru e Colômbia, segundo telegramas do Departamento de Estado dos EUA; busca evitar confronto em fronteira amazônica. [Documento](https://history.state.gov/historicaldocuments/frus1933v04/d401).
 - **1934** — José Carlos de Macedo Soares assume o Ministério em julho; a política externa do governo Vargas busca conciliar diplomacia profissional e centralização política. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1935** — Polarização interna e alinhamentos internacionais tensionam a política externa.
+- **1935** — Polarização interna e alinhamentos internacionais tensionam a política externa. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1936** — Mário de Pimentel Brandão assume a chancelaria em dezembro, durante o processo de redefinição das relações comerciais e ideológicas da década de 1930. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1937** — Estado Novo autoritário convive com barganha econômica entre potências.
+- **1937** — Estado Novo autoritário convive com barganha econômica entre potências. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1938** — Oswaldo Aranha assume os Negócios Estrangeiros em março, tornando-se figura central da relação com os EUA e da diplomacia brasileira na Segunda Guerra. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1939** — Segunda Guerra Mundial inicia fase de neutralidade e negociação estratégica.
+- **1939** — Segunda Guerra Mundial inicia fase de neutralidade e negociação estratégica. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1940** — Negociações com os EUA resultam, em novembro, no anúncio de empréstimo para a siderurgia de Volta Redonda, demonstrando a relação entre barganha externa e industrialização. [Documento](https://atlas.fgv.br/verbete/3588).
 - **1941** — Oswaldo Aranha permanece à frente do Ministério enquanto o governo Vargas negocia cooperação hemisférica, bases e industrialização às vésperas da entrada brasileira na Segunda Guerra. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1942** — Brasil rompe com o Eixo e declara guerra após ataques a embarcações.
-- **1943** — Cooperação militar e industrial com os EUA se aprofunda.
-- **1944** — Força Expedicionária Brasileira combate na Itália.
-- **1945** — Brasil participa da fundação da ONU; é criado o Instituto Rio Branco.
-- **1946** — Primeiro mandato do Brasil no Conselho de Segurança da ONU.
-- **1947** — Oswaldo Aranha preside a Assembleia Geral; partilha da Palestina é aprovada sob sua presidência.
-- **1948** — Brasil participa da criação da Organização dos Estados Americanos e da aprovação da Declaração Universal dos Direitos Humanos pela Assembleia Geral da ONU; a legitimidade multilateral passa a incluir direitos. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica).
+- **1942** — Brasil rompe com o Eixo e declara guerra após ataques a embarcações. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1943** — Cooperação militar e industrial com os EUA se aprofunda. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1944** — Força Expedicionária Brasileira combate na Itália. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1945** — Brasil participa da fundação da ONU; é criado o Instituto Rio Branco. [Fonte histórica](https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del7473.htm).
+- **1946** — Primeiro mandato do Brasil no Conselho de Segurança da ONU. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **1947** — Oswaldo Aranha preside a Assembleia Geral; partilha da Palestina é aprovada sob sua presidência. [Fonte histórica](https://brasil.un.org/pt-br/278975-assembleia-geral-da-onu).
+- **1948** — Brasil assina a Carta da Organização dos Estados Americanos em Bogotá, em 30 de abril, e vota a favor da Declaração Universal dos Direitos Humanos na Assembleia Geral da ONU em 10 de dezembro. A assinatura da Carta da OEA não equivale à sua ratificação posterior. [Registros documentais](https://www.oas.org/en/iachr/mandate/Basics/charterOASrat.asp) e [votação ONU](https://digitallibrary.un.org/record/670964?p=Resolution+217%28III%29+A).
 - **1949** — A criação da Escola Superior de Guerra, pela Lei 785, institucionaliza pensamento de segurança em contexto de Guerra Fria, com influência de cooperação militar americana. [Documento](https://www.gov.br/defesa/pt-br/assuntos/esg/a-esg/historia-da-esg).
-- **1950** — Comissão Nacional de Assistência Técnica inaugura sistema estruturado de cooperação recebida.
-- **1951** — Segundo mandato brasileiro no Conselho de Segurança; retorno de Vargas.
+- **1950** — Comissão Nacional de Assistência Técnica inaugura sistema estruturado de cooperação recebida. [Fonte histórica](https://www.gov.br/abc/pt-br/acesso-a-informacao/institucional/historia).
+- **1951** — Segundo mandato brasileiro no Conselho de Segurança; retorno de Vargas. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
 - **1952** — Brasil e Estados Unidos assinam acordo de assistência militar em março; a ratificação brasileira seria completada em 1953, distinguindo assinatura de entrada em vigor. [Documento](https://www2.camara.leg.br/legin/fed/decleg/1950-1959/decretolegislativo-30-30-abril-1953-351630-publicacaooriginal-1-pl.html).
-- **1953** — Interesses petrolíferos e industriais ganham relevo na autonomia econômica.
-- **1954** — Terceiro mandato do Brasil no Conselho de Segurança.
-- **1955** — Brasil passa a abrir tradicionalmente o debate geral da Assembleia da ONU.
-- **1956** — Crise de Suez abre caminho para participação brasileira em força da ONU.
-- **1957** — Batalhão Suez participa da UNEF I; construção de Brasília marca ambição de modernização.
-- **1958** — Política Externa e desenvolvimento são mobilizados pelo governo JK.
+- **1953** — Interesses petrolíferos e industriais ganham relevo na autonomia econômica. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1954** — Terceiro mandato do Brasil no Conselho de Segurança. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **1955** — Brasil passa a abrir tradicionalmente o debate geral da Assembleia da ONU. [Fonte histórica](https://brasil.un.org/pt-br/278975-assembleia-geral-da-onu).
+- **1956** — Crise de Suez abre caminho para participação brasileira em força da ONU. [Fonte histórica](https://peacekeeping.un.org/sites/default/files/past/unef1facts.html).
+- **1957** — Batalhão Suez participa da UNEF I; construção de Brasília marca ambição de modernização. [Fonte histórica](https://peacekeeping.un.org/sites/default/files/past/unef1facts.html).
+- **1958** — Política Externa e desenvolvimento são mobilizados pelo governo JK. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1959** — Horácio Lafer assume o Ministério em agosto durante a presidência Kubitschek, mantendo a diplomacia desenvolvimentista vinculada à demanda de financiamento externo. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1960** — Inauguração de Brasília; militares brasileiros participam da operação da ONU no Congo.
-- **1961** — Jânio e Goulart impulsionam a Política Externa Independente; Brasil condecora Che Guevara, em gesto polêmico.
-- **1962** — Diplomacia enfrenta a crise cubana e amplia posições de autonomia.
-- **1963** — Quarto mandato brasileiro no Conselho de Segurança; PEI enfrenta instabilidade interna.
-- **1964** — Golpe militar encerra governo Goulart e modifica relações com EUA e Cuba.
-- **1965** — Regime militar reafirma alinhamento ocidental e participa de debates sobre segurança hemisférica.
+- **1960** — Inauguração de Brasília; militares brasileiros participam da operação da ONU no Congo. [Fonte histórica](https://peacekeeping.un.org/en/past-peacekeeping-operations).
+- **1961** — Jânio e Goulart impulsionam a Política Externa Independente; Brasil condecora Che Guevara, em gesto polêmico. [Fonte histórica](https://funag.gov.br/biblioteca-nova/produto/1-190-documentos_da_politica_externa_independente_volume_1).
+- **1962** — Diplomacia enfrenta a crise cubana e amplia posições de autonomia. [Fonte histórica](https://funag.gov.br/biblioteca-nova/produto/1-416-documentos_da_politica_externa_independente_volume_2).
+- **1963** — Quarto mandato brasileiro no Conselho de Segurança; PEI enfrenta instabilidade interna. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **1964** — Golpe militar encerra governo Goulart e modifica relações com EUA e Cuba. [Fonte histórica](https://biblioteca.mds.gov.br/cgi-bin/koha/opac-showmarc.pl?id=1119&viewas=html).
+- **1965** — Regime militar reafirma alinhamento ocidental e participa de debates sobre segurança hemisférica. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
 - **1966** — Juracy Magalhães assume a pasta em janeiro, expressão da prioridade dada pelos militares às relações com Washington antes da posterior diversificação. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
-- **1967** — Quinto mandato brasileiro no Conselho de Segurança; aproxima-se reorientação pragmática.
-- **1968** — AI-5 agrava contradição entre imagem externa e repressão interna.
-- **1969** — Reorganização da cooperação técnica e aumento da centralização administrativa.
+- **1967** — Quinto mandato brasileiro no Conselho de Segurança; aproxima-se reorientação pragmática. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **1968** — AI-5 agrava contradição entre imagem externa e repressão interna. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1969** — Reorganização da cooperação técnica e aumento da centralização administrativa. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1970** — Decreto-Lei 1.098 amplia a reivindicação brasileira de mar territorial para 200 milhas marítimas; soberania sobre recursos e direito do mar tornam-se agenda diplomática relevante. [Documento](https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1098-25-marco-1970-375405-publicacaooriginal-1-pe.html).
-- **1971** — FUNAG é instituída; debate sobre desenvolvimento e ordem internacional ganha suporte institucional.
-- **1972** — Brasil participa da Conferência de Estocolmo defendendo espaço para desenvolvimento.
-- **1973** — Choque do petróleo expõe vulnerabilidade e incentiva diversificação de fornecedores.
-- **1974** — Governo Geisel consolida pragmatismo responsável e diversificação diplomática.
-- **1975** — Brasil reconhece independência de Angola e assina acordo nuclear com a Alemanha Ocidental.
-- **1976** — Política africana e energia ampliam margem de autonomia externa.
-- **1977** — Brasil denuncia acordo militar de 1952 com EUA, afirmando autonomia.
-- **1978** — Ajustes na diplomacia e economia ocorrem sob pressão energética e financeira.
-- **1979** — Segundo choque do petróleo acentua fragilidades e crise do endividamento.
-- **1980** — Debate Norte–Sul, dívida e desenvolvimento domina a agenda externa.
-- **1981** — Brasil participa da Cúpula Norte–Sul em Cancún, discutindo comércio, desenvolvimento e dívida em meio ao agravamento das restrições financeiras da América Latina. [Documento](https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/old/serie-estrangeira-old).
-- **1982** — Crise da dívida latino-americana restringe autonomia econômica.
-- **1983** — Redemocratização gradual reabre debate sobre legitimidade externa.
-- **1984** — Negociações com Argentina preparam cooperação em energia e comércio.
-- **1985** — Redemocratização e Declaração do Iguaçu com Argentina iniciam nova etapa bilateral.
-- **1986** — Programa de Integração e Cooperação Econômica Brasil–Argentina.
-- **1987** — Criada a Agência Brasileira de Cooperação; integração regional aprofunda-se.
-- **1988** — Constituição democrática consagra princípios internacionais e cooperação latino-americana.
-- **1989** — Final da Guerra Fria abre espaço a novas coalizões e regras de comércio.
-- **1990** — Abertura econômica e aproximação regional redefinem diplomacia comercial.
-- **1991** — Tratado de Assunção cria o Mercosul.
-- **1992** — Rio-92 faz do Brasil um eixo das negociações de clima e biodiversidade.
-- **1993** — Brasil volta ao Conselho de Segurança; crise política interna condiciona projeção externa.
-- **1994** — Plano Real e Protocolo de Ouro Preto institucionalizam estabilização e Mercosul.
-- **1995** — Criação da OMC e internacionalização da agenda comercial brasileira.
-- **1996** — Criação da Comunidade dos Países de Língua Portuguesa.
-- **1997** — Diplomacia do desenvolvimento sustentável enfrenta tensões em Kyoto.
-- **1998** — Novo mandato no Conselho de Segurança e crise financeira global.
-- **1999** — Desvalorização cambial e crise do Mercosul põem à prova integração comercial.
-- **2000** — Primeira Cúpula América do Sul em Brasília projeta integração física regional.
-- **2001** — Disputa de patentes e acesso a medicamentos fortalece voz brasileira em saúde pública.
-- **2002** — Transição presidencial preserva compromissos centrais de integração.
-- **2003** — IBAS reúne Índia, Brasil e África do Sul; diplomacia Sul–Sul ganha escala.
-- **2004** — Brasil assume comando militar da MINUSTAH no Haiti e mandato no Conselho de Segurança.
-- **2005** — Diplomacia comercial da Rodada Doha convive com campanha por assento permanente na ONU.
-- **2006** — Integração regional e cooperação Sul–Sul permanecem prioridades.
-- **2007** — Brasil amplia cooperação técnica, agricultura tropical e diplomacia energética.
-- **2008** — Crise financeira global e criação da UNASUL alteram agendas regionais.
-- **2009** — Brasil participa da primeira cúpula de líderes BRIC e amplia centralidade com China.
-- **2010** — Brasil e Turquia negociam Declaração de Teerã sobre o programa nuclear iraniano; novo mandato no Conselho.
-- **2011** — Nova gestão mantém BRICS e participação brasileira em operações multilaterais.
-- **2012** — Rio+20 recoloca sustentabilidade e diplomacia ambiental na agenda.
-- **2013** — Protestos internos e desaceleração econômica tornam mais difícil sustentar narrativa externa.
-- **2014** — Cúpula BRICS em Fortaleza cria o Novo Banco de Desenvolvimento.
-- **2015** — Acordo de Paris amplia responsabilidade climática e oportunidade diplomática brasileira.
-- **2016** — Impeachment, crise econômica e mudança de orientação reduzem previsibilidade externa.
-- **2017** — Fim da missão MINUSTAH encerra ciclo de grande presença operacional brasileira.
-- **2018** — A eleição presidencial prenuncia inflexão nas prioridades diplomáticas.
-- **2019** — Governo Bolsonaro redefine parceiros prioritários; queimadas amazônicas afetam imagem internacional.
-- **2020** — Pandemia desafia cooperação sanitária, consular e diplomacia ambiental.
-- **2021** — Brasil é eleito para novo biênio no Conselho de Segurança (2022–2023).
-- **2022** — Brasil assume 11º mandato eletivo no Conselho de Segurança e enfrenta guerra Rússia–Ucrânia.
-- **2023** — Governo Lula retoma diplomacia climática, regional e multilaterais; Cúpula da Amazônia em Belém.
-- **2024** — Presidência brasileira do G20 culmina no Rio e lança Aliança Global contra Fome e Pobreza.
-- **2025** — Brasil preside BRICS e recebe COP30 em Belém; Pacote de Belém é adotado.
-- **2026** — Assinatura Mercosul–UE em janeiro e aplicação provisória comercial em maio; Brand Finance coloca o Brasil em 29º no índice global de soft power.
+- **1971** — FUNAG é instituída; debate sobre desenvolvimento e ordem internacional ganha suporte institucional. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1972** — Brasil participa da Conferência de Estocolmo defendendo espaço para desenvolvimento. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1973** — Choque do petróleo expõe vulnerabilidade e incentiva diversificação de fornecedores. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1974** — Governo Geisel consolida pragmatismo responsável e diversificação diplomática. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1975** — Brasil reconhece independência de Angola e assina acordo nuclear com a Alemanha Ocidental. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1976** — Política africana e energia ampliam margem de autonomia externa. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1977** — Brasil denuncia acordo militar de 1952 com EUA, afirmando autonomia. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1978** — Ajustes na diplomacia e economia ocorrem sob pressão energética e financeira. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1979** — Segundo choque do petróleo acentua fragilidades e crise do endividamento. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **1980** — Debate Norte–Sul, dívida e desenvolvimento domina a agenda externa. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1981** — O chanceler Ramiro Saraiva Guerreiro representa o Brasil na reunião Norte–Sul de Cancún, em 22–23 de outubro, e discursa em 22 de outubro sobre cooperação e desenvolvimento. A participação diplomática ocorre em contexto de crescente pressão da dívida. [Registros documentais](https://www.funag.gov.br/chdd/images/Resenhas/RPEB_31_out_nov_dec_1981.pdf) e [votação ONU](https://history.state.gov/historicaldocuments/frus1981-88v01/d68).
+- **1982** — Crise da dívida latino-americana restringe autonomia econômica. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1983** — Redemocratização gradual reabre debate sobre legitimidade externa. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1984** — Negociações com Argentina preparam cooperação em energia e comércio. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1985** — Redemocratização e Declaração do Iguaçu com Argentina iniciam nova etapa bilateral. [Fonte histórica](https://funag.gov.br/biblioteca/download/286-Iguacu_%2B_20_Dia_da_Amizade_Brasil_-_Argentina.pdf).
+- **1986** — Programa de Integração e Cooperação Econômica Brasil–Argentina. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1987** — Criada a Agência Brasileira de Cooperação; integração regional aprofunda-se. [Fonte histórica](https://www.gov.br/abc/pt-br/acesso-a-informacao/institucional/historia).
+- **1988** — Constituição democrática consagra princípios internacionais e cooperação latino-americana. [Fonte histórica](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
+- **1989** — Final da Guerra Fria abre espaço a novas coalizões e regras de comércio. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1990** — Abertura econômica e aproximação regional redefinem diplomacia comercial. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **1991** — Tratado de Assunção cria o Mercosul. [Fonte histórica](https://www.gov.br/siscomex/pt-br/acordos-comerciais/mercosul).
+- **1992** — Rio-92 faz do Brasil um eixo das negociações de clima e biodiversidade. [Fonte histórica](https://www.un.org/en/conferences/environment/rio1992).
+- **1993** — Brasil volta ao Conselho de Segurança; crise política interna condiciona projeção externa. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **1994** — Plano Real e Protocolo de Ouro Preto institucionalizam estabilização e Mercosul. [Fonte histórica](https://www.gov.br/siscomex/pt-br/acordos-comerciais/mercosul).
+- **1995** — Criação da OMC e internacionalização da agenda comercial brasileira. [Fonte histórica](https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm).
+- **1996** — Criação da Comunidade dos Países de Língua Portuguesa. [Fonte histórica](https://www.cplp.org/id-2597.aspx).
+- **1997** — Diplomacia do desenvolvimento sustentável enfrenta tensões em Kyoto. [Fonte histórica](https://unfccc.int/process-and-meetings/the-paris-agreement).
+- **1998** — Novo mandato no Conselho de Segurança e crise financeira global. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **1999** — Desvalorização cambial e crise do Mercosul põem à prova integração comercial. [Fonte histórica](https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf).
+- **2000** — Primeira Cúpula América do Sul em Brasília projeta integração física regional. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **2001** — Disputa de patentes e acesso a medicamentos fortalece voz brasileira em saúde pública. [Fonte histórica](https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf).
+- **2002** — Transição presidencial preserva compromissos centrais de integração. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **2003** — IBAS reúne Índia, Brasil e África do Sul; diplomacia Sul–Sul ganha escala. [Fonte histórica](https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/foruns-internacionais-1/zona-de-paz-e-cooperacao-do-atlantico-sul-zopacas/zopacas).
+- **2004** — Brasil assume comando militar da MINUSTAH no Haiti e mandato no Conselho de Segurança. [Fonte histórica](https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/copy_of_missoes-de-paz/historico-da-participacao-brasileira-em-missoes-da-onu).
+- **2005** — Diplomacia comercial da Rodada Doha convive com campanha por assento permanente na ONU. [Fonte histórica](https://www.wto.org/english/tratop_e/dda_e/dda_e.htm).
+- **2006** — Integração regional e cooperação Sul–Sul permanecem prioridades. [Fonte histórica](https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/foruns-internacionais-1/zona-de-paz-e-cooperacao-do-atlantico-sul-zopacas/zopacas).
+- **2007** — Brasil amplia cooperação técnica, agricultura tropical e diplomacia energética. [Fonte histórica](https://www.gov.br/abc/pt-br/acesso-a-informacao/institucional/historia).
+- **2008** — Crise financeira global e criação da UNASUL alteram agendas regionais. [Fonte histórica](https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/foruns-internacionais-1/zona-de-paz-e-cooperacao-do-atlantico-sul-zopacas/zopacas).
+- **2009** — Brasil participa da primeira cúpula de líderes BRIC e amplia centralidade com China. [Fonte histórica](https://www.gov.br/mme/pt-br/atos-internacionais/organismos-internacionais/brics).
+- **2010** — Brasil e Turquia negociam Declaração de Teerã sobre o programa nuclear iraniano; novo mandato no Conselho. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **2011** — Nova gestão mantém BRICS e participação brasileira em operações multilaterais. [Fonte histórica](https://www.gov.br/mme/pt-br/atos-internacionais/organismos-internacionais/brics).
+- **2012** — Rio+20 recoloca sustentabilidade e diplomacia ambiental na agenda. [Fonte histórica](https://www.un.org/en/conferences/environment/rio1992).
+- **2013** — Protestos internos e desaceleração econômica tornam mais difícil sustentar narrativa externa. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **2014** — Cúpula BRICS em Fortaleza cria o Novo Banco de Desenvolvimento. [Fonte histórica](https://www.ndb.int/about-ndb/history/).
+- **2015** — Acordo de Paris amplia responsabilidade climática e oportunidade diplomática brasileira. [Fonte histórica](https://unfccc.int/process-and-meetings/the-paris-agreement).
+- **2016** — Impeachment, crise econômica e mudança de orientação reduzem previsibilidade externa. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **2017** — Fim da missão MINUSTAH encerra ciclo de grande presença operacional brasileira. [Fonte histórica](https://peacekeeping.un.org/en/past-peacekeeping-operations).
+- **2018** — A eleição presidencial prenuncia inflexão nas prioridades diplomáticas. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **2019** — Governo Bolsonaro redefine parceiros prioritários; queimadas amazônicas afetam imagem internacional. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **2020** — Pandemia desafia cooperação sanitária, consular e diplomacia ambiental. [Fonte histórica](https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/copy_of_missoes-de-paz/historico-da-participacao-brasileira-em-missoes-da-onu).
+- **2021** — Brasil é eleito para novo biênio no Conselho de Segurança (2022–2023). [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **2022** — Brasil assume 11º mandato eletivo no Conselho de Segurança e enfrenta guerra Rússia–Ucrânia. [Fonte histórica](https://main.un.org/securitycouncil/en/content/countries-elected-members).
+- **2023** — Governo Lula retoma diplomacia climática, regional e multilaterais; Cúpula da Amazônia em Belém. [Fonte histórica](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **2024** — Presidência brasileira do G20 culmina no Rio e lança Aliança Global contra Fome e Pobreza. [Fonte histórica](https://www.gov.br/g20/pt-br/sobre-o-g20/e-book-brasil-na-presidencia-do-g20).
+- **2025** — Brasil preside BRICS e recebe COP30 em Belém; Pacote de Belém é adotado. [Fonte histórica](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/11/cop30-e-encerrada-com-o-pacote-de-belem-aprovado-por-195-paises).
+- **2026** — Assinatura Mercosul–UE em janeiro e aplicação provisória comercial em maio; Brand Finance coloca o Brasil em 29º no índice global de soft power. [Fonte histórica](https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement_en).
 
 ## 15. O horizonte: hipóteses testáveis para 2027–2035
 
