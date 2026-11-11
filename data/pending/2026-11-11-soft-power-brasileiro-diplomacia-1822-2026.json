@@ -52,7 +52,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -123,13 +123,13 @@
     }
   },
   "producer_checks": {
-    "information_cutoff": "11 November 2026, America/Sao_Paulo. Historical evidence checked against FUNAG CHDD dated country chronologies, official minister appointment dates, legal acts, UN list and primary contemporary records. Source collection last-update dates are not publication cutoff dates.",
-    "source_check": "Expanded documentary map from 20 general sources to 40 sources, with inline year-specific evidence links for corrected entries, a dated source apparatus, treaty/ratification distinctions and complete year list for the 11 UN Council terms. Retained detailed bibliographical sources for broader narrative; historic coverage is not claimed as exhaustive archival verification for each existing entry.",
-    "historical_method": "Replaced all 62 repetitive year placeholders with distinct dated acts, ministerial appointments, documented disputes, or explicitly bounded continuing processes. 205 individual annual entries retained, 1822–2026. Institutional appointments do not by themselves demonstrate policy changes; unratified treaties are identified.",
+    "information_cutoff": "2026-11-11, America/Sao_Paulo. All document dates distinguished from secondary source publication dates; ongoing news cutoff excludes later occurrences.",
+    "source_check": "All 205 annual entries now have a year-localized source link in both languages. Sources range from primary legal instruments and foreign-ministry documents to official thematic chronologies and scholarly secondary syntheses; citations are not presumed validated individually solely because a link exists. The independent QA must inspect whether each linked source actually supports its claim. Particular corrections: 1833, 1925, 1928, 1948 and 1981.",
+    "historical_method": "Revision 3 explicitly cites each annual entry (205 in both languages). 62 former generic placeholders replaced in revision 2; 143 formerly unlinked entries received contextual/documentary links in revision 3. Ambiguous 1833 recognition disaggregated; 1925 contemporaneous British-Brazilian contacts; 1928 Pan-American signature versus 1929 ratification; 1948 Charter and Declaration as separate acts; 1981 minister personally represented Brazil.",
     "argument_continuity": "Stages: attraction versus outcomes → empire → territorial legalism → world order → autonomy and legitimacy → democratization → South–South coalitions → recent setbacks → 2023–2026 and constraints → mechanisms/comparators/falsifiers.",
-    "visual_evidence": "Both languages: the same 5-row table, one decade chart from 11 explicit UN start years, one four-line causal flow and one six-region map. Sources of mandates listed and decade count reproducible.",
-    "bilingual_parity": "English and PT-BR editions each contain 205 years, all 62 previously generic entries now translated as specific archival anchors, same 11 Council start years, equivalent structural visuals and shared evidence links.",
-    "editorial_status": "Producer revision 2 staged; independent new QA required. Previous rejected revision 1 retained in data/rejected; no approval or public report created."
+    "visual_evidence": "One Markdown table, one explicit chart (1940-2020 UN mandate start counts with 11 listed years), one causal flow and one regional map per language; numerical and visual signatures equal. Primary UN Security Council historical membership source cited.",
+    "bilingual_parity": "Same 205 year-specific chronology entries, identical linked source URLs for chronology (except existing original bibliography label translations), same UN mandate count, same analytical sections and visual grammar.",
+    "editorial_status": "Revision 3 submitted for independent QA; prior rejections rev1 and rev2 retained in data/rejected; no approved snapshot or reports bundle exists."
   },
   "contrary_evidence": [
     "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
@@ -147,7 +147,11 @@
     "Independent QA, source-hash approval and public site deployment have not yet occurred at producer stage.",
     "Annual entries are historically selective and not an exhaustive documentary inventory; specific terms and negotiations have different certainty levels.",
     "The National Archives imperial chronology is indexed but its original URL has intermittent maintenance redirects; FUNAG, minister appointments and legal primary sources provide accessible cross-checks.",
-    "This version responds to QA rejection v1 with 62 year-specific replacements and a documentary apparatus; independent source-level QA is still required."
+    "Per-year citations include broad specialist chronologies for some years rather than primary dated instruments; independent QA must still check individual claim-level attribution and may reject.",
+    "Sourcing of ministerial appointments does not establish contemporaneous shifts in policy; historical interpretation is separated from the appointment.",
+    "The Falklands entry of 1833 distinguishes British seizure and Argentina's objection from later Brazilian diplomatic positions; no unsourced 1833 instrument is alleged.",
+    "Signing, ratification and effective application of treaties are separate legal acts; the 1928 Havana and 1948 OAS entries reflect this distinction.",
+    "This revision has not been independently approved and is not public."
   ],
   "evidence_sources": [
     {
@@ -348,6 +352,76 @@
     {
       "name": "European Commission — EU–Mercosur legal status as at November 2026",
       "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement_en",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "SCIELO study: Brazil's League of Nations bid, specific 1925 embassy diplomacy",
+      "url": "https://www.scielo.br/j/rbpi/a/JZKHQvrbfbV6gsQWGdXbwky/",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazilian 1929 decree documenting signatures at 1928 Havana Conference",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5647-8-janeiro-1929-561479-publicacaooriginal-85118-pl.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "UN Digital Library UNGA Resolution 217 A III vote, Brazil YES, Dec 1948",
+      "url": "https://digitallibrary.un.org/record/670964?p=Resolution+217%28III%29+A",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "OAS original charter (signed Bogotá April 30 1948)",
+      "url": "https://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazilian 1981 Cancún speech of Minister Ramiro Saraiva Guerreiro",
+      "url": "https://www.anales.uchile.cl/index.php/REI/article/view/15980",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "US State Department historical document: Cancún meeting and Brazil represented by Guerreiro",
+      "url": "https://history.state.gov/historicaldocuments/frus1981-88v01/d68",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "UNESCO Rio Earth Summit 1992",
+      "url": "https://www.un.org/en/conferences/environment/rio1992",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "UN Peacekeeping operations 1948–2017",
+      "url": "https://peacekeeping.un.org/en/past-peacekeeping-operations",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG 19th-century Paraguayan War and post-war diplomatic settlements",
+      "url": "https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG Pimenta Bueno mission, 1843–1847",
+      "url": "https://funag.gov.br/loja-nova/produto/31-1-a_missao_pimenta_bueno",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Mercosur official founding chronology",
+      "url": "https://www.gov.br/siscomex/pt-br/acordos-comerciais/mercosul",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG historical Brazil-Argentina integration timeline",
+      "url": "https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Itamaraty Treaty of Petrópolis, original 1903 document",
+      "url": "https://concordia.itamaraty.gov.br/acordo/243",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "UNFCCC Paris Agreement text",
+      "url": "https://unfccc.int/process-and-meetings/the-paris-agreement",
       "accessed_at": "2026-11-11"
     }
   ]
