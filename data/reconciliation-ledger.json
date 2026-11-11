@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T17:43:22.101Z",
+  "last_reconciled_at": "2026-11-11T18:45:22.975Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9333,6 +9333,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No technical deployment or capability change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-saverin-bcapital-russell-biography-publication",
+      "reconciled_at": "2026-11-11T18:45:22.975Z",
+      "report_ids_reviewed": [
+        "MT-SA-2026-11-11-SAVERIN-BCAPITAL"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Meta equity, cross-border venture funds and proposed Russell ownership are concrete financial relationships, but the canonical network needs a separate verified entity-edge normalization before adding new connections."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The biography documents a private investment firm and transactions; it does not qualify a scored new country/market structural opportunity entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Saverin and B Capital could warrant an actor record, but ownership/control rights across funds, the Russell consortium and BCG partnership require actor-schema review; no unchecked actor-control record inserted."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The manuscript does not establish a revised controller of reserves, processing infrastructure or physical resources."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "No discrete implemented public-policy experiment with measured outcomes is analyzed."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No bounded conflict-system update; geopolitical exposure is contextual."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Company financing and AI investment theses are not new replicated technical performance/deployment evidence."
         }
       ]
     }

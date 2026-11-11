@@ -2,6 +2,137 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-SA-2026-11-11-SAVERIN-BCAPITAL",
+    "slug": "2026-11-11-eduardo-saverin-b-capital-financas-poder-global",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T14:45:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "trade-investment",
+      "institutions-governance",
+      "inequality-distribution",
+      "industry-production"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "11 November 2026; announced Russell Investments acquisition expected to close Q1 2027, not reported as complete.",
+      "research_depth": "18 substantive chapters each locale; 28 numbered verifiable references and 2 numeric charts plus two tables, two flows, map and mindmap.",
+      "evidence_sources": "25 aligned numbered institutional, regulatory, investor-industry and journalistic references in each language; SEC, IRS, Russell Investments, B Capital, ILPA, Reuters, Forbes, Bloomberg Línea, TechCrunch.",
+      "editorial_novelty": "Separates founder equity wealth, third-party investment manager economics and proposed institutional-asset-manager acquisition; incorporates negative case studies, conditional falsifiers, social effects and governance.",
+      "visual_evidence": "Two comparable numeric charts per locale: final fund commitments US$360m and US$820m for first two funds; Ascent II US$254m vs Ascent III US$500m, with same exact numeric arrays and units in EN/PT. Includes 2 tables, 2 flows, a mindmap and map.",
+      "bilingual_parity": "Both 18 chapters with 28 identically numbered URLs and numeric chart series [360,820] and [254,500], same qualitative and financial distinctions.",
+      "source_check": "Includes original primary B Capital June 2020 and Jan 2023 final-close disclosures, SEC, Meta 10-K, Russell, Forbes, Reuters, Bloomberg, ILPA and Moneycontrol; avoids counting an interim $410m fundraising figure as a final fund size.",
+      "editorial_status": "Producer staged; independent SHA-bound QA required before publication."
+    },
+    "url": "/reports/2026/11/2026-11-11-eduardo-saverin-b-capital-financas-poder-global.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-11T18:42:53.398Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "c077cd488a51d3fdf674d9fdfd7c4edc309ba8c7",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Eduardo Saverin: From Facebook Wealth to B Capital's Global Investment Architecture",
+        "deck": "From a concentrated Meta stake to venture capital and the proposed Russell Investments acquisition: an examination of ownership, institutional mandates, returns, failures and financial power.",
+        "tags": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Meta",
+          "venture capital",
+          "Russell Investments",
+          "financial institutions"
+        ],
+        "keywords": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Raj Ganguly",
+          "Howard Morgan",
+          "Meta equity ownership",
+          "venture capital returns",
+          "Byju's",
+          "Mojocare",
+          "Russell Investments",
+          "CalPERS",
+          "Singapore"
+        ],
+        "regime": "Technology founder wealth used to build a transnational private-investment manager with possible institutional asset-management ownership.",
+        "key_risk": "Confusing the founder's estimated Meta-linked wealth, B Capital assets under management and Russell client assets; the proposed Russell transaction was not closed.",
+        "watch": [
+          "Russell acquisition closing and approvals",
+          "B Capital fund DPI and TVPI disclosures",
+          "Russell client retention and operating performance",
+          "B Capital portfolio losses and realizations"
+        ],
+        "search_text": "Eduardo Saverin Facebook Meta B Capital venture capital Raj Ganguly Singapore Byjus Mojocare CalPERS Russell Investments 2026"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Eduardo Saverin: da fortuna do Facebook à arquitetura global da B Capital",
+        "deck": "Da participação concentrada na Meta ao venture capital e à aquisição proposta da Russell Investments: propriedade, mandatos institucionais, retornos, fracassos e poder financeiro.",
+        "tags": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Meta",
+          "capital de risco",
+          "Russell Investments",
+          "instituições financeiras"
+        ],
+        "keywords": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Raj Ganguly",
+          "Howard Morgan",
+          "Meta participação acionária",
+          "retornos venture capital",
+          "Byju's",
+          "Mojocare",
+          "Russell Investments",
+          "CalPERS",
+          "Singapura"
+        ],
+        "regime": "Fortuna de fundador tecnológico utilizada para constituir gestora privada transnacional com possível propriedade de administradora institucional de investimentos.",
+        "key_risk": "Confundir patrimônio estimado ligado à Meta, ativos geridos pela B Capital e ativos de clientes da Russell; a aquisição anunciada ainda não tinha sido concluída.",
+        "watch": [
+          "Fechamento e aprovações da compra da Russell",
+          "Divulgação de DPI e TVPI dos fundos B Capital",
+          "Retenção de clientes e desempenho da Russell",
+          "Perdas e distribuições reais do portfólio da B Capital"
+        ],
+        "search_text": "Eduardo Saverin Facebook Meta B Capital venture capital Raj Ganguly Singapura Byjus Mojocare CalPERS Russell Investments 2026"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GSP-2026-11-02-CYBER-CONFLICT-2026",
     "slug": "2026-11-02-cyber-conflict-europe-global-hybrid-war-economy-society",
     "date": "2026-11-02",
