@@ -108,21 +108,21 @@ The figures cover different entities, dates and definitions. They are deliberate
 
 ## Building funds across investment stages, 2015–2026
 
-B Capital's first fundraisings were considerably smaller than its current platform. TechCrunch reported an initial $360 million fund and a second fund of approximately $410 million by 2020. Rather than relying solely on companies at the idea stage, the firm pursued businesses with at least some evidence of demand and offered assistance with commercial expansion. [10]
+B Capital's first fundraisings were considerably smaller than its current platform. TechCrunch reported an initial $360 million fund and a second fund that had accumulated approximately $410 million by February 2020. B Capital reported a final close of the second vehicle at $820 million in June 2020. Rather than relying solely on companies at the idea stage, the firm pursued businesses with at least some evidence of demand and offered assistance with commercial expansion. [10]
 
 
 
 ```chart
 type: bar
-title: Announced commitments to B Capital's first two funds
+title: Announced final-close commitments to B Capital's first two funds
 unit: USD million per fund
-First fund | 360
-Second fund | 410
+First fund, final close (2018) | 360
+Second fund, final close (2020) | 820
 ```
 
-The chart compares commitments to the first two vehicles reported by TechCrunch in February 2020. It shows fundraising rather than profits and cannot establish investor returns. [10]
+The chart compares the final closing sizes of the first two funds, not the interim second-fund amount reported in early 2020. It shows fundraising commitments, not profits or distributions. [10][27]
 
-In 2023, B Capital announced about $2.1 billion for Growth Fund III and associated funds. In March 2024, it reported raising $750 million for Opportunities Fund II, aimed at later-stage opportunities, including further investment in companies with which the firm already had relationships. This increases the ability to finance portfolio companies across development stages but creates potential conflicts when funds with different investors interact. Transactions between affiliated vehicles require sound valuations, disclosure and governance. [12][13]
+In January 2023, B Capital announced about $2.1 billion for Growth Fund III and associated funds. [28] In March 2024, it reported raising $750 million for Opportunities Fund II, aimed at later-stage opportunities, including further investment in companies with which the firm already had relationships. This increases the ability to finance portfolio companies across development stages but creates potential conflicts when funds with different investors interact. Transactions between affiliated vehicles require sound valuations, disclosure and governance. [12][13]
 
 In July 2026, B Capital announced $500 million for Ascent Fund III, its early-stage strategy. The preceding Ascent II vehicle raised $254 million in 2022. The approximately 97% increase in announced fund size represents growth in commitments, not a 97% investment return, appreciation of the portfolio, or rise in the partners' personal wealth. [14]
 
@@ -306,3 +306,7 @@ Saverin's trajectory demonstrates an unusual conversion of concentrated technolo
 [25] B Capital. *Portfolio*, institutional list of investments. https://b.capital/portfolio/
 
 [26] Moneycontrol. *Davos 2026: B Capital to do more AI services deals in India, says co-founder Raj Ganguly*, January 21, 2026. https://www.moneycontrol.com/news/business/startup/davos-2026-b-capital-to-do-more-ai-services-deals-in-india-says-co-founder-raj-ganguly-13782579.html
+
+[27] B Capital. *B Capital Group Closes $820mm Second Fund to Support Global Innovation*, June 30, 2020. https://b.capital/insights/b-capital-group-closes-820mm-second-fund-to-support-global-innovation/
+
+[28] B Capital. *B Capital Closes Third Growth Fund Series at $2.1 Billion*, January 19, 2023. https://b.capital/news-article/b-capital-closes-third-growth-fund-series-at-2-1-billion/
