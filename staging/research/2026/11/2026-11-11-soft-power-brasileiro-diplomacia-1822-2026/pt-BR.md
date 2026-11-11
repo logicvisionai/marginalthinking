@@ -54,6 +54,18 @@ Os onze anos iniciais são **1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 200
 
 As décadas são contadas pelo **ano inicial de cada mandato**, não pelo número de anos de serviço. Zero na década de 1970 não indica ausência de diplomacia; mostra apenas que o país não iniciou mandato eletivo naquele intervalo. A série deriva exclusivamente da lista oficial de membros eleitos da ONU.
 
+```chart
+type: bar
+title: Posições ordinais do Brasil em quatro dimensões do índice Global Soft Power 2026
+unit: posição entre 193 Estados-membros da ONU (1 é melhor; não é nota cardinal)
+Cultura e Patrimônio | 11
+Geral | 29
+Relações Internacionais | 33
+Futuro Sustentável | 43
+```
+
+O segundo gráfico apresenta **posições ordinais**, não pontuações contínuas. A extensão das barras não mede quantitativamente a influência brasileira, e as quatro dimensões não são parcelas somáveis. O texto da Brand Finance de **12 de junho de 2026** registra as posições 11, 29, 33 e 43 na estrutura do Global Soft Power Index, baseada em mais de 150 mil respostas coletadas em mais de 100 países, com avaliação de **193 Estados-membros da ONU** por 55 indicadores. A publicação não estabelece efeito causal isolado da diplomacia brasileira sobre essas posições. [Metodologia e resultados da Brand Finance](https://brandfinance.com/insights/brazils-growing-soft-power-culture-diplomacy-climate-leadership).
+
 ## 2. Antes da independência: poder colonial, mediação atlântica e herança institucional
 
 A diplomacia da colônia era exercida pela Coroa portuguesa. A transferência da corte para o Rio de Janeiro em **1808** alterou a geografia do poder imperial; abertura dos portos, presença de embaixadas e decisões de política comercial fizeram da cidade sede da monarquia luso-brasileira. Os tratados de **1810** com o Reino Unido evidenciaram a assimetria: a proteção britânica e acesso comercial vieram acompanhados de privilégios tarifários e compromissos políticos. Em **1815**, a elevação a Reino Unido de Portugal, Brasil e Algarves conferiu nova condição jurídico-política, sem soberania brasileira independente.
