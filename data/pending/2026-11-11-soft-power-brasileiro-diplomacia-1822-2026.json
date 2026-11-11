@@ -52,7 +52,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -123,13 +123,13 @@
     }
   },
   "producer_checks": {
-    "information_cutoff": "2026-11-11 America/Sao_Paulo; current policy/legal facts reverified against sources last updated 2026-11-03 and Brand Finance June 2026.",
-    "source_check": "20 traceable sources, primarily official FUNAG, UN, government, UNESCO, ABC, G20, Siscomex and one explicit perception-index publisher; each instrument distinguished from inference.",
-    "historical_method": "205 individual years, 1822-2026; dated events separated from years described only by period context to avoid unsupported fabricated annual milestones. Soft power retrospective label, not nineteenth-century self-description.",
+    "information_cutoff": "11 November 2026, America/Sao_Paulo. Historical evidence checked against FUNAG CHDD dated country chronologies, official minister appointment dates, legal acts, UN list and primary contemporary records. Source collection last-update dates are not publication cutoff dates.",
+    "source_check": "Expanded documentary map from 20 general sources to 40 sources, with inline year-specific evidence links for corrected entries, a dated source apparatus, treaty/ratification distinctions and complete year list for the 11 UN Council terms. Retained detailed bibliographical sources for broader narrative; historic coverage is not claimed as exhaustive archival verification for each existing entry.",
+    "historical_method": "Replaced all 62 repetitive year placeholders with distinct dated acts, ministerial appointments, documented disputes, or explicitly bounded continuing processes. 205 individual annual entries retained, 1822–2026. Institutional appointments do not by themselves demonstrate policy changes; unratified treaties are identified.",
     "argument_continuity": "Stages: attraction versus outcomes → empire → territorial legalism → world order → autonomy and legitimacy → democratization → South–South coalitions → recent setbacks → 2023–2026 and constraints → mechanisms/comparators/falsifiers.",
-    "visual_evidence": "Both locales: one 5-row comparison table, one bar chart of UN Security Council mandate starts 1940s–2020s, one four-chain causal flow and one six-region geographical exposure map. Chart data 1,2,2,0,1,2,1,1,1 identical.",
-    "bilingual_parity": "English primary edition ~8,000 words and PT-BR ~8,600 words; 15 substantive numbered sections, 205 annual entries, 20 identical source URLs and equivalent visuals, arguments and conclusions.",
-    "editorial_status": "Producer-staged only, no public report created; independent SHA-bound QA and publisher required."
+    "visual_evidence": "Both languages: the same 5-row table, one decade chart from 11 explicit UN start years, one four-line causal flow and one six-region map. Sources of mandates listed and decade count reproducible.",
+    "bilingual_parity": "English and PT-BR editions each contain 205 years, all 62 previously generic entries now translated as specific archival anchors, same 11 Council start years, equivalent structural visuals and shared evidence links.",
+    "editorial_status": "Producer revision 2 staged; independent new QA required. Previous rejected revision 1 retained in data/rejected; no approval or public report created."
   },
   "contrary_evidence": [
     "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
@@ -140,13 +140,14 @@
     "Brazil's culture can be globally recognizable while political influence remains bounded by veto powers, industrial dependence and domestic institutional credibility."
   ],
   "limitations": [
-    "The chronology does not establish a unique diplomatic event for every single year; unmarked years explicitly retain period context.",
     "Brand Finance index is a proprietary cross-sectional perception instrument; it should not be projected backwards to 1822.",
     "The report does not estimate a synthetic index of historical soft power or an unobservable causal effect of music and sport on diplomatic votes.",
-    "Some nineteenth-century historical background relies on documentary historical syntheses rather than a separate primary archive for each year.",
     "Impacts of COP30 decisions, the anti-hunger alliance and Mercosur–EU remain to be verified by future implementation metrics.",
     "News after 11 November 2026 is outside the factual cutoff.",
-    "Independent QA, source-hash approval and public site deployment have not yet occurred at producer stage."
+    "Independent QA, source-hash approval and public site deployment have not yet occurred at producer stage.",
+    "Annual entries are historically selective and not an exhaustive documentary inventory; specific terms and negotiations have different certainty levels.",
+    "The National Archives imperial chronology is indexed but its original URL has intermittent maintenance redirects; FUNAG, minister appointments and legal primary sources provide accessible cross-checks.",
+    "This version responds to QA rejection v1 with 62 year-specific replacements and a documentary apparatus; independent source-level QA is still required."
   ],
   "evidence_sources": [
     {
@@ -247,6 +248,106 @@
     {
       "name": "IPEA — Brazil, Global South and multilateralism",
       "url": "https://repositorio.ipea.gov.br/bitstreams/26f314e8-f179-41ed-b48e-72b666d44af1/download",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG CHDD — foreign ministers, dated appointments",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Arquivo Nacional — imperial chronology by year, 1822–1889",
+      "url": "https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG CHDD — Brazil–Britain dated chronology",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG CHDD — Brazil–Portugal dated chronology",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG CHDD — Brazil–Peru dated chronology",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/peru",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG CHDD — Brazil–Chile dated chronology",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/chile",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG CHDD — Brazil–China dated chronology",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Formação da diplomacia econômica no Brasil, vol. II, pp. 583–584",
+      "url": "https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Itamaraty, dois séculos de história, vol. I, p. 229",
+      "url": "https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Repertório da prática do direito internacional 1899–1918, p. 234",
+      "url": "https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Repertório da prática do direito internacional 1919–1940, p. 249",
+      "url": "https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "US Department of State FRUS 1933, Leticia mediation, doc 401",
+      "url": "https://history.state.gov/historicaldocuments/frus1933v04/d401",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FGV CPDOC — territorial boundary treaties",
+      "url": "https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FGV — US–Brazil steel financing in November 1940",
+      "url": "https://atlas.fgv.br/verbete/3588",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil Chamber of Deputies — Law 3,310 of 1886",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3310-15-outubro-1886-543161-publicacaooriginal-53172-pl.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil Chamber of Deputies — Decree-Law 1,098 of 1970",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1098-25-marco-1970-375405-publicacaooriginal-1-pe.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil Chamber of Deputies — 1952 US military assistance treaty, signed March 15",
+      "url": "https://www2.camara.leg.br/legin/fed/decleg/1950-1959/decretolegislativo-30-30-abril-1953-351630-publicacaooriginal-1-pl.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil National Library — Foreign Ministry annual reports, 1891–1928",
+      "url": "https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Barão do Rio Branco historical biography",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "European Commission — EU–Mercosur legal status as at November 2026",
+      "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement_en",
       "accessed_at": "2026-11-11"
     }
   ]
