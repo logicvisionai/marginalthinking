@@ -1134,3 +1134,124 @@ In ***Asia's Next Giant: South Korea and Late Industrialization* (1989)**, she a
 The Korean experience cannot be reproduced simply by paying subsidies to selected manufacturers. Education, administration, geopolitics, access to export markets and the ability to withdraw support matter.
 
 Amsden's contribution is the empirical analysis of how states and firms acquire productive capabilities under conditions of technological disadvantage.
+
+
+## XIII — Debates that did not disappear
+
+### 120. Does value come from labour, utility or institutions?
+
+Smith linked labour, productivity and prices through different arguments. Ricardo examined relative production costs and income distribution; Marx analysed value, labour and exploitation under capitalist property relations. Jevons, Menger and Walras reformulated individual choice around scarcity and marginal valuations. Sraffa demonstrated a model of production prices that could be constructed from techniques and distribution rather than individual utility.
+
+These theories do not always answer the same question. A trader wants to forecast next month's market price; a historian may be interested in distribution between labour and property owners; a regulator needs evidence of market power. Marginal reasoning clarifies decisions under constraints, but the historical origins of those constraints require additional analysis.
+
+No single school eliminated the practical significance of all its predecessors. The relevant task is to distinguish definitions, hypotheses, empirical mechanisms and claims of universal validity.
+
+### 121. What produces growth: saving, industrial capacity, institutions or innovation?
+
+Classical economists analysed capital and land. List emphasized national productive capabilities; Solow isolated the importance of long-term productivity growth; Schumpeter, Romer and Aghion–Howitt connected technological innovation to structural change. Prebisch, Furtado and Amsden stressed production structure and international constraints; North, Ostrom and Acemoglu emphasized institutional arrangements.
+
+These mechanisms often complement one another. Machinery needs finance and skilled workers; education needs schools and institutions; innovation needs access to ideas and markets. Intellectual property can encourage investment while also restricting diffusion.
+
+Industrial policy can facilitate learning under disciplined management or preserve unproductive companies when protection becomes permanent. Development cannot be reduced to the simple presence or absence of the state.
+
+### 122. Are crises external shocks or endogenous financial failures?
+
+Malthus and Sismondi investigated insufficient purchasing power. Keynes emphasized uncertainty and investment. Fisher described **debt-deflation**, Minsky financial fragility and Friedman–Schwartz monetary contraction. Lucas and later researchers focused on expectations and the consequences of changing policy rules.
+
+The mechanisms can operate together. An energy shock can raise prices, deteriorate balance sheets, weaken demand and complicate monetary policy. A banking system that extends too much short-term credit can turn a modest real downturn into a financial panic.
+
+Explaining a crisis requires reconstructing the sequence of transactions and policy decisions rather than identifying one inflation, interest-rate or output statistic as its complete cause.
+
+### 123. Does the state correct markets or create additional costs?
+
+Smith criticized merchant monopolies created by public privileges. List and Prebisch advocated productive transformation. Hayek examined information dispersed beyond administrative reach. Buchanan and Tullock studied public officials' incentives. Ostrom documented communities capable of designing collective rules.
+
+Government can address public goods, information problems and missing infrastructure. It can also create privileges, corruption and inefficiency. Private ownership does not guarantee effective competition, while public ownership does not automatically ensure public purpose.
+
+The effect of an intervention depends on its specific design, capacity for monitoring results, institutional accountability and the availability of alternatives.
+
+### 124. What is lost when economics becomes mathematical?
+
+Walras and Edgeworth increased analytical precision; Slutsky and Haavelmo improved models of decision and statistical inference; Arrow and Debreu demonstrated formal results under explicitly specified conditions. Mathematical structure makes hidden assumptions and logical inconsistencies easier to identify.
+
+Problems arise when model tractability becomes more important than the economic phenomenon. A representative household may be useful for a particular exercise but cannot establish that income distribution, informal labour or financial institutions never matter. Large datasets do not solve identification or measurement problems by themselves.
+
+Experiments and modern causal analysis provide new tools, not exemption from theory or from understanding the social institutions that generate observations.
+
+### 125. Why the history of economics cannot be reduced to its prize
+
+The **Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel** was established in **1968** and first awarded in **1969**. It is valuable evidence of selected contributions but cannot serve as a complete ranking of economic importance. Smith, Marx and Keynes died before it existed; Joan Robinson, Anna Schwartz, Prebisch and Celso Furtado never received it.
+
+```chart
+type: bar
+title: Economics prize laureates — selected years, number of people
+unit: laureates per year
+1969 | 2
+1974 | 2
+2009 | 2
+2019 | 3
+2023 | 1
+2024 | 3
+2025 | 3
+2026 | 2
+```
+
+The figures are taken from the [American Economic Association's laureate list](https://www.aeaweb.org/about-aea/honors-awards/nobel-laureates) and the official 2025 and 2026 announcements. These are **selected years**, not a full historical series, and the count of laureates is not a measure of the relative importance of research carried out in a given year.
+
+Scientific work is also collective. Data collectors, research assistants, statisticians, programmers, archivists, survey respondents and collaborators often make contributions that an award addressed to individual researchers cannot fully reflect.
+
+### 126. Economics and artificial intelligence: labour, ownership and technological change
+
+Solow's model distinguishes factor accumulation from productivity; Romer emphasizes spillovers of knowledge; Schumpeter and Aghion–Howitt examine displacement of established activities; Goldin studies how labour-market rules and family responsibilities condition the distribution of earnings; Ostrom considers the rules governing shared resources.
+
+Artificial intelligence can make certain tasks cheaper while also concentrating revenue among owners of infrastructure, data and computing capacity. The result for employment depends on substitution and complementarity, training, competition and bargaining power. A capability demonstration does not by itself establish the net effect on national wages or productivity.
+
+Economic policy consequently faces problems of education, research, data rights, market concentration, taxation and welfare. Historical innovations often required long institutional adaptation before gains appeared in broad productivity statistics. Neither universal unemployment nor automatic prosperity follows logically from the presence of a new technology.
+
+```mindmap
+Economic thought and its enduring debates
+- Value and prices
+  - production: Ricardo, Marx, Sraffa
+  - scarcity and utility: Menger, Jevons, Walras
+  - real markets: Marshall, Robinson, Akerlof
+- Growth and development
+  - productivity: Smith, Solow, Romer
+  - industrialization: List, Prebisch, Furtado
+  - institutions: North, Ostrom, Acemoglu
+- Money, cycles and crises
+  - credit: Wicksell, Fisher, Minsky
+  - demand: Keynes, Kalecki
+  - rules and expectations: Friedman, Lucas, Woodford
+- Distribution and society
+  - inequality: Piketty, Saez, Zucman
+  - capabilities: Sen, Goldin
+  - decisions: Kahneman, Thaler
+```
+
+## XIV — Economic thought as a contest of explanations and responsibilities
+
+Ancient philosophers considered property, authority and justice. Mercantilists worked with governments competing for bullion, ships and taxes. Physiocrats described the circulation of agricultural surplus. Classical economists analysed production and distribution in industrializing capitalism. Marx located accumulation and conflict inside property and labour relations. Marginal economists developed models of preferences and prices. Econometricians tested claims against observed data. Keynes questioned how unemployment could persist; development economists challenged the presumption that the experiences of rich countries could be transferred without adaptation.
+
+None of these transformations made every previous question obsolete. The gains from specialization remained relevant after Walras. Wicksell's banking mechanisms were not erased by Friedman. Hayek's knowledge problem did not invalidate Ostrom's evidence that communities can design institutions. Solow's growth framework did not make Furtado's structural inequalities irrelevant.
+
+Economics advanced when investigators proposed mechanisms that could be debated, tested and revised. It became less reliable when theoretical assumptions were treated as universal facts or political preferences were presented as empirical certainty. Economic welfare depends on production, knowledge, natural resources, institutions and cooperation, but also on the distribution of gains and losses across people and places.
+
+There is no final economic theory that can replace historical investigation, careful evidence and responsibility for the people affected by policy.
+
+## Documentary sources and bibliography
+
+**Ancient and medieval thought.** Xenophon, *Oeconomicus*; Aristotle, *Politics* and *Nicomachean Ethics*; critical editions of the *Arthashastra*, *Guanzi* and *Yantielun*; Abu Yusuf, *Kitab al-Kharaj*; al-Ghazali, *Ihya Ulum al-Din*; Ibn Khaldun, *Muqaddimah*; al-Maqrizi's writings on currency and crises; [Oxford Handbook discussions of ancient political economy](https://academic.oup.com/edited-volume/61835/chapter/546989271); [The New Palgrave Dictionary of Economics](https://www.palgrave.com/gp/book/9781349951888).
+
+**Mercantilism and classical political economy.** Nicole Oresme, *De moneta*; Martín de Azpilcueta on exchange; Jean Bodin on the Price Revolution; Antonio Serra, *Breve trattato* (1613); Thomas Mun, *England's Treasure by Forraign Trade*; William Petty, *Political Arithmetick*; Richard Cantillon, *Essai* (1755); François Quesnay, *Tableau économique* (1758); Turgot, *Réflexions* (1766); Adam Smith, *The Theory of Moral Sentiments* (1759), *The Wealth of Nations* (1776); Thomas Malthus, *Essay on Population* (1798); David Ricardo, *Principles* (1817); Jean-Baptiste Say, *Treatise* (1803); Sismondi, *New Principles* (1819); Harriet Martineau, *Illustrations of Political Economy* (1832–34); Friedrich List, *National System* (1841).
+
+**Value, marginalism and institutions.** Karl Marx, *Capital* (1867–1894); Friedrich Engels, *Condition of the Working Class in England* (1845); Henry George, *Progress and Poverty* (1879); William Stanley Jevons, *Theory of Political Economy* (1871); Carl Menger, *Principles* (1871); Léon Walras, *Elements* (1874–77); E. Böhm-Bawerk, *Capital and Interest*; Alfred Marshall, *Principles of Economics* (1890); Edgeworth, *Mathematical Psychics* (1881); Pareto, *Manual of Political Economy*; Wicksell, *Interest and Prices* (1898); Irving Fisher, *Debt-Deflation Theory* (1933); Veblen, *Theory of the Leisure Class* (1899); Rosa Luxemburg, *Accumulation of Capital* (1913).
+
+**Macroeconomics, statistics and crisis.** Schumpeter, *Theory of Economic Development* (1911), *Capitalism, Socialism and Democracy* (1942); Keynes, *General Theory* (1936); Kalecki, *Political Aspects of Full Employment* (1943); Hayek, *The Use of Knowledge in Society* (1945); Karl Polanyi, *The Great Transformation* (1944); Hicks, *Value and Capital* (1939); Joan Robinson, *Economics of Imperfect Competition* (1933); Sraffa, *Production of Commodities by Means of Commodities* (1960); Hyman Minsky, *Stabilizing an Unstable Economy* (1986); Slutsky (1915) on consumer demand; Ragnar Frisch and Jan Tinbergen on macroeconomic modelling; Haavelmo, *Probability Approach* (1944); Leontief, *Structure of American Economy* (1941).
+
+**Modern economic analysis.** Paul Samuelson, *Foundations of Economic Analysis* (1947); Robert Solow, *A Contribution to the Theory of Economic Growth* (1956); Milton Friedman and Anna Schwartz, *A Monetary History of the United States* (1963); Robert Lucas, *Econometric Policy Evaluation: A Critique* (1976); [2026 economics prize announcement](https://www.kva.se/en/news/the-prize-in-economic-sciences-2026/); [2025 economics prize announcement](https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/); [American Economic Association laureate records](https://www.aeaweb.org/about-aea/honors-awards/nobel-laureates); [Library of Economics and Liberty biographies](https://www.econlib.org/library/biographies-of-authors/).
+
+**Development, institutions and inequality.** Raúl Prebisch and ECLAC publications; Hans Singer on terms of trade; W. Arthur Lewis, *Economic Development with Unlimited Supplies of Labour* (1954); Albert Hirschman, *Strategy of Economic Development* (1958); Amartya Sen, *Poverty and Famines* (1981); Douglass North, *Institutions, Institutional Change and Economic Performance* (1990); [Elinor Ostrom Nobel biography](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/); Acemoglu and Robinson, *Why Nations Fail* (2012); [2024 economics prize announcement](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/); Alice Amsden, *Asia's Next Giant* (1989).
+
+**Contemporary research.** Coase, *Nature of the Firm* (1937) and *Problem of Social Cost* (1960); Akerlof, *Market for Lemons* (1970); Kahneman and Tversky, *Prospect Theory* (1979); [Claudia Goldin Nobel biography](https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/biographical/); Goldin and Katz, *Race between Education and Technology* (2008); Paul Romer on endogenous growth; William Nordhaus's DICE models; Joel Mokyr, *A Culture of Growth* (2016); Aghion and Howitt, *A Model of Growth through Creative Destruction* (1992); [2019 prize announcement](https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/).
+
+**Brazilian economic thought.** José da Silva Lisboa, *Principles of Political Economy*; Roberto Simonsen, *Brazilian Economic History* (1937); Eugênio Gudin's writings on money and planning; Caio Prado Júnior, *The Formation of Contemporary Brazil* (1942); Celso Furtado, *The Economic Formation of Brazil* (1959), *Development and Underdevelopment* (1961); Maria da Conceição Tavares, studies of import substitution and finance; Ignácio Rangel, *Basic Duality of the Brazilian Economy*; Roberto Campos on economic policy; Mário Henrique Simonsen on inflation; [Guido Mantega on Celso Furtado](https://www.scielo.br/j/rep/a/VFVpGYrqYjx8r5SzPMCYRHm/?format=html&ilang=pt_BR); [Brazilian Journal of Political Economy on Maria da Conceição Tavares](https://doi.org/10.1590/s1415-98482010000100009); [Getulio Vargas Foundation research on Brazilian economists](https://pesquisa-eaesp.fgv.br/sites/gvpesquisa.fgv.br/files/publicacoes/Rel24-1999.pdf); [Central Bank of Brazil on the Real Plan](https://www.bcb.gov.br/controleinflacao/planoreal).
