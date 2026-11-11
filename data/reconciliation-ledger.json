@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T17:28:19.842Z",
+  "last_reconciled_at": "2026-11-11T17:39:27.850Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9243,6 +9243,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "BYD/GWM automotive plants, energy manufacturing and the historical CBERS program matter to technology diffusion, but lack standardized benchmarks of maturity, deployment and technical transfer needed for a new ledger signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes-approved-publication-reconciliation",
+      "reconciled_at": "2026-11-11T17:39:27.850Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-11-GLOBAL-LEGAL-ASSET-SECURITY"
+      ],
+      "audit_note": "One 90-section bilingual country-comparative study approved on identical source SHAs. All seven active cumulative tools reviewed; no canonical asset-specific evidence to warrant mutating instrument databases.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Article establishes mechanisms of FX, settlement, sanctions and custodian jurisdiction, but no asset-specific quantified exposure edges and comparable identifiers verified for canonical network update."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Comparative wealth preservation research does not validate a specific investable opportunity with project status, financing and expected returns."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Country-specific financial institutions and official mechanisms are described; no newly documented beneficial ownership or company control transfer justifies editing the strategic actor database."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Comparative farm, land and water law analyzed; no parcel-level rights or geolocated concession datum established for canonical resource-control ingestion."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Historical legal institutions and varied foreign purchase restrictions discussed; no single bounded policy intervention with measured attribution offered for the policy-case atlas."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Russia sanctions and Ukraine war are historical contextual examples; no newly evidenced conflict escalation or sanction change establishes a new canonical event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Tokenization and digital custodians analyzed as risks, not as newly demonstrated technological capability with deployment evidence."
         }
       ]
     }
