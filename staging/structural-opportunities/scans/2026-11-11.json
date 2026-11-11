@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "checked_at": "2026-11-11T08:12:00Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-11",
+  "candidate_ids": [],
+  "coverage_summary": "Primary-source scan examined EIA November energy forecast and World Bank grid-financing framework and existing Asia DRIVE / Uzbekistan projects. November 10 World Bank discussion identifies a global transmission financing gap, not a newly executed country-specific project or verified accessible economic opportunity. No independent evidence of new disbursement, commissioning, regulatory implementation or capacity addition. No candidate invented.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "EIA November Short-Term Energy Outlook",
+      "date": "2026-11-10",
+      "url": "https://www.eia.gov/outlooks/steo/outlook.php"
+    },
+    {
+      "name": "World Bank Transmission Impossible: financing the grid",
+      "date": "2026-11-10",
+      "url": "https://www.worldbank.org/en/events/2026/11/10/transmission-impossible-financing-the-grid"
+    },
+    {
+      "name": "World Bank Japan DRIVE Asia energy resilience",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    },
+    {
+      "name": "World Bank Group COP31 overview",
+      "date": "2026-11-09",
+      "url": "https://www.worldbank.org/en/who-we-are/news/campaigns/2026/the-world-bank-group-at-cop31"
+    }
+  ],
+  "review_limitations": [
+    "World Bank discussion's estimated annual transmission financing requirement is not evidence of newly disbursed financing or installed assets.",
+    "Existing DRIVE and Uzbekistan candidates not duplicated; no material verified transition.",
+    "No comprehensive global census of projects, grid queues, logistics, regulation or private capital completed.",
+    "Canonical Atlas and history unchanged."
+  ]
+}
