@@ -104,6 +104,16 @@ Rules were not identical across all obligations. Law 8,880 kept cruzeiro real am
 
 The daily rate reflected the declining purchasing power of the cruzeiro real, with indices including IGP-M, IPCA-E and IPC-Fipe. The URV's approximate relationship with the US dollar added credibility. This was **not** an irrevocable legal promise to redeem each unit for one dollar, nor did it make the later real a currency-board system. The new real did not operate under a permanently symmetrical dollar bid and offer at one-to-one. A reference anchor and a foreign-currency redemption right are fundamentally different institutions.
 
+The appendix to Provisional Measure 482 of 28 April 1994 makes the daily updating rule more precise. Monthly URV growth was the **arithmetic mean** of three price measures: the third four-week IPC-Fipe reading, IBGE's IPCA-E and FGV's IGP-M. The daily business-day factor was the **n-th root** of (1 + the monthly rate/100), with **n** the number of business days that month. Under the appendix, weekends and holidays used the next business day's rate. The cruzeiro real conversion could therefore change daily according to a published method rather than daily discretionary pricing. [MP 482/1994, methodological appendix](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-482-28-abril-1994-374305-exposicaodemotivos-1-pe.html).
+
+```text
+g_month = (IPC_Fipe + IPCA_E + IGP_M)/3
+Daily_business_factor = (1 + g_month/100)^(1/n)
+Daily_quote = Previous_business_day_quote × Daily_business_factor
+```
+
+The three indices did not measure identical baskets. Taking their average was an operational convention to update the unit of account, not evidence that inflation itself had a unique objective daily level. This diversified the method across statistical institutions but assigned equal weights to differently constructed measures. The URV's cruzeiro real price was never numerically constant; it sought to preserve a common reference while the payment currency depreciated.
+
 ## 7. Averaging wages: protection against losses and distributional compromise
 
 The conversion faced a difficult question: which wage belonged in the new money? With monthly inflation around forty percent, the same nominal wage carried very different purchasing power at the beginning and end of a bargaining cycle. Converting the **peak** immediately after an adjustment could increase real costs across the economy; converting the **trough** just before the next adjustment could impose permanent losses on workers. The legal solution aimed to preserve average real remuneration, rather than the last nominal payslip figure.
