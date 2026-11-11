@@ -1,0 +1,248 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-PE-2026-11-11-URV-REAL-TRANSITION",
+  "slug": "2026-11-11-urv-real-inflacao-contratos-poder-1993-1999",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T13:49:00-03:00",
+  "kind": "historical-monetary-stabilization-research",
+  "priority": 7,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      }
+    ]
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "sovereign-debt",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "institutions-governance",
+    "demography-labor",
+    "inequality-distribution",
+    "social-change",
+    "capital-markets"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-11-urv-real-inflacao-contratos-poder-1993-1999/en.md",
+      "title": "The URV and Brazil's Real Plan: Monetary Engineering, Inflation, Society and Power (1980–1999)",
+      "deck": "How Brazil separated the unit of account from payments to dismantle inertial inflation—and why wage conversion, fiscal bargaining, banking, exchange rates and trust shaped the costs of stabilization.",
+      "tags": [
+        "Brazil",
+        "URV",
+        "Real Plan",
+        "Inertial inflation",
+        "Monetary reform",
+        "Fiscal policy",
+        "Political economy",
+        "1994",
+        "Central Bank",
+        "Exchange rates"
+      ],
+      "keywords": [
+        "Unidade Real de Valor URV 1994",
+        "Plano Real salary conversion four months",
+        "indexation inertial inflation Brazil",
+        "1994 inflation IPCA July",
+        "1999 exchange rate crisis"
+      ],
+      "regime": "An indexed high-inflation economy moves through a transitional unit of account to price stability under an initially exchange-supported real and, after 1999, inflation targeting.",
+      "key_risk": "Confusing immediate disinflation with complete fiscal, banking and external sustainability, or treating nominal conversion as equal distributional benefit.",
+      "watch": [
+        "Source of initial URV credibility and legal conversion",
+        "Wage dates and relative price normalization",
+        "1995–1999 credit and banking restructuring",
+        "Exchange-rate pressure and external imbalances",
+        "1999 inflation-target regime"
+      ],
+      "search_text": "URV Real Brazil 1980 1999 inertial inflation indexation Lei 8880 salaries PAI FSE Fernando Henrique Itamar Arida Lara Resende Bresser Sachs Zini monthly IPCA currency 1994 banking PROER exchange rates interest 1999"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-11-urv-real-inflacao-contratos-poder-1993-1999/pt-BR.md",
+      "title": "URV e Plano Real: a engenharia monetária que desarmou a inflação brasileira — e os custos de reconstruir uma moeda",
+      "deck": "Da inflação inercial e da conversão de salários em URV à política fiscal, ao câmbio, aos bancos, às expectativas e à crise de 1999: como o Brasil recuperou uma unidade comum de valor.",
+      "tags": [
+        "Brasil",
+        "URV",
+        "Plano Real",
+        "Inflação inercial",
+        "Reforma monetária",
+        "Política fiscal",
+        "Economia política",
+        "1994",
+        "Banco Central",
+        "Câmbio"
+      ],
+      "keywords": [
+        "URV e Plano Real 1994 1999",
+        "média salários URV novembro 1993 fevereiro 1994",
+        "Lei 8880 taxa de conversão",
+        "inflação IPCA antes depois 1994",
+        "crise cambial Brasil 1999"
+      ],
+      "regime": "Economia com alta inflação indexada migra, por unidade de conta temporária, para estabilidade inicialmente apoiada por câmbio, e depois por metas de inflação.",
+      "key_risk": "Confundir a queda imediata da inflação com sustentabilidade fiscal e externa completa ou concluir que uma simples divisão monetária determinou ganhos distributivos iguais.",
+      "watch": [
+        "Paridade URV e regras legais de conversão",
+        "Conversão salarial e normalização de preços relativos",
+        "Crédito e reorganização bancária de 1995–1999",
+        "Conta corrente e pressões cambiais",
+        "Mudança para metas de inflação em 1999"
+      ],
+      "search_text": "URV Plano Real economia política Brasil hiperinflação indexação Lei 8880 salários FHC Itamar Arida Lara Resende Bresser 1994 IPCA 1999 juros bancos PROER câmbio pobreza confiança"
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "2026-11-11 America/Sao_Paulo. Historical facts rechecked against relevant original 1994 legislation, Central Bank contemporaneous and anniversary material, official IBGE/IPEA series, contemporary economic scholarship, and 1999 Central Bank foreign-exchange documents. Source publication date and historical event dates distinguished.",
+    "research_depth": "23 substantive numbered chapters plus complete bibliography, approximately 7,450 English words and 8,550 Portuguese words. Includes causal mechanisms of contract indexation, monetary unit-of-account separation, distribution, banking, politics, psychology, external finance and long-run institutional legacies.",
+    "source_check": "18 bibliographical references with 19 unique report source URLs, mostly statutes, Central Bank, IBGE, IPEA, FGV and scholarly journals. Specific legal clauses traced to Lei 8.880 arts 1–19, 26–27 and 38. Distinguishes facts from contested historical interpretations and illustrative counterfactual scenarios.",
+    "data_lineage": "Annual IPCA values 1985–1998 from IPEA annual IPCA (IBGE SNIPC) series. Monthly Jan–Dec 1994 IPCA values 41.31,40.27,42.75,42.68,44.03,47.43,6.84,1.86,1.53,2.62,2.81,1.71 from IBGE historical values. Annual chart 1993–1998 = 2477.15,916.46,22.41,9.56,5.22,1.65, with 1994 year-end mixed regime expressly qualified. URV parity Mar1 647.50, Mar2 657.50, Jun30 2750 from BCB and legal acts. All numeric examples besides observed data explicitly labeled illustrative.",
+    "visual_evidence": "Both locales contain >=3 Markdown tables, two charts with precisely identical ordered data arrays (12 monthly IPCA, 6 annual IPCA), one causal transmission flow and one institutional comparison geographical map. Chart units and periods explicit, no cardinal rank comparisons.",
+    "bilingual_parity": "English and PT-BR report have identical 23 numbered analytical sections, same bibliography URLs, inflation series and two chart numeric arrays, parallel legal interpretation, 1999 chronology, distributional qualifications, causal scope and counterfactuals.",
+    "editorial_style": "Prose contains no SEO meta descriptions, generation commentary, reader instructions or repeated assistant-oriented scaffolding. Quantitative and conceptual distinctions stated within analysis.",
+    "editorial_status": "Producer staging complete; QA approval tied to exact pending and source Git blob SHAs required before public materialization. No public metadata, reports/index entry or public deployment performed."
+  },
+  "contrary_evidence": [
+    "1992–1994 operational fiscal balances near zero according to Sachs/Zini weaken any simple claim that current deficit alone immediately sustained inflation.",
+    "High inflation reduced after July 1994 but monthly July IPCA 6.84% and 1995 IPCA 22.41% show no instantaneous zero inflation.",
+    "Initial price stability was accompanied by exchange appreciation, external deficit and high real interest rates; long-run sustainability required 1999 reforms.",
+    "Real incomes of low-income households improved in some 1995–1997 urban food-access studies but results diverged across regions, classes, job categories and after 1997.",
+    "URV was a legal unit of account, not a simultaneously circulating redeemable digital currency nor an irrevocable one-for-one US dollar currency-board commitment.",
+    "Former and later economic schools disagree about relative roles of fiscal restraint, inertia neutralization, trade competition and credibility; no identified causal shares are asserted."
+  ],
+  "limitations": [
+    "Sources differ in definitions and periodization; annual 1994 inflation includes both currencies, and monthly versus 12-month inflation cannot be interchanged.",
+    "IPCA annual values use Ipeadata's series consistent with IBGE; rounding of 1994 can produce 916.43 vs 916.46 in different historical snapshots and vintages.",
+    "Fiscal and current-account period averages are historical measures under earlier accounting conventions and cannot be compared mechanically with later methods.",
+    "No econometric causal attribution of each URV, fiscal, exchange or interest channel; counterfactuals explicitly remain scenarios.",
+    "Claims of lower poverty and improved food affordability are limited by survey coverage and employment changes.",
+    "Historical interpretation uses secondary scholarship with contested readings; government explanations are treated as official policy rationale, not independent effect estimates.",
+    "Deployment of a public article requires independent SHA-bound QA approval, registration in editorial-system registry, seven-system reconciliation and successful CI plus live deployment."
+  ],
+  "evidence_sources": [
+    {
+      "name": "Banco Central do Brasil — História e fases do Plano Real",
+      "url": "https://www.bcb.gov.br/controleinflacao/planoreal",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Câmara — MP 434/1994 que instituiu a URV",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-434-27-fevereiro-1994-373885-norma-pe.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Câmara — Lei 8.880/1994 conversão de preços, salários e contratos",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Câmara — Lei 9.069/1995, disciplina do real",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1995/lei-9069-29-junho-1995-372117-publicacaooriginal-1-pl.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Exposição de motivos original da criação da URV, março 1994",
+      "url": "https://www1.folha.uol.com.br/fsp/1994/3/02/brasil/52.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "IBGE — Índice Nacional de Preços ao Consumidor Amplo, séries históricas",
+      "url": "https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html?edicao=20932&t=series-historicas",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Ipeadata — IPCA anual IBGE 1980–2025",
+      "url": "https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "André Lara Resende — A moeda indexada",
+      "url": "https://new.scielo.br/j/rep/a/jkypRL4QtmZY9ZDpq4qhq7r/?lang=pt",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Luiz Carlos Bresser-Pereira — A descoberta da inflação inercial",
+      "url": "https://www.scielo.br/j/rec/a/4ZqfqsrqsHwFJV9QjJWYsfN/",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Luiz Carlos Bresser-Pereira — A economia e a política do Plano Real",
+      "url": "https://www.scielo.br/j/rep/a/G6VvwvLfN6tqvZxy6RdCv5n/?format=html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Jeffrey Sachs e Álvaro Zini — A inflação brasileira e o Plano Real",
+      "url": "https://www.scielo.br/j/rep/a/5kRPY7Tfs6KnFxKqGx7kYjR/?format=html&lang=pt",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Rubens Penha Cysne, FGV/EPGE — Variáveis macroeconômicas 1994–1997",
+      "url": "https://epge.fgv.br/users/rubens/brazilian-monetary-and-exchange-rate-policy-meetings/aspectos-macroeconomicos-da-economia-brasileira-no-periodo-1994-1997/",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Carlos A. Cinquetti, World Development — The Real Plan: Stabilization and Destabilization",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305750X99001151",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Nova Economia — Acessibilidade alimentar e estabilização após 1994",
+      "url": "https://revistas.face.ufmg.br/novaeconomia/pt_BR/article/view/2223",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Banco Central — Resolução 2.208/1995 cria o PROER",
+      "url": "https://www.bcb.gov.br/pre/normativos/res/1995/pdf/res_2208_v2_l.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Banco Central — Política cambial, primeiro trimestre 1999",
+      "url": "https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Banco Central — Ata Copom 23 junho 1999, metas inflação",
+      "url": "https://www.bcb.gov.br/publicacoes/atascopom/23061999",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "SciELO — Plano Real e o debate de ideias e centralização monetária",
+      "url": "https://new.scielo.br/j/rbcsoc/a/pFx5LNSgJrTMCB4Bkfmrkqb/?format=html&ilang=pt_BR&lang=pt",
+      "accessed_at": "2026-11-11"
+    }
+  ]
+}
