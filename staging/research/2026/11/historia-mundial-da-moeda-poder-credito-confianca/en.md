@@ -272,6 +272,33 @@ The database alters the long-run perspective. Currency issuance frequently estab
 
 Ultimately, a currency is a record of sovereignty carrying a society's memory. A new name can seek to interrupt inherited expectations, but credibility requires sufficient change in the supporting economic and institutional system. Its fate depends on the ability to preserve contracts, intelligible prices, safe settlement and fiscal and banking constraints consistent with real growth.
 
+
+### The fate of currencies: survival, replacement and reform
+
+The database of 568 official currencies compiled by **Iñaki Aldasoro, Jon Frost, Rudraksh Kansal and Catherine R. Schenk**, published by the [Bank for International Settlements on 6 November 2026](https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026), distinguishes the **number of units circulating at a given date** from the **outcome of every unit catalogued between 1850 and 2026**. The first variable measures the historical stock of active currencies; the second records the observed status of the cumulative set.
+
+```chart
+type: bar
+title: Status of official currencies in the BIS database, 1850–2026
+unit: official currencies
+Discontinued | 405
+In circulation in 2026 | 163
+```
+
+The categories are **mutually exclusive** and add up to the 568 currencies in the research database. The records encompass official units, including colonial, territorial and wartime currencies; they do not represent 568 independent countries or every form of private money. The discontinued share is approximately 71.3%, but it does not estimate an annual probability of currency failure. The authors' survival analysis, including an observed median lifetime of 33 years, addresses a different dimension and must account for currencies still in use at the end of observation.
+
+The geography of monetary change reflects distinct mechanisms and cannot be read as a map of institutional quality. Decolonization in Africa and Asia increased the number of national issuing authorities; the breakup of federations and empires introduced new units; European monetary integration replaced national currencies with the euro. In the Americas, redenominations and stabilization programmes, including Brazil's, changed the unit of account without requiring a new sovereign territory. The BIS summary does not supply an exhaustive continental breakdown that would justify allocating precise numerical totals to each mechanism.
+
+```map
+title: Regional monetary transitions — historical mechanisms, not continental counts
+Africa | Independence and monetary sovereignty | New national units accompanied changes in authority and the end of colonial arrangements
+Asia | Independence, unification and exchange regimes | National paths differ rather than following one universal metal-to-paper sequence
+Europe | Monetary integration and the euro | Several national monetary units were discontinued as members entered the currency union
+Americas | Redenomination and stabilization | Brazil illustrates changes to the unit of account during inflation and institutional reform
+```
+
+The geographic comparison identifies **types of transition**, not the location of each individual currency. No continent followed a uniform path. A common currency may reduce transaction costs and remove exchange-rate risk among its members while limiting national monetary autonomy. An independent currency may improve local policy flexibility but requires credible fiscal, banking and monetary institutions. The same observed event — ending a monetary unit — can signify voluntary integration, a successful response to hyperinflation or a violent political rupture. Currency counts alone cannot distinguish among those outcomes.
+
 ## XXV. The enduring variables: a matrix of monetary causality
 
 Across periods, eleven variables can be followed without forcing very different settings into one supposedly universal model. **Productive capacity** determines the supply of real goods and services that purchasing power can mobilize. **Fiscal capacity** affects whether public issuers can honour obligations without persistent inflationary taxation. **Liability structure** reveals maturity, currency denomination, indexation and collateral. **Legal quality** shapes enforcement, losses and ownership. **Payment infrastructure** changes the time, cost and risk of final settlement.
