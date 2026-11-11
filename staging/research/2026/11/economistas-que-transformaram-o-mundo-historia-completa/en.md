@@ -500,3 +500,310 @@ His **financial instability hypothesis** described how prolonged stability can e
 These categories depend on actual balance-sheet cash flows and financing conditions. They do not imply that every expansion inevitably produces a crash. The **2008 crisis** renewed interest in Minsky, although he had died well before it occurred.
 
 His contribution is a dynamic view of finance in which risk can accumulate endogenously during periods that appear tranquil.
+
+
+## VI — Statistics, econometrics and quantitative reconstruction
+
+### 56. Eugen Slutsky: the mathematics of choice
+
+**Eugen Slutsky** (1880–1948) was born in the Russian Empire and studied science and mathematics before working in statistics and economic theory amid institutional upheavals.
+
+His **1915 demand analysis** distinguished the **substitution effect** from the **income effect** of a price change. A higher price makes substitutes relatively attractive and simultaneously changes a consumer's real purchasing power. The decomposition became fundamental to modern consumer theory, taxation and subsidy analysis.
+
+Slutsky also showed how the sum of random disturbances can produce apparently cyclical statistical series, raising an enduring problem: apparent economic regularity may emerge without a single deterministic cycle mechanism. Recognition of his work spread slowly across academic networks separated by language and politics.
+
+### 57. Ragnar Frisch: econometrics as an independent scientific language
+
+**Ragnar Frisch** (1895–1973) was born in Norway in a family associated with work in precious metals and studied economics and mathematics at the **University of Oslo**. His training combined technical measurement and economic theory.
+
+Frisch helped establish **econometrics**, linking economic models, probability and observations. His work on cycles, production and economic planning also contributed to distinguishing macroeconomic movements from individual decisions.
+
+He shared the inaugural **1969 economics prize** with Jan Tinbergen. The prize in economic sciences had been established in 1968 by Sweden's central bank and was not one of the original categories in Alfred Nobel's will.
+
+The enduring contribution was the demand to assess whether theoretical relationships can be confronted with evidence, while recognizing that a regression coefficient does not automatically prove causation.
+
+### 58. Jan Tinbergen: macroeconomic models and policy instruments
+
+**Jan Tinbergen** (1903–1994) studied physics at **Leiden University** and moved into economics and national economic planning. His scientific background encouraged the use of simultaneous equations to describe consumption, investment, income and employment.
+
+Tinbergen developed pioneering macroeconomic models of the Netherlands and the United States. He also articulated the policy problem of matching independent objectives with sufficient policy instruments. A government seeking multiple distinct targets may be unable to reach them with a single instrument.
+
+Keynes criticized aspects of early macroeconomic econometrics, particularly the interpretation of correlations and instability of estimated relationships. Tinbergen's long-run impact nevertheless extended to planning, forecasting and development studies.
+
+### 59. Trygve Haavelmo: probability and causal inference
+
+**Trygve Haavelmo** (1911–1999) was born in Norway and studied economic statistics with Frisch before working in Europe and the United States.
+
+His ***The Probability Approach in Econometrics* (1944)** established a formal approach to statistical inference in economic systems. Rather than treating residuals as inconvenient noise attached after the theory was constructed, Haavelmo placed probability at the centre of modelling, estimation and hypothesis testing.
+
+The framework helped address simultaneous equations and causal identification, though identification remained dependent on economically justified assumptions. He received the **1989 economics prize** for foundational econometric work.
+
+### 60. Wassily Leontief: tracing productive interdependencies
+
+**Wassily Leontief** (1905–1999) was born in St Petersburg and studied in Russia and Germany before working in the United States, mainly at **Harvard**.
+
+His **input-output analysis** used matrices to represent the goods and services each industry requires from others. Vehicle production, for example, depends on metals, energy, transport and business services. A demand shock for vehicles can therefore affect suppliers far beyond the car factory.
+
+Leontief received the **1973 economics prize**. His empirical work on international trade also raised questions about simple predictions of factor-endowment theories, producing the **Leontief paradox**.
+
+Input-output tables are especially useful for mapping material dependencies, but fixed technical coefficients do not fully capture substitution, changing technology or price-induced adjustments.
+
+### 61. Leonid Kantorovich and Tjalling Koopmans: optimizing scarce resources
+
+**Leonid Kantorovich** (1912–1986) was trained as a mathematician in Leningrad and worked on resource allocation in Soviet production. **Tjalling Koopmans** (1910–1985), born in the Netherlands, studied mathematics, physics and economics and later developed his career in the United States.
+
+Both contributed to **linear programming**, activity analysis and methods for allocating resources under production constraints. A firm or planner can specify an objective and account for limited materials, machinery, labour hours and transport capacity.
+
+The mathematical solution depends on the accuracy of its objectives, constraints and data. It cannot establish whether the objective itself is socially desirable. The two shared the **1975 economics prize**, illustrating the relevance of optimization to private logistics and public planning alike.
+
+### 62. Simon Kuznets: measuring growth without confusing it with welfare
+
+**Simon Kuznets** (1901–1985) was born in the Russian Empire, moved to the United States and studied economics at **Columbia University**. His work at the **National Bureau of Economic Research** helped establish systematic measurement of national income and long-run growth.
+
+Kuznets recognized that monetary output is not a complete measure of welfare. Domestic unpaid work, environmental damage and inequality can be hidden within a rising aggregate.
+
+His famous **Kuznets curve** proposed that inequality might initially increase and later decline over development. The pattern is not a universal law: tax systems, education, migration, unions and political institutions strongly affect distribution.
+
+He received the **1971 economics prize**. His legacy combines historical measurement with the warning that the meaning of an indicator depends on its construction.
+
+## VII — Postwar macroeconomics and growth
+
+### 63. Paul Samuelson: mathematical synthesis and economic education
+
+**Paul Samuelson** (1915–2009) studied at the **University of Chicago** and **Harvard** and became a professor at **MIT**.
+
+In ***Foundations of Economic Analysis* (1947)**, he established the use of mathematical optimization and equilibrium conditions across many economic problems. His ***Economics* textbook (1948)** combined neoclassical microeconomics with Keynesian macroeconomics, influencing students worldwide.
+
+Samuelson developed theories of trade, consumer behaviour, public goods and dynamics. His condition for efficient provision of a public good requires comparing the combined marginal benefits of users with marginal social cost under stated assumptions. It does not specify a politically acceptable tax distribution by itself.
+
+He became the first American recipient of the economics prize, in **1970**. His synthesis was challenged by inflation, monetarism and rational-expectations models, but its analytical methods persisted across schools.
+
+### 64. Robert Solow: capital, labour and productivity
+
+**Robert M. Solow** (1924–2023) studied at **Harvard** and became a leading economist at **MIT**.
+
+His **1956 growth model** showed how capital accumulation, labour growth and technological progress influence output over time. With diminishing returns to capital under specified assumptions, adding machines to workers cannot indefinitely support the same rate of output growth per person without technical progress.
+
+Growth accounting distinguishes contributions of measured labour and capital from an estimated residual. The residual is not a pure measure of invention; it can reflect errors, improved factor quality and changes in organization.
+
+Solow received the **1987 economics prize**. The model provided a benchmark for development comparisons but does not guarantee convergence without attention to institutions, investment, technology access and population.
+
+### 65. Nicholas Kaldor and Roy Harrod: industry and unstable growth
+
+**Nicholas Kaldor** (1908–1986) was born in Budapest, studied at the **London School of Economics** and later worked at Cambridge. **Roy Harrod** (1900–1978), trained at **Oxford**, was close to Keynes and contributed to theories of growth.
+
+Harrod linked saving, investment and the growth of capacity, emphasizing potential instability when actual expansion diverges from the pace needed to maintain capacity use. Kaldor studied distribution, manufacturing and cumulative growth, arguing that industrial sectors can produce productivity spillovers to other activities.
+
+The **Kaldor laws** are empirically contingent, not guarantees that any protected factory will generate productivity gains. Their work kept demand and industrial structure in the discussion of long-run growth, challenging the view that a single aggregate production function tells the whole story.
+
+### 66. Milton Friedman and Anna Schwartz: monetary history as an argument about policy
+
+**Milton Friedman** (1912–2006) was born in Brooklyn to an immigrant family and studied at **Rutgers**, the **University of Chicago** and **Columbia**. He married the economist **Rose Director Friedman**, who collaborated in intellectual and public projects.
+
+**Anna Jacobson Schwartz** (1915–2012) studied at **Barnard College** and **Columbia** and developed a long career at the **National Bureau of Economic Research**. She was an influential monetary historian in her own right.
+
+Together, Friedman and Schwartz produced ***A Monetary History of the United States, 1867–1960* (1963)**, showing the role of banking failures and monetary contraction in the severity of the Great Depression. The argument forced reassessment of monetary authorities' responsibilities, although gold-standard constraints, international trade and debt-deflation remain essential additional mechanisms.
+
+Friedman advocated floating exchange rates, policy rules and greater reliance on markets. His claim that persistent inflation is fundamentally monetary concerns sustained nominal dynamics, not denial of all short-run supply shocks. Changes in money demand and financial innovation complicated mechanical control of monetary aggregates.
+
+Friedman received the **1976 prize**; Schwartz did not. Her exclusion from that award should not erase her coauthorship or independent contributions.
+
+### 67. James Tobin and Franco Modigliani: financial choices across time
+
+**James Tobin** (1918–2002) studied at **Harvard** and taught at **Yale**, examining portfolios, money demand, investment and stabilization. The **q ratio associated with Tobin** compares market valuation of capital with replacement cost, helping frame investment incentives.
+
+**Franco Modigliani** (1918–2003) was born in Rome, studied in Europe and immigrated to the United States amid war and persecution. His **life-cycle consumption theory** examined how individuals attempt to smooth spending across their working and retirement years.
+
+Tobin received the **1981 prize** and Modigliani the **1985 prize**. Their frameworks describe important intertemporal decisions, but constrained households cannot always borrow or save in the way assumed by simple models. Welfare policy, wages, health and access to finance alter actual outcomes.
+
+### 68. Robert Lucas: rational expectations and changing policy rules
+
+**Robert E. Lucas Jr.** (1937–2023) studied at the **University of Chicago**, becoming a leading figure in the new classical macroeconomic tradition.
+
+The **Lucas critique of 1976** argued that statistical relationships estimated under one policy regime may change when people understand and respond to new rules. An apparent link between inflation and unemployment cannot automatically be exploited again and again without altering wage and price expectations.
+
+His approach required consistency between macroeconomic policy and individual decision-making. It did not prove that all people possess perfect information or that monetary and fiscal policy can never stabilize activity.
+
+Lucas received the **1995 prize**. Financial crises and evidence of sticky prices, heterogeneous households and credit constraints led subsequent economists to revise and extend his framework.
+
+### 69. Sargent, Sims, Kydland and Prescott: expectations, identification and credible commitments
+
+**Thomas Sargent** (born 1943) studied at **Berkeley** and **Harvard** and helped build models of rational expectations and policy. **Christopher Sims** (born 1942), trained at **Harvard**, developed **vector autoregression (VAR)** and statistical tools for analysing dynamic macroeconomic relationships. They shared the **2011 prize**.
+
+**Finn Kydland** (born 1943), trained in Norway and at **Carnegie Mellon**, and **Edward Prescott** (1940–2022), trained in mathematics and operations research, investigated real business cycles and **time inconsistency**. Policymakers may have incentives to break earlier commitments once private actors have acted on them; expectations and credibility therefore shape policy effectiveness. They shared the **2004 prize**.
+
+These models clarify policy incentives and dynamics, but simplified versions have been criticized for omitting banking fragility, involuntary unemployment and distributional differences. Their analytical power rests in explicit assumptions, not in the claim that one representative household describes every crisis.
+
+### 70. Robert E. Hall and Michael Woodford: the 2026 macroeconomic prize
+
+**Robert E. Hall** (born 1943) studied at **Berkeley** and earned a doctorate at **MIT in 1967**, later becoming a leading economist at **Stanford**. His research involved labour markets, consumption, productivity and macroeconomic fluctuations.
+
+**Michael Woodford** (born 1955) earned his doctorate at **MIT in 1983** and developed a career associated with **Columbia University**. In ***Interest and Prices* (2003)**, he developed a framework connecting interest-rate policy, sticky prices and expectations of future monetary conditions.
+
+On **12 October 2026**, the [Royal Swedish Academy of Sciences](https://www.kva.se/en/news/the-prize-in-economic-sciences-2026/) named Hall and Woodford joint economics laureates for work on the **microeconomic foundations of macroeconomic stabilization**. Their contributions improve analysis of how individual decisions and expectations transmit fiscal and monetary policies to output, prices and employment.
+
+The recognition does not establish perfect forecasting or a universally optimal interest-rate rule. Policy effects depend on the structure of labour markets, credit, production and institutions.
+
+@@@flow
+Research on household and firm decisions → models of labour, consumption, prices and investment → aggregate dynamics and expectations → fiscal and monetary policy instruments → effects on output, inflation and employment → empirical evaluation and revision
+@@@
+
+## VIII — Development, colonialism and the limits of universal policy prescriptions
+
+### 71. Raúl Prebisch: international trade and Latin America's productive structure
+
+**Raúl Prebisch** (1901–1986) was born in Tucumán, Argentina, and studied at the **University of Buenos Aires**. He worked in statistical and monetary policy, including leadership at the **Central Bank of Argentina**, established in 1935.
+
+The Great Depression and Latin America's reliance on primary commodity exports shaped his analysis. At the **Economic Commission for Latin America (ECLAC)**, he developed the distinction between economic **centre and periphery**, emphasizing unequal technological capabilities and asymmetry in the distribution of international growth gains.
+
+The **Prebisch–Singer hypothesis** raised the possibility of deterioration in the long-run relative prices of some primary products. The result varies across commodities, periods and methods; it is not a universal rule governing every resource-exporting country.
+
+Prebisch advocated industrial diversification, but the success of import substitution depends on competitive discipline, technology, infrastructure and macroeconomic conditions. His legacy is the demand to analyse the productive structure and international position of developing economies.
+
+### 72. Hans Singer: the risks of narrow export specialization
+
+**Hans W. Singer** (1910–2006) was born in Germany, studied economics and left amid Nazi persecution. He later worked as an academic and for international organizations.
+
+He analysed how specialization in primary commodities could make countries vulnerable to price fluctuations and to unequal sharing of productivity gains. His work contributed to the thesis associated with Prebisch.
+
+Singer's argument was not that all agricultural exporters must remain poor. Industrial upgrading, technology and institutions may change outcomes. Trends in prices depend on product baskets, quality adjustments and historical periods; broad claims require careful empirical specification.
+
+### 73. Arthur Lewis: dual economies and labour migration
+
+**W. Arthur Lewis** (1915–1991) was born in **Saint Lucia** and studied at the **London School of Economics**, later developing a global academic and policy career.
+
+In ***Economic Development with Unlimited Supplies of Labour* (1954)**, Lewis described a developing economy with traditional and modern sectors. Capital accumulation in the modern sector could attract workers from low-productivity activities, increasing output and changing wages over time.
+
+The model must be adapted where rural labour is highly productive, workers lack access to skills or cities expand informal employment instead of formal industrial jobs. It captures a structural transition, not the exact path of every country.
+
+Lewis received the **1979 prize** with Theodore Schultz. His importance lies in making differences between sectors inside one economy central to growth theory.
+
+### 74. Albert Hirschman: linkages and the politics of development
+
+**Albert O. Hirschman** (1915–2012) was born in Berlin, studied across Europe, engaged in anti-fascist activities and emigrated to the United States.
+
+In ***The Strategy of Economic Development* (1958)**, he argued that investments can create **backward and forward linkages**: new industries increase demand for suppliers and enable new downstream activities. Development need not start with every sector growing simultaneously; selected investments can reveal the next set of bottlenecks.
+
+In ***Exit, Voice, and Loyalty* (1970)**, he analysed how customers and citizens respond when organizations deteriorate: they may leave, protest or remain loyal. The availability of exit and voice changes bargaining power.
+
+His legacy is caution against grand development blueprints that assume the future can be completely specified in advance. Institutional learning often occurs through unexpected constraints and responses.
+
+### 75. Gunnar Myrdal and Asian development: cumulative processes revisited
+
+Myrdal's ***Asian Drama* (1968)** linked development to land institutions, education, administration and persistent social inequality. It challenged economists who assumed prices and savings alone explained poverty.
+
+Subsequent industrialization in different Asian economies complicated some of its predictions and revealed paths that the analysis had not anticipated. This does not invalidate the concept of institutional feedback; it shows the danger of treating historically situated assessments as permanent constraints on a region.
+
+A useful evaluation of Myrdal must combine his concern with social conditions and the contrasting evidence produced by later development trajectories.
+
+### 76. Amartya Sen: entitlements, famine and capabilities
+
+**Amartya Sen** (born 1933) was born in **Santiniketan**, studied in Calcutta and at **Trinity College, Cambridge**, and developed research spanning philosophy, welfare and development.
+
+In ***Poverty and Famines* (1981)**, Sen showed why hunger may result from a collapse of people's ability to acquire food rather than only from aggregate shortages. Wages, employment, relative prices and legal entitlements determine access to available food.
+
+The **capabilities approach** assesses whether people can actually pursue meaningful lives through health, education, safety and freedom, rather than using income as a complete measure. Public spending and growth matter because of what they enable people to achieve.
+
+Sen received the **1998 economics prize**. His work also advanced social choice and democratic reasoning, emphasizing that welfare measures must acknowledge diverse human circumstances and rights.
+
+### 77. Douglass North: institutions, transaction costs and history
+
+**Douglass C. North** (1920–2015) studied at **University of California, Berkeley**, and became a leading economic historian and institutional economist.
+
+In ***Institutions, Institutional Change and Economic Performance* (1990)**, he distinguished institutions — formal and informal rules — from organizations operating within those rules. Property law, courts, enforcement and norms influence cooperation and the costs of transactions.
+
+His concept of **path dependence** describes how existing institutions create incentives and barriers affecting subsequent change. The past matters without determining the future mechanically.
+
+North shared the **1993 prize** with **Robert Fogel**, whose quantitative economic history included research on railroads and slavery. The broad causal role assigned to institutions requires careful empirical evidence rather than simple rankings of countries.
+
+### 78. Elinor Ostrom: collective resources and self-governance
+
+**Elinor Clair Awan Ostrom** (1933–2012) was born in Los Angeles, studied political science at **UCLA**, earning a doctorate in **1965**, and worked extensively at **Indiana University**. She married political scientist **Vincent Ostrom** in 1963. The [Nobel biographical record](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/) documents her career.
+
+Ostrom studied irrigation, forests, pastures and fisheries governed by their users. Her fieldwork demonstrated that common resources need not be overexploited in every circumstance. Users can establish boundaries, monitoring, sanctions and procedures to resolve disputes.
+
+The conditions for success vary by resource, geography, community and public authority. Neither universal privatization nor centralized command provides a guaranteed solution.
+
+Ostrom received the **2009 prize**, becoming the first woman laureate in economics. She broadened economic theory by documenting how real communities build governance institutions.
+
+### 79. Oliver Williamson: the firm and the cost of contracts
+
+**Oliver E. Williamson** (1932–2020) studied engineering, management and economics at **MIT**, **Stanford** and **Carnegie Mellon**, building on Ronald Coase's insights.
+
+A firm may perform activities internally because contracting through markets requires search, negotiation, monitoring and enforcement. Highly specialized equipment or long relationships may expose parties to opportunistic renegotiation, making integration or special contractual safeguards valuable.
+
+Internal organization also creates costs: bureaucracy, poor incentives and loss of flexibility. Williamson's framework therefore does not imply that every merger is efficient.
+
+He shared the **2009 economics prize** with Ostrom. His work supplied practical tools for analysing outsourcing, vertical integration and governance.
+
+### 80. Daron Acemoglu, Simon Johnson and James Robinson: institutions and prosperity
+
+**Daron Acemoglu** (born 1967) was born in Istanbul, studied at **York** and earned a doctorate at the **London School of Economics**. **Simon Johnson** (born 1963) developed training in economics and politics in Britain and earned a doctorate at **MIT**. **James Robinson** (born 1960) studied economics and political history, including doctoral work at **Yale**.
+
+Their research examined how political institutions, property rights and the distribution of power influence prosperity and innovation. Historical work on colonization investigated links between institutional arrangements and persistent economic differences.
+
+They received the **2024 economics prize**, documented by the [Royal Swedish Academy's award release](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/).
+
+The analysis has been challenged on instrumental-variable methods, historical measures and overly binary categories of inclusion and extraction. Its enduring achievement is to show that economic development cannot be understood independently of political institutions.
+
+## IX — Contracts, information and collective choice
+
+### 81. Ronald Coase: the company and the social cost of transactions
+
+**Ronald H. Coase** (1910–2013) studied at the **London School of Economics** and developed his career in the United States, particularly at the **University of Chicago**.
+
+In ***The Nature of the Firm* (1937)**, he asked why businesses organize work internally instead of purchasing every task separately through markets. The answer involved the costs of finding suppliers, writing contracts, monitoring compliance and settling disputes.
+
+In ***The Problem of Social Cost* (1960)**, he analysed conflicting uses of resources. Under extremely restrictive assumptions of zero transaction costs and well-defined rights, bargaining may lead to efficient outcomes regardless of the initial assignment of rights, though distribution differs. In real societies, negotiation costs and unequal power make institutions essential.
+
+Coase received the **1991 prize**. His argument was not that government is never needed; it was that real transaction costs must be included in economic reasoning.
+
+### 82. Kenneth Arrow and Gérard Debreu: general equilibrium and social impossibility
+
+**Kenneth Arrow** (1921–2017) studied at **City College of New York** and **Columbia**, later working at Stanford and Harvard. **Gérard Debreu** (1921–2004), born in France, trained in mathematics at the **École normale supérieure**.
+
+Their work established conditions under which a competitive general equilibrium can exist in an abstract economy. Mathematical existence is not evidence of rapid convergence, full information or social fairness in actual markets.
+
+Arrow also proved an **impossibility theorem** showing that certain plausible conditions for aggregating individual preferences into a collective ranking cannot all hold in general. It is a formal result about social-choice rules, not proof that democratic government itself is impossible.
+
+Arrow shared the **1972 prize** with John Hicks; Debreu received the **1983 prize**. Their legacy is rigorous theory with the corresponding obligation to identify assumptions.
+
+### 83. George Akerlof, Michael Spence and Joseph Stiglitz: unequal information
+
+**George Akerlof** (born 1940) studied at **Yale** and **MIT**. In ***The Market for “Lemons”* (1970)**, he showed how uncertainty about product quality can drive good sellers from a market and reduce exchange.
+
+**Michael Spence** (born 1943), trained at **Princeton**, **Oxford** and **Harvard**, developed models of **signalling** through education and other costly actions. **Joseph Stiglitz** (born 1943), trained at **Amherst** and **MIT**, researched incentives, screening, insurance and credit under asymmetric information.
+
+The three shared the **2001 prize**. Their contributions changed the presumption that buyers and sellers generally know the same facts. They help explain why insurance, lending and labour markets may not clear through prices alone.
+
+The existence of asymmetric information does not automatically determine the best regulation. Disclosure, competition, guarantees and oversight have their own costs and institutional requirements.
+
+### 84. John Nash, John Harsanyi and Reinhard Selten: strategic interaction
+
+**John Forbes Nash Jr.** (1928–2015) studied at **Carnegie Institute of Technology** and **Princeton**, developing the equilibrium concept bearing his name. A **Nash equilibrium** is a combination of strategies in which no participant benefits by changing their own choice while other choices remain unchanged.
+
+**John Harsanyi** (1920–2000) helped develop games of incomplete information, and **Reinhard Selten** (1930–2016) refined equilibrium in sequential games. All three shared the **1994 economics prize**.
+
+Game theory transformed analysis of oligopolies, negotiation, auctions and international conflict. An equilibrium need not be socially desirable: mutual non-cooperation can persist even where everyone would gain from coordinated change.
+
+Nash's serious mental-health struggles belong to his biography but should not be romanticized as the explanation of his mathematics.
+
+### 85. James Buchanan and Gordon Tullock: political incentives
+
+**James M. Buchanan** (1919–2013) studied economics, including at the **University of Chicago**, and **Gordon Tullock** (1922–2014) trained in law before building an economics career.
+
+Their ***The Calculus of Consent* (1962)** examined collective decision rules and incentives of politicians, voters and public officials. **Public choice** challenged the assumption that government always implements a perfectly defined public interest.
+
+The concept of **rent-seeking**, developed in a related tradition including Tullock and **Anne Krueger**, analysed resources devoted to obtaining privileges rather than producing new goods. Yet private monopolies also create rent-seeking; examining political incentives does not prove privatization is always superior.
+
+Buchanan received the **1986 economics prize**. The approach remains influential and politically contested, particularly in debates over taxation and redistribution.
+
+### 86. Gary Becker: human capital, families and economic rationality
+
+**Gary Becker** (1930–2014) was born in Pennsylvania, studied at **Princeton** and obtained a doctorate from the **University of Chicago**.
+
+He extended economic analysis to education, discrimination, crime, families and other social activities. **Human capital theory** connects education and training with future productivity and earnings, while recognizing that returns depend on labour markets and individual circumstances.
+
+His work on discrimination examined how preferences and market competition interact, but it does not establish that competition automatically removes racism or gender inequality.
+
+Becker received the **1992 prize**. His approach widened economics while raising criticism that complex social relations were sometimes reduced to excessively narrow models of individual maximization.
