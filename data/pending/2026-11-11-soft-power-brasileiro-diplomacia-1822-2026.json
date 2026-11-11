@@ -1,0 +1,253 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER",
+  "slug": "2026-11-11-soft-power-brasileiro-diplomacia-1822-2026",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T01:44:00-03:00",
+  "kind": "historical-soft-power-research",
+  "priority": 6,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "global-system-power",
+  "related_programs": [
+    "political-economy-markets",
+    "strategic-transitions"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      }
+    ]
+  },
+  "topics": [
+    "institutions-governance",
+    "geopolitics-security",
+    "trade-investment",
+    "industry-production",
+    "social-change",
+    "climate-environment",
+    "inequality-distribution",
+    "technology-innovation"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "strategic-competition",
+    "social-change",
+    "war-armed-conflict"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-11-soft-power-brasileiro-diplomacia-1822-2026/en.md",
+      "title": "Brazil's Soft Power: Two Centuries of Diplomacy, Culture and Influence (1822–2026)",
+      "deck": "From imperial recognition and Rio Branco to the UN, Mercosur, BRICS, G20 and COP30: why Brazil's cultural visibility exceeds its uneven ability to shape international outcomes.",
+      "tags": [
+        "Brazil",
+        "Soft power",
+        "Itamaraty",
+        "Brazilian diplomacy",
+        "United Nations",
+        "Rio Branco",
+        "History",
+        "BRICS",
+        "Mercosur",
+        "COP30"
+      ],
+      "keywords": [
+        "Brazil soft power 1822–2026",
+        "Brazil foreign policy 19th 20th 21st centuries",
+        "Brazilian diplomatic influence",
+        "year-by-year chronology"
+      ],
+      "regime": "Long-run rise in institutional and cultural visibility, with intermittent geopolitical and economic constraints on effective influence.",
+      "key_risk": "Conflating cultural popularity, survey perceptions, multilateral access and achieved diplomatic outcomes.",
+      "watch": [
+        "Mercosur–EU ratification and implementation",
+        "COP30 adaptation financing implementation",
+        "Global Alliance against Hunger results",
+        "Brazilian technical cooperation outcomes",
+        "Independent diplomacy and climate perception indicators"
+      ],
+      "search_text": "Brazil 1822-2026 soft power diplomacy Empire Rio Branco League Nations UN Security Council Itamaraty foreign service Mercosur BRICS culture football music climate Amazon Lula Bolsonaro geopolitical influence historical chronology"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-11-soft-power-brasileiro-diplomacia-1822-2026/pt-BR.md",
+      "title": "O soft power brasileiro: dois séculos de diplomacia, cultura e poder (1822–2026)",
+      "deck": "Do reconhecimento imperial e Rio Branco à ONU, ao Mercosul, aos BRICS, ao G20 e à COP30: por que a projeção cultural supera a influência diplomática efetiva.",
+      "tags": [
+        "Brasil",
+        "Soft power",
+        "Itamaraty",
+        "Diplomacia brasileira",
+        "ONU",
+        "Rio Branco",
+        "História",
+        "BRICS",
+        "Mercosul",
+        "COP30"
+      ],
+      "keywords": [
+        "soft power brasileiro 1822–2026",
+        "história diplomacia brasileira ano a ano",
+        "Itamaraty ONU Mercosul BRICS",
+        "ascensão e declínio influência brasileira"
+      ],
+      "regime": "A projeção cultural e institucional cresce no longo prazo, enquanto limitações produtivas, geopolíticas e internas restringem sua conversão em influência.",
+      "key_risk": "Confundir popularidade cultural, percepção em pesquisas, acesso aos fóruns e capacidade comprovada de alterar decisões.",
+      "watch": [
+        "Ratificação e execução do acordo Mercosul–UE",
+        "Desembolso e cumprimento das decisões COP30",
+        "Resultados da Aliança contra a Fome",
+        "Avaliação da cooperação técnica brasileira",
+        "Indicadores independentes de imagem e clima"
+      ],
+      "search_text": "Soft power brasileiro diplomacia Brasil 1822 2026 Império Rio Branco Liga das Nações ONU Conselho de Segurança Itamaraty Instituto Rio Branco Mercosul BRICS cultura futebol música clima Amazônia Lula Bolsonaro cronologia anual"
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "2026-11-11 America/Sao_Paulo; current policy/legal facts reverified against sources last updated 2026-11-03 and Brand Finance June 2026.",
+    "source_check": "20 traceable sources, primarily official FUNAG, UN, government, UNESCO, ABC, G20, Siscomex and one explicit perception-index publisher; each instrument distinguished from inference.",
+    "historical_method": "205 individual years, 1822-2026; dated events separated from years described only by period context to avoid unsupported fabricated annual milestones. Soft power retrospective label, not nineteenth-century self-description.",
+    "argument_continuity": "Stages: attraction versus outcomes → empire → territorial legalism → world order → autonomy and legitimacy → democratization → South–South coalitions → recent setbacks → 2023–2026 and constraints → mechanisms/comparators/falsifiers.",
+    "visual_evidence": "Both locales: one 5-row comparison table, one bar chart of UN Security Council mandate starts 1940s–2020s, one four-chain causal flow and one six-region geographical exposure map. Chart data 1,2,2,0,1,2,1,1,1 identical.",
+    "bilingual_parity": "English primary edition ~8,000 words and PT-BR ~8,600 words; 15 substantive numbered sections, 205 annual entries, 20 identical source URLs and equivalent visuals, arguments and conclusions.",
+    "editorial_status": "Producer-staged only, no public report created; independent SHA-bound QA and publisher required."
+  },
+  "contrary_evidence": [
+    "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
+    "Military interventions in the Empire and the peacekeeping mission in Haiti involved coercion, contested local legitimacy and human costs.",
+    "Brazil's 2019–2022 diplomatic disagreements did not prevent election to its eleventh Security Council term in 2022–2023.",
+    "The 2026 Mercosur–EU provisional trade application is not full definitive ratification of the partnership.",
+    "Event hosting at G20, BRICS and COP30 does not establish policy implementation or realized financing.",
+    "Brazil's culture can be globally recognizable while political influence remains bounded by veto powers, industrial dependence and domestic institutional credibility."
+  ],
+  "limitations": [
+    "The chronology does not establish a unique diplomatic event for every single year; unmarked years explicitly retain period context.",
+    "Brand Finance index is a proprietary cross-sectional perception instrument; it should not be projected backwards to 1822.",
+    "The report does not estimate a synthetic index of historical soft power or an unobservable causal effect of music and sport on diplomatic votes.",
+    "Some nineteenth-century historical background relies on documentary historical syntheses rather than a separate primary archive for each year.",
+    "Impacts of COP30 decisions, the anti-hunger alliance and Mercosur–EU remain to be verified by future implementation metrics.",
+    "News after 11 November 2026 is outside the factual cutoff.",
+    "Independent QA, source-hash approval and public site deployment have not yet occurred at producer stage."
+  ],
+  "evidence_sources": [
+    {
+      "name": "FUNAG — historical bilateral relations",
+      "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — History of Brazilian Foreign Policy",
+      "url": "https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Imperial diplomatic histories",
+      "url": "https://funag.gov.br/biblioteca-nova/categoria/cat/35?ord=4",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — Independent Foreign Policy documents",
+      "url": "https://funag.gov.br/biblioteca-nova/produto/1-190-documentos_da_politica_externa_independente_volume_1",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Planalto — Rio Branco Institute founding decree",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del7473.htm",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "United Nations — Security Council elected membership list",
+      "url": "https://main.un.org/securitycouncil/en/content/countries-elected-members",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "United Nations Brazil — General Debate opening tradition",
+      "url": "https://brasil.un.org/pt-br/278975-assembleia-geral-da-onu",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazilian Ministry of Defence — UN peacekeeping history",
+      "url": "https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/copy_of_missoes-de-paz/historico-da-participacao-brasileira-em-missoes-da-onu",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "ABC — Technical cooperation history",
+      "url": "https://www.gov.br/abc/pt-br/acesso-a-informacao/institucional/historia",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "ABC — South–South cooperation principles",
+      "url": "https://www.gov.br/abc/pt-br/assuntos/cooperacao-tecnica/vertentes-da-cooperacao-tecnica",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "UNESCO — intangible heritage inscriptions",
+      "url": "https://ich.unesco.org/en/state/brazil-BR?info=elements-on-the-lists",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brand Finance — Global Soft Power Index 2026",
+      "url": "https://brandfinance.com/insights/brazils-growing-soft-power-culture-diplomacy-climate-leadership",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "G20 Brazil — presidency retrospective",
+      "url": "https://www.gov.br/g20/pt-br/sobre-o-g20/e-book-brasil-na-presidencia-do-g20",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "G20 Brazil — Global Alliance Against Hunger and Poverty",
+      "url": "https://www.gov.br/g20/pt-br/trilhas/trilha-de-sherpas/fome-e-pobreza",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazilian government — COP30 Belém outcomes",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/11/cop30-e-encerrada-com-o-pacote-de-belem-aprovado-por-195-paises",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Siscomex — Mercosur–EU 2026 agreement status",
+      "url": "https://www.gov.br/siscomex/pt-br/acordos-comerciais/mercosul-uniao-europeia",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil Ministry of Agriculture — interim agreement",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/2026/promulgacao-do-acordo-provisorio-de-comercio-entre-o-mercosul-e-a-uniao-europeia",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "FUNAG — foreign policy repertory",
+      "url": "https://www.gov.br/funag/pt-br/ipri/publicacoes/repertorio-de-politica-externa",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Ministry of Mines and Energy — BRICS members",
+      "url": "https://www.gov.br/mme/pt-br/atos-internacionais/organismos-internacionais/brics",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "IPEA — Brazil, Global South and multilateralism",
+      "url": "https://repositorio.ipea.gov.br/bitstreams/26f314e8-f179-41ed-b48e-72b666d44af1/download",
+      "accessed_at": "2026-11-11"
+    }
+  ]
+}
