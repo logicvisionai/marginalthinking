@@ -672,3 +672,156 @@ As ferramentas não oferecem previsão perfeita de recessões. Diferentes graus 
 ```flow
 Pesquisa sobre decisões de famílias e firmas → modelos de consumo, preços, trabalho e investimento → relações agregadas e expectativas → instrumentos fiscais e monetários → transmissão para produção, inflação e emprego → avaliação empírica e revisão das hipóteses
 ```
+
+
+## VIII — Desenvolvimento, colonialismo e a crítica à universalidade das receitas econômicas
+
+### 71. Raúl Prebisch: América Latina, termos de troca e industrialização
+
+**Raúl Prebisch** (1901–1986) nasceu em Tucumán, Argentina, numa família com tradição de ensino e atividade profissional. Estudou na **Universidade de Buenos Aires**, trabalhou com estatísticas econômicas e tornou-se figura importante da política monetária argentina, incluindo atuação ligada à fundação e à direção inicial do **Banco Central da Argentina** em 1935.
+
+A experiência com exportações de produtos primários, choques da Grande Depressão e dependência de divisas estrangeiras marcou sua crítica à ideia de que o comércio internacional produziria automaticamente convergência entre países. Na **Comissão Econômica para a América Latina (CEPAL)**, Prebisch desenvolveu a abordagem de **centro e periferia**, em que estrutura produtiva e assimetria tecnológica condicionam comércio e distribuição de ganhos.
+
+A chamada **tese Prebisch–Singer** discutiu a possibilidade de deterioração secular dos termos de troca de determinados produtos primários frente a manufaturas, sob hipóteses sobre poder de mercado, inovação e demanda. A generalização não é universal: commodities possuem ciclos próprios e países exportadores diferem na capacidade tecnológica, logística e fiscal.
+
+Prebisch defendeu industrialização e diversificação, mas o sucesso da substituição de importações depende de escala de mercado, aprendizagem, concorrência, câmbio e política macroeconômica. Proteção duradoura sem avaliação pode criar empresas ineficientes. Seu legado está em reconhecer que a posição de um país na economia mundial altera as oportunidades de desenvolvimento.
+
+### 72. Hans Singer: comércio e a vulnerabilidade de países exportadores
+
+**Hans W. Singer** (1910–2006) nasceu na Alemanha, estudou economia e estatística e deixou o país diante da perseguição nazista. Desenvolveu carreira acadêmica e em organismos internacionais, incluindo trabalhos associados às Nações Unidas. Sua formação foi influenciada por debates de desenvolvimento e pela experiência de deslocamento político.
+
+Singer investigou os termos de troca e as relações entre produção primária, manufatura e renda de países pobres. Sua hipótese, próxima à de Prebisch, não afirmava que cada exportador de produtos agrícolas fosse condenado à pobreza. Apontava o risco de especialização em atividades de baixo crescimento da produtividade, com volatilidade e capacidade limitada de capturar os ganhos de inovação mundial.
+
+A contribuição passou a orientar debates sobre comércio e assistência internacional. A evidência empírica sobre tendência secular de preços relativos permanece sensível ao conjunto de produtos, período, qualidade dos bens e mudanças tecnológicas; transformar uma hipótese histórica em número invariável seria contrariar o próprio objetivo analítico.
+
+### 73. Arthur Lewis: a transformação do trabalho e o problema da economia dual
+
+**William Arthur Lewis** (1915–1991) nasceu em **Santa Lúcia**, então colônia britânica, e estudou na **London School of Economics**, onde desenvolveu carreira acadêmica antes de atuar em universidades e cargos internacionais. Sua origem caribenha e sua experiência com estruturas coloniais influenciaram a percepção de desigualdades de oportunidades entre países.
+
+Em ***Economic Development with Unlimited Supplies of Labour* (1954)**, elaborou modelo de economia dual no qual um setor tradicional emprega grande quantidade de trabalhadores com produtividade marginal relativamente baixa, enquanto um setor moderno acumula capital e absorve força de trabalho. O salário, a distribuição dos lucros e a capacidade de reinvestir determinam a trajetória de transformação.
+
+O modelo ajudou a explicar industrialização e migração rural-urbana, mas a suposição de oferta de trabalho praticamente ilimitada não se aplica em qualquer economia. O setor rural pode possuir atividades produtivas complexas, trabalhadores podem não ter as qualificações necessárias e cidades podem gerar informalidade em vez de emprego formal. Lewis também discutiu instituições, comércio e políticas de desenvolvimento.
+
+Recebeu o prêmio de Economia em **1979**, juntamente com Theodore Schultz. Seu legado foi colocar estruturas produtivas diferentes dentro do mesmo país no centro da teoria de crescimento, afastando a hipótese de que toda economia é composta por empresas representativas idênticas.
+
+### 74. Albert Hirschman: desequilíbrio, encadeamentos e saídas políticas
+
+**Albert O. Hirschman** (1915–2012) nasceu em Berlim, estudou em universidades europeias, participou de atividades de resistência ao fascismo e emigrou para os Estados Unidos. Sua formação em economia, política e experiências de guerra ofereceu perspectiva sobre decisões sob incerteza e desenvolvimento em países periféricos.
+
+Em ***The Strategy of Economic Development* (1958)**, defendeu examinar **encadeamentos para trás e para frente**: abrir uma indústria pode estimular fornecedores e compradores, criar novas necessidades de infraestrutura e produzir incentivos para investimentos complementares. Crescimento equilibrado em todos os setores não é necessariamente viável; determinados desequilíbrios podem revelar gargalos e oportunidades.
+
+Em ***Exit, Voice, and Loyalty* (1970)**, analisou como consumidores, cidadãos e membros de organizações respondem à deterioração: podem sair, protestar ou permanecer leais. A possibilidade de saída altera o poder de negociação, enquanto voz e participação podem corrigir problemas que o abandono simplesmente agravaria.
+
+Hirschman desconfiava de grandes planos que presumiam conhecer de antemão todas as restrições. O legado está na atenção aos mecanismos indiretos e às surpresas institucionais do desenvolvimento, uma postura útil contra receitas universais tanto pró-Estado quanto pró-mercado.
+
+### 75. Gunnar Myrdal e a economia asiática: desigualdade que se reproduz
+
+A análise de **Gunnar Myrdal** sobre a Ásia, desenvolvida em ***Asian Drama* (1968)**, aprofundou argumentos de causação cumulativa e obstáculos institucionais ao desenvolvimento. Sua pesquisa tratou relações agrárias, educação, política, desigualdade e limitações da administração pública. A obra teve impacto por insistir que planejamento econômico não substitui mudanças sociais e políticas.
+
+O trabalho reuniu observação comparativa e juízos normativos que exigem leitura crítica, sobretudo diante de experiências de crescimento asiático posteriores às previsões da época. Países com condições iniciais semelhantes adotaram estratégias distintas de industrialização, exportação e educação. Isso enfraquece explicações deterministas que atribuem desenvolvimento exclusivamente a cultura ou geografia.
+
+O contraste entre teoria e evolução posterior é valioso: a importância histórica de Myrdal não torna todas as suas avaliações empíricas definitivas. A análise de desigualdade institucional permanece, mas precisa ser confrontada com a industrialização efetiva de Japão, Coreia do Sul, Taiwan, China e outras economias.
+
+### 76. Amartya Sen: capacidade, fome e liberdade efetiva
+
+**Amartya Kumar Sen** (nascido em 1933) nasceu em **Santiniketan**, na Índia britânica, estudou em **Presidency College, Calcutá**, e no **Trinity College, Cambridge**. Sua formação combinou matemática, filosofia e economia, com atenção às experiências de fome, violência comunitária e desigualdade durante o período colonial e a independência indiana.
+
+Em ***Poverty and Famines* (1981)**, mostrou que crises alimentares não precisam decorrer apenas de queda absoluta de disponibilidade de alimentos: pessoas podem perder o direito econômico de adquiri-los quando salários, preços e empregos se deterioram. Essa abordagem de **entitlements** deslocou a análise para renda, comércio, direitos e distribuição. Uma região pode possuir alimentos disponíveis e conviver com fome se determinados grupos não conseguem comprá-los.
+
+Sen desenvolveu a perspectiva de **capacidades**, na qual bem-estar depende do que pessoas efetivamente conseguem ser e fazer, não só de renda ou quantidade de bens. Educação, saúde, participação social e liberdade ampliam possibilidades reais. A abordagem influenciou índices e políticas de desenvolvimento humano, sem substituir automaticamente escolhas políticas sobre prioridades e indicadores.
+
+Recebeu o prêmio de Economia em **1998**. Suas contribuições também envolvem teoria da escolha social e debates sobre direitos, democracia e justiça. A crítica ao uso de PIB como medida completa de prosperidade não implica negar a importância de crescimento produtivo: o argumento exige perguntar a quem a renda chega e quais oportunidades ela efetivamente abre.
+
+### 77. Douglass North: regras, custos de transação e história institucional
+
+**Douglass C. North** (1920–2015) nasceu em Massachusetts, estudou na **University of California, Berkeley**, e desenvolveu pesquisas sobre história econômica e instituições. Sua trajetória acadêmica evoluiu de análises quantitativas de crescimento para uma teoria mais ampla da mudança institucional.
+
+North definiu instituições como regras formais e informais que estruturam incentivos e restringem comportamentos, enquanto organizações são grupos que operam dentro dessas regras. Leis de propriedade, tribunais, contratos e costumes afetam custos de transação e a capacidade de cooperar com desconhecidos.
+
+Em ***Institutions, Institutional Change and Economic Performance* (1990)**, discutiu **dependência de trajetória**: decisões passadas criam incentivos e custos de mudança que podem sustentar arranjos ineficientes. Isso não significa que história determine rigidamente o futuro; significa que reformas enfrentam estruturas de poder, aprendizado e expectativa herdadas.
+
+North recebeu o prêmio de Economia em **1993** com **Robert Fogel**, cuja história quantitativa investigou temas como ferrovias e escravidão. A economia institucional contemporânea encontrou em North uma ponte entre explicações neoclássicas, história e política, mas sua obra foi criticada quando causas institucionais amplas apareciam sem medidas empíricas suficientemente independentes.
+
+### 78. Elinor Ostrom: as comunidades que administram recursos comuns
+
+**Elinor Clair Awan Ostrom** (1933–2012) nasceu em Los Angeles, cresceu em família de recursos modestos e estudou ciência política na **University of California, Los Angeles**, onde obteve doutorado em **1965**. Casou-se em 1963 com o cientista político **Vincent Ostrom**, colaborador importante em pesquisas de governança. A [biografia do Nobel](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/) destaca sua formação e os estudos de campo.
+
+Ostrom investigou água, florestas, pastagens e sistemas de irrigação geridos coletivamente. Contrariou a ideia de que recursos compartilhados necessariamente serão destruídos na ausência de privatização completa ou controle estatal central. Comunidades podem criar limites de acesso, monitorar uso, aplicar sanções proporcionais e resolver conflitos, quando possuem condições institucionais adequadas.
+
+Os **princípios de desenho** extraídos de seus estudos não formam receita universal para todo recurso natural. Tamanho do grupo, mobilidade de usuários, disponibilidade de informação e interferência estatal alteram resultados. Em algumas circunstâncias, uma comunidade não consegue impedir a exaustão, e mecanismos públicos ou privados adicionais são necessários.
+
+Ostrom recebeu o prêmio de Economia em **2009**, primeira mulher a ser laureada na categoria. Sua contribuição ampliou os limites da economia ao tratar governança como criação de regras por pessoas reais, não apenas escolha entre propriedade privada e comando governamental.
+
+### 79. Oliver Williamson: a firma como resposta aos custos de contratar
+
+**Oliver E. Williamson** (1932–2020) nasceu em Wisconsin, estudou no **MIT**, na **Stanford University** e em **Carnegie Mellon**, com formação em administração, engenharia e economia. Desenvolveu teoria de organização industrial e custos de transação, influenciado por Ronald Coase.
+
+Williamson explicou por que certas atividades ocorrem dentro de firmas enquanto outras são contratadas no mercado. Quando um investimento depende de ativo muito específico — uma máquina feita para um único comprador, por exemplo —, as partes podem tornar-se vulneráveis à renegociação oportunista. Integrar a produção ou criar contratos de longo prazo pode reduzir esse risco, mas traz custos de burocracia e perda de flexibilidade.
+
+Recebeu o prêmio de Economia em **2009** com Ostrom. Sua contribuição demonstrou que o preço de compra de um insumo não é o único custo relevante: negociar, fiscalizar, adaptar e executar contratos também consome recursos. O argumento ajuda a analisar terceirização e fusões, mas não demonstra que grandes conglomerados são sempre mais eficientes que redes de fornecedores independentes.
+
+### 80. Daron Acemoglu, Simon Johnson e James Robinson: instituições, poder e prosperidade
+
+**Daron Acemoglu** (nascido em 1967 em Istambul) estudou economia na **University of York** e obteve doutorado na **London School of Economics**. **Simon Johnson** (nascido em 1963) estudou economia e política em instituições britânicas e obteve doutorado no **MIT**. **James A. Robinson** (nascido em 1960) desenvolveu formação em economia e história política, incluindo doutorado em **Yale**. Construíram carreiras em pesquisa de desenvolvimento, política e desigualdade.
+
+Trabalhos de Acemoglu e Robinson investigaram como instituições que concentram poder e recursos podem perpetuar exclusão e impedir investimento, enquanto regras mais abrangentes de participação e direitos podem favorecer inovação. Pesquisas com Johnson e outros colaboradores exploraram efeitos históricos de colonização, mortalidade de colonizadores e desenho de instituições sobre renda contemporânea.
+
+Os três receberam o prêmio de Economia em **2024** por estudos sobre formação de instituições e prosperidade. A [Academia Sueca](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/) destaca a importância de instituições políticas e econômicas para diferenças persistentes de desenvolvimento.
+
+Os métodos receberam críticas técnicas relativas a instrumentos econométricos, medidas históricas e generalização de casos. Também seria simplista reduzir cada país a uma classificação binária de instituições “inclusivas” ou “extrativas”, ignorando geografia, capacidades produtivas e política externa. O legado está em mostrar que desenvolvimento depende de distribuição do poder político, não apenas de preços relativos ou capital físico.
+
+## IX — Economia dos contratos, informação e decisões
+
+### 81. Ronald Coase: por que existem empresas e direitos de propriedade importam
+
+**Ronald H. Coase** (1910–2013) nasceu em Londres, estudou na **London School of Economics** e desenvolveu carreira acadêmica nos Estados Unidos, especialmente na **Universidade de Chicago**. Sua formação valorizava observação de empresas, direito e organização industrial, em vez de modelos que presumissem ausência de custos de transação.
+
+Em ***The Nature of the Firm* (1937)**, perguntou por que trabalhadores e equipamentos são coordenados dentro de empresas se mercados podem contratar cada tarefa separadamente. Sua resposta envolveu custos de encontrar fornecedores, negociar, acompanhar e executar contratos. A firma pode reduzir alguns desses custos, mas sua expansão também cria burocracia e dificuldades de gestão.
+
+Em ***The Problem of Social Cost* (1960)**, examinou conflitos de uso entre agentes, como fábrica que incomoda vizinhos. Sob hipóteses extremas de direitos definidos e custos de transação nulos, partes podem negociar soluções eficientes independentemente da distribuição inicial dos direitos, embora a distribuição determine quem paga. No mundo real, custos de negociação e poder desigual tornam a legislação e as instituições decisivas.
+
+Coase recebeu o prêmio de Economia em **1991**. A versão escolar que usa seu nome para defender que “governo nunca importa” contraria o foco de seu próprio trabalho na análise de custos institucionais efetivos.
+
+### 82. Kenneth Arrow e Gérard Debreu: equilíbrio, incerteza e impossibilidade social
+
+**Kenneth J. Arrow** (1921–2017) nasceu em Nova York, estudou em **City College of New York** e obteve pós-graduação em **Columbia**, desenvolvendo carreira em Stanford e Harvard. **Gérard Debreu** (1921–2004), nascido na França, estudou matemática na **École normale supérieure** e se tornou referência em formalização rigorosa da economia.
+
+Em trabalhos dos anos 1950, formularam condições de existência de **equilíbrio competitivo** em uma economia abstrata com mercados e preferências que satisfazem hipóteses específicas. O resultado é matematicamente poderoso, mas não demonstra estabilidade do processo de ajuste nem que o equilíbrio seja justo.
+
+Arrow também provou seu famoso **teorema de impossibilidade**, mostrando que certas condições aparentemente razoáveis de agregação de preferências individuais em uma ordenação social não podem ser satisfeitas simultaneamente em domínios gerais. O teorema é resultado lógico sobre sistemas de escolha coletiva, não prova de que toda democracia é impossível.
+
+Arrow recebeu o prêmio de Economia em **1972** com Hicks; Debreu recebeu-o em **1983**. O legado conjunto está na distinção entre o que um modelo demonstra matematicamente e as condições institucionais necessárias para usar suas conclusões em políticas reais.
+
+### 83. George Akerlof, Michael Spence e Joseph Stiglitz: mercados em que a informação é desigual
+
+**George Akerlof** (nascido em 1940) estudou em **Yale** e no **MIT**, desenvolvendo teoria sobre mercados de qualidade incerta. Em ***The Market for “Lemons”* (1970)**, explicou que, quando compradores não conseguem observar a qualidade de um produto e vendedores possuem essa informação, bens melhores podem ser retirados do mercado, reduzindo confiança e quantidade de transações.
+
+**Michael Spence** (nascido em 1943) estudou em **Princeton**, **Oxford** e **Harvard**, formulando modelos de **sinalização**: educação, garantias e outras ações podem transmitir informação sobre características ocultas, embora o sinal possa ser socialmente caro. **Joseph Stiglitz** (nascido em 1943), formado em **Amherst** e no **MIT**, desenvolveu pesquisa sobre seleção, incentivos, seguros e crédito, incluindo problemas de racionamento.
+
+Receberam juntos o prêmio de Economia em **2001**. A importância é romper a imagem de que todos os agentes negociam com informação perfeita. Mercados de seguros, emprego e crédito podem falhar mesmo sem controles de preços explícitos. Entretanto, informação desigual não determina automaticamente a melhor intervenção: garantias, competição, regulação e divulgação têm custos e riscos próprios.
+
+### 84. John Nash, Harsanyi e Selten: estratégia e interação entre pessoas
+
+**John Forbes Nash Jr.** (1928–2015) nasceu na Virgínia Ocidental, estudou na **Carnegie Institute of Technology** e na **Princeton University**, onde desenvolveu teoria de jogos. Seu conceito de **equilíbrio de Nash** descreve uma combinação de estratégias em que nenhum participante ganha mudando isoladamente sua escolha, dadas as escolhas dos outros.
+
+**John Harsanyi** (1920–2000), formado em filosofia e economia na Hungria e nos Estados Unidos, desenvolveu teoria de jogos com informação incompleta. **Reinhard Selten** (1930–2016), matemático e economista alemão, refinou a análise de equilíbrios em jogos dinâmicos. Os três receberam o prêmio de Economia em **1994**.
+
+A teoria de jogos permitiu examinar oligopólios, acordos, guerra de preços, barganhas e leilões. O equilíbrio não garante cooperação ou resultado socialmente eficiente: participantes podem ficar presos em estratégias mutuamente ruins, como no dilema dos prisioneiros. Nash também enfrentou grave doença psiquiátrica ao longo da vida; sua biografia pessoal não deve ser usada para romantizar sofrimento nem como explicação única da produção matemática.
+
+### 85. James Buchanan e Gordon Tullock: a política também possui incentivos
+
+**James M. Buchanan** (1919–2013) nasceu no Tennessee e estudou economia em instituições americanas, incluindo a **Universidade de Chicago**. **Gordon Tullock** (1922–2014), formado em direito, desenvolveu carreira acadêmica com forte atuação em economia política.
+
+Em ***The Calculus of Consent* (1962)**, examinaram regras de escolha coletiva, custos de decisões públicas e incentivos de eleitores, burocratas e políticos. A escola de **escolha pública** rejeitava tratar o Estado como agente perfeitamente benevolente que conhece e executa automaticamente o interesse geral.
+
+A análise de **rent-seeking**, associada também a Tullock e a **Anne Krueger**, explicou como grupos podem gastar recursos para conquistar monopólios, subsídios e licenças em vez de gerar produção adicional. A atividade política também pode produzir bens públicos e corrigir abusos privados; reconhecer incentivos de autoridades não implica que qualquer privatização seja superior.
+
+Buchanan recebeu o prêmio de Economia em **1986**. Sua influência política foi ampla e controversa, especialmente quando argumentos de escolha pública foram utilizados para restringir políticas redistributivas. O legado é uma abordagem de incentivos institucionais que exige análise igualmente crítica do comportamento de governos, empresas e grupos organizados.
+
+### 86. Gary Becker: família, educação e os limites da escolha racional
+
+**Gary S. Becker** (1930–2014) nasceu na Pensilvânia, estudou em **Princeton** e obteve doutorado na **Universidade de Chicago**, onde desenvolveu carreira. Aplicou instrumentos econômicos a educação, discriminação, crime, família e comportamento social, expandindo a disciplina para objetos antes estudados principalmente pela sociologia.
+
+Na teoria do **capital humano**, educação e treinamento podem elevar produtividade e rendimentos futuros, embora seus retornos dependam de qualidade do ensino, mercado de trabalho, discriminação e condições de financiamento. Sua análise econômica da discriminação examinou custos e preferências de empregadores, empregados e consumidores, mas não significa que discriminação desaparece automaticamente com concorrência.
+
+Becker recebeu o prêmio de Economia em **1992**. Críticas importantes atingem a tendência de modelar toda ação social como maximização individual, sem captar suficientemente identidades, poder, cuidado não remunerado e normas. A expansão da economia para a família tornou novos problemas pesquisáveis, mas também trouxe risco de impor premissas estreitas a relações complexas.
