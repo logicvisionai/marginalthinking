@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-10T20:48:26.392Z",
+  "last_reconciled_at": "2026-11-11T03:35:00.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8929,6 +8929,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No validated new structural observation, financial position, technical deployment or asset relationship for this cumulative system follows from this historical and comparative study."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-11T03:35:00.000Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-11"
+      ],
+      "audit_note": "Reviewed new BLS CPI data and absent annual base, Treasury Nov10 yield repricing, BCB Copom 282nd meeting, EIA forecast vintage and regional cash market closes; aggregate observations do not prove bilateral flow or ownership mutation.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Treasury yields and China trade, oil and regional FX indicate plausible directional exposure but not auditable new bilateral weighted dependency links."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "New inflation and discount-rate observations do not prove a new financed investable infrastructure project."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Changes in market valuations, monetary statements and trade aggregates cannot establish verified change of legal control or corporate voting rights."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "EIA oil inventory and forecast totals do not document transfer of extraction concessions, rights or ownership."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "FOMC and Copom policy settings and CPI changes are observed, but do not identify a causal treatment effect with credible counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Middle East shipping risk is attributed to EIA reporting and news, but no new incident-level independent physical evidence justifies canonical registry mutation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI-exposed equity prices and Chinese electronics export growth do not measure technical commissioning, verified capacity or performance milestones."
         }
       ]
     }
