@@ -2,11 +2,11 @@
   "schema_version": 2,
   "id": "MT-PE-2026-11-11-GLOBAL-LEGAL-ASSET-SECURITY",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-11T17:38:13.162Z",
-  "reviewed_commit": "a6c465bb8c34c31023f120c66d6a7b4af82ad98c",
-  "pending_blob_sha": "88a43cf568263c99bb3a3a4804ba5ec2a5c363fb",
+  "reviewed_at": "2026-11-11T17:42:48.767Z",
+  "reviewed_commit": "6e6d8eeb74cc4688a4c1e23c4d0105a19ab2cd13",
+  "pending_blob_sha": "7bb143781c3979cfed72f8b178bf819d234c7623",
   "source_blob_shas": {
-    "en": "5e46539689b673be5fc3e6c93045d77484cb2346",
+    "en": "e7b46f195e9a24485467c266585ab615c305d4ae",
     "pt-BR": "15d850699b4f0d3663fc68c90507ce8519796718"
   },
   "taxonomy_check": "passed",
@@ -31,7 +31,7 @@
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both locale sources include two deterministic sourced WJP charts with identical numerical arrays, one explanatory flow, one comparative regional map and five-plus comparison tables; no invented investment-loss rankings."
+      "summary": "Revision 1 resolves visual signature mismatch identified by GitHub Actions. Both editions now contain six tables, two quantitatively identical WJP charts, one flow and one map. The sanctions instrument comparison is semantically matched and grounded in the report's legal mechanisms."
     },
     "research_depth": {
       "result": "passed",
@@ -51,7 +51,7 @@
     },
     "translation_equivalence": {
       "result": "passed",
-      "summary": "Both editions have identical 15 major chapters, 90 numbered substantive subsections, same 42-source bibliography and same quantitative visual values; English is substantive equivalent, not a page-by-page literal translation. Portuguese retains the longer original."
+      "summary": "Both languages now have the same 15 chapters, 90 numbered sections, six structured tables, two quantitative charts, one causal flow, one regional map and 42-source bibliography. Source facts and asset-risk distinctions align."
     },
     "political_neutrality": {
       "result": "passed",
@@ -70,9 +70,9 @@
     "WJP institutional rankings and deposit-guarantee ceilings cannot be interpreted as probabilities of investor loss.",
     "The study is general comparative institutional research; actual transactions require current law, a qualified local lawyer and professional tax diligence.",
     "The English report is a materially aligned analytical counterpart with some compression of explanatory paragraphs, not an identical word-for-word translation.",
-    "Platform-native structural QA checks were run; complete project test suite and production artifact validation remain pending GitHub CI."
+    "The final public revision-1 pipeline/build must pass GitHub Actions; deployment to the external hosting service depends on CI credentials."
   ],
-  "notes": "Reviewed current Git tree and three source SHAs. The two quantitative charts were independently spot-checked against WJP source-country scores, and current statutory/property restrictions were checked against government pages. Source URLs remain in citations at the end of the bilingual report. No public artifact existed at approval time.",
+  "notes": "Revision 1, QA linked to revised pending and exact staged EN/PT-BR SHAs, supersedes revision 0. Visual table-count defect detected by full GitHub Actions build corrected and rechecked on both staged files; final CI will validate the public bundle.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -80,7 +80,7 @@
     "slug": "2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes",
     "date": "2026-11-11",
     "published_at": "2026-11-11T13:24:00-03:00",
-    "revision": 0,
+    "revision": 1,
     "kind": "structural-economic-outlook",
     "priority": 5,
     "source_locale": "en",
@@ -296,7 +296,7 @@
     "producer_checks": {
       "information_cutoff": "2026-11-11 America/Sao_Paulo",
       "research_depth": "15-part Portuguese manuscript, 90 numbered sections, approximately 15,750 words; English analytical counterpart with same 15-part and 90-section structure, approximately 13,700 words; 42 named institutional source references.",
-      "visual_evidence": "Two matched quantitative institutional charts, one flow and one region-comparison map, plus multiple tables, equally present in PT-BR and EN.",
+      "visual_evidence": "Revision 1 reconciles the English five-instrument sanctions transmission table with the Portuguese 6-table visual signature. Both locales now carry two WJP charts, six evidence tables, one flow and one map, 90 numbered subsections and 42 institutional references.",
       "chart_numeric_parity": "WJP 2026 six country composite values [0.82,0.79,0.72,0.67,0.51,0.48]; Brazil eight factors [0.52,0.46,0.58,0.50,0.62,0.52,0.51,0.33].",
       "fact_methodology": "WJP 2026 judicial data independently rechecked, UK 2025 FSCS 120k, Australia residential ban to June 2029, EU immobilization of Russian reserves circa EUR210bn. Explicit distinctions between stock, claims, custody, legal right, currency, prices, sanctions and physical risk.",
       "editorial_conformance": "No narrative about building the site or report production. No 'best country' universal score. Legal eligibility is conditional on investor, country, property class, permits, residency and tax status.",
