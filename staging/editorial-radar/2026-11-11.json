@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "checked_at": "2026-11-11T08:10:00Z",
+  "scope": "All active editorial lines reconciled against registry. Global Macro already QA approved and public bundle present on main. Limited primary screening, not exhaustive independent audit of each field.",
+  "registry_updated_at": "2026-11-09T13:47:29.003Z",
+  "registry_blob_sha": "725baf74525e2985847392c05ff820a78c4eeb40",
+  "reviewed_line_count": 33,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "published_in_repository",
+      "note": "MT-GM-2026-11-11 approved revision 1 and public repository metadata exists; no duplicate."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "US CPI, Treasury curve, BCB Copom minutes and EIA November forecast addressed in existing Global Macro."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No independently verified new nutrition, pesticide-exposure or food-system outcome in this bounded scan."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "No verified new herd-management, AMR, chemical or biological incident or weapons governance decision in bounded scan."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Maritime energy-security uncertainty treated conditionally in macro, without claiming confirmed cessation or escalation."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No independently checked new viral/bacterial surveillance change in bounded scan; hypothetical risks not stated as events."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "covered_in_macro",
+      "note": "Trade and oil shipping channels discussed in macro; no newly measured logistics capacity."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "No comparable verified new inventory series; avoid extrapolating stocks from market prices."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    },
+    {
+      "registry_id": "editorial-strategic-security-resilience",
+      "kind": "strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reviewed. No distinct source-verified substantive delta established by bounded daily screening; no new article."
+    }
+  ],
+  "additional_article": {
+    "created": false,
+    "reason": "No separate, sufficiently evidenced delta beyond already approved macro or existing corpus."
+  },
+  "sources_checked": [
+    {
+      "name": "EIA November 2026 STEO",
+      "date": "2026-11-10",
+      "url": "https://www.eia.gov/outlooks/steo/outlook.php"
+    },
+    {
+      "name": "World Bank Transmission Impossible grid finance session",
+      "date": "2026-11-10",
+      "url": "https://www.worldbank.org/en/events/2026/11/10/transmission-impossible-financing-the-grid"
+    },
+    {
+      "name": "World Bank Group COP31 program",
+      "date": "2026-11-09",
+      "url": "https://www.worldbank.org/en/who-we-are/news/campaigns/2026/the-world-bank-group-at-cop31"
+    }
+  ],
+  "limitations": [
+    "Thematic coverage is registry-complete, but evidence screening is bounded.",
+    "No new comparative primary AMR, pesticide, livestock, biosecurity or strategic inventory series established."
+  ]
+}
