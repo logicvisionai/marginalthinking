@@ -2,78 +2,100 @@
   "schema_version": 2,
   "id": "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER",
   "slug": "2026-11-11-soft-power-brasileiro-diplomacia-1822-2026",
-  "revision": 4,
+  "revision": 5,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-11T12:18:30-03:00",
+  "reviewed_at": "2026-11-11T12:28:41-03:00",
   "reviewed_branch": "main",
-  "pending_blob_sha": "4ab2c08178c1c02108c3383b6468acf09f80e55b",
+  "pending_blob_sha": "5647e883ce5c8aa59aee16372e3d6ac77d495b6f",
   "source_blob_shas": {
-    "en": "4fd6e3cd7c628af1cea2ed81c17bde3b0e68307c",
-    "pt-BR": "ac7d5c799213a6c4697096337005a854f997bbcb"
+    "en": "9e9b1a92ec471e680ada528af4c064532b05b9eb",
+    "pt-BR": "bd625e36c32b7e51efa31d7571e7f243dac6b29f"
   },
   "taxonomy_check": "passed_structural",
-  "translation_check": "passed_targeted_and_205_year_alignment",
+  "translation_check": "passed_structural_and_targeted",
   "confidence": {
     "rejection": "high",
     "historical_completeness": "limited",
-    "visual_quantitative_audit": "not_fully_reproduced"
+    "source_specificity": "medium",
+    "verified_2026_institutional_claims": "high"
   },
   "checks": {
-    "research_depth": "substantial_205_years_but_individual_claim_audit_incomplete",
-    "evidence_traceability": "failed_source_pinpoints_and_unverified_205_claims",
-    "counterfactual_review": "partial",
-    "visual_evidence_readiness": "structural_1_chart_1_flow_1_map_not_full_numeric_reproduction",
+    "source_integrity": "passed_sha_recorded",
+    "factual_methodology": "qualified_with_unresolved_year_level_traceability",
+    "source_vintage_and_cutoff": "passed_targeted_2026_sources",
+    "research_depth": "substantial_but_annual_claim_validation_incomplete",
+    "evidence_traceability": "failed_for_generic_annual_interpretations",
+    "visual_evidence_readiness": "failed_ordinal_rank_bar_chart_encodes_non_cardinal_positions_as_proportional_magnitudes",
     "editorial_publication_readiness": "rejected",
+    "counterfactual_review": "passed_targeted",
     "taxonomy": "passed_structural",
     "translation": "passed_targeted",
-    "source_sha_verification": "passed",
     "publication_snapshot": "not_generated"
+  },
+  "audit": {
+    "annual_entries": {
+      "en": 205,
+      "pt": 205,
+      "identical_years": true,
+      "continuous_1822_2026": true
+    },
+    "visuals_per_locale": {
+      "charts": 2,
+      "flow": 1,
+      "map": 1
+    },
+    "security_council_decade_series": [
+      1,
+      2,
+      2,
+      0,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "security_council_sum": 11,
+    "brand_finance_ranks": [
+      11,
+      29,
+      33,
+      43
+    ],
+    "external_2026_check": "European Commission confirms 17 January signature and 1 May interim provisional application; Brand Finance dated 12 June 2026 confirms all four ranks and 193-state, >150000 survey framework",
+    "historical_spot_checks": "Rev4 directly checked Garcia 1833 p32, 1932 p76, 1969 p106; rev5 wording for these years and 1981 is consistent at targeted level, but 205 year-by-year passages were not fully revalidated."
   },
   "issues": [
     {
       "severity": "blocking",
-      "category": "source_specificity_205_annual_entries",
-      "location": "en.md and pt-BR.md annual chronology §14, 1822–2008",
-      "evidence": "All 205 annual entries have links, but 1822–2008 overwhelmingly use the same 198-page Garcia PDF with '#search=YEAR' fragments rather than page/section anchors or source quotations. The PDF itself contains multiple entries per year and its 2009 note states coverage through 2008. A browser text-search fragment cannot prove that each compound annual claim is documented. Targeted comparison did verify 1932 (PDF p.76, lines 2738–2744) and the River Plate treaty in 1969 (p.106, lines 3830–3837), but these spot checks do not validate the other annual claims.",
-      "required_correction": "Create a year-by-year evidence concordance with PDF page, exact dated passage and mapping of each material clause to that passage, separately citing non-Garcia claims and post-2008 direct sources; reconcile both locales."
+      "category": "quantitative_visual_semantics",
+      "location": "EN and PT-BR second ```chart``` (Brand Finance ordinal positions 11,29,33,43)",
+      "evidence": "type: bar plots raw rank numbers on proportional bar widths. Rank is ordinal (1 is best), so larger bars visually encode more quantity while actually denoting a worse position; the report itself concedes that distances are not cardinal. Captions do not eliminate the misleading encoding under RESEARCH-VISUALS evidence rules 2,3,4,8 and QA rule 'materially misleading chart'.",
+      "required_correction": "Replace with an ordinal rank table or a visual grammar explicitly suitable for ordered categorical positions; if keeping chart, use a documented ranking visualization where direction and non-cardinality cannot be mistaken for amount of influence, with identical EN/PT implementation."
     },
     {
       "severity": "blocking",
-      "category": "historical_source_characterization_1833",
-      "location": "Both languages, chronology 1833",
-      "evidence": "Garcia's PDF p.32 lines 1108–1109 expressly asserts that Brazil recognized the Argentine right to the islands in the 1833 entry, but provides no dated recognition instrument there. Current prose properly avoids presenting a signed act, yet describes FUNAG's retrospective chronology as mentioning support; the Garcia text is a stronger retrospective assertion than the independently demonstrated contemporaneous evidence. Neither source supplies the dated Brazilian act.",
-      "required_correction": "Distinguish Garcia's retrospective claim from contemporaneous diplomatic documentation, and avoid treating the year heading as proof of the date of a Brazilian recognition act."
-    },
-    {
-      "severity": "blocking",
-      "category": "multi_claim_source_traceability_2026",
-      "location": "Both languages, chronology 2026",
-      "evidence": "The 2026 entry combines January EU–Mercosur signature, May provisional application, and Brand Finance's 29th place. The two URLs are separately relevant but there is no quoted or dated source passage attached to each claim and no indication of ranking universe, methodology, survey reference period, or differentiation of brand perception from diplomatic effectiveness.",
-      "required_correction": "Provide precise EU Commission status passage and dated Brand Finance ranking/methodology with survey year, denominator and limitations, explicitly mapping each clause to its source."
-    },
-    {
-      "severity": "blocking",
-      "category": "visual_methods_and_cross_claim_reproducibility",
-      "location": "EN/PT chart of 11 UN Security Council terms, two tables, flow and map",
-      "evidence": "Both language files contain 205 annual entries and one chart, one flow, one map; this confirms structure, not that the chart's 11 mandates, denominators, source period and analytical transmission claims have been independently reconstructed. No full source-to-data concordance was completed in this review.",
-      "required_correction": "Attach auditable 11-term input series with official UN election dates and mandate years, reproduce the calculation, and map table/map/flow claims to underlying evidence in both locales."
+      "category": "annual_claim_source_traceability",
+      "location": "Annual chronology EN/PT 1976, 1989, 2007 and other broad interpretive years",
+      "evidence": "1976 asserts African and energy relationships 'enlarge external policy options' using only Garcia year-search; 1989 says the end of the Cold War 'opens new coalitions and trade disciplines' with broad integration PDF and Garcia year-search; 2007 says technical cooperation, agriculture and energy diplomacy 'expand' using a generic ABC institutional history and Garcia year-search. These are analytical effect/change claims rather than merely dated events. No located dated passage or comparative evidence demonstrates the asserted expansion/mechanism for these specific years. A #search=YEAR fragment is not a passage-level validation. This audit does not assert the claims are false; they remain insufficiently traced.",
+      "required_correction": "For each interpretive annual claim, provide pinpoint passage and evidence of the asserted change or label it explicitly as a period interpretation without pretending the linked year proves it. Complete a year-to-claim concordance and review both locales."
     }
   ],
-  "verified_facts": [
-    "Garcia PDF is 198 pages and states that its chronology was extended through 2008 (PDF p.3).",
-    "1932 Garcia PDF p.76 supports the São Paulo insurgents' unsuccessful US belligerency recognition and attempted arms acquisition.",
-    "1969 Garcia PDF p.106 supports signature of the River Plate Basin Treaty on 23 April.",
-    "Garcia PDF p.32 attributes Argentine territorial right recognition to Brazil under 1833 but does not identify the contemporaneous instrument.",
-    "EN and PT-BR have 205 annual bullet entries and matching targeted year wording; each has one chart, one flow and one map."
+  "accepted_qualifications": [
+    "Garcia is a secondary historical chronology through 2008, not 205 original primary archival records.",
+    "1833 recognition is attributed retrospectively; no contemporaneous dated Brazilian dispatch claimed.",
+    "UN Security Council decade chart totals 11 starts and is internally arithmetically consistent.",
+    "EU–Mercosur provisional application is correctly distinguished from final ratification.",
+    "Brand Finance 2026 is a cross-sectional perception survey, not a causal historical measure.",
+    "Targeted EN/PT year wording and visual numeric arrays match."
   ],
   "limitations": [
-    "Only targeted Garcia passages were independently examined; no claim of 205 complete passage-level checks is made.",
-    "External institutional sources, 11-term chart calculations and Brand Finance methodology were not exhaustively verified in this run.",
-    "No reports, index, staging or approval record was edited."
+    "Full 205-year external passage-by-passage source audit not completed; no blanket assertion of falsity.",
+    "Only targeted external web verification of European Commission and Brand Finance performed in this run.",
+    "No reports, public indices, staged source or approval record modified."
   ],
   "previous_revision": {
-    "revision": 3,
-    "qa_status": "rejected",
-    "issue_count": 4
+    "revision": 4,
+    "qa_status": "rejected"
   }
 }
