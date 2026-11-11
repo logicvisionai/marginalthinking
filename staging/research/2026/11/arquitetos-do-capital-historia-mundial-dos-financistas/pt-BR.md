@@ -923,3 +923,88 @@ A empresa de hedge funds e o negócio de formador de mercado **Citadel Securitie
 O auge de Griffin está ligado à capacidade de reunir capital, pesquisadores, infraestrutura informática e gestão de posições em alta frequência de mercado. Essa escala permite reduzir custos médios de transação, mas também amplia preocupação com concentração, acesso a dados e robustez de sistemas automatizados em situações de estresse. O desempenho de estratégias proprietárias não pode ser estimado apenas por comunicados corporativos que selecionam anos favoráveis.
 
 A trajetória de Griffin contém uma ruptura geracional: o financista não depende de uma família secular de banqueiros, mas de formação universitária, tecnologia, equipes e capital institucional. Sua riqueza pessoal e a dimensão das operações de empresas sob sua influência continuam sendo grandezas diferentes.
+
+
+## Parte XVI — Capital global fora do eixo das antigas casas europeias
+
+### 89. Muhammad Yunus e o Grameen Bank: quando o problema é emprestar pouco
+
+**Muhammad Yunus** nasceu em **1940** no território que hoje corresponde a Bangladesh. Estudou economia e realizou pós-graduação nos Estados Unidos antes de atuar como professor na Universidade de Chittagong. As crises e a pobreza rural dos anos 1970 levaram-no a questionar a ausência de serviços bancários para pequenos produtores e trabalhadoras cuja atividade não possuía garantias tradicionalmente aceitas por bancos comerciais.
+
+O modelo de microcrédito desenvolvido em experiências locais procurava conceder empréstimos pequenos, frequentemente dirigidos a mulheres, apoiados por relações comunitárias e métodos de cobrança adaptados. O **Grameen Bank** foi formalizado em **1983**. Sua escala não poderia ser comparada à dos Rothschild pela quantidade de dívida soberana emitida: a transformação estava no alcance de pessoas que, por não possuírem ativos aceitos como colateral, eram excluídas do crédito formal.
+
+Yunus e o Grameen receberam o **Prêmio Nobel da Paz em 2006**. O reconhecimento internacional ampliou difusão de programas de microfinanças, mas a evidência sobre redução sustentada de pobreza é heterogênea. Estudos controlados encontraram efeitos em atividade empresarial e consumo em certas localidades, sem validar a promessa de que pequenos empréstimos eliminariam por si só a pobreza estrutural. Juros, cobrança, endividamento múltiplo e fragilidade de renda podem transformar o instrumento de emancipação em fonte de pressão.
+
+O debate político em Bangladesh e conflitos de governança envolvendo Yunus e o banco geraram controvérsias ao longo do tempo. Sua atividade pública posterior não deve ser confundida com gestão operacional contínua do Grameen. O caso demonstra que grande importância financeira pode consistir em alterar o **tamanho mínimo economicamente viável de uma operação de crédito**, e não em movimentar um título de um bilhão de dólares.
+
+### 90. Jim Ovia: computadores e a fundação do Zenith Bank na Nigéria
+
+**Jim Ovia**, empresário bancário nigeriano, recebeu formação em administração e finanças nos Estados Unidos, incluindo graduação na **Southern University**, MBA na **University of Louisiana** e cursos executivos em **Harvard**. Sua trajetória contrasta com a de financistas cujo principal ativo inicial era patrimônio dinástico. O desenvolvimento de redes bancárias exigia capacidade tecnológica, conhecimento de clientes e gestão de risco num país com infraestrutura e instituições em rápida mudança.
+
+Em **junho de 1990**, Ovia fundou o **Zenith Bank**, dirigindo-o como executivo principal por aproximadamente vinte anos. A [biografia de seu escritório](https://jimovia.com/about-jim/) destaca sua atenção à informática e seu papel no desenvolvimento de serviços bancários nigerianos. A capacidade de informatizar saldos, operações e atendimento tornou-se vantagem competitiva à medida que bancos precisavam atender empresas, transferir recursos e oferecer serviços em escala.
+
+Os desafios eram múltiplos: inflação, risco cambial, crises políticas, governança, falhas de infraestrutura e transformação de marcos regulatórios. Bancos que crescem rapidamente podem ampliar inclusão e financiamento empresarial, mas também precisam manter capital e liquidez contra choques. O tamanho de ativos de um banco não representa riqueza pessoal do seu fundador; depósitos são passivos e créditos são ativos sujeitos a perdas.
+
+Ovia deixou a posição executiva principal em 2010 e assumiu papéis de presidência de conselho, mantendo ligação institucional com a empresa. Seu investimento em educação e bolsas de estudo expressa uma forma de filantropia em que capital privado procura ampliar competências humanas. O efeito de seus programas deve ser analisado por beneficiários e resultados, separadamente dos lucros e riscos da atividade bancária.
+
+### 91. Tony Elumelu: o Standard Trust Bank e a integração bancária africana
+
+**Tony Onyemaechi Elumelu** nasceu em **1963**, na Nigéria, estudou economia e obteve pós-graduação na **Universidade de Lagos**. Começou carreira em instituições bancárias e desenvolveu competências de análise, atendimento e gestão operacional. A experiência de assumir responsabilidades cedo num setor concentrado em organizações tradicionais contribuiu para a estratégia posterior de alcançar clientes pouco atendidos.
+
+Em **1997**, Elumelu e parceiros assumiram o controle de um banco em dificuldades, o **Crystal Bank**, reorganizando-o como **Standard Trust Bank**. A aposta consistia em melhorar processos, ampliar tecnologia, atrair clientes e gerir custos de uma instituição que não dispunha do prestígio dos bancos históricos. Uma virada desse tipo exige recapitalização, governança e capacidade de cobrar créditos problemáticos, não apenas mudanças de marca.
+
+Em **2005**, liderou a combinação do Standard Trust com o **United Bank for Africa (UBA)**. A [história da UBA](https://www.ubagroup.com/about-us/our-history/) registra a fusão e a expansão posterior a diversos países africanos. Ao integrar sistemas com culturas e tamanhos diferentes, a empresa precisava harmonizar cadastros, recursos humanos, controles de crédito e liquidação entre moedas nacionais. A expansão regional ampliou capacidade de atender comércio, diásporas e empresas com atividade internacional.
+
+Elumelu passou posteriormente a atuar em investimentos de energia, infraestrutura e outros setores por meio da **Heirs Holdings** e em programas de apoio a empreendedores. Sua concepção de *Africapitalism* sustenta que capital privado africano pode liderar desenvolvimento regional. É uma posição do próprio empresário, não prova de que todas as suas participações produzam desenvolvimento inclusivo. Avaliar resultados demanda observar emprego, serviços, impostos, retorno ao investidor e custos ambientais.
+
+### 92. Masayoshi Son: capital visionário, SoftBank e o preço da tecnologia
+
+**Masayoshi Son** nasceu em **1957**, no Japão, em família de origem coreana. Estudou nos Estados Unidos, inclusive na **University of California, Berkeley**, e iniciou negócios ligados à informática. Em **1981**, fundou a **SoftBank**, inicialmente dedicada à distribuição de software para computadores pessoais. A [história corporativa da SoftBank](https://group.softbank/en/philosophy/history) descreve a passagem de software a internet, telecomunicações, telefonia móvel e investimentos em tecnologia.
+
+A trajetória de Son alterou-se quando participações em empresas tecnológicas começaram a produzir ganhos de escala extraordinários. Investimentos iniciais em plataformas e empresas digitais foram beneficiados por efeitos de rede: o valor do negócio podia aumentar rapidamente com número de usuários, dados, infraestrutura e capacidade de atrair mais clientes. Mas isso também produzia avaliações dependentes de expectativas futuras difíceis de verificar.
+
+A criação do **Vision Fund em 2017**, com capital de investidores globais e participação importante de recursos do Oriente Médio, colocou a SoftBank numa escala inédita de financiamento de empresas privadas de tecnologia. O fundo podia investir grandes quantias em negócios antes de sua abertura de capital, apoiando expansão e simultaneamente influenciando avaliações de mercado. A capacidade de levantar capital barato podia tornar-se vantagem; o risco era confundir velocidade de gasto com qualidade de demanda e lucratividade.
+
+As dificuldades com **WeWork** e outros investimentos expuseram fragilidades de governança e de modelos de negócios dependentes de financiamento contínuo. Son preservou influência e reorganizou prioridades para inteligência artificial e infraestrutura tecnológica, mas a valorização de empresas ligadas à tecnologia permanece sujeita a ciclos. O auge de um investidor de capital de risco não é um ponto fixo: pode ser sucedido por grandes perdas e por nova expansão com ativos diferentes.
+
+### 93. Eduardo Saverin: da fundação de uma plataforma à construção de uma firma global de capital de risco
+
+**Eduardo Luiz Saverin**, nascido em **1982** em São Paulo, cresceu numa família brasileira com experiências empresariais e mudou-se para os Estados Unidos. Estudou economia em **Harvard**, onde conheceu **Mark Zuckerberg** e participou da fundação inicial do **Facebook** em **2004**. Seu papel incluía investimentos iniciais e atividades comerciais, mas a estrutura societária da startup, os conflitos entre fundadores e as negociações posteriores modificaram sua participação e sua posição de gestão.
+
+A enorme valorização do Facebook ocorreu ao longo de anos, quando a empresa expandiu usuários, publicidade, dados e infraestrutura digital. Não foi resultado apenas de um aporte inicial: combinou engenharia, produto, liderança executiva, investidores posteriores e mudanças de mercado. Saverin acumulou patrimônio ligado à participação acionária, mas sua importância como financista contemporâneo exige examinar a segunda fase de sua carreira.
+
+Estabelecido em **Singapura**, tornou-se investidor e cofundador da **B Capital**, organização de capital de risco voltada a empresas de tecnologia em diferentes estágios e regiões. A [biografia publicada pela B Capital](https://b.capital/team/eduardo-saverin/) identifica Saverin como cofundador e co-CEO, sediado no Sudeste Asiático. O modelo desloca o centro da atividade do investimento pessoal em uma plataforma para a seleção de equipes, captação de recursos institucionais, governança de portfólio e apoio à expansão internacional.
+
+Seu diferencial potencial está na capacidade de operar entre mercados americanos e asiáticos, onde demanda, regulação e financiamento variam. Contudo, não basta afirmar que empresas de tecnologia possuem oportunidades globais: o investidor precisa avaliar preço pago, participação, direitos preferenciais, diluição, financiamento adicional e probabilidade de saída. A empresa adquirida pode crescer em receita e destruir retorno do investidor se a avaliação inicial for excessiva.
+
+A riqueza pessoal de Saverin e os recursos de terceiros administrados pela B Capital são categorias separadas. Sua trajetória também mostra por que o investidor de tecnologia é diferente de um banqueiro de corte: a fortuna deriva de propriedade acionária e apostas em modelos de negócio, não principalmente de renda sobre empréstimos a monarquias.
+
+### 94. Don Valentine, Michael Moritz e Doug Leone: a formação da Sequoia Capital
+
+**Don Valentine** (1932–2019) nasceu em Nova York, estudou química na **Fordham University** e desenvolveu carreira no setor de semicondutores e equipamentos eletrônicos antes de fundar a **Sequoia Capital em 1972**. Sua formação técnica e comercial oferecia conhecimento de produção, engenharia e vendas, um conjunto diferente daquele de banqueiros tradicionais especializados em títulos públicos. A [história oficial da Sequoia](https://sequoiacap.com/our-history) registra a criação da firma e um fundo inicial de aproximadamente US$3 milhões.
+
+O capital de risco financia empresas que ainda não possuem lucros estáveis e podem nunca gerar retorno. O investidor recebe participação acionária em vez de promessa de reembolso fixo. A carteira precisa suportar falências e concentra sua rentabilidade em poucos casos extraordinários. A Sequoia participou do financiamento de empresas como **Apple**, **Atari** e, em períodos posteriores, companhias digitais de enorme alcance.
+
+**Michael Moritz** e **Doug Leone** passaram a exercer grande influência em gerações posteriores. Leone, imigrante italiano, estudou engenharia e administração e ingressou na Sequoia no fim dos anos 1980. A [trajetória publicada pela firma](https://sequoiacap.com/people/doug-leone) descreve o aprendizado com Valentine e a expansão para mercados asiáticos. A diversidade de formações e o treinamento de sócios importavam porque o fundador de uma empresa tecnológica não precisa só de dinheiro: pode precisar de contratação, estratégia, parceiros e acesso a mercados.
+
+O auge de uma sociedade de venture capital pode ocorrer muito depois do aporte, quando empresas investidas realizam abertura de capital ou são compradas. Investimentos malsucedidos são parte estrutural da atividade; ocultá-los e apresentar apenas vencedores produz viés de sobrevivência. A sucessão da Sequoia envolveu novas gerações de sócios, novos fundos e mudanças geográficas. A empresa não é propriedade familiar perpétua de Valentine, e a continuidade do nome depende de estruturas de parceria e desempenho futuro.
+
+### 95. Marc Andreessen e Ben Horowitz: experiência de fundador convertida em poder financeiro
+
+**Marc Andreessen** (nascido em 1971) estudou ciência da computação na **University of Illinois Urbana-Champaign**, participou do desenvolvimento de tecnologias iniciais de navegadores de internet e cofundou empresas de software. **Ben Horowitz** (nascido em 1966) estudou ciência da computação na **Columbia University** e na **UCLA** e desenvolveu carreira de gestão tecnológica. Os dois trabalharam juntos em empresas que passaram por crescimento, crises e venda a um grupo maior.
+
+Em **2009**, fundaram a **Andreessen Horowitz**, conhecida como **a16z**. A [descrição institucional](https://a16z.com/about/) apresenta um modelo em que especialistas de tecnologia, contratação, comunicação, regulação e gestão ajudam empresas do portfólio. A inovação não foi descobrir que capital de risco precisa de pesquisa; foi institucionalizar uma rede de serviços operacionais como parte da proposta de valor ao empreendedor.
+
+A firma investiu em múltiplas ondas de tecnologia, incluindo redes sociais, software corporativo, criptoativos, biotecnologia e inteligência artificial. A cada onda, o valor das empresas depende de expectativas de adoção e da captura de lucros futuros. Um fundo pode beneficiar-se de uma narrativa tecnológica e, simultaneamente, perder dinheiro quando a valuation dos ativos supera o crescimento real.
+
+Andreessen e Horowitz tornaram-se figuras de influência pública, defendendo posições sobre indústria de tecnologia e política. Argumentos públicos dos sócios não são equivalentes a decisões oficiais de governos nem demonstram que todas as empresas investidas compartilham a mesma posição. O poder financeiro contemporâneo inclui capacidade de moldar expectativas e recrutar talentos, mas seus efeitos precisam ser medidos em capital efetivamente alocado, empregos, produtos e governança.
+
+### 96. As instituições que não cabem numa árvore genealógica: fundos soberanos e bancos públicos
+
+A história das grandes fortunas privadas não esgota o financiamento global. Fundos soberanos como os de **Noruega**, **Singapura** e países do Golfo mobilizam capitais vinculados a receitas públicas, reservas e decisões institucionais. São governados por conselhos, ministérios, autoridades legais e profissionais de investimento, sob arranjos diferentes de prestação de contas. Nenhum gestor individual pode ser descrito como proprietário pessoal de todos os ativos que administra.
+
+A **GIC** e a **Temasek**, de Singapura, são organizações distintas, criadas em contextos e com missões diferentes: uma investe reservas e a outra administra participações do Estado com mandatos específicos. Fundos de recursos naturais podem converter receita de petróleo em ativos internacionais destinados a gerações futuras; sua qualidade depende de regras fiscais, diversificação, transparência e capacidade de resistir ao uso político de curto prazo.
+
+Nas economias em desenvolvimento, bancos públicos de fomento e bancos multilaterais podem financiar projetos que oferecem retorno social e efeitos econômicos não capturados integralmente por credores privados. O risco é substituir uma falha de mercado por uma carteira de créditos dirigidos politicamente sem avaliação de custo. A importância desses instrumentos deve ser observada no retorno produtivo, emprego e sustentabilidade fiscal, não na ostentação de um fundador célebre.
+
+A presença de entidades públicas no capital mundial também relativiza afirmações sobre a “família mais poderosa”. Recursos de pensões, Estados, seguradoras e cotistas superam, em muitos mercados, o patrimônio pessoal de qualquer banqueiro. A influência individual existe, mas opera dentro de mandatos, leis, contratos e possibilidade de substituição por outros administradores.
