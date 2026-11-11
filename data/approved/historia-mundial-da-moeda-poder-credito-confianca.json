@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "id": "MT-HIST-MONEY-2026-11-11",
+  "slug": "historia-mundial-da-moeda-poder-credito-confianca",
+  "revision": 0,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-11T23:24:18.581Z",
+  "reviewed_commit": "4ff2361b2486031edb8a2306867f482feecc7b2f",
+  "pending_blob_sha": "85d08c442d00096e87da786cd113911c9a67aa94",
+  "source_blob_shas": {
+    "en": "71b3a064e03145228ed27d00bbb6ac87781acad0",
+    "pt-BR": "533b1ee4b0c687ecde65c00d829a808a7770c130"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Current main branch staged EN/PT and pending Git blobs captured by SHA; no public bundle or competing approval/rejection was found before review."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 ready:true; controlled program political-economy-markets; economic-paradigms-market-design monetary domain; globally scoped research-report, bilingual EN-first metadata and controlled phenomena."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Historical narrative distinguishes eras. November 6, 2026 BIS Working Paper 1392 was published before November 11 manuscript date; IMF COFER Q2 2026 was released September 30, 2026; GENIUS Act was enacted July 18, 2025."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Verified selected official institutional facts with BIS, IMF, Bank of England and US GovInfo; explains silver/accounting before coins, bank liability creation, gold-peg constraints, fiat money, Brazil URV, sovereign reserve composition, and 2026 currency census with explicit scopes."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "29 distinct cited URLs across 21 source hosts (PT and EN), including central banks, BIS, IMF, museums and scholarly works. Primary-source sampling confirmed 67/192/163 active currency observations, 405 discontinued of 568, dollar 56.70%, euro 20.60%, renminbi 2.11%, and the 2025 US stablecoin law. A complete chapter-by-chapter independent archival audit was not executed."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "27 numbered chronological and causal chapters, one reference section, approximately 9,066 EN / 9,917 PT-BR substantive words; banking balance sheets, fiscal capacity, conversion regimes, crises, BR monetary reforms, distribution and five competing monetary scenarios analyzed without generic repeated mini-summaries."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Each locale now includes two quantitatively sourced charts (67/192/163 historical currency counts; 405/163 cumulative status), a comparable regional map, one causal flow, one monetary mind map and a variable matrix table. Exact categorical series and numerical data match across EN/PT; all charts distinguish stock from cumulative status."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Matching 27 chapter order, structural visual signatures, exact numerical chart vectors, dates and qualifications; two localizations use natural terminology and same BIS and IMF source links."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Research narrative begins with substantive account of monetary obligations. No narration of staging, QA or site operations in public manuscripts; politically sensitive claims avoid conspiratorial assumptions and distinguish monetary instrument, liability, issuer and sovereign authority."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Challenges universal textbook barter-to-coin story; identifies cases where monetary stability and credit systems evolved without Lydian coins; fiat and metallic regimes have conditional advantages and costs."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Five conditional futures for monetary architecture, identifying relevant stability, privacy, settlement and fiscal constraints without fabricated point probabilities; distinctions across reserve, deposit, legal tender, and private tokens."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Programmatic parity, citation-host, word-count, metadata and mandatory visual thresholds inspected against repository validator contract. Whole-repository npm and CI/GitHub Actions checks remain unconfirmed and are required downstream before deploy."
+    }
+  },
+  "contrary_evidence": [
+    "No single universal origin of money can be inferred from anthropological or archaeological evidence.",
+    "Currency discontinuation is not the same as state failure and cannot be interpreted as annual hazard from a cumulative 568-unit sample."
+  ],
+  "limitations": [
+    "Source sampling covered primary monetary statistics and high-stakes contemporary legal claims, not independent authentication of each historical paragraph.",
+    "All-repository npm validators and release deployment were not executable in the connector-only review; publishing stage must run repository checks before claiming live release."
+  ],
+  "notes": "Independent QA pass requested through the MT 4/5 reviewer workflow for the revised monetary-history candidate. Approval binds only the currently fetched Git blobs. Publisher must verify SHAs, preserve snapshot and validate release.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-HIST-MONEY-2026-11-11",
+    "slug": "historia-mundial-da-moeda-poder-credito-confianca",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T14:49:00-03:00",
+    "kind": "historical-civilizations-research",
+    "priority": 65,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/historia-mundial-da-moeda-poder-credito-confianca/en.md",
+        "title": "The world history of money: debt, metal, sovereignty and the architecture of trust",
+        "deck": "From ancient debt records to the dollar system and tokenized money: how production, fiscal power, legal institutions, bank balance sheets and political sovereignty shaped money over millennia.",
+        "tags": [
+          "monetary history",
+          "commodity money",
+          "coinage",
+          "credit",
+          "central banks",
+          "Bretton Woods",
+          "dollar",
+          "stablecoins",
+          "CBDC",
+          "economic history"
+        ],
+        "keywords": [
+          "world monetary history",
+          "origin of money",
+          "barter and debt",
+          "Mesopotamia",
+          "Lydia",
+          "gold standard",
+          "bank deposits",
+          "Brazilian Real",
+          "euro",
+          "renminbi",
+          "monetary sovereignty"
+        ],
+        "regime": "long-run monetary history and institutional change",
+        "key_risk": "historical overgeneralization and category errors across distinct monetary institutions",
+        "watch": [
+          "emerging settlement architecture",
+          "official reserve composition",
+          "central-bank digital currency deployment"
+        ],
+        "search_text": "Money origins from pre-coin accounting, Mesopotamian debt and precious metals through Lydia, Roman coinage, Chinese paper currency, global silver, banks, gold standard, Great Depression, Bretton Woods, fiat money, Brazil's Real, dollar dominance and digital tokens."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/historia-mundial-da-moeda-poder-credito-confianca/pt-BR.md",
+        "title": "A história mundial da moeda: dívida, metal, soberania e a arquitetura da confiança",
+        "deck": "Da contabilidade de dívidas antigas ao dólar e ao dinheiro tokenizado: como produção, poder fiscal, instituições jurídicas, balanços bancários e soberania política moldaram a moeda ao longo de milênios.",
+        "tags": [
+          "história monetária",
+          "moeda-mercadoria",
+          "cunhagem",
+          "crédito",
+          "bancos centrais",
+          "Bretton Woods",
+          "dólar",
+          "stablecoins",
+          "moedas digitais",
+          "história econômica"
+        ],
+        "keywords": [
+          "história mundial da moeda",
+          "origem do dinheiro",
+          "escambo e dívida",
+          "Mesopotâmia",
+          "Lídia",
+          "padrão-ouro",
+          "depósitos bancários",
+          "Plano Real",
+          "euro",
+          "renminbi",
+          "soberania monetária"
+        ],
+        "regime": "história monetária de longa duração e mudança institucional",
+        "key_risk": "generalização histórica e confusão de categorias entre instituições monetárias distintas",
+        "watch": [
+          "arquitetura de liquidação emergente",
+          "composição de reservas oficiais",
+          "implementação de moedas digitais de bancos centrais"
+        ],
+        "search_text": "Origem da moeda desde registros pré-cunhagem, dívidas mesopotâmicas e metais preciosos até Lídia, moeda romana, papel chinês, prata mundial, bancos, padrão-ouro, Grande Depressão, Bretton Woods, moeda fiduciária, Plano Real, hegemonia do dólar e tokens digitais."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "currencies",
+      "monetary-policy",
+      "banking-credit",
+      "macroeconomics",
+      "sovereign-debt",
+      "institutions-governance",
+      "inequality-distribution"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "series": "economic-paradigms-market-design",
+    "series_domain": "money-tokenisation-digital-finance"
+  }
+}
