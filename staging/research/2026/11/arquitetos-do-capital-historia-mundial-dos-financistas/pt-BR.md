@@ -650,3 +650,102 @@ A trajetória de **Guilherme Benchimol** e dos parceiros da **XP**, criada em **
 **André Esteves** representa outro perfil: uma carreira construída em banco de investimento, com atuação no **Pactual** e posteriormente na organização que se tornou **BTG Pactual**. A especialização em mercados de capitais, fusões, operações estruturadas, gestão e banco atacadista responde a incentivos distintos dos de um banco comercial de agências. A trajetória incluiu investigação e detenção em **2015**, seguida de decisões judiciais e reorganizações de posições de direção; alegações e decisões definitivas precisam ser distinguidas em qualquer avaliação de responsabilidade. A importância econômica do caso está tanto na expansão do banco quanto na fragilidade reputacional provocada por crises envolvendo dirigentes.
 
 A multiplicação de plataformas e bancos digitais ampliou concorrência e acesso, mas não eliminou riscos de crédito, custódia, liquidez, conflitos de distribuição e proteção do consumidor. Uma instituição que vende fundos não é proprietária de todos os ativos que aparecem nos aplicativos dos clientes. Para entender o tamanho real de um financista moderno, é necessário separar patrimônio pessoal, capital da empresa, ativos sob gestão, carteira de crédito e valores transacionados.
+
+
+## Parte XII — Século XX: quando o investimento se transforma em disciplina
+
+### 64. Benjamin Graham e David Dodd: a tentativa de separar preço e valor
+
+**Benjamin Graham** (1894–1976) nasceu em Londres e cresceu em Nova York, onde a família enfrentou dificuldades econômicas após perdas e a morte do pai. Sua formação na **Universidade Columbia** precedeu uma carreira em Wall Street que incluiu investimento, administração de recursos e ensino. Graham conheceu a prosperidade dos mercados americanos dos anos 1920 e as grandes perdas provocadas pela crise iniciada em 1929. Essa experiência material tornou a margem de segurança uma preocupação mais importante que prever entusiasmo de mercado.
+
+**David Dodd** (1885–1988), também professor em Columbia, desenvolveu com Graham uma abordagem de avaliação baseada em demonstrações, ativos, receitas e capacidade de geração de caixa. A publicação de **Security Analysis em 1934** estabeleceu um conjunto de ferramentas para examinar obrigações e ações como direitos sobre empresas, e não apenas como papéis sujeitos à opinião dos operadores. A [história do investimento em valor da Columbia Business School](https://business.columbia.edu/heilbrunn/about/valueinvestinghistory) reconhece a contribuição de ambos no desenvolvimento da disciplina.
+
+O método de Graham procurava comprar valores mobiliários negociados com desconto suficiente em relação a uma avaliação conservadora. A diferença protegia contra erros de cálculo, deterioração do negócio e mudanças de humor de mercado. O método tinha limitações: um ativo aparentemente barato pode não gerar caixa, a contabilidade pode ocultar perdas e empresas de crescimento tecnológico apresentam vantagens difíceis de capturar pelo valor patrimonial histórico.
+
+O auge intelectual de Graham veio da combinação de gestão, ensino e publicações, incluindo **The Intelligent Investor (1949)**. Sua própria carreira enfrentou períodos de perdas; o reconhecimento posterior não apaga erros nem transforma seus princípios em fórmula para retornos garantidos. A sucessão principal foi intelectual: discípulos, inclusive **Warren Buffett**, adaptaram ideias de preço, valor e proteção contra perdas a empresas de qualidade e horizontes muito longos.
+
+### 65. Philip Fisher: a empresa como sistema de conhecimento e crescimento
+
+**Philip A. Fisher** (1907–2004) desenvolveu uma abordagem diferente da de Graham. Em vez de concentrar-se em ativos líquidos e descontos contábeis, pesquisava qualidade administrativa, capacidade de inovação, relações com fornecedores, competitividade e potencial de expansão. Sua carreira de gestor ganhou destaque na Califórnia e nos setores tecnológicos emergentes. Não pressupunha que uma companhia de alta qualidade fosse boa compra a qualquer preço; buscava reconhecer a diferença entre perspectivas reais de crescimento e reputação passageira.
+
+Seu livro **Common Stocks and Uncommon Profits (1958)** sistematizou a importância de investigar uma empresa para além dos relatórios contábeis. O método conhecido como *scuttlebutt* dependia de ouvir diferentes pessoas próximas ao ecossistema produtivo. Informações obtidas em entrevistas poderiam revelar problemas comerciais, mas também conter boatos ou conflitos de interesse. A capacidade de análise precisava distinguir relato de prova.
+
+A contribuição de Fisher ao investimento de longo prazo influenciou Buffett, que combinou margem de segurança com a busca por empresas de vantagens duráveis. A família também entrou para a história financeira por meio do filho **Kenneth Fisher**, fundador da **Fisher Investments** em 1979, cuja firma contemporânea não é juridicamente idêntica ao escritório de investimentos do pai. Uma linhagem de ideias pode continuar sem que o mesmo patrimônio seja administrado sob a mesma instituição.
+
+### 66. John Templeton: investimento global contra o consenso doméstico
+
+**John Marks Templeton** (1912–2008) nasceu no Tennessee, estudou em Yale e recebeu bolsa Rhodes para Oxford. Sua educação combinou economia, direito e experiência internacional. Em um período em que investidores americanos tendiam a manter aplicações no mercado doméstico, Templeton observou que empresas e oportunidades não obedeciam necessariamente às fronteiras do país de residência do investidor.
+
+Fundou uma empresa de aconselhamento e administração financeira e, em **1954**, lançou o **Templeton Growth Fund**, que se tornou conhecido por uma estratégia global. O método buscava comprar títulos negociados a preços baixos em relação a perspectivas de negócio, frequentemente em mercados desprezados pelo consenso. Diversificação geográfica permitia escapar de problemas locais e exigia avaliar câmbio, direito, contabilidade e riscos políticos.
+
+Sua estratégia não eliminava o risco de investir em países cujos sistemas legais e informações aos acionistas diferiam dos americanos. A compra de um papel estrangeiro expunha o investidor simultaneamente à qualidade da empresa, ao preço do mercado, à moeda e à possibilidade de intervenção estatal. Uma análise de êxito precisa separar esses componentes e reconhecer a sobrevivência seletiva das empresas vencedoras.
+
+Templeton dedicou parte importante de sua fortuna a iniciativas filantrópicas, incluindo fundações voltadas a questões científicas e religiosas. A venda posterior de negócios de administração a grupos maiores demonstrou que a continuidade de uma estratégia pode ocorrer dentro de uma instituição de propriedade diferente. O legado é a ampliação do universo de investimento, mais do que uma dinastia familiar bancária.
+
+### 67. Warren Buffett: educação, parceria e o primeiro ciclo de acumulação
+
+**Warren Edward Buffett** nasceu em **1930**, em Omaha, Nebraska. Seu pai, **Howard Buffett**, era corretor de ações e posteriormente deputado federal. A experiência familiar familiarizou Warren com valores mobiliários, mas a carreira exigiu aprendizado próprio. Estudou na **Universidade de Nebraska** e cursou pós-graduação na **Columbia Business School**, onde teve contato com Benjamin Graham e David Dodd. Trabalhou para Graham antes de desenvolver suas próprias parcerias.
+
+As parcerias de investimento iniciadas em **1956** mobilizavam capital de pessoas próximas e investidores associados, com regras de remuneração que vinculavam resultados à participação do gestor. Buffett buscava empresas e títulos precificados abaixo de seu valor estimado, além de situações especiais nas quais fusões, recompras ou liquidações ofereciam oportunidade. A disciplina de comparar preço e valor tornou-se central, mas suas operações mudariam de natureza à medida que o patrimônio sob gestão crescesse.
+
+Na primeira fase, a capacidade de identificar companhias pequenas, ignoradas ou negociadas abaixo do valor de liquidação oferecia oportunidades que desapareceriam para uma organização gigantesca. A eficiência de mercado não é uniforme entre ativos: negociar pequenas posições pode ser fácil; movimentar bilhões altera o conjunto de escolhas. O próprio crescimento tornou necessário investir em empresas de grande escala e retornos mais persistentes.
+
+Buffett adquiriu progressivamente controle da **Berkshire Hathaway**, então empresa têxtil. A decisão de usar uma companhia industrial como veículo de investimento mudaria sua trajetória. A atividade têxtil acabou demonstrando dificuldades competitivas e necessidade de capital; conservar o nome da empresa não significava que o tecido continuasse a gerar as fortunas posteriores. A transformação da Berkshire em holding dependia de alocar recursos de áreas pouco lucrativas a negócios e investimentos com melhores perspectivas.
+
+### 68. Buffett e Charlie Munger: seguros, float e a empresa de muitas empresas
+
+**Charlie Munger** (1924–2023) nasceu em Omaha, estudou direito em **Harvard** e desenvolveu carreira como advogado e investidor antes de se tornar parceiro intelectual e, posteriormente, vice-presidente da Berkshire. Seu raciocínio enfatizava a qualidade do negócio, incentivos de gestão, custo de oportunidade e capacidade de manter boas empresas por longo período. A parceria entre os dois não consistiu em uma divisão simples de gênio criativo e executor; ambos reformularam seu método à medida que conheciam novas empresas e mercados.
+
+A expansão da Berkshire em seguros foi decisiva. Uma seguradora recebe prêmios antes de pagar muitos sinistros. Enquanto as reservas e o patrimônio devem sustentar obrigações futuras, parte dos recursos pode ser investida de acordo com normas prudenciais. Esse passivo temporariamente disponível é frequentemente chamado de **float**. Sua utilidade depende de disciplina de subscrição: prêmios insuficientes ou sinistros inesperados podem transformar a suposta vantagem em perda. O float não é dinheiro gratuito de propriedade irrestrita do acionista.
+
+A Berkshire desenvolveu participações e controle em seguradoras, ferrovias, energia, manufatura, comércio e companhias listadas. A lógica da alocação de capital passou a combinar decisão central sobre grandes investimentos e autonomia operacional de gestores. O ponto vulnerável de uma estrutura assim é a escolha de dirigentes, a avaliação de conglomerados e a dificuldade de identificar oportunidades suficientemente grandes para alterar resultados.
+
+Buffett também enfrentou episódios controversos. Operações como a aquisição de certas empresas, a gestão de participações e negociações com instituições financeiras durante crises geraram debates sobre poder de barganha. O comprador com muito caixa quando todos precisam vender pode obter termos excepcionais; isso não é necessariamente fraude, mas pode ampliar desigualdade entre quem possui liquidez e quem depende de refinanciamento. Sua imagem filantrópica e as grandes doações prometidas não substituem avaliação de impostos, governança e consequências de concentração patrimonial.
+
+Em **2026**, a Berkshire entrou numa nova etapa de sucessão executiva com **Greg Abel** assumindo a função de CEO no início do ano, depois de décadas de Buffett na liderança operacional. A continuidade dos negócios passa a depender da robustez de dirigentes, sistemas e cultura de capital além da reputação de uma pessoa. O fato de uma organização sobreviver a seu fundador ou líder mais famoso não garante automaticamente que repetirá os retornos históricos.
+
+### 69. Edward C. Johnson II, Edward III e Abigail Johnson: a longa família Fidelity
+
+**Edward C. Johnson II** (1898–1984) fundou a **Fidelity Management & Research Company** em **1946**, num mercado de fundos que crescia junto à expansão da poupança financeira americana. A contribuição não foi um título novo de renda fixa, mas a organização de gestão profissional de investimentos em larga escala. O gestor recebia recursos de cotistas, investia em ativos e cobrava remuneração. Uma empresa assim podia crescer enormemente sem que seus controladores fossem proprietários de todos os títulos dos fundos.
+
+**Edward C. Johnson III** (1930–2022) expandiu a organização, que passou a oferecer fundos e serviços para investidores individuais e institucionais. A Fidelity desenvolveu pesquisa, distribuição, tecnologia de atendimento e produtos diversos, competindo por desempenho e confiança dos clientes. A evolução da organização demonstra que reduzir custos de acesso e ampliar divulgação pode ser tão importante quanto selecionar empresas vencedoras.
+
+**Abigail Johnson** (nascida em 1961), neta do fundador, ingressou profissionalmente no universo de investimentos após estudar em **Hobart and William Smith Colleges** e obter MBA na **Harvard Business School**. Ocupou funções de análise e administração antes de se tornar executiva principal. Sua formação e carreira ocorreram numa empresa de grande complexidade, na qual a sucessão familiar exige legitimidade profissional diante de gestores, funcionários, reguladores e clientes.
+
+O desafio da Fidelity está em equilibrar inovação comercial, taxas, desempenho e conflito de interesses num mercado que passou a valorizar fundos passivos baratos. A dinastia não se compara a uma monarquia hereditária: cotistas podem resgatar recursos, concorrentes pressionam preços e reguladores exigem prestação de contas. A concentração de controle familiar, entretanto, preserva capacidade de determinar estratégia e distribuição de lucros da administradora.
+
+### 70. Peter Lynch: Magellan e o paradoxo de administrar uma fortuna em crescimento
+
+**Peter Lynch** (nascido em 1944) estudou no **Boston College** e obteve MBA na **Wharton School**. Ingressou na Fidelity e assumiu o **Magellan Fund** em **1977**, dirigindo-o até **1990**. A [história do fundo preservada pela Fidelity](https://www.fidelity.com/myfidelity/InsideFidelity/NewsCenter/quickFacts/Magellan.html) registra a passagem de um patrimônio de cerca de US$20 milhões no começo de sua gestão para uma organização muito maior. O [Museum of American Finance](https://www.moaf.org/about/people/peter-lynch) atribui à sua gestão retornos muito elevados no período.
+
+Lynch combinou investigação de companhias, observação de produtos cotidianos, pesquisa financeira e diversificação. Sua popularidade veio da ideia de que consumidores podem reconhecer mudanças relevantes antes que analistas lhes atribuam preço. O método, porém, não é autorização para comprar qualquer ação de uma marca familiar: conhecer um produto não revela margem operacional, dívida, governança ou expectativa já embutida na cotação.
+
+O sucesso criou um problema operacional: conforme o fundo crescia, tornava-se difícil obter grandes participações em empresas menores sem movimentar preços. A habilidade original de investigar centenas de oportunidades precisava de organização de pesquisa, gestores e controles. O crescimento do patrimônio sob gestão pode reduzir a flexibilidade de uma estratégia que funcionava em escala modesta.
+
+Lynch se retirou da administração direta em 1990 e passou a dedicar maior atenção à família e à filantropia. Seu legado está na combinação de análise fundamentalista e comunicação pública, mas suas taxas históricas não são uma promessa para investidores posteriores. É diferente comandar um fundo durante um ciclo específico e construir uma instituição capaz de manter desempenho comparável durante muitas décadas.
+
+### 71. John C. Bogle: a revolução contra os custos da indústria financeira
+
+**John Clifton Bogle** (1929–2019) nasceu em Nova Jersey, viveu dificuldades familiares durante a Grande Depressão e estudou em **Princeton**, onde desenvolveu interesse pela estrutura dos fundos de investimento. A pesquisa universitária influenciou sua convicção de que custos de gestão, distribuição e giro de carteiras podem consumir parte expressiva do resultado financeiro disponível aos cotistas.
+
+Depois de atuar em empresas da indústria de fundos, fundou a **Vanguard em 1975**, com estrutura de controle orientada pelos próprios fundos. Em **31 de agosto de 1976**, foi lançado o **First Index Investment Trust**, posteriormente Vanguard 500 Index Fund, um fundo de índice amplamente acessível a investidores individuais. A [cronologia oficial da Vanguard](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/50-years-50-facts-indexing-since-1976.html) registra a resistência inicial de concorrentes e a expansão subsequente da estratégia.
+
+O princípio era simples, mas economicamente profundo. Antes de custos, o conjunto dos investidores detém o mercado; depois de custos, o retorno agregado líquido é inferior ao mercado pelos gastos necessários à intermediação. Reduzir comissões, taxas e rotatividade melhora o resultado coletivo sem necessidade de identificar antecipadamente cada ação vencedora. A inovação de Bogle foi organizacional e distributiva: transformou uma ideia de investimento passivo em produto de grande escala.
+
+A ascensão da indexação alterou o poder de gestores ativos, corretores e distribuidores. Também criou novas questões: concentração de votos em administradoras de fundos, reprodução mecânica de índices, liquidez e incentivo à pesquisa de preços por participantes ativos. O custo baixo não elimina risco de mercado nem substitui análise de como índices são construídos e governados.
+
+Bogle enfrentou problemas de saúde e divergências de governança ao longo da carreira. Sua contribuição pode ser avaliada pela mudança de custos de intermediação e acesso de investidores, não por supor que controlou todo o patrimônio acumulado sob os fundos da Vanguard. Seu êxito é um caso em que o maior efeito social do financista ocorreu precisamente ao reduzir o preço dos serviços financeiros.
+
+## Parte XIII — Fundos institucionais e a transformação do risco em indústria
+
+### 72. David Swensen: uma universidade muda a teoria operacional do investimento
+
+**David F. Swensen** (1954–2021) nasceu em Iowa, estudou na **University of Wisconsin–River Falls** e obteve doutorado em economia na **Universidade Yale em 1980**, sob influência de professores como **James Tobin**. Trabalhou em Lehman Brothers e Salomon Brothers, onde lidou com operações financeiras estruturadas e participou de atividades pioneiras envolvendo swaps. Essa formação combinava teoria econômica e conhecimento real dos mercados de títulos e derivativos.
+
+Em **1985**, assumiu a gestão do endowment de Yale. Sua função era administrar capital destinado a financiar ensino, pesquisa e despesas de longo prazo. Diferentemente de um fundo de varejo com resgates diários, uma universidade com patrimônio duradouro pode alocar parte dos recursos em ativos pouco líquidos desde que planeje despesas, compromissos de capital e possíveis crises. Essa distinção mudou o universo de oportunidades.
+
+Swensen ampliou o uso de **private equity**, capital de risco, ativos reais e gestores externos especializados, ao lado de reservas e classes tradicionais. O chamado *Yale Model* depende de diversificação de fontes de retorno, seleção rigorosa de gestores e disposição para suportar períodos em que ativos não podem ser vendidos rapidamente. A [Yale School of Management](https://som.yale.edu/centers/swensen-asset-management-institute/overview) atribui a sua gestão resultados de longo prazo expressivos e influência sobre outras instituições.
+
+A estratégia tornou-se exemplo para universidades e fundações, mas seu sucesso não pode ser replicado apenas copiando percentuais. A Yale dispõe de escala, equipes, reputação e acesso a gestores que instituições menores não necessariamente têm. Fundos privados exigem liquidez para chamadas de capital e convivem com avaliações menos frequentes; um portfólio pode aparentar baixa volatilidade porque certos ativos não são marcados a mercado diariamente.
+
+Swensen morreu em 2021, deixando não só patrimônio, mas uma escola de gestores e governança institucional. A sucessão de um diretor de investimentos exige preservar controles, cultura e autonomia diante de pressões políticas da própria universidade. O auge de sua carreira foi também a demonstração de que o investimento de longo prazo pode ser uma função pública ou filantrópica administrada profissionalmente, sem gerar fortuna pessoal equivalente ao patrimônio sob gestão.
