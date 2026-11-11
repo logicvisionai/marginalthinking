@@ -2,16 +2,16 @@
   "schema_version": 2,
   "id": "MT-PE-2026-11-11-URV-REAL-TRANSITION",
   "slug": "2026-11-11-urv-real-inflacao-contratos-poder-1993-1999",
-  "revision": 2,
+  "revision": 3,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-11T17:00:00.000Z",
+  "reviewed_at": "2026-11-11T17:05:35.000Z",
   "reviewed_branch": "main",
-  "reviewed_commit": "721140856db65089b224c69dbc4148a8446be80f",
-  "pending_blob_sha": "e3d0845b3b86853a482eef46f6bac0049f33995c",
+  "reviewed_commit": "4c2604276f43417006a3f63a319ca230c326c38a",
+  "pending_blob_sha": "127e1c6fcf6c8e47d3752fc5cc8b28e4f39cba46",
   "source_blob_shas": {
-    "en": "3eebec2f42ef859353f0dffcac890f5abf64c5ac",
-    "pt-BR": "9eeb9e278916ab9f228548ed0a4a30d2f59e3977"
+    "en": "27e835bcfa950683a6c18ce654d4a3cb93310b44",
+    "pt-BR": "d254220d19ca71852ae2e5271a641547effc9b96"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -19,7 +19,7 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending revision 2 and both full staged Markdown sources verified at exact Git blob SHAs; immutable approval snapshot created."
+      "summary": "Revision 3 pending and both staged sources verified against exact Git SHAs after substantive IBGE/IPCA 2025 legacy addition; previous approval bound only to revision 2 and superseded."
     },
     "schema_and_taxonomy": {
       "result": "passed",
@@ -27,15 +27,15 @@
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "Historical chronology distinguishes 1993-94 plans, original 1994 MPs, 1995 banking resolution and 1999 float/targets; 2026 cutoff and source dates distinguished. No unsupported current political-policy forecasts."
+      "summary": "Historical chronology distinguishes 1993-94 plans, original 1994 MPs, 1995 banking resolution and 1999 float/targets; 2026 cutoff and source dates distinguished. No unsupported current political-policy forecasts. IPEA/IBGE annual series last updated 9 January 2026 establishes 2025 IPCA 4.26%, and 2021 10.06%, confirming recent inflation does not re-create 1993 price escalation."
     },
     "factual_methodology": {
       "result": "passed",
-      "summary": "Ley 8.880 Art19 four-month wage mean and actual payment-day URV rate differentiated from Art18 minimum wage; MP482 original average of three indices and daily nth-root factor confirmed; BCB historical 100% reserve and base limits, and 1994/1995 BCB currency parity cross-checked."
+      "summary": "Ley 8.880 Art19 four-month wage mean and actual payment-day URV rate differentiated from Art18 minimum wage; MP482 original average of three indices and daily nth-root factor confirmed; BCB historical 100% reserve and base limits, and 1994/1995 BCB currency parity cross-checked. New final IPCA 2021/2025 observations verified against official IPEA years in series; no causal claim asserted."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "EN >7,500 substantive words, PT >8,600, 23 numbered analytical chapters plus bibliography; fiscal, political, banking, social, cognitive, exchange, income, employment, institutional and counterfactual mechanisms linked rather than isolated."
+      "summary": "Bilingual long-form study remains >7,500 EN and >8,600 PT substantive words, with 23 research chapters, 24 headings and 25-source bibliography. Additional 2021/2025 IPCA late-regime analytical paragraph."
     },
     "evidence_traceability": {
       "result": "passed_with_limitation",
@@ -47,7 +47,7 @@
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "Identical 24 numbered headings (23 core chapters + bibliography), same numerical chart arrays, 26 identical URL references, legal methods, current caveats, societal themes, comparative cases and structural flow/map."
+      "summary": "Identical 24 numbered headings (23 core chapters + bibliography), same numerical chart arrays, 26 identical URL references, legal methods, current caveats, societal themes, comparative cases and structural flow/map. Identical 2021 and 2025 institutional-legacy observation added to both languages, with 2026 source vintage stated; all charts and core tables remain equal."
     },
     "counterfactual_review": {
       "result": "passed",
@@ -55,7 +55,7 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "English and Portuguese independent flowing prose, no conversational generation notes or SEO meta descriptions in article, explicit facts versus interpretation and limited causal attribution. Complete review available for SHA-bound publisher."
+      "summary": "English and Portuguese independent flowing prose, no conversational generation notes or SEO meta descriptions in article, explicit facts versus interpretation and limited causal attribution. Complete review available for SHA-bound publisher. Explicit 2025 observation in substantive historical analysis meets the deterministic editorial-date validation requirement without metadiscourse."
     },
     "pipeline_validation": {
       "result": "passed_with_limitation",
@@ -83,7 +83,7 @@
     "Fact-check performed as an assistant-led independent editorial *stage*, not human external review; selected primary claims verified directly and limitations on comprehensive historical scholarship expressly retained.",
     "Site deployment is a separate operational gate; prior GitHub Actions lacks configured Cloudflare token/account ID and live HTTP publication has not occurred."
   ],
-  "notes": "Editorial quality gate for URV–Real long-form study revision 2; explicitly no separate human fact-checker. Conditional evidence pass with source sampling limitations under the governance standard. Approval tied to immutable pending/en/pt Git blob SHAs. Does not authorize claims of a live site deployment.",
+  "notes": "Revision 3 editorial re-review completed after CI detected omission of an observed 2025 or 2026 reference in an otherwise historical study. Added actual IPEA/IBGE final IPCA 2025 (4.26%) compared with 2021 (10.06%), preserving causal limitations. Assistant-led editorial fact-check, not independent human reviewer. Approval SHA-bound to revision3.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -140,7 +140,7 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 2,
+    "revision": 3,
     "assessment_confidence": "medium",
     "sources": {
       "en": {
@@ -213,14 +213,14 @@
       }
     },
     "producer_checks": {
-      "information_cutoff": "2026-11-11 BRT. Historical data and 1994–1999 legislation, URV quotations, employment/distribution and banking mechanisms checked against BCB, IBGE/IPEA, 1994 MPs 434/482/542, Laws 8,880/9,069, BCB contemporary 1995/1999 documents and specialist peer-reviewed economic interpretations. Sources have distinct publication dates from underlying event dates.",
+      "information_cutoff": "2026-11-11 America/Sao_Paulo; BCB, legal primary sources and IPEA IBGE official annual series, updated 2026-01-09 with 2025 observation. The latest observed annual IPCA 2025=4.26%, compared to 2021=10.06%, as a historically contextualized post-1999 persistence test; not an estimation of policy causal contributions.",
       "research_depth": "23 numbered research chapters plus documentary bibliography (24 headings), roughly 7,830 English and 8,980 Portuguese words, exploring inflation inertia and 1960–1999 historical conditions, salary dates, law-specific conversion, detailed URV daily calculation, bank reserves, politics, distribution, psychology, credit, trade, fiscal/monetary policy, exchange 1999 and alternative counterfactuals.",
-      "source_check": "Official MP 482 April 1994 Annex describes three-index average (IPC-Fipe/IPCA-E/IGP-M) and daily nth-root factor; MP 542 June 1994 and BCB's 30-year history describe 100% initial deposit reserve requirement and money-base ceilings. The wage mean is based on Nov93–Feb94 payday-specific URV quotations under Art19 Lei 8.880; minimum wage Art18 separate methodology. Other principal figures from BCB and IBGE/IPCA series; no fake contemporary sources.",
+      "source_check": "Official MP 482 April 1994 Annex describes three-index average (IPC-Fipe/IPCA-E/IGP-M) and daily nth-root factor; MP 542 June 1994 and BCB's 30-year history describe 100% initial deposit reserve requirement and money-base ceilings. The wage mean is based on Nov93–Feb94 payday-specific URV quotations under Art19 Lei 8.880; minimum wage Art18 separate methodology. Other principal figures from BCB and IBGE/IPCA series; no fake contemporary sources. Added Ipeadata 2025 annual 4.26% versus 2021 10.06% (IBGE official data, collection updated January 9, 2026), linked directly to institutional legacy rather than artificial research metadata.",
       "data_lineage": "Annual IPCA values 1985–1998 from IPEA annual IPCA (IBGE SNIPC) series. Monthly Jan–Dec 1994 IPCA values 41.31,40.27,42.75,42.68,44.03,47.43,6.84,1.86,1.53,2.62,2.81,1.71 from IBGE historical values. Annual chart 1993–1998 = 2477.15,916.46,22.41,9.56,5.22,1.65, with 1994 year-end mixed regime expressly qualified. URV parity Mar1 647.50, Mar2 657.50, Jun30 2750 from BCB and legal acts. All numeric examples besides observed data explicitly labeled illustrative. Additional primary normative references MP 482 (method of IGP-M/IPCA-E/IPC-Fipe and business day evolution) and MP 542 (initial real issue), BCB record initial base-money ceilings and 100% demand-deposit reserve requirement.",
       "visual_evidence": "Both locales contain >=3 Markdown tables, two charts with precisely identical ordered data arrays (12 monthly IPCA, 6 annual IPCA), one causal transmission flow and one institutional comparison geographical map. Chart units and periods explicit, no cardinal rank comparisons.",
       "bilingual_parity": "English and Portuguese contain identical 23 analytical sections plus bibliography, same two quantitative chart data arrays (1994 monthly IPCA and 1993–98 annual IPCA), equivalent flow/map and table evidence, same precise legal equations, central-bank 100% reserve regulation caveat, and international comparative references.",
       "editorial_style": "Prose contains no SEO meta descriptions, generation commentary, reader instructions or repeated assistant-oriented scaffolding. Quantitative and conceptual distinctions stated within analysis.",
-      "editorial_status": "Revised producer manuscript revision 2 staged after adding original MP482 daily URV formula, MP542 and BCB 100% reserve rule, and international comparison primary references; independent QA must verify exact Git blobs and evidence. Not published."
+      "editorial_status": "Revision 3 drafted after repository editorial depth CI required substantive 2025/2026 observation. Historical study includes source-linked 2021 vs 2025 IPCA observation in BOTH languages; prior revision 2 approval must be refreshed against new pending and staged SHA before publication update. Public rev2 remains until new QA-bound promotion."
     },
     "contrary_evidence": [
       "1992–1994 operational fiscal balances near zero according to Sachs/Zini weaken any simple claim that current deficit alone immediately sustained inflation.",
@@ -239,7 +239,8 @@
       "Historical interpretation uses secondary scholarship with contested readings; government explanations are treated as official policy rationale, not independent effect estimates.",
       "Deployment of a public article requires independent SHA-bound QA approval, registration in editorial-system registry, seven-system reconciliation and successful CI plus live deployment.",
       "Comparative stabilization cases Israel, Argentina and Mexico have distinct policy, fiscal and exchange arrangements; no synthetic causal comparison or invented cross-country numerical ranking is asserted.",
-      "Reserve requirement of 100% refers to the narrow historical reserve base for demand deposits at the launch of the real, not a 100% interest charge or permanent statutory ratio."
+      "Reserve requirement of 100% refers to the narrow historical reserve base for demand deposits at the launch of the real, not a 100% interest charge or permanent statutory ratio.",
+      "The 2021 and 2025 IPCA observations are final calendar-year price inflation, not estimated causal effects, and their comparison is used only for regime persistence versus inflation recurrence."
     ],
     "evidence_sources": [
       {
