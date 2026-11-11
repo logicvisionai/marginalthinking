@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-HIST-ECONOMISTS-2026-11-11",
+  "slug": "economistas-que-transformaram-o-mundo-historia-completa",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T17:26:00-03:00",
+  "kind": "historical-economic-thought-research",
+  "priority": 55,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/economistas-que-transformaram-o-mundo-historia-completa/en.md",
+      "title": "Economists who transformed the world: from the earliest theories of wealth to economics in 2026",
+      "deck": "An intellectual history of economic thought through 146 biographical and analytical sections, from ancient India, China and the Mediterranean to classical, Marxian, Austrian, Keynesian, developmental, institutional and contemporary economics.",
+      "tags": [
+        "history of economic thought",
+        "economists",
+        "biographies",
+        "economic history",
+        "macroeconomics",
+        "political economy",
+        "development",
+        "Brazil",
+        "Nobel economics"
+      ],
+      "keywords": [
+        "Xenophon",
+        "Aristotle",
+        "Ibn Khaldun",
+        "Kautilya",
+        "Adam Smith",
+        "David Ricardo",
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Joan Robinson",
+        "Friedrich Hayek",
+        "Milton Friedman",
+        "Elinor Ostrom",
+        "Celso Furtado",
+        "Maria da Conceição Tavares",
+        "Robert Hall",
+        "Michael Woodford"
+      ],
+      "regime": "long-run history of political economy and economic thought",
+      "key_risk": "anachronism, ideological attribution and conflation of theoretical claims with proven empirical outcomes",
+      "watch": [
+        "revisions in economic historiography",
+        "new empirical evidence",
+        "macroeconomic policy design",
+        "2026 award research"
+      ],
+      "search_text": "Comparative biographies of 146 chapters from ancient economic thought through mercantilism, classical economists, Marx, marginalists, Keynesian and monetarist macroeconomics, development economics, Brazilian political economy, behavioural economics and Nobel research through 2026."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/economistas-que-transformaram-o-mundo-historia-completa/pt-BR.md",
+      "title": "Economistas que transformaram o mundo: das primeiras teorias da riqueza à economia de 2026",
+      "deck": "História intelectual em 146 seções biográficas e analíticas, da Índia, China e Mediterrâneo antigos às escolas clássica, marxista, austríaca, keynesiana, desenvolvimentista, institucional e contemporânea, incluindo o pensamento econômico brasileiro.",
+      "tags": [
+        "história do pensamento econômico",
+        "economistas",
+        "biografias",
+        "história econômica",
+        "macroeconomia",
+        "economia política",
+        "desenvolvimento",
+        "Brasil",
+        "prêmio de Economia"
+      ],
+      "keywords": [
+        "Xenofonte",
+        "Aristóteles",
+        "Ibn Khaldun",
+        "Kautilya",
+        "Adam Smith",
+        "David Ricardo",
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Joan Robinson",
+        "Friedrich Hayek",
+        "Milton Friedman",
+        "Elinor Ostrom",
+        "Celso Furtado",
+        "Maria da Conceição Tavares",
+        "Robert Hall",
+        "Michael Woodford"
+      ],
+      "regime": "história de longa duração da economia política e do pensamento econômico",
+      "key_risk": "anacronismo, atribuição ideológica e confusão entre teoria e resultado empírico comprovado",
+      "watch": [
+        "revisões da historiografia econômica",
+        "novas evidências empíricas",
+        "desenho da política macroeconômica",
+        "pesquisas premiadas em 2026"
+      ],
+      "search_text": "Biografias comparadas em 146 seções, do pensamento antigo a mercantilismo, economia clássica, Marx, marginalismo, keynesianismo, monetarismo, desenvolvimento, pensamento brasileiro, economia comportamental e pesquisas premiadas até 2026."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "institutions-governance",
+    "inequality-distribution",
+    "industry-production",
+    "trade-investment",
+    "demography-labor",
+    "technology-innovation",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "series": "economic-paradigms-market-design",
+  "series_domain": "economic-thought-policy-paradigms"
+}
