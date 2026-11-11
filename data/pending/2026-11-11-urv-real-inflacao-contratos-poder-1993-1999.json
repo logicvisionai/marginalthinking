@@ -54,7 +54,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -127,14 +127,14 @@
     }
   },
   "producer_checks": {
-    "information_cutoff": "2026-11-11 America/Sao_Paulo. Historical facts rechecked against relevant original 1994 legislation, Central Bank contemporaneous and anniversary material, official IBGE/IPEA series, contemporary economic scholarship, and 1999 Central Bank foreign-exchange documents. Source publication date and historical event dates distinguished.",
-    "research_depth": "23 substantive numbered chapters plus complete bibliography, approximately 7,450 English words and 8,550 Portuguese words. Includes causal mechanisms of contract indexation, monetary unit-of-account separation, distribution, banking, politics, psychology, external finance and long-run institutional legacies.",
-    "source_check": "18 bibliographical references with 19 unique report source URLs, mostly statutes, Central Bank, IBGE, IPEA, FGV and scholarly journals. Specific legal clauses traced to Lei 8.880 arts 1–19, 26–27 and 38. Distinguishes facts from contested historical interpretations and illustrative counterfactual scenarios.",
-    "data_lineage": "Annual IPCA values 1985–1998 from IPEA annual IPCA (IBGE SNIPC) series. Monthly Jan–Dec 1994 IPCA values 41.31,40.27,42.75,42.68,44.03,47.43,6.84,1.86,1.53,2.62,2.81,1.71 from IBGE historical values. Annual chart 1993–1998 = 2477.15,916.46,22.41,9.56,5.22,1.65, with 1994 year-end mixed regime expressly qualified. URV parity Mar1 647.50, Mar2 657.50, Jun30 2750 from BCB and legal acts. All numeric examples besides observed data explicitly labeled illustrative.",
+    "information_cutoff": "2026-11-11 BRT. Historical data and 1994–1999 legislation, URV quotations, employment/distribution and banking mechanisms checked against BCB, IBGE/IPEA, 1994 MPs 434/482/542, Laws 8,880/9,069, BCB contemporary 1995/1999 documents and specialist peer-reviewed economic interpretations. Sources have distinct publication dates from underlying event dates.",
+    "research_depth": "23 numbered research chapters plus documentary bibliography (24 headings), roughly 7,830 English and 8,980 Portuguese words, exploring inflation inertia and 1960–1999 historical conditions, salary dates, law-specific conversion, detailed URV daily calculation, bank reserves, politics, distribution, psychology, credit, trade, fiscal/monetary policy, exchange 1999 and alternative counterfactuals.",
+    "source_check": "Official MP 482 April 1994 Annex describes three-index average (IPC-Fipe/IPCA-E/IGP-M) and daily nth-root factor; MP 542 June 1994 and BCB's 30-year history describe 100% initial deposit reserve requirement and money-base ceilings. The wage mean is based on Nov93–Feb94 payday-specific URV quotations under Art19 Lei 8.880; minimum wage Art18 separate methodology. Other principal figures from BCB and IBGE/IPCA series; no fake contemporary sources.",
+    "data_lineage": "Annual IPCA values 1985–1998 from IPEA annual IPCA (IBGE SNIPC) series. Monthly Jan–Dec 1994 IPCA values 41.31,40.27,42.75,42.68,44.03,47.43,6.84,1.86,1.53,2.62,2.81,1.71 from IBGE historical values. Annual chart 1993–1998 = 2477.15,916.46,22.41,9.56,5.22,1.65, with 1994 year-end mixed regime expressly qualified. URV parity Mar1 647.50, Mar2 657.50, Jun30 2750 from BCB and legal acts. All numeric examples besides observed data explicitly labeled illustrative. Additional primary normative references MP 482 (method of IGP-M/IPCA-E/IPC-Fipe and business day evolution) and MP 542 (initial real issue), BCB record initial base-money ceilings and 100% demand-deposit reserve requirement.",
     "visual_evidence": "Both locales contain >=3 Markdown tables, two charts with precisely identical ordered data arrays (12 monthly IPCA, 6 annual IPCA), one causal transmission flow and one institutional comparison geographical map. Chart units and periods explicit, no cardinal rank comparisons.",
-    "bilingual_parity": "English and PT-BR report have identical 23 numbered analytical sections, same bibliography URLs, inflation series and two chart numeric arrays, parallel legal interpretation, 1999 chronology, distributional qualifications, causal scope and counterfactuals.",
+    "bilingual_parity": "English and Portuguese contain identical 23 analytical sections plus bibliography, same two quantitative chart data arrays (1994 monthly IPCA and 1993–98 annual IPCA), equivalent flow/map and table evidence, same precise legal equations, central-bank 100% reserve regulation caveat, and international comparative references.",
     "editorial_style": "Prose contains no SEO meta descriptions, generation commentary, reader instructions or repeated assistant-oriented scaffolding. Quantitative and conceptual distinctions stated within analysis.",
-    "editorial_status": "Producer staging complete; QA approval tied to exact pending and source Git blob SHAs required before public materialization. No public metadata, reports/index entry or public deployment performed."
+    "editorial_status": "Revised producer manuscript revision 2 staged after adding original MP482 daily URV formula, MP542 and BCB 100% reserve rule, and international comparison primary references; independent QA must verify exact Git blobs and evidence. Not published."
   },
   "contrary_evidence": [
     "1992–1994 operational fiscal balances near zero according to Sachs/Zini weaken any simple claim that current deficit alone immediately sustained inflation.",
@@ -151,7 +151,9 @@
     "No econometric causal attribution of each URV, fiscal, exchange or interest channel; counterfactuals explicitly remain scenarios.",
     "Claims of lower poverty and improved food affordability are limited by survey coverage and employment changes.",
     "Historical interpretation uses secondary scholarship with contested readings; government explanations are treated as official policy rationale, not independent effect estimates.",
-    "Deployment of a public article requires independent SHA-bound QA approval, registration in editorial-system registry, seven-system reconciliation and successful CI plus live deployment."
+    "Deployment of a public article requires independent SHA-bound QA approval, registration in editorial-system registry, seven-system reconciliation and successful CI plus live deployment.",
+    "Comparative stabilization cases Israel, Argentina and Mexico have distinct policy, fiscal and exchange arrangements; no synthetic causal comparison or invented cross-country numerical ranking is asserted.",
+    "Reserve requirement of 100% refers to the narrow historical reserve base for demand deposits at the launch of the real, not a 100% interest charge or permanent statutory ratio."
   ],
   "evidence_sources": [
     {
@@ -242,6 +244,41 @@
     {
       "name": "SciELO — Plano Real e o debate de ideias e centralização monetária",
       "url": "https://new.scielo.br/j/rbcsoc/a/pFx5LNSgJrTMCB4Bkfmrkqb/?format=html&ilang=pt_BR&lang=pt",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "MP 482 April 1994 original explanatory annex URV average of three price indices and business-day accumulation",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-482-28-abril-1994-374305-exposicaodemotivos-1-pe.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "MP 542 June 1994 issuance of real and contractual conversion",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-542-30-junho-1994-375071-publicacaooriginal-1-pe.html",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil BCB 30th Real anniversary detailed fiscal and monetary mechanisms",
+      "url": "https://www.bcb.gov.br/controleinflacao/planoreal?modalAberto=30anosreal_noticia1",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Argentina official historical Convertibility Law 23,928/1991",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-23928-328",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "IMF — Israel stabilization program 1985",
+      "url": "https://www.elibrary.imf.org/view/book/9781557750341/ch014.xml",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "IMF — Mexico 1994 peso crisis retrospective",
+      "url": "https://www.elibrary.imf.org/view/journals/001/1995/112/article-A001-en.xml",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "IMF — Brazil Real Plan fiscal and external vulnerability historical assessment",
+      "url": "https://www.elibrary.imf.org/view/journals/023/0031/010/article-A002-en.xml",
       "accessed_at": "2026-11-11"
     }
   ]
