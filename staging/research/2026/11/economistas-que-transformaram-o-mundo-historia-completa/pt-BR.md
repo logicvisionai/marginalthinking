@@ -1137,3 +1137,124 @@ Strange criticou a tendência de explicar fluxos de capital por modelos de preç
 Em ***Asia's Next Giant: South Korea and Late Industrialization* (1989)**, estudou como a Coreia do Sul combinou crédito dirigido, proteção seletiva, política de exportação e cobrança de resultados de empresas favorecidas. A intervenção podia criar aprendizagem produtiva quando governos exigiam desempenho e eram capazes de retirar apoio a firmas ineficientes.
 
 A experiência não prova que qualquer subsídio produzirá uma nova Coreia do Sul. A capacidade administrativa, acesso a mercados externos, educação, geopolítica e condições de concorrência são fundamentais. Amsden insistiu que aprender a produzir tecnologias complexas exige instituições e investimento, contestando leituras que atribuíam a industrialização apenas ao ajuste automático de preços.
+
+
+## XIII — As controvérsias que permaneceram abertas
+
+### 120. O valor vem do trabalho, da utilidade ou das instituições?
+
+Smith tratou trabalho, produtividade e preços em relações diferentes conforme o horizonte e o tipo de sociedade. Ricardo buscou explicar distribuição e valores relativos a partir de condições de produção; Marx articulou valor, trabalho e exploração dentro das relações capitalistas de propriedade. Jevons, Menger e Walras reformularam o problema em torno de escassez, preferências e decisões marginais. Sraffa demonstrou como relações de produção e distribuição podem sustentar um sistema de preços sem partir de utilidades individuais.
+
+Os modelos não respondem necessariamente à mesma pergunta. Um empreendedor deseja prever quanto clientes pagarão amanhã; um historiador quer explicar como lucros se distribuem entre classes; um regulador precisa identificar poder de mercado; um trabalhador quer saber como salário é determinado. A teoria marginal pode descrever escolhas dadas as restrições e deixar em segundo plano a origem histórica dessas restrições. Uma teoria de classe pode analisar distribuição sem prever de maneira precisa preços de cada produto.
+
+A disputa não se resolve por declarar que uma escola “venceu” após 1871. Para cada afirmação, importa separar definição, hipótese, mecanismo e capacidade de previsão. Preços de mercado expressam decisões sob restrições e instituições; seu funcionamento concreto depende de informação, direitos de propriedade, concorrência e políticas públicas, além de custos técnicos e preferências.
+
+### 121. O que produz crescimento: poupança, indústria, instituições ou inovação?
+
+Ricardo e os clássicos examinaram capital, terra e produtividade; List enfatizou formação de capacidades industriais nacionais; Schumpeter, Romer e Aghion–Howitt introduziram o papel de inovação e mudança tecnológica; Solow isolou a contribuição de produtividade não explicada pela simples expansão de insumos. Prebisch, Furtado e Amsden insistiram que estrutura produtiva, posição internacional e política industrial condicionam oportunidades. North, Acemoglu e Robinson vincularam desenvolvimento a regras e distribuição do poder.
+
+Essas interpretações são parcialmente complementares. Sem infraestrutura jurídica, máquinas podem não chegar; sem engenharia, direitos de propriedade não fabricam semicondutores; sem educação, novas tecnologias podem ampliar desigualdade; sem demanda, uma empresa promissora pode falhar antes de alcançar escala. A relação causal precisa ser examinada por setor, período e política, e não por uma escolha metafísica entre Estado e mercado.
+
+A experiência de países que industrializaram após 1950 demonstra trajetórias diferentes. Proteção comercial ajudou alguns setores sob disciplina de exportação e desempenho, enquanto em outros casos sustentou firmas incapazes de competir. A presença do Estado não informa sozinha a qualidade da estratégia: capacidade de avaliação, competição, financiamento e possibilidade de correção determinam os resultados.
+
+### 122. As crises são choques externos ou produto das finanças?
+
+Malthus e Sismondi perceberam a possibilidade de insuficiência de demanda; Keynes enfatizou incerteza e decisão de investimento; Fisher descreveu dívida-deflação; Minsky analisou a fragilidade que cresce durante períodos estáveis. Friedman e Schwartz mostraram como a contração monetária e falhas bancárias amplificaram a Grande Depressão. Lucas, Sargent e outros procuraram modelar expectativas e efeitos de políticas sob regras diferentes.
+
+As interpretações não têm de ser exclusivas. Um choque de energia pode reduzir oferta; a queda de renda pode diminuir demanda; o aumento de juros pode agravar dívidas; bancos com ativos frágeis podem restringir crédito; expectativas podem tornar a política mais ou menos eficaz. A diferença entre recessão transitória e depressão profunda depende de balanços, resposta do governo, rede de proteção social e posição externa.
+
+Não se pode inferir a causa de uma crise apenas de uma curva de inflação ou de juros. É preciso distinguir variáveis reais, nominais, financeiras, políticas e internacionais, reconstruindo sequência de eventos e quem suportou as perdas.
+
+### 123. O Estado corrige falhas ou cria novos problemas?
+
+Quesnay e Turgot defendiam reformas contra privilégios; Smith criticou monopólios privados favorecidos pelo poder público; List e Prebisch viram razões para desenvolver capacidades produtivas; Kalecki destacou interesses políticos que se opõem ao emprego pleno; Hayek examinou limites da informação estatal; Buchanan e Tullock estudaram incentivos políticos; Ostrom mostrou formas de governança que escapam à dicotomia entre privatização e comando central.
+
+Uma intervenção pode corrigir externalidade, desigualdade de informação ou insuficiência de infraestrutura. Também pode criar privilégios, corrupção ou preços desconectados dos custos. A diferença depende do instrumento, da execução, da possibilidade de avaliar resultados e das instituições que limitam uso arbitrário de autoridade.
+
+A propriedade pública não garante interesse público; a propriedade privada não garante concorrência. Na economia real, instituições mistas, contratos, mercados regulados e organizações comunitárias interagem de maneira variável. A qualidade do arranjo exige examinar alternativas concretas, não slogans.
+
+### 124. Qual é o custo de transformar economia em uma disciplina matemática?
+
+Walras e Edgeworth ampliaram a clareza dos conceitos de equilíbrio e troca; Slutsky, Frisch e Haavelmo trouxeram técnicas de análise de dados; Arrow e Debreu demonstraram resultados rigorosos sob hipóteses explícitas; Tinbergen transformou variáveis agregadas em instrumentos de planejamento. A matemática tornou erros de lógica mais fáceis de detectar e permitiu comparações sistemáticas.
+
+O risco surge quando a facilidade de resolver o modelo se torna mais importante do que sua relação com o fenômeno. Representar uma economia com um único consumidor e uma única empresa pode ser útil em aula, mas não demonstra que distribuição de renda, bancos, poder de mercado e conflito político sejam irrelevantes. Parâmetros estimados podem ser instáveis quando políticas mudam, e dados coletados por instituições podem excluir informalidade, trabalho doméstico e grupos discriminados.
+
+O avanço de experimentos, inferência causal e grandes bases de dados responde a parte desses problemas, sem eliminá-los. A pergunta científica continua sendo se as evidências são capazes de distinguir explicações rivais e se os resultados se mantêm quando aplicados além do conjunto original de observações.
+
+### 125. Por que a história da economia não termina com um prêmio?
+
+O prêmio de Economia, criado em 1968 e concedido a partir de **1969**, distingue contribuições avaliadas por um comitê específico. Seu registro histórico é uma fonte valiosa para conhecer pesquisas que mudaram a disciplina, mas não é uma relação exaustiva de autores indispensáveis: Adam Smith, Marx e Keynes morreram antes de sua existência; Joan Robinson, Anna Schwartz, Prebisch e Celso Furtado não o receberam; obras de autores fora do circuito acadêmico central podem influenciar sociedades por caminhos diferentes.
+
+```chart
+type: bar
+title: Laureados no prêmio de Economia — anos selecionados, contagem de pessoas
+unit: pessoas laureadas por ano
+1969 | 2
+1974 | 2
+2009 | 2
+2019 | 3
+2023 | 1
+2024 | 3
+2025 | 3
+2026 | 2
+```
+
+A contagem usa a lista de laureados da [American Economic Association](https://www.aeaweb.org/about-aea/honors-awards/nobel-laureates) e comunicados oficiais de 2025 e 2026. São **anos selecionados**, não distribuição anual completa de prêmios, e o número de pessoas premiadas não indica qualidade, importância ou produtividade agregada das pesquisas em cada ano.
+
+O caráter coletivo da ciência econômica também impede atribuir um avanço inteiro a um único premiado. Pesquisas contemporâneas dependem de bancos de dados, funcionários públicos, assistentes, entrevistadores, estatísticos, engenheiros de software, parceiros e comunidades que fornecem informações. A história de ideias se torna menos precisa quando transforma colaboração em biografias de gênios solitários.
+
+### 126. A economia e a inteligência artificial: conhecimento, trabalho e organização
+
+A automação por inteligência artificial apresenta dificuldades que as teorias clássicas ajudam a formular, mas não resolvem de maneira automática. O modelo de crescimento de Solow distingue expansão de fatores e produtividade; Romer explica spillovers de conhecimento; Schumpeter e Aghion–Howitt mostram que novas tecnologias substituem negócios antigos; Goldin evidencia como regras familiares e profissionais alteram a distribuição de ganhos; Ostrom chama atenção para governança de recursos e dados compartilhados.
+
+Os efeitos sobre trabalho dependem de quais tarefas são substituídas e quais complementadas, de barreiras de entrada, da propriedade dos sistemas, de treinamento e do poder de barganha. A introdução de uma ferramenta que produz texto ou código com custo marginal baixo pode aumentar produtividade e, simultaneamente, deslocar tarefas e concentrar receitas em fornecedores de infraestrutura. O resultado não é determinado apenas pela capacidade técnica de um modelo.
+
+A política econômica enfrenta decisões sobre propriedade intelectual, treinamento, educação, competição, segurança, tributação e financiamento de inovação. A história mostra que ganhos tecnológicos podem levar décadas para aparecer em estatísticas agregadas e que sua distribuição depende das instituições. Previsões categóricas de desemprego universal ou prosperidade automática extrapolam além das evidências disponíveis.
+
+```mindmap
+Pensamento econômico e suas disputas
+- Valor e preços
+  - produção: Ricardo, Marx, Sraffa
+  - utilidade e escassez: Menger, Jevons, Walras
+  - mercados reais: Marshall, Robinson, Akerlof
+- Crescimento e desenvolvimento
+  - produtividade: Smith, Solow, Romer
+  - transformação industrial: List, Prebisch, Furtado
+  - instituições: North, Ostrom, Acemoglu
+- Moeda, ciclos e crises
+  - crédito: Wicksell, Fisher, Minsky
+  - demanda: Keynes, Kalecki
+  - regras e expectativas: Friedman, Lucas, Woodford
+- Distribuição e sociedade
+  - desigualdade: Piketty, Saez, Zucman
+  - capacidades: Sen, Goldin
+  - decisões: Kahneman, Thaler
+```
+
+## XIV — A economia como disputa de interpretações e responsabilidades
+
+O filósofo da Antiguidade procurava estabelecer justiça e ordem em cidades que dependiam de trabalho hierarquizado. O mercantilista auxiliava governos que competiam por metais, navios e receitas. O fisiocrata explicava a circulação do excedente agrário; o clássico procurava compreender produção e distribuição no capitalismo industrial nascente. Marx situou a relação entre capital e trabalho num sistema histórico conflituoso; o marginalista modelou escolhas e preços; o econometrista transformou hipóteses em relações passíveis de teste; o macroeconomista da Depressão examinou por que o desemprego podia persistir; economistas do desenvolvimento questionaram se receitas de países ricos se aplicavam às periferias.
+
+Nenhuma trajetória tornou as anteriores inteiramente obsoletas. A importância da divisão do trabalho não desapareceu com a matemática de Walras; o papel do crédito que Wicksell examinou não foi anulado pelo estudo da moeda de Friedman; as dificuldades de informação estudadas por Hayek não impediram que Ostrom documentasse comunidades capazes de construir regras; a análise de crescimento de Solow não tornou irrelevantes as desigualdades estruturais de Furtado.
+
+O conhecimento econômico avançou quando seus autores expuseram mecanismos verificáveis, aceitaram a possibilidade de refutação e reconheceram o que as instituições de seu tempo permitiam observar. Retrocedeu quando uma escola transformou hipóteses em certezas universais, confundiu preferências políticas com evidência empírica ou tratou grupos humanos como variáveis dispensáveis porque eram difíceis de medir.
+
+A riqueza de uma sociedade depende de trabalho, conhecimento, recursos naturais, instituições e cooperação. Como esses elementos são coordenados, como as crises distribuem perdas e quem participa dos ganhos continuam questões econômicas e políticas inseparáveis. A economia não encontrou sua última teoria; acumulou instrumentos para formular perguntas melhores e confrontar respostas com a vida material das pessoas.
+
+## Referências documentais e bibliografia
+
+**História antiga e pré-moderna.** Xenofonte, *Oeconomicus*; Aristóteles, *Política* e *Ética a Nicômaco*; *Arthashastra* (edições críticas e debates de atribuição); *Guanzi* e *Yantielun* (tradições textuais da China); Abu Yusuf, *Kitab al-Kharaj*; al-Ghazali, *Ihya Ulum al-Din*; Ibn Khaldun, *Muqaddimah*; al-Maqrizi, obras sobre crises e preços do Egito; [Oxford Handbook of International Political Economy, introdução às tradições antigas](https://academic.oup.com/edited-volume/61835/chapter/546989271); [The New Palgrave Dictionary of Economics](https://www.palgrave.com/gp/book/9781349951888).
+
+**Mercantilismo, fisiocracia e clássicos.** Nicole Oresme, *De moneta*; Martín de Azpilcueta, textos sobre câmbio; Jean Bodin, *Réponse au paradoxe de M. de Malestroit*; Antonio Serra, *Breve trattato* (1613); Thomas Mun, *England's Treasure by Forraign Trade* (1664); William Petty, *Political Arithmetick*; Richard Cantillon, *Essai* (1755); François Quesnay, *Tableau économique* (1758); A. R. J. Turgot, *Réflexions sur la formation et la distribution des richesses* (1766); Adam Smith, *The Theory of Moral Sentiments* (1759) e *The Wealth of Nations* (1776); Thomas Malthus, *Essay on Population* (1798); David Ricardo, *Principles* (1817); J. B. Say, *Traité d'économie politique* (1803); Sismondi, *Nouveaux principes* (1819); Harriet Martineau, *Illustrations of Political Economy* (1832–34); Friedrich List, *Das nationale System der politischen Ökonomie* (1841).
+
+**Século XIX e formação das escolas.** Karl Marx, *Das Kapital* (1867–1894); Friedrich Engels, *The Condition of the Working Class in England* (1845); Henry George, *Progress and Poverty* (1879); William Stanley Jevons, *The Theory of Political Economy* (1871); Carl Menger, *Grundsätze der Volkswirtschaftslehre* (1871); Léon Walras, *Éléments d'économie politique pure* (1874–77); E. Böhm-Bawerk, *Kapital und Kapitalzins*; Alfred Marshall, *Principles of Economics* (1890); F. Y. Edgeworth, *Mathematical Psychics* (1881); V. Pareto, *Manuale di economia politica*; Knut Wicksell, *Interest and Prices* (1898); Irving Fisher, *The Debt-Deflation Theory of Great Depressions* (1933); Thorstein Veblen, *The Theory of the Leisure Class* (1899); Rosa Luxemburg, *The Accumulation of Capital* (1913).
+
+**Macroeconomia, instituições e quantificação.** Joseph Schumpeter, *Theory of Economic Development* (1911) e *Capitalism, Socialism and Democracy* (1942); J. M. Keynes, *General Theory* (1936); M. Kalecki, *Political Aspects of Full Employment* (1943); F. A. Hayek, *The Use of Knowledge in Society* (1945); Karl Polanyi, *The Great Transformation* (1944); John Hicks, *Value and Capital* (1939); Joan Robinson, *Economics of Imperfect Competition* (1933); Piero Sraffa, *Production of Commodities by Means of Commodities* (1960); Hyman Minsky, *Stabilizing an Unstable Economy* (1986); Eugen Slutsky, artigo sobre demanda (1915); Ragnar Frisch, trabalhos econométricos; Jan Tinbergen, modelos econômicos nacionais; Trygve Haavelmo, *The Probability Approach in Econometrics* (1944); Wassily Leontief, *The Structure of American Economy* (1941).
+
+**Economia moderna e instituições.** Paul Samuelson, *Foundations of Economic Analysis* (1947); Robert Solow, *A Contribution to the Theory of Economic Growth* (1956); Milton Friedman e Anna Schwartz, *A Monetary History of the United States* (1963); Robert Lucas, *Econometric Policy Evaluation: A Critique* (1976); Robert Hall e Michael Woodford, [Prêmio de Economia de 2026](https://www.kva.se/en/news/the-prize-in-economic-sciences-2026/); [Academia Sueca, Prêmio de 2025](https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/); [American Economic Association, laureados por ano](https://www.aeaweb.org/about-aea/honors-awards/nobel-laureates); [Biblioteca de Economia e Liberdade, autores e obras clássicas](https://www.econlib.org/library/biographies-of-authors/).
+
+**Desenvolvimento e desigualdade internacional.** Raúl Prebisch, trabalhos da CEPAL; Hans Singer, trabalhos sobre termos de troca; W. Arthur Lewis, *Economic Development with Unlimited Supplies of Labour* (1954); Albert Hirschman, *The Strategy of Economic Development* (1958); Amartya Sen, *Poverty and Famines* (1981); Douglass North, *Institutions, Institutional Change and Economic Performance* (1990); [Elinor Ostrom, Nobel biográfico](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/); Daron Acemoglu e James Robinson, *Why Nations Fail* (2012); [Prêmio de Economia de 2024](https://www.nobelprize.org/prizes/economic-sciences/2024/press-release/); Alice Amsden, *Asia's Next Giant* (1989).
+
+**Pesquisa contemporânea.** Ronald Coase, *The Nature of the Firm* (1937) e *The Problem of Social Cost* (1960); G. A. Akerlof, *The Market for “Lemons”* (1970); Kahneman e Tversky, *Prospect Theory* (1979); Claudia Goldin, [biografia e documentação do Nobel de 2023](https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/biographical/); Goldin e Katz, *The Race between Education and Technology* (2008); Paul Romer, trabalhos de crescimento endógeno; William Nordhaus, modelos DICE; Joel Mokyr, *A Culture of Growth* (2016); Philippe Aghion e Peter Howitt, *A Model of Growth through Creative Destruction* (1992); Esther Duflo, Abhijit Banerjee e Michael Kremer, [Prêmio de Economia de 2019](https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/).
+
+**Pensamento econômico brasileiro.** José da Silva Lisboa, *Princípios de economia política*; Roberto Simonsen, *História econômica do Brasil* (1937); Eugênio Gudin, textos sobre economia monetária e planejamento; Caio Prado Júnior, *Formação do Brasil contemporâneo* (1942); Celso Furtado, *Formação econômica do Brasil* (1959), *Desenvolvimento e subdesenvolvimento* (1961); Maria da Conceição Tavares, *Da substituição de importações ao capitalismo financeiro*; Ignácio Rangel, *A dualidade básica da economia brasileira*; Roberto Campos, escritos sobre política e desenvolvimento; Mário Henrique Simonsen, trabalhos sobre inflação e indexação; [Guido Mantega, *Celso Furtado e o pensamento econômico brasileiro*](https://www.scielo.br/j/rep/a/VFVpGYrqYjx8r5SzPMCYRHm/?format=html&ilang=pt_BR); [Revista de Economia Política, *Maria da Conceição Tavares*](https://doi.org/10.1590/s1415-98482010000100009); [Pesquisa da Fundação Getulio Vargas sobre economistas brasileiros](https://pesquisa-eaesp.fgv.br/sites/gvpesquisa.fgv.br/files/publicacoes/Rel24-1999.pdf); [Banco Central do Brasil, Plano Real](https://www.bcb.gov.br/controleinflacao/planoreal).
