@@ -523,3 +523,152 @@ A **hipótese da instabilidade financeira** argumenta que períodos de crescimen
 A transição entre tipos de financiamento não é uma lei mecânica: depende de regulação, lucros, juros e decisões de empresas e bancos. Mas o mecanismo explica por que crises podem nascer do excesso de tranquilidade anterior, e não apenas de choques exógenos. A crise financeira de 2008 reavivou interesse pelo trabalho de Minsky.
 
 Ele não previu cada detalhe da crise de 2008, que ocorreu após sua morte. Sua contribuição foi identificar uma dinâmica geral entre balanços, crédito, preços de ativos e confiança que permanece relevante para bancos, imóveis e financiamento corporativo.
+
+
+## VI — Estatística, econometria e a reconstrução quantitativa da economia
+
+### 56. Eugen Slutsky: a ponte entre escolha e matemática
+
+**Eugen Slutsky** (1880–1948), nascido em território do Império Russo, estudou ciências e matemática e se vinculou a instituições acadêmicas da região de Kiev e posteriormente da União Soviética. Sua trajetória foi afetada por mudanças políticas profundas, numa época em que estatística, probabilidade e economia ainda não eram disciplinas rigidamente separadas.
+
+Em **1915**, publicou análise da demanda que distinguiu o **efeito substituição** e o **efeito renda** de uma mudança de preço. Quando um bem fica mais caro, o consumidor pode procurar alternativas; simultaneamente, seu poder de compra real se modifica, gerando outro efeito sobre quantidades demandadas. A decomposição tornou-se fundamento da teoria do consumidor e da análise de impostos e subsídios.
+
+Slutsky também investigou como somas de choques aleatórios podem gerar séries com ciclos aparentemente regulares, problema central para identificar se oscilações econômicas são causadas por mecanismos estruturais ou por combinações de perturbações. Seu legado se estende à estatística e à macroeconomia, ainda que vários resultados só tenham sido incorporados amplamente à literatura ocidental muitos anos após a publicação original.
+
+### 57. Ragnar Frisch: economia como sistema de equações e de observações
+
+**Ragnar Frisch** (1895–1973) nasceu na Noruega em família ligada ao trabalho com metais preciosos, estudou economia e matemática na **Universidade de Oslo** e se tornou pioneiro no uso sistemático de modelos e dados. Sua formação combinou técnica estatística, matemática e problemas de política econômica.
+
+Frisch ajudou a popularizar o termo **econometria**, disciplina que procura conectar teoria econômica, observações e inferência estatística. Desenvolveu análises de ciclos, produção e planejamento, e contribuiu para distinguir problemas de agregação macroeconômica de decisões microeconômicas. Um coeficiente estimado, entretanto, não se torna causal apenas por ser produzido por um método sofisticado.
+
+Em **1969**, compartilhou com **Jan Tinbergen** a primeira edição do Prêmio de Economia do Banco da Suécia em Memória de Alfred Nobel. A distinção, criada em 1968, não deve ser confundida com os prêmios previstos originalmente no testamento de Alfred Nobel. A importância de Frisch está na construção da linguagem quantitativa que permitiu a economistas discutir modelos como sistemas passíveis de confrontação com dados.
+
+### 58. Jan Tinbergen: modelos nacionais e escolhas de política
+
+**Jan Tinbergen** (1903–1994) nasceu na Holanda, estudou física na **Universidade de Leiden** e trabalhou em estatística e planejamento econômico. A formação em física influenciou o uso de equações simultâneas para representar relações entre emprego, consumo, investimentos e preços.
+
+Tinbergen elaborou modelos macroeconômicos pioneiros para países como os Países Baixos e os Estados Unidos. Procurou identificar como instrumentos de governo poderiam influenciar objetivos diferentes. A ideia de que metas independentes requerem instrumentos de política suficientemente independentes tornou-se uma referência no desenho de políticas econômicas.
+
+Modelos estruturais enfrentavam problemas de identificação e mudança de comportamento: relações estimadas sob um regime podem não permanecer iguais quando políticas mudam. Keynes criticou a confiança excessiva em determinadas técnicas econométricas da época. Tinbergen, contudo, ajudou a institucionalizar planejamento, previsão e avaliação quantitativa.
+
+Seu trabalho posterior em desenvolvimento e desigualdade internacional ampliou a disciplina para além de ciclos industriais europeus. Foi um dos laureados inaugurais de 1969, mas sua importância não depende apenas do prêmio.
+
+### 59. Trygve Haavelmo: probabilidade e a inferência econômica
+
+**Trygve Haavelmo** (1911–1999) nasceu na Noruega, estudou economia e estatística e trabalhou com Frisch antes de desenvolver suas próprias contribuições. Sua carreira incluiu períodos nos Estados Unidos e na Noruega, sendo marcada pelos efeitos da Segunda Guerra Mundial sobre pesquisadores e instituições.
+
+Na tese e nos trabalhos reunidos em ***The Probability Approach in Econometrics* (1944)**, argumentou que relações econômicas precisam ser representadas por modelos probabilísticos coerentes, em vez de associar mecanicamente qualquer conjunto de dados a uma teoria determinista. Erros, seleção de observações e estrutura causal importam para a validade de testes.
+
+Seu trabalho estabeleceu fundamentos para estimativas de equações simultâneas e para a necessidade de separar correlação observada de mecanismos econômicos. Em **1989**, recebeu o prêmio de Economia pelo desenvolvimento de bases probabilísticas da econometria. A contribuição continua relevante quando grandes bases de dados e inteligência artificial criam impressão enganosa de que maior volume de observações elimina problemas de identificação.
+
+### 60. Wassily Leontief: a economia medida pelas relações entre setores
+
+**Wassily Leontief** (1905–1999) nasceu em São Petersburgo, estudou economia e matemática em universidades russas e alemãs e depois desenvolveu carreira nos Estados Unidos, especialmente em **Harvard**. Sua formação atravessou economias e escolas muito diferentes, oferecendo perspectiva sobre planejamento, indústria e relações comerciais.
+
+A análise **insumo-produto** descreve quanto cada setor utiliza da produção de outros setores para produzir uma unidade adicional de seu próprio bem. Uma indústria automobilística depende de aço, energia, transportes, máquinas e serviços; um aumento de demanda por automóveis afeta uma rede produtiva mais ampla. As matrizes permitem calcular requisitos diretos e indiretos sob hipóteses específicas de tecnologia.
+
+Leontief aplicou o método a dados nacionais e recebeu o prêmio de Economia de **1973**. O chamado **paradoxo de Leontief** identificou resultados empíricos de comércio dos Estados Unidos que não se alinhavam simplesmente às previsões esperadas a partir da abundância relativa de capital, estimulando revisões da teoria internacional.
+
+Uma matriz de coeficientes fixos pode ser útil para planejamento, mas torna-se incompleta quando empresas substituem insumos, surgem tecnologias novas ou preços alteram escolhas. O valor de Leontief está na capacidade de tornar visíveis dependências físicas e produtivas que modelos excessivamente agregados ignoram.
+
+### 61. Leonid Kantorovich e Tjalling Koopmans: como distribuir recursos escassos
+
+**Leonid Kantorovich** (1912–1986), matemático soviético formado em Leningrado, desenvolveu pesquisas sobre alocação de materiais e produção industrial. **Tjalling Koopmans** (1910–1985), nascido nos Países Baixos, estudou matemática, física e economia e passou a atuar nos Estados Unidos. Trajetórias políticas distintas convergiram em problemas matemáticos semelhantes de eficiência.
+
+Kantorovich trabalhou com otimização sob restrições de capacidade, matéria-prima e transporte. Koopmans desenvolveu análise de atividade, eficiência e preços de recursos. A **programação linear** permite definir um objetivo, como minimizar custos ou maximizar produção, considerando limites de máquinas, tempo, insumos e demanda. Seus resultados dependem de dados e hipóteses, não representam a solução automática de toda questão social.
+
+Ambos receberam o prêmio de Economia em **1975**. A contribuição influenciou logística, pesquisa operacional e planejamento público e privado. Mostra que a diferença entre mercados e planejamento não é a presença ou ausência de matemática: empresas competitivas planejam internamente, e organizações públicas precisam reconhecer custos de oportunidade de recursos.
+
+### 62. Simon Kuznets: produto nacional, desigualdade e os perigos de medir prosperidade
+
+**Simon Kuznets** (1901–1985) nasceu em território do antigo Império Russo, estudou nos Estados Unidos e formou-se em economia na **Universidade Columbia**. Trabalhou com estatísticas de renda nacional e história quantitativa do crescimento, particularmente no **National Bureau of Economic Research**.
+
+Contribuiu para organizar medições sistemáticas de produto e renda, indispensáveis a políticas públicas modernas. Mas alertava que medidas de produção monetária não equivalem automaticamente a bem-estar. Atividades domésticas não remuneradas, deterioração ambiental e desigualdade podem ser mal refletidas em indicadores agregados.
+
+Sua hipótese de que desigualdade poderia inicialmente crescer e depois cair durante o desenvolvimento industrial ficou conhecida como **curva de Kuznets**. Não é uma lei histórica universal: experiências de diferentes países mostram trajetórias de desigualdade condicionadas por sindicatos, impostos, educação, política agrária e instituições.
+
+Recebeu o prêmio de Economia em **1971**. Seu legado duradouro está em combinar ambição de mensuração e consciência de que números organizados são construções metodológicas com limites, não fotografias neutras da vida social.
+
+## VII — Crescimento, síntese neoclássica e macroeconomia pós-guerra
+
+### 63. Paul Samuelson: a linguagem matemática da síntese
+
+**Paul Anthony Samuelson** (1915–2009) nasceu em Indiana, estudou na **Universidade de Chicago** e obteve doutorado em **Harvard**. Desenvolveu carreira no **Massachusetts Institute of Technology**, contribuindo para tornar a economia americana do pós-guerra mais formalizada e orientada a modelos.
+
+Em ***Foundations of Economic Analysis* (1947)**, sistematizou o uso de otimização e condições de equilíbrio para problemas econômicos diferentes. Seu manual ***Economics* (1948)** influenciou gerações de estudantes ao combinar mercados, macroeconomia keynesiana, política fiscal e teoria neoclássica. A síntese mostrava como instrumentos analíticos de preço e escolha poderiam coexistir com intervenção pública em recessões.
+
+Samuelson contribuiu para a teoria de bens públicos, comércio internacional e dinâmica econômica. A chamada **condição de Samuelson** para provisão eficiente de bens públicos considera soma de benefícios marginais entre consumidores, um resultado diferente das condições de mercados de bens privados. Isso não determina sozinho como repartir impostos ou superar conflitos políticos.
+
+Foi o primeiro americano a receber o prêmio de Economia, em **1970**. O prestígio de sua síntese diminuiu em parte diante de críticas monetaristas, novas expectativas racionais e instabilidade dos anos 1970, mas seu aparato matemático continuou incorporado em muitas escolas que discordavam de suas recomendações.
+
+### 64. Robert Solow: capital, trabalho e o resíduo da produtividade
+
+**Robert M. Solow** (1924–2023) nasceu em Nova York, estudou em **Harvard** e desenvolveu carreira no **MIT**, trabalhando em crescimento, emprego e produtividade. Sua formação em estatística e teoria econômica ocorreu no ambiente de expansão dos métodos quantitativos.
+
+Em **1956**, apresentou modelo no qual capital, trabalho e tecnologia determinam o comportamento de longo prazo da produção. Quando há retornos marginais decrescentes do capital sob hipóteses específicas, acumular mais máquinas por trabalhador eleva produtividade, mas não sustenta indefinidamente a mesma taxa de crescimento per capita sem progresso tecnológico. Essa conclusão abriu caminho para distinguir crescimento por investimento de crescimento por inovação.
+
+Na **contabilidade do crescimento**, o chamado resíduo de Solow mede a parcela da expansão da produção que não é explicada diretamente pelos insumos medidos sob determinada função de produção. Não deve ser interpretado como medida pura de criatividade: também pode incorporar erros de dados, qualidade de fatores e mudanças organizacionais.
+
+Solow recebeu o prêmio de Economia em **1987**. Seus modelos ajudaram a pensar convergência e desenvolvimento, mas a previsão de aproximação entre países depende de instituições, tecnologia, investimento, demografia e condicionantes políticos que não se igualam automaticamente.
+
+### 65. Nicholas Kaldor e Roy Harrod: demanda, distribuição e crescimento instável
+
+**Nicholas Kaldor** (1908–1986), nascido em Budapeste, estudou na **London School of Economics** e atuou posteriormente em Cambridge. **Roy Harrod** (1900–1978), formado em **Oxford**, foi aluno e amigo intelectual de Keynes. Ambos desenvolveram instrumentos para examinar crescimento e instabilidade em economias de investimento.
+
+Harrod procurou relacionar poupança, investimento e crescimento da capacidade produtiva, identificando a possibilidade de trajetórias instáveis quando a taxa efetiva de expansão difere da necessária para manter o uso da capacidade. Kaldor examinou distribuição, manufaturas e crescimento, associando industrialização a aumentos de produtividade e a efeitos cumulativos sobre outras atividades.
+
+As chamadas **leis de Kaldor**, sobre a relação entre crescimento manufatureiro e produtividade, são hipóteses empíricas que dependem de instituições e mudanças tecnológicas; não garantem que qualquer subsídio industrial produza desenvolvimento. A análise de Harrod também foi objeto de revisões posteriores, incluindo o modelo neoclássico de Solow.
+
+O legado está em demonstrar que crescimento não é apenas equilíbrio de longo prazo com tecnologia externa: envolve investimento, demanda, estrutura setorial e decisões incertas.
+
+### 66. Milton Friedman e Anna Schwartz: moeda, história e política
+
+**Milton Friedman** (1912–2006) nasceu no Brooklyn em família de imigrantes de origem judaica, estudou na **Rutgers University**, na **Universidade de Chicago** e em **Columbia**, obtendo doutorado em 1946. Casou-se com **Rose Director Friedman**, economista e colaboradora intelectual em obras e projetos. Desenvolveu carreira na Universidade de Chicago e em instituições de pesquisa.
+
+**Anna Jacobson Schwartz** (1915–2012), nascida em Nova York, estudou no **Barnard College** e em **Columbia**, trabalhou por muitos anos no **National Bureau of Economic Research** e se tornou economista monetária de grande importância. A colaboração entre Friedman e Schwartz resultou em ***A Monetary History of the United States, 1867–1960* (1963)**, estudo monumental de dados bancários, moeda e crises.
+
+Ambos atribuíram grande importância à contração monetária e às falhas do sistema bancário na severidade da Grande Depressão. O argumento não explica sozinho todos os problemas de demanda, deflação e padrão-ouro, mas alterou profundamente o debate sobre responsabilidade de bancos centrais. A tese monetarista enfatizou o risco de políticas que permitem oscilações descontroladas da quantidade de moeda e defendeu regras previsíveis.
+
+Friedman criticou muitos controles e intervenções, defendeu câmbio flutuante e teve papel importante em debates sobre liberdade econômica. A afirmação de que inflação é sempre e em toda parte fenômeno monetário deve ser lida como proposição sobre inflação sustentada e arranjos macroeconômicos, não como negação da existência de choques de oferta no curto prazo. As instabilidades da velocidade da moeda e mudanças na inovação financeira dificultaram controle mecânico de agregados.
+
+Schwartz não foi mera assistente de Friedman: investigou moeda, mercados financeiros e crises por carreira própria, inclusive discutindo respostas de autoridades às crises posteriores. O prêmio de Economia de **1976** foi atribuído a Friedman, não à dupla, mas a historiografia da moeda depende decisivamente do trabalho dos dois.
+
+### 67. James Tobin e Franco Modigliani: investimento, portfólios e consumo
+
+**James Tobin** (1918–2002) nasceu em Illinois e estudou em **Harvard**, tendo participado do debate keynesiano americano antes de construir carreira em **Yale**. Desenvolveu modelos de escolha de portfólio, demanda por moeda, investimentos e condições macroeconômicas. A chamada relação **q de Tobin** compara avaliação de mercado de ativos com custos de reposição, indicando incentivos de investimento sob hipóteses específicas.
+
+**Franco Modigliani** (1918–2003) nasceu em Roma, estudou direito e economia em contexto de perseguição e guerra e migrou para os Estados Unidos, onde desenvolveu carreira acadêmica. Sua teoria do **ciclo de vida**, elaborada com colaboradores, examinou como pessoas planejam consumo e poupança ao longo de juventude, trabalho e aposentadoria, diante de renda variável e necessidades futuras.
+
+Tobin recebeu o prêmio de Economia de **1981** e Modigliani o de **1985**. Seus trabalhos explicaram decisões financeiras usando restrições intertemporais e expectativas, mas dependem de hipóteses sobre acesso a crédito, informação, saúde e estabilidade da renda. Famílias muito pobres não conseguem suavizar consumo como agentes de modelos que tomam empréstimos livremente; aposentadorias dependem de políticas e demografia.
+
+### 68. Robert Lucas: expectativas racionais e o problema de alterar regras
+
+**Robert E. Lucas Jr.** (1937–2023) nasceu em Washington, estudou em **Universidade de Chicago**, onde obteve doutorado em economia, e desenvolveu carreira acadêmica associada à macroeconomia novo-clássica. Sua formação envolveu teoria do equilíbrio, métodos matemáticos e debates sobre o desempenho de políticas keynesianas nas décadas de 1960 e 1970.
+
+A **crítica de Lucas de 1976** argumentou que relações estatísticas observadas sob certa política podem mudar quando agentes compreendem que a regra do governo mudou. Uma autoridade que tenta explorar continuamente uma relação histórica entre inflação e desemprego pode descobrir que trabalhadores e firmas ajustam expectativas, alterando a própria relação que parecia útil à política.
+
+O argumento transformou econometria e macroeconomia, exigindo modelos de decisões que respondam a incentivos e regras. Não prova que todos os agentes possuam informação perfeita ou que políticas de estabilização sejam impotentes. A influência posterior incluiu modelos de equilíbrio geral dinâmico e estudos de crescimento.
+
+Lucas recebeu o prêmio de Economia em **1995**. A experiência de crises financeiras, rigidez de preços e heterogeneidade de agentes motivou extensões e críticas ao arcabouço novo-clássico; sua contribuição permanece nas exigências de consistência entre comportamento e mudança de regime.
+
+### 69. Thomas Sargent, Christopher Sims, Kydland e Prescott: choques, identificação e compromisso
+
+**Thomas J. Sargent** (nascido em 1943) estudou em **Berkeley** e **Harvard**, aprofundando modelos de expectativas e política macroeconômica. **Christopher A. Sims** (nascido em 1942) estudou matemática e economia em **Harvard**, desenvolvendo a metodologia de **vetores autorregressivos (VAR)** para analisar relações dinâmicas entre variáveis macroeconômicas sem impor antecipadamente a estrutura rígida de modelos anteriores. Compartilharam o prêmio de **2011**.
+
+**Finn E. Kydland** (nascido em 1943), formado em economia na Noruega e doutorado em **Carnegie Mellon**, e **Edward C. Prescott** (1940–2022), formado em matemática e pesquisa operacional, desenvolveram modelos de ciclos reais e o problema de **inconsistência temporal** em políticas públicas. A política escolhida hoje pode deixar de ser ótima amanhã para quem governa, criando incentivos de descumprir promessas e induzindo expectativas defensivas dos agentes. Compartilharam o prêmio de **2004**.
+
+Os modelos dinâmicos estocásticos ampliaram a capacidade de relacionar choques, expectativas e escolhas. Ao mesmo tempo, versões excessivamente simplificadas negligenciaram bancos, desemprego involuntário, fricções financeiras e heterogeneidade durante crises. Sua força reside em tornar explícitas regras e restrições, não em demonstrar que um único modelo de agente representativo descreve toda economia.
+
+### 70. Robert E. Hall e Michael Woodford: estabilização macroeconômica em 2026
+
+**Robert E. Hall** (nascido em 1943) estudou em **University of California, Berkeley**, e concluiu doutorado em economia no **MIT em 1967**, desenvolvendo carreira principalmente em **Stanford**. Investigou produtividade, desemprego, consumo, taxas reais de juros e custos de flutuações econômicas. Seus trabalhos ajudaram a conectar escolhas individuais e fricções reais aos movimentos da economia agregada.
+
+**Michael Woodford** (nascido em 1955) estudou em **University of Chicago** e obteve **doutorado no MIT em 1983**, com carreira acadêmica posteriormente associada à **Universidade Columbia**. Seu livro ***Interest and Prices* (2003)** consolidou modelos em que expectativas, rigidez de preços e decisões do banco central determinam como juros afetam inflação e produto. A taxa de política relevante depende não apenas de seu valor atual, mas do caminho esperado para condições monetárias futuras.
+
+Em **12 de outubro de 2026**, a [Real Academia Sueca de Ciências](https://www.kva.se/en/news/the-prize-in-economic-sciences-2026/) anunciou Hall e Woodford como laureados em Economia por suas contribuições às **fundamentações microeconômicas da estabilização macroeconômica**. O reconhecimento enfatiza que respostas fiscais e monetárias dependem de decisões de empresas e famílias, custos de ajuste, expectativas e canais de transmissão.
+
+As ferramentas não oferecem previsão perfeita de recessões. Diferentes graus de rigidez salarial, crédito restrito, capacidade industrial, desigualdade de renda e incerteza tornam necessário adaptar modelos e verificar resultados. O prêmio reconhece contribuições à arquitetura analítica de políticas, não comprovação de que qualquer banco central aplica um conjunto de regras infalível.
+
+```flow
+Pesquisa sobre decisões de famílias e firmas → modelos de consumo, preços, trabalho e investimento → relações agregadas e expectativas → instrumentos fiscais e monetários → transmissão para produção, inflação e emprego → avaliação empírica e revisão das hipóteses
+```
