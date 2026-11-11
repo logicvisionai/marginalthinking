@@ -197,3 +197,74 @@ A URV criou um período de aprendizado antes da troca de notas. O consumidor obs
 
 A transformação também tem uma dimensão temporal. A estabilização devolveu algum sentido a economizar para um objetivo, comparar orçamentos em meses diferentes e negociar financiamentos sem suposições extremas sobre a inflação seguinte. Não se deve romantizar: a população mais pobre continuou exposta a desemprego, informalidade, crédito caro e desigualdades regionais. O fim da necessidade de se livrar imediatamente do salário, porém, significou mudança concreta na possibilidade de planejamento doméstico. [Banco Central, 30 anos do real](https://bcb.gov.br/controleinflacao/30anosreal).
 
+
+## 12. Quem ganhou, quem perdeu: distribuição, trabalho e consumo
+
+A estabilização foi particularmente relevante para pessoas incapazes de transferir imediatamente seus salários para ativos indexados. Para uma família que gastava grande parte da renda em alimentos e transporte, o intervalo entre receber e comprar era fonte de perda. A queda da inflação diminuiu esse imposto sobre a imobilidade financeira, ampliou o horizonte de cálculo e tornou o pagamento em espécie menos punitivo. Mas a intensidade desse benefício variou com reajuste salarial, emprego, localização, acesso a bancos e composição da cesta de consumo.
+
+O ganho inicial não deve ser confundido com redução automática da desigualdade. Trabalhadores demitidos, desempregados e informais podem perder renda mesmo quando a inflação cai. Produtores de bens comercializáveis podem sofrer com importações baratas; consumidores desses mesmos bens podem se beneficiar. Proprietários de dívidas prefixadas e credores podem perceber resultados diferentes quando a inflação esperada despenca. Bancos perdem receitas ligadas à alta inflação, mas podem ganhar com expansão do crédito, tarifas e aplicações. A análise exige olhar para o balanço de cada grupo, e não construir dois blocos homogêneos de vencedores e perdedores.
+
+Uma pesquisa sobre acesso alimentar que cruza preços da cesta básica com salário mínimo e rendimentos da Pesquisa Mensal de Emprego aponta melhora de 1995 a 1997 para estratos de baixa renda, sobretudo pelo aumento da renda efetiva, e reversão parcial depois do fim de 1997. O resultado não permite generalizar uniformemente para todas as famílias rurais, municípios e categorias de emprego, tampouco atribuir cada mudança apenas à URV. [Nova Economia, estudo sobre acessibilidade alimentar nos anos 1990](https://revistas.face.ufmg.br/novaeconomia/pt_BR/article/view/2223).
+
+A influência política da estabilidade sobre o cotidiano vinha da previsibilidade. Uma prestação fixa passou a ter significado temporal mais claro; a inflação já não recompensava automaticamente quem possuía as melhores ferramentas de atualização e penalizava quem recebia tarde. Entretanto, acesso a crédito, emprego formal e patrimônio continuou extremamente desigual. A desinflação reduziu uma fonte de injustiça distributiva sem eliminar a estrutura que produzia outras.
+
+## 13. Bancos e o fim do negócio inflacionário
+
+A alta inflação sustentava receitas bancárias associadas ao chamado *float*: recursos transitórios mantidos entre o recebimento e o pagamento, ou saldos não remunerados que podiam ser aplicados a juros nominais elevados. Com a estabilização, parte dessas rendas desapareceu rapidamente. Sistemas bancários construídos para administrar atualização monetária precisaram buscar novas fontes de receita e ajustar risco de crédito, capital, liquidez e despesas.
+
+A mesma queda da inflação que estimulou depósitos e crédito também tornou visíveis balanços frágeis. Crédito expandido sem avaliação adequada de capacidade de pagamento poderia gerar inadimplência; instituições antes protegidas por ganhos inflacionários passaram a depender mais de qualidade dos ativos. O Programa de Estímulo à Reestruturação e ao Fortalecimento do Sistema Financeiro Nacional (PROER), instituído pela Resolução CMN 2.208, de 6 de novembro de 1995, buscou assegurar liquidez e solvência por meio de reorganizações autorizadas pelo Banco Central. A norma é evidência do desenho institucional, não demonstração de que cada operação posterior foi eficiente ou distributivamente neutra. [Resolução 2.208/1995](https://www.bcb.gov.br/pre/normativos/res/1995/pdf/res_2208_v2_l.pdf).
+
+O sistema de pagamentos também se transformou. Numa economia em que preços deixam de subir dezenas de pontos percentuais por mês, os bancos não precisam concentrar todos os serviços na defesa contra perda monetária instantânea. Pode-se desenvolver crédito de prazo mais longo e maior transparência de juros reais. O risco, porém, se desloca: hipotecas, crédito ao consumo e endividamento público passam a depender mais do custo de financiamento e da capacidade real de pagamento do que da mera correção nominal.
+
+## 14. O dólar: âncora de confiança e fonte de vulnerabilidade
+
+Na transição, o dólar funcionou como referência de comparação internacional e apoio psicológico à nova unidade. Era compreensível: uma economia que desconfiava de suas próprias moedas valorizava a existência de uma medida menos sujeita à inflação local. Mas a política cambial era também escolha macroeconômica. Uma moeda nacional valorizada reduz o preço doméstico de produtos importados e de alguns insumos, disciplinando a formação de preços de produtores expostos à concorrência. Ao mesmo tempo, comprime margens de exportadores e segmentos que concorrem com importações, podendo prejudicar atividade e emprego em determinadas cadeias.
+
+Em vez de fixar simetricamente para sempre R$ 1 por US$ 1, as autoridades utilizaram inicialmente instrumentos cambiais assimétricos e, depois, bandas administradas. O regime de bandas, instituído em março de 1995, foi abandonado em janeiro de 1999. Na avaliação contemporânea de Sachs e Zini, a apreciação inicial do real — com cotações abaixo de um real por dólar no segundo semestre de 1994 — já exigia atenção a reservas, balanço externo e taxas de juros. [Sachs e Zini, 1995](https://www.scielo.br/j/rep/a/5kRPY7Tfs6KnFxKqGx7kYjR/?format=html&lang=pt); [Banco Central, política cambial de 1999](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
+
+A apreciação cambial cria um dilema intertemporal. No curto prazo, importações mais acessíveis ajudam a reduzir inflação e elevar consumo; no médio prazo, maior déficit em conta corrente precisa ser financiado por capital externo. Se o fluxo seca por crise financeira internacional, incerteza política ou percepção de dívida excessiva, o Banco Central pode vender reservas e elevar juros para defender a taxa — com efeitos fiscais, financeiros e produtivos. A apreciação não é necessariamente o único fator da deterioração externa: nível de atividade, termos de troca, política comercial e mudanças no fluxo de investimento também importam.
+
+## 15. Juros, reservas, dívida e a conta do novo regime
+
+A taxa de juros foi um instrumento central para reduzir demanda, remunerar ativos em reais e administrar pressões cambiais, especialmente diante de choques externos. Contudo, juros altos transferem recursos para detentores de ativos remunerados, elevam custo do crédito produtivo, penalizam mutuários e oneram a dívida pública, conforme indexação e prazo. A queda da inflação reduz o componente nominal dos juros, mas **juros nominais menores** não implicam automaticamente **juros reais menores**.
+
+A política monetária enfrentava ainda um paradoxo: quando a população volta a confiar em moeda estável, deseja manter saldos monetários maiores. Uma expansão observada da quantidade de moeda durante a remonetização pode ser acomodação dessa demanda, não necessariamente concessão inflacionária. O diagnóstico correto exige observar inflação esperada, demanda por liquidez, nível de atividade e comportamento do crédito.
+
+| Variável | Pressão ou mudança em 1993–1999 | Canal econômico | Limitação de interpretação |
+| --- | --- | --- | --- |
+| IPCA | Queda brusca após julho de 1994 | Previsibilidade, consumo, salários | Não mede desigualdade nem atividade |
+| Inflação inercial | Enfraquecimento da indexação defasada | Contratos e preços relativos | Não elimina choques de custos |
+| URV/CR$ | Cotação crescente em cruzeiros reais | Separação entre preço e pagamento | Não é inflação medida em URV |
+| Salário real | Menor erosão entre pagamento e gasto | Poder de compra e consumo | Depende de emprego e data de reajuste |
+| Resultado primário | Pressão por ajuste | Credibilidade fiscal | Não inclui juros |
+| Déficit operacional | Medida ajustada pela inflação da dívida | Sustentabilidade fiscal | Não é igual ao resultado nominal |
+| Juros reais | Mantidos elevados em diversas fases | Crédito, câmbio, dívida, atividade | Variam por prazo e risco |
+| Câmbio real | Apreciação no início do real | Importações, exportações e inflação | Não equivale a paridade permanente |
+| Balança comercial | Deterioração nos anos seguintes | Demanda e competitividade | Distinta de conta corrente |
+| Conta corrente | Maior necessidade de financiamento | Vulnerabilidade externa | Não corresponde apenas a comércio |
+| Reservas internacionais | Defesa e amortecimento de choques | Credibilidade e liquidez cambial | Estoque não é renda nem riqueza livre |
+| Crédito bancário | Expansão seguida de reestruturação | Consumo, investimento, inadimplência | Volume não demonstra qualidade |
+| Distribuição | Alívio de perdas inflacionárias | Renda disponível dos mais pobres | Emprego e ativos mudam resultado |
+| Investimento produtivo | Depende de juros, câmbio e demanda | Estoque de capital e produtividade | Consumo elevado não prova investimento |
+| Confiança | Fortalecida com repetição de preços estáveis | Expectativas, velocidade da moeda | Não é observável em um único índice |
+
+Rubens Penha Cysne, com séries históricas de fontes oficiais, registrou déficit operacional próximo de zero em média entre 1990 e 1993, mas déficit de **4,27% do PIB**, em média, no intervalo 1995–1997 sob a definição então utilizada; registrou também piora da conta corrente e mudança na relação entre meios de pagamento e produto. Essa comparação por períodos não isola a causalidade do real e não deve ser transposta a séries fiscais atuais sem reconciliar metodologias. [FGV/EPGE, variáveis macroeconômicas de 1994–1997](https://epge.fgv.br/users/rubens/brazilian-monetary-and-exchange-rate-policy-meetings/aspectos-macroeconomicos-da-economia-brasileira-no-periodo-1994-1997/).
+
+A melhora do poder aquisitivo no curto prazo podia coexistir com custo macroeconômico diferido. Essa é uma tensão essencial do plano: estabilização nominal era condição favorável a investimento e planejamento, mas o arranjo de defesa do câmbio podia encarecer capital e ampliar vulnerabilidade a mudanças de liquidez global. Uma análise que mencione só o consumo barato ou só os juros altos apaga metade da relação.
+
+## 16. México, Argentina e Israel: experiências próximas, instituições diferentes
+
+A comparação internacional ajuda a identificar o que a URV efetivamente inovou. Israel, em 1985, combinou medidas fiscais, monetárias e nominais para interromper inflação muito elevada; a experiência mostrou que coordenação poderia ser relevante, mas não adotou a mesma sequência brasileira de uma unidade de conta temporária seguida de conversão. A Argentina, a partir de 1991, adotou a conversibilidade peso–dólar, com amarras cambiais muito mais rígidas, que dominaram o regime monetário e contribuíram para fragilidades posteriores. A estabilização brasileira usou referência cambial, mas não entregou poder jurídico permanente de conversão em dólar a uma taxa fixa.
+
+O México, ao sofrer crise cambial no fim de 1994, expôs a sensibilidade de economias emergentes a reversões de fluxo de capitais e dúvidas sobre reservas. O Brasil respondeu a pressões externas com juros, intervenção e, em 1995, bandas cambiais. Posteriores crises asiáticas de 1997 e russa de 1998 agravaram pressões sobre o regime. O aprendizado não foi que qualquer âncora cambial estivesse errada; foi que uma âncora nominal pode dar tempo para estabilizar preços enquanto cria custo para defender a paridade.
+
+```map
+Brasil | URV coordenou preços em 1994; real emitido em julho; bandas cambiais a partir de 1995 | O mecanismo não é um regime de conversibilidade irrevogável com dólar
+Argentina | Conversibilidade peso–dólar iniciada em 1991 | Regra cambial distinta, com outros compromissos jurídicos
+México | Crise cambial e financeira em dezembro de 1994 | Contágio e risco externo, sem identidade institucional com a URV
+Israel | Programa abrangente de desinflação em 1985 | Referência comparativa de coordenação, não cópia do mecanismo brasileiro
+Estados Unidos | Dólar como referência cambial e financeira internacional | Não significou garantia jurídica de resgate da URV em dólar
+```
+
+As regiões aparecem como nós de comparação institucional, não como ranking de êxito, nem como prova de fluxos específicos de capital entre países em determinadas datas.
+
