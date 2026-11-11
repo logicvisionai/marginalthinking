@@ -1141,6 +1141,18 @@ A experiência não prova que qualquer subsídio produzirá uma nova Coreia do S
 
 ## XIII — As controvérsias que permaneceram abertas
 
+
+| Problema | Autores com contribuições centrais | Divergência que permanece |
+|---|---|---|
+| Origem do valor e dos preços | Smith, Ricardo, Marx, Menger, Walras, Sraffa | Produção, escassez, distribuição e instituições explicam dimensões distintas |
+| Crescimento de longo prazo | List, Schumpeter, Solow, Romer, Mokyr | Capital, inovação e organização não são substitutos perfeitos |
+| Crises e desemprego | Malthus, Keynes, Kalecki, Fisher, Friedman, Minsky | Choques, crédito, demanda e expectativas podem interagir |
+| Desenvolvimento periférico | Prebisch, Lewis, Furtado, Amsden, Sen | Mudança estrutural, capacidades e direitos exigem instrumentos distintos |
+| Governança e escolha coletiva | Coase, North, Ostrom, Buchanan, Arrow | Eficiência e legitimidade não decorrem apenas do tipo de propriedade |
+| Medição e causalidade | Petty, Kuznets, Frisch, Haavelmo, Card, Duflo | Boa estatística exige conceitos claros e hipóteses identificadoras |
+| Políticas monetárias | Wicksell, Keynes, Friedman, Lucas, Hall, Woodford | Regras, credibilidade, fricções e estrutura dos balanços alteram efeitos |
+| Economia e desigualdade | Marx, Goldin, Deaton, Piketty, Saez, Zucman | A desigualdade muda com propriedade, trabalho, tributação e história |
+
 ### 120. O valor vem do trabalho, da utilidade ou das instituições?
 
 Smith tratou trabalho, produtividade e preços em relações diferentes conforme o horizonte e o tipo de sociedade. Ricardo buscou explicar distribuição e valores relativos a partir de condições de produção; Marx articulou valor, trabalho e exploração dentro das relações capitalistas de propriedade. Jevons, Menger e Walras reformularam o problema em torno de escassez, preferências e decisões marginais. Sraffa demonstrou como relações de produção e distribuição podem sustentar um sistema de preços sem partir de utilidades individuais.
