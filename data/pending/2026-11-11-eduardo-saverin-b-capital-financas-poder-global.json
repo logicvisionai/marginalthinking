@@ -115,12 +115,12 @@
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "11 November 2026; announced Russell Investments acquisition expected to close Q1 2027, not reported as complete.",
-    "research_depth": "18 substantive sections; Portuguese and English full-length research. Two comparable fundraising charts, two causal flows, map, mindmap, tables; 26 aligned numbered references.",
+    "research_depth": "18 substantive chapters each locale; 28 numbered verifiable references and 2 numeric charts plus two tables, two flows, map and mindmap.",
     "evidence_sources": "25 aligned numbered institutional, regulatory, investor-industry and journalistic references in each language; SEC, IRS, Russell Investments, B Capital, ILPA, Reuters, Forbes, Bloomberg Línea, TechCrunch.",
     "editorial_novelty": "Separates founder equity wealth, third-party investment manager economics and proposed institutional-asset-manager acquisition; incorporates negative case studies, conditional falsifiers, social effects and governance.",
-    "visual_evidence": "Two numeric comparable fundraising bar charts per language (first two funds and Ascent 2022/2026), two financial tables, two causal flows, one strategic mindmap, one regional map; aligned data EN/PT.",
-    "bilingual_parity": "Same 18 sections and numbered sources 1–26; two quantitatively equivalent charts; same economic definitions and conditional scenarios.",
-    "source_check": "Checked SEC, Russell, Forbes, B Capital, Reuters, Bloomberg, ILPA and Moneycontrol; source 26 corroborates B Capital's participation in Byju's; no invented fund IRR, realized losses or personal taxes.",
+    "visual_evidence": "Two comparable numeric charts per locale: final fund commitments US$360m and US$820m for first two funds; Ascent II US$254m vs Ascent III US$500m, with same exact numeric arrays and units in EN/PT. Includes 2 tables, 2 flows, a mindmap and map.",
+    "bilingual_parity": "Both 18 chapters with 28 identically numbered URLs and numeric chart series [360,820] and [254,500], same qualitative and financial distinctions.",
+    "source_check": "Includes original primary B Capital June 2020 and Jan 2023 final-close disclosures, SEC, Meta 10-K, Russell, Forbes, Reuters, Bloomberg, ILPA and Moneycontrol; avoids counting an interim $410m fundraising figure as a final fund size.",
     "editorial_status": "Producer staged; independent SHA-bound QA required before publication."
   }
 }
