@@ -268,3 +268,63 @@ United States | Dollar as international financial and price reference | URV did 
 
 These places are institutional comparison nodes, not an ordering of stabilization success or evidence of particular bilateral capital flows on particular dates.
 
+
+## 17. The 1999 crisis: the exchange anchor falls, the currency survives
+
+In 1998 the Russian financial crisis increased international demand for liquidity and intensified doubts about managed exchange-rate systems in emerging economies. Brazil faced capital outflows, rising financing costs and pressure on foreign reserves. In January 1999, widening the exchange band failed to restore confidence. The Central Bank ceased defending the band; foreign exchange began to float on **15 January**, and the formal abandonment of the band was recorded on **18 January**. The Central Bank's contemporary market report documents both events. [BCB, first-quarter 1999 currency policy](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
+
+Depreciation raised the domestic cost of imports and exposed internationally dependent industries to higher expenses. Authorities had to prevent the exchange shock from reactivating generalized indexation. Yet inflation did not return to 1993 levels. The IPCA ended **1999 at 8.94%**, according to IBGE. This does not prove that depreciation was harmless: sovereign debt, private balance sheets, activity and investment were affected by rates and exchange movements. It does demonstrate that ending the bands did not automatically destroy the real's monetary regime.
+
+In June 1999 Brazil adopted a new nominal anchor: **inflation targeting**. Decree 3,088 was dated 21 June, and Copom minutes record the framework as policy guidance from 22 June. A publicly announced objective, periodic interest-rate decisions and accountability were meant to replace an exchange-rate promise with an explicit price-index commitment. Monetary policy then combined a floating exchange rate, inflation targets and a fiscal-policy effort to produce sustainable primary balances. The macroeconomic policy framework commonly called the *tripod* was constructed **after** the real's issuance, not already complete in July 1994. [Copom minutes, 23 June 1999](https://www.bcb.gov.br/publicacoes/atascopom/23061999); [BCB, 1999 currency policy](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
+
+This sequence separates the identity of a currency from any one instrument used to stabilize it. The real survived the abandonment of the exchange-rate band because taxes, pay, contracts, deposits, prices and expectations were already denominated in a shared unit not mechanically reducible to a single dollar quotation. The URV had helped establish common accounting; subsequent institutions had to prevent that unit from fragmenting again.
+
+## 18. Intellectual disagreements: orthodoxy, heterodoxy and an incomplete synthesis
+
+Competing schools of thought often claim Brazil's stabilization as evidence for their preferred policy. One argument emphasizes that no country can preserve a currency without fiscal discipline, credible limits to inflation finance and durable institutions. Another notes that Brazil tried tight money and fiscal restraint without eliminating inertia, and regards the URV's coordinated contract conversion as the decisive innovation. A third stresses import competition and exchange-rate credibility. These perspectives only become mutually exclusive when one channel is presented as a complete explanation.
+
+Bresser-Pereira stresses Brazil's development of inertial-inflation theory and the difference between deindexation and freezing. Sachs and Zini argued that even an ingenious two-unit strategy still required a sustainable nominal anchor and financial discipline. In a later account Carlos Cinquetti argued that successful initial disinflation coexisted with external and financial imbalances caused partly by an appreciated currency and high rates. These perspectives concern **different horizons of the same process**. [Bresser-Pereira, 1994](https://www.scielo.br/j/rep/a/G6VvwvLfN6tqvZxy6RdCv5n/?format=html); [Sachs and Zini, 1995](https://www.scielo.br/j/rep/a/5kRPY7Tfs6KnFxKqGx7kYjR/?format=html&lang=pt); [Cinquetti, 2000](https://www.sciencedirect.com/science/article/pii/S0305750X99001151).
+
+Empirically, the task is to separate **inertia reduction**, **exchange-rate discipline on tradable prices**, **fiscal credibility**, **interest-rate restraint**, **remonetization** and **expectations**. They interacted. July's sharp drop documents their combined outcome, not the individual coefficient of each mechanism. Estimating causal shares would require explicit counterfactuals, careful external comparisons or structural models with examined assumptions. A condition being necessary does not imply that it was sufficient on its own.
+
+Stability came from a combination that slogans cannot capture: a new unit of account; a legal interruption of automatic inflation propagation; fiscal and nominal policy designed to sustain credibility; international and domestic financial reactions; and later decisions addressing vulnerabilities that the initial victory had not solved.
+
+## 19. The political economy of a common monetary standard
+
+A national currency is also an institution of power. Authority over taxation, tariffs, contracts, currency issuance, banking permissions and capital flows influences the allocation of risks and losses. The URV asked society to accept a centralized reference calculated daily by the Central Bank. Confidence depended not only on its arithmetic stability but also on expectations that the rules would be applied consistently to actors with unequal bargaining power.
+
+The stabilization expanded the significance of monetary authority, contractual law and institutional communication. Recent research on the Real Plan's political ideas emphasizes how competing economic interpretations and the centralization of monetary authority served as resources for political action. Yet the plan was not a purely technical triumph: the URV could work only because politicians passed legislation, companies changed quotations, financial systems executed conversions and households recognized the new reference. [Study of economic ideas and monetary authority in Brazil's Real Plan](https://new.scielo.br/j/rbcsoc/a/pFx5LNSgJrTMCB4Bkfmrkqb/?format=html&ilang=pt_BR&lang=pt).
+
+Long-running inflation had also damaged the comparability of public economic decisions. A budget authorization could have a very different real value at the point of expenditure; nominal accounts obscured actual resource allocation. More stable money improved public comparability without making budgets fully transparent. This can help democratic accountability but cannot produce good governance automatically. A citizen able to compare supermarket prices may still confront opaque budgets and unresponsive public institutions.
+
+## 20. What the URV allows—and does not allow—one to conclude
+
+Four counterfactuals are important. Without fiscal adjustment and institutional commitment, a well-designed URV might have temporarily stopped indexation but lost credibility if inflation finance resumed. Without the URV, strong monetary and fiscal tightening might have reduced inflation more slowly and at a greater cost to jobs and output, though the magnitude cannot be inferred from Brazil's experience alone. With a poorly managed URV price freeze, distorted relative prices might have caused shortages and renewed adjustments, as in earlier attempts. With a less appreciated currency, the real might have preserved more external competitiveness, but perhaps at the cost of harder initial disinflation.
+
+None of these alternatives occurred exactly as described. They are conditional hypotheses identifying each channel's role, not observed outcomes. Brazil's actual path demonstrated that extraordinarily high inflation could be reduced without a universal price freeze, while interest rates, debt and external balances still needed subsequent adjustment.
+
+Nor does the real's history imply that future inflation is impossible. Supply shocks, unsustainable public finance, inconsistent monetary choices or a collapse of confidence can raise prices under any currency. Later IPCA observations include periods above policy targets without a return to the 1993 regime. Renewed inflation pressure does not automatically mean the same contract-indexation architecture has returned.
+
+The URV solved one narrow and enormous problem: a society still obliged to pay with depreciating money could learn **to think, bargain and denominate contracts** in another unit before physically replacing its cash. The July currency issue consolidated an accounting convention already being built. Its lasting legacy was not the portrait on a banknote but the emergence of a reasonably stable shared scale for comparing prices, rights and obligations.
+
+## 21. Documents and economic interpretations
+
+1. [Central Bank of Brazil — Real Plan, URV quotations and currency logistics](https://www.bcb.gov.br/controleinflacao/planoreal).
+2. [Chamber of Deputies — Provisional Measure 434 of 27 February 1994](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-434-27-fevereiro-1994-373885-norma-pe.html).
+3. [Chamber of Deputies — Law 8,880 of 27 May 1994, especially arts. 1–19, 26–27 and 38](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+4. [Chamber of Deputies — Law 9,069 of 29 June 1995](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9069-29-junho-1995-372117-publicacaooriginal-1-pl.html).
+5. [Government explanatory memorandum, published 2 March 1994](https://www1.folha.uol.com.br/fsp/1994/3/02/brasil/52.html).
+6. [IBGE — historical IPCA data](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html?edicao=20932&t=series-historicas).
+7. [IPEA — IBGE-based annual IPCA observations](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
+8. [Lara Resende — Indexed money as a proposal against inertial inflation](https://new.scielo.br/j/rep/a/jkypRL4QtmZY9ZDpq4qhq7r/?lang=pt).
+9. [Bresser-Pereira — The discovery of inertial inflation](https://www.scielo.br/j/rec/a/4ZqfqsrqsHwFJV9QjJWYsfN/).
+10. [Bresser-Pereira — The economic and political context of the Real Plan](https://www.scielo.br/j/rep/a/G6VvwvLfN6tqvZxy6RdCv5n/?format=html).
+11. [Sachs and Zini — Brazilian inflation and the Real Plan, 1995](https://www.scielo.br/j/rep/a/5kRPY7Tfs6KnFxKqGx7kYjR/?format=html&lang=pt).
+12. [Cysne, FGV/EPGE — Selected Brazilian macroeconomic variables, 1994–1997](https://epge.fgv.br/users/rubens/brazilian-monetary-and-exchange-rate-policy-meetings/aspectos-macroeconomicos-da-economia-brasileira-no-periodo-1994-1997/).
+13. [Cinquetti — The Real Plan: Stabilization and Destabilization, World Development, 2000](https://www.sciencedirect.com/science/article/pii/S0305750X99001151).
+14. [Nova Economia — Food affordability after Brazil's 1994 stabilization](https://revistas.face.ufmg.br/novaeconomia/pt_BR/article/view/2223).
+15. [Central Bank — Resolution 2,208/1995, PROER](https://www.bcb.gov.br/pre/normativos/res/1995/pdf/res_2208_v2_l.pdf).
+16. [Central Bank — Exchange-rate policy, first quarter 1999](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
+17. [Central Bank — Copom minutes of 23 June 1999, inflation targeting](https://www.bcb.gov.br/publicacoes/atascopom/23061999).
+18. [Research on ideas, politics and centralized monetary authority in the Real Plan](https://new.scielo.br/j/rbcsoc/a/pFx5LNSgJrTMCB4Bkfmrkqb/?format=html&ilang=pt_BR&lang=pt).
+
