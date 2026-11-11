@@ -307,7 +307,38 @@ Nor does the real's history imply that future inflation is impossible. Supply sh
 
 The URV solved one narrow and enormous problem: a society still obliged to pay with depreciating money could learn **to think, bargain and denominate contracts** in another unit before physically replacing its cash. The July currency issue consolidated an accounting convention already being built. Its lasting legacy was not the portrait on a banknote but the emergence of a reasonably stable shared scale for comparing prices, rights and obligations.
 
-## 21. Documents and economic interpretations
+
+## 21. Wages, prices and debt: three household balance sheets under one reform
+
+The URV is easier to understand through three different economic positions. The first is a wage-dependent household with no financial reserve. Income arrives on a pay date and erodes before being spent. Disinflation raises purchasing power even without a dramatic nominal increase if the worker keeps the job and the real wage is protected. The gain can disappear if employment is lost, hours are reduced or basic food prices rise relative to income.
+
+The second position is a small firm buying inputs on credit. Some costs may be indexed while sales are collected in cash; other input quotations may change after goods have been delivered. URV conversion changes the repricing calendar but not inventory risk, default risk, real interest costs or exchange-rate exposure. When customers gain the ability to compare price tags over time, the firm may face tighter margins despite lower aggregate inflation.
+
+The third is a saver or creditor holding financial instruments. Before the real, access to liquid interest-bearing securities could protect wealth against inflation. After stabilization, returns depended more transparently on real rates, counterparty risk and maturity. A spectacular old nominal yield should never be compared mechanically to a lower nominal yield in a stable-price economy. The relevant concept is after-tax real return net of inflation, loss and operational costs.
+
+These three balance sheets show why stabilization was neither a uniform windfall nor a uniform transfer. It changed **which risks dominated**: daily monetary erosion, relative-price volatility, unemployment, credit risk, financing costs and external shocks. Distribution followed from the interaction of these risks.
+
+## 22. Could stabilization have succeeded without the URV?
+
+Under a purely monetary strategy, the authorities could have sharply restricted money creation and credit, waiting for businesses and workers to cut their planned price increases. The difficulty with indexation is that contracts still carry the previous inflation rate. While nominal prices rise under old clauses, monetary restriction can depress sales, employment, production and credit. The economy may suffer a high real cost before those contracts are renegotiated.
+
+A universal price freeze might immediately lower measured inflation, but relative prices frozen at different points in their adjustment cycles would create powerful conflicts. Suppressing scarcity signals and cost differences also removes information from suppliers and customers. Once controls end, prices may jump and further damage trust.
+
+Full dollarization would shift contracts and payments to a foreign currency, potentially removing domestic inflation finance at the cost of sacrificing monetary-policy instruments and some lender-of-last-resort capacity. The URV sought nominal coordination without immediately transferring the entire payments system to the dollar. This comparison does not demonstrate that alternatives were impossible. It shows that each entailed different legal, monetary and distributional costs.
+
+Brazil used a process of **advance coordination**: agents could observe a relatively stable URV reference while the cruzeiro real continued to record inflation. This reduced dependence on complete surprise, the instrument central to earlier freezes. The cost of gradualism was the need for social adoption, complex contractual enforcement and a transition that prevented opportunistic increases in URV prices.
+
+## 23. The institutional legacy
+
+Price indices, periodic wage negotiations and contractual indexation did not vanish under the real. What changed was the regime in which they operated. An annually indexed rent can coexist with relatively low inflation. An economy in which almost every wage and price is adjusted to past inflation at short, staggered intervals faces a qualitatively different coordination problem. This distinction explains why later inflation shocks have not automatically recreated the 1993 system.
+
+A stable accounting unit is also not synonymous with productivity, competitiveness or social justice. An economy can price goods predictably and still grow slowly, invest too little, remain highly unequal and provide weak public services. Predictability is institutional infrastructure: it makes better decisions possible without determining which decisions will be made.
+
+The URV also teaches an important technological distinction between **innovation in money** and **innovation in economic measurement**. The reform did not launch a digital payment network to compete with the existing currency. It created a reference for calculations, which subsequently became actual money. Modern debates about central bank digital currencies, instant payments or tokenization concern different architectures and risks. Equating the URV to today's digital currencies obscures its distinctive feature: organizing contracts in a new unit before replacing settlement media.
+
+The extraordinary feature of the Brazilian experiment is not that CR$2,750 became R$1. It is that policymakers separated monetary functions usually inseparable in everyday life and used that temporary separation to dismantle a chain of price adjustments built over decades. The technique was effective enough to establish a much more stable price regime, but insufficient on its own to resolve fiscal, exchange-rate, banking and social constraints. The Real was the name of the money. The URV was the method by which a shared monetary standard became credible again.
+
+## 24. Documents and economic interpretations
 
 1. [Central Bank of Brazil — Real Plan, URV quotations and currency logistics](https://www.bcb.gov.br/controleinflacao/planoreal).
 2. [Chamber of Deputies — Provisional Measure 434 of 27 February 1994](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-434-27-fevereiro-1994-373885-norma-pe.html).
