@@ -1243,7 +1243,169 @@ Pensamento econômico e suas disputas
   - decisões: Kahneman, Thaler
 ```
 
-## XIV — A economia como disputa de interpretações e responsabilidades
+## XIV — Outras tradições decisivas: crises bancárias, comércio, África, Ásia e cuidado
+
+### 127. John Kenneth Galbraith: grandes corporações, publicidade e sociedade afluente
+
+**John Kenneth Galbraith** (1908–2006) nasceu no Canadá, estudou agricultura e economia na **University of California, Berkeley**, e desenvolveu carreira acadêmica em Harvard, além de atuar em políticas públicas e diplomacia. Sua formação agrária e participação na administração durante a Segunda Guerra Mundial aproximaram teoria e organização empresarial.
+
+Em ***The Affluent Society* (1958)**, argumentou que sociedades ricas podiam investir intensamente em consumo privado e publicidade enquanto negligenciavam infraestrutura, escolas e serviços públicos. Em ***The New Industrial State* (1967)**, descreveu o poder de grandes organizações e a importância de técnicos e administradores na definição de estratégias produtivas.
+
+Galbraith criticava a idealização de mercados compostos apenas por pequenas firmas competitivas. Ao mesmo tempo, a ideia de que grandes empresas controlariam amplamente as preferências dos consumidores foi contestada por pesquisas sobre concorrência, inovação e comportamento efetivo. Seu legado combina reflexão institucional, comunicação pública e atenção às prioridades sociais do investimento.
+
+### 128. Abba Lerner: finanças funcionais e o orçamento como instrumento
+
+**Abba P. Lerner** (1903–1982) nasceu no território da atual Moldávia, cresceu em Londres e estudou na **London School of Economics**, onde recebeu influência de economia marginalista e keynesiana. Trabalhou em modelos de preços, comércio e política fiscal.
+
+A teoria das **finanças funcionais**, formulada em artigos dos anos 1940, propunha avaliar impostos, gasto e dívida pública pelo efeito sobre emprego, preços e atividade, em vez de tratar o equilíbrio contábil anual como finalidade independente. A política fiscal deveria considerar disponibilidade de recursos reais e riscos de inflação.
+
+A abordagem influenciou debates posteriores sobre soberania monetária e correntes de teoria monetária moderna, mas não elimina restrições cambiais, capacidade produtiva, confiança e composição da dívida. Seu legado foi mudar a pergunta fiscal de “qual saldo parece virtuoso?” para “quais consequências concretas a política produz?”.
+
+### 129. Charles Kindleberger: crises internacionais e o papel da liderança financeira
+
+**Charles P. Kindleberger** (1910–2003) estudou na **University of Pennsylvania** e na **Columbia University**, trabalhou no governo americano e em programas de reconstrução europeia antes de lecionar no **MIT**. Sua experiência com comércio, finanças internacionais e reconstrução do pós-guerra influenciou estudos sobre instabilidade.
+
+Em ***The World in Depression, 1929–1939* (1973)**, argumentou que a ausência de uma potência disposta e capaz de prover certos bens públicos internacionais contribuiu para intensificar a crise. Entre esses bens estavam liquidez, mercado para produtos em queda de demanda e coordenação em dificuldades financeiras.
+
+Em ***Manias, Panics, and Crashes***, analisou ciclos de expansão de crédito, especulação, reversão de expectativas e pânico. A existência de uma potência dominante não garante boa administração das crises, e a teoria da estabilidade hegemônica é discutida por historiadores e economistas. O legado é relacionar instituições internacionais ao comportamento financeiro de mercados.
+
+### 130. Ben Bernanke, Douglas Diamond e Philip Dybvig: bancos, corridas e crises
+
+**Ben S. Bernanke** (nascido em 1953), formado em **Harvard** e doutor pelo **MIT**, estudou a Grande Depressão e desenvolveu carreira acadêmica antes de presidir o **Federal Reserve de 2006 a 2014**. Suas pesquisas examinaram como colapsos bancários reduzem crédito, informação e capacidade de investimento, agravando uma recessão para além da simples contração da quantidade de moeda.
+
+**Douglas W. Diamond** (nascido em 1953), doutor por **Yale**, e **Philip H. Dybvig** (nascido em 1955), também doutor por Yale, desenvolveram modelo no qual bancos financiam ativos de longo prazo com depósitos que podem ser retirados rapidamente. O sistema fornece liquidez aos depositantes, mas pode sofrer corridas quando expectativas se tornam autorrealizáveis.
+
+Os três receberam o prêmio de Economia de **2022**, conforme o [comunicado oficial](https://www.nobelprize.org/prizes/economic-sciences/2022/press-release/). A experiência de Bernanke como banqueiro central durante a crise de 2008 deve ser avaliada separadamente da contribuição teórica. O legado conjunto mostra que confiança, seguro, liquidez e supervisão são elementos constitutivos do sistema bancário.
+
+### 131. Paul Krugman: geografia, escala e comércio além da vantagem comparativa clássica
+
+**Paul R. Krugman** (nascido em 1953) estudou em **Yale** e obteve doutorado no **MIT**, desenvolvendo carreira acadêmica em economia internacional e geografia econômica. A expansão de comércio entre países industrializados que produziam bens semelhantes não era plenamente explicada por diferenças tradicionais de produtividade ou dotação de fatores.
+
+Modelos da **nova teoria do comércio** incorporaram retornos crescentes de escala, diferenciação de produtos e concorrência imperfeita. Empresas podem concentrar produção e vender a mercados maiores, enquanto consumidores se beneficiam de variedades; localização industrial também pode reforçar vantagens regionais por mercados e fornecedores próximos.
+
+Krugman recebeu o prêmio de Economia de **2008**. Sua atividade de colunista e comentarista político foi influente, mas não é prova de que todas suas posições conjunturais tenham o mesmo status de resultados acadêmicos. A teoria fornece instrumentos para entender comércio e concentração produtiva, não defesa automática de qualquer política de livre comércio.
+
+### 132. Jean Tirole: monopólios, regulação e mercados complexos
+
+**Jean Tirole** (nascido em 1953) estudou engenharia em instituições francesas e obteve doutorado em economia pelo **MIT**, construindo carreira ligada à **Toulouse School of Economics**. Sua formação técnica contribuiu para modelos de organização industrial e incentivos.
+
+Examinou como empresas com poder de mercado respondem a contratos, entrada de concorrentes e políticas regulatórias. Em setores de rede, plataformas ou infraestrutura, cobrar apenas o menor preço possível pode desestimular investimento; permitir preços arbitrários pode extrair renda dos consumidores. A regulação precisa considerar custos de informação e incentivos.
+
+Tirole recebeu o prêmio de Economia em **2014**. Sua contribuição é examinar mercados específicos sem presumir que a mesma regra regulatória sirva para telecomunicações, bancos, energia e plataformas digitais.
+
+### 133. Oliver Hart e Bengt Holmström: contratos incompletos e incentivos
+
+**Oliver Hart** (nascido em 1948) estudou matemática em **Cambridge** e economia em **Princeton**, enquanto **Bengt Holmström** (nascido em 1949), finlandês, estudou matemática e pesquisa operacional e obteve doutorado em **Stanford**. Ambos desenvolveram teorias de contratos e organização.
+
+Hart examinou a importância de direitos de controle quando contratos não conseguem antecipar todas as circunstâncias futuras. Holmström analisou como remunerar agentes quando resultados dependem de esforço, sorte e informações incompletas. Um pagamento inteiramente ligado ao lucro pode estimular trabalho e também tomada excessiva de risco.
+
+Receberam o prêmio de **2016**. Suas teorias ajudam a pensar terceirização, privatização, salários executivos e gestão pública, sem determinar que todas as organizações devam usar a mesma forma de contrato.
+
+### 134. Paul Milgrom e Robert Wilson: como organizar leilões de recursos públicos
+
+**Paul Milgrom** (nascido em 1948) estudou matemática e administração e obteve doutorado em **Stanford**. **Robert Wilson** (nascido em 1937) estudou e fez carreira na mesma universidade, com formação em economia e pesquisa operacional.
+
+Desenvolveram análises de leilões sob informação privada e **valor comum**, quando os participantes procuram estimar uma mesma característica incerta, como o rendimento de um recurso ou a demanda futura de uma licença. Regras de lances influenciam preços, eficiência e incentivos para revelar informações.
+
+Seu trabalho aplicado contribuiu para formatos de leilão de espectro de telecomunicações e outros direitos públicos. Receberam o prêmio de Economia em **2020**. A arrecadação máxima do leilão não é automaticamente o melhor resultado se custos elevados reduzem investimento posterior e cobertura de serviços.
+
+### 135. B. R. Ambedkar: moeda, castas e a economia da emancipação na Índia
+
+**Bhimrao Ramji Ambedkar** (1891–1956) nasceu na Índia britânica numa família sujeita a discriminação de casta. Estudou na **Columbia University** e na **London School of Economics**, além de direito, enfrentando barreiras sociais que afetavam acesso à educação e ao trabalho.
+
+Em ***The Problem of the Rupee* (1923)**, investigou o sistema monetário indiano e a relação entre regras cambiais e política colonial. Seus estudos também trataram agricultura, finanças públicas e desigualdade. Ambedkar tornou-se central na elaboração da Constituição da Índia independente e na luta contra a opressão por castas.
+
+Sua importância econômica não se limita a moeda. A discriminação social restringe mobilidade profissional, formação de capital humano e participação no mercado, alterando a produtividade e a distribuição da renda. A liberdade jurídica e a transformação social constituem condições do desenvolvimento.
+
+### 136. Dadabhai Naoroji e Romesh Chunder Dutt: a economia da drenagem colonial
+
+**Dadabhai Naoroji** (1825–1917), educador e político indiano, estudou no ambiente intelectual de Bombaim e desenvolveu carreira no Reino Unido e na Índia. **Romesh Chunder Dutt** (1848–1909) estudou e trabalhou na administração colonial antes de escrever extensamente sobre história econômica da Índia.
+
+A **teoria da drenagem** procurou explicar como receitas e recursos produzidos na Índia eram transferidos à Grã-Bretanha por remuneração de servidores, dívida, lucros e obrigações coloniais. Naoroji utilizou estimativas de renda e comércio em condições de dados incompletos; Dutt enfatizou tributação agrária e políticas que afetavam camponeses.
+
+Os cálculos históricos são discutidos, mas o mecanismo permanece relevante: superávit externo ou geração de produção não implica retenção doméstica dos benefícios se rendas e decisões são controladas por instituições coloniais. Foram intérpretes da economia do império e participantes da formação do nacionalismo indiano.
+
+### 137. Samir Amin: acumulação mundial e a crítica da dependência
+
+**Samir Amin** (1931–2018) nasceu no Egito, estudou na França e desenvolveu pesquisa e atuação intelectual em diferentes países africanos. Sua formação em economia e política foi marcada por experiências da descolonização.
+
+Em obras sobre **acumulação em escala mundial**, examinou como comércio, tecnologia e propriedade podem reproduzir hierarquias entre regiões centrais e periféricas. Defendeu estratégias de desenvolvimento com maior autonomia econômica, frequentemente associadas ao conceito de **desconexão** relativa dos mecanismos de dependência.
+
+A proposta recebeu críticas pelo risco de subestimar benefícios de integração comercial e pelas dificuldades de coordenação interna em países pobres. Seu legado está em relacionar capitalismo internacional, estruturas produtivas africanas e poder geopolítico.
+
+### 138. Thandika Mkandawire: o Estado africano e a história da capacidade pública
+
+**Thandika Mkandawire** (1940–2020) nasceu no Malawi, estudou em instituições africanas e americanas e desenvolveu carreira em pesquisa social e desenvolvimento, incluindo direção do **CODESRIA** e trabalhos em organismos internacionais.
+
+Criticou a ideia de que Estados africanos seriam necessariamente incapazes de desenvolver políticas industriais ou sociais eficazes. Investigou trajetórias históricas, construção institucional, políticas de ajuste e o papel de elites e coalizões políticas na capacidade do Estado.
+
+Seus trabalhos também questionaram generalizações que tratavam a África como um caso homogêneo. Países possuem histórias de colonização, estruturas produtivas, burocracias e condições externas distintas; reformas precisam reconhecer essa diversidade.
+
+### 139. Esther Boserup: agricultura, população e o trabalho invisível das mulheres
+
+**Esther Boserup** (1910–1999) nasceu na Dinamarca e estudou economia em **Copenhague**, trabalhando em pesquisa e organizações internacionais. Sua formação combinou observação empírica de agricultura, desenvolvimento e trabalho.
+
+Em ***The Conditions of Agricultural Growth* (1965)**, argumentou que pressão populacional pode estimular intensificação agrícola e mudança tecnológica, oferecendo contraponto à interpretação malthusiana de que mais pessoas necessariamente pressionam uma oferta agrícola quase fixa. O mecanismo depende de direitos, mercado e recursos ambientais e não significa que toda pressão populacional seja benéfica.
+
+Em ***Woman's Role in Economic Development* (1970)**, mostrou como programas e medições ignoravam atividades produtivas femininas, muitas vezes alteradas negativamente pela modernização agrícola. Seu legado conecta mudança produtiva e desigualdade de gênero antes da centralidade contemporânea da economia do cuidado.
+
+### 140. Edith Penrose: a firma cresce a partir de suas capacidades
+
+**Edith Penrose** (1914–1996) nasceu nos Estados Unidos, estudou economia e desenvolveu carreira acadêmica entre universidades americanas e britânicas. Em ***The Theory of the Growth of the Firm* (1959)**, tratou empresas como organizações que acumulam competências, conhecimento e recursos.
+
+O crescimento não é simples aumento proporcional de fábricas ou empregados. Uma empresa pode identificar novas oportunidades porque desenvolveu capacidades gerenciais e técnicas; ao expandir-se rapidamente, pode também ultrapassar a capacidade de sua administração, reduzindo eficiência. Essa visão influenciou teorias de recursos e competências empresariais.
+
+A obra mostra por que duas empresas com capital financeiro semelhante podem apresentar resultados distintos: organização e aprendizado não são integralmente comprados no mercado a qualquer momento.
+
+### 141. Anne Krueger: rent-seeking, comércio e desenvolvimento
+
+**Anne O. Krueger** (nascida em 1934) estudou economia em **Oberlin College** e **University of Wisconsin–Madison**, desenvolvendo carreira acadêmica e em organismos internacionais. Investigou comércio, licenças de importação, desenvolvimento e políticas de proteção.
+
+Seu artigo de **1974** sobre **rent-seeking** analisou como regras de restrição comercial podem induzir empresas a gastar recursos para obter licenças e privilégios em vez de ampliar produção. O custo social de uma política pode, assim, superar a perda diretamente visível nos preços.
+
+Krueger também exerceu funções no Banco Mundial e no FMI. Sua defesa de liberalização e reformas foi criticada quando políticas uniformes ignoravam capacidade produtiva e custos sociais de transição. O legado é a identificação dos incentivos gerados por privilégios públicos, não uma comprovação de que toda abertura comercial será eficaz.
+
+### 142. Dani Rodrik: a política industrial diante dos limites da globalização
+
+**Dani Rodrik** (nascido em 1957), de origem turca, estudou em **Harvard** e **Princeton** e desenvolveu carreira acadêmica em economia internacional e desenvolvimento. Seus estudos investigam a tensão entre mercados globais, autonomia política e escolhas democráticas.
+
+O **trilema político da economia mundial** afirma que integração econômica profunda, soberania nacional e política democrática não podem ser plenamente maximizadas simultaneamente em todas as dimensões. A tese procura explicitar conflitos institucionais, não oferecer uma equação numérica universal.
+
+Rodrik defende políticas industriais que respondam a problemas de informação e coordenação, mas com avaliação, mecanismos de correção e diálogo com empresas sem captura. A contribuição está em substituir oposição abstrata entre mercado e Estado por investigação das restrições concretas a cada estratégia de desenvolvimento.
+
+### 143. Justin Yifu Lin: transformação estrutural e vantagens comparativas dinâmicas
+
+**Justin Yifu Lin** (nascido em 1952) estudou economia e desenvolvimento, obteve doutorado na **Universidade de Chicago** e desenvolveu carreira na **Peking University** e no **Banco Mundial**, onde foi economista-chefe. Sua trajetória atravessou experiências da transformação econômica chinesa e do debate internacional sobre desenvolvimento.
+
+A abordagem da **nova economia estrutural** propõe que política industrial considere a dotação de fatores e as vantagens comparativas atuais e potenciais, ajudando empresas a superar falhas de coordenação e infraestrutura. A ideia não é escolher setores arbitrários e protegê-los indefinidamente; sua implementação depende de identificar atividades em que capacidades produtivas podem surgir de maneira competitiva.
+
+Críticos questionam a capacidade de governos de conhecer oportunidades futuras e de evitar captura. A experiência chinesa oferece múltiplos mecanismos — abertura comercial, empresas públicas, investimento privado, competição regional e política industrial — que não podem ser reduzidos a uma única receita.
+
+### 144. Fernando Fajnzylber: industrialização latino-americana com competitividade e equidade
+
+**Fernando Fajnzylber** (1940–1991), economista chileno que trabalhou em instituições latino-americanas e na **CEPAL**, foi influente na discussão de industrialização, progresso técnico e distribuição. Sua formação e carreira estiveram ligadas a pesquisas sobre indústria, comércio exterior e capacidade tecnológica regional.
+
+Em ***Industrialización trunca de América Latina* (1983)**, analisou como a região desenvolveu indústrias sem superar plenamente lacunas de produtividade e inovação. Em estudos posteriores, defendeu que crescimento competitivo e equidade social não precisavam ser objetivos incompatíveis, desde que educação, tecnologia e instituições fossem desenvolvidas conjuntamente.
+
+A análise questionou modelos que confundiam substituição de importações com criação de capacidade competitiva duradoura. Seu legado influenciou a ideia de **transformação produtiva com equidade** na agenda cepalina.
+
+### 145. Nancy Folbre: trabalho de cuidado e a economia que os indicadores escondem
+
+**Nancy Folbre** (nascida em 1952) estudou economia e desenvolveu carreira acadêmica em instituições americanas, destacando-se como pesquisadora de trabalho doméstico, família, desigualdade de gênero e políticas sociais. A abordagem combina economia, história e análise institucional.
+
+O **trabalho de cuidado** com crianças, idosos e pessoas dependentes produz capacidades e bem-estar, embora parte expressiva dele ocorra fora de transações monetárias captadas pelo PIB. Distribuição desigual desse trabalho altera tempo disponível, remuneração, escolhas de formação e a sustentabilidade de sistemas de proteção social.
+
+Sua contribuição não consiste em atribuir automaticamente um salário de mercado a cada relação familiar, mas em mostrar que decisões econômicas e políticas públicas dependem de atividades que as estatísticas tradicionais medem de maneira incompleta.
+
+### 146. Raghuram Rajan: bancos, incentivos e a fragilidade das finanças globais
+
+**Raghuram G. Rajan** (nascido em 1963) nasceu na Índia, estudou no **Indian Institute of Technology Delhi**, no **Indian Institute of Management Ahmedabad** e concluiu doutorado em finanças na **MIT Sloan School of Management**. Trabalhou em pesquisa acadêmica, foi economista-chefe do **FMI** e governou o **Banco da Reserva da Índia** entre 2013 e 2016.
+
+Em pesquisa sobre sistemas financeiros, examinou como incentivos de remuneração, securitização, risco de liquidez e garantias públicas implícitas podem estimular decisões que parecem lucrativas individualmente e tornam o conjunto do sistema vulnerável. Antes da crise global de 2008, advertiu sobre alguns desses riscos, sem prever cada evento ou sua data.
+
+Seu trabalho posterior relacionou finanças, desigualdade, comunidades e instituições. O legado é um alerta contra a tese de que mercados financeiros diversificados são necessariamente estáveis quando os intermediários compartilham a mesma exposição e dependem de refinanciamento contínuo.
+
+## XV — A economia como disputa de interpretações e responsabilidades
 
 O filósofo da Antiguidade procurava estabelecer justiça e ordem em cidades que dependiam de trabalho hierarquizado. O mercantilista auxiliava governos que competiam por metais, navios e receitas. O fisiocrata explicava a circulação do excedente agrário; o clássico procurava compreender produção e distribuição no capitalismo industrial nascente. Marx situou a relação entre capital e trabalho num sistema histórico conflituoso; o marginalista modelou escolhas e preços; o econometrista transformou hipóteses em relações passíveis de teste; o macroeconomista da Depressão examinou por que o desemprego podia persistir; economistas do desenvolvimento questionaram se receitas de países ricos se aplicavam às periferias.
 
