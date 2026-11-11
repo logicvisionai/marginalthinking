@@ -54,6 +54,18 @@ The eleven start years are **1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 200
 
 The counts use the **start year of each term**, not the number of calendar years served. No term starting in the 1970s does not mean Brazil lacked foreign policy in that decade. Values come solely from the UN's historical membership list.
 
+```chart
+type: bar
+title: Brazil's ordinal ranks across four 2026 Brand Finance Global Soft Power Index dimensions
+unit: rank among 193 UN member states (1 is best; not a cardinal score)
+Culture and Heritage | 11
+Overall | 29
+International Relations | 33
+Sustainable Future | 43
+```
+
+The second chart displays **ordinal positions**, not continuous scores. Bar lengths do not measure the magnitude of Brazil's influence, and the four listed dimensions are not mutually additive. Brand Finance's **12 June 2026** publication documents ranks 11, 29, 33 and 43 using the Global Soft Power Index survey framework (more than 150,000 responses across over 100 countries; **193 UN member states** evaluated and 55 measures). The available article does not establish an independent, causal effect of Brazilian diplomacy on any rank. [Brand Finance methodology and results](https://brandfinance.com/insights/brazils-growing-soft-power-culture-diplomacy-climate-leadership).
+
 ## 2. Before independence: Atlantic institutions and colonial hierarchy
 
 Foreign relations under colonial rule belonged to the Portuguese Crown. The transfer of the royal court to Rio de Janeiro in **1808** altered the empire's political geography: the opening of ports, resident foreign envoys and trade-policy decisions made the city a monarchical capital. The **1810** treaties with Britain exposed asymmetry. British protection and commercial access were accompanied by tariff privileges and political commitments. In **1815**, Brazil was elevated to a constituent kingdom of the United Kingdom of Portugal, Brazil and the Algarves, without being an independent sovereign state.
