@@ -185,7 +185,7 @@ Seu legado está na tensão entre liberdade econômica e capacidade de governo. 
 
 Em ***A teoria dos sentimentos morais* (1759)**, examinou simpatia, julgamento social e formação de normas. Os indivíduos não se limitavam a calculadoras de lucro; necessitavam de reconhecimento, autocontrole e confiança. A leitura que reduz Smith ao egoísmo universal ignora esse fundamento de sua obra.
 
-A viagem como tutor do jovem duque de Buccleuch aproximou Smith de debates franceses e dos fisiocratas. Em ***Uma investigação sobre a natureza e as causas da riqueza das nações* (1776)**, explicou que divisão do trabalho amplia produtividade mediante especialização, aprendizado e máquinas; a escala do mercado limita até onde a divisão pode avançar; a acumulação de capital permite sustentar trabalhadores e processos produtivos antes das vendas.
+A viagem como tutor do jovem duque de Buccleuch aproximou Smith de debates franceses e dos fisiocratas. Em [***Uma investigação sobre a natureza e as causas da riqueza das nações* (1776)**](https://www.gutenberg.org/ebooks/3300), explicou que divisão do trabalho amplia produtividade mediante especialização, aprendizado e máquinas; a escala do mercado limita até onde a divisão pode avançar; a acumulação de capital permite sustentar trabalhadores e processos produtivos antes das vendas.
 
 O famoso exemplo da fábrica de alfinetes ilustrava ganhos de produtividade, mas não constituía uma série estatística nacional. Smith examinou tributos, comércio colonial, monopólios, companhias privilegiadas, bancos e educação. Criticou comerciantes que buscavam proteção estatal para elevar preços e restringir concorrência. Sua defesa de comércio mais livre não era uma defesa incondicional de todo poder empresarial.
 
@@ -881,7 +881,7 @@ Os três receberam o prêmio de Economia de **2019**. Suas contribuições não 
 
 O desafio é que pessoas e governos não recebem tratamentos de forma aleatória em boa parte das situações econômicas. Comparar apenas trabalhadores com e sem ensino superior pode misturar o efeito da educação com renda familiar, capacidade anterior e outras características. Instrumentos, descontinuidades e diferenças-em-diferenças procuram identificar variações menos contaminadas por essas diferenças.
 
-Receberam o prêmio de Economia de **2021**. O debate sobre salário mínimo demonstrou que resultados empíricos podem contradizer certas previsões de modelos simplificados, sem comprovar que todo aumento de salário mínimo, em qualquer magnitude, será inofensivo. A inferência depende de mercado, período, grupos e hipóteses identificadoras. Seu legado foi elevar a exigência de separar correlação de causalidade aplicada.
+Receberam o [prêmio de Economia de **2021**](https://www.nobelprize.org/prizes/economic-sciences/2021/press-release/). O debate sobre salário mínimo demonstrou que resultados empíricos podem contradizer certas previsões de modelos simplificados, sem comprovar que todo aumento de salário mínimo, em qualquer magnitude, será inofensivo. A inferência depende de mercado, período, grupos e hipóteses identificadoras. Seu legado foi elevar a exigência de separar correlação de causalidade aplicada.
 
 ### 93. Claudia Goldin: a história das mulheres escondida nas estatísticas
 
@@ -905,7 +905,7 @@ Em trabalhos de **1986 e 1990**, Romer formalizou mecanismos que relacionam conh
 
 ### 95. William Nordhaus: crescimento, carbono e os custos de longo prazo
 
-**William D. Nordhaus** (1941–2026) estudou na **Yale University** e obteve doutorado em economia em **Yale**, desenvolvendo carreira acadêmica associada a crescimento, energia e mudança climática. Sua pesquisa procurou incorporar clima e emissões ao cálculo econômico de longo prazo.
+**William D. Nordhaus** (1941–2026; [obituário da Universidade Yale, 30 de outubro de 2026](https://news.yale.edu/2026/10/30/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)) estudou na **Yale University** e obteve doutorado em economia em **Yale**, desenvolvendo carreira acadêmica associada a crescimento, energia e mudança climática. Sua pesquisa procurou incorporar clima e emissões ao cálculo econômico de longo prazo.
 
 Modelos de **avaliação integrada**, como o **DICE**, conectam atividade econômica, emissões, temperatura e danos estimados sob hipóteses sobre crescimento, tecnologia e preferências intertemporais. O **preço social do carbono** procura expressar custos de emissões adicionais para orientar decisões tributárias e investimento. A taxa de desconto é particularmente controversa porque altera o peso atribuído a danos futuros sofridos por gerações ainda não nascidas.
 
@@ -1283,7 +1283,7 @@ Os três receberam o prêmio de Economia de **2022**, conforme o [comunicado ofi
 
 Modelos da **nova teoria do comércio** incorporaram retornos crescentes de escala, diferenciação de produtos e concorrência imperfeita. Empresas podem concentrar produção e vender a mercados maiores, enquanto consumidores se beneficiam de variedades; localização industrial também pode reforçar vantagens regionais por mercados e fornecedores próximos.
 
-Krugman recebeu o prêmio de Economia de **2008**. Sua atividade de colunista e comentarista político foi influente, mas não é prova de que todas suas posições conjunturais tenham o mesmo status de resultados acadêmicos. A teoria fornece instrumentos para entender comércio e concentração produtiva, não defesa automática de qualquer política de livre comércio.
+Krugman recebeu o [prêmio de Economia de **2008**](https://www.nobelprize.org/prizes/economic-sciences/2008/press-release/). Sua atividade de colunista e comentarista político foi influente, mas não é prova de que todas suas posições conjunturais tenham o mesmo status de resultados acadêmicos. A teoria fornece instrumentos para entender comércio e concentração produtiva, não defesa automática de qualquer política de livre comércio.
 
 ### 132. Jean Tirole: monopólios, regulação e mercados complexos
 
@@ -1291,7 +1291,7 @@ Krugman recebeu o prêmio de Economia de **2008**. Sua atividade de colunista e 
 
 Examinou como empresas com poder de mercado respondem a contratos, entrada de concorrentes e políticas regulatórias. Em setores de rede, plataformas ou infraestrutura, cobrar apenas o menor preço possível pode desestimular investimento; permitir preços arbitrários pode extrair renda dos consumidores. A regulação precisa considerar custos de informação e incentivos.
 
-Tirole recebeu o prêmio de Economia em **2014**. Sua contribuição é examinar mercados específicos sem presumir que a mesma regra regulatória sirva para telecomunicações, bancos, energia e plataformas digitais.
+Tirole recebeu o [prêmio de Economia em **2014**](https://www.nobelprize.org/prizes/economic-sciences/2014/press-release/). Sua contribuição é examinar mercados específicos sem presumir que a mesma regra regulatória sirva para telecomunicações, bancos, energia e plataformas digitais.
 
 ### 133. Oliver Hart e Bengt Holmström: contratos incompletos e incentivos
 
@@ -1299,7 +1299,7 @@ Tirole recebeu o prêmio de Economia em **2014**. Sua contribuição é examinar
 
 Hart examinou a importância de direitos de controle quando contratos não conseguem antecipar todas as circunstâncias futuras. Holmström analisou como remunerar agentes quando resultados dependem de esforço, sorte e informações incompletas. Um pagamento inteiramente ligado ao lucro pode estimular trabalho e também tomada excessiva de risco.
 
-Receberam o prêmio de **2016**. Suas teorias ajudam a pensar terceirização, privatização, salários executivos e gestão pública, sem determinar que todas as organizações devam usar a mesma forma de contrato.
+Receberam o [prêmio de **2016**](https://www.nobelprize.org/prizes/economic-sciences/2016/press-release/). Suas teorias ajudam a pensar terceirização, privatização, salários executivos e gestão pública, sem determinar que todas as organizações devam usar a mesma forma de contrato.
 
 ### 134. Paul Milgrom e Robert Wilson: como organizar leilões de recursos públicos
 
@@ -1307,7 +1307,7 @@ Receberam o prêmio de **2016**. Suas teorias ajudam a pensar terceirização, p
 
 Desenvolveram análises de leilões sob informação privada e **valor comum**, quando os participantes procuram estimar uma mesma característica incerta, como o rendimento de um recurso ou a demanda futura de uma licença. Regras de lances influenciam preços, eficiência e incentivos para revelar informações.
 
-Seu trabalho aplicado contribuiu para formatos de leilão de espectro de telecomunicações e outros direitos públicos. Receberam o prêmio de Economia em **2020**. A arrecadação máxima do leilão não é automaticamente o melhor resultado se custos elevados reduzem investimento posterior e cobertura de serviços.
+Seu trabalho aplicado contribuiu para formatos de leilão de espectro de telecomunicações e outros direitos públicos. Receberam o [prêmio de Economia em **2020**](https://www.nobelprize.org/prizes/economic-sciences/2020/press-release/). A arrecadação máxima do leilão não é automaticamente o melhor resultado se custos elevados reduzem investimento posterior e cobertura de serviços.
 
 ### 135. B. R. Ambedkar: moeda, castas e a economia da emancipação na Índia
 
