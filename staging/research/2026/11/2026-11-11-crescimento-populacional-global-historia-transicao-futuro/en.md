@@ -22,30 +22,30 @@ For the planet as a whole, changes in the number of inhabitants result from birt
 
 The UN estimated **3.31 births per woman in 1990** and approximately **2.25 in 2024**. Fertility near **2.1 births per woman** is commonly called replacement level in low-mortality societies. That level is not a universal physical constant: survival to reproductive age and the sex ratio at birth affect the actual replacement threshold. A population may keep growing long after fertility falls below replacement because large generations born previously are still entering childbearing years and because people survive for longer. This phenomenon is known as **population momentum**. [2][3]
 
-~~~chart
+```chart
 type: line
 title: Global fertility according to the UN
 unit: births per woman
 1990 | 3.31
 2024 | 2.25
-~~~
+```
 
 The two observations describe a long-run change, not a complete annual time series. Global averages conceal different national realities. Some countries are already below 1.4 births per woman, while others remain at four or more. Infant survival, voluntary access to contraception, education, housing costs, labour conditions and family norms all influence reproductive decisions, but no single explanatory variable can determine the choices made by every household. [2]
 
 Population size is a **stock**; births, deaths and migration are **flows**; fertility is a **synthetic rate**. Confusing them leads to misleading conclusions: fewer births do not immediately mean fewer residents, rising life expectancy cannot by itself determine annual population growth, and migration can increase the population of one country without increasing the world's population.
 
-~~~flow
+```flow
 Lower mortality → more survivors in each generation → larger population stock
 Education, urbanization, costs and voluntary family planning → gradual fertility decline → smaller birth cohorts
 Large earlier birth cohorts + longer lives → population momentum → continued growth despite lower fertility
 Smaller birth cohorts + ageing → changes in labour supply, taxpayers and recipients of care
-~~~
+```
 
 ## 3. From 1950 to 2100: a curve that changes its meaning
 
 The world had roughly **2.5 billion inhabitants in 1950**, **6.2 billion in 2000**, and **8.2 billion in 2024**. These figures are historical demographic estimates rather than simultaneous headcounts. Approximately 10.3 billion in the mid-2080s and 10.2 billion in 2100 are central projections of the WPP 2024 revision. The absolute number of people can continue increasing while its annual percentage growth slows; a change across two dates must be evaluated relative to the starting population. [1][5][6]
 
-~~~chart
+```chart
 type: line
 title: World population — historical estimates and central UN trajectory
 unit: billions of people
@@ -54,7 +54,7 @@ unit: billions of people
 2024 | 8.2
 2085 | 10.3
 2100 | 10.2
-~~~
+```
 
 The point for 2085 represents **approximately** the middle of the decade in which the UN expects a peak, rather than a precise yearly projection. Straight lines connecting rounded anchor points should not be interpreted as an annual linear forecast. The main change from the twentieth-century expectation of unending growth is that sustained low fertility could eventually reverse the global population trend without worldwide catastrophe.
 
@@ -75,7 +75,7 @@ Longer life expectancy has been among the most consequential economic and social
 
 UNICEF recorded global under-five mortality of **93.5 per thousand live births in 1990**, **76.7 in 2000**, **50.6 in 2010** and **37.4 in 2024**. The World Health Organization's May 2026 update estimated **4.9 million deaths of children younger than five during 2024**. Exceptional progress coexists with severe inequality: the risk of childhood death in poorer regions remains much higher than in affluent countries, while the pace of mortality improvement has slowed over the last decade. [7][8]
 
-~~~chart
+```chart
 type: line
 title: Under-five mortality — worldwide
 unit: deaths per thousand live births
@@ -83,7 +83,7 @@ unit: deaths per thousand live births
 2000 | 76.7
 2010 | 50.6
 2024 | 37.4
-~~~
+```
 
 Improved survival does more than increase the population count. It changes family decisions. When children become more likely to survive, fewer births may be required to reach a desired number of surviving children. Families may then invest more in each child, provided that income, public services and security allow it. The adjustment differs across places and generations. Continuing preventable deaths, chronic disease and unequal health access show how even the ability to live a long life remains unevenly distributed.
 
@@ -103,20 +103,20 @@ Access to affordable childcare, parental leave, reproductive healthcare, housing
 
 The UN's three demographic groups indicate very different future conditions. In countries and areas that had already peaked, including China, Germany, Japan and Russia, the combined population was projected to decline by **14% between 2024 and 2054**. Countries expected to peak between 2025 and 2054, including Brazil, would together grow by about **5.3%** over the same interval. Across the 126 that would keep growing beyond 2054, aggregate growth would be about **38%**. These are changes for groups of countries, not percentages applicable to each individual member. [2]
 
-~~~chart
+```chart
 type: bar
 title: Projected population change by demographic stage, 2024–2054
 unit: % of each country group's combined population
 Peaked by 2024 | -14
 Peak in 2025–2054 | 5.3
 Continued growth after 2054 | 38
-~~~
+```
 
 Sub-Saharan Africa is central to the coming increase in the world's working-age population and the opportunity to turn youth into greater productive capacity. The World Bank projected in a 2025 regional study that the region's economically active population would expand by **more than 620 million between 2025 and 2050**. This is not a promise that 620 million jobs will automatically be created. Wages, productivity, energy, education, transport, healthcare, investment and security determine whether the demographic opportunity produces rising living standards or instead increases unemployment and insecure work. [11]
 
 China, South Korea, Japan and parts of Europe face a nearly opposite transition: smaller cohorts enter the labour market while the share of elderly residents increases. India still has large working-age generations but substantial regional differences in fertility, education and infrastructure. The United States and Canada combine ageing with migration, which changes age composition without eliminating the worldwide trend toward longer lives. In Gulf economies, international labour migration can powerfully shape the population profile under varying rules of citizenship, employment and residence.
 
-~~~map
+```map
 title: Regional contrasts in demographic transition
 Sub-Saharan Africa | Expanding working-age generations | Outcomes depend on jobs, investment and public services
 East Asia | Very low fertility and rapid ageing | Rising costs of pensions, care and labour replacement
@@ -124,7 +124,7 @@ South Asia | Large cohorts and major domestic differences | Education, women's e
 Europe | Larger elderly shares and diverse national trends | Immigration and productivity do not remove institutional choices
 Latin America | Rapid transition amid persistent inequality | Ageing may advance before broad high-income prosperity
 North America | Ageing combined with immigration | Integration, housing and labour institutions are key constraints
-~~~
+```
 
 A demographic map is not a ranking of powerful and weak nations. Population size does not automatically translate into productivity, fiscal strength or military capability. A youthful society without adequate employment is not guaranteed rapid growth; an older society can sustain high incomes with education, capital, technology and strong institutions. Age structure creates possibilities and constraints, not predetermined outcomes.
 
@@ -202,7 +202,7 @@ The **IPAT** relationship—environmental impact linked to population, affluence
 
 In the IPCC's Sixth Assessment Report, the **10% of households with the highest per-person emissions** were estimated to account for **34–45%** of global consumption-based household greenhouse-gas emissions, while the **lowest-emitting 50%** accounted for **13–15%**. These are methodological ranges, not point estimates from which an arbitrary midpoint can be declared observed. The additional resource impact of a high-consumption individual is not equivalent to that of someone lacking modern electricity. These inequalities do not imply that population growth is environmentally irrelevant. [21]
 
-~~~mindmap
+```mindmap
 Demographic sustainability
 - People
   - total numbers
@@ -220,7 +220,7 @@ Demographic sustainability
   - infrastructure and sanitation
   - reproductive rights and services
   - finance and regulation
-~~~
+```
 
 A debate focused exclusively on population size can unfairly demand that poor people limit aspirations for health and comfort while affluent groups maintain resource-intensive lifestyles. The opposite assumption, that technology will always eliminate demographic pressures, is also unsupported. Efficiency can lower input use per product and simultaneously lower prices, allowing demand to rise—the rebound effect. Absolute emissions reductions require clean production, electrification, infrastructure, patterns of consumption, enforceable rules and investment.
 
