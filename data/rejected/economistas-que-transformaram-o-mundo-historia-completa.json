@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "MT-HIST-ECONOMISTS-2026-11-11",
+  "slug": "economistas-que-transformaram-o-mundo-historia-completa",
+  "revision": 0,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-11T20:42:33-03:00",
+  "reviewed_branch": "main",
+  "reviewed_commit": "d467af846d4039e99eff9f429aab8cc343faec8f",
+  "pending_blob_sha": "b11cd391b9eaf576e51d39c2a22e83350dd3086c",
+  "source_blob_shas": {
+    "en": "1c82f268c5316b59e3a7470ca53387d4252e3f19",
+    "pt-BR": "127952992aed0e9b7535d22df8cb3aeb7beff9e6"
+  },
+  "checks": {
+    "source_integrity": "passed_exact_git_blob_identification",
+    "research_depth": "not_blocking_on_length",
+    "visual_evidence_readiness": "failed_minimum_visual_evidence_budget",
+    "editorial_publication_readiness": "rejected",
+    "factual_methodology": "not_fully_audited",
+    "translation": "not_fully_audited",
+    "pipeline_validation": "not_executed_full_repository"
+  },
+  "issues": [
+    {
+      "severity": "blocking",
+      "category": "visual_evidence_readiness",
+      "location": "staging/research/2026/11/economistas-que-transformaram-o-mundo-historia-completa/en.md and pt-BR.md; visual fenced blocks",
+      "evidence": "Each manuscript has exactly one ```chart block and zero ```map blocks. scripts/validate-editorial-depth.mjs (blob 33ffa8766815332be5f171d64e00f73a24bc132c) requires at least two chart blocks and one map block for nonweekly research; the required budget is unmet in both locales.",
+      "required_correction": "Add at least one substantively sourced, reproducible chart and one meaningful evidence-backed map in each language, with independently verifiable datasets, dates, units, limits and identical numeric chart series across EN/PT-BR. If no defensible geographical map exists, revise the editorial visual design/policy through its authorized governance rather than inventing geography."
+    }
+  ],
+  "limitations": [
+    "Visual gate assessed directly against current script source; full-repository scripts were not executed.",
+    "This rejection is based on independently identifiable structural failures, not a claim that the manuscript's historical assertions are false.",
+    "Pending omits explicit revision; recorded as 0 under pipeline fallback Number.isInteger(p.revision)?p.revision:0.",
+    "No reports, public indexes, taxonomy, CSS or institutional content changed."
+  ]
+}
