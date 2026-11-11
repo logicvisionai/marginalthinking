@@ -307,7 +307,38 @@ A história do real tampouco autoriza afirmar que a inflação se tornou imposs�
 
 A URV resolveu um problema estreito e gigantesco: permitiu que uma sociedade ainda obrigada a pagar com uma moeda que se depreciava pudesse aprender antecipadamente a **pensar, negociar e denominar contratos** em outra unidade. A troca física em julho só consolidou uma convenção nominal que já estava sendo construída. Seu legado duradouro não é a imagem de uma cédula, mas o fato de que milhões de agentes passaram a compartilhar uma escala relativamente estável para medir preços, direitos e obrigações.
 
-## 21. Fontes documentais e interpretações
+
+## 21. Salários, preços e dívidas: três balanços domésticos sob a mesma reforma
+
+A experiência da URV pode ser compreendida melhor examinando três posições patrimoniais distintas. A primeira é a de uma família assalariada sem reserva financeira. Sua renda depende de uma data de pagamento e se deprecia entre recebimento e compra; reduzir inflação melhora seu poder de compra mesmo sem aumento nominal expressivo, desde que preserve emprego e salário real. O ganho desaparece se o trabalhador perde sua ocupação, sofre redução de jornada ou enfrenta aumento relativo de alimentos superior à renda.
+
+A segunda é a de uma pequena empresa compradora de insumos a prazo. Uma parte de seus custos pode estar em contratos indexados, enquanto as vendas são pagas à vista; outra pode ter preços reajustados apenas após a entrega da mercadoria. A conversão para URV muda o calendário de repactuação, mas não elimina o risco de estoque, inadimplência, juro real ou flutuação cambial. Se a empresa vendia para consumidores que passaram a comparar preços com maior precisão, sua margem podia diminuir apesar de a inflação média cair.
+
+A terceira é a de um poupador ou credor com ativos financeiros. Antes do real, o acesso a aplicações de liquidez diária protegia parte do patrimônio contra a inflação; depois, a remuneração dependeria mais de juros reais, risco de contraparte e prazo. A mesma taxa nominal que antes parecia astronômica não deve ser comparada diretamente à taxa nominal de um período estável. O indicador adequado é o retorno real após impostos, inflação, perdas e custos operacionais.
+
+Esses três balanços revelam por que a reforma não pode ser descrita somente como um ganho generalizado ou uma transferência generalizada. Ela alterou **qual risco predominava**: erosão monetária cotidiana, volatilidade de preços relativos, desemprego, risco de crédito, custo de capital, choque externo. Os efeitos distributivos resultaram da combinação de todos eles.
+
+## 22. A alternativa de uma desinflação sem URV
+
+Numa estabilização puramente monetária, a autoridade poderia restringir fortemente a emissão e o crédito, esperando que empresas e trabalhadores reduzissem seus reajustes. O problema da indexação é que os contratos continuam carregando inflação pretérita. Enquanto preços nominais sobem por regras antigas, a restrição monetária reduz vendas, produção e disponibilidade de crédito. A economia pode pagar um custo real elevado até que a renegociação contratual se complete.
+
+Numa tentativa exclusivamente baseada em congelamento, o governo poderia proibir reajustes por determinado período. O efeito imediato no índice seria grande, mas os preços relativos congelados em diferentes pontos de seus ciclos criariam interesses conflitantes. Reprimir sinais de escassez e diferenças de custo reduziria a informação disponível a produtores e consumidores. O posterior descongelamento poderia restaurar a inflação e deteriorar a confiança na autoridade.
+
+Numa dolarização plena, os contratos e pagamentos poderiam passar a outra moeda, possivelmente eliminando o risco de emissão doméstica, mas ao custo de perder instrumentos próprios de política monetária e parte da capacidade de atuação como emprestador de última instância. A URV procurou obter a coordenação nominal sem entregar de imediato todo o sistema monetário ao dólar. A comparação não prova que qualquer alternativa teria sido impossível; mostra que cada uma envolvia restrições institucionais e distributivas diferentes.
+
+A sequência brasileira operou como uma reforma de coordenação antecipada: tornou observável a estabilidade nominal em URV enquanto a inflação ainda aparecia no cruzeiro real. Isso reduziu a necessidade de transformar a mudança de preços relativos numa surpresa completa, como nas tentativas de congelamento anteriores. O preço dessa flexibilidade foi depender da adesão social, da aplicação jurídica de regras complexas e da capacidade de administrar a transição monetária sem permitir que a própria URV herdasse remarcações generalizadas.
+
+## 23. O legado institucional até o presente
+
+A utilização de índices de preços, a negociação de reajustes e a proteção de contratos não desapareceram com o real. O que mudou foi o regime em que essas regras operam. Um aluguel indexado anualmente pode conviver com inflação baixa; uma economia em que quase todos os preços e salários são reajustados pela inflação passada a cada poucas semanas enfrenta outro problema de coordenação. A distinção entre indexação residual e indexação generalizada é central para compreender por que choques inflacionários posteriores não recriaram automaticamente 1993.
+
+A estabilidade da unidade de conta também não equivale a produtividade, competitividade ou justiça social. Uma economia pode denominar preços de forma previsível e ainda crescer pouco, investir insuficientemente, apresentar grande desigualdade e conviver com serviços públicos precários. A previsibilidade é uma infraestrutura institucional: permite melhores decisões sem determinar qual decisão será tomada.
+
+No campo tecnológico, a URV oferece uma lição sobre a diferença entre **inovar no dinheiro** e **inovar na mensuração econômica**. A reforma não introduziu uma rede de pagamentos digital para disputar com a moeda existente; introduziu um padrão de cálculo que depois se tornou o novo dinheiro. Debates modernos sobre moedas digitais, pagamentos instantâneos ou tokenização tratam de arquiteturas e riscos distintos. Confundir a URV com uma moeda digital contemporânea apagaria justamente sua contribuição histórica: ordenar os contratos em outra referência antes de trocar o instrumento de liquidação.
+
+A parte extraordinária do experimento brasileiro não reside numa conversão de CR$ 2.750 em R$ 1. Reside em ter separado, por alguns meses, funções monetárias normalmente inseparáveis no cotidiano e utilizado essa separação para desarmar uma cadeia de reajustes construída ao longo de décadas. Essa solução foi suficientemente eficaz para inaugurar um regime de preços muito mais estável; não foi suficiente para resolver sozinha o problema fiscal, cambial, bancário e social do país. O Real foi o nome de uma moeda. A URV foi o método de tornar novamente possível acreditar numa unidade de valor.
+
+## 24. Fontes documentais e interpretações
 
 1. [Banco Central do Brasil — Plano Real, fases, cotações da URV e implantação do meio circulante](https://www.bcb.gov.br/controleinflacao/planoreal).
 2. [Câmara dos Deputados — Medida Provisória 434, de 27 de fevereiro de 1994](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-434-27-fevereiro-1994-373885-norma-pe.html).
