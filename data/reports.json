@@ -24419,17 +24419,17 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 2,
+    "revision": 3,
     "assessment_confidence": "medium",
     "producer_checks": {
-      "information_cutoff": "2026-11-11 BRT. Historical data and 1994–1999 legislation, URV quotations, employment/distribution and banking mechanisms checked against BCB, IBGE/IPEA, 1994 MPs 434/482/542, Laws 8,880/9,069, BCB contemporary 1995/1999 documents and specialist peer-reviewed economic interpretations. Sources have distinct publication dates from underlying event dates.",
+      "information_cutoff": "2026-11-11 America/Sao_Paulo; BCB, legal primary sources and IPEA IBGE official annual series, updated 2026-01-09 with 2025 observation. The latest observed annual IPCA 2025=4.26%, compared to 2021=10.06%, as a historically contextualized post-1999 persistence test; not an estimation of policy causal contributions.",
       "research_depth": "23 numbered research chapters plus documentary bibliography (24 headings), roughly 7,830 English and 8,980 Portuguese words, exploring inflation inertia and 1960–1999 historical conditions, salary dates, law-specific conversion, detailed URV daily calculation, bank reserves, politics, distribution, psychology, credit, trade, fiscal/monetary policy, exchange 1999 and alternative counterfactuals.",
-      "source_check": "Official MP 482 April 1994 Annex describes three-index average (IPC-Fipe/IPCA-E/IGP-M) and daily nth-root factor; MP 542 June 1994 and BCB's 30-year history describe 100% initial deposit reserve requirement and money-base ceilings. The wage mean is based on Nov93–Feb94 payday-specific URV quotations under Art19 Lei 8.880; minimum wage Art18 separate methodology. Other principal figures from BCB and IBGE/IPCA series; no fake contemporary sources.",
+      "source_check": "Official MP 482 April 1994 Annex describes three-index average (IPC-Fipe/IPCA-E/IGP-M) and daily nth-root factor; MP 542 June 1994 and BCB's 30-year history describe 100% initial deposit reserve requirement and money-base ceilings. The wage mean is based on Nov93–Feb94 payday-specific URV quotations under Art19 Lei 8.880; minimum wage Art18 separate methodology. Other principal figures from BCB and IBGE/IPCA series; no fake contemporary sources. Added Ipeadata 2025 annual 4.26% versus 2021 10.06% (IBGE official data, collection updated January 9, 2026), linked directly to institutional legacy rather than artificial research metadata.",
       "data_lineage": "Annual IPCA values 1985–1998 from IPEA annual IPCA (IBGE SNIPC) series. Monthly Jan–Dec 1994 IPCA values 41.31,40.27,42.75,42.68,44.03,47.43,6.84,1.86,1.53,2.62,2.81,1.71 from IBGE historical values. Annual chart 1993–1998 = 2477.15,916.46,22.41,9.56,5.22,1.65, with 1994 year-end mixed regime expressly qualified. URV parity Mar1 647.50, Mar2 657.50, Jun30 2750 from BCB and legal acts. All numeric examples besides observed data explicitly labeled illustrative. Additional primary normative references MP 482 (method of IGP-M/IPCA-E/IPC-Fipe and business day evolution) and MP 542 (initial real issue), BCB record initial base-money ceilings and 100% demand-deposit reserve requirement.",
       "visual_evidence": "Both locales contain >=3 Markdown tables, two charts with precisely identical ordered data arrays (12 monthly IPCA, 6 annual IPCA), one causal transmission flow and one institutional comparison geographical map. Chart units and periods explicit, no cardinal rank comparisons.",
       "bilingual_parity": "English and Portuguese contain identical 23 analytical sections plus bibliography, same two quantitative chart data arrays (1994 monthly IPCA and 1993–98 annual IPCA), equivalent flow/map and table evidence, same precise legal equations, central-bank 100% reserve regulation caveat, and international comparative references.",
       "editorial_style": "Prose contains no SEO meta descriptions, generation commentary, reader instructions or repeated assistant-oriented scaffolding. Quantitative and conceptual distinctions stated within analysis.",
-      "editorial_status": "Revised producer manuscript revision 2 staged after adding original MP482 daily URV formula, MP542 and BCB 100% reserve rule, and international comparison primary references; independent QA must verify exact Git blobs and evidence. Not published."
+      "editorial_status": "Revision 3 drafted after repository editorial depth CI required substantive 2025/2026 observation. Historical study includes source-linked 2021 vs 2025 IPCA observation in BOTH languages; prior revision 2 approval must be refreshed against new pending and staged SHA before publication update. Public rev2 remains until new QA-bound promotion."
     },
     "contrary_evidence": [
       "1992–1994 operational fiscal balances near zero according to Sachs/Zini weaken any simple claim that current deficit alone immediately sustained inflation.",
@@ -24448,7 +24448,8 @@
       "Historical interpretation uses secondary scholarship with contested readings; government explanations are treated as official policy rationale, not independent effect estimates.",
       "Deployment of a public article requires independent SHA-bound QA approval, registration in editorial-system registry, seven-system reconciliation and successful CI plus live deployment.",
       "Comparative stabilization cases Israel, Argentina and Mexico have distinct policy, fiscal and exchange arrangements; no synthetic causal comparison or invented cross-country numerical ranking is asserted.",
-      "Reserve requirement of 100% refers to the narrow historical reserve base for demand deposits at the launch of the real, not a 100% interest charge or permanent statutory ratio."
+      "Reserve requirement of 100% refers to the narrow historical reserve base for demand deposits at the launch of the real, not a 100% interest charge or permanent statutory ratio.",
+      "The 2021 and 2025 IPCA observations are final calendar-year price inflation, not estimated causal effects, and their comparison is used only for regime persistence versus inflation recurrence."
     ],
     "evidence_sources": [
       {
@@ -24579,9 +24580,9 @@
     ],
     "url": "/reports/2026/11/2026-11-11-urv-real-inflacao-contratos-poder-1993-1999.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-11-11T17:00:00.000Z",
+    "qa_reviewed_at": "2026-11-11T17:05:35.000Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "721140856db65089b224c69dbc4148a8446be80f",
+    "qa_reviewed_commit": "4c2604276f43417006a3f63a319ca230c326c38a",
     "locales": {
       "en": {
         "markdown": "en.md",
