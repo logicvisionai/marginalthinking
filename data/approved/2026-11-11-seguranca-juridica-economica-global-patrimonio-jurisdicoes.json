@@ -1,0 +1,319 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-11-GLOBAL-LEGAL-ASSET-SECURITY",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-11T17:38:13.162Z",
+  "reviewed_commit": "a6c465bb8c34c31023f120c66d6a7b4af82ad98c",
+  "pending_blob_sha": "88a43cf568263c99bb3a3a4804ba5ec2a5c363fb",
+  "source_blob_shas": {
+    "en": "5e46539689b673be5fc3e6c93045d77484cb2346",
+    "pt-BR": "15d850699b4f0d3663fc68c90507ce8519796718"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Country comparison separates legal enforceability, banking insolvency, state debt, currency risks, political access, land rights and physical risks. WJP 2026 and deposit insurance/legal foreign property restrictions checked against named primary sources."
+    },
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Forty-two numbered institutional references, 42 source URLs and 32 distinct domains in each locale; current high-impact claims (WJP index 2026, UK FSCS 2025, Australian purchase restrictions to 2029, frozen Russian central-bank reserves) spot-verified with primary institutional material."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "As of 11 November 2026, distinct current legal regimes and past historical events dated; conditional scenarios to 2050 are not disguised as observed losses or probabilities. New versions of purchasing rules override older pages."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Original fifteen-part, 90-section country-by-country institutional and economic study, with asset-class differentiation and no references to the publication process in public prose. Appropriate qualifications about investor eligibility and regional differences."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locale sources include two deterministic sourced WJP charts with identical numerical arrays, one explanatory flow, one comparative regional map and five-plus comparison tables; no invented investment-loss rankings."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 13699,
+        "pt-BR": 15750
+      },
+      "summary": "In-depth narrative covering ancient property rights, sovereign debt, deposit insurance, financial custody, real estate, farms, land and water, foreign-investor rules, Europe, Americas, Asia, Gulf, Africa, sanctions, succession, psychology, future scenarios and 90 numbered subsections."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "WJP scores [0.82,0.79,0.72,0.67,0.51,0.48] and Brazilian factor values [0.52,0.46,0.58,0.50,0.62,0.52,0.51,0.33] reconciled with 2026 WJP country pages; national bank protection values and property rules trace to references. Institution scores explicitly not probabilities of portfolio loss."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Five competing pathways of institutional improvement, geopolitical fragmentation, fiscal stress, environmental impairment and digital-custody dependencies, plus asset stress tests, with conditions that would strengthen or weaken each."
+    },
+    "translation_equivalence": {
+      "result": "passed",
+      "summary": "Both editions have identical 15 major chapters, 90 numbered substantive subsections, same 42-source bibliography and same quantitative visual values; English is substantive equivalent, not a page-by-page literal translation. Portuguese retains the longer original."
+    },
+    "political_neutrality": {
+      "result": "passed",
+      "summary": "Describes effects of legal authority and sanctions without advising illicit evasion or asserting ideological preferences; preserves distinction between lawful limitations and arbitrary seizure."
+    }
+  },
+  "contrary_evidence": [
+    "High judicial and institutional rankings do not ensure returns or foreign ownership eligibility.",
+    "Banking systems with credible supervision can still suffer insolvency and special resolution, as in the 2008 and 2023 episodes.",
+    "Direct real property removes some intermediary credit risk but concentrates territorial, climate and liquidity exposure.",
+    "An international custody chain can diversify domestic legal exposures while adding sanction, tax and subcustody risks.",
+    "Land registration and formal title do not negate lawful environmental or community rights."
+  ],
+  "limitations": [
+    "Legal rules vary by nationality, tax residence, date, subnational jurisdiction and asset class.",
+    "WJP institutional rankings and deposit-guarantee ceilings cannot be interpreted as probabilities of investor loss.",
+    "The study is general comparative institutional research; actual transactions require current law, a qualified local lawyer and professional tax diligence.",
+    "The English report is a materially aligned analytical counterpart with some compression of explanatory paragraphs, not an identical word-for-word translation.",
+    "Platform-native structural QA checks were run; complete project test suite and production artifact validation remain pending GitHub CI."
+  ],
+  "notes": "Reviewed current Git tree and three source SHAs. The two quantitative charts were independently spot-checked against WJP source-country scores, and current statutory/property restrictions were checked against government pages. Source URLs remain in citations at the end of the bilingual report. No public artifact existed at approval time.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-11-GLOBAL-LEGAL-ASSET-SECURITY",
+    "slug": "2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T13:24:00-03:00",
+    "revision": 0,
+    "kind": "structural-economic-outlook",
+    "priority": 5,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes/en.md",
+        "title": "Where Wealth Is Actually Safe: States, Law, Currencies and the Global Geography of Property",
+        "deck": "A century-spanning comparative analysis of rule of law, economic security, foreign coercion, banks, sovereign debt, custody, houses, farmland, inheritance and the protection of wealth across jurisdictions.",
+        "tags": [
+          "Rule of law",
+          "Economic security",
+          "Property rights",
+          "Institutional stability",
+          "Cross-border assets",
+          "Foreign interference",
+          "Banks",
+          "Land ownership",
+          "Farmland",
+          "Sovereign debt",
+          "Geopolitics"
+        ],
+        "keywords": [
+          "2026 World Justice Project",
+          "2026 Global Financial Stability Report",
+          "deposit guarantee",
+          "sanctions",
+          "capital controls",
+          "financial custody",
+          "land title",
+          "inheritance",
+          "international property law",
+          "Brazil",
+          "Switzerland",
+          "Uruguay",
+          "Singapore",
+          "United States"
+        ],
+        "regime": "Fragmented world of legally enforceable property rights, institutionally divergent investment jurisdictions and increasing cross-border restrictions",
+        "key_risk": "Mistaking broad institutional reputation for legal access, liquidity and protection of any specific financial, land or property claim",
+        "watch": [
+          "WJP rule of law and independence of courts",
+          "Sanctions and securities settlement restrictions",
+          "Deposit insurance and bank resolution regimes",
+          "Rural land acquisition and title law for foreign owners",
+          "Sovereign funding and currency risk",
+          "Cross-border succession and exchange controls"
+        ],
+        "search_text": "Global legal security economic security institutional rule of law where keep safe wealth finance deposits treasury securities bank safety offshore assets property houses farmland land ownership foreign investment countries 2026 comparative research"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes/pt-BR.md",
+        "title": "Onde o patrimônio realmente está seguro: Estados, leis, moedas e a geografia global da propriedade",
+        "deck": "A segurança jurídica e econômica do patrimônio entre países: Estado de Direito, bancos, títulos, moedas, imóveis, fazendas, propriedade rural, interferência estrangeira, sucessão e cenários históricos e futuros.",
+        "tags": [
+          "Segurança jurídica",
+          "Segurança econômica",
+          "Direito de propriedade",
+          "Instituições",
+          "Patrimônio no exterior",
+          "Interferência estrangeira",
+          "Bancos",
+          "Terras",
+          "Fazendas",
+          "Dívida soberana",
+          "Geopolítica"
+        ],
+        "keywords": [
+          "World Justice Project 2026",
+          "FMI estabilidade financeira 2026",
+          "FGC",
+          "garantias de depósitos",
+          "sanções",
+          "controles cambiais",
+          "custódia de ativos",
+          "registros fundiários",
+          "herança",
+          "Brasil",
+          "Suíça",
+          "Uruguai",
+          "Singapura",
+          "Estados Unidos"
+        ],
+        "regime": "Sistema mundial de propriedades legalmente exigíveis, com proteção institucional desigual e riscos crescentes de restrições transfronteiriças",
+        "key_risk": "Confundir reputação institucional geral com direito concreto de adquirir, manter, transferir e liquidar cada classe de ativo",
+        "watch": [
+          "Estado de Direito WJP e independência judicial",
+          "Sanções e restrições de custódia financeira",
+          "Regras de garantia bancária e resolução",
+          "Terra rural e propriedade de estrangeiros",
+          "Riscos fiscais, monetários e soberanos",
+          "Sucessão, tributação e controles cambiais internacionais"
+        ],
+        "search_text": "Segurança jurídica economia economia institucional patrimônio países mais seguros bancos títulos ações ouro terras imóveis apartamentos fazendas direito de propriedade interferência estrangeira sanções herança previdência patrimônio internacional 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "africa",
+        "americas",
+        "asia-pacific",
+        "europe",
+        "middle-east"
+      ],
+      "subregions": [
+        "north-america",
+        "latin-america-caribbean",
+        "northern-europe",
+        "western-europe",
+        "southern-europe",
+        "eastern-europe-balkans",
+        "east-asia",
+        "south-asia",
+        "southeast-asia",
+        "gulf",
+        "levant",
+        "sub-saharan-africa",
+        "oceania"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "CH",
+          "slug": "switzerland"
+        },
+        {
+          "code": "UY",
+          "slug": "uruguay"
+        },
+        {
+          "code": "SG",
+          "slug": "singapore"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        },
+        {
+          "code": "CA",
+          "slug": "canada"
+        },
+        {
+          "code": "DE",
+          "slug": "germany"
+        },
+        {
+          "code": "GB",
+          "slug": "united-kingdom"
+        },
+        {
+          "code": "AU",
+          "slug": "australia"
+        },
+        {
+          "code": "NZ",
+          "slug": "new-zealand"
+        },
+        {
+          "code": "JP",
+          "slug": "japan"
+        },
+        {
+          "code": "RU",
+          "slug": "russia"
+        },
+        {
+          "code": "UA",
+          "slug": "ukraine"
+        },
+        {
+          "code": "AE",
+          "slug": "united-arab-emirates"
+        }
+      ]
+    },
+    "topics": [
+      "institutions-governance",
+      "geopolitics-security",
+      "banking-credit",
+      "capital-markets",
+      "sovereign-debt",
+      "currencies",
+      "trade-investment",
+      "inequality-distribution",
+      "commodities-resources"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "political-stability",
+      "sanctions-economic-coercion",
+      "strategic-competition"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "producer_checks": {
+      "information_cutoff": "2026-11-11 America/Sao_Paulo",
+      "research_depth": "15-part Portuguese manuscript, 90 numbered sections, approximately 15,750 words; English analytical counterpart with same 15-part and 90-section structure, approximately 13,700 words; 42 named institutional source references.",
+      "visual_evidence": "Two matched quantitative institutional charts, one flow and one region-comparison map, plus multiple tables, equally present in PT-BR and EN.",
+      "chart_numeric_parity": "WJP 2026 six country composite values [0.82,0.79,0.72,0.67,0.51,0.48]; Brazil eight factors [0.52,0.46,0.58,0.50,0.62,0.52,0.51,0.33].",
+      "fact_methodology": "WJP 2026 judicial data independently rechecked, UK 2025 FSCS 120k, Australia residential ban to June 2029, EU immobilization of Russian reserves circa EUR210bn. Explicit distinctions between stock, claims, custody, legal right, currency, prices, sanctions and physical risk.",
+      "editorial_conformance": "No narrative about building the site or report production. No 'best country' universal score. Legal eligibility is conditional on investor, country, property class, permits, residency and tax status.",
+      "comparison_scope": "Europe, North America, Latin America, East Asia, South and Southeast Asia, Oceania, Gulf, Africa and war-affected jurisdictions.",
+      "limitations": "This is a jurisdictional and historical comparative research study, not advice for a specific investor or asset purchase. National and state-level legal conditions can change, and financial guarantees are restricted by eligibility."
+    },
+    "related_research_ids": [
+      "MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS",
+      "MT-WP-2026-09-15",
+      "MT-CC-2026-09-28-singapore"
+    ],
+    "limitations": [
+      "Jurisdictional rights differ by nationality, tax residence, status, type of property and date of purchase.",
+      "The WJP score is not a probability of patrimonial loss or sovereign-default rating.",
+      "Some bank guarantee, foreign-property and sanctions rules are evolving; official legal text should govern actual transactions.",
+      "Property value, creditworthiness, legal title, physical safety and liquidity are separate outcomes.",
+      "Country commentary includes conditional structural assessments rather than probability forecasts."
+    ]
+  }
+}
