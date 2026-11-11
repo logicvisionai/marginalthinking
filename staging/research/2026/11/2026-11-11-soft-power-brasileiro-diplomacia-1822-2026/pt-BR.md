@@ -37,7 +37,7 @@ unit: mandatos iniciados
 2020 | 1
 ```
 
-As décadas são contadas pelo **ano inicial de cada mandato**, não pelo número de anos de serviço. Zero na década de 1970 não indica ausência de diplomacia; mostra apenas que o país não iniciou mandato eletivo naquele intervalo. A série deriva exclusivamente da lista oficial de membros eleitos da ONU.
+Os onze anos iniciais são **1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 2004, 2010 e 2022**, conforme a [lista histórica oficial da ONU](https://main.un.org/securitycouncil/en/content/countries-elected-members). As décadas são contadas pelo **ano inicial de cada mandato**, não pelo número de anos de serviço. Zero na década de 1970 não indica ausência de diplomacia; mostra apenas que o país não iniciou mandato eletivo naquele intervalo. A série deriva exclusivamente da lista oficial de membros eleitos da ONU.
 
 ## 2. Antes da independência: poder colonial, mediação atlântica e herança institucional
 
@@ -182,7 +182,7 @@ A vantagem brasileira é a combinação de **alcance cultural, alimentos, ecossi
 
 ## 14. Cronologia anual, 1822–2026
 
-Cada entrada identifica um marco documentado ou, quando não há inflexão isolada suficientemente verificada no recorte, **o contexto predominante do período**. A ausência de evento único não significa ausência de relações exteriores naquele ano. A distinção evita fabricar acontecimentos anuais para preencher lacunas.
+A cronologia distingue atos diplomáticos de seus efeitos jurídicos. Uma posse ministerial é um acontecimento institucional verificável, não prova de mudança de orientação; um tratado assinado mas não ratificado não equivale a acordo vigente. Quando não há tratado ou ação multilateral isolados, registros consulares, nomeações, condicionantes internos e a situação de um processo já iniciado ajudam a reconstituir o ano. A ausência de evento único não significa ausência de relações exteriores naquele ano. A cronologia não pressupõe que todos os anos tenham sido marcos de inflexão da política externa.
 
 - **1822** — Independência; José Bonifácio e o reconhecimento externo tornam-se prioridades do Estado recém-criado.
 - **1823** — Negociação de reconhecimento e impasse constitucional interno condicionam a legitimidade da nova monarquia.
@@ -191,40 +191,40 @@ Cada entrada identifica um marco documentado ou, quando não há inflexão isola
 - **1826** — Acordos com a Grã-Bretanha associam reconhecimento, comércio e compromissos sobre tráfico de escravizados.
 - **1827** — Tratado comercial com a Grã-Bretanha e tensões sobre soberania fiscal e escravidão.
 - **1828** — Convenção Preliminar de Paz resulta na independência do Uruguai, amortecedor geopolítico no Prata.
-- **1829** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1829 uma inflexão isolada sem documentação específica.
+- **1829** — Brasil negocia empréstimo em Londres garantido por receita alfandegária; Itabaiana assina tratado com a Sardenha, ampliando contatos europeus, enquanto a dívida estreita a margem de política fiscal. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
 - **1830** — Pressão britânica pela supressão do tráfico atlântico permanece.
 - **1831** — Abdicação de Pedro I; lei antitráfico é promulgada, com execução insuficiente.
-- **1832** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1832 uma inflexão isolada sem documentação específica.
-- **1833** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1833 uma inflexão isolada sem documentação específica.
-- **1834** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1834 uma inflexão isolada sem documentação específica.
+- **1832** — Bento da Silva Lisboa assume a pasta dos Negócios Estrangeiros em setembro; a Regência reorganiza sua burocracia durante levantes internos que dificultam projeção externa. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1833** — A ocupação britânica das Malvinas provoca protesto argentino; registro da FUNAG assinala o reconhecimento brasileiro do direito argentino, antecipando um ponto persistente das relações sul-americanas. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1834** — Após a Convenção de Évora-Monte em Portugal, a Regência envia missão de Araújo Ribeiro a Lisboa; Duarte da Ponte Ribeiro apresenta credenciais no México, diversificando postos diplomáticos. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
 - **1835** — Regência enfrenta a Revolução Farroupilha e instabilidade no sul do território.
-- **1836** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1836 uma inflexão isolada sem documentação específica.
-- **1837** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1837 uma inflexão isolada sem documentação específica.
-- **1838** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1838 uma inflexão isolada sem documentação específica.
+- **1836** — Brasil e Portugal assinam tratado de comércio e navegação que não obtém aprovação da Câmara brasileira; o episódio diferencia negociação diplomática de compromisso efetivamente ratificado. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
+- **1837** — Três mudanças na chefia dos Negócios Estrangeiros — Limpo de Abreu, Montezuma e Maciel Monteiro — expõem a instabilidade ministerial que condicionava continuidade da ação exterior regencial. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1838** — Encarregados de Brasil e Chile assinam em Santiago tratado de amizade, comércio e navegação, mas a falta de ratificação brasileira impede sua entrada em vigor. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/chile).
 - **1839** — Regência procura administrar guerra regional e continuidade do reconhecimento externo.
 - **1840** — Maioridade de Pedro II reforça a centralização política imperial.
-- **1841** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1841 uma inflexão isolada sem documentação específica.
-- **1842** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1842 uma inflexão isolada sem documentação específica.
+- **1841** — Duarte da Ponte Ribeiro negocia em Lima tratados de limites, comércio e navegação com o Peru, sem ratificação pelo Império; a discussão dos rios amazônicos permanece aberta. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/peru).
+- **1842** — Notas diplomáticas com a Grã-Bretanha acordam a neutralização provisória do território de Pirara, em disputa com a Guiana Britânica; missão britânica busca novo tratado comercial e repressão ao tráfico. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
 - **1843** — Missão Pimenta Bueno explora negociações com o Paraguai, em contexto de disputas platinas.
 - **1844** — Tarifa Alves Branco amplia instrumentos fiscais e proteção manufatureira.
 - **1845** — Fim da Farroupilha; o Império recupera capacidade de projeção sobre o espaço meridional.
-- **1846** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1846 uma inflexão isolada sem documentação específica.
-- **1847** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1847 uma inflexão isolada sem documentação específica.
+- **1846** — Troca de notas com a Venezuela discute entraves ao comércio e à comunicação de fronteira; incidentes relacionados à corveta norte-americana Saratoga exigem resposta diplomática brasileira. [Documento](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf).
+- **1847** — Brasil declara sem efeito artigos comerciais do Tratado de 1825 com Portugal relativos à nação mais favorecida e à tarifa de 15%, ampliando espaço para renegociar privilégios tarifários. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
 - **1848** — Consolidação conservadora e mudanças europeias exigem gestão diplomática prudente.
-- **1849** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1849 uma inflexão isolada sem documentação específica.
+- **1849** — Acordo com os Estados Unidos trata de indenizações por navios capturados no bloqueio do Prata; nota brasileira declara neutralidade na disputa Argentina–Paraguai, antes da fase intervencionista de 1851. [Documento](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf).
 - **1850** — Lei Eusébio de Queirós reprime o tráfico transatlântico; Lei de Terras reorganiza propriedade fundiária.
 - **1851** — Alianças do Império no Prata contra Oribe e Rosas reordenam o equilíbrio regional.
 - **1852** — Queda de Rosas na Batalha de Caseros fortalece posição brasileira no Prata.
-- **1853** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1853 uma inflexão isolada sem documentação específica.
+- **1853** — Antônio Paulino Limpo de Abreu assume o Ministério dos Negócios Estrangeiros em setembro; o gabinete administra questões pendentes de fronteira e navegação após a queda de Rosas. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1854** — Conflito diplomático com o Paraguai sobre navegação e fronteiras.
-- **1855** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1855 uma inflexão isolada sem documentação específica.
+- **1855** — José Maria da Silva Paranhos, futuro visconde do Rio Branco, assume a pasta em junho; a diplomacia do Prata volta a depender de continuidade ministerial e capacidade de negociação. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1856** — Negociações sobre navegação fluvial e acesso aos rios platinos continuam.
-- **1857** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1857 uma inflexão isolada sem documentação específica.
-- **1858** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1858 uma inflexão isolada sem documentação específica.
-- **1859** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1859 uma inflexão isolada sem documentação específica.
-- **1860** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1860 uma inflexão isolada sem documentação específica.
+- **1857** — Caetano Maria Lopes Gama assume a chancelaria em maio; a chefia política do Itamaraty muda enquanto tratados de navegação e limites ainda reclamam implementação. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1858** — José Maria da Silva Paranhos volta ao Ministério dos Negócios Estrangeiros em dezembro, sinal de recorrência de quadros especializados na condução da política regional. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1859** — Tratado de limites Brasil–Venezuela é concluído em 5 de maio; João Lins Vieira Cansansão de Sinimbu assume a chefia do Ministério em agosto. [Documento](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
+- **1860** — A vigência das negociações de fronteira iniciadas pelo Tratado de 1859 com a Venezuela exige a distinção entre linha acordada e demarcação efetiva; sem novo tratado isolado estabelecido para este ano na fonte consultada. [Documento](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
 - **1861** — Começam incidentes que desembocariam na Questão Christie com o Reino Unido.
-- **1862** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1862 uma inflexão isolada sem documentação específica.
+- **1862** — O Ministério passa por Carlos Carneiro de Campos e Miguel Calmon du Pin e Almeida; alternância de chefia antecede agravamento das disputas com o Paraguai e o Reino Unido. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1863** — Questão Christie provoca ruptura temporária das relações diplomáticas com Londres.
 - **1864** — Intervenção brasileira no Uruguai e início da guerra com o Paraguai.
 - **1865** — Tratado da Tríplice Aliança une Brasil, Argentina e Uruguai contra o Paraguai.
@@ -235,104 +235,104 @@ Cada entrada identifica um marco documentado ou, quando não há inflexão isola
 - **1870** — Fim da Guerra do Paraguai, com enorme custo humano e efeitos persistentes sobre a região.
 - **1871** — Lei do Ventre Livre cria nova contradição entre reputação civilizatória e escravidão.
 - **1872** — Tratado Cotegipe–Loizaga define fronteira Brasil–Paraguai, com tensões entre aliados.
-- **1873** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1873 uma inflexão isolada sem documentação específica.
-- **1874** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1874 uma inflexão isolada sem documentação específica.
-- **1875** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1875 uma inflexão isolada sem documentação específica.
+- **1873** — Carlos Carneiro de Campos assume a chancelaria; concessão autorizada em junho viabiliza a futura ligação telegráfica submarina entre Brasil e Portugal, ampliando comunicação transatlântica. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1874** — Inauguração do cabo telegráfico submarino Pernambuco–Portugal reduz o tempo de comunicação política, mercantil e consular entre Brasil e Europa, nova infraestrutura de presença internacional. [Documento](https://www.scielo.br/j/rbef/a/9sWYj3hNN8bnHDSzk7Lypsr/?lang=pt).
+- **1875** — João Maurício Wanderley assume os Negócios Estrangeiros em junho; relações com Paraguai e demais vizinhos continuam condicionadas pelo pós-guerra e pela permanência de tropas brasileiras. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1876** — Retirada das tropas brasileiras do Paraguai conclui fase da ocupação.
-- **1877** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1877 uma inflexão isolada sem documentação específica.
-- **1878** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1878 uma inflexão isolada sem documentação específica.
-- **1879** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1879 uma inflexão isolada sem documentação específica.
+- **1877** — Diogo Velho Cavalcanti de Albuquerque assume a pasta em fevereiro; a grande seca de 1877–1879 começa a pressionar economia e sociedade do Nordeste, revelando custos domésticos da inserção exportadora. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1878** — Carlos Leôncio de Carvalho e Domingos de Souza Leão sucedem-se na chancelaria em janeiro e fevereiro, enquanto a emergência social da seca prolongada desafia prioridades do Império. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1879** — O Império envia missão especial à China, com Eduardo Callado e Arthur de Jaceguai, preparando aproximação comercial e discussão sobre circulação de trabalhadores. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
 - **1880** — Diplomacia imperial concentra-se em comércio, imigração e estabilização das fronteiras.
-- **1881** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1881 uma inflexão isolada sem documentação específica.
-- **1882** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1882 uma inflexão isolada sem documentação específica.
-- **1883** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1883 uma inflexão isolada sem documentação específica.
-- **1884** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1884 uma inflexão isolada sem documentação específica.
+- **1881** — Diplomatas brasileiros assinam em Tianjin novo Tratado de Amizade, Comércio e Navegação com a China, após rejeição da versão anterior; a diplomacia imperial alcança parceiros asiáticos. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
+- **1882** — Filipe Franco de Sá e Lourenço Cavalcanti de Albuquerque assumem sucessivamente os Negócios Estrangeiros; a alternância mostra a inserção da diplomacia na instabilidade ministerial do Segundo Reinado. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1883** — Francisco de Carvalho Soares Brandão assume a chefia dos Negócios Estrangeiros em maio; a diplomacia continua vinculada ao sistema de gabinetes parlamentares do Império. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1884** — João da Mata Machado e Manuel Pinto de Souza Dantas ocupam sucessivamente a chancelaria; o avanço abolicionista torna cada vez mais difícil sustentar internacionalmente o escravismo imperial. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1885** — Lei dos Sexagenários não resolve o problema estrutural da escravidão.
-- **1886** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1886 uma inflexão isolada sem documentação específica.
-- **1887** — Ano de continuidade no ciclo império: reconhecimento externo, navegação, escravidão, guerra e fronteiras. A cronologia não atribui a 1887 uma inflexão isolada sem documentação específica.
+- **1886** — A Lei 3.310 revoga a pena legal de açoites, mas não extingue a escravidão; o contraste entre reforma parcial e liberdade evidencia a fragilidade da pretensão civilizatória imperial. [Documento](https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3310-15-outubro-1886-543161-publicacaooriginal-53172-pl.html).
+- **1887** — O Clube Militar se recusa a mobilizar o Exército na perseguição a pessoas escravizadas fugitivas; a crise abolicionista mina o suporte interno à ordem imperial às vésperas da abolição. [Documento](https://museudarepublica.museus.gov.br/wp-content/uploads/2017/10/CronoCanudos.pdf).
 - **1888** — Abolição legal da escravidão; persistem exclusões sociais e raciais.
 - **1889** — Proclamação da República muda as referências de legitimidade e a política continental.
 - **1890** — Primeiros governos republicanos buscam reconhecimento e reorientação pan-americana.
 - **1891** — Constituição republicana redefine competências institucionais e relações exteriores.
-- **1892** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1892 uma inflexão isolada sem documentação específica.
+- **1892** — Inocêncio Serzedello Corrêa e Antônio de Paula Sousa assumem a chancelaria ao longo do ano; mudanças ministeriais acompanham a frágil consolidação da República. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1893** — Revolta da Armada limita estabilidade e credibilidade externa.
-- **1894** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1894 uma inflexão isolada sem documentação específica.
+- **1894** — Carlos Augusto de Carvalho assume a pasta em novembro; a República procura estabilizar a administração externa após sucessivas mudanças durante a crise política da década. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1895** — Arbitragem do presidente Cleveland decide a questão de Palmas em favor do Brasil.
-- **1896** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1896 uma inflexão isolada sem documentação específica.
+- **1896** — Dionísio de Castro Cerqueira assume o Ministério em setembro; decisões de arbitragem territorial começam a transformar documentação técnica em recurso de prestígio internacional. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1897** — Conflitos internos, como Canudos, expõem fragilidades da integração nacional.
-- **1898** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1898 uma inflexão isolada sem documentação específica.
-- **1899** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1899 uma inflexão isolada sem documentação específica.
+- **1898** — Olinto de Magalhães assume a chancelaria em novembro, preservando a busca de relações regulares com países vizinhos durante a consolidação republicana. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1899** — Rio Branco muda-se para Berna para acompanhar arbitragem da controvérsia do Amapá perante a Suíça, consolidando a estratégia jurídica iniciada no caso de Palmas. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1900** — Arbitragem suíça reconhece posição brasileira na questão do Amapá.
-- **1901** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1901 uma inflexão isolada sem documentação específica.
+- **1901** — Rio Branco é designado representante brasileiro em Berlim após sucesso na arbitragem do Amapá; sua entrada em posto permanente antecede a nomeação para chanceler em 1902. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1902** — Rio Branco assume o Ministério das Relações Exteriores.
 - **1903** — Tratado de Petrópolis incorpora o Acre mediante compensações e compromissos com a Bolívia.
 - **1904** — Brasil reconhece o Panamá; Rio Branco amplia a agenda hemisférica.
-- **1905** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1905 uma inflexão isolada sem documentação específica.
+- **1905** — Protocolos assinados com a Venezuela buscam finalizar demarcação da fronteira; acordo de arbitramento geral com a Argentina amplia o uso do direito como instrumento de estabilização bilateral. [Documento](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
 - **1906** — Terceira Conferência Pan-Americana é realizada no Rio de Janeiro.
 - **1907** — Tratado com a Colômbia avança a delimitação de fronteira.
-- **1908** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1908 uma inflexão isolada sem documentação específica.
+- **1908** — Correspondência entre Rio Branco e o embaixador Joaquim Nabuco, em dezembro, aborda a corrida naval e o equilíbrio com a Argentina; capacidade militar e diplomacia operavam conjuntamente. [Documento](https://funag.gov.br/loja/download/892-Joaquim_Nabuco_Vol._II.pdf).
 - **1909** — Acordo com o Uruguai altera direitos sobre a Lagoa Mirim e o rio Jaguarão.
 - **1910** — Rio Branco oferece bons ofícios para evitar conflito entre Peru e Equador.
-- **1911** — Ano de continuidade no ciclo primeira república e rio branco: arbitragem, consolidação territorial e diplomacia pan-americana. A cronologia não atribui a 1911 uma inflexão isolada sem documentação específica.
+- **1911** — Brasil firma convenções de arbitragem, inclusive com o Uruguai em janeiro, e promulga decisões pan-americanas sobre propriedade intelectual e codificação do direito internacional. [Documento](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf).
 - **1912** — Morte de Rio Branco encerra década central da diplomacia de fronteiras.
-- **1913** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1913 uma inflexão isolada sem documentação específica.
+- **1913** — Sob o chanceler Lauro Müller, iniciado em 1912, a República ajusta a diplomacia à fase posterior a Rio Branco; estudos de 1913 preservam a centralidade dos tratados de arbitragem. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1914** — Primeira Guerra Mundial começa; Brasil permanece inicialmente neutro.
-- **1915** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1915 uma inflexão isolada sem documentação específica.
-- **1916** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1916 uma inflexão isolada sem documentação específica.
+- **1915** — Relatório oficial de 1914–1915 descreve apoio consular e repatriação de brasileiros atingidos pela guerra europeia; neutralidade também exigia serviços concretos a cidadãos no exterior. [Documento](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
+- **1916** — Relatórios do Itamaraty referentes a 1916–1917 registram medidas consulares para brasileiros na Alemanha; proteção de nacionais precede a ruptura diplomática e a entrada na guerra em 1917. [Documento](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
 - **1917** — Ataques a navios precipitam a declaração brasileira de guerra contra a Alemanha.
 - **1918** — Participação brasileira no esforço aliado associa saúde, patrulhamento e diplomacia.
 - **1919** — Brasil participa da Conferência de Paz de Paris e da criação da Liga das Nações.
 - **1920** — Brasil assume mandato no Conselho da Liga das Nações.
-- **1921** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1921 uma inflexão isolada sem documentação específica.
+- **1921** — Representante brasileiro Gastão da Cunha preside sessão do Conselho da Liga das Nações; o Brasil participa da deliberação sobre a Alta Silésia, demonstrando atuação substantiva além da demanda de assento. [Documento](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
 - **1922** — Centenário da Independência projeta representação nacional e recepção de delegações.
-- **1923** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1923 uma inflexão isolada sem documentação específica.
+- **1923** — Decreto 16.132 promulga emendas ao Pacto da Liga das Nações; o Brasil investe em regras multilaterais enquanto disputa espaço permanente no Conselho. [Documento](https://www.planalto.gov.br/ccivil_03/decreto/1910-1929/d16132.html).
 - **1924** — Divergências sobre assentos permanentes agudizam ambições brasileiras na Liga.
-- **1925** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1925 uma inflexão isolada sem documentação específica.
+- **1925** — A representação do Brasil na Liga das Nações mantém o pleito por maior posição decisória; a documentação do Itamaraty da época permite rastrear negociações, mas não comprova êxito no assento. [Documento](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934).
 - **1926** — Brasil se retira da Liga das Nações após fracassar projeto de assento permanente.
-- **1927** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1927 uma inflexão isolada sem documentação específica.
-- **1928** — Ano de continuidade no ciclo liga das nações, guerras e comércio primário-exportador. A cronologia não atribui a 1928 uma inflexão isolada sem documentação específica.
+- **1927** — Otávio Mangabeira, chanceler desde novembro de 1926, administra relações bilaterais após a retirada brasileira da Liga; a decisão de 1926 reduz uma via institucional sem extinguir a diplomacia. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1928** — Sob Mangabeira, a chancelaria publica relatórios de 1928 que documentam relações exteriores posteriores à saída da Liga, enquanto a economia continua vulnerável ao comércio cafeeiro. [Documento](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934).
 - **1929** — Crise mundial expõe dependência da exportação de café.
 - **1930** — Revolução de 1930 inaugura nova organização do Estado e da diplomacia econômica.
-- **1931** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1931 uma inflexão isolada sem documentação específica.
+- **1931** — Afrânio de Melo Franco, no Ministério desde outubro de 1930, conduz a adaptação diplomática da nova administração Vargas em contexto de depressão e reorganização comercial. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1932** — Conflito constitucionalista limita imagem de estabilidade.
-- **1933** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1933 uma inflexão isolada sem documentação específica.
-- **1934** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1934 uma inflexão isolada sem documentação específica.
+- **1933** — O governo brasileiro oferece mediação na crise de Letícia entre Peru e Colômbia, segundo telegramas do Departamento de Estado dos EUA; busca evitar confronto em fronteira amazônica. [Documento](https://history.state.gov/historicaldocuments/frus1933v04/d401).
+- **1934** — José Carlos de Macedo Soares assume o Ministério em julho; a política externa do governo Vargas busca conciliar diplomacia profissional e centralização política. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1935** — Polarização interna e alinhamentos internacionais tensionam a política externa.
-- **1936** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1936 uma inflexão isolada sem documentação específica.
+- **1936** — Mário de Pimentel Brandão assume a chancelaria em dezembro, durante o processo de redefinição das relações comerciais e ideológicas da década de 1930. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1937** — Estado Novo autoritário convive com barganha econômica entre potências.
-- **1938** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1938 uma inflexão isolada sem documentação específica.
+- **1938** — Oswaldo Aranha assume os Negócios Estrangeiros em março, tornando-se figura central da relação com os EUA e da diplomacia brasileira na Segunda Guerra. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1939** — Segunda Guerra Mundial inicia fase de neutralidade e negociação estratégica.
-- **1940** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1940 uma inflexão isolada sem documentação específica.
-- **1941** — Ano de continuidade no ciclo barganha estratégica, industrialização, segunda guerra e construção multilateral. A cronologia não atribui a 1941 uma inflexão isolada sem documentação específica.
+- **1940** — Negociações com os EUA resultam, em novembro, no anúncio de empréstimo para a siderurgia de Volta Redonda, demonstrando a relação entre barganha externa e industrialização. [Documento](https://atlas.fgv.br/verbete/3588).
+- **1941** — Oswaldo Aranha permanece à frente do Ministério enquanto o governo Vargas negocia cooperação hemisférica, bases e industrialização às vésperas da entrada brasileira na Segunda Guerra. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1942** — Brasil rompe com o Eixo e declara guerra após ataques a embarcações.
 - **1943** — Cooperação militar e industrial com os EUA se aprofunda.
 - **1944** — Força Expedicionária Brasileira combate na Itália.
 - **1945** — Brasil participa da fundação da ONU; é criado o Instituto Rio Branco.
 - **1946** — Primeiro mandato do Brasil no Conselho de Segurança da ONU.
 - **1947** — Oswaldo Aranha preside a Assembleia Geral; partilha da Palestina é aprovada sob sua presidência.
-- **1948** — Ano de continuidade no ciclo onu, alinhamento ocidental e diplomacia desenvolvimentista. A cronologia não atribui a 1948 uma inflexão isolada sem documentação específica.
-- **1949** — Ano de continuidade no ciclo onu, alinhamento ocidental e diplomacia desenvolvimentista. A cronologia não atribui a 1949 uma inflexão isolada sem documentação específica.
+- **1948** — Brasil participa da criação da Organização dos Estados Americanos e da aprovação da Declaração Universal dos Direitos Humanos pela Assembleia Geral da ONU; a legitimidade multilateral passa a incluir direitos. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica).
+- **1949** — A criação da Escola Superior de Guerra, pela Lei 785, institucionaliza pensamento de segurança em contexto de Guerra Fria, com influência de cooperação militar americana. [Documento](https://www.gov.br/defesa/pt-br/assuntos/esg/a-esg/historia-da-esg).
 - **1950** — Comissão Nacional de Assistência Técnica inaugura sistema estruturado de cooperação recebida.
 - **1951** — Segundo mandato brasileiro no Conselho de Segurança; retorno de Vargas.
-- **1952** — Ano de continuidade no ciclo onu, alinhamento ocidental e diplomacia desenvolvimentista. A cronologia não atribui a 1952 uma inflexão isolada sem documentação específica.
+- **1952** — Brasil e Estados Unidos assinam acordo de assistência militar em março; a ratificação brasileira seria completada em 1953, distinguindo assinatura de entrada em vigor. [Documento](https://www2.camara.leg.br/legin/fed/decleg/1950-1959/decretolegislativo-30-30-abril-1953-351630-publicacaooriginal-1-pl.html).
 - **1953** — Interesses petrolíferos e industriais ganham relevo na autonomia econômica.
 - **1954** — Terceiro mandato do Brasil no Conselho de Segurança.
 - **1955** — Brasil passa a abrir tradicionalmente o debate geral da Assembleia da ONU.
 - **1956** — Crise de Suez abre caminho para participação brasileira em força da ONU.
 - **1957** — Batalhão Suez participa da UNEF I; construção de Brasília marca ambição de modernização.
 - **1958** — Política Externa e desenvolvimento são mobilizados pelo governo JK.
-- **1959** — Ano de continuidade no ciclo onu, alinhamento ocidental e diplomacia desenvolvimentista. A cronologia não atribui a 1959 uma inflexão isolada sem documentação específica.
+- **1959** — Horácio Lafer assume o Ministério em agosto durante a presidência Kubitschek, mantendo a diplomacia desenvolvimentista vinculada à demanda de financiamento externo. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1960** — Inauguração de Brasília; militares brasileiros participam da operação da ONU no Congo.
 - **1961** — Jânio e Goulart impulsionam a Política Externa Independente; Brasil condecora Che Guevara, em gesto polêmico.
 - **1962** — Diplomacia enfrenta a crise cubana e amplia posições de autonomia.
 - **1963** — Quarto mandato brasileiro no Conselho de Segurança; PEI enfrenta instabilidade interna.
 - **1964** — Golpe militar encerra governo Goulart e modifica relações com EUA e Cuba.
 - **1965** — Regime militar reafirma alinhamento ocidental e participa de debates sobre segurança hemisférica.
-- **1966** — Ano de continuidade no ciclo autonomia, golpe, pragmatismo, cooperação e dívida externa. A cronologia não atribui a 1966 uma inflexão isolada sem documentação específica.
+- **1966** — Juracy Magalhães assume a pasta em janeiro, expressão da prioridade dada pelos militares às relações com Washington antes da posterior diversificação. [Documento](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1967** — Quinto mandato brasileiro no Conselho de Segurança; aproxima-se reorientação pragmática.
 - **1968** — AI-5 agrava contradição entre imagem externa e repressão interna.
 - **1969** — Reorganização da cooperação técnica e aumento da centralização administrativa.
-- **1970** — Ano de continuidade no ciclo autonomia, golpe, pragmatismo, cooperação e dívida externa. A cronologia não atribui a 1970 uma inflexão isolada sem documentação específica.
+- **1970** — Decreto-Lei 1.098 amplia a reivindicação brasileira de mar territorial para 200 milhas marítimas; soberania sobre recursos e direito do mar tornam-se agenda diplomática relevante. [Documento](https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1098-25-marco-1970-375405-publicacaooriginal-1-pe.html).
 - **1971** — FUNAG é instituída; debate sobre desenvolvimento e ordem internacional ganha suporte institucional.
 - **1972** — Brasil participa da Conferência de Estocolmo defendendo espaço para desenvolvimento.
 - **1973** — Choque do petróleo expõe vulnerabilidade e incentiva diversificação de fornecedores.
@@ -343,7 +343,7 @@ Cada entrada identifica um marco documentado ou, quando não há inflexão isola
 - **1978** — Ajustes na diplomacia e economia ocorrem sob pressão energética e financeira.
 - **1979** — Segundo choque do petróleo acentua fragilidades e crise do endividamento.
 - **1980** — Debate Norte–Sul, dívida e desenvolvimento domina a agenda externa.
-- **1981** — Ano de continuidade no ciclo autonomia, golpe, pragmatismo, cooperação e dívida externa. A cronologia não atribui a 1981 uma inflexão isolada sem documentação específica.
+- **1981** — Brasil participa da Cúpula Norte–Sul em Cancún, discutindo comércio, desenvolvimento e dívida em meio ao agravamento das restrições financeiras da América Latina. [Documento](https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/old/serie-estrangeira-old).
 - **1982** — Crise da dívida latino-americana restringe autonomia econômica.
 - **1983** — Redemocratização gradual reabre debate sobre legitimidade externa.
 - **1984** — Negociações com Argentina preparam cooperação em energia e comércio.
@@ -399,6 +399,21 @@ Cada entrada identifica um marco documentado ou, quando não há inflexão isola
 **Trajetória de erosão.** Conflitos políticos domésticos, retrocesso ambiental, crise fiscal, isolamento comercial e volatilidade regulatória reduzem confiança de parceiros. Os indicadores seriam suspensão de acordos, perda de projetos de cooperação, menor diversificação de mercados e deterioração prolongada das medidas independentes de percepção. Nenhuma trajetória é destino inevitável, e choques externos podem afetar as três.
 
 A posição externa brasileira será decidida menos pela quantidade de discursos do que pela capacidade de oferecer aos parceiros algo confiável, sustentado e difícil de substituir. O país não precisa escolher entre ser potência cultural e potência diplomática. Precisa construir as instituições e bases produtivas que tornam uma fonte de atração relevante para decisões concretas.
+
+### Documentação datada da cronologia anual
+
+A relação de ministros de Estado da FUNAG identifica datas de nomeação desde 1822; suas cronologias bilaterais distinguem partes, assinatura e ratificação de tratados do século XIX. O Arquivo Nacional reúne cronologia do Império com atos administrativos, conflitos e legislação. Relatórios do Itamaraty de 1891 a 1928, repertórios de documentos de direito internacional de 1899–1918 e 1919–1940 e acervos especializados permitem conferir períodos posteriores. As referências junto a cada ano apontam para a documentação identificada. O enquadramento histórico de nomeações e tratados é interpretação contextual, não transcrição de conclusão arquivística.
+
+- [FUNAG: lista datada de ministros das Relações Exteriores](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores)
+- [Arquivo Nacional: cronologia imperial 1822–1889 (índice arquivístico, acesso sujeito a instabilidade)](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889)
+- [FUNAG: relações bilaterais e atos diplomáticos históricos](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil)
+- [Formação da diplomacia econômica no Brasil, vol. II](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf)
+- [Itamaraty: dois séculos de história, vol. I](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf)
+- [Relatórios ministeriais de 1891–1928](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934)
+- [Repertório documental de direito internacional 1899–1918](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf)
+- [Repertório documental de direito internacional 1919–1940](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf)
+- [Departamento de Estado dos EUA: mediação Peru–Colômbia de 1933](https://history.state.gov/historicaldocuments/frus1933v04/d401)
+- [ONU: mandatos eletivos do Conselho de Segurança](https://main.un.org/securitycouncil/en/content/countries-elected-members)
 
 ## Fontes e documentos
 
