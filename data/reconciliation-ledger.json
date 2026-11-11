@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T17:39:27.850Z",
+  "last_reconciled_at": "2026-11-11T17:43:22.101Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9288,6 +9288,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Tokenization and digital custodians analyzed as risks, not as newly demonstrated technological capability with deployment evidence."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes-revision-1-reconciliation",
+      "reconciled_at": "2026-11-11T17:43:22.101Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-11-GLOBAL-LEGAL-ASSET-SECURITY"
+      ],
+      "audit_note": "Revision 1 corrects English visual table parity, without substantive change to jurisdictional research, sectoral exposures or canonical cumulative datasets. Earlier asset-level reconciliation remains valid.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "No additional new exposure or custody network edge: visual table restores already described sanctions transmission."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No new investment project or asset-level return."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "No actor or ownership control change in revision."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "No change to geolocated asset, land or water right."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "No measured policy intervention outcome."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No new conflict or sanctions event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No technical deployment or capability change."
         }
       ]
     }

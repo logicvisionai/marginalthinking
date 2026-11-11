@@ -24916,7 +24916,7 @@
     "slug": "2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes",
     "date": "2026-11-11",
     "published_at": "2026-11-11T13:24:00-03:00",
-    "revision": 0,
+    "revision": 1,
     "kind": "structural-economic-outlook",
     "priority": 5,
     "source_locale": "en",
@@ -25040,7 +25040,7 @@
     "producer_checks": {
       "information_cutoff": "2026-11-11 America/Sao_Paulo",
       "research_depth": "15-part Portuguese manuscript, 90 numbered sections, approximately 15,750 words; English analytical counterpart with same 15-part and 90-section structure, approximately 13,700 words; 42 named institutional source references.",
-      "visual_evidence": "Two matched quantitative institutional charts, one flow and one region-comparison map, plus multiple tables, equally present in PT-BR and EN.",
+      "visual_evidence": "Revision 1 reconciles the English five-instrument sanctions transmission table with the Portuguese 6-table visual signature. Both locales now carry two WJP charts, six evidence tables, one flow and one map, 90 numbered subsections and 42 institutional references.",
       "chart_numeric_parity": "WJP 2026 six country composite values [0.82,0.79,0.72,0.67,0.51,0.48]; Brazil eight factors [0.52,0.46,0.58,0.50,0.62,0.52,0.51,0.33].",
       "fact_methodology": "WJP 2026 judicial data independently rechecked, UK 2025 FSCS 120k, Australia residential ban to June 2029, EU immobilization of Russian reserves circa EUR210bn. Explicit distinctions between stock, claims, custody, legal right, currency, prices, sanctions and physical risk.",
       "editorial_conformance": "No narrative about building the site or report production. No 'best country' universal score. Legal eligibility is conditional on investor, country, property class, permits, residency and tax status.",
@@ -25061,9 +25061,9 @@
     ],
     "url": "/reports/2026/11/2026-11-11-seguranca-juridica-economica-global-patrimonio-jurisdicoes.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-11-11T17:38:13.162Z",
+    "qa_reviewed_at": "2026-11-11T17:42:48.767Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "a6c465bb8c34c31023f120c66d6a7b4af82ad98c",
+    "qa_reviewed_commit": "6e6d8eeb74cc4688a4c1e23c4d0105a19ab2cd13",
     "locales": {
       "en": {
         "markdown": "en.md",
