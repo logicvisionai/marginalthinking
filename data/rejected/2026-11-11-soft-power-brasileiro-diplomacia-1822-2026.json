@@ -2,123 +2,78 @@
   "schema_version": 2,
   "id": "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER",
   "slug": "2026-11-11-soft-power-brasileiro-diplomacia-1822-2026",
-  "revision": 3,
+  "revision": 4,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-11T12:07:50-03:00",
+  "reviewed_at": "2026-11-11T12:18:30-03:00",
   "reviewed_branch": "main",
-  "pending_blob_sha": "be194e3204d27e1e6c6a5f1a34a91a889936766f",
+  "pending_blob_sha": "4ab2c08178c1c02108c3383b6468acf09f80e55b",
   "source_blob_shas": {
-    "en": "a72f453bdde4fd00168fd2a94ebedfd7e7d1adc2",
-    "pt-BR": "0ce765b6a7b8c04621cc03830a500f5bfbc219e7"
+    "en": "4fd6e3cd7c628af1cea2ed81c17bde3b0e68307c",
+    "pt-BR": "ac7d5c799213a6c4697096337005a854f997bbcb"
   },
   "taxonomy_check": "passed_structural",
-  "translation_check": "passed_structural",
+  "translation_check": "passed_targeted_and_205_year_alignment",
+  "confidence": {
+    "rejection": "high",
+    "historical_completeness": "limited",
+    "visual_quantitative_audit": "not_fully_reproduced"
+  },
   "checks": {
-    "source_integrity": "failed_material_citation_mapping",
-    "historical_chronology_readiness": "failed_annual_source_granularity_despite_205_links",
+    "research_depth": "substantial_205_years_but_individual_claim_audit_incomplete",
+    "evidence_traceability": "failed_source_pinpoints_and_unverified_205_claims",
+    "counterfactual_review": "partial",
+    "visual_evidence_readiness": "structural_1_chart_1_flow_1_map_not_full_numeric_reproduction",
     "editorial_publication_readiness": "rejected",
-    "visual_evidence_readiness": "structural_parity_observed_full_methodology_not_independently_reproduced",
-    "bilingual_parity": "targeted_1833_1925_1928_1948_1981_passed_with_shared_mislabel",
-    "publication_snapshot": "not_generated_rejected",
+    "taxonomy": "passed_structural",
+    "translation": "passed_targeted",
     "source_sha_verification": "passed",
-    "previous_revision_reconciliation": "five_previous_issues_partially_or_substantially_addressed_but_full_traceability_not_proven"
+    "publication_snapshot": "not_generated"
   },
   "issues": [
     {
       "severity": "blocking",
-      "category": "annual_source_to_claim_traceability",
-      "location": "en.md and pt-BR.md §14, 205 annual entries",
-      "evidence": "All 205 entries now have at least one hyperlink, but this is not equivalent to 205 verified claims. In EN, the generic FUNAG foreign-ministers directory is cited for 37 annual entries, a broad FUNAG history PDF for 26 entries without page numbers, and the National Archives imperial chronology landing page for 12. Example 1969 claims centralization/reorganization of technical-cooperation management but links only to the list of foreign ministers, which cannot substantiate that institutional change. 1932 claims reputational consequences of the constitutionalist conflict but links to an entire history PDF without a pinpoint or measurement. The 2026 entry makes three independent assertions but attaches only an EU–Mercosur status link, which does not support the soft-power rank.",
-      "required_correction": "Audit each of the 205 years against its precise source passage, with page, section, dated act or archival identifier, and add distinct citations for multiple material claims; replace unrelated minister directories and generic PDFs used as universal evidence. Preserve bilingual parity."
+      "category": "source_specificity_205_annual_entries",
+      "location": "en.md and pt-BR.md annual chronology §14, 1822–2008",
+      "evidence": "All 205 annual entries have links, but 1822–2008 overwhelmingly use the same 198-page Garcia PDF with '#search=YEAR' fragments rather than page/section anchors or source quotations. The PDF itself contains multiple entries per year and its 2009 note states coverage through 2008. A browser text-search fragment cannot prove that each compound annual claim is documented. Targeted comparison did verify 1932 (PDF p.76, lines 2738–2744) and the River Plate treaty in 1969 (p.106, lines 3830–3837), but these spot checks do not validate the other annual claims.",
+      "required_correction": "Create a year-by-year evidence concordance with PDF page, exact dated passage and mapping of each material clause to that passage, separately citing non-Garcia claims and post-2008 direct sources; reconcile both locales."
     },
     {
       "severity": "blocking",
-      "category": "1981_misleading_second_citation",
-      "location": "en.md and pt-BR.md §14, 1981",
-      "evidence": "The Cancún claim now links to the contemporary Guerreiro speech, a substantial correction, but the second US State Department FRUS document is labeled '[UN vote]'/'[votação ONU]' despite describing Cancún participation, not a UN vote. Both locales share the mislabel.",
-      "required_correction": "Rename the second link accurately (US diplomatic record of Cancún), and verify exact claim in the contemporary address."
+      "category": "historical_source_characterization_1833",
+      "location": "Both languages, chronology 1833",
+      "evidence": "Garcia's PDF p.32 lines 1108–1109 expressly asserts that Brazil recognized the Argentine right to the islands in the 1833 entry, but provides no dated recognition instrument there. Current prose properly avoids presenting a signed act, yet describes FUNAG's retrospective chronology as mentioning support; the Garcia text is a stronger retrospective assertion than the independently demonstrated contemporaneous evidence. Neither source supplies the dated Brazilian act.",
+      "required_correction": "Distinguish Garcia's retrospective claim from contemporaneous diplomatic documentation, and avoid treating the year heading as proof of the date of a Brazilian recognition act."
     },
     {
       "severity": "blocking",
-      "category": "1925_primary_source_label_and_pinpoint",
-      "location": "en.md and pt-BR.md §14, 1925",
-      "evidence": "The 1925 dated memoranda are now linked to a specific SciELO scholarly article rather than a generic DocReader collection, but the hyperlink is labeled '[Primary records]'/'[Registros documentais]' even though it is a secondary scholarly study; no section/page pinpoint or underlying diplomatic record is given.",
-      "required_correction": "Label the source as scholarly study and cite the specific article section/page or underlying primary documents for both dated exchanges."
+      "category": "multi_claim_source_traceability_2026",
+      "location": "Both languages, chronology 2026",
+      "evidence": "The 2026 entry combines January EU–Mercosur signature, May provisional application, and Brand Finance's 29th place. The two URLs are separately relevant but there is no quoted or dated source passage attached to each claim and no indication of ranking universe, methodology, survey reference period, or differentiation of brand perception from diplomatic effectiveness.",
+      "required_correction": "Provide precise EU Commission status passage and dated Brand Finance ranking/methodology with survey year, denominator and limitations, explicitly mapping each clause to its source."
     },
     {
       "severity": "blocking",
-      "category": "visual_and_argument_evidence_not_fully_auditable",
-      "location": "Charts, comparative soft-power claims and analytical sections in both languages",
-      "evidence": "The Council-term chart lists 11 start years and the required chart/flow/map/table grammar is present, but the annual evidence matrix does not permit full reconstruction of the 205-year interpretation, and broad claims about reputation, influence and causation lack consistent source-to-claim pinpoints. A structural visual pass does not substitute for a quantitative/methodological audit.",
-      "required_correction": "Supply dataset-to-chart transformation and explicit definitions/denominators where quantitative; qualify unmeasured causal/reputational inferences and provide counterevidence."
+      "category": "visual_methods_and_cross_claim_reproducibility",
+      "location": "EN/PT chart of 11 UN Security Council terms, two tables, flow and map",
+      "evidence": "Both language files contain 205 annual entries and one chart, one flow, one map; this confirms structure, not that the chart's 11 mandates, denominators, source period and analytical transmission claims have been independently reconstructed. No full source-to-data concordance was completed in this review.",
+      "required_correction": "Attach auditable 11-term input series with official UN election dates and mandate years, reproduce the calculation, and map table/map/flow claims to underlying evidence in both locales."
     }
   ],
   "verified_facts": [
-    "205 annual bullet entries in English, each with a hyperlink; both locales show matching targeted dates for 1833, 1925, 1928, 1948, 1981.",
-    "1833 wording now distinguishes the British action and later Brazilian position without asserting a documented Brazilian recognition instrument in 1833.",
-    "1928 decree 5,647 of 8 January 1929 explicitly approves conventions signed at Havana in January/February 1928, as confirmed from the Chamber's legislative text (art. 1).",
-    "1948 entry now distinguishes OAS charter signature from ratification and links the UN Resolution 217 A (III) voting record.",
-    "1981 entry now cites the contemporary speech and US FRUS record, but the latter is mislabeled UN vote.",
-    "EN chronology: 37 annual citations reuse a generic FUNAG minister directory, 26 a full history PDF without pinpoints, 12 a broad imperial chronology page."
+    "Garcia PDF is 198 pages and states that its chronology was extended through 2008 (PDF p.3).",
+    "1932 Garcia PDF p.76 supports the São Paulo insurgents' unsuccessful US belligerency recognition and attempted arms acquisition.",
+    "1969 Garcia PDF p.106 supports signature of the River Plate Basin Treaty on 23 April.",
+    "Garcia PDF p.32 attributes Argentine territorial right recognition to Brazil under 1833 but does not identify the contemporaneous instrument.",
+    "EN and PT-BR have 205 annual bullet entries and matching targeted year wording; each has one chart, one flow and one map."
   ],
   "limitations": [
-    "SciELO and Chile journal full text could not be fetched independently in this run; source specificity is improved, but precise claims are not independently confirmed from their full passages.",
-    "No local npm validation was executed; no build or publication pass is claimed.",
-    "The review identifies demonstrable blockers and does not assert that every remaining annual assertion is false.",
-    "No staging, reports, public index or approved record was changed."
+    "Only targeted Garcia passages were independently examined; no claim of 205 complete passage-level checks is made.",
+    "External institutional sources, 11-term chart calculations and Brand Finance methodology were not exhaustively verified in this run.",
+    "No reports, index, staging or approval record was edited."
   ],
   "previous_revision": {
-    "revision": 2,
+    "revision": 3,
     "qa_status": "rejected",
-    "issues": [
-      {
-        "severity": "blocking",
-        "category": "historical_attribution_1833",
-        "location": "en.md and pt-BR.md §14, 1833",
-        "evidence": "The new entry says 'FUNAG records Brazil’s recognition of Argentina’s claim' in 1833 and cites FUNAG's Great Britain bilateral timeline. The 1833 British occupation and later Brazilian support for Argentine claims are distinguishable events. No contemporaneous 1833 Brazilian recognition document, note or official act is cited. The 2011 FUNAG resenha describes a later policy with an antecedent in 1833, not necessarily a Brazilian recognition in that year.",
-        "required_correction": "Use a contemporary diplomatic dispatch with date and archival reference to substantiate recognition in 1833; otherwise confine the entry to the British action and its consequences, explicitly distinguishing later Brazilian positions. Apply to both languages.",
-        "references": [
-          "https://www.funag.gov.br/chdd/images/Resenhas/Novas/Resenha109_2Sem_2011.pdf",
-          "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha"
-        ]
-      },
-      {
-        "severity": "blocking",
-        "category": "annual_claim_source_mismatch_1948",
-        "location": "en.md and pt-BR.md §14, 1948",
-        "evidence": "The 1948 entry jointly asserts Brazil's participation in OAS founding and adoption of the Universal Declaration of Human Rights but links to FUNAG's general diplomatic history hub, not the OAS Charter of 30 April 1948 or the UN General Assembly roll-call record of 10 December 1948.",
-        "required_correction": "Link to the OAS founding charter and UN Resolution 217 A (III), including Brazil's vote/participation; qualify distinct legal status and events. Apply to both languages.",
-        "references": [
-          "https://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp",
-          "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
-        ]
-      },
-      {
-        "severity": "blocking",
-        "category": "annual_claim_source_mismatch_1981",
-        "location": "en.md and pt-BR.md §14, 1981",
-        "evidence": "The claim about Brazilian participation in the 1981 Cancún North–South Summit links to an unrelated Chamber of Deputies archive of foreign parliamentary speeches. A contemporary statement by Foreign Minister Ramiro Saraiva Guerreiro at Cancún, published in Estudios Internacionales 15(59), 1982, pp. 243–246, is an available directly relevant primary text.",
-        "required_correction": "Replace the unrelated archive link with the minister's contemporaneous 1981 address, provide exact summit dates (22–23 October 1981) and clarify who represented Brazil; check both languages.",
-        "references": [
-          "https://www.anales.uchile.cl/index.php/REI/article/view/15980"
-        ]
-      },
-      {
-        "severity": "blocking",
-        "category": "chronology_traceability_143_unrevised_entries",
-        "location": "en.md and pt-BR.md §14, annual entries outside the 62 newly linked years",
-        "evidence": "205 annual entries exist per locale and all 62 former generic placeholders were replaced with year-specific text and citations. However the other 143 annual entries generally remain without per-year or short-range source keys. A 40-source pending bibliography and 10-item added appendix do not by themselves demonstrate source-to-claim traceability for the full 1822–2026 chronology. This was a blocking issue in revision 1 and has not been fully resolved.",
-        "required_correction": "Attach primary or specialist scholarly sources to all 205 annual entries, or use a dated year-range source map with pinpoint pages or archival document identifiers; separate historical inference from verifiable dates and actions. Audit all entries, not just the 62 replaced ones."
-      },
-      {
-        "severity": "blocking",
-        "category": "dated_primary_record_not_proven",
-        "location": "en.md and pt-BR.md §14, 1925 and 1928",
-        "evidence": "The new 1925 and 1928 entries cite the National Library's generic DocReader collection URL without document, page or dated excerpt, making the specific claims about the League and the 1928 foreign-ministry reports difficult to reproduce.",
-        "required_correction": "Identify the actual annual ministerial report title, date, issue/page or digitized frame; quote or precisely paraphrase the passage supporting each assertion, and verify the claims in both locales."
-      }
-    ]
-  },
-  "required_next_action": "Producer must supply pinpoint traceability for every annual claim and repair 1981/1925 citation labels; submit new pending last. Independent QA must revalidate exact blobs. Do not publish.",
-  "review_notes": "Revision 3 rejected. Presence of 205 links does not establish claim-level evidence. 1928 and 1833 defects substantially corrected; approval remains blocked."
+    "issue_count": 4
+  }
 }
