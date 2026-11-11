@@ -40,7 +40,7 @@ A corrente de comércio com a China passou de US$ 65,9 bilhões em 2015 para US$
 
 Os valores são arredondados na fonte; somas e diferenças podem apresentar pequenas divergências decimais. Fluxos de mercadorias FOB não medem comércio de serviços, royalties, dividendos, empréstimos ou aquisição de empresas.
 
-~~~chart
+```chart
 type: line
 title: Saldo brasileiro no comércio de bens com a China, 2015–2025
 unit: US$ bilhões FOB
@@ -55,7 +55,7 @@ unit: US$ bilhões FOB
 2023 | 51.1
 2024 | 30.7
 2025 | 29.1
-~~~
+```
 
 Em 2025, a China absorveu 28,7% das exportações brasileiras e forneceu 25,3% das importações. Em 2015, essas parcelas eram 18,8% e 17,7%. Isso revela concentração simultânea da clientela exportadora e da origem de suprimentos. O superávit bilateral não elimina déficits em outras relações, tampouco mede quanto valor adicionado permanece na economia brasileira. [IPECE, gráfico 3](https://www.ce.gov.br/wp-content/uploads/2026/03/ipece_informe_279_03_mar2026.pdf).
 
@@ -87,7 +87,7 @@ O levantamento do CEBC inclui aquisições, projetos novos, expansões e associa
 
 A série anual do CEBC evidencia ciclos de grandes transações, não progressão uniforme. Em 2010 o levantamento registra US$ 13 bilhões; em 2017, US$ 8,8 bilhões; em 2020, US$ 1,9 bilhão; em 2022, US$ 1,3 bilhão; e em 2025, US$ 6,1 bilhões. Uma aquisição bilionária pode elevar o total anual sem gerar aumento equivalente na formação bruta de capital fixo do Brasil.
 
-~~~chart
+```chart
 type: bar
 title: Projetos de investimento chinês registrados pelo CEBC, 2010–2025
 unit: US$ bilhões; classificação CEBC, não fluxo oficial do Banco Central
@@ -107,7 +107,7 @@ unit: US$ bilhões; classificação CEBC, não fluxo oficial do Banco Central
 2023 | 1.97
 2024 | 4.18
 2025 | 6.1
-~~~
+```
 
 Os valores de anos anteriores podem ser revistos conforme projetos são reclassificados ou novas informações se tornam disponíveis. Por isso, os US$ 4,18 bilhões de 2024 utilizados na edição de 2026 do CEBC não devem ser substituídos silenciosamente por números divulgados em publicações anteriores.
 
@@ -175,7 +175,7 @@ Em 2025, Brasil e China assinaram entendimentos para estudos e cooperação ferr
 
 A integração logística deve ser examinada também pela carga de retorno. Uma ferrovia concebida apenas para levar grão ou minério ao porto pode operar com forte desequilíbrio de fluxos. Seus benefícios sociais dependem de acesso de produtores menores, passageiros quando aplicável, integração regional e manutenção. A compra de locomotivas ou vagões chineses não equivale à propriedade chinesa da ferrovia; transportador, operador, financiador, fabricante e concessionário são agentes distintos.
 
-~~~map
+```map
 title: Geografia econômica do relacionamento sino-brasileiro
 Centro-Oeste brasileiro | Soja, milho, agroindústria e corredores de exportação | Origem produtiva e transformação variam por município
 Pará e Minas Gerais | Minério, minerais industriais e serviços de mineração | Transporte, processamento e licenciamento determinam valor retido
@@ -183,7 +183,7 @@ Litoral do Sudeste | Petróleo offshore, portos, mercado consumidor e indústria
 Bahia e São Paulo | Automóveis eletrificados e fornecedores | A presença de fábrica não prova conteúdo local elevado
 Região Norte e Amazônia | Logística, energia, mineração e biodiversidade | Avaliar licenciamento e direitos de comunidades por projeto
 Costa chinesa e interior industrial | Refino, aço, montagem e consumo | Portos de entrada não identificam automaticamente o consumidor final
-~~~
+```
 
 ## 13. Investimento verde e dependência de insumos importados
 
@@ -231,12 +231,12 @@ A distribuição de ganhos exige examinar o que fica com governos subnacionais e
 
 ## 18. A cadeia causal: do capital à renda, e da renda à dependência
 
-~~~flow
+```flow
 Demanda chinesa por alimentos e minerais → exportações brasileiras → receitas externas e renda produtiva → arrecadação, infraestrutura e investimento doméstico
 Concentração da pauta exportadora → exposição a preços e à demanda chinesa → volatilidade de receitas externas → pressão sobre câmbio e decisões de investimento
 Nova fábrica chinesa → compras de máquinas e contratação → produção local → conteúdo nacional e aprendizagem condicionais → salários, impostos e produtividade
 Aquisição de empresa brasileira → mudança do acionista controlador → possível reorganização e novos investimentos → lucros distribuídos conforme propriedade e resultados
-~~~
+```
 
 Essas cadeias se cruzam. Dólares gerados por exportação podem financiar importações de máquinas e insumos úteis ao crescimento; podem também reforçar especialização primária se as oportunidades industriais permanecerem pouco competitivas. O novo investidor pode aportar tecnologia, mas a difusão depende de fornecedores locais, contratos, capacidade de engenharia e concorrência. A expansão de capacidade física pode ampliar a atividade econômica mesmo quando o fluxo financeiro líquido se distribui por vários anos.
 
