@@ -920,3 +920,220 @@ Nordhaus recebeu o prêmio de Economia em **2018**. Seus modelos foram criticado
 Em **13 de outubro de 2025**, receberam o prêmio de Economia por explicar o crescimento impulsionado pela inovação, conforme o [comunicado oficial](https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/). O reconhecimento não demonstra que toda automação ou investimento em inteligência artificial produzirá salários mais altos. A transição depende de educação, negociação trabalhista, concorrência, financiamento e difusão tecnológica.
 
 A principal contribuição é unir história, modelos de inovação e conflito político: crescimento não se mantém apenas por acumular máquinas, mas também por instituições que permitem produzir e aplicar conhecimento sem impedir permanentemente mudanças que prejudicam interesses estabelecidos.
+
+
+## XI — O Brasil produz suas próprias escolas: escravidão, inflação, indústria e desenvolvimento
+
+### 97. José da Silva Lisboa, Visconde de Cairu: comércio e abertura dos portos
+
+**José da Silva Lisboa** (1756–1835), posteriormente **Visconde de Cairu**, nasceu na Bahia e estudou na **Universidade de Coimbra**, onde recebeu formação em direito, filosofia e saberes comerciais do período. Sua carreira combinou ensino, administração, escritos de economia política e participação no aparelho estatal luso-brasileiro.
+
+Influenciado pela tradição de Adam Smith, discutiu liberdade de comércio e instituições capazes de favorecer atividade econômica. Seu papel na defesa da abertura dos portos brasileiros em **1808** o colocou no centro de uma ruptura da política mercantil colonial portuguesa. A abertura alterou relações entre comerciantes, autoridades e consumidores; também inseriu mais diretamente a economia escravista brasileira nas redes britânicas de comércio.
+
+Sua defesa de maior liberdade comercial não equivalia a projeto de igualdade política universal. A estrutura de propriedade, escravidão e hierarquias de nascimento restringia quem poderia beneficiar-se de novos mercados. A importância de Cairu está em introduzir conceitos da economia política clássica no debate sobre uma sociedade que continuava organizada pela coerção do trabalho.
+
+### 98. Joaquim Nabuco e André Rebouças: abolição e a economia da propriedade
+
+**Joaquim Nabuco** (1849–1910) nasceu em Recife, estudou direito em **São Paulo e Recife** e se tornou figura central do movimento abolicionista, da política e da diplomacia. **André Rebouças** (1838–1898), nascido na Bahia, formou-se em **engenharia militar**, trabalhou com infraestrutura e tornou-se um dos grandes intelectuais negros do Brasil imperial.
+
+Nenhum deles era economista acadêmico na acepção atual, mas ambos formularam diagnósticos econômicos fundamentais sobre escravidão, terra e modernização. Nabuco argumentou que a abolição formal não bastaria para desmontar relações de dependência social, propriedade concentrada e exclusão política. Rebouças defendeu transformações de propriedade e acesso à terra, além de obras e infraestrutura que permitissem ampliar oportunidades produtivas.
+
+O problema distributivo era concreto: libertar milhões de pessoas sem terras, crédito, educação e proteção institucional preservava parte das desigualdades criadas pelo sistema escravista. A economia do trabalho não podia ser reduzida a salário de mercado onde o Estado havia historicamente protegido relações de coerção.
+
+Seu legado foi inserir o custo social da escravidão e o problema da reforma agrária no debate econômico brasileiro. As diferenças entre posições e experiências dos dois precisam ser preservadas, mas ambos demonstraram que desenvolvimento não poderia ser explicado apenas por importação de máquinas.
+
+### 99. Roberto Simonsen: a indústria como projeto nacional
+
+**Roberto Cochrane Simonsen** (1889–1948) nasceu no Rio de Janeiro, estudou engenharia na **Escola Politécnica de São Paulo** e construiu carreira industrial, empresarial e intelectual. Sua experiência com produção e infraestrutura moldou a defesa de diversificação econômica e planejamento em um Brasil ainda dependente de exportações agrícolas.
+
+Em ***História econômica do Brasil* (1937)**, analisou a trajetória produtiva nacional e os obstáculos à industrialização. Participou de organizações empresariais e debates de política pública, argumentando que a elevação da renda brasileira exigia investimento industrial, infraestrutura, crédito e maior capacidade de coordenar setores.
+
+Na disputa intelectual com **Eugênio Gudin** nos anos 1940, Simonsen defendeu planejamento e intervenção para superar insuficiência de capital e produtividade. A controvérsia não foi simples oposição entre “amigos” e “inimigos” do Brasil: envolvia diagnósticos diferentes sobre escassez, inflação, papel da indústria e capacidade efetiva do Estado de executar projetos.
+
+O legado é a formação de uma tradição desenvolvimentista em que estrutura produtiva e política industrial ocupam posição central. Projetos de proteção exigem avaliação de desempenho; a contribuição de Simonsen não valida automaticamente subsídios sem metas ou empresas incapazes de competir.
+
+### 100. Eugênio Gudin: a tradição liberal e a crítica ao planejamento
+
+**Eugênio Gudin** (1886–1986) nasceu no Rio de Janeiro, formou-se em **engenharia civil** e desenvolveu carreira em empresas, administração, ensino e pensamento econômico, tornando-se figura importante da tradição liberal brasileira. Sua formação original em engenharia diferencia sua trajetória da de economistas que passaram por cursos especializados criados depois.
+
+Gudin enfatizou estabilidade monetária, disciplina fiscal, concorrência e cautela diante de investimentos públicos orientados por decisões políticas. Nos debates com Simonsen, questionou a capacidade do planejamento de identificar setores rentáveis e alertou para custos e distorções de intervenção excessiva. Seu raciocínio dialogava com economia marginalista e liberal do período.
+
+A defesa de políticas de mercado num país marcado por concentração fundiária, infraestrutura deficiente e desigualdade trouxe questionamentos importantes. Concorrência efetiva não pode ser presumida onde monopólios e crédito restrito limitam entrada de empresas; por outro lado, o alerta de Gudin sobre ineficiência e inflação também respondia a riscos reais.
+
+Sua influência alcançou formação de economistas, jornais e políticas públicas, incluindo passagem pelo Ministério da Fazenda em **1954–1955**. Seu legado é parte de um debate brasileiro persistente entre estabilização, mercado e construção de capacidade produtiva.
+
+### 101. Caio Prado Júnior: colonização, produção para fora e dependência histórica
+
+**Caio Prado Júnior** (1907–1990) nasceu em São Paulo numa família de elite, estudou direito na **Faculdade de Direito do Largo de São Francisco** e desenvolveu carreira como historiador, editor e intelectual marxista. Seu trabalho não se limitou a aplicar categorias europeias ao Brasil: procurou reconstruir a lógica econômica da colonização a partir da forma de ocupação territorial, produção e trabalho.
+
+Em ***Formação do Brasil contemporâneo* (1942)**, apresentou a ideia de que a colonização portuguesa se organizou principalmente para atender interesses comerciais externos, e que essa orientação moldou escravidão, agricultura e estruturas políticas. O conceito de **sentido da colonização** tornou-se referência para explicar por que a expansão comercial não produziu automaticamente um mercado interno amplo.
+
+Sua perspectiva foi criticada por dar ênfase muito grande à finalidade externa e por possíveis limitações ao considerar diversidade de regiões e mercados internos coloniais. O mérito foi conectar história econômica, instituições e dependência, criando base para debates posteriores sobre industrialização e formação nacional.
+
+### 102. Celso Furtado: da Paraíba à CEPAL e à criação da SUDENE
+
+**Celso Monteiro Furtado** (1920–2004) nasceu em **Pombal, Paraíba**, estudou direito no Rio de Janeiro e, depois de participar da Segunda Guerra Mundial, obteve doutorado na **Universidade de Paris em 1948**, com investigação sobre a economia colonial brasileira. A formação combinou história, administração, economia e política, e sua origem nordestina deu-lhe contato com desigualdades regionais muito anteriores à industrialização acelerada do Sudeste.
+
+Furtado ingressou na **CEPAL**, onde trabalhou com Raúl Prebisch e desenvolveu método histórico-estrutural. Em ***Formação econômica do Brasil* (1959)**, articulou ciclos exportadores, escravidão, renda, café, indústria e construção de mercado interno. Sua explicação não tratava atraso como simples escassez de poupança: estruturas produtivas, concentração de renda, dependência externa e decisões políticas condicionavam as possibilidades de desenvolvimento.
+
+Em ***Desenvolvimento e subdesenvolvimento* (1961)**, argumentou que subdesenvolvimento não é apenas uma etapa pela qual todos os países passam antes de convergir. Uma economia pode incorporar técnicas modernas em segmentos exportadores enquanto mantém baixa produtividade, desigualdade e mercados domésticos restritos em outros setores. O mecanismo exige observar como tecnologia, consumo de elites e distribuição do excedente se articulam.
+
+Furtado contribuiu para a criação da **SUDENE em 1959**, visando políticas de desenvolvimento regional no Nordeste. O desafio envolvia irrigação, agricultura, industrialização, infraestrutura e relações políticas locais. A atuação pública expôs o conflito entre projetos técnicos e interesses estabelecidos. O golpe de 1964 interrompeu sua posição política e levou ao exílio, durante o qual desenvolveu extensa carreira internacional.
+
+O legado de Furtado não é uma defesa automática de qualquer empresa estatal. Consiste na demonstração de que crescimento pode coexistir com heterogeneidade estrutural e exclusão. A [análise acadêmica de Guido Mantega](https://www.scielo.br/j/rep/a/VFVpGYrqYjx8r5SzPMCYRHm/?format=html&ilang=pt_BR) destaca a originalidade de seu método e seu papel na formação da economia política brasileira.
+
+### 103. Maria da Conceição Tavares: inflação, estrutura produtiva e o conflito da industrialização
+
+**Maria da Conceição de Almeida Tavares** (1930–2024) nasceu em Portugal, estudou **matemática na Universidade de Lisboa** e migrou para o Brasil, onde completou formação econômica e desenvolveu carreira no **BNDES**, na **CEPAL**, na **Universidade Federal do Rio de Janeiro** e na **Unicamp**. Sua trajetória relacionou raciocínio matemático, experiência institucional e militância política.
+
+Em ***Da substituição de importações ao capitalismo financeiro***, examinou como a industrialização brasileira enfrentava limites de importações, financiamento, capacidade produtiva e distribuição. Defendia compreender inflação e crescimento a partir da estrutura de produção, conflitos distributivos e formas de organização do capital, em vez de reduzir todos os episódios a um único excesso monetário.
+
+Sua pesquisa sobre ciclos e acumulação dialogou com Keynes, Kalecki, Marx, Schumpeter e estruturalismo latino-americano. A [Revista de Economia Política](https://doi.org/10.1590/s1415-98482010000100009) reconhece a originalidade e a diversidade de suas referências. Sua defesa da indústria e de políticas públicas conviveu com críticas à concentração financeira e à dependência externa.
+
+Tavares tornou-se professora influente, formou economistas e participou da política brasileira, incluindo mandato como deputada federal. Seu legado não se esgota na imagem de personalidade combativa: há contribuições analíticas sobre investimento, desequilíbrios setoriais, crédito e a dinâmica do capitalismo brasileiro.
+
+### 104. Ignácio Rangel: dualidade econômica e estrangulamentos do desenvolvimento
+
+**Ignácio de Mourão Rangel** (1914–1994) nasceu no Maranhão e participou de atividades políticas antes de se dedicar intensamente a problemas econômicos brasileiros. Sua formação combinou estudos, autodidatismo e experiência no serviço público e em instituições ligadas ao desenvolvimento.
+
+A teoria da **dualidade básica da economia brasileira** procurou compreender a coexistência e interação de relações produtivas e instituições de épocas diferentes. Em vez de imaginar que uma economia inteira muda simultaneamente, Rangel analisou setores modernos e tradicionais, investimento, agricultura, inflação e gargalos de infraestrutura.
+
+Suas propostas sobre financiamento de serviços públicos e reorganização de investimento tiveram relevância para debates posteriores sobre concessões, dívida e capacidade produtiva. Algumas hipóteses de ciclos longos receberam críticas empíricas, especialmente quando usadas para prever datas precisas de transformação.
+
+O legado de Rangel é insistir em que a estrutura econômica brasileira deve ser interpretada por combinações de regimes, não por uma única categoria abstrata copiada de modelos estrangeiros.
+
+### 105. Roberto Campos: desenvolvimento, planejamento e liberalismo econômico
+
+**Roberto de Oliveira Campos** (1917–2001) nasceu em Cuiabá, recebeu formação religiosa inicial, estudou em instituições brasileiras e obteve educação econômica nos Estados Unidos, incluindo formação vinculada à **George Washington University** e a estudos adicionais. Trabalhou na diplomacia e em organismos econômicos antes de tornar-se ministro do Planejamento durante o regime militar brasileiro.
+
+Sua carreira combinou participação na construção de instituições de financiamento e defesa de reformas de mercado. No contexto do **PAEG**, programa de ação econômica de 1964–1967, esteve associado à reorganização fiscal, financeira e administrativa, incluindo novos mecanismos de correção monetária e instituições de crédito. Os instrumentos buscavam estabilização e capacidade de investimento, mas foram implementados por regime autoritário com repressão política e restrição de direitos.
+
+Campos posteriormente reforçou posições liberais e críticas ao intervencionismo brasileiro, participando do debate público e parlamentar. Sua experiência não o torna defensor permanente de um Estado ausente: em determinados momentos, apoiou planejamento e reforma institucional. O legado precisa considerar tanto contribuição ao desenho de instrumentos financeiros quanto o contexto político e distributivo de sua implementação.
+
+### 106. Antônio Delfim Netto: o milagre econômico, a inflação e os custos de governar
+
+**Antônio Delfim Netto** (1928–2024) nasceu em São Paulo, estudou economia na **Universidade de São Paulo**, onde se tornou professor e desenvolveu pesquisas sobre agricultura e café. Sua formação acadêmica foi marcada por análise quantitativa de produção e preços, antes de assumir posições centrais na política econômica.
+
+Foi ministro da Fazenda entre **1967 e 1974**, durante parte do período conhecido como **milagre econômico brasileiro**, com taxas elevadas de crescimento, investimento e expansão industrial. A aceleração ocorreu em contexto de condições internacionais e políticas domésticas específicas, mas também de autoritarismo, repressão e desigualdade distributiva. Crescimento do PIB não mede automaticamente melhoria equivalente de direitos e renda de todas as famílias.
+
+Em fases posteriores, Delfim exerceu funções de política econômica durante crises de petróleo, dívida externa e inflação. Suas posições mudaram com experiência e contexto, e não formam um sistema doutrinário imutável. Avaliar sua trajetória exige separar decisões de estabilização, incentivos de crescimento, dívida pública e responsabilidade pelos custos sociais.
+
+A fama de gestor pragmático não elimina controvérsias sobre autoritarismo e a forma como o crescimento foi distribuído. Seu legado é fundamental para compreender a combinação de desenvolvimento acelerado e restrições que emergiram no Brasil dos anos 1970 e 1980.
+
+### 107. Mário Henrique Simonsen: modelos, indexação e o Estado empresário
+
+**Mário Henrique Simonsen** (1935–1997) nasceu no Rio de Janeiro, estudou **engenharia civil** e economia e tornou-se referência acadêmica por capacidade matemática e trabalhos sobre inflação, planejamento e crescimento. Desenvolveu carreira na **Fundação Getulio Vargas** e teve grande influência na formação técnica de economistas.
+
+Seus escritos trataram de moeda, programação econômica e **inflação inercial**, incluindo mecanismos de reajuste e indexação. A correção monetária podia proteger contratos de perdas reais, mas sua generalização dificultava desinflação quando preços e salários eram automaticamente atualizados pela inflação passada. O problema não se resolvia apenas por restringir a emissão presente.
+
+Simonsen ocupou o Ministério da Fazenda e o Ministério do Planejamento em governos militares, operando dentro das escolhas políticas e das crises que marcaram o período. A incapacidade de conciliar objetivos de crescimento, dívida externa, inflação e equilíbrio fiscal contribuiu para divergências e sua saída do governo.
+
+Sua contribuição acadêmica e sua atuação política devem ser avaliadas separadamente. O legado está na busca de formulações matemáticas e instrumentos para lidar com problemas macroeconômicos específicos do Brasil, inclusive condições sob as quais indexação altera a dinâmica dos preços.
+
+### 108. Luiz Carlos Bresser-Pereira: Estado, desenvolvimento e regimes cambiais
+
+**Luiz Carlos Bresser-Pereira** (nascido em 1934) nasceu em São Paulo, estudou direito na **Universidade de São Paulo** e desenvolveu formação acadêmica posterior em administração e economia, com carreira na **Fundação Getulio Vargas**. Sua produção vinculou desenvolvimento industrial, Estado, empresas e organização política.
+
+Em trabalhos sobre **novo desenvolvimentismo**, examinou câmbio, taxa de juros, salários, estrutura industrial e competição internacional. A ideia de uma taxa de câmbio competitiva para produtores eficientes pretende evitar que valorização cambial prolongada destrua capacidade de exportar manufaturas. A tese depende de instrumentos e contextos: desvalorização pode encarecer importações e salários reais, e seus efeitos distributivos não desaparecem por ser chamada de política de desenvolvimento.
+
+Participou de governos brasileiros, incluindo passagem pelo Ministério da Fazenda em **1987**, associada ao **Plano Bresser** de estabilização, que não produziu desinflação duradoura. Sua experiência revela a dificuldade de transformar diagnóstico em política quando contratos indexados, déficits e expectativas resistem.
+
+O legado é uma tentativa contínua de construir teoria de desenvolvimento adaptada às economias de renda média, em disputa com propostas liberais, estruturalistas e monetárias.
+
+### 109. Pérsio Arida, André Lara Resende e a reconstrução da unidade de conta
+
+**Pérsio Arida** (nascido em 1952) e **André Lara Resende** (nascido em 1951) formaram-se em economia na **PUC-Rio** e desenvolveram pós-graduação e pesquisa em ambientes internacionais, especialmente no debate sobre inflação brasileira. Nos anos 1980, contribuíram para formular proposta conhecida como **Larida**, vinculada à ideia de reforma monetária que enfrentasse a indexação sem produzir confusão ainda maior nos preços relativos.
+
+O problema da inflação inercial era que empresas e trabalhadores reajustavam contratos pela inflação passada, reproduzindo a dinâmica nominal mesmo após mudanças de política. A criação de uma unidade de conta estável poderia permitir que preços fossem reorganizados antes da introdução de uma nova moeda para pagamentos. A inovação estava na coordenação de expectativas e contratos, não numa simples troca de notas de papel.
+
+A formulação histórica não deve ser reduzida a uma invenção exclusiva de dois indivíduos: economistas, técnicos e dirigentes de diferentes instituições participaram do processo que culminou no **Plano Real de 1994**, incluindo **Edmar Bacha**, **Gustavo Franco**, **Pedro Malan**, **Francisco Lopes** e muitos outros. A **URV** começou a vigorar em março e foi convertida em real em **1º de julho de 1994**, com regras fiscais, cambiais e bancárias que mudaram ao longo do programa.
+
+A estabilização foi extraordinária por interromper décadas de inflação muito alta, mas os custos e conflitos seguintes — juros reais, dívida pública, câmbio, desigualdade e competitividade industrial — permaneceram em debate. Arida e Lara Resende desenvolveram depois posições diferentes sobre política monetária e finanças públicas, mostrando que participar da mesma reforma não significa concordar para sempre em todas as teorias.
+
+### 110. Edmar Bacha, Gustavo Franco e Pedro Malan: coordenação, moeda e disciplina institucional
+
+**Edmar Bacha** (nascido em 1942) estudou em instituições brasileiras e concluiu doutorado em economia na **Universidade Yale**. Sua produção incluiu distribuição, desenvolvimento e problemas de inflação, com reconhecimento também por formulações críticas sobre o contraste entre setores modernos e atrasados no Brasil.
+
+**Gustavo Franco** (nascido em 1956), formado em economia pela **PUC-Rio** e doutor pela **Universidade Harvard**, desenvolveu carreira em pesquisa e política monetária, participando da equipe responsável pela transição ao real e posteriormente da direção do Banco Central. **Pedro Malan** (nascido em 1943) estudou economia no Rio de Janeiro e em **Berkeley**, trabalhou em organismos internacionais e assumiu funções importantes na condução de políticas econômicas.
+
+A estabilização exigiu decisões sobre emissão, contratos, conversão de preços, reservas cambiais, política fiscal e supervisão bancária. Nenhum especialista isolado poderia controlar todos esses componentes. A equipe do Real enfrentou o desafio de mudar comportamento de preços sem destruir a rede de pagamentos e manter confiança enquanto a moeda anterior deixava de servir como unidade de referência.
+
+A experiência gerou debates sobre a dependência de juros elevados e valorização cambial no período posterior, efeitos sobre indústria e sobre o financiamento do Estado. O resultado central — queda abrupta da inflação — é documentado; os custos de longo prazo exigem decomposição de políticas e condições internacionais.
+
+### 111. Fernando Henrique Cardoso e Enzo Faletto: dependência, poder e desenvolvimento associado
+
+**Fernando Henrique Cardoso** (nascido em 1931) estudou ciências sociais na **Universidade de São Paulo**, desenvolvendo carreira de sociólogo e pesquisador de estrutura econômica e política. **Enzo Faletto** (1935–2003), sociólogo chileno, estudou e trabalhou em instituições latino-americanas de pesquisa e ensino.
+
+Em ***Dependência e desenvolvimento na América Latina* (1969)**, procuraram mostrar que inserção subordinada no comércio e no capital internacionais não produz automaticamente estagnação. Coalizões políticas, burguesias locais, Estado e empresas estrangeiras podem formar modalidades de desenvolvimento associado, com oportunidades e limites distributivos próprios.
+
+Cardoso tornou-se figura política brasileira e presidiu o país durante parte da consolidação do Plano Real, mas sua atuação governamental não pode ser identificada mecanicamente com cada proposição do livro escrito com Faletto décadas antes. O legado intelectual da teoria da dependência está em entender articulação entre Estado, classes e capital externo como relação histórica específica, não como consequência inevitável de um indicador de comércio.
+
+### 112. Theotônio dos Santos, Ruy Mauro Marini e André Gunder Frank: dependência em sua versão mais radical
+
+**Theotônio dos Santos** (1936–2018), **Ruy Mauro Marini** (1932–1997) e **André Gunder Frank** (1929–2005) desenvolveram interpretações que vinculavam subdesenvolvimento periférico à expansão histórica do capitalismo mundial. Suas trajetórias incluíram universidades brasileiras e estrangeiras, exílio e conflitos com regimes autoritários.
+
+Marini elaborou a ideia de **superexploração da força de trabalho**, relacionando remuneração, jornadas e inserção externa de economias dependentes. Dos Santos analisou formas históricas de dependência tecnológica e financeira. Frank enfatizou redes de metrópole e satélites e questionou a ideia de que regiões pobres eram simplesmente “pré-capitalistas” ou isoladas.
+
+As teorias influenciaram gerações de pesquisadores, mas receberam críticas por subestimar capacidade de transformação produtiva de algumas economias periféricas e por atribuir pouca autonomia a escolhas domésticas. A industrialização asiática e transformações de países latino-americanos exigem analisar mecanismos concretos de transferência tecnológica e formação de instituições.
+
+A história da dependência não foi uma escola única. As diferenças entre Furtado, Cardoso, Marini e Frank são fundamentais para compreender divergências sobre capitalismo periférico, Estado e possibilidades de desenvolvimento.
+
+## XII — O século XXI: desigualdade, tecnologia e a economia como questão pública
+
+### 113. Thomas Piketty: capital, herança e a reconstrução das séries tributárias
+
+**Thomas Piketty** (nascido em 1971) nasceu na França, estudou na **École normale supérieure** e obteve doutorado em economia em instituição francesa antes de desenvolver carreira acadêmica ligada à **Paris School of Economics** e a centros internacionais. Sua formação quantitativa e histórica concentrou-se na distribuição de renda e riqueza.
+
+Com **Emmanuel Saez**, **Gabriel Zucman** e vários colaboradores, desenvolveu séries históricas sobre renda e patrimônio a partir de dados tributários e outros registros. Em ***O capital no século XXI* (2013)**, analisou a possibilidade de retorno do capital superar crescimento econômico por longos períodos, ampliando concentração patrimonial em determinadas condições institucionais.
+
+A relação **r > g** não é lei imutável que determine concentração sem exceções. Impostos, guerras, inflação, dispersão da propriedade, demografia e composição dos retornos alteram resultados. Bases de dados sobre riqueza precisam lidar com evasão fiscal, ativos ocultos e mudanças na legislação tributária, que tornam comparações históricas difíceis.
+
+O legado de Piketty é a reintrodução sistemática da história de longo prazo na discussão sobre desigualdade. Suas propostas de tributação progressiva do patrimônio e coordenação internacional são debatidas pela capacidade de arrecadação, efeitos sobre investimento e viabilidade política, não derivam automaticamente de seus gráficos.
+
+### 114. Gabriel Zucman e Emmanuel Saez: riqueza oculta e o desenho de impostos
+
+**Emmanuel Saez** (nascido em 1972), economista francês formado na **École normale supérieure** e doutor pelo **MIT**, tornou-se pesquisador de tributação e distribuição de renda. **Gabriel Zucman** (nascido em 1986), formado na **École normale supérieure** e doutor pela **Paris School of Economics**, desenvolveu análise de riqueza offshore, paraísos fiscais e tributação internacional.
+
+Seus trabalhos utilizam registros tributários, estatísticas nacionais e informações financeiras para estimar distribuição e mobilidade de patrimônios. A economia dos impostos precisa observar não apenas alíquotas nominais, mas isenções, transferência de lucros, evasão, elasticidade da oferta de trabalho e capacidade do Estado de fiscalizar ativos.
+
+A proposta de maior tributação de grandes fortunas enfrenta debates sobre valorização de empresas não listadas, saída de capitais, direitos de propriedade e coordenação transnacional. Sua importância não está em presumir que toda concentração é ilegal, mas em identificar como regras diferentes permitem que patrimônio altamente móvel receba tratamento distinto do trabalho doméstico.
+
+### 115. Mariana Mazzucato: o Estado como participante da inovação
+
+**Mariana Mazzucato** (nascida em 1968, em Roma) cresceu nos Estados Unidos e estudou história e economia em **Tufts University**, com doutorado em economia na **New School for Social Research**. Desenvolveu carreira acadêmica no Reino Unido, incluindo direção de pesquisas de inovação e políticas públicas.
+
+Em ***The Entrepreneurial State* (2013)**, examinou investimentos públicos de longo prazo em tecnologias que depois foram utilizados por empresas privadas, argumentando que governos podem assumir riscos iniciais onde o mercado é incapaz ou reticente. Sua proposta de **políticas orientadas por missões** enfatiza objetivos sociais mensuráveis, como saúde e transição energética, articulando pesquisa, compras públicas e capacidade industrial.
+
+A tese não demonstra que toda empresa estatal ou programa de subsídios seja inovador. A capacidade pública de escolher, revisar e encerrar projetos é decisiva; captura por empresas e políticos pode gerar perdas sem retorno social. Seu legado está em questionar a divisão simplista em que o Estado apenas corrige falhas de mercado depois que a inovação privada já ocorreu.
+
+### 116. Branko Milanović: desigualdade dentro e entre países
+
+**Branko Milanović** (nascido em 1953 na antiga Iugoslávia) estudou economia e obteve doutorado na **Universidade de Belgrado**, desenvolvendo carreira em organismos internacionais e pesquisa sobre distribuição global. Sua experiência com países em transição e estatísticas de renda orientou estudos comparativos sobre globalização.
+
+Sua investigação distingue desigualdade **entre países**, afetada por diferenças de renda média, e desigualdade **dentro de países**, associada à distribuição nacional. A expansão econômica de grandes países asiáticos reduziu certas diferenças internacionais enquanto determinados grupos nos países ricos enfrentaram estagnação relativa de renda.
+
+A chamada **curva do elefante**, desenvolvida com **Christoph Lakner**, visualizou mudanças na renda global por percentis em determinado período. Seu formato não deve ser extrapolado para qualquer janela temporal ou interpretado como causalidade direta da globalização sem controlar crescimento nacional, demografia e composição dos grupos. O legado é tratar a distribuição global como objeto quantitativo distinto das estatísticas nacionais.
+
+### 117. Deirdre McCloskey: retórica, história e as ideias que legitimam inovação
+
+**Deirdre Nansen McCloskey** (nascida em 1942) estudou história e economia em **Harvard**, desenvolvendo carreira em história econômica, metodologia e análise da linguagem utilizada por economistas. Sua trajetória profissional incluiu diferentes instituições americanas e mudanças pessoais discutidas publicamente em escritos autobiográficos.
+
+McCloskey questionou o uso automático de significância estatística como medida de importância econômica, insistindo em tamanho de efeito, interpretação histórica e qualidade do argumento. Na trilogia sobre virtudes burguesas, defendeu que mudanças culturais e de dignidade concedida a comerciantes e inovadores contribuíram para a expansão extraordinária da prosperidade moderna.
+
+A tese de que ideias e retórica importam é relevante, mas enfrenta dificuldades de identificação empírica: instituições, energia, comércio, ciência e poder colonial também mudaram no mesmo período. Seu legado está no exame da linguagem econômica e na crítica à falsa precisão numérica, não numa explicação exclusiva e comprovada de todo crescimento industrial.
+
+### 118. Susan Strange: a política internacional também determina mercados
+
+**Susan Strange** (1923–1998) nasceu no Reino Unido, trabalhou em jornalismo e pesquisa e se tornou referência em **economia política internacional**, ligada a instituições como a **London School of Economics**. Sua carreira foi construída em campo que inicialmente carecia de delimitação disciplinar clara entre economia, ciência política e relações internacionais.
+
+Em ***States and Markets* (1988)**, examinou **poder estrutural** nos sistemas de segurança, produção, finanças e conhecimento. Uma autoridade pode influenciar não apenas o resultado de uma negociação, mas as regras e as alternativas disponíveis aos participantes. Mercados financeiros internacionais, portanto, não são espaços inteiramente separados da geopolítica.
+
+Strange criticou a tendência de explicar fluxos de capital por modelos de preços que ignoram soberania, empresas transnacionais e instituições de segurança. O legado se tornou especialmente importante para avaliar moeda de reserva, sanções, pagamentos internacionais e capacidade dos Estados de definir condições de acesso aos mercados.
+
+### 119. Alice Amsden: industrialização tardia e disciplina das políticas públicas
+
+**Alice H. Amsden** (1943–2012) nasceu em Nova York, estudou economia em **Cornell** e obteve doutorado na **London School of Economics**. Desenvolveu carreira acadêmica ligada à industrialização de economias de renda média e à relação entre Estado e empresas.
+
+Em ***Asia's Next Giant: South Korea and Late Industrialization* (1989)**, estudou como a Coreia do Sul combinou crédito dirigido, proteção seletiva, política de exportação e cobrança de resultados de empresas favorecidas. A intervenção podia criar aprendizagem produtiva quando governos exigiam desempenho e eram capazes de retirar apoio a firmas ineficientes.
+
+A experiência não prova que qualquer subsídio produzirá uma nova Coreia do Sul. A capacidade administrativa, acesso a mercados externos, educação, geopolítica e condições de concorrência são fundamentais. Amsden insistiu que aprender a produzir tecnologias complexas exige instituições e investimento, contestando leituras que atribuíam a industrialização apenas ao ajuste automático de preços.
