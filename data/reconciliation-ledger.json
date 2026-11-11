@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T12:34:48.448Z",
+  "last_reconciled_at": "2026-11-11T15:02:15.654Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9064,6 +9064,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Revision 1 map-only change, no new observed economic, physical or institutional fact. Peer-reviewed and preprint learning findings are material social/educational evidence but do not establish a new engineering capability, deployed benchmark, or scaled technology milestone requiring mutation of the technology signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-world-demographic-transition-20261111150215",
+      "reconciled_at": "2026-11-11T15:02:15.654Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-11-WORLD-DEMOGRAPHIC-TRANSITION"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "Population shift alters longer-run labour and capital dependencies; no new bilateral quantified relationship or network edge established by this research."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "Regional age-structure divergence was compared; no specific investable project, financial return or canonical opportunity record substantiated."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Human-capital and state-capacity mechanisms reassessed across Brazil, East Asia, South Asia, Africa, Europe and North America; no new actor control relationship quantified."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Water, soils and food access were revisited with FAO and SOFI figures; no defensible new physical reserve, capacity or ownership datum for canonical inventory."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "No single newly verified implemented policy case with measured outcomes was analyzed for atlas inclusion."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Migration and historical conflict are discussed generally; no new attributable armed conflict episode or systemic conflict event established."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI and agriculture discussed as mechanisms, not new technical demonstrated capabilities, deployments or scale milestones."
         }
       ]
     }

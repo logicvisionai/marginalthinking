@@ -23648,5 +23648,188 @@
         "search_text": "A Era do Desinteresse examina IA e incentivos para aprender, terceirização do pensamento, valor da universidade e da escola, desigualdade cognitiva e cenários de uma Idade das Trevas tecnológica."
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-11-WORLD-DEMOGRAPHIC-TRANSITION",
+    "slug": "2026-11-11-crescimento-populacional-global-historia-transicao-futuro",
+    "revision": 0,
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T11:44:00-03:00",
+    "kind": "structural-economic-outlook",
+    "priority": 5,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "africa",
+        "americas",
+        "asia-pacific",
+        "europe"
+      ],
+      "subregions": [
+        "sub-saharan-africa",
+        "latin-america-caribbean",
+        "east-asia",
+        "south-asia"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        },
+        {
+          "code": "IN",
+          "slug": "india"
+        },
+        {
+          "code": "NG",
+          "slug": "nigeria"
+        },
+        {
+          "code": "US",
+          "slug": "united-states"
+        }
+      ]
+    },
+    "topics": [
+      "demography-labor",
+      "inequality-distribution",
+      "institutions-governance",
+      "social-change",
+      "climate-environment",
+      "industry-production",
+      "infrastructure-logistics"
+    ],
+    "phenomena": [
+      "demographic-transition",
+      "migration-displacement",
+      "social-change",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "2026-11-11 America/Sao_Paulo",
+      "research_depth": "EN ~5481 substantive words, PT-BR ~5798 substantive words; 17 sections each; 21 source URLs each across 13 hosts",
+      "evidence_vintage": "UN WPP 2024 WUP 2025 WHO UNICEF 2026 SOFI 2026 OECD 2025 IBGE 2024; observations vs future projections explicitly separated",
+      "visual_evidence": "4 matched numerical charts plus 4 evidence tables, 1 flow, 1 map and 1 mindmap in both languages",
+      "chart_numeric_parity": "Same four numeric arrays in EN and PT-BR: [3.31,2.25]; [2.5,6.2,8.2,10.3,10.2]; [93.5,76.7,50.6,37.4]; [-14,5.3,38]",
+      "novelty": "Integrates long-run demographic regime change, population momentum, choice constraints, uneven global stages, sectoral resource pressure, class emissions and national economic capacity.",
+      "counterfactuals": "Labour absorption, reproductive autonomy, adaptation productivity, environmental and infrastructure trajectories specify conditions that weaken each scenario.",
+      "research_ethics": "Avoids coercive pronatalism/antinatalism, distinguishes rights and outcomes, and does not turn model scenarios into certainties."
+    },
+    "related_research_ids": [
+      "MT-PE-2026-11-03-NEOLITHIC-TRANSITIONS",
+      "MT-GSP-2026-10-29-STRATEGIC-RESOURCE-STOCKS",
+      "MT-FS-2026-10-24-AGRIFOOD"
+    ],
+    "limitations": [
+      "WPP 2024 remains the latest verified official UN demographic baseline at cutoff; projections are conditional and revised periodically.",
+      "Historic population reconstruction before 1950 combines sources with substantial uncertainty.",
+      "Urbanization 2025 degree-of-urbanization definition differs from older national definitions.",
+      "Multi-country UNFPA fertility-intentions survey is not a census of worldwide preferences.",
+      "UN population scenarios, IBGE country projections, SOFI 2026 hunger and OECD pensions use distinct populations, dates and measures."
+    ],
+    "url": "/reports/2026/11/2026-11-11-crescimento-populacional-global-historia-transicao-futuro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-11T15:00:59.432Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "2fef2a2a840c88332c4f4f2eb2926ceace8b7dde",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "The Century of Demographic Transition: Population Growth, Ageing and the Reorganization of the World",
+        "deck": "From human demographic history to the late twenty-first century: fertility, mortality, migration, labour, pensions, cities, public power and ecological limits.",
+        "tags": [
+          "World population",
+          "Demographic transition",
+          "Fertility",
+          "Longevity",
+          "Ageing",
+          "Population growth",
+          "Migration",
+          "Sustainability",
+          "Brazil"
+        ],
+        "keywords": [
+          "WPP 2024",
+          "SOFI 2026",
+          "UNFPA 2025",
+          "World Urbanization Prospects 2025",
+          "Malthus",
+          "Boserup",
+          "Sen",
+          "Demographic dividend",
+          "Population momentum",
+          "Global 2100"
+        ],
+        "regime": "Uneven transition from declining fertility and mortality toward divergent national ageing and population growth",
+        "key_risk": "Treating population headcount as a proxy for development, carrying capacity or fiscal sustainability without age structure, productivity and access",
+        "watch": [
+          "UN WPP revisions and probabilistic intervals",
+          "Fertility and desired-family gap",
+          "Youth employment in sub-Saharan Africa",
+          "Old-age dependency and healthcare costs",
+          "Food affordability, water access and carbon intensity"
+        ],
+        "search_text": "World population historical modern future 1800 1950 2024 2100 demographic transition ageing fertility mortality migration urbanization political economy environmental sustainability"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "O século da grande transição demográfica: crescimento populacional, envelhecimento e a reorganização do mundo",
+        "deck": "Da história demográfica humana ao fim do século XXI: fecundidade, mortalidade, migração, trabalho, previdência, cidades, poder político e limites ecológicos.",
+        "tags": [
+          "População mundial",
+          "Transição demográfica",
+          "Fecundidade",
+          "Longevidade",
+          "Envelhecimento",
+          "Crescimento populacional",
+          "Migração",
+          "Sustentabilidade",
+          "Brasil"
+        ],
+        "keywords": [
+          "WPP 2024",
+          "SOFI 2026",
+          "UNFPA 2025",
+          "Urbanização ONU 2025",
+          "Malthus",
+          "Boserup",
+          "Sen",
+          "Dividendo demográfico",
+          "Impulso demográfico",
+          "Mundo 2100"
+        ],
+        "regime": "Transição desigual de fecundidade e mortalidade para trajetórias nacionais opostas de crescimento e envelhecimento",
+        "key_risk": "Usar o total de habitantes como substituto de desenvolvimento, capacidade ecológica ou sustentabilidade fiscal sem considerar idades, produtividade e acesso",
+        "watch": [
+          "Revisões WPP ONU e intervalos de projeção",
+          "Fecundidade e distância entre família desejada e realizada",
+          "Emprego juvenil na África Subsaariana",
+          "Dependência etária e custos de saúde",
+          "Dieta saudável, água e intensidade carbônica"
+        ],
+        "search_text": "Crescimento populacional global mundial passado presente futuro 1800 1950 2024 2100 transição demográfica fecundidade envelhecimento economia psicologia sociedade sustentabilidade Brasil"
+      }
+    }
   }
 ]
