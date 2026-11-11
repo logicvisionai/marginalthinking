@@ -646,7 +646,7 @@ The recognition does not establish perfect forecasting or a universally optimal 
 
 ```flow
 Research on household and firm decisions → models of labour, consumption, prices and investment → aggregate dynamics and expectations → fiscal and monetary policy instruments → effects on output, inflation and employment → empirical evaluation and revision
-@@@
+```
 
 ## VIII — Development, colonialism and the limits of universal policy prescriptions
 
