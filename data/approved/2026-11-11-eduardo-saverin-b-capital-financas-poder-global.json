@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "id": "MT-SA-2026-11-11-SAVERIN-BCAPITAL",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-11T18:42:53.398Z",
+  "reviewed_commit": "c077cd488a51d3fdf674d9fdfd7c4edc309ba8c7",
+  "pending_blob_sha": "16c520a32ee6399851306d83d45c85180a226723",
+  "source_blob_shas": {
+    "en": "70ff1731d68acc131665c988fa20e65f08d45a0d",
+    "pt-BR": "f9018042ee4a14f4eff97b0a2cdb1f19976be5d3"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Re-fetched exact pending blob and EN/PT research Git blobs on main; recorded 3 canonical blob SHAs. Approved snapshot retains complete producer metadata."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Confirmed 2026 Russell announced transaction still conditional on Q1 2027 closing; 10 Nov 2026 Forbes timestamp; 2020 and 2023 B Capital primary fundraising dates; 2012 Facebook IPO and Meta 2025 10-K."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Independent QA sampled core primary and contemporary statements: Russell acquisition and 416bn AUM; B Capital >12bn AUM; 2020 Fund II final 820m vs interim 410m; 2023 Growth III 2.1bn; Ascent 254m/500m; Meta voting structure; 2026 Forbes net worth; Moneycontrol corroborates Byju's/Mojocare exposure. Distinctions between ownership, client mandates, gross raised commitments, unconfirmed deal price and realized LP returns preserved."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "EN/PT each has 28 aligned numbered source URLs across 17 hosts or fewer; sampled and cross-checked core primary sources via public pages and contemporaneous Reuters/Bloomberg/Forbes/TechCrunch. Every individual citation not independently re-audited against full paywalled source text."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 5025,
+        "pt": 5578,
+        "urls_en": 28,
+        "urls_pt": 28
+      },
+      "summary": "18 narrative sections per language with detailed history, founder equity, corporate governance, VC LP/GP economics, funding vintages, geography, two documented negative cases, Russell acquisition and conditional outcomes. No generic epistemic afterword."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "2 numerically identical sourced bar charts in both languages: [360,820] final fund close commitments and [254,500] Ascent commitments; 2 tables each, 2 causal flows, one mindmap, one geographic map. Charts compare same units, categories and financial status; not investment returns."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Both editions have 18 sections, 28 identically numbered URLs, two matching chart numerical series, aligned statements on Meta, B Capital, Byju's, Mojocare and prospective Russell acquisition."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Long-form opening leads with analytical fact and mechanism; no editorial metadescriptions or execution instructions in report; numbered source references appear at end; no staged public bundle or unsupported publication claim."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Tests Meta wealth against retained rights and network effects, distinguishes founder luck from repeated net VC returns, considers institutional acquisition alternatives and portfolio failures; no invented personal tax savings or fund-level write-offs."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Read effective repository depth/visual/pipeline checks and applied their content/taxonomy/numeric parity conditions against exact staged sources. Full Node npm run validate cannot run in sandbox because direct GitHub checkout network resolution is unavailable; public publisher/CI must execute build validation."
+    }
+  },
+  "contrary_evidence": [
+    "Personal Meta-linked net worth does not establish B Capital fund net returns; comprehensive audited fund vintage DPI/TVPI series not public.",
+    "Byju's and Mojocare evidence contradicts infallible selection/due diligence claims; specific B Capital realized losses not independently disclosed.",
+    "Russell transaction announced but pending; $416bn refers to client assets, not purchase price or manager net worth.",
+    "Possible fund manager advantages from BCG and multinational access are not proof of superior exit performance."
+  ],
+  "limitations": [
+    "Review is assistant-led evidence sampling, not a separate human audit; full line-by-line verification of all 28 cited sources was not possible.",
+    "No complete public fund-level net DPI, TVPI, carried-interest or realized write-off data; no claim of B Capital outperformance.",
+    "Forbes wealth is a real-time estimate tied to market price; exact Meta holdings and personal tax filings are not public.",
+    "Bloomberg Russell ~$2.8bn deal price came from an unnamed source and is not officially confirmed.",
+    "Full npm validation and production deploy checks must be performed by publisher/CI; this approval does not claim site deployment."
+  ],
+  "notes": "QA review performed on a separate subsequent user turn after producer draft; shortcomings discovered and revised before approval, particularly interim vs final Fund II close and chart budget. Source sampling limitations explicit; SHA-bound to full corrected bilingual text. No direct edits of reports/ or public indexes.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-SA-2026-11-11-SAVERIN-BCAPITAL",
+    "slug": "2026-11-11-eduardo-saverin-b-capital-financas-poder-global",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T14:45:00-03:00",
+    "kind": "strategic-actors",
+    "priority": 33,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-11-eduardo-saverin-b-capital-financas-poder-global/en.md",
+        "title": "Eduardo Saverin: From Facebook Wealth to B Capital's Global Investment Architecture",
+        "deck": "From a concentrated Meta stake to venture capital and the proposed Russell Investments acquisition: an examination of ownership, institutional mandates, returns, failures and financial power.",
+        "tags": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Meta",
+          "venture capital",
+          "Russell Investments",
+          "financial institutions"
+        ],
+        "keywords": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Raj Ganguly",
+          "Howard Morgan",
+          "Meta equity ownership",
+          "venture capital returns",
+          "Byju's",
+          "Mojocare",
+          "Russell Investments",
+          "CalPERS",
+          "Singapore"
+        ],
+        "regime": "Technology founder wealth used to build a transnational private-investment manager with possible institutional asset-management ownership.",
+        "key_risk": "Confusing the founder's estimated Meta-linked wealth, B Capital assets under management and Russell client assets; the proposed Russell transaction was not closed.",
+        "watch": [
+          "Russell acquisition closing and approvals",
+          "B Capital fund DPI and TVPI disclosures",
+          "Russell client retention and operating performance",
+          "B Capital portfolio losses and realizations"
+        ],
+        "search_text": "Eduardo Saverin Facebook Meta B Capital venture capital Raj Ganguly Singapore Byjus Mojocare CalPERS Russell Investments 2026"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-11-eduardo-saverin-b-capital-financas-poder-global/pt-BR.md",
+        "title": "Eduardo Saverin: da fortuna do Facebook à arquitetura global da B Capital",
+        "deck": "Da participação concentrada na Meta ao venture capital e à aquisição proposta da Russell Investments: propriedade, mandatos institucionais, retornos, fracassos e poder financeiro.",
+        "tags": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Meta",
+          "capital de risco",
+          "Russell Investments",
+          "instituições financeiras"
+        ],
+        "keywords": [
+          "Eduardo Saverin",
+          "B Capital",
+          "Raj Ganguly",
+          "Howard Morgan",
+          "Meta participação acionária",
+          "retornos venture capital",
+          "Byju's",
+          "Mojocare",
+          "Russell Investments",
+          "CalPERS",
+          "Singapura"
+        ],
+        "regime": "Fortuna de fundador tecnológico utilizada para constituir gestora privada transnacional com possível propriedade de administradora institucional de investimentos.",
+        "key_risk": "Confundir patrimônio estimado ligado à Meta, ativos geridos pela B Capital e ativos de clientes da Russell; a aquisição anunciada ainda não tinha sido concluída.",
+        "watch": [
+          "Fechamento e aprovações da compra da Russell",
+          "Divulgação de DPI e TVPI dos fundos B Capital",
+          "Retenção de clientes e desempenho da Russell",
+          "Perdas e distribuições reais do portfólio da B Capital"
+        ],
+        "search_text": "Eduardo Saverin Facebook Meta B Capital venture capital Raj Ganguly Singapura Byjus Mojocare CalPERS Russell Investments 2026"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "capital-markets",
+      "banking-credit",
+      "trade-investment",
+      "institutions-governance",
+      "inequality-distribution",
+      "industry-production"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "11 November 2026; announced Russell Investments acquisition expected to close Q1 2027, not reported as complete.",
+      "research_depth": "18 substantive chapters each locale; 28 numbered verifiable references and 2 numeric charts plus two tables, two flows, map and mindmap.",
+      "evidence_sources": "25 aligned numbered institutional, regulatory, investor-industry and journalistic references in each language; SEC, IRS, Russell Investments, B Capital, ILPA, Reuters, Forbes, Bloomberg Línea, TechCrunch.",
+      "editorial_novelty": "Separates founder equity wealth, third-party investment manager economics and proposed institutional-asset-manager acquisition; incorporates negative case studies, conditional falsifiers, social effects and governance.",
+      "visual_evidence": "Two comparable numeric charts per locale: final fund commitments US$360m and US$820m for first two funds; Ascent II US$254m vs Ascent III US$500m, with same exact numeric arrays and units in EN/PT. Includes 2 tables, 2 flows, a mindmap and map.",
+      "bilingual_parity": "Both 18 chapters with 28 identically numbered URLs and numeric chart series [360,820] and [254,500], same qualitative and financial distinctions.",
+      "source_check": "Includes original primary B Capital June 2020 and Jan 2023 final-close disclosures, SEC, Meta 10-K, Russell, Forbes, Reuters, Bloomberg, ILPA and Moneycontrol; avoids counting an interim $410m fundraising figure as a final fund size.",
+      "editorial_status": "Producer staged; independent SHA-bound QA required before publication."
+    }
+  }
+}
