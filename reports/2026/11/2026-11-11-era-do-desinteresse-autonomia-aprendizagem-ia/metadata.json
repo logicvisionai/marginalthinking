@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-ACC-2026-11-11-AGE-OF-DISINTEREST",
+  "slug": "2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia",
+  "revision": 0,
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T08:36:00-03:00",
+  "kind": "accelerationism-systems-research",
+  "priority": 22,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "demography-labor",
+    "inequality-distribution",
+    "institutions-governance",
+    "social-change"
+  ],
+  "phenomena": [
+    "social-change",
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "editorial_line": "editorial-accelerationism-systems",
+  "research_question": "Under what economic, institutional and psychological conditions does automation of cognitive output weaken incentives to learn, and could the result be high systemic capability with declining distributed human expertise?",
+  "evidence_cutoff": "2026-11-11",
+  "related_research_ids": [
+    "MT-ACC-2026-11-02-AI-LABOR-INCOME"
+  ],
+  "assumptions_and_limits": [
+    "PISA 2025 observations do not identify effects caused by AI adoption and national trends differ.",
+    "OECD tertiary wage premia are observed associations, not causal estimates of any individual degree's return.",
+    "AI tutoring trials involve different interventions and populations and cannot be averaged as a single effect.",
+    "Survey-based cognitive effort and small exploratory EEG evidence do not demonstrate population-wide deterioration or neurological harm.",
+    "Technological Dark Age is a conditional scenario, not a factual prediction.",
+    "ILO and IMF occupational exposure estimates use different frameworks and do not measure job losses."
+  ],
+  "counterfactuals": [
+    "High AI adoption alongside sustained gains in independently tested learning would weaken the central education mechanism.",
+    "Firms could automate routine tasks while creating new, better supervised routes to expertise.",
+    "Accessible pedagogically designed AI could reduce learning gaps rather than widen them.",
+    "Persistent educational wage premia and robust curiosity contradict claims that formal learning has lost all value."
+  ],
+  "producer_checks": {
+    "content_depth": "EN roughly 5,877 whitespace-delimited words, PT-BR roughly 6,175; 17 substantive analytical sections plus references in both locales.",
+    "bilingual_visuals": "Two source-based PISA 2025 charts (minimum mathematics proficiency; school perceived as waste of time), two comparable tables, and a causal flow in both locales.",
+    "sources": "16 numbered primary or institutional references in each language, covering OECD, UNESCO, ILO, IMF, Stanford, NBER, Microsoft Research, peer-reviewed educational trial and a 2026 working paper; classical works listed separately.",
+    "source_date": "Historical bibliographic references differentiated from 2024–2026 empirical evidence. PISA 2025 released September 2026, tutoring negative trial October 2026.",
+    "falsification": "Explicit disconfirming evidence for the technological-dark-age hypothesis and three conditional 2027–2040 pathways.",
+    "images": "No unverified illustrations or decorative imagery.",
+    "independent_qa_required": true,
+    "staging_only": true
+  },
+  "contrary_evidence": [
+    "PISA 2025 Brazilian students report curiosity and effort near OECD mean, and fewer perceive school as a waste of time; an aggregate collapse of interest is not established.",
+    "Pedagogically structured AI tutoring can improve learning in controlled settings; effects differ from systems integrated without prescribed pedagogy.",
+    "Education remains associated with substantial earnings premiums; occupational task exposure is not observed mass unemployment."
+  ],
+  "limitations": [
+    "Full repository-local npm validation and build could not be run because github.com DNS is unavailable in the execution container; GitHub Actions validation remains a separate production gate.",
+    "Source cross-check covers central numerical and causal claims; not every historical bibliographic entry was independently recovered in full text.",
+    "One central negative educational trial is an October 2026 working paper, not a peer-reviewed settled consensus.",
+    "Metaphor of a technological Dark Age is a falsifiable conditional scenario, not a verified present event or deterministic forecast."
+  ],
+  "url": "/reports/2026/11/2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-11T12:28:47.560Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "4ee06460cdbc0b87361de6c7a92157e9ed79c80f",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "The Age of Disinterest: Artificial Intelligence, the Abandonment of Effort and the Prospect of a New Dark Age",
+      "deck": "A historical, philosophical, psychological and political-economic investigation of what happens to education, human agency, apprenticeship, democracy and inequality when machines deliver the result without the learning process.",
+      "tags": [
+        "accelerationism",
+        "artificial intelligence",
+        "learning and autonomy",
+        "education",
+        "cognitive offloading",
+        "political economy",
+        "human capital",
+        "digital inequality"
+      ],
+      "keywords": [
+        "age of disinterest",
+        "technological dark age",
+        "Jacques Ellul",
+        "Hannah Arendt",
+        "Ivan Illich",
+        "Bernard Stiegler",
+        "Theodore Dalrymple",
+        "Click",
+        "PISA 2025",
+        "AI tutoring",
+        "Brazil",
+        "learning incentives",
+        "craftsmanship"
+      ],
+      "regime": "Rapid automation of cognitive output with uncertain consequences for human learning, skills and autonomy",
+      "key_risk": "Confusing competent machine-generated outputs with genuine learning and confusing weak educational performance with an empirically demonstrated loss of interest",
+      "watch": [
+        "Unaided retention after AI use",
+        "Apprenticeship and entry-level hiring",
+        "Returns to formal and technical education",
+        "Socioeconomic gaps in foundational proficiency",
+        "Algorithmic public decisions and appeal rights"
+      ],
+      "search_text": "The Age of Disinterest explores the prospect of AI lowering incentives to learn, outsourcing thought, education and university value, cognitive inequality and technological dark age scenarios."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "A era do desinteresse: a inteligência artificial, o abandono do esforço e a possibilidade de uma nova Idade das Trevas",
+      "deck": "Investigação histórica, filosófica, psicológica e de economia política sobre educação, autonomia, aprendizagem profissional, democracia e desigualdade quando as máquinas entregam resultados sem exigir o processo de aprender.",
+      "tags": [
+        "aceleracionismo",
+        "inteligência artificial",
+        "aprendizagem e autonomia",
+        "educação",
+        "terceirização cognitiva",
+        "economia política",
+        "capital humano",
+        "desigualdade digital"
+      ],
+      "keywords": [
+        "era do desinteresse",
+        "Idade das Trevas tecnológica",
+        "Jacques Ellul",
+        "Hannah Arendt",
+        "Ivan Illich",
+        "Bernard Stiegler",
+        "Theodore Dalrymple",
+        "Click",
+        "PISA 2025",
+        "tutoria com IA",
+        "Brasil",
+        "incentivos para aprender",
+        "ofícios"
+      ],
+      "regime": "Automação acelerada de tarefas cognitivas com efeitos incertos sobre aprendizagem, competências e autonomia",
+      "key_risk": "Confundir resultados convincentes gerados pela máquina com aprendizagem efetiva e confundir mau desempenho escolar com perda de interesse empiricamente demonstrada",
+      "watch": [
+        "Retenção sem IA após uso de assistentes",
+        "Aprendizagem profissional e contratações iniciais",
+        "Retornos da formação universitária e técnica",
+        "Lacunas socioeconômicas de aprendizagem fundamental",
+        "Direito de contestar decisões públicas automatizadas"
+      ],
+      "search_text": "A Era do Desinteresse examina IA e incentivos para aprender, terceirização do pensamento, valor da universidade e da escola, desigualdade cognitiva e cenários de uma Idade das Trevas tecnológica."
+    }
+  }
+}

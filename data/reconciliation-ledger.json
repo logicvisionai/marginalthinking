@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T03:35:00.000Z",
+  "last_reconciled_at": "2026-11-11T12:30:24.826Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -8974,6 +8974,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI-exposed equity prices and Chinese electronics export growth do not measure technical commissioning, verified capacity or performance milestones."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-age-of-disinterest-publication-reconciliation",
+      "reconciled_at": "2026-11-11T12:30:24.826Z",
+      "report_ids_reviewed": [
+        "MT-ACC-2026-11-11-AGE-OF-DISINTEREST"
+      ],
+      "audit_note": "Reviewed effects of generative AI on education, apprenticeship, cognition, social capital and democratic accountability. This publication adds research synthesis, not newly observed productive capacity, ownership or institutional policy implementation.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "Study concerns domestic education, cognitive delegation and incentives; no new verified bilateral material supply or finance dependency to add to the canonical network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Neither financed investment project nor geography-specific implementable opportunity is established in this conceptual education and AI study."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Reviewed Ellul, Arendt, Illich, Stiegler, Dalrymple, OECD, ILO and platform-level mechanisms; no new verifiable changes of ownership, institutional control, legal rights or voting influence are established."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No mineral, energy, land or infrastructure ownership or concession transfer analysed or recorded."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed two contrasting AI tutoring experiments with different settings, interventions and outcome measures; findings do not justify new validated public-policy implementation or causal case with transfer conditions for the canonical Atlas."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The article concerns learning, social mobility, human autonomy and democratic accountability; no armed conflict or security incident is advanced."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Peer-reviewed and preprint learning findings are material social/educational evidence but do not establish a new engineering capability, deployed benchmark, or scaled technology milestone requiring mutation of the technology signal ledger."
         }
       ]
     }
