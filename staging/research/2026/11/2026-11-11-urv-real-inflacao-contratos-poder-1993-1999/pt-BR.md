@@ -75,3 +75,125 @@ O FSE era instrumento institucional real, mas não prova, por si, de solvência 
 
 Um aspecto pouco observado é o **efeito Tanzi**: quando impostos são recolhidos semanas depois do fato gerador, a inflação corrói o valor real arrecadado. Desinflação, administração tributária e menor defasagem de recolhimento podem elevar receitas reais sem que a alíquota legal mude. A melhora fiscal decorrente da estabilização, entretanto, não pode ser contada antecipadamente como se já estivesse obtida; a reforma precisava resistir ao risco de que a queda do imposto inflacionário deixasse expostas despesas antes mascaradas.
 
+
+## 6. A segunda fase: como duas unidades coexistiram sem dois meios de pagamento
+
+A Medida Provisória 434, de 27 de fevereiro de 1994, introduziu a arquitetura legal depois consolidada na Lei 8.880, de 27 de maio. Em 1º de março, a URV correspondia a **CR$ 647,50**. O Banco Central publicou sua cotação diária; em 2 de março, valia CR$ 657,50. Em 30 de junho, equivalia a **CR$ 2.750**. Em 1º de julho, uma URV tornou-se um real. A URV participava legalmente do sistema monetário como padrão de valor, mas o cruzeiro real continuava a quitar pagamentos até a mudança de moeda. [Banco Central, cronologia oficial](https://www.bcb.gov.br/controleinflacao/planoreal); [Lei 8.880, arts. 1º a 5º](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+
+| Data | Relação legal | Função |
+| --- | --- | --- |
+| 27/02/1994 | MP 434 estabelece a URV | Instrumento normativo inicial |
+| 01/03/1994 | 1 URV = CR$ 647,50 | Referência de valor; pagamento em CR$ |
+| 02/03/1994 | 1 URV = CR$ 657,50 | Correção diária da paridade |
+| 27/05/1994 | Lei 8.880 | Consolidação e disciplina contratual |
+| 30/06/1994 | 1 URV = CR$ 2.750,00 | Última paridade com o cruzeiro real |
+| 01/07/1994 | 1 URV = R$ 1,00 | Real assume unidade de conta e pagamento |
+| 29/06/1995 | Lei 9.069 | Consolidação da disciplina do Plano Real |
+
+No mundo anterior à URV, o comprador observava preços que subiam em sequência e precisava estimar quanto subiriam até o pagamento. Na etapa intermediária, podia ver um bem anunciado a 10 URVs enquanto pagava, no dia, o correspondente em cruzeiros reais. **Exemplo aritmético, não preço histórico observado:** 10 URVs representariam CR$ 6.475 em 1º de março, CR$ 27.500 em 30 de junho e R$ 10 a partir de 1º de julho. O crescimento dos algarismos em cruzeiros reais, isoladamente, não significaria aumento desse preço em URV. Inversamente, um lojista poderia elevar um preço de 10 para 12 URVs; nesse caso haveria aumento de **20% em URV** mesmo que a unidade de conta permanecesse estável.
+
+Duas equações resumem a operação:
+
+```text
+Preço em URV_t = preço em CR$_t ÷ cotação diária (CR$/URV)_t
+Pagamento em CR$_t = preço em URV_t × cotação diária (CR$/URV)_t
+01/07/1994: preço em R$ = preço previamente expresso em URV
+```
+
+A conversão das obrigações não ocorreu de modo idêntico para tudo. A Lei 8.880 mantinha a expressão em cruzeiros reais em etiquetas e recibos, permitindo apresentação concomitante em URV; certas obrigações contratadas a partir de 15 de março, com liquidação acima de trinta dias, passaram a requerer URV; operações financeiras, poupança, financiamento habitacional, crédito rural, seguros, títulos e contratos similares tinham disciplina específica. A frase comum de que a adoção foi voluntária é verdadeira apenas para partes da denominação de preços, não para o conjunto das relações jurídicas. [Lei 8.880, arts. 7º–16](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+
+A cotação era calculada a partir da perda de poder aquisitivo do cruzeiro real, com indicadores como IGP-M, IPCA-E e IPC-Fipe. A proximidade econômica da URV com o dólar oferecia referência adicional: ela foi desenhada para variar pouco em termos de dólar, mas isso **não é o mesmo** que um contrato irrevogável de conversão ao dólar ou uma caixa de conversão cambial. O real que nasceu em julho não manteve uma regra fixa e simétrica de compra e venda de dólares a um por um para sempre. Confundir o elo de credibilidade com o dólar com um direito jurídico de resgate em moeda estrangeira altera a natureza do plano.
+
+## 7. A média dos salários: defesa contra perdas e compromisso distributivo
+
+A transição carregava uma pergunta delicada: qual salário deveria entrar na nova moeda? Em inflação de quarenta por cento ao mês, uma remuneração nominal tinha poder de compra diferente no começo e no fim do período de reajuste. Fixar o valor em URV pelo **pico** posterior a um reajuste poderia elevar custos reais de forma generalizada; usar o **vale**, imediatamente antes de outro reajuste, perpetuaria perda aos trabalhadores. A solução legal procurou converter a remuneração real média, não simplesmente preservar o último número nominal.
+
+O artigo 19 da Lei 8.880 especificou para os salários em geral uma média aritmética de quatro meses — novembro e dezembro de 1993, janeiro e fevereiro de 1994. Cada valor nominal deveria ser dividido pela cotação da URV na data do efetivo pagamento. Não se tratava, portanto, da média dos cruzeiros reais em si, nem da cotação de 30 de junho. Para o salário mínimo, o artigo 18 utilizava os valores e as paridades dos últimos dias desses meses, com proteção expressa contra pagamento inferior ao de fevereiro em cruzeiros reais. Regras de remuneração variável, décimo terceiro e data-base requeriam tratamento específico. [Lei 8.880, arts. 18–19 e 26–27](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+
+Se os quatro salários mensais em URV, após a conversão correta pelas datas de recebimento, fossem hipoteticamente 100, 120, 110 e 130, o resultado seria **115 URVs**. Esses números são apenas uma ilustração matemática, sem pretensão de reproduzir uma folha salarial real. A fórmula relevante seria:
+
+```text
+Salário-base em URV =
+  (salário_nov/URV_na_data_do_pagamento_nov +
+   salário_dez/URV_na_data_do_pagamento_dez +
+   salário_jan/URV_na_data_do_pagamento_jan +
+   salário_fev/URV_na_data_do_pagamento_fev) / 4
+```
+
+A escolha procurava neutralizar o ganho arbitrário decorrente de acertar o dia do congelamento. Mesmo assim, não eliminava conflitos: médias podem reduzir o valor percebido por quem compara apenas ao último contracheque; trabalhadores com remuneração variável, atrasos, pagamentos informais ou negociação coletiva podiam vivenciar resultados distintos. A lei previu direitos de revisão em datas-base e procedimentos para determinadas perdas da conversão. O julgamento distributivo depende de comparar **poder de compra efetivo**, não apenas os algarismos antes e depois da reforma.
+
+A inflação alta já distribuía perdas conforme a capacidade de proteção. Grupos com salários reajustados espaçadamente ou sem acesso a aplicações financeiras líquidas carregavam forte exposição. Empresas com poder de mercado, capacidade de girar estoques e ajustar etiquetas rapidamente dispunham de defesas. A URV não igualou todos os agentes; procurou criar uma regra comum para impedir que a interrupção da inflação reproduzisse, de uma vez, as assimetrias acumuladas em diferentes calendários.
+
+## 8. Preços relativos, contratos e os limites de uma coordenação perfeita
+
+Uma unidade de conta estável não garante que os preços relativos estejam corretos. Se o aluguel estava muito acima de sua relação histórica com o salário, ou uma tarifa pública estava represada, a conversão preservaria a distorção até que houvesse revisão específica. A URV podia retirar o mecanismo automático de reajustamento nominal, mas não remover escassez, conflito distributivo, concentração de mercado ou choques de produtividade.
+
+Por isso, o plano não se baseou num congelamento universal dos preços em URV. O vendedor podia alterar sua referência; consumidores também podiam comparar preços e reagir. A desindexação dependia de amplo aprendizado: se empresas elevassem simultaneamente suas cotações em URV por precaução, a nova referência herdaria uma inflação própria antes da emissão do real. Bresser-Pereira observou ainda em 1994 esse risco de remarcação oportunista na unidade nova. [Bresser-Pereira, economia e política do Real](https://www.scielo.br/j/rep/a/G6VvwvLfN6tqvZxy6RdCv5n/?format=html).
+
+Os contratos longos exigiam regras ainda mais cuidadosas. Preços a prazo podiam embutir expectativa de inflação, financiamento e margem de risco. Transformar mecanicamente esse número em URV, preservando integralmente o prêmio inflacionário, produziria preços reais excessivos; retirar demais esse prêmio poderia impor perdas a credores ou fornecedores. A legislação regulou repactuação pública, cálculo de valores médios e exclusão de expectativas inflacionárias em certas hipóteses. Não havia um único divisor que atendesse a salários, tributos, tarifas, crédito habitacional, estoques e contratos de fornecimento.
+
+```flow
+Choque externo ou fiscal → variação de preços e custos → cláusulas indexadas → reajustes defasados → inflação reproduzida
+Conversão jurídica para URV → comparação de valores reais → renegociação de preços relativos → menor transmissão automática da inflação passada
+Expectativa de nova estabilidade → preferência por saldos em moeda → menor velocidade de circulação → necessidade de política monetária compatível
+Recomposição fiscal e supervisão bancária → maior viabilidade do novo padrão → risco reduzido de retorno da inflação
+```
+
+As setas sintetizam mecanismos, não efeitos estimados nem uma ordem causal obrigatória. Maior demanda por moeda pode acompanhar queda da inflação; confiança, política monetária e redução de expectativas interagem simultaneamente.
+
+## 9. O dia da troca: cédulas, contabilidade, bancos e o problema logístico
+
+Uma reforma monetária que fosse perfeita no papel e fracassasse nos caixas poderia destruir sua credibilidade no primeiro dia. O Banco Central e a Casa da Moeda prepararam distribuição de cédulas, moedas, tabelas e procedimentos bancários. Segundo o Banco Central, até 30 de junho de 1994 mais de **940 milhões de cédulas** e **688 milhões de moedas** da nova família monetária haviam sido distribuídas pelo país. A operação exigia contabilizar depósitos à vista na nova unidade, receber cruzeiros reais e recolher o numerário antigo. [Banco Central, logística do dinheiro](https://www.bcb.gov.br/controleinflacao/planoreal).
+
+A Lei 8.880 marcou 1º de julho como início da emissão do real; a legislação posterior disciplinou a sobrevivência transitória do cruzeiro real como meio físico de pagamento por prazo limitado. Na vida cotidiana, o consumidor precisava reconhecer cédulas, entender centavos, conferir troco e converter preços. Falhas nas redes varejistas, no abastecimento de numerário ou no processamento bancário poderiam gerar arbitragem, conflito e acusações de fraude.
+
+A operação também era uma reforma de sistemas de informação. Contas correntes, caixas eletrônicos, folhas salariais, contratos financeiros, balanços, arquivos bancários, sistemas fiscais e registros contábeis precisavam operar com a escala nova de forma consistente. O problema era semelhante ao de trocar a unidade de medida de uma economia inteira, preservando direitos e obrigações. A reprogramação não era acessória: um erro de conversão podia transferir riqueza entre as partes.
+
+## 10. O choque medido: do IPCA de 47,43% ao de 6,84%
+
+A passagem de junho para julho é o resultado mais visível, mas precisa ser lida com exatidão. O **IPCA mensal** do IBGE foi **47,43% em junho de 1994**, **6,84% em julho** e **1,86% em agosto**. O índice não caiu a zero no primeiro mês do real; tampouco os números mensais correspondem à variação de 12 meses. O IPCA acumulado em doze meses atingira **4.922,46% em junho**, uma medida inteiramente diferente da inflação mensal de 47,43%. [IBGE, séries históricas do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html?edicao=20932&t=series-historicas); [IPEA, série anual](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
+
+```chart
+type: line
+title: Brasil, IPCA mensal em 1994
+unit: variação percentual no mês; observações do IBGE
+Jan | 41.31
+Fev | 40.27
+Mar | 42.75
+Abr | 42.68
+Mai | 44.03
+Jun | 47.43
+Jul | 6.84
+Ago | 1.86
+Set | 1.53
+Out | 2.62
+Nov | 2.81
+Dez | 1.71
+```
+
+A linha mostra a quebra de regime; não permite decompor, sozinha, quanto resultou de URV, câmbio, juros, alterações de demanda, preços administrados ou efeitos de calendário. Os meses de julho e agosto contiveram ajustes residuais e mudanças heterogêneas nas categorias de consumo. O objetivo da comparação não é sugerir que todos os preços ficaram constantes na primeira semana.
+
+```chart
+type: bar
+title: Inflação anual pelo IPCA — antes e depois do real
+unit: porcentagem acumulada no ano civil
+1993 | 2477.15
+1994 | 916.46
+1995 | 22.41
+1996 | 9.56
+1997 | 5.22
+1998 | 1.65
+```
+
+A barra de 1994 incorpora o primeiro semestre de inflação elevada; sua magnitude não significa fracasso do segundo semestre. A barra de 1995 é pequena pela escala, mas representa inflação ainda elevada para uma economia já estabilizada em relação ao passado. Não há ajuste estatístico de quebra de série ou decomposição causal nos valores. [IPEA/IBGE, IPCA anual](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
+
+A média mensal é mais adequada para estudar o instante da reforma. A taxa anual é mais adequada para observar a persistência ao longo dos anos; misturar ambas numa mesma escala seria criar uma impressão enganosa. Também é necessário distinguir IPCA de IGP-M, IGP-DI, INPC e demais índices: suas cestas, abrangências e períodos de coleta são diferentes. Contratos que se baseavam em índices distintos não necessariamente apresentaram a mesma velocidade de desinflação.
+
+## 11. Psicologia monetária: quando a população voltou a enxergar centavos
+
+A inflação alta alterava atitudes concretas. Guardar dinheiro em espécie por semanas parecia comportamento irracional; investir imediatamente, antecipar compras, procurar proteção no dólar ou acumular estoques podia ser racional para quem tinha acesso e recursos. O hábito de ignorar centavos e arredondar preços se consolidava quando a unidade de pagamento perdia valor rapidamente. A confiança no poder público não se restabelece por discurso: precisa ser confirmada repetidamente por compras, salários e contas.
+
+A URV criou um período de aprendizado antes da troca de notas. O consumidor observava preços relativamente estáveis na unidade nova e instáveis na antiga. O comerciante passava a comunicar a diferença entre a atualização automática do cruzeiro real e uma alteração efetiva do preço em URV. A expectativa poderia se transformar num mecanismo de autorreforço positivo: se compradores e vendedores confiam no novo referencial, reduzem a necessidade de reajustes preventivos; se a confiança cai, qualquer salto de preço é interpretado como prenúncio de outro fracasso.
+
+A transformação também tem uma dimensão temporal. A estabilização devolveu algum sentido a economizar para um objetivo, comparar orçamentos em meses diferentes e negociar financiamentos sem suposições extremas sobre a inflação seguinte. Não se deve romantizar: a população mais pobre continuou exposta a desemprego, informalidade, crédito caro e desigualdades regionais. O fim da necessidade de se livrar imediatamente do salário, porém, significou mudança concreta na possibilidade de planejamento doméstico. [Banco Central, 30 anos do real](https://bcb.gov.br/controleinflacao/30anosreal).
+
