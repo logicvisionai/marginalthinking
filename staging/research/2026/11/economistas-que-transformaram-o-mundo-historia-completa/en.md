@@ -279,3 +279,224 @@ Following Marx's death, Engels edited further volumes of *Capital* and helped de
 In ***Progress and Poverty* (1879)**, he asked why expanding wealth and urban growth could coexist with persistent deprivation. Appreciation of land owing to population and public investment could reward owners who had made no equivalent productive improvement. He advocated a substantial tax on land value, while leaving improvements more lightly taxed.
 
 Estimating site value separately from buildings poses practical difficulties, and transitions affect existing owners and borrowers. Nevertheless, the distinction between private investment and socially generated land rent remains influential in urban economics and municipal finance.
+
+
+## IV — Marginal analysis, professional economics and the limits of equilibrium
+
+### 33. William Stanley Jevons: mathematics and marginal utility
+
+**William Stanley Jevons** (1835–1882) was born in Liverpool in a family connected to iron trading. He studied science at **University College London**, worked as an assayer in Australia and later developed an academic career in economics, logic and statistics.
+
+In ***The Theory of Political Economy* (1871)**, Jevons emphasized the value of the marginal unit of a good, rather than a fixed amount of labour contained in the object. A good can be indispensable yet have low market value where its supply is abundant relative to immediate needs. Economic choice therefore concerns quantities at the margin and the alternatives forgone.
+
+The approach increased the mathematical precision of economics but raised the problem of measuring utility, which is not an observable physical quantity. His ***The Coal Question* (1865)** also examined resource use and industrial expansion. The **Jevons paradox** describes conditions in which more efficient use of a resource lowers its cost and can stimulate increased total consumption, depending on demand responses.
+
+Jevons died in an accidental drowning in 1882. His legacy connects mathematical choice, statistics and questions of energy consumption that remain relevant to environmental policy.
+
+### 34. Carl Menger: subjective value and the Austrian tradition
+
+**Carl Menger** (1840–1921) was born in the Austrian Empire into an educated family, studied law in Prague and Vienna and earned a doctorate from **Kraków University**. He worked as an economic journalist and civil servant before teaching in Vienna and tutoring **Crown Prince Rudolf**.
+
+In ***Principles of Economics* (1871)**, he analysed how people value goods in relation to their needs and the scarcity of resources capable of satisfying those needs. Inputs and capital goods derive economic importance from their contribution to goods that consumers ultimately want. This approach challenged the notion that labour embodied in a product alone determines its exchange value.
+
+Menger also explained how highly marketable commodities might become money through decentralized commercial processes. That account is a theoretical mechanism, not definitive evidence that every historical currency began as a barter commodity.
+
+His dispute with **Gustav Schmoller** and the German historical school, the *Methodenstreit*, concerned the balance between theory and historically specific evidence. Later Austrian economists developed ideas that should not all be retroactively attributed to Menger.
+
+### 35. Léon Walras: markets as an interdependent system
+
+**Léon Walras** (1834–1910) was born in France and influenced by his father **Auguste Walras**. He followed an uneven early career in study, journalism and cooperative activity before becoming professor at the **University of Lausanne**.
+
+In ***Elements of Pure Economics* (1874–1877)**, he formalized **general equilibrium**: prices in different markets depend on one another through purchases, production and income. A change in the price of wheat may alter wages, rents, other commodity demands and household choices. Analysing wheat in isolation can therefore miss important feedback effects.
+
+Walras's *tâtonnement* method represented a hypothetical price-adjustment process. The existence of a set of equilibrium prices does not establish that real markets reach those prices quickly or that the allocation is fair. Later mathematical economists refined existence proofs under explicit assumptions.
+
+Walras also considered public ownership of land, a reminder that mathematical market analysis is not synonymous with total opposition to state action. His importance lies in providing a framework for interdependence, with limits in explaining financial crises and structural change.
+
+### 36. Eugen von Böhm-Bawerk: capital, waiting and interest
+
+**Eugen von Böhm-Bawerk** (1851–1914) studied law and economics in the Austrian Empire, taught economics and served in public finance, including periods as finance minister.
+
+His ***Capital and Interest*** examined why resources available now can command a different price from future resources, considering time preference, production opportunities and scarcity. Investment requires advances for labour and inputs before revenue arrives. Interest cannot be understood solely as a physical property of a particular machine or a single moral judgement.
+
+Böhm-Bawerk challenged Marxian value theory, especially the relationship between labour values, profit rates and production prices. Marxian writers responded in different ways, and the debate over heterogeneous capital and distribution continued.
+
+The Austrian economist's public service exposed him to the fiscal constraints that theoretical analysis alone cannot resolve. His legacy is a systematic investigation of intertemporal choice and capital structure.
+
+### 37. Alfred Marshall: supply, demand and the professionalization of economics
+
+**Alfred Marshall** (1842–1924) studied mathematics at **St John's College, Cambridge**, then became an economist and university teacher. His wife **Mary Paley Marshall**, an early female student at Cambridge, was an economist and coauthor of earlier work.
+
+In ***Principles of Economics* (1890)**, Marshall connected marginal utility, production costs, competition and the timing of adjustments. Supply may be difficult to change in the short run, while in the long run firms can enter, leave or invest. The famous crossing supply and demand curves was a useful tool for analysing a specific market, not the complete description of an economy.
+
+His concept of **price elasticity of demand** measures responsiveness of quantity to changes in prices under defined conditions. Consumer surplus, industry dynamics and external economies became important tools for policy analysis. But partial equilibrium diagrams can conceal distributional conflicts and cross-market effects.
+
+Marshall's role in building economics as a specialized university discipline was substantial. That institutional achievement existed alongside restrictions on women's academic careers and the dominance of particular European intellectual networks.
+
+### 38. Francis Ysidro Edgeworth: bargaining and the geometry of exchange
+
+**Francis Ysidro Edgeworth** (1845–1926) was born in Ireland and studied at **Trinity College Dublin** and Oxford. He learned much of his mathematics independently and became an economist and statistician.
+
+In ***Mathematical Psychics* (1881)**, Edgeworth used mathematical reasoning to analyse exchange and bargaining. The later **Edgeworth box** describes allocations between two people given their resources and preferences. When a small number of parties negotiate, there may be many outcomes acceptable to both; competition under restrictive conditions can narrow the set.
+
+The geometry illustrates the difference between feasible exchanges and the distribution initially available to participants. An allocation can be efficient without being socially just. His research also helped develop the analytical and editorial institutions of professional economics.
+
+### 39. Vilfredo Pareto: efficiency, income concentration and elite politics
+
+**Vilfredo Pareto** (1848–1923) was born in Paris into an Italian family and trained as an engineer in Turin. Industrial work preceded his academic appointment at Lausanne.
+
+The **Pareto efficiency** criterion describes an allocation in which improving one person's position requires worsening another's under a given set of feasible alternatives. It is not a measure of equality or legitimacy. A deeply unequal outcome can meet the criterion.
+
+Pareto also studied statistical patterns in income and wealth concentration, later associated with the Pareto distribution. The popular “80/20 rule” is not an unchanging empirical law he demonstrated for every economy.
+
+His later sociology and theory of elites intersected with controversial political contexts. The enduring value of his economic contribution is the distinction between a formal efficiency test and judgments about fairness.
+
+### 40. Knut Wicksell: bank interest and the cumulative price process
+
+**Knut Wicksell** (1851–1926) studied at **Uppsala University**, developed a broad interest in mathematics and political reform and taught at Lund.
+
+In ***Interest and Prices* (1898)**, he distinguished the interest rate charged in the credit system from a hypothetical natural rate associated with real investment and saving. A persistent gap could lead to cumulative changes in demand and prices as banks expanded or restricted credit.
+
+The natural rate cannot be observed directly and varies with economic circumstances, limiting the usefulness of treating monetary policy as an automatic adjustment of a single number. Expectations, credit constraints and real shocks also matter.
+
+Wicksell provided foundations for later monetary theory and inflation-targeting frameworks, while also writing on taxation and public finance.
+
+### 41. Irving Fisher: measurement, interest and debt-deflation
+
+**Irving Fisher** (1867–1947) studied at **Yale**, earning advanced training in mathematics and economics, and pursued a career ranging from monetary analysis to public-health advocacy. He married **Margaret Hazard** and invested in businesses linked to recording systems.
+
+Fisher developed monetary identities, theories of interest and intertemporal consumption. ***The Theory of Interest* (1930)** analysed the relationship between present and future resources. His equation of exchange was influential, but an accounting relationship does not by itself determine the causal effects of monetary changes.
+
+Fisher was badly wrong in his optimism about stock prices immediately before the **1929 crash** and suffered major financial losses. He subsequently developed ***The Debt-Deflation Theory of Great Depressions* (1933)**, examining how falling prices raise the real burden of nominal debts, force asset sales and deepen contractions.
+
+His mistakes as an investor did not erase the importance of his later analysis. Indeed, the experience illustrates the difference between theoretical innovation and the ability to predict turning points.
+
+### 42. Thorstein Veblen: status, spending and institutional habits
+
+**Thorstein Veblen** (1857–1929) was born in Wisconsin into a Norwegian immigrant farming family, studied at **Carleton**, **Johns Hopkins** and **Yale**, and faced professional conflicts over his career.
+
+In ***The Theory of the Leisure Class* (1899)**, Veblen studied **conspicuous consumption**: expenditure may communicate wealth and social status rather than serve only direct physical needs. This does not mean that every expensive purchase is merely a status performance. It shows how comparison, imitation and hierarchy can shape demand.
+
+His institutional approach examined habits, corporations, technology and business power. It influenced later research on social status and economic institutions, though many of his claims require more explicit empirical specification than he supplied.
+
+### 43. John R. Commons: law, labour and collective action
+
+**John Rogers Commons** (1862–1945) studied at **Oberlin** and **Johns Hopkins**, then became a professor and reformer, especially in Wisconsin.
+
+Commons treated economic transactions as relationships governed by law, contracts and collective bargaining. In ***Institutional Economics* (1934)**, he described how legal rights, unions, arbitration and organizational rules affect bargaining power and distribution. Wages are not determined in a legal vacuum.
+
+His influence on American labour and social policy reflected empirical research as well as theoretical argument. The later rise of formal neoclassical modelling reduced the prominence of older institutionalism, but problems of contract enforcement and organization returned through new methods.
+
+### 44. Rosa Luxemburg: accumulation and imperial expansion
+
+**Rosa Luxemburg** (1871–1919) was born in Zamość, then part of the Russian Empire, into a Jewish Polish family. She studied at **Zurich**, one of the few universities then admitting women, and earned a doctorate in **1897** on Polish industrial development.
+
+In ***The Accumulation of Capital* (1913)**, she explored the relationship between capitalist reproduction and non-capitalist markets, arguing that imperial expansion was connected to the requirements of accumulation. Marxist critics challenged her reading of Marx's reproduction models and argued that growth was possible without the particular external markets she posited.
+
+Luxemburg also defended democratic participation and criticized authoritarian tendencies in revolutionary politics. She was murdered amid political violence in **1919**. Her work remains influential in studies of imperialism, economic coercion and the world market, while its strongest necessity claims remain debated.
+
+### 45. Mary Paley Marshall: education and unequal academic recognition
+
+**Mary Paley Marshall** (1850–1944) studied at **Newnham College, Cambridge**, when women faced formal barriers to degrees and university appointments. She taught economics and coauthored ***The Economics of Industry* (1879)** with Alfred Marshall.
+
+Marriage and scholarly collaboration took place in an institutional system that gave considerably more recognition and professional opportunity to men. This does not justify assigning all of Alfred Marshall's published work to Mary; it does show how authorship, opportunity and prestige are conditioned by university rules.
+
+A history based only on titled professorships and prizes will systematically omit contributions made when many women were excluded from those roles.
+
+## V — Depression, war and the invention of macroeconomics
+
+### 46. Joseph Schumpeter: entrepreneurs and creative destruction
+
+**Joseph Alois Schumpeter** (1883–1950) was born in the Austrian Empire, studied at the **University of Vienna**, taught economics, served as Austrian finance minister and briefly pursued commercial banking before establishing a major academic career at **Harvard**.
+
+In ***The Theory of Economic Development* (1911)**, he placed entrepreneurial innovation at the centre of structural change. New products, business methods, markets and organizational forms could challenge incumbents, alter profits and destroy the value of established capital. Bank credit could finance an innovator before new income existed.
+
+In ***Capitalism, Socialism and Democracy* (1942)**, he developed the idea of **creative destruction**. The mechanism explains productivity gains and business displacement but does not establish that all workers immediately benefit from innovation. Skill loss, unemployment and regional decline can persist when adaptation is difficult.
+
+Personal financial difficulties and controversial political predictions form part of his biography. His ideas later informed evolutionary economics and modern models of innovation-led growth.
+
+### 47. John Maynard Keynes: uncertainty and persistent unemployment
+
+**John Maynard Keynes** (1883–1946) was born in Cambridge to the economist **John Neville Keynes** and educator **Florence Ada Brown**. He studied at **Eton** and **King's College, Cambridge**, initially focusing on mathematics and philosophy. He worked in government finance, academia and financial markets and married the dancer **Lydia Lopokova**.
+
+Keynes criticized the economic terms associated with the First World War peace settlement in ***The Economic Consequences of the Peace* (1919)**, warning about the destructive effects of excessive reparations. His assessments have been debated, but the episode placed international production and political stability at the centre of economic policy.
+
+In ***The General Theory of Employment, Interest and Money* (1936)**, Keynes challenged the idea that a market economy necessarily returns quickly to full employment. Investment depends on uncertain future revenue; households and firms may simultaneously seek liquidity, reducing aggregate spending and income. Underemployment can persist even without a single externally imposed wage restriction.
+
+The **multiplier** describes how an initial spending change can propagate through incomes and expenditure. Its magnitude depends on taxes, imports, saving, available capacity and policy conditions. It does not allow every government project to be justified by applying one fixed coefficient.
+
+Keynes participated in the design of postwar monetary institutions and advocated an international clearing arrangement built around the **bancor**, an idea not adopted at Bretton Woods. His legacy includes fiscal and monetary stabilization as well as an emphasis on genuine uncertainty that later simplified Keynesian models sometimes neglected.
+
+### 48. Michał Kalecki: profits and the politics of full employment
+
+**Michał Kalecki** (1899–1970) was born in Łódź into a family connected to industry and commerce. Financial problems affected his formal education, and he developed skills through employment, research and economic statistics.
+
+Kalecki independently developed important ideas about profits, investment and aggregate spending. His analysis linked profits to decisions to invest and spend, with accounting relationships that depend on how income and saving are distributed. He also examined prices and **degree of monopoly**, allowing market power to affect margins and income shares.
+
+In ***Political Aspects of Full Employment* (1943)**, he argued that employers might oppose the political and bargaining consequences of prolonged full employment even where government policy could technically sustain demand. Such opposition is conditional, not a claim that every entrepreneur resists growth.
+
+Kalecki later worked internationally and in Poland, maintaining a critical perspective on capitalist and centrally administered economies. His achievement was connecting macroeconomic dynamics to class relations and political incentives.
+
+### 49. Friedrich Hayek: dispersed knowledge and the limits of planning
+
+**Friedrich August von Hayek** (1899–1992) was born in Vienna into an academic family, studied law and economics at the **University of Vienna** and pursued research on credit cycles, institutions and political philosophy.
+
+Hayek taught at the **London School of Economics**, **University of Chicago** and other institutions. In ***The Use of Knowledge in Society* (1945)**, he argued that information about local production, preferences and resource availability is widely dispersed. Prices can communicate changes in scarcity without any central authority collecting all relevant knowledge.
+
+His criticism of central planning focused on the difficulty of coordinating millions of decisions where information changes continuously. Socialists such as **Oskar Lange** proposed alternative market-socialist mechanisms, and the debate concerned actual information, incentives and adaptation rather than the mere presence of computers.
+
+In ***The Road to Serfdom* (1944)**, Hayek warned about concentrating political and economic power. Some associations and comments involving authoritarian governments remain controversial, and his career should not be reduced to uncritical advocacy of every private company. He shared the **1974 economics prize** with Gunnar Myrdal.
+
+### 50. Gunnar Myrdal: cumulative disadvantage and social institutions
+
+**Gunnar Myrdal** (1898–1987) was born in Sweden, studied law in **Stockholm** and developed careers in economics, politics and diplomacy. His wife **Alva Myrdal** was an important public intellectual and policymaker in her own right.
+
+Myrdal proposed **circular and cumulative causation**: poor access to education, capital and political voice can reinforce low productivity and income, while successful institutional improvements may create positive feedback. The model is not a prediction that poor countries must remain poor.
+
+In ***An American Dilemma* (1944)**, he investigated racism and the conflict between American democratic ideals and exclusionary institutions. The project relied on wider research networks whose contributions deserve recognition. His later ***Asian Drama* (1968)** examined institutions and development in Asia, though some interpretations were challenged by subsequent growth experiences.
+
+Myrdal's shared **1974 prize with Hayek** illustrated the broad and often conflicting traditions recognized in the discipline.
+
+### 51. Karl Polanyi: markets and society's protective responses
+
+**Karl Polanyi** (1886–1964) was born in Vienna and grew up in Budapest. He studied law and philosophy, worked as a journalist and researcher and experienced the economic and political crises of the interwar years.
+
+In ***The Great Transformation* (1944)**, he argued that market economies were constructed through legal and political changes, particularly when labour, land and money were treated as if they were ordinary commodities produced for sale. He called them **fictitious commodities** because human beings, nature and monetary systems are not produced for the market in the same manner as manufactured goods.
+
+The **double movement** described attempts to expand market coordination and responses seeking social protection. It does not imply that all regulation succeeds or that every free-market reform causes authoritarianism. The work remains influential in economic sociology and the analysis of political reactions to inequality and insecurity.
+
+### 52. John Hicks: mathematical synthesis and the limits of IS-LM
+
+**John Richard Hicks** (1904–1989) studied at **Balliol College, Oxford**, and taught at major British universities. His mathematical work on demand, capital and welfare helped connect neoclassical economics with the expanding Keynesian tradition.
+
+In ***Value and Capital* (1939)**, Hicks analysed substitution and intertemporal equilibrium. His **IS-LM framework**, first published in **1937**, became a standard way to describe conditions in goods and money markets and the effects of fiscal and monetary policies.
+
+The simplification was useful pedagogically but neglected some of Keynes's concerns about deep uncertainty and historical time. Hicks later acknowledged limitations of the framework. He shared the **1972 economics prize** with Kenneth Arrow.
+
+### 53. Joan Robinson: imperfect competition and the capital debates
+
+**Joan Violet Robinson** (1903–1983) studied at **Girton College, Cambridge**, and became an influential economist in a university system where women faced restrictions on professional advancement. She married the economist **Austin Robinson** and participated in the debates around Keynes, Sraffa and Kahn.
+
+In ***The Economics of Imperfect Competition* (1933)**, she analysed firms with market power, labour pricing and the relationship between costs, output and margins. Perfect competition was not an adequate description of all industrial sectors.
+
+Robinson later criticized the treatment of heterogeneous capital as a single measurable physical stock independent of prices and income distribution. These questions became part of the **Cambridge capital controversy**.
+
+Her views on certain socialist regimes generated justified criticism for political judgements that underestimated repression and other harms. Her theoretical contributions and political errors can be examined separately.
+
+### 54. Piero Sraffa: production prices and the theory of capital
+
+**Piero Sraffa** (1898–1983) was born in Turin, studied economics and law, was close to **Antonio Gramsci** and developed an academic career at Cambridge, where he interacted with Keynes and Wittgenstein.
+
+In ***Production of Commodities by Means of Commodities* (1960)**, he set out a mathematical system relating production techniques, prices and the distribution between wages and profits. It challenged interpretations relying on a homogeneous quantity of capital and conventional marginal productivity arguments.
+
+Sraffa's framework is not a complete description of money, unemployment or all institutions. It is a rigorous model that exposes assumptions behind alternative theories of value and capital. His editorial work on David Ricardo also made a lasting contribution to the history of economic thought.
+
+### 55. Hyman Minsky: stability creates incentives for instability
+
+**Hyman P. Minsky** (1919–1996) studied mathematics at the **University of Chicago** and economics at **Harvard**, later developing a career in financial instability research.
+
+His **financial instability hypothesis** described how prolonged stability can encourage debtors and lenders to accept greater leverage and thinner margins of safety. He distinguished **hedge finance**, where expected income covers interest and principal; **speculative finance**, where debt must be rolled over; and **Ponzi finance**, where refinancing or rising asset values are needed even to meet current commitments.
+
+These categories depend on actual balance-sheet cash flows and financing conditions. They do not imply that every expansion inevitably produces a crash. The **2008 crisis** renewed interest in Minsky, although he had died well before it occurred.
+
+His contribution is a dynamic view of finance in which risk can accumulate endogenously during periods that appear tranquil.
