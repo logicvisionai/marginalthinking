@@ -3,7 +3,7 @@
   "ready": true,
   "id": "MT-ACC-2026-11-11-AGE-OF-DISINTEREST",
   "slug": "2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia",
-  "revision": 0,
+  "revision": 1,
   "date": "2026-11-11",
   "published_at": "2026-11-11T08:36:00-03:00",
   "kind": "accelerationism-systems-research",
@@ -143,12 +143,18 @@
   ],
   "producer_checks": {
     "content_depth": "EN roughly 5,877 whitespace-delimited words, PT-BR roughly 6,175; 17 substantive analytical sections plus references in both locales.",
-    "bilingual_visuals": "Two source-based PISA 2025 charts (minimum mathematics proficiency; school perceived as waste of time), two comparable tables, and a causal flow in both locales.",
+    "bilingual_visuals": "Two source-based bar charts, two comparable evidence tables, a causal flow and a geographic comparison map per locale; same three map areas, measures and cautions.",
     "sources": "16 numbered primary or institutional references in each language, covering OECD, UNESCO, ILO, IMF, Stanford, NBER, Microsoft Research, peer-reviewed educational trial and a 2026 working paper; classical works listed separately.",
     "source_date": "Historical bibliographic references differentiated from 2024–2026 empirical evidence. PISA 2025 released September 2026, tutoring negative trial October 2026.",
     "falsification": "Explicit disconfirming evidence for the technological-dark-age hypothesis and three conditional 2027–2040 pathways.",
     "images": "No unverified illustrations or decorative imagery.",
     "independent_qa_required": true,
-    "staging_only": true
-  }
+    "staging_only": true,
+    "revision_validation": "Corrects exact failure observed in GitHub Actions 43020948365: research visual evidence budget missing (map required), without modifying earlier source figures."
+  },
+  "revision_reason": "Restore the required geographic visual-evidence map after production validation identified a missing map in the original approved report. No changes to quantitative claims or interpretation.",
+  "qa_fixes_applied": [
+    "Added the source-grounded geography comparison map to both EN/PT editions, respecting the existing map visual grammar and the same three comparison units.",
+    "Restated inference limits: PISA cannot establish an AI effect; university experiments are not nationally representative; occupational exposure is not displacement."
+  ]
 }
