@@ -178,9 +178,9 @@ Poor harvests, food insecurity and organized opposition weakened his position; h
 
 **Adam Smith** (1723–1790) was born in Kirkcaldy, Scotland. His father died before he was born, and his mother **Margaret Douglas** played a significant role in his life. He studied at the **University of Glasgow** and **Balliol College, Oxford**, later becoming a professor of logic and moral philosophy at Glasgow.
 
-In ***The Theory of Moral Sentiments* (1759)**, Smith analysed sympathy, moral judgement and the social formation of norms. People were not merely profit-maximizing machines. His approach to economics remained connected to justice and the credibility of institutions.
+In [***The Theory of Moral Sentiments* (1759)**](https://www.gutenberg.org/ebooks/67363), Smith analysed sympathy, moral judgement and the social formation of norms. People were not merely profit-maximizing machines. His approach to economics remained connected to justice and the credibility of institutions.
 
-Travelling in France introduced Smith to the physiocrats and a wide range of political-economic arguments. In ***An Inquiry into the Nature and Causes of the Wealth of Nations* (1776)**, he examined specialization, the division of labour, market size, capital accumulation, trade, taxation, public works and monopolies.
+Travelling in France introduced Smith to the physiocrats and a wide range of political-economic arguments. In [***An Inquiry into the Nature and Causes of the Wealth of Nations* (1776)**](https://www.gutenberg.org/ebooks/3300), he examined specialization, the division of labour, market size, capital accumulation, trade, taxation, public works and monopolies.
 
 The pin factory illustrated gains from dividing tasks, while the extent of specialization depended on markets sufficiently large to support it. Smith criticized merchants who used political power to restrict competition and raise prices. His limited references to an **invisible hand** were not proofs that every competitive market necessarily reaches an optimal result under all conditions.
 
@@ -865,7 +865,7 @@ The three received the **2019 prize**. Experimental findings still face question
 
 People do not receive schooling, wages or public policies randomly in most real settings. **Natural experiments**, instruments and difference-in-differences attempt to find changes that permit better comparisons. The methods require assumptions and attention to the populations identified.
 
-They received the **2021 prize**. Studies challenging simple predictions about minimum wages do not establish that every minimum-wage increase in any economy is harmless. Results depend on magnitude, labour markets and circumstances.
+They received the [**2021 prize**](https://www.nobelprize.org/prizes/economic-sciences/2021/press-release/). Studies challenging simple predictions about minimum wages do not establish that every minimum-wage increase in any economy is harmless. Results depend on magnitude, labour markets and circumstances.
 
 ### 93. Claudia Goldin: recovering women's work from incomplete archives
 
@@ -891,7 +891,7 @@ The argument does not validate every technology subsidy or monopoly patent. Poli
 
 ### 95. William Nordhaus: climate and the economics of long horizons
 
-**William D. Nordhaus** (1941–2026) studied at **Yale** and earned his economics doctorate there, developing influential research on growth, energy and climate change.
+**William D. Nordhaus** (1941–2026; [Yale University obituary, 30 October 2026](https://news.yale.edu/2026/10/30/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale)) studied at **Yale** and earned his economics doctorate there, developing influential research on growth, energy and climate change.
 
 His **DICE integrated assessment model** connected economic output, greenhouse gas emissions, temperature and damage estimates under explicit assumptions. The **social cost of carbon** seeks to evaluate the harm of an additional unit of emissions for public policy.
 
@@ -1280,7 +1280,7 @@ All three received the [2022 economics prize](https://www.nobelprize.org/prizes/
 
 **New trade theory** explains commerce between countries that produce similar manufactured goods by incorporating product differentiation, economies of scale and imperfect competition. Industrial clusters can reinforce themselves as skilled workers, customers and suppliers concentrate in the same area.
 
-Krugman received the **2008 economics prize**. His later public commentary and political positions must be assessed separately from theoretical results. The models explain important trade mechanisms without guaranteeing that every trade-policy change benefits every worker and region.
+Krugman received the [**2008 economics prize**](https://www.nobelprize.org/prizes/economic-sciences/2008/press-release/). His later public commentary and political positions must be assessed separately from theoretical results. The models explain important trade mechanisms without guaranteeing that every trade-policy change benefits every worker and region.
 
 ### 132. Jean Tirole: market power and regulation
 
@@ -1288,7 +1288,7 @@ Krugman received the **2008 economics prize**. His later public commentary and p
 
 His research examined the contracts and incentives shaping firms with market power. A telecommunications or energy network may require high investment and have limited competition; regulators must consider prices, service quality, information asymmetries and future investment.
 
-Tirole received the **2014 economics prize**. The principal contribution was designing analysis appropriate to particular market structures, rather than assuming one price-control rule works for every industry.
+Tirole received the [**2014 economics prize**](https://www.nobelprize.org/prizes/economic-sciences/2014/press-release/). The principal contribution was designing analysis appropriate to particular market structures, rather than assuming one price-control rule works for every industry.
 
 ### 133. Oliver Hart and Bengt Holmström: incomplete contracts and incentives
 
@@ -1296,7 +1296,7 @@ Tirole received the **2014 economics prize**. The principal contribution was des
 
 Hart analysed ownership and control when contracts cannot describe every future contingency. Holmström studied incentives when employees or managers affect outcomes that also depend on luck and external circumstances.
 
-They shared the **2016 economics prize**. Their theories help evaluate executive pay, outsourcing and public-service contracts while demonstrating why high-powered financial incentives can also encourage excessive risk.
+They shared the [**2016 economics prize**](https://www.nobelprize.org/prizes/economic-sciences/2016/press-release/). Their theories help evaluate executive pay, outsourcing and public-service contracts while demonstrating why high-powered financial incentives can also encourage excessive risk.
 
 ### 134. Paul Milgrom and Robert Wilson: designing auctions
 
@@ -1304,7 +1304,7 @@ They shared the **2016 economics prize**. Their theories help evaluate executive
 
 They advanced auction theory where bidders hold private information or seek to estimate a common but uncertain value, such as the productive value of a licence. Auction rules shape bidding, information disclosure, allocation and the winner's-curse risk.
 
-They received the **2020 economics prize**. Their applied work influenced spectrum auctions. Maximizing immediate auction revenue is not always the same as maximizing social benefit if high acquisition costs reduce later investment.
+They received the [**2020 economics prize**](https://www.nobelprize.org/prizes/economic-sciences/2020/press-release/). Their applied work influenced spectrum auctions. Maximizing immediate auction revenue is not always the same as maximizing social benefit if high acquisition costs reduce later investment.
 
 ### 135. B. R. Ambedkar: money, caste and emancipation in India
 
