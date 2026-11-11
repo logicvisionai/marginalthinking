@@ -272,6 +272,33 @@ A constatação altera a perspectiva de longo prazo. Moedas nascem frequentement
 
 No limite, a moeda é um registro de soberania com memória social. Um novo nome monetário busca interromper expectativas herdadas, mas só adquire credibilidade se as instituições e as relações econômicas mudarem de maneira suficiente. O destino do padrão depende da capacidade de preservar contratos, preços inteligíveis, liquidação segura e restrições fiscais e bancárias compatíveis com o crescimento real.
 
+
+### O destino das moedas: sobrevivência, substituição e reforma
+
+A base de 568 moedas oficiais documentada por **Iñaki Aldasoro, Jon Frost, Rudraksh Kansal e Catherine R. Schenk**, publicada pelo [Banco de Compensações Internacionais em 6 de novembro de 2026](https://www.bis.org/publications/working-paper-1392-gaining-and-losing-currency-global-database-currencies-1850-2026), permite separar a **quantidade de unidades que circulavam em determinada data** do **destino de todas as unidades catalogadas entre 1850 e 2026**. A primeira variável mede um estoque histórico de moedas vigentes; a segunda, a condição observada de um conjunto cumulativo de unidades monetárias.
+
+```chart
+type: bar
+title: Destino das moedas oficiais catalogadas pelo BIS entre 1850 e 2026
+unit: moedas oficiais
+Descontinuadas | 405
+Em circulação em 2026 | 163
+```
+
+As categorias são **mutuamente exclusivas** e totalizam as 568 moedas da pesquisa. São registros de unidades monetárias oficiais, incluindo moedas coloniais, territoriais e de guerra; não representam 568 países independentes nem incluem todas as moedas privadas. A proporção de descontinuadas é próxima de 71,3% do conjunto, mas não estima a probabilidade anual de falência de uma moeda. A análise de sobrevivência apresentada pelos autores, com duração mediana observada de 33 anos, aborda outra dimensão e necessita considerar moedas que continuavam vigentes no fim da observação.
+
+A distribuição territorial de mudanças monetárias reflete mecanismos diferentes e não pode ser lida como um mapa de qualidade institucional. A descolonização na África e na Ásia aumentou o número de emissores nacionais; a dissolução de federações e impérios criou novas unidades; a integração monetária europeia substituiu moedas nacionais pelo euro. Nas Américas, redenominações e estabilizações, incluindo as brasileiras, alteraram a unidade de conta sem implicar criação de um novo território soberano. O estudo do BIS não fornece, nessa síntese, uma contagem continental completa que permita atribuir números precisos a cada uma dessas categorias.
+
+```map
+title: Transições monetárias regionais — mecanismos históricos, sem quantidades continentais
+África | Independências e soberania monetária | O nascimento de unidades nacionais acompanhou mudanças de autoridade e estruturas coloniais
+Ásia | Independência, unificações e regimes cambiais | A trajetória varia por Estado e não segue uma única sequência de metal, papel e banco central
+Europa | Integração monetária e euro | Várias moedas nacionais deixaram de circular como unidades próprias ao ingressar na união monetária
+Américas | Reformas nominais e estabilização | O caso brasileiro ilustra a troca da unidade de conta diante de inflação e reorganização institucional
+```
+
+A associação geográfica indica **tipos de transição**, não uma geolocalização de cada moeda individual. Nenhuma região seguiu trajetória uniforme. A adoção de uma moeda comum pode reduzir custos de transação e eliminar risco cambial entre membros, ao preço de restringir política monetária nacional; a emissão de moeda própria pode ampliar capacidade de resposta local, mas exige instituições fiscais, financeiras e monetárias capazes de preservar a confiança. O mesmo fenômeno — encerramento de uma unidade monetária — pode representar unificação voluntária, vitória de uma reforma contra hiperinflação ou ruptura política violenta. A contagem de moedas, isoladamente, não distingue esses resultados.
+
 ## XXV. As variáveis permanentes: uma matriz de causalidade monetária
 
 A narrativa histórica pode ser decomposta em onze variáveis, sem transformar contextos muito diferentes em um modelo universal. A **capacidade produtiva** determina a oferta real de bens e serviços que o poder de compra pode mobilizar. A **capacidade fiscal** define em que medida o emissor público consegue honrar obrigações sem imposto inflacionário persistente. A **estrutura de passivos** revela prazos, moedas, indexadores e garantias. A **qualidade jurídica** condiciona execução de contratos, perdas e propriedade. A **infraestrutura de pagamentos** altera tempo, custo e risco de liquidação.
