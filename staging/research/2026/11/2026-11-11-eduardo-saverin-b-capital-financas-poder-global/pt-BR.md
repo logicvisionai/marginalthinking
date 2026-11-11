@@ -108,21 +108,21 @@ Essas cifras pertencem a universos, datas e metodologias diferentes; sua relaç�
 
 ## A transformação dos fundos, de 2015 a 2026
 
-As primeiras captações da B Capital eram menores que as estruturas atuais. A TechCrunch registrou um fundo inicial de US$ 360 milhões e outro de aproximadamente US$ 410 milhões em 2020. A empresa procurou combinar investimento em companhias com algum grau de validação comercial e apoio para expansão, em vez de depender apenas de projetos na fase de ideia. [10]
+As primeiras captações da B Capital eram menores que as estruturas atuais. A TechCrunch registrou um fundo inicial de US$ 360 milhões e um segundo fundo que estava em aproximadamente US$ 410 milhões em fevereiro de 2020. Em junho daquele ano, o fechamento final do segundo veículo foi anunciado em US$ 820 milhões. A empresa procurou combinar investimento em companhias com algum grau de validação comercial e apoio para expansão, em vez de depender apenas de projetos na fase de ideia. [10]
 
 
 
 ```chart
 type: bar
-title: Compromissos anunciados dos dois primeiros fundos da B Capital
+title: Compromissos finais anunciados para os dois primeiros fundos da B Capital
 unit: US$ milhões por fundo
-Primeiro fundo | 360
-Segundo fundo | 410
+Primeiro fundo, fechamento final (2018) | 360
+Segundo fundo, fechamento final (2020) | 820
 ```
 
-O gráfico compara os compromissos dos dois veículos informados pela TechCrunch em fevereiro de 2020. As cifras são captações, não lucros, e não servem para calcular retorno dos investidores. [10]
+O gráfico compara os montantes de fechamento final dos dois primeiros fundos, não o valor parcial anunciado no início de 2020. As cifras são compromissos de captação, não lucros ou distribuições aos investidores. [10][27]
 
-Em 2023, anunciou aproximadamente US$ 2,1 bilhões para seu Growth Fund III e veículos relacionados. Em março de 2024, informou a captação de US$ 750 milhões para o segundo Opportunities Fund, concebido para operações em empresas mais maduras e para investimento adicional em negócios acompanhados anteriormente. Isso amplia a capacidade de financiar vencedores potenciais em diferentes estágios, mas também cria necessidade de administrar conflitos: um fundo inicial que vende participação para outro fundo da mesma organização pode ter investidores distintos em cada lado da operação. Preços, aprovações e avaliação independente tornam-se centrais. [12][13]
+Em janeiro de 2023, a B Capital anunciou aproximadamente US$ 2,1 bilhões para seu Growth Fund III e veículos relacionados. [28] Em março de 2024, informou a captação de US$ 750 milhões para o segundo Opportunities Fund, concebido para operações em empresas mais maduras e para investimento adicional em negócios acompanhados anteriormente. Isso amplia a capacidade de financiar vencedores potenciais em diferentes estágios, mas também cria necessidade de administrar conflitos: um fundo inicial que vende participação para outro fundo da mesma organização pode ter investidores distintos em cada lado da operação. Preços, aprovações e avaliação independente tornam-se centrais. [12][13]
 
 Em julho de 2026, o Ascent Fund III levantou US$ 500 milhões para investimentos em estágio inicial; a captação anunciada do Ascent II, em 2022, fora US$ 254 milhões. O crescimento é próximo de 97% no volume de recursos comprometidos entre esses dois veículos, não uma taxa de retorno nem uma medida do valor presente das empresas investidas. [14]
 
@@ -300,3 +300,7 @@ A trajetória de Eduardo Saverin reúne uma transformação excepcional da rique
 [25] B Capital. *Portfolio*, relação institucional de investidas. https://b.capital/portfolio/
 
 [26] Moneycontrol. *Davos 2026: B Capital to do more AI services deals in India, says co-founder Raj Ganguly*, 21 janeiro 2026. https://www.moneycontrol.com/news/business/startup/davos-2026-b-capital-to-do-more-ai-services-deals-in-india-says-co-founder-raj-ganguly-13782579.html
+
+[27] B Capital. *B Capital Group Closes $820mm Second Fund to Support Global Innovation*, 30 junho 2020. https://b.capital/insights/b-capital-group-closes-820mm-second-fund-to-support-global-innovation/
+
+[28] B Capital. *B Capital Closes Third Growth Fund Series at $2.1 Billion*, 19 janeiro 2023. https://b.capital/news-article/b-capital-closes-third-growth-fund-series-at-2-1-billion/
