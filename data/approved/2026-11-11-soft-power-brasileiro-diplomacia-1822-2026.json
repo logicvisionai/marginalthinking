@@ -1,0 +1,622 @@
+{
+  "schema_version": 2,
+  "id": "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER",
+  "slug": "2026-11-11-soft-power-brasileiro-diplomacia-1822-2026",
+  "revision": 7,
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-11T15:40:52.908Z",
+  "reviewed_branch": "main",
+  "reviewed_commit": "cb342f19518ad16d4bcd6cea4ede6cf0df0e8017",
+  "pending_blob_sha": "5e15eec2c91e56f08a6b517fba7bdc92014d6dd6",
+  "source_blob_shas": {
+    "en": "b2b1fccee09771b97eab1b77e6268ba4a4a71012",
+    "pt-BR": "0f791e77d6305ca0ead407b3b977139324f57136"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "finding": "Pending and two complete staged Markdown sources read from main and pinned by Git blob SHA; prior rev6 rejection reviewed.",
+      "limitations": []
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "finding": "205 contiguous annual entries per language, differentiated events, historical secondary synthesis and interpretation; 1833 qualified; dated 1932, 1969 and 1981; 1997 COP3, 2003 IBSA, 2007 EU summit and efavirenz corrected.",
+      "limitations": []
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "finding": "Historical chronology used as secondary evidence through 2008; official dated materials supplement 2001–2026; 2026 EU interim provisional application distinct from full agreement ratification; Brand Finance 2026 is perception, not outcomes.",
+      "limitations": []
+    },
+    "research_depth": {
+      "result": "passed",
+      "finding": "Long-run 1822–2026 synthesis, 205 annual entries, institutional, economic, social and political mechanisms, comparisons and counterarguments; substantial EN/PT text.",
+      "limitations": []
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "finding": "Replaced rev6 source mismatches: UNFCCC decision 1/CP.3 for 1997; South African government 6 June 2003 IBSA account; EU Council 11531/07 and Decree 6.108 for 2007. Dated sources for 2001,2005,2006,2008,2009,2011,2012,2013,2016,2022,2023,2025. Annual citations matched across locales.",
+      "limitations": [
+        "Year-indexed Garcia citations are secondary synthesis, not independent primary records; not all 205 historical claims were externally verified line by line."
+      ]
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "finding": "Both locales contain two reproducible additive UN Security Council start-year count charts, [1,2,2,0,1,2,1,1,1] and equal 40-year windows [5,6], with enumerated eleven starts, calculation tables, flow and map; no misleading ordinal bar.",
+      "limitations": []
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "finding": "Separates attraction from coercion, access from outcomes, cultural visibility from measurable diplomatic effects, event hosting from implementation, and treaty signature from legal application; avoids attributing causal effect of democratization to UN counts.",
+      "limitations": []
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "finding": "No remaining material rev6 source mismatch detected in targeted source-document checks; English and Portuguese match 205 years, year-linked citations, visual values and analytical qualifications. Approval only, no public promotion.",
+      "limitations": []
+    }
+  },
+  "contrary_evidence": [
+    "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
+    "Military interventions in the Empire and the peacekeeping mission in Haiti involved coercion, contested local legitimacy and human costs.",
+    "Brazil's 2019–2022 diplomatic disagreements did not prevent election to its eleventh Security Council term in 2022–2023.",
+    "The 2026 Mercosur–EU provisional trade application is not full definitive ratification of the partnership.",
+    "Event hosting at G20, BRICS and COP30 does not establish policy implementation or realized financing.",
+    "Brazil's culture can be globally recognizable while political influence remains bounded by veto powers, industrial dependence and domestic institutional credibility."
+  ],
+  "limitations": [
+    "Brand Finance index is a proprietary cross-sectional perception instrument; it should not be projected backwards to 1822.",
+    "The report does not estimate a synthetic index of historical soft power or an unobservable causal effect of music and sport on diplomatic votes.",
+    "Impacts of COP30 decisions, the anti-hunger alliance and Mercosur–EU remain to be verified by future implementation metrics.",
+    "News after 11 November 2026 is outside the factual cutoff.",
+    "Independent QA, source-hash approval and public site deployment have not yet occurred at producer stage.",
+    "Annual entries are historically selective and not an exhaustive documentary inventory; specific terms and negotiations have different certainty levels.",
+    "The National Archives imperial chronology is indexed but its original URL has intermittent maintenance redirects; FUNAG, minister appointments and legal primary sources provide accessible cross-checks.",
+    "Per-year citations include broad specialist chronologies for some years rather than primary dated instruments; independent QA must still check individual claim-level attribution and may reject.",
+    "Sourcing of ministerial appointments does not establish contemporaneous shifts in policy; historical interpretation is separated from the appointment.",
+    "The Falklands entry of 1833 distinguishes British seizure and Argentina's objection from later Brazilian diplomatic positions; no unsourced 1833 instrument is alleged.",
+    "Signing, ratification and effective application of treaties are separate legal acts; the 1928 Havana and 1948 OAS entries reflect this distinction.",
+    "Garcia's published scholarly chronology supplies an indexed historical cross-check for 1822–2008; it is secondary historical synthesis, not 184 independent primary archival investigations.",
+    "Not every annual entry corresponds to a diplomatic turning point: dated institutional continuity, domestic constraints and contextual interpretation do not measure realized soft-power effects.",
+    "The 2026 perception index is cross-sectional; rankings cannot be extrapolated back into the nineteenth century.",
+    "Only a limited sample of Garcia's year-specific historical passages has been verified directly against the full reference PDF; do not infer all 205 annual entries are individually proved merely by hyperlinks.",
+    "The 1833 attribution regarding Argentine rights to the Malvinas remains a retrospective scholarly assertion, without independently located contemporaneous dated Brazilian recognition note.",
+    "The two charts derive from the same UN 11-term institutional-access series using different aggregation windows and should not be treated as independent observations or effect estimates.",
+    "The comparison across two 40-year windows is descriptive and not a causal estimate of democratic transition.",
+    "Year citations include multiple official publications and a reference historian; despite revisions, not every interpretive clause has a separate causal identification study.",
+    "Revision 7 remains staged and unpublished until independent QA approval with current source and pending blob hashes.",
+    "Independent QA externally checked selected critical source passages, not each of the 205 annual claims against primary archives.",
+    "Planalto source may deny automated access; legal decree citation retained as official record with alternative legal archives available.",
+    "Pipeline command npm run validate:editorial-depth was not executed in a checked-out runtime; deterministic structural checks performed against fetched source files."
+  ],
+  "notes": "Independent editorial QA revision 7. Rev6 blocking source mismatches addressed. Approval is tied to exact source and pending Git blobs; publisher must revalidate and promote separately. No publication asserted.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER",
+    "slug": "2026-11-11-soft-power-brasileiro-diplomacia-1822-2026",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T01:44:00-03:00",
+    "kind": "historical-soft-power-research",
+    "priority": 6,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "global-system-power",
+    "related_programs": [
+      "political-economy-markets",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "institutions-governance",
+      "geopolitics-security",
+      "trade-investment",
+      "industry-production",
+      "social-change",
+      "climate-environment",
+      "inequality-distribution",
+      "technology-innovation"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "strategic-competition",
+      "social-change",
+      "war-armed-conflict"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 7,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-11-soft-power-brasileiro-diplomacia-1822-2026/en.md",
+        "title": "Brazil's Soft Power: Two Centuries of Diplomacy, Culture and Influence (1822–2026)",
+        "deck": "From imperial recognition and Rio Branco to the UN, Mercosur, BRICS, G20 and COP30: why Brazil's cultural visibility exceeds its uneven ability to shape international outcomes.",
+        "tags": [
+          "Brazil",
+          "Soft power",
+          "Itamaraty",
+          "Brazilian diplomacy",
+          "United Nations",
+          "Rio Branco",
+          "History",
+          "BRICS",
+          "Mercosur",
+          "COP30"
+        ],
+        "keywords": [
+          "Brazil soft power 1822–2026",
+          "Brazil foreign policy 19th 20th 21st centuries",
+          "Brazilian diplomatic influence",
+          "year-by-year chronology"
+        ],
+        "regime": "Long-run rise in institutional and cultural visibility, with intermittent geopolitical and economic constraints on effective influence.",
+        "key_risk": "Conflating cultural popularity, survey perceptions, multilateral access and achieved diplomatic outcomes.",
+        "watch": [
+          "Mercosur–EU ratification and implementation",
+          "COP30 adaptation financing implementation",
+          "Global Alliance against Hunger results",
+          "Brazilian technical cooperation outcomes",
+          "Independent diplomacy and climate perception indicators"
+        ],
+        "search_text": "Brazil 1822-2026 soft power diplomacy Empire Rio Branco League Nations UN Security Council Itamaraty foreign service Mercosur BRICS culture football music climate Amazon Lula Bolsonaro geopolitical influence historical chronology"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-11-soft-power-brasileiro-diplomacia-1822-2026/pt-BR.md",
+        "title": "O soft power brasileiro: dois séculos de diplomacia, cultura e poder (1822–2026)",
+        "deck": "Do reconhecimento imperial e Rio Branco à ONU, ao Mercosul, aos BRICS, ao G20 e à COP30: por que a projeção cultural supera a influência diplomática efetiva.",
+        "tags": [
+          "Brasil",
+          "Soft power",
+          "Itamaraty",
+          "Diplomacia brasileira",
+          "ONU",
+          "Rio Branco",
+          "História",
+          "BRICS",
+          "Mercosul",
+          "COP30"
+        ],
+        "keywords": [
+          "soft power brasileiro 1822–2026",
+          "história diplomacia brasileira ano a ano",
+          "Itamaraty ONU Mercosul BRICS",
+          "ascensão e declínio influência brasileira"
+        ],
+        "regime": "A projeção cultural e institucional cresce no longo prazo, enquanto limitações produtivas, geopolíticas e internas restringem sua conversão em influência.",
+        "key_risk": "Confundir popularidade cultural, percepção em pesquisas, acesso aos fóruns e capacidade comprovada de alterar decisões.",
+        "watch": [
+          "Ratificação e execução do acordo Mercosul–UE",
+          "Desembolso e cumprimento das decisões COP30",
+          "Resultados da Aliança contra a Fome",
+          "Avaliação da cooperação técnica brasileira",
+          "Indicadores independentes de imagem e clima"
+        ],
+        "search_text": "Soft power brasileiro diplomacia Brasil 1822 2026 Império Rio Branco Liga das Nações ONU Conselho de Segurança Itamaraty Instituto Rio Branco Mercosul BRICS cultura futebol música clima Amazônia Lula Bolsonaro cronologia anual"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "As of 2026-11-11 BRT. Brand Finance published 2026-06-12; surveyed more than 150,000 respondents from more than 100 countries; 193 UN member states assessed against 55 metrics. EU–Mercosur signature 2026-01-17 and provisional trade application 2026-05-01 distinguished; 1833 Malvinas recognition is explicitly marked as a retrospective scholarly attribution lacking dated Brazilian dispatch.",
+      "source_check": "205 annual entries remain bilingual with year-specific citations. Revision 7 corrects three independent QA mismatches: 1997 links UNFCCC COP3 Kyoto decision 1/CP.3; 2003 links South African government launch of IBSA and Brasilia Declaration June6; 2007 links EU Council joint statement July4 and Brazilian Decree 6108 May4. Additionally replaced 12 broadly or wrongly sourced entries (2001, 2005, 2006, 2008, 2009, 2011, 2012, 2013, 2016, 2022, 2023, 2025) with dated events supported by specific primary/official materials. Additional details of archival source limitations remain acknowledged.",
+      "historical_method": "Revision 7 deliberately narrows broad interpretive annual claims to checkable source-specific dates and distinguishes signed treaties from effective entry into force, event hosting from outcomes, and roles without veto from realized influence. Garcia year-organized scholarly chronology complements—not substitutes for—official primary material.",
+      "argument_continuity": "Historical phases compare visibility, attraction, access and demonstrated influence; separates colonial/imperia coercion from later soft power, democratic legitimacy from pragmatic autonomy, climate summits from achieved implementation, and culture from market and diplomacy outcomes.",
+      "visual_evidence": "Two quantitative charts in EN/PT now both use additive COUNT data from official UN historical membership list: first 11 mandate starts by decade [1,2,2,0,1,2,1,1,1], second same 11 terms allocated to equal-duration 40-year windows [5,6], years explicitly enumerated. Second is not an ordinal rank bar. Two tables, one flow and one geographic map also present. Brand Finance ranks 11/29/33/43 remain only in comparison table with explicit noncardinal survey interpretation.",
+      "bilingual_parity": "205 annual entries each; same 15 materially edited year-specific claims in both languages; paired evidence URLs identical, 2 quantitative count charts [1,2,2,0,1,2,1,1,1] [5,6], 2 tables, 1 flow and 1 map per language. Cross-language wordings equivalent.",
+      "editorial_status": "Revision 7 staged following independent rev6 QA rejection for exactly 1997,2003,2007 source mismatches; no approval exists and no public report created. Awaiting independent review with SHA check."
+    },
+    "contrary_evidence": [
+      "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
+      "Military interventions in the Empire and the peacekeeping mission in Haiti involved coercion, contested local legitimacy and human costs.",
+      "Brazil's 2019–2022 diplomatic disagreements did not prevent election to its eleventh Security Council term in 2022–2023.",
+      "The 2026 Mercosur–EU provisional trade application is not full definitive ratification of the partnership.",
+      "Event hosting at G20, BRICS and COP30 does not establish policy implementation or realized financing.",
+      "Brazil's culture can be globally recognizable while political influence remains bounded by veto powers, industrial dependence and domestic institutional credibility."
+    ],
+    "limitations": [
+      "Brand Finance index is a proprietary cross-sectional perception instrument; it should not be projected backwards to 1822.",
+      "The report does not estimate a synthetic index of historical soft power or an unobservable causal effect of music and sport on diplomatic votes.",
+      "Impacts of COP30 decisions, the anti-hunger alliance and Mercosur–EU remain to be verified by future implementation metrics.",
+      "News after 11 November 2026 is outside the factual cutoff.",
+      "Independent QA, source-hash approval and public site deployment have not yet occurred at producer stage.",
+      "Annual entries are historically selective and not an exhaustive documentary inventory; specific terms and negotiations have different certainty levels.",
+      "The National Archives imperial chronology is indexed but its original URL has intermittent maintenance redirects; FUNAG, minister appointments and legal primary sources provide accessible cross-checks.",
+      "Per-year citations include broad specialist chronologies for some years rather than primary dated instruments; independent QA must still check individual claim-level attribution and may reject.",
+      "Sourcing of ministerial appointments does not establish contemporaneous shifts in policy; historical interpretation is separated from the appointment.",
+      "The Falklands entry of 1833 distinguishes British seizure and Argentina's objection from later Brazilian diplomatic positions; no unsourced 1833 instrument is alleged.",
+      "Signing, ratification and effective application of treaties are separate legal acts; the 1928 Havana and 1948 OAS entries reflect this distinction.",
+      "Garcia's published scholarly chronology supplies an indexed historical cross-check for 1822–2008; it is secondary historical synthesis, not 184 independent primary archival investigations.",
+      "Not every annual entry corresponds to a diplomatic turning point: dated institutional continuity, domestic constraints and contextual interpretation do not measure realized soft-power effects.",
+      "The 2026 perception index is cross-sectional; rankings cannot be extrapolated back into the nineteenth century.",
+      "Only a limited sample of Garcia's year-specific historical passages has been verified directly against the full reference PDF; do not infer all 205 annual entries are individually proved merely by hyperlinks.",
+      "The 1833 attribution regarding Argentine rights to the Malvinas remains a retrospective scholarly assertion, without independently located contemporaneous dated Brazilian recognition note.",
+      "The two charts derive from the same UN 11-term institutional-access series using different aggregation windows and should not be treated as independent observations or effect estimates.",
+      "The comparison across two 40-year windows is descriptive and not a causal estimate of democratic transition.",
+      "Year citations include multiple official publications and a reference historian; despite revisions, not every interpretive clause has a separate causal identification study.",
+      "Revision 7 remains staged and unpublished until independent QA approval with current source and pending blob hashes."
+    ],
+    "evidence_sources": [
+      {
+        "name": "FUNAG — historical bilateral relations",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — History of Brazilian Foreign Policy",
+        "url": "https://funag.gov.br/loja/download/1071-historia_da_politica_exterior_do_brasil.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Imperial diplomatic histories",
+        "url": "https://funag.gov.br/biblioteca-nova/categoria/cat/35?ord=4",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Independent Foreign Policy documents",
+        "url": "https://funag.gov.br/biblioteca-nova/produto/1-190-documentos_da_politica_externa_independente_volume_1",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Planalto — Rio Branco Institute founding decree",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del7473.htm",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "United Nations — Security Council elected membership list",
+        "url": "https://main.un.org/securitycouncil/en/content/countries-elected-members",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "United Nations Brazil — General Debate opening tradition",
+        "url": "https://brasil.un.org/pt-br/278975-assembleia-geral-da-onu",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazilian Ministry of Defence — UN peacekeeping history",
+        "url": "https://www.gov.br/defesa/pt-br/assuntos/relacoes-internacionais/copy_of_missoes-de-paz/historico-da-participacao-brasileira-em-missoes-da-onu",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "ABC — Technical cooperation history",
+        "url": "https://www.gov.br/abc/pt-br/acesso-a-informacao/institucional/historia",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "ABC — South–South cooperation principles",
+        "url": "https://www.gov.br/abc/pt-br/assuntos/cooperacao-tecnica/vertentes-da-cooperacao-tecnica",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UNESCO — intangible heritage inscriptions",
+        "url": "https://ich.unesco.org/en/state/brazil-BR?info=elements-on-the-lists",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brand Finance — Global Soft Power Index 2026",
+        "url": "https://brandfinance.com/insights/brazils-growing-soft-power-culture-diplomacy-climate-leadership",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "G20 Brazil — presidency retrospective",
+        "url": "https://www.gov.br/g20/pt-br/sobre-o-g20/e-book-brasil-na-presidencia-do-g20",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "G20 Brazil — Global Alliance Against Hunger and Poverty",
+        "url": "https://www.gov.br/g20/pt-br/trilhas/trilha-de-sherpas/fome-e-pobreza",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazilian government — COP30 Belém outcomes",
+        "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2025/11/cop30-e-encerrada-com-o-pacote-de-belem-aprovado-por-195-paises",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Siscomex — Mercosur–EU 2026 agreement status",
+        "url": "https://www.gov.br/siscomex/pt-br/acordos-comerciais/mercosul-uniao-europeia",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Ministry of Agriculture — interim agreement",
+        "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/2026/promulgacao-do-acordo-provisorio-de-comercio-entre-o-mercosul-e-a-uniao-europeia",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — foreign policy repertory",
+        "url": "https://www.gov.br/funag/pt-br/ipri/publicacoes/repertorio-de-politica-externa",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Ministry of Mines and Energy — BRICS members",
+        "url": "https://www.gov.br/mme/pt-br/atos-internacionais/organismos-internacionais/brics",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "IPEA — Brazil, Global South and multilateralism",
+        "url": "https://repositorio.ipea.gov.br/bitstreams/26f314e8-f179-41ed-b48e-72b666d44af1/download",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG CHDD — foreign ministers, dated appointments",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Arquivo Nacional — imperial chronology by year, 1822–1889",
+        "url": "https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG CHDD — Brazil–Britain dated chronology",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG CHDD — Brazil–Portugal dated chronology",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG CHDD — Brazil–Peru dated chronology",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/peru",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG CHDD — Brazil–Chile dated chronology",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/chile",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG CHDD — Brazil–China dated chronology",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Formação da diplomacia econômica no Brasil, vol. II, pp. 583–584",
+        "url": "https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Itamaraty, dois séculos de história, vol. I, p. 229",
+        "url": "https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Repertório da prática do direito internacional 1899–1918, p. 234",
+        "url": "https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Repertório da prática do direito internacional 1919–1940, p. 249",
+        "url": "https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "US Department of State FRUS 1933, Leticia mediation, doc 401",
+        "url": "https://history.state.gov/historicaldocuments/frus1933v04/d401",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FGV CPDOC — territorial boundary treaties",
+        "url": "https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FGV — US–Brazil steel financing in November 1940",
+        "url": "https://atlas.fgv.br/verbete/3588",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Chamber of Deputies — Law 3,310 of 1886",
+        "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3310-15-outubro-1886-543161-publicacaooriginal-53172-pl.html",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Chamber of Deputies — Decree-Law 1,098 of 1970",
+        "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1098-25-marco-1970-375405-publicacaooriginal-1-pe.html",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Chamber of Deputies — 1952 US military assistance treaty, signed March 15",
+        "url": "https://www2.camara.leg.br/legin/fed/decleg/1950-1959/decretolegislativo-30-30-abril-1953-351630-publicacaooriginal-1-pl.html",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil National Library — Foreign Ministry annual reports, 1891–1928",
+        "url": "https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG — Barão do Rio Branco historical biography",
+        "url": "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "European Commission — EU–Mercosur legal status as at November 2026",
+        "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement_en",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "SCIELO study: Brazil's League of Nations bid, specific 1925 embassy diplomacy",
+        "url": "https://www.scielo.br/j/rbpi/a/JZKHQvrbfbV6gsQWGdXbwky/",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazilian 1929 decree documenting signatures at 1928 Havana Conference",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5647-8-janeiro-1929-561479-publicacaooriginal-85118-pl.html",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UN Digital Library UNGA Resolution 217 A III vote, Brazil YES, Dec 1948",
+        "url": "https://digitallibrary.un.org/record/670964?p=Resolution+217%28III%29+A",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "OAS original charter (signed Bogotá April 30 1948)",
+        "url": "https://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazilian 1981 Cancún speech of Minister Ramiro Saraiva Guerreiro",
+        "url": "https://www.anales.uchile.cl/index.php/REI/article/view/15980",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "US State Department historical document: Cancún meeting and Brazil represented by Guerreiro",
+        "url": "https://history.state.gov/historicaldocuments/frus1981-88v01/d68",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UNESCO Rio Earth Summit 1992",
+        "url": "https://www.un.org/en/conferences/environment/rio1992",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UN Peacekeeping operations 1948–2017",
+        "url": "https://peacekeeping.un.org/en/past-peacekeeping-operations",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG 19th-century Paraguayan War and post-war diplomatic settlements",
+        "url": "https://funag.gov.br/loja/download/977-Obras_do_Barao_do_Rio_Branco_VIII_Estudos_Historicos.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG Pimenta Bueno mission, 1843–1847",
+        "url": "https://funag.gov.br/loja-nova/produto/31-1-a_missao_pimenta_bueno",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Mercosur official founding chronology",
+        "url": "https://www.gov.br/siscomex/pt-br/acordos-comerciais/mercosul",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "FUNAG historical Brazil-Argentina integration timeline",
+        "url": "https://www.funag.gov.br/loja/download/683-integracao_brasil_argentina.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Itamaraty Treaty of Petrópolis, original 1903 document",
+        "url": "https://concordia.itamaraty.gov.br/acordo/243",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UNFCCC Paris Agreement text",
+        "url": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Eugênio Vargas Garcia, Chronology of Brazil's International Relations (year-section scholarly historical synthesis)",
+        "url": "https://www.researchgate.net/profile/Eugenio-Garcia-4/publication/335893373_Cronologia_das_Relacoes_Internacionais_do_Brasil/links/5d82a80092851ceb791410f4/Cronologia-das-Relacoes-Internacionais-do-Brasil.pdf",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Superior Electoral Court (TSE), 2018 presidential election second-round official total",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2018/Outubro/eleicoes-2018-justica-eleitoral-conclui-totalizacao-dos-votos-do-segundo-turno",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Ministry of Foreign Affairs, Special Crisis Group repatriation, 19 March 2020",
+        "url": "https://www.gov.br/pt-br/noticias/assistencia-social/2020/03/itamaraty-cria-grupo-especial-de-crise-para-auxiliar-brasileiros-impedidos-de-voltar-ao-brasil",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UN, Rio+20 conference 2012",
+        "url": "https://www.un.org/en/conferences/environment/rio2012",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Ministry of Foreign Affairs, Amazon Summit 2023 Belém Declaration",
+        "url": "https://www.gov.br/funag/pt-br/centrais-de-conteudo/politica-externa-brasileira/adocao-da-declaracao-de-belem-pelos-presidentes-dos-estados-partes-no-tratado-de-cooperacao-amazonica",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Turkey Ministry of Foreign Affairs, original 2010 Tehran Declaration",
+        "url": "https://www.mfa.gov.tr/17_05_2010-joint-declaration-of-the-ministers-of-foreign-affairs-of-turkey_-iran-and-brazil_.en.mfa",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "WTO Ministerial Declaration on TRIPS and Public Health, adopted 2001-11-14",
+        "url": "https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "India-Brazil-South Africa Dialogue Forum, Brasília Declaration 2003 official South African government",
+        "url": "https://www.gov.za/issues/india-brazil-south-africa-ibsa-dialogue-forum",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "UNFCCC Kyoto Protocol 1997 COP3 Decisions",
+        "url": "https://unfccc.int/process-and-meetings/conferences/past-conferences/kyoto-climate-change-conference-december-1997/decisions-kyoto-climate-change-conference-december-1997",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "EU-LAC foundation archive, EU-Brazil Summit Council joint declaration 2007-07-04",
+        "url": "https://eulacfoundation.org/en/i-eu-brazil-summit-joint-statement-lisbon-4-july-2007",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Planalto Decreto 6108 2007 efavirenz compulsory license",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6108.htm",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Presidency presidential travel records 2006, Abuja Africa South America summit",
+        "url": "https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/luiz-inacio-lula-da-silva/viagens/viagens-1",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Itamaraty Concordia UNASUR Treaty signed 2008-05-23",
+        "url": "https://concordia.itamaraty.gov.br/acordo/11347?TipoAcordo=BL&TituloAcordo=UNASUL&tipoPesquisa=2",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "BRICS Brazil previous summits official archive 2009",
+        "url": "https://brics.br/pt-br/sobre-o-brics/cupulas-anteriores",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "India Government official BRICS Sanya Declaration 2011-04-14",
+        "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=71629",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "BRICS Brasil 2025 presidency official note 2025-01-01",
+        "url": "https://brics.br/pt-br/noticias/brasil-assume-a-presidencia-do-brics-em-2025",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil federal government Amazon 2023 Belem Declaration",
+        "url": "https://agenciagov.ebc.com.br/noticias/202308/adocao-da-declaracao-de-belem-pelos-presidentes-dos-estados-partes-no-tratado-de-cooperacao-amazonica",
+        "accessed_at": "2026-11-11"
+      },
+      {
+        "name": "Brazil Senado impeachment 2016 formal decision",
+        "url": "https://legis.senado.leg.br/norma/562339/publicacao/15634840",
+        "accessed_at": "2026-11-11"
+      }
+    ]
+  }
+}
