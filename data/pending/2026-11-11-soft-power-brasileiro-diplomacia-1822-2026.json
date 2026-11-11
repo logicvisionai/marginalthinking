@@ -52,7 +52,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 6,
+  "revision": 7,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -124,12 +124,12 @@
   },
   "producer_checks": {
     "information_cutoff": "As of 2026-11-11 BRT. Brand Finance published 2026-06-12; surveyed more than 150,000 respondents from more than 100 countries; 193 UN member states assessed against 55 metrics. EU–Mercosur signature 2026-01-17 and provisional trade application 2026-05-01 distinguished; 1833 Malvinas recognition is explicitly marked as a retrospective scholarly attribution lacking dated Brazilian dispatch.",
-    "source_check": "Primary UN elected membership list verifies all 11 start years; Garcia 2009 year-organized secondary historical synthesis confirms dated 1976 new African embassies, 1989 Suriname/Guyana head-of-state visits and 2007 Brazil–EU Strategic Partnership/compulsory efavirenz license. Other years remain sourced by year sections with limitations and original/legal acts for particularly contested cases. QA must audit traceability rather than presuming all 205 assertions verified.",
-    "historical_method": "Year by year chronology includes 205 dated entries 1822–2026. Revision 6 narrows 1976, 1989, 2007 entries to directly dated events from Garcia: 1976 6 embassies in Africa opened 5 Jan; 1989 Sarney's first presidential visits to Suriname/Guyana Mar 2–4; 2007 first Brazil–EU Summit established strategic partnership July4 and efavirenz compulsory license May4. Does not assert causal influence of these events absent evidence. 1833 retrospective territorial-rights attribution explicitly distinguished from contemporary note.",
+    "source_check": "205 annual entries remain bilingual with year-specific citations. Revision 7 corrects three independent QA mismatches: 1997 links UNFCCC COP3 Kyoto decision 1/CP.3; 2003 links South African government launch of IBSA and Brasilia Declaration June6; 2007 links EU Council joint statement July4 and Brazilian Decree 6108 May4. Additionally replaced 12 broadly or wrongly sourced entries (2001, 2005, 2006, 2008, 2009, 2011, 2012, 2013, 2016, 2022, 2023, 2025) with dated events supported by specific primary/official materials. Additional details of archival source limitations remain acknowledged.",
+    "historical_method": "Revision 7 deliberately narrows broad interpretive annual claims to checkable source-specific dates and distinguishes signed treaties from effective entry into force, event hosting from outcomes, and roles without veto from realized influence. Garcia year-organized scholarly chronology complements—not substitutes for—official primary material.",
     "argument_continuity": "Historical phases compare visibility, attraction, access and demonstrated influence; separates colonial/imperia coercion from later soft power, democratic legitimacy from pragmatic autonomy, climate summits from achieved implementation, and culture from market and diplomacy outcomes.",
     "visual_evidence": "Two quantitative charts in EN/PT now both use additive COUNT data from official UN historical membership list: first 11 mandate starts by decade [1,2,2,0,1,2,1,1,1], second same 11 terms allocated to equal-duration 40-year windows [5,6], years explicitly enumerated. Second is not an ordinal rank bar. Two tables, one flow and one geographic map also present. Brand Finance ranks 11/29/33/43 remain only in comparison table with explicit noncardinal survey interpretation.",
-    "bilingual_parity": "EN and PT each 205 annual entries, same two count-based chart sequences [1,2,2,0,1,2,1,1,1] and [5,6], two evidence tables, one flow, one map, same 1976/1989/2007 specific events and 1833 caveat.",
-    "editorial_status": "Revision 6 staged after independent QA rev5 rejected ordinal-bar misencoding and broad historical inferences. No approved snapshot or public report exists; requires independent review."
+    "bilingual_parity": "205 annual entries each; same 15 materially edited year-specific claims in both languages; paired evidence URLs identical, 2 quantitative count charts [1,2,2,0,1,2,1,1,1] [5,6], 2 tables, 1 flow and 1 map per language. Cross-language wordings equivalent.",
+    "editorial_status": "Revision 7 staged following independent rev6 QA rejection for exactly 1997,2003,2007 source mismatches; no approval exists and no public report created. Awaiting independent review with SHA check."
   },
   "contrary_evidence": [
     "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
@@ -158,7 +158,8 @@
     "The 1833 attribution regarding Argentine rights to the Malvinas remains a retrospective scholarly assertion, without independently located contemporaneous dated Brazilian recognition note.",
     "The two charts derive from the same UN 11-term institutional-access series using different aggregation windows and should not be treated as independent observations or effect estimates.",
     "The comparison across two 40-year windows is descriptive and not a causal estimate of democratic transition.",
-    "Revision 6 remains unpublished pending independent QA and authorized public promotion."
+    "Year citations include multiple official publications and a reference historian; despite revisions, not every interpretive clause has a separate causal identification study.",
+    "Revision 7 remains staged and unpublished until independent QA approval with current source and pending blob hashes."
   ],
   "evidence_sources": [
     {
@@ -459,6 +460,66 @@
     {
       "name": "Turkey Ministry of Foreign Affairs, original 2010 Tehran Declaration",
       "url": "https://www.mfa.gov.tr/17_05_2010-joint-declaration-of-the-ministers-of-foreign-affairs-of-turkey_-iran-and-brazil_.en.mfa",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "WTO Ministerial Declaration on TRIPS and Public Health, adopted 2001-11-14",
+      "url": "https://www.wto.org/english/thewto_e/minist_e/min01_e/mindecl_trips_e.htm",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "India-Brazil-South Africa Dialogue Forum, Brasília Declaration 2003 official South African government",
+      "url": "https://www.gov.za/issues/india-brazil-south-africa-ibsa-dialogue-forum",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "UNFCCC Kyoto Protocol 1997 COP3 Decisions",
+      "url": "https://unfccc.int/process-and-meetings/conferences/past-conferences/kyoto-climate-change-conference-december-1997/decisions-kyoto-climate-change-conference-december-1997",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "EU-LAC foundation archive, EU-Brazil Summit Council joint declaration 2007-07-04",
+      "url": "https://eulacfoundation.org/en/i-eu-brazil-summit-joint-statement-lisbon-4-july-2007",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Planalto Decreto 6108 2007 efavirenz compulsory license",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6108.htm",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil Presidency presidential travel records 2006, Abuja Africa South America summit",
+      "url": "https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/luiz-inacio-lula-da-silva/viagens/viagens-1",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Itamaraty Concordia UNASUR Treaty signed 2008-05-23",
+      "url": "https://concordia.itamaraty.gov.br/acordo/11347?TipoAcordo=BL&TituloAcordo=UNASUL&tipoPesquisa=2",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "BRICS Brazil previous summits official archive 2009",
+      "url": "https://brics.br/pt-br/sobre-o-brics/cupulas-anteriores",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "India Government official BRICS Sanya Declaration 2011-04-14",
+      "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=71629",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "BRICS Brasil 2025 presidency official note 2025-01-01",
+      "url": "https://brics.br/pt-br/noticias/brasil-assume-a-presidencia-do-brics-em-2025",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil federal government Amazon 2023 Belem Declaration",
+      "url": "https://agenciagov.ebc.com.br/noticias/202308/adocao-da-declaracao-de-belem-pelos-presidentes-dos-estados-partes-no-tratado-de-cooperacao-amazonica",
+      "accessed_at": "2026-11-11"
+    },
+    {
+      "name": "Brazil Senado impeachment 2016 formal decision",
+      "url": "https://legis.senado.leg.br/norma/562339/publicacao/15634840",
       "accessed_at": "2026-11-11"
     }
   ]
