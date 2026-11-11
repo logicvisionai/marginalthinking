@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "id": "MT-ACC-2026-11-11-AGE-OF-DISINTEREST",
-  "revision": 0,
+  "revision": 1,
   "qa_status": "approved",
-  "reviewed_at": "2026-11-11T12:28:47.560Z",
-  "reviewed_commit": "4ee06460cdbc0b87361de6c7a92157e9ed79c80f",
-  "pending_blob_sha": "97ca286dd1a01099d998e5340e302b8a8512c979",
+  "reviewed_at": "2026-11-11T12:34:07.873Z",
+  "reviewed_commit": "146233ba5fed269b5ee7065c4af12851d64c6811",
+  "pending_blob_sha": "8afcc6710b2c70fa090cc9580d97a1946d2d8d4d",
   "source_blob_shas": {
-    "en": "5f51d28f6854e99473ca1938dd8d519254d5ddda",
-    "pt-BR": "3d05634f596a41db2c14654a26dcc419afbea843"
+    "en": "53534656a0e2a0b8a55506da613d8e7fffd91cef",
+    "pt-BR": "e6e0665852862d59668c3cb07a87096ec1383409"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -40,15 +40,15 @@
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Two quantitative PISA 2025 bar charts per language; two comparison tables; one causal flow with a positive feedback alternative. All chart figures match OECD Brazil country note; multilingual visual content is semantically equivalent."
+      "summary": "Verified against the actual scripts/validate-editorial-depth.mjs gate: EN and PT-BR each have 2 chart fences, 1 causal flow, 1 map fence, and at least 3 Markdown table lines. Both maps compare Brazil/PISA, United States/university tutoring trials and World/ILO occupational exposure, with identical quantitative claims and methodological cautions. No invented locations or quantitative values."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "Both editions have 17 matching numbered analytical sections, 16 references, matching chart values 28/65 and 16/24, corresponding comparative tables and causal diagrams, shared uncertainty statements and conclusions."
+      "summary": "Revision 1 preserves 17 parallel substantive sections, two matched charts, tables and causal mechanism. New geographically framed evidence map uses matching areas, source attribution and scope limitations in EN/PT."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "No placeholders or conversational instructions in manuscripts. Manuscript remains a finished research article. Kind accelerationism-systems-research is registered in technology-production-society. Review bound to exact SHA triplet."
+      "summary": "Exact failure from GitHub Actions run 43020948365 reviewed and corrected with a meaningful geographic evidence map in both editions. No unsourced additions; published bundle must be promoted with revised SHA-bound approval and matched pending revision 1."
     }
   },
   "contrary_evidence": [
@@ -57,18 +57,18 @@
     "Education remains associated with substantial earnings premiums; occupational task exposure is not observed mass unemployment."
   ],
   "limitations": [
-    "Full repository-local npm validation and build could not be run because github.com DNS is unavailable in the execution container; GitHub Actions validation remains a separate production gate.",
     "Source cross-check covers central numerical and causal claims; not every historical bibliographic entry was independently recovered in full text.",
     "One central negative educational trial is an October 2026 working paper, not a peer-reviewed settled consensus.",
-    "Metaphor of a technological Dark Age is a falsifiable conditional scenario, not a verified present event or deterministic forecast."
+    "Metaphor of a technological Dark Age is a falsifiable conditional scenario, not a verified present event or deterministic forecast.",
+    "Previous CI (run 43020948365) failed the visual map requirement; updated draft now satisfies the inspected validator's static visual criteria but still requires a fresh GitHub Actions validation."
   ],
-  "notes": "QA performed as a separate current-turn audit after manuscript creation, triggered via existing QA automation. Reviewed source and pending blobs were unchanged. Approval does not imply public deployment.",
+  "notes": "Revision 1 QA: verified original data and interpretation unchanged; reviewed the newly added source-grounded map cards in both locales. Original build failure (missing map) corrected; source SHA binding refreshed. Existing public revision 0 requires publisher promotion.",
   "publication": {
     "schema_version": 2,
     "ready": true,
     "id": "MT-ACC-2026-11-11-AGE-OF-DISINTEREST",
     "slug": "2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia",
-    "revision": 0,
+    "revision": 1,
     "date": "2026-11-11",
     "published_at": "2026-11-11T08:36:00-03:00",
     "kind": "accelerationism-systems-research",
@@ -208,13 +208,19 @@
     ],
     "producer_checks": {
       "content_depth": "EN roughly 5,877 whitespace-delimited words, PT-BR roughly 6,175; 17 substantive analytical sections plus references in both locales.",
-      "bilingual_visuals": "Two source-based PISA 2025 charts (minimum mathematics proficiency; school perceived as waste of time), two comparable tables, and a causal flow in both locales.",
+      "bilingual_visuals": "Two source-based bar charts, two comparable evidence tables, a causal flow and a geographic comparison map per locale; same three map areas, measures and cautions.",
       "sources": "16 numbered primary or institutional references in each language, covering OECD, UNESCO, ILO, IMF, Stanford, NBER, Microsoft Research, peer-reviewed educational trial and a 2026 working paper; classical works listed separately.",
       "source_date": "Historical bibliographic references differentiated from 2024–2026 empirical evidence. PISA 2025 released September 2026, tutoring negative trial October 2026.",
       "falsification": "Explicit disconfirming evidence for the technological-dark-age hypothesis and three conditional 2027–2040 pathways.",
       "images": "No unverified illustrations or decorative imagery.",
       "independent_qa_required": true,
-      "staging_only": true
-    }
+      "staging_only": true,
+      "revision_validation": "Corrects exact failure observed in GitHub Actions 43020948365: research visual evidence budget missing (map required), without modifying earlier source figures."
+    },
+    "revision_reason": "Restore the required geographic visual-evidence map after production validation identified a missing map in the original approved report. No changes to quantitative claims or interpretation.",
+    "qa_fixes_applied": [
+      "Added the source-grounded geography comparison map to both EN/PT editions, respecting the existing map visual grammar and the same three comparison units.",
+      "Restated inference limits: PISA cannot establish an AI effect; university experiments are not nationally representative; occupational exposure is not displacement."
+    ]
   }
 }
