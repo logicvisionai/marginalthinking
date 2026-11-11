@@ -461,3 +461,229 @@ The episode highlights the difference between issuing securities for a governmen
 Green preserved liquidity and often acquired assets during market panics when others needed cash. Patience gave her bargaining power, but it did not make her immune to legal and family disputes. Her marriage to **Edward Green** made the separation of personal assets and marital obligations particularly important.
 
 The press portrayed her as the **“Witch of Wall Street,”** amplifying stories about frugality through stereotypes directed at powerful women. Some anecdotes are difficult to establish independently. Green's financial significance lies in managing investments and lending on her own terms at a time when women encountered substantial barriers to the world of finance. Her career produced personal wealth, not a direct analogue of the Rothschild international banking partnership.
+
+
+## Part IX — Second-generation Wall Street: immigrants, banks and corporate securities
+
+### 50. Marcus Goldman and Samuel Sachs: commercial paper becomes an investment house
+
+**Marcus Goldman** (1821–1904), a German immigrant to the United States, started a commercial-paper business in **1869**. Discounting short-term business obligations provided liquidity to merchants who did not want to wait until their customers' bills matured. **Samuel Sachs** (1851–1935), his son-in-law, joined the enterprise, and their family connection became reflected in the name **Goldman Sachs**.
+
+The firm was built through practical credit evaluation, relationships with customers and a growing distribution network. As American industrial companies required more working capital, the trade in commercial paper could scale beyond local moneylending. Investors assumed debtor risk, while intermediaries received fees and used reputation to facilitate placements.
+
+Subsequent generations transformed the business into a global financial corporation operating across securities, advisory services and asset management. The modern company's many shareholders and professional executives cannot be equated with the descendants of Marcus Goldman. Later regulatory controversies should be examined through their own decisions and institutions, not projected backward onto the founding family.
+
+### 51. Henry, Emanuel and Mayer Lehman: cotton, slavery and investment banking
+
+**Henry Lehman** (1822–1855), a German immigrant, founded a mercantile business in **Montgomery, Alabama**. His brothers **Emanuel** (1827–1907) and **Mayer Lehman** (1830–1897) joined the venture. Cotton trade connected their early enterprise to a Southern economy deeply dependent on enslaved labour. The financier's profits were inseparable from an agricultural market structured by force and unequal property rights.
+
+The company evolved from commodity commerce and trade credit into finance and securities activities, increasingly connected with New York markets. Legal emancipation, industrialization and the rise of large corporations changed its business model. The firm later carried a family name across generations even after ownership and management had passed far beyond the original kinship partnership.
+
+The **2008 failure of Lehman Brothers** resulted from the leverage, property-related exposures, short-term funding and loss of market confidence of the modern bank. The nineteenth-century brothers cannot be assigned personal responsibility for the 2008 balance sheet. Institutional continuity is an important chronology, not a substitute for identifying the people and decisions responsible for a particular crisis.
+
+### 52. Jacob Schiff and Kuhn, Loeb: railroad finance and international loans
+
+**Jacob H. Schiff** (1847–1920) was born in Frankfurt and emigrated to the United States, where he became a leading financier at **Kuhn, Loeb & Co.** His development combined European banking experience with the growing American railroad and securities markets.
+
+Schiff arranged or participated in finance for major transportation companies and international borrowers, including operations associated with Japan during the **Russo-Japanese War**. Government securities sold abroad could expand a state's capacity to wage war while creating future fiscal and foreign-currency obligations. The bank's role was to connect borrowers and investors, assess risk and negotiate terms.
+
+Schiff's Jewish heritage affected his experience as a migrant and his communal activities but does not explain all business decisions or imply collective religious command. Kuhn, Loeb, Morgan and Rothschild interests sometimes intersected, but their relationships also involved competition and differing clients. Each transaction requires documentary analysis rather than a claim of a single ethnic financial organization.
+
+### 53. Paul Warburg: European banking experience and the US Federal Reserve
+
+**Paul Warburg** (1868–1932), from a Hamburg banking family, worked in European finance before moving to the United States and joining **Kuhn, Loeb**. He brought comparative knowledge of banks, liquidity management and monetary systems to debates about reform of the fragmented American banking system.
+
+Following the **Panic of 1907**, Warburg advocated a more elastic supply of liquidity and arrangements capable of addressing banking stress. His arguments influenced discussions preceding the creation of the **Federal Reserve in 1913**. He was neither its sole designer nor its private owner. The [Federal Reserve's legislative history](https://www.federalreservehistory.org/essays/federal-reserve-act-signed) shows the compromises among Congress, government, banks and competing visions of public control.
+
+Warburg illustrates how an individual financier can influence institutional design through experience and argument without acquiring sovereign authority. Some interests of private banks may align with public financial stability while diverging on competition, supervision and the allocation of costs.
+
+### 54. Andrew Mellon: banking, industry and the Treasury
+
+**Andrew W. Mellon** (1855–1937) grew up within a Pittsburgh family connected to banking and business. He learned finance through the family enterprise and invested in industrial activities, linking bank credit to the development and control of productive companies.
+
+The family's growth benefited from industrialization in energy, metals and related industries. Mellon later served as **US Treasury secretary from 1921 to 1932**, bringing a private-finance perspective to taxation and public debt. His public policies drew controversy over distribution, fiscal effects and the concentration of income and wealth.
+
+The Great Depression weakened the political standing of policies linked to his tenure. His family's corporate and philanthropic influence continued, demonstrating that a financier can lose legitimacy while retaining substantial assets and institutions beyond government service.
+
+## Part X — Banking when social structures obstruct access
+
+### 55. The Freedman's Savings Bank and Frederick Douglass: deposits without protection
+
+The **Freedman's Savings and Trust Company** was established in **1865** to serve primarily people recently freed from slavery in the United States. Legal emancipation was not accompanied by equal access to land, credit or public services. Deposits represented hard-earned wages and the possibility of acquiring property.
+
+Although created by federal legislation, the institution's deposits were **not guaranteed by the federal government**, a distinction many customers did not appreciate. Poor governance, risky investments and the financial disturbances of **1873** damaged its balance sheet. The [US National Archives](https://www.archives.gov/research/african-americans/freedmans-bank.html) holds deposit records that preserve the names and family histories of people often absent from elite financial accounts.
+
+**Frederick Douglass** (1817/1818–1895), the formerly enslaved abolitionist and public intellectual, accepted the bank's presidency in **1874** when its condition was already gravely compromised. His public reputation could not reverse the losses, and he was not the original architect of the transactions that had ruined the institution.
+
+The closure destroyed savings and damaged confidence in financial organizations serving newly free communities. It reveals how weak governance can impose exceptionally severe losses on savers with few alternatives.
+
+### 56. William Washington Browne: the True Reformers Bank
+
+**William Washington Browne** (1849–1897) was born enslaved and became a religious and community organizer after emancipation. He developed the **United Order of True Reformers** as a network offering mutual protection, insurance and opportunities for independent Black enterprise.
+
+In **1888**, the organization's bank opened in Richmond, Virginia, becoming a pioneering formally chartered Black-owned financial institution. Small savings and community knowledge could be transformed into lending where mainstream banks refused or restricted service. The model required effective underwriting, accounting and loan collection, not merely solidarity.
+
+Browne's death in **1897** removed an important leader. Later management problems undermined the bank, which ceased operating in **1910**. The outcome should not be projected uncritically onto the founder, who did not direct the later failures. The institution demonstrated both the potential of cooperative financial organization and the vulnerability of a business dependent on a small circle of trusted leaders.
+
+### 57. Maggie Lena Walker: savings, housing and women's economic power
+
+**Maggie Lena Walker** (1864–1934) grew up in Richmond, Virginia, as the daughter of a woman who had been enslaved. After teaching and participating in the **Independent Order of St. Luke**, a mutual-aid association, she developed plans for a newspaper, community businesses and a bank that could serve people excluded from conventional credit.
+
+The **St. Luke Penny Savings Bank** opened on **2 November 1903**. Walker prepared for the role by studying bank procedures at another Richmond institution for **two hours each day** before opening. The [National Park Service](https://www.nps.gov/mawa/the-st-luke-penny-savings-bank.htm) documents staffing, governance, share issuance and the bank's early operations. Her education combined schooling, years of association management and practical study rather than an invented university finance credential.
+
+The bank accepted small deposits and made home loans to customers traditionally ignored by other lenders. The [Federal Reserve Bank of Richmond](https://www.richmondfed.org/publications/research/econ_focus/2022/q4_economic_history) describes lower initial mortgage payments, refinancings and community-based borrower assessment. Local knowledge could reduce information problems but did not eliminate defaults or the need for collection.
+
+@@@chart
+type: bar
+title: St. Luke Penny Savings Bank assets in selected years — unadjusted nominal US dollars
+unit: nominal USD
+1904 | 37870
+1910 | 120813
+1920 | 529883
+@@@
+
+The observations represent asset stocks on selected dates, not annual profit, Walker's personal fortune or a complete growth series. They cannot establish real growth without appropriate price adjustment or alone prove the quality of every loan.
+
+During the Great Depression, Walker helped merge three Black-owned Richmond banks into **Consolidated Bank and Trust in 1930**, preserving an important institution under difficult conditions. She died in 1934. Her lasting contribution was to create financial access, housing opportunities and positions of responsibility for people facing segregation and discrimination.
+
+## Part XI — Brazil: industry, banks and financial families
+
+### 58. Irineu Evangelista de Sousa, Viscount of Mauá: education through commerce
+
+**Irineu Evangelista de Sousa** (1813–1889), later Baron and Viscount of Mauá, was born in southern Brazil and moved to Rio de Janeiro while still young. He worked as a commercial clerk and gained experience with importers and businesses associated with **Richard Carruthers**. His education was practical: accounting, trading, contracts and exposure to foreign markets rather than modern finance and engineering degrees.
+
+Travel to Europe in **1840** exposed him to mechanization, railroads and industrial capital. He subsequently invested in infrastructure and industrial projects in an economy still deeply shaped by agricultural exports, slavery and limited domestic financial markets.
+
+Mauá developed the **Ponta da Areia** foundry and shipyard and participated in gas lighting, steam navigation, railroads and urban services. These required imported machinery, skilled labour and large up-front investment against uncertain future revenue. The [Brazilian Historical and Geographical Institute](https://atom.ihgb.org.br/atom/index.php/visconde-de-maua-irineu-evangelista-de-souza) preserves his personal archive and biographical documentation.
+
+### 59. Mauá: banks, regional expansion and the crisis of 1875
+
+In **1851**, Mauá helped establish the **Banco do Comércio e da Indústria do Brasil**, linked to a period of institutional experimentation and public authorization of banking. The legal structure of Brazilian corporations imposed government approval, making finance inseparable from political negotiations.
+
+The **Mauá, MacGregor & Co.** business, formed in **1854**, expanded activity in Brazil and neighbouring South American markets. International operations created opportunities in payments and commerce while exposing the company to wars, monetary instability and sovereign decisions. Long-term industrial assets could be valuable but difficult to sell quickly when creditors demanded cash.
+
+From the 1860s, adverse conditions, debt burdens and business difficulties accumulated. The crisis and liquidation of **Mauá & Co. in 1875** cannot be assigned only to enemies conspiring against an industrial visionary, nor explained simply as personal incompetence. Liquidity mismatches, fragile financial markets, wars and government regulation interacted.
+
+Mauá continued efforts to settle his affairs and defend his reputation before dying in 1889. His legacy combines executed works, industrial ambition, significant financial losses and the limits of financing modernization in a society with concentrated ownership and narrow credit markets.
+
+### 60. Walter Moreira Salles: coffee, foreign exchange and Unibanco
+
+**João Moreira Salles** developed commerce and finance tied to Brazilian coffee production. His son **Walter Moreira Salles** (1912–2001) gained experience within the family business and helped build a broader banking enterprise while also pursuing a diplomatic career.
+
+The **Casa Bancária Moreira Salles** and successor institutions developed from commodity-linked clients into national financial services. Coffee supplied business relationships and foreign-exchange activity but also exposed lenders to world prices and Brazilian currency conditions. Expanding beyond agriculture required new depositors, technology, branches and diversified credit.
+
+Successive mergers contributed to the formation of **Unibanco**. Walter's son **Pedro Moreira Salles** later became an important executive. The **2008 merger with Itaú** ended the separate corporate existence of the two organizations and created another structure of family shareholdings and professional management. A common family role should not be confused with exclusive personal ownership of all bank assets.
+
+### 61. Alfredo Egydio de Souza Aranha, Eudoro Villela and Olavo Setubal: the Itaú group
+
+**Alfredo Egydio de Souza Aranha** (1894–1961) and partners launched the **Banco Central de Crédito**, which opened in **1945**. **Eudoro Villela** (1908–2001) was associated with the families and businesses that contributed to the group's development. Over decades, mergers, new products and acquisitions made regional banking activities into a major Brazilian financial enterprise.
+
+**Olavo Egydio Setubal** (1923–2008) studied engineering at the **University of São Paulo** and developed industrial and financial experience. His technical training became valuable in banking increasingly reliant on branch networks, information processing and modern administration.
+
+Setubal played major roles in the bank's expansion and held public office, including mayor of São Paulo and Brazil's foreign minister. Public appointments and private enterprise can create channels of influence, but concrete conflicts must be identified through actions and contracts rather than assumed from overlapping careers.
+
+Brazil's years of high inflation rewarded expertise in liquidity, payment timing and the management of short-term balances. Stabilization and competition subsequently transformed the business model. The **2008 creation of Itaú Unibanco** joined financial networks at a new scale; it did not preserve unchanged the company founded in 1945.
+
+### 62. The Safra family: Middle Eastern merchant roots and Brazilian banking
+
+The **Safra** family traces merchant and financial traditions through cities including **Aleppo**. Modern members developed banking businesses through the Middle East and eventually Brazil. Historical household networks should not be treated as legally identical to every subsequent bank established by descendants.
+
+**Joseph Safra** (1938–2020), born in Beirut, worked with relatives in Brazilian banking and helped develop a major business in commercial credit, deposits and wealth services. His formation was rooted in family operations and practical banking, rather than in an unsupported modern university qualification.
+
+The organization's public identity emphasized prudence and capital preservation. That approach can permit lending when competitors retrench, though its strength must be assessed in accounts, capital ratios and loan quality rather than advertising. International growth required professional teams, regulators and contracts extending beyond family relationships.
+
+Joseph married **Vicky Safra**, and they had four children. His death in 2020 raised questions of succession, corporate interests and inheritance. Legal disputes involving relatives do not permit speculation that any individual automatically controls every family-related company. The [Safra institutional history](https://www.safra.com.br/sobre/nossa-historia/joseph-safra.htm) provides a chronology that must be distinguished from independent examination of current ownership.
+
+### 63. Brazilian investment platforms: Benchimol, Esteves and changing distribution
+
+Brazilian financial intermediation changed with stabilization, greater use of securities and digital distribution. Banks no longer exclusively controlled the interface through which individual savers accessed funds, government bonds or corporate instruments.
+
+**Guilherme Benchimol** and colleagues founded **XP in 2001**, developing an investment distribution platform with training, independent agents and acquisitions. Commercial scale increased as investors sought products outside traditional bank deposits. Customer assets held or managed through the platform are not the founder's personal property.
+
+**André Esteves** built a career in investment banking at **Pactual** and in the institution that became **BTG Pactual**, emphasizing securities, corporate finance, asset management and wholesale banking. His public career also included legal controversies and a **2015 detention** in an investigation, followed by judicial decisions and changes in his institutional position. Allegations, criminal liability and final decisions must remain distinct.
+
+Technology can widen access and lower transaction costs while creating risks of product suitability, custody, liquidity and conflicts over commissions. A platform that distributes securities is different from a bank lending from deposits or a fund owning assets on behalf of investors.
+
+## Part XII — Twentieth-century finance becomes investment science
+
+### 64. Benjamin Graham and David Dodd: separating price from value
+
+**Benjamin Graham** (1894–1976) was born in London and grew up in New York, where his family encountered financial difficulties. He studied at **Columbia University**, worked in finance and lived through the crash of 1929 and its consequences. Experience with large market losses encouraged him to prioritize safety margins and conservatively assessed business value.
+
+**David Dodd** (1885–1988), also a Columbia professor, developed systematic security analysis with Graham. Their **1934 book *Security Analysis*** argued that equities and bonds should be evaluated through assets, income, debt and prospective cash flows rather than short-term market enthusiasm. [Columbia Business School](https://business.columbia.edu/heilbrunn/about/valueinvestinghistory) documents their role in the formation of value investing.
+
+A **margin of safety** reduces dependence on precise forecasts. But accounting assets can be overstated, cheap businesses can deteriorate, and innovative companies can be difficult to value using historical book values. The method was a discipline of reasoning under uncertainty, not a formula eliminating risk.
+
+Graham's **The Intelligent Investor (1949)** extended his influence. His intellectual descendants, including **Warren Buffett**, adapted the framework rather than applying every early technique unchanged.
+
+### 65. Philip Fisher: growth, management and business intelligence
+
+**Philip A. Fisher** (1907–2004) became known for analysing companies through management quality, competitive position, innovation and long-term prospects. His investment career in California placed him close to evolving industrial and technology businesses.
+
+In ***Common Stocks and Uncommon Profits* (1958)**, Fisher advocated investigating a company's wider network of suppliers, customers and competitors rather than relying exclusively on financial statements. Such inquiries could reveal business strengths, but also create risks of mistaken testimony and selective anecdotes.
+
+Fisher's approach complemented Graham's value discipline: a company could justify a higher valuation if it generated durable returns and growth, but no business was attractive at every possible price. His son **Kenneth Fisher** later founded a different asset-management enterprise; inheritance of investment ideas is not necessarily continuity of the same legal firm.
+
+### 66. John Templeton: global value investing
+
+**John Marks Templeton** (1912–2008) was born in Tennessee, studied at **Yale** and later **Oxford** as a Rhodes Scholar. Education and international experience encouraged him to examine companies beyond American markets.
+
+His **Templeton Growth Fund**, launched in **1954**, became associated with buying securities in different countries when valuations appeared low relative to prospects. Global investing improved access to opportunities and diversification, while adding currency, accounting, legal and political risks.
+
+A company's fundamental value remains uncertain, and investing in a foreign jurisdiction does not make a cheap asset safe. Templeton's philanthropic work later developed institutions supporting science and religion. His investment business evolved under new corporate ownership, demonstrating how a strategy may survive after its founder's direct control ends.
+
+### 67. Warren Buffett: education and an early partnership model
+
+**Warren Buffett** (born 1930 in Omaha) grew up in a household connected to financial markets through his father **Howard Buffett**, a stockbroker and politician. Warren studied at the **University of Nebraska** and **Columbia Business School**, where **Benjamin Graham** strongly influenced him.
+
+From **1956**, Buffett managed investment partnerships that pursued securities priced below their conservatively assessed worth, including special situations. The partnerships linked investors' capital to his analysis and compensation arrangements. As the sums under management increased, strategies based on small neglected companies became harder to pursue at meaningful scale.
+
+Buffett acquired control of **Berkshire Hathaway**, then a textile company. Textiles eventually proved structurally difficult, and the company became a vehicle for allocating capital into other businesses. The name survived while the economic activity generating most of the later fortune changed fundamentally.
+
+### 68. Buffett and Charlie Munger: insurers, float and permanent capital
+
+**Charlie Munger** (1924–2023) grew up in Omaha, studied law at **Harvard** and developed careers in law and investment before becoming Buffett's close partner and vice-chairman at Berkshire. He emphasized management quality, incentives, durable competitive advantages and opportunity cost.
+
+Insurance became central to Berkshire's capital model. Insurers receive premiums before paying some claims, creating funds known as **float**. The apparent financial advantage depends on disciplined underwriting and the duty to meet policyholders' obligations; the float is not an unrestricted gift to shareholders.
+
+Berkshire acquired businesses in insurance, transport, energy, retail and industry while investing in listed firms. Buffett and Munger delegated many operating decisions but retained authority over major capital allocation. The structure reduced some management costs while requiring exceptional judgement in selecting businesses and executives.
+
+The company's scale also created constraints: investments that could transform a small portfolio often became immaterial in a gigantic one. In **2026**, **Greg Abel** assumed the CEO role, beginning a major executive succession after Buffett's decades of leadership. Institutional strength will be tested by the ability to preserve discipline without the personal presence of the founder-like figure who defined the company.
+
+### 69. Edward C. Johnson II, Edward III and Abigail Johnson: the Fidelity family
+
+**Edward C. Johnson II** (1898–1984) established **Fidelity Management & Research Company in 1946**, contributing to the expansion of professionally managed investment funds. The organization pooled money from investors and charged fees for investment and related services; its founders did not personally own every security held by those funds.
+
+**Edward C. Johnson III** (1930–2022) expanded product offerings, research, distribution and technology. Fidelity grew alongside American household savings and the mutual fund industry. An important organizational challenge was to retain clients through market cycles without making promises of performance that could not be guaranteed.
+
+His daughter **Abigail Johnson** (born 1961) studied at **Hobart and William Smith Colleges** and earned an MBA from **Harvard Business School**. She worked in investment analysis and management before becoming a leading executive. Succession thus combined family control with a professional career in a large and regulated organization.
+
+The family had to respond to passive investing and fee compression. A controlling shareholder of the asset manager possesses different rights from clients who own fund units; the company's wealth and the securities of its customers must be distinguished.
+
+### 70. Peter Lynch: Magellan and the challenge of success at scale
+
+**Peter Lynch** (born 1944) studied at **Boston College** and **Wharton**. He managed Fidelity's **Magellan Fund between 1977 and 1990**. The [Fidelity historical fact sheet](https://www.fidelity.com/myfidelity/InsideFidelity/NewsCenter/quickFacts/Magellan.html) records its growth from approximately US$20 million at the start of his tenure to a much larger portfolio by his departure. The [Museum of American Finance](https://www.moaf.org/about/people/peter-lynch) documents the outstanding historical returns.
+
+Lynch combined company research with observation of products and markets. Recognizing a popular product can generate an investment question, but it cannot replace evaluation of debt, profitability and valuation. His broad portfolio also required research infrastructure and controls far beyond the capacities of a small individual investor.
+
+Growth itself reduced flexibility. A large mutual fund cannot acquire meaningful stakes in small companies without changing prices. Lynch left direct portfolio management in 1990 and concentrated on family and charitable activities. His returns belonged to a specific strategy and market period, not to a guarantee available to future customers.
+
+### 71. John C. Bogle: challenging the financial industry's fees
+
+**John Clifton Bogle** (1929–2019) grew up in New Jersey and studied at **Princeton**, where he examined the economics of mutual funds. He concluded that management charges, distribution commissions and portfolio turnover could substantially reduce returns earned by investors.
+
+He established **Vanguard in 1975** and introduced the **First Index Investment Trust on 31 August 1976**, later known as the Vanguard 500 Index Fund. The [company's 2026 historical account](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/50-years-50-facts-indexing-since-1976.html) describes how indexing was initially dismissed by much of the financial industry.
+
+The economic principle was powerful: before costs, investors collectively own the market; after fees, their aggregate return is reduced by the resources paid to intermediaries. A low-cost index portfolio does not require identifying each winning stock in advance. The innovation was as much institutional and distributive as technical.
+
+The enormous growth of passive management later introduced new issues involving voting power, competition among managers and the construction of indices. Low fees do not remove market risk. Bogle's influence lay in making financial intermediation less expensive without claiming personal ownership of all client assets.
+
+### 72. David Swensen: universities and long-horizon portfolio management
+
+**David F. Swensen** (1954–2021) studied at the **University of Wisconsin–River Falls** and earned a doctorate in economics from **Yale in 1980**. His academic training included exposure to **James Tobin**, while later employment at Lehman Brothers and Salomon Brothers gave him practical experience in sophisticated financial instruments.
+
+In **1985**, Swensen became responsible for Yale's endowment. A university with predictable long-term needs can hold some assets that would be unsuitable for a daily-redeemable retail fund. He increased attention to private equity, venture capital, real assets and specialist external managers, while maintaining planning for spending, liquidity and risk.
+
+The approach became known as the **Yale Model**. [Yale School of Management](https://som.yale.edu/centers/swensen-asset-management-institute/overview) documents its impact on institutional investing. It cannot be reproduced simply by copying an allocation table: smaller funds may lack access to high-quality managers, analytical teams or sufficient liquidity buffers.
+
+Swensen died in 2021, leaving a professional system and a generation of trained managers. His achievement was to connect long-term financial returns with educational and research financing, not to accumulate a personal fortune equal to Yale's endowment.
