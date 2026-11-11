@@ -155,3 +155,136 @@ Sua carreira financeira envolveu litígios, e sua morte ocorreu em circunstânci
 Nos *Essays, Moral, Political, and Literary*, examinou dinheiro, juros e balança comercial. O mecanismo conhecido como **fluxo preço-espécie** descreve um ajuste possível sob padrões metálicos: entrada de ouro ou prata pode elevar preços relativos, reduzir competitividade externa e provocar saídas posteriores de metal. Trata-se de argumento sobre incentivos de comércio e pagamentos, não de garantia de que todo déficit se corrija rapidamente sem desemprego.
 
 Hume foi amigo e interlocutor de Adam Smith. Sua defesa de relações comerciais amplas contrastava com a ideia de que riqueza de uma nação exigia empobrecer outra. O legado permanece importante para a economia internacional, mas depende das instituições monetárias; no câmbio flutuante contemporâneo, o mesmo mecanismo metálico não se aplica literalmente.
+
+
+## III — A economia se torna ciência moral e política: fisiocratas e clássicos
+
+### 19. François Quesnay: o médico que descreveu a circulação econômica
+
+**François Quesnay** (1694–1774) nasceu em família de recursos modestos em território francês e construiu carreira como cirurgião e médico, chegando à corte de Luís XV. Sua educação foi inicialmente médica e científica, característica decisiva de seu pensamento econômico: procurava compreender a sociedade como conjunto de fluxos interdependentes, assim como o corpo depende da circulação.
+
+Seu **Tableau économique**, apresentado em 1758, descrevia a circulação de gastos e rendas entre grupos da sociedade, sobretudo proprietários, produtores agrícolas e atividades que considerava não geradoras de produto líquido. A agricultura ocupava posição privilegiada porque, para os fisiocratas, a terra produzia um excedente visível sobre os custos necessários para cultivá-la. Essa afirmação não corresponde à contabilidade moderna de valor adicionado, que reconhece produto em manufaturas e serviços.
+
+A proposta tinha implicação tributária: um imposto sobre o produto líquido da terra seria, em sua visão, preferível a múltiplas cobranças que restringiam comércio e agricultura. A organização econômica deveria respeitar uma suposta ordem natural, com liberdade relativa de preços e circulação. Os fisiocratas eram reformadores num Estado monárquico, não democratas liberais modernos.
+
+O auge intelectual de Quesnay veio do círculo de pensadores reunidos em torno da corte francesa, com influência em Turgot e nas discussões que Smith conheceu durante suas viagens. A fragilidade de sua teoria estava na separação rígida entre trabalho agrícola “produtivo” e manufatureiro “estéril”, incompatível com o crescimento industrial que se seguiria. O **Tableau**, no entanto, antecipou métodos de representação de fluxos e interdependências que reapareceriam em contabilidade nacional e modelos insumo-produto.
+
+### 20. Anne Robert Jacques Turgot: mercado, impostos e os limites políticos da reforma
+
+**Anne Robert Jacques Turgot** (1727–1781) nasceu em família ligada à administração francesa, estudou no ambiente intelectual e religioso de Paris e ingressou no serviço público. Tornou-se intendente de Limoges, onde lidou concretamente com tributação, obras, abastecimento e a condição de agricultores. A prática administrativa permitiu distinguir projetos de reforma de seus obstáculos locais.
+
+Nos escritos sobre formação e distribuição de riqueza e na atuação ministerial, examinou poupança, acumulação de capital, produtividade e comércio. A concepção de que investimento depende de recursos adiantados antes da produção já aparecia articulada em sua análise; a crítica a barreiras comerciais e corporações buscava reduzir custos e ampliar atividade econômica.
+
+Nomeado controlador-geral das finanças de Luís XVI em **1774**, tentou reformar tributos, restringir privilégios e liberalizar parcialmente o comércio de grãos. Más colheitas, dificuldades de abastecimento e resistência de grupos privilegiados produziram forte oposição. Turgot perdeu o cargo em **1776**. O episódio demonstra que uma reforma pode ser teoricamente coerente e politicamente inviável quando redistribui custos no curto prazo sem mecanismos de transição aceitos.
+
+Seu legado está na tensão entre liberdade econômica e capacidade de governo. Reformas de preços em mercados de alimentos não podem ignorar reservas, logística, renda dos consumidores e desigualdades de poder. A derrota ministerial não prova que todos os seus princípios eram equivocados, mas revela as limitações de tratá-los como mecanismos automáticos.
+
+### 21. Adam Smith: formação moral e a análise da riqueza nacional
+
+**Adam Smith** (1723–1790) nasceu em Kirkcaldy, na Escócia; seu pai morreu antes de seu nascimento e sua mãe, **Margaret Douglas**, teve papel central em sua educação e vida. Estudou na **Universidade de Glasgow** e depois em **Balliol College, Oxford**. Tornou-se professor de lógica e filosofia moral em Glasgow, onde analisava comportamento humano, jurisprudência e instituições sociais. A economia de Smith nasceu dentro da filosofia moral, não como disciplina isolada dos demais vínculos humanos.
+
+Em ***A teoria dos sentimentos morais* (1759)**, examinou simpatia, julgamento social e formação de normas. Os indivíduos não se limitavam a calculadoras de lucro; necessitavam de reconhecimento, autocontrole e confiança. A leitura que reduz Smith ao egoísmo universal ignora esse fundamento de sua obra.
+
+A viagem como tutor do jovem duque de Buccleuch aproximou Smith de debates franceses e dos fisiocratas. Em ***Uma investigação sobre a natureza e as causas da riqueza das nações* (1776)**, explicou que divisão do trabalho amplia produtividade mediante especialização, aprendizado e máquinas; a escala do mercado limita até onde a divisão pode avançar; a acumulação de capital permite sustentar trabalhadores e processos produtivos antes das vendas.
+
+O famoso exemplo da fábrica de alfinetes ilustrava ganhos de produtividade, mas não constituía uma série estatística nacional. Smith examinou tributos, comércio colonial, monopólios, companhias privilegiadas, bancos e educação. Criticou comerciantes que buscavam proteção estatal para elevar preços e restringir concorrência. Sua defesa de comércio mais livre não era uma defesa incondicional de todo poder empresarial.
+
+Em ***A riqueza das nações***, a expressão “mão invisível” tem contexto específico e não demonstra que todo mercado, em qualquer condição, produz o melhor resultado social possível. Smith reconhecia necessidade de justiça, defesa, certas obras públicas e educação; também examinou o efeito da especialização repetitiva sobre a capacidade intelectual de trabalhadores. Seu problema era explicar as instituições capazes de sustentar prosperidade, não abolir toda função estatal.
+
+Smith jamais se casou e viveu longamente com sua mãe, mas esses dados familiares não explicam isoladamente seu pensamento. A influência posterior foi imensa e contraditória: liberais, economistas institucionais e críticos do monopólio recorreram a partes diferentes de sua obra. Sua contribuição duradoura foi transformar produção, comércio e instituições em sistema analítico, sem separar completamente economia de ética.
+
+### 22. Thomas Robert Malthus: população, alimento e demanda insuficiente
+
+**Thomas Robert Malthus** (1766–1834) nasceu na Inglaterra em família instruída, filho de **Daniel Malthus**, próximo de círculos intelectuais iluministas. Estudou em **Jesus College, Cambridge**, foi ordenado sacerdote anglicano e tornou-se professor no East India Company College. Sua formação reunia matemática, moral, teologia e observação demográfica.
+
+No ***Ensaio sobre o princípio da população* (1798)**, argumentou que a tendência de crescimento populacional poderia superar a capacidade de ampliar alimentos se não existissem freios preventivos ou restrições materiais. A formulação célebre de progressão geométrica da população versus progressão aritmética dos alimentos foi uma abstração persuasiva, não lei demográfica observada de modo universal.
+
+A Revolução Industrial e as mudanças agrícolas posteriores mostraram que produtividade, comércio, transição demográfica, tecnologia e instituições podem alterar drasticamente a relação entre pessoas e alimentos. A obra de Malthus, entretanto, identificou a escassez de recursos e a interação entre reprodução, renda e subsistência como problemas centrais. Suas propostas sobre assistência aos pobres foram criticadas por atribuir peso excessivo a decisões individuais em situações estruturais de pobreza.
+
+Em ***Princípios de economia política* (1820)**, Malthus discutiu demanda efetiva e a possibilidade de insuficiência de gastos, contrapondo-se a interpretações segundo as quais produção gera automaticamente poder de compra suficiente. Sua interlocução e divergência com Ricardo antecederam questões que Keynes retomaria em outro ambiente institucional. Malthus teve esposa e filhos; seu percurso não pode ser reduzido à caricatura de um inimigo da população. Sua influência passou tanto pela demografia quanto pelo debate sobre crises de demanda.
+
+### 23. David Ricardo: o corretor que levou a distribuição de renda ao centro da teoria
+
+**David Ricardo** (1772–1823) nasceu em Londres numa família sefardita de origem holandesa; seu pai operava no mercado de títulos. Recebeu formação comercial e religiosa, aprendeu negócios com o pai e acumulou fortuna como operador de valores mobiliários. Casou-se com **Priscilla Anne Wilkinson**, união que provocou ruptura com parte da família por diferenças religiosas. Sua carreira intelectual começou depois de ter experiência prática extensa com preços, crédito e dívida pública.
+
+O contato com a obra de Smith estimulou pesquisas sobre moeda, comércio e distribuição. Em ***Princípios de economia política e tributação* (1817)**, Ricardo procurou explicar a divisão do produto entre salários, lucros e renda da terra, com atenção aos efeitos de escassez de terras férteis e elevação do preço de alimentos. A vantagem de proprietários de terras podia aumentar sem que sua contribuição produtiva crescesse na mesma proporção.
+
+Sua análise de **vantagem comparativa** mostrou por que dois países podem ganhar com especialização e comércio mesmo que um seja absolutamente mais produtivo em todos os bens, desde que as relações de custos relativos e termos de troca permitam ganhos. Isso não significa que toda liberalização seja automaticamente benéfica para todos os trabalhadores, indústrias ou regiões: a mobilidade de fatores, distribuição das perdas e mudança tecnológica condicionam resultados.
+
+Ricardo também participou da política, tornando-se membro do Parlamento. Sua defesa de alterações nas **Corn Laws** relacionava preço de alimentos, salários e lucratividade industrial. O legado foi uma teoria de relações distributivas e custos relativos com grande capacidade de abstração; limitações surgem da simplificação de setores, tecnologia e concorrência. Seu trabalho influenciou Marx, liberais de comércio e críticos posteriores da teoria do valor.
+
+### 24. Jean-Baptiste Say: produção, empresário e circulação de mercados
+
+**Jean-Baptiste Say** (1767–1832) nasceu em Lyon numa família mercantil protestante; recebeu educação comercial e trabalhou com negócios antes de se tornar escritor, empresário e professor. Sua trajetória industrial conferiu peso à figura do empreendedor que organiza fatores produtivos e responde por incerteza.
+
+O ***Tratado de economia política* (1803)** articulou produção, utilidade, mercados e distribuição. A chamada **Lei de Say**, em interpretações populares resumida como “a oferta cria sua própria demanda”, foi debatida e transformada por autores posteriores. Say argumentava que produção gera rendimentos e capacidade potencial de comprar outros bens, mas o ajuste entre bens e a intermediação monetária não necessariamente eliminam toda crise financeira ou de coordenação.
+
+Say viveu sob regimes políticos franceses mutáveis e enfrentou dificuldades na difusão de sua obra; retornou à atividade industrial e depois ao ensino. Suas posições sobre o papel do empreendedor e o comércio influenciaram tradições liberais e de gestão. A crítica keynesiana posterior atingiu uma versão agregada da lei que nem sempre coincide com a complexidade dos textos originais de Say.
+
+### 25. Jean Charles Léonard de Sismondi: as crises e a condição operária
+
+**Sismondi** (1773–1842) nasceu em Genebra numa família com dificuldades durante as transformações políticas europeias, trabalhou e estudou economia e história fora de uma carreira universitária especializada. Inicialmente influenciado por Smith, passou a preocupar-se com crises, desemprego, distribuição de renda e vulnerabilidade dos trabalhadores.
+
+Em ***Novos princípios de economia política* (1819)**, criticou a identificação automática de crescimento da produção com bem-estar geral. Empresas podiam expandir capacidade e reduzir custos enquanto famílias perdiam renda e eram incapazes de comprar produtos. A demanda insuficiente e a insegurança social ocupavam papel central em sua visão.
+
+Sismondi não apresentou o mesmo tipo de formalização matemática de Ricardo, mas introduziu uma crítica ao otimismo sobre ajuste de mercados e acumulação. Suas propostas de proteção social e atenção à situação dos trabalhadores influenciaram debates reformistas posteriores. Seu lugar entre liberais e socialistas era menos simples do que os rótulos escolares sugerem.
+
+### 26. Harriet Martineau: economia política, educação popular e desigualdade
+
+**Harriet Martineau** (1802–1876) nasceu em Norwich, numa família ligada à manufatura e ao unitarismo religioso. Sua educação incluiu autodidatismo, leitura e experiências de restrição profissional às mulheres. Perdeu grande parte da audição ainda jovem, circunstância que afetou formas de comunicação sem impedir uma carreira intelectual muito ampla.
+
+Publicou ***Illustrations of Political Economy* (1832–1834)**, conjunto de narrativas que explicava preços, trabalho, comércio, impostos e instituições a leitores que não participavam dos debates acadêmicos. A estratégia tinha enorme alcance editorial: ensinava ideias econômicas por personagens, conflitos e consequências práticas, não por demonstração matemática.
+
+Martineau escreveu também sobre escravidão, direitos das mulheres e sociedade americana. Sua posição sobre economia política evoluiu e foi objeto de debates, incluindo críticas a políticas de assistência social da época. O legado é duplo: ampliou o público que podia participar de discussões econômicas e expôs contradições entre linguagem de liberdade e práticas de exclusão. Uma história limitada a professores com cátedras excluiria indevidamente autoras que ajudaram a formar a compreensão pública da disciplina.
+
+### 27. Frédéric Bastiat: custo de oportunidade, proteção e o que não se vê
+
+**Frédéric Bastiat** (1801–1850) nasceu no sudoeste da França, ficou órfão cedo e trabalhou no comércio familiar, sendo em grande parte autodidata. Participou da política francesa em contexto de revoluções e debates sobre tarifas, monopólios e gastos públicos.
+
+Seus ensaios e sátiras econômicas mostraram como uma política que beneficia diretamente um grupo pode produzir custos menos visíveis para outros. Em ***O que se vê e o que não se vê***, examinou consequências de gastos e destruição, antecipando raciocínios sobre custo de oportunidade. A famosa parábola da janela quebrada ilustra que reconstruir algo destruído não cria riqueza adicional simplesmente por empregar um vidraceiro, pois recursos poderiam ter sido usados em outra atividade.
+
+O argumento é válido como crítica à confusão de movimentação econômica com ganho líquido, mas não resolve sozinho condições de desemprego involuntário, capacidade ociosa ou externalidades. Bastiat também defendia livre comércio e criticava privilégios concedidos a setores específicos. Sua morte prematura limitou a elaboração de uma teoria sistemática comparável à de Ricardo ou Marx, mas sua pedagogia exerceu influência persistente no debate político.
+
+### 28. Friedrich List: indústria nascente e a economia de Estados em desenvolvimento
+
+**Friedrich List** (1789–1846) nasceu em Reutlingen, em território alemão, e trabalhou na administração pública, na política e no jornalismo. Atuou também nos Estados Unidos, onde observou experiências de infraestrutura e desenvolvimento industrial. Sua trajetória de exílio, dificuldades profissionais e conflitos políticos influenciou a defesa de uma economia orientada à construção de capacidades produtivas nacionais.
+
+Em ***Sistema nacional de economia política* (1841)**, sustentou que países com indústrias em formação enfrentam condições diferentes daquelas de potências já industrializadas. Tarifa temporária, infraestrutura, educação e coordenação estatal poderiam permitir desenvolver atividades de alta produtividade. A questão central não era maximizar ouro ou proteger empresas para sempre, mas transformar a estrutura produtiva.
+
+A tese enfrenta riscos: proteção pode estimular aprendizado e investimento ou eternizar firmas ineficientes que capturam apoio do governo. O sucesso depende de metas verificáveis, competição, prazo e capacidade institucional para retirar privilégios. List tornou-se referência para políticas industriais, mas sua obra não valida qualquer fechamento comercial nem políticas nacionalistas sem avaliação de resultados.
+
+### 29. John Stuart Mill e Harriet Taylor Mill: liberdade, propriedade e reforma social
+
+**John Stuart Mill** (1806–1873) nasceu em Londres, filho do filósofo **James Mill**, e recebeu educação rigorosa conduzida pelo pai, com exposição precoce a lógica, línguas, história e economia. Trabalhou na Companhia das Índias Orientais e participou da política britânica. Sua relação intelectual e posterior casamento com **Harriet Taylor Mill** (1807–1858) foi central em debates sobre liberdade, casamento, trabalho feminino e autonomia.
+
+Em ***Princípios de economia política* (1848)**, Mill procurou reunir a tradição clássica e as reformas sociais do século XIX. Separou leis técnicas de produção de regras de distribuição que dependem de instituições, propriedade e escolhas coletivas. Esse argumento permitiu discutir cooperativas, impostos, direitos de mulheres e propriedade sem presumir que toda distribuição fosse consequência natural e inevitável da tecnologia.
+
+Sua educação e sua influência pública foram extraordinárias, mas envolviam um contexto imperial, colonial e profundamente desigual. A crítica de Mill à escravidão e sua defesa de maior liberdade não eliminam ambiguidades de seu pensamento político sobre povos colonizados. Seu legado na economia é mostrar que eficiência produtiva e instituições distributivas precisam de análises próprias.
+
+### 30. Karl Marx: formação, exílio e a crítica da acumulação capitalista
+
+**Karl Marx** (1818–1883) nasceu em Trier, na Prússia, filho de **Heinrich Marx**, advogado, e **Henriette Pressburg**. Estudou em Bonn e Berlim e concluiu doutorado em filosofia em **Jena em 1841**. Atuou em jornalismo político, enfrentou censura e exílio e passou parte importante da vida em Londres, sob dificuldades econômicas e de saúde. Sua esposa, **Jenny von Westphalen**, participou de redes intelectuais e familiares que sustentaram sua carreira; seus filhos viveram privações que não aparecem em análises abstratas da teoria do capital.
+
+Marx foi influenciado por Hegel, pela filosofia materialista e pela economia clássica de Smith e Ricardo. Com **Friedrich Engels**, publicou o ***Manifesto do Partido Comunista* (1848)**; o primeiro volume de ***O capital*** apareceu em **1867**, e volumes seguintes foram editados por Engels a partir de manuscritos. A análise tratou mercadoria, valor, trabalho, mais-valia, acumulação, tecnologia e crises de reprodução.
+
+Sua ideia de exploração partia da relação entre o tempo de trabalho socialmente necessário à produção e a remuneração da força de trabalho, sob condições capitalistas de propriedade. A teoria do valor-trabalho marxiana é diferente de uma simples afirmação moral de que todo lucro é roubo; integra uma interpretação da concorrência e da formação histórica das relações de produção. A tradução dos valores em preços de produção e o papel de capital heterogêneo permanecem pontos de disputa teórica.
+
+Marx descreveu a tendência à concentração de capital e o conflito entre forças produtivas e formas sociais de propriedade. Algumas observações sobre industrialização, crises e poder dos proprietários continuaram influentes; previsões de trajetória política inevitável e interpretações economicamente deterministas receberam críticas históricas. Experiências de Estados que reivindicaram seu nome não devem ser atribuídas automaticamente às recomendações específicas de Marx sem analisar instituições e decisões posteriores.
+
+Seu auge intelectual veio depois de décadas de trabalho, sustentado em parte por auxílio financeiro de Engels. O legado ultrapassou economia e influenciou sociologia, história, sindicatos e regimes políticos. A força de sua crítica à exploração não elimina a necessidade de testar previsões e confrontar alternativas de organização econômica.
+
+### 31. Friedrich Engels: indústria, observação social e a parceria com Marx
+
+**Friedrich Engels** (1820–1895) nasceu em Barmen, na Alemanha, em família proprietária de negócios têxteis. Recebeu educação comercial e trabalhou em empresas familiares, inclusive em **Manchester**, centro industrial britânico. Essa experiência o colocou em contato com fábricas, bairros operários e a desigualdade urbana que descreveu em ***A situação da classe trabalhadora na Inglaterra* (1845)**.
+
+Engels teve influência intelectual própria antes de sua colaboração mais extensa com Marx. A propriedade e a atividade empresarial da família produziram renda que ele usou, em parte, para apoiar Marx. O paradoxo não deve ser apagado: um crítico radical do capitalismo operava dentro de relações industriais que lhe permitiam obter recursos.
+
+Após a morte de Marx, Engels organizou e publicou manuscritos, participando da circulação internacional da teoria. O trabalho editorial deu forma a interpretações que passaram a ser vistas como doutrina unificada, embora ideias e textos tivessem histórias de elaboração distintas. Seu legado está na observação empírica das condições trabalhistas, na parceria intelectual e na institucionalização posterior de movimentos políticos.
+
+### 32. Henry George: renda da terra, urbanização e o imposto único
+
+**Henry George** (1839–1897) nasceu em Filadélfia numa família de recursos limitados e trabalhou como marinheiro, tipógrafo e jornalista. A urbanização e o crescimento dos preços de terrenos na Califórnia levaram-no a perguntar por que cidades mais produtivas podiam apresentar simultaneamente altos salários e pobreza persistente.
+
+Em ***Progresso e pobreza* (1879)**, argumentou que a valorização da terra decorrente de infraestrutura, população e atividades coletivas poderia ser apropriada por proprietários sem investimento proporcional. Propôs tributar amplamente o valor da terra, preservando incentivos para construir e melhorar propriedades. A teoria exige separar valor de localização, benfeitorias e efeitos da expectativa sobre a oferta imobiliária.
+
+O imposto sobre terra tem defensores de diferentes tradições políticas, mas sua implementação encontra problemas de avaliação, transição e distribuição entre proprietários e devedores. George não era professor de economia com treinamento formal avançado; sua influência vinha de jornalismo, debate público e campanha política. Seu pensamento permanece relevante para habitação, desigualdade urbana e finanças municipais.
