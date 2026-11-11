@@ -159,6 +159,8 @@ Law 8,880 established 1 July as the beginning of issuance; subsequent rules prov
 
 The transition was also an information-systems overhaul. Checking accounts, ATMs, payroll applications, financial contracts, corporate balance sheets, tax systems and ledgers all had to agree on the new scale while preserving existing rights. It resembled changing the unit of measurement of an entire economy. System engineering was not incidental: a conversion bug could transfer wealth from one contractual party to another.
 
+The new real was not issued into an unrestricted credit regime. Provisional Measure 542 of 30 June 1994 defined the currency's issuance and legal conversion framework; the Central Bank's retrospective records quantitative limits on the monetary base through March 1995 and an **exceptional 100% reserve requirement on demand deposits** to contain the expansion of bank credit. This percentage did **not** represent a 100% interest rate charged to depositors: it was a reserve requirement imposed on a specified banking liability base. Deindexing the unit of account weakened automatic inflation propagation while restrictive liquidity rules sought to stop excess nominal demand from restarting the process. [MP 542/1994](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-542-30-junho-1994-375071-publicacaooriginal-1-pe.html); [Central Bank, Real Plan 30-year retrospective](https://www.bcb.gov.br/controleinflacao/planoreal?modalAberto=30anosreal_noticia1).
+
 ## 10. The measured break: from 47.43% IPCA to 6.84%
 
 The June–July comparison is the most visible result, but it needs exact definitions. Brazil's **monthly IPCA** was **47.43% in June 1994**, **6.84% in July** and **1.86% in August**. Inflation did not drop to zero immediately. Nor should monthly inflation be confused with a trailing twelve-month rate. The latter had reached **4,922.46% in June**, a completely different measure from that month's 47.43%. [IBGE, historical IPCA series](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html?edicao=20932&t=series-historicas); [IPEA, annual series](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
@@ -368,4 +370,10 @@ The extraordinary feature of the Brazilian experiment is not that CR$2,750 becam
 16. [Central Bank — Exchange-rate policy, first quarter 1999](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
 17. [Central Bank — Copom minutes of 23 June 1999, inflation targeting](https://www.bcb.gov.br/publicacoes/atascopom/23061999).
 18. [Research on ideas, politics and centralized monetary authority in the Real Plan](https://new.scielo.br/j/rbcsoc/a/pFx5LNSgJrTMCB4Bkfmrkqb/?format=html&ilang=pt_BR&lang=pt).
-
+19. [Brazil's Chamber of Deputies — MP 482/1994, daily URV updating method and reference indices](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-482-28-abril-1994-374305-exposicaodemotivos-1-pe.html).
+20. [Brazil's Chamber of Deputies — MP 542/1994, issuance of the real and conversion rules](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-542-30-junho-1994-375071-publicacaooriginal-1-pe.html).
+21. [Central Bank — Real Plan monetary-base limits, currency policy and 100% demand-deposit reserve rule](https://www.bcb.gov.br/controleinflacao/planoreal?modalAberto=30anosreal_noticia1).
+22. [Argentina — Convertibility Law 23,928 of 1991](https://www.argentina.gob.ar/normativa/nacional/ley-23928-328).
+23. [IMF — Israel's 1985 stabilization program](https://www.elibrary.imf.org/view/book/9781557750341/ch014.xml).
+24. [IMF — The Mexican 1994 currency crisis](https://www.elibrary.imf.org/view/journals/001/1995/112/article-A001-en.xml).
+25. [IMF — The Real Plan, fiscal accounts and external vulnerabilities, a retrospective assessment](https://www.elibrary.imf.org/view/journals/023/0031/010/article-A002-en.xml).
