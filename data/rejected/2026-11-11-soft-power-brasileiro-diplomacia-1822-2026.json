@@ -2,68 +2,130 @@
   "schema_version": 2,
   "id": "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER",
   "slug": "2026-11-11-soft-power-brasileiro-diplomacia-1822-2026",
-  "revision": 1,
+  "revision": 2,
   "qa_status": "rejected",
   "reviewed_at": "2026-11-11",
   "reviewed_branch": "main",
-  "pending_blob_sha": "e787da90354cb842c2e311f683ba9612436735d0",
+  "pending_blob_sha": "b18b90af72cbbbeefafcfb0da90bb521ca8e3b9a",
   "source_blob_shas": {
-    "en": "a970c54809192dc9bcc799288d84579ea0aabc7a",
-    "pt-BR": "e26cf07949793a76e3d4c3a41e1823ed2293fd99"
+    "en": "38b3ad5000a30474d4768e70355c2384fa1171fb",
+    "pt-BR": "c304973aa113aff1498c4c397c0f1bfbf56ad293"
   },
-  "taxonomy_check": "passed",
-  "translation_check": "passed_with_limitations",
+  "taxonomy_check": "passed_structural",
+  "translation_check": "passed_structural",
   "checks": {
-    "source_integrity": "failed",
-    "historical_chronology_readiness": "failed",
-    "editorial_publication_readiness": "failed",
-    "visual_evidence_readiness": "passed_structural_with_factual_review_required",
-    "bilingual_parity": "passed_structural_with_limitations",
-    "current_events_spot_check": "passed_for_mercosur_eu_and_brand_finance",
-    "publication_snapshot": "not_generated_rejected"
+    "source_integrity": "failed_material_citation_mapping",
+    "historical_chronology_readiness": "failed_annual_source_granularity",
+    "editorial_publication_readiness": "failed_due_to_documentary_gaps",
+    "visual_evidence_readiness": "passed_structure_and_un_start_year_enumeration",
+    "bilingual_parity": "passed_structural_with_remaining_claim_level_review",
+    "current_events_spot_check": "no_new_2025_2026_errors_identified_in_this_review",
+    "publication_snapshot": "not_generated_rejected",
+    "source_sha_verification": "passed",
+    "previous_revision_reconciliation": "62_generic_entries_replaced_both_locales"
   },
   "issues": [
     {
       "severity": "blocking",
-      "category": "chronology_depth",
-      "location": "en.md and pt-BR.md, §14 Annual chronology (1822–2026)",
-      "evidence": "Both languages contain 205 numbered annual entries, but 62 entries in each language are identical generic period-continuity templates with the year substituted (e.g. 1829, 1832–1834, 1836–1838, 1841–1842). This is 30.24% of the requested annual analysis and does not analyze the specific diplomatic, political, social or economic circumstances of those years. The generic entries assert absence of a separately documented turning point without a year-specific evidentiary audit.",
-      "required_correction": "Replace templated entries with dated, traceable annual context (diplomatic correspondence, treaties, offices, negotiations, trade flows, regional crises, consular events, domestic constraints) where supported. Where documentary evidence is insufficient, explicitly identify the archival gap without presenting a period label as year-specific research. Keep EN/PT-BR aligned and avoid invented milestones."
+      "category": "historical_attribution_1833",
+      "location": "en.md and pt-BR.md §14, 1833",
+      "evidence": "The new entry says 'FUNAG records Brazil’s recognition of Argentina’s claim' in 1833 and cites FUNAG's Great Britain bilateral timeline. The 1833 British occupation and later Brazilian support for Argentine claims are distinguishable events. No contemporaneous 1833 Brazilian recognition document, note or official act is cited. The 2011 FUNAG resenha describes a later policy with an antecedent in 1833, not necessarily a Brazilian recognition in that year.",
+      "required_correction": "Use a contemporary diplomatic dispatch with date and archival reference to substantiate recognition in 1833; otherwise confine the entry to the British action and its consequences, explicitly distinguishing later Brazilian positions. Apply to both languages.",
+      "references": [
+        "https://www.funag.gov.br/chdd/images/Resenhas/Novas/Resenha109_2Sem_2011.pdf",
+        "https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha"
+      ]
     },
     {
       "severity": "blocking",
-      "category": "evidence_to_claim_traceability",
-      "location": "en.md and pt-BR.md, §14; §3–§10",
-      "evidence": "The annual list makes 143 distinct-year assertions in each language, but no per-year or short-range citations, document titles, page numbers, or evidence keys are attached to the chronology. The 20-entry bibliography is mostly institution-level collections and topical landing pages, insufficient to independently reproduce a specific 1823, 1843, 1854, 1872, 1910, 1932 or 1969 annual claim without a primary or scholarly citation map. The producer's '20 traceable sources' statement does not establish that each event was verified.",
-      "required_correction": "Create a traceability apparatus for the annual chronology (dated primary records or reliable specialist histories with page/section, grouped by year or tightly defined interval). For the nineteenth-century claims distinguish historiographic interpretation from documented treaty dates and identify primary documents for contested events. Correct or qualify unsupported assertions. Do not cite a generic institutional homepage as proof of an annual event."
+      "category": "annual_claim_source_mismatch_1948",
+      "location": "en.md and pt-BR.md §14, 1948",
+      "evidence": "The 1948 entry jointly asserts Brazil's participation in OAS founding and adoption of the Universal Declaration of Human Rights but links to FUNAG's general diplomatic history hub, not the OAS Charter of 30 April 1948 or the UN General Assembly roll-call record of 10 December 1948.",
+      "required_correction": "Link to the OAS founding charter and UN Resolution 217 A (III), including Brazil's vote/participation; qualify distinct legal status and events. Apply to both languages.",
+      "references": [
+        "https://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp",
+        "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+      ]
     },
     {
       "severity": "blocking",
-      "category": "evidence_claim_vs_method",
-      "location": "data/pending/<slug>.json, producer_checks.source_check and producer_checks.information_cutoff",
-      "evidence": "Producer metadata claims that material facts were reverified against sources updated by 2026-11-03, but the submitted record has no per-claim verification log or source passage references. The fact-check cannot accept the producer's assertion as independent evidence.",
-      "required_correction": "Add reproducible claim-to-source references and distinguish publication dates, last-updated dates and actual date of access. Retain the correctly verified 2026 Mercosur–EU provisional-application status and 2026 Brand Finance perception rankings."
+      "category": "annual_claim_source_mismatch_1981",
+      "location": "en.md and pt-BR.md §14, 1981",
+      "evidence": "The claim about Brazilian participation in the 1981 Cancún North–South Summit links to an unrelated Chamber of Deputies archive of foreign parliamentary speeches. A contemporary statement by Foreign Minister Ramiro Saraiva Guerreiro at Cancún, published in Estudios Internacionales 15(59), 1982, pp. 243–246, is an available directly relevant primary text.",
+      "required_correction": "Replace the unrelated archive link with the minister's contemporaneous 1981 address, provide exact summit dates (22–23 October 1981) and clarify who represented Brazil; check both languages.",
+      "references": [
+        "https://www.anales.uchile.cl/index.php/REI/article/view/15980"
+      ]
     },
     {
       "severity": "blocking",
-      "category": "visual_source_audit",
-      "location": "en.md and pt-BR.md, §1 Security Council chart",
-      "evidence": "Both versions have the required 1 table + 1 chart + 1 flow + 1 map and identical decade counts. However the chart's 11 mandate starts are not enumerated beside the graph, preventing the reader from reproducing the decade aggregation from the cited membership list without separate reconstruction.",
-      "required_correction": "Add the explicit 11 start years (1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 2004, 2010, 2022) and/or a source table that directly maps each term to decade; preserve the bilingual numerical parity."
+      "category": "chronology_traceability_143_unrevised_entries",
+      "location": "en.md and pt-BR.md §14, annual entries outside the 62 newly linked years",
+      "evidence": "205 annual entries exist per locale and all 62 former generic placeholders were replaced with year-specific text and citations. However the other 143 annual entries generally remain without per-year or short-range source keys. A 40-source pending bibliography and 10-item added appendix do not by themselves demonstrate source-to-claim traceability for the full 1822–2026 chronology. This was a blocking issue in revision 1 and has not been fully resolved.",
+      "required_correction": "Attach primary or specialist scholarly sources to all 205 annual entries, or use a dated year-range source map with pinpoint pages or archival document identifiers; separate historical inference from verifiable dates and actions. Audit all entries, not just the 62 replaced ones."
+    },
+    {
+      "severity": "blocking",
+      "category": "dated_primary_record_not_proven",
+      "location": "en.md and pt-BR.md §14, 1925 and 1928",
+      "evidence": "The new 1925 and 1928 entries cite the National Library's generic DocReader collection URL without document, page or dated excerpt, making the specific claims about the League and the 1928 foreign-ministry reports difficult to reproduce.",
+      "required_correction": "Identify the actual annual ministerial report title, date, issue/page or digitized frame; quote or precisely paraphrase the passage supporting each assertion, and verify the claims in both locales."
     }
   ],
   "verified_facts": [
-    "Both staged locales exist and have 205 annual entries; 62 generic entries per locale.",
-    "Visual floor is mechanically met in each locale: one Markdown table, one chart fence, one flow fence and one map fence.",
-    "Brand Finance's 2026 source confirms International Relations rank 33 and Sustainable Future rank 43; independent published accounts confirm overall rank 29 and Culture & Heritage rank 11.",
-    "EU Commission official 2026 pages confirm both instruments signed 17 January 2026 and interim trade agreement provisionally applied from 1 May 2026, distinct from full partnership ratification.",
-    "Both locales contain the same source URL set and major analytical sections."
+    "Both staged locales have exactly 205 annual entries, 1822 through 2026, with no duplicate or missing years.",
+    "All 62 previously templated annual entries in both locales have been replaced with distinctive narratives and inline links.",
+    "Each language has one chart, one flow, one map and at least one Markdown table; eleven UN Security Council term starts are enumerated: 1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 2004, 2010, 2022.",
+    "The 1881 China treaty entry is supported by the official Itamaraty Concordia record, 3 October 1881; the earlier unapproved treaty is dated 5 September 1880.",
+    "The 1981 Cancún participation is supported by the contemporaneous address by Foreign Minister Ramiro Saraiva Guerreiro, but the manuscript's inline citation points elsewhere.",
+    "Pending revision 2 has 40 evidence_sources, preserving both languages' program and taxonomy fields."
   ],
   "limitations": [
-    "Review of all 205 annual claims against separate historical primary records was not possible because the manuscript does not supply granular citations; this prevents approval, not a claim that all 143 event entries are wrong.",
-    "Repository JavaScript validation scripts were read in governing documentation but not executed in a local checkout; this review does not assert npm build validation passed.",
-    "No public report files or data/reports.json were modified; no publication was attempted."
+    "Historical fact-check was targeted to material claims and the previously failed traceability gate; this rejection does not assert that all 143 unlinked annual claims are inaccurate.",
+    "Remote GitHub connector was used to read both complete staged sources and all required governing files. A local npm validation/build was not run; no build pass is asserted.",
+    "No source or public report was modified in this independent QA; no publication was attempted.",
+    "Current-event spot-check relies partly on the previous revision's 2026 Mercosur–EU and Brand Finance findings; full fresh source audit is still required before approval."
   ],
-  "required_next_action": "Producer must revise both staged Markdown editions and then write a revised pending sidecar last, with revision increment and new Git blob SHAs; submit for a fresh independent QA. No approval snapshot may be created from current blobs.",
-  "review_notes": "Material editorial rejection under RESEARCH-PUBLISHING.md: evidence-to-claim traceability and historical depth are independent mandatory gates; numeric correctness and visual minimum alone are insufficient."
+  "previous_revision": {
+    "revision": 1,
+    "qa_status": "rejected",
+    "reviewed_at": "2026-11-11",
+    "pending_blob_sha": "e787da90354cb842c2e311f683ba9612436735d0",
+    "source_blob_shas": {
+      "en": "a970c54809192dc9bcc799288d84579ea0aabc7a",
+      "pt-BR": "e26cf07949793a76e3d4c3a41e1823ed2293fd99"
+    },
+    "issues": [
+      {
+        "severity": "blocking",
+        "category": "chronology_depth",
+        "location": "en.md and pt-BR.md, §14 Annual chronology (1822–2026)",
+        "evidence": "Both languages contain 205 numbered annual entries, but 62 entries in each language are identical generic period-continuity templates with the year substituted (e.g. 1829, 1832–1834, 1836–1838, 1841–1842). This is 30.24% of the requested annual analysis and does not analyze the specific diplomatic, political, social or economic circumstances of those years. The generic entries assert absence of a separately documented turning point without a year-specific evidentiary audit.",
+        "required_correction": "Replace templated entries with dated, traceable annual context (diplomatic correspondence, treaties, offices, negotiations, trade flows, regional crises, consular events, domestic constraints) where supported. Where documentary evidence is insufficient, explicitly identify the archival gap without presenting a period label as year-specific research. Keep EN/PT-BR aligned and avoid invented milestones."
+      },
+      {
+        "severity": "blocking",
+        "category": "evidence_to_claim_traceability",
+        "location": "en.md and pt-BR.md, §14; §3–§10",
+        "evidence": "The annual list makes 143 distinct-year assertions in each language, but no per-year or short-range citations, document titles, page numbers, or evidence keys are attached to the chronology. The 20-entry bibliography is mostly institution-level collections and topical landing pages, insufficient to independently reproduce a specific 1823, 1843, 1854, 1872, 1910, 1932 or 1969 annual claim without a primary or scholarly citation map. The producer's '20 traceable sources' statement does not establish that each event was verified.",
+        "required_correction": "Create a traceability apparatus for the annual chronology (dated primary records or reliable specialist histories with page/section, grouped by year or tightly defined interval). For the nineteenth-century claims distinguish historiographic interpretation from documented treaty dates and identify primary documents for contested events. Correct or qualify unsupported assertions. Do not cite a generic institutional homepage as proof of an annual event."
+      },
+      {
+        "severity": "blocking",
+        "category": "evidence_claim_vs_method",
+        "location": "data/pending/<slug>.json, producer_checks.source_check and producer_checks.information_cutoff",
+        "evidence": "Producer metadata claims that material facts were reverified against sources updated by 2026-11-03, but the submitted record has no per-claim verification log or source passage references. The fact-check cannot accept the producer's assertion as independent evidence.",
+        "required_correction": "Add reproducible claim-to-source references and distinguish publication dates, last-updated dates and actual date of access. Retain the correctly verified 2026 Mercosur–EU provisional-application status and 2026 Brand Finance perception rankings."
+      },
+      {
+        "severity": "blocking",
+        "category": "visual_source_audit",
+        "location": "en.md and pt-BR.md, §1 Security Council chart",
+        "evidence": "Both versions have the required 1 table + 1 chart + 1 flow + 1 map and identical decade counts. However the chart's 11 mandate starts are not enumerated beside the graph, preventing the reader from reproducing the decade aggregation from the cited membership list without separate reconstruction.",
+        "required_correction": "Add the explicit 11 start years (1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 2004, 2010, 2022) and/or a source table that directly maps each term to decade; preserve the bilingual numerical parity."
+      }
+    ]
+  },
+  "required_next_action": "Producer must correct historical attribution, repair inaccurate source links and supply reproducible evidence for the remaining 143 annual entries; update both locales, then write pending revision 3 last. Independent QA must verify fresh SHAs and all mandatory gates before approval. Do not publish or create an approved snapshot from revision 2.",
+  "review_notes": "Revision 2 substantially improves chronology but still fails mandatory source-to-claim traceability. This is a rejection, not approval or publication."
 }
