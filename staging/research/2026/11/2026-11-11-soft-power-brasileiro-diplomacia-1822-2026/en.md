@@ -37,7 +37,7 @@ unit: terms begun
 2020 | 1
 ```
 
-The counts use the **start year of each term**, not the number of calendar years served. No term starting in the 1970s does not mean Brazil lacked foreign policy in that decade. Values come solely from the UN's historical membership list.
+The eleven start years are **1946, 1951, 1954, 1963, 1967, 1988, 1993, 1998, 2004, 2010 and 2022** ([UN historical membership list](https://main.un.org/securitycouncil/en/content/countries-elected-members)). The counts use the **start year of each term**, not the number of calendar years served. No term starting in the 1970s does not mean Brazil lacked foreign policy in that decade. Values come solely from the UN's historical membership list.
 
 ## 2. Before independence: Atlantic institutions and colonial hierarchy
 
@@ -182,7 +182,7 @@ Brazil's distinctive advantage combines **culture, food supply, ecosystems, dipl
 
 ## 14. Annual chronology, 1822–2026
 
-An entry either identifies a historically attested turning point or gives the **prevailing context of that period** where the reviewed sources do not support assigning a distinct diplomatic event to that year. A year without a singled-out event was not a year without foreign relations. The distinction avoids inventing annual milestones simply to fill a list.
+Each dated entry distinguishes a diplomatic act from its legal effects. A ministerial appointment is a verifiable institutional event, not proof of a change in policy; a signed but unratified treaty does not establish an implemented agreement. For those years without a separate treaty or multilateral action, contemporaneous appointments, consular records, domestic constraints and the state of an ongoing process provide a narrower, identified historical fact. A year without a singled-out event was not a year without foreign relations. This chronology does not claim that each year featured a major foreign-policy reversal.
 
 - **1822** — Independence: José Bonifácio and diplomatic recognition become central state priorities.
 - **1823** — Recognition diplomacy is constrained by conflict over constitutional organization.
@@ -191,40 +191,40 @@ An entry either identifies a historically attested turning point or gives the **
 - **1826** — British agreements connect recognition, trade and commitments concerning the slave trade.
 - **1827** — Trade treaty with Britain highlights fiscal sovereignty and slavery tensions.
 - **1828** — Peace creates independent Uruguay as a geopolitical buffer in the River Plate.
-- **1829** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1829** — Brazil negotiates a London loan collateralized by customs revenue; Itabaiana signs a treaty with Sardinia, extending European links while debt narrows fiscal autonomy. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
 - **1830** — British pressure against the transatlantic slave trade continues.
 - **1831** — Pedro I abdicates; an anti-slave-trade law is inadequately enforced.
-- **1832** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1833** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1834** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1832** — Bento da Silva Lisboa becomes foreign minister in September; the Regency's bureaucratic reorganization occurs amid domestic revolts that constrain external action. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1833** — Britain's occupation of the Falklands draws an Argentine protest; FUNAG records Brazil's recognition of Argentina's claim, an enduring regional diplomatic issue. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
+- **1834** — After Portugal's Convention of Évora-Monte, Brazil's Regency sends Araújo Ribeiro on a Lisbon mission; Duarte da Ponte Ribeiro presents credentials in Mexico. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
 - **1835** — The Regency confronts the Farroupilha revolt and southern instability.
-- **1836** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1837** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1838** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1836** — Brazil and Portugal sign a trade and navigation treaty that the Brazilian Chamber does not approve, showing the gap between diplomatic signature and effective ratification. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
+- **1837** — Three changes in foreign ministers — Limpo de Abreu, Montezuma and Maciel Monteiro — reveal the Regency's ministerial instability and its constraints on continuity. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1838** — Brazilian and Chilean envoys sign a friendship, trade and navigation treaty in Santiago; the lack of Brazilian ratification prevents it entering into force. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/chile).
 - **1839** — Regional conflict and diplomatic continuity coexist during the Regency.
 - **1840** — Pedro II's early majority strengthens imperial centralization.
-- **1841** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1842** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1841** — Duarte da Ponte Ribeiro negotiates treaties on boundaries, trade and navigation with Peru in Lima, but the Empire declines ratification; Amazonian river issues remain unresolved. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/peru).
+- **1842** — Exchanges of notes with Britain temporarily neutralize the disputed Pirara territory near British Guiana; a British mission also seeks a trade agreement and abolition of the slave trade. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/gra-bretanha).
 - **1843** — The Pimenta Bueno mission explores talks with Paraguay amid River Plate disputes.
 - **1844** — The Alves Branco tariff widens fiscal and industrial-policy instruments.
 - **1845** — The Farroupilha conflict ends, improving control of the southern territory.
-- **1846** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1847** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1846** — Notes with Venezuela address obstacles to frontier trade and communication; the incident involving the US corvette Saratoga requires a Brazilian diplomatic response. [Document](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf).
+- **1847** — Brazil declares provisions of the 1825 Portuguese treaty on most-favored-nation treatment and 15% customs duties no longer operative, creating room to renegotiate tariff privileges. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/portugal).
 - **1848** — European upheaval and domestic conservatism require diplomatic caution.
-- **1849** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1849** — Agreement with the United States addresses claims concerning ships seized during the River Plate blockade; a Brazilian note affirms neutrality in an Argentina–Paraguay dispute. [Document](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf).
 - **1850** — The Eusébio de Queirós law represses the Atlantic slave trade; the Land Law reshapes property.
 - **1851** — Brazilian coalitions against Oribe and Rosas change the River Plate balance.
 - **1852** — Rosas falls at Caseros, strengthening Brazil's regional standing.
-- **1853** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1853** — Antônio Paulino Limpo de Abreu becomes foreign minister in September, overseeing pending border and navigation questions after the fall of Rosas. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1854** — Diplomatic disagreement with Paraguay over navigation and boundaries.
-- **1855** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1855** — José Maria da Silva Paranhos becomes foreign minister in June; River Plate diplomacy increasingly relies on experienced negotiators and political continuity. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1856** — Negotiations over waterways and access to River Plate rivers continue.
-- **1857** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1858** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1859** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1860** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1857** — Caetano Maria Lopes Gama assumes foreign affairs in May while boundary and navigation treaties still require implementation. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1858** — José Maria da Silva Paranhos returns as foreign minister in December, illustrating the repeated use of specialist statesmen in regional foreign policy. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1859** — Brazil signs a boundary treaty with Venezuela on 5 May; João Lins Vieira Cansansão de Sinimbu takes over the foreign ministry in August. [Document](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
+- **1860** — Negotiations and boundary work following the 1859 Venezuelan treaty still require implementation; the source consulted does not establish a separate new treaty in 1860. [Document](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
 - **1861** — Incidents accumulate before the Christie Question with Britain.
-- **1862** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1862** — Carlos Carneiro de Campos and Miguel Calmon du Pin e Almeida successively head foreign affairs, as disputes with Paraguay and Britain become more serious. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1863** — The Christie Question temporarily breaks relations with London.
 - **1864** — Brazil intervenes in Uruguay and war with Paraguay begins.
 - **1865** — The Triple Alliance Treaty joins Brazil, Argentina and Uruguay against Paraguay.
@@ -235,104 +235,104 @@ An entry either identifies a historically attested turning point or gives the **
 - **1870** — The Paraguayan War ends with catastrophic human and regional effects.
 - **1871** — Free Womb Law highlights tensions between civilizational rhetoric and slavery.
 - **1872** — Cotegipe–Loizaga treaty fixes the Brazil–Paraguay border amid allied friction.
-- **1873** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1874** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1875** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1873** — Carlos Carneiro de Campos becomes foreign minister; a June concession authorizes the submarine telegraph project linking Brazil and Portugal. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1874** — The Pernambuco–Portugal submarine telegraph cable opens, shortening communication times for political, commercial and consular exchanges with Europe. [Document](https://www.scielo.br/j/rbef/a/9sWYj3hNN8bnHDSzk7Lypsr/?lang=pt).
+- **1875** — João Maurício Wanderley becomes foreign minister in June; Paraguayan relations continue to be shaped by the postwar occupation and border settlements. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1876** — Brazilian troops leave Paraguay, closing the occupation phase.
-- **1877** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1878** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1879** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1877** — Diogo Velho Cavalcanti de Albuquerque becomes foreign minister in February; the great 1877–1879 drought begins to strain northeastern society and the export economy. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1878** — Carlos Leôncio de Carvalho and Domingos de Souza Leão successively head foreign affairs while the drought emergency challenges imperial priorities. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1879** — The Empire sends a special mission to China with Eduardo Callado and Arthur de Jaceguai, preparing commercial rapprochement and discussions about labor migration. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
 - **1880** — Imperial diplomacy addresses trade, immigration and stable borders.
-- **1881** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1882** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1883** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1884** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1881** — Brazilian envoys sign a revised friendship, commerce and navigation treaty in Tianjin after the earlier text had been rejected, broadening Asian links. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil/china).
+- **1882** — Filipe Franco de Sá and Lourenço Cavalcanti de Albuquerque successively become foreign ministers, reflecting late-imperial cabinet turnover. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1883** — Francisco de Carvalho Soares Brandão becomes foreign minister in May, continuing the ministry's connection to the Empire's cabinet system. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1884** — João da Mata Machado and Manuel Pinto de Souza Dantas successively hold the foreign affairs portfolio; expanding abolitionism weakens international defenses of slavery. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1885** — The Sexagenarian Law fails to dismantle the slave system.
-- **1886** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
-- **1887** — Year of continuity within the Empire: recognition, waterways, slavery, war and border-making period; no separately documented turning point is assigned to this year in this chronology.
+- **1886** — Law 3,310 revokes the statutory penalty of whipping while leaving slavery intact, demonstrating the gap between partial reforms and emancipation. [Document](https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3310-15-outubro-1886-543161-publicacaooriginal-53172-pl.html).
+- **1887** — The Military Club rejects army participation in hunting fugitive enslaved people; abolitionism weakens the imperial order shortly before emancipation. [Document](https://museudarepublica.museus.gov.br/wp-content/uploads/2017/10/CronoCanudos.pdf).
 - **1888** — Slavery is legally abolished, but racial and social exclusion persists.
 - **1889** — The Republic changes legitimacy and continental diplomatic orientations.
 - **1890** — Republican governments seek recognition and turn toward Pan-American politics.
 - **1891** — A republican constitution redesigns institutional competencies.
-- **1892** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1892** — Inocêncio Serzedello Corrêa and Antônio de Paula Sousa successively become foreign ministers during the Republic's fragile consolidation. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1893** — The naval revolt undermines political stability and external credibility.
-- **1894** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1894** — Carlos Augusto de Carvalho becomes foreign minister in November, as the new Republic seeks continuity after a decade's political crises. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1895** — Cleveland arbitration awards the Palmas dispute to Brazil.
-- **1896** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1896** — Dionísio de Castro Cerqueira becomes foreign minister in September, when territorial arbitration begins converting legal and archival expertise into prestige. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1897** — Internal conflicts such as Canudos expose the limits of national integration.
-- **1898** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
-- **1899** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1898** — Olinto de Magalhães becomes foreign minister in November, maintaining regular relations with neighbors during republican consolidation. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1899** — Rio Branco moves to Bern to pursue Swiss arbitration of the Amapá dispute, reinforcing the legal approach tested in the Palmas case. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1900** — Swiss arbitration settles the Amapá territorial question in Brazil's favor.
-- **1901** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1901** — Rio Branco is appointed Brazil's representative in Berlin after the Amapá arbitration and before his 1902 ministerial nomination. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores/barao-do-rio-branco-jose-maria-da-silva-paranhos-junior).
 - **1902** — Rio Branco becomes minister of foreign affairs.
 - **1903** — The Petrópolis Treaty transfers Acre through compensation and commitments to Bolivia.
 - **1904** — Brazil recognizes Panama as Rio Branco expands its hemispheric agenda.
-- **1905** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1905** — Protocols with Venezuela seek to finalize frontier demarcation, while a general arbitration agreement with Argentina extends law-based bilateral stabilization. [Document](https://atlas.fgv.br/verbetes/tratados-de-fixacao-de-limites-territoriais).
 - **1906** — Rio de Janeiro hosts the Third Pan-American Conference.
 - **1907** — The treaty with Colombia advances boundary demarcation.
-- **1908** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1908** — A December exchange between Rio Branco and Ambassador Joaquim Nabuco addresses naval competition and the balance with Argentina; military capability and diplomacy interact. [Document](https://funag.gov.br/loja/download/892-Joaquim_Nabuco_Vol._II.pdf).
 - **1909** — A treaty with Uruguay alters rights regarding Lagoa Mirim and the Jaguarão River.
 - **1910** — Rio Branco offers good offices to avert conflict between Peru and Ecuador.
-- **1911** — Year of continuity within the early Republic and Rio Branco: arbitration and territorial consolidation period; no separately documented turning point is assigned to this year in this chronology.
+- **1911** — Brazil signs further arbitration conventions, including with Uruguay in January, and promulgates Pan-American measures on intellectual property and international legal codification. [Document](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf).
 - **1912** — Rio Branco dies, closing a defining decade of boundary diplomacy.
-- **1913** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
+- **1913** — Under Lauro Müller, minister since 1912, Brazil adjusts foreign policy after Rio Branco's death; contemporary scholarship preserves the importance of arbitration treaties. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1914** — World War I begins; Brazil initially maintains neutrality.
-- **1915** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
-- **1916** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
+- **1915** — The official 1914–1915 report describes consular support and repatriation for Brazilians affected by war in Europe; neutrality required tangible services abroad. [Document](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
+- **1916** — Itamaraty's 1916–1917 reports record consular measures protecting Brazilians in Germany, before Brazil's diplomatic rupture and entry into war in 1917. [Document](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf).
 - **1917** — Attacks on ships prompt Brazil to declare war against Germany.
 - **1918** — Brazil's Allied effort includes public-health, naval and diplomatic participation.
 - **1919** — Brazil attends the Paris Peace Conference and the League of Nations founding.
 - **1920** — Brazil serves on the League Council.
-- **1921** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
+- **1921** — Brazilian representative Gastão da Cunha chairs a League of Nations Council session; Brazil also participates in the Upper Silesia negotiations. [Document](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf).
 - **1922** — Independence centennial strengthens public international representation.
-- **1923** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
+- **1923** — Decree 16,132 promulgates amendments to the League Covenant, as Brazil invests in legal multilateralism while contesting the Council's permanent membership. [Document](https://www.planalto.gov.br/ccivil_03/decreto/1910-1929/d16132.html).
 - **1924** — Demands for permanent representation sharpen disagreement in the League.
-- **1925** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
+- **1925** — Brazil's League representation maintains claims for a greater decision-making role; historical foreign-ministry reports can trace the negotiations but not a successful permanent seat. [Document](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934).
 - **1926** — Brazil leaves the League after its failed bid for a permanent Council seat.
-- **1927** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
-- **1928** — Year of continuity within the world war, League of Nations and primary-commodity exports period; no separately documented turning point is assigned to this year in this chronology.
+- **1927** — Foreign Minister Otávio Mangabeira, appointed in late 1926, administers bilateral relations after Brazil's withdrawal from the League; this reduces one channel but not diplomacy itself. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
+- **1928** — Under Mangabeira, 1928 foreign ministry reports document relations outside the League, while the economy remains vulnerable to the coffee trade. [Document](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934).
 - **1929** — Global depression exposes dependence on coffee exports.
 - **1930** — The 1930 Revolution changes state organization and economic diplomacy.
-- **1931** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
+- **1931** — Foreign Minister Afrânio de Melo Franco, appointed in October 1930, adapts the new Vargas administration's diplomacy to depression-era commercial and institutional changes. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1932** — The constitutionalist conflict damages perceptions of internal stability.
-- **1933** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
-- **1934** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
+- **1933** — Brazil offers mediation in the Leticia dispute between Peru and Colombia, as recorded by contemporaneous US diplomatic telegrams, to avoid Amazonian border conflict. [Document](https://history.state.gov/historicaldocuments/frus1933v04/d401).
+- **1934** — José Carlos de Macedo Soares becomes foreign minister in July while Vargas's government reconciles professional diplomacy with domestic centralization. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1935** — Domestic polarization and foreign ideological currents strain policy.
-- **1936** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
+- **1936** — Mário de Pimentel Brandão becomes foreign minister in December amid the decade's economic and ideological realignments. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1937** — The authoritarian Estado Novo engages in strategic bargaining with powers.
-- **1938** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
+- **1938** — Oswaldo Aranha becomes foreign minister in March and emerges as a key architect of Brazil's US relations and World War II diplomacy. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1939** — World War II begins, opening a phase of neutrality and bargaining.
-- **1940** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
-- **1941** — Year of continuity within the strategic bargaining, industrialization and World War II period; no separately documented turning point is assigned to this year in this chronology.
+- **1940** — Negotiations with Washington yield a November announcement of financing for the Volta Redonda steel plant, linking foreign bargaining and industrialization. [Document](https://atlas.fgv.br/verbete/3588).
+- **1941** — Oswaldo Aranha remains foreign minister as Vargas negotiates hemispheric cooperation, military bases and industrial capacity ahead of Brazil's entry into World War II. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1942** — Brazil breaks with the Axis and declares war after merchant-ship attacks.
 - **1943** — Industrial and military cooperation with the United States intensifies.
 - **1944** — Brazilian Expeditionary Force fights in Italy.
 - **1945** — Brazil helps found the UN and creates the Rio Branco Institute.
 - **1946** — Brazil starts its first elected UN Security Council term.
 - **1947** — Oswaldo Aranha presides over the General Assembly and the Palestine partition vote.
-- **1948** — Year of continuity within the UN engagement, Western alignment and development diplomacy period; no separately documented turning point is assigned to this year in this chronology.
-- **1949** — Year of continuity within the UN engagement, Western alignment and development diplomacy period; no separately documented turning point is assigned to this year in this chronology.
+- **1948** — Brazil participates in the Organization of American States' founding and the UN General Assembly's adoption of the Universal Declaration of Human Rights. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica).
+- **1949** — The founding of Brazil's Superior War College by Law 785 institutionalizes strategic training in an early Cold War setting, influenced by US military cooperation. [Document](https://www.gov.br/defesa/pt-br/assuntos/esg/a-esg/historia-da-esg).
 - **1950** — National Technical Assistance Commission organizes incoming technical cooperation.
 - **1951** — Second Security Council term; Getúlio Vargas returns to power.
-- **1952** — Year of continuity within the UN engagement, Western alignment and development diplomacy period; no separately documented turning point is assigned to this year in this chronology.
+- **1952** — Brazil and the United States sign a military assistance agreement in March; Brazilian legislative approval follows in 1953, distinguishing signature and entry into force. [Document](https://www2.camara.leg.br/legin/fed/decleg/1950-1959/decretolegislativo-30-30-abril-1953-351630-publicacaooriginal-1-pl.html).
 - **1953** — Oil and industrial concerns gain importance in the development agenda.
 - **1954** — Third Security Council term begins.
 - **1955** — The convention of Brazil opening the UN General Debate takes hold.
 - **1956** — The Suez Crisis leads to Brazilian participation in a UN emergency force.
 - **1957** — The Suez Battalion serves in UNEF I; Brasília symbolizes modernization ambitions.
 - **1958** — Juscelino Kubitschek links diplomacy with development and the Pan-American Operation.
-- **1959** — Year of continuity within the UN engagement, Western alignment and development diplomacy period; no separately documented turning point is assigned to this year in this chronology.
+- **1959** — Horácio Lafer becomes foreign minister in August under Kubitschek, sustaining development diplomacy and demand for external financing. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1960** — Brasília is inaugurated; Brazilian military personnel serve in the UN Congo mission.
 - **1961** — The Independent Foreign Policy advances under Quadros and Goulart.
 - **1962** — The Cuban crisis tests Brazilian autonomy and non-intervention.
 - **1963** — Fourth Security Council term; domestic instability constrains the policy.
 - **1964** — Military coup removes Goulart and changes relations with Washington and Havana.
 - **1965** — Military government asserts Western alignment amid hemispheric-security debates.
-- **1966** — Year of continuity within the autonomy debates, military rule, diversification and debt period; no separately documented turning point is assigned to this year in this chronology.
+- **1966** — Juracy Magalhães becomes foreign minister in January as the military government emphasizes its Washington relationship before later diversification. [Document](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores).
 - **1967** — Fifth Security Council term and movement toward a broader pragmatic diplomacy.
 - **1968** — AI-5 deepens the contradiction between external status and domestic repression.
 - **1969** — Technical-cooperation management is reorganized and centralized.
-- **1970** — Year of continuity within the autonomy debates, military rule, diversification and debt period; no separately documented turning point is assigned to this year in this chronology.
+- **1970** — Decree-Law 1,098 extends Brazil's claimed territorial sea to 200 nautical miles; sovereignty over ocean resources becomes a central diplomatic issue. [Document](https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1098-25-marco-1970-375405-publicacaooriginal-1-pe.html).
 - **1971** — FUNAG is instituted to promote international studies and diplomatic knowledge.
 - **1972** — At Stockholm Brazil defends industrial-development policy space.
 - **1973** — Oil shock exposes vulnerability and prompts supply diversification.
@@ -343,7 +343,7 @@ An entry either identifies a historically attested turning point or gives the **
 - **1978** — Diplomacy adapts to energy and financial tensions.
 - **1979** — Second oil shock exacerbates debt vulnerabilities.
 - **1980** — North–South negotiations, debt and development lead the agenda.
-- **1981** — Year of continuity within the autonomy debates, military rule, diversification and debt period; no separately documented turning point is assigned to this year in this chronology.
+- **1981** — Brazil participates in the North–South summit at Cancún to address trade, development and debt amid Latin America's growing financial stresses. [Document](https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/old/serie-estrangeira-old).
 - **1982** — Latin American debt crisis constrains economic autonomy.
 - **1983** — Gradual transition creates debate over democratic legitimacy.
 - **1984** — Argentina–Brazil talks lay groundwork for closer energy and commercial relations.
@@ -399,6 +399,21 @@ An entry either identifies a historically attested turning point or gives the **
 **Erosion.** Internal institutional conflict, environmental reversals, fiscal crises, trade isolation and regulatory uncertainty weaken relationships. Suspended agreements, fewer sustained technical projects, commodity dependence and a long-lived fall in independent perception measures would be observable evidence. External shocks could affect all three paths; none is an inevitable prediction.
 
 Brazil's international position will depend less on the number of speeches it delivers than on its ability to offer partners something reliable, sustained and costly to replace. Cultural power and diplomatic power do not have to be alternatives. Institutions and productive capabilities are what connect them.
+
+### Dated documentary basis of the annual chronology
+
+The list of Brazilian foreign ministers specifies appointment dates from 1822 onward; FUNAG's bilateral chronologies identify the parties, dates and ratification status of nineteenth-century agreements. The National Archives' imperial chronology covers internal institutions, wars, legislation and cross-border events year by year. The foreign-ministry reports of 1891–1928, the Itamaraty documentary repertories for 1899–1918 and 1919–1940, and specialized archival material establish the subsequent record. Citations attached to the annual entries point to the closest identified evidence. Where an entry places a dated cabinet or treaty event in historical context, the contextual interpretation should not be mistaken for a verbatim conclusion of the archival source.
+
+- [FUNAG: full dated list of foreign ministers](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/ministros-de-estado-das-relacoes-exteriores)
+- [National Archives: imperial timeline 1822–1889 (archival index; direct access may be intermittent)](https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/509-periodo-imperial-1822-a-1889)
+- [FUNAG: bilateral history and original diplomatic acts](https://www.gov.br/funag/pt-br/chdd/historia-diplomatica/historia-das-relacoes-bilaterais-do-brasil)
+- [Brazil's nineteenth-century economic diplomacy, vol. II](https://funag.gov.br/biblioteca/download/1213-Formacao-da-diplomacia-economica-no-brasil-VOL2.pdf)
+- [Itamaraty's institutional history, vol. I](https://funag.gov.br/loja/download/606-Itamaraty_Dois_Seculos_de_Historia_Vol._I.pdf)
+- [Foreign ministry reports 1891–1928](https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=873934)
+- [Documentary repertory of public international law 1899–1918](https://funag.gov.br/loja/download/921-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1899-1918.pdf)
+- [Documentary repertory of public international law 1919–1940](https://funag.gov.br/loja/download/922-Repertorio_da_pratica_brasileira_do_direito_internacional_pUblico_perIodo_1919-1940.pdf)
+- [US State Department: 1933 Peru–Colombia mediation](https://history.state.gov/historicaldocuments/frus1933v04/d401)
+- [UN: Security Council elected terms](https://main.un.org/securitycouncil/en/content/countries-elected-members)
 
 ## Sources and historical documents
 
