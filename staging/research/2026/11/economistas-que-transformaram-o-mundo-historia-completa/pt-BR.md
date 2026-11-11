@@ -825,3 +825,98 @@ Buchanan recebeu o prêmio de Economia em **1986**. Sua influência política fo
 Na teoria do **capital humano**, educação e treinamento podem elevar produtividade e rendimentos futuros, embora seus retornos dependam de qualidade do ensino, mercado de trabalho, discriminação e condições de financiamento. Sua análise econômica da discriminação examinou custos e preferências de empregadores, empregados e consumidores, mas não significa que discriminação desaparece automaticamente com concorrência.
 
 Becker recebeu o prêmio de Economia em **1992**. Críticas importantes atingem a tendência de modelar toda ação social como maximização individual, sem captar suficientemente identidades, poder, cuidado não remunerado e normas. A expansão da economia para a família tornou novos problemas pesquisáveis, mas também trouxe risco de impor premissas estreitas a relações complexas.
+
+
+### 87. Eugene Fama, Robert Shiller e Lars Hansen: três modos de entender preços financeiros
+
+**Eugene F. Fama** (nascido em 1939) estudou na **Tufts University** e na **Universidade de Chicago**, desenvolvendo pesquisa sobre preços de ações e a **hipótese dos mercados eficientes**. A versão informacional da hipótese sustenta que preços incorporam informações disponíveis de maneira que obter lucros extraordinários sistemáticos com estratégias simples pode ser difícil; não significa que todo preço seja justo ou que bolhas sejam logicamente impossíveis.
+
+**Robert J. Shiller** (nascido em 1946), formado em **Michigan** e **MIT**, estudou volatilidade excessiva, expectativas, mercado imobiliário e comportamento de investidores. Seus trabalhos identificaram situações em que preços de ativos oscilam mais do que seria plausível atribuir apenas a mudanças de dividendos esperados sob determinados modelos. O conceito de **exuberância irracional** popularizou a preocupação com narrativas e movimentos especulativos.
+
+**Lars Peter Hansen** (nascido em 1952), formado em **Utah State** e **Minnesota**, desenvolveu o **método dos momentos generalizados (GMM)**, instrumento de estimativa para modelos econômicos, inclusive finanças e macroeconomia. Os três receberam o prêmio de Economia em **2013**, justamente por contribuições diferentes à análise empírica de preços de ativos.
+
+O debate entre eficiência e bolhas não se resolve classificando um como otimista e o outro como pessimista. A questão depende da hipótese sobre dividendos, prêmios de risco, informação, restrições de arbitragem e horizontes temporais. O resultado de um teste pode rejeitar determinado modelo sem demonstrar que toda formação de preços é irracional.
+
+### 88. Daniel Kahneman e Amos Tversky: as decisões reais desafiam a racionalidade perfeita
+
+**Daniel Kahneman** (1934–2024) nasceu em Tel Aviv durante visita da família, cresceu em Paris e viveu a perseguição nazista antes de desenvolver carreira acadêmica em Israel e nos Estados Unidos. Estudou psicologia na **Hebrew University of Jerusalem** e obteve doutorado na **University of California, Berkeley**. **Amos Tversky** (1937–1996), nascido em Israel, estudou psicologia e matemática e concluiu doutorado na **University of Michigan**.
+
+A colaboração entre os dois investigou **heurísticas e vieses** na avaliação de probabilidade e na tomada de decisão sob risco. A **teoria da perspectiva**, publicada em **1979**, argumentou que pessoas avaliam ganhos e perdas em relação a pontos de referência e podem atribuir peso psicológico assimétrico às perdas. As preferências observadas em experimentos muitas vezes violavam pressupostos simples de utilidade esperada.
+
+A economia comportamental cresceu ao incorporar experimentos e dados sobre decisões efetivas. Os resultados não demonstram que todos os indivíduos são irracionais ou que políticas públicas devem manipular escolhas automaticamente. Vieses variam com contexto, incentivos e aprendizado, e parte das descobertas depende da replicabilidade dos desenhos experimentais.
+
+Kahneman recebeu o prêmio de Economia em **2002**, compartilhado com Vernon Smith. **Tversky havia morrido em 1996** e, pelas regras, não recebeu o prêmio postumamente. A distribuição formal da distinção não corresponde integralmente à autoria intelectual do avanço, um exemplo da diferença entre reconhecimento institucional e cooperação científica.
+
+### 89. Vernon Smith e Richard Thaler: mercados experimentais e escolhas imperfeitas
+
+**Vernon L. Smith** (nascido em 1927) estudou engenharia elétrica e economia, obtendo doutorado em **Harvard**. Desenvolveu **economia experimental**, construindo mercados controlados em laboratório para examinar formação de preços, leilões e comportamento sob regras específicas. Estudos mostraram que, em algumas condições, preços de laboratório podem aproximar-se de equilíbrio mesmo quando participantes não conhecem todo o sistema; em outras, aparecem bolhas e padrões persistentes.
+
+**Richard H. Thaler** (nascido em 1945), formado em **Case Western Reserve University** e **University of Rochester**, aplicou pesquisas comportamentais a poupança, autocontrole, contabilidade mental e planejamento de aposentadoria. Com colaboradores como **Cass Sunstein**, popularizou o conceito de **nudge**: mudanças na arquitetura de escolha podem influenciar decisões sem proibir formalmente alternativas.
+
+Vernon Smith recebeu o prêmio de **2002**, e Thaler o de **2017**. A agenda comportamental produziu instrumentos para desenhar políticas de poupança e consumo, mas também levantou questões de legitimidade: quem define a opção padrão, quais grupos são beneficiados e como garantir transparência? Um incentivo que melhora adesão a aposentadorias pode ser valioso; o mesmo mecanismo pode ser usado comercialmente para explorar atenção limitada dos consumidores.
+
+### 90. Angus Deaton e Anne Case: consumo, saúde e mortalidade social
+
+**Angus Deaton** (nascido em 1945) estudou matemática e economia na **Universidade de Cambridge** e desenvolveu carreira em econometria e pesquisa de pobreza, especialmente em **Princeton**. Seus trabalhos trataram consumo, demanda e medição de bem-estar por pesquisas domiciliares, distinguindo níveis de preços, padrões de consumo e distribuição de renda.
+
+**Anne Case** (nascida em 1958), economista formada em **SUNY Albany** e **Princeton**, desenvolveu estudos sobre saúde, trabalho e consequências econômicas de desigualdades. Com Deaton, pesquisou aumento de mortalidade e sofrimento social entre determinados grupos americanos, associado a problemas de emprego, dependência química e deterioração comunitária.
+
+A expressão **mortes por desespero** não deve ser usada como diagnóstico médico único nem como explicação individual de todas as mortes por overdose e suicídio. Trata-se de categoria analítica que procura conectar tendências sociais, saúde pública e condições econômicas. As causas são múltiplas e exigem comparar regiões, educação, acesso a serviços e mudanças na oferta de drogas.
+
+Deaton recebeu o prêmio de Economia em **2015**. A parceria com Case demonstra como indicadores econômicos podem ser ampliados para examinar saúde e mortalidade sem reduzir sofrimento humano a uma variável de renda.
+
+### 91. Esther Duflo, Abhijit Banerjee e Michael Kremer: testar políticas no terreno
+
+**Esther Duflo** (nascida em 1972) estudou economia e história na **École normale supérieure** e concluiu doutorado em **MIT**. **Abhijit Banerjee** (nascido em 1961) estudou na **Presidency College de Calcutá**, **Jawaharlal Nehru University** e **Harvard**, onde obteve doutorado. Os dois construíram carreira em economia do desenvolvimento e fundaram com colaboradores o **Abdul Latif Jameel Poverty Action Lab (J-PAL)**. São também casados, mas suas contribuições científicas precisam ser examinadas individualmente.
+
+**Michael Kremer** (nascido em 1964) estudou em **Harvard** e desenvolveu pesquisa sobre educação, saúde e desenvolvimento, incluindo estudos de campo no Quênia. O uso de **experimentos aleatorizados** permitiu comparar grupos que receberam determinadas intervenções com outros grupos comparáveis, buscando identificar efeitos causais de programas específicos.
+
+A agenda transformou o debate sobre políticas educacionais, vacinação, incentivos e combate à pobreza. Em vez de assumir que um programa deveria funcionar por parecer desejável, os pesquisadores avaliaram resultados e custos em contextos concretos. O método, contudo, enfrenta limites de validade externa: uma intervenção eficaz numa escola ou distrito pode ter resultados diferentes quando aplicada nacionalmente, com mudanças de preços, incentivos e administração.
+
+Os três receberam o prêmio de Economia de **2019**. Suas contribuições não substituem teoria histórica e macroeconômica; oferecem métodos para testar decisões específicas e aprender com os resultados, desde que comunidades participantes tenham direitos de consentimento, proteção e respeito às suas prioridades.
+
+### 92. David Card, Joshua Angrist e Guido Imbens: causalidade quando não se pode sortear a sociedade
+
+**David Card** (nascido em 1956), formado na **Queen's University** e em **Princeton**, tornou-se referência em economia do trabalho por comparar experiências reais de mudança de política, como salário mínimo e imigração. **Joshua Angrist** (nascido em 1960), formado em **Oberlin** e **Princeton**, estudou instrumentos e desenhos quase experimentais em educação, trabalho e serviço militar. **Guido Imbens** (nascido em 1963), formado na **Erasmus University Rotterdam**, **University of Hull** e **Brown University**, desenvolveu métodos de inferência causal em contextos observacionais.
+
+O desafio é que pessoas e governos não recebem tratamentos de forma aleatória em boa parte das situações econômicas. Comparar apenas trabalhadores com e sem ensino superior pode misturar o efeito da educação com renda familiar, capacidade anterior e outras características. Instrumentos, descontinuidades e diferenças-em-diferenças procuram identificar variações menos contaminadas por essas diferenças.
+
+Receberam o prêmio de Economia de **2021**. O debate sobre salário mínimo demonstrou que resultados empíricos podem contradizer certas previsões de modelos simplificados, sem comprovar que todo aumento de salário mínimo, em qualquer magnitude, será inofensivo. A inferência depende de mercado, período, grupos e hipóteses identificadoras. Seu legado foi elevar a exigência de separar correlação de causalidade aplicada.
+
+### 93. Claudia Goldin: a história das mulheres escondida nas estatísticas
+
+**Claudia Goldin** (nascida em 1946) cresceu no Bronx, Nova York, numa família ligada a educação e trabalho técnico, e estudou em **Cornell University** antes de obter doutorado na **Universidade de Chicago**. Em [sua biografia para o Nobel](https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/biographical/), relata ter começado com interesse em microbiologia e se aproximado da economia por professores e problemas de história social.
+
+Goldin examinou o trabalho feminino ao longo de séculos, utilizando censos, registros de empresas e arquivos que frequentemente omitiram atividades de mulheres casadas. Demonstrou que a participação no mercado de trabalho não seguiu crescimento linear simples: mudanças na produção doméstica, casamento, educação, normas sociais, contracepção e profissões alteraram incentivos e oportunidades.
+
+Com **Lawrence Katz**, pesquisou educação, desigualdade e a expansão do ensino médio americano; ambos também se casaram. A obra ***The Race between Education and Technology* (2008)** examinou como a oferta de trabalhadores educados pode influenciar prêmios salariais num mundo de mudanças técnicas. Em outros estudos, Goldin mostrou como **empregos que exigem horários extensos e imprevisíveis** produzem penalidades de remuneração que recaem desproporcionalmente sobre mulheres após a formação de famílias.
+
+Recebeu o prêmio de Economia em **2023**. Seu legado não é simplesmente medir uma “diferença salarial por gênero”, mas reconstruir como instituições, tecnologia, normas, decisões familiares e dados omitidos explicam diferenças históricas, sem reduzir toda disparidade a uma causa única.
+
+## X — Inovação, concorrência e os economistas do crescimento contemporâneo
+
+### 94. Paul Romer: ideias que não se esgotam quando são usadas
+
+**Paul M. Romer** (nascido em 1955) cresceu numa família ligada à vida pública americana, estudou na **University of Chicago** e na **University of California, Berkeley**, e concluiu doutorado em economia na **Universidade de Chicago**. Desenvolveu modelos de **crescimento endógeno**, nos quais investimento em pesquisa, conhecimento e inovação pode explicar parte da expansão de longo prazo que modelos anteriores tratavam como progresso técnico externo.
+
+A informação possui propriedades especiais: uma ideia usada por uma empresa pode, sob condições apropriadas, ser utilizada por outras sem se esgotar fisicamente. Criar conhecimento exige custos, enquanto reproduzi-lo pode ser relativamente barato. Essa diferença gera conflitos sobre patentes, concorrência, financiamento de pesquisa e capacidade de as empresas capturarem retorno privado.
+
+Em trabalhos de **1986 e 1990**, Romer formalizou mecanismos que relacionam conhecimento, escala e crescimento. Recebeu o prêmio de Economia em **2018**, junto com William Nordhaus. Seu argumento não implica que qualquer patente ou subsídio à tecnologia seja eficiente; monopólios de conhecimento podem restringir difusão, e externalidades justificam políticas desenhadas com cuidado.
+
+### 95. William Nordhaus: crescimento, carbono e os custos de longo prazo
+
+**William D. Nordhaus** (1941–2026) estudou na **Yale University** e obteve doutorado em economia em **Yale**, desenvolvendo carreira acadêmica associada a crescimento, energia e mudança climática. Sua pesquisa procurou incorporar clima e emissões ao cálculo econômico de longo prazo.
+
+Modelos de **avaliação integrada**, como o **DICE**, conectam atividade econômica, emissões, temperatura e danos estimados sob hipóteses sobre crescimento, tecnologia e preferências intertemporais. O **preço social do carbono** procura expressar custos de emissões adicionais para orientar decisões tributárias e investimento. A taxa de desconto é particularmente controversa porque altera o peso atribuído a danos futuros sofridos por gerações ainda não nascidas.
+
+Nordhaus recebeu o prêmio de Economia em **2018**. Seus modelos foram criticados por possíveis subestimações de danos extremos, efeitos irreversíveis e dificuldades de representar riscos climáticos não lineares. A contribuição de medir custos não elimina escolhas morais e políticas sobre responsabilidade entre países ricos e pobres ou proteção de populações vulneráveis.
+
+### 96. Joel Mokyr, Philippe Aghion e Peter Howitt: por que a inovação sustenta crescimento
+
+**Joel Mokyr** (nascido em 1946 em Leiden), historiador econômico formado em **Yale**, investigou por que sociedades conseguiram transformar invenções isoladas em sequência sustentada de inovação. Destacou a importância da circulação do conhecimento útil, da capacidade de explicar por que tecnologias funcionam e de instituições que permitam contestação de ideias.
+
+**Philippe Aghion** (nascido em 1956 em Paris), doutor em economia por **Harvard**, e **Peter Howitt** (nascido em 1946 no Canadá), doutor pela **Northwestern University**, desenvolveram modelos de crescimento por **destruição criativa**. Novas tecnologias deslocam produtos e empresas antigas, criando ganhos de produtividade e conflitos de distribuição. A competição pode estimular inovação até determinado ponto, mas concorrência extremamente destrutiva ou monopólio permanente também podem desestimular investimento, conforme o ambiente.
+
+Em **13 de outubro de 2025**, receberam o prêmio de Economia por explicar o crescimento impulsionado pela inovação, conforme o [comunicado oficial](https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/). O reconhecimento não demonstra que toda automação ou investimento em inteligência artificial produzirá salários mais altos. A transição depende de educação, negociação trabalhista, concorrência, financiamento e difusão tecnológica.
+
+A principal contribuição é unir história, modelos de inovação e conflito político: crescimento não se mantém apenas por acumular máquinas, mas também por instituições que permitem produzir e aplicar conhecimento sem impedir permanentemente mudanças que prejudicam interesses estabelecidos.
