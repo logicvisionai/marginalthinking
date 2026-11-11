@@ -135,3 +135,147 @@ A riqueza acumulada pela família, a estabilidade dos contratos bancários e a f
 | Pásion e Fórmion | Depósitos, operações privadas, sucessão | Atenas, século IV a.C. | Reputação, litígio, condição jurídica |
 | Bardi e Peruzzi | Companhias internacionais mercantis | Crises dos anos 1340 | Crédito soberano, liquidez e governança |
 | Giovanni, Cosimo e Lorenzo de’ Medici | Parcerias bancárias e filiais | 1397–1494 | Empréstimos a poderosos e supervisão |
+
+
+## Parte IV — O século do metal, das cortes e das casas mercantis transcontinentais
+
+### 14. Ulrich, Georg e Jakob Fugger: uma oficina de tecidos torna-se credora dos Habsburgo
+
+A cidade de Augsburgo, na atual Alemanha, foi um dos grandes centros mercantis da Europa centro-continental. A família **Fugger** começou com atividades de tecelagem e comércio de tecidos; sua ascensão financeira não surgiu de um tesouro secreto, mas da expansão paciente das relações comerciais com oficinas, comerciantes italianos e soberanos. **Ulrich Fugger** e **Georg Fugger** ajudaram a construir as condições que permitiram ao irmão **Jakob Fugger** transformar uma empresa de mercadorias em organização que combinava mineração, comércio de metais, câmbio e crédito.
+
+**Jakob Fugger** (1459–1525) nasceu em Augsburgo e, segundo a documentação divulgada pela [prefeitura da cidade](https://www.augsburg.de/kultur/beruehmte-persoenlichkeiten/jakob-fugger), recebeu formação mercantil em Veneza a partir dos 14 anos. Essa experiência importou mais do que uma teoria econômica sistematizada: Veneza era centro de comércio e finanças, com técnicas de registro, negociação, informação e pagamento em várias praças. Sua formação estava diretamente ligada à capacidade de comparar mercadorias e riscos de diferentes territórios.
+
+O salto patrimonial decisivo veio da combinação de crédito a casas dinásticas com direitos de exploração mineira e comércio de cobre e prata. A família podia adiantar dinheiro a príncipes e receber em contrapartida direitos sobre receitas e produção. O crédito era simultaneamente empréstimo e acesso a um fluxo físico de metal. Quando o soberano precisava financiar guerras, eleições ou administração, o banqueiro ganhava poder de negociação; quando a arrecadação falhava, a mesma relação podia transformar o empréstimo em ativo de recuperação incerta.
+
+Jakob apoiou financeiramente os Habsburgo e integrou operações ligadas à ascensão de **Maximiliano I** e à disputa eleitoral imperial de **1519**, vencida por **Carlos V**. Reduzir o episódio à frase “comprou a coroa” obscurece a distribuição concreta de pagamentos, eleitores, alianças e múltiplos agentes. A eleição imperial dependia de negociação política; financiadores viabilizavam partes desse processo, mas não exerciam soberania formal sobre os príncipes eleitores. A capacidade de mobilizar fundos rapidamente foi um recurso estratégico numa política em que obrigações dinásticas superavam as receitas correntes.
+
+O auge de Jakob coincidiu com o momento em que seus negócios eram suficientemente extensos para conectar minas alpinas, redes mercantis europeias, cortes e transações eclesiásticas. Suas ligações com a arrecadação ligada a indulgências aproximaram os negócios de conflitos que marcariam a Reforma. A questão econômica ultrapassava o crédito: envolvia a maneira como o poder religioso financiava seus compromissos e como a cobrança de receitas podia tornar-se politicamente explosiva.
+
+Em **1521**, Jakob fundou a **Fuggerei**, conjunto habitacional de assistência em Augsburgo. A instituição permanece como expressão material de uma forma paternalista de responsabilidade urbana. O investimento social era significativo, mas não cancelava a assimetria entre quem definia os critérios da assistência e os trabalhadores e devedores sujeitos a mercados e leis daquele tempo. A filantropia constituía parte do modelo de prestígio e legitimidade de uma grande família, não demonstração de que todas as práticas comerciais eram benignas.
+
+### 15. Anton Fugger: sucessão, impérios endividados e os limites do crédito de corte
+
+Depois da morte de Jakob, em 1525, **Anton Fugger** (1493–1560), sobrinho e sucessor, administrou uma rede ainda poderosa. A transferência de direção entre gerações revela uma dificuldade estrutural: clientes dinásticos podiam trocar ministros, entrar em guerra e multiplicar encargos enquanto a casa financiadora continuava obrigada a remunerar seus próprios credores e sócios. O tamanho do patrimônio não assegurava liquidez em cada momento.
+
+Anton buscou administrar compromissos com a monarquia habsbúrgica, operações de metais e atividades comerciais em diversas regiões. O século XVI foi marcado por guerras custosas, reorganizações religiosas, dívida pública e mudanças nos circuitos ultramarinos. A casa financeira que fornecia recursos ao império dependia da tributação e dos pagamentos do mesmo império. Quando uma dívida pública era rolada, seu valor nominal podia continuar registrado em livros, mas sua disponibilidade para pagar empregados e fornecedores não era equivalente a dinheiro em caixa.
+
+A continuidade familiar não foi homogênea. Ramificações patrimoniais, estratégias de sucessão e pressão fiscal reduziram a predominância relativa da casa. O fim do poder financeiro de uma dinastia frequentemente é uma perda gradual de posição frente a concorrentes, e não falência numa data única. A Fuggerei sobreviveu como instituição distinta do apogeu dos contratos mineiros, demonstrando que patrimônio cultural, reputação urbana e instituição bancária têm trajetórias separadas.
+
+### 16. A família Welser: comércio, crédito e colonialismo na América
+
+Também sediados em Augsburgo, os **Welser** construíram uma rede de comércio e finanças conectada aos mercados europeus e ultramarinos. Suas relações com os Habsburgo contribuíram para acordos que concederam à família direitos de exploração colonial na região da atual **Venezuela**, no século XVI. O arranjo é um caso extremo de conversão de financiamento soberano em privilégios territoriais: um credor recebe acesso a direitos de governo e exploração em vez de apenas juros em moeda.
+
+Esses direitos não tornaram a família soberana em sentido pleno, e sua capacidade administrativa local foi contestada. Expedições, exploração de recursos, violência contra populações indígenas, recrutamento e comércio de pessoas escravizadas integram a história da operação. O dinheiro financiava embarcações e expedições; a proteção política permitia a exploração; a distância agravava custos e dificuldades de supervisão.
+
+A experiência americana dos Welser mostra que história dos grandes financistas não pode ser narrada apenas por contratos assinados na Europa. Nas margens coloniais, a rentabilidade potencial dependia de apropriação de terra e trabalho sob regimes de coerção. O custo social ficava em grande parte fora do livro contábil que registrava dividendos e despesas da casa mercantil.
+
+### 17. Gracia Mendes Nasi: uma mulher governa uma rede de capital sob perseguição
+
+**Gracia Mendes Nasi** (c.1510–1569), também conhecida como **Beatriz de Luna**, nasceu em Portugal numa comunidade de cristãos-novos sujeita à ameaça crescente da perseguição religiosa. Casou-se com **Francisco Mendes**, ligado ao comércio de especiarias, metais preciosos e operações bancárias. Após a morte do marido, na década de 1530, teve de conduzir interesses patrimoniais num mundo em que mulheres frequentemente enfrentavam obstáculos jurídicos para administrar negócios e heranças.
+
+O cunhado **Diogo Mendes** atuava em Antuérpia, centro importante do comércio europeu. Quando ele morreu em 1543, Gracia assumiu responsabilidades ainda maiores. Sua vida passou por Portugal, Flandres, Veneza, Ferrara e o Império Otomano. Cada deslocamento respondia a uma combinação específica de segurança pessoal, limites religiosos, jurisdição de herança, tributação e capacidade de operar financeiramente. Transferir patrimônio entre Estados não era apenas mudar uma carteira: exigia agentes, documentos, conversão e confiança.
+
+A formação de Gracia foi doméstica, comercial e construída sob necessidade política. Não existe currículo de escola superior que permita tratá-la como banqueira de formação universitária. O aprendizado ocorreu na prática de negócios familiares e alianças. A viúva precisava negociar a legitimidade de suas decisões com parentes, autoridades e comerciantes; uma escolha de residência podia determinar se a herança seria protegida ou confiscada.
+
+Seu auge como grande empresária coincidiu com a capacidade de manter uma rede comercial extensa, proteger pessoas perseguidas e patrocinar iniciativas comunitárias. Sua participação nas tentativas de boicote ao porto de **Ancona** após perseguições a cristãos-novos mostra que finanças também podiam servir como instrumento de pressão coletiva, mesmo com eficácia contestada. No ambiente otomano, relacionou-se a projetos em **Tiberíades**. Seus objetivos religiosos, comunitários e patrimoniais não devem ser reduzidos à caricatura de uma comerciante que buscava apenas lucro.
+
+A sucessão envolveu sua filha **Reyna** e **Joseph Nasi**, parente e colaborador que ganhou importância política no Império Otomano. Não se deve atribuir automaticamente a ele todas as iniciativas de Gracia nem supor que casamento transferia de modo simples controle de um conglomerado. A historiografia, incluindo *The Long Journey of Gracia Mendes*, de Marianna D. Birnbaum, reconstrói uma trajetória na qual perseguição, gênero e financiamento foram inseparáveis.
+
+### 18. Thomas Gresham: finanças da Coroa e a disciplina do câmbio inglês
+
+**Sir Thomas Gresham** (c.1519–1579) pertenceu a uma família de comerciantes de Londres. Sua formação incluiu experiência no comércio e no financiamento régio, com aprendizado em redes continentais que ligavam Antuérpia à Inglaterra. Tornou-se agente financeiro da Coroa e desempenhou papel importante na administração de dívidas e câmbio sob governos Tudor, inclusive durante o reinado de **Elizabeth I**.
+
+A inovação de Gresham não foi descobrir uma lei econômica em laboratório. Como operador público, sabia que um governo que se financia repetidamente em condições desfavoráveis perde capacidade de negociação. A reputação junto aos credores, a qualidade da moeda e a organização de pagamentos eram componentes da segurança do Estado. Sua participação nas finanças reais deve ser distinguida do aforismo que leva seu nome: a chamada lei de Gresham descreve, sob certas condições de aceitação compulsória a paridade legal, a tendência de moeda subavaliada no mercado ser retirada da circulação enquanto a superavaliada permanece nos pagamentos. Não constitui regra universal para todo mercado de moedas.
+
+O **Royal Exchange**, associado a seu patrocínio e inaugurado em 1571, ofereceu infraestrutura para encontros comerciais num ambiente de expansão do crédito mercantil. Era um espaço institucional de informação e negociação. A história da família mostra como serviço ao Estado, interesse privado e reputação pública podiam reforçar-se; também como o crédito ao soberano expunha comerciantes a decisões políticas que não controlavam.
+
+### 19. Samuel Oppenheimer e Samson Wertheimer: crédito, abastecimento e proteção nas cortes centro-europeias
+
+Os banqueiros e fornecedores de corte **Samuel Oppenheimer** (1630–1703) e **Samson Wertheimer** (1658–1724) atuaram num universo de monarquias e principados que necessitavam financiar campanhas militares, materiais e despesas correntes. Não eram predecessores de bancos universais sem fricção: frequentemente operavam como fornecedores, agentes fiscais, credores e negociadores de títulos e mercadorias.
+
+Oppenheimer construiu relações com a corte dos Habsburgo, fornecendo recursos e bens ligados a campanhas. Seu êxito dependia da capacidade de adiantamento e da influência de seus agentes; sua vulnerabilidade, da proteção jurídica concedida pelo governante. Após sua morte, os problemas relacionados a obrigações e sucessão mostraram os limites dessa proximidade. Wertheimer, que também participou das finanças das cortes, atuou em operações comerciais, crédito e liderança comunitária.
+
+A condição religiosa importa para a reconstrução das oportunidades e restrições: judeus em muitos Estados europeus eram submetidos a regras específicas de residência, tributação, profissão e proteção. A presença de financiadores judeus junto às cortes não prova domínio étnico sobre o sistema financeiro; revela também restrições legais que limitavam outras ocupações e uma dependência profundamente assimétrica de príncipes. Os mesmos regimes que concediam privilégios temporários podiam revogá-los, impor exações ou expulsar comunidades.
+
+### 20. Os Berenberg e os Hope: duas maneiras de sobreviver no comércio do Norte
+
+A casa **Berenberg**, fundada em Hamburgo em 1590 por comerciantes originários dos Países Baixos, desenvolveu atividades bancárias a partir de raízes mercantis. Sucessões, casamentos e associações permitiram preservar uma firma por séculos, mas a continuidade jurídica e operacional precisou adaptar-se a guerras, mudanças de soberania, inflação, industrialização e mercados de capitais. A longevidade de uma marca não significa permanência dos mesmos instrumentos, proprietários ou riscos.
+
+Em Amsterdã, a **Hope & Co.**, associada a diferentes membros da família **Hope**, foi protagonista do financiamento internacional no século XVIII. A cidade oferecia um mercado de títulos públicos e uma ampla rede de negociação. Sua especialidade era transformar necessidades de governos distantes em papéis que investidores locais estavam dispostos a comprar. Informações, práticas de distribuição, reputação e conhecimento jurídico eram componentes do produto financeiro.
+
+O auge da Hope esteve ligado à centralidade de Amsterdã como praça de emissão e negociação de dívida soberana. Quando guerras revolucionárias e mudanças geopolíticas alteraram a segurança dos pagamentos, o mercado passou a depender de articulações crescentes com Londres. A parceria entre Hopes e Barings na **Compra da Louisiana em 1803** seria um dos pontos culminantes dessa transformação. O sucesso de uma casa mercantil podia depender de ceder protagonismo a outra praça sem abandonar completamente seus clientes.
+
+### 21. Mitsui Takatoshi: varejo, câmbio e capital no Japão Tokugawa
+
+**Mitsui Takatoshi** (1622–1694) nasceu em Matsusaka, no Japão. Aprendeu negócios na rede familiar de comércio e desenvolveu atividades de financiamento antes de abrir em **1673** lojas de tecidos em Edo e Kyoto. A documentação preservada pela [Mitsui Bunko](https://mitsui-bunko.or.jp/archives/eng_story03/) registra a participação de seus filhos na operação e o papel da família na aquisição, distribuição e venda de mercadorias.
+
+A inovação esteve em métodos de varejo e pagamentos que reduziam custos de negociação, combinados posteriormente com uma atividade de câmbio. O Japão Tokugawa utilizava moedas de ouro, prata e cobre com relações variáveis. Uma casa que recebia recursos em um mercado e precisava realizar pagamentos em outro se beneficiava da capacidade de converter unidades, manter contas e reputação. A logística de tecidos, a circulação de informação e a atividade financeira se complementavam.
+
+O desenvolvimento não foi obra isolada de um indivíduo. Filhos, empregados e sucessores contribuíram para transformar operações regionais em grupo durável. A longevidade da família Mitsui deve ser entendida à luz das mudanças institucionais posteriores à Restauração Meiji, quando conglomerados e bancos se reorganizaram sob uma economia industrial e, no século XX, passaram por intervenções e reformas. A instituição do período Edo não pode ser juridicamente confundida com cada empresa moderna que ostenta o nome Mitsui.
+
+### 22. Virji Vora e Mulla Abdul Ghafur: capitais do oceano Índico
+
+Na região de **Surat**, no oeste da Índia, **Virji Vora** (ativo sobretudo na primeira metade do século XVII) foi um dos grandes mercadores e financiadores de longa distância. Comprava, distribuía e financiava mercadorias em redes ligadas ao oceano Índico, negociando também com companhias europeias. A importância de Vora não dependia de um título nobre europeu nem de uma casa com filiais formalmente idênticas às florentinas: seu poder vinha de liquidez comercial, estoques, clientes e relações capazes de sustentar empréstimos e entregas.
+
+**Mulla Abdul Ghafur** e seus herdeiros também administraram redes mercantis extensas de Surat. O historiador **Ron Harris**, em *Going the Distance* (2020), compara ambas as empresas e mostra que eram organizações familiares, com proprietários controlando capital e gestão, sem uma separação moderna entre patrimônio pessoal e corporativo. As diferentes vulnerabilidades decorriam da necessidade de agentes, sucessores e proteção jurídica para preservar negócios intercontinentais.
+
+O auge das empresas coincidiu com a importância do comércio marítimo asiático. O declínio e as transformações das redes não podem ser explicados por um suposto “atraso” regional: guerras, competição naval, mudanças de soberania, companhias europeias dotadas de privilégios armados e limitações de transmissão familiar alteraram os custos e os riscos de operar. A história de Vora e Ghafur coloca a Ásia como participante central da finança mercantil global, não mero mercado passivo de casas europeias.
+
+### 23. Jagat Seth: a potência bancária do Bengala anterior ao domínio britânico
+
+O nome **Jagat Seth**, título honorífico associado a uma família de grandes banqueiros do Bengala, tornou-se símbolo da integração entre arrecadação, câmbio, adiantamentos a proprietários e financiamento de autoridades regionais no século XVIII. **Fateh Chand** e, na geração seguinte, integrantes como **Mahtab Rai** aparecem em estudos sobre a formação de grupos de poder no Bengala após o enfraquecimento do centro mogol.
+
+O que tornou a casa decisiva foi sua posição no mecanismo fiscal. O governo necessitava transferir e receber receita; proprietários obrigados a tributar podiam precisar de adiantamentos; comerciantes buscavam meios de liquidação e letras reconhecidas. Os banqueiros administravam parte dessas conexões. Uma casa com boa informação sobre arrecadação e crédito podia influenciar o ritmo de pagamentos sem necessariamente possuir os territórios agrícolas de onde provinham as receitas.
+
+A crise política que culminou na **Batalha de Plassey em 1757** envolveu alianças entre autoridades locais, forças da Companhia das Índias Orientais e agentes econômicos. A atuação de membros da casa não pode ser condensada na afirmação de que “venderam a Índia”: o domínio colonial britânico resultou de conquista, alianças, coerção, reorganização militar e fiscal, e decisões de múltiplos atores. Financiadores tinham interesses e escolhas, mas não comandavam sozinhos o processo.
+
+A mudança posterior do poder tributário e militar reduziu o espaço de autonomia de intermediários bancários locais. O destino das fortunas familiares foi afetado pela política, pela confiança comercial e pela substituição de jurisdições. A passagem de uma casa de prestígio para uma posição subordinada revela que intermediários podem perder poder quando um novo soberano controla diretamente os fluxos fiscais que antes precisavam financiar.
+
+## Parte V — Papel, ações e a engenharia financeira das monarquias
+
+### 24. John Law: da teoria da liquidez ao colapso francês de 1720
+
+**John Law** (1671–1729) nasceu em Edimburgo numa família ligada ao comércio e às finanças. Sua formação combinou conhecimentos de aritmética, jogos de probabilidade, viagens e observação dos sistemas monetários europeus. Sua carreira não seguiu um caminho acadêmico linear. A habilidade para compreender preços e instrumentos veio acompanhada de uma disposição extraordinária para risco, e episódios pessoais e jurídicos contribuíram para seu deslocamento entre países.
+
+Na França, depois da morte de Luís XIV, a Regência enfrentava enorme dívida pública e dificuldades de arrecadação. Law propôs expandir os meios de pagamento e reorganizar o financiamento, criando em **1716** a **Banque Générale**, posteriormente transformada em **Banque Royale**. O projeto foi associado à companhia que exploraria oportunidades comerciais e coloniais na América do Norte, especialmente no vale do Mississippi. Promessas de receitas futuras ajudavam a sustentar o valor atribuído a ações emitidas no presente.
+
+O auge do sistema ocorreu em **1719**, quando ações da companhia se valorizaram intensamente e se tornou possível converter dívida pública em participações privadas ou semiprivadas. A operação reduzia certas pressões imediatas sobre o Tesouro e expandia a circulação de papel. Mas o preço dos títulos e ações dependia de expectativas sobre resultados comerciais muito superiores ao que a economia colonial poderia entregar no curto prazo. A articulação entre Banco, Estado e companhia permitia que a própria emissão financiasse compras de ativos do sistema.
+
+Quando detentores passaram a exigir conversão em espécies e a realização dos ganhos, a promessa de liquidez tornou-se incompatível com o estoque de ativos e a confiança disponível. Em **1720**, o arranjo entrou em colapso; Law perdeu influência, deixou a França e morreu em Veneza em 1729. O desastre não prova que moeda de papel seja necessariamente insustentável: demonstra o risco de usar emissão e avaliações de patrimônio para sustentar uma expansão de preços de ativos desconectada de receitas efetivas. A [Biblioteca do Congresso dos Estados Unidos](https://guides.loc.gov/business-booms-busts/mississippi-company) preserva a cronologia essencial do mecanismo.
+
+### 25. Richard Cantillon: o financista que observou quem recebe o dinheiro primeiro
+
+**Richard Cantillon** (c.1680–1734), de origem irlandesa e atuação principalmente no continente europeu, operou crédito e especulação durante a ascensão e a crise do sistema de John Law. Sua experiência de mercado influenciou a elaboração do *Essai sur la nature du commerce en général*, publicado postumamente em 1755. É difícil separar com precisão a fortuna obtida em diferentes posições do que se conhece por biografias e litígios; mas a interação entre bancos, preços de ativos e confiança tornou-se matéria de sua reflexão econômica.
+
+Cantillon percebeu que uma expansão da quantidade de moeda não alcança todos os agentes simultaneamente. Primeiro recebem novos recursos os sujeitos ligados à mineração, ao crédito, ao governo ou a determinada atividade; eles alteram suas compras, e os preços se ajustam por canais sucessivos. A distribuição do ganho nominal depende da sequência de circulação. A interpretação posterior chamada **efeito Cantillon** é útil, desde que não seja convertida em lei invariável segundo a qual qualquer operação monetária sempre enriquece um grupo fixo.
+
+Seu percurso empresarial envolveu conflitos e acusações em contexto de bolha financeira. O contraste entre sua habilidade de análise e a insegurança pessoal e jurídica de seus negócios mostra que compreender preços não elimina risco institucional. A morte de Cantillon ocorreu em circunstâncias violentas e litigiosas; algumas reconstruções divergem sobre os detalhes. Seu legado intelectual sobre moeda, preços relativos e empreendedorismo é mais seguro que muitas histórias sensacionalistas atribuídas à sua fortuna.
+
+### 26. A South Sea Company, os diretores e os limites da reputação estatal
+
+A crise da **South Sea Bubble** na Inglaterra, também em 1720, envolveu a conversão e reorganização de dívida pública por uma companhia que recebeu privilégios comerciais. Diretores, parlamentares, funcionários e investidores participaram de uma estrutura de incentivos em que a valorização das ações podia parecer solução para as finanças da Coroa. Não há um único banqueiro que explique a operação: foi um arranjo coletivo entre Estado, empresa, mercados e política.
+
+O mecanismo dependia da confiança de que a alta do preço das ações permitiria absorver obrigações públicas em condições favoráveis. Quando as expectativas mudaram e a oferta de compradores diminuiu, os detentores descobriram que preços de mercado não são receitas tributárias nem caixa da companhia. A queda provocou perdas patrimoniais, investigações e mudanças na credibilidade do mercado.
+
+A combinação de 1720 na França e na Inglaterra produziu dois estudos de caso diferentes sobre a proximidade entre emissão, dívida e especulação. A comparação não elimina peculiaridades legais, interesses e instrumentos. Mostra, porém, como operações aparentemente sofisticadas podem mascarar uma pergunta simples: qual fluxo de dinheiro real sustentará o valor prometido e quem será responsabilizado se ele não existir?
+
+```mindmap
+Capital mercantil e financeiro, séculos XIV–XVIII
+- Redes de família
+  - sucessão e casamento
+  - agentes, correspondência e reputação
+  - patrimônio privado e sociedade comercial
+- Relações com governos
+  - arrecadação e adiantamentos
+  - direitos sobre minas e alfândegas
+  - dívida pública e privilégios coloniais
+- Instrumentos
+  - letras de câmbio e compensação
+  - depósitos e moeda de papel
+  - ações e títulos soberanos
+- Fragilidades
+  - guerra e confisco
+  - falhas de governança
+  - concentração de clientes e conversibilidade
+  - ruptura das redes de confiança
+```
