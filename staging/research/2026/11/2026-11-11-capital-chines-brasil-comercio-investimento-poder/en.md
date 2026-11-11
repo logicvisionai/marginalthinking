@@ -40,7 +40,7 @@ Bilateral merchandise trade rose from US$65.9 billion in 2015 to US$171 billion 
 
 Source values are rounded, producing small differences between sums and reported balances. FOB merchandise trade excludes services, royalties, dividends, loans and corporate acquisitions.
 
-~~~chart
+```chart
 type: line
 title: Brazil's merchandise trade balance with China, 2015–2025
 unit: US$ billion FOB
@@ -55,7 +55,7 @@ unit: US$ billion FOB
 2023 | 51.1
 2024 | 30.7
 2025 | 29.1
-~~~
+```
 
 China absorbed 28.7% of total Brazilian exports and supplied 25.3% of imports in 2025, compared with 18.8% and 17.7% in 2015. Both export customers and import suppliers have become more concentrated. A bilateral merchandise surplus does not measure domestic value added, nor does it eliminate deficits with other partners. [IPECE, Figure 3](https://www.ce.gov.br/wp-content/uploads/2026/03/ipece_informe_279_03_mar2026.pdf).
 
@@ -87,7 +87,7 @@ The CEBC tracks acquisitions, new projects, expansions and joint ventures using 
 
 The CEBC annual series is sensitive to major transactions rather than exhibiting uniform growth. It records US$13 billion in 2010, US$8.8 billion in 2017, US$1.9 billion in 2020, US$1.3 billion in 2022 and US$6.1 billion in 2025. A multi-billion-dollar acquisition can increase the annual figure without increasing Brazil's productive capital stock by an equivalent amount.
 
-~~~chart
+```chart
 type: bar
 title: Chinese investment projects recorded by CEBC, 2010–2025
 unit: US$ billion; CEBC project series, not official central-bank FDI
@@ -107,7 +107,7 @@ unit: US$ billion; CEBC project series, not official central-bank FDI
 2023 | 1.97
 2024 | 4.18
 2025 | 6.1
-~~~
+```
 
 Historical figures can be revised when projects are reclassified or new information emerges. The US$4.18 billion 2024 observation in CEBC's 2026 publication should not be silently replaced with a different estimate from an earlier edition.
 
@@ -175,7 +175,7 @@ Brazil and China signed railway cooperation and study arrangements in 2025. In J
 
 Freight flows in both directions matter. A corridor optimized for bulk exports may have low utilization on return trips. The social return depends on access for smaller producers, integration with regional industry, maintenance and land-use effects. Purchasing Chinese locomotives and wagons does not make the railway Chinese-owned. Manufacturer, lender, concessionaire, rail operator and shipper can be separate actors.
 
-~~~map
+```map
 title: Economic geography of the Brazil–China relationship
 Brazilian Center-West | Soybeans, grains, agroindustry and export corridors | Processing and transport depend on specific municipalities
 Pará and Minas Gerais | Iron ore, minerals and mining services | Logistics, refining and permits determine retained domestic value
@@ -183,7 +183,7 @@ Southeast coast | Offshore oil, ports, consumer markets and manufacturing | Expl
 Bahia and São Paulo | Electrified vehicles and supply networks | A factory does not prove high local content
 Northern Brazil and Amazonia | Logistics, energy, mining and biodiversity | Project-specific environmental and community rights matter
 China's coast and industrial interior | Processing, steelmaking, assembly and consumption | Port of entry need not be final industrial destination
-~~~
+```
 
 ## 13. Green investment and reliance on imported equipment
 
@@ -231,12 +231,12 @@ Distributional analysis should follow the revenues and costs borne by local gove
 
 ## 18. Transmission from investment to income and dependency
 
-~~~flow
+```flow
 Chinese demand for food and minerals → Brazilian exports → foreign-exchange earnings and producer income → tax revenue, infrastructure and domestic investment
 Export-product concentration → exposure to Chinese demand and commodity prices → volatile foreign earnings → exchange-rate and investment effects
 New Chinese factory → equipment purchases and hiring → domestic output → conditional local sourcing and learning → wages, tax revenue and productivity
 Acquisition of Brazilian assets → change in controlling shareholders → possible restructuring and further investment → dividends allocated under ownership and profitability
-~~~
+```
 
 These mechanisms interact. Export receipts can finance machinery and intermediate inputs that improve Brazil's production capacity. Alternatively, they may reinforce specialization in primary commodities if industrial investment remains uncompetitive. Foreign investors can supply technology, but diffusion depends on domestic suppliers, engineering capacity, contracts and competitive pressure. Building a new plant can increase local activity even when its financing is disbursed over multiple years.
 
