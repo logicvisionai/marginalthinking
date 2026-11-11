@@ -197,3 +197,74 @@ The URV allowed a learning period before physical currency exchange. People obse
 
 Stabilization also changes time horizons. Saving for a goal, comparing household budgets across months and negotiating longer-term finance become more practical when next month's inflation is not assumed to be extreme. It would be a mistake to romanticize this transformation: poor households still faced unemployment, informality, expensive credit and regional inequality. Nonetheless, removing the need to immediately dispose of a wage altered households' ability to plan. [Central Bank, 30 years of the real](https://bcb.gov.br/controleinflacao/30anosreal).
 
+
+## 12. Distribution, labor and consumption: who gained and who bore the costs?
+
+Stabilization mattered especially to households unable to transfer paychecks immediately into indexed financial instruments. For a family spending a large share of income on food and transport, the delay between receiving cash and purchasing essentials was itself a loss. Lower inflation reduced this penalty for limited financial access and made cash holding less punishing. But the size of the benefit varied with pay adjustments, employment, location, bank access and household spending patterns.
+
+Initial gains should not be equated with an automatic reduction in inequality. A dismissed or unemployed worker can lose income even while inflation collapses. Producers of tradable goods may struggle with cheaper imports while consumers of the same goods benefit. Fixed-rate debtors and creditors can experience very different results when expected inflation falls. Banks lose inflation-dependent revenue but may gain from credit expansion, fees and other activities. Distribution requires balance-sheet analysis of each group, not two undifferentiated camps of winners and losers.
+
+Research comparing the cost of Brazil's basic food basket with statutory wages and household earnings found improved food affordability for low-income groups from 1995 to 1997, largely through higher effective incomes, followed by partial deterioration after 1997. This finding cannot be generalized without qualification to all rural households, municipalities or labor categories, and does not attribute every change solely to the URV. [Nova Economia, food affordability after stabilization](https://revistas.face.ufmg.br/novaeconomia/pt_BR/article/view/2223).
+
+The political importance of stability in everyday life lay in predictability. A fixed installment meant something more definite across time; inflation no longer automatically rewarded those with the best financial defenses and penalized those paid late. Yet credit access, formal employment and asset ownership remained highly unequal. Disinflation removed one structural source of unfairness without erasing others.
+
+## 13. Banks and the disappearance of the inflation business
+
+High inflation generated banking revenue from *float*: transitory funds kept between receipt and payment, or non-interest-bearing balances that could be placed at high nominal rates. Some of these returns vanished quickly with stabilization. Systems designed to manage monetary correction had to find new sources of revenue and adjust credit risk, capital adequacy, liquidity and costs.
+
+The very decline in inflation that encouraged deposits and lending exposed fragile balance sheets. Fast credit expansion without careful borrower assessment could produce defaults. Institutions previously shielded by inflation-related gains became more dependent on asset quality. The Financial System Restructuring and Strengthening Program, PROER, established under National Monetary Council Resolution 2,208 of 6 November 1995, sought to secure liquidity and solvency through Central Bank-authorized reorganizations. The resolution documents the institution's design; it does not establish that every subsequent operation was efficient or distributionally neutral. [Resolution 2,208/1995](https://www.bcb.gov.br/pre/normativos/res/1995/pdf/res_2208_v2_l.pdf).
+
+Payment systems changed too. In an economy without monthly price increases of tens of percentage points, banks could move beyond services dedicated chiefly to protecting balances against immediate erosion. Longer-maturity lending and greater transparency about real interest rates became possible. The risk shifted: mortgages, household borrowing and sovereign liabilities now depended more directly on actual repayment capacity and financing costs, not merely nominal indexation.
+
+## 14. The dollar: an anchor of confidence and a source of vulnerability
+
+During the transition, the dollar served as an international comparison and a psychological support for the new unit. That made sense in an economy that had lost faith in its own currencies. But exchange-rate policy also has real economic effects. An appreciated domestic currency lowers the local price of imports and some inputs, disciplining pricing among import-competing producers. At the same time, it compresses margins for exporters and exposed industries, potentially reducing output and employment in particular sectors.
+
+Instead of fixing a symmetric and permanent R$1-for-US$1 conversion, authorities initially used asymmetric interventions and later managed exchange-rate bands. The bands established in March 1995 were abandoned in January 1999. Sachs and Zini already warned in 1995 that initial appreciation—with the dollar costing fewer than one real during the second half of 1994—required attention to reserves, external balances and interest rates. [Sachs and Zini, 1995](https://www.scielo.br/j/rep/a/5kRPY7Tfs6KnFxKqGx7kYjR/?format=html&lang=pt); [Central Bank, 1999 foreign-exchange policy](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
+
+Appreciation creates an intertemporal trade-off. In the short term, cheaper imported goods help disinflation and raise consumption. Over a longer period, current-account deficits need financing from abroad. When inflows dry up because of financial crisis, political uncertainty or worries about debt, the central bank may sell reserves and raise rates to defend the currency, with fiscal and productive consequences. Appreciation is not necessarily the only driver of external deterioration: activity, terms of trade, trade policy and investment flows also matter.
+
+## 15. Interest rates, reserves, debt and the bill for the new regime
+
+Interest rates were central to containing demand, remunerating real-denominated assets and managing currency pressure, especially after international shocks. Yet high rates transfer income to holders of interest-bearing claims, increase business borrowing costs, burden debtors and raise public financing expenses depending on maturity and indexation. A fall in the inflation component of nominal rates does **not** automatically imply lower **real** interest rates.
+
+Monetary policy also faced a paradox: when households regain trust in a currency, they wish to hold more real money balances. Growth in the money stock during remonetization may accommodate rising money demand rather than indicate inflationary indiscipline. Correct diagnosis requires expected inflation, liquidity preference, activity and bank lending to be considered together.
+
+| Variable | Change or pressure in 1993–1999 | Economic channel | Limitation |
+| --- | --- | --- | --- |
+| IPCA | Abrupt decline after July 1994 | Planning, wages, consumption | Not an inequality or output measure |
+| Inflation inertia | Weaker staggered indexation | Contracts and relative prices | Does not eliminate cost shocks |
+| URV/CR$ | Rising cruzeiro real quotation | Account/payment separation | Not the measured URV inflation rate |
+| Real wages | Less erosion between payday and spending | Purchasing power | Depends on job and bargaining date |
+| Primary fiscal balance | Pressure for adjustment | Fiscal credibility | Excludes interest |
+| Operational deficit | Inflation-adjusted public accounts | Fiscal sustainability | Not the nominal balance |
+| Real interest | High in several phases | Credit, currency, debt | Varies with maturity and risk |
+| Real exchange rate | Initial appreciation | Imports, exports, inflation | Not a permanent dollar peg |
+| Trade balance | Deterioration over following years | Demand and competitiveness | Distinct from current account |
+| Current account | Greater external financing needs | Vulnerability | Not just merchandise trade |
+| Reserves | Buffer and exchange intervention | Liquidity and confidence | Stock, not unrestricted income |
+| Bank credit | Expansion followed by restructuring | Demand, investment, defaults | Volume alone is not asset quality |
+| Distribution | Less inflation-related erosion | Low-income purchasing power | Jobs and assets also matter |
+| Productive investment | Depends on rates, exchange and demand | Capital and productivity | Consumption is not investment |
+| Confidence | Reinforced by repeated stable prices | Expectations, money velocity | Not captured by one index |
+
+Using contemporary definitions, Rubens Penha Cysne reported an operational deficit averaging close to zero in 1990–1993 but **4.27% of GDP** in 1995–1997. The same historical overview documented a deterioration in the external current account and a change in the ratio of money balances to output. These period averages are not independent estimates of the Real Plan's causal effects and should not be merged mechanically with contemporary fiscal series. [FGV/EPGE, macroeconomic variables 1994–1997](https://epge.fgv.br/users/rubens/brazilian-monetary-and-exchange-rate-policy-meetings/aspectos-macroeconomicos-da-economia-brasileira-no-periodo-1994-1997/).
+
+Short-run purchasing-power gains could coexist with deferred macroeconomic costs. This was the plan's central tension: nominal stability favored investment and planning, while exchange-rate defense could make capital expensive and magnify exposure to global liquidity changes. Praising cheap consumption alone or condemning high rates alone omits half the causal relationship.
+
+## 16. Mexico, Argentina and Israel: comparable disinflation, different institutions
+
+International comparison clarifies the URV's distinct contribution. Israel in 1985 combined fiscal, monetary and nominal measures to halt extremely high inflation. Its experience illustrated the importance of coordination but did not employ precisely the Brazilian sequence of a temporary unit of account followed by currency issue. Argentina's convertibility system from 1991 used a much stricter peso–dollar commitment that dominated its monetary regime and contributed to later weaknesses. Brazil used an exchange reference without giving holders an irrevocable dollar-redemption right at a fixed rate.
+
+Mexico's late-1994 currency crisis demonstrated how rapidly emerging-market capital flows could reverse when concerns about reserves and creditworthiness grew. Brazil responded to regional pressures through interest rates, intervention and managed bands from 1995. Later Asian crises in 1997 and Russia's in 1998 intensified pressure. The lesson was not that every exchange anchor was inherently mistaken; a nominal anchor can buy time to stop inflation while making its own defense costly.
+
+```map
+Brazil | URV coordinated relative prices in 1994; real banknotes followed in July; exchange bands from 1995 | Not an irrevocable dollar convertibility system
+Argentina | Peso–dollar convertibility introduced in 1991 | A different binding exchange-rate regime
+Mexico | Financial and exchange-rate crisis in December 1994 | External contagion mechanism, not a URV-type institution
+Israel | Broad stabilization program in 1985 | Comparative case of coordination, not the same accounting reform
+United States | Dollar as international financial and price reference | URV did not confer a dollar redemption right
+```
+
+These places are institutional comparison nodes, not an ordering of stabilization success or evidence of particular bilateral capital flows on particular dates.
+
