@@ -1240,7 +1240,169 @@ Economic thought and its enduring debates
   - decisions: Kahneman, Thaler
 ```
 
-## XIV — Economic thought as a contest of explanations and responsibilities
+## XIV — Other decisive traditions: financial crises, trade, Africa, Asia and care
+
+### 127. John Kenneth Galbraith: corporations, advertising and affluent societies
+
+**John Kenneth Galbraith** (1908–2006) was born in Canada, studied agriculture and economics at **UC Berkeley** and developed an academic career at Harvard alongside government and diplomatic service.
+
+In ***The Affluent Society* (1958)**, he argued that societies could devote substantial resources to private consumption and advertising while neglecting public infrastructure and services. In ***The New Industrial State* (1967)**, he examined the power of large corporations and technical management over production.
+
+His criticism of the image of markets as systems of tiny competitive firms was influential, while his stronger claims about corporate control of consumer preferences were contested. His legacy combines institutional economics, public communication and attention to the social allocation of investment.
+
+### 128. Abba Lerner: functional finance and the purposes of government budgets
+
+**Abba P. Lerner** (1903–1982) was born in what is now Moldova, grew up in London and studied at the **London School of Economics**.
+
+His theory of **functional finance**, developed in the 1940s, proposed assessing taxes, public expenditure and government debt according to their effects on output, employment and inflation rather than treating annual budget balance as an independent moral objective.
+
+The approach later influenced debates over monetary sovereignty and modern monetary theory. It does not remove inflation, foreign-exchange or real-resource constraints. Its central contribution is evaluating fiscal instruments by observable consequences.
+
+### 129. Charles Kindleberger: international crises and financial leadership
+
+**Charles P. Kindleberger** (1910–2003) studied at the **University of Pennsylvania** and **Columbia**, worked in US government and postwar European reconstruction and later taught at **MIT**.
+
+In ***The World in Depression, 1929–1939* (1973)**, he argued that failure to supply international public goods, including liquidity and policy coordination, worsened the Depression. His work on manias and crashes examined speculative credit expansions and sudden reversals of expectations.
+
+The hypothesis that a dominant power can stabilize the international system remains debated and does not imply that hegemony automatically produces good policy. Kindleberger connected banking stress, geopolitics and macroeconomic institutions.
+
+### 130. Ben Bernanke, Douglas Diamond and Philip Dybvig: banking crises
+
+**Ben S. Bernanke** (born 1953) studied at **Harvard** and earned a doctorate at **MIT**. He researched the Great Depression and later chaired the **Federal Reserve from 2006 to 2014**.
+
+**Douglas W. Diamond** (born 1953) and **Philip H. Dybvig** (born 1955), both trained at **Yale**, developed a model showing how banks combine long-term assets with deposits that can be withdrawn quickly. This provides useful liquidity but creates the possibility of self-reinforcing runs when depositors fear other depositors will withdraw first.
+
+All three received the [2022 economics prize](https://www.nobelprize.org/prizes/economic-sciences/2022/press-release/). Bernanke's policy decisions during the 2008 crisis are a separate subject from the value of his prior research. Their joint legacy is the recognition that liquidity guarantees, supervision and confidence are central to banking stability.
+
+### 131. Paul Krugman: trade, increasing returns and economic geography
+
+**Paul R. Krugman** (born 1953) studied at **Yale** and earned a doctorate at **MIT**, developing research in international trade and economic geography.
+
+**New trade theory** explains commerce between countries that produce similar manufactured goods by incorporating product differentiation, economies of scale and imperfect competition. Industrial clusters can reinforce themselves as skilled workers, customers and suppliers concentrate in the same area.
+
+Krugman received the **2008 economics prize**. His later public commentary and political positions must be assessed separately from theoretical results. The models explain important trade mechanisms without guaranteeing that every trade-policy change benefits every worker and region.
+
+### 132. Jean Tirole: market power and regulation
+
+**Jean Tirole** (born 1953) studied engineering in France and earned an economics doctorate at **MIT**, later developing a career at the **Toulouse School of Economics**.
+
+His research examined the contracts and incentives shaping firms with market power. A telecommunications or energy network may require high investment and have limited competition; regulators must consider prices, service quality, information asymmetries and future investment.
+
+Tirole received the **2014 economics prize**. The principal contribution was designing analysis appropriate to particular market structures, rather than assuming one price-control rule works for every industry.
+
+### 133. Oliver Hart and Bengt Holmström: incomplete contracts and incentives
+
+**Oliver Hart** (born 1948) studied mathematics at **Cambridge** and economics at **Princeton**. **Bengt Holmström** (born 1949), from Finland, trained in mathematics and operations research and received a doctorate at **Stanford**.
+
+Hart analysed ownership and control when contracts cannot describe every future contingency. Holmström studied incentives when employees or managers affect outcomes that also depend on luck and external circumstances.
+
+They shared the **2016 economics prize**. Their theories help evaluate executive pay, outsourcing and public-service contracts while demonstrating why high-powered financial incentives can also encourage excessive risk.
+
+### 134. Paul Milgrom and Robert Wilson: designing auctions
+
+**Paul Milgrom** (born 1948) studied mathematics and business and earned a doctorate at **Stanford**. **Robert Wilson** (born 1937) studied and developed a career at Stanford.
+
+They advanced auction theory where bidders hold private information or seek to estimate a common but uncertain value, such as the productive value of a licence. Auction rules shape bidding, information disclosure, allocation and the winner's-curse risk.
+
+They received the **2020 economics prize**. Their applied work influenced spectrum auctions. Maximizing immediate auction revenue is not always the same as maximizing social benefit if high acquisition costs reduce later investment.
+
+### 135. B. R. Ambedkar: money, caste and emancipation in India
+
+**Bhimrao Ramji Ambedkar** (1891–1956) was born in British India into a family facing severe caste discrimination. He studied at **Columbia University**, the **London School of Economics** and in law.
+
+In ***The Problem of the Rupee* (1923)**, he examined Indian money and colonial currency rules. His research also covered agriculture, public finance and economic inequality. He later played a central role in drafting India's constitution and combating caste oppression.
+
+Economic opportunity depends on legal rights, access to schooling, occupation and property. Ambedkar's lasting contribution is to join monetary analysis and political emancipation rather than treating discrimination as a non-economic issue.
+
+### 136. Dadabhai Naoroji and Romesh Chunder Dutt: colonial economic drain
+
+**Dadabhai Naoroji** (1825–1917) was an Indian educator and political leader active in India and Britain. **Romesh Chunder Dutt** (1848–1909) worked in the British Indian administration and wrote economic histories of colonial rule.
+
+Their **drain theory** examined transfers of Indian resources to Britain through government payments, debt obligations, profits and other colonial channels. Historical numerical estimates were constrained by the quality of available data, but the underlying question was important: producing export revenue does not guarantee retaining its benefits domestically.
+
+The work connected colonial taxation, agriculture and national economic sovereignty and contributed to emerging political movements in India.
+
+### 137. Samir Amin: accumulation and unequal world systems
+
+**Samir Amin** (1931–2018) was born in Egypt, studied in France and developed research and political engagement across African countries.
+
+He examined global accumulation, trade and the reproduction of unequal relations between central and peripheral economies. His arguments for greater autonomy from external dependence influenced debates over development and decolonization.
+
+Critics questioned whether proposed forms of disengagement would restrict beneficial trade or worsen domestic governance. His significance lies in analysing world capitalism from African and global South perspectives rather than treating those regions as passive recipients of European models.
+
+### 138. Thandika Mkandawire: African state capacity and social policy
+
+**Thandika Mkandawire** (1940–2020) was born in Malawi, studied in African and US academic settings and developed a major career in social policy and development research, including leadership of **CODESRIA**.
+
+He criticized the assumption that African states were inherently incapable of effective industrial or welfare policy. Historical institutions, colonial legacies, administrative capabilities and political coalitions help explain why different countries achieve different outcomes.
+
+His research challenged homogenizing accounts of Africa and the tendency to impose identical reform packages on states with widely divergent histories and productive structures.
+
+### 139. Esther Boserup: agriculture, population and women's work
+
+**Esther Boserup** (1910–1999) was born in Denmark, studied economics in **Copenhagen** and worked in international development.
+
+In ***The Conditions of Agricultural Growth* (1965)**, she examined how population pressure can stimulate more intensive agriculture and technological change, challenging simple versions of Malthusian resource limits. Outcomes depend on land rights, productive capacity, institutions and environmental sustainability.
+
+In ***Woman's Role in Economic Development* (1970)**, she documented how development policies and national statistics often ignored women's labour. Her legacy connects demographic change, agricultural technology and the distribution of unpaid and paid work.
+
+### 140. Edith Penrose: growth through organizational capabilities
+
+**Edith Penrose** (1914–1996) was born in the United States, trained in economics and pursued academic research in American and British institutions.
+
+In ***The Theory of the Growth of the Firm* (1959)**, she explained how companies expand through accumulated knowledge, management skills and productive resources. Growth creates opportunities as capabilities develop, but rapid expansion can exceed managerial capacity.
+
+Two firms with similar access to finance may perform differently because skills, organizational routines and learning cannot always be purchased immediately on open markets. Penrose influenced later resource-based and capability theories of enterprise.
+
+### 141. Anne Krueger: rent-seeking and trade policy
+
+**Anne O. Krueger** (born 1934) studied at **Oberlin** and the **University of Wisconsin–Madison** and developed careers in international trade, academic economics and multilateral institutions.
+
+Her **1974 research on rent-seeking** showed how trade restrictions and licensing systems can encourage firms to spend resources obtaining privileges rather than expanding useful output. The social cost can exceed the visible difference in market prices.
+
+Her support for liberalization and institutional reform has also been criticized where uniform prescriptions ignored productive capabilities or the social costs of transition. The contribution is a precise account of incentives created by regulatory privileges.
+
+### 142. Dani Rodrik: globalization and democratic policy choice
+
+**Dani Rodrik** (born 1957), originally from Turkey, studied at **Harvard** and **Princeton** and became a leading researcher in international and development economics.
+
+His political **trilemma of the world economy** argues that very deep international integration, full national sovereignty and democratic choice cannot all be maximized simultaneously without institutional tensions.
+
+Rodrik supports industrial strategies built around diagnosing information and coordination failures, testing results and correcting mistakes. His contribution is to focus on actual constraints and political accountability instead of assuming identical policies work everywhere.
+
+### 143. Justin Yifu Lin: structural transformation and dynamic comparative advantage
+
+**Justin Yifu Lin** (born 1952) earned an economics doctorate at the **University of Chicago** and developed a career at **Peking University** and the **World Bank**, where he became chief economist.
+
+His **new structural economics** argues that development strategies should consider existing and emerging comparative advantages while using public action to address infrastructure and coordination problems.
+
+The policy challenge is avoiding arbitrary subsidies and permanent protection. China's development involved a combination of competition, public institutions, state firms, international trade and regional experimentation that cannot be reduced to a single mechanism.
+
+### 144. Fernando Fajnzylber: industry and equity in Latin America
+
+**Fernando Fajnzylber** (1940–1991) was a Chilean economist associated with **ECLAC** and research on industrial policy, technology and Latin American development.
+
+In ***The Incomplete Industrialization of Latin America* (1983)**, he examined how industrial sectors expanded without fully overcoming technological gaps and dependence. He later emphasized the possibility of productive transformation combined with social equity through education, innovation and effective institutions.
+
+His approach challenged the view that protecting domestic markets was equivalent to developing globally competitive productive capabilities.
+
+### 145. Nancy Folbre: the economics of care
+
+**Nancy Folbre** (born 1952) studied economics and developed a research career in household labour, gender inequality and social policy.
+
+Care for children, older adults and dependent people contributes to productive capacity and welfare even where no monetary transaction is recorded. The uneven distribution of this work affects time, income, career prospects and the costs of public services.
+
+Folbre's contribution is not to assign one simplistic market wage to every household relationship but to make visible the economic activities often omitted from standard output accounts.
+
+### 146. Raghuram Rajan: systemic incentives and financial fragility
+
+**Raghuram G. Rajan** (born 1963) was born in India, studied at **IIT Delhi**, **IIM Ahmedabad** and **MIT Sloan**, and developed careers in academia, the **IMF** and the **Reserve Bank of India**, which he governed from **2013 to 2016**.
+
+Rajan researched financial intermediation, incentive structures and risks generated by securitization, leverage and short-term funding. Before the **2008 crisis**, he raised concerns about the ways seemingly dispersed risks could become correlated across institutions.
+
+He did not forecast every event or its date, but his work demonstrated why individual profits and risk models need not produce system-wide resilience. Later research also addressed institutions, inequality and the role of communities.
+
+## XV — Economic thought as a contest of explanations and responsibilities
 
 Ancient philosophers considered property, authority and justice. Mercantilists worked with governments competing for bullion, ships and taxes. Physiocrats described the circulation of agricultural surplus. Classical economists analysed production and distribution in industrializing capitalism. Marx located accumulation and conflict inside property and labour relations. Marginal economists developed models of preferences and prices. Econometricians tested claims against observed data. Keynes questioned how unemployment could persist; development economists challenged the presumption that the experiences of rich countries could be transferred without adaptation.
 
