@@ -644,7 +644,7 @@ On **12 October 2026**, the [Royal Swedish Academy of Sciences](https://www.kva.
 
 The recognition does not establish perfect forecasting or a universally optimal interest-rate rule. Policy effects depend on the structure of labour markets, credit, production and institutions.
 
-@@@flow
+```flow
 Research on household and firm decisions → models of labour, consumption, prices and investment → aggregate dynamics and expectations → fiscal and monetary policy instruments → effects on output, inflation and employment → empirical evaluation and revision
 @@@
 
@@ -1137,6 +1137,18 @@ Amsden's contribution is the empirical analysis of how states and firms acquire 
 
 
 ## XIII — Debates that did not disappear
+
+
+| Question | Major contributors | Continuing disagreement |
+|---|---|---|
+| Origins of value and prices | Smith, Ricardo, Marx, Menger, Walras, Sraffa | Production, scarcity, distribution and institutions explain different dimensions |
+| Long-run growth | List, Schumpeter, Solow, Romer, Mokyr | Capital, innovation and organization are not perfect substitutes |
+| Crises and unemployment | Malthus, Keynes, Kalecki, Fisher, Friedman, Minsky | Shocks, credit, demand and expectations can interact |
+| Peripheral development | Prebisch, Lewis, Furtado, Amsden, Sen | Structural change, capabilities and rights require distinct mechanisms |
+| Governance and collective choice | Coase, North, Ostrom, Buchanan, Arrow | Efficiency and legitimacy do not follow from ownership type alone |
+| Measurement and causality | Petty, Kuznets, Frisch, Haavelmo, Card, Duflo | Reliable statistics require clear concepts and identification assumptions |
+| Monetary policy | Wicksell, Keynes, Friedman, Lucas, Hall, Woodford | Rules, credibility, frictions and balance-sheet structure change outcomes |
+| Economics and inequality | Marx, Goldin, Deaton, Piketty, Saez, Zucman | Inequality changes with property, labour, taxation and historical conditions |
 
 ### 120. Does value come from labour, utility or institutions?
 
