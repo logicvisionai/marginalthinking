@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-11-CHINA-BRAZIL-CAPITAL-TRADE",
+  "slug": "2026-11-11-capital-chines-brasil-comercio-investimento-poder",
+  "revision": 0,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-11T17:24:27.627Z",
+  "reviewed_branch": "main",
+  "reviewed_commit": "1b4a8a8736eef2aa68d7b78afb9253857f475da3",
+  "pending_blob_sha": "e59da1ef996f5e36f0f330c21e3f0c7dd68dda37",
+  "source_blob_shas": {
+    "en": "dcd59f86d08264c4fb2be46519e0f11917e5d524",
+    "pt-BR": "67fb336b26c5ced6282f670828d9e69f5279c43b"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Reviewed complete English and Portuguese Markdown and v2 pending sidecar at immutable Git blob hashes; no public bundle found for this revision; both drafts are ready:true."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Political-economy-markets program, recognized structural-economic-outlook kind, controlled topics, 3 dimensions, allowed phenomena, multi-country BR/CN geography, English-first research-report and event-driven cadence."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Verified dated May 2026 CEBC report for 2025 project totals and historical stock, MDIC October 2026 partial Jan-Oct China trade release and March 2026 IPECE/ComexStat historical bilateral trade. Current cutoff 2026-11-11; future 2027–35 paths explicitly conditional."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Direct CEBC 2025 primary PDF confirms US$6.1bn/52 projects, US$2.76bn/7 not completed announcements, 2010-25 annual bar observations, historical US$85.5bn/355 projects and sector/entry shares. IPECE PDF Table 2 confirms 2015-25 goods-trade series; MDIC confirms 2026 partial trade; BNDES 2026 document confirms 74% combined soy/crude/iron ore. CEBC project estimates separated from BCB FDI flows, acquisitions from added capex, announced portfolios from disbursed investment."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Both manuscripts contain 22 chapters, >5,100 EN and >5,900 PT substantive words after excluding data fences and URLs, 14 unique cited URLs, multiple source domains; examines historical trade, commodities, industrial chains, power, extraction, oil, vehicles, rights, logistics, finance, territorial distribution, diplomacy and 2027–35 paths."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "Independently spot-checked primary CEBC report, IPECE/MDIC trade series, BNDES commodity concentration, ANTT railway project portfolio, Ministry of Labor inspections, INPE CBERS history and Bahia plant operations. Not every company-level or historical reference separately corroborated; those claims remain qualified and limitations explicit."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions have 3 tables, 2 explicit charts, 1 multichain flow and 1 geography map; chart year/value series identical across locales and directly trace to official IPECE/MDIC and CEBC primary report, numeric units and source/vintage labels provided."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Matched 22 numbered sections, chart values, 3 structured comparison tables, 1 regional map and 1 flow; identical set of 14 source URLs and equivalent causal qualification and economic distinctions in English and Portuguese."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "2027–35 paths are expressly scenarios rather than probabilities or announced-project estimates; identifies signals that would support/reject industrial upgrading, commodity dependence or slowdown."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "No generative self-reference or editorial metadescriptions in public prose; differentiates official findings from attribution and conditional inference. Draft is suitable for approved publishing stage, subject to deployment and independent site-build verification."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Manually applied deterministic editorial-depth conditions (>1700 words, 2 charts, 1 flow, 1 map, 3 tables, >8 URLs, ≥4 distinct source hosts, ≥6 sections, observed 2025/2026, numerical chart parity). Full npm validation cannot run in connected GitHub repository from this session; publisher must validate before public materialization."
+    }
+  },
+  "contrary_evidence": [
+    "CEBC Chinese investment totals fluctuate strongly across years and cannot be extrapolated into a smooth acceleration; the 2025 value is not an annual Banco Central FDI inflow.",
+    "Brazil's bilateral merchandise surplus coexists with concentration of around 74% of China-bound exports in three raw commodities, so surplus does not prove industrial upgrading.",
+    "Corporate acquisitions alter ownership without automatically adding new physical production; even greenfield manufacturing can have highly imported intermediate content.",
+    "Rail projects presented to investors in June 2026 are a potential Brazilian multi-source portfolio, not committed Chinese financing.",
+    "Evidence of labor violations in Camaçari comes from Ministry of Labor administrative inspection and is not a final criminal judgment."
+  ],
+  "limitations": [
+    "Assistant-led independent editorial stage rather than external human peer review; selected key primary sources were independently verified, not each historical/institutional claim exhaustively audited.",
+    "CEBC methodology counts implemented/started project capital under classifications that differ from the Central Bank's balance-of-payments direct-investment accounting.",
+    "Historical CEBC cumulative stock is a sum of catalogued project investment, not market valuation of current claims and shares.",
+    "Trade records are nominal FOB goods only; value added, services and income transfers require separate measures.",
+    "2026 bilateral trade figures cover January to October, not the closed year.",
+    "Brazil and China corporate projects require case-level proof of technology transfer, labor conditions and environmental effects; aggregate estimates are insufficient.",
+    "Actual public publishing is conditioned on SHA-bound promotion, index update, reconciliation, site validation and successful deployment."
+  ],
+  "notes": "Independent editorial pass executed under on-demand MT 4/5 QA procedure after user-requested publication. Key primary figures, chart years and methodological distinctions directly cross-checked against dated institutional sources, manuscript integrity and bilingual parity; source sampling and deployment conditions explicitly disclosed.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-11-CHINA-BRAZIL-CAPITAL-TRADE",
+    "slug": "2026-11-11-capital-chines-brasil-comercio-investimento-poder",
+    "revision": 0,
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T13:44:00-03:00",
+    "kind": "structural-economic-outlook",
+    "priority": 6,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-11-capital-chines-brasil-comercio-investimento-poder/en.md",
+        "title": "Chinese Capital in Brazil: Trade, Industry and Power, 1974–2035",
+        "deck": "From the origins of diplomatic relations to Chinese direct investment in electricity, mining, vehicles, logistics and digital services, with bilateral trade history and conditional futures.",
+        "tags": [
+          "Brazil",
+          "China",
+          "Chinese investment",
+          "Foreign direct investment",
+          "Brazil-China trade",
+          "Electricity",
+          "Mining",
+          "Electric vehicles",
+          "Geopolitics",
+          "Industrial policy",
+          "Economic security"
+        ],
+        "keywords": [
+          "Brazil China bilateral trade 1974-2026",
+          "Chinese direct investment in Brazil 2007-2025",
+          "CEBC 2025 Chinese investment",
+          "ComexStat 2015-2025 exports imports",
+          "Brazil China 2026 merchandise trade",
+          "mineral supply chains",
+          "State Grid CPFL BYD GWM",
+          "Brazil China 2027 2035 scenarios"
+        ],
+        "regime": "Asymmetric interdependence between Brazil's resource exports, Chinese industrial supply chains and investment in Brazilian infrastructure and production",
+        "key_risk": "Treating announced projects, mergers and acquisitions, official FDI liabilities, and realized capital formation as interchangeable; confusing bilateral trade surplus with technological or industrial autonomy",
+        "watch": [
+          "CEBC 2026 annual investment implementation and revisions",
+          "MDIC product-level exports and imports in 2026–2027",
+          "Chinese-owned plant utilization and local supplier shares",
+          "Mine licensing, processing stages and community impacts",
+          "ANEEL concession performance and electricity tariffs",
+          "China growth, commodity prices and global industrial trade policy",
+          "Realized rail concession bids versus potential project portfolios"
+        ],
+        "search_text": "Chinese investment in Brazil historical economic relationship Brazil China trade balance 1974 2001 2009 2025 2026 inward FDI energy electric power mining EV BYD GWM sovereignty dollar renminbi commodities soy crude oil iron ore labor rail trade diplomacy 2027 2035"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-11-capital-chines-brasil-comercio-investimento-poder/pt-BR.md",
+        "title": "Capital chinês no Brasil: comércio, indústria e poder de 1974 a 2035",
+        "deck": "Da formação diplomática às redes elétricas, mineração, veículos elétricos, logística e serviços digitais: estrutura da balança comercial, capital realizado e possibilidades para a próxima década.",
+        "tags": [
+          "Brasil",
+          "China",
+          "Investimento chinês",
+          "Investimento estrangeiro direto",
+          "Balança comercial Brasil-China",
+          "Energia elétrica",
+          "Mineração",
+          "Veículos elétricos",
+          "Geopolítica",
+          "Política industrial",
+          "Segurança econômica"
+        ],
+        "keywords": [
+          "investimentos chineses no Brasil 2007 a 2025",
+          "balança comercial Brasil China 2015 a 2026",
+          "CEBC investimentos 2025",
+          "China Brasil relações diplomáticas 1974",
+          "China soja minério petróleo",
+          "BYD Camaçari",
+          "State Grid CPFL",
+          "China investimentos 2027 2035"
+        ],
+        "regime": "Interdependência assimétrica entre exportações brasileiras de recursos naturais, cadeias industriais chinesas e investimentos em infraestrutura e produção no Brasil",
+        "key_risk": "Confundir projetos anunciados, fusões e aquisições, passivos oficiais de investimento direto e formação de capital efetiva; interpretar superávit comercial como autonomia tecnológica ou industrial",
+        "watch": [
+          "Realização e revisão dos investimentos CEBC 2026",
+          "Pauta exportadora e importadora 2026–2027 no MDIC",
+          "Utilização das fábricas e conteúdo local das fornecedoras",
+          "Licenciamento mineral, processamento e impactos territoriais",
+          "Qualidade de concessões elétricas e tarifas ANEEL",
+          "Crescimento chinês, preços internacionais e regras comerciais",
+          "Leilões ferroviários e contratos efetivos em lugar de carteiras potenciais"
+        ],
+        "search_text": "Investimentos chineses no Brasil passado presente futuro comércio investimentos diretos 1974 2001 2009 2025 2026 balança comercial energia mineração carros elétricos BYD GWM soberania dólar renminbi commodities soja petróleo minério ferro trabalho ferrovias diplomacia 2027 2035"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society",
+      "strategic-transitions"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "americas",
+        "asia-pacific"
+      ],
+      "subregions": [
+        "latin-america-caribbean",
+        "east-asia"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        },
+        {
+          "code": "CN",
+          "slug": "china"
+        }
+      ]
+    },
+    "topics": [
+      "trade-investment",
+      "macroeconomics",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "banking-credit",
+      "currencies",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "climate-environment",
+      "technology-innovation"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "research_status": "Both original Markdown manuscripts staged on main. Independent QA and SHA-bound approval are required before public materialization.",
+      "information_cutoff": "2026-11-11 America/Sao_Paulo; most recent official MDIC bilateral trade release used is Jan–Oct 2026; latest CEBC annual investment report covers 2025 and was published May 2026.",
+      "source_traceability": "Official MDIC/ComexStat through IPECE 2026; CEBC Chinese Investment in Brazil 2025 report; BNDES commodity concentration; INPE CBERS; Brazilian ministries of planning, labor, energy and ANTT; central-bank CMN swap vote; citations attached to material claims.",
+      "visual_evidence": "Both languages have 2 explicit numeric charts (2015–25 bilateral trade balance; 2010–25 CEBC Chinese investment projects), 3 Markdown tables, 1 multichain causal flow and 1 spatial exposure map. All chart data values and timeline anchors match in both language editions. Charts have comparable units only within each chart.",
+      "editorial_depth": "22 linked sections with historical evolution, trade, ownership vs capex, electricity, mining, petroleum, vehicles, labor inspection, transport, environment, digital services, currency, diplomacy, regional distribution, mechanisms, futures and falsifiable monitoring dimensions.",
+      "economic_method": "CEBC amounts are project classifications rather than central-bank FDI stock/flow. Announced projects separated from confirmed/initiated projects; acquisition separated from added physical capacity. 2025 merchandise trade FOB and Jan–Oct 2026 partial-year trade separately labeled. 2024 CEBC value follows the May 2026 revised chart (US$4.18bn), not the earlier report vintage.",
+      "translation": "English and Brazilian Portuguese editions cover the same 22 arguments and include matched charts, trade tables, sector tables, ownership table, flow, map, source URLs and temporal qualifications."
+    },
+    "contrary_evidence": [
+      "Chinese project investment is not a monotonic series: annual CEBC values vary markedly, including much lower years in 2020 and 2022.",
+      "2025 trade with China was strongly surplus-positive in nominal goods while approximately 74% of export value was concentrated in three commodities.",
+      "Acquisitions can change ownership and dividend distribution without new productive capacity; greenfield projects may rely on imported equipment and inputs.",
+      "Chinese financing or ownership of regulated assets does not automatically override Brazilian legal and regulatory authority.",
+      "Local automotive assembly does not by itself establish local cell, chip, software or component production.",
+      "Some large infrastructure proposals are feasibility studies or prospective portfolios, not executed investment."
+    ],
+    "limitations": [
+      "CEBC 2007–2025 cumulative US$85.5bn/355-project estimate is a catalogued historical investment total, not a marked-to-market inward FDI position; its component percentages/values contain rounding or classification discrepancies.",
+      "CEBC confirmed/started projects are not a complete cash-disbursement ledger, and some projects span multiple years.",
+      "Official trade totals are nominal merchandise FOB statistics, without full trade-in-services, profit-remittance or value-added accounts.",
+      "The most recent available 2026 China trade comparison is January–October only, not final calendar-year 2026.",
+      "Future 2027–2035 paths are conditional qualitative scenarios without invented numerical probabilities.",
+      "Project-specific environmental, labor and technology-transfer outcomes require additional audited local evidence; labor inspection findings are attributed to the competent authority and not described as a final criminal conviction.",
+      "Independent editorial QA, cryptographic approval, transfer to public reports, build and deployment have not yet occurred."
+    ]
+  }
+}
