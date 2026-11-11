@@ -1021,3 +1021,117 @@ A **GIC** e a **Temasek**, de Singapura, são organizações distintas, criadas 
 Nas economias em desenvolvimento, bancos públicos de fomento e bancos multilaterais podem financiar projetos que oferecem retorno social e efeitos econômicos não capturados integralmente por credores privados. O risco é substituir uma falha de mercado por uma carteira de créditos dirigidos politicamente sem avaliação de custo. A importância desses instrumentos deve ser observada no retorno produtivo, emprego e sustentabilidade fiscal, não na ostentação de um fundador célebre.
 
 A presença de entidades públicas no capital mundial também relativiza afirmações sobre a “família mais poderosa”. Recursos de pensões, Estados, seguradoras e cotistas superam, em muitos mercados, o patrimônio pessoal de qualquer banqueiro. A influência individual existe, mas opera dentro de mandatos, leis, contratos e possibilidade de substituição por outros administradores.
+
+
+## Parte XVII — Comparações de cinco milênios de financiamento
+
+### 97. O que uniu banqueiros da Babilônia e gestores de Wall Street?
+
+Os Egibi operavam empréstimos, terras e obrigações num mundo de produção agrária, autoridades imperiais e poucos arquivos preservados. Os Médici integraram câmbio, serviços papais e filiais sob acordos de parceria. Os Fugger financiaram príncipes e transformaram crédito em acesso a minas. Os Rothschild criaram uma rede de irmãos que colocava títulos públicos em diversos mercados. Os Morgan reorganizaram empresas industriais e coordenaram liquidez numa crise nacional. Bogle alterou a distribuição do retorno financeiro por meio da redução de custos. Simons tratou preços como dados, enquanto Schwarzman institucionalizou fundos de aquisição de ativos privados.
+
+O traço comum não foi uma religião, nacionalidade ou linhagem particular. Foi a capacidade de vencer alguma restrição do financiamento de sua época: falta de registro, distância, ausência de credores, carência de informação, incompatibilidade de prazo, riscos que ninguém queria assumir, custo excessivo de intermediação ou insuficiência de capital próprio. O financista transformava a natureza, a distribuição ou a liquidez das obrigações.
+
+O que os distingue são as instituições. Os Egibi não podiam captar depósitos protegidos por seguro estatal; os Médici não podiam obter liquidez ilimitada de um banco central; os Rothschild não administravam a moeda de seus países; gestores passivos não podem prometer a eliminação da perda de mercado. A história da finança é também a história da mudança do conjunto de riscos que os intermediários conseguem transferir e daqueles que permanecem com credores, trabalhadores, devedores e contribuintes.
+
+| Agente ou família | Principal mecanismo | Capital ou obrigação transformada | Ruptura ou limite documentado |
+|---|---|---|---|
+| Egibi e Murashu | Crédito, propriedade e administração | Obrigações agrárias e tributárias | Mudança de soberania e documentação fragmentária |
+| Bardi e Peruzzi | Redes mercantis, câmbio e crédito de corte | Receitas de comércio e dívidas de governos | Insolvência e liquidez nos anos 1340 |
+| Médici | Banco por parcerias, serviços eclesiásticos | Depósitos, crédito, remessas e câmbio | Gestão de filiais, política florentina, 1494 |
+| Fugger | Crédito soberano e direitos sobre minas | Metais, receitas régias e privilégios | Endividamento de cortes, mudanças comerciais |
+| Rothschild | Parceria transnacional e colocação de dívida | Títulos soberanos, ouro, infraestrutura | Guerras, nacionalizações, reorganizações |
+| Barings | Títulos estrangeiros e aceitação | Dívidas e projetos, especialmente transatlânticos | 1890 e 1995, por mecanismos diferentes |
+| J. P. Morgan | Reorganização societária, sindicatos de crédito | Ferrovias, aço, ouro e liquidez bancária | Concentração, conflito e reforma regulatória |
+| Walker | Poupança comunitária e hipotecas | Pequenos depósitos e crédito habitacional | Segregação, inadimplência e Depressão |
+| Mauá | Bancos e financiamento de infraestrutura | Crédito e investimento industrial | 1875, iliquidez e instabilidade político-financeira |
+| Buffett e Munger | Alocação de capital permanente | Seguros, participações e empresas controladas | Escala, sucessão e oportunidades marginais |
+| Bogle | Fundo indexado de baixo custo | Poupança de investidores individuais | Risco de mercado e concentração de voto |
+| Simons | Dados e modelos quantitativos | Estratégias de negociação sistemática | Opacidade de dados e risco de modelo |
+| KKR e Blackstone | Fundos de capital privado | Controle societário, dívida e ativos reais | Alavancagem, liquidez e ciclo de captação |
+| BlackRock | Gestão escalável e tecnologia de risco | Carteiras e mandatos de terceiros | Concentração operacional e direitos de voto |
+
+### 98. Como as famílias financiadoras construíam poder
+
+Na Antiguidade, a vantagem familiar era transmitir registros, propriedade e reputação em um mundo de pouca informação pública. Em Siena e Florença, parentesco permitia distribuir administradores entre praças e consolidar contratos sob uma marca. Os Rothschild elevaram essa solução a uma rede continental: irmãos operavam em cidades diferentes e trocavam informações, capital e mandatos. A família Safra preservou formas de especialização bancária e relações pessoais num mundo já dominado por supervisão e tecnologia.
+
+Casamentos, sucessão e educação eram parte da arquitetura econômica. A família podia reduzir o custo de confiar num agente e fornecer capital paciente. Mas parentesco também criava conflitos: herdeiros sem interesse ou aptidão, disputas sobre propriedade, concessões desiguais entre irmãos e impossibilidade de separar finanças domésticas de compromissos empresariais. A vantagem de transmitir controle podia transformar-se em fragilidade administrativa.
+
+A genealogia não autoriza presumir monopólio coletivo. Em todos os períodos, as firmas podiam ser divididas, nacionalizadas, vender ativos, abrir capital ou tornar-se empresas administradas por profissionais. Os ramos Rothschild do século XXI possuem empresas diferentes; JPMorgan Chase e Morgan Stanley não são a mesma pessoa jurídica; o sobrenome Rockefeller em instituições distintas não prova uma tesouraria familiar comum. O direito de voto, o patrimônio pessoal e a capacidade de influenciar decisões de terceiros precisam ser examinados separadamente.
+
+### 99. Os cinco caminhos do declínio financeiro
+
+A primeira via foi **concentração de crédito**. Bardi e Peruzzi se expuseram a soberanos, Barings à Argentina e gestores modernos a setores ou estratégias concentradas. Quando o devedor ou ativo deixou de pagar, a perda atingiu o balanço da casa. A reputação construída em negócios anteriores pode acelerar o problema se encoraja excesso de confiança em novos contratos.
+
+A segunda foi **liquidez insuficiente**. Empresas com patrimônio contabilizado em ferrovias ou imóveis não necessariamente dispunham de dinheiro para pagar obrigações vencidas. Mauá e Barings enfrentaram, em contextos distintos, essa dificuldade de converter ativos em caixa. Os modelos modernos de fundo com resgate frequente e ativos ilíquidos reproduzem uma tensão semelhante.
+
+A terceira via foi **ruptura política ou legal**. As casas de Nápoles perderam posição com a unificação italiana; o Banco Médici foi atingido pelo colapso político florentino; nacionalizações e guerras alteraram a continuidade de filiais Rothschild. O acesso preferencial a um soberano oferece oportunidades, mas concentra risco na sobrevivência do próprio regime.
+
+A quarta foi **erro de governança**. Em 1995, Barings permitiu que posições de derivativos escapassem a mecanismos básicos de controle; no sistema de John Law, o financiamento de ativos e promessas de conversibilidade se reforçavam perigosamente. Na fraude de Madoff, a própria existência das operações foi falseada. Erro de investimento, crime e insuficiência de auditoria são categorias diferentes, embora possam causar perdas conjuntas.
+
+A quinta via é menos visível: **perda de relevância**. Um banco especializado em remessas de ouro perde parte de sua vantagem quando a infraestrutura de pagamentos muda. Uma casa de empréstimos soberanos perde mercado quando governos captam diretamente por leilões e títulos padronizados. Gestores ativos enfrentam concorrência de fundos indexados; corretoras tradicionais disputam clientes com plataformas digitais. A instituição pode sobreviver juridicamente e deixar de exercer seu antigo papel econômico dominante.
+
+### 100. A educação financeira das elites: aprendizagem em casa, oficina, universidade e laboratório
+
+A formação dos primeiros credores conhecidos veio de casa, templo, escribas e experiência mercantil. Conhecer medidas, tipos de contrato e autoridade competente era mais importante do que estudar um currículo científico de finanças. No mundo mercantil italiano, correspondência, contabilidade e idiomas ampliaram o alcance das companhias. Jovens eram enviados a outras praças para aprender negociação e criar vínculos com agentes confiáveis.
+
+A expansão industrial valorizou matemática comercial, engenharia, direito e economia. Morgan passou por instituições americanas e europeias; Mauá aprendeu com casas de comércio e viagens; Buffett obteve educação econômica formal e experiência de investimento; Swensen combinou doutorado e mercados de derivativos. A profissionalização não tornou desnecessário o julgamento: ela ofereceu instrumentos mais sofisticados para avaliar risco e administrar organizações maiores.
+
+O investimento quantitativo levou o aprendizado para laboratórios de matemática, física e computação. Simons e Thorp mostraram que problemas financeiros podem ser tratados com probabilidade, dados e experimentação. Essas capacidades também introduzem fragilidades: modelos se baseiam em condições históricas que podem mudar e em dados cuja qualidade precisa ser questionada. Ter doutorado em matemática não torna alguém competente em direito bancário, governança ou gestão de pessoas por consequência automática.
+
+A comparação mais importante, portanto, não é quem obteve mais diplomas. É a relação entre formação, tipo de problema financeiro, ambiente institucional e disposição de aprender com erros. Uma boa competência em preço de ações pode não bastar para gerir depósitos à vista; talento para crédito soberano não garante sucesso em capital de risco.
+
+### 101. O ganho privado e a perda social: quem pagava pelas fortunas?
+
+As casas da Babilônia prosperaram em relações que podiam incluir escravidão e endividamento de agricultores; o comércio mediterrâneo e atlântico se articulou com trabalho forçado e expansão imperial; bancos do século XIX financiaram tanto infraestrutura produtiva quanto governos que conduziram guerras. A rentabilidade do financista era calculada em contratos, mas custos externos frequentemente ficavam fora deles.
+
+Os vencedores também produziram benefícios mensuráveis. Redes de câmbio permitiram comércio mais barato; empréstimos financiaram ferrovias e eletrificação; bancos comunitários ampliaram acesso à poupança e à casa própria; fundos indexados reduziram taxas; investimento de risco financiou empresas que introduziram produtos e elevaram produtividade. O benefício não pode ser inferido apenas do tamanho do lucro: é necessário identificar redução de custos, expansão real, qualidade dos serviços e consequências distributivas.
+
+A maior parte das biografias convencionais preserva contratos da elite, cartas de grandes sócios e retratos de família. Permanecem relativamente invisíveis os funcionários que registravam operações, carregadores de ouro, agricultores que pagavam tributos, trabalhadores que construíam ferrovias e pessoas cuja propriedade foi afetada por conquistas e reorganizações financeiras. A existência de documentação parcial não autoriza inventar experiências individuais, mas impede que a perspectiva de proprietários seja confundida com a experiência da sociedade inteira.
+
+Uma fortuna pode ser grande e historicamente importante sem ter produzido ganho social proporcional. Outra operação pode alterar profundamente acesso ao crédito sem criar uma das maiores fortunas pessoais. O teste de importância financeira deve, por isso, considerar tanto direitos e obrigações criados quanto pessoas e atividades transformadas.
+
+### 102. Os métodos que resistiram à passagem dos séculos
+
+O primeiro mecanismo é **arbitragem de informações**: saber mais depressa ou avaliar melhor um devedor, uma mercadoria ou uma empresa. Cartas comerciais, redes familiares, pesquisa de ações e análise computacional são maneiras diferentes de enfrentar a mesma escassez. Quanto mais a informação se torna pública, maior a necessidade de encontrar novas fontes de vantagem.
+
+O segundo é **transformação de prazo**: captar recursos hoje contra receitas que surgem no futuro. É essencial para bancos, obras de infraestrutura e aquisições. Seu perigo está na possibilidade de os credores exigirem pagamento antes de o investimento gerar recursos suficientes. Reservas, capital, crédito de emergência e gestão prudente podem reduzir, mas não eliminar, esse descompasso.
+
+O terceiro é **distribuição de risco**. Bancos de investimento organizam sindicatos, fundos reúnem cotistas e securitizações dividem pagamentos de ativos em títulos. Uma distribuição verdadeira permite que perdas sejam absorvidas por investidores preparados; uma distribuição ilusória transfere títulos com riscos mal compreendidos a compradores que confiam demais na reputação do intermediário.
+
+O quarto é **poder de organização**. Morgan negociou a reorganização de empresas e credores; KKR estruturou mudanças societárias; Bogle organizou produto de baixo custo; Schwarzman e Fink construíram plataformas que permitem administrar capitais de terceiros em escala. O financista cria valor quando a nova organização reduz custos ou melhora produtividade, mas também pode capturar renda por monopólio, assimetria ou privilégios políticos.
+
+O quinto é **sobrevivência institucional**. Nenhum contrato comercial é independente do ambiente que o executa. O banqueiro depende de tribunais, registros, moeda de liquidação, capacidade fiscal e estabilidade política. Quando instituições entram em crise, mesmo agentes extremamente ricos podem perder capacidade de cumprir promessas.
+
+```flow
+Famílias, clientes e investidores oferecem capital → intermediário avalia informação e riscos → contratos transformam prazo, moeda ou propriedade → empresas e governos recebem recursos → produção, cobrança de tributos e pagamentos futuros → remuneração de credores e gestores ou perdas para financiadores, trabalhadores e contribuintes
+```
+
+### 103. A herança dos grandes financistas
+
+Em cinco milênios de registros financeiros, não aparece uma classe homogênea de indivíduos capaz de controlar todas as sociedades. Aparecem intermediários de naturezas radicalmente diferentes, cuja influência aumenta quando uma mudança econômica cria escassez de liquidez, confiança ou capacidade de organizar grandes recursos. O primeiro banco de uma comunidade excluída e a rede de dívida de um império podem ser ambos historicamente transformadores, embora operem com volumes incomparáveis.
+
+O auge de uma família tende a coincidir com a demanda por sua especialidade: crédito a soberanos em guerra, distribuição de títulos públicos, construção de ferrovias, organização industrial, investimento em negócios emergentes ou gestão de grandes carteiras diversificadas. O declínio ocorre quando essas necessidades mudam, quando um ativo não paga, quando o Estado modifica as regras, quando a sucessão falha ou quando a reputação deixa de corresponder a práticas reais.
+
+A riqueza financeira mais duradoura exige, paradoxalmente, aceitar limites: recusar crédito arriscado, reservar liquidez, separar patrimônio de clientes, respeitar direitos de investidores e transferir poder antes que a capacidade de uma pessoa se torne gargalo. Os maiores fracassos mostram a inversão dessa lógica: a confiança acumulada é usada como licença para assumir riscos que ninguém compreende completamente.
+
+O nome de uma família pode sobreviver muito mais do que a sua empresa original. Pode permanecer em museus, escolas, fundos, bancos, ferrovias e arquivos enquanto a estrutura que produziu a fortuna desapareceu. Esse legado é mais legível quando o capital deixa de ser tratado como grandeza abstrata e volta a seus elementos concretos: quem forneceu o recurso, quem prometeu devolvê-lo, quem recebeu o benefício, quem suportou a perda e que instituição ficou em pé depois da crise.
+
+## Fontes documentais e historiografia
+
+As fontes abaixo complementam referências vinculadas diretamente aos capítulos. Arquivos familiares e páginas corporativas permitem verificar cronologias, dirigentes e documentos de operações; interpretações sobre efeitos econômicos e sociais precisam ser confrontadas com historiografia e fontes independentes.
+
+**Finanças antigas e medievais.** Raymond Westbrook, trabalhos sobre direito e obrigações na Mesopotâmia; Michael Jursa, estudos sobre casas mercantis da Babilônia e o arquivo Egibi; Matthew Stolper, *Entrepreneurs and Empire: The Murašû Archive* (1985); Edward E. Cohen, *Athenian Economy and Society: A Banking Perspective* (1992); Raymond Bogaert, pesquisas sobre banqueiros no mundo greco-romano; S. D. Goitein, *A Mediterranean Society* (1967–1993); Jessica Goldberg, *Trade and Institutions in the Medieval Mediterranean* (2012); [Cambridge University Press, Edwin S. Hunt, *The Medieval Super-Companies*](https://www.cambridge.org/core/books/medieval-supercompanies/); [Arquivo Datini do Archivio di Stato di Prato](https://archiviodistato.prato.it/).
+
+**Médici e Fugger.** Raymond de Roover, *The Rise and Decline of the Medici Bank, 1397–1494* (1963); Richard A. Goldthwaite, *The Economy of Renaissance Florence* (2009); Dale Kent, *The Rise of the Medici* (1978); [Museu e arquivos da Fuggerei](https://www.fugger.de/en/fuggerei.html); Greg Steinmetz, *The Richest Man Who Ever Lived: The Life and Times of Jacob Fugger* (2015); Mark Häberlein, *The Fuggers of Augsburg* (2012); Marianna D. Birnbaum, *The Long Journey of Gracia Mendes* (2003).
+
+**Rothschild.** Niall Ferguson, *The House of Rothschild*, volumes I–II (1998–1999); [The Rothschild Archive](https://www.rothschildarchive.org/business/); [Arquivo familiar e árvores biográficas](https://family.rothschildarchive.org/); Caroline Shaw, [*The Rothschilds and Brazil: An Introduction to Sources in the Rothschild Archive*](https://www.cambridge.org/core/journals/latin-american-research-review/article/rothschilds-and-brazil-an-introduction-to-sources-in-the-rothschild-archive/E4CA899BC743D4F6FCCDE909A4387396); estudo do empréstimo do Canal de Suez e recibos de 1876 preservados pelo arquivo familiar.
+
+**Casas comerciais, bancos e Estados.** [Baring Archive](https://baringarchive.org.uk/); [Bank of England Archive](https://www.bankofengland.co.uk/archive); Marc Flandreau, estudos sobre crédito soberano e finanças internacionais; Barry Eichengreen, *Golden Fetters* (1992); Charles P. Kindleberger e Robert Z. Aliber, *Manias, Panics, and Crashes*; [Federal Reserve History](https://www.federalreservehistory.org/); Ron Harris, *Going the Distance: Eurasian Trade and the Rise of the Business Corporation, 1400–1700* (2020); [Bank of Japan Currency Museum](https://www.imes.boj.or.jp/cm/english/).
+
+**Estados Unidos, exclusão e indústria.** Jean Strouse, *Morgan: American Financier* (1999); Ron Chernow, *The House of Morgan* (1990); [Federal Reserve Bank of Richmond, *Maggie Lena Walker*](https://www.richmondfed.org/publications/research/econ_focus/2022/q4_economic_history); [National Park Service, St. Luke Penny Savings Bank](https://www.nps.gov/mawa/the-st-luke-penny-savings-bank.htm); [National Archives, Freedman's Bank](https://www.archives.gov/research/african-americans/freedmans-bank.html); [Columbia Business School, história do investimento em valor](https://business.columbia.edu/heilbrunn/about/valueinvestinghistory).
+
+**Brasil.** [Instituto Histórico e Geográfico Brasileiro, Fundo Visconde de Mauá](https://atom.ihgb.org.br/atom/index.php/visconde-de-maua-irineu-evangelista-de-souza); Jorge Caldeira, *Mauá: Empresário do Império* (1995); [Banco Central do Brasil, história e supervisão](https://www.bcb.gov.br/); arquivos institucionais de Itaú Unibanco, Banco Safra, universidades e registros de companhias abertas na CVM.
+
+**Investimentos modernos.** Benjamin Graham e David Dodd, *Security Analysis* (1934); Philip Fisher, *Common Stocks and Uncommon Profits* (1958); Warren Buffett, cartas anuais a acionistas da Berkshire Hathaway; [Vanguard, história da indexação](https://corporate.vanguard.com/content/corporatesite/us/en/corp/why-vanguard/who-we-are/our-history.html); [Yale, legado de David Swensen](https://som.yale.edu/centers/swensen-asset-management-institute/overview); [Fidelity, história do Magellan Fund](https://www.fidelity.com/myfidelity/InsideFidelity/NewsCenter/quickFacts/Magellan.html); [Simons Foundation, biografia de Jim Simons](https://www.simonsfoundation.org/About/Our%20History/); [UC Irvine, Edward Thorp Papers](https://exhibits.lib.uci.edu/thorp/career); [Open Society Foundations, George Soros](https://www.opensocietyfoundations.org/george-soros).
+
+**Capital privado e finanças globais.** Bryan Burrough e John Helyar, *Barbarians at the Gate* (1989); [KKR, cronologia e fundação](https://www.kkr.com/about/history/our-journey/founding-kkr); [Blackstone, Stephen Schwarzman](https://www.blackstone.com/people/stephen-a-schwarzman/); [BlackRock, história institucional](https://www.blackrock.com/corporate/about-us/who-we-are/history); [Sequoia Capital, sua história](https://sequoiacap.com/our-history); [Andreessen Horowitz, origem](https://a16z.com/about/); [United Bank for Africa, evolução institucional](https://www.ubagroup.com/about-us/our-history/); [Banco Mundial, Tony Elumelu](https://live.worldbank.org/en/experts/t/tony-elumelu); [B Capital, Eduardo Saverin](https://b.capital/team/eduardo-saverin/); [SoftBank Group, história corporativa](https://group.softbank/en/philosophy/history).
