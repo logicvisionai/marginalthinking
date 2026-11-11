@@ -52,7 +52,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 5,
+  "revision": 6,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -124,12 +124,12 @@
   },
   "producer_checks": {
     "information_cutoff": "As of 2026-11-11 BRT. Brand Finance published 2026-06-12; surveyed more than 150,000 respondents from more than 100 countries; 193 UN member states assessed against 55 metrics. EU–Mercosur signature 2026-01-17 and provisional trade application 2026-05-01 distinguished; 1833 Malvinas recognition is explicitly marked as a retrospective scholarly attribution lacking dated Brazilian dispatch.",
-    "source_check": "205 unique annual entries with annual references; specialist historian Eugênio Vargas Garcia's 2009 updated chronological reference through 2008, year localizations and selected primary acts. Other sources: European Commission and Brand Finance for distinct 2026 claims, TSE 2018, 2020 Itamaraty consular group. Reviewed specific source passages for 1833 (Garcia author acknowledges no dated proof), 1932 and 1969; other entries require independent QA source sampling and cannot be described as 205 independently verified primary archival assertions.",
-    "historical_method": "Periodized analysis distinguishes visibility, attraction, access, realized outcomes, material capacities and constraints. The 205-year chronology separates period-constrained readings from dated treaties and office changes; annotations cite specialist year sections, not fabricated contemporary records.",
+    "source_check": "Primary UN elected membership list verifies all 11 start years; Garcia 2009 year-organized secondary historical synthesis confirms dated 1976 new African embassies, 1989 Suriname/Guyana head-of-state visits and 2007 Brazil–EU Strategic Partnership/compulsory efavirenz license. Other years remain sourced by year sections with limitations and original/legal acts for particularly contested cases. QA must audit traceability rather than presuming all 205 assertions verified.",
+    "historical_method": "Year by year chronology includes 205 dated entries 1822–2026. Revision 6 narrows 1976, 1989, 2007 entries to directly dated events from Garcia: 1976 6 embassies in Africa opened 5 Jan; 1989 Sarney's first presidential visits to Suriname/Guyana Mar 2–4; 2007 first Brazil–EU Summit established strategic partnership July4 and efavirenz compulsory license May4. Does not assert causal influence of these events absent evidence. 1833 retrospective territorial-rights attribution explicitly distinguished from contemporary note.",
     "argument_continuity": "Historical phases compare visibility, attraction, access and demonstrated influence; separates colonial/imperia coercion from later soft power, democratic legitimacy from pragmatic autonomy, climate summits from achieved implementation, and culture from market and diplomacy outcomes.",
-    "visual_evidence": "Each locale has TWO charts: UN Security Council elected terms begun by decade (11 dated starts, explicit decade table and computation) and Brand Finance 2026 ordinal positions [11 Culture,29 Overall,33 Intl Relations,43 Sustainable Future] (193-country universe, sample >150,000 across >100 countries and 55 metrics). Two tables, one causal flow and one geography map in each language. Charts use same values and order across languages and distinguish ordinal rank from continuous power score.",
-    "bilingual_parity": "English and Portuguese editions contain 205 unique annual entries, equivalent dates and citations, two quantitative chart data arrays identical [1,2,2,0,1,2,1,1,1] and [11,29,33,43], 2 Markdown tables, flow and map, symmetric 1833 qualification and source lists.",
-    "editorial_status": "Revision 5 staged after QA rev4 rejection. Independent QA with SHA-bound approval is required. No report bundle, metadata, index entry or live URL has been created."
+    "visual_evidence": "Two quantitative charts in EN/PT now both use additive COUNT data from official UN historical membership list: first 11 mandate starts by decade [1,2,2,0,1,2,1,1,1], second same 11 terms allocated to equal-duration 40-year windows [5,6], years explicitly enumerated. Second is not an ordinal rank bar. Two tables, one flow and one geographic map also present. Brand Finance ranks 11/29/33/43 remain only in comparison table with explicit noncardinal survey interpretation.",
+    "bilingual_parity": "EN and PT each 205 annual entries, same two count-based chart sequences [1,2,2,0,1,2,1,1,1] and [5,6], two evidence tables, one flow, one map, same 1976/1989/2007 specific events and 1833 caveat.",
+    "editorial_status": "Revision 6 staged after independent QA rev5 rejected ordinal-bar misencoding and broad historical inferences. No approved snapshot or public report exists; requires independent review."
   },
   "contrary_evidence": [
     "Brand Finance survey measures perceptions and rankings, not causal policy effectiveness or a comparable historical soft-power time series.",
@@ -155,9 +155,10 @@
     "Not every annual entry corresponds to a diplomatic turning point: dated institutional continuity, domestic constraints and contextual interpretation do not measure realized soft-power effects.",
     "The 2026 perception index is cross-sectional; rankings cannot be extrapolated back into the nineteenth century.",
     "Only a limited sample of Garcia's year-specific historical passages has been verified directly against the full reference PDF; do not infer all 205 annual entries are individually proved merely by hyperlinks.",
-    "The second chart depicts survey-based ordinal rank positions (1 is highest), not an interval-scale causal measure of actual diplomatic effectiveness; its bars should not be read as proportional soft-power magnitudes.",
     "The 1833 attribution regarding Argentine rights to the Malvinas remains a retrospective scholarly assertion, without independently located contemporaneous dated Brazilian recognition note.",
-    "Current revision 5 remains unpublished until independent editorial QA approval followed by authorized promotion and live deployment verification."
+    "The two charts derive from the same UN 11-term institutional-access series using different aggregation windows and should not be treated as independent observations or effect estimates.",
+    "The comparison across two 40-year windows is descriptive and not a causal estimate of democratic transition.",
+    "Revision 6 remains unpublished pending independent QA and authorized public promotion."
   ],
   "evidence_sources": [
     {
