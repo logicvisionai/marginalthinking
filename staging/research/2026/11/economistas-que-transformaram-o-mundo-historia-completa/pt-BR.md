@@ -288,3 +288,238 @@ Após a morte de Marx, Engels organizou e publicou manuscritos, participando da 
 Em ***Progresso e pobreza* (1879)**, argumentou que a valorização da terra decorrente de infraestrutura, população e atividades coletivas poderia ser apropriada por proprietários sem investimento proporcional. Propôs tributar amplamente o valor da terra, preservando incentivos para construir e melhorar propriedades. A teoria exige separar valor de localização, benfeitorias e efeitos da expectativa sobre a oferta imobiliária.
 
 O imposto sobre terra tem defensores de diferentes tradições políticas, mas sua implementação encontra problemas de avaliação, transição e distribuição entre proprietários e devedores. George não era professor de economia com treinamento formal avançado; sua influência vinha de jornalismo, debate público e campanha política. Seu pensamento permanece relevante para habitação, desigualdade urbana e finanças municipais.
+
+
+## IV — A revolução marginal, a formação das universidades econômicas e os limites do equilíbrio
+
+### 33. William Stanley Jevons: a utilidade entra na matemática econômica
+
+**William Stanley Jevons** (1835–1882) nasceu em Liverpool numa família ligada ao comércio de ferro. Estudou ciências naturais em **University College London** e trabalhou como ensaiador na Austrália, experiência que o aproximou de mineração, preços e medidas. Retornou à Inglaterra, desenvolveu carreira acadêmica e se interessou por lógica, estatística e comportamento econômico.
+
+Em ***The Theory of Political Economy* (1871)**, propôs que preços e decisões dependem de utilidade marginal, a satisfação adicional oferecida por uma unidade de bem, não de uma quantidade fixa de trabalho contida no objeto. A utilidade marginal decrescente ajuda a explicar por que as últimas unidades de água podem valer pouco num lugar abundante apesar de água ser indispensável à vida. A escolha passa a depender das alternativas disponíveis na margem.
+
+A formulação matematizou a economia, mas enfrentou limites de medição: utilidade não era diretamente observável como peso ou temperatura. Preferências, renda e restrições precisam ser inferidas do comportamento, e preços também dependem de instituições e poder de mercado. Em ***The Coal Question* (1865)**, Jevons analisou disponibilidade de carvão e eficiência energética; o chamado paradoxo de Jevons aponta que maior eficiência pode reduzir custo e ampliar consumo total, dependendo da resposta da demanda.
+
+Sua morte acidental por afogamento em 1882 interrompeu uma carreira fértil. O legado está na combinação de lógica, matemática, utilidade e análise de energia, com problemas que ainda reaparecem em políticas ambientais.
+
+### 34. Carl Menger: valor subjetivo e a tradição austríaca
+
+**Carl Menger** (1840–1921) nasceu em família instruída no Império Austríaco, estudou direito em Praga e Viena e obteve doutorado em direito pela **Universidade de Cracóvia**. Trabalhou como jornalista econômico e funcionário público antes de atuar como professor em Viena e educador do arquiduque **Rudolf**.
+
+Em ***Princípios de economia política* (1871)**, formulou teoria subjetiva do valor: bens recebem valor por sua relação com necessidades humanas e com a escassez de unidades capazes de satisfazê-las. Bens de ordem superior — máquinas, insumos e outros meios produtivos — obtêm importância econômica de seu papel na produção de bens desejados. O preço não pode ser explicado apenas pela quantidade de trabalho passada.
+
+Menger também investigou a origem da moeda, defendendo que mercadorias mais comercializáveis podem tornar-se meios de troca sem planejamento central explícito. O mecanismo não prova que toda moeda tenha surgido desse modo, pois registros de tributos, dívida e crédito também precederam moedas cunhadas.
+
+Sua disputa metodológica com a escola histórica alemã, especialmente com **Gustav Schmoller**, ficou conhecida como *Methodenstreit*. Menger buscava regularidades teóricas, enquanto seus críticos insistiam na especificidade institucional e histórica. A escola austríaca posterior ampliou seu legado em direções que nem sempre coincidem com tudo que escreveu.
+
+### 35. Léon Walras: a economia como sistema de mercados interdependentes
+
+**Léon Walras** (1834–1910) nasceu em Évreux, na França, e cresceu num ambiente de debates intelectuais associado ao pai **Auguste Walras**. Não teve trajetória acadêmica linear: estudou ciências, trabalhou em jornalismo, administração e cooperação antes de conquistar cadeira de economia na **Universidade de Lausanne**.
+
+Nos ***Elementos de economia política pura* (1874–1877)**, construiu o modelo de **equilíbrio geral**: preços de diferentes bens e fatores são interdependentes, porque comprar um produto implica gastar renda, empregar recursos e alterar demandas de outros mercados. Não basta calcular oferta e procura de trigo isoladamente se salários, aluguel da terra, transporte e preço de alternativas também mudam.
+
+O mecanismo de ajuste por tentativa de preços (*tâtonnement*) tornou-se ferramenta analítica para perguntar sob que condições um conjunto de mercados poderia equilibrar-se. O modelo exige pressupostos fortes, e a existência de solução matemática não demonstra que mercados reais convergem rapidamente nem que resultados sejam equitativos. A prova formal de existência de equilíbrio seria desenvolvida em outros contextos décadas depois.
+
+Walras também defendia propostas sociais, incluindo discussões sobre propriedade pública da terra. Sua figura não cabe no rótulo simplista de defensor de um Estado sem funções. O legado foi fornecer linguagem matemática para interdependência econômica, posteriormente criticada pelas dificuldades de representar crises, informação imperfeita e processos de mudança estrutural.
+
+### 36. Eugen von Böhm-Bawerk: capital, tempo e juros
+
+**Eugen von Böhm-Bawerk** (1851–1914) nasceu em Brno, no Império Austríaco, estudou direito e economia e desenvolveu carreira em universidades e no serviço público, inclusive como ministro das Finanças. Foi próximo do ambiente intelectual de Carl Menger e ajudou a consolidar a tradição austríaca sobre capital e juros.
+
+Sua obra ***Capital and Interest***, publicada em volumes a partir de 1884, examinou por que bens presentes e futuros podem ter valores distintos e como processos produtivos exigem investimentos antes de gerar produtos finais. A taxa de juros não precisava ser explicada exclusivamente por exploração ou pela produtividade física de uma máquina; preferências temporais, oportunidades de produção e escassez de recursos desempenhavam papéis.
+
+Böhm-Bawerk criticou Marx, especialmente problemas na passagem da teoria do valor-trabalho para preços e lucros de capitais com diferentes composições. Marxistas responderam que sua crítica interpretava de maneira parcial o objeto da teoria, e o debate continuou em múltiplas escolas. A disputa é substantiva: envolve o que determina lucros e como comparar valores gerados em processos produtivos distintos.
+
+Sua passagem pelo ministério expôs tensões entre teoria econômica e escolhas fiscais. Um sistema de capital complexo depende de instituições, moeda e expectativas que vão além de decisões individuais sobre esperar pelo consumo futuro.
+
+### 37. Alfred Marshall: oferta, demanda, tempo e a formação da profissão
+
+**Alfred Marshall** (1842–1924) nasceu em Londres numa família que valorizava educação religiosa, estudou matemática em **St John's College, Cambridge**, e posteriormente passou a ensinar economia. Casou-se com **Mary Paley Marshall**, uma das primeiras mulheres a estudar em Cambridge e coautora de escritos econômicos iniciais. O contexto institucional da universidade impunha restrições às mulheres, que marcaram a carreira da esposa de maneira diferente da sua.
+
+Em ***Principles of Economics* (1890)**, Marshall reuniu teoria marginal e preocupação com produção, custos, firmas, concorrência e renda. A conhecida representação de curvas de oferta e demanda permitia analisar a formação de preços num mercado específico. Marshall diferenciava horizontes temporais: no curto prazo, capacidade produtiva pode estar fixa; no longo prazo, empresas entram, saem, investem e alteram a oferta.
+
+Sua **elasticidade-preço da demanda** explicitou que uma variação percentual de preço produz mudanças de quantidade de magnitudes distintas conforme o bem e as alternativas. Excedente do consumidor e economias externas também ampliaram ferramentas para avaliar políticas e concentração produtiva. Mas representação gráfica e equilíbrio parcial podem esconder conflitos distributivos e conexões entre mercados.
+
+Marshall ajudou a transformar economia em disciplina universitária autônoma e treinou gerações posteriores. O auge de sua influência acadêmica contribuiu para a profissionalização, mas também para uma seleção institucional que frequentemente excluía mulheres e perspectivas não britânicas.
+
+### 38. Francis Ysidro Edgeworth: negociação, utilidade e limites da competição
+
+**Francis Ysidro Edgeworth** (1845–1926) nasceu na Irlanda em família de relações intelectuais e estudou em **Trinity College Dublin** e Oxford. Sua formação envolveu literatura, matemática autodidata e reflexão moral, antes de uma carreira acadêmica em economia e estatística.
+
+Em ***Mathematical Psychics* (1881)**, buscou descrever relações de troca por instrumentos matemáticos e apresentou ideias que conduziriam à **caixa de Edgeworth**, representação de possibilidades de alocação entre duas pessoas. O conjunto de contratos mutuamente aceitáveis pode ser amplo quando poucos agentes negociam, e a concorrência entre muitos participantes tende, sob condições específicas, a restringir resultados.
+
+O mecanismo ajudou a relacionar negociação, utilidade e equilíbrio, mas não demonstra que toda alocação competitiva seja justa. O modelo depende de dotação inicial: quem já possui mais recursos entra na troca com oportunidades diferentes. Seu trabalho estatístico e editorial também foi importante para a formação da profissão.
+
+Edgeworth deixou uma matemática de escolha e negociação que influenciou a teoria posterior do bem-estar; a desigualdade inicial continua sendo problema que a elegância do desenho não resolve.
+
+### 39. Vilfredo Pareto: eficiência, elites e as duas faces de uma teoria
+
+**Vilfredo Pareto** (1848–1923) nasceu em Paris numa família italiana ligada a posições políticas, estudou engenharia em **Turim** e trabalhou com infraestrutura e indústria antes de dedicar-se à economia em Lausanne. Sua formação técnica influenciou o uso de matemática e análise de distribuição de renda.
+
+O princípio de **eficiência de Pareto** define uma situação em que não é possível melhorar o bem-estar de uma pessoa sem piorar o de outra, dadas as preferências e recursos do modelo. A definição não estabelece igualdade, justiça ou legitimidade da distribuição existente: uma economia extremamente desigual pode ser eficiente nesse sentido formal.
+
+Pareto estudou distribuições de renda e concentração patrimonial por relações empíricas aproximadas, dando origem ao nome de sua distribuição estatística. A famosa regra “80/20”, popularizada posteriormente, não deve ser atribuída como lei universal que Pareto demonstrou para toda sociedade.
+
+Sua atividade posterior em sociologia e teoria das elites trouxe posições políticas controversas, e o uso seletivo de seus argumentos por movimentos autoritários exige análise histórica cuidadosa. A importância de sua economia reside na separação entre eficiência e juízos distributivos, não em oferecer um critério completo de justiça social.
+
+### 40. Knut Wicksell: juros, bancos e o processo cumulativo de preços
+
+**Knut Wicksell** (1851–1926) nasceu na Suécia, estudou na **Universidade de Uppsala**, obteve formação em matemática e desenvolveu ideias sociais e econômicas frequentemente controversas em sua época. Ensinou em Lund e tratou de população, tributação, juros e dinheiro.
+
+Em ***Interest and Prices* (1898)**, apresentou a relação entre a taxa de juros praticada por bancos e uma taxa “natural” associada à rentabilidade real de investimento e poupança. Se a taxa bancária fica persistentemente abaixo daquela compatível com equilíbrio de recursos, crédito e demanda podem crescer de modo cumulativo, pressionando preços. Acima dela, atividade e preços podem ser comprimidos.
+
+A taxa natural não é diretamente observável e pode variar; essa dificuldade tornou-se central em debates contemporâneos de bancos centrais. O modelo não transforma a política monetária em simples ajuste mecânico de um único número, pois crédito, expectativas e choques reais interferem no processo.
+
+Wicksell conectou a teoria monetária a decisões bancárias e antecipou questões de política que seriam desenvolvidas por Keynes, economistas suecos e escolas posteriores. Sua dimensão fiscal também foi importante, incluindo reflexão sobre tributação e consentimento.
+
+### 41. Irving Fisher: equações monetárias, dívida e a lição de uma ruína pessoal
+
+**Irving Fisher** (1867–1947) nasceu em Nova York, estudou na **Universidade Yale**, onde obteve doutorado em economia e matemática e construiu extensa carreira acadêmica. Sua formação reunia matemática, finanças, saúde pública e preocupação com mensuração. Casou-se com **Margaret Hazard** e constituiu família; além da docência, investiu recursos em negócios ligados a sistemas de registro e informação.
+
+Fisher formalizou a relação entre estoque monetário, velocidade, preços e transações e elaborou teorias de juros, valor presente e escolhas intertemporais. A equação de troca tornou-se referência, mas sua interpretação causal depende de como quantidade de moeda e velocidade são determinadas. Em ***The Theory of Interest* (1930)**, examinou relações entre poupança, investimento e preferência temporal.
+
+Pouco antes da crise de **1929**, Fisher fez declarações excessivamente otimistas sobre o mercado acionário e sofreu grandes perdas pessoais. O episódio é importante porque mostra que um analista capaz de criar modelos pioneiros pode falhar na previsão do contexto de mercado. Em ***The Debt-Deflation Theory of Great Depressions* (1933)**, formulou mecanismo pelo qual queda de preços aumenta o valor real das dívidas, provoca vendas de ativos e intensifica a própria depressão.
+
+A teoria de dívida-deflação foi recuperada em debates sobre crises financeiras, sobretudo quando devedores e bancos possuem balanços fragilizados. Fisher não desapareceu intelectualmente após o erro de 1929; reformulou sua análise a partir da experiência, demonstrando como fracasso empírico pode produzir avanço teórico.
+
+### 42. Thorstein Veblen: consumo conspícuo e as instituições do prestígio
+
+**Thorstein Veblen** (1857–1929) nasceu em Wisconsin numa família de imigrantes noruegueses ligada à agricultura, estudou em **Carleton College**, **Johns Hopkins** e **Yale**, onde obteve doutorado. Sua carreira acadêmica foi irregular, com conflitos institucionais e dificuldades de adaptação às convenções universitárias.
+
+Em ***The Theory of the Leisure Class* (1899)**, investigou como consumo e lazer podem funcionar como sinais de posição social. A chamada **consumação conspícua** não significa que todo comprador de um bem caro busca apenas impressionar: o argumento é que padrões de distinção e comparação social podem influenciar demanda, prestígio e alocação de recursos.
+
+Veblen criticou a separação excessiva entre decisão individual e instituições, analisando hábitos, tecnologia, grandes empresas e poder financeiro. Sua perspectiva influenciou o institucionalismo americano, mas muitas de suas categorias foram apresentadas em linguagem sociológica e histórica difícil de operacionalizar como hipóteses estatísticas específicas.
+
+A observação de que mercados funcionam em contextos de imitação, status e organização empresarial antecipou debates comportamentais, mas não deve ser confundida com experimentos modernos que medem causalidade individual.
+
+### 43. John R. Commons: sindicatos, direito e ação coletiva
+
+**John Rogers Commons** (1862–1945) nasceu em Ohio, estudou em **Oberlin College** e frequentou **Johns Hopkins** sem completar doutorado. Trabalhou como professor, pesquisador e reformador, especialmente na **Universidade de Wisconsin**. Sua formação mesclou economia, história, direito do trabalho e experiências de investigação de empresas e conflitos sociais.
+
+Em ***Institutional Economics* (1934)**, descreveu transações econômicas como relações governadas por direitos, obrigações, normas e decisões coletivas. Salários não resultam apenas de produtividades abstratas: dependem também de contratos, poder de barganha, sindicatos, arbitragem e instituições judiciais. O estudo da empresa precisava incluir regras efetivas de organização.
+
+Commons participou de debates que influenciaram legislação trabalhista e sistemas de seguridade nos Estados Unidos. Sua contribuição não foi apenas a ideia geral de que “instituições importam”, mas a descrição de mecanismos jurídicos concretos de negociação e execução.
+
+A escola perdeu parte de sua centralidade com a matematização do pós-guerra, embora problemas de contratos, direitos de propriedade e desenho institucional retornassem ao centro da disciplina sob linguagens diferentes.
+
+### 44. Rosa Luxemburg: acumulação, imperialismo e o custo da expansão externa
+
+**Rosa Luxemburg** (1871–1919) nasceu em Zamość, então território sob o Império Russo, numa família judaica polonesa. Estudou em **Zurique**, uma das poucas universidades europeias que aceitavam mulheres naquele momento, e concluiu doutorado em **1897** sobre desenvolvimento industrial da Polônia. Sua formação econômica articulava estatística, história e militância socialista.
+
+Em ***A acumulação do capital* (1913)**, procurou explicar as condições de expansão capitalista e a relação entre reprodução, demanda e mercados não capitalistas. Argumentou que imperialismo e penetração de novas regiões tinham papel na continuidade da acumulação. O debate com outros marxistas envolvia a interpretação dos esquemas de reprodução de Marx e a possibilidade de crescimento sustentado num sistema capitalista fechado.
+
+Luxemburg criticou autoritarismo e defendeu participação política de massas, embora estivesse profundamente comprometida com transformação socialista. Sua atuação na revolução alemã e o assassinato em **1919** tornaram sua trajetória inseparável das rupturas europeias após a Primeira Guerra Mundial.
+
+Sua teoria da necessidade de expansão externa foi criticada por interpretações que demonstram possibilidades de reprodução ampliada sem mercados não capitalistas, mas continua relevante para debates sobre imperialismo, violência econômica e integração desigual de regiões ao capitalismo mundial.
+
+### 45. Rosa e Joan não são exceções isoladas: Mary Paley Marshall e o custo institucional da exclusão
+
+**Mary Paley Marshall** (1850–1944) foi uma das primeiras mulheres a frequentar cursos em Cambridge, tendo estudado em **Newnham College**. Trabalhou como professora de economia e escreveu com Alfred Marshall ***The Economics of Industry* (1879)**. As restrições à atribuição de graus acadêmicos a mulheres em Cambridge limitavam reconhecimento formal e oportunidades de carreira apesar de sua competência.
+
+O casamento com Alfred Marshall criou colaboração intelectual e também assimetria de reconhecimento. Em relatos posteriores, a obra do marido tornou-se fundamento de manuais, enquanto a contribuição e a carreira de Mary receberam atenção muito menor. Isso não prova que todas as ideias de Alfred foram escritas pela esposa; evidencia, porém, como autoria e prestígio dependem de regras universitárias e de gênero.
+
+A história da profissão não pode avaliar importância apenas pelo número de citações de autores de um período em que mulheres eram impedidas de lecionar, obter graus ou participar de sociedades em condições equivalentes. O efeito da exclusão foi reduzir o conjunto de pesquisadores, temas e dados considerados legítimos.
+
+## V — Crise, guerra e a invenção da macroeconomia
+
+### 46. Joseph Schumpeter: formação austríaca, crises e destruição criativa
+
+**Joseph Alois Schumpeter** (1883–1950) nasceu em território da atual República Tcheca, então sob domínio austro-húngaro, numa família de origem industrial. Estudou na **Universidade de Viena**, onde recebeu formação jurídica e econômica e conviveu com debates ligados à escola austríaca. Trabalhou como professor, ministro das Finanças da Áustria e dirigente bancário antes de estabelecer carreira acadêmica em **Harvard**.
+
+Em ***Teoria do desenvolvimento econômico* (1911)**, colocou o empreendedor inovador no centro das mudanças econômicas. Novos produtos, métodos, mercados e organizações alteram preços e lucros, desvalorizando empresas e técnicas existentes. O crédito pode viabilizar inovação antes que o novo negócio produza renda própria. Crescimento, portanto, não é apenas acumulação homogênea de capital.
+
+Em ***Capitalismo, socialismo e democracia* (1942)**, popularizou a expressão **destruição criativa** para descrever a transformação das estruturas produtivas por concorrência inovadora. O mecanismo não implica que toda inovação melhora imediatamente bem-estar ou emprego; trabalhadores e regiões vinculados a tecnologias antigas podem sofrer perdas duradouras. O desafio institucional é permitir transformação sem transformar custos sociais em obstáculo permanente à inovação.
+
+Schumpeter enfrentou dificuldades familiares e financeiras, incluindo uma passagem malsucedida por atividades bancárias. Sua previsão de possíveis transformações políticas do capitalismo não deve ser confundida com defesa inequívoca de uma transição específica. A influência de suas ideias cresceu intensamente com modelos modernos de crescimento endógeno, economia evolucionária e história da inovação.
+
+### 47. John Maynard Keynes: Cambridge, guerra e a economia do desemprego
+
+**John Maynard Keynes** (1883–1946) nasceu em Cambridge, filho do economista **John Neville Keynes** e de **Florence Ada Brown**, educadora e participante da vida política municipal. Estudou em **Eton** e **King's College, Cambridge**, primeiro com interesse em matemática e filosofia. Trabalhou no serviço público, na universidade e no Tesouro britânico; casou-se com a bailarina **Lydia Lopokova**. Sua formação e seus círculos, incluindo Bloomsbury, influenciaram seu modo de relacionar economia, cultura e política.
+
+Participou de negociações associadas ao fim da Primeira Guerra Mundial e criticou os termos econômicos do Tratado de Versalhes em ***As consequências econômicas da paz* (1919)**. O argumento de que reparações excessivas poderiam enfraquecer produção europeia foi influente, embora seus números, avaliações políticas e previsões sejam objeto de controvérsias historiográficas.
+
+Em ***Tratado sobre a moeda* (1930)** e, sobretudo, ***Teoria geral do emprego, do juro e da moeda* (1936)**, questionou a suposição de que mercados competitivos necessariamente restabelecem emprego pleno de forma rápida. Investimento depende de expectativas de lucro futuras, sujeitas a incerteza que não pode ser reduzida a uma distribuição de probabilidades conhecida; famílias e empresas podem desejar aumentar liquidez simultaneamente, reduzindo gasto e receita agregada.
+
+O **multiplicador** descreve como uma mudança de gasto pode gerar alterações maiores na renda, conforme propensão a consumir, impostos, importações e capacidade produtiva. Não é número constante que permite calcular qualquer projeto público por mera multiplicação. O argumento de intervenção fiscal depende das condições econômicas: durante utilização plena de recursos, gasto adicional pode pressionar preços e importações, enquanto em depressão pode mobilizar capacidade ociosa.
+
+Keynes participou da construção de Bretton Woods e de discussões sobre instituições monetárias internacionais. Sua proposta de uma unidade de compensação supranacional, o **bancor**, não foi adotada. Morreu pouco depois da Segunda Guerra Mundial, deixando uma teoria transformada por intérpretes que frequentemente enfatizaram somente políticas fiscais e deixaram em segundo plano a incerteza fundamental de sua obra.
+
+### 48. Michał Kalecki: lucros, conflito distributivo e a política do pleno emprego
+
+**Michał Kalecki** (1899–1970) nasceu em Łódź, na Polônia, numa família ligada a atividades industriais e comércio; dificuldades financeiras familiares interromperam parte de sua educação formal. Trabalhou em empresas, pesquisa e estatística econômica. Desenvolveu teoria de lucros e investimento em diálogo com Marx e o pensamento clássico antes de a *Teoria geral* de Keynes tornar-se referência dominante.
+
+Kalecki explicou que decisões de investimento e de gasto dos capitalistas podem determinar lucros agregados, sob identidades contábeis e hipóteses de consumo e poupança. Sua análise de preços e **grau de monopólio** examinou a influência de empresas sobre margens e distribuição de renda. A economia não era um mercado de concorrentes idênticos: poder de mercado e sindicatos importavam.
+
+Em ***Political Aspects of Full Employment* (1943)**, argumentou que a manutenção do emprego pleno pode enfrentar resistência política empresarial mesmo quando tecnicamente possível, porque altera o poder de barganha dos trabalhadores e diminui o papel da ameaça de desemprego. A tese não implica que todo empresário se oponha sempre ao crescimento; identifica conflito entre estabilidade macroeconômica e disciplina social do trabalho em contextos específicos.
+
+Kalecki trabalhou em organismos internacionais e retornou à Polônia em período de profundas mudanças políticas. Enfrentou tensões em relação à administração de economias socialistas, mostrando que sua crítica ao capitalismo não implicava aprovação irrestrita de qualquer planejamento. Sua influência está em conectar macroeconomia, lucros e distribuição.
+
+### 49. Friedrich Hayek: preços, conhecimento disperso e o problema da coordenação
+
+**Friedrich August von Hayek** (1899–1992) nasceu em Viena numa família de acadêmicos e servidores, estudou direito e economia na **Universidade de Viena** e teve contato com a tradição austríaca de Menger e Böhm-Bawerk. Trabalhou no estudo de ciclos econômicos, passou pela **London School of Economics**, pela **Universidade de Chicago** e por instituições europeias. Recebeu o prêmio de Economia de 1974 conjuntamente com Gunnar Myrdal.
+
+Hayek argumentou que o conhecimento relevante para organizar uma economia está disperso entre milhões de pessoas. Preços podem condensar informações sobre escassez relativa e oportunidades locais sem que uma autoridade conheça todas as condições individuais. Em ***The Use of Knowledge in Society* (1945)**, a questão central não era apenas eficiência de cálculo, mas limites de informação para decisões centralizadas.
+
+No debate do cálculo econômico socialista, criticou a pretensão de coordenar de cima um sistema complexo de produção e consumo. Seus interlocutores, incluindo **Oskar Lange**, responderam que preços de referência e procedimentos de ajuste poderiam simular certas condições competitivas. A evolução posterior de economias planejadas forneceu experiências, mas não reduziu a disputa filosófica a uma única demonstração matemática.
+
+Em ***The Road to Serfdom* (1944)** e obras políticas posteriores, advertiu contra concentração de poder econômico e político. Algumas associações históricas entre defensores de políticas liberais e regimes autoritários suscitaram controvérsias, e a avaliação de Hayek não deve depender de tratar todas as suas posições e decisões como idênticas. Sua grande contribuição está no problema da informação e das instituições de coordenação, não na ideia infundada de que mercados jamais falham.
+
+### 50. Gunnar Myrdal: moeda, desigualdade racial e causação cumulativa
+
+**Gunnar Myrdal** (1898–1987) nasceu na Suécia, estudou direito na **Universidade de Estocolmo** e desenvolveu carreira em economia, política e diplomacia. Casou-se com **Alva Myrdal**, intelectual e dirigente pública com trajetória própria. Sua formação misturou economia monetária, reforma social e análise histórica.
+
+Desenvolveu a noção de **causação circular e cumulativa**, segundo a qual certas desigualdades se reforçam: baixa renda reduz educação e investimento; menor capacidade produtiva reduz novamente oportunidades. O processo também pode operar positivamente quando infraestrutura, capital humano e instituições se sustentam mutuamente. Não é regra de que todo país pobre necessariamente ficará mais pobre, mas um alerta sobre dependências que preços de mercado isolados não resolvem.
+
+Em ***An American Dilemma* (1944)**, estudou o conflito entre ideais democráticos americanos e discriminação racial. A pesquisa dependia de informações de campo, colaboradoras e colaboradores frequentemente menos conhecidos, inclusive intelectuais negros; a posição de um pesquisador europeu também trouxe escolhas interpretativas criticáveis. Recebeu o prêmio de Economia de 1974 junto com Hayek, figura de orientações políticas marcadamente distintas.
+
+Myrdal enfatizou que políticas públicas operam em sociedades com poder desigual, racismo, estruturas regionais e instituições herdadas. Seu trabalho influenciou economia do desenvolvimento e debates sobre bem-estar social.
+
+### 51. Karl Polanyi: mercados como instituições e a proteção da sociedade
+
+**Karl Polanyi** (1886–1964) nasceu em Viena, cresceu em Budapeste numa família intelectual e estudou direito e filosofia. Trabalhou em jornalismo econômico e atividade política antes de lecionar em instituições britânicas e americanas. Sua experiência das guerras, do fascismo e da crise da ordem liberal europeia moldou sua interpretação dos mercados.
+
+Em ***A grande transformação* (1944)**, sustentou que a sociedade de mercado moderna dependeu da construção política de instituições que converteram trabalho, terra e dinheiro em mercadorias administradas por preços. Chamou-as de mercadorias **fictícias** porque pessoas, natureza e moeda não são produzidas originalmente para venda como produtos industriais comuns.
+
+Polanyi descreveu um **duplo movimento**: expansão de mercados autorregulados e respostas sociais destinadas a limitar efeitos sobre subsistência, trabalho e comunidades. Isso não estabelece que toda proteção é benéfica nem que qualquer liberalização levará a fascismo. O mecanismo é histórico e institucional, sujeito a diferentes coalizões e resultados.
+
+Sua influência alcançou antropologia e sociologia econômica. A crítica de que ele teria idealizado comunidades pré-capitalistas é relevante, assim como a necessidade de diferenciar mercados reais de sua idealização teórica. O legado é demonstrar que mercado e Estado não são esferas isoladas que possam ser separadas por decreto conceitual.
+
+### 52. John Hicks: a síntese formal e suas insuficiências
+
+**John Richard Hicks** (1904–1989) nasceu na Inglaterra, estudou em **Balliol College, Oxford**, e trabalhou em universidades britânicas, incluindo a **London School of Economics** e Oxford. Sua formação matemática e a interlocução com economistas de várias escolas levaram a estudos de valor, capital, bem-estar e macroeconomia.
+
+Em ***Value and Capital* (1939)**, examinou substituição, demanda e equilíbrio intertemporal, contribuindo para o desenvolvimento de modelos de consumidor e empresa. O diagrama **IS-LM**, apresentado em 1937 para interpretar Keynes, reuniu condições de equilíbrio em mercados de bens e moeda. Tornou-se central na formação de economistas e na discussão de política fiscal e monetária.
+
+O instrumento simplificou a *Teoria geral*, mas também reduziu a importância da incerteza, das expectativas e do tempo histórico. Hicks reconheceu mais tarde limitações de sua própria apresentação. O fato de um diagrama ensinar bem não significa que conserve todas as hipóteses relevantes da teoria original.
+
+Hicks recebeu o prêmio de Economia em 1972 com Kenneth Arrow. Sua carreira mostra a importância dos economistas que transformam teorias difíceis em modelos comunicáveis — e os riscos de permitir que o modelo substitua a complexidade do fenômeno.
+
+### 53. Joan Robinson: concorrência imperfeita e a crítica ao capital homogêneo
+
+**Joan Violet Robinson** (1903–1983) nasceu na Inglaterra, estudou em **Girton College, Cambridge**, e desenvolveu carreira acadêmica num ambiente que ainda oferecia menor reconhecimento institucional às mulheres. Casou-se com o economista **Austin Robinson**; sua presença nos círculos de Cambridge a colocou em diálogo e conflito com Keynes, Sraffa, Kahn e outros.
+
+Em ***The Economics of Imperfect Competition* (1933)**, analisou como empresas com poder de mercado determinam preços e produção sob condições diferentes da concorrência perfeita. Trabalho, lucro e preço dependem de estrutura de mercado, não apenas de funções tecnológicas. Suas contribuições foram importantes para o desenvolvimento da economia pós-keynesiana e das teorias de crescimento.
+
+Robinson participou da **controvérsia do capital de Cambridge**, criticando modelos que tratavam um conjunto heterogêneo de máquinas, edifícios e ativos como uma grandeza física simples independente dos preços e da distribuição. A disputa envolvia condições sob as quais produtividade marginal do capital pode ser representada por uma única taxa e um estoque agregado.
+
+Sua defesa e avaliação de diferentes experiências socialistas sofreram críticas por avaliações políticas excessivamente favoráveis a regimes com graves violações de direitos. A relevância de suas contribuições teóricas não exige endossar tais julgamentos. Seu legado é demonstrar como o poder de mercado, a escolha do modelo de capital e a distribuição afetam o resultado da teoria econômica.
+
+### 54. Piero Sraffa: preços de produção e a crítica às teorias marginais do capital
+
+**Piero Sraffa** (1898–1983) nasceu em Turim, em família italiana instruída, estudou economia e direito e desenvolveu amizade intelectual com **Antonio Gramsci**. Mudou-se para Cambridge, onde trabalhou com economistas e filósofos, incluindo Keynes e Wittgenstein. Sua produção publicada foi relativamente pequena diante da influência de suas análises.
+
+Em ***Production of Commodities by Means of Commodities* (1960)**, apresentou um sistema de preços de produção baseado em relações técnicas entre insumos e produtos, taxa de lucro e distribuição. O modelo demonstrou que certas relações de preços podem ser determinadas sem recorrer diretamente a funções neoclássicas tradicionais de utilidade e produtividade marginal de um capital homogêneo.
+
+A obra alimentou a controvérsia do capital de Cambridge e debates sobre Ricardo, Marx e teoria do valor. Não constitui descrição completa de instituições reais, moeda ou formação de expectativas; é construção teórica que permite examinar consistência de argumentos. Sraffa também editou obras de Ricardo, contribuindo decisivamente para a historiografia econômica.
+
+O legado é a exigência de rigor nas relações entre tecnologia, distribuição e preços: resultados de modelos agregados não podem ser tratados como propriedades universais sem verificar suas hipóteses.
+
+### 55. Hyman Minsky: a estabilidade que incentiva a fragilidade
+
+**Hyman P. Minsky** (1919–1996) nasceu em Chicago numa família ligada a movimentos políticos e sociais, estudou matemática na **Universidade de Chicago** e concluiu doutorado em economia em **Harvard**, sob orientação associada a debates de Schumpeter e da economia keynesiana. Sua carreira passou por universidades americanas e pelo **Levy Economics Institute**.
+
+A **hipótese da instabilidade financeira** argumenta que períodos de crescimento e estabilidade podem aumentar a confiança de devedores e credores, elevando endividamento e reduzindo margens de segurança. Minsky distinguiu financiamento **hedge**, em que fluxos esperados pagam juros e principal; **especulativo**, em que juros são cobertos mas parte do principal precisa ser refinanciada; e **Ponzi**, no qual novos recursos ou valorização de ativos se tornam necessários até para cumprir compromissos correntes.
+
+A transição entre tipos de financiamento não é uma lei mecânica: depende de regulação, lucros, juros e decisões de empresas e bancos. Mas o mecanismo explica por que crises podem nascer do excesso de tranquilidade anterior, e não apenas de choques exógenos. A crise financeira de 2008 reavivou interesse pelo trabalho de Minsky.
+
+Ele não previu cada detalhe da crise de 2008, que ocorreu após sua morte. Sua contribuição foi identificar uma dinâmica geral entre balanços, crédito, preços de ativos e confiança que permanece relevante para bancos, imóveis e financiamento corporativo.
