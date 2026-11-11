@@ -1,0 +1,123 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-HIST-MONEY-2026-11-11",
+  "slug": "historia-mundial-da-moeda-poder-credito-confianca",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T14:49:00-03:00",
+  "kind": "historical-civilizations-research",
+  "priority": 65,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/historia-mundial-da-moeda-poder-credito-confianca/en.md",
+      "title": "The world history of money: debt, metal, sovereignty and the architecture of trust",
+      "deck": "From ancient debt records to the dollar system and tokenized money: how production, fiscal power, legal institutions, bank balance sheets and political sovereignty shaped money over millennia.",
+      "tags": [
+        "monetary history",
+        "commodity money",
+        "coinage",
+        "credit",
+        "central banks",
+        "Bretton Woods",
+        "dollar",
+        "stablecoins",
+        "CBDC",
+        "economic history"
+      ],
+      "keywords": [
+        "world monetary history",
+        "origin of money",
+        "barter and debt",
+        "Mesopotamia",
+        "Lydia",
+        "gold standard",
+        "bank deposits",
+        "Brazilian Real",
+        "euro",
+        "renminbi",
+        "monetary sovereignty"
+      ],
+      "regime": "long-run monetary history and institutional change",
+      "key_risk": "historical overgeneralization and category errors across distinct monetary institutions",
+      "watch": [
+        "emerging settlement architecture",
+        "official reserve composition",
+        "central-bank digital currency deployment"
+      ],
+      "search_text": "Money origins from pre-coin accounting, Mesopotamian debt and precious metals through Lydia, Roman coinage, Chinese paper currency, global silver, banks, gold standard, Great Depression, Bretton Woods, fiat money, Brazil's Real, dollar dominance and digital tokens."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/historia-mundial-da-moeda-poder-credito-confianca/pt-BR.md",
+      "title": "A história mundial da moeda: dívida, metal, soberania e a arquitetura da confiança",
+      "deck": "Da contabilidade de dívidas antigas ao dólar e ao dinheiro tokenizado: como produção, poder fiscal, instituições jurídicas, balanços bancários e soberania política moldaram a moeda ao longo de milênios.",
+      "tags": [
+        "história monetária",
+        "moeda-mercadoria",
+        "cunhagem",
+        "crédito",
+        "bancos centrais",
+        "Bretton Woods",
+        "dólar",
+        "stablecoins",
+        "moedas digitais",
+        "história econômica"
+      ],
+      "keywords": [
+        "história mundial da moeda",
+        "origem do dinheiro",
+        "escambo e dívida",
+        "Mesopotâmia",
+        "Lídia",
+        "padrão-ouro",
+        "depósitos bancários",
+        "Plano Real",
+        "euro",
+        "renminbi",
+        "soberania monetária"
+      ],
+      "regime": "história monetária de longa duração e mudança institucional",
+      "key_risk": "generalização histórica e confusão de categorias entre instituições monetárias distintas",
+      "watch": [
+        "arquitetura de liquidação emergente",
+        "composição de reservas oficiais",
+        "implementação de moedas digitais de bancos centrais"
+      ],
+      "search_text": "Origem da moeda desde registros pré-cunhagem, dívidas mesopotâmicas e metais preciosos até Lídia, moeda romana, papel chinês, prata mundial, bancos, padrão-ouro, Grande Depressão, Bretton Woods, moeda fiduciária, Plano Real, hegemonia do dólar e tokens digitais."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power",
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "currencies",
+    "monetary-policy",
+    "banking-credit",
+    "macroeconomics",
+    "sovereign-debt",
+    "institutions-governance",
+    "inequality-distribution"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "series": "economic-paradigms-market-design",
+  "series_domain": "money-tokenisation-digital-finance"
+}
