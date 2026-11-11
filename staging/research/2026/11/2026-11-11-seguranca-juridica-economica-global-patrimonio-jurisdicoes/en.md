@@ -500,6 +500,15 @@ Financial coercion can operate through sanctions, correspondent banking, financi
 
 An applicable financial sanction may impose legal obligations on banks and custodians that are not located in the owner's country of residence. A foreign investor can be economically affected without the formal confiscation of his asset. The restriction's lawful scope, authority, exemptions, licensing, duration and judicial review must be determined specifically.
 
+
+| Instrument | Who may be affected | Economic transmission | Interpretive limit |
+| --- | --- | --- | --- |
+| Blocking sanction | Listed person, entity or covered property | Transfer, payment and custody may be prohibited | A block does not establish permanent change in legal ownership |
+| Foreign investment restriction | Buyer or foreign-controlled company | Acquisition barred or made conditional | Not necessarily retrospective cancellation of existing title |
+| Capital control | Defined residents or transactions | Conversion or remittance limits | Formal ownership may continue under restricted access |
+| Court seizure or enforcement | Holder or asset under jurisdiction | Loss of control or ownership through prescribed legal process | Not every lawful execution is arbitrary expropriation |
+| Correspondent banking exclusion | Banks, firms or regions treated as high risk | Higher costs, delay or loss of international payment channels | Can arise through private bank assessment without general sanctions |
+
 ### 63. The dollar, payment settlement and indirect jurisdiction
 
 The dollar's international role gives US financial institutions, settlement and correspondent networks substantial significance. Transactions routed through persons subject to US jurisdiction may fall under US restrictions even when the holder and underlying business are abroad. European and British financial institutions can be similarly affected by their own sanctions and regulatory duties. Not every payment involving a familiar currency automatically becomes illegal.
