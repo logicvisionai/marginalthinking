@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-11-09T13:47:29.003Z",
+  "updated_at": "2026-11-11T17:02:31.000Z",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -899,6 +899,22 @@
       "kind": "historical-soft-power-research",
       "program": "global-system-power",
       "public_route": "/research/global-system-power/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md",
+        "EDITORIAL-ARCHITECTURE.md"
+      ],
+      "update_mode": "event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-historical-monetary-stabilization",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "historical-monetary-stabilization-research",
+      "program": "political-economy-markets",
+      "public_route": "/research/political-economy-markets/",
       "source_files": [
         "data/reports.json",
         "RESEARCH-PUBLISHING.md",

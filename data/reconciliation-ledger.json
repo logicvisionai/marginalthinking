@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T16:22:00.000Z",
+  "last_reconciled_at": "2026-11-11T17:02:31.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9153,6 +9153,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Brazilian innovation and agriculture research capacity is discussed without a novel demonstrated technical performance change, deployment or scaling threshold for the engineering-signal ledger."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-urv-real-monetary-history-publication-reconciliation",
+      "reconciled_at": "2026-11-11T17:02:31.000Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-11-URV-REAL-TRANSITION"
+      ],
+      "audit_note": "Compared approved historical research on 1993–1999 URV, Plano Real, financial stabilization, banking, politics, welfare and external balance with all active cumulative systems. Primary legal and IBGE sources substantiate a historical case, not a current material control change, new investment project, verified new economic network edge or a causal Atlas observation.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "History of Brazil's inflation and shift to the real, trade and dollar exposure revisited; no new dated, quantified bilateral dependency edge or source-verified material flow added."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "URV monetary standard and post-1994 policies are a historical institutional case, not a newly financed investment opportunity with place, sponsor, expected returns and verifiable implementation."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "History of Itamar, FHC, BCB, banks and workers reviewed, with no newly evidenced contemporary change in ownership, voting, institutional control or actor relations."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Currency and indexation reforms do not document a change in mineral, land, energy or infrastructure rights or stocks."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazil's Real/URV Plan is an important historical stabilization case; report supplies legal rules and time-series observations but no defined canonical treatment-control policy evaluation or comparable causal outcome estimate for Atlas ingestion."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No newly identified armed conflict or security incident; political transition and social strain are historical context, not a conflict-system observation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Accounting and banking-software conversion in 1994 reflects institutional systems engineering but no independently benchmarked new technological deployment or current innovation scale."
         }
       ]
     }
