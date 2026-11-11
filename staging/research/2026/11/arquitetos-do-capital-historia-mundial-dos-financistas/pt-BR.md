@@ -585,6 +585,19 @@ O **St. Luke Penny Savings Bank** abriu em **2 de novembro de 1903**. Walker pre
 
 O banco recebia depósitos pequenos e oferecia crédito a moradores excluídos por outras instituições. A [pesquisa do Federal Reserve de Richmond](https://www.richmondfed.org/publications/research/econ_focus/2022/q4_economic_history) documenta práticas específicas: financiamentos de habitação com entradas menores do que as exigidas por concorrentes, possibilidade de refinanciamento e uso de comitês comunitários para avaliar mutuários. A confiança local reduzia assimetria de informação, mas não eliminava inadimplência, garantia de terceiros ou cobrança rigorosa.
 
+
+
+```chart
+type: bar
+title: Ativos do St. Luke Penny Savings Bank em anos selecionados — dólares nominais, sem correção inflacionária
+unit: USD nominais
+1904 | 37870
+1910 | 120813
+1920 | 529883
+```
+
+Os três valores são estoques de ativos em datas selecionadas, não lucros anuais, capital pessoal de Walker ou uma série completa de crescimento. O Federal Reserve de Richmond registra os números em suas pesquisas sobre a história do banco. O aumento nominal indica expansão do balanço, mas não permite medir seu crescimento real sem índices de preços comparáveis nem demonstrar, isoladamente, a qualidade de todos os empréstimos.
+
 O auge de Walker não foi medido somente por ativos. A instituição criou empregos, financiou residências e deu às mulheres negras maior participação nas decisões econômicas. Durante a Grande Depressão, Walker ajudou a reorganizar o sistema de bancos negros de Richmond por meio da fusão de três instituições, formando o **Consolidated Bank and Trust** em **1930**. A escolha sacrificou independências empresariais separadas para preservar capacidade bancária coletiva.
 
 A instituição resultante continuou por gerações, sob mudanças de direção e propriedade. Walker morreu em 1934, mas deixou um exemplo de liderança financeira centrada em acesso e resiliência, e não na quantidade de governos financiados. Seu legado também expõe o custo da segregação: a necessidade de um banco próprio derivava, em parte, da recusa de bancos existentes em servir uma comunidade.
