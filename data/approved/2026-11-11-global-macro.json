@@ -1,0 +1,329 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-11",
+  "slug": "2026-11-11-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-11T03:35:00.000Z",
+  "reviewed_commit": "36a871ac1784246e680cda65df84389bca1184cd",
+  "pending_blob_sha": "48f92085163b023c2a66f73741876e5838179449",
+  "source_blob_shas": {
+    "en": "63ab139782eab546cac27d2a3993af892db15d07",
+    "pt-BR": "133db3e3a1253a73ddd62c987b5f0fc66233946e"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "The staged EN/PT manuscripts and pending JSON have exact SHA-pinned Git blobs on main; no post-approval source mutation allowed."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 daily-global-macro, English-first, canonical dimensions and controlled macro program/phenomena/format checked."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Nov 11 00:35 BRT cutoff. All factual Nov10 market closes and release dates observed. Nov12 Brazil IPCA and Nov13 US PPI marked future. No Nov11 Asian quote invented."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "BLS Oct CPI +0.4/core +0.3, missing October 2025 12-month comparison explicitly preserved; Treasury Nov9 2Y4.56/10Y4.88 and Nov10 2Y4.73/10Y4.98/30Y5.35; B3 171336.99 -0.52; BCB reference IPCA 2026 5.6, 2027 4.7, Q2 2028 3.5; EIA Oct spot average 124 and 2026/27 annual forecasts 97/86."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "20 cited URLs on 13 hosts with BLS, Treasury, BCB, B3, EIA, Fed, Eurostat, Bank of England and NBS primary data; Reuters/AP supporting consensus and session context. Forecasts are not independently re-estimated, shipping tracking not audited."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "English 2848 words and Brazilian Portuguese 2931 words, nine ordered analytic sections advancing a single inflation-rates-real economy thesis; documented country-specific mechanisms and counterexamples."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "3 quantitative charts per locale with exact numeric series parity, at least one dated evidence table, one two-channel causal flow and six-region comparison map, deterministic grammar."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "20 references in matching numerical order; matching charts, identical dates, scenarios and limitations; translations preserve distinction between official annual missing data and market estimates."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Prose has no internal QA, build, staged or first-person publication narration; factual assertions distinguish measurement from inference, political attribution and conditional scenarios."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Lower Oct monthly CPI than Sep yet CPI above consensus; annual unavailable; Nov10 equities down but week up; EIA longer forecast compiled before latest futures price; Brazil exporter-vs-importer FX effects."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Four scenarios with explicit disconfirming evidence and no fabricated probabilities or physical delivery milestones."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Assistant check of required schema, word count, sources/hosts, chart parity and visuals; npm build/site deployment requires separate GitHub Actions result."
+    }
+  },
+  "contrary_evidence": [
+    "Monthly CPI is below September even though above consensus and core remains elevated; year-on-year official October missing due absent 2025 base.",
+    "US equities remain positive for the week despite Nov10 losses, preventing extrapolation of single session.",
+    "Lower daily crude quotations coexist with EIA October average and higher annual projections due different vintages and windows.",
+    "Brazil's stronger dollar provides some exporter benefit while increasing local currency costs of imports and external liabilities.",
+    "China nominal export strength coexists with PMI below 50."
+  ],
+  "limitations": [
+    "No official October 2026 annual US CPI where October 2025 baseline missing.",
+    "US yields daily par values differ from intraday Reuters benchmark trade snapshots.",
+    "EIA forecast finalised Nov5 released Nov10; no representation as realised forward price.",
+    "Brazil IPCA October scheduled Nov12, not observed.",
+    "EN/PT research prepared and assistant-led QA reviewed, not independent human approval.",
+    "Full production deployment separate from GitHub commit and depends on configured GitHub Actions credentials.",
+    "QA checks documented by assistant; no independent human proofreader."
+  ],
+  "notes": "Evidence-based editorial review pinned to exact source and pending Git blob SHAs. Build and domain deployment are separate validation stages.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-11",
+    "slug": "2026-11-11-global-macro",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T00:35:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "energy",
+      "commodities-resources",
+      "industry-production",
+      "geopolitics-security",
+      "demography-labor"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-11-global-macro/en.md",
+        "title": "Global Macro — Inflation overturns the oil relief rally as US and Brazilian policy stay restrictive",
+        "deck": "The October US CPI surprise reprices global rates as Brazil's Copom warns of persistent risks and EIA distinguishes historical oil shock from recent quotes.",
+        "tags": [
+          "Global Macro",
+          "US October CPI",
+          "Federal Reserve",
+          "Treasury yields",
+          "Brazil Copom",
+          "Brent",
+          "EIA",
+          "China trade",
+          "Europe"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-11",
+          "11 November 2026",
+          "US CPI October 2026 0.4 core 0.3",
+          "Treasury Nov10 4.73",
+          "Brazil Copom minutes 13.75",
+          "EIA November Brent forecasts"
+        ],
+        "regime": "Sticky US inflation and Brazilian inflation expectations require restrictive monetary policy despite prospective energy relief; global capital costs and FX remain exposed.",
+        "key_risk": "Official October 2026 12-month CPI unavailable; do not invent y/y or confuse monthly CPI with annual EIA Brent forecasts and financial close prices.",
+        "watch": [
+          "Brazil Oct IPCA Nov12",
+          "US PPI Nov13",
+          "Fed December pricing and upcoming speeches",
+          "US Treasury 2Y/10Y",
+          "Oil delivered prices and maritime security",
+          "China export orders"
+        ],
+        "search_text": "11 November 2026 Global Macro: October US consumer inflation surprise, Fed rates and Treasury repricing, Brazil Copom minutes, Ibovespa, EIA energy outlook, China global trade."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-11-global-macro/pt-BR.md",
+        "title": "Global Macro — Inflação americana reverte o alívio dos mercados e restringe a política monetária mundial",
+        "deck": "Surpresa no CPI americano eleva os juros globais; ata do Copom mantém alerta sobre preços e novo cenário da EIA diferencia petróleo recente do choque acumulado.",
+        "tags": [
+          "Global Macro",
+          "CPI americano",
+          "Federal Reserve",
+          "Treasuries",
+          "Ata do Copom",
+          "Brent",
+          "EIA",
+          "China",
+          "Europa"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-11",
+          "11 de novembro de 2026",
+          "CPI outubro 0,4 nucleo 0,3",
+          "Tesouro EUA 4,73",
+          "Selic Copom 13,75",
+          "EIA petroleo"
+        ],
+        "regime": "Persistência inflacionária americana e expectativas brasileiras exigem política restritiva apesar do possível alívio energético, com impactos cambiais e de crédito mundial.",
+        "key_risk": "A inflação anual oficial americana de outubro não foi calculada; não confundir CPI mensal, projeção anual de petróleo e fechamento financeiro.",
+        "watch": [
+          "IPCA brasileiro 12/11",
+          "PPI americano 13/11",
+          "Precificação Fed dezembro",
+          "Treasury 2 e 10 anos",
+          "Preço efetivo e segurança marítima",
+          "Encomendas industriais chinesas"
+        ],
+        "search_text": "Global Macro 11 de novembro 2026: inflação americana acima do previsto, títulos EUA, ata Copom, Ibovespa, EIA petróleo e comércio da China."
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "11 Nov 2026 00:35 BRT (03:35 UTC); US and Brazil 10 Nov completed closes; US CPI, BCB Copom minutes and EIA November STEO published Nov10, Brazil IPCA due Nov12.",
+      "novelty": "Break from Nov10 prior edition: now-published US CPI +0.4 vs forecast +0.3, core +0.3 vs forecast +0.2; BLS missing 2025 baseline for Oct y/y, Treasury 2y+17bps/10y+10bps, Copom minutes BCB projections, EIA Nov10 dated outlook and B3 10 Nov negative close.",
+      "bilingual_parity": "EN/PT 9 analytical sections, 3 numeric visual datasets identical, one table, one causal flow and one six-region map per language, same 20 original source URLs.",
+      "editorial_status": "Full bilingual research staged; pending to be SHA-pinned by separate QA stage.",
+      "source_check": "20 source URLs on >10 hosts, BLS/Treasury/BCB/B3/EIA primary data with Reuters/AP and official European-China institutions; all temporal vintages and limitations explicitly stated."
+    },
+    "contrary_evidence": [
+      "Monthly CPI is below September even though above consensus and core remains elevated; year-on-year official October missing due absent 2025 base.",
+      "US equities remain positive for the week despite Nov10 losses, preventing extrapolation of single session.",
+      "Lower daily crude quotations coexist with EIA October average and higher annual projections due different vintages and windows.",
+      "Brazil's stronger dollar provides some exporter benefit while increasing local currency costs of imports and external liabilities.",
+      "China nominal export strength coexists with PMI below 50."
+    ],
+    "limitations": [
+      "No official October 2026 annual US CPI where October 2025 baseline missing.",
+      "US yields daily par values differ from intraday Reuters benchmark trade snapshots.",
+      "EIA forecast finalised Nov5 released Nov10; no representation as realised forward price.",
+      "Brazil IPCA October scheduled Nov12, not observed.",
+      "EN/PT research prepared and assistant-led QA reviewed, not independent human approval.",
+      "Full production deployment separate from GitHub commit and depends on configured GitHub Actions credentials."
+    ],
+    "evidence_sources": [
+      {
+        "name": "BLS October 2026 CPI release",
+        "date": "2026-11-10",
+        "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+      },
+      {
+        "name": "Reuters October US inflation market reaction",
+        "date": "2026-11-10",
+        "url": "https://www.reuters.com/business/view-hot-october-inflation-report-rattles-markets-2026-11-10/"
+      },
+      {
+        "name": "US Treasury daily nominal yield curve",
+        "date": "2026-11-10",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+      },
+      {
+        "name": "Associated Press Nov 10 US equity closes",
+        "date": "2026-11-10",
+        "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a97eb31c415811065561f2c2ac552cd7"
+      },
+      {
+        "name": "Brazilian Central Bank November Copom minutes",
+        "date": "2026-11-10",
+        "url": "https://www.bcb.gov.br/publicacoes/atascopom/04112026"
+      },
+      {
+        "name": "B3 Nov 10 market close",
+        "date": "2026-11-10",
+        "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-052-pressionado-por-expectativa-de-juros-elevados-no-brasil-e-nos-eua-dolar-vai-a-r-559/"
+      },
+      {
+        "name": "US EIA November Short-Term Energy Outlook",
+        "date": "2026-11-10",
+        "url": "https://www.eia.gov/outlooks/steo/"
+      },
+      {
+        "name": "US EIA November global oil forecast methodology",
+        "date": "2026-11-10",
+        "url": "https://www.eia.gov/outlooks/steo/report/global_oil.php"
+      },
+      {
+        "name": "US EIA November press release gas/energy",
+        "date": "2026-11-10",
+        "url": "https://www.eia.gov/pressroom/releases/press594.php"
+      },
+      {
+        "name": "BLS October 2026 Employment Situation",
+        "date": "2026-11-06",
+        "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm"
+      },
+      {
+        "name": "Federal Reserve October FOMC statement",
+        "date": "2026-10-28",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      },
+      {
+        "name": "BCB Selic historical decisions",
+        "date": "2026-11-04",
+        "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+      },
+      {
+        "name": "IBGE releases calendar",
+        "date": "2026-11-10",
+        "url": "https://www.ibge.gov.br/calendario-de-divulgacoes.html"
+      },
+      {
+        "name": "Reuters China October trade and accumulated surplus",
+        "date": "2026-11-10",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
+      },
+      {
+        "name": "China NBS October manufacturing PMI",
+        "date": "2026-11-03",
+        "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html"
+      },
+      {
+        "name": "Eurostat October flash HICP",
+        "date": "2026-11-04",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+      },
+      {
+        "name": "Bank of England November MPC decision",
+        "date": "2026-11-05",
+        "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+      },
+      {
+        "name": "Investment Company Institute weekly money-market assets",
+        "date": "2026-11-06",
+        "url": "https://www.ici.org/research/stats/mmf"
+      },
+      {
+        "name": "Reuters global funds flows early November",
+        "date": "2026-11-06",
+        "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-06/"
+      },
+      {
+        "name": "BLS November data release calendar",
+        "date": "2026-11-10",
+        "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+      }
+    ]
+  }
+}
