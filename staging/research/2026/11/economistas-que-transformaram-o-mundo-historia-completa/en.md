@@ -807,3 +807,330 @@ He extended economic analysis to education, discrimination, crime, families and 
 His work on discrimination examined how preferences and market competition interact, but it does not establish that competition automatically removes racism or gender inequality.
 
 Becker received the **1992 prize**. His approach widened economics while raising criticism that complex social relations were sometimes reduced to excessively narrow models of individual maximization.
+
+
+### 87. Eugene Fama, Robert Shiller and Lars Hansen: asset prices and competing explanations
+
+**Eugene F. Fama** (born 1939), trained at **Tufts** and the **University of Chicago**, developed the **efficient-market hypothesis**. Its informational interpretation suggests that widely available news is difficult to exploit systematically for abnormal profit under competitive conditions. It does not imply that every observed price is fair or that bubbles are logically impossible.
+
+**Robert J. Shiller** (born 1946), trained at the **University of Michigan** and **MIT**, researched stock-market volatility, housing and investor expectations. His findings questioned whether some movements in prices could be explained by plausible changes in expected dividends alone. The concept of **irrational exuberance** popularized concern about speculative narratives.
+
+**Lars Peter Hansen** (born 1952), trained at **Utah State** and **Minnesota**, developed the **generalized method of moments (GMM)**, an econometric framework widely applied to finance and macroeconomics.
+
+The three shared the **2013 economics prize** for empirical research on asset prices. Their approaches reflect different questions: how information enters prices, when market volatility exceeds model predictions and how to estimate testable relationships. Rejecting one pricing model does not prove that every price change is irrational.
+
+### 88. Daniel Kahneman and Amos Tversky: decision-making under risk
+
+**Daniel Kahneman** (1934–2024) grew up partly in Paris, survived Nazi persecution and studied psychology at the **Hebrew University of Jerusalem** and **UC Berkeley**. **Amos Tversky** (1937–1996), born in Israel, trained in psychology and mathematics and earned a doctorate at the **University of Michigan**.
+
+Their collaboration identified **heuristics and biases** in human judgements about probability, gains and losses. ***Prospect Theory* (1979)** examined why outcomes are evaluated relative to reference points and why people may respond more strongly to losses than to otherwise comparable gains.
+
+The results challenged simple expected-utility models but did not demonstrate that every choice is irrational or that people never learn. Experimental design, incentives, context and replication matter.
+
+Kahneman shared the **2002 economics prize** with Vernon Smith. Tversky had died in 1996 and was not eligible for a posthumous award under the prize rules. That institutional outcome should not obscure their joint intellectual contribution.
+
+### 89. Vernon Smith and Richard Thaler: experiments and choice architecture
+
+**Vernon L. Smith** (born 1927) trained in electrical engineering and economics and earned a doctorate at **Harvard**. He developed **experimental economics**, creating controlled markets to examine price formation, auctions and trading behaviour.
+
+**Richard H. Thaler** (born 1945), trained at **Case Western Reserve** and the **University of Rochester**, studied mental accounting, saving, self-control and other departures from simplified models. With collaborators including **Cass Sunstein**, he popularized **nudges**, changes in the architecture of choices that influence behaviour without formally eliminating alternatives.
+
+Vernon Smith received the **2002 prize**, Thaler the **2017 prize**. Behavioural insights can help with retirement savings and consumer protection, but the design of default choices raises questions about transparency and who defines beneficial outcomes.
+
+### 90. Angus Deaton and Anne Case: consumption, health and social mortality
+
+**Angus Deaton** (born 1945) studied at **Cambridge** and became a leading economist at **Princeton**, with research on demand, household surveys, poverty and welfare measurement.
+
+**Anne Case** (born 1958), trained at **SUNY Albany** and **Princeton**, studied health, labour and inequality. Together they investigated adverse mortality patterns among some American population groups, connecting labour-market change, substance-related deaths and social conditions.
+
+The phrase **deaths of despair** refers to an analytical set of trends, not a single clinical diagnosis explaining every death. Access to health care, the supply of drugs, education and economic dislocation must be examined separately.
+
+Deaton received the **2015 prize**. The partnership with Case demonstrates that economic welfare cannot be fully captured by income and consumption data without considering health and mortality.
+
+### 91. Esther Duflo, Abhijit Banerjee and Michael Kremer: experiments in development policy
+
+**Esther Duflo** (born 1972) studied at the **École normale supérieure** and earned an economics doctorate at **MIT**. **Abhijit Banerjee** (born 1961) studied in Calcutta, at **Jawaharlal Nehru University** and **Harvard**. Together with colleagues, they helped build the **Abdul Latif Jameel Poverty Action Lab (J-PAL)**. They are also married, but each has a distinct research contribution.
+
+**Michael Kremer** (born 1964), trained at **Harvard**, researched education, public health and development, including field experiments in Kenya.
+
+Their work expanded the use of **randomized evaluations** to determine how particular interventions affect people under specific conditions. Rather than assuming a school, vaccination or transfer program must work, researchers measured outcomes for comparable groups.
+
+The three received the **2019 prize**. Experimental findings still face questions about whether results transfer to other countries, institutions or scales. Ethical safeguards and the rights of participating communities are crucial.
+
+### 92. David Card, Joshua Angrist and Guido Imbens: causal inference without randomizing societies
+
+**David Card** (born 1956) studied at **Queen's University** and **Princeton** and became known for empirical labour economics, including minimum wages and migration.
+
+**Joshua Angrist** (born 1960), trained at **Oberlin** and **Princeton**, and **Guido Imbens** (born 1963), trained at **Erasmus**, **Hull** and **Brown**, developed methods for identifying causal effects in observational data.
+
+People do not receive schooling, wages or public policies randomly in most real settings. **Natural experiments**, instruments and difference-in-differences attempt to find changes that permit better comparisons. The methods require assumptions and attention to the populations identified.
+
+They received the **2021 prize**. Studies challenging simple predictions about minimum wages do not establish that every minimum-wage increase in any economy is harmless. Results depend on magnitude, labour markets and circumstances.
+
+### 93. Claudia Goldin: recovering women's work from incomplete archives
+
+**Claudia Goldin** (born 1946) grew up in the Bronx, studied at **Cornell** and earned an economics doctorate at the **University of Chicago**. In her [Nobel biography](https://www.nobelprize.org/prizes/economic-sciences/2023/goldin/biographical/), she describes her initial interest in microbiology and her turn to economic history.
+
+Goldin reconstructed women's labour-market participation using census returns, company records and archival surveys that often overlooked married women's work. Her research demonstrated that women's participation did not follow a simple straight line upward with economic development; technologies, family norms, education and fertility choices changed the historical pattern.
+
+With **Lawrence Katz**, her research and life partner, she studied schooling, inequality and technological change. ***The Race between Education and Technology* (2008)** examined how changes in skills and the supply of educated workers interact with wage differences.
+
+Goldin also investigated professional careers where very long or unpredictable hours are disproportionately rewarded. Such **greedy jobs** can create earnings penalties when family responsibilities are distributed unequally. She received the **2023 economics prize** for advancing understanding of women's labour-market outcomes.
+
+## X — Innovation and modern growth economics
+
+### 94. Paul Romer: knowledge and endogenous growth
+
+**Paul Romer** (born 1955) studied at **Chicago** and **Berkeley** and earned a doctorate in economics at Chicago. He developed **endogenous growth theory**, placing the production and diffusion of ideas inside the explanation of long-term growth.
+
+Knowledge differs from many physical resources: an idea can often be used by more than one producer without being exhausted. Creating it can be costly while reproducing it is relatively cheap. These properties influence intellectual property, research subsidies, competition and innovation.
+
+Romer's work from the **1980s and 1990s** supplied formal mechanisms linking knowledge and sustained productivity growth. He shared the **2018 economics prize** with William Nordhaus.
+
+The argument does not validate every technology subsidy or monopoly patent. Policies must balance incentives to innovate with the social value of diffusion.
+
+### 95. William Nordhaus: climate and the economics of long horizons
+
+**William D. Nordhaus** (1941–2026) studied at **Yale** and earned his economics doctorate there, developing influential research on growth, energy and climate change.
+
+His **DICE integrated assessment model** connected economic output, greenhouse gas emissions, temperature and damage estimates under explicit assumptions. The **social cost of carbon** seeks to evaluate the harm of an additional unit of emissions for public policy.
+
+Estimating damage over centuries requires controversial assumptions about uncertainty, discount rates and the rights of future generations. Some critics argue that integrated models have understated extreme or irreversible risks.
+
+Nordhaus shared the **2018 prize** with Romer. His achievement is to bring climate and economic choices into a quantitative framework without removing the underlying ethical and political decisions.
+
+### 96. Joel Mokyr, Philippe Aghion and Peter Howitt: the 2025 economics prize
+
+**Joel Mokyr** (born 1946 in Leiden), trained as an economic historian at **Yale**, investigated why scientific knowledge and institutions allowed sustained technological improvement after long periods of slow growth.
+
+**Philippe Aghion** (born 1956 in Paris), an economics doctorate from **Harvard**, and **Peter Howitt** (born 1946 in Canada), an economics doctorate from **Northwestern**, developed formal theories of growth through **creative destruction**. New technologies and firms displace old ones while productivity expands.
+
+On **13 October 2025**, they received the [economics prize for innovation-driven growth](https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/). The award emphasized the role of openness to ideas, competition and institutional adaptation.
+
+The models do not imply that all automation instantly improves wages or welfare. Learning, retraining, monopolization and the position of displaced workers affect who shares the gains.
+
+## XI — Brazilian economic thought: development, inflation and the state
+
+### 97. José da Silva Lisboa, Viscount of Cairu: trade and the opening of the ports
+
+**José da Silva Lisboa** (1756–1835), later **Viscount of Cairu**, was born in Bahia and studied at the **University of Coimbra**, developing expertise in law, philosophy and commerce.
+
+Influenced by Adam Smith, he wrote about trade freedom and economic institutions. His support for the opening of Brazilian ports in **1808** placed him in a decisive political-economic transformation, reducing some Portuguese colonial restrictions while increasing links with British commerce.
+
+The opening did not dismantle slavery, unequal property or political hierarchy. The expansion of trade occurred within a society where only selected groups could exercise economic freedom. Cairu's importance lies in introducing classical political economy into the early debates of an emerging Brazilian state.
+
+### 98. Joaquim Nabuco and André Rebouças: abolition and land ownership
+
+**Joaquim Nabuco** (1849–1910), born in Recife, studied law in São Paulo and Recife and became an abolitionist, politician and diplomat.
+
+**André Rebouças** (1838–1898), born in Bahia, was a Black Brazilian engineer educated through military engineering and involved in infrastructure projects and abolitionism.
+
+Neither was an academic economist in the modern sense. Both developed important economic arguments about the effects of slavery, concentrated landownership and the failure to provide new opportunities after emancipation. Ending legal slavery without sufficient land, education, credit or protection could preserve structural dependence.
+
+Their ideas illustrate that the economic history of Brazil cannot be reduced to commodity exports or machinery while ignoring coercion, property and the institutional legacy of slavery.
+
+### 99. Roberto Simonsen: manufacturing as national development
+
+**Roberto Cochrane Simonsen** (1889–1948) studied engineering at the **Polytechnic School of São Paulo** and built a career in industry, business organizations and economic writing.
+
+In ***Economic History of Brazil* (1937)**, he examined productive structures and the obstacles to industrialization. He supported coordinated investment in manufacturing, infrastructure and domestic capabilities.
+
+His debate with **Eugênio Gudin** during the 1940s concerned planning, economic scarcity, industry and the state's capacity to direct investment. Simonsen's significance lies in placing productive transformation at the centre of Brazilian development.
+
+Industrial policy, however, requires performance evaluation. Protecting firms without improving capability or competition can preserve inefficiency rather than development.
+
+### 100. Eugênio Gudin: stabilization and liberal economic reform
+
+**Eugênio Gudin** (1886–1986) was born in Rio de Janeiro, trained as a **civil engineer** and later developed an influential career in economics, journalism, teaching and public service.
+
+He advocated monetary stability, fiscal discipline, competition and caution about poorly evaluated public investment. In his debate with Simonsen, he challenged the assumption that government planning can always identify productive sectors better than markets.
+
+Brazil's concentrated ownership, weak infrastructure and restricted credit posed difficulties for a simplified assumption of effective competition. Yet Gudin's concerns about inflation and political allocation of resources also addressed real institutional weaknesses.
+
+He served as finance minister in **1954–1955**. His legacy is part of a continuing Brazilian argument over market coordination, stabilization and productive development.
+
+### 101. Caio Prado Júnior: colonial production and historical dependency
+
+**Caio Prado Júnior** (1907–1990) was born in São Paulo into an elite family and studied law at the **University of São Paulo's traditional law faculty**. He became a Marxist historian, publisher and political intellectual.
+
+In ***The Formation of Contemporary Brazil* (1942)**, he argued that Portuguese colonization organized large parts of the economy to serve external commercial interests, reinforcing slave labour and concentrated production.
+
+His emphasis on the **meaning of colonization** influenced later analyses of dependency and development. It was criticized for insufficient attention to the diversity of internal colonial markets and regional variations.
+
+The contribution was to reconstruct Brazilian economic institutions historically instead of treating colonial society as an early version of a modern national market.
+
+### 102. Celso Furtado: structuralism, the Northeast and economic development
+
+**Celso Furtado** (1920–2004) was born in **Pombal, Paraíba**, studied law in Rio de Janeiro and earned a doctorate in **Paris in 1948** with a study of the Brazilian colonial economy. His formation connected history, public administration and economics.
+
+At **ECLAC**, he worked with Raúl Prebisch and developed a historical-structural approach to development. In ***The Economic Formation of Brazil* (1959)**, he analysed export cycles, slavery, coffee, manufacturing and the building of a domestic market.
+
+In ***Development and Underdevelopment* (1961)**, Furtado argued that underdevelopment is not simply a stage every country passes through before converging. Modern technology may coexist with low productivity, concentrated income and limited domestic markets across different sectors.
+
+Furtado helped establish **SUDENE in 1959** as an institution for regional development in Brazil's Northeast. His public career was interrupted by the **1964 military coup**, and he continued research and teaching in exile.
+
+His achievement was to make history, structural heterogeneity and distribution essential to understanding growth. [Research by Guido Mantega](https://www.scielo.br/j/rep/a/VFVpGYrqYjx8r5SzPMCYRHm/?format=html&ilang=pt_BR) examines his intellectual development and policy influence.
+
+### 103. Maria da Conceição Tavares: productive structure and chronic inflation
+
+**Maria da Conceição Tavares** (1930–2024) was born in Portugal, studied **mathematics at the University of Lisbon** and migrated to Brazil, where she developed economic training and worked with **BNDES**, **ECLAC**, **Federal University of Rio de Janeiro** and **Unicamp**.
+
+She examined import substitution, finance, investment, distribution and Brazil's industrial structure. Her work treated inflation as a phenomenon influenced by production constraints, indexation and social conflict, not as the mechanical outcome of one monetary aggregate alone.
+
+Drawing on Keynes, Kalecki, Marx, Schumpeter and Latin American structuralism, Tavares developed historical explanations of economic cycles and capital accumulation. She became an influential teacher and political participant.
+
+The [Brazilian Journal of Political Economy](https://doi.org/10.1590/s1415-98482010000100009) documents her methodological range. Her legacy is a substantial research program, not merely a public image as a forceful speaker.
+
+### 104. Ignácio Rangel: dual structures and infrastructure bottlenecks
+
+**Ignácio de Mourão Rangel** (1914–1994) was born in Maranhão and combined political experience, self-directed study and work in public institutions with research on development.
+
+His theory of the **basic duality of the Brazilian economy** analysed the coexistence of productive and institutional structures associated with different historical phases. Modern industry and older rural relationships could operate within the same country and influence one another.
+
+Rangel studied investment cycles, infrastructure, agriculture and inflation. His proposals on financing public services influenced subsequent debates, though hypotheses on long cycles remain empirically disputed.
+
+His significance lies in rejecting the assumption that every sector of a national economy changes at the same pace.
+
+### 105. Roberto Campos: institutions, planning and liberalism
+
+**Roberto de Oliveira Campos** (1917–2001) was born in Cuiabá, received early religious education and pursued economic and international studies, including in the United States. He became a diplomat, economic policymaker and major public intellectual.
+
+As planning minister during Brazil's military dictatorship, Campos participated in reforms associated with the **PAEG, 1964–1967**, including monetary correction and changes to fiscal and financial institutions.
+
+The reforms sought stabilization and increased investment capacity while operating under a regime of political repression. The economic mechanisms and the political context cannot be separated in an assessment of their social effects.
+
+Campos later strongly criticized interventionism and advocated liberalization. His career nevertheless included substantial involvement in public planning, contradicting simplistic claims that his position was always opposition to every state economic role.
+
+### 106. Antônio Delfim Netto: rapid growth and the costs of authoritarian economic policy
+
+**Antônio Delfim Netto** (1928–2024) studied economics at the **University of São Paulo** and developed research on agriculture and coffee before entering senior government roles.
+
+He served as finance minister during **1967–1974**, covering much of Brazil's period of rapid growth known as the **economic miracle**. Industrial expansion and investment were substantial, but the outcomes occurred under authoritarian rule, political repression and unequal distribution.
+
+Later public roles confronted oil shocks, external debt and inflation. Delfim's policies and economic positions changed with circumstances, making it misleading to treat his long career as one unchanging doctrine.
+
+His legacy combines technical economic management, major historical growth and responsibility for choices made under a dictatorship. GDP expansion alone does not measure the welfare or rights of all affected Brazilians.
+
+### 107. Mário Henrique Simonsen: mathematical economics and indexed inflation
+
+**Mário Henrique Simonsen** (1935–1997) studied engineering and economics, developed strong mathematical skills and taught at the **Getulio Vargas Foundation**.
+
+His research examined inflation, growth, stabilization and indexation. Monetary correction can protect nominal contracts from price increases, but widespread automatic indexation may transmit past inflation into future prices and complicate disinflation.
+
+Simonsen served as finance and planning minister under military governments, facing constraints involving growth, external debt and fiscal pressures. His academic contributions are distinct from the political circumstances of his appointments.
+
+His continuing importance lies in formal and practical analysis of stabilization in an economy where inflation becomes embedded in contracts and institutions.
+
+### 108. Luiz Carlos Bresser-Pereira: development and exchange rates
+
+**Luiz Carlos Bresser-Pereira** (born 1934) studied law at the **University of São Paulo** and built an academic career in administration and economics, especially at the **Getulio Vargas Foundation**.
+
+His **new developmentalism** examines exchange-rate competitiveness, industrial capabilities, public policy and how financial conditions can affect productive investment. An overvalued currency may impair internationally competing firms even when their technology is adequate.
+
+Exchange-rate policy also has costs: depreciation can raise import prices and reduce real wages. The effectiveness of such policies depends on productivity, debt denomination, industrial structure and institutions.
+
+As finance minister in **1987**, Bresser-Pereira was associated with the **Bresser Plan**, which did not achieve lasting disinflation. The gap between theory and policy implementation is a central part of his history.
+
+### 109. Pérsio Arida and André Lara Resende: inflation and monetary coordination
+
+**Pérsio Arida** (born 1952) and **André Lara Resende** (born 1951) studied economics at **PUC-Rio** and pursued advanced research in international academic settings.
+
+During Brazil's inflation crisis in the 1980s, they developed arguments for monetary reform that would address **inertial inflation**, where prices and contracts were repeatedly adjusted according to past inflation.
+
+The proposal associated with the name **Larida** influenced discussions of a stable unit of account and monetary transition. The eventual **Real Plan of 1994** involved many researchers and officials, not only the two economists. The **URV** was introduced in March 1994, preceding the new real on **1 July 1994**.
+
+The achievement was not simply removing zeroes from bills. It required coordination of prices and expectations, cash logistics, monetary rules, fiscal decisions and banking arrangements. The two economists later expressed differing views on monetary and fiscal questions, showing that collaboration on one historical reform does not imply permanent intellectual agreement.
+
+### 110. Edmar Bacha, Gustavo Franco and Pedro Malan: the institutional architecture of stabilization
+
+**Edmar Bacha** (born 1942) earned an economics doctorate at **Yale** and worked on development, distribution and inflation. **Gustavo Franco** (born 1956) studied at **PUC-Rio** and earned a doctorate at **Harvard**, becoming a central-bank official and prominent contributor to stabilization policy. **Pedro Malan** (born 1943) studied economics in Brazil and at **Berkeley**, worked in international institutions and held key policy posts.
+
+The transition to the real required decisions on contracts, accounting units, reserves, fiscal obligations, the exchange rate and banking supervision. No single expert could implement these components independently.
+
+The reduction of inflation was historically significant; later high real interest rates, public debt and exchange-rate effects became subjects of debate. Evaluating the program requires distinguishing the immediate collapse of chronic inflation from the long-term consequences of different economic policies.
+
+### 111. Fernando Henrique Cardoso and Enzo Faletto: dependency and political alliances
+
+**Fernando Henrique Cardoso** (born 1931) trained in social sciences at the **University of São Paulo**, becoming a sociologist and researcher. **Enzo Faletto** (1935–2003), a Chilean sociologist, developed a career in Latin American academic and research institutions.
+
+Their ***Dependency and Development in Latin America* (1969)** investigated how international capital, local elites, class relations and state policy shape different paths of growth. Dependency did not necessarily mean total stagnation; forms of **associated development** could occur through changing political coalitions.
+
+Cardoso later became president of Brazil, but his government's policies cannot be mechanically derived from every claim made in the earlier book with Faletto. The work remains important for connecting economic development to political power and historical institutions.
+
+### 112. Theotônio dos Santos, Ruy Mauro Marini and André Gunder Frank: radical dependency
+
+**Theotônio dos Santos** (1936–2018), **Ruy Mauro Marini** (1932–1997) and **André Gunder Frank** (1929–2005) developed major interpretations of global capitalism and peripheral underdevelopment. Their careers intersected with Brazilian and international universities, political exile and authoritarian conflict.
+
+Marini's theory of **superexploitation of labour** examined wages, working time and international insertion. Dos Santos analysed financial and technological dependencies, while Frank studied relations among economic centres and dependent regions.
+
+Their work challenged the view that poor regions were simply untouched by capitalism. Critics argued that some formulations underestimated the potential for industrial transformation and domestic policy autonomy, especially in light of later East Asian growth.
+
+Dependency theory contained rival schools, not a single doctrine. Differences among Furtado, Cardoso, Marini and Frank are essential for interpreting Latin American economic history.
+
+## XII — Twenty-first-century inequality and economic governance
+
+### 113. Thomas Piketty: reconstructing the history of capital and inheritance
+
+**Thomas Piketty** (born 1971) studied at the **École normale supérieure** and earned a doctorate in economics in France, developing a career in historical inequality and the **Paris School of Economics**.
+
+Working with **Emmanuel Saez**, **Gabriel Zucman** and other researchers, he helped reconstruct historical distributions of income and wealth from tax and related records.
+
+In ***Capital in the Twenty-First Century* (2013)**, he examined the tendency for wealth concentration when returns on capital exceed growth for long periods under certain institutional conditions. The relationship **r > g** is not a universal law determining every distributional outcome; taxation, wars, demographics, asset ownership and institutions alter the mechanism.
+
+His proposals for progressive wealth taxation raise practical questions about valuation, enforcement and international mobility. The lasting achievement is restoring long-run historical evidence to debates about inequality.
+
+### 114. Gabriel Zucman and Emmanuel Saez: tax policy and hidden wealth
+
+**Emmanuel Saez** (born 1972) studied at the **École normale supérieure** and earned a doctorate at **MIT**. **Gabriel Zucman** (born 1986) studied at the **École normale supérieure** and earned a doctorate through the **Paris School of Economics**.
+
+Their research addresses high incomes, wealth, tax incidence and financial assets held offshore. They use tax records, national accounts and other sources to examine how legal differences and cross-border arrangements affect revenue and distribution.
+
+Tax reform cannot be assessed only by statutory rates. Asset valuation, income shifting, avoidance, evasion, employment responses and enforcement capacity matter.
+
+The policy implications are disputed, but their research made the treatment of highly mobile wealth an empirically grounded issue rather than an argument based only on anecdotes.
+
+### 115. Mariana Mazzucato: the state and technological innovation
+
+**Mariana Mazzucato** (born 1968 in Rome) grew up in the United States, studied history and economics at **Tufts** and earned a doctorate at the **New School for Social Research**. She later developed a research career in the United Kingdom.
+
+In ***The Entrepreneurial State* (2013)**, she examined how public investment in basic research and technologies helped create opportunities that private companies commercialized. Her **mission-oriented policy** approach emphasizes measurable public purposes and coordination among research, industry and government procurement.
+
+Public investment can support innovation where private investors cannot capture all benefits. It can also be wasted through poor incentives, political capture or weak evaluation. Her argument is not evidence that every subsidy or public company generates superior innovation.
+
+### 116. Branko Milanović: inequality within and between countries
+
+**Branko Milanović** (born 1953 in the former Yugoslavia) studied economics and earned a doctorate at the **University of Belgrade**, later working in international research and organizations.
+
+He distinguishes inequality among people **within countries** from inequality caused by differences in average national incomes. Rapid growth in large Asian economies has reduced some cross-country gaps while other parts of the world experienced stagnant incomes for certain groups.
+
+With **Christoph Lakner**, he analysed historical changes in global income distributions, represented by the well-known **elephant curve** for a specific period. Its shape is sensitive to the window, population composition and methods; it cannot be extrapolated unchanged into every decade.
+
+His importance is treating global inequality as a separate empirical problem from any single country's Gini coefficient.
+
+### 117. Deirdre McCloskey: statistics, rhetoric and dignity
+
+**Deirdre Nansen McCloskey** (born 1942) studied economics and history at **Harvard** and developed careers in economic history, methodology and criticism of economic language.
+
+She challenged the assumption that statistical significance automatically establishes economic importance, emphasizing effect sizes, historical interpretation and intellectual honesty.
+
+Her work on **bourgeois dignity** argues that cultural acceptance of merchants and innovators contributed to the extraordinary expansion of modern prosperity. The historical proposition is contested because scientific knowledge, energy, colonial expansion, institutions and trade changed at the same time.
+
+The enduring contribution is a reminder that language, values and institutional acceptance influence economic life and the way economists communicate empirical results.
+
+### 118. Susan Strange: power inside international markets
+
+**Susan Strange** (1923–1998) was a British journalist, scholar and pioneer of **international political economy**, associated with institutions including the **London School of Economics**.
+
+In ***States and Markets* (1988)**, she examined **structural power** across finance, security, production and knowledge. Some actors influence not merely a particular bargain but the rules and opportunities within which bargains occur.
+
+Foreign currencies, financial sanctions, corporate networks and cross-border credit cannot be examined independently of political authority and security. Her work remains relevant to reserve currencies and geopolitical competition.
+
+### 119. Alice Amsden: late industrialization and disciplined intervention
+
+**Alice H. Amsden** (1943–2012) studied at **Cornell** and earned a doctorate at the **London School of Economics**. Her research examined firms, technology acquisition and industrial policies in developing economies.
+
+In ***Asia's Next Giant: South Korea and Late Industrialization* (1989)**, she analysed government credit, support for industry and the demand that favoured businesses demonstrate performance. Subsidies could help firms learn when combined with demanding export and productivity targets.
+
+The Korean experience cannot be reproduced simply by paying subsidies to selected manufacturers. Education, administration, geopolitics, access to export markets and the ability to withdraw support matter.
+
+Amsden's contribution is the empirical analysis of how states and firms acquire productive capabilities under conditions of technological disadvantage.
