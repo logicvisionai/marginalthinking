@@ -22,30 +22,30 @@ Para o planeta, a mudança do número de habitantes é, contabilmente, o saldo e
 
 A ONU estimava **3,31 filhos por mulher em 1990** e aproximadamente **2,25 em 2024**. O nível de reposição em sociedades de baixa mortalidade é frequentemente aproximado por 2,1, mas não é um limite físico universal: varia com sobrevivência infantil e razão de sexos ao nascer. Mesmo onde a fecundidade cai abaixo desse nível, a população pode continuar aumentando por décadas porque gerações numerosas, nascidas no passado, ainda estão chegando à idade reprodutiva e porque mais pessoas sobrevivem até idades avançadas. Esse é o efeito da **inércia ou impulso demográfico**. [2][3]
 
-~~~chart
+```chart
 type: line
 title: Fecundidade mundial segundo a ONU — filhos por mulher
 unit: filhos por mulher
 1990 | 3.31
 2024 | 2.25
-~~~
+```
 
 As duas observações resumem uma transformação de longo prazo e não uma linha anual medida em todos os anos intermediários. O agregado mundial também esconde situações opostas. Algumas sociedades já registram fecundidade abaixo de 1,4; outras ainda apresentam quatro ou mais filhos por mulher. A mortalidade infantil, o acesso voluntário à contracepção, a escolarização, o custo da moradia, as condições de trabalho e normas familiares influenciam o ritmo, porém nenhuma variável isolada explica todas as escolhas. [2]
 
 A população total é um **estoque**, nascimentos e mortes são **fluxos** e fecundidade é uma **taxa sintética**. Confundir essas unidades produz diagnósticos equivocados: uma queda de nascimentos não significa redução imediata de habitantes; uma alta de expectativa de vida não permite calcular isoladamente o crescimento anual; e imigração pode aumentar a população de um país sem alterar a população global.
 
-~~~flow
+```flow
 Queda da mortalidade → mais sobreviventes em cada geração → aumento do estoque populacional
 Escolarização, urbanização, mudança de custos e acesso a planejamento reprodutivo → queda gradual da fecundidade → coortes de nascimentos menores
 Coortes numerosas do passado + maior longevidade → impulso demográfico → crescimento continua mesmo após queda de fecundidade
 Coortes menores + envelhecimento → mudança da força de trabalho e da razão entre contribuintes e beneficiários
-~~~
+```
 
 ## 3. O mundo de 1950 a 2100: uma curva que muda de significado
 
 Em 1950 a população mundial era da ordem de **2,5 bilhões**; em 2000, cerca de **6,2 bilhões**; e em 2024 chegou perto de **8,2 bilhões**. Esses valores são estimativas demográficas retrospectivas, não contagens instantâneas. A cifra de aproximadamente 10,3 bilhões na década de 2080 e os 10,2 bilhões em 2100 são projeções centrais da revisão WPP 2024. A população absoluta pode aumentar enquanto sua taxa percentual anual diminui: a diferença entre duas datas depende da base inicial e não implica aceleração contínua. [1][5][6]
 
-~~~chart
+```chart
 type: line
 title: População mundial — estimativas históricas e trajetória central da ONU
 unit: bilhões de pessoas
@@ -54,7 +54,7 @@ unit: bilhões de pessoas
 2024 | 8.2
 2085 | 10.3
 2100 | 10.2
-~~~
+```
 
 A observação de 2085 representa **aproximadamente** a metade da década do pico esperado, não um resultado anual exato da ONU. A interpolação visual entre pontos publicados e arredondados não representa uma previsão linear anual. A principal mudança em relação ao imaginário do século XX é que fecundidade persistentemente baixa pode inverter o sinal do crescimento mundial mesmo sem guerra, fome ou calamidade.
 
@@ -75,7 +75,7 @@ O ganho de longevidade é uma das maiores transformações econômicas e sociais
 
 O UNICEF registrou mortalidade de menores de cinco anos de **93,5 por mil nascidos vivos em 1990**, **76,7 em 2000**, **50,6 em 2010** e **37,4 em 2024**. A atualização da OMS publicada em maio de 2026 estimou **4,9 milhões de mortes de crianças menores de cinco anos em 2024**. A melhora extraordinária não elimina desigualdades: o risco em regiões pobres permanece muito superior ao de países ricos, e a redução da mortalidade desacelerou na última década. [7][8]
 
-~~~chart
+```chart
 type: line
 title: Mortalidade de menores de cinco anos — taxa mundial
 unit: mortes por mil nascidos vivos
@@ -83,7 +83,7 @@ unit: mortes por mil nascidos vivos
 2000 | 76.7
 2010 | 50.6
 2024 | 37.4
-~~~
+```
 
 A queda da mortalidade não é apenas uma explicação para haver mais habitantes. Ela modifica decisões familiares. Quando a sobrevivência infantil aumenta, o número de nascimentos necessários para atingir determinado número de filhos sobreviventes diminui; investimentos em cada criança podem crescer, desde que renda, serviços e segurança permitam. A mudança não ocorre no mesmo ritmo em todo lugar. A persistência de mortalidade evitável, doenças crônicas e desigualdade de acesso é também uma distribuição desigual do direito efetivo a uma vida longa.
 
@@ -103,20 +103,20 @@ Políticas de creches, licença parental, saúde sexual e reprodutiva, moradia e
 
 A classificação da ONU para 2024 divide a dinâmica global em três grupos com condições muito diferentes. Nos países e territórios que já haviam atingido o pico — como China, Alemanha, Japão e Rússia —, o agregado populacional poderia cair **14% entre 2024 e 2054**. Os que deveriam alcançar o máximo entre 2025 e 2054 — incluindo Brasil — cresceriam cerca de **5,3%** no mesmo intervalo. Nos 126 cuja população ainda cresceria até 2054, a expansão agregada projetada era de **38%**. São alterações de conjuntos de países, não percentuais aplicáveis a cada integrante. [2]
 
-~~~chart
+```chart
 type: bar
 title: Mudança populacional projetada por estágio demográfico, 2024–2054
 unit: % no agregado de cada grupo de países
 Pico até 2024 | -14
 Pico em 2025–2054 | 5.3
 Crescimento após 2054 | 38
-~~~
+```
 
 A África Subsaariana concentra uma parcela importante da expansão futura e a oportunidade de transformar uma geração jovem em capacidade produtiva. O Banco Mundial estimou, em análise divulgada em 2025, que a população economicamente ativa da região cresceria em mais de **620 milhões entre 2025 e 2050**. Essa projeção não é promessa de 620 milhões de empregos: o desafio é criar postos com produtividade, remuneração, energia, infraestrutura, educação, saúde e segurança adequadas. Crescimento demográfico pode aumentar o mercado interno ou aprofundar informalidade, desemprego e tensões urbanas, dependendo do investimento efetivo. [11]
 
 China, Coreia do Sul, Japão e parte da Europa enfrentam uma transição quase oposta: coortes menores ingressam no mercado enquanto cresce a proporção de pessoas idosas. Índia ainda possui grandes coortes em idade produtiva, mas apresenta diferenças regionais significativas de fecundidade e infraestrutura. Estados Unidos e Canadá combinam envelhecimento com imigração, que altera o tamanho de grupos etários sem eliminar a tendência mundial à longevidade. Países do Golfo podem apresentar estruturas populacionais fortemente influenciadas por trabalhadores estrangeiros, para os quais cidadania, trabalho e residência têm regras distintas.
 
-~~~map
+```map
 title: Contrastes geográficos da transição demográfica
 África Subsaariana | Ampliação de gerações em idade ativa | Benefício econômico depende de emprego, capital e serviços
 Leste Asiático | Fecundidade baixa e envelhecimento rápido | Pressão sobre cuidado, previdência e força de trabalho
@@ -124,7 +124,7 @@ Sul da Ásia | Grandes coortes e heterogeneidade regional | Educação, emprego 
 Europa | Maior participação de idosos e trajetórias nacionais diversas | Migração e produtividade não substituem reformas institucionais
 América Latina | Transição acelerada com desigualdade persistente | Risco de envelhecer antes de consolidar renda elevada
 América do Norte | Envelhecimento com contribuição migratória | Integração, habitação e trabalho são condições decisivas
-~~~
+```
 
 O mapa demográfico não deve ser confundido com um ranking de nações “fortes” ou “fracas”. Quantidade de habitantes não equivale a produtividade, capacidade fiscal ou poder militar. Uma população jovem sem empregos adequados não assegura crescimento econômico; uma população mais velha pode sustentar renda elevada com capital, educação, tecnologia e instituições. A composição importa, mas os resultados são politicamente mediados.
 
@@ -202,7 +202,7 @@ A equação de impacto ambiental conhecida como **IPAT** — impacto como funç�
 
 O IPCC, no Sexto Relatório de Avaliação, estimou que os **10% dos domicílios com maiores emissões por pessoa** respondiam por **34% a 45%** das emissões globais de gases de efeito estufa vinculadas ao consumo das famílias; os **50% de menores emissões por pessoa**, por **13% a 15%**. São intervalos metodológicos e não se devem escolher pontos médios como se fossem observações. Um habitante adicional em contexto de consumo energético alto não tem o mesmo efeito climático que outro sem acesso à eletricidade moderna. Tampouco a desigualdade das emissões significa que crescimento populacional seja ambientalmente irrelevante. [21]
 
-~~~mindmap
+```mindmap
 Sustentabilidade demográfica
 - Pessoas
   - tamanho total
@@ -220,7 +220,7 @@ Sustentabilidade demográfica
   - infraestrutura e saneamento
   - direito ao planejamento familiar
   - financiamento e regulação
-~~~
+```
 
 Uma análise limitada ao total de habitantes pode justificar injustamente que populações pobres reduzam suas aspirações de saúde e conforto enquanto grupos ricos mantêm padrões intensivos de consumo. A análise inversa, segundo a qual tecnologia sempre eliminará a pressão demográfica, também é injustificada: eficiência pode reduzir insumos por unidade e simultaneamente baratear produtos e ampliar sua demanda, o chamado efeito rebote. A redução absoluta de emissões depende de produção limpa, eletrificação, infraestrutura, padrões de uso, regras e investimentos.
 
