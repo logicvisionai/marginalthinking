@@ -75,3 +75,125 @@ The fund was a genuine institutional instrument, not proof of permanent solvency
 
 An overlooked mechanism is the **Tanzi effect**. If taxes are remitted weeks after they are incurred, inflation erodes their real value. Disinflation, improved collection and shorter settlement delays can raise real revenue without changing statutory tax rates. However, the government could not simply book those future gains before achieving stability. At the same time, the loss of inflation-generated revenue could expose spending previously obscured by rising nominal prices.
 
+
+## 6. The second phase: two units without two means of payment
+
+Provisional Measure 434 of 27 February 1994 introduced the legal architecture later consolidated in Law 8,880 of 27 May. On 1 March, one URV was worth **CR$647.50**. The Central Bank published a daily conversion; on 2 March, the rate was CR$657.50, and on 30 June it reached **CR$2,750**. On 1 July one URV became one real. The URV was legally part of the monetary system as a unit of value; the cruzeiro real remained the means of payment until the currency change. [Central Bank historical account](https://www.bcb.gov.br/controleinflacao/planoreal); [Law 8,880, arts. 1–5](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+
+| Date | Legal relationship | Function |
+| --- | --- | --- |
+| 27 Feb 1994 | MP 434 establishes URV | Initial legal instrument |
+| 1 Mar 1994 | 1 URV = CR$647.50 | Unit of account; payments in CR$ |
+| 2 Mar 1994 | 1 URV = CR$657.50 | Updated daily conversion |
+| 27 May 1994 | Law 8,880 | Consolidates contract conversion |
+| 30 Jun 1994 | 1 URV = CR$2,750.00 | Final cruzeiro real conversion |
+| 1 Jul 1994 | 1 URV = R$1.00 | Real becomes accounting and payment unit |
+| 29 Jun 1995 | Law 9,069 | Consolidation of Real Plan law |
+
+Under the old regime, buyers watched a succession of nominal price increases and estimated what goods might cost by payday. Under the interim arrangement, an item could be offered for ten URVs while the checkout payment remained in cruzeiros reais. **A purely arithmetic illustration, not an observed historical price:** 10 URVs would have meant CR$6,475 on 1 March, CR$27,500 on 30 June, and R$10 from 1 July. The larger number of cruzeiros reais alone would not establish a price increase in URV. If the seller instead raised the item's price from 10 to 12 URVs, that would be a genuine **20% increase in URV**.
+
+The two operations are straightforward:
+
+```text
+URV price_t = CR$ price_t ÷ daily CR$/URV rate_t
+CR$ payment_t = URV price_t × daily CR$/URV rate_t
+1 July 1994: R$ price = prior URV price
+```
+
+Rules were not identical across all obligations. Law 8,880 kept cruzeiro real amounts mandatory on labels and invoices while permitting parallel URV quotations. Certain contracts entered into from 15 March with settlement after more than 30 days had to be denominated in URV. Savings deposits, bank assets and liabilities, mortgages, agricultural loans, insurance and securities had separate transitional provisions. Claims that all URV adoption was voluntary are thus accurate only for some retail price quotations, not the entire legal framework. [Law 8,880, arts. 7–16](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+
+The daily rate reflected the declining purchasing power of the cruzeiro real, with indices including IGP-M, IPCA-E and IPC-Fipe. The URV's approximate relationship with the US dollar added credibility. This was **not** an irrevocable legal promise to redeem each unit for one dollar, nor did it make the later real a currency-board system. The new real did not operate under a permanently symmetrical dollar bid and offer at one-to-one. A reference anchor and a foreign-currency redemption right are fundamentally different institutions.
+
+## 7. Averaging wages: protection against losses and distributional compromise
+
+The conversion faced a difficult question: which wage belonged in the new money? With monthly inflation around forty percent, the same nominal wage carried very different purchasing power at the beginning and end of a bargaining cycle. Converting the **peak** immediately after an adjustment could increase real costs across the economy; converting the **trough** just before the next adjustment could impose permanent losses on workers. The legal solution aimed to preserve average real remuneration, rather than the last nominal payslip figure.
+
+Article 19 of Law 8,880 required an arithmetic mean of four months for ordinary workers: November and December 1993 and January and February 1994. Each monthly nominal wage was divided by the URV conversion rate on its **actual payment date**. It was not an average of cruzeiro real banknote amounts or a retroactive application of the June conversion rate. For the statutory minimum wage, Article 18 used the relevant month-end rates, with express protection against receiving less in cruzeiros reais than the February amount. Variable pay, annual bonuses and collective bargaining required specific treatment. [Law 8,880, arts. 18–19 and 26–27](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8880-27-maio-1994-372593-normaatualizada-pl.html).
+
+Suppose, only for mathematical illustration, four monthly salaries correctly expressed in URV were 100, 120, 110 and 130. Their mean would be **115 URVs**. These are not historical payroll observations. The relevant operation is:
+
+```text
+URV base salary =
+  (Nov salary/URV on actual Nov pay date +
+   Dec salary/URV on actual Dec pay date +
+   Jan salary/URV on actual Jan pay date +
+   Feb salary/URV on actual Feb pay date) / 4
+```
+
+The rule was designed to neutralize gains and losses arbitrarily generated by choosing a particular freeze date. It could not eliminate all conflict. Workers comparing the new figure to their last payslip might perceive a cut; wage earners with irregular payments, informal arrangements, variable compensation or collective agreements could have different outcomes. The law included base-date adjustment rules and special procedures for certain conversion losses. Distributional evaluation must compare **actual purchasing power**, not simply the numbers printed before and after the reform.
+
+Existing inflation already distributed losses according to defensive capacity. Workers with intermittent adjustments or no liquid interest-bearing assets were particularly exposed. Firms with pricing power and rapid inventory turnover could protect themselves more effectively. The URV did not create equal economic power; it supplied a common rule intended to keep staggered adjustment calendars from determining winners and losers at the moment inflation stopped.
+
+## 8. Relative prices, contracts and the limits of coordination
+
+A stable unit of account does not guarantee that relative prices are right. If rents were unusually high compared with wages, or a regulated utility tariff had been held artificially low, simple redenomination would preserve those distortions until new adjustments occurred. The URV could remove automatic nominal propagation, but not scarcity, conflicts over income shares, concentrated market power or productivity shocks.
+
+The reform therefore did not impose a universal freeze on URV prices. Sellers could adjust quotations, while buyers could compare and challenge them. Deindexation depended on learning: if firms preemptively increased prices in the new reference unit, the URV could develop its own inflation before new banknotes appeared. Bresser-Pereira warned in 1994 about this possibility of strategic repricing in the new unit. [Bresser-Pereira, political economy of the Real Plan](https://www.scielo.br/j/rep/a/G6VvwvLfN6tqvZxy6RdCv5n/?format=html).
+
+Long-term contracts raised more difficult problems. Installment prices could embed expected inflation, financing and risk margins. Simply carrying the whole amount into URV could preserve an excessive inflation premium in the real price. Removing too much could harm creditors or suppliers. Legislation regulated the renegotiation of public contracts, the calculation of average amounts and adjustments to expected inflation in specified circumstances. No single division rule would have been appropriate for wages, taxes, public tariffs, mortgages, inventories and supply contracts.
+
+```flow
+Fiscal or external shock → price/cost adjustment → indexed clauses → staggered updates → inflation persistence
+Legally organized URV conversion → real-value comparisons → relative-price bargaining → weaker automatic past-inflation transmission
+Expected stability → greater willingness to hold money → lower circulation velocity → consistent monetary policy required
+Fiscal credibility and banking supervision → more durable monetary regime → lower risk of inflation recurrence
+```
+
+The arrows describe hypothesized mechanisms, not estimated effect sizes or inevitable causation. Monetary demand, credibility, inflation expectations and policy responses interact.
+
+## 9. Currency launch day: banknotes, bookkeeping, banks and logistics
+
+A reform flawless on paper but chaotic at checkout counters could have destroyed its credibility on the first day. The Central Bank and the Mint coordinated banknotes, coins, distribution and accounting instructions. The Central Bank reports that by 30 June more than **940 million banknotes** and **688 million coins** of the new currency had already been distributed nationwide. Banks had to accept deposits in the new unit, collect cruzeiros reais and retire obsolete notes. [Central Bank, currency logistics](https://www.bcb.gov.br/controleinflacao/planoreal).
+
+Law 8,880 established 1 July as the beginning of issuance; subsequent rules provided for the old cruzeiro real banknotes to remain temporarily usable for a limited period. Consumers had to learn notes, centavos, correct change and conversion tables. Shortages of banknotes, inadequate till software or contradictory signs could have produced arbitrage, disputes and accusations of fraud.
+
+The transition was also an information-systems overhaul. Checking accounts, ATMs, payroll applications, financial contracts, corporate balance sheets, tax systems and ledgers all had to agree on the new scale while preserving existing rights. It resembled changing the unit of measurement of an entire economy. System engineering was not incidental: a conversion bug could transfer wealth from one contractual party to another.
+
+## 10. The measured break: from 47.43% IPCA to 6.84%
+
+The June–July comparison is the most visible result, but it needs exact definitions. Brazil's **monthly IPCA** was **47.43% in June 1994**, **6.84% in July** and **1.86% in August**. Inflation did not drop to zero immediately. Nor should monthly inflation be confused with a trailing twelve-month rate. The latter had reached **4,922.46% in June**, a completely different measure from that month's 47.43%. [IBGE, historical IPCA series](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html?edicao=20932&t=series-historicas); [IPEA, annual series](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
+
+```chart
+type: line
+title: Brazil, monthly IPCA inflation in 1994
+unit: percent change per month; official IBGE observations
+Jan | 41.31
+Feb | 40.27
+Mar | 42.75
+Apr | 42.68
+May | 44.03
+Jun | 47.43
+Jul | 6.84
+Aug | 1.86
+Sep | 1.53
+Oct | 2.62
+Nov | 2.81
+Dec | 1.71
+```
+
+The line documents a regime break. It does not by itself identify the shares caused by URV, exchange policy, interest rates, demand changes, regulated prices or calendar effects. July and August included residual adjustments across heterogeneous consumption items. The drop is not evidence that every single price stopped moving in the first week.
+
+```chart
+type: bar
+title: Annual IPCA inflation before and after the real
+unit: accumulated percent over each calendar year
+1993 | 2477.15
+1994 | 916.46
+1995 | 22.41
+1996 | 9.56
+1997 | 5.22
+1998 | 1.65
+```
+
+The 1994 bar includes six months of extremely high old-currency inflation. Its size is not evidence that stabilization failed after July. The 1995 bar is tiny on this scale, but 22.41% inflation was still high by the standards of a mature low-inflation regime. No causal decomposition or statistical break adjustment has been applied to the series. [IPEA/IBGE, annual IPCA](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
+
+Monthly data are better for studying the immediate transition; annual rates are better for tracing subsequent persistence. Putting both on the same axis without defining frequency would be misleading. IPCA, IGP-M, IGP-DI and INPC also differ in baskets, geography and collection windows; contracts tied to different indices did not necessarily experience identical disinflation paths.
+
+## 11. Monetary psychology: when centavos began to matter again
+
+High inflation changes concrete behavior. Holding cash for weeks seemed irrational; moving wages rapidly into interest-bearing investments, buying goods early, keeping dollar savings or stockpiling necessities could be rational for people with the means. Ignoring small change and rounding prices became normal while the payment unit rapidly lost value. Credibility cannot return by speech alone: it must be reinforced through everyday purchases, paydays and household bills.
+
+The URV allowed a learning period before physical currency exchange. People observed comparatively stable prices in the new unit while cruzeiro real price tags kept changing. Shopkeepers had to distinguish a change in the old-currency conversion from a genuine adjustment in the item's URV price. A positive feedback mechanism was possible: when buyers and sellers trust the new reference, preventive repricing becomes less necessary; when trust falters, any isolated jump may be read as a sign of another failed plan.
+
+Stabilization also changes time horizons. Saving for a goal, comparing household budgets across months and negotiating longer-term finance become more practical when next month's inflation is not assumed to be extreme. It would be a mistake to romanticize this transformation: poor households still faced unemployment, informality, expensive credit and regional inequality. Nonetheless, removing the need to immediately dispose of a wage altered households' ability to plan. [Central Bank, 30 years of the real](https://bcb.gov.br/controleinflacao/30anosreal).
+
