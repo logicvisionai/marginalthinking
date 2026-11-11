@@ -110,6 +110,18 @@ Essas cifras pertencem a universos, datas e metodologias diferentes; sua relaç�
 
 As primeiras captações da B Capital eram menores que as estruturas atuais. A TechCrunch registrou um fundo inicial de US$ 360 milhões e outro de aproximadamente US$ 410 milhões em 2020. A empresa procurou combinar investimento em companhias com algum grau de validação comercial e apoio para expansão, em vez de depender apenas de projetos na fase de ideia. [10]
 
+
+
+```chart
+type: bar
+title: Compromissos anunciados dos dois primeiros fundos da B Capital
+unit: US$ milhões por fundo
+Primeiro fundo | 360
+Segundo fundo | 410
+```
+
+O gráfico compara os compromissos dos dois veículos informados pela TechCrunch em fevereiro de 2020. As cifras são captações, não lucros, e não servem para calcular retorno dos investidores. [10]
+
 Em 2023, anunciou aproximadamente US$ 2,1 bilhões para seu Growth Fund III e veículos relacionados. Em março de 2024, informou a captação de US$ 750 milhões para o segundo Opportunities Fund, concebido para operações em empresas mais maduras e para investimento adicional em negócios acompanhados anteriormente. Isso amplia a capacidade de financiar vencedores potenciais em diferentes estágios, mas também cria necessidade de administrar conflitos: um fundo inicial que vende participação para outro fundo da mesma organização pode ter investidores distintos em cada lado da operação. Preços, aprovações e avaliação independente tornam-se centrais. [12][13]
 
 Em julho de 2026, o Ascent Fund III levantou US$ 500 milhões para investimentos em estágio inicial; a captação anunciada do Ascent II, em 2022, fora US$ 254 milhões. O crescimento é próximo de 97% no volume de recursos comprometidos entre esses dois veículos, não uma taxa de retorno nem uma medida do valor presente das empresas investidas. [14]
@@ -163,7 +175,7 @@ O modelo de decisão também precisa defender-se do excesso de confiança. Ter p
 
 ## Byju’s: quando crescimento anunciado não é solvência
 
-A B Capital investiu na Byju’s, companhia indiana de tecnologia educacional que chegou a avaliação noticiada de US$ 22 bilhões em 2022. A empresa enfrentou depois deterioração financeira, conflitos com credores, questionamentos de governança e processos de insolvência, com decisões judiciais e disputas que se estenderam por diferentes instâncias. [19]
+A B Capital investiu na Byju’s, companhia indiana de tecnologia educacional que chegou a avaliação noticiada de US$ 22 bilhões em 2022. A empresa enfrentou depois deterioração financeira, conflitos com credores, questionamentos de governança e processos de insolvência, com decisões judiciais e disputas que se estenderam por diferentes instâncias. [19][26]
 
 O caso é instrutivo porque expõe como avaliações privadas dependem de hipóteses sobre expansão futura. A aquisição de clientes pode ser financiada por sucessivas rodadas; empréstimos e aquisições podem antecipar crescimento; contratos e receitas projetadas passam a justificar preços altos. Se financiadores param de aportar capital, custos, dívidas e vencimentos continuam existindo. Uma empresa pode perder condições de negociação antes que o valor potencial de seu produto seja conhecido.
 
@@ -286,3 +298,5 @@ A trajetória de Eduardo Saverin reúne uma transformação excepcional da rique
 [24] Cornell Legal Information Institute. *26 U.S. Code § 877A*. https://www.law.cornell.edu/uscode/text/26/877A
 
 [25] B Capital. *Portfolio*, relação institucional de investidas. https://b.capital/portfolio/
+
+[26] Moneycontrol. *Davos 2026: B Capital to do more AI services deals in India, says co-founder Raj Ganguly*, 21 janeiro 2026. https://www.moneycontrol.com/news/business/startup/davos-2026-b-capital-to-do-more-ai-services-deals-in-india-says-co-founder-raj-ganguly-13782579.html
