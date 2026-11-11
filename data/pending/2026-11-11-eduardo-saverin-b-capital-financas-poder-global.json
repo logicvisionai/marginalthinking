@@ -115,12 +115,12 @@
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "11 November 2026; announced Russell Investments acquisition expected to close Q1 2027, not reported as complete.",
-    "research_depth": "18 substantive sections; 5822 Portuguese words and 5246 English words, including full biographical chronology, investment-manager economics, portfolio failure cases, fiduciary distinctions and conditional scenarios.",
+    "research_depth": "18 substantive sections; Portuguese and English full-length research. Two comparable fundraising charts, two causal flows, map, mindmap, tables; 26 aligned numbered references.",
     "evidence_sources": "25 aligned numbered institutional, regulatory, investor-industry and journalistic references in each language; SEC, IRS, Russell Investments, B Capital, ILPA, Reuters, Forbes, Bloomberg Línea, TechCrunch.",
     "editorial_novelty": "Separates founder equity wealth, third-party investment manager economics and proposed institutional-asset-manager acquisition; incorporates negative case studies, conditional falsifiers, social effects and governance.",
-    "visual_evidence": "Two parallel economic tables, numeric Ascent II/III fundraising bar chart, two causal flows, strategic mindmap and regional investment map, equivalent in Portuguese and English.",
-    "bilingual_parity": "Same section count and citation numbering (1–25); equivalent numeric facts, case studies, visuals and distinctions.",
-    "source_check": "Company-disclosed AUM treated separately from audited manager performance; Bloomberg deal price attributed and unconfirmed; no invented fund IRR, realized losses or personal taxes.",
+    "visual_evidence": "Two numeric comparable fundraising bar charts per language (first two funds and Ascent 2022/2026), two financial tables, two causal flows, one strategic mindmap, one regional map; aligned data EN/PT.",
+    "bilingual_parity": "Same 18 sections and numbered sources 1–26; two quantitatively equivalent charts; same economic definitions and conditional scenarios.",
+    "source_check": "Checked SEC, Russell, Forbes, B Capital, Reuters, Bloomberg, ILPA and Moneycontrol; source 26 corroborates B Capital's participation in Byju's; no invented fund IRR, realized losses or personal taxes.",
     "editorial_status": "Producer staged; independent SHA-bound QA required before publication."
   }
 }
