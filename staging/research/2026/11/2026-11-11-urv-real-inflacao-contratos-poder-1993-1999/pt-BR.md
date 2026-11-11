@@ -159,6 +159,8 @@ A Lei 8.880 marcou 1º de julho como início da emissão do real; a legislação
 
 A operação também era uma reforma de sistemas de informação. Contas correntes, caixas eletrônicos, folhas salariais, contratos financeiros, balanços, arquivos bancários, sistemas fiscais e registros contábeis precisavam operar com a escala nova de forma consistente. O problema era semelhante ao de trocar a unidade de medida de uma economia inteira, preservando direitos e obrigações. A reprogramação não era acessória: um erro de conversão podia transferir riqueza entre as partes.
 
+A emissão do real não ocorreu sob uma política de oferta de crédito irrestrita. A Medida Provisória 542, de 30 de junho de 1994, também fixou parâmetros de emissão monetária e as condições legais de conversão; o Banco Central registra que a fase inicial do real incluiu limites quantitativos para a base monetária até março de 1995 e **recolhimento compulsório de 100% dos depósitos à vista**, mecanismo excepcional destinado a conter a multiplicação de crédito bancário. Esse percentual não era uma taxa de juros de 100% cobrada dos depositantes: era a exigência de recolhimento sobre determinada base bancária. A reforma da unidade de conta retirava a indexação automática, enquanto a restrição de liquidez buscava impedir que expansão excessiva de demanda realimentasse os preços. [MP 542/1994](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-542-30-junho-1994-375071-publicacaooriginal-1-pe.html); [Banco Central, balanço de 30 anos do real](https://www.bcb.gov.br/controleinflacao/planoreal?modalAberto=30anosreal_noticia1).
+
 ## 10. O choque medido: do IPCA de 47,43% ao de 6,84%
 
 A passagem de junho para julho é o resultado mais visível, mas precisa ser lida com exatidão. O **IPCA mensal** do IBGE foi **47,43% em junho de 1994**, **6,84% em julho** e **1,86% em agosto**. O índice não caiu a zero no primeiro mês do real; tampouco os números mensais correspondem à variação de 12 meses. O IPCA acumulado em doze meses atingira **4.922,46% em junho**, uma medida inteiramente diferente da inflação mensal de 47,43%. [IBGE, séries históricas do IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidoramplo.html?edicao=20932&t=series-historicas); [IPEA, série anual](https://www.ipeadata.gov.br/ExibeSerie.aspx?module=M&serid=1410807112).
@@ -368,4 +370,10 @@ A parte extraordinária do experimento brasileiro não reside numa conversão de
 16. [Banco Central — Política cambial, janeiro–março de 1999](https://www.bcb.gov.br/rex/MerCambio/Port/cambio991/1999-1Pol%C3%ADticaCambial.asp?frame=1).
 17. [Banco Central — Ata do Copom, 23 de junho de 1999, regime de metas](https://www.bcb.gov.br/publicacoes/atascopom/23061999).
 18. [Estudo sobre ideias, política e centralização da autoridade monetária no Plano Real](https://new.scielo.br/j/rbcsoc/a/pFx5LNSgJrTMCB4Bkfmrkqb/?format=html&ilang=pt_BR&lang=pt).
-
+19. [Câmara dos Deputados — MP 482/1994, metodologia diária da URV e os três índices de referência](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-482-28-abril-1994-374305-exposicaodemotivos-1-pe.html).
+20. [Câmara dos Deputados — MP 542/1994, emissão do real e conversão das obrigações](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-542-30-junho-1994-375071-publicacaooriginal-1-pe.html).
+21. [Banco Central — História do Real: regras de base monetária, câmbio e depósitos compulsórios](https://www.bcb.gov.br/controleinflacao/planoreal?modalAberto=30anosreal_noticia1).
+22. [Argentina — Lei 23.928/1991 de conversibilidade](https://www.argentina.gob.ar/normativa/nacional/ley-23928-328).
+23. [FMI — Experiência de estabilização israelense de 1985](https://www.elibrary.imf.org/view/book/9781557750341/ch014.xml).
+24. [FMI — México e a crise cambial de 1994](https://www.elibrary.imf.org/view/journals/001/1995/112/article-A001-en.xml).
+25. [FMI — Avaliação retrospectiva do Plano Real, contas públicas e vulnerabilidade externa](https://www.elibrary.imf.org/view/journals/023/0031/010/article-A002-en.xml).
