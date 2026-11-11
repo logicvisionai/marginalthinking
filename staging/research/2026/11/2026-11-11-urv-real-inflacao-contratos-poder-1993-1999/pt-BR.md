@@ -104,6 +104,16 @@ A conversão das obrigações não ocorreu de modo idêntico para tudo. A Lei 8.
 
 A cotação era calculada a partir da perda de poder aquisitivo do cruzeiro real, com indicadores como IGP-M, IPCA-E e IPC-Fipe. A proximidade econômica da URV com o dólar oferecia referência adicional: ela foi desenhada para variar pouco em termos de dólar, mas isso **não é o mesmo** que um contrato irrevogável de conversão ao dólar ou uma caixa de conversão cambial. O real que nasceu em julho não manteve uma regra fixa e simétrica de compra e venda de dólares a um por um para sempre. Confundir o elo de credibilidade com o dólar com um direito jurídico de resgate em moeda estrangeira altera a natureza do plano.
 
+A metodologia anexa à MP 482, de 28 de abril de 1994, permite reconstituir o mecanismo de atualização de forma mais precisa. A taxa mensal de variação da URV era a **média aritmética** das variações de três indicadores: IPC-Fipe da terceira quadrissemana, IPCA-E do IBGE e IGP-M da FGV. O fator por dia útil era a raiz de ordem **n** de (1 + taxa mensal/100), em que **n** é o número de dias úteis do mês. Para fins do anexo, sábados, domingos e feriados recebiam a cotação do dia útil imediatamente posterior. Assim, o valor em cruzeiros reais podia evoluir diariamente sem depender de uma decisão discricionária de preço a cada manhã. [MP 482/1994, anexo metodológico](https://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-482-28-abril-1994-374305-exposicaodemotivos-1-pe.html).
+
+```text
+g_mensal = (IPC_Fipe + IPCA_E + IGP_M)/3
+Fator_dia_útil = (1 + g_mensal/100)^(1/n)
+Cotação_dia = Cotação_dia_útil_anterior × Fator_dia_útil
+```
+
+Esse dispositivo técnico não garantia que os três índices mediam a mesma cesta: ao calcular uma média, o Banco Central adotava uma convenção operacional de atualização do padrão de valor. A escolha reduzia a exposição a uma única instituição ou metodologia, mas também implicava arbitrar ponderações iguais entre medidas diferentes. A URV não era, portanto, um valor imóvel em cruzeiros reais; ela procurava preservar uma referência enquanto a moeda de pagamento se depreciava.
+
 ## 7. A média dos salários: defesa contra perdas e compromisso distributivo
 
 A transição carregava uma pergunta delicada: qual salário deveria entrar na nova moeda? Em inflação de quarenta por cento ao mês, uma remuneração nominal tinha poder de compra diferente no começo e no fim do período de reajuste. Fixar o valor em URV pelo **pico** posterior a um reajuste poderia elevar custos reais de forma generalizada; usar o **vale**, imediatamente antes de outro reajuste, perpetuaria perda aos trabalhadores. A solução legal procurou converter a remuneração real média, não simplesmente preservar o último número nominal.
