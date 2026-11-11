@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T17:02:31.000Z",
+  "last_reconciled_at": "2026-11-11T17:28:19.842Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9198,6 +9198,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Accounting and banking-software conversion in 1994 reflects institutional systems engineering but no independently benchmarked new technological deployment or current innovation scale."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-capital-chines-brasil-comercio-investimento-poder-approved-publication-reconciliation",
+      "reconciled_at": "2026-11-11T17:28:19.842Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-11-CHINA-BRAZIL-CAPITAL-TRADE"
+      ],
+      "audit_note": "Reconciled newly approved bilingual China–Brazil trade/FDI report with all seven active cumulative tools. Evidence establishes macroeconomic and project-level mechanisms but does not justify changing canonical tool datasets without asset-level records, contracts or independently comparable series.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Trade exposure (China absorbs 28.7% of 2025 Brazilian exports; soy, oil and iron ore about 74% of China-bound sales) suggests candidate country/product edges, but the report has no fully specified network-edge provenance, methodology and equivalent comparisons for canonical ingestion."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Prospective rail financing, local processing and industrial supply opportunities are analyzed, but the evidence does not document a comparable, contracted project-level investment opportunity with sponsor, financing and execution stage."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "CEBC identifies electricity, mining and automotive Chinese investment and corporate acquisitions, but ownership/control changes of each named entity have not been cross-checked against the canonical actor dataset and company filings for an authoritative actor update."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Mineral concessions and energy ownership are material; the article lacks asset-level rights, geolocated ownership shares, licensed capacity and verified beneficial-owner evidence required for a resource-control update."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "This bilateral overview does not estimate a discrete policy treatment, comparison group or attributable policy-case outcome."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Strategic competition is discussed as a background condition; no source-verifiable new armed-conflict incident, sanction event or security escalation is established for a conflict-system record."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "BYD/GWM automotive plants, energy manufacturing and the historical CBERS program matter to technology diffusion, but lack standardized benchmarks of maturity, deployment and technical transfer needed for a new ledger signal."
         }
       ]
     }
