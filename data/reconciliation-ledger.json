@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T18:45:22.975Z",
+  "last_reconciled_at": "2026-11-11T23:28:32.944Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9377,6 +9377,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Company financing and AI investment theses are not new replicated technical performance/deployment evidence."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-monetary-history-publication-v0",
+      "reconciled_at": "2026-11-11T23:28:32.944Z",
+      "report_ids_reviewed": [
+        "MT-HIST-MONEY-2026-11-11"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "This long-run currency dossier contextualizes sovereign issuance and dollar settlement already represented in the canonical network; no new present-day bilateral flow or dependency measurement established."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Historical creation/discontinuation and institutional monetary mechanisms do not establish a new present-day investable opportunity or change an opportunity score."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "IMF, BIS, Bank of England, central banks and issuing sovereigns are described in their historical/institutional roles, without newly evidenced change to current strategic-control relationships."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The monetary narrative includes precious-metal and energy history but adds no revised quantity, reserve ownership, production capacity or physical-resource control data."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "The historical synthesis recounts the Brazilian 1994 URV-to-real reform and older monetary cases, already represented in existing policy research, without a new evaluated case or measured policy outcome."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Wars and conquest are historical explanatory context, not newly observed conflict incidents, capabilities or active theatre exposures."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "CBDC, Bitcoin and stablecoins appear as institutional monetary designs without a new demonstrated technology capability, deployment milestone or measured adoption delta."
         }
       ]
     }
