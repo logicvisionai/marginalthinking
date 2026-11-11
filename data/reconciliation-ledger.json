@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T15:02:15.654Z",
+  "last_reconciled_at": "2026-11-11T16:22:00.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9108,6 +9108,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI and agriculture discussed as mechanisms, not new technical demonstrated capabilities, deployments or scale milestones."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-brazil-soft-power-historical-publication-reconciliation",
+      "reconciled_at": "2026-11-11T16:22:00.000Z",
+      "report_ids_reviewed": [
+        "MT-GSP-2026-11-11-BRAZIL-SOFT-POWER"
+      ],
+      "audit_note": "Examined approved bilingual research revision 7 tracing 1822–2026 diplomatic institutions, economic relations, soft-power perceptions, UN elected membership and contemporary cooperation. Historical links and interpretations do not by themselves establish new dataset stocks, capital control changes, investable opportunities or conflict incidents. No canonical research dataset changes justified.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "Compared long-run Brazilian economic and diplomatic dependencies (Atlantic trade, China commodities, Mercosur and EU). The report provides no newly quantified, bilateral material or financial exposure meeting canonical network criteria."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "Historical access to markets, agriculture, climate and investment does not document a project-specific, investable opportunity with verified financing, timing, ownership and projected returns."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Examined Rio Branco, Itamaraty, Mercosur partners, G20 and BRICS, but the historical review identifies no new verified ownership, institutional voting or strategic control relation requiring an actor-record mutation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Brazil's Amazon, farmland and energy capabilities are analyzed as diplomatic assets; no new independently measured physical stock, mining concession, production control or asset ownership change is established."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The comparative 1822–2026 history and soft-power perception index are not a new identified policy intervention with outcome evaluation, treatment/control design or replicable causal estimate."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "The Paraguayan War, twentieth-century security arrangements and Haiti mission are covered historically; no newly documented current conflict incident or changing conflict-system relationship is introduced."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Brazilian innovation and agriculture research capacity is discussed without a novel demonstrated technical performance change, deployment or scaling threshold for the engineering-signal ledger."
         }
       ]
     }
