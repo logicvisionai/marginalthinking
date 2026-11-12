@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-12T04:29:00.000Z",
+  "last_reconciled_at": "2026-11-12T07:49:56.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9466,6 +9466,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "AI stock reaction and company adjusted-profitability expectations do not independently prove installed computing capacity, technology benchmark or production milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-mercosur-geoeconomic-fractures-publication-reconciliation",
+      "reconciled_at": "2026-11-12T07:49:56.000Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-10-30-MERCOSUR-GEOECONOMIC-FRACTURES"
+      ],
+      "audit_note": "Reconciled the approved 30 October Mercosur legal and geoeconomic study against all seven required assets; no canonical dataset mutation is justified without additional measured evidence.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Mercosur trade shares and treaty arrangements identify dependencies but do not provide new audited bilateral weighted edges under the network's canonical definitions."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Trade diversion and tariff exceptions describe possible sector opportunities, without project-level validated investment, capacities, timelines or cash flows."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "The report documents government bargaining and agreements, but no independently established new beneficial ownership or voting-control transfer suitable for the actors dataset."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Mercosur trade governance and treaty withdrawal analysis do not document a new resource concession, mine, oilfield or controlling resource right."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Treaty provisions and tariff exceptions are identified, but there is no independently validated causal counterfactual outcome for a new canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Geoeconomic bargaining and diplomatic divergence are analyzed without a qualifying armed-conflict event or new conflict-system observation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No qualifying technology deployment, benchmark, installed capacity or maturity milestone is established by this Mercosur institutional study."
         }
       ]
     }
