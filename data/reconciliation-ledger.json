@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-11T23:28:32.944Z",
+  "last_reconciled_at": "2026-11-12T04:29:00.000Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9421,6 +9421,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "CBDC, Bitcoin and stablecoins appear as institutional monetary designs without a new demonstrated technology capability, deployment milestone or measured adoption delta."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-12T04:29:00.000Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-12"
+      ],
+      "audit_note": "Cross-checked completed Nov11 market closes, Veterans Day rates closure, Brazilian September real activity, China CPI versus PPI, and selective oil freight improvements without reclassifying market sentiment as new asset ownership.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Atlantic-to-Asia freight and China trade demonstrate corridor exposure, but no newly measured directed bilateral link weight under the canonical network definitions."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Physical logistics and AI datacenter demand highlight opportunities but no audited discrete project costs, qualification status, cash flow or capacity commissioning."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "CoreWeave market revaluation and customer commitments do not prove a new change in voting rights, controlling ownership or beneficial owners."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Brent futures and regional crude charter spreads do not establish transfer of oilfield rights, concession or resource ownership."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazil fiscal plan remains prospective and no counterfactual causal treatment evaluation or enacted intervention is present."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Reuters links maritime shipping risks to conflict but this report contains no new independent incident-level record qualifying a canonical conflict-system mutation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "AI stock reaction and company adjusted-profitability expectations do not independently prove installed computing capacity, technology benchmark or production milestone."
         }
       ]
     }
