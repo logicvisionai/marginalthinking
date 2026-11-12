@@ -1,0 +1,264 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-12",
+  "slug": "2026-11-12-global-macro",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T01:29:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "energy",
+    "commodities-resources",
+    "industry-production",
+    "geopolitics-security",
+    "demography-labor"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-12-global-macro/en.md",
+      "title": "Global Macro — AI equities rebound while industry, inflation and oil logistics expose a divided global economy",
+      "deck": "AI shares rebound during a US bond holiday while Brazilian services and industry weaken, Chinese factory costs outrun CPI and oil cargo freight reprices.",
+      "tags": [
+        "Global Macro",
+        "AI markets",
+        "US interest rates",
+        "Brazil activity",
+        "China CPI PPI",
+        "Oil freight",
+        "Global trade",
+        "Europe retail",
+        "India"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-12",
+        "12 November 2026",
+        "Veterans Day bond holiday",
+        "CoreWeave",
+        "Brazil manufacturing services September",
+        "China CPI PPI October",
+        "Atlantic Asia oil freight"
+      ],
+      "regime": "AI equity valuations recover despite no new US Treasury pricing, weak Brazil real-activity measures, Chinese industrial inflation divergence and selective physical crude-freight relief.",
+      "key_risk": "Do not invent 11 Nov US Treasury settlement or pre-release Brazil IPCA/Euro GDP; do not equate fiscal proposal or expected customer prepayments to realized cash.",
+      "watch": [
+        "Brazil October IPCA Nov12",
+        "Euro-area Q3 GDP and goods trade Nov12",
+        "US October PPI Nov13",
+        "US rates next open session",
+        "Brazil fiscal legislative text",
+        "Oil freight and cargo netbacks",
+        "China industrial margins"
+      ],
+      "search_text": "12 November 2026 global macro analysis US AI CoreWeave equity rebound Veterans Day Treasury closure Brazil fiscal September services manufacturing China CPI PPI African Brazil crude freight Europe retail India."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-12-global-macro/pt-BR.md",
+      "title": "Global Macro — Bolsas de inteligência artificial se recuperam enquanto indústria, inflação e logística revelam uma economia mundial dividida",
+      "deck": "Ações de IA sobem com mercado americano de títulos fechado; atividade brasileira enfraquece, custos industriais chineses divergem do CPI e fretes de petróleo mudam rotas.",
+      "tags": [
+        "Global Macro",
+        "Inteligência artificial",
+        "Juros americanos",
+        "Atividade Brasil",
+        "China CPI PPI",
+        "Frete de petróleo",
+        "Comércio mundial",
+        "Varejo europeu",
+        "Índia"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-12",
+        "12 de novembro 2026",
+        "feriado renda fixa EUA",
+        "CoreWeave",
+        "serviços indústria IBGE setembro",
+        "China CPI PPI outubro",
+        "petróleo Brasil África Ásia"
+      ],
+      "regime": "Bolsas de IA recuperam valor sem nova referência de juros americana, enquanto atividade brasileira se enfraquece, indústria chinesa sofre custos distintos do CPI e fretes físicos recuam.",
+      "key_risk": "Não atribuir fechamento ao Tesouro americano em 11/11 nem divulgar IPCA/PIB futuros; não tratar proposta fiscal ou adiantamento esperado como caixa realizado.",
+      "watch": [
+        "IPCA outubro Brasil 12/11",
+        "Prévia PIB e comércio europeu 12/11",
+        "PPI americano 13/11",
+        "Tesouro EUA próxima sessão",
+        "Texto e tramitação ajuste fiscal",
+        "Fretes físicos e descontos das cargas",
+        "Margens industriais chinesas"
+      ],
+      "search_text": "Macro global 12 novembro 2026 IA CoreWeave bolsa feriado títulos Estados Unidos Brasil fiscal indústria serviços China CPI PPI frete petróleo África Brasil Ásia Europa Índia."
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "12 Nov 2026 01:29 BRT (04:29 UTC); 11 Nov US/Brazil equity closes; 11 Nov US Treasury markets closed Veterans Day (10 Nov latest daily official yields); Brazil October IPCA and Euro flash GDP 12 Nov later not observed.",
+    "novelty": "Nov11 CoreWeave-led rebound; US bond holiday despite rate-sensitive equities; B3 fiscal proposal not approved; IBGE newly released Sep service and regional industry weakness; official China CPI 0.7 vs PPI 5.7 / industrial input 7.9; Reuters Atlantic-to-Asia physical crude freight compression.",
+    "bilingual_parity": "EN/PT nine ordered sections, 3 exact numeric chart datasets, one dated table, causal flow, six-region/corridor map, identical 23 original URLs, publication-cutoff constraints and falsifiers.",
+    "editorial_status": "Producer complete; pending v2 requires SHA-pinned independent QA stage before public promotion.",
+    "source_check": "23 URLs across public B3, IBGE, BLS, UST, Fed, NBS, EIA, Eurostat, BCB, BoE, ICI, AP/Reuters. Conflicting retail feed index figures resolved using B3 primary 172060.43. All date/period units labelled."
+  },
+  "contrary_evidence": [
+    "AI stock surge occurred during US Treasury-market closure; no new official 11 Nov yield supports a claim of lower financing costs.",
+    "Brazil Ibovespa positive while September services and São Paulo industrial output weakened, and fiscal savings still await legislation.",
+    "China consumer CPI +0.7% y/y is not inconsistent with factory PPI +5.7% y/y because goods/weights differ.",
+    "Brent rising and delivered cargo freight falling can coexist because benchmark, freight and cargo-quality premiums are separate inputs.",
+    "Euro-area retail monthly decline can coexist with positive year-on-year comparison."
+  ],
+  "limitations": [
+    "Brazil October IPCA, INPC and Euro-area Q3 GDP results are future at 01:29 BRT Nov12.",
+    "Nov11 US Treasury cash bond market closed Veterans Day; only Nov10 daily yield used.",
+    "Reuters cargo discounts and freight reductions apply to selected grades and charter routes, not global average.",
+    "Government 2027 fiscal estimates are proposals, not enacted savings.",
+    "CoreWeave expected future customer advances are not confirmed all collected cash.",
+    "Research reviewed with assistant-led evidence/SHA checks, not independently audited by a separate human editor.",
+    "Full production deployment must be separately observed and could fail if required credentials are unavailable."
+  ],
+  "evidence_sources": [
+    {
+      "name": "Associated Press — US equity closes, 11 November",
+      "date": "2026-11-11",
+      "url": "https://apnews.com/article/027cd5f4583d1a11c1795150bf065afb"
+    },
+    {
+      "name": "Associated Press — AI rebound, funding and sector risks",
+      "date": "2026-11-11",
+      "url": "https://apnews.com/article/297d040c83844a9563327340b370c24e"
+    },
+    {
+      "name": "Reuters — US equities and CoreWeave results",
+      "date": "2026-11-11",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+    },
+    {
+      "name": "B3 — Brazilian 11 November completed market close",
+      "date": "2026-11-11",
+      "url": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-com-pacote-fiscal-no-radar-dolar-recua-a-r-556/"
+    },
+    {
+      "name": "Agência Brasil / IBGE — September monthly services",
+      "date": "2026-11-11",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/setor-de-servicos-varia-01-em-setembro-impactado-pelos-transportes"
+    },
+    {
+      "name": "IBGE — Industrial Production Regional survey",
+      "date": "2026-11-11",
+      "url": "https://www.ibge.gov.br/estatisticas/economicas/industria/9296-pesquisa-industrial-mensal-producao-fisica-regional.html"
+    },
+    {
+      "name": "Brazil Finance Ministry — September industrial output breakdown",
+      "date": "2026-11-11",
+      "url": "https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/atividade-economica/2026/informativo-pim-set2026.html"
+    },
+    {
+      "name": "China NBS — October consumer prices",
+      "date": "2026-11-10",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html"
+    },
+    {
+      "name": "China NBS — October producer prices",
+      "date": "2026-11-10",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965806.html"
+    },
+    {
+      "name": "Reuters — African and Brazilian crude cargoes to Asia and freight prices",
+      "date": "2026-11-11",
+      "url": "https://www.reuters.com/business/energy/asia-buys-up-african-brazilian-oil-shipping-costs-fall-2026-11-11/"
+    },
+    {
+      "name": "BLS — US October monthly CPI, data limitations",
+      "date": "2026-11-10",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+    },
+    {
+      "name": "US Treasury — November daily nominal par-yield curve",
+      "date": "2026-11-10",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve"
+    },
+    {
+      "name": "Federal Reserve — October FOMC policy statement",
+      "date": "2026-10-28",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "name": "Brazil Central Bank — 282nd Copom minutes",
+      "date": "2026-11-10",
+      "url": "https://www.bcb.gov.br/publicacoes/atascopom/04112026"
+    },
+    {
+      "name": "Eurostat — September euro-area retail-trade volume",
+      "date": "2026-11-06",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-06112026-ap"
+    },
+    {
+      "name": "Eurostat — October euro-area flash HICP",
+      "date": "2026-11-04",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+      "name": "EIA — November 2026 Short-Term Energy Outlook",
+      "date": "2026-11-10",
+      "url": "https://www.eia.gov/outlooks/steo/"
+    },
+    {
+      "name": "Eurostat — European official statistical release calendar",
+      "date": "2026-11-11",
+      "url": "https://ec.europa.eu/eurostat/en/news/euro-indicators/release-calendar"
+    },
+    {
+      "name": "IBGE — official releases and October IPCA schedule",
+      "date": "2026-11-11",
+      "url": "https://www.ibge.gov.br/indicadores-e-sistemas/servicos/20140-ipca.html"
+    },
+    {
+      "name": "Reuters — China October customs trade and cumulative surplus",
+      "date": "2026-11-10",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/"
+    },
+    {
+      "name": "Reuters — India equities and foreign demand",
+      "date": "2026-11-11",
+      "url": "https://www.reuters.com/world/india/indian-stocks-poised-higher-open-softer-crude-robust-foreign-buying-2026-11-11/"
+    },
+    {
+      "name": "Bank of England — November monetary-policy decision",
+      "date": "2026-11-05",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+    },
+    {
+      "name": "Investment Company Institute — US money-market fund assets",
+      "date": "2026-11-06",
+      "url": "https://www.ici.org/research/stats/mmf"
+    }
+  ]
+}
