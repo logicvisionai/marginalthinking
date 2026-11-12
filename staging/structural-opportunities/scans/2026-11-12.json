@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "checked_at": "2026-11-12T08:06:51Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-12",
+  "candidate_ids": [],
+  "coverage_summary": "Primary-source screening reviewed World Bank Nov 10 transmission finance assessment, Pakistan July grid financing, September Brazil low-carbon industrial financing and March Brazil Amazon energy access programme, against previously recorded Asia DRIVE and Uzbekistan candidates. These are approved programmes, financing frameworks or historical announcements rather than newly evidenced Nov 12 commissioning, disbursement, regulatory implementation or measurable productivity gain. No distinct newly verified structural transition; no synthetic candidate.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank Transmission Impossible financing event",
+      "date": "2026-11-10",
+      "url": "https://www.worldbank.org/en/events/2026/11/10/transmission-impossible-financing-the-grid"
+    },
+    {
+      "name": "World Bank Brazil industrial decarbonization financing",
+      "date": "2026-09-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/world-bank-group-backs-transformation-of-energy-intensive-industries-in-brazil"
+    },
+    {
+      "name": "World Bank Pakistan transmission grid project",
+      "date": "2026-07-09",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/08/world-bank-support-to-strengthen-pakistan-s-electricity-grid-for-improved-reliability-and-accelerated-clean-energy-growt"
+    },
+    {
+      "name": "World Bank Brazil Amazon renewable access",
+      "date": "2026-03-20",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/03/20/world-bank-supports-jobs-renewable-energy-and-lower-energy-costs-in-brazil-s-amazon-region"
+    },
+    {
+      "name": "World Bank Japan Asia DRIVE",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+    }
+  ],
+  "review_limitations": [
+    "Financing announcements and forecasts are not observed disbursements or installed physical assets.",
+    "No verified incremental Nov 12 changes in private capital access, regulation, logistics or productivity.",
+    "Discovery broadened geographically to Pakistan and Brazil; no comprehensive global project census.",
+    "Canonical Atlas and history unchanged."
+  ]
+}
