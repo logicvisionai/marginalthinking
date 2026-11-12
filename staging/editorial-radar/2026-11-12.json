@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-12",
+  "checked_at": "2026-11-12T08:06:51Z",
+  "scope": "All active editorial lines reconciled against registry. Global Macro already QA approved and public metadata present on main. Bounded primary-source monitoring, not a full independent investigation of every line.",
+  "registry_updated_at": "2026-11-11T17:02:31.000Z",
+  "registry_blob_sha": "ef8f13be637b048496cb9e2fa56ca6aaa1b7b6aa",
+  "reviewed_line_count": 35,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "published_in_repository",
+      "note": "QA approval revision 1 and public metadata on main verified; no duplicate."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "covered_in_macro",
+      "note": "Existing Global Macro covers Treasury holiday, Brazil activity, China CPI/PPI, oil freight and equity divergence."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "WHO One Health AMR framework and World Bank energy/industrial funding checked; no new pesticide exposure, nutrition or food outcomes verified."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "WHO AMR awareness and 2026-2036 plan are monitoring signals, not proof of new livestock outbreak or antimicrobial-resistance trend."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Oil shipping cost movements are not proof of imminent war or escalation."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "No new primary pathogen-surveillance observation verified; hypothetical risks not described as incidents."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-strategic-security-resilience",
+      "kind": "strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-historical-soft-power-research",
+      "kind": "historical-soft-power-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    },
+    {
+      "registry_id": "editorial-historical-monetary-stabilization",
+      "kind": "historical-monetary-stabilization-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; bounded primary-source review found no verified independent substantive delta warranting a new product."
+    }
+  ],
+  "primary_sources_checked": [
+    {
+      "name": "WHO World AMR Awareness Week 2026",
+      "date": "2026-11-12",
+      "url": "https://www.who.int/news-room/events/detail/2026/11/18/default-calendar/world-amr-awareness-week-2026"
+    },
+    {
+      "name": "WHO updated AMR Global Action Plan 2026–2036",
+      "date": "2026-05-25",
+      "url": "https://www.who.int/news/item/25-05-2026-the-world-health-assembly-adopts-updated-global-action-plan-on-antimicrobial-resistance-%282026-2036%29"
+    },
+    {
+      "name": "World Bank transmission financing event",
+      "date": "2026-11-10",
+      "url": "https://www.worldbank.org/en/events/2026/11/10/transmission-impossible-financing-the-grid"
+    },
+    {
+      "name": "World Bank Brazil energy-intensive industry financing",
+      "date": "2026-09-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/world-bank-group-backs-transformation-of-energy-intensive-industries-in-brazil"
+    }
+  ],
+  "additional_article": null,
+  "reason_no_additional_article": "Sources identified policy programmes and scheduled awareness activity, but no fresh independent observed outcome or implementation delta sufficiently distinct from existing corpus. Do not publish merely to fill daily quota.",
+  "limitations": [
+    "Limited primary-source screening; not an exhaustive global review of every registered line.",
+    "No new comparable antimicrobial surveillance, pesticide exposure, food-security or pathogen-outbreak data established.",
+    "No claim that policy targets equal realized implementation."
+  ]
+}
