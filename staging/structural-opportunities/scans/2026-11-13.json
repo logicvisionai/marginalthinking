@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "checked_at": "2026-11-13T08:06:59Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-13",
+  "candidate_ids": [],
+  "coverage_summary": "Broadened monitoring of electricity transmission finance, Brazil industrial decarbonization, Pakistan grid investment and Uzbekistan power modernization. Existing financing commitments and forecasts are not proof of new disbursement, commissioning, regulatory implementation or realized productivity on 13 November. No distinct evidence-backed new candidate.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank transmission financing",
+      "date": "2026-11-10",
+      "url": "https://www.worldbank.org/en/events/2026/11/10/transmission-impossible-financing-the-grid"
+    },
+    {
+      "name": "World Bank Brazil industrial decarbonization",
+      "date": "2026-09-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/09/15/world-bank-group-backs-transformation-of-energy-intensive-industries-in-brazil"
+    },
+    {
+      "name": "World Bank Pakistan electricity grid",
+      "date": "2026-07-09",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/07/08/world-bank-support-to-strengthen-pakistan-s-electricity-grid-for-improved-reliability-and-accelerated-clean-energy-growt"
+    }
+  ],
+  "review_limitations": [
+    "No independently verified new disbursement, construction completion, operational capacity or productivity gain.",
+    "No new candidate created; canonical Atlas unchanged.",
+    "Bounded discovery rather than exhaustive global project census."
+  ]
+}
