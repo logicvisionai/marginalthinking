@@ -446,3 +446,126 @@ Industrial consortia should contract certified operators, measure material recov
 
 Indicators: recovered mass by stream, occupational exposure, treatment costs per tonne, and emissions per product. [S04][S12]
 
+
+## III — PROCESS CHEMISTRY AND INTERMEDIATE MATERIALS
+
+### 29. Industrial gases versus electronic-grade gases
+
+Nitrogen, oxygen, argon, and hydrogen are common in industrial operations, but fabs require particular purity grades, distribution systems, and control regimes. Reactive gases used in deposition, plasma processing, and doping introduce further hazards. A conventional-gas supplier near a plant cannot be assumed capable of serving semiconductor processes.
+
+Brazil's opportunity lies in gradually upgrading existing suppliers toward ultra-high-purity systems, orbital-welded piping, filters, purifiers, analyzers, and specialist maintenance. Contamination at parts-per-billion levels can alter thin films, destroy lots, or shorten service life. Costs include redundant systems, special cylinders, inventory, and emergency response.
+
+Long-term contracts with acceptance standards and supplier audits could justify local installations. Policy must avoid promising domestic production of rare gases before examining global supply chains and chemical risks, but should invest in domestic distribution, detection, and testing.
+
+Indicators: point-of-use purity, leak rates, system availability, and safety incidents. [S01]
+
+### 30. Ultra-pure water and its mass balance
+
+Water used to rinse wafers must be controlled to extreme levels for ions, particles, organic carbon, microorganisms, and dissolved gases. Treatment can combine prefiltration, reverse osmosis, electrodeionization, ultraviolet treatment, and final polishing. Making drinking water is not the same as making ultra-pure process water.
+
+Industrial consumption must be calculated using individual process data, recirculation rates, and local resource availability. Assessment must distinguish intake, internal circulation, actual net water consumption, and effluent discharge. A single decontextualized figure for liters per wafer can produce poor siting and permitting decisions.
+
+Fab siting requires a long-term water contract, effluent treatment, drought contingency plans, and continuous measurement. Governments should finance shared infrastructure only when several users and demonstrable environmental benefits are involved.
+
+Indicators: water resistivity, particles, total organic carbon, reuse share, and net consumption per wafer. [S01]
+
+### 31. Photoresists and lithography chemistry
+
+Photoresists convert optical patterns into chemical structures that can be developed. Their composition includes polymers, photoactive components, solvents, and additives subject to strict tolerances. Masks, light sources, material reflectivity, and film thickness interact nonlinearly to determine the final pattern.
+
+Building an advanced photoresist plant without access to customers, intellectual property, or qualification routines would be high risk. By contrast, less specialized solvents and auxiliary chemicals could provide an entry into improving purity and analytical capabilities.
+
+Universities can study materials, but industrial projects need cooperation with equipment suppliers and fab customers. A realistic program might begin with analytical services, purification, and lithography chemicals for mature processes while retaining international cooperation.
+
+Indicators: thickness variation, resolution, post-development defects, shelf life, and batch consistency. [S01][S15]
+
+### 32. Ultra-pure solvents and organic contamination
+
+Alcohols, removers, and solvents are used for cleaning and surface preparation. Nominal purity is insufficient: bottles, valves, transport, filters, and lines can introduce organic compounds and metals. The same solvent approved in a laboratory may fail in fabrication because packaging and stability differ.
+
+Brazil's chemical industry has broad industrial competence, but moving to electronic grades requires investment in analysis, filling rooms, compatible packaging, traceability, and contracts supporting more restrictive specifications.
+
+Demand should be pooled into compatible grades across manufacturers, avoiding small batches unable to amortize facilities. Qualification can proceed in stages, using interlaboratory comparison and independent approval in pilot processes.
+
+Indicators: metals at parts-per-trillion levels where relevant, particles, organic carbon, and delivered cost at the fab. [S01]
+
+### 33. Acids, bases, and cleaning solutions
+
+Fabrication uses sulfuric acid, hydrochloric acid, hydrogen peroxide, ammonium hydroxide, and other chemicals under tightly controlled conditions. Specific mixtures remove contaminants and oxides, but material compatibility, byproducts, and chemical safety determine industrial feasibility.
+
+The national supplier's challenge is not simply producing tonnes of reagents: it must guarantee appropriately low impurities, suitable packaging, and low-risk logistics. Failure to monitor metals and particles can make an apparently inexpensive chemical economically disastrous.
+
+Supplier development should share high-sensitivity analytical platforms while establishing contingency plans and environmental oversight. Early demand can come from multiple precision industries, increasing scale before major fabs are built.
+
+Indicators: rejection rates, disposal costs, safety compliance, and analytical variation between batches. [S01]
+
+### 34. Chemical deposition and organometallic precursors
+
+Chemical vapor deposition and atomic layer deposition use precursor molecules that must react reproducibly on surfaces. Stability, vapor pressure, decomposition, impurities, and reactivity govern nanometer-scale film quality. In compound semiconductors, precursor engineering becomes part of device engineering.
+
+Manufacturing precursors is not equivalent to owning the corresponding metal. It requires fine chemistry, synthesis and purification facilities, special containers, and sometimes proprietary technology. Brazil may have basic inputs while remaining fully dependent on electronic-grade compounds.
+
+Strategy should identify precursors with multi-sector demand and develop demonstrable pathways with manufacturing partners. Contracts need to address intellectual property and supply risk; shared public analytical infrastructure can lower smaller firms' entry costs.
+
+Indicators: storage stability, film repeatability, residual impurities, and cost per deposition cycle. [S01]
+
+### 35. Abrasives and chemical-mechanical polishing
+
+Chemical-mechanical polishing combines abrasives, surface chemistry, pressure, and movement to planarize wafers. Slurry behavior depends on particle-size distribution, pH, colloidal stability, contamination, and interaction with the polished material. Minor surface defects can produce failures downstream.
+
+Brazil has minerals and chemical firms, but ordinary abrasive manufacturing must not be confused with fab-grade CMP. The main barriers are formulation, instrumentation, consistency, and qualification with material and equipment manufacturers.
+
+A Brazilian polishing-materials platform should measure removal rate, selectivity, roughness, defects, and effluent characteristics. Products for power-device substrates and optical parts can establish a commercial base before frontier logic applications.
+
+Indicators: defects per area, material removal per minute, uniformity, and discarded-slurry share. [S01]
+
+### 36. Physical-vapor-deposition targets
+
+PVD requires metallic and alloy targets with controlled purity, microstructure, and geometry. Porosity, phase segregation, crystallographic texture, and inclusions affect plasma stability and film quality. The chain includes metal refining, casting or powder metallurgy, machining, and bonding to backing plates.
+
+Brazilian metallurgy could occupy selected niches, but economic premiums appear only after a target has been qualified for a specific process and maintains performance across lots. Manufacturing targets without buyers would create costly inventory because specifications vary greatly.
+
+Consortia of metallurgical suppliers and institutes could develop aluminum, copper, and alloy targets for research and mature production lines, measuring contamination and operating life. Export channels are needed to spread fixed costs.
+
+Indicators: purity, plasma stability, particles, and deposition runs per target. [S01]
+
+### 37. Masks and photomasks
+
+A mask transfers a design into the lithography stage and requires dimensional accuracy, defect control, and traceability. Complexity rises with each technology node; EUV masks require materials and metrology entirely different from PCB manufacturing.
+
+Without writing, inspection, and repair tools, a country remains dependent on external suppliers even if it can design chips. Yet a complete mask factory for the technology frontier requires extraordinarily high capital and market scale.
+
+Initial entry can involve mask design centers, data preparation, verification, metrology, and mature-node support using contracted fabrication. Domestic substrate and material suppliers should develop only in response to commercial qualification.
+
+Indicators: defects per mask, dimensional deviations, delivery times, and cost per mask set. [S01][S15]
+
+### 38. Packaging materials
+
+Resins, organic substrates, molding compounds, solder, adhesives, and thermal-interface materials determine mechanical strength, heat dissipation, and lifetime. Packaging power devices and automotive modules requires reliable performance after vibration, humidity, and thousands of thermal cycles.
+
+Brazil has chemical firms, engineering plastics, metallurgy, and industrial assembly that can move into more sophisticated products, but must control moisture uptake, thermal expansion, outgassing, and interface stability.
+
+A packaging-materials program should connect chemical producers, OSAT firms, universities, and final-equipment manufacturers for accelerated tests and failure analysis. Meeting an initial specification is not enough: lifetime must be demonstrated under actual operating conditions.
+
+Indicators: delamination, thermal conductivity, temperature-test failure rates, and cost per package. [S01]
+
+### 39. ABF substrates, interposers, and heterogeneous integration
+
+Advanced packages use high-density multilayer substrates, interposers, and precision interconnection methods. The performance of accelerators and memories does not depend on the logic die alone; electrical, thermal, and mechanical connections between chips are a central part of architecture.
+
+Entering this market requires organic-materials capability, fine processes, metrology, and assembly equipment, plus customers willing to qualify new vendors. A high-value strategy may start with specific materials, tests, and modules rather than trying to compete immediately across the entire advanced-packaging ecosystem.
+
+PCB, embedded-electronics, and OSAT clusters can develop demonstration lines with clear commercial targets. Working with international partners allows learning without attempting to recreate the global chain alone.
+
+Indicators: connection density, signal integrity, thermal resistance, and assembly-cycle failure rates. [S01]
+
+### 40. Chemical metrology and reference materials
+
+Without trustworthy measurements of impurities, defects, and electrical characteristics, an electronic-grade supply chain cannot be sustained. Spectrometry, microscopy, profilometry, and surface analysis require reference standards, calibration, trained personnel, and intercomparisons.
+
+A Brazilian supplier may have suitable material and lose customers because it cannot prove suitability; another may sell inadequate material because tests are missing. Metrology infrastructure is a shared good that reduces information asymmetry and speeds entry by new suppliers.
+
+Metrology institutes, university laboratories, and industrial centers should offer services with transparent turnaround times and pricing while protecting commercial confidentiality. The state can cofinance rare instruments provided that access is not captured by one firm.
+
+Indicators: accredited tests, certificate turnaround, measurement uncertainty, and laboratory utilization. [S01]
+
