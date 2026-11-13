@@ -23,21 +23,21 @@ Industrial development will not be linear. Some firms may initially produce powe
 
 ### Brazil's electrical and electronics trade in 2025
 
-In the statement issued by ABINEE on December 4, 2025, imports and exports for the electrical and electronics sector were estimated at US$49.1 billion and US$7.9 billion respectively. These estimates were released before the calendar year ended and therefore remained subject to revision. They describe the wider electrical and electronics industry—not semiconductors alone—and measure trade flows, not investment stocks. Semiconductor imports, approximately US$6 billion in that statement, form part of total sector imports and must not be added to them again. [S02]
+ABINEE's consolidated 2025 series in its 2026 Economic Outlook and Sector Performance report records US$48.734 billion in electrical and electronics imports and US$8.146 billion in exports, for a deficit of approximately US$40.588 billion. These figures cover the wider electrical and electronics industry, not only semiconductors, and measure FOB trade flows rather than investment stocks. Semiconductor imports of US$5.963 billion in the same series form part of total sector imports and must not be added to them again. [S02]
 
 ```chart
 type: bar
 title: Brazil's electrical and electronics trade, 2025
-unit: US$ billion, nominal estimates
-Imports | 49.1
-Exports | 7.9
+unit: US$ billion FOB, 2025
+Imports | 48.734
+Exports | 8.146
 ```
 
 | Flow | Year | US$ billion | Coverage |
 |---|---|---:|---|
-| Imports | 2025 | 49.1 | Electrical and electronics industry |
-| Exports | 2025 | 7.9 | Electrical and electronics industry |
-| Semiconductor imports | 2025 | 6.0 | Subset of import flow |
+| Imports | 2025 | 48.734 | Electrical and electronics industry |
+| Exports | 2025 | 8.146 | Electrical and electronics industry |
+| Semiconductor imports | 2025 | 5.963 | Subset of import flow |
 
 The difference between exports and imports is the sector's trade balance for the year. By itself it does not measure domestic value added, the technological standing of firms, or whether replacing any given imported component would be economically viable. [S02]
 
@@ -69,7 +69,7 @@ Imports of electronic components are commonly assessed by their customs value. T
 
 There is also an opportunity cost. Every time a Brazilian manufacturer internalizes product architecture, its engineers learn to select components, calculate electrical margins, control interference, build test benches, and negotiate with suppliers. When these functions are performed entirely abroad, the country retains assembly and distribution but loses part of the capability from which future technology generations emerge. The sector's trade deficit should not be read as proof that every imported item must be substituted. Instead, it calls for investigation into the links with the highest value and the greatest exposure.
 
-According to ABINEE's sector estimates for 2025, Brazil imported approximately US$49.1 billion and exported US$7.9 billion of electrical and electronics products, implying an estimated deficit of approximately US$41.2 billion; semiconductor imports were estimated near US$6 billion. These December 4 figures were preliminary rather than a final audited calendar-year outcome. Aggregates do not automatically reveal whether every category of chip should be manufactured locally: a substantial share of demand concerns products governed by intellectual property, international contracts, and economies of scale that would be difficult to replicate. The appropriate inquiry disaggregates trade by circuit type, end customer, quantity, price, interruption exposure, and potential product differentiation. [S02]
+According to ABINEE's consolidated 2025 trade series, Brazil imported approximately US$48.7 billion and exported US$8.1 billion of electrical and electronics products, resulting in a deficit near US$40.6 billion; semiconductor imports totaled about US$5.96 billion. Aggregates do not automatically reveal whether every category of chip should be manufactured locally: a substantial share of demand concerns products governed by intellectual property, international contracts, and economies of scale that would be difficult to replicate. The appropriate inquiry disaggregates trade by circuit type, end customer, quantity, price, interruption exposure, and potential product differentiation. [S02]
 
 Import substitution may be an outcome but is not a sufficient goal. A company unable to export because artificially elevated costs undermine competitiveness can weaken the domestic industries that use its parts. A Brazilian-owned design manufactured under contract abroad may generate more domestic economic value than a locally built fab without customers or indigenous engineering. The comparison must include taxes, exchange rates, financing costs, reliability, support, defect costs, and prospects for improvement. The aim is a productive base that can survive without permanent protection.
 
@@ -1850,7 +1850,7 @@ The difference between twenty-five years of productive investment and twenty-fiv
 
 **[S01] OECD.** Mapping the Semiconductor Value Chain (2025); Understanding the Semiconductor Value Chain (2026). https://www.oecd.org/en/publications/mapping-the-semiconductor-value-chain_4154cdbf-en.html
 
-**[S02] ABINEE.** *Electrical and electronics industry revenue increased 4% in real terms in 2025*, released December 4, 2025. https://www.abinee.org.br/faturamento-do-setor-em-2025/
+**[S02] ABINEE.** *2026 Economic Outlook and Sector Performance*, consolidated 2025 electrical and electronics trade series. https://www.abinee.org.br/arquivos/decon/panorama/2026/
 
 **[S03] Brazil: legislation.** Law No. 14,968 of September 11, 2024, establishing Brasil Semicon; Decree No. 13,065 of July 15, 2026, regulating the program and amending Decree No. 10,615/2021. Law: https://www2.camara.leg.br/legin/fed/lei/2024/lei-14968-11-setembro-2024-796221-publicacaooriginal-172984-pl.html ; decree: https://legis.senado.leg.br/norma/43548823/publicacao/43559630 ; MDIC: https://www.gov.br/mdic/pt-br/composicao/sdic/dial/complexo-eletroeletronico-e-de-semicondutores/programa-brasil-semicondutores-brasil-semicon
 
@@ -1885,7 +1885,7 @@ The difference between twenty-five years of productive investment and twenty-fiv
 **[S18] European Court of Auditors.** Special Report 12/2025: EU semiconductor strategy. https://www.eca.europa.eu/pt/publications/SR-2025-12
 
 [S01]: https://www.oecd.org/en/publications/mapping-the-semiconductor-value-chain_4154cdbf-en.html
-[S02]: https://www.abinee.org.br/faturamento-do-setor-em-2025/
+[S02]: https://www.abinee.org.br/arquivos/decon/panorama/2026/
 [S03]: https://www2.camara.leg.br/legin/fed/lei/2024/lei-14968-11-setembro-2024-796221-publicacaooriginal-172984-pl.html
 [S04]: https://www.usgs.gov/publications/mineral-commodity-summaries-2026
 [S05]: https://www.sciencedirect.com/science/article/pii/S0025540825006105
