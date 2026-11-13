@@ -1247,3 +1247,96 @@ Projects should publish risk assessments, establish continuous monitoring, and p
 
 Indicators: environmental quality, accidents, unresolved conflicts, fines, and compliance with permit conditions. [S12]
 
+
+## X — INTERNATIONAL LESSONS
+
+### 107. Taiwan: institutes, industrial parks, and commercial firms
+
+Taiwan began its transformation through applied-research institutions, absorption of foreign technology, engineer training, and company formation. ITRI and the Hsinchu science park created an ecosystem of learning; TSMC, founded in 1987, consolidated the dedicated-foundry business model of manufacturing other companies' designs.
+
+Reducing Taiwan's experience to subsidies would ignore its combination of human capital, technology transfer, business discipline, and access to global markets. Importing the outcome without accounting for differences in history, population, and geopolitical position would be equally mistaken.
+
+For Brazil, the transferable mechanism is building institutions that generate firms and cumulative learning. The objective should not be to create a TSMC by decree, but to develop multiple companies, suppliers, and technicians backed by international contracts.
+
+Indicators: companies spun out of technology centers, exports per new firm, and continuity of know-how across generations. [S10]
+
+### 108. South Korea: scale, conglomerates, and R&D
+
+South Korea's advances in memory chips and electronics were underpinned by large private investments, process engineering, export learning, and relationships with industrial policy. Large business groups matter because they can sustain long capital cycles and compete in highly volatile world markets.
+
+Brazil has significant industrial groups, but its corporate structures and incentives do not automatically replicate Korea's conglomerates. Forcing a national firm into frontier DRAM production without scale or know-how could concentrate fiscal and commercial risk.
+
+The useful lessons are export discipline, reinvestment, process engineering, and supplier development. Consortia may share research expenses without artificially concentrating the whole sector in one designated national champion.
+
+Indicators: R&D intensity, foreign sales, patents entering actual use, and reinvestment in capacity. [S01]
+
+### 109. Japan: materials, equipment, and precision
+
+Japanese companies retain important positions in materials, chemicals, substrates, equipment, and precision components even after changes in the geography of logic-chip fabrication. Industrial leadership can therefore reside in specialized stages without a country leading every foundry market.
+
+Brazil's mining, chemical, and mechanical base can draw on this experience: filters, valves, ultra-pure inputs, metrology, and high-reliability services all create value. Entering these markets, however, requires sustained consistency, certification, and close relationships with customers.
+
+Brazilian firms can pursue joint ventures and supplies to foreign manufacturers, starting with smaller investments and expanding as processes are qualified. Public support should be assessed by export earnings and the capacity to sustain international specifications.
+
+Indicators: material suppliers qualified by global clients, rejection rates, and multi-year contracts. [S01]
+
+### 110. United States: design, software, and reindustrialization
+
+The United States concentrates assets in chip design, EDA tools, IP, equipment, and fabless companies while also subsidizing expansion of domestic fabrication. The CHIPS program reveals the capital scale involved: TSMC's supported Arizona expansion involves tens of billions of dollars and three factories.
+
+The experience shows that public funding can mobilize investment but does not eliminate construction, labor, operating-cost, and supplier-integration problems. The scale difference between advanced US facilities and Brazil's potential budget requires explicit priorities.
+
+Brazil can learn from US training, R&D, and contracting instruments without copying subsidy magnitudes unsupported by similar fiscal capacity. Early action should focus on areas where the country can build demand and exports.
+
+Indicators: investment additionality, returns on installed capacity, and durable specialist employment. [S07]
+
+### 111. Malaysia: upgrading from the back end
+
+Malaysia established an international presence in electronics and semiconductors through a substantial base of assembly, testing, and suppliers. Its current strategy aims to expand circuit design, advanced packaging, domestic technology, and the training of tens of thousands of engineers. Difficulties recruiting and retaining specialists remain documented.
+
+This example is particularly relevant for Brazil because it does not require immediate mastery of frontier lithography. Yet remaining concentrated in lower-margin stages can limit development if local firms fail to acquire IP, customers, and engineering functions.
+
+Brazil can deepen OSAT operations while combining back-end expansion with fabless design and electronic materials. Policy should ensure that high packaging volumes do not conceal a low domestic share of final value.
+
+Indicators: advanced-assembly processes, domestic design revenue, and labor productivity. [S16]
+
+### 112. India: coordinated scale and execution risks
+
+India supports a portfolio of fabrication and packaging projects with international partners, industrial zones, and significant fiscal incentives. Tata's Dholera project illustrates the capital magnitude of a new commercial fab and the role of technology agreements in attempts to shorten the learning curve.
+
+Announcements and project approvals are not equivalent to chips sold at competitive yield. India must also address materials supply, education, electricity, water, and local ownership of intellectual property.
+
+Brazil could adopt project phases involving external partners, provided that operational-readiness standards are enforced and fiscal costs are measured against knowledge transfer. Comparisons must account for differences in population, markets, policy, and investment conditions.
+
+Indicators: genuinely operating installations, accepted wafers, domestic suppliers, and export income. [S17]
+
+### 113. European Union: scientific capabilities and scaling difficulties
+
+The European Union possesses research centers, equipment, materials, industrial firms, and incentive programs. Nevertheless, the European Court of Auditors identified constraints to reaching the bloc's ambitious global market-share target. The case illustrates that wealth, science, and legislation do not automatically resolve coordination and investment constraints.
+
+Brazil should avoid arbitrary global market-share targets without mapping technologies, resources, and execution capability. An apparently mobilizing percentage can distort projects when global markets grow faster than local industry.
+
+The lesson is to build governance around measurable targets at individual stages and monitor actual implementation, reducing administrative friction without abandoning appraisal. Supply-side policy must engage with actual demand.
+
+Indicators: announced versus executed investment, pilot-line utilization, and commercial procurement. [S18]
+
+### 114. China: industrial integration and geopolitics
+
+China combines immense manufacturing scale, electronics suppliers, infrastructure, and research investment. Its concentration in parts of mineral and industrial chains creates agglomeration advantages but also trade tensions and diversification efforts in other countries. Leadership in one material does not imply immediate mastery of every advanced tool and process.
+
+Brazil benefits from importing competitively priced equipment and components, but excessive reliance on one origin can disrupt supply during trade shocks. Strategy therefore requires diplomacy with multiple partners and domestic capacity to design, test, repair, and adapt equipment.
+
+Cooperation projects should preserve domestic intellectual property, alternative access to inputs, and continuity contracts. Assessment should follow industrial objectives, regulatory risk, and reachable markets rather than ideological affinities.
+
+Indicators: supplier diversification, recovery lead times, and verifiable technology transfer. [S01][S12]
+
+### 115. Latin American experience and regional integration
+
+Latin America has automotive markets, energy systems, mining, telecommunications, and an uneven manufacturing base. Mexico is integrated with North American supply chains, while Brazil has diversified demand and mineral resources. No single country must recreate the whole chain to develop meaningful technological capability.
+
+Regional integration can increase volumes for modules and equipment, but requires shared standards, logistics, rules of origin, and predictable commercial agreements. A regional policy resting on sovereignty rhetoric alone will be unlikely to overcome costs and qualification barriers.
+
+Mercosur and partnerships with other countries can facilitate purchasing, conformity testing, and interoperability without obstructing competitive imports of necessary parts. The opportunity is to build exporters, not a captive low-productivity market.
+
+Indicators: regional exports of components and equipment, cross-border suppliers, and logistics costs. [S01]
+
