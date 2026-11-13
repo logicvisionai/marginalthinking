@@ -2,11 +2,11 @@
   "schema_version": 2,
   "id": "MT-PE-2026-10-30-MERCOSUR-GEOECONOMIC-FRACTURES",
   "qa_status": "approved",
-  "reviewed_at": "2026-10-30T19:17:35.121Z",
-  "reviewed_commit": "d82ca90b64abbfe61dfb045ff2ef8fe59acb5d15",
-  "pending_blob_sha": "38c8fa836dab8459f838bf2621995855e8391023",
+  "reviewed_at": "2026-11-13T10:25:34.464Z",
+  "reviewed_commit": "8a34bae5094c471151a536f17a9f75f9cb3375bb",
+  "pending_blob_sha": "053a6d102d2203a26aab9bbb5b1b513ac0180b19",
   "source_blob_shas": {
-    "en": "fbd4d79ca66730373bae0226733710ba04737fdb",
+    "en": "b1ade46e53ecddf8fb8071ea852cdb6e3896e73c",
     "pt-BR": "1803e93eabfbe25e1a004dde284ba9ce55e8b186"
   },
   "taxonomy_check": "passed",
@@ -15,35 +15,31 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pinned main HEAD and complete pending v2 and EN/PT-BR staged Markdown; ID, slug, ready:true, revision 1, producer-declared SHAs and Git blobs match 3/3. No prior approval/rejection/public bundle for this ID or slug."
+      "summary": "Revision 2 staged EN differs from the prior approved public EN by exactly one equivalent time-cutoff phrasing; PT-BR SHA unchanged. Newly staged and pending Git SHAs pinned."
     },
     "factual_methodology": {
       "result": "passed",
-      "summary": "Primary Treaty of Asunción Articles 21–22: express notice, denunciation instrument within 60 days, cessation of general membership rights and continuation of liberalisation obligations for two years. Mercosur official country page verifies Bolivia 2024 State Party/acquis transition and Venezuelan suspension. USTR verifies signed US–Argentina agreement 5 Feb 2026, not a formal Mercosur exit. EU Commission confirms Jan 17 signatures and provisional interim trade application 1 May; EFTA confirms Brazil/Iceland 1 Oct and scheduled Uruguay/Norway 1 Nov. Singapore and India government records distinguish staggered entry, launched negotiations and signed but not necessarily operative origin protocol."
+      "summary": "Prior detailed factual methodology fully preserved; literal diff is one English temporal self-reference to explicit cutoff date."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "Explicit 30 Oct 2026 São Paulo cutoff; 2023 bloc export destinations and 2025 Brazil-only shares kept separate from October 2026 tariff exception limits. EFTA 1 Nov entry is future at cutoff, EU interim application not final partnership ratification. Legal status, negotiation, signing and implementation are differentiated."
+      "summary": "Cutoff wording states the existing explicit 30 October 2026 date of information, consistent with 1 Nov planned EFTA implementation as still future."
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "25 numbered bibliography entries and matching URL sequence in both languages. Verified major facts with original Argentina treaty, Mercosur membership/communiqué and tariff-exception POLCOM Decision 1/2025; MRE 2023 trade series ($684.5bn total, $379bn exports, $49bn intrabloc, 29/14/12% China/EU/US), IMF 2026 Brazil Article IV (~30% China and ~8% Mercosur), USTR, EC, EP, EFTA, Singapore MTI, India PIB and Reuters attribution. CRS 29 Oct version supported by indexed CRS record; some dynamic pages require future recheck."
+      "summary": "No evidence, values, data vintage or source attribution changed compared with prior audited report; original primary reference chain retained."
     },
     "research_depth": {
       "result": "passed",
-      "reviewed_word_counts": {
-        "en": 5475,
-        "pt-BR": 5881
-      },
-      "summary": "Both exceed the research-report minimum by a wide margin after excluding fenced visuals and URL tokens; 29 ordered substantive chapters plus methodology/references, legal withdrawal and sectoral exposure, bargaining power, trade diversion, supply chains, institutional options and falsifiable scenarios. Added legal and 2026 agreement developments beyond prior structural Mercosur dossier."
+      "summary": "Existing full-length 36-section Mercosur historical/economic report unchanged except one nonfactual English qualifier; previous QA research-depth approval remains applicable."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "EN and PT-BR each contain three evidence tables (24 Markdown table rows), two quantitative charts (2023 29/14/12% export destinations and 2026 100/100/649/225 NCM exception caps), one causal flow, one qualitative regional map and one mindmap. Identical chart values and sequence; official MRE and POLCOM support numbers. Chart units/periods distinct; caps explicitly not actual utilization, and geographic map does not fabricate coordinates."
+      "summary": "EN/PT approved chart, table, map and flow series unchanged from prior approved revision."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Institutional, neutral bilingual research with numbered in-body citation markers and all URLs in final reference section; no internal QA or product roadmap prose. Political alignments treated as attributed incentives, not proof of external control or formal withdrawal. No fabricated exit probability, GDP loss or precise counterfactual."
+      "summary": "Eliminated the sole Mercosur English self-reference that triggered strict public research validator; original subject matter, sourced dates and substantive argument remain unchanged."
     },
     "translation_parity": {
       "result": "passed",
@@ -55,7 +51,7 @@
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Contrary interpretations include bilateral flexibility preserving membership, tariff liberalization improving input costs, common negotiation scale benefiting small members, and intra-bloc preference protecting some producers while diverting trade. Five scenarios carry observable tests rather than probabilities; exit cost is conditional on future agreements, input-output exposure and sectoral employment."
+      "summary": "Previous QA counterfactual analysis unchanged; no new empirical or causal interpretation introduced."
     },
     "conflict_security_attribution": {
       "result": "passed",
@@ -68,6 +64,10 @@
     "validator_contract": {
       "result": "passed",
       "summary": "GitHub Actions HEAD d82ca90 build job 124262188400 passed validate-and-build, visual semantics and 157 public bundle validations; validate-editorial-depth.mjs passed 104 approved/public artifacts. Strict MT_VALIDATE_ALL_PENDING=1 pipeline passed (157 public, 17 preexisting unpublished before this candidate); strict depth failed only five previously rejected older research items, not this candidate. Independently reproduced candidate-specific depth counts, 2 charts/1 flow/1 map/3 tables, 25 URLs, 15 source hosts, bilingual numeric signatures. Local full Node execution unavailable because container GitHub DNS resolution failed."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Single English change explicitly names the same information-cutoff date already assumed in previously approved bilingual editions; no numerical or treaty status changes."
     }
   },
   "contrary_evidence": [
@@ -82,9 +82,10 @@
     "EU interim trade application is provisional; EFTA/Singapore implementation is country-specific and date-dependent.",
     "No verified formal Argentine treaty denunciation through 30 Oct cutoff; no defensible probability or numerical GDP-loss estimate.",
     "Current source pages and third-party CRS mirror may be updated or restricted; verify original dated source versions before reusing claims.",
-    "Local full-repository Node tests unavailable; GitHub Actions build and strict-pending logs used, with candidate-specific independent checks."
+    "Local full-repository Node tests unavailable; GitHub Actions build and strict-pending logs used, with candidate-specific independent checks.",
+    "Revision 2 is an editorial-only correction, reviewed by assistant with diff equivalence checks; not a new human factual peer review."
   ],
-  "notes": "Independent QA approval only. Do not infer publication or deployment; public promotion belongs solely to publisher 5/5. No reports/**, public indices, CSS, taxonomy or institutional content modified.",
+  "notes": "QA reapproved exact revision 2 after one-phrase, nonfactual, bilingual-equivalent correction; direct comparison against prior published English verified no other changes.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -234,7 +235,7 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 1,
+    "revision": 2,
     "assessment_confidence": "medium",
     "scenarios": [
       "Managed flexibility through transparent negotiated tariff waivers",
@@ -261,7 +262,14 @@
       "source_blob_shas": {
         "en": "fbd4d79ca66730373bae0226733710ba04737fdb",
         "pt-BR": "1803e93eabfbe25e1a004dde284ba9ce55e8b186"
-      }
-    }
-  }
+      },
+      "editorial_revision": "2026-11-13 revision 2: minimal nonfactual English prose correction required by strict editorial-integrity validator; original treaty-date evidence and bilingual meaning unchanged.",
+      "source_parity": "English temporal qualifier now explicitly dated 30 October 2026; Portuguese already preserved equivalent factual timing."
+    },
+    "revision_reason": "Editorial integrity correction: replace an article-self-reference in the English EFTA treaty timing qualification with the original explicit 30 October 2026 information cutoff. No factual data or interpretive outcome changed.",
+    "qa_fixes_applied": [
+      "English only: rewrite 'this article's cutoff' as an explicit dated information cutoff without changing the treaty status, dates or evidence. Preserve PT-BR source verbatim."
+    ]
+  },
+  "revision": 2
 }
