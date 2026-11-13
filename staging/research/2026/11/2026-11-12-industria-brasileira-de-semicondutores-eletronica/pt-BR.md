@@ -63,6 +63,22 @@ Indústria nacional de chips e eletrônica avançada
   - clientes âncora, exportação e concorrência
 ```
 
+### Evolução das importações brasileiras de semicondutores, 2020–2025
+
+A série da ABINEE mostra importações de semicondutores oscilando ao longo de 2020–2025. O aumento do valor importado não demonstra, isoladamente, maior volume físico ou aumento da dependência em cada aplicação, pois preços, composição de dispositivos e câmbio contratual podem variar. As cifras representam fluxos nominais FOB de componentes semicondutores, não investimentos em fábricas nem produção nacional. [S02]
+
+```chart
+type: line
+title: Importações brasileiras de semicondutores, 2020–2025
+unit: US$ bilhões FOB
+2020 | 4.4288
+2021 | 5.5839
+2022 | 6.3480
+2023 | 5.2280
+2024 | 6.3090
+2025 | 5.9629
+```
+
 ## O preço oculto da dependência
 
 A importação de componentes eletrônicos frequentemente é avaliada pelo valor desembolsado na alfândega. Esse preço, porém, não captura todo o custo estratégico. Uma indústria que compra um microcontrolador pode depender também de um compilador, de uma biblioteca de firmware, de uma licença de propriedade intelectual, de ferramentas de programação e da decisão de continuidade comercial de um fabricante estrangeiro. Em automóveis e equipamentos industriais, o custo de redesenhar uma placa inteira pode superar muitas vezes o preço dos chips necessários. A vulnerabilidade é maior quando o componente está homologado em sistemas regulados ou precisa operar por décadas.
@@ -1328,6 +1344,20 @@ A integração regional pode ampliar volume de módulos e equipamentos, mas exig
 Mercosul e parcerias com outros países podem desenvolver compras, testes de conformidade e interoperabilidade, sem impedir importação competitiva de componentes necessários. A oportunidade é formar empresas exportadoras, não um mercado cativo de baixa produtividade.
 
 Indicadores: exportações regionais de componentes e equipamentos, fornecedores transfronteiriços e custos logísticos. [S01]
+
+### Geografia produtiva e capacidades industriais no Brasil
+
+As regiões industriais brasileiras desempenham papéis distintos na possível cadeia de semicondutores e eletrônica. O diagrama geográfico organiza funções, sem representar capacidade de fabricação instalada, posição exata de unidades ou volumes comerciais. A qualificação dos fornecedores e os contratos de mercado são necessários em todas as regiões. [S06][S08]
+
+```map
+title: Regiões brasileiras e funções possíveis na cadeia eletroeletrônica
+Campinas e interior de São Paulo | Projeto de circuitos, pesquisa, instrumentação e testes | Capacidades de engenharia não equivalem a fabricação completa de wafers
+Rio Grande do Sul | Microeletrônica, pesquisa e iniciativas de fabricação e montagem | Continuidade operacional e financiamento são determinantes
+Manaus | Montagem de eletrônicos e agregação de demanda | Logística e conteúdo tecnológico variam conforme o produto
+Minas Gerais e Bahia | Mineração, química e oportunidades de beneficiamento | Pureza eletrônica exige etapas adicionais de qualificação
+Paraná e Santa Catarina | Automação, máquinas, componentes e eletrônica de potência | Fornecimento a fabs exige rastreabilidade e ensaios específicos
+Nordeste | Sistemas de energia, materiais, logística portuária e universidades | Disponibilidade local de água e energia precisa ser demonstrada
+```
 
 ## XI — ESTRATÉGIA GEOGRÁFICA E CRONOGRAMA
 
