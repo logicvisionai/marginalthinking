@@ -2,7 +2,7 @@
 
 **13 de novembro de 2026 · Edição de sexta-feira pela manhã · Corte informacional: 05h de Brasília.** Os fechamentos das bolsas e os juros do Tesouro americano abaixo são de **quinta-feira, 12 de novembro**. O PPI americano e a atualização do PIB europeu prevista para sexta-feira ainda não foi divulgada neste corte. [1][2][3]
 
-Um choque de governança em uma única empresa revelou um problema financeiro mais amplo. A Nvidia recuou **4,3%** após a saída do presidente-executivo Jensen Huang. O S&P 500 caiu cerca de **0,35%**, o Nasdaq **0,39%**, o Dow **0,36%** e o Russell 2000 aproximadamente **1,7%**. O rendimento oficial do Treasury de dois anos chegou a **4,86%**, e o de dez anos, a **5,10%**. A edição anterior registrou a recuperação das ações de IA durante um feriado no mercado de títulos; quinta-feira trouxe a nova precificação dos juros e reverteu parte daquele alívio. [1][2]
+Um choque de governança em uma única empresa revelou um problema financeiro mais amplo. A Nvidia recuou **4,3%** após a saída do presidente-executivo Jensen Huang. O S&P 500 caiu cerca de **0,35%**, o Nasdaq **0,39%**, o Dow **0,36%** e o Russell 2000 aproximadamente **1,7%**. O rendimento oficial do Treasury de dois anos chegou a **4,86%**, e o de dez anos, a **5,10%**. A edição anterior registrou a recuperação das ações de IA durante um feriado no mercado de títulos; quinta-feira trouxe a nova precificação dos juros e reverteu parte daquele alívio. [1][2][13]
 
 ## 1. Painel de evidências com datas
 
@@ -36,7 +36,7 @@ unit: porcentagem anual; observações oficiais, excluído o feriado de 11/11
 
 ## 2. Concentração acionária e custo da infraestrutura de IA
 
-A mudança na liderança da Nvidia é um evento de governança, não prova de queda repentina na demanda mundial por computação. A reação mostra, porém, quanto a tese de investimento depende de poucas empresas, continuidade administrativa e acesso a financiamento. A CoreWeave, que havia subido fortemente no pregão anterior, perdeu cerca de 6,9% na quinta-feira, enquanto a Nebius também caiu intensamente. A oscilação de uma ação não mede capacidade instalada de centros de dados nem receitas efetivamente recebidas. [1]
+A mudança na liderança da Nvidia é um evento de governança, não prova de queda repentina na demanda mundial por computação. A reação mostra, porém, quanto a tese de investimento depende de poucas empresas, continuidade administrativa e acesso a financiamento. A CoreWeave, que havia subido fortemente no pregão anterior, perdeu cerca de 6,9% na quinta-feira, enquanto a Nebius também caiu intensamente. A oscilação de uma ação não mede capacidade instalada de centros de dados nem receitas efetivamente recebidas. [1][13]
 
 O Russell 2000 teve desempenho pior que os índices de grandes companhias. Isso é compatível com preocupações sobre custo de financiamento, mas não comprova uma causa única: composição setorial, liquidez e notícias empresariais também interferem. Juros maiores reduzem o valor presente de lucros futuros e podem encarecer empréstimos para redes elétricas, refrigeração, chips e obras. Empresas com caixa abundante e construtoras de infraestrutura endividadas enfrentam restrições diferentes.
 
@@ -49,7 +49,7 @@ Nenhuma cadeia demonstra colapso da demanda por IA. A primeira depende da transm
 
 ## 3. Inflação, bancos centrais e restrições fiscais
 
-A meta dos Fed funds permanece em **3,75% a 4,00%**, conforme decisão de 28 de outubro. A alta dos Treasuries na quinta-feira é preço de mercado, não nova votação do Federal Reserve. O CPI americano de outubro, publicado em 10 de novembro, subiu **0,4%** no mês, com núcleo de **0,3%**. O PPI de sexta-feira poderá esclarecer a inflação nos estágios anteriores da cadeia produtiva, mas não pode ser tratado como divulgado antecipadamente. [2][6]
+A meta dos Fed funds permanece em **3,75% a 4,00%**, conforme decisão de 28 de outubro. A alta dos Treasuries na quinta-feira é preço de mercado, não nova votação do Federal Reserve. O CPI americano de outubro, publicado em 10 de novembro, subiu **0,4%** no mês, com núcleo de **0,3%**. O PPI de sexta-feira poderá esclarecer a inflação nos estágios anteriores da cadeia produtiva, mas não pode ser tratado como divulgado antecipadamente. [2][6][8]
 
 O Brasil enfrenta outra combinação de inflação e crescimento. O IPCA de outubro desacelerou para **0,14%**, ante **0,82%** em setembro, e a taxa em doze meses foi informada em **4,63%**. Um único mês favorável não comprova convergência persistente à meta. Medidas fiscais em discussão legislativa ainda são propostas, não economias orçamentárias realizadas. A fraqueza recente da indústria e dos serviços em setembro limita o cenário de atividade. A valorização global do dólar pode elevar preços importados, mas a transmissão depende de contratos, proteção cambial e credibilidade monetária. [4][7]
 
@@ -149,3 +149,4 @@ Os próximos testes são o PPI americano de 13 de novembro, a atualização euro
 [10] Escritório Nacional de Estatísticas da China, PPI industrial de outubro de 2026: https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965806.html  
 [11] Escritório Nacional de Estatísticas da China, CPI de outubro de 2026: https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html  
 [12] Bureau of Labor Statistics, PPI de setembro de 2026, publicado em 15/10: https://www.bls.gov/news.release/archives/ppi_10152026.htm  
+[13] Associated Press, crise de liderança da Nvidia e reação das ações, 12–13/11: https://apnews.com/article/f9ac67fed10c86c1ed1ad1f41dd921a5  
