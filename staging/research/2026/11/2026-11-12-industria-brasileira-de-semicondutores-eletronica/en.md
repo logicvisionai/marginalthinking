@@ -1144,3 +1144,106 @@ Public support centers and industry associations can offer freedom-to-operate as
 
 Indicators: disputes avoided, licensing revenue, IP contracts reviewed, and the ability to export without unexpected restrictions. [S01]
 
+
+## IX — GOVERNMENT, INSTITUTIONS, AND POLITICAL ECONOMY
+
+### 97. Industrial policy and coordination failures
+
+An investor will not build a fab without suppliers; suppliers will not invest without customers; universities will not maintain expensive programs without employment prospects. This coordination failure can justify public action in infrastructure, training, credit, and information. It does not justify indefinitely financing every project described as strategic.
+
+Brazilian policy must avoid two extremes: leaving the industry entirely exposed to competition from countries offering subsidies, or centrally selecting technologies without customers. Effective governance creates conditions and discipline while retaining competitive selection and periodic reassessment.
+
+Funding calls can require private-sector consortia, contracts, technical metrics, transparent benefits, and recovery provisions when recipients fail to comply. Evaluation must compare subsidized projects against realistic alternative uses of public resources.
+
+Indicators: additional investment mobilized, survival after incentives expire, productivity, and fiscal cost per skilled job. [S03][S06]
+
+### 98. Brasil Semicon and PADIS
+
+Law No. 14,968/2024 established Brasil Semicon and expanded instruments for semiconductors and related activities. Regulations issued in 2026 added tax-relief, financing, and governance provisions. The legal framework creates possibilities, but effectiveness depends on administrative execution, budgets, and company behavior.
+
+Potential incentives, legal eligibility, investment announcements, and physically installed operating capacity must be distinguished. Firms may receive tax treatment without creating new design or export assets if counterpart obligations consist only of assembly operations.
+
+Policy should publish dashboards of beneficiaries, investments realized, technical milestones, employment targets, and export outcomes while protecting genuinely confidential information. Regulatory continuity must be paired with regular reviews of costs and performance.
+
+Indicators: approved projects entering commercial operation, additional private investment, and revenue from locally developed components. [S03]
+
+### 99. Governance and a managing council
+
+Without coordination, mining, chemistry, infrastructure, universities, foreign trade, and financing programs may operate on incompatible schedules. A technical management council should resolve interfaces and monitor results, not merely distribute political seats.
+
+Large councils can be captured by incumbent firms, competing states, or short-term interests. Governance must publish decision criteria, require conflict-of-interest disclosures, include competing firms, and obtain independent external expert review.
+
+A lean executive unit could monitor projects, identify constraints, and convene responsible authorities. Major subsidy decisions should contain analyses of alternatives, economic returns, fiscal exposure, and annual accountability.
+
+Indicators: time to remove constraints, budget execution, private-sector participation, and independent project evaluations. [S03]
+
+### 100. BNDES, Finep, and financing structures
+
+Semiconductor financing covers physical capital, intangibles, research, working capital, and guarantees. Fab projects have long maturities and high execution risks; fabless firms need prototype and sales financing; chemical suppliers need purification plants backed by stable contracts. Applying one financial instrument to all is inefficient.
+
+Brazil already deploys credit and innovation assistance in parts of the semiconductor sector. The central issue is additionality: how much investment would happen without support, how much risk remains with taxpayers, and how much technological value stays in Brazil.
+
+Funds can use distinct instruments: debt for contracted assets, competitive grants for high-risk research, equity for product firms, and export guarantees. Payments should follow verified technical and commercial results, not construction expenditure alone.
+
+Indicators: private-capital leverage, risk-adjusted defaults, products reaching production, and net fiscal costs. [S03][S14]
+
+### 101. Taxation, tax credits, and incentive evaluation
+
+Semiconductors cross multiple import, service, and manufacturing operations. Cumulative taxes, unpredictable interpretation, and delayed credit recovery can increase financing costs even when the ultimate statutory rate is low. Tax policy must be assessed by total cost rather than one isolated benefit.
+
+A special regime may attract a plant without developing local suppliers if contracts and competencies remain abroad. As industrial development policy, an incentive is defensible only where it produces additional investment and its distributional effects are known.
+
+Rules should be simple, time-limited, auditable, and consistent with international commitments, with transparent estimates of forgone revenue. Periodic evaluations should compare recipients with plausible comparison groups and measure productivity and exports rather than announcements alone.
+
+Indicators: fiscal cost per job, value added per real of forgone revenue, credit-recovery time, and investment durability. [S03]
+
+### 102. Public procurement as market creation
+
+Public hospitals, electricity distributors, defense agencies, and schools buy equipment containing numerous electronic circuits. Procurement can help manufacturers overcome first-commercialization risk, but succeeds only when specifications are technical and suppliers remain accountable for performance.
+
+Preferences based solely on origin can produce overpricing and inferior goods. Pre-commercial technology procurement must be distinguished from ordinary purchases: in the former the government shares development risk, while the latter should pay for quality and lifecycle value.
+
+Public platforms can establish interoperability, maintenance, and cybersecurity requirements so multiple companies can compete for contracts. Projects should disclose technical results without revealing sensitive data and include exit arrangements if technology fails to mature.
+
+Indicators: independent supplier counts, verified performance, lifecycle costs, and third-party sales after the initial contract. [S03]
+
+### 103. International trade and technology agreements
+
+Global chip production is geographically distributed: design, fabrication, materials, machinery, and customers are in different regions. Export restrictions, sanctions, licenses, and trade disputes can affect essential machines or software even where the physical facility is in Brazil.
+
+Depending on only one foreign partner exposes Brazil to other countries' industrial and geopolitical decisions. Diversifying partnerships, however, does not mean ignoring technological incompatibility among manufacturing platforms.
+
+Economic diplomacy should seek training agreements, foundry access, joint research, spare-parts supply, and continuity clauses. Partners should be assessed on transferable technology, cost, regulatory risk, and compatibility with final customers.
+
+Indicators: qualified alternative suppliers by production stage, contracts with verifiable technology transfer, and replacement times under trade shocks. [S01][S15]
+
+### 104. Exchange rates, inflation, and the cost of capital
+
+Machinery, licenses, and many inputs are priced in US dollars, euros, yen, or other currencies, while initial revenue may be earned in Brazilian reais. Currency depreciation makes imported capital and spare parts more expensive, and high interest rates reduce the present value of projects whose returns emerge over many years.
+
+Cheap credit alone cannot fix weak demand or poor yield. Currency hedges and long-term finance can mitigate risks preventing otherwise sound projects, but transfer costs to financiers and need to be priced explicitly.
+
+Investors should produce scenarios for exchange-rate changes, interest rates, energy prices, exports, real yields, and maintenance costs. Public finance must disclose implicit subsidies and establish whether additional technological value is produced.
+
+Indicators: scenario-based net present value, foreign-exchange hedging, financing tenor, and fab break-even levels. [S02]
+
+### 105. Competition, protection, and learning
+
+Tariffs can protect emerging activities from large-scale foreign rivals, but may also increase the cost of components used by thousands of Brazilian firms. When incentives favor assembly while penalizing imported inputs, they can discourage designing complete products for export.
+
+Brazil must assess effects beyond a single subsidized firm: importers, consumers, hardware startups, and capital-goods manufacturers may bear the costs of poorly designed protection. Effective policy creates a learning period with observable targets.
+
+Temporary measures need review clauses and should remove unjustified barriers to importing inputs and equipment without competitive domestic equivalents. Gradual exposure to competition and exports disciplines costs and quality.
+
+Indicators: domestic-international price gaps, voluntary exports, productivity, and dependence on incentives after five years. [S02][S03]
+
+### 106. Environmental regulation and social legitimacy
+
+Mining, chemicals, and semiconductor production can involve resource-intensive stages, hazardous substances, and construction impacts. Social acceptance depends on demonstrable local benefits and prevention of harm, not merely promises of high-tech jobs.
+
+Opacity around water, effluents, and waste can generate legitimate opposition and delays. Brazilian industrial development will be sustainable only if affected communities participate in siting and mitigation decisions.
+
+Projects should publish risk assessments, establish continuous monitoring, and provide for financial remediation when damage occurs. Regulators need qualified staff and clear timetables without weakening environmental or public-health standards.
+
+Indicators: environmental quality, accidents, unresolved conflicts, fines, and compliance with permit conditions. [S12]
+
