@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-13",
+  "slug": "2026-11-13-global-macro",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "energy",
+    "trade-investment",
+    "industry-production"
+  ],
+  "phenomena": [
+    "strategic-competition"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-13-global-macro/en.md",
+      "title": "Global Macro — Higher US yields turn an AI leadership shock into a global financing test",
+      "deck": "Treasury yields and an AI governance shock expose debt-financed infrastructure risk as Brazil inflation eases and Europe awaits new estimates.",
+      "tags": [
+        "Global Macro",
+        "Treasury yields",
+        "AI infrastructure",
+        "Brazil IPCA",
+        "Eurozone GDP"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-13",
+        "November 13 2026",
+        "Nvidia",
+        "Treasury 5.10"
+      ],
+      "regime": "Rising US funding benchmarks and concentrated technology repricing amid uneven regional inflation.",
+      "key_risk": "PPI and Eurostat releases pending; unverified credit spreads.",
+      "watch": [
+        "US PPI November 13",
+        "Eurostat GDP revision",
+        "Credit spreads",
+        "Energy freight"
+      ],
+      "search_text": "November 13 2026 global macro Treasury Nvidia Brazil IPCA eurozone funding"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-13-global-macro/pt-BR.md",
+      "title": "Global Macro — Alta dos juros americanos transforma choque na liderança da IA em teste global de financiamento",
+      "deck": "Treasuries e crise de governança na IA expõem risco de infraestrutura financiada por dívida enquanto inflação brasileira desacelera.",
+      "tags": [
+        "Global Macro",
+        "Treasuries",
+        "Infraestrutura de IA",
+        "IPCA",
+        "PIB europeu"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-13",
+        "13 novembro 2026",
+        "Nvidia",
+        "Treasury 5,10"
+      ],
+      "regime": "Custo de financiamento americano em alta e reprecificação concentrada em tecnologia com inflação regional desigual.",
+      "key_risk": "PPI e Eurostat ainda pendentes; spreads não verificados.",
+      "watch": [
+        "PPI EUA 13 novembro",
+        "Revisão PIB europeu",
+        "Spreads de crédito",
+        "Frete energético"
+      ],
+      "search_text": "Macro global 13 novembro 2026 Treasury Nvidia IPCA Brasil Europa financiamento"
+    }
+  },
+  "producer_checks": {
+    "information_cutoff": "2026-11-13 05:00 BRT; US Nov12 completed sessions; Nov13 PPI and Eurostat releases pending.",
+    "novelty": "Nov12 US official yield repricing and Nvidia leadership shock after Nov11 equity rebound during bond holiday.",
+    "bilingual_parity": "Matching 1 table, 1 chart, flow and map; same figures and source URLs.",
+    "editorial_status": "Producer staged; independent QA required."
+  },
+  "limitations": [
+    "No verified global credit spread or capital flow panel.",
+    "US PPI and Eurostat 13 Nov releases not yet observed.",
+    "Brazil IPCA numerical value corroborated by secondary dated source; primary IBGE calendar verified."
+  ]
+}
