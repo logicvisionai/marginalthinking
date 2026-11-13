@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-13",
+  "slug": "2026-11-13-global-macro",
+  "revision": 2,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-13T10:18:37.037Z",
+  "reviewed_commit": "e9cd71122ec99a302c5c7e75118a69333537b217",
+  "pending_blob_sha": "f55fb67aca00d8d32dcc8fc3a2594406ee4a4ec5",
+  "source_blob_shas": {
+    "en": "eb2fe77bed8b99a90ef6bbc5b4a2252309d8e24f",
+    "pt-BR": "1b08ec85f20e46e176efb15b531d95cc7ce9f426"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Revision 2 pending and both staged locale source SHA verified and pinned immediately before QA decision."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "v2 ready daily-global-macro metadata; English canonical, PT-BR counterpart, registered political-economy-markets program and controlled strategic-competition phenomenon."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "05:00 BRT 13 Nov cutoff; 12 Nov US completed close and Treasury observations, 10 Nov earlier official yields, 11 Nov bond holiday; US October PPI and Eurostat revision unobserved at cutoff."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary U.S. Treasury Nov10/12 2Y4.73/4.86 and 10Y4.98/5.10; China NBS October PPI5.7 CPI0.7 y/y and producer subcomponents; BLS Sep PPI1.3 monthly verified; other data traced to AP, BLS CPI, Eurostat, BCB, IBGE index and dated local reporting; distinctions stock/flow and y/y vs m/m explicit."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "13 identical reference URLs including official Treasury, Chinese NBS, BLS, FOMC, Copom and Eurostat. Brazilian Oct IPCA exact numeric release supported by dated financial press with IBGE reference index, not matched to directly retrievable IBGE dated release. No unsupported global credit spread or funds-flow magnitudes inferred."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN 2739 and PT-BR 2933 substantive words; developed sovereign yield transmission through lending and data center capex, China factory/consumer price wedge, Brazil fiscal/monetary channels, European heterogeneity and explicit opposing scenarios."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two quantitative chart series with identical EN/PT numeric arrays (Treasury nominal yields and China CPI/PPI), dated evidence table, two-chain causal diagram, spatial comparison map and counterfactual table. Units and observation windows explicit."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "13 references identical and ordered, 2 chart datasets identical, 11 H2 sections, aligned factual observation periods, qualitative qualifications, regional mechanisms and alternative interpretations."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Natural institutional prose without publication workflow, first-person drafting notes or generic metadescriptions; descriptions connect actors, mechanisms, prices and financing outcomes."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "No one-for-one Treasury-to-credit spread assumption; no AI demand collapse inferred from stock decline; China CPI does not follow industry PPI mechanically; Brazil monthly IPCA alone does not imply rate cut."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Rates-led tightening versus valuation-only correction; energy-driven inflation versus freight stabilization; upstream versus household China price transmission; quantified observational tests included."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "QA manually checked same substantive thresholds as validate-editorial-depth.mjs and verified pinned source SHA and report grammar; full npm validation and production deployment remain separate publisher/build responsibilities."
+    }
+  },
+  "contrary_evidence": [
+    "Higher Treasury yields do not prove higher company-specific credit spreads or cancelled infrastructure investment.",
+    "Chinese industrial PPI +5.7% y/y and household CPI +0.7% y/y measure different baskets, not directly identical inflation processes.",
+    "October Brazil IPCA +0.14% m/m is not evidence by itself of annual target convergence.",
+    "Eurostat quarterly GDP differences among European countries complicate a single eurozone growth narrative."
+  ],
+  "limitations": [
+    "No independently verified aggregate global corporate credit-spread or fund-flow panel.",
+    "US October PPI and revised 13 Nov Eurostat GDP not yet observed by the 05:00 BRT cutoff.",
+    "Brazil October IPCA official statistical-series calendar and dated press corroboration; no direct official release article verified.",
+    "Independent assistant QA was performed using explicit source, numerical and SHA checks, not a separate human peer review.",
+    "End-to-end npm production build and production HTTP visibility have not yet been validated."
+  ],
+  "notes": "Revision 2 verified against dated primary economic data, with explicit evidence limitations. SHA-bound approval; publisher must recheck exact object hashes prior to creating public files.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-13",
+    "slug": "2026-11-13-global-macro",
+    "date": "2026-11-13",
+    "published_at": "2026-11-13T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "trade-investment",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-13-global-macro/en.md",
+        "title": "Global Macro — Higher US yields turn an AI leadership shock into a global financing test",
+        "deck": "Treasury yields and an AI governance shock expose debt-financed infrastructure risk as Brazil inflation eases and Europe awaits new estimates.",
+        "tags": [
+          "Global Macro",
+          "Treasury yields",
+          "AI infrastructure",
+          "Brazil IPCA",
+          "Eurozone GDP"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-13",
+          "November 13 2026",
+          "Nvidia",
+          "Treasury 5.10"
+        ],
+        "regime": "Rising US funding benchmarks and concentrated technology repricing amid uneven regional inflation.",
+        "key_risk": "PPI and Eurostat releases pending; unverified credit spreads.",
+        "watch": [
+          "US PPI November 13",
+          "Eurostat GDP revision",
+          "Credit spreads",
+          "Energy freight"
+        ],
+        "search_text": "November 13 2026 global macro Treasury Nvidia Brazil IPCA eurozone funding"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-13-global-macro/pt-BR.md",
+        "title": "Global Macro — Alta dos juros americanos transforma choque na liderança da IA em teste global de financiamento",
+        "deck": "Treasuries e crise de governança na IA expõem risco de infraestrutura financiada por dívida enquanto inflação brasileira desacelera.",
+        "tags": [
+          "Global Macro",
+          "Treasuries",
+          "Infraestrutura de IA",
+          "IPCA",
+          "PIB europeu"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-13",
+          "13 novembro 2026",
+          "Nvidia",
+          "Treasury 5,10"
+        ],
+        "regime": "Custo de financiamento americano em alta e reprecificação concentrada em tecnologia com inflação regional desigual.",
+        "key_risk": "PPI e Eurostat ainda pendentes; spreads não verificados.",
+        "watch": [
+          "PPI EUA 13 novembro",
+          "Revisão PIB europeu",
+          "Spreads de crédito",
+          "Frete energético"
+        ],
+        "search_text": "Macro global 13 novembro 2026 Treasury Nvidia IPCA Brasil Europa financiamento"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "2026-11-13 05:00 BRT. Treasury and US stocks through 12 Nov; US October PPI and revised Eurostat GDP pending at cutoff.",
+      "novelty": "12 Nov market repricing combined with 10 Nov China industrial PPI/CPI divergence, Brazil's 12 Nov IPCA and Copom policy backdrop.",
+      "bilingual_parity": "Revised EN/PT-BR with identical numerical series in 2 charts, tables, flow and regional map; 13 traceable dated URLs per locale.",
+      "editorial_status": "Revision 2 fully restaged with sourced argument, revised primary references, bilingual visual parity and no production commentary; independent QA required.",
+      "visual_evidence": "Two sourced charts: US Treasury par yields (10 and 12 Nov) and China October CPI/PPI (year-on-year).",
+      "source_check": "Official US Treasury, BLS CPI/PPI, FOMC, China NBS CPI/PPI, BCB Copom, Eurostat and dated AP/UOL reporting rechecked; October US PPI and Euro GDP revision not anticipated."
+    },
+    "limitations": [
+      "No independently verified aggregate global corporate credit-spread or fund-flow panel.",
+      "US October PPI and revised 13 Nov Eurostat GDP not yet observed by the 05:00 BRT cutoff.",
+      "Brazil October IPCA official statistical-series calendar and dated press corroboration; no direct official release article verified."
+    ],
+    "contrary_evidence": [
+      "Higher Treasury yields do not prove higher company-specific credit spreads or cancelled infrastructure investment.",
+      "Chinese industrial PPI +5.7% y/y and household CPI +0.7% y/y measure different baskets, not directly identical inflation processes.",
+      "October Brazil IPCA +0.14% m/m is not evidence by itself of annual target convergence.",
+      "Eurostat quarterly GDP differences among European countries complicate a single eurozone growth narrative."
+    ]
+  }
+}
