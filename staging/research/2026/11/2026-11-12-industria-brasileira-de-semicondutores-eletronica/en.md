@@ -355,3 +355,94 @@ Pilot studies with refiners and metallurgical institutes should examine extracti
 
 Indicators: metal recovery, marginal extraction cost, and long-term sales agreements. [S04]
 
+
+### 20. Germanium and byproduct chains
+
+Germanium is used in infrared optics, specialized devices, and certain semiconductor architectures. Its supply also depends on mineral and metallurgical streams from which it must be deliberately recovered. Some base-metal producers handle process streams containing germanium that do not currently justify economic recovery.
+
+Technological substitution, volatile prices, and a small global market complicate stand-alone investments. Brazil needs to map occurrences and residues while recognizing that chemical presence does not mean an economically recoverable reserve. Purification without a defined customer can produce expensive, obsolete inventories.
+
+The priority is a characterization campaign at refineries and mines, with protection for commercial confidentiality and transparent methods. International partnerships could provide access to refining know-how without granting exclusive rights over domestic resources.
+
+Indicators: annual recoverable quantity, cost per usable kilogram, purity, and supply contracts. [S04]
+
+### 21. Rare earths and their indirect relationship with chips
+
+Rare-earth elements are essential for magnets, polishing, optics, lasers, and many electronic systems, but they are not the central ingredient of every transistor. Treating rare-earth reserves as equivalent to semiconductor self-sufficiency obscures the specialization of production stages and the difficulty of chemical separation.
+
+The chain includes mineral exploration, extraction, solvent-based separation, refining, oxide production, and conversion into technical materials. In many applications, the ability to supply compounds of consistent composition determines who earns the value added. Waste management and environmental impacts are part of the real cost.
+
+Brazil could expand exploration, demonstration plants, and processing contracts while prioritizing identified industrial applications. Environmental requirements and community consultation need to precede construction; delays caused by foreseeable conflicts are not an unavoidable technological destiny.
+
+Indicators: separation yield by element, environmental costs, tailings indicators, and product certification. [S04]
+
+### 22. Lithium, nickel, and minerals for energy electronics
+
+Advanced electronics also depends on batteries, storage systems, and the circuits that control them. Lithium, nickel, manganese, iron, and graphite pass through different chemical chains from silicon wafers, but converge in electric vehicles, renewable-energy systems, drones, and portable equipment.
+
+A chip strategy isolated from battery and converter production loses potential demand. Yet developing batteries is not the same as mastering semiconductors; the economic link is the joint specification of power devices, current sensors, thermal-management systems, and control software.
+
+Industrial programs should finance integrated demonstrations combining the cell, battery-management system, inverter, sensors, and safety testing. Each project must itemize remaining imports and substitution costs rather than asserting nationalization based on final assembly alone.
+
+Indicators: system efficiency, field failure rates, and verified domestic content in each subsystem. [S04][S12]
+
+### 23. Fluorite, hydrofluoric acid, and chemical risk
+
+Fluorinated chemicals are used in cleaning, controlled etching, and various fabrication processes; hydrofluoric acid demands rigorous occupational-health and environmental-safety procedures. Mineral feedstock alone does not establish viability: licensed chemical plants, compatible containers, safe distribution, and exceptional purity all matter.
+
+Attempting to localize high-risk chemicals in areas without industrial experience can create environmental and operating costs greater than the anticipated economic benefit. The industry needs trained personnel, traceable impurities, emergency-response routes, and technically feasible alternatives.
+
+Domestic development should take place in chemical clusters with strong environmental governance, purity testing, and qualified buyers. Imports may remain appropriate until domestic demand and processes can support safe industrial scale.
+
+Indicators: certified purity, incidents and near misses, recovery efficiency, and regulatory compliance. [S04]
+
+### 24. Phosphorus, boron, and dopants
+
+Doping changes charge-carrier concentrations in a semiconductor and creates regions with specified electrical characteristics. Boron, phosphorus, and related compounds are introduced by ion implantation or diffusion, requiring precise control of dose, depth, activation, and contamination.
+
+The presence of minerals containing these elements does not solve the supply of electronic-grade dopants. Gases and precursors can be toxic or flammable, demanding specialized cylinders, purification, safeguards, detection systems, and maintenance.
+
+Brazil can begin by developing metrology and multiple-source supply contracts, establishing domestic purification only when volumes and safety justify the investment. Policy should assess the interruption risk of each chemical product, not merely its country of origin.
+
+Indicators: residual contaminant concentrations, delivery stability, dosage precision, and material waste. [S01]
+
+### 25. Silicon-carbide substrates
+
+SiC devices can operate at high voltages, temperatures, and switching frequencies, reducing losses in converters, chargers, and electricity networks. Their supply chain requires difficult crystal growth, slicing, polishing, epitaxy, device processing, and packages designed for heat dissipation.
+
+Producing a functioning SiC component in a laboratory does not mean offering substrates at competitive defect densities. Crystal quality affects yield and reliability. Established, large-scale competitors and sophisticated processes make niche selection and customer commitments decisive.
+
+For Brazil, SiC power electronics merits demonstration projects connected to inverter, vehicle, and grid demand. Epitaxy investments and module testing should proceed alongside the qualification of domestic or imported substrates.
+
+Indicators: defects per unit area, blocking voltage, on-state resistance, thermal performance, and accelerated lifetime. [S08]
+
+### 26. Gallium nitride and heterostructures
+
+GaN offers attractive properties for power, RF, and high-frequency devices. Manufacture requires precise epitaxy, interface engineering, passivation, device geometry, protection against dynamic effects, and packaging with low parasitic inductance. Depending on the process, the substrate may be made of a material different from the active semiconductor.
+
+Domestic gallium resources do not eliminate dependence on epitaxy equipment, chemical precursors, or intellectual-property rights. Some GaN segments are dominated by firms with established process libraries and reliability records. Entry requires a clearly selected market problem.
+
+Brazilian projects can begin with converter and RF-system design and characterization using imported dies, gradually progressing to specialized components and processes as volumes, proprietary know-how, and testing capabilities mature.
+
+Indicators: power-conversion efficiency, dynamic degradation, power density, and electromagnetic compatibility. [S01]
+
+### 27. Gallium arsenide and RF devices
+
+GaAs remains important for certain radio, amplification, and optoelectronics applications. Production involves compound crystals, epitaxial growth, heterojunctions, and suitable contact processes. The choice among GaAs, GaN, RF silicon, and other technologies depends on power, noise, frequency, cost, and integration requirements.
+
+Building a complete compound-material chain without RF or optical-device customers risks small-scale, high-cost operations. Brazil has potential demand in communications, instrumentation, and space systems, but purchasers must participate in specifying requirements from the start.
+
+Consortia involving telecommunications, defense, universities, and foreign suppliers can identify modules warranting domestic design. Radiation and reliability testing are valuable shared facilities regardless of the selected substrate.
+
+Indicators: noise figure, power efficiency, thermal robustness, and qualification rate by application. [S01]
+
+### 28. Metals recycling and the circular economy
+
+Manufacturing waste and discarded electronic equipment contain metals, solvents, polymers, and components requiring specialized treatment. Economically viable recovery depends on concentration, segregation at source, chemical safety, and reverse logistics; not every present element can be recovered profitably or with low emissions.
+
+Expanding domestic industry without waste infrastructure can transfer costs to communities and increase environmental liabilities. Opportunities to recover copper, tin, precious metals, and packaging materials coexist with contamination risks.
+
+Industrial consortia should contract certified operators, measure material recovery, and minimize the mixing of waste streams. Universities can study low-energy recycling pathways while regulators ensure that apparent competitiveness does not depend on externalizing environmental damage.
+
+Indicators: recovered mass by stream, occupational exposure, treatment costs per tonne, and emissions per product. [S04][S12]
+
