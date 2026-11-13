@@ -1340,3 +1340,106 @@ Mercosur and partnerships with other countries can facilitate purchasing, confor
 
 Indicators: regional exports of components and equipment, cross-border suppliers, and logistics costs. [S01]
 
+
+## XI — GEOGRAPHIC STRATEGY AND TIMETABLE
+
+### 116. Campinas and inland São Paulo: design, research, and industry
+
+The Campinas region connects universities, institutes, software, electronics, metrology, and industrial firms. This concentration offers conditions for fabless design, prototyping, RF, medical electronics, embedded systems, and suppliers of tools and equipment. Airports and access to buyers can shorten product-development cycles.
+
+Concentrating everything in one cluster would increase costs and correlated exposure. Choosing a new fab location must account for water, electricity, and physical conditions, not just academic reputation.
+
+The regional strategy can strengthen shared infrastructure for design, testing, and pilot production, with competitive access. Links to nearby industrial towns should create supplier routes and vocational-training opportunities.
+
+Indicators: firms with commercial tape-outs, R&D contracts, and prototyping time. [S06]
+
+### 117. Rio Grande do Sul: microelectronics and continuity
+
+Rio Grande do Sul has institutions and operations connected to semiconductors, including design, assembly, and fabrication initiatives associated with CEITEC. The potential lies in accumulated competence, provided it becomes stable commercial product lines and regionally connected suppliers.
+
+Business and budget interruptions can destroy learning. Climate risks also require protecting facilities, alternative transport routes, and electricity and water planning.
+
+Local development should connect institutes, universities, firms, and purchasers around selected device roadmaps, under technical governance and yield targets. Expansion must follow real demand and cost evaluation.
+
+Indicators: operating stability, products sold, engineer retention, and recovery after extreme events. [S08][S13]
+
+### 118. Manaus: assembly and more domestic engineering
+
+The Manaus industrial hub concentrates production and assembly of electrical and electronics goods. Manufacturing scale presents opportunities for testing, engineering, component logistics, and selected packaging activities. Transportation costs and incentive rules, however, must be assessed alongside real value added.
+
+An operation can create employment without internalizing design or component production. The region's logistics also depend on river and air conditions subject to seasonality and environmental constraints.
+
+Industrial upgrading can proceed through engineering centers, reliability laboratories, regional supplier development, and products intended for Latin American markets. Benefits should reward knowledge and exports, not the number of assembly operations alone.
+
+Indicators: local engineering per product, defects, exports, and logistics cost. [S02]
+
+### 119. Minas Gerais and Bahia: materials and transformation
+
+States with mining, chemical, and metallurgical-engineering capacity could specialize in turning raw materials into electronic materials, ceramics, alloys, and equipment. Natural-resource advantages exist only when processing, energy, water, and logistics are economically compatible.
+
+A purification plant's location must reflect its chemical flowsheet, permits, workforce, and customer access. Exporting unprocessed material may be rational in some markets; requiring loss-making refining by decree is not a durable strategy.
+
+Materials projects should begin with commercial letters of intent, pilot plants, and life-cycle assessment. Partnerships among miners, universities, and chemical manufacturers can increase the sophistication of regional production.
+
+Indicators: certified-material revenue, locally converted resources, and waste reduction per useful tonne. [S04]
+
+### 120. Paraná, Santa Catarina, and electromechanical supply chains
+
+Automation, machinery, embedded-electronics, power, and metalworking firms could supply equipment, electrical panels, instrumentation, and power modules. Their contribution may be more economically significant than symbolic competition to host the country's main foundry.
+
+Moving into semiconductor markets requires tighter tolerances, cleanliness, documentation, and testing than conventional industrial standards. The transition can be progressive if customers and qualification laboratories are available.
+
+Regional programs can support certification, precision equipment, and maintenance training combined with export pathways. Public infrastructure must benefit multiple firms.
+
+Indicators: qualified suppliers, foreign revenue, rejection rates, and maintenance hours delivered to the sector. [S02]
+
+### 121. Northeast Brazil: energy, logistics, and specific opportunities
+
+Northeastern Brazil offers opportunities in renewable power, chemicals, mining, ports, and university education, but conditions differ by state and city. Large plants demand precise assessments of water availability, grid performance, suppliers, and workforce, rather than treating average renewable abundance as guaranteed continuity.
+
+Power devices, materials, and electronics for renewable-energy systems could generate regional demand. Choosing a location only because of nominal electricity cost may create exposure to transport, drought, or a lack of industrial services.
+
+Development should connect inverter and energy-system manufacturers with universities, testing centers, and materials suppliers, including basin-level environmental assessment and workforce qualification.
+
+Indicators: delivered electricity cost, dry-season water availability, nearby suppliers, and exports through ports. [S12]
+
+### 122. First three years: demand engineering and laboratories
+
+From 2027 to 2029, a national strategy could prioritize trustworthy import data by chip family, buyer portfolios, testing laboratories, technician training, and fabless design expansion. The first meaningful outcomes should be tape-outs, contracts, firms, and repeatable test procedures.
+
+The main risk is redirecting resources to visible construction before products are specified. Without a customer map and clarity on design ownership, factories could begin life dependent on subsidies. Commercial-data gaps should be addressed through consortia protecting confidential information.
+
+Competitive funding calls should support prototypes with anchor companies, install testing platforms, and retrain professors and technicians. Fab site selection must pass utility and demand studies.
+
+Indicators: products with paying customers, engineers trained, and multi-year supply contracts. [S03][S06]
+
+### 123. Years four to eight: back-end scaling and specialized lines
+
+From 2030 to 2034, expansion in packaging, testing, materials, and power devices could generate industrial learning and exports. Specialized fabrication plants make sense only when processes, customers, staff, and suppliers cross verifiable readiness milestones.
+
+The risk is capacity exceeding the market, particularly in technologies with rapidly falling prices. Incentives are no substitute for comparing domestic costs with imports adjusted for supply security.
+
+Investment contracts should require yield trajectories, export plans, operator training, and purchaser commitments. Strategy must permit termination of projects that miss milestones without condemning the whole program.
+
+Indicators: capacity utilization, net exports, yield, and incentives as a share of revenue. [S03]
+
+### 124. Years nine to fifteen: consolidating selected processes
+
+From 2035 to 2041, a more mature industry could assess new fabrication lines, heterogeneous packaging, and advanced electronic materials based on accumulated market evidence. The realistic objective is strong capability in selected product groups, not replication of the entire worldwide chain.
+
+The largest risks are personnel losses, technological shifts, equipment obsolescence, and fiscal shocks. Portfolio revision will be as important as the initial investment decision.
+
+Expansion must follow export products, patents in use, qualified suppliers, and private financing. Frontier scientific research can proceed in parallel without being mistaken for commercial commitments.
+
+Indicators: productivity, foreign-market share, supplier density, and declining subsidy dependence. [S01]
+
+### 125. Years sixteen to twenty-five: global companies
+
+From 2042 to 2051, the strongest outcome would be several Brazilian firms selling products, software, materials, equipment, and services internationally. Some may manufacture chips themselves; others will remain fabless or specialize in critical parts. Diverse business models increase resilience and competition.
+
+This scenario depends on institutional continuity and is not a forecast. It could fail due to weak demand, fiscal restrictions, technological shocks, or loss of talent; it could advance faster in niches where private firms secure international customers.
+
+Evaluation must assess productivity against international standards rather than slogans of self-sufficiency. The industry is established when Brazilian firms are chosen for quality, price, and reliability outside protected markets.
+
+Indicators: foreign revenue, commercialized patents, firm survival, and technical wages sustained by productivity. [S01]
+
