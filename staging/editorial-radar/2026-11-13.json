@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "checked_at": "2026-11-13T08:06:59Z",
+  "scope": "All active editorial lines reconciled against registry. Primary sources checked selectively for macro, health and energy; other lines tracked as monitoring without claims of exhaustive investigation.",
+  "registry_updated_at": "2026-11-11T17:02:31.000Z",
+  "registry_blob_sha": "ef8f13be637b048496cb9e2fa56ca6aaa1b7b6aa",
+  "reviewed_line_count": 35,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "pending_independent_qa",
+      "note": "MT-GM-2026-11-13 revision 1 staged EN/PT with pending v2; no self approval."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-strategic-security-resilience",
+      "kind": "strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-historical-soft-power-research",
+      "kind": "historical-soft-power-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    },
+    {
+      "registry_id": "editorial-historical-monetary-stabilization",
+      "kind": "historical-monetary-stabilization-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Registry line reconciled; no independently verified new product justified within bounded primary-source review."
+    }
+  ],
+  "thematic_article_created": false,
+  "source_checks": [
+    {
+      "name": "US Treasury daily yields",
+      "url": "https://home.treasury.gov/",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "Eurostat preliminary Q3 GDP",
+      "url": "https://ec.europa.eu/eurostat/web/products/euro-indicators/w/2-30102026-ap",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "IBGE IPCA release calendar",
+      "url": "https://www.ibge.gov.br/en/statistics/economic/prices-and-costs/17129-extended-national-consumer-price-index.html",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "World Bank grid finance",
+      "url": "https://www.worldbank.org/en/events/2026/11/10/transmission-impossible-financing-the-grid",
+      "date": "2026-11-10"
+    }
+  ],
+  "limitations": [
+    "No comprehensive new global AMR surveillance, pesticide exposure or pathogen time series verified.",
+    "No independently verified thematic delta warranting a separate staged article.",
+    "No claim that every editorial line received an exhaustive primary-source investigation."
+  ]
+}
