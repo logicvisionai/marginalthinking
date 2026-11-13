@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-12T07:49:56.000Z",
+  "last_reconciled_at": "2026-11-13T10:21:36.890Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9511,6 +9511,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No qualifying technology deployment, benchmark, installed capacity or maturity milestone is established by this Mercosur institutional study."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-global-macro-r2-publication-reconciliation",
+      "reconciled_at": "2026-11-13T10:21:36.890Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-13"
+      ],
+      "audit_note": "Reconciled 13 Nov Global Macro against all seven required live cumulative assets, without treating prices and leadership events as new proved ownership, technology deployment or weighted network observations.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Rates, China PPI and energy import vulnerabilities identify conditional external-financing channels but no new audited directed weighted trade or capital-flow edges under canonical network definitions."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "AI infrastructure and grid investment risk is analyzed, but there is no new verified project-level commissioned capacity, costs, financing schedule or cash flow to enter the opportunity dataset."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Nvidia leadership change and issuer price reactions alone do not establish transferable shareholding, voting rights or documented controlling owner changes under the strategic-actors schema."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil benchmark movements and higher input prices do not document a concession grant, reserve transfer, mineral extraction right or other physical resource-control change."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazil Copom hold is an observed policy decision, but the piece supplies no identified policy-treatment causal impact estimate or new fully documented intervention case for atlas inclusion."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Geopolitical and energy-transmission risk is conditional; no new independently attributed incident-level conflict event or armed operation is documented."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Stock-market and leadership shocks do not establish new deployed AI compute capacity, benchmark performance, installed plant, revenue realization or technology maturity milestone."
         }
       ]
     }

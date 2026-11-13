@@ -25889,5 +25889,129 @@
         "search_text": "Macro global 12 novembro 2026 IA CoreWeave bolsa feriado títulos Estados Unidos Brasil fiscal indústria serviços China CPI PPI frete petróleo África Brasil Ásia Europa Índia."
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-13",
+    "slug": "2026-11-13-global-macro",
+    "date": "2026-11-13",
+    "published_at": "2026-11-13T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "trade-investment",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "2026-11-13 05:00 BRT. Treasury and US stocks through 12 Nov; US October PPI and revised Eurostat GDP pending at cutoff.",
+      "novelty": "12 Nov market repricing combined with 10 Nov China industrial PPI/CPI divergence, Brazil's 12 Nov IPCA and Copom policy backdrop.",
+      "bilingual_parity": "Revised EN/PT-BR with identical numerical series in 2 charts, tables, flow and regional map; 13 traceable dated URLs per locale.",
+      "editorial_status": "Revision 2 fully restaged with sourced argument, revised primary references, bilingual visual parity and no production commentary; independent QA required.",
+      "visual_evidence": "Two sourced charts: US Treasury par yields (10 and 12 Nov) and China October CPI/PPI (year-on-year).",
+      "source_check": "Official US Treasury, BLS CPI/PPI, FOMC, China NBS CPI/PPI, BCB Copom, Eurostat and dated AP/UOL reporting rechecked; October US PPI and Euro GDP revision not anticipated."
+    },
+    "limitations": [
+      "No independently verified aggregate global corporate credit-spread or fund-flow panel.",
+      "US October PPI and revised 13 Nov Eurostat GDP not yet observed by the 05:00 BRT cutoff.",
+      "Brazil October IPCA official statistical-series calendar and dated press corroboration; no direct official release article verified."
+    ],
+    "contrary_evidence": [
+      "Higher Treasury yields do not prove higher company-specific credit spreads or cancelled infrastructure investment.",
+      "Chinese industrial PPI +5.7% y/y and household CPI +0.7% y/y measure different baskets, not directly identical inflation processes.",
+      "October Brazil IPCA +0.14% m/m is not evidence by itself of annual target convergence.",
+      "Eurostat quarterly GDP differences among European countries complicate a single eurozone growth narrative."
+    ],
+    "url": "/reports/2026/11/2026-11-13-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-13T10:18:37.037Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "e9cd71122ec99a302c5c7e75118a69333537b217",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Higher US yields turn an AI leadership shock into a global financing test",
+        "deck": "Treasury yields and an AI governance shock expose debt-financed infrastructure risk as Brazil inflation eases and Europe awaits new estimates.",
+        "tags": [
+          "Global Macro",
+          "Treasury yields",
+          "AI infrastructure",
+          "Brazil IPCA",
+          "Eurozone GDP"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-13",
+          "November 13 2026",
+          "Nvidia",
+          "Treasury 5.10"
+        ],
+        "regime": "Rising US funding benchmarks and concentrated technology repricing amid uneven regional inflation.",
+        "key_risk": "PPI and Eurostat releases pending; unverified credit spreads.",
+        "watch": [
+          "US PPI November 13",
+          "Eurostat GDP revision",
+          "Credit spreads",
+          "Energy freight"
+        ],
+        "search_text": "November 13 2026 global macro Treasury Nvidia Brazil IPCA eurozone funding"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Global Macro — Alta dos juros americanos transforma choque na liderança da IA em teste global de financiamento",
+        "deck": "Treasuries e crise de governança na IA expõem risco de infraestrutura financiada por dívida enquanto inflação brasileira desacelera.",
+        "tags": [
+          "Global Macro",
+          "Treasuries",
+          "Infraestrutura de IA",
+          "IPCA",
+          "PIB europeu"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-13",
+          "13 novembro 2026",
+          "Nvidia",
+          "Treasury 5,10"
+        ],
+        "regime": "Custo de financiamento americano em alta e reprecificação concentrada em tecnologia com inflação regional desigual.",
+        "key_risk": "PPI e Eurostat ainda pendentes; spreads não verificados.",
+        "watch": [
+          "PPI EUA 13 novembro",
+          "Revisão PIB europeu",
+          "Spreads de crédito",
+          "Frete energético"
+        ],
+        "search_text": "Macro global 13 novembro 2026 Treasury Nvidia IPCA Brasil Europa financiamento"
+      }
+    }
   }
 ]
