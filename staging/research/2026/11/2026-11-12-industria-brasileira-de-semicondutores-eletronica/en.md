@@ -569,3 +569,116 @@ Metrology institutes, university laboratories, and industrial centers should off
 
 Indicators: accredited tests, certificate turnaround, measurement uncertainty, and laboratory utilization. [S01]
 
+
+## IV — POWER, WATER, LAND, LOGISTICS, AND SAFETY
+
+### 41. Power quality and uninterrupted supply
+
+A semiconductor factory needs more than contracted megawatts: it needs continuity, voltage regulation, harmonic control, redundancy, and rapid fault response. Brief outages can ruin process steps, damage materials, or stop equipment that requires hours to stabilize. The economic cost of an interruption includes scrapped lots and recovering yield.
+
+Brazil's comparatively low-carbon electricity mix is a potential advantage for supply contracts, but grid quality varies considerably by location. New plants should be sited where multiple supply routes and expansion capacity exist, based on site-specific electrical studies.
+
+Distribution utilities, the national system operator where applicable, and investors need to plan feeders, substations, filters, generators, and backup systems with periodic testing. Tax incentives cannot compensate for a factory repeatedly interrupted by poor grid quality.
+
+Indicators: frequency and duration of critical outages, voltage sags, losses per incident, and total energy cost. [S12]
+
+### 42. River-basin water planning
+
+Industrial water needs compete with households, agriculture, and environmental conservation. Droughts and water disputes can halt plants even where annual rainfall is high. Evaluation must consider availability during the driest month, climate change, effluent flows, treatment capacity, and legal use rights.
+
+Constructing intake infrastructure without basin governance creates legal and social risks. Projects must show that additional demand will not displace essential consumption or damage ecosystems. Industrial water reuse and closed-loop treatment can radically alter site economics.
+
+Permits should require auditable mass balances, progressively stricter reuse targets, multi-year drought scenarios, and public water monitoring. Firms should bear treatment and contingency costs instead of transferring them implicitly to municipalities.
+
+Indicators: net dry-season consumption, actual reuse, effluent quality, and supply stability. [S12]
+
+### 43. Location and the opportunity cost of land
+
+A semiconductor plant requires stable ground, low flood risk, electrical and water access, sanitation, low vibration, connectivity, security, qualified workers, and logistics. Cheap land can become very expensive if infrastructure must be built from scratch or employees must commute long distances every day.
+
+Tax competition among Brazilian states can encourage location decisions disconnected from productivity. Full costs should include maintenance, supplier availability, future taxes, customs delays, housing, and decades of climate exposure.
+
+Cluster selection needs independent technical appraisal and transparency regarding required public infrastructure. Municipal governments must plan housing, public transportation, schools, and services to avoid property-price inflation and distributional conflicts.
+
+Indicators: twenty-year total cost of ownership, physical risk, time to hire specialists, and utility readiness. [S01]
+
+### 44. Airports, ports, and sensitive freight
+
+Industrial machinery may arrive by sea, while spare parts, samples, masks, wafers, and sensitive dies often require air freight with controls for shock, humidity, temperature, and traceability. Customs efficiency may matter more than a few kilometers of distance to a port.
+
+A one-week delay in releasing a spare part can cost more than all savings on freight tariffs. Brazil should measure actual time from placing the order until equipment resumes operation, including inspections, international transit, and domestic transportation.
+
+Specialist customs corridors, temporary admission regimes, customs laboratories, and digital traceability can lower costs without abandoning oversight. Controls against smuggling, fraud, and diversion of restricted technologies must remain effective.
+
+Indicators: median and 95th-percentile customs clearance time, total replacement time, transportation losses, and documentation-inspection rates. [S01]
+
+### 45. Strategic inventories without waste
+
+Inputs with limited shelf lives, high prices, or chemical restrictions require different planning from durable equipment. Stocks that are too small create shutdowns; excessive stocks expire, depreciate, or become obsolete. Demand patterns and supplier lead times matter more than a generic inventory target expressed in months.
+
+Concentration among manufacturers of gases, optical parts, and tools creates common exposure across many firms. Brazil should not respond by indiscriminately purchasing every critical material, but by developing shared intelligence about availability and qualified alternatives.
+
+Consortia can coordinate capacity-reservation contracts, rotating inventory, and second sourcing while protecting commercial confidentiality. Government can support supply-interruption simulations and map dependencies across essential public equipment.
+
+Indicators: lead-time-adjusted coverage, expiry-related waste, recovery time, and supplier concentration. [S01]
+
+### 46. Industrial zones and hazardous waste
+
+Fabs use corrosive, flammable, toxic, and potentially reactive chemicals that must be stored and transported separately. Containment, detection, extraction, and neutralization are core infrastructure rather than project appendices. Weak preventive systems can endanger employees, neighbors, and the investment itself.
+
+Slow permitting should not be confused with unnecessary environmental requirements. Uncertainty can be reduced through clear public standards, competent agencies, and early technology assessments without lowering protection.
+
+Public investment is warranted in specialist regulatory teams, shared treatment facilities, and regional emergency-response plans. Operators remain responsible for monitoring, prevention, and remediation.
+
+Indicators: incidents, containment-barrier performance, verified emissions, and scientifically sound permitting timelines. [S12]
+
+### 47. Physical security and industrial cybersecurity
+
+Machinery is coordinated by industrial-control systems, networks, design files, process recipes, and enterprise platforms. An attack can alter production parameters, expose IP, suspend operations, or compromise product reliability without obvious physical damage. Supply security and digital security are dimensions of the same industrial capability.
+
+Brazil should integrate incident-response centers, automation-engineering education, and access-management requirements. Importing a machine should not mean accepting unrestricted remote access by its vendor; conversely, disabling all connections could undermine maintenance and warranties.
+
+Contracts must define auditable remote access, network segmentation, secure updates, operational continuity, backup recovery, and data responsibilities. Independent audits should cover vendors and plant integrators.
+
+Indicators: detection time, unresolved critical vulnerabilities, recovery tests, and process-recipe integrity. [S01]
+
+### 48. Insurance, disasters, and climate resilience
+
+A capital-intensive plant can lose months to floods, fires, earthquakes, or prolonged water shortages even where equipment remains physically intact. Correlated risks—such as simultaneous drought among suppliers in one region—mean that diversifying contracts without diversifying physical exposure may achieve little.
+
+Brazilian site selection must model urban fires, flooding, hailstorms, heat waves, changing access to logistics, and political or regulatory risk. Insurance premiums reflect the quality of prevention as well as the selected location.
+
+Investors and infrastructure operators should finance updated hazard maps, redundant routes, and continuity exercises. Public loans can require climate-adaptation plans and protection for neighboring communities.
+
+Indicators: probable maximum loss, insurance coverage, utility recovery, and yearly outage hours. [S12]
+
+### 49. Housing, mobility, and the territorial workforce
+
+A technology plant creates specialist jobs, construction employment, and demand for urban services. If a city fails to expand housing, transportation, and healthcare, higher wages can be partly consumed by rising rents and commuting costs. Quality of life influences the retention of both Brazilian and foreign specialists.
+
+An isolated campus can reduce land expense but raise staff turnover and car dependence. Planning must accommodate night shifts, childcare, vocational schools, and safe access for maintenance teams.
+
+Municipalities, universities, and firms should jointly size social infrastructure before major construction begins. Public assistance for housing and mobility may yield more durable returns than subsidies for land alone.
+
+Indicators: average commuting time, housing costs relative to wages, and technician retention after three years. [S01]
+
+### 50. Digital corridors, data, and industrial latency
+
+Chip design and collaboration across global centers require large files, fabrication libraries, simulation results, and secure remote work. Highly available networks are important for distributed design, EDA updates, and cloud computing. Latency matters, but reliability, security, and service agreements are often more consequential.
+
+Brazil has significant university centers and software ecosystems, but engineering teams may be constrained by license costs, high-performance computing expenses, and transfers subject to controls. Digital infrastructure must be treated as part of the physical industrial system.
+
+Design clusters can share secure computing environments, verification laboratories, and redundant networks with IP segmentation. Investments should measure project productivity rather than server capacity alone.
+
+Indicators: downtime hours, verification-regression turnaround, cost per tape-out, and failures of secure transfer. [S01]
+
+### 51. Industrial maintenance as a strategic sector
+
+Deposition, inspection, etching, CMP, and test tools use pumps, valves, handlers, sensors, robots, optics, and controllers. A factory's productivity may depend on a tiny part whose replacement requires a specialist and documented procedure. Local maintenance supply chains can generate value before Brazil manufactures the complete machines.
+
+Brazil has experience in automation, metrology, and maintaining complex installations, but its suppliers need to adopt semiconductor standards for cleanliness, reliability, change management, and qualified parts. A conventional repair shop can introduce contamination and invalidate warranties.
+
+Technical-training programs should prioritize certified maintenance, reliability engineering, replacement inventories, and local manufacture of non-proprietary parts. Service contracts should transfer know-how without infringing intellectual property.
+
+Indicators: mean time between failures (MTBF), mean time to repair (MTTR), locally restored parts, and share of preventive maintenance completed. [S01]
+
