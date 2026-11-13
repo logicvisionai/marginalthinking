@@ -23,21 +23,21 @@ O desenvolvimento industrial não será linear. Certas empresas podem começar f
 
 ### Comércio exterior eletroeletrônico brasileiro em 2025
 
-No balanço divulgado pela ABINEE em 4 de dezembro de 2025, as importações e exportações do setor eletroeletrônico foram estimadas em US$ 49,1 bilhões e US$ 7,9 bilhões, respectivamente. São números divulgados antes do encerramento do ano e, portanto, sujeitos a revisão. Trata-se do conjunto eletroeletrônico — não apenas de semicondutores — e de fluxos comerciais, não de estoques de investimento. As importações de semicondutores, cerca de US$ 6 bilhões nessa divulgação, são uma parcela do agregado importado e não devem ser somadas novamente a ele. [S02]
+Na série consolidada para 2025 do Panorama Econômico e Desempenho Setorial 2026, a ABINEE apresenta importações eletroeletrônicas de US$ 48,734 bilhões e exportações de US$ 8,146 bilhões, com déficit de aproximadamente US$ 40,588 bilhões. Trata-se do conjunto eletroeletrônico — não apenas de semicondutores — e de fluxos comerciais FOB, não de estoques de investimento. As importações de semicondutores, US$ 5,963 bilhões nessa mesma série, são uma parcela do agregado importado e não devem ser somadas novamente a ele. [S02]
 
 ```chart
 type: bar
 title: Comércio exterior de produtos eletroeletrônicos do Brasil, 2025
-unit: US$ bilhões, valores nominais
-Importações | 49.1
-Exportações | 7.9
+unit: US$ bilhões FOB, 2025
+Importações | 48.734
+Exportações | 8.146
 ```
 
 | Fluxo | Ano | US$ bilhões | Abrangência |
 |---|---|---:|---|
-| Importações | 2025 | 49,1 | Setor eletroeletrônico |
-| Exportações | 2025 | 7,9 | Setor eletroeletrônico |
-| Importações de semicondutores | 2025 | 6,0 | Subconjunto do fluxo de importação |
+| Importações | 2025 | 48,734 | Setor eletroeletrônico |
+| Exportações | 2025 | 8,146 | Setor eletroeletrônico |
+| Importações de semicondutores | 2025 | 5,963 | Subconjunto do fluxo de importação |
 
 A diferença entre importações e exportações representa o saldo comercial do setor no ano, mas não mede por si só o valor agregado doméstico, a posição tecnológica das empresas ou a viabilidade de substituir cada componente importado. [S02]
 
@@ -1834,7 +1834,7 @@ A diferença entre vinte e cinco anos de investimento fecundo e vinte e cinco an
 
 **[S01] OCDE.** Mapping the Semiconductor Value Chain (2025); Understanding the Semiconductor Value Chain (2026). https://www.oecd.org/en/publications/mapping-the-semiconductor-value-chain_4154cdbf-en.html
 
-**[S02] ABINEE.** Faturamento do setor eletroeletrônico tem crescimento real de 4% em 2025 (divulgação de 4 de dezembro de 2025). https://www.abinee.org.br/faturamento-do-setor-em-2025/
+**[S02] ABINEE.** Panorama Econômico e Desempenho Setorial 2026: séries consolidadas de comércio exterior de 2025. https://www.abinee.org.br/arquivos/decon/panorama/2026/
 
 **[S03] Brasil: legislação.** Lei nº 14.968, de 11 de setembro de 2024, que institui o Brasil Semicon; Decreto nº 13.065, de 15 de julho de 2026, que regulamenta o programa e altera o Decreto nº 10.615/2021. Lei: https://www2.camara.leg.br/legin/fed/lei/2024/lei-14968-11-setembro-2024-796221-publicacaooriginal-172984-pl.html ; decreto: https://legis.senado.leg.br/norma/43548823/publicacao/43559630 ; MDIC: https://www.gov.br/mdic/pt-br/composicao/sdic/dial/complexo-eletroeletronico-e-de-semicondutores/programa-brasil-semicondutores-brasil-semicon
 
@@ -1869,7 +1869,7 @@ A diferença entre vinte e cinco anos de investimento fecundo e vinte e cinco an
 **[S18] European Court of Auditors.** Relatório Especial 12/2025: Estratégia da UE para os circuitos integrados. https://www.eca.europa.eu/pt/publications/SR-2025-12
 
 [S01]: https://www.oecd.org/en/publications/mapping-the-semiconductor-value-chain_4154cdbf-en.html
-[S02]: https://www.abinee.org.br/faturamento-do-setor-em-2025/
+[S02]: https://www.abinee.org.br/arquivos/decon/panorama/2026/
 [S03]: https://www2.camara.leg.br/legin/fed/lei/2024/lei-14968-11-setembro-2024-796221-publicacaooriginal-172984-pl.html
 [S04]: https://www.usgs.gov/publications/mineral-commodity-summaries-2026
 [S05]: https://www.sciencedirect.com/science/article/pii/S0025540825006105
