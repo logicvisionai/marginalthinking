@@ -1742,3 +1742,163 @@ Under this hypothetical design, all subsidies should be governed by transparent 
 
 A ten-year program competes with basic education, infrastructure, healthcare, sanitation, and other investments. Benefits should be measured through net skilled employment, productivity, exports, technology diffusion, future tax receipts, and supply security. Temporary construction jobs, permanent industrial employment, and estimates of indirect benefits must not be indiscriminately added. Fiscal decisions improve when expected benefits and risks are shown as annual flows and compared with alternative policies.
 
+
+## Appendix E — Risks that could derail a twenty-five-year program
+
+| **Structural risk** | **Damage mechanism** | **Measurable response** |
+|---|---|---|
+| Insufficient demand | Idle fab and elevated unit costs | Customer agreements, pilot stages, export tests |
+| Below-target yield | Scrap, delays, and cash losses | Yield engineering and external process audits |
+| Technological change | Obsolete machinery and IP | Diversified portfolio, contracts, adaptation options |
+| Technician shortages | Downtime, accidents, poor productivity | Industrial residencies, certification, career progression |
+| Chemical contamination | Lost lots and health risks | Impurity measurement, safety, qualified suppliers |
+| Export restrictions | Interruptions in software or machinery | Multiple origins, compliance, redundancy |
+| Exchange rates and interest | More expensive capital expenditure and working capital | Hedging, long-term finance, foreign earnings |
+| Subsidy capture | Forgone tax revenue without learning | Public targets, audits, clawback provisions |
+| Regulatory uncertainty | Delayed investment and litigation | Stable contracts and technically grounded decisions |
+| Electrical outages | Lost wafers and line shutdowns | Redundancy, power-quality controls, tests, contingency |
+| Drought and water conflict | Compromised permits and operations | Reuse, basin mass balances, drought plans |
+| Cyberattacks on MES | Compromised recipes and shutdowns | Segmentation, backups, access controls |
+| Scarce maintenance suppliers | Excessive lead times | Spare parts, service contracts, local training |
+| Single-customer dependence | Excessive buyer bargaining power, cancellations | Diversified products and markets |
+| Talent not retained | Loss of cumulative know-how | Careers, compensation, equity/IP participation |
+| Geopolitical shocks | Logistics costs and trade blocks | Diplomacy, diversification, risk-weighted stocks |
+
+## Appendix F — Professional development by competencies
+
+| **Education/career** | **Competencies** | **Indicative period** | **Validation** |
+|---|---|---|---|
+| Basic education | Mathematics, chemistry, physics, programming, statistics | 12–18 years | Practical labs and proficiency |
+| Process technician | Cleanrooms, chemical safety, measurements, shifts | 1–3 years | Practical certification and fab experience |
+| Maintenance technician | Vacuum, RF, sensors, robotics, HVAC, utilities | 2–4 years | MTTR, inspections, preventive maintenance |
+| Analog engineer | Circuits, noise, layout, instrumentation | 4–7 years | Tape-outs and post-silicon validation |
+| Digital engineer | RTL, architecture, verification, EDA, FPGA | 4–7 years | Test coverage and functioning silicon |
+| Process engineer | Chemistry, films, thermodynamics, statistical process control | 5–8 years | Yield and reproducibility |
+| Materials engineer | Crystals, purification, interfaces, defects | 5–10 years | Qualified lots and applied publications |
+| Test engineer | ATE, DFT, reliability, instruments | 3–6 years | Escaped defects and testing time |
+| Packaging designer | Thermomechanics, metallurgy, signal integrity | 4–8 years | Thermal failures and integrity |
+| Ultra-high-purity chemist | Separation, analysis, process safety | 4–8 years | Purity, lots, occupational protection |
+| EHS specialist | Occupational hygiene, effluents, incidents | 3–7 years | Prevention and compliance |
+| Supply manager | Qualification, export controls, inventories | 3–6 years | On-time-in-full delivery, lead time, second sourcing |
+| Fabless product manager | Non-recurring engineering, IP, buyers, support, quality | 5–10 years | Margin and recurring revenue |
+
+These ranges describe approximate education plus experience, not compulsory career durations or equivalences among occupations. Responsible policy provides routes into the industry for vocational graduates, experienced workers, and students from diverse socioeconomic backgrounds. Direct exposure to real industrial operations is essential at every level.
+
+## Appendix G — Annual milestones, 2027–2051
+
+| **Year** | **Phase** | **Conditional industrial milestone** | **Control** |
+|---|---|---|---|
+| 2027 | Foundations and demand | Map chip-family demand and purchasing organizations | External review of portfolio and indicators |
+| 2028 | Foundations and demand | Negotiate access to EDA, PDKs, and laboratories | External review of portfolio and indicators |
+| 2029 | Foundations and demand | Formalize internships and industrial consortia | External review of portfolio and indicators |
+| 2030 | Design scale and back end | Begin niche-market exports | External review of portfolio and indicators |
+| 2031 | Design scale and back end | Audit infrastructure utilization | External review of portfolio and indicators |
+| 2032 | Design scale and back end | Qualify chemical suppliers and metrology | External review of portfolio and indicators |
+| 2033 | Design scale and back end | Increase sales of fabless products | External review of portfolio and indicators |
+| 2034 | Design scale and back end | Qualify OSAT lines and power modules | External review of portfolio and indicators |
+| 2035 | Selective industrialization | Reach sustainable industrial yield | External review of portfolio and indicators |
+| 2036 | Selective industrialization | Build local maintenance supply chains | External review of portfolio and indicators |
+| 2037 | Selective industrialization | Qualify electronic materials | External review of portfolio and indicators |
+| 2038 | Selective industrialization | Test new power-device processes | External review of portfolio and indicators |
+| 2039 | Selective industrialization | Expand heterogeneous integration | External review of portfolio and indicators |
+| 2040 | Selective industrialization | Review fiscal policy against productivity | External review of portfolio and indicators |
+| 2041 | Selective industrialization | Expand capacity after firm contracts | External review of portfolio and indicators |
+| 2042 | Consolidation and diversification | Establish global brands and IP | External review of portfolio and indicators |
+| 2043 | Consolidation and diversification | Renew production technologies | External review of portfolio and indicators |
+| 2044 | Consolidation and diversification | Increase complex-product exports | External review of portfolio and indicators |
+| 2045 | Consolidation and diversification | Develop a second generation of firms | External review of portfolio and indicators |
+| 2046 | Consolidation and diversification | Raise productivity without permanent protection | External review of portfolio and indicators |
+| 2047 | Consolidation and diversification | Consolidate global brands and IP | External review of portfolio and indicators |
+| 2048 | Consolidation and diversification | Renew production technologies | External review of portfolio and indicators |
+| 2049 | Consolidation and diversification | Increase complex-product exports | External review of portfolio and indicators |
+| 2050 | Consolidation and diversification | Develop a second generation of firms | External review of portfolio and indicators |
+| 2051 | Consolidation and diversification | Raise productivity without permanent protection | External review of portfolio and indicators |
+
+This annual sequence is neither an approved government schedule nor a forecast of performance. Its economic purpose is to distinguish capabilities that may mature in a few years from those requiring decades. Portfolio reviews should preserve useful infrastructure, data, and talent even when individual company projects close.
+
+## Appendix H — Decisions that must precede a fab
+
+| **Gate** | **Question requiring a documented answer** |
+|---|---|
+| Product | Is the function defined and compared with available alternatives? |
+| Customer | Who approves qualification, and what volume can be contracted? |
+| Intellectual property | Does the company have freedom to operate in target markets? |
+| Design | Are the PDK, IP, and verification team sufficient? |
+| Materials | Are there qualified suppliers for critical inputs? |
+| Equipment | Are service, spare parts, and contracts secured for an adequate period? |
+| Electricity | What is the maximum loss during an interruption, and how will it be prevented? |
+| Water | Is dry-season consumption environmentally permitted? |
+| Personnel | Will operating shifts and management be trained before startup? |
+| Metrology | Can parameters be measured with known uncertainty? |
+| Qualification | Who will conduct independent reliability tests? |
+| Logistics | Is 95th-percentile spare-part replacement time operationally acceptable? |
+| Financing | Can cash flow withstand yield below expectations? |
+| Exports | Is commercial and regulatory access to foreign customers available? |
+| Subsidies | Is there additionality, a fiscal cap, and an exit condition? |
+| Community | Have water, waste, and employment been discussed locally? |
+| Governance | Which events require stopping investment? |
+
+## When learning becomes industrial power
+
+A chip industry does not spring from owning mineral deposits, buying a machine, or passing a law. It emerges when complex production systems reproduce quality and profit, when professionals learn to diagnose failures without relying entirely on foreign consultants, and when domestic companies accumulate designs, brands, contracts, and export capacity. Physical geography supplies resources; economic geography determines where knowledge remains.
+
+Brazil could become a significant supplier of specialized circuits, power devices, electronic materials, testing services, embedded software, equipment, and final products without immediately owning a foundry comparable to the largest worldwide. The opposing premise—that only the most advanced lithography deserves to be called a semiconductor industry—would destroy nearby opportunities and confuse prestige with productivity.
+
+The difference between twenty-five years of productive investment and twenty-five years of announcements will depend on discipline in selecting projects. Education must produce professionals capable of operating; science must yield reproducible processes; incentives must mobilize additional capital and learning; factories must generate yield and sales; minerals must become certified materials; and diplomacy must provide access to markets and technologies. Without these links, a country may finance facilities without financing the ability to keep them alive.
+
+## Sources, legislation, and research
+
+**[S01] OECD.** Mapping the Semiconductor Value Chain (2025); Understanding the Semiconductor Value Chain (2026). https://www.oecd.org/en/publications/mapping-the-semiconductor-value-chain_4154cdbf-en.html
+
+**[S02] ABINEE.** *Electrical and electronics industry revenue increased 4% in real terms in 2025*, released December 4, 2025. https://www.abinee.org.br/faturamento-do-setor-em-2025/
+
+**[S03] Brazil: legislation.** Law No. 14,968 of September 11, 2024, establishing Brasil Semicon; Decree No. 13,065 of July 15, 2026, regulating the program and amending Decree No. 10,615/2021. Law: https://www2.camara.leg.br/legin/fed/lei/2024/lei-14968-11-setembro-2024-796221-publicacaooriginal-172984-pl.html ; decree: https://legis.senado.leg.br/norma/43548823/publicacao/43559630 ; MDIC: https://www.gov.br/mdic/pt-br/composicao/sdic/dial/complexo-eletroeletronico-e-de-semicondutores/programa-brasil-semicondutores-brasil-semicon
+
+**[S04] USGS.** Mineral Commodity Summaries 2026; Brazil Country Profile. https://www.usgs.gov/publications/mineral-commodity-summaries-2026
+
+**[S05] Materials Research Bulletin.** Review of advanced purification technologies for high-purity quartz materials (2026). https://www.sciencedirect.com/science/article/pii/S0025540825006105
+
+**[S06] Softex / CGEE.** Brasil e a Cadeia Global de Semicondutores; The Brazilian Landscape in STI Semiconductors. https://observatorio.softex.br/publicacao-geral/brasil-e-a-cadeia-global-de-semicondutores/
+
+**[S07] NIST / CHIPS.** TSMC Arizona: public support, investments, and fab phases. https://www.nist.gov/chips/tsmc-arizona-phoenix
+
+**[S08] ABISEMI.** Development of Brazil's semiconductor industry presented at Chip in Sampa 2026. https://abisemi.org.br/abisemi/noticia/221/abisemi-apresenta-a-evolucao-da-industria-de-semicondutores-no-brasil--nos-ultimos-40-anos-durante-o-chip-in-sampa-2026-
+
+**[S09] SEMI.** 300mm Fab Outlook, Q3 2026. https://www.semi.org/en/products-services/market-data/300mm-fab-outlook
+
+**[S10] ITRI / NTU.** The Birth of Taiwan's Semiconductor Industry; History of Taiwan's Semiconductor Industry. https://itritoday.itri.org/114/content/en/unit_01-2.html
+
+**[S11] SIA / Oxford Economics.** Chipping Away: U.S. Semiconductor Labor Market Gap. https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/
+
+**[S12] IEA.** Energy Technology Perspectives 2026: Supply Chain Risks and Industrial Competitiveness. https://www.iea.org/reports/energy-technology-perspectives-2026/supply-chain-risks-and-industrial-competitiveness
+
+**[S13] Exame.** O chip Made in Brazil: survey of semiconductor companies in Brazil (2026). https://exame.com/revista-exame/o-chip-made-in-brazil/
+
+**[S14] BNDES.** R$290 million in financing for Adata (2024). https://agenciadenoticias.bndes.gov.br/cultura/Com-R%24-290-milhoes-BNDES-apoia-producao-de-tres-novos-semicondutores-no-pais-pela-Adata/
+
+**[S15] European Commission JRC.** EUV lithography supply chain report (2023). https://publications.jrc.ec.europa.eu/repository/bitstream/JRC133850/JRC133850_01.pdf
+
+**[S16] Bank Negara Malaysia.** Malaysia's Position in Global E&E Value Chain and Prospects (2025). https://www.bnm.gov.my/insights/investment/emr2024b1
+
+**[S17] Government of India / PIB.** India's First Chip Fabrication Plant at Dholera SEZ (2026). https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252649&lang=1&noshow=1&reg=3
+
+**[S18] European Court of Auditors.** Special Report 12/2025: EU semiconductor strategy. https://www.eca.europa.eu/pt/publications/SR-2025-12
+
+[S01]: https://www.oecd.org/en/publications/mapping-the-semiconductor-value-chain_4154cdbf-en.html
+[S02]: https://www.abinee.org.br/faturamento-do-setor-em-2025/
+[S03]: https://www2.camara.leg.br/legin/fed/lei/2024/lei-14968-11-setembro-2024-796221-publicacaooriginal-172984-pl.html
+[S04]: https://www.usgs.gov/publications/mineral-commodity-summaries-2026
+[S05]: https://www.sciencedirect.com/science/article/pii/S0025540825006105
+[S06]: https://observatorio.softex.br/publicacao-geral/brasil-e-a-cadeia-global-de-semicondutores/
+[S07]: https://www.nist.gov/chips/tsmc-arizona-phoenix
+[S08]: https://abisemi.org.br/abisemi/noticia/221/abisemi-apresenta-a-evolucao-da-industria-de-semicondutores-no-brasil--nos-ultimos-40-anos-durante-o-chip-in-sampa-2026-
+[S09]: https://www.semi.org/en/products-services/market-data/300mm-fab-outlook
+[S10]: https://itritoday.itri.org/114/content/en/unit_01-2.html
+[S11]: https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/
+[S12]: https://www.iea.org/reports/energy-technology-perspectives-2026/supply-chain-risks-and-industrial-competitiveness
+[S13]: https://exame.com/revista-exame/o-chip-made-in-brazil/
+[S14]: https://agenciadenoticias.bndes.gov.br/cultura/Com-R%24-290-milhoes-BNDES-apoia-producao-de-tres-novos-semicondutores-no-pais-pela-Adata/
+[S15]: https://publications.jrc.ec.europa.eu/repository/bitstream/JRC133850/JRC133850_01.pdf
+[S16]: https://www.bnm.gov.my/insights/investment/emr2024b1
+[S17]: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252649&lang=1&noshow=1&reg=3
+[S18]: https://www.eca.europa.eu/pt/publications/SR-2025-12
