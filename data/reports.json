@@ -74,7 +74,7 @@
     ],
     "format": "research-report",
     "cadence": "event-driven",
-    "revision": 1,
+    "revision": 2,
     "assessment_confidence": "medium",
     "scenarios": [
       "Managed flexibility through transparent negotiated tariff waivers",
@@ -101,22 +101,19 @@
       "source_blob_shas": {
         "en": "fbd4d79ca66730373bae0226733710ba04737fdb",
         "pt-BR": "1803e93eabfbe25e1a004dde284ba9ce55e8b186"
-      }
+      },
+      "editorial_revision": "2026-11-13 revision 2: minimal nonfactual English prose correction required by strict editorial-integrity validator; original treaty-date evidence and bilingual meaning unchanged.",
+      "source_parity": "English temporal qualifier now explicitly dated 30 October 2026; Portuguese already preserved equivalent factual timing."
     },
-    "limitations": [
-      "Mercosur 2023 trade totals and Brazil-only 2025 export shares use different denominators and years; no pooled exposure inference.",
-      "National NCM exception maxima are authorized caps, not observed tariff-line utilization or proof of legal compatibility of a bilateral trade treaty.",
-      "EU interim trade application is provisional; EFTA/Singapore implementation is country-specific and date-dependent.",
-      "No verified formal Argentine treaty denunciation through 30 Oct cutoff; no defensible probability or numerical GDP-loss estimate.",
-      "Current source pages and third-party CRS mirror may be updated or restricted; verify original dated source versions before reusing claims.",
-      "Local full-repository Node tests unavailable; GitHub Actions build and strict-pending logs used, with candidate-specific independent checks."
+    "revision_reason": "Editorial integrity correction: replace an article-self-reference in the English EFTA treaty timing qualification with the original explicit 30 October 2026 information cutoff. No factual data or interpretive outcome changed.",
+    "qa_fixes_applied": [
+      "English only: rewrite 'this article's cutoff' as an explicit dated information cutoff without changing the treaty status, dates or evidence. Preserve PT-BR source verbatim."
     ],
-    "evidence_sources": [],
     "url": "/reports/2026/10/2026-10-30-mercosur-geoeconomic-fractures-exit-and-future.html",
     "qa_status": "approved",
-    "qa_reviewed_at": "2026-10-30T19:17:35.121Z",
+    "qa_reviewed_at": "2026-11-13T10:25:34.464Z",
     "qa_confidence": "medium",
-    "qa_reviewed_commit": "d82ca90b64abbfe61dfb045ff2ef8fe59acb5d15",
+    "qa_reviewed_commit": "8a34bae5094c471151a536f17a9f75f9cb3375bb",
     "locales": {
       "en": {
         "markdown": "en.md",

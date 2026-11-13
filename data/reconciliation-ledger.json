@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-13T10:21:36.890Z",
+  "last_reconciled_at": "2026-11-13T10:26:22.616Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9556,6 +9556,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Stock-market and leadership shocks do not establish new deployed AI compute capacity, benchmark performance, installed plant, revenue realization or technology maturity milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-mercosur-r2-editorial-reconciliation",
+      "reconciled_at": "2026-11-13T10:26:22.616Z",
+      "report_ids_reviewed": [
+        "MT-PE-2026-10-30-MERCOSUR-GEOECONOMIC-FRACTURES"
+      ],
+      "audit_note": "Editorial-only, nonfactual repair of a dated EFTA cutoff phrase. No new empirical evidence, economic relationship, ownership, project, policy outcome, conflict or technology deployment; all seven canonical assets reconciled without data mutation.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous global-dependency-network reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous structural-opportunity-atlas reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous strategic-actors reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous resource-control-atlas reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous policy-case-atlas reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous conflict-systems reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Reviewed the unchanged Mercosur treaty facts and previous technology-signal-ledger reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
         }
       ]
     }

@@ -116,7 +116,7 @@ Neither blanket endorsement nor categorical rejection follows from those schedul
 
 ## 13. The EFTA and Singapore agreements: why dates and participants matter
 
-Mercosur's external opening is not limited to the EU. EFTA's agreement with the four founders was signed in September 2025. It entered into force for **Brazil and Iceland on 1 October 2026**; EFTA lists **1 November** as the planned entry-into-force date for Uruguay and Norway, which was still future at this article's cutoff. The status of Argentina, Paraguay, Liechtenstein and Switzerland was still pending on EFTA's account. It would be incorrect to describe the entire agreement as universally in force. [10]
+Mercosur's external opening is not limited to the EU. EFTA's agreement with the four founders was signed in September 2025. It entered into force for **Brazil and Iceland on 1 October 2026**; EFTA lists **1 November** as the planned entry-into-force date for Uruguay and Norway, which was still in the future at the 30 October 2026 information cutoff. The status of Argentina, Paraguay, Liechtenstein and Switzerland was still pending on EFTA's account. It would be incorrect to describe the entire agreement as universally in force. [10]
 
 The Singapore agreement offers another staggered example: it began applying for Paraguay and Uruguay in February and March 2026 respectively and for Brazil and Singapore in August, while Argentine ratification was still pending in Singapore's August statement. Differences in domestic implementation do not automatically signify political exit. They are a normal feature of an intergovernmental trading architecture. [11]
 
