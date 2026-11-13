@@ -825,3 +825,106 @@ Collaborative projects can prioritize diagnostic and telecommunications instrume
 
 Indicators: sensitivity, insertion losses, packaging yield, calibration cost, and export revenue. [S01]
 
+
+## VI — DESIGN, SOFTWARE, AND INTELLECTUAL PROPERTY
+
+### 66. Building a fabless company
+
+A fabless company designs integrated circuits while outsourcing their fabrication, concentrating value in architecture, verification, IP, customer relationships, and product management. This model lowers initial physical capital requirements but does not eliminate EDA, mask, prototype, licensing, and after-sales support expenses.
+
+Brazil's principal shortage may be companies capable of surviving multiple design cycles rather than individual researchers. Service-design projects generate income, but building proprietary products requires commercial risk, working capital for inventory, and support for a product line over many years.
+
+Funds and public financing should support tape-outs with matching commitments and progressively stronger commercial milestones. Firms need reusable IP libraries, test plans, and international market strategies from their first product onward.
+
+Indicators: tape-outs reaching production, gross margins, repeat customers, and share of revenue derived from proprietary IP. [S01][S06]
+
+### 67. EDA and tool licensing
+
+Chip creation depends on tools for architecture capture, synthesis, simulation, verification, place-and-route, timing, signal integrity, and physical preparation. Commercial licenses can be costly, and contracts may restrict users, exports, or access to particular libraries. Open-source alternatives are growing, but maturity varies by project and process node.
+
+Brazilian university programs with limited EDA access may graduate engineers who have never completed an end-to-end design flow. Licensing is not the only barrier: servers, security infrastructure, process design kits, and supervision by experienced engineers may also be missing.
+
+National consortia could negotiate educational and commercial licenses, operate isolated design environments, and sustain training. The adoption of open tools should be a technical decision subject to quality auditing, not an ideological mandate.
+
+Indicators: cost per tape-out, students completing full designs, defects detected before manufacturing, and workflow compatibility. [S01]
+
+### 68. PDKs, libraries, and design rules
+
+A process design kit combines electrical models, layers, process parameters, drawing rules, and files necessary to fabricate a circuit at a particular foundry. Without a qualified PDK, the transition from schematic to physical layout cannot be made reliably. Model quality reduces expensive iterations and post-tape-out failures.
+
+Brazilian institutions can train layout specialists without being able to disclose proprietary commercial PDK content subject to nondisclosure agreements. Educational centers must combine open training with secure access to protected data.
+
+Domestic pilot lines should offer documented, maintained PDKs in addition to physical tools. Consortia can support analog libraries and reusable test blocks under clear IP agreements.
+
+Indicators: model coverage, simulation-to-measurement correlation, update cycle time, and first-silicon success rate. [S01]
+
+### 69. RISC-V architecture and a national strategy
+
+RISC-V is an open instruction-set architecture that permits proprietary implementations, but it does not make competitive processors free or easy to build. Its ecosystem requires microarchitecture, compilers, debugging, verification, firmware, libraries, security, and fabrication. ISA openness reduces certain licensing barriers, not every patent and dependency.
+
+An academic processor implemented in an FPGA is a useful step; industrial value depends on verifiable performance, power consumption, integrity, reliability, tools, and paying customers. Brazil could differentiate itself first in control processors, security products, and application-specific devices before attempting to rival general-purpose high-performance CPUs.
+
+Public programs should require an implementation, testbench, software development kit, documentation, and a demonstrator operating under real conditions. Firms need to preserve architectural compliance and assess software-support costs.
+
+Indicators: verification coverage, energy per task, number of embedded products, and software-ecosystem costs. [S01]
+
+### 70. ASICs for industrial applications
+
+An ASIC integrates functions previously distributed across several chips, lowering per-unit costs at sufficient volumes and potentially improving efficiency and reliability. Its design requires stable specifications: subsequent modifications are costly, particularly after masks and qualification.
+
+Brazil has industrial markets with distinctive requirements and could aggregate demand from smaller equipment makers into shared platforms. The difficulty is guaranteeing volumes and coordinating product generations; a technically outstanding chip may never recover development costs.
+
+Consortia of original equipment manufacturers should sign conditional purchasing commitments tied to price, performance, and certification. Platforms containing reusable IP could serve multiple equipment lines and reduce dependence on a single application.
+
+Indicators: committed annual volume, amortized non-recurring engineering costs, price per function, and time to a second generation. [S01]
+
+### 71. Analog and mixed-signal circuits
+
+Analog-to-digital converters, voltage references, phase-locked loops, power supplies, and analog interfaces convert physical quantities into digital information. Many applications depend more on noise, thermal stability, linearity, and electromagnetic immunity than on the smallest possible transistors. Layout and test engineering require substantial tacit knowledge.
+
+Brazil could compete in analog niches involving instrumentation, energy, medicine, and audio, but needs experienced teams capable of diagnosing physical failures. Generic libraries rarely replace specialist design and access to testing instruments.
+
+Institutes and businesses can establish long-term mixed-signal programs with frequent prototype cycles, customer feedback, and shared measurement tools.
+
+Indicators: effective number of bits (ENOB), noise, thermal drift, manufacturing margins, and revenue per circuit family. [S01]
+
+### 72. RF, connectivity, and radio frequency
+
+Wireless systems require amplifiers, mixers, filters, oscillators, antennas, and protocol software. Technology choices depend on spectrum, range, power consumption, linearity, and regulatory conditions. A firm integrating a 2.4 GHz radio can innovate in antennas, digital signal processing, and product design without manufacturing the silicon die.
+
+Brazilian opportunities include industrial communications, rural networks, and systems rugged enough for harsh environments. The main difficulty is combining RF design, certification, reliable manufacturing, and technical support; designing a board around an imported chip does not automatically establish a lasting advantage.
+
+Domestic laboratories should provide electromagnetic-compatibility chambers, antenna measurements, and coexistence testing. Firms can accumulate IP in module integration and eventually move to dedicated chips where volumes justify them.
+
+Indicators: range under specified conditions, electricity consumption, interference, regulatory compliance, and cost per served communications channel. [S01]
+
+### 73. Hardware security and roots of trust
+
+Connected devices embed cryptographic keys, secure-boot mechanisms, and protection against tampering. Hardware security must account for physical threats, supply chains, and firmware updates; placing a cryptographic algorithm in software is not sufficient.
+
+Demand from banks, government, industry, and critical infrastructure could support secure chips or modules developed in Brazil. Certification, however, requires independent laboratories, auditable processes, and careful key generation and custody.
+
+Domestic projects can begin with secure modules and embedded systems, progressing toward ASICs when demand and intellectual property justify it. Public procurement should prioritize verifiability and interoperability rather than creating closed-design monopolies.
+
+Indicators: compliance with security standards, vulnerability rates, traceability, and time to deploy fixes. [S01]
+
+### 74. Verification, formal testing, and logical reliability
+
+A chip can have millions of states and behaviors that simple functional tests do not cover. Simulation-based verification, coverage metrics, formal properties, emulation, and post-silicon validation prevent failures that can cost millions after fabrication. Verification is an engineering discipline, not a final design review.
+
+Brazilian advanced-software companies could transfer some expertise to hardware-testing automation, but must learn timing, concurrency, protocols, and physical modeling. The constraint grows as products integrate more IP blocks from outside suppliers.
+
+Universities should teach verification through complete projects and real failures, while companies commission independent audits of critical blocks. Open tools may complement commercial solutions depending on the project's maturity.
+
+Indicators: property coverage, post-silicon defects, rework per tape-out, and validation time. [S01]
+
+### 75. Compilers, firmware, and development tools
+
+Hardware depends on software for programming, diagnostics, and upgrades. Without compilers, debuggers, libraries, drivers, and documentation, even a functional chip can become commercially irrelevant. Software maintenance often spans more years than a single device generation.
+
+Brazil has an established software and embedded-systems developer community, but needs companies delivering industrial-grade SDKs with long-term support. Academic projects often stop being maintained when grant funding ends, leaving users without security or reliability fixes.
+
+Grant programs can require sustainable repositories, maintenance agreements, automated tests, and reference documentation. Government should avoid imposing technologies that cannot meet security or support requirements.
+
+Indicators: time required to integrate a device, unresolved critical bugs, supported versions, and adoption by external developers. [S01]
+
