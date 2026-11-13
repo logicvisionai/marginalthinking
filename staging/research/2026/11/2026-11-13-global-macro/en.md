@@ -1,8 +1,8 @@
 # Global Macro — Higher US yields turn an AI leadership shock into a global financing test
 
-**13 November 2026 · Early Friday edition · Information cutoff: 05:00 Brasília time.** All US stock closes and Treasury rates below refer to **Thursday, 12 November**. Friday's US producer-price report and the euro area's updated GDP release has not yet been observed. This edition distinguishes completed trading, published statistics and conditional scenarios. [1][2][3]
+**13 November 2026 · Early Friday edition · Information cutoff: 05:00 Brasília time.** All US stock closes and Treasury rates below refer to **Thursday, 12 November**. Friday's US producer-price report and the euro area's updated GDP release has not yet been observed. [1][2][3]
 
-A single-company governance shock exposed a broader financing problem. Nvidia fell **4.3%** after chief executive Jensen Huang's departure, while the S&P 500 declined about **0.35%**, the Nasdaq **0.39%**, the Dow **0.36%** and the Russell 2000 approximately **1.7%** on Thursday. The US Treasury's official two-year yield reached **4.86%** and its ten-year **5.10%**. The previous edition described an AI-stock rebound on a day without regular Treasury trading; Thursday supplied the missing bond-market repricing and reversed part of the equity relief. [1][2]
+A single-company governance shock exposed a broader financing problem. Nvidia fell **4.3%** after chief executive Jensen Huang's departure, while the S&P 500 declined about **0.35%**, the Nasdaq **0.39%**, the Dow **0.36%** and the Russell 2000 approximately **1.7%** on Thursday. The US Treasury's official two-year yield reached **4.86%** and its ten-year **5.10%**. Wednesday's AI-stock rebound occurred during a US Treasury market holiday; Thursday's repricing of the bond market reversed part of that equity relief. [1][2]
 
 ## 1. Dated evidence dashboard
 
@@ -57,7 +57,7 @@ Brazil presents a different inflation-growth tradeoff. October IPCA slowed to **
 
 Energy shares gained even as major US equity indices declined, reflecting firmer crude prices and renewed Middle East policy uncertainty. A higher oil benchmark can support producer revenues while raising the delivered fuel bill for importers. Physical freight, insurance and refinery margins can diverge from Brent futures; a benchmark price alone cannot prove a maritime supply disruption. [1]
 
-The dollar and US sovereign yield curve remain critical external financing references. Emerging-market issuers with dollar liabilities may face simultaneous increases in reference yields and exchange-rate debt service. The effect is not uniform: commodity exporters, energy importers, firms with natural dollar revenues and households reliant on imported essentials have different exposures. Credit-spread and cross-border fund-flow series were not independently confirmed for this edition, so no global credit tightening magnitude is asserted.
+The dollar and US sovereign yield curve remain critical external financing references. Emerging-market issuers with dollar liabilities may face simultaneous increases in reference yields and exchange-rate debt service. The effect is not uniform: commodity exporters, energy importers, firms with natural dollar revenues and households reliant on imported essentials have different exposures. Comparable global credit-spread and cross-border fund-flow series were not independently confirmed at the cutoff; no magnitude is assigned to global credit tightening.
 
 ## 5. Europe, China and smaller markets
 
