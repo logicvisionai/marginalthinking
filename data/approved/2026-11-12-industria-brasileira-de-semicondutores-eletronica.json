@@ -1,0 +1,228 @@
+{
+  "schema_version": 2,
+  "id": "MT-TPS-2026-11-12-BRAZIL-SEMICONDUCTOR-INDUSTRY",
+  "slug": "2026-11-12-industria-brasileira-de-semicondutores-eletronica",
+  "revision": 0,
+  "program": "technology-production-society",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-13T11:37:18.061Z",
+  "reviewed_branch": "main",
+  "reviewed_commit": "2134acd8e76bb270f6f56ea8fe3d30a01b5810da",
+  "pending_blob_sha": "64229b30c52a6b819a4cdd7e2ac139799d4a0126",
+  "source_blob_shas": {
+    "en": "7c4b69ec3fedf19d32629feffbd7f98baff7755f",
+    "pt-BR": "f54198a85b432005a80ad3b4f9659724c41ce7bb"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Downloaded complete EN and PT-BR staged manuscripts and pending v2, verified corresponding immutable Git blob SHAs and 145 numbered sections per language. No earlier public record for this article."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Recognized v2 EN-first research-report, technology-production-society primary program, controlled energy-materials-industrial-systems / industrial-capacity-supply-chains, Brazil geographical scope, valid topic and phenomena selections."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Verified 2025 ABINEE sector series in the 2026 consolidated publication, Law 14,968/2024 and Decree 13,065/2026 on Senado; checked current OECD, USGS, NIST, SIA, IEA 2026, SEMI Q3 2026, India Government 2026, Softex, ABISEMI and Taiwan ITRI source publications. 2027-2051 paths are conditional."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "ABINEE sector imports 2025 US$48.734bn, exports US$8.146bn, chip imports US$5.963bn; six-year chip import series [4.4288,5.5839,6.3480,5.2280,6.3090,5.9629] in nominal US$bn FOB checked from SECEX/MDIC through ABINEE. NIST TSMC Arizona >US$65bn for three fabs and SIA 67k labor shortfall confirmed; hypothetical portfolio and examples clearly marked."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Full 25058 EN and 27446 PT substantive words, 145 numbered sections, appendices A-H, global supply chains, full minerals and chemicals, education, private/public financing and annual scenarios until 2051. 20 cited EN URLs / 20 PT URLs, multiple primary hosts."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "Cross-checked representative quantitative, institutional, regional and historic claims against dated ABINEE, Senado, OECD, NIST, USGS, IEA, SIA, Government of India, Softex, ABISEMI and ITRI publications. Publisher search confirms S05 article title/existence; BNDES S14 updated to working canonical source. Proprietary figures, some company-level claims and ECA link were not individually audited."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both languages have two source-supported ABINEE numeric charts with identical years and values, geographic region map with qualitative limitations, one flow, one mindmap and multiple evidence tables; visual signatures matched."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Compared full EN/PT manuscripts: 145 numbered chapters 1-145, eight appendices, matching chart arrays, equal 142 table lines, flow, mindmap and regional map, same citations S01-S18 and source URLs, no substantive topic dropped."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Sections examine alternatives to frontier fabs, imported versus domestic fabrication, selective specialized semiconductor opportunities, subsidy/fiscal risks, qualification versus installed capacity, and conditional milestones with explicit investment stop conditions and industrial-performance indicators."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Natural institutional prose with no site/process metadescriptions, explicitly qualified hypothetical investments, causality and scenario distinctions. Normal publisher build and live verification still required."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Reproduced strict pending metadata, visual, chart parity, word-count, citation-domain and section-count checks from code in repository. Full local npm validate/build unavailable because direct git clone cannot resolve github.com in this environment. Mandatory publisher CI remains."
+    }
+  },
+  "contrary_evidence": [
+    "Possession of minerals is not production of electronic-grade inputs.",
+    "Prototype or installed capacity is not proof of commercial production yield.",
+    "Domestic design and IP can generate economic value with foreign wafer fabrication.",
+    "New fabs require stable private demand, operating yield and utilities."
+  ],
+  "limitations": [
+    "Model-led QA pass, not external human peer review; selected key sources independently checked, not every technical claim across 145 sections.",
+    "Some proprietary cost, yield and company records are inaccessible; scenarios are conditional.",
+    "The ECA source and some specialized materials were not fully available to the crawler.",
+    "The full npm build could not be executed in this session due to local DNS restrictions; publisher must perform build and live URL checks."
+  ],
+  "notes": "QA review against exact pending and two staged Markdown Git blob SHAs, manual deterministic gate checks, independently opened core primary sources, verified chart data and regulatory texts. Residual source sampling and build constraints explicit.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-TPS-2026-11-12-BRAZIL-SEMICONDUCTOR-INDUSTRY",
+    "slug": "2026-11-12-industria-brasileira-de-semicondutores-eletronica",
+    "date": "2026-11-12",
+    "published_at": "2026-11-12T09:49:00-03:00",
+    "revision": 0,
+    "kind": "industrial-capacity-research",
+    "priority": 6,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-12-industria-brasileira-de-semicondutores-eletronica/en.md",
+        "title": "The Architecture of an Advanced Brazilian Semiconductor and Electronics Industry",
+        "deck": "Mineral processing, electronic-grade materials, lithography, chip design, packaging, electricity, water, universities, public financing and industrial policy: an end-to-end Brazilian development pathway through 2051.",
+        "tags": [
+          "Brazil",
+          "semiconductors",
+          "electronics",
+          "industrialization",
+          "electronic-grade materials",
+          "semiconductor fabrication",
+          "industrial policy",
+          "fabless",
+          "power electronics",
+          "education",
+          "technology supply chains"
+        ],
+        "keywords": [
+          "Brazil semiconductor industry 2026",
+          "Brasil Semicon Law 14968 2024",
+          "Brazil electronics supply chain",
+          "Brazil mining electronic-grade silicon",
+          "semiconductor fabrication water electricity infrastructure",
+          "OSAT packaging design",
+          "Brazil industrial policy 2027-2051"
+        ],
+        "regime": "Industrial strategy shaped by highly concentrated global semiconductor supply chains, electronic-grade materials requirements, domestic supplier qualification and long-term capital constraints",
+        "key_risk": "Treating mineral resources, industrial announcements, laboratory demonstrations or installed capacity as evidence of qualified commercial production and export competitiveness",
+        "watch": [
+          "Brazil Semicon legal implementation and beneficiaries",
+          "ABINEE and MDIC chip-family import trends",
+          "Actual yield and operating status in domestic semiconductor initiatives",
+          "Customers and export revenues of Brazilian fabless and OSAT firms",
+          "Technical education, laboratories and chemical-material qualification",
+          "Power, ultra-pure water and environmental restrictions of prospective fabs"
+        ],
+        "search_text": "Brazil chips semiconductor advanced electronics supply chain raw minerals refining ultrapure water photolithography fabless embedded software packaging OSAT engineering logistics factories finance universities industrial policies 2027 2051"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-12-industria-brasileira-de-semicondutores-eletronica/pt-BR.md",
+        "title": "A arquitetura de uma indústria brasileira avançada de semicondutores e eletrônica",
+        "deck": "Dos minérios aos materiais ultrapuros, projeto de chips, litografia, encapsulamento, energia, água, universidades e financiamento: as cadeias necessárias à industrialização brasileira entre 2027 e 2051.",
+        "tags": [
+          "Brasil",
+          "semicondutores",
+          "eletrônica",
+          "industrialização",
+          "materiais de grau eletrônico",
+          "fabricação de chips",
+          "política industrial",
+          "fabless",
+          "eletrônica de potência",
+          "educação",
+          "cadeias produtivas"
+        ],
+        "keywords": [
+          "indústria brasileira semicondutores 2026",
+          "Brasil Semicon Lei 14968 2024",
+          "cadeia produtiva eletrônica Brasil",
+          "refino de silício grau eletrônico",
+          "fabricação de semicondutores água energia",
+          "OSAT encapsulamento projeto chips",
+          "política industrial brasileira 2027 2051"
+        ],
+        "regime": "Política industrial condicionada por cadeias globais concentradas de semicondutores, requisitos de materiais de grau eletrônico, qualificação nacional de fornecedores e restrições de capital de longo prazo",
+        "key_risk": "Confundir reservas minerais, anúncios de investimento, demonstrações laboratoriais ou capacidade instalada com produção comercial qualificada e competitividade internacional",
+        "watch": [
+          "Implementação e beneficiários do Brasil Semicon",
+          "Importações de semicondutores por tipo segundo ABINEE e MDIC",
+          "Rendimento efetivo e operação de iniciativas nacionais",
+          "Clientes e exportações de fabless e OSAT brasileiras",
+          "Formação técnica, laboratórios e qualificação de materiais químicos",
+          "Disponibilidade de energia, água ultrapura e restrições ambientais de fabs"
+        ],
+        "search_text": "Brasil indústria chips semicondutores eletrônica avançada cadeia produtiva minérios refino água ultrapura fotolitografia fabless software embarcado encapsulamento OSAT engenharia logística fábricas financiamento universidades políticas industriais 2027 2051"
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "series": "energy-materials-industrial-systems",
+    "series_domain": "industrial-capacity-supply-chains",
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "country",
+      "regions": [
+        "americas"
+      ],
+      "subregions": [
+        "latin-america-caribbean"
+      ],
+      "countries": [
+        {
+          "code": "BR",
+          "slug": "brazil"
+        }
+      ]
+    },
+    "topics": [
+      "industry-production",
+      "technology-innovation",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "energy",
+      "trade-investment",
+      "institutions-governance",
+      "demography-labor",
+      "climate-environment"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "coverage": "Full bilingual reports preserve 145 numbered sections, 183 headings, eight thematic appendices, 2027-2051 year-by-year timetable, tables, equations, and 18 source labels; no abridgment; independent QA required.",
+      "language_equivalence": "Matched numbered sections 1-145, bibliography S01-S18, 142 table lines, visual signature of 2 charts, 1 map, 1 flow, 1 mindmap, and synchronized numeric chart series in both locales.",
+      "evidence_vintage": "2025 ABINEE trade values reconciled to its 2026 Panorama Económico e Desempenho Setorial publication: imports US$48.734bn, exports US$8.146bn, semiconductors US$5.963bn; figures in chart and body; 2026 law/decree cited with primary links.",
+      "visual_evidence": "Two auditable ABINEE charts, a six-region qualitative geographic map, causal flow, mindmap and eight substantive tables with matched content and order across both editions.",
+      "methodology": "Natural resources must be distinguished from electronic-grade supply, announced capex from operating fabrication, prototype from verified yield, and scenarios from forecasts. Illustrative R$12bn portfolio explicitly hypothetical.",
+      "remaining_qa": "Independent QA must verify primary-source traceability across claims, citations, quantitative charts and legal status; confirm all strict validators and translation fidelity before cryptographic approval."
+    },
+    "limitations": [
+      "Global chip supply chains are partly proprietary; complete cost and supplier data are not always public.",
+      "Industry benchmarks are not guarantees of manufacturing feasibility in Brazil.",
+      "Scenarios to 2051 and hypothetical investment amounts are not official commitments.",
+      "Bilingual equivalence and source-level fact checking are subject to independent QA."
+    ]
+  }
+}
