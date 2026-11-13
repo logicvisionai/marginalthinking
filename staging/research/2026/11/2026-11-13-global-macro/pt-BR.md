@@ -2,7 +2,7 @@
 
 **13 de novembro de 2026 · Edição de sexta-feira pela manhã · Corte informacional: 05h de Brasília.** Os fechamentos das bolsas e os juros do Tesouro americano abaixo são de **quinta-feira, 12 de novembro**. O PPI americano e a atualização do PIB europeu prevista para sexta-feira ainda não foi divulgada neste corte. [1][2][3]
 
-Um choque de governança em uma única empresa revelou um problema financeiro mais amplo. A Nvidia recuou **4,3%** após a saída do presidente-executivo Jensen Huang. O S&P 500 caiu cerca de **0,35%**, o Nasdaq **0,39%**, o Dow **0,36%** e o Russell 2000 aproximadamente **1,7%**. O rendimento oficial do Treasury de dois anos chegou a **4,86%**, e o de dez anos, a **5,10%**. A edição anterior registrou a recuperação das ações de IA durante um feriado no mercado de títulos; quinta-feira trouxe a nova precificação dos juros e reverteu parte daquele alívio. [1][2][13]
+Um choque de governança em uma única empresa revelou um problema financeiro mais amplo. A Nvidia recuou **4,3%** após a saída do presidente-executivo Jensen Huang. O S&P 500 caiu cerca de **0,35%**, o Nasdaq **0,39%**, o Dow **0,36%** e o Russell 2000 aproximadamente **1,7%**. O rendimento oficial do Treasury de dois anos chegou a **4,86%**, e o de dez anos, a **5,10%**. A recuperação das ações de IA na quarta-feira ocorreu durante o feriado americano do mercado de títulos; a reprecificação dos juros na quinta-feira reverteu parte daquele alívio. [1][2][13]
 
 ## 1. Painel de evidências com datas
 
@@ -57,7 +57,7 @@ O Brasil enfrenta outra combinação de inflação e crescimento. O IPCA de outu
 
 Ações de energia avançaram mesmo com a queda dos principais índices americanos, em meio à recuperação do petróleo e à incerteza política no Oriente Médio. O petróleo mais caro pode aumentar receitas de produtores e despesas de importadores. Frete físico, seguro marítimo e margens de refino podem divergir dos futuros de Brent; uma cotação isolada não prova interrupção do abastecimento. [1]
 
-O dólar e a curva americana continuam referências para financiamento externo. Emissores emergentes com dívidas em dólares podem sofrer simultaneamente com juros de referência maiores e serviço da dívida encarecido pelo câmbio. Os efeitos variam entre exportadores de commodities, importadores de energia, empresas com receitas dolarizadas e famílias dependentes de bens importados. Não foi confirmada uma série global comparável de spreads ou fluxos nesta edição; portanto, não se atribui magnitude inventada ao aperto de crédito.
+O dólar e a curva americana continuam referências para financiamento externo. Emissores emergentes com dívidas em dólares podem sofrer simultaneamente com juros de referência maiores e serviço da dívida encarecido pelo câmbio. Os efeitos variam entre exportadores de commodities, importadores de energia, empresas com receitas dolarizadas e famílias dependentes de bens importados. Não foi confirmada no corte informacional uma série global comparável de spreads ou fluxos; portanto, não há base para quantificar um aperto generalizado de crédito.
 
 ## 5. Europa, China e mercados menores
 
