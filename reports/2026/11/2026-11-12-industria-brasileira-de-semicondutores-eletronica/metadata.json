@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-TPS-2026-11-12-BRAZIL-SEMICONDUCTOR-INDUSTRY",
+  "slug": "2026-11-12-industria-brasileira-de-semicondutores-eletronica",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T09:49:00-03:00",
+  "revision": 0,
+  "kind": "industrial-capacity-research",
+  "priority": 6,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets",
+    "global-system-power"
+  ],
+  "series": "energy-materials-industrial-systems",
+  "series_domain": "industrial-capacity-supply-chains",
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "country",
+    "regions": [
+      "americas"
+    ],
+    "subregions": [
+      "latin-america-caribbean"
+    ],
+    "countries": [
+      {
+        "code": "BR",
+        "slug": "brazil"
+      }
+    ]
+  },
+  "topics": [
+    "industry-production",
+    "technology-innovation",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "energy",
+    "trade-investment",
+    "institutions-governance",
+    "demography-labor",
+    "climate-environment"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "coverage": "Full bilingual reports preserve 145 numbered sections, 183 headings, eight thematic appendices, 2027-2051 year-by-year timetable, tables, equations, and 18 source labels; no abridgment; independent QA required.",
+    "language_equivalence": "Matched numbered sections 1-145, bibliography S01-S18, 142 table lines, visual signature of 2 charts, 1 map, 1 flow, 1 mindmap, and synchronized numeric chart series in both locales.",
+    "evidence_vintage": "2025 ABINEE trade values reconciled to its 2026 Panorama Económico e Desempenho Setorial publication: imports US$48.734bn, exports US$8.146bn, semiconductors US$5.963bn; figures in chart and body; 2026 law/decree cited with primary links.",
+    "visual_evidence": "Two auditable ABINEE charts, a six-region qualitative geographic map, causal flow, mindmap and eight substantive tables with matched content and order across both editions.",
+    "methodology": "Natural resources must be distinguished from electronic-grade supply, announced capex from operating fabrication, prototype from verified yield, and scenarios from forecasts. Illustrative R$12bn portfolio explicitly hypothetical.",
+    "remaining_qa": "Independent QA must verify primary-source traceability across claims, citations, quantitative charts and legal status; confirm all strict validators and translation fidelity before cryptographic approval."
+  },
+  "limitations": [
+    "Global chip supply chains are partly proprietary; complete cost and supplier data are not always public.",
+    "Industry benchmarks are not guarantees of manufacturing feasibility in Brazil.",
+    "Scenarios to 2051 and hypothetical investment amounts are not official commitments.",
+    "Bilingual equivalence and source-level fact checking are subject to independent QA."
+  ],
+  "url": "/reports/2026/11/2026-11-12-industria-brasileira-de-semicondutores-eletronica.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-13T11:37:18.061Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "2134acd8e76bb270f6f56ea8fe3d30a01b5810da",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "The Architecture of an Advanced Brazilian Semiconductor and Electronics Industry",
+      "deck": "Mineral processing, electronic-grade materials, lithography, chip design, packaging, electricity, water, universities, public financing and industrial policy: an end-to-end Brazilian development pathway through 2051.",
+      "tags": [
+        "Brazil",
+        "semiconductors",
+        "electronics",
+        "industrialization",
+        "electronic-grade materials",
+        "semiconductor fabrication",
+        "industrial policy",
+        "fabless",
+        "power electronics",
+        "education",
+        "technology supply chains"
+      ],
+      "keywords": [
+        "Brazil semiconductor industry 2026",
+        "Brasil Semicon Law 14968 2024",
+        "Brazil electronics supply chain",
+        "Brazil mining electronic-grade silicon",
+        "semiconductor fabrication water electricity infrastructure",
+        "OSAT packaging design",
+        "Brazil industrial policy 2027-2051"
+      ],
+      "regime": "Industrial strategy shaped by highly concentrated global semiconductor supply chains, electronic-grade materials requirements, domestic supplier qualification and long-term capital constraints",
+      "key_risk": "Treating mineral resources, industrial announcements, laboratory demonstrations or installed capacity as evidence of qualified commercial production and export competitiveness",
+      "watch": [
+        "Brazil Semicon legal implementation and beneficiaries",
+        "ABINEE and MDIC chip-family import trends",
+        "Actual yield and operating status in domestic semiconductor initiatives",
+        "Customers and export revenues of Brazilian fabless and OSAT firms",
+        "Technical education, laboratories and chemical-material qualification",
+        "Power, ultra-pure water and environmental restrictions of prospective fabs"
+      ],
+      "search_text": "Brazil chips semiconductor advanced electronics supply chain raw minerals refining ultrapure water photolithography fabless embedded software packaging OSAT engineering logistics factories finance universities industrial policies 2027 2051"
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "A arquitetura de uma indústria brasileira avançada de semicondutores e eletrônica",
+      "deck": "Dos minérios aos materiais ultrapuros, projeto de chips, litografia, encapsulamento, energia, água, universidades e financiamento: as cadeias necessárias à industrialização brasileira entre 2027 e 2051.",
+      "tags": [
+        "Brasil",
+        "semicondutores",
+        "eletrônica",
+        "industrialização",
+        "materiais de grau eletrônico",
+        "fabricação de chips",
+        "política industrial",
+        "fabless",
+        "eletrônica de potência",
+        "educação",
+        "cadeias produtivas"
+      ],
+      "keywords": [
+        "indústria brasileira semicondutores 2026",
+        "Brasil Semicon Lei 14968 2024",
+        "cadeia produtiva eletrônica Brasil",
+        "refino de silício grau eletrônico",
+        "fabricação de semicondutores água energia",
+        "OSAT encapsulamento projeto chips",
+        "política industrial brasileira 2027 2051"
+      ],
+      "regime": "Política industrial condicionada por cadeias globais concentradas de semicondutores, requisitos de materiais de grau eletrônico, qualificação nacional de fornecedores e restrições de capital de longo prazo",
+      "key_risk": "Confundir reservas minerais, anúncios de investimento, demonstrações laboratoriais ou capacidade instalada com produção comercial qualificada e competitividade internacional",
+      "watch": [
+        "Implementação e beneficiários do Brasil Semicon",
+        "Importações de semicondutores por tipo segundo ABINEE e MDIC",
+        "Rendimento efetivo e operação de iniciativas nacionais",
+        "Clientes e exportações de fabless e OSAT brasileiras",
+        "Formação técnica, laboratórios e qualificação de materiais químicos",
+        "Disponibilidade de energia, água ultrapura e restrições ambientais de fabs"
+      ],
+      "search_text": "Brasil indústria chips semicondutores eletrônica avançada cadeia produtiva minérios refino água ultrapura fotolitografia fabless software embarcado encapsulamento OSAT engenharia logística fábricas financiamento universidades políticas industriais 2027 2051"
+    }
+  }
+}

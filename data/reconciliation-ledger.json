@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-13T10:26:22.616Z",
+  "last_reconciled_at": "2026-11-13T11:40:42.169Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9601,6 +9601,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Reviewed the unchanged Mercosur treaty facts and previous technology-signal-ledger reconciliation. Revision 2 changes one English editorial time qualifier only; no canonical dataset update warranted."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-brazil-semiconductor-industrialization-publication-reconciliation",
+      "reconciled_at": "2026-11-13T11:40:42.169Z",
+      "report_ids_reviewed": [
+        "MT-TPS-2026-11-12-BRAZIL-SEMICONDUCTOR-INDUSTRY"
+      ],
+      "audit_note": "Reconciled the 145-section bilingual Brazil semiconductor industrialization study with all seven required cumulative tools. No new directly verified project capacities, controlling rights, flow edges or benchmarks warrant changing canonical datasets; evidence gaps are recorded without invented updates.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report describes concentration in semiconductor inputs and tools but supplies no newly audited bilateral weighted dependency edges under the network schema."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Potential Brazilian chip and chemical-industrial niches are conditional scenarios, not validated site-level investment projects with observed capex, yield and committed demand."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Reviewed organizational roles of OECD, TSMC, technology institutes and public financing; the article documents no newly verified transaction changing controlling ownership or voting rights of tracked actors."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Mineral resources, refining and material qualification are analyzed, but no new documented mine concession, controlling resource right or verified operating reserve is established."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Brazil Semicon law and policy instruments are described with sources, but causal outcomes of its intervention and counterfactual effects are not established for a canonical case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Industrial supply security and geopolitical risks are analyzed without a discrete armed-conflict event or authoritative incident requiring conflict-system update."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Prospective power semiconductors, OSAT and fabless opportunities do not document a newly qualified deployed chip, benchmark result, operating fabrication line or measured technology maturity advance."
         }
       ]
     }
