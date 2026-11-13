@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-13",
+  "slug": "2026-11-13-global-macro",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-13T09:40:00Z",
+  "reviewed_commit": "e6da9465c4b883cb7da69b4e24e247d8e0d8cae7",
+  "pending_blob_sha": "1ee9267785b75a276ee6dbe89e549f3da3c0d90b",
+  "source_blob_shas": {
+    "en": "e74c6ce95e18160e0a712e9af6b32aeb928af000",
+    "pt-BR": "fcadcc4727cb59f6c867976c85bc23a828b5d877"
+  },
+  "checks": {
+    "research_depth": {
+      "result": "failed"
+    },
+    "source_integrity": {
+      "result": "passed"
+    },
+    "evidence_traceability": {
+      "result": "not_completed"
+    },
+    "visual_evidence_readiness": {
+      "result": "failed"
+    },
+    "editorial_publication_readiness": {
+      "result": "failed"
+    },
+    "translation_check": {
+      "result": "not_completed"
+    },
+    "factual_methodology": {
+      "result": "not_completed"
+    }
+  },
+  "issues": [
+    {
+      "code": "EDITORIAL_DEPTH",
+      "location": "staging/research/2026/11/2026-11-13-global-macro/{en,pt-BR}.md",
+      "evidence": "Substantive whitespace words after excluding fenced blocks and URL strings: EN 1182; PT-BR 1226. scripts/validate-editorial-depth.mjs requires at least 1700 per nonweekly locale. Both have 7 H2 sections.",
+      "correction": "Develop independently sourced transmission, counterfactual and regional analysis to at least 1700 substantive words per locale; do not pad with repetition."
+    },
+    {
+      "code": "VISUAL_BUDGET",
+      "location": "staging/research/2026/11/2026-11-13-global-macro/{en,pt-BR}.md > chart fences",
+      "evidence": "One explicit chart per locale, versus the minimum two charts for nonweekly work in scripts/validate-editorial-depth.mjs. Both have a flow and map; those do not replace the second chart.",
+      "correction": "Add a second auditable quantitative chart in both languages with source, period, comparable units and identical numerical series."
+    },
+    {
+      "code": "SOURCE_COVERAGE",
+      "location": "staging/research/2026/11/2026-11-13-global-macro/{en,pt-BR}.md > references",
+      "evidence": "Seven distinct external URLs in each locale, against the validator minimum of eight. Some are generic institutional homepages rather than direct dated evidence.",
+      "correction": "Verify and cite at least one additional distinct original source URL in each locale, and replace generic homepages with exact dated primary releases supporting the material figures."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true
+  }
+}
