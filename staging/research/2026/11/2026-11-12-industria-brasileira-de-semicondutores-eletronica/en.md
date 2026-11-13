@@ -1546,3 +1546,104 @@ Intergovernmental governance should evaluate proposals based on ready infrastruc
 
 Indicators: net fiscal cost per project, suppliers benefiting, and long-duration employment. [S03]
 
+
+### 136. Standards-essential patents and software licenses
+
+Electronic products may incorporate communications standards, interfaces, and codecs covered by specific licensing terms. A Brazilian company can own the complete layout of its circuit board while still depending on software libraries or third-party rights. IP disputes can prevent export even after a product is technically finished.
+
+The risk rises for startups negotiating contracts without legal advice and working with poorly documented parts. Brazil could build advisory infrastructure and case databases without interfering with legitimate private negotiations.
+
+Industry consortia can finance freedom-to-operate analyses, participation in standards bodies, and specialist legal training. Creating national standards incompatible with global markets should be avoided unless justified by demonstrated strategic needs.
+
+Indicators: contracts audited, licensing disputes, interoperable certifications, and exports free of unexpected restrictions. [S01]
+
+### 137. Open tools and technological-dependence risk
+
+Open-source EDA, processor architecture, and embedded-systems projects lower entry barriers and facilitate education. But real manufacturing requires validation, supported versions, PDK integration, and accountability for errors. Open source code does not guarantee that every industrial function is as mature as the commercial alternative.
+
+Brazil can support free and open software rigorously, complementing it with licensed tools where necessary. Investing in national developers of verification, simulation, compilers, and automation could create exports even without domestic chip fabrication.
+
+Funding calls should require testing, maintenance governance, dependency security, and documentation. Tool selection needs to follow product requirements and transparent appraisal of risks and migration costs.
+
+Indicators: process compatibility, automated tests, maintainer availability, and use by paying companies. [S01]
+
+### 138. Industrial data and process sovereignty
+
+Manufacturing recipes, test results, defect models, and maintenance histories have substantial strategic value. Even when machinery is owned by a firm operating in Brazil, contracts may leave technical data controlled by the equipment supplier or another company division. This limits the local team's ability to learn and correct faults.
+
+Data protection must respect trade secrets and cybersecurity but also allow domestic teams to preserve accumulated knowledge. Vague technology-transfer agreements can produce lasting dependence on foreign consultants.
+
+Public participation in projects should require training documentation, operating-access rights, and maintenance continuity. Proprietary processes need not be disclosed publicly to verify that local professionals control operations and key indicators.
+
+Indicators: autonomy in fault diagnosis, time operating without foreign assistance, data retained, and validated process changes. [S01]
+
+### 139. Attesting origin and technological content
+
+Labels such as 'made in Brazil' may refer to assembly, packaging, design, diffusion, or complete fabrication—activities with different value added and different challenges. Without transparent definitions, consumers and public officials can mistake participation in a value chain for control over technology.
+
+Industrial policy needs separate metrics: domestic value added, Brazilian-owned IP, skilled employment, R&D intensity, wafers processed locally, and imported materials. One local-content ratio cannot represent the entire complexity.
+
+Disclosure standards can be auditable while protecting business secrets. Official communications should differentiate laboratory demonstrations, pilot plants, commercial operations, and exports, reducing incentives for announcements without results.
+
+Indicators: domestic content by function, certified industrial activities, and revenue share from proprietary technology. [S03]
+
+### 140. Geopolitical stress tests for a national cluster
+
+A cluster must also be assessed against external shocks: closure of a shipping corridor, restrictions on software exports, shortages of specialty gases, or unavailable maintenance parts. Geographic supplier diversification reduces risk only when routes and technologies do not share the same single points of failure.
+
+Brazil should map deep dependencies, including tier-two and tier-three suppliers, without demanding impossible transparency across the entire global value chain. Firms must know which processes become unavailable when one input fails and how long remaining stock can sustain operations.
+
+Annual exercises can simulate interruptions and test substitutes, repair capacity, and communications with customers. Public resilience incentives should be tied to demonstrated improvements in recovery time.
+
+Indicators: recovery time objectives, operating days under shock, and share of products with a qualified second source. [S01]
+
+### 141. An innovation portfolio for small and medium-sized firms
+
+Developing circuit boards, firmware, instruments, and controllers can create hundreds of engineering firms before the country has large semiconductor manufacturers. A diverse base enables experimentation and reduces the risk of a policy resting on a few champions. SMEs nevertheless face substantial fixed certification, instrumentation, and qualification costs.
+
+Brazil can offer paid and selectively subsidized access to laboratories, EDA, testing, prototyping, and regulatory advice. Such structures are most useful when open to competing firms and governed to prevent exclusive capture.
+
+Industry associations can organize pooled purchasing of components, training, and export development. Financing should reward products and contracts, not simply the number of startups registered at events.
+
+Indicators: revenue after five years, exports, reusable IP, and independent customer counts. [S06]
+
+### 142. Energy demand as an industrial anchor
+
+Electrical grids, distributed generation, energy storage, and high-efficiency machinery all use power semiconductors, sensors, and controllers. The need to cut losses can support differentiated products offering temperature tolerance, reliability, and maintainability without frontier logic processes.
+
+Brazil has manufacturers of motors, automation, and energy equipment; connecting them with semiconductor firms could create structural demand. Buyers, however, must share specifications and participate in qualification from the outset.
+
+Pilot projects can test power modules under actual grid and industrial conditions, comparing efficiency, lifetime, and full cost with imported products. Contracts should allow termination when the promised benefit does not materialize.
+
+Indicators: avoided losses, operating hours, total conversion costs, and repeat-purchase volumes. [S12]
+
+### 143. Sensor capabilities for health and the environment
+
+Air and water quality, medical diagnosis, and industrial monitoring need dependable sensors and analytical systems. Commercial value comes from calibration, selectivity, drift, and the preservation of data quality over time—not simply fabricating a membrane or circuit.
+
+Brazilian healthcare, sanitation, and environmental institutions can define concrete problems for sensor companies. Validation under real conditions takes time but may enable exports to countries facing similar environments.
+
+Consortia of hospitals, utilities, universities, and businesses should establish testing and interoperability protocols. Moving toward MEMS or custom chips depends on volume, specification stability, and economic gains over modular alternatives.
+
+Indicators: sensitivity and specificity by application, annual drift, calibration cost, and institutional adoption. [S06]
+
+### 144. Industrialization and economic inclusion
+
+Advanced manufacturing typically needs highly skilled employees, but social benefits depend on who can enter these careers, how education is financed, and where facilities are located. Programs concentrated on PhDs and executives may raise technical capability without expanding regional opportunities.
+
+Brazil must connect federal institutes, technical schools, universities, firms, and mobility policy. Inclusion should be measured by graduation, employment stability, and productivity-supported pay rather than initial enrollment counts.
+
+Student retention grants, paid internships, teacher training, and access to distributed laboratories can broaden the talent base. Firms need technical career progression that does not force every specialist into administrative management.
+
+Indicators: student retention, wages by qualification, occupational mobility, and regional distribution of opportunities. [S11]
+
+### 145. The ultimate test of successful industrial policy
+
+The success of a chip industry cannot be measured by construction, announcements, or the number of installed machines alone. It should appear in companies that sell repeatedly, technologies that continue functioning after a grant ends, suppliers winning foreign customers, and engineers able to solve complex problems domestically.
+
+International dependence will not disappear; it should become negotiable, manageable, and progressively less concentrated. Some fabrication stages will be viable at home; others will remain imported. The objective is to develop real choices rather than simulate absolute independence.
+
+Public and private projects should be assessed with common indicators for productivity, quality, exports, additionality, and supply security. Sustaining long-term goals also requires the willingness to abandon means that no longer work without abandoning industrial development itself.
+
+Indicators: competitive exports, yield, skilled incomes, supplier density, and persistence of outcomes after incentives. [S01][S03]
+
