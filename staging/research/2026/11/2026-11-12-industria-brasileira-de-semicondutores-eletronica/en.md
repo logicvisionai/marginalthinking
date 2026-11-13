@@ -1647,3 +1647,98 @@ Public and private projects should be assessed with common indicators for produc
 
 Indicators: competitive exports, yield, skilled incomes, supplier density, and persistence of outcomes after incentives. [S01][S03]
 
+
+## Appendix A — Material chains from resource to chip
+
+Industrial transformation depends on moving from resources to product specifications. Each stage changes the potential buyers, required capital, waste streams, chemistry, and measurement methods. The following tables identify interfaces that can be addressed by independent projects without requiring every business to be vertically integrated.
+
+| **Resource/input** | **Critical transformation** | **Industrial product** | **Quality gate** |
+|---|---|---|---|
+| Quartz/silica | Characterization; metallurgy; purification; crystal; wafer | Electronic and photovoltaic Si; technical quartz | Chemistry, electricity, contaminant control |
+| Metallurgical silicon | Compound synthesis and distillation; deposition; refining | Polysilicon | Chemical processing, safety, scale |
+| Graphite | Purification, machining, heat treatment | Furnace parts, susceptors | Particles, stability, contamination |
+| Niobium | Refining; special materials and alloys | Targets, advanced materials | Customers and application-specific specifications |
+| Tantalum | Refining and powder metallurgy | Capacitors, barriers, targets | Purity, forming, intellectual property |
+| Tin | Metallurgy; alloys and solder pastes | Electronic solders | Fatigue, wettability, particles |
+| Copper | Refining; rolling and finishing | Interconnections, wires, PCBs | Oxidation, finish, geometry |
+| Bauxite/alumina | Refining; high-purity ceramics | Substrates and insulators | Porosity, heat conduction |
+| Gallium | Byproduct recovery; purification | GaN/GaAs precursors and compounds | Scale, price, epitaxy |
+| Germanium | Recovery; purification | Optics, materials, devices | Residual streams, niche demand |
+| Boron/phosphorus | Fine chemistry; dopant preparation | Dopant gases and sources | Safety, dosage, purity |
+| Fluorite | Fluorine chemistry; ultra-high-purity treatment | Etching and cleaning chemicals | Occupational and environmental risks |
+| Aluminum | Refining and deposition | Interconnections, contacts | Targets, particles, thin films |
+| Nickel | Refining; alloys and coatings | Contacts, barriers, batteries | Composition and reliability |
+| Lithium | Concentration; refining; battery materials | Storage for energy electronics | Battery-management and system integration |
+| Rare earths | Separation, oxides, technical materials | Magnets, polishing, optics | Waste handling and selective separation |
+| Technical ceramics | Powders; shaping; sintering | Power substrates, equipment parts | Thermal and dielectric precision |
+| Resins/polymers | Formulation; ultra-purity; packaging | Molding compounds, substrates | Moisture, delamination, thermal cycles |
+| Atmospheric gases | Separation; purification; distribution | Ultra-pure N2, O2, Ar | Point-of-use purity |
+| Raw water | Multiple treatments; polishing; reuse | Fab-grade ultra-pure water | Particles, resistivity, effluents |
+
+### Electronic grade does not mean a rounded purity percentage
+
+Commercial classification requires specifying each contaminant: metals, carbon, oxygen, particles, inclusions, crystal defects, dissolved gases, and organics, according to the input. A purity of 99.99% can be excellent for one process and unsuitable for another. The composition of impurities, not just their aggregate concentration, determines whether the material can do its job. The industrial objective is repeatability backed by metrology under real transportation and operating conditions.
+
+## Appendix B — Anatomy of a complete electronics value chain
+
+| **Stage** | **Participating organizations** | **Verifiable output** |
+|---|---|---|
+| Demand research | OEMs; telecom operators; hospitals; agriculture; electricity networks | Specifications, target prices, volumes |
+| System architecture | Product engineering; software | Functions, power consumption, interfaces, requirements |
+| Chip design | Fabless; EDA; IP; PDK | Netlist, layout, test patterns |
+| Masks | Specialized photomask vendor | Qualified mask set |
+| Wafers and materials | Substrate; chemicals; gases | Batch-qualified inputs |
+| Front-end fabrication | Foundry; metrology; maintenance | Processed wafers |
+| Wafer-level testing | Prober; automated test equipment; yield engineering | Wafer maps and selected dies |
+| Packaging | OSAT; resins; substrates | Protected, connectable components |
+| Final testing | Automated test equipment; environmental tests | Accepted, traceable parts |
+| PCBs and passives | Board manufacturer; component suppliers | Assembled boards |
+| Firmware | Systems team; toolchain | Programmable, updatable product |
+| Qualification | Certification; laboratory; customer | Authorization for commercial use |
+| Logistics and repair | Distribution; inventory; technical support | Sustainable product lifecycle |
+
+These thirteen stages can belong to different companies. Strategic control should be distributed according to supply risk, the value retained, and substitutability. A country that designs and integrates a chip can own meaningful technology while outsourcing the foundry; a country that only packages somebody else's die also participates in the chain, but acquires different competencies and margins.
+
+## Appendix C — Equations for investment decisions
+
+| **Model** | **Relation** | **Interpretation and caution** |
+|---|---|---|
+| Saleable die count | D_good = D_potential × y_fab × y_test | Separate yield terms avoid counting defective parts as capacity |
+| Fabrication-stage unit cost | C_die = C_wafer / D_good | Does not include packaging, non-recurring engineering, royalties, or product maintenance |
+| Minimum ASIC volume | N* = NRE / (C_commercial − C_ASIC) | Requires a positive cost difference and recurring demand; ignoring risk and time makes the result optimistic |
+| Fab utilization | u = actual wafers / adjusted nominal capacity | Nominal capacity must account for maintenance and product mix |
+| Defect sampling (Poisson model) | Yield ≈ exp(−A × D0) | Simplification dependent on defect distribution and design structure |
+| Weighted average cost of capital | WACC = E/V × Re + D/V × Rd × (1 − T) | Debt, risk, and tax assumptions must be consistent |
+| Net present value | NPV = −I0 + Σ CF_t/(1+r)^t | Include expansion, maintenance, obsolescence, and closure |
+| Net water consumption | W_net = W_intake − W_adequately_returned | Internal reuse must not be counted twice |
+| Import dependence | Exposure = Σ input_share × supplier_risk | Internal index depends on transparent weights and qualitative assessment |
+
+### Two yields, two economically different factories
+
+In the example of a hypothetical wafer with 600 possible die positions, a cost of R$12,000 and fab yield of 60%, 360 dies pass at R$33.33 each for that stage. At 85% yield, 510 dies pass at R$23.53 apiece. If final testing rejects another 5%, the results change again. None of these figures is a real-world market quotation: they demonstrate sensitivity of cost to yield.
+
+### The decision to make an ASIC
+
+A Brazilian company considering R$18 million in non-recurring design and prototyping investment must compare total costs with the commercial alternative. If the net per-product cost difference is R$12 and no additional expenses arise, simple break-even volume would be 1.5 million units. At annual demand of 100,000 parts, that implies fifteen years without accounting for interest, risk, or redesign—a clear sign of fragility. If the same architecture is used in many products and reaches one million units annually, the economic case changes substantially. This calculation does not replace technical and contractual due diligence.
+
+## Appendix D — Hypothetical public-private investment portfolio
+
+An illustrative allocation of R$12 billion over ten years permits comparisons among priorities without portraying these amounts as an official budget, market price, or government commitment. Approval of any project would depend on individual technical studies, permitting, contracting, and socioeconomic cost-benefit appraisal.
+
+| **Allocation** | **Share %** | **R$ billion / 10 years** | **Required delivery** |
+|---|---:|---:|---|
+| Vocational training and industrial residencies | 18 | 2.16 | Technicians and engineers employed in real operations |
+| Metrology and reliability centers | 14 | 1.68 | Multi-company services and certificates |
+| Tape-outs and fabless platforms | 16 | 1.92 | Commercial products, IP, new clients |
+| Back-end and testing modernization | 16 | 1.92 | Yield, export capacity, advanced processes |
+| Electronic materials and fine chemicals | 10 | 1.20 | Qualified lots, exports, safety |
+| Power, MEMS, and photonics pilot lines | 14 | 1.68 | Customer-qualified devices |
+| Shared logistics, electricity, and water infrastructure | 8 | 0.96 | Reliability, cost, reuse, multiple users |
+| Auditing, risk, and program contingency | 4 | 0.48 | External assessment, resilience, course corrections |
+
+Under this hypothetical design, all subsidies should be governed by transparent calls or contracts and subject to audit. Private participation varies by risk: shared public goods and fundamental research can justify higher public shares; commercially mature plants require predominantly private risk capital. The illustrative total is neither available Brazilian budget funding nor sufficient evidence that an advanced fab can be built at that cost.
+
+### Fiscal opportunity cost
+
+A ten-year program competes with basic education, infrastructure, healthcare, sanitation, and other investments. Benefits should be measured through net skilled employment, productivity, exports, technology diffusion, future tax receipts, and supply security. Temporary construction jobs, permanent industrial employment, and estimates of indirect benefits must not be indiscriminately added. Fiscal decisions improve when expected benefits and risks are shown as annual flows and compared with alternative policies.
+
