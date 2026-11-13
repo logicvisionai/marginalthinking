@@ -63,6 +63,22 @@ Brazilian advanced chips and electronics industry
   - anchor customers, exports, and competition
 ```
 
+### Brazilian semiconductor imports, 2020–2025
+
+ABINEE's series shows semiconductor imports fluctuating between 2020 and 2025. A rise in import value does not in itself demonstrate greater physical volume or dependence in every application because prices, device mix, and contractual exchange rates can vary. These figures are nominal FOB trade flows of semiconductor components, not investments in fabs or Brazilian production. [S02]
+
+```chart
+type: line
+title: Brazilian imports of semiconductors, 2020–2025
+unit: US$ billion FOB
+2020 | 4.4288
+2021 | 5.5839
+2022 | 6.3480
+2023 | 5.2280
+2024 | 6.3090
+2025 | 5.9629
+```
+
 ## The hidden cost of dependence
 
 Imports of electronic components are commonly assessed by their customs value. That price, however, does not capture their full strategic cost. An industry buying a microcontroller may also depend on a compiler, a firmware library, an intellectual-property license, programming tools, and the foreign manufacturer's decision to continue the product line. In vehicles and industrial equipment, redesigning an entire board can cost many times more than the chips themselves. Vulnerability rises when a component is certified for regulated applications or must remain available for decades.
@@ -1340,6 +1356,20 @@ Mercosur and partnerships with other countries can facilitate purchasing, confor
 
 Indicators: regional exports of components and equipment, cross-border suppliers, and logistics costs. [S01]
 
+
+### Brazilian industrial geography and manufacturing capabilities
+
+Brazilian industrial regions could play different roles in a developing semiconductor and electronics value chain. This geographic diagram describes functions without suggesting installed fabrication capacity, precise site locations, or commercial output. Supplier qualification and customer contracts remain necessary in every region. [S06][S08]
+
+```map
+title: Brazilian regions and potential functions in the electronics chain
+Campinas and inland São Paulo | Circuit design, research, instrumentation, and testing | Engineering capabilities do not imply complete wafer fabrication
+Rio Grande do Sul | Microelectronics, research, and fabrication and assembly initiatives | Operational and funding continuity are decisive
+Manaus | Electronics assembly and demand aggregation | Logistics and technological content vary by product
+Minas Gerais and Bahia | Mining, chemistry, and beneficiation opportunities | Electronic-grade purity requires further qualification
+Paraná and Santa Catarina | Automation, machinery, components, and power electronics | Supplying fabs requires traceability and specialized testing
+Northeastern Brazil | Energy systems, materials, port logistics, and universities | Local water and electricity availability must be demonstrated
+```
 
 ## XI — GEOGRAPHIC STRATEGY AND TIMETABLE
 
