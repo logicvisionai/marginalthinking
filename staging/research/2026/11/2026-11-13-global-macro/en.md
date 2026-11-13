@@ -36,7 +36,7 @@ unit: percent per year; official observations, 11 Nov bond holiday excluded
 
 ## 2. Equity concentration and the cost of AI infrastructure
 
-Nvidia's leadership change is a governance event, not evidence that worldwide computing demand suddenly contracted. But the reaction revealed how much of the investment thesis depends on a few companies, management continuity and access to cheap financing. CoreWeave, which had surged the preceding day, lost about 6.9% Thursday, while Nebius fell sharply. A supplier's share-price movement is neither installed data-center capacity nor realized customer cash flow. [1]
+Nvidia's leadership change is a governance event, not evidence that worldwide computing demand suddenly contracted. But the reaction revealed how much of the investment thesis depends on a few companies, management continuity and access to cheap financing. CoreWeave, which had surged the preceding day, lost about 6.9% Thursday, while Nebius fell sharply. A supplier's share-price movement is neither installed data-center capacity nor realized customer cash flow. [1][13]
 
 The small-cap Russell 2000 underperformed the large-cap benchmarks. That is consistent with concern over financing sensitivity, but it does not establish a unique causal explanation: sector composition, liquidity and company news also matter. Higher discount rates lower the present value of distant expected profits; they can also raise borrowing costs for grid upgrades, cooling equipment, chips and construction. Cash-rich firms and highly leveraged infrastructure developers therefore face different balance-sheet pressures.
 
@@ -49,7 +49,7 @@ Neither chain means an AI demand collapse is established. The first requires pas
 
 ## 3. Inflation, central banks and fiscal constraints
 
-The Federal Reserve's latest policy target remains **3.75–4.00%** following its 28 October decision. Thursday's higher Treasury yields are market prices, not a new Fed vote. The US October CPI, released 10 November, rose **0.4%** month on month, with core CPI **0.3%**. Friday's producer-price index may refine the upstream inflation picture, but it cannot be inserted into a Thursday-close analysis before publication. [2][6]
+The Federal Reserve's latest policy target remains **3.75–4.00%** following its 28 October decision. Thursday's higher Treasury yields are market prices, not a new Fed vote. The US October CPI, released 10 November, rose **0.4%** month on month, with core CPI **0.3%**. Friday's producer-price index may refine the upstream inflation picture, but it cannot be inserted into a Thursday-close analysis before publication. [2][6][8]
 
 Brazil presents a different inflation-growth tradeoff. October IPCA slowed to **0.14%**, versus **0.82%** in September, while the twelve-month rate was reported at **4.63%**. The moderation in one month does not by itself establish sustained convergence to the target. Brazilian fiscal measures under legislative discussion remain proposals, not enacted savings; September industrial and services weakness reported by IBGE constrains the growth backdrop. Exchange-rate movements may transmit global dollar strength into domestic import prices, but their magnitude depends on hedging, pricing power and central-bank credibility. [4][7]
 
@@ -149,3 +149,4 @@ The next checks are the 13 November US PPI, Eurostat's updated Q3 estimate, veri
 [10] National Bureau of Statistics of China, October 2026 industrial PPI, 10 Nov: https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965806.html  
 [11] National Bureau of Statistics of China, October 2026 CPI, 10 Nov: https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965808.html  
 [12] US Bureau of Labor Statistics, September 2026 PPI release, 15 Oct: https://www.bls.gov/news.release/archives/ppi_10152026.htm  
+[13] Associated Press, Nvidia leadership and stock-price decline, 12–13 Nov: https://apnews.com/article/f9ac67fed10c86c1ed1ad1f41dd921a5  
