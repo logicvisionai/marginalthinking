@@ -100,13 +100,20 @@
   "producer_checks": {
     "information_cutoff": "2026-11-13 05:00 BRT. Treasury and US stocks through 12 Nov; US October PPI and revised Eurostat GDP pending at cutoff.",
     "novelty": "12 Nov market repricing combined with 10 Nov China industrial PPI/CPI divergence, Brazil's 12 Nov IPCA and Copom policy backdrop.",
-    "bilingual_parity": "Revised EN/PT-BR with identical quantitative series in 2 charts, table, flow and regional map; 12 dated traceable evidence URLs per locale.",
+    "bilingual_parity": "Revised EN/PT-BR with identical numerical series in 2 charts, tables, flow and regional map; 13 traceable dated URLs per locale.",
     "editorial_status": "Revision 2 staged to address independent QA rejection r1; QA review still required.",
-    "visual_evidence": "Two sourced charts: US Treasury par yields (10 and 12 Nov) and China October CPI/PPI (year-on-year)."
+    "visual_evidence": "Two sourced charts: US Treasury par yields (10 and 12 Nov) and China October CPI/PPI (year-on-year).",
+    "source_check": "Official US Treasury, BLS CPI/PPI, FOMC, China NBS CPI/PPI, BCB Copom, Eurostat and dated AP/UOL reporting rechecked; October US PPI and Euro GDP revision not anticipated."
   },
   "limitations": [
     "No independently verified aggregate global corporate credit-spread or fund-flow panel.",
     "US October PPI and revised 13 Nov Eurostat GDP not yet observed by the 05:00 BRT cutoff.",
     "Brazil October IPCA official statistical-series calendar and dated press corroboration; no direct official release article verified."
+  ],
+  "contrary_evidence": [
+    "Higher Treasury yields do not prove higher company-specific credit spreads or cancelled infrastructure investment.",
+    "Chinese industrial PPI +5.7% y/y and household CPI +0.7% y/y measure different baskets, not directly identical inflation processes.",
+    "October Brazil IPCA +0.14% m/m is not evidence by itself of annual target convergence.",
+    "Eurostat quarterly GDP differences among European countries complicate a single eurozone growth narrative."
   ]
 }
