@@ -101,7 +101,7 @@
     "information_cutoff": "2026-11-13 05:00 BRT. Treasury and US stocks through 12 Nov; US October PPI and revised Eurostat GDP pending at cutoff.",
     "novelty": "12 Nov market repricing combined with 10 Nov China industrial PPI/CPI divergence, Brazil's 12 Nov IPCA and Copom policy backdrop.",
     "bilingual_parity": "Revised EN/PT-BR with identical numerical series in 2 charts, tables, flow and regional map; 13 traceable dated URLs per locale.",
-    "editorial_status": "Revision 2 staged to address independent QA rejection r1; QA review still required.",
+    "editorial_status": "Revision 2 fully restaged with sourced argument, revised primary references, bilingual visual parity and no production commentary; independent QA required.",
     "visual_evidence": "Two sourced charts: US Treasury par yields (10 and 12 Nov) and China October CPI/PPI (year-on-year).",
     "source_check": "Official US Treasury, BLS CPI/PPI, FOMC, China NBS CPI/PPI, BCB Copom, Eurostat and dated AP/UOL reporting rechecked; October US PPI and Euro GDP revision not anticipated."
   },
