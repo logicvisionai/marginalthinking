@@ -1904,7 +1904,7 @@ The difference between twenty-five years of productive investment and twenty-fiv
 
 **[S13] Exame.** O chip Made in Brazil: survey of semiconductor companies in Brazil (2026). https://exame.com/revista-exame/o-chip-made-in-brazil/
 
-**[S14] BNDES.** R$290 million in financing for Adata (2024). https://agenciadenoticias.bndes.gov.br/cultura/Com-R%24-290-milhoes-BNDES-apoia-producao-de-tres-novos-semicondutores-no-pais-pela-Adata/
+**[S14] BNDES.** R$290 million in financing for Adata (2024). https://agenciadenoticias.bndes.gov.br/norte/Com-R%24-290-milhoes-BNDES-apoia-producao-de-tres-novos-semicondutores-no-pais-pela-Adata/
 
 **[S15] European Commission JRC.** EUV lithography supply chain report (2023). https://publications.jrc.ec.europa.eu/repository/bitstream/JRC133850/JRC133850_01.pdf
 
@@ -1927,7 +1927,7 @@ The difference between twenty-five years of productive investment and twenty-fiv
 [S11]: https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/
 [S12]: https://www.iea.org/reports/energy-technology-perspectives-2026/supply-chain-risks-and-industrial-competitiveness
 [S13]: https://exame.com/revista-exame/o-chip-made-in-brazil/
-[S14]: https://agenciadenoticias.bndes.gov.br/cultura/Com-R%24-290-milhoes-BNDES-apoia-producao-de-tres-novos-semicondutores-no-pais-pela-Adata/
+[S14]: https://agenciadenoticias.bndes.gov.br/norte/Com-R%24-290-milhoes-BNDES-apoia-producao-de-tres-novos-semicondutores-no-pais-pela-Adata/
 [S15]: https://publications.jrc.ec.europa.eu/repository/bitstream/JRC133850/JRC133850_01.pdf
 [S16]: https://www.bnm.gov.my/insights/investment/emr2024b1
 [S17]: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252649&lang=1&noshow=1&reg=3
