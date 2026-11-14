@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-14",
+  "slug": "2026-11-14-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-14T03:28:41.586Z",
+  "reviewed_commit": "6ed98086ee8208434922fe35e1f73f172c1b7075",
+  "pending_blob_sha": "6421a1aa9e9a16fab4d4f3a72cfb50bf569d5da8",
+  "source_blob_shas": {
+    "en": "b0998729fe52b276bec23cdd2a077efe1abdf6a0",
+    "pt-BR": "79fb79374a46f74c7890a8a31cff75d3626c3812"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Matching Git blob SHA for pending v2 and both staged Markdown sources; same reviewed revision."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Controlled Global Macro daily classification; required localized fields; strategic-competition phenomenon is registered."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "14 Nov Saturday edition uses completed 13 Nov securities markets, published Oct PPI and oil/stock data, Q3 GDP and Sep retail periods without treating forecasts as observations."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "BLS October PPI 0.3% m/m and 6.5% y/y; Treasury 10Y 4.98/5.10/5.15 dated; IEA Oct supply 105.4m b/d and inventory +52m bbl; Eurostat EU/EA GDP and ONS UK Q3; NBS China industrial/household price divergence verified against dated originals."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "13 aligned source URLs across both locales, including BLS, Treasury, IEA, Eurostat, ONS, NBS and BCB. Sampled factual claims against directly retrievable originals and dated market press; no complete independent global corporate spread or flow panel."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN 2909 / PT-BR 3176 substantive words; ten numbered analytic chapters, 2 quantitative charts, dated evidence table, causal flow, geographic comparison and counterfactual scenario tests; new IEA/BLS observations after prior cutoff."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two charts preserve identical numeric sequences across locales; US October PPI indices share unit/horizon with non-additivity warning; Treasury 10-year dated yield series has same instrument/horizon; flow and map describe qualified mechanisms."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Both locales have same sourced numeric claims, reference URLs, chart series, scenario rows and region/causal mechanisms, idiomatic language and no conversational metadescriptions."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Prose concerns economics, financial channels and evidence, without product/pipeline self-reference; source references are at the end; 6+ analytically connected sections."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Explicit crude versus diesel and freight divergence, monthly versus annual PPI, bond yields versus actual credit spreads, Brazil fiscal implementation versus Senate vote, UK/EA growth heterogeneity."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Conditionally falsifiable oil, US restrictive-rate, European employment and Brazilian fiscal-risk scenarios; data needed to discriminate specified."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Applied matching source depth and research visual syntax gates by direct connector read; full npm build and deployment not run during editorial review, reserved for publisher/CI."
+    }
+  },
+  "contrary_evidence": [
+    "Higher observed crude supply does not establish cheaper delivered diesel, but it reduces crude scarcity pressures.",
+    "Lower US monthly PPI does not imply lower annual inflation, and the next Fed decision is not predetermined.",
+    "Higher Treasury yields do not demonstrate cancelled AI investment or uniformly higher private loan rates.",
+    "Brazilian monthly retail increase does not reverse weak quarterly comparison."
+  ],
+  "limitations": [
+    "No independent high-frequency survey of global corporate credit spreads or exact portfolio fund flows.",
+    "IEA forecast supply surplus is prospective; Gulf shipping risk and diesel/product availability remain uncertain.",
+    "British and euro-area Q3 GDP estimates are preliminary.",
+    "Brazilian fiscal package still faces additional legislative steps.",
+    "QA was an assistant evidence review using direct sources and deterministic in-chat checks, not an independent human peer review.",
+    "Full npm production build and live HTTP publication not yet verified."
+  ],
+  "notes": "Approved reviewed staged revision 1 after source-vintage and parity audits, with explicit empirical limitations. Publisher must recheck all 3 Git blob hashes before generating public files.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-14",
+    "slug": "2026-11-14-global-macro",
+    "date": "2026-11-14",
+    "published_at": "2026-11-14T00:19:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "trade-investment",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-14-global-macro/en.md",
+        "title": "Global Macro — Oil supply recovers, but diesel scarcity and US inflation keep the cost of capital elevated",
+        "deck": "IEA signals a prospective crude surplus while refined fuels remain strained; US PPI and Treasury yields prolong financing pressure.",
+        "tags": [
+          "Global Macro",
+          "Oil supply",
+          "US producer inflation",
+          "Treasury yields",
+          "Diesel logistics"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-14",
+          "November 14 2026",
+          "IEA oil",
+          "PPI 6.5",
+          "US Treasury 5.15"
+        ],
+        "regime": "Crude supply rebalances while refined-product bottlenecks and high dollar funding costs persist.",
+        "key_risk": "A forecast oil surplus is mistaken for delivered fuel disinflation; loan credit-spread effects remain unverified.",
+        "watch": [
+          "Refined diesel and freight",
+          "US prices and Treasury yields",
+          "Euro-area employment",
+          "Brazil fiscal execution"
+        ],
+        "search_text": "November 14 2026 Global Macro oil market report diesel US PPI Treasury Brazil euro area"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-14-global-macro/pt-BR.md",
+        "title": "Global Macro — Oferta de petróleo se recupera, mas escassez de diesel e inflação americana mantêm elevado o custo do capital",
+        "deck": "AIE projeta superávit de petróleo, mas derivados seguem pressionados; inflação americana ao produtor e Treasuries mantêm custo financeiro elevado.",
+        "tags": [
+          "Global Macro",
+          "Oferta de petróleo",
+          "Inflação americana",
+          "Treasuries",
+          "Logística do diesel"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-14",
+          "14 novembro 2026",
+          "AIE petróleo",
+          "PPI 6,5",
+          "Treasury 5,15"
+        ],
+        "regime": "Oferta de petróleo bruto melhora, mas restrições nos derivados e financiamento em dólar persistem.",
+        "key_risk": "Confundir projeção de excesso de petróleo com alívio comprovado nos derivados; spreads de crédito ainda não verificados.",
+        "watch": [
+          "Diesel e fretes",
+          "Preços e juros EUA",
+          "Emprego europeu",
+          "Execução fiscal brasileira"
+        ],
+        "search_text": "14 novembro 2026 macro global petróleo diesel inflação PPI EUA Treasury Brasil zona euro"
+      }
+    },
+    "producer_checks": {
+      "information_cutoff": "After 13 Nov 2026 completed US and Brazilian sessions, 14 Nov Saturday BRT; no Saturday session claimed.",
+      "novelty": "13 Nov published IEA oil balance and BLS October PPI measured after previous report cutoff, together with 13 Nov completed Treasury/stock closes, Eurostat Q3 GDP and IBGE September retail.",
+      "bilingual_parity": "Ten aligned analytical sections and sources; two charts with identical numeric sequences, matching time vintage, table/flow/map semantic parity.",
+      "visual_evidence": "Two audited charts: US PPI October monthly subindices and official Treasury 10-year observations dated 10/12/13 November; dated evidence table, conditional flow, regional map, scenario matrix.",
+      "source_check": "BLS, Treasury, IEA, Eurostat, ONS, China NBS, BCB; Reuters, AP, Estadão and Agencia Brasil. Oil annual projections are not subtracted from October observed supply.",
+      "editorial_status": "Producer staged only; independent SHA-bound QA approval required prior to public bundle creation."
+    },
+    "limitations": [
+      "No independent high-frequency survey of global corporate credit spreads or exact portfolio fund flows.",
+      "IEA forecast supply surplus is prospective; Gulf shipping risk and diesel/product availability remain uncertain.",
+      "British and euro-area Q3 GDP estimates are preliminary.",
+      "Brazilian fiscal package still faces additional legislative steps."
+    ],
+    "contrary_evidence": [
+      "Higher observed crude supply does not establish cheaper delivered diesel, but it reduces crude scarcity pressures.",
+      "Lower US monthly PPI does not imply lower annual inflation, and the next Fed decision is not predetermined.",
+      "Higher Treasury yields do not demonstrate cancelled AI investment or uniformly higher private loan rates.",
+      "Brazilian monthly retail increase does not reverse weak quarterly comparison."
+    ]
+  }
+}
