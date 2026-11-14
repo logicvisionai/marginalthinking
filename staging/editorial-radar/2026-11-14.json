@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-14",
+  "checked_at": "2026-11-14T08:05:00Z",
+  "scope": "All active registry editorial lines reconciled. Bounded primary-source review of WHO antimicrobial resistance and World Bank energy finance; macro already approved and public in repository. Other lines monitored without claim of exhaustive fresh investigation.",
+  "registry_updated_at": "2026-11-13T10:27:55.512Z",
+  "registry_blob_sha": "63fffd5ad8ce99e0dcb25541687414239e80d86b",
+  "reviewed_line_count": 37,
+  "reviewed_lines": [
+    {
+      "registry_id": "editorial-global-macro-daily",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "decision": "already_approved_and_public",
+      "note": "MT-GM-2026-11-14 revision 1 already approved and public on main; no duplicate."
+    },
+    {
+      "registry_id": "editorial-wealth-flow-weekly",
+      "kind": "weekly-wealth-flow",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-strategic-transitions",
+      "kind": "strategic-transition",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-country-context",
+      "kind": "country-context",
+      "program": "strategic-transitions",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-technology-signals-weekly",
+      "kind": "weekly-technology-signal",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-strategic-technology-monthly",
+      "kind": "monthly-strategic-technology",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-conflict-systems",
+      "kind": "conflict-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-strategic-actors",
+      "kind": "strategic-actors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-global-monetary-daily",
+      "kind": "daily-institutional-monitor",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-institutional-decisions",
+      "kind": "institutional-decision",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-policy-case-studies",
+      "kind": "policy-case-study",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-economic-paradigms-market-design",
+      "kind": "economic-paradigm-assessment",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-wealth-power-monthly",
+      "kind": "monthly-wealth-power",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-wealth-power-annual",
+      "kind": "annual-wealth-power-map",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-global-institution-systems",
+      "kind": "global-institution-system",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-regional-integration-systems",
+      "kind": "regional-integration-system",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-technology-society-essays",
+      "kind": "technology-society-essay",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-food-systems-development",
+      "kind": "food-systems-development",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-biosecurity-livestock-governance",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-major-power-conflict",
+      "kind": "conflict-system-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-pandemic-preparedness",
+      "kind": "pandemic-social-economic-preparedness",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-historical-intellectual-research",
+      "kind": "historical-intellectual-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-energy-industrial-systems-research",
+      "kind": "energy-industrial-systems-research",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-political-economy-election-assessment",
+      "kind": "political-economy-event-assessment",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-resource-sovereignty-geopolitics",
+      "kind": "resource-sovereignty-geopolitics",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-energy-security-binational-digital",
+      "kind": "energy-security-binational-digital-infrastructure",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-strategic-global-trade-corridors",
+      "kind": "strategic-global-trade-corridors",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-strategic-resource-stocks-security",
+      "kind": "global-strategic-resource-stocks-and-security",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-historical-civilizations-political-economy",
+      "kind": "historical-civilizations-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-accelerationism-systems",
+      "kind": "accelerationism-systems-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-historical-strategic-security",
+      "kind": "historical-strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-structural-economic-outlook",
+      "kind": "structural-economic-outlook",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-strategic-security-resilience",
+      "kind": "strategic-security-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-historical-soft-power-research",
+      "kind": "historical-soft-power-research",
+      "program": "global-system-power",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-historical-monetary-stabilization",
+      "kind": "historical-monetary-stabilization-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-regional-geoeconomic-integration-research",
+      "kind": "regional-geoeconomic-integration-research",
+      "program": "political-economy-markets",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    },
+    {
+      "registry_id": "editorial-brazil-semiconductor-industrialization",
+      "kind": "industrial-capacity-research",
+      "program": "technology-production-society",
+      "decision": "watch_no_article",
+      "note": "Line reconciled; no distinct independently verified daily delta sufficient for a new product in bounded review."
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "WHO World AMR Awareness Week 2026",
+      "url": "https://www.who.int/news-room/events/detail/2026/11/18/default-calendar/world-amr-awareness-week-2026",
+      "date": "2026-11-18",
+      "finding": "Upcoming campaign, not new surveillance results."
+    },
+    {
+      "name": "WHO updated global AMR action plan",
+      "url": "https://www.who.int/news/item/25-05-2026-the-world-health-assembly-adopts-updated-global-action-plan-on-antimicrobial-resistance-%282026-2036%29",
+      "date": "2026-05-25",
+      "finding": "Previously adopted framework; no new country-level implementation demonstrated today."
+    },
+    {
+      "name": "World Bank Brazil Amazon energy project",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/03/20/world-bank-supports-jobs-renewable-energy-and-lower-energy-costs-in-brazil-s-amazon-region",
+      "date": "2026-03-20",
+      "finding": "Earlier financing approval, not proof of November disbursement or commissioning."
+    }
+  ],
+  "additional_article_created": false,
+  "limitations": [
+    "Bounded review; not exhaustive screening of all active lines' external source universe.",
+    "No new verified cross-country antimicrobial surveillance or agricultural pesticide exposure series.",
+    "No evidence to classify conditional war scenarios as imminent realized events."
+  ]
+}
