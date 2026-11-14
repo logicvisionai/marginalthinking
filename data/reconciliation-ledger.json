@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-13T11:40:42.169Z",
+  "last_reconciled_at": "2026-11-14T03:31:16.679Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9646,6 +9646,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Prospective power semiconductors, OSAT and fabless opportunities do not document a newly qualified deployed chip, benchmark result, operating fabrication line or measured technology maturity advance."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-global-macro-r1-publication-reconciliation",
+      "reconciled_at": "2026-11-14T03:31:16.679Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-14"
+      ],
+      "audit_note": "14 Nov Global Macro reviewed against the seven cumulative assets. Primary IEA supply and BLS price observations are not equivalent to verified controlling property rights, measured capital flows, identified causal policy impacts or deployed technologies; data gaps recorded rather than invented.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Weekly crude, freight, currency and bond observations identify possible import and dollar-funding channels, not new verified weighted bilateral trade or capital-flow edges under network definitions."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Oil-product logistics and debt-financed power/AI infrastructure point to potential investment constraints, but no verified site-level project cash flow, commissioned capacity, contractual return or quantified opportunity signal is established."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The macro data and market closes do not document any new transaction changing voting rights, ownership or controlling entities."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The IEA report describes crude supply and stocks, not audited individual reserve ownership, concession rights, operator control transfer or separately verified field capacity for the canonical atlas."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The Brazilian Senate fiscal package vote and US producer-price report do not establish a completed fiscal intervention with measured causal effects and a defensible counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Gulf maritime security and tanker-disruption risk enter the IEA oil assessment, but this brief does not independently identify and verify an attributable date-specific new armed incident for the canonical conflict dataset."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Financing and valuation risks to data-centre infrastructure do not demonstrate a newly deployed system, benchmark, manufacturing milestone or change in verified technology maturity."
         }
       ]
     }
