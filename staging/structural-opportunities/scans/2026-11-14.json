@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-14",
+  "checked_at": "2026-11-14T08:05:00Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-14",
+  "candidate_ids": [],
+  "coverage_summary": "Discovery expanded to Amazon Brazil off-grid energy access, Northeast Brazil low-carbon industrial finance and West Bengal electricity distribution outcomes. March and May approvals are historical commitments, not fresh November disbursements; India outcomes refer to September 2024 and projected November 2026 targets. No independently evidenced new 14 November commissioning or implementation milestone.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank Amazon energy access",
+      "date": "2026-03-20",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/03/20/world-bank-supports-jobs-renewable-energy-and-lower-energy-costs-in-brazil-s-amazon-region"
+    },
+    {
+      "name": "World Bank Northeast Brazil industrial transition",
+      "date": "2026-05-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/05/15/world-bank-supports-energy-transition-and-job-creation-in-brazil-northeast-region"
+    },
+    {
+      "name": "World Bank India electricity distribution results",
+      "date": "2025-07-10",
+      "url": "https://www.worldbank.org/en/results/2025/07/10/reinvigorating-india-s-electricity-distribution-for-access-reliability-and-digitalization"
+    }
+  ],
+  "review_limitations": [
+    "No verified new disbursement, commissioning, regulatory implementation or measured productivity change on 14 November.",
+    "No new candidate; canonical Atlas unchanged.",
+    "Older announced targets must not be treated as achieved."
+  ]
+}
