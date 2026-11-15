@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-15",
+  "slug": "2026-11-15-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-15T03:17:18.022Z",
+  "reviewed_commit": "77b635e2d637838cfdcf51d956b29ac4be60f9e4",
+  "pending_blob_sha": "dc90e997ae0ba9d4b891512b49003cd7c539c638",
+  "source_blob_shas": {
+    "en": "6edeea1d10ad049995811dcf1148255f174d46fb",
+    "pt-BR": "537dc9ddf1af6c604f97f496535ee50a4e0dca0e"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Exact pending v2 and two staging locale blob SHAs pinned on current main; no public bundle exists at review."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Daily global macro, controlled political-economy-markets and strategic competition, English source and complete Portuguese counterpart."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Sunday Nov15 00:09 BRT cutoff; new Saturday Nov14 US aviation shutdown recovery and US–China trade negotiations; Friday Nov13 as latest US/Brazil cash closes; Japan Nov12 and Q3 GDP vintages explicit."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary DOT Nov14 ground stop 3,500 safe landings and 8,000 resumed operations; Reuters cancellations >5,300 at 16:15 ET Nov14, tariff proposals $30bn each side not enacted; AP US benchmark weekly returns 2.5/2.3/2.1/1.3%; Eurostat/ONS GDP q/q 0.4/0.5/0.7/0.8%; BLS PPI +0.3 m/m +6.5 y/y; sovereign yield 5.15 Friday. Denominators, date and stock/flow boundaries qualified."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "13 identical dated evidence URLs, including US DOT, BLS, Treasury, Eurostat, ONS, ADB, BCB and IEA plus Reuters, AP and Brazilian financial press. Airline economic-loss amounts and further trade outcomes unverified and deliberately not asserted."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "3029 substantive EN words and 3317 PT-BR words, nine causal regional chapters, operational network mechanics, trade transmission, opposing explanations and economic falsifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two exact equivalent numerical chart arrays (weekly US index returns and Q3 real GDP); dated quantitative evidence table, causal air-network flow, regional comparative map, four-scenario evidence matrix."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Same 13 reference URLs and numbering in both locales, identical numeric chart series, matching cutoff and causal scenarios and non-equivalence of flight operations, tariff proposals and market returns."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "No internal publishing dialogue or article-self-reference. Natural Portuguese, direct economic mechanisms, no unsupported aggregate airline GDP loss or sensational cyber attribution."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Weekend flights did not return to normal immediately, Friday equity losses alongside weekly gains, tariffs not enacted, GDP estimates not equal to jobs and dollar financing impacts vary by borrower."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Transient versus systemic aviation fault; tariff negotiation versus execution; producer costs versus consumer inflation; credit conditions versus sovereign yields, each with observational tests."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Source grammar and quantitative/depth gates inspected directly; npm production build, index/ledger reconciliation and live HTTP smoke tests reserved to publisher and CI."
+    }
+  },
+  "contrary_evidence": [
+    "Positive US weekly equity returns coexist with negative Friday cash-market closes.",
+    "Open US airspace does not imply that displaced airline networks have returned to normal.",
+    "A negotiated tariff figure does not prove enacted concessions or realized imports.",
+    "Producer-price inflation and sovereign yields do not map one for one onto CPI or corporate borrowing rates."
+  ],
+  "limitations": [
+    "14 November cancellation counts are time-bound operational observations, not final financial or GDP loss.",
+    "US-China tariff measures remain under negotiation, with no ratified cuts treated as completed.",
+    "Japanese bond/currency data refer to 12 November and Friday equities/yields to 13 November.",
+    "No verified total for affected Brazil-US travelers or global private credit spreads.",
+    "Editorial automated review is assistant-led and not independent human peer review; deployment must be checked separately."
+  ],
+  "notes": "SHA-pinned v2 approval for 15 November Sunday Global Macro; evidence checked against current dated official and media sources, with cutoff and uncertainty preserved.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-15",
+    "slug": "2026-11-15-global-macro",
+    "date": "2026-11-15",
+    "published_at": "2026-11-15T00:09:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "trade-investment",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "15 Nov 2026 00:09 BRT, Saturday 14 Nov operational and diplomatic events; last US and Brazilian traded session 13 Nov.",
+      "novelty": "Post-14 Nov edition new US nationwide aviation network failure and Saturday flight disruptions; new US-China trade council meeting, with differentiated economic transmission.",
+      "bilingual_parity": "Identical chart numerical sequences and all 13 reference links; parallel tables, map, flow, 9 numbered analyses.",
+      "visual_evidence": "Two sourced quantitative charts: US equity weekly returns and Q3 quarterly GDP; evidence table, geography and causal mechanism.",
+      "source_check": "US DOT, Reuters aviation and trade, AP, US Treasury, BLS, Eurostat, ONS, ADB, BCB, IEA and UOL.",
+      "editorial_status": "Staged for independent QA review; not yet approved or public."
+    },
+    "limitations": [
+      "14 November cancellation counts are time-bound operational observations, not final financial or GDP loss.",
+      "US-China tariff measures remain under negotiation, with no ratified cuts treated as completed.",
+      "Japanese bond/currency data refer to 12 November and Friday equities/yields to 13 November.",
+      "No verified total for affected Brazil-US travelers or global private credit spreads."
+    ],
+    "contrary_evidence": [
+      "Positive US weekly equity returns coexist with negative Friday cash-market closes.",
+      "Open US airspace does not imply that displaced airline networks have returned to normal.",
+      "A negotiated tariff figure does not prove enacted concessions or realized imports.",
+      "Producer-price inflation and sovereign yields do not map one for one onto CPI or corporate borrowing rates."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-15-global-macro/en.md",
+        "title": "Global Macro — Airspace fragility and US–China tariff talks put operational risk beside the price of capital",
+        "deck": "An American aviation-network failure and renewed US–China tariff negotiations expose operational and commercial risks as dollar funding stays costly.",
+        "tags": [
+          "Global Macro",
+          "US aviation",
+          "China US trade",
+          "Tariffs",
+          "Treasury yields",
+          "Global supply chains"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-15",
+          "15 November 2026",
+          "FAA ground stop",
+          "US China tariff talks"
+        ],
+        "regime": "Common-infrastructure failure and unresolved trade terms alongside elevated dollar funding benchmarks.",
+        "key_risk": "Treating flight cancellations as audited GDP losses or negotiated tariff figures as implemented import cuts.",
+        "watch": [
+          "FAA recovery and network reliability",
+          "US China tariff detail and ratification",
+          "Corporate financing rates",
+          "Brazil agricultural trade diversion"
+        ],
+        "search_text": "November 15 2026 global macro airlines FAA outage China US tariff meeting trade aviation financing Brazil"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-15-global-macro/pt-BR.md",
+        "title": "Global Macro — Fragilidade do espaço aéreo e negociação tarifária entre EUA e China expõem riscos além dos juros",
+        "deck": "Falha de controle aéreo americano e negociação tarifária EUA–China mostram riscos de infraestrutura e comércio sob crédito em dólar ainda caro.",
+        "tags": [
+          "Global Macro",
+          "Aviação EUA",
+          "Comércio EUA China",
+          "Tarifas",
+          "Treasuries",
+          "Cadeias de suprimento"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-15",
+          "15 novembro 2026",
+          "FAA voos",
+          "Tarifas Estados Unidos China"
+        ],
+        "regime": "Interrupção de infraestrutura compartilhada e regras comerciais ainda incertas, diante de financiamento em dólar elevado.",
+        "key_risk": "Confundir cancelamentos com perdas mensuradas de PIB ou negociação tarifária com cortes efetivamente implementados.",
+        "watch": [
+          "Recuperação dos aeroportos americanos",
+          "Regras tarifárias publicadas EUA China",
+          "Juros privados e dólar",
+          "Concorrência agrícola brasileira"
+        ],
+        "search_text": "15 novembro 2026 macro global paralisação FAA Estados Unidos China tarifas voos Brasil financiamento"
+      }
+    }
+  }
+}
