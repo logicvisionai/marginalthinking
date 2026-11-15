@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-15",
+  "checked_at": "2026-11-15T08:00:48Z",
+  "idempotency_key": "structural-opportunity-scan:2026-11-15",
+  "candidate_ids": [],
+  "coverage_summary": "Revisited official World Bank energy access, industrial-transition and distribution-system evidence, and the aviation operational resilience issue documented in today's approved Global Macro. Previous approvals and historical results do not demonstrate a new November 15 disbursement, commissioning or measured productivity effect. Aviation disruption is a structural-resilience hypothesis, not yet a quantified investable or canonical condition. No candidate met the evidence threshold.",
+  "canonical_updated": false,
+  "sources_checked": [
+    {
+      "name": "World Bank Brazil Amazon energy access",
+      "date": "2026-03-20",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/03/20/world-bank-supports-jobs-renewable-energy-and-lower-energy-costs-in-brazil-s-amazon-region"
+    },
+    {
+      "name": "World Bank Northeast Brazil energy transition and jobs",
+      "date": "2026-05-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/05/15/world-bank-supports-energy-transition-and-job-creation-in-brazil-northeast-region"
+    },
+    {
+      "name": "World Bank India electricity distribution outcomes",
+      "date": "2025-07-10",
+      "url": "https://www.worldbank.org/en/results/2025/07/10/reinvigorating-india-s-electricity-distribution-for-access-reliability-and-digitalization"
+    }
+  ],
+  "hypotheses_under_review": [
+    {
+      "subject": "Aviation network operational resilience",
+      "perspective": "Airlines and airport operators",
+      "hypothesis": "Centralized system interruption may raise the value of redundancy and recovery capability",
+      "observable_trigger": "Primary FAA/DOT quantified recurrence, repair capital expenditure and implementation milestones",
+      "invalidation": "No recurring operational impact or measurable cost avoided",
+      "status": "unvalidated_no_candidate"
+    }
+  ],
+  "review_limitations": [
+    "Sources are dated baseline materials, not newly issued 15 November project milestones.",
+    "No independently verified new disbursement, commissioning, regulation in force, measured productivity gain or project economics.",
+    "No canonical Atlas update."
+  ]
+}
