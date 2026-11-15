@@ -26292,5 +26292,132 @@
         "search_text": "14 novembro 2026 macro global petróleo diesel inflação PPI EUA Treasury Brasil zona euro"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-15",
+    "slug": "2026-11-15-global-macro",
+    "date": "2026-11-15",
+    "published_at": "2026-11-15T00:09:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "trade-investment",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "15 Nov 2026 00:09 BRT, Saturday 14 Nov operational and diplomatic events; last US and Brazilian traded session 13 Nov.",
+      "novelty": "Post-14 Nov edition new US nationwide aviation network failure and Saturday flight disruptions; new US-China trade council meeting, with differentiated economic transmission.",
+      "bilingual_parity": "Identical chart numerical sequences and all 13 reference links; parallel tables, map, flow, 9 numbered analyses.",
+      "visual_evidence": "Two sourced quantitative charts: US equity weekly returns and Q3 quarterly GDP; evidence table, geography and causal mechanism.",
+      "source_check": "US DOT, Reuters aviation and trade, AP, US Treasury, BLS, Eurostat, ONS, ADB, BCB, IEA and UOL.",
+      "editorial_status": "Staged for independent QA review; not yet approved or public."
+    },
+    "limitations": [
+      "14 November cancellation counts are time-bound operational observations, not final financial or GDP loss.",
+      "US-China tariff measures remain under negotiation, with no ratified cuts treated as completed.",
+      "Japanese bond/currency data refer to 12 November and Friday equities/yields to 13 November.",
+      "No verified total for affected Brazil-US travelers or global private credit spreads."
+    ],
+    "contrary_evidence": [
+      "Positive US weekly equity returns coexist with negative Friday cash-market closes.",
+      "Open US airspace does not imply that displaced airline networks have returned to normal.",
+      "A negotiated tariff figure does not prove enacted concessions or realized imports.",
+      "Producer-price inflation and sovereign yields do not map one for one onto CPI or corporate borrowing rates."
+    ],
+    "url": "/reports/2026/11/2026-11-15-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-15T03:17:18.022Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "77b635e2d637838cfdcf51d956b29ac4be60f9e4",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global Macro — Airspace fragility and US–China tariff talks put operational risk beside the price of capital",
+        "deck": "An American aviation-network failure and renewed US–China tariff negotiations expose operational and commercial risks as dollar funding stays costly.",
+        "tags": [
+          "Global Macro",
+          "US aviation",
+          "China US trade",
+          "Tariffs",
+          "Treasury yields",
+          "Global supply chains"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-15",
+          "15 November 2026",
+          "FAA ground stop",
+          "US China tariff talks"
+        ],
+        "regime": "Common-infrastructure failure and unresolved trade terms alongside elevated dollar funding benchmarks.",
+        "key_risk": "Treating flight cancellations as audited GDP losses or negotiated tariff figures as implemented import cuts.",
+        "watch": [
+          "FAA recovery and network reliability",
+          "US China tariff detail and ratification",
+          "Corporate financing rates",
+          "Brazil agricultural trade diversion"
+        ],
+        "search_text": "November 15 2026 global macro airlines FAA outage China US tariff meeting trade aviation financing Brazil"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Global Macro — Fragilidade do espaço aéreo e negociação tarifária entre EUA e China expõem riscos além dos juros",
+        "deck": "Falha de controle aéreo americano e negociação tarifária EUA–China mostram riscos de infraestrutura e comércio sob crédito em dólar ainda caro.",
+        "tags": [
+          "Global Macro",
+          "Aviação EUA",
+          "Comércio EUA China",
+          "Tarifas",
+          "Treasuries",
+          "Cadeias de suprimento"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-15",
+          "15 novembro 2026",
+          "FAA voos",
+          "Tarifas Estados Unidos China"
+        ],
+        "regime": "Interrupção de infraestrutura compartilhada e regras comerciais ainda incertas, diante de financiamento em dólar elevado.",
+        "key_risk": "Confundir cancelamentos com perdas mensuradas de PIB ou negociação tarifária com cortes efetivamente implementados.",
+        "watch": [
+          "Recuperação dos aeroportos americanos",
+          "Regras tarifárias publicadas EUA China",
+          "Juros privados e dólar",
+          "Concorrência agrícola brasileira"
+        ],
+        "search_text": "15 novembro 2026 macro global paralisação FAA Estados Unidos China tarifas voos Brasil financiamento"
+      }
+    }
   }
 ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-14T03:31:16.679Z",
+  "last_reconciled_at": "2026-11-15T03:17:54.321Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9691,6 +9691,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Financing and valuation risks to data-centre infrastructure do not demonstrate a newly deployed system, benchmark, manufacturing milestone or change in verified technology maturity."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-15T03:17:54.321Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-15"
+      ],
+      "audit_note": "Reconciled Nov15 new aviation-network operational shock and US-China trade negotiations against all seven canonical systems. No invented credit-spread, air cargo, trade or ownership updates.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "FAA network disruption and proposed US-China tariff changes expose operational and bilateral trade links but supply no new audited bilateral weighted edge or time-series flow under canonical definitions."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "FAA modernisation and global resilience investment are opportunities under consideration, but no independently documented investment project with committed cost, capacity, schedule and realized economics is suitable for canonical entry."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "FAA contractor activity and US-China trade discussions do not establish a new beneficial ownership, voting-control transfer or independently audited strategic control relation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Transport outage and tariff talks do not transfer resource concessions, oilfields, mining rights or physically controlling resource ownership."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "FAA halt is an observed operational measure and tariff talks are unimplemented; there is no validated causal policy-treatment counterfactual suitable for a new canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Operational FAA network event has no confirmed malicious attribution and neither tariff talks nor supply constraints document a new incident of armed conflict."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "A reported routing/network failure is not independently established deployment capacity or a confirmed technology benchmark/market maturity milestone; the technical forensic investigation is ongoing."
         }
       ]
     }
