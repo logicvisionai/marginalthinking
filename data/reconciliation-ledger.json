@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-15T03:17:54.321Z",
+  "last_reconciled_at": "2026-11-16T11:08:58.922Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9736,6 +9736,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "A reported routing/network failure is not independently established deployment capacity or a confirmed technology benchmark/market maturity milestone; the technical forensic investigation is ongoing."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-16T11:08:58.922Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-16"
+      ],
+      "audit_note": "Reviewed official China and Japan activity releases, dollar funding, oil and Brazil transmission against all active required assets.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "verified_no_change",
+          "note": "The documented Gulf export route and dollar-funding mechanisms remain applicable. China’s aggregate activity and Japanese GDP composition do not update a quantified bilateral dependency edge."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Divergent Chinese industrial and property indicators suggest sector-specific exposure. There is no new verified project-level bottleneck, committed capital, implementation date or return estimate."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The expected US–China meeting and market repricing yield no verified change in ownership, voting rights or strategic control."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Crude prices, flows and the IEA balance do not establish changes to concessions, reserves under control or operating rights."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The Fed and Selic settings are dated references and the report evaluates conditional transmission. It supplies no new implemented policy case with ex-post outcomes."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Risk to maritime shipping is an energy-market exposure in this report. Its evidence does not establish a newly attributable event with the provenance required to amend the canonical conflict corpus."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "NBS high-tech industrial aggregates establish output growth for a statistical category. They do not establish a product-specific deployment, verified capability milestone or maturity revision."
         }
       ]
     }
