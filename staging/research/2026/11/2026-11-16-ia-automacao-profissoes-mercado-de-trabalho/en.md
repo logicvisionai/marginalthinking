@@ -87,6 +87,12 @@ In infrastructure, assistants can help draft documentation, inspect logs and pre
 
 The economics depend on whether a customer pays for availability or for a ticket. Standby staffing, redundancy and emergency recovery have value during long periods without an incident. A service provider paid by ticket can lose revenue as trivial requests disappear. The same system can lighten the work of the buyer's internal team and reduce outsourced hours.
 
+### Database administrators
+
+Assistants can draft queries, prepare documentation and interpret alerts. A database change also requires checking availability, integrity, compatibility with consuming systems and recovery costs. Proposing a change is a fraction of the work when downtime or data loss is expensive. A larger number of applications can increase demand for governance, recovery and verification even if maintenance per database becomes cheaper.
+
+The ILO identifies material exposure in tasks performed by database designers and administrators. The BLS matrix for the United States projects distinct paths for administrators and architects. Projected growth in architecture and near-constant employment in administration make it worth examining the relative importance of integration and structural decisions. Hiring, complexity per system, intervention time and recovery coverage track different parts of that transition. [12, 17]
+
 ### The training hidden inside production work
 
 Reviewing a test, fixing a small integration and tracing the history of a defect are productive assignments and opportunities to learn. A firm can automate a first attempt and give the beginner supervised responsibility for verification. It can also give all verification to the experienced workers who already know the system. Quarterly delivery numbers might look similar while the two groups of beginners develop very different skills.
@@ -177,6 +183,12 @@ AI changes production costs and the route by which reporting reaches the reader.
 
 Pew observed fewer clicks on search results when an AI summary appeared in a sample of browsing by US adults. Differences in the mix of queries may contribute to the result. The Reuters Institute reported a contraction in Google organic referrals for a sample of more than 2,500 sites using Chartbeat data, alongside other changes in news distribution. A publisher can pay less to process material and earn less with which to finance it. Revenue by channel, subscriptions and investment in original reporting are needed to determine the employment result. [26, 27]
 
+### Copy editors and proofreaders
+
+Grammar correction and style standardisation become cheaper when a tool can apply documented rules. Editing that verifies facts, the coherence of an argument and accountability for publication depends on sources and context. A larger volume of material can increase the number of passages that need verification even as light editing gets faster. When a publisher pays by the page, the revised fee has to cover any checks that go beyond a quick pass.
+
+Authors can use tools themselves and outsource only final review. Publishers can spend savings on more titles or increase volume without expanding the workforce. A common cost under rapid generation can be finding unsupported statements that read naturally. Paid assignments, review time per delivery and published corrections would help distinguish expanded editorial capacity from commercial pressure. Writing and platform evidence supports the plausibility of these channels without directly counting editors' jobs. [5, 6, 23]
+
 ### Marketing analysts
 
 Generative tools can produce ads and descriptions and make it easier for customers to find products. Field experiments in online retail found sales gains varying from zero to 16.3% across workflows, depending on what an operation already provided. A conversion gain establishes value in that process. Competition, advertising prices and the firm's ability to interpret outcomes determine how much of it finances additional hiring. [28]
@@ -222,6 +234,18 @@ Drafting vacancies, scheduling interviews and screening application documents ar
 
 The effect on recruiters depends on what the firm does with the saved time. Structured interviews, practical evaluation and communication with candidates need attention. A target based on processing more documents with fewer people can make mistaken exclusions harder to contest. Interview and hiring rates by recruitment channel, experience and qualifications show more than the count of applications processed.
 
+### Receptionists and scheduling staff
+
+Bookings, cancellations and questions about availability can be handled by language systems connected to calendars and records. Earlier automation already moved some contacts to online forms. A tool that can deal with spoken or written requests expands the hours when a business can take enquiries. A hotel, clinic or office also needs people to meet visitors, recognise urgent cases, resolve scheduling conflicts and offer assistance in person. That part of the role limits how much work can move to software.
+
+A firm receiving many predictable calls can centralise service across offices. In a workplace that already needs in-person coverage, the balance of duties may change instead. Measures include missed visits, time to obtain an appointment, booking errors, staffing by shift and exception handling. The ILO identifies material exposure in several reception occupations. Employment data need to preserve differences in workplace and physical presence. [12, 30]
+
+### Travel agents
+
+Online platforms already let customers compare transport, accommodation and packages. AI cuts the time needed to draft an itinerary that matches budgets, dates and preferences. For a simple trip, it can remove demand for a paid consultation. Corporate travel, multiple destinations and cancellations also require coordinating reservations, contacting suppliers and changing arrangements quickly. That work depends on access and authority to act as well as the ability to propose a plausible plan.
+
+Smaller agencies can also use the tools to prepare proposals and serve more customers. Conversion, margin per trip and accepted proposals measure how that change reaches the business. Comparing one-off consulting fees with recurring contracts and the time spent solving disruptions helps show whether employment is moving towards particular markets. The ILO index measures exposure in travel consultancy and clerical tasks. It leaves the eventual number of agents open. [12]
+
 ## Accounting, banking, insurance, law and consulting
 
 ### Bookkeeping and accounting clerks
@@ -241,6 +265,24 @@ Quickly prepared working papers can create room to review more transactions. The
 Collecting statements, copying tables and preparing comparable reports are time-consuming but often follow recognisable procedures. Models can draft reports quickly and allow analysts to follow more firms. A useful analysis must also determine when a series has changed definition, whether an acquisition changed consolidation and whether income came from a non-recurring item. A polished forecast can propagate a mistaken assumption across many decisions.
 
 Broader coverage can absorb time savings. Fewer analysts can produce the same coverage when customers value a fixed volume. Entry positions may involve less mechanical work and more verification of assumptions. The industry then needs a way for skills once learned by constructing a model to be developed through assisted validation as well. Financial analysts are among the occupations in the highest ILO exposure group. [12]
+
+### Securities and financial products brokers
+
+Search, product comparison, documentation and routine communication can take less time. Electronic trading, digital platforms and low-cost products were already changing financial intermediation. Language tools make it easier to gather and interpret information and can change how many hours go into preparing a transaction. Financial brokers also have to deal with liquidity, client preferences, execution costs and exceptions.
+
+The ILO places securities and finance dealers and brokers in its highest exposure group. The BLS category for sales agents in securities, commodities and financial services has its own definition and a US employment growth projection of 1% by 2035. Exposure describes task content, while the projection incorporates competition, products and demand. Revenue per active customer, the share of routine transactions, commission schedules and supervision time help locate where labour savings can occur. [12, 53]
+
+### Financial and insurance operations clerks
+
+These employees organise records, verify data, maintain policy and contract information and prepare material for other departments. Many workflows already rely on rules-based systems and data integration. Models can interpret text and documents once converted into fixed fields by hand. Changes in administrative hiring may precede any effect on workers who recommend investments or decide whether to lend.
+
+Concentrating the work on exceptions changes the qualifications required. If a firm hands difficult cases to specialists, apparent savings can rely on a review cost carried by another department. For workers, the availability of paid training for the new responsibilities matters. For employers, corrections, records sent back and end-to-end processing cost show how much labour the whole service uses. The ILO puts statistical, finance and insurance clerks in its highest exposure group. [12]
+
+### Tax return preparers and standardised filing services
+
+A pre-filled tax return makes collecting and entering information cheaper even before introducing generative AI. Brazil's federal revenue service describes how it imports information from returns and other sources. Language tools can help explain fields, flag discrepancies and organise material for less standard cases. Quality depends on checking applicable information and on the responsibility undertaken by the preparer. [54]
+
+Simple services can shift to taxpayers themselves. A practice may spend the freed time on review, planning or resolving filing problems. Earnings depend on how many customers buy those services and how the price changes between data entry and analysis. The share of services customers commission and the frequency of corrections help distinguish genuine simplification from work transferred to the taxpayer.
 
 ### Credit analysts
 
@@ -315,6 +357,12 @@ Acemoglu and Restrepo document adverse local employment and wage effects of high
 Physical automation relies on warehouse layout, predictable products and enough volume to recoup equipment costs. Vision and inventory systems can reduce repetitive checks. Picking heterogeneous orders, handling damage and processing returns require exceptions. An operator may monitor more lines or receive work only when the system cannot finish an order.
 
 Seasonal demand and promised delivery times affect the automation decision. Firms can expand volume, hire fewer temporary workers or set more demanding targets. Hours and accidents per unit handled, seasonal hiring and turnover show how productivity and work intensity change. Robot installation totals describe the equipment stock. Labour outcomes have to be measured inside the operation. [40]
+
+### Freight forwarders and trade documentation clerks
+
+Shipping documents, cargo lists, dispatch instructions and status updates are digital work inside a physical supply chain. Extraction tools can reduce the first round of checking. Unusual cargo, inconsistent documents and delays need contact with operators, assignment of responsibility and correction of records in a live workflow. A throughput measure can attribute to software gains that actually depend on infrastructure or changes in the pace of inspection.
+
+The ILO finds high exposure for its international group covering clearing and forwarding agents. Demand can change first among administrative services selling processing by document. Work on exceptions also depends on trade volume and integration quality. Release times, corrections, cost per operation and hiring by duty distinguish automation from stronger demand or changes in operating rules. [12]
 
 ## The United States, Denmark and Brazil measure different transitions
 
@@ -550,5 +598,8 @@ The evidence cutoff is 16 November 2026. Posting counts, completed tasks, demand
 - [50] Dube and colleagues, [Monopsony in Online Labor Markets](https://www.nber.org/papers/w24416).
 - [51] Brynjolfsson, Rock and Syverson, [The Productivity J-Curve](https://www.nber.org/papers/w25148).
 - [52] Corseuil, Foguel and Gonzaga, [Evidence on Brazilian apprenticeships](https://www.econ.puc-rio.br/en/research/journal-articles/journal-article/?id=3217&tipo=2).
+- [53] BLS, [Securities, commodities and financial services sales agents](https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm).
+- [54] Brazilian Federal Revenue Service, [Pre-filled income tax returns](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/declaracao-pre-preenchida).
+
 
 Related research: [After Accelerationism](https://marginalthinking.org/reports/2026/11/2026-11-02-after-accelerationism-ai-labor-income-power) and [The Age of Disinterest](https://marginalthinking.org/reports/2026/11/2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia).

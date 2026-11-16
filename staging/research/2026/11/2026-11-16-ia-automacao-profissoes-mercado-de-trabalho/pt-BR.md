@@ -87,6 +87,12 @@ Em infraestrutura, assistentes aceleram documentação, consulta de registros e 
 
 Há uma diferença entre pagar por manter capacidade disponível e pagar por ticket. Plantões, redundância e recuperação de incidentes críticos têm demanda mesmo quando pouca coisa acontece. Já uma central contratada por volume pode perder receita ao reduzir contatos simples. Uma mesma ferramenta pode aliviar a carga interna do contratante e pressionar a folha de um fornecedor terceirizado.
 
+### Administradores de bancos de dados
+
+Ferramentas podem redigir consultas, propor documentação e interpretar alertas. Alterar um banco de dados exige avaliar disponibilidade, integridade, versões de sistemas consumidores e custo de recuperação. A proposta de uma operação é uma fração do trabalho quando indisponibilidade ou perda de dados tem custo elevado. Crescer o número de aplicações pode ampliar a demanda por governança, recuperação e capacidade de verificação, mesmo que a manutenção por banco fique mais barata.
+
+O grupo aparece com alta exposição no índice de tarefas da OIT. A matriz do BLS para os Estados Unidos projeta perfis diferentes para administradores e arquitetos de bancos. O cenário de crescimento para arquitetura e estabilidade aproximada para administração sugere verificar como decisões sobre estrutura e integração podem ganhar peso relativo às rotinas de operação. Vagas, complexidade por sistema, tempo de intervenção e cobertura de recuperação são quatro indicadores que captam partes diferentes dessa transição. [12, 17]
+
 ### O aprendizado que vinha embutido na entrega
 
 Revisar um teste, corrigir uma integração simples e seguir o histórico de um defeito são tarefas produtivas e ocasiões de aprender. Uma empresa pode automatizar a execução e reservar ao iniciante a verificação com acompanhamento. Pode também concentrar toda a revisão em quem já conhece o sistema. As duas decisões produzem números de entrega parecidos no trimestre e trajetórias de formação diferentes.
@@ -178,6 +184,12 @@ A IA altera o custo da produção e o caminho pelo qual a reportagem chega ao le
 
 O Pew encontrou menor frequência de cliques em resultados quando a busca trazia um resumo de IA, em amostra de navegação de adultos americanos. A composição das consultas pode afetar a diferença. O Reuters Institute documentou recuo do tráfego orgânico do Google em uma amostra de mais de 2.500 sites com dados da Chartbeat, durante o período estudado, e discutiu outras mudanças de distribuição. A exposição do emprego jornalístico segue dois caminhos. A empresa pode gastar menos para processar material e receber menos para financiá-lo. Para avaliar o saldo, é necessário observar receita por canal, assinaturas e investimento em apuração original. [26, 27]
 
+### Editores de texto e revisores
+
+A correção de gramática e a padronização de estilo ficam mais baratas quando um sistema opera sobre regras documentadas. A edição que verifica fatos, coerência de argumento e responsabilidade pela versão publicada depende de fontes, contexto e julgamento. A publicação de mais material pode ampliar o número de passagens que precisam de verificação, ainda que cada revisão superficial leve menos tempo. Quando uma editora remunera por lauda, a primeira decisão é se o novo preço cobre conferências que nunca fizeram parte de uma revisão rápida.
+
+Autores podem incorporar a ferramenta e terceirizar apenas a fase final. Editoras podem usar a economia para revisar mais títulos ou aceitar maior volume sem ampliar pessoal. Em um ambiente em que textos são gerados rapidamente, o verdadeiro custo pode se tornar encontrar afirmações sem base que parecem naturais. Horas de revisão por entrega, frequência de correções públicas e quantidade de contratos pagos indicam se a edição ganhou capacidade ou foi comprimida. As evidências sobre escrita e freelancing mostram plausibilidade para esses canais, sem oferecer uma contagem específica de empregos de revisores. [5, 6, 23]
+
 ### Analistas de marketing
 
 Ferramentas podem produzir anúncios, personalizar descrições e ajudar clientes a localizar produtos. Um conjunto de experimentos em varejo online encontrou aumentos de venda que variaram de zero a 16,3% conforme o fluxo testado e o que a operação já oferecia. Ganho de conversão em uma plataforma identifica valor para aquele processo. A concorrência entre campanhas, o custo dos anúncios e a capacidade de interpretar resultados determinam quanto desse valor sustenta novas contratações. [28]
@@ -223,6 +235,18 @@ Produzir descrições de vagas, agendar entrevistas e examinar currículos são 
 O efeito sobre o recrutador depende de onde a firma coloca o trabalho economizado. Entrevistas estruturadas, avaliação prática e diálogo com candidatos consomem horas que podem ser reinvestidas. Se a meta é simplesmente processar mais candidaturas com menos gente, o aumento de volume pode dificultar a contestação de exclusões. Taxas de entrevista e contratação por origem, experiência e formação ajudam a verificar qualidade da triagem. O número de currículos processados sozinho favorece o indicador mais fácil de automatizar.
 
 
+### Recepcionistas e atendentes de agenda
+
+Agendar, remarcar e informar disponibilidade são operações que podem aproveitar sistemas de linguagem conectados a calendários e cadastros. A automação anterior já substituía parte do contato por formulários. Um canal capaz de lidar com pedidos escritos ou falados amplia os horários em que o serviço pode receber solicitações. Em hotel, clínica ou escritório, o mesmo cargo também recebe pessoas, reconhece situações urgentes, resolve conflitos entre agendas e presta auxílio presencial. Essas etapas mudam a quantidade de trabalho que pode ser deslocada.
+
+Uma empresa com alto volume de ligações previsíveis pode centralizar o atendimento de várias unidades. Para a recepção que já funciona como apoio presencial, pode haver uma mudança na composição de tarefas. A análise compara no-show, tempo até conseguir horário, agendamentos incorretos, presença de pessoal por turno e tempo gasto no atendimento de exceções. A OIT agrupa diferentes recepções e identifica exposição importante em parte delas. Numa série de emprego, contexto institucional e presença física devem permanecer visíveis. [12, 30]
+
+### Agentes de viagem
+
+O cliente passou a comparar passagens, hospedagem e pacotes em plataformas digitais ainda antes dos modelos generativos. IA reduz o tempo de desenvolver um roteiro que combine datas, orçamento e preferências. Em viagens simples, pode eliminar uma consulta paga. Em viagens empresariais, múltiplos destinos ou situações com cancelamento, o serviço inclui resolver vínculos entre reservas, acionar fornecedores e reorganizar o itinerário em prazo curto. Esse trabalho depende de acesso, autoridade e capacidade de executar a mudança, além de oferecer um plano plausível.
+
+Os modelos também podem ajudar pequenas agências a elaborar propostas e ampliar atendimento. O efeito aparece em taxa de conversão, margem por viagem e volume de propostas aceitas. Para saber se o emprego se concentrou em nichos, vale comparar o preço de consultoria avulsa com a receita de contratos recorrentes e o tempo dedicado a contingências. O índice da OIT identifica exposição nas tarefas de consultores e assistentes de viagem, sem medir o efeito final sobre o número de agentes. [12]
+
 ## Contabilidade, bancos, seguros, direito e consultoria
 
 ### Auxiliares contábeis
@@ -242,6 +266,24 @@ Amostras de auditoria e papéis de trabalho gerados rapidamente liberam espaço 
 Reunir demonstrativos, transplantar tabelas e preparar relatórios comparáveis são tarefas com alto custo de tempo e regras reconhecíveis. Modelos tornam a primeira versão mais rápida e permitem acompanhar mais empresas. Uma análise financeira utilizável exige saber se uma série mudou de definição, se houve consolidação de outra empresa ou se o dado vem de um lançamento não recorrente. Uma projeção bem escrita pode carregar uma premissa errada para várias decisões.
 
 A ampliação de cobertura é uma possível forma de absorver as horas economizadas. A concentração em menos analistas ocorre quando o comprador valoriza a mesma cobertura e mantém o mesmo número de decisões. Posições iniciantes podem receber menos trabalho mecânico e mais responsabilidade de conferir premissas. O setor precisa criar um caminho para que o conhecimento adquirido ao construir modelos manualmente também seja adquirido na validação assistida. Analistas financeiros figuram entre as ocupações de maior exposição no índice da OIT. [12]
+
+### Corretores e operadores de produtos financeiros
+
+Buscas, comparação de produtos, preparação de documentação e comunicação rotineira com clientela podem ser aceleradas. A intermediação financeira já mudava com plataformas digitais, negociação eletrônica e produtos distribuídos a baixo custo. Uma ferramenta de linguagem atua sobre coleta e interpretação inicial de informações e pode mudar as exigências de pessoal para preparar uma transação. O trabalho também inclui lidar com liquidez, preferências do cliente, custos de execução e resolução de exceções.
+
+A OIT inclui corretores e operadores de títulos e finanças em seu grupo de maior exposição. A categoria americana de agentes de vendas de serviços financeiros tem uma projeção de crescimento de 1% até 2035 e delimitação própria. Os indicadores respondem a perguntas distintas. A exposição identifica tarefas e a projeção incorpora competição, estrutura de produtos e demanda. Comparar receita por cliente ativo, parcela de operações de baixa complexidade, comissões e tempo de supervisão ajuda a encontrar o segmento em que as horas se reduzem. [12, 53]
+
+### Auxiliares de operações financeiras e de seguros
+
+Esses trabalhadores organizam registros, conferem dados, mantêm cadastros de contratos e preparam relatórios para outras áreas. Muitas operações já incorporavam regras automatizadas e integração entre sistemas. Modelos podem interpretar textos e documentos que antes precisavam ser convertidos manualmente para uma estrutura fixa. O efeito pode surgir em contratações administrativas antes de alcançar cargos que fazem recomendação de investimento ou decidem crédito.
+
+A concentração do trabalho em conferência de divergências muda a qualificação requerida. Se o empregador transfere exceções para especialistas e registra menor custo por processo, parte da economia pode depender de uma estrutura de revisão que aparece em outro centro de despesa. Para trabalhadores, é importante saber quantos postos oferecem formação para a nova responsabilidade. Para a firma, importa medir ajustes, inconsistências reenviadas e custo de resolver um registro de ponta a ponta. A OIT inclui auxiliares estatísticos, financeiros e de seguros no nível mais alto. [12]
+
+### Preparadores de declarações e serviços fiscais padronizados
+
+Uma declaração pré-preenchida altera o preço de coletar e transcrever informações antes mesmo de qualquer uso de IA generativa. A Receita Federal brasileira descreve importação de informações fornecidas pelo contribuinte e por outras fontes. A mudança tecnológica recente pode ajudar a explicar itens, listar divergências e organizar documentos de casos menos regulares. A qualidade da entrega depende da validação das informações aplicáveis e da responsabilidade assumida pelo prestador. [54]
+
+O serviço mais simples pode se deslocar para o próprio contribuinte. Um escritório pode usar as horas economizadas para cobrar por revisão, planejamento ou resolução de pendências. A renda depende de quantos clientes compram esses serviços e de como o preço se divide entre entrada de dados e análise. Medir a participação de serviços voluntariamente contratados e a incidência de correções ajuda a distinguir simplificação de transferência de trabalho para o usuário.
 
 ### Analistas de crédito
 
@@ -317,6 +359,12 @@ Um armazém depende de layout, previsibilidade de produtos e escala para amortiz
 
 A demanda de fim de ano e a velocidade prometida ao consumidor influenciam a decisão de automatizar. A empresa pode usar a capacidade adicional para ampliar volume, reduzir contratações temporárias ou operar com metas mais altas. Horas e acidentes por unidade processada, admissões sazonais e rotatividade revelam como a mudança se distribui entre produtividade e intensidade do trabalho. Os números de robôs instalados esclarecem a oferta de equipamento. O emprego precisa ser observado na operação. [40]
 
+
+### Despachantes de carga e assistentes de comércio exterior
+
+Documentos de transporte, listas de mercadorias, instruções de expedição e mensagens de atualização são tarefas digitais em cadeias com movimento físico. A extração de dados pode reduzir o tempo gasto em conferência inicial. Cargas excepcionais, divergências documentais e atrasos exigem contato com operadores, identificação de responsabilidades e capacidade de corrigir dados no fluxo. Uma análise que tome liberação de documentos pela quantidade de cargas liberadas pode atribuir à IA ganhos que dependem da infraestrutura ou do ritmo de fiscalização.
+
+A OIT atribui exposição elevada ao grupo internacional de profissionais de desembaraço e expedição. Na prática, a oferta de trabalho pode mudar primeiro em prestadores administrativos que vendem processamento por documento. A demanda por gestão de exceções depende também de volume de comércio e da qualidade da integração. Acompanhar tempo de liberação, correções, custo por operação e contratação por tipo de função oferece uma distinção entre automação, alteração de demanda e mudança nas regras do setor. [12]
 
 ## Estados Unidos, Dinamarca e Brasil medem transições diferentes
 
@@ -551,5 +599,8 @@ O corte da evidência é 16 de novembro de 2026. Percentuais de anúncios, taref
 - [50] Dube e coautores, [Monopsony in Online Labor Markets](https://www.nber.org/papers/w24416).
 - [51] Brynjolfsson, Rock e Syverson, [The Productivity J-Curve](https://www.nber.org/papers/w25148).
 - [52] Corseuil, Foguel e Gonzaga, [aprendizagem profissional no Brasil](https://www.econ.puc-rio.br/en/research/journal-articles/journal-article/?id=3217&tipo=2).
+- [53] BLS, [projeções para agentes de vendas de títulos, commodities e serviços financeiros](https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm).
+- [54] Receita Federal, [declaração pré-preenchida](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/declaracao-pre-preenchida).
+
 
 Pesquisa relacionada: [Depois do aceleracionismo](https://marginalthinking.org/pt-br/reports/2026/11/2026-11-02-after-accelerationism-ai-labor-income-power) e [A era do desinteresse](https://marginalthinking.org/pt-br/reports/2026/11/2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia).
