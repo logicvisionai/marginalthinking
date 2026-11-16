@@ -49,7 +49,7 @@ Programar e colocar software em produção são operações com capacidades dife
 
 A restrição pode mudar de lugar. Se antes a equipe precisava esperar alguém escrever a primeira versão, depois pode depender de quem conhece contratos de dados, consegue priorizar alterações e assume o plantão após a implantação. A pressão por revisar mais depressa tem custo próprio. Em uma empresa que mede apenas código produzido, a ferramenta pode melhorar o indicador premiado enquanto se acumulam verificações em outra equipe. Medidas de tempo até produção, defeitos em uso e esforço de manutenção aproximam a decisão de contratação do que a empresa realmente vende.
 
-O BLS projeta, para 2025–2035 nos Estados Unidos, queda de 7,3% em *computer programmers* e alta de 10,2% em *software developers*. As categorias americanas distinguem conteúdos de trabalho que em muitas equipes brasileiras são anunciados sob títulos parecidos. A projeção incorpora hipóteses sobre vários fatores e reservas de produtividade. Ela serve para enxergar a composição da ocupação, junto aos dados de anúncios do Indeed. O aumento de posições sênior em 2025–2026 merece leitura ao lado da contratação efetiva de iniciantes, de salários de entrada e do tempo até o primeiro emprego. [1, 2, 17]
+O BLS projeta, para 2025–2035 nos Estados Unidos, queda de 7,3% em *computer programmers* e alta de 10,2% em *software developers*. As categorias americanas distinguem conteúdos de trabalho que em muitas equipes brasileiras são anunciados sob títulos parecidos. A projeção incorpora hipóteses sobre mudanças tecnológicas e condições econômicas. Ela serve para enxergar a composição da ocupação, junto aos dados de anúncios do Indeed. O aumento de posições sênior em 2025–2026 merece leitura ao lado da contratação efetiva de iniciantes, de salários de entrada e do tempo até o primeiro emprego. [1, 2, 17]
 
 ```chart
 type: bar
@@ -421,7 +421,7 @@ A tabela usa hipóteses explícitas e unidades de qualidade comparável. Em empr
 
 Uma pessoa que recebia 100 por mês, passa cinco meses sem renda e retorna a um trabalho de 90 tem perda de 570 unidades no primeiro ano, antes de transferências e despesas de procura. A contratação posterior resolve o componente do desemprego e conserva parte da queda salarial. Se a pessoa usou poupança para financiar a espera, a recuperação patrimonial leva mais tempo. Esse exercício é ilustrativo e ajuda a entender por que contabilizar um posto destruído e outro criado não mede bem-estar. O problema se agrava quando moradia, cuidado de familiares ou deslocamento inviabilizam a mudança para a região em que apareceu a oportunidade.
 
-Profissionais recém-formados e trabalhadores mais velhos enfrentam barreiras distintas. O primeiro grupo precisa de experiência reconhecida e pode não ter obtido tempo de contribuição ou poupança. O segundo pode conhecer profundamente uma rotina específica e enfrentar redução salarial ao transferir o capital acumulado para outra função. Idade, experiência e escolaridade não descrevem o mesmo mecanismo. A comparação deve seguir tempo até novo vínculo, diferença salarial após seis ou doze meses e permanência no emprego seguinte. Para trabalhadores por conta própria, mesmo vínculo recuperado significa uma base recorrente de clientes e uma renda líquida comparável ao longo de vários meses.
+Profissionais recém-formados e trabalhadores mais velhos enfrentam barreiras distintas. O primeiro grupo precisa de experiência reconhecida e pode não ter obtido tempo de contribuição ou poupança. O segundo pode conhecer profundamente uma rotina específica e enfrentar redução salarial ao transferir o capital acumulado para outra função. Idade, experiência e escolaridade não descrevem o mesmo mecanismo. A comparação deve seguir tempo até novo vínculo, diferença salarial após seis ou doze meses e permanência no emprego seguinte. Para trabalhadores por conta própria, recuperar a renda significa uma base recorrente de clientes e uma renda líquida comparável ao longo de vários meses.
 
 ### A mesma exposição pode produzir desigualdades diferentes
 
@@ -497,31 +497,31 @@ O que diferencia as trajetórias é o intervalo entre perder uma oportunidade an
 
 ## Fontes e escopo da evidência
 
-O corte da evidência é 16 de novembro de 2026. Percentuais de anúncios, tarefas concluídas, demanda por plataformas, emprego, salário, horas e exposição ocupacional usam denominadores diferentes. As duas projeções setoriais do BLS citadas para design e a matriz de ocupações digitais usam a edição 2025–2035. Explorações de profissões sem estudo direto de emprego apresentam mecanismos condicionais. Estudos de campo permitem estimar efeitos no fluxo e na população testados. Avaliações de contratação no mercado dependem de comparação com tendências e grupos relevantes. Resultados por experiência, idade e senioridade devem preservar suas categorias.
+O corte da evidência é 16 de novembro de 2026. Percentuais de anúncios, tarefas concluídas, demanda por plataformas, emprego, salário, horas e exposição ocupacional usam denominadores diferentes. As projeções do BLS para design e a matriz de ocupações digitais usam a edição 2025–2035. Explorações de profissões sem estudo direto de emprego apresentam mecanismos condicionais. Estudos de campo permitem estimar efeitos no fluxo e na população testados. Avaliações de contratação no mercado dependem de comparação com tendências e grupos relevantes. Resultados por experiência, idade e senioridade devem preservar suas categorias.
 
 - [1] Indeed Hiring Lab, [mercado de trabalho tecnológico nos EUA, terceiro trimestre de 2026](https://hiringlab.indeed.com/2026/11/12/2026-q3-us-tech-labor-market-update/).
 - [2] Indeed Hiring Lab, [mudança na composição dos anúncios de software, julho de 2026](https://hiringlab.indeed.com/2026/07/08/ai-and-job-postings-from-destruction-to-creation/).
 - [3] Brynjolfsson, Chandar e Chen, [Canaries in the Coal Mine?, revisão de agosto de 2026](https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf).
 - [4] Lee C. Tucker, [contratação no início da carreira nas Quarterly Workforce Indicators](https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-27.pdf).
-- [5] Demirci, Hannane e Zhu, [Who Is AI Replacing?](https://doi.org/10.1287/mnsc.2024.05420).
-- [6] Teutloff e coautores, [demanda por competências em plataformas de freelancers](https://doi.org/10.1016/j.jebo.2024.106845).
+- [5] Demirci, Hannane e Zhu, [Who Is AI Replacing?](https://ideas.repec.org/a/inm/ormnsc/v71y2025i10p8097-8108.html).
+- [6] Teutloff e coautores, [demanda por competências em plataformas de freelancers](https://discovery.ucl.ac.uk/id/eprint/10204198/1/1-s2.0-S0167268124004591-main.pdf).
 - [7] Humlum e Vestergaard, [Still Waters, Rapid Currents](https://www.nber.org/papers/w33777).
 - [8] Bonney e coautores, [estimativas do suplemento de IA do Census Bureau](https://www2.census.gov/ces/wp/2026/CES-WP-26-25R.pdf).
 - [9] OIT, [IA, emprego e economias em desenvolvimento, novembro de 2026](https://www.ilo.org/sites/default/files/2026-11/Policy%20Brief_AI%20and%20developing%20economies.pdf).
-- [10] Autor, Levy e Murnane, [The Skill Content of Recent Technological Change](https://doi.org/10.1162/003355303322552801).
-- [11] Acemoglu e Restrepo, [Automation and New Tasks](https://doi.org/10.1257/jep.33.2.3).
+- [10] Autor, Levy e Murnane, [The Skill Content of Recent Technological Change](https://economics.mit.edu/sites/default/files/publications/the%20skill%20content%202003.pdf).
+- [11] Acemoglu e Restrepo, [Automation and New Tasks](https://www.nber.org/papers/w25684).
 - [12] OIT e NASK, [índice global de exposição ocupacional e anexo ISCO-08](https://brasil.un.org/sites/default/files/2025-05/OIT-NASK-IAGen_WP140_web.pdf).
 - [13] Massenkoff e McCrory, [exposição observada nas tarefas de usuários do Claude](https://www.anthropic.com/research/labor-market-impacts).
 - [14] Cui e coautores, [três experimentos de desenvolvimento de software](https://www.microsoft.com/en-us/research/publication/the-effects-of-generative-ai-on-high-skilled-work-evidence-from-three-field-experiments-with-software-developers/).
 - [15] METR, [ensaio de 2025 em projetos de código aberto](https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf) e [atualização de fevereiro de 2026](https://metr.org/blog/2026-02-24-uplift-update/).
 - [16] [Writing Code vs. Shipping Code, NBER](https://www.nber.org/papers/w35275).
 - [17] BLS, [matriz de ocupações 2025–2035](https://www.bls.gov/emp/skills/computers-and-information-technology.htm).
-- [18] BLS, [projeções para designers gráficos](https://www.bls.gov/ooh/arts-and-Design/graphic-Designers.htm).
+- [18] BLS, [projeções para designers gráficos](https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm).
 - [19] Anthropic, [experimento de aprendizagem de programação](https://arxiv.org/abs/2601.20245).
 - [20] CHI 2026, [originalidade, utilidade e alinhamento à marca em design assistido](https://www.microsoft.com/en-us/research/publication/decoupling-of-usefulness-and-novelty-evaluating-the-impact-of-generative-ai-on-design-outputs-and-novice-designers-creative-thinking/).
 - [21] Hui, Reshef e Zhou, [resultados de emprego em uma plataforma online](https://doi.org/10.1287/orsc.2023.18441).
 - [22] SAG-AFTRA, [acordo para jogos](https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement) e [acordo de cinema e televisão de 2026](https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement).
-- [23] Noy e Zhang, [produtividade em tarefas profissionais de escrita](https://doi.org/10.1126/science.adh2586).
+- [23] Noy e Zhang, [produtividade em tarefas profissionais de escrita](https://pubmed.ncbi.nlm.nih.gov/37440646/).
 - [24] [European Language Industry Survey 2026](https://astt.fb06.uni-mainz.de/files/2026/04/ELIS-2026-Report.pdf).
 - [25] BLS, [projeções agregadas para tradutores e intérpretes](https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm).
 - [26] Pew Research Center, [cliques em buscas com resumo de IA](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/).
@@ -533,23 +533,23 @@ O corte da evidência é 16 de novembro de 2026. Percentuais de anúncios, taref
 - [32] Banco Central, [dados do Pix](https://dadosabertos.bcb.gov.br/dataset/pix) e Febraban, [Pesquisa de Tecnologia Bancária 2026](https://cmsarquivos.febraban.org.br/Arquivos/documentos/PDF/Pesquisa%20Febraban%202026.pdf).
 - [33] Magesh e coautores, [confiabilidade de ferramentas de pesquisa jurídica](https://doi.org/10.1111/jels.12413).
 - [34] Schwarcz e coautores, [AI-Powered Lawyering](https://doi.org/10.1177/2755323X261427048).
-- [35] Dell’Acqua e coautores, [Navigating the Jagged Technological Frontier](https://www.hbs.edu/ris/download.aspx?name=24-013.pdf).
+- [35] Dell’Acqua e coautores, [Navigating the Jagged Technological Frontier](https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/).
 - [36] MASAI, [carga de leitura no rastreamento mamográfico](https://pubmed.ncbi.nlm.nih.gov/39904652/) e [câncer de intervalo, sensibilidade e especificidade](https://pubmed.ncbi.nlm.nih.gov/41620232/).
 - [37] [Tutor CoPilot, avaliação experimental](https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise).
-- [38] Acemoglu e Restrepo, [Robots and Jobs](https://doi.org/10.1086/705716).
+- [38] Acemoglu e Restrepo, [Robots and Jobs](https://www.nber.org/papers/w23285).
 - [39] Dauth e coautores, [The Adjustment of Labor Markets to Robots](https://doi.org/10.1093/jeea/jvab012).
 - [40] International Federation of Robotics, [World Robotics 2026](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally).
 - [41] Chandar e Klein Teeselink, [demanda de trabalho em 41 países](https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/).
 - [42] Cetic.br, [TIC Empresas 2025, evolução da adoção](https://cetic.br/pt/noticia/uso-de-inteligencia-artificial-por-empresas-brasileiras-avanca-e-atinge-17-aponta-pesquisa-do-cetic-br/) e [tabela H9](https://cetic.br/pt/tics/pesquisa/2025/empresas/H9/expandido/).
 - [43] Daniel Duque e síntese do mapeamento de Peruchetti, Barbosa Filho e Feijó, [FGV IBRE](https://blogdoibre.fgv.br/node/2289).
 - [44] Scintilla, [pesquisa sobre juventudes brasileiras e IA, p. 21–23](https://scintilla.org.br/publicacoes/ia-mercado-trabalho/).
-- [45] MTE, [microdados RAIS e Caged](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/microdados-rais-e-caged) e [nota técnica sobre o Novo Caged](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/notas-tecnicas/1796-nota-tecnica-sobre-o-novo-caged).
+- [45] MTE, [microdados RAIS e Caged](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/estatisticas-trabalho/microdados-rais-e-caged) e [nota técnica sobre o Novo Caged](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/estatisticas-trabalho/notas-tecnicas/1796-nota-tecnica-sobre-o-novo-caged).
 - [46] MTE, [divulgação do Novo Caged de setembro de 2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/pais-gerou-1-248-mil-empregos-formais-ate-setembro-de-2026).
 - [47] IBGE, [PNAD Contínua trimestral, calendário e microdados](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-pnad-continua.html).
 - [48] Autor, Dorn e Hanson, [The China Syndrome](https://doi.org/10.1257/aer.103.6.2121).
-- [49] Upwork e OpenAI, [mudanças em trabalho freelance, novembro de 2026](https://www.upwork.com/research/ai-how-work-comes-together).
+- [49] Upwork e OpenAI, [mudanças em trabalho freelance, novembro de 2026](https://openai.com/index/ai-effect-on-freelance-work/).
 - [50] Dube e coautores, [Monopsony in Online Labor Markets](https://www.nber.org/papers/w24416).
-- [51] Brynjolfsson, Rock e Syverson, [The Productivity J-Curve](https://doi.org/10.1257/mac.20180386).
+- [51] Brynjolfsson, Rock e Syverson, [The Productivity J-Curve](https://www.nber.org/papers/w25148).
 - [52] Corseuil, Foguel e Gonzaga, [aprendizagem profissional no Brasil](https://www.econ.puc-rio.br/en/research/journal-articles/journal-article/?id=3217&tipo=2).
 
 Pesquisa relacionada: [Depois do aceleracionismo](https://marginalthinking.org/pt-br/reports/2026/11/2026-11-02-after-accelerationism-ai-labor-income-power) e [A era do desinteresse](https://marginalthinking.org/pt-br/reports/2026/11/2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia).

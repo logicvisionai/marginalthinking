@@ -151,7 +151,7 @@ The fee for an initial recording can remain stable even as the number of session
 
 ### Advertising copywriters
 
-Product descriptions, campaign email and ad variations have relatively well-defined deliverables. In a trial involving 453 college-educated professionals, Noy and Zhang found 40% less time spent and 18% higher quality on bounded writing tasks with ChatGPT. A trial can measure the quality of an individual submission. An agency also decides how many versions to buy, how to verify claims and what to budget for brand approval. One commission can turn into a purchase of several drafts and one recognised approval. [23]
+Product descriptions, campaign email and ad variations have relatively well-defined deliverables. In a trial involving 453 college-educated professionals, Noy and Zhang found 40% less time spent and 18% higher quality on bounded writing tasks with ChatGPT. A trial can measure the quality of an individual submission. An agency also decides how many versions to buy, how to verify claims and what to budget for brand approval. One commission can turn into a purchase of several drafts and one approved version. [23]
 
 Pressure may appear in contractor spending before it reaches the advertiser's payroll. Fixed-price writers can retain the gain until the agreement is revised. If variants become part of the same fee, output can rise without a proportional gain for the writer. Changes in sales attributable to the text and net earnings per hour provide more information than word counts.
 
@@ -502,25 +502,25 @@ The evidence cutoff is 16 November 2026. Posting counts, completed tasks, demand
 - [2] Indeed Hiring Lab, [Changes in the composition of software postings, July 2026](https://hiringlab.indeed.com/2026/07/08/ai-and-job-postings-from-destruction-to-creation/).
 - [3] Brynjolfsson, Chandar and Chen, [Canaries in the Coal Mine?, August 2026 revision](https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf).
 - [4] Lee C. Tucker, [Early career hiring in the Quarterly Workforce Indicators](https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-27.pdf).
-- [5] Demirci, Hannane and Zhu, [Who Is AI Replacing?](https://doi.org/10.1287/mnsc.2024.05420).
-- [6] Teutloff and colleagues, [Winners and losers of generative AI](https://doi.org/10.1016/j.jebo.2024.106845).
+- [5] Demirci, Hannane and Zhu, [Who Is AI Replacing?](https://ideas.repec.org/a/inm/ormnsc/v71y2025i10p8097-8108.html).
+- [6] Teutloff and colleagues, [Winners and losers of generative AI](https://discovery.ucl.ac.uk/id/eprint/10204198/1/1-s2.0-S0167268124004591-main.pdf).
 - [7] Humlum and Vestergaard, [Still Waters, Rapid Currents](https://www.nber.org/papers/w33777).
 - [8] Bonney and colleagues, [Census Bureau estimates on the microstructure of AI diffusion](https://www2.census.gov/ces/wp/2026/CES-WP-26-25R.pdf).
 - [9] ILO, [AI, Employment and Developing Economies, November 2026](https://www.ilo.org/sites/default/files/2026-11/Policy%20Brief_AI%20and%20developing%20economies.pdf).
-- [10] Autor, Levy and Murnane, [The Skill Content of Recent Technological Change](https://doi.org/10.1162/003355303322552801).
-- [11] Acemoglu and Restrepo, [Automation and New Tasks](https://doi.org/10.1257/jep.33.2.3).
+- [10] Autor, Levy and Murnane, [The Skill Content of Recent Technological Change](https://economics.mit.edu/sites/default/files/publications/the%20skill%20content%202003.pdf).
+- [11] Acemoglu and Restrepo, [Automation and New Tasks](https://www.nber.org/papers/w25684).
 - [12] ILO and NASK, [global occupational exposure index and ISCO-08 annex](https://brasil.un.org/sites/default/files/2025-05/OIT-NASK-IAGen_WP140_web.pdf).
 - [13] Massenkoff and McCrory, [Observed exposure in work performed by Claude users](https://www.anthropic.com/research/labor-market-impacts).
 - [14] Cui and colleagues, [Three software-developer field experiments](https://www.microsoft.com/en-us/research/publication/the-effects-of-generative-ai-on-high-skilled-work-evidence-from-three-field-experiments-with-software-developers/).
 - [15] METR, [2025 open-source developer experiment](https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf) and [February 2026 follow-up](https://metr.org/blog/2026-02-24-uplift-update/).
 - [16] [Writing Code vs. Shipping Code, NBER](https://www.nber.org/papers/w35275).
 - [17] BLS, [Occupational projections matrix 2025–2035](https://www.bls.gov/emp/skills/computers-and-information-technology.htm).
-- [18] BLS, [Graphic designer employment outlook](https://www.bls.gov/ooh/arts-and-Design/graphic-Designers.htm).
+- [18] BLS, [Graphic designer employment outlook](https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm).
 - [19] Anthropic, [Programming skill formation experiment](https://arxiv.org/abs/2601.20245).
 - [20] CHI 2026, [Novelty, usefulness and brand alignment in assisted design](https://www.microsoft.com/en-us/research/publication/decoupling-of-usefulness-and-novelty-evaluating-the-impact-of-generative-ai-on-design-outputs-and-novice-designers-creative-thinking/).
 - [21] Hui, Reshef and Zhou, [Employment outcomes in an online labour market](https://doi.org/10.1287/orsc.2023.18441).
 - [22] SAG-AFTRA, [Interactive media agreement](https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement) and [2026 film and television agreement](https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement).
-- [23] Noy and Zhang, [Productivity effects in professional writing](https://doi.org/10.1126/science.adh2586).
+- [23] Noy and Zhang, [Productivity effects in professional writing](https://pubmed.ncbi.nlm.nih.gov/37440646/).
 - [24] [European Language Industry Survey 2026](https://astt.fb06.uni-mainz.de/files/2026/04/ELIS-2026-Report.pdf).
 - [25] BLS, [Combined interpreters and translators outlook](https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm).
 - [26] Pew Research Center, [Click behaviour on searches with AI summaries](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/).
@@ -532,23 +532,23 @@ The evidence cutoff is 16 November 2026. Posting counts, completed tasks, demand
 - [32] Central Bank of Brazil, [Pix data](https://dadosabertos.bcb.gov.br/dataset/pix) and Febraban, [Banking Technology Survey 2026](https://cmsarquivos.febraban.org.br/Arquivos/documentos/PDF/Pesquisa%20Febraban%202026.pdf).
 - [33] Magesh and colleagues, [Reliability of AI-assisted legal research](https://doi.org/10.1111/jels.12413).
 - [34] Schwarcz and colleagues, [AI-Powered Lawyering](https://doi.org/10.1177/2755323X261427048).
-- [35] Dell’Acqua and colleagues, [Navigating the Jagged Technological Frontier](https://www.hbs.edu/ris/download.aspx?name=24-013.pdf).
+- [35] Dell’Acqua and colleagues, [Navigating the Jagged Technological Frontier](https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/).
 - [36] MASAI, [Mammography screen-reading workload](https://pubmed.ncbi.nlm.nih.gov/39904652/) and [interval cancer, sensitivity and specificity](https://pubmed.ncbi.nlm.nih.gov/41620232/).
 - [37] [Tutor CoPilot field experiment](https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise).
-- [38] Acemoglu and Restrepo, [Robots and Jobs](https://doi.org/10.1086/705716).
+- [38] Acemoglu and Restrepo, [Robots and Jobs](https://www.nber.org/papers/w23285).
 - [39] Dauth and colleagues, [The Adjustment of Labor Markets to Robots](https://doi.org/10.1093/jeea/jvab012).
 - [40] International Federation of Robotics, [World Robotics 2026](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally).
 - [41] Chandar and Klein Teeselink, [Labour demand in 41 countries](https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/).
 - [42] Cetic.br, [TIC Empresas 2025 adoption data](https://cetic.br/pt/noticia/uso-de-inteligencia-artificial-por-empresas-brasileiras-avanca-e-atinge-17-aponta-pesquisa-do-cetic-br/) and [table H9](https://cetic.br/pt/tics/pesquisa/2025/empresas/H9/expandido/).
 - [43] Daniel Duque and summary of the occupational work by Peruchetti, Barbosa Filho and Feijó, [FGV IBRE](https://blogdoibre.fgv.br/node/2289).
 - [44] Scintilla, [Brazilian youth and AI, pp. 21–23](https://scintilla.org.br/publicacoes/ia-mercado-trabalho/).
-- [45] Brazilian Ministry of Labour and Employment, [RAIS and Caged microdata](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/microdados-rais-e-caged) and [Novo Caged methodology](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/notas-tecnicas/1796-nota-tecnica-sobre-o-novo-caged).
+- [45] Brazilian Ministry of Labour and Employment, [RAIS and Caged microdata](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/estatisticas-trabalho/microdados-rais-e-caged) and [Novo Caged methodology](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/estatisticas-trabalho/notas-tecnicas/1796-nota-tecnica-sobre-o-novo-caged).
 - [46] Brazilian Ministry of Labour and Employment, [September 2026 Novo Caged release](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/pais-gerou-1-248-mil-empregos-formais-ate-setembro-de-2026).
 - [47] IBGE, [PNAD Contínua quarterly calendar and microdata](https://www.ibge.gov.br/estatisticas/sociais/trabalho/9173-pesquisa-nacional-por-amostra-de-domicilios-continua-pnad-continua.html).
 - [48] Autor, Dorn and Hanson, [The China Syndrome](https://doi.org/10.1257/aer.103.6.2121).
-- [49] Upwork and OpenAI, [Changes in freelance work, November 2026](https://www.upwork.com/research/ai-how-work-comes-together).
+- [49] Upwork and OpenAI, [Changes in freelance work, November 2026](https://openai.com/index/ai-effect-on-freelance-work/).
 - [50] Dube and colleagues, [Monopsony in Online Labor Markets](https://www.nber.org/papers/w24416).
-- [51] Brynjolfsson, Rock and Syverson, [The Productivity J-Curve](https://doi.org/10.1257/mac.20180386).
+- [51] Brynjolfsson, Rock and Syverson, [The Productivity J-Curve](https://www.nber.org/papers/w25148).
 - [52] Corseuil, Foguel and Gonzaga, [Evidence on Brazilian apprenticeships](https://www.econ.puc-rio.br/en/research/journal-articles/journal-article/?id=3217&tipo=2).
 
 Related research: [After Accelerationism](https://marginalthinking.org/reports/2026/11/2026-11-02-after-accelerationism-ai-labor-income-power) and [The Age of Disinterest](https://marginalthinking.org/reports/2026/11/2026-11-11-era-do-desinteresse-autonomia-aprendizagem-ia).
