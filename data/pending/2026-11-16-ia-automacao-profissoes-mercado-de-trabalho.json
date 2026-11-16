@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "revision": 1,
+  "id": "MT-ACC-2026-11-16-AI-OCCUPATIONAL-TRANSITION",
+  "slug": "2026-11-16-ia-automacao-profissoes-mercado-de-trabalho",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T09:09:58-03:00",
+  "kind": "accelerationism-systems-research",
+  "priority": 22,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "title": "AI Arrived Before the Labour Market Could Adjust",
+      "deck": "Faster production is changing entry-level hiring, freelance prices and the work through which programmers, designers and other professionals gain experience.",
+      "tags": [
+        "artificial intelligence",
+        "automation",
+        "labour markets",
+        "software",
+        "design",
+        "Brazil"
+      ],
+      "keywords": [
+        "generative AI",
+        "occupational exposure",
+        "junior hiring",
+        "apprenticeship",
+        "freelancing",
+        "professional mobility",
+        "Novo Caged",
+        "productivity"
+      ],
+      "regime": "Uneven task automation and concentrated early-career effects",
+      "key_risk": "A reduction in entry opportunities can precede changes in total employment and earnings.",
+      "watch": [
+        "Junior hires and real starting pay",
+        "Paid freelance work and net hourly earnings",
+        "Output accepted after human review",
+        "Re-employment at comparable pay"
+      ],
+      "markdown": "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/en.md",
+      "search_text": "AI Arrived Before the Labour Market Could Adjust generative AI, occupational exposure, junior hiring, apprenticeship, freelancing, professional mobility, Novo Caged, productivity"
+    },
+    "pt-BR": {
+      "title": "A IA chegou antes da transição do trabalho",
+      "deck": "A produção mais rápida muda a contratação de iniciantes, o preço das encomendas e as tarefas pelas quais programadores, designers e outros profissionais ganham experiência.",
+      "tags": [
+        "inteligência artificial",
+        "automação",
+        "mercado de trabalho",
+        "software",
+        "design",
+        "Brasil"
+      ],
+      "keywords": [
+        "IA generativa",
+        "exposição ocupacional",
+        "contratação júnior",
+        "aprendizagem profissional",
+        "freelancers",
+        "mobilidade ocupacional",
+        "Novo Caged",
+        "produtividade"
+      ],
+      "regime": "Automação desigual de tarefas e efeitos concentrados no início da carreira",
+      "key_risk": "A redução das oportunidades de entrada pode preceder mudanças no emprego total e na renda.",
+      "watch": [
+        "Admissões de iniciantes e salário real de entrada",
+        "Contratos freelance pagos e renda líquida por hora",
+        "Entregas aceitas após revisão humana",
+        "Recolocação com remuneração comparável"
+      ],
+      "markdown": "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/pt-BR.md",
+      "search_text": "A IA chegou antes da transição do trabalho IA generativa, exposição ocupacional, contratação júnior, aprendizagem profissional, freelancers, mobilidade ocupacional, Novo Caged, produtividade"
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "demography-labor",
+    "inequality-distribution",
+    "institutions-governance",
+    "social-change"
+  ],
+  "phenomena": [
+    "social-change",
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "editorial_line": "editorial-accelerationism-systems",
+  "assessment_confidence": "medium",
+  "evidence_cutoff": "2026-11-16",
+  "research_question": "In which occupations and labour markets does the cost of accepted output fall faster than workers can gain experience, find comparable paying work and recover earnings?",
+  "related_research_ids": [
+    "MT-ACC-2026-11-02-AI-LABOR-INCOME",
+    "MT-ACC-2026-11-11-AGE-OF-DISINTEREST"
+  ],
+  "assumptions_and_limits": [
+    "US hiring and same-platform estimates cannot be transferred directly to Brazil. Brazilian figures are published results, with no new linked occupation-series estimates asserted.",
+    "The aggregate, firm, occupation, cohort, platform and experimental units are kept separate. Scenario arithmetic is illustrative."
+  ],
+  "counterfactuals": [
+    "Continued increases in inexperienced hires at comparable pay in exposed jobs, improved unaided skills and recovered net freelance rates would weaken the concentrated entry-loss hypothesis.",
+    "Stable formal youth hiring shares in Brazil, near-zero measured effects in Danish records, and concentrated senior growth rather than outright junior contraction at foreign affiliates qualify the thesis."
+  ],
+  "producer_checks": {
+    "scope": "Bilingual occupation-by-occupation analysis with 52 numbered references per locale, two source-based charts, a geographic comparison, a mechanism flow and evidence tables.",
+    "source_vintage": "November 2026 material includes the ILO brief, software postings, affiliate event study and freelance marketplace study.",
+    "independence": "Staged for the independent editorial QA gate."
+  }
+}
