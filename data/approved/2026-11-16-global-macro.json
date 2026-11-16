@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-16",
+  "slug": "2026-11-16-global-macro",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-16T11:08:01.000Z",
+  "reviewed_commit": "81f3a3bc9c3e21dc5d43a7eda1171909f6214519",
+  "pending_blob_sha": "71dc230a53c5f962c9ac9410eb64fdbf5a3947a9",
+  "source_blob_shas": {
+    "en": "3ba3ec9bb2ad210a43f20998b8b6d1a0de97a345",
+    "pt-BR": "1556eff4ae3286284f31715544659903b1123b23"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "All three file blob hashes read back from main and matched to the Git tree of the exact reviewed commit. No prior current-revision approval, rejection or public bundle."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Strict pipeline validation passed in the checkout; taxonomy, title, sources, canonical ID and strategic competition references match the daily macro contract."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "China NBS and Japan ESRI Monday releases precede 10:55 UTC. Brent’s 09:19 UTC and Asian FX are dated intraday. US Treasury 13 Nov references and Brazil’s releases scheduled after cutoff are separated."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Checked NBS real value-added versus nominal retail and trade; fixed-asset investment uses a year-to-date window. Japan’s rounded quarterly estimate is distinct from the reported annualized result. Checked Cabinet Office expenditure contributions and investment, Treasury maturities, Eurostat, Fed, BLS, Brazilian IPCA and oil readings."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "17 identical reference URLs. Headline measurements traced to NBS/ESRI, Treasury, Eurostat, BLS, FOMC and Finance Ministry data; intraday quotes and APEC meeting expectations attributed to Reuters."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "1,891 English and 2,114 PT-BR substantive words. The six analytical sections connect demand composition to exposure by input, price, currency and credit. Current data are distinct from the previous three editions’ core events."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both charts checked against the official NBS and ESRI tables, with identical signed series, dates and separate units. Evidence table, scenario table, three-stage cross-market mechanisms and four regional map cards are consistent across locales."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Verified same units, signed values, cutoff, sources, causal hypotheses, forecast limits and practical meaning for Brazilian exposure."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Both sources present substantive national and global mechanisms and date the data. No editorial process or tool discussion appears in the articles."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "Rising business investment in Japan and rising Chinese nominal import values constrain a generalized account of Asian demand weakness."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Three conditional scenarios include strengthening and weakening observations. The Brazil section identifies distinct revenue, exchange-rate, working-capital and credit effects."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "Full production-configuration build passed on the staged baseline. Strict pipeline passed across the checkout, and strict depth passed on the target pending item. The full strict depth check reported pre-existing unrelated pending-item failures."
+    }
+  },
+  "contrary_evidence": [
+    "China’s nominal goods imports increased despite weak retail and property investment.",
+    "Japan’s non-residential business investment grew despite declining household consumption.",
+    "Cheaper crude in dollars may bring limited relief in reais when the dollar appreciates."
+  ],
+  "limitations": [
+    "Japan’s GDP release is preliminary and the quarterly headline rounds to negative zero.",
+    "China’s retail and trade series are nominal and the industrial value-added figures are real. The fixed-asset investment window is January through October.",
+    "Market readings are intraday and gathered at different times. No Brazilian market close, new Focus or IBC-Br outcome is used.",
+    "The saved QA task ran inline in the publication-request conversation as a distinct review pass against exact Git blobs. The review does not represent a separate human reviewer or a separate execution session."
+  ],
+  "notes": "Editorial QA run inline with the saved QA task. Approval applies to this immutable snapshot and the three verified Git blob hashes.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-16",
+    "slug": "2026-11-16-global-macro",
+    "date": "2026-11-16",
+    "published_at": "2026-11-16T07:55:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "trade-investment",
+      "industry-production"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 1,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "2026-11-16 07:55 BRT / 10:55 UTC. The 16 Nov currency and energy observations are intraday and US Treasury yields are dated 13 Nov.",
+      "novelty": "First Japanese Q3 GDP estimate and China’s October activity release; compares investment and consumption, then separates trade exposure from local-currency input costs and financing.",
+      "bilingual_parity": "Same 17 source URLs and chart data in both locales.",
+      "visual_evidence": "Two explicit quantitative charts sourced to China NBS and Japan ESRI, two evidence/scenario tables, a causal flow and a regional exposure map."
+    },
+    "limitations": [
+      "Japan’s GDP release is preliminary and the quarterly headline rounds to negative zero.",
+      "China’s retail and trade series are nominal and the industrial value-added figures are real. The fixed-asset investment window is January through October.",
+      "Market readings are intraday and gathered at different times. No Brazilian market close, new Focus or IBC-Br outcome is used."
+    ],
+    "contrary_evidence": [
+      "China’s nominal goods imports increased despite weak retail and property investment.",
+      "Japan’s non-residential business investment grew despite declining household consumption.",
+      "Cheaper crude in dollars may bring limited relief in reais when the dollar appreciates."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-16-global-macro/en.md",
+        "title": "Global Macro — China’s factories expand, Japanese consumption falls and the dollar raises adjustment costs",
+        "deck": "October’s Chinese data show strength in advanced manufacturing and weak retail growth. In Japan, business investment rose as household spending fell.",
+        "tags": [
+          "Global Macro",
+          "China industry",
+          "Japan GDP",
+          "US dollar",
+          "Brazil"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-16",
+          "16 November 2026",
+          "China October retail sales",
+          "Japan third-quarter GDP"
+        ],
+        "regime": "Concentrated industrial growth and weakening consumption alongside expensive dollar funding.",
+        "key_risk": "Trade, commodity and credit effects diverge as supplier exposure and funding terms vary.",
+        "watch": [
+          "Chinese steel output and iron ore volumes",
+          "Japanese wages and consumption",
+          "FOMC minutes and private borrowing spreads",
+          "Brazil’s Focus survey and IBC-Br"
+        ],
+        "search_text": "16 November 2026 Global Macro China Japan GDP industrial activity dollar Brazil euro area energy"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-16-global-macro/pt-BR.md",
+        "title": "Global Macro — A indústria chinesa avança, o consumo japonês recua e o dólar encarece o ajuste",
+        "deck": "Os dados de outubro mostram força na indústria chinesa de alta tecnologia e pouco avanço no varejo. No Japão, as empresas investiram mais enquanto o consumo caiu.",
+        "tags": [
+          "Global Macro",
+          "Indústria chinesa",
+          "PIB japonês",
+          "Dólar",
+          "Brasil"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-16",
+          "16 de novembro de 2026",
+          "Varejo chinês em outubro",
+          "PIB japonês do terceiro trimestre"
+        ],
+        "regime": "Crescimento industrial concentrado e consumo mais fraco com financiamento em dólar caro.",
+        "key_risk": "Os efeitos sobre exportações, matérias-primas e crédito variam com a exposição comercial e o custo de captação.",
+        "watch": [
+          "Produção chinesa de aço e volumes de minério",
+          "Salários e consumo no Japão",
+          "Ata do FOMC e spreads privados",
+          "Focus e IBC-Br"
+        ],
+        "search_text": "16 novembro 2026 Global Macro China Japão PIB indústria dólar Brasil zona do euro energia"
+      }
+    }
+  }
+}
