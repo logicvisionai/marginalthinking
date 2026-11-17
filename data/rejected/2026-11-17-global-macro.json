@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-17",
+  "slug": "2026-11-17-global-macro",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-17T07:44:00Z",
+  "reviewed_commit": "ffbd67bfa8b6befe382745cc994df58dd6820e21",
+  "pending_blob_sha": "5b641d5a2724e055da88f9125da1ad0d2b664885",
+  "source_blob_shas": {
+    "en": "e17457bbeaa37c442028880e38f2aeed0d5c2c3c",
+    "pt-BR": "48757fe56eae8460d0c8b21fedd721b43d081f7c"
+  },
+  "issues": [
+    {
+      "severity": "material",
+      "code": "SOURCE_DATE_CONTRADICTION",
+      "paths": [
+        "staging/research/2026/11/2026-11-17-global-macro/en.md",
+        "staging/research/2026/11/2026-11-17-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "EN opening paragraph and section 4, final paragraph of section 6",
+        "PT-BR opening paragraph and section 4, final paragraph of section 6"
+      ],
+      "evidence": "Both editions assert that final October euro-area HICP is scheduled for Tuesday 17 November 2026. Eurostat's cited original 4 November 2026 flash estimate explicitly states: 'The next release with full data for October 2026 is scheduled for 18 November 2026.' 18 November is Wednesday.",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+      "required_correction": "Correct the date and weekday consistently in both editions and the immediate-watch chronology. Recheck all scheduled-event times against original release calendars before resubmitting."
+    }
+  ],
+  "checks": {
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "Material calendar contradiction independently verified against the report's own Eurostat primary source."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Incorrect dated event timing appears repeatedly in both editions."
+    },
+    "visual_evidence_readiness": {
+      "result": "not_completed",
+      "summary": "Visual presence inspected; numeric reproducibility and full validation not completed."
+    },
+    "research_depth": {
+      "result": "not_completed",
+      "summary": "Automated depth validator not executed."
+    },
+    "translation_check": {
+      "result": "partial",
+      "summary": "Both locales repeat the same date error."
+    }
+  },
+  "notes": "Rejection on a verified material factual error; other claims are not certified. Do not approve until corrected and full validation is completed."
+}
