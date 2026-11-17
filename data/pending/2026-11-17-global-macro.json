@@ -35,13 +35,14 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "17 Nov 01:30 BRT / 04:30 UTC. Market figures are from 16 Nov. Nvidia results, Eurostat final HICP and Fed minutes are scheduled, not observed.",
     "novelty": "Adds the US/Asia equity close, Monday’s Treasury curve and energy repricing, euro-area industrial production, and the IBC-Br and Focus data released after the previous edition’s cutoff.",
     "bilingual_parity": "Both editions use the same 14 sources, chart values, periods, hypotheses and falsifiers.",
-    "visual_evidence": "Two sourced charts, market/Focus/scenario tables, a regional exposure map and two conditional financing mechanisms."
+    "visual_evidence": "Two sourced charts, market/Focus/scenario tables, a regional exposure map and two conditional financing mechanisms.",
+    "qa_rework": "Revision 2 corrects October euro-area full HICP publication to Wednesday 18 November 2026 in both locales, per Eurostat flash estimate 4 November; other factual and visual checks remain for independent QA."
   },
   "limitations": [
     "Equity returns refer to local sessions with different closing times and structures.",
