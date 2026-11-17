@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {unescapeMarkup} from './lib/markup.mjs';
 import {collectReports,availableLocales} from './lib/reports.mjs';
 
 const root=process.cwd(),out=path.join(root,'dist');
@@ -17,7 +18,7 @@ const institutionalSocialPath=locale=>`/assets/og/marginal-thinking-${localeSlug
 const contentAttr=(html,kind,key)=>html.match(new RegExp(`<meta\\s+${kind}="${key}"\\s+content="([^"]*)"`,'i'))?.[1]||'';
 const sitemap=fs.existsSync(path.join(out,'sitemap.xml'))?fs.readFileSync(path.join(out,'sitemap.xml'),'utf8'):'';
 const htmlTitle=html=>html.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||'';
-const normalizeEntities=s=>String(s||'').replace(/&amp;/g,'&').replace(/&#39;/g,"'").replace(/&quot;/g,'"').trim();
+const normalizeEntities=s=>unescapeMarkup(s).trim();
 
 
 for(const item of reports)for(const locale of availableLocales(item).filter(l=>cfg.locales[l])){
@@ -38,9 +39,9 @@ for(const [route,byLocale] of Object.entries(seoOverrides.pages||{}))for(const [
   if(!cfg.locales[locale])continue;
   const file=fileForUrl(pagePath(locale,route));if(!fs.existsSync(file)){fail.push(`SEO override page missing: ${locale} ${route}`);continue;}
   const html=fs.readFileSync(file,'utf8'),title=normalizeEntities(htmlTitle(html)),description=normalizeEntities(contentAttr(html,'name','description'));
-  if(title!==expected.title)fail.push(`${locale}${route}: SEO override title mismatch (${title})`);
+  if(expected.title&&title!==expected.title)fail.push(`${locale}${route}: SEO override title mismatch (${title})`);
   if(description!==expected.description)fail.push(`${locale}${route}: SEO override description mismatch`);
-  if(normalizeEntities(contentAttr(html,'property','og:title'))!==expected.title)fail.push(`${locale}${route}: og:title does not match SEO override`);
+  if(expected.title&&normalizeEntities(contentAttr(html,'property','og:title'))!==expected.title)fail.push(`${locale}${route}: og:title does not match SEO override`);
   if(normalizeEntities(contentAttr(html,'property','og:description'))!==expected.description)fail.push(`${locale}${route}: og:description does not match SEO override`);
 }
 for(const [id,byLocale] of Object.entries(seoOverrides.reports||{})){

@@ -1,4 +1,6 @@
 export const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+const markupEntities={'&amp;':'&','&lt;':'<','&gt;':'>','&quot;':'"','&#39;':"'",'&apos;':"'",'&nbsp;':'\u00a0'};
+export const unescapeMarkup=s=>String(s??'').replace(/&(?:amp|lt|gt|quot|apos|nbsp|#39);/g,entity=>markupEntities[entity]);
 export const slug=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,100)||'item';
 const href=raw=>/^(https?:\/\/|mailto:|\/|\.\/|\.\.\/|#)/i.test(String(raw).trim())?esc(String(raw).trim()):'#';
 const tok=(prefix,i)=>`\u0000${prefix}${i}\u0000`;

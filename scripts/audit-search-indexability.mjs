@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {unescapeMarkup} from './lib/markup.mjs';
 
 const importantRoutes = [
   '/', '/pt-br/', '/about', '/what-is-marginal-thinking/',
@@ -23,7 +24,7 @@ export function auditSearchIndexability({dist,siteUrl,importantPages=importantRo
   if(!fs.existsSync(sitemap))return {errors:['sitemap.xml missing'],checked:0};
   const urls=Array.from(fs.readFileSync(sitemap,'utf8').matchAll(/<loc>([^<]+)<\/loc>/g),m=>m[1].replace(/&amp;/g,'&'));
   if(!urls.length)errors.push('sitemap is empty');
-  const pages=new Map();
+  const pages=new Map(),descriptions=new Map();
   for(const u of urls){
     if(pages.has(u)){errors.push('duplicate sitemap URL: '+u);continue;}
     let url;
@@ -35,6 +36,17 @@ export function auditSearchIndexability({dist,siteUrl,importantPages=importantRo
     if(!fs.existsSync(f)){errors.push('missing HTML for sitemap URL: '+u);continue;}
     const html=fs.readFileSync(f,'utf8');const c=canonical(html);
     if(c.length!==1||c[0]!==u)errors.push('canonical mismatch: '+u+' -> '+c.join(','));
+    const head=html.split(/<\/head\s*>/i,1)[0];
+    const descriptionTags=tags(head,'meta').filter(tag=>attr(tag,'name').toLowerCase()==='description');
+    const description=unescapeMarkup(attr(descriptionTags[0]||'','content')).trim();
+    if(descriptionTags.length!==1||!description){
+      errors.push('expected one non-empty meta description: '+u);
+    }else{
+      const key=description.normalize('NFC').replace(/\s+/g,' ').toLowerCase();
+      const previous=descriptions.get(key);
+      if(previous)errors.push('duplicate meta description: '+u+' -> '+previous);
+      else descriptions.set(key,u);
+    }
     if(/(?:^|[,\s])noindex(?:[,\s]|$)/.test(robots(html)))errors.push('noindex page in sitemap: '+u);
     const lang=attr(html.match(/<html\b[^>]*>/i)?.[0]||'','lang').toLowerCase();
     if(lang!==localizedLang(url.pathname))errors.push('html lang mismatch: '+u+' ('+lang+')');

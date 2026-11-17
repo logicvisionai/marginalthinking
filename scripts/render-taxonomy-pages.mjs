@@ -108,7 +108,14 @@ function countryHubPage(locale,c){
   })():`<section class="country-dossier-feature is-coverage"><div class="country-dossier-kicker">${locale==='pt-BR'?'COBERTURA CONTEXTUAL':'CONTEXTUAL COVERAGE'}</div><h2>${locale==='pt-BR'?'Dossiê estrutural ainda não publicado':'Structural dossier not yet published'}</h2><p>${locale==='pt-BR'?'Este país aparece em pesquisas canônicas, mas ainda não possui um dossiê de país dedicado.':'This country appears in canonical research but does not yet have a dedicated country dossier.'}</p></section>`;
   const topicChips=topics.slice(0,10).map(id=>`<span>${esc(label(taxonomy.topics?.[id],locale,id))}</span>`).join('');
   const description=dossier?(bestView(dossier,locale).view.deck||''):(locale==='pt-BR'?('Pesquisas da Marginal Thinking relacionadas a '+name+'.'):('Marginal Thinking research related to '+name+'.'));
-  return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${head(locale,name,description,pagePath(locale,canonical))}</head><body>${L.nav('geography',alts)}<main>
+  const pt=locale==='pt-BR';
+  const coverage=topics.slice(0,3).map(id=>label(taxonomy.topics?.[id],locale,id).toLocaleLowerCase(locale));
+  const focus=new Intl.ListFormat(locale).format(coverage);
+  const scope=pt?(dossier?'Dossiê e pesquisas':'Pesquisas'):(dossier?'Country dossier and research':'Country research');
+  const metaDescription=focus
+    ? (pt?`${name} — ${scope} sobre ${focus}.`:`${name} — ${scope} on ${focus}.`)
+    : `${name} — ${scope}.`;
+  return `<!doctype html><html lang="${esc(L.loc.lang)}"><head>${head(locale,name,metaDescription,pagePath(locale,canonical))}</head><body>${L.nav('geography',alts)}<main>
     <section class="page-hero country-hero"><div class="container"><div class="country-hero-meta"><span class="atlas-country-code large">${esc(c.code)}</span><span>${regionLinks}</span></div><h1>${esc(name)}</h1><p>${esc(description)}</p><div class="country-hero-stats"><span><strong>${items.length}</strong> ${locale==='pt-BR'?(items.length===1?'publicação':'publicações'):(items.length===1?'publication':'publications')}</span><span><strong>${dossier?'1':'0'}</strong> ${locale==='pt-BR'?'dossiê estrutural':'structural dossier'}</span></div></div></section>
     <section class="section country-hub"><div class="container"><div class="country-hub-grid"><div>${dossierBlock}</div><aside class="country-context-panel"><div class="eyebrow">${locale==='pt-BR'?'EIXOS DE COBERTURA':'COVERAGE AXES'}</div><div class="country-topic-chips">${topicChips}</div></aside></div>
     <div class="country-research-archive"><div class="atlas-section-head"><div><div class="eyebrow">CORPUS</div><h2>${locale==='pt-BR'?'Pesquisa relacionada':'Related research'}</h2><p>${locale==='pt-BR'?'Publicações canônicas em que o país é material para a análise.':'Canonical publications where the country is material to the analysis.'}</p></div></div><div class="research-list">${items.map(x=>card(x,locale)).join('')}</div></div>

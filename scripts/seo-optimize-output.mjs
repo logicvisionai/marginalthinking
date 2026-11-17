@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
+import {esc as escHtml,unescapeMarkup} from './lib/markup.mjs';
 import {collectReports,reportView,availableLocales} from './lib/reports.mjs';
 
 const root=process.cwd();
@@ -16,7 +17,6 @@ const locales=Object.keys(cfg.locales||{});
 const pagePath=(locale,p)=>{const prefix=cfg.locales[locale]?.path?`/${cfg.locales[locale].path}`:'';return `${prefix}${p}`.replace(/\/+/g,'/');};
 const reportPath=(item,locale)=>pagePath(locale,item.url);
 const fileForUrl=u=>path.join(out,String(u).replace(/^\//,'').replace(/\/$/,'/index.html'));
-const escHtml=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const escXml=escHtml;
 const rxEsc=s=>String(s).replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
 const label=(obj,locale,fallback)=>obj?.[locale]||obj?.en||fallback;
@@ -60,7 +60,7 @@ async function writePng(file,svg){fs.mkdirSync(path.dirname(file),{recursive:tru
 function setMeta(html,key,value,kind='name'){
   const pattern=new RegExp(`<meta\\s+${kind}="${rxEsc(key)}"\\s+content="[^"]*"\\s*>`,'i');
   const tag=`<meta ${kind}="${key}" content="${escHtml(value)}">`;
-  return pattern.test(html)?html.replace(pattern,tag):html.replace('</head>',`${tag}</head>`);
+  return pattern.test(html)?html.replace(pattern,()=>tag):html.replace('</head>',`${tag}</head>`);
 }
 function contentAttr(html,kind,key){return html.match(new RegExp(`<meta\\s+${kind}="${rxEsc(key)}"\\s+content="([^"]*)"`,'i'))?.[1]||'';}
 function updatePageJsonLd(html,title,description){
@@ -119,7 +119,9 @@ async function optimizeInstitutionalPages(){
     const locale=rel.startsWith('pt-br/')?'pt-BR':'en';if(!cfg.locales[locale])continue;
     let html=fs.readFileSync(file,'utf8');if(!/property="og:type"\s+content="website"/i.test(html))continue;
     const route=canonicalRouteFromRel(rel),override=pageOverride(route,locale),imageUrl=cardByLocale[locale],alt=locale==='pt-BR'?'Marginal Thinking — pesquisa independente':'Marginal Thinking — independent research';
-    const existingDescription=contentAttr(html,'name','description')||institutionalDescription(locale),description=seoDescription(override?.description||existingDescription);
+    const existingDescription=unescapeMarkup(contentAttr(html,'name','description')).trim();
+    const socialDescription=unescapeMarkup(contentAttr(html,'property','og:description')).trim();
+    const description=seoDescription(override?.description||existingDescription||socialDescription||institutionalDescription(locale));
     const existingTitle=titleText(html),title=seoTitle(override?.title||existingTitle||cfg.site_name);
     if(override?.title)html=html.replace(/<title>[\s\S]*?<\/title>/i,`<title>${escHtml(title)}</title>`);
     html=setMeta(html,'description',description,'name');

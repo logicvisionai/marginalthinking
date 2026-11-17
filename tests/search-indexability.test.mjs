@@ -18,10 +18,12 @@ function fixture(options={}){
     const other=base+(p===en?pt:en);
     const links='<link rel="alternate" hreflang="en" href="'+(options.nonreciprocal&&p===pt?self:base+en)+'">'+
       '<link rel="alternate" hreflang="pt-BR" href="'+(base+pt)+'">';
+    const description=p===en||options.duplicate?'Economic research &amp; analysis':'Pesquisas e análises econômicas';
+    const metaDescription=options.noDescription&&p===pt?'':'<meta name="description" content="'+description+'">';
     const html='<html lang="'+(options.lang&&p===pt?'en':p===en?'en':'pt-BR')+'"><head>'+
       '<link rel="canonical" href="'+(options.wrong&&p===en?other:self)+'">'+
       '<meta name="robots" content="'+(options.noindex&&p===en?'noindex,follow':'index,follow')+'">'+
-      links+'</head><body><h1>Research</h1></body></html>';
+      links+metaDescription+'</head><body><h1>Research</h1></body></html>';
     fs.writeFileSync(f,html);
   }
   const sitemap='<urlset><url><loc>'+base+en+'</loc></url><url><loc>'+base+pt+'</loc></url></urlset>';
@@ -30,6 +32,8 @@ function fixture(options={}){
 }
 
 test('valid bilingual canonical pages pass',()=>assert.equal(fixture(),''));
+test('sitemap pages require a meta description',()=>assert.match(fixture({noDescription:true}),/one non-empty meta description/));
+test('sitemap descriptions must be unique',()=>assert.match(fixture({duplicate:true}),/duplicate meta description/));
 test('sitemap cannot include noindex',()=>assert.match(fixture({noindex:true}),/noindex/));
 test('sitemap cannot include non-self canonical',()=>assert.match(fixture({wrong:true}),/canonical mismatch/));
 test('sitemap cannot reference missing HTML',()=>assert.match(fixture({missing:true}),/missing HTML/));

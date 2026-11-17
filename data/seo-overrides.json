@@ -91,6 +91,262 @@
         "title": "Atlas Global de Controle de Recursos | Direitos e Capacidade",
         "description": "Mapeie o controle de recursos críticos em reservas, produção, logística e tecnologia, separando propriedade, direitos operacionais e controle efetivo."
       }
+    },
+    "/research/global-system-power/": {
+      "en": {
+        "description": "Research on how states, alliances and international institutions exercise power through diplomacy, security, trade and strategic resources."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre como Estados, alianças e instituições internacionais exercem poder por meio da diplomacia, da segurança, do comércio e dos recursos."
+      }
+    },
+    "/research/political-economy-markets/": {
+      "en": {
+        "description": "Research on how fiscal and monetary policy, banks and investors transmit changes in inflation, interest rates and credit to the real economy."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre como política fiscal e monetária, bancos e investidores transmitem mudanças na inflação, nos juros e no crédito à economia real."
+      }
+    },
+    "/research/strategic-transitions/": {
+      "en": {
+        "description": "Research on how countries and industries adapt to changes in energy systems, infrastructure, security and access to critical inputs."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre como países e indústrias se adaptam a mudanças na energia, na infraestrutura, na segurança e no acesso a insumos críticos."
+      }
+    },
+    "/research/technology-production-society/": {
+      "en": {
+        "description": "Research on how automation, artificial intelligence and industrial technologies reshape production, work and income distribution."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre como automação, inteligência artificial e tecnologias industriais mudam a produção, o trabalho e a distribuição de renda."
+      }
+    },
+    "/regions/africa/": {
+      "en": {
+        "description": "African country dossiers and research on mineral supply chains, trade corridors, public institutions and external financing."
+      },
+      "pt-BR": {
+        "description": "Dossiês de países africanos e pesquisas sobre cadeias minerais, corredores comerciais, instituições públicas e financiamento externo."
+      }
+    },
+    "/regions/americas/": {
+      "en": {
+        "description": "Research on the Americas covering economic policy, trade, investment, industrial capacity and regional integration."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre as Américas, com análises de política econômica, comércio, investimento, capacidade industrial e integração regional."
+      }
+    },
+    "/regions/asia-pacific/": {
+      "en": {
+        "description": "Asia-Pacific country dossiers and research on industrial supply chains, technology, external trade and the transmission of monetary policy."
+      },
+      "pt-BR": {
+        "description": "Dossiês da Ásia-Pacífico e pesquisas sobre cadeias industriais, tecnologia, comércio exterior e transmissão da política monetária."
+      }
+    },
+    "/regions/europe/": {
+      "en": {
+        "description": "Research and country dossiers on European institutions, industry, energy security, monetary policy and defence commitments."
+      },
+      "pt-BR": {
+        "description": "Pesquisas e dossiês sobre instituições europeias, indústria, segurança energética, política monetária e compromissos de defesa."
+      }
+    },
+    "/regions/middle-east/": {
+      "en": {
+        "description": "Middle East country dossiers and research on oil and gas markets, shipping routes, sovereign investment and regional security."
+      },
+      "pt-BR": {
+        "description": "Dossiês do Oriente Médio e pesquisas sobre petróleo e gás, rotas marítimas, investimento soberano e segurança regional."
+      }
+    },
+    "/regions/central-asia-caucasus/": {
+      "en": {
+        "description": "Research on Central Asia and the Caucasus covering energy supply, trade corridors and ties to neighbouring economies."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre Ásia Central e Cáucaso, com análises de oferta de energia, corredores comerciais e vínculos com economias vizinhas."
+      }
+    },
+    "/topics/macroeconomics/": {
+      "en": {
+        "description": "Research on economic growth, inflation, employment and demand, with analyses of how shocks propagate across countries and markets."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre crescimento econômico, inflação, emprego e demanda, com análises de como choques se propagam entre países e mercados."
+      }
+    },
+    "/topics/fiscal-policy/": {
+      "en": {
+        "description": "Research on budgets, taxation and public spending, including how fiscal choices affect demand, investment and public debt."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre orçamento, tributação e gasto público, incluindo como decisões fiscais afetam demanda, investimento e dívida pública."
+      }
+    },
+    "/topics/monetary-policy/": {
+      "en": {
+        "description": "Research on central bank decisions, policy rates and balance sheets, and how they affect credit, exchange rates and financial conditions."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre decisões de bancos centrais, juros e balanços, e como essas medidas afetam o crédito, o câmbio e as condições financeiras."
+      }
+    },
+    "/topics/sovereign-debt/": {
+      "en": {
+        "description": "Research on sovereign borrowing costs, debt sustainability, refinancing risk and how institutions restructure public debt."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre custo do endividamento soberano, sustentabilidade da dívida, risco de refinanciamento e instituições envolvidas em renegociações."
+      }
+    },
+    "/topics/capital-markets/": {
+      "en": {
+        "description": "Research on stocks, bonds and institutional investors, including how yields, valuation and capital flows affect companies and governments."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre ações, títulos e investidores institucionais, incluindo como juros, preços e fluxos de capital afetam empresas e governos."
+      }
+    },
+    "/topics/banking-credit/": {
+      "en": {
+        "description": "Research on bank funding, lending conditions and credit risk, and how bank balance sheets affect households and businesses."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre captação bancária, condições de empréstimo, risco de crédito e efeitos dos balanços dos bancos sobre famílias e empresas."
+      }
+    },
+    "/topics/trade-investment/": {
+      "en": {
+        "description": "Research on trade, tariffs, foreign direct investment and how firms reorganise production and access to markets across borders."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre comércio internacional, tarifas, investimento direto estrangeiro e como as empresas reorganizam a produção e o acesso a mercados."
+      }
+    },
+    "/topics/industry-production/": {
+      "en": {
+        "description": "Research on industrial capacity, manufacturing costs, supply chains and the policies and investment that shape production."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre capacidade industrial, custos de fabricação, cadeias de suprimentos e as políticas e investimentos que moldam a produção."
+      }
+    },
+    "/topics/technology-innovation/": {
+      "en": {
+        "description": "Research on technological adoption and innovation in artificial intelligence, semiconductors, automation and digital infrastructure."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre adoção tecnológica e inovação em inteligência artificial, semicondutores, automação e infraestrutura digital."
+      }
+    },
+    "/topics/commodities-resources/": {
+      "en": {
+        "description": "Research on commodity production, inventories and trade, including supply concentration and risks around substituting critical resources."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre produção, estoques e comércio de commodities, incluindo concentração da oferta e dificuldades de substituir recursos críticos."
+      }
+    },
+    "/topics/infrastructure-logistics/": {
+      "en": {
+        "description": "Research on ports, shipping lanes, transport networks and bottlenecks that affect supply chains, costs and market access."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre portos, rotas marítimas, redes de transporte e gargalos de infraestrutura que afetam custos e acesso a mercados."
+      }
+    },
+    "/topics/institutions-governance/": {
+      "en": {
+        "description": "Research on how public institutions, laws and corporate governance shape policy implementation, investment and accountability."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre como instituições públicas, leis e governança corporativa influenciam a execução de políticas e as decisões de investimento."
+      }
+    },
+    "/topics/geopolitics-security/": {
+      "en": {
+        "description": "Research on alliances, geopolitical rivalries, sanctions and how conflict disrupts trade, energy, institutions and societies."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre alianças, rivalidades geopolíticas, sanções econômicas e efeitos de conflitos sobre comércio, energia, instituições e sociedades."
+      }
+    },
+    "/topics/demography-labor/": {
+      "en": {
+        "description": "Research on population change, ageing, migration and labour markets, and how shifts in the workforce shape growth and public policy."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre população, envelhecimento, migração e mercado de trabalho, com análises dos efeitos sobre crescimento e políticas públicas."
+      }
+    },
+    "/topics/inequality-distribution/": {
+      "en": {
+        "description": "Research on the distribution of income, wealth and opportunity, including how tax, employment and asset ownership shape inequality."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre distribuição de renda, riqueza e oportunidades, incluindo como impostos, emprego e propriedade de ativos afetam a desigualdade."
+      }
+    },
+    "/topics/social-change/": {
+      "en": {
+        "description": "Research on how political participation, social organisation and behaviour change alongside technology, institutions and the economy."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre mudanças na organização social, na participação política e no comportamento, em relação com tecnologia, instituições e economia."
+      }
+    },
+    "/topics/climate-environment/": {
+      "en": {
+        "description": "Research on climate and the environment, including how energy transitions, resource use and physical risks affect economies."
+      },
+      "pt-BR": {
+        "description": "Pesquisas sobre clima e meio ambiente, incluindo os efeitos da transição energética, do uso de recursos e dos riscos físicos sobre as economias."
+      }
+    },
+    "/actors/": {
+      "en": {
+        "description": "Compare how asset managers, sovereign funds, commodity traders and central banks exercise influence through capital, ownership and logistics."
+      },
+      "pt-BR": {
+        "description": "Compare como gestoras, fundos soberanos, tradings e bancos centrais exercem influência por meio do capital, da propriedade e da logística."
+      }
+    },
+    "/actors/blackrock/": {
+      "en": {
+        "description": "BlackRock profile on its influence through delegated asset allocation, shareholder voting and financial technology."
+      },
+      "pt-BR": {
+        "description": "Perfil da BlackRock e de sua influência por meio da gestão delegada de ativos, do voto de acionistas e da tecnologia financeira."
+      }
+    },
+    "/actors/asml/": {
+      "en": {
+        "description": "ASML profile on its role in advanced chipmaking, specialised lithography equipment and Dutch export licensing."
+      },
+      "pt-BR": {
+        "description": "Perfil da ASML e de seu papel na fabricação de chips avançados, nos equipamentos de litografia e no licenciamento holandês de exportações."
+      }
+    },
+    "/dependencies/": {
+      "en": {
+        "description": "Map links between critical resources, industrial inputs, technology and transport routes, with evidence on alternatives to existing suppliers."
+      },
+      "pt-BR": {
+        "description": "Mapa das conexões entre recursos estratégicos, insumos industriais, tecnologia e rotas de transporte, com evidências sobre alternativas de fornecimento."
+      }
+    },
+    "/data/global-conditions-monitor/": {
+      "en": {
+        "description": "Historical observations on global output, trade, energy and shipping, with dates, primary sources and methodological notes."
+      },
+      "pt-BR": {
+        "description": "Observações históricas sobre produção, comércio, energia e transporte marítimo, com datas, fontes primárias e notas metodológicas."
+      }
     }
   },
   "reports": {
