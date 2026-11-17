@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-17",
+  "slug": "2026-11-17-global-macro",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T01:30:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "energy",
+    "industry-production"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "producer_checks": {
+    "information_cutoff": "17 Nov 01:30 BRT / 04:30 UTC. Market figures are from 16 Nov. Nvidia results, Eurostat final HICP and Fed minutes are scheduled, not observed.",
+    "novelty": "Adds the US/Asia equity close, Monday’s Treasury curve and energy repricing, euro-area industrial production, and the IBC-Br and Focus data released after the previous edition’s cutoff.",
+    "bilingual_parity": "Both editions use the same 14 sources, chart values, periods, hypotheses and falsifiers.",
+    "visual_evidence": "Two sourced charts, market/Focus/scenario tables, a regional exposure map and two conditional financing mechanisms."
+  },
+  "limitations": [
+    "Equity returns refer to local sessions with different closing times and structures.",
+    "Treasury yields do not identify movements in private credit spreads or the term premium.",
+    "Focus responses precede the IBC-Br release and the monthly/quarterly activity measures are not the IBGE GDP series.",
+    "October euro-area inflation is a flash estimate at the cutoff."
+  ],
+  "contrary_evidence": [
+    "US Treasury yields fell while stocks fell, limiting an explanation based on rising sovereign rates that day.",
+    "Quarterly Brazilian activity weakened while its year-on-year comparison remained positive.",
+    "Euro-area industry rose on the month but contracted year on year."
+  ],
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-17-global-macro/en.md",
+      "title": "Global Macro — Chip stocks slide as Brazil’s activity weakens and inflation expectations rise",
+      "deck": "US chip stocks fell 5.3% even as Treasury yields eased. In Brazil, the IBC-Br contracted in the third quarter and the Focus survey’s 2027 inflation median reached 5.00%.",
+      "tags": [
+        "Global Macro",
+        "Semiconductors",
+        "Treasury yields",
+        "Brazil",
+        "Focus"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-17",
+        "17 November 2026",
+        "Focus November 2026",
+        "IBC-Br third-quarter activity"
+      ],
+      "regime": "Pressure on technology valuations despite a small decline in US sovereign yields, alongside softer Brazilian activity and higher inflation expectations.",
+      "key_risk": "Tighter private financing and exchange-rate pass-through could offset lower sovereign yields and crude prices.",
+      "watch": [
+        "Nvidia’s realized revenue and outlook",
+        "Euro-area final HICP components",
+        "FOMC minutes",
+        "Brazil services inflation and lending terms"
+      ],
+      "search_text": "17 November 2026 Global Macro semiconductors Treasury Focus IBC-Br Brazil Eurostat oil"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-17-global-macro/pt-BR.md",
+      "title": "Global Macro — Ações de chips recuam enquanto o Brasil perde ritmo e a inflação esperada sobe",
+      "deck": "As ações americanas de semicondutores caíram 5,3% mesmo com o recuo dos juros dos Treasuries. No Brasil, o IBC-Br caiu no trimestre e o Focus indicou IPCA de 5,00% para 2027.",
+      "tags": [
+        "Global Macro",
+        "Semicondutores",
+        "Juros dos Treasuries",
+        "Brasil",
+        "Focus"
+      ],
+      "keywords": [
+        "MT-GM-2026-11-17",
+        "17 de novembro de 2026",
+        "Focus de novembro de 2026",
+        "IBC-Br do terceiro trimestre"
+      ],
+      "regime": "Pressão sobre as ações de tecnologia com leve queda de juros soberanos nos EUA, atividade brasileira mais fraca e inflação esperada mais alta.",
+      "key_risk": "Crédito privado mais caro e repasse cambial podem limitar o alívio de juros soberanos e petróleo mais baixos.",
+      "watch": [
+        "Receita realizada e projeções da Nvidia",
+        "Componentes da inflação definitiva na zona do euro",
+        "Ata do FOMC",
+        "Inflação de serviços e condições de crédito no Brasil"
+      ],
+      "search_text": "17 novembro 2026 Global Macro semicondutores Treasuries Focus IBC-Br Brasil Eurostat petróleo"
+    }
+  }
+}
