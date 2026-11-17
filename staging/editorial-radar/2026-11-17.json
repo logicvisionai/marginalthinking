@@ -1,0 +1,369 @@
+{
+  "date": "2026-11-17",
+  "timezone": "America/Sao_Paulo",
+  "registry_version": "2026-11-13T10:27:55.512Z",
+  "reviewed_active_count": 63,
+  "reviewed_assets": [
+    {
+      "id": "series-energy-materials-industrial-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "series-global-monetary-financial-institutions",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "series-policy-experiments-institutional-transitions",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "global-dependency-network",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "structural-opportunity-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "strategic-actors",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "resource-control-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "policy-case-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "technology-signal-ledger",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "country-region-navigation",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "research-workspace",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "global-search",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "research-intelligence",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "evergreen-research-hubs",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "data-catalog",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "mcp",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "program-global-system-power",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "program-political-economy-markets",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "program-strategic-transitions",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "program-technology-production-society",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-global-macro-daily",
+      "decision": "updated",
+      "note": "Existing MT-GM-2026-11-17 revised for documented Eurostat date error; awaiting independent QA."
+    },
+    {
+      "id": "editorial-wealth-flow-weekly",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-strategic-transitions",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-country-context",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-technology-signals-weekly",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-strategic-technology-monthly",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-strategic-actors",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-global-monetary-daily",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-institutional-decisions",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-policy-case-studies",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "series-economic-paradigms-market-design",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-economic-paradigms-market-design",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "system-status",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "research-coverage",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "agent-discovery",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-wealth-power-monthly",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-wealth-power-annual",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-global-institution-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-regional-integration-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-technology-society-essays",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-food-systems-development",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-biosecurity-livestock-governance",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-major-power-conflict",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-pandemic-preparedness",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "global-conditions-observations",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-historical-intellectual-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-energy-industrial-systems-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-political-economy-election-assessment",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-resource-sovereignty-geopolitics",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-energy-security-binational-digital",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-strategic-global-trade-corridors",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-strategic-resource-stocks-security",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-historical-civilizations-political-economy",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-accelerationism-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-historical-strategic-security",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-structural-economic-outlook",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-strategic-security-resilience",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-historical-soft-power-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-historical-monetary-stabilization",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-regional-geoeconomic-integration-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    },
+    {
+      "id": "editorial-brazil-semiconductor-industrialization",
+      "decision": "deferred_evidence_gap",
+      "note": "Line reviewed against registry; no independently verified material new event established in this pass. This is not a claim of exhaustive source coverage."
+    }
+  ],
+  "priority_topics_reviewed": [
+    "food systems nutrition development",
+    "pesticides",
+    "livestock management",
+    "antimicrobial resistance",
+    "pandemic viruses bacteria",
+    "public health",
+    "chemical biological safety",
+    "arms governance",
+    "conditional war scenarios",
+    "social transformation",
+    "monetary institutions",
+    "technology and society"
+  ],
+  "source_evidence": [
+    {
+      "institution": "Eurostat",
+      "date": "2026-11-04",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+      "finding": "October HICP flash 4.0%; final full data scheduled 18 November; this is not a new completed data release."
+    },
+    {
+      "institution": "Eurostat",
+      "date": "2026-11-16",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-16112026-ap",
+      "finding": "Euro-area September industrial production +0.2% month on month and -1.5% year on year."
+    },
+    {
+      "institution": "Banco Central do Brasil",
+      "date": "2026-11-13",
+      "url": "https://www.bcb.gov.br/content/focus/focus/R20261113.pdf",
+      "finding": "Focus expectation observations dated 13 November; not realized inflation."
+    },
+    {
+      "institution": "IEA",
+      "date": "2026-11",
+      "url": "https://www.iea.org/reports/oil-market-report-november-2026",
+      "finding": "Oil supply estimates, not commissioned infrastructure."
+    }
+  ],
+  "additional_article": "none; evidence threshold not met",
+  "limitations": [
+    "No current primary surveillance dataset verified for antimicrobial resistance, pesticide exposure or livestock pathogens.",
+    "No independently verified new conflict escalation or chemical/biological security event established.",
+    "Existing Global Macro remains under independent QA after correction."
+  ]
+}
