@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-11-18",
   "slug": "2026-11-18-global-macro",
   "date": "2026-11-18",
-  "published_at": "2026-11-18T04:56:00-03:00",
+  "published_at": "2026-11-18T16:20:00-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -39,73 +39,95 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "producer_checks": {
-    "information_cutoff": "2026-11-18 04:56 BRT; market close 17 November, Commission forecast released 17 November.",
-    "novelty": "New European Commission Autumn 2026 forecast versus Spring 2026 with 2027 inflation +0.8 percentage points; broad US equity retreat on 17 November and Gulf oil price divergence.",
-    "bilingual_parity": "Two matching quantitative charts, table of forecast revisions, market return chart, causal flow, regional map and scenario matrix.",
-    "visual_evidence": "Two quantitative bar charts, evidence tables, causal flow and regional map with matching data in EN/PT."
+    "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian regular closes refer to 17 Nov. Eurostat and ONS official October inflation releases published 18 Nov are observed. FOMC minutes and Brazil's PLP 299 votes remain pending at cutoff.",
+    "novelty": "Adds Eurostat full October HICP with energy revision to 21.0% and component contributions, UK October CPI and CPIH, RBA November minutes, Nvidia's reported fiscal quarter, Anthropic's 17 Nov S-1/A commitments and offering structure, and US retail/import-price/industrial-production releases.",
+    "qa_rework": "Revision 2 addresses independent QA rejection of revision 1 for both editions being below 1700 substantive words. Each version now exceeds 3000 substantive words after removing visual fences and source URLs.",
+    "evidence_vintage": "Commission autumn and spring forecast figures are forecasts. Eurostat HICP and ONS CPI are observed official October releases. Anthropic S-1/A is an issuer filing with observed nine-month results and prospective multi-year commitments. RBA minutes describe the 3 November vote. Market closes are dated 17 November. Brazilian fiscal results remain prospective.",
+    "bilingual_parity": "Same 19 source URLs, 11 analytical sections, quantitative series, dates, causal tests and qualifications in English and Brazilian Portuguese.",
+    "visual_evidence": "Matching charts for forecast revisions and US equity returns, full inflation-contribution table, US economic releases table, causal flow, regional map and scenario matrix."
   },
   "limitations": [
-    "No same-cutoff comparable international private-credit spreads or fund flows.",
-    "Commission projections are not observed economic outcomes.",
-    "Treasury curve requires dated verification; no unverified numerical yield inserted."
+    "The information cutoff is 18 Nov 16:20 BRT and the US and Brazilian equity closes refer to 17 Nov.",
+    "The European Commission 2026–2028 forecasts and Nvidia's next-quarter guidance are projections, while October Eurostat/ONS figures are observed outcomes.",
+    "Anthropic's $900.9 billion figure comprises multi-year contractual commitments with different forms and maturities. It is not a single-year cash outlay or market capitalization.",
+    "Market index moves do not identify capital flows or private spreads without dedicated issuance and lending data.",
+    "Brazilian fiscal vote and October FOMC minutes are prospective at the information cutoff."
   ],
   "sources": {
     "en": {
       "markdown": "staging/research/2026/11/2026-11-18-global-macro/en.md",
-      "title": "Global Macro — Europe’s energy-inflation trap meets a broad equity retreat",
-      "deck": "The European Commission raises its 2027 euro-area inflation projection to 3.1% while US equity losses broaden and Gulf energy routes remain exposed.",
+      "title": "Global Macro — European energy inflation persists as AI capital commitments expand",
+      "deck": "Eurostat confirms 4.0% euro-area inflation in October. Anthropic's filing details long-term AI computing commitments, while US data signal cost and demand tension.",
       "tags": [
         "Global Macro",
-        "Europe",
-        "Inflation",
-        "Energy",
+        "Euro area",
+        "Energy inflation",
+        "AI infrastructure",
         "Credit"
       ],
       "keywords": [
         "18 November 2026",
-        "European Commission autumn forecast",
-        "Euro area inflation 2027",
-        "US equities"
+        "Eurostat October 2026 HICP",
+        "Anthropic IPO 2026",
+        "Nvidia third quarter fiscal 2027",
+        "US import prices"
       ],
-      "regime": "Persistent supply-driven inflation alongside fragile equity and credit valuations.",
-      "key_risk": "Energy and fiscal persistence restrict the room for financing relief.",
+      "regime": "Persistent European energy inflation and rising AI infrastructure commitments amid mixed US demand and financing signals.",
+      "key_risk": "Energy costs and multi-year investment liabilities may outlast the corresponding revenue and financing capacity.",
       "watch": [
-        "Eurostat final HICP",
-        "FOMC minutes",
-        "US credit spreads",
-        "Delivered energy costs"
+        "October FOMC minutes",
+        "Brazil PLP 299/2026 vote",
+        "Euro-area sovereign and private spreads",
+        "Delivered energy costs",
+        "AI buyer cash generation"
       ],
-      "search_text": "Global Macro 18 November 2026 Europe energy inflation fiscal credit equity"
+      "search_text": "Global Macro 18 November 2026 Eurostat final October inflation UK CPI Anthropic SEC Nvidia European Commission energy AI finance"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md",
-      "title": "Global Macro — A armadilha de inflação energética europeia encontra uma queda ampla das bolsas",
-      "deck": "A Comissão Europeia eleva a projeção de inflação de 2027 para 3,1% enquanto a queda das bolsas americanas se amplia e rotas energéticas permanecem expostas.",
+      "title": "Global Macro — Inflação energética persiste na Europa enquanto a IA amplia compromissos de capital",
+      "deck": "Eurostat confirma inflação de 4,0% na zona do euro em outubro. Prospecto da Anthropic detalha compromissos de computação, enquanto indicadores americanos mostram tensão entre custos e demanda.",
       "tags": [
         "Global Macro",
-        "Europa",
-        "Inflação",
-        "Energia",
+        "Zona do euro",
+        "Inflação energética",
+        "Infraestrutura de IA",
         "Crédito"
       ],
       "keywords": [
         "18 novembro 2026",
-        "Comissão Europeia projeções outono",
-        "Inflação zona do euro 2027",
-        "Bolsas americanas"
+        "Eurostat inflação outubro 2026",
+        "Anthropic IPO 2026",
+        "Nvidia terceiro trimestre fiscal 2027",
+        "preços de importação EUA"
       ],
-      "regime": "Inflação persistente de oferta e fragilidade de avaliações financeiras.",
-      "key_risk": "Custos de energia e pressões fiscais restringem o alívio do financiamento.",
+      "regime": "Inflação energética europeia persistente e compromissos elevados em infraestrutura de IA, com sinais mistos de demanda e financiamento nos EUA.",
+      "key_risk": "Custos de energia e obrigações plurianuais de investimento podem avançar mais que a receita e a capacidade de financiamento.",
       "watch": [
-        "HICP definitivo Eurostat",
-        "Ata FOMC",
-        "Spreads americanos",
-        "Custos de energia entregue"
+        "Ata do FOMC de outubro",
+        "Votação do PLP 299/2026",
+        "Spreads soberanos e privados europeus",
+        "Custos de energia entregue",
+        "Geração de caixa dos compradores de IA"
       ],
-      "search_text": "Global Macro 18 novembro 2026 Europa inflação energia fiscal crédito bolsas"
+      "search_text": "Global Macro 18 novembro 2026 Eurostat inflação definitiva outubro Reino Unido CPI Anthropic SEC Nvidia Comissão Europeia energia IA financiamento"
     }
-  }
+  },
+  "revision_reason": "Revised after independent QA rejection for insufficient depth in both locales. Adds the full 18 November Eurostat HICP release, ONS UK inflation, RBA minutes, Nvidia fiscal results, Anthropic's SEC filing, Brazilian fiscal agenda and official US retail/import-price/industrial-production releases.",
+  "qa_fixes_applied": [
+    "Expanded both staged editions beyond the 1700 substantive-word minimum with source-supported original analysis.",
+    "Retained and checked bilingual parity of all chart numeric series and updated the analysis to the 18 November information cutoff.",
+    "Replaced outdated forward-looking Eurostat phrasing with final October HICP and revised energy component; kept FOMC minutes and Brazilian fiscal vote as pending at cutoff.",
+    "Added quantitative stock-versus-flow and multi-year contractual-commitment analysis for the AI infrastructure cycle."
+  ],
+  "contrary_evidence": [
+    "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",
+    "US manufacturing output rose 0.3% despite a 0.4% fall in aggregate industrial production.",
+    "The RBA recorded a divided six-to-three decision, evidencing uncertainty about optimal restrictive policy.",
+    "UK unemployment declined in a rolling-quarter survey while provisional payroll employment weakened.",
+    "US sovereign yields eased while multiple equity indexes fell."
+  ]
 }
