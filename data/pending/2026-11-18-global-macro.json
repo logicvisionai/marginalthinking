@@ -39,12 +39,12 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian regular closes refer to 17 Nov. Eurostat and ONS official October inflation releases published 18 Nov are observed. FOMC minutes and Brazil's PLP 299 votes remain pending at cutoff.",
     "novelty": "Adds Eurostat full October HICP with energy revision to 21.0% and component contributions, UK October CPI and CPIH, RBA November minutes, Nvidia's reported fiscal quarter, Anthropic's 17 Nov S-1/A commitments and offering structure, and US retail/import-price/industrial-production releases.",
-    "qa_rework": "Revision 2 addresses independent QA rejection of revision 1 for both editions being below 1700 substantive words. Each version now exceeds 3000 substantive words after removing visual fences and source URLs.",
+    "qa_rework": "Revision 3 corrects the independent QA rejection of revision 2 for information-cutoff chronology and EN/PT-BR parity. Both editions now describe the full October Eurostat HICP as observed before the 16:20 BRT cutoff.",
     "evidence_vintage": "Commission autumn and spring forecast figures are forecasts. Eurostat HICP and ONS CPI are observed official October releases. Anthropic S-1/A is an issuer filing with observed nine-month results and prospective multi-year commitments. RBA minutes describe the 3 November vote. Market closes are dated 17 November. Brazilian fiscal results remain prospective.",
     "bilingual_parity": "Same 19 source URLs, 11 analytical sections, quantitative series, dates, causal tests and qualifications in English and Brazilian Portuguese.",
     "visual_evidence": "Matching charts for forecast revisions and US equity returns, full inflation-contribution table, US economic releases table, causal flow, regional map and scenario matrix."
@@ -116,12 +116,13 @@
       "search_text": "Global Macro 18 novembro 2026 Eurostat inflação definitiva outubro Reino Unido CPI Anthropic SEC Nvidia Comissão Europeia energia IA financiamento"
     }
   },
-  "revision_reason": "Revised after independent QA rejection for insufficient depth in both locales. Adds the full 18 November Eurostat HICP release, ONS UK inflation, RBA minutes, Nvidia fiscal results, Anthropic's SEC filing, Brazilian fiscal agenda and official US retail/import-price/industrial-production releases.",
+  "revision_reason": "Corrected a material cutoff chronology contradiction in English identified by independent QA of revision 2, preserving the 18 November 16:20 Brasília cutoff and observed final HICP status.",
   "qa_fixes_applied": [
     "Expanded both staged editions beyond the 1700 substantive-word minimum with source-supported original analysis.",
     "Retained and checked bilingual parity of all chart numeric series and updated the analysis to the 18 November information cutoff.",
     "Replaced outdated forward-looking Eurostat phrasing with final October HICP and revised energy component; kept FOMC minutes and Brazilian fiscal vote as pending at cutoff.",
-    "Added quantitative stock-versus-flow and multi-year contractual-commitment analysis for the AI infrastructure cycle."
+    "Added quantitative stock-versus-flow and multi-year contractual-commitment analysis for the AI infrastructure cycle.",
+    "Revision 3: replaced the stale English statement that final October HICP was still future with the observed final 21.0% energy rate versus the 20.8% flash rate; aligned the matching Portuguese paragraph."
   ],
   "contrary_evidence": [
     "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",

@@ -27,7 +27,7 @@ Projeção da primavera de 2026 | 2.3
 Projeção do outono de 2026 | 3.1
 ```
 
-A Comissão relaciona a inflação a combustíveis, frete, seguros, gargalos de refino e transmissão aos alimentos. Segundo a instituição, a inflação de energia ficou próxima de 21% em outubro e a dos alimentos não processados chegou a aproximadamente 4%. Isso não significa que a conta energética de toda família tenha subido 21%: contratos, tributos e cestas nacionais diferem. A leitura completa do Eurostat confirmou posteriormente **21,0%** para o componente energia, ante **20,8%** na estimativa preliminar. [1][9]
+A Comissão relaciona a inflação a combustíveis, frete, seguros, gargalos de refino e transmissão aos alimentos. Segundo a instituição, a inflação de energia ficou próxima de 21% em outubro e a dos alimentos não processados chegou a aproximadamente 4%. Isso não significa que a conta energética de toda família tenha subido 21%: contratos, tributos e cestas nacionais diferem. A divulgação completa do Eurostat em 18 de novembro confirmou **21,0%** de inflação anual no componente energia, ante **20,8%** na estimativa preliminar de 4 de novembro. [1][9]
 
 ## 2. O financiamento ultrapassa as fronteiras do euro
 

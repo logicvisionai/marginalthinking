@@ -27,7 +27,7 @@ Spring 2026 forecast | 2.3
 Autumn 2026 forecast | 3.1
 ```
 
-The Commission associates the inflation outlook with energy costs, freight and insurance, refining bottlenecks and food-price transmission. It reports that energy inflation reached almost 21% year on year in October and that unprocessed food inflation was around 4%. These are not equivalent to a measured 21% rise in every household's energy bill: baskets, contract structures and national pricing differ. The October HICP complete release was still scheduled for later on 18 November at the information cutoff. [1]
+The Commission associates the inflation outlook with energy costs, freight and insurance, refining bottlenecks and food-price transmission. It reports that energy inflation reached almost 21% year on year in October and that unprocessed food inflation was around 4%. These are not equivalent to a measured 21% rise in every household's energy bill: baskets, contract structures and national pricing differ. Eurostat's complete 18 November release confirmed **21.0%** annual inflation in the energy component, compared with **20.8%** in the 4 November flash estimate. [1][9]
 
 ## 2. The financing chain reaches beyond the euro
 
