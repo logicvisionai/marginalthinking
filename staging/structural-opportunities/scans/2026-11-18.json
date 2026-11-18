@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-18",
+  "timezone": "America/Sao_Paulo",
+  "idempotency_key": "structural-opportunities:2026-11-18",
+  "scan_status": "completed_limited_evidence",
+  "primary_sources": [
+    {
+      "institution": "European Commission",
+      "date": "2026-11-17",
+      "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en",
+      "finding": "Energy and financing constraints plus capital-equipment export opportunity, projections rather than realized investment."
+    }
+  ],
+  "dimensions_reviewed": [
+    "infrastructure",
+    "energy",
+    "regulation",
+    "logistics",
+    "productivity",
+    "access to capital",
+    "production",
+    "institutions"
+  ],
+  "hypotheses": [
+    {
+      "subject": "Euro-area grid, industrial electrification and energy efficiency",
+      "perspective": "industrial energy users and infrastructure suppliers",
+      "condition": "Commission forecasts elevated energy prices and weak residential investment while exports of power/cooling equipment grow",
+      "mechanism": "Delivered energy costs and constrained financing may increase demand for efficiency and grid investment; not proof of funded project pipeline",
+      "state": "unclassified_candidate_only",
+      "trigger": "Verified procurement, disbursement, regulatory implementation and completed grid capacity",
+      "invalidation": "Sustained delivered-price normalization without corresponding investment demand",
+      "confidence": "low",
+      "source_urls": [
+        "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en"
+      ]
+    }
+  ],
+  "new_candidates": [],
+  "reason_no_candidates": "No project-level primary proof of new committed and accessible capital, commissioned infrastructure, or implemented regulatory change in this limited scan.",
+  "canonical_atlas_modified": false
+}

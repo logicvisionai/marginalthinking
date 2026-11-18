@@ -1,0 +1,346 @@
+{
+  "date": "2026-11-18",
+  "timezone": "America/Sao_Paulo",
+  "registry_version": "2026-11-13T10:27:55.512Z",
+  "reviewed_active_count": 63,
+  "reviewed_assets": [
+    {
+      "id": "series-energy-materials-industrial-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "series-global-monetary-financial-institutions",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "series-policy-experiments-institutional-transitions",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "global-dependency-network",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "structural-opportunity-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "strategic-actors",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "resource-control-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "policy-case-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "technology-signal-ledger",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "country-region-navigation",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "research-workspace",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "global-search",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "research-intelligence",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "evergreen-research-hubs",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "data-catalog",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "mcp",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "program-global-system-power",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "program-political-economy-markets",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "program-strategic-transitions",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "program-technology-production-society",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-global-macro-daily",
+      "decision": "updated",
+      "note": "MT-GM-2026-11-18 staged with fresh European Commission 17 November projections and US 17 November market close; pending independent QA."
+    },
+    {
+      "id": "editorial-wealth-flow-weekly",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-strategic-transitions",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-country-context",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-technology-signals-weekly",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-strategic-technology-monthly",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-strategic-actors",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-global-monetary-daily",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-institutional-decisions",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-policy-case-studies",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "series-economic-paradigms-market-design",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-economic-paradigms-market-design",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "system-status",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "research-coverage",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "agent-discovery",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-wealth-power-monthly",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-wealth-power-annual",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-global-institution-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-regional-integration-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-technology-society-essays",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-food-systems-development",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-biosecurity-livestock-governance",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-major-power-conflict",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-pandemic-preparedness",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "global-conditions-observations",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-historical-intellectual-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-energy-industrial-systems-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-political-economy-election-assessment",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-resource-sovereignty-geopolitics",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-energy-security-binational-digital",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-strategic-global-trade-corridors",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-strategic-resource-stocks-security",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-historical-civilizations-political-economy",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-accelerationism-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-historical-strategic-security",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-structural-economic-outlook",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-strategic-security-resilience",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-historical-soft-power-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-historical-monetary-stabilization",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-regional-geoeconomic-integration-research",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    },
+    {
+      "id": "editorial-brazil-semiconductor-industrialization",
+      "decision": "deferred_evidence_gap",
+      "note": "Registry line reconciled; no separately verified incremental primary evidence supporting another article in this limited run. No exhaustive investigation claimed."
+    }
+  ],
+  "primary_source_screen": [
+    {
+      "institution": "European Commission",
+      "published": "2026-11-17",
+      "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en",
+      "finding": "Autumn forecast: euro-area 2027 inflation 3.1%, GDP growth 1.2%; food, energy and public-finance exposure; material to macro and food-price transmission."
+    },
+    {
+      "institution": "European Commission",
+      "published": "2026-05-21",
+      "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/spring-2026-economic-forecast-slowdown-growth-energy-shock-drives-inflation_en",
+      "finding": "Spring baseline 2027 euro-area inflation 2.3%, enabling verified 0.8 percentage-point revision."
+    }
+  ],
+  "specific_gaps": [
+    "No verified same-date primary AMR surveillance update or pesticide-exposure series.",
+    "No primary evidence sufficient to substantiate a new pandemic or biosecurity claim.",
+    "No new independently verified livestock disease surveillance change.",
+    "No verified new treaty implementation or conflict-related weapon-governance change."
+  ],
+  "additional_thematic_article": null,
+  "decision": "No extra thematic article; evidence overlaps with daily macro or lacks primary incremental verification.",
+  "limitations": "Registry-wide reconciliation is operational coverage, not exhaustive primary-source investigation for each active line."
+}
