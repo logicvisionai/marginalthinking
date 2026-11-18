@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-18",
+  "slug": "2026-11-18-global-macro",
+  "revision": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-18T08:35:00Z",
+  "reviewed_commit": "b350fc50dcd6c308e05fd0b5ff2ddef833c5ab71",
+  "pending_blob_sha": "e6397c73ae124f337c43fd6bcc380839fbcd5fc5",
+  "source_blob_shas": {
+    "en": "0938d0b47cea6eb463fae5ce0bc9234dcaf0170f",
+    "pt-BR": "063044a0995d07b514e0175b3767234e26cffbe9"
+  },
+  "issues": [
+    {
+      "severity": "material",
+      "code": "EDITORIAL_DEPTH_BELOW_MINIMUM",
+      "paths": [
+        "staging/research/2026/11/2026-11-18-global-macro/en.md",
+        "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "Both complete staged editions, sections 1–6"
+      ],
+      "evidence": "scripts/validate-editorial-depth.mjs requires at least 1700 substantive words for daily research (minWords=isWeekly?2200:1700). Both complete staged editions contain fewer than 1500 whitespace-delimited words even before stripping fenced visual blocks and URLs; therefore both necessarily fail the 1700-substantive-word threshold.",
+      "required_correction": "Expand both editions with source-supported original analysis to at least 1700 substantive words each after stripping fenced blocks and URLs. Deepen comparison of spring/autumn forecast assumptions, country-level financing channels, historical context and measurable falsification tests. Maintain equivalent EN/PT-BR evidence and re-run MT_VALIDATE_ALL_PENDING=1 node scripts/validate-editorial-depth.mjs and node scripts/validate-pipeline.mjs before resubmission."
+    }
+  ],
+  "checks": {
+    "research_depth": {
+      "result": "failed",
+      "summary": "Both languages demonstrably below 1700 substantive words; threshold confirmed from repository validator source."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Mandatory depth gate fails; no approval possible."
+    },
+    "visual_evidence_readiness": {
+      "result": "not_completed",
+      "summary": "Two chart blocks, a flow and a map observed in both languages; independent numeric source verification and visual validator not completed."
+    },
+    "factual_methodology": {
+      "result": "not_completed",
+      "summary": "Primary-source verification not completed."
+    },
+    "translation_check": {
+      "result": "partial",
+      "summary": "Charts and main numeric comparisons match on inspection; full bilingual parity not certified."
+    },
+    "pipeline_validation": {
+      "result": "not_run",
+      "summary": "Local Git clone blocked by DNS; no claim of executed validation."
+    }
+  },
+  "notes": "Independent QA rejection for proven deterministic depth failure. No publication authorization; remaining gates require fresh review on changed source SHAs."
+}
