@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-11-17",
   "slug": "2026-11-17-global-macro",
   "date": "2026-11-17",
-  "published_at": "2026-11-17T01:30:00-03:00",
+  "published_at": "2026-11-17T21:30:00-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -28,87 +28,95 @@
     "macroeconomics",
     "monetary-policy",
     "capital-markets",
-    "banking-credit",
     "currencies",
     "energy",
-    "industry-production"
+    "industry-production",
+    "geopolitics-security"
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "producer_checks": {
-    "information_cutoff": "17 Nov 01:30 BRT / 04:30 UTC. Market figures are from 16 Nov. Nvidia results, Eurostat final HICP and Fed minutes are scheduled, not observed.",
-    "novelty": "Adds the US/Asia equity close, Monday’s Treasury curve and energy repricing, euro-area industrial production, and the IBC-Br and Focus data released after the previous edition’s cutoff.",
-    "bilingual_parity": "Both editions use the same 14 sources, chart values, periods, hypotheses and falsifiers.",
-    "visual_evidence": "Two sourced charts, market/Focus/scenario tables, a regional exposure map and two conditional financing mechanisms.",
-    "qa_rework": "Revision 2 corrects October euro-area full HICP publication to Wednesday 18 November 2026 in both locales, per Eurostat flash estimate 4 November; other factual and visual checks remain for independent QA."
+    "information_cutoff": "17 Nov 21:30 BRT / 18 Nov 00:30 UTC. US and Brazilian equity figures refer to the 17 Nov regular closes. Nvidia results follow the regular US close. Eurostat full October HICP, Fed minutes and Brazilian fiscal votes are scheduled for 18 Nov.",
+    "novelty": "Replaces the early edition's 16 Nov market snapshot with the 17 Nov close and adds October US retail sales, import prices and industrial production, Nvidia's fiscal Q3 results and outlook, the latest oil settlements and the PLP 299/2026 postponement.",
+    "evidence_vintage": "Census advance October nominal retail sales are seasonally adjusted. The BLS October import price indexes are unadjusted. Federal Reserve G.17 October industrial production is seasonally adjusted. Treasury yields are nominal daily par yields. B3, AP, UOL and Reuters market observations use named venues or instruments. Nvidia GAAP results refer to the fiscal quarter ended 25 October, and outlook is conditional. Eurostat October HICP remains the flash estimate at cutoff.",
+    "bilingual_parity": "Both editions use the same 14 sources, chart series, major reference dates, market conventions and scenario tests.",
+    "visual_evidence": "Two sourced charts, closing-market and scenario tables, a regional exposure map and two conditional transmission mechanisms.",
+    "qa_rework": "Retains the correction to Eurostat's 18 November release date. Closing revision requires independent review of all three revised blobs."
   },
   "limitations": [
-    "Equity returns refer to local sessions with different closing times and structures.",
-    "Treasury yields do not identify movements in private credit spreads or the term premium.",
-    "Focus responses precede the IBC-Br release and the monthly/quarterly activity measures are not the IBGE GDP series.",
-    "October euro-area inflation is a flash estimate at the cutoff."
+    "The Census retail sales estimate is nominal and its monthly confidence interval includes zero.",
+    "Market snapshots have different cutoffs and do not identify causal effects or private borrowing costs.",
+    "Nvidia revenue is an observed supplier result, while its outlook is guidance and says little by itself about customer utilization and investment returns.",
+    "The oil surplus is an IEA forecast. The effect of local disruption on landed costs depends on actual shipping, freight and insurance.",
+    "The fiscal improvement estimate is conditional on the final text and implementation. The official October euro-area HICP is preliminary at cutoff."
   ],
   "contrary_evidence": [
-    "US Treasury yields fell while stocks fell, limiting an explanation based on rising sovereign rates that day.",
-    "Quarterly Brazilian activity weakened while its year-on-year comparison remained positive.",
-    "Euro-area industry rose on the month but contracted year on year."
+    "A fall in nominal sovereign yields coexisted with broad US equity losses.",
+    "US manufacturing output rose overall despite the fall in total industrial output, while manufacturing excluding vehicles and parts edged down.",
+    "Brent rebounded despite the IEA's fourth-quarter surplus forecast.",
+    "Brazilian shares rebounded while the commercial dollar rose."
   ],
   "sources": {
     "en": {
       "markdown": "staging/research/2026/11/2026-11-17-global-macro/en.md",
-      "title": "Global Macro — Chip stocks slide as Brazil’s activity weakens and inflation expectations rise",
-      "deck": "US chip stocks fell 5.3% even as Treasury yields eased. In Brazil, the IBC-Br contracted in the third quarter and the Focus survey’s 2027 inflation median reached 5.00%.",
+      "title": "Global Macro — US retail growth slows, import prices rise and Brazil delays fiscal vote",
+      "deck": "US retail sales rose 0.2% in October and import prices rose 1.1%. Nvidia reported $115.8 billion in revenue after the close. Brazil's Senate moved remaining fiscal votes to 18 November.",
       "tags": [
         "Global Macro",
-        "Semiconductors",
-        "Treasury yields",
-        "Brazil",
-        "Focus"
+        "Import prices",
+        "Nvidia",
+        "Oil",
+        "Brazil"
       ],
       "keywords": [
         "MT-GM-2026-11-17",
         "17 November 2026",
-        "Focus November 2026",
-        "IBC-Br third-quarter activity"
+        "US retail sales October 2026",
+        "Nvidia fiscal Q3 2027",
+        "PLP 299/2026"
       ],
-      "regime": "Pressure on technology valuations despite a small decline in US sovereign yields, alongside softer Brazilian activity and higher inflation expectations.",
-      "key_risk": "Tighter private financing and exchange-rate pass-through could offset lower sovereign yields and crude prices.",
+      "regime": "Slower US nominal retail growth with rising import costs, alongside a broad equity selloff and a post-close AI supplier earnings release.",
+      "key_risk": "Rising replacement costs can compress margins while oil transport risk and uncertain fiscal execution complicate price and credit transmission.",
       "watch": [
-        "Nvidia’s realized revenue and outlook",
-        "Euro-area final HICP components",
-        "FOMC minutes",
-        "Brazil services inflation and lending terms"
+        "Euro-area final October HICP",
+        "October FOMC minutes",
+        "Brazil's PLP 299/2026 votes",
+        "Gulf shipments, freight and insurance"
       ],
-      "search_text": "17 November 2026 Global Macro semiconductors Treasury Focus IBC-Br Brazil Eurostat oil"
+      "search_text": "17 November 2026 Global Macro US retail sales import prices industrial production Nvidia Brent Hormuz Brazil fiscal package PLP 299/2026"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-17-global-macro/pt-BR.md",
-      "title": "Global Macro — Ações de chips recuam enquanto o Brasil perde ritmo e a inflação esperada sobe",
-      "deck": "As ações americanas de semicondutores caíram 5,3% mesmo com o recuo dos juros dos Treasuries. No Brasil, o IBC-Br caiu no trimestre e o Focus indicou IPCA de 5,00% para 2027.",
+      "title": "Global Macro — Varejo perde fôlego nos EUA, preços de importação sobem e Brasil adia votação fiscal",
+      "deck": "O varejo americano cresceu 0,2% em outubro e os preços de importação subiram 1,1%. A Nvidia divulgou receita de US$ 115,8 bilhões após o pregão. O Senado remarcou votos do ajuste fiscal para o dia 18.",
       "tags": [
         "Global Macro",
-        "Semicondutores",
-        "Juros dos Treasuries",
-        "Brasil",
-        "Focus"
+        "Preços de importação",
+        "Nvidia",
+        "Petróleo",
+        "Brasil"
       ],
       "keywords": [
         "MT-GM-2026-11-17",
         "17 de novembro de 2026",
-        "Focus de novembro de 2026",
-        "IBC-Br do terceiro trimestre"
+        "Varejo dos EUA em outubro de 2026",
+        "Nvidia terceiro trimestre fiscal de 2027",
+        "PLP 299/2026"
       ],
-      "regime": "Pressão sobre as ações de tecnologia com leve queda de juros soberanos nos EUA, atividade brasileira mais fraca e inflação esperada mais alta.",
-      "key_risk": "Crédito privado mais caro e repasse cambial podem limitar o alívio de juros soberanos e petróleo mais baixos.",
+      "regime": "Varejo nominal americano cresce menos e os custos de importação sobem, em meio a perdas amplas nas bolsas e divulgação do balanço de um fornecedor de IA após o pregão.",
+      "key_risk": "Custos de reposição podem comprimir margens, enquanto o risco no transporte do petróleo e a incerteza fiscal afetam preços e crédito.",
       "watch": [
-        "Receita realizada e projeções da Nvidia",
-        "Componentes da inflação definitiva na zona do euro",
-        "Ata do FOMC",
-        "Inflação de serviços e condições de crédito no Brasil"
+        "Inflação definitiva de outubro na zona do euro",
+        "Ata da reunião de outubro do FOMC",
+        "Votação do PLP 299/2026",
+        "Embarques, fretes e seguros no Golfo"
       ],
-      "search_text": "17 novembro 2026 Global Macro semicondutores Treasuries Focus IBC-Br Brasil Eurostat petróleo"
+      "search_text": "17 novembro 2026 Global Macro varejo EUA preços de importação produção industrial Nvidia Brent Ormuz Brasil ajuste fiscal PLP 299/2026"
     }
-  }
+  },
+  "phenomena": [
+    "war-armed-conflict"
+  ]
 }
