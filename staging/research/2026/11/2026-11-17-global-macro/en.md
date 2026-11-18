@@ -1,115 +1,122 @@
-# Global Macro — Chip stocks slide as Brazil’s activity weakens and inflation expectations rise
+# Global Macro — US retail growth slows, import prices rise and Brazil delays fiscal vote
 
-**17 November 2026 · Information cutoff at 01:30 Brasília time (04:30 UTC).** Market returns refer to 16 November. The October inflation figure for the euro area is a flash estimate. The earnings release scheduled for Tuesday and Wednesday’s Federal Reserve minutes remained ahead at the cutoff. [1][2][4][7][8]
+**17 November 2026 · Closing edition · Information cutoff at 21:30 Brasília time (00:30 UTC on 18 November).**
 
-US semiconductor shares fell **5.3%** on Monday, while the S&P 500 fell **1.92%**. The Treasury’s ten-year reference yield slipped three basis points to **5.12%**. The session puts pressure on a simple explanation that blames falling equities on rising government yields. The dollar index nevertheless rose **0.19%** to **103.60**, according to Reuters. A mild fall in a US government borrowing benchmark coincided with firmer dollar prices and lower equity valuations. Holders of long-term dollar debt, businesses refinancing in dollars and shareholders received three different signals. [1][2]
+Nominal US retail sales rose **0.2%** in October after **0.8%** in September. Import prices rose **1.1%** for the second month running, while industrial production fell **0.4%**. The combination weakens the case for strong demand and keeps pressure on the costs facing businesses that buy goods overseas. The S&P 500 dropped **1.03%** on Tuesday as the ten-year Treasury reference yield fell to **5.10%**. [1][2][3][4][5]
 
-Brazil’s Monday releases delivered a separate constraint. The Central Bank’s IBC-Br activity index fell **0.86%** in the third quarter from the previous quarter, after seasonal adjustment. In the Focus survey, the median projection for 2027 inflation rose from **4.90% to 5.00%**, and the median projection for the year-end policy rate rose from **12.50% to 12.75%**. The activity release and survey arrived on the same day, but the survey reflects responses collected through Friday, 13 November. Their combination describes the policy environment. The survey revision preceded the IBC-Br release. [5][6][9]
+After regular New York trading ended, Nvidia reported revenue of **$115.8 billion**, up **103%** from a year earlier. The figures add evidence about demand for AI infrastructure, while the regular session records what investors were willing to pay before they had the results. In Brazil, the Ibovespa recovered part of the previous session’s losses and the Senate moved votes on four separate provisions of the fiscal package to Wednesday. Brent rebounded as reports described attacks on vessels in the Strait of Hormuz, while the International Energy Agency projected a global oil surplus for the quarter. [4][6][7][8][9][10]
 
-## 1. Monday’s price changes and data releases
+## 1. Closing prices and benchmark yields
 
-| Indicator | Observation | Reference and unit |
-| --- | --- | --- |
-| S&P 500, Nasdaq Composite and US semiconductor index | -1.92%, -2.49% and -5.3%, respectively | 16 Nov, session changes reported by Reuters [1] |
-| US Treasury, two and ten years | 4.83% and 5.12%, respectively | 16 Nov, nominal par yields [2] |
-| Dollar index and Brent | 103.60 (+0.19%) and US$92.20/barrel (-3.8%) | 16 Nov, Reuters market readings [1] |
-| Brazil, IBC-Br | -0.25% in September and -0.86% in Q3 | Changes from the previous month and quarter, seasonally adjusted [6][9] |
-| Brazil, Focus 2027 | IPCA 5.00%, GDP +1.02%, year-end Selic 12.75% | Survey medians, responses through 13 Nov [5] |
-| Euro area, industrial production | +0.2% monthly and -1.5% annually | September, separate monthly and annual comparisons [10] |
-| Euro area, consumer inflation | +4.0% annually | October flash HICP estimate [8] |
+| Asset or indicator | Level on 17 November | Change from previous session | Reference |
+| --- | ---: | ---: | --- |
+| S&P 500 | 7,340.53 points | -1.03% | Regular close, percentage calculated from point figures reported by the AP [4] |
+| Nasdaq Composite | 24,328.38 points | -0.74% | Regular close, same calculation [4] |
+| Dow Jones Industrial Average | 50,759.42 points | -1.64% | Regular close, same calculation [4] |
+| Two-year Treasury | 4.80% | -3 basis points | US Treasury daily nominal par curve [5] |
+| Ten-year Treasury | 5.10% | -2 basis points | Same curve and observation date [5] |
+| Brent and WTI | $93.14 and $86.01 per barrel | +0.76% and +0.34% | Futures settlements reported by Reuters [9] |
+| Ibovespa | 169,816.64 points | +0.31% | B3 close [7] |
+| Commercial USD/BRL | R$5.7830 per dollar | +0.09% | Commercial market closing selling quote reported by UOL [11] |
 
-The equity and commodity returns are separate market observations. The Treasury’s daily par curve supplies comparable yields by maturity. The gap between sovereign rates and the terms a business can obtain also depends on the borrower, collateral, currency, maturity and liquidity. A fall in sovereign yields can coincide with worse financing terms for borrowers whose spreads rise by more than the benchmark falls. Monday’s figures above establish the move in the benchmark. Testing private-sector transmission requires actual issuance prices, secondary-market spreads or bank lending data. [1][2]
+The two-year benchmark fell from **4.83% to 4.80%**, while the ten-year yield declined from **5.12% to 5.10%**. The gap widened from **29 to 30 basis points**. It was a small shift alongside losses in the Dow, the Nasdaq and the Russell 2000, which fell about **1.5%**. The breadth of the declines suggests the session involved more than a reassessment of a few technology stocks. Investors moving exposure from equities into government bonds could produce this combination of prices. New-issue yields and credit spreads would help establish whether companies also gained access to cheaper financing. [4][5]
 
-## 2. The US yield curve moved little compared with equities
+## 2. Slower nominal spending and rising costs beyond fuel
 
-```chart
-type: bar
-title: United States — Daily change in nominal Treasury par yields
-unit: Basis points, 16 November versus 13 November 2026. Each maturity is a separate observation.
-2 years | -5
-10 years | -3
-```
-
-The two-year reference went from **4.88% to 4.83%** and the ten-year from **5.15% to 5.12%**. The ten-year minus two-year slope widened from **27 to 29 basis points**. This was a small steepening through a larger fall at the two-year point. The Federal Reserve’s latest target range remained **3.75%–4.00%**, set on 28 October. The current target anchors overnight rates. Longer Treasury yields incorporate expected future overnight rates and compensation for bearing interest-rate risk over time. The short sample and nominal curve do not identify those components separately. [2][3]
-
-The week’s Fed minutes should be read alongside the decision date. They can show which kinds of evidence mattered in October, such as the breadth of inflation or changes in the labor market. Any development after the meeting belongs in a separate comparison. A fall in the two-year rate on Monday is compatible with changes in position sizes or demand for liquid government paper, even while traders in fed funds futures continue to price a December increase, as Reuters reported. The two-year yield covers a much longer window than one futures contract. [1][2][3][7]
-
-## 3. The semiconductor chain and the financing of AI investment
-
-Reuters reported declines of **3.6%** in South Korea and **6%** in Taiwan on Monday, alongside the much larger US semiconductor decline than in broad US equities. Those markets have different constituents, closing times and domestic policies. The figures indicate geographically broad pressure on listed markets connected to the technology cycle. They cannot establish that a single order, valuation model or investor flow caused each decline. The Bank of Japan’s Tokyo survey placed the dollar at **159.52–159.53 yen** at 17:00 JST on Monday. For Japanese businesses buying inputs in dollars, the exchange rate influences yen replacement costs. Companies earning dollars and paying costs in yen face a different balance, conditioned by hedging and where their suppliers invoice. [1][11]
-
-Nvidia’s scheduled release gives separate evidence on actual equipment sales and future expectations. The company schedules publication of results at approximately **18:20 Brasília time**, with its call at **19:00**. Revenue already recognized, margins and the outlook play different roles. Strong shipments can coexist with a lower expected margin if products, customer concentration or delivery terms change. A stronger outlook can reflect capacity already installed or orders with varying degrees of commitment. For equipment and component suppliers, the order schedule matters alongside the value announced, because prepayments, equipment purchases and inventories draw cash before customers pay. [4]
-
-The split between operating demand and financial valuation has consequences outside the chip designer. If compute buyers maintain investment and listed multiples fall, existing projects can continue as long as contractual demand and financing hold up. If projects slip and payment terms extend, smaller contractors may feel the strain before an aggregate investment series registers it. Evidence of falling orders, longer collection periods and wider like-for-like credit spreads would strengthen the latter interpretation. A lower closing share price by itself establishes a decline in valuation on the exchange that day. [1][4]
-
-## 4. Europe and energy: a monthly industrial rise amid annual weakness
+The Census Bureau estimated October retail and food services sales at **$748.2 billion**. The series adjusts for seasonal and calendar effects and measures spending at current prices. The 90% confidence interval for the **0.2%** monthly change runs from **-0.2% to +0.6%**. Growth came in below the reported September rate, with uncertainty about whether the level rose at all in October. The composition of spending matters as well. If households buy fewer goods at higher unit prices, sales revenue can hold up as volumes fall. Real spending and income data provide a more direct test of that possibility. [1]
 
 ```chart
 type: bar
-title: Euro area — Industrial production by main group in September 2026
-unit: Seasonally adjusted percentage change from August. Groups are non-additive.
-Intermediate goods | 0.7
-Energy | -1.7
-Capital goods | 0
-Durable consumer goods | 1.3
-Non-durable consumer goods | -0.4
+title: United States — Changes in import prices in October
+unit: Percentage change from September 2026, without seasonal adjustment. The total includes the components and bars are not additive. Source: BLS [2].
+Total | 1.1
+Fuel | 3.6
+Excluding fuel | 0.8
+Capital goods | 1.5
 ```
 
-Euro-area industrial production rose **0.2%** on the month after a **0.5%** decline in August, and stood **1.5%** below September 2025. Capital goods output was flat on the month while durable consumer goods rose **1.3%**. The industrial reading measures output. Inventory restocking, exports or domestic demand can each contribute to a monthly bounce. Several months of gains supported by orders in multiple components would carry more information about a recovery than the September headline alone. [10]
+Nonfuel import prices rose **0.8%** in October after **0.5%** in September. Imported capital goods became **1.5%** more expensive, with contributions from computers, peripherals and semiconductors, as well as electrical equipment and machinery. The BLS index measures prices for an import basket that differs from the goods households buy. Subtracting it from the Census sales growth rate would yield a figure with no clear interpretation as real spending. For an importer, contract terms and inventories determine when higher costs enter cost of sales. Competition and demand determine how much of the increase can reach customers. [1][2]
 
-October’s flash estimate put euro-area annual inflation at **4.0%**, with energy at **20.8%** and services at **3.3%**. Eurostat scheduled the complete October HICP release for Wednesday, 18 November, not Tuesday, 17 November. Energy prices can have a large effect on the headline without reproducing the same movement in services. A decline in Monday’s Brent price cannot affect the completed October measurement. Its effect on later inflation depends on how long it lasts and how quickly it reaches retail tariffs, fuel contracts and the prices of transport-intensive goods. Last week’s IEA report estimated October world oil supply at **105.4 million barrels a day**. Reuters attributed the latest slide partly to signs of recovering oil flows through Hormuz. A new shipment disruption, higher insurance costs or tight diesel supply could produce a different outcome for landed fuel costs. [1][8][12][13]
-
-```map
-title: Regional transmission through financing, technology and energy
-United States | Semiconductor shares fell faster than broad equities | Private financing terms and order schedules still require direct evidence
-East Asia | South Korea and Taiwan equities declined and the BoJ recorded the yen near 160 per dollar | Closing times, trade invoicing and hedges differ
-Euro area | Industrial output rose on the month while flash inflation remained elevated | Energy and services prices move through different contracts
-Brazil | Activity softened and the 2027 Focus inflation median rose | Exchange-rate pass-through, domestic credit and survey horizons matter
+```chart
+type: bar
+title: United States — Industrial production and major groups in October
+unit: Percentage change from September 2026, seasonally adjusted. The total is weighted and bars are not additive. Source: Federal Reserve [3].
+Total | -0.4
+Manufacturing | 0.3
+Mining | -0.8
+Utilities | -4.3
 ```
 
-## 5. Brazil: weaker output raises a different question from lower inflation
+Industrial production fell **0.4%** after gaining **0.7%** in September. Utilities output declined **4.3%**, while manufacturing output expanded **0.3%**. Excluding motor vehicles and parts, manufacturing slipped **0.1%**. The fall in the aggregate and the uneven manufacturing gain limit what the headline can tell us about overall demand. Broader gains in orders and manufacturing output outside vehicles over the coming months would weaken the interpretation that industry is losing momentum. If real sales slow as replacement costs rise, businesses with little pricing power may absorb the shock in their margins before consumers see it in prices. [1][2][3]
 
-| Focus median for 2027 | Previous week | Survey dated 13 Nov | Change |
-| --- | --- | --- | --- |
-| IPCA, annual change | 4.90% | 5.00% | +0.10 percentage points |
-| GDP, annual growth | 1.15% | 1.02% | -0.13 percentage points |
-| Selic, year-end | 12.50% | 12.75% | +0.25 percentage points |
-| BRL per dollar, year-end | 5.40 | 5.45 | +0.05 reais per dollar |
+## 3. What Nvidia’s results reveal about investment in AI
 
-Brazil’s quarterly IBC-Br dropped **1.15%** in industry and **0.46%** in services, seasonally adjusted, while the aggregate was still **0.70%** higher than in the same quarter of 2025 in the unadjusted series. The two comparisons use different bases. The quarterly decline captures a recent loss of momentum, while the annual increase says the level was above a year earlier. The IBC-Br’s construction and coverage differ from the national accounts. The third-quarter GDP figure will come from IBGE. [6][9]
+Data Center accounted for **$107.6 billion**, about **93%** of Nvidia’s revenue for the quarter ended **25 October**. Segment revenue rose **110%** from a year earlier. Consolidated GAAP gross margin was **74.8%**. For the fourth fiscal quarter, the company forecast **$130.0 billion** in revenue, plus or minus **3%**, with no contribution assumed from Data Center computing revenue in China. That exclusion is a premise of the company’s forecast. The midpoint is approximately **12.3%** above the completed quarter’s revenue, using the published rounded figures. [6]
 
-The increase in the Focus inflation projection to **5.00%** leaves it half a percentage point above the upper edge of Brazil’s inflation target interval of **4.50%**. The survey records market expectations. The official target is assessed under the continuous regime using actual twelve-month inflation. The central question is whether weaker activity eventually lowers labor-intensive prices and margins fast enough to offset any increases in imported costs and administered prices. The exchange rate in the survey is a year-end median. A business’s actual cost depends on the exchange rate, tenor and any hedge it has locked in. [5][14]
+The growth records purchases and deliveries that already generated revenue for the supplier. A data center operator earns a return by installing the capacity, keeping the hardware in use and selling services at prices that cover energy, depreciation and financing. A manufacturer can recognize revenue months before its customer demonstrates that the investment pays for itself. That difference allows strong reported results to coexist with falling sector share prices. Resilient demand would gain support if customers’ utilization and revenue improve alongside orders. Persistent underutilization, delays and contract renegotiations would support the case for excess capacity. [4][6]
 
 ```flow
-More expensive dollar inputs → higher replacement costs in reais → possible margin compression or price increases
-Softer domestic sales → slower inventory turnover → more time financing stock → greater exposure to lending conditions
+Accelerator sales → customer installs capacity → utilization and service revenue → coverage of energy, depreciation and financing costs
+Higher import prices → costlier inventory replacement → customer price increases or margin compression, depending on contracts and demand
 ```
 
-A Brazilian importer with short-duration debt can face a rise in the reais cost of the next shipment while old stock sells more slowly. A customer buying on installments may also become more sensitive to the monthly payment than to the ticket price. The resulting margin depends on how much firms can pass through without losing sales. For commodity exporters, the conversion of dollar revenue into reais can offer support, provided that prices, volumes and the cost of foreign inputs are considered together. Energy relief reaches each business through its particular fuel use, freight contract and currency exposure. [1][5][9][12]
+## 4. Hormuz, oil and Europe’s next inflation release
 
-## 6. Scenarios and evidence for the next sessions
+Brent settled at **$93.14** and WTI at **$86.01** per barrel. Reuters reported fresh attacks on vessels in the Strait of Hormuz and linked the rise in crude to shipping risks and market expectations of a draw in US inventories. The inventory figures were still pending when Reuters reported the expectation. The IEA projected a global fourth-quarter surplus using its production and demand balances. The total volume of available oil can grow while a particular route becomes more expensive. If carriers cut sailings or insurers charge more for coverage, refiners and importers exposed to the route may face higher delivered costs even as aggregate supply improves. Realized shipments, freight rates and insurance prices can test that transmission. [9][10]
 
-| Conditional scenario | Evidence that strengthens it | Evidence that weakens it |
+The euro area’s October flash estimate put harmonised consumer price inflation at **4.0%** year on year, with energy at **20.8%** and services at **3.3%**. These are rates of price change for components with different weights in the headline index. Eurostat scheduled the full figures for **18 November**. Tuesday’s increase in crude occurred in a later reference month. Any effect depends on how long it lasts, the exchange rate and the rules and timing of price adjustments in each country. The AP reported declines in stock indexes in Asia and Europe. Those regular sessions ended before Nvidia’s results, leaving their market response to subsequent sessions. At 17:00 in Tokyo, the Bank of Japan recorded **159.33–159.35 yen per dollar**. The Tokyo snapshot gives a local currency reference for goods invoiced in dollars. [4][6][12][14]
+
+```map
+title: Regional exposure to costs, credit and investment
+United States | Import prices rise and Nvidia’s revenue more than doubles from a year earlier | Importer margins and data-center utilization measure distinct effects
+East Asia | Equities fell before Nvidia reported and the dollar was near 159.34 yen in Tokyo | Technology suppliers and buyers see the results in subsequent sessions
+Gulf and euro area | Brent rises on shipping risks while energy weighs on European inflation | Freight, insurance, currency and pricing schedules influence pass-through
+Brazil | Ibovespa and the commercial dollar rise with fiscal votes pending | Budget execution and the cost of credit determine domestic transmission
+```
+
+## 5. Brazil’s outstanding fiscal votes
+
+The Senate moved votes on four provisions of **PLP 299/2026** to **18 November**. It had approved the main text on 12 November. Among the pending amendments, one would block a deferral of transfers to states and municipalities under the Kandir Law, and another would remove the **R$3 billion** annual cap on federal pension-compensation payments. According to Agência Senado, the executive estimated that the package could improve the 2027 primary balance by up to **R$56 billion**. That government estimate covers the package and can change with its final wording and implementation. The headline figure provides no breakdown of how much would recur in subsequent fiscal years. [8]
+
+Deferring a transfer can improve the federal government’s cash balance for one year while shifting financing needs to another year or another level of government. Measures with recurring effects on revenue or spending work through a different channel. The Ibovespa closed **0.31%** higher, while the commercial dollar rose **0.09%**. The combination records prices in two markets with different participants and composition. Assessing a persistent fiscal effect would require the final text, payment schedules and the response of domestic yields over more than one session. [7][8][11]
+
+## 6. Scenarios and events for 18 November
+
+| Conditional hypothesis | Evidence that supports it | Evidence that weakens it |
 | --- | --- | --- |
-| Equity repricing concentrated in technology | Similar delivery schedules and continued investment, alongside pressure on valuations | Lower guidance, identifiable order deferrals and weaker financing for comparable suppliers |
-| Oil relief broadens | Durable improvement in shipments and falling local-currency landed costs | Higher freight or insurance, constrained diesel supply or further currency depreciation |
-| Brazilian weakness feeds into disinflation | Softer services inflation, lower inflation expectations and weaker demand indicators together | Persistent price pressure in services or rising expectations despite weaker activity |
+| Cost pressure arrives before a recovery in US real sales | Further increases in nonfuel import prices, weak retail volumes and lower margins | Falling import prices or a broad acceleration in real spending |
+| Strong demand for AI capacity persists and risk shifts to buyers’ profitability | Revenue and utilization rise alongside strong deliveries, but cash generation lags investment | Widespread order delays or cash generation that improves in proportion to investment |
+| Recovering oil supply reduces shortage risk while logistics costs stay high | Shipments rise while freight and insurance remain expensive | Delivered costs fall or a new disruption is large enough to alter the global balance |
+| Brazil’s measures improve near-term cash flow with a smaller structural effect | The final text relies on deferrals and expenses shifted between fiscal years | Permanent measures with a verifiable recurring impact and consistent implementation |
 
-The confidence is **high** in the official observed figures cited above and **moderate** in the transmission mechanisms. A single equity session has low power to identify a global capex turn. More immediate tests are Tuesday’s Nvidia earnings, followed on Wednesday, 18 November, by Eurostat’s complete October inflation release and the Fed minutes. For Brazil, the combination to track is services inflation, actual bank lending terms and the next vintages of Focus and activity data. These observations operate on different clocks. Comparing them on their own reference dates avoids mistaking a forecast revision or a closing price for contemporaneous output. [4][5][6][7][13]
+Confidence is **high** in the dated official releases and **moderate** in the transmission mechanisms. On Wednesday, Eurostat’s full data allow for a check on how widely inflation is distributed across components. The FOMC minutes cover the **27–28 October** meeting and predate Tuesday’s US releases. The Senate votes will show which fiscal provisions survived. Effects on credit, margins and household prices require observations after those events. [1][2][8][12][13]
 
-## References
+## Sources
 
-[1] Reuters, global markets at the US close, 16 November. https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/  
-[2] US Treasury, daily nominal par yields, November 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve  
-[3] Federal Reserve, FOMC statement, 28 October. https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm  
-[4] Nvidia Investor Relations, fiscal third-quarter results schedule. https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/  
-[5] Central Bank of Brazil, Focus survey dated 13 November. https://www.bcb.gov.br/content/focus/focus/R20261113.pdf  
-[6] Central Bank of Brazil, seasonally adjusted IBC-Br series. https://dadosabertos.bcb.gov.br/dataset/24364-indice-de-atividade-economica-do-banco-central-ibc-br---com-ajuste-sazonal  
-[7] Federal Reserve, calendar for November 2026. https://www.federalreserve.gov/newsevents/2026-November.htm  
-[8] Eurostat, flash estimate of October euro-area inflation, 4 November. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap  
-[9] Estadão Conteúdo, detailed IBC-Br readings reported by the Central Bank on 16 November. https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/16/indice-de-atividade-economica-do-banco-central-cai-025-em-setembro-ante-agosto.htm  
-[10] Eurostat, September industrial production, 16 November. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-16112026-ap  
-[11] Bank of Japan, Tokyo foreign exchange market, 16 November. https://www.boj.or.jp/en/statistics/market/forex/fxdaily/fxlist/fx261116.pdf  
-[12] International Energy Agency, Oil Market Report, November 2026. https://www.iea.org/reports/oil-market-report-november-2026  
-[13] Eurostat, release calendar, 16 to 20 November 2026. https://ec.europa.eu/eurostat/en/web/main/news/euro-indicators/release-calendar?start=1794783600000&type=dayGridWeek  
-[14] Central Bank of Brazil, continuous inflation target and tolerance interval. https://www.bcb.gov.br/controleinflacao/metainflacao
+[1] US Census Bureau, advance October retail and food services sales, 17 November. https://www.census.gov/retail/marts/www/marts_current.pdf?release=20261117
+
+[2] Bureau of Labor Statistics, US import and export prices for October, 17 November. https://www.bls.gov/news.release/ximpim.htm
+
+[3] Federal Reserve, industrial production and capacity utilization, G.17, 17 November. https://www.federalreserve.gov/releases/g17/Current/
+
+[4] Associated Press, US stock index closes, 17 November. https://apnews.com/article/ff6caef4d9289cf7f1e6ee48a706eddc
+
+[5] US Treasury, daily nominal par yields, November 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202611&type=daily_treasury_yield_curve
+
+[6] Nvidia, third-quarter fiscal 2027 results and fourth-quarter outlook, 17 November. https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx
+
+[7] B3, Ibovespa close, 17 November. https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-031-com-ajuste-fiscal-no-radar-dolar-fica-em-r-578/
+
+[8] Agência Senado, rescheduling of votes on PLP 299/2026, 17 November. https://www12.senado.leg.br/noticias/materias/2026/11/17/votacao-de-destaques-ao-ajuste-fiscal-e-remarcada-na-quarta-feira
+
+[9] Reuters, oil settlements and Hormuz developments, 17 November. https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/
+
+[10] International Energy Agency, Oil Market Report, November 2026. https://www.iea.org/reports/oil-market-report-november-2026
+
+[11] UOL Economia, commercial dollar and Ibovespa closes, 17 November. https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/17/dolar-ibovespa-bolsa-17-novembro-2026.ghtm
+
+[12] Eurostat, October flash HICP estimate and full release date. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap
+
+[13] Federal Reserve, November 2026 calendar. https://www.federalreserve.gov/newsevents/2026-November.htm
+
+[14] Bank of Japan, foreign exchange rates in Tokyo, 17 November. https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261117.pdf
