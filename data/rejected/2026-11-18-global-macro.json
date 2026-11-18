@@ -2,55 +2,56 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-18",
   "slug": "2026-11-18-global-macro",
-  "revision": 1,
+  "revision": 2,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-18T08:35:00Z",
-  "reviewed_commit": "b350fc50dcd6c308e05fd0b5ff2ddef833c5ab71",
-  "pending_blob_sha": "e6397c73ae124f337c43fd6bcc380839fbcd5fc5",
+  "reviewed_at": "2026-11-18T20:39:00Z",
+  "reviewed_commit": "2c4ca94088cc23dfc4e6c2c3f65d4537ab7b1e95",
+  "pending_blob_sha": "322e5f8c70dffe3add13b26506a48a36896900ad",
   "source_blob_shas": {
-    "en": "0938d0b47cea6eb463fae5ce0bc9234dcaf0170f",
-    "pt-BR": "063044a0995d07b514e0175b3767234e26cffbe9"
+    "en": "f170926800ca1fcebbd924fb39857758491a9aa3",
+    "pt-BR": "f49411f1764c5e38018722ba859ba2a3a0eff730"
   },
   "issues": [
     {
       "severity": "material",
-      "code": "EDITORIAL_DEPTH_BELOW_MINIMUM",
+      "code": "INFORMATION_CUTOFF_CHRONOLOGY_CONTRADICTION",
       "paths": [
         "staging/research/2026/11/2026-11-18-global-macro/en.md",
         "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
       ],
       "locations": [
-        "Both complete staged editions, sections 1–6"
+        "en.md line 3 and line 30 and line 148",
+        "pt-BR.md line 3, line 30 and line 148"
       ],
-      "evidence": "scripts/validate-editorial-depth.mjs requires at least 1700 substantive words for daily research (minWords=isWeekly?2200:1700). Both complete staged editions contain fewer than 1500 whitespace-delimited words even before stripping fenced visual blocks and URLs; therefore both necessarily fail the 1700-substantive-word threshold.",
-      "required_correction": "Expand both editions with source-supported original analysis to at least 1700 substantive words each after stripping fenced blocks and URLs. Deepen comparison of spring/autumn forecast assumptions, country-level financing channels, historical context and measurable falsification tests. Maintain equivalent EN/PT-BR evidence and re-run MT_VALIDATE_ALL_PENDING=1 node scripts/validate-editorial-depth.mjs and node scripts/validate-pipeline.mjs before resubmission."
+      "evidence": "The EN opening explicitly includes the complete 18 November Eurostat October HICP release within the 16:20 BRT cutoff and the conclusion says the completed release is available, but EN section 1 (line 30) states 'The October HICP complete release was still scheduled for later on 18 November at the information cutoff.' PT-BR section 1 instead acknowledges the final release and the 21.0% versus 20.8% flash revision. These cannot all describe the same information cutoff and break EN/PT-BR evidence parity. The contradiction is established directly by the immutable staged source SHAs; no external timing assumption is needed.",
+      "required_correction": "Replace the stale English sentence with the observed final Eurostat release and its 21.0% energy figure versus 20.8% flash estimate, aligning the temporal description with the opening, conclusion and PT-BR section. Recheck every forward-looking versus observed release statement at the declared cutoff in both editions, then resubmit as a new revision with changed pending and staged blob SHAs."
     }
   ],
   "checks": {
-    "research_depth": {
+    "factual_methodology": {
       "result": "failed",
-      "summary": "Both languages demonstrably below 1700 substantive words; threshold confirmed from repository validator source."
+      "summary": "Internal contradiction in observed-versus-future status of the October Eurostat HICP release at the declared information cutoff; independent external verification of all remaining sources not completed."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Mandatory depth gate fails; no approval possible."
+      "summary": "Material cutoff chronology contradiction in English and mismatch with Portuguese prevents publication."
     },
     "visual_evidence_readiness": {
       "result": "not_completed",
-      "summary": "Two chart blocks, a flow and a map observed in both languages; independent numeric source verification and visual validator not completed."
-    },
-    "factual_methodology": {
-      "result": "not_completed",
-      "summary": "Primary-source verification not completed."
+      "summary": "Charts, tables, flow and map appear in both staged sources; independent validation of all visual values and renderer contract not completed."
     },
     "translation_check": {
-      "result": "partial",
-      "summary": "Charts and main numeric comparisons match on inspection; full bilingual parity not certified."
+      "result": "failed",
+      "summary": "EN section 1 describes the complete Eurostat release as still future while PT-BR section 1 describes it as completed."
+    },
+    "research_depth": {
+      "result": "preliminary_pass",
+      "summary": "Raw staged word counts exceed 3300 EN and 3600 PT-BR; deterministic stripped-fence validator could not be run against the full repository."
     },
     "pipeline_validation": {
       "result": "not_run",
-      "summary": "Local Git clone blocked by DNS; no claim of executed validation."
+      "summary": "Local git access failed DNS resolution of github.com; validate-editorial-depth.mjs and validate-pipeline.mjs not executed."
     }
   },
-  "notes": "Independent QA rejection for proven deterministic depth failure. No publication authorization; remaining gates require fresh review on changed source SHAs."
+  "notes": "Second rejection for this ID across revisions 1 and 2; no approval or publication authorization. Revision 1 rejection was a distinct depth issue. Do not re-reject identical SHA."
 }
