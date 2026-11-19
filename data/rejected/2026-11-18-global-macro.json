@@ -2,56 +2,154 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-18",
   "slug": "2026-11-18-global-macro",
-  "revision": 2,
+  "revision": 3,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-18T20:39:00Z",
-  "reviewed_commit": "2c4ca94088cc23dfc4e6c2c3f65d4537ab7b1e95",
-  "pending_blob_sha": "322e5f8c70dffe3add13b26506a48a36896900ad",
+  "reviewed_at": "2026-11-19T01:36:26Z",
+  "reviewed_commit": "9d8043df475f129cbba216a8a0048cfa5c6ded5a",
+  "pending_blob_sha": "b731235cd9ab7ce2529ab144c565378b16267fd9",
   "source_blob_shas": {
-    "en": "f170926800ca1fcebbd924fb39857758491a9aa3",
-    "pt-BR": "f49411f1764c5e38018722ba859ba2a3a0eff730"
+    "en": "270f80dd97e40ffdfd6c2e6fe626bc3a1c44333d",
+    "pt-BR": "54d5a7c7ad17f82c024ba9021adab54c7fafc847"
   },
   "issues": [
     {
       "severity": "material",
-      "code": "INFORMATION_CUTOFF_CHRONOLOGY_CONTRADICTION",
+      "code": "INFORMATION_CUTOFF_FOMC_RELEASE_ALREADY_PUBLISHED",
+      "paths": [
+        "data/pending/2026-11-18-global-macro.json",
+        "staging/research/2026/11/2026-11-18-global-macro/en.md",
+        "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "pending.producer_checks.information_cutoff",
+        "pending.limitations[4]",
+        "pending.sources.en.watch[0]",
+        "pending.sources.pt-BR.watch[0]",
+        "en.md line 3 and line 148",
+        "pt-BR.md line 3 and line 148"
+      ],
+      "evidence": "The Federal Reserve's official 18 November 2026 press release states that the October 27–28 FOMC minutes were released at 2:00 p.m. EST. On that date EST was UTC−5, so publication was 19:00 UTC / 16:00 Brasília time, 20 minutes before the declared 16:20 BRT / 19:20 UTC cutoff. The official minutes were therefore already public. They also contain directly relevant financial-stability evidence: staff and participants discussed rapid growth in AI-related debt, off-balance-sheet leasing commitments, circular financing and the possibility of losses if AI investment returns disappoint. Sources: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm and https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+      "required_correction": "Remove the false statement that the FOMC minutes were still beyond the cutoff from both editions and all pending metadata. Add the official release and minutes to the references, distinguish the staff assessment from participants' views, and incorporate the relevant AI-financial-stability evidence without presenting a stress scenario as a realized loss. Re-evaluate the information-cutoff watch list and conclusion."
+    },
+    {
+      "severity": "material",
+      "code": "UK_UNEMPLOYMENT_COMPARISON_MISMATCH",
       "paths": [
         "staging/research/2026/11/2026-11-18-global-macro/en.md",
         "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
       ],
       "locations": [
-        "en.md line 3 and line 30 and line 148",
-        "pt-BR.md line 3, line 30 and line 148"
+        "en.md line 97",
+        "pt-BR.md line 97"
       ],
-      "evidence": "The EN opening explicitly includes the complete 18 November Eurostat October HICP release within the 16:20 BRT cutoff and the conclusion says the completed release is available, but EN section 1 (line 30) states 'The October HICP complete release was still scheduled for later on 18 November at the information cutoff.' PT-BR section 1 instead acknowledges the final release and the 21.0% versus 20.8% flash revision. These cannot all describe the same information cutoff and break EN/PT-BR evidence parity. The contradiction is established directly by the immutable staged source SHAs; no external timing assumption is needed.",
-      "required_correction": "Replace the stale English sentence with the observed final Eurostat release and its 21.0% energy figure versus 20.8% flash estimate, aligning the temporal description with the opening, conclusion and PT-BR section. Recheck every forward-looking versus observed release statement at the declared cutoff in both editions, then resubmit as a new revision with changed pending and staged blob SHAs."
+      "evidence": "Both editions state that the UK unemployment rate of 4.6% in July–September 2026 was down from 4.7% in the previous rolling quarter. The cited ONS November 2026 labour-market release states that 4.6% was down by 0.3 percentage points on the latest quarter, implying a previous-quarter rate of 4.9%, not 4.7%. The comparison is inconsistent with the cited primary source. Source: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/november2026",
+      "required_correction": "Replace the 4.7% comparison in both languages with the ONS-reported 0.3 percentage-point quarterly decline, or state the implied 4.9% previous-quarter rate. Preserve the July–September reference period and the distinction from provisional October payroll data."
+    },
+    {
+      "severity": "material",
+      "code": "ANTHROPIC_COMMITMENT_QUALIFICATIONS_OMITTED",
+      "paths": [
+        "staging/research/2026/11/2026-11-18-global-macro/en.md",
+        "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md line 107",
+        "pt-BR.md line 107"
+      ],
+      "evidence": "The SEC S-1/A does not describe the $900.9 billion aggregate as uniformly firm, unconditional obligations. It says approximately $186.2 billion is subject to exercisable termination rights or contingent conditions before commencement; approximately $150–175 billion of additional compute/infrastructure payments under arrangements without fixed dollar commitments are excluded from the $900.9 billion; and $4.2 billion of the $70.7 billion expected within 12 months is subject to contingent conditions or termination rights. The current wording mentions different legal forms and maturities but omits these material qualifications, overstating the firmness and completeness of the headline commitment stock. Sources: https://www.sec.gov/Archives/edgar/data/2130357/000162828026074338/anthropicpbc-sx1ax3.htm (Contractual Obligations, approximately lines 14601–14713)",
+      "required_correction": "Separate fixed/determinable obligations, commitments subject to termination or conditions, short-term and subsequent commitments, and additional arrangements without fixed dollar amounts. Qualify the $70.7 billion near-term amount with its $4.2 billion conditional/terminable component, and identify the $150–175 billion excluded estimate separately. Keep incurred expense, cash paid, contractual obligation, conditional commitment and prospective capacity distinct in both languages."
+    },
+    {
+      "severity": "material",
+      "code": "CONFLICT_ACTOR_ATTRIBUTION_INSUFFICIENT",
+      "paths": [
+        "staging/research/2026/11/2026-11-18-global-macro/en.md",
+        "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md line 60 and map line 70",
+        "pt-BR.md line 60 and map line 70"
+      ],
+      "evidence": "The cited Reuters report distinguishes several events and actors: Iranian drones struck a US military radar system in Bahrain; a ship in the Strait of Hormuz was hit twice; the US carried out airstrikes on Iran; and the Houthis claimed five drones toward two Saudi pipeline pumping stations. The draft compresses these into generic 'reported attacks' in the Strait and wider Gulf without identifying actors or separating reported events from a party's claim. This leaves the geographic and actor attribution ambiguous in a report classified with war and armed-conflict phenomena. Source: https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/",
+      "required_correction": "Attribute the relevant incidents to the actors and source, distinguish Reuters-reported events from Houthi claims, and avoid implying that every event occurred in the Strait or that a sustained closure has been established. Retain the limitation that attack reports do not prove a lasting route interruption."
+    },
+    {
+      "severity": "material",
+      "code": "BRAZIL_SENATE_SOURCE_NOT_CLAIM_SPECIFIC",
+      "paths": [
+        "staging/research/2026/11/2026-11-18-global-macro/en.md",
+        "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md line 115 and reference [13] line 166",
+        "pt-BR.md line 115 and reference [13] line 166"
+      ],
+      "evidence": "Reference [13] points to the Senate's generic plenary-session page, not to the specific Senate notice supporting the rescheduled 18 November vote, four pending floor highlights and the Executive's estimate of up to R$56 billion in 2027 primary-balance improvement. The official Senate notice published 17 November directly supports those claims. The English text also translates 'destaques' as 'amendments', which is not equivalent to the source's description of four pending highlights. Source: https://www12.senado.leg.br/noticias/materias/2026/11/17/votacao-de-destaques-ao-ajuste-fiscal-e-remarcada-na-quarta-feira",
+      "required_correction": "Replace reference [13] in both editions with the claim-specific Agência Senado notice. In English, describe the four items as pending floor highlights or highlighted provisions, not amendments. Preserve the R$56 billion figure as an Executive estimate conditional on legislative approval and implementation."
     }
   ],
   "checks": {
     "factual_methodology": {
       "result": "failed",
-      "summary": "Internal contradiction in observed-versus-future status of the October Eurostat HICP release at the declared information cutoff; independent external verification of all remaining sources not completed."
+      "summary": "Primary-source verification found a false FOMC cutoff status, an incorrect ONS unemployment comparison and materially incomplete qualifications around Anthropic's contractual commitments."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "The Senate reference is generic rather than claim-specific; the FOMC primary release and minutes are missing despite having been public before cutoff; the SEC commitment disclosures are incompletely qualified."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Material cutoff chronology contradiction in English and mismatch with Portuguese prevents publication."
-    },
-    "visual_evidence_readiness": {
-      "result": "not_completed",
-      "summary": "Charts, tables, flow and map appear in both staged sources; independent validation of all visual values and renderer contract not completed."
+      "summary": "Multiple material factual, chronology and attribution defects prevent publication."
     },
     "translation_check": {
-      "result": "failed",
-      "summary": "EN section 1 describes the complete Eurostat release as still future while PT-BR section 1 describes it as completed."
+      "result": "partial",
+      "summary": "The major numerical claims and identified errors are mirrored across EN/PT-BR, but both editions repeat the ONS and cutoff errors; the English rendering of Brazilian legislative 'destaques' is not equivalent."
     },
     "research_depth": {
       "result": "preliminary_pass",
-      "summary": "Raw staged word counts exceed 3300 EN and 3600 PT-BR; deterministic stripped-fence validator could not be run against the full repository."
+      "summary": "Manual stripped-content counts are approximately 3,105 EN and 3,407 PT-BR words, above the 1,700-word daily floor; 12 section headings and scenario/disconfirmation material are present. The repository script was not executed."
+    },
+    "visual_evidence_readiness": {
+      "result": "preliminary_pass",
+      "summary": "Both editions contain two explicit bar charts, one causal flow, one regional map and multiple evidence tables. Chart values and structural labels match across languages on manual inspection; renderer and output validation were not executed."
     },
     "pipeline_validation": {
       "result": "not_run",
-      "summary": "Local git access failed DNS resolution of github.com; validate-editorial-depth.mjs and validate-pipeline.mjs not executed."
+      "summary": "The local Git clone remains blocked by DNS resolution of github.com, so validate-editorial-depth.mjs and validate-pipeline.mjs could not be executed against a local repository tree. Schema-required fields, controlled taxonomy values and the active daily-global-macro registry mapping were checked manually."
     }
   },
-  "notes": "Second rejection for this ID across revisions 1 and 2; no approval or publication authorization. Revision 1 rejection was a distinct depth issue. Do not re-reject identical SHA."
+  "rejection_history": [
+    {
+      "revision": 1,
+      "rejection_blob_sha": "c632701b606b20149c38e112f8b25fb3c02c4c43",
+      "pending_blob_sha": "e6397c73ae124f337c43fd6bcc380839fbcd5fc5",
+      "source_blob_shas": {
+        "en": "0938d0b47cea6eb463fae5ce0bc9234dcaf0170f",
+        "pt-BR": "063044a0995d07b514e0175b3767234e26cffbe9"
+      },
+      "reviewed_at": "2026-11-18T08:35:00Z",
+      "issue_codes": [
+        "EDITORIAL_DEPTH_BELOW_MINIMUM"
+      ],
+      "summary": "Both staged editions were below the deterministic 1,700 substantive-word daily minimum."
+    },
+    {
+      "revision": 2,
+      "rejection_blob_sha": "56cade3d32a2191efd1cc5cd90d393bca78c41a2",
+      "pending_blob_sha": "322e5f8c70dffe3add13b26506a48a36896900ad",
+      "source_blob_shas": {
+        "en": "f170926800ca1fcebbd924fb39857758491a9aa3",
+        "pt-BR": "f49411f1764c5e38018722ba859ba2a3a0eff730"
+      },
+      "reviewed_at": "2026-11-18T20:39:00Z",
+      "issue_codes": [
+        "INFORMATION_CUTOFF_CHRONOLOGY_CONTRADICTION"
+      ],
+      "summary": "The English edition described the final October Eurostat HICP release as future while the Portuguese edition treated it as observed."
+    }
+  ],
+  "rejection_count_for_id": 3,
+  "rejection_loop_limit_reached": true,
+  "post_limit_policy": "This is the third new rejection for MT-GM-2026-11-18. Do not create a fourth rejection record for this ID. Any later revision must still be independently reviewed against exact SHAs. If material defects remain, leave it unapproved and unpublished, record a blocked status through an allowed operational mechanism or escalate to the human editor; never treat the loop limit as an approval.",
+  "notes": "Third rejection across revisions 1–3. Previous rejection records are preserved in Git history and summarized in rejection_history. Retrabalho encaminhado ao produtor 1/5 (MT-GM e temático diário). No approval or publication authorization."
 }
