@@ -2,53 +2,127 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-17",
   "slug": "2026-11-17-global-macro",
-  "revision": 1,
+  "revision": 2,
+  "rejection_count_for_id": 2,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-17T07:44:00Z",
-  "reviewed_commit": "ffbd67bfa8b6befe382745cc994df58dd6820e21",
-  "pending_blob_sha": "5b641d5a2724e055da88f9125da1ad0d2b664885",
+  "reviewed_at": "2026-11-19T03:41:19Z",
+  "reviewed_commit": "d2c0dad41c5ef4bd76bf4bce0b5fdf52ad59b92e",
+  "pending_blob_sha": "1e653928c4c161e20e8c237fe172bd1f7cf26db8",
   "source_blob_shas": {
-    "en": "e17457bbeaa37c442028880e38f2aeed0d5c2c3c",
-    "pt-BR": "48757fe56eae8460d0c8b21fedd721b43d081f7c"
+    "en": "4df1e2c1e884c1d2e1b1a8675527a2ea3d1b9412",
+    "pt-BR": "59898220968de50e06787543322f7b4a19896634"
   },
   "issues": [
     {
       "severity": "material",
-      "code": "SOURCE_DATE_CONTRADICTION",
+      "code": "MISSING_PHENOMENA_ARRAY_FOR_NEW_V2_RESEARCH",
       "paths": [
-        "staging/research/2026/11/2026-11-17-global-macro/en.md",
-        "staging/research/2026/11/2026-11-17-global-macro/pt-BR.md"
+        "data/pending/2026-11-17-global-macro.json"
       ],
       "locations": [
-        "EN opening paragraph and section 4, final paragraph of section 6",
-        "PT-BR opening paragraph and section 4, final paragraph of section 6"
+        "top-level property `phenomena`"
       ],
-      "evidence": "Both editions assert that final October euro-area HICP is scheduled for Tuesday 17 November 2026. Eurostat's cited original 4 November 2026 flash estimate explicitly states: 'The next release with full data for October 2026 is scheduled for 18 November 2026.' 18 November is Wednesday.",
-      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
-      "required_correction": "Correct the date and weekday consistently in both editions and the immediate-watch chronology. Recheck all scheduled-event times against original release calendars before resubmitting."
+      "evidence": "This is a new schema_version 2 research item dated 2026-11-17 and materially revised as revision 2, after the 2026-09-18 visual/editorial contract effective dates. RESEARCH-PUBLISHING.md and EDITORIAL-ARCHITECTURE.md state that new or materially revised research should include `phenomena` as an array, including an empty array when no controlled phenomenon is materially relevant. The pending object omits the property entirely. The taxonomy defines the allowed controlled values; the schema's optionality does not waive the editorial requirement for new work.",
+      "required_correction": "Add the top-level property `\"phenomena\": []` to data/pending/2026-11-17-global-macro.json because the report does not materially concern a controlled conflict/security/social-change phenomenon. Do not invent or add a taxonomy value. Re-save the pending sidecar last, then resubmit the exact new pending SHA for QA; the EN/PT-BR Markdown need not change for this metadata-only correction."
     }
   ],
   "checks": {
     "factual_methodology": {
+      "result": "passed",
+      "summary": "The dated market observations, Treasury par yields, Focus medians, IBC-Br headline and sectoral readings, Eurostat September production and October flash inflation, BoJ 17:00 JST FX rate, IEA October supply estimate and Nvidia/FOMC release calendar were checked against the cited sources."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 17 November 01:30 BRT cutoff is consistent with 16 November market observations. Nvidia results, Eurostat full October HICP and FOMC minutes were correctly treated as scheduled, not yet observed, at that cutoff."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "The report provides 14 references across more than four source hosts. Primary-source checks include BCB Focus, BCB IBC-Br series, US Treasury, Federal Reserve, Eurostat, Bank of Japan, IEA and Nvidia. The IBC-Br sectoral breakdown is also attributed to Estadão Conteúdo rather than a separate direct BCB release in the bibliography."
+    },
+    "taxonomy_check": {
       "result": "failed",
-      "summary": "Material calendar contradiction independently verified against the report's own Eurostat primary source."
+      "summary": "The new/revised v2 pending record omits the required controlled `phenomena` array; use an empty array where no controlled phenomenon applies."
+    },
+    "translation_check": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same dates, numeric observations, source numbering, chart series, scenario logic and qualifications."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "The staged editions exceed the 1,700-word brief floor, have at least six analytical sections, and meet the repository's depth-validator source and analytical-structure thresholds. The editorial-health run did not report this ID among its depth failures."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions contain two explicit charts, three tables, one map and one causal flow. Chart numeric series and map/flow semantics are equivalent. The repository depth workflow did not report a visual-budget or chart-parity failure for this ID."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Three conditional scenarios specify observable evidence that would strengthen or weaken each interpretation."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Incorrect dated event timing appears repeatedly in both editions."
-    },
-    "visual_evidence_readiness": {
-      "result": "not_completed",
-      "summary": "Visual presence inspected; numeric reproducibility and full validation not completed."
-    },
-    "research_depth": {
-      "result": "not_completed",
-      "summary": "Automated depth validator not executed."
-    },
-    "translation_check": {
-      "result": "partial",
-      "summary": "Both locales repeat the same date error."
+      "summary": "The staged text is substantively ready, but the pending metadata does not satisfy the required phenomena-array contract for new or materially revised research."
     }
   },
-  "notes": "Rejection on a verified material factual error; other claims are not certified. Do not approve until corrected and full validation is completed."
+  "confidence": "medium",
+  "limitations": [
+    "The Focus survey is a market-expectations snapshot with responses through 13 November, not an observation of realized 2027 inflation or policy rates.",
+    "IBC-Br is a monthly activity indicator with its own construction and coverage; it is not the IBGE national-accounts GDP series.",
+    "Market closes across regions have different local closing times and market structures.",
+    "The IBC-Br sectoral decomposition is cited through a secondary publication while the aggregate series is linked to the BCB dataset."
+  ],
+  "notes": "Revision 2 corrects the prior Eurostat calendar error. No material factual contradiction was found in the revised staged editions. Approval is withheld solely for the missing top-level phenomena array required by the current editorial architecture. Rejection history is retained below.",
+  "history": [
+    {
+      "revision": 1,
+      "qa_status": "rejected",
+      "reviewed_at": "2026-11-17T07:44:00Z",
+      "reviewed_commit": "ffbd67bfa8b6befe382745cc994df58dd6820e21",
+      "pending_blob_sha": "5b641d5a2724e055da88f9125da1ad0d2b664885",
+      "source_blob_shas": {
+        "en": "e17457bbeaa37c442028880e38f2aeed0d5c2c3c",
+        "pt-BR": "48757fe56eae8460d0c8b21fedd721b43d081f7c"
+      },
+      "issues": [
+        {
+          "severity": "material",
+          "code": "SOURCE_DATE_CONTRADICTION",
+          "paths": [
+            "staging/research/2026/11/2026-11-17-global-macro/en.md",
+            "staging/research/2026/11/2026-11-17-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "EN opening paragraph and section 4, final paragraph of section 6",
+            "PT-BR opening paragraph and section 4, final paragraph of section 6"
+          ],
+          "evidence": "Both editions assert that final October euro-area HICP is scheduled for Tuesday 17 November 2026. Eurostat's cited original 4 November 2026 flash estimate explicitly states: 'The next release with full data for October 2026 is scheduled for 18 November 2026.' 18 November is Wednesday.",
+          "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+          "required_correction": "Correct the date and weekday consistently in both editions and the immediate-watch chronology. Recheck all scheduled-event times against original release calendars before resubmitting."
+        }
+      ],
+      "checks": {
+        "factual_methodology": {
+          "result": "failed",
+          "summary": "Material calendar contradiction independently verified against the report's own Eurostat primary source."
+        },
+        "editorial_publication_readiness": {
+          "result": "failed",
+          "summary": "Incorrect dated event timing appears repeatedly in both editions."
+        },
+        "visual_evidence_readiness": {
+          "result": "not_completed",
+          "summary": "Visual presence inspected; numeric reproducibility and full validation not completed."
+        },
+        "research_depth": {
+          "result": "not_completed",
+          "summary": "Automated depth validator not executed."
+        },
+        "translation_check": {
+          "result": "partial",
+          "summary": "Both locales repeat the same date error."
+        }
+      },
+      "notes": "Rejection on a verified material factual error; other claims are not certified. Do not approve until corrected and full validation is completed."
+    }
+  ]
 }
