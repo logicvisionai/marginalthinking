@@ -4,6 +4,7 @@ import {makeLayout} from './lib/layout.mjs';
 import {esc} from './lib/markdown.mjs';
 import {collectReports} from './lib/reports.mjs';
 import {computeSystemFreshness} from './lib/system-freshness.mjs';
+import {derivePipelineQueue} from './lib/system-status-pipeline.mjs';
 
 const root=process.cwd(),out=path.join(root,'dist'),read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const cfg=JSON.parse(read('site.config.json')),i18n=JSON.parse(read('data/i18n.json')),registry=JSON.parse(read('data/system-registry.json')),ledger=JSON.parse(read('data/reconciliation-ledger.json')),reports=collectReports(root);
@@ -14,22 +15,21 @@ const write=(p,s)=>{const f=path.join(out,p.replace(/^\//,''));fs.mkdirSync(path
 const latestRun=(ledger.runs||[]).reduce((best,run)=>!best||String(run.reconciled_at||'')>=String(best.reconciled_at||'')?run:best,null)||{};
 const now=new Date(),assets=computeSystemFreshness({root,registry,ledger,reports,now});
 const jsonFiles=dir=>fs.existsSync(path.join(root,dir))?fs.readdirSync(path.join(root,dir)).filter(x=>x.endsWith('.json')):[];
+const jsonRecords=dir=>jsonFiles(dir).map(filename=>({...JSON.parse(read(dir+'/'+filename)),filename:filename.replace(/\.json$/,'')}));
 const publicSlugs=new Set(reports.filter(r=>r._bundle).map(r=>r.slug||String(r.url||'').split('/').pop()?.replace(/\.html$/,'')));
 const legacyIndex=JSON.parse(read('data/reports.json'));
-const pending=jsonFiles('data/pending').map(x=>x.replace(/\.json$/,'')),approved=jsonFiles('data/approved').map(x=>x.replace(/\.json$/,'')),rejected=jsonFiles('data/rejected').map(x=>x.replace(/\.json$/,''));
+const pendingRecords=jsonRecords('data/pending'),approvedRecords=jsonRecords('data/approved'),rejectedRecords=jsonRecords('data/rejected');
+const queueState=derivePipelineQueue({reports,pending:pendingRecords,approved:approvedRecords,rejected:rejectedRecords});
 const pipeline={
   public_bundles:publicSlugs.size,
   backward_index_entries:legacyIndex.length,
-  pending_records:pending.length,
-  approved_records:approved.length,
-  rejected_records:rejected.length,
-  pending_unpublished:pending.filter(x=>!publicSlugs.has(x)),
-  approved_unpublished:approved.filter(x=>!publicSlugs.has(x))
+  pending_records:pendingRecords.length,
+  approved_records:approvedRecords.length,
+  rejected_records:rejectedRecords.length,
+  pending_unpublished:queueState.pending_unpublished,
+  approved_unpublished:queueState.approved_unpublished
 };
-const queue=pipeline.pending_unpublished.map(slug=>({
-  slug,
-  state:pipeline.approved_unpublished.includes(slug)?'approved':rejected.includes(slug)?'needs-revision':'awaiting-qa'
-}));
+const queue=queueState.queue;
 const reviewDue=assets.filter(a=>a.state==='review_due').map(a=>({
   id:a.id,type:a.type,update_mode:a.update_mode,age_hours:a.age_hours,freshness_sla_hours:a.freshness_sla_hours,
   latest_report_id:a.latest_report_id||null,latest_report_date:a.latest_report_date||null,public_route:a.public_route||null
