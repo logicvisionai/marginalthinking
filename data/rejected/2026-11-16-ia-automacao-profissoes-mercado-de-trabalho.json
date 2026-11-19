@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "id": "MT-ACC-2026-11-16-AI-OCCUPATIONAL-TRANSITION",
+  "slug": "2026-11-16-ia-automacao-profissoes-mercado-de-trabalho",
+  "revision": 1,
+  "rejection_count_for_id": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-19T04:40:20Z",
+  "reviewed_commit": "9e7154d0d6f6bd74f8f984859011f75f4cb52c25",
+  "pending_blob_sha": "050b7f6ef0fb5ac637ec84dde0c23917f8d9fb4b",
+  "source_blob_shas": {
+    "en": "6e75902b26bd7eef516ad1b0ad89c5b62043e9cc",
+    "pt-BR": "2570a6b89d4241dc10a109f4536c21784a1035d1"
+  },
+  "issues": [
+    {
+      "severity": "material",
+      "code": "FGV_REFERENCE_URL_MISMATCH",
+      "paths": [
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/en.md",
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/pt-BR.md"
+      ],
+      "locations": [
+        "en.md line 390 and reference [43] line 591",
+        "pt-BR.md line 392 and reference [43] line 592"
+      ],
+      "evidence": "Both editions use reference [43] for the estimate that 29.6% of employed people in 2025-Q3 had some generative-AI exposure and that about 5.2 million were in the highest exposure gradient. The cited URL https://blogdoibre.fgv.br/node/2289 resolves to an unrelated 2023 post about the US banking crisis. The intended primary FGV IBRE article is Daniel Duque, “Inteligência artificial generativa e mercado de trabalho no Brasil: evidências iniciais sobre ocupação e renda”, 27 April 2026, at https://blogdoibre.fgv.br/posts/inteligencia-artificial-generativa-e-mercado-de-trabalho-no-brasil-evidencias-iniciais-sobre; that page contains the 29.6% and 5.2 million figures. The current bibliography therefore fails to provide a source that supports the adjacent claim.",
+      "source_urls": [
+        "https://blogdoibre.fgv.br/node/2289",
+        "https://blogdoibre.fgv.br/posts/inteligencia-artificial-generativa-e-mercado-de-trabalho-no-brasil-evidencias-iniciais-sobre"
+      ],
+      "required_correction": "Replace reference [43] in both editions with the correct FGV IBRE article URL. Preserve the author, title and 27 April 2026 date; re-open the final URL and confirm that it supports the 29.6% and 5.2 million figures. Keep potential occupational exposure distinct from observed AI adoption and realized employment effects."
+    },
+    {
+      "severity": "material",
+      "code": "NBER_WP35275_AUTHOR_DISCLOSURE_OMITTED",
+      "paths": [
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/en.md",
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/pt-BR.md"
+      ],
+      "locations": [
+        "en.md line 48 and reference [16] line 564",
+        "pt-BR.md line 48 and reference [16] line 565"
+      ],
+      "evidence": "The report describes NBER Working Paper 35275 as a 2026 study and relies on its estimates for more than 500,000 GitHub developers, including cumulative changes in commits, projects and releases. The NBER source page identifies it as Working Paper 35275 (issued May 2026, revised September 2026) and discloses that Mert Demirer and Leon Musolff are paid research consultants to Microsoft. Neither staged edition states that this is a working paper or surfaces the authors' disclosed paid consulting relationships. This relationship does not invalidate the findings, but it is material source context for an independent report using GitHub activity and AI-usage telemetry.",
+      "source_url": "https://www.nber.org/papers/w35275",
+      "required_correction": "In both editions, identify the source as NBER Working Paper 35275, issued May 2026 and revised September 2026, and state that it is a working paper rather than a peer-reviewed journal article. Add a concise, neutral disclosure that the NBER page lists Demirer and Musolff as paid research consultants to Microsoft. Do not infer misconduct or discard the estimates; retain the matched-event-study design, outcome definitions and limits."
+    },
+    {
+      "severity": "minor",
+      "code": "BLS_CHART_PRECISION_OVERSTATED",
+      "paths": [
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/en.md",
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/pt-BR.md"
+      ],
+      "locations": [
+        "en.md line 61",
+        "pt-BR.md line 61"
+      ],
+      "evidence": "The BLS Graphic Designers Occupational Outlook Handbook page reports a 2% projected decline and explicitly says that the percentage is rounded to the nearest whole number. The detailed BLS occupational projections table reports -1.7% for graphic designers. The charts display -2.0 while the other series use one decimal, implying precision not supplied by the cited rounded source.",
+      "source_urls": [
+        "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+        "https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm"
+      ],
+      "required_correction": "Use -1.7 in both charts if drawing from the detailed occupational projections table, or use -2 without a decimal if drawing from the rounded Occupational Outlook Handbook page. Keep the source and displayed precision consistent."
+    },
+    {
+      "severity": "minor",
+      "code": "TITLE_TRANSLATION_SEMANTIC_DRIFT",
+      "paths": [
+        "data/pending/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho.json",
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/en.md",
+        "staging/research/2026/11/2026-11-16-ia-automacao-profissoes-mercado-de-trabalho/pt-BR.md"
+      ],
+      "locations": [
+        "pending.sources.en.title",
+        "pending.sources.pt-BR.title",
+        "en.md line 1",
+        "pt-BR.md line 1"
+      ],
+      "evidence": "The English title says that AI arrived before the labour market could adjust. The Portuguese title, “A IA chegou antes da transição do trabalho”, shifts the proposition to a transition of work and omits the labour-market adjustment mechanism.",
+      "required_correction": "Use a semantically equivalent PT-BR title, for example “A IA chegou antes que o mercado de trabalho pudesse se ajustar”, in the pending metadata and staged Markdown."
+    }
+  ],
+  "checks": {
+    "factual_methodology": {
+      "result": "partial_with_material_traceability_failure",
+      "summary": "Key claims were checked against original sources including Indeed Hiring Lab, the US Census Bureau, BLS 2025–2035 projections, Cetic.br TIC Empresas 2025, the FGV IBRE article, Scintilla's June 2026 study, the Denmark NBER study and NBER Working Paper 35275. The checked figures were broadly consistent, but reference [43] points to an unrelated page and the NBER source's material author disclosures are omitted."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "partial",
+      "summary": "The pending declares an evidence cutoff of 2026-11-16. The principal checked sources are dated on or before that cutoff. The complete 54-reference bibliography was not independently opened and audited source by source."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "Reference [43] does not resolve to the FGV IBRE article that supports the 29.6% and 5.2 million claims. Reference [16] omits the source's working-paper status and disclosed paid research-consulting relationships."
+    },
+    "taxonomy_check": {
+      "result": "passed",
+      "summary": "Manual validation of schema_version 2, required fields, ready=true, taxonomy version, program, related program, format, cadence, dimensions, geography, topics, phenomena, and both locale source objects found no schema or controlled-taxonomy defect. The kind and editorial line are registered."
+    },
+    "translation_check": {
+      "result": "partial",
+      "summary": "The body, section sequence, reference numbering, chart values and map/flow structure are substantially equivalent. The Portuguese title does not preserve the labour-market-adjustment proposition exactly."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "The GitHub Actions run on the same three staged blobs completed validate-editorial-depth.mjs successfully: 198 revised and future research artifacts passed text, source, visual-equivalence and QA-gate checks. Manual inspection also found 12 analytical sections, two charts, four tables, one causal flow, one comparative map, 54 numbered references and three conditional scenarios with falsifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "The visual budget and EN/PT-BR structural and numeric-series parity pass the repository checks, but the graphic-designers BLS value is displayed with unsupported decimal precision. The chart must be corrected before publication."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report presents three conditional paths and observable evidence that would strengthen or weaken each interpretation."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "A claim-specific source link resolves to an unrelated article, a material author disclosure for a central working-paper source is absent, and a chart precision issue remains."
+    },
+    "pipeline_validation": {
+      "result": "passed_for_current_main_public_corpus_only",
+      "summary": "The GitHub Actions run on HEAD 9e7154d executed validate-pipeline.mjs successfully for 204 public bundles. This does not approve or publish this unapproved pending item; the candidate remains listed in pending_unpublished."
+    }
+  },
+  "confidence": "medium",
+  "limitations": [
+    "The full 54-reference bibliography was not independently opened and audited source by source; primary-source checks focused on the load-bearing claims and the identified defects.",
+    "validate-editorial-depth.mjs passed in GitHub Actions for the exact pending, EN and PT-BR blobs; local execution was not available.",
+    "validate-pipeline.mjs passed for the current public/approved corpus, but its pass is not an approval for this unapproved pending item.",
+    "The candidate has no canonical approval, public metadata or entry in data/reports.json."
+  ],
+  "notes": "No approval was created. The report is substantively deep and the current repository depth workflow passes it, but publication readiness fails on source integrity and source-disclosure requirements. No reports/**, public index, CSS, taxonomy or institutional content was modified. MT-WF-2026-10-19 remains approved and publicly materialized with its current pending and source SHAs. The previous MT-GM-2026-11-17 rejection and MT-GM-2026-11-18 post-limit block were not replayed.",
+  "producer_routing": {
+    "status": "not_dispatched",
+    "target": null,
+    "reason": "MT-ACC is an event-driven accelerationism-systems research family and is not covered by the explicit routing matrix. Task 1/5 is assigned to MT-GM and thematic-daily work. Task 3/5 is disabled and its saved prompt covers monthly/structural products; the disabled MT Radar de Aceleracionismo is a research-note monitor, not an article producer. No incorrect producer was triggered."
+  }
+}
