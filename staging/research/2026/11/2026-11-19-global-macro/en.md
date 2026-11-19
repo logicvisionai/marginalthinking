@@ -1,6 +1,6 @@
 # Global Macro — Energy security turns the Hormuz shock into a global capital-allocation test
 
-**19 November 2026 · Information cutoff: 06:01 Brasília time (09:01 UTC).** The IEA's *World Energy Outlook 2026* is dated 19 November; its page was available at preparation time, although the exact release hour is not stated. Market closes refer to 18 November. The Asian market snapshot is intraday at 03:51 GMT on 19 November, not a close. [1][2][3][13]
+**19 November 2026 · Information cutoff: 07:45 Brasília time (10:45 UTC).** The IEA's *World Energy Outlook 2026* is dated 19 November; its page was available at preparation time, although the exact release hour is not stated. Reuters's US market report was published at 10:28 UTC, before this revised cutoff. Market closes refer to 18 November. The Asian market snapshot is intraday at 03:51 GMT on 19 November, not a close. [1][2][3][13]
 
 The new information is not simply that oil supply remains exposed to war. The IEA quantifies a second-order adjustment: importers are accelerating diversification, electrification and grid investment, but those responses require capital, equipment and time. A lower crude benchmark can coexist with a higher cost of making energy systems reliable. That distinction matters for inflation, sovereign funding, industrial competitiveness and the distribution of investment across regions.
 
@@ -8,7 +8,7 @@ The new information is not simply that oil supply remains exposed to war. The IE
 
 On 18 November, Brent settled 1.3% lower at **US$91.95 per barrel** and WTI fell 3.2% to **US$83.26**. At 04:55 GMT on 19 November, Brent was near **US$92** and WTI near **US$83**. The US Energy Information Administration reported commercial crude stocks up **3.4 million barrels**, to **417.8 million**, in the week ended 13 November. The increase was far above the 58,000-barrel rise expected in a Reuters poll. [2][3]
 
-The US equity close was mixed: the S&P 500 lost **0.24%** to 7,322.53, the Dow fell **1.12%** to 50,193.03, and the Nasdaq gained **0.39%** to 24,429.89. It was the S&P's fifth consecutive decline. Nvidia's results exceeded expectations, but the broader semiconductor index still closed slightly lower as investors weighed valuation and the scale of AI infrastructure spending. The dispersion is more informative than a single global risk label: energy-sensitive and cyclical sectors faced a different combination of lower crude and higher discount rates than large technology companies. [4][14]
+According to Reuters's preliminary closing data, the S&P 500 lost **0.24%** to 7,322.53, the Dow fell **1.12%** to 50,193.03, and the Nasdaq gained **0.39%** to 24,429.89. The S&P's fifth consecutive decline showed how valuation and discount-rate concerns could coexist with a softer crude balance. Nvidia's quarterly results beat analyst expectations and the company forecast revenue above estimates; its shares nevertheless fell amid uncertainty after co-founder Jensen Huang's sudden departure. The Philadelphia SE Semiconductor Index also closed slightly lower, underscoring high expectations for AI infrastructure spending. [4]
 
 | Market or indicator | Latest observation | Period, unit and qualification |
 | --- | ---: | --- |
@@ -147,7 +147,7 @@ The strongest test over the coming weeks is not whether one commodity quote rise
 
 [1] International Energy Agency (2026), *World Energy Outlook 2026*, Executive Summary, published 19 November 2026. https://www.iea.org/reports/world-energy-outlook-2026/executive-summary
 
-[2] Reuters (2026), *Oil prices steady as Middle East shipping attacks counter supply surplus outlook*, 19 November 2026. https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/
+[2] Reuters (2026), *Oil prices rise as Middle East shipping attacks counter supply surplus outlook*, 19 November 2026. https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/
 
 [3] U.S. Energy Information Administration (2026), *Weekly Petroleum Status Report*, week ending 13 November 2026, Table 1. https://ir.eia.gov/secure/wpsr/overview.pdf
 
@@ -170,5 +170,3 @@ The strongest test over the coming weeks is not whether one commodity quote rise
 [12] Reuters (2026), *Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric*, 18 November 2026. https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/
 
 [13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Early Session, Taiex Drops 3.73% as Most Indices Fall*, 19 November 2026, intraday snapshot at 03:51 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
-
-[14] Associated Press (2026), *How major US stock indexes fared Wednesday 11/18/2026*, 18 November 2026. https://apnews.com/article/990749d3d269f7ef05b9f6c089713a58

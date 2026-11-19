@@ -1,6 +1,6 @@
 # Global Macro — Segurança energética transforma o choque de Hormuz em teste global de alocação de capital
 
-**19 de novembro de 2026 · Corte informacional: 06h01, horário de Brasília (09h01 UTC).** O *World Energy Outlook 2026* da AIE está datado de 19 de novembro; sua página estava disponível durante a preparação, embora o horário exato de divulgação não esteja informado. Os fechamentos de mercado referem-se a 18 de novembro. O retrato dos mercados asiáticos é intradiário, às 03h51 GMT de 19 de novembro, e não representa fechamento. [1][2][3][13]
+**19 de novembro de 2026 · Corte informacional: 07h45 de Brasília (10h45 UTC).** O *World Energy Outlook 2026* da AIE tem data de 19 de novembro; a página estava disponível durante a preparação, embora o horário exato de publicação não esteja indicado. A reportagem da Reuters sobre o mercado americano foi publicada às 10h28 UTC, antes deste novo corte. Os fechamentos de mercado referem-se a 18 de novembro. O retrato das bolsas asiáticas é intradiário, às 03h51 GMT de 19 de novembro, não um fechamento. [1][2][3][13]
 
 A informação nova não é apenas que a oferta de petróleo continua exposta à guerra. A AIE quantifica um ajuste de segunda ordem: importadores aceleram diversificação, eletrificação e investimento em redes, mas essas respostas exigem capital, equipamentos e tempo. Um preço de referência do petróleo em queda pode coexistir com custo maior para tornar os sistemas energéticos confiáveis. Essa distinção importa para inflação, financiamento soberano, competitividade industrial e distribuição regional do investimento.
 
@@ -8,7 +8,7 @@ A informação nova não é apenas que a oferta de petróleo continua exposta à
 
 Em 18 de novembro, o Brent fechou em queda de 1,3%, a **US$ 91,95 por barril**, e o WTI recuou 3,2%, para **US$ 83,26**. Às 04h55 GMT de 19 de novembro, o Brent estava próximo de **US$ 92** e o WTI de **US$ 83**. A Administração de Informação de Energia dos Estados Unidos informou que os estoques comerciais de petróleo bruto aumentaram **3,4 milhões de barris**, para **417,8 milhões**, na semana encerrada em 13 de novembro. A alta superou amplamente o aumento de 58 mil barris esperado em pesquisa da Reuters. [2][3]
 
-O fechamento das bolsas americanas foi misto: o S&P 500 caiu **0,24%**, para 7.322,53 pontos; o Dow recuou **1,12%**, para 50.193,03; e o Nasdaq subiu **0,39%**, para 24.429,89. Foi a quinta queda consecutiva do S&P. Os resultados da Nvidia superaram as expectativas, mas o índice mais amplo de semicondutores ainda fechou ligeiramente em baixa, enquanto investidores avaliavam as expectativas de valorização e a escala dos gastos em infraestrutura de IA. A dispersão é mais informativa do que um único rótulo de aversão global ao risco: setores sensíveis à energia e cíclicos enfrentaram uma combinação diferente de petróleo mais barato e taxas de desconto maiores do que as grandes empresas de tecnologia. [4][14]
+Segundo os dados preliminares de fechamento da Reuters, o S&P 500 caiu **0,24%**, para 7.322,53 pontos; o Dow recuou **1,12%**, para 50.193,03; e o Nasdaq avançou **0,39%**, para 24.429,89. A quinta queda consecutiva do S&P mostrou como preocupações com avaliações e taxas de desconto podem coexistir com um balanço de petróleo mais folgado. Os resultados trimestrais da Nvidia superaram as expectativas dos analistas, e a empresa projetou receita acima das estimativas; ainda assim, suas ações caíram em meio à incerteza após a saída repentina do cofundador Jensen Huang. O Philadelphia SE Semiconductor Index também fechou ligeiramente em baixa, indicando expectativas elevadas para os gastos em infraestrutura de IA. [4]
 
 | Mercado ou indicador | Última observação | Período, unidade e ressalva |
 | --- | ---: | --- |
@@ -147,7 +147,7 @@ O teste mais forte nas próximas semanas não é saber se uma cotação de commo
 
 [1] Agência Internacional de Energia (2026), *World Energy Outlook 2026*, Sumário Executivo, publicado em 19 de novembro de 2026. https://www.iea.org/reports/world-energy-outlook-2026/executive-summary
 
-[2] Reuters (2026), *Oil prices steady as Middle East shipping attacks counter supply surplus outlook*, 19 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/
+[2] Reuters (2026), *Oil prices rise as Middle East shipping attacks counter supply surplus outlook*, 19 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/
 
 [3] U.S. Energy Information Administration (2026), *Weekly Petroleum Status Report*, semana encerrada em 13 de novembro de 2026, Tabela 1. https://ir.eia.gov/secure/wpsr/overview.pdf
 
@@ -170,5 +170,3 @@ O teste mais forte nas próximas semanas não é saber se uma cotação de commo
 [12] Reuters (2026), *Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric*, 18 de novembro de 2026. https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/
 
 [13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Early Session, Taiex Drops 3.73% as Most Indices Fall*, 19 de novembro de 2026, retrato intradiário às 03h51 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
-
-[14] Associated Press (2026), *How major US stock indexes fared Wednesday 11/18/2026*, 18 de novembro de 2026. https://apnews.com/article/990749d3d269f7ef05b9f6c089713a58

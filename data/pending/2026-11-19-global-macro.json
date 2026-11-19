@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-11-19",
   "slug": "2026-11-19-global-macro",
   "date": "2026-11-19",
-  "published_at": "2026-11-19T06:01:00-03:00",
+  "published_at": "2026-11-19T07:45:00-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -45,7 +45,7 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "key_constraints": [
     "Long-lived energy infrastructure requires affordable long-term finance",
@@ -54,10 +54,10 @@
     "Emerging-market borrowing costs and fiscal capacity differ materially"
   ],
   "producer_checks": {
-    "information_cutoff": "19 Nov 2026 06:01 BRT / 09:01 UTC. IEA World Energy Outlook 2026 is dated 19 Nov; exact release hour is not stated. Market closes refer to 18 Nov. Reuters oil quote at 04:55 GMT on 19 Nov and Asian market snapshot at 03:51 GMT are intraday observations, not closes. The IEA WEO embargo lifted at 08:00 Antalya time (05:00 UTC), before this cutoff; the public report page itself does not display an exact publication hour.",
+    "information_cutoff": "19 Nov 2026 07:45 BRT / 10:45 UTC. The IEA World Energy Outlook 2026 is dated 19 Nov; exact public release hour is not stated, while the producer's embargo advisory records 08:00 Antalya / 05:00 UTC. Reuters's US market report [4] was published at 10:28 UTC, before this revised cutoff. Market closes refer to 18 Nov. The Reuters 04:55 GMT oil quote and the Asian 03:51 GMT snapshot are intraday observations, not closes.",
     "novelty": "Compared with 16 Nov (China/Japan activity and dollar funding), 17 Nov (semiconductor repricing and Brazil activity/inflation expectations), and 18 Nov (European inflation and AI financing), this edition uses the newly dated IEA World Energy Outlook 2026 to quantify energy-security capital requirements: bypass pipeline scenarios, grid kilometres, equipment bottlenecks, importer investment and emerging-market financing constraints. It does not repeat the previous edition's AI-contract analysis.",
-    "evidence_vintage": "IEA WEO 2026 is a scenario report dated 19 Nov, not a realised project pipeline. IEA Oil Market Report is dated 13 Nov. EIA petroleum stocks refer to the week ended 13 Nov. Treasury curve, equity closes, FX and gold observations refer to 18 Nov. Asian quotes are a delayed intraday snapshot at 03:51 GMT on 19 Nov. Eurostat October HICP is a final release published 18 Nov. World Bank debt figures refer to 2025.",
-    "bilingual_parity": "EN and PT-BR use the same 14 references, dates, quantitative observations, scenario conditions, charts, tables, map regions, flow stages and epistemic qualifications. The cyberattack and natural-hazard outage wording was aligned to distinguish attacks targeting utilities from confirmed outages.",
+    "evidence_vintage": "IEA WEO 2026 is a scenario report dated 19 Nov, not a realised project pipeline. IEA Oil Market Report is dated 13 Nov. EIA petroleum stocks refer to the week ended 13 Nov and report released 18 Nov. Treasury curve, equity closes, FX and gold observations refer to 18 Nov; Reuters preliminary US index values were published 19 Nov at 10:28 UTC. Asian quotes are a delayed intraday snapshot at 03:51 GMT on 19 Nov. Eurostat October HICP is a final release published 18 Nov. World Bank debt figures refer to 2025.",
+    "bilingual_parity": "EN and PT-BR use the same 13 references, dates, quantitative observations, scenario conditions, charts, tables, map regions, flow stages and epistemic qualifications. US index values are explicitly labelled as Reuters preliminary data in both editions; the AP comparison was removed to avoid mixing preliminary and final market-data vintages. The cyberattack and natural-hazard outage wording distinguishes attacks targeting utilities from confirmed outages.",
     "visual_evidence": "Two explicit bar charts, three evidence tables, one regional map and one causal flow. Values and labels are matched across EN/PT-BR; scenarios are not charted as observations.",
     "source_limitations": "No harmonised same-date global private credit-spread series, project-finance margins, delivered diesel prices or verified project-level grid capex/disbursements were established for this edition.",
     "reconciliation": {
@@ -94,6 +94,11 @@
         }
       ],
       "note": "All seven active reconciliation-required assets were reviewed; no canonical dataset update was supported by the evidence in this brief."
+    },
+    "revision_2_corrections": {
+      "previous_qa_rejection": "POST_CUTOFF_SOURCE_USED and CONFLICTING_MARKET_CLOSE_VALUES",
+      "correction": "Moved the declared cutoff and planned publication time to 07:45 BRT / 10:45 UTC, after Reuters [4] at 10:28 UTC; explicitly labelled the index observations as Reuters preliminary data; removed AP [14] because it reports a different close vintage; updated the Reuters [2] headline to match the current source page.",
+      "corrected_at": "2026-11-19T10:44:00Z"
     }
   },
   "limitations": [
