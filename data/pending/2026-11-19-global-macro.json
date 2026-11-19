@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-19",
+  "slug": "2026-11-19-global-macro",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T06:01:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict",
+    "strategic-competition"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "revision": 1,
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "Long-lived energy infrastructure requires affordable long-term finance",
+    "Grid equipment supply and installation capacity constrain delivery",
+    "Physical route risk and commodity benchmark prices can diverge",
+    "Emerging-market borrowing costs and fiscal capacity differ materially"
+  ],
+  "producer_checks": {
+    "information_cutoff": "19 Nov 2026 06:01 BRT / 09:01 UTC. IEA World Energy Outlook 2026 is dated 19 Nov; exact release hour is not stated. Market closes refer to 18 Nov. Reuters oil quote at 04:55 GMT on 19 Nov and Asian market snapshot at 03:51 GMT are intraday observations, not closes.",
+    "novelty": "Compared with 16 Nov (China/Japan activity and dollar funding), 17 Nov (semiconductor repricing and Brazil activity/inflation expectations), and 18 Nov (European inflation and AI financing), this edition uses the newly dated IEA World Energy Outlook 2026 to quantify energy-security capital requirements: bypass pipeline scenarios, grid kilometres, equipment bottlenecks, importer investment and emerging-market financing constraints. It does not repeat the previous edition's AI-contract analysis.",
+    "evidence_vintage": "IEA WEO 2026 is a scenario report dated 19 Nov, not a realised project pipeline. IEA Oil Market Report is dated 13 Nov. EIA petroleum stocks refer to the week ended 13 Nov. Treasury curve, equity closes, FX and gold observations refer to 18 Nov. Asian quotes are a delayed intraday snapshot at 03:51 GMT on 19 Nov. Eurostat October HICP is a final release published 18 Nov. World Bank debt figures refer to 2025.",
+    "bilingual_parity": "EN and PT-BR use the same 14 references, dates, quantitative observations, scenario conditions, charts, tables, map regions, flow stages and epistemic qualifications.",
+    "visual_evidence": "Two explicit bar charts, three evidence tables, one regional map and one causal flow. Values and labels are matched across EN/PT-BR; scenarios are not charted as observations.",
+    "source_limitations": "No harmonised same-date global private credit-spread series, project-finance margins, delivered diesel prices or verified project-level grid capex/disbursements were established for this edition."
+  },
+  "limitations": [
+    "The exact publication hour of the IEA World Energy Outlook 2026 is not stated on its 19 November page.",
+    "IEA scenarios and system requirements are modelled pathways, not realised infrastructure, committed capital or guaranteed policy outcomes.",
+    "The 7 mb/d pipeline figure includes projects under construction or consideration; the Low Hormuz Case depends on multiple conditional assumptions.",
+    "US EIA inventories are a national weekly observation and cannot establish global diesel availability.",
+    "Treasury par yields do not measure private credit spreads, project-finance margins or sovereign borrowing spreads.",
+    "The Asian equity figures are delayed intraday observations at 03:51 GMT, not closing returns.",
+    "The World Bank debt aggregates are not energy-project debt and do not identify the financing terms of individual infrastructure projects.",
+    "The Brazil market move reflects domestic fiscal uncertainty as well as external dollar and rate conditions."
+  ],
+  "contrary_evidence": [
+    "Brent and WTI fell on 18 November and US commercial crude inventories rose in the week ended 13 November, consistent with a looser near-term crude balance.",
+    "The IEA expects oil supply to rebound in 2027, which could lower benchmark prices if the forecast materialises.",
+    "India's rupee remained resilient despite a stronger dollar, with reported November equity inflows supporting the currency.",
+    "US crude and distillate inventories increased in the latest weekly EIA balance, even while the IEA describes low global on-land stocks and tight diesel markets.",
+    "The IEA's grid and pipeline figures are system requirements and scenario assumptions, not proof of project bankability or implementation."
+  ],
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-19-global-macro/en.md",
+      "title": "Global Macro — Energy security turns the Hormuz shock into a global capital-allocation test",
+      "deck": "The IEA's new outlook quantifies the capital, equipment and financing needed to diversify energy supply and expand electricity grids, even as crude prices soften.",
+      "tags": [
+        "Global Macro",
+        "Energy security",
+        "Hormuz",
+        "Electricity grids",
+        "Cost of capital",
+        "Emerging markets"
+      ],
+      "keywords": [
+        "19 November 2026",
+        "World Energy Outlook 2026",
+        "Hormuz energy shock",
+        "grid investment",
+        "pipeline bypass capacity",
+        "energy finance",
+        "US Treasury yields",
+        "emerging market debt"
+      ],
+      "regime": "Energy-security repricing and accelerated electrification under elevated dollar rates and uneven access to long-duration capital.",
+      "key_risk": "Lower crude prices may ease near-term inflation without resolving grid, equipment, route and financing constraints that determine delivered energy reliability.",
+      "watch": [
+        "Verified Gulf export and shipping flows",
+        "On-land oil-product stocks and delivered diesel prices",
+        "Treasury real yields and private project-finance spreads",
+        "Grid procurement, equipment deliveries and commissioned capacity",
+        "Emerging-market energy investment and debt-service costs"
+      ],
+      "search_text": "Global Macro 19 November 2026 IEA World Energy Outlook Hormuz energy security pipeline grid capex electricity demand financing emerging market debt Treasury yields"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md",
+      "title": "Global Macro — Segurança energética transforma o choque de Hormuz em teste global de alocação de capital",
+      "deck": "A nova perspectiva da AIE quantifica o capital, os equipamentos e o financiamento necessários para diversificar a oferta de energia e ampliar as redes elétricas, mesmo com petróleo mais barato.",
+      "tags": [
+        "Global Macro",
+        "Segurança energética",
+        "Hormuz",
+        "Redes elétricas",
+        "Custo de capital",
+        "Mercados emergentes"
+      ],
+      "keywords": [
+        "19 novembro 2026",
+        "World Energy Outlook 2026",
+        "choque energético de Hormuz",
+        "investimento em redes",
+        "capacidade de oleodutos alternativos",
+        "financiamento de energia",
+        "juros dos Treasuries",
+        "dívida de mercados emergentes"
+      ],
+      "regime": "Reprecificação da segurança energética e aceleração da eletrificação sob juros elevados em dólar e acesso desigual a capital de longo prazo.",
+      "key_risk": "Petróleo mais barato pode aliviar a inflação no curto prazo sem resolver as restrições de redes, equipamentos, rotas e financiamento que determinam a confiabilidade da energia entregue.",
+      "watch": [
+        "Fluxos de exportação e navegação verificados no Golfo",
+        "Estoques de derivados em terra e preços do diesel entregue",
+        "Juros reais dos Treasuries e spreads privados de financiamento de projetos",
+        "Compras de redes, entrega de equipamentos e capacidade comissionada",
+        "Investimento energético e custo do serviço da dívida em mercados emergentes"
+      ],
+      "search_text": "Global Macro 19 novembro 2026 AIE World Energy Outlook Hormuz segurança energética oleodutos redes elétricas demanda eletricidade financiamento dívida emergente juros Treasuries"
+    }
+  }
+}
