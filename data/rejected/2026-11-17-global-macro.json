@@ -2,12 +2,12 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-17",
   "slug": "2026-11-17-global-macro",
-  "revision": 2,
-  "rejection_count_for_id": 2,
+  "revision": 3,
+  "rejection_count_for_id": 3,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-19T03:41:19Z",
-  "reviewed_commit": "d2c0dad41c5ef4bd76bf4bce0b5fdf52ad59b92e",
-  "pending_blob_sha": "1e653928c4c161e20e8c237fe172bd1f7cf26db8",
+  "reviewed_at": "2026-11-19T11:58:31Z",
+  "reviewed_commit": "070ef21f8bf6308300ae9de713293adfa7003f1f",
+  "pending_blob_sha": "7207a1ce9dfb44f4e3d98a05ee675319bbf741e5",
   "source_blob_shas": {
     "en": "4df1e2c1e884c1d2e1b1a8675527a2ea3d1b9412",
     "pt-BR": "59898220968de50e06787543322f7b4a19896634"
@@ -15,63 +15,80 @@
   "issues": [
     {
       "severity": "material",
-      "code": "MISSING_PHENOMENA_ARRAY_FOR_NEW_V2_RESEARCH",
+      "code": "SYSTEM_REGISTRY_RECONCILIATION_MISSING_FOR_PUBLICATION",
       "paths": [
+        "data/reconciliation-ledger.json",
         "data/pending/2026-11-17-global-macro.json"
       ],
       "locations": [
-        "top-level property `phenomena`"
+        "data/reconciliation-ledger.json: runs[].report_ids_reviewed",
+        "latest run 2026-11-19-global-macro-publication-reconciliation",
+        "SYSTEM-REGISTRY.md: Reconciliation rule"
       ],
-      "evidence": "This is a new schema_version 2 research item dated 2026-11-17 and materially revised as revision 2, after the 2026-09-18 visual/editorial contract effective dates. RESEARCH-PUBLISHING.md and EDITORIAL-ARCHITECTURE.md state that new or materially revised research should include `phenomena` as an array, including an empty array when no controlled phenomenon is materially relevant. The pending object omits the property entirely. The taxonomy defines the allowed controlled values; the schema's optionality does not waive the editorial requirement for new work.",
-      "required_correction": "Add the top-level property `\"phenomena\": []` to data/pending/2026-11-17-global-macro.json because the report does not materially concern a controlled conflict/security/social-change phenomenon. Do not invent or add a taxonomy value. Re-save the pending sidecar last, then resubmit the exact new pending SHA for QA; the EN/PT-BR Markdown need not change for this metadata-only correction."
+      "evidence": "At reviewed HEAD 070ef21f8bf6308300ae9de713293adfa7003f1f, the reconciliation ledger has enforcement_start 2026-09-22 and latest_reconciled_at 2026-11-19T09:52:19.046Z. Its latest run, 2026-11-19-global-macro-publication-reconciliation, names only MT-GM-2026-11-19. No run in the ledger names MT-GM-2026-11-17. SYSTEM-REGISTRY.md requires a reconciliation run to name every report dated on or after the enforcement date before it enters the public corpus, with a decision for every active asset marked reconciliation_required:true. The registry currently has seven such assets: global-dependency-network, structural-opportunity-atlas, strategic-actors, resource-control-atlas, policy-case-atlas, conflict-systems and technology-signal-ledger. The candidate is a new 2026-11-17 report and is not yet public.",
+      "required_correction": "Append a new immutable run to data/reconciliation-ledger.json naming MT-GM-2026-11-17 and documenting an evidence-based decision for each of the seven active reconciliation-required assets. Preserve prior runs. Use updated only when canonical data is actually changed; use verified_no_change, not_applicable or deferred_evidence_gap only with a specific evidence-based explanation. Then update the pending producer checks to identify the reconciliation run and submit a new revision for QA. Do not alter the staged manuscripts unless the reconciliation exposes a material factual or analytical change."
     }
   ],
   "checks": {
     "factual_methodology": {
       "result": "passed",
-      "summary": "The dated market observations, Treasury par yields, Focus medians, IBC-Br headline and sectoral readings, Eurostat September production and October flash inflation, BoJ 17:00 JST FX rate, IEA October supply estimate and Nvidia/FOMC release calendar were checked against the cited sources."
+      "summary": "The 16 November market session was checked against Reuters; Treasury par yields against the US Treasury; Focus and IBC-Br against BCB and the dated Estadão report; Eurostat industrial production and flash HICP against Eurostat; USD/JPY against the Bank of Japan; oil supply against the IEA; and the Nvidia/FOMC calendars against issuer and Federal Reserve sources. The cited values and their reference periods are consistent."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The 17 November 01:30 BRT cutoff is consistent with 16 November market observations. Nvidia results, Eurostat full October HICP and FOMC minutes were correctly treated as scheduled, not yet observed, at that cutoff."
+      "summary": "The 17 November 01:30 BRT cutoff is after the 16 November market closes and before the scheduled Nvidia results, complete October HICP release and FOMC minutes. The report labels October HICP as a flash estimate and treats later releases as pending."
     },
     "evidence_traceability": {
       "result": "passed_with_limitation",
-      "summary": "The report provides 14 references across more than four source hosts. Primary-source checks include BCB Focus, BCB IBC-Br series, US Treasury, Federal Reserve, Eurostat, Bank of Japan, IEA and Nvidia. The IBC-Br sectoral breakdown is also attributed to Estadão Conteúdo rather than a separate direct BCB release in the bibliography."
+      "summary": "The 14 references include primary releases/data from Treasury, Federal Reserve, BCB, Eurostat, Bank of Japan, IEA and Nvidia, plus Reuters market reporting. The IBC-Br aggregate is tied to the BCB series; the detailed sectoral breakdown is sourced to Estadão Conteúdo and is identified as such."
     },
     "taxonomy_check": {
-      "result": "failed",
-      "summary": "The new/revised v2 pending record omits the required controlled `phenomena` array; use an empty array where no controlled phenomenon applies."
+      "result": "passed",
+      "summary": "The new pending v2 record includes phenomena: [] as required. Program, topics, format, cadence and controlled values conform to the current taxonomy."
     },
     "translation_check": {
       "result": "passed",
-      "summary": "EN and PT-BR preserve the same dates, numeric observations, source numbering, chart series, scenario logic and qualifications."
+      "summary": "EN and PT-BR preserve the same 14 references, observations, dates, chart series, tables, causal flow, regional map, scenario tests and qualifications. No material numerical or inferential drift was found."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "The staged editions exceed the 1,700-word brief floor, have at least six analytical sections, and meet the repository's depth-validator source and analytical-structure thresholds. The editorial-health run did not report this ID among its depth failures."
+      "summary": "Manual substantive counts are approximately 1,881 EN and 2,110 PT-BR words, with six analytical sections. The current GitHub editorial-depth validator passed across 198 revised and future research artifacts."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both editions contain two explicit charts, three tables, one map and one causal flow. Chart numeric series and map/flow semantics are equivalent. The repository depth workflow did not report a visual-budget or chart-parity failure for this ID."
+      "summary": "Both editions contain two sourced quantitative charts, three evidence/scenario tables, one regional transmission map and one causal flow. Numeric chart values and visual semantics match across locales; current repository visual-output validation passed."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Three conditional scenarios specify observable evidence that would strengthen or weaken each interpretation."
+      "summary": "The scenario matrix identifies observable evidence that would strengthen and weaken the technology repricing, oil-relief and Brazil-disinflation interpretations."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Compared with the 16 November canonical Global Macro issue on China and Japan activity, this edition adds the 16 November US/Asia equity close, Treasury curve, euro-area industrial production, the new Focus and IBC-Br releases and the Nvidia results calendar."
+    },
+    "system_registry_reconciliation": {
+      "result": "failed",
+      "summary": "No append-only reconciliation run names MT-GM-2026-11-17. The latest ledger run names only MT-GM-2026-11-19, so the mandatory seven-asset reconciliation is not established."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "The staged text is substantively ready, but the pending metadata does not satisfy the required phenomena-array contract for new or materially revised research."
+      "summary": "The research content and v2 taxonomy pass, but the mandatory system-registry reconciliation prerequisite for public entry is absent."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "GitHub Actions run 44510225963 on the reviewed HEAD completed validate-pipeline.mjs successfully with 204 public bundles; validate-editorial-depth.mjs passed for 198 revised and future artifacts; visual output validation passed for 2,744 figures across 408 editions. The freshness audit separately failed and remains an operational alert, not a manuscript defect."
     }
   },
-  "confidence": "medium",
+  "confidence": "high",
   "limitations": [
-    "The Focus survey is a market-expectations snapshot with responses through 13 November, not an observation of realized 2027 inflation or policy rates.",
+    "The Focus survey is a market-expectations snapshot, not realized 2027 inflation or policy rates.",
     "IBC-Br is a monthly activity indicator with its own construction and coverage; it is not the IBGE national-accounts GDP series.",
+    "The IBC-Br sectoral decomposition is sourced through Estadão Conteúdo rather than a separate direct BCB sectoral release.",
     "Market closes across regions have different local closing times and market structures.",
-    "The IBC-Br sectoral decomposition is cited through a secondary publication while the aggregate series is linked to the BCB dataset."
+    "The euro-area October inflation figure was a flash estimate at the report cutoff.",
+    "A single equity session does not establish capital flows or a turn in aggregate AI investment."
   ],
-  "notes": "Revision 2 corrects the prior Eurostat calendar error. No material factual contradiction was found in the revised staged editions. Approval is withheld solely for the missing top-level phenomena array required by the current editorial architecture. Rejection history is retained below.",
+  "notes": "Third new rejection for this ID. Revision 3 changes the pending sidecar by adding phenomena: [] but leaves the EN/PT-BR staged blobs unchanged from revision 2. The full fact-check and visual/depth review was repeated against the new pending SHA. The previous factual, chronology and translation checks remain satisfied. Approval is withheld because the required seven-asset system-registry reconciliation for MT-GM-2026-11-17 is absent. Retrabalho is routed to producer task 1/5. No approval or publication authorization is created.",
   "history": [
     {
       "revision": 1,
@@ -123,6 +140,83 @@
         }
       },
       "notes": "Rejection on a verified material factual error; other claims are not certified. Do not approve until corrected and full validation is completed."
+    },
+    {
+      "revision": 2,
+      "rejection_blob_sha": "c3c02a8194a818625b37c695c1685a1f879987e2",
+      "pending_blob_sha": "1e653928c4c161e20e8c237fe172bd1f7cf26db8",
+      "source_blob_shas": {
+        "en": "4df1e2c1e884c1d2e1b1a8675527a2ea3d1b9412",
+        "pt-BR": "59898220968de50e06787543322f7b4a19896634"
+      },
+      "reviewed_at": "2026-11-19T03:41:19Z",
+      "reviewed_commit": "d2c0dad41c5ef4bd76bf4bce0b5fdf52ad59b92e",
+      "issue_codes": [
+        "MISSING_PHENOMENA_ARRAY_FOR_NEW_V2_RESEARCH"
+      ],
+      "summary": "Revision 2 corrects the prior Eurostat calendar error. No material factual contradiction was found in the revised staged editions. Approval is withheld solely for the missing top-level phenomena array required by the current editorial architecture. Rejection history is retained below.",
+      "issues": [
+        {
+          "severity": "material",
+          "code": "MISSING_PHENOMENA_ARRAY_FOR_NEW_V2_RESEARCH",
+          "paths": [
+            "data/pending/2026-11-17-global-macro.json"
+          ],
+          "locations": [
+            "top-level property `phenomena`"
+          ],
+          "evidence": "This is a new schema_version 2 research item dated 2026-11-17 and materially revised as revision 2, after the 2026-09-18 visual/editorial contract effective dates. RESEARCH-PUBLISHING.md and EDITORIAL-ARCHITECTURE.md state that new or materially revised research should include `phenomena` as an array, including an empty array when no controlled phenomenon is materially relevant. The pending object omits the property entirely. The taxonomy defines the allowed controlled values; the schema's optionality does not waive the editorial requirement for new work.",
+          "required_correction": "Add the top-level property `\"phenomena\": []` to data/pending/2026-11-17-global-macro.json because the report does not materially concern a controlled conflict/security/social-change phenomenon. Do not invent or add a taxonomy value. Re-save the pending sidecar last, then resubmit the exact new pending SHA for QA; the EN/PT-BR Markdown need not change for this metadata-only correction."
+        }
+      ],
+      "checks": {
+        "factual_methodology": {
+          "result": "passed",
+          "summary": "The dated market observations, Treasury par yields, Focus medians, IBC-Br headline and sectoral readings, Eurostat September production and October flash inflation, BoJ 17:00 JST FX rate, IEA October supply estimate and Nvidia/FOMC release calendar were checked against the cited sources."
+        },
+        "source_vintage_and_cutoff": {
+          "result": "passed",
+          "summary": "The 17 November 01:30 BRT cutoff is consistent with 16 November market observations. Nvidia results, Eurostat full October HICP and FOMC minutes were correctly treated as scheduled, not yet observed, at that cutoff."
+        },
+        "evidence_traceability": {
+          "result": "passed_with_limitation",
+          "summary": "The report provides 14 references across more than four source hosts. Primary-source checks include BCB Focus, BCB IBC-Br series, US Treasury, Federal Reserve, Eurostat, Bank of Japan, IEA and Nvidia. The IBC-Br sectoral breakdown is also attributed to Estadão Conteúdo rather than a separate direct BCB release in the bibliography."
+        },
+        "taxonomy_check": {
+          "result": "failed",
+          "summary": "The new/revised v2 pending record omits the required controlled `phenomena` array; use an empty array where no controlled phenomenon applies."
+        },
+        "translation_check": {
+          "result": "passed",
+          "summary": "EN and PT-BR preserve the same dates, numeric observations, source numbering, chart series, scenario logic and qualifications."
+        },
+        "research_depth": {
+          "result": "passed",
+          "summary": "The staged editions exceed the 1,700-word brief floor, have at least six analytical sections, and meet the repository's depth-validator source and analytical-structure thresholds. The editorial-health run did not report this ID among its depth failures."
+        },
+        "visual_evidence_readiness": {
+          "result": "passed",
+          "summary": "Both editions contain two explicit charts, three tables, one map and one causal flow. Chart numeric series and map/flow semantics are equivalent. The repository depth workflow did not report a visual-budget or chart-parity failure for this ID."
+        },
+        "counterfactual_review": {
+          "result": "passed",
+          "summary": "Three conditional scenarios specify observable evidence that would strengthen or weaken each interpretation."
+        },
+        "editorial_publication_readiness": {
+          "result": "failed",
+          "summary": "The staged text is substantively ready, but the pending metadata does not satisfy the required phenomena-array contract for new or materially revised research."
+        }
+      },
+      "confidence": "medium",
+      "limitations": [
+        "The Focus survey is a market-expectations snapshot with responses through 13 November, not an observation of realized 2027 inflation or policy rates.",
+        "IBC-Br is a monthly activity indicator with its own construction and coverage; it is not the IBGE national-accounts GDP series.",
+        "Market closes across regions have different local closing times and market structures.",
+        "The IBC-Br sectoral decomposition is cited through a secondary publication while the aggregate series is linked to the BCB dataset."
+      ],
+      "notes": "Revision 2 corrects the prior Eurostat calendar error. No material factual contradiction was found in the revised staged editions. Approval is withheld solely for the missing top-level phenomena array required by the current editorial architecture. Rejection history is retained below."
     }
-  ]
+  ],
+  "rejection_loop_limit_reached": true,
+  "post_limit_policy": "This is the third new rejection for MT-GM-2026-11-17. Do not create a fourth rejection record for this ID. Any later revision must still be independently reviewed against exact pending and source blob SHAs. If the reconciliation is completed and all gates pass, it may be approved. If material defects remain, leave it unapproved and unpublished, record a blocked status through an allowed operational mechanism or escalate to the human editor; never treat the loop limit as an approval."
 }
