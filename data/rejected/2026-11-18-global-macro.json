@@ -151,5 +151,61 @@
   "rejection_count_for_id": 3,
   "rejection_loop_limit_reached": true,
   "post_limit_policy": "This is the third new rejection for MT-GM-2026-11-18. Do not create a fourth rejection record for this ID. Any later revision must still be independently reviewed against exact SHAs. If material defects remain, leave it unapproved and unpublished, record a blocked status through an allowed operational mechanism or escalate to the human editor; never treat the loop limit as an approval.",
-  "notes": "Third rejection across revisions 1–3. Previous rejection records are preserved in Git history and summarized in rejection_history. Retrabalho encaminhado ao produtor 1/5 (MT-GM e temático diário). No approval or publication authorization."
+  "notes": "Third rejection across revisions 1–3. Previous rejection records are preserved in Git history and summarized in rejection_history. Retrabalho encaminhado ao produtor 1/5 (MT-GM e temático diário). No approval or publication authorization. Revision 4 was independently reviewed and blocked without creating a fourth rejection: the Bahrain radar event is still described as a confirmed strike although Reuters reports the IRGC targeting claim and Bahrain/US interception with no damage. See blocked_reviews[0].",
+  "blocked_reviews": [
+    {
+      "revision": 4,
+      "status": "blocked_no_fourth_rejection",
+      "reviewed_at": "2026-11-19T03:50:00Z",
+      "reviewed_commit": "67a3b76441d130b609696128bbb4395a0e2a34f2",
+      "pending_blob_sha": "779d2c71bf65c5d20cdfdb03f50a5d78ef3f3e65",
+      "source_blob_shas": {
+        "en": "a88329459321de8e5db85f1fcc8d91f6e7ea8f20",
+        "pt-BR": "44c2c2a0edce3b15ae3ea8110d00407359335471"
+      },
+      "issues": [
+        {
+          "severity": "material",
+          "code": "ATTRIBUTED_TARGETING_CLAIM_MISSTATED_AS_CONFIRMED_RADAR_STRIKE",
+          "paths": [
+            "staging/research/2026/11/2026-11-18-global-macro/en.md",
+            "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "en.md line 60 and regional map line 70",
+            "pt-BR.md line 60 and mapa regional line 70"
+          ],
+          "evidence": "The staged editions state that Iranian drones struck a US military radar system in Bahrain and label the map event an Iranian drone strike. The Reuters report says the IRGC said it targeted the radar; Bahrain and the US said the attack was intercepted, with no damage to US equipment or injuries. The text converts an attributed targeting claim into a verified material effect and omits the contrary official account. This violates CONFLICT-SECURITY-SOCIAL-CHANGE.md, which requires claims and verified effects to be distinguished. Reuters source: https://www.reuters.com/world/middle-east/bahrain-says-it-intercepts-iranian-air-attacks-irgc-says-it-targets-us-radar-2026-11-17/",
+          "required_correction": "In both editions, replace the statement that drones struck the radar with an attributed account: the IRGC said it targeted the Sheikh Isa radar; Bahrain and US Central Command said the drones were intercepted; no damage or injuries were reported. Apply the same distinction to the regional map. Keep the separately reported tanker incident distinct, and retain the Houthi pipeline event as an attributed claim."
+        }
+      ],
+      "checks": {
+        "factual_methodology": {
+          "result": "failed",
+          "summary": "A material conflict claim still converts an actor's stated target into a confirmed impact despite the cited reporting's interception/no-damage qualification."
+        },
+        "evidence_traceability": {
+          "result": "failed",
+          "summary": "The Reuters account and official Bahrain/US response are not faithfully represented in the prose or map."
+        },
+        "editorial_publication_readiness": {
+          "result": "failed",
+          "summary": "The armed-conflict event is not separated into actor claim, interception and verified effects in either locale."
+        },
+        "research_depth": {
+          "result": "preliminary_pass",
+          "summary": "The earlier manual inspection found the daily word-count and analytical-section floors satisfied."
+        },
+        "visual_evidence_readiness": {
+          "result": "preliminary_pass",
+          "summary": "The visual budget is present, but the regional map repeats the materially misleading conflict characterization."
+        },
+        "translation_check": {
+          "result": "failed",
+          "summary": "The same material overstatement appears in EN and PT-BR."
+        }
+      },
+      "note": "Operational block only. The ID has already reached its limit of three new rejections. No fourth rejection was created and rejection_count_for_id remains 3. The correction is queued for producer task 1/5; the revision may be reconsidered for approval after correction, with exact new blob SHAs."
+    }
+  ]
 }
