@@ -61,7 +61,7 @@ Novas linhas | 25
 Substituição ou modernização | 15
 ```
 
-As duas quantidades de rede não são medidas aditivas de nova capacidade: uma corresponde à construção de novas linhas e a outra ao trabalho nas redes existentes. Ambas implicam demanda por condutores, transformadores, equipamentos de manobra, eletrônica de potência, engenharia e instalação. A AIE também observa mais de 2.000 ataques cibernéticos por semana contra sistemas de energia em 2025 e cerca de 3.000 grandes interrupções de energia associadas a eventos naturais desde 2022. A eletrificação reduz parte da exposição aos combustíveis fósseis, mas pode deslocar o risco para redes, controle digital e cadeias concentradas de equipamentos. [1]
+As duas quantidades de rede não são medidas aditivas de nova capacidade: uma corresponde à construção de novas linhas e a outra ao trabalho nas redes existentes. Ambas implicam demanda por condutores, transformadores, equipamentos de manobra, eletrônica de potência, engenharia e instalação. A AIE registra mais de 2.000 ataques cibernéticos por semana contra empresas do setor de energia em 2025 e cerca de 3.000 grandes interrupções de energia reportadas globalmente e associadas a eventos naturais desde 2022. A eletrificação reduz parte da exposição aos combustíveis fósseis, mas pode deslocar o risco para redes, controle digital e cadeias concentradas de equipamentos. [1]
 
 ## 4. A restrição de financiamento é maior onde a necessidade é maior
 

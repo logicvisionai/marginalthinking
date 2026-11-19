@@ -61,7 +61,7 @@ New lines | 25
 Replacement or upgrades | 15
 ```
 
-The two grid quantities are not additive measures of new capacity: one is new construction and the other is work on existing networks. Both imply demand for conductors, transformers, switchgear, power electronics, engineering and installation. The IEA also notes that more than 2,000 cyberattacks per week affected energy systems in 2025 and that natural hazards caused around 3,000 major energy outages since 2022. Electrification reduces some fossil-fuel exposure but can shift risk toward networks, digital control and concentrated equipment supply chains. [1]
+The two grid quantities are not additive measures of new capacity: one is new construction and the other is work on existing networks. Both imply demand for conductors, transformers, switchgear, power electronics, engineering and installation. The IEA reports more than 2,000 cyberattacks per week targeting energy utilities in 2025 and around 3,000 major energy outages reported globally and linked to natural hazards since 2022. Electrification reduces some fossil-fuel exposure but can shift risk toward networks, digital control and concentrated equipment supply chains. [1]
 
 ## 4. The financing constraint is largest where the need is greatest
 

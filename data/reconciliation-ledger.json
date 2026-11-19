@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-16T11:08:58.922Z",
+  "last_reconciled_at": "2026-11-19T09:52:19.046Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9781,6 +9781,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "NBS high-tech industrial aggregates establish output growth for a statistical category. They do not establish a product-specific deployment, verified capability milestone or maturity revision."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-global-macro-publication-reconciliation",
+      "reconciled_at": "2026-11-19T09:52:19.046Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-19"
+      ],
+      "audit_note": "Reviewed the WEO 2026 and November Oil Market Report, Hormuz oil/LNG flows and bypass routes, war-related shipping exposure, grid and pipeline investment requirements, AI data-centre electricity demand and macro financing against all seven required cumulative assets. No canonical dataset mutation is justified: the report provides aggregate/scenario evidence rather than asset-level bilateral edges, site-level project commitments, ownership/control changes, completed policy outcomes or technology deployment milestones; evidence gaps are recorded explicitly.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The WEO's pre-crisis Hormuz oil/LNG destination shares and 7 mb/d bypass-pipeline figure are aggregate and scenario-level. They do not provide a newly audited bilateral weighted dependency edge or country-specific time series under the canonical network schema. Do not add estimated flows."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The 7 mb/d pipeline pipeline and 25 million km of new lines / 15 million km of upgrades are aggregate system requirements. No site-level project is established with a confirmed sponsor, committed capex, schedule, permits, capacity, customer demand and return. Do not create opportunity nodes."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The report documents no ownership, voting-rights, beneficial-control transfer or newly verified controlling entity. Government and IEA statements are not ownership events."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil production, inventories and route shares do not establish a concession, reserve right, operator-control change or resource-ownership transfer."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "IEA CPS, STEPS, ARC and Low Hormuz Case are modelled scenarios. The report contains no completed policy intervention with ex-post outcomes and a defensible counterfactual suitable for a canonical policy-case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report uses aggregate war-related energy losses and shipping-risk evidence, but does not establish a new date-specific incident with event-level independent attribution sufficient to amend the conflict timeline. Retain the macro transmission evidence; do not infer an incident record from aggregate losses."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI data-centre electricity demand and grid-equipment constraints are macro demand/infrastructure observations, not a new demonstrated technical capability, independent replication, deployment, manufacturing-output or scale milestone."
         }
       ]
     }
