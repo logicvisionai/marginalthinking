@@ -2,16 +2,16 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-19",
   "slug": "2026-11-19-global-macro",
-  "revision": 2,
-  "rejection_count_for_id": 2,
-  "rejection_loop_limit_reached": false,
+  "revision": 3,
+  "rejection_count_for_id": 3,
+  "rejection_loop_limit_reached": true,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-19T10:40:47Z",
-  "reviewed_commit": "33df4607182a06ece5ab449ebc1bef22701a42c3",
-  "pending_blob_sha": "621e1a6eb39cc79da62440f1d1a5a22507ee4be3",
+  "reviewed_at": "2026-11-19T10:53:30Z",
+  "reviewed_commit": "55823fdb4a72a4a28fdeb424d360a9085c9e9d50",
+  "pending_blob_sha": "28592c099b83192e99953f57081e65201004143a",
   "source_blob_shas": {
-    "en": "502107e768ce2944b196712e9647fb340079dfaa",
-    "pt-BR": "978d2d8b8ff09bd70061518ba23dbe98ea556c18"
+    "en": "b27717d81115424f47e0a007df7874340b6a9435",
+    "pt-BR": "84fd6712b6bbd1e1bc65352112b47128e3255f75"
   },
   "previous_rejections": [
     {
@@ -43,6 +43,50 @@
           "required_correction": "Append a new run to data/reconciliation-ledger.json that includes MT-GM-2026-11-19 in report_ids_reviewed and exactly one allowed decision for each of the seven active reconciliation-required assets. Use updated, verified_no_change, not_applicable or deferred_evidence_gap according to the evidence; do not invent bilateral dependency edges, project commitments, ownership/control changes, policy effects or technology-maturity advances. Record the reconciliation run ID in pending producer_checks for traceability, then write the pending sidecar last so the corrected state has a new pending blob SHA. Re-submit that exact new pending SHA and the exact EN/PT-BR SHAs for independent QA."
         }
       ]
+    },
+    {
+      "revision": 2,
+      "reviewed_at": "2026-11-19T10:40:47Z",
+      "reviewed_commit": "33df4607182a06ece5ab449ebc1bef22701a42c3",
+      "pending_blob_sha": "621e1a6eb39cc79da62440f1d1a5a22507ee4be3",
+      "source_blob_shas": {
+        "en": "502107e768ce2944b196712e9647fb340079dfaa",
+        "pt-BR": "978d2d8b8ff09bd70061518ba23dbe98ea556c18"
+      },
+      "issues": [
+        {
+          "severity": "material",
+          "code": "POST_CUTOFF_SOURCE_USED",
+          "paths": [
+            "data/pending/2026-11-19-global-macro.json",
+            "staging/research/2026/11/2026-11-19-global-macro/en.md",
+            "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "pending.producer_checks.information_cutoff: 19 Nov 2026 06:01 BRT / 09:01 UTC",
+            "en.md:11, reference [4]",
+            "pt-BR.md:11, reference [4]",
+            "References [4] in both editions"
+          ],
+          "evidence": "The Reuters page cited as [4] records publication at 10:28 UTC on 19 November 2026. The declared information cutoff is 09:01 UTC. The source therefore postdates the cutoff by 87 minutes, yet it is used to support the 18 November US equity close, Nvidia results and Fed-minute interpretation. The current producer check marks source_vintage_and_cutoff as passed_with_limitation and does not disclose this post-cutoff source.",
+          "required_correction": "If the 06:01 BRT cutoff is retained, remove Reuters [4] from the evidence set and support every affected claim with sources demonstrably available by 09:01 UTC; otherwise update both published_at and information_cutoff to a later, accurate time and rerun the full source-vintage review. Do not change the cutoff alone without checking every other source timestamp and market observation."
+        },
+        {
+          "severity": "material",
+          "code": "CONFLICTING_MARKET_CLOSE_VALUES",
+          "paths": [
+            "staging/research/2026/11/2026-11-19-global-macro/en.md",
+            "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "en.md:11, references [4][14]",
+            "pt-BR.md:11, references [4][14]",
+            "en.md and pt-BR.md: References [4] and [14]"
+          ],
+          "evidence": "Reuters [4] explicitly labels its figures preliminary and reports S&P 500 7,322.53 (-0.24%), Dow 50,193.03 (-1.12%) and Nasdaq 24,429.89 (+0.39%). AP [14] reports different Wednesday figures: S&P 500 7,323.63 (-0.2%), Dow 50,198.17 (-1.1%) and Nasdaq 24,429.88 (+0.4%). The report presents the Reuters values as the unqualified close while citing both sources, without identifying the Reuters values as preliminary or explaining the discrepancy.",
+          "required_correction": "Select and label one consistent data vintage for the 18 November close. If using AP's reported close, update the figures in both languages and remove the conflicting Reuters values from that claim. If retaining Reuters preliminary values, label them explicitly as preliminary, preserve the source timestamp, remove AP as support for those exact numbers and ensure the chosen source is eligible under the declared cutoff."
+        }
+      ]
     }
   ],
   "taxonomy_check": "passed",
@@ -51,47 +95,47 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "The current main tree and all three staged blobs were re-read. Pending revision 2 is ready:true. No approval or public metadata exists for this revision."
+      "summary": "The exact revision 3 pending and both staged Markdown blobs were reread from main. No approval or public metadata exists for revision 3."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending v2 fields, controlled taxonomy and phenomena are valid. The reconciliation run names this report and records decisions for all seven active reconciliation-required assets."
+      "summary": "Pending v2, canonical ID/slug, taxonomy, phenomena and the seven-asset reconciliation record remain valid."
     },
     "source_vintage_and_cutoff": {
-      "result": "failed",
-      "summary": "The declared cutoff is 2026-11-19 09:01 UTC. Reuters reference [4] was published at 10:28 UTC, 87 minutes after the cutoff, yet is used in both editions for the 18 November US equity close, Nvidia and Fed-minute claims."
+      "result": "passed_with_residual_issue",
+      "summary": "The revised 07:45 BRT / 10:45 UTC cutoff includes Reuters [4] at 10:28 UTC and the 09:53 GMT oil snapshot in Reuters [2]. The remaining issue is the unsupported exact prior-session settlement prices and an obsolete 04:55 GMT observation."
     },
     "factual_methodology": {
-      "result": "passed_with_material_source_issue",
-      "summary": "IEA WEO 2026 and November OMR, EIA weekly petroleum data, Eurostat HICP, World Bank debt aggregates, Treasury par yields, Fed minutes and Brazilian/Indian market figures were checked. The underlying energy-market figures reviewed are supported, but the US equity close is not reconciled to the declared cutoff and source vintage."
+      "result": "passed_with_material_traceability_issue",
+      "summary": "The 18 Nov Brent and WTI percentage declines are supported by Reuters [2], and the 19 Nov 09:53 GMT quotes are supported by the same article. However, the exact 18 Nov settlement prices and the 04:55 GMT quote in the staged text are not supported by the cited source versions."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "Reuters [4] is post-cutoff. In addition, Reuters reports preliminary index values (S&P 7,322.53; Dow 50,193.03; Nasdaq 24,429.89), while AP [14] reports different Wednesday figures (S&P 7,323.63; Dow 50,198.17; Nasdaq 24,429.88). Both are cited beside one unqualified close statement."
+      "summary": "The report cites Reuters [2] and EIA [3] for Brent US$91.95 and WTI US$83.26 settlement prices, but Reuters [2] only states the prior-session percentage declines and EIA [3] is an inventory report. The current Reuters [2] page gives a later 09:53 GMT quote of Brent US$92.19 and WTI US$83.31, not the report's 04:55 GMT near-US$92/US$83 snapshot."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "The candidate has nine analytical sections, competing interpretations, contrary evidence, conditional scenarios and invalidation indicators. The strict editorial-depth workflow did not list this candidate among its failures; its global failure is attributable to seven other staged documents."
+      "summary": "The candidate retains nine analytical sections, conditional scenarios, contrary evidence and invalidation indicators; the strict depth workflow did not list this candidate among failures."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both editions contain two explicit bar charts, three evidence tables, one regional map and one causal flow. Chart values, periods, labels, units and map regions are semantically equivalent. No candidate-specific visual-budget failure appeared in the strict workflow."
+      "summary": "Two quantitative charts, three evidence tables, one regional map and one causal flow remain reproducible and semantically equivalent across EN/PT-BR."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "EN and PT-BR preserve the same analytical structure, source list, numerical claims, qualifications, scenarios and visual evidence. The cutoff/source problem appears in both editions."
+      "summary": "Both editions contain the same 13 source URLs, numbers, cutoff, scenario conditions and visual evidence. The unresolved oil-price traceability problem is present in both."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report distinguishes rapid physical normalisation, persistent route disruption and accelerated diversification, and identifies observable evidence that would weaken each path."
+      "summary": "The three conditional paths and their invalidation conditions remain explicit."
     },
     "system_registry_reconciliation": {
       "result": "passed",
-      "summary": "The append-only reconciliation run 2026-11-19-global-macro-publication-reconciliation names MT-GM-2026-11-19 and records an allowed decision for each of the seven active assets."
+      "summary": "The ledger run 2026-11-19-global-macro-publication-reconciliation is linked to the candidate and records decisions for all seven required assets."
     },
     "editorial_depth_script": {
       "result": "failed_on_other_pending_items",
-      "summary": "The strict workflow ran validate-editorial-depth.mjs on the full pending set. It exited 1 on seven other staged IDs (SLAVERY, MAUA, MEDICI, ROCKEFELLER, ROTHSCHILD, MT-GM-2026-11-08 and MT-HIST-ECONOMISTS-2026-11-11); MT-GM-2026-11-19 was not listed among failures."
+      "summary": "The strict workflow failed on seven unrelated staged items; MT-GM-2026-11-19 was not listed among candidate failures."
     },
     "pipeline_validation": {
       "result": "passed",
@@ -99,41 +143,26 @@
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "The declared cutoff is violated by a cited source published 87 minutes after cutoff, and the US equity-close figures conflict between the cited Reuters preliminary data and AP figures. The exact source vintage and reported close must be reconciled before publication."
+      "summary": "The exact Brent/WTI settlement prices and the 04:55 GMT quote lack support in the current cited source set; a material market-data claim cannot be approved without a source and timestamp that support the precise observation."
     }
   },
   "issues": [
     {
       "severity": "material",
-      "code": "POST_CUTOFF_SOURCE_USED",
-      "paths": [
-        "data/pending/2026-11-19-global-macro.json",
-        "staging/research/2026/11/2026-11-19-global-macro/en.md",
-        "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "pending.producer_checks.information_cutoff: 19 Nov 2026 06:01 BRT / 09:01 UTC",
-        "en.md:11, reference [4]",
-        "pt-BR.md:11, reference [4]",
-        "References [4] in both editions"
-      ],
-      "evidence": "The Reuters page cited as [4] records publication at 10:28 UTC on 19 November 2026. The declared information cutoff is 09:01 UTC. The source therefore postdates the cutoff by 87 minutes, yet it is used to support the 18 November US equity close, Nvidia results and Fed-minute interpretation. The current producer check marks source_vintage_and_cutoff as passed_with_limitation and does not disclose this post-cutoff source.",
-      "required_correction": "If the 06:01 BRT cutoff is retained, remove Reuters [4] from the evidence set and support every affected claim with sources demonstrably available by 09:01 UTC; otherwise update both published_at and information_cutoff to a later, accurate time and rerun the full source-vintage review. Do not change the cutoff alone without checking every other source timestamp and market observation."
-    },
-    {
-      "severity": "material",
-      "code": "CONFLICTING_MARKET_CLOSE_VALUES",
+      "code": "OIL_SETTLEMENT_AND_INTRADAY_QUOTES_NOT_TRACEABLE",
       "paths": [
         "staging/research/2026/11/2026-11-19-global-macro/en.md",
-        "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+        "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md",
+        "data/pending/2026-11-19-global-macro.json"
       ],
       "locations": [
-        "en.md:11, references [4][14]",
-        "pt-BR.md:11, references [4][14]",
-        "en.md and pt-BR.md: References [4] and [14]"
+        "en.md:9, references [2][3]",
+        "pt-BR.md:9, references [2][3]",
+        "en.md:3 and pending.producer_checks.information_cutoff",
+        "pt-BR.md:3"
       ],
-      "evidence": "Reuters [4] explicitly labels its figures preliminary and reports S&P 500 7,322.53 (-0.24%), Dow 50,193.03 (-1.12%) and Nasdaq 24,429.89 (+0.39%). AP [14] reports different Wednesday figures: S&P 500 7,323.63 (-0.2%), Dow 50,198.17 (-1.1%) and Nasdaq 24,429.88 (+0.4%). The report presents the Reuters values as the unqualified close while citing both sources, without identifying the Reuters values as preliminary or explaining the discrepancy.",
-      "required_correction": "Select and label one consistent data vintage for the 18 November close. If using AP's reported close, update the figures in both languages and remove the conflicting Reuters values from that claim. If retaining Reuters preliminary values, label them explicitly as preliminary, preserve the source timestamp, remove AP as support for those exact numbers and ensure the chosen source is eligible under the declared cutoff."
+      "evidence": "The exact 18 Nov settlements (Brent US$91.95; WTI US$83.26) are attributed to [2][3]. The current cited Reuters [2] page states only that Brent fell 1.3% and WTI 3.2% in the prior session; EIA [3] supports inventory figures, not settlement prices. A separate Reuters article dated 18 Nov explicitly gives the exact settlements (https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/), but it is absent from the reference list. The report also states a 04:55 GMT 19 Nov quote, while the current Reuters [2] page gives the observed quote at 09:53 GMT: Brent US$92.19 and WTI US$83.31. The exact 04:55 snapshot is not present in the cited page.",
+      "required_correction": "Add the 18 Nov Reuters settlement article as a distinct reference for US$91.95/US$83.26, cite it beside those values, and keep the EIA source for inventory data only. Replace the unsupported 04:55 GMT quote with the Reuters 09:53 GMT observation (Brent US$92.19; December WTI US$83.31; January WTI US$82.43) and cite [2], or provide a verifiable source for the 04:55 snapshot. Apply identical changes to EN/PT-BR and update the pending source-vintage and reference-count records."
     }
   ],
   "contrary_evidence": [
@@ -146,7 +175,8 @@
     "The exact public release hour of the IEA World Energy Outlook 2026 is not displayed on the public report page; the producer relies on a separate embargo advisory.",
     "IEA scenarios and system requirements are conditional, not realised infrastructure or committed capital.",
     "Treasury par yields do not measure private credit spreads or project-finance margins.",
-    "The strict editorial-depth workflow has repository-wide failures on seven other staged items; this candidate was not one of them."
+    "The strict editorial-depth workflow has repository-wide failures on seven other staged items; this candidate was not one of them.",
+    "The current Reuters 19 Nov article is updated and shows a 09:53 GMT price observation; the staged 04:55 GMT quote is not visible in that source version."
   ],
-  "notes": "Second rejection for MT-GM-2026-11-19. The system-registry defect from revision 1 is corrected and preserved in the history. Revision 2 is rejected for a new source-cutoff violation and unreconciled US market-close data. No approval or publication authorization was created. The next producer revision must update the pending sidecar last so it binds the corrected EN/PT-BR SHAs."
+  "notes": "Third rejection for MT-GM-2026-11-19. The previous cutoff and conflicting index-vintage defects from revision 2 are corrected in revision 3. A new material traceability defect remains in the oil-market snapshot. The rejection-loop limit is now reached; no fourth rejection may be recorded. A future corrected revision may be reviewed once, but if it still fails, it must be blocked and escalated rather than rejected again."
 }
