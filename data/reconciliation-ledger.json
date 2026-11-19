@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-19T12:12:20.313Z",
+  "last_reconciled_at": "2026-11-19T12:57:12.635Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9836,6 +9836,51 @@
         "MT-GM-2026-11-17"
       ],
       "audit_note": "Reviewed the 17 November Global Macro edition and its cited market, monetary, industrial, energy and technology observations against all seven active cumulative assets. No canonical dataset mutation is justified: the report supplies market prices, official macro indicators and aggregate energy/technology context, but no new bilateral dependency edge, site-level project commitment, ownership/control transfer, completed policy intervention with ex-post outcome, event-level conflict update or technology capability/deployment milestone. Evidence gaps and non-applicability are recorded explicitly; no figures or asset updates are inferred.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report contains cross-market equity, currency and aggregate energy observations, but no newly audited country-to-country dependency edge, bilateral trade/energy flow or country-specific exposure series that meets the canonical network schema. Do not infer dependency weights from market co-movement."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report discusses semiconductor investment conditions and industrial production, but does not identify a site-level project with a confirmed sponsor, committed capex, schedule, permits, capacity, customer demand and defensible return. Do not create opportunity entries from sector commentary or a scheduled earnings release."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The report documents no new ownership, voting-rights, beneficial-control transfer, board-control change or newly verified controlling entity. Market-price movements and issuer earnings calendars are not ownership events."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The report documents no concession, reserve right, resource-ownership transfer, operator change or verified control change over a strategic resource."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report discusses monetary expectations and macroeconomic conditions but does not evaluate a discrete completed policy intervention with observed implementation, ex-post outcomes and a defensible counterfactual suitable for a canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report refers to aggregate oil-flow recovery through the Strait of Hormuz as market context, but does not establish a new dated incident with event-level evidence and independent attribution sufficient to update a conflict-system timeline. Do not infer an incident record from an aggregate price move or shipment commentary."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "At the 17 November 01:30 BRT cutoff, Nvidia's results were still scheduled for later that day. The report discusses listed-market repricing and future orders, not a new claimed, demonstrated, deployed or scaled technical capability, independent replication, manufacturing output or deployment milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-global-macro-publication-final-reconciliation",
+      "reconciled_at": "2026-11-19T12:57:12.635Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-17"
+      ],
+      "audit_note": "Publication-time recheck against all seven active reconciliation-required assets. The prior append-only QA/producer reconciliation remains valid; no new evidence or canonical dataset mutation is justified. The same evidence-based decisions are carried forward to the publication commit.",
       "decisions": [
         {
           "asset_id": "global-dependency-network",
