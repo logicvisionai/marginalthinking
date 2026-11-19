@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-09-PREHISTORIC-INEQUALITY",
+  "slug": "2026-11-09-prehistoric-inequality-agriculture-inheritance",
+  "revision": 1,
+  "rejection_count_for_id": 1,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-19T05:08:25Z",
+  "reviewed_commit": "88075f8e1c8db4b623cbcbe3fe9f83b819bd342a",
+  "pending_blob_sha": "49b3139338c93144bc261076f31ed915bee0c810",
+  "source_blob_shas": {
+    "en": "a1c81af77ea323324df5cc38fd05a96e78f6ceff",
+    "pt-BR": "204e67f8a9c58f4382bb1252c35c4981222a1905"
+  },
+  "issues": [
+    {
+      "severity": "material",
+      "code": "PREHISTORIC_CHRONOLOGY_AND_DATING_BASIS_OMITTED",
+      "paths": [
+        "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/en.md",
+        "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/pt-BR.md"
+      ],
+      "locations": [
+        "EN lines 21, 47, 72, 96, 120 and 130",
+        "PT-BR lines 21, 47, 72, 96, 120 and 130",
+        "CIVILIZATIONS-HISTORICAL-POLITICAL-ECONOMY.md §4, Periodização flexível"
+      ],
+      "evidence": "Both editions discuss multiple prehistoric periods and sites—Upper Paleolithic/Sunghir, Neolithic Çatalhöyük, Late Neolithic–Middle Bronze Age Lech Valley, and the Central European burial-mound sample—but provide no absolute prehistoric dates or dating basis in the body. A scan of both complete texts finds no BP, cal BP, BCE/BC, a.C./AEC or equivalent prehistoric date notation; publication years (2017–2025) are not observation dates. The omission is material because the report's central argument concerns the sequence from temporary differentiation to durable intergenerational inequality. The reader cannot assess chronological order, overlap or the time window represented by the samples. The cited literature supplies dated frames that should be carried into the report: Bowles and Fochesato review western Eurasian Neolithic contexts dated 11,700–5,300 years ago; Kohler et al. describe Old World contexts spanning approximately 11,000–2,000 years ago and American contexts approximately 3,000–300 years ago; Marzian et al. analyse a supra-regional network over the first four millennia BCE. The repository's historical-civilizations standard explicitly requires prehistoric dates to identify whether they are BP, cal BP, calibrated or approximate.",
+      "source_urls": [
+        "https://econpapers.repec.org/article/aeajeclit/v_3a62_3ay_3a2024_3ai_3a4_3ap_3a1475-1537.htm",
+        "https://www.nature.com/articles/nature24646",
+        "https://www.nature.com/articles/s41599-024-03053-x"
+      ],
+      "required_correction": "Add source-verified chronological windows for each major archaeological case and comparative dataset: identify the date range for Sunghir, Çatalhöyük, the Lech Valley sequence, the Marzian burial-mound sample, and the temporal coverage of the Kohler and Bowles–Fochesato comparisons. State the dating convention and uncertainty for prehistoric dates (BP, cal BP, calibrated or approximate) and use BCE/CE consistently where appropriate. Distinguish observation periods from publication years. Apply equivalent dates and qualifications in EN and PT-BR; do not infer a more precise range than the cited archaeological source supports."
+    },
+    {
+      "severity": "material",
+      "code": "SUNGHIR_PATHOLOGICAL_ALTERNATIVE_OMITTED",
+      "paths": [
+        "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/en.md",
+        "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/pt-BR.md"
+      ],
+      "locations": [
+        "EN line 72",
+        "PT-BR line 72"
+      ],
+      "evidence": "The paragraph presents ascribed or kin-associated standing as a possible explanation for the elaborate child burials but omits a material alternative discussed by its own cited source [6]. Trinkaus and Buzhilova (Antiquity, 2018) describe a range of funerary treatments, some probably related to individual pathological abnormalities, and specifically caution that the Sunghir 2–3 conditions may have influenced their final burial contexts. The source also says differential social status may apply because of the children's ages; it does not establish kinship-based status or a hereditary institution. Omitting the pathological/mortuary explanation gives the status interpretation disproportionate weight.",
+      "source_url": "https://www.cambridge.org/core/journals/antiquity/article/diversity-and-differential-disposal-of-the-dead-at-sunghir/B7672FB594E94A505A35E10C869F3808",
+      "required_correction": "Present the pathological and mortuary-practice explanation alongside the possible ascribed-status interpretation. State that the burial evidence cannot distinguish status, ritual role, individual pathology or other funerary conventions on its own. Remove or explicitly qualify the phrase 'kin-associated' unless a source directly supports that specific inference. Preserve the distinction between possible ascribed status and demonstrated kinship-based succession."
+    }
+  ],
+  "checks": {
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "The core quantitative values and study sample sizes were checked against the cited research, but the report omits the dated observation windows needed to interpret its prehistoric comparisons."
+    },
+    "historical_chronology": {
+      "result": "failed",
+      "summary": "Neither locale gives absolute prehistoric chronology or identifies the BP/cal BP/calibrated/approximate basis required by the historical-civilizations editorial standard."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The pending cutoff is 9 November 2026 and the stated peer-reviewed literature cutoff through 2025 is consistent with the cited publication dates."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "The Sunghir paragraph omits a material competing explanation present in its cited 2018 source and over-specifies a kin-associated interpretation not established by that source."
+    },
+    "taxonomy_check": {
+      "result": "passed",
+      "summary": "schema_version 2, taxonomy 1.0, program, related program, dimensions, geography, topics, phenomena, format and cadence are valid; the historical-civilizations kind is registered."
+    },
+    "translation_check": {
+      "result": "passed",
+      "summary": "Both locales preserve the same eight source URLs, numeric chart series, source ordinals, argument structure and the same chronology/Sunghir omissions; corrections must be applied symmetrically."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 3990,
+        "pt-BR": 4361
+      },
+      "summary": "Both editions exceed the 1,700-word research-report floor, contain 15 analytical sections plus references, eight source URLs across seven distinct hosts, and explicit hypotheses/tests/falsifiers."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain two explicit charts, one evidence table, one causal flow with three chains, one mind map and one five-region comparison map. Chart series match exactly: [0.17, 0.27, 0.35] and [0.25, 0.28, 0.44]. The visuals are reproducible from the cited studies and meet the research-report visual floor."
+    },
+    "counterfactual_review": {
+      "result": "failed",
+      "summary": "The report presents alternative mechanisms in general, but the Sunghir case omits the pathological/mortuary explanation in the cited source, leaving a material case-specific competing interpretation unrepresented."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The report is substantively developed and visually compliant, but the missing prehistoric dating basis and incomplete Sunghir evidence qualification prevent publication."
+    },
+    "pipeline_validation": {
+      "result": "not_run",
+      "summary": "validate-pipeline.mjs and validate-editorial-depth.mjs were not executed because the local Git clone could not resolve github.com. Candidate-specific deterministic thresholds were manually reproduced from the current scripts and source files."
+    }
+  },
+  "confidence": "medium",
+  "limitations": [
+    "The local Git clone failed with DNS resolution error for github.com; repository scripts could not be executed in a complete local checkout.",
+    "Candidate-specific word, URL, host, section, visual-budget, chart-parity, taxonomy and source-reference checks were reproduced manually from the exact current blobs.",
+    "Publisher access to the full Nature and AEA article pages was restricted in this review; available abstracts, publisher metadata and open research records were used to verify the cited claims and periods."
+  ],
+  "notes": "First rejection for MT-PE-2026-11-09-PREHISTORIC-INEQUALITY, revision 1. The report passes the deterministic depth and visual floors and uses valid taxonomy. Approval is withheld for missing dated prehistoric observation windows and the omitted pathological/mortuary alternative in the Sunghir discussion. The corrected producer must update both locales and resubmit the pending sidecar last with new exact blob SHAs. No public report, index, CSS, taxonomy or institutional content was changed.",
+  "history": []
+}
