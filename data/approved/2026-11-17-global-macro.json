@@ -1,0 +1,212 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-17",
+  "slug": "2026-11-17-global-macro",
+  "revision": 4,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-19T12:53:13.788Z",
+  "reviewed_commit": "e6509309769351cb4a5f4f54a235d1f9d76a26db",
+  "pending_blob_sha": "3aed42287a4efe21a9b3fd0be2e103d4650cd4af",
+  "source_blob_shas": {
+    "en": "4df1e2c1e884c1d2e1b1a8675527a2ea3d1b9412",
+    "pt-BR": "59898220968de50e06787543322f7b4a19896634"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "The exact pending v2 blob and both staged Markdown blobs were re-read from main immediately before approval. Their SHAs match this immutable review snapshot. No approval, canonical metadata or index entry existed for this ID/slug."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending v2 required fields are present; ID, canonical slug, date, daily-global-macro kind, political-economy-markets program, related program, dimensions, global geography, topics and empty phenomena array conform to the schema and controlled taxonomy."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 17 Nov 01:30 BRT / 04:30 UTC cutoff is explicit. Market returns are dated 16 Nov; Treasury yields use 16 Nov par observations; Focus is dated 13 Nov; IBC-Br and Eurostat industrial production were released 16 Nov; the October HICP is explicitly a 4 Nov flash estimate, with full data scheduled after cutoff for 18 Nov; BoJ FX is 16 Nov 17:00 JST; IEA OMR was published 13 Nov; Nvidia results and FOMC minutes remain scheduled, not observed."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Original Reuters market report, US Treasury daily par curve, Federal Reserve statement and calendar, BCB Focus PDF, BCB IBC-Br series plus the explicitly attributed Estadão breakdown, Eurostat industrial-production and HICP releases, BoJ FX sheet, IEA Oil Market Report and Nvidia IR schedule were checked. Reported figures, units, comparison periods and forecast/observation distinctions match their sources."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Both editions contain the same 14 numbered source URLs across 10 distinct hosts. Primary institutional sources support yields, policy, surveys, activity, industrial production, FX, energy supply and the earnings calendar; Reuters is used for market-session observations and attributed oil-flow interpretation; Estadão Conteúdo is explicitly identified for detailed quarterly IBC-Br decomposition."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "The exact deterministic rules in validate-editorial-depth.mjs were reproduced against both staged blobs: 1,932 EN and 2,164 PT-BR words (1,700 minimum for daily research); 14 URLs and 10 hosts per locale; six analytical sections plus references; two charts, one flow, one map and four tables (20 pipe-table rows); explicit conditional scenarios/falsifiers and observation dates. The strict script was not invoked with MT_VALIDATE_ALL_PENDING=1 in this connector-only run; the candidate-specific rule set was checked directly."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two sourced charts use the Treasury changes (-5 and -3 bp) and Eurostat industrial-group series (0.7, -1.7, 0, 1.3, -0.4); their numeric series are identical across locales. A four-region map and two conditional financing mechanisms are grounded in the text. Four evidence/scenario tables provide dated observations and conditions. No fabricated coordinates, series or operational metrics."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "EN and PT-BR retain the same 14 sources, periods, market values, Focus medians, IBC-Br comparisons, HICP status, two chart series, four regional map cards, two causal chains, scenario tests and confidence level. Wording is idiomatic in each language without changing epistemic status."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The thesis is explicit and testable; observed facts, attributed reporting, inference and conditional scenarios are distinguished. Numbered references appear in the argument and full bibliographic links are collected at the end. No product/process labels, internal QA language or unsupported capability claims appear in either manuscript."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "The report preserves three material constraints: Treasury yields fell while equities fell; Brazilian quarterly activity weakened while its year-on-year comparison remained positive; euro-area industrial production rose monthly while remaining lower year on year."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Three conditional scenarios each specify evidence that would strengthen and weaken the interpretation: technology repricing, broader oil relief and Brazilian disinflation following weaker demand."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The immediately preceding 16 Nov Global Macro centered on China and Japan releases. This edition adds the 16 Nov US/Asia equity close, current Treasury curve, new Eurostat industrial-production release, and Brazil's IBC-Br and Focus revisions published after the prior cutoff."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Append-only ledger run 2026-11-17-global-macro-publication-reconciliation names this report and records decisions for all seven active reconciliation-required assets. Evidence gaps and non-applicability are explicit; no unsupported dataset mutation was made."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "The current HEAD production workflow completed successfully: validate-pipeline reported 204 public bundles, zero approved-unpublished items and zero active unpublished pending; validate-system-registry passed for 63 assets; production depth and visual checks passed for their configured scope. The normal build excludes unapproved drafts, so the candidate's strict depth thresholds were reproduced separately above."
+    }
+  },
+  "contrary_evidence": [
+    "US Treasury yields fell while stocks fell, limiting an explanation based on rising sovereign rates that day.",
+    "Quarterly Brazilian activity weakened while its year-on-year comparison remained positive.",
+    "Euro-area industry rose on the month but contracted year on year."
+  ],
+  "limitations": [
+    "Equity returns refer to local sessions with different closing times and structures.",
+    "Treasury yields do not identify movements in private credit spreads or the term premium.",
+    "Focus responses precede the IBC-Br release and the monthly/quarterly activity measures are not the IBGE GDP series.",
+    "October euro-area inflation is a flash estimate at the cutoff.",
+    "The detailed quarterly and sectoral IBC-Br decomposition is attributed to Estadão Conteúdo; the BCB open-data series is the primary source for the seasonally adjusted monthly indicator.",
+    "The Reuters market article is updated on 16 November and reports that session's close; the page exposes an original publication timestamp and update date but not a separate update time.",
+    "Private credit spreads and firm-level financing terms are not directly measured here; transmission to borrowers is conditional rather than asserted as an observed market-wide outcome."
+  ],
+  "notes": "Independent QA approval for revision 4 only. The prior three rejection records remain immutable and the final outstanding registry-reconciliation issue is resolved by the append-only ledger run. Approval applies exclusively to this publication snapshot and the three verified Git blob SHAs; it does not assert that the publisher has deployed or published the report.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-17",
+    "slug": "2026-11-17-global-macro",
+    "date": "2026-11-17",
+    "published_at": "2026-11-17T01:30:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "energy",
+      "industry-production"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 4,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "17 Nov 01:30 BRT / 04:30 UTC. Market figures are from 16 Nov. Nvidia results, Eurostat final HICP and Fed minutes are scheduled, not observed.",
+      "novelty": "Adds the US/Asia equity close, Monday’s Treasury curve and energy repricing, euro-area industrial production, and the IBC-Br and Focus data released after the previous edition’s cutoff.",
+      "bilingual_parity": "Both editions use the same 14 sources, chart values, periods, hypotheses and falsifiers.",
+      "visual_evidence": "Two sourced charts, market/Focus/scenario tables, a regional exposure map and two conditional financing mechanisms.",
+      "qa_rework": "Revision 2 corrects October euro-area full HICP publication to Wednesday 18 November 2026 in both locales, per Eurostat flash estimate 4 November; other factual and visual checks remain for independent QA.",
+      "system_registry_reconciliation": "Run 2026-11-17-global-macro-publication-reconciliation appended at 2026-11-19T12:12:20.313Z; all seven active reconciliation-required assets were reviewed with evidence-based decisions. No canonical dataset mutation was justified."
+    },
+    "limitations": [
+      "Equity returns refer to local sessions with different closing times and structures.",
+      "Treasury yields do not identify movements in private credit spreads or the term premium.",
+      "Focus responses precede the IBC-Br release and the monthly/quarterly activity measures are not the IBGE GDP series.",
+      "October euro-area inflation is a flash estimate at the cutoff."
+    ],
+    "contrary_evidence": [
+      "US Treasury yields fell while stocks fell, limiting an explanation based on rising sovereign rates that day.",
+      "Quarterly Brazilian activity weakened while its year-on-year comparison remained positive.",
+      "Euro-area industry rose on the month but contracted year on year."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-17-global-macro/en.md",
+        "title": "Global Macro — Chip stocks slide as Brazil’s activity weakens and inflation expectations rise",
+        "deck": "US chip stocks fell 5.3% even as Treasury yields eased. In Brazil, the IBC-Br contracted in the third quarter and the Focus survey’s 2027 inflation median reached 5.00%.",
+        "tags": [
+          "Global Macro",
+          "Semiconductors",
+          "Treasury yields",
+          "Brazil",
+          "Focus"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-17",
+          "17 November 2026",
+          "Focus November 2026",
+          "IBC-Br third-quarter activity"
+        ],
+        "regime": "Pressure on technology valuations despite a small decline in US sovereign yields, alongside softer Brazilian activity and higher inflation expectations.",
+        "key_risk": "Tighter private financing and exchange-rate pass-through could offset lower sovereign yields and crude prices.",
+        "watch": [
+          "Nvidia’s realized revenue and outlook",
+          "Euro-area final HICP components",
+          "FOMC minutes",
+          "Brazil services inflation and lending terms"
+        ],
+        "search_text": "17 November 2026 Global Macro semiconductors Treasury Focus IBC-Br Brazil Eurostat oil"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-17-global-macro/pt-BR.md",
+        "title": "Global Macro — Ações de chips recuam enquanto o Brasil perde ritmo e a inflação esperada sobe",
+        "deck": "As ações americanas de semicondutores caíram 5,3% mesmo com o recuo dos juros dos Treasuries. No Brasil, o IBC-Br caiu no trimestre e o Focus indicou IPCA de 5,00% para 2027.",
+        "tags": [
+          "Global Macro",
+          "Semicondutores",
+          "Juros dos Treasuries",
+          "Brasil",
+          "Focus"
+        ],
+        "keywords": [
+          "MT-GM-2026-11-17",
+          "17 de novembro de 2026",
+          "Focus de novembro de 2026",
+          "IBC-Br do terceiro trimestre"
+        ],
+        "regime": "Pressão sobre as ações de tecnologia com leve queda de juros soberanos nos EUA, atividade brasileira mais fraca e inflação esperada mais alta.",
+        "key_risk": "Crédito privado mais caro e repasse cambial podem limitar o alívio de juros soberanos e petróleo mais baixos.",
+        "watch": [
+          "Receita realizada e projeções da Nvidia",
+          "Componentes da inflação definitiva na zona do euro",
+          "Ata do FOMC",
+          "Inflação de serviços e condições de crédito no Brasil"
+        ],
+        "search_text": "17 novembro 2026 Global Macro semicondutores Treasuries Focus IBC-Br Brasil Eurostat petróleo"
+      }
+    },
+    "phenomena": [],
+    "revision_reason": "Revision 4 records the required append-only seven-asset system-registry reconciliation for MT-GM-2026-11-17. The staged EN/PT-BR manuscripts and their source claims are unchanged; the reconciliation found no evidence-supported canonical dataset mutation.",
+    "qa_fixes_applied": [
+      "Added top-level phenomena: [] as required for new or materially revised v2 research; no taxonomy value was invented and no manuscript text was changed.",
+      "Appended system-registry reconciliation run 2026-11-17-global-macro-publication-reconciliation with decisions for all seven active reconciliation-required assets; no dataset updates were inferred or fabricated."
+    ]
+  }
+}
