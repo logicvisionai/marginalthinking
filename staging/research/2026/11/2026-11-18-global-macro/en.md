@@ -156,7 +156,7 @@ The Commission forecast is primary institutional evidence for projections; it is
 [1] European Commission (2026), *Autumn 2026 Economic Forecast*, November 2026. https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en
 [2] European Commission (2026), *Spring 2026 Economic Forecast*, May 2026. https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/spring-2026-economic-forecast-slowdown-growth-energy-shock-drives-inflation_en
 [3] Associated Press (2026), *How major US stock indexes fared Tuesday 11/17/2026*, 17 November 2026. https://apnews.com/article/ff6caef4d9289cf7f1e6ee48a706eddc
-[4] Reuters (2026), *Oil edges up on tanker attacks, expected US crude drop*, 17 November 2026. https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/
+[4] Reuters (2026), report on oil prices, the supply-surplus outlook and Gulf tensions, 17 November 2026. https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/
 [5] U.S. Department of the Treasury (2026), *Daily Treasury par yield curve rates*, November 2026 observations. https://home.treasury.gov/treasury-daily-interest-rate-xml-feed
 [6] Reuters (2026), *Gold slides to over one-year low on firm dollar, US rate outlook*, 18 November 2026. https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/
 [7] Reuters (2026), *Euro zone economy seen growing moderately; France outlook weakest — Commission*, 17 November 2026. https://www.reuters.com/world/euro-zone-economy-seen-growing-moderately-france-outlook-weakest-commission-2026-11-17/
