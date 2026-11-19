@@ -2,105 +2,151 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-19",
   "slug": "2026-11-19-global-macro",
-  "revision": 1,
-  "rejection_count_for_id": 1,
+  "revision": 2,
+  "rejection_count_for_id": 2,
+  "rejection_loop_limit_reached": false,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-19T09:50:14.599Z",
-  "reviewed_commit": "73b0fc1269fe67f82d05dede638ab05c68a8a7a5",
-  "pending_blob_sha": "a5db00e1108f47deca2085a8d610fa7ebcd5acaf",
+  "reviewed_at": "2026-11-19T10:40:47Z",
+  "reviewed_commit": "33df4607182a06ece5ab449ebc1bef22701a42c3",
+  "pending_blob_sha": "621e1a6eb39cc79da62440f1d1a5a22507ee4be3",
   "source_blob_shas": {
-    "en": "786d9442e10b4de394e3deddd4d004db38c6eed3",
-    "pt-BR": "5861d9d4561ab7182c8074786ae9f892ecbe81e8"
+    "en": "502107e768ce2944b196712e9647fb340079dfaa",
+    "pt-BR": "978d2d8b8ff09bd70061518ba23dbe98ea556c18"
   },
-  "issues": [
+  "previous_rejections": [
     {
-      "severity": "material",
-      "code": "SYSTEM_REGISTRY_RECONCILIATION_MISSING_FOR_PUBLICATION",
-      "paths": [
-        "SYSTEM-REGISTRY.md",
-        "data/system-registry.json",
-        "data/reconciliation-ledger.json",
-        "data/pending/2026-11-19-global-macro.json"
-      ],
-      "locations": [
-        "SYSTEM-REGISTRY.md § Reconciliation rule",
-        "data/system-registry.json: seven active assets with reconciliation_required:true",
-        "data/reconciliation-ledger.json: last_reconciled_at and latest run report_ids_reviewed",
-        "pending.producer_checks: no reconciliation run reference"
-      ],
-      "evidence": "SYSTEM-REGISTRY.md requires the latest reconciliation run to name every public report and to contain a decision for every active registry asset with reconciliation_required:true. The current registry marks seven assets as requiring reconciliation: global-dependency-network, structural-opportunity-atlas, strategic-actors, resource-control-atlas, policy-case-atlas, conflict-systems and technology-signal-ledger. The current data/reconciliation-ledger.json ends at 2026-11-16T11:08:58.922Z; its latest run, 2026-11-16-global-macro-publication-reconciliation, names only MT-GM-2026-11-16. No run names MT-GM-2026-11-19. This report materially covers Hormuz oil/LNG flows and bypass routes, the Middle East war and maritime-security exposure, grid and pipeline investment requirements, and electricity-equipment constraints. At minimum, the dependency network, structural opportunity atlas and conflict systems require explicit evidence-based decisions; the registry still requires a recorded decision for all seven assets, including not_applicable or deferred_evidence_gap where justified. Without that append-only reconciliation record, the report cannot enter the public corpus without violating the registry rule.",
-      "required_correction": "Append a new run to data/reconciliation-ledger.json that includes MT-GM-2026-11-19 in report_ids_reviewed and exactly one allowed decision for each of the seven active reconciliation-required assets. Use updated, verified_no_change, not_applicable or deferred_evidence_gap according to the evidence; do not invent bilateral dependency edges, project commitments, ownership/control changes, policy effects or technology-maturity advances. Record the reconciliation run ID in pending producer_checks for traceability, then write the pending sidecar last so the corrected state has a new pending blob SHA. Re-submit that exact new pending SHA and the exact EN/PT-BR SHAs for independent QA."
+      "revision": 1,
+      "reviewed_at": "2026-11-19T09:50:14.599Z",
+      "reviewed_commit": "73b0fc1269fe67f82d05dede638ab05c68a8a7a5",
+      "pending_blob_sha": "a5db00e1108f47deca2085a8d610fa7ebcd5acaf",
+      "source_blob_shas": {
+        "en": "786d9442e10b4de394e3deddd4d004db38c6eed3",
+        "pt-BR": "5861d9d4561ab7182c8074786ae9f892ecbe81e8"
+      },
+      "issues": [
+        {
+          "severity": "material",
+          "code": "SYSTEM_REGISTRY_RECONCILIATION_MISSING_FOR_PUBLICATION",
+          "paths": [
+            "SYSTEM-REGISTRY.md",
+            "data/system-registry.json",
+            "data/reconciliation-ledger.json",
+            "data/pending/2026-11-19-global-macro.json"
+          ],
+          "locations": [
+            "SYSTEM-REGISTRY.md § Reconciliation rule",
+            "data/system-registry.json: seven active assets with reconciliation_required:true",
+            "data/reconciliation-ledger.json: last_reconciled_at and latest run report_ids_reviewed",
+            "pending.producer_checks: no reconciliation run reference"
+          ],
+          "evidence": "SYSTEM-REGISTRY.md requires the latest reconciliation run to name every public report and to contain a decision for every active registry asset with reconciliation_required:true. The current registry marks seven assets as requiring reconciliation: global-dependency-network, structural-opportunity-atlas, strategic-actors, resource-control-atlas, policy-case-atlas, conflict-systems and technology-signal-ledger. The current data/reconciliation-ledger.json ends at 2026-11-16T11:08:58.922Z; its latest run, 2026-11-16-global-macro-publication-reconciliation, names only MT-GM-2026-11-16. No run names MT-GM-2026-11-19. This report materially covers Hormuz oil/LNG flows and bypass routes, the Middle East war and maritime-security exposure, grid and pipeline investment requirements, and electricity-equipment constraints. At minimum, the dependency network, structural opportunity atlas and conflict systems require explicit evidence-based decisions; the registry still requires a recorded decision for all seven assets, including not_applicable or deferred_evidence_gap where justified. Without that append-only reconciliation record, the report cannot enter the public corpus without violating the registry rule.",
+          "required_correction": "Append a new run to data/reconciliation-ledger.json that includes MT-GM-2026-11-19 in report_ids_reviewed and exactly one allowed decision for each of the seven active reconciliation-required assets. Use updated, verified_no_change, not_applicable or deferred_evidence_gap according to the evidence; do not invent bilateral dependency edges, project commitments, ownership/control changes, policy effects or technology-maturity advances. Record the reconciliation run ID in pending producer_checks for traceability, then write the pending sidecar last so the corrected state has a new pending blob SHA. Re-submit that exact new pending SHA and the exact EN/PT-BR SHAs for independent QA."
+        }
+      ]
     }
   ],
   "taxonomy_check": "passed",
   "translation_check": "passed",
-  "confidence": "medium",
+  "confidence": "high",
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "The current main tree and Git blob SHAs were re-read for the v2 pending sidecar and both staged Markdown editions. No current-revision approval, rejection or public metadata exists."
+      "summary": "The current main tree and all three staged blobs were re-read. Pending revision 2 is ready:true. No approval or public metadata exists for this revision."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending is schema_version 2 and ready:true. Required fields are present; program, topics, dimensions and phenomena values are controlled. phenomena correctly includes war-armed-conflict and strategic-competition."
+      "summary": "Pending v2 fields, controlled taxonomy and phenomena are valid. The reconciliation run names this report and records decisions for all seven active reconciliation-required assets."
     },
     "source_vintage_and_cutoff": {
-      "result": "passed_with_limitation",
-      "summary": "The declared cutoff is 2026-11-19 09:01 UTC. The Reuters oil observation at 04:55 GMT and Asian snapshot at 03:51 GMT precede it. The IEA WEO page is dated 19 November; an embargo advisory states the embargo lifted at 08:00 Antalya (05:00 UTC), before cutoff, although the IEA report page itself does not show an exact publication hour."
+      "result": "failed",
+      "summary": "The declared cutoff is 2026-11-19 09:01 UTC. Reuters reference [4] was published at 10:28 UTC, 87 minutes after the cutoff, yet is used in both editions for the 18 November US equity close, Nvidia and Fed-minute claims."
     },
     "factual_methodology": {
-      "result": "passed",
-      "summary": "The main quantitative claims were checked against the IEA WEO 2026 and November Oil Market Report, EIA weekly petroleum data, Federal Reserve minutes, US Treasury yields, World Bank International Debt Report, Eurostat HICP, Reuters market reporting and Brazilian/Asian market sources. The report distinguishes scenario requirements from committed projects and observed flows from modelled pathways."
+      "result": "passed_with_material_source_issue",
+      "summary": "IEA WEO 2026 and November OMR, EIA weekly petroleum data, Eurostat HICP, World Bank debt aggregates, Treasury par yields, Fed minutes and Brazilian/Indian market figures were checked. The underlying energy-market figures reviewed are supported, but the US equity close is not reconciled to the declared cutoff and source vintage."
     },
     "evidence_traceability": {
-      "result": "passed_with_limitations",
-      "summary": "Fourteen references are used consistently across EN/PT-BR. Primary-source anchors include IEA, EIA, Federal Reserve, US Treasury, World Bank and Eurostat; Reuters, AP, UOL and The Edge provide dated market/event context. The report explicitly records the absence of harmonised private credit-spread and project-level capex/disbursement data."
+      "result": "failed",
+      "summary": "Reuters [4] is post-cutoff. In addition, Reuters reports preliminary index values (S&P 7,322.53; Dow 50,193.03; Nasdaq 24,429.89), while AP [14] reports different Wednesday figures (S&P 7,323.63; Dow 50,198.17; Nasdaq 24,429.88). Both are cited beside one unqualified close statement."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Manual stripped-content counts are approximately 3,114 EN and 3,672 PT-BR words, above the daily brief floor. Nine analytical sections, contrary evidence and conditional scenarios are present. In the strict pending workflow, validate-editorial-depth.mjs did not list this ID among its failures; the overall job failed on seven unrelated staged documents."
+      "summary": "The candidate has nine analytical sections, competing interpretations, contrary evidence, conditional scenarios and invalidation indicators. The strict editorial-depth workflow did not list this candidate among its failures; its global failure is attributable to seven other staged documents."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both editions contain two explicit bar charts, three evidence tables, one regional map and one causal flow. The two chart series, periods, values and visual labels match across locales. The strict pending pipeline did not report a visual-budget or parity error for this ID; the production visual-output validator also passed for the public corpus."
+      "summary": "Both editions contain two explicit bar charts, three evidence tables, one regional map and one causal flow. Chart values, periods, labels, units and map regions are semantically equivalent. No candidate-specific visual-budget failure appeared in the strict workflow."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "EN and PT-BR preserve the same source list, dates, numerical observations, scenario conditions, qualifications, chart data, map regions and analytical conclusions."
+      "summary": "EN and PT-BR preserve the same analytical structure, source list, numerical claims, qualifications, scenarios and visual evidence. The cutoff/source problem appears in both editions."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report contrasts rapid physical normalisation, persistent route disruption and accelerated diversification, with observable indicators that would strengthen or weaken each pathway."
+      "summary": "The report distinguishes rapid physical normalisation, persistent route disruption and accelerated diversification, and identifies observable evidence that would weaken each path."
     },
     "system_registry_reconciliation": {
-      "result": "failed",
-      "summary": "No reconciliation-ledger run names MT-GM-2026-11-19, despite seven active assets requiring a decision for each public report. The latest ledger run is for MT-GM-2026-11-16."
+      "result": "passed",
+      "summary": "The append-only reconciliation run 2026-11-19-global-macro-publication-reconciliation names MT-GM-2026-11-19 and records an allowed decision for each of the seven active assets."
     },
-    "editorial_publication_readiness": {
-      "result": "failed",
-      "summary": "The content, factual, depth and visual checks pass, but the mandatory system-registry reconciliation gate is incomplete. Publication authorization would permit a public bundle without the required append-only reconciliation record."
+    "editorial_depth_script": {
+      "result": "failed_on_other_pending_items",
+      "summary": "The strict workflow ran validate-editorial-depth.mjs on the full pending set. It exited 1 on seven other staged IDs (SLAVERY, MAUA, MEDICI, ROCKEFELLER, ROTHSCHILD, MT-GM-2026-11-08 and MT-HIST-ECONOMISTS-2026-11-11); MT-GM-2026-11-19 was not listed among failures."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "The strict pending pipeline validation reported OK for the current tree (204 public bundles; 21 unpublished pending; 0 approved unpublished; 6 legacy pending already public). The separate strict editorial-depth job failed only on seven other staged items; this candidate was not among them. The main production build and visual-output validation passed."
+      "summary": "validate-pipeline.mjs reported OK: 204 public bundles, 21 unpublished pending, zero approved unpublished and six legacy pending already public."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The declared cutoff is violated by a cited source published 87 minutes after cutoff, and the US equity-close figures conflict between the cited Reuters preliminary data and AP figures. The exact source vintage and reported close must be reconciled before publication."
     }
   },
+  "issues": [
+    {
+      "severity": "material",
+      "code": "POST_CUTOFF_SOURCE_USED",
+      "paths": [
+        "data/pending/2026-11-19-global-macro.json",
+        "staging/research/2026/11/2026-11-19-global-macro/en.md",
+        "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "pending.producer_checks.information_cutoff: 19 Nov 2026 06:01 BRT / 09:01 UTC",
+        "en.md:11, reference [4]",
+        "pt-BR.md:11, reference [4]",
+        "References [4] in both editions"
+      ],
+      "evidence": "The Reuters page cited as [4] records publication at 10:28 UTC on 19 November 2026. The declared information cutoff is 09:01 UTC. The source therefore postdates the cutoff by 87 minutes, yet it is used to support the 18 November US equity close, Nvidia results and Fed-minute interpretation. The current producer check marks source_vintage_and_cutoff as passed_with_limitation and does not disclose this post-cutoff source.",
+      "required_correction": "If the 06:01 BRT cutoff is retained, remove Reuters [4] from the evidence set and support every affected claim with sources demonstrably available by 09:01 UTC; otherwise update both published_at and information_cutoff to a later, accurate time and rerun the full source-vintage review. Do not change the cutoff alone without checking every other source timestamp and market observation."
+    },
+    {
+      "severity": "material",
+      "code": "CONFLICTING_MARKET_CLOSE_VALUES",
+      "paths": [
+        "staging/research/2026/11/2026-11-19-global-macro/en.md",
+        "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:11, references [4][14]",
+        "pt-BR.md:11, references [4][14]",
+        "en.md and pt-BR.md: References [4] and [14]"
+      ],
+      "evidence": "Reuters [4] explicitly labels its figures preliminary and reports S&P 500 7,322.53 (-0.24%), Dow 50,193.03 (-1.12%) and Nasdaq 24,429.89 (+0.39%). AP [14] reports different Wednesday figures: S&P 500 7,323.63 (-0.2%), Dow 50,198.17 (-1.1%) and Nasdaq 24,429.88 (+0.4%). The report presents the Reuters values as the unqualified close while citing both sources, without identifying the Reuters values as preliminary or explaining the discrepancy.",
+      "required_correction": "Select and label one consistent data vintage for the 18 November close. If using AP's reported close, update the figures in both languages and remove the conflicting Reuters values from that claim. If retaining Reuters preliminary values, label them explicitly as preliminary, preserve the source timestamp, remove AP as support for those exact numbers and ensure the chosen source is eligible under the declared cutoff."
+    }
+  ],
   "contrary_evidence": [
-    "Brent and WTI fell on 18 November and US commercial crude inventories rose in the week ended 13 November, consistent with a looser near-term crude balance.",
-    "The IEA expects oil supply to rebound in 2027, which could lower benchmark prices if the forecast materialises.",
-    "India's rupee remained resilient despite a stronger dollar, with reported November equity inflows supporting the currency.",
-    "US crude and distillate inventories increased in the latest weekly EIA balance, even while the IEA describes low global on-land stocks and tight diesel markets.",
-    "The IEA's grid and pipeline figures are system requirements and scenario assumptions, not proof of project bankability or implementation."
+    "IEA WEO 2026 supports the cumulative Gulf losses of 2.8 billion barrels of oil and 60 bcm of gas, the 7 mb/d bypass-pipeline figure, the USD 40 billion construction estimate and the 25 million km/15 million km grid requirements.",
+    "The EIA report for the week ending 13 November, released 18 November, confirms crude inventories rose 3.4 million barrels to 417.8 million barrels.",
+    "Eurostat confirms October euro-area HICP at 4.0% and the 1.89 percentage-point energy contribution.",
+    "The World Bank confirms developing-country external debt at USD 9.4 trillion in 2025, up 5.5%."
   ],
   "limitations": [
-    "The exact publication hour of the IEA World Energy Outlook 2026 is not stated on its 19 November page.",
-    "IEA scenarios and system requirements are modelled pathways, not realised infrastructure, committed capital or guaranteed policy outcomes.",
-    "The 7 mb/d pipeline figure includes projects under construction or consideration; the Low Hormuz Case depends on multiple conditional assumptions.",
-    "US EIA inventories are a national weekly observation and cannot establish global diesel availability.",
-    "Treasury par yields do not measure private credit spreads, project-finance margins or sovereign borrowing spreads.",
-    "The Asian equity figures are delayed intraday observations at 03:51 GMT, not closing returns.",
-    "The World Bank debt aggregates are not energy-project debt and do not identify the financing terms of individual infrastructure projects.",
-    "The Brazil market move reflects domestic fiscal uncertainty as well as external dollar and rate conditions."
+    "The exact public release hour of the IEA World Energy Outlook 2026 is not displayed on the public report page; the producer relies on a separate embargo advisory.",
+    "IEA scenarios and system requirements are conditional, not realised infrastructure or committed capital.",
+    "Treasury par yields do not measure private credit spreads or project-finance margins.",
+    "The strict editorial-depth workflow has repository-wide failures on seven other staged items; this candidate was not one of them."
   ],
-  "notes": "One new rejection for revision 1. This is a publication-readiness failure in the mandatory system-registry reconciliation gate, not a finding that the report's core energy-market analysis is factually unsound. No approval or publication authorization was created. The producer must append the reconciliation run and update the pending sidecar last; QA must then review the new exact SHA set. No public report, index, CSS, taxonomy or institutional content was changed."
+  "notes": "Second rejection for MT-GM-2026-11-19. The system-registry defect from revision 1 is corrected and preserved in the history. Revision 2 is rejected for a new source-cutoff violation and unreconciled US market-close data. No approval or publication authorization was created. The next producer revision must update the pending sidecar last so it binds the corrected EN/PT-BR SHAs."
 }
