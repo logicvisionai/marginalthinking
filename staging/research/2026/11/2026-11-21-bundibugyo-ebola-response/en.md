@@ -49,6 +49,16 @@ Africa CDC's six-month report identifies a different weakness. In the period it 
 
 The operational consequence is that laboratory capacity can increase while the system still discovers infections late. More tests and more treatment beds are necessary, but they cannot substitute for reliable notification, trusted local engagement, transport, timely referral and a workforce able to follow contacts. A response can report thousands of trained workers and still miss households if people are displaced, roads are insecure, wages are delayed or local clinics are not trusted.
 
+The two contact indicators above describe different stages and denominators: the 11% figure is the share of cases identified through existing contact lists in Africa CDC's weeks 19–45 analysis; the 81% figure is WHO's average daily follow-up of listed contacts over the 14 days before 17 November. They should not be combined into a single rate. The response pathway is therefore best read as a mechanism, not as a numerical sequence:
+
+```flow
+title: How detection and access constraints propagate through the response
+Late recognition of cases → transmission links not recorded in advance → new cases appear outside existing contact lists
+Insecurity and displacement → fewer safe field visits → contacts not reached → delayed referral and isolation
+Delayed frontline payments → staff retention and response capacity weaken → slower follow-up and reduced service continuity
+```
+
+
 ## 4. Community deaths and the unequal burden on children
 
 Of the 720 deaths reported in the DRC during the three weeks to 17 November, 452 occurred in communities and 268 in treatment centres. Community deaths therefore represented 62.8% of the reported total for that period. In the preceding WHO update, 335 of 512 deaths since 21 October had occurred in communities, or 65.4%. The share improved slightly, but remained high. These deaths occurred outside dedicated treatment centres and point to delays in detection, referral or access to appropriate care; they do not, by themselves, identify the reason for each death. [1][2]
@@ -87,6 +97,18 @@ No reliable national estimate of GDP loss, trade interruption or aggregate labou
 A WHO report published on 20 November provides a measurable counterpoint from South Sudan. Its national readiness score rose from 29% in May to 72.5% in October after four self-assessments. Authorities identified 15 high-risk counties, strengthened surveillance and screening, established isolation capacity and conducted a full-scale simulation in October involving 93 participants from government, WHO, UN agencies and implementing partners. The simulation tested coordination, information-sharing and the hand-offs between response functions, including at priority points of entry. [10]
 
 This is evidence of preparedness investment in a neighbouring country, not evidence that the DRC outbreak is controlled or that South Sudan has eliminated all risk. It demonstrates that readiness can be improved before an imported case is detected. The WHO risk assessment also emphasizes the difference between countries with strong response capacity and those with high connectivity but limited surveillance and access. Cross-border readiness is therefore not just screening at airports. It depends on laboratories, local health systems, referral arrangements, information-sharing and the ability to sustain operations at formal and informal crossing points. [1][10]
+
+The regional map distinguishes active transmission, imported-case follow-up and preparedness. These categories are not interchangeable, and the dates differ: DRC cumulative counts are as of 17 November, while the WHO update is dated 20 November and South Sudan's readiness score refers to October. [1][10]
+
+```map
+title: Regional transmission and readiness status — WHO update of 20 November 2026
+Democratic Republic of the Congo | 11,613 confirmed cases and 5,678 deaths across 68 health zones in eight provinces; active transmission in 48 zones | Cumulative counts as of 17 November; high-level transmission continues
+Kenya | Nine confirmed cases, including two deaths; no new case since 19 October | Imported cluster; 42-day countdown underway; no evidence of wider community transmission
+Nigeria | One imported case; patient recovered after medical evacuation; contacts completed follow-up | 42-day countdown underway; no new case reported in the 20 November update
+South Sudan | No confirmed cases; national readiness score 72.5% in October; 15 high-risk counties identified | Preparedness assessment, not proof of containment
+France and Uganda | Outbreaks controlled since August | No current confirmed transmission reported in the 20 November WHO update
+```
+
 
 ## 8. Scenarios and indicators to monitor
 

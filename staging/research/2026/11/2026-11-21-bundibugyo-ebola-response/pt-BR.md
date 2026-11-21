@@ -49,6 +49,16 @@ O relatório semestral do Africa CDC identifica outra fragilidade. No período a
 
 A consequência operacional é que a capacidade laboratorial pode crescer enquanto o sistema continua descobrindo infecções tardiamente. Mais testes e mais leitos são necessários, mas não substituem notificação confiável, engajamento local, transporte, encaminhamento oportuno e uma força de trabalho capaz de acompanhar contatos. Uma resposta pode contabilizar milhares de trabalhadores treinados e ainda deixar domicílios sem acompanhamento quando há deslocamento populacional, insegurança nas estradas, atraso de salários ou baixa confiança em unidades locais.
 
+Os dois indicadores de contatos acima descrevem etapas e denominadores diferentes: os 11% correspondem à parcela de casos identificados por listas de contatos existentes na análise do Africa CDC das semanas 19–45; os 81% representam a média diária de acompanhamento de contatos listados nos 14 dias anteriores a 17 de novembro, segundo a OMS. Eles não devem ser combinados em uma única taxa. A cadeia de resposta deve ser lida como mecanismo, não como sequência numérica:
+
+```flow
+title: Como as lacunas de detecção e acesso se propagam pela resposta
+Reconhecimento tardio de casos → vínculos de transmissão não registrados antecipadamente → novos casos fora das listas existentes de contatos
+Insegurança e deslocamento → menos visitas de campo seguras → contatos não alcançados → encaminhamento e isolamento tardios
+Atraso no pagamento da linha de frente → menor retenção de equipes e capacidade de resposta → acompanhamento mais lento e menor continuidade dos serviços
+```
+
+
 ## 4. Mortes na comunidade e o peso desigual sobre as crianças
 
 Das 720 mortes notificadas na RDC nas três semanas até 17 de novembro, 452 ocorreram em comunidades e 268 em centros de tratamento. As mortes na comunidade representaram, portanto, 62,8% do total registrado nesse período. Na atualização anterior da OMS, 335 das 512 mortes desde 21 de outubro haviam ocorrido na comunidade, ou 65,4%. A participação caiu ligeiramente, mas continuou elevada. Essas mortes ocorreram fora dos centros dedicados e apontam para atrasos na detecção, no encaminhamento ou no acesso ao cuidado adequado; não identificam, por si só, a causa de cada morte. [1][2]
@@ -87,6 +97,18 @@ Não foi identificada, nas fontes primárias consultadas para esta edição, uma
 Um relatório da OMS publicado em 20 de novembro oferece um contraponto mensurável no Sudão do Sul. A pontuação nacional de preparação aumentou de 29% em maio para 72,5% em outubro, após quatro autoavaliações. As autoridades identificaram 15 condados de alto risco, reforçaram vigilância e triagem, estabeleceram capacidade de isolamento e realizaram em outubro uma simulação em escala real com 93 participantes de órgãos governamentais, OMS, agências das Nações Unidas e organizações parceiras. O exercício testou coordenação, compartilhamento de informações e transferência de responsabilidades entre as funções de resposta, inclusive nos pontos prioritários de entrada. [10]
 
 Isso é evidência de investimento em preparação em um país vizinho, não evidência de que o surto na RDC esteja controlado ou de que o Sudão do Sul tenha eliminado todos os riscos. Demonstra que a prontidão pode melhorar antes da detecção de um caso importado. A avaliação de risco da OMS também enfatiza a diferença entre países com boa capacidade de resposta e aqueles que combinam alta conectividade com vigilância e acesso limitados. A preparação transfronteiriça não se resume à triagem em aeroportos. Depende de laboratórios, sistemas locais de saúde, encaminhamento, compartilhamento de informações e capacidade de manter operações em passagens formais e informais. [1][10]
+
+O mapa regional distingue transmissão ativa, acompanhamento de casos importados e preparação. Essas categorias não são intercambiáveis, e as datas diferem: os totais acumulados da RDC são de 17 de novembro, a atualização da OMS é de 20 de novembro e a pontuação de preparação do Sudão do Sul se refere a outubro. [1][10]
+
+```map
+title: Situação regional de transmissão e preparação — atualização da OMS de 20 de novembro de 2026
+República Democrática do Congo | 11.613 casos confirmados e 5.678 mortes em 68 zonas de saúde de oito províncias; transmissão ativa em 48 zonas | Totais acumulados até 17 de novembro; transmissão em nível elevado continua
+Quênia | Nove casos confirmados, incluindo duas mortes; nenhum novo caso desde 19 de outubro | Cluster importado; contagem regressiva de 42 dias em andamento; sem evidência de transmissão comunitária mais ampla
+Nigéria | Um caso importado; paciente recuperado após evacuação médica; contatos concluíram acompanhamento | Contagem regressiva de 42 dias em andamento; nenhum novo caso na atualização de 20 de novembro
+Sudão do Sul | Nenhum caso confirmado; pontuação nacional de preparação de 72,5% em outubro; 15 condados de alto risco identificados | Avaliação de preparação, não prova de contenção
+França e Uganda | Surtos controlados desde agosto | Nenhuma transmissão confirmada atual na atualização da OMS de 20 de novembro
+```
+
 
 ## 8. Cenários e indicadores a acompanhar
 

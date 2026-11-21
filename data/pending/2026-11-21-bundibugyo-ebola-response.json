@@ -156,7 +156,14 @@
       "charts": 1,
       "tables": 2,
       "flow_diagrams": 1,
-      "regional_maps": 1
+      "regional_maps": 1,
+      "total_visuals": 5,
+      "structural_visuals": [
+        "flow",
+        "map"
+      ],
+      "bilingual_parity": true,
+      "source_data_reused": true
     },
     "source_audit": {
       "references": 11,
@@ -168,9 +175,13 @@
       "The 11% contact-list metric is not the same as daily follow-up of listed contacts.",
       "Attacks and worker casualties are attributed to WHO Director-General and joint-agency statements, not independently verified here.",
       "Local livelihood observations from Mongbwalu are not national GDP or trade-loss estimates.",
-      "The PHEIC does not meet IHR criteria for a pandemic emergency."
+      "The PHEIC does not meet IHR criteria for a pandemic emergency.",
+      "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot."
     ],
-    "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
+    "reconciliation_run_id": "2026-11-21-publication-set-reconciliation",
+    "qa_rework": "Revision 2 adds one causal flow and one regional map to both language editions. The 11% Africa CDC contact-list identification metric and 81% WHO daily follow-up metric remain explicitly non-comparable."
   },
-  "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html"
+  "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
+  "revision": 2,
+  "revision_reason": "Revision 2 fixes the visual-evidence gate without changing the substantive thesis or source data. Both editions now contain the same explicit causal flow and regional map, with source dates and the distinction between Africa CDC's 11% case-identification metric and WHO's 81% daily contact-follow-up metric preserved."
 }
