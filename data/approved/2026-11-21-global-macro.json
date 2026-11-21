@@ -1,0 +1,282 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-21",
+  "slug": "2026-11-21-global-macro",
+  "revision": 3,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-21T09:14:47Z",
+  "reviewed_commit": "0de4c02f543be3036a621b0a4f7fd8564d905057",
+  "pending_blob_sha": "b11edb69b0ae33f84bb278b8ba229f8ef6f741b4",
+  "source_blob_shas": {
+    "en": "d5f32eb4d95d7915c4467cf8b57862e1ce880c3e",
+    "pt-BR": "c3fb86f81bd34e8908e89f1af45a49997d6c94f9"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "The exact pending v2 blob (b11edb69b0ae33f84bb278b8ba229f8ef6f741b4) and both staged Markdown blobs (EN d5f32eb4d95d7915c4467cf8b57862e1ce880c3e; PT-BR c3fb86f81bd34e8908e89f1af45a49997d6c94f9) were reread from main at reviewed HEAD 0de4c02f543be3036a621b0a4f7fd8564d905057. No approval or public metadata existed for this revision before this review."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "All required v2 fields are present; ID, canonical slug, date, daily-global-macro kind, program, related program, dimensions, global geography, topics, phenomena, format and cadence conform to schema v2 and taxonomy 1.0. The four-program architecture is unchanged."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 05:00 BRT cutoff is explicit. The 20 November market close and the 21 November Reuters reports cited for the tanker and Hartha incidents were available before cutoff. The BLS October national Employment Situation release is dated 6 November and therefore predates the cutoff. No post-cutoff market observation was introduced."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "The corrected claim is supported by the original BLS Employment Situation — October 2026 release: nonfarm payroll employment rose by 165,000. The separate BLS State Employment and Unemployment release [8] remains attached to the 4.1% unemployment and state-level changes; the BEA GDP source [7] remains attached to GDP and PCE claims. Other factual and market claims were unchanged from revision 2, whose independent review passed those checks."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "The 165,000 payroll statement now cites the claim-specific primary BLS release [19] in both languages. The bibliography contains 19 references; pending source_audit records 15 primary institutional sources, four market-reporting sources and 12 distinct domains. Reference [8] is no longer used to support the national payroll change."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Both editions exceed the 1,700-word daily floor (approximately 3,507 EN and 4,082 PT-BR words), retain ten H2 sections including references, and preserve the comparative mechanism, conditional scenarios, contrary evidence and falsifiers. The only prose change is a claim-specific citation/attribution correction."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions retain two quantitative charts, three evidence tables, one causal flow and one regional map. Numeric series, labels, dates and visual semantics were unchanged from the previously reviewed revision 2 and remain matched across EN/PT-BR. The candidate was not listed among the visual-evidence failures in the strict workflow."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "The EN and PT-BR corrections are semantically equivalent: GDP/PCE is cited to [7], state unemployment and state movements to [8], and the national payroll increase to [19]. The same 165,000 figure, October period, release date and source are preserved."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The sole material revision-2 defect—an unsupported source attached to the national payroll claim—is resolved. The report remains neutral, distinguishes observed data from inference and scenarios, places full references at the end, and contains no unsupported attribution for the tanker or Hartha events."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "The analysis retains the countervailing cross-asset evidence: equities and precious metals fell while Treasury yields declined, the dollar was nearly unchanged, and oil rose. It does not equate an equity sell-off with a uniform flight to cash or a system-wide credit freeze."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report specifies observable conditions that would weaken the broader repricing interpretation, including equity recovery, volatility normalization and stable or narrowing credit spreads without new redemption restrictions."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The report explicitly compares the three preceding editions (17, 18 and 19 November) and changes the unit of analysis to cross-asset transmission and funding channels after the 20 November sell-off, rather than repeating semiconductor valuation, European inflation or energy-supply analysis."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Append-only run 2026-11-21-publication-set-reconciliation names MT-GM-2026-11-21 and records an allowed decision for each of the seven active reconciliation-required assets. No unsupported canonical dataset mutation was made."
+    },
+    "editorial_depth_script": {
+      "result": "passed",
+      "summary": "The strict candidate-specific depth/visual gate did not list MT-GM-2026-11-21 among failures. The repository-wide editorial-drafts workflow failed on eight other staged IDs, including the separately rejected Bundibugyo item; none of those failures is this candidate."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "GitHub Actions run 44888329619 completed the build successfully: validate-and-build, visual semantics, generated-site verification, Worker bundle and artifact provenance all passed. The separate deploy job did not run because CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID are missing; this is an external deployment blocker, not a research-validation failure."
+    }
+  },
+  "contrary_evidence": [
+    "Equities and precious metals fell while Treasury yields declined, so the session was not a uniform rise in discount rates.",
+    "The dollar was nearly unchanged while oil rose, limiting a single safe-haven explanation for the cross-asset pattern.",
+    "No same-day 20 November high-yield spread or reliable global fund-flow series was available at the cutoff."
+  ],
+  "limitations": [
+    "No same-day 20 November high-yield option-adjusted spread was available at the 05:00 BRT cutoff; the latest FRED observation was 19 November.",
+    "No reliable same-day global fund-flow series was available. Treasury TIC observations refer to September and are custody-based, not a direct measure of November portfolio flows.",
+    "The 21 November tanker event is reported by Reuters from UKMTO; vessel identity, actor attribution and environmental impact remain unknown, and no relationship to the 20 November Khasab incident is established.",
+    "The Hartha fire is reported by Reuters citing INA and security officials; its cause and damage extent remain unknown, and pre-fire operating capacity is not a measured post-fire loss.",
+    "The strict editorial-drafts workflow remains non-green because of eight other staged research items; the current Global Macro candidate was not among its failures.",
+    "The deployment workflow is blocked by missing CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID; no production deployment or live-site verification is claimed."
+  ],
+  "notes": "Independent QA approval for revision 3 only. Revision 2's NATIONAL_PAYROLL_CLAIM_MISSING_PRIMARY_SOURCE issue is resolved by the new claim-specific BLS reference [19] and separated citations in both locales. The prior rejection record remains immutable. Approval applies exclusively to this publication snapshot and the three verified Git blob SHAs; it does not assert that the publisher has deployed or published the report.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-21",
+    "slug": "2026-11-21-global-macro",
+    "date": "2026-11-21",
+    "published_at": "2026-11-21T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-21-global-macro/en.md",
+        "title": "Equities reprice sharply as Treasuries absorb the shock and credit risk begins to widen",
+        "deck": "The 20 November sell-off was not a uniform flight to cash: equities and precious metals fell, oil rose, the dollar barely moved and Treasury yields dropped. A UKMTO-reported tanker strike near Khasab and a fire that halted operations at Iraq's Hartha power station add distinct, attributed energy-security observations without proving a sustained route or regional grid disruption.",
+        "tags": [
+          "global macro",
+          "equities",
+          "Treasuries",
+          "credit",
+          "financial stability",
+          "energy",
+          "capital flows"
+        ],
+        "keywords": [
+          "global equities",
+          "Treasury yields",
+          "high-yield spreads",
+          "non-bank finance",
+          "private credit",
+          "foreign capital flows",
+          "oil risk premium"
+        ],
+        "regime": "Cross-asset risk repricing with restrictive monetary conditions",
+        "key_risk": "An equity valuation correction could migrate into non-bank liquidity, collateral and credit funding if spreads and redemption pressure continue to rise.",
+        "watch": [
+          "US high-yield OAS after 20 November",
+          "repo funding and market depth",
+          "private-credit redemption restrictions",
+          "Treasury long-end yields",
+          "Monday 23 November B3 session",
+          "UKMTO follow-up on the 21 November tanker report: vessel identity, environmental impact and actor attribution; whether it is separate from the 20 November Khasab incident",
+          "Hartha station restoration, verified damage and operating capacity after the 21 November fire"
+        ],
+        "search_text": "Global Macro 21 November 2026; global equity sell-off; US Treasury yields; high-yield credit spreads; non-bank financial institutions; private credit; capital flows; oil and geopolitical risk. UKMTO tanker incident near Khasab 21 November 2026; Hartha power station fire Iraq."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-21-global-macro/pt-BR.md",
+        "title": "Bolsas reprecificam o risco, Treasuries absorvem o choque e o crédito começa a abrir",
+        "deck": "A venda de 20 de novembro não foi uma fuga uniforme para o caixa: ações e metais preciosos recuaram, o petróleo subiu, o dólar quase não mudou e os rendimentos dos Treasuries caíram. Um incidente com petroleiro relatado pela UKMTO perto de Khasab e o incêndio que interrompeu a usina iraquiana de Hartha acrescentam observações distintas de segurança energética, sem comprovar bloqueio prolongado da rota ou falha regional da rede.",
+        "tags": [
+          "macro global",
+          "bolsas",
+          "Treasuries",
+          "crédito",
+          "estabilidade financeira",
+          "energia",
+          "fluxos de capital"
+        ],
+        "keywords": [
+          "ações globais",
+          "rendimentos dos Treasuries",
+          "spreads de alto rendimento",
+          "finanças não bancárias",
+          "crédito privado",
+          "fluxos externos",
+          "prêmio de risco do petróleo"
+        ],
+        "regime": "Reprecificação transversal de risco sob condições monetárias restritivas",
+        "key_risk": "Uma correção das avaliações acionárias pode alcançar a liquidez de instituições não bancárias, as garantias e o financiamento de crédito se spreads e resgates continuarem aumentando.",
+        "watch": [
+          "spread americano de alto rendimento após 20 de novembro",
+          "financiamento por repo e profundidade de mercado",
+          "restrições de resgate em crédito privado",
+          "rendimentos longos dos Treasuries",
+          "sessão da B3 de 23 de novembro",
+          "Atualização da UKMTO sobre o relato de 21 de novembro: identidade da embarcação, impacto ambiental, autoria e eventual relação com o incidente de Khasab em 20 de novembro",
+          "Restabelecimento da usina de Hartha, danos verificados e capacidade operacional após o incêndio de 21 de novembro"
+        ],
+        "search_text": "Global Macro 21 de novembro de 2026; queda das bolsas globais; rendimentos dos Treasuries; spreads de crédito de alto rendimento; instituições financeiras não bancárias; crédito privado; fluxos de capital; petróleo e risco geopolítico. incidente com petroleiro perto de Khasab em 21 de novembro de 2026; incêndio na usina de Hartha no Iraque."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "sovereign-debt",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "strategic-competition",
+      "war-armed-conflict",
+      "institutional-change"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "signal_rationale": {
+      "delta": "The 20 November cross-asset pattern shows a broad equity decline alongside a Treasury rally, a flat dollar, falling gold and copper, and rising oil. Two event-level energy observations available before cutoff—a UKMTO-reported tanker strike near Khasab and the Hartha station fire in Iraq—add operational risk context without establishing attribution, sustained route closure or regional grid disruption.",
+      "evidence": "Reuters market close data; US Treasury par curve; FRED high-yield spread through 19 November; ECB Financial Stability Review of November 2026; September Treasury TIC flows.; Reuters reporting UKMTO's 21 November tanker incident; Reuters reporting the Hartha power-station fire from INA and security officials.",
+      "scale_path": "Equity valuation losses can affect non-bank fund liquidity, repo collateral, redemptions and bank/non-bank funding links if volatility persists.",
+      "transmission": "The immediate price shock is concentrated in equities, while sovereign duration remains a hedge; credit spreads, repo terms, redemptions and the operational security of Gulf shipping are observable next channels. Local electricity interruptions in Iraq should be assessed separately from global oil-flow disruption.",
+      "falsifier": "Rapid equity recovery, volatility normalization and stable or narrowing credit spreads without new redemption restrictions would weaken the interpretation of a broader repricing cycle."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "The 20 November market close is the latest full global session; 21 November is a Saturday.",
+      "The US high-yield spread is available through 19 November only at the information cutoff.",
+      "Treasury TIC flows are for September and cannot establish November portfolio flows.",
+      "The B3 was closed on 20 November; no Brazilian equity close is reported for that date.",
+      "The oil-price move reflects a reported geopolitical risk premium; no new attack is inferred from prices.",
+      "The 21 November UKMTO incident is reported by Reuters; the vessel and responsible actor are unidentified, the environmental impact is unknown, and its relation to the 20 November Khasab fire report is unestablished.",
+      "The Hartha power-station fire is reported by Reuters citing INA and security officials; cause and damage extent are unknown, and pre-fire operating capacity is not a measured post-fire loss."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-21T05:00:00-03:00. Reuters published the UKMTO tanker report at 07:57 UTC (04:57 BRT) and the Hartha fire report at 06:22 UTC (03:22 BRT), both before cutoff.",
+      "comparative_editions": [
+        "MT-GM-2026-11-17",
+        "MT-GM-2026-11-18",
+        "MT-GM-2026-11-19"
+      ],
+      "novelty_decision": "Distinct from the three latest editions: focuses on cross-asset transmission and funding channels after the 20 November equity sell-off, rather than another semiconductor valuation, European inflation or energy-supply report.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "titles": true,
+        "core_thesis": true,
+        "market_data": true,
+        "visual_data": true,
+        "references": true
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 3,
+        "flow_diagrams": 1,
+        "regional_maps": 1
+      },
+      "source_audit": {
+        "references": 19,
+        "primary_institutional_sources": 15,
+        "market_reporting_sources": 4,
+        "distinct_domains": 12,
+        "added_reference": {
+          "number": 19,
+          "institution": "U.S. Bureau of Labor Statistics",
+          "document": "The Employment Situation — October 2026",
+          "release_date": "2026-11-06",
+          "supports": "October national nonfarm payroll employment increase of 165,000"
+        }
+      },
+      "limitations": [
+        "No same-day 20 November high-yield spread was available at cutoff.",
+        "No reliable same-day global fund-flow series was available.",
+        "TIC data are one month lagged and custody-based.",
+        "The market attribution for oil reflects Reuters reporting and is not evidence of a new attack.",
+        "The 21 November tanker incident is relayed by Reuters from UKMTO; the vessel identity, actor attribution and environmental impact remain unknown, and no link to the 20 November Khasab incident is established.",
+        "The Hartha fire is reported by Reuters citing INA and security officials; the cause and damage extent remain unknown. The pre-fire operating level of about 400 MW is not a measured post-fire loss."
+      ],
+      "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
+    },
+    "url": "/reports/2026/11/2026-11-21-global-macro.html",
+    "revision": 3,
+    "revision_reason": "Revision 3 adds the claim-specific BLS national Employment Situation release for the October payroll increase, separates its citation from the state unemployment release, and preserves the existing market observations, visual series and bilingual conclusions."
+  }
+}
