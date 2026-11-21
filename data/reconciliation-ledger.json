@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-21T08:30:02Z",
+  "last_reconciled_at": "2026-11-21T09:20:10Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9962,6 +9962,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI equity repricing and financing commentary are market observations, not new demonstrated technical capability, independent replication, deployment or manufacturing-scale milestones. Expanded outbreak laboratories and treatment capacity are health-system response capacity, not a new technology signal under the ledger's maturity criteria."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-global-macro-publication-final-reconciliation",
+      "reconciled_at": "2026-11-21T09:20:10Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-21"
+      ],
+      "audit_note": "Publication-time recheck of MT-GM-2026-11-21 revision 3 against all seven active reconciliation-required assets. The BLS citation correction changes source traceability only; no canonical dependency, opportunity, actor, resource, policy, conflict or technology dataset update is justified.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report links equity repricing, Treasury yields, credit, oil and two attributed energy-security observations, but it does not supply a newly audited bilateral trade, energy, credit or capital-flow edge with comparable country-level weights and periods. Do not infer dependency weights from market co-movement."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report's market and operational-risk observations do not establish a site-level project with confirmed sponsor, committed capital, permits, schedule, capacity, customer demand and defensible return. The Brazil transmission-concession evidence remains a discovery candidate for task 2/5, not a canonical Atlas update."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "The report establishes no beneficial-ownership transfer, voting-rights change, board-control change or newly verified strategic-control relation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil prices, shipping incidents and the Hartha outage do not establish a concession, reserve right, operator-control change or transfer of strategic-resource ownership."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report evaluates market and monetary transmission but contains no completed policy intervention with verified implementation, ex-post outcomes and a defensible counterfactual for a canonical policy-case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The Khasab tanker event is relayed by Reuters from UKMTO, with vessel identity and actor attribution unknown; the relationship to the 20 November incident is unestablished. The Hartha fire's cause and damage extent are unknown. Preserve attribution in research; do not infer a new armed-conflict event or add a canonical incident record from unresolved evidence."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI equity repricing and financing commentary are market observations, not new demonstrated technical capability, independent replication, deployment or manufacturing-scale milestones."
         }
       ]
     }

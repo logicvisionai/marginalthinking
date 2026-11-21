@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-21",
+  "slug": "2026-11-21-global-macro",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict",
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "signal_rationale": {
+    "delta": "The 20 November cross-asset pattern shows a broad equity decline alongside a Treasury rally, a flat dollar, falling gold and copper, and rising oil. Two event-level energy observations available before cutoff—a UKMTO-reported tanker strike near Khasab and the Hartha station fire in Iraq—add operational risk context without establishing attribution, sustained route closure or regional grid disruption.",
+    "evidence": "Reuters market close data; US Treasury par curve; FRED high-yield spread through 19 November; ECB Financial Stability Review of November 2026; September Treasury TIC flows.; Reuters reporting UKMTO's 21 November tanker incident; Reuters reporting the Hartha power-station fire from INA and security officials.",
+    "scale_path": "Equity valuation losses can affect non-bank fund liquidity, repo collateral, redemptions and bank/non-bank funding links if volatility persists.",
+    "transmission": "The immediate price shock is concentrated in equities, while sovereign duration remains a hedge; credit spreads, repo terms, redemptions and the operational security of Gulf shipping are observable next channels. Local electricity interruptions in Iraq should be assessed separately from global oil-flow disruption.",
+    "falsifier": "Rapid equity recovery, volatility normalization and stable or narrowing credit spreads without new redemption restrictions would weaken the interpretation of a broader repricing cycle."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "The 20 November market close is the latest full global session; 21 November is a Saturday.",
+    "The US high-yield spread is available through 19 November only at the information cutoff.",
+    "Treasury TIC flows are for September and cannot establish November portfolio flows.",
+    "The B3 was closed on 20 November; no Brazilian equity close is reported for that date.",
+    "The oil-price move reflects a reported geopolitical risk premium; no new attack is inferred from prices.",
+    "The 21 November UKMTO incident is reported by Reuters; the vessel and responsible actor are unidentified, the environmental impact is unknown, and its relation to the 20 November Khasab fire report is unestablished.",
+    "The Hartha power-station fire is reported by Reuters citing INA and security officials; cause and damage extent are unknown, and pre-fire operating capacity is not a measured post-fire loss."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-21T05:00:00-03:00. Reuters published the UKMTO tanker report at 07:57 UTC (04:57 BRT) and the Hartha fire report at 06:22 UTC (03:22 BRT), both before cutoff.",
+    "comparative_editions": [
+      "MT-GM-2026-11-17",
+      "MT-GM-2026-11-18",
+      "MT-GM-2026-11-19"
+    ],
+    "novelty_decision": "Distinct from the three latest editions: focuses on cross-asset transmission and funding channels after the 20 November equity sell-off, rather than another semiconductor valuation, European inflation or energy-supply report.",
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "titles": true,
+      "core_thesis": true,
+      "market_data": true,
+      "visual_data": true,
+      "references": true
+    },
+    "visual_evidence": {
+      "charts": 2,
+      "tables": 3,
+      "flow_diagrams": 1,
+      "regional_maps": 1
+    },
+    "source_audit": {
+      "references": 19,
+      "primary_institutional_sources": 15,
+      "market_reporting_sources": 4,
+      "distinct_domains": 12,
+      "added_reference": {
+        "number": 19,
+        "institution": "U.S. Bureau of Labor Statistics",
+        "document": "The Employment Situation — October 2026",
+        "release_date": "2026-11-06",
+        "supports": "October national nonfarm payroll employment increase of 165,000"
+      }
+    },
+    "limitations": [
+      "No same-day 20 November high-yield spread was available at cutoff.",
+      "No reliable same-day global fund-flow series was available.",
+      "TIC data are one month lagged and custody-based.",
+      "The market attribution for oil reflects Reuters reporting and is not evidence of a new attack.",
+      "The 21 November tanker incident is relayed by Reuters from UKMTO; the vessel identity, actor attribution and environmental impact remain unknown, and no link to the 20 November Khasab incident is established.",
+      "The Hartha fire is reported by Reuters citing INA and security officials; the cause and damage extent remain unknown. The pre-fire operating level of about 400 MW is not a measured post-fire loss."
+    ],
+    "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
+  },
+  "url": "/reports/2026/11/2026-11-21-global-macro.html",
+  "revision": 3,
+  "revision_reason": "Revision 3 adds the claim-specific BLS national Employment Situation release for the October payroll increase, separates its citation from the state unemployment release, and preserves the existing market observations, visual series and bilingual conclusions.",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-21T09:14:47Z",
+  "qa_confidence": "high",
+  "qa_reviewed_commit": "0de4c02f543be3036a621b0a4f7fd8564d905057",
+  "qa_fixes_applied": [
+    "Added the claim-specific BLS Employment Situation — October 2026 release as reference [19] in EN and PT-BR and attached it directly to the +165,000 national payroll statement.",
+    "Separated reference [7] for BEA GDP/PCE, reference [8] for BLS state unemployment and state-level movements, and reference [19] for national payroll employment."
+  ],
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Equities reprice sharply as Treasuries absorb the shock and credit risk begins to widen",
+      "deck": "The 20 November sell-off was not a uniform flight to cash: equities and precious metals fell, oil rose, the dollar barely moved and Treasury yields dropped. A UKMTO-reported tanker strike near Khasab and a fire that halted operations at Iraq's Hartha power station add distinct, attributed energy-security observations without proving a sustained route or regional grid disruption.",
+      "tags": [
+        "global macro",
+        "equities",
+        "Treasuries",
+        "credit",
+        "financial stability",
+        "energy",
+        "capital flows"
+      ],
+      "keywords": [
+        "global equities",
+        "Treasury yields",
+        "high-yield spreads",
+        "non-bank finance",
+        "private credit",
+        "foreign capital flows",
+        "oil risk premium"
+      ],
+      "regime": "Cross-asset risk repricing with restrictive monetary conditions",
+      "key_risk": "An equity valuation correction could migrate into non-bank liquidity, collateral and credit funding if spreads and redemption pressure continue to rise.",
+      "watch": [
+        "US high-yield OAS after 20 November",
+        "repo funding and market depth",
+        "private-credit redemption restrictions",
+        "Treasury long-end yields",
+        "Monday 23 November B3 session",
+        "UKMTO follow-up on the 21 November tanker report: vessel identity, environmental impact and actor attribution; whether it is separate from the 20 November Khasab incident",
+        "Hartha station restoration, verified damage and operating capacity after the 21 November fire"
+      ],
+      "search_text": "Global Macro 21 November 2026; global equity sell-off; US Treasury yields; high-yield credit spreads; non-bank financial institutions; private credit; capital flows; oil and geopolitical risk. UKMTO tanker incident near Khasab 21 November 2026; Hartha power station fire Iraq."
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "Bolsas reprecificam o risco, Treasuries absorvem o choque e o crédito começa a abrir",
+      "deck": "A venda de 20 de novembro não foi uma fuga uniforme para o caixa: ações e metais preciosos recuaram, o petróleo subiu, o dólar quase não mudou e os rendimentos dos Treasuries caíram. Um incidente com petroleiro relatado pela UKMTO perto de Khasab e o incêndio que interrompeu a usina iraquiana de Hartha acrescentam observações distintas de segurança energética, sem comprovar bloqueio prolongado da rota ou falha regional da rede.",
+      "tags": [
+        "macro global",
+        "bolsas",
+        "Treasuries",
+        "crédito",
+        "estabilidade financeira",
+        "energia",
+        "fluxos de capital"
+      ],
+      "keywords": [
+        "ações globais",
+        "rendimentos dos Treasuries",
+        "spreads de alto rendimento",
+        "finanças não bancárias",
+        "crédito privado",
+        "fluxos externos",
+        "prêmio de risco do petróleo"
+      ],
+      "regime": "Reprecificação transversal de risco sob condições monetárias restritivas",
+      "key_risk": "Uma correção das avaliações acionárias pode alcançar a liquidez de instituições não bancárias, as garantias e o financiamento de crédito se spreads e resgates continuarem aumentando.",
+      "watch": [
+        "spread americano de alto rendimento após 20 de novembro",
+        "financiamento por repo e profundidade de mercado",
+        "restrições de resgate em crédito privado",
+        "rendimentos longos dos Treasuries",
+        "sessão da B3 de 23 de novembro",
+        "Atualização da UKMTO sobre o relato de 21 de novembro: identidade da embarcação, impacto ambiental, autoria e eventual relação com o incidente de Khasab em 20 de novembro",
+        "Restabelecimento da usina de Hartha, danos verificados e capacidade operacional após o incêndio de 21 de novembro"
+      ],
+      "search_text": "Global Macro 21 de novembro de 2026; queda das bolsas globais; rendimentos dos Treasuries; spreads de crédito de alto rendimento; instituições financeiras não bancárias; crédito privado; fluxos de capital; petróleo e risco geopolítico. incidente com petroleiro perto de Khasab em 21 de novembro de 2026; incêndio na usina de Hartha no Iraque."
+    }
+  }
+}
