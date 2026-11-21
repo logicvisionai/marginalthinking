@@ -1,0 +1,459 @@
+{
+  "date": "2026-11-21",
+  "timezone": "America/Sao_Paulo",
+  "registry_version": "2026-11-13T10:27:55.512Z",
+  "reviewed_active_count": 63,
+  "reviewed_assets": [
+    {
+      "id": "series-energy-materials-industrial-systems",
+      "decision": "verified_no_change",
+      "note": "Reviewed the daily energy, oil-inventory and Hartha outage evidence. No new durable production or materials-system series update is justified."
+    },
+    {
+      "id": "series-global-monetary-financial-institutions",
+      "decision": "verified_no_change",
+      "note": "Fed, ECB, Treasury and market-funding signals were screened and incorporated where relevant in the Global Macro. No distinct new series product is justified."
+    },
+    {
+      "id": "series-policy-experiments-institutional-transitions",
+      "decision": "not_applicable",
+      "note": "No completed policy experiment with a measurable treatment, outcome and counterfactual emerged from today's evidence."
+    },
+    {
+      "id": "global-dependency-network",
+      "decision": "deferred_evidence_gap",
+      "note": "Cross-asset co-movement, maritime risk and outbreak-access constraints do not establish new audited bilateral weighted trade, health-service or capital-flow edges under the canonical definitions."
+    },
+    {
+      "id": "structural-opportunity-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "A Brazil transmission-auction evidence-update signal was staged for task 2/5; no canonical Atlas change was made, and commissioning/disbursement evidence remains incomplete."
+    },
+    {
+      "id": "strategic-actors",
+      "decision": "not_applicable",
+      "note": "No verified beneficial-ownership, voting-rights, board-control or strategic-control transfer was identified."
+    },
+    {
+      "id": "resource-control-atlas",
+      "decision": "not_applicable",
+      "note": "Oil prices, inventories and local power interruptions do not establish a change in resource ownership, concession rights or operating control."
+    },
+    {
+      "id": "policy-case-atlas",
+      "decision": "not_applicable",
+      "note": "No new completed intervention with ex-post outcomes and a defensible counterfactual was identified."
+    },
+    {
+      "id": "conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "The Khasab tanker report is relayed by Reuters from UKMTO without vessel identity or actor attribution. The Bahrain targeting claim remains attributed; no canonical conflict event is added from unresolved evidence."
+    },
+    {
+      "id": "technology-signal-ledger",
+      "decision": "not_applicable",
+      "note": "AI equity repricing and expanded outbreak response capacity do not establish a new technical capability, independent replication, deployment or manufacturing-scale milestone."
+    },
+    {
+      "id": "country-region-navigation",
+      "decision": "not_applicable",
+      "note": "No discovery-tool change is part of this research run."
+    },
+    {
+      "id": "research-workspace",
+      "decision": "not_applicable",
+      "note": "No reader-tool change is part of this research run."
+    },
+    {
+      "id": "global-search",
+      "decision": "not_applicable",
+      "note": "No discovery-tool change is part of this research run."
+    },
+    {
+      "id": "research-intelligence",
+      "decision": "not_applicable",
+      "note": "No discovery-tool change is part of this research run."
+    },
+    {
+      "id": "evergreen-research-hubs",
+      "decision": "not_applicable",
+      "note": "No discovery-tool change is part of this research run."
+    },
+    {
+      "id": "data-catalog",
+      "decision": "not_applicable",
+      "note": "No access-layer change is part of this research run."
+    },
+    {
+      "id": "mcp",
+      "decision": "not_applicable",
+      "note": "No access-layer change is part of this research run."
+    },
+    {
+      "id": "program-global-system-power",
+      "decision": "not_applicable",
+      "note": "The four-program architecture is preserved; no program or taxonomy change is proposed."
+    },
+    {
+      "id": "program-political-economy-markets",
+      "decision": "not_applicable",
+      "note": "The four-program architecture is preserved; no program or taxonomy change is proposed."
+    },
+    {
+      "id": "program-strategic-transitions",
+      "decision": "not_applicable",
+      "note": "The four-program architecture is preserved; no program or taxonomy change is proposed."
+    },
+    {
+      "id": "program-technology-production-society",
+      "decision": "not_applicable",
+      "note": "The four-program architecture is preserved; no program or taxonomy change is proposed."
+    },
+    {
+      "id": "editorial-global-macro-daily",
+      "decision": "updated",
+      "note": "MT-GM-2026-11-21 is present in HEAD as pending revision 2, with the 20 November cross-asset session and two separately attributed energy incidents available before the 05:00 BRT cutoff."
+    },
+    {
+      "id": "editorial-wealth-flow-weekly",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-strategic-transitions",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-country-context",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-technology-signals-weekly",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-strategic-technology-monthly",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "The 21 November UKMTO-reported vessel event lacks vessel identity and responsible-actor attribution; no independently verified new conflict-system state is established."
+    },
+    {
+      "id": "editorial-strategic-actors",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-global-monetary-daily",
+      "decision": "verified_no_change",
+      "note": "Central-bank, Treasury and financial-stability signals are incorporated into the daily macro; no distinct institutional-monitor article has a separate delta."
+    },
+    {
+      "id": "editorial-institutional-decisions",
+      "decision": "verified_no_change",
+      "note": "The Fed speech and ECB Financial Stability Review were screened and used as attributed institutional views; no additional decision report is warranted."
+    },
+    {
+      "id": "editorial-policy-case-studies",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "series-economic-paradigms-market-design",
+      "decision": "verified_no_change",
+      "note": "Series reviewed; today's evidence does not justify a separate series update or a new recurring product."
+    },
+    {
+      "id": "editorial-economic-paradigms-market-design",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "system-status",
+      "decision": "not_applicable",
+      "note": "No discovery-tool change is part of this research run."
+    },
+    {
+      "id": "research-coverage",
+      "decision": "not_applicable",
+      "note": "No discovery-tool change is part of this research run."
+    },
+    {
+      "id": "agent-discovery",
+      "decision": "not_applicable",
+      "note": "No access-layer change is part of this research run."
+    },
+    {
+      "id": "editorial-wealth-power-monthly",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-wealth-power-annual",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-global-institution-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "No new treaty implementation, institutional mandate change or verified governance reform with systemic consequences was identified."
+    },
+    {
+      "id": "editorial-regional-integration-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "No new regional integration implementation or measured cross-border flow change was verified."
+    },
+    {
+      "id": "editorial-technology-society-essays",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-food-systems-development",
+      "decision": "deferred_evidence_gap",
+      "note": "Food assistance and essential-service continuity appear in the Bundibugyo response evidence, but no comparable primary food-price, diet-affordability, nutrition or national food-system delta supports a separate article."
+    },
+    {
+      "id": "editorial-biosecurity-livestock-governance",
+      "decision": "deferred_evidence_gap",
+      "note": "No new primary livestock-disease surveillance, veterinary antimicrobial-use or comparable AMR series was verified in this run."
+    },
+    {
+      "id": "editorial-major-power-conflict",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf incidents are reported with explicit attribution limits; no new independently verified escalation, deployment or material flow interruption justifies a separate conflict-system article."
+    },
+    {
+      "id": "editorial-pandemic-preparedness",
+      "decision": "updated",
+      "note": "One thematic report is already pending; no second outbreak or pandemic article is justified."
+    },
+    {
+      "id": "global-conditions-observations",
+      "decision": "deferred_evidence_gap",
+      "note": "The market report uses dated observations, but no new harmonized global-conditions dataset update was verified for the canonical monitor."
+    },
+    {
+      "id": "editorial-historical-intellectual-research",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-energy-industrial-systems-research",
+      "decision": "deferred_evidence_gap",
+      "note": "The ANEEL transmission auction provides an evidence-update candidate, but no new commissioned capacity, verified disbursement or measured operating outcome supports a standalone article."
+    },
+    {
+      "id": "editorial-political-economy-election-assessment",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-resource-sovereignty-geopolitics",
+      "decision": "deferred_evidence_gap",
+      "note": "No new concession, ownership, reserve-control or resource-rights change was established."
+    },
+    {
+      "id": "editorial-energy-security-binational-digital",
+      "decision": "deferred_evidence_gap",
+      "note": "No new primary evidence of a cross-border energy/digital infrastructure agreement, commissioning or financing close was verified."
+    },
+    {
+      "id": "editorial-strategic-global-trade-corridors",
+      "decision": "deferred_evidence_gap",
+      "note": "The tanker incident raises a route-security watchpoint, but no verified bilateral cargo-flow, freight-capacity or sustained closure data support a corridor report."
+    },
+    {
+      "id": "editorial-strategic-resource-stocks-security",
+      "decision": "deferred_evidence_gap",
+      "note": "EIA weekly inventories provide a dated US stock observation; no new strategic-reserve release, stock-control transfer or global stock-policy change was verified."
+    },
+    {
+      "id": "editorial-historical-civilizations-political-economy",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-accelerationism-systems",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-historical-strategic-security",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-structural-economic-outlook",
+      "decision": "verified_no_change",
+      "note": "The day's cross-asset and activity evidence is covered by the Global Macro; no separate long-horizon structural outlook delta is established."
+    },
+    {
+      "id": "editorial-strategic-security-resilience",
+      "decision": "deferred_evidence_gap",
+      "note": "The outbreak response and energy incidents reveal operational constraints, but no new durable resilience-capacity series or funded project was established."
+    },
+    {
+      "id": "editorial-historical-soft-power-research",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-historical-monetary-stabilization",
+      "decision": "verified_no_change",
+      "note": "Reviewed against today's primary-source screen and current corpus; no separate, materially distinct delta justifies a new article. The line remains active and unchanged."
+    },
+    {
+      "id": "editorial-regional-geoeconomic-integration-research",
+      "decision": "deferred_evidence_gap",
+      "note": "No new implemented regional agreement or measured integration flow was identified."
+    },
+    {
+      "id": "editorial-brazil-semiconductor-industrialization",
+      "decision": "deferred_evidence_gap",
+      "note": "No new primary Brazilian semiconductor project approval, financing close, equipment delivery or commissioned capacity was verified."
+    }
+  ],
+  "primary_source_screen": [
+    {
+      "institution": "US Department of the Treasury",
+      "source_class": "primary",
+      "published": "2026-11-20",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+      "finding": "Daily par yield curve observations for 20 November; market close evidence for the Treasury rally."
+    },
+    {
+      "institution": "Federal Reserve Bank of St. Louis (FRED)",
+      "source_class": "primary_data",
+      "published": "latest observation 2026-11-19",
+      "url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "finding": "US high-yield option-adjusted spread reached 3.52% on 19 November; no same-day 20 November observation was available at cutoff."
+    },
+    {
+      "institution": "European Central Bank",
+      "source_class": "primary",
+      "published": "2026-11",
+      "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "finding": "Financial Stability Review discusses non-bank liquidity, repo and private-credit vulnerabilities; treated as institutional risk assessment, not proof of realized losses."
+    },
+    {
+      "institution": "US Bureau of Economic Analysis",
+      "source_class": "primary",
+      "published": "2026-10-29",
+      "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+      "finding": "Third-quarter GDP advance estimate used to distinguish current activity from market repricing."
+    },
+    {
+      "institution": "National Bureau of Statistics of China",
+      "source_class": "primary",
+      "published": "2026-11-16",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html",
+      "finding": "October industrial production, retail and fixed-investment data show divergence between production and domestic demand."
+    },
+    {
+      "institution": "Statistics Bureau of Japan",
+      "source_class": "primary",
+      "published": "2026-11-20",
+      "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
+      "finding": "October national CPI release used for Japan's inflation context."
+    },
+    {
+      "institution": "Office for National Statistics (UK)",
+      "source_class": "primary",
+      "published": "2026-11-20",
+      "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026",
+      "finding": "October retail-sales release; observed activity, not a forecast."
+    },
+    {
+      "institution": "World Health Organization",
+      "source_class": "primary",
+      "published": "2026-11-20",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+      "finding": "As of 17 November, 11,613 confirmed Bundibugyo cases and 5,678 deaths across 68 health zones in eight DRC provinces; active transmission in 48 health zones; 81% average daily contact follow-up versus 95% target."
+    },
+    {
+      "institution": "Africa Centres for Disease Control and Prevention",
+      "source_class": "primary",
+      "published": "2026-11-20",
+      "url": "https://africacdc.org/download/the-bundibugyo-ebola-outbreak-in-africa-six-month-situation-and-response-report/",
+      "finding": "Six-month report: 1,146 of 10,659 confirmed cases with onset from weeks 19–45 (11%) came from existing contact lists; data cutoff differs from WHO's daily contact-follow-up measure."
+    },
+    {
+      "institution": "WHO Regional Office for Africa",
+      "source_class": "primary",
+      "published": "2026-11-20",
+      "url": "https://www.afro.who.int/countries/south-sudan/news/south-sudan-strengthens-readiness-bundibugyo-virus-disease",
+      "finding": "South Sudan readiness self-assessment increased from 29% in May to 72.5% in October; this is readiness scoring, not proof of successful containment."
+    },
+    {
+      "institution": "WHO Director-General",
+      "source_class": "primary",
+      "published": "2026-11-17",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-third-ihr-emergency-committee-meeting-on-bundibugyo-virus-disease-epidemic-in-the-democratic-republic-of-the-congo---17-november-2026",
+      "finding": "Attributed account of community deaths, insecurity, health-facility attacks, lost contacts and delayed frontline payments; not independent event verification."
+    },
+    {
+      "institution": "ANEEL",
+      "source_class": "primary",
+      "published": "2026-10-30",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
+      "finding": "All eight transmission lots were awarded; ANEEL reports R$8.8bn investment, 1,866 km of lines, 12,694 MVA of transformation capacity and a 50.10% discount against the RAP ceiling."
+    },
+    {
+      "institution": "Ministry of Mines and Energy of Brazil",
+      "source_class": "primary",
+      "published": "2026-10-30; updated 2026-11-03",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/outubro-26/leilao-de-transmissao-no-04-2026",
+      "finding": "MME reports the same auction as R$8.9bn; retained as an official rounding difference, not added to ANEEL's R$8.8bn figure."
+    },
+    {
+      "institution": "US Energy Information Administration",
+      "source_class": "primary",
+      "published": "2026-11-18",
+      "url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "finding": "US crude, gasoline and distillate inventories for the week ended 13 November; US-only stock data, not a global supply balance."
+    }
+  ],
+  "event_reporting_screen": [
+    {
+      "institution": "Reuters relaying UKMTO",
+      "source_class": "reporting_not_primary",
+      "published": "2026-11-21 07:57 UTC",
+      "url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+      "finding": "Tanker reportedly struck by unidentified projectile near Khasab; no injuries reported, environmental impact unknown, vessel and actor not identified."
+    },
+    {
+      "institution": "Reuters citing INA and Iraqi security officials",
+      "source_class": "reporting_not_primary",
+      "published": "2026-11-21 06:22 UTC",
+      "url": "https://www.reuters.com/business/energy/iraq-fire-at-basra-power-station-kills-least-four-injures-30-2026-11-21/",
+      "finding": "Fire halted Hartha power-station operations; plant had been operating at about 400 MW of 800 MW installed before the fire; cause and damage extent not established."
+    }
+  ],
+  "specific_gaps": [
+    "No new primary same-date AMR surveillance, veterinary antimicrobial-use or livestock disease series was verified.",
+    "No new primary pesticide exposure, biomonitoring or comparable dietary-residue series was verified.",
+    "No comparable primary food-price affordability or diet-quality data were found for the affected DRC communities; the outbreak report's food-assistance references do not establish a national food-system delta.",
+    "No direct UKMTO incident bulletin was retrievable in this scan; the Khasab event is relayed by Reuters, with vessel identity and actor attribution unresolved.",
+    "No Iraqi Ministry of Electricity or grid-operator statement was found that establishes the Hartha fire's cause, post-fire MW loss or restoration status.",
+    "No same-day global fund-flow series or US high-yield spread after 19 November was available at the 05:00 BRT cutoff.",
+    "No new primary chemical/biological arms-control verification, treaty implementation or independently attributed use allegation was established."
+  ],
+  "additional_thematic_article": {
+    "id": "MT-PH-2026-11-21-bundibugyo-response",
+    "slug": "2026-11-21-bundibugyo-ebola-response",
+    "kind": "pandemic-social-economic-preparedness",
+    "program": "political-economy-markets",
+    "status": "pending",
+    "title": "Response capacity has expanded, but access to communities remains the binding constraint",
+    "rationale": "Already present in HEAD as the single thematic addition for 21 November; WHO's 20 November update and Africa CDC's six-month report provide a substantive epidemiological and operational delta. No duplicate or second thematic article was created."
+  },
+  "decision": "The 21 November Global Macro is pending revision 2. One thematic item (Bundibugyo response) is already pending in HEAD; no additional article is justified.",
+  "limitations": "The 63-asset registry review is an operational coverage reconciliation, not exhaustive primary-source investigation of every line. Claims attributed to WHO, Africa CDC, Reuters, UKMTO, INA and security officials retain their source and verification limits."
+}
