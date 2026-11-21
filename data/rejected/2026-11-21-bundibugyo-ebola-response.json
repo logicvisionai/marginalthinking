@@ -60,8 +60,8 @@
       "pt_br_h2": 11,
       "unique_urls_en": 12,
       "unique_urls_pt": 12,
-      "source_hosts_en": 1,
-      "source_hosts_pt": 1,
+      "source_hosts_en": 7,
+      "source_hosts_pt": 7,
       "charts_en": 2,
       "charts_pt": 2,
       "required_charts": 2,
@@ -71,7 +71,9 @@
       "maps_pt": 1,
       "tables_en": 2,
       "tables_pt": 2,
-      "validator": "scripts/validate-editorial-depth.mjs strict run 44948019447; candidate absent from failure list"
+      "validator": "scripts/validate-editorial-depth.mjs strict run 44948019447; candidate absent from failure list",
+      "registered_domains_en": 6,
+      "registered_domains_pt": 6
     },
     "visual_evidence_readiness": {
       "result": "passed",
