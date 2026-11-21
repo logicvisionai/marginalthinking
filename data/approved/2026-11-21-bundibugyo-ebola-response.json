@@ -64,6 +64,14 @@
     "editorial_depth_script": {
       "result": "passed",
       "summary": "The strict editorial-health run 44958212062 reports failures in other unchanged staged candidates and does not list MT-PH-2026-11-21-bundibugyo-response revision 4."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The canonical public index and related report were checked. The only directly related published item is MT-PH-2026-10-19-pandemic-scars, a COVID-19 socioeconomic scarring and preparedness study; its English report contains no Ebola or Bundibugyo coverage. The current DRC outbreak, 2026 epidemiology and operational access constraints are a distinct research object, not a duplicate."
+    },
+    "reconciliation_ledger_consistency": {
+      "result": "passed",
+      "summary": "Run 2026-11-21-publication-set-reconciliation explicitly includes MT-PH-2026-11-21-bundibugyo-response and decisions for all seven active assets: deferred_evidence_gap for global-dependency-network, structural-opportunity-atlas and conflict-systems; not_applicable for strategic-actors, resource-control-atlas, policy-case-atlas and technology-signal-ledger. No canonical dataset change was justified."
     }
   },
   "contrary_evidence": [
@@ -83,7 +91,7 @@
     "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot.",
     "The repository-wide public build remains blocked by a separate self-reference in MT-GM-2026-11-18 revision 5 (public EN/PT-BR line 60); this is not a defect in the reviewed Bundibugyo candidate and does not alter the content QA decision."
   ],
-  "notes": "Revision 4 resolves the two material issues from revision 3. The prior rejection history is preserved in data/rejected; this approval is tied to the exact current pending and EN/PT-BR Git blob SHAs. No public report, public index, CSS, taxonomy or institutional copy was changed by QA. The repository-wide build still fails on the unrelated MT-GM-2026-11-18 revision 5 self-reference; approval does not mean published or deployed.",
+  "notes": "Revision 4 resolves the two material issues from revision 3. The prior rejection history is preserved in data/rejected; this approval is tied to the exact current pending and EN/PT-BR Git blob SHAs. No public report, public index, CSS, taxonomy or institutional copy was changed by QA. The repository-wide build still fails on the unrelated MT-GM-2026-11-18 revision 5 self-reference; approval does not mean published or deployed. The approval record also preserves the canonical slug, revision and program at top level and explicitly records corpus novelty and reconciliation-ledger consistency; the immutable publication snapshot and all three source fingerprints remain unchanged.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -284,5 +292,8 @@
     "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
     "revision": 4,
     "revision_reason": "Revision 4 separates the Swiss and UK medical evacuations, identifies Nigeria as the origin of the Swiss flight without inferring the patient's occupation, replaces the unbounded negative claim about the third IHR Committee meeting with source-bounded wording, removes reader-facing self-reference in both locales and adds the Swiss Federal Council's primary release."
-  }
+  },
+  "slug": "2026-11-21-bundibugyo-ebola-response",
+  "revision": 4,
+  "program": "political-economy-markets"
 }
