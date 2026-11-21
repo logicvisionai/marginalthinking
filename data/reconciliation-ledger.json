@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-21T09:20:10Z",
+  "last_reconciled_at": "2026-11-21T09:41:34Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10007,6 +10007,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI equity repricing and financing commentary are market observations, not new demonstrated technical capability, independent replication, deployment or manufacturing-scale milestones."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-mt-gm-2026-11-18-revision-5-publication-reconciliation",
+      "reconciled_at": "2026-11-21T09:41:34Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-18"
+      ],
+      "audit_note": "Publication-time reconciliation for MT-GM-2026-11-18 revision 5. All seven active reconciliation-required assets were assessed. No canonical dataset was changed and no unsupported update was inferred.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report examines European energy inflation, energy costs, AI compute commitments and capital/credit transmission, but it supplies no newly audited bilateral trade, energy, credit or capital-flow edge with comparable country-level weights and periods. Do not infer dependency weights from price movements or issuer commitments."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report discusses AI infrastructure commitments and energy-cost exposure but does not establish a site-level project with verified sponsor, committed capital, permits, schedule, capacity, customer demand and defensible return. No canonical opportunity or history entry is justified."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Anthropic, Nvidia and monetary/public institutions are materially discussed, but the report establishes no new beneficial-ownership transfer, voting-rights change, board-control change or verified strategic-control relationship. Existing actor records remain unchanged."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "European energy inflation and compute commitments are cost and financing observations; the report establishes no reserve right, concession, mineral title, operator-control change or transfer of strategic-resource ownership."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report discusses monetary decisions and a prospective Brazilian legislative vote but does not evaluate a completed intervention with verified implementation, ex-post outcomes and a defensible counterfactual suitable for a canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The Bahrain targeting claim is distinguished from Bahrain/US interception and no-damage statements, while the Houthi pipeline statement remains attributed. The report does not establish a sufficiently verified new event, actor attribution or causal relation for a canonical conflict-system mutation."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "verified_no_change",
+          "note": "Anthropic and Nvidia financing, contractual compute commitments and AI-capital exposure are relevant to technology deployment economics, but they do not establish a new demonstrated capability, independent replication, deployment milestone or manufacturing-scale change under the ledger's maturity criteria."
         }
       ]
     }
