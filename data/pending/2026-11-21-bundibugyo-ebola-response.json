@@ -12,7 +12,7 @@
     "en": {
       "markdown": "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/en.md",
       "title": "Response capacity has expanded, but access to communities remains the binding constraint",
-      "deck": "Six months into the DRC outbreak, 11,613 confirmed cases and 5,678 deaths are reported. The PHEIC remains, but WHO says the event does not meet IHR criteria for a pandemic emergency; transmission is concentrated in the DRC.",
+      "deck": "Six months into the DRC outbreak, 11,613 confirmed cases and 5,678 deaths are reported. The Director-General's 17 May decision found a PHEIC, not a pandemic emergency; the 18 November decision maintained the PHEIC.",
       "tags": [
         "public health",
         "biosecurity",
@@ -45,7 +45,7 @@
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md",
       "title": "A capacidade de resposta cresceu, mas o acesso às comunidades continua sendo o principal gargalo",
-      "deck": "Seis meses após o início do surto na RDC, são registrados 11.613 casos confirmados e 5.678 mortes. A ESPII permanece, mas a OMS afirma que o evento não atende aos critérios do RSI para emergência pandêmica; a transmissão continua concentrada na RDC.",
+      "deck": "Seis meses após o início do surto na RDC, são registrados 11.613 casos confirmados e 5.678 mortes. A decisão do diretor-geral de 17 de maio reconheceu uma ESPII, não uma emergência pandêmica; a decisão de 18 de novembro manteve a ESPII.",
       "tags": [
         "saúde pública",
         "biossegurança",
@@ -116,7 +116,7 @@
   "cadence": "event-driven",
   "signal_rationale": {
     "delta": "WHO's 20 November update adds 945 confirmed cases and 480 deaths since 6 November, while the active-zone count falls from 51 to 48. Contact follow-up is 81% against a 95% threshold, and Africa CDC finds only 11% of analysed cases came from existing contact lists.",
-    "evidence": "WHO Disease Outbreak News 6 and 20 November; WHO Director-General remarks 17 November; Africa CDC six-month report; joint Africa CDC/UNFPA/UNICEF/WFP/WHO statement; UNICEF, WFP, ECDC and WHO South Sudan readiness report.",
+    "evidence": "WHO Disease Outbreak News 6 and 20 November; WHO Director-General remarks 17 November; Africa CDC six-month report; joint Africa CDC/UNFPA/UNICEF/WFP/WHO statement; UNICEF, WFP, ECDC and WHO South Sudan readiness report.; WHO Director-General's 17 May determination; WHO 20 November Disease Outbreak News and 21-day provincial case series.",
     "scale_path": "Insecurity, displacement, late detection and delayed frontline payments can interrupt surveillance, referral, treatment access, food assistance and essential health services across affected and connected border areas.",
     "transmission": "A large response apparatus does not translate into control unless contact networks reach communities, workers are paid and safe access is sustained; the outbreak also competes with food, maternal, child and primary-care needs.",
     "falsifier": "Sustained contact follow-up at or above 95%, a materially higher share of cases found through known contacts, declining community deaths and no new health zones over successive reporting periods would weaken the access-constraint thesis."
@@ -153,11 +153,11 @@
       "references": true
     },
     "visual_evidence": {
-      "charts": 1,
+      "charts": 2,
       "tables": 2,
       "flow_diagrams": 1,
       "regional_maps": 1,
-      "total_visuals": 5,
+      "total_visuals": 6,
       "structural_visuals": [
         "flow",
         "map"
@@ -166,22 +166,29 @@
       "source_data_reused": true
     },
     "source_audit": {
-      "references": 11,
-      "primary_institutional_sources": 11,
-      "distinct_domains": 6
+      "references": 12,
+      "primary_institutional_sources": 12,
+      "distinct_domains": 6,
+      "added_reference": {
+        "number": 12,
+        "institution": "World Health Organization",
+        "document": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+        "release_date": "2026-05-17",
+        "supports": "The WHO Director-General's determination that the outbreak constituted a PHEIC but did not meet the IHR criteria for a pandemic emergency."
+      }
     },
     "limitations": [
       "WHO cumulative counts are as of 17 November; Africa CDC contact-list analysis uses a separate period through epidemiological week 45 and a data cutoff around 8 November.",
       "The 11% contact-list metric is not the same as daily follow-up of listed contacts.",
       "Attacks and worker casualties are attributed to WHO Director-General and joint-agency statements, not independently verified here.",
       "Local livelihood observations from Mongbwalu are not national GDP or trade-loss estimates.",
-      "The PHEIC does not meet IHR criteria for a pandemic emergency.",
+      "The WHO Director-General's 17 May 2026 determination stated that the event did not meet IHR criteria for a pandemic emergency; the 18 November 2026 decision maintained the PHEIC.",
       "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot."
     ],
     "reconciliation_run_id": "2026-11-21-publication-set-reconciliation",
-    "qa_rework": "Revision 2 adds one causal flow and one regional map to both language editions. The 11% Africa CDC contact-list identification metric and 81% WHO daily follow-up metric remain explicitly non-comparable."
+    "qa_rework": "Revision 3 corrects attribution of the IHR pandemic-emergency determination to the WHO Director-General's 17 May decision, adds the direct WHO statement, and adds a second source-backed 21-day provincial case chart; EN/PT-BR series are identical. The existing table, flow and regional map remain unchanged."
   },
   "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
-  "revision": 2,
-  "revision_reason": "Revision 2 fixes the visual-evidence gate without changing the substantive thesis or source data. Both editions now contain the same explicit causal flow and regional map, with source dates and the distinction between Africa CDC's 11% case-identification metric and WHO's 81% daily contact-follow-up metric preserved."
+  "revision": 3,
+  "revision_reason": "Revision 3 corrects the attribution of the IHR pandemic-emergency determination to the WHO Director-General's 17 May 2026 decision, adds the direct WHO statement, and adds a second quantitative chart from the WHO 20 November update showing 21-day provincial case counts with identical EN/PT-BR values."
 }

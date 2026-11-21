@@ -33,9 +33,22 @@ Deaths are included within the confirmed-case total; the bars are not additive. 
 
 The geography is also uneven. Ituri and North Kivu remain the most affected provinces. WHO reported that North Kivu had the highest number of cases in the latest seven-day period, while Ituri retained the largest cumulative burden. Sud-Kivu and Sud-Ubangi had not reported cases for more than 42 days. The fact that some health zones have stopped reporting recent cases is meaningful, but it does not establish that transmission has ended across the country. [1]
 
+Across the 21 days to 17 November, WHO recorded 1,417 new confirmed cases in five provinces: 668 in Ituri, 635 in North Kivu, 90 in Haut-Uele, 20 in Tshopo and four in Nord-Ubangi. No new cases were reported in Bas-Uele, Sud-Kivu or Sud-Ubangi during the same period. The concentration in Ituri and North Kivu coexists with smaller but continuing additions in three other provinces. [1]
+
+```chart
+type: bar
+title: New confirmed cases by province — 21 days to 17 November 2026
+unit: Cases
+Ituri | 668
+North Kivu | 635
+Haut-Uele | 90
+Tshopo | 20
+Nord-Ubangi | 4
+```
+
 ## 2. A PHEIC is not a declaration of a pandemic emergency
 
-The outbreak remains a public health emergency of international concern (PHEIC). On 18 November, the WHO Director-General accepted the advice of the third International Health Regulations Emergency Committee meeting, held on 17 November, to maintain that status. The distinction is important: the WHO committee's formal record states that the event did not meet the IHR criteria for a pandemic emergency. A PHEIC activates international coordination; it does not mean that sustained transmission is occurring globally. [1][9]
+The outbreak remains a public health emergency of international concern (PHEIC). The WHO Director-General's determination of 17 May 2026 stated that the event met the PHEIC criteria but did not meet the IHR criteria for a pandemic emergency. On 18 November, after the third International Health Regulations Emergency Committee meeting on 17 November, the Director-General determined that the event continued to constitute a PHEIC. The third meeting did not issue a new pandemic-emergency classification. A PHEIC activates international coordination; it does not mean that sustained transmission is occurring globally. [1][12]
 
 Cases have been reported in five countries since the outbreak was declared on 15 May: the DRC, France, Kenya, Nigeria and Uganda. The outbreaks in France and Uganda have been controlled since August. Kenya has reported nine confirmed cases, including two deaths, all linked to one imported case and a single cluster; it has reported no new confirmed case since 19 October. Nigeria reported one imported case in October, and all identified contacts had completed their follow-up by 13 November. Both countries have entered a 42-day countdown. Switzerland and the United Kingdom reported medical evacuations of health workers from the DRC; the patients recovered and were discharged. These evacuations are not evidence of sustained community transmission in those countries. [1]
 
@@ -122,7 +135,7 @@ The thesis would be weakened if contact follow-up reaches the 95% threshold, the
 
 ## 9. What the evidence establishes
 
-The outbreak remains a severe public-health emergency in the DRC and a regional preparedness concern. It is still a PHEIC, but the formal IHR record does not classify it as a pandemic emergency, and WHO reports no sustained transmission beyond the DRC. The response has expanded laboratories, beds, trained workers, food assistance and cross-border readiness. Yet the share of cases found through existing contact lists is low, daily contact follow-up remains below target and community deaths remain a large share of reported deaths.
+The outbreak remains a severe public-health emergency in the DRC and a regional preparedness concern. The Director-General's 17 May determination did not classify it as a pandemic emergency; the 18 November decision, following the third IHR Emergency Committee meeting, maintained its PHEIC status. WHO's 20 November update reports no sustained transmission beyond the DRC. The response has expanded laboratories, beds, trained workers, food assistance and cross-border readiness. Yet the share of cases found through existing contact lists is low, daily contact follow-up remains below target and community deaths remain a large share of reported deaths. [1][12]
 
 The binding constraint is therefore not simply the number of facilities or the existence of a response plan. It is the ability to reach communities safely, identify cases early, pay and retain frontline staff, preserve essential services and sustain trust. The next phase should be judged by those operational outcomes rather than by the size of the mobilized response alone.
 
@@ -139,3 +152,4 @@ The binding constraint is therefore not simply the number of facilities or the e
 9. World Health Organization, IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the DRC: https://www.who.int/groups/ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-drc-and-uganda/
 10. WHO Regional Office for Africa, South Sudan strengthens readiness for Bundibugyo virus disease, 20 November 2026: https://www.afro.who.int/countries/south-sudan/news/south-sudan-strengthens-readiness-bundibugyo-virus-disease
 11. WHO Regional Office for Africa, Ongoing outbreak in the Democratic Republic of the Congo: https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26
+12. World Health Organization, Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern, 17 May 2026: https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern

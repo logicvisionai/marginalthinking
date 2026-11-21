@@ -33,9 +33,22 @@ As mortes estão incluídas no total de casos confirmados; as barras não devem 
 
 A distribuição geográfica também é desigual. Ituri e Kivu do Norte continuam sendo as províncias mais afetadas. A OMS informou que Kivu do Norte registrou o maior número de casos no período mais recente de sete dias, enquanto Ituri manteve o maior acumulado. Kivu do Sul e Sud-Ubangi não registravam casos havia mais de 42 dias. O fato de algumas zonas deixarem de notificar casos recentes é relevante, mas não demonstra que a transmissão tenha terminado no país. [1]
 
+Nos 21 dias até 17 de novembro, a OMS registrou 1.417 novos casos confirmados em cinco províncias: 668 em Ituri, 635 em Kivu do Norte, 90 em Alto-Uele, 20 em Tshopo e quatro em Nord-Ubangi. Não houve novos casos em Bas-Uele, Kivu do Sul ou Sud-Ubangi no mesmo período. A concentração em Ituri e Kivu do Norte coexistiu com acréscimos menores, mas contínuos, em outras três províncias. [1]
+
+```chart
+type: bar
+title: Novos casos confirmados por província — 21 dias até 17 de novembro de 2026
+unit: Casos
+Ituri | 668
+Kivu do Norte | 635
+Alto-Uele | 90
+Tshopo | 20
+Nord-Ubangi | 4
+```
+
 ## 2. Uma ESPII não equivale à declaração de uma emergência pandêmica
 
-O surto permanece uma emergência de saúde pública de importância internacional (ESPII). Em 18 de novembro, o diretor-geral da OMS aceitou a recomendação da terceira reunião do Comitê de Emergência do Regulamento Sanitário Internacional, realizada em 17 de novembro, de manter essa classificação. A distinção é importante: o registro formal do comitê afirma que o evento não atende aos critérios do RSI para uma emergência pandêmica. Uma ESPII aciona coordenação internacional; não significa que exista transmissão sustentada em escala global. [1][9]
+O surto permanece uma emergência de saúde pública de importância internacional (ESPII). A determinação do diretor-geral da OMS em 17 de maio de 2026 afirmou que o evento atendia aos critérios de ESPII, mas não aos critérios do RSI para uma emergência pandêmica. Em 18 de novembro, após a terceira reunião do Comitê de Emergência do Regulamento Sanitário Internacional, realizada em 17 de novembro, o diretor-geral determinou que o evento continuava a constituir uma ESPII. A terceira reunião não emitiu uma nova classificação de emergência pandêmica. Uma ESPII aciona a coordenação internacional; não significa que haja transmissão sustentada em escala global. [1][12]
 
 Casos foram registrados em cinco países desde a declaração do surto em 15 de maio: RDC, França, Quênia, Nigéria e Uganda. Os surtos na França e em Uganda estão controlados desde agosto. O Quênia registrou nove casos confirmados, incluindo duas mortes, todos vinculados a um caso importado e a um único agrupamento; não há novo caso confirmado desde 19 de outubro. A Nigéria notificou um caso importado em outubro, e todos os contatos identificados haviam concluído o acompanhamento até 13 de novembro. Os dois países iniciaram uma contagem regressiva de 42 dias. Suíça e Reino Unido comunicaram evacuações médicas de profissionais de saúde vindos da RDC; os pacientes se recuperaram e receberam alta. Essas evacuações não demonstram transmissão comunitária sustentada nesses países. [1]
 
@@ -122,7 +135,7 @@ A tese perderia força se o acompanhamento de contatos alcançasse 95%, a parcel
 
 ## 9. O que as evidências permitem afirmar
 
-O surto continua sendo uma emergência grave de saúde pública na RDC e uma preocupação regional de preparação. Permanece classificado como ESPII, mas o registro formal do RSI não o classifica como emergência pandêmica, e a OMS não relata transmissão sustentada fora da RDC. A resposta ampliou laboratórios, leitos, trabalhadores treinados, assistência alimentar e preparação transfronteiriça. Ainda assim, a parcela de casos identificados por listas de contatos existentes é baixa, o acompanhamento diário permanece abaixo da meta e as mortes na comunidade continuam representando uma parte elevada das mortes notificadas.
+O surto continua sendo uma emergência grave de saúde pública na RDC e uma preocupação regional de preparação. Permanece classificado como ESPII. A determinação do diretor-geral de 17 de maio não o classificou como emergência pandêmica; a decisão de 18 de novembro, após a terceira reunião do Comitê de Emergência do RSI, manteve a ESPII. A atualização da OMS de 20 de novembro não relata transmissão sustentada fora da RDC. A resposta ampliou laboratórios, leitos, trabalhadores treinados, assistência alimentar e preparação transfronteiriça. Ainda assim, a parcela de casos identificados por listas de contatos existentes é baixa, o acompanhamento diário permanece abaixo da meta e as mortes na comunidade continuam representando uma parte elevada das mortes notificadas. [1][12]
 
 O gargalo principal, portanto, não é apenas o número de instalações ou a existência de um plano de resposta. É a capacidade de chegar às comunidades com segurança, identificar casos cedo, pagar e reter os profissionais da linha de frente, preservar serviços essenciais e manter a confiança. A próxima fase deve ser avaliada por esses resultados operacionais, não apenas pelo tamanho da mobilização.
 
@@ -139,3 +152,4 @@ O gargalo principal, portanto, não é apenas o número de instalações ou a ex
 9. Organização Mundial da Saúde, Comitê de Emergência do RSI sobre a epidemia de doença pelo vírus Ebola Bundibugyo na RDC: https://www.who.int/groups/ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-drc-and-uganda/
 10. Escritório Regional da OMS para a África, South Sudan strengthens readiness for Bundibugyo virus disease, 20 de novembro de 2026: https://www.afro.who.int/countries/south-sudan/news/south-sudan-strengthens-readiness-bundibugyo-virus-disease
 11. Escritório Regional da OMS para a África, Ongoing outbreak in the Democratic Republic of the Congo: https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26
+12. Organização Mundial da Saúde, Epidemia de doença pelo vírus Ebola Bundibugyo na República Democrática do Congo e em Uganda declarada emergência de saúde pública de importância internacional, 17 de maio de 2026: https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern
