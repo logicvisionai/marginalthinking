@@ -178,5 +178,110 @@
     "The strict editorial-depth workflow has repository-wide failures on seven other staged items; this candidate was not one of them.",
     "The current Reuters 19 Nov article is updated and shows a 09:53 GMT price observation; the staged 04:55 GMT quote is not visible in that source version."
   ],
-  "notes": "Third rejection for MT-GM-2026-11-19. The previous cutoff and conflicting index-vintage defects from revision 2 are corrected in revision 3. A new material traceability defect remains in the oil-market snapshot. The rejection-loop limit is now reached; no fourth rejection may be recorded. A future corrected revision may be reviewed once, but if it still fails, it must be blocked and escalated rather than rejected again."
+  "notes": "Third rejection for MT-GM-2026-11-19. The previous cutoff and conflicting index-vintage defects from revision 2 are corrected in revision 3. A new material traceability defect remains in the oil-market snapshot. The rejection-loop limit is now reached; no fourth rejection may be recorded. A future corrected revision may be reviewed once, but if it still fails, it must be blocked and escalated rather than rejected again.",
+  "blocked_reviews": [
+    {
+      "revision": 4,
+      "status": "blocked_no_fourth_rejection",
+      "reviewed_at": "2026-11-21T09:55:33Z",
+      "reviewed_commit": "107951b8dcb5a5b5b2917a69cac1929f91c278d6",
+      "pending_blob_sha": "5e98bfe7c65fb2c7a4f6eb9169ccc48da9f13b82",
+      "source_blob_shas": {
+        "en": "9011c77dc0f5209837caf35c2e8a82d9e85c4b68",
+        "pt-BR": "33c2fef468d5ddebbc89ac9de1e5b7823d9ee409"
+      },
+      "issues": [
+        {
+          "severity": "material",
+          "code": "INTRADAY_OIL_QUOTE_NOT_TRACEABLE_TO_CITED_REUTERS_SOURCE",
+          "paths": [
+            "staging/research/2026/11/2026-11-19-global-macro/en.md",
+            "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md",
+            "data/pending/2026-11-19-global-macro.json"
+          ],
+          "locations": [
+            "en.md line 9",
+            "pt-BR.md line 9",
+            "producer_checks.information_cutoff and producer_checks.evidence_vintage"
+          ],
+          "evidence": "Both editions attribute the 09:53 GMT 19 Nov observations (Brent US$92.19; December WTI US$83.31; January WTI US$82.43) to Reuters [2]. The cited Reuters page identifies its initial publication as 19 Nov 2026 02:47 UTC and its update only as 'Updated November 19'; the current article body reports the 19 Nov settlement at Brent US$91.98 and WTI US$83.21, and contains no 09:53 quote or the stated contract prices. Searches within the cited page for 92.19 and 83.31 return no matches. The source therefore does not substantiate the intraday observation at the stated timestamp.",
+          "required_correction": "Provide a directly retrievable, time-stamped source that records the 09:53 GMT Brent quote and both named WTI contract months, or remove the intraday quote. Keep the 18 Nov settlements separate and continue to identify each observation as intraday or settlement."
+        },
+        {
+          "severity": "material",
+          "code": "US_EQUITY_CLOSES_AND_SEMICONDUCTOR_DIRECTION_CONFLICT_WITH_CITED_REUTERS_REPORT",
+          "paths": [
+            "staging/research/2026/11/2026-11-19-global-macro/en.md",
+            "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "en.md line 11",
+            "pt-BR.md line 11 and market table"
+          ],
+          "evidence": "Both editions call the figures Reuters preliminary closing data and report S&P 500 -0.24% at 7,322.53, Dow -1.12% at 50,193.03 and Nasdaq +0.39% at 24,429.89. The cited Reuters [4] page currently reports final values: S&P 500 -0.23% at 7,323.64; Dow -1.11% at 50,198.17; Nasdaq +0.42% at 24,429.89. The same article says the Philadelphia SE Semiconductor Index eked out a 0.1% gain, whereas both editions state that it closed slightly lower. Reuters page: https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/ (published 18 Nov 10:28 AM UTC; updated 19 Nov).",
+          "required_correction": "Use the final Reuters values consistently in the EN paragraph, PT-BR paragraph and market table, and correct the Philadelphia SE Semiconductor Index to a 0.1% gain. If the producer intends to retain preliminary values, cite the exact contemporaneous preliminary source and timestamp; the current Reuters article does not contain those values."
+        },
+        {
+          "severity": "material",
+          "code": "REUTERS_UPDATE_VINTAGE_NOT_VERIFIABLE_AT_DECLARED_CUTOFF",
+          "paths": [
+            "data/pending/2026-11-19-global-macro.json",
+            "staging/research/2026/11/2026-11-19-global-macro/en.md",
+            "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "producer_checks.information_cutoff",
+            "producer_checks.evidence_vintage",
+            "en.md line 3",
+            "pt-BR.md line 3"
+          ],
+          "evidence": "The pending sidecar states that Reuters [4] was published at 10:28 UTC on 19 Nov before the 10:45 UTC cutoff. Reuters page metadata instead shows initial publication on 18 Nov 2026 at 10:28 AM UTC and an update dated 19 Nov without an update time. The stated 10:28 UTC publication on 19 Nov is therefore incorrect, and the page does not establish whether its updated market-close values were available by the declared 10:45 UTC cutoff.",
+          "required_correction": "Record the initial publication date/time separately from the update date/time. Establish the update time from a verifiable archive or timestamped source before claiming the updated data was available by the cutoff; otherwise use a source whose publication vintage is verifiable."
+        },
+        {
+          "severity": "minor",
+          "code": "SOURCE_AUDIT_COUNTS_DO_NOT_MATCH_BIBLIOGRAPHY",
+          "paths": [
+            "data/pending/2026-11-19-global-macro.json"
+          ],
+          "locations": [
+            "producer_checks.source_audit"
+          ],
+          "evidence": "The EN reference section contains 14 URLs across 1 distinct hostnames (invalid), while source_audit records 14 references and 11 domains. The institutional reference entries visible in the bibliography are [1], [3], [5], [6], [7], [8] and [9] (7), while source_audit records 8.",
+          "required_correction": "Recalculate the bibliography audit from the final reference list and state the counting rule for domains and primary institutional sources. Preserve the market-reporting count only if its classification is explicit."
+        }
+      ],
+      "checks": {
+        "factual_methodology": {
+          "result": "failed",
+          "summary": "The cited Reuters market data conflict with the staged values, and the 09:53 oil quote is not reproducible from its cited source."
+        },
+        "evidence_traceability": {
+          "result": "failed",
+          "summary": "The 09:53 quote and preliminary US index values are not supported by the current cited Reuters pages."
+        },
+        "source_vintage_and_cutoff": {
+          "result": "failed",
+          "summary": "The Reuters initial publication and update timestamps are conflated; the updated source version cannot be placed before the declared cutoff."
+        },
+        "editorial_publication_readiness": {
+          "result": "failed",
+          "summary": "Material market-data and source-vintage defects remain in both editions."
+        },
+        "research_depth": {
+          "result": "passed",
+          "summary": "The strict editorial-depth run did not list this revision among failures; the brief contains seven analytical sections, scenario tests and source limitations."
+        },
+        "visual_evidence_readiness": {
+          "result": "passed",
+          "summary": "Two explicit charts, three evidence tables, one regional map and one causal flow are present with bilingual numerical parity."
+        },
+        "translation_check": {
+          "result": "passed",
+          "summary": "The material market figures and qualifications match across EN and PT-BR; the same factual/source defects occur in both editions."
+        }
+      },
+      "note": "Operational block only. This is a new pending revision SHA and was independently reviewed once. The ID has already reached its limit of three new rejections. No fourth rejection was created; rejection_count_for_id remains 3. Return the corrections to producer task 1/5. Reconsider only after a new pending blob and new EN/PT-BR source SHAs are committed."
+    }
+  ]
 }
