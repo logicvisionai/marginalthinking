@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-19T12:57:12.635Z",
+  "last_reconciled_at": "2026-11-21T08:30:02Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -9916,6 +9916,52 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "At the 17 November 01:30 BRT cutoff, Nvidia's results were still scheduled for later that day. The report discusses listed-market repricing and future orders, not a new claimed, demonstrated, deployed or scaled technical capability, independent replication, manufacturing output or deployment milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-publication-set-reconciliation",
+      "reconciled_at": "2026-11-21T08:30:02Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-21",
+        "MT-PH-2026-11-21-bundibugyo-response",
+        "MT-GM-2026-11-18"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The 21 Nov cross-asset market report, the Bundibugyo response assessment and the corrected 18 Nov macro edition identify financing, health-access and trade/energy transmission mechanisms, but no new audited country-to-country weighted trade, health-service or capital-flow edge under the canonical network definitions. Market co-movement and reported access constraints are not dependency weights."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The 21 Nov scan stages a candidate evidence update for Brazil's awarded transmission concessions, related to BRA-GRID-001, but it remains a discovery signal for task 2/5. No commissioned capacity, verified disbursement or measured curtailment reduction is established. The macro reports' tanker and Hartha incidents are operational risks, not structural opportunities. Canonical Atlas and history remain unchanged."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "None of the three reports establishes a beneficial-ownership transfer, voting-rights change, board-control change or newly verified strategic control relation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil prices, inventories, tanker incidents and the Hartha outage do not establish a transfer of reserves, concessions, mineral rights, operator control or ownership of a strategic resource."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The reports discuss monetary conditions, energy operations and public-health response but do not evaluate a completed policy intervention with observed implementation, ex-post outcomes and a defensible counterfactual suitable for a canonical policy case."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The 21 Nov tanker event is relayed by Reuters from UKMTO; vessel identity and actor attribution remain unknown, and the relationship to the 20 Nov Khasab report is unestablished. The 18 Nov Bahrain account now distinguishes the IRGC targeting claim from Bahrain/US interception and no-damage statements; the Houthi pipeline statement remains attributed. Bundibugyo reporting identifies access and security constraints but does not independently establish a new armed-conflict event. Retain the claims in research with attribution; do not add a canonical conflict event from unresolved evidence."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI equity repricing and financing commentary are market observations, not new demonstrated technical capability, independent replication, deployment or manufacturing-scale milestones. Expanded outbreak laboratories and treatment capacity are health-system response capacity, not a new technology signal under the ledger's maturity criteria."
         }
       ]
     }
