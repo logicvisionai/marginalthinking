@@ -26822,6 +26822,224 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-PH-2026-11-21-bundibugyo-response",
+    "slug": "2026-11-21-bundibugyo-ebola-response",
+    "date": "2026-11-21",
+    "published_at": "2026-11-21T05:00:00-03:00",
+    "kind": "pandemic-social-economic-preparedness",
+    "priority": 38,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power",
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "region",
+      "regions": [
+        "africa"
+      ],
+      "subregions": [
+        "sub-saharan-africa"
+      ],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "demography-labor",
+      "inequality-distribution",
+      "social-change",
+      "institutions-governance",
+      "infrastructure-logistics",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "migration-displacement",
+      "social-change",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "signal_rationale": {
+      "delta": "WHO's 20 November update adds 945 confirmed cases and 480 deaths since 6 November, while the active-zone count falls from 51 to 48. Contact follow-up is 81% against a 95% threshold, and Africa CDC finds only 11% of analysed cases came from existing contact lists.",
+      "evidence": "WHO Disease Outbreak News 6 and 20 November; WHO Director-General remarks 17 November; Africa CDC six-month report; joint Africa CDC/UNFPA/UNICEF/WFP/WHO statement; UNICEF, WFP, ECDC and WHO South Sudan readiness report.; WHO Director-General's 17 May determination; WHO 20 November Disease Outbreak News and 21-day provincial case series.",
+      "scale_path": "Insecurity, displacement, late detection and delayed frontline payments can interrupt surveillance, referral, treatment access, food assistance and essential health services across affected and connected border areas.",
+      "transmission": "A large response apparatus does not translate into control unless contact networks reach communities, workers are paid and safe access is sustained; the outbreak also competes with food, maternal, child and primary-care needs.",
+      "falsifier": "Sustained contact follow-up at or above 95%, a materially higher share of cases found through known contacts, declining community deaths and no new health zones over successive reporting periods would weaken the access-constraint thesis."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "WHO and Africa CDC use different epidemiological cutoffs; their totals are not directly interchangeable.",
+      "The 11% case-detection-from-contact-lists metric and WHO's 81% daily contact-follow-up metric measure different processes.",
+      "Security incidents and casualty figures are attributed to WHO and partner statements and were not independently verified in this review.",
+      "No national GDP, trade or aggregate labour-market loss estimate was found in the primary sources reviewed.",
+      "The PHEIC designation is not a pandemic-emergency declaration under the IHR.",
+      "WHO reports no approved vaccine or specific treatment for Bundibugyo virus disease; ongoing trials are not evidence of efficacy."
+    ],
+    "contrary_evidence": [
+      "The number of health zones with cases in the preceding 21 days fell from 51 to 48 between the 3 and 17 November reporting dates.",
+      "Twenty of 68 affected health zones had no case in the preceding 21 days as of 17 November.",
+      "No new cases were reported from Kenya or Nigeria in the 20 November WHO update; both began a 42-day countdown.",
+      "France and Uganda have been controlled since August; medically evacuated patients in Switzerland and the United Kingdom recovered and were discharged.",
+      "The joint agency statement reports expanded laboratory, bed, community-workforce, food-assistance and safe-burial capacity.",
+      "South Sudan's WHO readiness score increased from 29% in May to 72.5% in October."
+    ],
+    "related_research_ids": [
+      "MT-PH-2026-10-19-pandemic-scars"
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-21T05:00:00-03:00",
+      "novelty_decision": "No current Bundibugyo article was found in the corpus. The 19 October pandemic-scars article is historical and does not cover this outbreak. This report is the single thematic addition selected after the daily Global Macro.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "titles": true,
+        "core_thesis": true,
+        "epidemiological_data": true,
+        "visual_data": true,
+        "references": true
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 2,
+        "flow_diagrams": 1,
+        "regional_maps": 1,
+        "total_visuals": 6,
+        "structural_visuals": [
+          "flow",
+          "map"
+        ],
+        "bilingual_parity": true,
+        "source_data_reused": true
+      },
+      "source_audit": {
+        "references": 13,
+        "primary_institutional_sources": 13,
+        "distinct_domains": 7,
+        "added_reference": {
+          "number": 13,
+          "institution": "Swiss Federal Council",
+          "document": "Ebola case and close contact being treated in Switzerland",
+          "release_date": "2026-10-26",
+          "supports": "The infected woman and her husband, a close contact, arrived in Switzerland from Nigeria on a medical evacuation flight; the release does not identify the woman's occupation."
+        },
+        "previously_added_reference": {
+          "number": 12,
+          "institution": "World Health Organization",
+          "document": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+          "release_date": "2026-05-17",
+          "supports": "The WHO Director-General's determination that the outbreak constituted a PHEIC but did not meet the IHR criteria for a pandemic emergency."
+        }
+      },
+      "limitations": [
+        "WHO cumulative counts are as of 17 November; Africa CDC contact-list analysis uses a separate period through epidemiological week 45 and a data cutoff around 8 November.",
+        "The 11% contact-list metric is not the same as daily follow-up of listed contacts.",
+        "Attacks and worker casualties are attributed to WHO Director-General and joint-agency statements, not independently verified here.",
+        "Local livelihood observations from Mongbwalu are not national GDP or trade-loss estimates.",
+        "The WHO Director-General's 17 May 2026 determination stated that the event did not meet IHR criteria for a pandemic emergency; the 18 November 2026 decision maintained the PHEIC.",
+        "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot."
+      ],
+      "reconciliation_run_id": "2026-11-21-publication-set-reconciliation",
+      "qa_rework": "Revision 4 corrects the Swiss evacuation's origin and unsupported occupation, distinguishes it from the UK health-worker evacuation, bounds the IHR statement to what the 20 November WHO notice reports, removes reader-facing self-reference in EN/PT-BR and adds the Swiss Federal Council release as reference 13."
+    },
+    "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
+    "revision": 4,
+    "revision_reason": "Revision 4 separates the Swiss and UK medical evacuations, identifies Nigeria as the origin of the Swiss flight without inferring the patient's occupation, replaces the unbounded negative claim about the third IHR Committee meeting with source-bounded wording, removes reader-facing self-reference in both locales and adds the Swiss Federal Council's primary release.",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Response capacity has expanded, but access to communities remains the binding constraint",
+        "deck": "Six months into the DRC outbreak, 11,613 confirmed cases and 5,678 deaths are reported. The Director-General's 17 May decision found a PHEIC, not a pandemic emergency; the 18 November decision maintained the PHEIC.",
+        "tags": [
+          "public health",
+          "biosecurity",
+          "pandemic preparedness",
+          "food systems",
+          "conflict and health access",
+          "humanitarian logistics"
+        ],
+        "keywords": [
+          "Bundibugyo Ebola",
+          "DRC outbreak",
+          "contact tracing",
+          "community deaths",
+          "health system capacity",
+          "food security",
+          "regional preparedness"
+        ],
+        "regime": "Protracted public-health emergency under conflict and humanitarian-access constraints",
+        "key_risk": "Expanded laboratories, treatment beds and community workforces may fail to reduce transmission if contact networks, safe access, timely payment and community trust remain weak.",
+        "watch": [
+          "WHO daily contact follow-up against the 95% threshold",
+          "share of new cases identified through known contact lists",
+          "deaths outside treatment centres",
+          "new health zones and cross-border cases",
+          "frontline worker payment and security incidents",
+          "continuity of food, maternal and child health services"
+        ],
+        "search_text": "Bundibugyo Ebola 21 November 2026; DRC PHEIC; 11,613 confirmed cases; 5,678 deaths; contact tracing; community deaths; insecurity; food security; South Sudan readiness."
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "A capacidade de resposta cresceu, mas o acesso às comunidades continua sendo o principal gargalo",
+        "deck": "Seis meses após o início do surto na RDC, são registrados 11.613 casos confirmados e 5.678 mortes. A decisão do diretor-geral de 17 de maio reconheceu uma ESPII, não uma emergência pandêmica; a decisão de 18 de novembro manteve a ESPII.",
+        "tags": [
+          "saúde pública",
+          "biossegurança",
+          "preparação pandêmica",
+          "sistemas alimentares",
+          "conflito e acesso à saúde",
+          "logística humanitária"
+        ],
+        "keywords": [
+          "Ebola de Bundibugyo",
+          "surto na RDC",
+          "rastreamento de contatos",
+          "mortes na comunidade",
+          "capacidade do sistema de saúde",
+          "segurança alimentar",
+          "preparação regional"
+        ],
+        "regime": "Emergência de saúde pública prolongada sob restrições de conflito e acesso humanitário",
+        "key_risk": "A expansão de laboratórios, leitos e equipes comunitárias pode não reduzir a transmissão se as redes de contatos, o acesso seguro, os pagamentos e a confiança comunitária continuarem frágeis.",
+        "watch": [
+          "acompanhamento diário de contatos pela OMS diante da meta de 95%",
+          "parcela de novos casos identificados por listas de contatos",
+          "mortes fora dos centros de tratamento",
+          "novas zonas de saúde e casos transfronteiriços",
+          "pagamento de profissionais da linha de frente e incidentes de segurança",
+          "continuidade de alimentação e serviços materno-infantis"
+        ],
+        "search_text": "Ebola de Bundibugyo 21 de novembro de 2026; ESPII na RDC; 11.613 casos confirmados; 5.678 mortes; rastreamento de contatos; mortes na comunidade; insegurança; segurança alimentar; preparação do Sudão do Sul."
+      }
+    },
+    "limitations": [
+      "WHO cumulative counts are as of 17 November; Africa CDC contact-list analysis uses a separate period through epidemiological week 45 and a data cutoff around 8 November.",
+      "The 11% contact-list metric is not the same as daily follow-up of listed contacts.",
+      "Attacks and worker casualties are attributed to WHO Director-General and joint-agency statements, not independently verified here.",
+      "Local livelihood observations from Mongbwalu are not national GDP or trade-loss estimates.",
+      "The WHO Director-General's 17 May 2026 determination stated that the event did not meet IHR criteria for a pandemic emergency; the 18 November 2026 decision maintained the PHEIC.",
+      "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot."
+    ],
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-21T19:45:45-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "0cec997a850cdad5c91d91afa1f2702dcbc60bcd",
+    "qa_fixes_applied": [
+      "Corrected the Swiss evacuation account: the infected woman and her husband, a close contact, were evacuated from Nigeria to Switzerland; the woman's occupation is not identified. Added the Swiss Federal Council's 26 October release as reference [13].",
+      "Separated the UK case: WHO identifies the medically evacuated patient from the DRC as a health and care worker who recovered and was discharged.",
+      "Replaced the unbounded negative claim about the third IHR Committee meeting with source-bounded wording and removed reader-facing self-references from the conflict-evidence and economic-limitations paragraphs in both languages."
+    ]
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GM-2026-11-21",
     "slug": "2026-11-21-global-macro",
     "date": "2026-11-21",
