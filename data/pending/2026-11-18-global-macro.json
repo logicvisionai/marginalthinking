@@ -39,15 +39,16 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 4,
+  "revision": 5,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian equity closes refer to 17 Nov. Eurostat and ONS October inflation releases were observed. The FOMC minutes were released at 16:00 BRT and are incorporated; the PLP 299/2026 Senate vote remained pending at the cutoff.",
     "novelty": "Adds Eurostat full October HICP with energy at 21.0% and component contributions, UK October CPI/CPIH and corrected labour-market comparison, RBA November minutes, Nvidia's reported fiscal quarter, Anthropic's 17 Nov S-1/A with fixed, conditional and unpriced compute commitments, the FOMC's 18 Nov financial-stability assessment of AI-related debt, and US retail/import-price/industrial-production releases.",
-    "qa_rework": "Revision 4 corrects the independent QA findings on revision 3: FOMC release chronology and missing risk assessment; ONS unemployment comparison; SEC termination/contingency and excluded-commitment qualifications; actor-specific attribution of Gulf incidents; and the claim-specific Senate source and translation of legislative highlights.",
+    "qa_rework": "Revision 5 addresses the operational block on revision 4: actor claims, official interception/no-damage statements and verified effects are separated in both languages and in the map. The ID has reached its three-rejection limit; this corrected revision is for independent review and must be blocked rather than rejected if a material defect remains.",
     "evidence_vintage": "Commission forecasts are projections. Eurostat HICP and ONS CPI are observed October releases. Anthropic's S-1/A is an issuer filing with observed nine-month results and prospective contractual obligations, conditional arrangements and non-fixed-dollar estimates. RBA minutes describe the 3 November vote. FOMC minutes for 27–28 October were released at 16:00 BRT on 18 November and record staff and participant risk assessments, not realized losses. Market closes are dated 17 November. Brazilian fiscal results remain prospective.",
     "bilingual_parity": "Same 21 source URLs, 11 analytical sections, quantitative series, dates, causal tests and qualifications in English and Brazilian Portuguese. The ONS comparison, Anthropic commitment categories, conflict attribution and FOMC timing/status are aligned.",
-    "visual_evidence": "Matching charts for forecast revisions and US equity returns, full inflation-contribution table, US economic releases table, causal flow, regional map and scenario matrix. Numeric series and structural labels remain semantically equivalent across EN/PT-BR."
+    "visual_evidence": "Matching charts for forecast revisions and US equity returns, full inflation-contribution table, US economic releases table, causal flow, regional map and scenario matrix. Numeric series and structural labels remain semantically equivalent across EN/PT-BR.",
+    "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
   },
   "limitations": [
     "The information cutoff is 18 Nov 2026 16:20 BRT; US and Brazilian equity closes refer to 17 Nov.",
@@ -120,7 +121,7 @@
       "search_text": "Global Macro 18 novembro 2026 Eurostat inflação definitiva outubro Reino Unido CPI Anthropic SEC Nvidia Comissão Europeia energia IA financiamento ata FOMC risco financiamento IA"
     }
   },
-  "revision_reason": "Revision 4 addresses the independent QA findings on revision 3: the FOMC minutes were already public before the 16:20 BRT cutoff; the ONS unemployment change was misstated; Anthropic's contractual obligations required material termination, contingency and excluded-spend qualifications; conflict events required actor-specific attribution; and the Senate source needed to be claim-specific. The declared cutoff and all source periods remain unchanged.",
+  "revision_reason": "Revision 5 resolves the blocked independent QA review for revision 4. Both editions and the regional map now distinguish the IRGC's attributed statement that it targeted the Sheikh Isa radar from Bahrain and US Central Command's account that the drones were intercepted without damage or injuries. The separately reported ship incident remains distinct, and the Houthi pipeline claim remains attributed and unverified.",
   "qa_fixes_applied": [
     "Expanded both staged editions beyond the 1700 substantive-word minimum with source-supported original analysis.",
     "Retained and checked bilingual parity of all chart numeric series and updated the analysis to the 18 November information cutoff.",
@@ -132,7 +133,8 @@
     "Revision 4: separated Anthropic's $900.9 billion aggregate from $186.2 billion of conditional/terminable obligations and $150–175 billion of excluded non-fixed-dollar arrangements; qualified the $70.7 billion near-term amount.",
     "Revision 4: attributed the reported Iranian, US and Houthi events separately and distinguished reported events from the Houthi claim.",
     "Revision 4: replaced the generic Senate session URL with the claim-specific Agência Senado notice and corrected the English rendering of 'destaques'.",
-    "Revision 4: completed bibliographic references at the end of both editions, with institution, document, year/date and verifiable URL."
+    "Revision 4: completed bibliographic references at the end of both editions, with institution, document, year/date and verifiable URL.",
+    "Revision 5: corrected the Bahrain radar account in EN/PT-BR and the regional map. The IRGC's stated targeting claim is attributed; Bahrain and US Central Command's interception/no-damage account is stated separately; no radar impact is presented as verified. The Hormuz ship report remains a separate event, and the Houthi pipeline statement remains an attributed claim."
   ],
   "contrary_evidence": [
     "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",

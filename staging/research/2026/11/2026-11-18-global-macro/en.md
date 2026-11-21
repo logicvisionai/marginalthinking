@@ -57,7 +57,7 @@ A firmer dollar and lower gold prices have been reported alongside expectations 
 
 ## 4. Oil: easing physical surplus versus persistent disruption
 
-Brent settled at **US$93.14/barrel** on 17 November, up **0.76%** in the session, while WTI settled at **US$86.01**, up **0.34%**, according to Reuters. Reuters reported that Iranian drones struck a US military radar system in Bahrain and that a ship was hit twice in the Strait of Hormuz, with its crew unaccounted for. The US military also carried out airstrikes on Iran. Yemen's Houthis claimed five drones toward two pumping stations on Saudi Arabia's East-West pipeline; this remains an attributed claim rather than a verified strike in this report. These events raise route and insurance risk, but do not establish a sustained closure or a quantified interruption of oil flows. [4]
+Brent settled at **US$93.14/barrel** on 17 November, up **0.76%** in the session, while WTI settled at **US$86.01**, up **0.34%**, according to Reuters. Reuters reported that the Islamic Revolutionary Guard Corps (IRGC) said it had targeted the Sheikh Isa radar in Bahrain. Bahrain and US Central Command said the drones were intercepted, with no damage to US equipment or injuries reported. These are attributed accounts; this report does not treat the radar as struck. Reuters separately reported that a ship was hit twice in the Strait of Hormuz, with its crew unaccounted for. The United States also carried out airstrikes on Iran. Yemen's Houthis claimed five drones toward two pumping stations on Saudi Arabia's East-West pipeline; the claim remains attributed, and the report does not establish damage to the pipeline. These incidents raise route and insurance risk but do not establish a sustained closure or a quantified interruption of oil flows. [4]
 
 The Commission's forecast is conditional on an energy shock lasting through 2027, with unusually expensive gas, diesel and shipping insurance. A single crude settlement cannot invalidate that broader cost forecast: refined-product margins, delivered gas prices and freight can diverge from crude. The causal test is sustained normalization of actual delivered prices and route availability, not merely a one-day fall in futures. [1][4]
 
@@ -67,7 +67,7 @@ The Commission's forecast is conditional on an energy shock lasting through 2027
 title: Regional exposures to the financing and energy shock
 Euro area | Energy-intensive industry and sovereign spreads | Export strength offsets some demand weakness; exposure differs by member state
 United States | Equity valuation and private refinancing | Lower sovereign yields do not guarantee narrower credit spreads
-Gulf and shipping corridors | Route security, oil and insurance | Reuters reported an Iranian drone strike in Bahrain and a ship hit in the Strait; the Houthi pipeline claim remains attributed; no sustained closure established
+Gulf and shipping corridors | IRGC said it targeted the Sheikh Isa radar in Bahrain; Bahrain and US Central Command said drones were intercepted without damage or injuries; Reuters separately reported a ship hit twice in the Strait | Targeting claim is attributed; no radar impact established; Houthi pipeline claim remains unverified; no sustained closure established
 East Asia | Technology supply chains and dollar funding | Export demand may coexist with expensive imported energy
 Brazil and other importers | FX pass-through and local rates | Dollar and energy effects depend on hedges, domestic taxes and monetary policy
 ```
