@@ -45,11 +45,11 @@
     },
     "factual_methodology": {
       "result": "failed",
-      "summary": "The Swiss medical-evacuation patient's occupation is not specified by the cited WHO source, while the text calls both evacuated patients health workers. The statement that the third Committee meeting did not issue a new pandemic-emergency classification is stronger than the source record; the WHO notice reports the PHEIC reaffirmation but does not report a new pandemic-emergency determination."
+      "summary": "The Swiss evacuation is mislocated: the infected woman and her husband were evacuated from Nigeria to Switzerland, not from the DRC. The Swiss source does not identify the woman's occupation, whereas WHO explicitly identifies the UK patient as a health and care worker. The statement that the third Committee meeting did not issue a new pandemic-emergency classification is not directly reported by the cited 20 November notice."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "The source set is primary and the 17 May/18 November distinction is now correctly attributed, but the occupation assigned to the Swiss patient is unsupported and the negative claim about the third meeting is not directly evidenced."
+      "summary": "The 17 May/18 November IHR distinction is now correctly attributed and directly sourced, but the Swiss evacuation's country of origin and the patient's occupation are misstated or unsupported. The negative claim about the third meeting is not source-bounded."
     },
     "research_depth": {
       "result": "passed",
@@ -110,7 +110,8 @@
     "Africa CDC's 11% case-identification-from-contact-lists measure and WHO's 81% daily contact-follow-up measure use different denominators and observation periods.",
     "Security incidents and casualties remain attributed to WHO and partner statements; no independent incident-level verification is claimed.",
     "The regional map uses country-status cards rather than geographic coordinates and preserves the different observation dates.",
-    "The Swiss medical-evacuation patient's occupation is not specified in the cited WHO notice."
+    "The Swiss medical-evacuation patient's occupation is not specified in the cited WHO notice.",
+    "The 26 October Swiss evacuation involved an infected woman and her husband, a close contact, arriving from Nigeria; the Swiss source does not identify the patient's occupation."
   ],
   "issues": [
     {
@@ -124,8 +125,8 @@
         "en.md:51 and en.md:53",
         "pt-BR.md:51 and pt-BR.md:53"
       ],
-      "evidence": "The 20 November WHO Disease Outbreak News identifies the 26 October Switzerland evacuation as a case treated in Geneva and discharged on 11 November, without identifying the patient's occupation. The same notice explicitly identifies the person discharged in the United Kingdom on 18 November as a medically evacuated health and care worker. The staged sentence classifies both evacuated patients as health workers, which is unsupported for the Swiss case. In addition, the sentence that the third Committee meeting 'did not issue a new pandemic-emergency classification' makes a negative claim not stated in the 20 November notice. The direct 17 May WHO statement supports the original Director-General determination; the 20 November notice records the subsequent PHEIC reaffirmation, not a new pandemic-emergency ruling. Sources: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630 and https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern.",
-      "required_correction": "Separate the Switzerland case from the UK health-and-care worker: do not assign an occupation to the Swiss patient unless a primary source does so. Replace the negative statement about what the third Committee meeting did not issue with source-bounded wording, e.g. 'The 20 November WHO notice records the Director-General's PHEIC reaffirmation and does not report a new pandemic-emergency determination.' Preserve the 17 May Director-General determination as the source of the PHEIC/pandemic-emergency distinction."
+      "evidence": "The 20 November WHO Disease Outbreak News identifies the 26 October Switzerland evacuation as a case treated in Geneva and discharged on 11 November, without identifying the patient's occupation; it separately identifies the person discharged in the United Kingdom on 18 November as a medically evacuated health and care worker from the DRC. The Swiss Federal Council's 26 October press release states that the infected woman and her husband, a close contact, arrived in Switzerland from Nigeria on a medical evacuation flight; it does not identify the woman's occupation. The staged sentence therefore misstates both the origin of the Swiss evacuation (Nigeria, not DRC) and the patient's occupation. In addition, the sentence that the third Committee meeting 'did not issue a new pandemic-emergency classification' makes a negative claim not stated in the 20 November notice. The direct 17 May WHO statement attributes the original PHEIC/pandemic-emergency distinction to the Director-General; the 20 November notice records the later PHEIC reaffirmation. Sources: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630 ; https://www.admin.ch/en/newnsb/hKpTLMT8HgXi ; https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern.",
+      "required_correction": "Separate the Swiss evacuation from the UK evacuation. State that the infected Swiss woman and her husband, a close contact, were medically evacuated from Nigeria to Switzerland on 26 October; do not describe her as a health worker unless a primary source establishes that occupation. State separately that the UK reported the recovery and discharge of a medically evacuated health and care worker from the DRC on 18 November. Add the Swiss Federal Council's 26 October release as a claim-specific source. Replace the negative statement about what the third Committee meeting did not issue with source-bounded wording: the 20 November WHO notice records the Director-General's PHEIC reaffirmation and does not report a new pandemic-emergency determination."
     },
     {
       "severity": "material",
@@ -147,5 +148,5 @@
     "max_new_rejections_per_id": 3,
     "source_sha_must_change_before_recheck": true
   },
-  "notes": "Second new rejection for MT-PH-2026-11-21-bundibugyo-response. Revision 3 corrected the 17 May Director-General attribution, added the direct WHO statement and a source-backed second provincial chart; the candidate now passes the strict depth check. It remains rejected for an unsupported occupation attribution, an unbounded negative claim about the third Committee meeting and reader-facing self-reference. Two of three new-rejection attempts have been used. No reports/**, public indexes, approved records or institutional content were changed."
+  "notes": "Second new rejection for MT-PH-2026-11-21-bundibugyo-response. Revision 3 corrected the 17 May Director-General attribution, added the direct WHO statement and a source-backed second provincial chart; the candidate now passes the strict depth check. It remains rejected for the Swiss evacuation's misattributed origin/unsupported occupation, an unbounded negative claim about the third Committee meeting and reader-facing self-reference. Two of three new-rejection attempts have been used. No reports/**, public indexes, approved records or institutional content were changed."
 }
