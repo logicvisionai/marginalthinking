@@ -1,0 +1,118 @@
+{
+  "schema_version": 2,
+  "id": "MT-PH-2026-11-21-bundibugyo-response",
+  "slug": "2026-11-21-bundibugyo-ebola-response",
+  "revision": 2,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-21T09:03:30.152Z",
+  "reviewed_commit": "52cb6d4b5d142524511cd4c4c72392541e413ca7",
+  "pending_blob_sha": "957bca474eea9b1c57399f5c9fb7410f7aa48ae9",
+  "source_blob_shas": {
+    "en": "91bcd27177f04206aa232a25b3c68fcf48d8e87d",
+    "pt-BR": "dc4646373f82ce88efbf6137afe90688ad02eea9"
+  },
+  "previous_rejections": [],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending v2 and both complete staged editions were read at the reviewed HEAD. The epidemiological, humanitarian and preparedness sources are accessible."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending schema_version 2, canonical ID/slug, controlled taxonomy values and pandemic-social-economic-preparedness registry mapping are valid."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 05:00 BRT cutoff is explicit. WHO, Africa CDC, ECDC and partner figures are presented with their source dates and distinct data cutoffs."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "The pandemic-emergency classification is attributed to the WHO committee's current formal record, although the cited WHO page attributes that classification to the Director-General's original 17 May determination. The 18 November decision documented in the 20 November Disease Outbreak News reaffirms PHEIC status but does not make a new pandemic-emergency determination."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "The source set supports the underlying 17 May PHEIC/pandemic-emergency distinction, but the prose misattributes the decision to the committee's formal record and does not date it to the original Director-General determination."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Both editions exceed 3,100 substantive words, contain eleven analytical H2 sections, distinguish evidence from inference and include falsifiable scenarios."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Each staged edition contains one explicit chart fence. scripts/validate-editorial-depth.mjs requires at least two chart fences for non-weekly research; its current strict run fails this candidate in both locales for the visual evidence budget."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "The chart count and the IHR attribution issue are mirrored in EN and PT-BR; the core epidemiological figures and visual series are equivalent."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report distinguishes base, improvement and deterioration paths and identifies operational indicators that would weaken its thesis."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "The append-only reconciliation run 2026-11-21-publication-set-reconciliation names MT-PH-2026-11-21-bundibugyo-response and records decisions for all seven active reconciliation-required assets."
+    },
+    "editorial_depth_script": {
+      "result": "failed",
+      "summary": "The strict workflow on the reviewed HEAD explicitly reports 'research visual evidence budget missing' for both staged locales of this candidate. The script requires at least two explicit chart fences for non-weekly research."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "validate-pipeline.mjs passed on the reviewed HEAD: 205 public bundles, 22 unpublished pending, zero approved unpublished and six legacy pending already public."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "The candidate fails the effective visual-depth validator in both languages and contains a material attribution/date ambiguity in the IHR pandemic-emergency classification."
+    }
+  },
+  "confidence": "medium",
+  "limitations": [
+    "WHO cumulative counts are as of 17 November; the 20 November publication date is not a synchronized epidemiological snapshot.",
+    "Africa CDC's 11% case-identification-from-contact-lists measure and WHO's 81% daily contact-follow-up measure use different denominators and periods.",
+    "Security incidents and casualties are attributed to WHO and partner statements and are not independently verified in this review.",
+    "The regional map uses country-status cards rather than geographic coordinates and explicitly preserves the different observation dates.",
+    "The repository-wide editorial-depth workflow also fails on six pre-existing staged documents; this candidate is independently listed as one of the failures."
+  ],
+  "issues": [
+    {
+      "severity": "material",
+      "code": "EDITORIAL_DEPTH_VISUAL_CHART_FLOOR_NOT_MET",
+      "paths": [
+        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/en.md",
+        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md",
+        "scripts/validate-editorial-depth.mjs"
+      ],
+      "locations": [
+        "en.md: chart evidence block",
+        "pt-BR.md: chart evidence block",
+        "scripts/validate-editorial-depth.mjs: minCharts = isWeekly ? 3 : 2; visualCounts.chart"
+      ],
+      "evidence": "The current staged EN and PT-BR editions each contain one explicit ```chart fence, one ```flow fence, one ```map fence and multiple Markdown evidence-table rows. The validator's effective non-weekly floor is two explicit chart fences. On the reviewed HEAD, the strict Editorial drafts and freshness workflow reports 'MT-PH-2026-11-21-bundibugyo-response staged en: research visual evidence budget missing' and the same failure for pt-BR. Word count, source-URL count, distinct-host count, analytical headings, flow, map and table-row checks do not produce candidate-specific failures; the unmet visual condition is the second chart. The producer's declared visual_evidence.total_visuals of five does not override the executable gate.",
+      "required_correction": "Add a second substantive, source-backed quantitative chart to both language editions, using an actual cited series such as WHO's 21-day new confirmed cases by province or the provincial daily contact-follow-up percentages. Preserve observation dates, units, source attribution and identical numeric series across EN/PT-BR. Do not create a decorative chart or fabricate observations. Re-run scripts/validate-editorial-depth.mjs and confirm this candidate no longer appears in the failures."
+    },
+    {
+      "severity": "material",
+      "code": "IHR_PANDEMIC_EMERGENCY_DECISION_MISATTRIBUTED",
+      "paths": [
+        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/en.md",
+        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:38 and en.md:125",
+        "pt-BR.md:38 and pt-BR.md:125",
+        "References [1] and [9] in both editions"
+      ],
+      "evidence": "The text says that 'the WHO committee's formal record' states the event did not meet IHR criteria for a pandemic emergency. The cited WHO IHR Emergency Committee page attributes that classification to the Director-General's determination of 17 May 2026; it states that the event was a PHEIC but did not meet the pandemic-emergency criteria. The 20 November WHO Disease Outbreak News says the Director-General, on 18 November and following the third committee meeting on 17 November, maintained the PHEIC status; it does not report a new pandemic-emergency determination by that third meeting. The current prose therefore blurs the original 17 May determination with the 18 November reaffirmation and misattributes the decision to the committee's formal record. Sources: https://www.who.int/groups/ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-drc-and-uganda and https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+      "required_correction": "Date and attribute the pandemic-emergency classification explicitly to the WHO Director-General's 17 May 2026 determination. State separately that the 18 November 2026 decision, following the 17 November third IHR Emergency Committee meeting, reaffirmed the PHEIC. Do not imply that the third meeting issued a new pandemic-emergency determination. Use the direct 17 May WHO statement as a claim-specific reference and retain the 20 November Disease Outbreak News for the PHEIC reaffirmation."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true
+  },
+  "notes": "First new rejection for MT-PH-2026-11-21-bundibugyo-response. The epidemiological and humanitarian claims were checked against primary institutional sources; rejection is limited to the executable visual-depth gate and the misattributed IHR classification. Retrabalho routed to producer task 1/5 through the canonical rejected sidecar. No approval or publication authorization."
+}

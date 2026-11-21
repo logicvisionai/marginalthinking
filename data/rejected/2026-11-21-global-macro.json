@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-21",
+  "slug": "2026-11-21-global-macro",
+  "revision": 2,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-21T09:03:30.152Z",
+  "reviewed_commit": "52cb6d4b5d142524511cd4c4c72392541e413ca7",
+  "pending_blob_sha": "54d84af4e20f16e0fdf7c6b83f46c250f17160fe",
+  "source_blob_shas": {
+    "en": "1cd042c99cd3d65aa0fa8433f1e113a70337e5b3",
+    "pt-BR": "8acd2de267eee536525179f4faa401b455138e91"
+  },
+  "previous_rejections": [],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending v2 and both complete staged editions were read at the reviewed HEAD. The cited market and institutional sources are accessible; no content corruption or SHA mismatch was found."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending schema_version 2, canonical ID/slug, taxonomy values, daily-global-macro registry mapping and required reconciliation reference are valid."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 05:00 BRT information cutoff is explicit. The 20 November market close and the cited 20 November institutional releases precede the cutoff."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "The 165,000 October payroll increase is accurate in the BLS national Employment Situation release dated 6 November 2026. The separate 20 November state release supports the 4.1% unemployment rate and state-level changes."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "The 165,000 national payroll claim is cited only to [7][8]. Reference [8] is the BLS State Employment and Unemployment release, which does not report the national October payroll change. The correct national BLS release is absent from both bibliographies."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Both editions exceed the 1,700 substantive-word daily threshold, have ten analytical H2 sections, conditional interpretation and explicit limitations."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions contain two quantitative charts, three evidence tables, one causal flow and one regional map. The two chart series are numerically identical across EN/PT-BR."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "The unsupported payroll citation is repeated consistently in both languages; no numerical or analytical divergence was found."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report separates observations from inference and includes conditional scenarios and indicators that would weaken its interpretation."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The cross-asset transmission and funding-channel focus is distinct from the three preceding daily editions."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "The append-only reconciliation run 2026-11-21-publication-set-reconciliation names MT-GM-2026-11-21 and records decisions for all seven active reconciliation-required assets."
+    },
+    "editorial_depth_script": {
+      "result": "passed",
+      "summary": "The strict depth workflow did not list this candidate among its per-item failures. The workflow failed on other historical items and the separate Bundibugyo draft."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "GitHub Actions on the reviewed HEAD reports validate-pipeline.mjs OK: 205 public bundles, 22 unpublished pending, zero approved unpublished and six legacy pending already public."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "A material numerical employment claim is correct but not traceable to the source cited in either edition. Publication is withheld until the exact national BLS release is added and cited."
+    }
+  },
+  "confidence": "high",
+  "limitations": [
+    "The 165,000 payroll value is independently confirmed by the BLS national Employment Situation release; the defect is the missing claim-specific reference, not the number itself.",
+    "Reference [8] remains suitable for the 4.1% national unemployment rate and the state-level monthly movements.",
+    "The repository-wide editorial-depth workflow has failures on other staged items; this candidate was not among the per-item failures."
+  ],
+  "issues": [
+    {
+      "severity": "material",
+      "code": "NATIONAL_PAYROLL_CLAIM_MISSING_PRIMARY_SOURCE",
+      "paths": [
+        "staging/research/2026/11/2026-11-21-global-macro/en.md",
+        "staging/research/2026/11/2026-11-21-global-macro/pt-BR.md",
+        "data/pending/2026-11-21-global-macro.json"
+      ],
+      "locations": [
+        "en.md:85, sentence beginning 'The October national employment report showed payroll gains of 165,000.'",
+        "pt-BR.md:85, sentence beginning 'O relatório nacional de emprego de outubro apontou criação de 165 mil vagas.'",
+        "References [7] and [8] in both editions; pending producer_checks.source_audit"
+      ],
+      "evidence": "The claim is correct: the US Bureau of Labor Statistics' Employment Situation — October 2026 release, published 6 November 2026, states that total nonfarm payroll employment rose by 165,000. However, the current paragraph cites only [7] BEA and [8] BLS State Employment and Unemployment (20 November). The latter supports the 4.1% national unemployment rate and state-level changes, but it does not report the national payroll increase. The national Employment Situation release is not in either reference list. Primary source: https://www.bls.gov/news.release/empsit.htm",
+      "required_correction": "Add the BLS Employment Situation — October 2026 release (6 November 2026) as a distinct numbered reference in both editions and cite it directly after the 165,000 payroll sentence. Keep [8] attached to the unemployment-rate and state-level claims only. Update the pending source_audit reference count and source inventory, then write the pending sidecar last and resubmit the exact new pending and EN/PT-BR blob SHAs."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true
+  },
+  "notes": "First new rejection for MT-GM-2026-11-21. The numerical payroll claim is verified, but the source cited in both editions does not support it. Retrabalho routed to producer task 1/5 through the canonical rejected sidecar. No approval or publication authorization."
+}
