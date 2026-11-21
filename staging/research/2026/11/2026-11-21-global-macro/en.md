@@ -102,7 +102,11 @@ Brazil's central bank held the Selic target at 13.75% on 4 November. The Copom c
 
 The latest US Energy Information Administration report, released on 18 November for the week ended 13 November, showed commercial crude stocks rising by 3.4 million barrels to 417.8 million, about 3% below the five-year average. Distillate stocks rose by 1.6 million barrels to 104.9 million but remained 5.6% below their level a year earlier. Gasoline stocks increased by 5.2 million barrels. These are US inventory data, not a global supply balance. They show a short-run cushion in crude and gasoline, while distillates remain tighter on a year-on-year comparison. [15]
 
-Friday's rise in Brent and WTI therefore cannot be read as proof of a physical supply interruption. Reuters attributed the move to concern about possible further attacks related to the Iran conflict and to positioning before the US holiday. The inventory build and the oil-price rise can coexist: one describes recent US stocks; the other includes a forward-looking geopolitical premium. Gold's decline alongside a Treasury rally is also an observation, not proof of forced liquidation or a permanent change in its hedge role.
+Friday's rise in Brent and WTI therefore cannot be read as proof of a physical supply interruption. Reuters attributed the move to concern about possible further attacks related to the Iran conflict and to positioning before the US holiday. The inventory build and the oil-price rise can coexist: one describes recent US stocks; the other includes a forward-looking geopolitical premium. Gold's decline alongside a Treasury rally is also an observation, not proof of forced liquidation or a permanent change in its hedge role. [15]
+
+At 07:57 UTC (04:57 Brasília time) on 21 November, Reuters reported that UK Maritime Trade Operations (UKMTO) had reported a tanker struck on its stern by an unidentified projectile about 11 nautical miles north of Khasab, Oman. No injuries were reported; the environmental impact was unknown. The report did not identify the vessel or the responsible actor, so it does not establish whether this was a separate incident from the tanker fire reported near Khasab on 20 November. This is an event-level maritime-security report, not proof of a sustained closure or a quantified interruption in oil flows. [17]
+
+Separately, Reuters reported a fire at the Hartha power station north of Basra, Iraq. Citing security officials and Iraq's state news agency, INA, it said the 800 MW installed plant had been operating at about 400 MW before the fire and that operations were halted. The cause and extent of the damage had not been established. The incident indicates a local operating interruption; it does not establish an attack, a regional grid failure or a measurable loss of electricity exports. [18]
 
 The US Treasury's September Treasury International Capital release, published on 18 November, reported a net foreign inflow of $261.0 billion. Private foreign inflows were $267.0 billion, while official institutions recorded net outflows of $6.0 billion. Foreign residents made net purchases of $186.7 billion in long-term US securities. These figures provide a baseline for foreign demand, but they refer to September, not 20 November. Treasury cautions that custodial data cannot attribute ownership precisely to individual countries. They should not be presented as evidence that investors were buying US assets during Friday's session. [14]
 
@@ -116,7 +120,8 @@ Europe | STOXX 600 fell 2.0%; ECB identified non-bank liquidity and sovereign-ma
 East Asia | Japan fell 5.06%; South Korea also lost more than 5%; Taiwan fell about 17% over the week | Semiconductor and export concentration magnifies the equity shock
 China | High-tech manufacturing grew 17.6%, while retail rose 0.4% and fixed investment fell 8.1% year to date | Production strength is not equivalent to domestic-demand strength
 Brazil | B3 was closed on 20 November; Selic remained 13.75% | Monday's session is the first local equity test
-Middle East | Brent and WTI rose on concern about possible further attacks linked to the Iran conflict | A market risk premium is not proof of a new disruption
+Middle East | Brent and WTI rose; UKMTO reported a tanker struck near Khasab, with no injuries and environmental impact unknown | Vessel identity and actor attribution remain unknown; no sustained closure established
+Iraq | Hartha power station halted operations after a fire; it had been operating at about 400 MW of 800 MW installed | Cause and damage extent were not established; no inference of attack or regional grid failure
 ```
 
 ## 7. Scenarios and falsifiers
@@ -164,3 +169,6 @@ The most defensible conclusion is higher market risk premia with an unproven tra
 14. US Department of the Treasury, Treasury International Capital Data for September, 18 November 2026: https://home.treasury.gov/news/press-releases/sb0693
 15. US Energy Information Administration, Weekly Petroleum Status Report, 18 November 2026: https://www.eia.gov/petroleum/supply/weekly/
 16. B3, Trading arrangements for the National Day of Zumbi and Black Consciousness, 17 November 2026: https://www.b3.com.br/pt_br/noticias/confira-o-funcionamento-da-b3-no-feriado-do-dia-nacional-de-zumbi-e-da-consciencia-negra.htm
+
+17. Reuters, “Tanker hit by unknown projectile near Oman's Khasab, UKMTO says,” 21 November 2026, reporting UKMTO's notice: https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/
+18. Reuters, “Iraq fire at Basra power station kills at least four, injures 30,” 21 November 2026, citing Iraqi state news agency INA and security officials: https://www.reuters.com/business/energy/iraq-fire-at-basra-power-station-kills-least-four-injures-30-2026-11-21/
