@@ -166,10 +166,17 @@
       "source_data_reused": true
     },
     "source_audit": {
-      "references": 12,
-      "primary_institutional_sources": 12,
-      "distinct_domains": 6,
+      "references": 13,
+      "primary_institutional_sources": 13,
+      "distinct_domains": 7,
       "added_reference": {
+        "number": 13,
+        "institution": "Swiss Federal Council",
+        "document": "Ebola case and close contact being treated in Switzerland",
+        "release_date": "2026-10-26",
+        "supports": "The infected woman and her husband, a close contact, arrived in Switzerland from Nigeria on a medical evacuation flight; the release does not identify the woman's occupation."
+      },
+      "previously_added_reference": {
         "number": 12,
         "institution": "World Health Organization",
         "document": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
@@ -186,9 +193,9 @@
       "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot."
     ],
     "reconciliation_run_id": "2026-11-21-publication-set-reconciliation",
-    "qa_rework": "Revision 3 corrects attribution of the IHR pandemic-emergency determination to the WHO Director-General's 17 May decision, adds the direct WHO statement, and adds a second source-backed 21-day provincial case chart; EN/PT-BR series are identical. The existing table, flow and regional map remain unchanged."
+    "qa_rework": "Revision 4 corrects the Swiss evacuation's origin and unsupported occupation, distinguishes it from the UK health-worker evacuation, bounds the IHR statement to what the 20 November WHO notice reports, removes reader-facing self-reference in EN/PT-BR and adds the Swiss Federal Council release as reference 13."
   },
   "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
-  "revision": 3,
-  "revision_reason": "Revision 3 corrects the attribution of the IHR pandemic-emergency determination to the WHO Director-General's 17 May 2026 decision, adds the direct WHO statement, and adds a second quantitative chart from the WHO 20 November update showing 21-day provincial case counts with identical EN/PT-BR values."
+  "revision": 4,
+  "revision_reason": "Revision 4 separates the Swiss and UK medical evacuations, identifies Nigeria as the origin of the Swiss flight without inferring the patient's occupation, replaces the unbounded negative claim about the third IHR Committee meeting with source-bounded wording, removes reader-facing self-reference in both locales and adds the Swiss Federal Council's primary release."
 }
