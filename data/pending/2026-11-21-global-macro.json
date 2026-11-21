@@ -160,10 +160,17 @@
       "regional_maps": 1
     },
     "source_audit": {
-      "references": 18,
-      "primary_institutional_sources": 14,
+      "references": 19,
+      "primary_institutional_sources": 15,
       "market_reporting_sources": 4,
-      "distinct_domains": 12
+      "distinct_domains": 12,
+      "added_reference": {
+        "number": 19,
+        "institution": "U.S. Bureau of Labor Statistics",
+        "document": "The Employment Situation — October 2026",
+        "release_date": "2026-11-06",
+        "supports": "October national nonfarm payroll employment increase of 165,000"
+      }
     },
     "limitations": [
       "No same-day 20 November high-yield spread was available at cutoff.",
@@ -176,6 +183,6 @@
     "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
   },
   "url": "/reports/2026/11/2026-11-21-global-macro.html",
-  "revision": 2,
-  "revision_reason": "Revision 2 adds two event-level energy observations available before the 05:00 BRT cutoff: the 07:57 UTC UKMTO-reported tanker incident near Khasab and the Hartha power-station fire in Iraq. Both are attributed, their unknown causes/actors are preserved, and neither is treated as proof of a sustained Hormuz closure or regional grid failure. EN/PT-BR prose, regional map and references were updated together."
+  "revision": 3,
+  "revision_reason": "Revision 3 adds the claim-specific BLS national Employment Situation release for the October payroll increase, separates its citation from the state unemployment release, and preserves the existing market observations, visual series and bilingual conclusions."
 }
