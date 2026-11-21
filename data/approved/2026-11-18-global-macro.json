@@ -1,0 +1,247 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-18",
+  "slug": "2026-11-18-global-macro",
+  "revision": 5,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-21T09:32:47Z",
+  "reviewed_commit": "045ee66301899af9a557d8bb3ab5598b339a0a94",
+  "pending_blob_sha": "339709d148468e533dc649f30612a1c5cc986b6c",
+  "source_blob_shas": {
+    "en": "beec9ae8ed5be5008b5cfd5a6b1399146319ef86",
+    "pt-BR": "a7685e04ebd2575127d8e4e1e8b34642171f34a4"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending v2 and both staged Markdown files were reread from main at the reviewed HEAD. Exact blob SHAs: pending 339709d148468e533dc649f30612a1c5cc986b6c; EN beec9ae8ed5be5008b5cfd5a6b1399146319ef86; PT-BR a7685e04ebd2575127d8e4e1e8b34642171f34a4. No approval sidecar or public metadata existed for revision 5 before this decision."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "All required research-pending-v2 fields are present. ID, canonical slug, daily-global-macro kind, political-economy-markets program, related program, dimensions, global geography, topics, phenomena, brief format and daily cadence conform to schema v2 and taxonomy 1.0."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 18 November 2026 cutoff is 16:20 BRT. The 17 November market close, October Eurostat/ONS releases, Nvidia results, RBA minutes and US retail/import-price/industrial-production releases predate it. The FOMC minutes were released at 14:00 EST (16:00 BRT) and are incorporated. The PLP 299/2026 vote was still pending at the cutoff; the Senate completed the vote later that evening, outside the report's information window. No post-cutoff outcome is presented as contemporaneous evidence."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary-source checks confirm the Commission's 2026–28 forecasts; Eurostat October euro-area HICP at 4.0% and energy at 21.0% versus the 20.8% flash estimate; ONS October CPI/CPIH, motor-fuel and diesel prices, unemployment and provisional payroll changes; RBA's 4.85% decision with a 6–3 vote; Nvidia Q3 FY2027 revenue, Data Center revenue, GAAP gross margin and Q4 guidance; Anthropic's SEC-filed revenue, compute expenses and contractual commitments; the FOMC's AI-financing risk assessment; the Senate's conditional R$56bn estimate; and US retail, import-price and industrial-production releases. The report distinguishes observed results, forecasts, contractual obligations, attributed claims and analytical inference."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Both editions contain 21 numbered references at the end, with inline numeric markers. Primary statistical, regulatory, central-bank, issuer and legislative sources support the relevant claims; AP/Reuters reporting is used for market and conflict observations. The corrected Senate notice is claim-specific. The Anthropic figures are traceable to the 17 November S-1/A, and the FOMC release notice and minutes are separately referenced."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "The editions contain approximately 4,192 EN and 4,591 PT-BR words, 11 analytical sections, comparative forecast analysis, market and credit transmission mechanisms, an explicit contractual-obligation breakdown, contrary evidence, conditional scenarios and observable falsifiers. Both exceed the daily substantive-depth floor."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions contain two quantitative charts, three evidence tables, one causal flow, one regional map and a scenario matrix. The charts use cited forecast and market data; the tables preserve units and periods; the flow and map encode mechanisms and attributed regional events. Numeric series and structural labels are equivalent across EN/PT-BR. GitHub Actions visual-semantics validation passed."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same 21 references, 11 analytical sections, dates, quantitative series, cutoff, causal tests, uncertainty and qualifications. The ONS unemployment comparison, Anthropic obligation categories, Bahrain targeting/interception accounts, FOMC release timing and Brazilian fiscal vote status are semantically aligned."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "The prior rejection's material issues are resolved: the FOMC minutes released before cutoff are incorporated; the ONS unemployment comparison uses the reported 0.3 percentage-point quarterly decline; Anthropic's fixed, conditional/terminable and non-fixed-dollar commitments are separated; the Bahrain targeting claim is distinguished from the interception/no-damage account; the Houthi pipeline statement remains attributed; and the claim-specific Senate notice replaces the generic session URL. Both editions place full references at the end and distinguish observed facts, forecasts, claims and inference."
+    },
+    "contrary_evidence": {
+      "result": "passed",
+      "summary": "The analysis retains countervailing evidence: manufacturing output rose while aggregate industrial production fell; the RBA decision was divided; UK unemployment declined while provisional payroll employment weakened; US sovereign yields eased while equities fell; and the FOMC identified strong bank and household balance sheets as buffers while flagging AI-financing vulnerabilities."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The scenario section identifies observable conditions that would weaken or strengthen the interpretation, including sustained normalization of delivered energy costs, stable credit spreads, resilient issuance, actual AI-capacity utilization and cash generation, and changes in route availability and financing conditions."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Compared with the public 16 and 17 November editions, this revision shifts the unit of analysis to the European energy-inflation revision, the FOMC's newly released AI-financing assessment, the Anthropic S-1/A commitment structure, and the interaction between observed prices and forward liabilities. It does not repeat the prior edition's China/Japan activity focus or the semiconductor/Brazil activity focus."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "The pending references run 2026-11-21-publication-set-reconciliation. The append-only reconciliation ledger includes MT-GM-2026-11-18 and records the relevant asset decisions as deferred evidence gaps or not applicable; no unsupported canonical network, conflict, actor-control, resource-control, policy-case or technology-ledger mutation is required."
+    },
+    "editorial_depth_script": {
+      "result": "passed",
+      "summary": "The strict editorial-drafts workflow did not list MT-GM-2026-11-18 revision 5 among failures. The repository-wide run failed on eight other staged IDs; those failures do not belong to this candidate. The candidate exceeds the word and analytical-section floors."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "GitHub Actions run 44889162357 completed validate-pipeline, build, visual semantics, generated-site verification, Worker bundle validation and production-artifact upload successfully. The separate deploy job failed only at the Cloudflare credential check because CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID are absent; this does not invalidate the research approval and no live deployment is claimed."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "The complete schema-v2 pending object is embedded as the immutable publication snapshot. Its ID, slug and revision match this approval, and all three source blob SHAs were verified against main immediately before writing."
+    }
+  },
+  "contrary_evidence": [
+    "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",
+    "US manufacturing output rose 0.3% despite a 0.4% fall in aggregate industrial production.",
+    "The RBA recorded a divided six-to-three decision, evidencing uncertainty about optimal restrictive policy.",
+    "UK unemployment declined in a rolling-quarter survey while provisional payroll employment weakened.",
+    "US sovereign yields eased while multiple equity indexes fell.",
+    "The FOMC staff judged the banking system well capitalized and household balance sheets a buffer against financial shocks, even while flagging AI-related debt, opaque financing structures, elevated asset valuations and hedge-fund leverage."
+  ],
+  "limitations": [
+    "The information cutoff is 18 Nov 2026 16:20 BRT; US and Brazilian equity closes refer to 17 Nov.",
+    "The European Commission 2026–2028 forecasts and Nvidia's next-quarter guidance are projections, while October Eurostat/ONS figures are observed outcomes.",
+    "Anthropic's $900.9 billion aggregate includes obligations and commitments with different legal forms; $186.2 billion is subject to termination rights or contingent conditions, $150–175 billion of additional non-fixed-dollar arrangements is excluded, and $4.2 billion of the $70.7 billion due within 12 months is conditional or terminable.",
+    "Market index moves do not identify capital flows or private spreads without dedicated issuance and lending data.",
+    "The FOMC minutes were public at 16:00 BRT and are incorporated as a staff and participant risk assessment, not evidence of realized AI-related losses. The Brazilian PLP 299/2026 vote remained prospective at the 16:20 cutoff."
+  ],
+  "notes": "Independent QA approval for MT-GM-2026-11-18 revision 5 only. The prior three rejection records and the blocked review of revision 4 remain immutable; this approval does not alter or erase them. Revision 5 resolves the previously recorded material defects in both languages and the regional map. Approval applies exclusively to this exact publication snapshot and the three verified Git blob SHAs. No production deployment is asserted.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-18",
+    "slug": "2026-11-18-global-macro",
+    "date": "2026-11-18",
+    "published_at": "2026-11-18T16:20:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "energy",
+      "banking-credit",
+      "trade-investment"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "revision": 5,
+    "assessment_confidence": "medium",
+    "producer_checks": {
+      "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian equity closes refer to 17 Nov. Eurostat and ONS October inflation releases were observed. The FOMC minutes were released at 16:00 BRT and are incorporated; the PLP 299/2026 Senate vote remained pending at the cutoff.",
+      "novelty": "Adds Eurostat full October HICP with energy at 21.0% and component contributions, UK October CPI/CPIH and corrected labour-market comparison, RBA November minutes, Nvidia's reported fiscal quarter, Anthropic's 17 Nov S-1/A with fixed, conditional and unpriced compute commitments, the FOMC's 18 Nov financial-stability assessment of AI-related debt, and US retail/import-price/industrial-production releases.",
+      "qa_rework": "Revision 5 addresses the operational block on revision 4: actor claims, official interception/no-damage statements and verified effects are separated in both languages and in the map. The ID has reached its three-rejection limit; this corrected revision is for independent review and must be blocked rather than rejected if a material defect remains.",
+      "evidence_vintage": "Commission forecasts are projections. Eurostat HICP and ONS CPI are observed October releases. Anthropic's S-1/A is an issuer filing with observed nine-month results and prospective contractual obligations, conditional arrangements and non-fixed-dollar estimates. RBA minutes describe the 3 November vote. FOMC minutes for 27–28 October were released at 16:00 BRT on 18 November and record staff and participant risk assessments, not realized losses. Market closes are dated 17 November. Brazilian fiscal results remain prospective.",
+      "bilingual_parity": "Same 21 source URLs, 11 analytical sections, quantitative series, dates, causal tests and qualifications in English and Brazilian Portuguese. The ONS comparison, Anthropic commitment categories, conflict attribution and FOMC timing/status are aligned.",
+      "visual_evidence": "Matching charts for forecast revisions and US equity returns, full inflation-contribution table, US economic releases table, causal flow, regional map and scenario matrix. Numeric series and structural labels remain semantically equivalent across EN/PT-BR.",
+      "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
+    },
+    "limitations": [
+      "The information cutoff is 18 Nov 2026 16:20 BRT; US and Brazilian equity closes refer to 17 Nov.",
+      "The European Commission 2026–2028 forecasts and Nvidia's next-quarter guidance are projections, while October Eurostat/ONS figures are observed outcomes.",
+      "Anthropic's $900.9 billion aggregate includes obligations and commitments with different legal forms; $186.2 billion is subject to termination rights or contingent conditions, $150–175 billion of additional non-fixed-dollar arrangements is excluded, and $4.2 billion of the $70.7 billion due within 12 months is conditional or terminable.",
+      "Market index moves do not identify capital flows or private spreads without dedicated issuance and lending data.",
+      "The FOMC minutes were public at 16:00 BRT and are incorporated as a staff and participant risk assessment, not evidence of realized AI-related losses. The Brazilian PLP 299/2026 vote remained prospective at the 16:20 cutoff."
+    ],
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-18-global-macro/en.md",
+        "title": "Global Macro — European energy inflation persists as AI capital commitments expand",
+        "deck": "Eurostat confirms 4.0% euro-area inflation in October. FOMC minutes flag AI-financing vulnerabilities, while Anthropic's filing details long-term compute commitments and their conditions.",
+        "tags": [
+          "Global Macro",
+          "Euro area",
+          "Energy inflation",
+          "AI infrastructure",
+          "Credit"
+        ],
+        "keywords": [
+          "18 November 2026",
+          "Eurostat October 2026 HICP",
+          "Anthropic IPO 2026",
+          "Nvidia third quarter fiscal 2027",
+          "US import prices",
+          "FOMC minutes November 2026",
+          "AI infrastructure financing risk"
+        ],
+        "regime": "Persistent European energy inflation and rising AI infrastructure commitments amid mixed US demand and financing signals.",
+        "key_risk": "Energy costs and multi-year investment liabilities may outlast the corresponding revenue and financing capacity.",
+        "watch": [
+          "AI-related debt and nonbank exposures",
+          "Brazil PLP 299/2026 vote",
+          "Euro-area sovereign and private spreads",
+          "Delivered energy costs",
+          "AI buyer cash generation"
+        ],
+        "search_text": "Global Macro 18 November 2026 Eurostat final October inflation UK CPI Anthropic SEC Nvidia European Commission energy AI finance FOMC minutes AI financing risk"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-18-global-macro/pt-BR.md",
+        "title": "Global Macro — Inflação energética persiste na Europa enquanto a IA amplia compromissos de capital",
+        "deck": "Eurostat confirma inflação de 4,0% na zona do euro em outubro. A ata do FOMC aponta vulnerabilidades no financiamento da IA, enquanto o prospecto da Anthropic detalha compromissos de computação e suas condições.",
+        "tags": [
+          "Global Macro",
+          "Zona do euro",
+          "Inflação energética",
+          "Infraestrutura de IA",
+          "Crédito"
+        ],
+        "keywords": [
+          "18 novembro 2026",
+          "Eurostat inflação outubro 2026",
+          "Anthropic IPO 2026",
+          "Nvidia terceiro trimestre fiscal 2027",
+          "preços de importação EUA",
+          "ata do FOMC novembro 2026",
+          "risco de financiamento da infraestrutura de IA"
+        ],
+        "regime": "Inflação energética europeia persistente e compromissos elevados em infraestrutura de IA, com sinais mistos de demanda e financiamento nos EUA.",
+        "key_risk": "Custos de energia e obrigações plurianuais de investimento podem avançar mais que a receita e a capacidade de financiamento.",
+        "watch": [
+          "Endividamento de IA e exposições fora do balanço",
+          "Votação do PLP 299/2026",
+          "Spreads soberanos e privados europeus",
+          "Custos de energia entregue",
+          "Geração de caixa dos compradores de IA"
+        ],
+        "search_text": "Global Macro 18 novembro 2026 Eurostat inflação definitiva outubro Reino Unido CPI Anthropic SEC Nvidia Comissão Europeia energia IA financiamento ata FOMC risco financiamento IA"
+      }
+    },
+    "revision_reason": "Revision 5 resolves the blocked independent QA review for revision 4. Both editions and the regional map now distinguish the IRGC's attributed statement that it targeted the Sheikh Isa radar from Bahrain and US Central Command's account that the drones were intercepted without damage or injuries. The separately reported ship incident remains distinct, and the Houthi pipeline claim remains attributed and unverified.",
+    "qa_fixes_applied": [
+      "Expanded both staged editions beyond the 1700 substantive-word minimum with source-supported original analysis.",
+      "Retained and checked bilingual parity of all chart numeric series and updated the analysis to the 18 November information cutoff.",
+      "Replaced outdated forward-looking Eurostat phrasing with final October HICP and revised energy component; kept FOMC minutes and Brazilian fiscal vote as pending at cutoff.",
+      "Added quantitative stock-versus-flow and multi-year contractual-commitment analysis for the AI infrastructure cycle.",
+      "Revision 3: replaced the stale English statement that final October HICP was still future with the observed final 21.0% energy rate versus the 20.8% flash rate; aligned the matching Portuguese paragraph.",
+      "Revision 4: corrected the FOMC release-time chronology; incorporated the 18 November minutes published at 16:00 BRT and distinguished risk assessment from realized loss.",
+      "Revision 4: corrected the ONS unemployment comparison to a 0.3 percentage-point quarterly decline and added the provisional October payroll changes.",
+      "Revision 4: separated Anthropic's $900.9 billion aggregate from $186.2 billion of conditional/terminable obligations and $150–175 billion of excluded non-fixed-dollar arrangements; qualified the $70.7 billion near-term amount.",
+      "Revision 4: attributed the reported Iranian, US and Houthi events separately and distinguished reported events from the Houthi claim.",
+      "Revision 4: replaced the generic Senate session URL with the claim-specific Agência Senado notice and corrected the English rendering of 'destaques'.",
+      "Revision 4: completed bibliographic references at the end of both editions, with institution, document, year/date and verifiable URL.",
+      "Revision 5: corrected the Bahrain radar account in EN/PT-BR and the regional map. The IRGC's stated targeting claim is attributed; Bahrain and US Central Command's interception/no-damage account is stated separately; no radar impact is presented as verified. The Hormuz ship report remains a separate event, and the Houthi pipeline statement remains an attributed claim."
+    ],
+    "contrary_evidence": [
+      "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",
+      "US manufacturing output rose 0.3% despite a 0.4% fall in aggregate industrial production.",
+      "The RBA recorded a divided six-to-three decision, evidencing uncertainty about optimal restrictive policy.",
+      "UK unemployment declined in a rolling-quarter survey while provisional payroll employment weakened.",
+      "US sovereign yields eased while multiple equity indexes fell.",
+      "The FOMC staff judged the banking system well capitalized and household balance sheets a buffer against financial shocks, even while flagging AI-related debt, opaque financing structures, elevated asset valuations and hedge-fund leverage."
+    ]
+  }
+}
