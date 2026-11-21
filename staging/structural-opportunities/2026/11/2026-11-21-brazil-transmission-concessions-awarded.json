@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "detected_at": "2026-11-21T05:30:02-03:00",
+  "candidate": {
+    "id": "2026-11-21-brazil-transmission-concessions-awarded",
+    "country": {
+      "code": "BRA",
+      "name": "Brazil"
+    },
+    "previous_state": "exploitable_inefficiency",
+    "proposed_state": "exploitable_inefficiency",
+    "perspective": "Transmission concession developers, grid-equipment suppliers and renewable generators seeking to expand reliable transfer capacity under Brazil's regulated concession model; this is an infrastructure evidence update, not a securities recommendation.",
+    "structural_condition": "Brazil's transmission system has a documented renewable-evacuation and flexibility gap. The 30 October 2026 ANEEL auction awarded all eight offered lots across seven states, adding a defined project pipeline, but the awards do not yet establish financial close, construction progress or commissioned capacity.",
+    "delta": "ANEEL's final release on 30 October reports eight awarded lots, R$8.8 billion in investment, 1,866 km of transmission lines, 12,694 MVA of transformation capacity and a 50.10% discount against the allowed annual revenue ceiling. The Ministry of Mines and Energy describes the same auction as R$8.9 billion, a rounding difference that should not be added. The auction result is an observed allocation/procurement outcome; the investment amount and future operating capacity remain prospective.",
+    "mechanism": "Awarded concessions can convert grid-planning needs into a multi-year construction and equipment pipeline. If concession contracts, project finance, licensing, procurement and commissioning proceed, new lines and substations can increase transfer capacity, reduce congestion and help connect renewable generation and industrial demand. The award alone does not prove disbursement, completed construction, improved reliability or reduced curtailment.",
+    "catalysts": [
+      "Signed concession contracts and disclosed project-level financing closes or disbursements.",
+      "Environmental licensing, procurement notices, named contractors and verified construction start dates for each lot.",
+      "Delivery and commissioning of the 1,866 km of lines and 12,694 MVA of transformation capacity, reported by project.",
+      "Measured changes in transfer limits, congestion, renewable curtailment and system reliability against a dated baseline.",
+      "Geographic mapping of the Bahia and Paraíba lots against the existing Northeast renewable-evacuation constraint represented by BRA-GRID-001."
+    ],
+    "invalidation": "Awards are cancelled or contracts fail to reach financial close; licensing or construction is materially delayed; the delivered projects do not address the relevant transfer constraints; or commissioned capacity produces no measurable improvement in congestion, reliability or renewable evacuation.",
+    "confidence": "medium",
+    "materiality": "high",
+    "related_atlas_ids": [
+      "BRA-GRID-001"
+    ],
+    "evidence": [
+      {
+        "name": "ANEEL, Leilão de Transmissão nº 4/2026: all eight lots awarded, final investment and capacity figures",
+        "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
+        "date": "2026-10-30"
+      },
+      {
+        "name": "Ministry of Mines and Energy, Leilão de Transmissão nº 04/2026 results (updated 3 November)",
+        "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/outubro-26/leilao-de-transmissao-no-04-2026",
+        "date": "2026-11-03"
+      }
+    ],
+    "status": "discovery_watch",
+    "horizon": "2026-2030, conditional on contract execution, financing, construction and commissioning",
+    "evidence_stage": "Official auction award and announced project scope; no verified project-level disbursement, construction completion, commissioning or measured reduction in grid constraints.",
+    "last_verified_at": "2026-11-21",
+    "disclosure_limitations": "ANEEL reports R$8.8 billion while MME reports R$8.9 billion for the same auction; treat this as an official rounding difference, not additive investment. The 50.10% discount is against the Receita Anual Permitida ceiling, not a capex discount. The reported R$20.7 billion consumer saving is projected over the concession period, not a realized cash saving. Not all lots are in the Northeast, so the full auction cannot be assigned to the BRA-GRID-001 regional constraint.",
+    "contrary_evidence": [
+      "The auction award does not establish that concession contracts have been signed, financing has closed or capital has been disbursed.",
+      "The 1,866 km and 12,694 MVA figures are planned project scope, not commissioned capacity.",
+      "The auction spans seven states; only part of the portfolio may directly address the Northeast renewable-evacuation gap.",
+      "The 50.10% discount is measured against the RAP ceiling and does not demonstrate lower construction costs or realized consumer savings."
+    ]
+  },
+  "research_note": "Evidence-update candidate for existing canonical entry BRA-GRID-001, not a new Atlas node. Task 2/5 should verify lot locations, contracts, financing, licensing and project milestones before any history event or canonical snapshot change. This task leaves data/structural-opportunities.json and data/structural-opportunity-history.json unchanged."
+}
