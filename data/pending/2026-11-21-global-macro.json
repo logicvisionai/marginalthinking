@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-21",
+  "slug": "2026-11-21-global-macro",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-21-global-macro/en.md",
+      "title": "Equities reprice sharply as Treasuries absorb the shock and credit risk begins to widen",
+      "deck": "The 20 November sell-off was not a uniform flight to cash: equities and precious metals fell, oil rose on geopolitical risk, the dollar barely moved and Treasury yields dropped. The next test is whether repricing reaches funding markets.",
+      "tags": [
+        "global macro",
+        "equities",
+        "Treasuries",
+        "credit",
+        "financial stability",
+        "energy",
+        "capital flows"
+      ],
+      "keywords": [
+        "global equities",
+        "Treasury yields",
+        "high-yield spreads",
+        "non-bank finance",
+        "private credit",
+        "foreign capital flows",
+        "oil risk premium"
+      ],
+      "regime": "Cross-asset risk repricing with restrictive monetary conditions",
+      "key_risk": "An equity valuation correction could migrate into non-bank liquidity, collateral and credit funding if spreads and redemption pressure continue to rise.",
+      "watch": [
+        "US high-yield OAS after 20 November",
+        "repo funding and market depth",
+        "private-credit redemption restrictions",
+        "Treasury long-end yields",
+        "Monday 23 November B3 session"
+      ],
+      "search_text": "Global Macro 21 November 2026; global equity sell-off; US Treasury yields; high-yield credit spreads; non-bank financial institutions; private credit; capital flows; oil and geopolitical risk."
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-21-global-macro/pt-BR.md",
+      "title": "Bolsas reprecificam o risco, Treasuries absorvem o choque e o crédito começa a abrir",
+      "deck": "A venda de 20 de novembro não foi uma fuga uniforme para o caixa: ações e metais preciosos recuaram, petróleo subiu com o risco geopolítico, o dólar quase não mudou e os rendimentos dos Treasuries caíram. O próximo teste é a transmissão para o financiamento.",
+      "tags": [
+        "macro global",
+        "bolsas",
+        "Treasuries",
+        "crédito",
+        "estabilidade financeira",
+        "energia",
+        "fluxos de capital"
+      ],
+      "keywords": [
+        "ações globais",
+        "rendimentos dos Treasuries",
+        "spreads de alto rendimento",
+        "finanças não bancárias",
+        "crédito privado",
+        "fluxos externos",
+        "prêmio de risco do petróleo"
+      ],
+      "regime": "Reprecificação transversal de risco sob condições monetárias restritivas",
+      "key_risk": "Uma correção das avaliações acionárias pode alcançar a liquidez de instituições não bancárias, as garantias e o financiamento de crédito se spreads e resgates continuarem aumentando.",
+      "watch": [
+        "spread americano de alto rendimento após 20 de novembro",
+        "financiamento por repo e profundidade de mercado",
+        "restrições de resgate em crédito privado",
+        "rendimentos longos dos Treasuries",
+        "sessão da B3 de 23 de novembro"
+      ],
+      "search_text": "Global Macro 21 de novembro de 2026; queda das bolsas globais; rendimentos dos Treasuries; spreads de crédito de alto rendimento; instituições financeiras não bancárias; crédito privado; fluxos de capital; petróleo e risco geopolítico."
+    }
+  },
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "sovereign-debt",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "technology-innovation",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "strategic-competition",
+    "war-armed-conflict",
+    "institutional-change"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "signal_rationale": {
+    "delta": "The 20 November cross-asset pattern shows a broad equity decline alongside a Treasury rally, a flat dollar, falling gold and copper, and rising oil; the next analytical question is whether the repricing migrates into credit funding.",
+    "evidence": "Reuters market close data; US Treasury par curve; FRED high-yield spread through 19 November; ECB Financial Stability Review of November 2026; September Treasury TIC flows.",
+    "scale_path": "Equity valuation losses can affect non-bank fund liquidity, repo collateral, redemptions and bank/non-bank funding links if volatility persists.",
+    "transmission": "The immediate price shock is concentrated in equities, while sovereign duration remains a hedge; credit spreads, repo terms and redemption restrictions are the observable next channels.",
+    "falsifier": "Rapid equity recovery, volatility normalization and stable or narrowing credit spreads without new redemption restrictions would weaken the interpretation of a broader repricing cycle."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "The 20 November market close is the latest full global session; 21 November is a Saturday.",
+    "The US high-yield spread is available through 19 November only at the information cutoff.",
+    "Treasury TIC flows are for September and cannot establish November portfolio flows.",
+    "The B3 was closed on 20 November; no Brazilian equity close is reported for that date.",
+    "The oil-price move reflects a reported geopolitical risk premium; no new attack is inferred from prices."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-21T05:00:00-03:00",
+    "comparative_editions": [
+      "MT-GM-2026-11-17",
+      "MT-GM-2026-11-18",
+      "MT-GM-2026-11-19"
+    ],
+    "novelty_decision": "Distinct from the three latest editions: focuses on cross-asset transmission and funding channels after the 20 November equity sell-off, rather than another semiconductor valuation, European inflation or energy-supply report.",
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "titles": true,
+      "core_thesis": true,
+      "market_data": true,
+      "visual_data": true,
+      "references": true
+    },
+    "visual_evidence": {
+      "charts": 2,
+      "tables": 3,
+      "flow_diagrams": 1,
+      "regional_maps": 1
+    },
+    "source_audit": {
+      "references": 16,
+      "primary_institutional_sources": 14,
+      "market_reporting_sources": 2,
+      "distinct_domains": 12
+    },
+    "limitations": [
+      "No same-day 20 November high-yield spread was available at cutoff.",
+      "No reliable same-day global fund-flow series was available.",
+      "TIC data are one month lagged and custody-based.",
+      "The market attribution for oil reflects Reuters reporting and is not evidence of a new attack."
+    ],
+    "reconciliation_run_id": "2026-11-21-publication-set-reconciliation"
+  },
+  "url": "/reports/2026/11/2026-11-21-global-macro.html"
+}
