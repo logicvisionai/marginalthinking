@@ -6,7 +6,7 @@ The new information is not simply that oil supply remains exposed to war. The IE
 
 ## 1. Markets price a softer crude balance and tighter money at the same time
 
-On 18 November, Brent settled 1.3% lower at **US$91.95 per barrel** and WTI fell 3.2% to **US$83.26**. At 04:55 GMT on 19 November, Brent was near **US$92** and WTI near **US$83**. The US Energy Information Administration reported commercial crude stocks up **3.4 million barrels**, to **417.8 million**, in the week ended 13 November. The increase was far above the 58,000-barrel rise expected in a Reuters poll. [2][3]
+On 18 November, Brent settled 1.28% lower at **US$91.95 per barrel** and WTI fell 3.2% to **US$83.26**. Reuters [14] reports those exact settlement prices; the EIA [3] supports the inventory data, not the settlements. At 09:53 GMT on 19 November, Reuters [2] quoted Brent at **US$92.19**, December WTI at **US$83.31** and January WTI at **US$82.43**. These are intraday observations, not closing prices. The EIA reported commercial crude stocks up **3.4 million barrels**, to **417.8 million**, in the week ended 13 November. The increase was far above the 58,000-barrel rise expected in a Reuters poll. [2][3][14]
 
 According to Reuters's preliminary closing data, the S&P 500 lost **0.24%** to 7,322.53, the Dow fell **1.12%** to 50,193.03, and the Nasdaq gained **0.39%** to 24,429.89. The S&P's fifth consecutive decline showed how valuation and discount-rate concerns could coexist with a softer crude balance. Nvidia's quarterly results beat analyst expectations and the company forecast revenue above estimates; its shares nevertheless fell amid uncertainty after co-founder Jensen Huang's sudden departure. The Philadelphia SE Semiconductor Index also closed slightly lower, underscoring high expectations for AI infrastructure spending. [4]
 
@@ -170,3 +170,4 @@ The strongest test over the coming weeks is not whether one commodity quote rise
 [12] Reuters (2026), *Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric*, 18 November 2026. https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/
 
 [13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Early Session, Taiex Drops 3.73% as Most Indices Fall*, 19 November 2026, intraday snapshot at 03:51 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
+[14] Reuters (2026), *Oil prices settle lower as traders weigh surplus supply outlook*, 18 November 2026. https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/
