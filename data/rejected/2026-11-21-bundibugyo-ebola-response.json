@@ -2,111 +2,142 @@
   "schema_version": 2,
   "id": "MT-PH-2026-11-21-bundibugyo-response",
   "slug": "2026-11-21-bundibugyo-ebola-response",
-  "revision": 2,
-  "rejection_count_for_id": 1,
+  "revision": 3,
+  "rejection_count_for_id": 2,
   "rejection_loop_limit_reached": false,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-21T09:03:30.152Z",
-  "reviewed_commit": "52cb6d4b5d142524511cd4c4c72392541e413ca7",
-  "pending_blob_sha": "957bca474eea9b1c57399f5c9fb7410f7aa48ae9",
+  "reviewed_at": "2026-11-21T20:50:01.428Z",
+  "reviewed_commit": "70d8c16ece30d9e1a1e276835db6f38859a5b5e5",
+  "pending_blob_sha": "b4a4e2d1cf916671c4fe1bec01f914f160422a3f",
   "source_blob_shas": {
-    "en": "91bcd27177f04206aa232a25b3c68fcf48d8e87d",
-    "pt-BR": "dc4646373f82ce88efbf6137afe90688ad02eea9"
+    "en": "b0e4834b06a849be32b846d2a386682bd934cde2",
+    "pt-BR": "d9d8688a88a3fc649c79f75400cc33ea9816a821"
   },
-  "previous_rejections": [],
+  "previous_rejections": [
+    {
+      "revision": 2,
+      "pending_blob_sha": "957bca474eea9b1c57399f5c9fb7410f7aa48ae9",
+      "source_blob_shas": {
+        "en": "91bcd27177f04206aa232a25b3c68fcf48d8e87d",
+        "pt-BR": "dc4646373f82ce88efbf6137afe90688ad02eea9"
+      },
+      "rejection_blob_sha": "00ea3aff7bb3a7071c9b1740ec84c7436eb4c027",
+      "issue_codes": [
+        "EDITORIAL_DEPTH_VISUAL_CHART_FLOOR_NOT_MET",
+        "IHR_PANDEMIC_EMERGENCY_DECISION_MISATTRIBUTED"
+      ],
+      "reviewed_at": "2026-11-21T09:03:30.152Z",
+      "reviewed_commit": "52cb6d4b5d142524511cd4c4c72392541e413ca7"
+    }
+  ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both complete staged editions were read at the reviewed HEAD. The epidemiological, humanitarian and preparedness sources are accessible."
+      "summary": "Pending v2 and both complete staged Markdown files were read at the reviewed HEAD. WHO, Africa CDC, UNICEF, UNFPA, WFP, ECDC and WHO Regional Office sources are accessible and dated."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending schema_version 2, canonical ID/slug, controlled taxonomy values and pandemic-social-economic-preparedness registry mapping are valid."
+      "summary": "schema_version 2, ready:true, canonical ID/slug, research-report format, event-driven cadence and pandemic-social-economic-preparedness registry mapping are valid."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The 05:00 BRT cutoff is explicit. WHO, Africa CDC, ECDC and partner figures are presented with their source dates and distinct data cutoffs."
+      "summary": "The 05:00 BRT cutoff is explicit. WHO cumulative counts and provincial series are dated 17 Nov; the WHO notice is dated 20 Nov; Africa CDC weeks 19–45, UNICEF 4 Nov, ECDC 17 Nov, WFP 3 Nov and South Sudan October observations retain separate vintages."
     },
     "factual_methodology": {
       "result": "failed",
-      "summary": "The pandemic-emergency classification is attributed to the WHO committee's current formal record, although the cited WHO page attributes that classification to the Director-General's original 17 May determination. The 18 November decision documented in the 20 November Disease Outbreak News reaffirms PHEIC status but does not make a new pandemic-emergency determination."
+      "summary": "The Swiss medical-evacuation patient's occupation is not specified by the cited WHO source, while the text calls both evacuated patients health workers. The statement that the third Committee meeting did not issue a new pandemic-emergency classification is stronger than the source record; the WHO notice reports the PHEIC reaffirmation but does not report a new pandemic-emergency determination."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "The source set supports the underlying 17 May PHEIC/pandemic-emergency distinction, but the prose misattributes the decision to the committee's formal record and does not date it to the original Director-General determination."
+      "summary": "The source set is primary and the 17 May/18 November distinction is now correctly attributed, but the occupation assigned to the Swiss patient is unsupported and the negative claim about the third meeting is not directly evidenced."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Both editions exceed 3,100 substantive words, contain eleven analytical H2 sections, distinguish evidence from inference and include falsifiable scenarios."
+      "en_words": 3247,
+      "pt_br_words": 3613,
+      "required_words": 1700,
+      "en_h2": 11,
+      "pt_br_h2": 11,
+      "unique_urls_en": 12,
+      "unique_urls_pt": 12,
+      "source_hosts_en": 1,
+      "source_hosts_pt": 1,
+      "charts_en": 2,
+      "charts_pt": 2,
+      "required_charts": 2,
+      "flows_en": 1,
+      "flows_pt": 1,
+      "maps_en": 1,
+      "maps_pt": 1,
+      "tables_en": 2,
+      "tables_pt": 2,
+      "validator": "scripts/validate-editorial-depth.mjs strict run 44948019447; candidate absent from failure list"
     },
     "visual_evidence_readiness": {
-      "result": "failed",
-      "summary": "Each staged edition contains one explicit chart fence. scripts/validate-editorial-depth.mjs requires at least two chart fences for non-weekly research; its current strict run fails this candidate in both locales for the visual evidence budget."
+      "result": "passed",
+      "summary": "Both editions contain two source-backed charts, two Markdown tables, one causal flow and one country-status map (six visuals); the new 21-day provincial chart reproduces WHO's five values (668, 635, 90, 20, 4), and chart numeric series match EN/PT-BR. The map remains explicitly qualified as country-status cards rather than coordinate-level geography."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "The chart count and the IHR attribution issue are mirrored in EN and PT-BR; the core epidemiological figures and visual series are equivalent."
+      "summary": "EN/PT-BR retain equivalent thesis, dates, epidemiological values, references, map categories and chart numeric series; the two new factual issues are mirrored in both editions."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report distinguishes base, improvement and deterioration paths and identifies operational indicators that would weaken its thesis."
+      "summary": "Base, improvement and deterioration paths are stated with observable indicators including daily contact follow-up, active health zones and community deaths."
     },
     "system_registry_reconciliation": {
       "result": "passed",
-      "summary": "The append-only reconciliation run 2026-11-21-publication-set-reconciliation names MT-PH-2026-11-21-bundibugyo-response and records decisions for all seven active reconciliation-required assets."
+      "summary": "The append-only reconciliation run 2026-11-21-publication-set-reconciliation includes this ID and seven asset decisions; no canonical asset update was asserted without evidence."
     },
     "editorial_depth_script": {
-      "result": "failed",
-      "summary": "The strict workflow on the reviewed HEAD explicitly reports 'research visual evidence budget missing' for both staged locales of this candidate. The script requires at least two explicit chart fences for non-weekly research."
+      "result": "passed",
+      "summary": "The strict Editorial drafts and freshness run 44948019447 does not list this candidate among its depth failures. The remaining workflow failures belong to other unchanged staged drafts."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "validate-pipeline.mjs passed on the reviewed HEAD: 205 public bundles, 22 unpublished pending, zero approved unpublished and six legacy pending already public."
+      "summary": "validate-pipeline.mjs completed with 'Pipeline validation OK: 207 public bundles; 20 unpublished pending; 0 approved unpublished; 6 legacy pending already public.' No candidate-specific schema, path or taxonomy error was reported."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "The candidate fails the effective visual-depth validator in both languages and contains a material attribution/date ambiguity in the IHR pandemic-emergency classification."
+      "summary": "The candidate is not publication-ready while the Swiss patient's occupation is overstated, the negative claim about the third Committee meeting is not source-bounded, and both editions retain reader-facing self-reference."
     }
   },
-  "confidence": "medium",
+  "confidence": "high",
   "limitations": [
-    "WHO cumulative counts are as of 17 November; the 20 November publication date is not a synchronized epidemiological snapshot.",
-    "Africa CDC's 11% case-identification-from-contact-lists measure and WHO's 81% daily contact-follow-up measure use different denominators and periods.",
-    "Security incidents and casualties are attributed to WHO and partner statements and are not independently verified in this review.",
-    "The regional map uses country-status cards rather than geographic coordinates and explicitly preserves the different observation dates.",
-    "The repository-wide editorial-depth workflow also fails on six pre-existing staged documents; this candidate is independently listed as one of the failures."
+    "WHO cumulative counts and the provincial 21-day series are as of 17 November; the 20 November publication date is not a synchronized epidemiological snapshot.",
+    "Africa CDC's 11% case-identification-from-contact-lists measure and WHO's 81% daily contact-follow-up measure use different denominators and observation periods.",
+    "Security incidents and casualties remain attributed to WHO and partner statements; no independent incident-level verification is claimed.",
+    "The regional map uses country-status cards rather than geographic coordinates and preserves the different observation dates.",
+    "The Swiss medical-evacuation patient's occupation is not specified in the cited WHO notice."
   ],
   "issues": [
     {
       "severity": "material",
-      "code": "EDITORIAL_DEPTH_VISUAL_CHART_FLOOR_NOT_MET",
-      "paths": [
-        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/en.md",
-        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md",
-        "scripts/validate-editorial-depth.mjs"
-      ],
-      "locations": [
-        "en.md: chart evidence block",
-        "pt-BR.md: chart evidence block",
-        "scripts/validate-editorial-depth.mjs: minCharts = isWeekly ? 3 : 2; visualCounts.chart"
-      ],
-      "evidence": "The current staged EN and PT-BR editions each contain one explicit ```chart fence, one ```flow fence, one ```map fence and multiple Markdown evidence-table rows. The validator's effective non-weekly floor is two explicit chart fences. On the reviewed HEAD, the strict Editorial drafts and freshness workflow reports 'MT-PH-2026-11-21-bundibugyo-response staged en: research visual evidence budget missing' and the same failure for pt-BR. Word count, source-URL count, distinct-host count, analytical headings, flow, map and table-row checks do not produce candidate-specific failures; the unmet visual condition is the second chart. The producer's declared visual_evidence.total_visuals of five does not override the executable gate.",
-      "required_correction": "Add a second substantive, source-backed quantitative chart to both language editions, using an actual cited series such as WHO's 21-day new confirmed cases by province or the provincial daily contact-follow-up percentages. Preserve observation dates, units, source attribution and identical numeric series across EN/PT-BR. Do not create a decorative chart or fabricate observations. Re-run scripts/validate-editorial-depth.mjs and confirm this candidate no longer appears in the failures."
-    },
-    {
-      "severity": "material",
-      "code": "IHR_PANDEMIC_EMERGENCY_DECISION_MISATTRIBUTED",
+      "code": "UNSUPPORTED_MEDICAL_EVACUATION_OCCUPATION_AND_UNSOURCED_NEGATIVE_CLAIM",
       "paths": [
         "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/en.md",
         "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md"
       ],
       "locations": [
-        "en.md:38 and en.md:125",
-        "pt-BR.md:38 and pt-BR.md:125",
-        "References [1] and [9] in both editions"
+        "en.md:51 and en.md:53",
+        "pt-BR.md:51 and pt-BR.md:53"
       ],
-      "evidence": "The text says that 'the WHO committee's formal record' states the event did not meet IHR criteria for a pandemic emergency. The cited WHO IHR Emergency Committee page attributes that classification to the Director-General's determination of 17 May 2026; it states that the event was a PHEIC but did not meet the pandemic-emergency criteria. The 20 November WHO Disease Outbreak News says the Director-General, on 18 November and following the third committee meeting on 17 November, maintained the PHEIC status; it does not report a new pandemic-emergency determination by that third meeting. The current prose therefore blurs the original 17 May determination with the 18 November reaffirmation and misattributes the decision to the committee's formal record. Sources: https://www.who.int/groups/ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-drc-and-uganda and https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
-      "required_correction": "Date and attribute the pandemic-emergency classification explicitly to the WHO Director-General's 17 May 2026 determination. State separately that the 18 November 2026 decision, following the 17 November third IHR Emergency Committee meeting, reaffirmed the PHEIC. Do not imply that the third meeting issued a new pandemic-emergency determination. Use the direct 17 May WHO statement as a claim-specific reference and retain the 20 November Disease Outbreak News for the PHEIC reaffirmation."
+      "evidence": "The 20 November WHO Disease Outbreak News identifies the 26 October Switzerland evacuation as a case treated in Geneva and discharged on 11 November, without identifying the patient's occupation. The same notice explicitly identifies the person discharged in the United Kingdom on 18 November as a medically evacuated health and care worker. The staged sentence classifies both evacuated patients as health workers, which is unsupported for the Swiss case. In addition, the sentence that the third Committee meeting 'did not issue a new pandemic-emergency classification' makes a negative claim not stated in the 20 November notice. The direct 17 May WHO statement supports the original Director-General determination; the 20 November notice records the subsequent PHEIC reaffirmation, not a new pandemic-emergency ruling. Sources: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630 and https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern.",
+      "required_correction": "Separate the Switzerland case from the UK health-and-care worker: do not assign an occupation to the Swiss patient unless a primary source does so. Replace the negative statement about what the third Committee meeting did not issue with source-bounded wording, e.g. 'The 20 November WHO notice records the Director-General's PHEIC reaffirmation and does not report a new pandemic-emergency determination.' Preserve the 17 May Director-General determination as the source of the PHEIC/pandemic-emergency distinction."
+    },
+    {
+      "severity": "material",
+      "code": "READER_FACING_SELF_REFERENCE",
+      "paths": [
+        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/en.md",
+        "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:85 ('this assessment does not present them') and en.md:106 ('The report therefore does not convert')",
+        "pt-BR.md:85 ('esta análise não as apresenta') and pt-BR.md:106 ('o relatório não converte')"
+      ],
+      "evidence": "Both language editions retain explicit references to the report/assessment in reader-facing analytical prose. These are editorial-process statements rather than findings. The source limitation can be stated directly without referring to the document itself.",
+      "required_correction": "Replace the self-references with direct evidence statements: attribute the incident counts to the named institutions and state that no independent incident-level verification is available in the cited material; state directly that the primary sources do not provide a reliable national GDP, trade or labour-market loss estimate and that local accounts cannot support such a national figure."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
@@ -114,5 +145,5 @@
     "max_new_rejections_per_id": 3,
     "source_sha_must_change_before_recheck": true
   },
-  "notes": "First new rejection for MT-PH-2026-11-21-bundibugyo-response. The epidemiological and humanitarian claims were checked against primary institutional sources; rejection is limited to the executable visual-depth gate and the misattributed IHR classification. Retrabalho routed to producer task 1/5 through the canonical rejected sidecar. No approval or publication authorization."
+  "notes": "Second new rejection for MT-PH-2026-11-21-bundibugyo-response. Revision 3 corrected the 17 May Director-General attribution, added the direct WHO statement and a source-backed second provincial chart; the candidate now passes the strict depth check. It remains rejected for an unsupported occupation attribution, an unbounded negative claim about the third Committee meeting and reader-facing self-reference. Two of three new-rejection attempts have been used. No reports/**, public indexes, approved records or institutional content were changed."
 }
