@@ -371,9 +371,9 @@
     },
     {
       "institution": "Eurostat",
-      "date": "2026-11-04",
-      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
-      "finding": "Euro-area October flash annual inflation 4.0%, with energy component 20.8% y/y."
+      "date": "2026-11-18",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-18112026-ap",
+      "finding": "Final October euro-area HICP release: annual headline inflation 4.0%; energy inflation 21.0% y/y and contribution +1.89 percentage points. The final release records the 20.8% flash estimate from 4 November; this final vintage now supports the Global Macro claim."
     },
     {
       "institution": "Central Bank of Brazil",
@@ -486,6 +486,6 @@
     "The tanker incident and Basra fire remain source-attributed reports with unresolved actor, cause and restoration details."
   ],
   "additional_thematic_article": null,
-  "decision": "MT-GM-2026-11-22 was absent at the initial HEAD and is staged as revision 2 with schema v2 ready:true; QA and public approval remain pending. No additional thematic article was created: the WHO 20 November Bundibugyo update is already covered by the 21 November thematic item; the new WHO/ECDC AMR release concerns human invasive isolates and does not supply a new veterinary/livestock delta. MT-GM-2026-11-19 remains rejected revision 3, while revision 4 was blocked under the no-fourth-rejection rule; revision 5 now corrects the four material source-traceability issues (final U.S. index values and semiconductor direction, exact Reuters oil-wire source, Asian closing data, and source-audit counts) and is pending independent QA. No fourth rejection was recorded; ID and slug are unchanged.",
+  "decision": "MT-GM-2026-11-22 was absent at the initial HEAD and is staged as revision 3 with schema v2 ready:true; QA and public approval remain pending. Revision 3 completes source traceability for the final Eurostat October HICP release (18 Nov) and corrects a duplicated article in EN; the final HICP values were already present and are unchanged. No additional thematic article was created: the WHO 20 November Bundibugyo update is already covered by the 21 November thematic item; the new WHO/ECDC AMR release concerns human invasive isolates and does not supply a new veterinary/livestock delta. MT-GM-2026-11-19 remains rejected revision 3, while revision 4 was blocked under the no-fourth-rejection rule; revision 5 corrects the four material source-traceability issues and remains pending independent QA. No further producer correction was made while that revision awaits QA and the rejection-loop guard is active; ID and slug are unchanged.",
   "limitations": "The 63 active registry assets were reconciled operationally, including every editorial line and tool/program entry. This is not an exhaustive primary-source investigation of every line. Human AMR surveillance is not treated as livestock evidence; outbreak figures retain their stated cutoff; conflict claims retain source attribution; no unsupported actor, cause or biosecurity allegation is promoted to fact."
 }
