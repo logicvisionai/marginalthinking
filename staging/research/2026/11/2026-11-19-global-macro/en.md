@@ -1,6 +1,6 @@
 # Global Macro — Energy security turns the Hormuz shock into a global capital-allocation test
 
-**19 November 2026 · Information cutoff: 07:45 Brasília time (10:45 UTC).** The IEA's *World Energy Outlook 2026* is dated 19 November; its page was available at preparation time, although the exact release hour is not stated. Reuters's US market report was published at 10:28 UTC, before this revised cutoff. Market closes refer to 18 November. The Asian market snapshot is intraday at 03:51 GMT on 19 November, not a close. [1][2][3][13]
+**19 November 2026 · Information cutoff: 16:00 Brasília time (19:00 UTC).** The IEA's *World Energy Outlook 2026* is dated 19 November; its page was available by the cutoff, although the exact release hour is not stated. Reuters's US market report was first published on 18 November at 10:28 UTC and was subsequently updated on 19 November; the final figures in the current version are used here. Market closes refer to 18 November. The Asian market data use the session's closing edition, first published at 11:08 GMT on 19 November. [1][2][3][13]
 
 The new information is not simply that oil supply remains exposed to war. The IEA quantifies a second-order adjustment: importers are accelerating diversification, electrification and grid investment, but those responses require capital, equipment and time. A lower crude benchmark can coexist with a higher cost of making energy systems reliable. That distinction matters for inflation, sovereign funding, industrial competitiveness and the distribution of investment across regions.
 
@@ -8,12 +8,12 @@ The new information is not simply that oil supply remains exposed to war. The IE
 
 On 18 November, Brent settled 1.28% lower at **US$91.95 per barrel** and WTI fell 3.2% to **US$83.26**. Reuters [14] reports those exact settlement prices; the EIA [3] supports the inventory data, not the settlements. At 09:53 GMT on 19 November, Reuters [2] quoted Brent at **US$92.19**, December WTI at **US$83.31** and January WTI at **US$82.43**. These are intraday observations, not closing prices. The EIA reported commercial crude stocks up **3.4 million barrels**, to **417.8 million**, in the week ended 13 November. The increase was far above the 58,000-barrel rise expected in a Reuters poll. [2][3][14]
 
-According to Reuters's preliminary closing data, the S&P 500 lost **0.24%** to 7,322.53, the Dow fell **1.12%** to 50,193.03, and the Nasdaq gained **0.39%** to 24,429.89. The S&P's fifth consecutive decline showed how valuation and discount-rate concerns could coexist with a softer crude balance. Nvidia's quarterly results beat analyst expectations and the company forecast revenue above estimates; its shares nevertheless fell amid uncertainty after co-founder Jensen Huang's sudden departure. The Philadelphia SE Semiconductor Index also closed slightly lower, underscoring high expectations for AI infrastructure spending. [4]
+Reuters's final figures show the S&P 500 down **0.23%** at 7,323.64, the Dow down **1.11%** at 50,198.17 and the Nasdaq up **0.42%** at 24,429.89. The mixed close shows how valuation and discount-rate concerns could coexist with a softer crude balance. Nvidia's quarterly results beat analyst expectations and the company forecast revenue above estimates; its shares nevertheless fell 2.9% amid uncertainty after co-founder Jensen Huang's reported departure. The Philadelphia SE Semiconductor Index finished **0.1% higher**, despite spending much of the session in negative territory, underscoring the uneven response within the AI supply chain. [4]
 
 | Market or indicator | Latest observation | Period, unit and qualification |
 | --- | ---: | --- |
 | Brent / WTI | US$91.95 / US$83.26 | 18 Nov settlement; Brent -1.3%, WTI -3.2% |
-| S&P 500 / Dow / Nasdaq | -0.24% / -1.12% / +0.39% | 18 Nov session return; separate indices |
+| S&P 500 / Dow / Nasdaq | -0.23% / -1.11% / +0.42% | 18 Nov session return; final Reuters figures |
 | US Treasury 2-year / 10-year | 4.80% / 5.07% | 18 Nov daily par yields; 27 bp positive slope |
 | Dollar index | 103.8, +0.2% | 18 Nov; highest since April 2025 [10] |
 | Spot gold | US$3,726.19/oz, -3.2% | 18 Nov at 15:30 GMT; lowest since September 2025 [12] |
@@ -96,7 +96,7 @@ India provides a useful counterexample to a simple dollar-strength narrative. Th
 
 Brazil showed a different combination. The Ibovespa fell **1.34%** to 167,537.95 and the commercial dollar rose **1.45%** to R$5.8667 on 18 November. Local reporting linked the move to uncertainty around the fiscal package in the Senate and expectations of higher US rates. It is therefore inaccurate to attribute the entire repricing to the energy shock. A domestic fiscal risk premium can compound a common external dollar and rates shock. [11]
 
-At 03:51 GMT on 19 November, a delayed intraday Asian snapshot showed the Taiex down **3.73%**, the Hang Seng down **1.89%**, the Australian S&P/ASX 200 down **1.13%**, Shanghai down **0.44%**, the Kospi down **0.94%** and the Nikkei up **0.21%**. These are live-session readings against prior closes, not closing returns. The source attributed broad regional weakness to concerns about AI valuations and hawkish US policy commentary, but did not establish a specific cause for Taiwan's larger decline. [13]
+The 19 November closing edition showed the Taiex down **4.40%**, the Hang Seng down **1.95%**, the S&P/ASX 200 down **1.04%**, the Shanghai Composite down **0.28%**, the Kospi up **1.39%** and the Nikkei 225 up **0.71%**. These are closing returns against the prior session's closes, not intraday readings. The source describes a mixed session, with Taiwan recording the largest decline among the ten Asian indices it tracks; it does not establish a single cause for the Taiex's fall. [13]
 
 The regional map separates route exposure from places where alternative production and infrastructure may expand. It is not a map of verified new investment commitments.
 
@@ -147,7 +147,7 @@ The strongest test over the coming weeks is not whether one commodity quote rise
 
 [1] International Energy Agency (2026), *World Energy Outlook 2026*, Executive Summary, published 19 November 2026. https://www.iea.org/reports/world-energy-outlook-2026/executive-summary
 
-[2] Reuters (2026), *Oil prices rise as Middle East shipping attacks counter supply surplus outlook*, 19 November 2026. https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/
+[2] Reuters (2026), *Oil prices rise as Middle East shipping attacks counter supply surplus outlook*, 19 November 2026, Reuters wire reproduced by Media Selangor. https://mediaselangor.com/en/2026/11/407978
 
 [3] U.S. Energy Information Administration (2026), *Weekly Petroleum Status Report*, week ending 13 November 2026, Table 1. https://ir.eia.gov/secure/wpsr/overview.pdf
 
@@ -169,5 +169,5 @@ The strongest test over the coming weeks is not whether one commodity quote rise
 
 [12] Reuters (2026), *Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric*, 18 November 2026. https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/
 
-[13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Early Session, Taiex Drops 3.73% as Most Indices Fall*, 19 November 2026, intraday snapshot at 03:51 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
+[13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Hang Seng Falls a Third Day as Singapore Ends Its Slide*, 19 November 2026, closing edition first published at 11:08 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
 [14] Reuters (2026), *Oil prices settle lower as traders weigh surplus supply outlook*, 18 November 2026. https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/

@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-11-19",
   "slug": "2026-11-19-global-macro",
   "date": "2026-11-19",
-  "published_at": "2026-11-19T07:45:00-03:00",
+  "published_at": "2026-11-19T16:00:00-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -45,21 +45,23 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 4,
+  "revision": 5,
   "assessment_confidence": "medium",
   "key_constraints": [
     "Long-lived energy infrastructure requires affordable long-term finance",
     "Grid equipment supply and installation capacity constrain delivery",
     "Physical route risk and commodity benchmark prices can diverge",
-    "Emerging-market borrowing costs and fiscal capacity differ materially"
+    "Emerging-market borrowing costs and fiscal capacity differ materially",
+    "The 19 November US cash-equity session had not closed at the 16:00 BRT information cutoff; US equity closes therefore refer to 18 November",
+    "The 19 November Asian index figures are closing returns from The Edge edition first published at 11:08 GMT, not intraday observations"
   ],
   "producer_checks": {
-    "information_cutoff": "19 Nov 2026 07:45 BRT / 10:45 UTC. The IEA World Energy Outlook 2026 is dated 19 Nov; exact public release hour is not stated, while the producer's embargo advisory records 08:00 Antalya / 05:00 UTC. Reuters's US market report [4] was published at 10:28 UTC, before this revised cutoff. Market closes refer to 18 Nov. The Reuters 09:53 GMT oil quote and the Asian 03:51 GMT snapshot are intraday observations, not closes.",
+    "information_cutoff": "19 Nov 2026 16:00 BRT / 19:00 UTC. The IEA World Energy Outlook 2026 is dated 19 Nov; exact public release hour is not stated, but its page was available by cutoff. Reuters's US market report was first published 18 Nov at 10:28 UTC and updated on 19 Nov; the final figures in the current version are used. US equity closes refer to 18 Nov because the 19 Nov session had not closed. The Reuters 09:53 GMT oil quote is intraday. The Edge Asian closing edition was first published at 11:08 GMT on 19 Nov.",
     "novelty": "Compared with 16 Nov (China/Japan activity and dollar funding), 17 Nov (semiconductor repricing and Brazil activity/inflation expectations), and 18 Nov (European inflation and AI financing), this edition uses the newly dated IEA World Energy Outlook 2026 to quantify energy-security capital requirements: bypass pipeline scenarios, grid kilometres, equipment bottlenecks, importer investment and emerging-market financing constraints. It does not repeat the previous edition's AI-contract analysis.",
-    "evidence_vintage": "IEA WEO 2026 is a scenario report dated 19 Nov, not a realised project pipeline. IEA Oil Market Report is dated 13 Nov. EIA petroleum stocks refer to the week ended 13 Nov and report released 18 Nov. Treasury curve, equity closes, FX and gold observations refer to 18 Nov; Reuters preliminary US index values were published 19 Nov at 10:28 UTC. The exact 18 Nov Brent/WTI settlements are sourced to Reuters [14]. The 19 Nov oil quote is a Reuters intraday observation at 09:53 GMT, before the 10:45 UTC cutoff. Asian quotes are a delayed intraday snapshot at 03:51 GMT on 19 Nov. Eurostat October HICP is a final release published 18 Nov. World Bank debt figures refer to 2025.",
-    "bilingual_parity": "EN and PT-BR now use the same 14 source URLs, dates, settlement values, intraday timestamp and qualifications. The exact 18 Nov settlements are separated from the 19 Nov intraday observation.",
-    "visual_evidence": "Two explicit bar charts, three evidence tables, one regional map and one causal flow. Values and labels are matched across EN/PT-BR; scenarios are not charted as observations.",
-    "source_limitations": "No harmonised same-date global private credit-spread series, project-finance margins, delivered diesel prices or verified project-level grid capex/disbursements were established for this edition. The 19 Nov oil quote is an intraday observation at 09:53 GMT, not a close.",
+    "evidence_vintage": "IEA WEO 2026 is a scenario report dated 19 Nov, not a realised project pipeline. IEA Oil Market Report is dated 13 Nov. EIA petroleum stocks refer to the week ended 13 Nov and report released 18 Nov. Treasury curve, US equity closes, FX and gold observations refer to 18 Nov; Reuters's final US index values are taken from the current version of its market report, first published 18 Nov at 10:28 UTC and updated on 19 Nov. The 19 Nov Brent/WTI quote is a Reuters wire observation at 09:53 GMT reproduced by Media Selangor. Asian equity data are 19 Nov closing returns in The Edge edition first published at 11:08 GMT. Eurostat October HICP is a final release published 18 Nov. World Bank debt figures refer to 2025.",
+    "bilingual_parity": "EN and PT-BR use the same 14 source URLs, 18 Nov settlement values, 19 Nov 09:53 GMT oil quote, final US equity returns, semiconductor index direction, Asian closing returns and qualifications. The source vintages and cutoff are aligned.",
+    "visual_evidence": "Two explicit bar charts, three evidence tables, one regional map and one causal flow. Existing chart values are unchanged; the revised market table and Asian closing paragraph match across EN/PT-BR. Scenarios remain uncharted as observations.",
+    "source_limitations": "No harmonised same-date global private credit-spread series, project-finance margins, delivered diesel prices or verified project-level grid capex/disbursements were established. The 19 Nov oil quote is an intraday Reuters wire observation reproduced by Media Selangor, not a close. The Edge's Asian closing percentages are its calculations from exchange/administrator closing data; its page does not establish a single cause for Taiwan's decline.",
     "reconciliation": {
       "run_id": "2026-11-19-global-macro-publication-reconciliation",
       "reconciled_at": "2026-11-19T09:52:19.046Z",
@@ -102,9 +104,10 @@
     },
     "source_audit": {
       "references": 14,
-      "distinct_domains": 11,
-      "primary_institutional_sources": 8,
-      "market_reporting_sources": 5
+      "distinct_domains": 10,
+      "primary_institutional_sources": 7,
+      "market_reporting_sources": 7,
+      "classification_rule": "Primary institutional references: IEA [1,7], EIA [3], Federal Reserve [5], U.S. Treasury [6], World Bank [8] and Eurostat [9] (7). Market reporting/syndication references: Media Selangor reproducing Reuters [2], Reuters [4,10,12,14], UOL [11] and The Edge [13] (7). Distinct hostnames are counted from the exact 14 reference URLs: iea.org, mediaselangor.com, ir.eia.gov, reuters.com, federalreserve.gov, home.treasury.gov, worldbank.org, ec.europa.eu, economia.uol.com.br and edgeconsultancykw.com."
     },
     "revision_4_corrections": {
       "previous_qa_rejection": "OIL_SETTLEMENT_AND_INTRADAY_QUOTES_NOT_TRACEABLE",
@@ -114,6 +117,17 @@
         "Applied identical corrections to EN/PT-BR and updated source-vintage and reference-count metadata."
       ],
       "qa_recovery_policy": "Rejection count is already three and the rejection-loop limit is reached. This is one corrected revision for a single independent review. If any material issue remains, block and escalate; do not record a fourth rejection."
+    },
+    "revision_5_corrections": {
+      "previous_blocked_review": "Revision 4 was blocked after the single recovery review; rejection count remains three and no fourth rejection is permitted.",
+      "corrections": [
+        "Replaced preliminary 18 Nov US index values with the final Reuters figures: S&P 500 -0.23% at 7,323.64; Dow -1.11% at 50,198.17; Nasdaq +0.42% at 24,429.89. Corrected the Philadelphia SE Semiconductor Index to +0.1% and removed the unsupported fifth-consecutive-decline statement.",
+        "Replaced the mismatched 19 Nov Reuters URL with the exact Reuters wire copy reproduced by Media Selangor for the 09:53 GMT Brent US$92.19, December WTI US$83.31 and January WTI US$82.43 intraday observations.",
+        "Replaced the non-reproducible 03:51 GMT Asian intraday snapshot with the 19 Nov closing edition first published at 11:08 GMT: Taiex -4.40%, Hang Seng -1.95%, S&P/ASX 200 -1.04%, Shanghai Composite -0.28%, Kospi +1.39% and Nikkei 225 +0.71%.",
+        "Corrected the Reuters article's first-publication date to 18 Nov 10:28 UTC and recorded its 19 Nov update separately; set the information cutoff to 19 Nov 16:00 BRT / 19:00 UTC.",
+        "Recomputed the 14-reference source audit: 10 distinct hostnames, 7 primary institutional references and 7 market-reporting/syndication references, with the classification rule recorded."
+      ],
+      "qa_recovery_policy": "This revision uses new pending and EN/PT-BR blob SHAs. The rejection count remains three. If independent QA finds any material defect, it must block and escalate rather than create a fourth rejection."
     }
   },
   "limitations": [
@@ -122,9 +136,10 @@
     "The 7 mb/d pipeline figure includes projects under construction or consideration; the Low Hormuz Case depends on multiple conditional assumptions.",
     "US EIA inventories are a national weekly observation and cannot establish global diesel availability.",
     "Treasury par yields do not measure private credit spreads, project-finance margins or sovereign borrowing spreads.",
-    "The Asian equity figures are delayed intraday observations at 03:51 GMT, not closing returns.",
+    "The Asian equity figures are closing returns from The Edge's 19 November closing edition, first published at 11:08 GMT; they are not the earlier 03:51 GMT intraday snapshot.",
     "The World Bank debt aggregates are not energy-project debt and do not identify the financing terms of individual infrastructure projects.",
-    "The Brazil market move reflects domestic fiscal uncertainty as well as external dollar and rate conditions."
+    "The Brazil market move reflects domestic fiscal uncertainty as well as external dollar and rate conditions.",
+    "The 19 November Brent/WTI quote at 09:53 GMT is an intraday observation from a Reuters wire reproduced by Media Selangor, not a settlement."
   ],
   "contrary_evidence": [
     "Brent and WTI fell on 18 November and US commercial crude inventories rose in the week ended 13 November, consistent with a looser near-term crude balance.",
@@ -200,5 +215,6 @@
       ],
       "search_text": "Global Macro 19 novembro 2026 AIE World Energy Outlook Hormuz segurança energética oleodutos redes elétricas demanda eletricidade financiamento dívida emergente juros Treasuries"
     }
-  }
+  },
+  "revision_reason": "Revision 5 resolves the four material source-traceability issues in the blocked revision 4: final Reuters US index values and semiconductor direction replace preliminary values; the 19 November oil quote is linked to the exact Reuters wire copy reproduced by Media Selangor; the non-reproducible Asian 03:51 snapshot is replaced by The Edge's 11:08 GMT closing edition; and the source audit is recomputed from the 14 listed URLs."
 }

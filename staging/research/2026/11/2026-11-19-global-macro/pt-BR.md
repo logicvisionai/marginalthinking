@@ -1,6 +1,6 @@
 # Global Macro — Segurança energética transforma o choque de Hormuz em teste global de alocação de capital
 
-**19 de novembro de 2026 · Corte informacional: 07h45 de Brasília (10h45 UTC).** O *World Energy Outlook 2026* da AIE tem data de 19 de novembro; a página estava disponível durante a preparação, embora o horário exato de publicação não esteja indicado. A reportagem da Reuters sobre o mercado americano foi publicada às 10h28 UTC, antes deste novo corte. Os fechamentos de mercado referem-se a 18 de novembro. O retrato das bolsas asiáticas é intradiário, às 03h51 GMT de 19 de novembro, não um fechamento. [1][2][3][13]
+**19 de novembro de 2026 · Corte informacional: 16h de Brasília (19h UTC).** O *World Energy Outlook 2026* da AIE tem data de 19 de novembro; sua página estava disponível até o corte, embora o horário exato de divulgação não esteja indicado. A reportagem da Reuters sobre o mercado americano foi publicada originalmente em 18 de novembro, às 10h28 UTC, e atualizada em 19 de novembro; usamos os números finais exibidos na versão atual. Os fechamentos de mercado referem-se a 18 de novembro. Os dados das bolsas asiáticas usam a edição de fechamento da sessão, publicada pela primeira vez às 11h08 GMT de 19 de novembro. [1][2][3][13]
 
 A informação nova não é apenas que a oferta de petróleo continua exposta à guerra. A AIE quantifica um ajuste de segunda ordem: importadores aceleram diversificação, eletrificação e investimento em redes, mas essas respostas exigem capital, equipamentos e tempo. Um preço de referência do petróleo em queda pode coexistir com custo maior para tornar os sistemas energéticos confiáveis. Essa distinção importa para inflação, financiamento soberano, competitividade industrial e distribuição regional do investimento.
 
@@ -8,12 +8,12 @@ A informação nova não é apenas que a oferta de petróleo continua exposta à
 
 Em 18 de novembro, o Brent fechou em queda de 1,28%, a **US$ 91,95 por barril**, e o WTI recuou 3,2%, para **US$ 83,26**. A Reuters [14] informa esses preços exatos de liquidação; a EIA [3] sustenta os dados de estoques, não as cotações de fechamento. Às 09h53 GMT de 19 de novembro, a Reuters [2] registrou Brent a **US$ 92,19**, WTI de dezembro a **US$ 83,31** e WTI de janeiro a **US$ 82,43**. São observações intradiárias, não preços de fechamento. A EIA informou que os estoques comerciais de petróleo bruto aumentaram **3,4 milhões de barris**, para **417,8 milhões**, na semana encerrada em 13 de novembro. A alta superou amplamente o aumento de 58 mil barris esperado em pesquisa da Reuters. [2][3][14]
 
-Segundo os dados preliminares de fechamento da Reuters, o S&P 500 caiu **0,24%**, para 7.322,53 pontos; o Dow recuou **1,12%**, para 50.193,03; e o Nasdaq avançou **0,39%**, para 24.429,89. A quinta queda consecutiva do S&P mostrou como preocupações com avaliações e taxas de desconto podem coexistir com um balanço de petróleo mais folgado. Os resultados trimestrais da Nvidia superaram as expectativas dos analistas, e a empresa projetou receita acima das estimativas; ainda assim, suas ações caíram em meio à incerteza após a saída repentina do cofundador Jensen Huang. O Philadelphia SE Semiconductor Index também fechou ligeiramente em baixa, indicando expectativas elevadas para os gastos em infraestrutura de IA. [4]
+Os números finais da Reuters mostram o S&P 500 em queda de **0,23%**, a 7.323,64 pontos; o Dow recuou **1,11%**, para 50.198,17; e o Nasdaq subiu **0,42%**, para 24.429,89. O fechamento misto mostra como preocupações com avaliações e taxas de desconto podem coexistir com um balanço de petróleo mais folgado. Os resultados trimestrais da Nvidia superaram as expectativas dos analistas, e a empresa projetou receita acima das estimativas; ainda assim, suas ações caíram 2,9% em meio à incerteza após a saída do cofundador Jensen Huang, segundo a Reuters. O Philadelphia SE Semiconductor Index terminou **0,1% em alta**, apesar de ter passado boa parte da sessão em terreno negativo, evidenciando a resposta desigual dentro da cadeia de suprimentos de IA. [4]
 
 | Mercado ou indicador | Última observação | Período, unidade e ressalva |
 | --- | ---: | --- |
 | Brent / WTI | US$ 91,95 / US$ 83,26 | Liquidação de 18 nov.; Brent -1,3%, WTI -3,2% |
-| S&P 500 / Dow / Nasdaq | -0,24% / -1,12% / +0,39% | Retorno da sessão de 18 nov.; índices distintos |
+| S&P 500 / Dow / Nasdaq | -0,23% / -1,11% / +0,42% | Retorno da sessão de 18 nov.; números finais da Reuters |
 | Treasury dos EUA, 2 e 10 anos | 4,80% / 5,07% | Taxas par diárias de 18 nov.; inclinação positiva de 27 pb |
 | Índice do dólar | 103,8, +0,2% | 18 nov.; maior nível desde abril de 2025 [10] |
 | Ouro à vista | US$ 3.726,19/onça, -3,2% | 18 nov., às 15h30 GMT; menor nível desde setembro de 2025 [12] |
@@ -96,7 +96,7 @@ A Índia oferece um contraponto à narrativa simples de fortalecimento do dólar
 
 O Brasil apresentou outra combinação. O Ibovespa caiu **1,34%**, para 167.537,95 pontos, e o dólar comercial subiu **1,45%**, para R$ 5,8667, em 18 de novembro. A cobertura local associou o movimento à incerteza em torno do pacote fiscal no Senado e à expectativa de juros mais altos nos Estados Unidos. Portanto, é incorreto atribuir toda a reprecificação ao choque energético. Um prêmio de risco fiscal doméstico pode se somar a um choque externo comum de dólar e juros. [11]
 
-Às 03h51 GMT de 19 de novembro, um retrato intradiário com atraso dos mercados asiáticos mostrava o Taiex em queda de **3,73%**, o Hang Seng em baixa de **1,89%**, o S&P/ASX 200 australiano recuando **1,13%**, Xangai caindo **0,44%**, o Kospi perdendo **0,94%** e o Nikkei subindo **0,21%**. São leituras durante o pregão em relação aos fechamentos anteriores, não retornos de fechamento. A fonte atribuiu a fraqueza regional ampla a preocupações com as avaliações de IA e a comentários mais duros sobre a política monetária americana, mas não estabeleceu uma causa específica para a queda maior em Taiwan. [13]
+A edição de fechamento de 19 de novembro mostrou o Taiex em queda de **4,40%**, o Hang Seng em baixa de **1,95%**, o S&P/ASX 200 recuando **1,04%**, o Shanghai Composite caindo **0,28%**, o Kospi subindo **1,39%** e o Nikkei 225 avançando **0,71%**. São retornos de fechamento em relação ao pregão anterior, não leituras intradiárias. A fonte descreve uma sessão regional mista, com Taiwan registrando a maior queda entre os dez índices acompanhados; não estabelece uma causa única para o recuo do Taiex. [13]
 
 O mapa regional separa a exposição às rotas dos locais onde a produção alternativa e a infraestrutura podem se expandir. Ele não representa novos compromissos de investimento comprovados.
 
@@ -147,7 +147,7 @@ O teste mais forte nas próximas semanas não é saber se uma cotação de commo
 
 [1] Agência Internacional de Energia (2026), *World Energy Outlook 2026*, Sumário Executivo, publicado em 19 de novembro de 2026. https://www.iea.org/reports/world-energy-outlook-2026/executive-summary
 
-[2] Reuters (2026), *Oil prices rise as Middle East shipping attacks counter supply surplus outlook*, 19 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/
+[2] Reuters (2026), *Oil prices rise as Middle East shipping attacks counter supply surplus outlook*, 19 de novembro de 2026, texto da Reuters reproduzido pela Media Selangor. https://mediaselangor.com/en/2026/11/407978
 
 [3] U.S. Energy Information Administration (2026), *Weekly Petroleum Status Report*, semana encerrada em 13 de novembro de 2026, Tabela 1. https://ir.eia.gov/secure/wpsr/overview.pdf
 
@@ -169,5 +169,5 @@ O teste mais forte nas próximas semanas não é saber se uma cotação de commo
 
 [12] Reuters (2026), *Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric*, 18 de novembro de 2026. https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/
 
-[13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Early Session, Taiex Drops 3.73% as Most Indices Fall*, 19 de novembro de 2026, retrato intradiário às 03h51 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
+[13] The Edge for Economic Consultancy (2026), *Asia Market Wrap 19 November: Hang Seng Falls a Third Day as Singapore Ends Its Slide*, 19 de novembro de 2026, edição de fechamento publicada pela primeira vez às 11h08 GMT. https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/
 [14] Reuters (2026), *Oil prices settle lower as traders weigh surplus supply outlook*, 18 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/
