@@ -1,0 +1,163 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-22",
+  "slug": "2026-11-22-global-macro",
+  "revision": 3,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-22T09:53:51Z",
+  "reviewed_commit": "9b459b4f3c403d44012e34899a7b6e4036d0eff5",
+  "pending_blob_sha": "40df0e574b7b7a0d8f21fcaaa1c0b31984eb1cc9",
+  "source_blob_shas": {
+    "en": "b0d98e6a38773f6089c4c0b170dbf3583c10dc1c",
+    "pt-BR": "a2c10ff4a93dad6cb8347da2ec907c0f5fff044e"
+  },
+  "previous_rejections": [],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending v2 and both complete staged Markdown editions were read from the exact reviewed HEAD. The three reviewed Git blob SHAs match the files at that HEAD; no content corruption or SHA mismatch was found."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending schema_version 2, canonical ID/slug, revision 3, daily-global-macro kind, registered political-economy-markets program, taxonomy values and required fields are valid. The war-armed-conflict phenomenon is a valid controlled value; its editorial treatment is assessed separately."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 22 November 2026 05:00 BRT cutoff is explicit. The 20 November market close and the cited BLS, NBS, Statistics Bureau of Japan, European Commission, Eurostat, ECB, Treasury, BCB, IBGE and IEA releases predate the cutoff. Eurostat reference [8] now points to the 18 November final October HICP release, not the 4 November flash estimate."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "The numerical values checked are generally accurate, but the China fuel-and-power purchasing-price claim is not linked to its claim-specific NBS release. The IEA inventory total is presented without its material on-water/on-land composition; the US$180 diesel price and freight description are not geographically or operationally scoped. The report classifies war-armed-conflict but does not attribute the conflict-related oil transmission in the body."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "Reference [5] supports the NBS headline PPI and industrial purchasing-price rates but does not contain the 18.6% fuel-and-power sub-index. The exact official NBS source is a separate 10 November release and is absent from both bibliographies. IEA reference [14] is present, but the prose omits the source's material inventory composition and the European scope of the diesel price."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 3408,
+        "pt-BR": 4113
+      },
+      "summary": "Both editions exceed the 1,700-word daily floor, have ten analytical H2 sections, conditional interpretation, competing explanations, scenarios, disconfirming indicators and explicit limitations. The report adds a distinct 2025 industry TFP observation and a cross-asset AI repricing thesis."
+    },
+    "visual_evidence_readiness": {
+      "result": "preliminary_pass",
+      "summary": "Manual inspection finds two data-linked charts, three evidence tables, one causal flow and one regional map in each edition. The BLS industry TFP series and quarterly productivity/unit-labour-cost series match the cited source; extracted chart numeric series are identical across EN/PT-BR. The visual/depth workflow step was skipped by CI after an earlier repository-wide validation failure, so no strict script pass is claimed."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "The material numerical claims, charts, map, causal flow and analytical structure are mirrored in EN and PT-BR. The identified source-scope and conflict-attribution defects appear consistently in both editions; no chart-series divergence was found."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The editions distinguish observation from inference and include conditional scenarios, alternative explanations, indicators that would weaken the interpretation and explicit limits on causal attribution."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The report's industry-level TFP release, AI-capital repricing and cross-region productivity-diffusion framing are distinct from the preceding daily Global Macro editions."
+    },
+    "system_registry_reconciliation": {
+      "result": "not_run",
+      "summary": "The candidate has no public metadata yet, so the publication-stage per-report reconciliation has not been created. The publisher must append a run naming MT-GM-2026-11-22 and record decisions for all seven active reconciliation-required assets before or in the same transaction as publication."
+    },
+    "editorial_depth_script": {
+      "result": "not_run",
+      "summary": "The GitHub build stopped at validate-research before the editorial-depth step. The script's deterministic candidate thresholds were manually reproduced: both locales exceed 1,700 words, have 15 source URLs across 12 hosts, two charts, at least one flow, one map, three or more table rows, ten H2 sections, dated observations and matching chart numeric series. This is a manual threshold check, not an executed script result."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "GitHub Actions run 45008487675 executed scripts/validate-pipeline.mjs successfully: 208 public bundles, zero approved-unpublished items and six legacy pending items already public. The candidate is intentionally excluded from the default production-pipeline draft checks because it has no QA approval."
+    },
+    "repository_build": {
+      "result": "failed",
+      "summary": "The same GitHub Actions build failed later in validate-research on pre-existing public MT-GM-2026-11-18 revision 5, EN and PT-BR, due to editorial self-reference. Visual-semantics, generated-site and editorial-depth steps were skipped. This is a repository-wide blocker unrelated to the current candidate's staged files."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Publication is withheld for four material issues: missing claim-specific NBS primary reference; omitted IEA inventory composition; overgeneralized diesel-price/freight geography; and insufficient attribution of the war-related energy transmission despite the controlled war-armed-conflict classification."
+    }
+  },
+  "confidence": "high",
+  "limitations": [
+    "The 18.6% China fuel-and-power purchasing-price value is accurate, but the current reference [5] is not the release that contains the sub-index; the claim-specific official NBS release is identified in the issue record.",
+    "The IEA's 52 mb observed-inventory increase is not a broad on-land stock recovery: oil on water rose 86 mb, while on-land stocks continued falling to their lowest level since at least 2016 and OECD total stocks fell 47 mb.",
+    "The IEA's near-US$180/bbl diesel price is specifically for Europe; the near-record freight statement refers to crude moving from the Middle East to Asia, while Aframax and Suezmax costs eased.",
+    "The strict editorial-depth script was not executed against this unapproved pending item; manual reproduction of its deterministic thresholds passed.",
+    "The repository build failure is caused by the already-public MT-GM-2026-11-18 revision 5, not by this candidate.",
+    "No reconciliation run yet names this not-yet-public report. The publisher must reconcile it against all seven active required assets if and when it becomes eligible for publication."
+  ],
+  "issues": [
+    {
+      "severity": "material",
+      "code": "NBS_FUEL_POWER_INDEX_PRIMARY_SOURCE_MISSING",
+      "paths": [
+        "staging/research/2026/11/2026-11-22-global-macro/en.md",
+        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md",
+        "data/pending/2026-11-22-global-macro.json"
+      ],
+      "locations": [
+        "en.md:117, sentence 'Fuel and power purchasing prices increased 18.6%.'",
+        "pt-BR.md:117, sentence 'Os preços de compra de combustíveis e energia cresceram 18,6%.'",
+        "Reference [5] in both editions"
+      ],
+      "evidence": "The cited NBS National Economy October release at https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html supports the October industrial PPI increase of 5.7%, industrial purchasing-price increase of 7.9% and the bureau's strong-supply/weak-demand statement, but it does not report the 18.6% fuel-and-power purchasing-price sub-index. The claim-specific primary source is the separate NBS release 'Industrial Producer Price Indexes in October 2026', published 10 November 2026, at https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965806.html; it reports fuel and power purchasing prices up 18.6% year on year and 4.1% month on month. The number is correct; the cited source is incomplete.",
+      "required_correction": "Add the claim-specific NBS Industrial Producer Price Indexes in October 2026 release as a separate numbered reference in both editions and cite it immediately after the 18.6% claim. Keep reference [5] for the macro release and its strong-supply/weak-demand statement. Recalculate the source inventory and source count in the pending sidecar, then resubmit with new exact pending and EN/PT-BR blob SHAs."
+    },
+    {
+      "severity": "material",
+      "code": "IEA_OBSERVED_INVENTORY_COMPOSITION_OMITTED",
+      "paths": [
+        "staging/research/2026/11/2026-11-22-global-macro/en.md",
+        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:129, sentence reporting a 52 million barrel increase in observed inventories",
+        "pt-BR.md:129, sentence reporting a 52 million barrel increase in observed inventories",
+        "Reference [14]"
+      ],
+      "evidence": "The IEA November 2026 Oil Market Report at https://www.iea.org/reports/oil-market-report-november-2026 says observed inventories rose 52 mb in October because oil on water surged by 86 mb to its highest level since January. It also says on-land stocks continued to fall and remained at their lowest level since at least 2016, while OECD total stocks declined by 47 mb and industry inventories by 41 mb. The staged editions report only the +52 mb aggregate. In an analysis that uses inventory change to interpret the crude/product split, omitting the composition materially obscures why a higher observed total coexists with continued physical tightness.",
+      "required_correction": "Qualify the 52 mb aggregate with the IEA's composition: +86 mb oil on water, continued decline in on-land stocks to the lowest level since at least 2016, and the 47 mb OECD stock decline (41 mb industry inventories). Explain that the observed total increase does not demonstrate a broad recovery in accessible on-land inventories. Preserve the IEA's measurement window and units in both editions."
+    },
+    {
+      "severity": "material",
+      "code": "IEA_DIESEL_AND_FREIGHT_GEOGRAPHY_OVERGENERALIZED",
+      "paths": [
+        "staging/research/2026/11/2026-11-22-global-macro/en.md",
+        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:129, sentence 'tight diesel supply, with prices near US$180 per barrel and freight costs elevated.'",
+        "pt-BR.md:129, sentence 'oferta apertada de diesel, com preços próximos de US$ 180 por barril e custos de frete elevados.'",
+        "Reference [14]"
+      ],
+      "evidence": "The IEA November 2026 Oil Market Report at https://www.iea.org/reports/oil-market-report-november-2026 identifies severe product-supply tightness, especially diesel, but the near-US$180/bbl price is specifically European diesel, which had fallen 11% over the period while remaining 77% above pre-war levels. The near-record freight statement concerns crude moving from the Middle East to Asia; the same release says Aframax and Suezmax costs eased. The staged wording removes these geographic and operational qualifiers and can be read as a global diesel price and a uniform freight-cost increase.",
+      "required_correction": "State explicitly that the near-US$180/bbl observation is European diesel and identify the IEA's reference period; distinguish it from the global product-supply assessment. Specify that Middle East-to-Asia crude freight rates remained near record levels while Aframax and Suezmax costs eased. Do not generalize either observation to all diesel markets or all freight classes."
+    },
+    {
+      "severity": "material",
+      "code": "WAR_TRANSMISSION_NOT_ATTRIBUTED_DESPITE_WAR_PHENOMENON",
+      "paths": [
+        "data/pending/2026-11-22-global-macro.json",
+        "staging/research/2026/11/2026-11-22-global-macro/en.md",
+        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "pending.phenomena[0] (war-armed-conflict)",
+        "en.md:129, generic reference to renewed disruption to shipping and refining",
+        "pt-BR.md:129, generic reference to renewed disruption in transport and refining",
+        "en.md:135 and pt-BR.md:135, 'geopolitical channels' without naming or attributing the material conflict transmission"
+      ],
+      "evidence": "The pending sidecar classifies war-armed-conflict. The cited Reuters market report at https://live.euronext.com/en/financial-news/tech-leads-global-stocks-rout-treasury-yields-fall says crude prices rose late on 20 November on worries about possible attacks in the U.S.-Israeli war with Iran. The cited IEA report at https://www.iea.org/reports/oil-market-report-november-2026 reports ongoing attacks on energy infrastructure and tankers, Gulf exports of 18.4 mb/d (26% below pre-war levels), crude flows of 15 mb/d (82% of pre-war levels), and a cumulative 462 mb decline in observed global stocks since the start of the war. The staged body reduces this material transmission to generic 'geopolitical channels' and a conditional risk of disruption without identifying the source-attributed conflict or separating reported attacks from measured supply effects. CONFLICT-SECURITY-SOCIAL-CHANGE.md requires attribution of stated objectives/claims, separation of claims from verified effects and an evidenced transmission mechanism.",
+      "required_correction": "In both editions, attribute Reuters' report that crude rose on concerns about possible attacks in the U.S.-Israeli war with Iran. Attribute to the IEA its reporting of ongoing attacks on energy infrastructure and tankers, and distinguish those reports from measured effects such as Gulf export volumes and the pre-war comparison. Do not assert that the war alone explains the price move. If the conflict is not to be analyzed as a material cross-cutting phenomenon, remove war-armed-conflict from pending metadata and keep the energy risk explicitly conditional."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true
+  },
+  "notes": "First new rejection for MT-GM-2026-11-22, revision 3. The exact pending and EN/PT-BR fingerprints are new and no prior rejection, approval or public metadata exists for this ID. The HICP correction in revision 3 is valid, but four other material source-scope and conflict-attribution issues prevent publication. Retrabalho routed to MT 1/5 — Diário e Radar through the canonical rejected sidecar. No approval or publication authorization."
+}
