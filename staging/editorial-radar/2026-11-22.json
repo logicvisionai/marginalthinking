@@ -112,7 +112,7 @@
     {
       "id": "editorial-global-macro-daily",
       "decision": "updated",
-      "note": "MT-GM-2026-11-22 was absent at the initial HEAD and is now staged as revision 1, pending v2 ready:true. The new thesis tests the gap between strong U.S. quarterly labour productivity, narrow 2025 industry TFP gains and China's high-tech output versus weak investment and goods demand."
+      "note": "MT-GM-2026-11-22 was absent at the initial HEAD and is staged as revision 2, pending v2 ready:true. The productivity-diffusion thesis is unchanged; the final Eurostat October energy HICP (21.0%, not the 20.8% flash estimate) and the ECB's U.S. technology/AI portfolio scope were corrected in both locales. QA and public approval remain pending."
     },
     {
       "id": "editorial-wealth-flow-weekly",
@@ -486,6 +486,6 @@
     "The tanker incident and Basra fire remain source-attributed reports with unresolved actor, cause and restoration details."
   ],
   "additional_thematic_article": null,
-  "decision": "MT-GM-2026-11-22 was absent at the initial HEAD and is now staged as revision 1 with schema v2 ready:true; QA and public approval remain pending. No additional thematic article was created: the WHO 20 November Bundibugyo update is already covered by the 21 November thematic item; the new WHO/ECDC AMR release concerns human invasive isolates and does not supply a new veterinary/livestock delta. MT-GM-2026-11-19 remains rejected revision 3 with revision 4 blocked after the single recovery review on 21 November; no further correction was attempted because its material source/fact-check defects remain and the recovery review is already consumed. The 19 November item retains the same ID and slug; no fourth rejection was created.",
+  "decision": "MT-GM-2026-11-22 was absent at the initial HEAD and is staged as revision 2 with schema v2 ready:true; QA and public approval remain pending. No additional thematic article was created: the WHO 20 November Bundibugyo update is already covered by the 21 November thematic item; the new WHO/ECDC AMR release concerns human invasive isolates and does not supply a new veterinary/livestock delta. MT-GM-2026-11-19 remains rejected revision 3, while revision 4 was blocked under the no-fourth-rejection rule; revision 5 now corrects the four material source-traceability issues (final U.S. index values and semiconductor direction, exact Reuters oil-wire source, Asian closing data, and source-audit counts) and is pending independent QA. No fourth rejection was recorded; ID and slug are unchanged.",
   "limitations": "The 63 active registry assets were reconciled operationally, including every editorial line and tool/program entry. This is not an exhaustive primary-source investigation of every line. Human AMR surveillance is not treated as livestock evidence; outbreak figures retain their stated cutoff; conflict claims retain source attribution; no unsupported actor, cause or biosecurity allegation is promoted to fact."
 }
