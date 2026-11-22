@@ -191,45 +191,86 @@
         "The current repository build is independently blocked by public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a candidate defect and was not modified by QA."
       ],
       "notes": "Revision 6 is a new source tuple, not a replay of revision 5. The three-rejection limit remains intact: this is a block, not a fourth rejection. The prior revision-5 rejection and all previous rejection records remain unchanged. The candidate-specific strict pipeline passed and the candidate was not listed among editorial-depth failures; the remaining blocker is bilingual terminology. No approval is authorized until a corrected source tuple is submitted and independently reviewed."
+    },
+    {
+      "qa_status": "blocked",
+      "revision": 7,
+      "blocked_at": "2026-11-22T12:59:16Z",
+      "reviewed_commit": "7567c0654ac7aca2f2b9cf83417e3986601b4125",
+      "pending_blob_sha": "4193ee1e66a45a13e50319b391d65c3ccb38332a",
+      "source_blob_shas": {
+        "en": "10d7f90b079d911a91f9a8e46fd1a16a9b1d7c6d",
+        "pt-BR": "615280e289bed5c46429f199648bf4bd05e28f74"
+      },
+      "rejection_count_for_id": 3,
+      "no_new_rejection": true,
+      "issue_codes": [
+        "NBS_FIXED_ASSET_INVESTMENT_PRICE_BASIS_UNDISCLOSED"
+      ],
+      "issues": [
+        {
+          "severity": "material",
+          "code": "NBS_FIXED_ASSET_INVESTMENT_PRICE_BASIS_UNDISCLOSED",
+          "paths": [
+            "data/pending/2026-11-22-global-macro.json",
+            "staging/research/2026/11/2026-11-22-global-macro/en.md",
+            "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "en.md: section 4, paragraph beginning 'Fixed-asset investment excluding rural households fell 8.1%'; China table rows for fixed-asset, manufacturing, infrastructure and non-governmental investment",
+            "pt-BR.md: section 4, paragraph beginning 'O investimento em ativos fixos, excluídos os domicílios rurais, caiu 8,1%'; tabela China, linhas de investimento em ativos fixos, indústria de transformação, infraestrutura e investimento não governamental",
+            "pending v2: producer_checks.source_vintage and producer_checks.evidence_traceability",
+            "Reference [16], NBS, Investment in Fixed Assets from January to October 2026, 17 November 2026, note below table"
+          ],
+          "evidence": "The cited NBS release reports fixed-asset investment -8.1%, manufacturing investment -2.9%, infrastructure investment -5.1% and non-governmental fixed-asset investment -11.4%. Its table explicitly states: 'The growth rates in this table are not adjusted for price factors.' The current EN/PT-BR text and table disclose the comparable-basis and January–October period but omit this non-price-adjusted basis. The report places these investment rates beside real industrial value-added growth (+4.8%) and high-tech manufacturing growth (+17.6%), so readers cannot audit that the series use different price bases. 'Comparable basis' refers to year-on-year statistical comparability; it does not mean price-adjusted.",
+          "required_correction": "In both editions, explicitly state that the cited fixed-asset investment growth rates are not adjusted for price factors and must not be read as real-volume growth or compared one-for-one with real industrial value-added growth. Add the qualification to the China table's Basis column for all four investment rows. Preserve the January–October observation period and comparable-basis wording. Update pending producer_checks.source_vintage, evidence_traceability and revision_scope to record the price basis and the distinction from real output measures. Do not invent or substitute a deflator."
+        }
+      ],
+      "publication_prerequisites": [
+        "Before publication, the publisher must append a reconciliation-ledger run naming MT-GM-2026-11-22 and recording a decision for each of the seven active reconciliation-required assets in data/system-registry.json; the current ledger has no run naming this ID.",
+        "The repository build on reviewed HEAD fails independently on public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a defect in this candidate and was not modified by QA."
+      ],
+      "notes": "Revision 7 is a new pending/EN/PT-BR tuple and is not a replay of revision 6. The previous three-rejection limit remains intact. This material omission is recorded as a block, not a fourth rejection; rejection_count_for_id remains 3. No approval is authorized until the non-price-adjusted basis of the NBS fixed-asset series is disclosed in both locales and the evidence matrix. No public report, index, CSS, taxonomy or institutional content was changed."
     }
   ],
   "latest_block": {
     "qa_status": "blocked",
-    "revision": 6,
-    "blocked_at": "2026-11-22T12:11:27Z",
-    "reviewed_commit": "5374f8bc455143a5a0b087afdba8eac2fe736ec4",
-    "pending_blob_sha": "446d183b9486fe62054811f9cbf946c7b86a7b0e",
+    "revision": 7,
+    "blocked_at": "2026-11-22T12:59:16Z",
+    "reviewed_commit": "7567c0654ac7aca2f2b9cf83417e3986601b4125",
+    "pending_blob_sha": "4193ee1e66a45a13e50319b391d65c3ccb38332a",
     "source_blob_shas": {
-      "en": "81f4a8b1934149464c91c91a7d63714db5f0ca84",
-      "pt-BR": "4f77bd03c3341bf844f4ac35ad3af4e13cb9b6c6"
+      "en": "10d7f90b079d911a91f9a8e46fd1a16a9b1d7c6d",
+      "pt-BR": "615280e289bed5c46429f199648bf4bd05e28f74"
     },
     "rejection_count_for_id": 3,
     "no_new_rejection": true,
     "issue_codes": [
-      "BILINGUAL_PIPELINE_TERM_TRANSLATED_AS_PORTFOLIO"
+      "NBS_FIXED_ASSET_INVESTMENT_PRICE_BASIS_UNDISCLOSED"
     ],
     "issues": [
       {
         "severity": "material",
-        "code": "BILINGUAL_PIPELINE_TERM_TRANSLATED_AS_PORTFOLIO",
+        "code": "NBS_FIXED_ASSET_INVESTMENT_PRICE_BASIS_UNDISCLOSED",
         "paths": [
+          "data/pending/2026-11-22-global-macro.json",
           "staging/research/2026/11/2026-11-22-global-macro/en.md",
           "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
         ],
         "locations": [
-          "en.md:81 — heading 'The AI investment pipeline is global...'",
-          "pt-BR.md:81 — heading 'A carteira de investimentos em IA é global...'",
-          "en.md:173 — conclusion 'The AI infrastructure pipeline is global...'",
-          "pt-BR.md:173 — conclusion 'A carteira de infraestrutura de IA é global...'"
+          "en.md: section 4, paragraph beginning 'Fixed-asset investment excluding rural households fell 8.1%'; China table rows for fixed-asset, manufacturing, infrastructure and non-governmental investment",
+          "pt-BR.md: section 4, paragraph beginning 'O investimento em ativos fixos, excluídos os domicílios rurais, caiu 8,1%'; tabela China, linhas de investimento em ativos fixos, indústria de transformação, infraestrutura e investimento não governamental",
+          "pending v2: producer_checks.source_vintage and producer_checks.evidence_traceability",
+          "Reference [16], NBS, Investment in Fixed Assets from January to October 2026, 17 November 2026, note below table"
         ],
-        "evidence": "The English edition describes a pipeline of announced projects progressing through financing, equipment orders, construction, grid connection, operating capacity, adoption and measured productivity. The Portuguese edition translates 'pipeline' as 'carteira', which denotes a portfolio/holdings rather than the staged project pipeline central to the argument. The ECB's separate use of 'portfolio' for non-bank equity holdings is correctly retained; this term must not be conflated with the AI project pipeline.",
-        "required_correction": "Use 'pipeline de projetos de investimento em IA' or 'conjunto de projetos de infraestrutura de IA em desenvolvimento' in the PT-BR heading and conclusion, preserving the distinction between announced projects and operating capacity. Recheck the section-3 flow and conclusion for equivalent terminology. As a non-blocking precision cleanup, align the TFP chart label in both languages with the BLS category 'Agriculture, forestry, fishing, and hunting' / 'Agricultura, silvicultura, pesca e caça'."
+        "evidence": "The cited NBS release reports fixed-asset investment -8.1%, manufacturing investment -2.9%, infrastructure investment -5.1% and non-governmental fixed-asset investment -11.4%. Its table explicitly states: 'The growth rates in this table are not adjusted for price factors.' The current EN/PT-BR text and table disclose the comparable-basis and January–October period but omit this non-price-adjusted basis. The report places these investment rates beside real industrial value-added growth (+4.8%) and high-tech manufacturing growth (+17.6%), so readers cannot audit that the series use different price bases. 'Comparable basis' refers to year-on-year statistical comparability; it does not mean price-adjusted.",
+        "required_correction": "In both editions, explicitly state that the cited fixed-asset investment growth rates are not adjusted for price factors and must not be read as real-volume growth or compared one-for-one with real industrial value-added growth. Add the qualification to the China table's Basis column for all four investment rows. Preserve the January–October observation period and comparable-basis wording. Update pending producer_checks.source_vintage, evidence_traceability and revision_scope to record the price basis and the distinction from real output measures. Do not invent or substitute a deflator."
       }
     ],
     "publication_prerequisites": [
-      "The publisher must append a reconciliation-ledger run naming MT-GM-2026-11-22 and recording decisions for all seven active reconciliation-required assets in the same publication transaction; the current ledger has no run naming this ID.",
-      "The current repository build is independently blocked by public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a candidate defect and was not modified by QA."
+      "Before publication, the publisher must append a reconciliation-ledger run naming MT-GM-2026-11-22 and recording a decision for each of the seven active reconciliation-required assets in data/system-registry.json; the current ledger has no run naming this ID.",
+      "The repository build on reviewed HEAD fails independently on public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a defect in this candidate and was not modified by QA."
     ],
-    "notes": "Revision 6 is a new source tuple, not a replay of revision 5. The three-rejection limit remains intact: this is a block, not a fourth rejection. The prior revision-5 rejection and all previous rejection records remain unchanged. The candidate-specific strict pipeline passed and the candidate was not listed among editorial-depth failures; the remaining blocker is bilingual terminology. No approval is authorized until a corrected source tuple is submitted and independently reviewed."
+    "notes": "Revision 7 is a new pending/EN/PT-BR tuple and is not a replay of revision 6. The previous three-rejection limit remains intact. This material omission is recorded as a block, not a fourth rejection; rejection_count_for_id remains 3. No approval is authorized until the non-price-adjusted basis of the NBS fixed-asset series is disclosed in both locales and the evidence matrix. No public report, index, CSS, taxonomy or institutional content was changed."
   }
 }
