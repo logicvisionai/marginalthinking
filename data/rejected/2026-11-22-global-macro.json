@@ -161,7 +161,7 @@
       "pending_blob_sha": "446d183b9486fe62054811f9cbf946c7b86a7b0e",
       "source_blob_shas": {
         "en": "81f4a8b1934149464c91c91a7d63714db5f0ca84",
-        "pt-BR": "4f77bd03c3341bf844f4ac9de1b5f0ca84"
+        "pt-BR": "4f77bd03c3341bf844f4ac35ad3af4e13cb9b6c6"
       },
       "rejection_count_for_id": 3,
       "no_new_rejection": true,
@@ -201,7 +201,7 @@
     "pending_blob_sha": "446d183b9486fe62054811f9cbf946c7b86a7b0e",
     "source_blob_shas": {
       "en": "81f4a8b1934149464c91c91a7d63714db5f0ca84",
-      "pt-BR": "4f77bd03c3341bf844f4ac9de1b5f0ca84"
+      "pt-BR": "4f77bd03c3341bf844f4ac35ad3af4e13cb9b6c6"
     },
     "rejection_count_for_id": 3,
     "no_new_rejection": true,
