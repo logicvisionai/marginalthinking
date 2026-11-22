@@ -2,156 +2,140 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-22",
   "slug": "2026-11-22-global-macro",
-  "revision": 3,
-  "rejection_count_for_id": 1,
+  "revision": 4,
+  "rejection_count_for_id": 2,
   "rejection_loop_limit_reached": false,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-22T09:53:51Z",
-  "reviewed_commit": "9b459b4f3c403d44012e34899a7b6e4036d0eff5",
-  "pending_blob_sha": "40df0e574b7b7a0d8f21fcaaa1c0b31984eb1cc9",
+  "reviewed_at": "2026-11-22T11:20:13Z",
+  "reviewed_commit": "65dacaf0ef30f5578cb4eac6c3150131f93af642",
+  "pending_blob_sha": "45994a8382a157c18239cd15d77f0737a4833ef0",
   "source_blob_shas": {
-    "en": "b0d98e6a38773f6089c4c0b170dbf3583c10dc1c",
-    "pt-BR": "a2c10ff4a93dad6cb8347da2ec907c0f5fff044e"
+    "en": "4d68c48ad54fc78edb6c2677d65167d845f97ea2",
+    "pt-BR": "b7fbad0b131ca8588c1dc9f63fffeeeb6ada4cd0"
   },
-  "previous_rejections": [],
+  "previous_rejections": [
+    {
+      "revision": 3,
+      "rejection_record_blob_sha": "df47745331e91a356c65c38bf1cadc836542c0a9",
+      "pending_blob_sha": "40df0e574b7b7a0d8f21fcaaa1c0b31984eb1cc9",
+      "source_blob_shas": {
+        "en": "b0d98e6a38773f6089c4c0b170dbf3583c10dc1c",
+        "pt-BR": "a2c10ff4a93dad6cb8347da2ec907c0f5fff044e"
+      },
+      "issue_codes": [
+        "NBS_FUEL_POWER_INDEX_PRIMARY_SOURCE_MISSING",
+        "IEA_OBSERVED_INVENTORY_COMPOSITION_OMITTED",
+        "IEA_DIESEL_AND_FREIGHT_GEOGRAPHY_OVERGENERALIZED",
+        "WAR_TRANSMISSION_NOT_ATTRIBUTED_DESPITE_WAR_PHENOMENON"
+      ]
+    }
+  ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both complete staged Markdown editions were read from the exact reviewed HEAD. The three reviewed Git blob SHAs match the files at that HEAD; no content corruption or SHA mismatch was found."
+      "summary": "Pending v2 and both complete staged Markdown editions were read from the exact reviewed HEAD. Git blob SHAs match the files at HEAD: pending 45994a8382a157c18239cd15d77f0737a4833ef0, EN 4d68c48ad54fc78edb6c2677d65167d845f97ea2, PT-BR b7fbad0b131ca8588c1dc9f63fffeeeb6ada4cd0. The three-blob tuple differs from the previous rejected revision."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending schema_version 2, canonical ID/slug, revision 3, daily-global-macro kind, registered political-economy-markets program, taxonomy values and required fields are valid. The war-armed-conflict phenomenon is a valid controlled value; its editorial treatment is assessed separately."
+      "summary": "Pending schema_version 2, ready=true, canonical ID/slug, revision 4, daily-global-macro kind, controlled political-economy-markets program, dimensions, geography, topics, phenomena, format and cadence are valid. The war-armed-conflict phenomenon is controlled and its conflict-related claims are attributed in the revised text."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The 22 November 2026 05:00 BRT cutoff is explicit. The 20 November market close and the cited BLS, NBS, Statistics Bureau of Japan, European Commission, Eurostat, ECB, Treasury, BCB, IBGE and IEA releases predate the cutoff. Eurostat reference [8] now points to the 18 November final October HICP release, not the 4 November flash estimate."
+      "summary": "The 22 November 2026 05:00 BRT information cutoff is explicit. All cited source releases and market observations predate the cutoff. The additional claim-specific NBS fixed-asset release required for the current China investment figures was published on 17 November 2026, also before cutoff, but is absent from both current bibliographies; this is recorded separately as an evidence-traceability failure."
     },
     "factual_methodology": {
       "result": "failed",
-      "summary": "The numerical values checked are generally accurate, but the China fuel-and-power purchasing-price claim is not linked to its claim-specific NBS release. The IEA inventory total is presented without its material on-water/on-land composition; the US$180 diesel price and freight description are not geographically or operationally scoped. The report classifies war-armed-conflict but does not attribute the conflict-related oil transmission in the body."
+      "summary": "The reported China fixed-asset investment values are supported by a separate NBS release not cited in either edition. In addition, the 11.4% series is labelled 'private investment' in EN and 'investimento privado' in PT-BR, whereas the NBS source classifies it as 'non-governmental investment in fixed assets'. The category must not be broadened or relabelled."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "Reference [5] supports the NBS headline PPI and industrial purchasing-price rates but does not contain the 18.6% fuel-and-power sub-index. The exact official NBS source is a separate 10 November release and is absent from both bibliographies. IEA reference [14] is present, but the prose omits the source's material inventory composition and the European scope of the diesel price."
+      "summary": "The paragraph and table in both editions attach NBS reference [5] to fixed-asset investment (-8.1%), manufacturing investment (-2.9%), infrastructure investment (-5.1%) and the 11.4% non-governmental investment figure. Reference [5] is the 16 November National Economy release and does not contain the fixed-asset investment series. The claim-specific primary source is the separate NBS release 'Investment in Fixed Assets from January to October 2026', published 17 November 2026, at https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html. It reports the exact -8.1%, -2.9%, -5.1% and -11.4% values, with the last explicitly defined as non-governmental investment in fixed assets."
     },
     "research_depth": {
       "result": "passed",
       "reviewed_word_counts": {
-        "en": 3408,
-        "pt-BR": 4113
+        "en": "passed repository threshold",
+        "pt-BR": "passed repository threshold"
       },
-      "summary": "Both editions exceed the 1,700-word daily floor, have ten analytical H2 sections, conditional interpretation, competing explanations, scenarios, disconfirming indicators and explicit limitations. The report adds a distinct 2025 industry TFP observation and a cross-asset AI repricing thesis."
+      "summary": "The exact revision-4 staged tuple was included in GitHub Actions run 45011914613, pending-research job. scripts/validate-editorial-depth.mjs executed and did not list MT-GM-2026-11-22 among the failures. Both editions retain the analytical thesis, eight substantive sections, regional distinctions, conditional scenarios, competing explanations and falsifiers."
     },
     "visual_evidence_readiness": {
-      "result": "preliminary_pass",
-      "summary": "Manual inspection finds two data-linked charts, three evidence tables, one causal flow and one regional map in each edition. The BLS industry TFP series and quarterly productivity/unit-labour-cost series match the cited source; extracted chart numeric series are identical across EN/PT-BR. The visual/depth workflow step was skipped by CI after an earlier repository-wide validation failure, so no strict script pass is claimed."
+      "result": "passed",
+      "summary": "Both editions contain two explicit BLS-linked charts, evidence tables, one causal flow and one regional map. The chart values and units are reproducible from the cited BLS series; the map uses regional comparison cards rather than invented coordinates. Visual structures and numeric series are semantically aligned across EN/PT-BR. The exact candidate was not listed among the visual/depth failures in run 45011914613."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "The material numerical claims, charts, map, causal flow and analytical structure are mirrored in EN and PT-BR. The identified source-scope and conflict-attribution defects appear consistently in both editions; no chart-series divergence was found."
+      "summary": "The material values, periods, tables, charts, flow, map and analytical structure are mirrored across EN/PT-BR. The unsupported NBS citation and the incorrect 'private/non-governmental' classification appear consistently in both editions; parity does not cure the factual/source defect."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The editions distinguish observation from inference and include conditional scenarios, alternative explanations, indicators that would weaken the interpretation and explicit limits on causal attribution."
+      "summary": "The report distinguishes observation from inference, presents diffusion/concentration/adverse scenarios, identifies contrary evidence and states conditions that would weaken the productivity-diffusion and market-stress interpretations."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "The report's industry-level TFP release, AI-capital repricing and cross-region productivity-diffusion framing are distinct from the preceding daily Global Macro editions."
+      "summary": "The 2025 industry-level TFP release and the comparison between AI investment announcements, realized operating capacity and measured productivity provide a distinct analytical delta from the preceding 17, 18 and 21 November Global Macro editions."
     },
     "system_registry_reconciliation": {
       "result": "not_run",
-      "summary": "The candidate has no public metadata yet, so the publication-stage per-report reconciliation has not been created. The publisher must append a run naming MT-GM-2026-11-22 and record decisions for all seven active reconciliation-required assets before or in the same transaction as publication."
+      "summary": "The candidate has no public metadata and is not eligible for publication. If a future revision passes QA, the publisher must record the report ID and an evidence-based decision for each active reconciliation-required registry asset before or in the same publication transaction."
     },
     "editorial_depth_script": {
-      "result": "not_run",
-      "summary": "The GitHub build stopped at validate-research before the editorial-depth step. The script's deterministic candidate thresholds were manually reproduced: both locales exceed 1,700 words, have 15 source URLs across 12 hosts, two charts, at least one flow, one map, three or more table rows, ten H2 sections, dated observations and matching chart numeric series. This is a manual threshold check, not an executed script result."
+      "result": "passed",
+      "summary": "The strict editorial-depth step executed in GitHub Actions run 45011914613 against the exact reviewed HEAD. The candidate was not present in the failure list. This is an observed workflow result, not a claim of a separate local execution."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "GitHub Actions run 45008487675 executed scripts/validate-pipeline.mjs successfully: 208 public bundles, zero approved-unpublished items and six legacy pending items already public. The candidate is intentionally excluded from the default production-pipeline draft checks because it has no QA approval."
+      "summary": "GitHub Actions run 45011914613 executed scripts/validate-pipeline.mjs successfully in the pending-research job: 208 public bundles, 20 unpublished pending items, 0 approved-unpublished items and 6 legacy pending items already public. The current candidate remains unapproved and unpublished."
     },
     "repository_build": {
       "result": "failed",
-      "summary": "The same GitHub Actions build failed later in validate-research on pre-existing public MT-GM-2026-11-18 revision 5, EN and PT-BR, due to editorial self-reference. Visual-semantics, generated-site and editorial-depth steps were skipped. This is a repository-wide blocker unrelated to the current candidate's staged files."
+      "summary": "GitHub Actions run 45011914597 failed after validate-pipeline.mjs passed. scripts/validate-research.mjs stopped on pre-existing editorial self-reference in already-public MT-GM-2026-11-18 revision 5, EN and PT-BR. Visual semantics, generated-site checks and deployment were skipped. This repository-wide failure is unrelated to the current candidate's staged fingerprints."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Publication is withheld for four material issues: missing claim-specific NBS primary reference; omitted IEA inventory composition; overgeneralized diesel-price/freight geography; and insufficient attribution of the war-related energy transmission despite the controlled war-armed-conflict classification."
+      "summary": "Publication is withheld for two material China-data defects: the fixed-asset investment claims lack their claim-specific NBS reference in both editions, and the 11.4% non-governmental fixed-asset investment series is incorrectly labelled as private investment. The source inventory and metadata must be updated together with the bibliography."
     }
   },
   "confidence": "high",
   "limitations": [
-    "The 18.6% China fuel-and-power purchasing-price value is accurate, but the current reference [5] is not the release that contains the sub-index; the claim-specific official NBS release is identified in the issue record.",
-    "The IEA's 52 mb observed-inventory increase is not a broad on-land stock recovery: oil on water rose 86 mb, while on-land stocks continued falling to their lowest level since at least 2016 and OECD total stocks fell 47 mb.",
-    "The IEA's near-US$180/bbl diesel price is specifically for Europe; the near-record freight statement refers to crude moving from the Middle East to Asia, while Aframax and Suezmax costs eased.",
-    "The strict editorial-depth script was not executed against this unapproved pending item; manual reproduction of its deterministic thresholds passed.",
-    "The repository build failure is caused by the already-public MT-GM-2026-11-18 revision 5, not by this candidate.",
-    "No reconciliation run yet names this not-yet-public report. The publisher must reconcile it against all seven active required assets if and when it becomes eligible for publication."
+    "The fixed-asset investment values are accurate in the NBS release published 17 November 2026, but that release is absent from the current EN/PT-BR reference lists; reference [5] does not support those values.",
+    "NBS classifies the 11.4% series as non-governmental investment in fixed assets, not private investment. The report's current labels in both languages are not source-equivalent.",
+    "The strict editorial-depth script executed through GitHub Actions; the candidate did not appear in the failure list. No separate local script execution is claimed.",
+    "The repository build is blocked by the pre-existing public MT-GM-2026-11-18 revision-5 self-reference failure, not by this candidate.",
+    "No system-registry reconciliation run yet names this unpublished candidate. The publisher must reconcile the report if a future revision is approved."
   ],
   "issues": [
     {
       "severity": "material",
-      "code": "NBS_FUEL_POWER_INDEX_PRIMARY_SOURCE_MISSING",
-      "paths": [
-        "staging/research/2026/11/2026-11-22-global-macro/en.md",
-        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md",
-        "data/pending/2026-11-22-global-macro.json"
-      ],
-      "locations": [
-        "en.md:117, sentence 'Fuel and power purchasing prices increased 18.6%.'",
-        "pt-BR.md:117, sentence 'Os preços de compra de combustíveis e energia cresceram 18,6%.'",
-        "Reference [5] in both editions"
-      ],
-      "evidence": "The cited NBS National Economy October release at https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html supports the October industrial PPI increase of 5.7%, industrial purchasing-price increase of 7.9% and the bureau's strong-supply/weak-demand statement, but it does not report the 18.6% fuel-and-power purchasing-price sub-index. The claim-specific primary source is the separate NBS release 'Industrial Producer Price Indexes in October 2026', published 10 November 2026, at https://www.stats.gov.cn/english/PressRelease/202611/t20261111_1965806.html; it reports fuel and power purchasing prices up 18.6% year on year and 4.1% month on month. The number is correct; the cited source is incomplete.",
-      "required_correction": "Add the claim-specific NBS Industrial Producer Price Indexes in October 2026 release as a separate numbered reference in both editions and cite it immediately after the 18.6% claim. Keep reference [5] for the macro release and its strong-supply/weak-demand statement. Recalculate the source inventory and source count in the pending sidecar, then resubmit with new exact pending and EN/PT-BR blob SHAs."
-    },
-    {
-      "severity": "material",
-      "code": "IEA_OBSERVED_INVENTORY_COMPOSITION_OMITTED",
-      "paths": [
-        "staging/research/2026/11/2026-11-22-global-macro/en.md",
-        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:129, sentence reporting a 52 million barrel increase in observed inventories",
-        "pt-BR.md:129, sentence reporting a 52 million barrel increase in observed inventories",
-        "Reference [14]"
-      ],
-      "evidence": "The IEA November 2026 Oil Market Report at https://www.iea.org/reports/oil-market-report-november-2026 says observed inventories rose 52 mb in October because oil on water surged by 86 mb to its highest level since January. It also says on-land stocks continued to fall and remained at their lowest level since at least 2016, while OECD total stocks declined by 47 mb and industry inventories by 41 mb. The staged editions report only the +52 mb aggregate. In an analysis that uses inventory change to interpret the crude/product split, omitting the composition materially obscures why a higher observed total coexists with continued physical tightness.",
-      "required_correction": "Qualify the 52 mb aggregate with the IEA's composition: +86 mb oil on water, continued decline in on-land stocks to the lowest level since at least 2016, and the 47 mb OECD stock decline (41 mb industry inventories). Explain that the observed total increase does not demonstrate a broad recovery in accessible on-land inventories. Preserve the IEA's measurement window and units in both editions."
-    },
-    {
-      "severity": "material",
-      "code": "IEA_DIESEL_AND_FREIGHT_GEOGRAPHY_OVERGENERALIZED",
-      "paths": [
-        "staging/research/2026/11/2026-11-22-global-macro/en.md",
-        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:129, sentence 'tight diesel supply, with prices near US$180 per barrel and freight costs elevated.'",
-        "pt-BR.md:129, sentence 'oferta apertada de diesel, com preços próximos de US$ 180 por barril e custos de frete elevados.'",
-        "Reference [14]"
-      ],
-      "evidence": "The IEA November 2026 Oil Market Report at https://www.iea.org/reports/oil-market-report-november-2026 identifies severe product-supply tightness, especially diesel, but the near-US$180/bbl price is specifically European diesel, which had fallen 11% over the period while remaining 77% above pre-war levels. The near-record freight statement concerns crude moving from the Middle East to Asia; the same release says Aframax and Suezmax costs eased. The staged wording removes these geographic and operational qualifiers and can be read as a global diesel price and a uniform freight-cost increase.",
-      "required_correction": "State explicitly that the near-US$180/bbl observation is European diesel and identify the IEA's reference period; distinguish it from the global product-supply assessment. Specify that Middle East-to-Asia crude freight rates remained near record levels while Aframax and Suezmax costs eased. Do not generalize either observation to all diesel markets or all freight classes."
-    },
-    {
-      "severity": "material",
-      "code": "WAR_TRANSMISSION_NOT_ATTRIBUTED_DESPITE_WAR_PHENOMENON",
+      "code": "NBS_FIXED_ASSET_INVESTMENT_PRIMARY_SOURCE_MISSING",
       "paths": [
         "data/pending/2026-11-22-global-macro.json",
         "staging/research/2026/11/2026-11-22-global-macro/en.md",
         "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
       ],
       "locations": [
-        "pending.phenomena[0] (war-armed-conflict)",
-        "en.md:129, generic reference to renewed disruption to shipping and refining",
-        "pt-BR.md:129, generic reference to renewed disruption in transport and refining",
-        "en.md:135 and pt-BR.md:135, 'geopolitical channels' without naming or attributing the material conflict transmission"
+        "en.md:103, paragraph beginning 'Fixed-asset investment excluding rural households fell 8.1%...'; en.md:111 and en.md:114, China table; reference [5]",
+        "pt-BR.md:103, paragraph beginning 'O investimento em ativos fixos...'; pt-BR.md:111 and pt-BR.md:114, China table; reference [5]",
+        "pending.sources.en.watch and pending.sources.pt-BR.watch; pending.signal_rationale.evidence; pending.producer_checks.source_vintage; pending.source_audit"
       ],
-      "evidence": "The pending sidecar classifies war-armed-conflict. The cited Reuters market report at https://live.euronext.com/en/financial-news/tech-leads-global-stocks-rout-treasury-yields-fall says crude prices rose late on 20 November on worries about possible attacks in the U.S.-Israeli war with Iran. The cited IEA report at https://www.iea.org/reports/oil-market-report-november-2026 reports ongoing attacks on energy infrastructure and tankers, Gulf exports of 18.4 mb/d (26% below pre-war levels), crude flows of 15 mb/d (82% of pre-war levels), and a cumulative 462 mb decline in observed global stocks since the start of the war. The staged body reduces this material transmission to generic 'geopolitical channels' and a conditional risk of disruption without identifying the source-attributed conflict or separating reported attacks from measured supply effects. CONFLICT-SECURITY-SOCIAL-CHANGE.md requires attribution of stated objectives/claims, separation of claims from verified effects and an evidenced transmission mechanism.",
-      "required_correction": "In both editions, attribute Reuters' report that crude rose on concerns about possible attacks in the U.S.-Israeli war with Iran. Attribute to the IEA its reporting of ongoing attacks on energy infrastructure and tankers, and distinguish those reports from measured effects such as Gulf export volumes and the pre-war comparison. Do not assert that the war alone explains the price move. If the conflict is not to be analyzed as a material cross-cutting phenomenon, remove war-armed-conflict from pending metadata and keep the energy risk explicitly conditional."
+      "evidence": "The current bibliography's reference [5] is the NBS release 'National Economy was Generally Stable with Innovation-Led and High-Quality Development in October', published 16 November 2026: https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html. That page supports the 4.8% industrial value-added, 17.6% high-tech manufacturing, 10.6% equipment manufacturing, 0.4% October retail-sales and 49.3 PMI observations, but it does not contain the fixed-asset investment series. The separate primary release 'Investment in Fixed Assets from January to October 2026', published 17 November 2026, is at https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html. It reports fixed-asset investment excluding rural households down 8.1%, manufacturing investment down 2.9%, and infrastructure investment down 5.1% year on year. It is within the stated 22 November 05:00 BRT cutoff. The current staged paragraph attaches [5] to all these claims, so a reader cannot reproduce them from the cited bibliography.",
+      "required_correction": "Add the 17 November NBS Investment in Fixed Assets release as a separate numbered reference in both EN and PT-BR editions; cite it directly after the fixed-asset investment paragraph and the affected table rows. Keep reference [5] for the 16 November industrial-production, retail and PMI data. Recalculate pending.source_audit from the final bibliography: the expected inventory after adding this URL is 17 references, 12 distinct hostnames, 16 primary institutional sources and 1 market-reporting source. Update producer_checks.source_vintage, revision_scope and evidence metadata, then resubmit with new pending and both Markdown blob SHAs."
+    },
+    {
+      "severity": "material",
+      "code": "NBS_NON_GOVERNMENTAL_FIXED_ASSET_INVESTMENT_MISLABELED_PRIVATE",
+      "paths": [
+        "data/pending/2026-11-22-global-macro.json",
+        "staging/research/2026/11/2026-11-22-global-macro/en.md",
+        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:103, 'private investment 11.4%'; en.md:114, 'Private investment'; en.md:117 and en.md:169",
+        "pt-BR.md:103, 'investimento privado 11,4%'; pt-BR.md:114, 'Investimento privado'; pt-BR.md:117 and pt-BR.md:169",
+        "pending.sources.en.watch, pending.sources.pt-BR.watch and pending.signal_rationale.falsifier"
+      ],
+      "evidence": "The claim-specific NBS release at https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html labels the 11.4% series 'non-governmental investment in fixed assets' (lines 30 and 38) and distinguishes it from the separate registration categories for domestic-invested, Hong Kong/Macao/Taiwan-funded and foreign-invested enterprises (lines 29 and 73-76). The staged editions call the figure 'private investment' and 'investimento privado'. Those labels are not the source's statistical category and can be read as a broader private-sector measure than the published non-governmental fixed-asset series.",
+      "required_correction": "Use 'non-governmental investment in fixed assets' in EN and 'investimento não governamental em ativos fixos' in PT-BR wherever the 11.4% series is discussed. Do not call it simply private investment. Update the paragraph, table row, interpretation paragraph, scenario/falsifier language and pending watch/search metadata so the statistical category remains consistent."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
@@ -159,5 +143,5 @@
     "max_new_rejections_per_id": 3,
     "source_sha_must_change_before_recheck": true
   },
-  "notes": "First new rejection for MT-GM-2026-11-22, revision 3. The exact pending and EN/PT-BR fingerprints are new and no prior rejection, approval or public metadata exists for this ID. The HICP correction in revision 3 is valid, but four other material source-scope and conflict-attribution issues prevent publication. Retrabalho routed to MT 1/5 — Diário e Radar through the canonical rejected sidecar. No approval or publication authorization."
+  "notes": "Second rejection for MT-GM-2026-11-22, revision 4. The pending and both staged Markdown blob SHAs differ from the first rejected revision 3 tuple, so this is a new submission rather than a replay. The revision-3 corrections to the claim-specific fuel-and-power NBS source, IEA inventory composition, Europe-specific diesel/freight scope and conflict attribution are retained and verified. The new material defects concern the separate NBS fixed-asset investment release and the source's non-governmental-investment classification. Retrabalho owner: MT 1/5 — Diário e Radar. No approval or publication authorization. No public report, index, CSS, taxonomy or institutional content was modified."
 }
