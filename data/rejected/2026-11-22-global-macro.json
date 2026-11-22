@@ -2,16 +2,16 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-22",
   "slug": "2026-11-22-global-macro",
-  "revision": 4,
-  "rejection_count_for_id": 2,
-  "rejection_loop_limit_reached": false,
+  "revision": 5,
+  "rejection_count_for_id": 3,
+  "rejection_loop_limit_reached": true,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-22T11:20:13Z",
-  "reviewed_commit": "65dacaf0ef30f5578cb4eac6c3150131f93af642",
-  "pending_blob_sha": "45994a8382a157c18239cd15d77f0737a4833ef0",
+  "reviewed_at": "2026-11-22T11:43:34Z",
+  "reviewed_commit": "808897b47df40a3c4eafa3bb8a33d0ded2b96088",
+  "pending_blob_sha": "438b3f9271cb92fc7c465de76c682ba692c3cdb2",
   "source_blob_shas": {
-    "en": "4d68c48ad54fc78edb6c2677d65167d845f97ea2",
-    "pt-BR": "b7fbad0b131ca8588c1dc9f63fffeeeb6ada4cd0"
+    "en": "a08cd4ec635e1cbde0f720dc84334a3defccf048",
+    "pt-BR": "e0bacd72cc36d68d91c6e93e5937b2c5830a614f"
   },
   "previous_rejections": [
     {
@@ -28,120 +28,128 @@
         "IEA_DIESEL_AND_FREIGHT_GEOGRAPHY_OVERGENERALIZED",
         "WAR_TRANSMISSION_NOT_ATTRIBUTED_DESPITE_WAR_PHENOMENON"
       ]
+    },
+    {
+      "revision": 4,
+      "rejection_record_blob_sha": "ddce4a57a34e1faf2cac1e18d28f2f311e8b9298",
+      "pending_blob_sha": "45994a8382a157c18239cd15d77f0737a4833ef0",
+      "source_blob_shas": {
+        "en": "4d68c48ad54fc78edb6c2677d65167d845f97ea2",
+        "pt-BR": "b7fbad0b131ca8588c1dc9f63fffeeeb6ada4cd0"
+      },
+      "issue_codes": [
+        "NBS_FIXED_ASSET_INVESTMENT_PRIMARY_SOURCE_MISSING",
+        "NBS_NON_GOVERNMENTAL_FIXED_ASSET_INVESTMENT_MISLABELED_PRIVATE"
+      ]
     }
   ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both complete staged Markdown editions were read from the exact reviewed HEAD. Git blob SHAs match the files at HEAD: pending 45994a8382a157c18239cd15d77f0737a4833ef0, EN 4d68c48ad54fc78edb6c2677d65167d845f97ea2, PT-BR b7fbad0b131ca8588c1dc9f63fffeeeb6ada4cd0. The three-blob tuple differs from the previous rejected revision."
+      "summary": "Pending v2 and both complete staged editions were re-read at main HEAD 808897b47df40a3c4eafa3bb8a33d0ded2b96088. Exact Git blob tuple: pending 438b3f9271cb92fc7c465de76c682ba692c3cdb2; EN a08cd4ec635e1cbde0f720dc84334a3defccf048; PT-BR e0bacd72cc36d68d91c6e93e5937b2c5830a614f. The tuple differs from revision 4. No approval or public metadata exists for this ID/revision."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending schema_version 2, ready=true, canonical ID/slug, revision 4, daily-global-macro kind, controlled political-economy-markets program, dimensions, geography, topics, phenomena, format and cadence are valid. The war-armed-conflict phenomenon is controlled and its conflict-related claims are attributed in the revised text."
+      "summary": "Pending schema_version 2, ready=true, canonical ID/slug, revision 5, daily-global-macro kind, political-economy-markets primary program, global-system-power related program, controlled dimensions/topics/geography/phenomena, brief format and daily cadence are valid. war-armed-conflict is a controlled phenomenon; conflict transmission is attributed to IEA and Reuters rather than asserted as an unqualified causal estimate."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The 22 November 2026 05:00 BRT information cutoff is explicit. All cited source releases and market observations predate the cutoff. The additional claim-specific NBS fixed-asset release required for the current China investment figures was published on 17 November 2026, also before cutoff, but is absent from both current bibliographies; this is recorded separately as an evidence-traceability failure."
+      "summary": "The 22 November 2026 05:00 BRT cutoff is explicit. The new NBS fixed-asset release is dated 17 November; BLS, Fed, Reuters, Japan CPI and other cited releases are dated no later than 20 November. The cited data precede the stated cutoff."
     },
     "factual_methodology": {
       "result": "failed",
-      "summary": "The reported China fixed-asset investment values are supported by a separate NBS release not cited in either edition. In addition, the 11.4% series is labelled 'private investment' in EN and 'investimento privado' in PT-BR, whereas the NBS source classifies it as 'non-governmental investment in fixed assets'. The category must not be broadened or relabelled."
+      "summary": "The Reuters market-close Treasury yields (10-year 4.948%, 2-year 4.647%) are attached to both references [9] and [10]. Reference [10] is the Treasury par-yield-curve series, which reports 4.92% and 4.63% for 20 November and uses indicative bid-side quotations at or near 3:30 p.m. The report does not distinguish these series or explain the differing observations. Separately, the PT-BR ECB exposure sentence omits the source's 'US technology' scope, changing the population described."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "The paragraph and table in both editions attach NBS reference [5] to fixed-asset investment (-8.1%), manufacturing investment (-2.9%), infrastructure investment (-5.1%) and the 11.4% non-governmental investment figure. Reference [5] is the 16 November National Economy release and does not contain the fixed-asset investment series. The claim-specific primary source is the separate NBS release 'Investment in Fixed Assets from January to October 2026', published 17 November 2026, at https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html. It reports the exact -8.1%, -2.9%, -5.1% and -11.4% values, with the last explicitly defined as non-governmental investment in fixed assets."
+      "summary": "Reference [10] does not reproduce the exact 4.948%/4.647% market-close observations attached to it. The U.S. Treasury daily par curve for 20 November shows 4.92% (10-year) and 4.63% (2-year), while Reuters [9] reports 4.948% and 4.647%. The report must cite Reuters alone for those market-close values or separately label the Treasury par-curve series and its different observation time/method. ECB FSR page 81 states that non-banks' holdings in US technology and AI-related firms account for 16%-26% of equity investments; PT-BR line 95 says only 'empresas relacionadas à IA', omitting US technology holdings."
     },
     "research_depth": {
       "result": "passed",
-      "reviewed_word_counts": {
-        "en": "passed repository threshold",
-        "pt-BR": "passed repository threshold"
-      },
-      "summary": "The exact revision-4 staged tuple was included in GitHub Actions run 45011914613, pending-research job. scripts/validate-editorial-depth.mjs executed and did not list MT-GM-2026-11-22 among the failures. Both editions retain the analytical thesis, eight substantive sections, regional distinctions, conditional scenarios, competing explanations and falsifiers."
+      "summary": "Human review found a distinct analytical thesis linking industry-level TFP breadth, AI capital deployment, financing sensitivity and cross-region transmission. The report includes competing explanations, explicit limitations and falsifiers. Static diagnostics on both current editions exceed the daily brief minimums: each has 17 source URLs across 12 hostnames, 10 analytical headings, two explicit charts, a causal flow, a regional map and three evidence tables. The exact editorial-depth script result for this revision is not isolated from the combined failing workflow job; see editorial_depth_script."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both editions contain two explicit BLS-linked charts, evidence tables, one causal flow and one regional map. The chart values and units are reproducible from the cited BLS series; the map uses regional comparison cards rather than invented coordinates. Visual structures and numeric series are semantically aligned across EN/PT-BR. The exact candidate was not listed among the visual/depth failures in run 45011914613."
+      "summary": "Both editions contain two explicit charts, three evidence tables, one causal flow and one regional map. The map uses regional comparison cards and does not invent coordinates. Chart numeric series are identical across EN/PT-BR: the 19-industry TFP series and Q3 productivity/unit-labour-cost series. Units and observation periods are labelled; no visual data are fabricated."
     },
     "bilingual_equivalence": {
-      "result": "passed",
-      "summary": "The material values, periods, tables, charts, flow, map and analytical structure are mirrored across EN/PT-BR. The unsupported NBS citation and the incorrect 'private/non-governmental' classification appear consistently in both editions; parity does not cure the factual/source defect."
+      "result": "failed",
+      "summary": "EN line 95 describes holdings in 'U.S. technology and AI-related firms'. PT-BR line 95 describes only 'empresas relacionadas à IA'. This removes the U.S.-technology exposure component and changes the scope of the ECB finding. The values and surrounding paragraph structure otherwise align."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report distinguishes observation from inference, presents diffusion/concentration/adverse scenarios, identifies contrary evidence and states conditions that would weaken the productivity-diffusion and market-stress interpretations."
+      "summary": "The report identifies adverse and alternative explanations, distinguishes observed productivity from announced AI projects and states falsifiers involving broader TFP gains, Chinese investment and demand, realized data-centre utilization and financing spreads."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "The 2025 industry-level TFP release and the comparison between AI investment announcements, realized operating capacity and measured productivity provide a distinct analytical delta from the preceding 17, 18 and 21 November Global Macro editions."
+      "summary": "The 20 November BLS industry-level TFP release and the comparison between AI investment announcements, realized operating capacity and measured productivity add a distinct analytical delta from the 17, 18 and 21 November Global Macro editions."
     },
     "system_registry_reconciliation": {
       "result": "not_run",
-      "summary": "The candidate has no public metadata and is not eligible for publication. If a future revision passes QA, the publisher must record the report ID and an evidence-based decision for each active reconciliation-required registry asset before or in the same publication transaction."
+      "summary": "The item remains unpublished. Before publication, the publisher must record a decision for all seven active reconciliation-required assets in data/system-registry.json, naming MT-GM-2026-11-22 in the reconciliation run."
     },
     "editorial_depth_script": {
-      "result": "passed",
-      "summary": "The strict editorial-depth step executed in GitHub Actions run 45011914613 against the exact reviewed HEAD. The candidate was not present in the failure list. This is an observed workflow result, not a claim of a separate local execution."
+      "result": "not_verified",
+      "summary": "The exact-head editorial-health workflow run 45017929830 failed in job pending-research at the combined step that executes scripts/validate-pipeline.mjs followed by scripts/validate-editorial-depth.mjs. The job result does not isolate which command failed or expose a candidate-specific failure list through the available job response. Static candidate diagnostics were checked separately; no claim of a successful exact-revision script run is made."
     },
     "pipeline_validation": {
-      "result": "passed",
-      "summary": "GitHub Actions run 45011914613 executed scripts/validate-pipeline.mjs successfully in the pending-research job: 208 public bundles, 20 unpublished pending items, 0 approved-unpublished items and 6 legacy pending items already public. The current candidate remains unapproved and unpublished."
+      "result": "not_verified",
+      "summary": "The exact-head editorial-health pending-research job 137194177523 failed at its combined validation step. The separate public build run 45017929829 also failed in 'Validate and build'. The candidate-specific pipeline result cannot be isolated from the available job metadata; no passing execution is claimed."
     },
     "repository_build": {
       "result": "failed",
-      "summary": "GitHub Actions run 45011914597 failed after validate-pipeline.mjs passed. scripts/validate-research.mjs stopped on pre-existing editorial self-reference in already-public MT-GM-2026-11-18 revision 5, EN and PT-BR. Visual semantics, generated-site checks and deployment were skipped. This repository-wide failure is unrelated to the current candidate's staged fingerprints."
+      "summary": "GitHub Actions run 45017929829 for exact HEAD ${expectedHead} completed with failure; the deploy job was skipped. This is a repository-wide build failure, not evidence that the candidate was published. The previously identified public MT-GM-2026-11-18 revision-5 self-reference remains a known unrelated defect."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Publication is withheld for two material China-data defects: the fixed-asset investment claims lack their claim-specific NBS reference in both editions, and the 11.4% non-governmental fixed-asset investment series is incorrectly labelled as private investment. The source inventory and metadata must be updated together with the bibliography."
+      "summary": "Approval is withheld for two material issues: (1) the PT-BR ECB exposure statement omits the source's U.S.-technology component; (2) the Treasury par-yield-curve reference is attached to market-close yields that differ from the official par-curve observations, with no methodological distinction."
     }
   },
   "confidence": "high",
   "limitations": [
-    "The fixed-asset investment values are accurate in the NBS release published 17 November 2026, but that release is absent from the current EN/PT-BR reference lists; reference [5] does not support those values.",
-    "NBS classifies the 11.4% series as non-governmental investment in fixed assets, not private investment. The report's current labels in both languages are not source-equivalent.",
-    "The strict editorial-depth script executed through GitHub Actions; the candidate did not appear in the failure list. No separate local script execution is claimed.",
-    "The repository build is blocked by the pre-existing public MT-GM-2026-11-18 revision-5 self-reference failure, not by this candidate.",
-    "No system-registry reconciliation run yet names this unpublished candidate. The publisher must reconcile the report if a future revision is approved."
+    "The exact candidate-specific result of scripts/validate-editorial-depth.mjs and scripts/validate-pipeline.mjs is not isolated in the available GitHub Actions job metadata; no successful exact-revision execution is claimed.",
+    "The repository-wide build on the reviewed HEAD failed and deployment was skipped; this is separate from the two candidate-specific QA defects.",
+    "System-registry reconciliation is not yet due for this unpublished candidate; the publisher must reconcile all seven active assets if a later revision is approved."
   ],
   "issues": [
     {
       "severity": "material",
-      "code": "NBS_FIXED_ASSET_INVESTMENT_PRIMARY_SOURCE_MISSING",
+      "code": "ECB_US_TECHNOLOGY_EXPOSURE_SCOPE_OMITTED_IN_PTBR",
       "paths": [
-        "data/pending/2026-11-22-global-macro.json",
         "staging/research/2026/11/2026-11-22-global-macro/en.md",
-        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+        "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md",
+        "data/pending/2026-11-22-global-macro.json"
       ],
       "locations": [
-        "en.md:103, paragraph beginning 'Fixed-asset investment excluding rural households fell 8.1%...'; en.md:111 and en.md:114, China table; reference [5]",
-        "pt-BR.md:103, paragraph beginning 'O investimento em ativos fixos...'; pt-BR.md:111 and pt-BR.md:114, China table; reference [5]",
-        "pending.sources.en.watch and pending.sources.pt-BR.watch; pending.signal_rationale.evidence; pending.producer_checks.source_vintage; pending.source_audit"
+        "en.md:95, sentence beginning 'Holdings in U.S. technology and AI-related firms...'",
+        "pt-BR.md:95, sentence beginning 'Empresas relacionadas à IA representavam entre 16% e 26%...'",
+        "Reference [4], ECB Financial Stability Review, November 2026, page 81"
       ],
-      "evidence": "The current bibliography's reference [5] is the NBS release 'National Economy was Generally Stable with Innovation-Led and High-Quality Development in October', published 16 November 2026: https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html. That page supports the 4.8% industrial value-added, 17.6% high-tech manufacturing, 10.6% equipment manufacturing, 0.4% October retail-sales and 49.3 PMI observations, but it does not contain the fixed-asset investment series. The separate primary release 'Investment in Fixed Assets from January to October 2026', published 17 November 2026, is at https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html. It reports fixed-asset investment excluding rural households down 8.1%, manufacturing investment down 2.9%, and infrastructure investment down 5.1% year on year. It is within the stated 22 November 05:00 BRT cutoff. The current staged paragraph attaches [5] to all these claims, so a reader cannot reproduce them from the cited bibliography.",
-      "required_correction": "Add the 17 November NBS Investment in Fixed Assets release as a separate numbered reference in both EN and PT-BR editions; cite it directly after the fixed-asset investment paragraph and the affected table rows. Keep reference [5] for the 16 November industrial-production, retail and PMI data. Recalculate pending.source_audit from the final bibliography: the expected inventory after adding this URL is 17 references, 12 distinct hostnames, 16 primary institutional sources and 1 market-reporting source. Update producer_checks.source_vintage, revision_scope and evidence metadata, then resubmit with new pending and both Markdown blob SHAs."
+      "evidence": "The ECB Financial Stability Review, November 2026, page 81, states that non-banks' holdings in US technology and AI-related firms account for between 16% and 26% of their equity investments. The English edition preserves both components. The Portuguese edition refers only to AI-related firms, omitting US technology holdings and thereby changing the scope of the measured exposure.",
+      "required_correction": "Revise the PT-BR sentence to preserve the full source population, for example: 'As participações de instituições não bancárias em empresas americanas de tecnologia e em empresas relacionadas à IA correspondiam a entre 16% e 26% de seus investimentos em ações, conforme o grupo analisado.' Keep the same denominator, range, attribution and qualification as EN."
     },
     {
       "severity": "material",
-      "code": "NBS_NON_GOVERNMENTAL_FIXED_ASSET_INVESTMENT_MISLABELED_PRIVATE",
+      "code": "TREASURY_PAR_CURVE_REFERENCE_MISMATCHES_MARKET_CLOSE_YIELDS",
       "paths": [
-        "data/pending/2026-11-22-global-macro.json",
         "staging/research/2026/11/2026-11-22-global-macro/en.md",
         "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
       ],
       "locations": [
-        "en.md:103, 'private investment 11.4%'; en.md:114, 'Private investment'; en.md:117 and en.md:169",
-        "pt-BR.md:103, 'investimento privado 11,4%'; pt-BR.md:114, 'Investimento privado'; pt-BR.md:117 and pt-BR.md:169",
-        "pending.sources.en.watch, pending.sources.pt-BR.watch and pending.signal_rationale.falsifier"
+        "en.md:135 and 143, market-yield paragraph and Treasury table row",
+        "pt-BR.md:135 and 143, market-yield paragraph and Treasury table row",
+        "Both editions, References [9]-[10]"
       ],
-      "evidence": "The claim-specific NBS release at https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html labels the 11.4% series 'non-governmental investment in fixed assets' (lines 30 and 38) and distinguishes it from the separate registration categories for domestic-invested, Hong Kong/Macao/Taiwan-funded and foreign-invested enterprises (lines 29 and 73-76). The staged editions call the figure 'private investment' and 'investimento privado'. Those labels are not the source's statistical category and can be read as a broader private-sector measure than the published non-governmental fixed-asset series.",
-      "required_correction": "Use 'non-governmental investment in fixed assets' in EN and 'investimento não governamental em ativos fixos' in PT-BR wherever the 11.4% series is discussed. Do not call it simply private investment. Update the paragraph, table row, interpretation paragraph, scenario/falsifier language and pending watch/search metadata so the statistical category remains consistent."
+      "evidence": "Reuters [9] reports 20 November market-close yields of 4.948% for the U.S. 10-year note and 4.647% for the 2-year note. The U.S. Treasury Daily Treasury Par Yield Curve Rates page [10] reports 4.92% and 4.63% for 20 November. Treasury describes its par yields as interpolated from indicative bid-side quotations obtained at or near 3:30 p.m.; these are not the same series/observation as the Reuters market-close figures. Both references are attached to one sentence and the table does not disclose the distinction.",
+      "required_correction": "Either cite Reuters [9] alone for the 4.948%/4.647% market-close observations and remove the unsupported [10] attachment, or add a separate row/statement for Treasury par yields (4.92%/4.63%) with an explicit label, observation time and methodology. Recalculate source_audit and reference numbering consistently in both editions and pending metadata."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
   "replay_guard": {
     "max_new_rejections_per_id": 3,
-    "source_sha_must_change_before_recheck": true
+    "source_sha_must_change_before_recheck": true,
+    "blocked_after_limit": true,
+    "no_fourth_rejection": true
   },
-  "notes": "Second rejection for MT-GM-2026-11-22, revision 4. The pending and both staged Markdown blob SHAs differ from the first rejected revision 3 tuple, so this is a new submission rather than a replay. The revision-3 corrections to the claim-specific fuel-and-power NBS source, IEA inventory composition, Europe-specific diesel/freight scope and conflict attribution are retained and verified. The new material defects concern the separate NBS fixed-asset investment release and the source's non-governmental-investment classification. Retrabalho owner: MT 1/5 — Diário e Radar. No approval or publication authorization. No public report, index, CSS, taxonomy or institutional content was modified."
+  "notes": "Third rejection for MT-GM-2026-11-22, revision 5. The pending and both staged Markdown blobs differ from revision 4, so this is a new submission rather than a replay. The NBS fixed-asset primary source and non-governmental-investment classification corrections from revision 4 are retained. The four earlier fuel/power, IEA inventory, diesel/freight geography and conflict-attribution corrections also remain. This rejection reaches the three-new-rejection limit for the ID; do not create a fourth rejection. A later corrected revision may be reviewed for approval, but any remaining material defect must be recorded as a block rather than another rejection. No approval or publication authorization is granted. No reports/**, data/reports.json, CSS, taxonomy or institutional content was modified."
 }
