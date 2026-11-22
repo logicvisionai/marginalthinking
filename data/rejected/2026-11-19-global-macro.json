@@ -415,7 +415,10 @@
           "pending top-level keys and producer_checks"
         ],
         "evidence": "Revision 5 states that the 14-reference source audit was recomputed to 10 distinct hostnames, 7 primary institutional references and 7 market-reporting/syndication references, with a classification rule recorded. The current pending v2 contains no source_audit field at the top level or inside producer_checks. The correction is therefore not persisted in the immutable QA input and the claimed audit cannot be independently reconciled from the sidecar.",
-        "required_correction": "Persist the recomputed source_audit object in the pending sidecar, including reference count, distinct-hostname count, primary-institutional count, market-reporting/syndication count and an explicit reference-by-reference classification rule. Recompute it from the exact final EN/PT-BR bibliographies and resubmit with new pending and both Markdown blob SHAs."
+        "required_correction": "Persist the recomputed source_audit object in the pending sidecar, including reference count, distinct-hostname count, primary-institutional count, market-reporting/syndication count and an explicit reference-by-reference classification rule. Recompute it from the exact final EN/PT-BR bibliographies and resubmit with new pending and both Markdown blob SHAs.",
+        "qa_disposition": "contradicted_by_exact_pending_blob",
+        "active_for_rework": false,
+        "superseded_by": "SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING_FALSE_POSITIVE"
       },
       {
         "severity": "material",
@@ -434,7 +437,14 @@
         "required_correction": "Resolve the pre-existing public-report validation failure through the appropriate editorial correction process, then rerun the repository build and strict editorial-depth validation against the exact candidate fingerprints. QA must not alter reports/** or bypass the failed prerequisite."
       }
     ],
-    "notes": "Revision 5 is a new pending/source fingerprint after the single recovery review of revision 4. The three-rejection limit remains reached. This is a blocked recovery review, not a fourth rejection: rejection_count_for_id remains 3 and rejection_loop_limit_reached remains true. The 11/19 Media Selangor Reuters syndication now reproduces the 09:53 GMT oil quote; The Edge page exposes its 11:08 GMT closing edition; the IEA launch event is scheduled at 13:00 Antalya time on 19 November, before the report cutoff. Those corrections do not resolve the Reuters final-close update-time gap, the missing persisted source audit, or the repository build prerequisite. Return the corrections to MT 1/5 — Diário e Radar. No approval or publication authorization."
+    "notes": "Revision 5 is a new pending/source fingerprint after the single recovery review of revision 4. The three-rejection limit remains reached. This is a blocked recovery review, not a fourth rejection: rejection_count_for_id remains 3 and rejection_loop_limit_reached remains true. The 11/19 Media Selangor Reuters syndication now reproduces the 09:53 GMT oil quote; The Edge page exposes its 11:08 GMT closing edition; the IEA launch event is scheduled at 13:00 Antalya time on 19 November, before the report cutoff. Those corrections do not resolve the Reuters final-close update-time gap, the missing persisted source audit, or the repository build prerequisite. Return the corrections to MT 1/5 — Diário e Radar. No approval or publication authorization.",
+    "superseded_issue_codes": [
+      "SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING"
+    ],
+    "active_issue_codes": [
+      "REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE",
+      "REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT"
+    ]
   },
   "qa_record_anomalies": [
     {
