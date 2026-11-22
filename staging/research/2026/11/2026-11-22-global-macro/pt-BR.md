@@ -181,7 +181,7 @@ O principal risco macroeconômico é um descompasso entre a velocidade de implan
 5. National Bureau of Statistics of China, *National Economy was Generally Stable with Innovation-Led and High-Quality Development in October*, 16 de novembro de 2026. https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html
 6. Statistics Bureau of Japan, *Consumer Price Index, National, October 2026*, 20 de novembro de 2026. https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html
 7. Comissão Europeia, *Flash Consumer Confidence Indicator for the EU and Euro Area*, 20 de novembro de 2026. https://economy-finance.ec.europa.eu/document/download/5c0a0ea5-f96e-461f-90df-794ad7da8645_en?filename=Flash_consumer_2026_11_en.pdf
-8. Eurostat, *Euro area annual inflation up to 4.0%*, 4 de novembro de 2026. https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap
+8. Eurostat, *Annual inflation up to 4.0% in the euro area*, 18 de novembro de 2026. https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-18112026-ap
 9. Reuters, *Tech leads global stocks rout, Treasury yields fall*, 20 de novembro de 2026, distribuído pela Euronext. https://live.euronext.com/en/financial-news/tech-leads-global-stocks-rout-treasury-yields-fall
 10. U.S. Department of the Treasury, *Daily Treasury Par Yield Curve Rates*, observações de novembro de 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026
 11. U.S. Department of the Treasury, *Treasury International Capital Data for September*, 18 de novembro de 2026. https://home.treasury.gov/news/press-releases/sb0693
