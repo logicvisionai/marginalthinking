@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-22",
+  "timezone": "America/Sao_Paulo",
+  "idempotency_key": "structural-opportunities:2026-11-22",
+  "scan_status": "completed_hypothesis_staged_no_new_candidate",
+  "primary_sources": [
+    {
+      "institution": "U.S. Bureau of Labor Statistics",
+      "date": "2026-11-20",
+      "url": "https://www.bls.gov/news.release/archives/prod5_11202026.htm",
+      "finding": "2025 TFP increased in 7 of 19 major industries; new productivity-diffusion signal, not a project-level opportunity."
+    },
+    {
+      "institution": "Federal Reserve Board, Governor Lisa D. Cook",
+      "date": "2026-11-20",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "finding": "More than US$2tn in announced U.S. data-centre projects, only a fraction realized; roughly half of global capacity under construction estimated outside the U.S."
+    },
+    {
+      "institution": "ANEEL",
+      "date": "2026-10-30",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-economia-para-o-consumidor",
+      "finding": "All eight transmission lots awarded; R$8.8bn, 1,866 km of lines, 12,694 MVA transformation capacity. Same auction as 21 Nov; no new execution milestone."
+    },
+    {
+      "institution": "Ministry of Mines and Energy of Brazil",
+      "date": "2026-11-03",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/outubro-26/leilao-de-transmissao-no-04-2026",
+      "finding": "Reports R$8.9bn for the same auction; treated as rounding, not additive investment."
+    },
+    {
+      "institution": "World Bank",
+      "date": "2026-10-27",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo",
+      "finding": "Uzbekistan 60-substation modernization financing remains staged; no new disbursement, procurement or commissioned output."
+    },
+    {
+      "institution": "Asian Development Bank",
+      "date": "2026-10-15",
+      "url": "https://www.adb.org/news/adb-uzbekistan-sign-200-million-power-modernization-loan",
+      "finding": "Signed US$200m loan for the same Uzbekistan programme; no new execution milestone."
+    },
+    {
+      "institution": "Republic of Korea Ministry of Trade, Industry and Resources",
+      "date": "2026-11-01",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view",
+      "finding": "October electrical-equipment exports reached a nominal monthly record in the existing 1 Nov signal; no new shipment-volume or commissioned-grid confirmation."
+    },
+    {
+      "institution": "World Bank Group",
+      "date": "2026-10-15",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia",
+      "finding": "DRIVE/Emerging Asia Infrastructure Credit Fund remains announced; no new fund close, paid-in capital or disbursement."
+    },
+    {
+      "institution": "U.S. Energy Information Administration",
+      "date": "2026-11-18",
+      "url": "https://www.eia.gov/petroleum/supply/weekly/",
+      "finding": "Weekly U.S. petroleum stocks are a market observation, not a new infrastructure or capacity opportunity."
+    },
+    {
+      "institution": "European Central Bank",
+      "date": "2026-11",
+      "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "finding": "Non-bank liquidity and financing risks are relevant constraints; no project-level infrastructure financing or capital deployment is established."
+    },
+    {
+      "institution": "World Bank",
+      "date": "2026-03-20",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/03/20/world-bank-supports-jobs-renewable-energy-and-lower-energy-costs-in-brazil-s-amazon-region",
+      "finding": "Existing Amazon energy-financing programme remains a baseline; no new disbursement or commissioned capacity."
+    }
+  ],
+  "discovery_expansion": {
+    "regions": [
+      "Africa",
+      "South Asia",
+      "Southeast Asia",
+      "Central Asia",
+      "Europe",
+      "Latin America",
+      "Middle East"
+    ],
+    "institutions": [
+      "World Bank",
+      "Asian Development Bank",
+      "African Development Bank",
+      "European Bank for Reconstruction and Development",
+      "Inter-American Development Bank",
+      "national energy and grid regulators",
+      "national statistics offices"
+    ],
+    "finding": "Expanded the primary-source screen beyond the existing Brazil, Uzbekistan, Korea and Asia DRIVE signals. No new dated financing close, paid-in capital, procurement award, construction start, grid connection or commissioned output was verified for 20–22 November. Search absence is not evidence that no project exists."
+  },
+  "event_reporting_screen": [
+    {
+      "institution": "Reuters relaying UKMTO",
+      "date": "2026-11-21",
+      "url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+      "finding": "Reported tanker incident near Khasab; vessel identity, actor attribution and route-level freight/insurance impact are not established."
+    },
+    {
+      "institution": "Reuters citing INA and Iraqi security officials",
+      "date": "2026-11-21",
+      "url": "https://www.reuters.com/business/energy/iraq-fire-at-basra-power-station-kills-least-four-injures-30-2026-11-21/",
+      "finding": "Hartha/Basra power-station fire is a reported local outage; cause, damage and restoration remain unknown."
+    }
+  ],
+  "dimensions_reviewed": [
+    "infrastructure",
+    "energy",
+    "regulation",
+    "logistics",
+    "productivity",
+    "access to capital",
+    "production",
+    "institutions"
+  ],
+  "hypotheses": [
+    {
+      "subject": "U.S. sectoral productivity dispersion and AI infrastructure demand",
+      "perspective": "Grid-equipment manufacturers, utilities, data-centre developers and industrial operators; not an investment recommendation.",
+      "condition": "BLS reports 2025 TFP growth in 7 of 19 major U.S. industries. Fed Governor Cook cites over US$2tn in announced U.S. data-centre projects, only a fraction realized, and roughly half of global capacity under construction estimated outside the U.S.",
+      "mechanism": "A large announced buildout can raise demand for transformers, cables, switchgear, cooling and electricity before operating facilities and enterprise adoption produce measurable efficiency gains. The gap between announcements, financing, construction, grid connection, utilization and productivity may reveal bottlenecks.",
+      "state": "research_hypothesis_only_not_atlas_candidate",
+      "trigger": "Verified financial closes, procurement and delivery backlogs, interconnection queues, commissioned MW, utilization, electricity prices and later BLS TFP breadth.",
+      "invalidation": "No sustained orders or grid constraints, repeated project cancellations, falling equipment backlogs, or no measurable utilization/productivity improvement after commissioning.",
+      "confidence": "low",
+      "source_urls": [
+        "https://www.bls.gov/news.release/archives/prod5_11202026.htm",
+        "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm"
+      ],
+      "related_atlas_ids": [],
+      "reason_not_promoted": "This is a productivity and capital-cycle observation, not a documented structural inefficiency or leverageable capability for a defined actor. No project-level finance, contract, operating capacity or local constraint is established."
+    },
+    {
+      "subject": "Brazilian transmission concessions and renewable evacuation",
+      "perspective": "Transmission developers, grid-equipment suppliers and renewable generators",
+      "condition": "ANEEL's 30 October auction remains fully awarded; R$8.8bn, 1,866 km and 12,694 MVA are the previously staged procurement scope.",
+      "mechanism": "Awards may expand transfer capacity only after contracts, financing, licensing, construction and commissioning.",
+      "state": "existing_candidate_no_new_delta",
+      "trigger": "Signed contracts, financing, procurement, construction, commissioning and measured transfer capacity/curtailment/reliability.",
+      "invalidation": "Cancelled or delayed contracts, no finance or commissioning, or no measured improvement.",
+      "confidence": "medium",
+      "source_urls": [
+        "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-economia-para-o-consumidor",
+        "https://www.gov.br/mme/pt-br/assuntos/noticias/outubro-26/leilao-de-transmissao-no-04-2026"
+      ]
+    },
+    {
+      "subject": "Uzbekistan electricity-distribution modernization",
+      "perspective": "Grid users, renewable developers and equipment suppliers",
+      "condition": "World Bank/ADB financing and 60-substation programme already staged; no new execution milestone.",
+      "mechanism": "Modernization could reduce losses and enable renewables only after disbursement, procurement and commissioning.",
+      "state": "existing_candidate_no_new_delta",
+      "trigger": "Verified disbursements, contract awards, commissioned substations and measured losses.",
+      "invalidation": "No implementation progress or operating improvement.",
+      "confidence": "low",
+      "source_urls": [
+        "https://www.worldbank.org/en/news/press-release/2026/10/27/uzbekistan-to-modernize-electricity-distribution-systems-enable-job-growth-with-wo",
+        "https://www.adb.org/news/adb-uzbekistan-sign-200-million-power-modernization-loan"
+      ]
+    },
+    {
+      "subject": "Korean electrical-equipment exports for grid and AI infrastructure",
+      "perspective": "Manufacturers and buyers of transformers, cables and grid equipment",
+      "condition": "Existing 1 November signal records a nominal October export record; no new volume or customer-level commissioning data.",
+      "mechanism": "Export receipts indicate demand but do not establish physical capacity or margins.",
+      "state": "existing_candidate_no_new_delta",
+      "trigger": "Customs volumes, backlogs, delivery destinations and commissioned projects.",
+      "invalidation": "Nominal values reverse or no delivery is linked to a project.",
+      "confidence": "low",
+      "source_urls": [
+        "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172360/view"
+      ]
+    },
+    {
+      "subject": "Asia DRIVE energy-resilience credit fund",
+      "perspective": "Private infrastructure developers seeking long-tenor financing",
+      "condition": "Existing announced US$750m target fund and up-to US$50m IFC participation; no new close or disbursement.",
+      "mechanism": "Risk-sharing capital may lower financing hurdles only if capital is raised and projects funded.",
+      "state": "existing_candidate_no_new_delta",
+      "trigger": "Paid-in capital, financial close, named projects and disbursement.",
+      "invalidation": "No close or project-level financing.",
+      "confidence": "low",
+      "source_urls": [
+        "https://www.worldbank.org/en/news/press-release/2026/10/15/world-bank-group-and-japan-advance-partnership-on-energy-resilience-in-asia"
+      ]
+    },
+    {
+      "subject": "Hartha power-station outage in Iraq",
+      "perspective": "Electricity users and grid operators",
+      "condition": "Fire reportedly halted operations at a plant operating around 400 MW before the event; cause and restoration unknown.",
+      "mechanism": "Local outage may affect reliability, but no durable capacity gap or investment path is established.",
+      "state": "incident_watch_not_opportunity",
+      "trigger": "Official cause, damage assessment, restoration date and verified grid data.",
+      "invalidation": "Rapid restoration with no durable network constraint.",
+      "confidence": "low",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/iraq-fire-at-basra-power-station-kills-least-four-injures-30-2026-11-21/"
+      ]
+    },
+    {
+      "subject": "Gulf maritime-security incident near Khasab",
+      "perspective": "Shipping operators, insurers and energy cargo counterparties",
+      "condition": "UKMTO incident relayed by Reuters; vessel identity and actor attribution unknown.",
+      "mechanism": "A verified pattern could affect insurance and routing, but one unresolved report does not establish a durable opportunity.",
+      "state": "incident_watch_not_opportunity",
+      "trigger": "Direct UKMTO notice, vessel identity, verified damage, insurance quotes and route-level freight data.",
+      "invalidation": "No confirmed linkage or measurable shipping/insurance change.",
+      "confidence": "low",
+      "source_urls": [
+        "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/"
+      ]
+    }
+  ],
+  "new_candidates": [],
+  "canonical_atlas_modified": false,
+  "reason_no_canonical_change": "The new productivity signal remains a research hypothesis, not a documented structural state for a defined actor. Existing Brazil, Uzbekistan, Korea and Asia DRIVE candidates have no new financing, procurement, commissioning or operating-output evidence. No canonical snapshot or history event was changed; review/reclassification remains task 2/5."
+}
