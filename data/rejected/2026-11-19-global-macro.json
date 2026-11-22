@@ -435,5 +435,20 @@
       }
     ],
     "notes": "Revision 5 is a new pending/source fingerprint after the single recovery review of revision 4. The three-rejection limit remains reached. This is a blocked recovery review, not a fourth rejection: rejection_count_for_id remains 3 and rejection_loop_limit_reached remains true. The 11/19 Media Selangor Reuters syndication now reproduces the 09:53 GMT oil quote; The Edge page exposes its 11:08 GMT closing edition; the IEA launch event is scheduled at 13:00 Antalya time on 19 November, before the report cutoff. Those corrections do not resolve the Reuters final-close update-time gap, the missing persisted source audit, or the repository build prerequisite. Return the corrections to MT 1/5 — Diário e Radar. No approval or publication authorization."
-  }
+  },
+  "qa_record_anomalies": [
+    {
+      "code": "SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING_FALSE_POSITIVE",
+      "reviewed_at": "2026-11-22T16:39:40Z",
+      "reviewed_commit": "e5ace4a0293edd95b0335f780fdbea33261df797",
+      "pending_blob_sha": "c7cc1303f158b74215ed1d7f7447beae5e1836ab",
+      "source_blob_shas": {
+        "en": "da30446a81eb1e85e510701cdac4ebd1c8eccf26",
+        "pt-BR": "6f04c99211149bc199f84de02b06f4536076fe31"
+      },
+      "rejection_record_blob_sha": "7851a7d95ed5ad77c1eddfce0d3ddf3ebb6a4995",
+      "evidence": "The exact pending blob for blocked_review revision 5 contains producer_checks.source_audit with references=14, distinct_domains=10, primary_institutional_sources=7, market_reporting_sources=7 and a reference-by-reference classification_rule. The current EN/PT-BR source blob SHAs match the blocked_review tuple. The prior statement that source_audit is absent both at top level and inside producer_checks is contradicted by the reviewed pending artifact.",
+      "disposition": "Retain the original blocked_review issue for audit history, but remove SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING from the active producer correction scope. This correction does not resolve REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE or the repository-wide validation prerequisite. No new rejection, approval or publication authorization is created."
+    }
+  ]
 }
