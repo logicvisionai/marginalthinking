@@ -4,83 +4,86 @@
   "revision": 0,
   "program": "global-system-power",
   "qa_status": "rejected",
-  "reviewed_at": "2026-10-24T18:44:39.382Z",
-  "reviewed_commit": "b50626fe5e7ded776ae64ae157f69ac78766bb30",
+  "reviewed_at": "2026-11-22T06:56:50.483Z",
+  "reviewed_commit": "7a76854c6ffc7baa791e99378fec0ed40f27bd48",
   "pending_blob_sha": "11c8092d225c8c4564d1cee689f14ec958b8fb57",
   "source_blob_shas": {
-    "en": "48613254205caed16a65e2c0498ce2a03c4a53bb",
-    "pt-BR": "746d25e88315d685c2c9c3cf23b1de3d0012e720"
+    "en": "436ea7a14d6c3630033d39eb31da3a72e9e379a4",
+    "pt-BR": "8333249aa9af65df771f711e6763b1ab7202ac3a"
   },
+  "rejection_count_for_id": 2,
+  "rejection_loop_limit_reached": false,
+  "previous_rejections": [
+    {
+      "revision": 0,
+      "rejection_record_blob_sha": "09aff590ac8342137b08cb566449379d6ebef3ac",
+      "pending_blob_sha": "11c8092d225c8c4564d1cee689f14ec958b8fb57",
+      "source_blob_shas": {
+        "en": "48613254205caed16a65e2c0498ce2a03c4a53bb",
+        "pt-BR": "746d25e88315d685c2c9c3cf23b1de3d0012e720"
+      },
+      "issue_codes": [
+        "historical_date_error",
+        "material_slavery_evidence_omitted",
+        "banking_entity_timeline_conflation",
+        "strict_editorial_depth_validator",
+        "editorial_publication_readiness",
+        "geography_scope_inconsistent"
+      ]
+    }
+  ],
   "confidence": "high",
   "blocking_issues": [
     {
-      "type": "historical_date_error",
-      "location": "EN en.md paragraph 2, 'His trip to Europe in 1839'; PT-BR pt-BR.md paragraph 2, 'Sua viagem à Europa em 1839'",
-      "issue": "The trip to England is dated 1839 in both editions, but the Arquivo Nacional, USP FEA timeline and Mauá's Senate-published autobiography identify the first trip as 1840.",
-      "evidence": [
-        "https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua",
-        "https://pioneiros.fea.usp.br/maua/",
-        "https://www2.senado.leg.br/bdsf/bitstream/handle/id/562751/000970224_Autobiografia_Visconde_Maua.pdf"
-      ]
-    },
-    {
-      "type": "material_slavery_evidence_omitted",
-      "location": "EN/pt-BR section 'Slavery, wage labour...' / 'Escravidão, trabalho livre...' second paragraph; Ponta de Areia section",
-      "issue": "Both texts say that determining whether enslaved persons worked in a particular Mauá establishment requires additional establishment records, without acknowledging that their own cited USP FEA source says the 1845 purchase of the Ponta de Areia foundry included 28 enslaved persons. The Arquivo Nacional biography also describes Mauá's activity involving the slave trade; any treatment requires attribution and precise contextualization, not omission or automatic inference about all operations.",
-      "evidence": [
-        "https://pioneiros.fea.usp.br/maua/ (section Ações: acquisition included 28 escravos)",
-        "https://mapa.arquivonacional.gov.br/index.php/assuntos/79-producao/70-biografias/538-irineu-evangelista-de-sousa-barao-e-visconde-de-maua"
-      ]
-    },
-    {
-      "type": "banking_entity_timeline_conflation",
-      "location": "EN/pt-BR 'Banking, currency...' and 'Liquidity shocks, failed expansion...' / 'Bancos, moeda...' and 'Choques de liquidez...' ",
-      "issue": "The banking account does not separate the 1854 Mauá, MacGregor & Cia. entity (liquidated in 1866) from the later Mauá & Cia. crisis in the 1870s; the undifferentiated 'collapse of the banking enterprise in the 1870s' risks attributing one institution's fate to another. A USP economic-history thesis distinguishes the 1853 bank merger, 1854 organization, 1855 restructuring and 1866 liquidation.",
-      "evidence": [
-        "https://teses.usp.br/teses/disponiveis/8/8137/tde-26042023-151154/pt-br.html",
-        "https://www.camara.leg.br/deputados/660/biografia"
-      ]
-    },
-    {
       "type": "strict_editorial_depth_validator",
-      "location": "EN and PT-BR full bibliography and visual blocks; scripts/validate-editorial-depth.mjs lines 37-53",
-      "issue": "For 2026-10-24 nonweekly research, strict validator requires >=8 distinct source URLs and >=2 explicit chart fences per language. Each edition has only 7 unique source URLs ([8] duplicates [2]) and one chart. EN 1868 and PT-BR 1780 substantive words and 10 H2 headings pass, as do flow/map/table rows, but minimum source and chart gates fail.",
+      "location": "Both staged editions; full bibliography and visual blocks",
+      "issue": "The current exact staged tuple fails the repository's strict nonweekly research floor in both locales: seven distinct source URLs rather than eight, and one explicit chart rather than two. The eighth numbered reference [8] duplicates [2].",
       "evidence": [
-        "scripts/validate-editorial-depth.mjs: minCharts=isWeekly?3:2; links.length<(isWeekly?7:8); visual.chart<minCharts",
-        "EN 7 URLs, 1 chart; PT-BR 7 URLs, 1 chart; chart values 8.4 and 1.5 align across languages."
-      ]
-    },
-    {
-      "type": "editorial_publication_readiness",
-      "location": "Both editions immediately after H1; PT-BR date line 'Corte documental: 24 October 2026'",
-      "issue": "Both openings use administrative publication/cutoff and methodological meta-commentary before the historical thesis; the first substantive thesis appears only under a section heading. The PT-BR date line contains raw English ('24 October 2026'). This fails the direct institutional opening and natural PT-BR localization requirements.",
-      "evidence": [
-        "EN: 'Research on economic, institutional and social relationships.'",
-        "PT-BR: 'Corte documental: 24 October 2026.'"
+        "Current EN: 2,395 substantive words, 7 unique URLs, 7 hosts, 1 chart, 1 flow, 1 map, 6 table rows, 13 H2 headings.",
+        "Current PT-BR: 2,267 substantive words, 7 unique URLs, 7 hosts, 1 chart, 1 flow, 1 map, 6 table rows, 13 H2 headings.",
+        "scripts/validate-editorial-depth.mjs requires >=8 distinct URLs and >=2 chart fences for nonweekly research; the strict editorial run 44958212062 reported both locales failing source-URL and visual-evidence budget checks. The current staging blobs are unchanged between the run's HEAD 0cec997a850cdad5c91d91afa1f2702dcbc60bcd and current HEAD 7a76854c6ffc7baa791e99378fec0ed40f27bd48."
       ]
     },
     {
       "type": "geography_scope_inconsistent",
-      "location": "data/pending/2026-10-24-maua-industrializacao-capital-imperial.json geography.level=global with empty countries",
-      "issue": "A Brazil-centred historical research report uses geography.level='global' despite Brazil being the explicit core of its title, institutions and economic mechanism. Uruguay, Argentina and London are cross-border links, not evidence that its primary geography is global. The controlled geography field should reflect the actual research scope.",
+      "location": "data/pending/2026-10-24-maua-industrializacao-capital-imperial.json geography",
+      "issue": "The pending classifies a Brazil-centred historical dossier as global with no countries. The title, institutions and main mechanisms concern imperial Brazil; Uruguay, Argentina and London are cross-border relationships, not evidence that the primary research geography is global.",
       "evidence": [
-        "Pending title '...imperial Brazil'; geographic map is primarily Brazilian with regional overseas links."
+        "Pending geography.level=global; regions, subregions and countries are empty.",
+        "Both editions center Brazilian institutions, the 1872 census, Ponta de Areia, the Mauá Railway, and the Brazilian imperial economy."
+      ]
+    },
+    {
+      "type": "editorial_publication_readiness",
+      "location": "Both editions immediately below H1; PT-BR date line",
+      "issue": "The opening still places administrative publication/cutoff labels and generic methodological self-description before the historical thesis. The PT-BR date line remains partly in English ('24 October 2026').",
+      "evidence": [
+        "EN opening: 'Research on economic, institutional and social relationships.'",
+        "PT-BR opening: 'Pesquisa sobre relações econômicas, institucionais e sociais.' and date '24 October 2026'."
+      ]
+    },
+    {
+      "type": "historical_evidence_issues_carried_forward",
+      "location": "EN/PT-BR second paragraph; slavery section; banking/liquidity sections",
+      "issue": "Material issues from the prior rejection remain visible in the current prose: the first European trip is still dated 1839; the Ponta de Areia paragraph still omits the previously identified 1845 acquisition evidence concerning 28 enslaved persons; and the 1854 Mauá, MacGregor & Cia. entity is not clearly separated from the later 1870s banking crisis. These are carried forward from the prior QA record, not newly re-verified in this run.",
+      "evidence": [
+        "Current EN/PT-BR still state '1839'.",
+        "Current editions continue to say establishment-level labour requires additional records without discussing the prior QA record's cited Ponta de Areia acquisition evidence.",
+        "Current editions refer to the 'collapse of the banking enterprise in the 1870s' without identifying the entity-specific 1866 liquidation distinction recorded in the prior QA."
       ]
     }
   ],
   "required_fixes": [
-    "Correct the 1839 trip date to 1840 in EN/PT-BR, cite the Arquivo Nacional, USP FEA and/or Senate edition of Mauá's autobiography; check associated chronology for consistency.",
-    "Rewrite the slavery/Ponta de Areia analysis in both languages to discuss the documented acquisition including 28 enslaved persons, distinguish asset transfer from independently established work histories, and investigate the Arquivo Nacional's slave-trade characterization with precise source attribution; do not imply a universally free-labour factory or make unsupported individual allegations.",
-    "Disaggregate Banco do Brasil (1851 and 1853 merger), Mauá, MacGregor & Cia. (1854-1866), and subsequent Mauá & Cia. (1870s); identify entity-specific events, exposures and dates using specialist economic history and primary records.",
-    "Add at least one genuinely independent and directly relevant source URL per locale (not a duplicate bibliography entry), e.g. the USP 1997 doctoral thesis and/or the Senate autobiography, and cite the supported claims in the body.",
-    "Add a second evidence-bearing chart per locale using a verifiable historically comparable series with explicit unit, date and source; do not invent historical asset values or force unrelated numbers onto one axis. Preserve identical EN/PT-BR numeric series.",
-    "Replace the administrative/meta opening with a 1-3 paragraph thesis explaining the central historical mechanism and qualification, and translate the PT-BR date completely ('24 de outubro de 2026') or keep dates solely in metadata.",
-    "Correct the controlled geography classification to country BR/brazil or explicitly justify a multi-country scope if supported by the material causal mechanism; do not silently normalize metadata."
+    "Add at least one genuinely independent, directly relevant source URL in each locale; do not count the duplicate IHGB URL [8] as a distinct source. Cite the added source next to the supported claim.",
+    "Add a second evidence-bearing quantitative chart in each locale with a source, observation period, unit and comparable series; preserve identical numeric values across EN/PT-BR and do not fabricate historical asset or output values.",
+    "Correct geography to the controlled Brazil country scope and retain Uruguay, Argentina and London as cross-border links rather than the primary global geography.",
+    "Replace administrative/meta openings with a direct thesis-led opening and localize the PT-BR date fully.",
+    "Resolve the carried-forward chronology, Ponta de Areia labour and banking-entity distinctions with direct primary/specialist sources before resubmission."
   ],
   "evidence": [
-    "Reviewed complete pending v2 and both complete staged Markdown editions from HEAD b50626fe5e7ded776ae64ae157f69ac78766bb30; Git blob SHAs are recorded verbatim above.",
-    "Exact validator expressions in scripts/validate-editorial-depth.mjs were reproduced on both staged texts. Full repository Node validators were not run because the repository was inspected through GitHub connector, not checked out locally.",
-    "Historical cross-check: Arquivo Nacional biographical record, USP FEA Pioneiros e Empreendedores, Câmara dos Deputados parliamentary record, USP thesis by Carlos Gabriel Guimarães (1997), Senate edition of Mauá autobiography, and Senate 1872 census retrospective."
+    "Exact pending/EN/PT-BR Git blob tuple recorded above.",
+    "Strict editorial-depth workflow run 44958212062 evaluated the same staged source blobs; current HEAD differs only in approved/publication/context files, not these staging files.",
+    "The 8th bibliography entry duplicates the IHGB URL already used as [2]."
   ],
   "taxonomy_issues": [
     {
@@ -91,67 +94,73 @@
         "subregions": [],
         "countries": []
       },
-      "issue": "Global scope is not substantively justified for Brazil-centred subject; producer must select supported controlled geographic scope."
+      "issue": "Brazil is the primary geographic scope; the controlled country classification is missing."
     }
   ],
   "checks": {
+    "pending_v2_integrity": {
+      "result": "passed",
+      "summary": "Schema v2 JSON parses and ready=true."
+    },
+    "staged_markdown_integrity": {
+      "result": "passed",
+      "summary": "Both staged Markdown files exist and were read in full."
+    },
+    "source_fingerprint_integrity": {
+      "result": "passed",
+      "summary": "Current EN/PT-BR SHAs differ from the previous rejected tuple; this is not a replay of the identical three-blob tuple."
+    },
     "schema_and_taxonomy": {
       "result": "partial",
-      "summary": "schema_version 2, ready, EN-first, controlled program/topics/phenomena/formats passed; geographic scope needs correction."
+      "summary": "Controlled program, topics, phenomena and format are valid; primary geography is misclassified."
     },
     "research_depth": {
       "result": "failed",
-      "en_words": 1868,
-      "pt_br_words": 1780,
-      "en_h2": 10,
-      "pt_br_h2": 10,
+      "en_words": 2395,
+      "pt_br_words": 2267,
       "unique_urls_en": 7,
-      "unique_urls_pt": 7,
-      "required_urls": 8,
+      "unique_urls_pt_br": 7,
+      "hosts_en": 7,
+      "hosts_pt_br": 7,
       "charts_en": 1,
-      "charts_pt": 1,
+      "charts_pt_br": 1,
+      "required_urls": 8,
       "required_charts": 2,
+      "en_h2": 13,
+      "pt_br_h2": 13,
       "validator": "scripts/validate-editorial-depth.mjs"
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "1839 travel date conflicts with documentary sources; 28 enslaved persons in Ponta de Areia acquisition omitted; banking entities/timelines not separated."
+      "summary": "Seven unique source URLs per locale; one bibliography entry duplicates an existing IHGB URL. Three historical issues from the prior QA record remain unresolved in the current text."
     },
     "counterfactual_review": {
       "result": "partial",
-      "summary": "Correctly distinguishes infrastructure social returns from private returns and warns against monocausal stories; material documentary contrary evidence omitted."
+      "summary": "The report distinguishes social returns from private returns and identifies liquidity/FX constraints, but documentary contrary evidence and entity-specific chronology remain incomplete."
     },
     "translation_check": {
       "result": "failed",
-      "summary": "Main historical narrative and 1872 chart numbers align, but PT-BR opening contains raw English date and factual corrections must be made in both locales."
+      "summary": "Narrative and numeric chart series align, but PT-BR retains an English date and the same unresolved historical claims."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "opening": "Metadata and methodological self-description precede thesis.",
-      "headings": "Ten substantive H2 headings in both editions; labels are generally informative.",
-      "language_localization": "PT-BR date line contains '24 October 2026'.",
-      "repetition": "No direct same-subject canonical public report found in reviewed October corpus; novelty not blocked.",
-      "cohesion": "Chronological and thematic structure broadly coherent, but key documentary slavery and banking mechanisms missing.",
-      "template_meta_qa": "Generic self-descriptive preamble instead of thesis."
+      "summary": "Meta/methodological opening precedes the thesis; PT-BR date is not fully localized; geographic metadata does not match the dossier's primary scope."
     },
     "visual_evidence_readiness": {
       "result": "failed",
-      "signature": "Each locale: one 1872 census bar chart (8.4m free, 1.5m enslaved), one comparison table (6 table rows), one flow and one qualitative geographic map.",
-      "limitations": "One chart below strict post-2026-10-12 two-chart floor; 1872 census chart is contextual rather than directly evidencing Mauá business economics; second chart must be meaningful, not decorative."
+      "summary": "One chart, one table, one flow and one map are present, but the strict repository validator requires two charts for this nonweekly research format; visual-evidence budget fails."
     },
-    "contextual_depth": {
-      "result": "failed",
-      "summary": "Economic and institutional links are explained, but the cited historical evidence of 28 enslaved persons included in the Ponta de Areia acquisition is omitted from the labour/production mechanism."
+    "factual_methodology": {
+      "result": "not_completed",
+      "summary": "The report is rejected on independently reproducible depth/metadata/editorial failures. Primary-source re-opening for carried-forward historical claims was incomplete in this run."
     }
   },
   "contrary_evidence": [
-    "USP FEA documents 28 enslaved persons included in Ponta de Areia acquisition, contrary to the suggestion that no establishment-specific slavery evidence is available in cited material.",
-    "USP specialist thesis separates 1866 Mauá, MacGregor liquidation from later banking events, contrary to an undifferentiated 1870s collapse narrative."
+    "The current text does acknowledge that establishment-level labour cannot be inferred from aggregate census figures and that private returns differ from public infrastructure benefits."
   ],
   "limitations": [
-    "Only core documentary historical claims were independently spot-checked; full source-by-source historical audit is deferred until the draft satisfies the blocking structural and factual issues.",
-    "The 1872 census series is contextually consistent with the Senate historical retrospective; it does not measure Mauá's establishment-level labour composition.",
-    "Full Node scripts were inspected but not executed on a local checkout."
+    "The Arquivo Nacional URL redirected to a service-maintenance page during this run and the USP FEA Mauá page timed out; prior historical findings are therefore carried forward rather than represented as newly re-verified.",
+    "The strict editorial-depth result is based on the exact current staged blobs, unchanged since workflow run 44958212062."
   ],
-  "notes": "No approval created. Producer 3/5 should correct the same ID and slug and stage new Git blobs. Do not materialize or rewrite public surfaces. Rejection is tied to the exact three reviewed blob SHAs."
+  "notes": "Second rejection for MT-SA-2026-10-24-MAUA, revision 0. The current source blobs are new, so this is not a replay of the prior three-blob tuple; the pending blob is unchanged. The prior rejection remains preserved in Git history and is summarized in previous_rejections. Producer routing: MT 3/5 — Estrutural e Ferramentas. No approval or public metadata exists for this ID. No public report, index, CSS, taxonomy or institutional content was modified."
 }
