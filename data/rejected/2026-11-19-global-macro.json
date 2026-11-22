@@ -282,19 +282,93 @@
         }
       },
       "note": "Operational block only. This is a new pending revision SHA and was independently reviewed once. The ID has already reached its limit of three new rejections. No fourth rejection was created; rejection_count_for_id remains 3. Return the corrections to producer task 1/5. Reconsider only after a new pending blob and new EN/PT-BR source SHAs are committed."
+    },
+    {
+      "revision": 5,
+      "status": "blocked_no_fourth_rejection",
+      "reviewed_at": "2026-11-22T10:03:34Z",
+      "reviewed_commit": "86aa5a2aa5b567c35b2f35ac6397f1946585d3a8",
+      "pending_blob_sha": "c7cc1303f158b74215ed1d7f7447beae5e1836ab",
+      "source_blob_shas": {
+        "en": "da30446a81eb1e85e510701cdac4ebd1c8eccf26",
+        "pt-BR": "6f04c99211149bc199f84de02b06f4536076fe31"
+      },
+      "approval_created": false,
+      "publication_created": false,
+      "escalation_target": "MT 1/5 — Diário e Radar",
+      "checks": {
+        "pending_v2_integrity": true,
+        "staged_markdown_integrity": true,
+        "bilingual_structural_parity": true,
+        "editorial_depth_readiness": false,
+        "visual_evidence_readiness": true,
+        "reconciliation_ledger_consistency": true,
+        "source_fact_check": false,
+        "source_traceability": false,
+        "editorial_publication_readiness": false,
+        "pipeline_validation": true,
+        "repository_build": false
+      },
+      "issues": [
+        {
+          "severity": "material",
+          "code": "REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE",
+          "paths": [
+            "data/pending/2026-11-19-global-macro.json",
+            "staging/research/2026/11/2026-11-19-global-macro/en.md",
+            "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "pending.producer_checks.information_cutoff",
+            "pending.producer_checks.evidence_vintage",
+            "en.md:3 and references [4]",
+            "pt-BR.md:3 and references [4]"
+          ],
+          "evidence": "The cited Reuters article shows first publication on 18 November 2026 at 10:28 UTC and only an undetailed update date of 19 November. Its current body contains the final S&P 500 (-0.23%), Dow (-1.11%) and Nasdaq (+0.42%) closes and the Philadelphia Semiconductor Index +0.1%, but does not expose the time at which those final values were added. The report's information cutoff is 19 November 16:00 BRT / 19:00 UTC. The source therefore does not establish that the final version used by the report was available by that cutoff. The source confirms the values now, but not their availability at the declared vintage.",
+          "required_correction": "Provide an archived Reuters version or another directly verifiable market-data source with a publication/observation timestamp before 19:00 UTC on 19 November for the exact closing values. Otherwise replace the values with a source whose vintage is verifiable and revise the cutoff/evidence-vintage statements in both languages."
+        },
+        {
+          "severity": "material",
+          "code": "SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING",
+          "paths": [
+            "data/pending/2026-11-19-global-macro.json"
+          ],
+          "locations": [
+            "pending.producer_checks.revision_5_corrections",
+            "pending top-level keys and producer_checks"
+          ],
+          "evidence": "Revision 5 states that the 14-reference source audit was recomputed to 10 distinct hostnames, 7 primary institutional references and 7 market-reporting/syndication references, with a classification rule recorded. The current pending v2 contains no source_audit field at the top level or inside producer_checks. The correction is therefore not persisted in the immutable QA input and the claimed audit cannot be independently reconciled from the sidecar.",
+          "required_correction": "Persist the recomputed source_audit object in the pending sidecar, including reference count, distinct-hostname count, primary-institutional count, market-reporting/syndication count and an explicit reference-by-reference classification rule. Recompute it from the exact final EN/PT-BR bibliographies and resubmit with new pending and both Markdown blob SHAs."
+        },
+        {
+          "severity": "material",
+          "code": "REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT",
+          "paths": [
+            "reports/2026/11/2026-11-18-global-macro/en.md",
+            "reports/2026/11/2026-11-18-global-macro/pt-BR.md",
+            "scripts/validate-editorial-depth.mjs",
+            "scripts/validate-research.mjs"
+          ],
+          "locations": [
+            "GitHub Actions run 45009879036, build job, Validate and build step",
+            "validate-research.mjs runs before validate-editorial-depth.mjs"
+          ],
+          "evidence": "On the exact reviewed HEAD, GitHub Actions run 45009879036 executed scripts/validate-pipeline.mjs successfully (208 public bundles, zero unpublished pending and zero approved-unpublished), then failed in scripts/validate-research.mjs on editorial self-reference in the already-public MT-GM-2026-11-18 English and Portuguese editions. The build skipped visual-semantics, generated-site and editorial-depth steps. The required strict editorial-depth script was not executed against this candidate revision.",
+          "required_correction": "Resolve the pre-existing public-report validation failure through the appropriate editorial correction process, then rerun the repository build and strict editorial-depth validation against the exact candidate fingerprints. QA must not alter reports/** or bypass the failed prerequisite."
+        }
+      ],
+      "notes": "Revision 5 is a new pending/source fingerprint after the single recovery review of revision 4. The three-rejection limit remains reached. This is a blocked recovery review, not a fourth rejection: rejection_count_for_id remains 3 and rejection_loop_limit_reached remains true. The 11/19 Media Selangor Reuters syndication now reproduces the 09:53 GMT oil quote; The Edge page exposes its 11:08 GMT closing edition; the IEA launch event is scheduled at 13:00 Antalya time on 19 November, before the report cutoff. Those corrections do not resolve the Reuters final-close update-time gap, the missing persisted source audit, or the repository build prerequisite. Return the corrections to MT 1/5 — Diário e Radar. No approval or publication authorization."
     }
   ],
   "blocked_review": {
+    "revision": 5,
     "status": "blocked_no_fourth_rejection",
-    "reviewed_revision": 4,
-    "rejection_count_for_id": 3,
-    "rejection_count_incremented": false,
-    "reviewed_head": "0b6dae21343a650206c9f7d3dd96c98dac6a8484",
-    "reviewed_at": "2026-11-21T21:35:45Z",
-    "pending_blob_sha": "5e98bfe7c65fb2c7a4f6eb9169ccc48da9f13b82",
+    "reviewed_at": "2026-11-22T10:03:34Z",
+    "reviewed_commit": "86aa5a2aa5b567c35b2f35ac6397f1946585d3a8",
+    "pending_blob_sha": "c7cc1303f158b74215ed1d7f7447beae5e1836ab",
     "source_blob_shas": {
-      "en": "9011c77dc0f5209837caf35c2e8a82d9e85c4b68",
-      "pt-BR": "33c2fef468d5ddebbc89ac9de1e5b7823d9ee409"
+      "en": "da30446a81eb1e85e510701cdac4ebd1c8eccf26",
+      "pt-BR": "6f04c99211149bc199f84de02b06f4536076fe31"
     },
     "approval_created": false,
     "publication_created": false,
@@ -303,71 +377,63 @@
       "pending_v2_integrity": true,
       "staged_markdown_integrity": true,
       "bilingual_structural_parity": true,
-      "editorial_depth_readiness": true,
+      "editorial_depth_readiness": false,
       "visual_evidence_readiness": true,
       "reconciliation_ledger_consistency": true,
       "source_fact_check": false,
       "source_traceability": false,
-      "editorial_publication_readiness": false
+      "editorial_publication_readiness": false,
+      "pipeline_validation": true,
+      "repository_build": false
     },
     "issues": [
       {
         "severity": "material",
-        "code": "US_MARKET_CLOSE_VINTAGE_AND_SEMICONDUCTOR_DIRECTION",
+        "code": "REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE",
         "paths": [
-          "staging/research/2026/11/2026-11-19-global-macro/en.md",
-          "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md",
-          "data/pending/2026-11-19-global-macro.json"
-        ],
-        "locations": [
-          "en.md:11,16",
-          "pt-BR.md:11,16",
-          "pending.producer_checks.evidence_vintage"
-        ],
-        "evidence": "The cited Reuters market article currently reports Dow -1.11% at 50,198.17, S&P 500 -0.23% at 7,323.64, and Nasdaq +0.42% at 24,429.89; it also says the Philadelphia SE Semiconductor Index gained 0.1%. The staged editions instead report -1.12% at 50,193.03, -0.24% at 7,322.53, +0.39% at 24,429.89, and say the Philadelphia index closed lower. The article page shows first publication on 18 Nov 2026 at 10:28 UTC and an update dated 19 Nov, not publication on 19 Nov at 10:28 UTC as stated in evidence_vintage. The current linked version does not expose the preliminary values used by the staged editions. Reuters page: https://www.reuters.com/business/nasdaq-futures-jump-nvidia-forecast-lifts-ai-trade-ahead-anthropic-pricing-2026-11-18/ . The fifth-consecutive-decline claim is not stated in that Reuters article; AP reports the streak: https://apnews.com/article/dad5715bc91b4aba23a567a40e22b1fc .",
-        "required_correction": "Use the final values shown by the currently cited Reuters version and correct the Philadelphia index to +0.1%, or provide a timestamped archived source proving the preliminary values available at the stated cutoff. Correct the Reuters publication date to 18 Nov 10:28 UTC and describe the 19 Nov update separately. Add AP as a reference for the S&P five-session streak or remove that sentence. Apply the same correction to EN and PT-BR and the summary table."
-      },
-      {
-        "severity": "material",
-        "code": "OIL_INTRADAY_QUOTE_REFERENCE_MISMATCH",
-        "paths": [
+          "data/pending/2026-11-19-global-macro.json",
           "staging/research/2026/11/2026-11-19-global-macro/en.md",
           "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
         ],
         "locations": [
-          "en.md:9, references [2]",
-          "pt-BR.md:9, references [2]"
+          "pending.producer_checks.information_cutoff",
+          "pending.producer_checks.evidence_vintage",
+          "en.md:3 and references [4]",
+          "pt-BR.md:3 and references [4]"
         ],
-        "evidence": "The current direct Reuters [2] URL is the 19 Nov settlement story. Its body reports Brent settling at US$91.98 and WTI at US$83.21, and contains neither the 09:53 GMT timestamp nor the staged intraday values US$92.19, US$83.31 and US$82.43. The exact 09:53 GMT Reuters wire values are available in a separate Reuters-syndicated story published by Media Selangor at https://mediaselangor.com/en/2026/11/407978 (19 Nov, 10:21 AM; body explicitly gives 0953 GMT). The 18 Nov settlement figures are correctly supported by the separate Reuters [14] article.",
-        "required_correction": "Replace reference [2] with the correct 19 Nov Reuters wire copy or add it as a distinct reference, and make the title/URL match. Keep the 19 Nov intraday observation separate from the 19 Nov settlement and from the 18 Nov settlement. Recalculate source_audit after the reference change."
+        "evidence": "The cited Reuters article shows first publication on 18 November 2026 at 10:28 UTC and only an undetailed update date of 19 November. Its current body contains the final S&P 500 (-0.23%), Dow (-1.11%) and Nasdaq (+0.42%) closes and the Philadelphia Semiconductor Index +0.1%, but does not expose the time at which those final values were added. The report's information cutoff is 19 November 16:00 BRT / 19:00 UTC. The source therefore does not establish that the final version used by the report was available by that cutoff. The source confirms the values now, but not their availability at the declared vintage.",
+        "required_correction": "Provide an archived Reuters version or another directly verifiable market-data source with a publication/observation timestamp before 19:00 UTC on 19 November for the exact closing values. Otherwise replace the values with a source whose vintage is verifiable and revise the cutoff/evidence-vintage statements in both languages."
       },
       {
         "severity": "material",
-        "code": "ASIA_INTRADAY_SNAPSHOT_NOT_REPRODUCIBLE",
-        "paths": [
-          "staging/research/2026/11/2026-11-19-global-macro/en.md",
-          "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md"
-        ],
-        "locations": [
-          "en.md:3,99,172",
-          "pt-BR.md:3,99,172"
-        ],
-        "evidence": "The current linked Edge page https://edgeconsultancykw.com/asia-market-wrap-19-november-2026/ states that it was first published at 03:52 GMT and later updated with the session-closing edition at 11:08 GMT. Its current title is 'Asia Market Wrap 19 November: Hang Seng Falls a Third Day as Singapore Ends Its Slide' and its current table shows closing values including Taiex -4.40%, Hang Seng -1.95%, ASX 200 -1.04%, Shanghai -0.28%, Kospi +1.39% and Nikkei +0.71%. It no longer exposes the cited 03:51 GMT early snapshot (Taiex -3.73%, Hang Seng -1.89%, ASX -1.13%, Shanghai -0.44%, Kospi -0.94%, Nikkei +0.21%) or the cited 'Early Session' title. The link is mutable and the earlier edition is not reproducible from the current page.",
-        "required_correction": "Provide an archived copy or timestamped capture of the 03:51 GMT edition that preserves all six values and the cited title. Otherwise replace the snapshot with the current closing edition, update every value and timestamp in both languages, and relabel it as closing data."
-      },
-      {
-        "severity": "material",
-        "code": "SOURCE_AUDIT_COUNTS_MISMATCH",
+        "code": "SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING",
         "paths": [
           "data/pending/2026-11-19-global-macro.json"
         ],
         "locations": [
-          "pending.source_audit"
+          "pending.producer_checks.revision_5_corrections",
+          "pending top-level keys and producer_checks"
         ],
-        "evidence": "The current 14 reference URLs resolve to 9 unique hostnames: www.iea.org, www.reuters.com, ir.eia.gov, www.federalreserve.gov, home.treasury.gov, www.worldbank.org, ec.europa.eu, economia.uol.com.br and edgeconsultancykw.com. The pending source_audit declares 11 distinct_domains. Its 8 primary_institutional_sources / 5 market_reporting_sources split is not reproducible from the 14 listed references without an explicit classification rule.",
-        "required_correction": "Recompute distinct_domains from the actual 14 URLs and document a reproducible source-type classification. Update the counts after replacing or adding the oil and market references."
+        "evidence": "Revision 5 states that the 14-reference source audit was recomputed to 10 distinct hostnames, 7 primary institutional references and 7 market-reporting/syndication references, with a classification rule recorded. The current pending v2 contains no source_audit field at the top level or inside producer_checks. The correction is therefore not persisted in the immutable QA input and the claimed audit cannot be independently reconciled from the sidecar.",
+        "required_correction": "Persist the recomputed source_audit object in the pending sidecar, including reference count, distinct-hostname count, primary-institutional count, market-reporting/syndication count and an explicit reference-by-reference classification rule. Recompute it from the exact final EN/PT-BR bibliographies and resubmit with new pending and both Markdown blob SHAs."
+      },
+      {
+        "severity": "material",
+        "code": "REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT",
+        "paths": [
+          "reports/2026/11/2026-11-18-global-macro/en.md",
+          "reports/2026/11/2026-11-18-global-macro/pt-BR.md",
+          "scripts/validate-editorial-depth.mjs",
+          "scripts/validate-research.mjs"
+        ],
+        "locations": [
+          "GitHub Actions run 45009879036, build job, Validate and build step",
+          "validate-research.mjs runs before validate-editorial-depth.mjs"
+        ],
+        "evidence": "On the exact reviewed HEAD, GitHub Actions run 45009879036 executed scripts/validate-pipeline.mjs successfully (208 public bundles, zero unpublished pending and zero approved-unpublished), then failed in scripts/validate-research.mjs on editorial self-reference in the already-public MT-GM-2026-11-18 English and Portuguese editions. The build skipped visual-semantics, generated-site and editorial-depth steps. The required strict editorial-depth script was not executed against this candidate revision.",
+        "required_correction": "Resolve the pre-existing public-report validation failure through the appropriate editorial correction process, then rerun the repository build and strict editorial-depth validation against the exact candidate fingerprints. QA must not alter reports/** or bypass the failed prerequisite."
       }
     ],
-    "notes": "Revision 4 has a new pending + EN/PT-BR fingerprint and received the single recovery review permitted by the prior QA note. It passes structural parity, editorial-depth and visual-evidence thresholds, and the reconciliation-ledger run is present for all seven required assets. It fails material source/fact-check gates listed above. The rejection count remains three; no fourth rejection was created. This revision is blocked and must be escalated to producer task 1/5. Any subsequent review must first verify a canonical revision greater than the public revision and must not reuse this pending/source fingerprint."
+    "notes": "Revision 5 is a new pending/source fingerprint after the single recovery review of revision 4. The three-rejection limit remains reached. This is a blocked recovery review, not a fourth rejection: rejection_count_for_id remains 3 and rejection_loop_limit_reached remains true. The 11/19 Media Selangor Reuters syndication now reproduces the 09:53 GMT oil quote; The Edge page exposes its 11:08 GMT closing edition; the IEA launch event is scheduled at 13:00 Antalya time on 19 November, before the report cutoff. Those corrections do not resolve the Reuters final-close update-time gap, the missing persisted source audit, or the repository build prerequisite. Return the corrections to MT 1/5 — Diário e Radar. No approval or publication authorization."
   }
 }
