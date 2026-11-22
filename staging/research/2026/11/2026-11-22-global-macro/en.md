@@ -26,10 +26,10 @@ The annual industry data reveal a much less uniform pattern. TFP rose in seven o
 | --- | ---: | --- |
 | Wholesale trade | +3.7% | Largest positive result in the BLS table; not a measure of retail demand |
 | Information | +1.9% | Broad industry aggregate; does not isolate AI adoption |
-| Real estate and rental | +1.9% | Includes a heterogeneous set of activities |
+| Real estate and rental and leasing | +1.9% | Includes a heterogeneous set of activities |
 | Professional and technical services | +1.9% | Does not establish that every occupation gained efficiency |
 | Finance and insurance | +1.3% | Industry-level estimate, not a measure of financial stability |
-| Agriculture, forestry and fishing | +0.7% | Output and input composition vary across activities |
+| Agriculture, forestry, fishing and hunting | +0.7% | Output and input composition vary across activities |
 | Health care and social assistance | +0.4% | Small positive change, with substantial subsector variation |
 | Manufacturing | -1.2% | TFP decline despite capital and intermediate-input changes |
 | Utilities | -1.7% | Higher combined inputs outpaced measured output |
@@ -43,7 +43,7 @@ The complete distribution is shown below. The nineteen industries are not additi
 type: bar
 title: U.S. total factor productivity by major industry, 2025
 unit: Annual percent change
-Agriculture, forestry and fishing | 0.7
+Agriculture, forestry, fishing and hunting | 0.7
 Mining | -0.4
 Utilities | -1.7
 Construction | -1.0
@@ -53,7 +53,7 @@ Retail trade | -2.3
 Transportation and warehousing | -0.7
 Information | 1.9
 Finance and insurance | 1.3
-Real estate and rental | 1.9
+Real estate and rental and leasing | 1.9
 Professional and technical services | 1.9
 Management of companies | -0.9
 Administration and waste services | -1.0

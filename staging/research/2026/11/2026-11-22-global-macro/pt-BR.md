@@ -26,10 +26,10 @@ Os dados anuais por setor revelam um quadro muito menos uniforme. A PTF aumentou
 | --- | ---: | --- |
 | Comércio atacadista | +3,7% | Maior resultado positivo da tabela do BLS; não mede a demanda do varejo |
 | Informação | +1,9% | Agregado amplo; não isola a adoção de IA |
-| Atividades imobiliárias e de aluguel | +1,9% | Inclui um conjunto heterogêneo de atividades |
+| Atividades imobiliárias, aluguel e arrendamento | +1,9% | Inclui um conjunto heterogêneo de atividades |
 | Serviços profissionais e técnicos | +1,9% | Não demonstra que todas as ocupações ganharam eficiência |
 | Finanças e seguros | +1,3% | Estimativa setorial, não medida de estabilidade financeira |
-| Agricultura, silvicultura e pesca | +0,7% | Produção e composição dos insumos variam entre atividades |
+| Agricultura, silvicultura, pesca e caça | +0,7% | Produção e composição dos insumos variam entre atividades |
 | Saúde e assistência social | +0,4% | Pequena variação positiva, com diferenças relevantes entre subsetores |
 | Indústria de transformação | -1,2% | Queda da PTF apesar das mudanças em capital e insumos intermediários |
 | Serviços de utilidade pública | -1,7% | Os insumos combinados cresceram mais que a produção mensurada |
@@ -43,7 +43,7 @@ A distribuição completa aparece abaixo. Os dezenove setores não são componen
 type: bar
 title: Produtividade total dos fatores por grande setor nos EUA, 2025
 unit: Variação anual em %
-Agricultura, silvicultura e pesca | 0.7
+Agricultura, silvicultura, pesca e caça | 0.7
 Mineração | -0.4
 Serviços de utilidade pública | -1.7
 Construção | -1.0
@@ -53,7 +53,7 @@ Comércio varejista | -2.3
 Transporte e armazenagem | -0.7
 Informação | 1.9
 Finanças e seguros | 1.3
-Atividades imobiliárias e de aluguel | 1.9
+Atividades imobiliárias, aluguel e arrendamento | 1.9
 Serviços profissionais e técnicos | 1.9
 Gestão de empresas | -0.9
 Serviços administrativos e de resíduos | -1.0
@@ -78,7 +78,7 @@ Custos unitários do trabalho | -0.7
 
 Na comparação interanual, o quadro é menos expressivo: a produtividade aumentou 2,1% e os custos unitários do trabalho cresceram 2,4%. A taxa trimestral anualizada não deve ser apresentada como crescimento do ano inteiro, e as duas medidas utilizam denominadores diferentes. [2]
 
-## 3. A carteira de investimentos em IA é global, mas anúncios não são capacidade operacional
+## 3. O conjunto global de projetos de IA é amplo, mas anúncios não equivalem a capacidade operacional
 
 O discurso da diretora do Federal Reserve Lisa Cook, em 20 de novembro, descreveu a expansão da infraestrutura de IA como um ciclo global de investimento. Ela citou planos empresariais de mais de US$ 2 trilhões em projetos específicos de construção de centros de dados nos Estados Unidos, ressaltando que apenas uma fração foi realizada. Também observou que cerca de metade da capacidade mundial de centros de dados em construção estaria fora dos Estados Unidos, segundo estimativas mencionadas em seu discurso. São estimativas atribuídas e valores de projetos anunciados, não um inventário verificado de instalações concluídas ou de desembolsos de capital realizados. [3]
 
@@ -170,7 +170,7 @@ A tese de difusão ganharia força se as próximas divulgações do BLS mostrass
 
 ## 8. Balanço das evidências
 
-Os dados sustentam uma conclusão mais estreita do que a de um boom de produtividade da IA ou de um colapso do investimento em IA. A produtividade do trabalho nos Estados Unidos foi forte no terceiro trimestre, mas o crescimento anual da PTF permaneceu concentrado em sete de dezenove setores. A produção de alta tecnologia da China cresceu enquanto o investimento e as vendas de bens de consumo enfraqueceram. A carteira de infraestrutura de IA é global, mas os projetos anunciados superam amplamente a capacidade concluída. Os preços de mercado se ajustaram fortemente, mas os dados mais recentes de fluxos do Tesouro antecedem a queda e as evidências do BCE descrevem vulnerabilidades, não uma ruptura generalizada do crédito.
+Os dados sustentam uma conclusão mais estreita do que a de um boom de produtividade da IA ou de um colapso do investimento em IA. A produtividade do trabalho nos Estados Unidos foi forte no terceiro trimestre, mas o crescimento anual da PTF permaneceu concentrado em sete de dezenove setores. A produção de alta tecnologia da China cresceu enquanto o investimento e as vendas de bens de consumo enfraqueceram. O conjunto global de projetos de infraestrutura de IA anunciados supera amplamente a capacidade já concluída. Os preços de mercado se ajustaram fortemente, mas os dados mais recentes de fluxos do Tesouro antecedem a queda e as evidências do BCE descrevem vulnerabilidades, não uma ruptura generalizada do crédito.
 
 O principal risco macroeconômico é um descompasso entre a velocidade de implantação do capital e a velocidade com que produtividade, fluxo de caixa e renda das famílias melhoram. Esse descompasso pode sustentar o investimento por algum tempo e, ao mesmo tempo, aumentar a sensibilidade aos custos de financiamento, às restrições de eletricidade e às mudanças nos retornos esperados. Um dividendo amplo de produtividade continua possível; ainda não está demonstrado pelos dados setoriais disponíveis.
 
