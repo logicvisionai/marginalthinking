@@ -151,5 +151,85 @@
     "blocked_after_limit": true,
     "no_fourth_rejection": true
   },
-  "notes": "Third rejection for MT-GM-2026-11-22, revision 5. The pending and both staged Markdown blobs differ from revision 4, so this is a new submission rather than a replay. The NBS fixed-asset primary source and non-governmental-investment classification corrections from revision 4 are retained. The four earlier fuel/power, IEA inventory, diesel/freight geography and conflict-attribution corrections also remain. This rejection reaches the three-new-rejection limit for the ID; do not create a fourth rejection. A later corrected revision may be reviewed for approval, but any remaining material defect must be recorded as a block rather than another rejection. No approval or publication authorization is granted. No reports/**, data/reports.json, CSS, taxonomy or institutional content was modified."
+  "notes": "Third rejection for MT-GM-2026-11-22, revision 5. The pending and both staged Markdown blobs differ from revision 4, so this is a new submission rather than a replay. The NBS fixed-asset primary source and non-governmental-investment classification corrections from revision 4 are retained. The four earlier fuel/power, IEA inventory, diesel/freight geography and conflict-attribution corrections also remain. This rejection reaches the three-new-rejection limit for the ID; do not create a fourth rejection. A later corrected revision may be reviewed for approval, but any remaining material defect must be recorded as a block rather than another rejection. No approval or publication authorization is granted. No reports/**, data/reports.json, CSS, taxonomy or institutional content was modified.",
+  "blocked_revisions": [
+    {
+      "qa_status": "blocked",
+      "revision": 6,
+      "blocked_at": "2026-11-22T12:11:27Z",
+      "reviewed_commit": "5374f8bc455143a5a0b087afdba8eac2fe736ec4",
+      "pending_blob_sha": "446d183b9486fe62054811f9cbf946c7b86a7b0e",
+      "source_blob_shas": {
+        "en": "81f4a8b1934149464c91c91a7d63714db5f0ca84",
+        "pt-BR": "4f77bd03c3341bf844f4ac9de1b5f0ca84"
+      },
+      "rejection_count_for_id": 3,
+      "no_new_rejection": true,
+      "issue_codes": [
+        "BILINGUAL_PIPELINE_TERM_TRANSLATED_AS_PORTFOLIO"
+      ],
+      "issues": [
+        {
+          "severity": "material",
+          "code": "BILINGUAL_PIPELINE_TERM_TRANSLATED_AS_PORTFOLIO",
+          "paths": [
+            "staging/research/2026/11/2026-11-22-global-macro/en.md",
+            "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+          ],
+          "locations": [
+            "en.md:81 — heading 'The AI investment pipeline is global...'",
+            "pt-BR.md:81 — heading 'A carteira de investimentos em IA é global...'",
+            "en.md:173 — conclusion 'The AI infrastructure pipeline is global...'",
+            "pt-BR.md:173 — conclusion 'A carteira de infraestrutura de IA é global...'"
+          ],
+          "evidence": "The English edition describes a pipeline of announced projects progressing through financing, equipment orders, construction, grid connection, operating capacity, adoption and measured productivity. The Portuguese edition translates 'pipeline' as 'carteira', which denotes a portfolio/holdings rather than the staged project pipeline central to the argument. The ECB's separate use of 'portfolio' for non-bank equity holdings is correctly retained; this term must not be conflated with the AI project pipeline.",
+          "required_correction": "Use 'pipeline de projetos de investimento em IA' or 'conjunto de projetos de infraestrutura de IA em desenvolvimento' in the PT-BR heading and conclusion, preserving the distinction between announced projects and operating capacity. Recheck the section-3 flow and conclusion for equivalent terminology. As a non-blocking precision cleanup, align the TFP chart label in both languages with the BLS category 'Agriculture, forestry, fishing, and hunting' / 'Agricultura, silvicultura, pesca e caça'."
+        }
+      ],
+      "publication_prerequisites": [
+        "The publisher must append a reconciliation-ledger run naming MT-GM-2026-11-22 and recording decisions for all seven active reconciliation-required assets in the same publication transaction; the current ledger has no run naming this ID.",
+        "The current repository build is independently blocked by public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a candidate defect and was not modified by QA."
+      ],
+      "notes": "Revision 6 is a new source tuple, not a replay of revision 5. The three-rejection limit remains intact: this is a block, not a fourth rejection. The prior revision-5 rejection and all previous rejection records remain unchanged. The candidate-specific strict pipeline passed and the candidate was not listed among editorial-depth failures; the remaining blocker is bilingual terminology. No approval is authorized until a corrected source tuple is submitted and independently reviewed."
+    }
+  ],
+  "latest_block": {
+    "qa_status": "blocked",
+    "revision": 6,
+    "blocked_at": "2026-11-22T12:11:27Z",
+    "reviewed_commit": "5374f8bc455143a5a0b087afdba8eac2fe736ec4",
+    "pending_blob_sha": "446d183b9486fe62054811f9cbf946c7b86a7b0e",
+    "source_blob_shas": {
+      "en": "81f4a8b1934149464c91c91a7d63714db5f0ca84",
+      "pt-BR": "4f77bd03c3341bf844f4ac9de1b5f0ca84"
+    },
+    "rejection_count_for_id": 3,
+    "no_new_rejection": true,
+    "issue_codes": [
+      "BILINGUAL_PIPELINE_TERM_TRANSLATED_AS_PORTFOLIO"
+    ],
+    "issues": [
+      {
+        "severity": "material",
+        "code": "BILINGUAL_PIPELINE_TERM_TRANSLATED_AS_PORTFOLIO",
+        "paths": [
+          "staging/research/2026/11/2026-11-22-global-macro/en.md",
+          "staging/research/2026/11/2026-11-22-global-macro/pt-BR.md"
+        ],
+        "locations": [
+          "en.md:81 — heading 'The AI investment pipeline is global...'",
+          "pt-BR.md:81 — heading 'A carteira de investimentos em IA é global...'",
+          "en.md:173 — conclusion 'The AI infrastructure pipeline is global...'",
+          "pt-BR.md:173 — conclusion 'A carteira de infraestrutura de IA é global...'"
+        ],
+        "evidence": "The English edition describes a pipeline of announced projects progressing through financing, equipment orders, construction, grid connection, operating capacity, adoption and measured productivity. The Portuguese edition translates 'pipeline' as 'carteira', which denotes a portfolio/holdings rather than the staged project pipeline central to the argument. The ECB's separate use of 'portfolio' for non-bank equity holdings is correctly retained; this term must not be conflated with the AI project pipeline.",
+        "required_correction": "Use 'pipeline de projetos de investimento em IA' or 'conjunto de projetos de infraestrutura de IA em desenvolvimento' in the PT-BR heading and conclusion, preserving the distinction between announced projects and operating capacity. Recheck the section-3 flow and conclusion for equivalent terminology. As a non-blocking precision cleanup, align the TFP chart label in both languages with the BLS category 'Agriculture, forestry, fishing, and hunting' / 'Agricultura, silvicultura, pesca e caça'."
+      }
+    ],
+    "publication_prerequisites": [
+      "The publisher must append a reconciliation-ledger run naming MT-GM-2026-11-22 and recording decisions for all seven active reconciliation-required assets in the same publication transaction; the current ledger has no run naming this ID.",
+      "The current repository build is independently blocked by public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a candidate defect and was not modified by QA."
+    ],
+    "notes": "Revision 6 is a new source tuple, not a replay of revision 5. The three-rejection limit remains intact: this is a block, not a fourth rejection. The prior revision-5 rejection and all previous rejection records remain unchanged. The candidate-specific strict pipeline passed and the candidate was not listed among editorial-depth failures; the remaining blocker is bilingual terminology. No approval is authorized until a corrected source tuple is submitted and independently reviewed."
+  }
 }
