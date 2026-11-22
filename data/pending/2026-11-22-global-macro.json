@@ -125,9 +125,18 @@
   "cadence": "daily",
   "signal_rationale": {
     "delta": "The 20 November BLS release shows 2025 total factor productivity growth in only 7 of 19 major industries, while preliminary Q3 2026 nonfarm labour productivity rose 3.6% annualized. China’s October data show 17.6% growth in high-tech manufacturing alongside an 8.1% decline in fixed-asset investment during January–October. This is a new productivity-diffusion test, distinct from the prior editions’ focus on equity repricing, European energy inflation and semiconductor valuation.",
-    "evidence": "BLS Total Factor Productivity for Major Industries 2025 (20 Nov); BLS Productivity and Costs Q3 2026 preliminary (5 Nov); Federal Reserve Governor Cook speech (20 Nov); China NBS October 2026 data (16 Nov); ECB Financial Stability Review (Nov); Treasury TIC September (18 Nov); Japan CPI (20 Nov); European Commission flash confidence (20 Nov); Reuters market close (20 Nov); IEA Oil Market Report (13 Nov).",
+    "evidence": "BLS Total Factor Productivity for Major Industries 2025 (20 Nov); BLS Productivity and Costs Q3 2026 preliminary (5 Nov); Federal Reserve Governor Cook speech (20 Nov); China NBS October 2026 data (16 Nov); ECB Financial Stability Review (Nov); Treasury TIC September (18 Nov); Japan CPI (20 Nov); European Commission flash confidence (20 Nov); Reuters market close (20 Nov); IEA Oil Market Report (13 Nov).; Eurostat final October HICP release (18 Nov), including 21.0% energy inflation and 1.89 pp contribution",
     "scale_path": "AI data-centre projects move from announcements to financing, equipment delivery, construction, grid connection, utilization and adoption; productivity gains become broad only when operating firms change processes and outputs.",
     "transmission": "Concentrated productivity gains and capital deployment affect valuations, electricity and equipment costs, credit underwriting, household purchasing power, cross-border flows and the ability of industrial sectors to convert investment into output.",
     "falsifier": "Broader sectoral TFP gains, rising private investment and household demand in China, confirmed operating utilization of data centres and stable financing spreads would weaken the concentration-risk thesis; persistent narrow gains, project deferrals and tighter credit would strengthen it."
+  },
+  "revision": 2,
+  "revision_reason": "Corrected the October euro-area energy HICP to Eurostat's final 21.0% release on 18 November (the 20.8% figure was the 4 November flash estimate), added the final 1.89 percentage-point contribution, and narrowed the ECB portfolio statement to U.S. technology and AI-related holdings.",
+  "producer_checks": {
+    "information_cutoff": "22 Nov 2026 05:00 BRT; market observations refer to 20 Nov close and official releases retain their observation and release dates.",
+    "revision_scope": "This revision corrects the final Eurostat October HICP vintage and the geographic scope of the ECB non-bank equity exposure statement. No change to the core productivity-diffusion thesis, other market observations, or scenario conclusions.",
+    "source_vintage": "Eurostat final October 2026 HICP release published 18 Nov 2026; 21.0% annual energy inflation and 1.89 percentage-point contribution. The 20.8% figure was the 4 Nov flash estimate. European Commission consumer confidence is a separate 20 Nov flash indicator. ECB November Financial Stability Review refers specifically to non-bank holdings in U.S. technology and AI-related firms.",
+    "bilingual_parity": "The final HICP vintage, 21.0% energy rate, 1.89 percentage-point contribution, flash-to-final distinction, and ECB U.S. technology exposure scope are aligned in EN and PT-BR.",
+    "visual_evidence": "The correction does not change the existing two charts, one causal flow and one regional map; all chart values remain unchanged and bilingual visual parity is preserved."
   }
 }
