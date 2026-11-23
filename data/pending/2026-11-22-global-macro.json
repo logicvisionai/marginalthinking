@@ -130,14 +130,15 @@
     "transmission": "Concentrated productivity gains and capital deployment affect valuations, electricity and equipment costs, credit underwriting, household purchasing power, cross-border flows and the ability of industrial sectors to convert investment into output.",
     "falsifier": "Broader sectoral TFP gains, rising non-governmental fixed-asset investment and household demand in China, confirmed operating utilization of data centres and stable financing spreads would weaken the concentration-risk thesis; persistent narrow gains, project deferrals and tighter credit would strengthen it."
   },
-  "revision": 7,
-  "revision_reason": "Revision 7 replaces the ambiguous PT-BR rendering of the AI investment pipeline with an explicit set of announced projects, preserving the distinction between project announcements and operating capacity. It also aligns the agriculture/forestry/fishing/hunting and real-estate/rental/leasing labels with the BLS industry categories in both languages. Sources, dates, quantitative values, chart series and analytical conclusions are unchanged.",
+  "revision": 8,
+  "revision_reason": "Revision 8 adds the report-specific seven-asset system reconciliation run. No source, market observation, quantitative series, chart, cutoff, bilingual wording or analytical conclusion changed.",
   "producer_checks": {
     "information_cutoff": "22 Nov 2026 05:00 BRT; market observations refer to 20 Nov close and official releases retain their observation and release dates.",
     "revision_scope": "Revision 7 corrects the PT-BR wording for the AI investment pipeline in the section-3 heading and concluding evidence balance, replacing the ambiguous financial-portfolio term with an explicit global set of announced AI projects. Both editions now use the complete BLS category labels for agriculture, forestry, fishing and hunting, and real estate, rental and leasing. No source, observation period, numerical value, chart series, market-close attribution or analytical inference changed.",
     "source_vintage": "NBS reference [5], National Economy October release, was published 16 November 2026 and remains the source for industrial production, high-tech manufacturing, retail sales, PMI and the strong-supply/weak-demand statement. NBS reference [15], Industrial Producer Price Indexes in October 2026, was published 10 November and reports fuel-and-power industrial input purchasing prices +18.6% year on year and +4.1% month on month. NBS reference [16], Investment in Fixed Assets from January to October 2026, was published 17 November and reports fixed-asset investment excluding rural households -8.1%, manufacturing investment -2.9%, infrastructure investment -5.1% and non-governmental investment in fixed assets -11.4% year on year. IEA Oil Market Report November 2026 is reference [13], published 13 November, and provides inventory composition, Gulf export and crude-flow comparisons, Europe-specific diesel observation and route-specific freight data. Reuters reference [9], distributed by Euronext and dated 20 November, is the source for 20 November market-close yields of 4.948% (10-year) and 4.647% (2-year), as well as the late-session crude move and attributed conflict context. The separate Treasury par-yield-curve reference has been removed from the market-close claim. All cited source dates precede the 22 November 05:00 BRT cutoff.",
     "bilingual_parity": "The project-pipeline concept now matches across EN/PT-BR: announced AI projects are distinct from financed, constructed, grid-connected, operating and utilized capacity. The BLS industry labels include hunting and leasing in both languages. References, numeric values, chart series, dates, qualifications and conclusions remain aligned.",
-    "visual_evidence": "Two quantitative charts, three evidence tables, one causal flow and one regional map remain unchanged in structure and values. The BLS chart and table labels now preserve the complete official industry categories in both languages; all numeric series remain identical."
+    "visual_evidence": "Two quantitative charts, three evidence tables, one causal flow and one regional map remain unchanged in structure and values. The BLS chart and table labels now preserve the complete official industry categories in both languages; all numeric series remain identical.",
+    "reconciliation_run_id": "2026-11-23-mt-gm-2026-11-22-revision-7-publication-reconciliation"
   },
   "source_audit": {
     "references": 16,
@@ -145,5 +146,8 @@
     "primary_institutional_sources": 15,
     "market_reporting_sources": 1,
     "classification_rule": "Count exact hostnames from the 16 final reference URLs, counting repeated hosts once. Primary institutional sources: [1]-[8] and [10]-[16] (15; BLS, Federal Reserve, ECB, NBS, Japan Statistics Bureau, European Commission, Eurostat, U.S. Treasury, Banco Central do Brasil, IBGE and IEA). Market reporting: [9] (1; Reuters report distributed by Euronext). Hostnames: ec.europa.eu, economy-finance.ec.europa.eu, home.treasury.gov, live.euronext.com, www.bcb.gov.br, www.bls.gov, www.ecb.europa.eu, www.federalreserve.gov, www.ibge.gov.br, www.iea.org, www.stat.go.jp, www.stats.gov.cn."
-  }
+  },
+  "qa_fixes_applied": [
+    "Revision 8: recorded the complete seven-asset cumulative-system reconciliation; no canonical dataset updates were justified by the evidence."
+  ]
 }

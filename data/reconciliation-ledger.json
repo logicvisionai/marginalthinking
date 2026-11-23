@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-21T09:41:34Z",
+  "last_reconciled_at": "2026-11-23T12:10:48.558Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10052,6 +10052,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "verified_no_change",
           "note": "Anthropic and Nvidia financing, contractual compute commitments and AI-capital exposure are relevant to technology deployment economics, but they do not establish a new demonstrated capability, independent replication, deployment milestone or manufacturing-scale change under the ledger's maturity criteria."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-mt-gm-2026-11-22-revision-7-publication-reconciliation",
+      "reconciled_at": "2026-11-23T12:10:48.558Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-22"
+      ],
+      "audit_note": "Reviewed the 22 November 2026 Global Macro edition on productivity, AI investment and market repricing against all seven active cumulative assets. The report adds sectoral productivity and cross-border technology-exposure evidence but does not establish a new verified weighted dependency edge, a committed and operational capacity project with the required investment evidence, a transfer of ownership/control, a resource-rights change, a completed policy intervention with outcomes, a conflict-system event, or a demonstrated technology capability/deployment milestone. No canonical dataset was changed; the evidence gaps are retained explicitly.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The article compares US sector productivity and the ECB's non-bank exposure to US technology and AI-related firms, but it does not provide a new source-audited country-to-country weighted trade, credit, compute, energy or technology dependency edge. Do not infer bilateral dependence from portfolio exposure."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "AI investment announcements and productivity measurements do not establish a qualifying site-level opportunity with verified sponsor, committed capex, permitting, operational capacity, grid connection, demand and revenue. No opportunity record added."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "No verified change in ownership, voting rights, governance, control, strategic mandate or board authority is evidenced for a tracked actor."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No reserve, concession, licence, operator, beneficial owner, jurisdictional control or resource-rights change is identified."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The article discusses policy and investment conditions but does not evaluate a completed policy intervention with outcomes and a defensible counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No qualifying conflict event or conflict-system transition is documented in this macroeconomic edition."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Productivity and portfolio-allocation observations are relevant context, but they do not demonstrate a new technical capability, replication result, reliability/yield threshold, commissioning milestone or deployment at scale. Preserve as context, not a promoted signal."
         }
       ]
     }
