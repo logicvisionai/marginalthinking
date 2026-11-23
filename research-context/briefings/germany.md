@@ -47,6 +47,14 @@ Distributional conflict around energy prices, pensions, migration, housing, taxa
 - **United States:** major trade and security relationship; reverify current bilateral flows and policy conditions.
 - **Russia/Ukraine security system:** the war-driven security and energy rupture is a continuing mechanism behind defence, energy diversification and European industrial policy.
 
+## What changed since last review
+
+### 2026-11-23
+
+- **Postwar recovery was a conversion process, not an automatic dividend from war.** `MT-PE-2026-11-23` connects surviving industrial knowledge and organisations with the June 1948 currency and price reforms, reconstruction, access to external markets and expanding world demand. The direct contribution of Marshall Plan assistance relative to domestic reforms and surviving capacity remains debated. Industrial recovery also involved adjustment costs, including a sharp rise in unemployment.
+- **Corporate continuity is not asset continuity or exoneration.** BMW's wartime production depended on coercive labour; Allied authorities ordered the Munich and Allach facilities dismantled in 1945 and removed equipment. IG Farben's Monowitz plant was integrated with Auschwitz forced labour, and the conglomerate was dissolved by the Allies. Technical knowledge and supplier capabilities can survive while assets, ownership and legal structures change; do not infer uninterrupted corporate advantage from later recovery.
+- **Strategic industrial integration was also a response to war.** The 1950 Schuman initiative proposed shared authority over coal and steel, key inputs to heavy industry and armaments. Treat this as an institutional constraint on renewed Franco-German rivalry, not as evidence that war was a sustainable development model.
+
 ## Open questions for future research
 
 - Does infrastructure spending measurably improve project completion, logistics reliability, grid integration and private investment?
@@ -57,6 +65,7 @@ Distributional conflict around energy prices, pensions, migration, housing, taxa
 
 ## Related Marginal Thinking research
 
+- `MT-PE-2026-11-23` — war mobilisation, West German postwar conversion, corporate history and the institutional foundations of European industrial integration.
 - `MT-CC-2026-10-03-germany` — canonical country context and primary basis for this briefing.
 - `MT-CC-2026-10-03-poland` — Central European manufacturing, security and energy relationship.
 - `MT-CC-2026-09-27-france` — comparison within the EU/euro political economy.
@@ -66,3 +75,5 @@ Distributional conflict around energy prices, pensions, migration, housing, taxa
 ## Verification notes
 
 Future producers should re-open current primary sources, especially Destatis, Deutsche Bundesbank, Bundesnetzagentur, the Federal Ministry of Finance, the Federal Government, ECB/Eurostat and relevant EU institutions. Current GDP, employment, fiscal execution, energy prices, generation, defence totals and officeholders are time-sensitive and must not be copied from this memory as current fact.
+
+For postwar recovery, reopen the 1991 *Economic Report of the President*, Buchheim's chapter on Marshall Plan and currency reform, and the IMF postwar catch-up analysis cited in `MT-PE-2026-11-23`. For corporate history, treat BMW's account as primary institutional disclosure and cross-check it with USHMM and independent occupation-history research. Keep historical statistical series separate.

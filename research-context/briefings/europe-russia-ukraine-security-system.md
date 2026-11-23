@@ -31,7 +31,7 @@ The durable institutional tension is between sovereign alignment choice and atte
 
 ## Economy, production and society
 
-War has become part of European political economy rather than a separate foreign-policy variable. Higher defence commitments transmit through procurement, infrastructure, R&D, skilled labour, metals, electronics, energy, transport capacity and public finance. The economic effect depends on domestic versus imported production, financing method and whether new capacity produces civilian spillovers.
+War has become part of European political economy rather than a separate foreign-policy variable. Higher defence commitments transmit through procurement, infrastructure, R&D, skilled labour, metals, electronics, energy, transport capacity and public finance. The economic effect depends on domestic versus imported production, financing method and whether new capacity produces civilian spillovers. Domestic equipment production and public R&D can support supplier learning and civilian spillovers; import-heavy procurement and personnel-heavy outlays provide less domestic production learning. The ECB's 0.3% long-run TFP estimate is model-based, while IMF historical multipliers vary with import intensity, fiscal space and public-investment efficiency; neither is a guaranteed return for the current synchronised build-up.
 
 Ukrainian reconstruction and displacement are structural European variables. Destruction and insecurity transmit into reconstruction finance, labour supply, housing, schools, municipal budgets, integration policy, remittances, demographics and the future conditions of return. Germany and Poland are particularly relevant host-country systems and should be examined as part of this transmission rather than only as diplomatic actors.
 
@@ -59,6 +59,8 @@ The relative causal weight of these explanations remains contested and requires 
 
 ## What changed since last review
 
+- **2026-11-23:** `MT-PE-2026-11-23` separates defence mobilisation from physical destruction and documents how procurement composition, domestic production, public R&D, import intensity, fiscal space and investment execution shape potential industrial conversion. No new current conflict incident or conflict-system transition is established by this historical and policy comparison.
+
 - **2026-10-19:** `MT-CS-2026-10-19-MAJOR-POWER` adds a conditional wider-conflict perspective. Alliance consultation, collective-defence obligations, incident attribution and communication are separate institutional mechanisms. Military procurement competes for workers, materials and fiscal capacity; displacement, schooling, healthcare and social trust may remain affected after combat stops. Distinguish ceasefire, monitored armistice and lasting settlement. These are mechanisms, not predictions.
 
 - **2026-09-20:** canonical research `MT-CS-2026-09-20-EUR-RU-UA` established this conflict system as a reusable long-horizon research object and connected institutional history, actor perceptions, defence-industrial mobilisation, displacement and escalation mechanisms in one framework.
@@ -73,6 +75,7 @@ The relative causal weight of these explanations remains contested and requires 
 
 ## Related Marginal Thinking research
 
+- `MT-PE-2026-11-23` — historical mobilisation, postwar conversion and the composition of contemporary European defence spending.
 - `MT-CS-2026-09-20-EUR-RU-UA` — Europe–Russia–Ukraine security system.
 - `MT-CS-2026-10-19-MAJOR-POWER` — conditional cross-border effects.
 - Related context: `research-context/briefings/global-capital-allocation.md` for financing and capital-allocation transmission.
@@ -80,3 +83,5 @@ The relative causal weight of these explanations remains contested and requires 
 ## Sources and verification notes
 
 This briefing is derived from canonical Marginal Thinking research and is orientation only. Before public reuse, reopen the original primary sources cited in `MT-CS-2026-09-20-EUR-RU-UA`, especially NATO and treaty documents, UN records, European defence expenditure data, IMF analysis, World Bank/EC/UN reconstruction estimates, Eurostat displacement data, and the underlying KIIS and Levada survey documentation. Reverify current military posture, public opinion, spending commitments, sanctions, reconstruction estimates and displacement figures; these can change materially.
+
+For defence-spending productivity, reopen the ECB 2026 analysis and IMF Working Paper 2026/053 cited in `MT-PE-2026-11-23`. The 0.3% long-run TFP estimate is model-based; historical multipliers are period-specific and may not transfer to the current synchronised procurement cycle.

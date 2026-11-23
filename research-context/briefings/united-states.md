@@ -60,6 +60,12 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## What changed since last review
 
+### 2026-11-23
+
+- **Federal R&D can create persistent innovation clusters when procurement links universities, suppliers and engineering teams.** `MT-PE-2026-11-23` reviews the OSRD model; Gross and Sampat find persistent effects on technology clusters, high-technology entrepreneurship and employment around funded technologies. The durable mechanism is institutional coordination and early risk-bearing demand, not simply higher military outlays.
+- **Wartime output is not productivity.** Field documents a decline in US manufacturing productivity during 1941–45 and only partial recovery by 1948; some specialised facilities became obsolete after demobilisation. Separate output volume, labour and capital productivity, capacity formation and later civilian spillovers.
+- **The US conversion path had unusual initial conditions.** Its continental industrial core, energy and material base, and financial system remained largely intact. Postwar civilian prosperity also depended on household demand, housing, private investment, trade and diffusion. Do not generalise this outcome to economies whose industrial core was physically destroyed.
+
 ### 2026-10-20
 
 - **Mortgage transmission has several clocks:** Treasury benchmark yields, mortgage spreads, prepayment and servicing costs, underwriting and borrower income jointly determine quoted mortgage conditions. Distinguish new-buyer qualification, existing owners' low-rate lock-in, signed contracts, completed transactions and the outstanding mortgage stock; one day's bond repricing does not demonstrate an immediate household-credit easing.
@@ -86,6 +92,7 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## Related Marginal Thinking research
 
+- `MT-PE-2026-11-23` — OSRD-funded research, wartime manufacturing productivity and the conditions for postwar civilian conversion.
 - `MT-GM-2026-10-20` — mortgage affordability, distinct housing pipeline measures, distributional and selective cross-border transmission.
 - `MT-CC-2026-09-26-united-states` — canonical Country Context dossier establishing the federal, productive, housing, grid, labour and dollar-transmission mechanisms.
 - `MT-SA-2026-09-23-FEDERAL-RESERVE` — Federal Reserve institutional role and global monetary transmission.
@@ -98,3 +105,5 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 This briefing is memory, not evidence. Re-open current primary sources before public reuse. Useful anchors include BEA for output/investment and PCE, BLS for labour, Census for population/housing/trade, CBO and Treasury for fiscal/debt/interest conditions, Federal Reserve for monetary and financial conditions, DOE/FERC/regional grid operators for power and transmission, and Lawrence Berkeley National Laboratory for interconnection-queue research.
 
 Treat monthly housing, labour, inflation, yields and equipment data as dated observations rather than permanent structure. Treat interconnection queues as process evidence, not committed future capacity. Reverify laws, officeholders, fiscal baselines, migration, grid projects, mortgage rates and market conditions externally on every new research cycle.
+
+For the OSRD mechanism and wartime productivity, reopen Gross and Sampat's *American Economic Review* study (2023) and Alexander Field's 2022 study cited in `MT-PE-2026-11-23`. Distinguish measured productivity, output volumes, capital formation and long-run spillovers; procurement totals alone do not establish civilian returns.
