@@ -27457,5 +27457,163 @@
         "search_text": "Global Macro 19 novembro 2026 AIE World Energy Outlook Hormuz segurança energética oleodutos redes elétricas demanda eletricidade financiamento dívida emergente juros Treasuries"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-22",
+    "slug": "2026-11-22-global-macro",
+    "date": "2026-11-22",
+    "published_at": "2026-11-22T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "signal_rationale": {
+      "delta": "The 20 November BLS release shows 2025 total factor productivity growth in only 7 of 19 major industries, while preliminary Q3 2026 nonfarm labour productivity rose 3.6% annualized. China’s October data show 17.6% growth in high-tech manufacturing alongside an 8.1% decline in fixed-asset investment during January–October; non-governmental fixed-asset investment fell 11.4%. This is a new productivity-diffusion test, distinct from the prior editions’ focus on equity repricing, European energy inflation and semiconductor valuation.",
+      "evidence": "BLS Total Factor Productivity for Major Industries 2025 (20 Nov); BLS Productivity and Costs Q3 2026 preliminary (5 Nov); Federal Reserve Governor Cook speech (20 Nov); China NBS October 2026 macro data (16 Nov); NBS Investment in Fixed Assets from January to October 2026 (17 Nov); ECB Financial Stability Review (Nov); Treasury TIC September (18 Nov); Japan CPI (20 Nov); European Commission flash confidence (20 Nov); Reuters market close (20 Nov); IEA Oil Market Report (13 Nov); Eurostat final October HICP release (18 Nov): 21.0% annual energy inflation, 1.89 percentage-point contribution and comparison with the 4 November flash estimate (20.8%).; NBS Industrial Producer Price Indexes in October 2026 (10 Nov), claim-specific fuel-and-power purchasing-price sub-index",
+      "scale_path": "AI data-centre projects move from announcements to financing, equipment delivery, construction, grid connection, utilization and adoption; productivity gains become broad only when operating firms change processes and outputs.",
+      "transmission": "Concentrated productivity gains and capital deployment affect valuations, electricity and equipment costs, credit underwriting, household purchasing power, cross-border flows and the ability of industrial sectors to convert investment into output.",
+      "falsifier": "Broader sectoral TFP gains, rising non-governmental fixed-asset investment and household demand in China, confirmed operating utilization of data centres and stable financing spreads would weaken the concentration-risk thesis; persistent narrow gains, project deferrals and tighter credit would strengthen it."
+    },
+    "revision": 8,
+    "revision_reason": "Revision 8 adds the report-specific seven-asset system reconciliation run. No source, market observation, quantitative series, chart, cutoff, bilingual wording or analytical conclusion changed.",
+    "producer_checks": {
+      "information_cutoff": "22 Nov 2026 05:00 BRT; market observations refer to 20 Nov close and official releases retain their observation and release dates.",
+      "revision_scope": "Revision 7 corrects the PT-BR wording for the AI investment pipeline in the section-3 heading and concluding evidence balance, replacing the ambiguous financial-portfolio term with an explicit global set of announced AI projects. Both editions now use the complete BLS category labels for agriculture, forestry, fishing and hunting, and real estate, rental and leasing. No source, observation period, numerical value, chart series, market-close attribution or analytical inference changed.",
+      "source_vintage": "NBS reference [5], National Economy October release, was published 16 November 2026 and remains the source for industrial production, high-tech manufacturing, retail sales, PMI and the strong-supply/weak-demand statement. NBS reference [15], Industrial Producer Price Indexes in October 2026, was published 10 November and reports fuel-and-power industrial input purchasing prices +18.6% year on year and +4.1% month on month. NBS reference [16], Investment in Fixed Assets from January to October 2026, was published 17 November and reports fixed-asset investment excluding rural households -8.1%, manufacturing investment -2.9%, infrastructure investment -5.1% and non-governmental investment in fixed assets -11.4% year on year. IEA Oil Market Report November 2026 is reference [13], published 13 November, and provides inventory composition, Gulf export and crude-flow comparisons, Europe-specific diesel observation and route-specific freight data. Reuters reference [9], distributed by Euronext and dated 20 November, is the source for 20 November market-close yields of 4.948% (10-year) and 4.647% (2-year), as well as the late-session crude move and attributed conflict context. The separate Treasury par-yield-curve reference has been removed from the market-close claim. All cited source dates precede the 22 November 05:00 BRT cutoff.",
+      "bilingual_parity": "The project-pipeline concept now matches across EN/PT-BR: announced AI projects are distinct from financed, constructed, grid-connected, operating and utilized capacity. The BLS industry labels include hunting and leasing in both languages. References, numeric values, chart series, dates, qualifications and conclusions remain aligned.",
+      "visual_evidence": "Two quantitative charts, three evidence tables, one causal flow and one regional map remain unchanged in structure and values. The BLS chart and table labels now preserve the complete official industry categories in both languages; all numeric series remain identical.",
+      "reconciliation_run_id": "2026-11-23-mt-gm-2026-11-22-revision-7-publication-reconciliation"
+    },
+    "source_audit": {
+      "references": 16,
+      "distinct_domains": 12,
+      "primary_institutional_sources": 15,
+      "market_reporting_sources": 1,
+      "classification_rule": "Count exact hostnames from the 16 final reference URLs, counting repeated hosts once. Primary institutional sources: [1]-[8] and [10]-[16] (15; BLS, Federal Reserve, ECB, NBS, Japan Statistics Bureau, European Commission, Eurostat, U.S. Treasury, Banco Central do Brasil, IBGE and IEA). Market reporting: [9] (1; Reuters report distributed by Euronext). Hostnames: ec.europa.eu, economy-finance.ec.europa.eu, home.treasury.gov, live.euronext.com, www.bcb.gov.br, www.bls.gov, www.ecb.europa.eu, www.federalreserve.gov, www.ibge.gov.br, www.iea.org, www.stat.go.jp, www.stats.gov.cn."
+    },
+    "qa_fixes_applied": [
+      "Revision 8: recorded the complete seven-asset cumulative-system reconciliation; no canonical dataset updates were justified by the evidence."
+    ],
+    "url": "/reports/2026/11/2026-11-22-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-23T12:14:38.660Z",
+    "qa_confidence": "high",
+    "qa_reviewed_commit": "f570103d4c786822059576e62cefd2c0682e5a40",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Productivity gains remain concentrated as markets reassess the AI growth premium",
+        "deck": "U.S. labour productivity rose 3.6% annualized in Q3, but total factor productivity increased in only seven of nineteen major industries in 2025. China's high-tech output expanded while fixed investment and goods consumption remained weak.",
+        "tags": [
+          "global macro",
+          "productivity",
+          "artificial intelligence",
+          "capital expenditure",
+          "capital markets",
+          "industrial production",
+          "credit conditions",
+          "monetary policy",
+          "energy"
+        ],
+        "keywords": [
+          "total factor productivity",
+          "labour productivity",
+          "AI infrastructure",
+          "data centres",
+          "capital deepening",
+          "China fixed investment",
+          "Treasury yields",
+          "global equity repricing",
+          "cross-border capital flows"
+        ],
+        "regime": "Uneven productivity diffusion alongside concentrated AI investment and tighter financial conditions",
+        "key_risk": "Capital deployment and valuations may advance faster than operating capacity, broad productivity gains and cash-flow realization, increasing sensitivity to financing costs and electricity constraints.",
+        "watch": [
+          "BLS industry TFP revisions and breadth of positive sector readings",
+          "U.S. unit labour costs and productivity revisions",
+          "realized data-centre capacity, utilization and grid connections",
+          "China non-governmental fixed-asset investment and consumer-goods sales",
+          "ECB corporate credit standards and non-bank fund liquidity",
+          "AI-related debt issuance and financing spreads"
+        ],
+        "search_text": "Global Macro 22 November 2026; U.S. total factor productivity rose in seven of nineteen industries; labour productivity 3.6% annualized in Q3; AI data-centre capital expenditure; China high-tech output versus fixed investment and consumer demand; global equity repricing; Treasury yields; cross-border capital flows; credit conditions; energy.; China NBS industrial fuel-and-power purchasing prices October 2026"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Ganhos de produtividade seguem concentrados enquanto o mercado reavalia o prêmio de crescimento da IA",
+        "deck": "A produtividade do trabalho nos EUA cresceu 3,6% em taxa anualizada no terceiro trimestre, mas a produtividade total dos fatores aumentou em apenas sete de dezenove grandes setores em 2025. A produção chinesa de alta tecnologia avançou enquanto o investimento em ativos fixos e o consumo de bens permaneceram fracos.",
+        "tags": [
+          "macro global",
+          "produtividade",
+          "inteligência artificial",
+          "despesas de capital",
+          "mercados de capitais",
+          "produção industrial",
+          "condições de crédito",
+          "política monetária",
+          "energia"
+        ],
+        "keywords": [
+          "produtividade total dos fatores",
+          "produtividade do trabalho",
+          "infraestrutura de IA",
+          "centros de dados",
+          "aprofundamento de capital",
+          "investimento fixo da China",
+          "rendimentos dos Treasuries",
+          "reprecificação global de ações",
+          "fluxos internacionais de capital"
+        ],
+        "regime": "Difusão desigual da produtividade em paralelo a investimentos concentrados em IA e condições financeiras mais restritivas",
+        "key_risk": "A implantação de capital e as avaliações de mercado podem avançar mais rapidamente do que a capacidade operacional, os ganhos amplos de produtividade e a realização de fluxo de caixa, elevando a sensibilidade aos custos de financiamento e às restrições de eletricidade.",
+        "watch": [
+          "Revisões da PTF setorial do BLS e amplitude dos setores com resultados positivos",
+          "custos unitários do trabalho e revisões de produtividade nos EUA",
+          "capacidade realizada, utilização e conexões à rede de centros de dados",
+          "investimento não governamental em ativos fixos e vendas de bens de consumo na China",
+          "critérios de crédito corporativo do BCE e liquidez de fundos não bancários",
+          "emissão de dívida ligada à IA e spreads de financiamento"
+        ],
+        "search_text": "Global Macro 22 de novembro de 2026; produtividade total dos fatores dos EUA cresceu em sete de dezenove setores; produtividade do trabalho 3,6% anualizada no terceiro trimestre; despesas de capital em centros de dados de IA; produção chinesa de alta tecnologia versus investimento não governamental em ativos fixos e consumo; reprecificação global de ações; rendimentos dos Treasuries; fluxos internacionais; condições de crédito; energia.; preços de compra de combustíveis e energia na indústria chinesa outubro de 2026"
+      }
+    }
   }
 ]
