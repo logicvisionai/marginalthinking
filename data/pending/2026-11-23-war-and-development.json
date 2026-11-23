@@ -186,14 +186,46 @@
       "references_en": 12,
       "references_pt": 12,
       "ready_for_independent_qa": true,
-      "revision": 2
+      "revision": 2,
+      "reconciliation_complete": true
     },
     "visual_evidence": {
       "charts": 2,
       "tables": 3,
       "flows": 1,
       "maps": 1
-    }
+    },
+    "reconciliation_run_id": "2026-11-23-mt-pe-2026-11-23-war-and-development-reconciliation",
+    "reconciliation_decisions": [
+      {
+        "asset_id": "global-dependency-network",
+        "decision": "not_applicable"
+      },
+      {
+        "asset_id": "structural-opportunity-atlas",
+        "decision": "not_applicable"
+      },
+      {
+        "asset_id": "strategic-actors",
+        "decision": "verified_no_change"
+      },
+      {
+        "asset_id": "resource-control-atlas",
+        "decision": "not_applicable"
+      },
+      {
+        "asset_id": "policy-case-atlas",
+        "decision": "not_applicable"
+      },
+      {
+        "asset_id": "conflict-systems",
+        "decision": "verified_no_change"
+      },
+      {
+        "asset_id": "technology-signal-ledger",
+        "decision": "not_applicable"
+      }
+    ]
   },
   "revision": 2,
   "revision_reason": "Revision 2 adds comparable evidence tables, explicit quantitative exhibits and causal/geographic visual blocks in both languages. No underlying historical observation, source citation or analytical conclusion changed.",
