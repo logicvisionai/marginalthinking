@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-23",
+  "slug": "2026-11-23-global-macro",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T06:20:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-23-global-macro/en.md",
+      "title": "Ore keeps arriving while steel cools: China shifts the adjustment to inventories and exporters",
+      "deck": "Chinese iron-ore imports rose 3.1% in January–October while crude-steel output fell 2.8%; inventories, margins and new export corridors now determine how the adjustment reaches producers.",
+      "tags": [
+        "Global Macro",
+        "China",
+        "iron ore",
+        "steel",
+        "Brazil",
+        "Australia",
+        "Guinea"
+      ],
+      "keywords": [
+        "iron ore imports",
+        "Chinese steel production",
+        "port inventories",
+        "Simandou",
+        "Brazil iron ore exports",
+        "Pilbara Ports",
+        "steel margins",
+        "global yields"
+      ],
+      "regime": "China’s steel chain is contracting while iron-ore inflows remain resilient; inventories and export receipts are absorbing the mismatch.",
+      "key_risk": "A deeper Chinese steel-demand contraction coinciding with new seaborne supply would compress exporter prices and project cash flows.",
+      "watch": [
+        "Worldsteel October production release on 24 November",
+        "Chinese port and mill inventories",
+        "hot-metal output and steel-mill profitability",
+        "Simandou port commissioning",
+        "Brazilian iron-ore unit export values",
+        "OPEC+ meeting on 29 November"
+      ],
+      "search_text": "Global Macro 23 November 2026 China iron ore imports steel output port inventories exporter receipts Brazil Australia Guinea Simandou Treasury yields Federal Reserve ECB energy oil"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md",
+      "title": "O minério continua chegando enquanto o aço desacelera: a China desloca o ajuste para estoques e exportadores",
+      "deck": "As importações chinesas de minério cresceram 3,1% entre janeiro e outubro enquanto a produção de aço bruto caiu 2,8%; estoques, margens e novas rotas de exportação determinam como o ajuste chega aos produtores.",
+      "tags": [
+        "Global Macro",
+        "China",
+        "minério de ferro",
+        "aço",
+        "Brasil",
+        "Austrália",
+        "Guiné"
+      ],
+      "keywords": [
+        "importações de minério",
+        "produção siderúrgica chinesa",
+        "estoques portuários",
+        "Simandou",
+        "exportações brasileiras de minério",
+        "Pilbara Ports",
+        "margens siderúrgicas",
+        "juros globais"
+      ],
+      "regime": "A cadeia siderúrgica chinesa recua enquanto as entradas de minério permanecem resilientes; estoques e receitas de exportação absorvem a divergência.",
+      "key_risk": "Uma contração mais profunda da demanda chinesa por aço, combinada à nova oferta marítima, comprimiria preços de exportação e fluxo de caixa dos projetos.",
+      "watch": [
+        "Divulgação global de produção de aço de outubro pela Worldsteel em 24 de novembro",
+        "Estoques chineses nos portos e nas usinas",
+        "Produção de ferro-gusa e rentabilidade das siderúrgicas",
+        "Comissionamento do porto de Simandou",
+        "Valores unitários das exportações brasileiras de minério",
+        "Reunião da OPEP+ em 29 de novembro"
+      ],
+      "search_text": "Global Macro 23 novembro 2026 China importações minério ferro produção aço estoques portuários receita exportadores Brasil Austrália Guiné Simandou juros Treasury Federal Reserve BCE energia petróleo"
+    }
+  },
+  "signal_rationale": {
+    "delta": "The latest available editions focused on AI productivity/valuation, cross-asset stress and energy security. This issue adds a distinct physical-trade signal: Chinese iron-ore imports are rising while steel and pig-iron output fall, with port inventories and exporter receipts showing where the adjustment is being absorbed.",
+    "evidence": "GACC-derived imports +3.1% y/y Jan–Oct; NBS crude steel −2.8%, pig iron −3.1%; SteelHome port inventory +1.16 Mt w/w; Brazil iron-ore export value −27.6% y/y; Port Hedland iron-ore exports −4% y/y; SimFer shipped 2.2 Mt in H1.",
+    "scale_path": "China’s procurement and stock management affect seaborne ore prices; Brazil and Australia transmit price changes through export receipts; Guinea’s rail-port corridor adds future supply while its fiscal institutions remain in process.",
+    "transmission": "Steel margins and hot-metal output → procurement and inventories → benchmark ore prices and unit values → exporter cash flow, tax receipts and marginal infrastructure finance; energy and freight costs affect delivered costs in parallel.",
+    "falsifier": "A sustained decline in port and mill inventories together with rising hot-metal output and improving steel margins would weaken the inventory-led adjustment thesis."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "Global October steel production was not yet released at the 06:20 BRT cut-off; September is the latest complete global comparison.",
+    "The port-stock figure is a SteelHome industry survey, not a complete official inventory census.",
+    "Ore imports and steel output are not directly comparable because of grades, domestic ore, stock changes and shipment timing.",
+    "Brazil product-level export values are calculated from MDIC Comex Stat NCM 2601 data.",
+    "The latest comparable global credit-spread observation was not available at the cut-off; ECB risk statements are qualitative.",
+    "Guinea’s sovereign-fund law was still in a ratification process; no capitalization or operational status was established."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-23 06:20 America/Sao_Paulo",
+    "comparative_editions": [
+      "MT-GM-2026-11-22",
+      "MT-GM-2026-11-21",
+      "MT-GM-2026-11-19"
+    ],
+    "novelty_decision": "Distinct physical supply-chain thesis; no repetition of AI productivity, cross-asset sell-off or Gulf energy-security theses.",
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true,
+      "charts": 3,
+      "tables": 3,
+      "flows": 1,
+      "maps": 1
+    },
+    "visual_evidence": {
+      "charts": 3,
+      "tables": 3,
+      "flows": 1,
+      "maps": 1
+    },
+    "source_audit": {
+      "references": 21,
+      "primary_institutional_sources": 14,
+      "market_reporting_sources": 5,
+      "industry_data_sources": 2,
+      "urls_unique": 21
+    },
+    "manual_preflight": {
+      "schema_v2": true,
+      "controlled_programs": true,
+      "controlled_topics": true,
+      "phenomena_valid": true,
+      "word_count_en": 3504,
+      "word_count_pt": 4134,
+      "references_en": 21,
+      "references_pt": 21,
+      "ready_for_independent_qa": true,
+      "repository_script_validator": "not executed in this run; independent QA must run repository validators"
+    }
+  }
+}
