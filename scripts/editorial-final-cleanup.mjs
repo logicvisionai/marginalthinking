@@ -120,7 +120,7 @@ const enRules=[
 const apply=(text,rules)=>rules.reduce((out,[rx,to])=>out.replace(rx,to),text);
 
 function cleanHtml(text,rules){
-  const protectedBlock=/(<(?:script|style|pre|code)\b[\s\S]*?<\/(?:script|style|pre|code)>|<[^>]+>)/gi;
+  const protectedBlock=/(<(?:script|style|pre|code|h1)\b[\s\S]*?<\/(?:script|style|pre|code|h1)>|<[^>]+>)/gi;
   return text.split(protectedBlock).map(part=>part.startsWith('<')?part:apply(part,rules)).join('');
 }
 
