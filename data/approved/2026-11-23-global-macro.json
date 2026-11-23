@@ -1,0 +1,325 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-23",
+  "slug": "2026-11-23-global-macro",
+  "revision": 3,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-23T12:20:00.821Z",
+  "reviewed_commit": "d923ad38ba271486ccdd51931503ac2e4c3dae55",
+  "pending_blob_sha": "319b264d83a269f9dd9a6e58aa5456472f9946ed",
+  "source_blob_shas": {
+    "en": "017d94b855fc2c8999a88281c9a3ef5a524a4724",
+    "pt-BR": "331c3351d5758fa7167d1d59a4ae85f75ca23d1d"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "high",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending revision 3 and both staged Markdown files reread from main. Exact Git blob SHAs: pending 319b264d83a269f9dd9a6e58aa5456472f9946ed; EN 017d94b855fc2c8999a88281c9a3ef5a524a4724; PT-BR 331c3351d5758fa7167d1d59a4ae85f75ca23d1d."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Schema v2 and controlled daily-global-macro record validated in the political-economy-markets program, with global geography, dimensions, topics, phenomena, format and cadence consistent with taxonomy 1.0."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Information cutoff: 23 Nov 2026 06:20 BRT. NBS industrial production release is dated 17 Nov; China Mining Association customs summary 16 Nov; NBS fixed-asset and economic releases 17/16 Nov; SteelHome inventory survey 19 Nov; Reuters steel-market observation 23 Nov 01:53 GMT; Pilbara Ports 13 Nov; SimFer project update 6 Aug; Guinea government note 19 Nov; Reuters French PMI 23 Nov 05:18 BRT; Reuters Asian oil quote 23 Nov 05:44 BRT. World Steel October production data was not yet available, so the report uses September observations and explicitly labels the 24 Nov release as future."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "NBS confirms Jan-Oct crude steel 795.61 Mt (-2.8%), pig iron 691.52 Mt (-3.1%), rolled steel 1,173.48 Mt (-2.6%) and October crude steel 70.83 Mt (-1.6%). China Mining Association, citing GACC, reports iron-ore imports 1,060.554 Mt (+3.1%). SteelHome survey reports 157.36 Mt at 46 main ports, +1.16 Mt weekly, with ~110 Mt held by traders. Reuters/Mysteel supports around 10% of surveyed mills profitable versus 38% a year earlier, six consecutive weekly hot-metal declines to ~2.3 Mt/day, and the specified intraday DCE/SGX prices. Brazil's official MDIC consolidated October product data confirms US$2.124bn and 36.5 Mt, down 27.6% in value and 8.9% in volume; unit value US$58.1/t and -20.5%. Pilbara Ports confirms Port Hedland 48.0 Mt iron-ore exports (-4% y/y). SimFer reports 2.2 Mt shipped H1, rail commissioned Q1, mine progress 77%, port infrastructure 85% and Q1 2027 commissioning expectation. Guinea's 19 Nov note says sovereign-fund ratification was examined, not completed. Reuters supports France Composite PMI 46.2 and the time-stamped Brent/WTI quote. Evidence is not used to claim a structural ore surplus or an imminent price collapse."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Both editions contain the same 23 unique reference URLs. Core physical-flow claims draw on NBS, GACC-derived customs data, SteelHome and Pilbara Ports. Brazil export calculations are supported by official MDIC consolidated commodity data. SimFer project progress and Guinea institutional status rely on project and government sources. Reuters market values and PMI observations are separately time-stamped; future global steel data are not represented as already published."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Approximately 3062 English and 3614 Brazilian Portuguese words, seven analytical sections, conclusion, base/upside/downside paths and explicit falsification tests. Includes three quantitative charts, three evidence tables, one regional map and one causal flow."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Three quantitative charts, three evidence tables, one regional map and one causal flow are present in the two locales. The series, units, date windows, chart labels and source references match."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Both locales carry the same 23 unique URLs, observations, units, dates, cutoff, calculations, source qualifications and conclusions. France PMI value and the late Asia oil quotes are consistently time-scoped."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "This edition's distinguishing lens is the physical mismatch between Chinese ore inflows, steel output, inventories, mill margins and exporter receipts, including Brazil, Australia and Guinea. It does not repeat the prior AI productivity, cross-asset risk or energy-security theses."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report separates observed flows, interpretation and unproven claims, presents inventory-led, restocking and downside scenarios, and supplies falsification conditions based on port/mill stocks, steel margins, hot-metal output, property completions, infrastructure orders and regional production."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Run 2026-11-23-mt-gm-2026-11-23-revision-3-publication-reconciliation records explicit decisions for all seven active cumulative assets. It does not create unsupported bilateral trade edges, site-level investment opportunities, actor/resource-control changes, policy cases, conflict events or technology signals."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "Strict scan found no self-referential 'this report/este relatório' phrases, process narration, publication-pipeline language or internal roadmap prose. Revision 3 removes the two detected English formulations."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "The complete revision-3 pending object is embedded as the immutable approval snapshot. ID, slug, revision and exact pending and source blob SHAs match."
+    }
+  },
+  "contrary_evidence": [
+    "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",
+    "US manufacturing output rose 0.3% despite a 0.4% fall in aggregate industrial production.",
+    "The RBA recorded a divided six-to-three decision, evidencing uncertainty about optimal restrictive policy.",
+    "UK unemployment declined in a rolling-quarter survey while provisional payroll employment weakened.",
+    "US sovereign yields eased while multiple equity indexes fell.",
+    "The FOMC staff judged the banking system well capitalized and household balance sheets a buffer against financial shocks, even while flagging AI-related debt, opaque financing structures, elevated asset valuations and hedge-fund leverage."
+  ],
+  "limitations": [
+    "The information cutoff is 18 Nov 2026 16:20 BRT; US and Brazilian equity closes refer to 17 Nov.",
+    "The European Commission 2026–2028 forecasts and Nvidia's next-quarter guidance are projections, while October Eurostat/ONS figures are observed outcomes.",
+    "Anthropic's $900.9 billion aggregate includes obligations and commitments with different legal forms; $186.2 billion is subject to termination rights or contingent conditions, $150–175 billion of additional non-fixed-dollar arrangements is excluded, and $4.2 billion of the $70.7 billion due within 12 months is conditional or terminable.",
+    "Market index moves do not identify capital flows or private spreads without dedicated issuance and lending data.",
+    "The FOMC minutes were public at 16:00 BRT and are incorporated as a staff and participant risk assessment, not evidence of realized AI-related losses. The Brazilian PLP 299/2026 vote remained prospective at the 16:20 cutoff."
+  ],
+  "notes": "Revision 3 approved after independent checks of Chinese customs and steel production, port stocks, steel-mill profitability, Brazilian MDIC export values, Australian Port Hedland throughput, Simandou milestones, Guinea's sovereign-fund status, European PMI and time-stamped commodity quotations. Cumulative seven-asset reconciliation found no justified canonical changes. Production build and Cloudflare deployment are separate release gates.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-23",
+    "slug": "2026-11-23-global-macro",
+    "date": "2026-11-23",
+    "published_at": "2026-11-23T06:20:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-23-global-macro/en.md",
+        "title": "Ore keeps arriving while steel cools: China shifts the adjustment to inventories and exporters",
+        "deck": "Chinese iron-ore imports rose 3.1% in January–October while crude-steel output fell 2.8%; inventories, margins and new export corridors now determine how the adjustment reaches producers.",
+        "tags": [
+          "Global Macro",
+          "China",
+          "iron ore",
+          "steel",
+          "Brazil",
+          "Australia",
+          "Guinea"
+        ],
+        "keywords": [
+          "iron ore imports",
+          "Chinese steel production",
+          "port inventories",
+          "Simandou",
+          "Brazil iron ore exports",
+          "Pilbara Ports",
+          "steel margins",
+          "global yields"
+        ],
+        "regime": "China’s steel chain is contracting while iron-ore inflows remain resilient; inventories and export receipts are absorbing the mismatch.",
+        "key_risk": "A deeper Chinese steel-demand contraction coinciding with new seaborne supply would compress exporter prices and project cash flows.",
+        "watch": [
+          "Worldsteel October production release on 24 November",
+          "Chinese port and mill inventories",
+          "hot-metal output and steel-mill profitability",
+          "Simandou port commissioning",
+          "Brazilian iron-ore unit export values",
+          "OPEC+ meeting on 29 November"
+        ],
+        "search_text": "Global Macro 23 November 2026 China iron ore imports steel output port inventories exporter receipts Brazil Australia Guinea Simandou Treasury yields Federal Reserve ECB energy oil"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md",
+        "title": "O minério continua chegando enquanto o aço desacelera: a China desloca o ajuste para estoques e exportadores",
+        "deck": "As importações chinesas de minério cresceram 3,1% entre janeiro e outubro enquanto a produção de aço bruto caiu 2,8%; estoques, margens e novas rotas de exportação determinam como o ajuste chega aos produtores.",
+        "tags": [
+          "Global Macro",
+          "China",
+          "minério de ferro",
+          "aço",
+          "Brasil",
+          "Austrália",
+          "Guiné"
+        ],
+        "keywords": [
+          "importações de minério",
+          "produção siderúrgica chinesa",
+          "estoques portuários",
+          "Simandou",
+          "exportações brasileiras de minério",
+          "Pilbara Ports",
+          "margens siderúrgicas",
+          "juros globais"
+        ],
+        "regime": "A cadeia siderúrgica chinesa recua enquanto as entradas de minério permanecem resilientes; estoques e receitas de exportação absorvem a divergência.",
+        "key_risk": "Uma contração mais profunda da demanda chinesa por aço, combinada à nova oferta marítima, comprimiria preços de exportação e fluxo de caixa dos projetos.",
+        "watch": [
+          "Divulgação global de produção de aço de outubro pela Worldsteel em 24 de novembro",
+          "Estoques chineses nos portos e nas usinas",
+          "Produção de ferro-gusa e rentabilidade das siderúrgicas",
+          "Comissionamento do porto de Simandou",
+          "Valores unitários das exportações brasileiras de minério",
+          "Reunião da OPEP+ em 29 de novembro"
+        ],
+        "search_text": "Global Macro 23 novembro 2026 China importações minério ferro produção aço estoques portuários receita exportadores Brasil Austrália Guiné Simandou juros Treasury Federal Reserve BCE energia petróleo"
+      }
+    },
+    "signal_rationale": {
+      "delta": "The latest available editions focused on AI productivity/valuation, cross-asset stress and energy security. This issue adds a distinct physical-trade signal: Chinese iron-ore imports are rising while steel and pig-iron output fall, with port inventories and exporter receipts showing where the adjustment is being absorbed.",
+      "evidence": "GACC-derived imports +3.1% y/y Jan–Oct; NBS crude steel −2.8%, pig iron −3.1%; SteelHome port inventory +1.16 Mt w/w; Brazil iron-ore export value −27.6% y/y; Port Hedland iron-ore exports −4% y/y; SimFer shipped 2.2 Mt in H1.",
+      "scale_path": "China’s procurement and stock management affect seaborne ore prices; Brazil and Australia transmit price changes through export receipts; Guinea’s rail-port corridor adds future supply while its fiscal institutions remain in process.",
+      "transmission": "Steel margins and hot-metal output → procurement and inventories → benchmark ore prices and unit values → exporter cash flow, tax receipts and marginal infrastructure finance; energy and freight costs affect delivered costs in parallel.",
+      "falsifier": "A sustained decline in port and mill inventories together with rising hot-metal output and improving steel margins would weaken the inventory-led adjustment thesis."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "Global October steel production was not yet released at the 06:20 BRT cut-off; September is the latest complete global comparison.",
+      "The port-stock figure is a SteelHome industry survey, not a complete official inventory census.",
+      "Ore imports and steel output are not directly comparable because of grades, domestic ore, stock changes and shipment timing.",
+      "Brazil product-level export values are calculated from MDIC Comex Stat NCM 2601 data.",
+      "The latest comparable global credit-spread observation was not available at the cut-off; ECB risk statements are qualitative.",
+      "Guinea’s sovereign-fund law was still in a ratification process; no capitalization or operational status was established."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-23 06:20 America/Sao_Paulo",
+      "comparative_editions": [
+        "MT-GM-2026-11-22",
+        "MT-GM-2026-11-21",
+        "MT-GM-2026-11-19"
+      ],
+      "novelty_decision": "Distinct physical supply-chain thesis; no repetition of AI productivity, cross-asset sell-off or Gulf energy-security theses.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 3,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 23,
+        "references_pt": 23
+      },
+      "visual_evidence": {
+        "charts": 3,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1
+      },
+      "source_audit": {
+        "references": 23,
+        "primary_institutional_sources": 15,
+        "market_reporting_sources": 6,
+        "industry_data_sources": 2,
+        "urls_unique": 23,
+        "domains": 16,
+        "reproducibility_notes": {
+          "comex_stat": {
+            "flow": "export",
+            "period": "2026-10",
+            "ncm": "2601",
+            "measures": [
+              "FOB value in USD",
+              "net mass in kg"
+            ],
+            "unit_value_formula": "FOB value USD / net mass tonnes",
+            "limitation": "The exact CSV export is not embedded in this revision; preserve the query result or export if available."
+          },
+          "ecb_added": true,
+          "pmi_france": {
+            "observation": "Flash France Composite PMI Output Index, November 2026: 46.2; October 2026: 46.6",
+            "source": "Reuters report syndicated by Euronext",
+            "publication_time": "2026-11-23 09:18 CET (08:18 UTC; 05:18 BRT)",
+            "cutoff": "2026-11-23 06:20 America/Sao_Paulo",
+            "classification": "market_reporting_source",
+            "qualification": "Survey reading, not official output data"
+          }
+        }
+      },
+      "manual_preflight": {
+        "schema_v2": true,
+        "controlled_programs": true,
+        "controlled_topics": true,
+        "phenomena_valid": true,
+        "word_count_en": 3043,
+        "word_count_pt": 3589,
+        "references_en": 23,
+        "references_pt": 23,
+        "ready_for_independent_qa": true,
+        "repository_script_validator": "Strict editorial-health workflow will re-run validate-pipeline and validate-editorial-depth on this complete revision-1 tuple after commit.",
+        "revision": 2
+      },
+      "reconciliation_run_id": "2026-11-23-mt-gm-2026-11-23-revision-3-publication-reconciliation"
+    },
+    "revision": 3,
+    "revision_reason": "Revision 3 removes two English self-referential formulations identified by the strict editorial lint and records the report-specific seven-asset cumulative-system reconciliation. No source, observation, value, chart, information cutoff or analytical inference changed.",
+    "revision_scope": [
+      "Correct FOMC minutes citation to Federal Reserve source [14] in both editions.",
+      "Add the ECB Financial Stability Review, November 2026, as source [15] and renumber subsequent references consistently.",
+      "Correct the EN Simandou shipment citation from Pilbara Ports [9] to SimFer [10] to match PT-BR.",
+      "Add the controlled phenomenon war-armed-conflict because the report's energy and freight mechanism materially depends on the ongoing war.",
+      "Replace repeated formulaic distinction-signposting with direct economic statements.",
+      "Preserve the Comex Stat query parameters and FOB-value/net-mass calculation as a reproducibility note.",
+      "Add Reuters' France flash PMI report syndicated by Euronext as reference [23] in both editions; cite the 46.2 survey reading directly and update reference, source-class and unique-domain counts."
+    ],
+    "qa_rework": {
+      "prior_record": "data/rejected/2026-11-23-global-macro.json",
+      "prior_revision": 1,
+      "resolved_material_issues": [
+        "FOMC reference mapping corrected",
+        "ECB primary source added and cited",
+        "Simandou citation corrected in EN",
+        "war-armed-conflict phenomenon added",
+        "France flash composite PMI 46.2 directly sourced and cited in both locales"
+      ],
+      "editorial_cleanup": [
+        "Repeated distinction signposting rewritten in EN and PT-BR"
+      ],
+      "remaining_limitations": [
+        "Comex Stat exact CSV export remains unembedded; query parameters and calculation formula are recorded."
+      ]
+    },
+    "qa_fixes_applied": [
+      "FRANCE_FLASH_PMI_CITATION_MISSING",
+      "Revision 3: removed two English self-referential phrases while retaining the same market session and credit-risk caveats; completed seven-asset cumulative-system reconciliation with no unsupported canonical data changes."
+    ]
+  }
+}
