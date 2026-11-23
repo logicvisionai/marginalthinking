@@ -2,178 +2,127 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-23",
   "slug": "2026-11-23-global-macro",
-  "revision": 0,
-  "rejection_count_for_id": 1,
+  "revision": 1,
+  "rejection_count_for_id": 2,
   "rejection_loop_limit_reached": false,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-23T10:30:18.816Z",
-  "reviewed_commit": "a4996facdf2bb41c209d15207c62d1ac2221e067",
-  "pending_blob_sha": "1853242dbea863af8227836eff426ddedeca0e09",
+  "reviewed_at": "2026-11-23T10:36:07.775Z",
+  "reviewed_commit": "7f27335f5d12a7493f5c62069d851f5854295b84",
+  "pending_blob_sha": "e6d2cd0279586ad048a220e1fbd64035c28082ce",
   "source_blob_shas": {
-    "en": "94e0f09994358120cfe8adc1381233239393bb63",
-    "pt-BR": "e81f017070e55eb9867ba16b7cf472ea6a1e2336"
+    "en": "97c611bc8e0780aa77f559d3a35b198be1fa39ec",
+    "pt-BR": "3b22206ccfa5f7b24f01f7d2471627d2da218d39"
   },
-  "previous_rejections": [],
+  "previous_rejections": [
+    {
+      "revision": 0,
+      "reviewed_commit": "a4996facdf2bb41c209d15207c62d1ac2221e067",
+      "pending_blob_sha": "1853242dbea863af8227836eff426ddedeca0e09",
+      "source_blob_shas": {
+        "en": "94e0f09994358120cfe8adc1381233239393bb63",
+        "pt-BR": "e81f017070e55eb9867ba16b7cf472ea6a1e2336"
+      },
+      "rejection_record_blob_sha": "9736e86c6cc2e4decbcfeac6a059614dd1f88e18",
+      "resolved_in_revision": 1
+    }
+  ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "The pending v2 sidecar and both complete staged Markdown editions were read at main HEAD a4996facdf2bb41c209d15207c62d1ac2221e067. Exact Git blob tuple: pending 1853242dbea863af8227836eff426ddedeca0e09; EN 94e0f09994358120cfe8adc1381233239393bb63; PT-BR e81f017070e55eb9867ba16b7cf472ea6a1e2336. No approval, rejection or public metadata existed for this canonical ID/slug before this decision."
+      "summary": "Revision 1 pending and both complete staged Markdown files were read at main HEAD 7f27335f5d12a7493f5c62069d851f5854295b84. Exact tuple: pending e6d2cd0279586ad048a220e1fbd64035c28082ce; EN 97c611bc8e0780aa77f559d3a35b198be1fa39ec; PT-BR 3b22206ccfa5f7b24f01f7d2471627d2da218d39. All three blobs differ from the revision-0 rejected tuple."
     },
     "schema_and_taxonomy": {
-      "result": "failed",
-      "summary": "The v2 schema, ready flag, canonical ID/slug, registered daily-global-macro kind, program, dimensions, geography, topics, format and cadence are valid. However, phenomena is empty even though the report materially uses the ongoing Iran/Middle East war and attacks on energy infrastructure and tankers to explain diesel, freight and industrial-cost transmission. The controlled taxonomy includes war-armed-conflict; the empty array is therefore not justified."
+      "result": "passed",
+      "summary": "Revision 1 is explicitly declared, ready:true, retains the canonical ID/slug and valid v2 schema, and now includes the controlled phenomenon war-armed-conflict. The prior taxonomy defect is resolved."
     },
     "source_vintage_and_cutoff": {
-      "result": "passed_with_limitation",
-      "summary": "The declared cutoff is 2026-11-23 06:20 America/Sao_Paulo (09:20 UTC). The IEA November report, NBS releases, Worldsteel releases, FOMC minutes and other institutional sources predate the cutoff. The cited Reuters oil and gold snapshots are timestamped 08:44 GMT and 08:25 GMT respectively (05:44 and 05:25 BRT), before cutoff. Some same-day reporting references give publication date but not an explicit time in the bibliography; the report's quoted market observation times are within the cutoff."
+      "result": "passed",
+      "summary": "The report cutoff is 06:20 BRT (09:20 UTC). The missing French PMI evidence is available from a Reuters report syndicated by Euronext at 09:18 CET on 23 November (08:18 UTC / 05:18 BRT), before cutoff. The report's other same-day oil and gold quote times also precede cutoff."
     },
     "factual_methodology": {
       "result": "passed_with_limitation",
-      "summary": "The sampled core numerical claims and arithmetic are internally consistent with the cited source set: China ore imports +3.1% versus crude-steel output -2.8%; the Brazil implied October unit value of approximately US$58.1/t is consistent with US$2.12bn divided by 36.5 Mt; IEA crude-supply, inventory and diesel figures are supported by the November report. The Brazil NCM 2601 extraction is described by period and product code, but the linked consolidated database page does not preserve the exact query/export artifact, limiting direct reproduction."
+      "summary": "The French Flash Composite PMI value of 46.2 is factually correct: the S&P Global survey result is reproduced in Reuters' 23 November report syndicated by Euronext. The number is a survey reading, not official output, and the staged text already makes that distinction. The Brazil NCM 2601 export series remains reproducible from the stated query parameters but the exact CSV export is not embedded."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "Three material citation/classification defects remain. EN line 13 cites [9] (Pilbara Ports) for Simandou shipments, while [10] is the SimFer disclosure; PT-BR correctly cites [10]. Both editions cite [13] (US Treasury curve) for the FOMC minutes, although the FOMC source is [14]. Both cite [14] for the ECB Financial Stability Review, but [14] is the Federal Reserve and no ECB source appears in either bibliography. The official ECB November 2026 Financial Stability Review supports the stated risks but is absent from the references."
+      "summary": "The sentence stating that France's composite PMI remained in contraction at 46.2 is cited only to [18] and [19], which are the Euro-zone PMI and Germany PMI articles. The Euro-zone article reports that France's downturn deepened but does not provide 46.2 (a direct find on the cited article returns no match); the Germany article supports 55.0, not the French figure. A separate Reuters report syndicated by Euronext explicitly reports the Flash France Composite PMI Output Index at 46.2 from S&P Global and is absent from both bibliographies."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "The daily brief exceeds the repository's 1,700-word floor in both editions (producer count: EN 3,504; PT-BR 4,134), advances a distinct physical supply-chain thesis, separates observed facts from inference, compares China, Brazil, Australia and Guinea, states limitations and contrary evidence, and includes conditional scenarios with explicit falsifiers. Depth is not inferred from word count alone."
+      "summary": "The revised daily brief has 3,043 words in EN and 3,589 in PT-BR under the repository's word-count function, exceeding the 1,700-word daily floor. It retains the distinct physical supply-chain thesis, observed/inferred separation, limitations, contrary evidence, scenarios and falsifiers."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both editions contain three explicit charts, three tabular comparisons, one causal flow and one regional-comparison map. The numeric series and structural visual signatures are aligned across locales. The charts use sourced values and compatible units; the map uses qualitative regional cards rather than invented coordinates. The strict pipeline workflow included this candidate and did not report a visual-evidence failure."
+      "summary": "The strict pipeline workflow included revision 1 and did not report a visual failure. Both editions retain three charts, three tables, one causal flow and one regional-comparison map; chart series and structural visual signatures remain aligned."
     },
     "bilingual_equivalence": {
-      "result": "failed",
-      "summary": "The numerical series, chart values, flow and map structure are aligned, but citation mapping is not: EN line 13 cites [9] for Simandou while PT-BR cites [10]. Both locales also misnumber the FOMC and ECB citations in the same way. These are material source-traceability and bilingual-equivalence defects."
+      "result": "passed",
+      "summary": "Revision 1 corrected the prior EN/PT Simandou citation mismatch, aligned FOMC and ECB reference numbers, added the ECB source to both bibliographies and kept 22 references in each edition. The remaining France PMI omission is identical in both locales and is a shared evidence gap, not a translation divergence."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report identifies what would weaken the inventory-led adjustment thesis (falling port and mill stocks alongside recovering hot-metal output and margins), distinguishes ore availability from steelmaking economics, and treats Guinea project milestones and energy-market risks with explicit limits."
+      "summary": "The conditional inventory-led adjustment thesis and its falsifiers remain explicit. The report distinguishes survey indicators from official output and does not turn the France PMI reading into an observed GDP outcome."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "The 23 November edition adds a distinct physical-trade and exporter-receipts thesis, rather than repeating the recent AI-productivity, cross-asset stress or Gulf energy-security editions. It links China steel output and ore imports to inventories, Brazil/Australia export receipts and the future Simandou corridor."
+      "summary": "The issue remains distinct from the latest AI-productivity, cross-asset stress and Gulf energy-security editions by focusing on the iron-ore/steel physical trade chain and exporter receipts."
     },
     "editorial_style": {
-      "result": "passed_with_minor_revision",
-      "summary": "The prose is generally direct and institutionally appropriate, with references placed at the end. A repeated formulaic construction around 'the distinction matters' appears in EN lines 52 and 138 and in the equivalent PT-BR passages; this should be rewritten as direct analytical statements."
+      "result": "passed",
+      "summary": "The repeated formulaic distinction-signposting identified in revision 0 was removed in both languages. The prose remains direct and the references remain at the end."
     },
     "system_registry_reconciliation": {
       "result": "not_run",
-      "summary": "The item is not approved or public. QA did not modify the canonical reconciliation ledger. Before publication, the publisher must record evidence-based decisions for all active reconciliation-required assets in data/system-registry.json."
+      "summary": "No approval or publication exists. The publisher must record evidence-based decisions for all active reconciliation-required assets before publication; QA did not alter the canonical ledger."
     },
     "editorial_depth_script": {
       "result": "passed",
-      "summary": "Strict editorial-health workflow 45150006579 ran scripts/validate-editorial-depth.mjs with MT_VALIDATE_ALL_PENDING=1 at HEAD db858a5858447b8f1a90a12d82454c2923f03d61. The aggregate script failed on seven older drafts; MT-GM-2026-11-23 was not among the reported depth failures. Git compare db858a5...a4996fac shows that this candidate's pending and both staged Markdown paths were unchanged, and their exact blob SHAs still match the reviewed tuple. This is a candidate-specific pass, not an aggregate workflow pass."
+      "summary": "Strict editorial-health workflow 45157096499 ran scripts/validate-editorial-depth.mjs on revision 1 at this exact candidate HEAD. The aggregate job failed on 13 older drafts; MT-GM-2026-11-23 revision 1 was not among the reported failures. Repository word count, URL count, hosts, headings, chart, flow, map, table and bilingual chart-series checks were manually recomputed for this tuple."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "Strict editorial-health workflow 45150006579 ran scripts/validate-pipeline.mjs at the same candidate HEAD and reported 'Pipeline validation OK: 208 public bundles; 21 unpublished pending; 0 approved unpublished; 6 legacy pending already public.' The candidate was included in that strict inventory. The later normal publication-validation workflow 45154299409 also passed validate-pipeline.mjs on current HEAD with 208 public bundles and zero approved-unpublished items."
+      "summary": "Strict editorial-health workflow 45157096499 ran scripts/validate-pipeline.mjs and reported 208 public bundles, 22 unpublished pending, zero approved-unpublished and six legacy pending already public. The candidate was included in the strict pending inventory."
     },
     "repository_build": {
       "result": "failed",
-      "summary": "Current HEAD workflow 45154299409 passed pipeline validation but failed later in validate-research.mjs on the pre-existing public MT-GM-2026-11-18 EN/PT-BR self-reference at line 60. This repository-wide build blocker is independent of the present candidate and is not counted as a candidate factual defect."
+      "summary": "Publication-validation workflow 45157096746 passed validate-pipeline.mjs but failed validate-research.mjs on the pre-existing public MT-GM-2026-11-18 EN/PT-BR self-reference at line 60. This global build blocker is independent of revision 1."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Approval is withheld for incorrect FOMC/ECB reference mapping, the missing ECB bibliography entry, the EN/PT-BR Simandou citation mismatch, and omission of the materially relevant war-armed-conflict phenomenon. Minor improvements remain for repeated formulaic metadiscourse and preservation of the exact Comex Stat query/export. The independent repository build is also currently blocked by an unrelated public report."
+      "summary": "Revision 1 resolved all three material issues from revision 0 (FOMC/ECB references, Simandou EN citation and war-armed-conflict classification) and the minor formulaic prose issue. Approval is withheld because the France composite PMI value 46.2 lacks a source that actually contains that number in both editions. The repository-wide build also remains blocked by the unrelated MT-GM-2026-11-18 report."
     }
   },
   "confidence": "high",
   "contrary_evidence": [
-    "Chinese iron-ore imports and crude-steel output are not directly comparable measures: ore grades, domestic ore, stock changes and shipment timing affect the relationship.",
-    "SteelHome port inventories are an industry survey, not a complete official inventory census; trader-held stocks are estimates.",
-    "Worldsteel's latest complete global comparison at the cutoff is September; October global production was not yet released.",
-    "The IEA reports a recovery in global crude supply and a 52-million-barrel increase in observed stocks in October, even while on-land stocks remained at their lowest level since at least 2016 and diesel stayed above pre-war levels.",
-    "SimFer progress and shipment figures are company-reported; construction milestones do not establish full operational capacity or stable nameplate throughput.",
-    "Brazil's October iron-ore export value fell more sharply than volume; the implied unit-value change is a derived measure, not a quoted benchmark price."
+    "The France PMI reading is a survey measure and not official output or GDP; the report states this limitation.",
+    "Euro-zone aggregate PMI remains above 50 at 51.7 while France is at 46.2 and Germany at 55.0, demonstrating divergence rather than a uniform European contraction.",
+    "Chinese iron-ore imports and crude-steel output are not directly comparable measures because ore grades, domestic ore, stock changes and shipment timing affect the relationship.",
+    "The IEA reports a recovery in global crude supply and higher observed stocks, while on-land stocks remain low and diesel prices remain above pre-war levels.",
+    "The Brazil unit export value is derived from value divided by net mass, not a quoted benchmark price."
   ],
   "limitations": [
     "The SteelHome inventory survey is not a complete official census and trader-held inventory is estimated.",
     "The iron-ore import and steel-output series use different definitions and cannot establish a direct one-for-one demand relationship.",
-    "The Brazil Comex Stat NCM 2601 extraction is not preserved as a direct query/export artifact in the cited URL.",
-    "SimFer's project-completion and shipment figures are company disclosures, not independent operating audits.",
-    "The ECB credit-risk discussion is qualitative; the pending sidecar states that no comparable same-day global credit-spread series was available by cutoff.",
-    "The IEA and Reuters support the conflict-related energy and shipping risk, but the report correctly does not assign responsibility for every individual maritime incident.",
-    "The latest public build remains blocked by the unrelated MT-GM-2026-11-18 revision-5 self-reference; this does not establish a defect in the candidate."
+    "The Brazil Comex Stat NCM 2601 extraction is not preserved as a direct query/export artifact; the revision records flow, period, NCM, measures and formula.",
+    "SimFer progress and shipment figures are company disclosures, not independent operating audits.",
+    "The ECB credit-risk discussion is qualitative; no comparable same-day global credit-spread series is included.",
+    "The conflict discussion is attributed to IEA and Reuters; the report does not assign responsibility for every individual maritime incident."
   ],
   "issues": [
     {
       "severity": "material",
-      "code": "FOMC_ECB_REFERENCE_MAPPING_INVALID",
+      "code": "FRANCE_FLASH_PMI_CITATION_MISSING",
       "paths": [
         "staging/research/2026/11/2026-11-23-global-macro/en.md",
         "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md"
       ],
       "locations": [
-        "en.md:106 and pt-BR.md:106 — Federal Reserve October meeting-minutes paragraph ends with citation [13]",
-        "en.md:108 and pt-BR.md:108 — ECB November Financial Stability Review paragraph ends with citation [14]",
-        "en.md and pt-BR.md:180–203 — bibliography contains Treasury [13] and Federal Reserve [14], but no ECB Financial Stability Review entry"
+        "en.md:130 — France composite PMI at 46.2 is stated in the same paragraph as Germany 55.0 and cited only [18][19]",
+        "pt-BR.md:130 — France composite PMI at 46.2 is stated in the same paragraph and cited only [18][19]",
+        "References [18] and [19] — [18] is Reuters Euro-zone PMI; [19] is Reuters Germany PMI; neither contains the French 46.2 value"
       ],
-      "evidence": "Reference [13] is the US Department of the Treasury Daily Treasury Par Yield Curve Rates; reference [14] is the Federal Reserve FOMC minutes. The official FOMC minutes at https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm confirm the 10–2 vote and 3.75%–4.00% target range (sections at lines 105–127). The ECB Financial Stability Review, November 2026, is absent from both bibliographies, although its official page at https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html supports the cited discussion of high AI valuations, sovereign funding needs, non-bank leverage and liquidity vulnerabilities (overview and sections at lines 84–99 and 168–199).",
-      "required_correction": "In both editions, change the FOMC paragraph citation to [14]. Add the official ECB Financial Stability Review, November 2026, as a bibliography entry and cite it in the ECB paragraph. Renumber all subsequent references and every corresponding body citation consistently in EN and PT-BR. Update producer_checks.source_audit to reflect the added unique source; do not cite the Treasury curve as evidence for FOMC decisions."
-    },
-    {
-      "severity": "material",
-      "code": "SIMANDOU_SOURCE_CITATION_MISMATCH_EN_PT",
-      "paths": [
-        "staging/research/2026/11/2026-11-23-global-macro/en.md",
-        "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:13 — sentence ending 'Simandou has begun shipping...' cites [9]",
-        "pt-BR.md:13 — equivalent sentence cites [10]",
-        "Reference [9] is Pilbara Ports Authority October shipping figures; reference [10] is Rio Tinto Guinea / SimFer project disclosure"
-      ],
-      "evidence": "The EN bibliography identifies [9] as Pilbara Ports Authority's Australian Port Hedland shipping figures and [10] as Rio Tinto Guinea / SimFer's Simandou project disclosure. The PT-BR edition correctly uses [10] for the Simandou shipment claim. The English citation therefore points to an unrelated Australian port source and breaks bilingual source equivalence.",
-      "required_correction": "Change the EN citation after the Simandou shipment claim from [9] to [10]. Keep [9] attached to Port Hedland export figures. Recheck the remaining body citations in both editions after the ECB bibliography insertion and renumbering."
-    },
-    {
-      "severity": "material",
-      "code": "WAR_ARMED_CONFLICT_PHENOMENON_OMITTED",
-      "paths": [
-        "data/pending/2026-11-23-global-macro.json",
-        "staging/research/2026/11/2026-11-23-global-macro/en.md",
-        "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "pending v2 line 42 — top-level phenomena is an empty array",
-        "en.md:138 and pt-BR.md:138 — discussion of attacks on energy infrastructure and tankers, disrupted product exports, pre-war diesel prices and conflict-related risk premium",
-        "EN/PT-BR causal flow and regional map — energy/freight costs are part of the report's industrial transmission mechanism"
-      ],
-      "evidence": "The report uses the ongoing war/conflict as a material explanation for refined-product and freight costs. The IEA Oil Market Report, November 2026, https://www.iea.org/reports/oil-market-report-november-2026, describes ongoing attacks on energy infrastructure and tankers, the war in Iran, disrupted refined-product exports and diesel remaining 77% above pre-war levels (published 13 November 2026). Reuters' 23 November oil-market update https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/ reports the continuing U.S.-Israeli war with Iran and attacks affecting shipping. The taxonomy contains the controlled phenomenon war-armed-conflict. Under RESEARCH-PUBLISHING.md and CONFLICT-SECURITY-SOCIAL-CHANGE.md, an empty phenomena array is appropriate only when no controlled phenomenon is materially relevant.",
-      "required_correction": "Add the controlled phenomenon 'war-armed-conflict' to the pending sidecar. Preserve the current cautious attribution to the IEA and Reuters and the explicit limitation that responsibility for every individual maritime incident is not established. Do not create a new program or invent a new phenomenon identifier."
-    },
-    {
-      "severity": "minor",
-      "code": "FORMULAIC_DISTINCTION_METADISCOURSE",
-      "paths": [
-        "staging/research/2026/11/2026-11-23-global-macro/en.md",
-        "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:52 and en.md:138 — repeated 'The distinction matters' / 'This distinction ... matters' construction",
-        "pt-BR.md:52 and pt-BR.md:138 — equivalent repeated 'A distinção importa' / 'A diferença ... importa' construction"
-      ],
-      "evidence": "RESEARCH-PUBLISHING.md and EDITORIAL-STYLE.md instruct editors to remove repeated formulaic metadiscourse when the analytical point can be stated directly. The same construction is used twice in each locale.",
-      "required_correction": "Rewrite both passages as direct explanations of procurement behavior and refined-product cost transmission, without reader-facing signposting. Preserve the economic mechanisms and update both locales together."
-    },
-    {
-      "severity": "minor",
-      "code": "COMEXSTAT_QUERY_ARTIFACT_NOT_PRESERVED",
-      "paths": [
-        "data/pending/2026-11-23-global-macro.json",
-        "staging/research/2026/11/2026-11-23-global-macro/en.md",
-        "staging/research/2026/11/2026-11-23-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "pending producer_checks.key_constraints and source_audit — Brazil product-level export values are described as calculated from MDIC Comex Stat NCM 2601 data",
-        "en.md: export-corridor table and references [8]",
-        "pt-BR.md: tabela de corredores de exportação e referência [8]"
-      ],
-      "evidence": "The linked URL is the consolidated trade-data page rather than a preserved query result or exported CSV. The text gives NCM 2601 and October 2026, and the reported volume/value are consistent with contemporaneous reporting, but an independent reader cannot retrieve the exact extraction directly from the cited link alone.",
-      "required_correction": "Preserve the exact Comex Stat query URL or a source CSV/export with NCM 2601, export flow, October 2026 period, FOB value and net mass. State the unit-value calculation explicitly as FOB value divided by net mass; do not present the derived unit value as a quoted market price."
+      "evidence": "A find for '46.2' in the cited Reuters Euro-zone article returns no match; the Germany article supports the 55.0 figure only. Reuters' separate France report, syndicated by Euronext at 09:18 CET on 23 November 2026 (05:18 BRT), explicitly states that the Flash France Composite PMI Output Index fell to 46.2 from 46.6 in October and attributes the survey to S&P Global: https://live.euronext.com/en/financial-news/french-private-sector-downturn-deepens-six-month-low-pmi-shows. The same figure appears in Reuters' syndicated copy at https://www.investing.com/news/economic-indicators/french-private-sector-downturn-deepens-to-sixmonth-low-pmi-shows-5044618. This evidence is within the declared 06:20 BRT cutoff, but it is absent from both staged reference lists.",
+      "required_correction": "Add a source that explicitly supports the French Flash Composite PMI at 46.2 to both bibliographies, preferably the official S&P Global flash France PMI release if accessible; otherwise cite the Reuters report syndicated by Euronext. Add citation [23] immediately to the France 46.2 claim in both EN and PT-BR. Update source_audit and bilingual reference counts to 23, market_reporting_sources to 6, urls_unique to 23, and distinct domains to 16. Keep the reading labelled as a survey, not official output."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
@@ -184,8 +133,14 @@
     "no_fourth_rejection": true
   },
   "publication_prerequisites": [
-    "After a corrected revision is approved, the publisher must append a reconciliation-ledger run naming MT-GM-2026-11-23 and recording evidence-based decisions for all active reconciliation-required assets in data/system-registry.json; no asset update may be inferred from this report.",
-    "The repository-wide public build must be repaired independently; current HEAD workflow 45154299409 fails on public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR. This is not a defect in the present candidate."
+    "After a corrected revision is approved, the publisher must record evidence-based decisions for all active reconciliation-required assets in data/system-registry.json.",
+    "The repository-wide public build must be repaired independently; workflow 45157096746 fails on public MT-GM-2026-11-18 revision 5 self-reference at line 60 in EN and PT-BR."
   ],
-  "notes": "First rejection for MT-GM-2026-11-23. The pending sidecar does not declare a revision; QA treats the initial state as revision 0. A corrected resubmission must retain the canonical ID and slug, explicitly set revision 1, and change all three source blobs (pending, EN and PT-BR). The exact rejected tuple is pending 1853242dbea863af8227836eff426ddedeca0e09, EN 94e0f09994358120cfe8adc1381233239393bb63, PT-BR e81f017070e55eb9867ba16b7cf472ea6a1e2336. Recheck only after a complete corrected tuple is committed. The candidate-specific depth and strict pipeline checks passed; rejection is based on material source-reference and controlled-phenomenon defects, not on insufficient word count or visual budget. No approval is granted. No reports/**, public index, CSS, taxonomy or institutional content was modified."
+  "notes": "Second rejection for MT-GM-2026-11-23, now revision 1. Revision 0's material source-mapping and taxonomy defects are resolved. The only new material defect is the unsupported citation for the France Flash Composite PMI value 46.2 in both editions. Corrected resubmission must preserve canonical ID/slug, explicitly set revision 2, add a source that contains the 46.2 value and cite it in both locales, update source-audit counts, and change all three blob SHAs. Revision 1 tuple: pending e6d2cd0279586ad048a220e1fbd64035c28082ce; EN 97c611bc8e0780aa77f559d3a35b198be1fa39ec; PT-BR 3b22206ccfa5f7b24f01f7d2471627d2da218d39. The immediate MT 1/5 run produced revision 1; this second rejection is now recorded in the actual GitHub queue for the next producer cycle.",
+  "resolved_previous_issues": [
+    "FOMC and ECB source-reference mapping corrected; official ECB Financial Stability Review added as reference 15.",
+    "EN Simandou shipment citation corrected from Pilbara Ports [9] to SimFer [10], matching PT-BR.",
+    "Controlled war-armed-conflict phenomenon added to pending v2.",
+    "Repeated formulaic distinction-signposting rewritten in both locales."
+  ]
 }
