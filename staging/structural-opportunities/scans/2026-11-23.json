@@ -1,0 +1,280 @@
+{
+  "scan_run_id": "SOA-2026-11-23-01",
+  "date": "2026-11-23",
+  "reviewed_at": "2026-11-23T06:20:00-03:00",
+  "timezone": "America/Sao_Paulo",
+  "idempotency_key": "2026-11-23",
+  "scan_version": 1,
+  "scan_scope": {
+    "dimensions": [
+      "infrastructure",
+      "energy",
+      "regulation",
+      "logistics",
+      "productivity",
+      "capital_access",
+      "production",
+      "institutions"
+    ],
+    "regions": [
+      "China",
+      "Brazil",
+      "Australia",
+      "Guinea",
+      "European Union",
+      "United States",
+      "Gulf"
+    ],
+    "sectors": [
+      "iron ore",
+      "steel",
+      "ports",
+      "railways",
+      "mining services",
+      "industrial energy",
+      "animal-health diagnostics",
+      "AMR surveillance"
+    ],
+    "discovery_expansion": [
+      "resource corridors in West Africa",
+      "ore logistics and port inventory systems",
+      "industrial energy and refined-product bottlenecks",
+      "veterinary diagnostic and farm-record infrastructure"
+    ]
+  },
+  "primary_sources": [
+    {
+      "id": "S01",
+      "title": "NBS China industrial production, October 2026",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html",
+      "type": "government-statistics",
+      "finding": "Industrial value added +4.8% y/y; high-tech manufacturing +17.6%; ferrous-metal output weaker."
+    },
+    {
+      "id": "S02",
+      "title": "China Mining Association / GACC iron-ore imports",
+      "url": "https://chinamining.org.cn/index.php/news/4/16258",
+      "type": "customs-data-relay",
+      "finding": "Iron-ore imports +3.1% Jan–Oct while steel output contracts; inventory bridge remains unresolved."
+    },
+    {
+      "id": "S03",
+      "title": "SteelHome China port inventory survey",
+      "url": "https://en.steelhome.com/news/3587392",
+      "type": "industry-survey",
+      "finding": "Port stocks 157.36 Mt, +1.16 Mt w/w; trader-held stocks are an estimate, not a full official census."
+    },
+    {
+      "id": "S04",
+      "title": "World Steel Association September production",
+      "url": "https://worldsteel.org/media/press-releases/2026/september-2026-crude-steel-production/",
+      "type": "industry-statistics",
+      "finding": "Global crude-steel output down 0.7% Jan–Sep; regional dispersion persists."
+    },
+    {
+      "id": "S05",
+      "title": "MDIC Comex Stat",
+      "url": "https://balanca.economia.gov.br/balanca/publicacoes_dados_consolidados/pg.html",
+      "type": "government-trade-database",
+      "finding": "Brazilian NCM 2601 export volume and unit value lower in October; product-level extraction is reproducible."
+    },
+    {
+      "id": "S06",
+      "title": "Pilbara Ports October shipping figures",
+      "url": "https://www.pilbaraports.com.au/about-pilbara-ports/news%2C-media-and-statistics/news/2026/november/october-2026-shipping-figures",
+      "type": "port-authority-statistics",
+      "finding": "Port Hedland iron-ore exports down 4% y/y in October."
+    },
+    {
+      "id": "S07",
+      "title": "Rio Tinto / SimFer Simandou progress",
+      "url": "https://riotintoguinee.com/en/media/press-release/simfer-advances-the-simandou-project-at-pace-reaching-new-operational-milestones/",
+      "type": "company-project-disclosure",
+      "finding": "2.2 Mt shipped in H1; mine and port remain short of full completion."
+    },
+    {
+      "id": "S08",
+      "title": "Government of Guinea — Simandou 2040",
+      "url": "https://gouvernement.gov.gn/simandou-2040-le-comite-strategique-renforce-le-suivi-du-megaprojet-et-examine-le-fonds-souverain/",
+      "type": "government-institutional-update",
+      "finding": "Sovereign-fund law ratification process reviewed; no completed capitalization or operation confirmed."
+    },
+    {
+      "id": "S09",
+      "title": "International Energy Agency Oil Market Report — November 2026",
+      "url": "https://www.iea.org/reports/oil-market-report-november-2026",
+      "type": "intergovernmental-energy-data",
+      "finding": "Crude supply has recovered, but refined-product stocks, diesel and freight remain constrained."
+    },
+    {
+      "id": "S10",
+      "title": "ECB Financial Stability Review — November 2026",
+      "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "type": "central-bank-financial-stability",
+      "finding": "Non-bank leverage, sovereign funding and liquidity mismatch are relevant financing constraints; no project-level financing data."
+    },
+    {
+      "id": "S11",
+      "title": "Central Bank of Brazil fiscal statistics",
+      "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais",
+      "type": "central-bank-statistics",
+      "finding": "High interest burden and debt stock constrain fiscal room; no direct new project-finance commitment."
+    },
+    {
+      "id": "S12",
+      "title": "WOAH ANIMUSE Global Report — 2024 data",
+      "url": "https://www.woah.org/app/uploads/2026/11/animuseglobalreporten.pdf",
+      "type": "intergovernmental-animal-health-data",
+      "finding": "Only five of 119 quantitative participants used farm records; diagnostic and data infrastructure gap is measurable, but no procurement or funding pipeline is established."
+    },
+    {
+      "id": "S13",
+      "title": "WHO TrACSS 2026",
+      "url": "https://www.who.int/vanuatu/news/detail-global/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+      "type": "intergovernmental-health-governance",
+      "finding": "Only 36% report reference-laboratory capacity and 22% funded, fully implemented national plans."
+    },
+    {
+      "id": "S14",
+      "title": "ECDC/WHO Europe AMR surveillance 2025 data",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/surveillance-antimicrobial-resistance-europe-2025-data",
+      "type": "public-health-surveillance",
+      "finding": "Resistance in invasive isolates remains high; surveillance and laboratory capacity are institutional constraints."
+    },
+    {
+      "id": "S15",
+      "title": "Anvisa PARA 2026 sampling plan",
+      "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-inicia-execucao-do-novo-plano-plurianual-de-monitoramento-de-residuos-de-agrotoxicos-em-alimentos",
+      "type": "regulatory-monitoring",
+      "finding": "3,613 food samples scheduled; no results available before the sampling period closes."
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "H-2026-11-23-01",
+      "title": "Port inventory, blending and grade-management services in the China ore corridor",
+      "mechanism": "A sustained gap between ore inflows and steel output may increase demand for storage, blending, stock visibility, quality assurance and working-capital services across ports and traders.",
+      "evidence": [
+        "China ore imports +3.1% Jan–Oct",
+        "Crude steel output −2.8% Jan–Oct",
+        "SteelHome monitored port stocks +1.16 Mt w/w"
+      ],
+      "missing_evidence": [
+        "Terminal-level capacity utilization",
+        "Inventory ownership and financing terms",
+        "Grade-specific premiums and blending margins",
+        "Verified mill stock data",
+        "Longitudinal procurement contracts"
+      ],
+      "status": "hypothesis_only",
+      "decision": "not promoted; no validated buyer, procurement, project economics or durable bottleneck established"
+    },
+    {
+      "id": "H-2026-11-23-02",
+      "title": "Simandou rail-port supplier, maintenance and workforce ecosystem",
+      "mechanism": "The transition from first shipments to full port commissioning may create demand for maintenance, rolling stock, port equipment, inspection, training and local industrial suppliers.",
+      "evidence": [
+        "2.2 Mt shipped in H1 2026",
+        "Railway reported fully commissioned in Q1",
+        "Mine 77% and port 85% complete in company disclosure",
+        "Guinean government reviewed sovereign-fund ratification process"
+      ],
+      "missing_evidence": [
+        "Procurement pipeline and tender awards",
+        "Local-content contracts and supplier qualification",
+        "Project finance drawdowns",
+        "Operating cost and throughput series",
+        "Completed ratification, fund capitalization and governance rules"
+      ],
+      "status": "hypothesis_only",
+      "decision": "not promoted; construction milestones and policy discussion do not establish an investable supplier opportunity"
+    },
+    {
+      "id": "H-2026-11-23-03",
+      "title": "Brazilian iron-ore value-chain adaptation to lower realized export prices",
+      "mechanism": "Lower unit values and volumes may change the economics of beneficiation, logistics optimization, product quality and capital allocation by exporters.",
+      "evidence": [
+        "October NCM 2601 export value −27.6% y/y",
+        "Export volume −8.9% y/y",
+        "Implied unit value −20.5% y/y"
+      ],
+      "missing_evidence": [
+        "New project approvals",
+        "Committed capex and financing",
+        "Capacity utilization and cost curves",
+        "Contracted offtake and realized premiums",
+        "Evidence that processing economics changed"
+      ],
+      "status": "hypothesis_only",
+      "decision": "not promoted; price and volume pressure alone do not identify a viable project or structural bottleneck"
+    },
+    {
+      "id": "H-2026-11-23-04",
+      "title": "Veterinary diagnostics and farm-level antimicrobial-use records",
+      "mechanism": "The gap between national AMR plans and laboratory capacity, together with the low share of farm-record reporting, may create demand for diagnostic networks, veterinary data systems and traceability.",
+      "evidence": [
+        "WHO TrACSS: 36% reference-laboratory capacity",
+        "WOAH ANIMUSE: five of 119 quantitative participants used farm records",
+        "ECDC/WHO Europe: persistent resistance in invasive isolates"
+      ],
+      "missing_evidence": [
+        "Public procurement notices and budgets",
+        "Named buyers and deployed systems",
+        "Laboratory utilization and quality indicators",
+        "Farm-level adoption and retention",
+        "Unit economics and reimbursement"
+      ],
+      "status": "hypothesis_only",
+      "decision": "not promoted; policy need is established, but a funded procurement or operating opportunity is not"
+    },
+    {
+      "id": "H-2026-11-23-05",
+      "title": "Industrial energy and refined-product logistics as a cost bottleneck",
+      "mechanism": "Diesel, freight and refined-product constraints may keep delivered industrial energy costs high even when crude benchmarks ease.",
+      "evidence": [
+        "IEA November report: crude supply recovery alongside low on-land stocks and elevated diesel prices",
+        "Mining and steel remain energy- and logistics-intensive"
+      ],
+      "missing_evidence": [
+        "Route-level delivered fuel prices",
+        "Contracted freight and insurance rates",
+        "Specific capacity constraints and utilization",
+        "New infrastructure approvals and financing"
+      ],
+      "status": "hypothesis_only",
+      "decision": "not promoted; broad macro risk is not a project-level opportunity"
+    }
+  ],
+  "new_candidates": [],
+  "candidate_count": 0,
+  "canonical_atlas_modified": false,
+  "idempotency": {
+    "key": "2026-11-23",
+    "daily_scan_written": true,
+    "prior_scan_checked": "2026-11-22",
+    "duplicate_scan": false
+  },
+  "screening_result": {
+    "source_count": 15,
+    "dimensions_reviewed": [
+      "infrastructure",
+      "energy",
+      "regulation",
+      "logistics",
+      "productivity",
+      "capital_access",
+      "production",
+      "institutions"
+    ],
+    "discovery_expanded": true,
+    "candidate_threshold": "No candidate promoted without a named buyer or public procurement, committed financing, measurable operating bottleneck, evidence of utilization or project execution, and a defensible economic mechanism.",
+    "result": "Five research hypotheses retained for follow-up; zero new candidates."
+  },
+  "limitations": [
+    "The iron-ore and steel mismatch is a market signal, not proof of a durable shortage or surplus.",
+    "Simandou project milestones are company-reported; port completion, financing drawdowns and local supplier contracts are not yet independently established.",
+    "The Guinea sovereign-fund ratification process is not proof of an operational fund.",
+    "AMR laboratory and farm-record gaps indicate policy need, not a confirmed procurement opportunity.",
+    "No new project-level financing close, utilization series, procurement award or completed commissioning was found for the hypotheses."
+  ]
+}
