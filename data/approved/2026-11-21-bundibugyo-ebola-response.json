@@ -2,9 +2,9 @@
   "schema_version": 2,
   "id": "MT-PH-2026-11-21-bundibugyo-response",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-21T19:45:45-03:00",
-  "reviewed_commit": "0cec997a850cdad5c91d91afa1f2702dcbc60bcd",
-  "pending_blob_sha": "21e23696a2fa0f46d74468354722a39f8e371e1d",
+  "reviewed_at": "2026-11-23T12:18:25.340Z",
+  "reviewed_commit": "4df6f31403ece745ad6399803d4c875b537ee8f6",
+  "pending_blob_sha": "dcb77e31c52c2c173d260a08f2f73be0c9792225",
   "source_blob_shas": {
     "en": "15a556874fd6d7d2734aca612581651905644d35",
     "pt-BR": "d1588229e30324f863e76e6f8b0b18664c9fd077"
@@ -15,7 +15,7 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both complete staged Markdown editions were reread at the reviewed HEAD. The Swiss Federal Council release, WHO 20 November Disease Outbreak News and WHO 17 May IHR determination were opened as primary sources; all 13 numbered references are present in both locales."
+      "summary": "Revision-5 pending object and the unchanged EN/PT-BR staged Markdown blobs were verified against the revised approval snapshot. Only the PT-BR title metadata changed."
     },
     "schema_and_taxonomy": {
       "result": "passed",
@@ -55,11 +55,11 @@
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "The material Swiss/UK attribution defect, the unbounded negative IHR statement and both reader-facing self-references are corrected in EN/PT-BR. References remain at the end; no internal QA labels or product/process language appears in the public prose."
+      "summary": "PT-BR title now uses 'principal obstáculo' consistently and no longer contains the prohibited term. This is title-only; the underlying report's facts, evidence and analysis remain unchanged."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "scripts/validate-pipeline.mjs passed on the reviewed HEAD: 207 public bundles, zero unpublished pending items recognized by the publisher gate, zero approved-unpublished items and six legacy pending records already public."
+      "summary": "The source of the previous public build mismatch was the PT-BR title term being transformed by final editorial cleanup while its metadata retained the previous form. The title now uses an allowed, equivalent expression. Full validation is rerun through GitHub Actions."
     },
     "editorial_depth_script": {
       "result": "passed",
@@ -91,7 +91,7 @@
     "The new regional map uses country-level status cards, not geographic coordinates. DRC counts are as of 17 November, WHO's update is dated 20 November, and South Sudan readiness refers to October; these are not a synchronized snapshot.",
     "The repository-wide public build remains blocked by a separate self-reference in MT-GM-2026-11-18 revision 5 (public EN/PT-BR line 60); this is not a defect in the reviewed Bundibugyo candidate and does not alter the content QA decision."
   ],
-  "notes": "Revision 4 resolves the two material issues from revision 3. The prior rejection history is preserved in data/rejected; this approval is tied to the exact current pending and EN/PT-BR Git blob SHAs. No public report, public index, CSS, taxonomy or institutional copy was changed by QA. The repository-wide build still fails on the unrelated MT-GM-2026-11-18 revision 5 self-reference; approval does not mean published or deployed. The approval record also preserves the canonical slug, revision and program at top level and explicitly records corpus novelty and reconciliation-ledger consistency; the immutable publication snapshot and all three source fingerprints remain unchanged.",
+  "notes": "Revision 4 resolves the two material issues from revision 3. The prior rejection history is preserved in data/rejected; this approval is tied to the exact current pending and EN/PT-BR Git blob SHAs. No public report, public index, CSS, taxonomy or institutional copy was changed by QA. The repository-wide build still fails on the unrelated MT-GM-2026-11-18 revision 5 self-reference; approval does not mean published or deployed. The approval record also preserves the canonical slug, revision and program at top level and explicitly records corpus novelty and reconciliation-ledger consistency; the immutable publication snapshot and all three source fingerprints remain unchanged. Revision 5 re-approved as a title-only editorial consistency fix: the PT-BR public title is aligned with the rendered page heading and the public-language lint. No source evidence, numbers, attribution, analysis or epidemiological conclusion changed.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -138,7 +138,7 @@
       },
       "pt-BR": {
         "markdown": "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md",
-        "title": "A capacidade de resposta cresceu, mas o acesso às comunidades continua sendo o principal gargalo",
+        "title": "A capacidade de resposta cresceu, mas o acesso às comunidades continua sendo o principal obstáculo",
         "deck": "Seis meses após o início do surto na RDC, são registrados 11.613 casos confirmados e 5.678 mortes. A decisão do diretor-geral de 17 de maio reconheceu uma ESPII, não uma emergência pandêmica; a decisão de 18 de novembro manteve a ESPII.",
         "tags": [
           "saúde pública",
@@ -290,10 +290,13 @@
       "qa_rework": "Revision 4 corrects the Swiss evacuation's origin and unsupported occupation, distinguishes it from the UK health-worker evacuation, bounds the IHR statement to what the 20 November WHO notice reports, removes reader-facing self-reference in EN/PT-BR and adds the Swiss Federal Council release as reference 13."
     },
     "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
-    "revision": 4,
-    "revision_reason": "Revision 4 separates the Swiss and UK medical evacuations, identifies Nigeria as the origin of the Swiss flight without inferring the patient's occupation, replaces the unbounded negative claim about the third IHR Committee meeting with source-bounded wording, removes reader-facing self-reference in both locales and adds the Swiss Federal Council's primary release."
+    "revision": 5,
+    "revision_reason": "Revision 5 aligns the Brazilian Portuguese public title with the rendered report heading and replaces a term prohibited by the public-language lint. No epidemiological statement, source, observation, statistic, chart or conclusion changed.",
+    "qa_fixes_applied": [
+      "Revision 5: PT-BR title aligned across metadata and public rendering; the wording now uses 'principal obstáculo'. No report evidence changed."
+    ]
   },
   "slug": "2026-11-21-bundibugyo-ebola-response",
-  "revision": 4,
+  "revision": 5,
   "program": "political-economy-markets"
 }

@@ -44,7 +44,7 @@
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-21-bundibugyo-ebola-response/pt-BR.md",
-      "title": "A capacidade de resposta cresceu, mas o acesso às comunidades continua sendo o principal gargalo",
+      "title": "A capacidade de resposta cresceu, mas o acesso às comunidades continua sendo o principal obstáculo",
       "deck": "Seis meses após o início do surto na RDC, são registrados 11.613 casos confirmados e 5.678 mortes. A decisão do diretor-geral de 17 de maio reconheceu uma ESPII, não uma emergência pandêmica; a decisão de 18 de novembro manteve a ESPII.",
       "tags": [
         "saúde pública",
@@ -196,6 +196,9 @@
     "qa_rework": "Revision 4 corrects the Swiss evacuation's origin and unsupported occupation, distinguishes it from the UK health-worker evacuation, bounds the IHR statement to what the 20 November WHO notice reports, removes reader-facing self-reference in EN/PT-BR and adds the Swiss Federal Council release as reference 13."
   },
   "url": "/reports/2026/11/2026-11-21-bundibugyo-ebola-response.html",
-  "revision": 4,
-  "revision_reason": "Revision 4 separates the Swiss and UK medical evacuations, identifies Nigeria as the origin of the Swiss flight without inferring the patient's occupation, replaces the unbounded negative claim about the third IHR Committee meeting with source-bounded wording, removes reader-facing self-reference in both locales and adds the Swiss Federal Council's primary release."
+  "revision": 5,
+  "revision_reason": "Revision 5 aligns the Brazilian Portuguese public title with the rendered report heading and replaces a term prohibited by the public-language lint. No epidemiological statement, source, observation, statistic, chart or conclusion changed.",
+  "qa_fixes_applied": [
+    "Revision 5: PT-BR title aligned across metadata and public rendering; the wording now uses 'principal obstáculo'. No report evidence changed."
+  ]
 }
